@@ -21,8 +21,9 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 **ENG Proof:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 
 {% note info %}
 **Location:** Yumenosaki Academy Front Gate
