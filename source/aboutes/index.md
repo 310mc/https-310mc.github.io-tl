@@ -1,6 +1,6 @@
 ---
 title: About Ensemble Stars
-description: Coming soon!
+description: The difference between Ensemble Stars! and Ensemble Stars!!
 ---
 
 Ensemble Stars is an idol-training game that originally released in 2015 as *Ensemble Stars!*. The player (Known as *Anzu*) was introduced to Yumenosaki Private Academy, which hosts an all-male idol training course.

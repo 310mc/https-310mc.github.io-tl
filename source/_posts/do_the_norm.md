@@ -16,14 +16,13 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 **Series:** [Ensemble Stars](/categories/enstars)
 **Writer:** [Yuumasu](/tags/Yuumasu)
 **Characters:** [Midori](/categories/enstars/Midori), [Chiaki](/categories/enstars/Chiaki), [Aira](/categories/enstars/Aira)
-**Era:** [ES!!](/about_es)
+**Era:** [ES!!](/aboutes)
 **Season:** Summer
 **ENG Proof:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
 
 <!-- more -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
 
 {% note info %}
 **Location:** Yumenosaki Academy Front Gate
@@ -57,7 +56,7 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 <th>(—… Oh, he’s here!)</th>
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble MidoriHappy %}
 <th>(Sigh… so depressing…)</th>
 
 <th>(That guy told me upfront that he’s showing up to the club as a former club member, so I tried coming, too…)</th>
@@ -83,7 +82,7 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 Takamine-senpai, thank you for your hard work today!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori happy %}
 —W-Woah?
 
 You surprised me… Umm, you’re Shiratori-kun from Alkaloid, right? Uh, what’re you doing here…?
