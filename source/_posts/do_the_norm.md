@@ -57,7 +57,7 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 <th>(—… Oh, he’s here!)</th>
 {% endbubble %}
 
-{% bubble Midori happy %}
+{% bubble Midori %}
 <th>(Sigh… so depressing…)</th>
 
 <th>(That guy told me upfront that he’s showing up to the club as a former club member, so I tried coming, too…)</th>
