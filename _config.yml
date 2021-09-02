@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: こっちを向いて
-subtitle: 'oh, fly me to the star'
-description: 'JP-EN translation archive'
+title: With the five of us together...!
+subtitle: 'We are Ryuseitai!'
+description: '310mc Fan Translations'
 keywords:
-author: Ren
+author: 310mc
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://watatomo.github.io/tl
-root: /tl/
-permalink: post/:title/
+url: https://310mc.github.io
+root:
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
@@ -114,8 +114,8 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/watatomo/tl
-  branch: master
+  repo: https://github.com/310mc/310mc.github.io
+  branch: main
   message: "{{ now('MM/DD/YYYY HH:mm:ss') }}"
 
 marked:

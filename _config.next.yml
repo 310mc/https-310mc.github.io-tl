@@ -50,11 +50,11 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: https://watatomo.github.io/favicon-16x16.png
-  medium: https://watatomo.github.io/favicon-32x32.png
-  apple_touch_icon: https://watatomo.github.io/apple-touch-icon.png
-  safari_pinned_tab: https://watatomo.github.io/safari-pinned-tab.svg
-  android_manifest: https://watatomo.github.io/site.webmanifest
+  small: /img/fav/favicon-16x16.png
+  medium: /img/fav/favicon-32x32.png
+  apple_touch_icon: /img/fav/apple-touch-icon.png
+  safari_pinned_tab: /img/fav/safari-pinned-tab.svg
+  android_manifest: /img/fav/site.webmanifest
 
 # Custom Logo (Warning: Do not support scheme Mist)
 custom_logo: #/uploads/custom-logo.jpg
@@ -128,7 +128,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /img/avatar.png
+  url: /img/fav/siteicon.png
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
@@ -142,14 +142,14 @@ site_state: false
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/watatomo || fab fa-github
+  #GitHub: https://github.com/watatomo || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  Twitter: https://twitter.com/riamuyumemi || fab fa-twitter
+  Twitter: https://twitter.com/310mc1 || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
-  YouTube: https://youtube.com/channel/UCIfZPAkX_O4ManaK_n3mC4g || fab fa-youtube
+  #YouTube: https://youtube.com/channel/UCIfZPAkX_O4ManaK_n3mC4g || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
@@ -204,7 +204,7 @@ footer:
     color: ""
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: Ren (watatomo)
+  copyright: 310mc
 
   # Powered by Hexo & NexT
   powered: false
@@ -430,7 +430,7 @@ font:
   global:
     external: true
     family: Inter
-    size: 0.9
+    size: 1.0
 
   # Font settings for site title (.site-title).
   title:
