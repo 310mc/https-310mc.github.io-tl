@@ -11,31 +11,35 @@ tags:
 description: "An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery."
 ---
 
-This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story.
+![](https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Basketball_Connections%29_Aira_Shiratori_M_Bloomed.png)
+:-:|:-:
+
+Aira goes to school for once and has an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story. You can unlock this story from the card [[Basketball Connections] Aira Shiratori](https://ensemble-stars.fandom.com/wiki/(Basketball_Connections)_Aira_Shiratori).
 
 **Series:** [Ensemble Stars](/categories/enstars)
 **Writer:** [Yuumasu](/tags/Yuumasu)
 **Characters:** [Midori](/categories/enstars/Midori), [Chiaki](/categories/enstars/Chiaki), [Aira](/categories/enstars/Aira)
 **Era:** [ES!!](/aboutes)
 **Season:** Summer
+**TL:** [310mc](https://310mc.github.io/)
 **ENG Proof:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
 
-{% note info %}
+{% note location %}
 **Location:** Yumenosaki Academy Front Gate
 {% endnote %}
 
-{% img /img/es/idolstory/do_the_norm/1.png %}
+{% img /img/es/idolstory/do_the_norm/1.jpg %}
 
 {% bubble Aira %}
 <th>(Hmhmhmmm~♪ You’ve always gotta ask an idol whenever you’re in trouble!)</th>
 
 <th>(Though, well— I wasn’t actually in trouble or anything…)</th>
 
-<th>(But UNDEAD taught me a valuable lesson in Idol ☆ Hijack:[^1] It’s important to do the norm without complaints!)</th>
+<th>(But UNDEAD taught me a valuable lesson in Idol ☆ Hijack: It’s important to do the norm without complaints!)</th>
 
 <th>(I thought going to school would be a waste of time, but since I got advice from idols, I figured that I could try going to my club…)</th>
 
@@ -51,12 +55,14 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 
 <th>(Besides, it’ll be tricky to send a message on another occasion if they find out that the “Love-swan” pen name was me.)</th>
 
-<th>(I did my best keeping it a secret that every week, I’ve been listening to their podcast in bed with my earphones! I don’t want all of my effort to go to waste!)</th>[^2]
+<th>(I did my best keeping it a secret that every week, I’ve been listening to their podcast in bed with my earphones! I don’t want all of my effort to go to waste!)</th>[^1]
 
 <th>(—… Oh, he’s here!)</th>
 {% endbubble %}
 
-{% bubble MidoriHappy %}
+{% img /img/es/idolstory/do_the_norm/2.jpg %}
+
+{% bubble Midori %}
 <th>(Sigh… so depressing…)</th>
 
 <th>(That guy told me upfront that he’s showing up to the club as a former club member, so I tried coming, too…)</th>
@@ -82,7 +88,7 @@ This is an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to s
 Takamine-senpai, thank you for your hard work today!
 {% endbubble %}
 
-{% bubble Midori happy %}
+{% bubble Midori %}
 —W-Woah?
 
 You surprised me… Umm, you’re Shiratori-kun from Alkaloid, right? Uh, what’re you doing here…?
@@ -132,11 +138,11 @@ M-Mhm…
 <th>(I’m such a bore to be with, though… He’s just gonna be disappointed…)</th>
 {% endbubble %}
 
-{% note info %}
+{% note location %}
 **Location:** Time Street
 {% endnote %}
 
-{% img /img/es/idolstory/do_the_norm/2.png %}
+{% img /img/es/idolstory/do_the_norm/3.jpg %}
 
 {% bubble Aira %}
 —And the look you had in your eyes right when you got the ball was super duper ra-vely!
@@ -167,7 +173,7 @@ Ah, yeah, you like idols… I’m guessing that you tell other idols how happy a
 {% bubble Aira %}
 Yup, you bet it! Every idol has something great about them, and I love each and every one of them~!
 
-Like, you’ve got a slightly different feel to you depending on whether you’re in Ryuseitai-M or Ryuseitai-N.[^3]
+Like, you’ve got a slightly different feel to you depending on whether you’re in Ryuseitai-M or Ryuseitai-N.[^2]
 
 Your expressions are a little softer when you’re in Ryuseitai-M, it’s sooo ra-vely~♪
 {% endbubble %}
@@ -196,6 +202,8 @@ Really? But you looked like you were really having fun playing with Morisawa-sen
 What… No way…
 {% endbubble %}
 
+{% img /img/es/idolstory/do_the_norm/4.jpg %}
+
 {% bubble Chiaki %}
 There you are, Takamine! You didn’t have to leave without me! That’s mean!
 {% endbubble %}
@@ -211,6 +219,8 @@ It’s Morisawa-senpai~! Wow, it’s like, “speak of the devil” and stuff, h
 {% bubble Chiaki %}
 Oh? You were talking about me?
 {% endbubble %}
+
+{% img /img/es/idolstory/do_the_norm/5.jpg %}
 
 {% bubble Midori %}
 No, um, we weren’t. Don’t worry about it…
@@ -249,8 +259,6 @@ Ughh, Shiratori-kun, don’t drag me with you… And Morisawa-senpai, you’re j
 {% endbubble %}
 
 ## Translation Notes
-[^1]: A radio Rei and Kaoru were part of in this story.
+[^1]: Aira is roommates with Rei and Eichi post-main story, so that might be the reason why.
 
-[^2]: Aira is roommates with Rei and Eichi post-main story, so that might be the reason why.
-
-[^3]: Ryuseitai-M = Morisawa, the unit under StarPro. Ryuseitai-N = Nagumo, the unit within Yumenosaki.
+[^2]: Ryuseitai-M = Morisawa, the unit under StarPro. Ryuseitai-N = Nagumo, the unit within Yumenosaki.
