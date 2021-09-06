@@ -14,7 +14,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 
 ## Story Details
@@ -30,7 +29,7 @@ hidden: true
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 1
 {% note location %}
@@ -384,7 +383,6 @@ Mhm, I will\~! It’s dangerous to walk at night, so we’ll go home together\~!
 I didn’t say you could do *that*! Stay, stay! You’re so overbearing, oh my *God*…!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch3_1.jpg %}
-
 {% bubble Subaru sad %}
 … Senpai, did you…
 
@@ -1166,8 +1164,8 @@ I hold a different perspective than the one you two hold, and therefore I may be
 <th>(And then, from their rage and need for revenge, they may hurt him.)</th>
 
 <th>(… He hasn’t even done anything wrong. All he’s been doing is granting “wishes”…)</th>
-{% img /img/es/eventstory/meteorimpact/secondhalfch8_1.jpg %}
 {% endbubble %}
+{% img /img/es/eventstory/meteorimpact/secondhalfch8_1.jpg %}
 {% bubble Madara %}
 Heeeey! Chiaki-saaaan!
 

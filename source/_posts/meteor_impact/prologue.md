@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 
 ## Story Details
@@ -26,7 +25,7 @@ hidden: true
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 {% note location %}
 **Location:** AV Room
@@ -47,17 +46,17 @@ yes~♪ this is the Result of everyone’s combined powers! an incredible victor
 
 
 {% bubble Chiaki %}
-Kanata…! ♪ (*Offers a handshake*)
+Kanata…! ♪ <th>*(Offers a handshake)*</th>
 {% endbubble %}
 
 
 {% bubble Kanata %}
-chiaki…! ☆ (*Hugs him instead*)
+chiaki…! ☆ <th>*(Hugs him instead)*</th>
 
 {% endbubble %}
 
 {% bubble Chiaki %}
-Fuhahahaha~! *(Both twirl around)*
+Fuhahahaha~! <th>*(Both twirl around)*</th>
 {% endbubble %}
 
 
@@ -179,16 +178,16 @@ Owow, owowowow!? Be a little gentle at least, please! If you don’t calm down a
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/prologue_2.jpg %}
 {% bubble Shinobu %}
-(*whispering*) Midori-kun, Midori-kun. Is it just me, or is Taichou-dono acting a little strange today?
+<th>*(whispering)*</th> Midori-kun, Midori-kun. Is it just me, or is Taichou-dono acting a little strange today?
 
-(*whispering*) He is constantly hugging us over anything, like he is far more hyper than usual…?
+<th>*(whispering)*</th> He is constantly hugging us over anything, like he is far more hyper than usual…?
 
 {% endbubble %}
 
 {% bubble Midori %}
-(*whispering*) Uh? I’m pretty sure he’s always been like that.
+<th>*(whispering)*</th> Uh? I’m pretty sure he’s always been like that.
 
-(*whispering*) Wait, why’re you even asking me… I’m honestly so exhausted, I can’t even use my brain… Shinkai-senpai has been with Morisawa-senpai longer than I am, hasn’t he… You should ask him…
+<th>*(whispering)*</th> Wait, why’re you even asking me… I’m honestly so exhausted, I can’t even use my brain… Shinkai-senpai has been with Morisawa-senpai longer than I am, hasn’t he… You should ask him…
 
 {% endbubble %}
 

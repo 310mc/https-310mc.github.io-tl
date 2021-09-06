@@ -12,7 +12,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 
 ## Story Details
@@ -28,7 +27,7 @@ hidden: true
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 27
 {% note location %}
@@ -243,8 +242,6 @@ Because I’m an idol! Because you let me stay as one!
 <th>(That’s why I’ve chosen to make it an S2 — a live show limited within the school premises. I did the bare minimum of advertisement for the performance, and I even chose to hold it during night-time, an inconvenient timing for students.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_1.jpg %}
-
-
 {% bubble KeitoPast cg %}
 <th>(I also set the tickets to an expensive price, and announced that the regulations to obtain one would be strict.)</th>
 
@@ -259,8 +256,6 @@ Because I’m an idol! Because you let me stay as one!
 <th>(It was impossible to get rid of their religious faith entirely, and they aren’t the type that can switch to worship a different God. That’s why it was an extra step I *had* to be sure that we completed.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_2.jpg %}
-
-
 {% bubble KeitoPast cg %}
 <th>(*Hah*. I must say, this is truly horrible of us. The DreamFes seems to be fair on first glance, as long as victory is declared based upon the number of votes…)</th>
 
@@ -289,8 +284,6 @@ Because I’m an idol! Because you let me stay as one!
 <th>(I did assume this would eventually happen, but… this change is much too drastic.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_3.jpg %}
-
-
 {% bubble KeitoPast cg %}
 <th>(All of you students, allow me to ask: Why have you gone this berserk?)</th>
 
@@ -325,8 +318,6 @@ Because I’m an idol! Because you let me stay as one!
 <th>(Those dyed in evil would lash out at each other in a fit of rage and begin to hurt one another until they fall to ruin.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_4.jpg %}
-
-
 {% bubble KeitoPast cg %}
 <th>(Isn’t this unsettling haze swirling around us that very same thing…!?)</th>
 
@@ -515,8 +506,6 @@ But y’know, I don’t dislike that about you.
 Even the part about you that rambles on and on about borin’ logical stuff, but as soon as somethin’ makes ya happy, it all just blows away from you.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/kurobcg.jpg %}
-
-
 {% bubble KuroPast bcg %}
 It’s so naive, and honestly, childish of you… I just can’t leave ya alone, can I? ♪
 

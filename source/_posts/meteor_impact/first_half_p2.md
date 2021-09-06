@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 ## Story Details
 **Series:** [Ensemble Stars](/categories/enstars)
@@ -26,7 +25,7 @@ hidden: true
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 9
 {% note cw %}

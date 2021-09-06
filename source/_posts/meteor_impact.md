@@ -10,7 +10,6 @@ tags:
 - Akira
 - Story Index
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 {% note cw %}
 **Content Warning:** This story deals with topics that may be upsetting for some readers. Please check the content warnings first!

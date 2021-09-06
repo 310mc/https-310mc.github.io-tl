@@ -13,7 +13,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
-hidden: true
 ---
 
 ## Story Details
@@ -28,7 +27,7 @@ hidden: true
 **Chapter Index:** <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Chapter-18">Ch 18</a> - <a href="#Chapter-19">Ch 19</a> - <a href="#Chapter-20">Ch 20</a> - <a href="#Chapter-21">Ch 21</a> - <a href="#Chapter-22">Ch 22</a> - <a href="#Chapter-23">Ch 23</a> - <a href="#Chapter-24">Ch 24</a> - <a href="#Chapter-25">Ch 25</a> - <a href="#Chapter-26">Ch 26</a> - <a href="#Translation-Notes">Translation Notes</a>
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 13
 {% note cw %}
@@ -70,7 +69,6 @@ The Five Eccentrics are the evil that must be exterminated — And we, the Stude
 That is the tale we’ll be writing. The real truth doesn’t matter.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch13_1.jpg %}
-
 {% bubble KeitoPast %}
 “The Five Eccentrics are to blame for why us normal students suffer misfortune and unfulfilling lives.”
 
@@ -1160,8 +1158,6 @@ H-Hello? Who is it? Please respond!
 …? What’s wrong, please say something! Is the reception bad? Your voice sounds muffled—I can barely hear you!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch19_2.jpg %}
-
-
 {% bubble ChiakiPast worried %}
 C-Can you hear me? Hellooo…?
 
