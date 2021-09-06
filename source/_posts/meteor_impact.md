@@ -7,6 +7,7 @@ categories:
 - [Enstars, Akatsuki]
 tags:
 - Event Story
+- Akira
 - Story Index
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 hidden: true
@@ -65,7 +66,7 @@ hidden: true
                     </div>
                     <div class="info-item characters">
                         <div class="label">Characters</div>
-                        <div class="value">Ryuseitai, Akatsuki, Madara, Shu</div>
+                        <div class="value">Ryuseitai, Akatsuki, Madara, Subaru, Shu</div>
                     </div>
                     <div class="info-item characters">
                         <div class="label">Translation</div>
@@ -93,8 +94,8 @@ hidden: true
     </div>
 </div>
 {% note narration %}
-**Translator's Comment:** I hope you enjoy Meteor Impact! If you spot any mistakes, whether coding or grammatical errors, please DM me on [twitter](https://twitter.com/310mc1)!
+**Translator's Comment:** If you spot any mistakes, whether coding or grammatical errors, please DM me on [twitter](https://twitter.com/310mc1)!
 {% endnote %}
 {% note narration %}
-This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to help alleviate the shock factor of this story for those who need it. Otherwise, please sit back and enjoy!
+This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to alleviate the shock of this story for those who need it. Otherwise, please sit back and enjoy!
 {% endnote %}

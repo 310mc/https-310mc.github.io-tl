@@ -1434,7 +1434,7 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Story-Details,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/monologue,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}</div>
+{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}</div>
 
 ## Translation Notes
 [^1]: Chiaki is referencing [this](https://www.youtube.com/watch?v=dZL5JPvXn7Q) children’s song. The English lyrics can be found [here](http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa).
