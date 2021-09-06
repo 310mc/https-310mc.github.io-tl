@@ -58,4 +58,4 @@ Please feel free to let me know by DMing me on [twitter](https://twitter.com/310
 
 ## Credits
 
-HUGE thank you to [Ren](https://watatomo.github.io/tl/) who customized this site's code to be used for Enstars translators. Thanks to him, I can make all the translations look pretty and exciting! Another thank you to [stars-ensemble](https://stars-ensemble.tumblr.com/) for guiding me with github and helping me get used to the setup!
+HUGEST thank you to [Ren](https://watatomo.github.io/tl/) who customized this *ENTIRE* site's code to be used for Enstars translators. It's literally all thanks to him that I can make all the translations look pretty and exciting! Another thank you to [stars-ensemble](https://stars-ensemble.tumblr.com/) for guiding me with Github and helping me get used to the setup!

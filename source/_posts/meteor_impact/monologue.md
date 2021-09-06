@@ -213,7 +213,7 @@ but please, do listen. please, know and understand — about the hero who saved 
 once upon a time… a Meteorite fell down in some place—
 {% endbubble %}
 
-<div toc>{% btn /meteor_impact/first_half,, arrow-left, Previous Chapter: Meteor Impact - Two Years Ago: Not Quite A Hero %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/second_half,, arrow-right, Next Chapter: Meteor Impact - One Year Ago: Unqualified Hero %}</div>
+<div toc>{% btn /meteor_impact/first_half_p2,, arrow-left, Previous Chapter: Meteor Impact - Two Years Ago: Not Quite A Hero %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/second_half_p1,, arrow-right, Next Chapter: One Year Ago: Unqualified Hero (Chapter 1-12) %}</div>
 
 ## Translation Notes
 [^1]: If you’re curious, in the original he’s singing [this lullaby](https://www.youtube.com/watch?v=DNJToo_GXKo).

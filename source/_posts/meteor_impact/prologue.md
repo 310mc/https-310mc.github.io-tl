@@ -22,7 +22,7 @@ hidden: true
 **Season:** Winter (End of Year)
 **TL:** [310mc](https://310mc.github.io/)
 **JP Proof:** [Nanashi](https://twitter.com/seiginoakashi)
-**ENG Proof:** [Shie](https://twitter.com/starIits)
+**ENG Proof:** Shie
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
@@ -270,7 +270,7 @@ gods don’t save Human Beings out of kindness.
 that was another thing that chiaki taught me. no… every valuable thing — it was all taught to me by a hero.[^3]
 {% endbubble %}
 
-<div toc>{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/first_half,, arrow-right, Next Chapter: Meteor Impact - Two Years Ago: Not Quite a Hero %}</div>
+<div toc>{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/first_half_p1,, arrow-right, Next Chapter: Two Years Ago: Not Quite a Hero (Chapter 1-8) %}</div>
 
 ## Translation Notes
 [^1]: In Japan, it’s common to do an entire cleanup of your house or other before the new year begins.

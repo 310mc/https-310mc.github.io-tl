@@ -309,7 +309,7 @@ you’re the one who taught me this.
 thank you, hero…♪
 {% endbubble %}
 
-<div toc>{% btn /meteor_impact/second_half,, arrow-left, Next Chapter: One Year Ago: Unqualified Hero %}{% btn /meteor_impact,, star, Index %}</div>
+<div toc>{% btn /meteor_impact/second_half_p3,, arrow-left, Next Chapter: One Year Ago: Unqualified Hero (Chapter 27-33) %}{% btn /meteor_impact,, star, Index %}</div>
 
 ## Translation Notes
 [^1]: Kanata originally says *densha no ko*, implying either Tetora or Shinobu go home by train.
