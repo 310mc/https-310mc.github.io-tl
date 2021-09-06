@@ -5,10 +5,11 @@ categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Aira]
+- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuumasu
-description: "An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery."
+description: "[ES!!] An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery."
 ---
 
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Basketball_Connections%29_Aira_Shiratori_M_Bloomed.png)

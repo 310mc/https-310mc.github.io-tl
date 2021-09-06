@@ -5430,7 +5430,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 
 
-{% bubble ChiakiPast %}
+{% bubble ChiakiPast bcg %}
 HOLD IT RIGHT THEEEERE!!![^29]
 
 {% endbubble %}
