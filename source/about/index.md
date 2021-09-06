@@ -12,6 +12,23 @@ Be sure to check my [categories](/categories/) and [tags](/tags/) to navigate th
 
 **※ Everything on this site is unofficial and for non-profit.**
 
+### Translation Bias
+
+I'm most likely to translate the following content:
+
+**Ensemble Stars**
+1. Midori-related stories
+2. Chiaki-related stories
+3. Ryuseitai-related stories
+
+**Helios Rising Heroes**
+1. Will-related stories
+2. South Sector-related stories
+
+### Translation Status
+
+* Currently working on uploading my previous translations to this site.
+
 ## About 310mc's Translations
 
 **These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.**
@@ -35,24 +52,11 @@ I do **NOT** permit changing the original intent/script of my translations for q
 
 If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
 
-## Translation Bias
-
-I'm most likely to translate the following content:
-
-**Ensemble Stars**
-1. Midori-related stories
-2. Chiaki-related stories
-3. Ryuseitai-related stories
-
-**Helios Rising Heroes**
-1. Will-related stories
-2. South Sector-related stories
-
 ## Reporting Mistakes
 
 If you ever spot a typo, mistranslation, grammar or punctuation error in my translations;
 
-Or if you spot an error (broken TL note, glitch, etc.) on the site,
+Or if you spot an error (broken TL note, glitch, etc.) on the site;
 
 Please feel free to let me know by DMing me on [twitter](https://twitter.com/310mc1)! I'd be happy to know of any problems in my translations or website. Thank you!
 

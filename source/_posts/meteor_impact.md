@@ -18,7 +18,7 @@ hidden: true
 {% note cw %}
 **Includes, but not limited to:** Major discussions of cult, depictions of harrassment, as well as heavy mentions of cannibalism, violence, bullying, child abuse, and depression.
 {% endnote %}
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.0.0/story_cover/story-cover.css">
 <style>
     :root {
         --story-theme-color--rgb: 0, 75, 181;
