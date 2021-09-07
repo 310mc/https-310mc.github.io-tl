@@ -84,9 +84,9 @@ creative_commons:
 menu:
   home: / || fa fa-home
   about: about || fa fa-user
-  translations: Translations || fas fa-book
-  tags: tags || fa fa-tags
+  Translations: translations || fas fa-book
   categories: categories || fa fa-folder-open
+  tags: tags || fa fa-tags
   archives: history || fa fa-history
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap

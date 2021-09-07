@@ -8,7 +8,7 @@ description: About 310mc's Translation Archive. Typically found translating Enst
 
 Heya, this is 310mc's Translation site! In here, I'll be posting my unofficial JP→ENG translations for any series I'm interested in. I also JP proofread for translators, mainly in Enstars♪
 
-Be sure to check my [translation masterpost](/library/), [categories](/categories/), and [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
+Be sure to check my [translation masterlist](/translations/), [categories](/categories/), and [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
 
 **※ Everything on this site is unofficial and for non-profit.**
 

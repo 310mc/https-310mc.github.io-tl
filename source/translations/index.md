@@ -9,7 +9,7 @@ This masterlist is a WIP. Stay tuned for a more refined version!
 
 <p id="TOP"><strong>Any translation mistakes? Please DM me on <a href="https://twitter.com/310mc1">twitter</a>!</strong></p>
 
-## Ensemble stars
+## Ensemble Stars
 
 ### Event Stories
 <p><strong>Climax:</strong> <a href="https://euni2319.dreamwidth.org/8614.html">Chapter Masterlist</a></p>
