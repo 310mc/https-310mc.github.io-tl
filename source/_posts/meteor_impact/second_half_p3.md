@@ -1,6 +1,6 @@
 ---
 title: "Meteor Impact - One Year Ago: Unqualified Hero (Chapter 27-33)"
-date: 2019-04-05 9:00:00
+date: 2019-04-05 9:03:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Chiaki]
@@ -22,12 +22,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Season:** One Year Ago, Autumn
 **TL:** [310mc](https://310mc.github.io/)
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
-
-**Chapter Index:** <a href="#Chapter-27">Ch 27</a> - <a href="#Chapter-28">Ch 28</a> - <a href="#Chapter-29">Ch 29</a> - <a href="#Chapter-30">Ch 30</a> - <a href="#Chapter-31">Ch 31</a> - <a href="#Chapter-32">Ch 32</a> - <a href="#Chapter-33">Ch 33</a> - <a href="#Translation-Notes">Translation Notes</a>
-
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
+## Chapter Index
+<a href="#Chapter-27">Ch 27</a> - <a href="#Chapter-28">Ch 28</a> - <a href="#Chapter-29">Ch 29</a> - <a href="#Chapter-30">Ch 30</a> - <a href="#Chapter-31">Ch 31</a> - <a href="#Chapter-32">Ch 32</a> - <a href="#Chapter-33">Ch 33</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 27
 {% note location %}

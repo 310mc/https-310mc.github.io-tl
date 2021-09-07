@@ -1,6 +1,6 @@
 ---
-title: "Meteor Impact - One Year Ago: Unqualified Hero"
-date: 2019-04-05 9:00:00
+title: "Meteor Impact - One Year Ago: Unqualified Hero (Chapter 1-12)"
+date: 2019-04-05 9:01:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Chiaki]
@@ -24,12 +24,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Season:** One Year Ago, Summer - Autumn
 **TL:** [310mc](https://310mc.github.io/), with co-translators [emu](https://twitter.com/sunsunrainys) and haranami
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
-
-**Chapter Index:** <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
-
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 1
 {% note location %}

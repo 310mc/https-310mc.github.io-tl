@@ -1,6 +1,6 @@
 ---
 title: "Meteor Impact - Two Years Ago: Not Quite A Hero (Chapter 1-8)"
-date: 2019-03-31 9:00:00
+date: 2019-03-31 9:01:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Chiaki]
@@ -20,12 +20,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Season:** Two Years Ago, Summer
 **TL:** [310mc](https://310mc.github.io/), with a co-translator [emu](https://twitter.com/sunsunrainys)
 **ENG Proof:** See end of chapter
-
-**Chapter Index:** <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
-
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 1
 {% note location %}

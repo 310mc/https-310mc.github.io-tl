@@ -1,6 +1,6 @@
 ---
 title: "Meteor Impact - One Year Ago: Unqualified Hero (Chapter 13-26)"
-date: 2019-04-05 9:00:00
+date: 2019-04-05 9:02:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Chiaki]
@@ -23,11 +23,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Season:** One Year Ago, Autumn
 **TL:** [310mc](https://310mc.github.io/)
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
-
-**Chapter Index:** <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Chapter-18">Ch 18</a> - <a href="#Chapter-19">Ch 19</a> - <a href="#Chapter-20">Ch 20</a> - <a href="#Chapter-21">Ch 21</a> - <a href="#Chapter-22">Ch 22</a> - <a href="#Chapter-23">Ch 23</a> - <a href="#Chapter-24">Ch 24</a> - <a href="#Chapter-25">Ch 25</a> - <a href="#Chapter-26">Ch 26</a> - <a href="#Translation-Notes">Translation Notes</a>
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
+## Chapter Index
+<a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Chapter-18">Ch 18</a> - <a href="#Chapter-19">Ch 19</a> - <a href="#Chapter-20">Ch 20</a> - <a href="#Chapter-21">Ch 21</a> - <a href="#Chapter-22">Ch 22</a> - <a href="#Chapter-23">Ch 23</a> - <a href="#Chapter-24">Ch 24</a> - <a href="#Chapter-25">Ch 25</a> - <a href="#Chapter-26">Ch 26</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 13
 {% note cw %}
@@ -176,7 +177,7 @@ Religious faith is founded on emotional support. Subjugating Shinkai Kanata mean
 
 The worshippers in Yaobikuni are all the frail students who could do nothing but depend on God…
 
-Which means that they make up the public. We can’t let *fine *be the ones who drench themselves with the blood of the people in the public. After all, they’re meant to be the protagonists of this tale—the heroes.
+Which means that they make up the public. We can’t let *fine* be the ones who drench themselves with the blood of the people in the public. After all, they’re meant to be the protagonists of this tale—the heroes.
 
 They’re heroes through defeating the monsters, but were they to massacre the people, then they would only become vicious madmen.
 
@@ -2639,7 +2640,7 @@ huh? me too? why? but wait, isn’t a Ship coming…? shouldn’t we Wait for it
 
 {% endbubble %}
 {% bubble ChiakiPast %}
-We’re not going to go on that ship. Ah, no—maybe if this doesn’t work out, then we should rely on that plan, but— Nah, actually, I already feel like this isn’t going to work, since it’s something *I’m *trying to do.
+We’re not going to go on that ship. Ah, no—maybe if this doesn’t work out, then we should rely on that plan, but— Nah, actually, I already feel like this isn’t going to work, since it’s something *I’m* trying to do.
 
 But! Shinkai-kun, you said it yourself, didn’t you? You said that if no one is in need of you, then you may as well not exist!
 

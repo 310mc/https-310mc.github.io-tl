@@ -75,18 +75,22 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     <div class="label">Proofreading</div>
                     <div class="value"><a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival">SayonaraRevival (Main)</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://twitter.com/goldgust">Goldgust</a>,<br>Shie, <a href="https://twitter.com/seiginoakashi">Nanashi</a></div>
                     </div>
+                    <div class="info-item characters">
+                    <div class="label">Total Average Reading Time</div>
+                    <div class="value">~4 hours</div>
+                    </div>
                 </div>
             </div>
             <div class="chapter-area">
                 <ul>
-                    <li><a href="prologue"><b>Prologue</b></a></li>
-                    <li><a href="first_half_p1"><b>Two Years Ago:<br>Not Quite A Hero</b><br>Chapter 1-8</a></li>
-                    <li><a href="first_half_p2"><b>Not Quite A Hero</b><br>Chapter 9-17</a></li>
-                    <li><a href="monologue"><b>Monologue</b></a></li>
-                    <li><a href="second_half_p1"><b>One Year Ago:<br>Unqualified Hero</b><br>Chapter 1-12</a></li>
-                    <li><a href="second_half_p2"><b>Unqualified Hero</b><br>Chapter 13-26</a></li>
-                    <li><a href="second_half_p3"><b>Unqualified Hero</b><br>Chapter 27-33</a></li>
-                    <li><a href="epilogue"><b>Epilogue</b></a></li>
+                    <li><a href="/meteor_impact/prologue"><b>Prologue</b></a></li>
+                    <li><a href="/meteor_impact/first_half_p1"><b>Two Years Ago:<br>Not Quite A Hero</b><br>Chapter 1-8</a></li>
+                    <li><a href="/meteor_impact/first_half_p2"><b>Not Quite A Hero</b><br>Chapter 9-17</a></li>
+                    <li><a href="/meteor_impact/monologue"><b>Monologue</b></a></li>
+                    <li><a href="/meteor_impact/second_half_p1"><b>One Year Ago:<br>Unqualified Hero</b><br>Chapter 1-12</a></li>
+                    <li><a href="/meteor_impact/second_half_p2"><b>Unqualified Hero</b><br>Chapter 13-26</a></li>
+                    <li><a href="/meteor_impact/second_half_p3"><b>Unqualified Hero</b><br>Chapter 27-33</a></li>
+                    <li><a href="/meteor_impact/epilogue"><b>Epilogue</b></a></li>
                 </ul>
             </div>
         </div>

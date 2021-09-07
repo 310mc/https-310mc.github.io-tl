@@ -1,6 +1,6 @@
 ---
 title: About
-description: About 310mc's Translation Archive.
+description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
 ---
 
 ## Introduction
@@ -8,7 +8,7 @@ description: About 310mc's Translation Archive.
 
 Heya, this is 310mc's Translation site! In here, I'll be posting my unofficial JP→ENG translations for any series I'm interested in. I also JP proofread for translators, mainly in Enstars♪
 
-Be sure to check my [categories](/categories/) and [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
+Be sure to check my [translation masterpost](/library/), [categories](/categories/), and [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
 
 **※ Everything on this site is unofficial and for non-profit.**
 
