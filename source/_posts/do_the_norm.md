@@ -17,9 +17,9 @@ description: "[ES!!] An Aira Feature Scout story, featuring Midori and Chiaki. A
 
 Aira goes to school for once and has an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story. You can unlock this story from the card [[Basketball Connections] Aira Shiratori](https://ensemble-stars.fandom.com/wiki/(Basketball_Connections)_Aira_Shiratori).
 
-**Series:** [Ensemble Stars](/categories/enstars)
+**Series:** [Ensemble Stars](/categories/Enstars)
 **Writer:** [Yuumasu](/tags/Yuumasu)
-**Characters:** [Midori](/categories/enstars/Midori), [Chiaki](/categories/enstars/Chiaki), [Aira](/categories/enstars/Aira)
+**Characters:** [Midori](/categories/Enstars/Midori), [Chiaki](/categories/Enstars/Chiaki), [Aira](/categories/Enstars/Aira)
 **Era:** [ES!!](/aboutes)
 **Season:** Summer
 **TL:** [310mc](https://310mc.github.io/)

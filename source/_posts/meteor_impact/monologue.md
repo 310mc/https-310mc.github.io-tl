@@ -1,5 +1,5 @@
 ---
-title: "Meteor Impact - Monologue"
+title: "Meteor Impact – Monologue"
 date: 2019-04-05 9:00:00
 categories:
 - [Enstars, Midori]
@@ -14,9 +14,9 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ---
 
 ## Story Details
-**Series:** [Ensemble Stars](/categories/enstars)
+**Series:** [Ensemble Stars](/categories/Enstars)
 **Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/enstars/Chiaki), [Kanata](/categories/enstars/Kanata), [Midori](/categories/enstars/Midori), [Tetora](/categories/enstars/Tetora), [Shinobu](/categories/enstars/Shinobu)
+**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Midori](/categories/Enstars/Midori), [Tetora](/categories/Enstars/Tetora), [Shinobu](/categories/Enstars/Shinobu)
 **Era:** [ES!](/aboutes)
 **Season:** Winter (End of Year)
 **TL:** [310mc](https://310mc.github.io/)

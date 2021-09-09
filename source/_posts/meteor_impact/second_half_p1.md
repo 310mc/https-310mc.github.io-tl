@@ -1,5 +1,5 @@
 ---
-title: "Meteor Impact - One Year Ago: Unqualified Hero (Chapter 1-12)"
+title: "Meteor Impact – One Year Ago: Unqualified Hero (Chapter 1–12)"
 date: 2019-04-05 9:01:00
 categories:
 - [Enstars, Kanata]
@@ -17,9 +17,9 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ---
 
 ## Story Details
-**Series:** [Ensemble Stars](/categories/enstars)
+**Series:** [Ensemble Stars](/categories/Enstars)
 **Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/enstars/Chiaki), [Kanata](/categories/enstars/Kanata), [Kuro](/categories/enstars/Kuro), [Keito](/categories/enstars/Keito), [Madara](/categories/enstars/Madara), [Souma](/categories/enstars/Souma), [Subaru](/categories/enstars/Subaru), [Shu](/categories/enstars/Shu)
+**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Kuro](/categories/Enstars/Kuro), [Keito](/categories/Enstars/Keito), [Madara](/categories/Enstars/Madara), [Souma](/categories/Enstars/Souma), [Subaru](/categories/Enstars/Subaru), [Shu](/categories/Enstars/Shu)
 **Era:** [ES!](/aboutes)
 **Season:** One Year Ago, Summer - Autumn
 **TL:** [310mc](https://310mc.github.io/), with co-translators [emu](https://twitter.com/sunsunrainys) and haranami

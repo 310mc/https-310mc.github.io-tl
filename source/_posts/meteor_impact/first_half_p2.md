@@ -1,5 +1,5 @@
 ---
-title: "Meteor Impact - Two Years Ago: Not Quite A Hero (Chapter 9-17)"
+title: "Meteor Impact – Two Years Ago: Not Quite A Hero (Chapter 9–17)"
 date: 2019-03-31 9:02:00
 categories:
 - [Enstars, Kanata]
@@ -13,9 +13,9 @@ tags:
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 ---
 ## Story Details
-**Series:** [Ensemble Stars](/categories/enstars)
+**Series:** [Ensemble Stars](/categories/Enstars)
 **Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/enstars/Chiaki), [Kanata](/categories/enstars/Kanata), [Kuro](/categories/enstars/Kuro), [Keito](/categories/enstars/Keito), [Madara](/categories/enstars/Madara)
+**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Kuro](/categories/Enstars/Kuro), [Keito](/categories/Enstars/Keito), [Madara](/categories/Enstars/Madara)
 **Era:** [ES!](/aboutes)
 **Season:** Two Years Ago, Summer
 **TL:** [310mc](https://310mc.github.io/), with a co-translator [emu](https://twitter.com/sunsunrainys)

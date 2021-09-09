@@ -6,11 +6,7 @@ description: A list of all the translations by 310mc. You will find Enstars and 
 {% note narration %}
 This masterlist is a WIP. Stay tuned for a more refined version!
 {% endnote %}
-
-<p id="TOP"><strong>Any translation mistakes? Please DM me on <a href="https://twitter.com/310mc1">twitter</a>!</strong></p>
-
 ## Ensemble Stars
-
 ### Event Stories
 <p><strong>Climax:</strong> <a href="https://euni2319.dreamwidth.org/8614.html">Chapter Masterlist</a></p>
 <p><strong>Aquarium:</strong> <a href="https://euni2319.dreamwidth.org/10207.html">Chapter Masterlist</a></p>
@@ -51,7 +47,7 @@ This masterlist is a WIP. Stay tuned for a more refined version!
 <p><strong>Shooting Star Festival Chiaki Event Course:</strong> WIKI LINK <a href="https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Normal_Event">(Normal Event)</a> &amp; <a href="https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event">(Special Event)</a> —&nbsp;<a href="https://euni2319.dreamwidth.org/2653.html">Dreamwidth</a> (Dreamwidth ver. is badly formatted+old)</p>
 
 ### Other
-<p><a href="https://euni2319.dreamwidth.org/4756.html">5* Scout Quotes</a></p>
+<p><a href="/es_scout_quotes">5* Scout Quotes</a></p>
 <p><strong>Ryuseitai Album Countdown Messages</strong>:&nbsp;<a href="https://ensemble-stars.fandom.com/wiki/RYUSEITAI_Album">WIKIA LINK</a> — <a href="https://euni2319.dreamwidth.org/21314.html">Dreamwidth</a></p>
 
 ## Helios Stories

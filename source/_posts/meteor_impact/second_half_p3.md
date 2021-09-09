@@ -1,5 +1,5 @@
 ---
-title: "Meteor Impact - One Year Ago: Unqualified Hero (Chapter 27-33)"
+title: "Meteor Impact – One Year Ago: Unqualified Hero (Chapter 27–33)"
 date: 2019-04-05 9:03:00
 categories:
 - [Enstars, Kanata]
@@ -19,7 +19,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Writer:** [Akira](/tags/Akira)
 **Characters:** [Chiaki](/categories/enstars/Chiaki), [Kanata](/categories/enstars/Kanata), [Kuro](/categories/enstars/Kuro), [Keito](/categories/enstars/Keito), [Souma](/categories/enstars/Souma), [Subaru](/categories/enstars/Subaru)
 **Era:** [ES!](/aboutes)
-**Season:** One Year Ago, Autumn
+**Season:** One Year Ago, Enstars
 **TL:** [310mc](https://310mc.github.io/)
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 <!-- more -->
@@ -1141,7 +1141,7 @@ Hasumi.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/kanatabcg.jpg %}
 {% bubble KanataPast smile %}
-“♪~♪~♪”
+“♪\~♪\~♪”
 
 {% endbubble %}
 {% bubble SoumaPast cg %}

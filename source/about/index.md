@@ -29,7 +29,7 @@ I'm most likely to translate the following content:
 
 * Currently working on uploading my previous translations to this site.
 
-## About 310mc's Translations
+## Translation Usage
 
 **These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.**
 
