@@ -8,9 +8,8 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead..."
+description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <style>
     :root {
@@ -19,7 +18,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
         --storyColor-h: 188;
         --storyColor-s: 72%;
         --storyColor-l: 50%;
-        --background: 100%/100% url("/img/es/eventstory/cometshow/chiakiorigcg.jpg");
+        --background: 100%/100% url("https://310mc.github.io/img/es/eventstory/cometshow/chiakiorigcg.jpg");
     }
     @media (max-width: 567px) {
         .post-block {
@@ -39,7 +38,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -113,11 +112,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
     }
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.1.42/story_cover/story-cover.min.js"></script>
 
-<div class="story-wrapper" style="--storyColor: #23c1db;--storyColor-rgb: 35,193,219;--storyColor-h: 188;--storyColor-s: 72%;--storyColor-l: 50%;">
+<div class="story-wrapper mobile-reverse" style="--storyColor: #965e7d;--storyColor-rgb: 150,94,125;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: 100%/100% url('/img/es/eventstory/cometshow/chiakiorigcg.jpg')"></div>
+        <div class="story-background" style="background: 100%/100% url('/img/es/eventstory/cometshow/chiakiorigcg1.jpg')"></div>
         <div class="story-box">
             <div class="story-cover">
                 <div><img src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"></div>
@@ -131,7 +130,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
                 </div>
                 <div class="info">
                     <div class="info-item season">

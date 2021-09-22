@@ -10,18 +10,51 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead..."
+description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
 ---
-
-## Story Details
-**Series:** [Ensemble Stars](/categories/Enstars)
-**Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Midori](/categories/Enstars/Midori), [Tetora](/categories/Enstars/Tetora), [Shinobu](/categories/Enstars/Shinobu)
-**Era:** [ES!!](/aboutes)
-**Season:** Summer
-**TL:** [310mc](https://310mc.github.io/)
-**JP Proof:** [moricchiichan](https://moricchiichan.tumblr.com/)
-**ENG Proof:** [honeyspades](https://honeyspades.tumblr.com)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
+<div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+	<div class="info-area">
+		<div class="info">
+    		<div class="info-item characters">
+        		<div class="label">
+            		Characters
+        		</div>
+        		<div class="value">
+            <a href="/categories/Enstars/Chiaki" id="chiaki"></a>
+            <a href="/categories/Enstars/Midori" id="midori"></a>
+            <a href="/categories/Enstars/Kanata" id="kanata"></a>
+            <a href="/categories/Enstars/Tetora" id="tetora"></a>
+            <a href="/categories/Enstars/Shinobu" id="shinobu"></a>
+        		</div>
+    		</div>
+			<div class="info-item writer">
+        		<div class="label">
+            		Writer
+        		</div>
+        		<div class="value">
+            		Akira
+        		</div>
+    		</div>
+    		<div class="info-item tl">
+        		<div class="label">
+            		Translation
+        		</div>
+        		<div class="value">
+            		<a href="/about">310mc</a>
+        		</div>
+    		</div>
+    		<div class="info-item pr">
+        		<div class="label">
+            		Proofreading
+        		</div>
+        		<div class="value">
+            		<a href="https://honeyspades.tumblr.com">honeyspades</a>
+        		</div>
+    		</div>
+		</div>
+	</div>
+</div>
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
