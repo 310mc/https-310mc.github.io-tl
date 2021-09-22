@@ -1759,7 +1759,7 @@ But he didn’t respond back, and when I asked him if I should call for someone,
 
 I really dunno what to do…
 
-I think he doesn’t want to be seen by anyone, so I tried to help him up while hiding him, and managed all the way up to this point—
+I think he doesn’t wanna be seen by anyone, so I tried to help him up while hiding him, and managed all the way up to this point—
 
 But I mean, the whole school’s going about like nuts, right?
 

@@ -53,4 +53,4 @@ This masterlist is a WIP. Stay tuned for a more refined version!
 ## Helios Stories
 <p><strong>Midsummer Survival Island:</strong> <a href="https://euni2319.wordpress.com/2020/08/27/midsummer-survival-chapter-masterlist/">Story Masterlist</a></p>
 
-<div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
+<div style="margin-bottom:5px">{% btn #Ensemble-Stars,, arrow-up, Back to Top %}</div>

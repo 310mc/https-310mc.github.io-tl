@@ -3,6 +3,55 @@ title: About
 description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
 ---
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+    $('.tab-header').click(function(){
+        $(this).next().slideToggle();
+        $(this).toggleClass('tab-header__open');
+    })
+});
+</script>
+<style>
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
+.tab-content {
+    display: none;
+    padding: 10px;
+}
+.tab-header {
+    background: rgba(var(--storyColor-rgb), 0.1);
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.tab-header:first-child:after {
+    content: '\e5cf';
+    display: inline-block;
+    font-family: 'Material Icons Round';
+    font-size: 1.5em;
+    line-height: 1;
+    transition: transform 0.4s ease;
+}
+.tab-header__open:first-child:after, .chapter-area>.mini-talk__open:after {
+    transform: rotate(180deg);
+}
+</style>
 ## Introduction
 {% img /img/banner/about.jpg %}
 
@@ -27,7 +76,93 @@ I'm most likely to translate the following content:
 
 ### Translation Status
 
-* Currently working on uploading my previous translations to this site.
+☐ Upload previously completed translations to this site:
+<div>
+<div class="tab-header">Translations To Upload (Bolded = high priority)</div>
+  <div class="tab-content">
+    <div class="row">
+        <div class="column">
+          ☐ <b>Climax</b>
+          <br>
+          ☐ Aquarium
+          <br>
+          ☐ Sweet Halloween
+          <br>
+          ☐ School Festival 4
+          <br>
+          ☐ Orihime and Hikoboshi
+          <br>
+          ✓ <a href="/meteor_impact">Meteor Impact</a>
+          <br>
+          ☐ Motor Show
+          <br>
+          ☐ Comet Show
+          <br>
+          ☐ Selfish Noble
+          <br>
+          ☐ A Game of Tag with Mama
+          <br>
+          ☐ Melancholic Club Activities
+          <br>
+          ☐ The Crimson's Pure Heart
+          <br>
+          ☐ Midori's Idol Story 1, 2, 3 - Making-100-Friends Project - Party Animal Invasion
+          <br>
+          ☐ Hajime's Idol Story 1
+          <br>
+          ☐ Chiaki's Idol Story 1
+          <br>
+          ☐ Hinata's Idol Story 1, 3
+          <br>
+          ✓ <a href="/do_the_norm">Do The Norm</a>
+        </div>
+        <div class="column">
+          ☐ Colorful Autumn
+          <br>
+          ☐ Biblio
+          <br>
+          ☐ <b>Beasts</b>
+          <br>
+          ☐ Gang
+          <br>
+          ☐ Zodiac - Senpai Turned Into A Dog?!
+          <br>
+          ☐ Comic World
+          <br>
+          ☐ Buddy
+          <br>
+          ☐ Dollhouse
+          <br>
+          ☐ Always Hold a Heroic Heart
+          <br>
+          ☐ Dear me, Before I Became a Ninja
+          <br>
+          ☐ Something Dubious in the Library
+          <br>
+          ☐ Midori's Management Story - 1, 2, 3, 4
+          <br>
+          ☐ Chiaki's Management Story - 1, 2, 3, 4
+          <br>
+          ☐ Madara's Management Story - 2
+          <br>
+          ☐ Shinobu's Management Story - 2, 3
+          <br>
+          ☐ Mitsuru's Management Story - 1
+          <br>
+          ☐ Kuro's Management Story - 3
+        </div>
+    </div>
+  </div>
+</div>
+<br>
+
+☐ Translate [Submarine](https://ensemble-stars.fandom.com/wiki/Submarine)
+
+☐ Translate [Hot & Elegant Chocolat Fes](https://ensemble-stars.fandom.com/wiki/Hot_%26_Elegant_Chocolat_Fes)
+
+☐ Translate [Midori's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Midori_Takamine/Sub_Story)
+
+☐ Translate [Chiaki's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa/Sub_Story)
 
 ## Translation Usage
 

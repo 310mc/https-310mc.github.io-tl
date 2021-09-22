@@ -179,7 +179,7 @@ toc:
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
   expand_all: true
   # Maximum heading depth of generated toc.
-  max_depth: 10
+  max_depth: 3
 
 
 # ---------------------------------------------------------------
@@ -515,7 +515,7 @@ math:
 
 # Easily enable fast Ajax navigation on your website.
 # For more information: https://github.com/next-theme/pjax
-pjax: true
+pjax: false
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
