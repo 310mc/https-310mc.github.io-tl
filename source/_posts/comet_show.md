@@ -39,7 +39,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -131,7 +131,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead...
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -197,7 +197,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                 Associated Song
                             </div>
                             <div class="value">
-                                <a href="https://youtu.be/E1cm0Ml3tNE?t=150">TBA</a>
+                                <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs">Comet Halation</a> — <a href="https://ensemble-stars.fandom.com/wiki/Suisei_HALATION_(Lyrics)#English">(Song Lyrics)</a>
                             </div>
                         </div>
                         <div class="tab-item">
@@ -291,22 +291,26 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">TBA</div>
-                                            <div class="bloomed">TBA</div>
+                                            <div class="unbloomed">俺のパゥアを分けてやろうっ！</div>
+                                            <div class="bloomed">正義の戦士は立ち上がる！</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Genius and Ordinary] Tomoya Mashiro</div>
-                                    <div class="card__jp">[天才と普通] 真白 友也</div>
+                                    <div class="card__name">[Meteors and Red Resolve] Chiaki Morisawa</div>
+                                    <div class="card__jp">[流星と赤き決意] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
+                                            <li id="center">
+                                                <div class="name">不器用コメット</div>
+                                                <div class="desc"></div>
+                                            </li>
                                             <li id="live">
-                                                <div class="name">TBA</div>
+                                                <div class="name">五人を守るため</div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">TBA</div>
+                                                <div class="name">付きあい方</div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -323,22 +327,26 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">TBA</div>
-                                            <div class="bloomed">TBA</div>
+                                            <div class="unbloomed">俺たちの出番ですよ、先輩</div>
+                                            <div class="bloomed">援護してあげよっか</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Under the Mask] Wataru Hibiki</div>
-                                    <div class="card__jp">[仮面の下] 日々樹 渉</div>
+                                    <div class="card__name">[Meteors and My True Feelings] Midori Takamine</div>
+                                    <div class="card__jp">[流星と己の本音] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
+                                            <li id="center">
+                                                <div class="name">我が侭コメット</div>
+                                                <div class="desc"></div>
+                                            </li>
                                             <li id="live">
-                                                <div class="name">TBA</div>
+                                                <div class="name">五人でやってきたこと</div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">TBA</div>
+                                                <div class="name">打ち明け話</div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -355,22 +363,26 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">TBA</div>
-                                            <div class="bloomed">TBA</div>
+                                            <div class="unbloomed">ちゃっぷちゃっぷ♪</div>
+                                            <div class="bloomed">なんだってできるきがします</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Positive Detective] Mitsuru Tenma</div>
-                                    <div class="card__jp">[前向き探偵] 天満 光</div>
+                                    <div class="card__name">[Meteors and Teammates] Kanata Shinkai</div>
+                                    <div class="card__jp">[りゅうせいとみんな] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
+                                            <li id="center">
+                                                <div class="name">ゆるいこめっと</div>
+                                                <div class="desc"></div>
+                                            </li>
                                             <li id="live">
-                                                <div class="name">TBA</div>
+                                                <div class="name">ごにんのかぞく</div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">TBA</div>
+                                                <div class="name">うみべのさんぽ</div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -387,22 +399,26 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">TBA</div>
-                                            <div class="bloomed">TBA</div>
+                                            <div class="unbloomed">怪獣…？海獣ッスか？</div>
+                                            <div class="bloomed">掴み取れるように努力をしてるッス</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meddling Phantom Thief] Arashi Narukami</div>
-                                    <div class="card__jp">[翻弄する怪盗] 鳴上 嵐</div>
+                                    <div class="card__name">[Meteors and the Color I Started With] Tetora Nagumo</div>
+                                    <div class="card__jp">[流星と最初の色] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
+                                            <li id="center">
+                                                <div class="name">実直コメット</div>
+                                                <div class="desc"></div>
+                                            </li>
                                             <li id="live">
-                                                <div class="name">TBA</div>
+                                                <div class="name">五人でいること</div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">TBA</div>
+                                                <div class="name">徒手空拳と気持ち</div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -419,22 +435,26 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">TBA</div>
-                                            <div class="bloomed">TBA</div>
+                                            <div class="unbloomed">持ち味や技能を活かすでござるよ</div>
+                                            <div class="bloomed">いつでも仲良しがいいでござる</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Watchful Detective] Nazuna Nito</div>
-                                    <div class="card__jp">[見守り探偵] 仁兎 なずな</div>
+                                    <div class="card__name">[Meteors and What I Can Do] Shinobu Sengoku</div>
+                                    <div class="card__jp">[流星とできること] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
+                                            <li id="center">
+                                                <div class="name">緩衝コメット</div>
+                                                <div class="desc"></div>
+                                            </li>
                                             <li id="live">
-                                                <div class="name">TBA</div>
+                                                <div class="name">五人に望むこと</div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">TBA</div>
+                                                <div class="name">ナレーション役</div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -480,38 +500,47 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                 </div>
                 <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Mitsuru Tenma</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/mitsuru/1" id="none">1</a>
-                            <a href="mini_talk/mitsuru/2" id="none">2</a>
+                            <a href="mini_talk/chiaki/1" id="none">1</a>
+                            <a href="mini_talk/chiaki/2" id="none">2</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Arashi Narukami</div>
+                        <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/arashi/1" id="none">1</a>
-                            <a href="mini_talk/arashi/2" id="none">2</a>
+                            <a href="mini_talk/midori/1" id="none">1</a>
+                            <a href="mini_talk/midori/2" id="none">2</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Tomoya Mashiro</div>
+                        <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="mini_talk/tomoya/1" id="none">1</a>
-                            <a href="mini_talk/tomoya/2" id="none">2</a>
+                            <a href="NOTRANSLATION" id="none">1</a>
+                            <a href="NOTRANSLATION" id="none">2</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Wataru Hibiki</div>
+                        <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="mini_talk/wataru/1" id="none">1</a>
-                            <a href="mini_talk/wataru/2" id="none">2</a>
+                            <a href="NOTRANSLATION" id="none">1</a>
+                            <a href="NOTRANSLATION" id="none">2</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Shinobu Sengoku</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="NOTRANSLATION" id="none">1</a>
+                            <a href="NOTRANSLATION" id="none">2</a>
                             </div>
                         </div>
                     </div>
