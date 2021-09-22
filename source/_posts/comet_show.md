@@ -79,7 +79,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     </div>
                     <div class="info-item tl">
                         <div class="label">
-                            Translator
+                            Translation
                         </div>
                         <div class="value">
                             <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
@@ -87,7 +87,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     </div>
                     <div class="info-item pr">
                         <div class="label">
-                            Proofreaders
+                            Proofreading
                         </div>
                         <div class="value">
                             <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
@@ -171,7 +171,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     </div>
                     <div class="info-item tl">
                         <div class="label">
-                            Translator
+                            Translation
                         </div>
                         <div class="value">
                           <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
@@ -179,7 +179,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     </div>
                     <div class="info-item pr">
                         <div class="label">
-                            Proofreaders
+                            Proofreading
                         </div>
                         <div class="value">
                             <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
@@ -212,7 +212,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                 Event Duration
                             </div>
                             <div class="value">
-                                12/31/2020 (15:00 JST) - 1/8/2021 (22:00 JST)
+                                2020/12/31 (15:00 JST) - 2021/1/8 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -502,8 +502,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/chiaki/1" id="none">1</a>
-                            <a href="mini_talk/chiaki/2" id="none">2</a>
+                            <a href="mini_talk/chiaki/1" id="none">x</a>
+                            <a href="mini_talk/chiaki/2" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -511,8 +511,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/midori/1" id="none">1</a>
-                            <a href="mini_talk/midori/2" id="none">2</a>
+                            <a href="mini_talk/midori/1" id="none">x</a>
+                            <a href="mini_talk/midori/2" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -520,8 +520,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">1</a>
-                            <a href="NOTRANSLATION" id="none">2</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -529,8 +529,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">1</a>
-                            <a href="NOTRANSLATION" id="none">2</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -538,8 +538,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">1</a>
-                            <a href="NOTRANSLATION" id="none">2</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>

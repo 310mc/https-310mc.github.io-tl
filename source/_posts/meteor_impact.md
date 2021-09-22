@@ -122,7 +122,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                             Event Duration
                         </div>
                         <div class="value">
-                            3/31/2019 (15:00 JST) - 4/10/2019 (22:00 JST)
+                            2019/3/31 (15:00 JST) - 2019/4/10 (22:00 JST)
                         </div>
                     </div>
                 </div>

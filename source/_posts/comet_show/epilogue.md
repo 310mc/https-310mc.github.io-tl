@@ -49,7 +49,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             		Proofreading
         		</div>
         		<div class="value">
-            		<a href="https://honeyspades.tumblr.com">honeyspades</a>
+            		<a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
         		</div>
     		</div>
 		</div>

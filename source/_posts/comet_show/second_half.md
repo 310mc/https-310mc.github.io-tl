@@ -49,7 +49,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             		Proofreading
         		</div>
         		<div class="value">
-            		<a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+            		<b>Main:</b> <a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, Gelyan, TsubasaFL
         		</div>
     		</div>
 		</div>
@@ -241,7 +241,7 @@ But it doesn't really matter if the season became a rare commodity only *after* 
 I don’t care for stuff that has historical value or public appraisal. I don’t think it’s worth bothering with at all; what’s more important than that is—
 {% endbubble %}
 {% note narration %}
-<th> *(Phone starts ringing)* </th>
+*(Phone starts ringing)*
 {% endnote %}
 {% bubble Midori2 %}
 Mm?
