@@ -9,23 +9,9 @@ tags:
 - Akira
 - Story Index
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
+hidden: true
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
-<style>
-    :root {
-        --storyColor: #23c1db; /* hsl(188, 72%, 50%) */
-        --storyColor-rgb: 35,193,219;
-        --storyColor-h: 188;
-        --storyColor-s: 72%;
-        --storyColor-l: 50%;
-        --background: 100%/100% url("https://310mc.github.io/img/es/eventstory/cometshow/chiakiorigcg.jpg");
-    }
-    @media (max-width: 567px) {
-        .post-block {
-            padding: 5px 10px 8px !important;
-        }
-    }
-</style>
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -114,7 +100,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.1.42/story_cover/story-cover.min.js"></script>
 
-<div class="story-wrapper mobile-reverse" style="--storyColor: #965e7d;--storyColor-rgb: 150,94,125;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;">
+<div class="story-wrapper mobile-reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: 100%/100% url('/img/es/eventstory/cometshow/chiakiorigcg1.jpg')"></div>
         <div class="story-box">
@@ -290,8 +276,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">俺のパゥアを分けてやろうっ！</div>
-                                            <div class="bloomed">正義の戦士は立ち上がる！</div>
+                                            <div class="unbloomed">I'll share my powah with you!<!--俺のパゥアを分けてやろうっ！--></div>
+                                            <div class="bloomed">The warrior of justice takes the stage!<!--正義の戦士は立ち上がる！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -301,15 +287,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">不器用コメット</div>
+                                                <div class="name">Clumsy Comet<!--不器用コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">五人を守るため</div>
+                                                <div class="name">In Order to Protect the Five of Them<!--五人を守るため--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">付きあい方</div>
+                                                <div class="name">How to Interact with One Another<!--付きあい方--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -326,8 +312,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">俺たちの出番ですよ、先輩</div>
-                                            <div class="bloomed">援護してあげよっか</div>
+                                            <div class="unbloomed">It's our turn to shine, Senpai.<!--俺たちの出番ですよ、先輩--></div>
+                                            <div class="bloomed">Guess we'll back him up.<!--援護してあげよっか--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -337,15 +323,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">我が侭コメット</div>
+                                                <div class="name">Selfish Comet<!--我が侭コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">五人でやってきたこと</div>
+                                                <div class="name">Everything the Five of them Did Together<!--五人でやってきたこと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">打ち明け話</div>
+                                                <div class="name">Being Honest<!--打ち明け話--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -362,8 +348,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">ちゃっぷちゃっぷ♪</div>
-                                            <div class="bloomed">なんだってできるきがします</div>
+                                            <div class="unbloomed">splish, splosh~♪<!--ちゃっぷちゃっぷ♪--></div>
+                                            <div class="bloomed">i feel like we could do anything~<!--なんだってできるきがします--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -373,15 +359,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">ゆるいこめっと</div>
+                                                <div class="name">Soft Comet<!--ゆるいこめっと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">ごにんのかぞく</div>
+                                                <div class="name">Family of Five<!--ごにんのかぞく--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">うみべのさんぽ</div>
+                                                <div class="name">A Walk at the Beach<!--うみべのさんぽ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -398,8 +384,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">怪獣…？海獣ッスか？</div>
-                                            <div class="bloomed">掴み取れるように努力をしてるッス</div>
+                                            <div class="unbloomed">Creature...? Like, ones from the ocean?<!--怪獣…？海獣ッスか？--></div>
+                                            <div class="bloomed">I'll work hard 'til I finally grasp it.<!--掴み取れるように努力をしてるッス--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -409,15 +395,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">実直コメット</div>
+                                                <div class="name">Steady Comet<!--実直コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">五人でいること</div>
+                                                <div class="name">The Five of Them Together<!--五人でいること--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">徒手空拳と気持ち</div>
+                                                <div class="name">Being Empty Handed, and those Feelings<!--徒手空拳と気持ち--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -434,8 +420,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">持ち味や技能を活かすでござるよ</div>
-                                            <div class="bloomed">いつでも仲良しがいいでござる</div>
+                                            <div class="unbloomed">I get to make use of my abilities!<!--持ち味や技能を活かすでござるよ--></div>
+                                            <div class="bloomed">We should stay close no matter what.<!--いつでも仲良しがいいでござる--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -445,15 +431,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">緩衝コメット</div>
+                                                <div class="name">Alleviating Comet<!--緩衝コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">五人に望むこと</div>
+                                                <div class="name">Wishing for the Five of Them<!--五人に望むこと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">ナレーション役</div>
+                                                <div class="name">The Narrator<!--ナレーション役--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

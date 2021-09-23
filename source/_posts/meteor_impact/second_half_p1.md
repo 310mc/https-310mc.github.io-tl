@@ -526,7 +526,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 {% endbubble %}
 ## Chapter 4
-{% note narration %}
+{% note cw %}
 **Content Warning:** Emetophobia and light mentions of cannibalism ahead.
 {% endnote %}
 {% note location %}
@@ -751,9 +751,8 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 <th>(i thought i saw chiaki, but…)</th>
 
 <th>(it must have been a mistake. i think he is Afraid of me, so…)</th>
-
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble KanataPast frown %}
 <th>(he will probably never Talk to me ever again… i am sure you are just the same as Everyone besides the five Eccentrics—you, too, are—)</th>
 {% endbubble %}
 

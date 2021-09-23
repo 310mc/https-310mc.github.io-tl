@@ -11,6 +11,7 @@ tags:
 - Event Story
 - Akira
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
+hidden: true
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">

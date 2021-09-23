@@ -172,6 +172,7 @@ I'm most likely to translate the following content:
 
 ※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
 ※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page.
+※ Using my __non-story translations__ (such as card quotes, skill names, synopsis, etc...) in the Enstars Wiki.
 ※ Using my translations in quotebots. You don't have to credit me unless you prefer to.
 ※ Adjusting my translations in quotebots for any of the following reasons:
 1. Changing the speech quirk for consistency/preference
