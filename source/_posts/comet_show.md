@@ -9,7 +9,6 @@ tags:
 - Akira
 - Story Index
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
-hidden: true
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 
@@ -20,7 +19,7 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">Comet Show</div>
                 <div class="title-area__subtitle">コメットショウ</div>
-                <div class="title-area__start"><a href="ADDLINK">Start Reading</a></div>
+                <div class="title-area__start"><a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -111,7 +110,7 @@ hidden: true
                 <div class="title-area__title">Comet Show</div>
                 <div class="title-area__subtitle">コメットショウ</div>
                 <div class="title-area__start">
-                    <a href="ADDLINK">Start Reading</a>
+                    <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
@@ -454,24 +453,24 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="ADDLINK" id="none">Prologue</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue" id="none">Prologue</a>
                         </li>
                         <li>
                             <span>Plans for the End</span>
-                            <a href="ADDLINK" id="none">1</a>
-                            <a href="ADDLINK" id="none">2</a>
-                            <a href="ADDLINK" id="none">3</a>
-                            <a href="ADDLINK" id="none">4</a>
-                            <a href="ADDLINK" id="none">5</a>
-                            <a href="ADDLINK" id="none">6</a>
-                            <a href="ADDLINK" id="none">7</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663184107699863552/plans-for-the-end-chapter-1" id="none">1</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663185039143600128/plans-for-the-end-chapter-2" id="none">2</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663185928811151360/plans-for-the-end-chapter-3" id="none">3</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663186562975203328/plans-for-the-end-chapter-4" id="none">4</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663194572342624256/plans-for-the-end-chapter-5" id="none">5</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663195397702942720/plans-for-the-end-chapter-6" id="none">6</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663196016849338368/plans-for-the-end-chapter-7" id="none">7</a>
                         </li>
                         <li>
                             <span>Week-end at the Aquarium</span>
-                            <a href="ADDLINK" id="none">1</a>
-                            <a href="ADDLINK" id="none">2</a>
-                            <a href="ADDLINK" id="none">3</a>
-                            <a href="ADDLINK" id="none">4</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663197640818933760/week-end-at-the-aquarium-chapter-1" id="none">1</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="none">2</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="none">3</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="none">4</a>
                             <a href="/comet_show/second_half" id="none">5</a>
                             <a href="/comet_show/second_half" id="none">6</a>
                             <a href="/comet_show/second_half" id="none">7</a>

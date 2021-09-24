@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
-hidden: true
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -60,6 +59,7 @@ hidden: true
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+<link rel="stylesheet" href="/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
@@ -70,100 +70,100 @@ hidden: true
 {% endnote %}
 {% img /img/es/eventstory/cometshow/ep1.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 “♪\~♪\~♪”
 
-(Hmmm~…)
+<th>(Hmmm~…)</th>
 {% endbubble %}
 {% bubble TetoraS %}
 “♪\~♪\~♪”
 {% endbubble %}
-{% bubble Kanata %}
-(it looks like tetora and shinobu are in perfect shape. we haven’t had many opportunities to sing together as the five of us ever since this year started—)
+{% bubble Kanata2 %}
+<th>(it looks like tetora and shinobu are in perfect shape. we haven’t had many opportunities to sing together as the five of us ever since this year started—)</th>
 
-(and i’m sure they’re emotionally struggling to stay concentrated right now, what with everything that’s been happening…)
+<th>(and i’m sure they’re emotionally struggling to stay concentrated right now, what with everything that’s been happening…)</th>
 
-(but they’re performing as best as they can, without ever expressing those gloomy feelings.)
+<th>(but they’re performing as best as they can, without ever expressing those gloomy feelings.)</th>
 
-(you’re both shining so bright.)
+<th>(you’re both shining so bright.)</th>
 
-(you two grew to be so strong, and became such wonderful heroes.)
+<th>(you two grew to be so strong, and became such wonderful heroes.)</th>
 
-(would my life have been different if the whole of mankind was like you, too…?)
+<th>(would my life have been different if the whole of mankind was like you, too…?)</th>
 
-(would it have turned out differently if everyone in this world was capable of fighting against evil without ever relying on any god…?)
+<th>(would it have turned out differently if everyone in this world was capable of fighting against evil without ever relying on any god…?)</th>
 
-(………)
+<th>(………)</th>
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 ? What’s wrong, Shinkai-senpai? This is meant to be the grand finale for you seniors—It’s the last time we’ll get to see you perform at your best in Ryuseitai, so we wanna hype you up.
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Mhm, mhm! It would be pointless to have us at the front at such a crucial moment; we’d like you to show yourself to the audience!
 
 You don’t have to watch over us in the back in case we need backup or anything—We assure you that we’ll be alright.
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 of course. i can see that very clearly.
 
 to parents, their children will always be their little babies, but standing side-by-side is enough for me to tell that you’ve all grown so much.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Ossu, ‘course we have! I swore to Taishou—to everyone—that I’d grow strong enough to become a great man someday!
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Heh! I may not grow taller, but I assure you my mental fortitude has strengthened enough to be on the same level as my peers! Ninja Arts, Giant Technique…!
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 hehe, did you learn that from mikejima or something?
 {% endbubble %}
 {% img /img/es/eventstory/cometshow/ep1_1.jpg %}
-{% bubble Kanata %}
-(ah— i accidentally called him by his past name…)
+{% bubble Kanata2 %}
+<th>(ah— i accidentally called him by his past name…)</th>
 
-(say, my first hero and friend—were we able to become the heroes you used to love so much, mikejima?)
+<th>(say, my first hero and friend—were we able to become the heroes you used to love so much, mikejima?)</th>
 
-(as you can see, we’re clearly a mess right now, but…)
+<th>(as you can see, we’re clearly a mess right now, but…)</th>
 
-(our children have grown so strong that i’m sure you wouldn’t ever be able to crush them, even if you tried.)
+<th>(our children have grown so strong that i’m sure you wouldn’t ever be able to crush them, even if you tried.)</th>
 
-(that’s why i choose to be proud of them, if nothing else. these children have become such honest, good boys, despite being raised by a monster.)
+<th>(that’s why i choose to be proud of them, if nothing else. these children have become such honest, good boys, despite being raised by a monster.)</th>
 
-(that might be the biggest miracle i've ever performed in my life.)
+<th>(that might be the biggest miracle i've ever performed in my life.)</th>
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 ? What are you grinning about…?
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Haha, I’m more than glad you’re having a blast, though~!
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 mhm. hehe, i’m sorry—did i weird you two out?
 {% endbubble %}
 {% bubble TetoraS %}
 Not at all.
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 okay. then let’s set myself aside for now… the ones i’m actually worried about are chiaki and midori. they really are running late, aren’t they? could something have happened?
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Shall I withdraw for a moment to do a quick check-up on them?
 
 We could at least know what’s holding them up if I make contact with Anzu-dono, since she was the one who helped us deliver their outfits to them.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 No, it’d be best not to. I’m betting that our guests are confused about why there’s only three of us on stage right now, considering we specifically stated in our announcement that we’d be performing as the five of us for the first time in a while.
 
 If you leave the stage now, it’s gonna make ‘em think something bad might’ve happened for real.
@@ -175,7 +175,7 @@ Otherwise, they might end up panicking and thinking that the real reason why our
 Like, as an example, pro wrestling also has special matches to mark a wrestler’s retirement, but in some rare cases the match clearly has an upsetting “take a guess what got us here…” feel to it.
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 I know nothing about pro wrestling, but considering we’ve had many terrible rumors surrounding us since summer began…
 
 I agree that we must refrain from presenting ourselves in a false manner, so we can avoid making people feel distrustful of us.
@@ -183,14 +183,14 @@ I agree that we must refrain from presenting ourselves in a false manner, so we 
 Ahhh, how frustrating… Being unable to move as freely as possible means I’m unable to thrive through my ninja lightning speed abilities.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Ossu, I know how you feel. But complaining won’t get us anywhere, so let’s do whatever it takes to make the best out of this situation. As long as we work our hardest to make our dreams come true, nothing is impossible.
 
 I’m sure everything’ll go just fine if we do that! Even if that's just me being idealistic, I’ll be doing the best I can to make it a reality! Ossu!
 {% endbubble %}
 
 {% note narration %}
-(Screen fades to black for a moment)
+*(Screen fades to black for a moment)*
 {% endnote %}
 {% img /img/es/eventstory/cometshow/ep1_2.jpg %}
 {% bubble Shinobu surprised %}
@@ -211,7 +211,7 @@ My apologies, the chuunibyou spirit within me felt a tingle at the thought.
 Anyways, this is bad! It looks like something went wrong with the lighting…!
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 no—
 
 this doesn’t look similar to the incident shu and his unit[^1] experienced two years ago.
@@ -223,7 +223,7 @@ it’s our planetarium at work. we had one installed inside here.
 P-Planetarium…?
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 yes. our jellyfishies and such would look even prettier illuminating the night, so we installed one to captivate our guests.
 
 {% endbubble %}
@@ -231,13 +231,13 @@ yes. our jellyfishies and such would look even prettier illuminating the night, 
 T-This aquarium really does have everything, doesn’t it…?
 
 {% endbubble %}
-{% bubble Kanata %}
-eheh~♪ we were financially struggling at one point[^2], so we tried a whooole lot of strategies\~ may we hope for that kind of effort to never be in vain.
+{% bubble Kanata2 %}
+eheh\~♪ we were financially struggling at one point[^2], so we tried a whooole lot of strategies\~ may we hope for that kind of effort to never be in vain.
 
 anyway, why *did* the planetarium turn on suddenly…?
 
 {% endbubble %}
-{% bubble Great Kaijuu %}
+{% bubble Kaijuu %}
 “ROOOOOOOOOAR!!”
 
 {% endbubble %}
@@ -249,7 +249,7 @@ EEEEEEK!?
 Woah—!? Shinobu-kun, I get being spooked, but please don’t hide inside my clothes! Ah, it tickles…! What’re you, a squirrel!?
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 hehe, it’s disgraceful for a hero to run away with their tail between their legs~
 
 {% endbubble %}
@@ -257,26 +257,26 @@ hehe, it’s disgraceful for a hero to run away with their tail between their le
 Y-You’re pretty calm, huh, Shinkai-senpai…?
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 i got used to huge animals because of the aquarium, after all. why, creatures here can weigh a ton, you know?
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Creatures…? Ahh, you mean from the ocean? Like steller sea lions and walruses?
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 yes. but it looks like what’s before us right now is actually the fire-breathing type of creature.
 
 {% endbubble %}
 ## Chapter 2
 {% img /img/es/eventstory/cometshow/ep2.jpg %}
 
-{% bubble Great Kaijuu %}
-“RAAAAAAAAAAAAAAAAWR!!! GROOOOOOOOOWL!!”
+{% bubble Kaijuu %}
+“ROOOOOOOOOOAR!!! GROOOOOOOOOWL!!”
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Ohhh, you’re right! I see a kaijuu so gigantic, it could envelop the entire starry sky!
 
 What is the meaning of this…!? Its strangely soft-looking appearance is the exact kind that Midori-kun would adore!
@@ -304,7 +304,7 @@ A-Again…? I know it was once a trend in hero shows to fight amongst each other
 Close intimacy suits us best, you know!
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Yup, yup. But that said, where *is* Morisawa-senpai anyway…? Shouldn’t he have been with you, Midori-kun?
 
 {% endbubble %}
@@ -322,15 +322,15 @@ It’s about time we start explaining what’s happening here, and move on to th
 Okay, Shinobu-kun, here you go. The script.
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Huh? So I just need to read this, right?
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Ahaha, you’ve become the go-to guy for narration, huh? ♪
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Mhm, I’m grateful for it. It feels as though my peculiar abilities are being put to great use.
 
 …Ahem~… “The year is 20XX AD! Mankind has joined hands to surmount the threats of plague, the neverending conflicts, and any and all disasters! However, it was at that moment that a new enemy charged in to cause mayhem!”
@@ -340,7 +340,7 @@ Mhm, I’m grateful for it. It feels as though my peculiar abilities are being p
 “This monster was the crystallization of the negative emotions left behind by mankind throughout the times, and even after feeding on human suffering, its very core hungered for more, and it began to terrorize the entire world!”
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 wow, that plot has no originality to it, don’t you think?
 
 {% endbubble %}
@@ -348,7 +348,7 @@ wow, that plot has no originality to it, don’t you think?
 Of all people who’d nitpick, I didn’t expect it to be you, Shinkai-senpai… Morisawa-senpai had to rush a script out on his way here, so you’ll just have to accept the bad writing for what it is…
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 no, it’s more like… something i can relate to.
 
 {% endbubble %}
@@ -356,16 +356,16 @@ no, it’s more like… something i can relate to.
 ……?
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 “However, mankind mustn’t give up! Where darkness may lie, let there be light! When evil surges forth, justice shall too!”
 {% endbubble %}
 {% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 “‘I want to protect our wonderful planet!’ ‘I want to protect my loved ones!’ ‘I want to live happily forever, without any worries or anguish!’”
 
-“It is those wishes and desires filled with positive emotions that crystalized and called upon a different miracle!”
+“It is those wishes and desires filled with positive emotions that crystalized and called upon a miracle!”
 
-“Turning all the dreams and hopes deep inside everyone’s hearts into his strength—A warrior of justice stood up to take the stage!”
+“Turning all the dreams and hopes deep inside everyone’s hearts into his strength—The warrior of justice stood up to take the stage!”
 
 {% endbubble %}
 {% bubble Chiaki csbcg %}
@@ -376,8 +376,8 @@ no, it’s more like… something i can relate to.
 “I’m Ryusei Red, Morisawa Chiaki…!”
 
 {% endbubble %}
-{% bubble Tetora %}
-… Woah, the lights came back on so suddenly. What's this so dramatic for?
+{% bubble Tetora2 %}
+…Woah, the lights came back on so suddenly. What's this so dramatic for?
 
 {% endbubble %}
 {% bubble Midori2 %}
@@ -387,7 +387,7 @@ Eh, what’s the big deal… Didn’t you guys wanna make this our final parting
 {% bubble Tetora serious %}
 You sound like you’ve got a problem with that, Midori-kun.
 {% endbubble %}
-{% img /img/es/eventstory/cometshowmidoribcg.jpg %}
+{% img /img/es/eventstory/cometshow/midoribcg.jpg %}
 {% bubble Midori csbcg %}
 I have more than one, actually…
 
@@ -406,7 +406,7 @@ As much as it pains me, I guess we’ll just have to back him up.
 “W-Why are you snapping at me, Green!? And watch your language! You should speak to your seniors more politely! Promise me you’ll do that, okay!?”
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Urmm… I’ve no idea what’s happening anymore… But that’s always how it is for Ryuseitai anyway.
 
 As a ninja, my duty is to support from the sidelines while everyone takes action as they please. That is my wish, what brings me the most joy, and what I consider my form of justice.
@@ -416,7 +416,7 @@ As a ninja, my duty is to support from the sidelines while everyone takes action
 “Ryusei Yellow, Sengoku Shinobu…!”
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata csbcg %}
 ——well then, i’ll join along~♪
 
 you three have become so very reliable, but that doesn’t mean that i’m no longer needed.
@@ -434,13 +434,13 @@ no, it could go even beyond that—i feel like we could make anything happen as 
 “and now, i’m here with all of you, living on land! ryusei blue—shinkai kanata!”
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Oooh, that’s longer than the other two’s catchphrases. I don’t even know which one’s your original catchphrase at this point, but… I felt this version deep in my heart.
 
 Man… I can’t even imagine how great it could’ve been if we could all live alongside one another.
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 ………
 
 {% endbubble %}
@@ -448,7 +448,7 @@ Man… I can’t even imagine how great it could’ve been if we could all live 
 Nagumo! I’m so sorry! I accidentally called myself Red before you could speak! I’m sorry to ask this of you, but could you let me take the spotlight as your seni—
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Ahaha. Can’t you see the outfit I’m wearing, Senpai?
 
 I’ve still got ways to go before I can properly wear the the color red, and I’m painfully aware that no amount of rushing will get me there any faster.
@@ -469,21 +469,21 @@ So I’ll proudly yell my own catchphrase with my head held high!
 ## Chapter 3
 {% img /img/es/eventstory/cometshow/ep3.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 “Let’s go, you guys! We’ll defeat the Great Kaijuu before it destroys our world!”
 
 “We will prevail, for the sake of the Earth’s future—and for the sake of protecting everyone’s freedom and happy lives!”
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 … Yeah, yeah. But please stop trying to lead the team when *you’re* the one who arrived last, Senpai.
 
 {% endbubble %}
-{% bubble Chiaki %}
-Oooh! Nice one, Nagumo! That sounded like something you’d hear in a crossover between Shouwa Riders and Heisei Riders…![^3] It’s firing me up…!
+{% bubble Chiaki2 %}
+Oooh! Nice one, Nagumo! That sounded like something you’d hear in a crossover between Showa Riders and Heisei Riders…![^3] It’s firing me up…!
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 There’s not *that* much of a generation gap between us, though…?
 
 {% endbubble %}
@@ -495,24 +495,24 @@ Exactly. We’re only two years apart, but you still act like you’re *sooo* mu
 W-Why are you guys being so harsh!? You keep firing off one remark after the other! But it’s fine, I guess! It reminded me of our time during Supernova!
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 well, i think it’s understandable that they’d scold you a little. you showed up very, very late, chiaki… and you too, midori. did something happen?
 
 although i knew you two would come eventually, no matter what.
 
 {% endbubble %}
 {% bubble Chiaki awkward %}
-Yeah… I’m really sorry for always being late.
+Yeah… I’m really sorry[^4] for always being late.
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 no, i’d rather you were late than never arriving at all, chiaki.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Mmm~… Did it take you a while to prepare that shabby-looking CGI for that huge kaijuu or something?
 
 {% endbubble %}
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 Don’t call it shabby!
 
 I mean, sure, it may look like paper-mache compared to those popular foreign movies with huge budgets, but Japan’s tokusatsu movies do the best they can too, okay!?
@@ -532,7 +532,7 @@ H-How did you even reach that conclusion!? I’m not made of paper-mache! And ev
 Well, yeah, that’s why you’re ES’s pride, and such an in-demand entertainer right now.
 
 {% endbubble %}
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 Mhm! If there’s anything lacking inside me, I’ll just fill it up! If I can’t do it on my own, I surely can with everyone beside me! Nothing is impossible as long as I'm alive!
 
 {% endbubble %}
@@ -540,7 +540,7 @@ Mhm! If there’s anything lacking inside me, I’ll just fill it up! If I can�
 …Why…
 
 {% endbubble %}
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 Hm?
 
 {% endbubble %}
@@ -552,7 +552,7 @@ Why are you, a stupidly positive person… holding back and giving up so easily 
 You’re going to bring that up again, Takamine?
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 hm? what are you talking about~?
 
 {% endbubble %}
@@ -571,7 +571,7 @@ Mm, I’m sorry. I swear I’m not angry at you or anything.
 {% bubble Midori sad %}
 It’s fine… Honestly, you *should* be angry—It’s my fault we got here so late… I held us back during our very last stage together.
 
-But that’s exactly what I can’t stand. I’m just so irritated, like, what do you *mean* our ‘last’ stage? Are you all being serious right now…?
+But that’s exactly what I can’t stand. I’m just so irritated, like, what do you *mean* our “last” stage? Are you all being serious right now…?
 
 That’s why I just couldn’t take it anymore on our way here, after changing into our uniforms…
 
@@ -591,7 +591,7 @@ Midori-kun—
 
 {% endbubble %}
 {% bubble Midori sad %}
-I’m sorry, Tetora-kun, Shinobu-kun. I’m the only one who hasn’t changed since Repayment Festival… I haven’t grown at all. It’s all ‘cause I’ve been pampered, protected, and helped by you guys.
+I’m sorry, Tetora-kun, Shinobu-kun. I’m the only one who hasn’t changed since Repayment Festival… I haven’t grown at all. It’s all ‘cause I’ve been pampered, protected, and helped by everyone.
 
 {% endbubble %}
 {% bubble Shinobu worried %}
@@ -608,7 +608,7 @@ I’m saying all this ‘cause that’s the sorta pathetic guy I am—After all,
 Unlike everyone else who can only think in tokusatsu concepts ‘cause they’ve become brainwashed by all those shows—I *can* think in a normal, realistic manner.
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 ……?
 
 {% endbubble %}
@@ -627,7 +627,7 @@ That *stupid* hero over there started to say stupidly heroic stuff to me.
 
 {% endbubble %}
 {% bubble Midori sigh %}
-Nothing, you can stay that way. You’re just acting as your ideal hero you dreamed to be—
+Nothing, you can stay that way. You’re just acting as the ideal hero you dreamed to be—
 
 Or well, maybe saying “acting” is off. Lemme rephrase: that’s just you properly being a hero, right?
 
@@ -651,30 +651,30 @@ That’s why—
 
 {% endbubble %}
 {% bubble Tetora surprised %}
-(…!? W-What’s he doing all of a sudden!?)
+<th>(…!? W-What’s he doing all of a sudden!?)</th>
 
 {% endbubble %}
 {% bubble Shinobu surprised %}
-(He’s not going to tell our fans that this is the last time the five of us will perform together… is he?)
+<th>(He’s not going to tell our fans that this is the last time the five of us will perform together… is he?)</th>
 
-(This is an extremely sensitive issue, so we decided that we’d announce it much more properly and carefully rather than in this improvised live show—)
+<th>(This is an extremely sensitive issue, so we decided that we’d announce it much more properly and carefully rather than in this improvised live show—)</th>
 
-(Isn’t that why we chose to make today all about making everyone enjoy themselves…?)
+<th>(Isn’t that why we chose to make today all about making everyone enjoy themselves…?)</th>
 
-(Actually, wait—Midori-kun tends to not check HoldHands that often, so perhaps he isn’t aware of our decision…?)
+<th>(Actually, wait—Midori-kun tends to not check HoldHands that often, so perhaps he isn’t aware of our decision…?)</th>
 
 {% endbubble %}
 ## Chapter 4
 {% img /img/es/eventstory/cometshow/ep4.jpg %}
 
 {% bubble Tetora worried %}
-(Mrmm… I don’t think Midori-kun’s planning on exposing everything to the public out of desperation or something.)
+<th>(Mrmm… I don’t think Midori-kun’s planning on exposing everything to the public out of desperation or something.)</th>
 
-(He’s a hero too, after all—He said it himself, and we see him the same way no matter what.)
+<th>(He’s a hero too, after all—He said it himself, and we see him the same way no matter what.)</th>
 
-(He wouldn’t say something upsetting while he’s wearing his hero uniform.)
+<th>(He wouldn’t say something upsetting while he’s wearing his hero uniform.)</th>
 
-(Wait, no… He *does* actually say rude stuff to some people, like Morisawa-senpai. What’s *that* all about anyway? Is he trying to act like a spoiled kid around him—or maybe messing around with him? I mean, it sounds like it’s how he expresses his love, so…?)
+<th>(Wait, no… He *does* actually say rude stuff to some people, like Morisawa-senpai. What’s *that* all about anyway? Is he trying to act like a spoiled kid around him—or maybe messing around with him? I mean, it sounds like it’s how he expresses his love, so…?)</th>
 
 {% endbubble %}
 {% bubble Midori serious %}
@@ -687,7 +687,7 @@ That’s why—
 “I’m sure you’ve heard of it, since there was an official announcement about his casting just the other day. The five core members of Ryuseitai you're seeing on stage right now will also be appearing in that show too.”
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 …? Uh, what’s this about? I didn’t hear anything about this.
 
 {% endbubble %}
@@ -705,7 +705,7 @@ Yeah, probably… I’m sure she won’t have any problems negotiating with them
 That’s the kind of sneaky strategy I’m going for here… He he he~♪
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 hmm, i see. but you didn’t have to copy after chiaki when it comes to that.
 
 {% endbubble %}
@@ -730,7 +730,7 @@ Yeah, I learned this trick from you, Senpai. I’ve grown up enough to understan
 
 {% endbubble %}
 {% bubble Shinobu awkward %}
-… Um. I’m not really sure what to say here, but…
+…Um. I’m not really sure what to say here, but…
 
 Please don’t just decide all of our plans on your own.
 
@@ -857,8 +857,6 @@ To me, you are all precious treasures that I never, ever once expected to have i
 {% endbubble %}
 ## Chapter 5
 {% img /img/es/eventstory/cometshow/ep5.jpg %}
-
-
 {% bubble Midori smile %}
 … I ended up preaching a bit. That's embarrassing… I don’t wanna keep our guests waiting, so let’s get rid of all the unnecessary stuff and start the show.
 
@@ -893,7 +891,7 @@ Yeah, that’s understandable. But, slow as it may be, you’ve been steadily mo
 That’s exactly why I want to ask this one favor from you: Until the day comes when you’re satisfied with yourself and feel capable of wearing the red color, I’d like you to return the color back to me.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 ………
 
 {% endbubble %}
@@ -910,7 +908,7 @@ By that, I mean *you*, Nagumo. I did it precisely because I believed you were su
 
 {% endbubble %}
 {% bubble Tetora sad %}
-… But reality was different from that, yeah? I failed to meet your expectations… I kept making us lose all the things you seniors worked hard to build up…
+…But reality was different from that, yeah? I failed to meet your expectations… I kept making us lose all the things you seniors worked hard to build up…
 
 {% endbubble %}
 {% bubble Chiaki serious %}
@@ -926,7 +924,7 @@ I kept chasing after a dream instead of facing reality, pulling all of you along
 
 I was the idiot here.
 
-I wanted to act like a hero, but in the end, it was all just nothing different from a foolish parent trying to make their kids follow along with their own dreams.
+I wanted to act like a hero, but in the end, it was nothing different from a foolish parent trying to make their kids follow along with their own dreams.
 
 In reality, as Takamine said, we could just wear outfits of the color we like—a color that suits who we are. And there’s nobody else in this world who’s wanted to wear the red color more than I have, ever since childhood.
 
@@ -937,7 +935,7 @@ That’s why from here on out, I’ll keep wearing the red color.
 Then what about—…
 
 {% endbubble %}
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 You’re also free to wear the red color if you want to. And of course, you’re free to stay as black, too. You should wear the color you like.
 
 What’s important here isn’t the color of our clothes—It’s if you guys feel satisfied with yourselves enough to wear the color.
@@ -1002,7 +1000,7 @@ I acted like a good kid to everyone, just because I didn’t want to see anyone 
 
 In the end, that led us to continue on our unit work in an unnatural way, all due to my attempts to satisfy everyone.
 
-Because of that, we just ended up causing a lot of confusion for everyone, and then we were attacked by Crazy:B[^5] at our most vulnerable moment and suffered the consequences.
+Because of that, we just ended up causing a lot of confusion for everyone, and then we were attacked by Crazy:B at our most vulnerable moment and suffered the consequences.
 
 But I’m going to put all of that to an end right here, right now.
 
@@ -1022,16 +1020,15 @@ That was the agency’s orders, after all.
 
 We’ll let the subsidiaries of our unit handle the Yumenosaki side. Of course, we’ll still be helping them out as much as we can.
 
-But this does mean we’ll be letting go of all the boys who joined our unit out of admiration right in the middle of their school year.
+This does mean we’ll be letting go of all the boys who joined our unit out of admiration right in the middle of their school year, though.
 
-However, we also demanded a handful of things from the agency in exchange for our compliance with their orders.
+Regardless, we also demanded a handful of things from the agency in exchange for our compliance with their orders.
 
 {% endbubble %}
 ## Chapter 6
 {% img /img/es/eventstory/cometshow/ep6.jpg %}
 
-
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 First, we asked the agency to allow us to take part in the upcoming tokusatsu show together this spring. That’s what Takamine just announced to everyone.
 
 The show is very high-budget and has a high chance of becoming a huge hit, so it would be an advantage for us to take part in it.
@@ -1045,7 +1042,7 @@ That’s why it was important that we show off our cool fighting skills against 
 Ahh, I was wondering what that strange act earlier was for… This isn’t anything new between us, but it makes things confusing when the explanation comes in so late.
 
 {% endbubble %}
-{% bubble Chiaki %}
+{% bubble Chiaki2 %}
 Yeah, I’m so sorry for doing that everytime.
 
 Nevertheless, I’m going to be performing as both a kaijuu and a hero. This way, there should be no problems regarding my face being hidden behind the costume.
@@ -1062,12 +1059,12 @@ This way, we’ll be able to protect our autonomy and freely do things the way w
 
 We’re not soldiers like Alkaloid—We’re heroes who sacrifice ourselves only under our own sense of justice.
 
-… It would be selfish of me to say all that without giving anything in return, however, so we also took down the proposal of Kanata and I leaving Ryuseitai.
+…It would be selfish of me to say all that without giving anything in return, however, so we also took down the proposal of Kanata and I leaving Ryuseitai.
 
 The two of us will be working as part of Ryuseitai from now on, as well.
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Ah! I’m so glad to hear that. While I could infer why you two suggested that—
 
 It truly is saddening to part ways.
@@ -1130,7 +1127,7 @@ I don’t know how many years that would take—In the worst case scenario, it c
 
 But I’ll still keep waiting and dreaming of the day that happens, and work hard to see it realized.
 
-We—No, I rushed too much.
+We—No, *I* rushed too much.
 
 I was so fixated on getting things to move according to plan, and according to the ideal I was fantasizing about, that I couldn’t see reality properly.
 
@@ -1140,10 +1137,10 @@ But I’ll be ensuring I do things right this time, in order to compensate for w
 
 I’ll surely be able to find the happy future where all of us are satisfied and agree together, and grasp it for us with my own two hands.
 
-I swear that I will. I may be a lying paper mache with nothing but a strong front, but I protect my vows. At the very least, I will do whatever it takes to protect it.
+I swear that I will. I may be a lying paper-mache with nothing but a strong front, but I protect my vows. At the very least, I will do whatever it takes to protect it.
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 and i can vouch for that.
 
 chiaki may be clumsy, and takes more steps back than forward while he’s struggling through his path—
@@ -1151,7 +1148,7 @@ chiaki may be clumsy, and takes more steps back than forward while he’s strugg
 and he may make many mistakes, but he *always* manages to properly do things by the end.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Yeah, I know. I mean, that’s what Ryuseitai’s all about, isn’t it?
 
 I feel like I got to really be reminded of that all over again.
@@ -1164,7 +1161,7 @@ But I forgot that for a moment—I took a step too far, thinking we’re already
 
 As a result, I ended up muddying the red outfit I had been given with so many expectations, and turned it pitch black.
 
-But that’s the color I choose to wear as we start anew.
+But that’s the color I choose to wear as we start anew—
 
 Until the day I become satisfied with myself enough to wear the red color.
 
@@ -1173,7 +1170,7 @@ Until the day I become satisfied with myself enough to wear the red color.
 Alright. I’m so sorry, Nagumo.
 
 {% endbubble %}
-{% bubble Tetora %}
+{% bubble Tetora2 %}
 Why’re you apologizing? None of us did anything wrong, and we haven’t lost a single thing.
 
 I mean, c’mon—There’s only one thing waiting out there for us: the dazzling future we’ll surely manage to reach by working hard.
@@ -1181,7 +1178,7 @@ I mean, c’mon—There’s only one thing waiting out there for us: the dazzlin
 You’re supposed to *smile* here, not apologize.
 
 {% endbubble %}
-{% bubble Kanata %}
+{% bubble Kanata2 %}
 that’s right. we’re idols, after all.
 
 {% endbubble %}
@@ -1191,7 +1188,7 @@ Yup… Our fans are super open-minded so they kindly waited for us, but we would
 I mean, we’ve just been talking among ourselves for forever…
 
 {% endbubble %}
-{% bubble Shinobu %}
+{% bubble Shinobu2 %}
 Mhm, mhm. We’ll talk about this—no, about *everything* after our performance is over.
 
 Our lives aren’t ending here, and the world isn’t ending either.
@@ -1217,4 +1214,4 @@ No matter what the future has in store for us, and even if we can only stay this
 [^1]: This is referencing [Marionette](https://fortunebanquet.tumblr.com/tagged/marionette/chrono), a reminiscence story about Valkyrie’s past.
 [^2]: A reference to Summer Snow, where Kanata had to come up with a marketing strategy to make his aquarium flourish.
 [^3]: The Kamen Rider series are categorized into Japan's time periods. The [Showa series](https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series) is considered the first era of the series (1926 to 1989 series), with [Heisei](https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series) (1989 to 2019) coming right after it.
-[^5]: A reference to what happens in the ES!! main story. A TL;DR until it's translated: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
+[^4]: Chiaki says *gomen* here, a more polite/softer way to say "sorry" compared to *suman* (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in [Sweet Halloween](https://euni2319.dreamwidth.org/15004.html).
