@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
+description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -49,7 +49,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             		Proofreading
         		</div>
         		<div class="value">
-            		<b>Main:</b> <a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, Gelyan, TsubasaFL
+            		<a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, Gelyan, TsubasaFL
         		</div>
     		</div>
 		</div>
@@ -58,7 +58,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
@@ -482,7 +481,7 @@ It sure is… He was called over by a couple staff members for some business in 
 {% bubble Kanata hidden %}
 “mm\~m\~ ahem, ahem~♪”
 
-“hello, everyone~‘thank you for visiting the aoumi aquarium today!”
+“hello, everyone~ thank you for visiting the aoumi aquarium today!”
 
 “as you may know, i’m the mascot[^2] known as kanatee\~♪”
 
@@ -714,8 +713,8 @@ That’s why we’ve gotta make sure to entertain everyone and leave ‘em with 
 yes. for this is our final stage as the five of us together—
 
 so let’s carry out our performance with a smile on our faces. this may be where it all comes to an end, but we’ll make sure that everyone thinks of it as a happy ending.
-
 {% endbubble %}
+
 ## Chapter 9
 {% note location %}
 **Location:** Aoumi Aquarium (Main Exhibit)

@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…"
+description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -59,7 +59,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
-<link rel="stylesheet" href="/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
@@ -870,7 +869,7 @@ Yeah, to be honest, one of the things we should never do as idols is chat amongs
 
 On our way here, Takamine and I had a similar conversation.
 
-It was a little awkward because he kept throwing a tantrum, but one of the wonderful things about him is that doesn’t put up a strong front like I do.
+It was a little awkward because he kept throwing a tantrum, but one of the wonderful things about him is that he doesn’t put up a strong front like I do.
 
 He’s honest with himself, and so genuinely dazzling. He spoke out the feelings I was trying my best to hide deep inside me—the same feelings you guys likely had, too.
 
