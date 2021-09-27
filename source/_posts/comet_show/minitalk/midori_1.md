@@ -130,7 +130,7 @@ Uuu… I'm sorry, it must've been so annoying… But I feel like I can't get thr
 You probably already know this, but Ryuseitai hasn't been doing well lately…
 {% endbubble %}
 
-<div class="minitalk" character="Anzu">
+<div class="minitalk">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
             It's making you depressed, isn't it?
@@ -201,7 +201,7 @@ Talking to you made me realize that maybe I really *did* want someone to hear me
 I didn't think I needed it at first, 'cause I don't want too many people knowing what's been going on with us, and I barely have anyone I can talk to when it comes to unit problems…
 {% endbubble %}
 
-<div class="minitalk" character="Anzu">
+<div class="minitalk">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
             You can always count on me.
