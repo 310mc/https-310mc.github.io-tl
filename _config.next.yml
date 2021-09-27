@@ -88,6 +88,7 @@ menu:
   categories: categories || fa fa-folder-open
   tags: tags || fa fa-tags
   archives: history || fa fa-history
+  #About ES Era: aboutes || fa fa-sitemap
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat

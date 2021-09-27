@@ -13,8 +13,10 @@ This masterlist is a WIP. Stay tuned for a more refined version!
 <p><strong>Sweet Halloween:</strong> <a href="https://euni2319.dreamwidth.org/15004.html">Chapter Masterlist</a></p>
 <p><strong>School Festival 4: </strong><a href="https://euni2319.wordpress.com/2019/05/21/school-festival-4-chapter-masterlist/">Chapter Masterlist</a></p>
 <p><strong>Orihime and Hikoboshi:</strong> <a href="https://euni2319.dreamwidth.org/24376.html">Chapter Masterlist</a></p>
-<p><strong>Meteor Impact: </strong><a href="/meteor_impact">Chapter Masterlist</a></p>
+<p><strong><a href="/meteor_impact">Meteor Impact</a></strong></p>
 <p><strong>Motor Show:</strong> Coming soon!</p>
+<p><strong><a href="/comet_show">Comet Show</a></strong></p>
+
 <p><strong><a href="https://euni2319.dreamwidth.org/4502.html">Crossroad Event (!Chiaki-related scenes ONLY!)</a></strong></p>
 
 

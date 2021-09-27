@@ -12,7 +12,6 @@ tags:
 - Akira
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
 	<div class="info-area">
 		<div class="info">
@@ -21,11 +20,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             		Characters
         		</div>
         		<div class="value">
-            <a href="/categories/Enstars/Chiaki" id="chiaki"></a>
-            <a href="/categories/Enstars/Midori" id="midori"></a>
-            <a href="/categories/Enstars/Kanata" id="kanata"></a>
-            <a href="/categories/Enstars/Tetora" id="tetora"></a>
-            <a href="/categories/Enstars/Shinobu" id="shinobu"></a>
+						<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+						<a href="/categories/Enstars/Midori" character="Midori"></a>
+						<a href="/categories/Enstars/Kanata" character="Kanata"></a>
+						<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+						<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
         		</div>
     		</div>
 			<div class="info-item writer">
@@ -57,8 +56,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>

@@ -1,5 +1,5 @@
 ---
-title: "Do The Norm"
+title: "[ES!!] Do The Norm"
 date: 2020-08-25 9:00:00
 categories:
 - [Enstars, Midori]
@@ -11,23 +11,53 @@ tags:
 - Yuumasu
 description: "[ES!!] An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery."
 ---
-
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Basketball_Connections%29_Aira_Shiratori_M_Bloomed.png)
 :-:|:-:
 
 Aira goes to school for once and makes an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story. You can unlock this story from the card [[Basketball Connections] Aira Shiratori](https://ensemble-stars.fandom.com/wiki/(Basketball_Connections)_Aira_Shiratori).
 
-**Series:** [Ensemble Stars](/categories/Enstars)
-**Writer:** [Yuumasu](/tags/Yuumasu)
-**Characters:** [Midori](/categories/Enstars/Midori), [Chiaki](/categories/Enstars/Chiaki), [Aira](/categories/Enstars/Aira)
-**Era:** [ES!!](/aboutes)
-**Season:** Summer
-**TL:** [310mc](https://310mc.github.io/)
-**ENG Proof:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
+<div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+	<div class="info-area">
+		<div class="info">
+    		<div class="info-item characters">
+        		<div class="label">
+            		Characters
+        		</div>
+        		<div class="value">
+						<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+						<a href="/categories/Enstars/Midori" character="Midori"></a>
+            <a href="/categories/Enstars/Aira" character="Aira"></a>
+        		</div>
+    		</div>
+			<div class="info-item writer">
+        		<div class="label">
+            		Writer
+        		</div>
+        		<div class="value">
+            		Yuumasu
+        		</div>
+    		</div>
+    		<div class="info-item tl">
+        		<div class="label">
+            		Translation
+        		</div>
+        		<div class="value">
+            		<a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz">Amagiiz</a>
+        		</div>
+    		</div>
+    		<div class="info-item pr">
+        		<div class="label">
+            		Season
+        		</div>
+        		<div class="value">
+            		Summer
+        		</div>
+    		</div>
+		</div>
+	</div>
+</div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css/css/esexp.css">
 
 {% note location %}
 **Location:** Yumenosaki Academy Front Gate

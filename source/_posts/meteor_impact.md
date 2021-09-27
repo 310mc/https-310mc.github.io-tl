@@ -1,5 +1,5 @@
 ---
-title: Meteor Impact
+title: "[ES!] Meteor Impact"
 date: 2019-04-10 9:00:00
 categories:
 - [Enstars, ES!]
@@ -11,14 +11,101 @@ tags:
 - Story Index
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 ---
+<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+    <div class="grid-wrapper">
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/meteorimpact/chiakibcgframe.jpg')"></div>
+        <div class="preview-box">
+            <div class="title-area">
+                <div class="title-area__title">Meteor Impact</div>
+                <div class="title-area__subtitle">メテオインパクト</div>
+                <div class="title-area__start"><a href="/meteor_impact/prologue">Start Reading</a></div>
+            </div>
+            <div class="info-area">
+                <div class="synopsis">
+                    Two years ago, Chiaki decided to head over and clean the pool that was dirtied by his unit members. It was there that he met Kanata, crouched within the depths of the pool.<br>This is the story of a boy who dreamed of being a hero, and a boy known to be a god.
+                </div>
+                <div class="info">
+                    <div class="info-item season">
+                        <div class="label">
+                            Season
+                        </div>
+                        <div class="value">
+                            Past – Present time
+                        </div>
+                    </div>
+                    <div class="info-item chapters">
+                        <div class="label">
+                            Chapters
+                        </div>
+                        <div class="value">
+                            54
+                        </div>
+                    </div>
+                    <div class="info-item writer">
+                        <div class="label">
+                            Writer
+                        </div>
+                        <div class="value">
+                            Akira
+                        </div>
+                    </div>
+                    <div class="info-item characters">
+                        <div class="label">
+                            Characters
+                        </div>
+                        <div class="value">
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                        <a href="/categories/Enstars/Keito" character="Keito"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Shu" character="Shu"></a>
+                        <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        </div>
+                    </div>
+                    <div class="info-item tl">
+                        <div class="label">
+                            Translation
+                        </div>
+                        <div class="value">
+                            <a href="/about">310mc (Main)</a>, with co-translators <a href="https://twitter.com/sunsunrainys">emu</a> and haranami
+                        </div>
+                    </div>
+                    <div class="info-item pr">
+                        <div class="label">
+                            Proofreading
+                        </div>
+                        <div class="value">
+                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival">SayonaraRevival (Main)</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://twitter.com/goldgust">Goldgust</a>, Shie, <a href="https://twitter.com/seiginoakashi">Nanashi</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- more -->
+<style>
+    .preview-wrapper {
+        display: none;
+    }
+    @media (max-width: 567px) {
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+</style>
 {% note cw %}
 **Content Warning:** This story deals with topics that may be upsetting for some readers. Please check the content warnings first!
 {% endnote %}
 {% note cw %}
 **Includes, but not limited to:** Major discussions of cult, depictions of harrassment, as well as heavy mentions of cannibalism, violence, bullying, child abuse, and depression.
 {% endnote %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.0.5/story_cover/story-cover.css">
 
 <style>
     :root {
@@ -74,17 +161,17 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                             Characters
                         </div>
                         <div class="value">
-                            <a href="/categories/Enstars/Kanata" id="kanata"></a>
-                            <a href="/categories/Enstars/Chiaki" id="chiaki"></a>
-                            <a href="/categories/Enstars/Madara" id="madara"></a>
-                            <a href="/categories/Enstars/Kuro" id="kuro"></a>
-                            <a href="/categories/Enstars/Keito" id="keito"></a>
-                            <a href="/categories/Enstars/Souma" id="souma"></a>
-                            <a href="/categories/Enstars/Shu" id="shu"></a>
-                            <a href="/categories/Enstars/Subaru" id="subaru"></a>
-                            <a href="/categories/Enstars/Midori" id="midori"></a>
-                            <a href="/categories/Enstars/Tetora" id="tetora"></a>
-                            <a href="/categories/Enstars/Shinobu" id="shinobu"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Madara" character="Madara"></a>
+                            <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                            <a href="/categories/Enstars/Keito" character="Keito"></a>
+                            <a href="/categories/Enstars/Souma" character="Souma"></a>
+                            <a href="/categories/Enstars/Shu" character="Shu"></a>
+                            <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">

@@ -1,5 +1,5 @@
 ---
-title: "ES! 5* Scout Quotes"
+title: "[ES!] 5* Scout Quotes"
 date: 2017-08-09 9:00:00
 categories:
 - [Enstars]

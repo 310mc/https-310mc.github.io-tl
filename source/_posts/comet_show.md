@@ -1,5 +1,5 @@
 ---
-title: Comet Show
+title: "[ES!!] Comet Show"
 date: 2020-12-31 9:10:00
 categories:
 - [Enstars, ES!!]
@@ -10,8 +10,6 @@ tags:
 - Story Index
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/tl-utils/story_cover/story-cover.css">
-
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/eventstory/cometshow/chiakibcg.jpg')"></div>
@@ -55,11 +53,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" id="chiaki"></a>
-                        <a href="/categories/Enstars/Midori" id="midori"></a>
-                        <a href="/categories/Enstars/Kanata" id="kanata"></a>
-                        <a href="/categories/Enstars/Tetora" id="tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" id="shinobu"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -147,11 +145,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" id="chiaki"></a>
-                        <a href="/categories/Enstars/Midori" id="midori"></a>
-                        <a href="/categories/Enstars/Kanata" id="kanata"></a>
-                        <a href="/categories/Enstars/Tetora" id="tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" id="shinobu"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -487,8 +485,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/chiaki/1" id="none">x</a>
-                            <a href="mini_talk/chiaki/2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">x</a>
+                            <a href="minitalk/chiaki_2" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -496,8 +494,8 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="mini_talk/midori/1" id="none">x</a>
-                            <a href="mini_talk/midori/2" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">1</a>
+                            <a href="minitalk/midori_2" id="none">2</a>
                             </div>
                         </div>
                     </div>

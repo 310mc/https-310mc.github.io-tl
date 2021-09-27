@@ -94,9 +94,9 @@ I'm most likely to translate the following content:
           <br>
           ✓ <a href="/meteor_impact">Meteor Impact</a>
           <br>
-          ☐ Motor Show
+          ☐ <b>Motor Show</b>
           <br>
-          ☐ Comet Show
+          ✓ <a href="/comet_show">Comet Show</a>
           <br>
           ☐ Selfish Noble
           <br>
