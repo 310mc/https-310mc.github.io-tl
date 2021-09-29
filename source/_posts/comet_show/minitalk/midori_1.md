@@ -1,6 +1,6 @@
 ---
 title: "Comet Show – Midori Mini Talk: Worrisome Days"
-date: 2021/09/27 19:00:00
+date: 2021/01/01 9:00:00
 categories:
 - [Enstars, Midori]
 tags:
