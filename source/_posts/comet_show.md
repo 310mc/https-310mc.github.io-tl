@@ -95,7 +95,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
     }
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.1.42/story_cover/story-cover.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.1.42/story_cover/story-cover.min.js"></script>
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

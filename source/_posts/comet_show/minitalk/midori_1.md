@@ -47,7 +47,7 @@ description: "[ES!!] Midori's first Mini Talk from Comet Show. From Anzu's POV."
 </div>
 <!-- more -->
 
-<script src="https://cdn.jsdelivr.net/gh/enstars/tl-utils@1.2.32/tl-utils.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.2.32/mashiro.min.js"></script>
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori1_1.jpg %}

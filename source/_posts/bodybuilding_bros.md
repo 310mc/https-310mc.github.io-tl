@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Together, We Are the Bodybuilding Bros!"
-date: 2021-9-29 20:00:00
+date: 2021-7-10 9:00:00
 categories:
 - [Enstars, Tetora]
 - [Enstars, Jun]
@@ -9,12 +9,12 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] A Tetora Feature Scout story, featuring Jun and Midori. Tetora finally gets to talk to Jun about work-outs."
+description: "[ES!!] A Tetora Feature Scout story, featuring Jun and Midori. Tetora finally gets to talk to Jun about workouts."
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Muscle_Talk%29_Tetora_Nagumo_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)
 :-:|:-:
 
-Tetora finally gets to talk to Jun about work-outs. You can unlock this story from the card [[Muscle Talk] Tetora Nagumo](https://ensemble-stars.fandom.com/wiki/(Muscle_Talk)_Tetora_Nagumo).
+Tetora finally gets to talk to Jun about workouts. You can unlock this story from the card [[Muscle Talk] Tetora Nagumo](https://ensemble-stars.fandom.com/wiki/(Muscle_Talk)_Tetora_Nagumo).
 
 <div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
 	<div class="info-area">
