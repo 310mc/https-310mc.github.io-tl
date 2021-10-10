@@ -53,7 +53,7 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
 {% bubble Midori %}
 (Let's search for… "Morisawa, Chiaki"…)
 
-(Huh, there really *is* a lot of people talking about his casting role in the new tokusatsu show… Where the heck did they get this info from, anyway…?)
+(Huh, there really *are* a lot of people talking about his casting role in the new tokusatsu show… Where the heck did they get this info from, anyway…?)
 
 …Huh, Anzu-san? Good afternoon…
 {% endbubble %}
@@ -81,7 +81,7 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
             	{% bubble Midori %}
 							Huh? Nothing much… I was just searching up topics related to Morisawa-senpai on social media…
 
-							I'd *hate* to find out he's been talking behind our backs, so I regularly search his name as a check-up.
+							I'd *hate* to find out that he's been talking behind our backs, so I regularly search his name as a check-up.
 
 							…Why're you asking me if I'm okay…? What's so strange about looking up stuff about your senior online…?
 				{% endbubble %}
@@ -101,7 +101,7 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
             	{% bubble Midori %}
 							Oh, you should blame Morisawa-senpai for that. I was just searching up his name on social media…
 
-							I tend to search his name every once in a while, but I've been doing it way more often lately 'cause I'm frustrated that he's barely concerned over us nowadays…
+							I tend to search his name every once in a while, but I've been doing it way more often lately 'cause I'm frustrated that he's barely concerned about us nowadays…
 
 							Thanks to that, I have all his talk shows memorized in my head… Ugh, this sucks, I'm not even a fan of him or anything…
 				{% endbubble %}
@@ -214,7 +214,7 @@ Let's see… "I'm wishing you the best, Chiaki-kun"… "I love you, Chiaki-kun!"
             	{% bubble Midori %}
 							Ohhh, you're the one who suggested this to him?
 
-							I mean, I *guess* it does suit his image and all, but… since I know how he's *actually* like, I can't help but feel like everyone's being tricked…
+							I mean, I *guess* it does suit his image and all, but… since I know what he's *actually* like, I can't help but feel like everyone's being tricked…
 
 							We're talking about a guy who literally yells *"Okaa-saaaaaaaan!!!"* to the ocean, y'know…?
 					{% endbubble %}

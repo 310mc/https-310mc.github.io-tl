@@ -57,6 +57,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
 
@@ -69,7 +70,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% bubble Kanata2 %}
 “♪\~♪\~♪”
 
-<th>(Hmmm~…)</th>
+<th>(hmmm~…)</th>
 {% endbubble %}
 {% bubble TetoraS %}
 “♪\~♪\~♪”
@@ -423,7 +424,7 @@ in fact, now that we’ve all grown stronger, we may be able to accomplish much 
 
 no, it could go even beyond that—i feel like we could make anything happen as long as all five of us are together.
 
-…… i took too long to realize that.
+……i took too long to realize that.
 
 “the blue flames are the mark of mystery. i have come from the blue sea~”
 
@@ -670,7 +671,7 @@ That’s why—
 
 <th>(He wouldn’t say something upsetting while he’s wearing his hero uniform.)</th>
 
-<th>(Wait, no… He *does* actually say rude stuff to some people, like Morisawa-senpai. What’s *that* all about anyway? Is he trying to act like a spoiled kid around him—or maybe messing around with him? I mean, it sounds like it’s how he expresses his love, so…?)</th>
+<th>(Wait, no… He *does* actually say rude stuff to some people, like Morisawa-senpai. What’s *that* all about anyway? Is he trying to act like a spoiled kid around him—or maybe they’re messing around with each other? I mean, it sounds like it’s how he expresses his love, so…?)</th>
 
 {% endbubble %}
 {% bubble Midori serious %}
@@ -702,7 +703,7 @@ That’s the kind of sneaky strategy I’m going for here… He he he~♪
 
 {% endbubble %}
 {% bubble Kanata2 %}
-hmm, i see. but you didn’t have to copy after chiaki when it comes to that.
+hmm, i see. but you don’t have to copy after chiaki when it comes to that.
 
 {% endbubble %}
 {% bubble Chiaki surprised %}
@@ -712,7 +713,7 @@ Huh!? Was I ever the type to do that sort of sneaky stuff!?
 {% bubble Midori smile %}
 Yeah, I learned this trick from you, Senpai. I’ve grown up enough to understand what you’ve *actually* been doing for us all along.
 
-“… They haven’t decided on what we’re going to play as yet, but—”
+“…They haven’t decided on what we’re going to play as yet, but—”
 
 “We’ll likely be performing as new characters from a manga that’s never had a live adaptation before.”
 
