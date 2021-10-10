@@ -309,11 +309,3 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
     {% note narration %}
     This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to alleviate the shock of this story for those who need it. Otherwise, please sit back and enjoy!
     {% endnote %}
-    <script>
-    $(document).ready(function() {
-      $('.tab-header').click(function(){
-        $(this).next().slideToggle();
-        $('.tab-header__name').toggleClass(open, add);
-      })
-    });
-    </script>

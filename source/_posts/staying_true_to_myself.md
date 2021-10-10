@@ -19,46 +19,46 @@ Midori feels depressed as soon as he hears it's his turn to receive a personal o
 
 This story is connected to the card [Comfortable Staying Just As I Am] Midori Takamine.
 
-<div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
-	<div class="info-area">
-		<div class="info">
-    		<div class="info-item characters">
-        		<div class="label">
-            		Characters
-        		</div>
-        		<div class="value">
-						<a href="/categories/Enstars/Midori" character="Midori"></a>
-						<a href="/categories/Enstars/Chiaki" character="Tetora"></a>
-            <a href="/categories/Enstars/Aira" character="Shinobu"></a>
-						<a href="/categories/Enstars/Aira" character="Mao"></a>
-        		</div>
-    		</div>
-			<div class="info-item writer">
-        		<div class="label">
-            		Writer
-        		</div>
-        		<div class="value">
-            		Umeda Chitose
-        		</div>
-    		</div>
-    		<div class="info-item tl">
-        		<div class="label">
-            		Translation
-        		</div>
-        		<div class="value">
-            		<a href="/about">310mc</a>
-        		</div>
-    		</div>
-    		<div class="info-item pr">
-        		<div class="label">
-            		Season
-        		</div>
-        		<div class="value">
-            		Autumn
-        		</div>
-    		</div>
-		</div>
-	</div>
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Characters
+                </div>
+                <div class="value">
+								<a href="/categories/Enstars/Midori" character="Midori"></a>
+								<a href="/categories/Enstars/Chiaki" character="Tetora"></a>
+								<a href="/categories/Enstars/Aira" character="Shinobu"></a>
+								<a href="/categories/Enstars/Aira" character="Mao"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Writer
+                </div>
+                <div class="value">
+                    Umeda Chitose
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Season
+                </div>
+                <div class="value">
+                    Autumn
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <!-- more -->
@@ -126,7 +126,7 @@ Uu—! Don’t look at me with those sparkly eyes! I didn’t actually make any 
 
 Like, I did try thinking of something, but every outfit that comes to mind is something I don’t really wanna wear…
 
-Every idea I can think of is something I’d *never* want as a personal outfit… and I got so frustrated with myself for all these disappointing ideas… so I just kept getting more depressed…
+Every idea I can think of is something I’d *never* want as a personal outfit… and I got so frustrated with myself for all these disappointing ideas… and just kept getting more depressed…
 {% endbubble %}
 
 {% bubble Tetora2 %}
@@ -430,7 +430,7 @@ But right now, I think I’ve got some sort of idea in my head. Could I speak to
 {% bubble Midori smile %}
 I don’t wanna look *too* cool… And by that, I mean I don’t wanna only show a cool side of me, and have everyone love me for that only… ‘Cause I’d hate to see them get disappointed the moment they see my true self.
 
-That’s why… I think I’d want people to also love me for who I am… That’s what I’d like to show in my personal outfit—Something that represents <em>me</em>.
+That’s why… I think I’d want people to also love me for myself… That’s what I’d like to show in my personal outfit—Something that represents <em>me</em>.
 
 So, umm… Basically, I feel like what I’d like to wear is an outfit that shows who I really am—
 

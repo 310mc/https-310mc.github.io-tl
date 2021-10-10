@@ -7,46 +7,46 @@ tags:
 - Mini Talk
 description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV."
 ---
-<div class="chapter-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
-	<div class="info-area">
-		<div class="info">
-    		<div class="info-item characters">
-        		<div class="label">
-            		Minitalk
-        		</div>
-        		<div class="value">
-            <a href="/categories/Enstars/Midori" character="Midori"></a>
-        		</div>
-    		</div>
-			<div class="info-item writer">
-        		<div class="label">
-            		Point of View
-        		</div>
-        		<div class="value">
-            		Producer (Anzu)
-        		</div>
-    		</div>
-    		<div class="info-item tl">
-        		<div class="label">
-            		Translation
-        		</div>
-        		<div class="value">
-            		<a href="/about">310mc</a>
-        		</div>
-    		</div>
-    		<div class="info-item pr">
-        		<div class="label">
-            		Story
-        		</div>
-        		<div class="value">
-            <a href="/comet_show">Comet Show</a>
-        		</div>
-    		</div>
-		</div>
-	</div>
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Mini talk
+                </div>
+                <div class="value">
+								<a href="/categories/Enstars/Midori" character="Midori"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Point of View
+                </div>
+                <div class="value">
+                    Anzu
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Story
+                </div>
+                <div class="value">
+                    <a href="/comet_show">Comet Show</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
 <!-- more -->
-<script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@latest/mashiro.min.js"></script>
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
