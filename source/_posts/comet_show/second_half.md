@@ -168,7 +168,7 @@ You’re really good at giving compliments! You’re always so harsh, so a compl
 
 {% endbubble %}
 {% bubble Midori2 %}
-What’re you talking about…? Even I give honest compliments sometimes too, y’know…?
+What’re you talking about…? Even I give honest compliments sometimes, y’know…?
 
 {% endbubble %}
 {% bubble Chiaki2 %}

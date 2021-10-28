@@ -268,7 +268,7 @@ Yaaay! ♪ I wanna go, I wanna go~!
 {% endbubble %}
 
 {% bubble Midori %}
-You just butt yourself in this conversation like it’s normal… Why’re all three of us going back together now…?
+You just butted into this conversation like it’s normal… Why’re all three of us going back together now…?
 {% endbubble %}
 
 {% bubble Aira %}

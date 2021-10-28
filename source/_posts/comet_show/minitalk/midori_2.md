@@ -48,6 +48,8 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
 
 <!-- more -->
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.3.0/mashiro.min.css">
+
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
 {% bubble Midori %}
@@ -58,7 +60,7 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
 …Huh, Anzu-san? Good afternoon…
 {% endbubble %}
 
-<div class="minitalk">
+<div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
             What were you looking at on your phone?
@@ -129,7 +131,7 @@ Ryuseitai's on a hiatus, so I was planning to laze around at home after classes 
 I'd only stand out if I stuck around the shopping district, though, so… That's how I ended up here.
 {% endbubble %}
 
-<div class="minitalk">
+<div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
             What about your practice sessions?
@@ -200,7 +202,7 @@ It's showing Morisawa-senpai in full… Oh, he's gotten a lot of comments from h
 Let's see… "I'm wishing you the best, Chiaki-kun"… "I love you, Chiaki-kun!"… Man, he sure is popular…
 {% endbubble %}
 
-<div class="minitalk">
+<div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
             That's the point of the advertisement!
