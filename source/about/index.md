@@ -2,29 +2,6 @@
 title: About
 description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
 ---
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script>
-$(document).ready(function() {
-    $('.tab-header').click(function(){
-        $(this).next().slideToggle();
-        $(this).toggleClass('tab-header__open');
-    })
-});
-</script>
-<style>
-.column {
-  float: left;
-  width: 50%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
 <style>
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
 .tab-content {
@@ -115,8 +92,7 @@ I'm most likely to translate the following content:
           ☐ Hinata's Idol Story 1, 3
           <br>
           ✓ <a href="/do_the_norm">Do The Norm</a>
-        </div>
-        <div class="column">
+          <br>
           ☐ Colorful Autumn
           <br>
           ☐ Biblio

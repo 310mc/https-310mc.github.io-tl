@@ -9,7 +9,7 @@ categories:
 tags:
 - Main Story
 - Akira
-description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation..."
+description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -129,17 +129,17 @@ We don’t need your assistance. We aren’t weaklings who’d fall prey to evil
 {% endbubble %}
 
 {% bubble Chiaki %}
-No, you’re mistaken! Mutual understanding is all you need for your friendship to blossom with someone, even if they’re a god! And there’s no reason why I can’t save you since we’re friends!
+No, you’re mistaken! Mutual understanding is all you need for your friendship to blossom with someone, even if they’re a god! And since we’re friends, there’s no reason why I can’t save you!
 {% endbubble %}
 
 {% bubble Keito %}
-Hmph. That is simply how *you* feel. It’s because you always take action based on your own feelings that it’s impossible for me to trust you so-called “heroes of justice”.
+Hmph, that is simply how *you* feel. It’s because you always take action based on your own feelings that it’s impossible for me to trust you so-called “heroes of justice”.
 
 You all judge others based on emotions alone—Who do you think you are? A god?[^1]
 {% endbubble %}
 
 {% bubble Kuro %}
-Yo, chill… Drop the manga refs for a sec, we need a rundown of what’s goin’ on here.
+Yo, chill… Drop the manga refs for a sec, we need a rundown of what’s goin’ on.
 
 It’s frustratin’ that we’re getting caught up in this mess without even knowin’ why.
 
@@ -185,7 +185,7 @@ I suppose we’re the last people who should be saying that, though.
 {% bubble Kuro %}
 Actually, Morisawa, are there any tasty restaurants nearby?
 
-Not only did I empty my stomach from all the nausea; but needin’ to perform without any breaks in between really took me out… I’m seriously all outta gas.
+Not only did I empty my stomach from all the nausea, but needin’ to perform without any breaks in between really took me out… I’m seriously all outta gas.
 {% endbubble %}
 
 {% bubble Chiaki %}

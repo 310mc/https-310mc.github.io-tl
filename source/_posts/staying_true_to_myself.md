@@ -17,7 +17,7 @@ description: "[ES!!] Midori's Feature Scout Story, featuring Tetora, Shinobu, an
 
 Midori feels depressed as soon as he hears it's his turn to receive a personal outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear…
 
-This story is connected to the card [Comfortable Staying Just As I Am] Midori Takamine.
+This story is connected to the card [[Comfortable Staying Just As I Am] Midori Takamine](https://ensemble-stars.fandom.com/wiki/(Comfortable_Staying_Just_As_I_Am)_Midori_Takamine).
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

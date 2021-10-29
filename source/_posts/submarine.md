@@ -1,27 +1,28 @@
 ---
-title: "[ES!!] Comet Show"
-date: 2021-01-05 9:10:00
+title: "[ES!!] Submarine"
+date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
+- [Enstars, Akatsuki]
 tags:
-- Event Story
+- Main Story
 - Akira
 - Story Index
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
+description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/cometshow/chiakibcg.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/submarine/kanatabcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
-                <div class="title-area__start"><a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a></div>
+                <div class="title-area__title">Submarine</div>
+                <div class="title-area__subtitle">サブマリン</div>
+                <div class="title-area__start"><a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
+                    When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -29,7 +30,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            Winter
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -37,7 +38,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            32
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -58,6 +59,10 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                        <a href="/categories/Enstars/Keito" character="Keito"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -65,7 +70,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Translation
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
+                            <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -73,7 +78,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
+                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
                         </div>
                     </div>
                 </div>
@@ -96,21 +101,21 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/cometshow/chiakiorigcg1.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/submarine/soumaorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/submarine/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
+                <div class="title-area__title">Submarine</div>
+                <div class="title-area__subtitle">サブマリン</div>
                 <div class="title-area__start">
-                    <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a>
+                    <a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
+                    When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -118,7 +123,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            Winter
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -126,7 +131,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            32
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -147,6 +152,10 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                        <a href="/categories/Enstars/Keito" character="Keito"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -154,7 +163,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
+                          <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -162,7 +171,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
+                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
                         </div>
                     </div>
                 </div>
@@ -173,18 +182,10 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     <div class="tab-content">
                         <div class="tab-item">
                             <div class="label">
-                                Associated Song
-                            </div>
-                            <div class="value">
-                                <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs">Comet Halation</a> — <a href="https://ensemble-stars.fandom.com/wiki/Suisei_HALATION_(Lyrics)#English">(Song Lyrics)</a>
-                            </div>
-                        </div>
-                        <div class="tab-item">
-                            <div class="label">
                                 Event
                             </div>
                             <div class="value">
-                                Transform! The Comet Show Connecting the Stars
+                                SS Arc／2nd Stage Submarine
                             </div>
                         </div>
                         <div class="tab-item">
@@ -192,7 +193,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                 Event Duration
                             </div>
                             <div class="value">
-                                2020/12/31 (15:00 JST) - 2021/1/8 (22:00 JST)
+                                2021/5/31 (15:00 JST) - 2021/6/8 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -205,50 +206,50 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanataorigcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Plans for the End 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakiorigcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Week-end at the Aquarium 3
+                                    Ruthless Battlefield, Okinawa 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Week-end at the Aquarium 7
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanatabcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                         </div>
@@ -263,33 +264,33 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/submarine/chiakicard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/submarine/chiakibcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">I'll share my powah with you!<!--俺のパゥアを分けてやろうっ！--></div>
-                                            <div class="bloomed">The warrior of justice takes the stage!<!--正義の戦士は立ち上がる！--></div>
+                                            <div class="unbloomed"><!--俺のパゥアを分けてやろうっ！--></div>
+                                            <div class="bloomed"><!--正義の戦士は立ち上がる！--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and Red Resolve] Chiaki Morisawa</div>
-                                    <div class="card__jp">[流星と赤き決意] 守沢 千秋</div>
+                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__jp">[] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Clumsy Comet<!--不器用コメット--></div>
+                                                <div class="name"><!--不器用コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">In Order to Protect the Five of Them<!--五人を守るため--></div>
+                                                <div class="name"><!--五人を守るため--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">How to Interact with One Another<!--付きあい方--></div>
+                                                <div class="name"><!--付きあい方--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -299,33 +300,33 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoricard.jpg">
+                                        <img src="/img/es/eventstory/submarine/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/submarine/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">It's our turn to shine, Senpai.<!--俺たちの出番ですよ、先輩--></div>
-                                            <div class="bloomed">Guess we'll back him up.<!--援護してあげよっか--></div>
+                                            <div class="unbloomed"><!--俺たちの出番ですよ、先輩--></div>
+                                            <div class="bloomed"><!--援護してあげよっか--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and My True Feelings] Midori Takamine</div>
-                                    <div class="card__jp">[流星と己の本音] 高峯 翠</div>
+                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Selfish Comet<!--我が侭コメット--></div>
+                                                <div class="name"><!--我が侭コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Everything the Five of them Did Together<!--五人でやってきたこと--></div>
+                                                <div class="name"><!--五人でやってきたこと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Being Honest<!--打ち明け話--></div>
+                                                <div class="name"><!--打ち明け話--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -335,33 +336,33 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/submarine/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/submarine/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">splish, splosh~♪<!--ちゃっぷちゃっぷ♪--></div>
-                                            <div class="bloomed">i feel like we could do anything~<!--なんだってできるきがします--></div>
+                                            <div class="unbloomed"><!--ちゃっぷちゃっぷ♪--></div>
+                                            <div class="bloomed"><!--なんだってできるきがします--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and Teammates] Kanata Shinkai</div>
-                                    <div class="card__jp">[りゅうせいとみんな] 深海 奏汰</div>
+                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Soft Comet<!--ゆるいこめっと--></div>
+                                                <div class="name"><!--ゆるいこめっと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Family of Five<!--ごにんのかぞく--></div>
+                                                <div class="name"><!--ごにんのかぞく--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">A Walk at the Beach<!--うみべのさんぽ--></div>
+                                                <div class="name"><!--うみべのさんぽ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -371,33 +372,33 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/submarine/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/submarine/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">Creature...? Like, ones from the ocean?<!--怪獣…？海獣ッスか？--></div>
-                                            <div class="bloomed">I'll work hard 'til I finally grasp it.<!--掴み取れるように努力をしてるッス--></div>
+                                            <div class="unbloomed"><!--怪獣…？海獣ッスか？--></div>
+                                            <div class="bloomed"><!--掴み取れるように努力をしてるッス--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and the Color I Started With] Tetora Nagumo</div>
-                                    <div class="card__jp">[流星と最初の色] 南雲 鉄虎</div>
+                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Steady Comet<!--実直コメット--></div>
+                                                <div class="name"><!--実直コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Five of Them Together<!--五人でいること--></div>
+                                                <div class="name"><!--五人でいること--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Being Empty Handed, and those Feelings<!--徒手空拳と気持ち--></div>
+                                                <div class="name"><!--徒手空拳と気持ち--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -407,33 +408,33 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/submarine/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/submarine/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">I get to make use of my abilities!<!--持ち味や技能を活かすでござるよ--></div>
-                                            <div class="bloomed">We should stay close no matter what.<!--いつでも仲良しがいいでござる--></div>
+                                            <div class="unbloomed"><!--持ち味や技能を活かすでござるよ--></div>
+                                            <div class="bloomed"><!--いつでも仲良しがいいでござる--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and What I Can Do] Shinobu Sengoku</div>
-                                    <div class="card__jp">[流星とできること] 仙石 忍</div>
+                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Alleviating Comet<!--緩衝コメット--></div>
+                                                <div class="name"><!--緩衝コメット--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Wishing for the Five of Them<!--五人に望むこと--></div>
+                                                <div class="name"><!--五人に望むこと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">The Narrator<!--ナレーション役--></div>
+                                                <div class="name"><!--ナレーション役--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -448,32 +449,47 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue" id="none">Prologue</a>
+                            <a href="https://verdantgrove.dreamwidth.org/7838.html" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>Plans for the End</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663184107699863552/plans-for-the-end-chapter-1" id="none">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185039143600128/plans-for-the-end-chapter-2" id="none">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185928811151360/plans-for-the-end-chapter-3" id="none">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663186562975203328/plans-for-the-end-chapter-4" id="none">4</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663194572342624256/plans-for-the-end-chapter-5" id="none">5</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663195397702942720/plans-for-the-end-chapter-6" id="none">6</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663196016849338368/plans-for-the-end-chapter-7" id="none">7</a>
+                            <span>Ruthless Battlefield, Okinawa</span>
+                            <a href="https://verdantgrove.dreamwidth.org/13777.html" id="none">1</a>
+                            <a href="https://verdantgrove.dreamwidth.org/14046.html" id="none">2</a>
+                            <a href="https://310mc.github.io/submarine/ruthless_battlefield/#Chapter-3" id="none">3</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
                         </li>
                         <li>
-                            <span>Week-end at the Aquarium</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663197640818933760/week-end-at-the-aquarium-chapter-1" id="none">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="none">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="none">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="none">4</a>
-                            <a href="/comet_show/second_half" id="none">5</a>
-                            <a href="/comet_show/second_half" id="none">6</a>
-                            <a href="/comet_show/second_half" id="none">7</a>
-                            <a href="/comet_show/second_half" id="none">8</a>
-                            <a href="/comet_show/second_half" id="none">9</a>
+                            <span>Nirai Kanai</span>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
                         </li>
                         <li>
-                            <a href="/comet_show/epilogue" id="none">Epilogue</a>
+                            <span>Epilogue</span>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
                         </li>
                     </ul>
                 </div>
@@ -488,15 +504,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Midori Takamine</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/midori_1" id="none">1</a>
-                            <a href="minitalk/midori_2" id="none">2</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
@@ -506,7 +513,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Tetora Nagumo</div>
+                        <div class="mt-header">Souma Kanzaki</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -515,7 +522,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Shinobu Sengoku</div>
+                        <div class="mt-header">Kuro Kiryu</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
