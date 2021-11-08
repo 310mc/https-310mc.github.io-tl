@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Midori's Idol Story 2."
+description: "[ES!!] Midori's Idol Story 2, featuring Shinobu and Yuta."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -66,7 +66,7 @@ Here we go, heave-ho… Haah, I think that’s enough fertilizer? Just preparing
 
 This may be part of my club activities, but it’s all optional, so it wouldn’t make anyone angry if I just went home…
 
-But tiding everything when I *just* took the effort to set things up would be pointless… I’ll try to work hard for a little, maybe..?
+But tiding everything when I *just* took the effort to set things up would be pointless… I’ll try to work hard for a little, maybe…?
 
 Maybe I could cheer myself with a “hip-hip, hurray! ♪”……
 
