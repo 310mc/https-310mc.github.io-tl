@@ -1,6 +1,6 @@
 ---
 title: "Motor Show – Prologue"
-date: 2021-11-08 6:30:00
+date: 2020-04-30 9:00:00
 categories:
 - [Enstars, Tetora]
 - [Enstars, Hiiro]
@@ -50,6 +50,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 </div>
 
 <!-- more -->
+
 ==
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 

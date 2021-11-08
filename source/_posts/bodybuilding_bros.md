@@ -59,6 +59,7 @@ Tetora finally gets to talk to Jun about workouts. This story is connected to th
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
 ==
 {% note location %}
 **Location:** Training Room
