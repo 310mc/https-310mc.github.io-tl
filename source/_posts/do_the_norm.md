@@ -58,7 +58,7 @@ Aira goes to school for once and makes an incredible discovery. It acts as a seq
 </div>
 
 <!-- more -->
-
+==
 {% note location %}
 **Location:** Yumenosaki Academy Front Gate
 {% endnote %}

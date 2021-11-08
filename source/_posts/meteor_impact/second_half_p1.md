@@ -836,7 +836,7 @@ What I can offer you for now is authority. If I make everything that you’re do
 
 And it’s unlikely that you will misuse what is labeled as “justice,” correct? I trust you on that part.
 
-Or rather, it’s *because* I know you won’t that I’m trying to take advantage of your good, sensible mind, and restrain your movement.
+Or rather, I’m trying to take advantage of your good, sensible mind, and restrain your movement *because* I know you won’t misuse it.
 
 {% endbubble %}
 {% bubble KuroPast smile %}
@@ -1116,7 +1116,7 @@ I hold a different perspective than the one you two hold, and therefore I may be
 
 <th>(He listens to other people’s wishes by talking to them, just like he did with me — and always makes sure to grant each and every one of them.)</th>
 
-<th>(Be it through fair choice or random choice, he will do it… and nothing can stop him from doing so.)</th>
+<th>(He will fairly, indiscriminately grant all wishes… and nothing can stop him from doing so.)</th>
 
 <th>(He keeps on going from one wish to another, no matter who it is.)</th>
 
