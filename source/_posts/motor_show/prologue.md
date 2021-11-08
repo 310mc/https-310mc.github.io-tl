@@ -50,10 +50,8 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 </div>
 
 <!-- more -->
-
-==
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
-
+==
 {% note location %}
 **Location:** Dojo
 {% endnote %}

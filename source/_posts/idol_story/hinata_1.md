@@ -49,7 +49,7 @@ description: "[ES!!] Hinata's Idol Story 1."
 </div>
 
 <!-- more -->
-
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Staff Cafeteria

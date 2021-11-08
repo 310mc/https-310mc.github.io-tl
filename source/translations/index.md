@@ -89,7 +89,7 @@ Comet Show! Midori|
 
 |Date Plan A to Z|Aisle, be with you|
 | :-----------: | :-----------: | :-----------: |
-[![/date_plan_a_to_z](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](/date_plan_a_to_z)|[![/aisle_be_with_you](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](/aisle_be_with_you)|
+[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics))|[![https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics))|
 <!-- endtab -->
 <!-- tab Other -->
 |Ryuseitai Album Messages|ES! 5* Scout Quotes|

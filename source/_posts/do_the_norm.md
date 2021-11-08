@@ -60,7 +60,7 @@ This story is connected to the card [[Basketball Connections] Aira Shiratori](ht
 </div>
 
 <!-- more -->
-
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Yumenosaki Academy Front Gate

@@ -62,7 +62,7 @@ This story is connected to the card [[Bonds That Can Be Called Friendship] Midor
 </div>
 
 <!-- more -->
-
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Starmony Dorm Common Room

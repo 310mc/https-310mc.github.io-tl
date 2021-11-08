@@ -62,7 +62,7 @@ This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](ht
 </div>
 
 <!-- more -->
-
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Café Cinnamon

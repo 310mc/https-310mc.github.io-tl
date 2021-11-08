@@ -50,7 +50,7 @@ description: "[ES!!] Hinata's Idol Story 3, featuring Midori."
 </div>
 
 <!-- more -->
-
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Staff Cafeteria
