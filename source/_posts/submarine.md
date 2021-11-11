@@ -455,8 +455,8 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <span>Ruthless Battlefield, Okinawa</span>
                             <a href="https://verdantgrove.dreamwidth.org/13777.html" id="none">1</a>
                             <a href="https://verdantgrove.dreamwidth.org/14046.html" id="none">2</a>
-                            <a href="https://310mc.github.io/submarine/ruthless_battlefield/#Chapter-3" id="none">3</a>
-                            <a href="TBA" id="none">x</a>
+                            <a href="ruthless_battlefield/#Chapter-3" id="none">3</a>
+                            <a href="ruthless_battlefield/#Chapter-4" id="none">4</a>
                             <a href="TBA" id="none">x</a>
                             <a href="TBA" id="none">x</a>
                             <a href="TBA" id="none">x</a>

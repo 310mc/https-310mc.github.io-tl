@@ -45,7 +45,7 @@ description: "[ES!] Hinata's Management Stories, featuring Midori and Chiaki."
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    N/A
                 </div>
             </div>
         </div>

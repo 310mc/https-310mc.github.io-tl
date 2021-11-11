@@ -47,7 +47,7 @@ description: "[ES!] Subaru's Management Stories, featuring Chiaki, Mao, Midori."
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    N/A
                 </div>
             </div>
         </div>
@@ -227,7 +227,7 @@ Huh, so it's for history class? Woah, did you draw this one here?
 {% endbubble %}
 
 {% bubble Midori %}
-Ah, do you mean the historic figures I had to draw…? Please stop staring, it's embarrassing…
+Ah, do you mean the historic figure I had to draw…? Please stop staring, it's embarrassing…
 {% endbubble %}
 
 {% bubble Subaru %}

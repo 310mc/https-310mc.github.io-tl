@@ -116,6 +116,10 @@ Ahh, I can’t take it anymore… Everything is such a damn pain… Can someone 
 
 ### With Kanata
 
+{% note cw %}
+**Content Warning:** Casual suicide and drowning mention.
+{% endnote %}
+
 {% note location %}
 **Location:** Fountain
 {% endnote %}

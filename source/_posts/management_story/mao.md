@@ -43,7 +43,7 @@ description: "[ES!] Mao's Management Stories, featuring Midori."
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    N/A
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@ tags:
 - Management Story
 - Happy Elements Staff
 - Story Index
-description: "[ES!] Management stories that have been translated by 310mc."
+description: "[ES!] Management stories that were translated by 310mc."
 ---
 
 Management is Enstars! old version's equivalent to oshigoto/work feature, but it had an extra aspect to it where you could unlock conversations between characters after you finished a management course. In here you will find a directory to all the management stories translated by me.
@@ -18,8 +18,10 @@ Management is Enstars! old version's equivalent to oshigoto/work feature, but it
 
 ## Story Directory
 
-|Chiaki|Tetora|Midori|Shinobu|Madara|Hinata
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-[![/management_story/chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Chiaki_Morisawa_Anime_Chibi.png)](/management_story/chiaki)|[![/management_story/tetora](https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/Tetora_Nagumo_Anime_Chibi.png)](/management_story/tetora)|[![/management_story/midori](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Anime_Chibi.png)](/management_story/midori)|[![/management_story/shinobu](https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/Shinobu_Sengoku_Anime_Chibi.png)](/management_story/shinobu)|[![/management_story/madara](https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/Madara_Mikejima_Anime_Chibi.png)](/management_story/madara)|[![/management_story/hinata](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/Hinata_Aoi_Anime_Chibi.png)](/management_story/hinata)
-|**Mao**|**Subaru**|**Kuro**|**Mitsuru**
-[![/management_story/mao](https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Mao_Isara_Anime_Chibi.png)](/management_story/mao)|[![/management_story/subaru](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Subaru_Akehoshi_Anime_Chibi.png)](/management_story/subaru)|[![/management_story/kuro](https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Kuro_Kiryu_Anime_Chibi.png)](/management_story/kuro)|[![/management_story/mitsuru](https://static.wikia.nocookie.net/ensemble-stars/images/6/63/Mitsuru_Tenma_Anime_Chibi.png)](/management_story/mitsuru)
+|Chiaki|Kanata|Tetora|Midori|Shinobu
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+[![/management_story/chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Chiaki_Morisawa_Anime_Chibi.png)](/management_story/chiaki)|[![/management_story/kanata](https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/Kanata_Shinkai_Anime_Chibi.png)](/management_story/kanata)|[![/management_story/tetora](https://static.wikia.nocookie.net/ensemble-stars/images/a/ad/Tetora_Nagumo_Anime_Chibi.png)](/management_story/tetora)|[![/management_story/midori](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Anime_Chibi.png)](/management_story/midori)|[![/management_story/shinobu](https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/Shinobu_Sengoku_Anime_Chibi.png)](/management_story/shinobu)
+**Madara**|**Hinata**|**Mao**|**Subaru**|**Kuro**|
+[![/management_story/madara](https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/Madara_Mikejima_Anime_Chibi.png)](/management_story/madara)|[![/management_story/hinata](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/Hinata_Aoi_Anime_Chibi.png)](/management_story/hinata)|[![/management_story/mao](https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Mao_Isara_Anime_Chibi.png)](/management_story/mao)|[![/management_story/subaru](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Subaru_Akehoshi_Anime_Chibi.png)](/management_story/subaru)|[![/management_story/kuro](https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Kuro_Kiryu_Anime_Chibi.png)](/management_story/kuro)
+**Mitsuru**|
+[![/management_story/mitsuru](https://static.wikia.nocookie.net/ensemble-stars/images/6/63/Mitsuru_Tenma_Anime_Chibi.png)](/management_story/mitsuru)|

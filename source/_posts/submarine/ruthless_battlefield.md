@@ -6,6 +6,10 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Souma]
 - [Enstars, Keito]
+- [Enstars, Kanata]
+- [Enstars, Tetora]
+- [Enstars, Midori]
+- [Enstars, Shinobu]
 tags:
 - Main Story
 - Akira
@@ -19,10 +23,14 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Souma" character="Souma"></a>
-								<a href="/categories/Enstars/Keito" character="Keito"></a>
-								<a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                <a href="/categories/Enstars/Keito" character="Keito"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -206,6 +214,174 @@ Haha… I don’t really want Tetsu seein’ this side of me.
 <th>(However… Who *were* those *“ai-dols”* that tried to assault us? Their bloodthirsty presence reminded me of *that* “evil,” but—)</th>
 
 <th>(Surely, that must not be the case…?)</th>
+{% endbubble %}
+
+## Chapter 4
+
+{% note location %}
+**Location:** Okinawa Restaurant
+{% endnote %}
+
+{% img /img/es/eventstory/submarine/p1ch4.jpg %}
+
+{% note narration %}
+**Time:** Another hour or so passes — At an Okinawa restaurant
+{% endnote %}
+
+{% bubble Tetora %}
+Taishou~!! Hasumi-senpai, Kanzaki-senpai! You must’ve had a long trip, so please rest for now! Ossu!
+
+I’m so sorry that we couldn’t come see you! We didn’t have any time to spare ‘cuz we’ve been fighting with the local idols day in and out—
+{% endbubble %}
+
+{% bubble Midori %}
+Actually, it’s the ES idols that have been the biggest pain… They keep harassing us over the simplest things…
+
+But I doubt the Akatsuki members would do anything lame like that, so we should be able to take it easy, hopefully…
+{% endbubble %}
+
+{% bubble Shinobu %}
+It doesn’t feel right to call it harassment, in my opinion. I feel as though it was just bad timing on both sides—like an unfortunate accident.
+{% endbubble %}
+
+{% img /img/es/eventstory/submarine/p1ch4_1.jpg %}
+
+{% bubble Midori %}
+Your soul is so pure, Shinobu-kun… I hope you stay that way forever…
+{% endbubble %}
+
+{% bubble Tetora %}
+Ossu, he sure is. Shinobu-kun really holds Ryuseitai’s moral values, and he's the hope of ES.
+{% endbubble %}
+
+{% bubble Shinobu %}
+Heh! And I happen to be the strongest ninja in the idol industry…☆
+{% endbubble %}
+
+{% bubble Kuro %}
+Haha, you Ryuseitai kiddos are as energetic as ever, huh?
+{% endbubble %}
+
+{% bubble Tetora %}
+That’s my only strong point, after all! I got bucket loads of energy in me~!
+
+(Whispering) ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
+{% endbubble %}
+
+{% bubble Midori %}
+(Whispering) It’s better this way, now we can relax, at least… I don’t wanna work hard…
+{% endbubble %}
+
+{% bubble Shinobu %}
+? What are you two whispering to each other about? Let me take part, too!
+{% endbubble %}
+
+{% bubble Midori %}
+Nu-uh… I refuse to let anything corrupt you… I’ll be the one to protect you, Shinobu-kun…
+{% endbubble %}
+
+{% bubble Shinobu %}
+Why have you been acting so odd lately, Midori-kun!?
+{% endbubble %}
+
+{% bubble Kanata %}
+hello, everyone\~! the food is ready, so please be behave and take a seat\~
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mhm! You’re free to chat while you eat, but don’t move around too much! We can’t have any dirt falling into our food!
+{% endbubble %}
+
+{% bubble Tetora %}
+Why’re you seniors serving the table, even though we’re the ones who should be doing that?
+{% endbubble %}
+
+{% bubble Keito %}
+Actually, why are you two the ones bringing the food in the first place, instead of the staff? Is this restaurant owned by a relative of yours?
+{% endbubble %}
+
+{% bubble Chiaki %}
+No, not at all, I don’t even know this place! I just heard the owner is an old man with a strained back, so we figured it’s best if we carry the food over by ourselves!
+{% endbubble %}
+
+{% bubble Kanata %}
+yes, and since there are many people at this table, it would’ve been difficult for one person to carry everything.
+{% endbubble %}
+
+{% bubble Kuro %}
+Huh, aight. You’re all such good boys as always, arent’cha? I heard a lotta harsh stuff happened to you guys, so it wouldn’t have been surprisin’ if it made one of ya snap a li’l.
+{% endbubble %}
+
+{% bubble Tetora %}
+Ahaha, nothing’ll change by sulking, that’s all.
+{% endbubble %}
+
+{% bubble Chiaki worried %}
+………
+{% endbubble %}
+
+{% bubble Kanata %}
+alright, okaaay~ time to set up the table. temple guy, you can’t eat meat or fish, right? this salad is for you~♪
+{% endbubble %}
+
+{% bubble Keito %}
+My family isn’t that strict, actually. But sea grapes make me feel like we’re really in Okinawa, so I’m sort of happy to have some.
+{% endbubble %}
+
+{% bubble Souma %}
+Ah, Shinkai-dono—My deepest apologies, but I cannot eat fish.
+{% endbubble %}
+
+{% img /img/es/eventstory/submarine/p1ch4_2.jpg %}
+
+{% bubble Kanata %}
+……!?
+{% endbubble %}
+
+{% bubble Souma %}
+Wha—!? W-Why do you look like a mother who has lost her beloved child…!?
+{% endbubble %}
+
+{% bubble Kanata %}
+souma…? what did you just say…?
+
+you can’t eat fish? i don’t understand! you’re not the souma i know! you must be an imposter…!
+{% endbubble %}
+
+{% bubble Chiaki %}
+Hehe, characters switching places and hero imposters are mostly just common tropes in tokusatsu, though.
+{% endbubble %}
+
+{% bubble Kanata %}
+you, temple guy! you converted our souma to your religion, didn’t you?
+
+you gave him a taste of delicious veggies, until his body could no longer stand the taste of fish…!
+{% endbubble %}
+
+{% bubble Keito %}
+Don’t throw the blame on me.
+{% endbubble %}
+
+{% bubble Souma %}
+Um, this has naught to do with Hasumi-dono, but rather, erm, that I—
+{% endbubble %}
+
+{% bubble Kanata %}
+you’re not the same anymore, are you… i’m so sad…
+
+okinawa is a place brimming with seafood, so i was really looking forward to talking to you about all kinds of fish...
+{% endbubble %}
+
+{% bubble Souma %}
+Ahh, please do not make such a somber face! This is simply an unavoidable matter—I assure you that I have not grown to hate fish…!!
+{% endbubble %}
+
+{% bubble Keito %}
+Did we come all the way here to Okinawa to watch a pseudo-lover's quarrel happening before our very eyes?
+{% endbubble %}
+
+{% bubble Kuro %}
+Haha, it’s real nice seeing this energy, actually. It’s bringin’ me back to our Yumenosaki days.
 {% endbubble %}
 
 <div toc>

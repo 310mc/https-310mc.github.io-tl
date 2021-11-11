@@ -3,14 +3,10 @@ title: Translation Masterlist
 description: A list of all the translations by 310mc. You will find Enstars and Helios translations here.
 ---
 
-{% note narration %}
-This masterlist is a WIP. Stay tuned for a more refined version!
-{% endnote %}
-
 ## Ensemble Stars
 
-{% tabs 1a %}
-<!-- tab Event Stories -->
+### Event Stories
+
 |Climax|Aquarium|Sweet Halloween|
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/8614.html](/img/banner/climax.png)](https://euni2319.dreamwidth.org/8614.html)|[![https://euni2319.dreamwidth.org/10207.html](/img/banner/aquarium.png)](https://euni2319.dreamwidth.org/10207.html)|[![https://euni2319.dreamwidth.org/15004.html](/img/banner/sweethalloween.png)](https://euni2319.dreamwidth.org/15004.html)
@@ -23,8 +19,9 @@ This masterlist is a WIP. Stay tuned for a more refined version!
 Motor Show|Comet Show|Submarine
 | :-----------: | :-----------: | :-----------: |
 [![/motor_show](/img/banner/motorshow.png)](/motor_show)|[![/comet_show](/img/banner/cometshow.png)](/comet_show)|[![/submarine](/img/banner/submarine.png)](/submarine)
-<!-- endtab -->
-<!-- tab Gacha Stories -->
+
+### Gacha Stories
+
 |Colorful Autumn (Coming Soon!)|Biblio|Zodiac|
 | :-----------: | :-----------: | :-----------: |
 [![/colorful_autumn](/img/banner/colorfulautumn.png)](/colorful_autumn)|[![https://euni2319.dreamwidth.org/2418.html](/img/banner/biblio.png)](https://euni2319.dreamwidth.org/2418.html)|[![https://euni2319.dreamwidth.org/17153.html](/img/banner/zodiac.png)](https://euni2319.dreamwidth.org/17153.html)
@@ -36,8 +33,8 @@ Motor Show|Comet Show|Submarine
 Dollhouse|Flowers of the Wasteland (Coming Soon!)
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/](/img/banner/dollhouse.png)](https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/)|[![/flowers_of_the_wasteland](/img/banner/flowersofthewasteland.png)](/flowers_of_the_wasteland)
-<!-- endtab -->
-<!-- tab Idol Stories -->
+
+### Idol Stories
 <!--
 |Chiaki Idol Story Directory|Midori Idol Story Directory|
 | :-----------: | :-----------: |
@@ -60,8 +57,9 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 [![/do_the_norm](https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Basketball_Connections%29_Aira_Shiratori_B_Bloomed.png)](/do_the_norm)|[![https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28What_a_Hero_is%29_Chiaki_Morisawa_M.png)](https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/)|[![https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Light_Beaming_from_the_Darkness%29_Shinobu_Sengoku_M.png)](https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/)
 **Staying True To Myself**|**Together,<br>We Are the Bodybuilding Bros!**|**Something Dubious in the Library**
 [![/staying_true_to_myself](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)](/staying_true_to_myself)|[![/bodybuilding_bros](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)](/bodybuilding_bros)|[![https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Untitled_Book%29_Chiaki_Morisawa_M.png)](https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/)
-<!-- endtab -->
-<!-- tab Mini Talks -->
+
+### Mini Talks
+
 |ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event)|[![https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Chiaki_Morisawa_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Chiaki_Morisawa_Normal_Event)
@@ -81,8 +79,8 @@ Baton Pass! Chiaki (Normal)|Baton Pass! Chiaki (Special)|
 Comet Show! Midori|
 | :-----------: | :-----------: | :-----------: |
 [![/comet_show/minitalk/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_M_Bloomed.png)](/comet_show/minitalk/midori/1)|
-<!-- endtab -->
-<!-- tab Lyrics -->
+
+### Song Lyrics
 |SUPERNOVA REVOLU5TAR|GROWING STARRY DAYS|Meteor Scramble☆RYUSEITAI
 | :-----------: | :-----------: | :-----------: |
 [![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3)|[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3)|[![https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4](https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/Ensemble_Stars%21_ED_Collection_Vol.4.png)](https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4)
@@ -90,13 +88,13 @@ Comet Show! Midori|
 |Date Plan A to Z|Aisle, be with you|
 | :-----------: | :-----------: | :-----------: |
 [![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics))|[![https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics))|
-<!-- endtab -->
-<!-- tab Other -->
+
+
+### Other
+
 |Ryuseitai Album Messages|ES! 5* Scout Quotes|
 | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/21314.html](https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/RYUSEITAI_album_cover.jpg)](https://euni2319.dreamwidth.org/21314.html)|[![/es_scout_quotes](https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Dog_of_the_New_Year%29_Midori_Takamine_Frameless_Bloomed.png)](/es_scout_quotes)
-<!-- endtab -->
-{% endtabs %}
 
 ## Helios Rising Heroes
 
