@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Hinata Aoi – Idol Story 3"
-date: 2021-11-08 21:00:00
+date: 2020-03-16 9:07:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, ES!!]
@@ -192,8 +192,13 @@ Let’s talk about all kindsa things while we eat! Like our interests and hobbie
 I can only hope this makes us close enough for you to start calling me your friend~♪
 {% endbubble %}
 
-<div toc>{% btn /idol_story/hinata_1,, arrow-left, Hinata Idol Story 1 %}{% btn /idol_story,, star, Index %}</div>
+<div toc>{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-left, Hinata Idol Story 2 %}{% btn /idol_story,, star, Index %}</div>
 
 ## Translation Note
 
-A continuation of Hinata and Midori's development can be found here [Making-100-Friends Project](/making_100_friends_project)!
+A continuation of Hinata and Midori's development can be found in [Making-100-Friends Project](/making_100_friends_project)!
+
+## Chapter Directory
+Hinata Idol Story 1<br>(Solo)|Hinata Idol Story 2<br>(Featuring Yuta)|Hinata Idol Story 3<br>(Featuring Midori)
+:-:|:-:|:-:
+[![/idol_story/hinata_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28An_Idol%29_Hinata_Aoi_M_Bloomed.png)](/idol_story/hinata_1)|[![https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2](https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28ES_Idol%29_Hinata_Aoi_M_Bloomed.png)](https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2)|[![/idol_story/hinata_3](https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Practicing%29_Hinata_Aoi_M.png)](/idol_story/hinata_3)

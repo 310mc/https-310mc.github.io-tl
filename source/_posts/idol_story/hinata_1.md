@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Hinata Aoi – Idol Story 1"
-date: 2021-11-08 21:00:00
+date: 2020-03-16 9:06:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, ES!!]
@@ -92,7 +92,7 @@ Weeell, I can’t really do anything with CosPro’s policy of prioritizing the 
 
 I do wish the agency could promote us instead, though~
 
-Ah, no, I’m not criticising them or anything.
+Ah, no, I’m not criticizing them or anything.
 
 I dunno about the big guns in the agency, but I know *you’ve* been spreading our name all over, Producer.
 
@@ -177,4 +177,10 @@ I’m never taking detours ever again. I’m gonna rush straight in through the
 No—I’ll make sure to take *“us”* there.
 {% endbubble %}
 
-<div toc>{% btn /idol_story,, star, Index %}{% btn /idol_story/hinata_3,, arrow-right, Hinata Idol Story 3 %}</div>
+<div toc>{% btn /idol_story,, star, Index %}{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-right, Hinata Idol Story 2 %}</div>
+
+## Chapter Directory
+
+Hinata Idol Story 1<br>(Solo)|Hinata Idol Story 2<br>(Featuring Yuta)|Hinata Idol Story 3<br>(Featuring Midori)
+:-:|:-:|:-:
+[![/idol_story/hinata_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28An_Idol%29_Hinata_Aoi_M_Bloomed.png)](/idol_story/hinata_1)|[![https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2](https://static.wikia.nocookie.net/ensemble-stars/images/4/48/%28ES_Idol%29_Hinata_Aoi_M_Bloomed.png)](https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2)|[![/idol_story/hinata_3](https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Practicing%29_Hinata_Aoi_M.png)](/idol_story/hinata_3)

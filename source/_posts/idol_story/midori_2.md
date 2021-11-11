@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Midori Takamine – Idol Story 2"
-date: 2021-11-09 00:00:00
+date: 2020-03-16 9:02:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Shinobu]
@@ -252,3 +252,9 @@ If you ever felt like joining, please do inform me. The club will always be happ
 {% endbubble %}
 
 <div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /idol_story,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>
+
+## Chapter Directory
+
+|Midori Idol Story 1<br>(Solo)|Midori Idol Story 2<br>(Featuring Shinobu, Yuta)|Midori Idol Story 3<br>(Featuring Hajime)
+| :-----------: | :-----------: | :-----------: |
+[![/idol_story/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28An_Idol%29_Midori_Takamine_M_Bloomed.png)](/idol_story/midori_1)|[![/idol_story/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28ES_Idol%29_Midori_Takamine_B.png)](/idol_story/midori_2)|[![/idol_story/midori_3](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/idol_story/midori_3)

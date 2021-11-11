@@ -1,0 +1,143 @@
+---
+title: "[ES!] Shinobu Sengoku – Management Story"
+date: 2021-11-11 10:30:00
+categories:
+- [Enstars, Shinobu]
+- [Enstars, Midori]
+- [Enstars, Mao]
+- [Enstars, ES!]
+tags:
+- Management Story
+- Happy Elements Staff
+description: "[ES!] Shinobu's Management Stories, featuring Mao and Midori."
+---
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Characters
+                </div>
+                <div class="value">
+								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Mao" character="Mao"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Writer
+                </div>
+                <div class="value">
+                    Happy Elements K.K.
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Proofreading
+                </div>
+                <div class="value">
+                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- more -->
+<link rel="stylesheet" href="">
+==
+
+### With Mao
+
+{% note location %}
+**Location:** Hallway
+{% endnote %}
+
+{% bubble Shinobu %}
+Isara-dono~☆ Look, look! I bought this shuriken online!
+
+I lost all hope and cried when I saw that it was out of stock… but when I checked the site again a few days ago, I saw that they had restocked it!
+
+I just knew I had to buy it immediately, and spent all my pocket money to obtain it!
+
+Now I'll have to survive with only scraps of food to get through the month, but I have no regrets! As soon as I see this shuriken, I’m the happiest I’ve ever been~♪
+{% endbubble %}
+
+{% bubble Mao %}
+Ahh, yeah. I get that you’re super happy, but… could you move away from me a bit?
+
+The pressure’s getting kinda painful. You suddenly jumped on me, so I couldn’t prepare myself to catch you.
+{% endbubble %}
+
+{% bubble Shinobu %}
+Wawa—! Are you hurt anywhere? I was so enthralled about the shuriken and about seeing you that I lost myself for a moment!
+{% endbubble %}
+
+{% bubble Mao %}
+That part about you isn’t very ninja-like, huh~? Anyways, don’t you always have shurikens with you?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Do you mean the rubber shurikens? Yes, I have plenty!
+
+But this one I bought is a replica of a shuriken Hattori Hanzo once used.
+{% endbubble %}
+
+{% bubble Mao %}
+Whaa…? That sounds really fishy… You alright? You sure you aren’t being conned?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Ahaha, I’ll be fine~ I would know if it was a fake, even if the item was said to be genuine.
+
+But it matters not if it’s fake or replica — I can love anything that is ninja-related~♪
+{% endbubble %}
+
+### With Midori
+
+{% note location %}
+**Location:** Near the Auditorium
+{% endnote %}
+
+{% bubble Shinobu %}
+Midori-kuuun! I found what you were looking for! Ahh, but please do confirm if it's the correct one.
+{% endbubble %}
+
+{% bubble Midori %}
+Mhm… this is it alright… Thanks for helping me find it, Sengoku-kun…
+{% endbubble %}
+
+{% bubble Shinobu %}
+Oh no no, I'm the one who's thankful that you gave me this mission.
+
+We don't have unit activities today, and I had a lot of spare time, to be honest…
+
+I'm excellent at finding items, so please do ask for my help again if you ever need it~♪
+
+However… What sort of basketball practice would cause you to launch the ball all the way over here?
+{% endbubble %}
+
+{% bubble Midori %}
+That’s what *I* wanna know… I was told we’d have practice in the basketball court today, so I begrudgingly headed over there…
+
+Then Morisawa-senpai apparently shot the ball outside the court… Jeez, we’re not playing soccer here…
+{% endbubble %}
+
+{% bubble Shinobu %}
+Ahaha… Nevertheless, I'm glad we found it.
+
+…Hm? Isara-dono just messaged me. Heheh! Looks like I have a new mission to do!
+
+I shall take my leave here! See you tomorrow, Midori-kun!
+{% endbubble %}
+
+<div toc>{% btn /management_story,, star, Index %}</div>

@@ -46,8 +46,8 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 |Selfish Noble|A Game of Tag with Mama|Melancholic Club Activities|
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/2918.html](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%283rd_Anniversary%29_Hiyori_Tomoe.png)](https://euni2319.dreamwidth.org/2918.html)|[![https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Showdown_with_Mama%29_Mitsuru_Tenma_Bloomed.png)](https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/)|[![https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Senpai_Discussion%29_Midori_Takamine_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/)
-**The Crimson's Pure Heart**|**Management Conversations**|
-[![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|[![/management_conversations](/img/es/manageconvo/cover.jpg)](/management_conversations)
+**The Crimson's Pure Heart**|**Management Stories**|
+[![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|[![/management_story](/img/es/manageconvo/cover.jpg)](/management_story)
 
 |Midori Idol Story 1|Midori Idol Story 2|Midori Idol Story 3|
 | :-----------: | :-----------: | :-----------: |

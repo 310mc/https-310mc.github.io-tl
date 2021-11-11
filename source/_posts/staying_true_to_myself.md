@@ -316,7 +316,7 @@ You’re making things harder for me… Why’re you putting so much pressure on
 {% endbubble %}
 
 {% bubble Mao %}
-I’m tryin’ to say that I’m looking forward to your event, y’know! Here, you can have this merch I got, so cheer up~♪
+I’m trynna say that I’m looking forward to your event, y’know! Here, you can have this merch I got, so cheer up~♪
 {% endbubble %}
 
 {% bubble Midori smile %}

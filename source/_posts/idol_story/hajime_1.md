@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Hajime Shino – Idol Story 1"
-date: 2021-11-09 00:00:00
+date: 2020-03-16 9:05:00
 categories:
 - [Enstars, Hajime]
 - [Enstars, ES!!]

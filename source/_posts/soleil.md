@@ -55,7 +55,7 @@ description: "[ES!!] Mitsuru and Shu find Tsumugi lying face down on a table in 
 
 <!-- more -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+<link rel="stylesheet" href="">
 ==
 {% note location %}
 **Location:** Starmony Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)

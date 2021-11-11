@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Chiaki Morisawa – Idol Story 1"
-date: 2021-11-09 00:00:00
+date: 2020-03-16 9:04:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, ES!!]
