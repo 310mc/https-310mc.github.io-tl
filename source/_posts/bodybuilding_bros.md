@@ -224,7 +224,7 @@ Yeah, we owe this bonding session all to exercise…♪
 (Uurgh… Now I don’t want him getting any more buff than he already is. From now on he's not getting any broccoli or avocado from *me*…!)
 {% endbubble %}
 
-<div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, star, Tumblr Version %}</div>
+<div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 The title is a reference to Precure’s opening theme song, “Together We Are Pretty Cure”.

@@ -316,6 +316,8 @@ Is “Otto~” meant to be me?
 *“Midorinrin”…!?* Urghhh, party animals really do freak me out…!
 {% endbubble %}
 
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
 ## Translation Notes
 
 [^1]: He calls Midori by this name in The Magician's Delivery too.

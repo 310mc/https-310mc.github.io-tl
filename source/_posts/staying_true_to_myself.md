@@ -437,5 +437,7 @@ So, umm… Basically, I feel like what I’d like to wear is an outfit that show
 Will you please accept this request of mine? I’d love an outfit that lets me be in my most natural state…♪
 {% endbubble %}
 
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
 ## Translation Notes
 [^1]: Carrotian is mentioned in The Crimson’s Pure Heart, [a Kuro sub story](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/).

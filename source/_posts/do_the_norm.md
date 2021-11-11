@@ -292,6 +292,8 @@ Ughh, Shiratori-kun, don’t drag me with you… And Morisawa-senpai, you’re j
 <th>(Not to mention, how super duper rare it is to see Takamine-senpai in his school uniform next to Morisawa-senpai! Hehehe~ I made another wonderful memory to remember~♪)</th>
 {% endbubble %}
 
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
 ## Translation Notes
 [^1]: Aira is roommates with Rei and Eichi post-main story, so that might be the reason why.
 

@@ -173,7 +173,7 @@ The real me has no proper footing, and is super uncool, but… I hope I could gr
 And that’s how I’ll be doing my best, so… Please do support me, Miss Producer…♪
 {% endbubble %}
 
-<div toc>{% btn /idol_story,, star, Index %}{% btn /idol_story/midori_2,, arrow-right, Midori Idol Story 2 %}</div>
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_2,, arrow-right, Midori Idol Story 2 %}</div>
 
 ## Chapter Directory
 

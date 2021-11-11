@@ -157,7 +157,7 @@ Just don’t overdo it, okay? Though I’m not one to say that…
 But I’ll be fine, I’m used to hardships! If you’re ever in trouble, just call for me! The hero of justice shall come running for you! Fuhahaha!! ☆
 {% endbubble %}
 
-<div toc>{% btn /idol_story,, star, Index %}</div>
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 

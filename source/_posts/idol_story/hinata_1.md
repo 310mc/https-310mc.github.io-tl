@@ -177,7 +177,7 @@ I’m never taking detours ever again. I’m gonna rush straight in through the
 No—I’ll make sure to take *“us”* there.
 {% endbubble %}
 
-<div toc>{% btn /idol_story,, star, Index %}{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-right, Hinata Idol Story 2 %}</div>
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-right, Hinata Idol Story 2 %}</div>
 
 ## Chapter Directory
 

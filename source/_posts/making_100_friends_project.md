@@ -282,6 +282,8 @@ Ahaha, then how about we hang out next week, too? ♪ ‘Cause we’re all frien
 <th>(I’ll write down what happened today instead. ‘Cause we’re bound to hang out together again, anyway…♪)</th>
 {% endbubble %}
 
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
 ## Translation Notes
 
 This story is a sequel to [Hinata's Idol Story 3](/idol_story/hinata_3)!

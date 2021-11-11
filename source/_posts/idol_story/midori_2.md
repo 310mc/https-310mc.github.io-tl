@@ -251,7 +251,7 @@ Oh, alright. That’s a bit of a shame~
 If you ever felt like joining, please do inform me. The club will always be happy to welcome you~♪
 {% endbubble %}
 
-<div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /idol_story,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>
+<div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>
 
 ## Chapter Directory
 

@@ -155,4 +155,4 @@ No — My heart will be saved just by you understanding that I’m in a tough si
 I’ll be able to work hard just by hearing that. I’ll make sure to do my absolute best, so… Please show me your support, Miss Producer~♪
 {% endbubble %}
 
-<div toc>{% btn /idol_story,, star, Index %}</div>
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

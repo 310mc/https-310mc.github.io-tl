@@ -234,7 +234,7 @@ If I don’t at least have some masculinity like Tetora-kun, then I could never 
 So, I think my current size is just fine…♪
 {% endbubble %}
 
-<div toc>{% btn /idol_story/midori_2,, arrow-left, Midori Idol Story 2 %}{% btn /idol_story,, star, Index %}</div>
+<div toc>{% btn /idol_story/midori_2,, arrow-left, Midori Idol Story 2 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Chapter Directory
 

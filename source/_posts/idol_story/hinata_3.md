@@ -192,7 +192,7 @@ Let’s talk about all kindsa things while we eat! Like our interests and hobbie
 I can only hope this makes us close enough for you to start calling me your friend~♪
 {% endbubble %}
 
-<div toc>{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-left, Hinata Idol Story 2 %}{% btn /idol_story,, star, Index %}</div>
+<div toc>{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-left, Hinata Idol Story 2 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Note
 
