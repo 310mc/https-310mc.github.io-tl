@@ -89,7 +89,7 @@ the salty breeze feels nice, and you get to enjoy the romantic view of the sea t
 {% bubble Tetora %}
 Ahh, it's almost sunset by now, huh?
 
-You're right, it'd be a waste not to take in this view! Aighty, I'll take a walk until the sun sets~♪
+You're right, it'd be a waste not to take in this view! Aighty, I'll take a walk around here 'til the sun sets~♪
 {% endbubble %}
 
 {% bubble Kanata %}

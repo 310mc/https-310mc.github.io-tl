@@ -99,7 +99,7 @@ Oh, Takamine.
 {% bubble Midori %}
 What’s wrong? Is there something on your mind…?
 
-<th>(Ah, crap— I spoke more than necessary ‘cause he seemed to be at a loss over something. I was only planning to greet him and move on with my life…)</th>
+<th>(Ah, crap—I spoke more than necessary ‘cause he seemed to be at a loss over something. I was only planning to greet him and move on with my life…)</th>
 {% endbubble %}
 
 {% bubble Adonis %}
@@ -198,12 +198,12 @@ Um, okay…
 <th>(Ughhh, I didn’t get the chance to refuse. His pushiness is kinda scary…)</th>
 {% endbubble %}
 
-{% bubble Heading %}
-Ten minutes later
-{% endbubble %}
+{% note narration %}
+**Time:** Ten minutes later
+{% endnote %}
 
 {% bubble Niki %}
-Here they are! Two Mascot Character Parfaits—one for Takamine-kun, and one for me— and one Pretty Pudding a la Mode~!
+Here they are! Two Mascot Character Parfaits—one for Takamine-kun, and one for me—and one Pretty Pudding a la Mode~!
 {% endbubble %}
 
 {% bubble Midori %}

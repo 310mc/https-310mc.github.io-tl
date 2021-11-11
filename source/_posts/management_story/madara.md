@@ -63,7 +63,7 @@ description: "[ES!] Madara's Management Stories, featuring Mitsuru and Chiaki."
 {% endnote %}
 
 {% bubble Madara %}
-Ohhh? Mitsuru-saaaan! What’s up, hm? Do you need to go to the staff Office?
+Ohhh? Mitsuru-saaaan! What’s up, hm? Do you need to go to the staff office?
 
 Aaalrighty then! Mama’s coming with you! It’ll be like a parent-teacher conference, and this way, you won’t have to feel nervous going in alone! ☆
 {% endbubble %}
@@ -77,7 +77,7 @@ That sooo! Sorry, sorry, I guess you’re just here by chance.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Um, not really. I do have to go in there, cuz like, I got scolded by Akiomi-sensei just now.
+Um, not really. I do have to go in there, 'cuz like, I got scolded by Akiomi-sensei just now.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -125,7 +125,7 @@ Mmm~? You don't seem as energetic, though. What's wrong, something happen? I'll 
 {% bubble Chiaki %}
 Nothing happened, it's just… I'm feeling kind of depressed about our upcoming math class.
 
-I know nothing will come out of being down about it, but I can't get myself back into the swing of things…
+I know nothing will come out of being down, but I can't get myself back into the swing of things…
 {% endbubble %}
 
 {% bubble Madara %}
@@ -135,7 +135,7 @@ Ohh, reaaally? I thought you'd be good at math since you're such a hard worker. 
 {% bubble Chiaki %}
 Ahaha, I'm actually really bad at it, so I always make sure to study as much as possible.
 
-We have a math quiz today, so I stayed up late last night to study.
+We have a math quiz today, so I stayed up late last night studying.
 
 But instead of giving me a confidence boost, all it did was make me feel light-headed from the lack of sleep…
 {% endbubble %}
@@ -143,7 +143,7 @@ But instead of giving me a confidence boost, all it did was make me feel light-h
 {% bubble Madara %}
 Mmm…? It's just a quiz, riiight? You don't need to overthink it.
 
-Hm, but if it'll help you out, we could study a bit together? There might be something I could teach you to prep you up!
+Hm, buuut if it'll help you out, we could study a bit together? There might be something I could teach you to prep you up!
 {% endbubble %}
 
 {% bubble Chiaki %}

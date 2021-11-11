@@ -7,7 +7,7 @@ tags:
 - Management Story
 - Happy Elements Staff
 - Story Index
-description: "[ES!] Management stories that were translated by 310mc."
+description: "[ES!] Management story translations by 310mc."
 ---
 
 Management is Enstars! old version's equivalent to oshigoto/work feature, but it had an extra aspect to it where you could unlock conversations between characters after you finished a management course. In here you will find a directory to all the management stories translated by me.

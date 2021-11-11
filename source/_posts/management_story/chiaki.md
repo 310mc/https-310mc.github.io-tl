@@ -147,7 +147,7 @@ He said he won’t be able to come 'cuz he has to work at his family’s greengr
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hold on, I wasn’t told about this…? This means me, you, and Sengoku are the only ones who’ll perform.
+Hold on, I wasn’t told about this…? This means that me, you, and Sengoku are the only ones who’ll perform.
 
 Well, no matter. Hardships are an inevitability for heroes! By overcoming them, you become qualified to call yourself one!
 
@@ -225,9 +225,9 @@ Like, what happened to you…? Did you hit your head or something…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Heheh, you kept saying how you hated me being overbearing, see!
+Heheh, you see, you kept saying how you hated me being overbearing!
 
-I thought you may feel otherwise if I tried to be more charming![^1]
+So I thought you may feel otherwise if I tried to be more charming![^1]
 
 And so! Takamine-kun! Let’s go to the club! Let's shed the sweat of youth…☆
 {% endbubble %}
@@ -341,7 +341,7 @@ Woah, Hasumi—!? Since when were you behind me…?
 {% endbubble %}
 
 {% bubble Keito %}
-I was never once *behind* you, you were simply messing around at the classroom door.
+I was never once *behind* you, you were simply messing around in front of the classroom door.
 
 Anyway, what were you doing?
 {% endbubble %}
@@ -363,7 +363,7 @@ Sorry to burst your bubble, but I just happened to come across an episode one da
 
 But I do think it's pretty excellent for a children's show.
 
-I forgot which series this was, but… I remember a scene where someone close to the protagonist fell ill to a chronic disease, and he had the opportunity to save them if he joined sides with the villains.
+I forgot which series this was, but… I remember an episode where someone close to the protagonist fell ill to a chronic disease, and he had the opportunity to save them if he joined sides with the villains.
 
 His close friend helped him time and time again, so he wanted to save them at any cost, but he knew they wouldn't forgive him for tainting his own hands for their sake.
 

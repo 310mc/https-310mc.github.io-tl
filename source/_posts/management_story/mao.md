@@ -69,7 +69,7 @@ No… I live here… Actually, you're right in front of my house…
 {% endbubble %}
 
 {% bubble Mao %}
-Oh, you're right, it says "Takamine Greengrocer". Wow, so this is your home, huh… Hmm… I may as well buy something from you, then!
+Oh, you're right, it says "Takamine's Greengrocer". Wow, so this is your home, huh… Hmm… I may as well buy something from you, then!
 
 What do you recommend I get, Takamine? Oh, and if you give me a recipe or two that uses veggies, I should be able to make 'em at home by myself.
 {% endbubble %}

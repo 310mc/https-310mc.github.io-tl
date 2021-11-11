@@ -75,7 +75,7 @@ So I was like, why not I make my belt black, too?
 {% endbubble %}
 
 {% bubble Midori %}
-"Belt"…? Do you mean your karate belt? I dunno how that works, but aren't only incredible people meant to wear one…?
+"Belt"…? Do you mean your karate belt? I dunno how that works, but aren't only incredible people allowed to wear one…?
 
 And that someone has to have cleared an insane trial… Like, taking a beating from strong waterfalls deep in the mountains, or defeating the Four Heavenly Kings… right…?
 {% endbubble %}
@@ -85,7 +85,7 @@ Where the heck did you get that idea from? You just pass the promotion exam to b
 
 Thing is, though, it's not easy beating it. I've gotta train harder and harder…
 
-Wait, how could I forget--that's *exactly* what fires you up about it! Sorry 'bout what I said earlier! I shouldn't have made it sound so easy!
+Wait, how could I forget—that's *exactly* what fires you up about it! Sorry 'bout what I said earlier! I shouldn't have made it sound so easy!
 {% endbubble %}
 
 {% bubble Midori %}

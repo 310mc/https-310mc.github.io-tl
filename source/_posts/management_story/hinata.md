@@ -97,7 +97,7 @@ Ahaha, I just got lucky! I felt like I could make the shot from my spot, is all.
 {% endbubble %}
 
 {% bubble Chiaki %}
-That's still amazing, y'know!? You might have what it takes to be a basketball player!
+That's still amazing, y'know!? You might have what it takes to become a basketball player!
 
 Ermm… Would you mind practicing with me until the rest of my club members arrive? Only if you're alright with it, of course!
 {% endbubble %}

@@ -10,7 +10,7 @@ categories:
 tags:
 - Management Story
 - Happy Elements Staff
-description: "[ES!] Subaru's Management Stories, featuring Chiaki, Mao, Midori."
+description: "[ES!] Subaru's Management Stories, featuring Chiaki, Mao, and Midori."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -139,7 +139,7 @@ Wait, something fell off of you. What's this… a basketball magazine?
 {% endbubble %}
 
 {% bubble Subaru %}
-Mhm. Chi~chan-senpai shoved it on me, saying something like, "Akehoshi! I can guarantee that this'll inspire you to play if you read it!"
+Mhm. Chi~chan-senpai shoved it on me, saying something like, "Akehoshi! I can guarantee you that this'll inspire you to play if you read it!"
 
 I don't really care for it much, but I know he'll come back asking me for my thoughts, sooo…
 
@@ -215,7 +215,7 @@ No, I'm just here to turn in my homework…
 {% endbubble %}
 
 {% bubble Subaru %}
-Oooh, what kinda homework was it? What do you guys even learn in your classes? I'm super curious! Lemme see~☆
+Oooh, what kinda homework was it? What do you first years even learn in your classes? I'm super curious! Lemme see~☆
 {% endbubble %}
 
 {% bubble Midori %}
@@ -231,9 +231,9 @@ Ah, do you mean the historic figure I had to draw…? Please stop staring, it's 
 {% endbubble %}
 
 {% bubble Subaru %}
-Why not? It looks amazing! I didn't know you were good at drawing!
+Why're you embarrassed? It looks amazing! I didn't know you were good at drawing!
 
-Draw me the next time you can, Takamin! I'll treasure it~! Promise me, okay? ♪
+Draw me next time you can, Takamin! I'll treasure it~! Promise me, okay? ♪
 {% endbubble %}
 
 <div toc>{% btn /management_story,, star, Index %}</div>

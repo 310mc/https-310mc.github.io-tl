@@ -87,7 +87,7 @@ Urghh… The most bothersome guy just *had* to hear me talking to myself… This
 {% endbubble %}
 
 {% bubble Chiaki %}
-If you have no motivation, then you just need to find some! I’ll do whatever it takes to flow motivation back into you!
+If you have no motivation, then you just need to find some! I’ll do whatever it takes to pump motivation back into you!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -95,7 +95,7 @@ Don’t just blabber anything out of your mouth… If I could just “find some,
 {% endbubble %}
 
 {% bubble Chiaki %}
-There’s plenty of ways to feel motivated, y’know? Like, getting yourself hyped and full of adrenaline…
+There’s plenty of ways to feel motivated, y’know? Like, getting yourself hyped up with adrenaline…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -185,7 +185,7 @@ Hehe, Takamine-kun, hello~♪
 {% endbubble %}
 
 {% bubble Midori %}
-Ah, Shino-kun… You came to shop here today again…♪
+Ah, Shino-kun… You came to shop here again…♪
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -193,7 +193,7 @@ Yes~! Your home’s vegetables are very delicious. But I feel a bit bad that you
 {% endbubble %}
 
 {% bubble Midori %}
-Oh no, the ones out of shape have lost value, that’s all.
+Don't worry, the ones out of shape have lost value, that’s all.
 
 We can’t really sell them anymore, so you’re actually helping us out a lot…
 {% endbubble %}
@@ -203,7 +203,7 @@ Oh no no, it’s fine. They’re still just as delicious. Hehe, my family really
 {% endbubble %}
 
 {% bubble Midori %}
-Oh, we have some nice stuff for sale today, too… Also, as thanks for being our regular customer, I’ll give you some cucumbers as extra, okay…?
+Ah, we have some nice stuff for sale today, too… Also, as thanks for being our regular customer, I’ll give you some cucumbers as extra, okay…?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -241,7 +241,7 @@ Mrrm… I’ve been kinda wondering for a while, but… Do you dislike basketbal
 {% endbubble %}
 
 {% bubble Midori %}
-I don’t hate it, but I don’t love it, either…
+I don’t dislike it, but I don’t love it, either…
 
 Why do I have to play basketball in my club *and* during class, too… *Sigh*… I wanna die…
 {% endbubble %}
