@@ -2,7 +2,7 @@
 title: About
 description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
 ---
-<style>
+<!--<style>
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
 .tab-content {
     display: none;
@@ -28,13 +28,13 @@ description: About 310mc's Translation Archive. Typically found translating Enst
 .tab-header__open:first-child:after, .chapter-area>.mini-talk__open:after {
     transform: rotate(180deg);
 }
-</style>
+</style>-->
 ## Introduction
 {% img /img/banner/about.jpg %}
 
 Heya, this is 310mc's Translation site! In here, I'll be posting my unofficial JP→ENG translations for any series I'm interested in. I also JP proofread for translators, mainly in Enstars♪
 
-Be sure to check my [translation masterlist](/translations/), [categories](/categories/), and [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
+Be sure to check my [translation masterlist](/translations/), [categories](/categories/), or [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
 
 **※ Everything on this site is unofficial and for non-profit.**
 
@@ -53,92 +53,15 @@ I'm most likely to translate the following content:
 
 ### Translation Status
 
-☐ Upload previously completed translations to this site:
-<div>
-<div class="tab-header">Translations To Upload (Bolded = high priority)</div>
-  <div class="tab-content">
-    <div class="row">
-        <div class="column">
-          ☐ <b>Climax</b>
-          <br>
-          ☐ Aquarium
-          <br>
-          ☐ Sweet Halloween
-          <br>
-          ☐ School Festival 4
-          <br>
-          ☐ Orihime and Hikoboshi
-          <br>
-          ✓ <a href="/meteor_impact">Meteor Impact</a>
-          <br>
-          ☐ <b>Motor Show</b>
-          <br>
-          ✓ <a href="/comet_show">Comet Show</a>
-          <br>
-          ☐ Selfish Noble
-          <br>
-          ☐ A Game of Tag with Mama
-          <br>
-          ☐ Melancholic Club Activities
-          <br>
-          ☐ The Crimson's Pure Heart
-          <br>
-          ☐ Midori's Idol Story 1, 2, 3 - Making-100-Friends Project - Party Animal Invasion
-          <br>
-          ☐ Hajime's Idol Story 1
-          <br>
-          ☐ Chiaki's Idol Story 1
-          <br>
-          ☐ Hinata's Idol Story 1, 3
-          <br>
-          ✓ <a href="/do_the_norm">Do The Norm</a>
-          <br>
-          ☐ Colorful Autumn
-          <br>
-          ☐ Biblio
-          <br>
-          ☐ <b>Beasts</b>
-          <br>
-          ☐ Gang
-          <br>
-          ☐ Zodiac - Senpai Turned Into A Dog?!
-          <br>
-          ☐ Comic World
-          <br>
-          ☐ Buddy
-          <br>
-          ☐ Dollhouse
-          <br>
-          ☐ Always Hold a Heroic Heart
-          <br>
-          ☐ Dear me, Before I Became a Ninja
-          <br>
-          ☐ Something Dubious in the Library
-          <br>
-          ☐ Midori's Management Story - 1, 2, 3, 4
-          <br>
-          ☐ Chiaki's Management Story - 1, 2, 3, 4
-          <br>
-          ☐ Madara's Management Story - 2
-          <br>
-          ☐ Shinobu's Management Story - 2, 3
-          <br>
-          ☐ Mitsuru's Management Story - 1
-          <br>
-          ☐ Kuro's Management Story - 3
-        </div>
-    </div>
-  </div>
-</div>
-<br>
+※ Upload [previously completed translations](/translations) to this site (In progress!)
 
-☐ Translate [Submarine](https://ensemble-stars.fandom.com/wiki/Submarine)
+※ Translate [Submarine](/submarine) (In progress!)
 
-☐ Translate [Hot & Elegant Chocolat Fes](https://ensemble-stars.fandom.com/wiki/Hot_%26_Elegant_Chocolat_Fes)
+※ Translate [Hot & Elegant Chocolat Fes](https://ensemble-stars.fandom.com/wiki/Hot_%26_Elegant_Chocolat_Fes)
 
-☐ Translate [Midori's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Midori_Takamine/Sub_Story)
+※ Translate [Midori's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Midori_Takamine/Sub_Story)
 
-☐ Translate [Chiaki's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa/Sub_Story)
+※ Translate [Chiaki's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa/Sub_Story)
 
 ## Translation Usage
 

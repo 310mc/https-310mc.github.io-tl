@@ -380,9 +380,9 @@ Ahhh, today's off to a wonderful start…☆
 
 ## Chiaki's Other Management Story Appearances
 
-|With Hinata|With Midori|With Subaru|With Madara|With Kuro|
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-[![/management_story/hinata#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/Hinata_Aoi_Anime_Chibi.png)](/management_story/hinata#With-Chiaki)|[![/management_story/midori#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Anime_Chibi.png)](/management_story/midori#With-Chiaki)|[![/management_story/subaru#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Subaru_Akehoshi_Anime_Chibi.png)](/management_story/subaru#With-Chiaki)|[![/management_story/madara#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/Madara_Mikejima_Anime_Chibi.png)](/management_story/madara#With-Chiaki)|[![/management_story/kuro#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Kuro_Kiryu_Anime_Chibi.png)](/management_story/kuro#With-Chiaki)
+|With Hinata|With Midori|With Subaru|With Izumi|With Madara|With Kuro|
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+[![/management_story/hinata#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/Hinata_Aoi_Anime_Chibi.png)](/management_story/hinata#With-Chiaki)|[![/management_story/midori#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Anime_Chibi.png)](/management_story/midori#With-Chiaki)|[![/management_story/subaru#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Subaru_Akehoshi_Anime_Chibi.png)](/management_story/subaru#With-Chiaki)|[![/management_story/izumi#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/2/27/Izumi_Sena_Anime_Chibi.png)](/management_story/izumi#With-Chiaki)|[![/management_story/madara#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/Madara_Mikejima_Anime_Chibi.png)](/management_story/madara#With-Chiaki)|[![/management_story/kuro#With-Chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Kuro_Kiryu_Anime_Chibi.png)](/management_story/kuro#With-Chiaki)
 
 <div toc>{% btn /management_story,, star, Index %}</div>
 

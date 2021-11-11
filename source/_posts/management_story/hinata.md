@@ -121,7 +121,7 @@ Heh… I dunno if I'll ever get another chance to play with the basketball capta
 {% endbubble %}
 
 {% bubble Hinata %}
-Heey, Midori-kun!
+Heeey, Midori-kun!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -165,7 +165,7 @@ Whaa…? I *just* said I'd *only* hear you out…
 {% endbubble %}
 
 {% bubble Hinata %}
-So it's no-go…? There isn't much time left until it starts, though! You're the only one I can count on at this point~!
+So it's a no-go…? There isn't much time left 'til it starts, though! You're the only one I can count on at this point~!
 {% endbubble %}
 
 {% bubble Midori %}

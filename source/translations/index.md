@@ -3,6 +3,20 @@ title: Translation Masterlist
 description: A list of all the translations by 310mc. You will find Enstars and Helios translations here.
 ---
 
+## Index
+
+<a href="#Ensemble-Stars">Ensemble Stars</a>
+<ul>
+<li><a href="#Event-Stories">Event Stories</a></li>
+<li><a href="#Gacha-Stories">Gacha Stories</a></li>
+<li><a href="#Idol-Stories">Idol Stories</a></li>
+<li><a href="#Mini-Talks">Mini Talks</a></li>
+<li><a href="#Song-Lyrics">Song Lyrics</a></li>
+<li><a href="#Other">Other</a></li>
+</ul>
+
+<a href="#Helios-Rising-Heroes">Helios Rising Heroes</a>
+
 ## Ensemble Stars
 
 ### Event Stories
@@ -43,7 +57,7 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 |Selfish Noble|A Game of Tag with Mama|Melancholic Club Activities|
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/2918.html](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%283rd_Anniversary%29_Hiyori_Tomoe.png)](https://euni2319.dreamwidth.org/2918.html)|[![https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Showdown_with_Mama%29_Mitsuru_Tenma_Bloomed.png)](https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/)|[![https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Senpai_Discussion%29_Midori_Takamine_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/)
-**The Crimson's Pure Heart**|**Management Stories**|
+**The Crimson's Pure Heart**|**Management Stories**|**Birthday Stories (Coming Soon!)**
 [![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|[![/management_story](/img/es/manageconvo/cover.jpg)](/management_story)
 
 |Midori Idol Story 1|Midori Idol Story 2|Midori Idol Story 3|
@@ -68,26 +82,22 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/)|[![https://twitter.com/310mc1/status/1438883468277129216](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](https://twitter.com/310mc1/status/1438883468277129216)|
 
-Baton Pass! Chiaki (Normal)|Baton Pass! Chiaki (Special)|
+Baton Pass! Chiaki|Shooting Star Festival! Chiaki|
 | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Normal_Event)|[![https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event)
-
-|Shooting Star Festival! Chiaki (Normal)|Shooting Star Festival! Chiaki (Special)|
-| :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Normal_Event)|[![https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event)
+[![https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event){% btn https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Normal_Event,, star, Normal Event %}{% btn https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event,, circle, Special Event %}|[![https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event){% btn https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Normal_Event,, star, Normal Event %}{% btn https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event,, circle, Special Event %}|
 
 Comet Show! Midori|
 | :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_M_Bloomed.png)](/comet_show/minitalk/midori/1)|
+[![/comet_show/minitalk/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_M_Bloomed.png)](/comet_show/minitalk/midori/1){% btn /comet_show/minitalk/midori_1,, star, Midori Mini Talk: Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, circle, Midori Mini Talk: Topics About That Guy %}|
 
 ### Song Lyrics
-|SUPERNOVA REVOLU5TAR|GROWING STARRY DAYS|Meteor Scramble☆RYUSEITAI
+|SUPER NOVA REVOLU5TAR|GROWING STARRY DAYS|Meteor Scramble☆RYUSEITAI
 | :-----------: | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3)|[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3)|[![https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4](https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/Ensemble_Stars%21_ED_Collection_Vol.4.png)](https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4)
+[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/SUPER_NOVA_REVOLU5TAR_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/GROWING_STARRY_DAYS_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4](https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/Ensemble_Stars%21_ED_Collection_Vol.4.png)](https://ensemble-stars.fandom.com/wiki/Meteor_Scramble%E2%98%86RYUSEITAI_%28Lyrics%29)
 
 |Date Plan A to Z|Aisle, be with you|
 | :-----------: | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics))|[![https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics))|
+[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_%28Lyrics%29)|
 
 
 ### Other
