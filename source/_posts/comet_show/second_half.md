@@ -937,5 +937,5 @@ Every last one of you are so insistent on making everything harder on yourselves
 
 ## Translation Notes
 [^1]: Kanata’s last name *shinkai* literally means “deep sea”.
-[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks on <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
+[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Intertwined_Sea%29_Kanata_Shinkai_CG.png" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
 [^5]: A reference to what happens in the ES!! main story. A TL;DR until it's translated: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

@@ -265,11 +265,11 @@ Haha, you Ryuseitai kiddos are as energetic as ever, huh?
 {% bubble Tetora %}
 That’s my only strong point, after all! I got bucket loads of energy in me~!
 
-(Whispering) ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
+<th>*(Whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
 {% endbubble %}
 
 {% bubble Midori %}
-(Whispering) It’s better this way, now we can relax, at least… I don’t wanna work hard…
+<th>*(Whispering)*</th> It’s better this way, now we can relax, at least… I don’t wanna work hard…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -369,7 +369,7 @@ Um, this has naught to do with Hasumi-dono, but rather, erm, that I—
 {% bubble Kanata %}
 you’re not the same anymore, are you… i’m so sad…
 
-okinawa is a place brimming with seafood, so i was really looking forward to talking to you about all kinds of fish...
+okinawa is a place brimming with seafood, so i was really looking forward to talking to you about all kinds of fish…
 {% endbubble %}
 
 {% bubble Souma %}
@@ -377,18 +377,205 @@ Ahh, please do not make such a somber face! This is simply an unavoidable matter
 {% endbubble %}
 
 {% bubble Keito %}
-Did we come all the way here to Okinawa to watch a pseudo-lover's quarrel happening before our very eyes?
+Did we come all the way here to Okinawa to watch a pseudo-lover's quarrel happen before our very eyes?
 {% endbubble %}
 
 {% bubble Kuro %}
 Haha, it’s real nice seeing this energy, actually. It’s bringin’ me back to our Yumenosaki days.
 {% endbubble %}
 
+## Chapter 5
+
+{% note narration %}
+**Time:** A few minutes later — Akatsuki and Ryuseitai are having a discussion after their meal.
+{% endnote %}
+
+{% bubble Keito %}
+Hmm, I see. I understand what’s happening in Okinawa now. Or rather, the peculiarities laid down in this prefecture.
+{% endbubble %}
+
+{% bubble Tetora %}
+Ossu. I’m sorry if I didn’t explain stuff very well.
+{% endbubble %}
+
+{% bubble Keito %}
+I don’t mind. Morisawa has a tendency to see everything in a good light far more than necessary, so I wanted an impartial explanation from someone else.
+
+Compared to him, for this reason you’re much better at explaining things than he is.
+{% endbubble %}
+
+{% bubble Tetora %}
+Ahaha… To be honest, I still freeze up a li’l when I’m talking to you, Hasumi-senpai. I always get reminded of the time I was rejected from Akatsuki…
+
+But well, the only reason I’m the one explaining things right now is ‘cuz Morisawa-senpai is helping Taishou get back to the ryokan, since he wasn’t feeling well.
+{% endbubble %}
+
+{% bubble Keito %}
+Like I said, I don’t mind that. I’m tired enough as it is, Morisawa would only tire me further.
+{% endbubble %}
+
+{% bubble Kanata %}
+hrmph… you sure do treat chiaki harshly, temple guy.
+{% endbubble %}
+
+{% bubble Keito %}
+It’s nothing compared to *<em>you</em>.*
+
+…Let’s get back on topic. I’d rather discuss the current situation in Okinawa than Morisawa.
+
+We don’t know anything about what’s going on because we’ve only just arrived here.
+{% endbubble %}
+
+{% bubble Tetora %}
+Ossu, aight, so… Based on the official broadcasts of SS and the information circulating on HoldHands from ES—
+
+It sounds like the atmosphere or, rather, the *<em>characteristics</em>* of the qualifying rounds are super different between regions.
+{% endbubble %}
+
+{% bubble Shinobu %}
+Indeed, it seems so. Depending on the region, you may end up trapped in a virtual space, an amusement park, a desert, a jungle, or—[^2]
+{% endbubble %}
+
+{% bubble Midori %}
+Why are there so many variations of getting trapped inside somewhere…?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Hehe, we can’t step out of Okinawa during the qualifying rounds, so in a way, you could say that we’re confined to this area too.
+{% endbubble %}
+
+{% bubble Keito %}
+Don’t explain this situation as if we’re trapped in some sealed room for no reason. That makes it sound like a random excuse a mystery writer came up with just because they couldn’t think up a clever trick.
+{% endbubble %}
+
+{% bubble Midori %}
+I don’t even know what half those words mean…
+
+Anyway, the region we’ve been assigned to is pretty simplistic compared to areas like the jungle or whatever—
+
+To put it simply, it’s brutal out here.
+{% endbubble %}
+
+{% bubble Keito %}
+Thank you for the clear expression. Specifically, there seems to be a lot of live showdowns happening around the region.
+{% endbubble %}
+
+{% bubble Tetora %}
+Ossu, that’s basically all you’ll ever see here.
+{% endbubble %}
+
+{% bubble Shinobu %}
+Indeed. We arrived here much earlier than Akatsuki did, but even we were challenged to a battle the moment we exited the plane.
+
+We managed to overcome it, but we were then challenged by all sorts of idols at every opportunity right after… I’m pretty fed up with it, to tell you the truth.
+{% endbubble %}
+
+{% bubble Keito %}
+Hm, so essentially, we’ll be challenged to a match the moment we start moving. That sounds just like Pokemon.
+{% endbubble %}
+
+{% bubble Shinobu %}
+You know about Pokemon, Hasumi-dono!?
+{% endbubble %}
+
+{% bubble Keito %}
+Do you have a problem with that?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Ah, no… But the more I talk to you, the more I realize you’re someone I could get along with!
+{% endbubble %}
+
+{% bubble Souma %}
+Haha, I would more say it is you who is affable no matter who you speak to, Sengoku.
+
+Although, Ryuseitai is predominantly more soft-hearted compared to Akatsuki—In other words, it feels relaxing to intermingle with you. I believe that your group is remarkably unsuitable for such a ferocious atmosphere.
+{% endbubble %}
+
+{% bubble Tetora %}
+Mm~ Thing is, Yumenosaki was like that too, so we *<em>are</em>* familiar with it.
+
+But Morisaw—<em>Taichou</em> doesn't like seeing people crush each other, so he wants to put an end to those conflicts.
+
+He’s the current leader of Ryuseitai, so we’ve been basically running around with him and telling everyone to stop fighting.
+{% endbubble %}
+
+{% bubble Souma %}
+Hmm, that is just like Morisawa-dono. He is always working hard to fulfill his duty for the sake of maintaining peace.
+
+He is an honorable man who loves peace and cherishes people. You have truly been blessed with good predecessors, Sengoku, Nagumo.
+{% endbubble %}
+
+{% bubble Tetora %}
+………
+{% endbubble %}
+
+{% bubble Midori %}
+<th>(That’s odd, he didn’t mention my name…)</th>
+
+<th>(Well, to be fair, I’ve barely talked to Kanzaki-senpai before, so I would’ve been more confused if he *<em>did</em>* speak to me like we’re friends, but still…)</th>
+{% endbubble %}
+
+{% bubble Kanata %}
+midori? is something the matter? if you’re still hungry, would you like to eat the fish that was meant for that traitor souma, since he didn’t bother to finish his plate?
+{% endbubble %}
+
+{% bubble Midori %}
+No, I’m good… I only get bigger with every bite I take… and I don’t really like the sight of a dead fish’s eyes…
+{% endbubble %}
+
+{% bubble Kanata %}
+i knew you’d say that, so i’ve prepared sliced up sashimi as an alternative~♪
+{% endbubble %}
+
+{% bubble Souma %}
+Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter—I swear to you that my heart has always been one with the Marine Biology Club!
+{% endbubble %}
+
+{% bubble Kanata %}
+hmph, you can’t fool me with flattery…
+{% endbubble %}
+
+{% bubble Keito %}
+I always think this, but Shinkai really is harsh to specifically only Kanzaki, isn’t he… Ah, wait, he’s harsh to Mikejima, too—I suppose he’s much more haughty with the people he’s close to.
+{% endbubble %}
+
+{% bubble Shinobu %}
+Shinkai-dono is always kind to us, though~!
+{% endbubble %}
+
+{% bubble Kanata %}
+fufufu, that’s because everyone in ryuseitai are good kids~♪
+
+…you’re always being such good kids, but still don’t get rewarded with anything… it’s such a pity.
+{% endbubble %}
+
+{% bubble Souma %}
+Ahhh! Do not let such frustration build up inside of you, Shinkai-dono! Here, eat the seafood I cannot consume!
+{% endbubble %}
+
+{% bubble Kanata %}
+the one who’s stressing me out the most is you, souma. you traitor… you deserve death for your treachery…
+{% endbubble %}
+
+{% bubble Souma %}
+Uuu, I assure you that it is not what you think it is, Shinkai-dono! I… I simply…!?
+{% endbubble %}
+
+{% bubble Keito %}
+…Quit bullying our kid so much, Shinkai.
+{% endbubble %}
+
+{% bubble Kanata %}
+i’m not bullying anyone~ heroes never do that.
+{% endbubble %}
+
 <div toc>
 {% btn https://verdantgrove.dreamwidth.org/14046.html,, arrow-left, Previous Chapter: Chapter 3 %}
 {% btn /submarine,, star, Index %}
-{% btn /submarine,, arrow-right, Next Chapter %}
+<!--{% btn /submarine,, arrow-right, Next Chapter %}-->
 </div>
 
 ## Translation Notes
 [^1]: This is a reference to a scene in Bleach. You will find it in Volume 34, Chapter 302.
+[^2]: The following areas refer to specific SS stories: Virtual Space → SHINSEKAI, Amusement park → Sanctuary, Desert → Sandstorm, Jungle → Satellite.
