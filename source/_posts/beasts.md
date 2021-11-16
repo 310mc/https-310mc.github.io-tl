@@ -1,28 +1,30 @@
 ---
-title: "[ES!!] Submarine"
-date: 2021-10-29 9:10:00
+title: "[ES!] Beasts"
+date: 2021-11-16 23:00:00
 categories:
-- [Enstars, ES!!]
-- [Enstars, Ryuseitai]
-- [Enstars, Akatsuki]
+- [Enstars, ES!]
+- [Enstars, Arashi]
+- [Enstars, Tetora]
+- [Enstars, Midori]
+- [Enstars, Madara]
+- [Enstars, Ritsu]
 tags:
-- Main Story
+- Scout Story
 - Akira
-- Story Index
-description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
+description: "[ES!] TBA"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/submarine/kanatabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/NAMEbcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Submarine</div>
-                <div class="title-area__subtitle">サブマリン</div>
-                <div class="title-area__start"><a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a></div>
+                <div class="title-area__title">Beasts</div>
+                <div class="title-area__subtitle">ケダモノ</div>
+                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -30,7 +32,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Season
                         </div>
                         <div class="value">
-                            Winter
+                            Spring, before Repayment Festival
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -38,7 +40,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Chapters
                         </div>
                         <div class="value">
-                            32
+                            8
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -54,15 +56,11 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Arashi" character="Arashi"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
-                        <a href="/categories/Enstars/Keito" character="Keito"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
-                        <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -70,7 +68,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Translation
                         </div>
                         <div class="value">
-                            <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -78,7 +76,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
+                            TBA
                         </div>
                     </div>
                 </div>
@@ -101,21 +99,21 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/submarine/soumaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/soumaorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/submarine/kanatabcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/eventname/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Submarine</div>
-                <div class="title-area__subtitle">サブマリン</div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
                 <div class="title-area__start">
-                    <a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a>
+                    <a href="TBA">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -123,7 +121,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Season
                         </div>
                         <div class="value">
-                            Winter
+                            TBA
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +129,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Chapters
                         </div>
                         <div class="value">
-                            32
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -139,7 +137,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            TBA
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -152,10 +150,6 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
-                        <a href="/categories/Enstars/Keito" character="Keito"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
-                        <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -163,7 +157,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                          <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -171,7 +165,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
+                            TBA
                         </div>
                     </div>
                 </div>
@@ -185,7 +179,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                 Event
                             </div>
                             <div class="value">
-                                SS Arc／2nd Stage Submarine
+                                TBA
                             </div>
                         </div>
                         <div class="tab-item">
@@ -206,7 +200,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kanataorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -214,15 +208,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/chiakiorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    Ruthless Battlefield, Okinawa 3
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/submarine/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -230,7 +216,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -238,7 +224,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -246,7 +232,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kanatabcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    TBA
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/eventname/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -264,15 +258,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--俺のパゥアを分けてやろうっ！--></div>
-                                            <div class="bloomed"><!--正義の戦士は立ち上がる！--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -282,15 +276,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--不器用コメット--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--五人を守るため--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--付きあい方--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -300,15 +294,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/midoricard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--俺たちの出番ですよ、先輩--></div>
-                                            <div class="bloomed"><!--援護してあげよっか--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -318,15 +312,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--我が侭コメット--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--五人でやってきたこと--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--打ち明け話--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -336,15 +330,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--ちゃっぷちゃっぷ♪--></div>
-                                            <div class="bloomed"><!--なんだってできるきがします--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -354,15 +348,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--ゆるいこめっと--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--ごにんのかぞく--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--うみべのさんぽ--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -372,15 +366,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--怪獣…？海獣ッスか？--></div>
-                                            <div class="bloomed"><!--掴み取れるように努力をしてるッス--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -390,15 +384,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--実直コメット--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--五人でいること--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--徒手空拳と気持ち--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -408,15 +402,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--持ち味や技能を活かすでござるよ--></div>
-                                            <div class="bloomed"><!--いつでも仲良しがいいでござる--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -426,15 +420,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--緩衝コメット--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--五人に望むこと--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--ナレーション役--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -449,88 +443,35 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="https://verdantgrove.dreamwidth.org/7838.html" id="none">Prologue</a>
+                            <a href="TBA" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>Ruthless Battlefield, Okinawa</span>
-                            <a href="https://verdantgrove.dreamwidth.org/13777.html" id="none">1</a>
-                            <a href="https://verdantgrove.dreamwidth.org/14046.html" id="none">2</a>
-                            <a href="ruthless_battlefield/#Chapter-3" id="none">3</a>
-                            <a href="ruthless_battlefield/#Chapter-4" id="none">4</a>
-                            <a href="ruthless_battlefield/#Chapter-5" id="none">5</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <span>TBA</span>
+                            <a href="TBA" id="none">1</a>
+                            <a href="TBA" id="none">2</a>
+                            <a href="TBA" id="none">3</a>
+                            <a href="TBA" id="none">4</a>
+                            <a href="TBA" id="none">5</a>
+                            <a href="TBA" id="none">6</a>
+                            <a href="TBA" id="none">7</a>
                         </li>
                         <li>
-                            <span>Nirai Kanai</span>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <span>TBA</span>
+                            <a href="TBA" id="none">1</a>
+                            <a href="TBA" id="none">2</a>
+                            <a href="TBA" id="none">3</a>
+                            <a href="TBA" id="none">4</a>
+                            <a href="TBA" id="none">5</a>
+                            <a href="TBA" id="none">6</a>
+                            <a href="TBA" id="none">7</a>
+                            <a href="TBA" id="none">8</a>
+                            <a href="TBA" id="none">9</a>
                         </li>
                         <li>
-                            <span>Epilogue</span>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">Epilogue</a>
                         </li>
                     </ul>
-                </div>
-                <div class="mini-talks">
-                    <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Kanata Shinkai</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Souma Kanzaki</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Kuro Kiryu</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div>              
             </div>
         </div>
     </div>

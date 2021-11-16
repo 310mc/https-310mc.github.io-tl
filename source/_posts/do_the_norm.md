@@ -91,7 +91,7 @@ This story is connected to the card [[Basketball Connections] Aira Shiratori](ht
 
 <th>(I did my best keeping it a secret that every week, I’ve been listening to their podcast in bed with my earphones! I don’t want all of my effort to go to waste!)</th>[^1]
 
-<th>(—… Oh, he’s here!)</th>
+<th>(—…Oh, he’s here!)</th>
 {% endbubble %}
 
 {% img /img/es/idolstory/do_the_norm/2.jpg %}

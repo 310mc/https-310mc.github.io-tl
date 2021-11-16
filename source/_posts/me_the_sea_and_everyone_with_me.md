@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] me, the sea, and everyone with me"
-date: 2021-11-11 22:00:00
+date: 2021-11-10 9:00:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Rei]
@@ -48,7 +48,7 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> ryuseipuka.
+                    <a href="/about">310mc</a><br><b>Proofreading</b><br>ryuseipuka
                 </div>
             </div>
             <div class="info-item three">

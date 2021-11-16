@@ -38,7 +38,7 @@ Motor Show|Comet Show|Submarine
 
 |Colorful Autumn (Coming Soon!)|Biblio|Zodiac|
 | :-----------: | :-----------: | :-----------: |
-[![/colorful_autumn](/img/banner/colorfulautumn.png)](/colorful_autumn)|[![https://euni2319.dreamwidth.org/2418.html](/img/banner/biblio.png)](https://euni2319.dreamwidth.org/2418.html)|[![https://euni2319.dreamwidth.org/17153.html](/img/banner/zodiac.png)](https://euni2319.dreamwidth.org/17153.html)
+[![/colorful_autumn](/img/banner/colorfulautumn.png)](/colorful_autumn)|[![https://euni2319.dreamwidth.org/2418.html](/img/banner/biblio.png)](https://euni2319.dreamwidth.org/2418.html)|[![/senpai_turned_into_a_dog](/img/banner/zodiac.png)](/senpai_turned_into_a_dog)
 **Beasts (Coming Soon!)**|**Gang**|**Comic World**
 [![/beasts](/img/banner/beasts.png)](/beasts)|[![https://euni2319.dreamwidth.org/22838.html](/img/banner/gang.png)](https://euni2319.dreamwidth.org/22838.html)|[![https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/](/img/banner/comicworld.png)](https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/)
 **Buddy**|

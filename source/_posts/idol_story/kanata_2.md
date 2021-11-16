@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Kanata Shinkai – Idol Story 2"
-date: 2021-11-12 14:20:00
+date: 2020-03-16 9:10:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Kanata]

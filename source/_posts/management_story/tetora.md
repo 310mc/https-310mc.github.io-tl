@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Tetora Nagumo – Management Story"
-date: 2021-11-11 10:30:00
+date: 2019-10-26 9:10:00
 categories:
 - [Enstars, Tetora]
 - [Enstars, Midori]

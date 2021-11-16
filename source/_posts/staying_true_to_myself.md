@@ -12,7 +12,7 @@ tags:
 - Umeda Chitose
 description: "[ES!!] Midori's Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personal outfit that he'd like to wear."
 ---
-![](/img/es/idolstory/staying_true/orig.jpg)|![](/img/es/idolstory/staying_true/b.jpg)
+![](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M_Bloomed.png)
 :-:|:-:
 
 Midori feels depressed as soon as he hears it's his turn to receive a personal outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear…

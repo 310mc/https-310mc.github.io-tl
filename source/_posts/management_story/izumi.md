@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Izumi Sena – Management Story"
-date: 2021-11-11 16:00:00
+date: 2019-10-26 9:10:00
 categories:
 - [Enstars, Izumi]
 - [Enstars, Chiaki]
