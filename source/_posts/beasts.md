@@ -1,6 +1,6 @@
 ---
-title: "[ES!] Beasts"
-date: 2021-11-16 23:00:00
+title: "[ES!] Beasts (In Progress!)"
+date: 2021-11-17 18:30:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Arashi]
@@ -11,20 +11,20 @@ categories:
 tags:
 - Scout Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!] Arashi receives a lot of praise for her manly photoshoot. Tetora becomes inspired by the photos, and rushes to ask Arashi for advice on how to be more manly…"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/NAMEbcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/scoutstory/beasts/tetoracgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Beasts</div>
                 <div class="title-area__subtitle">ケダモノ</div>
-                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
+                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/beasts">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Arashi receives a lot of praise for her manly photoshoot. Tetora sees those photos and, inspired by the manliness, rushes to ask Arashi for advice on how to be more manly…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -76,7 +76,7 @@ description: "[ES!] TBA"
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            To be added!
                         </div>
                     </div>
                 </div>
@@ -99,21 +99,19 @@ description: "[ES!] TBA"
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/soumaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/beasts/arashiorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/eventname/kanatabcgframe.jpg"></div>
+                <div><img src="/img/es/scoutstory/beasts/tetoracgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start">
-                    <a href="TBA">Start Reading</a>
-                </div>
+                <div class="title-area__title">Beasts</div>
+                <div class="title-area__subtitle">ケダモノ</div>
+                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/beasts">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Arashi receives a lot of praise for her manly photoshoot. Tetora sees those photos and, inspired by the manliness, rushes to ask Arashi for advice on how to be more manly…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -121,7 +119,7 @@ description: "[ES!] TBA"
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Spring, before Repayment Festival
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -129,7 +127,7 @@ description: "[ES!] TBA"
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            8
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -137,7 +135,7 @@ description: "[ES!] TBA"
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Akira
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -145,11 +143,11 @@ description: "[ES!] TBA"
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Arashi" character="Arashi"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -157,7 +155,7 @@ description: "[ES!] TBA"
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -165,7 +163,7 @@ description: "[ES!] TBA"
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            To be added!
                         </div>
                     </div>
                 </div>
@@ -176,20 +174,33 @@ description: "[ES!] TBA"
                     <div class="tab-content">
                         <div class="tab-item">
                             <div class="label">
-                                Event
+                                Scout
                             </div>
                             <div class="value">
-                                TBA
+                                Beasts
                             </div>
                         </div>
                         <div class="tab-item">
                             <div class="label">
-                                Event Duration
+                                Scout Duration
                             </div>
                             <div class="value">
-                                2021/5/31 (15:00 JST) - 2021/6/8 (22:00 JST)
+                                2018/3/14 (15:00 JST) - 2018/3/30 (15:00 JST)
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="comment-area">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Writer's Comment</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-item">
+                            It's a wild story title, but to put it simply, it's basically <em>Beauty and the Beast</em>.<!--［ケダモノ］シナリオを担当しています。すごい題名ですが、要するに「美女と野獣」ってことですよ。-->
+                            <div class="source">
+                                <a href="https://twitter.com/HiHiHiakira/status/975662869290287104">Akira [@HiHiHiakira]. March 19, 2018.</a>
+                            </div>
+                        </div>                       
                     </div>
                 </div>
                 <div class="cg-gallery">
@@ -200,7 +211,7 @@ description: "[ES!] TBA"
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
+                                    <img src="/img/es/scoutstory/beasts/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -208,268 +219,35 @@ description: "[ES!] TBA"
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakiorigcg.jpg">
+                                    <img src="/img/es/scoutstory/beasts/arashiorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
                                 </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakibcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanatabcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                 </div>
-                <div class="story-cards">
-                    <div class="tab-header">
-                        <div class="tab-header__name">Associated Cards</div>
-                    </div>
-                    <div class="tab-content">
-                        <div class="cards">
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                </div>                
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                        <li>
-                            <a href="TBA" id="none">Prologue</a>
+                    <li>
+                        <a href="https://euni2319.dreamwidth.org/tag/beasts" id="none">Dreamwidth</a>
+                    </li>                                          
+                      <!--  <li>
+                            <span>Center of the World</span>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="none">x</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                        </li>
-                        <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
-                        </li>
-                        <li>
-                            <a href="TBA" id="none">Epilogue</a>
-                        </li>
+                            <a href="TBA" id="none">x</a>
+                        </li>-->
                     </ul>
                 </div>              
             </div>

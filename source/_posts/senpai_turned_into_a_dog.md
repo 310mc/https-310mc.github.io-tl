@@ -264,9 +264,12 @@ description: "[ES!] Midori goes into a panic when he finds out that Chiaki turne
 
 <!-- more -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
-==
 
 ## Chapter 1
+
+{% note cw %}
+**Content Warning:** This story has mentions of animal euthanasia.
+{% endnote %}
 
 {% note location %}
 **Location:** Garden Space
@@ -309,7 +312,7 @@ description: "[ES!] Midori goes into a panic when he finds out that Chiaki turne
 
 <th>(Hmm…? Am I remembering things wrong…? Maybe I should double-check when I’m done, just in case…)</th>
 
-<th>(Morisawa-senpai gets really annoying when I skip out on the club…)</th>
+<th>(Since Morisawa-senpai gets really annoying when I skip out on the club…)</th>
 {% endbubble %}
 
 {% note location %}
@@ -341,7 +344,7 @@ Wha—Huh? What just…? A-A dog?
 
 *Eeek*…! W-What’s with this dog…? Don’t come near me…
 
-I’m fine with fictional mascot characters, but real dogs are alive and can move around—I don’t know how to deal with them…!!
+I’m fine with fictional mascots, but real dogs are alive and can move around—I don’t know how to deal with them…!!
 
 Don’t mooove… Don’t get cuddly with me, I’m not your owner…
 
@@ -384,10 +387,6 @@ Eeek—I-I’m wrong? Don’t bark, okay…?
 
 ## Chapter 2
 
-{% note cw %}
-**Content Warning:** Mentions of animal euthanasia.
-{% endnote %}
-
 {% bubble Midori %}
 <th>(Hm… The doggie slipped into Morisawa-senpai’s uniform and started playing with the ball… Looks like it’s having fun…)</th>
 
@@ -418,7 +417,7 @@ Hey! What are you doing here!?
 {% bubble Keito %}
 There are going to be exam students here for a meeting this afternoon, so the gym is off-limits!
 
-If you’re here to help out with preparations then be my guest, but if you’re not, leave immediately! Otherwise, you’ll only be getting in the way!
+If you’re here to help out with preparations then be my guest, but if you’re not, then leave immediately! Otherwise, you’ll only be getting in the way!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -592,9 +591,9 @@ Wait, have you never seen him before?
 {% endbubble %}
 
 {% bubble Subaru %}
-…? Why are you bringing up Chi~chan-senpai? I don’t get what you mean, but this here’s Daikichi!
+…? Why’re you bringing up Chi~chan-senpai? I don’t get what you mean, but this here’s Daikichi!
 
-We were raised together like brothers, so his interests are the same as mine. Whenever I’m doing some basketball practice, he comes over to play with the ball!
+We were raised together like brothers, so his interests are the same as mine. Whenever I’m practicing basketball, he comes over to play with the ball!
 
 But his paws are usually dirty from the mud, soo~ He left footprints everywhere in the gym.
 

@@ -1,28 +1,27 @@
 ---
-title: "[ES!!] Motor Show"
-date: 2020-05-05 9:00:00
+title: "[ES!!] SHINOBUEVENTNAME"
+date: 2021-1-30 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
-- [Enstars, Alkaloid]
 tags:
 - Event Story
-- Story Index
-- Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+- WRITERTBA
+description: "[ES!!] SYNOPSISTBA"
+hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/motorshow/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/shinobubcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Motor Show</div>
-                <div class="title-area__subtitle">モーターショー</div>
-                <div class="title-area__start"><a href="/motor_show/prologue">Start Reading</a></div>
+                <div class="title-area__title">SHINOBUEVENTNAME</div>
+                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__start"><a href="TBA/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…
+                    SYNOPSISTBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -30,7 +29,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            Autumn
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -38,7 +37,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Chapters
                         </div>
                         <div class="value">
-                            15
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -46,7 +45,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            WRITERTBA
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -59,10 +58,6 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
-                        <a href="/categories/Enstars/Aira" character="Aira"></a>
-                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
-                        <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -70,7 +65,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>, <a href="https://twitter.com/yoroshikilled">Peace</a>, Whisper
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -78,7 +73,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz">Amagiiz</a>, <a href="https://twitter.com/yoroshikilled">Peace</a>, TsubasaFL
+                            ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -101,21 +96,21 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/motorshow/hiiroorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/shinobuorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/motorshow/tetorabcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/eventname/shinobubcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Motor Show</div>
-                <div class="title-area__subtitle">モーターショー</div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -123,7 +118,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            TBA
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +126,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Chapters
                         </div>
                         <div class="value">
-                            15
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -139,7 +134,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            TBA
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -152,10 +147,6 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
-                        <a href="/categories/Enstars/Aira" character="Aira"></a>
-                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
-                        <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -163,7 +154,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>, <a href="https://twitter.com/yoroshikilled">Peace</a>, Whisper
+                          <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -171,7 +162,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz">Amagiiz</a>, <a href="https://twitter.com/yoroshikilled">Peace</a>, TsubasaFL
+                            TBA
                         </div>
                     </div>
                 </div>
@@ -180,12 +171,20 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         <div class="tab-header__name">Extra Information</div>
                     </div>
                     <div class="tab-content">
+                      <div class="tab-item">
+                            <div class="label">
+                                Associated Song
+                            </div>
+                            <div class="value">
+                                <a href="YOUTUBELINK">SONGNAME</a> — <a href="SONGLYRICS">(Song Lyrics)</a>
+                            </div>
+                        </div>
                         <div class="tab-item">
                             <div class="label">
                                 Event
                             </div>
                             <div class="value">
-                                Intersecting／Motor Show
+                                TBA
                             </div>
                         </div>
                         <div class="tab-item">
@@ -193,22 +192,9 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                                 Event Duration
                             </div>
                             <div class="value">
-                                2021/4/30 (15:00 JST) - 2021/5/8 (22:00 JST)
+                                2021/11/30 (15:00 JST) - 2021/12/8 (22:00 JST)
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="comment-area">
-                    <div class="tab-header">
-                        <div class="tab-header__name">Writer's Comment</div>
-                    </div>
-                    <div class="tab-content">
-                        <div class="tab-item">
-                            I wrote Motor Show. Even I think it sounds like a fairy-tale, but there was once a period when the protagonist obtaining his own car was proof that he succeeded (And that the story has a happy ending). Back to the Future! (The hell?)<!--［モーターショウ］シナリオを担当してます。僕からしてもおとぎ話なんですが、一昔前には「自分の車を得る」というのが「主人公の少年は成功した（この物語はハッピーエンドである）」という「証明」になった時代があったみたいなんですよね。バック・トゥ・ザ・フューチャー！（何）-->
-                            <div class="source">
-                                <a href="https://twitter.com/HiHiHiakira/status/1258681129235693568">Akira [@HiHiHiakira]. May 8, 2020.</a>
-                            </div>
-                        </div>                       
                     </div>
                 </div>
                 <div class="cg-gallery">
@@ -219,66 +205,50 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/hiiroorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/shinobuorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Progress at a Snail's Pace 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/tetoraorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Progress at a Snail's Pace 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/shinobuorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Progress at a Snail's Pace 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/mayoiorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/shinobubcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Progress at a Snail's Pace 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/mayoibcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 3
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/shinobubcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 3
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/hiirobcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    Epilogue 4
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/tetorabcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    Epilogue 4
+                                    TBA
                                 </div>
                             </div>
                         </div>
@@ -293,10 +263,10 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/motorshow/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/motorshow/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -306,8 +276,8 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -329,82 +299,10 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/motorshow/midoricard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/motorshow/midoribcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/motorshow/kanatacard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/motorshow/kanatabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/motorshow/tetoracard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/motorshow/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -437,10 +335,10 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/motorshow/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/motorshow/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -450,8 +348,80 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -478,31 +448,47 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="TBA" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="snails_pace" id="none">Progress at a Snail's Pace</a>
+                            <span>TBA</span>
+                            <a href="TBA" id="none">1</a>
+                            <a href="TBA" id="none">2</a>
+                            <a href="TBA" id="none">3</a>
+                            <a href="TBA" id="none">4</a>
+                            <a href="TBA" id="none">5</a>
+                            <a href="TBA" id="none">6</a>
+                            <a href="TBA" id="none">7</a>
                         </li>
                         <li>
-                            <a href="muddy_road" id="none">Muddy Road</a>
+                            <span>TBA</span>
+                            <a href="TBA" id="none">1</a>
+                            <a href="TBA" id="none">2</a>
+                            <a href="TBA" id="none">3</a>
+                            <a href="TBA" id="none">4</a>
+                            <a href="TBA" id="none">5</a>
+                            <a href="TBA" id="none">6</a>
+                            <a href="TBA" id="none">7</a>
+                            <a href="TBA" id="none">8</a>
+                            <a href="TBA" id="none">9</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="TBA" id="none">Epilogue</a>
                         </li>
                     </ul>
-                </div>
-              <!--  <div class="mini-talks">
+                </div>  
+                <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -511,7 +497,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -520,7 +506,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -528,7 +514,16 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                             </div>
                         </div>
                     </div>
-                </div>-->
+                    <div class="mini-talk">
+                        <div class="mt-header">Kanata Shinkai</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>            
             </div>
         </div>
     </div>

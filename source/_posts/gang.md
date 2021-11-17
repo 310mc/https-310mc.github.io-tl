@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Gang"
-date: 2021-11-16 23:00:00
+title: "[ES!] Gang"
+date: 2021-11-17 15:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Yuzuru]
@@ -20,7 +20,7 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
             <div class="title-area">
                 <div class="title-area__title">Gang</div>
                 <div class="title-area__subtitle">ギャング</div>
-                <div class="title-area__start"><a href="/gang#Chapter-1">Start Reading</a></div>
+                <div class="title-area__start"><a href="/gang#Midnight-Gangsters-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -107,7 +107,7 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
             <div class="title-area">
                 <div class="title-area__title">Gang</div>
                 <div class="title-area__subtitle">ギャング</div>
-                <div class="title-area__start"><a href="/gang#Chapter-1">Start Reading</a></div>
+                <div class="title-area__start"><a href="#Midnight-Gangsters-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -182,7 +182,7 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
                         </div>
                         <div class="tab-item">
                             <div class="label">
-                                Event Duration
+                                Scout Duration
                             </div>
                             <div class="value">
                                 2018/4/14 (15:00 JST) - 2018/4/30 (15:00 JST)
@@ -374,15 +374,15 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
                     <ul>
                         <li>
                             <span>Midnight Gangsters</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
+                            <a href="#Midnight-Gangsters-1" id="none">1</a>
+                            <a href="#Midnight-Gangsters-2" id="none">2</a>
+                            <a href="#Midnight-Gangsters-3" id="none">3</a>
+                            <a href="#Midnight-Gangsters-4" id="none">4</a>
+                            <a href="#Midnight-Gangsters-5" id="none">5</a>
+                            <a href="#Midnight-Gangsters-6" id="none">6</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="#Epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -390,6 +390,11 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
         </div>
     </div>
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+
+## Chapter Index
+<a href="#Midnight-Gangsters-1">Ch 1</a> - <a href="#Midnight-Gangsters-2">Ch 2</a> - <a href="#Midnight-Gangsters-3">Ch 3</a> - <a href="#Midnight-Gangsters-4">Ch 4</a> - <a href="#Midnight-Gangsters-5">Ch 5</a> - <a href="#Midnight-Gangsters-6">Ch 6</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Midnight Gangsters 1
 {% note cw %}
@@ -400,7 +405,7 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
 **Location:** Hallway, Second Floor
 {% endnote %}
 
-{% img Gang - Chapter 1.png %}
+{% img /img/es/scoutstory/gang/1.jpg %}
 
 {% bubble Yuzuru %}
 <th>(Hah… It’s gotten so late already. It’s completely pitch-black outside, as well.</th>
@@ -562,12 +567,6 @@ In this peaceful country, everyone seems to have forgotten; dangerous people do 
 
 ## Midnight Gangsters 2
 
-{% img Gang - Chapter 2.png %}
-
-{% note location %}
-**Location:** Hallway, Second Floor
-{% endnote %}
-
 {% bubble Mika %}
 Huh. I was wonderin’ why you were at school in the middle of th’ night, but it’s 'cause that “Young Master” kid forgot somethin’ here?
 {% endbubble %}
@@ -674,7 +673,7 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 <th>Well, it is said that when beasts are on the hunt, they possess expressions like that of smiles. That must be what this is.)</th>
 {% endbubble %}
 
-{% img (A Distant Day's Pain) Yuzuru Fushimi CG.png %}
+{% img /img/es/scoutstory/gang/yuzuruorigcg.jpg %}
 
 {% bubble Yuzuru %}
 <th>(Ah, how nostalgic, this feeling… My senses are heightened, and my thoughts have dissipated. I truly am a beast on the hunt for its spoils.</th>
@@ -686,7 +685,11 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 **Location:** Private Military Company Practice Grounds
 {% endnote %}
 
-{% img Gang - Chapter 2 Scene Change.png %}
+{% img /img/es/scoutstory/gang/2.jpg %}
+
+{% note narration %}
+**Time:** Yuzuru Fushimi’s Childhood, in the fields of a private military company
+{% endnote %}
 
 {% bubble Yuzuru %}
 <th>(…</th>
@@ -697,6 +700,8 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 
 <th>It’s not like I’m thinking about going back there, though. A guy like me fits in with this place much more, I think.)[^2]</th>
 {% endbubble %}
+
+{% img /img/es/scoutstory/gang/2_1.jpg %}
 
 {% bubble Ibara %}
 397! 398! 399! 400…!
@@ -758,21 +763,25 @@ Ughh~ You monster! You drill sergeant! You son of a b*tch![^5]
 
 ## Midnight Gangsters 3
 
-{% img Gang - Chapter 3.png %}
-
 {% note location %}
 **Location:** Rooftop
 {% endnote %}
 
-{% bubble Chiaki %}
+{% img /img/es/scoutstory/gang/3.jpg %}
+
+{% note narration %}
+**Time:** One Year Ago
+{% endnote %}
+
+{% bubble ChiakiPast serious %}
 You absolute idiot!
 {% endbubble %}
 
-{% bubble Kuro %}
+{% bubble KuroPast %}
 …Well, that’s one way to say hello. Why’re you so out of breath, Morisawa?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble ChiakiPast serious %}
 Are you seriously asking me that? I’ll be angry if you’re actually being serious, Kiryuu!
 
 …I know I shouldn’t be harsh on you like this, but I just don’t understand. Why did you do that?
@@ -782,11 +791,11 @@ Without my knowledge, you threatened my seniors from Ryuseitai for always being 
 I got worried when they stopped coming to school all of a sudden, so I went over to visit them, and that’s when I heard about what happened. They were practically shaking in fear. I felt really bad for them.
 {% endbubble %}
 
-{% bubble Kuro %}
+{% bubble KuroPast %}
 Haha, they bullied you, didn’t they? There’s no reason for you to worry about guys like that.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble ChiakiPast serious %}
 But they’re still my comrades, technically… It *is* true that they were awful to me, though…
 
 But at this rate, they may never come back to school.
@@ -796,11 +805,11 @@ If I could just keep the unit running together with those seniors, things would 
 I truly believed in that possibility… But now you ruined it.
 {% endbubble %}
 
-{% bubble Kuro %}
+{% bubble KuroPast %}
 Is that why you’re so angry at me?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble ChiakiPast serious %}
 What I’m angry about, is that you're not taking care of yourself.
 
 This issue was settled before things got worse, but… We’re idols. It doesn’t matter if what you did wasn't violent; if you let even a single rumor like that spread, then your future’s done for.
@@ -812,13 +821,13 @@ That’s why I’m angry. You need to take much better care of yourself…
 You’re a good guy, after all. I refuse the idea that you won’t get rewarded for being one. I’d despair if that happened.
 {% endbubble %}
 
-{% bubble Kuro %}
+{% bubble KuroPast %}
 …My bad. Guess I've just been too stressed out lately, and I ended up taking it out on them.
 
 I’ll be more careful next time, so just let this whole thing go.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble ChiakiPast worried %}
 A-Alright… Sorry, I made it sound like I’m blaming you.
 
 I’m happy that you did something for my sake. So thank you.
@@ -834,7 +843,11 @@ I promise you that. So please, don’t do anything dangerous anymore.
 **Location:** AV Room
 {% endnote %}
 
-{% img Gang - Chapter 3 Scene Change.png %}
+{% img /img/es/scoutstory/gang/4.jpg %}
+
+{% note narration %}
+**Time:** Present Time
+{% endnote %}
 
 {% bubble Kuro %}
 Yo, Morisawa… Why doesn’t Ultraman just transform so he can fight already?
@@ -939,12 +952,6 @@ Whaa…? How many episodes are left? Aren’t we still at the prologue…?
 {% endbubble %}
 
 ## Midnight Gangsters 4
-
-{% img Gang - Chapter 4.png %}
-
-{% note location %}
-**Location:** AV Room
-{% endnote %}
 
 {% bubble Kuro %}
 <th>(Ahh man, what now… he’s not budging one bit… He really doesn’t look like he’ll be going home anytime soon.</th>
@@ -1102,14 +1109,18 @@ Ahh, man… Everything was supposed to have become peaceful in this school… So
 
 ## Midnight Gangsters 5
 
-{% img Gang - Chapter 5.png %}
-
 {% note location %}
 **Location:** Private Military Company Practice Grounds
 {% endnote %}
 
+{% img /img/es/scoutstory/gang/5.jpg %}
+
+{% note narration %}
+**Time:** Back to Yuzuru Fushimi's childhood.
+{% endnote %}
+
 {% bubble Ibara %}
-……
+………
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -1141,6 +1152,8 @@ Hmph~… So you caught me. And here I thought today would be the day I ended you
 {% bubble Yuzuru %}
 Why are you being so prickly?[^7] It is as if we were fated to meet here, so let’s do our best to get along.[^8]
 {% endbubble %}
+
+{% img /img/es/scoutstory/gang/5_1.jpg %}
 
 {% bubble Ibara %}
 …Even if we become friends, aren’t you just gonna go home soon?
@@ -1272,10 +1285,14 @@ In my case, those feelings have yet to spring forth within me. It sounds almost 
 
 ## Midnight Gangsters 6
 
-{% img Gang - Chapter 6.png %}
-
 {% note location %}
 **Location:** Hallway, Second Floor
+{% endnote %}
+
+{% img /img/es/scoutstory/gang/6.jpg %}
+
+{% note narration %}
+**Time:** Present Time
 {% endnote %}
 
 {% bubble Yuzuru %}
@@ -1393,7 +1410,7 @@ Just a moment. I’ll give you my—
 {% endbubble %}
 
 {% bubble Kuro %}
-I don’t know who’s over there, but you’ve finally given me an opening.
+I dunno who’s over there, but you’ve finally given me an opening.
 
 I’ve been waiting for this. In battle, patience leads to victory…!
 {% endbubble %}
@@ -1414,10 +1431,10 @@ Nnah, wha? Wh-wh-what’s goin’ on?
 Prepare yourself…! I have no prior resentment towards you, but you shall die for the sake of a safe future for my Young Master!
 {% endbubble %}
 
-{% img (Rough Nature) Kuro Kiryu CG.png %}
+{% img /img/es/scoutstory/gang/kuroorigcg.jpg %}
 
 {% bubble Kuro %}
-Huh? W-, wait, wait, wait! Stop! Did you just say, “Young Master”?
+Huh? Wh-, wait, wait, wait! Stop! Did you just say, “Young Master”?
 
 You… Are you actually Fushimi, from *fine*?
 {% endbubble %}
@@ -1427,7 +1444,7 @@ Oh? Are you not *Akatsuki*’s Kiryu-sama…?
 {% endbubble %}
 
 {% bubble Kuro %}
-….
+………
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -1438,11 +1455,11 @@ It seems as if we may have wasted quite a bit of time doing something incredibly
 
 ## Epilogue
 
-{% img Gang - Chapter 7.png %}
-
 {% note location %}
 **Location:** Front Gate
 {% endnote %}
+
+{% img /img/es/scoutstory/gang/7.jpg %}
 
 {% bubble Chiaki %}
 Fuhahahaha! All’s well that ends well!
@@ -1535,7 +1552,7 @@ You’re a proper hero, alright? Even if you don’t ever punch bad guys.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-…
+………
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1566,14 +1583,14 @@ No… Something seems a little off.
 It seems the car is here to pick us up. Let us head home, everyone.
 {% endbubble %}
 
-{% bubble Heading %}
-Scene Change: Hallway
-{% endbubble %}
+{% note location %}
+**Location:** Hallway
+{% endnote %}
 
-{% img Gang - Chapter 7 Scene Change.png %}
+{% img /img/es/scoutstory/gang/8.jpg %}
 
 {% bubble Ibara %}
-♪\~ ♪\~ ♪
+♪\~♪\~♪
 
 Alright everyone, attention! From here on out, under the pretense of searching for the terrorist lurking inside the academy, we’re going to thoroughly investigate every nook and cranny! Salute~☆
 
