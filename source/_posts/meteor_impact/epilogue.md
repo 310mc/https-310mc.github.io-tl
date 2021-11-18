@@ -13,18 +13,51 @@ tags:
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 ---
 
-## Story Details
-**Series:** [Ensemble Stars](/categories/Enstars)
-**Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Midori](/categories/Enstars/Midori), [Tetora](/categories/Enstars/Tetora), [Shinobu](/categories/Enstars/Shinobu)
-**Era:** [ES!](/aboutes)
-**Season:** Winter (End of Year)
-**TL:** [310mc](https://310mc.github.io/)
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Characters
+                </div>
+                <div class="value">
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Season
+                </div>
+                <div class="value">
+                    Winter (End of Year)
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Proofreading
+                </div>
+                <div class="value">
+                    <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival">SayonaraRevival</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
+<link rel="stylesheet" href="">
 
 ## Chapter 1
 
@@ -285,7 +318,7 @@ Yep, leave it to me… I’m good at arranging things and packing them up…♪
 
 {% endbubble %}
 {% bubble Tetora %}
-Ossu! I’m not good with that kind of stuff, but I’m great at anything that requires hard labor! It’ll make for some muscle training, too ♪
+Ossu! I’m not good with that kinda stuff, but I’m great at anything that needs hard labor! It’ll make for some muscle training, too ♪
 
 {% img /img/es/eventstory/meteorimpact/epilogue2_2.jpg %}
 

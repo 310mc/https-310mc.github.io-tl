@@ -39,7 +39,7 @@ Motor Show|Comet Show|Submarine
 |Colorful Autumn (Coming Soon!)|Biblio|Zodiac|
 | :-----------: | :-----------: | :-----------: |
 [![/colorful_autumn](/img/banner/colorfulautumn.png)](/colorful_autumn)|[![https://euni2319.dreamwidth.org/2418.html](/img/banner/biblio.png)](https://euni2319.dreamwidth.org/2418.html)|[![/senpai_turned_into_a_dog](/img/banner/zodiac.png)](/senpai_turned_into_a_dog)
-**Beasts (Coming Soon!)**|**Gang**|**Comic World**
+**Beasts (In Progress!)**|**Gang**|**Comic World**
 [![/beasts](/img/banner/beasts.png)](/beasts)|[![/gang](/img/banner/gang.png)](/gang)|[![https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/](/img/banner/comicworld.png)](https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/)
 **Buddy**|
 [![https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/](/img/banner/buddy.png)](https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/)|

@@ -496,7 +496,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             </div>
                         </div>
                     </div>
-                    <div class="mini-talk">
+                    <!--<div class="mini-talk">
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
@@ -522,7 +522,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                             <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>

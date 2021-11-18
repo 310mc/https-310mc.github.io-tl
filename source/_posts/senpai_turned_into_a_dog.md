@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Zodiac – Senpai Turned Into A Dog!?"
-date: 2021-11-16 19:00:00
+date: 2017-12-30 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

@@ -12,16 +12,51 @@ tags:
 - Akira
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 ---
-## Story Details
-**Series:** [Ensemble Stars](/categories/Enstars)
-**Writer:** [Akira](/tags/Akira)
-**Characters:** [Chiaki](/categories/Enstars/Chiaki), [Kanata](/categories/Enstars/Kanata), [Kuro](/categories/Enstars/Kuro), [Keito](/categories/Enstars/Keito), [Madara](/categories/Enstars/Madara)
-**Era:** [ES!](/aboutes)
-**Season:** Two Years Ago, Summer
-**TL:** [310mc](https://310mc.github.io/), with a co-translator [emu](https://twitter.com/sunsunrainys)
-**ENG Proof:** See end of chapter
+
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Characters
+                </div>
+                <div class="value">
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                <a href="/categories/Enstars/Keito" character="Keito"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Season
+                </div>
+                <div class="value">
+                    Two Years Ago, Summer
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>, with a co-translator <a href="https://twitter.com/sunsunrainys">emu</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Proofreading
+                </div>
+                <div class="value">
+                    See end of chapter
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-bubble/src/css/enst.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
