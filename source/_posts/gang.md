@@ -238,8 +238,6 @@ description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, an
     </div>
 </div>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
-
 ## Chapter Index
 <a href="#Midnight-Gangsters-1">Ch 1</a> - <a href="#Midnight-Gangsters-2">Ch 2</a> - <a href="#Midnight-Gangsters-3">Ch 3</a> - <a href="#Midnight-Gangsters-4">Ch 4</a> - <a href="#Midnight-Gangsters-5">Ch 5</a> - <a href="#Midnight-Gangsters-6">Ch 6</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
 
@@ -463,7 +461,7 @@ But y’have that sorta feel t’you, Yukkun… y’have a real kind way about y
 {% endbubble %}
 
 {% bubble Yuzuru %}
-….
+……
 {% endbubble %}
 
 {% bubble Mika %}
@@ -538,7 +536,7 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 **Time:** Yuzuru Fushimi’s Childhood, in the fields of a private military company
 {% endnote %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 <th>(…</th>
 
 <th>Ah… This place is soaked with the scent of gunpowder.</th>
@@ -550,13 +548,13 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 
 {% img /img/es/scoutstory/gang/2_1.jpg %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 397! 398! 399! 400…!
 
 Instructor, sir! I’ve completed my four hundred squats, no problem… ☆[^3]
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Ibara. Several times during the two-hundreds, you were slacking off on your yells and movements to make it seem like you were doing them, right?
 
 This is training for a reason. Instead of pretending to do it right, follow the rules and do it the proper amount of times.
@@ -564,25 +562,25 @@ This is training for a reason. Instead of pretending to do it right, follow the 
 Since you were trying to trick me, do one hundred more squats as punishment.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Wha? Tch… You were spacing out so I thought I could get away with it!
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 I always must keep an eye on you. Honestly, to think I have to put up with such a problem child like you.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 That’s what I should be saying to you. Shouldn’t you be going back to your *mansion* already, Your Highness?[^4]
 
 *We* are risking our lives every day. You’re such an eyesore, playing around without a care in the world, Mr. Make-Believe Soldier!
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 It’s not like I can do anything about it; I’m here at my parents’ will. The Himemiya family is just starting out in the world, so they have a lot of enemies. I’m training so I can protect their heir in case an emergency happens.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Ahaha! Imagine, parents who would throw their beloved child into a military company!
 
 If you call that familial love, then this world is really sick. Ah, I’m glad I don’t have either of my parents…☆
@@ -590,21 +588,21 @@ If you call that familial love, then this world is really sick. Ah, I’m glad I
 I don’t take orders from anyone, and I can grab hold of whatever I want in my own hands!
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Well, if you want that to be true, then you shouldn’t be slacking off right now. Relying on mutual support is a comfortable way of life, but living on your own requires you to get stronger first.
 
 And now you’re trying to trick me again, by distracting me with talking and skipping numbers. You’re doing fifty more after this.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Whaaat? Hey, aren’t we gonna be here forever at this rate!?
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Enough with all the worrying, it’ll be over as soon as you get going. C’mon, you can do it…♪
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Ughh~ You monster! You drill sergeant! You son of a b*tch![^5]
 {% endbubble %}
 
@@ -620,15 +618,15 @@ Ughh~ You monster! You drill sergeant! You son of a b*tch![^5]
 **Time:** One Year Ago
 {% endnote %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 You absolute idiot!
 {% endbubble %}
 
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 …Well, that’s one way to say hello. Why’re you so out of breath, Morisawa?
 {% endbubble %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 Are you seriously asking me that? I’ll be angry if you’re actually being serious, Kiryuu!
 
 …I know I shouldn’t be harsh on you like this, but I just don’t understand. Why did you do that?
@@ -638,11 +636,11 @@ Without my knowledge, you threatened my seniors from Ryuseitai for always being 
 I got worried when they stopped coming to school all of a sudden, so I went over to visit them, and that’s when I heard about what happened. They were practically shaking in fear. I felt really bad for them.
 {% endbubble %}
 
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 Haha, they bullied you, didn’t they? There’s no reason for you to worry about guys like that.
 {% endbubble %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 But they’re still my comrades, technically… It *is* true that they were awful to me, though…
 
 But at this rate, they may never come back to school.
@@ -652,11 +650,11 @@ If I could just keep the unit running together with those seniors, things would 
 I truly believed in that possibility… But now you ruined it.
 {% endbubble %}
 
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 Is that why you’re so angry at me?
 {% endbubble %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 What I’m angry about, is that you're not taking care of yourself.
 
 This issue was settled before things got worse, but… We’re idols. It doesn’t matter if what you did wasn't violent; if you let even a single rumor like that spread, then your future’s done for.
@@ -668,13 +666,13 @@ That’s why I’m angry. You need to take much better care of yourself…
 You’re a good guy, after all. I refuse the idea that you won’t get rewarded for being one. I’d despair if that happened.
 {% endbubble %}
 
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 …My bad. Guess I've just been too stressed out lately, and I ended up taking it out on them.
 
 I’ll be more careful next time, so just let this whole thing go.
 {% endbubble %}
 
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 A-Alright… Sorry, I made it sound like I’m blaming you.
 
 I’m happy that you did something for my sake. So thank you.
@@ -966,11 +964,11 @@ Ahh, man… Everything was supposed to have become peaceful in this school… So
 **Time:** Back to Yuzuru Fushimi's childhood.
 {% endnote %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 ………
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Ibara~, are you alive? Let’s take a break from morning training, and have lunch.
 
 Look, I borrowed the kitchen today, and I made some food.
@@ -980,11 +978,11 @@ There were enough ingredients to put something together, but there wasn’t enou
 You eat nothing but rations, so to make sure you still have taste buds, you should eat something delicious sometimes and get back your energy.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 You acting like that is making me remember that you’re supposed to be a butler when you grow up~. Honestly, I think that being a soldier or a hitman is more your calling.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 What do you mean, ‘when I grow up’? I’ve been a butler since the moment I was born. That’s not going to change, whether I wanted to be a butler or not, you know…
 
 …Anyway, could you get rid of the piece of glass you’re hiding by your chest?
@@ -992,45 +990,45 @@ What do you mean, ‘when I grow up’? I’ve been a butler since the moment I 
 I’m not going to give you any openings.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Hmph~… So you caught me. And here I thought today would be the day I ended your life.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Why are you being so prickly?[^7] It is as if we were fated to meet here, so let’s do our best to get along.[^8]
 {% endbubble %}
 
 {% img /img/es/scoutstory/gang/5_1.jpg %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 …Even if we become friends, aren’t you just gonna go home soon?
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Well, eventually, yeah. But until my parents say I’ve completed my training, I think I’m going to be staying here forever.
 
 This could go on for years… my family is very strict.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 Haha, no wonder you’re a sadist; you got it from your parents!
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Who are you calling a sadist?
 
 Speaking of which, Ibara, do you seriously not know what your parents were like at all?
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 You sure don't hesitate in asking the tough questions… I dunno~, I don’t really care.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Is that right… well, if you’re interested, it’s possible that I can ask the Master of the Himemiya family to investigate, you know.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 It’s none of your business. My parents threw me away, like I was some used-up roll of tape. Even if we were reunited, we’d all just be unhappy.
 
 This isn’t some sappy reality TV show. If I met up with them, I’d pretend to cling to them with tears running down my face, only to strangle them to death.
@@ -1042,7 +1040,7 @@ Don’t you feel that way, too? They’re parents who abandoned their young chil
 Can you even call them your family?
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 …I have thought that, before. But, I also understand that this is a necessary thing for me to do.
 
 The Himemiya family that I serve is a *nouveau-riche*, so they’ve been facing jealous people with grudges from every direction.
@@ -1054,37 +1052,37 @@ So that the next heir to the Himemiya family, the Young Master, does not get abd
 I plan on serving him, at his side forever, and so I need this sort of military training.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 “Let him who desires peace prepare for war.”—you’re one of *those* types, huh?[^9]
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Who even said that?
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 It was just in a holy scripture that I managed to pick up in my spare time. When I actually sat down and read it, though, it seemed like there was some pretty great stuff written in it.
 
 Anyways. That being that, in order to be the perfect butler, you’re here to pick up some skills, huh.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Yeah. For that reason, I’ve been training here at this military camp.
 
 I think that memorizing housework and courtesy is more fun, but I’ve found that this sort of thing is fun, too, now that I’ve gotten used to it.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 It’s not normal to find this fun~. Even the adults who come here for training end up giving up.
 
 Aah, that pisses me off. You must be a talented person, huh… I guess “God never gives two gifts” is a lie, then.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Ibara, if you keep at it, you’ll improve too. You have good muscles, after all.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 I don’t wanna work hard. If anyone appears to have strength, they’ll be let out onto the actual battlefield, and I don’t want that.
 
 I don’t wanna die yet~. Not without having anything that I was glad to be born for.
@@ -1096,13 +1094,13 @@ If I head to my grave, without bringing with me something like that, there will 
 Don’t you think that’s incredibly hollow, Instructor, sir?
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 Please don’t call me that…
 
 I’m something like a guest here, more or less. I may be treated like a superior, with too much respect, because of that—but the truth is, you’ve been here for longer than I have.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 I started training after you, though~.
 
 Up until then, I was staying in an orphanage-like place, that takes care of kids who have nowhere else to go. Once you’re old enough to graduate from there, you get thrown straight into this place.
@@ -1114,15 +1112,15 @@ No one takes out their wallet for charity cases. Ahh, it makes me sick… I bet 
 Money, money, money… Those who have money are celebrated, and everyone else is just trash.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 How ill-natured, you are… If you came into money somehow, you would just be resented, just as my Master is.
 {% endbubble %}
 
-{% bubble Ibara %}
+{% bubble Ibara young %}
 What luxurious problems that guy must have. Love doesn’t fill your stomach, you know, Your Highness?
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru young %}
 But it *does* satisfy your heart. I think. I can’t just believe in lip service like that, though…
 
 But that’s what my grandparents and parents, who have served the Himemiyas across generations, have said.

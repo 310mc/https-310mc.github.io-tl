@@ -77,7 +77,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Time:** One year ago — Beginning of summer<br>During breaktime
 {% endnote %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 <th>(Urmmm…)</th>
 
 <th>(Nope, no good. No matter how much I stare at this billboard, nothing new will suddenly appear. The number of jobs to choose from has clearly decreased.)</th>
@@ -121,7 +121,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 <th>(I do want to stop this, but nothing I say has any influence. I feel like they start to treat me even worse, instead.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch1_1.jpg %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 <th>(But I can’t complain at all… Last year, when everyone got serious for a while… apparently, that was because of my “wish”.)</th>
 
 <th>(Apparently, to grant my wish, Shinkai-kun got Mikejima-san involved, since he was already in Ryuseitai… and that’s how the unit turned out the way it did last year.)</th>
@@ -157,7 +157,7 @@ Heey~
 Sorry, but you’re in my way, so~ Move, Morisenpai.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Woah—! Oh, Akehoshi-kun! Hello! I’ve told you this so many times by now, but it’s not “Mori”, I’m *Morisawa*!
 
 {% endbubble %}
@@ -165,7 +165,7 @@ Woah—! Oh, Akehoshi-kun! Hello! I’ve told you this so many times by now, but
 Oh, right. Sorry, sorry, I just call anyone I’m not interested in whatever comes to mind.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 No interest!? That’s mean!
 
 Ah, but Senpai thinks your honesty is a good thing! Let me praise you, come on over, c’mon, c’mon… ♪
@@ -175,7 +175,7 @@ Ah, but Senpai thinks your honesty is a good thing! Let me praise you, come on o
 Don’t call me over like a dog. You really are a weirdo, Morisenpai…
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Like I said, I’m Morisaw—oh well… Anyway, is there something I can do for you?
 
 Do you get anxious if you don’t see me at least once a day? Ooh, you little~♪
@@ -185,7 +185,7 @@ Do you get anxious if you don’t see me at least once a day? Ooh, you little~�
 Nope, not one bit. I’m just here to check if there’s any job offers. Are you doing the same thing, Senpai?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yup! But as you can see, the number of them is decreasing.
 
 {% endbubble %}
@@ -195,7 +195,7 @@ Oh, is that so… Ahh, that puts me in a bind~ I mean, all I’ve been doing is 
 But since the in-school jobs are based on that “DreamFes” thing, I can’t get any of them as a solo idol anymore.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hm. So you aren’t part of a unit? Then how about Ryuseitai? You’re always welcome with open arms!
 
 {% endbubble %}
@@ -209,7 +209,7 @@ I don’t see the point in teaming up with people if it’s going to be that way
 If I don’t start making money, my mom’ll have to work harder than she can handle.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I see… That must be rough. If you’re alright with doing stunt work, I could introduce you to the place I work at; how about it?
 
 {% endbubble %}
@@ -221,7 +221,7 @@ I mean, I won’t have any other choice if my situation gets bad enough, but~ I 
 So don’t worry about it. ‘Kay, I’ll see ya later~ Just spotted a nice job, so I’m gonna head over there and check it out.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ooh, you’ve got keen eyesight! You could become a great basketball player! Come visit the basketball club sometime, Akehoshi-kun.
 
 {% endbubble %}
@@ -229,7 +229,7 @@ Ooh, you’ve got keen eyesight! You could become a great basketball player! Com
 Yeah, if I feel like it~ Bye bye now, *Morisawasenpai!*
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(Oh! He called me by my name. The way he said it sounded weird, though…)</th>
 
 <th>(He’s usually cold and distant, like a wild animal… But he still listens to what I say.)</th>
@@ -250,7 +250,7 @@ Yeah, if I feel like it~ Bye bye now, *Morisawasenpai!*
 **Time:** Same day, after classes
 {% endnote %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Bam! Take this! Finishing move: Super Chiaki Shoot…!! ☆
 
 *Heh*… One point for me! Justice always prevails!
@@ -259,7 +259,7 @@ Bam! Take this! Finishing move: Super Chiaki Shoot…!! ☆
 … Huh, you talk to yourself a lot, *Morisawasenpai.*
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Eeek!? D-d-d-don’t scare me like that, Akehoshi-kun! When did you get here!? It’s rude to sneak up behind people! I thought I was going to die!
 
 {% endbubble %}
@@ -269,7 +269,7 @@ Hm\~? Dying from shock? Are you a little animal or somethin’~?
 Hehe, it’s all good, though. It’s cute.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hrmph! How could you say “cute” to your *senior*!? You’re so cheeky! But I guess you’re complimenting me, so in a sense, thank you!
 
 Anyway… What’s wrong? Are you going to join club activities today? Didn’t you say you found a job earlier today, though…?
@@ -281,7 +281,7 @@ Whaa~ You’re the one who told me to show up sometimes.
 … I rejected the job offer after learning the details.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 R-Really? Why is that? Did they say something bad to you!? You poor thing! Let me make you feel better!
 
 {% endbubble %}
@@ -293,7 +293,7 @@ I wasn’t *just* gonna be said person’s substitute, they wanted me to work in
 Well, technically I *can* do that, since the person in question is a pretty famous idol, and I more or less get how his character works, but…
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hm. I’m only asking out of curiosity, but who may you be referring to?
 
 You don’t have to tell me if it’s confidential, but — I feel like I’ve heard something like this before, so I’m sort of curious.
@@ -307,7 +307,7 @@ Hrmm, they did tell me to keep it secret, but… I didn’t sign a contract or a
 Or maybe not, since it may affect his reputation… I’m gonna keep it to myself.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Alright then. You respect people’s reputation, huh? I’m proud of you for being so considerate~♪
 
 {% endbubble %}
@@ -319,7 +319,7 @@ Anyways. Now that I’ve got free time, I figured I could come over to the club 
 I didn’t bring my P.E. uniform, though. If you have a spare with you, could you let me borrow it?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oh! I’ve got something great for that! I was just planning to change myself! You see, we have uniforms for practicing!
 
 Which number would you like? You can choose any of them! Ah—but I’m not handing over number four, okay!?[^2]
@@ -329,7 +329,7 @@ Which number would you like? You can choose any of them! Ah—but I’m not hand
 I don’t mind anything~ … So there were practice uniforms? Is that normal for a basketball club? I’m a beginner, so I dunno much.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 No, it’s pretty rare. Usually you only wear a uniform during a match.
 
 But since this is a basketball club in an idol school, there was once a time when a magazine company wanted to take candid shots for an article, so…
@@ -341,7 +341,7 @@ Now we have practice uniforms—or, well, uniforms for photos.
 Ahh, I see, the photos wouldn’t be good enough in P.E. uniforms, yeah? It’s actually pretty hard to tell this is a basketball club without someone at least holding the ball.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Exactly! You’re really smart, Akehoshi-kun! You understand things so well, it’s wonderful~♪
 
 {% endbubble %}
@@ -349,7 +349,7 @@ Exactly! You’re really smart, Akehoshi-kun! You understand things so well, it�
 I feel like you praise me over just about anything… It’s super overbearing, like you’re making fun of me instead.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 That’s not my intention at all~! … I’ve never once been praised by my seniors, so I thought to make sure to pour all my love into my juniors once I had my own!
 
 {% endbubble %}
@@ -357,7 +357,7 @@ That’s not my intention at all~! … I’ve never once been praised by my seni
 Hmm~ So you’ve always been a useless one, Senpai?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I’m not useless, though!? No, actually, the “always” part is what hurts! I mean, regardless of how I may had been in the past, I’ve at least grown splendidly now!
 
 C’mon, c’mon~! Look at my wonderfully built abs…☆
@@ -367,7 +367,7 @@ C’mon, c’mon~! Look at my wonderfully built abs…☆
 Huh!? Why’re you stripping!? I’ll call the police!
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Please don’t! I said I’d change my clothes, didn’t I!?
 
 You went too far with that joke; Senpai would love a kid who’s much more honest and attached to them, y’know!?
@@ -384,7 +384,7 @@ I don’t wanna be loved by you, anyway\~ … But alright, maybe I was a little 
 {% note narration %}
 **Time:** Few hours later
 {% endnote %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Aaalright! Time to head home, Akehoshi-kun!
 
 Let’s check if it’s safe! Right’s all clear! Left’s all clear! All is clear! Here we gooo~! ☆
@@ -394,7 +394,7 @@ Let’s check if it’s safe! Right’s all clear! Left’s all clear! All is cl
 Umm~… You don’t have to walk me back home, y’know. I told you before — My house isn’t that far away.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 No! Let me walk you back home, please! I’ve yearned to do something like this as a senior…! Thank you, Akehoshi-kun! You always make my dreams come true~♪
 
 {% endbubble %}
@@ -404,7 +404,7 @@ No! Let me walk you back home, please! I’ve yearned to do something like this 
 Don’t start shortening the distance between us for no reason~ It’s *way* too friendly, like you think you’re above me or something — It annoys me!
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh? I’m sorry! I thought talking to you that way made me seem cold, like we don’t know each other…!
 
 {% endbubble %}
@@ -412,7 +412,7 @@ Huh? I’m sorry! I thought talking to you that way made me seem cold, like we d
 We *don’t*. But whatever~ Do as you like.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Mhm, I will\~! It’s dangerous to walk at night, so we’ll go home together\~! C’mon, c’mon! Let’s walk while holding hands~♪
 
 {% endbubble %}
@@ -428,7 +428,7 @@ About me—no, about my dad[^4], you—…
 No, nevermind.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hm? What’s wrong? If there’s anything you want to say, go ahead and say it!
 
 I’m still new to being a senior to someone, so I’m sure I’m far from perfect as one! I’ll fix anything you point out to me!
@@ -438,7 +438,7 @@ I’m still new to being a senior to someone, so I’m sure I’m far from perfe
 Mm~ Shouldn’t you say that to the juniors in your unit, instead?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ah, no… No first years joined our unit this year.
 
 Ryuseitai has a long history, and thanks to its old-fashioned camaraderie, the unit became a bit reclusive.
@@ -452,7 +452,7 @@ The new captain is the type to be satisfied by just having fun with like-minded 
 Woah! What kinda hell is that…!? It doesn’t suit you at all! Why’re you sticking around in a place like that? There’s no way you agree with that, right?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yeah… Honestly, I’ve often considered transferring to a different unit, or maybe just leaving units altogether and working solo, but… I can’t get myself to entirely give up on the whole unit…
 
 Ryuseitai is my exact ideal image, since originally its concept was to be both idols and heroes.
@@ -480,7 +480,7 @@ Hmmm. I feel like you’re avoiding the real problem here, or like, you’re try
 I mean, all I hear about Ryuseitai is bad news. If things don’t go well, the school’s staff might have their eyes on you, or the unit’ll be demolished by next year, or something.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Don’t say such terrifying things… It’ll be just fine. No—I’ll make sure that doesn’t happen. I promise you: I *will* protect Ryuseitai.
 
 {% endbubble %}
@@ -492,7 +492,7 @@ I don’t think there’s much point to promising *me* that, but… Well, do as 
 Invite me then, okay? I might agree to join if anything like that were to happen.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oh!? Got it! That’s our promise to each other! Believe in me, Akehoshi-kun! A hero never breaks his promise with a kid!
 
 {% endbubble %}
@@ -506,7 +506,7 @@ Also, don’t tell me the “kid” is me. We’re only a year apart, ‘kay? Go
 … Hm?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 ? What’s wrong?
 
 {% endbubble %}
@@ -514,7 +514,7 @@ Also, don’t tell me the “kid” is me. We’re only a year apart, ‘kay? Go
 Uh… Look up there, Senpai. Is it just me, or is it a little too bright up on the roof? I thought there was a fire for a second there.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hmm? You have such keen eyesight, Akehoshi-kun! And your attentiveness is incredible! You really do have what it takes to be an excellent basketball pla—Wait, what?
 
 <th>(Ooh? What are those people wearing our school uniform doing on the rooftop? Are they waving light sticks…?)</th>
@@ -526,7 +526,7 @@ Hmm? You have such keen eyesight, Akehoshi-kun! And your attentiveness is incred
 Ahh~ Is that the rumored “Yaobikuni”…? This is the first time I’ve seen them.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Y-Yaobikuni? The legendary story about eating mermaid flesh and becoming immortal?
 
 {% endbubble %}
@@ -542,7 +542,7 @@ I dunno how much of it is true, but apparently they’re a religious cult or som
 What was his name again…? Ah! Someone called “Shin kai ka na ta” is acting as the founder of the group.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh!? Shinkai-kun is the…!?
 
 {% endbubble %}
@@ -558,7 +558,7 @@ Buuut, those are the kinda rumors you hear.
 People talking about how it’s totally true that that “Shin kai ka na ta” guy will grant any of your wishes.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 ……
 
 {% endbubble %}
@@ -574,7 +574,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 **Time:** A few days later, after classes
 {% endnote %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 ……
 
 <th>(… Yeah, there’s definitely signs that a huge number of people have been conducting secret meetings here. What I witnessed a few days ago was no illusion or dream.)</th>
@@ -647,7 +647,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 {% bubble Shu %}
 ……
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 ……
 
 {% endbubble %}
@@ -655,7 +655,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 … Kanata.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 yes? what is it, shu?
 
 that was your Name, right? you have a Name, all of you! hehehe~…♪
@@ -669,7 +669,7 @@ Yes, you’re correct. However, I still don’t understand what you’re trying 
 It is painfully clear to me that you have had quite a unique lifestyle for half of your lifetime, but how does that have anything to do with me? I don’t see where this conversation is heading.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 huh? it is Painful for you? shall i cure you? curing is my Weakest point, though…?
 
 ah! i heard Mermaid flesh works for all kinds of Diseases! how about you try eating me~? ♪
@@ -679,7 +679,7 @@ ah! i heard Mermaid flesh works for all kinds of Diseases! how about you try eat
 I have no interest in cannibalism! *Non*! I feel like puking just by the thought!
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 puking…? so not only is it Painful for you, but it is making you feel Disgusted…? are you Feeling ill?
 
 {% endbubble %}
@@ -694,7 +694,7 @@ However, as you can see, I am currently sewing.
 I am not so amateur that a gaze would interfere with the quality of my work, but frankly speaking… You are being an eyesore.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 an eyesore? that is Not good, there may be a Possibility that even your Eyes are not Feeling well! you have many Diseases all over your body, don’t you, shu?
 
 {% endbubble %}
@@ -702,7 +702,7 @@ an eyesore? that is Not good, there may be a Possibility that even your Eyes are
 Are you doing this on purpose, is that it? Are you *trying* to provoke me?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 on purpose? about what? hmm… the Things shu says are difficult~
 
 {% endbubble %}
@@ -712,7 +712,7 @@ People often say that about me. However, you are different from the ordinary mas
 Surely you must, as you are of equal rank to me… as we are both part of the Five Eccentrics, the name that was pushed onto us by the masses—yes?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 yes. to be part of something together means that we are the same, right?
 
 hehehe. it makes me Happy to share something in Common…♪
@@ -730,7 +730,7 @@ Usually, it is that nagging Wataru and Rei that make idle talk, so the two of us
 But everytime you speak, you start spouting things about being a God, that you grant wishes, or what-have-you… Who do you think you are? Do you think you’re a savior of some sort—that you have been dispatched by the high heavens to rescue all living things?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hm? it is not the Heavens that i come from~ it is the Sea! also, i am not a Savior, but a God♪
 
 because i am a God, i grant Wishes! shu, what is your Wish?
@@ -742,7 +742,7 @@ because i am a God, i grant Wishes! shu, what is your Wish?
 You’ll grant my wish? *Ha*! Don’t make me laugh! That’s something one only says to those they think are below them. Are you trying to say that you are *above* me?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hm~? are Humans not generally Below me? which is why i can watch over them from Above, and Help them…?
 
 {% endbubble %}
@@ -754,7 +754,7 @@ I suppose if I *must* specify something, then I do have a longing towards muses.
 However, that description is more suitable to someone such as Nito — You, on the other hand, would be more comparable to a siren, no?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 psy…che…?[^7]
 
 {% endbubble %}
@@ -764,7 +764,7 @@ Not psyche, *siren*. It may only be folktale, but they are said to be mermaids.
 Muses and sirens may be mythical creatures related to water, but sirens are monsters—far different from my beloved muses.[^8]
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 i am… not a Monster, you know…?
 
 {% endbubble %}
@@ -772,7 +772,7 @@ i am… not a Monster, you know…?
 … Such an unbearably sad face you’re making. I cannot tell where your discomforts lie at all. Perhaps that was not the right word choice, I suppose I’ll withdraw what I said.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 okay. you are Unexpectedly kiー
 
 … hm?
@@ -782,14 +782,14 @@ okay. you are Unexpectedly kiー
 ? What’s wrong? Have those insolent, belated people who called for us finally arrived? I mean the other Eccentrics, of course.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 no, it is nothing… the sun was too bright, and… i think i may have Mistaken something for something else. i am sorry.
 
 <th>(i thought i saw chiaki, but…)</th>
 
 <th>(it must have been a mistake. i think he is Afraid of me, so…)</th>
 {% endbubble %}
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 <th>(he will probably never Talk to me ever again… i am sure you are just the same as Everyone besides the five Eccentrics—you, too, are—)</th>
 {% endbubble %}
 
@@ -797,7 +797,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 **Location:** Garden Terrace
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch5_sc.jpg %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 ……
 
 <th>(… Why did you hide, me!?)</th>
@@ -830,7 +830,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch5_2.jpg %}
 
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 <th>(……)</th>
 {% endbubble %}
 
@@ -844,7 +844,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 {% note narration %}
 **Time:** Next day, after classes
 {% endnote %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 —And that’s all I’ve got to report. What’s your next move, Bocchan?
 
 {% endbubble %}
@@ -854,7 +854,7 @@ First, stop calling me that. You switched to a different name for a while, but n
 How incorrigible. I suppose that’s meant to be a nickname, but I just feel like you’re making a fool of me instead. I don’t particularly like it.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Haha, then what should I call ya? Vice-prez? Kei-chan?
 
 {% endbubble %}
@@ -864,7 +864,7 @@ Call me whatever you like. I’m already asking a huge favor from you for this p
 Do be aware that I’m not trying to control you, but rather trying to let you make use of the Student Council as you please.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Hmmm. And what can this newborn, shabby-lookin’ Student Council even do for me, eh?
 
 {% endbubble %}
@@ -876,7 +876,7 @@ And it’s unlikely that you will misuse what is labeled as “justice,” corre
 Or rather, I’m trying to take advantage of your good, sensible mind, and restrain your movement *because* I know you won’t misuse it.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Haha. You sure you wanna tell me all about your ulterior motives?
 
 {% endbubble %}
@@ -899,7 +899,7 @@ I just need to win the game by the end. Perseverance is what prevails, and that�
 
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch6_1.jpg %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Forgive me for intruding. Hasumi-dono, could you permit me to speak?
 
 {% endbubble %}
@@ -907,13 +907,13 @@ Forgive me for intruding. Hasumi-dono, could you permit me to speak?
 …!? Ahh, you surprised me! You were here, Kanzaki!?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Yes, I have been here from the start. I believe that Kiryu-dono was aware of my presence…
 
 However, you both appeared to be speaking very earnestly about something, so I did not wish to intrude, and refrained from expressing my thoughts.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Haha, I was wonderin’ why you were ignorin’ him… So you didn’t even realize he was there, *Hasumi*?
 
 {% endbubble %}
@@ -923,7 +923,7 @@ So you’re going to call me by my family name? Fine, so be it… Anyhow, Kanzak
 We are equal in this unit. Rather, *all* human beings are meant to be equal to each other. There is no need to speak to me in a formal manner, like you’re a samurai serving your lord.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 … I see. It appears that I have actually been disrespectful through my asking for permission. I apologize. But I also cannot help it; I am not used to acting as a group.
 
 More importantly, I wish to inquire about the mysterious group that Kiryu-dono has informed us of, the “Yaobikuni”.
@@ -935,7 +935,7 @@ Ahh, are you also curious about it? It didn’t seem to be a mere superstition�
 Thus, I asked Kiryu to investigate what’s been happening, as he has connections with the delinquents in this academy.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Ah, yeah. Sometimes I ask for some stuff from shady jobs, though those jobs have also become a part-time thing within school.
 
 So yeah, I’d have more connections with those shady guys than you, the goodie-two-shoes honor student.
@@ -949,7 +949,7 @@ My history with them might end up being a weak point to target for the Student C
 No, it’s alright. That would be far too unnecessary.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Haha, alright, but if that ever happens, you can throw away the punks, includin’ me.
 
 {% endbubble %}
@@ -961,11 +961,11 @@ I’m not so happy-go-lucky that I would dream of an ideal paradise where all ev
 I—*We* need you. I’ve lived all my life in an upstanding manner, and that’s exactly why I need someone like you, who can reach those places I’m not well-acquainted with, and can’t reach on my own.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 That so? Well, being needed doesn’t feel so bad. I appreciate it, makes me wanna cry a li’l bit.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Hehe, so even demons[^9] shed tears. Though, I do admit that your discussion right now was a little too difficult for me to comprehend.
 
 {% endbubble %}
@@ -973,11 +973,11 @@ Hehe, so even demons[^9] shed tears. Though, I do admit that your discussion rig
 Don’t think about it too much, it’s only small talk. That aside—You’re interested in the Yaobikuni, Kanzaki? Don’t tell me you’re also a worshipper.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Mm, a “worshipper”? Is this “Yaobikuni” related to a religion of some sort?
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Seems like it. It ain’t an officially recognized group in school or anythin’; it sounds like it’s some kinda network that somehow just came to be.
 {% endbubble %}
 
@@ -999,7 +999,7 @@ There seems to be no need to perform a ritual, nor pay a fee to join the group.
 I’m sure there must be people who aren’t even aware that they’re part of the Yaobikuni due to this.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Hmm… It is like trying to grasp a cloud.
 
 {% endbubble %}
@@ -1021,7 +1021,7 @@ I don’t particularly like how it feels like the academy is being slowly taken 
 … Cursed cult. They’re so infuriating — Our modern society doesn’t need any religions.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Haha, you’re one to talk, Mr. “I’m the son of a temple”.
 
 {% endbubble %}
@@ -1033,7 +1033,7 @@ But, at worst, this may become a large obstruction in our path. After all, the o
 … Maybe I *should* nip the bud before it sprouts a disaster…
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 How, though? We’ve got no real authority to do that — You gonna try and change the rules to ban believin’ in religious faith in school?
 
 {% endbubble %}
@@ -1045,7 +1045,7 @@ Everyone would simply ignore them, and it would be all over for us.
 There is no point trying to provoke the worshippers without planning beforehand.
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and get this done and over with?
 
 … Nah, we can’t, can we… Nothin’s that simple.
@@ -1055,7 +1055,7 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 …?
 
 {% endbubble %}
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 <th>(The same could be said about what happened with Morisawa.)</th>
 
 <th>(Last year, I made the mistake of thinkin’ Morisawa beat up my pals, and lashed out at him. Man, I must’ve been out of my mind then.)</th>
@@ -1097,11 +1097,11 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 Sorry. I keep asking far too much of you.
 
 {% endbubble %}
-{% bubble KuroPast %}
+{% bubble Kuro past %}
 *Huh?* Don’t act like we’re strangers here. I would'a told you by now if this was too much for me, anyway. I’m helpin’ ya ‘cuz I *want* to, aight? You lookin’ down on me or somethin’?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Yes. I feel the same as Kiryu-dono — there is no need for you to be concerned. It would not be an apology, but rather an insult, Hasumi-dono.
 
 In any case, I would like to propose an idea.
@@ -1113,13 +1113,13 @@ Would you please entrust this “Yaobikuni” matter to me? I, Kanzaki Souma, sh
 … Entrust it to you?
 
 {% endbubble %}
-{% bubble KuroPast smile %}
+{% bubble Kuro pastsmile %}
 Oh? Got an idea or somethin’, Kanzaki?
 
 I don’t feel like there’s much anyone could do about this vague problem of ours, but — did you get a breakthrough to solvin’ it or somethin’?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Ah, no. I am uncertain whether I will be capable of resolving the issue or not. It is merely that I have ties to the founder of that “Yaobikuni” group.
 
 {% endbubble %}
@@ -1127,7 +1127,7 @@ Ah, no. I am uncertain whether I will be capable of resolving the issue or not. 
 Founder… *You* know Shinkai Kanata of the Five Eccentrics!?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Indeed. My interpersonal interactions with him are almost nonexistent, but as our families are connected, I do know a little about him.
 
 The things I have heard about him were a bit too different from what my parents have told me, so I have only just made the connection now.
@@ -1144,7 +1144,7 @@ I hold a different perspective than the one you two hold, and therefore I may be
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch8.jpg %}
 
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 <th>(……)</th>
 
 <th>(My worst nightmare came true. Those “Yaobikuni” people really are what I vaguely assumed them to be.)</th>
@@ -1206,7 +1206,7 @@ I hold a different perspective than the one you two hold, and therefore I may be
 Heeeey! Chiaki-saaaan!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …!? M-Mikejima-san! You always appear out of nowhere! It’s bad for my heart!
 
 {% endbubble %}
@@ -1216,7 +1216,7 @@ Hahaha! It’s not like I wanna scare people or anything, but everytime I greet 
 … Am I really that scary?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Urmm… You’re noisy and massive, so it’s not strange to feel pressured by your presence, I think. Still, what are you doing here?
 
 {% endbubble %}
@@ -1224,7 +1224,7 @@ Urmm… You’re noisy and massive, so it’s not strange to feel pressured by y
 Hahaha! Isn’t it obvious!? I’m running a yaki onigiri stall! I’m using a special secret soy sauce for it, and it’s suuuper tasty! Wanna buy one?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Why yaki onigiri…? I don’t understand, but — I’m a little hungry right now, so I’ll have one.
 
 {% endbubble %}
@@ -1234,7 +1234,7 @@ Thank you, come again! I was feeling a little lonely, y’know! I think everyone
 Yaki onigiri is so tasty, though~ I guess youngsters these days prefer hamburgers and stuff?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hehe, I also like those types of fast food. Plus, you don’t see people sell onigiri in food stalls, do you?
 
 {% endbubble %}
@@ -1246,7 +1246,7 @@ Oh well, guess no one’s familiar with that nowadays. I gotta keep up with the 
 But anyway… I didn’t have any customers up until now, so I didn’t bother making any yaki onigiri yet… You’ll have to wait some time for yours.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yeah, I’ll wait. No one is motivated to do anything in Ryuseitai when you aren’t around, so I don’t have practice nor work to do.
 
 I have time to spare, so I can wait as long as it takes.
@@ -1256,7 +1256,7 @@ I have time to spare, so I can wait as long as it takes.
 Oh? Alright then… How about we chat a little until it’s done roasting?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 …?
 
 {% endbubble %}
@@ -1266,7 +1266,7 @@ Ahh, just pretend to be my customer for now.
 We don’t know who could be watching us right now, so—Keep acting like you’re a passerby who’s just casually chatting with the storekeeper.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 A-Alright. Yaaay~ I’m sooo excited for my yaki onigiri…♪
 
 *<th>(whispering)</th>* … Were you waiting for me, Mikejima-san? Did you have something you wanted to tell me? Is that why you brought over this authentic food stall—
@@ -1291,7 +1291,7 @@ After all, it’s me who wished for you to just remain an ordinary boy, yeah?
 I’m not gonna take back those words. Actually, I wanted to further state how you shouldn’t get yourself involved with what’s going on with Kanata-san.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 ……
 
 {% endbubble %}
@@ -1301,7 +1301,7 @@ Oh, but don’t get me wrong — I’m not taking you lightly at all. In fact, I
 … You were the only one.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …?
 {% endbubble %}
 {% bubble Madara %}
@@ -1318,7 +1318,7 @@ Even people who insist they’re atheists wish on shooting stars.
 In a way, that just means there’s a part inside you that’s even stronger than I am… I’m almost jealous.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 N-No, you’re wrong. I’m not strong at all, I’m just a coward.
 
 It terrifies me to think that an unbelievable existence, like a God, could forcibly shake up everything I’ve ever known about this world, that’s all.
@@ -1348,7 +1348,7 @@ So yeah, all those people I warned could tell I was too powerless to stop them, 
 It’s pathetic of me, but I really can’t put a stop to what’s happening anymore.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 … They haven’t been pleased with you, Mikejima-san? Is that why you’re always overseas?
 
 {% endbubble %}
@@ -1368,7 +1368,7 @@ They’re probably seeing it as me trying to kill off the God that has maintaine
 Even Kanata-san told me off, y’know? He called me a traitor. An unfaithful, vulgar rogue.[^11]
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 That’s not true, though. Aren’t you the *only* person who’s been trying to protect him as a human being? You did it because he’s your friend—because you love him.
 
 {% endbubble %}
@@ -1388,7 +1388,7 @@ And maybe I just wanna tear apart that fake charade, and laugh at them and their
 That’s who I really am, Chiaki-san — a cruel, unfair guy.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch9_2.jpg %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 Even so. There’s no such thing as a clean person — everyone holds a dirty, awful part of them inside.
 
 There is *no* reason for you to be told off as if you aren’t just another human being like everyone else.
@@ -1406,7 +1406,7 @@ If you were just an ordinary kid, I was going to warn you once more to make sure
 But since you’re a strange kid, there might be something special only you can do. I don’t know what it could be right now, but there might come a day when I’ll ask you for it.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …?
 
 {% endbubble %}
@@ -1414,7 +1414,7 @@ But since you’re a strange kid, there might be something special only you can 
 Hahaha! Back to our main topic! Look, the roasted onigiri is ready, have a bite! I’m sure you’ve been waiting…☆
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 T-Thank you, they look really tasty. How much for one?
 
 {% endbubble %}
@@ -1422,7 +1422,7 @@ T-Thank you, they look really tasty. How much for one?
 Mm~ I’ll put it on your tab for now. Consider this an advance payment for the day when I ask a favor from you.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 No, that’s kind of terrifying, actually… What are you going to make me do?
 
 {% endbubble %}
@@ -1442,7 +1442,7 @@ Who knows? I’m no God, I don’t know what the future holds! Haha, if you catc
 **Time:** Around the same time
 {% endnote %}
 
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 ……
 
 <th>(ooh… my Worshippers have already Set up the Water tanks.)</th>
@@ -1488,35 +1488,35 @@ Who knows? I’m no God, I don’t know what the future holds! Haha, if you catc
 <th>(i do not understand… not understanding is also kind of “lonely”, isn’t it…)</th>
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Pardon me. Are you here, Buchou-dono?
 
 Wha—!? What on earth—The clubroom has been turned into an aquarium…?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hm…?
 
 ah, umm… i Remember you. you are the one i watched the sea turtle Video with—
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Ah, it makes sense you do not recall who I am, as we have not encountered each other since then. My name is Kanzaki Souma, I am pleased to make your acquaintance.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 i see… um, so, souma…? do you have Business with me?
 
 oh! i know! you would like me to grant you a Wish, yes…? ♪
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Nay, it is an entirely separate matter. I have come to visit you in order to confirm a certain fact.
 
 What a fool I am… I too am a member of the Marine Bio club, even if it is only on paper—
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 ahh… you were the one who signed the document to join, yes?
 
 i could not make a club without at least Three members, so back then I was trying to find people to join.
@@ -1534,7 +1534,7 @@ but it seems i was wrong~ he told me it was simply a Joke.
 so i asked him if he can Do as he likes now… and he only looked at me in annoyance. he is also a difficult one…
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Hm… You speak in a peculiar manner, so I am not quite sure what you are saying—
 
 However, even if it was only a coincidence, I feel that it is fate for me to be in the same club as you.
@@ -1542,21 +1542,21 @@ However, even if it was only a coincidence, I feel that it is fate for me to be 
 I have been acting rude this whole time, and I humbly apologize for not having realized it was you much earlier.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 umm…?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Typically, I would show my remorse by slicing my stomach open, but please accept this apology for now.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 wa-- why are you bowing on your knees…[^12] the First time i have seen this in school. i do not think people do this Anymore, you know?
 
 hehe. lift your Head young one, for it is all okay~♪
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Aha, oh how lucky I must be! I am extremely delighted to have permission to speak with you!
 {% endbubble %}
 ## Chapter 11
@@ -1565,19 +1565,19 @@ Aha, oh how lucky I must be! I am extremely delighted to have permission to spea
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch11.jpg %}
 
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 you… ahh, your name is “Kanzaki”, yes?
 
 is that *the* Kanzaki? the chieftain of this land—of this region?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Indeed. My family has been appointed that role for several centuries now—since the Sengoku period… However, we do not have as much power as we used to in the bygone days.
 
 Even so, we continued to pass on the contract that my ancestors had agreed upon. It had slipped my mind entirely as I hadn't known much back when this had occurred, but at one time in my youth I had been blessed with an opportunity for an audience with you.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 Ahh~… yes, i think they come Greet me quite often. as well as people from Other households.
 
 you do it in order to never forget the crime you committed long ago.
@@ -1587,39 +1587,39 @@ but, in those Ceremonies, i am always behind the Bamboo blinds…
 so i could not tell it was you. it is only natural that neither of us Remember one another.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Aha, I do not deserve such kind words. However, I will surely keep them in my heart for the rest of my life.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 mrmm~… people act so friendly with me within School, so it is actually much more unnatural to hear someone speak the Usual way i am spoken to.
 
 you do not need to speak to me so Formally, really. it is actually Harder to speak to you, as if i feel a Distance between us.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Nay, I must keep a line between us. Even in Shintoism, it is said that us impure humans must only come in contact with God through the strands of the tamagushi—Even with the shrine maidens.
 
 One must rip their ears to hear God, and crush their eyeballs to see.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 ahh, i have heard of it. it sounds very painful…
 
 but being kept at a distance in such a way… it truly makes me feel Lonely.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Hm? Did you say something?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 no, nothing… anyway, what did you want to Speak to me about?
 
 did you simply want to Greet me? or do you have a Wish in mind?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Nay. I cannot speak for other people, but it would be absurd of us to pray to God. It is not permissible.
 
 That is why, at the very least — I choose to aid God’s conduct, as part of the Kanzaki clan. Typically, our role is exactly as our family name stands: To conceal and shield God[^13] during a time of perplexity—
@@ -1631,11 +1631,11 @@ Thus, we have no reason to perform our duty. However, I wish to repay you for th
 I am the son of samurais. I have been taught to repay others by being of service to them.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 ……
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 O dear God; surely you must feel uncomfortable in this era, as faith is gradually being lost to the times.
 
 There are those who wish to obstruct your duties and hurt you, for they have forgotten the contract from olden times.
@@ -1645,13 +1645,13 @@ You see, recently I have been visiting the Student Council office, and they seem
 I say this on behalf of Hasumi-dono’s honor, but—in this era it is more common to find people who do not know the truth, thus it is only natural that he is confused.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hasumi… ahh, the Temple people. we have always had trouble compromising with those people.
 
 after all, people from the Temple believe in Buddha, and not God.
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Indeed. I have heard all the old tales of the disputes that occurred when people misunderstood or were ignorant of the contract, and thus, in order to avoid that from happening once more… Unworthy as I may be, I swear to protect you.
 
 I shall make sure that you are safe from Hasumi-dono and the Student Council.
@@ -1665,7 +1665,7 @@ However, he is also someone I deeply respect. I do not wish to see him clash wit
 Of course, there may also be a time when I must choose between fighting for you, or fighting for Hasumi-dono…
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hm. you too are in quite a burdensome Position, i see.
 
 poor you. shall i give you a “good boy, good boy”? kaoru said he Enjoys it when Girls do that to him.
@@ -1673,11 +1673,11 @@ poor you. shall i give you a “good boy, good boy”? kaoru said he Enjoys it w
 i do not seem to be a Girl, but it may still make you a bit Happy?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Oh, no, please. I could never accept such an offer. It is unforgivable for a filthy criminal such as myself to be patted on the head by God.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 oh! “good boy, good boy” is to pat on the head, i see…
 
 i did not quite Understand at first. i am happy you Taught me that.
@@ -1693,11 +1693,11 @@ was he Special? maybe that is why i feel so Lonely, after not being able to Spea
 …? what is “Lonely”? souma, do you Know?
 
 {% endbubble %}
-{% bubble SoumaPast %}
+{% bubble Souma v2 %}
 Pardon? Um… I do know the word, but it is difficult to explain…
 
 {% endbubble %}
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 is that so… *sigh…* you people sure are Boring.
 {% endbubble %}
 ## Chapter 12
@@ -1716,7 +1716,7 @@ is that so… *sigh…* you people sure are Boring.
 ……
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Heeey! Akehoshi-ku—Akehoshi! Good work at the Venus Cup!
 
 I watched you! You were sparkling everywhere! You really are our Basketball Club’s pride!
@@ -1734,7 +1734,7 @@ But man, how nice, Akehoshi! I’m so jealous! I want to be up on stage like tha
 … Bucho~[^14]
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hm? Um, yep, that’s me!
 
 Right, right! You’ve been calling me that since a while back now, haven’t you? I’m still not used to it, so I was a little late to respond!
@@ -1746,7 +1746,7 @@ Hehe, that’s right… Our previous club captain quit school, so I automaticall
 Bucho~… Save me…
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …!? W-What’s wrong!? Did you just say “save me”!? Are you okaaaaay!?
 
 A-Are you hurt somewhere!?
@@ -1776,7 +1776,7 @@ I wasn’t sure what to do, so I peeked into the backstage…
 That was when I saw this guy crouched down in a dark corner…
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 This guy…?
 
 {% endbubble %}
@@ -1784,7 +1784,7 @@ This guy…?
 ……
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ooh!? Is that… Itsuki Shu from Valkyrie!? The one who’s also part of the Five Eccentrics — the most promising people of our generation — like Shinkai-kun…?
 
 {% endbubble %}
@@ -1804,7 +1804,7 @@ We’re stuck in crowds, so I think it’ll be hard to take him over to some pla
 What do I do? What happened, anyway? He looks like the world is about to collapse…
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I-I don’t know. After watching you onstage, I had to go to a part-time job, and left school for a bit.
 
 But then I thought I should do some practice, so now I’m here again.
@@ -1820,7 +1820,7 @@ I-Is that good enough?
 I dunno… You should ask him, not me. I brought him all the way over here, but I don’t even know if that was the right thing to do or not.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ahh, that’s true…? Heeey, Itsuki-kun…?
 
 What’s wrong? Did something happen? Can you not move? Can you hear me?
@@ -1829,7 +1829,7 @@ What’s wrong? Did something happen? Can you not move? Can you hear me?
 {% bubble Shu distress %}
 …!
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 <th>(Eek!? W-what!? He just grabbed my hand all of a sudden!)</th>
 {% endbubble %}
 
@@ -1839,7 +1839,7 @@ What’s wrong? Did something happen? Can you not move? Can you hear me?
 I beg of you—
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Huh? Huh!? D-Do you need something? Feel free to tell me anything!
 
 {% endbubble %}
@@ -1847,7 +1847,7 @@ Huh? Huh!? D-Do you need something? Feel free to tell me anything!
 I was a fool! I didn’t heed the warning — It’s far too late now, now that I’ve lost everything…!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 … Huh? … Wha?
 
 {% endbubble %}

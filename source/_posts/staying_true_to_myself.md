@@ -77,7 +77,7 @@ This story is connected to the card [[Comfortable Staying Just As I Am] Midori T
 Mmm~… What do I do now…? <em>Sigh</em>…
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Midori-kun, Midori-kun! You’re sighing way more than usual! That’s the thirtieth time I heard it today.
 {% endbubble %}
 
@@ -85,11 +85,11 @@ Midori-kun, Midori-kun! You’re sighing way more than usual! That’s the thirt
 Sorry… I let myself sigh all I want when it’s only you two here…
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 We don’t mind, we simply would like to know what’s making you sigh so much.
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Yup! You don’t have to think about it on your own, we can hear you out! Maybe it’s something we can help you with.
 {% endbubble %}
 
@@ -97,13 +97,13 @@ Yup! You don’t have to think about it on your own, we can hear you out! Maybe 
 Thanks… The truth is, I heard a rumor in the office that I’m the next one to get a personal outfit…
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 Oh!? This is wonderful news!
 
 …Hmm? But then why are you so depressed, Midori-kun?
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Oh, lemme guess: you’re struggling to figure out what kinda outfit to make it?
 {% endbubble %}
 
@@ -113,11 +113,11 @@ Yep, basically…
 They’re gonna ask me what kinda outfit I want, right? That’s why I’ve been trying to figure it out on my own ever since…
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Woah, you’re actually going for it! That’s incredible of you, Midori-kun~♪
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 I’d love to know what sort of outfit you have in mind~♪
 {% endbubble %}
 
@@ -129,7 +129,7 @@ Like, I did try thinking of something, but every outfit that comes to mind is so
 Every idea I can think of is something I’d *never* want as a personal outfit… and I got so frustrated with myself for all these disappointing ideas… and just kept getting more depressed…
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Ahh~ I get it now. That’s what’s been making you sigh so much, huh?
 {% endbubble %}
 
@@ -137,7 +137,7 @@ Ahh~ I get it now. That’s what’s been making you sigh so much, huh?
 Mhm… I bet you’re disappointed to find out it’s for a stupid reason, right…
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 We all have our own worries, you know! There’s nothing to be ashamed of.
 
 That said, I’m quite curious about these outfits you wouldn’t want to wear. What kind are you referring to?
@@ -155,7 +155,7 @@ My fans absolutely love seeing photo shoots where I’m wearing cool clothes, bu
 I always feel weird wearing them, like I’m not actually being myself…
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 Hrmm, I don’t have much experience with the type of jobs you get, so I can’t say that I completely understand, buuut…
 
 What if you think about it the other way around? Like, what kinda outfits *would* you want? If it’s something you’d want, then you’d probably like wearing it, too.
@@ -167,7 +167,7 @@ Outfits I’d want…?
 Ah—I was hoping to buy a sweater or shirt that has a mascot character on it sometime soon…♪
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 …That sounds more like comfy clothes for home to me. I doubt you can make use of it for your personal outfit.
 {% endbubble %}
 
@@ -175,7 +175,7 @@ Ah—I was hoping to buy a sweater or shirt that has a mascot character on it so
 H-How could you…!? This is the answer I get for the one time I come up with an idea!?
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 Now, now, settle down… I was thinking to myself, but…
 {% endbubble %}
 
@@ -183,11 +183,11 @@ Now, now, settle down… I was thinking to myself, but…
 …?
 {% endbubble %}
 
-{% bubble Tetora2 %}
+{% bubble Tetora v2 %}
 …?
 {% endbubble %}
 
-{% bubble Shinobu2 %}
+{% bubble Shinobu v2 %}
 What you heard was simply a <em>rumor</em>, correct? So it’s possible that you *aren’t* actually next in line.
 
 Which means you may be worrying over nothing, and that would only be a waste of your time.
@@ -303,7 +303,7 @@ You’re part of the mascot character event, right? Let’s do our best to hype 
 Haha, I can’t believe you’d get to be a *host* of all things~ But it *is* true that you love mascots, so I bet you can talk a lot about th—
 {% endbubble %}
 
-{% bubble Midori2 %}
+{% bubble Midori v2 %}
 …… <th>(Glares at Mao)</th>
 {% endbubble %}
 

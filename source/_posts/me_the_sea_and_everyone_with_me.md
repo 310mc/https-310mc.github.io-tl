@@ -64,7 +64,6 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 1
 
@@ -170,7 +169,7 @@ Well, to get back on Track… We’re counting on you to lead the way to “that
 Hellooo? Shinkai-kun~?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 everyone\~ i’m over here\~♪
 {% endbubble %}
 
@@ -186,7 +185,7 @@ K-Kanataaaa!! What’re you doing bathing in water during the cold season!? You�
 
 {% img /img/es/idolstory/me_thesea/cg.jpg %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 gosh, chiaki, you don’t need to panic so much all the time. please look closely—notice how there’s no water in the pool?
 
 besides, i don’t need to fill a pool with water to bathe. there’s already a pond here.
@@ -204,7 +203,7 @@ That’s good to know, but does that mean that the thing you were preparing was 
 Though, I can see balls and plushies and other stuff inside…
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 well… i’ll explain that soon enough. ahem, first off…
 
 thank you for gathering here, everyone.
@@ -218,7 +217,7 @@ and i had to do it for four people, too. it was a toughie.
 …How did you get away with that with all the security guards Around?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 anzu-san did a lot of work behind the scenes for me~♪
 {% endbubble %}
 
@@ -226,7 +225,7 @@ anzu-san did a lot of work behind the scenes for me~♪
 It was surprising to see you use sequins. Was that the Little Lady’s idea, perhaps?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 fufu, bingo~ anzu-san and i were preparing a looot of stuff so that we could all do a certain thing together~
 {% endbubble %}
 
@@ -234,7 +233,7 @@ fufu, bingo~ anzu-san and i were preparing a looot of stuff so that we could all
 Certain thing…?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 surprise! i’m gifting you all a ticket to participate in the fishing tournament!
 
 now then, everyone, let’s fish together…♪
@@ -248,7 +247,7 @@ now then, everyone, let’s fish together…♪
 …?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 hrmph, what’s with that look on your faces! you get to <em>fish</em>, you know? it’s lots of fun!
 
 can’t you see that kanatee wants to see all of you excited to play? their round eyes are sparkling with anticipation!
@@ -260,7 +259,7 @@ i’ve even prepared a prize for the winner. please play in the tournament with 
 I don’t really get what’s going on, but for the fishing tournament… Are we gonna use the pool for it?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 exactly~ anzu-san and i made a lot of fishies; you can see them in the pool, right?
 
 here we go… <th>*(gets up from the pool)*</th>
@@ -272,7 +271,7 @@ anzu-san, could you pass everyone their fishing rod?
 Woah! Since when was she holding those fishing Rods? They look Handmade…
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 please use these fishing rods to catch the fishies~♪
 
 bring the fishies you catch to me. you get more points depending on the fish caught.
@@ -286,7 +285,7 @@ Yeah, I don’t get what’s going on here, but… The two of them seem eager to
 Hmm… What on earth is he planning…?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 ufufu, do you all have your fishing rods? then let the tournament begin…♪
 {% endbubble %}
 
@@ -312,7 +311,7 @@ There appears to be a large plush toy in the pool, but I doubt we could catch it
 Here you go, Kanata-niisan. I caught a Clownfish.
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 great job, nacchan~ you get tickets to aoumi aquarium for catching a clownfish.
 {% endbubble %}
 
@@ -324,7 +323,7 @@ A pair of Tickets? I’ll go there with Sora sometime, Then. Thank you~♪
 Alright! I got something. I caught a starfish and coral at the same time! Isn’t that amazing?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 great job to you too, kaoru~♪ i’ll gift you fresh sashimi for tonight.
 {% endbubble %}
 
@@ -332,7 +331,7 @@ great job to you too, kaoru~♪ i’ll gift you fresh sashimi for tonight.
 Sashimi for me? Guess I’m gonna get to have a fancy dinner tonight~♪
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 come on, chiaki and rei, you can do it too!
 {% endbubble %}
 
@@ -346,7 +345,7 @@ Oh, you too?
 I wanted to catch the turtle, but it ended up concealing itself under the ball somehow… I won’t be able to catch it at this rate.
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 oh jeez, i guess i have no choice~ i’ll adjust its placement, so please give it another go.
 {% endbubble %}
 
@@ -358,7 +357,7 @@ Heh. Since the two of them are taking a While, maybe I should try catching anoth
 Yeah, I wanna catch a fish this time. I’ll try going for a big catch if possible, while I still can~
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 …♪
 
 anzu-san, what’s wrong?
@@ -390,7 +389,7 @@ You could even catch Kanatee, don’t you Think? Try aiming for the magnet on it
 …Shinkai-kun, you wanted *her* to catch the large one from the very start, didn’t you?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 fufufu~? look, rei. she’s so good at fishing…♪
 
 —congratulations, anzu-san. your prize for wonderfully catching kanatee is…
@@ -410,7 +409,7 @@ Hm, if he went through all the effort to have her catch a huge one just to gift 
 That would mean Kanata-niisan *wants* his personal outfit to be Made?
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 …ehehe~♪
 
 i was waiting to see when it would be my turn even before we started preparing for the fishing tournament—
@@ -424,7 +423,7 @@ after all, the rest of ryuseitai received their personal outfits~♪
 I did not see this coming at all, but I’m glad for you, Shinkai-kun. Little Lady is nodding with a smile on her face.
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 yes~ i’m so happy to get the okay from you…♪
 
 …“you could’ve just asked me normally, though”?
@@ -462,7 +461,7 @@ As for me, I’d say “Blue” from his Ryuseitai position… as in, the color 
 Hmmm… I can think of many Things, but overall I’d say the waterside comes to Mind. It feels like he’s someone who connects to the sea Itself.
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 then… how about we go to the sea?
 
 the ocean is where things came to life, so surely ideas for my personal outfit could come to life too if we went there.
@@ -474,7 +473,7 @@ come on, everyone. even anzu-san is saying that the sea is very important as par
 …I feel as though you're mostly pleading for us to join you, but I don’t mind doing so if it’ll help Anzu with the design process…☆
 {% endbubble %}
 
-{% bubble Kanata2 %}
+{% bubble Kanata v2 %}
 fufufu~♪ then let’s tidy up and get going.
 
 let’s go search for the perfect ocean for me—

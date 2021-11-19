@@ -74,7 +74,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Time:** Same day, at dusk
 {% endnote %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(I don’t believe it!)</th>
 
 <th>(It’s like I’m in a dream! Everything’s suddenly heading in a better direction…! … is how it feels. But this isn’t a dream, right? It isn’t some joke, right…? This is completely real, right!?)</th>
@@ -119,12 +119,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch9_1.jpg %}
 
-{% bubble KanataPast confused %}
+{% bubble Kanata pastconfused %}
 —is that your Wish, chiaki?
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch9_2.jpg %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(—… No, that can’t be… Shinkai-kun has nothing to do with this.)</th>
 
 <th>(He may have called himself a God, but I felt how warm he was when we went into contact.)</th>
@@ -138,13 +138,13 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 <th>(… I must be going crazy. Something so miraculous happened that I’m losing my mind.)</th>
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Hey.
 
 Hey!! Don’t go ignorin’ me like that!
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 …!?
 
 H-Huh? Kiryu-kun!
@@ -152,7 +152,7 @@ H-Huh? Kiryu-kun!
 W-What’s wrong…? Why are you crouching in the dark…? Are you not feeling well?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 … Well, guess you could say that.
 
 But it’s nothin’ worth makin’ a scene about.
@@ -160,39 +160,39 @@ But it’s nothin’ worth makin’ a scene about.
 I was born sturdy an’ healthy, so I’ll be alright even if I don’t patch myself up, and if I’m wrong, don’t go callin’ for an ambulance, alright?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 O… Okay…? Wait… you really got roughed up again, didn’t you!? Really, what actually happened!? Are you alright!?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Didn’t I just say not ta make a scene? Don’t make me say it again — talkin’ is hard to do right now.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(Yeah, I’d expect as much… Those are some terrible wounds! S-Something’s definitely up! What should I do in times like these?)</th>
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Haha, sorry for buggin’ ya on your way back home.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 N-no, I don’t mind… I have nothing planned besides going to sleep once I’m back home, anyway.
 
 Nevermind that, please tell me what happened to you! Is there anything I can do for you?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Yeah… Let me use your shoulder for a bit.
 
 I got real roughed up out there and can’t move anymore… How pathetic… I jus’ need help walkin’ — stick with me ’til we get to the station over there.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 O-Okay. It’s a short distance, so I’m fine with that. It would have been better for me to carry you there, but you’re pretty big… I don’t think I’m strong enough to do that.
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 {% endbubble %}
 **Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
@@ -205,21 +205,21 @@ Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch10.jpg %}
 
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Thanks, Glasses-boy. I only called to ya cuz I got nothin’ to lose anymore, so I might as well call for help — I didn’t expect ya to actually come to my aid.
 
 Guess you can find someone ta help no matter where, huh… Woah—
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 A-Are you alright? Here, hold on to my shoulder! Go ahead and lean on me, I’ll support your whole body!
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Thanks. … You seem weak an’ all, but you’re actually more well built than you look, huh?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yes! I’ve been working out! I used to be against working out[^11], since I was afraid I wouldn’t grow any taller, but—
 
 Oh, I’m in the Basketball Club, so! That’s why it’s better if I could grow taller!
@@ -227,7 +227,7 @@ Oh, I’m in the Basketball Club, so! That’s why it’s better if I could grow
 … Wait, what was I talking about again? Uhh… umm…?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Haha, don’t go into a panic. People are gonna turn their eyes on us to see what’s happenin’.
 
 I don’t wanna attract any eyes, y’know… Sorry for askin’ for so much, when you’ve been helpin’ me out here.
@@ -237,57 +237,57 @@ See, the guys I got caught up with may come back for more punches, so—
 Let’s move quietly… I know I’m saying this far too late, but I still don’t want to involve you in this.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Mhm, it’s much too late, I’m already involved.
 
 I know it must be annoying that I keep asking this, but I’d really like a proper explanation… What happened? If you were beaten up, then it’s clearly assault. Can’t you report this to the police or something?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Stop. Don’t you dare report this to the police, Glasses-boy.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 It’s “Morisawa Chiaki”!
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 What?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 My name is Morisawa Chiaki. I just realized I hadn’t introduced myself until now, so!
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 That so. You gotta get yourself together, ain’t it part of the hero deal to introduce yourself in a cool way?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh!? Kiryu-kun, do… do you like tokusatsu!?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 *Huh*? Ain’t got nothin’ to do with that. It’s jus’ common knowledge.
 
 My li’l sis is still young and all, so she watches those magical girl shows on her days off, and since they’re both on in the mornin’, sometimes she ends up watching tokusatsu, too.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oh, so you have a little sister!
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Yeah, she’s a real cutie. She’s an absolute treasure to me.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I see. I’m an only child, so I’m sort of jealous of people with siblings.
 
 —Wait, did you just try to dodge my question?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Haha, why you little… *You’re* the one who went changin’ the subject first.
 
 Well, whatever. Sure, guess I’ll give ya the rundown of what’s goin’ down… I still don’t wanna give ya any trouble, but you *have* been helpin’ me out, so. Can’t keep pretendin’ we’re strangers anymore, ‘specially now that I know your name.
@@ -295,21 +295,21 @@ Well, whatever. Sure, guess I’ll give ya the rundown of what’s goin’ down�
 … I’ve been a shitty delinquent for a real long time now. Used to do so much dumb shit, and makin’ my family cry over it.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hmm… I’ve heard rumors about that before. You were the leader of all the delinquents in the area, or something?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Not exactly that, but I was known for bein’ real skilled in a fight. Not that any of it was worth much.
 
 But, y’see… I wanted to change that about myself.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …………
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Might’ve been too late to, but I still wanted t’ try livin’ an honest life.
 
 At least, just enough ta never make my adorable li’l sis cry, ever again… I wanted ta be a respectable “Onii-chan”.
@@ -341,11 +341,11 @@ I dunno if this is the right choice or not, but… all I can do is believe, and 
 I ain’t good at usin’ my head, y’see… All I ever do up ‘til now is solve things in a fight… don’t know any other way. Can’t even think of another.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …………
 
 {% endbubble %}
-{% bubble KuroPast injuredsmile %}
+{% bubble Kuro pastinjuredsmile %}
 … That’s the whole story, I guess. Sorry for makin’ ya listen ta all that boring stuff.
 
 I’m good from here, Morisawa. I got enough energy back ta walk on my own now.
@@ -372,7 +372,7 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 **Time:** Next day, early morning
 {% endnote %}
 
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 …………
 
 <th>(… I couldn’t really do anything for Kiryu-kun in the end. He completely refused my offer to go with him after helping him reach the train station.)</th>
@@ -400,7 +400,7 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch11_sc.jpg %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oohh…!?
 
 <th>(W-What!? There’s a fountain at the entrance! Huh? Wasn’t this fountain broken for the longest time…!?)</th>
@@ -414,45 +414,45 @@ Oohh…!?
 <th>(What is actually happening here…!? I’ve been seeing so many bizarre situations lately…!)</th>
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 *puka* *puka*…♪
 
 ah, chiaki~♪ we keep running into each other lately, don’t we?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
-Woah!? Shinkai-kun! So it really was you!
+{% bubble Chiaki past %}
+Woah!? Shinkai-kun! So it really *was* you!
 
 {% endbubble %}
-{% bubble KanataPast curious %}
-… “so it really was”…?
+{% bubble Kanata pastconfused %}
+…“so it really was”…?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Uh, no, um—… I keep saying this, but I really don’t think it’s a good idea to bathe in water with your clothes still on.
 
 And you’re doing that in a fountain this time, so it looks even more suspicious and strange than before. You’ll be reported if you’re not careful, y’know?
 
 {% endbubble %}
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 ? what does “re-por-ted” mean?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh!? It means someone might call the police on you…!?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 the Police? then, it is Fine~
 
 the Police are our Manservants, after all.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(…? What? Did he just say manservants? I assume it’s simply a joke, but he’s making a joke out of a government authority… They’re people you can’t go against at any cost, aren’t they…?)</th>
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hehehe~ will you *puka* *puka* with me for today?
 
 it feels very good, so~ how about it? you seem to be feeling down, so—
@@ -460,37 +460,37 @@ it feels very good, so~ how about it? you seem to be feeling down, so—
 you will be revived if you *puka* *puka*. without water, i cannot Survive… that is why i Fixed up the Fountain.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Um? So, Shinkai-kun… You really are the one who repaired—or well, rebuilt this fountain, huh?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 yes! now, i do not have to go all the way to the Pool to Splash about. c’mon, chiaki, you too…♪
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 W-Woah—!! Don’t try to pull me in! Your arm power is stronger than I expected…!?
 
 {% endbubble %}
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 is that so? but what does “arm power” even mean? if it is strong, is it something to be Happy about?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Y-Yes… I suppose it’s better to have strong arm power than weak, yeah…
 
 But I don’t want to think that it’s much more righteous to be strong…
 
 {% endbubble %}
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 “Rai-chi-ous”? what is that?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hehe, you ask such difficult questions, Shinkai-kun…
 
 {% endbubble %}
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 hmm, is that so… was that difficult? am i troubling you with my Questions?
 
 i am sorry… but, there are many Things i do not yet know. i would like to learn more about all of you.
@@ -502,19 +502,19 @@ which is why i decided to Enroll into School, but… it is still difficult~ ther
 it is troubling… even though i have to Grow faster…
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 … Is that so. I don’t completely understand what you’re saying, but I get how you feel, sort of.
 
 I want to grow stronger, too…
 
 {% endbubble %}
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 really? you too, are the same?
 
 hehe, it makes me happy to know we share something in common… right, chiaki? ♪
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ahh… We had a talk about that, didn’t we? So you still remember it, huh?
 
 I’m kind of happy. People kept ignoring me and finding me annoying—like I was just a background character, and it didn’t matter if I were here or not…
@@ -522,7 +522,7 @@ I’m kind of happy. People kept ignoring me and finding me annoying—like I wa
 But you’ve been listening to what I’ve been saying, haven’t you?
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 yes! chiaki’s Stories are interesting. i can Learn many things from them, and that makes me happy.
 
 you have been Providing me so many things.
@@ -530,7 +530,7 @@ you have been Providing me so many things.
 that is why i would like to Repay you. how should i go about doing that? how can i make you Happy?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oh no, there’s no need… I haven’t done anything worth being repaid.
 
 <th>(—Actually, wait. This may be my chance. I’m powerless and can’t make any impact on this world…)</th>
@@ -544,7 +544,7 @@ Oh no, there’s no need… I haven’t done anything worth being repaid.
 ## Chapter 12
 {% img /img/es/eventstory/meteorimpact/firsthalfch12.jpg %}
 
-{% bubble KanataPast curious %}
+{% bubble Kanata pastconfused %}
 … chiaki?
 
 hehehe, that Expression… so you do have some kind of Wish, don’t you?
@@ -552,7 +552,7 @@ hehehe, that Expression… so you do have some kind of Wish, don’t you?
 tell me any Wish, and i will grant it for you! because i am a God, and that is my Job~♪
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh? Um… But—
 
 <th>(What am I thinking… He may seem capable of rebuilding a fountain in one night, and can perform other miraculous, unfathomable spectacles, but…)</th>
@@ -562,23 +562,23 @@ Huh? Um… But—
 <th>(I don’t want to be a helpless victim that asks for help from heroes—I want to *become* a hero.)</th>
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 … chiaki? what is wrong? do not Hold back, hurry and tell me your Wish~♪
 
 i can grant it for you\~ no matter what it is~♪
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …………
 
 … No, I won’t. I won’t be wishing for anything from you.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 huh\~? why not? you are being so mean, chiaki~?
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 Shinkai-kun… Alright, then let me wish for one thing. Stop relaxing in a bath here, and go to class before it begins.
 
 You may be a child prodigy with excelling grades, but you could be expelled if you keep doing as you like.
@@ -588,7 +588,7 @@ You’d have to repeat a year, y’know? So go to class like you should.
 You’re in a different class than me, but I’ve heard rumors that you don’t show up to class at all. Your class seems full of that, though—Hibiki-kun seems the same way.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 hibiki… oh, he is the same, isn’t he.
 
 is he a God, too…? he grants everyone’s Wishes so skillfully…
@@ -600,15 +600,15 @@ and the same goes for the second year named “rei”… hm?
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_1.jpg %}
 
 
-{% bubble KuroPast injuredsmile %}
+{% bubble Kuro pastinjuredsmile %}
 Yo, Morisawa.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Ah—Kiryu-kun! Did everything go alright yesterday!?
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 Yep, thanks to you. I was able to reach my li’l sis’s preschool.
 
 She looked lonely waitin’ for me for so long, and I made her worry over my sorry state.
@@ -616,11 +616,11 @@ She looked lonely waitin’ for me for so long, and I made her worry over my sor
 But the important bit is that I was able to pick her up. Thanks, I owe ya one.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Oh, no… I’m more than happy to know that the little I’ve done could still help you out.
 
 {% endbubble %}
-{% bubble KuroPast injuredsmile %}
+{% bubble Kuro pastinjuredsmile %}
 Hmm? Don’t go and make it more complicated than ya need to. You’re supposed to just say “you’re welcome” when someone thanks you, y’know♪
 
 Well, whatever. I said what I wanted to say, so I’m goin’.
@@ -630,31 +630,31 @@ See ya. … Also, I do thank ya for yesterday, but…
 Seriously, don’t get involved with me, aight? Like I said, I ain’t in the safest kinda place right now.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Um, okay… Are you really alright? If there’s anything I can do, please tell me!
 
 {% endbubble %}
-{% bubble KuroPast injured %}
+{% bubble Kuro pastinjured %}
 *Huh*? Don’t get ahead of yourself, you dweeb. Ain’t nothin’ you can do for me, got it? It’s *my* problem, I’ll clean it up myself.
 
 {% endbubble %}
-{% bubble KanataPast %}
+{% bubble Kanata past %}
 …………
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_2.jpg %}
 
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 … hm, i see how it is now.
 
 you are being stingy, chiaki.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh!? W-What do you mean, Shinkai-kun?
 
 {% endbubble %}
-{% bubble KanataPast kanatapast_frown %}
+{% bubble Kanata pastfrown %}
 a Hero really is a God after all, isn’t it? after all, saving people is what a God does, isn’t it?
 
 the reason why you do not Wish anything from me… is it because you are a God, too? or rather, because you want to become one?
@@ -662,19 +662,19 @@ the reason why you do not Wish anything from me… is it because you are a God, 
 a god can grant Wishes, but they do not Wish for anything themselves. that’s what this is, isn’t it?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 No, no… I have no clue what you’re saying once again, but… I’m not a God, and I don’t want to become one, either.
 
 {% endbubble %}
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 but… why, then? why won’t you Wish for anything from me? is it because you do not believe in me?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 No, it’s just… I don’t know you that well.
 
 {% endbubble %}
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 hmph, then just forget it. if you won’t say it Yourself, then i will have to Ask someone else.
 
 and through that, i will confirm what your Wish is, and grant it for you… will you Believe me then?
@@ -682,16 +682,16 @@ and through that, i will confirm what your Wish is, and grant it for you… will
 first… i will grant the Wish that involves that Large person from earlier.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 “Large person”? Do you mean Kiryu-kun? N-no, stop! He has a dangerous problem of his own, I’m serious! You’ll get more than a burn if you try to interfere, y’know!?
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_3.jpg %}
 
-{% bubble KanataPast frown %}
+{% bubble Kanata pastfrown %}
 a “*burn*”? i will be just fine. Water can extinguish Fire. no—i am a God, so i will not get Hurt no matter what.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …?
 {% endbubble %}
 **Co-Translated with:** [emu](https://twitter.com/sunsunrainys)</th>
@@ -736,7 +736,7 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no—i am a God,
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch13_1.jpg %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Hasumi-kun!
 
 {% endbubble %}
@@ -744,7 +744,7 @@ Hasumi-kun!
 ? What is it, erm…?
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I’m Morisawa, from the same class as you. Here, I brought the signatures you asked for.
 
 {% endbubble %}
@@ -752,7 +752,7 @@ I’m Morisawa, from the same class as you. Here, I brought the signatures you a
 Signatures… Oh, I did ask you for those.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yes. I told the Ryuseitai captain what was going on, and he helped out, so I managed to gather a good number of signatures.
 
 Pretty much all the members of Ryuseitai signed on, so.
@@ -770,7 +770,7 @@ Ahh… Thank you, this is tremendously helpful.
 You’re right, this is a lot of signatures. I’m grateful; we’ve gotten much closer to establishing the Student Council now.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Is that so. Mhm, well then, I’m glad I was helpful.
 
 {% endbubble %}
@@ -778,7 +778,7 @@ Is that so. Mhm, well then, I’m glad I was helpful.
 Indeed. Truthfully, I wasn’t expecting much from you[^13], but—
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 …“You”*?
 
 {% endbubble %}
@@ -786,7 +786,7 @@ Indeed. Truthfully, I wasn’t expecting much from you[^13], but—
 Ah, erm… I didn’t have very high expectations of you—I had forgotten that I’d even asked for help, since I’ve been asking almost everyone around.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 I’m not surprised. Hehe, you were just asking around shamelessly.
 
 {% endbubble %}
@@ -796,7 +796,7 @@ Hmph. That’s what we need to do—otherwise, ordinary people like us can’t c
 …Oh. That was rude of me to lump you in as “us.” I apologize.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 No, I think you’re right. This world is probably run by a small, limited number of geniuses.
 
 {% endbubble %}
@@ -808,7 +808,7 @@ When I was young, I thought I was a special being. But there is always someone b
 Morisawa, was it? If the likes of*—I mean, if you feel the same, I hope you’ll continue to support me and the Student Council. I’ll show them what ordinary people can do.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Of course. I’m cheering you on. I hope you manage to establish the Student Council.
 
 … Whoops. I actually snuck out of a practice session, so I need to head back now. I saw you from the window, Hasumi-kun, so I rushed down here.
@@ -818,7 +818,7 @@ Of course. I’m cheering you on. I hope you manage to establish the Student Cou
 Hmph. Sorry for taking up your time. But you could’ve just talked to me in the classroom, since we’re in the same class; there was no need to do it now.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yes. But isn’t it nice to hear good news as soon as possible?
 
 Well then, I’ll be going now.
@@ -832,7 +832,7 @@ That means we have much more work to do, and I’m absolutely exhausted by the e
 Hm. Things really do change, huh. I was under the impression that Ryuseitai was a hang-out for slackers.
 
 {% endbubble %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Yes, I won’t deny it. But lately the captain has been strangely enthusiastic.
 
 Well, he’s going to leave the school and head to the USA soon, so… I get anxious thinking about what’ll happen after that.
@@ -894,7 +894,7 @@ Yes… See you tomorrow.
 **Time:** Next day — At night, on a day off
 {% endnote %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(Yes, yes, yesss! Morisawa Chiaki, you’re doing a great job!)</th>
 
 <th>(Heheh. I didn’t just buy my favorite novels at the bookstore today, but the books I needed for my job, too!)</th>
@@ -934,38 +934,38 @@ Yes… See you tomorrow.
 <th>(I’ve bought books about this before, ones with interviews of actors playing as the hero, so I’ll reread those too.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_1.jpg %}
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 <th>(Ahhh!! I’m just so excited! I don’t think I’ll be able to fall asleep tonight!! I’m too pumped up…!)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_2.jpg %}
 
-{% bubble KuroPast injuredangry %}
+{% bubble Kuro pastinjuredangry %}
 …………
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 <th>(Wha—!? I-Is that Kiryu-kun? I keep bumping into him lately… It’s like our lives are always happening at the same place—well, maybe not literally…)</th>
 
 <th>(Wait—… I feel like he’s heading straight over to me—)</th>
 
 {% endbubble %}
-{% bubble KuroPast injuredangry %}
+{% bubble Kuro pastinjuredangry %}
 Morisawa!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 E-Eeek!?
 
 {% endbubble %}
-{% bubble KuroPast injuredangry %}
+{% bubble Kuro pastinjuredangry %}
 Don’t you *dare* move! I’ll *kill* you!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 … Huh? —… Huh?
 
 {% endbubble %}
-{% bubble KuroPast injuredangry %}
+{% bubble Kuro pastinjuredangry %}
 I finally found ya, ugh… Took *forever*… Don’tcha have any friends? I asked a buncha people, but nobody even knows where ya live.
 
 But this game of tag is now over. Haha, checking this area was a good idea.
@@ -977,7 +977,7 @@ Well, whatever. … Come with me a sec. We’ll talk over there, where it’s da
 I got somethin’ real important to talk about. Better not try to fight, Morisawa… If you make me any angrier, who knows what’ll happen to ya, especially with how pissed off I am right now.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …? …?
 {% endbubble %}
 
@@ -986,17 +986,17 @@ I got somethin’ real important to talk about. Better not try to fight, Morisaw
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_sc.jpg %}
 
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 —Gaaah!?
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Hmph. Don’t make a single damn noise, it’ll look like I’m bullyin’ ya…!
 
 People’re always mistakin’ me for a bully, but lemme tell ya — I got *no* interest doin’ that!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …?
 
 <th>(W-what? He dragged me by the collar to the alleyway, and threw me straight onto the ground! It feels like I’m being attacked by a wild animal! I’m scared!!)</th>
@@ -1006,65 +1006,65 @@ People’re always mistakin’ me for a bully, but lemme tell ya — I got *no* 
 Uuu…? What’s wrong, Kiryu-kun? Why are you so mad…? Did I do something to you!? I think there’s been some kind of mistake!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 *Huuuh*? Quit messin’ around, dumbass. I was such a damn idiot for trustin’ you and tellin’ you my problems!
 
 It’s *me* who’s got questions to ask here. The *hell* you tryin’ to do?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Uh, um…? W-What are you talking about? I have no idea what’s going on!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 …? Seriously? That’s even worse. Y’know you could just be an actor instead of an idol, right?
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_3.jpg %}
 
-{% bubble ChiakiPast %}
+{% bubble Chiaki past %}
 Huh? Do you really think so? I hope I have the talent to do so—I mean, I just got a job as a stuntman for a mov—
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Shut up! Don’t you *dare* open your mouth ‘til I tell ya to!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Eeek!? I-I’m sorry!!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 I ain’t asking for apologies! Just stop talkin’ already! I’m already pissed off as it is!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 W-What do you want me to do!? Please, I have no idea what this is about! Really! Let’s talk this through, please! Violence solves nothing!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 *Again*? An idiot sayin’ the only things he knows, huh?! Anyway⁠—you’re *seriously* sayin’ that to my face?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …? …!?
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 … You. You did in my pals.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 P-Pals? Did in…? Did what in?
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 I’m tryin’ ta tell ya! You beat up my buddies, the ones pickin’ fights with me a while back!!
 
 It went viral, y’know! Quit actin’ all innocent already!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 U-Um? Kiryu-kun, you’re talking so strangely, I can’t really understand what you’re trying to tell me!
 
 Buddies? Are you talking about the guys who were beating you up…?
@@ -1074,15 +1074,15 @@ It’s true that I felt upset knowing the awful things they did to you, but I di
 I’ve never seen them in my entire life! I’m serious! Please believe me!! I don’t know anything!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Damnit, quit actin’ like ya know nothin’…!!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Eep—
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 You! You were the only one, Morisawa! The only one I talked to about my problems!
 
 No one could’ve heard us, and I never thought about tellin’ anyone else about it!
@@ -1101,7 +1101,7 @@ I’m regrettin’ it all, damnit…!!
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch15.jpg %}
 
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 How the *hell* did you do that!? These rebels run wild, but they showed up sayin’ sorry to me, like starvin’ animals or somethin’!
 
 They were askin’ me to spare ’em!
@@ -1111,29 +1111,29 @@ They were all beat-up and bawlin’! When I was a delinquent, I had rough stuff 
 They were cryin’, apologizin’, promisin’ they’d leave me alone, beggin’ me to stop!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 I-Isn’t that… a good thing…? They were meddling in your affairs and bothering you, weren’t they?
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Shut up!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Gyaa!? D-Don’t stomp your foot down! Please, it’s terrifying!
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Yeah, be more terrified, cuz I’m freakin’ threatenin’ you here! I’m warnin’ you to never mess with me ever again, Morisawaaa!
 
 What’re you plannin’? What the hell did you do it for? Did you just pity me? Huh!? Is that it!? Did you like playin’ pretend as a “hero of justice”!?
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …!? <th>*(shakes his head)*</th>
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 You don’t know nothin’ about me, so don’t freakin’ get up in my business! Did I even ask you to!? Don’t you freakin’ mess with me…!!
 
 … Those guys… My old buddies were just worthless trash.
@@ -1161,11 +1161,11 @@ I dunno what society’s worldview is, but even delinquents have their own point
 And you ignored all that, and destroyed them in the name of “justice” or whatever, and wrecked everything I’ve tried to do! Stop freakin’ messin’ with me here, you dumbass!
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …! <th>*(shaking his head)*</th>
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 It’s fine *now*, when they’re still scared and obedient…
 
 But as soon as they’ve healed and gotten past the pain, they’ll just go straight back to start. I was a delinquent once. I *know* how it is.
@@ -1189,11 +1189,11 @@ But this situation ain’t somethin’ to laugh about now.
 Those guys… They’re gonna go after my adorable li’l sis first.
 
 {% endbubble %}
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 …………
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Then they’ll aim for my family, my home, then my school… and, of course, me. They’ll hurt everythin’ and everyone I love. They’ll destroy it all.
 
 People who’re soaked deep in hatred n’ anger destroy everything in their way.
@@ -1204,15 +1204,15 @@ I’d been tryin’ to end it by bearin’ with the pain! That’s the only way 
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/kuroorigcg.jpg %}
 
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Heroes’ll never be able to exist in this world! Quit your daydreamin’ already, damn brat! I’ll never forgive you!
 
 {% endbubble %}
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 …………
 
 {% endbubble %}
-{% bubble KuroPast injuredangrycg %}
+{% bubble Kuro pastinjuredangrycg %}
 Morisawa. If my li’l sis gets a single scratch from this…
 
 You’re gonna *pay*. I’ll freakin’ kill you myself.
@@ -1232,7 +1232,7 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 **Time:** Few hours later
 {% endnote %}
 
-{% bubble ChiakiPast worried worried %}
+{% bubble Chiaki pastworried worried %}
 Shinkai-kun!
 
 <th>(… He’s not here, either. Nor was he at the fountain… He’s nowhere to be found. He disappeared like he was just some kind of illusion or dream…)</th>
@@ -1275,7 +1275,7 @@ Shinkai-kun! Where are you!? Please respond! Please, if you’re out there…!
 —Yees~♪
 
 {% endbubble %}
-{% bubble ChiakiPast worried worried %}
+{% bubble Chiaki pastworried worried %}
 …!?
 
 {% endbubble %}
@@ -1283,7 +1283,7 @@ Shinkai-kun! Where are you!? Please respond! Please, if you’re out there…!
 Goootcha! Too bad, so sad, don’t get mad! You thought it was Kanata-san, but it was I! Madara-san![^14] ♪
 
 {% endbubble %}
-{% bubble ChiakiPast worried worried %}
+{% bubble Chiaki pastworried worried %}
 … Huh!? M-Mikejima-san! So you really did come back! But why are you here?
 
 {% endbubble %}
@@ -1291,7 +1291,7 @@ Goootcha! Too bad, so sad, don’t get mad! You thought it was Kanata-san, but i
 …………
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 Ah… You wouldn’t know someone like me, would you… I’m Morisawa Chiaki, from the same unit as y—
 
 {% endbubble %}
@@ -1309,7 +1309,7 @@ I know anything and everything. I’m not “God”, so I’m far from being omn
 But I essentially know everything, and can do anything. We, the Mikejima family, must do the bidding of God… or something like that! Hahaha, how old-fashioned~
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …………
 
 You are… Erm, what exactly? Shinkai-kun mentioned you; are you his friend?
@@ -1321,7 +1321,7 @@ Hahaha, no way, I could never say I’m his friend. He’s a *God*, y’know?
 At some point in my childhood, I did make the careless mistake of wanting to become his friend, but the world—fate isn’t so forgiving about relationships like those.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 T-That kid… Is Shinkai-kun really a God after all?
 
 {% endbubble %}
@@ -1339,7 +1339,7 @@ That’s the best option for someone like you—who’s just an ordinary kid.
 {% img /img/es/eventstory/meteorimpact/firsthalfch16_1.jpg %}
 
 {% endbubble %}
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 …………
 
 {% endbubble %}
@@ -1363,7 +1363,7 @@ You don’t have the time to look around for a God, so lemme make your life easi
 Right then. Let me be honest with you—There are no such things as “myths”[^15] in this world.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 …? <th>*(surprised look)*</th>
 
 {% endbubble %}
@@ -1373,7 +1373,7 @@ Right then. Let me be honest with you—There are no such things as “myths”[
 You probably know this already, but there’s no place for fantasies to exist in a world controlled by the laws of physics.
 
 {% endbubble %}
-{% bubble ChiakiPast worried %}
+{% bubble Chiaki pastworried %}
 B-But… You just said the opposite a second ago. You said he’s a God, didn’t you?
 
 {% endbubble %}
@@ -1423,7 +1423,7 @@ Zealots are frightening ones — They’d do whatever it takes to protect their 
 For example… they would even gather in the dead of night, invade a school, and clear an entire pool, despite gaining nothing by doing it.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 <th>(Ahh…)</th>
 
 {% endbubble %}
@@ -1433,7 +1433,7 @@ Or, negotiate with the school to rebuild the fountain that’s been broken for s
 Making sure to rebuild it all in one night… and making sure to do it in a way that wouldn’t cause any legal problems…
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 <th>(I see now. That *is* true—there’s no way any of those incidents were because of some extraordinary phenomenon. These are manageable as long as you have the time and resources.)</th>
 
 <th>(I had thought it was strange back then, because I couldn’t figure out why anyone would do this, but…)</th>
@@ -1453,7 +1453,7 @@ And so, as he keeps granting more and more wishes, more people will come to beli
 You too—you almost believed he was before I started explaining things, didn’t you?
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 … Yes, you’re right. But he’s *not* a God, right?
 
 I could tell from his body temperature when we made contact. He’s a human being like us, right?
@@ -1467,7 +1467,7 @@ Though, he has never had a proper check-up, so I can’t be completely sure abou
 I know the full truth, yet even I have moments where I find it frightening how remarkable he can be.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 Mikejima-san… I’ve been wondering; why *do* you know so much?
 
 The truth that he isn’t a God but actually a human should be something no one should find out about… right?
@@ -1495,7 +1495,7 @@ Kanata-san said it was simply because he was still inexperienced at being a God,
 If you could cure diseases simply by praying to God, then we wouldn’t need any doctors.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 …………
 {% endbubble %}
 
@@ -1537,7 +1537,7 @@ That’s why I’m going to say this to you, specifically. Save the world, ordin
 Don’t ever wish to become a hero—a special being of this world.
 
 {% endbubble %}
-{% bubble ChiakiPast serious %}
+{% bubble Chiaki pastserious %}
 … Are you telling me to know my place?
 
 {% endbubble %}
@@ -1551,7 +1551,7 @@ I felt envious, y’know? Like, “If only I could live like this~” kinda thin
 I had always wanted to live in the front side of the world, forever innocently laughing and enjoying daydreams of Gods and heroes.
 
 {% endbubble %}
-{% bubble ChiakiPast sad %}
+{% bubble Chiaki pastsad %}
 …………
 
 {% endbubble %}
