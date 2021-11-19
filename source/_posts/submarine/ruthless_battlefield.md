@@ -62,7 +62,6 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 3
 

@@ -62,7 +62,6 @@ This story is connected to the card [[Comfortable Staying Just As I Am] Midori T
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 1
 {% note location %}

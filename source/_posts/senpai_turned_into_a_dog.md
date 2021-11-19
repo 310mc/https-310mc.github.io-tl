@@ -263,7 +263,6 @@ description: "[ES!] Midori goes into a panic when he finds out that Chiaki turne
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter 1
 
