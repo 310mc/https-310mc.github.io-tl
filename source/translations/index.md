@@ -80,7 +80,7 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 
 |ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
-[![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event)|[![https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Chiaki_Morisawa_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Chiaki_Morisawa_Normal_Event)
+[![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event)|[![/birthday_story/chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki)
 
 |ES!! Midori Birthday|ES!! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |

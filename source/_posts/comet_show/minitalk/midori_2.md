@@ -53,9 +53,9 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
 {% bubble Midori %}
-(Let's search for… "Morisawa, Chiaki"…)
+<th>(Let's search for… "Morisawa, Chiaki"…)</th>
 
-(Huh, there really *are* a lot of people talking about his casting role in the new tokusatsu show… Where the heck did they get this info from, anyway…?)
+<th>(Huh, there really *are* a lot of people talking about his casting role in the new tokusatsu show… Where the heck did they get this info from, anyway…?)</th>
 
 …Huh, Anzu-san? Good afternoon…
 {% endbubble %}

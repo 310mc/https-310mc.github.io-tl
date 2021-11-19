@@ -53,9 +53,9 @@ description: "[ES!!] Midori's first Mini Talk from Comet Show. From Anzu's POV."
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori1_1.jpg %}
 {% bubble Midori %}
-(*Sigh*… I've had to deliver so many veggies today…)
+<th>(*Sigh*… I've had to deliver so many veggies today…)</th>
 
-(This is way too much for one person to carry… Actually, haven't they been asking for more than usual lately? No *wonder* it's been so rough…)
+<th>(This is way too much for one person to carry… Actually, haven't they been asking for more than usual lately? No *wonder* it's been so rough…)</th>
 
 …Alright, I didn't forget to deliver anything here. Thank you for purchasing~… Wait, there isn't even anyone here…
 {% endbubble %}

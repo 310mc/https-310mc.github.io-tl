@@ -525,7 +525,7 @@ I get it… Those people are kinda scary, aren't they…
 
 Although, when you compare that glasses-vice-president to the person who carries a sword or the karate club person, he seems weak…
 
-But I get nervous just remembering he’s an upperclassman or part of the student council…
+But I get nervous just remembering he’s an upperclassman or part of the Student Council…
 
 Whenever Morisawa-senpai does something dumb, that person usually scolds him with a death glare…
 
@@ -542,7 +542,7 @@ Ah, so you have an older brother? I’m also an "Onii-chan"~ I have a cute littl
 Ooh, I’m envious of you being the "Onii-chan"… I’m sure you have a warm family…♪
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi hidden %}
 AAHHHHHHHHHHHHHHH!?!?
 {% endbubble %}
 
@@ -632,7 +632,7 @@ I ended up doing the same too… It's easy to talk to you, so it just happened o
 Really? That's the first time I’ve been told that\~ Since I’m bad at talking, you see\~♪
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi hidden %}
 AGHHHHHHHH!?!?
 {% endbubble %}
 
@@ -643,7 +643,7 @@ Eeek?! T-There's that scream again…!
 {% bubble Hajime %}
 Hnn… W-We really weren't imagining it then. It’s still scary, but it was the right choice to check what's going on.
 
-If there’s a scream then it must mean someone’s in trouble, right?
+If there’s a scream, then it must mean someone’s in trouble, right?
 
 I don't really know what happened, but we have to save them.
 {% endbubble %}
@@ -678,8 +678,8 @@ Would you like to eat a carrot, Shino-kun…?
 Hehe, you really do think of me as a real rabbit, don't you?
 {% endbubble %}
 
-{% bubble Tsumugi %}
-Umm… Sorry for disturbing your fun chatter, but pleeease help me.
+{% bubble Tsumugi hidden %}
+Umm… Sorry for interrupting your fun chatter, but pleeease help me.
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -698,7 +698,7 @@ He’s usually there whenever I go to the library, and he sometimes helps me out
 Umm, Aoba-senpai, what happened? Were those screams we were hearing for some time now from you…?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi hidden %}
 *Uuu*… That voice is Hajime-kun, right? P-Please lend me a hand!
 {% endbubble %}
 
@@ -743,7 +743,7 @@ Yes, that's exactly what happened~!! Please help me!
 
 They all fell down one after the other like dominoes, I couldn't move away fast enough!
 
-I dreaded I might die buried alive like this… Ahh how unlucky, is it all because I lent my lucky item to Rei-kun?
+I dreaded I might die buried alive like this… Ahh, how unlucky… Is it all because I lent my lucky item to Rei-kun?
 {% endbubble %}
 
 ## Bind and Unfold 4
@@ -759,15 +759,15 @@ Ahhh, you really saved me! It really is good to have kind juniors~♪
 {% bubble Hajime %}
 I’m really glad you're safe~ But why were you trampled down by bookcases?
 
-Takamine-kun has physical strength so it was fine this time, but if it was only me I would have never been able to help you out of there.
+Takamine-kun had the physical strength to make it through, but I would have never been able to help you out of there if I were on my own.
 
-I don't really get what happened, but please be more careful, okay?
+I don't really understand how this happened, but please be more careful, okay?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-I got scolded by my junior…! Uugh, it’s not like I like being trampled by bookcases either!
+I got scolded by my junior…! Ughh, it’s not like I like being trampled by bookcases either!
 
-I was organizing the bookcases as a bit of my duty as a committee member. During these times, the old books get moldy from the rain, so I was carrying all the valuable old books down to the underground archive where the humidity level is adjusted so as to preserve them.
+I was organizing the bookcases as part of my duty as a committee member. During these times, the old books get moldy from the rain, so I was carrying all the valuable old books down to the underground archive where the humidity level is adjusted for preservation purposes.
 
 In their place, I’d carry up books from the archive to put them in the blank spots of the bookcase.
 
@@ -779,7 +779,7 @@ Um, before that, what is the underground archive?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Ahh, there's something like a library downstairs. I only learnt about it when a friend told me in my first year too.
+Ahh, there's something like a library downstairs. I also only learnt about it when a friend told me in my first year.
 
 And because it’s underground, nowadays it has old books you can't get a hold of, and there's even prohibited-looking books collected from somewhere by Natsume-kun in there. It’s pretty interesting.
 
@@ -883,15 +883,15 @@ That's unfortunate. So that vampire is causing trouble to people as always, huh�
 
 I was even thinking he was finally being more considerate to his surroundings, but people don't change that easily, it seems.
 
-Well, it’s fine. Wait here a bit, Aoba. I’ve been keeping some spare glasses in the student council room, so I’ll bring them over. What's your eyesight?
+Well, it’s fine. Wait here a bit, Aoba. I’ve been keeping some spare glasses in the Student Council office, so I’ll bring them over. What's your eyesight?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hrrmm… I’m not sure. I haven't done an eye test in a while so I don't know.
+Hmm… I’m not sure. I haven't done an eye test in a while, so I don't know.
 {% endbubble %}
 
 {% bubble Keito %}
-Hmph. If you have time to go to a fortune-teller or a medium for weird consultations, then at least go get an eye test too. You are absolutely beyond help.
+Hmph. If you have time to go to a fortune-teller or a medium for weird consultations, then at least go get an eye test, too. You are absolutely beyond help.
 {% endbubble %}
 
 ## Bind and Unfold 5
@@ -923,7 +923,7 @@ Ah, welcome back Keito-kuuun! You were really quick, just like you said you’d 
 {% endbubble %}
 
 {% bubble Keito %}
-What’s this all about, Aoba? If I'm seeing this right, it seems like your junior is fiddling with your hair…?
+What’s this all about, Aoba? If I'm seeing this right, it appears that your junior is fiddling with your hair…?
 
 If you don't like it, then say so. Why are you being so timid?
 {% endbubble %}
@@ -933,11 +933,11 @@ Ahh, please spare me the lecture. I’m aware I’m hopeless, but if I’m const
 
 Besides, it’s not like I don’t like it~
 
-When I complained about my hair suffocating me from the humidity of the rain, they said they'd tie it up for me.
+When I complained about my hair suffocating me from the humidity of the rain, he said he'd tie it up for me.
 
-And then I ended up letting them do as they like.
+And then I ended up letting him do as he likes.
 
-I can't do my work since I can't see anything without glasses anyway, so I thought of taking a break while waiting for you~
+I can't do my work anyway since I can't see anything without glasses, so I thought of taking a break while waiting for you~
 {% endbubble %}
 
 {% bubble Keito %}
@@ -947,7 +947,7 @@ I’ve said this far too many times, but if your hair irritates you, then get a 
 {% bubble Tsumugi %}
 And I keep telling you that no can do, it’s part of a Buddhist prayer so I can't cut it.
 
-During rainy days it starts curling up from the humidity and feels ticklish on my skin, though.
+Though, during rainy days, it starts curling up from the humidity and feels ticklish on my skin.
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -959,7 +959,7 @@ Ah, a buddy! Handshake~♪
 
 Although I think your hairstyle suits you perfectly, so it's fine as it is.
 
-But for me it doesn't seem like it suits me, has not a single advantage, and only causes a great deal of pain~ Even Natsume-kun often gets angry at me for it.
+But for me it doesn't seem like it suits me, doesn't have a single advantage, and only causes a great deal of pain~ Even Natsume-kun often gets angry at me for it.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -983,7 +983,7 @@ Ahaha, not that it matters too much, but you fiddling with my hair while we talk
 {% endbubble %}
 
 {% bubble Hajime %}
-Is that so? What would you like your hairstyle to be, mister? Would you like a bit of trimming\~? Juuust kidding\~♪
+Is that so? What would you like your hairstyle to be, mister? Would you like a bit of trimming\~? Just kidding\~♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1017,11 +1017,11 @@ If you're going to snarl at me then you’re on, come at me whenever.
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Ahaha, don't make him all tense pleeease, this is a place to peacefully enjoy books.
+Ahaha, don't make him all tense pleeease, this is a place to enjoy books peacefully.
 {% endbubble %}
 
 {% bubble Keito %}
-That's true… That aside, you have work to do as the library's committee member, don't you? I basically finished my duties for the student council, so I’ll help out if you want.
+That's true… That aside, you have work to do as the library committee member, don't you? I basically finished my duties for the Student Council, so I’ll help out if you want.
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1029,7 +1029,7 @@ Eh, are you sure? It'd be a huge help, thank you Keito-kun~♪
 {% endbubble %}
 
 {% bubble Keito %}
-Don't thank me. I was originally a committee member, but then put that duty onto you, and you ended up fumbling about on your own from then on.
+Don't thank me. I was originally a committee member, but then threw that duty onto you, and you ended up fumbling about on your own from then on.
 
 I feel a little bad about that.
 
@@ -1125,19 +1125,19 @@ So no one but me can enter these cracks—or rather, reach the books we'd need.
 
 Hehe, since everyone's really well-built here.
 
-That must be so nice… I want to be bigger too, but I can’t really build up the muscle.
+That must be so nice… I want to grow bigger too, but I can’t really build up the muscle.
 
 I really do have to start eating better food for this, don't I?
 {% endbubble %}
 
 {% bubble Midori %}
-I wouldn't say you're that small though… Aren't you the most well-built out of all of Ra*bits…?
+I wouldn't say you're that small, though… Aren't you the most well-built out of all of Ra*bits…?
 {% endbubble %}
 
 {% bubble Hajime %}
 No no, my family's surprisingly tall, so I'm the second shortest.
 
-And if I get bigger I think I wouldn't be as cute…? It wouldn’t be Ra*bits-like…? That's what I think at least, but we're all in our growing periods so…♪
+And if I get bigger I think I wouldn't be as cute…? It wouldn’t be Ra*bits-like…? That's what I think at least, but we're all in our growing periods, so…♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1169,7 +1169,7 @@ If it’s passing time you want, then that’s exactly why it's better to read s
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe. I feel like I’m holding people back and only being a bother though.
+Hehe. I feel like I’m holding people back and only being a bother, though.
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1189,9 +1189,9 @@ I don’t think anyone will steal them, but it’s just in case. There’s reall
 {% endbubble %}
 
 {% bubble Hajime %}
-Aah, if you can make this room a place to practice that'd be helpful.
+Ahh, if you can make this room a place to practice that'd be helpful.
 
-A frail unit like us can't ever rent practice rooms… So days like these we end up having a massive amount of free time.
+A frail unit like us can never rent practice rooms… So we end up having a massive amount of free time on days like these.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1221,7 +1221,7 @@ But before that, I should at least get things done with to the barest minimum. W
 {% bubble Keito %}
 Go home when you’re meant to.
 
-…The same goes for you two. If the rain doesn't stop, I’ll prepare a car and force you to go home. If I ask my brother he should bring a car over.
+…The same goes for you two. If the rain doesn't stop, I’ll prepare a car and force you to go home. If I ask my brother, he should bring a car over.
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1229,15 +1229,15 @@ Your household’s car isn't a hearse or something, right?
 {% endbubble %}
 
 {% bubble Keito %}
-We have a normal car too. We have a lot of work at the temple that needs us to go around everywhere, so my brother put the benefit and the interest for cars together, and started collecting vehicles.
+We have a normal car, too. We have a lot of work at the temple that needs us to go around everywhere, so my brother put the benefit and the interest for cars together, and started collecting vehicles.
 
 Kiryuu saw his motorbike and was incredibly impressed.
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hmm, your brother does seem the type to like that stuff. But I’m kinda bad at dealing with him~ Whenever we meet he starts lecturing me.
+Hmm, your brother does seem the type to like that stuff. But I’m kind of bad at dealing with him~ He starts lecturing me whenever we meet.
 
-Well, you were like that in the past too.
+Though, well, you were like that in the past, too.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1255,7 +1255,7 @@ I really liked this story when I was young, so I wanna read it after so long…
 {% bubble Tsumugi %}
 Which book?
 
-Ahh… Sorry to say but the author of that book passed away, so it's forever a discontinued series.
+Ahh… I'm sorry to say this, but… the author of that book passed away, so it's forever a discontinued series.
 
 I read it before too; it ended right at a really good part, didn't it? I really get how you feel about wanting to know what happens next.
 
@@ -1421,7 +1421,7 @@ Hmph. You don’t have to keep thanking us. It’s my duty to assist, that’s a
 
 We killed enough time until the rain showers passed, and I got to move around without needless thoughts for once, so I also feel thankful.
 
-I have to think a lot when doing my student council work, and I’m the vice president so I can’t be shoddy with my work.
+I have to think a lot when doing my Student Council work, and I’m the vice president so I can’t be shoddy with my work.
 
 But since the library work is your job, even if I do make a mistake it'll be under your responsibility in the end.
 {% endbubble %}
@@ -1437,11 +1437,11 @@ If I did, I would've never helped you in the first place… If you need it, I’
 {% bubble Tsumugi %}
 Oh, no~ Actually, other than a special job like this, I usually have way too much free time, so it's enough with only me more or less.
 
-Most of the big work that used to be for the committee was taken by the student council, anyway.
+Most of the big work that used to be for the committee was taken by the Student Council, anyway.
 
-Like managing the budget of the schools funds like a bank, or the supervision over the schools SNS system.
+Like managing the budget of the school's funds like a bank, or the supervision over the school's social media.
 
-Next year onward, the library will be like a sub-section of the student council and merge with them, right? So until then I’m here.
+Next year onward, the library will be like a sub-section of the Student Council and merge with them, right? So until then I’m here.
 
 I’ll make sure to make it possible to hand it over in a way that won't let our juniors suffer, so please do help me out on that, Keito-kun.
 

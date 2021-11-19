@@ -1,0 +1,467 @@
+---
+title: "[ES!] Chiaki Morisawa Birthday"
+date: 2021/11/18 21:00:00
+categories:
+- [Enstars, ES!]
+- [Enstars, Chiaki]
+tags:
+- Mini Talk
+- Birthday Story
+- Happy Elements K.K
+description: "[ES!] Chiaki's birthday content from Enstars! Era."
+---
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Mini talk
+                </div>
+                <div class="value">
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+								<a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+                <a href="/categories/Enstars/Mao" character="Mao"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                Writer
+                </div>
+                <div class="value">
+                Happy Elements K.K
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                Era
+                </div>
+                <div class="value">
+                ES! (2016–2019)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- more -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.3.0/mashiro.min.css">
+
+## Birthday Quote
+
+**2016**
+{% bubble Chiaki %}
+Today is my birthday! If you weren't aware of that, then I'll keep telling you! Today is my birthday! ☆
+{% endbubble %}
+
+**2017**
+{% bubble Chiaki %}
+Hehehe, I've been waiting for you to say that! I'm so happy…! Your words touch me right in my heart…!
+{% endbubble %}
+
+**2018**
+{% bubble Chiaki %}
+Thank you! I have comrades who will celebrate my birthday—the day Morisawa Chiaki was born! I couldn't be happier than this…! ☆
+{% endbubble %}
+
+**2019**
+{% bubble Chiaki %}
+Thank you for celebrating my birthday! It makes me so happy to have my birthday celebrated, and I'm all the more happy when it's by you…♪
+{% endbubble %}
+
+**Birthday Greeting**
+{% bubble Chiaki %}
+Uu… Uuu… *<th>(sobs)</th>* To think that this many people would celebrate my birthday… I'm so, so fortunate to have thiiiiisss~!
+{% endbubble %}
+
+## Birthday Course
+
+### <div mt="rare"></div> 1/3
+{% img /img/es/birthdaystory/es/chiaki/minitalk_1.jpg %}
+{% bubble Chiaki %}
+The red flames are the mark of justice! Burning bright red, the sun of life!
+
+Today's protagonist! Chiaki Morisawa!
+
+Ha ha ha!! ☆ How's that?! Did I surprise you, Anzu?!
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            U-Ummm…
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki %}
+              Fuhahaha! Sorry for surprising you, Anzu!
+
+              However! I wanted to show off that it’s my birthday so that we can share the joy of this day~♪
+
+              Of course, I went to class looking like this, too! Everyone had pretty fun reactions to it~☆
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki %}
+              Heh, you're all surprised~♪
+
+              Your expressions are looking a lot softer lately, Anzu. I'm glad I get to see lots of different kinds of faces from you.
+
+              It probably isn’t heroic of me to be happy over surprising someone, but it's my birthday! Forgive me this once!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            What are you doing?
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki %}
+              Hmm…? You aren't reacting as much as I thought you would.
+
+              I feel like the temperature here slipped all the way down to the bottom… The only thing that could melt this frozen heart right now is a "Happy birthday" from you, Anz—
+
+              Hrm?! What's wrong, Anzu? Your expression is hard to understand… It feels like things just got a lot colder now, you know?!
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki %}
+              Today's my birthday, you see! So I've been going around and telling everyone all about it!
+
+              I made my sash by myself. Earlier, when I was telling Takamine about my birthday, it fell off of me from moving around too roughly…
+
+              He was really shocked, saying "What are you doing?!"
+
+              Then he clipped the sash back on for me with a mascot character pin! Isn't that so touching?
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+
+### <div mt="rare"></div> 2/3
+{% img /img/es/birthdaystory/es/chiaki/minitalk_2.jpg %}
+{% bubble Chiaki %}
+Aaaalright everyone! Pull yourselves together! Let's do this again!
+
+Today's protagonist! Chiaki Morisawa! ☆
+
+Yeah uh, sorry, Anzu. This was all prepared for me, yet I go and ruin that by not reading the mood…
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I won't forgive you.
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki %}
+              Guh…! I-I suppose you wouldn't forgive me so easily…
+
+              Nagumo lectured me to be more like an adult, too.
+
+              But when I told him I'll try harder, he said he'll cheer me on. Mhm, that boy's future really *is* promising…♪
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki %}
+              Uuu…!! If you start hating me Anzu, I'll be… I'll beeeeeeeeeeeee…!!!
+
+              …You didn't say you hate me?
+
+              Ha ha ha!! ☆ So that's how it is! Thank you, Anzu! I love you too!!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Please don't apologize.
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki %}
+              Hm? It's the usual for me to not read the mood?
+
+              Hrmm, I have mixed feelings about that. The truth is, Kiryu said something similar to me earlier…
+
+              I assume he meant it in a nice way, but somehow, I can't really be happy about it, I suppose…
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki %}
+              Hnnn… You'll forgive me?! Thank you, Anzu!
+
+              …Hmm? You can't breathe?
+
+              Woops! Sorry! I was overcome with emotion and hugged you way tighter than usual! Fuhahahaha! ☆
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+
+### <div mt="rare"></div> 3/3
+{% img /img/es/birthdaystory/es/chiaki/minitalk_3.jpg %}
+{% bubble Chiaki %}
+Bam! Are you alright, Anzu?! You're safe now that I, Ryusei Red, am here! ☆
+
+Ahaha, my bad my bad! Sengoku suggested that we play hero, and it was a lot of fun, so I can't quite get myself to turn back.
+
+Time just ends before you know it when you're having fun, huh?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Do you have time after this?
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki %}
+              Whaaat?! A-After this? W-w-w-wait, Anzu! I’m not mentally… prepared for th—
+
+              Hm? You're inviting me to stop by at a fast food restaurant with everyone?
+
+              Fuhaha! I see, I see! Of *course* that's what it was, right?! Aaalright, I'll treat you to french fries as thanks for today! ☆
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki %}
+              Hm? Akehoshi and Isara said that we should play basketball with everyone?
+
+              T-those guys, saying that… Even though they're the ones who always say they're too busy for club activities and barely come over for them… Especially Akehoshi.
+
+              Aaalrighty then! You're all going to be with me for the rest of the day! Let's shed the sweat of youth on our backs through the setting sun!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Are you feeling lonely?
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki %}
+              Ha ha ha! ♪ Don't say something Kanata would say, Anzu!
+
+              Yeah, he said that he'll celebrate my birthday next year as well, so I shouldn't worry!
+
+              He was saying it while doing his usual *puka puka* thing, so I'm not sure how serious he is, but… I was really happy he said that.
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki %}
+              Ahh, yeah… I'd be lying if I said I wasn't.
+
+              But a hero always looks on the bright side! I'm actually using this memory to fuel myself up…!
+
+              For the sake of protecting the peace of the world… and for everyone's smiles, I'll keep on burning my heart!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+
+## Birthday Story
+
+### Kanata
+
+{% bubble Kanata %}
+oh nooo~… someone please save me…♪
+
+ehehe. you came to my rescue, chiaki. thank you.
+
+yes, there are no problems here. i was simply doing an act.
+
+specifically, an action scene of coming to the rescue in a cool way, and saving the victim. that's my present to you.
+
+you're always so lively and energetic whenever you're being a hero, you see~…♪
+
+hehe, please keep being just like that, chiaki. *puka, puka*…♪
+{% endbubble %}
+
+### Tetora
+
+{% bubble Tetora %}
+Taichou, is it true that you made that sash before it was time for your birthday party?
+
+Oh jeez… I wish you'd think a little more about this, like, you have to be a little more mature when it comes to this, y'know? It'll give us problems otherwise.
+
+*Honestly*… I mean, we've celebrated everyone's birthday by now—did you *really* think we wouldn't celebrate yours?
+
+If that's what you really thought, then you definitely need to work on this.
+
+There's no way we wouldn't celebrate your birthday! You're our *leader*, so please keep that firmly in your mind!
+
+…Here I am lecturing you on your birthday of all days… Hehe… I'm sorry.
+
+Please let me say the most important thing, at least! Happy birthday, Taichou…♪
+{% endbubble %}
+
+### Midori
+
+{% bubble Midori %}
+Erm, Morisawa-senpai… Happy birthday…
+
+Heheh, isn't it so cute…? Mhm, I'm talking about the mascot pin I clipped on you…♪
+
+Umm… Why do you look so happy? I wasn't complimenting you, y'know…?
+
+Ughh… I should've never said "cute"… Actually, I shouldn't have given you that pin in the first place…
+
+Could you give it back? Immediately, please… Um, no, don't refuse my request so desperately…
+
+Huh…!? Its my present to you…? That wasn't at all why I gave it to you, though…?
+
+Ahh, dammit, this is so annoying… Fine, whatever. Feel free to make it your birthday present… So please just leave me alone already…
+{% endbubble %}
+
+### Shinobu
+
+{% bubble Shinobu %}
+Taichou-dono~! Happy birthday!
+
+With this, we've gone through every Ryuseitai member's birthday. It's just perfect that we end these celebrations with your birthday~♪
+
+Erm, when it was my birthday party, we had fun being ninjas for the day, yes?
+
+That made me extremely happy, and so… I would love to do something similar for your birthday, Taichou-dono.
+
+And so! We will now play a hero game with everyone in here~! ♪
+
+Hmhm. We have enough people to be the victims, the enemies, and the heroes.
+
+Yaaay! Taichou-dono looks completely up for it~! Okay then, let's commence immediately!
+{% endbubble %}
+
+### Subaru
+
+{% bubble Subaru %}
+Chi\~chan-senpai, happy birthday! I came here with Sarii~ to celebrate\~☆
+
+…Woah! I said I'm here to *celebrate*, not "get hugged by you"!
+
+Jeez. I can never let my guard down around you! It's still so hot, so why do you wanna hug me so much?
+
+Is it 'cause you're born in summer that you don't feel the heat as much? Actually, you're *exactly* the definition of "born in summer," don't you think?
+
+No, no! That wasn't me complimenting you, y'know!? Quit hugging me already~!
+
+Oh come *on*, Chi~chan-senpai! I'm here to celebrate your birthday, so sit down nice and quiet, and let me do it!
+{% endbubble %}
+
+### Mao
+
+{% bubble Mao %}
+Buchou, happy birthday~♪
+
+I think Anzu already invited you for it, but do you still have time after this?
+
+Would you like to go to a fast food restaurant with everyone? Subaru mentioned he wants to go home only after eating somewhere outside, so~♪
+
+It's my present for you, so I'll be the one paying!
+
+Uh-uh, I just *knew* you'd say you wanna pay. But I'm not backing down from my offer!
+
+Well, guess we've decided on the afterparty then\~♪ We can't have an exciting party without the lead role, 'kay\~?
+{% endbubble %}
+
+### Kuro
+
+{% bubble Kuro %}
+You look real excited, Morisawa. Are you that happy to play hero with so many people?
+
+I never thought I'd play pretend at a birthday party of someone my age… It'd make sense if it were my sister's, but this is somethin' alright…
+
+Actually, you sure it's okay for me to play the hero? I mean, I feel like it's more suitable for me to be the big bad boss, or somethin'…
+
+Ah, so I'd be *too* suited for that role and end up scaring the first years. Well, it's your birthday. I'll do it the way you like.
+
+We're all planning to be here with you the whole day, anyway.
+
+…Oh, I almost forgot to say somethin' important. Happy birthday, Morisawa♪
+{% endbubble %}
+
+### Madara
+
+{% bubble Madara %}
+Chiaki-saaaaaaaan! Are you enjoying this wonderful special daaaaaaaaaay~? ☆
+
+Though you showed up like that straaaight from the morning, so I'm sure you are. I mean, even *I* was dumbfounded!
+
+Izumi-san said he lost all will to celebrate, buuut he's just in a bad mood 'cause you ruined his plans, that's all.
+
+Truth is, he was planning to throw a cake at you as soooon as you came to class, but you showed up in that outfit, so it would've ruined it, yeah?
+
+Well, doesn't mean he's given up entiiirely, though. I think you're just about to get the splat…? Haha, nope, I didn't say anything! Hahahahaha! ☆
+{% endbubble %}
+
+## Birthday Cake
+
+**Shortcake (HAPPY)**
+{% img /img/es/birthdaystory/es/chiaki/shortcake.jpg %}
+{% bubble Chiaki %}
+sfsf
+{% endbubble %}
+
+**Fruit tart (GOOD)**
+{% img /img/es/birthdaystory/es/chiaki/fruittart.jpg %}
+{% bubble Chiaki %}
+sfsf
+{% endbubble %}
+
+**Chocolate Cake (OK)**
+{% img /img/es/birthdaystory/es/chiaki/chocolatecake.jpg %}
+{% bubble Chiaki %}
+fsfsf
+{% endbubble %}
+
+## Birthday Motion
+![](https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/Chiaki_Morisawa_Birthday_2018_Motion.gif)
+
+**Birthday Skill:** *Today is Chiaki's birthday. More passionately and energetically than anyone else, "I'll do my best today, too!!"*
+
+<div toc>{% btn /birthday_story,, star, Index %}{% btn /birthday_story/chiaki_es2,, arrow-right, ES!! Era Birthday %}</div>
