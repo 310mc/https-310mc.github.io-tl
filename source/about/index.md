@@ -2,33 +2,7 @@
 title: About
 description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
 ---
-<!--<style>
-@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
-.tab-content {
-    display: none;
-    padding: 10px;
-}
-.tab-header {
-    background: rgba(var(--storyColor-rgb), 0.1);
-    font-weight: 700;
-    border-radius: 5px;
-    cursor: pointer;
-    padding: 8px;
-    display: flex;
-    justify-content: space-between;
-}
-.tab-header:first-child:after {
-    content: '\e5cf';
-    display: inline-block;
-    font-family: 'Material Icons Round';
-    font-size: 1.5em;
-    line-height: 1;
-    transition: transform 0.4s ease;
-}
-.tab-header__open:first-child:after, .chapter-area>.mini-talk__open:after {
-    transform: rotate(180deg);
-}
-</style>-->
+
 ## Introduction
 {% img /img/banner/about.jpg %}
 
@@ -53,9 +27,9 @@ I'm most likely to translate the following content:
 
 ### Translation Status
 
-※ Upload [previously completed translations](/translations) to this site (In progress!)
+※ Upload [previously completed translations](/translations) to this site *(In progress!)*
 
-※ Translate [Submarine](/submarine) (In progress!)
+※ Translate [Submarine](/submarine) *(In progress!)*
 
 ※ Translate [Hot & Elegant Chocolat Fes](https://ensemble-stars.fandom.com/wiki/Hot_%26_Elegant_Chocolat_Fes)
 
@@ -98,3 +72,5 @@ Please feel free to let me know by DMing me on [twitter](https://twitter.com/310
 ## Credits
 
 HUGEST thank you to [Ren](https://watatomo.github.io/tl/) who customized this *ENTIRE* site's code to be used for Enstars translators. It's literally all thanks to him that I can make all the translations look pretty and exciting! Another thank you to [stars-ensemble](https://stars-ensemble.tumblr.com/) for guiding me with Github and helping me get used to the setup!
+
+Thank you to [gradualcolors](https://twitter.com/gradualcolors) for their game assets (such as chibis, cards, banners, etc.), and the Ensemble Stars Wiki for its screenshots and data!

@@ -537,7 +537,7 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 {% endnote %}
 
 {% bubble Yuzuru young %}
-<th>(…</th>
+<th>(………</th>
 
 <th>Ah… This place is soaked with the scent of gunpowder.</th>
 

@@ -444,7 +444,21 @@ Truth is, he was planning to throw a cake at you as soooon as you came to class,
 Well, doesn't mean he's given up entiiirely, though. I think you're just about to get the splat…? Haha, nope, I didn't say anything! Hahahahaha! ☆
 {% endbubble %}
 
+## Birthday Present
+
+{% img /img/es/birthdaystory/es/chiaki/bdaypresent.jpg %}
+
+*When gifting Chiaki a flower box…*
+
+{% bubble Chiaki %}
+Ohhh, a present from you, Anzu!? I'm so happy, thank you! Let me hug you to show my gratitude~☆
+
+Hmm!? No need to hold back, y'know! Oh well. I'll place this flower box somewhere nice and safe alongside my tokusatsu merchandise the moment I return home! ♪
+{% endbubble %}
+
 ## Birthday Cake
+
+{% img /img/es/birthdaystory/es/chiaki/bdaycake.jpg %}
 
 **Shortcake (HAPPY)**
 <!--{% img /img/es/birthdaystory/es/chiaki/shortcake.jpg %}-->
@@ -452,7 +466,7 @@ Well, doesn't mean he's given up entiiirely, though. I think you're just about t
 The passionate red! The flames of red! I really can't help but be drawn to the red color! Burning bright red, it’s the strawberry of life…! ☆
 {% endbubble %}
 
-**Fruit tart (GOOD)**
+**Fruit Tart (GOOD)**
 <!--{% img /img/es/birthdaystory/es/chiaki/fruittart.jpg %}-->
 {% bubble Chiaki %}
 Are you eating some as well, Anzu? Today’s my birthday, and so! I want you to have fun and enjoy yourself, too!
