@@ -1,15 +1,22 @@
 ---
 title: "[ES!] Chiaki Morisawa Birthday"
-date: 2021/11/18 21:00:00
+date: 2021/11/20 22:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]
+- [Enstars, Kanata]
+- [Enstars, Tetora]
+- [Enstars, Shinobu]
+- [Enstars, Midori]
+- [Enstars, Kuro]
+- [Enstars, Madara]
+- [Enstars, Subaru]
+- [Enstars, Mao]
 tags:
 - Mini Talk
 - Birthday Story
 - Happy Elements K.K
 description: "[ES!] Chiaki's birthday content from Enstars! Era."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -60,8 +67,6 @@ hidden: true
 
 <!-- more -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.3.0/mashiro.min.css">
-
 ## Birthday Quote
 
 **2016**
@@ -91,7 +96,7 @@ Uu… Uuu… *<th>(sobs)</th>* To think that this many people would celebrate my
 
 ## Birthday Course
 
-### <div mt="rare"></div> 1/3
+#### <div mt="rare"></div> 1/3
 {% img /img/es/birthdaystory/es/chiaki/minitalk_1.jpg %}
 {% bubble Chiaki %}
 The red flames are the mark of justice! Burning bright red, the sun of life!
@@ -164,7 +169,7 @@ Ha ha ha!! ☆ How's that?! Did I surprise you, Anzu?!
     </div>
 </div>
 
-### <div mt="rare"></div> 2/3
+#### <div mt="rare"></div> 2/3
 {% img /img/es/birthdaystory/es/chiaki/minitalk_2.jpg %}
 {% bubble Chiaki %}
 Aaaalright everyone! Pull yourselves together! Let's do this again!
@@ -235,8 +240,7 @@ Yeah uh, sorry, Anzu. This was all prepared for me, yet I go and ruin that by no
     </div>
 </div>
 
-### <div mt="rare"></div> 3/3
-{% img /img/es/birthdaystory/es/chiaki/minitalk_3.jpg %}
+#### <div mt="rare"></div> 3/3
 {% bubble Chiaki %}
 Bam! Are you alright, Anzu?! You're safe now that I, Ryusei Red, am here! ☆
 
@@ -423,13 +427,13 @@ Ah, so I'd be *too* suited for that role and end up scaring the first years. Wel
 
 We're all planning to be here with you the whole day, anyway.
 
-…Oh, I almost forgot to say somethin' important. Happy birthday, Morisawa♪
+…Oh, I almost forgot to say somethin' important. Happy birthday, Morisawa~♪
 {% endbubble %}
 
 ### Madara
 
 {% bubble Madara %}
-Chiaki-saaaaaaaan! Are you enjoying this wonderful special daaaaaaaaaay~? ☆
+Chiaki-saaaaaaaan! Are you enjoying this wonderful special daaaaaaaay~? ☆
 
 Though you showed up like that straaaight from the morning, so I'm sure you are. I mean, even *I* was dumbfounded!
 
@@ -443,21 +447,21 @@ Well, doesn't mean he's given up entiiirely, though. I think you're just about t
 ## Birthday Cake
 
 **Shortcake (HAPPY)**
-{% img /img/es/birthdaystory/es/chiaki/shortcake.jpg %}
+<!--{% img /img/es/birthdaystory/es/chiaki/shortcake.jpg %}-->
 {% bubble Chiaki %}
-sfsf
+The passionate red! The flames of red! I really can't help but be drawn to the red color! Burning bright red, it’s the strawberry of life…! ☆
 {% endbubble %}
 
 **Fruit tart (GOOD)**
-{% img /img/es/birthdaystory/es/chiaki/fruittart.jpg %}
+<!--{% img /img/es/birthdaystory/es/chiaki/fruittart.jpg %}-->
 {% bubble Chiaki %}
-sfsf
+Are you eating some as well, Anzu? Today’s my birthday, and so! I want you to have fun and enjoy yourself, too!
 {% endbubble %}
 
 **Chocolate Cake (OK)**
-{% img /img/es/birthdaystory/es/chiaki/chocolatecake.jpg %}
-{% bubble Chiaki %}
-fsfsf
+<!--{% img /img/es/birthdaystory/es/chiaki/chocolatecake.jpg %}-->
+{% bubble Chiaki worried %}
+S-So we’re having chocolate cake this time, okay… Alright, I can still fight some more! You prepared this just for me, so I’ll make sure to eat it all~…
 {% endbubble %}
 
 ## Birthday Motion

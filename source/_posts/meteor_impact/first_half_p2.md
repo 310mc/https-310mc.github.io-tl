@@ -57,7 +57,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Translation-Notes">Translation Notes</a>
@@ -707,7 +706,7 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no—i am a God,
 **Time:** One week later, after classes
 {% endnote %}
 
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 <th>(How incorrigible.)</th>
 
 <th>(This is not what I had anticipated… Not a single step of progress has been made… It makes me want to cling to the guidance of the Buddha. But as someone who has come down from the mountains, I should not expect divine protection.)</th>
@@ -740,7 +739,7 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no—i am a God,
 Hasumi-kun!
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 ? What is it, erm…?
 
 {% endbubble %}
@@ -748,7 +747,7 @@ Hasumi-kun!
 I’m Morisawa, from the same class as you. Here, I brought the signatures you asked for.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Signatures… Oh, I did ask you for those.
 
 {% endbubble %}
@@ -764,7 +763,7 @@ A signature is a signature. It won’t be completely useless to you, I hope.
 Here. Please accept them.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Ahh… Thank you, this is tremendously helpful.
 
 You’re right, this is a lot of signatures. I’m grateful; we’ve gotten much closer to establishing the Student Council now.
@@ -774,7 +773,7 @@ You’re right, this is a lot of signatures. I’m grateful; we’ve gotten much
 Is that so. Mhm, well then, I’m glad I was helpful.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Indeed. Truthfully, I wasn’t expecting much from you[^13], but—
 
 {% endbubble %}
@@ -782,7 +781,7 @@ Indeed. Truthfully, I wasn’t expecting much from you[^13], but—
 …“You”*?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Ah, erm… I didn’t have very high expectations of you—I had forgotten that I’d even asked for help, since I’ve been asking almost everyone around.
 
 {% endbubble %}
@@ -790,7 +789,7 @@ Ah, erm… I didn’t have very high expectations of you—I had forgotten that 
 I’m not surprised. Hehe, you were just asking around shamelessly.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hmph. That’s what we need to do—otherwise, ordinary people like us can’t change a thing.
 
 …Oh. That was rude of me to lump you in as “us.” I apologize.
@@ -800,7 +799,7 @@ Hmph. That’s what we need to do—otherwise, ordinary people like us can’t c
 No, I think you’re right. This world is probably run by a small, limited number of geniuses.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 No. I think it looks that way, and that might be the case, but… I don’t want it to be.
 
 When I was young, I thought I was a special being. But there is always someone better. I must be ordinary, but… I refuse to spend my life looking down because of that.
@@ -814,7 +813,7 @@ Of course. I’m cheering you on. I hope you manage to establish the Student Cou
 … Whoops. I actually snuck out of a practice session, so I need to head back now. I saw you from the window, Hasumi-kun, so I rushed down here.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hmph. Sorry for taking up your time. But you could’ve just talked to me in the classroom, since we’re in the same class; there was no need to do it now.
 
 {% endbubble %}
@@ -828,7 +827,7 @@ He he he… Lately everyone in Ryuseitai has been getting serious, you see—we�
 That means we have much more work to do, and I’m absolutely exhausted by the end of the day, but… I feel fulfilled. Ahhh, if only these days would continue forever.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hm. Things really do change, huh. I was under the impression that Ryuseitai was a hang-out for slackers.
 
 {% endbubble %}
@@ -848,7 +847,7 @@ That’s what I believe.
 Well then, Hasumi-kun. See you tomorrow at school.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Yes… See you tomorrow.
 
 <th>(… He’s an idiot.)</th>

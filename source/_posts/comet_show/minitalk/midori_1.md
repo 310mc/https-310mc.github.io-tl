@@ -48,8 +48,6 @@ description: "[ES!!] Midori's first Mini Talk from Comet Show. From Anzu's POV."
 
 <!-- more -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/enstars/mashiro@1.3.0/mashiro.min.css">
-
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori1_1.jpg %}
 {% bubble Midori %}

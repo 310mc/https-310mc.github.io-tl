@@ -56,8 +56,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <!-- more -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
-
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
@@ -1112,7 +1110,7 @@ If I let that happen again… I’ll really have had no reason to ever been born
 <th>(That’s what I believe. That’s what I want to believe—that even I can make a change.)</th>
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hey.
 
 You there… I mean, excuse me, could we speak?[^10]
@@ -1122,7 +1120,7 @@ You there… I mean, excuse me, could we speak?[^10]
 Eep!? Wh-what is it… um, class rep?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hasumi. But if you want to call me “class rep,” that’s fine. I am the class representative, after all.
 
 And because nobody else wants to take on the responsibility, I’m head of the library committee as well.
@@ -1132,7 +1130,7 @@ And because nobody else wants to take on the responsibility, I’m head of the l
 I-I see… Um, that must be a lot of work.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Not really. Taking on such titles means that I receive that much authority as well.
 
 Well, I also take on the responsibilities as well, but I accept that as something like a necessary expense.
@@ -1142,7 +1140,7 @@ Well, I also take on the responsibilities as well, but I accept that as somethin
 <th>(He has a long-winded manner of speaking. Hasumi-kun… I’d never spoken to him until now, so I didn’t know this, but he’s as straight-laced as he looks.)</th>
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 ? What are you scrutinizing me for… Is it my glasses?
 
 {% endbubble %}
@@ -1150,7 +1148,7 @@ Well, I also take on the responsibilities as well, but I accept that as somethin
 Eh? No, sorry! Was I being rude?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hmph. …Your glasses are rather nice as well. Where did you get them?
 
 {% endbubble %}
@@ -1162,7 +1160,7 @@ My eyesight isn’t that bad, but I got these when my dad got a pair. He said th
 I gave my dad a lot of trouble with my tuition, so I thought it would be good if I could help him save up.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I see. Well, glasses get quite expensive if you want to purchase good ones.
 
 They say you get what you pay for, but lately even the stores for middle-class customers sell higher quality glasses, perhaps because they manage to save on material costs through mass production.
@@ -1176,7 +1174,7 @@ That’s capitalism. Companies compete through pricing and the like, and ultimat
 Okay… Um, so what is it, really? Did you want to talk about glasses that badly?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 No. I want to talk to you about something else. You, sign this… I mean, I would like you to sign this.
 
 {% endbubble %}
@@ -1184,7 +1182,7 @@ No. I want to talk to you about something else. You, sign this… I mean, I woul
 Sign?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Yes. I’m actually thinking of establishing a Student Council.
 
 {% endbubble %}
@@ -1192,7 +1190,7 @@ Yes. I’m actually thinking of establishing a Student Council.
 A Student Council…? Wait, Yumenosaki didn’t have one? Don’t schools usually have one?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Indeed. There seems to have existed one in the distant past, but at one point no one had inherited the position, and it eventually disappeared….
 
 And then it was kept in this strange limbo of whether or not it actually existed for the longest time.
@@ -1212,7 +1210,7 @@ I want to prove that we have obtained the approval of the students—that the st
 Hehe. I see that you’re a serious guy, Hasumi-kun. I don’t dislike it.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 That is my strength. In any case, the Student Council is an organization that supports students—just as the name suggests. It should be helpful without getting in the way.
 
 So if you could, I’d like you to sign this, saying… “I support establishing a Student Council.”
@@ -1230,7 +1228,7 @@ If possible, I want to stay equals with him. Being indebted to him forever… Ju
 ? What are you talking about?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Nothing. It’s just about my situation. So… will you sign, or will you not?
 
 {% endbubble %}
@@ -1238,7 +1236,7 @@ Nothing. It’s just about my situation. So… will you sign, or will you not?
 Ah, right. If that’s the case, I’ll gladly sign. I can even ask around and help you gather more signatures, too.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hm. That would be helpful. You don’t seem like the kind of person who has many friends, so I won’t expect much, but… I appreciate it.
 
 {% endbubble %}
@@ -1246,7 +1244,7 @@ Hm. That would be helpful. You don’t seem like the kind of person who has many
 We should help each other out during times of need, y’know. I hope you manage to establish the Student Council.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Thank you. Well, I have no idea how this will go, but I plan to do my best.
 
 Please lend me your support for my dream. If even just one person sympathizes with my cause and is willing to support me… I can continue to fight.

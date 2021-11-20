@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Gang"
-date: 2021-11-17 15:00:00
+date: 2018-4-14 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Yuzuru]

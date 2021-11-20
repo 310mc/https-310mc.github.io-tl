@@ -63,6 +63,9 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 
 <!-- more -->
 
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Translation-Notes">Translation Notes</a>
+
 ## Chapter 3
 
 {% note cw %}
@@ -86,7 +89,7 @@ You can’t allow such evil to take control of you! You all need to stop fightin
 
 Why do you think we have a mouth to speak, a heart to feel, and words to express ourselves with? It’s so you can talk it out with your foe and get along with one another!
 {% endbubble %}
-
+{% img /img/es/eventstory/submarine/p1ch3_1.jpg %}
 {% bubble Keito %}
 Morisawa.
 {% endbubble %}
@@ -166,8 +169,8 @@ But considerin’ we accepted their challenge and all, I’m basically onstage r
 
 I can’t be lookin’ all pathetic in front of all these other people, so I’m pushin’ myself through this as much as I can.
 {% endbubble %}
-
-{% bubble Souma %}
+{% img /img/es/eventstory/submarine/p1ch3_2.jpg %}
+{% bubble Souma v3 %}
 Haha, Hasumi-dono and I alone were sufficient enough to rout such miniscule foes.
 {% endbubble %}
 
@@ -175,13 +178,13 @@ Haha, Hasumi-dono and I alone were sufficient enough to rout such miniscule foes
 Yeah, we would have taken their challenge and won it just fine even if Kiryu weren’t here. Need I remind you that we’re none other than Akatsuki?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 That’s pretty terrifying… I thought you guys were more obedient lately, but you really are a combative group…
 
 W-Well, either way! You need to know what’s going on, right? You’re probably tired from your long trip, so let’s head over to the ryokan ES booked—
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Hmm… Does this perchance mean that you have come to collect us? I understand well now—I could not deduce the purpose behind your actions at first, due to your verbose manner of speaking.
 {% endbubble %}
 
@@ -207,7 +210,7 @@ I’ll try searching for something on my phone. Nagumo has been itching to see y
 Haha… I don’t really want Tetsu seein’ this side of me.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 <th>(Hrm… Though I am not quite clear on what is happening, it appears that we have solved this matter without any problems.)</th>
 
 <th>(However… Who *were* those *“ai-dols”* that tried to assault us? Their bloodthirsty presence reminded me of *that* “evil,” but—)</th>
@@ -233,7 +236,7 @@ Taishou~!! Hasumi-senpai, Kanzaki-senpai! You must’ve had a long trip, so plea
 I’m so sorry that we couldn’t come see you! We didn’t have any time to spare ‘cuz we’ve been fighting with the local idols day in and out—
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Actually, it’s the ES idols that have been the biggest pain… They keep harassing us over the simplest things…
 
 But I doubt the Akatsuki members would do anything lame like that, so we should be able to take it easy, hopefully…
@@ -245,7 +248,7 @@ It doesn’t feel right to call it harassment, in my opinion. I feel as though i
 
 {% img /img/es/eventstory/submarine/p1ch4_1.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori awkward %}
 Your soul is so pure, Shinobu-kun… I hope you stay that way forever…
 {% endbubble %}
 
@@ -261,13 +264,13 @@ Heh! And I happen to be the strongest ninja in the idol industry…☆
 Haha, you Ryuseitai kiddos are as energetic as ever, huh?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 That’s my only strong point, after all! I got bucket loads of energy in me~!
 
 <th>*(Whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 <th>*(Whispering)*</th> It’s better this way, now we can relax, at least… I don’t wanna work hard…
 {% endbubble %}
 
@@ -275,15 +278,15 @@ That’s my only strong point, after all! I got bucket loads of energy in me~!
 ? What are you two whispering to each other about? Let me take part, too!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Nu-uh… I refuse to let anything corrupt you… I’ll be the one to protect you, Shinobu-kun…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Why have you been acting so odd lately, Midori-kun!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 hello, everyone\~! the food is ready, so please be behave and take a seat\~
 {% endbubble %}
 
@@ -291,7 +294,7 @@ hello, everyone\~! the food is ready, so please be behave and take a seat\~
 Mhm! You’re free to chat while you eat, but don’t move around too much! We can’t have any dirt falling into our food!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Why’re you seniors serving the table, even though we’re the ones who should be doing that?
 {% endbubble %}
 
@@ -303,7 +306,7 @@ Actually, why are you two the ones bringing the food in the first place, instead
 No, not at all, I don’t even know this place! I just heard the owner is an old man with a strained back, so we figured it’s best if we carry the food over by ourselves!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 yes, and since there are many people at this table, it would’ve been difficult for one person to carry everything.
 {% endbubble %}
 
@@ -319,7 +322,7 @@ Ahaha, nothing’ll change by sulking, that’s all.
 ………
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 alright, okaaay~ time to set up the table. temple guy, you can’t eat meat or fish, right? this salad is for you~♪
 {% endbubble %}
 
@@ -327,21 +330,21 @@ alright, okaaay~ time to set up the table. temple guy, you can’t eat meat or f
 My family isn’t that strict, actually. But sea grapes make me feel like we’re really in Okinawa, so I’m sort of happy to have some.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Ah, Shinkai-dono—My deepest apologies, but I cannot eat fish.
 {% endbubble %}
 
 {% img /img/es/eventstory/submarine/p1ch4_2.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ……!?
 {% endbubble %}
 
-{% bubble Souma %}
-Wha—!? W-Why do you look like a mother who has lost her beloved child…!?
+{% bubble Souma v3 %}
+Wha—!? W-Why do you look like a mother who has lost her beloved child…?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 souma…? what did you just say…?
 
 you can’t eat fish? i don’t understand! you’re not the souma i know! you must be an imposter…!
@@ -351,7 +354,7 @@ you can’t eat fish? i don’t understand! you’re not the souma i know! you m
 Hehe, characters switching places and hero imposters are mostly just common tropes in tokusatsu, though.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 you, temple guy! you converted our souma to your religion, didn’t you?
 
 you gave him a taste of delicious veggies, until his body could no longer stand the taste of fish…!
@@ -361,17 +364,17 @@ you gave him a taste of delicious veggies, until his body could no longer stand 
 Don’t throw the blame on me.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma worried %}
 Um, this has naught to do with Hasumi-dono, but rather, erm, that I—
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 you’re not the same anymore, are you… i’m so sad…
 
 okinawa is a place brimming with seafood, so i was really looking forward to talking to you about all kinds of fish…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma worried %}
 Ahh, please do not make such a somber face! This is simply an unavoidable matter—I assure you that I have not grown to hate fish…!!
 {% endbubble %}
 
@@ -403,7 +406,7 @@ I don’t mind. Morisawa has a tendency to see everything in a good light far mo
 Compared to him, for this reason you’re much better at explaining things than he is.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 Ahaha… To be honest, I still freeze up a li’l when I’m talking to you, Hasumi-senpai. I always get reminded of the time I was rejected from Akatsuki…
 
 But well, the only reason I’m the one explaining things right now is ‘cuz Morisawa-senpai is helping Taishou get back to the ryokan, since he wasn’t feeling well.
@@ -413,7 +416,7 @@ But well, the only reason I’m the one explaining things right now is ‘cuz Mo
 Like I said, I don’t mind that. I’m tired enough as it is, Morisawa would only tire me further.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 hrmph… you sure do treat chiaki harshly, temple guy.
 {% endbubble %}
 
@@ -485,7 +488,7 @@ Do you have a problem with that?
 Ah, no… But the more I talk to you, the more I realize you’re someone I could get along with!
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Haha, I would more say it is you who is affable no matter who you speak to, Sengoku.
 
 Although, Ryuseitai is predominantly more soft-hearted compared to Akatsuki—In other words, it feels relaxing to intermingle with you. I believe that your group is remarkably unsuitable for such a ferocious atmosphere.
@@ -499,13 +502,13 @@ But Morisaw—<em>Taichou</em> doesn't like seeing people crush each other, so h
 He’s the current leader of Ryuseitai, so we’ve been basically running around with him and telling everyone to stop fighting.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Hmm, that is just like Morisawa-dono. He is always working hard to fulfill his duty for the sake of maintaining peace.
 
 He is an honorable man who loves peace and cherishes people. You have truly been blessed with good predecessors, Sengoku, Nagumo.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 ………
 {% endbubble %}
 
@@ -515,23 +518,23 @@ He is an honorable man who loves peace and cherishes people. You have truly been
 <th>(Well, to be fair, I’ve barely talked to Kanzaki-senpai before, so I would’ve been more confused if he *<em>did</em>* speak to me like we’re friends, but still…)</th>
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 midori? is something the matter? if you’re still hungry, would you like to eat the fish that was meant for that traitor souma, since he didn’t bother to finish his plate?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori awkward %}
 No, I’m good… I only get bigger with every bite I take… and I don’t really like the sight of a dead fish’s eyes…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 i knew you’d say that, so i’ve prepared sliced up sashimi as an alternative~♪
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma worried %}
 Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter—I swear to you that my heart has always been one with the Marine Biology Club!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 hmph, you can’t fool me with flattery…
 {% endbubble %}
 
@@ -540,24 +543,24 @@ I always think this, but Shinkai really is harsh to specifically only Kanzaki, i
 {% endbubble %}
 
 {% bubble Shinobu %}
-Shinkai-dono is always kind to us, though~!
+Shinkai-dono is always kind to us, though…?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufufu, that’s because everyone in ryuseitai are good kids~♪
 
 …you’re always being such good kids, but still don’t get rewarded with anything… it’s such a pity.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Ahhh! Do not let such frustration build up inside of you, Shinkai-dono! Here, eat the seafood I cannot consume!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 the one who’s stressing me out the most is you, souma. you traitor… you deserve death for your treachery…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma worried %}
 Uuu, I assure you that it is not what you think it is, Shinkai-dono! I… I simply…!?
 {% endbubble %}
 
@@ -565,7 +568,7 @@ Uuu, I assure you that it is not what you think it is, Shinkai-dono! I… I simp
 …Quit bullying our kid so much, Shinkai.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 i’m not bullying anyone~ heroes never do that.
 {% endbubble %}
 

@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Biblio"
-date: 2021-11-18 18:00:00
+date: 2017-6-14 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tsumugi]

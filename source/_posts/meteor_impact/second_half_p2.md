@@ -61,7 +61,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Chapter-18">Ch 18</a> - <a href="#Chapter-19">Ch 19</a> - <a href="#Chapter-20">Ch 20</a> - <a href="#Chapter-21">Ch 21</a> - <a href="#Chapter-22">Ch 22</a> - <a href="#Chapter-23">Ch 23</a> - <a href="#Chapter-24">Ch 24</a> - <a href="#Chapter-25">Ch 25</a> - <a href="#Chapter-26">Ch 26</a> - <a href="#Translation-Notes">Translation Notes</a>
@@ -86,7 +85,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Right. Allow me to recap our current situation, as well as explain our plan from here on.
 
 A few days ago, Valkyrie — The stagnant powerhouse regarded as the number one unit in the entire academy — was defeated by our fellow unit *fine*.
@@ -106,7 +105,7 @@ The Five Eccentrics are the evil that must be exterminated — And we, the Stude
 That is the tale we’ll be writing. The real truth doesn’t matter.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch13_1.jpg %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 “The Five Eccentrics are to blame for why us normal students suffer misfortune and unfulfilling lives.”
 
 “Thus we, the student body, will join forces and eradicate the root of evil.”
@@ -130,7 +129,7 @@ The faster we finish the job, the better. Any second longer, and everyone will d
 We’ll strike swiftly and precisely.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch13_2.jpg %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 However, I doubt we’ll have an easy time from hereon. We were able to lead Valkyrie into a trap, and defeat them with a surprise attack—
 
 But there were only three people in that unit, and they were in their own closed world. That was why it was possible to annihilate them in one blow.
@@ -182,7 +181,7 @@ I know the DEADMANZ live feels like it happened long ago, but you can’t tell m
 He turned everythin’ around at the very moment you thought you won, and you lost to him so badly that it almost made you cry— remember?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 It did *not*. However, I simply don’t see a single chance of winning against Sakuma Rei at the moment.
 
 I can’t shake off the doubt in my heart — That all my planning and preparation would simply go to waste, just like how it did in my miserable defeat at the DEADMANZ live—
@@ -204,7 +203,7 @@ In fact, it *must* be us who eradicate Shinkai Kanata.
 … What d’you mean?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 You don’t know? Shinkai Kanata of the Five Eccentrics, as well as the Yaobikuni group of his, are a religious force.
 
 They are bound together by a faith that we cannot grasp, nor have any sight of.
@@ -226,7 +225,7 @@ Therefore, it must be us to do it. Akatsuki is in charge of the dirty work.
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch14.jpg %}
 
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Religious faith has no shape or form — That’s exactly why we can’t use realistic measures to compensate for it with something like money.
 
 Eichi is the son of the Tenshouin Zaibatsu[^15], and so, he’s extremely capable with such pragmatic situations—
@@ -242,7 +241,7 @@ Just watch. No—Follow after me without a word, and I’ll tell you all about m
 H-Hold on a moment, Hasumi-dono!
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … What is it, Kanzaki. You were listening to me without uttering a word, so I assumed it meant you had nothing to say on the matter.
 
 Is there something you wanted to bring up? Or actually, let me be blunt: is there a *problem* with what I'm saying?
@@ -260,7 +259,7 @@ I will do anything for you. I would not even object to tainting my hands with bl
 That is what it means to show loyalty—to be of service to someone. That is the discipline I have been raised with. Once you have ascertained your lord, then you mustn’t oppose them—
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Oh? Well, this is a surprise. You really are quite the actor, Kanzaki.
 
 {% endbubble %}
@@ -268,7 +267,7 @@ Oh? Well, this is a surprise. You really are quite the actor, Kanzaki.
 …? *<th>(surprised look)</th>*
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 You almost had me fooled. How brilliant — Allow me to compliment your skills.
 
 To think all that anachronistic talk you speak was nothing but empty words — a means to achieve your true goal.
@@ -292,7 +291,7 @@ It’s just like measles — You simply have one of those illnesses[^16] one suf
 N-No…! I was never trying to decieve you! I have always felt this way from the bottom of my—
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Shut up, you traitor!
 
 {% endbubble %}
@@ -300,7 +299,7 @@ Shut up, you traitor!
 —!?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … Did you really think I didn’t know a single thing?
 
 Did you really think I was *that* stupid? You must think so lightly of me, it honestly makes me sad… Hmm, Kanzaki?
@@ -315,7 +314,7 @@ You fabricated your report on the Yaobikuni, didn’t you?
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 You asked me to leave it to you, so I complied. And yet, this is how you repay me, Kanzaki.
 
 Your report was well-written, but nobody could ever fool me *or* the King of Hell.[^17]
@@ -337,7 +336,7 @@ That’s why you attempted to protect the Living God Shinkai Kanata, so that no 
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I won’t think of this as you biting at the hand that feeds you. Obviously you, a worshipper, would try to protect your God.
 
 To you, that is simply the most natural thing to do—it’s common sense to you. You probably didn’t even consider that it would be a crime to deceive me in this way.
@@ -359,7 +358,7 @@ But you didn’t notice that, because you let your guard down after thinking you
 …? *<th>(surprised look)</th>*
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I’ve already come in contact with Shinkai Kanata in secret. It was one of the first steps I took.
 
 And, like a machine made to perform only one function, he asked me for my wish—
@@ -386,7 +385,7 @@ This is where you came in handy.
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Kanzaki. You acted as a person of virtue, aiding Shinkai in his daily duties perfectly.
 
 Many people caught sight of you going there and back from visiting him.
@@ -401,7 +400,7 @@ And you’re a member of Akatsuki, the Student Council force. We heavily emphasi
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 But the truth is far different. As *if* I’d appoint a traitor with anything. You’re nothing but a disposable pawn to me.
 
 Thus, we displayed to the public that you were not only a member of the Student Council force, but also connected to the Living God Shinkai.
@@ -428,7 +427,7 @@ Soon, they’ll think to themselves, perhaps the one saving them wasn’t Shinka
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch15.jpg %}
 
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Hey, Kanzaki. You went quiet — Are you alright? Can’t you at least respond? Or is it difficult for a samurai like yourself to speak in our modern language?
 
 {% endbubble %}
@@ -436,7 +435,7 @@ Hey, Kanzaki. You went quiet — Are you alright? Can’t you at least respond? 
 ……
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Tell me, what year are we in? We’re in the twenty-first century already. Surely you can think scientifically on your own if you’ve taken the mandatory education.
 
 No one would ever believe that God and ghosts exist. At least, society wouldn’t.
@@ -476,7 +475,7 @@ There is a reason why we have kept the faith going for so long — why we need G
 This is territory humans mustn't interfere with!
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I expected you to react that way, you primitive fool… I *just* said that I researched all about the traditions of this land, did I not? I know about everything.
 
 Let me ask you this instead: You’re a highschooler by now; do you *really* still believe in that fairytale?
@@ -494,7 +493,7 @@ It is impossible for someone to become a God in His stead, is it not!?
 It is precisely *because* Shinkai-dono is our God that wishes were granted! For He has worshippers who serve Him! And you dare insinuate that the Student Council is capable of such feats?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Well, we’ll only make it *look* like we can. Although, I doubt we’ll be carrying that facade for very long… We only need to make the public daydream until we’ve accomplished our revolution.
 
 They’re meek beings clinging onto God, they won’t be of use to us any other way.
@@ -508,7 +507,7 @@ I only need to throw you away now that I’ve made use of you as much as I could
 I… Hasumi-dono, for you, I wou—
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 What do you think you’re doing? I’ve no interest in keeping useless ornaments in my room.
 
 I have work to discuss here. Children who believe in fairytales should leave the room at once.
@@ -524,7 +523,7 @@ Kanzaki, don’t you *dare* show your face to me ever again. I’m through with 
 …… *<th>(sobs)</th>*
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 ……
 
 … *<th>(exhales)</th>,* he’s gone.
@@ -534,7 +533,7 @@ Kanzaki, don’t you *dare* show your face to me ever again. I’m through with 
 Haha, poor him. He was basically in tears.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … I had to. Boys only grow stronger with every tear they shed.
 
 {% endbubble %}
@@ -542,7 +541,7 @@ Haha, poor him. He was basically in tears.
 Oh? Are you gonna say you’re tryin’ to hone him?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Of course not. This is just my own selfish ego — You could say it’s the same as a parent who insists abuse is a means of discipline.
 
 {% endbubble %}
@@ -550,7 +549,7 @@ Of course not. This is just my own selfish ego — You could say it’s the same
 Haha, woah. You’re pretty dark, aintcha, daddy-o.[^19]
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Stick to one name already. No, nevermind, there won’t be any need to… I don’t mind if this was the last straw for you — You’re free to never show yourself here ever again.
 
 I laughed it off a second ago, but the truth is — the tradition within this land is terrifyingly rooted deep beyond measure.
@@ -562,7 +561,7 @@ I honestly can’t predict how the worshippers would react were we to interfere 
 Is that why you drove out Kanzaki? ‘Cause he’ll be safe from whatever could happen if you make him have no relation to us?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 That, too. But in reality, his hands are still clean.
 
 From here onwards… No, from the very moment we began our revolution by defeating Valkyrie, we have entered a reign in which nothing can be settled with kind behavior.
@@ -580,7 +579,7 @@ Oh, shut up. I’ve been dyed black throughout my whole body since long back, ai
 There’s no turnin’ back for me.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … I see. That will be a huge help, I won’t deny. I tried to act tough earlier, but I’m aware that I can barely do anything on my own.
 
 I’m still on my way there… No, everything has only just begun.
@@ -2117,7 +2116,7 @@ Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor*
 ## Chapter 24
 {% img /img/es/eventstory/meteorimpact/secondhalfch24.jpg %}
 
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Your dream is to become a hero… right?”
 
 {% endbubble %}
@@ -2129,7 +2128,7 @@ Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor*
 huh? was that mikejima’s Voice just now? or was it my imagination?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Hahaha! My oh my, don’t be so surprised! It’s not just your imagination, it’s your Mamaaaaaaa!! ☆”
 
 “How absolutely joyous! You’ve been calling me a rogue for a while, but now you’re calling me by my name again!? I’m so happy, Kanata-san!
@@ -2143,7 +2142,7 @@ huh? was that mikejima’s Voice just now? or was it my imagination?
 u-ummm? where? show Yourself, manservant!
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “I’m not a manservant! I’m repeating myself, but — I’m your friend! Or, really, I’m your Mamaaaaa!”
 
 “Wait— But we’ll be family if I become your Mama, so wouldn’t that mean we won’t be friends? I’m contradicting myself!”
@@ -2153,7 +2152,7 @@ u-ummm? where? show Yourself, manservant!
 Ahhh! Look over there, Shinkai-kun! There’s something rising up from the ocean! It looks huge… Wait-- Is it a monster!?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Nah, it’s not! It’s a drone that I dropped in the ocean to make it look like a meteorite.”
 
 “Mama made every single part of it all by himself! My recipe is a secret! It’s waterproof, and to some extent, I can control it remotely from far away!”
@@ -2163,7 +2162,7 @@ Ahhh! Look over there, Shinkai-kun! There’s something rising up from the ocean
 Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it safe to get close to it? It won’t explode, right!?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Don’t worry, don’t worry, it won’t. Probably. Don’t be so alarmed, please come closer… You guys are a little too far away, and I can’t see you very well.”
 
 “I do have a camera set up inside the drone, but—”
@@ -2199,7 +2198,7 @@ acting so high and mighty for something as Simple as this… also, we are not Fr
 … you, too. when did *you* ever become my Friend, *rogue*?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Hahaha… I was *always* trying to be that for you, though…?”
 
 “You’re so strict towards me and only me, Kanata-san… Now that you've finally started thinking for yourself, are you going through your rebellious phase?”
@@ -2219,7 +2218,7 @@ no… for some reason, i am told to never Come into contact with mikejima, so…
 it has been a While since i Heard from him, or even his voice.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep! I’m so sorry for making you feel lonely, Kanata-san!”
 
 “Ahhh, I wanna hug you so bad! I’ll at least blow kisses at you so a little bit of my love reaches you! Kiss, kiss☆”
@@ -2235,7 +2234,7 @@ Hm. So, Mikejima-san? Your… real self… is still overseas?
 I can see you through the screen attached to the drone, but where is that place…? A warehouse…?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep! I’m using a network to call you guys! I’m in Rio de Janeiro right now!”
 
 “Hahaha! ‘Ri-o-de-Ja-ne-i-ro’ sounds like a Japanese word that comes from an alternate universe!”
@@ -2245,7 +2244,7 @@ I can see you through the screen attached to the drone, but where is that place�
 Why are you in a place like that…? You really are flying all over the world, huh…
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep. In fact, even I started to find it weird how much travelling I’ve had to do, so I did some proper research…”
 
 “It seems like Rei-san is in the same boat as me—We’ve been made to travel far away from Japan, with all the strings the Tenshouin Zaibatsu have been pulling.”
@@ -2271,7 +2270,7 @@ Why are you in a place like that…? You really are flying all over the world, h
 ……
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “But whatever, I’ll keep my whining for later. I’ll look back on everything when I can’t move a single part of my body anymore… There’s no use crying over spilled milk.”
 
 “At least for now, I’ll do whatever I can, so the same failure doesn’t happen again.”
@@ -2307,7 +2306,7 @@ Why are you in a place like that…? You really are flying all over the world, h
 a Meteorite is no Joke to us, you know?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and onto the earth…♪”
 
 {% endbubble %}
@@ -2315,7 +2314,7 @@ a Meteorite is no Joke to us, you know?
 … *<th>(glares)</th>*
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “… That’s not the real reason, of course. I’ll stop cracking jokes, so please stop trying to break the camera, Kanata-san!”
 
 “I’m done joking around now, really!”
@@ -2324,7 +2323,7 @@ a Meteorite is no Joke to us, you know?
 ## Chapter 25
 {% img /img/es/eventstory/meteorimpact/secondhalfch25.jpg %}
 
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Chiaki-san.”
 
 {% endbubble %}
@@ -2332,7 +2331,7 @@ a Meteorite is no Joke to us, you know?
 Y-Yes? D-Did I do something!?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Why’re you acting so surprised… You’re as timid as always — although that has its own cute charm to it.”
 
 “I called you ‘cause I have a favor to ask of you, of course.”
@@ -2342,7 +2341,7 @@ Y-Yes? D-Did I do something!?
 Me…?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep. Chiaki-san, I’ll make you into a hero.”
 
 “There’s a ship coming over to you guys soon.”
@@ -2356,7 +2355,7 @@ Me…?
 my… house?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep. You’re in the center of this whirlpool, so it will probably be hard for you to understand why… but I’m sure Chiaki-san will.”
 
 “Kanata-san is in a very unfavorable position in Yumenosaki right now.”
@@ -2368,7 +2367,7 @@ my… house?
 … You know a lot even when you’re overseas, huh?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Hahaha, nobody holds their tongue in this day and age! If I ever wanna know something, there’s plenty of ways to get the info.”
 
 “Like logging into the school’s social media through a student’s account who I blackmailed…”
@@ -2392,7 +2391,7 @@ my… house?
 ……
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “And with that, Yumenosaki will be revolutionized, and we begin a beautiful, peaceful new era! Yep, yep! You need sacrifices to accomplish that, don’t you~♪”
 
 “… It’s absolute bullshit.”
@@ -2408,7 +2407,7 @@ I’ve been believing in and cheering on people like that…?
 I was under the belief that they would change this world for us…
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “The world will probably change, yeah. But, for that change to happen, there are people being turned into sacrifices.”
 
 “There are people who have been shedding tears on the other side of history… and the one who saves those people is the hero, right?”
@@ -2426,7 +2425,7 @@ I was under the belief that they would change this world for us…
 That’s exactly why you’re also dressed *that* way, right?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Hm? No, no! I needed this uniform for work, that’s all!”
 
 “I figured no one would use it, so I stole it from the AV room, since that’s become Ryuseitai’s storage area!”
@@ -2438,7 +2437,7 @@ You should get permission first… I suppose you can’t choose your methods for
 If you just keep doing what you like, you’ll lose all your allies.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “I’m fine with me being my only ally. Besides, no one would be upset if I took it, would they? I mean, I chose the color that barely makes an appearance in Super Sentai shows, y’know?”
 
 “There were a bunch of other uniforms in red, blue, and other common colors, sooo… Chiaki-san, feel free to use any of them if you need to.”
@@ -2464,7 +2463,7 @@ Um? err… so, i should go Back home, yes?
 it is true that the School is suffocating right now, so… i would like to go home.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Mhm. You don’t need to become a sacrifice. Just hide somewhere safe.”
 
 “And then, once things calm down, and you still feel like being an idol, I’d like you to come over to my place. No—I’ll come pick you up from your house, and we could go there together.”
@@ -2474,7 +2473,7 @@ it is true that the School is suffocating right now, so… i would like to go ho
 mikejima’s… place? is that Outside the Ocean…?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Yep. See, there’s an acquaintance I know here, and apparently they’re gonna make a whole new agency.”
 
 “A young, new idol agency, that is controlled by neither Yumenosaki, nor the rumored CosPro…”
@@ -2486,7 +2485,7 @@ mikejima’s… place? is that Outside the Ocean…?
 … that…
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Does the thought make you uneasy? I figured… It’s not like you can trust anything I say at this point…”
 
 “And anyway, truthfully, I don’t even know if they’re gonna manage establishing it or not.”
@@ -2506,7 +2505,7 @@ no agency’s Manager would ever accept such an idol…
 ## Chapter 26
 {% img /img/es/eventstory/meteorimpact/secondhalfch26.jpg %}
 
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “… I’m gonna do something about that.”
 
 {% endbubble %}
@@ -2532,7 +2531,7 @@ it is your Dream to become an idol, isn’t it?
 it would only be Sad if you were turned into a Villain along with Me and lost your dream, all because of me… wouldn’t it?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “… Nah. I was never interested in idols — I just joined Yumenosaki to take care of you, the Living God, y’know?”
 
 “So! It’s perfectly fine if I fail to become an idol! ‘Cause I never had any interest in becoming one, anyway!”
@@ -2544,7 +2543,7 @@ it would only be Sad if you were turned into a Villain along with Me and lost yo
 if that is the case. then why were There idols in the Magazines you would always bring over…?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 ……
 
 {% endbubble %}
@@ -2590,7 +2589,7 @@ Yep! Really happy!
 Mikejima-san!
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “W-What?”
 
 “Wait, uh, this is a little strange… The ship should’ve arrived by now — Don’t you guys see anything above the ocean…?”
@@ -2612,7 +2611,7 @@ Mikejima-san!
 So that’s why you called for me… I have no means of retaliation if they start attacking us, y’know? I’ll only get beaten down — I’m weak when it comes to fighting, I’m not like my friend.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “No, there’s no need for you to fight. Just call for the police.”
 
 “You’ll be able to talk to my dad if you just mention my family name, and they should bring over support in only a few minutes.”
@@ -2624,7 +2623,7 @@ So that’s why you called for me… I have no means of retaliation if they star
 But then, why didn’t you just ask your parents to escort Shinkai-kun from the start, instead of me…?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “I can’t trust them that much… Please just know that my parents are always my last resort.”
 
 “Both of them are worshippers themselves, and don’t see me, the problem child, in good light.”
@@ -2634,7 +2633,7 @@ But then, why didn’t you just ask your parents to escort Shinkai-kun from the 
 I see. You should get along with your family more. Don’t you have things you should be doing before calling yourself a “mama” and playing house?
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “That hurts to hear, haha… But anyway, wasn’t there something you were about to say?”
 
 {% endbubble %}
@@ -2642,7 +2641,7 @@ I see. You should get along with your family more. Don’t you have things you s
 Ah, yes. I have one favor to ask, Mikejima-san.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Sure, let me hear it. Tell me anything, since I owe you big time now.”
 
 {% endbubble %}
@@ -2654,7 +2653,7 @@ So I want to postpone the escorting for later — please do forgive me for that.
 I’m sure it won’t be too late to give up and run away *after* trying everything you can do first.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Oh? Interesting. What is it that you wanna try?”
 
 {% endbubble %}
@@ -2662,7 +2661,7 @@ I’m sure it won’t be too late to give up and run away *after* trying everyth
 I don’t have enough time to explain. The “Battle versus the Sea God” performance will end if we don’t go there soon.
 
 {% endbubble %}
-{% bubble MadaraPast hidden %}
+{% bubble Madara hidden %}
 “Battle versus the Sea God? Isn’t that the live show for executing the ‘Oddball’, Kanata-san…?”
 
 {% endbubble %}
@@ -2726,7 +2725,7 @@ wait, wha—huh? are you serious? where are we going, chiaki~?
 please Explain things to me properly! listen to what a god Tells you to do!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch26_sc.jpg %}
-{% bubble MadaraPast %}
+{% bubble Madara pastbcg %}
 “Hahaha! ♪ I don’t really get what’s going on, but I’m kinda jealous… Holding hands and dashing across the beach — this is what youth’s all about!”
 
 “I’m all the way across the ocean, but I’ll still cheer you for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
@@ -2734,7 +2733,7 @@ please Explain things to me properly! listen to what a god Tells you to do!
 {% img /img/es/eventstory/meteorimpact/madarabcg.jpg %}
 
 
-{% bubble MadaraPast %}
+{% bubble Madara pastbcg %}
 “I’ll sing that song to cheer you guys on — after all, I *am* wearing the uniform, and I *am* acting as an idol! I only hope that it’ll push you both one step further, even if just a little…!”
 
 “♪\~♪~♪”

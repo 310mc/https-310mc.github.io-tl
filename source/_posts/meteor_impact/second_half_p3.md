@@ -59,7 +59,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-27">Ch 27</a> - <a href="#Chapter-28">Ch 28</a> - <a href="#Chapter-29">Ch 29</a> - <a href="#Chapter-30">Ch 30</a> - <a href="#Chapter-31">Ch 31</a> - <a href="#Chapter-32">Ch 32</a> - <a href="#Chapter-33">Ch 33</a> - <a href="#Translation-Notes">Translation Notes</a>
@@ -251,7 +250,7 @@ Because I’m an idol! Because you let me stay as one!
 **Time:** At the same time, as the “Battle versus the Sea God” performance begins
 {% endnote %}
 
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 “♪\~♪\~♪”
 
 <th>(… Incorrigible! Where did this intense air come from!?)</th>
@@ -277,7 +276,7 @@ Because I’m an idol! Because you let me stay as one!
 <th>(That’s why I’ve chosen to make it an S2 — a live show limited within the school premises. I did the bare minimum of advertisement for the performance, and I even chose to hold it during night-time, an inconvenient timing for students.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_1.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(I also set the tickets to an expensive price, and announced that the regulations to obtain one would be strict.)</th>
 
 <th>(Yet… they still sold out in mere seconds.)</th>
@@ -291,7 +290,7 @@ Because I’m an idol! Because you let me stay as one!
 <th>(It was impossible to get rid of their religious faith entirely, and they aren’t the type that can switch to worship a different God. That’s why it was an extra step I *had* to be sure that we completed.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_2.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(*Hah*. I must say, this is truly horrible of us. The DreamFes seems to be fair on first glance, as long as victory is declared based upon the number of votes…)</th>
 
 <th>(But the Student Council is in charge of managing and planning any DreamFes — there are plenty of ways to influence the votes however we need to.)</th>
@@ -319,7 +318,7 @@ Because I’m an idol! Because you let me stay as one!
 <th>(I did assume this would eventually happen, but… this change is much too drastic.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_3.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(All of you students, allow me to ask: Why have you gone this berserk?)</th>
 
 <th>(Did you have *that* much resentment pent up for the Five Eccentrics? Have you loathed them from the bottom of your hearts all this time?)</th>
@@ -353,7 +352,7 @@ Because I’m an idol! Because you let me stay as one!
 <th>(Those dyed in evil would lash out at each other in a fit of rage and begin to hurt one another until they fall to ruin.)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_4.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(Isn’t this unsettling haze swirling around us that very same thing…!?)</th>
 
 <th>(It’s also known as what once happened when a chieftain had persecuted Shinkai’s family—)</th>
@@ -375,7 +374,7 @@ Because I’m an idol! Because you let me stay as one!
 Compose yourself, Hasumi-dono!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 —!?
 
 K-Kanzaki? What’re you doing here!?
@@ -395,7 +394,7 @@ You are both entirely distracted, and neither of you have smiled even once! You 
 I know not what has intoxicated you, but watching your staggering, nearly inebriated movements is unbearable!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 —!
 
 {% endbubble %}
@@ -415,7 +414,7 @@ Present yourself whole, and utter every lyric you sing with as much passion—as
 Is that not what you two had taught me, back when I knew nothing…!?
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 ……
 
 {% endbubble %}
@@ -431,7 +430,7 @@ He’s pickin’ a fight, so let’s accept his challenge.
 ‘Course, we’ll be the losers here if we lose ourselves to anger and start throwin’ punches — and “he hit me first” ain’t gonna cut it as an excuse. But a nerdy young master[^25] like yourself would know that much at least, right?
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 … Of course I do.
 
 He’s right on one part: I was caught in a delusion. I couldn’t effectively wave off the *klesha*[^26] plaguing my mind, when I’m meant to perform here on stage…
@@ -447,7 +446,7 @@ Kanzaki.
 Is there a *problem*? I spoke what was on my mind, and I refuse to apologize for anything! I am far beyond furious right now, I feel as though my beloved katana has been smeared with filth!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 … And yet, you never change. You always remain straightforward and clean — like a polished katana.
 
 Even if those “evil things” existed, it would surely never have an effect on you.
@@ -467,7 +466,7 @@ I had forgotten what it means to be loyal, and attempted to deceive the person I
 Were this during a certain era, it would have only been natural to be ordered to slice my stomach open! In fact, I am more than grateful that you allowed me to live with a mere exile!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 About that exile… I’ll be retracting your banishment.
 
 {% endbubble %}
@@ -475,7 +474,7 @@ About that exile… I’ll be retracting your banishment.
 … What? Pardon?
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 Or, rather, I haven’t even done the procedures to banish you from the unit. I was too preoccupied with other matters.
 
 If you’re still up for it, then go change into your uniform — There’s a spare sewn by Kiryu in the dressing room.
@@ -515,7 +514,7 @@ It was almost enough to fool me into thinkin’ I’m a good guy for doin’ a g
 But you alright with this, Danna? You really lettin’ him come back? Didn’t you want him away from all this dirty work?
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 I’ll be sure to avoid keeping him near that type of work, obviously. I’ll keep him far away from the swamp through any means necessary, even if it’s by reworking the documents.
 
 But you saw him yourself, didn’t you?
@@ -874,7 +873,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch32.jpg %}
 
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 “♪\~♪~♪”
 
 {% endbubble %}
@@ -886,7 +885,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 “~…♪”
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(… Mm. The air changed slightly ever since Kanzaki came rushing in here.)</th>
 
 <th>(Actually— I believe what changed here is not the frenzied audience, but my own mindset.)</th>
@@ -922,7 +921,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 HOLD IT RIGHT THEEEERE!!![^29]
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 …!? W-w-w-wh—
 
 What is the *meaning* of this, Morisawaaa!?
@@ -942,7 +941,7 @@ blue? aren’t *i* blue?
 Yes! I leave that color to you now, so I’ll no longer be blue!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 Shinkai--? *You,* too!? Why!? Why must you interfere with my plans!?
 
 Why did you come here!? If you hadn’t shown up, we would have won by default! I would’ve been able to end this with as little sacrifice as possible!
@@ -956,7 +955,7 @@ please ask the Difficult questions to chiaki! because i Don’t know!
 but i *want* to know, so! i will have the hero teach me!
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 *“Hero”*? Why do the lot of you try to become something that doesn’t even *exist*…!?
 
 That’s a wish too great for a human body to bear! Your desire to do so will only tear everything apart!
@@ -1091,7 +1090,7 @@ You don’t need to yell it so loud — I’ve *always* known you were a real co
 Hasumi.
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 … Hm. I was a little shaken after seeing such an unexpected sight, but — our plans haven’t changed. We’ll do what we must, carefully.
 
 “Morisawa. Sorry to interrupt your excitement, but it’s not your turn.”
@@ -1109,7 +1108,7 @@ Hasumi.
 “You’ve lost this DreamFes. You didn’t perform in the allocated time for your unit, so you have zero votes.”
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch33_1.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(But… Even so—)</th>
 
 “… I’ll permit Shinkai’s enlistment into Ryuseitai for this performance.”
@@ -1133,7 +1132,7 @@ Hasumi.
 “So stand back at once. You said what you wanted to say, didn’t you, Morisawa?”
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch33_2.jpg %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 <th>(… There’s no need for you to bear the brunt of their malice any longer.)</th>
 
 <th>(Yumenosaki is acting bizarre right now — at this point, the mobs of students might be driven to annihilate you out of sheer fury.)</th>
@@ -1209,7 +1208,7 @@ Hasumi.
 “You can do the same, Morisawa. You guys may have lost, but that doesn’t mean you died or anythin’.”
 
 {% endbubble %}
-{% bubble KeitoPast cg %}
+{% bubble Keito v2 cg %}
 “That’s right. While you do become a spirit once you die[^33]… your soul won’t be able to move on in peace if you leave behind regrets. Do everything you can while you’re still alive.”
 
 {% endbubble %}

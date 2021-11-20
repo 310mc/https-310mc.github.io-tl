@@ -80,11 +80,11 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 
 |ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
-[![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event)|[![/birthday_story/chiaki](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki)
+[![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Kanata_Shinkai_Birthday_Course/Kanata_Shinkai_Normal_Event)|[![/birthday_story/chiaki_es](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki_es)
 
 |ES!! Midori Birthday|ES!! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
-[![https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/)|[![https://twitter.com/310mc1/status/1438883468277129216](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](https://twitter.com/310mc1/status/1438883468277129216)|
+[![https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/)|[![/birthday_story/chiaki_es2](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/birthday_story/chiaki_es2)|
 
 Baton Pass! Chiaki|Shooting Star Festival! Chiaki|
 | :-----------: | :-----------: |

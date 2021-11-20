@@ -63,7 +63,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/310mc/css@latest/css/esexp.css">
 
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
@@ -848,7 +847,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 —And that’s all I’ve got to report. What’s your next move, Bocchan?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 First, stop calling me that. You switched to a different name for a while, but now you’re back to the first one for some reason.
 
 How incorrigible. I suppose that’s meant to be a nickname, but I just feel like you’re making a fool of me instead. I don’t particularly like it.
@@ -858,7 +857,7 @@ How incorrigible. I suppose that’s meant to be a nickname, but I just feel lik
 Haha, then what should I call ya? Vice-prez? Kei-chan?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Call me whatever you like. I’m already asking a huge favor from you for this plan, so I prefer to respect your free will to some extent.
 
 Do be aware that I’m not trying to control you, but rather trying to let you make use of the Student Council as you please.
@@ -868,7 +867,7 @@ Do be aware that I’m not trying to control you, but rather trying to let you m
 Hmmm. And what can this newborn, shabby-lookin’ Student Council even do for me, eh?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 What I can offer you for now is authority. If I make everything that you’re doing part of the Student Council’s duties, then it will become a part of justice.
 
 And it’s unlikely that you will misuse what is labeled as “justice,” correct? I trust you on that part.
@@ -880,7 +879,7 @@ Or rather, I’m trying to take advantage of your good, sensible mind, and restr
 Haha. You sure you wanna tell me all about your ulterior motives?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Based on everything I know about you, I’ve concluded that the best way to ask for your help is to tell you my real intentions from the start, rather than trick you into helping me.
 
 We may end up being together for a long while, after all. I’m looking at the wider picture here, since I’d like to properly advance my plans according to what will become useful in the long run.
@@ -903,7 +902,7 @@ I just need to win the game by the end. Perseverance is what prevails, and that�
 Forgive me for intruding. Hasumi-dono, could you permit me to speak?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 …!? Ahh, you surprised me! You were here, Kanzaki!?
 
 {% endbubble %}
@@ -917,7 +916,7 @@ However, you both appeared to be speaking very earnestly about something, so I d
 Haha, I was wonderin’ why you were ignorin’ him… So you didn’t even realize he was there, *Hasumi*?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 So you’re going to call me by my family name? Fine, so be it… Anyhow, Kanzaki — You’re a member of Akatsuki, too. You don’t need to constantly ask for permission to speak.
 
 We are equal in this unit. Rather, *all* human beings are meant to be equal to each other. There is no need to speak to me in a formal manner, like you’re a samurai serving your lord.
@@ -929,7 +928,7 @@ We are equal in this unit. Rather, *all* human beings are meant to be equal to e
 More importantly, I wish to inquire about the mysterious group that Kiryu-dono has informed us of, the “Yaobikuni”.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Ahh, are you also curious about it? It didn’t seem to be a mere superstition…
 
 Thus, I asked Kiryu to investigate what’s been happening, as he has connections with the delinquents in this academy.
@@ -945,7 +944,7 @@ So yeah, I’d have more connections with those shady guys than you, the goodie-
 My history with them might end up being a weak point to target for the Student Council, y’know?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 No, it’s alright. That would be far too unnecessary.
 
 {% endbubble %}
@@ -953,7 +952,7 @@ No, it’s alright. That would be far too unnecessary.
 Haha, alright, but if that ever happens, you can throw away the punks, includin’ me.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I have *no* plans to do that. Besides, the dark and light of this world are blended with each other.
 
 I’m not so happy-go-lucky that I would dream of an ideal paradise where all evil has been extinguished. I’m not a kid, you know.
@@ -969,7 +968,7 @@ That so? Well, being needed doesn’t feel so bad. I appreciate it, makes me wan
 Hehe, so even demons[^9] shed tears. Though, I do admit that your discussion right now was a little too difficult for me to comprehend.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Don’t think about it too much, it’s only small talk. That aside—You’re interested in the Yaobikuni, Kanzaki? Don’t tell me you’re also a worshipper.
 
 {% endbubble %}
@@ -989,7 +988,7 @@ Seems like it. It ain’t an officially recognized group in school or anythin’
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch7.jpg %}
 
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Yes. You see, the Yaobikuni don’t appear to have proper headquarters of any sort.
 
 They are simply a large society, keeping in contact with each other for essential information, done through encrypted text messages.
@@ -1003,7 +1002,7 @@ I’m sure there must be people who aren’t even aware that they’re part of t
 Hmm… It is like trying to grasp a cloud.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Exactly. There does appear to be someone at the center of the group who is currently acting as the religious founder for them, but…
 
 He doesn’t seem to have any intention of creating or managing the organization.
@@ -1025,7 +1024,7 @@ I don’t particularly like how it feels like the academy is being slowly taken 
 Haha, you’re one to talk, Mr. “I’m the son of a temple”.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 I’m saying this *because* I am one. I know how frightening religions can be. Though for now, it appears to be nothing but a substitute for one—a secret “good luck charm”, if you will.
 
 But, at worst, this may become a large obstruction in our path. After all, the ones the student body should trust is us, the Student Council.
@@ -1037,7 +1036,7 @@ But, at worst, this may become a large obstruction in our path. After all, the o
 How, though? We’ve got no real authority to do that — You gonna try and change the rules to ban believin’ in religious faith in school?
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 No, students should be free to have faith as they please. Also, the Student Council has an insignificant amount of authority, so we won’t get anywhere trying to change the school rules.
 
 Everyone would simply ignore them, and it would be all over for us.
@@ -1051,7 +1050,7 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 … Nah, we can’t, can we… Nothin’s that simple.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 …?
 
 {% endbubble %}
@@ -1091,7 +1090,7 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 <th>(I think I kinda get how those Yaobikuni guys feel… You start wishin’ you could just depend on someone above you to know what to do in life.)</th>
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … Kiryu? What’s wrong? Are you feeling ill?
 
 Sorry. I keep asking far too much of you.
@@ -1109,7 +1108,7 @@ In any case, I would like to propose an idea.
 Would you please entrust this “Yaobikuni” matter to me? I, Kanzaki Souma, shall handle it.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 … Entrust it to you?
 
 {% endbubble %}
@@ -1123,7 +1122,7 @@ I don’t feel like there’s much anyone could do about this vague problem of o
 Ah, no. I am uncertain whether I will be capable of resolving the issue or not. It is merely that I have ties to the founder of that “Yaobikuni” group.
 
 {% endbubble %}
-{% bubble KeitoPast %}
+{% bubble Keito v2 %}
 Founder… *You* know Shinkai Kanata of the Five Eccentrics!?
 
 {% endbubble %}
