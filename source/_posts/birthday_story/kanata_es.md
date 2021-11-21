@@ -23,7 +23,7 @@ description: "[ES!] Kanata's birthday content from Enstars! Era."
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    Mini talk
+                    Characters
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
@@ -67,32 +67,37 @@ description: "[ES!] Kanata's birthday content from Enstars! Era."
 
 <!-- more -->
 
-<!--## Birthday Quote
+## Birthday Quote
 
 **2016**
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
+ufufu, today is my birthday~♪ what a special day…♪
 {% endbubble %}
 
 **2017**
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
+fufu, i'm sooo happy that you celebrated my birthday~♪ what deep-sea fish would you like as repayment…? ♪
 {% endbubble %}
 
 **2018**
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
+you'll celebrate my birthday with me? then let's sing and dance together~♪
 {% endbubble %}
 
 **2019**
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
+thank you~! you prepared for me fishies to eat, didn't you? that's so wonderfully kind of you.
 {% endbubble %}
 
 **Birthday Greeting**
-{% bubble Kanata %}
-{% endbubble %}-->
+{% bubble Kanata v2 %}
+i'm so, so happy to have my birthday celebrated. birthdays are fun, aren't they~? *puka, puka*…♪
+{% endbubble %}
 
 ## Birthday Course
 
 #### <div mt="rare"></div> 1/3
-<!--{% img /img/es/birthdaystory/es/kanata/minitalk_1.jpg %}-->
+{% img /img/es/birthdaystory/es/kanata/minitalk_1.jpg %}
 {% bubble Kanata %}
 hello, anzu-san. today is another perfect day to soak in the fountain. *puka, puka*…♪
 
@@ -155,7 +160,7 @@ ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
 
               chiaki will scold me for this… he'll say, "ryuseitai are heroes of *justice*!"
 
-              mhm, mhm. i must be much more proper, so that i can be a good example to the children…♪
+              mhm, mhm. i have to be much more proper, so that i can be a good example to the children…♪
 				{% endbubble %}
 			</div>
         </div>
@@ -163,9 +168,9 @@ ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
 </div>
 
 #### <div mt="rare"></div> 2/3
-<!--{% img /img/es/birthdaystory/es/kanata/minitalk_2.jpg %}-->
+{% img /img/es/birthdaystory/es/kanata/minitalk_2.jpg %}
 {% bubble Kanata %}
-the blue flames are the mark of mystery! i have come from the blue sea~♪
+the blue flames are the mark of mystery! i've come from the blue sea~♪
 
 today's protagonist! shinkai kanata…☆
 
@@ -435,9 +440,43 @@ But eh, you’re probably happy with it being this Way. Go ahead and try out the
 I’ll be more respectful and keep it Down, and tell the rest of my niisans to do the Same. So just enjoy your day as much as you want, Kanata-niisan~♪
 {% endbubble %}
 
-<!--## Birthday Motion
-![](https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/Chiaki_Morisawa_Birthday_2018_Motion.gif)
+## Birthday Present
 
-**Birthday Skill:** *Today is Kanata's birthday. More passionately and energetically than anyone else, "I'll do my best today, too!!"*-->
+{% img /img/es/birthdaystory/es/kanata/bdaypresent.jpg %}
 
-<div toc>{% btn /birthday_story,, star, Index %}<!--{% btn /birthday_story/chiaki_es2,, arrow-right, ES!! Era Birthday %}</div>-->
+*When gifting Kanata a flower box…*
+
+{% bubble Kanata %}
+*puka, puka*…♪ there are so many pretty flowers\~♪ i'm sure it'd look even more beautiful if i laid them ontop of water\~
+
+ufufu, but since they're so fresh, i'll just keep them in a vase for now. thank you so much, anzu-san~♪
+{% endbubble %}
+
+## Birthday Cake
+
+{% img /img/es/birthdaystory/es/kanata/bdaycake.jpg %}
+
+**Fruit Tart (HAPPY)**
+<!--{% img /img/es/birthdaystory/es/kanata/fruittart.jpg %}-->
+{% bubble Kanata v2 %}
+there are a lot of fruits in different colors on this cake. it kind of looks like ryuseitai, doesn't it? ehehe…♪
+{% endbubble %}
+
+**Shortcake (GOOD)**
+<!--{% img /img/es/birthdaystory/es/kanata/shortcake.jpg %}-->
+{% bubble Kanata v2 %}
+i don't eat fruit and cake that much, but today is a special day. i'll have a bite~…♪
+{% endbubble %}
+
+**Chocolate Cake (OK)**
+<!--{% img /img/es/birthdaystory/es/kanata/chocolatecake.jpg %}-->
+{% bubble Kanata %}
+this cake has a strange shape to it, doesn't it\~? ahh, it's meant to look like a fish, i see\~
+{% endbubble %}
+
+## Birthday Motion
+![](https://static.wikia.nocookie.net/ensemble-stars/images/3/38/Kanata_Shinkai_Birthday_2018_Motion.gif)
+
+**Birthday Skill:** *Today is Kanata's birthday. With a heart that adores the ocean, and is as vast as one, "i'll do my best today, too…♪"*
+
+<div toc>{% btn /birthday_story,, star, Index %}<!--{% btn /birthday_story/kanata_es2,, arrow-right, ES!! Era Birthday %}</div>-->

@@ -23,7 +23,7 @@ description: "[ES!!] Chiaki's birthday content from Enstars!! Era."
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    Mini talk
+                    Characters
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
@@ -69,169 +69,15 @@ description: "[ES!!] Chiaki's birthday content from Enstars!! Era."
 
 ## Birthday Quote
 
-<!--**2020**
+**2020**
 {% bubble Chiaki %}
-Thank you for celebrating my birthday, Producer! I'll never let go/forget the importance of retaining your childhood, and continue to shine as a hero!
-"誕生日お祝いありがとう、『プロデューサー』！　いつまでも子供の心を忘れず、ヒーローとして輝き続けるぞ！"
-{% endbubble %}-->
+Thank you for celebrating my birthday, Producer! I'll always hold on to the feelings of my youth, and continue to shine as a hero!
+{% endbubble %}
 
 **2021**
 {% bubble Chiaki %}
 Ohh, a present for me!? Thank you so much, Producer! I’ll make sure to repay you! Look forward to seeing what you get for your birthday!
 {% endbubble %}
-
-## Mini Talk
-
-### Birthday Event Preparations
-
-#### <div mt="rare"></div> 1/3
-
-{% img /img/es/birthdaystory/es2/chiaki/bdaypreparations.jpg %}
-
-{% bubble Chiaki %}
-…Mhm, this should do! I’ll keep practicing the best options to do my role in the show until it’s time for it.
-
-Thank you for helping me out today, Anzu! Alright, I should be going n—
-
-Hm? There’s something else you need to tell me? What is it?
-{% endbubble %}
-
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            It’s your birthday soon, isn’t it?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Yep, you’re right! I’m so glad you remembered! But what about my birthday?
-
-            What!? You’ll have a birthday event for me!? That sounds like a blast!
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Would you like to do a solo event?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            I’d love to do that, but… what do you mean by that, exactly? What will I be doing?
-
-            Ahh, a birthday event? I never expected to get one for myself…! I’m so happy!
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I’d like to do an event.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Oh, then I’ll ask Ryuseitai to join t—Huh? It’s only going to be me?
-
-            Ohhh, I get it now! You’re holding an event for my birthday? Yeah, the one some of my Ryuseitai comrades did. I was really looking forward to doing it, too!
-			{% endbubble %}
-        </div>
-    </div>
-</div>
-
-#### <div mt="rare"></div> 2/3
-
-{% bubble Chiaki %}
-You get to play games and answer questions from fans in the birthday event, right?
-
-If I remember clearly, Sengoku showed off his ninja techniques, and Nagumo had a work-out session with everyone…
-
-I could tell it was super fun to share their hobbies and specialties with their fans!
-{% endbubble %}
-
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            You know a lot about it, huh?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Hehe, I heard all kinds of things about the event! I’ve actually already prepared a video for Takamine’s bir—
-
-            Ah—!!  ……Whew, Takamine isn’t around. I have to make sure I don’t spoil the surprise before his birthday
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Did they enjoy it?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            I’m sure they did! Akehoshi was so happy about it, he bragged to me about how he got to do his birthday event first!
-
-            Also, Kanata’s pretty excited to do his once his birthday comes around~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Do you have anything you’d like to do?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Oh! So I can request for something too, huh… Hmm, let’s see…
-
-            I’d *love* to do a hero show! I want everyone to see the gallant figure of a hero who refuses to back down from terror!
-			{% endbubble %}
-        </div>
-    </div>
-</div>
-
-#### <div mt="rare"></div> 3/3
-
-{% bubble Chiaki %}
-…Oh, so much time has passed. We sure talked a lot, huh? It’s getting late, so it’s best that you go home as soon as possible.
-
-We’ve got a few more things to wrap up, so how about we talk it over another time?
-
-I had a lot of fun today! Thank you, Anzu…♪
-{% endbubble %}
-
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Please look forward to the day of the event.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Oh, you bet I will! I feel overfilled with burning excitement just knowing I’ll get to celebrate my birthday with my fans!
-
-            And now that we’ve talked it out, I’m even *more* excited for the event!
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Let’s make it a great event together.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Yeah, we’ve got this! Let’s make it a wonderful event for all my fans!
-
-            I’ll be sure to give it my all! So let’s do this together, Anzu…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I hope everyone makes some good memories.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Mhm, I get you! I gotta make sure this event’s memorable both for me and my fans, right?
-
-            Don’t you worry, Anzu! It’s a hero’s duty to make everyone smile!
-			{% endbubble %}
-        </div>
-    </div>
-</div>
 
 ## Birthday Story
 
@@ -359,6 +205,157 @@ Ha ha ha!! ♪ It's a present you bought just for me, so I'll be happy with anyt
 
 ## Birthday Event
 
+### Event Preparations
+
+#### <div mt="rare"></div> 1/3
+
+{% img /img/es/birthdaystory/es2/chiaki/bdaypreparations.jpg %}
+
+{% bubble Chiaki %}
+…Mhm, this should do! I’ll keep practicing the best options to do my role in the show until it’s time for it.
+
+Thank you for helping me out today, Anzu! Alright, I should be going n—
+
+Hm? There’s something else you need to tell me? What is it?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            It’s your birthday soon, isn’t it?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Yep, you’re right! I’m so glad you remembered! But what about my birthday?
+
+            What!? You’ll have a birthday event for me!? That sounds like a blast!
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Would you like to do a solo event?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            I’d love to do that, but… what do you mean by that, exactly? What will I be doing?
+
+            Ahh, a birthday event? I never expected to get one for myself…! I’m so happy!
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I’d like to do an event.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Oh, then I’ll ask Ryuseitai to join t—Huh? It’s only going to be me?
+
+            Ohhh, I get it now! You’re holding an event for my birthday? Yeah, the one some of my Ryuseitai comrades did. I was really looking forward to doing it, too!
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 2/3
+
+{% bubble Chiaki %}
+You get to play games and answer questions from fans in the birthday event, right?
+
+If I remember clearly, Sengoku showed off his ninja techniques, and Nagumo had a work-out session with everyone…
+
+I could tell it was super fun to share their hobbies and specialties with their fans!
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            You know a lot about it, huh?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Hehe, I heard all kinds of things about the event! I’ve actually already prepared a video for Takamine’s bir—
+
+            Ah—!!  ……Whew, Takamine isn’t around. I have to make sure I don’t spoil the surprise before his birthday.
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Did they enjoy it?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            I’m sure they did! Akehoshi was so happy about it, he bragged to me about how he got to do his birthday event first!
+
+            Also, Kanata’s pretty excited to do his once his birthday comes around~♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Do you have anything you’d like to do?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Oh! So I can request for something too, huh… Hmm, let’s see…
+
+            I’d *love* to do a hero show! I want everyone to see the gallant figure of a hero who refuses to back down from terror!
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 3/3
+
+{% bubble Chiaki %}
+…Oh, so much time has passed. We sure talked a lot, huh? It’s getting late, so it’s best that you go home as soon as possible.
+
+We’ve got a few more things to wrap up, so how about we talk it over another time?
+
+I had a lot of fun today! Thank you, Anzu…♪
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Please look forward to the day of the event.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Oh, you bet I will! I feel overfilled with burning excitement just knowing I’ll get to celebrate my birthday with my fans!
+
+            And now that we’ve talked it out, I’m even *more* excited for the event!
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Let’s make it a great event together.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Yeah, we’ve got this! Let’s make it a wonderful event for all my fans!
+
+            I’ll be sure to give it my all! So let’s do this together, Anzu…♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I hope everyone makes some good memories.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Mhm, I get you! I gotta make sure this event’s memorable both for me and my fans, right?
+
+            Don’t you worry, Anzu! It’s a hero’s duty to make everyone smile!
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+<hr>
 {% img /img/es/birthdaystory/es2/chiaki/birthdayevent.jpg %}
 
 ### Opening Talk
@@ -374,9 +371,7 @@ We’ll only get to be together for a short while, but that’s why I want every
 Alright, are you ready? Let’s get things started!
 {% endbubble %}
 
-Let's make today a day<br>to remember forever!|Alright, are you all ready?
-:-:|:-:
-![](https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_5.png)
+<center><button data-tippy-content="Let's make today a day to remember forever!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><button data-tippy-content="Alright, are you all ready?"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_5.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
 
 ### Question Corner
 {% bubble Chiaki %}
@@ -392,9 +387,7 @@ Great question! That’d of course be: the bonds betweens comrades! The passiona
 Oh, and I love how it’s always about justice prevailing no matter what!
 {% endbubble %}
 
-Tokusatsu is great! You should all check it out, too!|I wish I had more time to mention everything I love about it!
-:-:|:-:
-![](https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_12.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/15/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_4.png)
+<center><button data-tippy-content="Tokusatsu is great! You should all check it out, too!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_12.png" width="160"></button><button data-tippy-content="I wish I had more time to mention everything I love about it!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_4.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
 
 ### Request Corner
 {% bubble Chiaki %}
@@ -411,9 +404,7 @@ This is where you’re meant to get past the defense, and take the perfect layup
 This is commonly taught in school, so you might’ve already seen it before. I’d love it if you could try it out the next time you play basketball!
 {% endbubble %}
 
-This is the basics of basketball,<br>but it’s fundamental for a reason!|It’s a lot of fun to do physical exercise!
-:-:|:-:
-![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_3.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_10.png)
+<center><button data-tippy-content="This is the basics of basketball, but it’s fundamental for a reason!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_3.png" width="160"></button><button data-tippy-content="It’s a lot of fun to do physical exercise!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_10.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
 
 ### Surprise Corner
 {% bubble Chiaki %}
@@ -430,9 +421,7 @@ I got another card from Sports Survival, and the last one is from Shin Circle! T
 Oh, I can’t hold back my happiness anymore! I feel so much warmth deep in my soul…! I’ll take my sweet time reading them later, and engrave their messages deep inside me…!
 {% endbubble %}
 
-I’m so close to tearing up…!|Thanks for today, everyone!
-:-:|:-:
-![](https://static.wikia.nocookie.net/ensemble-stars/images/1/17/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_8.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png)
+<center><button data-tippy-content="I’m so close to tearing up…!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/17/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_8.png" width="160"></button><button data-tippy-content="Thanks for today, everyone!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
 
 ### Ending Talk
 {% bubble Chiaki %}

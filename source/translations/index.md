@@ -57,8 +57,8 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 |Selfish Noble|A Game of Tag with Mama|Melancholic Club Activities|
 | :-----------: | :-----------: | :-----------: |
 [![https://euni2319.dreamwidth.org/2918.html](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%283rd_Anniversary%29_Hiyori_Tomoe.png)](https://euni2319.dreamwidth.org/2918.html)|[![https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Showdown_with_Mama%29_Mitsuru_Tenma_Bloomed.png)](https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/)|[![https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Senpai_Discussion%29_Midori_Takamine_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/)
-**The Crimson's Pure Heart**|**Management Stories**|**Birthday Stories (Coming Soon!)**
-[![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|[![/management_story](/img/es/manageconvo/cover.jpg)](/management_story)
+**The Crimson's Pure Heart**|
+[![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|
 
 |Midori Idol Story 1|Midori Idol Story 2|Midori Idol Story 3|
 | :-----------: | :-----------: | :-----------: |
@@ -76,15 +76,19 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 **Staying True To Myself**|**Together,<br>We Are the Bodybuilding Bros!**|**me, the sea, and everyone with me**
 [![/staying_true_to_myself](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)](/staying_true_to_myself)|[![/bodybuilding_bros](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)](/bodybuilding_bros)|[![/me_the_sea_and_everyone_with_me](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png)](/me_the_sea_and_everyone_with_me)
 
+Management Stories|Birthday Stories
+| :-----------: | :-----------: | :-----------: |
+[![/management_story](/img/es/manageconvo/cover.jpg)](/management_story)|[![/birthday_story](https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/Midori_Takamine_Birthday_2018_Motion.gif)](/birthday_story)
+
 ### Mini Talks
 
-|ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
+<!--|ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
-[![https://euni2319.dreamwidth.org/8710.html](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](https://euni2319.dreamwidth.org/8710.html)|[![/birthday_story/kanata_es](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](/birthday_story/kanata_es)|[![/birthday_story/chiaki_es](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki_es)
+[![/birthday_story/midori_es](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](/birthday_story/midori_es)|[![/birthday_story/kanata_es](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](/birthday_story/kanata_es)|[![/birthday_story/chiaki_es](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki_es)
 
 |ES!! Midori Birthday|ES!! Chiaki Birthday|
 | :-----------: | :-----------: | :-----------: |
-[![https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](https://euni2319.wordpress.com/2021/08/28/midori-takamine-2021-birthday-event/)|[![/birthday_story/chiaki_es2](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/birthday_story/chiaki_es2)|
+[![/birthday_story/midori_es2](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/birthday_story/midori_es2)|[![/birthday_story/chiaki_es2](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/birthday_story/chiaki_es2)|-->
 
 Baton Pass! Chiaki|Shooting Star Festival! Chiaki|
 | :-----------: | :-----------: |

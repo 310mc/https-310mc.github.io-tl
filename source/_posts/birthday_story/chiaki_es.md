@@ -23,7 +23,7 @@ description: "[ES!] Chiaki's birthday content from Enstars! Era."
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    Mini talk
+                    Characters
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
