@@ -73,17 +73,17 @@ Ooh, Morisawa. I was just done buyin’ a knitting needle and some wool from the
 {% endbubble %}
 
 {% bubble Chiaki %}
-Are you going to knit something? My mother sometimes knits on her days off, too — she tried making me wear the sweater she made once.
+Are you going to knit something? My mother sometimes knits on her days off, too—she tried making me wear the sweater she made once.
 
 But there was a huge heart knitted right in the middle, and it was honestly too embarrassing for me to wear… So I gave it to my dad instead.
 {% endbubble %}
 
 {% bubble Kuro %}
-That so? Haha, ain’t that nice — You get on well with your family~♪
+That so? Haha, ain’t that nice—You get on well with your family~♪
 
-I was also thinkin’ of knitting a plushie for my famil—my li’l sis, so I bought some materials for that, too.
+I was also thinkin’ of knittin’ a plushie for my fami—my li’l sis, actually, so I bought some materials for that, too.
 
-Seems like it’s become a fad to have a knitted plushie in her school, so I figured it’d be too cruel for her to be the only one without one.
+Sounds like it’s become a fad to have a knitted plushie at her school, so I figured it’d be too cruel for her to be the only one without one.
 {% endbubble %}
 
 {% bubble Chiaki %}

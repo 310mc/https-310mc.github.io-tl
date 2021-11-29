@@ -1,13 +1,13 @@
 ---
-title: "[ES!!] SHINOBUEVENTNAME"
-date: 2021-1-30 9:00:00
+title: "[ES!!] SHINOBUEVENTNAME (In Progress!)"
+date: 2021-11-30 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 tags:
 - Event Story
 - WRITERTBA
-description: "[ES!!] SYNOPSISTBA"
+description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -17,11 +17,11 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">SHINOBUEVENTNAME</div>
                 <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="TBA/prologue">Start Reading</a></div>
+                <div class="title-area__start"><a href="SHINOBUEVENTNAME/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    SYNOPSISTBA
+                    Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the association's origins…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -29,7 +29,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            Autumn
+                            Summer
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -53,11 +53,11 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -83,6 +83,10 @@ hidden: true
 </div>
 
 <!-- more -->
+
+{% note narration %}
+**Note:** The second half of this story is locked until December 4th.
+{% endnote %}
 
 <style>
     .preview-wrapper {
@@ -162,7 +166,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -176,7 +180,7 @@ hidden: true
                                 Associated Song
                             </div>
                             <div class="value">
-                                <a href="YOUTUBELINK">SONGNAME</a> — <a href="SONGLYRICS">(Song Lyrics)</a>
+                                <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU">Zealous ☆ Shooting Star Ninja Scroll</a> — <a href="SONGLYRICS">(Song Lyrics)</a>
                             </div>
                         </div>
                         <div class="tab-item">
@@ -184,7 +188,7 @@ hidden: true
                                 Event
                             </div>
                             <div class="value">
-                                TBA
+                                In a Pinch!? ☆ Pierce It In Half! Ninja Clan
                             </div>
                         </div>
                         <div class="tab-item">
@@ -478,7 +482,7 @@ hidden: true
                     </ul>
                 </div>  
                 <div class="mini-talks">
-                    <div class="mini-talk">
+                    <!--<div class="mini-talk">
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                         <div class="item">
@@ -495,7 +499,7 @@ hidden: true
                             <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="mini-talk">
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
@@ -514,7 +518,7 @@ hidden: true
                             </div>
                         </div>
                     </div>
-                    <div class="mini-talk">
+                    <!--<div class="mini-talk">
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
@@ -522,7 +526,7 @@ hidden: true
                             <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </div>            
             </div>
         </div>

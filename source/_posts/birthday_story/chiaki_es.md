@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Chiaki Morisawa Birthday"
-date: 2021/11/20 22:00:00
+date: 2019/9/18 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]
@@ -359,7 +359,7 @@ Ughh… I should've never said "cute"… Actually, I shouldn't have given you th
 
 Could you give it back? Immediately, please… Um, no, don't refuse my request so desperately…
 
-Huh…!? Its my present to you…? That wasn't at all why I gave it to you, though…?
+Huh…!? It's my present to you…? That wasn't at all why I gave it to you, though…?
 
 Ahh, dammit, this is so annoying… Fine, whatever. Feel free to make it your birthday present… So please just leave me alone already…
 {% endbubble %}

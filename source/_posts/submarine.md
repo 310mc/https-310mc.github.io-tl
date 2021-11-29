@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Submarine (In Progress!)"
-date: 2021-10-29 9:10:00
+date: 2021-11-28 9:10:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

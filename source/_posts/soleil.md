@@ -9,9 +9,8 @@ categories:
 tags:
 - Scout Story
 - Nishioka Maiko
-description: "[ES!!] Mitsuru and Shu find Tsumugi lying face down on a table in the outfit room..."
+description: "[ES!!] Mitsuru helps out Tsumugi with preparations…"
 ---
-
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

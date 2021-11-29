@@ -15,7 +15,7 @@ description: "[ES!!] Midori's Feature Scout Story, featuring Adonis, Niki, and R
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M_Bloomed.png)
 :-:|:-:
 
-Midori's Feature Scout Story, featuring Adonis, Niki, and Rinne. Midori wants to try out the new parfait, but he has to interact with people first…
+Midori wants to try out the new parfait, but he has to interact with people first…
 
 This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](https://ensemble-stars.fandom.com/wiki/(Parfait_of_Pure_Bliss)_Midori_Takamine).
 

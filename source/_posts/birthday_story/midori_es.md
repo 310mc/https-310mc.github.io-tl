@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Midori Takamine Birthday"
-date: 2021/11/21 23:00:00
+date: 2019/8/29 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]
@@ -99,7 +99,7 @@ Please look over here, there are so mascot characters…♪ Everyone knows me be
 #### <div mt="rare"></div> 1/3
 {% img /img/es/birthdaystory/es/midori/minitalk_1.jpg %}
 {% bubble Midori %}
-A-Anzu-san… Hello. Do you have work to do as a producer today, even though it's the summer holidays?
+A-Anzu-san… Hello. Do you have work to do as a producer today, even during the summer holidays?
 
 Hm? Me…? I was asleep, but then Morisawa-senpai suddenly invaded my home…
 
@@ -118,7 +118,7 @@ Then he called out to me saying, "I took your favorite pillow as hostage! If you
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Midori %}
-              Morisawa-senpai ruined one of my other favorite pillows before too.
+              Morisawa-senpai ruined one of my other favorite pillows before, too.
 
               I'll never forgive him…! I have to protect my pillow this time…!!
 
@@ -127,11 +127,11 @@ Then he called out to me saying, "I took your favorite pillow as hostage! If you
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Midori %}
-              Disaster doesn't even *begin* to describe how it… The truth is, today's my birthday…
+              Disaster doesn't even *begin* to describe how it—… The truth is, today's my birthday…
 
               And my parents told me that I don't have to help out at the greengrocer for today, so I really thought I'd be able to sleep as much as I like…
 
-              *Siiiiiiiigh*… Why do I have to come to school, of all places…
+              *Siiiiigh*… Why do I have to come to school, of all places…
 				{% endbubble %}
 			</div>
         </div>
@@ -158,7 +158,7 @@ Then he called out to me saying, "I took your favorite pillow as hostage! If you
             	{% bubble Midori %}
               So you know where he is?
 
-              …Hold on! Anzu-san, you can't possibly be aiming for that pillow too, right?!
+              …Hold on! Anzu-san, you can't possibly be aiming for that pillow too, right!?
 
               N-no! That pillow's the only one I can never give away—even if it's to you!!
 				{% endbubble %}
@@ -191,9 +191,9 @@ Is it for a birthday party… Like, mine…?
             	{% bubble Midori %}
               Ah, no, it's just—Pretty much the only people who've ever celebrated my birthday before are my family.
 
-              This is the first time someone else has done something like this for me, and I'm not exactly sure how to react…
+              This is the first time someone else has done something like this for me, so I'm not exactly sure how to react…
 
-              Maybe birthdays aren't so bad after all…♪
+              Maybe birthdays aren't so bad, after all…♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
@@ -222,14 +222,14 @@ Is it for a birthday party… Like, mine…?
 
               So this is what they were secretly talking to each other about in practice the other day, huh…
 
-              I was really curious about it since I couldn't hear it at all… But I'm happy to know that all along it was to throw me a birthday surprise…♪
+              I was really curious about it since I couldn't hear it at all… But I'm happy to know that it was just to throw me a birthday surprise…♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Midori %}
               Is that so… Suddenly I feel a chill down my—
 
-              Ggh?! Morisawa-senpai is looking at me with the biggest grin on his face…
+              Ggh!? Morisawa-senpai is looking at me with the biggest grin on his face…
 
               I’m sorry, Anzu-san, but I suddenly remembered something I gotta do, so can I go home…?
 				{% endbubble %}
@@ -244,7 +244,7 @@ Woah—!! I-I'm so sorry!
 
 Is that you, Anzu-san? I can't really see what's in front of me from all these presents…
 
-There's so many… How am I supposed to go home with all of them?
+There's so many… How am I supposed to take them all home with me?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -260,7 +260,7 @@ There's so many… How am I supposed to go home with all of them?
 			<div data-tab="1a-n">
       <img src="/img/es/birthdaystory/es/midori/exp2.jpg">
             	{% bubble Midori %}
-              W-where did this come from?! This stuffed toy is sold out in every shop right now…
+              W-Where did this come from!? This plushie is sold out in every shop right now…
 
               Huh? You made it yourself because you couldn't get hold of one? You're amazing as always, Anzu-san!
               {% endbubble %}
@@ -272,9 +272,9 @@ There's so many… How am I supposed to go home with all of them?
 			<div data-tab="1a-r" style="display: none">
       <img src="/img/es/birthdaystory/es/midori/exp1.jpg">
             	{% bubble Midori %}              
-              Huh?! I think I see something between all these presents…!!
+              Huh!? I think I see something between all the presents…!!
 
-              Captain Kidoairaku…?![^1] Did you wear it just for me?!
+              Captain Kidoairaku…!?[^1] Did you wear it just for me!?
 
               Wai—I can't see what's in front of me! Wait a sec! Please stay looking like that for a little longer…!!!
 				{% endbubble %}
@@ -296,16 +296,16 @@ There's so many… How am I supposed to go home with all of them?
 
               They said they chose it together, and that it’s definitely going to make me happy, or something…?
 
-              They told me not to open it right now, so I can’t wait to do that once I'm at home…♪
+              They told me not to open it right now, so I can’t wait to do that once I'm back at home…♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Midori %}
-              It's a football fish stuffed toy from Shinkai-senpai~♪ It's so cute and soft-looking…♪
+              It's a football fish plushie from Shinkai-senpai~♪ It's so cute and soft-looking…♪
 
               Hm? What did I get from Morisawa-senpai?
 
-              …He gave me a load of tokusatsu DVDs and said, "Do you like it?!"
+              …He gave me a load of tokusatsu DVDs and said, "Do you like it!?"
 
               …Why would he think I'd like this…?
 				{% endbubble %}
@@ -339,13 +339,13 @@ fufufu. happy birthday~ midori~…♪
 
 it's the summer holidays, yet so many people came over to celebrate your birthday. you're very blessed, midori.
 
-it looks like you got many presents, too. when it's about you, the first thing that comes to mind is mascot characters, yes~?
+it looks like you received many presents, too. when it's about you, the first thing that comes to mind is mascot characters, yes~?
 
-the truth is, i also brought mascot character merchandise for you. tadaaah, a football fish~…♪
+the truth is, i also brought mascot merchandise for you. tadaaah, a football fish~…♪
 
 i'm glad to know you like it. it's always nice to get what you love, no matter the amount, yes? ehehe…♪
 
-you look very happy being surrounded by your comrades and mascot characters. i'm also happy… *puka, puka*~♪
+you look very happy being surrounded by your friends and mascots. i'm also happy… *puka, puka*~♪
 {% endbubble %}
 
 ### Tetora
@@ -353,15 +353,15 @@ you look very happy being surrounded by your comrades and mascot characters. i'm
 {% bubble Tetora %}
 Ossu! Midori-kun, happy birthday!
 
-Heheh. You’ve finally caught up with me and Sengoku-kun. Now we’re all the same age~♪
+Heh, you’ve finally caught up with me and Sengoku-kun. Now we’re all the same age~♪
 
-It’s not that big of a difference? I mean, that’s true…
+It’s not that big of a difference? I mean, that’s true, but…
 
-But you’re tall, so you look mature, yeah? But your birthday is after both of us, so…
+You’re tall, so you look mature, yeah? But your birthday is after both of us, so…
 
-Hehe! ♪ It feels like a really good balance between the three of us!
+Hehe! ♪ It feels like a good balance between the three of us!
 
-Ah—But I wanna grow taller, so hmm…
+Ah—But I wanna grow taller myself, so hmm…
 
 Midori-kun, you don’t have to grow any bigger, ‘kay? Ooooh\~!!! I’m gonna do my best to surpass you\~! ☆
 {% endbubble %}
@@ -373,7 +373,7 @@ Happy birthday, Midori-kun~♪
 
 Nishishi, our surprise party was a huge success\~! You see, we'd been planning for this day in secret\~♪
 
-Huh?! You noticed how we were whispering to each other about something?
+Huh!? You noticed how we were whispering to each other about something?
 
 U-Uuu~ I really *should've* taken the initiative and hid everything from you… The ninja path is truly steep…
 
@@ -389,11 +389,11 @@ A*hem*. If you enjoyed it, then that's enough for me…♪
 {% bubble Subaru %}
 Takamin, happy birthday~☆
 
-Huh? Why do you look surprised? You were sparkly and smiling just a second ago~!
+Huh? Why do you look surprised? You were sparkling and smiling just a second ago~!
 
 Yep, yep, you were smiling reaaally nice! I could never imagine the usual you doing that~♪
 
-C’mon, smile like you were a second ago~ I loooved it~! ☆
+C’mon, smile like you were a second ago\~ I loooved it\~! ☆
 
 Oh wait, right… Sari~ told me a bunch of stuff earlier. Stuff like, “don’t just say whatever comes on your mind”…
 
@@ -429,7 +429,7 @@ Takamine, today’s your birthday, right? Happy birthday~♪
 
 Ahh, yep. I came here with Hajime, but… It’s not like I was against it, y’know?
 
-I even bought you a present. Look, it’s mascot character merch!
+I even bought you a present. Look, it’s mascot merch!
 
 Of *course* I know you like this stuff. I’m pretty sure almost everyone in class knows you love mascot characters.
 
@@ -483,7 +483,7 @@ I like how shortcakes look… Don’t they kinda look cute? I wonder if there’
 **Chocolate Cake (OK)**
 <!--{% img /img/es/birthdaystory/es/midori/chocolatecake.jpg %}-->
 {% bubble Midori curious %}
-Anzu-san, what cake do you like? I just realized I’ve never asked you before…
+Anzu-san, what kind of cake do you like? I just realized I’ve never asked you before…
 {% endbubble %}
 
 ## Birthday Motion

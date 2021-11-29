@@ -230,7 +230,7 @@ Let's. We’ll perform in a way that very much suits the spirit of Alkaloid. Eve
 
 {% img /img/es/eventstory/motorshow/ep2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 ………
 {% endbubble %}
 
@@ -284,7 +284,7 @@ I’ll have to back them up in case they get into any trouble! After all, a hero
 chiaki~ so you really did show up.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised %}
 Woah!? K-Kanata! Huh!? Weren’t all of Ryuseitai supposed to be on the opposite side of the venue!?
 {% endbubble %}
 
@@ -297,7 +297,7 @@ instead, they’re working hard to do whatever they can, as best as they can.
 {% endbubble %}
 
 {% bubble Chiaki %}
-I-I see… I’m glad to hear that. Actually, no— I knew deep down this would happen.
+I-I see… I’m glad to hear that. Actually, no—I knew deep down this would happen.
 
 Nagumo is already a hundred times more splendid a hero than when I first became a leader.
 
@@ -320,8 +320,8 @@ i can’t handle salty water— the only one who can wipe his tears away is <em>
 now then, with that said… let’s go join everyone else.
 {% endbubble %}
 
-{% bubble Chiaki %}
-Huh? Erm, but— I’m just a regular ol’ visitor, y’know!?
+{% bubble Chiaki worried %}
+Huh? Erm, but—I’m just a regular ol’ visitor, y’know!?
 
 And I just happened to end up here! I shouldn’t get in the way of their work when they’re focused, right!?
 {% endbubble %}
@@ -338,7 +338,7 @@ besides, you’d never distance yourself from others simply because you’re too
 we’re talking about mr. lonely here, aren’t we?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki cry %}
 Uuu… *<th>(sobs)</th>* I’m sorry! I lied to myself!
 
 I was actually so, so, sooooo worried!! I wanted to do whatever I could for them!
@@ -534,15 +534,15 @@ Mhm! It’s always been a hero’s duty to protect those in anguish to the very 
 <th>(You’re no longer babies who’re helpless on your own— You’ve become splendid adults.)</th>
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori angry %}
 …Hey, you. Don’t you *dare* think about slipping out of here all proud and happy — You’re on stage right now, so please make sure to do what you’re *supposed* to do.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised %}
 T-Takamine? What’s wrong, you seem kind of angry…? You shouldn’t kick your senior’s butt, y’know?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sideeye %}
 *So* sorry about that. It was entirely an accident, my legs are just long.
 {% endbubble %}
 
@@ -554,7 +554,7 @@ after all, we knew for a fact that you’d come over one way or another…
 and this performance requires all five of us for it to glow best, so you won’t be helping anyone by stepping back.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile %}
 Exactly. Just having these M and N tags doesn't change a thing about us…
 
 You’re still a hero, and a member of Ryuseitai at that, aren’t you? So please don’t go around showing your uncool side.
@@ -568,7 +568,7 @@ It’s gonna throw us off if you act so lame… Since you’re still part of Ryu
 heheh. you heard him, chiaki.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 Yeah… If someone really *does* end up thinking I’m uncool, it’s over for me. I can’t let that happen when I still want to become a cool hero…
 {% endbubble %}
 

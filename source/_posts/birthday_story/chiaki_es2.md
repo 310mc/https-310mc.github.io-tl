@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Chiaki Morisawa Birthday"
-date: 2021/11/20 22:00:00
+date: 2021/9/18 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -166,7 +166,7 @@ Woah—! S-Sengoku!? I couldn't even tell you were nearby until you greeted me!
 {% endbubble %}
 
 {% bubble Shinobu %}
-Heheh~ That's because I used my ninjutsu to sneak up to you~♪ I've brought you a present, too.
+Heheh~ That's because I used my ninjutsu to sneak up on you~♪ I've brought you a present, too.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -371,7 +371,9 @@ We’ll only get to be together for a short while, but that’s why I want every
 Alright, are you ready? Let’s get things started!
 {% endbubble %}
 
-<center><button data-tippy-content="Let's make today a day to remember forever!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><button data-tippy-content="Alright, are you all ready?"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_5.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Let's make today a day to remember forever!">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="Alright, are you all ready?">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Question Corner
 {% bubble Chiaki %}
@@ -387,7 +389,9 @@ Great question! That’d of course be: the bonds betweens comrades! The passiona
 Oh, and I love how it’s always about justice prevailing no matter what!
 {% endbubble %}
 
-<center><button data-tippy-content="Tokusatsu is great! You should all check it out, too!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_12.png" width="160"></button><button data-tippy-content="I wish I had more time to mention everything I love about it!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_4.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_12.png" width="150" data-tippy-content="Tokusatsu is great! You should all check it out, too!">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_4.png" width="150" data-tippy-content="I wish I had more time to mention everything I love about it!">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Request Corner
 {% bubble Chiaki %}
@@ -404,7 +408,9 @@ This is where you’re meant to get past the defense, and take the perfect layup
 This is commonly taught in school, so you might’ve already seen it before. I’d love it if you could try it out the next time you play basketball!
 {% endbubble %}
 
-<center><button data-tippy-content="This is the basics of basketball, but it’s fundamental for a reason!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_3.png" width="160"></button><button data-tippy-content="It’s a lot of fun to do physical exercise!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_10.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="This is the basics of basketball, but it’s fundamental for a reason!">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_10.png" width="150" data-tippy-content="It’s a lot of fun to do physical exercise!">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Surprise Corner
 {% bubble Chiaki %}
@@ -421,7 +427,9 @@ I got another card from Sports Survival, and the last one is from Shin Circle! T
 Oh, I can’t hold back my happiness anymore! I feel so much warmth deep in my soul…! I’ll take my sweet time reading them later, and engrave their messages deep inside me…!
 {% endbubble %}
 
-<center><button data-tippy-content="I’m so close to tearing up…!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/17/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_8.png" width="160"></button><button data-tippy-content="Thanks for today, everyone!"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/17/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_8.png" width="150" data-tippy-content="I’m so close to tearing up…!">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Thanks for today, everyone!">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Ending Talk
 {% bubble Chiaki %}

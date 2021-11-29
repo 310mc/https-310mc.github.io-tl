@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Midori Takamine Birthday"
-date: 2021/11/21 23:00:00
+date: 2021/8/29 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -440,7 +440,7 @@ Ahh, Anzu-san, hello. I hope work has been going well… Is there something wron
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            So you miss veggies?
+            So you miss vegetables?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
@@ -579,7 +579,9 @@ I’ll be answering the questions and requests you all sent today.
 I hope you can enjoy this the whole way…
 {% endbubble %}
 
-<center><button data-tippy-content="I hope you enjoy the event."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/Midori_Takamine_Work_Birthday_Flowers_Chibi_1.png" width="160"></button><button data-tippy-content="Okay, let’s start with this corner."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/Midori_Takamine_Work_Birthday_Flowers_Chibi_1.png" width="150" data-tippy-content="I hope you enjoy the event.">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="Okay, let’s start with this corner.">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Question Corner
 {% bubble Midori %}
@@ -596,7 +598,9 @@ Next up… “Which mascot character are you crazy about the most right now?” 
 Mrmm… I can’t *not* say Kana-tee, but the veggie mascot that shows up in commercials is super cute, too… I can’t choose one, sorry…
 {% endbubble %}
 
-<center><button data-tippy-content="I hope I don't get anything difficult to answer…"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><button data-tippy-content="I definitely recommend the seasonal veggies."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Midori_Takamine_Work_Birthday_Flowers_Chibi_5.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I hope I don't get anything difficult to answer…">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Midori_Takamine_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="I definitely recommend the seasonal veggies.">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Request Corner
 {% bubble Midori %}
@@ -615,7 +619,9 @@ Next is… “I want to see you do your handstand technique!”. …Wow, you kno
 Oh well, I’ll do it then. Here goes—
 {% endbubble %}
 
-<center><button data-tippy-content="This was surprisingly the most requested one."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="160"></button><button data-tippy-content="I hope you all enjoyed it."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="This was surprisingly the most requested one.">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I hope you all enjoyed it.">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Surprise Corner
 {% bubble Midori %}
@@ -632,7 +638,9 @@ I didn’t know you guys were planning that at all. So even Tetora-kun, Shinobu-
 You caught me by surprise, but I’m really glad to know that you wanted to do that for me.
 {% endbubble %}
 
-<center><button data-tippy-content="Hehe, that’s just what you’d expect from Ryuseitai."><img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Midori_Takamine_Work_Birthday_Flowers_Chibi_8.png" width="160"></button><button data-tippy-content="Time passed by quickly…"><img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="160"></button><br><i>Hover/Click the chibi to see the quote!</center>
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Midori_Takamine_Work_Birthday_Flowers_Chibi_8.png" width="150" data-tippy-content="Hehe, that’s just what you’d expect from Ryuseitai.">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Time passed by quickly…">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
 
 ### Ending Talk
 {% bubble Midori %}

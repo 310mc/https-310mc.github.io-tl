@@ -752,7 +752,7 @@ But they do have to keep certain things in mind, such as Kazehaya-dono’s linge
 So it’s possible that their fatigue was simply temporarily blown away because of a runner’s high, so to speak.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 ………
 {% endbubble %}
 
@@ -760,7 +760,7 @@ So it’s possible that their fatigue was simply temporarily blown away because 
 Tetora-kun? Hellooo~? Are you listening to me?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 Ah, yea. Sorry. You’re right, I’m just “Tetora-kun” in the end…
 
 I don’t have the right to be called Taichou… I’m the black shooting star, reflecting no light…
@@ -772,7 +772,7 @@ Huh!? What’s wrong!? You’re seriously turning more into Midori-kun, *Taichou
 I understand how you feel, but please cheer up~!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 …Did someone say my name just now?
 {% endbubble %}
 
@@ -782,23 +782,23 @@ Ah! You’ve finally arrived, Midori-kun!
 I’ve missed you~ We barely get to see each other lately… Were you able to finish up your solo work?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Yeah, I’ve missed you guys too… I need emotional support…
 
 I just keep regretting every solo job I’ve taken… Ahh, I wish I could kill my past self for being so damn careless…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Ack, please don’t lose heart too, Midori-kun! The mood keeps getting heavier in here…!
 
 Both of you, lighten up! You can do anything with enough fighting spirit!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 …Heheh. Yeah, sorry, that wasn’t like me at all. Midori-kun made me realize just now that I’m not even decent at being depressed.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 Huh? What the heck does that even mean…? That doesn’t sound like a compliment…
 {% endbubble %}
 
@@ -808,7 +808,7 @@ It is! I mean, you’re our biggest earner in Ryuseitai-N right now.
 That means you stand out as an idol, and now people wanna see more of you. I’m really jealous.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Whaaa… I don’t really stand out, though…
 
 It’s the people around me that’re so peculiar in their own way, it’s almost baffling to see… Meanwhile, I’m just a regular highschooler you’d find anywhere…
@@ -820,7 +820,7 @@ Ahaha, no *regular* highschooler would get chosen over professional models to be
 It was for a national magazine, wasn’t it? And thanks to that, people have been recognizing you — We’re now getting tons of people coming over to our Ryuseitai-N live shows just to see you.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Uuu… Hate it… It’s all ‘cause of that magazine that I can’t go one step into the streets without someone talking to me…
 
 I can barely respond back in a way an idol should…
@@ -838,7 +838,7 @@ You’re super handsome, so I think it’s great that you’re getting the chanc
 I would also love to work in a job that makes use of my ninja arts, as it is my strongest merit.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Your unique ninja trait limits you a lot from having opportunities to shine as one, huh…?
 
 Yet the wacky thing about this industry is that there’s *always* a job out there for something…
@@ -858,11 +858,11 @@ Mhm, mhm! You’ve gotten so much better now, Midori-kun! You’re not acting on
 Wonderful, wonderful! You’re doing a great job~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Uuu… Thanks, Shinobu-mama—
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Since when was I your mama!?
 {% endbubble %}
 
@@ -872,7 +872,7 @@ Ahaha, thanks Midori-kun, the mood’s back to our usual now.
 You really picked me up outta that mindset. What a heroic deed you did right there~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Huh, I didn’t really do anything, though… I feel kinda bad actually; I just spilled every negative thought I had the moment I got here…
 
 I thought the best choice would be to avoid showing my depressing side to anyone except people close to me, so I ended up building up a lot of stress inside…
@@ -892,7 +892,7 @@ Ahhh, from what I know, the person who’s been giving him a lot of jobs lately 
 Apparently, she fell in love at first sight when Midori-kun and I had the job that introduced strawberry picking to people—[^8]
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Yeah, that’s the one… It’s such a dirty move to have a higher-up mixed in with the general crowd…
 
 I appreciate her supporting me, but her love feels so heavy…
@@ -904,7 +904,7 @@ I feel like she’s just been making me into her very own dress-up doll…
 Ahaha, what’s so bad about getting a chance to marry a multi-millionaire? Man, this kinda romance talk is unlike you, we rarely get to hear about this kinda stuff~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 What’re you on about… She’s just a little kid, y’know… And I’m pretty sure she only likes me for my looks…
 
 It’s like I can barely get my point across with her… it really makes you think of a certain someone—
@@ -914,31 +914,31 @@ It’s like I can barely get my point across with her… it really makes you thi
 …But if Morisawa-senpai was here, I bet he’d solve all our problems perfectly, no matter what they may be.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Uh, nobody mentioned that guy, though…? Besides, what’s dead is dead; we have to overcome our hardships on our own now.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Hold on a moment! He’s not actually dead, y’know…!?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 As a Ryuseitai member, he is… He’s been doing way more work outside of the unit than I have…
 {% endbubble %}
 
 {% bubble Shinobu %}
-You make a good point there, it does feel as though he’s left Ryuseitai in our hands… And he was very sudden and curt about it — Honestly, this was hardly what I expected to happen.
+You make a good point there, it does feel as though he’s left Ryuseitai in our hands… And he was very sudden and curt about it—Honestly, this was hardly what I expected to happen.
 
 For example, I can understand Shinkai-dono’s situation, as he has yet to finish dealing with the issue concerning his household, but…
 
 I always thought that Morisawa-dono would work hard as a passionate hero until his dying breath.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori hmph %}
 <em>Hmph</em>… All his “I love you”’s weren’t true after all; he’s all talk and no action…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 No way, I’m sure there’s *way* more to it than that.
 
 While I didn’t think of him as that type of person back when he was still in school, he’s actually the sort of cunning guy who's always thinking ahead.
@@ -954,11 +954,11 @@ I won’t be suitable for the job if I continue to stay as a kid.
 But… I really dunno what I gotta do to become an adult…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 ………
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 ………
 {% endbubble %}
 

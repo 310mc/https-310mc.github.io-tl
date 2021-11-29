@@ -347,7 +347,7 @@ I’m fine with fictional mascots, but real dogs are alive and can move around�
 
 Don’t mooove… Don’t get cuddly with me, I’m not your owner…
 
-<th>(What do I do now…? And whose dog *is* this… I feel like I’ve seen it before…. Maybe I should check for a collar…)</th>
+<th>(What do I do now…? And whose dog *is* this… I feel like I’ve seen it before… Maybe I should check for a collar…)</th>
 
 Eeek!! I’m sorry, did I tickle you? Please don’t make a weird noise…
 

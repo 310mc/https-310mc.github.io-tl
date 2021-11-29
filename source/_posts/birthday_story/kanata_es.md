@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Kanata Shinkai Birthday"
-date: 2021/11/21 00:00:00
+date: 2019/8/30 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]

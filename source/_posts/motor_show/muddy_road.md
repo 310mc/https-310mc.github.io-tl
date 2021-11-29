@@ -79,7 +79,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 **Time:** A few days later, at night — On the way home after an all-out practice session with Ryuseitai-N
 {% endnote %}
 
-{% bubble Midori %}
+{% bubble Midori thinking %}
 Huh… So *that’s* why you’ve been down lately…?
 
 'Cause our newcomers are dropping like flies…
@@ -89,13 +89,13 @@ Actually, now that I think about it, we didn’t really have that many people ar
 But I try to avoid talking to them, so I don't actually recognize any of them well enough to know if that's true…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Erm, I would honestly like you to *try* and learn about them, though.
 
 We’re the only seniors in Ryuseitai-N, so we must act as the mediators for our leader Tetora-kun and the newcomers.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Uuu… I'm horrible at that, though… I thought I wouldn't have to bother with it, especially since Tetora-kun can get along with basically anyone right off the bat…
 
 Meanwhile, I never really opened my heart to anyone until I got to high school… but then you two became such dear friends to me…
@@ -107,11 +107,11 @@ That just goes to show how kind and special you guys are…
 …You said that so earnestly, you’re going to make me blush…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Huh? Sorry… Did I say something weird?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 Ahaha, I thought that I’d be able to get along with anyone, too, since I’m pretty social.
 
 But leading your juniors and being friendly with your peers are two entirely different things.
@@ -125,7 +125,7 @@ I bet if I was cooler and actually had something going for me, then everyone wou
 I can't help feeling super disappointed in myself — I’m lacking in literally <em>everything</em>.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking %}
 Mmm… So it’s like, that type of personality is perfect as a coworker, but not so much as a boss, huh… Not that I would know.
 
 Though now that you mention it, you *do* give off the vibe of a boss people would easily underestimate.
@@ -133,11 +133,11 @@ Though now that you mention it, you *do* give off the vibe of a boss people woul
 You don’t ever snap at anyone, so it’s like, I dunno, feels like you’d turn a blind eye to anything your subordinates do and laugh it off…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised %}
 Uhhh, why does that not sound like a compliment at all…!? I get angry every now and then too, y’know?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Whaaa… But as far as I can recall, you've only ever snapped once…
 
 I know I'm kind of a pain, so… It's no surprise I get on people's nerves.
@@ -149,11 +149,11 @@ You always gritted your teeth and bore it, all for my sake…
 And the one time you *did* snap, I completely deserved it, really… I mean, *anyone* would’ve been pissed off at me for that.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Well, nah, it was on me, too. I was so immature about it — I should’ve believed in you and given you time, or maybe even tried to talk it out. Not dump a full-blown rant on you. Man…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 But we didn’t *have* time back then… You could say it went kinda like a sudden car crash…
 {% endbubble %}
 
@@ -175,7 +175,7 @@ We should stay positive about this. Shouldering nothing but worries would only c
 Mm… Yeah, I’m not really good at clearing my thoughts up like that, but I’ll do my best to push forward! The black flames are the mark of effort, after all!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile %}
 Ahaha, haven’t heard *that* in a while.
 {% endbubble %}
 
@@ -185,13 +185,13 @@ Ossu, it’s ‘cuz we haven’t been working as part of Ryuseitai-M for a while
 I’ve just been wearing the red outfit this whole time, when I don’t even suit the size yet.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Yeaaah, that’s a whole other can of worms…
 
 Are we really sure Morisawa-senpai and Shinkai-senpai are gonna stick around…? Or did they seriously lose all interest in being part of Ryuseitai…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 No way, that can’t be it… Or well, I hope not.
 
 Actually, even if that *was* their plan, then we’re gonna inherit Ryuseitai and the spirit of justice and protect it ourselves.
@@ -205,15 +205,15 @@ C-Cease this at once, Midori-kun! Don’t sour the mood after how hard Tetora-ku
 *Rin-pyou-tou-sha-kai-jin-retsu-zai-zen!*
 {% endbubble %}
 
-{% bubble Midori %}
-What the— The heck was that? A spell to exterminate demons or something?
+{% bubble Midori worried %}
+What the—The heck was that? A spell to exterminate demons or something?
 {% endbubble %}
 
 {% bubble Shinobu %}
 It’s called <em>kuji</em>~[^10] Since ninjas recite it so often for some reason, it’s quite well-known to me!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Um, that doesn't explain why you rattled it off so suddenly, though…? To this day, I still have moments where I just don’t get either of you…
 
 But, well, it’s only natural that I don’t… since we’re all different people.
@@ -225,7 +225,7 @@ Take it from someone who’s always been depressed. It’s possible the newbies 
 And now that they’ve left, they’re not part of Ryuseitai-N anymore. You'll wear yourself out worrying about them on top of everything else…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 Uumyu… But it's not that I’m depressed or anything.
 
 It’s just that I have to think these things through— I’m the leader after all, the very same guy who inherited the red color from Morisawa-senpai.
@@ -247,23 +247,23 @@ Otherwise… I’ll never, ever move forward.
 **Time:** A few minutes later
 {% endnote %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Huh… So most people who quit said something about how Ryuseitai-N's different from what they thought it’d be…?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 You got it… I dunno what they were expecting from Ryuseitai, but it sounds like we really let ‘em down…
 
 What exactly they mean by "different" is beyond me…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Hrmm… They probably wanted to join us ‘cause they saw what we were like last year, right…?
 
 So maybe they were expecting that they could be like that the moment they joined…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 What we were like last year…?
 
 Uumyu~… I’m clueless about how people saw us last year… I was always so desperate to keep up with everything that I barely had a chance to think.
@@ -277,7 +277,7 @@ Hrmmm… If we were to look at it from an outside perspective—
 I suppose we must’ve given off the impression of a friendly, cozy unit revolving around Morisawa-dono, like we’re always having the time of our lives. Or that every day’s a summer festival in full swing for us, perhaps.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Ahh… You kinda lost me there, but I also do get what you’re trying to say.
 
 I’m guessing they were readying themselves to have a blast with friends in sparkling summer festivals.
@@ -287,11 +287,11 @@ But in reality, all they’re allowed to do is break a sweat *preparing* stuff f
 They’ve just been practicing the basics day in and day out, and even then, they don’t get a big role in our jobs.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sigh %}
 Ahh… That *would* be a disappointment. Though personally, I think preparation can be quite fun once you get used to it.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Yeah, but I bet they just wanted to jump right into enjoying good street food and having fun together…
 
 After all, it’s not like *they* got to see what went on backstage— and all the blood, sweat, and tears we poured into setting up everything for the festival…
@@ -299,13 +299,13 @@ After all, it’s not like *they* got to see what went on backstage— and all t
 Or how much Morisawa-senpai ran himself ragged with preparations and begging the higher-ups for permission, all for the sake of a festival that spanned only a moment in our lives — they don’t know a lick of it.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 …I wonder if that’s what I’m missing…
 
 I have to push myself further and do what it takes to prepare a live show that everyone can enjoy… a festival that’d be exactly what they want—
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Oh, no! On the contrary, I think you’re doing more than enough as is, Tetora-kun!
 
 Our objective as idols is to entertain our fans with our radiance — it is precisely because we succeeded in this task that they have grown to adore us.
@@ -313,13 +313,13 @@ Our objective as idols is to entertain our fans with our radiance — it is prec
 You’d be losing sight of your goal if you strive instead to gain the favor of your own unitmates.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 But it’s gotta be true somehow. I *must* be lacking in some places.
 
 Morisawa-senpai made sure to make both our jobs *and* our personal time together enjoyable, so I have to try harder and do the same—…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Ahhh, you’re gonna *actually* become depressed for real if you keep saying nothing but that…
 
 Man, you’re taking this so seriously… Meanwhile, I’m more than glad to know people are quitting…
@@ -327,23 +327,23 @@ Man, you’re taking this so seriously… Meanwhile, I’m more than glad to kno
 It’s exhausting with so many members around… I’ve been getting sick of it, so they can keep dropping out as they like…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Midori-kun, you shouldn’t be saying that outloud, even if it’s how you feel.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Sure, but… You can’t deny that it's really costing us to manage all our newbies, on top of everything else we need cash for…
 
 Considering how each practice session burns through our L$, we'd be better off without the unmotivated guys…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Nah, c’mon. I mean, last year you kept going on about being depressed or wanting to die or not wanting to do a thing, right? But even then, our seniors *never* gave up on you.
 
 That’s the sorta unit we inherited, so it doesn’t make sense for us to throw away other kids who don’t feel like doing anything.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking %}
 Mm… Oh yeah, didn’t you say stuff like that last year too? You’d always talk about how things were different from what you expected…
 
 I think you wanted to be in Akatsuki first, right…? Didn’t you used to complain about that at first? Like, you always looked like you didn’t feel as if this was where you belong.
@@ -355,8 +355,8 @@ What made you stop feeling that way? Maybe once you figure that out, we could fi
 GOOOOOD WORK EVERYONE!
 {% endbubble %}
 
-{% bubble Midori %}
-Eep!? What the— Hey, doesn't that stupidly loud voice sound way too familiar…?
+{% bubble Midori worried %}
+Eep!? What the—Hey, doesn't that stupidly loud voice sound way too familiar…?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -369,7 +369,7 @@ I’m really sorry I can’t stay! I’ll be taking my leave now, s—
 Oh!? You guuuys…!! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Ugh, he just *had* to notice us.
 {% endbubble %}
 
@@ -383,11 +383,11 @@ Actually, you don’t seem all that energetic, huh? What’s up!?
 Are you all feeling well? Sleeping well? Eating well? Keeping the flame of justice burning within your hearts well…!?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Eugh…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 “Eugh,” indeed… There is no way anyone could handle the embarrassment of someone loudly calling out to them from across the street… Even I almost want to pretend we’re strangers.
 {% endbubble %}
 
@@ -405,7 +405,7 @@ What’s that supposed to mean? I wanted to discuss all sortsa things with Moris
 Also, it’s just natural for sportsy peeps to greet their seniors, y’know?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking %}
 Ahhh… You know, it’s possible the newbies dislike that side of you…
 
 I mean, a bunch of them are more of the geeky type who love tokusatsu shows, sooo…
@@ -415,7 +415,7 @@ I mean, a bunch of them are more of the geeky type who love tokusatsu shows, soo
 You guuuys~! What’re you talking about!? Yell back your responses, or I won’t be able to hear you! Let me in your conversations! Share with me your experiences!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Holy crap… It's been so long that I'd almost forgotten just *how* annoyingly loud his voice is… Why does he need to yell so much…?
 
 Can't I just head home first and let you guys deal with *that* mess of a guy…?
@@ -481,7 +481,7 @@ Oh, really? Wait a sec— I know I’m asking this late, but didn’t you *just*
 Do you really have the time to eat dinner right now…? Weren’t you gonna get driving lessons or somethin’?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 Ahh, erm, well… That was just an excuse I came up with on the spot.
 
 As a hero who kiddos look up to, I shouldn’t get anywhere near alcohol or smoking.
@@ -529,7 +529,7 @@ I make mistakes almost every day, and I've spent plenty of nights lying awake ha
 But of course! When the camera’s rolling or the kiddos are watching, I'm none other than the invincible hero! Fuhahahaha! ☆
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 Ossu… Right, you always were that kinda person, werent’cha?
 
 I really do look up to you. I’m still nowhere near your level, and I haven’t pushed out anything but crappy results…
@@ -541,15 +541,15 @@ But right now, Ryuseitai-N is crumbling. It really shows how I’m just not fit 
 Nothing about me is enough, from my hard work to my capability—
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 ………
 {% endbubble %}
 
-{% bubble Tetora %}
-Ah— I’m so sorry. I ended up venting… I couldn’t help it, seeing you made me feel so relieved, and…
+{% bubble Tetora sad %}
+Ah—I’m so sorry. I ended up venting… I couldn’t help it, seeing you made me feel so relieved, and…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Nagumo.
 
 Do you need help?
@@ -563,17 +563,17 @@ Ah, um… Nah, don’t worry about it. You’re busy as hell, and we can’t kee
 We’ll figure something out for Ryuseitai-N on our own.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Hm… Alright then.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 <th>(Huh? I didn't expect him to let it go so easily.)</th>
 
 <th>(I was sure he'd try to jump in and help… That's what the usual Morisawa-senpai would have done—at least in the past.)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 …I *finally* get how Mikejima-san feels…
 {% endbubble %}
 
@@ -591,7 +591,7 @@ Right then, see you all later. I’m really glad we got to talk. You seem to be 
 Alright, farewell!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 …He’s gone. What was *that* about…? He was acting kinda weird.
 {% endbubble %}
 
@@ -599,7 +599,7 @@ Alright, farewell!
 I wonder… As always, it feels like you could understand him at first glance, but end up finding out it’s actually the opposite.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 ………
 {% endbubble %}
 

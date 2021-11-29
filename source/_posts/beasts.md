@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Beasts (In Progress!)"
-date: 2021-11-17 9:00:00
+date: 2021-11-27 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Arashi]
