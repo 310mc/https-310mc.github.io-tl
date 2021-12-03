@@ -58,6 +58,39 @@ hidden: true
 
 <!-- more -->
 
+<div class="toolbar-wrapper" style="--storyColor:#965e7d">
+	<div class="slider-container">
+		<input type="range" min="1" max="5" value="3" class="slider">
+	</div>
+	<div class="toolbar">
+		<div class="toolbar__section">
+			<a href="/ninja_clan/grasping_for_something">
+				<span class="material-icons-round">arrow_back</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="colorFill()">
+				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan">
+				<span class="material-icons-round">star</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="sliderDrop()">
+				<span class="material-icons-round">format_size</span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan/demonstrating_the_elements">
+				<span class="material-icons-round">arrow_forward</span>
+			</a>
+		</div>
+	</div>
+</div>
+
 ## Chapter 1
 
 {% bubble Chiaki thinking %}
@@ -80,7 +113,7 @@ Alright, I understand what’s happening now. So you called us over to think up 
 Yeah, basically.
 {% endbubble %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora v2 %}
 We tried to work it out on our own at first, but we couldn’t come up with anything good enough… so we decided to go back to the basics!
 {% endbubble %}
 
@@ -318,4 +351,6 @@ Yep, exactly! Ah—but we still need to make sure we appeal the charm correctly.
 That’s how you’ll see a glimmer of light at the end of the tunnel!
 {% endbubble %}
 
-<div toc>{% btn /ninja_clan/grasping_for_something,, arrow-left, Previous Chapter: Grasping for Something %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/meeting_with_the_elements,, arrow-right, Next Chapter: Meeting with the Elements %}</div>
+<div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
+{% btn /ninja_clan/grasping_for_something,, arrow-left, Previous Chapter: Grasping for Something %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/demonstrating_the_elements,, arrow-right, Next Chapter: Demonstrating the Elements %}</div>

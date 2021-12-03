@@ -43,7 +43,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka
+                    ryuseipuka<br><a href="https://twitter.com/junsweats">junsweats</a> for Mao's voice
                 </div>
             </div>
         </div>
@@ -51,6 +51,34 @@ hidden: true
 </div>
 
 <!-- more -->
+<div class="toolbar-wrapper" style="--storyColor:#965e7d">
+	<div class="slider-container">
+		<input type="range" min="1" max="5" value="3" class="slider">
+	</div>
+	<div class="toolbar">
+		<!--<div class="toolbar__section">
+			<a onclick="colorFill()">
+				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan">
+				<span class="material-icons-round">star</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="sliderDrop()">
+				<span class="material-icons-round">format_size</span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan/its_all_over">
+				<span class="material-icons-round">arrow_forward</span>
+			</a>
+		</div>
+	</div>
+</div>
+
 <link rel="stylesheet" href="">
 ==
 
@@ -101,7 +129,7 @@ But when I informed them that you asked for me, they were alright with me priori
 {% endbubble %}
 
 {% bubble Mao worried %}
-Oh, I see… I feel bad now, I’m really sorry for taking time away from your meeting.
+Oh, I see… Now I feel bad, sorry for taking time away from your meeting.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -125,9 +153,9 @@ Huh? Ehehe~♪ You’re going to make me blush…
 {% endbubble %}
 
 {% bubble Mao awkward %}
-Ahhh… Um, so you see…
+Ahhh… So, um, you see…
 
-H-Haha, actually, how’s it going lately, Sengoku? Hasn’t it been rough in the council? Have you gotten sick of it~?
+H-Haha, a-actually, how’s it going lately, Sengoku? Hasn’t it been rough in the council recently? Have you gotten sick of it~?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -145,7 +173,7 @@ So being a member of the Student Council makes me feel fulfilled in a refreshing
 {% endbubble %}
 
 {% bubble Mao %}
-O-Ohhh…! Is that so? I’m glad to hear that!
+O-Ohhh…! Is that so? I-I’m glad to hear that!
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -167,7 +195,7 @@ So please feel free to tell me anything, no matter how difficult it may be!
 {% endbubble %}
 
 {% bubble Mao %}
-O-Oh… Alright, thank you, Sengoku. I’ll bite the bullet, then.
+O-Oh… Alright, thank you, Sengoku. I-I’ll bite the bullet, then.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -175,7 +203,7 @@ O-Oh… Alright, thank you, Sengoku. I’ll bite the bullet, then.
 {% endbubble %}
 
 {% bubble Mao serious %}
-…The truth is, the Ninja Association will be disbanded if nothing changes about it by the end of summer vacation.
+…The truth is, the Ninja Association will be disbanded if nothing changes by the end of summer vacation.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -183,7 +211,7 @@ O-Oh… Alright, thank you, Sengoku. I’ll bite the bullet, then.
 {% endbubble %}
 
 {% bubble Mao worried %}
-Aaack!? He fainteeeddd!? G-Get a hold of yourself, Sengoku!!!
+Aaack!? He fainteeeddd!? G-Get a hold of yourself, Sengokuuu!!!
 {% endbubble %}
 
 <div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/its_all_over,, arrow-right, Next Chapter: It's All Over %}</div>

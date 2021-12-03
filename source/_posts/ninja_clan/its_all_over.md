@@ -47,7 +47,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka
+                    ryuseipuka<br><a href="https://twitter.com/junsweats">junsweats</a> for Mao's voice
                 </div>
             </div>
         </div>
@@ -55,6 +55,39 @@ hidden: true
 </div>
 
 <!-- more -->
+
+<div class="toolbar-wrapper" style="--storyColor:#965e7d">
+	<div class="slider-container">
+		<input type="range" min="1" max="5" value="3" class="slider">
+	</div>
+	<div class="toolbar">
+		<div class="toolbar__section">
+			<a href="/ninja_clan/prologue">
+				<span class="material-icons-round">arrow_back</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="colorFill()">
+				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan">
+				<span class="material-icons-round">star</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="sliderDrop()">
+				<span class="material-icons-round">format_size</span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan/grasping_for_something">
+				<span class="material-icons-round">arrow_forward</span>
+			</a>
+		</div>
+	</div>
+</div>
 
 ## Chapter 1
 
@@ -290,7 +323,7 @@ The truth is—
 {% endnote %}
 
 {% bubble Mao worried %}
-G-Get a hold of yourself, Sengoku!!! Lemme lift ya back up—Whew, you okay? Can you stand?
+G-Get a hold of yourself, Sengokuuu!!! Lemme lift ya back up—Whew, you okay there? Can you stand?
 
 I’m so sorry, I didn’t expect you to faint…
 {% endbubble %}
@@ -306,7 +339,7 @@ I heard you say that the Ninja Association will disband by the end of summer vac
 {% endbubble %}
 
 {% bubble Mao worried %}
-Huh? Umm…… W-Weeeell…
+Huh? Uhh…… W-weeell…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -336,7 +369,7 @@ Why~!? Why did it come to this!?
 {% endbubble %}
 
 {% bubble Mao frown %}
-Mrmm… To be clear, this isn’t only about the Ninja Association.
+Mmm… To be clear, this isn’t only about the Ninja Association.
 
 The Club Committee was discussing the maintenance of all the clubs with very few members, or no newcomers at all.
 
@@ -374,7 +407,7 @@ Uuu\~! They’re all western-inspired clubs\~! Actually, don’t *these* seem li
 {% endbubble %}
 
 {% bubble Mao awkward %}
-Ah, yeah, about that… Apparently they got pretty popular. There’s more than ten people in each club.
+Ah, yeah, about that… Apparently they got preeetty popular. There’s like, more than ten people in each club.
 {% endbubble %}
 
 {% bubble Shinobu angry %}
@@ -388,7 +421,7 @@ Then I’m left with no choice but to do whatever it takes to save it, even if i
 {% bubble Mao worried %}
 S-Stop, calm down! Weren’t you supposed to be one of the few people with common sense in this wacky school?
 
-You represent the good parts of this academy, so don’t say something so twisted~!
+You’re one of the good students in this academy, so don’t say something so twisted~! Please!
 {% endbubble %}
 
 {% bubble Shinobu cry %}
@@ -396,7 +429,7 @@ Uuu, <em><th>(sobs)</th></em>… B-But I… I can’t stand the thought of watch
 {% endbubble %}
 
 {% bubble Mao serious %}
-Yeah, I know all too well how you feel. That’s why I told you about this as early as I could.
+Yeah, I know how you feel all too well. That’s why I told you about this as soon as I could.
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -404,7 +437,9 @@ Huh…?
 {% endbubble %}
 
 {% bubble Mao angry %}
-Sengoku. You just need one person. Get me one member to join your club before the official announcement, and I swear to you I’ll do something about this…!
+Sengoku. You need *just* one person. Get me one member to join your club before the official announcement, and I swear I *will* do something about this…!
 {% endbubble %}
 
-<div toc>{% btn /ninja_clan/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/grasping_for_something,, arrow-right, Next Chapter: Grasping for Something %}</div>
+<div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
+{% btn /ninja_clan/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/grasping_for_something,, arrow-right, Next Chapter: Grasping for Something %}</div>

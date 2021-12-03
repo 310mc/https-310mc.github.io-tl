@@ -58,6 +58,39 @@ hidden: true
 
 <!-- more -->
 
+<div class="toolbar-wrapper" style="--storyColor:#965e7d">
+	<div class="slider-container">
+		<input type="range" min="1" max="5" value="3" class="slider">
+	</div>
+	<div class="toolbar">
+		<div class="toolbar__section">
+			<a href="/ninja_clan/its_all_over">
+				<span class="material-icons-round">arrow_back</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="colorFill()">
+				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan">
+				<span class="material-icons-round">star</span>
+			</a>
+		</div>
+		<!--<div class="toolbar__section">
+			<a onclick="sliderDrop()">
+				<span class="material-icons-round">format_size</span>
+			</a>
+		</div>-->
+		<div class="toolbar__section">
+			<a href="/ninja_clan/feeling_hopeful">
+				<span class="material-icons-round">arrow_forward</span>
+			</a>
+		</div>
+	</div>
+</div>
+
 ## Chapter 1
 
 {% note location %}
@@ -626,10 +659,12 @@ Exactly! Our jobs are important, but what’s even more so is rushing to the res
 Now then, feel free to speak to us!
 {% endbubble %}
 
-<div toc>{% btn /ninja_clan/its_all_over,, arrow-left, Previous Chapter: It's All Over %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/feeling_hopeful,, arrow-right, Next Chapter: Feeling Hopeful %}</div>
+<div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
+{% btn /ninja_clan/its_all_over,, arrow-left, Previous Chapter: It's All Over %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/feeling_hopeful,, arrow-right, Next Chapter: Feeling Hopeful %}</div>
 
 ## Translation Notes
 
 [^1]: A reference to [Chuunibyou](https://bakemonoremy.dreamwidth.org/18330.html).
-[^2]: A reference to the [Main story, Chapter 124](https://310mc.github.io/es2_mainstory/ch123_124/#Chapter-124-Emergency).
+[^2]: A reference to the first main story of !! era, [Chapter 124](https://310mc.github.io/es2_mainstory/ch123_124/#Chapter-124-Emergency).
 [^3]: Hurricaneger is a Ninja-esque Sentai squad. It has three members: Red/Black, Blue, and Yellow. You can read more about it [here](https://powerrangers.fandom.com/wiki/Category:Hurricanegers).

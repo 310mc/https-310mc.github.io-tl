@@ -234,7 +234,7 @@ hidden: true
                                     <img src="/img/es/eventstory/ninjaclan/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Meeting with the Elements 3
+                                    Demonstrating the Elements 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -242,7 +242,7 @@ hidden: true
                                     <img src="/img/es/eventstory/ninjaclan/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Meeting with the Elements 3
+                                    Demonstrating the Elements 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -250,7 +250,7 @@ hidden: true
                                     <img src="/img/es/eventstory/ninjaclan/shinobubcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Meeting with the Elements 3
+                                    Demonstrating the Elements 3
                                 </div>
                             </div>
                         </div>
@@ -462,10 +462,10 @@ hidden: true
                             <a href="feeling_hopeful" id="none">Feeling Hopeful</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Meeting with the Elements</a>
+                            <a href="demonstrating_the_elements" id="none">Demonstrating the Elements</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>  

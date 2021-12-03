@@ -573,6 +573,7 @@ i’m not bullying anyone~ heroes never do that.
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn https://verdantgrove.dreamwidth.org/14046.html,, arrow-left, Previous Chapter: Chapter 3 %}
 {% btn /submarine,, star, Index %}
 <!--{% btn /submarine,, arrow-right, Next Chapter %}-->
