@@ -1,27 +1,27 @@
 ---
-title: "[ES!!] SHINOBUEVENTNAME (In Progress!)"
-date: 2021-11-30 9:00:00
+title: "[ES!!] Ninja Clan (In Progress!)"
+date: 2021-12-8 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 tags:
 - Event Story
-- WRITERTBA
+- Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/shinobubcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/ninjaclan/shinobubcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">SHINOBUEVENTNAME</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="SHINOBUEVENTNAME/prologue">Start Reading</a></div>
+                <div class="title-area__title">Ninja Clan</div>
+                <div class="title-area__subtitle">忍者団</div>
+                <div class="title-area__start"><a href="ninja_clan/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the association's origins…
+                    Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the basics…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -37,7 +37,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            12
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -45,7 +45,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            WRITERTBA
+                            Nishioka Maiko (with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -58,6 +58,8 @@ hidden: true
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Mao" character="Mao"></a>
+                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -84,10 +86,6 @@ hidden: true
 
 <!-- more -->
 
-{% note narration %}
-**Note:** The second half of this story is locked until December 4th.
-{% endnote %}
-
 <style>
     .preview-wrapper {
         display: none;
@@ -100,21 +98,19 @@ hidden: true
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/shinobuorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/ninjaclan/shinobuorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/eventname/shinobubcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/ninjaclan/shinobubcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start">
-                    <a href="prologue">Start Reading</a>
-                </div>
+                <div class="title-area__title">Ninja Clan</div>
+                <div class="title-area__subtitle">忍者団</div>
+                <div class="title-area__start"><a href="prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the basics…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -122,7 +118,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Summer
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -130,7 +126,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            12
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -138,7 +134,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Nishioka Maiko (with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -146,11 +142,13 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Mao" character="Mao"></a>
+                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -158,7 +156,7 @@ hidden: true
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -209,50 +207,50 @@ hidden: true
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/shinobuorigcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/shinobuorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    It's All Over 2
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/tetoraorigcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Grasping for Something 1
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Grasping for Something 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/shinobubcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Meeting with the Elements 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/tetorabcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Meeting with the Elements 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/ninjaclan/shinobubcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Meeting with the Elements 3
                                 </div>
                             </div>
                         </div>
@@ -267,10 +265,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -303,10 +301,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -339,10 +337,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -375,10 +373,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/chiakicard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/chiakibcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -411,10 +409,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/ninjaclan/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -452,29 +450,19 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
+                            <a href="its_all_over" id="none">It's All Over</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
+                            <a href="grasping_for_something" id="none">Grasping for Something</a>
+                        </li>
+                        <li>
+                            <a href="feeling_hopeful" id="none">Feeling Hopeful</a>
+                        </li>
+                        <li>
+                            <a href="TBA" id="none">Meeting with the Elements</a>
                         </li>
                         <li>
                             <a href="TBA" id="none">Epilogue</a>

@@ -882,7 +882,7 @@ Haha. You sure you wanna tell me all about your ulterior motives?
 {% bubble Keito v2 %}
 Based on everything I know about you, I’ve concluded that the best way to ask for your help is to tell you my real intentions from the start, rather than trick you into helping me.
 
-We may end up being together for a long while, after all. I’m looking at the wider picture here, since I’d like to properly advance my plans according to what will become useful in the long run.
+We may end up being together for a long while, after all. I’m looking at the bigger picture here, since I’d like to properly advance my plans according to what will become useful in the long run.
 
 I just need to win the game by the end. Perseverance is what prevails, and that’s why I’ve been building up my assets slowly, but surely.
 

@@ -93,7 +93,7 @@ I don’t feel right going home when we haven’t even finished cleaning up, but
 {% bubble Chiaki %}
 Mhm! Honestly, I should apologize for making you all stay up so late!
 
-I’ll have apologize to your parents after this, since I kept their precious son in school so late! I must really be worrying them!
+I’ll have to apologize to your parents after this, since I kept their precious son in school so late! I must really be worrying them!
 
 {% endbubble %}
 {% bubble Midori %}
