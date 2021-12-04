@@ -33,6 +33,8 @@ description: A list of all the translations by 310mc. You will find Enstars and 
 Motor Show|Comet Show|Submarine
 | :-----------: | :-----------: | :-----------: |
 [![/motor_show](/img/banner/motorshow.png)](/motor_show)|[![/comet_show](/img/banner/cometshow.png)](/comet_show)|[![/submarine](/img/banner/submarine.png)](/submarine)
+**Ninja Clan**|
+[![/ninja_clan](/img/banner/ninjaclan.png)](/ninja_clan)|
 
 ### Gacha Stories
 
@@ -75,6 +77,8 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 [![/do_the_norm](https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Basketball_Connections%29_Aira_Shiratori_B_Bloomed.png)](/do_the_norm)|[![https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28What_a_Hero_is%29_Chiaki_Morisawa_M.png)](https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/)|[![https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Light_Beaming_from_the_Darkness%29_Shinobu_Sengoku_M.png)](https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/)
 **Staying True To Myself**|**Together,<br>We Are the Bodybuilding Bros!**|**me, the sea, and everyone with me**
 [![/staying_true_to_myself](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)](/staying_true_to_myself)|[![/bodybuilding_bros](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)](/bodybuilding_bros)|[![/me_the_sea_and_everyone_with_me](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png)](/me_the_sea_and_everyone_with_me)
+**The Essence of a Butler**|
+[![/the_essence_of_a_butler](https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png)](/the_essence_of_a_butler)|
 
 Management Stories|Birthday Stories
 | :-----------: | :-----------: | :-----------: |
@@ -105,7 +109,7 @@ Comet Show! Midori|
 
 |Date Plan A to Z|Aisle, be with you|
 | :-----------: | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](https://ensemble-stars.fandom.com/wiki/Aisle,_be_with_you_%28Lyrics%29)|
+[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_%28Lyrics%29)|[![/aisle_be_with_you](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](/aisle_be_with_you)|
 
 
 ### Other

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Feeling Hopeful"
-date: 2021-12-1 9:02:00
+date: 2021-12-3 23:33:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]
@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -92,6 +91,10 @@ hidden: true
 </div>
 
 ## Chapter 1
+
+{% note location %}
+**Location:** Meeting Room
+{% endnote %}
 
 {% bubble Chiaki thinking %}
 Hrmm… I see.
@@ -312,7 +315,7 @@ But I guess it’d be their history, or like, historical plays… Basically, the
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-That makes sense, considering the ninja village in Scroll of the Elements fits the era of ninjas more than, say, downtown or something.
+That makes sense, considering the historical village in Scroll of the Elements fits the era of ninjas more than, say, downtown or something.
 
 So that was the problem?
 {% endbubble %}

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Demonstrating the Elements"
-date: 2021-12-1 9:02:00
+date: 2021-12-3 23:34:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]
@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -146,7 +145,7 @@ Mhm, it’s so cute. Shinobu-kun, can I tear that part out and have it for mysel
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Oh! You like my partners Peachy and Thunder? Then allow me to draw you something more refined instead of this simple sketch!
+Oh! You like my partners Peachy and Thunder? Then allow me to draw you something more refined instead of this simple sketch later!
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -312,7 +311,7 @@ yes, exactly~ i was able to come on time without any detours~♪ is it really th
 {% bubble Chiaki worried %}
 Hold on, Kanata. That’s only because I happened to stop you in time before you dipped in the pond, and brought you over here.
 
-Had I not found you, you would’ve definitely taken that detour.
+You would’ve definitely taken that detour had I not found you.
 {% endbubble %}
 
 {% bubble Kanata pout %}

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Prologue"
-date: 2021-12-1 9:00:00
+date: 2021-12-3 23:30:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Mao]
@@ -8,7 +8,6 @@ tags:
 - Event Story
 - Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -78,9 +77,6 @@ hidden: true
 		</div>
 	</div>
 </div>
-
-<link rel="stylesheet" href="">
-==
 
 {% note location %}
 **Location:** Hallway

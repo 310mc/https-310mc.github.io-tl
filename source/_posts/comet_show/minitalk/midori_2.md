@@ -48,8 +48,6 @@ description: "[ES!!] Midori's second Mini Talk from Comet Show. From Anzu's POV.
 
 <!-- more -->
 
-
-
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
 {% bubble Midori %}

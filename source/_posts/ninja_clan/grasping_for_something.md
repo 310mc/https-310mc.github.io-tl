@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Grasping for Something"
-date: 2021-12-1 9:02:00
+date: 2021-12-3 23:32:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]
@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -438,6 +437,10 @@ Yep, not to mention, heroes are supposedly the type to come rushing to the rescu
 {% endbubble %}
 
 ## Chapter 3
+
+{% note location %}
+**Location:** Meeting Room
+{% endnote %}
 
 {% img /img/es/eventstory/ninjaclan/3ch3.jpg %}
 

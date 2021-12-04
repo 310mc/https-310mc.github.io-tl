@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ninja Clan (In Progress!)"
-date: 2021-12-8 9:00:00
+date: 2021-12-3 23:40:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
@@ -8,7 +8,6 @@ tags:
 - Event Story
 - Nishioka Maiko
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -465,7 +464,7 @@ hidden: true
                             <a href="demonstrating_the_elements" id="none">Demonstrating the Elements</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue (In Progress!)</a>
                         </li>
                     </ul>
                 </div>  
@@ -492,8 +491,8 @@ hidden: true
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">Relaxing Gameplay</a>
+                            <a href="minitalk/midori_2" id="none">Eeeggy-eggy-eggyplant</a>                            
                             </div>
                         </div>
                     </div>
