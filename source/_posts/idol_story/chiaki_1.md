@@ -33,15 +33,15 @@ description: "[ES!!] Chiaki's Idol Story 1."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://twitter.com/yoroshikilled">Peace</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Spring
+                    <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -49,11 +49,13 @@ description: "[ES!!] Chiaki's Idol Story 1."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Doctor's Office
-{% endnote %}
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Doctor's Office</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/chiaki_1.jpg %}
 
@@ -62,7 +64,7 @@ Producer! Wake up, Producer!
 
 …Mrmm~? She’s not budging one bit. That’s just too strange! I’m so loud, I was able to have greetings commercialized as a voiced alarm clock!
 
-No, don’t give up yet, me! We just have to keep trying until it works! We’ll be the winners as long as we win by the end — all’s well that ends well!
+No, don’t give up yet, me! We just have to keep trying until it works! We’ll be the winners as long as we win by the end—all’s well that ends well!
 
 Okay, I got it! I’ll just have to give you a taste of my voiced alarm clock greetings, as a special treat!
 
@@ -90,7 +92,7 @@ Diversity! Diversity is super important! Do you understand, Producer!?
 
 Fuhaha! Right, right, now that I’ve forced you awake with random and silly nonsense… I have something I’d like to speak to you about!
 
-Mhm, mhm, I’m glad to know you’re fully awake now♪
+Mhm, mhm, I’m glad to know you’re fully awake now~♪
 
 Look over here! While the two of us were leisurely sleeping in the doctor’s office, the door was locked shut!
 
@@ -116,7 +118,7 @@ Now then, get all your belongings, Producer! And then, let’s take the time to 
 
 …Hm? The office’s door opens with a card, so I wouldn’t be able to open it if I do it the normal way?
 
-Oh, so *that’s* what it was! Fuhaha, I must still be half-asleep — I completely forgot about that!
+Oh, so *that’s* what it was! Fuhaha, I must still be half-asleep—I completely forgot about that!
 
 Ohh, would you look at that! It opened immediately with the key card! Thank you, you really saved me there!
 

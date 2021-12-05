@@ -35,15 +35,15 @@ description: "[ES!!] Hinata's Idol Story 3, featuring Midori."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://twitter.com/skyress_tl">Skyress</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="https://twitter.com/skyress_tl">Skyress</a>
                 </div>
             </div>
         </div>
@@ -51,11 +51,13 @@ description: "[ES!!] Hinata's Idol Story 3, featuring Midori."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Staff Cafeteria
-{% endnote %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Staff Cafeteria</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/hinata_3.jpg %}
 

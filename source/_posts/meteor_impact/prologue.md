@@ -57,8 +57,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 {% note location %}
 **Location:** AV Room

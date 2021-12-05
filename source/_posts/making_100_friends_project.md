@@ -46,15 +46,15 @@ This story is connected to the card [[Bonds That Can Be Called Friendship] Midor
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://twitter.com/yoroshikilled">Peace</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -62,11 +62,13 @@ This story is connected to the card [[Bonds That Can Be Called Friendship] Midor
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Starmony Dorm Common Room
-{% endnote %}
+
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+</div>
 
 {% img /img/es/idolstory/making_100_friends_project/1.jpg %}
 
@@ -138,15 +140,15 @@ Got it! Then let’s find the time to hang out together~♪
 W-Whaaa…?
 {% endbubble %}
 
-{% note location %}
-**Location:** Starmony Dorm Courtyard
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
+</div>
 
 {% img /img/es/idolstory/making_100_friends_project/2.jpg %}
 
-{% note narration %}
-Time: On a day off
-{% endnote %}
+<div class="msr-narration">
+    <p>On a day off</p>
+</div>
 
 {% bubble Midori %}
 <th>(I ended up cracking under pressure…)</th>

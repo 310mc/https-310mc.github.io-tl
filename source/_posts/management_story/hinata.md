@@ -53,8 +53,6 @@ description: "[ES!] Hinata's Management Stories, featuring Midori and Chiaki."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Chiaki
 

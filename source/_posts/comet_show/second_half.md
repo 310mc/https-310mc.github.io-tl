@@ -56,7 +56,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
 
 ## Chapter Index
 <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a>

@@ -37,15 +37,15 @@ description: "[ES!!] Midori's Idol Story 2, featuring Shinobu and Yuta."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://twitter.com/yoroshikilled">Peace</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -53,11 +53,13 @@ description: "[ES!!] Midori's Idol Story 2, featuring Shinobu and Yuta."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Garden
-{% endnote %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/midori_2.jpg %}
 

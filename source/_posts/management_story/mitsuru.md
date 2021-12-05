@@ -51,8 +51,6 @@ description: "[ES!] Mitsuru's Management Stories, featuring Madara."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Mitsuru
 

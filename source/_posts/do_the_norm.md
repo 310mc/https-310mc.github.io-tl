@@ -44,15 +44,15 @@ This story is connected to the card [[Basketball Connections] Aira Shiratori](ht
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz">Amagiiz</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz">Amagiiz</a>
                 </div>
             </div>
         </div>
@@ -60,11 +60,14 @@ This story is connected to the card [[Basketball Connections] Aira Shiratori](ht
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Yumenosaki Academy Front Gate
-{% endnote %}
+
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Yumenosaki Academy Front Gate</span></p>
+</div>
 
 {% img /img/es/idolstory/do_the_norm/1.jpg %}
 
@@ -172,9 +175,9 @@ M-Mhm…
 <th>(I’m such a bore to be with, though… He’s just gonna be disappointed…)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Time Street
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Time Street</span></p>
+</div>
 
 {% img /img/es/idolstory/do_the_norm/3.jpg %}
 
@@ -256,7 +259,7 @@ Oh? You were talking about me?
 
 {% img /img/es/idolstory/do_the_norm/5.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori sideeye %}
 No, um, we weren’t. Don’t worry about it…
 {% endbubble %}
 

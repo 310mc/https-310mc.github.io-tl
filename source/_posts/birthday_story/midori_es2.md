@@ -71,7 +71,7 @@ description: "[ES!!] Midori's birthday content from Enstars!! Era."
 
 **2020**
 {% bubble Midori smile %}
-Uwaah, thank you for doing all of this for me…! You even prepared a mascot-themed cake for me~♪
+Uwaah, thank you for doing all of this for me…! You even prepared a mascot-themed cake for my birthday~♪
 {% endbubble %}
 
 **2021**

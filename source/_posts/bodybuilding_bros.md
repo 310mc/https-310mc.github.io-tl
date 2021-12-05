@@ -47,10 +47,10 @@ Tetora finally gets to talk to Jun about workouts. This story is connected to th
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="/about">310mc</a>, <a href="https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are">hyenahunt</a>
                 </div>
             </div>
         </div>
@@ -58,12 +58,15 @@ Tetora finally gets to talk to Jun about workouts. This story is connected to th
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
-{% note location %}
-**Location:** Training Room
-{% endnote %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Training Room</span></p>
+</div>
+
 {% img /img/es/idolstory/bodybuilding_bros/1.jpg %}
 
 {% bubble Tetora v2 %}
@@ -210,9 +213,9 @@ Haha. All thanks to working out — or you could even say we got to bond through
 Yeah, we owe this bonding session all to exercise…♪
 {% endbubble %}
 
-{% note location %}
-**Location:** ES Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ES Hallway</span></p>
+</div>
 {% img /img/es/idolstory/bodybuilding_bros/sc.jpg %}
 {% bubble Midori v2 %}
 (H-Huuuh…!? Just *how* did you two end up at this kinda conclusion…?)

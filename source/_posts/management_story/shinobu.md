@@ -53,8 +53,6 @@ description: "[ES!] Shinobu's Management Stories, featuring Mao and Midori."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Mao
 

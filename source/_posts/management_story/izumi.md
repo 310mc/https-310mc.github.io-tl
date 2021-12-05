@@ -51,8 +51,6 @@ description: "[ES!] Izumi's Management Stories, featuring Chiaki."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Chiaki
 

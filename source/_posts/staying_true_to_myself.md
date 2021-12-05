@@ -64,9 +64,12 @@ This story is connected to the card [[Comfortable Staying Just As I Am] Midori T
 <!-- more -->
 
 ## Chapter 1
-{% note location %}
-**Location:** Resting Room
-{% endnote %}
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+<div class="msr-location">
+    <p><span><b>Location:</b> Resting Room</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/1.jpg %}
 
@@ -194,9 +197,9 @@ Which means you may be worrying over nothing, and that would only be a waste of 
 So how about you start by asking Anzu-dono if it’s true?
 {% endbubble %}
 
-{% note location %}
-**Location:** StarPro Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> StarPro Office</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/2.jpg %}
 
@@ -240,9 +243,9 @@ I’ve been needing emotional healing for some time ‘cause I’ve been a bit d
 And my parents will be super happy to know I’ll be doing an advertisement for veggies and fruits. I’m looking forward to the exhibition…♪
 {% endbubble %}
 
-{% note location %}
-**Location:** ES Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ES Hallway</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/4.jpg %}
 
@@ -256,19 +259,19 @@ And my parents will be super happy to know I’ll be doing an advertisement for 
 Ah, whatever. It sounds like I’m guaranteed to at least be around all sorts of mascots, sooo…
 
 I’ll search up what kinda mascots will show up for the event…♪
-
-## Chapter 2
 {% endbubble %}
 
-{% note location %}
-**Location:** Park (Lawn Area)
-{% endnote %}
+## Chapter 2
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Park (Lawn Area)</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/5.jpg %}
 
-{% note narration %}
-**Time:** On the day of the exhibition
-{% endnote %}
+<div class="msr-narration">
+    <p>On the day of the exhibition</p>
+</div>
 
 {% bubble Midori worried %}
 <th>(Nobody from Ryuseitai is showing up…)</th>
@@ -303,10 +306,10 @@ Haha, I can’t believe you’d get to be a *host* of all things~ But it *is* tr
 {% endbubble %}
 
 {% bubble Midori v2 %}
-…… <th>(Glares at Mao)</th>
+……<em><th>(Glares at Mao)</th></em>
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 Why’re you looking at me with that terrifying look? Everything alright?
 {% endbubble %}
 
@@ -348,9 +351,9 @@ I’m cheering you on, so break a leg out there, Takamine~♪
 Feels like you’re just throwing anything at me to cheer me up… But thank you anyway.
 {% endbubble %}
 
-{% note location %}
-**Location:** Event Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Event Stage</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/6.jpg %}
 
@@ -398,9 +401,9 @@ Ah…
 “Next up is… a mascot I’ve always loved, so I was super excited to meet them today. It’s Carrotian[^1]…♪”
 {% endbubble %}
 
-{% note location %}
-**Location:** Park (Lawn Area)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Park (Lawn Area)</span></p>
+</div>
 
 {% img /img/es/idolstory/staying_true/8.jpg %}
 

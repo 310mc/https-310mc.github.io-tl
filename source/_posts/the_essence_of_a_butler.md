@@ -52,15 +52,15 @@ This story is connected to the card [[Devoted Valet] Yuzuru Fushimi](https://ens
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a><br><b>Proofreading</b><br><a href="https://twitter.com/junsweats">junsweats</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Autumn
+                    <a href="https://twitter.com/junsweats">junsweats</a>
                 </div>
             </div>
         </div>
@@ -71,9 +71,13 @@ This story is connected to the card [[Devoted Valet] Yuzuru Fushimi](https://ens
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Meeting Room
-{% endnote %}
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Meeting Room</span></p>
+</div>
 
 {% img /img/es/idolstory/essence_butler/1.jpg %}
 
@@ -245,9 +249,9 @@ She’s just going to be confused again if you show her this design…
 I’ll re-draw it for you. Could you explain to me the ideas you had in mind?
 {% endbubble %}
 
-{% note narration %}
-**Time:** Ten minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>Ten minutes later</p>
+</div>
 
 {% bubble Yuzuru %}
 You not only excel at watercoloring, but pencil sketching, too? You’re quite multi-talented, Keito-sama.
@@ -335,11 +339,15 @@ Fufu, Anzu-san seems delighted to know she’ll be able to see new illustrations
 Why do you look as though you’ve struck gold or something? <em>Sigh</em>…
 {% endbubble %}
 
-{% note narration %}
-**Time:** A while later
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Resting Room</span></p>
+</div>
 
 {% img /img/es/idolstory/essence_butler/2.jpg %}
+
+<div class="msr-narration">
+    <p>A while later</p>
+</div>
 
 {% bubble Yuzuru %}
 <th>(I attempted to copy after the design Keito-sama illustrated for me, but I can’t seem to get it right.)</th>
@@ -423,15 +431,15 @@ I’m looking forward to seeing your personal outfit, Master Artist. Oh, and—
 I’d like your autograph, if that’s okay…♪
 {% endbubble %}
 
-{% note location %}
-**Location:** Outfit Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Outfit Room</span></p>
+</div>
 
 {% img /img/es/idolstory/essence_butler/2_2.jpg %}
 
-{% note narration %}
-**Time:** A few days later
-{% endnote %}
+<div class="msr-narration">
+    <p>A few days later</p>
+</div>
 
 {% bubble Yuzuru %}
 <th>(I always wish to remain as a butler worthy of serving the Young Master, and this outfit is meant to represent those feelings.)</th>

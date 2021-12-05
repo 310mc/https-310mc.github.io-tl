@@ -48,15 +48,15 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a><br><b>Proofreading</b><br>ryuseipuka
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Autumn
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -66,10 +66,13 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
 <!-- more -->
 
 ## Chapter 1
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
 
-{% note location %}
-**Location:** ES Lobby
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ES Lobby</span></p>
+</div>
 
 {% img /img/es/idolstory/me_thesea/1.jpg %}
 
@@ -85,9 +88,9 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
 …I feel like I’m walking straight into a trap, but maybe it’s just someone trying to lead me somewhere…?
 {% endbubble %}
 
-{% note location %}
-**Location:** Staircase
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Staircase</span></p>
+</div>
 
 {% bubble Kaoru %}
 …There’s more around here, too? Must’ve been rough work for the person behind this.
@@ -95,9 +98,9 @@ This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://e
 Oh, it’s going past the door now. How many floors have I gone up by now…?
 {% endbubble %}
 
-{% note location %}
-**Location:** Resting Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Resting Room</span></p>
+</div>
 
 {% img /img/es/idolstory/me_thesea/2.jpg %}
 
@@ -159,9 +162,9 @@ Rei-niisan isn’t trying to hide it, Either…
 Well, to get back on Track… We’re counting on you to lead the way to “that person,” Kitten.
 {% endbubble %}
 
-{% note location %}
-**Location:** Floating Garden
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Floating Garden</span></p>
+</div>
 
 {% img /img/es/idolstory/me_thesea/3.jpg %}
 

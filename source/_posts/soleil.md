@@ -54,11 +54,12 @@ description: "[ES!!] Mitsuru helps out Tsumugi with preparations…"
 
 <!-- more -->
 
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Starmony Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)
-{% endnote %}
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)</span></p>
+</div>
 
 {% img /img/es/scoutstory/soleil/1.jpg %}
 

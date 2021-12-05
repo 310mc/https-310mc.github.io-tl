@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Ninja Clan (In Progress!)"
+title: "[ES!!] Ninja Clan"
 date: 2021-12-3 23:40:00
 categories:
 - [Enstars, ES!!]
@@ -7,6 +7,7 @@ categories:
 tags:
 - Event Story
 - Nishioka Maiko
+- Story Index
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -44,7 +45,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko (with Akira)
+                            Nishioka Maiko<br>(with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -133,7 +134,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko (with Akira)
+                            Nishioka Maiko<br>(with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -277,20 +278,20 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Ninpou: Modern-ize] Shinobu Sengoku</div>
+                                    <div class="card__jp">[忍法・現代ナイズ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Ninja Association-inviting Jutsu<!--同好会勧誘の術--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Main Lead Ninja Clan<!--主役忍者団--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Enhancing Enrollment, etc<!--入会強化エトセトラ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -313,20 +314,20 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Ninpou: Hardworking-ism] Tetora Nagumo</div>
+                                    <div class="card__jp">[忍法・地道イズム] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Crisis-crushing Jutsu<!--危機打破の術--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Martial Arts Ninja Clan<!--体術忍者団--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Triple the Brains<!--三倍ブレーン--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -349,20 +350,20 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Ninpou: Yuru-style] Midori Takamine</div>
+                                    <div class="card__jp">[忍法・ゆるスタイル] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Experienced Promotion Jutsu<!--布教経験の術--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Unified Ninja Clan<!--結束忍者団--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Fishy Message<!--怪文メッセージ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -385,20 +386,20 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Hero Ninpou] Chiaki Morisawa</div>
+                                    <div class="card__jp">[ヒーロー忍法] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Child-friendly Jutsu<!--ちびっこ向けの術--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Support Clan<!--サポート団--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Rushing to the Rescue<!--駆けつけヘルプ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -421,20 +422,20 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[ninpou promotion] Kanata Shinkai</div>
+                                    <div class="card__jp">[ふきょうにんぽう] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">charm-displaying jutsu<!--みりょくはっきのじゅつ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">mutual support clan<!--ささえあい・だん--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">growing in one's own pace<!--せいちょうまいぺぇす--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -464,7 +465,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                             <a href="demonstrating_the_elements" id="none">Demonstrating the Elements</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue (In Progress!)</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>  
@@ -491,8 +492,8 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">Relaxing Gameplay</a>
-                            <a href="minitalk/midori_2" id="none">Eeeggy-eggy-eggyplant</a>                            
+                            <a href="NOTRANSLATION" id="none">Relaxing Gameplay</a>
+                            <a href="NOTRANSLATION" id="none">Eeeggy-eggy-eggyplant</a>                            
                             </div>
                         </div>
                     </div>

@@ -51,8 +51,6 @@ description: "[ES!] Mao's Management Stories, featuring Midori."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Midori
 

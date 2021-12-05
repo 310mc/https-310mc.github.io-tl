@@ -53,8 +53,6 @@ description: "[ES!] Madara's Management Stories, featuring Mitsuru and Chiaki."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Mitsuru
 

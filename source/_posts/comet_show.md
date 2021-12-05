@@ -348,20 +348,20 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and Teammates] Kanata Shinkai</div>
+                                    <div class="card__name">[meteors and teammates] Kanata Shinkai</div>
                                     <div class="card__jp">[りゅうせいとみんな] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Soft Comet<!--ゆるいこめっと--></div>
+                                                <div class="name">soft comet<!--ゆるいこめっと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Family of Five<!--ごにんのかぞく--></div>
+                                                <div class="name">family of five<!--ごにんのかぞく--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">A Walk at the Beach<!--うみべのさんぽ--></div>
+                                                <div class="name">a walk at the beach<!--うみべのさんぽ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

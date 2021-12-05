@@ -61,8 +61,6 @@ description: "[ES!] Chiaki's Management Stories, featuring Kaoru, Tetora, Midori
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Kaoru
 
@@ -378,7 +376,7 @@ Wow, so even you've watched it, Hasumi!? I'm so happy~! We still have time befor
 Ahhh, today's off to a wonderful start…☆
 {% endbubble %}
 
-## Chiaki's Other Management Story Appearances
+### Chiaki's Other Management Story Appearances
 
 |With Hinata|With Midori|With Subaru|With Izumi|With Madara|With Kuro|
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -386,6 +384,6 @@ Ahhh, today's off to a wonderful start…☆
 
 <div toc>{% btn /management_story,, star, Index %}</div>
 
-## Translation Notes
+### Translation Notes
 
 [^1]: This management story is implied to happen at a very early time in the school year, and Chiaki is trying to use “-kun” honorific (instead of his usual way of referring to someone) to be more charming.

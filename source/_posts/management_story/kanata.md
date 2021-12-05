@@ -51,8 +51,6 @@ description: "[ES!] Kanata's Management Stories, featuring Tetora."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Tetora
 

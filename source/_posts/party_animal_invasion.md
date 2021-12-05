@@ -46,15 +46,15 @@ This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](ht
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a><br><b>Proofreading</b><br><a href="https://twitter.com/holicstarchive">holicstar</a>, <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    <a href="https://twitter.com/holicstarchive">holicstar</a>, <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
                 </div>
             </div>
         </div>
@@ -62,11 +62,13 @@ This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](ht
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Café Cinnamon
-{% endnote %}
+
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+<div class="msr-location">
+    <p><span><b>Location:</b> Café Cinnamon</span></p>
+</div>
 
 {% img /img/es/idolstory/party_animal_invasion/1.jpg %}
 
@@ -198,9 +200,9 @@ Um, okay…
 <th>(Ughhh, I didn’t get the chance to refuse. His pushiness is kinda scary…)</th>
 {% endbubble %}
 
-{% note narration %}
-**Time:** Ten minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>Ten minutes later</p>
+</div>
 
 {% bubble Niki %}
 Here they are! Two Mascot Character Parfaits—one for Takamine-kun, and one for me—and one Pretty Pudding a la Mode~!

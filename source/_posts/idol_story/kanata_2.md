@@ -35,15 +35,15 @@ description: "[ES!!] Kanata's Idol Story 2, featuring Midori."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a><br><b>Proofreading</b><br>ryuseipuka
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Summer
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -51,16 +51,18 @@ description: "[ES!!] Kanata's Idol Story 2, featuring Midori."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 {% note cw %}
 **Content Warning:** Casual suicide mention.
 {% endnote %}
 
-{% note location %}
-**Location:** Drink Stand
-{% endnote %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Drink Stand</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/kanata_2.jpg %}
 

@@ -33,15 +33,15 @@ description: "[ES!!] Midori's Idol Story 1."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>. <b>Proofreading:</b> <a href="https://twitter.com/yoroshikilled">Peace</a>
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Spring
+                    <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -49,11 +49,14 @@ description: "[ES!!] Midori's Idol Story 1."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Staff Cafeteria
-{% endnote %}
+
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Staff Cafeteria</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/midori_1.jpg %}
 

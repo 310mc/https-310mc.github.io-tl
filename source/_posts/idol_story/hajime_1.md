@@ -33,15 +33,15 @@ description: "[ES!!] Hajime's Idol Story 1."
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, haranami. <b>Proofreading:</b> <a href="https://twitter.com/skyress_tl">Skyress</a>
+                    <a href="/about">310mc</a>, haranami
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">
-                    Spring
+                    <a href="https://twitter.com/skyress_tl">Skyress</a>
                 </div>
             </div>
         </div>
@@ -49,11 +49,13 @@ description: "[ES!!] Hajime's Idol Story 1."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
-{% note location %}
-**Location:** Floating Garden
-{% endnote %}
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Floating Garden</span></p>
+</div>
 
 {% img /img/es/idolstory/initial/hajime_1.jpg %}
 

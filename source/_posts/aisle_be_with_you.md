@@ -1,5 +1,5 @@
 ---
-title: "Aisle, be with you by Ring.A.Bell"
+title: "[Song] Aisle, be with you"
 date: 2021/12/4 22:30:00
 categories:
 - [Enstars, ES!!]
@@ -57,6 +57,4 @@ description: "Aisle, be with you Song Lyrics by 310mc."
 
 <!-- more -->
 
-<link rel="stylesheet" href="">
-==
 <img src="/img/es/songs/aislebewithyou.png">

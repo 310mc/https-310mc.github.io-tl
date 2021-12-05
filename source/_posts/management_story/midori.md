@@ -61,8 +61,6 @@ description: "[ES!] Midori's Management Stories, featuring Hajime, Tetora, Chiak
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Chiaki
 
@@ -380,7 +378,7 @@ True… I always get back my will to live whenever I see mascots, no matter how 
 So maybe it really is nice to have something you love…♪
 {% endbubble %}
 
-## Midori's Other Management Story Appearances
+### Midori's Other Management Story Appearances
 
 |With Tetora|With Hinata|With Shinobu|With Subaru|With Mao|With Chiaki|
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |

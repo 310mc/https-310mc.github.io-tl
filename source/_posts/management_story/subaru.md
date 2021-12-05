@@ -55,8 +55,6 @@ description: "[ES!] Subaru's Management Stories, featuring Chiaki, Mao, and Mido
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Chiaki
 

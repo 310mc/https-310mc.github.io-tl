@@ -51,8 +51,6 @@ description: "[ES!] Kuro's Management Stories, featuring Chiaki."
 </div>
 
 <!-- more -->
-<link rel="stylesheet" href="">
-==
 
 ### With Chiaki
 
