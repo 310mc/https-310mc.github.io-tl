@@ -251,7 +251,7 @@ now then, everyone, let’s fish together…♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hrmph, what’s with that look on your faces! you get to <em>fish</em>, you know? it’s lots of fun!
+hmph, what’s with that look on your faces! you get to <em>fish</em>, you know? it’s lots of fun!
 
 can’t you see that kanatee wants to see all of you excited to play? their round eyes are sparkling with anticipation!
 

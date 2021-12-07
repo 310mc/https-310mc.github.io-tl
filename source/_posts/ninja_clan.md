@@ -478,7 +478,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                             <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="mini-talk">
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
@@ -487,13 +487,13 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                             <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                     <div class="mini-talk">
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">Relaxing Gameplay</a>
-                            <a href="NOTRANSLATION" id="none">Eeeggy-eggy-eggyplant</a>                            
+                            <a href="minitalk/midori_1" id="none">Relaxing Gameplay</a>
+                            <a href="minitalk/midori_2" id="none">Eeeggy-eggy-eggyplant</a>                            
                             </div>
                         </div>
                     </div>

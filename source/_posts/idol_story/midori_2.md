@@ -76,7 +76,7 @@ Maybe I could cheer myself with a “hip-hip, hurray! ♪”……
 
 <th>(No one saw me, right? If someone did I’d die from embarrassment… Gotta be quiet—just do everything quietly….)</th>
 
-<th>(I guess I’ll start with getting rid of weeds… Hrmm, the roots seem pretty deep down… I don’t think I can pull them out that easily…)</th>
+<th>(I guess I’ll start with getting rid of weeds… Hmm, the roots seem pretty deep down… I don’t think I can pull them out that easily…)</th>
 
 <th>(I always pull them by hand, but maybe I should try out the weed puller for the first time…?)</th>
 
@@ -166,7 +166,7 @@ Uwawa—It’s definitely the pursuer!
 {% endbubble %}
 
 {% bubble Yuta %}
-Hrmmm… Is there anyone here?
+Hmmm… Is there anyone here?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -200,7 +200,7 @@ We have only one rule: Play tag in a gentlemanly way, without bothering anyone�
 {% endbubble %}
 
 {% bubble Midori %}
-Mrmm… I don’t think gentlemen play tag, though…?
+Mmm… I don’t think gentlemen play tag, though…?
 {% endbubble %}
 
 {% bubble Shinobu %}

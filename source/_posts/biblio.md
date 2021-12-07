@@ -505,7 +505,7 @@ There's no need to apologize. You guys did nothing wrong… Just be more dignifi
 
 <th>(I guess he was just warning us not to slip and hurt ourselves… So basically he was worried about us or something…?)</th>
 
-<th>(Hrmm, but there are other ways to say that, right…?)</th>
+<th>(Hmm, but there are other ways to say that, right…?)</th>
 {% endbubble %}
 
 {% bubble Hajime %}

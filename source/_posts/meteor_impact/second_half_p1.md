@@ -213,7 +213,7 @@ I see… That must be rough. If you’re alright with doing stunt work, I could 
 
 {% endbubble %}
 {% bubble Subaru %}
-Mrm, nah… I wanna make my way in life as an idol.
+Mm, nah… I wanna make my way in life as an idol.
 
 I mean, I won’t have any other choice if my situation gets bad enough, but~ I can make do with solo work at the moment.
 
@@ -269,7 +269,7 @@ Hehe, it’s all good, though. It’s cute.
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Hrmph! How could you say “cute” to your *senior*!? You’re so cheeky! But I guess you’re complimenting me, so in a sense, thank you!
+Hmph! How could you say “cute” to your *senior*!? You’re so cheeky! But I guess you’re complimenting me, so in a sense, thank you!
 
 Anyway… What’s wrong? Are you going to join club activities today? Didn’t you say you found a job earlier today, though…?
 
@@ -301,7 +301,7 @@ If I remember clearly, he’s a famous idol who works solo, and goes by the name
 
 {% endbubble %}
 {% bubble Subaru %}
-Hrmm, they did tell me to keep it secret, but… I didn’t sign a contract or anything, so I guess it’s okay to tell you…
+Hmm, they did tell me to keep it secret, but… I didn’t sign a contract or anything, so I guess it’s okay to tell you…
 
 Or maybe not, since it may affect his reputation… I’m gonna keep it to myself.
 
@@ -1591,7 +1591,7 @@ Aha, I do not deserve such kind words. However, I will surely keep them in my he
 
 {% endbubble %}
 {% bubble Kanata past %}
-mrmm~… people act so friendly with me within School, so it is actually much more unnatural to hear someone speak the Usual way i am spoken to.
+mm~… people act so friendly with me within School, so it is actually much more unnatural to hear someone speak the Usual way i am spoken to.
 
 you do not need to speak to me so Formally, really. it is actually Harder to speak to you, as if i feel a Distance between us.
 

@@ -50,33 +50,6 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 </div>
 
 <!-- more -->
-<div class="toolbar-wrapper" style="--storyColor:#965e7d">
-	<div class="slider-container">
-		<input type="range" min="1" max="5" value="3" class="slider">
-	</div>
-	<div class="toolbar">
-		<!--<div class="toolbar__section">
-			<a onclick="colorFill()">
-				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan">
-				<span class="material-icons-round">star</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="sliderDrop()">
-				<span class="material-icons-round">format_size</span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan/its_all_over">
-				<span class="material-icons-round">arrow_forward</span>
-			</a>
-		</div>
-	</div>
-</div>
 
 {% note location %}
 **Location:** Hallway
@@ -91,7 +64,7 @@ Ermm… Alright, let me fix this—There, that should do it.
 
 Wait, I shouldn’t be loitering around! I need to head over to the Student Council office immediately!
 
-<th>(Hrmm… But I wonder why Isara-dono needed to call me over unexpectedly…?)</th>
+<th>(Hmm… But I wonder why Isara-dono needed to call me over unexpectedly…?)</th>
 
 <th>(I haven’t been climbing the school walls ever since I became part of the Student Council, so I doubt it’s to scold me for rule-breaking…)</th>
 

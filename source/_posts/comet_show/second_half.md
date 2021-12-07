@@ -267,7 +267,7 @@ Yeah, yeah… What? Ahhh~ Okay, I’m sorry about that, but—
 
 {% endbubble %}
 {% bubble Chiaki serious %}
-<th>(Mmrm~… I have nothing to do while Takamine talks on the phone. Maybe I should check my work contacts on HoldHands while I have the time.)</th>
+<th>(Mm~… I have nothing to do while Takamine talks on the phone. Maybe I should check my work contacts on HoldHands while I have the time.)</th>
 
 <th>(In the end, the showrunners I’m working with ended up arguing over and over copyright issues and how to negotiate with the actors, which has put everything in a deadlock.)</th>
 
@@ -489,7 +489,7 @@ It sure is… He was called over by a couple staff members for some business in 
 …I don’t really know much about Kanatee… What sort of character is it meant to be?
 
 {% endbubble %}
-{% bubble Midori v2 %}
+{% bubble Midori thinking %}
 Mmm~… It was basically just Shinkai-senpai at first, but…
 
 He wanted to make it go viral, so after brainstorming a bunch of ideas, it kinda turned into this cringey mess…
@@ -936,5 +936,5 @@ Every last one of you are so insistent on making everything harder on yourselves
 
 ## Translation Notes
 [^1]: Kanata’s last name *shinkai* literally means “deep sea”.
-[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Intertwined_Sea%29_Kanata_Shinkai_CG.png" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
+[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/6/6e/%28Intertwined_Sea%29_Kanata_Shinkai_CG.png" target="_blank">Kanata's 5* FS CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
 [^5]: A reference to what happens in the ES!! main story. A TL;DR until it's translated: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

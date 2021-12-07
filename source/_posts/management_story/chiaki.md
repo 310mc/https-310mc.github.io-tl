@@ -91,7 +91,7 @@ I wanted to share this wonderful news with someone, so I ended up humming for at
 {% endbubble %}
 
 {% bubble Kaoru %}
-Mrmm… Couldn’t you just share that kinda stuff with someone who also likes tokusatsu? I don’t have any interest in it, y’know~?
+Mm… Couldn’t you just share that kinda stuff with someone who also likes tokusatsu? I don’t have any interest in it, y’know~?
 {% endbubble %}
 
 {% bubble Chiaki %}

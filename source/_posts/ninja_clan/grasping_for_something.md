@@ -57,39 +57,6 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-<div class="toolbar-wrapper" style="--storyColor:#965e7d">
-	<div class="slider-container">
-		<input type="range" min="1" max="5" value="3" class="slider">
-	</div>
-	<div class="toolbar">
-		<div class="toolbar__section">
-			<a href="/ninja_clan/its_all_over">
-				<span class="material-icons-round">arrow_back</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="colorFill()">
-				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan">
-				<span class="material-icons-round">star</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="sliderDrop()">
-				<span class="material-icons-round">format_size</span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan/feeling_hopeful">
-				<span class="material-icons-round">arrow_forward</span>
-			</a>
-		</div>
-	</div>
-</div>
-
 ## Chapter 1
 
 {% note location %}
@@ -257,7 +224,7 @@ Yeah, and we shouldn’t cheat the system. You might get harsher treatment for i
 {% endbubble %}
 
 {% bubble Shinobu thinking %}
-Mrmm, I wouldn’t want that happening. I would only throw even more trouble on Isara-dono…
+Mmm, I wouldn’t want that happening. I would only throw even more trouble on Isara-dono…
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -271,7 +238,7 @@ While I understand the solution, I’m not sure where we could even start…
 {% endbubble %}
 
 {% bubble Midori thinking %}
-Hrmm… Ah—Why not invite one of the Ryuseitai-N newbies? If they’ve joined our unit, surely they’d wanna join in on your activities, too?
+Hmm… Ah—Why not invite one of the Ryuseitai-N newbies? If they’ve joined our unit, surely they’d wanna join in on your activities, too?
 
 This doesn’t sound so hard to solve after all~♪
 {% endbubble %}
@@ -365,7 +332,7 @@ Exactly… I’m at my wit’s end…
 {% endbubble %}
 
 {% bubble Tetora thinking %}
-Hrmm… We’re not gonna get anywhere like this, huh? Shinobu-kun, how about you try going back to the basics?
+Hmm… We’re not gonna get anywhere like this, huh? Shinobu-kun, how about you try going back to the basics?
 {% endbubble %}
 
 {% bubble Shinobu curious %}
@@ -477,7 +444,7 @@ Huh, okay, that’s weird then… What did you even send them, anyway?
 {% bubble Midori smile %}
 Ermm… My message was—Ahh, here, this one.
 
-Basically, I said, “I, Eggplant Baron, have taken your Ryusei Yellow as hostage. He’s trembling in fear, waiting for you to rescue him from his worries, eeeggy-eggy-eggyplant LOL”
+Basically, I said, “I, Eggplant Baron, have taken your Ryusei Yellow as hostage. He’s trembling in fear, waiting for you to rescue him from his worries, eeeggy-eggy-eggplant LOL”
 
 “If you want him back, then make sure you come to ES’s meeting room at 1 PM tomorrow. You better show yourself no matter the cost, or consider your Ryusei Yellow doomed to face his troubles forever.”
 
@@ -607,11 +574,11 @@ Don’t look so smug about it… You wouldn’t typically understand a message l
 {% bubble Chiaki surprised %}
 Ah, wait, that reminds me! The message was one thing, but you *really* didn’t need to attach a photo of an entire box of eggplants after it!
 
-Why did you go for an eggplant baron!? Weren’t there plenty of other options among all the vegetables!?
+Why did you go with an eggplant baron!? Weren’t there plenty of other options among all the vegetables!?
 {% endbubble %}
 
 {% bubble Midori serious %}
-Huh? Weren’t you always the one who’d say that the stronger the enemy, the better? So I chose something powerful enough for you to struggle with.
+Huh? Didn’t you always say that the stronger the enemy, the better? So I chose something powerful enough for you to struggle with.
 {% endbubble %}
 
 {% bubble Chiaki frown2 %}

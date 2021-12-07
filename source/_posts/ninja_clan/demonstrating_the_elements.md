@@ -57,39 +57,6 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-<div class="toolbar-wrapper" style="--storyColor:#965e7d">
-	<div class="slider-container">
-		<input type="range" min="1" max="5" value="3" class="slider">
-	</div>
-	<div class="toolbar">
-		<div class="toolbar__section">
-			<a href="/ninja_clan/feeling_hopeful">
-				<span class="material-icons-round">arrow_back</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="colorFill<th>()</th>">
-				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan">
-				<span class="material-icons-round">star</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="sliderDrop<th>()</th>">
-				<span class="material-icons-round">format_size</span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan/epilogue">
-				<span class="material-icons-round">arrow_forward</span>
-			</a>
-		</div>
-	</div>
-</div>
-
 ## Chapter 1
 
 {% note location %}
@@ -163,7 +130,7 @@ Umm… I think this design looks pretty good, but maybe it still has the classic
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Hrmm… Good point. How ‘bout you make the main part of the outfit more like a sporty ninja attire? It could be a jacket or somethin’ instead.
+Hmm… Good point. How ‘bout you make the main part of the outfit more like a sporty ninja attire? It could be a jacket or somethin’ instead.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -193,7 +160,7 @@ Ah, it looks good. It really feels more modern now.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Hrmm… But now that I’ve adjusted the clothes, the shoes and such need to match with it, too… Like… this… Maybe?
+Hmm… But now that I’ve adjusted the clothes, the shoes and such need to match with it, too… Like… this… Maybe?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -233,7 +200,7 @@ Huh? It sounds interesting?
 
 Ehehe~ I have more confidence in the idea now that I heard that from you, since you’re a wonderful ES producer! ♪
 
-What will we do with this outfit? Hrmm… I haven’t decided what to do yet, actually.
+What will we do with this outfit? Hmm… I haven’t decided what to do yet, actually.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -341,7 +308,7 @@ hm? ahh, you’re right, anzu-san~ the three of them are late, aren’t they?
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Hrmm… Takamine’s likely rooted in front of the souvenir shop in the village.
+Hmm… Takamine’s likely rooted in front of the souvenir shop in the village.
 
 Remember when we struggled to get him out of there after we were done with Scroll of the Elements?
 {% endbubble %}
@@ -429,7 +396,7 @@ What’s up, Shinobu-kun?
 {% endbubble %}
 
 {% bubble Shinobu thinking %}
-Hrmm, I felt a gaze on me again…
+Hmm, I felt a gaze on me again…
 {% endbubble %}
 
 {% bubble Midori %}

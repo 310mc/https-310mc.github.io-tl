@@ -165,7 +165,7 @@ Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in 
 
 {% endbubble %}
 {% bubble Kanata past%}
-mrm~ you will Bite your tongue if you Talk while running, chiaki.
+mm~ you will Bite your tongue if you Talk while running, chiaki.
 
 {% endbubble %}
 {% bubble Chiaki past%}
@@ -642,7 +642,7 @@ No, um…? It’s not that—actually, it suits you way more than I thought, but
 
 {% endbubble %}
 {% bubble Kanata pastsmile %}
-mrm… if that is what you Want, then i will. i was already planning on Performing in the live show, anyway.
+mm… if that is what you Want, then i will. i was already planning on Performing in the live show, anyway.
 
 but my worshippers kept Wishing for me to not Perform—
 

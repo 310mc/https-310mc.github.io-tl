@@ -131,7 +131,7 @@ ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
 
               kaoru asked me to come over to that place, too. it's rare for him to do that~ i wonder if there's something over there?
 
-              hmm? you aren't talking about the ocean? hrmm, this is a very tricky question…
+              hmm? you aren't talking about the ocean? hmm, this is a very tricky question…
 				{% endbubble %}
 			</div>
         </div>
@@ -261,7 +261,7 @@ i had a feeling that i would have a birthday celebration, but i didn't expect *t
             	{% bubble Kanata %}
               i have another favorite item now—it's a megamouth shark plushie~…♪
 
-              hrmm. to think someone would have an eye for this child… i would love to shake hands with whoever made it~
+              hmm. to think someone would have an eye for this child… i would love to shake hands with whoever made it~
 
               ahh, so it was you, anzu-san~ ehehe, i love it. handshake~♪
 					{% endbubble %}

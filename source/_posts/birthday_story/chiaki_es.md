@@ -151,7 +151,7 @@ Ha ha ha!! ☆ How's that?! Did I surprise you, Anzu?!
 
               I feel like the temperature here slipped all the way down to the bottom… The only thing that could melt this frozen heart right now is a "Happy birthday" from you, Anz—
 
-              Hrm?! What's wrong, Anzu? Your expression is hard to understand… It feels like things just got a lot colder now, you know?!
+              Hm?! What's wrong, Anzu? Your expression is hard to understand… It feels like things just got a lot colder now, you know?!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
@@ -222,7 +222,7 @@ Yeah uh, sorry, Anzu. This was all prepared for me, yet I go and ruin that by no
             	{% bubble Chiaki %}
               Hm? It's the usual for me to not read the mood?
 
-              Hrmm, I have mixed feelings about that. The truth is, Kiryu said something similar to me earlier…
+              Hmm, I have mixed feelings about that. The truth is, Kiryu said something similar to me earlier…
 
               I assume he meant it in a nice way, but somehow, I can't really be happy about it, I suppose…
 				{% endbubble %}

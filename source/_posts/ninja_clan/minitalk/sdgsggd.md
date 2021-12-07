@@ -1,11 +1,11 @@
 ---
-title: "Ninja Clan – Midori Mini Talk: Relaxing Gameplay"
+title: "Ninja Clan – Tetora Mini Talk: "
 date: 2021/12/4 9:00:00
 categories:
-- [Enstars, Midori]
+- [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Midori's first Mini Talk from Ninja Clan. From Anzu's POV."
+description: "[ES!!] Tetora's second Mini Talk from Ninja Clan. From Anzu's POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -51,9 +51,9 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_midori1_1.jpg %}
+{% img /img/es/eventstory/ninjaclan/minitalk_Tetora1_1.jpg %}
 
-{% bubble Midori %}
+{% bubble Tetora %}
 sdfsf
 {% endbubble %}
 
@@ -63,7 +63,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -73,7 +73,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -83,7 +83,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -92,7 +92,7 @@ sdfsf
 
 #### <div mt="rare"></div> 2/3
 
-{% bubble Midori %}
+{% bubble Tetora %}
 sdfsf
 {% endbubble %}
 
@@ -102,7 +102,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -112,7 +112,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -122,7 +122,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -131,7 +131,7 @@ sdfsf
 
 #### <div mt="rare"></div> 3/3
 
-{% bubble Midori %}
+{% bubble Tetora %}
 sdfsf
 {% endbubble %}
 
@@ -141,7 +141,7 @@ sdfsf
           sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -151,7 +151,7 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
@@ -161,11 +161,11 @@ sdfsf
             sdfsf
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
+            {% bubble Tetora %}
             sdfsf
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/minitalk/midori_2,, arrow-right, Midori Mini Talk: Eeeggy-eggy-eggyplant %}</div>
+<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/minitalk/Tetora_2,, arrow-right, Tetora Mini Talk: Eeeggy-eggy-eggyplant %}</div>

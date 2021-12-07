@@ -64,13 +64,13 @@ description: "[ES!!] Midori's Idol Story 3, featuring Hajime."
 {% bubble Midori %}
 I’m hungry… It’s a little too early for lunch, but I’ll have something to eat anyway.
 
-<th>(Hrmm… It’s pretty empty around this hour, I didn’t know that. I can’t really calm down in a crowded place, since it’s always so noisy… I’m glad I found out about this.)</th>
+<th>(Hmm… It’s pretty empty around this hour, I didn’t know that. I can’t really calm down in a crowded place, since it’s always so noisy… I’m glad I found out about this.)</th>
 
 <th>(Usually most meals are sold out if you’re a second too late, but it seems like I can choose any of them right now.)</th>
 
 <th>(So there’s two types of prepared meals today, huh… There’s A for a steak dish and B for cutlet curry rice. You can have a refill of cabbages for A, and rice for B…)</th>
 
-<th>(Hrmm, which to choose…)</th>
+<th>(Hmm, which to choose…)</th>
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -98,7 +98,7 @@ Really? That’s kinda embarrassing, ehehe… But I’m happy to know we have so
 
 The value meals must be the prepared meals, right? They’re cheap and come with a dessert, so…
 
-Steak or cutlet curry rice… Which to choose, hrmm…
+Steak or cutlet curry rice… Which to choose, hmm…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -216,7 +216,7 @@ You don’t need to push yourself, y’know? Everyone has a certain amount of fo
 
 Grow big though, huh… I wonder how you’d look if you were bigger…? Maybe you’d go from being a cute idol to a cool idol.
 
-Hrmmm, I can’t imagine it…
+Hmmm, I can’t imagine it…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -226,7 +226,7 @@ You would’ve been an adorable idol~♪
 {% endbubble %}
 
 {% bubble Midori %}
-Mrmm, I wonder… If I was small, I might’ve not been able to continue being an idol, let alone be one in Ryuseitai.
+Mmm, I wonder… If I was small, I might’ve not been able to continue being an idol, let alone be one in Ryuseitai.
 
 I feel like, heroes look a lot cooler when they’re tall, and, well—
 

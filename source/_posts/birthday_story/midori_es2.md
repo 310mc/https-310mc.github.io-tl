@@ -587,7 +587,7 @@ I hope you can enjoy this the whole way…
 {% bubble Midori %}
 First up is the question corner. I still don’t know what questions I’ve gotten, so I really hope it’s something I can answer…
 
-Umm? “Midori-kun, your home is famous for being a greengrocer, so do you have any veggies you recommend for summer?”
+Umm? “Midori-kun, your home is famous for being a greengrocer, so do you have any vegetables you recommend for summer?”
 
 Hmmm… The seasonal veggies are full of nutrition, so I definitely recommend them. For summer, that’d be tomatoes, okura, and natto.
 
@@ -595,7 +595,7 @@ You can even grow these in your own garden, so it might be nice to try it out at
 
 Next up… “Which mascot character are you crazy about the most right now?” Hmm… That’s a tricky question.
 
-Mrmm… I can’t *not* say Kana-tee, but the veggie mascot that shows up in commercials is super cute, too… I can’t choose one, sorry…
+Mm… I can’t *not* say Kana-tee, but the veggie mascot that shows up in commercials is super cute, too… I can’t choose one, sorry…
 {% endbubble %}
 
 <img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I hope I don't get anything difficult to answer…">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Midori_Takamine_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="I definitely recommend the seasonal veggies.">

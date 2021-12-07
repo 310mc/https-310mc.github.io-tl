@@ -174,7 +174,7 @@ Actually, are you sure it’s okay to slack off here?
 {% endbubble %}
 
 {% bubble Hiiro %}
-Mmrmm… No, I don’t think it is.
+Mmm… No, I don’t think it is.
 
 We may have been able to overcome a crisis by successfully paying our debt, and avoided being evicted out of ES for the time being, but—
 

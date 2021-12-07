@@ -55,39 +55,6 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-<div class="toolbar-wrapper" style="--storyColor:#965e7d">
-	<div class="slider-container">
-		<input type="range" min="1" max="5" value="3" class="slider">
-	</div>
-	<div class="toolbar">
-		<div class="toolbar__section">
-			<a href="/ninja_clan/prologue">
-				<span class="material-icons-round">arrow_back</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="colorFill()">
-				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan">
-				<span class="material-icons-round">star</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="sliderDrop()">
-				<span class="material-icons-round">format_size</span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan/grasping_for_something">
-				<span class="material-icons-round">arrow_forward</span>
-			</a>
-		</div>
-	</div>
-</div>
-
 ## Chapter 1
 
 {% note location %}
@@ -217,7 +184,7 @@ Speaking of time… It’s been a while now since Shinobu-kun got called over by
 {% bubble Tetora curious %}
 Huh, you’re right. He’d usually contact us if something came up.
 
-Hrmm… How about we check how he’s doing if he doesn’t come back anytime soon?
+Hmm… How about we check how he’s doing if he doesn’t come back anytime soon?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -330,7 +297,7 @@ I’m so sorry, I didn’t expect you to faint…
 {% bubble Shinobu awkward %}
 I-I’m alright. I simply lost hold of myself…
 
-Ummm…? So what did you just tell me? Hmm… Hrmm? No, no, it can’t be <em>that</em>, right?
+Ummm…? So what did you just tell me? Hmm… Hmm? No, no, it can’t be <em>that</em>, right?
 
 Isara-dono, I think I misheard you!
 

@@ -211,7 +211,7 @@ Haha… I don’t really want Tetsu seein’ this side of me.
 {% endbubble %}
 
 {% bubble Souma v3 %}
-<th>(Hrm… Though I am not quite clear on what is happening, it appears that we have solved this matter without any problems.)</th>
+<th>(Hm… Though I am not quite clear on what is happening, it appears that we have solved this matter without any problems.)</th>
 
 <th>(However… Who *were* those *“ai-dols”* that tried to assault us? Their bloodthirsty presence reminded me of *that* “evil,” but—)</th>
 
@@ -417,7 +417,7 @@ Like I said, I don’t mind that. I’m tired enough as it is, Morisawa would on
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hrmph… you sure do treat chiaki harshly, temple guy.
+hmph… you sure do treat chiaki harshly, temple guy.
 {% endbubble %}
 
 {% bubble Keito %}

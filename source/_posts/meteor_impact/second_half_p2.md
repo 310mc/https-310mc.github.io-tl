@@ -1307,7 +1307,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
-<th>(Hrmm? Something’s not right here — I thought he was just doing his “puka puka” thing, but… He won’t get his head out of the water! He’ll suffocate at this rate! Humans can’t breathe underwater!)</th>
+<th>(Hmm? Something’s not right here — I thought he was just doing his “puka puka” thing, but… He won’t get his head out of the water! He’ll suffocate at this rate! Humans can’t breathe underwater!)</th>
 
 <th>(Did he pass out…?)</th>
 
@@ -1568,7 +1568,7 @@ that was how many Human beings became ill… and died.
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
-<th>(Hrmmm? So what he means is that there was a legend like that? That people died from illnesses through evil things coming out of a meteorite?)</th>
+<th>(Hmmm? So what he means is that there was a legend like that? That people died from illnesses through evil things coming out of a meteorite?)</th>
 
 <th>(It must’ve been a disease of some sort… and then, it began to spread across the land…?)</th>
 
@@ -2171,7 +2171,7 @@ Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it s
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Mrmm… I don’t really get it, but how about we try going closer, Shinkai-kun?
+Mmm… I don’t really get it, but how about we try going closer, Shinkai-kun?
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2452,7 +2452,7 @@ Really…? Then I’d like to wear the red uniform. Though it probably doesn’t
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Ahaha, you’re not part of Ryuseitai, y’know~… Ah, but wait? Hrmm? It *would* suit you, though…?
+Ahaha, you’re not part of Ryuseitai, y’know~… Ah, but wait? Hmm? It *would* suit you, though…?
 
 <th>(Huh, wait… I think I have a great idea.)</th>
 
@@ -2594,7 +2594,7 @@ Mikejima-san!
 
 “Wait, uh, this is a little strange… The ship should’ve arrived by now — Don’t you guys see anything above the ocean…?”
 
-“Mrmm… It seems like the Student Council’s scheme to make everyone stop having faith in Kanata-san… has had a horrible ripple effect on his worshippers — even worse than the ones within school.”
+“Mmm… It seems like the Student Council’s scheme to make everyone stop having faith in Kanata-san… has had a horrible ripple effect on his worshippers — even worse than the ones within school.”
 
 “Whatever’s happening behind closed doors is getting really out of hand.”
 

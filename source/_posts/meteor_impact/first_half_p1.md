@@ -341,7 +341,7 @@ F-Family? Mikejima-kun’s part of your family!? Your brother, maybe? Ah no, you
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
-hrmm… i think he *wants* to become Family, but… i do not quite understand… how long will he be Playing house…?
+hmm… i think he *wants* to become Family, but… i do not quite understand… how long will he be Playing house…?
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch2_2.jpg %}
 

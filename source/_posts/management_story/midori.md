@@ -353,7 +353,7 @@ Mhm… Looking at mascots soothes my soul… But most of all, they give me a rea
 {% bubble Yuta %}
 I don't really get what you mean by the latter, but I can see how they can be soothing. I feel at ease just looking at it.
 
-Hrm… Would the transfer student make me one too if I asked?
+Hm… Would the transfer student make me one too if I asked?
 {% endbubble %}
 
 {% bubble Midori %}

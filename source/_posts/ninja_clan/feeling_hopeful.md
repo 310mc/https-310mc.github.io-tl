@@ -57,39 +57,6 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-<div class="toolbar-wrapper" style="--storyColor:#965e7d">
-	<div class="slider-container">
-		<input type="range" min="1" max="5" value="3" class="slider">
-	</div>
-	<div class="toolbar">
-		<div class="toolbar__section">
-			<a href="/ninja_clan/grasping_for_something">
-				<span class="material-icons-round">arrow_back</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="colorFill()">
-				<span class="material-icons-round"><span id="dark-toggle">dark_mode</span><span id="light-toggle" style="display:none">light_mode</span></span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan">
-				<span class="material-icons-round">star</span>
-			</a>
-		</div>
-		<!--<div class="toolbar__section">
-			<a onclick="sliderDrop()">
-				<span class="material-icons-round">format_size</span>
-			</a>
-		</div>-->
-		<div class="toolbar__section">
-			<a href="/ninja_clan/demonstrating_the_elements">
-				<span class="material-icons-round">arrow_forward</span>
-			</a>
-		</div>
-	</div>
-</div>
-
 ## Chapter 1
 
 {% note location %}
@@ -97,7 +64,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 {% endnote %}
 
 {% bubble Chiaki thinking %}
-Hrmm… I see.
+Hmm… I see.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -195,7 +162,7 @@ Ermm…? I’m not necessarily a tokusatsu <em>fan</em>, though…?
 {% endbubble %}
 
 {% bubble Midori sigh %}
-Why’s he talking like we’re part of the same group…? I mean, sure, I know a bit more about them, but that’s about it…
+Why’s he talking like we’re part of the same group…? I mean, sure, I know a bit more about them now, but that’s about it…
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
@@ -265,7 +232,7 @@ Ermm…? Are you asking me if I like a regular person wearing a ninja outfit, or
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Hrm…? That’s one way to put it… But yeah, something like that.
+Hm…? That’s one way to put it… But yeah, something like that.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

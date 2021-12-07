@@ -258,7 +258,7 @@ What exactly they mean by "different" is beyond me…
 {% endbubble %}
 
 {% bubble Midori curious %}
-Hrmm… They probably wanted to join us ‘cause they saw what we were like last year, right…?
+Hmm… They probably wanted to join us ‘cause they saw what we were like last year, right…?
 
 So maybe they were expecting that they could be like that the moment they joined…
 {% endbubble %}
@@ -272,7 +272,7 @@ It just took all my strength to stay on foot…
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hrmmm… If we were to look at it from an outside perspective—
+Hmmm… If we were to look at it from an outside perspective—
 
 I suppose we must’ve given off the impression of a friendly, cozy unit revolving around Morisawa-dono, like we’re always having the time of our lives. Or that every day’s a summer festival in full swing for us, perhaps.
 {% endbubble %}

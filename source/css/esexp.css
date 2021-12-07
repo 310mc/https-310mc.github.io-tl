@@ -195,12 +195,10 @@
 
 [character=TetoraS]{
   --color:#302833;
+  --name: "Tetora & Shinobu";
   --light-mode:hsl(284, 9%, 94%);
   --dark-mode:hsl(284, 5%, 24%);
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_shinobu.png")
-}
-[character="TetoraS"]::before {
-  content: "Tetora & Shinobu";
 }
 /**
 ***/

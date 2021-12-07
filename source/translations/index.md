@@ -30,7 +30,7 @@ description: A list of all the translations by 310mc. You will find Enstars and 
 [![https://euni2319.dreamwidth.org/4502.html](/img/banner/crossroad.png)](https://euni2319.dreamwidth.org/4502.html)|
 
 
-Motor Show|Comet Show|Submarine
+Motor Show|Comet Show|Submarine (In Progress!)
 | :-----------: | :-----------: | :-----------: |
 [![/motor_show](/img/banner/motorshow.png)](/motor_show)|[![/comet_show](/img/banner/cometshow.png)](/comet_show)|[![/submarine](/img/banner/submarine.png)](/submarine)
 **Ninja Clan**|
@@ -98,9 +98,9 @@ Baton Pass! Chiaki|Shooting Star Festival! Chiaki|
 | :-----------: | :-----------: |
 [![https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/3/35/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event){% btn https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Normal_Event,, circle, Normal Event %}{% btn https://ensemble-stars.fandom.com/wiki/Baton_Pass!_Repayment_Festival_of_Tears_and_Bonds/Chiaki_Morisawa_Special_Event,, star, Special Event %}|[![https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event](https://static.wikia.nocookie.net/ensemble-stars/images/c/c1/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Bloomed.png)](https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event){% btn https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Normal_Event,, circle, Normal Event %}{% btn https://ensemble-stars.fandom.com/wiki/Launch!_The_Night_Sky_of_the_Shooting_Star_Festival/Chiaki_Morisawa_Special_Event,, star, Special Event %}|
 
-Comet Show! Midori|
+Comet Show! Midori|Ring × Midori (Coming Soon!)|Ninja Clan! Midori|
 | :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_M_Bloomed.png)](/comet_show/minitalk/midori/1){% btn /comet_show/minitalk/midori_1,, circle, Midori Mini Talk: Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Midori Mini Talk: Topics About That Guy %}|
+[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/5/5f/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_M_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Midori Mini Talk: Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Midori Mini Talk: Topics About That Guy %}|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/%28Hopeful_Bouquet%29_Midori_Takamine_M_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Midori Mini Talk: Conveying My Feelings %}{% btn /ring/minitalk/midori_2,, star, Midori Mini Talk: Before the Nerve-wrecking Photoshoot %}|[![/ninja_clan/minitalk/x](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_M_Bloomed.png)](/ninja_clan/minitalk/x){% btn /ninja_clan/minitalk/x,, circle, Midori Mini Talk: Relaxing Gameplay %}{% btn /ninja_clan/minitalk/x,, star, Midori Mini Talk: Eeeggy-eggy-eggyplant %}
 
 ### Song Lyrics
 |SUPER NOVA REVOLU5TAR|GROWING STARRY DAYS|Meteor Scramble☆RYUSEITAI

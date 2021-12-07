@@ -230,7 +230,7 @@ Wha--!? You heard our whispers? You have good hearing, Shinkai-senpai…
 {% endbubble %}
 
 {% bubble Kanata %}
-do i? hrmm, a god is one that hears Everything, you see…?
+do i? hmm, a god is one that hears Everything, you see…?
 
 {% endbubble %}
 
@@ -278,7 +278,7 @@ Which part of us is even alike…?
 {% endbubble %}
 
 {% bubble Kanata %}
-ah—now that you mention it… hrmm, i suppose it’s your Kindness?
+ah—now that you mention it… hmm, i suppose it’s your Kindness?
 
 which means, All you three Children are similar to chiaki… ♪
 
