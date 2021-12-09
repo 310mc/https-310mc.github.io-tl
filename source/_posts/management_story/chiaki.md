@@ -13,7 +13,7 @@ categories:
 tags:
 - Management Story
 - Happy Elements Staff
-description: "[ES!] Chiaki's Management Stories, featuring Kaoru, Tetora, Midori, Shu, Kanata, and Keito."
+description: "[ES!] Translation of Chiaki's Management Stories, featuring Kaoru, Tetora, Midori, Shu, Kanata, and Keito."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

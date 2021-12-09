@@ -8,7 +8,7 @@ categories:
 tags:
 - Idol Story
 - Yuuki Yoshino
-description: "[ES!!] Hinata's Idol Story 3, featuring Midori."
+description: "[ES!!] Translation of Hinata's Idol Story 3, featuring Midori."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

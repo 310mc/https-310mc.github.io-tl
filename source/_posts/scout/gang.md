@@ -244,7 +244,7 @@ permalink: gang/
 
 ## Midnight Gangsters 1
 {% note cw %}
-**Content Warning:** This story has multiple references to war.
+**Content Warning:** This story contains multiple references to war.
 {% endnote %}
 
 {% note location %}

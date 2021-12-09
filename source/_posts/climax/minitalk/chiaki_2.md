@@ -1,11 +1,11 @@
 ---
-title: "Climax – Chiaki Mini Talk: Justice Will Prevail"
+title: "Climax – Chiaki Produce Course: Justice Will Prevail"
 date: 2017/3/1 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Chiaki's second Mini Talk from Climax. From Anzu's POV."
+description: "[ES!] Translation of Chiaki's second Mini Talk from Climax. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

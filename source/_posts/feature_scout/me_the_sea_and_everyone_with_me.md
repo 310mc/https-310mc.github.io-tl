@@ -11,7 +11,7 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] Kanata's Feature Scout Story, featuring Rei, Kaoru, Natsume, and Chiaki. Kaoru finds seashells and sequins on the floor, and follows its trail…"
+description: "[ES!!] Translation of a Kanata Feature Scout Story, featuring Rei, Kaoru, Natsume, and Chiaki. Kaoru finds seashells and sequins on the floor, and follows its trail…"
 permalink: me_the_sea_and_everyone_with_me/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Intertwined_Sea%29_Kanata_Shinkai_M_Bloomed.png)

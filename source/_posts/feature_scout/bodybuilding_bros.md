@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] A Tetora Feature Scout story, featuring Jun and Midori. Tetora finally gets to talk to Jun about workouts."
+description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Jun and Midori. Tetora finally gets to talk to Jun about workouts."
 permalink: bodybuilding_bros/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Muscle_Talk%29_Tetora_Nagumo_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)

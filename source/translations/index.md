@@ -1,16 +1,16 @@
 ---
-title: Translation Masterlist
-description: A list of all the translations by 310mc. You will find Enstars and Helios translations here.
+title: Ensemble Stars & Helios Translation Masterlist
+description: A list of translations by 310mc. You will find Enstars / Ensemble Stars and Helios Rising Heroes translations in this blog site.
 ---
 
 ## Index
 
 <a href="#Ensemble-Stars">Ensemble Stars</a>
 <ul>
-<li><a href="#Event-Stories">Event Stories</a></li>
-<li><a href="#Gacha-Stories">Gacha Stories</a></li>
-<li><a href="#Idol-Stories">Idol Stories</a></li>
-<li><a href="#Mini-Talks">Mini Talks</a></li>
+<li><a href="#Event-Stories">Event Story</a></li>
+<li><a href="#Gacha-Stories">Gacha / Scout Story</a></li>
+<li><a href="#Idol-Stories">Idol / Feature Scout Story</a></li>
+<li><a href="#Mini-Talks">Mini Talk</a></li>
 <li><a href="#Song-Lyrics">Song Lyrics</a></li>
 <li><a href="#Other">Other</a></li>
 </ul>

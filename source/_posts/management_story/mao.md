@@ -8,7 +8,7 @@ categories:
 tags:
 - Management Story
 - Happy Elements Staff
-description: "[ES!] Mao's Management Stories, featuring Midori."
+description: "[ES!] Translation of Mao's Management Stories, featuring Midori."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

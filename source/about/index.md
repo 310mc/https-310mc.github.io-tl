@@ -1,14 +1,16 @@
 ---
-title: About
-description: About 310mc's Translation Archive. Typically found translating Enstars and Helios content.
+title: About this translation blog site
+description: About 310mc's Translation Archive Blog. Typically found translating Enstars (Ensemble Stars) and Helios content.
 ---
 
 ## Introduction
 {% img /img/banner/about.jpg %}
 
-Heya, this is 310mc's Translation site! In here, I'll be posting my unofficial JP→ENG translations for any series I'm interested in. I also JP proofread for translators, mainly in Enstars♪
+Heya, this is 310mc's Translation site! In here, I'll be posting my unofficial JP→ENG translations for any series I'm interested in. I also JP proofread for translators, mainly in Ensemble Stars (Enstars) ♪
 
-Be sure to check my [translation masterlist](/translations/), [categories](/categories/), or [tags](/tags/) to navigate the site! You can also contact me anytime on [twitter](https://twitter.com/310mc1).
+Be sure to check my [translation masterlist](/translations/), [categories](/categories/), or [tags](/tags/) to navigate the site!
+
+You can also contact me anytime on [twitter](https://twitter.com/310mc1).
 
 **※ Everything on this site is unofficial and for non-profit.**
 

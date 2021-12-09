@@ -1,11 +1,11 @@
 ---
-title: "Shooting Star Festival – Chiaki Mini Talk: The Festival's Hero"
+title: "Shooting Star Festival – Chiaki Produce Course: The Festival's Hero"
 date: 2021/02/01 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Chiaki's second Mini Talk from Shooting Star Festival. From Anzu's POV."
+description: "[ES!] Translation of Chiaki's second Mini Talk from Shooting Star Festival. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

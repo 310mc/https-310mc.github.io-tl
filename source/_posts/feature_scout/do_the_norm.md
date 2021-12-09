@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and makes an incredible discovery."
+description: "[ES!!] Translation of an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and makes an incredible discovery."
 permalink: do_the_norm/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Basketball_Connections%29_Aira_Shiratori_M_Bloomed.png)

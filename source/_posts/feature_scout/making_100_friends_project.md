@@ -10,7 +10,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Midori's Feature Scout Story, featuring Hinata, Sora, and Mitsuru. Midori has to mention who his friends are in a survey, but he doesn't know who to write down…"
+description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Hinata, Sora, and Mitsuru. Midori has to mention who his friends are in a survey, but he doesn't know who to write down…"
 permalink: making_100_friends_project/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M_Bloomed.png)

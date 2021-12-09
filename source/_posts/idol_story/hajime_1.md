@@ -7,7 +7,7 @@ categories:
 tags:
 - Idol Story
 - Akira
-description: "[ES!!] Hajime's Idol Story 1."
+description: "[ES!!] Translation of Hajime's Idol Story 1."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

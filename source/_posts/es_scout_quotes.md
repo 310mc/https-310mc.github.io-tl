@@ -4,7 +4,7 @@ date: 2017-08-09 9:00:00
 categories:
 - [Enstars]
 tags:
-description: "[ES!] Translation of the quotes that appear when you scout a 5* of the character."
+description: "[ES!] Ensemble Stars (Enstars) Translation of the quotes that appear when you scout a 5* of the character."
 hidden: true
 ---
 Translation of the quotes that appear when you scout a 5* of the character.

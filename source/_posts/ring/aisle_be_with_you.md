@@ -10,7 +10,7 @@ categories:
 - [Enstars, Leo]
 tags:
 - Song Lyrics
-description: "Aisle, be with you Song Lyrics by 310mc."
+description: "Translation of Aisle, be with you Song Lyrics by 310mc. By Ring.A.Bell from the Shuffle Event Ring."
 permalink: aisle_be_with_you/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">

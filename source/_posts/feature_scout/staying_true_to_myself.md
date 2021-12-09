@@ -10,7 +10,7 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] Midori's Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personal outfit that he'd like to wear."
+description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personal outfit that he'd like to wear."
 permalink: staying_true_to_myself/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M_Bloomed.png)

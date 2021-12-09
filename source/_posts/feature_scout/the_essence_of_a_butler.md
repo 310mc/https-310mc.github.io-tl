@@ -13,7 +13,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Yuzuru's Feature Scout Story, featuring Keito, Aira, Hiiro, Mika, Tori, and Midori. Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…"
+description: "[ES!!] Translation of Yuzuru Feature Scout Story, featuring Keito, Aira, Hiiro, Mika, Tori, and Midori. Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…"
 permalink: the_essence_of_a_butler/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Devoted_Valet%29_Yuzuru_Fushimi_M_Bloomed.png)
