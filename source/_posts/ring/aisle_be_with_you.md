@@ -11,13 +11,14 @@ categories:
 tags:
 - Song Lyrics
 description: "Aisle, be with you Song Lyrics by 310mc."
+permalink: aisle_be_with_you/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    Characters
+                    Ring.A.Bell
                 </div>
                 <div class="value">
 								<a href="/categories/Enstars/Midori" character="Midori"></a>
@@ -29,10 +30,10 @@ description: "Aisle, be with you Song Lyrics by 310mc."
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Unit
+                    Associated Story
                 </div>
                 <div class="value">
-                    Ring.A.Bell
+                    <a href="/ring">Ring</a>
                 </div>
             </div>
             <div class="info-item two">

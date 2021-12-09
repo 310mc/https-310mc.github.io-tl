@@ -1,11 +1,11 @@
 ---
-title: "Ninja Clan – Chiaki Mini Talk: "
+title: "Submarine – Chiaki Mini Talk: "
 date: 2021/12/4 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki's second Mini Talk from Ninja Clan. From Anzu's POV."
+description: "[ES!!] Chiaki's second Mini Talk from Submarine. From Anzu's POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/ninja_clan">Ninja Clan</a>
+                    <a href="/ninja_clan">Submarine</a>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_Chiaki1_1.jpg %}
+{% img /img/es/eventstory/ninjaclan/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki %}
 sdfsf

@@ -1271,7 +1271,7 @@ Shinkai-kun! Where are you!? Please respond! Please, if you’re out there…!
 {% img /img/es/eventstory/meteorimpact/madaraorigcg.jpg %}
 
 {% bubble Madara %}
-—Yees~♪
+—Yeees~♪
 
 {% endbubble %}
 {% bubble Chiaki pastworried worried %}
@@ -1283,7 +1283,7 @@ Goootcha! Too bad, so sad, don’t get mad! You thought it was Kanata-san, but i
 
 {% endbubble %}
 {% bubble Chiaki pastworried worried %}
-… Huh!? M-Mikejima-san! So you really did come back! But why are you here?
+…Huh!? M-Mikejima-san! So you really did come back! But why are you here?
 
 {% endbubble %}
 {% bubble Madara %}
@@ -1295,9 +1295,9 @@ Ah… You wouldn’t know someone like me, would you… I’m Morisawa Chiaki, f
 
 {% endbubble %}
 {% bubble Madara %}
-Yep, I’m gonna stop you right there. You can sometimes be really hard on yourself, y’know. You don’t need to tell me who you are.
+Yep, I’m gonna stop you riiight there. You can sometimes be really hard on yourself, y’know. You don’t need to tell me who you are.
 
-I have a great memory, and it’s my job to know everything about anyone who’s involved with Kanata-san, so.
+I have a great memory, and it’s my job to know eeeverything about anyone who’s involved with Kanata-san, so.
 
 Needless to say, I know who *you* are… Morisawa Chiaki-san~♪
 
@@ -1305,7 +1305,7 @@ I know you like the palm of my hand, from your family ties, to what you love, wh
 
 I know anything and everything. I’m not “God”, so I’m far from being omniscient.
 
-But I essentially know everything, and can do anything. We, the Mikejima family, must do the bidding of God… or something like that! Hahaha, how old-fashioned~
+But I essentially know everything, and can do aaanything. We, the Mikejima family, must do the bidding of God… or something like that! Hahaha, how old-fashioned~
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
@@ -1315,7 +1315,7 @@ You are… Erm, what exactly? Shinkai-kun mentioned you; are you his friend?
 
 {% endbubble %}
 {% bubble Madara %}
-Hahaha, no way, I could never say I’m his friend. He’s a *God*, y’know?
+Hahaha, nooo way, I could never say I’m his friend. He’s a *God*, y’know?
 
 At some point in my childhood, I did make the careless mistake of wanting to become his friend, but the world—fate isn’t so forgiving about relationships like those.
 
@@ -1325,7 +1325,7 @@ T-That kid… Is Shinkai-kun really a God after all?
 
 {% endbubble %}
 {% bubble Madara %}
-Yep. Or, at least in this region, he is. He’s an all-knowing God, and there’s plenty of people out there who believe in him.
+Yep. Or, at least in this region, he is. He’s an all-knowing God, and there’s pleeenty of people out there who believe in him.
 
 You’ve been living an ordinary, everyday life, so you wouldn’t know about what lies within the other side of this world—the side with a mystical land inside it. Gods and flesh-eating monsters dominate the territory.
 
@@ -1345,7 +1345,7 @@ That’s the best option for someone like you—who’s just an ordinary kid.
 {% bubble Madara %}
 Hahaha. Telling that to a teenage boy would only have the opposite effect, though.
 
-They’re always the type to yearn to escape from their boring everyday lives, and live a heart pounding, extraordinary one instead.
+They’re aaalways the type to yearn to escape from their boring everyday lives, and live a heart pounding, extraordinary one instead.
 
 But, that’s exactly why I’m here to tell you about the disappointing truth—so you don’t yearn for it.
 
@@ -1367,9 +1367,9 @@ Right then. Let me be honest with you—There are no such things as “myths”[
 
 {% endbubble %}
 {% bubble Madara %}
-“*God*”? There’s no *way* something like that exists. In this world, there’s no superpowers, no aliens, no youkai…
+“*God*”? There’s no *way* something like that exists. In this world, there are no superpowers, no aliens, no youkai…
 
-You probably know this already, but there’s no place for fantasies to exist in a world controlled by the laws of physics.
+You prooobably know this already, but there’s no place for fantasies to exist in a world controlled by the laws of physics.
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
@@ -1377,23 +1377,23 @@ B-But… You just said the opposite a second ago. You said he’s a God, didn’
 
 {% endbubble %}
 {% bubble Madara %}
-I was only saying that there’s a lot of people who *believe* that.
+I was only saying that there are a looot of people who *believe* that.
 
 That includes Kanata-san… to these kinds of people, who believe in such a being… They also believe that Gods, magic, and everything else like it are real, too.
 
-That’s not necessarily a bad thing. I mean, if you try to prove to people that Santa Claus isn’t real, it’s not gonna make anyone happy.
+That isn’s necessarily a bad thing. I mean, if you try to prove to people that Santa Claus isn’t real, it’s not gonna make anyone happy.
 
 That’s why these customs don’t die out. Even now, mamas and papas dress themselves red, wear a white beard, and place presents under their children’s pillows for the ones who believe in him.
 
 It’s just a daydream to give color to this boring world. And I think that’s wonderful—after all, festivals are a necessity in this world.
 
-Kanata-san being a “God” is exactly that, Chiaki-san. There are people who yearn and dream for an omniscient being to make all their wishes come true.
+Kanata-san being a “God” is exaaactly that, Chiaki-san. There are people who yearn and dream for an omniscient being to make all their wishes come true.
 
-Y’see, it’s ‘cause there was a terrible time when these fantasies were once needed to forget about the pain of reality, even if only for a second.
+Y’see, it’s ‘cause there was a terrible time when these fantasies were once needed to forget aaall about the pain of reality, even if only for a second.
 
-Weeell, I’m talking like I’ve been through it myself, but obviously, I’m talking about a very old tale from before I was even born.
+Weeell, I talk like I’ve been through it myself, but obviously, I’m talking about a very old tale from before I was even born.
 
-Kanata-san being a God is just far too stable a fantasy that it’s kept going all the way up to this very generation.
+Kanata-san being a God is just faaar too stable a fantasy that it’s kept going all the way up to this very generation.
 
 And, after a long period of preparation, this fantasy has even plotted a scheme to maintain itself.
 {% endbubble %}
@@ -1411,13 +1411,13 @@ I’m talking as if I’m not part of that “scheme,” but I am.
 
 As long as there are people foolishly yearning for God, Kanata-san will always, *always* stay on the top of the shrine.
 
-Even though him being treated as a God means that he’s not being treated as a human being… He doesn’t think of it as misfortune and accepts it as his fate.
+Even though him being treated as a God means that he isn’t being treated as a human being… He doesn’t think of it as misfortune and accepts it as his fate.
 
-I couldn’t bear to see him that way… It was only for a mere moment, but once upon a time, we were friends — and there was a time when I considered taking him by the hand and getting him out of there.
+I couldn’t bear to see him that way… It was only for a mere moment, but once upon a time, we were friends—and there was a time when I considered taking him by the hand and getting him out of there.
 
 But it was impossible for me. There’s no chance of me easily breaking apart such a long-planned scheme.
 
-Zealots are frightening ones — They’d do whatever it takes to protect their fantasy.
+Zealots are frightening ones—They’d do whateeever it takes to protect their fantasy.
 
 For example… they would even gather in the dead of night, invade a school, and clear an entire pool, despite gaining nothing by doing it.
 
@@ -1427,7 +1427,7 @@ For example… they would even gather in the dead of night, invade a school, and
 
 {% endbubble %}
 {% bubble Madara %}
-Or, negotiate with the school to rebuild the fountain that’s been broken for so long…
+Or, negotiate with the school to rebuild the fountain that’s been broken for sooo long…
 
 Making sure to rebuild it all in one night… and making sure to do it in a way that wouldn’t cause any legal problems…
 
@@ -1443,7 +1443,7 @@ Making sure to rebuild it all in one night… and making sure to do it in a way 
 
 {% endbubble %}
 {% bubble Madara %}
-Yep. All of it is to keep up the act that Kanata-san is “an all knowing, extraordinary God who grants wishes.”
+Yep. Aaall of it is to keep up the act that Kanata-san is “an all knowing, extraordinary God who grants wishes.”
 
 “He will grant you anything you wish for”… The scheme exists to achieve that.
 
@@ -1453,17 +1453,17 @@ You too—you almost believed he was before I started explaining things, didn’
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
-… Yes, you’re right. But he’s *not* a God, right?
+…Yes, you’re right. But he’s *not* a God, right?
 
 I could tell from his body temperature when we made contact. He’s a human being like us, right?
 
 {% endbubble %}
 {% bubble Madara %}
-Yup, that’s right. He’s part of a sacred ancestry, yeah, and he is an extraordinary talented kid, but he’s just another human being like us.
+Yup, that’s right. He’s part of a sacred ancestry, yeah, and he *is* an extraordinary talented kid, but he’s just another human being like us.
 
 Though, he has never had a proper check-up, so I can’t be completely sure about that…
 
-I know the full truth, yet even I have moments where I find it frightening how remarkable he can be.
+I know the full truth, yet even *I* have moments where I find it frightening how remarkable he can be.
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
@@ -1479,7 +1479,7 @@ On the front, they’re policemen, and inform the police headquarters that they�
 
 But, in reality… They’re basically just a bunch of worshippers.
 
-I’ve always been a sly little kid, so when I was asked to play with Kanata-san because we just so happened to be the same age…
+I’ve aaalways been a sly little kid, so when I was asked to play with Kanata-san 'cause we just so happened to be the same age…
 
 I could tell he wasn’t so different from me through physical contact.
 
@@ -1501,17 +1501,17 @@ If you could cure diseases simply by praying to God, then we wouldn’t need any
 {% img /img/es/eventstory/meteorimpact/firsthalfch17_1.jpg %}
 
 {% bubble Madara %}
-Well… Relatedly, I had promised to cure my sister from her disease before making my wish, and… it ended up with my sister calling me a liar, and hating me for it.
+Well… Relatedly, I had promised to cure my sister from her disease before making my wish, aaand… it ended up with my sister calling me a liar, and hating me for it.
 
-I made her hope for a way out but betrayed that trust, and made her fall further into despair instead… so it’s no surprise she acted that way towards me.
+I made her hope for a way out but betrayed that trust, and made her fall deeper into despair instead… so it’s no surprise she acted that way towards me.
 
-I may have lost my faith then, but there’s still many, many people who believe him to be a God.
+I may have lost my faith then, but there’s still many, maaany people who believe him to be a God.
 
 Even now, this fantasy is only getting stronger, and more stable.
 
 I want you to be aware of this, and ask you to stop yourself from getting involved, please.
 
-Because Kanata-san tried to grant your wish, I researched and learned everything about you, and what I understood from my research is that you really are just a regular, naive, good kid.
+Because Kanata-san tried to grant your wish, I researched and learned everything about you, and what I understood from my research is that you really are just a regular, naïve, good kid.
 
 You don’t get any rewards for your hard work, yet you don’t fret over it… you’re ignored and bullied all the time, yet you hold no grudges… You work hard, to the best of your ability, to make your dreams come true.
 
@@ -1519,13 +1519,13 @@ A good-natured, respectable kid like you is rare these days.
 
 Someone like you doesn’t need a God. It’ll take time, but as long as you work hard, you’ll get what you want.
 
-Relying on a God for things—that will only make you dependent on it. The idea that you can just achieve whatever you want without shedding a single bead of sweat is the way lazy people think.
+Relying on a God for these things will only make you dependent on it. The idea that you can just achieve whateeever you want without shedding a single bead of sweat is the way lazy people think.
 
-But, well, people are the type to want to make things easier for themselves. They’ll get attached the moment they find out that there really is a God who’ll grant their every wish.
+But, well, people are the type to want to make things easier for themselves. They’ll get attached the moooment they find out that there really is a God who’ll grant their every wish.
 
 But you’re a kid who can work for what you want. If someone like you also fell down this rabbit hole, it’d be a loss to humanity, wouldn’t it? Though, this *is* a cliché you hear often…
 
-In a future where no one has to learn how to count because they can just use a calculator for it, no one would be able to make them anymore, or even have the capability to add 1+1.
+In a future where no one has to learn how to count 'cause they can just use a calculator for it, no one would be able to make them anymore, or even have the capability to add 1+1.
 
 And then, society would fall to ruin, or civilization would progress backwards. Hah, do you think it’s amusing that I’m bringing such huge factors like that into this topic?
 
@@ -1537,17 +1537,17 @@ Don’t ever wish to become a hero—a special being of this world.
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
-… Are you telling me to know my place?
+…Are you telling me to know my place?
 
 {% endbubble %}
 {% bubble Madara %}
-Is that how it sounded to you? Well, you’re more or less right, so I won’t ask you to reconsider your thoughts…
+Is that how it sounded to you? Well, you’re mooore or less right, so I won’t ask you to reconsider your thoughts…
 
 Besides, I took a liking to you after just a little research.
 
 I felt envious, y’know? Like, “If only I could live like this~” kinda thing.
 
-I had always wanted to live in the front side of the world, forever innocently laughing and enjoying daydreams of Gods and heroes.
+I had always wanted to live in the front side of the world, foreeever innocently laughing and enjoying daydreams of Gods and heroes.
 
 {% endbubble %}
 {% bubble Chiaki pastsad %}
@@ -1561,21 +1561,21 @@ Yet somehow, Kanata-san has been granting wishes unnaturally through “faith”
 
 And those acts are twisting and bending our reality, which will likely recoil and bring about a great tragedy…
 
-Maybe I’m just overthinking it, but I’m a little scared, y’know?
+Maybe I’m just overthinking it, but I’m a liiittle scared, y’know?
 
 Like, they’ve touched a really dangerous area with the Kiryu Kuro-san incident, and a few other incidents, too.
 
-Cleaning a pool is not a big deal, but this time they’ve actually hurt a bunch of people.
+Cleaning a pool is not thaat big a deal, but this time around they’ve actually hurt a bunch of people.
 
-All that bloodshed will forever cling to them. I wasn’t directly involved in that incident though — It was my mother who ordered them to do it.
+All that bloodshed will forever cling to them. I wasn’t directly involved in that incident though—It was my mother who ordered them to do it.
 
 My mother… to put it short, she’s someone from society's underground.
 
-Kuro-san seemed worried about this, but some basic ol’ delinquents from the streets are easy to suppress for her, and she’s capable of doing the necessary procedures to make sure they don’t come back for retribution.
+Kuro-san seemed worried about this, but some basic ol’ delinquents from the streets are easy to suppress for her, and she’s capable of doing the necessary procedures to make sure they don’t eeever come back for retribution.
 
 My mom’s an expert on violent crime. She’s well aware of how delinquents work, and she knows exactly how to deal with them.
 
-But my mom isn’t a God, either. There’s no such thing as God in this world. I’m sure there’ll be a few mishaps here and there.
+But she isn’t a God, either. There’s no such thing as God in this world. I’m sure there’ll be a few mishaps here and there.
 
 When enough of those pile up, they’ll surely bring about destruction.
 

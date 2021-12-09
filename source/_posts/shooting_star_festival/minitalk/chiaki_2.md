@@ -1,12 +1,11 @@
 ---
-title: "Climax – Chiaki Mini Talk: ADDNAME"
+title: "Shooting Star Festival – Chiaki Mini Talk: The Festival's Hero"
 date: 2021/01/01 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Chiaki's second Mini Talk from Climax. From Anzu's POV."
-hidden: true
+description: "[ES!] Chiaki's second Mini Talk from Shooting Star Festival. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -40,7 +39,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/climax">Climax</a>
+                    <a href="/shooting_star_festival">Shooting Star Festival</a>
                 </div>
             </div>
         </div>
@@ -50,19 +49,19 @@ hidden: true
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
+{% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_1.jpg %}
 {% bubble Chiaki %}
-I’m being asked to take jobs after graduation by the people I work with in the industry.
+Mhm, mhm. I'm glad we were able to safely find the little girl's mother.
 
-Thanks to their help, I won’t have so much trouble with work for awhile.
+It's thanks to you and Nagumo. Thank you.
 
-Tenshouin lent me a hand too, so thanks to that I’m one step closer to my dreams.
+Now you too can become a splendid hero alongside us~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s going to get exciting, huh.
+            I’ll be the one to protect the world’s peace!
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -71,25 +70,27 @@ Tenshouin lent me a hand too, so thanks to that I’m one step closer to my drea
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-              Yeah. I still have worries over the obstacles I’ll face, but I don’t plan to give up the dream I’ve had since I was young!
+              Oh, that sounds really good!
 
-              I’ll be glad if you could continue to support me even after I’ve graduated…☆
+              You’re getting really into it after being told you’re a hero, you little~♪
+
+              Alright, let’s both say it together! I’ll be the one to protect the world’s peace…☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-              That’s right! Now I can relax a little…
+              Hrmm, I didn’t expect a rival to appear all of a sudden!
 
-              …At least, I thought I could, but I’m just so worried about those three right now.
+              Well, both you and I have the same goal, though.
 
-              Will they be fine on their own…?
+              So let’s go hand-in-hand and protect the world's peace together…☆
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            Are you going to become a hero?
+            You're the hero, Senpai.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -98,20 +99,20 @@ Tenshouin lent me a hand too, so thanks to that I’m one step closer to my drea
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-              I can’t become a hero in a tokusatsu show just like that.
+              Thank you, Anzu. I’m happy to hear you say that about me.
 
-              But if anything happens to you, feel free to call for me.
+              …Oh?
 
-              I’ve always been your hero, after all! ☆
+              I spotted young boy who looks lost! We part ways now, farewell!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-              I’ve got my start line for now.
+              You don't have to be modest.
 
-              It’ll take a while before I can become a fully perfected hero.
+              It's me who decided you're a hero. So hold your head high.
 
-              So I’ll be working hard on my idol activities…☆
+              …Though, even I still have ways to go until I become a hero~♪
 				{% endbubble %}
 			</div>
         </div>
@@ -119,19 +120,18 @@ Tenshouin lent me a hand too, so thanks to that I’m one step closer to my drea
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_Chiaki1_2.jpg %}
 {% bubble Chiaki %}
-Ugh, I can’t believe Takamine saw me that day…
+We have some time until the Shooting Star Festival starts.
 
-I’m embarrassed at how hard I tried to put up a front to be cool…
+Alright, let’s have a light snack until then. What do you want to eat?
 
-It actually makes me look pathetic instead, doesn’t it…?
+You’ll find the street food over there, and sweet food in the opposite direction.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s not true.
+            Street food.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -140,19 +140,27 @@ It actually makes me look pathetic instead, doesn’t it…?
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							dggd
+              Then you want okonomiyaki or takoyaki or something, right?
+
+              It’s pretty heavy stuff, so could you stick to buying only one?
+
+              And whatever you can’t eat, I’ll eat it for you~♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							dfgdg
+              I know how you feel, I also just *have* to eat street food when I’m at festivals!
+
+              Every stall that’s selling it looks really good, and I can’t help but eat it all.
+
+              But this time we have a live show, so I’ll keep it small!
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please stay the way you are.
+            Sweet food.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -161,20 +169,18 @@ It actually makes me look pathetic instead, doesn’t it…?
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-              Huh?! Do you mean that I should keep being pathetic?!
+              Okay, then we’ve got crêpe, cotton candy, chocolate bananas, apple candy… The list goes on.
 
-              You have moments where you say horrid things like they’re nothing, don’t you…?
-
-              Even if it is pathetic, I plan to keep up the cool act at least for these final days.
+              For now, let’s go around the stalls and eat whatever we feel like eating~♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-              Do you mean that being this way is also cool in itself…?
+              Sweet food, huh? Oh, there’s a crêpe stall over there!
 
-              You give some great advice. As you'd expect from a producer!
+              I’ll take the usual chocolate banana flavor.
 
-              Let me praise you! Good job, good job! ♪
+              You’ll take tuna? That’s more like a side dish than something sweet.
 				{% endbubble %}
 			</div>
         </div>
@@ -182,19 +188,19 @@ It actually makes me look pathetic instead, doesn’t it…?
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_Chiaki1_3.jpg %}
+{% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_3.jpg %}
 {% bubble Chiaki %}
-I thought those three would be fine on their own, but there were a few moments that were extremely close to danger.
+Ta\~maya\~!
 
-But they’re not kids anymore. I’m sure they’ll be able to take care of Ryuseitai.
+You say it with me too, Anzu! Ta\~maya\~!
 
-And Kanata and I will be able to graduate without any worries…☆
+Yes, yes! This is what you just *have* to do when you're watching fireworks! ☆
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Ryuseitai will definitely be okay.
+            Let’s watch the fireworks quietly.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -203,27 +209,27 @@ And Kanata and I will be able to graduate without any worries…☆
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-              Yeah! There’s no need to worry about those three anymore! ☆
+              Sorry! I couldn’t hear you from how loud the fireworks are. Say that again please!
 
-              Graduating and leaving your beloved kids behind is really sad, though…
+              Quietly watch…? Ah, so be quiet, basically.
 
-              To be honest, what I really want from the bottom of my heart is to spend more days with you and Ryuseitai in this academy.
+              True. I’ll enjoy the fireworks quietly…☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-              I’m sure those three will continue to shape Ryuseitai in their own way.
+              It’s fireworks, so doing this would ruin the atmosphere?
 
-              Kanata and I both believe in that!
+              I don’t really get it, but that’s how you can see it, huh.
 
-              So please keep watching them as their producer for us…☆
+              I’m bad at staying quiet, but I’ll do what I can!
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            I’m truly indebted to you.
+            Other people here are doing it now too, aren’t they?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -232,24 +238,24 @@ And Kanata and I will be able to graduate without any worries…☆
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-              Anzu, don’t look so sad.
+              Alright then, we have to raise our voices so we don’t lose to them!
 
-              It’s a hero’s duty to make people smile, so please let me fulfill it!
+              Ta\~maya\~! Yes, just like that!
 
-              So that your smile becomes everyone’s strength…☆
+              Let’s fire up those fireworks just like the Shooting Star Festival~♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-              It makes me blush to hear you say that so eagerly…♪
+              Oh, you’re right.
 
-              But I’m the one who’s indebted to you. I’m sure I put a lot of work on you.
+              Wait, isn’t that Nagumo and the others?
 
-              Let me say the same thing back: Thank you…☆
+              Sengoku and Takamine are there too! Let’s go call out to them!
 				{% endbubble %}
 			</div>
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/Chiaki_2,, arrow-right, Chiaki Mini Talk: ADDNAME %}</div>
+<div toc>{% btn /shootingstarfestival/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: A Joint Live! %}{% btn /shooting_star_festival,, star, Index %}</div>

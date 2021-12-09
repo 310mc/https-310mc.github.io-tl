@@ -240,7 +240,7 @@ Tetora-kun, I dunno what he said, so could you translate for me?
 {% bubble Tetora thinking %}
 “Giant Baba will no longer be around, so I have to prepare offerings for him”… Maybe?
 
-Shinobu-kun… I know Giant Baba is a famous pro wrestler and all, but he retired long ago.
+Shinobu-kun… I know Giant Baba is a famous pro wrestler and all, but he retired waaay long ago.
 {% endbubble %}
 
 {% bubble Shinobu cry %}

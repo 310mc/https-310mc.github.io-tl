@@ -58,6 +58,7 @@ hidden: true
                         <a href="/categories/Enstars/Leo" character="Leo"></a>
                         <a href="/categories/Enstars/Keito" character="Keito"></a>
                         <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+                        <a href="/categories/Enstars/Arashi" character="Arashi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">

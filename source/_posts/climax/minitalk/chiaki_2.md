@@ -1,12 +1,11 @@
 ---
-title: "Climax – Chiaki Mini Talk: ADDNAME"
-date: 2021/01/01 9:00:00
+title: "Climax – Chiaki Mini Talk: Justice Will Prevail"
+date: 2017/3/1 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Chiaki's first Mini Talk from Climax. From Anzu's POV."
-hidden: true
+description: "[ES!] Chiaki's second Mini Talk from Climax. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -50,15 +49,19 @@ hidden: true
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
+{% img /img/es/eventstory/climax/minitalk_chiaki2_1.jpg %}
 {% bubble Chiaki %}
-hgjgj
+I’m being asked to take jobs after graduation by the people I work with in the industry.
+
+Thanks to their help, I won’t have so much trouble with work for awhile.
+
+Tenshouin lent me a hand too, which has helped me become one step closer to my dreams.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            gfhfh
+            It’s going to get exciting, huh.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -67,19 +70,25 @@ hgjgj
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							ghfh
+              Yeah. I still have worries over the obstacles I’ll face, but I don’t plan on giving up the dream I’ve had since I was young!
+
+              I’ll be glad if you could continue to support me, even after I’ve graduated…☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							sdf
+              That’s right! Now I can relax a little…
+
+              …At least, I thought I could, but I’m just so worried about those three right now.
+
+              Will they be fine on their own…?
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdf
+            Are you going to become a hero?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -88,12 +97,20 @@ hgjgj
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-							sfsf
+              I can’t become a hero in a tokusatsu show just like that.
+
+              But if anything happens to you, feel free to call for me.
+
+              I’ve always been your hero, after all! ☆
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							sfdf
+              I’ve got my start line for now.
+
+              It’ll take a while before I can become a fully perfected hero.
+
+              So I’ll be working hard on my idol activities…☆
 				{% endbubble %}
 			</div>
         </div>
@@ -101,15 +118,18 @@ hgjgj
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_Chiaki1_2.jpg %}
-{% bubble Chiaki %}
-fdg
+{% bubble Chiaki frown %}
+Ugh, I can’t believe Takamine saw me that day…
+
+I’m embarrassed at how hard I tried to put up a front to be cool…
+
+It actually makes me look pathetic instead, doesn’t it…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            fdgd
+            That’s not true.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -118,19 +138,25 @@ fdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							dggd
+              R-Really…?
+
+              I prefer to avoid showing my shameful side to the kids, but for some reason, it’s relieving hearing that from you…♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							dfgdg
+              Is that a compliment? Thank you, Anzu!
+
+              Graduations really are sad.
+
+              I wanted to at least stand proud in front of the kids, and yet… I’m so pathetic.
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            ddg
+            Please stay the way you are.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -138,13 +164,21 @@ fdg
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
-							dfgfd
+            	{% bubble Chiaki worried %}
+              Huh!? Do you mean that I should keep being pathetic!?
+
+              You have moments where you say horrid things like they’re nothing, don’t you…?
+
+              Even if it is pathetic, I plan to keep up the cool act at least for these final days.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							dgfdfg
+              Do you mean that being this way is also cool in itself…?
+
+              You give some great advice. As you'd expect from a producer!
+
+              Let me praise you! Good job, good job! ♪
 				{% endbubble %}
 			</div>
         </div>
@@ -152,15 +186,19 @@ fdg
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_Chiaki1_3.jpg %}
+{% img /img/es/eventstory/climax/minitalk_chiaki2_3.jpg %}
 {% bubble Chiaki %}
-fdgdg
+I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.
+
+But they aren’t kids anymore. I’m sure they’ll be able to take care of Ryuseitai.
+
+And Kanata and I will be able to graduate without any worries…☆
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            dfgdg
+            Ryuseitai will definitely be okay.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -169,19 +207,27 @@ fdgdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							fdgdgdg
+              Yeah! There’s no need to worry about those three anymore! ☆
+
+              Graduating and leaving your beloved kids behind is really sad, though…
+
+              To be honest, what I really want from the bottom of my heart is to spend more days with you and Ryuseitai in this academy.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							dgdgdg
+              I’m sure those three will continue to shape Ryuseitai in their own way.
+
+              Kanata and I both believe in that!
+
+              So please keep watching over them as their producer for us…☆
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            dgdg
+            I’m truly indebted to you.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -190,16 +236,24 @@ fdgdg
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-							dfgdg
+              Anzu, don’t look so sad.
+
+              It’s a hero’s duty to make people smile, so please let me fulfill it!
+
+              So that your smile becomes everyone’s strength…☆
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							dfgdg
+              It makes me blush to hear you say that so eagerly…♪
+
+              But I’m the one who’s indebted to you. I’m sure I put a lot of work on you.
+
+              Let me say the same thing back: Thank you…☆
 				{% endbubble %}
 			</div>
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/Chiaki_2,, arrow-right, Chiaki Mini Talk: ADDNAME %}</div>
+<div toc>{% btn /climax/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Tough Being a Parent %}{% btn /climax,, star, Index %}</div>

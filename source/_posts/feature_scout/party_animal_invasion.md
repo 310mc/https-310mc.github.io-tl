@@ -11,6 +11,7 @@ tags:
 - Idol Story
 - Yuumasu
 description: "[ES!!] Midori's Feature Scout Story, featuring Adonis, Niki, and Rinne. Midori wants to try out the new parfait, but he has to interact with people first…"
+permalink: party_animal_invasion/
 ---
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M_Bloomed.png)
 :-:|:-:

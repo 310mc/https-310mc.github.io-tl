@@ -75,7 +75,7 @@ description: "[ES!] Midori and Hajime hear a loud thud and come rushing to see w
                         Proofreading
                     </div>
                     <div class="value">
-                        To be added!
+                        Anonymous
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ description: "[ES!] Midori and Hajime hear a loud thud and come rushing to see w
                             Proofreading
                         </div>
                         <div class="value">
-                            To be added!
+                            Anonymous
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Shooting Star Festival – Chiaki Mini Talk: ADDNAME"
+title: "Shooting Star Festival – Chiaki Mini Talk: A Joint Live!"
 date: 2021/01/01 9:00:00
 categories:
 - [Enstars, Chiaki]
@@ -52,13 +52,17 @@ hidden: true
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki1_1.jpg %}
 {% bubble Chiaki %}
-hgjgj
+Oh, Anzu! You’ve been here even though it’s summer holidays! Good work! ☆
+
+Hm, me? I’m about to head to the Handicraft Club.
+
+He’s not here with me, but Kanata’s going there too.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            gfhfh
+            The lights were on until late at night.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -67,19 +71,27 @@ hgjgj
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							ghfh
+              Wait, that means you were here late at night, too.
+
+              Nope, you won’t get me with a simple “teehee♪”
+
+              I understand that you’re busy, but you have to also rest.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							sdf
+              I see… I’ll have to thank Itsuki and Kagehira-kun.
+
+              Hm? Ahh, Ryuseitai will be participating in the Shooting Star Festival, so I’ve asked Itsuki to make the outfits for us.
+
+              That’s probably why they’ve been working until really late.
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdf
+            Why the Handicraft Club?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -88,12 +100,20 @@ hgjgj
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-							sfsf
+              I’m about to go ask Valkyrie if they want to join us in Shooting Star Festival.
+
+              Hm? Ahh, it’s a local summer festival.
+
+              They keyword of the festival this year is “Shooting Star” <small>(Ryusei)</small>, so it was a calling to us.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							sfdf
+              Hmmm… Where do I begin…
+
+              I’ll start from when we decided to participate in Shooting Star Festival.
+
+              The story might be long, so let me know if you’re in a hurry.
 				{% endbubble %}
 			</div>
         </div>
@@ -101,15 +121,18 @@ hgjgj
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/shootingstarfestival/minitalk_Chiaki1_2.jpg %}
 {% bubble Chiaki %}
-fdg
+Valkyrie will be joining with us in the Shooting Star Festival, I’m so happy ☆
+
+Woah—Anzu!? You really have no presence, huh?
+
+…What? “Then it’s my turn to shine”?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            fdgd
+            I’ll help with making the outfits.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -118,19 +141,25 @@ fdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							dggd
+              Outfits? Ahh, the ones for the Shooting Star Festival, right?
+
+              It is true that we’ll need outfits made for both Valkyrie and Ryuseitai.
+
+              I’m sure Itsuki wouldn’t mind if you asked him if there’s anything you can help with.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
-							dfgdg
+            	{% bubble Chiaki serious %}
+              I’m guessing you mean the Shooting Star Festival outfits.
+
+              You’re already working on the Quarrel Festival outfits, and I don’t find it admirable to be doing work all over the place, y'know?
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            ddg
+            I’m happy that my work is increasing.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -139,12 +168,20 @@ fdg
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-							dfgfd
+              It’d be a waste to work throughout all of your summer holiday, y’know?
+
+              Hm? To you, working during summer is a valuable way to spend your time?
+
+              Mmm… You really surprise me with how much of a hard worker you are, Anzu.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							dgfdfg
+              I see, I see. You really like to work, huh… ☆
+
+              Mhm, it’s good to have things you like.
+
+              As for me, I love heroes! ♪
 				{% endbubble %}
 			</div>
         </div>
@@ -152,15 +189,18 @@ fdg
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/shootingstarfestival/minitalk_Chiaki1_3.jpg %}
 {% bubble Chiaki %}
-fdgdg
+Ooh! This croissant’s so tasty!
+
+Hmm? It isn’t good to eat while walking, you say?
+
+That’s true. It’s exactly as you say!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            dfgdg
+            It smells tasty.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -169,19 +209,27 @@ fdgdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Chiaki %}
-							fdgdgdg
+              Anzu, are you drooling?
+
+              Ahaha, you’re probably the type that puts food before romance, huh.
+
+              I got a lot of them as a gift, so you should eat, too! ☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki %}
-							dgdgdg
+              Ahaha, you don’t have to get so close to it.
+
+              Here, this is for you. It’s okay, go ahead and eat it.
+
+              Eating with someone else makes it all the tastier~♪
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            dgdg
+            Are you hungry?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -190,16 +238,24 @@ fdgdg
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Chiaki %}
-							dfgdg
+              Ah, no, I’m—…Hm?
+
+              Did you just hear a growling sound?
+
+              It sounded like it came from someone’s stomach, but it isn’t me… Hmmm, that’s weird…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Chiaki %}
-							dfgdg
+              Ah, I’m not really that hungry, but…
+
+              I smelled croissants, and immediately felt like eating some.
+
+              Would you like to eat one, too?
 				{% endbubble %}
 			</div>
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /shooting_star_festival,, star, Index %}{% btn /shootingstarfestival/minitalk/Chiaki_2,, arrow-right, Chiaki Mini Talk: ADDNAME %}</div>
+<div toc>{% btn /shooting_star_festival,, star, Index %}{% btn /shootingstarfestival/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Festival's Hero %}</div>
