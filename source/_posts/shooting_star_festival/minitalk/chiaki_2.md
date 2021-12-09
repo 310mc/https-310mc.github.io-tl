@@ -1,6 +1,6 @@
 ---
 title: "Shooting Star Festival – Chiaki Mini Talk: The Festival's Hero"
-date: 2021/01/01 9:00:00
+date: 2021/02/01 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:
@@ -258,4 +258,4 @@ Yes, yes! This is what you just *have* to do when you're watching fireworks! ☆
     </div>
 </div>
 <br>
-<div toc>{% btn /shootingstarfestival/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: A Joint Live! %}{% btn /shooting_star_festival,, star, Index %}</div>
+<div toc>{% btn /shooting_star_festival/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: A Joint Live! %}{% btn /shooting_star_festival,, star, Index %}</div>

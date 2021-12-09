@@ -12,6 +12,7 @@ tags:
 - Scout Story
 - Akira
 description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, and during that time, Yuzuru returns to school at night to pick up something Tori forgot…"
+permalink: gang/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

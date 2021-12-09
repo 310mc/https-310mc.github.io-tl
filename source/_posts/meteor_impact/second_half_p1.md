@@ -1210,9 +1210,9 @@ Heeeey! Chiaki-saaaan!
 
 {% endbubble %}
 {% bubble Madara %}
-Hahaha! It’s not like I wanna scare people or anything, but everytime I greet someone, they get jumpy for some reason.
+Hahaha! It’s not like I wanna scare people or anything, but every time I greet someone, they get jumpy for some reason.
 
-… Am I really that scary?
+…Am I really that scary?
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
@@ -1220,17 +1220,17 @@ Urmm… You’re noisy and massive, so it’s not strange to feel pressured by y
 
 {% endbubble %}
 {% bubble Madara %}
-Hahaha! Isn’t it obvious!? I’m running a yaki onigiri stall! I’m using a special secret soy sauce for it, and it’s suuuper tasty! Wanna buy one?
+Hahaha! Isn’t it obvious!? I’m running a roasted onigiri stall! I’m using a special secret soy sauce for it, and it’s suuuper tasty! Wanna buy one?
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Why yaki onigiri…? I don’t understand, but — I’m a little hungry right now, so I’ll have one.
+Why roasted onigiri…? I don’t understand, but I’m a little hungry right now, so I’ll have one.
 
 {% endbubble %}
 {% bubble Madara %}
-Thank you, come again! I was feeling a little lonely, y’know! I think everyone’s weirded out by a random stall right at the front gate or something, ‘cause they’ve been ignoring me entirely!
+Thank you, come again! I was feeling a liiittle lonely, y’know! I think everyone’s weirded out by a random stall right at the front gate or something, ‘cause they’ve been ignoring me entirely!
 
-Yaki onigiri is so tasty, though~ I guess youngsters these days prefer hamburgers and stuff?
+Roasted onigiri is so tasty, though~ I guess youngsters these days prefer hamburgers and stuff?
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -1238,11 +1238,11 @@ Hehe, I also like those types of fast food. Plus, you don’t see people sell on
 
 {% endbubble %}
 {% bubble Madara %}
-Seriously? But it’s been Japan’s version of fast food for centuries now! Even sushi was sold like this back in the old days, y’know?
+Seeeriously? But it’s been Japan’s version of fast food for centuries now! Even sushi was sold like this back in the old days, y’know?
 
-Oh well, guess no one’s familiar with that nowadays. I gotta keep up with the modern times too—especially now that we’ve become westernized since the Meiji era.
+Oh well, guess no one’s familiar with that nowadays. I gotta keep up with the modern times, too—especially now that we’ve become westernized since the Meiji era.
 
-But anyway… I didn’t have any customers up until now, so I didn’t bother making any yaki onigiri yet… You’ll have to wait some time for yours.
+But anyway… I didn’t have any customers up until now, so I didn’t bother making any roasted onigiri yet… You’ll have to wait some time for yours.
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -1262,24 +1262,24 @@ Oh? Alright then… How about we chat a little until it’s done roasting?
 {% bubble Madara %}
 Ahh, just pretend to be my customer for now.
 
-We don’t know who could be watching us right now, so—Keep acting like you’re a passerby who’s just casually chatting with the storekeeper.
+We don’t know who could be watching us right now, so keep acting like you’re a passerby who’s just caaasually chatting with the storekeeper.
 
 {% endbubble %}
 {% bubble Chiaki past %}
-A-Alright. Yaaay~ I’m sooo excited for my yaki onigiri…♪
+A-Alright. Yaaay~ I’m sooo excited for my roasted onigiri…♪
 
-*<th>(whispering)</th>* … Were you waiting for me, Mikejima-san? Did you have something you wanted to tell me? Is that why you brought over this authentic food stall—
+*<th>(whispering)</th>* …Were you waiting for me, Mikejima-san? Did you have something you wanted to tell me? Is that why you brought over this authentic food stall—
 
 {% endbubble %}
 ## Chapter 9
 {% img /img/es/eventstory/meteorimpact/secondhalfch9.jpg %}
 
 {% bubble Madara %}
-Nah, this is an actual interest of mine, and I figured I could make a profit from it.
+Naaah, this is an actual interest of mine, and I figured I could make a profit from it.
 
-People overseas love authentic Japanese food, so sometimes I sell it while doing investigations.
+People overseas looove authentic Japanese food, so sometimes I sell it while doing investigations.
 
-I just figured I could call out to you, that’s all ⁠— It didn’t matter much to me if I couldn’t get to see you today.
+I just figured I could call out to you, that’s all—It didn’t matter much to me if I couldn’t get to see you today.
 
 Don’t think too deep on this, I’m honestly not expecting anything from you.
 
@@ -1295,9 +1295,9 @@ I’m not gonna take back those words. Actually, I wanted to further state how y
 
 {% endbubble %}
 {% bubble Madara %}
-Oh, but don’t get me wrong — I’m not taking you lightly at all. In fact, I’ve completely changed my opinion of you; I think very highly of you now.
+Oh, but don’t get me wrong—I’m not taking you lightly at all. In fact, I’ve compleeetely changed my opinion of you; I think very highly of you now.
 
-… You were the only one.
+…You were the only one.
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
@@ -1308,9 +1308,9 @@ You were the only one who did as I said when I asked you not to wish for anythin
 
 *And* you were the very first person who never spoke a word about any wish to Kanata-san, even after how he introduced himself to you.
 
-I mean, even *I* wished for something once — for my sister’s disease to be cured.
+I mean, even *I* wished for something once—for my sister’s disease to be cured.
 
-Humans are weak. It’s normal for people to wish for something — to pray for some almighty being to make a miracle happen and make their lives better.
+Humans are weak. It’s normal for people to wish for something—to pray for some almighty being to make a miracle happen and make their lives better.
 
 Even people who insist they’re atheists wish on shooting stars.
 
@@ -1338,23 +1338,23 @@ They did it behind my back, thinking everything’d be fine as long as they aren
 
 Those kinds of people are only growing in number, so I think what I’ve been up to hasn't been pleasing Kanata-san and the more zealous worshippers…
 
-‘Cause lately, I’m being forced to keep a distance from all this through overseas trips more than ever.
+‘Cause lately, I’m being forced to keep a distance from all this through overseas trips waaay more than ever.
 
 I haven’t been able to stop people from making wishes as much as I used to.
 
-So yeah, all those people I warned could tell I was too powerless to stop them, and went right back to making wishes.
+So yeah, all those people I warned could tell I was too powerless to stop them, and went riiight back to making wishes.
 
 It’s pathetic of me, but I really can’t put a stop to what’s happening anymore.
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
-… They haven’t been pleased with you, Mikejima-san? Is that why you’re always overseas?
+…They haven’t been pleased with you, Mikejima-san? Is that why you’re always overseas?
 
 {% endbubble %}
 {% bubble Madara %}
 Yep. I mean, I’m starting to find overseas work fun too, but this was the reason why at first.
 
-It’s only natural this is happening; I’m a traitor to them. I’m the black sheep in the group that worships the all-knowing God Kanata-san.
+It’s only natural this is happening; I’m a traitor to them. I’m the black sheep within the group that worships the all-knowing God Kanata-san.
 
 While Kanata-san maintains his divinity by granting more and more wishes—
 
@@ -1374,7 +1374,7 @@ That’s not true, though. Aren’t you the *only* person who’s been trying to
 {% bubble Madara %}
 Nah… You’re reading me in good light, but I think I really am a traitor in the end.
 
-That sweet-sounding talk I had with you, too — I bet it was just me putting up a front.
+That sweet-sounding talk I had with you, too—I bet it was aaall just me putting up a front.
 
 Maybe my real feelings toward Kanata-san are hatred, for constantly acting almighty and God-like—
 
@@ -1384,7 +1384,7 @@ Maybe I got sick of seeing everyone be so happy, believing in that God…
 
 And maybe I just wanna tear apart that fake charade, and laugh at them and their shocked expressions once they find out the truth.
 
-That’s who I really am, Chiaki-san — a cruel, unfair guy.
+That’s who I really am, Chiaki-san—a cruel, unfair guy.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch9_2.jpg %}
 {% bubble Chiaki pastserious %}
@@ -1394,15 +1394,15 @@ There is *no* reason for you to be told off as if you aren’t just another huma
 
 {% endbubble %}
 {% bubble Madara %}
-… Hahaha, are you getting angry at them? For my sake?
+…Hahaha, are you getting angry at them? For my sake?
 
 I’ve been calling you an ordinary kid, but I’m gonna change that. You’re a strange kid.
 
 And I love strange kids…
 
-If you were just an ordinary kid, I was going to warn you once more to make sure you never get involved, and never wish for anything — even if it meant using force.
+If you were just an ordinary kid, I was gonna warn you once more to make sure you never get involved, and never wish for anything—even if it meant using force.
 
-But since you’re a strange kid, there might be something special only you can do. I don’t know what it could be right now, but there might come a day when I’ll ask you for it.
+But since you’re a strange kid, there miiight be something special only you can do. I dunno what it could be right now, but there might come a day when I’ll ask you for it.
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
@@ -1426,7 +1426,7 @@ No, that’s kind of terrifying, actually… What are you going to make me do?
 
 {% endbubble %}
 {% bubble Madara %}
-Who knows? I’m no God, I don’t know what the future holds! Haha, if you catch my drift…♪
+Who knooows? I’m no God, I don’t know what the future holds! Haha, if you catch my drift…♪
 {% endbubble %}
 
 ## Chapter 10

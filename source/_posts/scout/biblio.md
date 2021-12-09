@@ -10,6 +10,7 @@ categories:
 tags:
 - Story Index
 description: "[ES!] Midori and Hajime hear a loud thud and come rushing to see what had happened, only to find Tsumugi collapsed under the bookshelves in the library…"
+permalink: biblio/
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

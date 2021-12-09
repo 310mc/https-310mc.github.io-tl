@@ -1,12 +1,11 @@
 ---
 title: "Shooting Star Festival – Chiaki Mini Talk: A Joint Live!"
-date: 2021/01/01 9:00:00
+date: 2021/02/01 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
 description: "[ES!] Chiaki's first Mini Talk from Shooting Star Festival. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -258,4 +257,4 @@ That’s true. It’s exactly as you say!
     </div>
 </div>
 <br>
-<div toc>{% btn /shooting_star_festival,, star, Index %}{% btn /shootingstarfestival/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Festival's Hero %}</div>
+<div toc>{% btn /shooting_star_festival,, star, Index %}{% btn /shooting_star_festival/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Festival's Hero %}</div>

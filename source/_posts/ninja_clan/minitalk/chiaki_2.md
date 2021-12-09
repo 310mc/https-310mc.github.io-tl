@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Chiaki Mini Talk: Sightseeing the Historical Village"
-date: 2021/12/9 16:00:00
+date: 2021/12/10 00:01:00
 categories:
 - [Enstars, Chiaki]
 tags:

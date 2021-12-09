@@ -140,7 +140,7 @@ Each of them have their own devotees. It’s highly possible that we’ll gain a
 
 The dead would only become the heroes instead. It’s *us* who must become the heroes, and *they* who become the wretched demons that we must defeat.
 
-I’ve kept this factor in mind for the next set of the plans… And so, the next Oddball to subjugate will be Shinkai Kanata.
+I’ve kept this factor in mind for the next set of the plans… And so, the next Eccentric to subjugate will be Shinkai Kanata.
 
 I had considered Sakasaki Natsume at first, as he’s still far too inexperienced, and thus, much weaker to the rest…
 
@@ -873,7 +873,7 @@ That weird person… was Shinkai Kanata-kun, wasn’t it?
 {% bubble Subaru %}
 Y-Yeah. Yep, the guy from the Five Eccentrics.
 
-That guy’s had it hard lately, hasn’t he…? The Five Oddball people have been getting harsh criticism, so he looked pretty mentally exhausted to me.
+That guy’s had it hard lately, hasn’t he…? The Five Eccentrics people have been getting harsh criticism, so he looked pretty mentally exhausted to me.
 
 He was mumbling something while clinging to me; stuff like, “tell me your wish” and “let me grant your wish”… Honestly, it kinda freaked me out.
 
@@ -2117,7 +2117,7 @@ Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor*
 {% img /img/es/eventstory/meteorimpact/secondhalfch24.jpg %}
 
 {% bubble Madara hidden %}
-“Your dream is to become a hero… right?”
+“Your dream is to become a hero… riiight?”
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -2131,11 +2131,11 @@ huh? was that mikejima’s Voice just now? or was it my imagination?
 {% bubble Madara hidden %}
 “Hahaha! My oh my, don’t be so surprised! It’s not just your imagination, it’s your Mamaaaaaaa!! ☆”
 
-“How absolutely joyous! You’ve been calling me a rogue for a while, but now you’re calling me by my name again!? I’m so happy, Kanata-san!
+“How absolutely joyous! You’ve been calling me a rogue for a while, but now you’re calling me by my name again!? I’m sooo happy, Kanata-san!
 
 “You remembered my name!”
 
-“That’s right! You had never needed to want *‘that’*, y’know — for you see, your friend has been here from the very staaaart!!”
+“That’s right! You had never needed to want *‘that’*, y’know—for you see, your friend has been here from the very staaaart!!”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2143,19 +2143,19 @@ u-ummm? where? show Yourself, manservant!
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“I’m not a manservant! I’m repeating myself, but — I’m your friend! Or, really, I’m your Mamaaaaa!”
+“I’m not a manservant! I’m repeating myself, but—I’m your friend! Or, really, I’m your Mamaaaaa!”
 
-“Wait— But we’ll be family if I become your Mama, so wouldn’t that mean we won’t be friends? I’m contradicting myself!”
+“Wait—But we’ll be family if I become your Mama, so wouldn’t that mean we won’t be friends? I’m contradicting myself!”
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Ahhh! Look over there, Shinkai-kun! There’s something rising up from the ocean! It looks huge… Wait-- Is it a monster!?
+Ahhh! Look over there, Shinkai-kun! There’s something rising up from the ocean! It looks huge… Wait—Is it a monster!?
 
 {% endbubble %}
 {% bubble Madara hidden %}
 “Nah, it’s not! It’s a drone that I dropped in the ocean to make it look like a meteorite.”
 
-“Mama made every single part of it all by himself! My recipe is a secret! It’s waterproof, and to some extent, I can control it remotely from far away!”
+“Mama made eeevery single part of it all by himself! My recipe is a secret! It’s waterproof, and to some extent, I can control it remotely from far away!”
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -2163,7 +2163,7 @@ Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it s
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Don’t worry, don’t worry, it won’t. Probably. Don’t be so alarmed, please come closer… You guys are a little too far away, and I can’t see you very well.”
+“Don’t worry, don’t worry, it won’t. Probably. Don’t be so alarmed, please come closer… You guys are a liiittle too far away for me to see you clearly.”
 
 “I do have a camera set up inside the drone, but—”
 
@@ -2195,7 +2195,7 @@ Oh no, no need for thanks! When one of us is in trouble, we all are! You need no
 {% bubble Kanata pastfrown %}
 acting so high and mighty for something as Simple as this… also, we are not Friends yet, okay?
 
-… you, too. when did *you* ever become my Friend, *rogue*?
+…you, too. when did *you* ever become my Friend, *rogue*?
 
 {% endbubble %}
 {% bubble Madara hidden %}
@@ -2221,7 +2221,7 @@ it has been a While since i Heard from him, or even his voice.
 {% bubble Madara hidden %}
 “Yep! I’m so sorry for making you feel lonely, Kanata-san!”
 
-“Ahhh, I wanna hug you so bad! I’ll at least blow kisses at you so a little bit of my love reaches you! Kiss, kiss☆”
+“Ahhh, I wanna hug you sooo bad! I’ll at least blow kisses at you so a little bit of my love reaches you! Kiss, kiss~☆”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2247,15 +2247,15 @@ Why are you in a place like that…? You really are flying all over the world, h
 {% bubble Madara hidden %}
 “Yep. In fact, even I started to find it weird how much travelling I’ve had to do, so I did some proper research…”
 
-“It seems like Rei-san is in the same boat as me—We’ve been made to travel far away from Japan, with all the strings the Tenshouin Zaibatsu have been pulling.”
+“It seems like Rei-san is in the same boat as me—We’ve been made to travel far away from Japan, with aaall the strings the Tenshouin Zaibatsu have been pulling.”
 
-“… I should’ve noticed how unnatural this was much earlier. There’s no way a religious group native only to its land could have so many connections overseas.”
+“…I should’ve noticed how unnatural this was much earlier. There’s no way a religious group native only to its land could have so many connections overseas.”
 
-“But I guess I was in the wrong too — I think I must’ve felt like Kanata-san’s family was far too large…”
+“But I guess I was in the wrong, too—I think I must’ve felt like Kanata-san’s family was far too large…”
 
 “I’ve known them from a young age, after all… so I must’ve subconsciously thought to myself that together, they’re an invincible entity.”
 
-“I got scared and overestimated their power… So pathetic — even though I’ve grown so tall, and became so strong by now…”
+“I got scared and overestimated their power… So pathetic—even though I’ve grown so tall, and became so strong by now…”
 
 “If I had just taken it seriously and challenged them without hesitation, maybe I could’ve made everything turn out differently.”
 
@@ -2277,7 +2277,7 @@ Why are you in a place like that…? You really are flying all over the world, h
 
 “I won’t hesitate this time around. I’m gonna do whatever it takes to achieve my goal.”
 
-“Kanata-san. You seem worried about it, so I’ll at least tell you this: It’s pretty obvious by now, but — what crashed down into this ocean wasn’t a meteorite.”
+“Kanata-san. You seem worried about it, so I’ll at least tell you this: It’s pretty obvious by now, but—what crashed down into this ocean wasn’t a meteorite.”
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
@@ -2301,13 +2301,13 @@ Why are you in a place like that…? You really are flying all over the world, h
 
 {% endbubble %}
 {% bubble Kanata past %}
-… hm. i see. why did you do this then?
+…hm. i see. why did you do this then?
 
 a Meteorite is no Joke to us, you know?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and onto the earth…♪”
+“Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and straaaight onto the earth…♪”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2315,7 +2315,7 @@ a Meteorite is no Joke to us, you know?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“… That’s not the real reason, of course. I’ll stop cracking jokes, so please stop trying to break the camera, Kanata-san!”
+“…That’s not the real reason, of course. I’ll stop cracking jokes, so please stop trying to break the camera, Kanata-san!”
 
 “I’m done joking around now, really!”
 
@@ -2332,7 +2332,7 @@ Y-Yes? D-Did I do something!?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Why’re you acting so surprised… You’re as timid as always — although that has its own cute charm to it.”
+“Why’re you acting so surprised… You’re as timid as always—although that has its own cute charm to it.”
 
 “I called you ‘cause I have a favor to ask of you, of course.”
 
@@ -2356,35 +2356,35 @@ my… house?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Yep. You’re in the center of this whirlpool, so it will probably be hard for you to understand why… but I’m sure Chiaki-san will.”
+“Yep. You’re in the center of this whirlpool, so it'll probably be hard for you to understand why… but I’m sure Chiaki-san will.”
 
 “Kanata-san is in a very unfavorable position in Yumenosaki right now.”
 
-“He was chosen as the second Oddball to be subjugated… and they’re trying to publicly execute him through the live show that’s about to start.”
+“He was chosen as the second Eccentric to be subjugated… and they’re trying to publicly execute him through the live show that’s about to start.”
 
 {% endbubble %}
 {% bubble Chiaki past %}
-… You know a lot even when you’re overseas, huh?
+…You know a lot even when you’re overseas, huh?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Hahaha, nobody holds their tongue in this day and age! If I ever wanna know something, there’s plenty of ways to get the info.”
+“Hahaha, nooobody holds their tongue in this day and age! If I ever wanna know something, there’s plenty of ways to get the info.”
 
 “Like logging into the school’s social media through a student’s account who I blackmailed…”
 
-“It seems like Rei-san and I— and anyone else who’s overseas —are denied access to social media.”
+“It seems like Rei-san and I—and anyone else who’s overseas—are denied access to social media.”
 
-“Well, Rei-san just doesn’t like using electronics, but *I* personally can find all kinds of loopholes in the internet.”
+“Well, Rei-san just doesn’t like using electronics, but *I* personally can find aaall kinds of loopholes in the internet.”
 
 “On the other hand, Kanata-san’s family hasn’t kept up with the modern times, so I can’t figure out what they’ve been up to through the internet alone…”
 
-“But, whatever — nevermind that for now.”
+“But, whatever—nevermind that for now.”
 
-“The Student Council folks are completely serious about making this war happen. They’re gonna do whatever it takes to crush Kanata-san — the one appointed as the antagonist, and the evil.”
+“The Student Council folks are completely serious about making this war happen. They’re gonna do whatever it takes to crush Kanata-san—the one appointed as the antagonist, and the evil.”
 
 “I dunno how it is in school right now, but by reading the school’s social media… I don’t see any place that he could belong within school.”
 
-“Being in that place will only get you minced up — like your ancestors from long ago that were made into sacrifices.”
+“Being in that place will only get you minced up, like your ancestors from long ago that were made into sacrifices.”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2392,9 +2392,9 @@ my… house?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“And with that, Yumenosaki will be revolutionized, and we begin a beautiful, peaceful new era! Yep, yep! You need sacrifices to accomplish that, don’t you~♪”
+“And with that, Yumenosaki will be revolutionized, and we begin a beaaautiful, peaceful new era! Yep, yep! You need sacrifices to accomplish that, don’t you~♪”
 
-“… It’s absolute bullshit.”
+“…It’s absolute bullshit.”
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -2416,17 +2416,17 @@ I was under the belief that they would change this world for us…
 
 “I honestly don’t care for justice from a ‘fair’ standpoint. Even if they’d been turned into evil within society, I *will* be the ally of those precious to me.”
 
-“I don’t care if I’m called a villian for it.”
+“I don’t care if I’m called a villain for it.”
 
 {% endbubble %}
 {% bubble Chiaki past %}
-… I think you’re a wonderful hero, Mikejima-san.
+…I think you’re a wonderful hero, Mikejima-san.
 
 That’s exactly why you’re also dressed *that* way, right?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Hm? No, no! I needed this uniform for work, that’s all!”
+“Hm? No, no! I needed this uniform for work, that’s aaall!”
 
 “I figured no one would use it, so I stole it from the AV room, since that’s become Ryuseitai’s storage area!”
 
@@ -2478,11 +2478,11 @@ mikejima’s… place? is that Outside the Ocean…?
 
 “A young, new idol agency, that is controlled by neither Yumenosaki, nor the rumored CosPro…”
 
-“We’ll have a re-do with our time as idols in that agency. We’ll even get to have our whole youth there.”
+“We’ll have a re-do with our time as idols in that agency. We’ll even get to have our whooole youth there.”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
-… that…
+…that…
 
 {% endbubble %}
 {% bubble Madara hidden %}
@@ -2494,7 +2494,7 @@ mikejima’s… place? is that Outside the Ocean…?
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
-… the fact that i Was one of the five Eccentrics… will become a Problem, won’t it…
+…the fact that i Was one of the five Eccentrics… will become a Problem, won’t it…
 
 to Idols, we are the Absolute worst… we are Infamous for being Evil, aren’t we…?
 
@@ -2506,7 +2506,7 @@ no agency’s Manager would ever accept such an idol…
 {% img /img/es/eventstory/meteorimpact/secondhalfch26.jpg %}
 
 {% bubble Madara hidden %}
-“… I’m gonna do something about that.”
+“…I’m gonna do something about that.”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
@@ -2532,19 +2532,19 @@ it would only be Sad if you were turned into a Villain along with Me and lost yo
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“… Nah. I was never interested in idols — I just joined Yumenosaki to take care of you, the Living God, y’know?”
+“…Nah. I was never interested in idols—I just joined Yumenosaki to take care of you, the Living God, y’know?”
 
-“So! It’s perfectly fine if I fail to become an idol! ‘Cause I never had any interest in becoming one, anyway!”
+“So! It’s peeerfectly fine if I fail to become an idol! ‘Cause I never had any interest in becoming one, anyway!”
 
 {% endbubble %}
 {% bubble Kanata pastfrown %}
-… liar.
+…liar.
 
 if that is the case. then why were There idols in the Magazines you would always bring over…?
 
 {% endbubble %}
 {% bubble Madara hidden %}
-……
+“……”
 
 {% endbubble %}
 {% bubble Kanata pastsmile %}
@@ -2568,7 +2568,7 @@ there was no chance someone like me could ever be capable of becoming Something 
 
 {% endbubble %}
 {% bubble Chiaki past %}
-… Like a transformation[^23], huh.
+…Like a transformation[^23], huh.
 
 {% endbubble %}
 {% bubble Kanata past %}
@@ -2592,11 +2592,11 @@ Mikejima-san!
 {% bubble Madara hidden %}
 “W-What?”
 
-“Wait, uh, this is a little strange… The ship should’ve arrived by now — Don’t you guys see anything above the ocean…?”
+“Wait, uh, this is a little strange… The ship should’ve arrived by now. Don’t you guys see anything above the ocean…?”
 
-“Mmm… It seems like the Student Council’s scheme to make everyone stop having faith in Kanata-san… has had a horrible ripple effect on his worshippers — even worse than the ones within school.”
+“Mmm… It seems like the Student Council’s scheme to make everyone stop having faith in Kanata-san… has had a horrible ripple effect on his worshippers—even worse than the ones within school.”
 
-“Whatever’s happening behind closed doors is getting really out of hand.”
+“Whatever’s happening behind closed doors is getting reeeally out of hand.”
 
 “So there’s a chance the worshipper I trained into a spy switched sides against us, or they may no longer be capable of helping us.”
 
@@ -2608,7 +2608,7 @@ Mikejima-san!
 
 {% endbubble %}
 {% bubble Chiaki past %}
-So that’s why you called for me… I have no means of retaliation if they start attacking us, y’know? I’ll only get beaten down — I’m weak when it comes to fighting, I’m not like my friend.
+So that’s why you called for me… I have no means of retaliation if they start attacking us, y’know? I’ll only get beaten down—I’m weak when it comes to fighting, I’m not like my friend.
 
 {% endbubble %}
 {% bubble Madara hidden %}
@@ -2616,7 +2616,7 @@ So that’s why you called for me… I have no means of retaliation if they star
 
 “You’ll be able to talk to my dad if you just mention my family name, and they should bring over support in only a few minutes.”
 
-“I’ve already asked him to be on standby for it. … He’s still my parent, more or less, so he’ll probably do what I asked of him.”
+“I’ve already asked him to be on standby for it. …He’s still my parent, more or less, so he’ll probably do what I asked of him.”
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -2624,7 +2624,7 @@ But then, why didn’t you just ask your parents to escort Shinkai-kun from the 
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“I can’t trust them that much… Please just know that my parents are always my last resort.”
+“I can’t trust them thaaat much… Please just know that my parents are always my last resort.”
 
 “Both of them are worshippers themselves, and don’t see me, the problem child, in good light.”
 
@@ -2646,15 +2646,15 @@ Ah, yes. I have one favor to ask, Mikejima-san.
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Thank you! … You see, there’s something I’d like to try.
+Thank you! …You see, there’s something I’d like to try.
 
-So I want to postpone the escorting for later — please do forgive me for that.
+So I want to postpone the escorting for later—please do forgive me for that.
 
 I’m sure it won’t be too late to give up and run away *after* trying everything you can do first.
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Oh? Interesting. What is it that you wanna try?”
+“Oooh? Interesting. What is it that you wanna try?”
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -2662,11 +2662,11 @@ I don’t have enough time to explain. The “Battle versus the Sea God” perfo
 
 {% endbubble %}
 {% bubble Madara hidden %}
-“Battle versus the Sea God? Isn’t that the live show for executing the ‘Oddball’, Kanata-san…?”
+“Battle versus the Sea God? Isn’t that the live show for executing the ‘Eccentric’, Kanata-san…?”
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Mhm. I’m thinking of going there right now. … with Shinkai-kun.
+Mhm. I’m thinking of going there right now. …with Shinkai-kun.
 
 {% endbubble %}
 {% bubble Kanata past %}
@@ -2726,15 +2726,15 @@ please Explain things to me properly! listen to what a god Tells you to do!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch26_sc.jpg %}
 {% bubble Madara pastbcg %}
-“Hahaha! ♪ I don’t really get what’s going on, but I’m kinda jealous… Holding hands and dashing across the beach — this is what youth’s all about!”
+“Hahaha! ♪ I don’t really get what’s going on, but I’m kiiinda jealous… Holding hands and dashing across the beach—this really is what youth’s all about!”
 
-“I’m all the way across the ocean, but I’ll still cheer you for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
+“I’m aaall the way across the ocean, but I’ll still cheer you for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/madarabcg.jpg %}
 
 
 {% bubble Madara pastbcg %}
-“I’ll sing that song to cheer you guys on — after all, I *am* wearing the uniform, and I *am* acting as an idol! I only hope that it’ll push you both one step further, even if just a little…!”
+“I’ll sing that song to cheer you guys on—after all, I *am* wearing the uniform, and I *am* acting as an idol! I only hope that it’ll push you both one step further, even if juuust a little…!”
 
 “♪\~♪~♪”
 

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Chiaki Mini Talk: An Invasion from a Formidable Enemy"
-date: 2021/12/9 16:00:00
+date: 2021/12/10 00:00:00
 categories:
 - [Enstars, Chiaki]
 tags:
