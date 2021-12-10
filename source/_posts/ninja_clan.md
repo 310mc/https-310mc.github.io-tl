@@ -483,8 +483,8 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/tetora_1" id="none">Thrilling Gameplay</a>
+                            <a href="minitalk/tetora_2" id="none">I Don't Get It</a>
                             </div>
                         </div>
                     </div>

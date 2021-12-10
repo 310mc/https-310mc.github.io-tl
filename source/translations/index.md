@@ -62,12 +62,12 @@ Dollhouse|Flowers of the Wasteland (Coming Soon!)
 **The Crimson's Pure Heart**|
 [![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|
 
-|Midori Idol Story 1|Midori Idol Story 2|Midori Idol Story 3|
+|Midori Takamine Idol Story 1|Midori Takamine Idol Story 2|Midori Takamine Idol Story 3|
 | :-----------: | :-----------: | :-----------: |
 [![/idol_story/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28An_Idol%29_Midori_Takamine_M_Bloomed.png)](/idol_story/midori_1)|[![/idol_story/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28ES_Idol%29_Midori_Takamine_B.png)](/idol_story/midori_2)|[![/idol_story/midori_3](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/idol_story/midori_3)
-**Chiaki Idol Story 1**|**Hinata Idol Story 1**|**Hinata Idol Story 3**|
+**Chiaki Morisawa Idol Story 1**|**Hinata Aoi Idol Story 1**|**Hinata Aoi Idol Story 3**|
 [![/idol_story/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/idol_story/chiaki_1)|[![/idol_story/hinata_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28An_Idol%29_Hinata_Aoi_M_Bloomed.png)](/idol_story/hinata_1)|[![/idol_story/hinata_3](https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Practicing%29_Hinata_Aoi_M.png)](/idol_story/hinata_3)
-**Hajime Idol Story 1**|**Kanata Idol Story 2**|
+**Hajime Shino Idol Story 1**|**Kanata Shinkai Idol Story 2**|
 [![/idol_story/hajime_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Practicing%29_Hajime_Shino_M.png)](/idol_story/hajime_1)|[![/idol_story/kanata_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28ES_Idol%29_Kanata_Shinkai_M.png)](/idol_story/kanata_2)|
 
 |Making-100-Friends Project|Party Animal Invasion|Something Dubious in the Library
@@ -101,6 +101,10 @@ Management Stories|Birthday Stories
 |Comet Show! Midori|Ring × Midori (Coming Soon!)|Ninja Clan! Midori|
 | :-----------: | :-----------: | :-----------: |
 [![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Midori Mini Talk: Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Midori Mini Talk: Topics About That Guy %}|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Midori Mini Talk: Conveying My Feelings %}{% btn /ring/minitalk/midori_2,, star, Midori Mini Talk: Before the Nerve-wrecking Photoshoot %}|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Midori Mini Talk: Relaxing Gameplay %}{% btn /ninja_clan/minitalk/midori_2,, star, Midori Mini Talk: Eeeggy-eggy-eggyplant %}
+
+|Ninja Clan! Tetora|
+| :-----------: |
+[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Tetora Mini Talk: Thrilling Gameplay %}{% btn /ninja_clan/minitalk/tetora_2,, star, Midori Mini Talk: I Don't Get It %}|
 
 <!--|Date Plan × Chiaki (Coming Soon!)|Comet Show! Chiaki (Coming Soon!)|Submarine／Chiaki (Coming Soon!)|Ninja Clan! Chiaki (Coming Soon!)
 | :-----------: | :-----------: | :-----------: | :-----------: |
