@@ -152,7 +152,7 @@ U-Um, hellooo…? I-Is there someone… out there…?
 … Even though, I only want to become a hero.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 “hee-roe”…? what is that?
 {% endbubble %}
 {% bubble Chiaki pastworried %}
@@ -165,7 +165,7 @@ U-Um, hellooo…? I-Is there someone… out there…?
 A g-g-g-ghost!? Oh no, it’s really here—Eeeeeeeek!!!!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 what is “goo-st”?
 
 i do not know this Word. could you teach me, please?
@@ -175,7 +175,7 @@ i do not know this Word. could you teach me, please?
 Huh!? Um, no… What!? W-What are you!? *I’msosorry<wbr>someonesaveme<wbr>pleasedon’tcurseme* I’m not tasty!!!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 …?
 
 {% endbubble %}
@@ -211,7 +211,7 @@ Uh, yeah… I think that could be said about anyone, really… Also, you’re co
 Do you have a change of clothes with you? You wouldn’t want to go home completely drenched, right? If you don’t have any, I’ll bring some over.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 …?
 
 i am very sorry. please talk more Slowly. i cannot pick up what you are saying.
@@ -225,7 +225,7 @@ Huh? Ahh, sorry! Did I talk too fast? I don’t have any friends, so I’m bad a
 Hehe. You always seemed like a distant being, so I’m happy to know we share something in common.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 ? is that so? you are Happy we share something?
 
 why would you be Happy about that?
@@ -282,7 +282,7 @@ each Human has their own Name!
 Uh…? Yeah, of course we do. Everyone gets a name from their parents.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 from their pa-ren-ts? what is “pa-ren-ts”?
 
 is it a Necessity? where can i get one?
@@ -292,7 +292,7 @@ is it a Necessity? where can i get one?
 What? Umm…?
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 if it is a Necessity, then i would like it. i have to act more Human, or everyone will be in Distress, it seems.
 
 where can i get one? or do i need to Buy it with Money from some place?
@@ -308,7 +308,7 @@ where can i get one? or do i need to Buy it with Money from some place?
 <th>(Not when I’m nothing but a nobody who just so happened to talk to him.)</th>
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 ? what is wrong? could you give me a Response? i am sorry. was it a difficult Question?
 
 {% endbubble %}
@@ -322,7 +322,7 @@ Ryuseitai doesn’t have as much influential power as Othello[^2], but it does h
 I’m in the second squad, and I’m meant to do the trivial tasks. And honestly, it’s only natural that I was placed in it; I’m a newcomer. I could never allow myself to take a senior position.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 “ryu-sei-tai”… ahh, mikejima’s Manservants?
 
 {% endbubble %}
@@ -332,7 +332,7 @@ Mikejima? It is true that he’s in the unit, but I’ve never talked to him bef
 He may be a first year, but he’s the leading star of the first squad. He’s completely above my level… Is he your acquaintance?
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 what is “a-kwain-tans”? is that different to Family?
 
 {% endbubble %}
@@ -362,7 +362,7 @@ just give me water already. do not make me repeat the Same thing twice. you Shou
 Ahaha, you’re a God, Shinkai-kun? Well, you *do* have godly potential.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 yes. from the day i was born, until i die.
 
 chiaki, you are not a God, are you?
@@ -504,7 +504,7 @@ Tribute? No no, no need for anything! It’s been awhile since I—no, I think t
 Your smile is my reward! Hehe, that sounded a little bit like a hero~♪
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 “hero”[^3]… what exactly is that? you said you want to Become that, yes?
 
 {% endbubble %}
@@ -524,7 +524,7 @@ if that is what you wish, then i will grant it for you. that is my Job. will tha
 Ahahaha, if I could make it come true just by wishing, it would be a lot simpler than this. Reality isn’t so simple in the end; it’s different from tokusatsu shows.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 “toku-sa-tsu”…? what is that?
 
 {% endbubble %}
@@ -532,7 +532,7 @@ Ahahaha, if I could make it come true just by wishing, it would be a lot simpler
 Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, after all! C’mon, y’know, it’s the ones that go “*Transform!*”
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 … “to-rans-form”?
 
 {% endbubble %}
@@ -540,7 +540,7 @@ Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, a
 Yes! Like this, and like this! This is No.1’s transformation[^4] pose, and this is No.2’s! ☆
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 number… one…? i am sorry, i do not understand…
 
 {% endbubble %}
@@ -563,7 +563,7 @@ I want to become the dream version of myself! The cool, ideal version!
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch4.jpg %}
 
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 … is that your Wish, chiaki?
 
 {% endbubble %}
@@ -573,7 +573,7 @@ Yep! It’s proving to be difficult, but! Finding out that Ryuseitai existed aft
 I mean, they’re hero-like idols, y’know? It’s the exact ideal I’ve yearned for!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hm, that is ryuseitai…?
 
 {% endbubble %}
@@ -585,7 +585,7 @@ The captain, Mikejima-kun, and some others have been properly acting as idols, b
 The others, especially the second squad, just rely on those members, and play around as they like.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hm. is it a bad thing to Play around? both Playing and Singing[^5] are a splendid way to worship, though…?
 
 {% endbubble %}
@@ -601,7 +601,7 @@ They don’t speak to me anymore, and they’ve been pushing all kinds of unnece
 Is this bullying? No no, it must be my fault for not properly reading the atmosphere, right?
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 atmosphere… yes, that is a Necessity.
 
 does that mean you are Suffocating, chiaki?
@@ -633,7 +633,7 @@ Hm? Ah, no, it’s not a wish per se… I just want everyone to be a little more
 Well, there’s no point in me asking for that, though.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 ? what do you mean?
 
 {% endbubble %}
@@ -641,7 +641,7 @@ Well, there’s no point in me asking for that, though.
 … Ryuseitai will likely disband soon if it keeps going at this pace.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hm? what is “dis-ba-nd”?
 
 {% endbubble %}
@@ -665,7 +665,7 @@ Also… No adult in this school helps you out in anything, and if you stay aroun
 Even I… If I could just have more talent and capability--…
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 …………
 
 {% endbubble %}
@@ -1306,7 +1306,7 @@ ah, chiaki! good afternoon~♪ the weather is Good today, the perfect weather to
 Woah, you scared me—!! Shinkai-kun!? W-What are you doing!? Stop—you can’t go inside the pool with your clothes still on!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 ? was that not okay? could you explain to me where i was Wrong?
 
 {% endbubble %}
@@ -1314,7 +1314,7 @@ Woah, you scared me—!! Shinkai-kun!? W-What are you doing!? Stop—you can’t
 Huh…? Um, well, for starters, your clothes will get wet… And it may be the summer season right now, but you could still catch a cold if you keep them on.
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 catch a… Cold?
 
 {% endbubble %}
@@ -1322,7 +1322,7 @@ catch a… Cold?
 Huh? Why do you look so confused!? Have you never caught a cold before? That means you have a really good, healthy body! I’m jealous — I’ve always been prone to illnesses!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hm… so by a Cold, you meant an illness?
 
 i will not become ill, as i am a God. in fact, i should be the one to Heal the illnesses of others, shouldn’t i?
@@ -1396,7 +1396,7 @@ Huh—Um, I’m not sure how to explain it off the top of my head… Well, like�
 No, it’s different from a God. It’s more realistic, like… Defeating villains one after the other, and upholding justice to the very end. And they’re always protecting the helpless—
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hm~? i am unable to make a distinction between the two… to defeat Villains — is that different from Divine Punishment?
 
 this is difficult… i recall mikejima was called a hero by others… perhaps i will ask him. after all, he seems to Know many things.
@@ -1419,7 +1419,7 @@ i don’t really need him to, though… for mikejima to do all the Work is so st
 {% bubble Chiaki pastworried %}
 Huh? Huhhh…? I’m sorry, I’m not quite sure I understand you!
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 is that so… are the things i am saying difficult to comprehend? i am sorry, i am still not used to Speaking very much.
 
 {% endbubble %}
@@ -1429,7 +1429,7 @@ Ah, no, there’s nothing you need to apologize for—Oh.
 Sorry, seems like I’m being called over. I’ll have to go now!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 called over?
 {% endbubble %}
 {% bubble Chiaki past %}

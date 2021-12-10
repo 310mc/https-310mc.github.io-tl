@@ -69,7 +69,7 @@ Oh! There's a samurai walking about! It's like we've been taken back to the era 
             {% bubble Chiaki %}
             Ohh? I'm so happy to hear that~♪
 
-            I think I'd have fun acting as a samurai who brandishes a katana, punishing the wicked and protecting the weak!
+            I think I'd have fun acting as a samurai sheathing a katana, punishing the wicked and protecting the weak!
 			{% endbubble %}
         </div>
     </div>

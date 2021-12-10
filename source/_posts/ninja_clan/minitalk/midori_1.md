@@ -53,11 +53,11 @@ description: "[ES!!] Translation of Midori's first Mini Talk from Ninja Clan. Fr
 {% img /img/es/eventstory/ninjaclan/minitalk_midori1_1.jpg %}
 
 {% bubble Midori %}
-Um… Let's get close slowly, and fling my net on the bug at the right moment… sloowly…
+Um… Let's get close slowly, and fling my net on the bug at the right moment… slooowly…
 
 Crap, it ran away… I think I did it a bit too early…
 
-Ah, good afternoon. We have our meeting with you today, right?
+Ah, good afternoon. I have my meeting with you today, right?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -91,9 +91,9 @@ Ah, good afternoon. We have our meeting with you today, right?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            Oh, that's already a big lifesaver. I'm not gonna have the time for this stuff soon 'cause of my solo work, so…
+            Oh, that's already a lifesaver. I'm not gonna have the time for this stuff soon 'cause of my solo work, so…
 
-            Um, I have another modeling shoot to do, huh? I feel like I've been getting that often lately…
+            Um, so I have another modeling photoshoot to do, huh? I feel like I've been getting that often lately…
 			{% endbubble %}
         </div>
     </div>
@@ -102,7 +102,7 @@ Ah, good afternoon. We have our meeting with you today, right?
 #### <div mt="rare"></div> 2/3
 
 {% bubble Midori %}
-How about you also try playing this game, Anzu-san? There are people in school playing it, too.
+How about you also try playing this game, Anzu-san? There are other students playing it, too.
 
 You can take your time progressing in the game, and you get to fish or dig around for stuff, and even make your own designs for stuff.
 

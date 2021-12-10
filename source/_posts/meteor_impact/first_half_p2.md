@@ -118,7 +118,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch9_1.jpg %}
 
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 —is that your Wish, chiaki?
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch9_2.jpg %}
@@ -423,7 +423,7 @@ ah, chiaki~♪ we keep running into each other lately, don’t we?
 Woah!? Shinkai-kun! So it really *was* you!
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 …“so it really was”…?
 
 {% endbubble %}
@@ -433,7 +433,7 @@ Uh, no, um—… I keep saying this, but I really don’t think it’s a good id
 And you’re doing that in a fountain this time, so it looks even more suspicious and strange than before. You’ll be reported if you’re not careful, y’know?
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 ? what does “re-por-ted” mean?
 
 {% endbubble %}
@@ -471,7 +471,7 @@ yes! now, i do not have to go all the way to the Pool to Splash about. c’mon, 
 W-Woah—!! Don’t try to pull me in! Your arm power is stronger than I expected…!?
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 is that so? but what does “arm power” even mean? if it is strong, is it something to be Happy about?
 
 {% endbubble %}
@@ -481,7 +481,7 @@ Y-Yes… I suppose it’s better to have strong arm power than weak, yeah…
 But I don’t want to think that it’s much more righteous to be strong…
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 “Rai-chi-ous”? what is that?
 
 {% endbubble %}
@@ -489,7 +489,7 @@ But I don’t want to think that it’s much more righteous to be strong…
 Hehe, you ask such difficult questions, Shinkai-kun…
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 hmm, is that so… was that difficult? am i troubling you with my Questions?
 
 i am sorry… but, there are many Things i do not yet know. i would like to learn more about all of you.
@@ -507,7 +507,7 @@ it is troubling… even though i have to Grow faster…
 I want to grow stronger, too…
 
 {% endbubble %}
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 really? you too, are the same?
 
 hehe, it makes me happy to know we share something in common… right, chiaki? ♪
@@ -543,7 +543,7 @@ Oh no, there’s no need… I haven’t done anything worth being repaid.
 ## Chapter 12
 {% img /img/es/eventstory/meteorimpact/firsthalfch12.jpg %}
 
-{% bubble Kanata pastconfused %}
+{% bubble Kanata pastcurious %}
 … chiaki?
 
 hehehe, that Expression… so you do have some kind of Wish, don’t you?

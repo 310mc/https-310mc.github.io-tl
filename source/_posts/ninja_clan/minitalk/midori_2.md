@@ -132,7 +132,7 @@ I'm gonna carry this over to Starmony Dorm, so I'd like to go to the lobby.
             {% bubble Midori %}
             Hmm… But we'll reach the lobby pretty quickly, won't we…?
 
-            It's harder to carry it back up, so I'd rather hold onto it the way.
+            It's harder to carry it back up, so I'd rather hold onto it all the way.
 			{% endbubble %}
         </div>
     </div>
@@ -171,7 +171,7 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
             {% bubble Midori smile %}
             Don't worry about it~♪ I can guarantee its quality, so please eat it while it's still fresh.
 
-            You'd definitely enjoy them fried eggplants or in a vegetable stew. Oh, I also recommend mapo eggplant.
+            You'd definitely enjoy them fried or in a vegetable stew. Oh, I also recommend mapo eggplant.
 			{% endbubble %}
         </div>
     </div>
@@ -205,4 +205,4 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
 
 ## Translation Notes
 
-[^1]: In Enstars!! Basic, he activates a FEVER UP on this answer.
+[^1]: Random fun fact, in Enstars!! Basic, he activates a FEVER UP on this answer.

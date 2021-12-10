@@ -2018,7 +2018,7 @@ Hehe. Then your dream came true.
 
 {% endbubble %}
 {% bubble Kanata pastcurious %}
-i wonder… i’m not sure — was that really my Dream?
+i wonder… i’m not sure—was that really my Dream?
 
 but in reality, someone started calling us the Five Eccentrics… and it is Thanks to that that i made Friends.
 
