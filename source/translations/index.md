@@ -3,13 +3,99 @@ title: Ensemble Stars & Helios Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars and Helios Rising Heroes translations in this blog site.
 ---
 
+<style>
+
+.stories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.5em;
+}
+.stories * {
+     box-sizing: border-box;
+}
+.story {
+    position: relative;
+    border-radius: 0.25em;
+    overflow: hidden;
+}
+
+.stories a:hover{
+    color: white;
+}
+
+.story:hover img {
+    transform: scale(1.05);
+}
+.story:hover .storyName {
+    transform: translate(0, 0);
+}
+.story:hover .storyName .read {
+    transform: translate(0, 0);
+}
+.storyName {
+    transform: translate(0, 0);
+}
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.2s ease;
+    margin: 0 !important;
+}
+.storyName {
+    font-size: 0.9em;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: linear-gradient(to bottom, transparent 0, #000000a3 90%);
+    color: #fff;
+    position: absolute;
+    padding: 5em 0.75em 0.75em;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    transition: 0.2s ease;
+    transform: translate(0, 2.3em);
+}
+.storyName .read {
+       margin-top: 0.25em;
+       font-size: 0.85em;
+       background: black;
+       color: white;
+       padding: 0.5em 1.25em;
+       height: 2.25em;
+       border-radius: 0.25em;
+       width: 100%;
+       text-align: center;
+       transition: 0.2s ease;
+       transform: translate(0, 1em);
+   }
+   .storyName .read:before {
+       content: "Read";
+   }
+
+   .storyName .read.soon {
+       opacity: 0.5;
+       pointer-events: none;
+       &:before {
+           content: "Soon!";
+       }
+   }
+
+   .storyName .read:not(.soon):hover {
+       color: #f1c755;
+   }
+</style>
+
 ## Index
 
-<a href="#Ensemble-Stars">Ensemble Stars</a>
+**Ensemble Stars**
 <ul>
 <li><a href="#Event-Stories">Event Story</a></li>
 <li><a href="#Gacha-Stories">Gacha / Scout Story</a></li>
 <li><a href="#Idol-Stories">Idol / Feature Scout Story</a></li>
+<li><a href="#Other-Stories">Other Story</a></li>
 <li><a href="#Mini-Talks">Mini Talk</a></li>
 <li><a href="#Song-Lyrics">Song Lyrics</a></li>
 <li><a href="#Other">Other</a></li>
@@ -17,119 +103,844 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 
 <a href="#Helios-Rising-Heroes">Helios Rising Heroes</a>
 
-## Ensemble Stars
+## Event Stories
+<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/climax/midoribcgframe.jpg"
+                alt="Climax"
+            />
+        </div>
+        <a href="/climax" class="storyName" target="_blank">
+            <span>Climax (In Progress!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/aquarium/kanatabcgframe.jpg"
+                alt="Aquarium"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/10207.html" class="storyName" target="_blank">
+            <span>Aquarium</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"
+                alt="Sweet Halloween"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/15004.html" class="storyName" target="_blank">
+            <span>Sweet Halloween</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/schoolfestival4/midoribcgframe.jpg"
+                alt="School Festival 4"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2019/05/21/school-festival-4-chapter-masterlist/" class="storyName" target="_blank">
+            <span>School Festival 4</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe.jpg"
+                alt="Orihime and Hikoboshi"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/24376.html" class="storyName" target="_blank">
+            <span>Orihime and Hikoboshi</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/meteorimpact/chiakibcgframe.jpg"
+                alt="Meteor Impact"
+            />
+        </div>
+        <a href="/meteor_impact" class="storyName" target="_blank">
+            <span>Meteor Impact</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/crossroad/chiakicgframe.jpg"
+                alt="Crossroad"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/4502.html" class="storyName" target="_blank">
+            <span>Crossroad (Chiaki Scenes Only!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
-### Event Stories
+<h4>Ensemble Stars!! Era</h4>
 
-|Climax (In Progress!)|Aquarium|Sweet Halloween|
-| :-----------: | :-----------: | :-----------: |
-[![](/img/banner/climax.png)](/climax)|[![](/img/banner/aquarium.png)](https://euni2319.dreamwidth.org/10207.html)|[![](/img/banner/sweethalloween.png)](https://euni2319.dreamwidth.org/15004.html)
-**School Festival 4**|**Orihime and Hikoboshi**|**Meteor Impact**
-[![https://euni2319.wordpress.com/2019/05/21/school-festival-4-chapter-masterlist/](/img/banner/schoolfestival4.png)](https://euni2319.wordpress.com/2019/05/21/school-festival-4-chapter-masterlist/)|[![https://euni2319.dreamwidth.org/24376.html](/img/banner/orihimeandhikoboshi.png)](https://euni2319.dreamwidth.org/24376.html)|[![/meteor_impact](/img/banner/meteorimpact.png)](/meteor_impact)
-**Crossroad<br>(Chiaki scenes ONLY)**|
-[![https://euni2319.dreamwidth.org/4502.html](/img/banner/crossroad.png)](https://euni2319.dreamwidth.org/4502.html)|
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/motorshow/tetorabcgframe.jpg"
+            alt="Motor Show"
+        />
+    </div>
+    <a href="/motor_show" class="storyName" target="_blank">
+        <span>Motor Show</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"
+            alt="Comet Show"
+        />
+    </div>
+    <a href="/comet_show" class="storyName" target="_blank">
+        <span>Comet Show</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/submarine/kanatabcgframe.jpg"
+            alt="Submarine"
+        />
+    </div>
+    <a href="/submarine" class="storyName" target="_blank">
+        <span>Submarine</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ring/midoribcgframe.jpg"
+            alt="Ring"
+        />
+    </div>
+    <a href="/ring" class="storyName" target="_blank">
+        <span>Ring (Coming Soon!)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ninjaclan/shinobubcgframe.jpg"
+            alt="Ninja Clan"
+        />
+    </div>
+    <a href="/ninja_clan" class="storyName" target="_blank">
+        <span>Ninja Clan</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
+## Gacha Stories
+<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/colorfulautumn/midoribcgframe.jpg"
+                alt="Colorful Autumn"
+            />
+        </div>
+        <a href="/colorful_autumn" class="storyName" target="_blank">
+            <span>Colorful Autumn (Coming Soon!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/biblio/tsumugibcgframe.jpg"
+                alt="Biblio"
+            />
+        </div>
+        <a href="/biblio" class="storyName" target="_blank">
+            <span>Biblio</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/zodiac/midoribcgframe.jpg"
+                alt="Zodiac"
+            />
+        </div>
+        <a href="/senpai_turned_into_a_dog" class="storyName" target="_blank">
+            <span>Zodiac</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/beasts/tetoracgframe.jpg"
+                alt="Beasts"
+            />
+        </div>
+        <a href="/beasts" class="storyName" target="_blank">
+            <span>Beasts (In Progress!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/gang/yuzurubcgframe.jpg"
+                alt="Gang"
+            />
+        </div>
+        <a href="/gang" class="storyName" target="_blank">
+            <span>Gang</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/comicworld/keitobcgframe.jpg"
+                alt="Comic World"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/" class="storyName" target="_blank">
+            <span>Comic World</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/buddy/chiakibcgframe.jpg"
+                alt="Buddy"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/" class="storyName" target="_blank">
+            <span>Buddy</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
-Motor Show|Comet Show|Submarine (In Progress!)
-| :-----------: | :-----------: | :-----------: |
-[![/motor_show](/img/banner/motorshow.png)](/motor_show)|[![/comet_show](/img/banner/cometshow.png)](/comet_show)|[![/submarine](/img/banner/submarine.png)](/submarine)
-**Ninja Clan**|
-[![/ninja_clan](/img/banner/ninjaclan.png)](/ninja_clan)|
+<h4>Ensemble Stars!! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/dollhouse/midoribcgframe.jpg"
+                alt="Dollhouse"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/" class="storyName" target="_blank">
+            <span>Dollhouse</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe.jpg"
+                alt="Flowers of the Wasteland"
+            />
+        </div>
+        <a href="/flowers_of_the_wasteland" class="storyName" target="_blank">
+            <span>Flowers of the Wasteland (Coming Soon!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/roaringseamarina/izumibcgframe.jpg"
+                alt="Roaring Sea Marina"
+            />
+        </div>
+        <a href="/roaring_sea_marina" class="storyName" target="_blank">
+            <span>Roaring Sea Marina (Coming Soon!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/soleil/mitsurubcgframe.jpg"
+                alt="Soleil"
+            />
+        </div>
+        <a href="/soleil" class="storyName" target="_blank">
+            <span>Soleil (Chapter 1 Only!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
-### Gacha Stories
+## Idol Stories
 
-|Colorful Autumn (Coming Soon!)|Biblio|Zodiac|
-| :-----------: | :-----------: | :-----------: |
-[![/colorful_autumn](/img/banner/colorfulautumn.png)](/colorful_autumn)|[![/biblio](/img/banner/biblio.png)](/biblio)|[![/senpai_turned_into_a_dog](/img/banner/zodiac.png)](/senpai_turned_into_a_dog)
-**Beasts (In Progress!)**|**Gang**|**Comic World**
-[![/beasts](/img/banner/beasts.png)](/beasts)|[![/gang](/img/banner/gang.png)](/gang)|[![https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/](/img/banner/comicworld.png)](https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/)
-**Buddy**|
-[![https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/](/img/banner/buddy.png)](https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/)|
+<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/banner/selfishnoble.jpg"
+                alt="Selfish Noble"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/2918.html" class="storyName" target="_blank">
+            <span>Selfish Noble</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/banner/gameoftag.jpg"
+                alt="A Game of Tag with Mama"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/" class="storyName" target="_blank">
+            <span>A Game of Tag with Mama</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/banner/melancholicclubactivities.jpg"
+                alt="Melancholic Club Activities"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/" class="storyName" target="_blank">
+            <span>Melancholic Club Activities</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/banner/crimsonspureheart.jpg"
+                alt="The Crimson's Pure Heart"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/" class="storyName" target="_blank">
+            <span>The Crimson's Pure Heart</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
-Dollhouse|Flowers of the Wasteland (Coming Soon!)
-| :-----------: | :-----------: | :-----------: |
-[![https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/](/img/banner/dollhouse.png)](https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/)|[![/flowers_of_the_wasteland](/img/banner/flowersofthewasteland.png)](/flowers_of_the_wasteland)
+<h4>Ensemble Stars!! Era</h4>
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory1.jpg"
+            alt="Midori Takamine Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/midori_1" class="storyName" target="_blank">
+        <span>Midori Takamine Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory2.jpg"
+            alt="Midori Takamine Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/midori_2" class="storyName" target="_blank">
+        <span>Midori Takamine Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory3.jpg"
+            alt="Midori Takamine Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/midori_3" class="storyName" target="_blank">
+        <span>Midori Takamine Idol Story 3</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/chiakiidolstory1.jpg"
+            alt="Chiaki Morisawa Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/chiaki_1" class="storyName" target="_blank">
+        <span>Chiaki Morisawa Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory1.jpg"
+            alt="Hinata Aoi Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/hinata_1" class="storyName" target="_blank">
+        <span>Hinata Aoi Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory3.jpg"
+            alt="Hinata Aoi Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/hinata_3" class="storyName" target="_blank">
+        <span>Hinata Aoi Idol Story 3</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/hajimeidolstory1.jpg"
+            alt="Hajime Shino Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/hajime_1" class="storyName" target="_blank">
+        <span>Hajime Shino Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/kanataidolstory2.jpg"
+            alt="Kanata Shinkai Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/kanata_2" class="storyName" target="_blank">
+        <span>Kanata Shinkai Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
-### Idol Stories
-<!--
-|Chiaki Idol Story Directory|Midori Idol Story Directory|
-| :-----------: | :-----------: |
-[![/chiaki_idol_stories](/img/banner/chiakistories.png)](/chiaki_idol_stories)|[![/midori_idol_stories](/img/banner/midoristories.png)](/midori_idol_stories)|-->
+<h4>Feature Scout Stories</h4>
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/making100friends.jpg"
+            alt="Making-100-Friends Project"
+        />
+    </div>
+    <a href="/making_100_friends_project" class="storyName" target="_blank">
+        <span>Making-100-Friends Project</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/partyanimalinvasion.jpg"
+            alt="Party Animal Invasion"
+        />
+    </div>
+    <a href="/party_animal_invasion" class="storyName" target="_blank">
+        <span>Party Animal Invasion</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/stayingtruetomyself.jpg"
+            alt="Staying True To Myself"
+        />
+    </div>
+    <a href="/staying_true_to_myself" class="storyName" target="_blank">
+        <span>Staying True To Myself</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/dubiouslibrary.jpg"
+            alt="Something Dubious in the Library"
+        />
+    </div>
+    <a href="https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/" class="storyName" target="_blank">
+        <span>Something Dubious in the Library</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/heroicheart.jpg"
+            alt="Always Hold a Heroic Heart"
+        />
+    </div>
+    <a href="https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/" class="storyName" target="_blank">
+        <span>Always Hold a Heroic Heart</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/dothenorm.jpg"
+            alt="Do The Norm"
+        />
+    </div>
+    <a href="/do_the_norm" class="storyName" target="_blank">
+        <span>Do The Norm</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/dearmebeforeibecameaninja.jpg"
+            alt="Dear me, Before I Became a Ninja"
+        />
+    </div>
+    <a href="https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/" class="storyName" target="_blank">
+        <span>Dear me, Before I Became a Ninja</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/bodybuildingbros.jpg"
+            alt="Together, We Are the Bodybuilding Bros!"
+        />
+    </div>
+    <a href="/bodybuilding_bros" class="storyName" target="_blank">
+        <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/methesea.jpg"
+            alt="me, the sea, and everyone with me"
+        />
+    </div>
+    <a href="/me_the_sea_and_everyone_with_me" class="storyName" target="_blank">
+        <span>me, the sea, and everyone with me</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/essenceofabutler.jpg"
+            alt="The Essence of a Butler"
+        />
+    </div>
+    <a href="/the_essence_of_a_butler" class="storyName" target="_blank">
+        <span>The Essence of a Butler</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
-|Selfish Noble|A Game of Tag with Mama|Melancholic Club Activities|
-| :-----------: | :-----------: | :-----------: |
-[![https://euni2319.dreamwidth.org/2918.html](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%283rd_Anniversary%29_Hiyori_Tomoe.png)](https://euni2319.dreamwidth.org/2918.html)|[![https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b9/%28Showdown_with_Mama%29_Mitsuru_Tenma_Bloomed.png)](https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/)|[![https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Senpai_Discussion%29_Midori_Takamine_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/)
-**The Crimson's Pure Heart**|
-[![https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Carrot%27s_Relations%29_Kuro_Kiryu_Bloomed.png)](https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/)|
+## Other Stories
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/manageconvo/coverv2.jpg"
+            alt="Management Story"
+        />
+    </div>
+    <a href="/management_story" class="storyName" target="_blank">
+        <span>Management Story</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/banner/midoribday2018.gif"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
-|Midori Takamine Idol Story 1|Midori Takamine Idol Story 2|Midori Takamine Idol Story 3|
-| :-----------: | :-----------: | :-----------: |
-[![/idol_story/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28An_Idol%29_Midori_Takamine_M_Bloomed.png)](/idol_story/midori_1)|[![/idol_story/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28ES_Idol%29_Midori_Takamine_B.png)](/idol_story/midori_2)|[![/idol_story/midori_3](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/idol_story/midori_3)
-**Chiaki Morisawa Idol Story 1**|**Hinata Aoi Idol Story 1**|**Hinata Aoi Idol Story 3**|
-[![/idol_story/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/idol_story/chiaki_1)|[![/idol_story/hinata_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/db/%28An_Idol%29_Hinata_Aoi_M_Bloomed.png)](/idol_story/hinata_1)|[![/idol_story/hinata_3](https://static.wikia.nocookie.net/ensemble-stars/images/f/ff/%28Practicing%29_Hinata_Aoi_M.png)](/idol_story/hinata_3)
-**Hajime Shino Idol Story 1**|**Kanata Shinkai Idol Story 2**|
-[![/idol_story/hajime_1](https://static.wikia.nocookie.net/ensemble-stars/images/d/d5/%28Practicing%29_Hajime_Shino_M.png)](/idol_story/hajime_1)|[![/idol_story/kanata_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%28ES_Idol%29_Kanata_Shinkai_M.png)](/idol_story/kanata_2)|
-
-|Making-100-Friends Project|Party Animal Invasion|Something Dubious in the Library
-| :-----------: | :-----------: | :-----------: |
-[![/making_100_friends_project](https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M_Bloomed.png)](/making_100_friends_project)|[![/party_animal_invasion](https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M.png)](/party_animal_invasion)|[![https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/](https://static.wikia.nocookie.net/ensemble-stars/images/b/b1/%28Untitled_Book%29_Chiaki_Morisawa_M.png)](https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/)
-**Do The Norm**|**Always Hold a Heroic Heart**|**Dear me, Before I Became a Ninja**
-[![/do_the_norm](https://static.wikia.nocookie.net/ensemble-stars/images/1/19/%28Basketball_Connections%29_Aira_Shiratori_B_Bloomed.png)](/do_the_norm)|[![https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/](https://static.wikia.nocookie.net/ensemble-stars/images/4/49/%28What_a_Hero_is%29_Chiaki_Morisawa_M.png)](https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/)|[![https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Light_Beaming_from_the_Darkness%29_Shinobu_Sengoku_M.png)](https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/)
-**Staying True To Myself**|**Together,<br>We Are the Bodybuilding Bros!**|**me, the sea, and everyone with me**
-[![/staying_true_to_myself](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)](/staying_true_to_myself)|[![/bodybuilding_bros](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)](/bodybuilding_bros)|[![/me_the_sea_and_everyone_with_me](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png)](/me_the_sea_and_everyone_with_me)
-**The Essence of a Butler**|
-[![/the_essence_of_a_butler](https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png)](/the_essence_of_a_butler)|
-
-Management Stories|Birthday Stories
-| :-----------: | :-----------: | :-----------: |
-[![/management_story](/img/es/manageconvo/cover.jpg)](/management_story)|[![/birthday_story](https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/Midori_Takamine_Birthday_2018_Motion.gif)](/birthday_story)
-
-### Mini Talks
-
-<!--|ES! Midori Birthday|ES! Kanata Birthday|ES! Chiaki Birthday|
-| :-----------: | :-----------: | :-----------: |
-[![/birthday_story/midori_es](https://static.wikia.nocookie.net/ensemble-stars/images/9/9a/%283rd_Anniversary%29_Midori_Takamine_Bloomed.png)](/birthday_story/midori_es)|[![/birthday_story/kanata_es](https://static.wikia.nocookie.net/ensemble-stars/images/d/d0/%283rd_Anniversary%29_Kanata_Shinkai_Bloomed.png)](/birthday_story/kanata_es)|[![/birthday_story/chiaki_es](https://static.wikia.nocookie.net/ensemble-stars/images/1/1e/%283rd_Anniversary%29_Chiaki_Morisawa.png)](/birthday_story/chiaki_es)
-
-|ES!! Midori Birthday|ES!! Chiaki Birthday|
-| :-----------: | :-----------: | :-----------: |
-[![/birthday_story/midori_es2](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/birthday_story/midori_es2)|[![/birthday_story/chiaki_es2](https://static.wikia.nocookie.net/ensemble-stars/images/8/84/%28Practicing%29_Chiaki_Morisawa_M.png)](/birthday_story/chiaki_es2)|-->
-
+## Mini Talks
 |Baton Pass! Chiaki|Shooting Star Festival! Chiaki|Sweet Halloween! Chiaki<br>(Coming Soon!)
 | :-----------: | :-----------: | :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Normal Event %}{% btn /climax/minitalk/chiaki_2,, star, Special Event %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, Normal Event %}{% btn /shooting_star_festival/minitalk/chiaki_2,, star, Special Event %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}|
+[![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Tough Being a Parent %}{% btn /climax/minitalk/chiaki_2,, star, Justice Will Prevail %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, A Joint Live! %}{% btn /shooting_star_festival/minitalk/chiaki_2,, star, The Festival's Hero %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}|
 
 |Comet Show! Midori|Ring × Midori (Coming Soon!)|Ninja Clan! Midori|
 | :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Midori Mini Talk: Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Midori Mini Talk: Topics About That Guy %}|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Midori Mini Talk: Conveying My Feelings %}{% btn /ring/minitalk/midori_2,, star, Midori Mini Talk: Before the Nerve-wrecking Photoshoot %}|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Midori Mini Talk: Relaxing Gameplay %}{% btn /ninja_clan/minitalk/midori_2,, star, Midori Mini Talk: Eeeggy-eggy-eggyplant %}
+[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}
 
-|Ninja Clan! Tetora|
-| :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Tetora Mini Talk: Thrilling Gameplay %}{% btn /ninja_clan/minitalk/tetora_2,, star, Midori Mini Talk: I Don't Get It %}|
-
-<!--|Date Plan × Chiaki (Coming Soon!)|Comet Show! Chiaki (Coming Soon!)|Submarine／Chiaki (Coming Soon!)|Ninja Clan! Chiaki (Coming Soon!)
-| :-----------: | :-----------: | :-----------: | :-----------: |
-[![/date_plan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/6/65/%28Positive_AtoZ%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/date_plan/minitalk/chiaki_1){% btn /date_plan/minitalk/chiaki_1,, circle, Chiaki Mini Talk:  %}{% btn /date_plan/minitalk/chiaki_2,, star, Chiaki Mini Talk: %}|[![/comet_show/minitalk/chiaki_2](https://static.wikia.nocookie.net/ensemble-stars/images/e/e1/%28Meteors_and_Red_Resolve%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/comet_show/minitalk/chiaki_2){% btn /comet_show/minitalk/chiaki_1,, circle, Chiaki Mini Talk: %}{% btn /comet_show/minitalk/chiaki_2,, star, Chiaki Mini Talk: %}|[![/ring/minitalk/chiaki_2](https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/submarine/minitalk/chiaki_2){% btn /submarine/minitalk/chiaki_1,, circle, Chiaki Mini Talk: %}{% btn /submarine/minitalk/chiaki_2,, star, Chiaki Mini Talk: %}|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, Chiaki Mini Talk: %}{% btn /ninja_clan/minitalk/chiaki_2,, star, Chiaki Mini Talk: %}-->
-
-### Song Lyrics
-|SUPER NOVA REVOLU5TAR|GROWING STARRY DAYS|Meteor Scramble☆RYUSEITAI
-| :-----------: | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/SUPER_NOVA_REVOLU5TAR_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/RYUSEITAI_Unit_Song_CD_3.jpg)](https://ensemble-stars.fandom.com/wiki/GROWING_STARRY_DAYS_%28Lyrics%29)|[![https://ensemble-stars.fandom.com/wiki/Ensemble_Stars!_ED_Collection_Vol.4](https://static.wikia.nocookie.net/ensemble-stars/images/4/4e/Ensemble_Stars%21_ED_Collection_Vol.4.png)](https://ensemble-stars.fandom.com/wiki/Meteor_Scramble%E2%98%86RYUSEITAI_%28Lyrics%29)
-
-|Date Plan A to Z|Aisle, be with you|
-| :-----------: | :-----------: | :-----------: |
-[![https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_(Lyrics)](https://static.wikia.nocookie.net/ensemble-stars/images/3/30/Shuffle_Unit_Song_Collection_Vol.01_Cover_1.png)](https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_%28Lyrics%29)|[![/aisle_be_with_you](https://static.wikia.nocookie.net/ensemble-stars/images/d/da/Aisle%2C_be_with_you_Cover.png)](/aisle_be_with_you)|
-
-
-### Other
-
-|Ryuseitai Album Messages|ES! 5* Scout Quotes|
+|Ninja Clan! Tetora|Ninja Clan! Chiaki
 | :-----------: | :-----------: |
-[![https://euni2319.dreamwidth.org/21314.html](https://static.wikia.nocookie.net/ensemble-stars/images/f/fa/RYUSEITAI_album_cover.jpg)](https://euni2319.dreamwidth.org/21314.html)|[![/es_scout_quotes](https://static.wikia.nocookie.net/ensemble-stars/images/f/f0/%28Dog_of_the_New_Year%29_Midori_Takamine_Frameless_Bloomed.png)](/es_scout_quotes)
+[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Thrilling Gameplay %}{% btn /ninja_clan/minitalk/tetora_2,, star, I Don't Get It %}|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, An Invasion from a Formidable Enemy %}{% btn /ninja_clan/minitalk/chiaki_2,, star, Sightseeing the Historical Village %}|
+
+<!--<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/climax/chiakibcgframe.jpg"
+            alt="Baton Pass! Chiaki"
+        />
+    </div>
+    <a href="/climax/minitalk/chiaki_1" class="storyName" target="_blank">
+        <span>Baton Pass! Chiaki</span>
+        <span class="read"><a href="/climax/minitalk/chiaki_1">Tough Being a Parent</a></span>
+        <span class="read1"><a href="/climax/minitalk/chiaki_2">Justice Will Prevail</a></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/shootingstarfestival/chiakibcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+</div>
+
+<h4>Ensemble Stars!! Era</h4>
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/cometshow/midoribcgframe.jpg"
+            alt="Management Story"
+        />
+    </div>
+    <a href="/management_story" class="storyName" target="_blank">
+        <span>Management Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ring/midoribcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ninjaclan/midoribcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ninjaclan/chiakibcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/ninjaclan/tetorabcgframe.jpg"
+            alt="Birthday Story"
+        />
+    </div>
+    <a href="/birthday_story" class="storyName" target="_blank">
+        <span>Birthday Story</span>
+        <span class="read1"></span>
+        <span class="read1"></span>
+    </a>
+</div>
+</div>-->
+
+## Song Lyrics
+
+<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd.jpg"
+                alt="SUPER NOVA REVOLU5TAR"
+            />
+        </div>
+        <a href="https://ensemble-stars.fandom.com/wiki/SUPER_NOVA_REVOLU5TAR_%28Lyrics%29" class="storyName" target="_blank">
+            <span>SUPER NOVA REVOLU5TAR</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd.jpg"
+                alt="GROWING STARRY DAYS"
+            />
+        </div>
+        <a href="https://ensemble-stars.fandom.com/wiki/GROWING_STARRY_DAYS_%28Lyrics%29" class="storyName" target="_blank">
+            <span>GROWING STARRY DAYS</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
+                alt="Meteor Scramble☆RYUSEITAI"
+            />
+        </div>
+        <a href="https://ensemble-stars.fandom.com/wiki/Meteor_Scramble%E2%98%86RYUSEITAI_%28Lyrics%29" class="storyName" target="_blank">
+            <span>Meteor Scramble☆RYUSEITAI</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<h4>Ensemble Stars!! Era</h4>
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/songs/dateplanatoz.jpg"
+            alt="Date Plan A to Z"
+        />
+    </div>
+    <a href="https://ensemble-stars.fandom.com/wiki/Date_Plan_A_to_Z_%28Lyrics%29" class="storyName" target="_blank">
+        <span>Date Plan A to Z</span>
+        <span class="read"></span>
+    </a>
+</div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/aislebewithyou.jpg"
+                alt="Aisle, be with you"
+            />
+        </div>
+        <a href="/aisle_be_with_you" class="storyName" target="_blank">
+            <span>Aisle, be with you</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+## Other
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/ryuseitaialbum.jpg"
+                alt="Ryuseitai Album Messages"
+            />
+        </div>
+        <a href="https://euni2319.dreamwidth.org/21314.html" class="storyName" target="_blank">
+            <span>Ryuseitai Album Messages</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/banner/esscoutquotes.jpg"
+                alt="ES! 5* Scout Quotes"
+            />
+        </div>
+        <a href="/es_scout_quotes" class="storyName" target="_blank">
+            <span>ES! Era 5* Scout Quotes</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
 ## Helios Rising Heroes
-
-|Midsummer Survival Island|
-| :-----------: |
-[![https://euni2319.wordpress.com/2020/08/27/midsummer-survival-chapter-masterlist/](https://euni2319.files.wordpress.com/2020/08/efz0v4fxoauzvtk.png)](https://euni2319.wordpress.com/2020/08/27/midsummer-survival-chapter-masterlist/)|
-
-<div style="margin-bottom:5px">{% btn #Ensemble-Stars,, arrow-up, Back to Top %}</div>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://euni2319.files.wordpress.com/2020/08/efz0v4fxoauzvtk.png"
+                alt="Midsummer Survival Island"
+            />
+        </div>
+        <a href="https://euni2319.wordpress.com/2020/08/27/midsummer-survival-chapter-masterlist/" class="storyName" target="_blank">
+            <span>Midsummer Survival Island</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+<br>
+<div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>

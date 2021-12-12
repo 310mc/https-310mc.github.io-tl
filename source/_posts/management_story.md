@@ -1,5 +1,5 @@
 ---
-title: "[ES!] Management Stories"
+title: "[ES!] Management Story Directory"
 date: 2019-10-26 23:00:00
 categories:
 - [Enstars, ES!]

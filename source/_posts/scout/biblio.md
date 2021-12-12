@@ -382,7 +382,7 @@ It’s not a bother at all… Just looking at you soothes me…♪
 {% bubble Hajime %}
 Really? That makes me happy\~ I’m Ra*bits, so I should be like a little animal who soothes you. Ehehe, bounce bounce\~♪
 
-—Wah?!
+—Wah!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -544,7 +544,7 @@ Ooh, I’m envious of you being the "Onii-chan"… I’m sure you have a warm fa
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
-AAHHHHHHHHHHHHHHH!?!?
+AAHHHHHHHHHHHHHHH!!??
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -634,11 +634,11 @@ Really? That's the first time I’ve been told that\~ Since I’m bad at talking
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
-AGHHHHHHHH!?!?
+AGHHHHHHHH!!??
 {% endbubble %}
 
 {% bubble Midori %}
-Eeek?! T-There's that scream again…!
+Eeek!? T-There's that scream again…!
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -666,7 +666,7 @@ Eh? Well I *am* in Ra*bits, but I don’t have ears as good as one…
 
 But I’m fairly good with scents, maybe I can trail it through smell like a doggie?
 
-*<th>(Sniff sniff)</th>*… Oh! I smell vegetables from you.
+<th><em>(Sniff, sniff)</em></th>… Oh! I smell vegetables from you.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -852,19 +852,19 @@ I was this close to thinking about giving up on this world and finding happiness
 
 Not that there's any proof that you can be reborn again, though~ Even if I did reincarnate, I’d probably be a bug or something.
 
-I’ve committed many sins after all.
+I’ve committed many sins, after all.
 {% endbubble %}
 
 {% bubble Keito %}
-Hey! What's all this fuss about?!
+Hey! What's all this fuss about!?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hiiahhh?!
+Hiiahhh!?
 
 D-d-d-don't scare me like that, Keito-kun!
 
-…It *is* you, right? I can't see well so I’m not sure! You're not some thunder, right? Even though I heard an explosive rumbling sound?!
+…It *is* you, right? I can't see well so I’m not sure! You're not some thunder, right? Even though I heard an explosive rumbling sound!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1100,11 +1100,11 @@ Yes! Alright then, heave-ho…☆
 {% endbubble %}
 
 {% bubble Keito %}
-Ghfff?!?
+Ghfff!??
 {% endbubble %}
 
 {% bubble Hajime %}
-Aah—I-I-I-I'm so sorry!! It landed directly on your face! Are you okay?!
+Aah—I-I-I-I'm so sorry!! It landed directly on your face! Are you okay!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1428,7 +1428,7 @@ But since the library work is your job, even if I do make a mistake it'll be und
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Wha—You're cruel! Are you saying you don't care what happens to me?!
+Wha—You're cruel! Are you saying you don't care what happens to me!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1460,7 +1460,7 @@ You want to borrow books or materials? You've come at the right time\~ I just fi
 
 What kind of book are you looking for?
 
-—wh-AHH?!
+—wh-AHH!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1510,7 +1510,7 @@ C'mon, Shino-kun, wake up… It's dark outside, we should be going home now…
 {% endbubble %}
 
 {% bubble Hajime %}
-Mm~ *<th>(fumble)</th>*…… *<th>(nibble nibble)</th>* ♪
+Mm~ <th><em>(fumble)</em></th>…… *<th>(nibble nibble)</th>* ♪
 {% endbubble %}
 
 {% bubble Midori %}
