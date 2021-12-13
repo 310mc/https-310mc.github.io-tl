@@ -7,7 +7,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 
 .stories {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 0.5em;
 }
 .stories * {
@@ -86,6 +86,11 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
    .storyName .read:not(.soon):hover {
        color: #f1c755;
    }
+   @media only screen and (max-width: 600px) {
+    .stories {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+}
 </style>
 
 ## Index
@@ -109,7 +114,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/climax/midoribcgframe.jpg"
+                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
                 alt="Climax"
             />
         </div>
@@ -121,7 +126,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/aquarium/kanatabcgframe.jpg"
+                src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
                 alt="Aquarium"
             />
         </div>
@@ -133,7 +138,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"
+                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
                 alt="Sweet Halloween"
             />
         </div>
@@ -145,7 +150,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/schoolfestival4/midoribcgframe.jpg"
+                src="/img/es/eventstory/schoolfestival4/tetorabcgframe_300px.jpg"
                 alt="School Festival 4"
             />
         </div>
@@ -157,7 +162,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe.jpg"
+                src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe_300px.jpg"
                 alt="Orihime and Hikoboshi"
             />
         </div>
@@ -169,7 +174,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/meteorimpact/chiakibcgframe.jpg"
+                src="/img/es/eventstory/meteorimpact/chiakibcgframe_300px.jpg"
                 alt="Meteor Impact"
             />
         </div>
@@ -181,7 +186,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/crossroad/chiakicgframe.jpg"
+                src="/img/es/eventstory/crossroad/chiakicgframe_300px.jpg"
                 alt="Crossroad"
             />
         </div>
@@ -198,7 +203,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/motorshow/tetorabcgframe.jpg"
+            src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg"
             alt="Motor Show"
         />
     </div>
@@ -210,7 +215,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"
+            src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg"
             alt="Comet Show"
         />
     </div>
@@ -222,19 +227,19 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/submarine/kanatabcgframe.jpg"
+            src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg"
             alt="Submarine"
         />
     </div>
     <a href="/submarine" class="storyName" target="_blank">
-        <span>Submarine</span>
+        <span>Submarine (In Progress!)</span>
         <span class="read"></span>
     </a>
 </div>
-<div class="story">
+<!--<div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ring/midoribcgframe.jpg"
+            src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
             alt="Ring"
         />
     </div>
@@ -242,11 +247,11 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
         <span>Ring (Coming Soon!)</span>
         <span class="read"></span>
     </a>
-</div>
+</div>-->
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ninjaclan/shinobubcgframe.jpg"
+            src="/img/es/eventstory/ninjaclan/shinobubcgframe_300px.jpg"
             alt="Ninja Clan"
         />
     </div>
@@ -260,10 +265,10 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 ## Gacha Stories
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
-    <div class="story">
+    <!--<div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/colorfulautumn/midoribcgframe.jpg"
+                src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
                 alt="Colorful Autumn"
             />
         </div>
@@ -271,11 +276,11 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
             <span>Colorful Autumn (Coming Soon!)</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div>-->
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/biblio/tsumugibcgframe.jpg"
+                src="/img/es/scoutstory/biblio/tsumugibcgframe_300px.jpg"
                 alt="Biblio"
             />
         </div>
@@ -287,7 +292,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/zodiac/midoribcgframe.jpg"
+                src="/img/es/scoutstory/zodiac/midoribcgframe_300px.jpg"
                 alt="Zodiac"
             />
         </div>
@@ -299,7 +304,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/beasts/tetoracgframe.jpg"
+                src="/img/es/scoutstory/beasts/tetoracgframe_300px.jpg"
                 alt="Beasts"
             />
         </div>
@@ -311,7 +316,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/gang/yuzurubcgframe.jpg"
+                src="/img/es/scoutstory/gang/yuzurubcgframe_300px.jpg"
                 alt="Gang"
             />
         </div>
@@ -323,7 +328,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/comicworld/keitobcgframe.jpg"
+                src="/img/es/scoutstory/comicworld/keitobcgframe_300px.jpg"
                 alt="Comic World"
             />
         </div>
@@ -335,7 +340,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/buddy/chiakibcgframe.jpg"
+                src="/img/es/scoutstory/buddy/chiakibcgframe_300px.jpg"
                 alt="Buddy"
             />
         </div>
@@ -351,7 +356,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/dollhouse/midoribcgframe.jpg"
+                src="/img/es/scoutstory/dollhouse/midoribcgframe_300px.jpg"
                 alt="Dollhouse"
             />
         </div>
@@ -363,7 +368,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe.jpg"
+                src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe_300px.jpg"
                 alt="Flowers of the Wasteland"
             />
         </div>
@@ -372,10 +377,10 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
             <span class="read"></span>
         </a>
     </div>
-    <div class="story">
+    <!--<div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/roaringseamarina/izumibcgframe.jpg"
+                src="/img/es/scoutstory/roaringseamarina/izumibcgframe_300px.jpg"
                 alt="Roaring Sea Marina"
             />
         </div>
@@ -383,11 +388,11 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
             <span>Roaring Sea Marina (Coming Soon!)</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div>-->
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/scoutstory/soleil/mitsurubcgframe.jpg"
+                src="/img/es/scoutstory/soleil/mitsurubcgframe_300px.jpg"
                 alt="Soleil"
             />
         </div>
@@ -681,7 +686,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/manageconvo/coverv2.jpg"
+            src="/img/es/manageconvo/coverv2_300px.jpg"
             alt="Management Story"
         />
     </div>
@@ -707,22 +712,22 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 ## Mini Talks
 |Baton Pass! Chiaki|Shooting Star Festival! Chiaki|Sweet Halloween! Chiaki<br>(Coming Soon!)
 | :-----------: | :-----------: | :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Tough Being a Parent %}{% btn /climax/minitalk/chiaki_2,, star, Justice Will Prevail %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, A Joint Live! %}{% btn /shooting_star_festival/minitalk/chiaki_2,, star, The Festival's Hero %}|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}|
+[![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Tough Being a Parent %}<div style="margin-top:5px">{% btn /climax/minitalk/chiaki_2,, star, Justice Will Prevail %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, A Joint Live! %}<div style="margin-top:5px">{% btn /shooting_star_festival/minitalk/chiaki_2,, star, The Festival's Hero %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}<div style="margin-top:5px">{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}</div>|
 
 |Comet Show! Midori|Ring × Midori (Coming Soon!)|Ninja Clan! Midori|
 | :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}
+[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}<div style="margin-top:5px">{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}</div>|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}<div style="margin-top:5px">{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}</div>|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}</div>
 
 |Ninja Clan! Tetora|Ninja Clan! Chiaki
 | :-----------: | :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Thrilling Gameplay %}{% btn /ninja_clan/minitalk/tetora_2,, star, I Don't Get It %}|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, An Invasion from a Formidable Enemy %}{% btn /ninja_clan/minitalk/chiaki_2,, star, Sightseeing the Historical Village %}|
+[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Thrilling Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/tetora_2,, star, I Don't Get It %}</div>|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, An Invasion from a Formidable Enemy %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/chiaki_2,, star, Sightseeing the Historical Village %}</div>|
 
 <!--<h4>Ensemble Stars! Era</h4>
 <div class="stories">
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/climax/chiakibcgframe.jpg"
+            src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
             alt="Baton Pass! Chiaki"
         />
     </div>
@@ -735,7 +740,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/shootingstarfestival/chiakibcgframe.jpg"
+            src="/img/es/eventstory/shootingstarfestival/chiakibcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -748,7 +753,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"
+            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -765,7 +770,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/cometshow/midoribcgframe.jpg"
+            src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
             alt="Management Story"
         />
     </div>
@@ -778,7 +783,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ring/midoribcgframe.jpg"
+            src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -791,7 +796,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ninjaclan/midoribcgframe.jpg"
+            src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -804,7 +809,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ninjaclan/chiakibcgframe.jpg"
+            src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -817,7 +822,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/ninjaclan/tetorabcgframe.jpg"
+            src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
             alt="Birthday Story"
         />
     </div>
@@ -836,7 +841,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/songs/ryuseitaiunitsong3rdcd.jpg"
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
                 alt="SUPER NOVA REVOLU5TAR"
             />
         </div>
@@ -848,7 +853,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/songs/ryuseitaiunitsong3rdcd.jpg"
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
                 alt="GROWING STARRY DAYS"
             />
         </div>
@@ -904,7 +909,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/songs/ryuseitaialbum.jpg"
+                src="/img/es/songs/ryuseitaialbum_300px.jpg"
                 alt="Ryuseitai Album Messages"
             />
         </div>
@@ -916,7 +921,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     <div class="story">
         <div class="image">
             <img
-                src="/img/banner/esscoutquotes.jpg"
+                src="/img/banner/esscoutquotes_300px.jpg"
                 alt="ES! 5* Scout Quotes"
             />
         </div>
