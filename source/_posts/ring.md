@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ring (Coming Soon!)"
-date: 2021-6-15 9:10:00
+date: 2021-6-23 9:00:00
 categories:
 - [Enstars, ES!!]
 tags:

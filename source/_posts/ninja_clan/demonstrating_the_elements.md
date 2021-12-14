@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Demonstrating the Elements"
-date: 2021-12-3 23:34:00
+date: 2021-11-30 9:04:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]

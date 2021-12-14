@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Tetora Mini Talk: Thrilling Gameplay"
-date: 2021/12/10 3:30:00
+date: 2021-12-1 9:04:00
 categories:
 - [Enstars, Tetora]
 tags:

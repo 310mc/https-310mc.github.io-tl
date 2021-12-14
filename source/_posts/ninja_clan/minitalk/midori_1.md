@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Midori Mini Talk: Relaxing Gameplay"
-date: 2021/12/7 23:00:00
+date: 2021-12-1 9:00:00
 categories:
 - [Enstars, Midori]
 tags:

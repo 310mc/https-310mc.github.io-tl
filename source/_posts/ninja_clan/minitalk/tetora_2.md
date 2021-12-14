@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Tetora Mini Talk: I Don't Get It"
-date: 2021/12/10 3:31:00
+date: 2021-12-1 9:05:00
 categories:
 - [Enstars, Tetora]
 tags:

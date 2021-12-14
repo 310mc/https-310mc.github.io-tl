@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Feeling Hopeful"
-date: 2021-12-3 23:33:00
+date: 2021-11-30 9:03:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]

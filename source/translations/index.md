@@ -870,7 +870,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
             />
         </div>
         <a href="https://ensemble-stars.fandom.com/wiki/Meteor_Scramble%E2%98%86RYUSEITAI_%28Lyrics%29" class="storyName" target="_blank">
-            <span>Meteor Scramble☆RYUSEITAI</span>
+            <span>Meteor Scramble☆<wbr>RYUSEITAI</span>
             <span class="read"></span>
         </a>
     </div>

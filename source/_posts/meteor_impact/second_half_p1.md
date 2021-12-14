@@ -1242,7 +1242,7 @@ Seeeriously? But it’s been Japan’s version of fast food for centuries now! E
 
 Oh well, guess no one’s familiar with that nowadays. I gotta keep up with the modern times, too—especially now that we’ve become westernized since the Meiji era.
 
-But anyway… I didn’t have any customers up until now, so I didn’t bother making any roasted onigiri yet… You’ll have to wait some time for yours.
+But aaanyway… I didn’t have any customers up until now, so I didn’t bother making any roasted onigiri yet… You’ll have to wait some time for yours.
 
 {% endbubble %}
 {% bubble Chiaki past %}

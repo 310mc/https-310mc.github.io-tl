@@ -1,13 +1,5 @@
 ---
-title: "[Enstars!!] Ninja Clan"
-date: 2021-12-10 9:00:00
-categories:
-- [Enstars, ES!!]
-- [Enstars, Ryuseitai]
-tags:
-- Event Story
-- Nishioka Maiko
-- Story Index
+title: "[ES!!] Ninja Clan"
 description: "[ES!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution…"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -21,7 +13,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    [Ensemble Stars!!] Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the basics…
+                    Mao informs Shinobu that Ninja Association will have its activities suspended. Shinobu consults with Tetora and Midori for help, but they can't come up with a foolproof solution. With no progress being made, Tetora suggests to go back to the basics…
                 </div>
                 <div class="info">
                     <div class="info-item season">

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Epilogue"
-date: 2021-12-5 18:00:00
+date: 2021-11-30 9:05:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Mayoi]

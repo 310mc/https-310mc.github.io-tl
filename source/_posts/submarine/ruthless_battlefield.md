@@ -403,7 +403,7 @@ Ossu. I’m sorry if I didn’t explain stuff very well.
 {% bubble Keito %}
 I don’t mind. Morisawa has a tendency to see everything in a good light far more than necessary, so I wanted an impartial explanation from someone else.
 
-Compared to him, for this reason you’re much better at explaining things than he is.
+You’re much better at explaining things than he is for this reason.
 {% endbubble %}
 
 {% bubble Tetora awkward %}
@@ -453,13 +453,13 @@ Don’t explain this situation as if we’re trapped in some sealed room for no 
 {% bubble Midori %}
 I don’t even know what half those words mean…
 
-Anyway, the region we’ve been assigned to is pretty simplistic compared to areas like the jungle or whatever—
+Anyway, Okinawa is pretty simplistic compared to areas like the jungle or whatever—
 
 To put it simply, it’s brutal out here.
 {% endbubble %}
 
 {% bubble Keito %}
-Thank you for the clear expression. Specifically, there seems to be a lot of live showdowns happening around the region.
+Thank you for the clear expression. Specifically, there seems to be a lot of live battles happening around the region.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -505,7 +505,7 @@ He’s the current leader of Ryuseitai, so we’ve been basically running around
 {% bubble Souma v3 %}
 Hmm, that is just like Morisawa-dono. He is always working hard to fulfill his duty for the sake of maintaining peace.
 
-He is an honorable man who loves peace and cherishes people. You have truly been blessed with good predecessors, Sengoku, Nagumo.
+He is an honorable man who loves peace and cherishes people. You have truly been blessed with a wonderful predecessor, Sengoku, Nagumo.
 {% endbubble %}
 
 {% bubble Tetora awkward %}

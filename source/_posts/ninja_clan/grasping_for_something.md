@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Grasping for Something"
-date: 2021-12-3 23:32:00
+date: 2021-11-30 9:02:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]

@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – Midori Mini Talk: Eeeggy-eggy-eggyplant"
-date: 2021/12/7 23:00:00
+date: 2021-12-1 9:01:00
 categories:
 - [Enstars, Midori]
 tags:

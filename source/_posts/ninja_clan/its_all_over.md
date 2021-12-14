@@ -1,6 +1,6 @@
 ---
 title: "Ninja Clan – It's All Over"
-date: 2021-12-3 23:31:00
+date: 2021-11-30 9:01:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Tetora]
