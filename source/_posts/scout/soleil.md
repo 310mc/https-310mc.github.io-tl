@@ -263,3 +263,5 @@ Hehe, that’s completely alright with me. I’ll prepare some sweets for you go
 {% bubble Mitsuru %}
 Woohoo\~! ♪ Ah, but that’d be more like Christmas than Halloween\~
 {% endbubble %}
+
+<div toc>{% btn /translations#Gacha-Stories,, star, Index %}</div>

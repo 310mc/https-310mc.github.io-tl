@@ -252,6 +252,10 @@ permalink: ushimairi_p2/
     </div>
 </div>
 
+## Chapter Index
+
+<a href="#The-Cursed-Ox-Statue-1">Ch 1</a> - <a href="#The-Cursed-Ox-Statue-2">Ch 2</a> - <a href="#The-Cursed-Ox-Statue-3">Ch 3</a> - <a href="#The-Cursed-Ox-Statue-4">Ch 4</a> - <a href="#The-Cursed-Ox-Statue-5">Ch 5</a> - <a href="#The-Cursed-Ox-Statue-6">Ch 6</a> - <a href="#The-Cursed-Ox-Statue-7">Ch 7</a> - <a href="#The-Cursed-Ox-Statue-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
+
 ## The Cursed Ox Statue 1
 
 {% note location %}
@@ -809,7 +813,9 @@ Was there any particular motive to put the statue here, I wonder…?
 Translation in Progress!
 {% endnote %}
 
-{% btn #Chapter-Index,, arrow-up, Back to Top %}
+<div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
+{% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
 
