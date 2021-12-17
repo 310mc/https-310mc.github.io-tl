@@ -377,6 +377,18 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/ushimairip2/yuzurubcgframe_300px.jpg"
+                alt="Ushimairi, Part Two"
+            />
+        </div>
+        <a href="/ushimairi_p2" class="storyName" target="_blank">
+            <span>Ushimairi, Part Two (In Progress!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
     <!--<div class="story">
         <div class="image">
             <img
