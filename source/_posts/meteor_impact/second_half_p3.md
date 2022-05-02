@@ -85,7 +85,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(Oh, wait— I think he’d need to ask the Student Council for permission first…)</th>
 
-<th>(I don’t wanna trouble Yuuki-kun — He’s still a first year, so I’m sure he doesn’t have much of a say in anything.)</th>
+<th>(I don’t wanna trouble Yuuki-kun—He’s still a first year, so I’m sure he doesn’t have much of a say in anything.)</th>
 
 <th>(Though considering how he is, I think he *would* try his best if I asked him.)</th>
 

@@ -1577,7 +1577,7 @@ Even so, we continued to pass on the contract that my ancestors had agreed upon.
 
 {% endbubble %}
 {% bubble Kanata past %}
-Ahh~… yes, i think they come Greet me quite often. as well as people from Other households.
+ahh~… yes, i think they come Greet me quite often. as well as people from Other households.
 
 you do it in order to never forget the crime you committed long ago.
 

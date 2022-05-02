@@ -268,7 +268,7 @@ permalink: senpai_turned_into_a_dog/
 ## Chapter 1
 
 {% note cw %}
-**Content Warning:** This story has mentions of animal euthanasia.
+**Content Warning:** This story has brief mentions of animal euthanasia in Chapter 2.
 {% endnote %}
 
 {% note location %}
@@ -392,7 +392,7 @@ Eeek—I-I’m wrong? Don’t bark, okay…?
 
 <th>(It kinda reminds me of someone I know… Wait—Could it be…?)</th>
 
-Um… I honestly doubt it, but… are you senpai…?
+Um… I honestly doubt it, but… are you Senpai…?
 
 Ahhh—! Please don’t bark! Was that a “yes”…?
 
@@ -565,7 +565,7 @@ There’s some good corn that just came in today…♪
 {% bubble Subaru %}
 Ahhh, no no! Takamin, you took care of Daikichi for me, right?
 
-The vice prez said something like that at the gym!
+The Vice Prez said something like that at the gym!
 {% endbubble %}
 
 {% bubble Midori %}

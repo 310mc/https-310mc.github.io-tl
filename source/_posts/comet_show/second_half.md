@@ -269,7 +269,7 @@ Yeah, yeah… What? Ahhh~ Okay, I’m sorry about that, but—
 {% bubble Chiaki serious %}
 <th>(Mm~… I have nothing to do while Takamine talks on the phone. Maybe I should check my work contacts on HoldHands while I have the time.)</th>
 
-<th>(In the end, the showrunners I’m working with ended up arguing over and over copyright issues and how to negotiate with the actors, which has put everything in a deadlock.)</th>
+<th>(In the end, the showrunners I’m working with ended up arguing over and over about copyright issues and how to negotiate with the actors, which has put everything in a deadlock.)</th>
 
 <th>(So the recording hasn’t made much progress, which gives me a lot of time to spare…)</th>
 

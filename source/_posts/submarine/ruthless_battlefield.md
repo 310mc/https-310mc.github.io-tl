@@ -572,6 +572,140 @@ Uuu, I assure you that it is not what you think it is, Shinkai-dono! I… I simp
 i’m not bullying anyone~ heroes never do that.
 {% endbubble %}
 
+## Chapter 6
+
+{% bubble Keito %}
+That aside, it’s crucial that we think about what to do from here on out in Okinawa, considering it seems to be an even more ruthless battlefield than rumored. I assume you guys will simply do whatever Morisawa intends, as he’s your leader.
+
+However, the idols that have been constantly competing against each other aren’t necessarily breaking any rules, are they? Do you even have the right to stop them?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Uuu… I can’t say you’re wrong about that, but…
+{% endbubble %}
+
+{% bubble Keito %}
+I suppose “heroes of justice” have always been known for this kind of thing since the olden times, but to be frank, you’re nothing but a bunch of rebels sacrificing yourselves to your own feelings rather than the rules of society.
+
+We’re nothing like you. If the situation in Okinawa is a hell swirling with war, then so be it. We will simply adapt to it, destroy the hordes of enemies, and move forward.
+
+We’re well-acquainted with live battles, as it’s our field of expertise. The current turmoil actually works in our favor.
+{% endbubble %}
+
+{% bubble Souma %}
+Indeed. After all, Hasumi-dono along with the previous student council were the ones who created the “la-i-ve” battle—the “do-reem-fes” system.
+
+It is a weapon we are quite familiar with utilizing.
+
+As proof of this, we effortlessly won the battle we were provoked into earlier. My wording may be a bit rude, but our opponents were so miniscule that I was rather worried for their safety.
+{% endbubble %}
+
+{% bubble Midori %}
+That’s basically what you can expect from the local idols here, to be honest…
+
+It’s why you’ll only ever hear stories about ES idols kicking the crap out of them…
+{% endbubble %}
+
+{% bubble Souma %}
+Oh, that is a bit of a surprise. We do not have any ties to the local area, and neither are we well-known here—
+
+Thus, I had thought that we would be at a disadvantage compared to the local “ai-dols” that have acquired their own fanbase in this region.
+
+After all, I assume the majority of the audience that come to watch the performances would be local ones.
+{% endbubble %}
+
+{% bubble Shinobu %}
+That doesn’t seem to be the case here, actually. Okinawa has always had a smaller population of local people compared to other prefectures.
+
+So you will notice that there are far more tourists who’ve crowded around places uninvited purely to watch SS—an amount large enough to stand out in the crowd.
+
+I believe the majority of the audience for the SS qualifying rounds are from outside the prefecture.
+{% endbubble %}
+
+{% bubble Midori %}
+Yeah… From what I’ve noticed from the few times we were on stage, there aren’t many local idol fans in the audience…
+
+It’s mostly just tourists and not much of anyone else…
+{% endbubble %}
+
+{% bubble Tetora %}
+It’s like, they’re here to cheer for the qualifying rounds, but also go sightseeing while they’re at it. I guess the locals wouldn't say no to more tourists in the area, but, man…
+
+Being surrounded in every corner and having my pictures taken by ‘em makes me feel like I'm some kinda exotic Okinawan animal.
+{% endbubble %}
+
+{% bubble Kanata %}
+fufufu\~, i’m pretty used to that feeling, though\~
+{% endbubble %}
+
+{% bubble Shinobu %}
+You do manage an aquarium, after all.
+{% endbubble %}
+
+{% bubble Souma %}
+…However, there is something I am not fully comprehending.
+
+According to the information we’ve received, Okinawa is a ruthless battlefield filled with many local powerhouses, and yet, the only conspicuous groups are ones originating from outside the prefecture.
+{% endbubble %}
+
+{% bubble Shinobu %}
+I’m not sure how credible that information is, though. It’s merely information we received beforehand from ES through HoldHands.
+
+We won't know how true that really is until we properly confirm it with our own two eyes.
+
+For now, it appears to me that ES is trying to manipulate us by deliberately twisting the information they provide us.
+{% endbubble %}
+
+{% bubble Keito %}
+Huh, I suppose I should have expected as much insight from Nito's assistant. So you know a thing or two on how to utilize information?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Oh no, no! My skills are nothing compared to Nito-dono and Yuuki-dono—
+{% endbubble %}
+
+{% bubble Midori %}
+I’ve been wondering this for a long while now, but is the Broadcasting Committee a spy organization or something…?
+{% endbubble %}
+
+{% bubble Tetora %}
+Anyway, what we're tryna say is that we don't wanna participate in fighting and crushing each other.
+
+Okinawa is completely at war. We wanna put an end to it as soon as possible so that we can do our idol activities properly.
+
+…I’m aware we probably don’t have the power to stop the fighting, but still—
+{% endbubble %}
+
+{% bubble Keito %}
+It would honestly be impossible. You wouldn’t even make a ripple if you threw a pebble into the torrent. Though, I suppose it *could* be possible if Shinkai were to perform a miracle like a God—
+{% endbubble %}
+
+{% bubble Shinobu %}
+Hm? What was that about Shinkai-dono?
+{% endbubble %}
+
+{% bubble Keito %}
+Ah, you guys wouldn’t know, would you? Well, it *was* from before your time.
+
+That having been said, the scale of the battle, the people involved, and everything else—all of it is much different from the Battle of the Sea God[^3], and neither do I think another miracle could come about like it did then.
+
+And we aren’t so wishy-washy as to wait idly, hoping for a miracle to happen. We're going to intervene in the war circulating in this region, and win every battle until we come out victorious in the qualifying rounds.
+{% endbubble %}
+
+{% bubble Kanata %}
+well, that’s what you’d expect from akatsuki, i suppose.
+{% endbubble %}
+
+{% bubble Keito %}
+No, this is simply my personal opinion. Kanzaki will be the one to decide what we do.
+{% endbubble %}
+
+{% bubble Souma %}
+Um, as I’ve inquired before, why do you continually redirect the decision-making onto me? I personally would prefer to follow your wishes…
+
+Could this mean that Hasumi-dono really *<em>has</em>* been told to abide by some sort of inauspicious order…?
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn https://verdantgrove.dreamwidth.org/14046.html,, arrow-left, Previous Chapter: Chapter 3 %}
@@ -582,3 +716,4 @@ i’m not bullying anyone~ heroes never do that.
 ## Translation Notes
 [^1]: This is a reference to a scene in Bleach. You will find it in Volume 34, Chapter 302.
 [^2]: The following areas refer to specific SS stories: Virtual Space → SHINSEKAI, Amusement park → Sanctuary, Desert → Sandstorm, Jungle → Satellite.
+[^3]: A reference to [Meteor Impact](https://310mc.github.io/meteor_impact/)

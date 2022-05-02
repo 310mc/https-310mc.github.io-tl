@@ -93,6 +93,40 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 }
 </style>
 
+## Translation Usage
+
+<style>
+.intro {
+  font-size:16px;
+}
+</style>
+
+<div class="intro">
+<p><b>These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.</b></p>
+<p style="color:blue"><b>I permit:</b></p>
+
+※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
+※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page.
+※ Using my __non-story translations__ (ex. card quotes, skill names, etc...) in the Enstars Wiki.
+※ Using my translations in quotebots, fanworks, story analysis, etc. You don't have to credit me unless you prefer to.
+※ Adjusting my translations in quotebots/fanworks/etc. for any of the following reasons:
+1. Changing the speech quirk for consistency/preference
+2. Adjusting pronouns to name, or name to pronoun for clarification
+3. Changing nicknames/namings for consistency/preference
+4. Adjusting grammar or punctuation for clarification
+
+I do __NOT__ permit changing the original intent/script of my translations. That would simply be a mistranslation of the original text, and I don't approve of that.
+
+<p style="color:red"><b>I do not permit:</b></p>
+
+※ Profiting off of my translations in any way. I don't do my unofficial translations for profit and I would like them to stay as __non-profit__. Please keep in mind that __unofficial translations are typically illegal__ and this would cause legal repercussions on both parties.
+<!--※ Using or screenshotting any of my translations to criticize ENGstars translations. While I can't stop people from doing this, I __highly discourage__ it for the following reasons:
+1. As an illegal fan-translator, I want to avoid having my translations be noticed by the company as much as possible.
+2. I personally support ENGstars and I don't want my translations used as a means to criticize the game's content. Even if it's extremely vital to criticize it, I don't feel comfortable seeing my translations used for it. If possible, please translate it by yourself for those situations!-->
+
+If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
+</div>
+
 ## Index
 
 **Ensemble Stars**
@@ -960,4 +994,4 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
     </div>
 </div>
 <br>
-<div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
+<div style="margin-bottom:5px">{% btn #Translation-Usage,, arrow-up, Back to Top %}</div>

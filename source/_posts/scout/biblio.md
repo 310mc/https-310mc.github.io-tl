@@ -1014,7 +1014,7 @@ If you're going to snarl at me then you’re on, come at me whenever.
 {% endbubble %}
 
 {% bubble Hajime %}
-……
+………
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1514,7 +1514,7 @@ Mm~ <th><em>(fumble)</em></th>…… *<th>(nibble nibble)</th>* ♪
 {% endbubble %}
 
 {% bubble Midori %}
-Ughh, don't eat my uniform… Eh, I’m going to keep getting bigger and need to buy a change of uniform anyway, so I guess it’s fine…
+Ughh, don't eat my uniform… Eh, I’m gonna keep getting bigger and need to buy a change of uniform anyway, so I guess it’s fine…
 {% endbubble %}
 
 {% bubble Tsumugi %}

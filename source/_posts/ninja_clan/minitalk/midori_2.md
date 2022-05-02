@@ -55,9 +55,9 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Ninja Clan. F
 {% bubble Midori %}
 I'm so sorry for making you help me with packing in the eggplants.
 
-I'm going to be sending this box of eggplants to Morisawa-senpai.
+I'm gonna be sending this box of eggplants to Morisawa-senpai.
 
-I sent him this type of urgent message the other day, but he arrived late to our meeting anyway. So this is going to be his punishment.
+I sent him this kind of urgent message the other day, but he arrived late to our meeting anyway, so this is gonna be his punishment.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -75,7 +75,7 @@ I sent him this type of urgent message the other day, but he arrived late to our
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Would this really be a punishment?
+            Would this really count as a punishment?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori smile %}
@@ -177,7 +177,7 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Will he be happy about it?
+            Will this make him happy?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}

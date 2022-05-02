@@ -93,7 +93,7 @@ No, no! It can't be *me* who's weird here~!
             {% bubble Tetora %}
             Huh? You know 'bout it, Anego?
 
-            Midori-kun sent a fishy message to Morisawa-senpai, but he managed to understand it just fine, and I just don't get how…
+            Midori-kun sent a fishy message to Morisawa-senpai, but he managed to understand it just fine, and I don't get how…
 			{% endbubble %}
         </div>
     </div>

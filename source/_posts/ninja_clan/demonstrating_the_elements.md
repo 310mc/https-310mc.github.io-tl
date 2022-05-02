@@ -104,7 +104,7 @@ Mhm, it looks good. It’s so cute…
 {% bubble Tetora v2 %}
 Huh? *Cute?*
 
-Ah—! You’re talking about the frog doodle next to the outfit, arentcha?
+Ah—! You’re talking 'bout the frog doodle next to the outfit, arentcha?
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -144,7 +144,7 @@ I thought you had no interest in fashion like me…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Nah, I really don’t have any interest in it either, but my roommate Narukami-senpai is pretty fashionable, so she gives me advice about a lotta things. That’s why I know a bit about this stuff.
+Nah, I really don’t have any interest in it either, but my roommate Narukami-senpai is pretty fashionable, so she gives me advice 'bout a lotta things. That’s why I know a bit 'bout this stuff.
 {% endbubble %}
 
 {% bubble Midori sigh %}

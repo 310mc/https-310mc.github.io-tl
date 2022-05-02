@@ -39,30 +39,6 @@ I'm most likely to translate the following content:
 
 ※ Translate [Chiaki's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa/Sub_Story)
 
-## Translation Usage
-
-**These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.**
-
-**I permit:**
-
-※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
-※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page.
-※ Using my __non-story translations__ (such as card quotes, skill names, synopsis, etc...) in the Enstars Wiki.
-※ Using my translations in quotebots. You don't have to credit me unless you prefer to.
-※ Adjusting my translations in quotebots for any of the following reasons:
-1. Changing the speech quirk for consistency/preference
-2. Adjusting pronouns to name, or name to pronoun for clarification
-3. Changing nicknames/namings for consistency/preference
-4. Adjusting grammar or punctuation for clarification
-
-I do **NOT** permit changing the original intent/script of my translations for quotebots. That would simply be a mistranslation, and I don't approve of that.
-
-**I do not permit:**
-
-※ Profiting off of my translations in any way. I don't do my unofficial translations for profit and I would like them to stay as **non-profit**. Please keep in mind that **unofficial translations are typically illegal** and this would cause legal repercussions on both parties.
-
-If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
-
 ## Reporting Mistakes
 
 If you ever spot a typo, mistranslation, grammar or punctuation error in my translations;

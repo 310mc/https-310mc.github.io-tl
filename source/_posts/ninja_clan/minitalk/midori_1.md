@@ -75,7 +75,7 @@ Ah, good afternoon. I have my meeting with you today, right?
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Maybe I came too early…
+            Maybe I arrived too early…
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
