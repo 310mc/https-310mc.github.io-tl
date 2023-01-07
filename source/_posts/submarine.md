@@ -70,7 +70,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Translation
                         </div>
                         <div class="value">
-                            <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                            <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -78,7 +78,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
+                            ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                          <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -171,7 +171,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>
+                            ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                 </div>
@@ -206,10 +206,10 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kanataorigcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/kuroorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Prologue
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -222,10 +222,26 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Nirai-Kanai 6
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/submarine/soumaorigcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Nirai-Kanai 13
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/submarine/kurobcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Epilogue 2
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -233,15 +249,15 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <img src="/img/es/eventstory/submarine/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/submarine/soumabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 5
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -249,7 +265,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                                     <img src="/img/es/eventstory/submarine/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 5
                                 </div>
                             </div>
                         </div>
@@ -269,16 +285,16 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                             <a href="ruthless_battlefield/#Chapter-3" id="none">3</a>
                             <a href="ruthless_battlefield/#Chapter-4" id="none">4</a>
                             <a href="ruthless_battlefield/#Chapter-5" id="none">5</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <a href="ruthless_battlefield/#Chapter-6" id="none">6</a>
+                            <a href="ruthless_battlefield/#Chapter-7" id="none">7</a>
+                            <a href="ruthless_battlefield/#Chapter-8" id="none">8</a>
+                            <a href="ruthless_battlefield/#Chapter-9" id="none">9</a>
+                            <a href="ruthless_battlefield/#Chapter-10" id="none">10</a>
+                            <a href="https://verdantgrove.dreamwidth.org/15809.html" id="none">11</a>
+                            <a href="https://verdantgrove.dreamwidth.org/15894.html" id="none">12</a>
                         </li>
                         <li>
-                            <span>Nirai Kanai</span>
+                            <span>Nirai-Kanai</span>
                             <a href="TBA" id="none">x</a>
                             <a href="TBA" id="none">x</a>
                             <a href="TBA" id="none">x</a>
@@ -309,8 +325,8 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Okinawa Red!</a>
+                            <a href="minitalk/chiaki_2" id="none">Troubled Hero</a>
                             </div>
                         </div>
                     </div>

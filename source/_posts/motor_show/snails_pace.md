@@ -419,7 +419,7 @@ Something just as important as my own life… Huh, nothing comes to mind, actual
 {% endbubble %}
 
 {% bubble Mayoi %}
-Chiiief~ You’re dear to <em>me</em>— I’m engrossed in you! I wouldn’t even feel pain if you were inside my eyes…☆
+Chiiief~ You’re dear to <em>me</em>— I’m engrossed in you! You’re the apple of my eye…☆
 {% endbubble %}
 
 {% bubble Shinobu %}

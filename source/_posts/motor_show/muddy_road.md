@@ -778,7 +778,7 @@ Does that mean you’re planning on joining this job with us? Weren’t you busy
 {% bubble Kanata %}
 not at all. there's hardly a ripple in my life these days, compared to the stormy seas of last year.
 
-i’ve managed to clear up my family problems at this point~
+i’ve managed to clear up my home problems at this point~
 
 also, chiaki asked me to take care of all of you.
 {% endbubble %}

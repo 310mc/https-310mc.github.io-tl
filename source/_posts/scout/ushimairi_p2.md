@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Ushimairi, Part Two (In Progress!)"
+title: "[ES!!] Ushimairi, Part Two (On Hold)"
 date: 2021-12-14 21:00:00
 categories:
 - [Enstars, ES!!]
@@ -20,6 +20,11 @@ tags:
 description: "[ES!!] Alkaloid moves into the new dorm without any problems, but a wooden carving of an ox seems to have been left behind in their old dorm. Yuzuru attempts to look for its owner to no avail…"
 permalink: ushimairi_p2/
 ---
+
+{% note narration %}
+This translation is **on hold**. It is not guaranteed that it will be completed.
+{% endnote %}
+
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/scoutstory/ushimairip2/yuzurubcgframe.jpg')"></div>
@@ -254,7 +259,7 @@ permalink: ushimairi_p2/
 
 ## Chapter Index
 
-<a href="#The-Cursed-Ox-Statue-1">Ch 1</a> - <a href="#The-Cursed-Ox-Statue-2">Ch 2</a> - <a href="#The-Cursed-Ox-Statue-3">Ch 3</a> - <a href="#The-Cursed-Ox-Statue-4">Ch 4</a> - <a href="#The-Cursed-Ox-Statue-5">Ch 5</a> - <a href="#The-Cursed-Ox-Statue-6">Ch 6</a> - <a href="#The-Cursed-Ox-Statue-7">Ch 7</a> - <a href="#The-Cursed-Ox-Statue-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#The-Cursed-Ox-Statue-1">Ch 1</a> - <a href="#The-Cursed-Ox-Statue-2">Ch 2</a> - <a href="#The-Cursed-Ox-Statue-3">Ch 3</a> <!--- <a href="#The-Cursed-Ox-Statue-4">Ch 4</a> - <a href="#The-Cursed-Ox-Statue-5">Ch 5</a> - <a href="#The-Cursed-Ox-Statue-6">Ch 6</a> - <a href="#The-Cursed-Ox-Statue-7">Ch 7</a> - <a href="#The-Cursed-Ox-Statue-8">Ch 8</a>--> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## The Cursed Ox Statue 1
 
@@ -810,7 +815,7 @@ Was there any particular motive to put the statue here, I wonder…?
 {% endbubble %}
 
 {% note narration %}
-Translation in Progress!
+This translation is **on hold**.
 {% endnote %}
 
 <div toc>

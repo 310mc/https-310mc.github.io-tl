@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Chiaki Morisawa Birthday"
-date: 2021/9/18 9:00:00
+date: 2022/9/18 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -12,6 +12,10 @@ categories:
 - [Enstars, Hiiro]
 - [Enstars, Subaru]
 - [Enstars, Adonis]
+- [Enstars, Kaoru]
+- [Enstars, Mao]
+- [Enstars, Hokuto]
+- [Enstars, Shu]
 tags:
 - Mini Talk
 - Birthday Story
@@ -35,6 +39,10 @@ description: "[ES!!] Translation of Chiaki's birthday content from Enstars!! Era
                 <a href="/categories/Enstars/Kuro" character="Kuro"></a>
                 <a href="/categories/Enstars/Subaru" character="Subaru"></a>
                 <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+                <a href="/categories/Enstars/Shu" character="Shu"></a>
+                <a href="/categories/Enstars/Mao" character="Mao"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -58,7 +66,7 @@ description: "[ES!!] Translation of Chiaki's birthday content from Enstars!! Era
                 Era
                 </div>
                 <div class="value">
-                ES!! (2020–2021)
+                ES!! (2020–2022)
                 </div>
             </div>
         </div>
@@ -78,6 +86,15 @@ Thank you for celebrating my birthday, Producer! I'll always hold on to the feel
 {% bubble Chiaki %}
 Ohh, a present for me!? Thank you so much, Producer! I’ll make sure to repay you! Look forward to seeing what you get for your birthday!
 {% endbubble %}
+
+**2022**
+{% bubble Chiaki %}
+Thank you! As I grow older, I believe that I'm capable of presenting an even more evolved "Morisawa Chiaki" than ever before. Look forward to seeing how much I've grown! ☆
+{% endbubble %}
+
+## Party at the Agency (2020)
+
+Birthday event translation can be found on the [Wiki](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Party_at_the_Agency).
 
 ## Birthday Story
 
@@ -203,7 +220,7 @@ I also prepared a present, so please open it at a later time, if that's alright 
 Ha ha ha!! ♪ It's a present you bought just for me, so I'll be happy with anything! Thank you so much, Hero-kun…☆
 {% endbubble %}
 
-## Birthday Event
+## Birthday Event (2021)
 
 ### Event Preparations
 
@@ -252,7 +269,7 @@ Hm? There’s something else you need to tell me? What is it?
             {% bubble Chiaki %}
             Oh, then I’ll ask Ryuseitai to join t—Huh? It’s only going to be me?
 
-            Ohhh, I get it now! You’re holding an event for my birthday? Yeah, the one some of my Ryuseitai comrades did. I was really looking forward to doing it, too!
+            Ohhh, I get it now! You’re holding an event for my birthday? Yeah, the one my Ryuseitai comrades did. I was really looking forward to doing it, too!
 			{% endbubble %}
         </div>
     </div>
@@ -358,7 +375,7 @@ I had a lot of fun today! Thank you, Anzu…♪
 <hr>
 {% img /img/es/birthdaystory/es2/chiaki/birthdayevent.jpg %}
 
-### Opening Talk
+### Opening Speech
 {% bubble Chiaki %}
 Hey, everyone! Thank you so much for coming over to my birthday event!
 
@@ -375,7 +392,7 @@ Alright, are you ready? Let’s get things started!
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Question Corner
+### Question Segment
 {% bubble Chiaki %}
 Let’s start with the Question Corner! All your questions are on this card, so let’s get through them!
 Right, first question! “Have you ever felt scared while doing your stunts?”
@@ -393,11 +410,11 @@ Oh, and I love how it’s always about justice prevailing no matter what!
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Request Corner
+### Request Segment
 {% bubble Chiaki %}
-Next up: the Request Corner! Thank you for all your requests! The one I’ll be doing is… “I want to see your basketball skills”!
+Next up: the Request Segment! Thank you for all your requests! The one I’ll be doing is… “I want to see your basketball skills”!
 
-I wasn’t sure what to do for this, but I’ve decided to start from the basics, which is dribbling! We’ve got some evenly-spaced cones here, so I’ll be dribbling through them!
+I wasn’t sure what to do for this, but I decided to start from the basics, which is dribbling! We’ve got some evenly-spaced cones here, so I’ll be dribbling through them!
 
 …♪ All this dribbling reminds me of the days I’d play basketball with Akehoshi, Isara, and Takamine.
 
@@ -412,7 +429,7 @@ This is commonly taught in school, so you might’ve already seen it before. I�
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Surprise Corner
+### Surprise Segment
 {% bubble Chiaki %}
 …Hm? The staff brought over a present box. May I open it?
 
@@ -422,7 +439,7 @@ Alright, I got the OK! Let’s go!
 
 Can you guys see it from your seats? It says “Happy birthday” in the middle, with stars in our colors all over the card! It’s so cool!
 
-I got another card from Sports Survival, and the last one is from Shin Circle! They’ve all got such heart-warming messages written on them…!
+I got another card from Sports Survivors, and the last one is from Shin Circle! They’ve all got such heart-warming messages written on them…!
 
 Oh, I can’t hold back my happiness anymore! I feel so much warmth deep in my soul…! I’ll take my sweet time reading them later, and engrave their messages deep inside me…!
 {% endbubble %}
@@ -431,7 +448,7 @@ Oh, I can’t hold back my happiness anymore! I feel so much warmth deep in my s
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Ending Talk
+### Closing Speech
 {% bubble Chiaki %}
 Everything comes to an end, huh… I knew that already, but it’s still sad to need to say goodbye to everyone.
 
@@ -446,9 +463,243 @@ I’ll keep working hard to the best of my abilities as a hero and an idol!
 So please keep cheering for Ryuseitai! I hope I get to see you all again sometime!
 {% endbubble %}
 
+## Party with Everyone (2022)
+
+### Party Event
+
+#### <div mt="rare"></div> 1/3
+
+{% img /img/es/birthdaystory/es2/chiaki/partyevent_1.jpg %}
+
+{% bubble Chiaki %}
+Ohh! What beautiful decorations…♪
+
+I enjoy celebrating birthdays in general, but it's all the more exciting when it's your turn…☆
+
+Hmm? What do you have behind your back, Anzu?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            It's a present for you.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Oh…? This is the plushie bear Takamine and Kanata had on them! ♪
+
+            Thank you, I was really looking forward to getting mine, to be honest! ☆
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Please clip this on.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Ohh? So it was the birthday cookie bear, huh!? I see it's got a pin to hold it in place.
+
+            Thank you, Anzu! Alright, I'll clip it on right away!
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 2/3
+
+{% img /img/es/birthdaystory/es2/chiaki/partyevent_2.jpg %}
+
+{% bubble Chiaki %}
+Anzu! Are you enjoying yourself at my party?
+
+Wh—You haven't eaten yet!?
+
+Alrighty, let's go get some together then! I was just about to grab food for myself, so we could do it together! ♪
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Thank you.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Mhm, I'm happy you accepted my offer. Aaalrighty then, let's eat to our heart's content~♪
+
+            Eat as much as you like, and just relax and enjoy the party! That would be the greatest gift you could give me…☆
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Aren't you feeling tired…?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Fuhahahaha! ☆ No need to worry about me, Anzu!
+
+            Look at me, I'm feeling better than ever! Don't look down on me, Anzu! I've gone through a massive power up the past year, you know? ☆
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 3/3
+
+{% bubble Chiaki %}
+Whew, time to rest now that the party's over.
+
+I got to enjoy my time chatting and laughing with friends, have a great feast, and receive blessings from people for all my hard work and growth… It's been such a wonderful day.
+
+I feel further motivated to work hard as a hero, so that I could even protect such peaceful, joyful times as this!
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I'm cheering for you.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Hearing you say that gives me courage!
+
+            I'd love it if you could watch over me and support me from close-by. Is that alright, Anzu? ♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I'll support you.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Chiaki %}
+            Thank you, Anzu. We've only come this far because of all your support.
+
+            Ryuseitai will continue to protect everyone's smiles! So please lend us your strength as a fellow comrade, Anzu!
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+<hr>
+{% img /img/es/birthdaystory/es2/chiaki/partywitheveryone.jpg %}
+
+### Opening Speech
+{% bubble Chiaki %}
+Thanks for coming to my birthday party, everyone!
+
+We don't tend to get many opportunities to gather all in the same place, so I really mean it when I say I'm happy to see you all here…♪
+
+And for that reason, I want us all to have a blast together!
+
+Enjoy yourselves to your heart's content today! ☆ Alright, that's all I wanted to say!
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Enjoy yourselves to your heart's content~♪">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/4/42/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="I really hope you have fun with me! ☆">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Food Talk
+{% bubble Kaoru %}
+Yoohoo, Moricchi! Happy birthday~♪
+{% endbubble %}
+
+{% bubble Chiaki %}
+Thank you, Hakaze! Nothing makes me happier than being wished a happy birthday directly…♪
+
+Oh yeah, I left some pancakes for you over there, so go ahead and eat them! You're free to add as much cream as you like, too! ☆
+{% endbubble %}
+
+{% bubble Kaoru %}
+Woah, you remembered my favorite food?
+
+That reminds me though, there was a lot of French fries prepared, too. It's your birthday and all, so eat up as much as you like.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Oh! So we both remembered each other's favorite food, huh? I truly feel our bond of friendship…☆
+{% endbubble %}
+
+{% bubble Kaoru %}
+Ahaha, you're over-exaggerating… But hey, since it's your birthday party, let's eat together. We'll grab some drinks, too~♪
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/9/98/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_12.png" width="150" data-tippy-content="It's a whole pile of French fries~! ♪">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/3/38/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_9.png" width="150" data-tippy-content="Hmm, what to eat first…">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Presents from ES Idols
+{% bubble Chiaki %}
+Wow, I didn't expect to be surrounded by so many presents…!
+
+Everyone brought all these presents, just for me…! Uuu, I'm getting so emotional just thinking about it…
+
+Alrighty, I'll start by opening this one up!
+{% endbubble %}
+
+{% bubble Adonis %}
+That would be my gift. Happy birthday, Morisawa-senpai.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Ohhh!? This is yours, Otogari!? Is it meat? Tell me, is it meat!?
+{% endbubble %}
+
+{% bubble Adonis %}
+I would love to say yes, but I gifted you something else. It would have been difficult to prepare meat as a birthday present. I do hope you'll like it, however…
+{% endbubble %}
+
+{% bubble Chiaki %}
+Alright, let me see… Ohh, a gym bag!? This'll come in handy for both Shin *and* Sports Survivors! ♪ Thank you, Otogari!
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="I'll make great use of this!">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c5/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_10.png" width="150" data-tippy-content="I feel enveloped by everyone's kindness!">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Birthday Wishes from ES Idols
+{% bubble Chiaki %}
+Ah, there he is! Heeey, Takamine\~!! ☆ Are you eating well\~!?
+{% endbubble %}
+
+{% bubble Midori %}
+Uuu… This is so embarrassing, I just *had* to have the main lead of the party yell out for me, and then start getting insanely worried over me in front of <em>everybody</em>… He's so insensitive…
+{% endbubble %}
+
+{% bubble Mao %}
+Aw c'mon, it just means that you're getting doted on by Morisawa-senpai, right?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Ohh! Isara, you were with Takamine!? I assure you that both of you are my adorable juniors! There, there, c'mere~! ☆
+{% endbubble %}
+
+{% bubble Mao %}
+Ahaha, your habit of hugging as soon as you can hasn't changed, huh?
+{% endbubble %}
+
+{% bubble Midori %}
+Meh, I'll go along with it for today… Since you just love to goof off with your juniors no matter how old you get…
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_4.png" width="150" data-tippy-content="All my juniors are adorable…☆">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Chiaki_Morisawa_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I'll be sure to make it fun next year, too!">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Closing Speech
+{% bubble Chiaki %}
+Time sure flies when you're having fun…
+
+I told you all to enjoy yourselves to your heart's content, but I think *I'm* the one who ended up having fun the most…
+
+But I enjoyed myself this much *because* you were all laughing and having a great time! Your smiles were the best present I could have~♪
+
+As both a hero and an idol, I'll work harder than ever for the sake of seeing your wonderful smiles on my next birthday! ☆
+{% endbubble %}
+
 ## Birthday Cake Interactions
 
-List of the office interactions that appear when the specified character gifts a present to Chiaki.
+List of office interactions that appear when the specified character gifts a present to Chiaki.
 
 {% img /img/es/birthdaystory/es2/chiaki/bdaycake.png %}
 
@@ -522,6 +773,24 @@ You're always helping me out, after all.
 {% endbubble %}
 {% bubble Chiaki %}
 Oh, don't sweat it! That goes for both of us, since we're roommates…☆
+{% endbubble %}
+
+<hr>
+
+{% bubble Hokuto %}
+I hope we can work together again.
+{% endbubble %}
+{% bubble Chiaki %}
+Me too! I look forward to it!
+{% endbubble %}
+
+<hr>
+
+{% bubble Shu %}
+Compose yourself a little.
+{% endbubble %}
+{% bubble Chiaki %}
+You got it! Look at how much I've grown!
 {% endbubble %}
 
 <div toc>{% btn /birthday_story/chiaki_es,, arrow-left, ES! Era Birthday %}{% btn /birthday_story,, star, Index %}</div>

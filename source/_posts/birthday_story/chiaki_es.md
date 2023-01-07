@@ -403,7 +403,7 @@ Oh come *on*, Chi~chan-senpai! I'm here to celebrate your birthday, so sit down 
 {% bubble Mao %}
 Buchou, happy birthday~♪
 
-I think Anzu already invited you for it, but do you still have time after this?
+I think Anzu already invited you for it, but—do you still have time after this?
 
 Would you like to go to a fast food restaurant with everyone? Subaru mentioned he wants to go home only after eating somewhere outside, so~♪
 

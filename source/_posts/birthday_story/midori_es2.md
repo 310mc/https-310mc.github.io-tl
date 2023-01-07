@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Midori Takamine Birthday"
-date: 2021/8/29 9:00:00
+date: 2022/8/29 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -12,6 +12,11 @@ categories:
 - [Enstars, Mao]
 - [Enstars, Hajime]
 - [Enstars, Tsumugi]
+- [Enstars, Natsume]
+- [Enstars, Hinata]
+- [Enstars, Yuzuru]
+- [Enstars, Subaru]
+- [Enstars, Niki]
 tags:
 - Mini Talk
 - Birthday Story
@@ -35,6 +40,11 @@ description: "[ES!!] Translation of Midori's birthday content from Enstars!! Era
                 <a href="/categories/Enstars/Mao" character="Mao"></a>
                 <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                 <a href="/categories/Enstars/Tsumugi" character="Tsumugi"></a>
+                <a href="/categories/Enstars/Natsume" character="Natsume"></a>
+                <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                <a href="/categories/Enstars/Hinata" character="Hinata"></a>
+                <a href="/categories/Enstars/Niki" character="Niki"></a>
+                <a href="/categories/Enstars/Subaru" character="Subaru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -58,7 +68,7 @@ description: "[ES!!] Translation of Midori's birthday content from Enstars!! Era
                 Era
                 </div>
                 <div class="value">
-                ES!! (2020–2021)
+                ES!! (2020–2022)
                 </div>
             </div>
         </div>
@@ -79,7 +89,12 @@ Uwaah, thank you for doing all of this for me…! You even prepared a mascot-the
 I didn’t expect so many people to celebrate my birthday. I’m honestly surprised, but I’m really happy…♪
 {% endbubble %}
 
-## Party at the Agency
+**2022**
+{% bubble Midori %}
+Thank you so much…♪ I think I grew a little bit more this year.  …and I don't just mean my height.
+{% endbubble %}
+
+## Party at the Agency (2020)
 
 #### <div mt="rare"></div> 1/3
 {% img /img/es/birthdaystory/es2/midori/party_1.jpg %}
@@ -362,7 +377,7 @@ Keep tomorrow's plans for tomorrow, and for today, let's celebrate your birthday
 {% endbubble %}
 
 {% bubble Midori %}
-"All we've got"… Ahaha, you sure are full of energy, Tetora-kun.
+"All we've got"…? Ahaha, you sure are full of energy, Tetora-kun.
 {% endbubble %}
 
 ### With Shinobu
@@ -409,7 +424,7 @@ Ah, yes… If you're fine with talking to me, then I'd be glad to.
 
 **ENG Proofread:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
 
-## Birthday Event
+## Birthday Event (2021)
 
 ### Event Preparations
 
@@ -564,7 +579,7 @@ Since it’s a special event and all, could I have more time to think about that
 <hr>
 {% img /img/es/birthdaystory/es2/midori/birthdayevent.jpg %}
 
-### Opening Talk
+### Opening Speech
 {% bubble Midori %}
 Umm… Thank you for coming over to my birthday event, everyone.
 
@@ -583,7 +598,7 @@ I hope you can enjoy this the whole way…
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Question Corner
+### Question Segment
 {% bubble Midori %}
 First up is the question corner. I still don’t know what questions I’ve gotten, so I really hope it’s something I can answer…
 
@@ -602,7 +617,7 @@ Mm… I can’t *not* say Kana-tee, but the veggie mascot that shows up in comme
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Request Corner
+### Request Segment
 {% bubble Midori %}
 Alright, now it’s the request corner. Thank you for all your requests, everyone.
 
@@ -623,7 +638,7 @@ Oh well, I’ll do it then. Here goes—
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Surprise Corner
+### Surprise Segment
 {% bubble Midori %}
 Next request is… Wait, huh? The screen went dark…
 
@@ -642,7 +657,7 @@ You caught me by surprise, but I’m really glad to know that you wanted to do t
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 
-### Ending Talk
+### Closing Speech
 {% bubble Midori %}
 I almost forgot this event was gonna have to come to an end…
 
@@ -657,9 +672,249 @@ But it really, really made me feel better. Whenever I’m having a hard time at 
 I’m still a novice hero, but… I’ll be working hard to grow as Ryuseitai’s Ryusei Green, so please do watch over me~♪
 {% endbubble %}
 
+
+## Party with Everyone (2022)
+
+### Party Event
+
+#### <div mt="rare"></div> 1/3
+
+{% img /img/es/birthdaystory/es2/midori/partyevent_1.jpg %}
+
+{% bubble Midori %}
+(Hrmm… Anzu-san only called for me here, so I'm betting it's gonna be for the birthday party…)
+
+(But what if it *isn't* that…? I'm gonna be so embarrassed if I've actually got a lecture coming for me…)
+
+Umm, excuse me, Anzu-san. Did you need me for something…?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Here you go.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            Oh, you're giving me this bear…? So it was about my birthday party after all…♪
+
+            I was really worried you were gonna scold me, so I'm glad… The bear is adorable, thank you so much…♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I wanted to give this to you.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            Oh, the bear that the birthday idol gets, right? I actually wanted one of my own ever since I heard about it…♪
+
+            It's not a mascot or anything, but I love how fluffy and cute it is…♪ Thank you, I'll take good care of it.
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 2/3
+
+{% img /img/es/birthdaystory/es2/midori/partyevent_2.jpg %}
+
+{% bubble Midori %}
+Ah—Anzu-san. I'm so sorry, I couldn't get the chance to talk to you from how busy the party has been.
+
+I'm the "main protagonist" for today, so I thought I should actually put in the effort…
+
+Uu… But I've been so nervous that I've barely eaten anything… I'm starving…
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Would you like something to eat?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            Yeah, I'd like that. I'll go fetch something to eat.
+
+            I'm excited to try the food out, I heard they used our greengrocer's veggies…♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Would you like to eat this?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            Ah—You brought me a plate? Thank you so much…♪
+
+            Waah~! I love this kinda food…! Thank you, I feel a weight off my back somehow…♪
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+
+#### <div mt="rare"></div> 3/3
+
+{% bubble Midori %}
+Whew, it ended safely somehow…
+
+I hope people weren't bored with my party, though…
+
+What do you think, Anzu-san…? Was it fun…?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            It was perfect! I'd give it 100 points!
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            Huh!? You don't mean 100 points out of 1000, right…!?
+
+            I know I can trust your words, so… I guess I can gladly say I enjoyed today…♪ Thank you so much for what you've done for my party.
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Everyone looked like they were having fun!
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Midori %}
+            I'm glad to hear that.  …Yeah, now that I think about it, everyone was smiling around me.
+
+            I also had lots of fun celebrating my birthday with everyone… I'm so happy…♪
+			{% endbubble %}
+        </div>
+    </div>
+</div>
+<hr>
+{% img /img/es/birthdaystory/es2/midori/partywitheveryone.jpg %}
+
+### Opening Speech
+{% bubble Midori %}
+Ummm, thank you all for coming here today…
+
+To be honest, I feel sorta bad to have so much prepared just for *me*… But I enjoyed everyone else's birthday parties, so…
+
+I'd like to make sure you all enjoy mine just the same, instead of regretting coming by… so I hope you enjoy yourselves here…
+
+(…Uuu… Maybe I'm being way too self-conscious by thinking they're all here just for my sake… I'm so embarrassed…)
+
+(But I think it should be fine to admit it, just for today… After all, everyone prepared this just for me, so I gotta show confidence in myself for once…!)
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/Midori_Takamine_Work_Birthday_Flowers_Chibi_1.png" width="150" data-tippy-content="Are things gonna be okay with me in the spotlight…?">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="It's nerve-wracking having so many eyes on me…">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Food Talk
+{% bubble Yuzuru %}
+Takamine-sama, happy birthday.
+{% endbubble %}
+
+{% bubble Midori smile %}
+——!? You came to my party, too, Master Artist!? Waaah, this is already proving to be the best day ever…! ☆
+
+Come on in, there's all kinds of food, so eat as much as you like! Use it as nourishment for your craft…♪
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Thank you very much. Oh? Are those vegetables from…?
+{% endbubble %}
+
+{% bubble Midori smile %}
+Yeah, they cooked this with veggies from my family's greengrocer…♪ I can assure you our veggies are top-notch…! ☆
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Oh my, I can't wait to dig in, then…♪ If you don't mind, allow me to pick up a plate for you, too, Takamine-sama.
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="They're using our veggies…♪">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Midori_Takamine_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="I'm so glad there's pizza, too…♪">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Presents from ES Idols
+{% bubble Midori %}
+There are so many presents… Which one should I start from…? Uuu, my stomach hurts all of a sudden…
+
+I guess I'll start from the far end…?
+{% endbubble %}
+
+{% bubble Hinata %}
+Oh! You've got good taste, Midori-kun! That's my birthday present\~♪ I'm so happy I was picked first\~!
+{% endbubble %}
+
+{% bubble Midori %}
+This is yours, Hinata-kun…? Whew, I'm glad to start from a friend… Thank you.
+{% endbubble %}
+
+{% bubble Hinata %}
+Ahaha, I never expected to see the day you'd call me that! Let's keep being friends, 'kay? ♪
+{% endbubble %}
+
+{% bubble Midori %}
+Yeah, let's…♪
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="I can't believe these are all for me…">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I hope I can repay everyone, somehow…">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Birthday Wishes from ES Idols
+{% bubble Kanata %}
+midori\~♪ i want to say it again: happy birthday\~♪
+{% endbubble %}
+
+{% bubble Midori %}
+Shinkai-senpai… and Sakasaki-senpai? Ah, um, thank you for all your help at Gardenia…
+{% endbubble %}
+
+{% bubble Natsume %}
+Thank you, as Well. You're partly why we manage to grow a lot of delicious Vegetables.
+
+As a special Treat, I'll tell you your fortune for this Year…♪ Could you pick a card from this Deck?
+{% endbubble %}
+
+{% bubble Midori %}
+Um, is it really okay…? Umm, then… I wonder which card I should go for…
+
+Okay, I'll take this one…!
+{% endbubble %}
+
+{% bubble Natsume %}
+…Hmm, what you've chosen means… While you may face hardships during the Year, you are also blessed with wonderful Teammates. I believe that you'll be fine as long as you cherish your Friends.
+{% endbubble %}
+
+{% bubble Kanata %}
+fufufu, then i'll be sure to support midori as best as i can, so please cherish me well, midori\~ okay? ♪
+{% endbubble %}
+
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Midori_Takamine_Work_Birthday_Flowers_Chibi_8.png" width="150" data-tippy-content="I hope a good year's ahead of me…♪">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="It's ending already…? That's kind of a shame…">
+:-:|:-:
+<center><i>Hover/Click the chibi to see the quote!</i></center>
+
+### Closing Speech
+{% bubble Midori %}
+Thank you all for coming today. I had a lot of fun thanks to everyone…
+
+…Um, is it just me, or does Morisawa-senpai have tears in his eyes…? …You're getting emotional 'cause of how much I've grown…?
+
+Uuu, this is super embarrassing somehow… Never mind, I'm ending my speech here… I forgot everything I wanted to say 'cause of Morisawa-senpai.
+
+…But… I should be grateful that there *are* people who're happy to see me grow, shouldn't I?
+
+I'll keep working hard on improving myself, as both an ally and a rival… So I hope we can continue supporting each other.
+{% endbubble %}
+
+
 ## Birthday Cake Interactions
 
-List of the office interactions that appear when the specified character gifts a present to Midori.
+List of office interactions that appear when the specified character gifts a present to Midori.
 
 {% img /img/es/birthdaystory/es2/midori/bdaycake.png %}
 
@@ -669,7 +924,7 @@ List of the office interactions that appear when the specified character gifts a
 Strengthen your justice power with this!
 {% endbubble %}
 {% bubble Midori %}
-What the heck is “justice power?”
+What the heck is “justice power”?
 {% endbubble %}
 
 <hr>
@@ -714,7 +969,7 @@ I’ll make sure to get my happiness on my own, too.
 Here's my present for ya!
 {% endbubble %}
 {% bubble Midori %}
-What did you get me? Is it mascot merchandise, or is it manga?
+What did you get me? Is it mascot merch, or is it manga?
 {% endbubble %}
 
 <hr>
@@ -729,10 +984,28 @@ I'd be glad to eat with you anytime if you're okay with it…♪
 <hr>
 
 {% bubble Tsumugi %}
-I'm so glad I got to celebrate your birthday~♪
+I'm so glad I get to celebrate your birthday~♪
 {% endbubble %}
 {% bubble Midori %}
 Oh man, I'm so sorry you went through the trouble of getting me a present.
+{% endbubble %}
+
+<hr>
+
+{% bubble Subaru %}
+Let's play basketball sometime! ☆
+{% endbubble %}
+{% bubble Midori %}
+Please go easy on me…
+{% endbubble %}
+
+<hr>
+
+{% bubble Niki %}
+Thanks for delivering veggies all the time~☆
+{% endbubble %}
+{% bubble Midori %}
+Thank you as well, I appreciate you using them in cooking.
 {% endbubble %}
 
 <div toc>{% btn /birthday_story/midori_es,, arrow-left, ES! Era Birthday %}{% btn /birthday_story,, star, Index %}</div>

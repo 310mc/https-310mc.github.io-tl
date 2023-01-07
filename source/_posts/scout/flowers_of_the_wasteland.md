@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Flowers of the Wasteland (Coming Soon!)"
+title: "[ES!!] Flowers of the Wasteland (On Hold)"
 date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!!]
@@ -11,6 +11,11 @@ description: "[ES!!] TBA"
 hidden: true
 permalink: flowers_of_the_wasteland/
 ---
+
+{% note narration %}
+This translation is **on hold**. Due to the official version having been released, it is not guaranteed that the fan translation will be re-uploaded.
+{% endnote %}
+
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/scoutstory/flowersofthewasteland/nagisabcgframe.jpg')"></div>

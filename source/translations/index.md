@@ -106,7 +106,7 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 <p style="color:blue"><b>I permit:</b></p>
 
 ※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
-※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page.
+※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page. __Please note that some translations may be on hold indefinitely.__
 ※ Using my __non-story translations__ (ex. card quotes, skill names, etc...) in the Enstars Wiki.
 ※ Using my translations in quotebots, fanworks, story analysis, etc. You don't have to credit me unless you prefer to.
 ※ Adjusting my translations in quotebots/fanworks/etc. for any of the following reasons:
@@ -399,7 +399,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
-    <div class="story">
+    <!--<div class="story">
         <div class="image">
             <img
                 src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe_300px.jpg"
@@ -410,7 +410,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span>Flowers of the Wasteland (Coming Soon!)</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div>-->
     <div class="story">
         <div class="image">
             <img
@@ -419,7 +419,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             />
         </div>
         <a href="/ushimairi_p2" class="storyName" target="_blank">
-            <span>Ushimairi, Part Two (In Progress!)</span>
+            <span>Ushimairi, Part Two (Indefinite)</span>
             <span class="read"></span>
         </a>
     </div>
@@ -760,13 +760,17 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 | :-----------: | :-----------: | :-----------: |
 [![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Tough Being a Parent %}<div style="margin-top:5px">{% btn /climax/minitalk/chiaki_2,, star, Justice Will Prevail %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, A Joint Live! %}<div style="margin-top:5px">{% btn /shooting_star_festival/minitalk/chiaki_2,, star, The Festival's Hero %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}<div style="margin-top:5px">{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}</div>|
 
-|Comet Show! Midori|Ring × Midori (Coming Soon!)|Ninja Clan! Midori|
+|Comet Show! Midori|Submarine! Chiaki|Ninja Clan! Midori|
 | :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}<div style="margin-top:5px">{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}</div>|[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}<div style="margin-top:5px">{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}</div>|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}</div>
+[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}<div style="margin-top:5px">{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}</div>|[![/submarine/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/submarine/minitalk/chiaki_1){% btn /submarine/minitalk/chiaki_1,, circle, Okinawa Red! %}<div style="margin-top:5px">{% btn /submarine/minitalk/chiaki_2,, star, Troubled Hero %}</div>|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}</div>
 
 |Ninja Clan! Tetora|Ninja Clan! Chiaki
 | :-----------: | :-----------: |
 [![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Thrilling Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/tetora_2,, star, I Don't Get It %}</div>|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, An Invasion from a Formidable Enemy %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/chiaki_2,, star, Sightseeing the Historical Village %}</div>|
+
+<!--
+[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}<div style="margin-top:5px">{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}</div>
+-->
 
 <!--<h4>Ensemble Stars! Era</h4>
 <div class="stories">
