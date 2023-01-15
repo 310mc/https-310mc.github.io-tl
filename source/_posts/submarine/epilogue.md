@@ -71,9 +71,9 @@ hidden: true
 
 {% img /img/es/eventstory/submarine/epch1_1.jpg %}
 
-{% note narration %}
-**Time:** A week later. During the qualifying round, the final stage…
-{% endnote %}
+<div class="msr-narration">
+    <p>A week later. During the qualifying round, the final stage…</p>
+</div>
 
 {% bubble Kanata v2 %}
 “hello okinawa, and welcome\~! *mensooore\~♪*”[^1]
@@ -294,7 +294,7 @@ If they take any longer, we’ll end up stealing the limelight!
 {% endbubble %}
 
 {% bubble Tetora worried %}
-“Ahh, that’s not <em>fair</em>! Morisawa-senpai just keeps stealing everything that matters to me…!”
+“Ahh, that’s not <em>fair!</em> Morisawa-senpai just keeps stealing everything that matters to me…!”
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -326,21 +326,21 @@ If they take any longer, we’ll end up stealing the limelight!
 {% endbubble %}
 
 {% bubble Chiaki %}
-(Heheh, Kiryu’s incredible as always. He’s always so sincere about being an idol.)
+<th>(Heheh, Kiryu’s incredible as always. He’s always so sincere about being an idol.)</th>
 
-(…I want to do the same—Let’s start from there.)
+<th>(…I want to do the same—Let’s start from there.)</th>
 
-(We aren’t back to square one, and we haven't lost anything, either… We’ll go back to our baseline, and build up from scratch.)
+<th>(We aren’t back to square one, and we haven't lost anything, either… We’ll go back to our baseline, and build up from scratch.)</th>
 
-(I’m good at that sort of thing, and I already know that everyone in Ryuseitai will work hard alongside me.)
+<th>(I’m good at that sort of thing, and I already know that everyone in Ryuseitai will work hard alongside me.)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/submarine/chiakibcg.jpg %}
 
 {% bubble Chiaki %}
-(I’ll never, ever forget the moment you guys rushed over to help me clean up that day, like it was the most natural thing to do.[^3] It meant everything to me.)
+<th>(I’ll never, ever forget the moment you guys rushed over to help me clean up that day, like it was the most natural thing to do. It meant everything to me.)[^3]</th>
 
-(The heroes I’ve waited so long for had finally arrived.)
+<th>(The heroes I’ve waited so long for had finally arrived.)</th>
 
 “♪\~♪\~♪”
 {% endbubble %}

@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Chiaki Mini Talk: Okinawa Red!"
-date: 2021/12/4 9:00:00
+date: 2023/1/15 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Shinobu]
@@ -8,7 +8,7 @@ categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki's second Mini Talk from Submarine. From multiple POVs."
+description: "[ES!!] Chiaki's first Mini Talk from Submarine. From multiple POVs."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -106,7 +106,7 @@ Since you’re the same age as him, I’d be happy to get your advice on which t
 
 {% img /img/es/eventstory/submarine/minitalk_chiaki1_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki frown %}
 You can't have a ryokan trip without a pillow fight… I do want to agree with that, but—
 
 Comet Show only happened a few weeks ago, so I feel like we should have a discussion with each other first.
@@ -120,7 +120,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
             perhaps the Timing.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki thinking %}
             Hm… so what I discussed earlier was also simply just the wrong timing?
 
             But SS is an important event… We can't keep dancing around the topic, can we…?
@@ -132,7 +132,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
             please read the Room.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki frown %}
             Oh… so that's why you suggested the pillow fight, huh…?
 
             I keep talking about serious topics so much, that I'm being seen as someone who can't read the r—… That's not what you meant?
@@ -144,7 +144,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
             let's not Talk about that right now.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki sad2 %}
             Ah, even discussing it is dismissed… Working towards a solution really is too difficult right now after all, huh…
 
             Alright, I'll try and figure out where I went wrong on my own for now! Sorry for taking up your time, Kanata.
@@ -155,7 +155,9 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
 
 #### <div mt="rare"></div> 3/3
 
-{% bubble Chiaki %}
+{% img /img/es/eventstory/submarine/minitalk_chiaki1_3.jpg %}
+
+{% bubble Chiaki curious %}
 Oh yeah, where'd Kanata go?
 
 He tends to go to watersides at every opportunity, so maybe he's gone to bathe in the sea?

@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Chiaki Mini Talk: Troubled Hero"
-date: 2021/12/4 9:00:00
+date: 2023/1/15 9:05:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Midori]
@@ -143,7 +143,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
             Is this really the time to talk about this?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki awkward %}
             Sorry. Don't worry about it if it's too heavy. It's a bad habit of mine to stick my nose in other people's business.
 
             But I just don't know what to do anymore about Ryuseitai… I've just been stuck in a loop trying to figure it out on my own.
@@ -157,11 +157,11 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
 {% img /img/es/eventstory/submarine/minitalk_chiaki2_3.jpg %}
 
 {% bubble Chiaki %}
-(The Okinawan idols are asking for Ryuseitai's help.)
+<th>(The Okinawan idols are asking for Ryuseitai's help.)</th>
 
-(Personally, I'd like to go and help them, but I don't think the rest of my unit members agree with me, what with the current circumstances…)
+<th>(Personally, I'd like to go and help them, but I don't think the rest of my unit members agree with me, what with the current circumstances…)</th>
 
-(I have to do <em>something</em>, though. Maybe I should talk to someone about it…)
+<th>(I have to do <em>something</em>, though. Maybe I should talk to someone about it…)</th>
 {% endbubble %}
 
 <div class="minitalk" character="Chiaki">
@@ -182,7 +182,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
             (I'll talk to Nagumo.)
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki sad %}
             Mm, talking to Nagumo sounds like a good idea. I can talk to him as an equal, as he's also had Ryuseitai entrusted to him for a while.
 
             But… I did something awful to him at Comet Show… I don't know if we'll be able to reach an agreement.
@@ -194,7 +194,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
             (Someone outside of Ryuseitai…)
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
+            {% bubble Chiaki serious %}
             …Yeah, there are far too many local idols in trouble right now — The issue is too large for only Ryuseitai to handle.
 
             That means the only other people I could talk to are Akatsuki. I hope that they're willing to help out as fellow colleagues…
