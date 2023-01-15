@@ -596,8 +596,8 @@ he is Bothering my Work, so i find him quite the Nuisance.
 
 and the same goes for the second year named “rei”… hm?
 {% endbubble %}
-{% img /img/es/eventstory/meteorimpact/firsthalfch12_1.jpg %}
 
+{% img /img/es/eventstory/meteorimpact/firsthalfch12_1.jpg %}
 
 {% bubble Kuro pastinjuredsmile %}
 Yo, Morisawa.
@@ -1334,10 +1334,10 @@ But *I* know all about it, so I’m here to tell you this: It’s best you don�
 You should just forget all this ever happened, go back home and sleep soundly in bed.
 
 That’s the best option for someone like you—who’s just an ordinary kid.
+{% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch16_1.jpg %}
 
-{% endbubble %}
 {% bubble Chiaki pastsad %}
 …………
 

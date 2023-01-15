@@ -236,9 +236,9 @@ As long as we don’t give up on our dreams, surely we’ll be able to come acro
 And the reason for that is! Heroes never ignore those calling for help! They’ll always come rushing if anyone ever needs them!
 
 And the other reason is! Because we were able to become heroes…☆
+{% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/epilogue2_1.jpg %}
-{% endbubble %}
 
 {% bubble Tetora %}
 Ossu! Excuse me!
@@ -271,7 +271,7 @@ But after collecting our thoughts, we decided to come back.
 
 {% endbubble %}
 {% bubble Kanata %}
-yes, i did. i’m sorry, chiaki. but i Exaggerated most of it, and kept what you wouldn’t want them to know a Secret.
+yes, i did. i am sorry, chiaki. but i Exaggerated most of it, and kept what you wouldn’t want them to know a Secret.
 
 {% endbubble %}
 {% bubble Midori %}
@@ -304,6 +304,7 @@ I started feeling gloomy after everything that had happened, and couldn’t get 
 My mind felt at ease when Tetora-kun called me…♪
 
 {% endbubble %}
+
 {% bubble Shinobu %}
 Yes! We dashed straight over here!
 
@@ -318,10 +319,10 @@ Yep, leave it to me… I’m good at arranging things and packing them up…♪
 {% endbubble %}
 {% bubble Tetora %}
 Ossu! I’m not good with that kinda stuff, but I’m great at anything that needs hard labor! It’ll make for some muscle training, too ♪
+{% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/epilogue2_2.jpg %}
 
-{% endbubble %}
 {% bubble Chiaki %}
 You guys… I see, I was such an idiot.
 

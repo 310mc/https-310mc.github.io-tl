@@ -1621,7 +1621,7 @@ did you simply want to Greet me? or do you have a Wish in mind?
 {% bubble Souma v2 %}
 Nay. I cannot speak for other people, but it would be absurd of us to pray to God. It is not permissible.
 
-That is why, at the very least — I choose to aid God’s conduct, as part of the Kanzaki clan. Typically, our role is exactly as our family name stands: To conceal and shield God[^13] during a time of perplexity—
+That is why, at the very least — I choose to aid God’s conduct, as part of the Kanzaki clan. Typically, our role is exactly as our family name stands: To conceal God[^13] during a time of perplexity—
 
 However, from what I have heard, you seem to be accomplishing your role without any waver.
 
@@ -1883,7 +1883,7 @@ EeeeeEEEEEEAAAAAAAAAAAAAAA!?
 [^7]: Originally, Kanata misunderstands and says *seire…i?*, as in spirit (精霊), because Shu says *seireen* for “siren”. I changed it to “psyche” to somewhat fit a similar pronunciation as “siren” in English.
 [^8]: Apparently, [there was a muse that did come from the water, and sometimes they’re referred to as water nymphs](https://en.wikipedia.org/wiki/Muses).
 [^9]: This is an expression to say that even scary-looking people feel compassion, as well as being a reference to Kuro’s last name, as it has the kanji for “demon” (鬼).
-[^10]: A reference to what happened in the flashback chapter in Gang (Chapter 3).
+[^10]: A reference to what happened in the flashback chapter in [Gang](https://310mc.github.io/gang/#Midnight-Gangsters-3) (Chapter 3).
 [^11]: Rogue in Japanese is *gorotsuki* ごろつき, which has various negative connotations, such as someone who loiters around with no fixed home or job of their own, or who takes advantage of people’s weakpoints, or threatens others with force.
 [^12]: Souma is doing a *dogeza*.
 [^13]: Souma’s family name 神崎 has the kanjis “God” and “cape (on the coast)”.

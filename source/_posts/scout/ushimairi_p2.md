@@ -824,4 +824,4 @@ This translation is **on hold**.
 
 ## Translation Notes
 
-[^1]: The movie Trickstar and *fine* star in in the story of the same name.
+[^1]: The movie Trickstar and *fine* star in, in the story of the same name.

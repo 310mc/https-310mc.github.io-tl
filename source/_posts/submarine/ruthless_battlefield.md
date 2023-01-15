@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Ruthless Battlefield, Okinawa"
-date: 2022-12-31 00:00:00
+date: 2023-1-16 00:00:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -182,7 +182,7 @@ Yeah, we would have taken their challenge and won it just fine even if Kiryu wer
 {% bubble Chiaki awkward %}
 That’s pretty terrifying… I thought you guys were more obedient lately, but you really are a combative group…
 
-W-Well, either way! You need to know what’s going on, right? You’re probably tired from your long trip, so let’s head over to the inn ES booked—
+W-Well, either way! You need to know what’s going on, right? You’re probably tired from your long trip, so let’s head over to the ryokan ES booked—
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -208,13 +208,13 @@ I’ll try searching for something on my phone. Nagumo has been itching to see y
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha… I don’t really want Tetsu seein’ this side of me.
+Haha… I don’t really want Tetsu seein’ me like this.
 {% endbubble %}
 
 {% bubble Souma v3 %}
 <th>(Hm… Though I am not quite clear on what is happening, it appears that we have solved this matter without any problems.)</th>
 
-<th>(However… Who *were* those *“ai-dols”* that tried to assault us? Their bloodthirsty presence reminded me of *that* “evil,” but—)</th>
+<th>(However… Who *were* those *idols* that tried to assault us? Their bloodthirsty presence reminded me of *that* “evil,” but—)</th>
 
 <th>(Surely, that must not be the case…?)</th>
 {% endbubble %}
@@ -225,7 +225,7 @@ Haha… I don’t really want Tetsu seein’ this side of me.
     <p><span><b>Location:</b> Okinawa Restaurant</span></p>
 </div>
 
-{% img /img/es/eventstory/submarine/p1ch4.jpg %}
+{% img /img/es/eventstory/submarine/p1ch4_1.jpg %}
 
 <div class="msr-narration">
     <p>Another hour or so passes…</p>
@@ -247,7 +247,7 @@ But I doubt the Akatsuki members would do anything lame like that, so we should 
 It doesn’t feel right to call it harassment, in my opinion. I feel as though it was just bad timing on both sides — like an unfortunate accident.
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p1ch4_1.jpg %}
+{% img /img/es/eventstory/submarine/p1ch4_2.jpg %}
 
 {% bubble Midori awkward %}
 Your soul is so pure, Shinobu-kun… I hope you stay that way forever…
@@ -288,7 +288,7 @@ Why have you been acting so odd lately, Midori-kun!?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hello, everyone\~! the food is ready, so please be behave and take a seat\~
+hello, everyone\~! the Food is ready, so please be behave and take a Seat\~
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -308,7 +308,7 @@ No, not at all, I don’t even know this place! I just heard the owner is an old
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, and since there are many people at this table, it would’ve been difficult for one person to carry everything.
+yes, and since there are many People at this table, it would have been Difficult for one person to carry Everything.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -324,7 +324,7 @@ Ahaha, nothing’ll change by sulking, that’s all.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-alright, okaaay~ time to set up the table. temple guy, you can’t eat meat or fish, right? this salad is for you~♪
+alright, okaaay~ time to set up the Table. temple guy, you cannot eat Meat or fish, right? this Salad is for you~♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -335,9 +335,9 @@ My family isn’t that strict, actually. But sea grapes make me feel like we’r
 Ah, Shinkai-dono… My deepest apologies, but I cannot eat fish.
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p1ch4_2.jpg %}
+{% img /img/es/eventstory/submarine/p1ch4_3.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata surprised %}
 ……!?
 {% endbubble %}
 
@@ -345,20 +345,20 @@ Ah, Shinkai-dono… My deepest apologies, but I cannot eat fish.
 Wha—!? W-Why do you look like a mother who has lost her beloved child…?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata worried %}
 souma…? what did you just say…?
 
-you can’t eat fish? i don’t understand! you’re not the souma i know! you must be an imposter…!
+you cannot eat Fish? i don’t understand! you are not the souma i know! you must be an imposter…!
 {% endbubble %}
 
 {% bubble Chiaki %}
 Hehe, characters switching places and hero imposters are mostly just common tropes in tokusatsu, though.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-you, temple guy! you converted our souma to your religion, didn’t you?
+{% bubble Kanata angry %}
+you, temple guy! you Converted our souma to your religion, didn’t you?
 
-you gave him a taste of delicious veggies, until his body could no longer stand the taste of fish…!
+you gave him a taste of delicious Veggies, until his Body could no longer stand the taste of Fish…!
 {% endbubble %}
 
 {% bubble Keito %}
@@ -369,10 +369,10 @@ Don’t throw the blame on me.
 Um, this has naught to do with Hasumi-dono, but rather, erm, that I—
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-you’re not the same anymore, are you… i’m so sad…
+{% bubble Kanata sad %}
+you are not the same anymore, are you… i’m so sad…
 
-okinawa is a place brimming with seafood, so i was really looking forward to talking to you about all kinds of fish…
+okinawa is a place brimming with Seafood, so i was really looking forward to talking to you about all kinds of Fish…
 {% endbubble %}
 
 {% bubble Souma worried %}
@@ -417,12 +417,12 @@ But well, the only reason I’m the one explaining things right now is ‘cuz Mo
 Like I said, I don’t mind that. I’m tired enough as it is, Morisawa would only tire me further.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-hmph… you sure do treat chiaki harshly, temple guy.
+{% bubble Kanata worried %}
+hmph… you sure do treat chiaki Harshly, temple guy.
 {% endbubble %}
 
 {% bubble Keito %}
-It’s nothing compared to *<em>you</em>.*
+It’s nothing compared to <em>you</em>.
 
 …Let’s get back on topic. I’d rather discuss the current situation in Okinawa than Morisawa.
 
@@ -432,7 +432,7 @@ We don’t know anything about what’s going on because we’ve only just arriv
 {% bubble Tetora %}
 Ossu, aight, so… Based on the official broadcasts of SS and the information circulating on HoldHands from ES—
 
-It sounds like the atmosphere or, rather, the *<em>characteristics</em>* of the qualifying rounds are super different between regions.
+It sounds like the atmosphere or, rather, the characteristics of the qualifying rounds are super different between regions.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -481,8 +481,10 @@ Hm, so essentially, we’ll be challenged to a match the moment we start moving.
 You know about Pokemon, Hasumi-dono!?
 {% endbubble %}
 
+{% img /img/es/eventstory/submarine/p1ch5_1.jpg %}
+
 {% bubble Keito %}
-Do you have a problem with that?
+Is that a problem…?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -520,7 +522,7 @@ He is an honorable man who loves peace and cherishes people. You have truly been
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-midori? is something the matter? if you’re still hungry, would you like to eat the fish that was meant for that traitor souma, since he didn’t bother to finish his plate?
+midori? is something the matter? if you are still hungry, would you like to eat the Fish that was meant for that Traitor souma, since he did not bother to finish his plate?
 {% endbubble %}
 
 {% bubble Midori awkward %}
@@ -528,14 +530,14 @@ No, I’m good… I only get bigger with every bite I take… and I don’t real
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i knew you’d say that, so i’ve prepared sliced up sashimi as an alternative~♪
+i knew you would say that, so i have prepared sliced up Sashimi as an alternative~♪
 {% endbubble %}
 
 {% bubble Souma worried %}
 Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter — I swear to you that my heart has always been one with the Marine Biology Club!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata hmph %}
 hmph, you cannot fool me with flattery…
 {% endbubble %}
 
@@ -548,17 +550,17 @@ Shinkai-dono is always kind to us, though…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, that is because everyone in ryuseitai are good kids~♪
+fufufu, that is because everyone in ryuseitai are Good kids~♪
 
-…you are always being such good kids, but still do not get rewarded with anything… it is such a pity.
+…you are always being such Good kids, but still do not get rewarded with anything… it is such a Pity.
 {% endbubble %}
 
-{% bubble Souma v3 %}
+{% bubble Souma worried %}
 Ahhh! Do not let such frustration build up inside of you, Shinkai-dono! Here, eat the seafood I cannot consume!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-the one who’s stressing me out the most is you, souma. you traitor… you deserve death for your treachery…
+{% bubble Kanata frown %}
+the one who is Stressing me out the most is you, souma. you traitor… you deserve death for your treachery…
 {% endbubble %}
 
 {% bubble Souma worried %}
@@ -570,7 +572,7 @@ Uuu, I assure you that it is not what you think it is, Shinkai-dono! I… I simp
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i’m not bullying anyone~ heroes never do that.
+i am not Bullying anyone~ heroes never do that.
 {% endbubble %}
 
 ## Chapter 6
@@ -582,7 +584,7 @@ However, the idols that have been constantly competing against each other aren�
 {% endbubble %}
 
 {% bubble Shinobu %}
-Uuu… I can’t say you’re wrong about that, but…
+Uuu… I cannot say you’re wrong about that, but…
 {% endbubble %}
 
 {% bubble Keito %}
@@ -593,8 +595,8 @@ We’re nothing like you. If the situation in Okinawa is a hell swirling with wa
 We’re well-acquainted with live battles, as it’s our field of expertise. The current turmoil actually works in our favor.
 {% endbubble %}
 
-{% bubble Souma %}
-Indeed. After all, Hasumi-dono along with the previous student council were the ones who created the “la-i-ve” battle — the “do-reem-fes” system.
+{% bubble Souma v3 %}
+Indeed. After all, Hasumi-dono along with the previous student council were the ones who created the *live* battle — the *DreamFes* system.
 
 It is a weapon we are quite familiar with utilizing.
 
@@ -607,10 +609,10 @@ That’s basically what you can expect from the local idols here, to be honest�
 It’s why you’ll only ever hear stories about ES idols kicking the crap out of them…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Oh, that is a bit of a surprise. We do not have any ties to the local area, and neither are we well-known here—
 
-Thus, I had thought that we would be at a disadvantage compared to the local “ai-dols” that have acquired their own fanbase in this region.
+Thus, I had thought that we would be at a disadvantage compared to the local *idols* that have acquired their own fanbase in this region.
 
 After all, I assume the majority of the audience that come to watch the performances would be local ones.
 {% endbubble %}
@@ -635,15 +637,15 @@ It’s like, they’re here to cheer for the qualifying rounds, but also go sigh
 Being surrounded in every corner and having my pictures taken by ‘em makes me feel like I'm some kinda exotic Okinawan animal.
 {% endbubble %}
 
-{% bubble Kanata %}
-fufufu\~, i’m pretty used to that feeling, though\~
+{% bubble Kanata v2 %}
+fufufu\~, i am pretty Used to that feeling, though\~
 {% endbubble %}
 
 {% bubble Shinobu %}
 You do manage an aquarium, after all.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 …However, there is something I am not fully comprehending.
 
 According to the information we’ve received, Okinawa is a ruthless battlefield filled with many local powerhouses, and yet, the only conspicuous groups are ones originating from outside the prefecture.
@@ -693,18 +695,18 @@ That having been said, the scale of the battle, the people involved, and everyth
 And we aren’t so wishy-washy as to wait idly, hoping for a miracle to happen. We're going to intervene in the war circulating in this region, and win every battle until we come out victorious in the qualifying rounds.
 {% endbubble %}
 
-{% bubble Kanata %}
-well, that’s what you’d expect from akatsuki, i suppose.
+{% bubble Kanata serious %}
+well, that is what you would expect from akatsuki, i suppose.
 {% endbubble %}
 
 {% bubble Keito %}
 No, this is simply my personal opinion. Kanzaki will be the one to decide what we do.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma worried %}
 Um, as I’ve inquired before, why do you continually redirect the decision-making onto me? I personally would prefer to follow your wishes…
 
-Could this mean that Hasumi-dono really *<em>has</em>* been told to abide by some sort of inauspicious order…?
+Could this mean that Hasumi-dono really <em>has</em> been told to abide by some sort of inauspicious order…?
 {% endbubble %}
 
 ## Chapter 7
@@ -721,16 +723,16 @@ Oh, yeah, that’s why you haven’t been saying any ninja terms, or uh, slang? 
 Yeah! It’s surprisingly cool to hear you talk that way!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 While I’m happy to hear that, my identity as a ninja is at stake here~!
 
 My fans seem to be concerned for me, too — they don’t quite understand what has happened to me all of a sudden, fearing that I’ve abandoned being the “ninja guy”!
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 They would simply assume that your unusual actions are the result of your order, would they not?
 
-It appears to be a common understanding that the majority of “ai-dol”s’ strange behavior during the qualifying rounds is due to their order.
+It appears to be a common understanding that the majority of *idols’* strange behavior during the qualifying rounds is due to their order.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -749,7 +751,7 @@ But if he's attempting to do something terrible in accordance with his order, it
 I was naive to think that Morisawa would never do anything malicious…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Nah, I don’t think he’d do anything bad. Even if he’s been told to do so by his order, he’d ignore it and do the right thing instead. At least, I assume he would… I dunno.
 
 That said, Morisawa-senpai has been doing stuff on his own from time to time ever since we arrived in Okinawa.
@@ -763,7 +765,7 @@ I’ve got no clue where and what he goes off to do, though.
 Oh? That does sound suspicious indeed. So *that’s* why Morisawa was the only one who showed up when we first arrived.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Ossu. He only does it at very specific intervals, though, so it's not like it's interfering with Ryuseitai’s schedule or anything.
 {% endbubble %}
 
@@ -783,7 +785,7 @@ In this case, we can more or less agree that Morisawa is likely acting this way 
 He gets lonely easily, after all… He’d much rather spend time with everyone as much as he can, so if he’s been working on his own, then, yeah… I guess that really *<em>is</em>* his order.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 …Anyway, the point is, Taichou keeps periodically leaving now and then, so I'm sort of acting as the leader during those times.
 
 I find that pretty cruel to do to me, though…
@@ -815,7 +817,7 @@ Order <em>this</em>, order <em>that</em>… I’m getting so sick of it. We soun
 Truthfully, I don't actually dislike it that much. I feel like a ninja, whose destiny is to live by a code. It’s like a game with its own set of rules.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 It is a lifestyle that I am quite familiar with, as well. It reminds me of the time I was strictly disciplined at home, and would receive instructions that nearly seemed unreasonable.
 
 The way I held my chopsticks, where I placed my zabuton… There were strict rules for everything.
@@ -823,25 +825,25 @@ The way I held my chopsticks, where I placed my zabuton… There were strict rul
 However, if I had not followed those rules, I would not have possessed the capability to live a normal life.
 {% endbubble %}
 
-{% bubble Kanata %}
-fufu, humans always have such a hard time because of all their obligations.
+{% bubble Kanata v2 %}
+fufu, Human beings always have such a hard time because of all their Obligations.
 
 …mm?
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 What is the matter, Shinkai-dono?
 {% endbubble %}
 
-{% bubble Kanata %}
-i sense a strange presence somewhere—
+{% bubble Kanata v2 %}
+i sense a strange Presence somewhere—
 {% endbubble %}
 
 {% bubble Midori %}
 Huh? Huh…!? Please don’t say something so anxiety-inducing out of nowhere, Shinkai-senpai…!
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 —Stand back, gentlemen.
 
 I apologize for not noticing this much sooner, but… I am afraid to say that this restaurant has been surrounded.
@@ -851,7 +853,7 @@ I apologize for not noticing this much sooner, but… I am afraid to say that th
 Surrounded? What do you mean, Kanzaki?
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v3 %}
 Haha, I suppose this is Heaven’s way of telling me to exercise after having my fill of Okinawan cuisine!
 
 Okinawa seems to be a much more ruthless battlefield than I had anticipated. However, for that reason, I do not think I will be bored in the slightest.
@@ -865,7 +867,7 @@ Okinawa seems to be a much more ruthless battlefield than I had anticipated. How
     <p>At around the same time, at the ryokan for ES idols…</p>
 </div>
 
-{% bubble Chiaki %}
+{% bubble Chiaki sad2 %}
 Achoo! Aah-choo…!
 {% endbubble %}
 
@@ -873,7 +875,7 @@ Achoo! Aah-choo…!
 Woah woah, you alright there, Morisawa? What's with you sneezin’ all cutely? You sound like you’re the one who needs nursin’ right now.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 Ugh… Sorry, I can’t help it when the weather changes… How pathetic is it to get sick during such a crucial idol event like SS…
 {% endbubble %}
 
@@ -881,7 +883,7 @@ Ugh… Sorry, I can’t help it when the weather changes… How pathetic is it t
 Is that a dig at me for being too weak to even sit up?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki worried %}
 Oh, no no, I didn’t mean it that way at all…!
 
 I’ve heard before that you can’t handle vehicles, but it really was no joke, was it? I'm honestly a little shaken — I've never seen you looking this weak before.
@@ -907,7 +909,7 @@ I get how Itsuki feels nowadays. Showing weakness gives people the chance to tak
 But if I’m bein’ real with ya… It's tough having to lie even to your own buddies, don’tcha think?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sad %}
 ………
 {% endbubble %}
 
@@ -1009,47 +1011,47 @@ Hah? The hell’s goin’ on…?
 Right, I’d like to go over everything again and discuss, as a team, our course of action from here on.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 Is that really necessary?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sideeye %}
 Hmph… We don’t have a say in anything, and you won’t listen to us even if we did… You may as well just do it the way you like…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Yeah, we’ll do as told, so you can order us around.
 
 We won’t complain no matter what you throw at us. That’s probably the best way to go about it, anyway.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 Yeah, yeah… That’s how it always ends up for us, so you don’t have to pretend to be a kind senior who actually takes his juniors’ opinions into account…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki worried %}
 I-I don’t approve of that attitude you two are taking! You cold-hearted modern kids! Let's be cooperative! Cooperation is important!
 {% endbubble %}
 
-{% bubble Kanata %}
-then how about we have a pillow fight to improve our cooperation skills~♪
+{% bubble Kanata v2 %}
+then how about we have a Pillow fight to improve our Cooperation skills~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Woohoo! That’s a must-do on a trip!
 
 Though we always have one every time we work overnight for a job, I’ve lost on each occasion, so I have been brushing up my skills for this day!
 {% endbubble %}
 
-{% bubble Kanata %}
-fufufu, you’re such a hard worker, shinobu~♪
+{% bubble Kanata v2 %}
+fufufu, you’re such a Hard worker, shinobu~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Hard work may be Tetora-kun’s thing, but nobody ever said I can’t do the same! Heh~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sad %}
 How odd… Were we always this disconnected from each other…? Who made Ryuseitai like this…?
 
 It hasn't been that long since our Comet Show performance, so I understand that it’s difficult to switch gears right away—
@@ -1061,11 +1063,11 @@ But… All our other paths have been destroyed, and we now have no choice but to
 I know you may have your own opinions, but I hope you will accept this fact: Ryuseitai has been reborn as a five-member group with me at the center, as Red.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 It’s more like we’ve gone back to the start… or maybe even regressed…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 Mm~… I don't wanna be like this every time we see each other, so I'll just swallow my bitter feelings and accept the situation as it is for now.
 
 I feel like I'm starting over from the bottom, but that's how it always is for me, anyway.
@@ -1077,57 +1079,57 @@ I’m gonna work hard from the ground up again and become a big man that everyon
 You’ve already grown to be such a wonderfully big man, Nagumo. The same goes to Sengoku and Takamine, too.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori angry %}
 Are you talking about my appearance…? You know I hate it when my height is mentioned, right…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised %}
 Why do you snap at everything I say to you, Takamine…?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Shinkai-dono, Shinkai-dono! Did you hear that!? I grew bigger~♪
 {% endbubble %}
 
-{% bubble Kanata %}
-yes! you’ve been growing slowly, but surely~♪
+{% bubble Kanata v2 %}
+yes! you have been Growing slowly, but surely~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 You two are having such a peaceful time… Must be nice…
 {% endbubble %}
 
-{% bubble Kanata %}
-fufu, on the other hand, it feels lonely being kept out of the loop. if we are going through hard times, i would rather we do it together.
+{% bubble Kanata v2 %}
+fufu, on the other hand, it feels lonely being kept out of the Loop. if we are going through hard times, i would rather we do it together.
 
-we’re heroes, too, but it feels like we are always being protected by you—
+we are heroes, too, but it feels like we are always being protected by you—
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 ………
 {% endbubble %}
 
-{% bubble Kanata %}
-well, we’ll leave it at that. let’s instead focus on what we need to talk about before chiaki disappears again.
+{% bubble Kanata v2 %}
+well, we will leave it at that. let’s instead focus on what we need to talk about before chiaki Disappears again.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 I really wish you would stop disappearing on a regular basis; it's causing us trouble and making us worried. But I’m guessing it’s your order, right?
 
 Something like, “You are not allowed to be with the members of Ryuseitai for more than a certain amount of time.”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki frown %}
 Even if that’s the order, I can’t confirm it. We’re forbidden to, after all.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Ossu, that’s true. And I guess I can't go around bending and breaking rules like Crazy:B, since I’m a hero of justice and all.
 
 Then again, I never get rewarded for being a good kid anyway, so I don’t really see the point…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 <th>(Ahh… Tetora-kun’s been getting gloomier and gloomer ever since Comet Show ended…)</th>
 
 <th>(It hurts to see, but the way we are right now is partly ‘cause I wanted it to happen and pushed for it—)</th>
@@ -1135,29 +1137,29 @@ Then again, I never get rewarded for being a good kid anyway, so I don’t reall
 <th>(I can’t act like we’re buddies who know how each other feels after all that…)</th>
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata serious %}
 ………
 
-…i am going to turn on the heater for a while. okinawa is usually warm, but it still gets chilly in the evening.
+…i am going to turn on the Heater for a while. okinawa is usually warm, but it still gets chilly in the Evening.
 {% endbubble %}
 
 {% bubble Chiaki %}
 That would be nice, thank you. You've become very considerate, Kanata.
 {% endbubble %}
 
-{% bubble Kanata %}
-that’s because someone else here is being pretty thick-headed.
+{% bubble Kanata v2 %}
+that is because someone else here is being pretty Thick-headed.
 {% endbubble %}
 
 {% bubble Chiaki %}
 ………
 {% endbubble %}
 
-{% bubble Kanata %}
-but… it feels wrong to criticize only chiaki. it was just a matter of bad timing… i’m sure everything was.
+{% bubble Kanata sigh %}
+but… it feels Wrong to criticize only chiaki. it was just a matter of bad timing… i am sure everything was.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 C-Counting the bad things one by one will only make you feel worse. When you’re feeling down, you should look for the good!
 
 That’s what I always do!
@@ -1215,7 +1217,7 @@ Well, either way, it seems that the local idols have a good impression of Ryusei
 Since we keep refusing to fight, we’ve given them the impression that they could talk it out with at least us, if not anyone else.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Ossu, exactly. So they approached us while we were chatting in the restaurant, to ask us for a favor.
 
 They practically begged us to ask the other ES idols to not destroy Okinawa any further.
@@ -1227,7 +1229,7 @@ Indeed, they’re hoping we could act as peace ambassadors of some sort.
 The local idols have no contact with ES, so they tried to negotiate through us, since we’re less intimidating to talk to.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 It’s more like a plea than a negotiation. They were clinging to us in tears, begging us not to cause any more harm to them. Though honestly, there isn’t really any point in asking <em>us</em> that…
 {% endbubble %}
 
@@ -1235,7 +1237,7 @@ It’s more like a plea than a negotiation. They were clinging to us in tears, b
 Yeah… I mean, running around yelling at everyone to stop fighting didn’t change anything about the situation…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 I don’t think that’s entirely true. Thanks to our efforts, we’ve been able to get in touch with some of the local idols.
 
 What we should now discuss is how to make the most of that development.
@@ -1243,15 +1245,15 @@ What we should now discuss is how to make the most of that development.
 Personally, I would like to stand by the local idols. If we ignore those who came to us for help, we’ll cease to be heroes.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 That may be how <em>you</em> feel… but…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 But realistically, that’d be a bad idea. If we start working to protect the local idols, we’ll become literal “airheads” through and through.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu thinking %}
 Well, it depends on how much you believe in their side of the story.
 
 Because if we assume that everything they say is true, that would mean that the situation in Okinawa is more unsettling than we thought.
@@ -1261,7 +1263,7 @@ But according to the notice from ES, the local idols in Okinawa are all extremel
 Thus, ES had sent some of the most distinguished power idols in order to compete with them.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 That’s true. We don't know any of them except for Akatsuki, but—
 
 The top picks from the renowned CosPro, and the veterans from RythLink, were sent over to this area.
@@ -1287,7 +1289,7 @@ Sure, but we often meet other idols on the job site, so there’s no harm in kno
 Indeed. Also, I think that people will have a good impression of someone who knows them and shows interest in learning about them.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 That’s a lie… It freaks me out when strangers know stuff about me…
 
 It's so stressful to be approached by strangers whenever you're shopping in town, and then forced to give them fanservice…
@@ -1295,15 +1297,15 @@ It's so stressful to be approached by strangers whenever you're shopping in town
 It's tough to be expected to act like an idol twenty-four-seven, for the rest of your existence…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 While l do understand how you feel, that is a tricky mindset to have as an idol.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 Yeah, but I'm doing my best… ‘Cause if I'm even a little curt with my fans, they’ll write stuff on the internet like, “Takamine acted shitty to me.”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 There’s no need to look up that sort of thing on the internet…
 {% endbubble %}
 
@@ -1313,21 +1315,21 @@ Yeah, we’ve got HoldHands as our ES-only social media, so we can avoid reading
 You’ll be able to do your work just fine if you only scroll through that.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 But I’m too curious not to… Especially since Ryuseitai has been in a bad shape since the summer…
 
 I can't say a word unless I know how it’ll be received by the public…
 {% endbubble %}
 
-{% bubble Kanata %}
-hmm, this is a very interesting conversation, but let us return back to the main topic.
+{% bubble Kanata v2 %}
+hmm, this is a very interesting Topic, but let us return back to the main topic.
 
 as part of our duty in ryuseitai, and as heroes, we would like to help the local idols.
 
-but if we do that, people will think of us as airheads who cannot read the situation.
+but if we do that, people will think of us as Airheads who cannot read the situation.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Yeah, that’s where we’re at right now. It seems that ES wants to conquer Okinawa with the powerful idols that they’ve sent, but…
 
 If we’re to believe what the local idols say, then contrary to what ES has informed us, idol culture isn’t actually that developed in Okinawa.
@@ -1346,7 +1348,7 @@ And in order to relieve their frustration and anger, they even tried to pick a f
 {% endbubble %}
 
 {% bubble Midori %}
-Yeah… I think we're in a good place in StarPro, but I guess we look like a weak unit compared to the well-known veterans and stuff…
+Yeah… I think we're in a decent place in StarPro, but I guess we look like a weak unit compared to the well-known veterans and stuff…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1369,7 +1371,7 @@ To be fair, that also works out for us. There aren’t any other idols that look
 Only “true idols” were successful enough to make their names known through orthodox means alone, and there’s only a handful of those out there.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Those “true idols” are the ones invading and preying on Okinawa. I don't know what ES hopes to achieve with this plan, but…
 
 What should we, the “colorful comedy band”, do in such a situation?
@@ -1381,23 +1383,23 @@ Do we not help the weak? Do we only pander to the strong and gleefully trample o
 All the while making excuses that there’s nothing we can do about it?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 ………
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki frown %}
 I honestly refuse to do that.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 That may be how you feel… but…
 {% endbubble %}
 
-{% bubble Kanata %}
-yes. that is always how chiaki feels about things.
+{% bubble Kanata v2 %}
+yes. that is always how chiaki Feels about things.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sad %}
 I’m aware that there isn’t any point fantasizing about dreams all the time, and I know I should be making realistic decisions as a member of society.
 
 But there have been far too many times, even during the performance in Comet Show, that I bent what I shouldn’t have while making excuses like that.
@@ -1407,7 +1409,7 @@ If I repeat that mistake one more time, I may never be myself ever again.
 That sort of wishy-washy stance is not the hero I’ve aspired to be since I was young.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata serious %}
 ………
 {% endbubble %}
 
