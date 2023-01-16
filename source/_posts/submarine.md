@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Submarine (In Progress!)"
-date: 2021-11-28 9:10:00
+title: "[ES!!] Submarine"
+date: 2023-1-16 15:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
@@ -295,28 +295,28 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                         </li>
                         <li>
                             <span>Nirai-Kanai</span>
-                            <a href="BLOGLINK" id="none">x</a>
-                            <a href="BLOGLINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="BLOGLINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
+                            <a href="https://verdantgrove.dreamwidth.org/16284.html" id="none">1</a>
+                            <a href="https://verdantgrove.dreamwidth.org/16854.html" id="none">2</a>
+                            <a href="nirai_kanai/#Chapter-3" id="none">3</a>
+                            <a href="nirai_kanai/#Chapter-4" id="none">4</a>
+                            <a href="nirai_kanai/#Chapter-5" id="none">5</a>
+                            <a href="nirai_kanai/#Chapter-6" id="none">6</a>
+                            <a href="nirai_kanai/#Chapter-7" id="none">7</a>
+                            <a href="nirai_kanai/#Chapter-8" id="none">8</a>
+                            <a href="nirai_kanai/#Chapter-9" id="none">9</a>
+                            <a href="nirai_kanai/#Chapter-10" id="none">10</a>
+                            <a href="https://verdantgrove.dreamwidth.org/17542.html" id="none">11</a>
+                            <a href="nirai_kanai/#Chapter-12" id="none">12</a>
+                            <a href="nirai_kanai/#Chapter-13" id="none">13</a>
+                            <a href="nirai_kanai/#Chapter-14" id="none">14</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
-                            <a href="LINK" id="none">x</a>
-                            <a href="BLOGLINK" id="none">x</a>
-                            <a href="LINK" id="none">x</a>
-                            <a href="BLOGLINK" id="none">x</a>
-                            <a href="BLOGLINK" id="none">x</a>
+                            <a href="epilogue/#Chapter-1" id="none">1</a>
+                            <a href="https://verdantgrove.dreamwidth.org/17804.html" id="none">2</a>
+                            <a href="epilogue/#Chapter-3" id="none">3</a>
+                            <a href="https://verdantgrove.dreamwidth.org/18180.html" id="none">4</a>
+                            <a href="https://verdantgrove.dreamwidth.org/18520.html" id="none">5</a>
                         </li>
                     </ul>
                 </div>

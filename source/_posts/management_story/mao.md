@@ -81,7 +81,7 @@ Wait a sec, Isara-senpai, you make your own food…? Do you live by yourself…?
 {% bubble Mao %}
 Nah, I live with my family, but I grew up living my life independently, 'cause my parents think I should be able to cook and do stuff on my own.
 
-But I keep making myself instant noodles, but that's not a healthy diet, sooo… I figured it's about time I start eating more veggies.
+I keep making myself instant noodles, though. But since that's not a healthy diet, I figured it's about time I start eating more veggies.
 
 I'll only make enough for myself, so I don't need *that* many ingredients… But hey, if I ever make too much food, I could carry a lunch box to school for once.
 {% endbubble %}

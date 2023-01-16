@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Ruthless Battlefield, Okinawa"
-date: 2023-1-16 00:00:00
+date: 2023-1-16 9:00:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -704,7 +704,7 @@ No, this is simply my personal opinion. Kanzaki will be the one to decide what w
 {% endbubble %}
 
 {% bubble Souma worried %}
-Um, as I’ve inquired before, why do you continually redirect the decision-making onto me? I personally would prefer to follow your wishes…
+Um, as I have inquired before, why do you continually redirect the decision-making onto me? I personally would prefer to follow your wishes…
 
 Could this mean that Hasumi-dono really <em>has</em> been told to abide by some sort of inauspicious order…?
 {% endbubble %}
@@ -792,7 +792,7 @@ I find that pretty cruel to do to me, though…
 {% endbubble %}
 
 {% bubble Keito %}
-Well, I understand you’re in a complicated position… but Kanzaki is also acting as the leader of Akatsuki for now, and will be the one to decide on what Akatsuki should do during the qualifying round.
+Well, I understand you’re in a complicated position… but Kanzaki is also acting as the leader of Akatsuki for now, and will be the one to decide on what Akatsuki should do during the qualifying rounds.
 
 If you don't mind, I'd like you to give him some advice as someone with experience, Nagumo.
 {% endbubble %}
@@ -1354,7 +1354,7 @@ Yeah… I think we're in a decent place in StarPro, but I guess we look like a w
 {% bubble Shinobu %}
 To be honest, we have not made any remarkable achievements since ES was established. Akatsuki is in the same position as us, too.
 
-Compared to other shining idols, we’re hidden in the background. It’s not surprising that our name has barely reached the farther prefectures in our country, like here.
+Compared to other shining idols, we’re hidden in the background. It isn't a surprise that our name has barely reached the farther prefectures in our country, like here.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1395,7 +1395,7 @@ I honestly refuse to do that.
 That may be how you feel… but…
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile %}
 yes. that is always how chiaki Feels about things.
 {% endbubble %}
 

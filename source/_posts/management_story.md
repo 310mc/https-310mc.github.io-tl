@@ -10,7 +10,7 @@ tags:
 description: "[ES!] Ensemble Stars (Enstars) Management story translations by 310mc."
 ---
 
-Management is Enstars! old version's equivalent to oshigoto/work feature, but it had an extra aspect to it where you could unlock conversations between characters after you finished a management course. In here you will find a directory to all the management stories translated by me.
+Management is Enstars! old version's equivalent to oshigoto/work feature, but it had an extra aspect to it where you could unlock conversations between characters after you've finished a management course. In here you will find a directory to all the management stories translated by me.
 
 **Note:** It's highly likely that the management stories are set in early spring, as many characters speak to each other with their initial namings, or interact as if it's one of their first meetings.
 

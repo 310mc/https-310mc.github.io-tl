@@ -610,7 +610,7 @@ You can even grow these in your own garden, so it might be nice to try it out at
 
 Next up… “Which mascot character are you crazy about the most right now?” Hmm… That’s a tricky question.
 
-Mm… I can’t *not* say Kana-tee, but the veggie mascot that shows up in commercials is super cute, too… I can’t choose one, sorry…
+Mm… I can’t *not* say Kanatee, but the veggie mascot that shows up in commercials is super cute, too… I can’t choose one, sorry…
 {% endbubble %}
 
 <img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="I hope I don't get anything difficult to answer…">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/2/2b/Midori_Takamine_Work_Birthday_Flowers_Chibi_5.png" width="150" data-tippy-content="I definitely recommend the seasonal veggies.">
@@ -682,9 +682,9 @@ I’m still a novice hero, but… I’ll be working hard to grow as Ryuseitai’
 {% img /img/es/birthdaystory/es2/midori/partyevent_1.jpg %}
 
 {% bubble Midori %}
-(Hrmm… Anzu-san only called for me here, so I'm betting it's gonna be for the birthday party…)
+<th>(Hmm… Anzu-san only called for me here, so I'm betting it's gonna be for the birthday party…)</th>
 
-(But what if it *isn't* that…? I'm gonna be so embarrassed if I've actually got a lecture coming for me…)
+<th>(But what if it *isn't* that…? I'm gonna be so embarrassed if I've actually got a lecture coming for me…)</th>
 
 Umm, excuse me, Anzu-san. Did you need me for something…?
 {% endbubble %}
@@ -802,9 +802,9 @@ To be honest, I feel sorta bad to have so much prepared just for *me*… But I e
 
 I'd like to make sure you all enjoy mine just the same, instead of regretting coming by… so I hope you enjoy yourselves here…
 
-(…Uuu… Maybe I'm being way too self-conscious by thinking they're all here just for my sake… I'm so embarrassed…)
+<th>(…Uuu… Maybe I'm being way too self-conscious by thinking they're all here just for my sake… I'm so embarrassed…)</th>
 
-(But I think it should be fine to admit it, just for today… After all, everyone prepared this just for me, so I gotta show confidence in myself for once…!)
+<th>(But I think it should be fine to admit it, just for today… After all, everyone prepared this just for me, so I gotta show confidence in myself for once…!)</th>
 {% endbubble %}
 
 <img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e4/Midori_Takamine_Work_Birthday_Flowers_Chibi_1.png" width="150" data-tippy-content="Are things gonna be okay with me in the spotlight…?">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Work_Birthday_Flowers_Chibi_3.png" width="150" data-tippy-content="It's nerve-wracking having so many eyes on me…">

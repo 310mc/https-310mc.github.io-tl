@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Nirai-Kanai"
-date: 2023-1-16 00:00:00
+date: 2023-1-16 9:05:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -15,7 +15,6 @@ tags:
 - Main Story
 - Akira
 description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -81,7 +80,7 @@ hidden: true
     <p>Several minutes later, at the restaurant that Akatsuki frequents…</p>
 </div>
 
-{% bubble Souma v3 %}
+{% bubble Souma %}
 Pardon me!
 
 Hasumi-dono! I have arrived alongside Kiryu-dono, as I heard there is an urgent matter! What on earth happened!?
@@ -93,7 +92,7 @@ Mm, well… Sit down first, Kanzaki.
 Wait, no, I take that back. You’re free to do as you like. I won’t be giving you a single order.
 {% endbubble %}
 
-{% bubble Souma v3 %}
+{% bubble Souma %}
 This is already becoming such a troublesome matter, Hasumi-dono~!
 
 —Mm!?
@@ -121,7 +120,7 @@ Heh-heh-heh…♪
 Brilliant! I applaud your incredible intuition to detect the presence of Ninja-man! I never imagined that someone could break through Sengoku-style Ninjutsu…!
 {% endbubble %}
 
-{% bubble Souma v3 %}
+{% bubble Souma %}
 Ninja-man? I do not believe you could be anyone but Morisawa-dono, correct?
 {% endbubble %}
 
@@ -135,7 +134,7 @@ Indeed! Since I'm currently in a position similar to one, I thought I'd act the 
 That’s why…! You may call me “Ninja-man” instead of “Morisawa Chiaki from Ryuseitai”…☆
 {% endbubble %}
 
-{% bubble Souma v3 %}
+{% bubble Souma %}
 E-Erm…? All right…?
 {% endbubble %}
 
@@ -197,7 +196,7 @@ Do *not* look at me like that.
 Wait, no — It's your choice whether you look at me or not. I won’t be ordering you to do anything, Kanzaki.
 {% endbubble %}
 
-{% bubble Souma v3 %}
+{% bubble Souma frown %}
 You are *extremely* difficult to speak to right now, Hasumi-dono.
 {% endbubble %}
 
@@ -1492,9 +1491,9 @@ We are idols affiliated with ES. If that ES has bared its fangs toward us with m
 
 ## Chapter 11
 
-<a href="https://ensemble-stars.fandom.com/wiki/Submarine" target="_blank"><img src="/img/es/eventstory/submarine/niraikanaich11.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/17542.html" target="_blank"><img src="/img/es/eventstory/submarine/niraikanaich11.jpg" style="width:100%;height:100%;"></a>
 
-**This chapter is translated by verdantgrove. <a href="https://ensemble-stars.fandom.com/wiki/Submarine" target="_blank">Click here to read Nirai-Kanai Chapter 11!</a>**
+**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/17542.html" target="_blank">Click here to read Nirai-Kanai Chapter 11!</a>**
 
 ## Chapter 12
 
@@ -1958,7 +1957,7 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn https://verdantgrove.dreamwidth.org/14046.html,, arrow-left, Previous Chapter: Chapter 2 %}
+{% btn https://verdantgrove.dreamwidth.org/16854.html,, arrow-left, Previous Chapter: Chapter 2 %}
 {% btn /submarine,, star, Index %}
 {% btn /submarine/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>

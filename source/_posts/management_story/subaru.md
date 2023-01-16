@@ -67,7 +67,7 @@ Yoohoo, it's mee~! Hmm? I'm the only one here, huh? Oh well, guess I'll practice
 {% endbubble %}
 
 {% bubble Chiaki %}
-Worry not, Akehoshi, for I'm here! Let's practice together! Let's shed the sweat of youth…☆
+Worry not, Akehoshi, for I am here! Let's practice together! Let's shed the sweat of youth…☆
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -97,7 +97,7 @@ Why, of course! Right then, Akehoshi, here I come! Make sure to accept me whole�
 {% endbubble %}
 
 {% bubble Subaru %}
-Gah, he's just as annoying on the offense side… I don't wanna try taking you on, so I'll just dodge.
+Gah, he's just as annoying on the offense… I don't wanna try taking you on, so I'll just dodge.
 {% endbubble %}
 
 {% bubble Chiaki %}

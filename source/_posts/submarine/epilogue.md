@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Epilogue"
-date: 2023-1-16 00:00:00
+date: 2023-1-16 9:10:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -14,7 +14,6 @@ tags:
 - Main Story
 - Akira
 description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -80,7 +79,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Chiaki %}
-“Fuhahaha! Thanks for coming to see our Ryuseitai and Akatsuki live show today! I'm extremely happy to see you all…☆”
+“Fuhahaha! Thanks for coming to see our Ryuseitai and Akatsuki live show today! We're extremely happy to see you all…☆”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -202,24 +201,24 @@ Yeah… But please don’t worry, we don’t plan on going against ES’s orders
 
 Just ‘cause I can’t stand the higher-ups doesn’t mean I'm gonna disobey them and risk getting told something stupid again, like to revert Ryuseitai back to its original shape…
 
-Besides, my order was super simple — I just had to avoid touching the “thing” that I love during the qualifying rounds…
+Besides, my order was super simple — I just had to avoid touching *that* thing I love during the qualifying rounds…
 
 And I’m not an infant or something… I can put up with it during the rounds just fine…
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-The thing that you love? Oh, I get it now! So *that’s* why you kept your distance from me all this time, Takamine!
+That thing you love? Oh, I get it now! So *that’s* why you kept your distance from me all this time, Takamine!
 {% endbubble %}
 
 {% bubble Tetora awkward %}
 You were the one doing all the avoiding, and I think he’s talking about mascots, y’know~?
 
-By the way, I had some pretty dangerously close moments, like when we were tryna stop Kanzaki-senpai. My weakness is that my brain stops workin’ whenever I’m overstimulated.
+By the way, I had some pretty dangerously close moments, like when we were tryna stop Kanzaki-senpai. One of my weaknesses is that my brain stops workin’ whenever I’m overstimulated.
 
 But nobody from the SS administration committee said anything, so I guess that means I didn’t go overboard.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Hmm, so… Was Tetora-kun’s order something like, “no violence during the qualifying round”?
 {% endbubble %}
 
@@ -277,9 +276,9 @@ If they take any longer, we’ll end up stealing the limelight!
 
 ## Chapter 2
 
-<a href="https://ensemble-stars.fandom.com/wiki/Submarine" target="_blank"><img src="/img/es/eventstory/submarine/epch2.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank"><img src="/img/es/eventstory/submarine/epch2.jpg" style="width:100%;height:100%;"></a>
 
-**This chapter is translated by verdantgrove. <a href="https://ensemble-stars.fandom.com/wiki/Submarine" target="_blank">Click here to read Epilogue 2!</a>**
+**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank">Click here to read Epilogue 2!</a>**
 
 ## Chapter 3
 
@@ -328,7 +327,7 @@ If they take any longer, we’ll end up stealing the limelight!
 {% bubble Chiaki %}
 <th>(Heheh, Kiryu’s incredible as always. He’s always so sincere about being an idol.)</th>
 
-<th>(…I want to do the same—Let’s start from there.)</th>
+<th>(…I want to do the same — Let’s start from there.)</th>
 
 <th>(We aren’t back to square one, and we haven't lost anything, either… We’ll go back to our baseline, and build up from scratch.)</th>
 
@@ -349,7 +348,7 @@ If they take any longer, we’ll end up stealing the limelight!
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /submarine/nirai_kanai,, arrow-left, Previous Chapter: Nirai-Kanai %}
 {% btn /submarine,, star, Index %}
-{% btn https://verdantgrove.dreamwidth.org/15809.html,, arrow-right, Next Chapter: Epilogue 3 %}
+{% btn https://verdantgrove.dreamwidth.org/18078.html,, arrow-right, Next Chapter: Epilogue 3 %}
 </div>
 
 ## Translation Notes

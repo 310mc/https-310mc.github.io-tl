@@ -105,7 +105,7 @@ Ahaha\~ Thanks. I think it’s nice that you’re that type of person, yeah\~
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ooh! Thank *you*! Let’s hang out, Hakaze! We’ll watch the movie together once it comes out!
+Ooh! Thank *you!* Let’s hang out, Hakaze! We’ll watch the movie together once it comes out!
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -127,7 +127,7 @@ The black flames are the mark of effort! The burning fighting spirit, stained wi
 {% endbubble %}
 
 {% bubble Tetora %}
-Umm… Taichou? Sorry for asking while you’re so excited, but… Could you tell me why you called us here?
+Umm… Taichou? Sorry for asking while you’re so excited, but… Couldja tell me why you called us here?
 
 You told us to come over here after class, but I only see the two of us in this park…
 {% endbubble %}
@@ -145,7 +145,7 @@ He said he won’t be able to come 'cuz he has to work at his family’s greengr
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hold on, I wasn’t told about this…? This means that me, you, and Sengoku are the only ones who’ll perform.
+Hold on, I wasn’t informed about this…? This means that me, you, and Sengoku are the only ones who’ll perform.
 
 Well, no matter. Hardships are an inevitability for heroes! By overcoming them, you become qualified to call yourself one!
 
@@ -231,7 +231,7 @@ And so! Takamine-kun! Let’s go to the club! Let's shed the sweat of youth…�
 {% endbubble %}
 
 {% bubble Midori %}
-Uurgh… You’re still coming right up into my personal space, so nothing’s actually changed, y’know…?
+Ughh… You’re still coming right up into my personal space, so nothing’s actually changed, y’know…?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -241,7 +241,7 @@ Nevertheless! We have practice today, so come join us, Takamine!
 {% endbubble %}
 
 {% bubble Midori %}
-Urghh… You’ll drag me along with you no matter how many times I say no, won’t you…?
+Ughh… You’ll drag me along with you no matter how many times I say no, won’t you…?
 
 Meh, fine… I don’t have any work at the greengrocer’s today, and I have the time to spare…
 {% endbubble %}
@@ -263,7 +263,7 @@ Hmhmhmm…♪
 {% endbubble %}
 
 {% bubble Kanata %}
-hehehe…♪ hehehehehe…♪
+fufufu…♪ fufufufufu…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -359,7 +359,7 @@ Wha—Really!? Are you interested in hero shows by any chance!?
 {% bubble Keito %}
 Sorry to burst your bubble, but I just happened to come across an episode one day when I turned the TV on.
 
-But I do think it's pretty excellent for a children's show.
+Although, I do think it's pretty excellent for a children's show.
 
 I forgot which series this was, but… I remember an episode where someone close to the protagonist fell ill to a chronic disease, and he had the opportunity to save them if he joined sides with the villains.
 

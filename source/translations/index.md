@@ -266,7 +266,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         />
     </div>
     <a href="/submarine" class="storyName" target="_blank">
-        <span>Submarine (In Progress!)</span>
+        <span>Submarine</span>
         <span class="read"></span>
     </a>
 </div>

@@ -151,7 +151,7 @@ R-Really? You'd be okay with that!? Thank you so much, Mikejima-san!
 {% bubble Madara %}
 Hahaha, 'course! I'll aaalways help out a person in need!
 
-Aaalrighty then, let's get to it! We got this, Chiaki-san…♪
+Aaalrighty then, let's get to it! We've got this, Chiaki-san…♪
 {% endbubble %}
 
 <div toc>{% btn /management_story,, star, Index %}</div>

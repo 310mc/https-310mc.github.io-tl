@@ -613,7 +613,7 @@ Oh yeah, I left some pancakes for you over there, so go ahead and eat them! You'
 {% bubble Kaoru %}
 Woah, you remembered my favorite food?
 
-That reminds me though, there was a lot of French fries prepared, too. It's your birthday and all, so eat up as much as you like.
+That reminds me though, there were a lot of French fries prepared, too. It's your birthday and all, so eat up as much as you like.
 {% endbubble %}
 
 {% bubble Chiaki %}
