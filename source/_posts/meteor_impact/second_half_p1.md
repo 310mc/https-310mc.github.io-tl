@@ -221,7 +221,7 @@ So don’t worry about it. ‘Kay, I’ll see ya later~ Just spotted a nice job,
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Ooh, you’ve got keen eyesight! You could become a great basketball player! Come visit the basketball club sometime, Akehoshi-kun.
+Ooh, you’ve got keen eyesight! You could become a great basketball player! Come visit the Basketball Club sometime, Akehoshi-kun.
 
 {% endbubble %}
 {% bubble Subaru %}
@@ -255,7 +255,7 @@ Bam! Take this! Finishing move: Super Chiaki Shoot…!! ☆
 *Heh*… One point for me! Justice always prevails!
 {% endbubble %}
 {% bubble Subaru %}
-… Huh, you talk to yourself a lot, *Morisawasenpai.*
+… Huh, you sure talk to yourself a lot, *Morisawasenpai.*
 
 {% endbubble %}
 {% bubble Chiaki past %}
@@ -325,19 +325,19 @@ Which number would you like? You can choose any of them! Ah—but I’m not hand
 
 {% endbubble %}
 {% bubble Subaru %}
-I don’t mind anything~ … So there were practice uniforms? Is that normal for a basketball club? I’m a beginner, so I dunno much.
+I don’t mind anything~ … So there were practice uniforms? Is that normal for a Basketball Club? I’m a beginner, so I dunno much.
 
 {% endbubble %}
 {% bubble Chiaki past %}
 No, it’s pretty rare. Usually you only wear a uniform during a match.
 
-But since this is a basketball club in an idol school, there was once a time when a magazine company wanted to take candid shots for an article, so…
+But since this is a Basketball Club in an idol school, there was once a time when a magazine company wanted to take candid shots for an article, so…
 
 Now we have practice uniforms—or, well, uniforms for photos.
 
 {% endbubble %}
 {% bubble Subaru %}
-Ahh, I see, the photos wouldn’t be good enough in P.E. uniforms, yeah? It’s actually pretty hard to tell this is a basketball club without someone at least holding the ball.
+Ahh, I see, the photos wouldn’t be good enough in P.E. uniforms, yeah? It’s actually pretty hard to tell this is a Basketball Club without someone at least holding the ball.
 
 {% endbubble %}
 {% bubble Chiaki past %}

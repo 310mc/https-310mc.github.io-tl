@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Chiaki Mini Talk: Okinawa Red!"
-date: 2023/1/15 9:00:00
+date: 2021-5-31 8:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Shinobu]

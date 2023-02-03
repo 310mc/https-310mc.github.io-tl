@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ninja Clan"
-date: 2021-12-10 9:00:00
+date: 2021-12-08 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

@@ -69,7 +69,7 @@ On it said "to Morisawa-senpai", and… the name of *that*…
             {% bubble Chiaki worried %}
             Um, you know, the… Ugh! Find the courage within you, Morisawa Chiaki…!
 
-            Eggplants! I was gifted my most detested thing in the world: eggplaaaants~!
+            Eggplants! I was gifted the most detested thing in the world: eggplaaaants~!
 			{% endbubble %}
         </div>
     </div>
@@ -102,7 +102,7 @@ On it said "to Morisawa-senpai", and… the name of *that*…
 #### <div mt="rare"></div> 2/3
 
 {% bubble Chiaki frown %}
-Someone could trip if I left the box in the hallway, so I shoved it inside my dorm for the time being, but… I can't get the courage to open it up.
+Somebody could trip if I left the box in the hallway, so I shoved it inside my dorm for the time being, but… I can't get the courage to open it.
 
 I'd honestly rather avoid seeing or touching it altogether, but…
 

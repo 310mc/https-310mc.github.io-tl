@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Epilogue"
-date: 2023-1-16 9:10:00
+date: 2021-5-31 9:10:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -219,7 +219,7 @@ But nobody from the SS administration committee said anything, so I guess that m
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Hmm, so… Was Tetora-kun’s order something like, “no violence during the qualifying round”?
+Hmm, so… Was Tetora-kun’s order something like, “no violence during the qualifying rounds”?
 {% endbubble %}
 
 {% bubble Tetora %}

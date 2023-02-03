@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Christmas Party in Yumenosaki Academy"
-date: 2021-12-25 2:50:00
+date: 2019-12-25 2:50:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]

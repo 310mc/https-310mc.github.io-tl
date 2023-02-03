@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Chiaki Mini Talk: Troubled Hero"
-date: 2023/1/15 9:05:00
+date: 2021-5-31 8:05:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Midori]

@@ -193,7 +193,7 @@ I'd only stand out if I stuck around the shopping district, though, so… That's
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/cometshow/minitalk_midori2_3.jpg %}
 {% bubble Midori %}
-…Ah, please check this out. This soft drink ad just showed up on my social media.
+…Ah, please check this out. This soft drink ad just showed up on my social media feed.
 
 It's showing Morisawa-senpai in full… Oh, he's gotten a lot of comments from his fans, too.
 

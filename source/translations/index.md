@@ -120,9 +120,6 @@ I do __NOT__ permit changing the original intent/script of my translations. That
 <p style="color:red"><b>I do not permit:</b></p>
 
 ※ Profiting off of my translations in any way. I don't do my unofficial translations for profit and I would like them to stay as __non-profit__. Please keep in mind that __unofficial translations are typically illegal__ and this would cause legal repercussions on both parties.
-<!--※ Using or screenshotting any of my translations to criticize ENGstars translations. While I can't stop people from doing this, I __highly discourage__ it for the following reasons:
-1. As an illegal fan-translator, I want to avoid having my translations be noticed by the company as much as possible.
-2. I personally support ENGstars and I don't want my translations used as a means to criticize the game's content. Even if it's extremely vital to criticize it, I don't feel comfortable seeing my translations used for it. If possible, please translate it by yourself for those situations!-->
 
 If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
 </div>
@@ -270,7 +267,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
@@ -278,10 +275,10 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         />
     </div>
     <a href="/ring" class="storyName" target="_blank">
-        <span>Ring (Coming Soon!)</span>
+        <span>Ring (Partial Translation)</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="image">
         <img
@@ -294,6 +291,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
+<!--<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+            alt="Super Villain"
+        />
+    </div>
+    <a href="/super_villain" class="storyName" target="_blank">
+        <span>Super Villain (In Progress!)</span>
+        <span class="read"></span>
+    </a>
+</div>-->
 </div>
 
 ## Gacha Stories

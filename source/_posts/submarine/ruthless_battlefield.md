@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Ruthless Battlefield, Okinawa"
-date: 2023-1-16 9:00:00
+date: 2021-5-31 9:00:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]

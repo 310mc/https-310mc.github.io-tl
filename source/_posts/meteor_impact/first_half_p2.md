@@ -1565,7 +1565,7 @@ Maybe I’m just overthinking it, but I’m a liiittle scared, y’know?
 
 Like, they’ve touched a really dangerous area with the Kiryu Kuro-san incident, and a few other incidents, too.
 
-Cleaning a pool is not thaat big a deal, but this time around they’ve actually hurt a bunch of people.
+Cleaning a pool is not thaaat big a deal, but this time around they’ve actually hurt a bunch of people.
 
 All that bloodshed will forever cling to them. I wasn’t directly involved in that incident though—It was my mother who ordered them to do it.
 

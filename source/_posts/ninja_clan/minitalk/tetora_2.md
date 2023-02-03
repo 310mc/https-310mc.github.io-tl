@@ -191,7 +191,7 @@ I know exactly how much heart and soul he put into it, so I wanna do whatever I 
             {% bubble Tetora %}
             Oh yeah, that was part of his training. He used to practice the Cloning Jutsu and the Invisibility Jutsu, too.
 
-            I think he used to do a Channeling Jutsu, too, but I don't remember what he'd try to channel, exactly…? Do you remember, Anego?
+            I think he used to do a Channeling Jutsu, too, but I don't really remember what he was trying to channel, exactly…? Do you remember, Anego?
 			{% endbubble %}
         </div>
     </div>

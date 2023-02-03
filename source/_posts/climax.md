@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Climax (In Progress!)"
-date: 2021-11-6 9:00:00
+date: 2017-3-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

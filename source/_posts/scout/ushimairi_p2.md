@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ushimairi, Part Two (On Hold)"
-date: 2021-12-14 21:00:00
+date: 2021-1-14 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Alkaloid]

@@ -53,11 +53,11 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Ninja Clan. F
 {% img /img/es/eventstory/ninjaclan/minitalk_midori2_1.jpg %}
 
 {% bubble Midori %}
-I'm so sorry for making you help me with packing in the eggplants.
+I'm so sorry for making you help me with packing up the eggplants.
 
-I'm gonna be sending this box of eggplants to Morisawa-senpai.
+I'm gonna send this box of eggplants to Morisawa-senpai.
 
-I sent him this kind of urgent message the other day, but he arrived late to our meeting anyway, so this is gonna be his punishment.
+I sent him this urgent message the other day, but he arrived late to our meeting anyway, so this is gonna be his punishment.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -81,7 +81,7 @@ I sent him this kind of urgent message the other day, but he arrived late to our
             {% bubble Midori smile %}
             Well, it'd definitely work as one for Morisawa-senpai.
 
-            But I heard heroes grow stronger the more powerful the adversary, so maybe he'll tear up with joy for the opportunity.<!--強い困難に立ち向かうほど成長するそうですし、むしろ泣いて喜ぶんじゃないですかね-->
+            But I heard heroes grow stronger the more powerful the adversary, so maybe he'll tear up with joy over the opportunity.<!--強い困難に立ち向かうほど成長するそうですし、むしろ泣いて喜ぶんじゃないですかね-->
 			{% endbubble %}
         </div>
     </div>
@@ -104,11 +104,11 @@ I sent him this kind of urgent message the other day, but he arrived late to our
 {% img /img/es/eventstory/ninjaclan/minitalk_midori2_2.jpg %}
 
 {% bubble Midori %}
-Whew. I packed a lot inside, so it's heavier than expected…
+Whew… I packed a lot inside, so it's heavier than expected…
 
 I'm sorry to ask this of you, but could you please press the button on the elevator for me? My hands are tied carrying this box.
 
-I'm gonna carry this over to Starmony Dorm, so I'd like to go to the lobby.
+I'm gonna carry this over to Starmony Dorm, so I'd like to go down to the lobby.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -118,7 +118,7 @@ I'm gonna carry this over to Starmony Dorm, so I'd like to go to the lobby.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            No, please don't worry about it. I'm delivering this many vegetables all the time, so I'm used to it.
+            No, please don't worry about it. I deliver this many vegetables all the time, so I'm used to it.
 
             Plus, I'd get scolded if I make you of all people carry this for me…
 			{% endbubble %}
@@ -157,7 +157,7 @@ I'm gonna carry this over to Starmony Dorm, so I'd like to go to the lobby.
 {% bubble Midori smile %}
 Alright, we'll have to part ways here. Thank you for your hard work, Anzu-san.
 
-I'll be placing this box in front of Morisawa-senpai's room. I'm excited to see how he'll react…♪
+I'm gonna place this box in front of Morisawa-senpai's room. I'm excited to see how he'll react…♪
 
 Oh, and this eggplant is for you. It's my thanks for helping me out, so please take it.
 {% endbubble %}
@@ -181,7 +181,7 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            Hmmm… I wrote "Eggplants" in huge letters on the box, so… He'll likely jump the moment he sees the box, for starters.
+            Hmmm… I wrote "Eggplants" really big on the box, so… He'll likely jump the moment he sees the box, for starters.
 
             He may not even try opening it… But, well, I'll see what I'll do when that happens.
 			{% endbubble %}

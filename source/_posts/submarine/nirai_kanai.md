@@ -1,6 +1,6 @@
 ---
 title: "Submarine – Nirai-Kanai"
-date: 2023-1-16 9:05:00
+date: 2021-5-31 9:05:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Chiaki]
@@ -327,7 +327,7 @@ What exactly went wrong with us…? Was it bad luck, the times, or was it just�
 {% img /img/es/eventstory/submarine/p2ch4_1.jpg %}
 
 {% bubble Keito %}
-Don’t you hear what yourself? You’re beyond help *because* you refuse to hold a grudge against others. Were you a fool who laments unreason and blames everyone around you, I could still sympathize with you.
+Don’t you hear yourself? You’re beyond help *because* you refuse to hold a grudge against others. Were you a fool who laments unreason and blames everyone around you, I could still sympathize with you.
 
 But excessive goodness and holiness only lead people astray, Morisawa.
 {% endbubble %}
@@ -377,7 +377,7 @@ W-What’re we gonna do…?
 {% endbubble %}
 
 {% bubble Tetora angry %}
-What d’ya <em>think</em>!? We have to save Shinkai-senpai!
+What d’ya <em>think!?</em> We have to save Shinkai-senpai!
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -680,7 +680,7 @@ Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^1]
 {% endbubble %}
 
 {% bubble Midori worried %}
-No no no, absolutely no way! “Takamine Barricade” is powerless against an opponent with an *actual weapon*!
+No no no, absolutely no way! “Takamine Barricade” is powerless against an opponent with an *actual weapon!*
 {% endbubble %}
 
 {% bubble Kanata angry %}
@@ -882,7 +882,7 @@ Ah! Morisawa-dono, Hasumi-dono, and Kiryu-dono! You’ve all finally arrived! Pl
 {% endbubble %}
 
 {% bubble Keito %}
-I wouldn’t know, either. We aren’t gods who know everything happening in the universe.
+I wouldn’t know, either. We aren’t divine beings who know everything happening in the universe.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1087,7 +1087,7 @@ So please, I hope that you will talk to us about everything properly, without br
 Sengoku deserves ten billion points for his deeds today.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile %}
 Shinobu-kun is the championship winner.
 {% endbubble %}
 

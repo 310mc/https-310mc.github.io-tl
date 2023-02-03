@@ -79,7 +79,7 @@ Ah, good afternoon. I have my meeting with you today, right?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            Hmm, are you…? Ermm, let's see, we have our meeting at the half hour mark, which is ten minutes from now.
+            Hmm, have you…? Ermm, let's see, we have our meeting at the half hour mark, which is ten minutes from now.
 
             Morisawa-senpai always says stuff like, "It's only natural to be ten minutes early to a job as a working adult!", so I think you're right on time.
 			{% endbubble %}
