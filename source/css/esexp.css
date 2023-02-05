@@ -92,6 +92,15 @@
 [character="Chiaki"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_curious.png");
 }
+[character="Chiaki"][idle] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_idle.png");
+}
+[character="Chiaki"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_shocked.png");
+}
+[character="Chiaki"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh.png");
+}
 /**
 ***/
 
@@ -136,6 +145,12 @@
 [character="Kanata"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_surprised.png");
 }
+[character="Kanata"][idle] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_idle.png");
+}
+[character="Kanata"][cry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_cry.png");
+}
 /**
 ***/
 
@@ -175,6 +190,9 @@
 [character="Shinobu"][thinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_thinking.png");
 }
+[character="Shinobu"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_sigh.png");
+}
 /**
 ***/
 /** Tetora Expressions
@@ -208,6 +226,9 @@
 }
 [character="Tetora"][thinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_thinking.png");
+}
+[character="Tetora"][sad2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sad2.png");
 }
 
 [character=TetoraS]{

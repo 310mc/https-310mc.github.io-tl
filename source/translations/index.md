@@ -291,7 +291,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
@@ -302,7 +302,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span>Super Villain (In Progress!)</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 </div>
 
 ## Gacha Stories
@@ -961,6 +961,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/songs/colorsarise.jpg"
+            alt="Colors Arise"
+        />
+    </div>
+    <a href="/colors_arise" class="storyName" target="_blank">
+        <span>Colors Arise</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other

@@ -7,9 +7,8 @@ categories:
 tags:
 - Story Index
 description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later…"
-hidden: true
 ---
-<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/eventstory/supervillain/tetorabcgframe.jpg')"></div>
         <div class="preview-box">
@@ -22,8 +21,7 @@ hidden: true
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>
-                After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -76,13 +74,13 @@ hidden: true
                         </div>
                         <div class="value">
                             ryuseipuka
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 
 <!-- more -->
 
@@ -107,15 +105,14 @@ hidden: true
                 <div class="title-area__title">Super Villain</div>
                 <div class="title-area__subtitle">スーパーヴィラン</div>
                 <div class="title-area__start">
-                    <a href="super_villain/prologue">Start Reading</a>
+                    <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>
-                After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -234,18 +231,18 @@ hidden: true
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/supervillain/shinobubcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue
+                                    Super-sized Villain 13
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/shinobubcg.jpg">
+                                    <img src="/img/es/eventstory/supervillain/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue
+                                    Super-sized Villain 15
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -253,7 +250,7 @@ hidden: true
                                     <img src="/img/es/eventstory/supervillain/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue
+                                    Super-sized Villain 15
                                 </div>
                             </div>
                         </div>
@@ -456,33 +453,10 @@ hidden: true
                             <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>Dark Star</span>
-                            <a href="dark_star#Chapter-1" id="none">1</a>
-                            <a href="dark_star#Chapter-2" id="none">2</a>
-                            <a href="dark_star#Chapter-3" id="none">3</a>
-                            <a href="dark_star#Chapter-4" id="none">4</a>
-                            <a href="dark_star#Chapter-5" id="none">5</a>
-                            <a href="dark_star#Chapter-6" id="none">6</a>
-                            <a href="dark_star#Chapter-7" id="none">7</a>
-                            <a href="dark_star#Chapter-8" id="none">8</a>
+                            <a href="dark_star" id="none">Dark Star</a>                          
                         </li>
                         <li>
-                            <span>Super-sized Villain</span>
-                            <a href="supersized_villain#Chapter-1" id="none">1</a>
-                            <a href="supersized_villain#Chapter-2" id="none">2</a>
-                            <a href="supersized_villain#Chapter-3" id="none">3</a>
-                            <a href="supersized_villain#Chapter-4" id="none">4</a>
-                            <a href="supersized_villain#Chapter-5" id="none">5</a>
-                            <a href="supersized_villain#Chapter-6" id="none">6</a>
-                            <a href="supersized_villain#Chapter-7" id="none">7</a>
-                            <a href="supersized_villain#Chapter-8" id="none">8</a>
-                            <a href="supersized_villain#Chapter-9" id="none">9</a>
-                            <a href="supersized_villain#Chapter-10" id="none">10</a>
-                            <a href="supersized_villain#Chapter-11" id="none">11</a>
-                            <a href="supersized_villain#Chapter-12" id="none">12</a>
-                            <a href="supersized_villain#Chapter-13" id="none">13</a>
-                            <a href="supersized_villain#Chapter-14" id="none">14</a>
-                            <a href="supersized_villain#Chapter-15" id="none">15</a>
+                            <a href="supersized_villain" id="none">Super-sized Villain</a>          
                         </li>
                         <li>
                             <a href="epilogue" id="none">Epilogue</a>

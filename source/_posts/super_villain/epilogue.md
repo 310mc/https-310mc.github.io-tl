@@ -58,9 +58,11 @@ hidden: true
 
 <!-- more -->
 
+{% note narration %}
+Coming soon!
+{% endnote %}
+
 <div toc>
 {% btn /super_villain/supersized_villain,, arrow-left, Previous Chapter: Super-sized Villain %}
 {% btn /super_villain,, star, Index %}
 </div>
-
-## Translation Notes

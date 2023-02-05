@@ -33,7 +33,7 @@ permalink: colors_arise/
                     Associated Story
                 </div>
                 <div class="value">
-                    <!--<a href="/super_villain">Super Villain</a>-->Super Villain
+                    <a href="/super_villain">Super Villain</a>
                 </div>
             </div>
             <div class="info-item two">
