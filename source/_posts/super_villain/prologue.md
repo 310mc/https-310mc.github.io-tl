@@ -57,11 +57,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 
 <!-- more -->
 
-<div class="msr-narration">
-    <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: Super Villains…</p>
-</div>
-
 {% img /img/es/eventstory/supervillain/prologue_1.jpg %}
+
+<div class="msr-narration">
+    <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: Supervillains…</p>
+</div>
 
 {% bubble Tetora surprised %}
 (Oh no…)

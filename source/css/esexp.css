@@ -257,6 +257,7 @@
 }
 [character="Kaijuu"] {
   --color:#122330;
+  --name: "Great Kaijuu";
   --light-mode:hsl(206, 15%, 84%);
   --dark-mode:hsl(206, 15%, 84%);
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hugekaijuu.png");

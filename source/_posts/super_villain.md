@@ -21,7 +21,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -112,7 +112,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -278,7 +278,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Combat Unlimited] Tetora Nagumo</div>
+                                    <div class="card__name">[Unlimited Combat] Tetora Nagumo</div>
                                     <div class="card__jp">[闘争アンリミテッド] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
@@ -314,7 +314,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Effortful Unlimited] Shinobu Sengoku</div>
+                                    <div class="card__name">[Unlimited Effort] Shinobu Sengoku</div>
                                     <div class="card__jp">[奔走アンリミテッド] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
@@ -350,7 +350,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[United Front Unlimited] Chiaki Morisawa</div>
+                                    <div class="card__name">[Unlimited United Front] Chiaki Morisawa</div>
                                     <div class="card__jp">[共闘アンリミテッド] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
@@ -386,7 +386,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Playing Around Unlimited] Midori Takamine</div>
+                                    <div class="card__name">[Unlimited Playing Around] Midori Takamine</div>
                                     <div class="card__jp">[翻弄アンリミテッド] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
@@ -422,7 +422,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[recollection unlimited] Kanata Shinkai</div>
+                                    <div class="card__name">[unlimited recollection] Kanata Shinkai</div>
                                     <div class="card__jp">[かいそうあんりみてっど] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>

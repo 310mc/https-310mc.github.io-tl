@@ -63,14 +63,14 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 
 ## Chapter 1
 
+{% img /img/es/eventstory/supervillain/darkstarch1_1.jpg %}
+
 <div class="msr-narration">
     <p>Half a year later. Middle of March, in ES’s first year of establishment…</p>
 </div>
 
-{% img /img/es/eventstory/supervillain/darkstarch1_1.jpg %}
-
 {% bubble Chiaki v2 %}
-The worldbuilding of the new show, Super Villains, seems to have finally been set in stone!
+The worldbuilding of the new show, Supervillains, seems to have finally been set in stone!
 
 The decision looks to be absolutely confirmed this time for sure.
 {% endbubble %}
@@ -94,7 +94,7 @@ Haha… I knew from the very beginning that there would be some trouble with the
 
 Nonetheless, this blockbuster in which various famous heroes, whether local or overseas, gather to fight…
 
-Am I right to assume that the title of said project has been confirmed to be “Super Villains”?
+Am I right to assume that the title of said project has been confirmed to be “Supervillains”?
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -158,7 +158,7 @@ I’m certain that deep down, he also thinks that you are the cutest in the whol
 {% bubble Chiaki awkward %}
 ……(Pats Kanata’s head for now)
 
-Right, so. We went extremely off-topic for a moment, but — Super Villains will feature all of Japan’s world-famous tokusatsu heroes.
+Right, so. We went extremely off-topic for a moment, but — Supervillains will feature all of Japan’s world-famous tokusatsu heroes.
 
 That was part of the original plan, at least.
 
@@ -232,7 +232,7 @@ if there are no heroes in this world, then *we* will become heroes.
 {% bubble Chiaki serious %}
 Yeah… While we do tend to get beat up in the face of reality… That’s the sort of ambition we, Ryuseitai, are working under.
 
-That’s exactly why we’re the one group that can’t, at any cost, abandon Super Villains, as it also has been suffering countless injuries in the face of reality.
+That’s exactly why we’re the one group that can’t, at any cost, abandon Supervillains, as it also has been suffering countless injuries in the face of reality.
 
 This is a matter of our identity.
 
@@ -264,13 +264,13 @@ mm~ i believe midori may simply be [skipping] out on the meeting, but i do not t
 {% bubble Shinobu frown %}
 Ahh, indeed. It seems that Tetora-kun has found himself in an unforeseen position. I don’t know exactly how it happened, however.
 
-But even if we are physically far apart, our hearts are always one. I’m certain it is. I believe in that!
+But even if we are physically far apart, our hearts are always one and the same. I’m certain it is. I believe in that!
 
-Although, it seems like Midori-kun mainly can’t stand to participate in any Ryuseitai activities, and thus has been running away from them…
+Although, it seems like Midori-kun mainly cannot stand to participate in any Ryuseitai activities, and thus has been running away from them…
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-I’m sure Takamine doesn’t mean to run away, though.
+Takamine probably doesn’t mean to run away, though.
 
 When all five of us gather, the atmosphere becomes uncomfortable, and he likely doesn’t like that, so he’s been avoiding it altogether.
 {% endbubble %}
@@ -290,7 +290,7 @@ Yeah… I’m not sure I can emotionally handle that kind of thing right now.
 {% img /img/es/eventstory/supervillain/darkstarch2_1.jpg %}
 
 {% bubble Chiaki v2 %}
-Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called “Super Villains”.
+Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called “Supervillains”.
 
 Therefore, it would be against my sense of duty to leave now. And personally, I want to give it my all and see through the end, as well.
 
@@ -338,7 +338,7 @@ To be honest, I feel as though only you are particular about that, Morisawa-dono
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-About that… All the heroes in Super Villains are actually supposed to be villains in the story.
+About that… All the heroes in Supervillains are actually supposed to be villains in the story.
 {% endbubble %}
 
 {% bubble Kanata curious %}
@@ -350,7 +350,7 @@ I haven’t properly examined all the documentation on its worldbuilding to full
 
 But I heard that justice and evil are reversed in the story’s world, due to some sort of final boss that appears in the story.
 
-The world within Super Villains is ruled by evil. In there, justice becomes evil and evil becomes justice.
+The world within Supervillains is ruled by evil. In there, justice becomes evil and evil becomes justice.
 
 The heroes in the story are predestined to be hunted as evil in that world.
 {% endbubble %}
@@ -364,7 +364,7 @@ Yep. For us viewers who are outside of that world, the tokusatsu heroes are obvi
 
 But in the story, they are treated as evil.
 
-Normally, when a hero appears, the general public applauds them, but in the world of Super Villains, they scream in fear.
+Normally, when a hero appears, the general public applauds them, but in the world of Supervillains, they scream in fear.
 
 The protagonist of the story will be the very first hero in a world where values have been overturned, when they realize that something is wrong about their world.
 
@@ -430,7 +430,7 @@ I got the courage to check just a moment ago, and rushed here as soon as I found
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-I know I sound insistent by constantly saying this, but you need to be more diligent about checking business-related messages! Promise your Taichou[^2] that!
+I know I sound insistent by constantly saying this, but you need to be more diligent about checking business-related messages! Promise your Taichou[^2] that you’ll do that!
 {% endbubble %}
 
 {% bubble Midori sad %}
@@ -569,6 +569,426 @@ What the…!? What is this…!?
 ——What!? Whaaat!? What on <em>earth</em>…!? I haven’t heard anything about this…!
 {% endbubble %}
 
+## Chapter 4
+
+{% img /img/es/eventstory/supervillain/darkstarch4_1.jpg %}
+
+<div class="msr-narration">
+    <p>The next day. Okinawa prefecture, in one of the downtown alleyways, far away from the headquarters building of the agency, “Crimson Production”…</p>
+</div>
+
+{% bubble Tetora vside %}
+—An intruder?[^3]
+
+Is it another one of those random local punks causing a ruckus around the area again? Those Oni descendants[^4] or something—
+
+No? They’ve been relatively quiet since their boss left for the US? I hear there’s still some guys left over around here, though?
+
+There have been rumors that they’re regaining power, while the local powerhouses have been flattened across the board in SS—
+
+Hmmm… Well, even if they’re just a bunch of troublemakers, we should be on the lookout just in case.
+
+Yeah. For the time being, I’ll leave it to the B squad of the combat branch to deal with the intruder.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/tetoraorigcg.jpg %}
+
+{% bubble Tetora vside %}
+I know. We’ll also settle our matters as fast as possible, and then return to the headquarters building. We’ll discuss countermeasures against the mysterious intruder after that.
+
+——Right then, time for another fun day of work at the villainous organization.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch4_2.jpg %}
+
+<div class="msr-narration">
+    <p>Next morning. Near the whereabouts of Crimson Production’s headquarters…</p>
+</div>
+
+{% bubble Shinobu v2 %}
+Hello, Taichou-dono? This is Sengoku Shinobu speaking, over.
+
+As per our plan, I have reached the area of the company that Tetora-kun was dispatched to, which is called, erm… Right, the Crimson Production headquarters.
+
+T-The air it emits is so grandiose that it is a little scary… A modern-looking building stands alone in the middle of a primeval forest, as if it were nothing more than a picturesque view.
+
+There are no signs of dwelling anywhere nearby; only a majestically vast wilderness that stretches on.
+
+Around the building is some sort of training ground… This may sound like an exaggeration, but it sort of looks like a military facility.
+
+Ah, yes, I am aware of that. I have not forgotten that there are US military bases in Okinawa, so I will be extra careful not to trend anywhere close to them and risk myself.
+
+There is no need to worry. When we were in Okinawa for the SS qualifying rounds, I had already mastered the geography and other various details about the region.
+
+Indeed, I will not take any chances. I shall simply observe the situation, as we will be conducting a thorough investigation tomorrow.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch4_3.jpg %}
+
+{% bubble Shinobu serious %}
+Yes… This would have been easier if we managed to make contact with Tetora-kun through HoldHands or something, but we have not gotten any response for some reason.
+
+Ah, no, actually… I can see a glimpse of someone who looks like Tetora-kun through the window of the building, and he seems to be doing rather well.
+
+For some reason, he is leaning back on his chair with his legs propped up on an expensive-looking desk—
+
+Is that really Tetora-kun…? He seems unusually different somehow…
+
+Mhm. Regardless, I can assure you that Tetora-kun is alive and well. Although, I don’t know why he’s refusing all contact with us.
+
+It does not help that we have no knowledge of Tetora-kun’s current situation, either.
+
+I tried to gather some information about Crimson Production from locals on the way, but it appears that there is not much information known to anybody here, either.
+
+Apparently, it used to be a well-established entertainment agency in Okinawa, but there has been little to no activity in recent years.
+
+Indeed, it is as you say — Despite this, they have built a new building, and the land around here is apparently all owned by Crimson Production.
+
+Mhm, mhm… I truly do wonder where they acquired the money to buy such extravagant property, when they have not even produced anything worthwhile. It’s quite obviously fishy.
+
+There is definitely something going on here, Taichou-dono.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch4_4.jpg %}
+
+{% bubble Shinobu v2 %}
+Oh, yes, of course. I am but a humble ninja idol, not a detective or police officer. I assure you that I will not do anything that could stir up problems for myself.
+
+For the time being, it’s more than enough if we can simply confirm Tetora-kun’s current status.
+
+Hm? No, no, please leave this all to me!
+
+As we know, Midori-kun is taking on more personal work than he should, but you and Shinkai-dono have a lot of work to do as well, correct?
+
+There is no need for you to cancel your schedule and come all the way to Okinawa. Is that not the agreement we had in yesterday’s discussion?
+
+Mhm, mhm. It seems that the upperclassmen at Yumenosaki Academy are in dispute these days, as it is graduation season.
+
+However, I still have one more year to go as a highschooler, so my yearmates and I are practically left out of the loop regarding all of that.
+
+I have got the time to spare for all of this. That’s why you need not worry, I’ll be alright.
+
+Hmm? What about my work as a Student Council member? Ohhh~ Yes, well, we’re stuck in one place right now, so even then, I have a lot of availab—
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch4_5.jpg %}
+
+{% bubble Shinobu worried %}
+Hmm?
+
+Huh? Oh no, erm, it’s just that I thought I saw something move in the bushes…?
+
+A-A wild animal, perhaps? Or is it a security guard…?
+
+E-Either way, I have a bad feeling about this, so I must conceal myself at once! Yes, I’ll provide you a full report later — For now, I will excuse myself!
+{% endbubble %}
+
+## Chapter 5
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the ES building, inside ESTele’s studio</span></p>
+</div>
+
+{% img /img/es/eventstory/supervillain/darkstarch5_1.jpg %}
+
+<div class="msr-narration">
+    <p>At the same time…</p>
+</div>
+
+{% bubble Chiaki surprised %}
+S-Sengoku!? Sengoku, can you hear meee!?
+
+I lost signal… I-Is everything going to be alright…?
+{% endbubble %}
+
+{% bubble Kanata worried %}
+mm~ i feel as though we should have gone to [okinawa] too, after all.
+
+the [atmosphere] felt far too alarming…
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+No, we’ve all made our decision yesterday. We said that we’d leave it all to him based on the fact that he’s been extremely reliable these days.
+
+And that we’ll do our best with our regular duties in Ryuseitai, while Sengoku is investigating what’s happening over on the other side.
+
+I’m concerned about Nagumo, but we can’t afford to take a loss in our work. That would only worry the fans and the involved staff even more.
+
+Unlike the heroes on TV, we can’t live our lives fighting all the time… That’s always the harsh reality about life, huh…
+{% endbubble %}
+
+{% bubble Kanata idle %}
+yes… but still, we will do what we can.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Yup. Of course, we’ll ensure full backup for Sengoku while doing our job. I would like to think that even though we’re physically far apart, our hearts are always one and the same.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch5_2.jpg %}
+
+{% bubble Chiaki serious %}
+Takamine is still prioritizing his personal work as we speak, though…
+
+But, well… I suppose he can’t boycott the work he had already agreed to do, so there isn’t much we can do about it.
+
+Takamine used to have no motivation, but now he works hard on his jobs no matter the reason. Personally, I refuse to oppose that.
+
+The one who kept telling him to do his best, and to keep going is me, after all.
+
+I refuse to become a two-faced person who changes what they say depending on the time and place.
+{% endbubble %}
+
+{% bubble Kanata smile %}
+fufu~ that would not be cool to do after all, right?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah… Anyway, we have a scene to shoot, but I’d like to support Sengoku by gathering information in between.
+
+In the meantime, I’m trying to contact the ever-knowledgeable Tenshouin on HoldHands to see if he knows anything. I’ll try other people, as well.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+me too, i will ask [rei] if he knows something, since he is always so well-informed on everything.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah, please do. There are also various rumors and speculations circulating on the Internet, but they seem to have no basis, so I think we should take them with a grain of salt.
+{% endbubble %}
+
+{% bubble Kanata awkward %}
+yes~… the [internet] is so scary. i have come to understand that during the [summer].
+{% endbubble %}
+
+{% bubble Chiaki smile2 %}
+Yeah, but I don’t think we should stay away from it excessively like how Takamine is. It’s how you utilize the enormous power you’ve been bestowed that determines whether you’re a hero of justice or a villain.
+
+I learned that from Kamen Riders.
+
+Tokusatsu shows taught me everything important in life.
+{% endbubble %}
+
+{% bubble Kanata sad %}
+…is tetora really going to [leave] ryuseitai entirely…?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+That’s what the rumors say, but I don’t think so.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+what makes you [say] that?
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+The ES rules. If you wish to withdraw from your unit, you <em>must</em> have the approval of the leader first. Those are the rules.
+
+And I, the current leader of Ryuseitai, have not received any request form of withdrawal from Nagumo, nor have I approved it.
+
+Since staff readjustments will create an issue with salaries and other aspects, it requires a report to ES — in other words, to the agency — as well as following official procedures, and so on and so forth.
+
+And when I talked to Tenshouin, the verified head-manager of the current StarPro office, he also said that Nagumo hasn’t submitted any documents related to the matter.
+
+I’ll ask Tenshoin to investigate as much as he can within his authority, and if he comes up with nothing, then it proves that there really *is* nothing to those rumors.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+uu~… all these things about [rules] and [procedures]… it is a difficult [topic], isn’t it?
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+Human society is a complex and tiresome place, Kanata. No matter where you go, you’ll find documents, documents, and more documents.
+
+That being said, I think it’s much more peaceful and upscale than a society where everything is decided only by feelings and impulse.
+
+There isn’t any way to confirm what a person is thinking, but with documents, you can.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+even though chiaki is truly just the [type] to act only through [impulse]…
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+I’m not young anymore… Achieving anything through impulse alone only works until elementary school.
+
+My point is, the online news about Nagumo leaving Ryuseitai and creating a new group called “RB” is likely a downright lie without any basis whatsoever.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+that is what is called [fake news], yes? we have been constantly suffering from such reports since [summer].
+{% endbubble %}
+
+{% bubble Chiaki %}
+No, let’s instead look on the bright side here and think, “After facing such hardships during the summer, we can now use those experiences to benefit ourselves.” None of the things we went through, and none of our effort, will be in vain. They never are, nor will they ever be.
+
+Anyway, the question here is, how did this news come about?
+
+How will the public react to it? And how should we deal with it?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+in a similar way to “we have [trouble], a [monster] has appeared,” yes?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah. Everything in life would’ve been so much easier if we could’ve simply assumed that “it’s all Gorgom’s doing!”[^5], but—
+
+Just as there are no heroes in this reality, there are no purely evil monsters or villainous organizations, either.
+{% endbubble %}
+
+## Chapter 6
+
+{% img /img/es/eventstory/supervillain/darkstarch6_1.jpg %}
+
+<div class="msr-narration">
+    <p>Nearly an hour later. Okinawa, in the Crimson Production agency office…</p>
+</div>
+
+{% bubble Tetora vside %}
+—Now then.
+
+You really put us in a tight spot, “Sengoku-kun”.
+
+Trespassing on our private property, investigating the area… I can’t simply let that slide, you know? That’s why I had a subordinate tie you up.
+{% endbubble %}
+
+{% bubble Shinobu angry2 %}
+………
+{% endbubble %}
+
+{% bubble Tetora vside %}
+I suppose it’d be silly to ask why you’re here, so let’s get straight to it — Is it because you were worried for me?
+
+You guys are a meddling lot as always.
+{% endbubble %}
+
+{% bubble Shinobu surprised %}
+— Okay, seriously, who *are* you!?
+{% endbubble %}
+
+{% bubble Tetora vside %}
+Hm? What do you mean?
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+What is *up* with the way you talk!? It sounds so *weird!*
+
+Where did the Tetora-kun who would always say “Uu~myu” and “Ossu!” and “‘Sup!” go!?
+{% endbubble %}
+
+{% bubble Tetora vside %}
+Um, I *am* Nagumo Tetora, though? Quit yapping, it’s embarrassing.
+{% endbubble %}
+
+{% bubble Shinobu surprised %}
+Our Tetora-kun would *never* say that! What is going on here!? Have you been brainwashed by aliens or some kind of villainous organization!?
+
+Or has a ghost possessed you, by any chance?
+
+Ah—! Is it like NEGI-dono—
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch6_2.jpg %}
+
+{% bubble Tetora vside %}
+Look, that’s besides the point right now.
+
+I’ve got matters of my own to sort through, so I can’t stick around and chat with you.
+
+I’ll give you an option, though. If you sign here on this document, indicating that you promise you’ll never spill anything you’ve seen or heard here, I’ll let you go unharmed. So, what’s it going to be?
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+Uuu~ I cannot promise that! I must report to Taichou-dono and Shinkai-dono about how absolutely strange you’ve been acting!
+{% endbubble %}
+
+{% bubble Tetora vside %}
+“Taichou-dono,” huh? Hmph.  …Fine, I’ll just have you confined here for longer, then. Relax, I’ll get you food and whatnot. Just stay put.
+
+When it comes down to it, Ryuseitai was still my old home. I don’t really want to fight with you guys either, m’kay?
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/shinobuorigcg.jpg %}
+
+{% bubble Shinobu sad %}
+(Ughh… Seriously, what is going on here…? What is happening in Okinawa…!?)
+
+(The deadly war that was the SS is already over, so peace should have returned here…)
+
+(That is why, based on the policy of ES, it seems that starting from the coming year, some form of ES branch will be established in the regions where the SS qualifying rounds took place.)
+
+(SS was the sole domain of ES, after all… ES beat all the local powerhouses in the qualifying rounds, proved its capabilities, and spread its influence across each region.)
+
+(They are trying to maintain this momentum in order to conquer the whole country.)
+
+(They will create branches in each region, which will then join forces with each other to spread their dominance throughout the nation.)
+
+(However, I heard that the construction of the branch in Okinawa was not able to commence due to the strong opposition of the local people.)
+
+(Even now in Okinawa, the local idols are doing quite well, it seems. But that is exactly why—)
+
+—Tetora-kun.
+{% endbubble %}
+
+{% bubble Tetora vside %}
+Mm, what is it? Do you need the bathroom or something?
+{% endbubble %}
+
+{% bubble Shinobu serious %}
+Ah, no, I’m alright. Tetora-kun, I have one question I would like you to answer, at the very least.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/darkstarch6_3.jpg %}
+
+{% bubble Tetora vside %}
+And what would that be? I guess I’ll answer it if I can.
+{% endbubble %}
+
+{% bubble Shinobu serious %}
+Tetora-kun, are you still a member of Ryuseitai?
+{% endbubble %}
+
+{% bubble Tetora vside %}
+………
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+There has been strange news spreading that you will quit the unit and make your own group… is that simply unfounded gossip?
+
+I have come here to ascertain the truth behind those rumors. We have been anxious to know, as we could not get in contact with you for some reason.
+{% endbubble %}
+
+{% bubble Tetora vside %}
+…You *do* know my situation, right?
+
+When it was decided that we would return to the previous formation, with Morisawa-senpai in the center of Ryuseitai—
+
+All the new members the three of us had inducted into this unit and fostered on our own… Every single one of them decided to leave Ryuseitai.
+
+Some then made their own units, some are still in the process of finding their position, and some… simply got sick of it all, and quit being an idol altogether.
+{% endbubble %}
+
+{% bubble Shinobu sad %}
+………
+{% endbubble %}
+
+{% bubble Tetora vside %}
+And most of the members who split from the unit — or in other words, those who were to inherit the blood of Ryuseitai — created a group known as “Anti-Stars”.
+
+The ones that gathered to this unit were some of the wilder troublemakers of Ryuseitai-N, the group that I was a leader of.
+
+I’m sure you can tell from the meaning behind the name, “to deny the stars” — Anti-Stars have a grudge against Ryuseitai.
+
+They loathe us. It’s only natural, and we have no choice but to accept their hatred.
+
+We did horrible, awful things to those kids.
+
+We gave them so much hope, only to waste time within their precious youth that they have but one chance to experience… and then, we mercilessly threw them away, leaving them empty-handed.
+
+We deserve to be punched in the face by their rage. Don’t you think so?
+{% endbubble %}
+
 {% note narration %}
 Translation in progress!
 {% endnote %}
@@ -582,4 +1002,7 @@ Translation in progress!
 
 ## Translation Notes
 [^1]: This is originally referring to an idiom that goes, “you won't find a loach under the willow”, meaning just because you were lucky to succeed once, doesn't mean you'll succeed again with the same method.
-[^2]: “Taichou” means leader.
+[^2]: “Taichou” refers to leader. It literally means “Commander”.
+[^3]: Tetora speaks differently starting from here, and will continue to do so for the majority of this story. He doesn't use his typical “Ossu”, and “~ssu” speech quirk. He instead talks more plainly, without any particular speech quirk.
+[^4]: “Oni” means demon or ogre.
+[^5]: Gorgom is a fictional criminal group from Kamen Rider Black. For more information, go [here](https://kamenrider.fandom.com/wiki/Gorgom).
