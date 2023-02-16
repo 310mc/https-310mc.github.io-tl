@@ -580,7 +580,7 @@ What the…!? What is this…!?
 {% bubble Tetora vside %}
 —An intruder?[^3]
 
-Is it another one of those random local punks causing a ruckus around the area again? Those Oni descendants[^4] or something—
+Is it another one of those random local punks causing a ruckus around the area again? Like those Oni descendants[^4] or something—
 
 No? They’ve been relatively quiet since their boss left for the US? I hear there’s still some guys left over around here, though?
 
@@ -588,7 +588,7 @@ There have been rumors that they’re regaining power, while the local powerhous
 
 Hmmm… Well, even if they’re just a bunch of troublemakers, we should be on the lookout just in case.
 
-Yeah. For the time being, I’ll leave it to the B squad of the combat branch to deal with the intruder.
+Yeah. For the time being, I’ll leave it to the B squad of the battle branch to deal with the intruder.
 {% endbubble %}
 
 {% img /img/es/eventstory/supervillain/tetoraorigcg.jpg %}
@@ -806,7 +806,7 @@ There isn’t any way to confirm what a person is thinking, but with documents, 
 {% endbubble %}
 
 {% bubble Kanata curious %}
-even though chiaki is truly just the [type] to act only through [impulse]…
+even though chiaki is exactly the [type] to act only through [impulse]…
 {% endbubble %}
 
 {% bubble Chiaki awkward %}

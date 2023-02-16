@@ -101,6 +101,9 @@
 [character="Chiaki"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh.png");
 }
+[character="Chiaki"][svocg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_svocg.png");
+}
 /**
 ***/
 
@@ -229,6 +232,9 @@
 }
 [character="Tetora"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sad2.png");
+}
+[character="Tetora"][vside] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_vside.png");
 }
 
 [character=TetoraS]{
