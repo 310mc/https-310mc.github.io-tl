@@ -721,7 +721,7 @@ Unlike the heroes on TV, we can’t live our lives fighting all the time… That
 yes… but still, we will do what we can.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Yup. Of course, we’ll ensure full backup for Sengoku while doing our job. I would like to think that even though we’re physically far apart, our hearts are always one and the same.
 {% endbubble %}
 
@@ -819,7 +819,7 @@ My point is, the online news about Nagumo leaving Ryuseitai and creating a new g
 that is what is called [fake news], yes? we have been constantly suffering from such reports since [summer].
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 No, let’s instead look on the bright side here and think, “After facing such hardships during the summer, we can now use those experiences to benefit ourselves.” None of the things we went through, and none of our effort, will be in vain. They never are, nor will they ever be.
 
 Anyway, the question here is, how did this news come about?
@@ -831,7 +831,7 @@ How will the public react to it? And how should we deal with it?
 in a similar way to “we have [trouble], a [monster] has appeared,” yes?
 {% endbubble %}
 
-{% bubble Chiaki idle %}
+{% bubble Chiaki serious %}
 Yeah. Everything in life would’ve been so much easier if we could’ve simply assumed that “it’s all Gorgom’s doing!”[^5], but—
 
 Just as there are no heroes in this reality, there are no purely evil monsters or villainous organizations, either.
@@ -903,7 +903,7 @@ I’ll give you an option, though. If you sign here on this document, indicating
 Uuu~ I cannot promise that! I must report to Taichou-dono and Shinkai-dono about how absolutely strange you’ve been acting!
 {% endbubble %}
 
-{% bubble Tetora vside %}
+{% bubble Tetora frown %}
 “Taichou-dono,” huh? Hmph.  …Fine, I’ll just have you confined here for longer, then. Relax, I’ll get you food and whatnot. Just stay put.
 
 When it comes down to it, Ryuseitai was still my old home. I don’t really want to fight with you guys either, m’kay?
