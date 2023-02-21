@@ -1,5 +1,5 @@
 ---
-title: About this translation blog site
+title: About This Translation Blog Site
 description: About 310mc's Translation Archive Blog. Typically found translating Enstars (Ensemble Stars) and Helios content.
 ---
 

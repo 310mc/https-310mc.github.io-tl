@@ -718,7 +718,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(Actually, no—If the Student Council force is working towards overthrowing the Five Eccentrics…)</th>
 
-<th>(Then they’re probably obstructing Shinkai-kun from granting a wish.)</th>
+<th>(Then they’re probably obstructing Shinkai-kun from granting wishes.)</th>
 
 <th>(Nothing about this was done by magic.)</th>
 

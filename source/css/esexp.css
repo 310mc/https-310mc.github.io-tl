@@ -6,6 +6,9 @@
 [character="Midori"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile.png");
 }
+[character="Midori"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile2.png");
+}
 [character="Midori"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_curious.png");
 }
@@ -68,6 +71,9 @@
 [character="Chiaki"][smile2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile2.png");
 }
+[character="Chiaki"][smile3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile3.png");
+}
 [character="Chiaki"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin.png");
 }
@@ -77,7 +83,7 @@
 [character="Chiaki"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad2.png");
 }
-[character="Chiaki"][sad2] {
+[character="Chiaki"][sad3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad3.png");
 }
 [character="Chiaki"][awkward] {
@@ -116,6 +122,9 @@
 [character="Chiaki"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh.png");
 }
+[character="Chiaki"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh2.png");
+}
 [character="Chiaki"][svocg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_svocg.png");
 }
@@ -145,8 +154,14 @@
 [character="Kanata"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sigh.png");
 }
+[character="Kanata"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sigh2.png");
+}
 [character="Kanata"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown.png");
+}
+[character="Kanata"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown2.png");
 }
 [character="Kanata"][hmph] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_hmph.png");

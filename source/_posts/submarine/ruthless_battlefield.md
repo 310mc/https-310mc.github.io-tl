@@ -690,7 +690,7 @@ Hm? What was that about Shinkai-dono?
 {% bubble Keito %}
 Ah, you guys wouldn’t know, would you? Well, it *was* from before your time.
 
-That having been said, the scale of the battle, the people involved, and everything else — all of it is much different from the Battle of the Sea God[^3], and neither do I think another miracle could come about like it did then.
+That having been said, the scale of the battle, the people involved, and everything else — all of it is much different from the Battle versus the Sea God[^3], and neither do I think another miracle could come about like it did then.
 
 And we aren’t so wishy-washy as to wait idly, hoping for a miracle to happen. We're going to intervene in the war circulating in this region, and win every battle until we come out victorious in the qualifying rounds.
 {% endbubble %}

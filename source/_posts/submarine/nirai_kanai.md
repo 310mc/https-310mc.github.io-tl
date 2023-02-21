@@ -1083,11 +1083,11 @@ So please, I hope that you will talk to us about everything properly, without br
 ………
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Sengoku deserves ten billion points for his deeds today.
 {% endbubble %}
 
-{% bubble Midori smile %}
+{% bubble Midori idle %}
 Shinobu-kun is the championship winner.
 {% endbubble %}
 
@@ -1356,7 +1356,7 @@ that is why… souma must have been Distraught, thinking that i had returned to 
 
 he has been unable to carry out his Duty to “slice god into pieces”. because it is not a Human being that he should slice, but God.
 
-if he had one Last opportunity to Kill me, it would have been during the battle of the sea god.
+if he had one Last opportunity to Kill me, it would have been during the battle versus the sea god.
 
 but… he lost his Chance then.
 
@@ -1406,7 +1406,7 @@ i thought that i should have a proper Talk with them, so i told you three to Sta
 {% endbubble %}
 
 {% bubble Midori v2 %}
-You guys are doing it, keeping us out of the loop—
+You guys are doing it again, keeping us out of the loop—
 {% endbubble %}
 
 {% bubble Kanata worried %}
@@ -1470,7 +1470,7 @@ What do you mean…?
 {% bubble Chiaki serious %}
 I’m unsure what their intentions could be… But our phones were specifically provided by ES and are made to use for the corporation, so it’s possible that the message has been rewritten by someone from the outside.
 
-Only ES is able to do that, as they’re the ones in charge of supplying the phone and managing the servers of HoldHands.
+Only ES is able to do that, as they’re the ones in charge of supplying the phones and managing the servers of HoldHands.
 
 On top of that, the rewritten content was precisely the kind of thing that would cause Kanzaki-kun to act recklessly.
 
@@ -1856,7 +1856,7 @@ you are looking Down on Human beings a little too much, temple guy.
 {% endbubble %}
 
 {% bubble Souma v3 %}
-Fufu. However, the events in Okinawa were somehow reminiscent of The War era — especially around the time of the Battle of the Sea God.
+Fufu. However, the events in Okinawa were somehow reminiscent of The War era — especially around the time of the Battle versus the Sea God.
 
 Constant wars, jaded people, and the scent of religion creeping in… In those war days, I could do little but watch from the sidelines.
 

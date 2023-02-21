@@ -1,5 +1,5 @@
 ---
-title: "Super Villain – Super-sized Villain"
+title: "Supervillain – Supersized Villain"
 date: 2023-1-31 9:10:00
 categories:
 - [Enstars, Chiaki]
@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Super Villains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -67,7 +67,7 @@ Coming soon!
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /super_villain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
-{% btn /super_villain,, star, Index %}
-{% btn /super_villain/epilogue,, arrow-right, Next Chapter: Epilogue %}
+{% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
+{% btn /supervillain,, star, Index %}
+{% btn /supervillain/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>

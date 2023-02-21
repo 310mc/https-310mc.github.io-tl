@@ -10,7 +10,7 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of Colors Arise Song Lyrics by 310mc. By Ryuseitai from the Unit Event Super Villain."
+description: "Translation of Colors Arise Song Lyrics by 310mc. By Ryuseitai from the Unit Event Supervillain."
 permalink: colors_arise/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -33,7 +33,7 @@ permalink: colors_arise/
                     Associated Story
                 </div>
                 <div class="value">
-                    <a href="/super_villain">Super Villain</a>
+                    <a href="/supervillain">Supervillain</a>
                 </div>
             </div>
             <div class="info-item two">

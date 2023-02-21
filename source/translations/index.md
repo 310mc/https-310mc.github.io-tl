@@ -295,11 +295,11 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="image">
         <img
             src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
-            alt="Super Villain"
+            alt="Supervillain"
         />
     </div>
-    <a href="/super_villain" class="storyName" target="_blank">
-        <span>Super Villain (In Progress!)</span>
+    <a href="/supervillain" class="storyName" target="_blank">
+        <span>Supervillain (In Progress!)</span>
         <span class="read"></span>
     </a>
 </div>
