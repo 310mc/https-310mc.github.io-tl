@@ -755,6 +755,10 @@ We *have* to solve this unprecedented problem.
 
 ## Chapter 1
 
+{% note cw %}
+**Content Warning:** The following chapters contain descriptions of violence.
+{% endnote %}
+
 {% img /img/es/eventstory/supervillain/supersizedvillainch1_1.jpg %}
 
 <div class="msr-narration">
@@ -1311,7 +1315,7 @@ I choose to deliberately tell you, my immature and foolish junior, my favorite p
 I’m so sorry, Morisawa-senpai.
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata sigh2 %}
 our plan was a [complete failure].
 {% endbubble %}
 
@@ -1397,7 +1401,7 @@ Ehh~… I dunno what it is, but I don’t really vibe with this Tetora-kun… He
 I mean, if we weren’t in the same unit, I doubt we’d have ever spoken to each other in the first place, you feel me?
 {% endbubble %}
 
-{% bubble Midori smile %}
+{% bubble Midori smile3 %}
 Yeah, I know what you mean… Fate’s really a strange thing, isn’t it?
 {% endbubble %}
 
