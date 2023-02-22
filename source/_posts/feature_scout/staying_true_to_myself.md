@@ -319,7 +319,7 @@ You’re making things harder for me… Why’re you putting so much pressure on
 {% endbubble %}
 
 {% bubble Mao %}
-I’m trynna say that I’m looking forward to your event, y’know! Here, you can have this merch I got, so cheer up~♪
+I’m tryna say that I’m looking forward to your event, y’know! Here, you can have this merch I got, so cheer up~♪
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -365,7 +365,7 @@ Feels like you’re just throwing anything at me to cheer me up… But thank you
 
 “Hello, everyone…! I’m Takamine Midori, also known as Ryusei Green from Ryuseitai.”
 
-“My teammates aren’t here with me right now, so I’m feeling pretty nervous on my own here, but… I hope to make the place exciting with all the mascots here.”
+“My teammates aren’t with me right now, so I’m feeling pretty nervous on my own here, but… I hope to make the place exciting with all the mascots here.”
 
 “Alright, let’s start by introducing the mascots. First we have Alien Tomato, who—”
 
