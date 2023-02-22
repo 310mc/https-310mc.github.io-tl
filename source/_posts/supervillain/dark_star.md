@@ -60,6 +60,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /supervillain/prologue,, arrow-left, Previous Chapter: Prologue %}
+{% btn /supervillain,, star, Index %}
+{% btn /supervillain/supersized_villain,, arrow-right, Next Chapter: Supersized Villain %}
+</div>
 
 ## Chapter 1
 

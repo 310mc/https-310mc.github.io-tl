@@ -60,6 +60,12 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
+{% btn /supervillain,, star, Index %}
+{% btn /supervillain/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 1
 
 {% note cw %}

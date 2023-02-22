@@ -287,6 +287,9 @@
 [character="Tetora"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_frown.png");
 }
+[character="Tetora"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_frown.png");
+}
 [character="Tetora"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_curious.png");
 }
