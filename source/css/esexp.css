@@ -120,7 +120,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_curious.png");
 }
 [character="Chiaki"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_idle.png");
 }
 [character="Chiaki"][shocked] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_shocked.png");
