@@ -1391,7 +1391,7 @@ All the while making excuses that there’s nothing we can do about it?
 I honestly refuse to do that.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried2 %}
 That may be how you feel… but…
 {% endbubble %}
 

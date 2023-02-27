@@ -1,12 +1,11 @@
 ---
-title: "Supervillain – Midori Mini Talk: "
-date: 2023/1/31 7:05:00
+title: "Supervillain – Midori Mini Talk: Recommendations"
+date: 2023/3/1 7:05:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!!] Midori's first Mini Talk from Supervillain. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,37 +53,47 @@ hidden: true
 {% img /img/es/eventstory/supervillain/minitalk_midori1_1.jpg %}
 
 {% bubble Midori %}
-sdfsf
+Huh? Anzu-san, what're you doing here?
+
+There's a film you'd like to use as reference, so you're here to rent a DVD…?
+
+Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have something I'd like to rent, too.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            What is it?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            I just found out there's an anime with a kinda mascot-like, soft-looking protagonist.
+
+            I wanted to watch it to feel healed. Have you been watching it, Anzu-san? I haven't yet, so I still don't know if it's interesting or not.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Is it a tokusatsu DVD?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Of course not. I already get forced by Morisawa-senpai to watch a bunch of them…
+
+            I don't have to go out of my way to rent them, just asking that guy would be enough… He'd probably even lend me bonus DVDs and whatnot… Not that I ever plan to borrow any tokusatsu DVD from him…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Do you know of any interesting media?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Hmmm… I don't really watch that much stuff, honestly.
+
+            Ah-- This one tokusatsu movie Morisawa-senpai showed me before was pretty interesting. But I watched it a long time ago, so I don't even remember the name anymore…
 			{% endbubble %}
         </div>
     </div>
@@ -93,37 +102,47 @@ sdfsf
 #### <div mt="rare"></div> 2/3
 
 {% bubble Midori %}
-sdfsf
+Do I often watch movies…? Erm, I wouldn't say I would…
+
+I wouldn't be able to tell you who my favorite director is, and I usually just watch movies whenever I'm in the mood.
+
+What about you, Anzu-san? Do you usually watch movies?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            There's a lot I've watched for reference.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            That means you're thinking about work even when it's movie time…?
+
+            That's a lot different from how I live life… Now I see how you're always so busy, Anzu-san…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Outside of work, not really.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            I see… Well, if you're mostly watching them for work, it makes sense you wouldn't as much in your own free time…
+
+            It'd suck to have your work distract you on your days off, after all…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Yeah, I'd say I do.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Going to the cinema and eating popcorn is the best feeling…? Huh, you really are enjoying yourself.
+
+            Okay, then since this is good timing for both of us, please feel free to recommend me any movie if you have something.
 			{% endbubble %}
         </div>
     </div>
@@ -132,40 +151,50 @@ sdfsf
 #### <div mt="rare"></div> 3/3
 
 {% bubble Midori %}
-sdfsf
+You were able to rent the DVD you wanted? I'm glad…♪
+
+We spent the whole time just talking about interesting series and recommendations, that I didn't even realize the time…
+
+But I feel like we got a lot out of it. We'll get to have a lot of fun watching stuff on our holidays, huh?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          sdfsf
+          I'm excited to watch what you recommended.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            I dunno if the anime I recommended is your type, but I personally love it~♪
+
+            I hope its fluffy soft world helps you relax on your day off.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            About the last one I recommended, the truth is…
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Huh!? It's a horror movie…!? But the cover looks so soft and fluffy…!
+
+            I don't like horror, but… I'm kinda curious to see how they turn something so soft-looking into a horror.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Let me know what you think, okay?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Okay. I'd like to hear what you think too, Anzu-san. Ah, but if you didn't find it fun, please don't tell me about it.
+
+            I think I'll feel like dying inside if I had to hear it from you face-to-face…
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/midori_2,, arrow-right, Midori Mini Talk: ADDHERE %}</div>
+<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/midori_2,, arrow-right, Midori Mini Talk: Work, work, work %}</div>

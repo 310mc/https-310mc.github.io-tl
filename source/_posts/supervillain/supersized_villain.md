@@ -819,7 +819,7 @@ Umm… Is Crimson Production seriously *that* bad of an agency…?
 {% bubble Tetora frown %}
 Well, I think it’s pretty clear considering they have fighters ready for anything that requires violence, but — The reason for that is, in reality, Crimson Production is pretty much an organized crime enterprise.
 
-Yakuza is what you’d call them, if this were a few years back. I think nowadays they’re called, uh, what was it… illegal gangs…?[^3]
+Yakuza is what you’d call them, if this were a few years back. I think nowadays they’re called, uh, what was it… illegal groups…?[^3]
 
 Illegal acts and corruption are commonplace here. They’re a dangerous organization that commits actual crimes, not just some violations here and there.
 {% endbubble %}
@@ -1055,7 +1055,7 @@ On top of that, I barely felt any chest pain when you punched me. It was like a 
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
-That’s karate’s *sundome* for ya, *ossu!*[^5] Jokes aside, you also helped make it look real by putting on a convincing act that it hurt, Taichou.
+That’s karate’s *sundome* for ya, ossu![^5] Jokes aside, you also helped make it look real by putting on a convincing act that it hurt, Taichou.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

@@ -8,6 +8,7 @@ tags:
 - Story Index
 description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
 ---
+
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/eventstory/supervillain/tetorabcgframe.jpg')"></div>
@@ -495,8 +496,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">x</a>
-                            <a href="minitalk/midori_2" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">Part 1</a>
+                            <a href="minitalk/midori_2" id="none">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -513,4 +514,32 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
             </div>
         </div>
     </div>
+</div>
+
+## Mini Talks
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless.png"
+            alt="Supervillain: Recommendations"
+        />
+    </div>
+    <a href="/supervillain/minitalk/midori_1" class="storyName" target="_blank">
+        <span>Supervillain<br><small>1: Recommendations</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless_Bloomed.png"
+            alt="Supervillain: Work, work, work"
+        />
+    </div>
+    <a href="/supervillain/minitalk/midori_2" class="storyName" target="_blank">
+        <span>Supervillain<br><small>2: Work, work, work</small></span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>

@@ -3,96 +3,6 @@ title: Ensemble Stars & Helios Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars and Helios Rising Heroes translations in this blog site.
 ---
 
-<style>
-
-.stories {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 0.5em;
-}
-.stories * {
-     box-sizing: border-box;
-}
-.story {
-    position: relative;
-    border-radius: 0.25em;
-    overflow: hidden;
-}
-
-.stories a:hover{
-    color: white;
-}
-
-.story:hover img {
-    transform: scale(1.05);
-}
-.story:hover .storyName {
-    transform: translate(0, 0);
-}
-.story:hover .storyName .read {
-    transform: translate(0, 0);
-}
-.storyName {
-    transform: translate(0, 0);
-}
-.image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: 0.2s ease;
-    margin: 0 !important;
-}
-.storyName {
-    font-size: 0.9em;
-    font-weight: 700;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    background: linear-gradient(to bottom, transparent 0, #000000a3 90%);
-    color: #fff;
-    position: absolute;
-    padding: 5em 0.75em 0.75em;
-    width: 100%;
-    bottom: 0;
-    left: 0;
-    transition: 0.2s ease;
-    transform: translate(0, 2.3em);
-}
-.storyName .read {
-       margin-top: 0.25em;
-       font-size: 0.85em;
-       background: black;
-       color: white;
-       padding: 0.5em 1.25em;
-       height: 2.25em;
-       border-radius: 0.25em;
-       width: 100%;
-       text-align: center;
-       transition: 0.2s ease;
-       transform: translate(0, 1em);
-   }
-   .storyName .read:before {
-       content: "Read";
-   }
-
-   .storyName .read.soon {
-       opacity: 0.5;
-       pointer-events: none;
-       &:before {
-           content: "Soon!";
-       }
-   }
-
-   .storyName .read:not(.soon):hover {
-       color: #f1c755;
-   }
-   @media only screen and (max-width: 600px) {
-    .stories {
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    }
-}
-</style>
-
 ## Translation Usage
 
 <style>
@@ -131,8 +41,8 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <li><a href="#Event-Stories">Event Story</a></li>
 <li><a href="#Gacha-Stories">Gacha / Scout Story</a></li>
 <li><a href="#Idol-Stories">Idol / Feature Scout Story</a></li>
-<li><a href="#Other-Stories">Other Story</a></li>
 <li><a href="#Mini-Talks">Mini Talk</a></li>
+<li><a href="#Other-Stories">Other Story</a></li>
 <li><a href="#Song-Lyrics">Song Lyrics</a></li>
 <li><a href="#Other">Other</a></li>
 </ul>
@@ -736,6 +646,258 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 </div>
 </div>
 
+## Mini Talks
+<h4>Ensemble Stars! Era</h4>
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless.png"
+                alt="Climax: Tough Being a Parent"
+            />
+        </div>
+        <a href="/climax/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>Climax<br><small>1: Tough Being a Parent</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Climax: Justice Will Prevail"
+            />
+        </div>
+        <a href="/climax/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Climax<br><small>2: Justice Will Prevail</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless.png"
+                alt="Shooting Star Festival: A Joint Live!"
+            />
+        </div>
+        <a href="/shooting_star_festival/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>Shooting Star Festival<br><small>1: A Joint Live!</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Shooting Star Festival: The Festival's Hero"
+            />
+        </div>
+        <a href="/shooting_star_festival/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Shooting Star Festival<br><small>2: The Festival's Hero</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <!--<div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Sweet Halloween: "
+            />
+        </div>
+        <a href="/sweet_halloween/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>Sweet Halloween<br><small>1: Normal Event</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Sweet Halloween: "
+            />
+        </div>
+        <a href="/sweet_halloween/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Sweet Halloween<br><small>2: Normal Event</small></span>
+            <span class="read"></span>
+        </a>
+    </div>-->
+</div>
+
+<h4>Ensemble Stars!! Era</h4>
+
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless.png"
+                alt="Comet Show: Worrisome Days"
+            />
+        </div>
+        <a href="/comet_show/minitalk/midori_1" class="storyName" target="_blank">
+            <span>Comet Show<br><small>1: Worrisome Days</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Comet Show: Topics About That Guy"
+            />
+        </div>
+        <a href="/comet_show/minitalk/midori_2" class="storyName" target="_blank">
+            <span>Comet Show<br><small>2: Topics About That Guy</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless.png"
+                alt="Submarine: Okinawa Red!"
+            />
+        </div>
+        <a href="/submarine/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>Submarine<br><small>1: Okinawa Red!</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Submarine: Troubled Hero"
+            />
+        </div>
+        <a href="/submarine/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Submarine<br><small>2: Troubled Hero</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <!--
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Ring: Conveying My Feelings"
+            />
+        </div>
+        <a href="/ring/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Ring<br><small>Conveying My Feelings</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Ring: Before the Nerve-wrecking Photoshoot"
+            />
+        </div>
+        <a href="/ring/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Ring<br><small>Before the Nerve-wrecking Photoshoot</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    -->
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless.png"
+                alt="Ninja Clan: Relaxing Gameplay"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/midori_1" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>1: Relaxing Gameplay</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Ninja Clan: Eeeggy-eggy-eggyplant"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/midori_2" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>2: Eeeggy-eggy-eggyplant</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless.png"
+                alt="Ninja Clan: Thrilling Gameplay"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>1: Thrilling Gameplay</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png"
+                alt="Ninja Clan: I Don't Get It"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>2: I Don't Get It</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless.png"
+                alt="Ninja Clan: An Invasion from a Formidable Enemy"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>1: An Invasion from a Formidable Enemy</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                alt="Ninja Clan: Sightseeing the Historical Village"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>Ninja Clan<br><small>2: Sightseeing the Historical Village</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless.png"
+                alt="Supervillain: Recommendations"
+            />
+        </div>
+        <a href="/supervillain/minitalk/midori_1" class="storyName" target="_blank">
+            <span>Supervillain<br><small>1: Recommendations</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Supervillain: Work, work, work"
+            />
+        </div>
+        <a href="/supervillain/minitalk/midori_2" class="storyName" target="_blank">
+            <span>Supervillain<br><small>2: Work, work, work</small></span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
 ## Other Stories
 <div class="stories">
 <div class="story">
@@ -763,135 +925,6 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     </a>
 </div>
 </div>
-
-## Mini Talks
-|Baton Pass! Chiaki|Shooting Star Festival! Chiaki|Sweet Halloween! Chiaki<br>(Coming Soon!)
-| :-----------: | :-----------: | :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/climax/minitalk/chiaki_1){% btn /climax/minitalk/chiaki_1,, circle, Tough Being a Parent %}<div style="margin-top:5px">{% btn /climax/minitalk/chiaki_2,, star, Justice Will Prevail %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/shooting_star_festival/minitalk/chiaki_2){% btn /shooting_star_festival/minitalk/chiaki_1,, circle, A Joint Live! %}<div style="margin-top:5px">{% btn /shooting_star_festival/minitalk/chiaki_2,, star, The Festival's Hero %}</div>|[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/sweet_halloween/minitalk/chiaki_2){% btn /sweet_halloween/minitalk/chiaki_1,, circle, Normal Event %}<div style="margin-top:5px">{% btn /sweet_halloween/minitalk/chiaki_2,, star, Special Event %}</div>|
-
-|Comet Show! Midori|Submarine! Chiaki|Ninja Clan! Midori|
-| :-----------: | :-----------: | :-----------: |
-[![/comet_show/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png)](/comet_show/minitalk/midori_2){% btn /comet_show/minitalk/midori_1,, circle, Worrisome Days %}<div style="margin-top:5px">{% btn /comet_show/minitalk/midori_2,, star, Topics About That Guy %}</div>|[![/submarine/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/submarine/minitalk/chiaki_1){% btn /submarine/minitalk/chiaki_1,, circle, Okinawa Red! %}<div style="margin-top:5px">{% btn /submarine/minitalk/chiaki_2,, star, Troubled Hero %}</div>|[![/ninja_clan/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png)](/ninja_clan/minitalk/midori_2){% btn /ninja_clan/minitalk/midori_1,, circle, Relaxing Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/midori_2,, star, Eeeggy-eggy-eggyplant %}</div>
-
-|Ninja Clan! Tetora|Ninja Clan! Chiaki
-| :-----------: | :-----------: |
-[![](https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png)](/ninja_clan/minitalk/tetora_2){% btn /ninja_clan/minitalk/tetora_1,, circle, Thrilling Gameplay %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/tetora_2,, star, I Don't Get It %}</div>|[![/ninja_clan/minitalk/chiaki_1](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png)](/ninja_clan/minitalk/chiaki_1){% btn /ninja_clan/minitalk/chiaki_1,, circle, An Invasion from a Formidable Enemy %}<div style="margin-top:5px">{% btn /ninja_clan/minitalk/chiaki_2,, star, Sightseeing the Historical Village %}</div>|
-
-<!--
-[![/ring/minitalk/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png)](/ring/minitalk/midori_2){% btn /ring/minitalk/midori_1,, circle, Conveying My Feelings %}<div style="margin-top:5px">{% btn /ring/minitalk/midori_2,, star, Before the Nerve-wrecking Photoshoot %}</div>
--->
-
-<!--<h4>Ensemble Stars! Era</h4>
-<div class="stories">
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
-            alt="Baton Pass! Chiaki"
-        />
-    </div>
-    <a href="/climax/minitalk/chiaki_1" class="storyName" target="_blank">
-        <span>Baton Pass! Chiaki</span>
-        <span class="read"><a href="/climax/minitalk/chiaki_1">Tough Being a Parent</a></span>
-        <span class="read1"><a href="/climax/minitalk/chiaki_2">Justice Will Prevail</a></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/shootingstarfestival/chiakibcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-</div>
-
-<h4>Ensemble Stars!! Era</h4>
-<div class="stories">
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
-            alt="Management Story"
-        />
-    </div>
-    <a href="/management_story" class="storyName" target="_blank">
-        <span>Management Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
-            alt="Birthday Story"
-        />
-    </div>
-    <a href="/birthday_story" class="storyName" target="_blank">
-        <span>Birthday Story</span>
-        <span class="read1"></span>
-        <span class="read1"></span>
-    </a>
-</div>
-</div>-->
 
 ## Song Lyrics
 

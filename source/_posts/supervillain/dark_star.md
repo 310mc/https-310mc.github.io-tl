@@ -229,7 +229,7 @@ And that would be — by becoming a true ninja.
 {% bubble Kanata v2 %}
 by turning your [dream] into a [reality], yes? that is something chiaki has been doing since long ago.
 
-if there are no heroes in this world, then *we* will become heroes.
+if there are no heroes in this world, then *we* will become the heroes.
 {% endbubble %}
 
 ## Chapter 2

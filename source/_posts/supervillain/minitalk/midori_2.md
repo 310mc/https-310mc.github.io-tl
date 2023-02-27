@@ -1,12 +1,11 @@
 ---
-title: "Supervillain – Midori Mini Talk: "
-date: 2023/1/31 7:06:00
+title: "Supervillain – Midori Mini Talk: Work, work, work"
+date: 2023/3/1 7:06:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!!] Midori's second Mini Talk from Supervillain. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,37 +53,47 @@ hidden: true
 {% img /img/es/eventstory/supervillain/minitalk_midori2_1.jpg %}
 
 {% bubble Midori %}
-sdfsf
+<th>(Yesterday I had work. Today I have work. Tomorrow I'll have work. Every day is work, work, and more work… Ahh… I'm so depressed…)</th>
+
+<th>(I'm not even the workaholic type, but all I've been doing lately is work…)</th>
+
+I know I'm part of why this happened, but… Why did it turn out this way…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Good morning!!
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Wah!? You scared me, Anzu-san… Good morning.
+
+            "You seemed down, so I tried greeting you energetically"…? Please don't become like Morisawa-senpai, too, Anzu-san…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You seem down.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Good morning, Anzu-san. I'm so sorry for giving off "I wanna die" energy from the early morning…
+
+            I'll manage to get myself back on track once it's time for work, really… I wouldn't want to cause trouble for you 'cause of my own personal problems, so…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            It sounds rough with work.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            I asked for a whole lot of jobs, after all… Even I think I'm crazy for doing that.
+
+            But lately it's all I've ever doing, so I'm really worn out… I don't really wanna feel this way early in the morning, either…
 			{% endbubble %}
         </div>
     </div>
@@ -93,37 +102,47 @@ sdfsf
 #### <div mt="rare"></div> 2/3
 
 {% bubble Midori %}
-sdfsf
+"You don't have to force yourself to do that job, too"…? Anzu-san… I'm sure you know what's been happening, right?
+
+Right now, it's been, how do I say it… In short, I just don't wanna see anyone from Ryuseitai at the moment.
+
+I know I'm being selfish. But I just emotionally can't do it…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You can say whatever you like.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            You're willing to hear me out? You really are reliable, Anzu-san.
+
+            And meanwhile, I'm just a coward… Ah wait, I shouldn't be so negative… Ahh… I really can't stand myself.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            I'm sure they all understand.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            That's what hurts so much. Everyone knows how it's been for us lately, and yet… we're still so tense with each other.
+
+            It feels like we're all forced to be together, walk on eggshells around each other, and try way too hard not to dampen the mood… It hurts so much…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            What hurts the most?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            How I feel powerless and just throwing tantrums, maybe… Or maybe how Morisawa-senpai doesn't bother talking to us about anything… Or maybe how nothing's been working out for us…
+
+            I don't even know anymore… What's hurting me this much…?
 			{% endbubble %}
         </div>
     </div>
@@ -132,40 +151,50 @@ sdfsf
 #### <div mt="rare"></div> 3/3
 
 {% bubble Midori %}
-sdfsf
+I ended up making you listen to my vents again… I'm so sorry.
+
+I say I wanna be left alone, but then if I *am* left alone, I just end up drowned in my depression… I'm such a pain in the ass, aren't I…
+
+Either way, thank you so much for hearing me out, Anzu-san.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          sdfsf
+          I'm grateful, too.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
-            sdfsf
+            {% bubble Midori awkward %}
+            "No matter the reason, I'm glad to see you working really hard"…? I guess so…
+
+            But I feel like a part of me was saved hearing that.   Alright… I feel a lot better now, so I'll do my best at work.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You can always rely on me.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori %}
-            sdfsf
+            Mmm~… I feel like I've said this before but, I don't feel right to give more work to someone who's already so busy…
+
+            That's why this time around, I'm just grateful for the sentiment. I don't really like it when all I do is just depend on others, anyway.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            I'm glad I could help.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori %}
-            sdfsf
+            {% bubble Midori awkward %}
+            You really, *really* helped me out. I barely have anyone I could talk to about all of this…
+
+            I'd like to repay the favor through work. I'm not one to slack off at work, but still, I'm going to work extra harder today, I promise.
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/midori_1,, arrow-left, Midori Mini Talk: ADDHERE %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/midori_1,, arrow-left, Midori Mini Talk: Recommendation %}{% btn /supervillain,, star, Index %}</div>
