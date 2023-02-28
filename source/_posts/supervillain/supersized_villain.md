@@ -1,5 +1,5 @@
 ---
-title: "Supervillain – Supersized Villain"
+title: "Supervillain – Supersized Villain (Chapter 1–8)"
 date: 2023-1-31 9:10:00
 categories:
 - [Enstars, Chiaki]
@@ -58,12 +58,12 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
 {% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
 {% btn /supervillain,, star, Index %}
-{% btn /supervillain/epilogue,, arrow-right, Next Chapter: Epilogue %}
+{% btn /supervillain/supersized_villain_p2,, arrow-right, Next Chapter: Supersized Villain (Chapter 9–15) %}
 </div>
 
 ## Chapter 1
@@ -1162,15 +1162,179 @@ In other words… Crimson Production, once hated and defeated as an evil force i
 We’d need *way* more than a half-hearted effort to tear down its stronghold.
 {% endbubble %}
 
-{% note narration %}
-Translation in progress!
+## Chapter 8
+
+{% note cw %}
+**Content Warning:** The following chapter contains mentions of murder.
 {% endnote %}
+
+{% bubble Midori worried %}
+Wait, “tear down their stronghold”…? Don’t tell me you plan to fight… You, against the *entirety* of Crimson Production?
+
+Why? Let’s just leave this all behind. Nothing good will come out of getting involved with something so dangerous, y’know…?
+{% endbubble %}
+
+{% bubble Tetora idle %}
+Yeah, but I’m an employee of Crimson Production now. I’m already heavily involved.
+
+Besides, Crimson Production is an undeniable evil that doesn’t hesitate to commit crimes.
+
+I can’t just go back to a safe and peaceful life and leave my former teammates, the Anti-Stars, to die after getting absorbed into this mess.
+
+I’ll defeat Crimson Production — the evil that pretends to be on the side of justice.
+
+That being said, this is just how I feel. I don’t think you guys need to force yourself to get involved.
+
+Tomorrow, I’ll turn a blind eye for a moment to let you guys escape. I want you to get some rest today in preparation for that.
+{% endbubble %}
+
+{% bubble Midori frown %}
+Now *you’re* also being distant… You’ve really inherited all the wrong things…
+{% endbubble %}
+
+{% bubble Kanata worried %}
+if we escape, won’t they suspect you, tetora?
+{% endbubble %}
+
+{% bubble Tetora frown %}
+There’s nothing I can do to stop that. I don’t have any good excuse for letting you guys go, except to say that I was so careless that you got away.
+
+If that makes me a suspect, well, then I’ll just have to live with the consequences, won’t I?
+
+Fortunately, I got the chance to inform all of you about what’s going on in Okinawa.
+
+The only thing left to do now is for you all to take that information back home with you, so that the outside world, like ES, can take the best course of action.
+
+I’ll also hand over all evidence of wrongdoing at Crimson Production that I’ve gathered throughout my investigation. I’d like you to deliver it to ES.
+
+If all goes well, Crimson Production will be destroyed.
+
+The evil will perish, and justice will prevail.
+
+Haha… It’s such a plain and boring solution, unlike defeating evil monsters with cannons and giant robots and stuff.
+{% endbubble %}
+
+{% bubble Midori worried %}
+No, no… Don’t stay here, Tetora-kun, you should run away with us tomorrow.
+
+If you stick around, and they end up suspecting you as the one who let us go, won’t they do horrible things to you…?
+{% endbubble %}
+
+{% bubble Tetora frown3 %}
+I can’t do that. I refuse to leave the Anti-Stars kids all on their own here.
+{% endbubble %}
+
+{% bubble Midori worried %}
+T-Then let’s run away with them, too—
+{% endbubble %}
+
+{% bubble Tetora frown %}
+That won’t be possible. They absolutely loathe ES, and I’d only enrage them if I suggest that they ask ES for help.
+
+Some of them might even tattle on us and go to the upper management of Crimson Production.
+
+They’d rather die than butter up ES to ask for their help.
+
+It’ll be over for all of us if that happens. We won’t be able to get away. They’ll capture every one of us and dispose of us.
+
+I’ve said it several times by now, but I mean it when I say that Crimson Production is an extremely dangerous group of criminals. They don’t hesitate to commit crimes.
+
+They annihilate human beings like it’s nothing — As in <em>murder</em>.
+
+I’ve seen it happen a few times while I’ve worked here.
+{% endbubble %}
+
+{% bubble Midori sad2 %}
+………
+{% endbubble %}
+
+{% bubble Tetora idle %}
+That’s why, the best solution we’ve got is to have everyone in Ryuseitai except me run away and tell ES everything as fast as possible.
+
+I’ll stay here and stall for time until everyone else has escaped and has done the calculations necessary to defeat Crimson Production.
+
+If I escape with you guys, it’ll be completely obvious that I was a traitorous spy. And if that happens, there’s a high chance they’ll destroy any evidence of wrongdoing.
+
+Right now they aren’t on their guard, so there should be a slight weak spot in their defenses, but… If they completely go on the defensive or run away, I doubt we’d be able to round them all up.
+
+If we fail to fully defeat Crimson Production, they might come back someday and conduct their evil deeds again.
+
+In order to prevent such a horrible part of history from repeating itself, we *have* to defeat them from top to bottom, right here, right now.
+
+—That’s my form of justice.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+You think that I’ll be impressed and agree with you if you put it that way, don’t you?
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch8_1.jpg %}
+
+{% bubble Chiaki smile3 %}
+And the matter of fact is, yes — I really am impressed. Mhm, you’ve grown up so much, Nagumo. You’re a worthy hero of justice of your own.
+
+—But unfortunately, there are four other heroes here besides you.
+{% endbubble %}
+
+{% bubble Tetora curious %}
+What do you mean…?
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+It’s the same concept as Supervillains. Although, saying that wouldn’t make enough sense to you, since you’ve had signals cut off for so long, and have been completely isolated from the rest of the world in terms of information.
+
+To put short, in a blockbuster or a crossover with multiple heroes, it’s necessary to unite the justice of all the heroes who appear in the story.
+
+You need to match everyone’s reason and purpose for action, like “to defeat a common enemy,” or “to avenge a mutual friend”.
+{% endbubble %}
+
+{% bubble Tetora idle %}
+Well, yeah, that’s how it is. That’s why it’s so difficult to make those sorts of crossovers.
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+Haha… Indeed, thanks to that, even the blockbuster Supervillains has reached a deadlock.
+{% endbubble %}
+
+{% bubble Tetora idle %}
+Oh, I didn’t know… I’ve been so busy with my own work that I haven’t had the chance to catch up on everything.
+
+Is everything going to be okay? Supervillains is referring to the blockbuster that we’re going to be a part of, right?
+
+I saw in the newspaper that they finally announced the title, but…?
+
+Does that mean it isn’t going so well after all?
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+Yeah, but I’m sure it’ll be alright.
+
+No one is creating this show with the intention of making it boring or to produce a failure.
+
+Everyone involved is working hard to deliver something as good as possible to the audience.
+
+Right now, everyone’s opinions aren’t aligned, so things aren’t going well, but…
+
+Once the direction is set in place, I’m sure things will turn out well. Everyone will do their best in their respective roles, and will definitely be able to produce a wonderful piece of art.
+{% endbubble %}
+
+{% bubble Midori frown %}
+What are you even on about? You suddenly become so enthusiastic whenever it’s about tokusatsu…
+{% endbubble %}
+
+{% bubble Chiaki smile3 %}
+No, I’m talking about real life.
+
+I say this to each and every one of you: I know that all this time, I’ve only been dragging you along with talks about my dreams… But from now on, let’s have a proper discussion about reality, too.
+
+Let’s also assemble a happy ending for our reality — an ending that everyone wants to see.
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
 {% btn /supervillain,, star, Index %}
-{% btn /supervillain/epilogue,, arrow-right, Next Chapter: Epilogue %}
+{% btn /supervillain/supersized_villain_p2,, arrow-right, Next Chapter: Supersized Villain (Chapter 9–15) %}
 </div>
 
 ## Translation Notes

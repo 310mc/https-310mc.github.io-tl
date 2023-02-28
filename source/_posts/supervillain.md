@@ -457,7 +457,10 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                             <a href="dark_star" id="none">Dark Star</a>                          
                         </li>
                         <li>
-                            <a href="supersized_villain" id="none">Supersized Villain</a>          
+                            <a href="supersized_villain" id="none">Supersized Villain (Chapter 1–8)</a>          
+                        </li>
+                        <li>
+                            <a href="supersized_villain_p2" id="none">Supersized Villain (Chapter 9–15)</a>          
                         </li>
                         <li>
                             <a href="epilogue" id="none">Epilogue</a>
@@ -516,6 +519,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     </div>
 </div>
 
+<!--
 ## Mini Talks
 <div class="stories">
 <div class="story">
@@ -543,3 +547,4 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     </a>
 </div>
 </div>
+-->

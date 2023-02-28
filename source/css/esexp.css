@@ -12,6 +12,9 @@
 [character="Midori"][smile3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile3.png");
 }
+[character="Midori"][smile4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile4.png");
+}
 [character="Midori"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_curious.png");
 }
@@ -23,6 +26,9 @@
 }
 [character="Midori"][sigh2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh2.png");
+}
+[character="Midori"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frown.png");
 }
 [character="Midori"][sweat] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sweat.png");
