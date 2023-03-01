@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Kanata Mini Talk: sea crook"
-date: 2023/1/31 7:04:00
+date: 2023/3/1 7:02:00
 categories:
 - [Enstars, Kanata]
 tags:
@@ -55,7 +55,7 @@ description: "[ES!!] Kanata's second Mini Talk from Supervillain. From Anzu's PO
 {% bubble Kanata v2 %}
 puka, puka…♪ rawr~☆
 
-what do you think? i was scary, wasn't it~?
+what do you think? i was scary, wasn't i~?
 
 i tried to [imitate] a sea [crook]~♪
 {% endbubble %}
@@ -104,7 +104,7 @@ i tried to [imitate] a sea [crook]~♪
 {% bubble Kanata v2 %}
 am i practicing a [villain role]…?
 
-ah, you hear from chiaki, yes?
+ah, you heard from chiaki, yes?
 
 it is a little difficult for me, i think. how can i look [scary]?
 {% endbubble %}
@@ -142,7 +142,7 @@ it is a little difficult for me, i think. how can i look [scary]?
             {% bubble Kanata v2 %}
             i see~ maybe i should bestow a [divine message] like a [god] would, then?
 
-            fufu, i am just [joking]\~♪ but this style is the one that [feels] the best\~♪
+            fufu, i am just [joking]\~♪ but this style is the one that [came] to me best\~♪
 			{% endbubble %}
         </div>
     </div>

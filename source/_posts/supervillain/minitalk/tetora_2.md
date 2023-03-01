@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Tetora Mini Talk: Unaligned Feelings"
-date: 2023/1/31 7:10:00
+date: 2023/3/1 7:10:00
 categories:
 - [Enstars, Tetora]
 tags:

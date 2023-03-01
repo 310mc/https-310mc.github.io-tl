@@ -1,6 +1,6 @@
 ---
-title: "Supervillain – Shinobu Mini Talk: Preparing for the Mission"
-date: 2023/1/31 7:08:00
+title: "Supervillain – Shinobu Mini Talk: Preparing For The Mission"
+date: 2023/3/1 7:08:00
 categories:
 - [Enstars, Shinobu]
 tags:

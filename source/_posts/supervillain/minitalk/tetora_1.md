@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Tetora Mini Talk: The Planning Of That Show"
-date: 2023/1/31 7:09:00
+date: 2023/3/1 7:09:00
 categories:
 - [Enstars, Tetora]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Chiaki Mini Talk: Hungry Hero"
-date: 2023/1/31 7:00:00
+date: 2023/3/1 7:05:00
 categories:
 - [Enstars, Chiaki]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Midori Mini Talk: Work, work, work"
-date: 2023/3/1 7:06:00
+date: 2023/3/1 7:04:00
 categories:
 - [Enstars, Midori]
 tags:

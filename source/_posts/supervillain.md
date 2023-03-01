@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Supervillain (In Progress!)"
-date: 2023-02-09 9:00:00
+date: 2023-03-02 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
@@ -472,8 +472,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/tetora_1" id="none">x</a>
-                            <a href="minitalk/tetora_2" id="none">x</a>
+                            <a href="minitalk/tetora_1" id="none">Part 1</a>
+                            <a href="minitalk/tetora_2" id="none">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -481,8 +481,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="none">x</a>
-                            <a href="minitalk/shinobu_2" id="none">x</a>
+                            <a href="minitalk/shinobu_1" id="none">Part 1</a>
+                            <a href="minitalk/shinobu_2" id="none">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -490,8 +490,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="none">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -508,8 +508,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/kanata_1" id="none">x</a>
-                            <a href="minitalk/kanata_2" id="none">x</a>
+                            <a href="minitalk/kanata_1" id="none">Part 1</a>
+                            <a href="minitalk/kanata_2" id="none">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -525,11 +525,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless.png"
-            alt="Supervillain: The Planning Of That Show"
+            alt="The Planning Of That Show"
         />
     </div>
     <a href="/supervillain/minitalk/tetora_1" class="storyName" target="_blank">
-        <span>Supervillain<br><small>1: The Planning Of That Show</small></span>
+        <span>1: The Planning Of That Show</span>
         <span class="read"></span>
     </a>
 </div>
@@ -537,11 +537,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless_Bloomed.png"
-            alt="Supervillain: Unaligned Feelings"
+            alt="Unaligned Feelings"
         />
     </div>
     <a href="/supervillain/minitalk/tetora_2" class="storyName" target="_blank">
-        <span>Supervillain<br><small>2: Unaligned Feelings</small></span>
+        <span>2: Unaligned Feelings</span>
         <span class="read"></span>
     </a>
 </div>
@@ -549,11 +549,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless.png"
-            alt="Supervillain: What An Evil Ninja Is"
+            alt="What An Evil Ninja Is"
         />
     </div>
     <a href="/supervillain/minitalk/shinobu_1" class="storyName" target="_blank">
-        <span>Supervillain<br><small>1: What An Evil Ninja Is</small></span>
+        <span>1: What An Evil Ninja Is</span>
         <span class="read"></span>
     </a>
 </div>
@@ -561,11 +561,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless_Bloomed.png"
-            alt="Supervillain: Preparing for the Mission"
+            alt="Preparing For The Mission"
         />
     </div>
     <a href="/supervillain/minitalk/shinobu_2" class="storyName" target="_blank">
-        <span>Supervillain<br><small>2: Preparing for the Mission</small></span>
+        <span>2: Preparing For The Mission</span>
         <span class="read"></span>
     </a>
 </div>
@@ -573,11 +573,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless.png"
-            alt="Supervillain: Hungry Hero"
+            alt="Hungry Hero"
         />
     </div>
     <a href="/supervillain/minitalk/chiaki_1" class="storyName" target="_blank">
-        <span>Supervillain<br><small>1: Hungry Hero</small></span>
+        <span>1: Hungry Hero</span>
         <span class="read"></span>
     </a>
 </div>
@@ -585,11 +585,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless_Bloomed.png"
-            alt="Supervillain: The Path of a Hero Turning Evil"
+            alt="The Path of a Hero Turning Evil"
         />
     </div>
     <a href="/supervillain/minitalk/chiaki_2" class="storyName" target="_blank">
-        <span>Supervillain<br><small>2: The Path of a Hero Turning Evil</small></span>
+        <span>2: The Path of a Hero Turning Evil</span>
         <span class="read"></span>
     </a>
 </div>
@@ -597,11 +597,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless.png"
-            alt="Supervillain: Recommendations"
+            alt="Recommendations"
         />
     </div>
     <a href="/supervillain/minitalk/midori_1" class="storyName" target="_blank">
-        <span>Supervillain<br><small>1: Recommendations</small></span>
+        <span>1: Recommendations</span>
         <span class="read"></span>
     </a>
 </div>
@@ -609,11 +609,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless_Bloomed.png"
-            alt="Supervillain: Work, work, work"
+            alt="Work, work, work"
         />
     </div>
     <a href="/supervillain/minitalk/midori_2" class="storyName" target="_blank">
-        <span>Supervillain<br><small>2: Work, work, work</small></span>
+        <span>2: Work, work, work</span>
         <span class="read"></span>
     </a>
 </div>
@@ -621,11 +621,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless.png"
-            alt="Supervillain: planning a trip"
+            alt="planning a trip"
         />
     </div>
     <a href="/supervillain/minitalk/kanata_1" class="storyName" target="_blank">
-        <span>Supervillain<br><small>1: planning a trip</small></span>
+        <span>1: planning a trip</span>
         <span class="read"></span>
     </a>
 </div>
@@ -633,11 +633,11 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <div class="image">
         <img
             src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless_Bloomed.png"
-            alt="Supervillain: sea crook"
+            alt="sea crook"
         />
     </div>
     <a href="/supervillain/minitalk/kanata_2" class="storyName" target="_blank">
-        <span>Supervillain<br><small>2: sea crook</small></span>
+        <span>2: sea crook</span>
         <span class="read"></span>
     </a>
 </div>

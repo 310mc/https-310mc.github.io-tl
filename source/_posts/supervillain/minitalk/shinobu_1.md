@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Shinobu Mini Talk: What An Evil Ninja Is"
-date: 2023/1/31 7:07:00
+date: 2023/3/1 7:07:00
 categories:
 - [Enstars, Shinobu]
 tags:
@@ -197,4 +197,4 @@ I very much appreciate you doing so, but I feel bad that we made you worry this 
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Preparing for the Mission %}</div>
+<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Preparing For The Mission %}</div>
