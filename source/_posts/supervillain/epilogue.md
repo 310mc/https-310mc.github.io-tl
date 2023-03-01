@@ -63,6 +63,6 @@ Coming soon!
 {% endnote %}
 
 <div toc>
-{% btn /supervillain/supersized_villain,, arrow-left, Previous Chapter: Supersized Villain %}
+{% btn /supervillain/supersized_villain_p2,, arrow-left, Previous Chapter: Supersized Villain (Chapter 9–15) %}
 {% btn /supervillain,, star, Index %}
 </div>

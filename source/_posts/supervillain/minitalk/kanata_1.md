@@ -1,12 +1,11 @@
 ---
-title: "Supervillain – Kanata Mini Talk: "
+title: "Supervillain – Kanata Mini Talk: planning a trip"
 date: 2023/1/31 7:03:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
 description: "[ES!!] Kanata's first Mini Talk from Supervillain. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,37 +53,47 @@ hidden: true
 {% img /img/es/eventstory/supervillain/minitalk_kanata1_1.jpg %}
 
 {% bubble Kanata v2 %}
-sdfsf
+hello, anzu-san\~♪ we have such nice weather today, don't we\~?
+
+the sun is so [warm], it is the perfect day to [bathe]~♪
+
+how about you come and [puka puka] with me, anzu-san~?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            I have work soon.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            sdfsf
+            {% bubble Kanata sigh2 %}
+            that is a [shame]~… but it cannot be helped.
+
+            i also have had so many [jobs] lately that i have to hold back from enjoying my [puka puka] time~…         
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Is that okay to do when you have work…?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            i have work to do at [aoumi aquarium] today, so it is fine if i get a bit wet.
+
+            just thinking about having a [puka puka] time with all the fishies gets me excited~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You'll catch a cold!
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            don't worry. i will be fine as long as i dry myself up~♪
+
+            but you seem to have [work] now, so i should not [force] you to join me.
 			{% endbubble %}
         </div>
     </div>
@@ -93,37 +102,47 @@ sdfsf
 #### <div mt="rare"></div> 2/3
 
 {% bubble Kanata v2 %}
-sdfsf
+oh yes, have i told you anything about my time in [okinawa] during the [ss qualifying round]?
+
+okinawa's [ocean] is so pretty, and the fishies were so [lively]~♪
+
+it is a little too difficult for us right now but, i hope to go there again with ryuseitai and [puka puka] together~
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            I'd like to go someday, too.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            we would have even more [fun] if you were with us, anzu-san.
+
+            we will relax and enjoy [puka puka] time with everyone… i am sure it would bring us so much joy if we could make this happen~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Please don't sink too deep in the ocean, okay?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            anzu-san, you are such a [worrywart]~. i only [puka puka] at the [sandbank], so you will not have to worry.
+
+            even then, i would be with heroes who are always willing to come to their [comrade's] rescue~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            A trip together!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            sdfsf
+            {% bubble Kanata smile %}
+            fufu, yes. i would also love to have a [private] trip with everyone.
+
+            [hawaii] sounds nice. fufu, maybe that is a little *too* [ambitious]…? ♪
 			{% endbubble %}
         </div>
     </div>
@@ -132,40 +151,50 @@ sdfsf
 #### <div mt="rare"></div> 3/3
 
 {% bubble Kanata v2 %}
-sdfsf
+anzu-san, if you were to [travel], where would you like to go?
+
+i am fine with anywhere as long as there is a place to [puka puka]~♪
+
+ah, but it would probably be painful to do that in a [cold] place with [drift ice].
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          sdfsf
+          Please don't do it in a cold area!
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            fufu, i am just [joking]. i know i could die if i were to [puka puka] in [extremely cold] places.
+
+            i will settle with having a [splish splash] time, instead~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            I would love to go somewhere warm.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            yes, it would feel so good to [puka puka] in warm weather, too~♪
+
+            also, if we could go to [hawaii] or [guam], we could [meet] fishies different from the ones in [okinawa].
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Maybe Hokkaido…?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            sdfsf
+            [hokkaido]…♪ it is a wonderful [place], isn't it? it is [blessed] with sea~
+
+            and [hokkaido] is abundant with [planktons], so the [fishies] have plenty of food to eat~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: ADDHERE %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: sea crook %}</div>

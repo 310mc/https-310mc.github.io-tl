@@ -1330,7 +1330,7 @@ We *have* to solve this unprecedented problem.
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /supervillain/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /supervillain,, star, Index %}
-{% btn /supervillain/supersized_villain,, arrow-right, Next Chapter: Supersized Villain %}
+{% btn /supervillain/supersized_villain,, arrow-right, Next Chapter: Supersized Villain (Chapter 1–8) %}
 </div>
 
 ## Translation Notes

@@ -519,9 +519,80 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     </div>
 </div>
 
-<!--
 ## Mini Talks
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless.png"
+            alt="Supervillain: The Planning Of That Show"
+        />
+    </div>
+    <a href="/supervillain/minitalk/tetora_1" class="storyName" target="_blank">
+        <span>Supervillain<br><small>1: The Planning Of That Show</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless_Bloomed.png"
+            alt="Supervillain: Unaligned Feelings"
+        />
+    </div>
+    <a href="/supervillain/minitalk/tetora_2" class="storyName" target="_blank">
+        <span>Supervillain<br><small>2: Unaligned Feelings</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless.png"
+            alt="Supervillain: What An Evil Ninja Is"
+        />
+    </div>
+    <a href="/supervillain/minitalk/shinobu_1" class="storyName" target="_blank">
+        <span>Supervillain<br><small>1: What An Evil Ninja Is</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless_Bloomed.png"
+            alt="Supervillain: Preparing for the Mission"
+        />
+    </div>
+    <a href="/supervillain/minitalk/shinobu_2" class="storyName" target="_blank">
+        <span>Supervillain<br><small>2: Preparing for the Mission</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless.png"
+            alt="Supervillain: Hungry Hero"
+        />
+    </div>
+    <a href="/supervillain/minitalk/chiaki_1" class="storyName" target="_blank">
+        <span>Supervillain<br><small>1: Hungry Hero</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+            alt="Supervillain: The Path of a Hero Turning Evil"
+        />
+    </div>
+    <a href="/supervillain/minitalk/chiaki_2" class="storyName" target="_blank">
+        <span>Supervillain<br><small>2: The Path of a Hero Turning Evil</small></span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="image">
         <img
@@ -546,5 +617,28 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless.png"
+            alt="Supervillain: planning a trip"
+        />
+    </div>
+    <a href="/supervillain/minitalk/kanata_1" class="storyName" target="_blank">
+        <span>Supervillain<br><small>1: planning a trip</small></span>
+        <span class="read"></span>
+    </a>
 </div>
--->
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless_Bloomed.png"
+            alt="Supervillain: sea crook"
+        />
+    </div>
+    <a href="/supervillain/minitalk/kanata_2" class="storyName" target="_blank">
+        <span>Supervillain<br><small>2: sea crook</small></span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>

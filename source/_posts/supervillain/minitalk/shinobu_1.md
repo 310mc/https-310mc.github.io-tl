@@ -1,12 +1,11 @@
 ---
-title: "Supervillain – Shinobu Mini Talk: "
+title: "Supervillain – Shinobu Mini Talk: What An Evil Ninja Is"
 date: 2023/1/31 7:07:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu's first Mini Talk from Supervillain. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,37 +53,47 @@ hidden: true
 {% img /img/es/eventstory/supervillain/minitalk_shinobu1_1.jpg %}
 
 {% bubble Shinobu v2 %}
-sdfsf
+I have watched historical dramas with an evil magistrate, but how would an evil *ninja* be like…?
+
+Hmm… Not to mention, ninjas' very livelihood is in working within the shadows. I feel as though that is evil-like in of itself…
+
+Mm—!? I sense a presence behind me… Ah, it was you, Anzu-dono!?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Sorry for approaching you without saying anything!
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            This is just the fruits of my intense ninja training!
+
+            A ninja must never lower their guard! We live in a harsh world, after all!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You've really grown, haven't you?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            Heh! ♪ I am a real ninja, after all!
+
+            I cannot continue to have you take the upper-hand!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Ah, you noticed me.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            You purposely tried to hide your presence!?
+
+            You wanted to help me with my ninja training…? Please tell me beforehand, then.
 			{% endbubble %}
         </div>
     </div>
@@ -93,37 +102,47 @@ sdfsf
 #### <div mt="rare"></div> 2/3
 
 {% bubble Shinobu v2 %}
-sdfsf
+Mm? What was I pondering about? Ah, you heard me earlier?
+
+You see, I may have to play the role of a villain in one of my jobs.
+
+So I have been trying to decode what an evil ninja would be like.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            That sounds difficult.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            Indeed… In the first place, to be a ninja is to serve your lord.
+
+            My image of an evil ninja would depend on the sort of evil person my lord would be…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            A ninja role, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            Ah! Actually, it hasn't been decided yet if I will be a ninja.
+
+            I simply just *hope* I can be, that is all… Ehehe, perhaps I am getting a little too ahead of myself?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Do you think you can do the villain role?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            I-I am certain I can! As Ryusei Yellow, I cannot overlook the evil rampant in the world, but…
+
+            That is a different matter, and this is its own matter! A ninja never involves their personal affairs in their tasks!
 			{% endbubble %}
         </div>
     </div>
@@ -131,41 +150,51 @@ sdfsf
 
 #### <div mt="rare"></div> 3/3
 
-{% bubble Shinobu v2 %}
-sdfsf
+{% bubble Shinobu awkward %}
+That reminds me, did you have something to speak to me about, Anzu-dono?
+
+You have been worried about everyone in Ryuseitai…? So you wanted to check up on me?
+
+I very much appreciate you doing so, but I feel bad that we made you worry this much…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          sdfsf
+          Don't overdo it, okay?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            Of course I won't! Regardless, I have always believed in my comrades.
+
+            *All for one, one for all!* That is what makes us Ryuseitai!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            Are you alright?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            I'm alright. Midori-kun seems to be aching a little, and it worries me, but…
+
+            I'm sure everyone will be alright, as well. Our hearts are always one and the same, after all.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            You can always rely on me.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            sdfsf
+            I'm extremely grateful to hear that. I believe in everyone, but…
+
+            It feels much more reassuring when you have someone by your side during harsh times, doesn't it?
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: ADDHERE %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Preparing for the Mission %}</div>

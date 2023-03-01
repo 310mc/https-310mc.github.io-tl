@@ -28,7 +28,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh2.png");
 }
 [character="Midori"][frown] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sweat.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frown.png");
 }
 [character="Midori"][sweat] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sweat.png");
@@ -213,6 +213,9 @@
 }
 [character="Shinobu"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_awkward.png");
+}
+[character="Shinobu"][blush] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blush.png");
 }
 [character="Shinobu"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_surprised.png");

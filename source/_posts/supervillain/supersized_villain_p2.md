@@ -296,7 +296,7 @@ Yeah. In fact, it’s really surprising that even Takamine stuck around in this 
 He’s been a man with an element of surprise this time around.
 {% endbubble %}
 
-{% bubble Midori frown %}
+{% bubble Midori sigh2 %}
 If you’re actually surprised, then that just means you never <em>once</em> understood me.
 
 Besides, we all decided that we’d stay here together. I don’t wanna be the only one who’s left out.
@@ -380,6 +380,248 @@ And while stalling for time, I’d have to make sure that the evidence wouldn’
 All in order to defeat the evil organization, Crimson Production.
 {% endbubble %}
 
+## Chapter 11
+
+{% note cw %}
+**Content Warning:** The following chapters contain heavy discussion of self-loathing and self-destruction.
+{% endnote %}
+
+{% bubble Chiaki frown %}
+You were going to cross a dangerous bridge… However, you concluded that Crimson Production can’t be defeated unless you do so, right?
+{% endbubble %}
+
+{% bubble Tetora awkward %}
+Maybe it was just a dumb plan thought up by an idiot… I just couldn’t think of any other way.
+
+But I think I managed to make it work pretty well, if I do say so myself.
+
+I mean, I genuinely had everyone convinced that I was a complete traitor, 100% anti-ES. I was careful not to let anyone know my true intentions.
+
+After all, they would’ve killed me if they found out I was a spy. I was desperate to make this plan work.
+{% endbubble %}
+
+{% bubble Midori worried %}
+I know I’m really late in saying this, but this isn’t even idol work anymore, is it?
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Yeah, it really isn’t. I don’t think ES expected me to get this deeply involved, either.
+
+I’m sure they thought I’d just gather the information they needed and get myself out of here.
+
+But… I couldn’t abandon my old comrades, Anti-Stars, who were suffering in this place.
+
+So I started thinking of ways to save those kids. I knew that in order to do that, I needed to expose the dark side of Crimson Production and have them shut down.
+
+And I was going to do whatever I thought was necessary to achieve that.
+
+As earnestly as possible, and with every ounce of effort in my body.
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+That’s exactly what makes you who you are, Nagumo. You really are an earnest and straight-forward boy.
+
+However, the plan you devised is much too dangerous for you. You’re up against a criminal organization that’s as terrifying as an actual organized crime enterprise. You’d be dead in an instant were you to fail.
+
+We cherish you as much as you cherish your own comrades, including those in Anti-Stars.
+
+When you’re hurt or sad, we’re hurt and saddened just as much, if not more.
+
+I know you couldn’t think of any other way this time, but if possible, please don’t cross such a dangerous bridge like this ever again.
+
+While self-sacrifice is what makes a hero… Unlike me, you never wanted to become a hero, did you?
+{% endbubble %}
+
+{% bubble Tetora idle %}
+…Ossu. You’re the last person I’d ever want to preach to me about “not being self-sacrificial,” but…
+
+All I ever wanted to be was someone I could be proud of — someone I could love.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch11_1.jpg %}
+
+{% bubble Tetora sad2 %}
+—I’ve always hated myself.
+
+I’m sure you’ve all come to realize this about me by now, but I’ve always been extremely incompetent and stupid. No matter how hard I tried, I could never accomplish anything.
+
+I had no capability of doing anything, and the harder I tried, the more I failed… The saying, “Love is our greatest teacher,” didn’t apply to me.
+
+I love cooking, and I’ve been working hard on my cooking skills for a long time, but I’m sure you all know what the food I make is like.
+
+I’m even aware that on the school trip, everyone put up with my food and forced themselves to eat it.[^2]
+
+They ate every bit of it for my sake, with smiles on their faces, even though I’m sure it tasted awful…
+
+But I was really, genuinely trying to make it taste good.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch11_2.jpg %}
+
+{% bubble Tetora sad %}
+That’s always how it’s been for me, for every single thing. I just couldn’t get anything right. It didn’t matter how hard I tried, it would all go to waste in the end. I wouldn’t get any proper results, so I’d just give up and let it go half-way in.
+
+I just kept doing that, over and over again. Everyone around me, even my parents, probably thought I was nothing but a spineless kid with no real ambition.
+
+That’s why my parents made me learn karate, to build up my spirit.
+
+And I didn’t really get anywhere with that, either, so I quit it right after.
+
+But at the time, I was able to at least pretend I was working hard by going to the dojo every day.
+
+…Even though I wasn’t gaining anything. I wasn’t growing at all. I was always a white belt…
+
+Even then, I was still able to pretend that I was trying, that I was growing.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch11_3.jpg %}
+
+{% bubble Tetora frown %}
+My parents were relieved to see me try, and praised me a lot for it — Just like Morisawa-senpai does.
+
+“You’re working so hard, Tetora.” “You really *can* do it if you try, Tetora.” “You’re amazing, Tetora.”
+
+……Do you not realize how stupid that is?
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+………
+{% endbubble %}
+
+{% bubble Tetora sad3 %}
+I’m *not* amazing, not even close. I’m just stuck in the same spot. Everyone would always praise me, but I was the only one who could tell it wasn’t ever true.
+
+I was the only person I couldn’t fool.
+
+I’m empty with only a polished surface, and everyone around me saw that surface and praised me for “doing my best” and for being “a good boy”.
+
+All the while… Deep inside, the real me would stare at my fake self with cold, dead eyes.
+
+Ever since I was a little kid, that feeling has never once left me.
+{% endbubble %}
+
+## Chapter 12
+
+{% bubble Tetora smile4 %}
+I love my parents and my friends. I was surrounded by nothing but kind, wonderful people.
+
+My parents have always praised me and loved me. To this very day, they both work from morning to night, day in and day out, to earn money for my tuition and living expenses.
+
+Like me, they aren’t very good at what they do, and they don’t seem to make much money, no matter how hard they try.
+
+Even so, they listened to my desires and allowed me to enroll at Yumenosaki. They paid the high entrance fee and provided me with everything I needed.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch12_1.jpg %}
+
+{% bubble Tetora sad %}
+The reason I decided to go to Yumenosaki was because I was passionate about idols at that time.
+
+But, even then… It’s only because, during the time I was half-heartedly trying various things and not accomplishing anything, becoming an idol happened to be what I was aiming for at that moment.
+
+And what made me stick to that goal was because a friend told me something like, “You have good looks, Tetora. Why don’t you become an idol?”
+
+He was just saying something that fit the mood at the time, and I ended up hopping on the thought, as well.
+
+My parents and friends were so supportive that I just couldn’t back out… that’s all there was to it.
+
+I didn’t want to betray the expectations my beloved parents and friends had for me. I didn’t want to damper the mood and have them hate me.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch12_2.jpg %}
+
+{% bubble Tetora sad3 %}
+I really hate myself. So if those around me don’t love me, don’t care for me, then I have no reason to exist.
+
+I despise myself — so if everyone around me gives up on me, I’ll no longer be loved by anyone.
+
+And if nobody loves you… what’s even the point in living?
+
+I was terrified of that happening to me.
+
+To become someone unneeded, unloved, unseen by everyone—
+
+I was already such an empty person, so close to fading away. I couldn’t stand the thought of that happening for real.
+
+…It’s a common fear for a teenager. But for me, it was a severely serious problem.
+{% endbubble %}
+
+{% bubble Midori idle %}
+Tetora-kun…
+{% endbubble %}
+
+{% bubble Tetora awkward %}
+Haha. That’s why I got so angry at you, Midori-kun… It’s like I could see the real me in you — my pathetic self, that I hide in the pit of my stomach.
+
+And yet, I felt like you had everything I ever wanted. You have way better looks than me, and with just a little effort, you could do anything, you know?
+
+I couldn’t help but think it was so unfair.
+
+That, like, if you don’t want it that badly, you should just give me your talent and your beautiful face.
+{% endbubble %}
+
+{% bubble Midori worried2 %}
+Should I say sorry…?
+{% endbubble %}
+
+{% bubble Tetora frown3 %}
+No, don’t. If you apologize, I’ll feel even more miserable about myself, and then get unreasonably upset and punch you.
+
+But in reality, the real person I want to punch is myself.
+
+For never being able to grow up — for always being such an uncool person.
+
+To be honest, karate used to be a force of habit for me once upon a time, but the sensei who taught me gave me a bit of his word of wisdom. He told me that learning martial arts is not for the purpose of beating up a loathsome enemy.
+
+He said it’s for personal growth.
+
+It’s a common enough saying that it could’ve come from anyone, but, even then… I intend to aim my well-trained fists inwards, and beat up my weak self.
+
+That way, I could grow, even if only a little.
+
+This wasn’t out of a need to do a noble self-sacrifice, like Morisawa-senpai mentioned. I'm able to cross as many dangerous bridges as I want *because* I hate myself and don’t see myself as anything worthwhile.
+
+Even if I were to get badly hurt and fade away, I wouldn’t regret any of it for even a second. It would’ve felt refreshing, even.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Nagumo…
+{% endbubble %}
+
+{% bubble Tetora smile4 %}
+Yeah, don’t worry. I’m no longer desperate enough to put myself through any of that.
+
+I have friends and comrades who love me. I have juniors who admire me and depend on me. I have fans who pay attention to me and want to see more of me.
+
+That’s why… Maybe I was just making the wrong conclusion all along, but… I now believe that even *I’m* worth something.
+{% endbubble %}
+
+{% img /img/es/eventstory/supervillain/supersizedvillainch12_3.jpg %}
+
+{% bubble Tetora smile %}
+Morisawa-senpai. Shinkai-senpai. Midori-kun. Shinobu-kun.
+
+I love each and every one of you. I respect all of you — you never give up no matter what, and no matter how far down you are, you always crawl back up with all your effort. You’re always shining so brightly.
+
+You, who are all so dazzling like that, recognize me as an equal comrade, that I’ve even started to think I’ve got something of my own inside me—
+
+I can feel that way about myself now, from the bottom of my heart.
+
+Thanks to you guys, I’ve come to like myself a little bit.
+
+But… I want to grow to love myself more and more.
+
+I want to make an actual effort to do so.
+
+When I was all alone, I would just settle with pretending to work hard.
+
+But if everyone lends me their support, I feel like I can succeed for real this time.
+
+That’s why… Please, Ryuseitai — believe in me for just this moment, and entrust your lives to me.
+
+I swear to you — This time around, I won’t make any bit of that go to waste.
+{% endbubble %}
+
 {% note narration %}
 Translation in progress!
 {% endnote %}
@@ -392,4 +634,5 @@ Translation in progress!
 </div>
 
 ## Translation Notes
-[^1]: In Japan, sports-related activities/teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
+[^1]: In Japan, sports teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
+[^2]: This is a reference to [High and Low](https://ensemble-stars.fandom.com/wiki/High_and_Low).
