@@ -84,7 +84,7 @@ Ahh, it was really tough up until this point!
 
 While it is a good thing that we, Ryuseitai, have decided to participate… In the end, Midori-kun did not show up to practice.
 
-Neither did Taichou-dono and Shinkai-dono… They insist that the Repayment Festival is mainly done by juniors, so they will be watching from the audience seats rather than getting on stage.
+Neither did Taichou-dono nor Shinkai-dono… They insist that Repayment Festival is mainly conducted by juniors, so they will be watching from the audience seats rather than getting on stage.
 
 It was really late by the time we decided to participate… Because of that, I feel like we have not been able to get enough practice.
 
@@ -102,7 +102,7 @@ Let us prove to everyone that Ryuseitai, Yumenosaki’s oldest unit, is still go
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-……
+………
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -386,7 +386,7 @@ Excuse me, I’d like vegetables! Anything is fine, so long as it's not eggplant
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Good mooorniiing, I would like some fish~♪
+good morning\~ i would like some fish\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -404,9 +404,9 @@ But before that, we're warming up, since Repayment Festival lasts for a long tim
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-You do not have fish?
+you do not have fish?
 
-Mmm, what you have is pretty bad, isn’t it…?
+mmh~ what you have is pretty [bad], isn’t it…?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -414,9 +414,9 @@ We're a greengrocer shop, after all… If you want fish, then there’s a shop f
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-I see, I may go do that. It is the morning so the fish must be fresh, too.
+i see, i may go do that. it is the [morning] so the [fishies] must be [fresh], too.
 
-I would like to eat some while it is still tasty~♪
+i would like to [eat] some while it is still tasty~♪
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -438,7 +438,7 @@ For better or for worse, you really do have normal parents.
 
 So when trying to explain to them that their son is now an idol and has gotten fairly popular, it doesn’t really seem to sink in for them.
 
-My parents are the same. When I tell them that I've got a lot of jobs going on and that it's a lot of hard work, they always reply with something like "Look at you, sounding like an adult!"
+My parents are the same. When I tell them that I've got a lot of jobs going on and that it's a lot of hard work, they always reply with something like “Look at you, sounding like an adult!”
 
 Parents will always see their kids as spoiled babies who can't even change their own diapers.
 
@@ -462,9 +462,11 @@ So all I can do now is hope, like how one puts hope upon a shooting star.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Midori, we will do your job as representatives. It looks like it is all really simple work, something even a child could do.
+midori, we will do your [job] in your [place].
 
-Repayment Festival is centered around the juniors… And because we will not be up on the stage, we have some free time right now.
+it looks like it is all really simple [work], something even a [child] could do.
+
+repayment festival is [centered] around the [underclassmen]… and because we will not be up on the [stage], we have some [free time] right now.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -480,13 +482,13 @@ Takamine.
 {% endbubble %}
 
 {% bubble Midori %}
-Eh-- Huh?! What is it?! Your face is way too close! You're always like this…!
+Fweh— Huh?! What is it?! Your face is way too close! You're always like this…!
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
 Sorry. You never react much, so I always end up thinking you couldn’t hear me well.
 
-If you don't like my face being this close, then reply back. At least go "yeah" or "mhm" back.
+If you don't like my face being this close, then reply back. At least go “yeah” or “mhm” back.
 
 Don’t ignore me, it makes me sad.
 
@@ -532,7 +534,7 @@ Dreams don't even come true most of the time—though I could never say that in 
 
 Everyone's like that, it's not just you… Takamine.
 
-Everyone, *everyone*, gets carried into situations they don't expect throughout their life, and everyone complains, *"Why is this happening?!"*
+Everyone, *everyone*, gets carried into situations they don't expect throughout their life, and everyone complains, *“Why is this happening?!”*
 
 Everyone worries about their own lives, struggling, and causing trouble to those around them.
 {% endbubble %}
@@ -628,7 +630,7 @@ Your family will always be here to welcome you back.
 
 And while you two are doing your very best for your dreams, it seems like both of your parents are determined to keep the shop in top shape.
 
-They boasted about it, saying, "No way are we gonna die before you."
+They boasted about it, saying, “No way are we gonna die before you.”
 
 So they said, if neither you nor your brother would take over the shop…
 
@@ -638,7 +640,7 @@ You have a tough, yet warm family.
 
 So what exactly is dissatisfying for you, Takamine?
 
-What’s so "depressing"?! What’s making you "want to die"?! Is this really the time to be dying?! Enjoy your life to the fullest, just like your family wants you to!
+What’s so “depressing”?! What’s making you “want to die”?! Is this really the time to be dying?! Enjoy your life to the fullest, just like your family wants you to!
 
 Promise me that. It’s my wish right now, so please make it come true, Ryuseitai.
 {% endbubble %}
@@ -670,6 +672,7 @@ It’s something even Anzu-san would enjoy; an unbelievable unfolding of events 
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/tears_of_shooting_stars,, arrow-left, Previous Chapter: Tears of Shooting Stars %}
 {% btn /climax,, star, Index %}
 {% btn /climax/epilogue,, arrow-right, Next Chapter: Epilogue %}

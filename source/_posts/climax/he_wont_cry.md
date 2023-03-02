@@ -60,6 +60,7 @@ hidden: true
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /climax,, star, Index %}
 {% btn /climax/blessings_and_repayment,, arrow-right, Next Chapter: Blessings and Repayment %}

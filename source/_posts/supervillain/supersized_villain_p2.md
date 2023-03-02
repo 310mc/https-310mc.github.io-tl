@@ -493,7 +493,7 @@ I’m *not* amazing, not even close. I’m just stuck in the same spot. Everyone
 
 I was the only person I couldn’t fool.
 
-I’m empty with only a polished surface, and everyone around me saw that surface and praised me for “doing my best” and for being “a good boy”.
+I’m hollow inside with only a polished surface, and everyone around me saw that surface and praised me for “doing my best” and for being “a good boy”.
 
 All the while… Deep inside, the real me would stare at my fake self with cold, dead eyes.
 
@@ -541,7 +541,7 @@ I was terrified of that happening to me.
 
 To become someone unneeded, unloved, unseen by everyone—
 
-I was already such an empty person, so close to fading away. I couldn’t stand the thought of that happening for real.
+I was already such a hollow person, so close to fading away. I couldn’t stand the thought of that happening for real.
 
 …It’s a common fear for a teenager. But for me, it was a severely serious problem.
 {% endbubble %}

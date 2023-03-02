@@ -62,6 +62,7 @@ hidden: true
 ## Chapter 1
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/anxiety_and_silence,, arrow-left, Previous Chapter: Anxiety and Silence %}
 {% btn /climax,, star, Index %}
 {% btn /climax/tears_of_shooting_stars,, arrow-right, Next Chapter: Tears of Shooting Stars %}

@@ -58,6 +58,7 @@ hidden: true
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/he_wont_cry,, arrow-left, Previous Chapter: He Won't Cry %}
 {% btn /climax,, star, Index %}
 {% btn /climax/anxiety_and_silence,, arrow-right, Next Chapter: Anxiety and Silence %}

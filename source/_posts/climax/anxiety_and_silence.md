@@ -58,6 +58,7 @@ hidden: true
 ## Chapter 1
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/blessings_and_repayment,, arrow-left, Previous Chapter: Blessings and Repayment %}
 {% btn /climax,, star, Index %}
 {% btn /climax/bystanders,, arrow-right, Next Chapter: Bystanders %}
