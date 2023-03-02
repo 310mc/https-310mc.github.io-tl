@@ -5,7 +5,7 @@ categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Translation of Chiaki's first Mini Talk from Climax. From Anzu's POV."
+description: "[ES!] Translation of Chiaki's first Produce Course from Climax. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -49,7 +49,9 @@ description: "[ES!] Translation of Chiaki's first Mini Talk from Climax. From An
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
+
 {% bubble Chiaki %}
 Anzu! What’s up? What are you doing here?
 
@@ -120,7 +122,9 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 </div>
 
 ## <div mt="rare"></div> 2/3
+
 {% img /img/es/eventstory/climax/minitalk_chiaki1_2.jpg %}
+
 {% bubble Chiaki %}
 Ooh, Anzu! You're here at just the right time!
 
@@ -191,7 +195,9 @@ Have you seen him anywhere?
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/climax/minitalk_chiaki1_3.jpg %}
+
 {% bubble Chiaki %}
 Huh, there really are heart-shaped ornaments wherever you go…
 

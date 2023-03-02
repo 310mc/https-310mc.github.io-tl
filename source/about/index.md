@@ -31,14 +31,6 @@ I'm most likely to translate the following content:
 
 ※ Upload [previously completed translations](/translations) to this site *(In progress!)*
 
-※ Translate [Submarine](/submarine) *(In progress!)*
-
-※ Translate [Hot & Elegant Chocolat Fes](https://ensemble-stars.fandom.com/wiki/Hot_%26_Elegant_Chocolat_Fes)
-
-※ Translate [Midori's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Midori_Takamine/Sub_Story)
-
-※ Translate [Chiaki's ES! Idol Stories](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa/Sub_Story)
-
 ## Reporting Mistakes
 
 If you ever spot a typo, mistranslation, grammar or punctuation error in my translations;

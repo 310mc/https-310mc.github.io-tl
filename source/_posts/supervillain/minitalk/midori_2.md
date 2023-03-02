@@ -53,11 +53,11 @@ description: "[ES!!] Midori's second Mini Talk from Supervillain. From Anzu's PO
 {% img /img/es/eventstory/supervillain/minitalk_midori2_1.jpg %}
 
 {% bubble Midori sad %}
-<th>(Yesterday I had work. Today I have work. Tomorrow I'll have work. Every day is work, work, and more work… Ahh… I'm so depressed…)</th>
+<th>(Yesterday I had work. Today I have work. Tomorrow I'll have work. Every day from morning to evening is work, work, and more work… Ahh… I'm so depressed…)</th>
 
-<th>(I'm not even a workaholic, but all I've been doing lately is work…)</th>
+<th>(I'm not even a workaholic, but all I've been cramming myself with is work…)</th>
 
-I know I'm why this happened, but still… Why did it turn out this way…?
+I know I'm the one who did all those things, but still… Why did it turn out this way…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

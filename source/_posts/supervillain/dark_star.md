@@ -63,7 +63,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 <div toc>
 {% btn /supervillain/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /supervillain,, star, Index %}
-{% btn /supervillain/supersized_villain,, arrow-right, Next Chapter: Supersized Villain %}
+{% btn /supervillain/supersized_villain,, arrow-right, Next Chapter: Supersized Villain (Chapter 1–8) %}
 </div>
 
 ## Chapter 1

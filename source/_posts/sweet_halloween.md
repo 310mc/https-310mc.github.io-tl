@@ -1,23 +1,24 @@
 ---
-title: "[ES!] Climax (In Progress!)"
-date: 2017-3-10 9:00:00
+title: "[ES!] Sweet Halloween"
+date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
+- [Enstars, Ra*bits]
+- [Enstars, MaM]
 tags:
 - Story Index
-- Event Story
-- Akira
 description: "[ES!] TBA"
+hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/climax/midoribcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/sweethalloween/chiakibcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Climax</div>
-                <div class="title-area__subtitle">クライマックス</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/climax">In Progress!</a></div>
+                <div class="title-area__title">Sweet Halloween</div>
+                <div class="title-area__subtitle">スイートハロウィン</div>
+                <div class="title-area__start"><a href="/sweet_halloween/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -29,7 +30,7 @@ description: "[ES!] TBA"
                             Season
                         </div>
                         <div class="value">
-                            Spring (Graduation Season)
+                            Autumn
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -37,7 +38,7 @@ description: "[ES!] TBA"
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            24
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -58,10 +59,11 @@ description: "[ES!] TBA"
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Subaru" character="Subaru"></a>
-                        <a href="/categories/Enstars/Mao" character="Mao"></a>
-                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
-                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                        <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -100,15 +102,17 @@ description: "[ES!] TBA"
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/climax/chiakiorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/sweethalloween/hajimeorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/climax/midoribcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Climax</div>
-                <div class="title-area__subtitle">クライマックス</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/climax">In Progress!</a></div>
+                <div class="title-area__title">Sweet Halloween</div>
+                <div class="title-area__subtitle">スイートハロウィン</div>
+                <div class="title-area__start">
+                    <a href="prologue">Start Reading</a>
+                </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -120,7 +124,7 @@ description: "[ES!] TBA"
                             Season
                         </div>
                         <div class="value">
-                            Spring (Graduation Season)
+                            Autumn
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -128,7 +132,7 @@ description: "[ES!] TBA"
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            24
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -149,10 +153,11 @@ description: "[ES!] TBA"
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Subaru" character="Subaru"></a>
-                        <a href="/categories/Enstars/Mao" character="Mao"></a>
-                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
-                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                        <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -160,7 +165,7 @@ description: "[ES!] TBA"
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                          <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -182,7 +187,7 @@ description: "[ES!] TBA"
                                 Event
                             </div>
                             <div class="value">
-                                Baton Pass! Repayment Festival of Tears and Bonds
+                                Lots of Monsters ☆ Sweet Halloween
                             </div>
                         </div>
                         <div class="tab-item">
@@ -190,7 +195,7 @@ description: "[ES!] TBA"
                                 Event Duration
                             </div>
                             <div class="value">
-                                2017/2/28 (15:00 JST) - 2017/3/10 (22:00 JST)
+                                2017/10/31 (15:00 JST) - 2017/11/10 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -203,66 +208,66 @@ description: "[ES!] TBA"
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/chiakiorigcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/tomoyaorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    He Won't Cry 2
+                                    sweet home 6
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/shinobuorigcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Bystanders 2
+                                    sweet home 7
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/tetoraorigcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Tears of Shooting Stars 3
+                                    sweet home 9
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/hajimeorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Tears of Shooting Stars 4
+                                    sweet home 10
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/shinobubcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 5
+                                    let's party! 4
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/tetorabcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 5
+                                    let's party! 5
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/tomoyabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 5
+                                    Epilogue
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/sweethalloween/hajimebcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 5
+                                    Epilogue
                                 </div>
                             </div>
                         </div>
@@ -277,10 +282,10 @@ description: "[ES!] TBA"
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/chiakicard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/chiakibcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -313,10 +318,10 @@ description: "[ES!] TBA"
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/midoricard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -349,82 +354,10 @@ description: "[ES!] TBA"
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/tetorabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/shinobucard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/shinobubcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/kanatacard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -457,10 +390,10 @@ description: "[ES!] TBA"
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/subarucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/subarubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -470,8 +403,8 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Subaru Akehoshi</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -493,10 +426,10 @@ description: "[ES!] TBA"
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/kaorucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/kaorubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -506,44 +439,8 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kaoru Hakaze</div>
-                                    <div class="card__jp">[] </div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/eichicard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/eichibcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Eichi Tenshouin</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -569,58 +466,30 @@ description: "[ES!] TBA"
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                            <a href="https://euni2319.dreamwidth.org/tag/climax" id="none">Dreamwidth</a>
-                        <!--<li>
+                        <li>
                             <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="he_wont_cry" id="none">He Won't Cry</a>
+                            <a href="dis_harmony" id="none">dis harmony</a>
                         </li>
                         <li>
-                            <a href="blessings_and_repayment" id="none">Blessings and Repayment</a>
+                            <a href="sweet_home" id="none">sweet home</a>
                         </li>
                         <li>
-                            <a href="anxiety_and_silence" id="none">Anxiety and Silence</a>
-                        </li>
-                        <li>
-                            <a href="bystanders" id="none">Bystanders</a>
-                        </li>
-                        <li>
-                            <a href="tears_of_shooting_stars" id="none">Tears of Shooting Stars</a>
-                        </li>
-                        <li>
-                            <a href="heroes_of_the_future" id="none">Heroes of the Future</a>
+                            <a href="lets_party" id="none">let's party!</a>
                         </li>
                         <li>
                             <a href="epilogue" id="none">Epilogue</a>
-                        </li>-->
+                        </li>
                     </ul>
                 </div>
-              <div class="mini-talks">
+              <!--  <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
+                        <div class="mt-header">Character</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Midori Takamine</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--  <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">Part One</a>
-                            <a href="NOTRANSLATION" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="none">x</a>
+                            <a href="minitalk/chiaki_2" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -628,12 +497,30 @@ description: "[ES!] TBA"
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">Part One</a>
-                            <a href="NOTRANSLATION" id="none">Part Two</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
-                    </div>-->
-                </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
             </div>
         </div>
     </div>

@@ -5,7 +5,7 @@ categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!] Translation of Chiaki's second Mini Talk from Climax. From Anzu's POV."
+description: "[ES!] Translation of Chiaki's second Produce Course from Climax. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -49,7 +49,9 @@ description: "[ES!] Translation of Chiaki's second Mini Talk from Climax. From A
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/climax/minitalk_chiaki2_1.jpg %}
+
 {% bubble Chiaki %}
 I’m being asked to take jobs after graduation by the people I work with in the industry.
 
@@ -118,6 +120,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 </div>
 
 ## <div mt="rare"></div> 2/3
+
 {% bubble Chiaki frown %}
 Ugh, I can’t believe Takamine saw me that day…
 
@@ -186,7 +189,9 @@ It actually makes me look pathetic instead, doesn’t it…?
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/climax/minitalk_chiaki2_3.jpg %}
+
 {% bubble Chiaki %}
 I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.
 

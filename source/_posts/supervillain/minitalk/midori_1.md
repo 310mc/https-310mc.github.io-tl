@@ -102,7 +102,7 @@ Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have somet
 #### <div mt="rare"></div> 2/3
 
 {% bubble Midori curious %}
-Are you asking me if I watch movies often…? Um, I wouldn't say I would…
+Are you asking me if I watch movies often…? Um, I wouldn't say I do…
 
 I wouldn't be able to tell you who my favorite director is, and I usually just watch movies that peek my interest whenever I'm in the mood for one.
 
@@ -155,7 +155,7 @@ What about you, Anzu-san? Do you usually watch movies?
 {% bubble Midori smile3 %}
 You were able to rent the DVD you wanted? I'm glad…♪
 
-We spent the whole time just talking about interesting series and recommendations, that I didn't even realize the day went by…
+We spent the whole time just talking about interesting series and our recommendations, that I didn't even realize the day went by…
 
 But I feel like we got a lot out of it. We'll get to have a lot of fun watching stuff on our days off, huh?
 {% endbubble %}

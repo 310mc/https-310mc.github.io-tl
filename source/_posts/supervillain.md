@@ -273,8 +273,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">It's time for work at the evil organization.<!--悪の組織のお仕事だ--></div>
+                                            <div class="bloomed">This is the path I've decided on!<!--これが俺の決めた道ッス！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -309,8 +309,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">What is going on here?<!--マジで何なんでござるか？--></div>
+                                            <div class="bloomed">We will always support each other!<!--支え合っていくでござる！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -345,8 +345,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">Nagumo…<!--南雲…--></div>
+                                            <div class="bloomed"><small>We're comrades that always join forces, aren't we?</small><!--手を取り合える仲間だろう--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -381,8 +381,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><small>Wow, you can do it easily… It's impossible for me…</small><!--よくできるよね…俺は無理…--></div>
+                                            <div class="bloomed">It's just like us to have differences, isn't it…? ♪<!--凸凹なのが俺たちでしょ…♪--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -417,8 +417,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">let's do what we can.<!--できることはしましょう--></div>
+                                            <div class="bloomed">we will grow slowly but surely.<!--すこしずつせいちょうですね--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -517,128 +517,4 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
             </div>
         </div>
     </div>
-</div>
-
-## Mini Talks
-<div class="stories">
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless.png"
-            alt="The Planning Of That Show"
-        />
-    </div>
-    <a href="/supervillain/minitalk/tetora_1" class="storyName" target="_blank">
-        <span>1: The Planning Of That Show</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless_Bloomed.png"
-            alt="Unaligned Feelings"
-        />
-    </div>
-    <a href="/supervillain/minitalk/tetora_2" class="storyName" target="_blank">
-        <span>2: Unaligned Feelings</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless.png"
-            alt="What An Evil Ninja Is"
-        />
-    </div>
-    <a href="/supervillain/minitalk/shinobu_1" class="storyName" target="_blank">
-        <span>1: What An Evil Ninja Is</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless_Bloomed.png"
-            alt="Preparing For The Mission"
-        />
-    </div>
-    <a href="/supervillain/minitalk/shinobu_2" class="storyName" target="_blank">
-        <span>2: Preparing For The Mission</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless.png"
-            alt="Hungry Hero"
-        />
-    </div>
-    <a href="/supervillain/minitalk/chiaki_1" class="storyName" target="_blank">
-        <span>1: Hungry Hero</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless_Bloomed.png"
-            alt="The Path of a Hero Turning Evil"
-        />
-    </div>
-    <a href="/supervillain/minitalk/chiaki_2" class="storyName" target="_blank">
-        <span>2: The Path of a Hero Turning Evil</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless.png"
-            alt="Recommendations"
-        />
-    </div>
-    <a href="/supervillain/minitalk/midori_1" class="storyName" target="_blank">
-        <span>1: Recommendations</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless_Bloomed.png"
-            alt="Work, work, work"
-        />
-    </div>
-    <a href="/supervillain/minitalk/midori_2" class="storyName" target="_blank">
-        <span>2: Work, work, work</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless.png"
-            alt="planning a trip"
-        />
-    </div>
-    <a href="/supervillain/minitalk/kanata_1" class="storyName" target="_blank">
-        <span>1: planning a trip</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless_Bloomed.png"
-            alt="sea crook"
-        />
-    </div>
-    <a href="/supervillain/minitalk/kanata_2" class="storyName" target="_blank">
-        <span>2: sea crook</span>
-        <span class="read"></span>
-    </a>
-</div>
 </div>
