@@ -292,9 +292,7 @@ Were this the past, Morisawa-dono would drag Midori-kun over by the collar like 
 Yeah… I’m not sure I can emotionally handle that kind of thing right now.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch2_1.jpg %}
-
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smile3 %}
 Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called “Supervillains”.
 
 Therefore, it would be against my sense of duty to leave now. And personally, I want to give it my all and see through the end, as well.
@@ -327,8 +325,6 @@ i love [fish]~♪
 {% bubble Chiaki v2 %}
 Mhm, I’ve already made our wishes known to them. So… I’d like to think that it’s unlikely that we’ll be given an unreasonable role.
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/darkstarch2_2.jpg %}
 
 {% bubble Chiaki sad %}
 But the content is… Well, I’m a little anxious about it, to say the least.
@@ -628,8 +624,6 @@ There is no need to worry. When we were in Okinawa for the SS qualifying rounds,
 Indeed, I will not take any chances. I shall simply observe the situation, as we will be conducting a thorough investigation tomorrow.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch4_3.jpg %}
-
 {% bubble Shinobu serious %}
 Yes… This would have been easier if we managed to make contact with Tetora-kun through HoldHands or something, but we have not gotten any response for some reason.
 
@@ -653,8 +647,6 @@ Mhm, mhm… I truly do wonder where they acquired the money to buy such extravag
 
 There is definitely something going on here, Taichou-dono.
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/darkstarch4_4.jpg %}
 
 {% bubble Shinobu v2 %}
 Oh, yes, of course. I am but a humble ninja idol, not a detective or police officer. I assure you that I will not do anything that could stir up problems for myself.
@@ -730,11 +722,11 @@ yes… but still, we will do what we can.
 Yup. Of course, we’ll ensure full backup for Sengoku while doing our job. I would like to think that even though we’re physically far apart, our hearts are always one and the same.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch5_2.jpg %}
+{% bubble Chiaki frown %}
+Takamine is still prioritizing his personal work as we speak, though…
+{% endbubble %}
 
 {% bubble Chiaki serious %}
-Takamine is still prioritizing his personal work as we speak, though…
-
 But, well… I suppose he can’t boycott the work he had already agreed to do, so there isn’t much we can do about it.
 
 Takamine used to have no motivation, but now he works hard on his jobs no matter the reason. Personally, I refuse to oppose that.
@@ -795,7 +787,7 @@ Since staff readjustments will create an issue with salaries and other aspects, 
 
 And when I talked to Tenshouin, the verified head-manager of the current StarPro office, he also said that Nagumo hasn’t submitted any documents related to the matter.
 
-I’ll ask Tenshoin to investigate as much as he can within his authority, and if he comes up with nothing, then it proves that there really *is* nothing to those rumors.
+I’ll ask Tenshouin to investigate as much as he can within his authority, and if he comes up with nothing, then it proves that there really *is* nothing to those rumors.
 {% endbubble %}
 
 {% bubble Kanata frown %}
@@ -1180,11 +1172,11 @@ I’m begging you, please don’t terrorize my peaceful daily life… Are you tw
 
 {% bubble Chiaki grin %}
 Why, of *course* we aren’t kaijuu! We’re heroes of justice! We’re trying our hardest to be that!
-
-However! You have to take a look at this! This is the latest news article published online—
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch8_3.jpg %}
+{% bubble Chiaki worried %}
+However! You have to take a look at this! This is the latest news article published online—
+{% endbubble %}
 
 {% bubble Midori worried %}
 Mm…?
@@ -1198,7 +1190,7 @@ Wha— What is this…?
 What? What's going on here? Why’s the situation getting even *worse* before our very eyes…?
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki sigh2 %}
 Naturally, we’re puzzled too! Yesterday, we had Sengoku fly to Okinawa to investigate the situation—
 
 But then he found himself in some kind of trouble, and we never heard from him again.
@@ -1230,19 +1222,19 @@ Mhm! I’d love it if we could become special in a more positive way! You little
 mm, so, we were [worried] about shinobu since [yesterday]. and once it became today — as you can see, this is what ended up happening.
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori idle %}
 And that’s why it’s now sounding like even Shinobu-kun is quitting Ryuseitai for whatever reason, huh…?
 
 But I mean… This is just fake news, isn’t it?
 
 A lot has happened, so I guess it kinda makes sense in Tetora-kun’s case, but… Shinobu-kun would never abandon Ryuseitai under any circumstances, so…
+{% endbubble %}
 
+{% bubble Midori sad %}
 Actually, you could probably say that if even *Shinobu-kun* of all people gave up on Ryuseitai, then we really *are* done for.
 
 It’ll mean we’ve become the absolute worst group in the world, that even Shinobu-kun, who finds good in everything, can’t find any good in us at all.
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/darkstarch8_5.jpg %}
 
 {% bubble Chiaki frown %}
 Yeah… It’s hard for me to believe, too. But you’ll find a picture of Nagumo and Sengoku shoulder-to-shoulder in this article, smiling and posing together.

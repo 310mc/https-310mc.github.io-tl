@@ -90,8 +90,6 @@ It seems like there’s some kind of signal jam around the Crimson Production he
 That’s why no phone calls make it through from inside or near the building.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch1_2.jpg %}
-
 {% bubble Chiaki frown2 %}
 My initial guess was that Nagumo and Sengoku had their phones confiscated and then destroyed, but… It seems like it’s a lot more dangerous than I had originally anticipated.
 
@@ -266,8 +264,6 @@ Haha. Taken aback, are you, Taichou? I’m sure you’ve experienced a lot of fl
 Or, what? Did you really think I wouldn’t actually hit you?
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch2_2.jpg %}
-
 {% bubble Tetora angry2 %}
 Either way, you’re always *so* naive!
 
@@ -418,8 +414,6 @@ That’s how I became the target of bullying. Whenever I came face to face with 
 I became someone against justice, who deserved to be kicked and cursed at — in other words, an evil monster.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch2_4.jpg %}
-
 {% bubble Chiaki sad %}
 That was why I was forced to do all their tedious jobs and homework, day in and day out.
 
@@ -443,8 +437,6 @@ That’s why I couldn’t complain to anyone. I just couldn't let myself whine �
 {% bubble Chiaki serious %}
 That’s why I tried to get through the days by always pretending to be an idiot who didn’t think or feel anything. I just smiled and laughed, convincing myself that I was happy.
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/supersizedvillainch3_1.jpg %}
 
 {% bubble Chiaki smile2 %}
 And then, on that starry night — I met Kanata, who had lived a much more pitiful life than I, and had never been treated as a human being—
@@ -774,15 +766,15 @@ That’s why acting like an ES hater came naturally to me.
 In fact, I spilled so many of my hidden complaints that I almost tricked *myself* into thinking they were my true feelings all along.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch5_1.jpg %}
-
 {% bubble Tetora awkward %}
 I almost became infected with the same thoughts as the anti-ES groups. Honestly, cursing people, saying how much you hate them, criticizing them… It’s all pretty fun to do.
 
 It’s a refreshing feeling.
 
 I can sort of see why some people get addicted to it.
+{% endbubble %}
 
+{% bubble Tetora idle %}
 But if I ever end up getting obsessed with all that hatred, that’s when I’ll really start to despise myself.
 
 There are a lot of things I don’t like about ES and our agency, but that doesn’t mean I think they’re all hateful, evil beings to be trampled on.
@@ -817,7 +809,7 @@ Umm… Is Crimson Production seriously *that* bad of an agency…?
 {% endbubble %}
 
 {% bubble Tetora frown %}
-Well, I think it’s pretty clear considering they have fighters ready for anything that requires violence, but — The reason for that is, in reality, Crimson Production is pretty much an organized crime enterprise.
+Well, I think it’s pretty clear considering they have fighters ready for anything that requires violence, but — The reason for that is, in reality, Crimson Production is basically like an organized crime enterprise.
 
 Yakuza is what you’d call them, if this were a few years back. I think nowadays they’re called, uh, what was it… illegal groups…?[^3]
 
@@ -1088,11 +1080,11 @@ Ahaha… To be fair, my friend Yuuta-kun also suddenly changed his character the
 Still, as soon as Sengoku-kun got over the shock, he started asking me, “Why are you acting like that? I would like to know what’s going on!”
 
 He even whispered to me, “I may be able to assist you depending on what it is,” and that’s when I knew there’s no way I could fool him.
-
-But honestly, there’s just no way I could put on an act convincing enough to deceive my own friends like Morisawa-Taichou can.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch7_1.jpg %}
+{% bubble Tetora frown %}
+But honestly, there’s just no way I could put on an act convincing enough to deceive my own friends like Morisawa-Taichou can.
+{% endbubble %}
 
 {% bubble Chiaki grin %}
 Fuhaha! Experience, it’s all experience! Do you even know how many years I’ve spent imitating heroes for fun?
@@ -1169,7 +1161,7 @@ We’d need *way* more than a half-hearted effort to tear down its stronghold.
 {% endnote %}
 
 {% bubble Midori worried %}
-Wait, “tear down their stronghold”…? Don’t tell me you plan to fight… You, against the *entirety* of Crimson Production?
+Wait, “tear down its stronghold”…? Don’t tell me you plan to fight… You, against the *entirety* of Crimson Production?
 
 Why? Let’s just leave this all behind. Nothing good will come out of getting involved with something so dangerous, y’know…?
 {% endbubble %}
@@ -1210,7 +1202,9 @@ I’ll also hand over all evidence of wrongdoing at Crimson Production that I’
 If all goes well, Crimson Production will be destroyed.
 
 The evil will perish, and justice will prevail.
+{% endbubble %}
 
+{% bubble Tetora awkward %}
 Haha… It’s such a plain and boring solution, unlike defeating evil monsters with cannons and giant robots and stuff.
 {% endbubble %}
 
@@ -1267,8 +1261,6 @@ In order to prevent such a horrible part of history from repeating itself, we *h
 {% bubble Chiaki serious %}
 You think that I’ll be impressed and agree with you if you put it that way, don’t you?
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/supersizedvillainch8_1.jpg %}
 
 {% bubble Chiaki smile3 %}
 And the matter of fact is, yes — I really am impressed. Mhm, you’ve grown up so much, Nagumo. You’re a worthy hero of justice of your own.

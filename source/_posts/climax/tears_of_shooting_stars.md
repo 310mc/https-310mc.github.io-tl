@@ -75,6 +75,162 @@ hidden: true
 
 {% img /img/es/eventstory/climax/tears1_1.jpg %}
 
+{% bubble Chiaki angry %}
+Nagumo! Takamine! What’s the matter!? What happened here!?
+
+Sengoku was unusually confused, and his explanation didn’t quite make sense!
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+But there’s no need to worry anymore! Now that the burning heart Morisawa Chiaki has come to your rescue, all your troubles will be instantly shattered!
+
+We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! ☆
+{% endbubble %}
+
+{% bubble Tetora frown3 %}
+………
+
+…Taichou. I’m sorry, but please stay outta this.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+No need to act so distant with us, Nagumo! I wasn’t intending on intruding too much, but this is an emergency, right?
+
+The five of us together are *Ryuseitai!* Let’s solve our problems and worries together!
+{% endbubble %}
+
+{% bubble Chiaki sigh2 %}
+I’m so sorry! I’ve been so preoccupied with my own matters that I ended up neglecting you guys!
+
+If you’re angry, then throw your anger at me! Grab me by the collar and beat me up! It’s my well-deserved punishment…!
+
+But please, end the fighting with that! What’s the use in fighting amongst your own people!?
+{% endbubble %}
+
+{% bubble Tetora sad2 %}
+See, it’s ‘cuz you’re so naive like that—… No, now’s not the time to be blamin’ you.
+
+It’s seriously none of your business, so could you please stay out of it?
+
+Nobody asked you to get involved. I know that’s what a hero of justice is all about, but I’d appreciate it if you’d refrain from butting in this once.
+
+Within school, not being able to read the room is equivalent to evil, y’know?
+
+—Ahh… I can’t believe I called you of all people <em>evil</em>... I’m not calm either, huh…
+{% endbubble %}
+
+{% bubble Kanata %}
+midori\~? tetora\~? are you two alright?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Oh! You’ve arrived, Kanata. Sorry for running off on my own.
+{% endbubble %}
+
+{% bubble Kanata %}
+that is the [usual].
+
+…midori, are you really [okay]? aren’t you crying? what happened?
+{% endbubble %}
+
+{% bubble Midori %}
+………
+{% endbubble %}
+
+{% bubble Kanata %}
+there, there. you are a good boy, so don’t cry, okay…?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Nagumo. I don’t want to think you would, but did you hit Takamine by any chance? You shouldn’t resort to violence!
+{% endbubble %}
+
+{% bubble Tetora %}
+Please don’t just assume things. I wouldn’t hit him. …I’d only dirty my fists if I punched a spoiled brat like him.
+{% endbubble %}
+
+{% bubble Midori %}
+………
+{% endbubble %}
+
+{% bubble Tetora %}
+Why don’t you say something already, huh? We’re not done talkin’ here!
+
+Or what, are you just gonna cower away and pretend nothing’s happening!? Are you hoping for that kind somebody to solve all your problems for you!?
+{% endbubble %}
+
+{% bubble Chiaki %}
+C-Calm down already, Nagumo! Why are you so angry!? Take a deep breath!
+{% endbubble %}
+
+{% bubble Shinobu %}
+T-Taichou-dono\~? Shinkai-dono\~? I finally caught up with you!
+
+Both of you rushed straight to the scene before I could get to the details…
+{% endbubble %}
+
+{% bubble Chiaki %}
+Sengoku! You’re here just in time—explain the situation!
+
+Hm? Even Anzu is here? Is that a first aid kit in your hand? Did you go somewhere to fetch it?
+
+D-Did someone get hurt after all…? Nagumo seems to be unharmed, so is Takamine the one who got hit?
+
+I’ll help patch him up! Stand up, Takamine! Show me where it hurts!
+
+I often get injured during my stunt work, so I know how to treat small injuries!
+{% endbubble %}
+
+{% bubble Midori %}
+*Ugh,* you’re so loud… I’m not injured anywhere, okay… You’re all panicking <em>way</em> too much…
+{% endbubble %}
+
+{% bubble Chiaki %}
+Then why are you crying? Anzu, Sengoku, please give me a full report of what happened!
+
+I’m so sorry! It’s all my fault for neglecting you guys all this time!
+
+However, I truly believed that you would be able to overcome any and all difficulties by yourselves!
+{% endbubble %}
+
+{% bubble Tetora awkward %}
+Well… This must be a disappointin’ sight then, I’m sorry.
+
+The situation is very simple. Anzu-Anego asked me if we, Ryuseitai, were gonna participate in Repayment Festival.
+
+But to be honest, I thought we wouldn’t be able to.
+
+‘Course, deep down, I absolutely wanna join the festival. I wanted to show my gratitude and return the favor to all the seniors I’m indebted to.
+
+The reason I got to live my life proudly without ever losing heart was all thanks to Taishou and my seniors in Ryuseitai, after all.
+
+I wanted to give ‘em a peace of mind by showing ‘em just how much I’ve grown. That’s what Repayment Festival is for.
+
+It’s a farewell ceremony that begins and ends with a bow.[^1]
+
+I wanted to make sure I could do that properly. …It’s sad to say our goodbyes, but throwin’ a tantrum won’t change anything.
+
+I wanted to wipe my tears away, so that I can at least say my goodbyes with a smile.
+
+But… that’s just how <em>I</em> feel. I can’t force others to do the same.
+
+If I just go ahead on my own like I always do, I’d only cause trouble for everyone.
+
+That's why I first started by asking Midori-kun the other day, since we’re in the same class.
+
+I wanted to see if he wanted to join, and if he thinks he can manage it.
+
+He replied the same way he always does.
+
+“I can’t do it” “I don’t wanna” “It’s a pain” “Why me…?” — It’s gotten so tiring hearin’ this stuff for the past whole year. Midori-kun, you really don’t have any motivation, do you?
+
+I understand why, though. After all, you accidentally took the idol course, right?
+
+You never wanted to become an idol in the first place, right?
+
+So scolding you harshly, pushing you to do stuff, and forcefully dragging you back in when you’re so unmotivated would just be cruel. That’s exactly what Taichou always did, though.
+{% endbubble %}
+
 ## Chapter 2
 
 {% bubble Tetora %}
@@ -198,7 +354,7 @@ And so, you can’t participate 'cuz you’re gonna be busy with that.
 
 I get that. For the sake of your family—for the greengrocer shop—you always worked hard despite all your complaints.
 
-We even made advertisement signboards for 'em together, right? That’s a very precious memory for me.
+We even made advertisement signboards for 'em together, right? That’s a very precious memory for me.[^2]
 {% endbubble %}
 
 ## Chapter 3
@@ -453,4 +609,5 @@ I’m sorry, I’m sorry, I’m so sorry…
 </div>
 
 ## Translation Notes
-[^1]: A reference to Colorful Autumn.
+[^1]: This is in reference to how you must behave in a dojo, starting with respect (bowing) and ending it with respect.
+[^2]: A reference to Colorful Autumn.

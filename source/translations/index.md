@@ -211,7 +211,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         />
     </div>
     <a href="/supervillain" class="storyName" target="_blank">
-        <span>Supervillain (In Progress!)</span>
+        <span>Supervillain</span>
         <span class="read"></span>
     </a>
 </div>

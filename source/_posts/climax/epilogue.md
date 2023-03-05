@@ -139,7 +139,7 @@ Woah—! Sorry. Wait, why're you carrying Anzu? Were you two on good terms?
 {% bubble Eichi %}
 Yes. Well, I want to think that we were at least able to become friends.
 
-Fufu, you know… For once, it seems like Keito is going all-out this time around.
+Fufu, you know… It seems like Keito is unusually going all-out this time around.
 
 So the Student Council duties were delayed a bit, and Anzu-chan and I tried to finish up the rest of it at the Student Council office.
 
@@ -147,7 +147,7 @@ I caused Keito a lot of trouble, so I wanted to pay him back, even if a little.
 
 In any case, we finished most of the work, and it was about time for the second half of the festival to start. That’s why the two of us were happily heading to the auditorium.
 
-But on the way there, Anzu-chan started crouching down… I was worried for a second, but it looked like she just fell asleep.
+But on the way there, she started crouching down… I was worried for a second, but it looked like she just fell asleep.
 {% endbubble %}
 
 {% bubble Subaru %}

@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Supervillain (In Progress!)"
+title: "[ES!!] Supervillain"
 date: 2023-03-02 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -382,7 +382,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
                                             <div class="unbloomed"><small>Wow, you can do it easily… It's impossible for me…</small><!--よくできるよね…俺は無理…--></div>
-                                            <div class="bloomed">It's just like us to have differences, isn't it…? ♪<!--凸凹なのが俺たちでしょ…♪--></div>
+                                            <div class="bloomed">It's just like us to be uneven, isn't it…? ♪<!--凸凹なのが俺たちでしょ…♪--></div>
                                         </div>
                                     </div>
                                 </div>
