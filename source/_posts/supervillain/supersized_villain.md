@@ -1175,7 +1175,7 @@ I can’t just go back to a safe and peaceful life and leave my former teammates
 
 I’ll defeat Crimson Production — the evil that pretends to be on the side of justice.
 
-That being said, this is just how I feel. I don’t think you guys need to force yourself to get involved.
+That being said, this is just how I feel. I don’t think you guys need to force yourselves to get involved.
 
 Tomorrow, I’ll turn a blind eye for a moment to let you guys escape. I want you to get some rest today in preparation for that.
 {% endbubble %}
