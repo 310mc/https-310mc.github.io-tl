@@ -1630,7 +1630,7 @@ Forcing those types of people to “cheer up” or “do their best” would be 
 {% bubble Midori curious %}
 Huh? Uh, yes? That’s true…?
 
-<th>(I had no idea that Hasumi-dono can be as persistent as Morisawa-senpai… We barely had anything to do with Akatsuki outside of Scroll of the Elements, so—)</th>
+<th>(I had no idea that Hasumi-senpai can be as persistent as Morisawa-senpai… We barely had anything to do with Akatsuki outside of Scroll of the Elements, so—)</th>
 {% endbubble %}
 
 {% bubble Kanata v2 %}

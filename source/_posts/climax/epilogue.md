@@ -504,7 +504,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(At the very least I, as part of Ryuseitai, will stand my ground with the legacy of my seniors.)</th>
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 <th>(Even if the only thing I can do is to stand tall. Just like what Taishou told me 'bout how Taichou was in the past… I’ll keep fighting without giving up.)</th>
 
 <th>(Even if people laugh at me and say I’m incompetent, I’m sure at least Midori-kun and Shinobu-kun'd accept me for who I am. They’ll come rushing to me, picking me back up when I’m 'bout to fall.)</th>
@@ -594,7 +594,7 @@ It'd be unforgivable just to keep breathing… And then I really *would* get dep
 So please, let me be by your sides. Even if this is only a dream, I don’t wanna wake up from it yet.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Ahaha, it’s too late to be modest now after everything, Midori-kun.
 
 Have we ever once said “Don’t come with us” or “Go away” to you?
@@ -630,8 +630,8 @@ What the…!? Huh? Taichou? Shinkai-senpai?
 W-Why're you two on stage? And you’re even wearing clothes that match our outfits for Repayment Festival…!
 {% endbubble %}
 
-{% bubble Chiaki smug %}
-Is there a problem with that? We’re also Ryuseitai, at least for now!
+{% bubble Chiaki grin %}
+Is there any problems with that? We’re also Ryuseitai, at least for now!
 
 Heheh. Takamine said something particularly interesting, so when I asked Anzu about it…
 

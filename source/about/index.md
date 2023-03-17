@@ -23,9 +23,9 @@ I'm most likely to translate the following content:
 2. Chiaki-related stories
 3. Ryuseitai-related stories
 
-**Helios Rising Heroes**
+<!--**Helios Rising Heroes**
 1. Will-related stories
-2. South Sector-related stories
+2. South Sector-related stories-->
 
 ### Translation Status
 

@@ -234,13 +234,13 @@ So scolding you harshly, pushing you to do stuff, and forcefully dragging you ba
 ## Chapter 2
 
 {% bubble Tetora %}
-Taichou would always pretend to be a terrible, insensitive person—giving you pep talk after pep talk, and pulling you on stage even though you hated it.
+Taichou’d always pretend to be a terrible, insensitive person—giving you pep talk after pep talk, and pulling you on stage even though you hated it.
 
 That became an everyday occurrence in Ryuseitai.
 
 So, Midori-kun… You may have thought to yourself that the same would happen again this time around, but… Those easy-going days of ours are in the past.
 
-Taichou and Shinkai-senpai'll graduate, and there’s nothing we can do 'bout that. We should celebrate that—we should be congratulating that.
+Taichou and Shinkai-senpai’ll graduate, and there’s nothing we can do 'bout that. We should celebrate that—we should be congratulating that.
 
 From now on, we have to do things on our own.
 

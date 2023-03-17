@@ -15,6 +15,9 @@
 [character="Midori"][smile4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile4.png");
 }
+[character="Midori"][smile5] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile5.png");
+}
 [character="Midori"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_curious.png");
 }
@@ -86,6 +89,9 @@
 [character="Chiaki"][smile3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile3.png");
 }
+[character="Chiaki"][smile4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile4.png");
+}
 [character="Chiaki"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin.png");
 }
@@ -128,6 +134,9 @@
 [character="Chiaki"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_idle.png");
 }
+[character="Chiaki"][smug] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smug.png");
+}
 [character="Chiaki"][shocked] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_shocked.png");
 }
@@ -150,6 +159,12 @@
 }
 [character="Kanata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile.png");
+}
+[character="Kanata"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile2.png");
+}
+[character="Kanata"][smile3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile3.png");
 }
 [character="Kanata"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_angry.png");
@@ -278,11 +293,17 @@
 [character="Tetora"][smug] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smug.png");
 }
+[character="Tetora"][hmph] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_hmph.png");
+}
 [character="Tetora"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sigh.png");
 }
 [character="Tetora"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_surprised.png");
+}
+[character="Tetora"][surprised2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_surprised2.png");
 }
 [character="Tetora"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_worried.png");

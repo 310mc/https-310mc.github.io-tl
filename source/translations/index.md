@@ -646,6 +646,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/banner/manlyback.jpg"
+            alt="Manly Back"
+        />
+    </div>
+    <a href="/manly_back" class="storyName" target="_blank">
+        <span>Manly Back</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories

@@ -127,7 +127,7 @@ I wouldn’t want people to think I have no manners when I’m on cooking shows 
 {% endbubble %}
 
 {% bubble Mika %}
-I gotta do my best, too~ Improvin’ my manners will benefit Oshisan, after all! He taught me a lot ‘bout it while living in his house.
+I gotta do my best, too~ Improvin’ my manners will benefit Oshisan, after all! He taught me a lot ‘bout it while livin’ in his house.
 
 I think he started with correctin’ me on how ta use chopsticks properly? Man, this takes me back~
 
@@ -251,7 +251,7 @@ I’ll re-draw it for you. Could you explain to me the ideas you had in mind?
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>Ten minutes later</p>
+    <p>Ten minutes later…</p>
 </div>
 
 {% bubble Yuzuru %}
@@ -347,7 +347,7 @@ Why do you look as though you’ve struck gold or something? <em>Sigh</em>…
 {% img /img/es/idolstory/essence_butler/2.jpg %}
 
 <div class="msr-narration">
-    <p>A while later</p>
+    <p>A while later…</p>
 </div>
 
 {% bubble Yuzuru %}
@@ -439,7 +439,7 @@ I’d like your autograph, if that’s okay…♪
 {% img /img/es/idolstory/essence_butler/2_2.jpg %}
 
 <div class="msr-narration">
-    <p>A few days later</p>
+    <p>A few days later…</p>
 </div>
 
 {% bubble Yuzuru %}

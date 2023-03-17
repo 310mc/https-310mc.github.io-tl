@@ -631,7 +631,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-“The black heart is the embodiment of evil! Loathing all humans and all sins!”
+“The black heart is the embodiment of the wicked! Loathing all humans and all sins!”
 
 “Ryusei Black No.2, Morisawa Chiaki!”
 {% endbubble %}

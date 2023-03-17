@@ -108,7 +108,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/7/77/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless.png"
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Meteor_for_My_True_Feelings%29_Midori_Takamine_Frameless.png"
                 alt="Worrisome Days"
             />
         </div>
@@ -120,7 +120,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Meteors_and_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Meteor_for_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png"
                 alt="Topics About That Guy"
             />
         </div>

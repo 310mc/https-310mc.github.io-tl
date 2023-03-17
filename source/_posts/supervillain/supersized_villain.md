@@ -319,7 +319,7 @@ But, yes, I’d like to be a “sore loser,” as you put it.
 {% endbubble %}
 
 {% bubble Tetora smile %}
-Fine by me. I can’t wait to see the sort of cursing you, a good little boy, can come up with.
+Fine by me. I can’t wait to see the sort of cursing a good little boy like you can come up with.
 {% endbubble %}
 
 {% bubble Chiaki frown %}

@@ -211,8 +211,6 @@ Besides, if it’s too hard for Souma-kun to manage the aquarium by himself, how
 
 I’ll probably be a little busy with work, but I could come visit every once in a while to pass the time~♪
 
-Until the Marine Bio Club gets new members, I'll keep coming back as a shameless alumnus.
-
 Let’s keep visiting him over and over like shameless graduates, until the club gets new members.
 
 So yeah, no need to force yourself to get rid of stuff and say goodbye to avoid being a “nuisance,” right?
