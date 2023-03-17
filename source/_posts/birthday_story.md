@@ -9,6 +9,7 @@ tags:
 - Happy Elements Staff
 - Story Index
 description: "Ensemble Stars (Enstars) Birthday story translations by 310mc."
+permalink: birthday_story/
 ---
 
 Birthday story translations by 310mc.

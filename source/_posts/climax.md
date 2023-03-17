@@ -9,6 +9,7 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
+permalink: climax/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -574,9 +575,27 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
                 </div>
               <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
+                        <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
+                            <a href="NOTRANSLATON" id="none">Part One</a>
+                            <a href="NOTRANSLATON" id="none">Part Two</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Shinobu Sengoku</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="NOTRANSLATION" id="none">Part One</a>
+                            <a href="NOTRANSLATION" id="none">Part Two</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Chiaki Morisawa</div>
+                        <div class="mt-content">
+                            <div class="item">
                             <a href="minitalk/chiaki_1" id="none">Part One</a>
                             <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
@@ -586,29 +605,11 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--  <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
                             <a href="NOTRANSLATION" id="none">Part One</a>
                             <a href="NOTRANSLATION" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">Part One</a>
-                            <a href="NOTRANSLATION" id="none">Part Two</a>
-                            </div>
-                        </div>
-                    </div>-->
                 </div>
             </div>
         </div>

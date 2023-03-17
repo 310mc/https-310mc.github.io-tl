@@ -8,6 +8,7 @@ tags:
 - Nishioka Maiko
 - Story Index
 description: "[ES!!] Midori is conflicted about his older brother marrying soon and starting his own life. As he tries to sort his feelings out, he and Mao find out that the producer may also be wed soon…!?"
+permalink: ring/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

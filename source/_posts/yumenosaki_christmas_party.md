@@ -19,6 +19,7 @@ tags:
 - Idol Story
 - Yuuki Yoshino
 description: "[ES!] Translation of Christmas Party stories from Ensemble Stars! Era."
+permalink: yumenosaki_christmas_party/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

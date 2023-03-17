@@ -8,6 +8,7 @@ tags:
 - Mini Talk
 - Story Index
 description: "Ensemble Stars (Enstars) Mini Talks story translations by 310mc."
+permalink: minitalk/
 ---
 
 <link rel="stylesheet" href="/css/storylist.css">
