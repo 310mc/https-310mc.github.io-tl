@@ -47,7 +47,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -66,6 +66,12 @@ hidden: true
 </div>
 
 ## Chapter 1
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Basketball Court</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/wontcry1_1.jpg %}
 
 {% bubble Midori %}
 ………
@@ -167,6 +173,8 @@ Yeah! We’re used to it by now, but you’d get arrested if you hugged a strang
 Officer~! This man is a pervert!
 {% endbubble %}
 
+{% img /img/es/eventstory/climax/wontcry1_2.jpg %}
+
 {% bubble Chiaki %}
 Heh! ♪ It’s still a little chilly, so you’ll start to feel cold if you don’t move around!
 
@@ -241,6 +249,12 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 
 ## Chapter 2
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Corridor</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/wontcry2_1.jpg %}
+
 {% bubble Midori %}
 <th>(Ugh, it’s already dark outside…)</th>
 
@@ -297,7 +311,15 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(Uuu~ It’s so hard for me to shake off these kinda thoughts… Maybe I’ll grab my bag quickly, and then take a quick look on my way home…)</th>
 
 <th>(And anyway, if there really is someone from the club around, I’d like them to go home with me… I’m too scared to walk alone at night…)</th>
+{% endbubble %}
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/wontcry2_2.jpg %}
+
+{% bubble Midori %}
 ………
 
 <th>(Mm… Huh…? There’s nobody here…)</th>
@@ -341,7 +363,7 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(And since he always wants to look cool for some reason, I don’t think he’d want anyone to see him crying anyway…)</th>
 {% endbubble %}
 
-{% img chiakicg %}
+{% img /img/es/eventstory/climax/chiakiorigcg.jpg %}
 
 {% bubble Chiaki %}
 ………
@@ -429,9 +451,11 @@ Takamine? Heeey, what’s wrong? Are you feeling down? You’re a handsome guy, 
 No, not really… I’m just a little tired and sleepy and irritated…
 {% endbubble %}
 
-{% note location %}
-**Location:**
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Basketball Court</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/wontcry3_1.jpg %}
 
 {% bubble Subaru %}
 ………

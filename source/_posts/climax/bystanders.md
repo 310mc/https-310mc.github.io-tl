@@ -47,7 +47,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    ryuseipuka
                 </div>
             </div>
         </div>

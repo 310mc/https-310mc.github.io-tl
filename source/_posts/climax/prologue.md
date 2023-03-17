@@ -43,7 +43,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@ hidden: true
 <!-- more -->
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Marine Bio Club</span></p>
+    <p><span><b>Location:</b> Marine Bio Clubroom</span></p>
 </div>
 
 {% img /img/es/eventstory/climax/prologue1_1.jpg %}
@@ -70,7 +70,7 @@ Heyaa~! I’m bored so I came over to hang out! ☆
 Hm? Ohh, Kanata-kun! You look like you’re in a good mood~♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown %}
 heyaa~… i am not particularly in a [good] mood, kaoru.
 
 i am actually pretty [irritated]. it is very [noisy] outside.
@@ -94,11 +94,11 @@ ufufu, you started [calling] him by that name at some point. it is [wonderful] t
 Heh, if you’re so jealous, maybe I’ll start calling you “Kanacchi”~♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata angry2 %}
 please do not joke around.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru surprised %}
 Ehhh…!? Sorry, was that overly-friendly? Mmm~ I don’t really get what sets you off…
 {% endbubble %}
 
@@ -106,7 +106,7 @@ Ehhh…!? Sorry, was that overly-friendly? Mmm~ I don’t really get what sets y
 hehe… i am just joking, [kaocchi]~♪
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru sigh %}
 Ehh~? Man, you’re always messing with me…
 
 I don’t really want people to get *too* friendly with me, so I’d rather you keep calling me by my first name.
@@ -116,7 +116,7 @@ I know it’s my own fault, but everyone’s been kinda keeping their distance f
 I mean, not even my *family* talks to me without attaching an honorific to my name.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile2 %}
 wouldn’t a girl gladly call you “kaoru”?
 {% endbubble %}
 
@@ -128,13 +128,13 @@ But lately I’ve been thinking a lot about stuff, and, well… I’ve stopped m
 At this point, the only comfort I get is from you and Anzu-chan.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh %}
 eh~… that is not something i can really help with.
 
 if you want [emotional comfort], i recommend gazing at the [fishies] and [jellyfishies]. we call it [aquatherapy]. *puka, puka…♪*
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru frown %}
 Mm, yeah. I guess looking at them through the fish tank does give me some comfort now.
 
 It took all the way until graduation season, but I think I’m finally starting to understand your feelings, Kanata-kun.
@@ -150,7 +150,7 @@ Mhm… But, uh, they really <em>are</em> loud out there, huh? I feel like I can�
 Knowing the kinda person Moricchi is, parting ways must be kinda sad for him. I wonder if he’s balling his eyes out…
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile3 %}
 chiaki won’t cry.
 
 fufu, how about we call souma over and have our own [farewell party] for the [marine bio club]?
@@ -158,11 +158,11 @@ fufu, how about we call souma over and have our own [farewell party] for the [ma
 i would like to [hand] the [fish tanks] over to souma’s care, as well.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru frown %}
 Mm~… Thing is, I think he hasn’t been showing up lately…? My classmate Hasumi-kun’s been freaking out about him. I don’t think anybody knows where he is right now.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown2 %}
 is that so? i wonder what is wrong… souma gets restless very easily, so it is [worrying].
 {% endbubble %}
 
@@ -180,7 +180,7 @@ but it may be far too many for him to [take care] of all on his own…
 so as sad as it may be, i will have to [euthanize] half of them.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru surprised2 %}
 Wh—Did you just say *euthanize!?* No, don’t! They’re living creatures; you can’t just throw them away like that…!
 
 You say some shockingly cold-hearted things sometimes, Kanata-kun…
@@ -194,7 +194,7 @@ it is [unnatural] for a sea creature to live on land.
 if one will only cause trouble, and only be a burden… that means it is time to say [goodbye], yes?
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru angry %}
 No, no! It’s completely natural for us to cause trouble and burden each other! That’s how everyone lives, including you and I.
 
 If you hold yourself back from everyone, you won’t even be able to breathe.
@@ -202,7 +202,7 @@ If you hold yourself back from everyone, you won’t even be able to breathe.
 And you hate being suffocated — don’t you, Kanata-kun?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sad2 %}
 ………
 {% endbubble %}
 

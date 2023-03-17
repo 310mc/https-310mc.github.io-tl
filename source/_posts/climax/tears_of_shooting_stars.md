@@ -49,7 +49,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/seiginoakashi">Nanashi</a> & <a href="https://twitter.com/splafyoon">spoon</a> (Chapter 2-4), ryuseipuka (Chapter 1)
+                    ryuseipuka (Chapter 1), <a href="https://twitter.com/seiginoakashi">Nanashi</a> & <a href="https://twitter.com/splafyoon">spoon</a> (Chapter 2-4) 
                 </div>
             </div>
         </div>

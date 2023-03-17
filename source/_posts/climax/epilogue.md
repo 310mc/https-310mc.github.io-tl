@@ -313,7 +313,7 @@ Ahaha, the only people who called me a good boy from beginning to end were… my
 
 Thank you. To be honest, it made me pretty happy.
 
-Right then, bye bye. See you again, Kanata-kun.
+Right then, bye bye. See you another time, Kanata-kun.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -774,7 +774,7 @@ Ryusei Yellow! Sengoku Shinobu…☆
 C’mon, c’mon! You do it too, Tetora-kun, Midori-kun! ♪
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sad4 %}
 Uu~myu… I had a plan for how we were gonna do this, though… Now that everyone’s just doin' as they please, it’ll be tough to get everything back on track.
 
 But that *is* the usual for us anyway.

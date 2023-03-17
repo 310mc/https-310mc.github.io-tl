@@ -45,7 +45,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -64,6 +64,12 @@ hidden: true
 </div>
 
 ## Chapter 1
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Student Council Office</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/blessings1_1.jpg %}
 
 {% bubble Chiaki %}
 Pardon my intrusion!
