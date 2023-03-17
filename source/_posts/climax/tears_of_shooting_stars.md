@@ -49,7 +49,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka (Chapter 1), <a href="https://twitter.com/seiginoakashi">Nanashi</a> & <a href="https://twitter.com/splafyoon">spoon</a> (Chapter 2-4) 
+                    ryuseipuka (Chapter 1), <a href="https://twitter.com/seiginoakashi">Nanashi</a> & <a href="https://twitter.com/splafyoon">spoon</a> (Chapter 2-4)
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@ See, it’s ‘cuz you’re so naive like that—… No, now’s not the time to
 
 It’s seriously none of your business, so could you please stay out of it?
 
-Nobody asked you to get involved. I know that’s what a hero of justice is all about, but I’d appreciate it if you’d refrain from butting in this once.
+Nobody asked you to get involved. I know that’s what a hero of justice is all 'bout, but I’d appreciate it if you’d refrain from butting in this once.
 
 Within school, not being able to read the room is equivalent to evil, y’know?
 
@@ -250,7 +250,7 @@ From now on, we have to do things on our own.
 {% endbubble %}
 
 {% bubble Tetora frown %}
-We can’t keep on relying on our seniors. We can't keep on pushing all of the blame and responsibilities onto 'em—
+We can’t keep on relying on our seniors. We can't keep on pushing all'a the blame and responsibilities onto 'em—
 
 And then snatch only the good parts from 'em.
 
@@ -288,7 +288,7 @@ But I was wrong. Y'know, I really can't do what Taichou does.
 
 I just don’t have it in me to sacrifice myself for another person's sake — especially if it meant I'd be hated and found annoying 'cuz of it.
 
-I can't do all of that just to drag Midori-kun along by force.
+I can't do all'a that just to drag Midori-kun along by force.
 
 That's why, when he refused to continue talkin' to me after a while, I just couldn't say anything anymore.
 {% endbubble %}
@@ -396,7 +396,7 @@ We even made advertisement signboards for 'em together, right? That’s a very p
 ## Chapter 3
 
 {% bubble Tetora sad4 %}
-But I just don’t understand. Is that really something only you can do, Midori-kun?
+But I just don’t understand. Is that really somethin' only you can do, Midori-kun?
 
 Do you *really* have to help 'em out that badly? Isn’t your family in good health?
 
@@ -418,7 +418,7 @@ I apologize for that. I’m sorry. But I still really don’t get it.
 
 Is it 'cuz it’s sad to say goodbye? Or is it 'cuz you’re too embarrassed to thank your seniors for everything face-to-face?
 
-Is it 'cuz you can’t stand doing something embarrassing?
+Is it 'cuz you can’t stand doing somethin' embarrassing?
 
 So you decided to help out your family instead — the people in your comfort zone? You wanted to avoid any hardships or painful situations, so you chose the easy way out?
 {% endbubble %}
@@ -442,7 +442,7 @@ But y'know, Midori-kun… Let me ask you something! Exactly what was this whole 
 
 Taichou went to pick you up *every day!*
 
-He was always there to help you get through the day, even though you had zero motivation! Did all of that effort he spent, running around and encouraging you, just go to waste?
+He was always there to help you get through the day, even though you had zero motivation! Did all'a that effort he spent, running around and encouraging you, just go to waste?
 
 He completely used up his last precious year in high school *just* to try and hone our skills, y'know! Are you saying all'a that was just a waste of time?
 {% endbubble %}
@@ -452,7 +452,7 @@ No… Actually, was it too much pressure for you? Or was all'a that help too irr
 
 All of your nonstop whining and complaining —
 
-I was hoping that was just you being embarrassed, that deep down it might've all meant something to you!
+I was hoping that was just you being embarrassed, that deep down it might've all meant somethin' to you!
 {% endbubble %}
 
 {% bubble Tetora angry3 %}

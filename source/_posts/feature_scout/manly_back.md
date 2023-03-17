@@ -231,7 +231,7 @@ I’m so glad you managed to find something you like.
 {% img /img/es/idolstory/manlyback/3.jpg %}
 
 {% bubble Tetora %}
-Ossu! I expect nothing less from a shop recommended by you, Narukami-senpai. They had a lot of great, cool styles!
+Ossu! I expect nothing less from a shop recommended by you, Narukami-senpai. They had a lotta great, cool styles!
 
 I’ll check it out again sometime. Thank you so much!
 {% endbubble %}

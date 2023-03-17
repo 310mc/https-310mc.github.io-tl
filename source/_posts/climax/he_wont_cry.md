@@ -150,7 +150,7 @@ I doubt you have any interest in me… I know we’re in the same club, but we h
 {% endbubble %}
 
 {% bubble Subaru %}
-Mm\~… That’s ‘cause ever since you came to school, Chiaki~chan-senpai’s only had his eyes on you, soo\~
+Mm\~… That’s ‘cause ever since you came to school, Chiaki\~chan-senpai’s only had his eyes on you, soo\~
 
 Maaaybe I’m a little jealous or something…♪
 {% endbubble %}
@@ -202,7 +202,7 @@ You haven’t been drinking or anything, have you, Chi~chan-senpai?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Nope! I’m underage! I just think I’m getting a little too excited!
+Nope! I’m underage! I think I’m just getting a little too excited!
 
 Ahh, I can’t control myself! I feel like hugging and kissing every single person I see!
 {% endbubble %}
@@ -214,7 +214,7 @@ You better cut it out soon, or I’ll tie you up with rope…
 {% bubble Chiaki %}
 Oh, that sounds like the perfect hero crisis! I’m intrigued! But I’d rather you refrain from doing that for now!
 
-Because you see, as a final parting, we’re having a match between the graduates and underclassmen!
+For you see, as a final parting, we’re having a match between the graduates and underclassmen!
 
 We’re on a basketball court, after all! Doing nothing but eating snacks and chatting would be a little too sad, right?
 
@@ -448,7 +448,7 @@ Takamine? Heeey, what’s wrong? Are you feeling down? You’re a handsome guy, 
 {% endbubble %}
 
 {% bubble Midori %}
-No, not really… I’m just a little tired and sleepy and irritated…
+No, not really… I’m just a little tired, sleepy, and irritated…
 {% endbubble %}
 
 <div class="msr-location">
