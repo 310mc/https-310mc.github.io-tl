@@ -49,7 +49,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a> & <a href="https://twitter.com/splafyoon">spoon</a> (Chapter 2-4), ryuseipuka (Chapter 1)
                 </div>
             </div>
         </div>
@@ -233,84 +233,110 @@ So scolding you harshly, pushing you to do stuff, and forcefully dragging you ba
 
 ## Chapter 2
 
-{% bubble Tetora %}
-Taichou’d always pretend to be a terrible, insensitive person—giving you pep talk after pep talk, and pulling you on stage even though you hated it.
+{% bubble Tetora frown2 %}
+Taichou would always pretend to be a terrible, insensitive person — giving you pep talk after pep talk, and pulling you on stage even though you hated it.
 
 That became an everyday occurrence in Ryuseitai.
+{% endbubble %}
 
-So, Midori-kun… You may have thought to yourself that the same would happen again this time around, but… Those easy-going days of ours are in the past.
+{% bubble Tetora sad %}
+So, Midori-kun… You may have thought to yourself that the same would happen again this time around, but…
 
-Taichou and Shinkai-senpai’ll graduate, and there’s nothing we can do 'bout that. We should celebrate that—we should be congratulating that.
+Those easy-going days of ours are in the past.
+
+Taichou and Shinkai-senpai’ll graduate, and there’s nothing we can do 'bout that. We should celebrate that — we should be congratulating them.
 
 From now on, we have to do things on our own.
+{% endbubble %}
 
-We can’t keep on relying on our seniors. We can't keep on pushing all of the blame and responsibilities onto 'em, and snatch only the good parts from 'em…
+{% bubble Tetora frown %}
+We can’t keep on relying on our seniors. We can't keep on pushing all of the blame and responsibilities onto 'em—
+
+And then snatch only the good parts from 'em.
 
 That’s just shameful. I was the same, too, y'know? I put all the dirty work and heavy burdens on Taishou and my other seniors…
 
 I was a stupid, dumb brat who relished in his own ignorance.
-
-But we’ll become seniors, too. We’ll have to grow up, too.
-
-We can't just continue being naïve kids who rely on kind heroes to carry 'em into the spotlight.
-
-And yet! Despite all that, you keep going, “I don’t wanna, it’s a pain”! “So depressing, I wanna die”!
-
-What more do you want when you’re already so incredibly blessed?!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Tetora serious %}
+But we’ll become seniors, too. We have to grow up.
+
+We can't just continue being naïve kids who rely on kind heroes to carry 'em into the spotlight.
+{% endbubble %}
+
+{% bubble Tetora angry %}
+And yet! Despite all that, you keep going, “I don’t wanna, it’s a pain”! “So depressing, I wanna die”!
+
+What more do you want when you’re already so incredibly blessed!?
+{% endbubble %}
+
+{% bubble Midori cry %}
 ………
 {% endbubble %}
 
-{% bubble Tetora %}
-And then, when Anego and Shinobu-kun once again asked me what we planned to do for Repayment Festival… I realized that I really didn't wanna let it go, either.
+{% bubble Tetora sad2 %}
+And then, when Anego and Shinobu-kun once again asked me what we planned to do for Repayment Festival…
 
-So I came all the way to Midori-kun’s home.
+I realized that I really didn't wanna let it go, either, so I came all the way to Midori-kun’s home.
 
 I thought that if we talked it through, he’d understand. No, I truly *believed* that he felt the same way.
+{% endbubble %}
 
+{% bubble Tetora angry2 %}
 But I was wrong. Y'know, I really can't do what Taichou does.
 
-I just don’t have it in me to sacrifice myself for another person's sake—especially if it meant I'd be hated and found annoying 'cuz of it.
+I just don’t have it in me to sacrifice myself for another person's sake — especially if it meant I'd be hated and found annoying 'cuz of it.
 
 I can't do all of that just to drag Midori-kun along by force.
 
-That's why, when he refused to continue talking to me after a while, I just couldn't take it anymore.
+That's why, when he refused to continue talkin' to me after a while, I just couldn't say anything anymore.
+{% endbubble %}
 
+{% bubble Tetora sad3 %}
 I felt really pathetic and got irritated… I even grabbed him by the collar, and… We ended up fighting.
 
-Taichou has always entrusted me with his role whenever he's not around, and I knew I’d be the one to inherit the red color, so I had a bit of confidence in myself.
+Taichou has always entrusted me with his role whenever he's not around…
 
-But every bit of confidence I had is completely gone now—broken and shattered to pieces. I feel like a failure. I can’t even solve a dispute within my own group of friends. Saving the world isn't possible for me.
+And I knew I’d be the one to inherit the red color, so I had a bit of confidence in myself.
+
+But every bit of confidence I had is completely gone now — broken and shattered to pieces. I feel like a failure. I can’t even solve a dispute within my own group of people. Saving the world isn't possible for me.
 
 I still don't have what it takes to be Ryusei Red.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki angry2 %}
 That’s not true, Nagumo.
 
-Even I failed over and over at the start. I couldn't get anything right at all—to the point where just seeing the color red made me feel sick.
+Even I failed over and over at the start. I couldn't get anything right at all — to the point where just seeing the color red made me feel sick.
 
-I started to feel that tokusatsu shows were nothing but lies, that there was no way anything could go right like that.
+I started to feel that tokusatsu shows were nothing but lies — that there was no way anything could conveniently go well the same way it did in the shows.
 
 I cursed the heroes I loved, and there were even nights when I cried myself to sleep.
+{% endbubble %}
 
-But I still picked myself back up every time… I pushed myself to get through each and every problem. I struggled and struggled 'til I could call myself a man worthy of inheriting the color Red.
+{% bubble Chiaki sad3 %}
+But I still picked myself back up every time… I pushed myself to solve through each and every problem. I struggled and struggled until I could call myself a man worthy of inheriting the red color.
 
 I still don’t even know if I did everything right. There’s no hero out there who has failed as many times as I have.
 
 Anyone would have felt too disheartened to continue watching and would have changed the channel before the story could have reached its climax.
+{% endbubble %}
 
+{% bubble Chiaki smile2 %}
 But that’s only my story. Yours is still in the preview phase.
 
 You’ll always have a chance to recover, and your future is dazzling bright. So don’t give up, Nagumo.
+{% endbubble %}
 
-If you give up now, then everything will be all over. After I graduate… What will I be able to wake up to every Sunday?
+{% bubble Chiaki sigh2 %}
+If you give up now, then everything will be all over. After I graduate… What will I be able to wake up to every Sunday?[^2]
 
 A world without heroes is the same as a world without a sun!
+{% endbubble %}
 
-So do your best! Don’t lose now! Don’t give up! Stand back up, hero!
+{% bubble Chiaki grin %}
+So hang in there! Don’t lose now! Don’t give up! Stand back up, hero!
 
 It’s frustrating that all I can do is cheer you on from a distance, but! If I tried to interfere now, it wouldn't benefit you at all!
 
@@ -322,57 +348,71 @@ I’ll be fine! I’m used to getting hurt! But I can’t bear to watch you figh
 
 The pain is worse than dying! It would be less painful if you just hit me instead!
 
-I’ll take all your anxiety, your pain—everything! And then I'll throw it all into the sun, causing a huge explosion, and we'll finally have our happy ending!
+I’ll take all your anxiety, your pain — everything! And then I'll toss it all into the sun, causing a huge explosion, and we'll then have our happy ending!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 Haha. If I hit you for real, you’d die, Taichou.
 
-Well, either way… I understand how you feel. I won’t blame Midori-kun anymore.
+Well, either way… I understand how you feel. …I won’t blame you anymore, Midori-kun.
 
 I won’t unfairly get angry. So please talk to me, Midori-kun.
+{% endbubble %}
 
-You and I are the same age, and I won’t inherit Ryusei Red and Taichou's seat 'til our seniors have graduated.
+{% bubble Tetora angry2 %}
+We're both the same age, and I don't plan to inherit Ryusei Red and Taichou's seat 'til our seniors have graduated.
 
 For now, we’re equal members of this unit, so I can’t order you around as if I know better than you.
+{% endbubble %}
 
+{% bubble Tetora frown %}
 Although, I don’t think it’s good for me to hold back like that…
 
-It’s just—I don’t have that kind of confidence in myself yet. I’m still hollow. One day, I’ll become a great man for sure…
+It’s just — I don’t have that kinda confidence in myself yet. I’m still hollow. One day, I’ll become a great man for sure…
 
 But right now, it’s still difficult for me. So, expecting me to act just like Taichou… It’s impossible.
 
 If you refuse me, then I won’t be able to say anything further.
+{% endbubble %}
 
-But. Even as one of your peers, I just can’t understand.
+{% bubble Tetora serious %}
+But. Even as your friend, I just can’t understand.
 
-You told me again today—The reason you don’t feel like doing Repayment Festival is 'cuz on that day… you have to help out at the greengrocer shop.
+You told me again today — The reason you don’t feel like doing Repayment Festival is 'cuz, on that day—
+
+You have to help out at the greengrocer store, right?
 
 Apparently, there’ll be stalls put up on the same day as the festival. So your parents told you to help out with that, right?
 
 And so, you can’t participate 'cuz you’re gonna be busy with that.
+{% endbubble %}
 
-I get that. For the sake of your family—for the greengrocer shop—you always worked hard despite all your complaints.
+{% bubble Tetora sad4 %}
+I get that. For the sake of your family — for the greengrocer store — you always worked hard despite all your complaints.
 
-We even made advertisement signboards for 'em together, right? That’s a very precious memory for me.[^2]
+We even made advertisement signboards for 'em together, right? That’s a very precious memory for me, too.[^3]
 {% endbubble %}
 
 ## Chapter 3
 
-{% bubble Tetora %}
+{% bubble Tetora sad4 %}
 But I just don’t understand. Is that really something only you can do, Midori-kun?
 
-Do you really have to help 'em out that badly? Isn’t your family in good health?
+Do you *really* have to help 'em out that badly? Isn’t your family in good health?
 
 If they are, then they should be fine without your help.
+{% endbubble %}
 
+{% bubble Tetora frown3 %}
 But Repayment Festival is our chance to thank our seniors from Ryuseitai for everything they’ve done for us this year. We may never get this chance ever again.
 
-This is something only the three of us can do. Nobody else can do this.
+This is somethin' only the three of us can do. Nobody else can do this.
 
-So why are you prioritizing the shop over that?
+So why're you prioritizing the shop over that?
+{% endbubble %}
 
-I just can’t understand why. So I got angry, and then things got even more blurred… My mind went blank and I just snapped.
+{% bubble Tetora sad2 %}
+I just can’t for the life of me understand why. So I got angry, and then things got even more blurry… My mind went blank and I just snapped.
 
 I apologize for that. I’m sorry. But I still really don’t get it.
 
@@ -380,36 +420,50 @@ Is it 'cuz it’s sad to say goodbye? Or is it 'cuz you’re too embarrassed to 
 
 Is it 'cuz you can’t stand doing something embarrassing?
 
-So you decided to help out your family instead—the people in your comfort zone? You wanted to avoid any hardships or painful situations, so you chose the easy way out?
+So you decided to help out your family instead — the people in your comfort zone? You wanted to avoid any hardships or painful situations, so you chose the easy way out?
+{% endbubble %}
 
-If so, that’s just annoying. I’ve always hated that part 'bout you.
+{% bubble Tetora angry %}
+If so, that’s just irritating. I’ve always hated that part 'bout you.
 
 You're always such a coward! You're just a spineless wimp!
 
-It’s like I’m looking at my old self! It irritates me so much!
+It’s like I’m lookin' at my old self! It irritates me so much!
+{% endbubble %}
 
+{% bubble Tetora frown2 %}
 I’m sorry, but I guess I really am angry!
 
-I don’t have the same kind of unwavering tolerance as Taishou or Taichou!
+I just don’t have the same kinda unwavering tolerance as Taishou or Taichou!
+{% endbubble %}
 
+{% bubble Tetora sad %}
 But y'know, Midori-kun… Let me ask you something! Exactly what was this whole year to you?
 
-Taichou went to pick you up *every day!* He was always there to help you get through the day, even though you had zero motivation!
+Taichou went to pick you up *every day!*
 
-Did all of that effort he spent, running around and encouraging you, just go to waste?
+He was always there to help you get through the day, even though you had zero motivation! Did all of that effort he spent, running around and encouraging you, just go to waste?
 
-He completely used up his last precious year in high school *just* to try and hone our skills, y'know! Are you saying all of that was just a waste of time?
+He completely used up his last precious year in high school *just* to try and hone our skills, y'know! Are you saying all'a that was just a waste of time?
+{% endbubble %}
 
-No… Actually, was it too much pressure for you? Or was all of that help too irritating? Was it all just a nuisance to you?
+{% bubble Tetora frown %}
+No… Actually, was it too much pressure for you? Or was all'a that help too irritating? Was it all just a nuisance to you?
 
-All of your nonstop whining and complaining—I thought that was just you being embarrassed, that deep down it might've all meant something to you!
+All of your nonstop whining and complaining —
 
+I was hoping that was just you being embarrassed, that deep down it might've all meant something to you!
+{% endbubble %}
+
+{% bubble Tetora angry3 %}
 But if you’re telling me that all of it was just a waste, that you really meant it when you said you hated everything and wanted to die…
 
-Then what was Taichou’s whole year for?!
+Then what was Taichou’s whole year for!?
 
-I know that nobody asked him to do any of that—that he’s the one who decided to do all of that on his own—If that’s what you’re thinking, it’s true! But the way you’ve been acting is just *too much!*
+I know that nobody asked him to do any of that — that he’s the one who decided to do all of that on his own — If that’s what you’re thinking, it’s true! But the way you’ve been acting is just *too much!*
+{% endbubble %}
 
+{% bubble Tetora sad3 %}
 He was expecting so much from you! You, who’s so much more talented than me! So much more handsome than me!
 
 To be honest, as one of your classmates, it makes me super jealous!
@@ -417,24 +471,26 @@ To be honest, as one of your classmates, it makes me super jealous!
 I wish I could’ve been born to look like you! I’m sure Taichou feels the same way!
 
 We were so envious and so captivated by you! We wanted to see you shine even more!
+{% endbubble %}
 
+{% bubble Tetora angry2 %}
 But all along, were we just pushing our own selfish wishes onto you?
 
 Was it all seriously just a huge bother to you? 'Cuz if it was, then you should’ve said so a long time ago!
 
-Sure, you never wanted to be an idol in the first place—you joined this school by accident—you can’t keep up with this hero act!
+Sure, you never wanted to be an idol in the first place — you joined this school by accident — you can’t keep up with this hero act!
 
 I get it, you say it all the time! I’m sick and tired of hearing it!
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/tetoraorigcg.jpg %}
 
-{% bubble Tetora %}
-If that was really the case—If you really hated it that much—!
+{% bubble Tetora clmocg %}
+If that was really the case — If you really hated it that much—!
 
 You should’ve left before you ate away an entire year of his life! You should’ve quit everything and just disappeared!
 
-No one would’ve stopped you! You should’ve gotten up and left, and gone right back to your peaceful life at the greengrocer shop!
+No one would’ve stopped you! You should’ve gotten up and left, and gone right back to your peaceful life at the greengrocer store!
 
 You shouldn’t have waited all the way 'til this point, when everything’s ending! After being spoiled and helped by 'em time after time! All while making a face like you didn't wanna, but there was nothing you could do 'bout it!
 
@@ -442,51 +498,61 @@ All after being loved and protected and blessed with so much, all 'cuz of 'em!
 
 They helped you so much, and you owe 'em so much, but you refuse to pay that back? Just 'cuz you can’t bother yourself to do something you don’t like?
 
-Hey, Midori-kun… Just how long do you plan to keep being a little brat?!
+Hey, Midori-kun… Just how long do you plan to keep being a little brat!?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki angry2 %}
 …Stop already, Nagumo. Please don’t fight, I’m begging you.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata serious %}
 [do not] stop them, chiaki~ it is [necessary] that they experience this.
 
 these children were always [good kids]. they never fought, and only listened to what they were told. they were obedient and lively…
+{% endbubble %}
 
+{% bubble Kanata frown %}
 but they cannot stay as [children] forever.
 
 they can walk on their [own], without us [carrying] them in our arms. and all we can do is believe in that, as we [watch over] them.
 
 if you were to spoil them right now… they would surely become unable to walk by themselves [forever].
+{% endbubble %}
 
-on this [ground], being unable to [walk] is the same as being unable to [live].
+{% bubble Kanata smile3 %}
+on this [land], being unable to [walk] is the same as being unable to [live].
 
 looong ago, the one who told me that was you… wasn't it?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki angry2 %}
 ………
+{% endbubble %}
 
+{% bubble Chiaki serious %}
 …Takamine. I want to hear how you truly feel. I won't know if you don't say anything. Was it really all a nuisance?
 
 Did I really just cause you suffering throughout this whole year?
+{% endbubble %}
 
+{% bubble Chiaki sigh2 %}
 If so, I’m sorry. I’m so sorry. I’ll give you a proper apology, and I’ll do anything I can to make it up to you.
 
 I won't mind if you think of our meeting as nothing but an unfortunate accident and forget it ever happened.
+{% endbubble %}
 
-If that’s what would give you relief and make you smile again, then I’m fine with that… because your smile is the greatest treasure in this world.
+{% bubble Chiaki sad2 %}
+If that’s what would give you relief and make you smile again, then I’m fine with that… because your smile is the greatest treasure in this whole world.
 
 I always wanted to help make your smile shine at its brightest. But if I was truly just a nuisance to you all along, then… I apologize. I’m so sorry, Takamine.
 {% endbubble %}
 
 ## Chapter 4
 
-{% bubble Midori %}
+{% bubble Midori cry %}
 …………
 
-I’m pretty sure I’ve always said this before, though… That you’re annoying, that I don’t wanna do any of it, that it’s all a pain… But you never listen…
+I’m pretty sure I’ve always said this before, though… That you’re annoying, that I don’t wanna do any of it, that it’s all a pain… But you never, *ever* listen…
 
 Morisawa-senpai… Is there really anything worthwhile about me…?
 
@@ -494,8 +560,10 @@ I never stood out until high school… I was just a normal student…
 
 Sure, I was extremely tall, and I look like this… so girls would sometimes be interested in me…
 
-But inside, I’m completely boring… As soon as anyone talks to me, they realize the truth and are instantly disappointed…
+But inside, I’m nothing special… As soon as anyone talks to me, they realize the truth and are instantly disappointed…
+{% endbubble %}
 
+{% bubble Midori frown %}
 I thought the same thing would happen with you… I thought you’d get disappointed and lose all interest in someone like me…
 
 Something like that is only natural… That’s why I always had an escape ready…
@@ -503,22 +571,26 @@ Something like that is only natural… That’s why I always had an escape ready
 The only notable thing about me is my appearance… There’s no way anyone could ever love me for who I really am…
 
 The only people who wouldn’t eventually leave me are my family…
+{% endbubble %}
 
-So is it really that strange that I wanna devote myself to my family—to the greengrocer shop…?
+{% bubble Midori sad4 %}
+So is it really that strange that I wanna devote myself to my family — to the greengrocer store…?
 
 Ryuseitai may be *like* a family, but you’re not actually my parents or my siblings!
 
 And anyway, it was only by mistake that I took the idol course in the first place… Then I somehow managed to pass it, and in the end I had no choice but to go to this academy…
 
-I’ve always just wanted to run away from everything I can't stand… It’s scary after all, and painful… School exams in particular are tough and ridiculously awful…
+I’ve always just wanted to run away from everything I can't stand… It’s painful and scary… School exams in particular are tough and ridiculously awful…
 
 All I wanted was to get through this course as easily as possible…
+{% endbubble %}
 
+{% bubble Midori cry %}
 I’m only here out of dumb luck! I shouldn’t be here when there are so many others who would love to be in my place!
 
 I don’t deserve to be loved by so many people! I don’t deserve to feel the blessings of being an idol!
 
-After all, it’s not like I can continue being an idol for the rest of my life…
+And anyway, it's not like I can continue being an idol for the rest of my life…
 
 Only few people could ever do that… You’d need to want it with all your heart…
 
@@ -529,28 +601,30 @@ Someone like me would be immediately driven out of a place as cruel as the show 
 
 {% img /img/es/eventstory/climax/midoriorigcg.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori clmocg %}
 Everyone had such high hopes for me, but I just can’t do it…
 
 I’ve always felt terrible about it… I felt so guilty… I’ve always wondered if it really is okay for someone like me to even be here…
 
-After all, everyone else is so serious about this! They’re all trying to be idols with everything they’ve got! But I’ve never been like that—Right from the start, it was all just a big mistake!
+After all, everyone else is so serious about this! They’re all trying to be idols with everything they’ve got! But I’ve never been like that — Right from the start, it was all just a big mistake!
 
 Someone like me shouldn’t even *try* to be an idol! There’s no way I could make it as an idol for the rest of my life!
 
-From the moment I was born to the day I die—I will always, *always* just be the son of a greengrocer!
+From the moment I was born until the day I die — I will always, *always* just be the son of a greengrocer!
 
-Yumenosaki—*Ryuseitai* was a once-in-a-lifetime dream for me!
+Yumenosaki — *Ryuseitai* was a once-in-a-lifetime dream for me!
 
-But there’s a lot more to life—once I’ve woken up from that dream, I have to keep on living!
+But there’s a lot more to life — once I’ve woken up from that dream, I have to keep on living!
 
 But my big brother has an *actual* dream! He wants to be a lawyer! And he studies every day for it!
 
-He’s tried over and over to pass the exam and he’s failed every time—cried and suffered every time—yet he keeps working hard for it!
+He’s tried over and over to pass the exam and he’s failed every time — cried and suffered every time — yet he keeps working hard for it!
+{% endbubble %}
 
+{% bubble Midori angry2 %}
 I wanna support my brother! I wanna at least be able to tell him that I’ll be the one to take over the shop, so that he can keep working hard for his dream!
 
-That’s why I’m helping out at the shop! Exactly *what* is wrong with that?!
+That’s why I’m helping out at the shop! Exactly *what* is wrong with that!?
 
 I don’t have any real dreams! So at the very least, I don’t wanna ruin someone else’s chance to achieve theirs!
 
@@ -560,45 +634,55 @@ Becoming an idol? Becoming a hero? It’s amazing, I think it’s incredible!
 
 But not everyone is as incredible as you guys!
 
-Normal people have lives, too! You think they can just keep chasing after their dreams?! Because *I* can’t! Just the thought of it is terrifying!
+Normal people have lives, too! You think they can just keep chasing after their dreams!? Because *I* can’t! Just the thought of it is terrifying!
+{% endbubble %}
 
+{% bubble Midori sad2 %}
 And yet, you go ahead and put all your hopes into someone pathetic like me!
 
 I feel like a horrible, miserable person for making Morisawa-senpai waste a whole year of his life on me!
 
 Did you know? He was so upset about leaving that he cried all alone where no one could see him!
 
-But he intended to keep that from us to the very end!
+But he intended to hide those tears from us to the very end!
 
-He wanted to say goodbye with a smile, as a hero—and to leave us with nothing but happy memories!
+He wanted to say goodbye with a smile, as a hero — and to leave us with nothing but happy memories!
+{% endbubble %}
 
-Are you insane?! That’s way too cool! What are you, some kind of saint?!
+{% bubble Midori sigh3 %}
+Are you insane!? That’s way too cool! What are you, some kind of saint!?
 
-And I—! I wasted an entire precious year of someone as amazing as that!
+And I—! I wasted an entire precious year of someone as amazing as that…!
 
-I could never say goodbye with pride like you two!
+I could *never* say goodbye with pride like you two!
 
 “I owe you a lot for this year, please leave the rest to us”? As if I even have the right to say that!
+{% endbubble %}
 
+{% bubble Midori sad3 %}
 I can’t do it! To me, something like Repayment Festival is just—…
 
-There’s no way I could ever pay back all that kindness in one day—in one “thank you” as we part ways!
+There’s no way I could ever repay all that kindness in one day — in one “thank you” as we part ways!
 
 It’d be impossible even if I devoted my whole life to it! It’s just not possible for me, Tetora-kun!
 
 It’s just as you said… I should’ve gotten up and left much earlier…
+{% endbubble %}
 
+{% bubble Midori cry2 %}
 But I had so much fun… Being with all of you always made me so happy… It was a dazzling and bright youth I never ever thought I'd get to experience…
 
 I loved everyone from Ryuseitai… And that’s exactly why it’s so awful of me to be the way I am…
 
 In the end, I’m just a fraud! A dull, fake idol!
+{% endbubble %}
 
+{% bubble Midori cry %}
 I’m so sorry… If you’ve gotten sick of me now, then feel free to throw me out and ignore me forever…
 
-Go and join the festival without me… It’s just impossible for me… I can’t do it, I don’t have the right…
+Go and join the festival without me…
 
-I’m sorry, I’m sorry, I’m so sorry…
+It’s just impossible for me… I don’t have the right… I’m sorry, I’m sorry, I’m so sorry……
 {% endbubble %}
 
 <div toc>
@@ -610,4 +694,5 @@ I’m sorry, I’m sorry, I’m so sorry…
 
 ## Translation Notes
 [^1]: This is in reference to how you must behave in a dojo, starting with respect (bowing) and ending it with respect.
-[^2]: A reference to Colorful Autumn.
+[^2]: Tokusatsu shows air every Sunday morning.
+[^3]: A reference to [Colorful Autumn](https://ensemble-stars.fandom.com/wiki/Colorful_Autumn).

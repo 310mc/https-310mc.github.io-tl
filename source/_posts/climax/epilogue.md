@@ -55,7 +55,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@ I’ll carefully carry you bridal style, so that you don’t shake about as we g
 
 Ahh… For once in a long time, I feel like I can sleep soundly tonight without any worries.
 
-One day, when I sleep forever—when I die—I want it to be with this kind of feeling.
+One day, when I sleep forever — when I die — I want it to be with this kind of feeling.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -189,7 +189,7 @@ Did you have fun in the three years you were here?
 {% bubble Eichi %}
 Of course. All the days I spent here were shining and glittering more than a jewel ever could.
 
-I'm sure the rest of you students will also get to enjoy a bright, youthful life, just as I did—perhaps even more than I ever did.
+I'm sure the rest of you students will also get to enjoy a bright, youthful life, just as I did — perhaps even more than I ever did.
 
 Ahh, that makes me jealous.
 
@@ -244,7 +244,7 @@ Me too, Subaru-kun. Ahh, doesn’t it make you so glad to be born?
 
 {% img /img/es/eventstory/climax/epilogue2_1.jpg %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 Kanata-kuuun! Moricchi~!
 
 Over here, over here! C'mon, Ryusetai’s up next, y'know~♪
@@ -254,10 +254,10 @@ Over here, over here! C'mon, Ryusetai’s up next, y'know~♪
 kaoru. …your eyes seem [red]. were you crying?
 {% endbubble %}
 
-{% bubble Kaoru %}
-Huh?! Why're you so sharp sometimes?! You’re usually a thickheaded alien, y'know?!
+{% bubble Kaoru v2 %}
+Huh!? Why're you so sharp sometimes!? You’re usually a thickheaded alien, y'know!?
 
-I confessed to Anzu-chan knowing I’d be rejected, and lo and behold, I was~! So let me off, alright?!
+I confessed to Anzu-chan knowing I’d be rejected, and lo and behold, I was~! So let me off, alright!?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -266,15 +266,15 @@ ahaha, poor you.
 …but, well, our [fight] has probably only just begun.
 {% endbubble %}
 
-{% bubble Kaoru %}
-Yeah, Sakuma-san also told me something like that~ Just what I’d expect from an Eccentric—You guys have similar ways of comforting people~♪
+{% bubble Kaoru v2 %}
+Yeah, Sakuma-san also told me something like that~ Just what I’d expect from an Eccentric — You guys have similar ways of comforting people~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
 fufu. kaoru, you will work with rei as an [idol] from here on out, right? i will cheer you on.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 Thanks. You too, Kanata-kun. If things with your family ever gets rough, run away to my place.
 
 You’re always welcome, okay? I’d be good at taking care of someone if it’s only you.
@@ -284,7 +284,7 @@ You’re always welcome, okay? I’d be good at taking care of someone if it’s
 fufu, for you of all people to be pushing yourself… but thank you.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 You don’t have to thank me. You’re my friend, y'know?
 {% endbubble %}
 
@@ -292,7 +292,7 @@ You don’t have to thank me. You’re my friend, y'know?
 yes. …did everything go okay with souma? i am sorry for leaving you to [deal] with everything.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 Yeah. There was one point when it was a bit worrisome, but I think everything's okay for now.
 
 It seems like he got through the first part of the live safely, and now he and the other two from Akatsuki are going to peacefully have fun with the second part.
@@ -308,7 +308,7 @@ Honestly, they’re such a handful~♪
 fufu, good job, kaoru. good boy, gooood boy~…♪
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 Ahaha, the only people who called me a good boy from beginning to end were… my mom and you, Kanata-kun.
 
 Thank you. To be honest, it made me pretty happy.
@@ -363,18 +363,20 @@ Ryusei Shuriken~☆
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-Gwah?! W—Why did you suddenly charge at me, my comrades?! Were you brainwashed by the enemy?!
+Gwah!? W-Why did you suddenly charge at me, my comrades!? Were you brainwashed by the enemy!?
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/epilogue2_3.jpg %}
 
 {% bubble Tetora angry2 %}
-What “enemy”… You’re both late! We were worried you wouldn’t even come, y'know?! Just what took you so long?!
+What “enemy”… You’re both late! We were worried you wouldn’t even come, y'know!? Just what took you so long!?
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
 Huh? Huh!? Sorry! The people in the shopping district took a liking to us somehow, and we ended up singing on an outdoor stage!
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 The two of us sang a duet together after so long~♪
 
 Fuhaha! Worry not, Takamine! The greengrocer store is also thriving! ☆
@@ -435,6 +437,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 <th>(Just thinking about it now makes my stomach hurt…)</th>
 {% endbubble %}
+
 {% bubble Shinobu sad %}
 <th>(And to be honest, Tetora-kun and Midori-kun have not completely made up, either.)</th>
 
@@ -451,12 +454,13 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(Those hardships united us as allies with a bond stronger than friends or family, and has helped us hone ourselves.)</th>
 {% endbubble %}
 
-{% bubble Shinobu angry2 %}
-
+{% bubble Shinobu smile %}
 <th>(With every dance step, every song, we grew closer, stronger… Whenever I remember all of that, I start to really feel like we have changed.)</th>
 
 <th>(So maybe… we'll be okay. I'm sure of it.)</th>
+{% endbubble %}
 
+{% bubble Shinobu angry2 %}
 <th>(At the very least, that’s what *I'm* going to keep believing in.)</th>[^1]
 
 <th>(This isn't our last time or anything.)</th>
@@ -469,8 +473,6 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 <th>(Shinobu-kun’s looks are surprisingly dignified. He's manly, even.)</th>
 {% endbubble %}
-
-{% img /img/es/eventstory/climax/epilogue3_1.jpg %}
 
 {% bubble Tetora sad2 %}
 <th>(If he wore stylish clothes and pulled his hair up like how his beloved Isara-senpai does… He would pull it off perfectly and thrive just fine the traditional idol way.)</th>
@@ -504,17 +506,21 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(At the very least I, as part of Ryuseitai, will stand my ground with the legacy of my seniors.)</th>
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora grin2 %}
 <th>(Even if the only thing I can do is to stand tall. Just like what Taishou told me 'bout how Taichou was in the past… I’ll keep fighting without giving up.)</th>
 
 <th>(Even if people laugh at me and say I’m incompetent, I’m sure at least Midori-kun and Shinobu-kun'd accept me for who I am. They’ll come rushing to me, picking me back up when I’m 'bout to fall.)</th>
 
 <th>(No, I’m sure they’d even fight alongside me. I can believe in that, right?)</th>
+{% endbubble %}
 
+{% bubble Tetora smile5 %}
 <th>(And in reality, Shinobu-kun has always been by my side. Midori-kun came back too, even if it took him a while.)</th>
 
 <th>(The bonds we’ve sewn and strengthened together with everyone throughout this whole year… They’re not fragile at all, but tough and invincible.)</th>
+{% endbubble %}
 
+{% bubble Tetora grin2 %}
 <th>(This isn’t dependence, it’s *trust*. I’ll take this to heart, and keep saying how I feel from now on!)</th>
 
 <th>(I won’t hold back anymore, I won’t go easy on anyone, I won’t fear the idea of being hated.)</th>
@@ -525,6 +531,8 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 <th>(I wanna be a cool man among men. Even if it’s difficult for me right now, one day, surely…)</th>
 {% endbubble %}
+
+{% img /img/es/eventstory/climax/epilogue3_1.jpg %}
 
 {% bubble Midori idle %}
 …Tetora-kun.
@@ -543,14 +551,16 @@ Ahaha, you're sounding like a leader…♪
 {% bubble Tetora curious %}
 Do you have a complaint 'bout that? Ah, could it be that you wanted to be the next “Ryusei Red” or something?
 
-You’ve been on great terms with Taichou, after all… It wouldn’t be strange at all if you’ve been thinking of inheriting that color all along.
+You’ve always been real close with Taichou, after all… It wouldn’t be strange if you’ve been thinking of inheriting that color all along.
 {% endbubble %}
 
 {% bubble Tetora hmph %}
-But it’s *not* allowed. I’ve been aiming for the red color for a long time.
+But it’s *not* allowed. I’ve been aimin' for the red color for a long time.
 
 I’m not giving it away, not even to you.
+{% endbubble %}
 
+{% bubble Tetora grin %}
 If you've got any complaints, then we'll take it to a match and decide things with our fists, mano a mano!
 {% endbubble %}
 
@@ -569,7 +579,7 @@ But just this once, I thought to myself that this isn’t something to run away 
 ## Chapter 4
 
 {% bubble Midori frown %}
-Actually, even if I did try to run away—Morisawa-senpai, Shinkai-senpai, or Anzu-san…
+Actually, even if I did try to run away — Morisawa-senpai, Shinkai-senpai, or Anzu-san…
 
 Someone will interfere and grab me by the neck to say, “come over here already!”, and pull me back to the problems I should face head-on…
 
@@ -583,7 +593,7 @@ But I love you all, I wanna be together with you all… Someone like me may just
 
 I told you that you’re neither my family nor my siblings, but I wanna amend that…
 
-People who’d get that angry just for my sake—even if they aren’t my family—are people I should treasure just like family, if not more…
+People who’d get that angry just for my sake — even if they aren’t my family — are people I should treasure just like family, if not more…
 {% endbubble %}
 
 {% bubble Midori sad2 %}
@@ -594,7 +604,7 @@ It'd be unforgivable just to keep breathing… And then I really *would* get dep
 So please, let me be by your sides. Even if this is only a dream, I don’t wanna wake up from it yet.
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora grin2 %}
 Ahaha, it’s too late to be modest now after everything, Midori-kun.
 
 Have we ever once said “Don’t come with us” or “Go away” to you?
@@ -605,23 +615,25 @@ Huuuh? You *did!* You told me I should’ve just disappeared!
 {% endbubble %}
 
 {% bubble Tetora surprised2 %}
-Wha—?! Sorry, I wasn’t thinking straight back then and ended up saying somethin' I didn’t mean!
+Wha—!? Sorry, I wasn’t thinking straight back then and ended up saying somethin' I didn’t mean!
 {% endbubble %}
 
 {% bubble Midori hmph %}
-Didn’t mean it, huh!? It hurt me so much, I could’ve died!!
+Didn’t mean it, huh!? It hurt me so much, I could’ve died…!!
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
 H-Heeey, you two!? No fighting! We are still in the middle of our live, you know~!
 {% endbubble %}
 
+{% img /img/es/eventstory/climax/epilogue4_1.jpg %}
+
 {% bubble Kanata v2 %}
 hehe, that's right~ if you were to [chatter] during [combat]… you would immediately die~♪
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Yep! It’s just as Kanata said! This is extremely important, so carve it into your hearts! How long are you planning to let the filler arc run?! It’s time for you to get back on track with the live!
+Yep! It’s just as Kanata said! This is extremely important, so carve it into your hearts! How long are you planning to let the filler arc run!? It’s time for you to get back on track with the live!
 {% endbubble %}
 
 {% bubble Tetora surprised %}
@@ -630,7 +642,7 @@ What the…!? Huh? Taichou? Shinkai-senpai?
 W-Why're you two on stage? And you’re even wearing clothes that match our outfits for Repayment Festival…!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki smug %}
 Is there any problems with that? We’re also Ryuseitai, at least for now!
 
 Heheh. Takamine said something particularly interesting, so when I asked Anzu about it…
@@ -643,7 +655,7 @@ Because she thought to herself, “It'll probably be the five of them on stage l
 
 So she said, “I ended up making outfits for all five of you\~” with her tongue stuck out like she was giggling! It was cute\~☆
 
-That face she made was definitely on purpose! Is she one of those cute villian ladies who appear in tokusatsu shows or what?!
+That face she made was definitely on purpose! Is she one of those cute villian ladies who appear in tokusatsu shows or what!?
 
 In any case, there are outfits for us too, so it’d be a waste not to wear them, wouldn’t it?
 
@@ -658,7 +670,9 @@ But I *really* just can’t sit back and watch anymore!
 Ahhh, it was really rough for me this time around! I wanted to say something, to do something!
 
 I wanted to spend all my energy being busy! To fix all your problems, like I always did!
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 I love you guys so much! But it’s because I love you that I shouldn’t be carrying you around and spoiling you forever!
 {% endbubble %}
 
@@ -666,7 +680,9 @@ I love you guys so much! But it’s because I love you that I shouldn’t be car
 that's right, chiaki~
 
 if you get too involved with the aquarium's [fish], then they, like the [children], will die by the [stress]. we should only be watching from afar.
+{% endbubble %}
 
+{% bubble Kanata smile3 %}
 fufufu, it was also rough on me to only be [watching], though.
 
 i am [relieved]. you three will be [alright] even if we are not here… you will be able to weather any [storm].
@@ -692,7 +708,9 @@ And our audience would want it to be the five of us together as Ryuseitai.
 At least once, I want them to witness a miracle: the five of us together here, in our gallant glory.
 
 We'll have to get used to Ryuseitai being just the three of us, but that's not until later, right?
+{% endbubble %}
 
+{% bubble Tetora awkward %}
 Us three won’t be able to fill the leading roles by ourselves just yet, so I’ll gratefully let our seniors interfere this time around.
 
 Besides, it’s a blessing to know we’re not fightin' alone.
@@ -760,14 +778,16 @@ C’mon, c’mon! You do it too, Tetora-kun, Midori-kun! ♪
 Uu~myu… I had a plan for how we were gonna do this, though… Now that everyone’s just doin' as they please, it’ll be tough to get everything back on track.
 
 But that *is* the usual for us anyway.
+{% endbubble %}
 
+{% bubble Tetora grin2 %}
 I dunno if I can do things as properly as Taichou did… but I’m gonna burn the flames of justice I inherited to their limit and do my absolute best.
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/tetorabcg.jpg %}
 
 {% bubble Tetora v2 %}
-As a member of Ryuseitai—No… As the next commander who will lead Ryuseitai—
+As a member of Ryuseitai — No… As the next commander to lead Ryuseitai—
 
 I’m gonna shine bright like the sun. Today, tomorrow, and forever onward. I’ll burn a bright red.
 
@@ -793,11 +813,13 @@ I'm sure *you* will be able to use that strength properly.
 
 <th>(I’m no longer a kid whose eyes glisten as he watches heroes being heroes—)</th>
 
-<th>(Because now, I was able to become the hero I've always longed to be.)</th>
+<th>(—Because I was able to become the hero I've always longed to be.)</th>
 
 <th>(Heh~♪ Time to introduce myself with the loudest voice and the best smile in history!)</th>
+{% endbubble %}
 
-The red flame is——Gwah?!
+{% bubble Chiaki shocked %}
+The red flame is——Gwah!?
 {% endbubble %}
 
 {% bubble Midori angry %}
@@ -811,7 +833,7 @@ Did I do something wrong!? Are you angry!?
 {% endbubble %}
 
 {% bubble Midori sigh2 %}
-Hmph… Well, I *do* dislike how you seem to be walking on eggshells around me… You don’t have to worry so much, jeez… You’re way too late for that, anyway…
+Hmph… Well, I *do* dislike the way you're walking on eggshells around me… You don’t have to worry so much, jeez… You’re way too late for that, anyway…
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -829,7 +851,7 @@ But. I think I was also an unpleasant junior who was always lazy and kept snappi
 
 So, well… Let’s just call it even.
 
-All the kindness you’ve given me—Even if I spent my whole life trying, I don’t think I could ever fully return the favor. But at the very least, I'll prove to you that your year didn't go to waste.
+All the kindness you’ve given me — Even if I spent my whole life trying, I don’t think I could ever fully return the favor. But at the very least, I'll prove to you that your year didn't go to waste.
 
 Thanks to you, even I’ve changed a little… and I'll show that to you now.
 
@@ -879,7 +901,7 @@ I never really disliked seeing that… Morisawa-senpai.
 {% bubble Chiaki smile4 %}
 I see, so that’s how it was all along… That’s good, I’m glad. Ahh, I’m just so glad.
 
-I truly feel rewarded. To be a hero means to not ask for anything in return… but if I’ve been loved and thanked, and brought a smile to someone who was crying…
+I truly feel rewarded. To be a hero means to not ask for anything in return… but if I’ve been loved and thanked, and brought a smile to someone who was crying—
 
 Then there was value and reason to the desperate fight it took to reach here after all.
 {% endbubble %}
