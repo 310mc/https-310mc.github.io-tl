@@ -8,7 +8,7 @@ tags:
 - Story Index
 - Event Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -21,7 +21,7 @@ description: "[ES!] TBA"
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    As Repayment Festival approaches, every unit has been hard at work preparing for it. Meanwhile, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors. However, the two of them are then informed by Eichi that their unit has yet to apply for the festival…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -77,7 +77,7 @@ description: "[ES!] TBA"
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -112,7 +112,7 @@ description: "[ES!] TBA"
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    As Repayment Festival approaches, every unit has been hard at work preparing for it. Meanwhile, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors. However, the two of them are then informed by Eichi that their unit has yet to apply for the festival…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -168,7 +168,7 @@ description: "[ES!] TBA"
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -177,6 +177,14 @@ description: "[ES!] TBA"
                         <div class="tab-header__name">Extra Information</div>
                     </div>
                     <div class="tab-content">
+                    <div class="tab-item">
+                        <div class="label">
+                            Associated Song
+                        </div>
+                        <div class="value">
+                            <a href="https://www.youtube.com/watch?v=EebaqB7tse0">Unlimited☆Power!!!!!</a> — <a href="https://ensemble-stars.fandom.com/wiki/Unlimited%E2%98%86Power!!!!!_(Lyrics)">(Song Lyrics)</a>
+                        </div>
+                    </div>
                         <div class="tab-item">
                             <div class="label">
                                 Event
@@ -284,20 +292,16 @@ description: "[ES!] TBA"
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">………</div>
+                                            <div class="bloomed">We are Ryuseitai!<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Entrusting the Passion] Chiaki Morisawa</div>
+                                    <div class="card__jp">[情熱を託して] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -326,14 +330,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Believing the Potential] Midori Takamine</div>
+                                    <div class="card__jp">[可能性を信じて] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -362,14 +362,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Assuming the Spirit] Tetora Nagumo</div>
+                                    <div class="card__jp">[魂を受け取って] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -398,14 +394,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Embracing the Hope] Shinobu Sengoku</div>
+                                    <div class="card__jp">[希望を抱いて] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -434,14 +426,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[until reunion] Kanata Shinkai</div>
+                                    <div class="card__jp">[さいかいまで] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -470,14 +458,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Subaru Akehoshi</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__name">[Yearning's Repayment] Subaru Akehoshi</div>
+                                    <div class="card__jp">[想望の返礼] 明星 スバル</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -506,14 +490,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kaoru Hakaze</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__name">[Overtime Caprice] Kaoru Hakaze</div>
+                                    <div class="card__jp">[延長戦の戯れ] 羽風 薫</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -542,14 +522,10 @@ description: "[ES!] TBA"
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Eichi Tenshouin</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__name">[Dazzling Days] Eichi Tenshouin</div>
+                                    <div class="card__jp">[眩しい日々] 天祥院 英智</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
