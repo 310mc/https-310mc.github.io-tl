@@ -73,7 +73,7 @@ hidden: true
 
 {% img /img/es/eventstory/climax/wontcry1_1.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 ………
 {% endbubble %}
 
@@ -83,15 +83,15 @@ Ta~kamin? Why’re you so spaced out? You tired?
 Then again, you’re <em>always</em> like that! Ahahahaha! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 ………
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 …Heyy~? At least answer me! Let’s communicate with each other!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Fwah? Huh? Ohh, sorry, Akehoshi-senpai… I’m always up early, so I get sleepy by this hour…
 {% endbubble %}
 
@@ -101,8 +101,8 @@ Oh~? Are you a li’l kid or something? Ahaha! ☆
 I get up early in the morning too, ‘cause I have to walk Daikichi! We’re the same, huh? Isn’t it so nice to share something in common? ♪
 {% endbubble %}
 
-{% bubble Midori %}
-Hah… Umm, well, my family owns a greengrocer store, so…They always make me help out every morning with preparation, like lining up the vegetables for sale…
+{% bubble Midori sad %}
+Hah… Umm, well, my family owns a greengrocer store, so… They always make me help out every morning with preparation, like lining up the vegetables for sale…
 
 Even when I stay asleep, they just force me to wake up… Though I can’t sleep much either way ‘cause of all the noise downstairs…
 
@@ -113,7 +113,7 @@ We live in the shopping district, so it’s really lively in the morning…
 Oh yeah~ You help out at home, huh? That’s amazing! Lemme praise you! There, there, there~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 Please don’t pat my head… You’re as touchy-feely as <em>that</em>, aren’t you…?
 
 You’re both so similar, it’s almost like your brothers…
@@ -123,7 +123,7 @@ You’re both so similar, it’s almost like your brothers…
 As touchy-feely as “that”…? Ohh, do you mean Chi~chan-senpai? Aww come on, no need to say something so vomit-inducing as that, y’know! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 I didn’t go *that* far!?
 {% endbubble %}
 
@@ -131,20 +131,20 @@ I didn’t go *that* far!?
 Ahaha. Sometimes I do wish I could be more like Chi~chan-senpai, though. But there’s just no way I could get along with anyone and everyone the same way he does.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking2 %}
 I know, right… I mean, he doesn’t even mind connecting with people who don’t really fit in, like you and me…
 
 He’s basically kind to just about anyone, isn’t he…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Whoa, you just grouped us together, didn’t you? Into the “zero friends” group! You little rascal\~! Don’t lump me with you\~!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Ehhh…? First you say you’re glad we share something, now you’re annoyed we do…?
 
-I don’t get it… What did you want, anyway…?
+I don’t get you… What did you want, anyway…?
 
 I doubt you have any interest in me… I know we’re in the same club, but we haven’t really ever talked to each other, have we…?
 {% endbubble %}
@@ -155,19 +155,19 @@ Mm\~… That’s ‘cause ever since you came to school, Chiaki\~chan-senpai’s
 Maaaybe I’m a little jealous or something…♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Huh…? What does that mea—
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Akehoshi! Takamine! What’s up, what’re you guys up to!? Are you sitting around and having a nice chat!? Sounds fun! Make some space for me! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Gah!? Hey, watch it… Please don’t jump on me out of nowhere… You almost broke my spine…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Yeah! We’re used to it by now, but you’d get arrested if you hugged a stranger out of nowhere, y’know?
 
 Officer~! This man is a pervert!
@@ -175,13 +175,13 @@ Officer~! This man is a pervert!
 
 {% img /img/es/eventstory/climax/wontcry1_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Heh! ♪ It’s still a little chilly, so you’ll start to feel cold if you don’t move around!
 
 That’s why your senior decided to be considerate and share his warmth with you through a hug! Squeeze, squeeze~☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Actually, it’s *freezing* cold… A farewell party’s fine and all, but why’re we having it outside…?
 
 I feel like it would’ve been better if we had it in a restaurant, or at least inside the gym with the heater on…
@@ -189,29 +189,29 @@ I feel like it would’ve been better if we had it in a restaurant, or at least 
 Basketball courts are small anyway, so it’s really crowded and suffocating with this many people around…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 What’s that? You’re in pain, Takamine!? Alright then, let me perform the lifesaving technique I learned from Kanata! I’ll give you oxygen through mouth-to-mouth…☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Gahhh!? Get your face away from me, you weirdo! I’ll seriously call the police…!
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 You haven’t been drinking or anything, have you, Chi~chan-senpai?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Nope! I’m underage! I think I’m just getting a little too excited!
 
 Ahh, I can’t control myself! I feel like hugging and kissing every single person I see!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 You better cut it out soon, or I’ll tie you up with rope…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Oh, that sounds like the perfect hero crisis! I’m intrigued! But I’d rather you refrain from doing that for now!
 
 For you see, as a final parting, we’re having a match between the graduates and underclassmen!
@@ -223,7 +223,7 @@ This is the *Basketball* club’s farewell party, so let’s play basketball!
 Fuhaha! You should also change into your uniforms and join us! Let’s have a final showdown! Come on now, let me feel your growth firsthand…☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 Mm~… Sounds tiring, so I’ll pass…
 
 I’m annoyed enough that you dragged me here when I’m not even the type to go to parties…
@@ -235,7 +235,7 @@ Oh, sure. I’m in!
 Heh… I’m gonna give you a good beating as payback for everything you put me through the past two years… Chi\~chan-senpai\~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ooh, I’m excited to see you try! I won’t be beaten by a fledgling so easily, Akehoshi! ♪
 
 You should join us, Takamine. I’d be happy if you could at least cheer me on.
@@ -243,7 +243,7 @@ You should join us, Takamine. I’d be happy if you could at least cheer me on.
 This might be the last time you see me in a basketball uniform in all my glory, y’know? Make sure you burn it straight into your very eyes! Fuhahaha! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori frown %}
 Ehhh… I feel like if something like that was burned into my retinas, I’d never be able to get a good night’s sleep again…
 {% endbubble %}
 
@@ -255,7 +255,7 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 
 {% img /img/es/eventstory/climax/wontcry2_1.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 <th>(Ugh, it’s already dark outside…)</th>
 
 <th>(Our farewell party ended up going on for a lot longer than I’d hoped…)</th>
@@ -267,7 +267,9 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(But since Morisawa-senpai dragged me over to the farewell party—)</th>
 
 <th>(I ended up leaving my bag in the classroom, so I have to go back and get it…)</th>
+{% endbubble %}
 
+{% bubble Midori sad %}
 <th>(But man… I’m seriously so tired…)</th>
 
 <th>(I don’t even *like* wild parties in the first place… and I still got forced into playing a bunch of matches…)</th>
@@ -275,7 +277,9 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(Basketball is, well… I mean, it’s kinda starting to be fun for me, but… I prefer not to have to move around so much…)</th>
 
 <th>(It’s tiring… I feel exhausted just watching people play…)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(As tiring as it is to have so many people in the club, it ended up being in my favor this time, ‘cause I barely got a chance to do anything…)</th>
 
 <th>(Everyone wanted to have a final match with Morisawa-senpai, I guess…)</th>
@@ -293,7 +297,9 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(Meh, anyway… I was expecting something way more sad for the farewell party, but…)</th>
 
 <th>(It was just a ridiculously cheerful atmosphere from start to end…)</th>
+{% endbubble %}
 
+{% bubble Midori thinking2 %}
 <th>(Morisawa-senpai was also laughing the whole time…)</th>
 
 <th>(I thought he was gonna make us all cry with a big speech retelling our past memories or something…)</th>
@@ -301,7 +307,9 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(But in the end, nobody shed a single tear — everyone was just laughing until their whole bodies hurt… It didn’t really feel satisfying somehow…)</th>
 
 <th>(Well, it’s not like we’re parting by death or anything, so I guess this is how it goes…?)</th>
+{% endbubble %}
 
+{% bubble Midori worried %}
 <th>(Hmm…? Wait, huh? The lights are on in the gym…?)</th>
 
 <th>(Is the club having some kinda after-party…? I bet they still don’t wanna part ways… Man, they’re so energetic…)</th>
@@ -319,9 +327,11 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 
 {% img /img/es/eventstory/climax/wontcry2_2.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 ………
+{% endbubble %}
 
+{% bubble Midori curious %}
 <th>(Mm… Huh…? There’s nobody here…)</th>
 
 <th>(Then why’re the lights on…? Did they really just forget to turn them off…?)</th>
@@ -331,27 +341,29 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 <th>(I think I touched it a few times during my basketball activities…)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
-………
+{% bubble Chiaki cry2 %}
+…………
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 <th>(…Eep!? Huh!? Morisawa-senpai!?)</th>
 
 <th>(W-Why’s he just standing in the corner, all spaced out…? I almost let out a weird sound ‘cause I thought I saw a ghost…)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
-………
+{% bubble Chiaki cry %}
+…………
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 <th>(Huh…? Is he… crying…?)</th>
 
 <th>(His shoulders are shaking… and I can hear muffled sobs, too… Huh? What’s going on…?)</th>
 
 <th>(Why’s he crying all alone in the gym in the middle of the night…?)</th>
+{% endbubble %}
 
+{% bubble Midori sad3 %}
 <th>(Ahhh… I feel like I saw something I shouldn’t have… I-I gotta leave before he notices me…)</th>
 
 <th>(I don’t want him pestering me like he usually does…)</th>
@@ -365,11 +377,11 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 
 {% img /img/es/eventstory/climax/chiakiorigcg.jpg %}
 
-{% bubble Chiaki %}
-………
+{% bubble Chiaki clmocg %}
+…………
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 <th>(………)</th>
 
 <th>(Morisawa-senpai.)</th>
@@ -383,7 +395,7 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 
 ## Chapter 3
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile4 %}
 …Hmm? Ohh, that surprised me!
 
 So it was you, Takamine! What’s up, what’s wrong!? Are you on your way home?
@@ -391,19 +403,23 @@ So it was you, Takamine! What’s up, what’s wrong!? Are you on your way home?
 You shouldn’t stay around for so long, y’know! Go back home, brush your teeth, and go to bed!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Ah—… Um, no, I just left my bag in the classroom, so…
+{% endbubble %}
 
+{% bubble Midori thinking2 %}
 <th>(Huh…? I guess Morisawa-senpai wasn’t crying after all…?)</th>
 
 <th>(He’s got that usual dumb-looking smile on his face… Ah wait, but there’s traces of tears around his eyes…)</th>
 
 <th>(Did he just stop himself from crying and force a smile in the short time he noticed me and turned around…?)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(You’re *always* like this.)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 What’s the matter? You don’t seem well! Are you sleepy? Sorry for keeping you up late for the farewell party!
 
 Ah, I remember now! Weren’t you always too scared to walk alone at night? Alrighty then, let me take you back home!
@@ -415,25 +431,27 @@ Heh! ♪ Just to let you know, I was cleaning the gym as thanks for all the wond
 Showing our gratitude is important, Takamine! Both as a hero and an idol!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Morisawa-senpai.
 
 ……Is everything alright?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Hm? Is what alright? I don’t know what you’re referring to, but worry not, Takamine! My engines are always at full throttle for the sake of protecting the peace of the world!
 
 Fuhahaha…!! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 …I see.
 
 <th>(Ahh… I wonder why I feel this way…? Morisawa-senpai hasn’t done anything wrong…)</th>
 
 <th>(But seeing that smile of his irritates me to no end for some reason…)</th>
+{% endbubble %}
 
+{% bubble Midori idle %}
 <th>(Morisawa-senpai, why’re you smiling…? You, who loves everyone and is loved by everyone in return… How can you even be smiling right now…?)</th>
 
 <th>(Graduation is supposed to be something upsetting, so agonizingly lonely and sad…)</th>
@@ -443,11 +461,11 @@ Fuhahaha…!! ☆
 <th>(No… Even before all this, you’ve always been—…)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki curious %}
 Takamine? Heeey, what’s wrong? Are you feeling down? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 No, not really… I’m just a little tired, sleepy, and irritated…
 {% endbubble %}
 
@@ -463,7 +481,9 @@ No, not really… I’m just a little tired, sleepy, and irritated…
 
 {% bubble Mao %}
 Heeey, Subaru! I’m guessing the farewell party’s over by now?
+{% endbubble %}
 
+{% bubble Mao sigh %}
 Sorry! I really wanted to join, but I had a ton of Student Council work to do~!
 
 You know how the Repayment Festival is in two weeks? And how unit activities’ll mainly be done by the second-year students starting with that festival, yeah?
@@ -485,7 +505,9 @@ Ahaha, wow, Sally~ It’s not every day I see you complain, huh?
 Lemme vent a little~ I have to act like the big guy now, as the next Student Council President…
 
 So I’m always presenting myself as a proper leader and stuff when I’m at the Student Council office.
+{% endbubble %}
 
+{% bubble Mao frown %}
 If the boss complains, the subordinates are just gonna get anxious, right?
 
 So, I’ve been holding it back and working through everything as fast as I can, but I guess a lotta those worries started building up inside me.
@@ -499,7 +521,9 @@ Ahaha, it sounds busy at the Student Council, too. Good work out there!
 Trickstar’s a unit of only second-year students, so nothing’s really changed for us. It’s pretty peaceful actually.
 
 But the other units are bustling with stuff they need to get done, huh?
+{% endbubble %}
 
+{% bubble Subaru frown %}
 Like, I wonder what Ryuseitai’s gonna do, since they won’t be able to say their signature line, “The five of us together~” anymore.
 
 And like, today… From what I could tell, Chi~chan-senpai and Takamin were both acting a little off.
@@ -519,7 +543,9 @@ It gets unbearably gloomy around this time, and it sucks.
 Yeah. But well, we can’t stop the clock, can we… The least we can do is part ways properly.
 
 The only thing left now is to say goodbye with a smile, so that our seniors won’t have any regrets when they leave.
+{% endbubble %}
 
+{% bubble Subaru frown %}
 It’s pretty hard to do it right, though~ Takamin is terrible at smiling, for one thing.
 
 On the other hand, Chi~chan-senpai’s smiling a lot more than he used to last year. …Aren’t those two kiiinda similar?
@@ -541,7 +567,9 @@ It’s fine, really! As long as we make it before they graduate.
 This wouldn’t have been the right timing for graduation gifts anyway…
 
 It was pretty much the usual fooling around we do in the club… It’s almost hard to believe that even *that’ll* no longer be the usual for us soon.
+{% endbubble %}
 
+{% bubble Subaru awkward %}
 Hey Sally~, graduation really does suck… Even *I* have to push myself to smile all the time.
 {% endbubble %}
 

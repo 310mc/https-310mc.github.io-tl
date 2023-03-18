@@ -61,6 +61,12 @@ hidden: true
 
 ## Chapter 1
 
+<div class="msr-location">
+    <p><span><b>Location:</b> At the fountain</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/bystanders1_1.jpg %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/anxiety_and_silence,, arrow-left, Previous Chapter: Anxiety and Silence %}

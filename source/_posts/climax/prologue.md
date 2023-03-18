@@ -52,14 +52,18 @@ hidden: true
 
 <!-- more -->
 
+{% note cw %}
+**Content Warning:** Casual mentions of marine life euthanasia.
+{% endnote %}
+
 <div class="msr-location">
     <p><span><b>Location:</b> Marine Bio Clubroom</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/prologue1_1.jpg %}
+{% img /img/es/eventstory/climax/prologue_1.jpg %}
 
 {% bubble Kanata v2 %}
-~…♪
+<em><th>(Humming)</th></em> ~……♪
 
 *puka, puka…♪*
 {% endbubble %}

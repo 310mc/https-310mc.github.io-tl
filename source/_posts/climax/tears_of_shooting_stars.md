@@ -116,7 +116,7 @@ Nobody asked you to get involved. I know that’s what a hero of justice is all 
 
 Within school, not being able to read the room is equivalent to evil, y’know?
 
-—Ahh… I can’t believe I called you of all people <em>evil</em>... I’m not calm either, huh…
+—Ahh… I can’t believe I called you of all people <em>evil</em>… I’m not calm either, huh…
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -246,7 +246,7 @@ Those easy-going days of ours are in the past.
 
 Taichou and Shinkai-senpai’ll graduate, and there’s nothing we can do 'bout that. We should celebrate that — we should be congratulating them.
 
-From now on, we have to do things on our own.
+From now on, we gotta do things on our own.
 {% endbubble %}
 
 {% bubble Tetora frown %}
@@ -260,7 +260,7 @@ I was a stupid, dumb brat who relished in his own ignorance.
 {% endbubble %}
 
 {% bubble Tetora serious %}
-But we’ll become seniors, too. We have to grow up.
+But we’ll become seniors, too. We have to grow up at this point.
 
 We can't just continue being naïve kids who rely on kind heroes to carry 'em into the spotlight.
 {% endbubble %}
@@ -308,7 +308,7 @@ I still don't have what it takes to be Ryusei Red.
 {% bubble Chiaki angry2 %}
 That’s not true, Nagumo.
 
-Even I failed over and over at the start. I couldn't get anything right at all — to the point where just seeing the color red made me feel sick.
+Even I failed over and over at the start. I couldn't get anything right at all — to the point where just seeing the red color made me feel sick.
 
 I started to feel that tokusatsu shows were nothing but lies — that there was no way anything could conveniently go well the same way it did in the shows.
 
@@ -368,7 +368,7 @@ For now, we’re equal members of this unit, so I can’t order you around as if
 {% bubble Tetora frown %}
 Although, I don’t think it’s good for me to hold back like that…
 
-It’s just — I don’t have that kinda confidence in myself yet. I’m still hollow. One day, I’ll become a great man for sure…
+It’s just — I don’t have that kinda confidence in myself yet. I’m still hollow. One day, I’ll become a great man for sure—
 
 But right now, it’s still difficult for me. So, expecting me to act just like Taichou… It’s impossible.
 
@@ -398,7 +398,7 @@ We even made advertisement signboards for 'em together, right? That’s a very p
 {% bubble Tetora sad4 %}
 But I just don’t understand. Is that really somethin' only you can do, Midori-kun?
 
-Do you *really* have to help 'em out that badly? Isn’t your family in good health?
+Do you *really* gotta help 'em out that badly? Isn’t your family in good health?
 
 If they are, then they should be fine without your help.
 {% endbubble %}
@@ -408,7 +408,7 @@ But Repayment Festival is our chance to thank our seniors from Ryuseitai for eve
 
 This is somethin' only the three of us can do. Nobody else can do this.
 
-So why're you prioritizing the shop over that?
+So why're you prioritizing the store over that?
 {% endbubble %}
 
 {% bubble Tetora sad2 %}
@@ -434,7 +434,7 @@ It’s like I’m lookin' at my old self! It irritates me so much!
 {% bubble Tetora frown2 %}
 I’m sorry, but I guess I really am angry!
 
-I just don’t have the same kinda unwavering tolerance as Taishou or Taichou!
+I just don’t have the same kind of unwavering tolerance as Taishou or Taichou!
 {% endbubble %}
 
 {% bubble Tetora sad %}
@@ -592,7 +592,7 @@ I don’t deserve to be loved by so many people! I don’t deserve to feel the b
 
 And anyway, it's not like I can continue being an idol for the rest of my life…
 
-Only few people could ever do that… You’d need to want it with all your heart…
+Only a few people could ever do that… You’d need to want it with all your heart…
 
 But I’m not like that… I just chose the easiest path… I have no will at all compared to everyone else…
 

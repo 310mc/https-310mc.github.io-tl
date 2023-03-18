@@ -57,6 +57,12 @@ hidden: true
 
 ## Chapter 1
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-B</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/anxiety1_1.jpg %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/blessings_and_repayment,, arrow-left, Previous Chapter: Blessings and Repayment %}

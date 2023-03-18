@@ -80,7 +80,7 @@ hidden: true
 
 {% img /img/es/eventstory/climax/epilogue1_1.jpg %}
 
-{% bubble Eichi %}
+{% bubble Eichi smile %}
 Anzu-chan, the moon is pretty tonight, isn’t it?
 
 Fufu, looks like it’ll be a while until the sun is up.
@@ -94,7 +94,9 @@ Fufu, of course you, as the producer, know exactly what *fine* will be doing in 
 “Don’t tell me! I’ll imagine it myself!”
 
 That was my attempt at imitating Tsukinaga-kun. I’d prefer it if you didn’t take away the blissful moments of gazing at a present and imagining what could be inside of it.
+{% endbubble %}
 
+{% bubble Eichi curious %}
 …Anzu-chan?
 
 Oh my, I was wondering why you weren’t responding. You’ve fallen asleep.
@@ -102,7 +104,9 @@ Oh my, I was wondering why you weren’t responding. You’ve fallen asleep.
 It did seem like a lot of hard work for you once again… You ran around doing all sorts of things for multiple units.
 
 But that’s exactly why you should wake up after we’ve reached the auditorium for the second half of the festival.
+{% endbubble %}
 
+{% bubble Eichi smile %}
 Your beloved idols are all waiting to give you the gifts reserved just for you.
 
 If you sleep through that and miss it, they might be disappointed.
@@ -128,11 +132,11 @@ Hm? Hello there, Subaru-kun. What a coincidence that we meet here.
 Ah! Heya, Eichi-senpai! Good evening~☆
 {% endbubble %}
 
-{% bubble Eichi %}
+{% bubble Eichi angry %}
 Shhh… You really don't pay attention to your surroundings, do you? Anzu-chan is sleeping, so could you stay quiet?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru surprised %}
 Woah—! Sorry. Wait, why're you carrying Anzu? Were you two on good terms?
 {% endbubble %}
 
@@ -172,7 +176,9 @@ Fufu, we’ll obviously get cold if we keep standing around and talking in a pla
 
 {% bubble Subaru %}
 Okay then, see ya~♪
+{% endbubble %}
 
+{% bubble Subaru curious %}
 ……Actually, Eichi-senpai.
 {% endbubble %}
 
@@ -180,13 +186,11 @@ Okay then, see ya~♪
 Hm? What is it, Subaru-kun?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru serious %}
 Did you have fun in the three years you were here?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/epilogue1_2.jpg %}
-
-{% bubble Eichi %}
+{% bubble Eichi smile %}
 Of course. All the days I spent here were shining and glittering more than a jewel ever could.
 
 I'm sure the rest of you students will also get to enjoy a bright, youthful life, just as I did — perhaps even more than I ever did.
@@ -204,7 +208,7 @@ Hm? I don’t really want something like that, though.
 But I like to take what I’m given~♪
 {% endbubble %}
 
-{% bubble Eichi %}
+{% bubble Eichi awkward %}
 I see… Ahh, that’s a relief.
 
 Unlike Valentine's Day, the gift you give on White Day is likely to make the person happy in the end anyway, but it doesn't change the fact that it makes you nervous.
@@ -216,23 +220,23 @@ Once you’re done with what you have to do, come over to the auditorium. It see
 So you should come to watch and enjoy your senior and junior of the same club in their iconic moment.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Mhm, I totally intend to watch over that.
 
 Heheh, Chi~chan-senpai’s number one favorite may be Takamin and all, but…
 
-It still does frustrate me a little that Takamin gets to take everything for himself.
+It still does frustrate me a little that Takamin gets to have everything for himself.
 
 Not to mention, it looks like he’s gonna become the exact kinda hero Chi~chan-senpai hoped for—
 
 So… maybe I should become the exact kinda idol Chi~chan-senpai hoped for.
 
-That’s what our repayment to him will be, and today will mark the memory of that first step.
+That’ll be our repayment to him, and today will mark the memory of that first step.
 
 I’m pretty hyped, Eichi-senpai.
 {% endbubble %}
 
-{% bubble Eichi %}
+{% bubble Eichi grin2 %}
 Me too, Subaru-kun. Ahh, doesn’t it make you so glad to be born?
 {% endbubble %}
 
@@ -467,11 +471,11 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
-<th>(…Ahaha, it's not every day that I see Shinobu-kun with a serious look on his face.)</th>
+<th>(…Ahaha, it’s not every day that I see Shinobu-kun with a serious look on his face.)</th>
 
-<th>(That’s how much we’re on his mind, I bet. He’s so concerned 'bout us that he can’t even mess around.)</th>
+<th>(That’s how much we’re on his mind, I bet. He’s so concerned ‘bout us that he can’t even mess around.)</th>
 
-<th>(Shinobu-kun’s looks are surprisingly dignified. He's manly, even.)</th>
+<th>(Shinobu-kun’s looks are surprisingly dignified. He’s manly, even.)</th>
 {% endbubble %}
 
 {% bubble Tetora sad2 %}
@@ -481,13 +485,13 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 <th>(And continue enjoying life as himself, as a master of his own castle.)</th>
 
-<th>(Isn't that so cool? I admire that 'bout him so much.)</th>
+<th>(Isn’t that so cool? I admire that ‘bout him so much.)</th>
 {% endbubble %}
 
 {% bubble Tetora awkward %}
 <th>(I dunno if someone hollow like me… is even qualified to lead guys as cool as Shinobu-kun and Midori-kun…)</th>
 
-<th>(But I've been asked to take up the commander role. For the first time in my life, I’ve been tasked with something that is seen as, “something that can only be entrusted to you, Nagumo.”)</th>
+<th>(But I’ve been asked to take up the commander role. For the first time in my life, I’ve been tasked with something that is seen as, “something that can only be entrusted to you, Nagumo.”)</th>
 
 <th>(So I’m going to take risks and devote my whole self to this.)</th>
 {% endbubble %}
@@ -501,15 +505,15 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 <th>(A loss isn’t a loss if you refuse to accept defeat to the very end.)</th>
 
-<th>(Even if no one cares 'bout me anymore, even if I become hated, and the people around me leave…)</th>
+<th>(Even if no one cares  me anymore, even if I become hated, and the people around me leave…)</th>
 
 <th>(At the very least I, as part of Ryuseitai, will stand my ground with the legacy of my seniors.)</th>
 {% endbubble %}
 
 {% bubble Tetora grin2 %}
-<th>(Even if the only thing I can do is to stand tall. Just like what Taishou told me 'bout how Taichou was in the past… I’ll keep fighting without giving up.)</th>
+<th>(Even if the only thing I can do is to stand tall. Just like what Taishou told me ‘bout how Taichou was in the past… I’ll keep fighting without giving up.)</th>
 
-<th>(Even if people laugh at me and say I’m incompetent, I’m sure at least Midori-kun and Shinobu-kun'd accept me for who I am. They’ll come rushing to me, picking me back up when I’m 'bout to fall.)</th>
+<th>(Even if people laugh at me and say I’m incompetent, I’m sure at least Midori-kun and Shinobu-kun'd accept me for who I am. They’ll come rushing to me, picking me back up when I’m ‘bout to fall.)</th>
 
 <th>(No, I’m sure they’d even fight alongside me. I can believe in that, right?)</th>
 {% endbubble %}
@@ -549,7 +553,7 @@ Ahaha, you're sounding like a leader…♪
 {% endbubble %}
 
 {% bubble Tetora curious %}
-Do you have a complaint 'bout that? Ah, could it be that you wanted to be the next “Ryusei Red” or something?
+Do you have a complaint ‘bout that? Ah, could it be that you wanted to be the next “Ryusei Red” or something?
 
 You’ve always been real close with Taichou, after all… It wouldn’t be strange if you’ve been thinking of inheriting that color all along.
 {% endbubble %}
@@ -623,13 +627,13 @@ Didn’t mean it, huh!? It hurt me so much, I could’ve died…!!
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-H-Heeey, you two!? No fighting! We are still in the middle of our live, you know~!
+H-Heeey, you two!? No fighting! We’re still in the middle of our live, you know~!
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/epilogue4_1.jpg %}
 
 {% bubble Kanata v2 %}
-hehe, that's right~ if you were to [chatter] during [combat]… you would immediately die~♪
+hehe, that’s right~ if you were to [chatter] during [combat]… you would immediately die~♪
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -649,13 +653,13 @@ Heheh. Takamine said something particularly interesting, so when I asked Anzu ab
 
 Oh, to be clear, it was while I was giving her something for White Day!
 
-Anyway, so it seemed like she had already prepared outfits for us, too… Apparently, it was her who sewed Ryuseitai's outfits this time.
+Anyway, so it seemed like she had already prepared outfits for us, too… It was her who sewed Ryuseitai's outfits this time.
 
 Because she thought to herself, “It'll probably be the five of them on stage like always.”
 
 So she said, “I ended up making outfits for all five of you\~” with her tongue stuck out like she was giggling! It was cute\~☆
 
-That face she made was definitely on purpose! Is she one of those cute villian ladies who appear in tokusatsu shows or what!?
+That face she made was definitely on purpose! Is she one of those cute villain ladies who appear in tokusatsu or what!?
 
 In any case, there are outfits for us too, so it’d be a waste not to wear them, wouldn’t it?
 
@@ -677,9 +681,9 @@ I love you guys so much! But it’s because I love you that I shouldn’t be car
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-that's right, chiaki~
+that’s right, chiaki~
 
-if you get too involved with the aquarium's [fish], then they, like the [children], will die by the [stress]. we should only be watching from afar.
+if you get too involved with the aquarium’s [fish], then they, like the [children], will die by the [stress]. we should only be watching from afar.
 {% endbubble %}
 
 {% bubble Kanata smile3 %}
@@ -879,13 +883,13 @@ The great nature that grows infinitely! Ryusei Green, Takamine Midori…!
 {% bubble Chiaki smile3 %}
 <th>(Takamine.)</th>
 
-<th>(Ahaha, you finally properly introduced yourself… Even though you had always said it was too embarrassing and you didn’t get it… You whined that you didn't want to do it, only doing it as you pleased…)</th>
+<th>(Ahaha, you finally properly introduced yourself… Even though you always said it was too embarrassing and you didn’t get it… You whined that you didn't want to do it, only doing it as you pleased…)</th>
 
 <th>(So that's your answer, Takamine. Ahh, I'm glad. I'm so relieved.)</th>
 {% endbubble %}
 
 {% bubble Chiaki cry %}
-<th>(Ahaha… No good, I really didn't want to cry until after graduation, not in front of the kids at least… But my vision is blurring already.)</th>
+<th>(Ahaha… No good, I really didn't want to cry until after graduation, not in front of the kids at least… But my vision is getting blurry already.)</th>
 {% endbubble %}
 
 {% bubble Midori frown %}

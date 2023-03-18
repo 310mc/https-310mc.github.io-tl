@@ -288,7 +288,7 @@ For the first half, we perform on one of the stages in the academy.
 
 Then, any unit that earns a lotta votes get to participate in the second half of the festival.
 
-Ryuseitai has a lotta loyal fans, and we got a pretty good score in the preliminary Chocolat Festival, so…
+Ryuseitai has a lotta loyal fans, and we got a pretty good score in the preliminary Chocolat Fes, so…
 
 We should be able to perform our live in the grand auditorium.
 
@@ -406,7 +406,7 @@ Is… Is it okay if I leave for a moment when I have time off from work…?
 {% bubble Chiaki grin %}
 Good morning!
 
-Excuse me, I’d like vegetables! Anything is fine, so long as it isn't eggplants!
+Excuse me, I’d like vegetables! Anything is fine, as long as it isn't eggplants!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -462,7 +462,7 @@ Mhm, so it seems. I talk to your parents often, so I’m aware of that.
 
 For better or for worse, you really do have normal parents.
 
-So when trying to explain to them that their son is now an idol and has gotten fairly popular, it doesn’t really seem to sink in for them.
+So when trying to explain to them that their son is now an idol who’s gotten fairly popular, it doesn’t really seem to sink in for them.
 
 My parents are the same. When I tell them that I've got a lot of jobs going on and that it's a lot of hard work, they always reply with something like “Look at you, sounding like an adult! ♪”
 
@@ -600,7 +600,7 @@ It exists so that, together, we can climb up to a place we wouldn’t be able to
 {% endbubble %}
 
 {% bubble Chiaki smile2 %}
-I'm not a genius like Kanata. But thanks to Ryuseitai — Thanks to everyone, I was able to make dreams come true.
+I'm not a genius like Kanata. But thanks to Ryuseitai — Thanks to everyone, I was able to make my dream come true.
 
 I won't frown down upon that. I’m thankful and proud of it.
 {% endbubble %}
