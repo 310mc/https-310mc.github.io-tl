@@ -381,7 +381,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Selfish Noble"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/2918.html" class="storyName" target="_blank">
+        <a href="/selfish_noble" class="storyName" target="_blank">
             <span>Selfish Noble</span>
             <span class="read"></span>
         </a>

@@ -258,7 +258,7 @@ Over here, over here! C'mon, Ryusetai’s up next, y'know~♪
 kaoru. …your eyes seem [red]. were you crying?
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru surprised %}
 Huh!? Why're you so sharp sometimes!? You’re usually a thickheaded alien, y'know!?
 
 I confessed to Anzu-chan knowing I’d be rejected, and lo and behold, I was~! So let me off, alright!?
@@ -296,11 +296,13 @@ You don’t have to thank me. You’re my friend, y'know?
 yes. …did everything go okay with souma? i am sorry for leaving you to [deal] with everything.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru frown %}
 Yeah. There was one point when it was a bit worrisome, but I think everything's okay for now.
 
 It seems like he got through the first part of the live safely, and now he and the other two from Akatsuki are going to peacefully have fun with the second part.
+{% endbubble %}
 
+{% bubble Kaoru v2 %}
 Heheh, Souma-kun is a real goody boy, after all. If he can’t be happy, nobody can.
 
 …Woops, looks like I’m off. My good pals are still overexcited, they’ve been prancing around even after our live’s been over.
@@ -322,7 +324,9 @@ Right then, bye bye. See you another time, Kanata-kun.
 
 {% bubble Kanata v2 %}
 yes, we will meet again somewhere, kaoru.
+{% endbubble %}
 
+{% bubble Kanata curious %}
 …chiaki. you were very [quiet] for once; are you tired?
 {% endbubble %}
 
