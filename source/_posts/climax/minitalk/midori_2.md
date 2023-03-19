@@ -1,5 +1,5 @@
 ---
-title: "Climax – Midori Produce Course: Path to Compassion"
+title: "Climax – Midori Produce Course: Path To Compassion"
 date: 2017/3/1 9:00:00
 categories:
 - [Enstars, Midori]
@@ -50,7 +50,7 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 
 
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_midori1_1.jpg %}
+{% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}
 {% bubble Midori %}
 You and Sengoku-kun were way too panicked…
 
@@ -102,7 +102,7 @@ And then even brought over some troublesome people…
             	{% bubble Midori %}
 							I feel frustrated that they saw such a miserable side of me…
 
-        But well, thanks to that, I got it all out of my system…/I got to say what I wanted to tell them…
+        But well, thanks to that, I got to say what I wanted to tell them and get it out of my system…
 
         I dunno if that's a good thing or bad thing, though…
 				{% endbubble %}
@@ -121,7 +121,7 @@ And then even brought over some troublesome people…
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_midori1_2.jpg %}
+{% img /img/es/eventstory/climax/minitalk_midori2_2.jpg %}
 {% bubble Midori %}
 Everyone is working hard in preparation for Repayment Festival, huh…
 
@@ -192,7 +192,7 @@ Ahh, please don't worry about me.
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_midori1_3.jpg %}
+{% img /img/es/eventstory/climax/minitalk_midori2_3.jpg %}
 {% bubble Midori %}
 Our seniors really will graduate, won't they…
 
@@ -262,4 +262,4 @@ But the reason we were able to remain as the five of us is also thanks to you, A
     </div>
 </div>
 <br>
-<div toc>{% btn /climax/minitalk/midori_1,, arrow-left, Midori Mini Talk: Novice Hero %}{% btn /climax,, star, Index %}</div>
+<div toc>{% btn /climax/minitalk/midori_1,, arrow-left, Midori Mini Talk: Novice Hero %}{% btn /minitalk/#Climax,, star, Index %}</div>

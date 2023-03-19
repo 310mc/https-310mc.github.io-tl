@@ -261,4 +261,4 @@ And Kanata and I will be able to graduate without any worries…☆
     </div>
 </div>
 <br>
-<div toc>{% btn /climax/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Tough Being a Parent %}{% btn /climax,, star, Index %}</div>
+<div toc>{% btn /climax/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Tough Being a Parent %}{% btn /minitalk/#Climax,, star, Index %}</div>

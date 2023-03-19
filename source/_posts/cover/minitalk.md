@@ -22,6 +22,54 @@ Mini Talk translations by 310mc.
 ### Climax
 
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Assuming_the_Spirit%29_Tetora_Nagumo_Frameless.png"
+            alt="As The Future Commander"
+        />
+    </div>
+    <a href="/climax/minitalk/tetora_1" class="storyName" target="_blank">
+        <span>1: As The Future Commander</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Assuming_the_Spirit%29_Tetora_Nagumo_Frameless_Bloomed.png"
+            alt="Fruits Of One's Efforts"
+        />
+    </div>
+    <a href="/climax/minitalk/tetora_2" class="storyName" target="_blank">
+        <span>2: Fruits Of One's Efforts</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Embracing_the_Hope%29_Shinobu_Sengoku_Frameless.png"
+            alt="Endurance Of A Shy Person"
+        />
+    </div>
+    <a href="/climax/minitalk/shinobu_1" class="storyName" target="_blank">
+        <span>1: Endurance Of A Shy Person</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Embracing_the_Hope%29_Shinobu_Sengoku_Frameless_Bloomed.png"
+            alt="Guiding Them To Hope"
+        />
+    </div>
+    <a href="/climax/minitalk/shinobu_2" class="storyName" target="_blank">
+        <span>2: Guiding Them To Hope</span>
+        <span class="read"></span>
+    </a>
+</div>
     <div class="story">
         <div class="image">
             <img
@@ -46,7 +94,33 @@ Mini Talk translations by 310mc.
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28Believing_the_Potential%29_Midori_Takamine_Frameless.png"
+                alt="Novice Hero"
+            />
+        </div>
+        <a href="/climax/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Novice Hero</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Believing_the_Potential%29_Midori_Takamine_Frameless_Bloomed.png"
+                alt="Path To Compassion"
+            />
+        </div>
+        <a href="/climax/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Path To Compassion</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
+
+<div>{% btn /climax,, star, Index %}</div>
 
 ### Shooting Star Festival
 

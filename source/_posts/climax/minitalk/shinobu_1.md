@@ -262,4 +262,4 @@ Anzu-dono! Please help me think of something~!
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Guiding Them To Hope %}</div>
+<div toc>{% btn /minitalk/#Climax,, star, Index %}{% btn /climax/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Guiding Them To Hope %}</div>

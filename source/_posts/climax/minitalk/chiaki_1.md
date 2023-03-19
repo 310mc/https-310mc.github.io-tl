@@ -267,4 +267,4 @@ Anzu, what do you want as your white day gift?
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Justice Will Prevail %}</div>
+<div toc>{% btn /minitalk/#Climax,, star, Index %}{% btn /climax/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Justice Will Prevail %}</div>

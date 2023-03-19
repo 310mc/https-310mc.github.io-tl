@@ -262,4 +262,4 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/midori_2,, arrow-right, Midori Mini Talk: Path to Compassion %}</div>
+<div toc>{% btn /minitalk/#Climax,, star, Index %}{% btn /climax/minitalk/midori_2,, arrow-right, Midori Mini Talk: Path To Compassion %}</div>

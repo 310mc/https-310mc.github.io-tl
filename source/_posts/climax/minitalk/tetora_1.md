@@ -268,4 +268,4 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
     </div>
 </div>
 <br>
-<div toc>{% btn /climax,, star, Index %}{% btn /climax/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Fruits Of One's Efforts %}</div>
+<div toc>{% btn /minitalk/#Climax,, star, Index %}{% btn /climax/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Fruits Of One's Efforts %}</div>

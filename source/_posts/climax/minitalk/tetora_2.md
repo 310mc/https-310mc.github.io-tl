@@ -50,7 +50,7 @@ description: "[ES!] Translation of Tetora's second Produce Course from Climax. F
 
 
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_tetora1_1.jpg %}
+{% img /img/es/eventstory/climax/minitalk_tetora2_1.jpg %}
 {% bubble Tetora %}
 I went too far the other day… I need to reflect on myself…
 
@@ -121,7 +121,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_tetora1_2.jpg %}
+{% img /img/es/eventstory/climax/minitalk_tetora2_2.jpg %}
 {% bubble Tetora %}
 We're gonna get to perform in the auditorium for Repayment Festival!
 
@@ -192,7 +192,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_tetora1_3.jpg %}
+{% img /img/es/eventstory/climax/minitalk_tetora2_3.jpg %}
 {% bubble Tetora %}
 I'm super indebted to Shinkai-senpai and Taichou!
 
@@ -262,4 +262,4 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
     </div>
 </div>
 <br>
-<div toc>{% btn /climax/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: As The Future Commander %}{% btn /climax,, star, Index %}</div>
+<div toc>{% btn /climax/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: As The Future Commander %}{% btn /minitalk/#Climax,, star, Index %}</div>

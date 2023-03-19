@@ -578,8 +578,8 @@ permalink: climax/
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="NOTRANSLATON" id="none">Part One</a>
-                            <a href="NOTRANSLATON" id="none">Part Two</a>
+                            <a href="minitalk/tetora_1" id="none">Part One</a>
+                            <a href="minitalk/tetora_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -587,8 +587,8 @@ permalink: climax/
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">Part One</a>
-                            <a href="NOTRANSLATION" id="none">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="none">Part One</a>
+                            <a href="minitalk/shinobu_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -605,8 +605,8 @@ permalink: climax/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">Part One</a>
-                            <a href="NOTRANSLATION" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="none">Part One</a>
+                            <a href="minitalk/midori_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

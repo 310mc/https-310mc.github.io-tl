@@ -50,7 +50,7 @@ description: "[ES!] Translation of Shinobu's second Produce Course from Climax. 
 
 
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_1.jpg %}
+{% img /img/es/eventstory/climax/minitalk_shinobu2_1.jpg %}
 {% bubble Shinobu %}
 Personally, I want to participate in Repayment Festival, no matter what…
 
@@ -121,7 +121,7 @@ I want to show them we've grown so that they can graduate without any fear…!
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_2.jpg %}
+{% img /img/es/eventstory/climax/minitalk_shinobu2_2.jpg %}
 {% bubble Shinobu frown %}
 On that day, I tried to catch up to my seniors as soon as possible, but I failed to…
 
@@ -192,7 +192,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_3.jpg %}
+{% img /img/es/eventstory/climax/minitalk_shinobu2_3.jpg %}
 {% bubble Shinobu %}
 I was worried what would happen for a while, but it seems like we will be able to get through today~♪
 
@@ -262,4 +262,4 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
     </div>
 </div>
 <br>
-<div toc>{% btn /climax/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: Endurance Of A Shy Person %}{% btn /climax,, star, Index %}</div>
+<div toc>{% btn /climax/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: Endurance Of A Shy Person %}{% btn /minitalk/#Climax,, star, Index %}</div>
