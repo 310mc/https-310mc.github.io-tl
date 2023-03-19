@@ -197,4 +197,4 @@ Eep—! What's with this giant on the screen…? There's a few characters carryi
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/minitalk/midori_2,, arrow-right, Midori Mini Talk: Eeeggy-eggy-eggyplant %}</div>
+<div toc>{% btn /minitalk/#Ninja-Clan,, star, Index %}{% btn /ninja_clan/minitalk/midori_2,, arrow-right, Midori Mini Talk: Eeeggy-eggy-eggyplant %}</div>

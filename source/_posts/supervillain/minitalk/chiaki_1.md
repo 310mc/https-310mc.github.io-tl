@@ -199,4 +199,4 @@ Heheh, Anzu, you also seem happy after a full meal! It's really such a fortunate
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Path of a Hero Turning Evil %}</div>
+<div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Path of a Hero Turning Evil %}</div>

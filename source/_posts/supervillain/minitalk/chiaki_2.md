@@ -197,4 +197,4 @@ I wanted to hear your thoughts on it as well, so that it may help me with prepar
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Hungry Hero %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Hungry Hero %}{% btn /minitalk/#Supervillain,, star, Index %}</div>

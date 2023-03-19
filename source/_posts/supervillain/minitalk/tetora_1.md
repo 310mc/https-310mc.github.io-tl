@@ -197,4 +197,4 @@ Ryuseitai-N will disband soon, but I'd like to give my juniors one last practice
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Unaligned Feelings %}</div>
+<div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Unaligned Feelings %}</div>

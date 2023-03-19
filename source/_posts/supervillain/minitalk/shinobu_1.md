@@ -197,4 +197,4 @@ I very much appreciate you doing so, but I feel bad that we made you worry this 
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Preparing For The Mission %}</div>
+<div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Preparing For The Mission %}</div>

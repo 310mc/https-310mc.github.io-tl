@@ -199,4 +199,4 @@ But I feel like we got a lot out of it. We'll get to have a lot of fun watching 
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/midori_2,, arrow-right, Midori Mini Talk: Work, work, work %}</div>
+<div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/midori_2,, arrow-right, Midori Mini Talk: Work, work, work %}</div>

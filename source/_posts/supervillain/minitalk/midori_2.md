@@ -197,4 +197,4 @@ Either way, thank you so much for hearing me out, Anzu-san.
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/midori_1,, arrow-left, Midori Mini Talk: Recommendation %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/midori_1,, arrow-left, Midori Mini Talk: Recommendation %}{% btn /minitalk/#Supervillain,, star, Index %}</div>

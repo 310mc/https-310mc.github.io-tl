@@ -197,4 +197,4 @@ Take care while watching over the place. Aight then, I'll see you—
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: The Planning Of That Show %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: The Planning Of That Show %}{% btn /minitalk/#Supervillain,, star, Index %}</div>

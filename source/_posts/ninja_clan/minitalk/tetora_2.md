@@ -197,4 +197,4 @@ I know exactly how much heart and soul he put into it, so I wanna do whatever I 
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: Thrilling Gameplay %}{% btn /ninja_clan,, star, Index %}</div>
+<div toc>{% btn /ninja_clan/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: Thrilling Gameplay %}{% btn /minitalk/#Ninja-Clan,, star, Index %}</div>

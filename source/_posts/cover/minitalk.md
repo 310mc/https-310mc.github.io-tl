@@ -120,7 +120,7 @@ Mini Talk translations by 310mc.
     </div>
 </div>
 
-<div>{% btn /climax,, star, Index %}</div>
+<div style="margin-top:10px">{% btn /climax,, star, Index %}</div>
 
 ### Shooting Star Festival
 
@@ -206,6 +206,8 @@ Mini Talk translations by 310mc.
     </div>
 </div>
 
+<div style="margin-top:10px">{% btn /comet_show,, star, Index %}</div>
+
 ### Submarine
 
 <div class="stories">
@@ -260,6 +262,8 @@ Mini Talk translations by 310mc.
         </a>
     </div>
     -->
+
+<div style="margin-top:10px">{% btn /submarine,, star, Index %}</div>
 
 ### Ninja Clan
 
@@ -337,6 +341,8 @@ Mini Talk translations by 310mc.
         </a>
     </div>
 </div>
+
+<div style="margin-top:10px">{% btn /ninja_clan,, star, Index %}</div>
 
 ### Supervillain
 
@@ -462,3 +468,5 @@ Mini Talk translations by 310mc.
         </a>
     </div>
 </div>
+
+<div style="margin-top:10px">{% btn /supervillain,, star, Index %}</div>

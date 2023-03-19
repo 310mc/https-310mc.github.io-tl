@@ -199,4 +199,4 @@ I can tell he's enjoying himself a lot right now. I'm so glad you were here for 
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: An Invasion from a Formidable Enemy %}{% btn /ninja_clan,, star, Index %}</div>
+<div toc>{% btn /ninja_clan/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: An Invasion from a Formidable Enemy %}{% btn /minitalk/#Ninja-Clan,, star, Index %}</div>

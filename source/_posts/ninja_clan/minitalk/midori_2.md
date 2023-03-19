@@ -201,7 +201,7 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan/minitalk/midori_1,, arrow-left, Midori Mini Talk: Relaxing Gameplay %}{% btn /ninja_clan,, star, Index %}</div>
+<div toc>{% btn /ninja_clan/minitalk/midori_1,, arrow-left, Midori Mini Talk: Relaxing Gameplay %}{% btn /minitalk/#Ninja-Clan,, star, Index %}</div>
 
 ## Translation Notes
 

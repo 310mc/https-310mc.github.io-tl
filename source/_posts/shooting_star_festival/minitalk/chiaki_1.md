@@ -257,4 +257,4 @@ That’s true. It’s exactly as you say!
     </div>
 </div>
 <br>
-<div toc>{% btn /shooting_star_festival,, star, Index %}{% btn /shooting_star_festival/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Festival's Hero %}</div>
+<div toc>{% btn /minitalk/#Shooting-Star-Festival,, star, Index %}{% btn /shooting_star_festival/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Festival's Hero %}</div>

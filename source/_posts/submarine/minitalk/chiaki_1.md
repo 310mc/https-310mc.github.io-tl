@@ -204,4 +204,4 @@ Nagumo, have you heard anything from Kanata? Or if you've seen him head off to t
     </div>
 </div>
 <br>
-<div toc>{% btn /submarine,, star, Index %}{% btn /submarine/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Troubled Hero %}</div>
+<div toc>{% btn /minitalk/#Submarine,, star, Index %}{% btn /submarine/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Troubled Hero %}</div>

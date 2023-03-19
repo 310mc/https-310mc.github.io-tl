@@ -197,4 +197,4 @@ However, I do tend to feel like going to places that are used for historical dra
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: What An Evil Ninja Is %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: What An Evil Ninja Is %}{% btn /minitalk/#Supervillain,, star, Index %}</div>

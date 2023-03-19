@@ -197,4 +197,4 @@ Heroes grow stronger the more powerful the adversary! I'll make sure to overcome
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Sightseeing the Historical Village %}</div>
+<div toc>{% btn /minitalk/#Ninja-Clan,, star, Index %}{% btn /ninja_clan/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Sightseeing the Historical Village %}</div>

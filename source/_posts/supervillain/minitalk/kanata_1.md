@@ -197,4 +197,4 @@ ah, but it would probably be painful to do that in a [cold] place with [drift ic
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain,, star, Index %}{% btn /supervillain/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: sea crook %}</div>
+<div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: sea crook %}</div>

@@ -197,4 +197,4 @@ We'll have to end it here for today, but I'd love to play with you again sometim
     </div>
 </div>
 <br>
-<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: I Don't Get It %}</div>
+<div toc>{% btn /minitalk/#Ninja-Clan,, star, Index %}{% btn /ninja_clan/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: I Don't Get It %}</div>

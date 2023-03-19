@@ -261,4 +261,4 @@ Let's see… "I'm wishing you the best, Chiaki-kun"… "I love you, Chiaki-kun!"
     </div>
 </div>
 <br>
-<div toc>{% btn /comet_show/minitalk/midori_1,, arrow-left, Midori Mini Talk: Worrisome Days %}{% btn /comet_show,, star, Index %}</div>
+<div toc>{% btn /comet_show/minitalk/midori_1,, arrow-left, Midori Mini Talk: Worrisome Days %}{% btn /minitalk/#Comet-Show,, star, Index %}</div>

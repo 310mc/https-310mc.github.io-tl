@@ -197,4 +197,4 @@ i am not particularly [worried] about us being separated, but it is lonely not [
     </div>
 </div>
 <br>
-<div toc>{% btn /supervillain/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: planning a trip %}{% btn /supervillain,, star, Index %}</div>
+<div toc>{% btn /supervillain/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: planning a trip %}{% btn /minitalk/#Supervillain,, star, Index %}</div>

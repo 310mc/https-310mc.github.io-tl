@@ -203,4 +203,4 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
     </div>
 </div>
 <br>
-<div toc>{% btn /submarine/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Okinawa Red! %}{% btn /submarine,, star, Index %}</div>
+<div toc>{% btn /submarine/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Okinawa Red! %}{% btn /minitalk/#Submarine,, star, Index %}</div>

@@ -261,4 +261,4 @@ I didn't think I needed it at first, 'cause I don't want too many people knowing
     </div>
 </div>
 <br>
-<div toc>{% btn /comet_show,, star, Index %}{% btn /comet_show/minitalk/midori_2,, arrow-right, Midori Mini Talk: Topics About That Guy %}</div>
+<div toc>{% btn /minitalk/#Comet-Show,, star, Index %}{% btn /comet_show/minitalk/midori_2,, arrow-right, Midori Mini Talk: Topics About That Guy %}</div>
