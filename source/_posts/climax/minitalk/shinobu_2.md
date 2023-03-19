@@ -6,42 +6,41 @@ categories:
 tags:
 - Mini Talk
 description: "[ES!] Translation of Shinobu's second Produce Course from Climax. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
-                <div class="label">
-                    Mini talk
-                </div>
-                <div class="value">
+          <div class="label">
+              Mini talk
+          </div>
+          <div class="value">
 								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                </div>
+          </div>
             </div>
             <div class="info-item one">
-                <div class="label">
-                    Point of View
-                </div>
-                <div class="value">
-                    Anzu
-                </div>
+          <div class="label">
+              Point of View
+          </div>
+          <div class="value">
+              Anzu
+          </div>
             </div>
             <div class="info-item two">
-                <div class="label">
-                    Translation
-                </div>
-                <div class="value">
-                    <a href="/about">310mc</a>
-                </div>
+          <div class="label">
+              Translation
+          </div>
+          <div class="value">
+              <a href="/about">310mc</a>
+          </div>
             </div>
             <div class="info-item three">
-                <div class="label">
-                   Story
-                </div>
-                <div class="value">
-                    <a href="/climax">Climax</a>
-                </div>
+          <div class="label">
+             Story
+          </div>
+          <div class="value">
+              <a href="/climax">Climax</a>
+          </div>
             </div>
         </div>
     </div>
@@ -53,13 +52,17 @@ hidden: true
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_1.jpg %}
 {% bubble Shinobu %}
-hgjgj
+Personally, I want to participate in Repayment Festival, no matter what…
+
+I want to reassure Taichou-dono and Shinkai-dono before they graduate.
+
+I want to show them we've grown so that they can graduate without any fear…!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            gfhfh
+            Let's do our best.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -68,19 +71,27 @@ hgjgj
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Shinobu %}
-							ghfh
+							You also believe we will be fine…? ♪
+
+        Exactly! We haven't been active in Ryuseitai just for show.
+
+        We shall get through this together, even without Taichou-dono's help!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Shinobu %}
-							sdf
+							Will we really be able to participate…?
+
+        No, I mustn't lose heart. In the worst case, I shall participate all on my own, if nothing else.
+
+        …Nay, I much rather participate with all three of us~!
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdf
+            I wonder how it'll go…
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -89,12 +100,20 @@ hgjgj
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Shinobu %}
-							sfsf
+							Mm… I assume Tetora-kun and Midori-kun feel the same.
+
+        But it feels like neither know how to bring the topic up, and that is why things have been awkward.
+
+        I have to be the one to bring the topic up…!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Shinobu %}
-							sfdf
+							…P-Please just say that it'll be okay!
+
+        A producer mustn't say something so concerning~!
+
+        We *will* participate! Our feelings are one and the same…!
 				{% endbubble %}
 			</div>
         </div>
@@ -103,14 +122,18 @@ hgjgj
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_2.jpg %}
-{% bubble Shinobu %}
-fdg
+{% bubble Shinobu frown %}
+On that day, I tried to catch up to my seniors as soon as possible, but I failed to…
+
+It really reminded me just how little stamina I have.
+
+I was trying my best to build my stamina up, but it appears that it wasn't enough!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            fdgd
+            Hmmm…
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -119,19 +142,27 @@ fdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Shinobu %}
-							dggd
+							I have the impression that you're growing a lot due to how producing works…
+
+        Hmm, I shall learn from you and move around much more!
+
+        Having stamina is fundamental as an idol, too~♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Shinobu %}
-							dfgdg
+							My seniors were simply just too fast…?
+
+        I suppose you are correct…
+
+        But in that case, I would like to work hard so that I do not fall behind them.
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            ddg
+            You're doing fine.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -140,12 +171,20 @@ fdg
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Shinobu %}
-							dfgfd
+							You believe that I've built more stamina?
+
+        I'm so happy to hear that from you, the producer…♪
+
+        Then I shall do my best to build up some more!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Shinobu %}
-							dgfdfg
+							Huh!? It is alright because I'm still young…?
+
+        We are only a year apart, you know?
+
+        Please don't act much more mature than me, like Tetora-kun did\~! Don't leave me behind\~!
 				{% endbubble %}
 			</div>
         </div>
@@ -155,13 +194,17 @@ fdg
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_3.jpg %}
 {% bubble Shinobu %}
-fdgdg
+I was worried what would happen for a while, but it seems like we will be able to get through today~♪
+
+Tetora-kun does not seem to be in top-shape, so I am a little concerned about him…
+
+But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            dfgdg
+            You really are the Yellow of a sentai squad.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -170,19 +213,27 @@ fdgdg
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Shinobu %}
-							fdgdgdg
+							Do you think so, Anzu-dono? I'm so happy!
+
+        The yellow color in sentai squads is the one who livens the mood~♪
+
+        I shall do my utmost best to be that for Ryuseitai…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Shinobu %}
-							dgdgdg
+							I *am* Ryusei Yellow, after all!
+
+        I am doing my best to be the positive character at all times!
+
+        However, perhaps I should be much more sensitive and sentimental this time…?
 				{% endbubble %}
 			</div>
         </div>
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            dgdg
+            How exciting!
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -191,12 +242,20 @@ fdgdg
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Shinobu %}
-							dfgdg
+							Heh! Of course!
+
+        If we don't enjoy ourselves, neither will our fans.
+
+        Even if our members have decreased, we shall show them what Ryuseitai is all about!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Shinobu %}
-							dfgdg
+							W-What's the matter, Anzu-dono?
+
+        You have such a suspicious-looking grin on your face!
+
+        First the seniors, and now you — What is everyone scheming~!?
 				{% endbubble %}
 			</div>
         </div>

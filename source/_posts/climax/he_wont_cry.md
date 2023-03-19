@@ -149,7 +149,7 @@ I don’t get you… What did you want, anyway…?
 I doubt you have any interest in me… I know we’re in the same club, but we haven’t really ever talked to each other, have we…?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Mm\~… That’s ‘cause ever since you came to school, Chiaki\~chan-senpai’s only had his eyes on you, soo\~
 
 Maaaybe I’m a little jealous or something…♪
@@ -382,13 +382,13 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 {% endbubble %}
 
 {% bubble Midori idle %}
-<th>(………)</th>
+<th>(…………)</th>
 
 <th>(Morisawa-senpai.)</th>
 
 <th>(What’s wrong?)</th>
 
-<th>(You’re always smiling and laughing, while yelling about stuff that makes no sense… You’re always over-enthusiastic and constantly bothering everyone with everything you do, aren’t you…?)</th>
+<th>(You’re always smiling and laughing, while yelling about stuff that makes no sense… You’re over-enthusiastic and constantly bothering everyone with everything you do, aren’t you…?)</th>
 
 <th>(It’s not like you to sob like that… You know that, right, Senpai?)</th>
 {% endbubble %}

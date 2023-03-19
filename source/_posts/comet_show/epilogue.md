@@ -94,7 +94,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 {% endbubble %}
 {% bubble Tetora v2 %}
-? What’s wrong, Shinkai-senpai? This is meant to be the grand finale for you seniors—It’s the last time we’ll get to see you perform at your best in Ryuseitai, so we wanna hype you up.
+…? What’s wrong, Shinkai-senpai? This is meant to be the grand finale for you seniors—It’s the last time we’ll get to see you perform at your best in Ryuseitai, so we wanna hype you up.
 
 {% endbubble %}
 {% bubble Shinobu v2 %}
