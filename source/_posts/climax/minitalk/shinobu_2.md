@@ -51,7 +51,7 @@ description: "[ES!] Translation of Shinobu's second Produce Course from Climax. 
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_shinobu2_1.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu sad2 %}
 Personally, I want to participate in Repayment Festival, no matter what…
 
 I want to reassure Taichou-dono and Shinkai-dono before they graduate.
@@ -70,7 +70,7 @@ I want to show them we've grown so that they can graduate without any fear…!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							You also believe we will be fine…? ♪
 
         Exactly! We haven't been active in Ryuseitai just for show.
@@ -79,7 +79,7 @@ I want to show them we've grown so that they can graduate without any fear…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu sad %}
 							Will we really be able to participate…?
 
         No, I mustn't lose heart. In the worst case, I shall participate all on my own, if nothing else.
@@ -99,7 +99,7 @@ I want to show them we've grown so that they can graduate without any fear…!
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Mm… I assume Tetora-kun and Midori-kun feel the same.
 
         But it feels like neither know how to bring the topic up, and that is why things have been awkward.
@@ -108,7 +108,7 @@ I want to show them we've grown so that they can graduate without any fear…!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu sad %}
 							…P-Please just say that it'll be okay!
 
         A producer mustn't say something so concerning~!
@@ -141,7 +141,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							I have the impression that you're growing a lot due to how producing works…
 
         Hmm, I shall learn from you and move around much more!
@@ -150,7 +150,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu sad3 %}
 							My seniors were simply just too fast…?
 
         I suppose you are correct…
@@ -170,7 +170,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							You believe that I've built more stamina?
 
         I'm so happy to hear that from you, the producer…♪
@@ -179,7 +179,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu worried %}
 							Huh!? It is alright because I'm still young…?
 
         We are only a year apart, you know?
@@ -193,7 +193,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_shinobu2_3.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 I was worried what would happen for a while, but it seems like we will be able to get through today~♪
 
 Tetora-kun does not seem to be in top-shape, so I am a little concerned about him…
@@ -212,7 +212,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Do you think so, Anzu-dono? I'm so happy!
 
         The yellow color in sentai squads is the one who livens the mood~♪
@@ -221,7 +221,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu smug %}
 							I *am* Ryusei Yellow, after all!
 
         I am doing my best to be the positive character at all times!
@@ -241,7 +241,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Heh! Of course!
 
         If we don't enjoy ourselves, neither will our fans.
@@ -250,7 +250,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu surprised %}
 							W-What's the matter, Anzu-dono?
 
         You have such a suspicious-looking grin on your face!

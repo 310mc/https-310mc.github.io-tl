@@ -51,11 +51,13 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}
-{% bubble Midori %}
+{% bubble Midori sigh2 %}
 You and Sengoku-kun were way too panicked…
 
 You just ran off out of nowhere.
+{% endbubble %}
 
+{% bubble Midori angry %}
 And then even brought over some troublesome people…
 {% endbubble %}
 
@@ -70,7 +72,7 @@ And then even brought over some troublesome people…
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori worried %}
 							Ah— I'm sorry… I went too far.
 
         I can't believe I said that when you're just so worried for me…
@@ -79,7 +81,7 @@ And then even brought over some troublesome people…
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori awkward %}
 							Ah— Um… Please don't worry about it, Anzu-san.
 
         I know both of you were just worried for me, and that's why you went and called for them…
@@ -91,7 +93,7 @@ And then even brought over some troublesome people…
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            Was it a nuisance?
+            Were we a nuisance?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -99,20 +101,22 @@ And then even brought over some troublesome people…
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
-							I feel frustrated that they saw such a miserable side of me…
-
-        But well, thanks to that, I got to say what I wanted to tell them and get it out of my system…
+            	{% bubble Midori sad2 %}
+							I feel frustrated that everyone saw such a miserable side of me…
+              {% endbubble %}
+              {% bubble Midori serious %}
+        But well, thanks to that, I got to say what I wanted to tell everyone and get it out of my system…
 
         I dunno if that's a good thing or bad thing, though…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
-							I feel like I had to face this head on no matter what this time around, but…
+            	{% bubble Midori sad %}
+							I feel like I just *had* to face this head on no matter what this time around, but…
 
         I really don't ever wanna go through this again.
-
+        {% endbubble %}
+        {% bubble Midori smile5 %}
         So I'm glad everyone came over.
 				{% endbubble %}
 			</div>
@@ -122,7 +126,7 @@ And then even brought over some troublesome people…
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_midori2_2.jpg %}
-{% bubble Midori %}
+{% bubble Midori idle %}
 Everyone is working hard in preparation for Repayment Festival, huh…
 
 All for the sake of conveying their gratitude through their performance…
@@ -141,7 +145,7 @@ Ahh, please don't worry about me.
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori smile4 %}
 							Yeah, about that…
 
         I plan to just support them as a fan this time.
@@ -150,7 +154,7 @@ Ahh, please don't worry about me.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori frown %}
 							It's too late by now…
 
         I'm sure they're both sick of me at this point, anyway.
@@ -162,7 +166,7 @@ Ahh, please don't worry about me.
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            Will you do something from hereon?
+            Will you do something from now?
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -170,16 +174,17 @@ Ahh, please don't worry about me.
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
-							I'm gonna go back home now…
+            	{% bubble Midori curious %}
+							I'm gonna go back home now, but why do you ask…?
 
-        Are you asking me if I'd like to peek at a Ryuseitai practice session with you?
-
-        How on earth do you expect me to see those two after everything…?
+        You'd like me to peek at a Ryuseitai practice session with you…?
+        {% endbubble %}
+        {% bubble Midori sad2 %}
+        …How on earth do you expect me to see those two after everything…?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori smile3 %}
 							Yes, I have to help my family after this.
 
         Everyone in the shopping district is preparing their stalls for the day of Repayment Festival.
@@ -193,11 +198,13 @@ Ahh, please don't worry about me.
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_midori2_3.jpg %}
-{% bubble Midori %}
+{% bubble Midori thinking2 %}
 Our seniors really will graduate, won't they…
 
 A lot has happened the past year…
+{% endbubble %}
 
+{% bubble Midori smile4 %}
 But the reason we were able to remain as the five of us is also thanks to you, Anzu-san.
 {% endbubble %}
 
@@ -212,16 +219,17 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori worried %}
 							Whaa, *that's* what made you cry…!?
-
+              {% endbubble %}
+              {% bubble Midori smile5 %}
         I don't want to see anyone's tears ever again.
 
         So please smile, Anzu-san…♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori worried %}
 							No, no, I'm the one who's grateful.
 
         So please don't bow your head, Anzu-san…!
@@ -241,7 +249,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
+            	{% bubble Midori blush2 %}
 							Bonds…?
 
         That makes me feel a bit embarrassed somehow.
@@ -250,9 +258,10 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori grin2 %}
 							Of course! They're my comrades who fought alongside me for a whole year!
-
+              {% endbubble %}
+              {% bubble Midori sigh2 %}
         —I bet that's what Morisawa-senpai would say…
 
         Something must be wrong with me if I really imitated Morisawa-senpai of all people…

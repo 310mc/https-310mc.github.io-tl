@@ -52,10 +52,10 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Climax. Fr
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Anzu! What’s up? What are you doing here?
 
-O*ho*, have you come to see the gallant figure of this basketball captain?
+O*ho*, have you come to see the gallant figure of the basketball captain?
 
 This may be your last chance, so let it imprint right into your very eyes…☆
 {% endbubble %}
@@ -63,7 +63,7 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s not why I’m here.
+            That isn’t why I’m here.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -71,16 +71,16 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
-              Mmhm, I understand completely. You’re embarrassed, aren’t you?
+            	{% bubble Chiaki grin %}
+              Mhm, mhm, I understand completely. You’re embarrassed, aren’t you?
 
               …Woah!? Why’re you hitting me without saying anything!?
 
-              Fuhaha! you really are like a tomboy! ☆
+              Fuhaha! You really are like a tomboy! ☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki v2 %}
               Mhm, you were looking for Akehoshi for something, I see.
 
               He’s gone to buy himself a drink, so he isn’t here.
@@ -100,16 +100,16 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki smug %}
               So that’s it, I see, I see!
 
-              But there’s no reason to feel lonely—This is no eternal parting!
+              But there’s no reason to feel lonely — This is no eternal parting!
 
-              Alright! I’m going to hug you tightly with all my thanks for everything!
+              Alright! I’m going to hug you tightly with all my gratitude for everything you've done! ☆
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki sad2 %}
               M-Mmm… Please don’t take what I said so seriously.
 
               I did say it lightly, but—… I’m sorry about that.
@@ -125,10 +125,12 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ooh, Anzu! You're here at just the right time!
+{% endbubble %}
 
-Truth is, I was on my way to the Student Council Office with Kanata, but we strayed off somewhere in the middle…
+{% bubble Chiaki frown %}
+The truth is, I was on my way to the Student Council office with Kanata, but we strayed off somewhere in the middle…
 
 Have you seen him anywhere?
 {% endbubble %}
@@ -144,7 +146,7 @@ Have you seen him anywhere?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki v2 %}
               I see. Just where did he go off to?
 
               …Oh, the figure I see over there looks to be Kanata?
@@ -153,7 +155,7 @@ Have you seen him anywhere?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki thinking %}
               Ahh, honestly, I can’t take my eyes off of him for one second.
 
               Oh well, if I wait here at the corridor, we’ll surely meet each other again.
@@ -173,7 +175,7 @@ Have you seen him anywhere?
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki v2 %}
               Ooh, so that’s where he was. Seems like he’s talking to someone.
 
               I’m glad I got to find him without too much trouble, and it’s all thanks to you.
@@ -182,10 +184,10 @@ Have you seen him anywhere?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki surprised %}
               Hmmm? Is he looking through the window…?
 
-              If I remember clearly, you can see the fountain from that window, right? Honestly, he can be troublesome when it comes to this.
+              Oh right, you can see the fountain from that window, right? He can really be troublesome when it comes to this.
 
               …Woah!! I think he’s planning to dive in from here!! I-I’m going to go stop him…!!
 				{% endbubble %}
@@ -198,7 +200,7 @@ Have you seen him anywhere?
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_3.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking2 %}
 Huh, there really are heart-shaped ornaments wherever you go…
 
 Oh right, it’s going to be white day soon. I almost forgot!
@@ -217,7 +219,7 @@ Anzu, what do you want as your white day gift?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki frown %}
               Hmmm, so you want work. But Ryuseitai has nothing going on right now…
 
               And I’ve left Repayment Festival to the kids, since it's junior-focused…
@@ -226,7 +228,7 @@ Anzu, what do you want as your white day gift?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki grin %}
               Hahaha, you really do love work, don’t you! ☆
 
               But sadly, there’s nothing I’m doing for my unit right now.
@@ -246,7 +248,7 @@ Anzu, what do you want as your white day gift?
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki sad %}
               There’s nothing you specifically want, huh…
 
               But I won’t be satisfied with that.
@@ -255,8 +257,8 @@ Anzu, what do you want as your white day gift?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
-              Hm, the thought… That’s going to be tricky.
+            	{% bubble Chiaki v2 %}
+              Hm, the thought… That’s tricky somehow.
 
               But letting your feelings be known *is* the most important thing!
 

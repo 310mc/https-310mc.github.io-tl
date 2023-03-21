@@ -51,7 +51,7 @@ description: "[ES!] Translation of Shinobu's first Produce Course from Climax. F
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_1.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Anzu-dono\~ Good morning\~☆
 
 Mm, I'm helping Isara-dono with Student Council work.
@@ -70,16 +70,16 @@ I'd do whatever I can for Isara-dono's sake! ♪
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
-							I'm happy you'd like to help!
+            	{% bubble Shinobu angry2 %}
+							I'm happy you'd like to help, but…!
 
-        But I must work hard on my own, for the sake of maintaining the Ninja Association…!
+        I must work hard on my own, for the sake of maintaining the Ninja Association…!
 
         So please do watch over me for now.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu blush %}
 							R-Really? I'd love that!
 
         To be honest, I was not sure if I could accomplish this task on my own…
@@ -99,7 +99,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu sad %}
 							*Sigh…* Actually, my task is to search for someone, but I cannot find them.
 
         …Huh? They're taking a break today? *That's* why I could not find them, huh?
@@ -108,7 +108,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Not at all. There's nothing I cannot accomplish! ♪
 
         I cannot keep depending on you for everything, Anzu-dono.
@@ -122,7 +122,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_2.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu sad3 %}
 There hasn't been any Ryuseitai activities lately, so I haven't been seeing Tetora-kun and Midori-kun as much…
 
 Our classes are different too, so at most, we just phone call or spot each other on the corridors.
@@ -141,7 +141,7 @@ Are they both coming to school every day…?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu sad2 %}
 							Mmm… I've been avoiding doing so as my reason to see them is far too trivial, so I would only bother them…
 
         But I don't want to be incapable of talking to them ever again…!
@@ -150,7 +150,7 @@ Are they both coming to school every day…?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu frown %}
 							I'm very shy, but I did try to build up the courage to visit them the other day.
 
         But neither were there…! I wasted my effort…
@@ -170,7 +170,7 @@ Are they both coming to school every day…?
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Hmm, you're looking for them, too?
 
         If you'd like, how about we search for them together?
@@ -179,7 +179,7 @@ Are they both coming to school every day…?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu surprised %}
 							So they really haven't been showing up in school!? I wonder what happened…
 
         Huh? That was a lie?
@@ -193,7 +193,7 @@ Are they both coming to school every day…?
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_3.jpg %}
-{% bubble Shinobu %}
+{% bubble Shinobu thinking %}
 Hmm~ I'm wondering what to give my classmates for White Day…
 
 I'd like to prepare something before the day comes…
@@ -212,7 +212,7 @@ Anzu-dono! Please help me think of something~!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							As long as I'm sincere about it?
 
         Y-You're right! I don't have to overthink it.
@@ -221,8 +221,8 @@ Anzu-dono! Please help me think of something~!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu %}
-							Hmm, so something practical would be nice…
+            	{% bubble Shinobu sad2 %}
+							Hmm, would something practical work…?
 
         But I want to be sure I give them something that'll make them happy…
 
@@ -241,16 +241,17 @@ Anzu-dono! Please help me think of something~!
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu v2 %}
 							Oh yes, Yuuta-kun gave me cookies.
 
         Hm? Cookies mean "you're my friend"?
-
+        {% endbubble %}
+        {% bubble Shinobu blush %}
         I-I'm so happy! Yuuta-kun is a precious friend to me, too~♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu %}
+            	{% bubble Shinobu surprised %}
 							Since it's *White* Day, perhaps marshmallows…?
 
         Huh!? Marshmallows means "I hate you"!?

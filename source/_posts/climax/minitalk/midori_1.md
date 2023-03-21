@@ -51,7 +51,7 @@ description: "[ES!] Translation of Midori's first Produce Course from Climax. Fr
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_midori1_1.jpg %}
-{% bubble Midori %}
+{% bubble Midori sigh %}
 *Sigh…* I'm so tired…
 
 Why do I have to go to the basketball court when it's so cold outside…
@@ -70,7 +70,7 @@ I just wanna go home and relax…
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori sigh %}
 							If all it took was a cheer, I wouldn't be suffering this much, y'know…
 
         Ah, but if you cheered me on in a mascot costume, I might get the motivation…♪
@@ -79,7 +79,7 @@ I just wanna go home and relax…
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori frown %}
 							There's nothing to work hard for, though… I can't be bothered.
 
         I'm just not motivated somehow, I just feel depressed instead…
@@ -99,7 +99,7 @@ I just wanna go home and relax…
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
+            	{% bubble Midori smile3 %}
 							Yes. We're going to have a farewell party at the Basketball club.
 
         We'll celebrate our upperclassmen's graduation and have fun with sweets and stuff.
@@ -108,7 +108,7 @@ I just wanna go home and relax…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori sigh %}
 							Yeah… I get why we're here, 'cause we're the Basketball club and all…
 
         But why do we have to play *outside?* We could've done it inside, like the gym…
@@ -122,7 +122,7 @@ I just wanna go home and relax…
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_midori1_2.jpg %}
-{% bubble Midori %}
+{% bubble Midori smile3 %}
 Hello, Anzu-san. What're you doing here so early in the morning…?
 
 Yes, I'm helping my family with the store.
@@ -141,7 +141,7 @@ If you're looking for a particular shop, I can help you.
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori smile3 %}
 							You'll cook some for lunch? Ahh, you'll cook food for you at the cafeteria…
 
         You make use of that in school, huh?
@@ -150,9 +150,10 @@ If you're looking for a particular shop, I can help you.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori smile3 %}
 							…You want avocadoes? Yes, we have some.
-
+              {% endbubble %}
+              {% bubble Midori frown %}
         But avocado isn't a vegetable, actually. It's a fruit.
 
         They're always next to the veggies, though, so people tend to confuse it for one.
@@ -170,7 +171,7 @@ If you're looking for a particular shop, I can help you.
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
+            	{% bubble Midori smile3 %}
 							Ohh, you carry some in case anyone gets injured?
 
         …It's true that there can be a few small accidents when practicing a dance routine.
@@ -179,7 +180,7 @@ If you're looking for a particular shop, I can help you.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori worried %}
 							…Huh? Are you injured somewhere?
 
         Um, it's not for you…? That's good, then…
@@ -193,7 +194,7 @@ If you're looking for a particular shop, I can help you.
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_midori1_3.jpg %}
-{% bubble Midori %}
+{% bubble Midori worried %}
 Ah—! I'm so sorry. I was thinking about something while walking, so I didn't notice you…
 
 I saw something I shouldn't have seen…
@@ -212,20 +213,22 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori %}
+            	{% bubble Midori thinking2 %}
 							Um, I saw someone crying, even though they're never the type to…
-
+              {% endbubble %}
+              {% bubble Midori smile %}
         …Huh? "Oh, you saw me"? I don't mean you, Anzu-san…?
 
         Ahaha, you teared up a bit while yawning? That's a cute reason to cry…♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori sad %}
 							Ah, um… I don't think this is something I can tell others…
 
         I think I was just imagining it anyway…
-
+        {% endbubble %}
+        {% bubble Midori idle %}
         …I'd like to keep this for myself for now.
 				{% endbubble %}
 			</div>
@@ -241,16 +244,17 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori %}
+            	{% bubble Midori curious %}
 							…Mm? Are you wondering if I had a nightmare?
 
-        Please don't pat my head out of nowhere…
-
+        Please don't pat my head out of nowhere… You surprised me, y'know?
+        {% endbubble %}
+        {% bubble Midori blush %}
         I don't dislike it, but it's kinda embarrassing, like I'm a little kid…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori %}
+            	{% bubble Midori worried %}
 							Um… Why did you reach your hand out…?
 
         Whaa!? I might be able to forget if I get hit!?

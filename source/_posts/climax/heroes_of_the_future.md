@@ -216,7 +216,7 @@ There’s something I want him to help me with a little, sooo~♪
 {% bubble Shinobu sad2 %}
 Mm…? Um, I think Shinkai-dono and Taichou-dono are only going to be our audience for Repayment Festival…
 
-And it seems they're working on something particular, so they are not here.
+And it seems they are scheming something in particular, so they are not here.
 
 I know that much from keeping in contact with them… Wait, no— I know this because ninjas are messengers.
 {% endbubble %}

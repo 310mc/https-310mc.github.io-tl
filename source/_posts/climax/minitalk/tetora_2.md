@@ -51,7 +51,7 @@ description: "[ES!] Translation of Tetora's second Produce Course from Climax. F
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_tetora2_1.jpg %}
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 I went too far the other day… I need to reflect on myself…
 
 Woah!? Why'd you suddenly pat my head!?
@@ -70,7 +70,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Tetora %}
+            	{% bubble Tetora angry %}
 							I-I'm not a kid…!
 
         Getting pat on the head doesn't make me happy, y'know?
@@ -79,7 +79,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Tetora %}
+            	{% bubble Tetora serious %}
 							You thought I was crying?
 
         It's true that I'm a li'l worried, but…
@@ -99,7 +99,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Tetora %}
+            	{% bubble Tetora v2 %}
 							I'm fine, really! Please don't worry about me!
 
         I'm sorry for making you worry.
@@ -108,7 +108,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Tetora %}
+            	{% bubble Tetora frown %}
 							I ended up making so many people worry this time…
 
         I'm real sorry for all the trouble…
@@ -122,7 +122,7 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_tetora2_2.jpg %}
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 We're gonna get to perform in the auditorium for Repayment Festival!
 
 This is all thanks to our efforts in Chocolat Fes, and our fans!
@@ -141,7 +141,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Tetora %}
+            	{% bubble Tetora v2 %}
 							Y-You don't have to apologize!
 
         'Course you're gonna be busy with produce work, it only makes sense.
@@ -150,7 +150,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Tetora %}
+            	{% bubble Tetora curious %}
 							Mm? You might not be able to come cheer us on?
 
         Ahh, you've been busy with managing the event and preparing stuff, huh?
@@ -170,7 +170,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Tetora %}
+            	{% bubble Tetora v2 %}
 							Really!? You're awesome, Anego!
 
         Now I *gotta* be sure to put an effort in the performance!
@@ -179,7 +179,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Tetora %}
+            	{% bubble Tetora worried %}
 							Ah, you don't have to stress yourself out over it!
 
         I'm sure we'll be able to get through the whole event as long as we don't make any major mistake.
@@ -193,7 +193,7 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_tetora2_3.jpg %}
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 I'm super indebted to Shinkai-senpai and Taichou!
 
 I may not be able to become like Taichou, but…
@@ -212,7 +212,7 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Tetora %}
+            	{% bubble Tetora blush %}
 							Y-You're gonna make me blush, y'know…
 
         But I'm gonna inherit Red after Taichou graduates.
@@ -221,7 +221,7 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Tetora %}
+            	{% bubble Tetora surprised %}
 							Whaaa!? You surprised me with that name!
 
         But I've gotten a real taste of how much work it is to be "Taichou" this time around…
@@ -241,21 +241,23 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-        {% bubble Tetora %}
-							Ah, there's no need to make that "Ah, I messed up!" look, y'know?
+        {% bubble Tetora v2 %}
+        Hm? Do I dislike being called that?
 
-        I'm fine being Ryusei Black for now.
-
-        I'm gonna do my very best until I can proudly call myself "Ryusei Red"!
+        I've been calling myself that for a whole year, so…
+        {% endbubble %}
+        {% bubble Tetora frown %}
+        "Ryusei Black" feels more right for me right now, to be honest.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Tetora %}
-							Hm? Do I dislike being called that?
+            	{% bubble Tetora frown %}
+              Ah, there's no need to make that "Ah, I messed up!" look, y'know?
+              {% endbubble %}
+              {% bubble Tetora v2 %}
+        I'm fine being Ryusei Black for now.
 
-        I've been calling myself that for a whole yeah, so…
-
-        "Ryusei Black" feels more right for me right now, to be honest.
+        I'm gonna do my very best until I can proudly call myself "Ryusei Red"!
 				{% endbubble %}
 			</div>
         </div>

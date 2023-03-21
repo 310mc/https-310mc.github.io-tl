@@ -52,7 +52,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Climax. F
 
 {% img /img/es/eventstory/climax/minitalk_chiaki2_1.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 I’m being asked to take jobs after graduation by the people I work with in the industry.
 
 Thanks to their help, I won’t have so much trouble with work for awhile.
@@ -71,15 +71,15 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki smile %}
               Yeah. I still have worries over the obstacles I’ll face, but I don’t plan on giving up the dream I’ve had since I was young!
 
               I’ll be glad if you could continue to support me, even after I’ve graduated…☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
-              That’s right! Now I can relax a little…
+            	{% bubble Chiaki frown %}
+              Yeah! Now I can relax a little…
 
               …At least, I thought I could, but I’m just so worried about those three right now.
 
@@ -98,7 +98,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki v2 %}
               I can’t become a hero in a tokusatsu show just like that.
 
               But if anything happens to you, feel free to call for me.
@@ -107,12 +107,12 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki thinking2 %}
               I’ve got my start line for now.
 
               It’ll take a while before I can become a fully perfected hero.
 
-              So I’ll be working hard on my idol activities…☆
+              For the most part, I’ll be doing idol activities…☆
 				{% endbubble %}
 			</div>
         </div>
@@ -121,11 +121,15 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 
 ## <div mt="rare"></div> 2/3
 
-{% bubble Chiaki frown %}
-Ugh, I can’t believe Takamine saw me that day…
+{% img /img/es/eventstory/climax/minitalk_chiaki2_2.jpg %}
+
+{% bubble Chiaki sad3 %}
+Mm, I can’t believe Takamine saw me that day…
 
 I’m embarrassed at how hard I tried to put up a front to be cool…
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 It actually makes me look pathetic instead, doesn’t it…?
 {% endbubble %}
 
@@ -140,16 +144,17 @@ It actually makes me look pathetic instead, doesn’t it…?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki grin %}
               R-Really…?
 
               I prefer to avoid showing my shameful side to the kids, but for some reason, it’s relieving hearing that from you…♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
-              Is that a compliment? Thank you, Anzu!
-
+            	{% bubble Chiaki v2 %}
+              Are you trying to comfort me? Thank you, Anzu!
+              {% endbubble %}
+              {% bubble Chiaki frown %}
               Graduations really are sad.
 
               I wanted to at least stand proud in front of the kids, and yet… I’m so pathetic.
@@ -172,11 +177,11 @@ It actually makes me look pathetic instead, doesn’t it…?
 
               You have moments where you say horrid things like they’re nothing, don’t you…?
 
-              Even if it is pathetic, I plan to keep up the cool act at least for these final days.
+              Even if it is pathetic, I want to keep up the cool act at least for these final days.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki curious %}
               Do you mean that being this way is also cool in itself…?
 
               You give some great advice. As you'd expect from a producer!
@@ -192,9 +197,10 @@ It actually makes me look pathetic instead, doesn’t it…?
 
 {% img /img/es/eventstory/climax/minitalk_chiaki2_3.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.
-
+{% endbubble %}
+{% bubble Chiaki smug2 %}
 But they aren’t kids anymore. I’m sure they’ll be able to take care of Ryuseitai.
 
 And Kanata and I will be able to graduate without any worries…☆
@@ -211,16 +217,16 @@ And Kanata and I will be able to graduate without any worries…☆
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki grin %}
               Yeah! There’s no need to worry about those three anymore! ☆
 
-              Graduating and leaving your beloved kids behind is really sad, though…
+              Graduating and leaving your beloved kids behind really feels lonely, though…
 
               To be honest, what I really want from the bottom of my heart is to spend more days with you and Ryuseitai in this academy.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki grin %}
               I’m sure those three will continue to shape Ryuseitai in their own way.
 
               Kanata and I both believe in that!
@@ -240,17 +246,17 @@ And Kanata and I will be able to graduate without any worries…☆
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki smile2 %}
               Anzu, don’t look so sad.
 
               It’s a hero’s duty to make people smile, so please let me fulfill it!
 
-              So that your smile becomes everyone’s strength…☆
+              So that your smile becomes everyone’s strength…♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
-              It makes me blush to hear you say that so eagerly…♪
+            	{% bubble Chiaki smug %}
+              You're going to make me blush if you say that so eagerly…♪
 
               But I’m the one who’s indebted to you. I’m sure I put a lot of work on you.
 

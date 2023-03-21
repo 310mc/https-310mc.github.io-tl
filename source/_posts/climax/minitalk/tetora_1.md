@@ -53,11 +53,13 @@ description: "[ES!] Translation of Tetora's first Produce Course from Climax. Fr
 
 {% img /img/es/eventstory/climax/minitalk_tetora1_1.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 'Sup, Anzu-Anego! ☆ Thanks for all your help in the Dragon King Competition!
 
 Thanks to you, I got to express every bit of my feelings to Taishou!
+{% endbubble %}
 
+{% bubble Tetora sad4 %}
 Next up is Repayment Festival…? Oh yeah…
 {% endbubble %}
 
@@ -72,7 +74,7 @@ Next up is Repayment Festival…? Oh yeah…
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-          	{% bubble Tetora %}
+          	{% bubble Tetora v2 %}
 							You're helping around the place for Repayment Festival, huh? Thanks for all your hard work, Anzu-Anego!
 
         You had to do so much back in Chocolat Fes for us, like how to make chocolate and stuff…
@@ -81,7 +83,7 @@ Next up is Repayment Festival…? Oh yeah…
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-          	{% bubble Tetora %}
+          	{% bubble Tetora serious %}
 							Repayment Festival is centered around us underclassmen, right?
 
         I may be the next commander of Ryuseitai, but I can't decide on things with my opinion alone.
@@ -101,7 +103,7 @@ Next up is Repayment Festival…? Oh yeah…
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-          	{% bubble Tetora %}
+          	{% bubble Tetora v2 %}
 							Ah, it's nothin'! I was just thinking…
 
         That being said, I don't think I can tell you what we'll do for Repayment Festival yet.
@@ -110,7 +112,7 @@ Next up is Repayment Festival…? Oh yeah…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-          	{% bubble Tetora %}
+          	{% bubble Tetora sad3 %}
 							…S-Sorry! I gave you a vague response!
 
         Ah nah, I was just thinking about what'll happen to Ryuseitai after our seniors graduate.
@@ -126,7 +128,7 @@ Next up is Repayment Festival…? Oh yeah…
 
 {% img /img/es/eventstory/climax/minitalk_tetora1_2.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ossu! Thank you for coming over to the dojo!
 
 But Taishou isn't here right now. He's busy dealing with somethin' in his unit.
@@ -147,7 +149,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-          	{% bubble Tetora %}
+          	{% bubble Tetora v2 %}
 						Like, a sparring partner!?
 
         Ah, not that? You meant as someone to talk to?
@@ -156,7 +158,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-          	{% bubble Tetora %}
+          	{% bubble Tetora surprised %}
 						Whaa!? <em>You'll</em> be my sparring partner…!?
 
         You aren't a martial artist, and I could never throw a punch at a lady…
@@ -176,7 +178,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-          	{% bubble Tetora %}
+          	{% bubble Tetora v2 %}
 						It's 'cuz I've been training as much as I can so I can be on par with Taishou.
 
         I think I was able to show him I've grown lots in the Dragon King Competition.
@@ -185,7 +187,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-          	{% bubble Tetora %}
+          	{% bubble Tetora v2 %}
 						You know how strong Taishou is, right, Anzu-Anego?
 
         I'm still nowhere near that point, not even on the same footing as him!
@@ -199,7 +201,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_tetora1_3.jpg %}
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 …Hm? Why're you staring at me? Is there somethin' on my face?
 
 I seem more mature? Even you're saying that, Anzu-Anego?
@@ -218,16 +220,17 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-        {% bubble Tetora %}
+        {% bubble Tetora v2 %}
       Yeah, as in Sengoku-kun! I've decided to start calling him by his first name.
 
-      I didn't know what time would be right to change how I called him at first.
-
+      I didn't know what timing would be right to change how I called him at first.
+        {% endbubble %}
+        {% bubble Tetora blush %}
       But now that I'm calling him that… It's a li'l embarrassing somehow…♪
         {% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-        {% bubble Tetora %}
+        {% bubble Tetora v2 %}
         It really *is* weird when I call him that, isn't it!?
 
         Ahh, you're not used to me calling him by his first name, so you just wanted to be sure if you were hearing right.
@@ -247,16 +250,16 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-        {% bubble Tetora %}
+        {% bubble Tetora awkward %}
         Ahaha, just somehow…?
 
-        But I'm glad for the compliment!
+        But I'm happy for the compliment!
 
         Even if you're just flattering me, I'm still thankful!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-      {% bubble Tetora %}
+      {% bubble Tetora surprised %}
         S-Somehow…!?
 
         But to be honest, I don't think anything has changed about me.
