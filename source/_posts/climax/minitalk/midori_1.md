@@ -1,6 +1,6 @@
 ---
 title: "Climax – Midori Produce Course: Novice Hero"
-date: 2017/3/1 9:00:00
+date: 2017/3/1 9:01:00
 categories:
 - [Enstars, Midori]
 tags:

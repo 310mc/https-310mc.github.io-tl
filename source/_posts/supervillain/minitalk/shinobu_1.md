@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Shinobu Mini Talk: What An Evil Ninja Is"
-date: 2023/3/1 7:07:00
+date: 2023/2/1 7:07:00
 categories:
 - [Enstars, Shinobu]
 tags:

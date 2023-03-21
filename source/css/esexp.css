@@ -18,6 +18,9 @@
 [character="Midori"][smile5] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile5.png");
 }
+[character="Midori"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_grin.png");
+}
 [character="Midori"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_curious.png");
 }

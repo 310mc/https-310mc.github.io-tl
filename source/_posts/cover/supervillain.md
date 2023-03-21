@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Supervillain"
-date: 2023-03-02 9:00:00
+date: 2023-02-08 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

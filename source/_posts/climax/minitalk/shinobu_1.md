@@ -1,6 +1,6 @@
 ---
 title: "Climax – Shinobu Produce Course: Endurance Of A Shy Person"
-date: 2017/3/1 9:00:00
+date: 2017/3/1 9:05:00
 categories:
 - [Enstars, Shinobu]
 tags:

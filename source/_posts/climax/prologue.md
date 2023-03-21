@@ -1,6 +1,6 @@
 ---
 title: "Climax – Prologue"
-date: 2020-1-31 9:00:00
+date: 2017-2-28 9:00:00
 categories:
 - [Enstars, Kaoru]
 - [Enstars, Kanata]

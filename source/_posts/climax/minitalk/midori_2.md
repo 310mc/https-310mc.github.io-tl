@@ -258,7 +258,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori grin2 %}
+            	{% bubble Midori grin %}
 							Of course! They're my comrades who fought alongside me for a whole year!
               {% endbubble %}
               {% bubble Midori sigh2 %}

@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Kanata Mini Talk: planning a trip"
-date: 2023/3/1 7:01:00
+date: 2023/2/1 7:01:00
 categories:
 - [Enstars, Kanata]
 tags:

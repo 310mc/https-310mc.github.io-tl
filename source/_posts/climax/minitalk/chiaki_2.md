@@ -1,6 +1,6 @@
 ---
 title: "Climax – Chiaki Produce Course: Justice Will Prevail"
-date: 2017/3/1 9:01:00
+date: 2017/3/1 9:02:00
 categories:
 - [Enstars, Chiaki]
 tags:

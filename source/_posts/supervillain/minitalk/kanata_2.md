@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Kanata Mini Talk: sea crook"
-date: 2023/3/1 7:02:00
+date: 2023/2/1 7:02:00
 categories:
 - [Enstars, Kanata]
 tags:

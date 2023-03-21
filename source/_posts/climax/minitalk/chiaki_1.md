@@ -1,6 +1,6 @@
 ---
 title: "Climax – Chiaki Produce Course: Tough Being a Parent"
-date: 2017/3/1 9:00:00
+date: 2017/3/1 9:03:00
 categories:
 - [Enstars, Chiaki]
 tags:

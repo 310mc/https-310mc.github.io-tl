@@ -1,6 +1,6 @@
 ---
 title: "Climax – Shinobu Produce Course: Guiding Them To Hope"
-date: 2017/3/1 9:00:00
+date: 2017/3/1 9:04:00
 categories:
 - [Enstars, Shinobu]
 tags:

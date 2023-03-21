@@ -1,6 +1,6 @@
 ---
 title: "Supervillain – Chiaki Mini Talk: The Path of a Hero Turning Evil"
-date: 2023/3/1 7:06:00
+date: 2023/2/1 7:06:00
 categories:
 - [Enstars, Chiaki]
 tags:
