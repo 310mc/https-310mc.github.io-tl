@@ -154,7 +154,7 @@ I was still overwhelmed that I got angry at him anyway, and shouted “Don’t j
 
 He started to tear up, and our argument just got worse from there.
 
-We were wailing and bawling at each other until Mitsuru and Nii-chan noticed we were acting weird and stopped us…
+We were wailing and bawling at each other until Mitsuru and Nii~chan noticed we were acting weird and stopped us…
 
 Ugh… It’s such a childish fight…
 
@@ -162,7 +162,7 @@ And it’s still ongoing… Time’s just passing by, and we haven’t resolved 
 
 I feel like my head’s gonna burst from all this self-loathing and frustration…
 
-But! I *really* don’t wanna! I don’t wanna crossdress ever again!!
+But! I *really* don’t wanna! I don’t wanna cross-dress ever again!!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -710,13 +710,13 @@ Yes, I have no problems with it.
 {% endbubble %}
 
 {% bubble Tomoya %}
-Yeah, me too. Personally, I adjust to things better when Nii-chan’s leading us, but it’s fine. Ra*bits has been led by other units many times before.
+Yeah, me too. Personally, I adjust to things better when Nii~chan’s leading us, but it’s fine. Ra*bits has been led by other units many times before.
 {% endbubble %}
 
 {% bubble Mitsuru %}
 Hrrnnn… It’s so annoying that we’re always being carried around by other people! We’re awesome, too!
 
-But if Nii-chan is okay with it, then I guess I’ll go along with it, too…
+But if Nii~chan is okay with it, then I guess I’ll go along with it, too…
 {% endbubble %}
 
 {% bubble Nazuna %}
