@@ -69,6 +69,672 @@ hidden: true
 
 ## Chapter 1
 
+{% img Aquarium Hanging Out Together 1.png %}
+
+{% note location %}
+**Location:** Aquarium (Main Exhibition)
+{% endnote %}
+
+{% bubble Souma %}
+Anzu-dono~!
+
+My deepest apologies! I am truly sorry for separating from you!
+
+Not only that, but I had also fussed over how the lost child broadcast must be undertaken…!
+
+You had it broadcasted that you were the one who is lost, and that your guardian should come rushing to you right away… Without ever mentioning my name…
+
+I am truly, deeply sorry!
+
+Uugh, for an *“ai-dol”* to bring dishonor to their lord—to their *“puro-du-ser”*…!
+
+I am a shameful man! I cannot bear this shame—I will slice my stomach open as apology!
+
+Ah--! But I did not bring my katana today…!
+
+What do I do?! Should I dive into the watertank full of *“pi-rah-na”* and allow myself to get devoured as apology?!
+{% endbubble %}
+
+{% bubble Hinata %}
+Kanzaki-senpai, calm down~ No one wants a gory scene happening… If you feel bad for this, then just make sure you don’t get lost again.
+
+Sorry that we couldn’t complete your favor, though.
+
+We saw Anzu-san walking around, so we caught her from behind, buuut… We couldn’t find the other person you separated from.
+
+Heheh, but I always thought that Akatsuki members were serious honor students, so I feel like I got a lot out of knowing that they have their own slip-ups~
+
+That’s suuuper interesting~ I think you’d be fun to tease~♪
+{% endbubble %}
+
+{% bubble Sora %}
+It’s a bad habit to tease your elders, Hina-chan…
+
+It’s good manners to show respect to your seniors!
+{% endbubble %}
+
+{% bubble Souma %}
+Well done. That is indeed proper manners.
+
+I had thought you were a problem child since you have often opposed school rules, but… You are more well-mannered than I expected.
+{% endbubble %}
+
+{% bubble Hinata %}
+Hehehe. Learning about another side to someone is the best part about hanging out with them on a holiday.
+
+Yo yo, Kanzaki-senpai~ Tell the vice president to shorten down his lectures from now on, as thanks for being nice to you~♪
+{% endbubble %}
+
+{% bubble Souma %}
+Except the only reason you get lectured is for doing bad deeds…
+
+Well… If I am to ever catch you while you are being lectured, then I may ask Hasumi-dono to hasten the lecture for you… Although I am not very fond of participating in any act so similar to bribery.
+
+It is for your own sake that Hasumi-dono lectures you, so you should listen closely when he does.
+{% endbubble %}
+
+{% bubble Hinata %}
+Yeah, yeah, I understand~ I know that when they scold you, it means they’re worried for you.
+
+It’s not like I’m not grateful for it.
+{% endbubble %}
+
+{% bubble Sora %}
+HaHa~♪ Anyway, this case is closed, yes?
+{% endbubble %}
+
+{% bubble Souma %}
+Nay, we have yet to solve anything. I believe that the lecher will show himself if he heard the broadcast…
+
+Therefore, it would be wise for me to wait here. He and I will decide on what we must do next after we have grouped up.
+
+Well, what we must do is find Buchou-dono and check on his situation. That is our mission.
+
+But you two may enjoy yourselves while going around the aquarium.
+{% endbubble %}
+
+{% bubble Hinata %}
+Yep, that’s what we plan to do. We’re gonna be here for awhile, so phonecall us or something if there’s anything we can help you with.
+
+I dunno what’s going on, but… wouldn’t it be good if you guys took it easy and enjoyed yourselves like you’re on a date?
+
+Anzu-san, you always have your head buried with work, work, and more work, you know?
+
+Wouldn’t falling in love and having fun *also* be helpful for work? Not that I know anything about that.
+{% endbubble %}
+
+{% bubble Sora %}
+HiHi~♪ That’s right, Hina-chan! Youth is a treasure you can’t buy with money~!
+
+Well, see you~! We’ll be heading off!
+
+Sora has many things he wants to see! It looks like there’s a lot of dugong and seals and other marine mammals in the aquarium~! ♪
+{% endbubble %}
+
+{% bubble Hinata %}
+Marine mammals!! That’s exciting! You don’t usually get to see stuff like that! Rare animals really *are* valuable just because they’re so rare, aren’t they~♪
+{% endbubble %}
+
+{% bubble Sora %}
+No no, this is the result of everyone working hard to give them value! They made the unknown into a precious radiance! It’s the same with idols~♪
+{% endbubble %}
+
+{% bubble Souma %}
+Hehe, they speak like they know things so well… However, it is indeed the truth. What strange children.
+
+Now then… Anzu-dono, I am sure it is irritating of me to apologise over and over again, but allow me to say it one last time.
+
+…… Is there something that is troubling you?
+
+I have good hearing, so I had heard what you spoke about with my senior… I am so sorry for not realizing that you had been crying.
+
+If something is troubling you, may I ask you to speak to me about it?
+
+I am sure you know this by now, but I am unreliable, and I am not attentive enough. I am still but a novice, and so I do not have the power to solve problems easily.
+
+However, you are a friend who I sit next to and learn together with every day in class… The least I could do is to listen to your worries and try to assist you—even if it is not the best of assistance.
+
+The most upsetting thing for me is for you to hide your pain and suffering with a strong front.
+
+Was doing things alongside that lecherous man unpleasant enough to bring you to tears?
+
+I understand completely. It must have felt like you were tossed into the same cage as a dangerous beast.
+
+But fear not! I will absolutely protect you to the very end.
+
+Hmm, that is not the case…? That person is not as bad one would think….?
+
+Well… I suppose I must regretfully agree to that.
+
+However, I cannot completely trust him. He hides his true self with his frivolous nature.
+
+He is not a bad person… And since that is the case, then he should simply face people as he is without flimsily hiding his true nature.
+
+There is no need for him to think of virtue as something shameful…
+
+Yet he continues to keep things vague by hiding his sincerity with frivolous talk, and waving away any serious conversation.
+
+*That* is what I simply cannot accept about him.
+{% endbubble %}
+
+## Chapter 2
+
+{% img Aquarium Hanging Out Together 2.png %}
+
+{% note location %}
+**Location:** Aquarium (Main Exhibition)
+{% endnote %}
+
+{% bubble Kanata %}
+Whew. I am finally outside.
+
+Walking on my feet is a pain, but… That is how it is. After all, I am also human. I have to walk on my feet and breathe through my lungs.
+
+*(Breathe in, breathe out)…* The air is tasty, so I do find being outside enjoyable.
+{% endbubble %}
+
+{% bubble Kaoru %}
+…
+{% endbubble %}
+
+{% bubble Kanata %}
+Kaoru. Humans breathe through their mouths, so they can probably taste the air, but fish breathe through their gills, yes?
+
+I wonder if they cannot taste the tastiness of the air. If that is true, then I feel bad for them…
+
+Now I am curious~ What do you think, Kaoru?
+{% endbubble %}
+
+{% bubble Kaoru %}
+Kanata-kun.
+{% endbubble %}
+
+{% bubble Kanata %}
+Yes, What is it, Kaoru?
+{% endbubble %}
+
+{% bubble Kaoru %}
+Quit talking about weird things without a care in the world~! You should apologise for making us all worried first~!!
+{% endbubble %}
+
+{% bubble Kanata %}
+*Uunini?!* Kaoru! Please do not pinch my cheeks~!
+
+Uuu*…* How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
+
+Ah! There is a theory that fish do not feel pain…
+
+It is said that if you cut a fish properly, it will continue to swim just with its bones.
+
+I wonder if that is true?
+
+I have never seen a fish like that before…
+
+If they were only bones, then they would not have meat or fins, so they should not be able to swim… Right?
+{% endbubble %}
+
+{% bubble Kaoru %}
+Kanata-kun. I think you’re just trying really hard to avoid the subject, but if you’re actually being *this* thickheaded, then even my gentle side will snap a nerve…
+
+Seriously, we were all worried for you.
+
+Morisawa-kun, Souma-kun, Anzu-chan… and me too, of course. I sacrificed a precious holiday for you.
+
+It’s not my style to be nice and considerate whenever and wherever, you know?
+
+So if you don’t feel even a little bad for making us all worry, then I may just get real angry.
+{% endbubble %}
+
+{% bubble Kanata %}
+Uuu*… *Kaoru, you may be smiling, but your eyes are completely serious…
+
+It is scary. I really do feel bad for making you all worry.
+
+But this is my problem. I will be okay. You do not have to poke your nose in my problem.
+
+I do not want to ruin everyone’s peaceful lives with my problems.
+{% endbubble %}
+
+{% bubble Kaoru %}
+Listen… You don’t live on some far away island surrounded only by ocean. If you just live on like anyone normally would, you’ll end up causing trouble to other people.
+
+But that’s nothing to be embarrassed about at all.
+
+Everyone lives while getting others involved in their lives.
+
+You can’t just tell people to ignore things whenever it’s most convenient for you. You can’t get through life by hiding away every problem.
+
+When you were part of the Five Oddballs last year, there was a dispute about stuff like this, so I’m guessing that’s why you put so much effort into distancing yourself from others…
+
+But times have changed now, I think.
+
+You have to understand that—To adapt to the changes. You’re not a coelacanth[^1]…
+
+I’m trying to do that, too. I’ve been trying to act as a big brother to the rascals in my unit.
+
+If I can do it, then so can you. We’re similar after all, right? We’re both part of the Marine Life club—Both of us gathered to the water, captivated by the ocean.
+
+Also, in hard times, I’d probably want to depend on someone.
+
+Even if it was a bother to them. After all, if I don’t get a nice fresh filling of love, I’ll dry up and die.
+
+I think you're like me, too. I also think you’re strong, and you don't want to make people bear your burdens, so you forcibly distance yourself from others.
+
+That's why I'm here, by your side.
+
+I don't like having my teenagerish, bratty feelings brushed off as “poking my nose in your problem.”
+
+That’d made me look like an idiot, wouldn’t it? Like someone who’s just going around in circles…
+
+I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
+{% endbubble %}
+
+{% bubble Kanata %}
+Kaoru… Are you *really* sexy?
+{% endbubble %}
+
+{% bubble Kaoru %}
+Shut up! Jeez! You’re so annoying!
+
+I shouldn’t have tried! I should’ve just had a nice date with a girl! I wasted my holiday for nothing!
+
+Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh?!
+{% endbubble %}
+
+{% bubble Kanata %}
+…If you pull this off, I will die. Please do not.
+{% endbubble %}
+
+{% bubble Kaoru %}
+Huh!? That’s how it works?! You cryptic creature!
+{% endbubble %}
+
+{% bubble Kanata %}
+Hehehe, I am only joking…
+
+I am sorry for making you talk about something so serious, even though it is out of your character… I completely understood what you said.
+{% endbubble %}
+
+{% bubble Kaoru %}
+Hmph. I ended up getting separated from the people who could *properly* talk seriously with you, alright?
+
+So I had to be the one to say it. You would’ve gotten away if I didn’t deal with you the moment I found you.
+
+Anyway. I’ve gotten pretty used to your eccentric behavior, but you have to explain clearly what happened to the others.
+
+Especially to all your important friends that you work with in Ryuseitai.
+
+Saying you can’t work because of a personal problem usually won’t cut it.
+
+We’re still students, so you can get away with it now, but an actual company would just fire you. *Fire*, you hear?
+
+You need to talk about how it all led up to this, until they’ve properly understood.
+
+We work as idols, after all. So at the very least, we have to do it properly.
+{% endbubble %}
+
+## Chapter 3
+
+{% img Aquarium Hanging Out Together 3.png %}
+
+{% note location %}
+**Location:** Aquarium (Main Exhibition)
+{% endnote %}
+
+{% bubble Kanata %}
+*Sigh…* I am not one to think of being an idol as work.
+
+Kaoru, you surprisingly have your head on your shoulders.
+{% endbubble %}
+
+{% bubble Kaoru %}
+I hate to say this, but I'm not a genius like you are, so I have to be mindful of a lot of things, Kanata-kun.
+
+That’s what you call "swimming the current of life". It’s something everyone has to work hard to do, so you should take note of it.
+{% endbubble %}
+
+{% bubble Kanata %}
+Okay. I will not forget these memories with everyone… Never ever.
+{% endbubble %}
+
+{% bubble Kaoru %}
+Memories…? Why’re you talking like you’re leaving for a far away place?
+{% endbubble %}
+
+{% bubble Kanata %}
+……
+{% endbubble %}
+
+{% bubble Kaoru %}
+Kanata-kun? Hey, wai- Where are you wondering off to?
+
+Quit doing things that make no sense, you enigma! Hold on, hold on! You can’t disappear on me! Give me a break!
+
+(Ahh, jeez… Now I gotta go after him. If only I could contact the other kids too…)
+
+(There was an announcement for a lost child just a second ago, so Anzu-chan and Souma-kun probably grouped up again…)
+
+(And here I was hoping I could go over to show them that Kanata-kun is doing just fine.)
+
+(All my plans are gone in a flash. He’s always taking me by storm.)
+
+Ughh, I’m serious! Kanata-kuuun, if you don’t quit messing around, I’ll trap you in a fishing net!
+
+Wait, what’s wrong? You’re heading outside all of a sudden…
+
+Did being inside a dim water tank for so long make you want some sunshine?
+{% endbubble %}
+
+{% bubble Kanata %}
+No… Kaoru, please wait here, okay?
+{% endbubble %}
+
+{% bubble Kaoru %}
+No, no. I’m telling you, this place is really crowded—I’ll lose sight of you immediately. And then it’ll take even longer for all of us to group up again.
+
+Don’t make me waste my energy moving around everywhere~ C’mon, please.
+{% endbubble %}
+
+{% img Aquarium Hanging Out Together 3 (2).png %}
+
+{% note location %}
+**Location:** Aquarium (Dolphin Show)
+{% endnote %}
+
+{% bubble Madara %}
+Hmhmhmmm~♪
+
+Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins… ☆
+{% endbubble %}
+
+{% img (Mama and Dolphin) Madara Mikejima CG.png %}
+
+{% bubble Kanata %}
+Ahh, I thought so… Hey! Please stop giving food to the dolphins as you please!
+{% endbubble %}
+
+{% bubble Madara %}
+Ooh? I was wondering who that was! So it’s you, Kanata-san! I missed youuu!
+
+Come, come, come!! I’ll give you some of their food too~♪
+{% endbubble %}
+
+{% bubble Kanata %}
+Hrmm… I love fish, but if I were to eat it raw, it would hurt my stomach.
+
+You need to at least prepare it and make it into sashimi before I can eat it.
+{% endbubble %}
+
+{% bubble Madara %}
+Oh? Prepare? So you’ll only eat food if it’s properly made? You fancy boy!
+
+But I don’t have a kitchen knife right now, so maybe I could use the dolphins jaggy teeth instead?
+{% endbubble %}
+
+{% bubble Kaoru %}
+Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is there someone here you know?
+{% endbubble %}
+
+{% bubble Kanata %}
+*Sigh*… Just some rogue.
+{% endbubble %}
+
+{% bubble Kaoru %}
+Rogue?
+
+Ooh, it’s Mikejima-kun. Yahoo~♪ What are you doing over here?
+{% endbubble %}
+
+{% bubble Madara %}
+Ooh, Kaoru-san! Hahaha, it’s refreshing to meet a classmate in a place like this!
+
+Hm. Let me guess, you were also worried about Kanata-san’s disappearance and came searching for him.
+
+Kanata-san is such a bad boy, making everyone worry for him…
+{% endbubble %}
+
+{% bubble Kaoru %}
+Yeah, well, I already gave him an earful of that, sooo… Erm…
+
+Earlier, Kanata-kun was told he could leave the water tank all of a sudden. Was that because of you?
+
+I kept trying to persuade him earlier, but he kept saying no, and that he’d take his punishment. He wouldn’t budge one bit.
+
+So I thought maybe someone did something elsewhere.
+
+And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close friends, right?
+{% endbubble %}
+
+{% bubble Kanata %}
+No. This person has nothing to do with me.
+{% endbubble %}
+
+{% bubble Madara %}
+Hahaha! It’s rude to point fingers at someone and call them “this,” you know!
+
+Kanata-san, your words and actions are easily misunderstood, so be careful, okay~? ♪
+
+Anyway, it’s just as you’ve guessed… When I found out about what happened to Kanata-san, I pressured some people to do things…
+
+I’m different from Kaoru-san and the others, I don’t really hold back from doing that kind of stuff.
+
+You gotta use *all* the resources you can find. You can’t just muscle your way through everything.
+
+And now I’ll be checking up on the results and consequences of those actions.
+
+The staff members are clattering all about because of it, so I had some free time while I wait, and I decided to feed the dolphins in their stead.
+
+I’ll tell you now; I have permission to do this *and* I’m qualified enough for it.
+
+I can do any and all jobs swiftly. I plan to clean the water tank next~♪
+{% endbubble %}
+
+{% bubble Kanata %}
+Doing such unnecessary things… No one asked for it, okay?
+
+If I were to just restrain myself for a while, it would have all gone well.
+
+You said you put pressure on them, but my household has not actually done anything wrong.
+
+Please do not threaten people for no reason.
+
+It is our responsibility as people with power to protect peace by not using that power.
+{% endbubble %}
+
+{% bubble Madara %}
+We have differing viewpoints, huh? Well, that kind of justice is probably more befitting for the current Ryuseitai…
+
+It’s as you said, I went too far and did something no one even asked for. It makes sense that you’d be displeased about it…
+
+But if peace comes at the price of a good and kind child restraining themselves… then it can go eat shit.
+{% endbubble %}
+
+## Chapter 4
+
+{% img Aquarium Hanging Out Together 4.png %}
+
+{% note location %}
+**Location:** Aquarium (Main Exhibition)
+{% endnote %}
+
+{% bubble Sora %}
+Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides will come out!
+{% endbubble %}
+
+{% bubble Hinata %}
+Ahh, that one’s really tasty. I think the old man from the Chinese restaurant used to make it often for me looong ago.
+
+Maybe I’ll take some home and cook it for dinner.
+{% endbubble %}
+
+{% bubble Sora %}
+HaHa~♪ Sea cucumbers aren’t typically sold around here, so if you took some back, it’ll be obvious to Yuu-chan that you went to the aquarium~
+{% endbubble %}
+
+{% bubble Hinata %}
+That’s true! He’d get his undies in a bunch from jealousy and say, *“You cheater, Aniki! You hung out with someone other than me, didn’t you?!”*
+
+But this is just the *Free to Touch* section, so I guess I can’t take it back home anyway. I’ll put it back.
+
+Look at this, Sora-kun! Putting starfish on my chest gives me that sexy swimsuit look~☆
+
+What’cha think~? Does this suit lil’ ol’ me~?[^2]
+{% endbubble %}
+
+{% bubble Sora %}
+HiHi~♪ You’ll have the whole seaside talking about it~!
+{% endbubble %}
+
+{% bubble Rei %}
+Hellooo… Hinata-kun, you look like you are having fun. But you should not be frolicking around too much in public, alright?
+{% endbubble %}
+
+{% bubble Hinata %}
+Wahhhh--?!?!
+
+Oooh! So it was you, Sakuma-senpai! Hello! Pretty unusual to see you outside of school during the day~♪
+{% endbubble %}
+
+{% bubble Wataru %}
+And I am here too! Your Hibiki Wataru is here… ☆
+{% endbubble %}
+
+{% bubble Hinata %}
+Ah! It’s Hibiki-senpai! Aaaahh, I’ve been a big fan of you since *Circus!* I really respect you! I’d love your signature!
+{% endbubble %}
+
+{% bubble Wataru %}
+*Amazing!* I was expecting you to push me away for daring to talk to you like we’re friends, so this is quite the unexpected reaction!
+
+*Fufufu!* Cute twin, you said you’d love my signature?
+
+Then allow me to scribbley dibbley it down for you with this pen I bought from the store! Its ink disappears once in contact with water! ☆
+{% endbubble %}
+
+{% bubble Hinata %}
+Ah--wait! So it’ll disappear as soon as it gets wet?! I was playing around in the *Free to Touch* section, so my hands are all dripping wet!
+{% endbubble %}
+
+{% bubble Rei %}
+*Kukuku.* Hibiki-kun is always immediately rejected by his underclassmen, so he is feeling bashful over someone gladly latching onto him for once.
+
+He is acting strangely, perhaps in his excitement.
+
+However, Hinata-kun is my beloved child, so I cannot let you take him.
+{% endbubble %}
+
+{% bubble Wataru %}
+Eh~? *You’re* the one who gets everything no matter where you go; you can let me have one of them at least!
+
+Ahhh, I’m ever so happy…! I’m beyond emotional right now! I’m this close to signing your entire body like *Hoichi the Earless…![^3] ☆*
+{% endbubble %}
+
+{% bubble Rei %}
+You always go to the extreme with anything you do… Is that not why you are constantly despised by your underclassmen?
+{% endbubble %}
+
+{% bubble Sora %}
+HuHu~ Sora will greet anyone he meets! Hello, Shisho’s nii-sans~♪
+{% endbubble %}
+
+{% bubble Rei %}
+Oh? You must be Sakasaki-kun’s child. Good day to you.
+
+Excellent job at your greeting~ Good boy, good boy~♪
+{% endbubble %}
+
+{% bubble Sora %}
+HeHe~♪ This is all thanks to everything Shisho and Senpai have taught Sora!
+{% endbubble %}
+
+{% bubble Rei %}
+Hehe. But how odd… Did you not come here with Yuta-kun today, Hinata-kun?
+{% endbubble %}
+
+{% bubble Hinata %}
+Ahaha… Something kinda happened… So please don’t tell Yuta-kun we were here.
+{% endbubble %}
+
+{% bubble Rei %}
+Very well, I will try to fulfill your wish as best as I can.
+
+Did you perhaps get into a fight with your younger brother? It will only become more difficult to deal with the problem if you let it get worse, so you should make amends as soon as possible.
+{% endbubble %}
+
+{% bubble Hinata %}
+Ahaha, hearing *you* say that isn’t even the sliiightest bit funny~ But we didn’t fight, so please don’t worry.
+{% endbubble %}
+
+{% bubble Rei %}
+I see… Well, no matter. I have a policy not to poke my nose into people’s personal affairs if I can help it.
+
+However, does that mean that you two are simply here for fun?
+
+Hibiki-kun and I are actually trying to find Shinkai-kun. Have you seen him anywhere, Hinata-kun?
+{% endbubble %}
+
+{% bubble Hinata %}
+Ah, you mean Shinkai-senpai, right?
+
+I can’t tell you exactly what’s going on with him, but apparently he and some others are going to have a live show at the dolphin area up ahead.
+{% endbubble %}
+
+{% bubble Rei %}
+Live show…? Why did this situation develop into such a ridiculous event…? Hrmm, perhaps it is Mikejima-kun behind all this again? He always regrettably turns things into festivals when he is taking the lead.
+{% endbubble %}
+
+{% bubble Hinata %}
+Dunno. If you’re curious, then I’ll show you the way to the standby room. I think they won’t start for a little while, so you might still have time to ask what’s happening.
+{% endbubble %}
+
+{% bubble Rei %}
+Oh? So you know where the standby room is… Are you also going to be participating in the show or what-have-you? You never know your limits, do you, child?
+{% endbubble %}
+
+{% bubble Hinata %}
+Heheh. Anzu-san *did* ask us if we wanted to be part of the show, too.
+
+But today is my day off, and Yuta-kun isn’t here with me anyway, so I plan to enjoy it like any other person here will.
+{% endbubble %}
+
+{% bubble Rei %}
+O<em>ho</em>, so that’s what it is. If you were asked to participate in the show, then that must mean it is a spontaneous show that was not originally planned.
+
+It may mean that they need more hands on deck. What an interesting twist of fate… Perhaps we should try and help out if there ever seems to be a problem.
+{% endbubble %}
+
+{% bubble Sora %}
+Hands? If it’s hands you need, then these starfish have plenty![^4] Here you go, Rei-niisan! ☆
+{% endbubble %}
+
+{% bubble Wataru %}
+Ahahahaha!!! Wonderful joke! I expect nothing less from Natsume-kun’s favorite pupil! You have quite the sense of humor! ☆
+{% endbubble %}
+
+{% bubble Sora %}
+HoHo~♪ Thank you! Sora must give his thanks when he’s complimented!
+
+Wataru-niisan, you’re Shisho’s master, so you would be *Grand-Shisho!*[^5] Sora’s happy to be acknowledged by you~♪
+{% endbubble %}
+
+{% bubble Hinata %}
+Ahaha, this conversation’s nice and fun, but it’d suck if we missed out on the show, so… How about we head over to the standby room in the meantime?
+
+I’ll show you the way! Over here, over here! C’mon, Sora-kun, let’s go together~♪
+{% endbubble %}
+
+{% bubble Sora %}
+Okay! Going there together is much more fun than doing it all alone~ HaHiHuHeHo~♪
+{% endbubble %}
+
+{% bubble Rei %}
+Woah, woah--! Do not drag me over by the hand…
+{% endbubble %}
+
+{% bubble Wataru %}
+*Fufufu.* What a ruckus we’re having~ Things are starting to feel just like the Yumenosaki we know today.
+{% endbubble %}
+
 <div toc>
 {% btn /aquarium/friends_together,, arrow-left, Previous Chapter: Inviting Friends Together %}
 {% btn /aquarium,, star, Index %}
@@ -76,3 +742,8 @@ hidden: true
 </div>
 
 ## Translation Notes
+[^1]: Coelacanth are an extremely old species of fish.
+[^2]: Hinata uses *atai* (feminine pronoun for “I”).
+[^3]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it [here](https://en.wikipedia.org/wiki/Hoichi_the_Earless).
+[^4]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you (Nanashi)[https://twitter.com/seiginoakashi] for the localization!
+[^5]: Natsume calls Wataru *Shisho* (Master), similarly to how Sora calls Natsume *Shisho*. So combining both Shisho's would become *Dai-shisho* (Grand-shisho).
