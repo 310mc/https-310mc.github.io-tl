@@ -43,7 +43,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>

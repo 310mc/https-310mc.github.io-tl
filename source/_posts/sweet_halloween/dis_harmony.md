@@ -59,7 +59,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -1001,5 +1001,3 @@ So, what do *you* want to do? You’ve been given plenty of choices, so think cl
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/sweet_home,, arrow-right, Next Chapter: sweet home %}
 </div>
-
-## Translation Notes

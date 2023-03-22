@@ -260,4 +260,4 @@ i will call for you even if i have no [reason] to, so… please come see me, oka
 
 ## Translation Notes
 [^1]: In Japanese, the word for “distant” is *mizu-kusai*, lit. “watery”.
-[^2]: This is a reference to the first [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider) series, where the first rider was called [Kamen Rider ichi-go](https://kamenrider.fandom.com/wiki/Takeshi_Hongo), and the second [Kamen Rider ni-go](https://kamenrider.fandom.com/wiki/Hayato_Ichimonji).
+[^2]: This is a reference to the first [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider) series, where the first rider was called [Kamen Rider ichi-go](https://kamenrider.fandom.com/wiki/Takeshi_Hongo) (No.1), and the second [Kamen Rider ni-go](https://kamenrider.fandom.com/wiki/Hayato_Ichimonji) (No.2).
