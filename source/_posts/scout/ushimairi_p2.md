@@ -22,7 +22,7 @@ permalink: ushimairi_p2/
 ---
 
 {% note narration %}
-This translation is **on hold**. It is not guaranteed that it will be completed.
+This translation is **on hold**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
 {% endnote %}
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">

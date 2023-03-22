@@ -1,15 +1,15 @@
 ---
-title: "[ES!] TBA"
+title: "[ES!!] TBA"
 date: 2021-11-27 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, ES!!]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Kuro]
 tags:
 - Idol Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!!] TBA"
 permalink: something_dubious_in_the_library/
 hidden: true
 ---
