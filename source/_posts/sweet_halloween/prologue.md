@@ -117,7 +117,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Chiaki %}
-Wha--?! I-I-I-I’m so sorry!![^1] Are you alright?! I’m terribly sorry for bumping into you!
+Wha—?! I-I-I-I’m so sorry!![^1] Are you alright?! I’m terribly sorry for bumping into you!
 {% endbubble %}
 
 {% bubble Hajime %}

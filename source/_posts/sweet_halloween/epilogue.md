@@ -149,7 +149,7 @@ I gotta do everything with all I’ve got.
 
 Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 
-“♪~♪~♪”
+“♪\~♪\~♪”
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -188,5 +188,3 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 {% btn /sweet_halloween/lets_party,, arrow-left, Previous Chapter: let's party! %}
 {% btn /sweet_halloween,, star, Index %}
 </div>
-
-## Translation Notes

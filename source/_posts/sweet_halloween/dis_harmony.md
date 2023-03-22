@@ -192,7 +192,7 @@ G-Good morning.
 {% endbubble %}
 
 {% bubble Tomoya %}
-… Ah-- M-Morning.
+…Ah— M-Morning.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -388,7 +388,7 @@ You never listen to people… It’s easier to stop you myself.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Wawa--?! You won’t make me happy with this~! I’m not *that* much of a kid!
+Wawa—?! You won’t make me happy with this~! I’m not *that* much of a kid!
 
 I’m as much of an athlete as you! I’ll prove it with another showdown, c’mon! ♪
 {% endbubble %}
@@ -800,7 +800,7 @@ Ughh… But doing things “normally” is always the hardest when you need it m
 {% endbubble %}
 
 {% bubble Hajime %}
-T-That’s not why I--… You’re overthinking it, Tomoya-kun…
+T-That’s not why I—… You’re overthinking it, Tomoya-kun…
 
 I was looking around at everyone to see if anyone wanted a refill. I wasn’t only looking at you…
 {% endbubble %}
@@ -894,7 +894,7 @@ Our role is to stay here at school and decorate the whole place through the comi
 {% endbubble %}
 
 {% bubble Kanata %}
-Huh--? Hold on a second, we are going to sleep over?
+Huh—? Hold on a second, we are going to sleep over?
 
 That might be a little too difficult for me. My household does not see sleepovers in good light.
 {% endbubble %}
