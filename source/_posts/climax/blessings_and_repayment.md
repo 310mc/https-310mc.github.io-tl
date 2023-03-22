@@ -120,7 +120,7 @@ Anyway, come on now. Isn’t it a hero’s duty to rush over to wherever he’s 
 {% endbubble %}
 
 {% bubble Chiaki sigh2 %}
-What is it? I’ve got a bad feeling about this… You sometimes have a mischievous look on your face, Tenshouin…
+What is it? I’ve got a bad feeling about this… You sometimes have a mischievous look on your face, Tenshouin.
 {% endbubble %}
 
 {% bubble Eichi frown %}
@@ -156,7 +156,7 @@ Yes, and some candy, too. You see, on Valentine’s Day—
 
 Our Tori, all shy and nervous, squeezed a piece of chocolate into my hand.
 
-There was always someone in the Student Council office that day to manage the Chocolat Fes.
+There was always someone in the Student Council office that day to manage the Chocolat Fes—
 
 But I think Tori was a little too embarrassed to give the chocolate to me in front of everyone.
 
@@ -230,7 +230,7 @@ For goodness’ sake… Get along with each other! Don’t you know that love sa
 {% bubble Eichi serious %}
 It destroys it too, though. Regardless… The reason I called you here wasn’t just to give you a White Day gift, Chiaki.
 
-I simply thought to give them to you while we’re here.
+I simply thought to give it to you while you’re here.
 
 Allow me to get straight to the point: Do you, Ryuseitai, have any intention to participate in the Repayment Festival scheduled in two weeks?
 {% endbubble %}
@@ -414,7 +414,7 @@ i have had a [connection] with that [temple] from long back, after all~…
 {% bubble Eichi smile %}
 Ahh, so that’s why you’re so harsh with Keito…
 
-Regardless, I don’t think he knows where Kanzaki-kun is either. He caused a fuss this morning because he couldn’t get in touch with him.
+Regardless, I don’t think he knows where Kanzaki-kun is either. He caused a huge fuss this morning because he couldn’t get in touch with him.
 {% endbubble %}
 
 {% bubble Kanata frown2 %}

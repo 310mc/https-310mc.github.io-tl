@@ -72,7 +72,7 @@ Huh~ So you’re gonna be some sorta multi-talented entertainer after graduation
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-I’m not sure what to call it exactly, but I’m mainly going to be performing idol activities. Fortunately, there are a lot of people in the industry who are willing to get in touch with me.
+I’m not sure what to call it exactly, but I’m mainly going to be performing idol activities. Fortunately, there are a lot of people in the industry want to get in touch with me.
 
 I’m going to be packed with work as soon as spring starts.
 {% endbubble %}
@@ -108,7 +108,7 @@ Thing is though, my family is *extremely* practical~
 
 They told me that if I don’t succeed even after putting in the effort, I should give up on being an idol once and for all.
 
-And then, I should take over the Hakaze family business. I mean, I’m thankful that they have a plan B prepared for me, but…
+And then, I should take over the Hakaze family business. I mean, I’m thankful that they have a backup plan prepared for me, but…
 
 I didn’t really *ask* for their help… So maybe I feel this way ‘cause I’m in a rebellious phase of some sort…?
 
@@ -124,7 +124,7 @@ I asked him if he’s interested, so we’ll see what happens… It’s his life
 {% bubble Chiaki grin %}
 I see. Well, I’m sure you’ll be just fine. You’re so full of talent that I’m almost jealous.
 
-I mean, if *you* won’t become an idol, who else will? Good luck out there! If you ever need help, you can always count on me.
+I mean, if *you* won’t become an idol, who else will? Good luck out there! If you’re ever in trouble, you can always count on me.
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
@@ -142,7 +142,7 @@ I really thought he would’ve told you something.
 {% endbubble %}
 
 {% bubble Chiaki sad3 %}
-And <em>I</em> thought that he would have told <em>you</em> all about it… You didn’t hear anything either? Really…?
+And I thought that he would have told <em>you</em> all about it… You didn’t hear anything either? Really…?
 
 I wonder if he’s going to be alright… He could just disappear without a trace the moment we graduate.
 {% endbubble %}

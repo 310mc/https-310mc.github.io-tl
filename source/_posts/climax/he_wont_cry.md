@@ -92,13 +92,13 @@ Then again, you’re <em>always</em> like that! Ahahahaha! ☆
 {% endbubble %}
 
 {% bubble Midori surprised %}
-Fwah? Huh? Ohh, sorry, Akehoshi-senpai… I’m always up early, so I get sleepy by this hour…
+Fwah? Ohh, sorry, Akehoshi-senpai… I’m always up early, so I get sleepy by this hour…
 {% endbubble %}
 
 {% bubble Subaru %}
 Oh~? Are you a li’l kid or something? Ahaha! ☆
 
-I get up early in the morning too, ‘cause I have to walk Daikichi! We’re the same, huh? Isn’t it so nice to share something in common? ♪
+I get up early in the morning too, ‘cause I have to walk Daikichi! We’re the same, huh? Isn’t it so nice to share something in common?[^1] ♪
 {% endbubble %}
 
 {% bubble Midori sad %}
@@ -114,7 +114,7 @@ Oh yeah~ You help out at home, huh? That’s amazing! Lemme praise you! There, t
 {% endbubble %}
 
 {% bubble Midori v2 %}
-Please don’t pat my head… You’re as touchy-feely as <em>that</em>, aren’t you…?
+Please don’t pat my head… You’re as insanely touchy-feely as <em>that</em>, aren’t you…?
 
 You’re both so similar, it’s almost like your brothers…
 {% endbubble %}
@@ -220,7 +220,7 @@ We’re on a basketball court, after all! Doing nothing but eating snacks and ch
 
 This is the *Basketball* club’s farewell party, so let’s play basketball!
 
-Fuhaha! You should also change into your uniforms and join us! Let’s have a final showdown! Come on now, let me feel your growth firsthand…☆
+Fuhaha! You guys should also change into your uniforms and join us! Let’s have a final showdown! Come on now, let me feel your growth firsthand…☆
 {% endbubble %}
 
 {% bubble Midori sad2 %}
@@ -258,11 +258,11 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 {% bubble Midori sigh %}
 <th>(Ugh, it’s already dark outside…)</th>
 
-<th>(Our farewell party ended up going on for a lot longer than I’d hoped…)</th>
+<th>(Our farewell party ended up going on for a really long time…)</th>
 
 <th>(Ahh, I’m so sleepy… I just wanna go home and melt into my bed…)</th>
 
-<th>(Ughh, it’s so dark… The school at night feels way too creepy…)</th>
+<th>(Uuu~ It’s so dark… The school at night feels way too creepy…)</th>
 
 <th>(But since Morisawa-senpai dragged me over to the farewell party—)</th>
 
@@ -272,9 +272,9 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 {% bubble Midori sad %}
 <th>(But man… I’m seriously so tired…)</th>
 
-<th>(I don’t even *like* wild parties in the first place… and I still got forced into playing a bunch of matches…)</th>
+<th>(I don’t even like wild parties in the first place… and I *still* got forced into playing a bunch of matches…)</th>
 
-<th>(Basketball is, well… I mean, it’s kinda starting to be fun for me, but… I prefer not to have to move around so much…)</th>
+<th>(Basketball is, well… I mean, it’s kinda starting to be fun for me, but… I prefer not to move around so much…)</th>
 
 <th>(It’s tiring… I feel exhausted just watching people play…)</th>
 {% endbubble %}
@@ -312,7 +312,7 @@ Ehhh… I feel like if something like that was burned into my retinas, I’d nev
 {% bubble Midori worried %}
 <th>(Hmm…? Wait, huh? The lights are on in the gym…?)</th>
 
-<th>(Is the club having some kinda after-party…? I bet they still don’t wanna part ways… Man, they’re so energetic…)</th>
+<th>(Is the club having some kind of after-party…? I bet they still don’t wanna part ways… Man, they’re so energetic…)</th>
 
 <th>(Wait, no, it’s too quiet for that… Weird, did they just forget to turn off the lights…?)</th>
 
@@ -446,7 +446,7 @@ Fuhahaha…!! ☆
 {% bubble Midori sad %}
 …I see.
 
-<th>(Ahh… I wonder why I feel this way…? Morisawa-senpai hasn’t done anything wrong…)</th>
+<th>(Ahh… I wonder why I feel this way…? Morisawa-senpai hasn’t even done anything wrong…)</th>
 
 <th>(But seeing that smile of his irritates me to no end for some reason…)</th>
 {% endbubble %}
@@ -462,7 +462,7 @@ Fuhahaha…!! ☆
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-Takamine? Heeey, what’s wrong? Are you feeling down? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
+Takamine? Heeey, what’s wrong? You look like you’re feeling down…? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
 {% endbubble %}
 
 {% bubble Midori sad4 %}
@@ -514,7 +514,7 @@ So, I’ve been holding it back and working through everything as fast as I can,
 {% endbubble %}
 
 {% bubble Subaru %}
-Ohh~ Seems rough for you guys. There, there, let me pat your head~♪
+Ohh~ Seems rough for you. There, there, let me pat your head~♪
 
 Ahaha, it sounds busy at the Student Council, too. Good work out there!
 
@@ -540,9 +540,9 @@ It gets unbearably gloomy around this time, and it sucks.
 {% endbubble %}
 
 {% bubble Subaru %}
-Yeah. But well, we can’t stop the clock, can we… The least we can do is part ways properly.
+Yeah. But well, we can’t stop the clock, can we… The least we can do is part ways properly—
 
-The only thing left now is to say goodbye with a smile, so that our seniors won’t have any regrets when they leave.
+And to say goodbye with a smile, so that our seniors won’t have any regrets when they leave.
 {% endbubble %}
 
 {% bubble Subaru frown %}
@@ -564,9 +564,9 @@ But I’ve been so busy that even *that* got delayed… I feel really bad.
 {% bubble Subaru %}
 It’s fine, really! As long as we make it before they graduate.
 
-This wouldn’t have been the right timing for graduation gifts anyway…
+This wouldn’t have been the right timing for emotional graduation gifts anyway…
 
-It was pretty much the usual fooling around we do in the club… It’s almost hard to believe that even *that’ll* no longer be the usual for us soon.
+It was pretty much the usual fooling around we do in the club… It’s almost hard to believe that even *that* will no longer be the usual for us soon.
 {% endbubble %}
 
 {% bubble Subaru awkward %}
@@ -579,3 +579,6 @@ Hey Sally~, graduation really does suck… Even *I* have to push myself to smile
 {% btn /climax,, star, Index %}
 {% btn /climax/blessings_and_repayment,, arrow-right, Next Chapter: Blessings and Repayment %}
 </div>
+
+## Translation Notes
+[^1]: Subaru copying chiaki etc. 俺も朝は早く起きるよ～、大吉の散歩をしなくちゃいけないから！　同じだねっ、『同じ』があるのは嬉しいねっ♪

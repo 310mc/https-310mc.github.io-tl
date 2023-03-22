@@ -64,7 +64,7 @@ hidden: true
 {% img /img/es/eventstory/climax/anxiety1_1.jpg %}
 
 {% bubble Shinobu v2 %}
-<em><th>(Munch, munch)…♪</th></em>
+<em><th>(Munch, munch)</th>…♪</em>
 
 Mmm, tasty~ The cookies Yuuta-kun gave me as a “little early White Day gift” are simply delicious…♪
 
@@ -152,13 +152,13 @@ He is now the one who must manage everything as the leader of the Student Counci
 
 I have also been helping him out with a few trivial tasks! I owe a debt of gratitude to Isara-dono, so I would go through fire and water for him! ♪
 
-Wawa— Please don’t pat me on the head while saying, “good boy, good boy~♪”…
+Wawa— Please don’t pat me on the head while saying, “good boy, good boy. ♪”…
 
 You’ll mess up my hair~ You tend to see me as a toddler, Anzu-dono…
 
 Anyway, hmm… since Ryuseitai has not applied to participate in the Repayment Festival—
 
-You’ve come to me to see if we intend to participate.
+You’ve come to us to see if we intend to participate.
 {% endbubble %}
 
 {% bubble Shinobu curious %}
@@ -190,7 +190,7 @@ No, I don’t know the reason why, either.
 
 We don’t share the same class, nor do we personally meet up other than for our unit activities.
 
-We haven’t had any gatherings for Ryuseitai these days, so we’ve hardly been talking to each other.
+We haven’t had any gatherings for Ryuseitai these days, and we’ve hardly been talking to each other.
 
 Uuu… I also thought it was strange, so I tried to build up the courage to phone call or talk to them whenever we met in the corridors, but…
 
@@ -242,7 +242,7 @@ I see, so it is not because the academy is out of ideas or anything.
 
 As for the changes — Unlike Chocolat Fes, the sweets for the customers in the Repayment Festival are not made by idols, but by the suppliers instead…
 
-Well, that makes sense. We had more customers than expected at the Chocolat Fes, so we were all too busy making sweets~
+Well, that makes sense. We had more customers than expected at Chocolat Fes, so we were all too busy making sweets~
 
 So that is why some areas have been revised, in order to tackle those problems better this time.
 {% endbubble %}
@@ -288,7 +288,7 @@ Heh! I also know a little bit more about heroes now, don’t you think? ♪
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Ah— There you are, Tetora-kun! I’m coming in~…?
+Ah— There you are, Tetora-kun! I’m coming in, okay~…?
 
 So you really *were* in the dojo after all! Tetora-kun’s known for karate, and karate can only mean the dojo!
 
@@ -334,7 +334,7 @@ I have a complex about being childish, so I’ve always wanted to achieve the lo
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
-Ahaha, we all develop at a different speed, y’know.
+Ahaha, we all walk at a different speed, y’know.
 {% endbubble %}
 
 {% bubble Shinobu frown2 %}
