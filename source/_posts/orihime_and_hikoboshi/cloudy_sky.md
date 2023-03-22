@@ -154,7 +154,7 @@ Same here… I’m exhausted… I’m so tired of summer… I just wanna stay in
 {% endbubble %}
 
 {% bubble Chiaki %}
-What's wrong, Takamine! Why are you slouching in the corner there?!
+What's wrong, Takamine! Why are you slouching in the corner there!?
 
 Did something sad happen to you? Alright, don't worry, I’ll share my energy with you! ☆
 {% endbubble %}
@@ -188,7 +188,7 @@ I feel the same way Takaminee~! We’re the same! We're one in body and soul! Le
 {% endbubble %}
 
 {% bubble Midori %}
-Ahh you're hot, you're insanely hot! Are you some heat power generator?!
+Ahh you're hot, you're insanely hot! Are you some heat power generator!?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -200,7 +200,7 @@ Mm… Akehoshi, Isara, do you have time after this? I have something I need to a
 {% endbubble %}
 
 {% bubble Mao %}
-Huh?! Where did this come from?! Please spare me from dealing with any problems…
+Huh!? Where did this come from!? Please spare me from dealing with any problems…
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -618,7 +618,7 @@ Isara-donoo~!!!
 {% endbubble %}
 
 {% bubble Mao %}
-Aahh?! W-what's wrong, Sengoku? Do you need something?
+Aahh!? W-what's wrong, Sengoku? Do you need something?
 
 Sorry, I couldn't show up to practice in the end… Preparations for the event are taking much more time than I thought they would.
 
@@ -676,7 +676,7 @@ You're feeling lonely, right? Ahaha, you really do love Buchou~♪ You can't rel
 {% endbubble %}
 
 {% bubble Mao %}
-(…?! He ignored me?! I was trying to crack jokes with him to lighten the mood, but it failed~!)
+(…!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)
 
 (Really, though… I need to figure out what's going on. Why's it so gloomy in here?)
 

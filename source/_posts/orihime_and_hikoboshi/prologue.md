@@ -119,7 +119,7 @@ Wait, now all I’m doing is complaining. My bad, Anzu. I came here to help you,
 
 Maybe this means you’re a truly excellent producer… Even more than I thought.
 
-… Woah—Why are you suddenly teary-eyed?! Sorry, am I annoying you?
+… Woah—Why are you suddenly teary-eyed!? Sorry, am I annoying you?
 
 No? It’s because you don’t get why you were tasked to plan an S1 event? You’re still an amateur who doesn’t know anything?
 
@@ -167,7 +167,7 @@ Oh…? Work? Anzu-dono, you always seem to be working…
 
 Please take care of your health as much as you can. It is easy to catch a cold nowadays, you know?
 
-Mggh?! W-wha—Anzu-dono? Please do not hug me~!
+Mggh!? W-wha—Anzu-dono? Please do not hug me~!
 {% endbubble %}
 
 {% bubble Mao %}

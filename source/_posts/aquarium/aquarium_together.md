@@ -82,7 +82,7 @@ Blue skies and a clear sun! The morning feels great! I feel the energy just gush
 
 (Hmm, what to do….)
 
-…Hm? Hiii--Hahaha!! ☆ Heeey, who's the bad kid poking Mama’s sides?!
+…Hm? Hiii--Hahaha!! ☆ Heeey, who's the bad kid poking Mama’s sides!?
 
 Ohh, it’s you, Anzu-san! You’re tiny and I couldn’t see you, so I didn’t notice you were there! You should make your presence much stronger!
 
@@ -178,7 +178,7 @@ I do not mind. But before doing so, I will eliminate you before you can do any h
 {% endbubble %}
 
 {% bubble Kaoru %}
-Uhh, you just said that so casually, you know?! Please don't do anything~ Aren’t we pals from the same club? ♪
+Uhh, you just said that so casually, you know!? Please don't do anything~ Aren’t we pals from the same club? ♪
 {% endbubble %}
 
 {% bubble Souma %}
@@ -238,7 +238,7 @@ Okay, if you get confused just call out to us~ Bye bye~♪
 
 ……Alright! Anzu-chan! Let’s hold hands and run while Souma-kun can’t see us! Let’s run away to the horizon beyond the sea!
 
-Eek?! A shuriken thingie just flew this way!!
+Eek!? A shuriken thingie just flew this way!!
 {% endbubble %}
 
 {% bubble Souma %}
@@ -246,7 +246,7 @@ Eek?! A shuriken thingie just flew this way!!
 {% endbubble %}
 
 {% bubble Kaoru %}
-Uughh~ What’s with this kid?! He’s a real pain! This is my long-awaited date with Anzu-chan~!!
+Uughh~ What’s with this kid!? He’s a real pain! This is my long-awaited date with Anzu-chan~!!
 
 This date is why I cancelled all my other plans! I even woke up early today!
 

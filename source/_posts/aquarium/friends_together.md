@@ -124,7 +124,7 @@ Good, good. I’m gonna carry you up on my shoulders~ Here we go~♪
 {% endbubble %}
 
 {% bubble Sora %}
-Woah--?! Hina-chan, you’re super strong! Sora is around the same size as you, yet you easily managed to carry Sora up!
+Woah--!? Hina-chan, you’re super strong! Sora is around the same size as you, yet you easily managed to carry Sora up!
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -318,7 +318,7 @@ Or is the sharkie coming right out of the water tank…?
 {% endbubble %}
 
 {% bubble Hinata %}
-Huh? What?! Are we turning into a horrific thriller movie!?
+Huh? What!? Are we turning into a horrific thriller movie!?
 {% endbubble %}
 
 {% bubble Souma %}
@@ -330,7 +330,7 @@ Hmm? Wait, that's not a shark, Sora-kun. That's Akatsuki's… Kanzaki-senpai?
 {% endbubble %}
 
 {% bubble Souma %}
-… You bastard! Where did you go?! It is inexcusable of you to sneakily take a head start!
+… You bastard! Where did you go!? It is inexcusable of you to sneakily take a head start!
 
 I was a fool for admiring how you were thinking for once!
 {% endbubble %}
@@ -480,7 +480,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 (I mean, it's pretty neat how aquariums have all kinds of stuff you wouldn’t be able to find, even if you went for a dive in the ocean.)
 
-(Let's see… What kind of fish i--Wait, huuuh?!)
+(Let's see… What kind of fish i--Wait, huuuh!?)
 {% endbubble %}
 
 {% img (Aquarium ♪) Kanata Shinkai CG.png %}
@@ -492,9 +492,9 @@ Ohhh? Kaoru! Ehehe, what a coincidence~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Um, no, no! What are you doing, Kanata-kun?! You're inside the water tank, you know?!
+Um, no, no! What are you doing, Kanata-kun!? You're inside the water tank, you know!?
 
-I second-guessed myself about this before, but were you actually a sea creature and not a human all along?!
+I second-guessed myself about this before, but were you actually a sea creature and not a human all along!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -504,7 +504,7 @@ I sacrificed something important to me so as to live on the land… It is just l
 {% endbubble %}
 
 {% bubble Kaoru %}
-Okay yeah, you do look like a *“Little Mermaid”* resting on top of a rock right now, but! What are you doing?! We were looking for you because of how worried we were!
+Okay yeah, you do look like a *“Little Mermaid”* resting on top of a rock right now, but! What are you doing!? We were looking for you because of how worried we were!
 
 Yet all this time you were over here, just acting all weird like it's completely normal!
 {% endbubble %}

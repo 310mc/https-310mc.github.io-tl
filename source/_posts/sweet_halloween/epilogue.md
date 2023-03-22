@@ -121,7 +121,7 @@ Okay…♪ I’ll do my best~!
 {% endbubble %}
 
 {% bubble Tomoya %}
-Hajime? Your eyes are closed… You didn’t fall asleep, right…? Wait, are you alright?!
+Hajime? Your eyes are closed… You didn’t fall asleep, right…? Wait, are you alright!?
 {% endbubble %}
 
 {% bubble Hajime %}

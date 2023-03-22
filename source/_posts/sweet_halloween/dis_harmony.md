@@ -286,7 +286,7 @@ I will stay here a little longer\~ to show how happy I am\~ *Puka, puka\~♪*
 {% endbubble %}
 
 {% bubble Shinobu %}
-Wffhg?! Bffppt — A bit of water splashed into my mouth!
+Wffhg!? Bffppt — A bit of water splashed into my mouth!
 
 Shinkai-dono, pleaaase\~! Do not splash around like a little child! Get out of there already\~!
 {% endbubble %}
@@ -362,7 +362,7 @@ Slaaam! ☆
 {% endbubble %}
 
 {% bubble Madara %}
-Owaah?! Heeey, you shouldn’t crash into people from behind, Mitsuru-san! You might hurt someone, okay?
+Owaah!? Heeey, you shouldn’t crash into people from behind, Mitsuru-san! You might hurt someone, okay?
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -388,7 +388,7 @@ You never listen to people… It’s easier to stop you myself.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Wawa—?! You won’t make me happy with this~! I’m not *that* much of a kid!
+Wawa—!? You won’t make me happy with this~! I’m not *that* much of a kid!
 
 I’m as much of an athlete as you! I’ll prove it with another showdown, c’mon! ♪
 {% endbubble %}
@@ -490,7 +490,7 @@ It’s not like you to make such a grim face! C’mon, cheer up~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-O-ooh?! You surprised me!
+O-ooh!? You surprised me!
 
 Sorry, sorry! I was deep in thought and couldn’t respond in time!
 
@@ -856,7 +856,7 @@ This is a big event, just like Tanabata Festival — The one we did in the summe
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Tanabata Festival\~?! That was suuuper fun! I felt like I could reach the stars with all the bouncing we did on stage\~! ☆
+Tanabata Festival\~!? That was suuuper fun! I felt like I could reach the stars with all the bouncing we did on stage\~! ☆
 {% endbubble %}
 
 {% bubble Tomoya %}

@@ -122,11 +122,11 @@ Umm, guys… I do not see any of our Trickstar seniors here.
 {% endbubble %}
 
 {% bubble Tetora %}
-Whaaa?! You're right! Did we get the meeting place wrong?
+Whaaa!? You're right! Did we get the meeting place wrong?
 {% endbubble %}
 
 {% bubble Midori %}
-Huh?! We already messed up? W-What do we do…?
+Huh!? We already messed up? W-What do we do…?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -148,7 +148,7 @@ Yes yes, hellooo~! ♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Woah!! A response from behind?! Who…!?
+Woah!! A response from behind!? Who…!?
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -418,7 +418,7 @@ We'll guide you as best as we can, as your seniors… Hehe~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Huh?! W-Wait, hold on! This is completely different from what we thought… Like, I feel like we're not on the same page…?
+Huh!? W-Wait, hold on! This is completely different from what we thought… Like, I feel like we're not on the same page…?
 
 Aren't we going to do a joint live for the event?
 {% endbubble %}
@@ -1048,7 +1048,7 @@ Sengoku… You're such a good kid! I want a little brother like you~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Huh?! I-if that is your wish, then I will become “Isara Shinobu” for you!!
+Huh!? I-if that is your wish, then I will become “Isara Shinobu” for you!!
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -1078,7 +1078,7 @@ For goodness’ sake… He may look strong because of his build, but he's pretty
 {% endbubble %}
 
 {% bubble Subaru %}
-Huh--?! I didn't do that! …I think.
+Huh--!? I didn't do that! …I think.
 {% endbubble %}
 
 ## Chapter 7
@@ -1256,7 +1256,7 @@ Anyway… I know I said all that stuff earlier, but honestly… I'm worried abou
 {% endbubble %}
 
 {% bubble Shinobu %}
-Huh?! We are going to deepen our bonds, are we not?! Let us have fun to the very end! If you are not here, who knows when the mood might go down again…!
+Huh!? We are going to deepen our bonds, are we not!? Let us have fun to the very end! If you are not here, who knows when the mood might go down again…!
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1342,7 +1342,7 @@ It's seriously summer now — it's super humid even at night!
 {% endbubble %}
 
 {% bubble Mao %}
-Huh!? Why're you complimenting me all of a sudden?! You're making me blush~!
+Huh!? Why're you complimenting me all of a sudden!? You're making me blush~!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1378,7 +1378,7 @@ Although, ninjas are meant to be concealed in the dark, so you may have a hard t
 
 That is all I wanted to say!
 
-I’m sorry, was it hard to understand?!
+I’m sorry, was it hard to understand!?
 {% endbubble %}
 
 {% bubble Mao %}

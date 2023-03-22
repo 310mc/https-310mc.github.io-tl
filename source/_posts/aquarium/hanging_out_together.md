@@ -92,7 +92,7 @@ I am a shameful man! I cannot bear this shame—I will slice my stomach open as 
 
 Ah--! But I did not bring my katana today…!
 
-What do I do?! Should I dive into the watertank full of *“pi-rah-na”* and allow myself to get devoured as apology?!
+What do I do!? Should I dive into the watertank full of *“pi-rah-na”* and allow myself to get devoured as apology!?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -258,7 +258,7 @@ Quit talking about weird things without a care in the world~! You should apologi
 {% endbubble %}
 
 {% bubble Kanata %}
-*Uunini?!* Kaoru! Please do not pinch my cheeks~!
+*Uunini!?* Kaoru! Please do not pinch my cheeks~!
 
 Uuu*…* How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
 
@@ -338,7 +338,7 @@ Shut up! Jeez! You’re so annoying!
 
 I shouldn’t have tried! I should’ve just had a nice date with a girl! I wasted my holiday for nothing!
 
-Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh?!
+Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -346,7 +346,7 @@ Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh?!
 {% endbubble %}
 
 {% bubble Kaoru %}
-Huh!? That’s how it works?! You cryptic creature!
+Huh!? That’s how it works!? You cryptic creature!
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -572,7 +572,7 @@ HaHa~♪ Sea cucumbers aren’t typically sold around here, so if you took some 
 {% endbubble %}
 
 {% bubble Hinata %}
-That’s true! He’d get his undies in a bunch from jealousy and say, *“You cheater, Aniki! You hung out with someone other than me, didn’t you?!”*
+That’s true! He’d get his undies in a bunch from jealousy and say, *“You cheater, Aniki! You hung out with someone other than me, didn’t you!?”*
 
 But this is just the *Free to Touch* section, so I guess I can’t take it back home anyway. I’ll put it back.
 
@@ -590,7 +590,7 @@ Hellooo… Hinata-kun, you look like you are having fun. But you should not be f
 {% endbubble %}
 
 {% bubble Hinata %}
-Wahhhh--?!?!
+Wahhhh--!?
 
 Oooh! So it was you, Sakuma-senpai! Hello! Pretty unusual to see you outside of school during the day~♪
 {% endbubble %}
@@ -612,7 +612,7 @@ Then allow me to scribbley dibbley it down for you with this pen I bought from t
 {% endbubble %}
 
 {% bubble Hinata %}
-Ah--wait! So it’ll disappear as soon as it gets wet?! I was playing around in the *Free to Touch* section, so my hands are all dripping wet!
+Ah--wait! So it’ll disappear as soon as it gets wet!? I was playing around in the *Free to Touch* section, so my hands are all dripping wet!
 {% endbubble %}
 
 {% bubble Rei %}

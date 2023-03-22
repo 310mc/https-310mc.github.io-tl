@@ -52,7 +52,7 @@ hidden: true
 
 <!-- more -->
 
-{% img Sweet Halloween - Prologue 1.png %}
+<img src="https://image.ibb.co/iQy8TG/IMG_4396.png">
 
 {% note location %}
 **Location:** At the bulletin board
@@ -86,14 +86,16 @@ hidden: true
 (I’m just a no good dunce, aren’t I…? It’s like I’ve gone straight back to how I was before I met Tomoya-kun.)
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/prologue_2.jpg %}
+
 {% bubble Chiaki %}
 (*Sigh…*)
 
 (What do I do? What do I do? I’m in big trouble.)
 
-(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Aahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh?!)
+(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Aahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)
 
-(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh?! Yep, not happening! Think more realistically!)
+(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)
 
 (But…… Ahhh, I really don’t wanna! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)
 
@@ -113,11 +115,11 @@ hidden: true
 {% endbubble %}
 
 {% bubble Hajime %}
-…Hffmph?!
+…Hffmph!?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Wha—?! I-I-I-I’m so sorry!![^1] Are you alright?! I’m terribly sorry for bumping into you!
+Wha—!? I-I-I-I’m so sorry!![^1] Are you alright!? I’m terribly sorry for bumping into you!
 {% endbubble %}
 
 {% bubble Hajime %}

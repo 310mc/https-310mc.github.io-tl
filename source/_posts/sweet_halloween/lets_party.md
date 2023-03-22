@@ -146,7 +146,7 @@ hey rooogue~♪ trick or treat!
 {% endbubble %}
 
 {% bubble Madara %}
-Waahh!?! Heyo, Kanata-san! You look like you’re having the time of your life!
+Waahh!!? Heyo, Kanata-san! You look like you’re having the time of your life!
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -164,7 +164,7 @@ even if i do want to get close, the water tank is in the way, you see?
 
 so how about *you* forgive your old self already? i am also trying to do that as much as i can.
 
-wah—?!
+wah—!?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -180,7 +180,7 @@ you should not throw food like that, okay? this is punishment for your prank~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Wawa—?! Please do not tickle me! I am ticklish underneath my arms!
+Wawa—!? Please do not tickle me! I am ticklish underneath my arms!
 
 I give up, I give up!! Shinkai-donoo~! Ahahaha!! ☆
 {% endbubble %}
@@ -362,7 +362,7 @@ I was a little nervous you might not care about me, since you always act so hars
 {% endbubble %}
 
 {% bubble Chiaki %}
-Wh—?! T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?[^2]
+Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?[^2]
 
 We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
 {% endbubble %}
@@ -898,7 +898,7 @@ Heave-ho… I’ll carry you to the pumpkin, Hajime.
 {% endbubble %}
 
 {% bubble Hajime %}
-Wha—?! T-Tomoya-kun?! Don’t carry me!
+Wha—!? T-Tomoya-kun!? Don’t carry me!
 {% endbubble %}
 
 {% bubble Tomoya %}

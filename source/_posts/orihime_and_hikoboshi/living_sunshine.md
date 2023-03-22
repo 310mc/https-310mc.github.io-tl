@@ -142,7 +142,7 @@ So I had no choice but to abduct and confine him.
 {% endbubble %}
 
 {% bubble Tetora %}
-Uh-- Huh?! What did you just say?!
+Uh-- Huh!? What did you just say!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -158,7 +158,7 @@ Then he grabbed me and locked me up there for the whole week.
 {% endbubble %}
 
 {% bubble Shinobu %}
-Huh?! W-were you okay?!
+Huh!? W-were you okay!?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -192,7 +192,7 @@ For real, good work… Gosh, Morisawa-senpai's *such *a handful…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-What?! I'm the victim here, but you're talking to me like I'm the one who did something wrong!
+What!? I'm the victim here, but you're talking to me like I'm the one who did something wrong!
 
 But you're right! I should be listening to what my doctor says!
 {% endbubble %}
@@ -302,7 +302,7 @@ Ah, yeah. I'd love to, but we’ve been left to take care of a stall. We need to
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ohh, you're doing a stall again?! I feel like it's become a custom of ours now!
+Ohh, you're doing a stall again!? I feel like it's become a custom of ours now!
 
 It's just like Ryuseitai! I like it! Ahh, this brings me back… Mikejima-san used to invite me to help out in stalls pretty often, last year…♪
 {% endbubble %}
@@ -388,7 +388,7 @@ Then let's bathe in the water~♪ It will relieve you and make you feel refreshe
 {% endbubble %}
 
 {% bubble Tetora %}
-Where'd you get that bucket from, Shinkai-senpai?! I see water in there—if you dump that on us we'll *all *get sick!
+Where'd you get that bucket from, Shinkai-senpai!? I see water in there—if you dump that on us we'll *all *get sick!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -436,15 +436,15 @@ That just means you’re growing up, too. Mhm, you’re now like a confident, re
 
 Woah woah--!! Don’t shake the step ladder!! Oh no, no, no--!! I’m sorry, I’m sorry!
 
-Please don’t be angry, Anzu-san!! You don’t speak when you’re mad, so it’s even more terrifying, y’know?!
+Please don’t be angry, Anzu-san!! You don’t speak when you’re mad, so it’s even more terrifying, y’know!?
 
 L-Let’s calm down now! You can’t hurt an idol right before their performance — You’d fail as a producer if you did that, wouldn’t you?
 
 Ah, the shaking stopped. Ahaha, yep, the best way to stop you is by aiming from *that* angle~♪
 
-…Hm? What’s wrong, Anzu? You look like you’re about to cry…?!
+…Hm? What’s wrong, Anzu? You look like you’re about to cry…!?
 
-S-Sorry for teasing you! I shouldn’t crack jokes with you as if I’m talking to a guy, right?! I’m really sorry for being inconsiderate!
+S-Sorry for teasing you! I shouldn’t crack jokes with you as if I’m talking to a guy, right!? I’m really sorry for being inconsiderate!
 
 Ughh, I wanna prostrate and apologize to you, but I can’t! I’m still on top of the ladder!
 
@@ -466,7 +466,7 @@ They acknowledge you as a respectable person, who can guide us all.
 
 So c’mon, don’t make that face. Don’t talk about yourself that way. Be more proud of yourself~ This is something worth boasting about.
 
-… Anzu? Uh?! Are you crying for real now?!
+… Anzu? Uh!? Are you crying for real now!?
 
 H-Hold on, I’ll climb down right now! Just gimme a sec—Woah--!!
 
@@ -504,7 +504,7 @@ Hey, guys… Come over here. Sari~ pushed Anzu down.
 {% endbubble %}
 
 {% bubble Hokuto %}
-What?! Have you gone mad, Isara?! It doesn't matter if it's you—that's still unforgivable!
+What!? Have you gone mad, Isara!? It doesn't matter if it's you—that's still unforgivable!
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -556,7 +556,7 @@ Y-yeah, we can't let that happen.
 {% endbubble %}
 
 {% bubble Mao %}
-Hokuto~?! You're the least likely to be interested in this stuff, yet *you’re* the one who doesn't believe me!?
+Hokuto~!? You're the least likely to be interested in this stuff, yet *you’re* the one who doesn't believe me!?
 
 Ughh… What did I ever do to you guys… Whatever, it’s fine… Anzu thankfully seems alright, at least…
 
@@ -618,7 +618,7 @@ Isara-dono~! I mean-- Everyone from Trickstar! We have acquired a place for our 
 {% endbubble %}
 
 {% bubble Mao %}
-Wait, wait! You’re misunderstanding again! We were just bonding as friends, y’know…?!
+Wait, wait! You’re misunderstanding again! We were just bonding as friends, y’know…!?
 {% endbubble %}
 
 {% bubble Shinobu %}

@@ -92,7 +92,7 @@ Few hours later
 {% endbubble %}
 
 {% bubble Tetora %}
-“Wait, we were gonna do that?! Couldn’t we have just left them out~?”
+“Wait, we were gonna do that!? Couldn’t we have just left them out~?”
 
 “Well, whatever! I'm Ryusei Black, Nagumo Tetora…!”
 {% endbubble %}
@@ -122,7 +122,7 @@ Few hours later
 
 “After all, that would be rude to the audience cheering for us, and to you, our opponents!”
 
-“Both Karate and idols start with a bow and end with a bow! Isn't that right, Nagumo?!”
+“Both Karate and idols start with a bow and end with a bow! Isn't that right, Nagumo!?”
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -164,7 +164,7 @@ Few hours later
 {% bubble Shinobu %}
 “That is just what we wanted to hear! The stronger the light, the darker the shadow! And that is* exactly *my forte! ☆”
 
-“Thank you, Isara-dono~! You were giving me a chance to say something ninja-like, right?! ♪”
+“Thank you, Isara-dono~! You were giving me a chance to say something ninja-like, right!? ♪”
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -382,7 +382,7 @@ Go for it! Do it properly! It's okay, I'm sure *you* can do it! ♪
 {% endbubble %}
 
 {% bubble Midori %}
-…!! We're in the middle of our match, but I guess you still have time to *help* me, huh…?!
+…!! We're in the middle of our match, but I guess you still have time to *help* me, huh…!?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -428,7 +428,7 @@ Dad…! I think I’ve finally reached it…☆
 
 (So I'll look down at my feet below, and do what I can in this moment… I’d only embarrass myself if I messed up right after being warned, so I'm gonna get that move right, like—this!)
 
-(How's that?! Even I can do it if I get serious--!!)
+(How's that!? Even I can do it if I get serious--!!)
 {% endbubble %}
 
 {% img (Tanabata Anticipation) Subaru Akehoshi CG2.png %}
@@ -514,7 +514,7 @@ Sengoku! …You okay?
 {% endbubble %}
 
 {% bubble Shinobu %}
-…Huh--?! I am okay! I love ninjas!
+…Huh--!? I am okay! I love ninjas!
 {% endbubble %}
 
 {% bubble Mao %}

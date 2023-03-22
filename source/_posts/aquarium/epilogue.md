@@ -164,7 +164,7 @@ I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
 {% bubble Souma %}
-“Wh-what?! Buchou-dono! I do not particularly want any reward, so please do not toss seafood at me!”
+“Wh-what!? Buchou-dono! I do not particularly want any reward, so please do not toss seafood at me!”
 {% endbubble %}
 
 {% bubble Kaoru %}

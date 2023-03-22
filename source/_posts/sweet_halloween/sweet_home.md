@@ -142,11 +142,11 @@ But I wanna ask, Chiaki-chin… Is there a smaller size than the one I’m weari
 
 …Woah—Wah— Oh no no—!!
 
-Gfhbf—?! Oww—I hit my fwace!
+Gfhbf—!? Oww—I hit my fwace!
 {% endbubble %}
 
 {% bubble Madara %}
-Are you okay?!
+Are you okay!?
 
 You tripped on your pants… You’re like a little kid, Nazuna-san~♪
 {% endbubble %}
@@ -234,7 +234,7 @@ It’s gonna be Mama, isn’t it, Anzu-san! Even though you were always too emba
 {% endbubble %}
 
 {% bubble Madara %}
-Huh?! Really?! I don’t feel any love in mine! Where’s the love, Anzu-san?!
+Huh!? Really!? I don’t feel any love in mine! Where’s the love, Anzu-san!?
 
 Even when I care for you this deeply—! Sweet darling daughter, are you rebelling against meee~!
 {% endbubble %}
@@ -268,7 +268,7 @@ They’re not short, I’m just short in general… I’ve completely stopped gr
 {% endbubble %}
 
 {% bubble Mitsuru %}
-G-Growing…?!
+G-Growing…!?
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -460,7 +460,7 @@ Ahh, it’s easier if I just carry the ladder with you on it… Up you go…♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Eeeek! You are managing it so easily…?! You are definitely much more powerful than you seem, Midori-kun!
+Eeeek! You are managing it so easily…!? You are definitely much more powerful than you seem, Midori-kun!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -482,17 +482,17 @@ Good point… I keep wanting to get the annoying stuff over with as soon as poss
 {% endbubble %}
 
 {% bubble Chiaki %}
-Guh— AAAAAAAAAAH?!
+Guh— AAAAAAAAAAH!?
 {% endbubble %}
 
 {% bubble Tetora %}
-?! What’s wrong, Taichou?!
+!? What’s wrong, Taichou!?
 
-I heard a large crashing sound! Are you okay?! Did something bad happen as soon as I brought it up?!
+I heard a large crashing sound! Are you okay!? Did something bad happen as soon as I brought it up!?
 
-…? Huh?! I don’t see him anywhere! But he was working with Shinkai-senpai over there just a second ago!
+…? Huh!? I don’t see him anywhere! But he was working with Shinkai-senpai over there just a second ago!
 
-Shinkai-senpai, did you eat him?!
+Shinkai-senpai, did you eat him!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -506,7 +506,7 @@ Ah, Taichou-dono is being crushed by a box of decorations… Ahaha, he is comple
 {% endbubble %}
 
 {% bubble Chiaki %}
-G…G-Ghosts?! No, it’s fine, these are just decorations! It’s not scary! Nope!
+G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! Nope!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -514,7 +514,7 @@ G…G-Ghosts?! No, it’s fine, these are just decorations! It’s not scary! No
 {% endbubble %}
 
 {% bubble Chiaki %}
-W-w-w-what is it?! I’m fine! I saw some realistic-looking ghost decorations and frea—
+W-w-w-what is it!? I’m fine! I saw some realistic-looking ghost decorations and frea—
 
 No! I mean— I accidentally slipped on some decorations and fell! I wasn’t paying attention!
 
@@ -556,7 +556,7 @@ Oh? Could it be that you’re feeling lonely\~? Cuz he’s not paying attention 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Wha—What are you going to do with that hammer, Midori-kun?! You could kill someone with that, you know?!
+Wha—What are you going to do with that hammer, Midori-kun!? You could kill someone with that, you know!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -792,7 +792,7 @@ Tomoya-kuuun, I finished cleaning up this hut here~♪
 {% endbubble %}
 
 {% bubble Hajime %}
-(Wah—?!)
+(Wah—!?)
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -840,7 +840,7 @@ Yeah, true… I feel like you go through that a lot, Tetora… since you’re pr
 {% endbubble %}
 
 {% bubble Tetora %}
-Woah woah, why did this suddenly become about me…?! You’re not holding back at all, huh? The fight must be affecting you.
+Woah woah, why did this suddenly become about me…!? You’re not holding back at all, huh? The fight must be affecting you.
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -866,7 +866,7 @@ There’s no way I could do that to Hajime… I’d rather die.
 {% endbubble %}
 
 {% bubble Tetora %}
-Then what are you gonna do? Are you just gonna waste time being nervous around each other?! That’s so irritating!
+Then what are you gonna do? Are you just gonna waste time being nervous around each other!? That’s so irritating!
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -1194,7 +1194,7 @@ Oh, no. We’re going to be watching horror movies together~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-Horro…?! Huh?! Why are you…?! It’s not the season for ghost stories anymore[^5], and if you watch horror movies now, you won’t be able to sleep!
+Horro…!? Huh!? Why are you…!? It’s not the season for ghost stories anymore[^5], and if you watch horror movies now, you won’t be able to sleep!
 
 Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right?
 {% endbubble %}
@@ -1206,7 +1206,7 @@ There was an extra monitor in the AV room, right? I got permission from Anzu-san
 {% endbubble %}
 
 {% bubble Chiaki %}
-Gahhh?! You really are amazing, Takamine…! So kind and strong…!
+Gahhh!? You really are amazing, Takamine…! So kind and strong…!
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1272,7 +1272,7 @@ Wawa— Morisawa-senpai, shhh~♪ I think Nii-chan is asleep, so please keep you
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah! Yeah! My bad! I-I think I’ve gotten tired, too! Can I go ahead and get some rest? Is it okay if I do that?![^6]
+Ah! Yeah! My bad! I-I think I’ve gotten tired, too! Can I go ahead and get some rest? Is it okay if I do that!?[^6]
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1280,7 +1280,7 @@ Oh no no, don’t be like that\~ Let’s all watch the movie together\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-T-Takamine? Your face looks mischievous! Why is that! Did I do something to make you angry again?!
+T-Takamine? Your face looks mischievous! Why is that! Did I do something to make you angry again!?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1332,7 +1332,7 @@ We’ve got a special spot right here just for you seniors, so just relax and en
 {% endbubble %}
 
 {% bubble Chiaki %}
-Gahhh?! Oh Nagumo…! You’re such a good kid…!!
+Gahhh!? Oh Nagumo…! You’re such a good kid…!!
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -1448,7 +1448,7 @@ Yeah, I totally know what you mean… This guy’s likely gonna die…
 {% endbubble %}
 
 {% bubble Chiaki %}
-H-He won’t die, right?! He survived this long! You’re just lying when you say he’s gonna die, right!?
+H-He won’t die, right!? He survived this long! You’re just lying when you say he’s gonna die, right!?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1598,7 +1598,7 @@ Tomoya-kun! It’s the morning~!! Please wake up!
 {% endbubble %}
 
 {% bubble Tomoya %}
-…Mmgaah?! Ah, huh? Huh, what?
+…Mmgaah!? Ah, huh? Huh, what?
 
 W-why are you…? Morning! Ah—Ohhh, that’s right, we slept at school…
 {% endbubble %}
@@ -1778,7 +1778,7 @@ Please, I’m begging you, Tomoya-kun… I love you.
 {% endbubble %}
 
 {% bubble Hajime %}
-Huh?! Am I not good enough as a boy?
+Huh!? Am I not good enough as a boy?
 {% endbubble %}
 
 {% bubble Tomoya %}

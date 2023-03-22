@@ -244,7 +244,7 @@ You’ve been doing as great as you ever could. This Onii-san right here will as
 {% endbubble %}
 
 {% bubble Hinata %}
-Oh! If you want something from the shop, then I’ll rush over there by myse--Mrrpfh?!
+Oh! If you want something from the shop, then I’ll rush over there by myse--Mrrpfh!?
 {% endbubble %}
 
 {% bubble Rei %}
@@ -386,7 +386,7 @@ I’m baaack~♪ The live show hasn’t started yet, right?
 {% endbubble %}
 
 {% bubble Souma %}
-You are late! I almost thought you had escaped! Just where were you, and what were you doing?!
+You are late! I almost thought you had escaped! Just where were you, and what were you doing!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -478,7 +478,7 @@ Ahh, no, it’s not both my parents, just my dad. My mom actually used to be som
 {% bubble Kaoru %}
 Wait what? What do you mean by that? Was she a terrorist? Part of the yakuza?
 
-How did someone like that marry a police officer?! I can smell a romantic story~♪
+How did someone like that marry a police officer!? I can smell a romantic story~♪
 {% endbubble %}
 
 {% bubble Madara %}
