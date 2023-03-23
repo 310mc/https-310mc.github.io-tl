@@ -2,6 +2,7 @@
 title: "Translation Guidelines"
 date: 2030-1-1 9:00:00
 description: "Translation Guidelines for 310mc's translations."
+permalink: guideline/
 ---
 
 <link rel="stylesheet" href="/css/storylist.css">

@@ -473,11 +473,11 @@ hidden: true
 
 ## The Correct Answer and The Authors 1
 
-{% img Comic World - Chapter 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/comicworld/1_1.jpg %}
 
 {% bubble Kuro %}
 You’re rushing this way too much, lil’ miss.
@@ -627,21 +627,21 @@ Never heard of it… What on earth?
     <p>The New Sensation ★ Romcom in an Academy! Answer & Masters: Chapter 145 – Flowers Bloomed Deep Within the Heart</p>
 </div>
 
-{% bubble Kanata %}
+{% bubble Aquarius %}
 Ahahahaha! How does it feel to be drenched wet, hm!?[^2] So *this* is the so-called “Handsome man, dripping with water”![^3]
 {% endbubble %}
 
-{% bubble Keito %}
+{% bubble Libra %}
 ………
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Aquarius %}
 I’ve waited for this moment! For three whole years! I’ve waited for this mere second, when you would put your trust in me and let your guard down…!
 {% endbubble %}
 
 {% img /img/es/scoutstory/comicworld/2_2.jpg %}
 
-{% bubble Keito %}
+{% bubble Libra %}
 …Heh. For the first time ever, you deserve some praise.
 
 My friend. These three years have been hell for you, haven’t they? Three years of pretending to love your wretched foe… to serve by his side, and treat him kindly and closely.
@@ -649,7 +649,7 @@ My friend. These three years have been hell for you, haven’t they? Three years
 There was no need for such a plan — I would have been fine being killed by *you*.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Aquarius %}
 …!! There you go again, talking to me like you know it all! Like you’re above it all! Please don’t just *allow* me to do this, Libra!
 
 You're only bluffing, anyway! Pretending that, even if you’ve lost the battle, your feelings haven’t wavered or died! But too bad for you, because your dreams are ending right here, right now!
@@ -667,15 +667,15 @@ They’re made of glass, correct? Or perhaps reinforced plastic? It matters not!
 I’ll melt it down to a muddled mess — along with everything else you hold dear to your heart…!
 {% endbubble %}
 
-{% bubble Keito %}
-Hehe…
+{% bubble Libra %}
+Heheh…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Aquarius %}
 W-What’s so funny!?
 {% endbubble %}
 
-{% bubble Keito %}
+{% bubble Libra %}
 No, it’s just… you’re acting so cocky because you “won,” but unfortunately for you, I’ve already accomplished my goal.
 
 Now that I’ve distracted you, *she* will have enough time to escape.
@@ -683,7 +683,7 @@ Now that I’ve distracted you, *she* will have enough time to escape.
 Hm… I’ve become a much more kind being. Or perhaps I’ve grown weaker…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Aquarius %}
 …Why didn’t you bestow that kindness to *us* a whole three years ago!?
 
 Whatever, it doesn’t matter anymore! Perish before you spread even more grief to this world!
@@ -691,14 +691,14 @@ Whatever, it doesn’t matter anymore! Perish before you spread even more grief 
 It’s time to say goodbye! *Aqua Punisher*…![^4]
 {% endbubble %}
 
-{% img Comic World - Chapter 2 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/comicworld/2_2.jpg %}
 
 {% bubble Kuro %}
-…
+………
 {% endbubble %}
 
 {% bubble Keito %}
@@ -760,12 +760,6 @@ I mean, lately new artists improve very early on, probably because of the wide r
 {% endbubble %}
 
 ## The Correct Answer and The Authors 3
-
-{% img Comic World - Chapter 3.png %}
-
-{% note location %}
-**Location:**
-{% endnote %}
 
 {% bubble Kuro %}
 Haha, you’re discussing this in some serious depth. You start to sound like an otaku[^5] sometimes, Danna.
@@ -903,12 +897,6 @@ After all, this is still breaching various laws — Even if they aren’t actual
 
 ## The Correct Answer and The Authors 4
 
-{% img Comic World - Chapter 4.png %}
-
-{% note location %}
-**Location:**
-{% endnote %}
-
 {% bubble Kuro %}
 Hrmm… This manga just feels sort of a waste. I skimmed through some more pages while you were talking, and it’s genuinely interesting.
 {% endbubble %}
@@ -1033,8 +1021,10 @@ No, I hear footsteps—
 Woah—!
 {% endbubble %}
 
+{% img /img/es/scoutstory/comicworld/4_1.jpg %}
+
 {% bubble Kanata %}
-Please save me, Red Ogre-san~!
+please save me, mr. [red ogre]~!
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1051,15 +1041,15 @@ Haha, you’ve been reading way too much manga, Danna.
 
 ## The Correct Answer and The Authors 5
 
-{% img Comic World - Chapter 5.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Rooftop</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/comicworld/5_1.jpg %}
 
-{% bubble Heading %}
-A few minutes later
-{% endbubble %}
+<div class="msr-narration">
+    <p>A few minutes later…</p>
+</div>
 
 {% bubble Keito %}
 Guh— The storm’s beyond intense — I keep losing my footing.
@@ -1070,15 +1060,15 @@ Dammit… I got so wrapped up in my discussion with Kiryu and the transfer stude
 {% endbubble %}
 
 {% bubble Kanata %}
-I do not think it has reached here yet~ It is simply nearing closer.
+i do not think it has [reached] here yet~ it is simply nearing closer.
 
-This year’s typhoon looks to be enormously strong.
+this year’s [typhoon] looks to be [enormously] strong.
 
-Fortunately, it will eventually pass through this area… and then hopefully veer away from the Japanese islands.
+fortunately, it will eventually [pass through] this area… and then hopefully [veer] away from the [japanese islands].
 
-But it is tricky. This is a natural phenomenon, after all… It is futile for us either way.
+but it is tricky. this is a [natural phenomenon], after all… it is futile for us either way.
 
-We cannot intervene with the way it works. We can only pray.
+we cannot [intervene] with the way it works. we can only pray.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1089,14 +1079,14 @@ Although… You do *try* to communicate with people now, so you’re already bet
 …Woah—!!
 {% endbubble %}
 
-{% img (Monthly Shoujo Comic) Keito Hasumi CG.png %}
+{% img /img/es/scoutstory/comicworld/keitoorigcg.jpg %}
 
 {% bubble Kanata %}
-Ah—? Are you alright, temple guy?
+ah—? are you alright, temple guy?
 
-You tumbled down… The wind is strong, so you have to be careful, okay~?
+you tumbled down… the wind is strong, so you have to be careful, okay~?
 
-Shall I help you with a “pain, pain go away”?[^9]
+shall i help you with a “pain, pain go away”?[^9]
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1112,7 +1102,7 @@ Don’t worry about me, I can get back up on my own. We need to hurry and deal w
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, I would like that very much… I really cannot do it alone. Please help me save that child.
+yes, i would like that very much… i really cannot do it alone. please help me save that child.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1126,11 +1116,11 @@ Don’t tell me he already fell…!?
 {% endbubble %}
 
 {% bubble Kanata %}
-No. Can you see them? The rain is harsh, so it is not very easy to see… But they seem to be on the edge of falling.
+no. can you see them? the rain is harsh, so it is not very easy to see… but they seem to be on the edge of falling.
 
-We will have to pull them up, so please help me… Red Ogre-san.
+we will have to pull them up, so please help me… mr. red ogre.
 
-You excel at manual labor, yes? My hands are slippery from the rain, so I cannot pull them up with my strength only.
+you excel at manual labor, yes? my hands are slippery from the rain, so i cannot pull them up with my strength only.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1138,7 +1128,7 @@ Aren’t you stronger than you seem? Hell, we wouldn’t even know which of us w
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes. That is why I hope the two of us will be able to pull them up.
+yes. that is why i hope the two of us will be able to pull them up.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1158,7 +1148,7 @@ I must’ve broken my glasses when I fell. All I see is a surfboard.
 {% endbubble %}
 
 {% bubble Kanata %}
-That’s right, they are a surfboard~ Kaoru always keeps them lying here.
+that’s right, they are a surfboard~ kaoru always keeps them lying here.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1170,9 +1160,9 @@ He finds procedures like that bothersome, so I did it all for him instead. It’
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, Kaoru was very grateful for that. He is a shy person, so I do not think he would directly tell you so.
+yes, kaoru was very grateful for that. he is a shy person, so i do not think he would directly tell you so.
 
-You are a good person… Temple guy.
+you are a good person… temple guy.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1186,13 +1176,13 @@ It wasn’t so that I could sit back and bask in my own power. It was all to bec
 {% endbubble %}
 
 {% bubble Kanata %}
-As living creatures, doing such things is natural. We were simply used as prey for such purposes.
+as living creatures, doing such things is natural. we were simply used as prey for such purposes.
 
-It is sorrowful, but that is how it goes. It is the natural law.[^10]
+it is sorrowful, but that is how it goes. it is the natural law.[^10]
 
-But. If possible, please choose a much kinder method next time.
+but. if possible, please choose a much kinder method next time.
 
-Please settle the issue before any blood can be spilled — before anyone can die.
+please settle the issue before any blood can be spilled — before anyone can die.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1204,13 +1194,13 @@ Hey, enough chatting — let’s get a move on, Shinkai. The surfboard’s this 
 {% endbubble %}
 
 {% bubble Kanata %}
-Ah, yes. They would break if they fell, and Kaoru would be sad… So we will pull them up some way or another.
+ah, yes. they would break if they fell, and kaoru would be sad… so we will pull them up some way or another.
 
-It is best to have as few sorrowful things as possible.
+it is best to have as few sorrowful things as possible.
 
-If that is what you people think as well, then there is no reason for us to hate each other.
+if that is what you people think as well, then there is no reason for us to hate each other.
 
-Let’s allow the past to flow away with the water, and do what we can right now.
+let’s allow the past to flow away with the water, and do what we can right now.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1218,7 +1208,7 @@ Let’s allow the past to flow away with the water, and do what we can right now
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe. Here we go, Red Ogre-san! We will rescue the surfboard~♪
+fufu. here we go, mr. red ogre! we will rescue the surfboard~♪
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1226,12 +1216,6 @@ Hehe. Here we go, Red Ogre-san! We will rescue the surfboard~♪
 {% endbubble %}
 
 ## The Correct Answer and The Authors 6
-
-{% img Comic World - Chapter 6.png %}
-
-{% note location %}
-**Location:**
-{% endnote %}
 
 {% bubble Kuro %}
 …Right. We managed to pull it up.
@@ -1267,26 +1251,26 @@ It’s merely an object belonging to your friend. It’s his fault for leaving i
 You could’ve just pretended you didn’t notice it falling.
 {% endbubble %}
 
-{% img (Weekly Shounen Comic) Kanata Shinkai CG.png %}
+{% img /img/es/scoutstory/comicworld/kanataorigcg.jpg %}
 
 {% bubble Kanata %}
-No, no~ A hero would never turn his eyes away.
+no, no~ a hero would never turn his eyes away.
 
-I am also part of Ryuseitai, so I will save as much as I can.
+i am also part of ryuseitai, so i will save as much as i can.
 
-It is only for selfish reasons, though. Both Kaoru and Chiaki will surely praise me for it.
+it is only for selfish reasons, though. both kaoru and chiaki will surely praise me for it.
 
-And I… will be satisfied with just that.
+and i… will be satisfied with just that.
 {% endbubble %}
 
-{% note location %}
-**Location:** Dojo
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
-{% img Comic World - Chapter 6 Scene Change.png %}
+{% img /img/es/scoutstory/comicworld/6_1.jpg %}
 
 {% bubble Kanata %}
-Please excuse meee~♪
+please excuse meee~♪
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1294,7 +1278,7 @@ Yeah, come on in. I’ll get you a towel, so dry off. You’ll catch a cold othe
 {% endbubble %}
 
 {% bubble Kanata %}
-I prefer to be drenched wet, though~♪
+i prefer to be drenched wet, though~♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1320,11 +1304,11 @@ As for us, we can stay in school overnight if it really gets bad. As long as we 
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, I think so~ They do not really like the idea of me sleeping away from home.
+yes, i think so~ they do not really like the idea of me sleeping away from home.
 
-It is already bad enough that I have been getting scolded for doing things that are “not like me” lately…
+it is already bad enough that i have been getting scolded for doing things that are “not like me” lately…
 
-Is it not like me to act this way? I do not know myself… What do you think, temple guy?
+is it not like me to act this way? i do not know myself… what do you think, temple guy?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1374,7 +1358,7 @@ You’re truly ill-natured… So you haven’t changed either. If you keep being
 {% endbubble %}
 
 {% bubble Kanata %}
-Rei’s little brotheeer\~! Good evening! Act all buddy-buddy with me, too\~♪
+rei’s little brotheeer\~! good evening! act all buddy-buddy with me, too\~♪
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1392,7 +1376,7 @@ Right then. Let’s go, lil’ miss. Hold onto my arm so you don’t get blown a
 {% endbubble %}
 
 {% bubble Kanata %}
-…
+………
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1400,9 +1384,9 @@ Hm? Why’re you starin’ at me, Shinkai? Did you wanna take her home instead?
 {% endbubble %}
 
 {% bubble Kanata %}
-Mm~ I was thinking how I would like to give you a bit of assistance, as repayment for helping me save the surfboard.
+mm~ i was thinking how i would like to give you a bit of assistance, as repayment for helping me save the surfboard.
 
-I will be borrowing this Akatsuki fan for a moment.
+i will be borrowing this akatsuki fan for a moment.
 
 ♪\~♪\~♪
 {% endbubble %}
@@ -1417,26 +1401,22 @@ fufufu\~ that is my nature\~♪
 
 ## The Correct Answer and The Authors 7
 
-{% img Comic World - Chapter 7.png %}
+{% img /img/es/scoutstory/comicworld/7_1.jpg %}
 
-{% note location %}
-**Location:**
-{% endnote %}
-
-{% bubble Heading %}
-An hour later
-{% endbubble %}
+<div class="msr-narration">
+    <p>An hour later…</p>
+</div>
 
 {% bubble Keito %}
-……
+…………
 {% endbubble %}
 
 {% bubble Kanata %}
-……
+…………
 {% endbubble %}
 
 {% bubble Ritsu %}
-……
+…………
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1462,7 +1442,7 @@ An hour later
 {% endbubble %}
 
 {% bubble Kanata %}
-Hwa—? Where did this come from, temple guy?
+hwa—? where did this come from, temple guy?
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1476,7 +1456,7 @@ I’m at a dead end with this issue, so that’s why I’m asking you two as wel
 {% endbubble %}
 
 {% bubble Kanata %}
-Mmm~ I have never read manga before, so no.
+mmm~ i have never read manga before, so no.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1484,9 +1464,9 @@ Mmm~ I have never read manga before, so no.
 {% endbubble %}
 
 {% bubble Kanata %}
-Huh? Is that bad? When I try to read a book in general, it gets soaked for some reason, so I could not read it even if I wanted to.
+huh? is that bad? when i try to read a book in general, it gets soaked for some reason, so i could not read it even if i wanted to.
 
-After all, books are impossible to read once they are wet, yes?
+after all, books are impossible to read once they are wet, yes?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1498,13 +1478,13 @@ There’s waterproof books made for reading in the bathtub, and if you’re read
 {% endbubble %}
 
 {% bubble Kanata %}
-Well, I do not want to read *that* much…
+well, i do not want to read *that* much…
 
-Hmm, it really is a strange story, though.
+hmm, it really is a strange story, though.
 
-So there is someone out there drawing a manga based on us?
+so there is someone out there drawing a manga based on us?
 
-I am a little curious. If it is all right with you, please let me try reading that manga.
+i am a little curious. if it is all right with you, please let me try reading that manga.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1516,11 +1496,11 @@ Ugh~ It’s already hot enough, and now you’re telling me to huddle close to t
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, these kinds of things are sort of fun for me, though… Waah~ this is such pretty art.
+fufu, these kinds of things are sort of fun for me, though… waah~ this is such pretty art.
 
-Hrm, so how do I read this? Am I meant to follow the line of words? It is a little difficult…
+hrm, so how do i read this? am i meant to follow the line of words? it is a little difficult…
 
-Wow, so this is a manga…♪
+wow, so this is a manga…♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1528,7 +1508,7 @@ You… Have you been living deep in the mountains without ever conversing with a
 {% endbubble %}
 
 {% bubble Kanata %}
-No~ I live in the sea, as you already know. You are the one who lives in the mountains, yes?
+no~ i live in the sea, as you already know. you are the one who lives in the mountains, yes?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1536,7 +1516,7 @@ It’s more like I’ve come down from the mountains, and now intend to live a n
 {% endbubble %}
 
 {% bubble Kanata %}
-Ooh, so there is that sort of system over there. As for me, I have been a God from the moment I was born, and will be one until the day I die.
+ooh, so there is that sort of system over there. as for me, i have been a god from the moment i was born, and will be one until the day i die.
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1574,7 +1554,7 @@ I don’t wanna be this kinda character… Why is he even licking the knife? Is 
 {% endbubble %}
 
 {% bubble Keito %}
-Hehe. If you don’t want to be misunderstood, and have people think up their own version of your personality…
+Heheh. If you don’t want to be misunderstood, and have people think up their own version of your personality…
 
 Then appear at the front of the stage more often, and show the audience how you truly want to be seen.
 
@@ -1584,12 +1564,6 @@ You too, Shinkai. One of you sleeps everywhere, and the other bathes in water…
 {% endbubble %}
 
 ## The Correct Answer and The Authors 8
-
-{% img Comic World - Chapter 8.png %}
-
-{% note location %}
-**Location:**
-{% endnote %}
 
 {% bubble Keito %}
 Moving on. This manga tries to avoid having characters with overlapping personalities…
@@ -1650,13 +1624,13 @@ The things the characters say seem similar to recent interviews, so it’s kinda
 {% endbubble %}
 
 {% bubble Kanata %}
-Ah, you are right. What Chiaki said in the manga is exactly the same as what he said in an interview the other day.
+ah, you are right. what chiaki said in the manga is exactly the same as what he said in an interview the other day.
 
-The artist really is doing their research.
+the artist really is doing their research.
 
-If that is true, then they would try to be much more precise, and make sure their story was accurate to the current reality, wouldn’t they?
+if that is true, then they would try to be much more precise, and make sure their story was accurate to the current reality, wouldn’t they?
 
-Yet, the characters are bizarre.
+yet, the characters are bizarre.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1670,7 +1644,7 @@ I thought I might be able to settle this issue on my own, but I’m starting to 
 {% endbubble %}
 
 {% bubble Kanata %}
-? What do you mean?
+…? what do you mean?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1682,7 +1656,7 @@ This manga’s such a shame, honestly… The artist clearly has talent… and it
 {% endbubble %}
 
 {% bubble Kanata %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1706,7 +1680,7 @@ We were able to get there easily. I think we just so happened to be at the eye o
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu\~♪ I see\~ I am glad to know it went well.
+fufufu\~♪ i see\~ i am glad to know it went well.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1714,7 +1688,7 @@ fufufu\~♪ I see\~ I am glad to know it went well.
 {% endbubble %}
 
 {% bubble Kanata %}
-You see, I made a small request for the typhoon to go far away. I prayed, and offered a dance in return… ♪
+you see, i made a small request for the typhoon to go far away. i prayed, and offered a dance in return…♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1740,28 +1714,28 @@ I know, but he prayed for our sake. Of course I’d be happy about that, that’
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe. There is no need to thank me at all…
+fufu. there is no need to thank me at all…
 
-As I have said before, this is repayment for helping me save the surfboard.
+as i have said before, this is repayment for helping me save the surfboard.
 
-It is wonderful to repay kindness with kindness, and gratitude with gratitude.
+it is wonderful to repay kindness with kindness, and gratitude with gratitude.
 
-That is why — While we do not live in a manga — I wish for the world to work that way.
+that is why — while we do not live in a manga — i wish for the world to work that way.
 
-I will alwaaays be praying for that.
+i will alwaaays be praying for that.
 {% endbubble %}
 
 ## Epilogue
 
-{% img Comic World - Chapter 9.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/comicworld/9_1.jpg %}
 
-{% bubble Heading %}
-One week later
-{% endbubble %}
+<div class="msr-narration">
+    <p>One week later…</p>
+</div>
 
 {% bubble Kuro %}
 Hup— Haa—! Toryaa—!!
@@ -1776,11 +1750,11 @@ Hup— Haa—! Toryaa—!!
 {% endbubble %}
 
 {% bubble Kanata %}
-No, not at all~ I am watching how you move, so I can use it as reference for action moves.
+no, not at all~ i am watching how you move, so i can use it as reference for action moves.
 
-We often do acts that require fighting lately, you see.
+we often do acts that require fighting lately, you see.
 
-I am still not used to it, so… I have to study more.
+i am still not used to it, so… i have to study more.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1794,11 +1768,11 @@ Until recently, you always seemed like you had no interest in anything at all.
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes. Because I *was* disinterested~
+yes. because i *was* disinterested~
 
-I simply watched it all float by, as if it was a story of a distant world… Just like a manga.
+i simply watched it all float by, as if it was a story of a distant world… just like a manga.
 
-But, doing that was wrong, and I realized how lonely it was… That is why I have been working hard lately.
+but, doing that was wrong, and i realized how lonely it was… that is why i have been working hard lately.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1806,7 +1780,7 @@ That so? Great, I’m cheerin’ you on. You two really are childhood friends, h
 {% endbubble %}
 
 {% bubble Kanata %}
-…I have no motivation to do anything all of a sudden.
+…i have no motivation to do anything all of a sudden.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1822,7 +1796,7 @@ Yo. What’s up? Did you find another interesting manga?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hello, temple guy~♪
+hello, temple guy~♪
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1854,7 +1828,7 @@ For goodness’ sake… Didn’t I tell you to moderate your eccentric acts? Inc
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe. I am sorry, was I a bother?
+fufu. i am sorry, was i a bother?
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1888,11 +1862,11 @@ Ahaha, you’re pretty soft yourself, Kei-chan.
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, and yet that sort of person was able to be so cruel towards us…
+fufu, and yet that sort of person was able to be so cruel towards us…
 
-It is almost strange, or rather, it shows that it really was a sorrowful era, doesn’t it?
+it is almost strange, or rather, it shows that it really was a sorrowful era, doesn’t it?
 
-But anyway. Who was the artist? I am a little curious.
+but anyway. who was the artist? i am a little curious.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1930,7 +1904,7 @@ Apparently, it could be related to Cosmic Production, or a related enterprise.
 {% endbubble %}
 
 {% bubble Kanata %}
-Cos…mic…?
+cos…mic…?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1990,7 +1964,7 @@ Oh? What’s this? What’re you guys on about? I smell a great story~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-Mizuhanome… I know of her. She is the water goddess, yes?
+mizuhanome… i know of her. she is the water goddess, yes?
 {% endbubble %}
 
 {% bubble Keito %}

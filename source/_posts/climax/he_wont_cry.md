@@ -116,7 +116,7 @@ Oh yeah~ You help out at home, huh? That’s amazing! Lemme praise you! There, t
 {% bubble Midori v2 %}
 Please don’t pat my head… You’re as insanely touchy-feely as <em>that</em>, aren’t you…?
 
-You’re both so similar, it’s almost like your brothers…
+You’re both so similar, it’s almost like you’re brothers…
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -150,7 +150,7 @@ I doubt you have any interest in me… I know we’re in the same club, but we h
 {% endbubble %}
 
 {% bubble Subaru grin %}
-Mm\~… That’s ‘cause ever since you came to school, Chiaki\~chan-senpai’s only had his eyes on you, soo\~
+Mm\~… That’s ‘cause ever since you came to school, Chi\~chan-senpai’s only had his eyes on you, soo\~
 
 Maaaybe I’m a little jealous or something…♪
 {% endbubble %}
@@ -244,7 +244,7 @@ This might be the last time you see me in a basketball uniform in all my glory, 
 {% endbubble %}
 
 {% bubble Midori frown %}
-Ehhh… I feel like if something like that was burned into my retinas, I’d never be able to get a good night’s sleep again…
+Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to get a good night’s sleep again…
 {% endbubble %}
 
 ## Chapter 2
@@ -581,4 +581,4 @@ Hey Sally~, graduation really does suck… Even *I* have to push myself to smile
 </div>
 
 ## Translation Notes
-[^1]: Subaru copying chiaki etc. 俺も朝は早く起きるよ～、大吉の散歩をしなくちゃいけないから！　同じだねっ、『同じ』があるのは嬉しいねっ♪
+[^1]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.

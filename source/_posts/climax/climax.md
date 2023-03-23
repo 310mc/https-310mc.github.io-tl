@@ -304,11 +304,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Burning Meteor<!--燃える流星--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Tears of Memories<!--想い出の滴--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -325,8 +325,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">It was all just a big mistake…!<!--何かの間違いだったんだ…！--></div>
+                                            <div class="bloomed">I hope I changed a little…<!--ちょっとは…変われたかな--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -336,11 +336,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Budding Meteor<!--芽生える流星--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Letting It All Out<!--思いの丈--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -368,11 +368,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Unbreakable Meteor<!--砕けない流星--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Straightforward Anger<!--真っ直ぐな怒り--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -389,8 +389,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">I can't do it alone…!<!--拙者じゃ無理でござる…！--></div>
+                                            <div class="bloomed">I will loudly introduce myself…!<!--堂々と主張していくでござる…！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -400,11 +400,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Glowing Meteor<!--光の流星--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Finding the Last Ray of Hope<!--頼みの綱探し--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -432,11 +432,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">enveloping meteor<!--めぐるりゅうせい--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">promise of the future<!--さきのやくそく--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -464,11 +464,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Stage of Expectations<!--期待のステージ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Long-awaited Day<!--待ち遠しい当日--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -485,8 +485,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">I'm good at getting people's contact info.<!--連絡先を聞くのは得意なんだよね--></div>
+                                            <div class="bloomed">Everyone's such a handful~♪<!--みんな手がかかる連中だよね～♪--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -496,11 +496,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Immortal Allies<!--不滅の仲間--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Exchanging Addresses<!--アドレス交換--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -517,8 +517,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">It's hard not to be concerned, isn't it?<!--任しても気になるものだね	--></div>
+                                            <div class="bloomed">Every day was shining and glittering.<!--本当に輝かしい日々だったよ--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -528,11 +528,11 @@ permalink: climax/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Glittering Life<!--煌きの生活--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Checking on Them<!--呼びだし確認--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

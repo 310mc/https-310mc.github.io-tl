@@ -339,7 +339,7 @@ That’s why you attempted to protect the Living God Shinkai Kanata, so that no 
 {% bubble Keito v2 %}
 I won’t think of this as you biting at the hand that feeds you. Obviously you, a worshipper, would try to protect your God.
 
-To you, that is simply the most natural thing to do—it’s common sense to you. You probably didn’t even consider that it would be a crime to deceive me in this way.
+To you, that is simply the most natural thing to do — it’s common sense to you. You probably didn’t even consider that it would be a crime to deceive me in this way.
 
 That’s what religion is — what faith means.
 
