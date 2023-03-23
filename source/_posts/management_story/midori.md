@@ -101,7 +101,7 @@ Adrenaline…? How would I go about doing that…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-One way would be to put yourself in a life-threatening situation, but we can’t conduct in anything dangerous, so…
+One way would be to put yourself in a life-threatening situation, but we can’t conduct anything dangerous, so…
 
 An easier, faster way would be to work out! And so, without further ado, let’s head to the gym and play basketball!
 {% endbubble %}

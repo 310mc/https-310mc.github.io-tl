@@ -226,10 +226,10 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
             	{% bubble Midori sad %}
 							Ah, um… I don't think this is something I can tell others…
 
-        I think I was just imagining it anyway…
+        I might've just been imagining it anyway…
         {% endbubble %}
         {% bubble Midori idle %}
-        …I'd like to keep this for myself for now.
+        …I'd rather keep this for myself for now.
 				{% endbubble %}
 			</div>
         </div>

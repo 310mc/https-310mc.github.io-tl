@@ -586,7 +586,7 @@ Takamine. The reason I tried to make Ryuseitai into a great, strong unit was bec
 
 …I wanted to be able to say I was the leader of a veteran unit.
 
-I wanted to earn points and get high marks for this unit, so that when I graduate, I could use that to my advantage. That's how it was at first.
+I wanted to earn points and get high marks for this unit, so that I could use it to my advantage when I graduate. That's how it was at first.
 
 I kept only the good parts of Ryuseitai, and used it for my own sake.
 {% endbubble %}

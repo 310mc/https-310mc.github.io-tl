@@ -241,7 +241,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
     </div>
 	<div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's thanks to everyone's bonds!
+            It's because of everyone's bonds!
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">
@@ -259,12 +259,12 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Midori grin %}
-							Of course! They're my comrades who fought alongside me for a whole year!
+							Of course! They're my comrades who fought alongside me for a whole year, after all!
               {% endbubble %}
               {% bubble Midori sigh2 %}
         —I bet that's what Morisawa-senpai would say…
 
-        Something must be wrong with me if I really imitated Morisawa-senpai of all people…
+        Something must be wrong with me if I really imitated him of all people…
 				{% endbubble %}
 			</div>
         </div>

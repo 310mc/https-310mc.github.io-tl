@@ -232,7 +232,7 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">...I don't need that. Incorrigible.<!--TBA--></div>
+                                            <div class="unbloomed">…I don't need that. Incorrigible.<!--TBA--></div>
                                             <div class="bloomed">Good grief, what an inconvenient rainfall.<!--TBA--></div>
                                         </div>
                                     </div>
@@ -328,7 +328,7 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--朔間弟って呼ばないでよ...--></div>
+                                            <div class="unbloomed"><!--朔間弟って呼ばないでよ…--></div>
                                             <div class="bloomed"><!--あ？ 俺とやんのかよ--></div>
                                         </div>
                                     </div>
@@ -746,7 +746,7 @@ They’d be able to get in the bathrooms and the Student Council office easily i
 {% bubble Keito %}
 That’s true. I’m considering that to be the likeliest possibility.
 
-After all, most of the characters in this “*Ansters*” are based off of students from the idol course.
+After all, most of the characters in this “Ansters” are based off of students from the idol course.
 
 Of course, there’s also the fact that many students working as idols have websites with their profile pictures attached.
 
@@ -794,7 +794,7 @@ Ohh? So basically, this could be someone we crushed in the past… and now they�
 {% bubble Keito %}
 Yes, but I could just be paranoid. We’ve got a shadowy side to us… So maybe I’m being unnecessarily distrustful and anxious over this.
 
-However. If this “*Ansters*” really is about criticizing our revolution of the past…
+However. If this “Ansters” really is about criticizing our revolution of the past…
 
 There’s no harm in creating things, but we can’t allow them to keep publishing a work like this.
 
@@ -908,7 +908,7 @@ Mizuhanome…?
 {% endbubble %}
 
 {% bubble Keito %}
-Forget about it. …This “*Ansters*” is full of crack jokes and parodies — It’s entirely different from Mizuhanome-sensei’s style.
+Forget about it. …This “Ansters” is full of crack jokes and parodies — It’s entirely different from Mizuhanome-sensei’s style.
 
 My work— I mean, their work was much more simplistic and rough-looking.[^8]
 

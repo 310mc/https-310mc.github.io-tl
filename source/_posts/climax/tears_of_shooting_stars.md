@@ -450,7 +450,7 @@ He completely used up his last precious year in high school *just* to try and ho
 {% bubble Tetora frown %}
 No… Actually, was it too much pressure for you? Or was all'a that help too irritating? Was it all just a nuisance to you?
 
-All of your nonstop whining and complaining —
+All of your non stop whining and complaining —
 
 I was hoping that was just you being embarrassed, that deep down it might've all meant somethin' to you!
 {% endbubble %}
