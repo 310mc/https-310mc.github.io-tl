@@ -743,14 +743,14 @@ Past Stories
   --color:#316745;
   --name: "Libra";
   --hue: 142.2;
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/keito_libra.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/libra.png");
 }
 
 [character="Aquarius"] {
   --color:#008db7;
   --name: "Aquarius";
   --hue: 193.8;
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_aquarius.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
 }
 /**
 ***/

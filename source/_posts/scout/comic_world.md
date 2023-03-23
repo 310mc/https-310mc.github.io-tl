@@ -225,69 +225,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/comicworld/chiakicard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/keitocard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/comicworld/chiakibcard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/keitobcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">...I don't need that. Incorrigible.<!--TBA--></div>
+                                            <div class="bloomed">Good grief, what an inconvenient rainfall.<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Monthly Shoujo Comic] Keito Hasumi</div>
+                                    <div class="card__jp">[月刊少女コミック] 蓮巳 敬人</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">The Academy's Prince<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/comicworld/midoricard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/comicworld/midoribcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Stormy Rooftop<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -304,26 +264,22 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">it is only for selfish reasons, though.<!--TBA--></div>
+                                            <div class="bloomed">The strength of my superpower is no joke. ♪<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[Weekly Shounen Comic] Kanata Shinkai</div>
+                                    <div class="card__jp">[週刊少年コミック] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Psychic<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Surfboard in the Rain<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -333,33 +289,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/comicworld/tetoracard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/kurocard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/comicworld/tetorabcard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/kurobcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--はは。甘えたい気分なのかよ…--></div>
+                                            <div class="bloomed"><!--楽しませてくれよ～？--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Seinen Comic] Kuro Kiryu</div>
+                                    <div class="card__jp">[青年コミック] 鬼龍 紅郎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Serial Killer in the Back Alley<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--師匠の広い背中--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -369,33 +321,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/comicworld/shinobucard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/ritsucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/comicworld/shinobubcard.jpg">
+                                        <img src="/img/es/scoutstory/comicworld/ritsubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--朔間弟って呼ばないでよ...--></div>
+                                            <div class="bloomed"><!--あ？ 俺とやんのかよ--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Delinquent Comic] Ritsu Sakuma</div>
+                                    <div class="card__jp">[不良コミック] 朔間 凛月</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Delinquent High Schooler<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--雨宿り場所--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -424,45 +372,7 @@ hidden: true
                             <a href="#Epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
-                </div>
-              <!--  <div class="mini-talks">
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
+                </div>              
             </div>
         </div>
     </div>
@@ -480,7 +390,7 @@ hidden: true
 {% img /img/es/scoutstory/comicworld/1_1.jpg %}
 
 {% bubble Kuro %}
-You’re rushing this way too much, lil’ miss.
+You’re rushing this way too much, li’l miss.
 
 I get you. You’re gonna want to rush when you’ve got so many deadlines approachin’, yeah? Man, you’ve been picking up way too many jobs lately.
 
@@ -498,7 +408,7 @@ So do it slow and steady, yeah?
 
 Did you start feeling sleepy and lose focus?
 
-Haha, so you’re feeling drained, and want me to spoil ya a lil’?
+Haha, so you’re feeling drained, and want me to spoil ya a li’l?
 
 There there, it’ll be alright. You’ve been working really hard — You’ll surely be rewarded for it all one day.
 {% endbubble %}
@@ -512,7 +422,7 @@ W-What are you two doing!? Why are you so close to each other!? Incorrigible!
 {% endbubble %}
 
 {% bubble Kuro %}
-*Haah*? Don’t start thinkin’ up weird things, Danna. I was just helping the lil’ miss with her sewing work, like I always do.
+*Haah*? Don’t start thinkin’ up weird things, Danna. I was just helping the li’l miss with her sewing work, like I always do.
 
 That’s why we have pillows on the floor. But then she started to feel tired, so she’s leaning on my back.
 {% endbubble %}
@@ -544,7 +454,7 @@ I don’t have anyone to casually talk to about manga. Just follow along, please
 {% endbubble %}
 
 {% bubble Kuro %}
-Sure, why not. I was only helping the lil’ miss out with her outfits — I don’t have anything else to do.
+Sure, why not. I was only helping the li’l miss out with her outfits — I don’t have anything else to do.
 
 I’ll listen to you. I can keep working while talking, anyway.
 {% endbubble %}
@@ -695,7 +605,7 @@ It’s time to say goodbye! *Aqua Punisher*…![^4]
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/scoutstory/comicworld/2_2.jpg %}
+{% img /img/es/scoutstory/comicworld/2_3.jpg %}
 
 {% bubble Kuro %}
 ………
@@ -728,7 +638,7 @@ I don’t see it often with the recent stuff, but it’s common in shoujo manga.
 {% endbubble %}
 
 {% bubble Kuro %}
-I don’t get it at all… And anyway, he looks like a typical Japanese person, so why’s he *Libra*… What’s with the random, wild name?
+I don’t get it at all… And anyway, he looks like a typical Japanese person, so why’s he *Libra*… What’s with the wildly random name?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -844,7 +754,7 @@ You could easily use those as reference were you to search for them.
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha… It’s a lil’ creepy to think that someone’s being drawn in a manga without their knowing.
+Haha… It’s a li’l creepy to think that someone’s being drawn in a manga without their knowing.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1368,11 +1278,11 @@ Ughh— I can’t deal with this person… Don’t hug me when you’re drenched
 {% bubble Kuro %}
 Haha. I dunno what’s going on, but it’s gotten real lively here.
 
-I think you guys’ll be fine together, so I’ll take lil’ miss back home — try to get along in the meantime.
+I think you guys’ll be fine together, so I’ll take li’l miss back home — try to get along in the meantime.
 
 It’s not so easy to “allow the past to flow away with the water,” but. The possibility will remain as long as you’re alive, so, well… Let’s all work hard with whatever we can.
 
-Right then. Let’s go, lil’ miss. Hold onto my arm so you don’t get blown away by the wind.
+Right then. Let’s go, li’l miss. Hold onto my arm so you don’t get blown away by the wind.
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -1940,7 +1850,7 @@ Gotcha. Let’s get rid of this useless scheme, and draw the story we wish for�
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha. Y’see, that day there was a typhoon, lil’ miss and I talked about a bunch of things while I took her home.
+Haha. Y’see, that day there was a typhoon, li’l miss and I talked about a bunch of things while I took her home.
 
 I got curious about that name she mentioned, so I tried to ask her about it.
 
