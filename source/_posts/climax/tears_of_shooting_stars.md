@@ -374,7 +374,7 @@ Haha. If I hit you for real, you’d die, Taichou.
 
 Well, either way… I understand how you feel. …I won’t blame you anymore, Midori-kun.
 
-I won’t unfairly get angry. So please talk to me, Midori-kun.
+I won’t unfairly get angry, so please talk to me.
 {% endbubble %}
 
 {% bubble Tetora angry2 %}
@@ -562,7 +562,7 @@ I won't mind if you think of our meeting as nothing but an unfortunate accident 
 {% bubble Chiaki sad2 %}
 If that’s what would give you relief and make you smile again, then I’m fine with that… because your smile is the greatest treasure in this whole world.
 
-I always wanted to help make your smile shine at its brightest. But if I was truly just a nuisance to you all along, then… I apologize. I’m so sorry, Takamine.
+I would always look forward to making your smile shine at its brightest. But if I was truly just a nuisance to you all along, then… I apologize. I’m so sorry, Takamine.
 {% endbubble %}
 
 ## Chapter 4
