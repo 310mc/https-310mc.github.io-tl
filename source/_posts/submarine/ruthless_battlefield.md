@@ -782,7 +782,7 @@ In this case, we can more or less agree that Morisawa is likely acting this way 
 {% endbubble %}
 
 {% bubble Midori %}
-He gets lonely easily, after all… He’d much rather spend time with everyone as much as he can, so if he’s been working on his own, then, yeah… I guess that really *<em>is</em>* his order.
+He gets lonely easily, after all… He’d much rather spend time being close with everyone as much as he can, so if he’s been working on his own, then, yeah… I guess that really *<em>is</em>* his order.
 {% endbubble %}
 
 {% bubble Tetora serious %}

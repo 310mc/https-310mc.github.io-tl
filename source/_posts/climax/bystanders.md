@@ -62,7 +62,7 @@ hidden: true
 ## Chapter 1
 
 <div class="msr-location">
-    <p><span><b>Location:</b> At the fountain</span></p>
+    <p><span><b>Location:</b> At the Fountain</span></p>
 </div>
 
 {% img /img/es/eventstory/climax/bystanders1_1.jpg %}
@@ -251,6 +251,196 @@ i will call for you even if i have no [reason] to, so… please come see me, oka
 
 ## Chapter 2
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Cafe</span></p>
+</div>
+
+{% img /img/es/eventstory/climax/bystanders2_1.jpg %}
+
+{% bubble Chiaki thinking2 %}
+J-Ju…Justice.
+{% endbubble %}
+
+{% bubble Kaoru idle %}
+Elk.
+{% endbubble %}
+
+{% bubble Kanata thinking2 %}
+k-…ki~…kill…?
+{% endbubble %}
+
+{% bubble Kaoru angry %}
+Kanata-kun, your word choices are messed up. All you’ve been saying is despair, madness, kill… What are you, a villain?
+{% endbubble %}
+
+{% bubble Kanata sigh2 %}
+eh~… then [king crab].
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+B-B-… Umm…? Wake up, my brain cells!
+
+I already said “bed,” and I can’t say a hero’s name or anything else like that because nobody knows them but me!
+
+Oh! Bedstead! How about “bedstead”!?
+{% endbubble %}
+
+{% bubble Kaoru idle %}
+Dachshund.
+{% endbubble %}
+
+{% bubble Kanata sad %}
+mm\~…… “d” again…? d-d-de\~…?
+{% endbubble %}
+
+{% bubble Kaoru frown %}
+Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop playing word chain?[^3] It’s really not that fun, and I just feel depressed now for some reason…
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+It’s mainly Kanata’s fault. What’s up, what’s wrong? You’ve been so gloomy the past few days! Cheer up! ☆
+{% endbubble %}
+
+{% bubble Kanata frown %}
+do not make a ruckus in the [cafe]…
+
+i am a little concerned about what mr. [emperor] said. are the children really going to be alright?
+
+we have not [heard] from souma, either… kaoru, did you learn anything?
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+Weeell… That kid seriously loathes me, soo~
+
+I figured he can’t hate me any more than he already does. That’s why I tried calling him over and over again…
+
+But he just yelled at me for being annoying, and blocked my number.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+fufu, kaoru, you knew souma’s [phone number]~?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Yup, I excel at getting that kinda information out of people. …Anyway, that at least means that Souma-kun is alive and well, right?
+
+Honestly, I’m more excited than worried.
+
+I mean, he hasn’t explained what’s going to both you <em>and</em> Hasumi-kun — It really feels like the serious, good boy’s going through his very first rebellious phase~♪
+
+I’m kinda concerned about my juniors in UNDEAD, though…
+
+I feel like Sakuma-san’s bad side is coming out… Y’know, how he can be waaay too careful, and just ends up hitting a nerve instead.
+{% endbubble %}
+
+{% bubble Kanata smile2 %}
+ahh… rei can be like that sometimes.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Hm… Well, either way, we have no choice but to sit tight and see what happens. Repayment Festival is the debut stage for the underclassmen, and they shouldn’t perform it under training wheels.
+
+While I *am* worried about the kids, we can’t interfere. We’ll just have to pass the time by chatting in a cafe, or something of the like.
+
+It’s a frustrating but necessary process.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+It’s time for the parents to let go, and for the children to be independent. It’s sad and distressing, but I believe it’s our responsibility to stay put.
+
+Well, to tell you the truth, though… I feel like I’m about to explode, trying to hold back the urge to take care of my juniors.
+{% endbubble %}
+
+{% bubble Kanata angry2 %}
+chiaki, stop [tapping] your foot. don’t you know that’s shameful~?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+You’re such a mom, Kanata-kun.
+
+…Ah, sorry. Sakuma-san wants me to go see him for some reason, so I’m gonna head back to school.
+{% endbubble %}
+
+{% bubble Kanata smile2 %}
+okay~ what does rei [want]?
+{% endbubble %}
+
+{% bubble Kaoru frown %}
+No clue. He sent me a message, but…
+
+He sucks at using the phone keyboard[^4], so his messages practically end up needing to be decoded, like this one — he said, “i went t talk bout dedmens”.
+
+“Dedmens”… Ahh, I think he means “Deadmanz”. I haven’t heard that name in a while. Why’s he bringing it up now, after so long…?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Oh well, the only way to find out is to ask him. See you two later then! Thanks for spending time with me, bye bye~♪
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Mhm! Farewell, Hakaze! Until we meet again…☆
+
+Heheh… Hakaze seems a little different. He looks like he’s shining these days.
+{% endbubble %}
+
+{% bubble Kanata smile3 %}
+kaoru has always been [sparkling].
+
+…oh?
+{% endbubble %}
+
+{% bubble Shinobu angry2 %}
+Taichou-dono! Shinkai-dono…!
+{% endbubble %}
+
+{% bubble Chiaki shocked %}
+Sengoku? Why do you look so pale…? Did something happen!?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+actually, shinobu… how did you know we were in this [cafe]?
+
+is it because you are a [ninja]? it is, isn’t it? fufufu…♪
+{% endbubble %}
+
+{% bubble Shinobu surprised3 %}
+No, I just happened to see you two through the windo—… Ah, no, I mean — Yes, of *course* it is because I’m a ninja!
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+Heh! Ninjas are professionals in espionage! ♪
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Sengoku, tell us why you’re here. You don’t seem like your usual self.
+
+Don’t I tell you this all the time? Calm down. Don’t worry, it’s all going to be okay.
+{% endbubble %}
+
+{% bubble Shinobu cry %}
+U-Uuu~! Taichou-dono, Shinkai-dono! I beg of you, from the bottom of my heart…!
+{% endbubble %}
+
+{% bubble Chiaki shocked %}
+Whoa—!? Stop, Sengoku! Don’t kneel on the ground in a public area!
+{% endbubble %}
+
+{% bubble Kanata surprised2 %}
+um, shinobu… are you alright? are you crying…?
+
+please don’t cry… everything will be okay, you are a good boy~?
+{% endbubble %}
+
+{% img /img/es/eventstory/climax/shinobuorigcg.jpg %}
+
+{% bubble Shinobu clmocg %}
+Uuu~… I am not a good boy at all… What I did with the best of my intentions has triggered a catastrophe!
+
+T-Tetora-kun and Midori-kun are fighting! No matter what Anzu-dono or I say, they won’t listen…!
+
+I can’t do anything on my own! I’m too weak! I don’t have the capability to stop them from fighting! So, please, please…! I need your help! This is the only favor I’ll ever ask from you…!
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /climax/anxiety_and_silence,, arrow-left, Previous Chapter: Anxiety and Silence %}
@@ -261,3 +451,5 @@ i will call for you even if i have no [reason] to, so… please come see me, oka
 ## Translation Notes
 [^1]: In Japanese, the word for “distant” is *mizu-kusai*, lit. “watery”.
 [^2]: This is a reference to the first [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider) series, where the first rider was called [Kamen Rider ichi-go](https://kamenrider.fandom.com/wiki/Takeshi_Hongo) (No.1), and the second [Kamen Rider ni-go](https://kamenrider.fandom.com/wiki/Hayato_Ichimonji) (No.2).
+[^3]: In Japanese, they're playing shiritori. It goes: Chiaki → *seigi* (justice), Kaoru → *gingamu chekku* (gingham check), Kanata →  *kutsuu* (pain), *kurione* (clione), Chiaki →  *neko* (cat), *neko jarashi* (cat teaser), Kaoru → *shishi-odoshi*, Kanata → *shi* (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
+[^4]: Originally, Kaoru says that Rei's bad at kanji conversion (tapping on the kanji/katakana you want to use when typing on the keyboard), which leads to Rei converting all the characters incorrectly in the message, like so: でど万ズの子とで話がアル (it should be デッドマンズのことで話がある）

@@ -279,7 +279,7 @@ fufu. kaoru, you will work with rei as an [idol] from here on out, right? i will
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
-Thanks. You too, Kanata-kun. If things with your family ever gets rough, run away to my place.
+Thanks. You too, Kanata-kun. If things with your family ever get rough, run away to my place.
 
 You’re always welcome, okay? I’d be good at taking care of someone if it’s only you.
 {% endbubble %}
@@ -289,7 +289,7 @@ fufu, for you of all people to be pushing yourself… but thank you.
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
-You don’t have to thank me. You’re my friend, y'know?
+You don’t have to thank me. You’re my friend, y’know?
 {% endbubble %}
 
 {% bubble Kanata smile3 %}
@@ -297,7 +297,7 @@ yes. …did everything go okay with souma? i am sorry for leaving you to [deal] 
 {% endbubble %}
 
 {% bubble Kaoru frown %}
-Yeah. There was one point when it was a bit worrisome, but I think everything's okay for now.
+Yeah. There was one point when it was a bit worrying, but I think everything's okay for now.
 
 It seems like he got through the first part of the live safely, and now he and the other two from Akatsuki are going to peacefully have fun with the second part.
 {% endbubble %}
@@ -871,7 +871,7 @@ Even if I did say it with words, you wouldn’t listen anyway…… So please wa
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Ah! That's *Kuuga!* That's *Kamen Rider Kuuga's* line!
+Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line!
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/midoribcg.jpg %}

@@ -685,7 +685,7 @@ Ahaha. Midori-kun, your eyes are colored with dark circles.
 {% endbubble %}
 
 {% bubble Tetora grin %}
-He’s hiding it with makeup, though. Exactly befitting of Ryusei Black, huh?
+He’s hiding it with makeup, though. He’s literally Ryusei Black, huh?
 {% endbubble %}
 
 {% bubble Midori v2 %}

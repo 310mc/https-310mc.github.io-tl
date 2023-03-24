@@ -78,7 +78,7 @@ hidden: true
 {% bubble Chiaki angry %}
 Nagumo! Takamine! What’s the matter!? What happened here!?
 
-Sengoku was unusually confused, and his explanation didn’t quite make sense!
+Sengoku was unusually distraught, and his explanation didn’t quite make sense!
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -94,9 +94,9 @@ We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! 
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-No need to act so distant with us, Nagumo! I wasn’t intending on intruding too much, but this is an emergency, right?
+No need to act so distant with me, Nagumo! I wasn’t intending on intruding too much, but this is an emergency, right?
 
-The five of us together are *Ryuseitai!* Let’s solve our problems and worries together!
+The five of us together are Ryuseitai! Let’s solve our problems and worries *together!*
 {% endbubble %}
 
 {% bubble Chiaki sigh2 %}
@@ -104,19 +104,19 @@ I’m so sorry! I’ve been so preoccupied with my own matters that I ended up n
 
 If you’re angry, then throw your anger at me! Grab me by the collar and beat me up! It’s my well-deserved punishment…!
 
-But please, end the fighting with that! What’s the use in fighting amongst your own people!?
+But please, end the fighting with that! What’s the use in fighting amongst your own comrades!?
 {% endbubble %}
 
 {% bubble Tetora sad2 %}
-See, it’s ‘cuz you’re so naive like that—… No, now’s not the time to be blamin’ you.
+See, it’s ‘cuz you’re *so* naive that—… No, now’s not the time to be blamin’ you.
 
 It’s seriously none of your business, so could you please stay out of it?
 
-Nobody asked you to get involved. I know that’s what a hero of justice is all 'bout, but I’d appreciate it if you’d refrain from butting in this once.
+Nobody asked you to get involved. I know that’s what a hero of justice is all ‘bout, but I’d appreciate it if you refrained from butting in this once.
 
 Within school, not being able to read the room is equivalent to evil, y’know?
 
-—Ahh… I can’t believe I called you of all people <em>evil</em>… I’m not calm either, huh…
+—Ahh… I can’t believe I called *you* of all people <em>evil</em>... I really do need to calm down, huh…
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -130,7 +130,7 @@ Oh! You’ve arrived, Kanata. Sorry for running off on my own.
 {% bubble Kanata %}
 that is the [usual].
 
-…midori, are you really [okay]? aren’t you crying? what happened?
+…midori, are you really [okay]? are you crying? what happened?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -156,7 +156,7 @@ Please don’t just assume things. I wouldn’t hit him. …I’d only dirty my 
 {% bubble Tetora %}
 Why don’t you say something already, huh? We’re not done talkin’ here!
 
-Or what, are you just gonna cower away and pretend nothing’s happening!? Are you hoping for that kind somebody to solve all your problems for you!?
+Or what, are you just gonna cower away and pretend nothing’s happening!? Are you just gonna sit there, hoping for that kind somebody to swoop in and solve all your problems for you!?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -170,7 +170,7 @@ Both of you rushed straight to the scene before I could get to the details…
 {% endbubble %}
 
 {% bubble Chiaki %}
-Sengoku! You’re here just in time—explain the situation!
+Sengoku! You’re here just in time — explain the situation!
 
 Hm? Even Anzu is here? Is that a first aid kit in your hand? Did you go somewhere to fetch it?
 
@@ -188,15 +188,15 @@ I often get injured during my stunt work, so I know how to treat small injuries!
 {% bubble Chiaki %}
 Then why are you crying? Anzu, Sengoku, please give me a full report of what happened!
 
-I’m so sorry! It’s all my fault for neglecting you guys all this time!
+I’m so sorry! It’s all my fault for neglecting you guys this whole time!
 
 However, I truly believed that you would be able to overcome any and all difficulties by yourselves!
 {% endbubble %}
 
 {% bubble Tetora awkward %}
-Well… This must be a disappointin’ sight then, I’m sorry.
+Well… This must be a disappointin’ sight then. I’m sorry.
 
-The situation is very simple. Anzu-Anego asked me if we, Ryuseitai, were gonna participate in Repayment Festival.
+The situation is real simple. Anzu-Anego asked me if we, Ryuseitai, were gonna participate in Repayment Festival.
 
 But to be honest, I thought we wouldn’t be able to.
 
@@ -204,31 +204,31 @@ But to be honest, I thought we wouldn’t be able to.
 
 The reason I got to live my life proudly without ever losing heart was all thanks to Taishou and my seniors in Ryuseitai, after all.
 
-I wanted to give ‘em a peace of mind by showing ‘em just how much I’ve grown. That’s what Repayment Festival is for.
+I wanted to give ‘em peace of mind by showing ‘em just how much I’ve grown. That’s what Repayment Festival is for.
 
 It’s a farewell ceremony that begins and ends with a bow.[^1]
 
-I wanted to make sure I could do that properly. …It’s sad to say our goodbyes, but throwin’ a tantrum won’t change anything.
+I wanted to make sure I could do that properly. …It’s sad to part ways, but throwin’ a tantrum won’t change anything.
 
 I wanted to wipe my tears away, so that I can at least say my goodbyes with a smile.
 
-But… that’s just how <em>I</em> feel. I can’t force others to do the same.
+But… that’s just how <em>I</em> feel. I can’t force others to feel that way, too.
 
 If I just go ahead on my own like I always do, I’d only cause trouble for everyone.
 
-That's why I first started by asking Midori-kun the other day, since we’re in the same class.
+That’s why I first started by asking Midori-kun the other day, since we’re in the same class.
 
 I wanted to see if he wanted to join, and if he thinks he can manage it.
 
 He replied the same way he always does.
 
-“I can’t do it” “I don’t wanna” “It’s a pain” “Why me…?” — It’s gotten so tiring hearin’ this stuff for the past whole year. Midori-kun, you really don’t have any motivation, do you?
+“I can’t do it”, “I don’t wanna”, “It’s a pain”, “Why me…?” — It’s gotten so tiring hearin’ this stuff over and over the entire past year. Midori-kun, you really don’t have any motivation, do you?
 
-I understand why, though. After all, you accidentally took the idol course, right?
+I understand why, though. After all, you signed up for the idol course by accident, right?
 
 You never wanted to become an idol in the first place, right?
 
-So scolding you harshly, pushing you to do stuff, and forcefully dragging you back in when you’re so unmotivated would just be cruel. That’s exactly what Taichou always did, though.
+So scolding you so harshly, pushing you to do stuff, and forcefully dragging you back in when you’re so unmotivated would just be cruel. That’s exactly what Taichou always did, though.
 {% endbubble %}
 
 ## Chapter 2
