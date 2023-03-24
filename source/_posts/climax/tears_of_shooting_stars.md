@@ -87,9 +87,11 @@ But there’s no need to worry anymore! Now that the burning heart Morisawa Chia
 We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! ☆
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
-………
+{% bubble Tetora angry %}
+…………
+{% endbubble %}
 
+{% bubble Tetora cry2 %}
 …Taichou. I’m sorry, but please stay outta this.
 {% endbubble %}
 
@@ -107,7 +109,7 @@ If you’re angry, then throw your anger at me! Grab me by the collar and beat m
 But please, end the fighting with that! What’s the use in fighting amongst your own comrades!?
 {% endbubble %}
 
-{% bubble Tetora sad2 %}
+{% bubble Tetora sad3 %}
 See, it’s ‘cuz you’re *so* naive that—… No, now’s not the time to be blamin’ you.
 
 It’s seriously none of your business, so could you please stay out of it?
@@ -115,61 +117,65 @@ It’s seriously none of your business, so could you please stay out of it?
 Nobody asked you to get involved. I know that’s what a hero of justice is all ‘bout, but I’d appreciate it if you refrained from butting in this once.
 
 Within school, not being able to read the room is equivalent to evil, y’know?
-
-—Ahh… I can’t believe I called *you* of all people <em>evil</em>... I really do need to calm down, huh…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Tetora sad2 %}
+—Ahh… I can’t believe I called *you* of all people <em>evil</em>… I really do need to calm down, huh…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
 midori\~? tetora\~? are you two alright?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki idle %}
 Oh! You’ve arrived, Kanata. Sorry for running off on my own.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile2 %}
 that is the [usual].
+{% endbubble %}
 
+{% bubble Kanata curious %}
 …midori, are you really [okay]? are you crying? what happened?
 {% endbubble %}
 
-{% bubble Midori %}
-………
+{% bubble Midori cry %}
+…………
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 there, there. you are a good boy, so don’t cry, okay…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki angry %}
 Nagumo. I don’t want to think you would, but did you hit Takamine by any chance? You shouldn’t resort to violence!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora hmph %}
 Please don’t just assume things. I wouldn’t hit him. …I’d only dirty my fists if I punched a spoiled brat like him.
 {% endbubble %}
 
-{% bubble Midori %}
-………
+{% bubble Midori cry %}
+…………
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora angry %}
 Why don’t you say something already, huh? We’re not done talkin’ here!
 
 Or what, are you just gonna cower away and pretend nothing’s happening!? Are you just gonna sit there, hoping for that kind somebody to swoop in and solve all your problems for you!?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki idle %}
 C-Calm down already, Nagumo! Why are you so angry!? Take a deep breath!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sigh %}
 T-Taichou-dono\~? Shinkai-dono\~? I finally caught up with you!
 
 Both of you rushed straight to the scene before I could get to the details…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised2 %}
 Sengoku! You’re here just in time — explain the situation!
 
 Hm? Even Anzu is here? Is that a first aid kit in your hand? Did you go somewhere to fetch it?
@@ -181,29 +187,35 @@ I’ll help patch him up! Stand up, Takamine! Show me where it hurts!
 I often get injured during my stunt work, so I know how to treat small injuries!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori cry3 %}
 *Ugh,* you’re so loud… I’m not injured anywhere, okay… You’re all panicking <em>way</em> too much…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki angry3 %}
 Then why are you crying? Anzu, Sengoku, please give me a full report of what happened!
+{% endbubble %}
 
+{% bubble Chiaki sad3 %}
 I’m so sorry! It’s all my fault for neglecting you guys this whole time!
 
 However, I truly believed that you would be able to overcome any and all difficulties by yourselves!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora serious %}
 Well… This must be a disappointin’ sight then. I’m sorry.
 
 The situation is real simple. Anzu-Anego asked me if we, Ryuseitai, were gonna participate in Repayment Festival.
 
 But to be honest, I thought we wouldn’t be able to.
+{% endbubble %}
 
+{% bubble Tetora frown2 %}
 ‘Course, deep down, I absolutely wanna join the festival. I wanted to show my gratitude and return the favor to all the seniors I’m indebted to.
 
 The reason I got to live my life proudly without ever losing heart was all thanks to Taishou and my seniors in Ryuseitai, after all.
+{% endbubble %}
 
+{% bubble Tetora angry %}
 I wanted to give ‘em peace of mind by showing ‘em just how much I’ve grown. That’s what Repayment Festival is for.
 
 It’s a farewell ceremony that begins and ends with a bow.[^1]
@@ -211,7 +223,9 @@ It’s a farewell ceremony that begins and ends with a bow.[^1]
 I wanted to make sure I could do that properly. …It’s sad to part ways, but throwin’ a tantrum won’t change anything.
 
 I wanted to wipe my tears away, so that I can at least say my goodbyes with a smile.
+{% endbubble %}
 
+{% bubble Tetora frown %}
 But… that’s just how <em>I</em> feel. I can’t force others to feel that way, too.
 
 If I just go ahead on my own like I always do, I’d only cause trouble for everyone.
@@ -219,7 +233,9 @@ If I just go ahead on my own like I always do, I’d only cause trouble for ever
 That’s why I first started by asking Midori-kun the other day, since we’re in the same class.
 
 I wanted to see if he wanted to join, and if he thinks he can manage it.
+{% endbubble %}
 
+{% bubble Tetora sad %}
 He replied the same way he always does.
 
 “I can’t do it”, “I don’t wanna”, “It’s a pain”, “Why me…?” — It’s gotten so tiring hearin’ this stuff over and over the entire past year. Midori-kun, you really don’t have any motivation, do you?
@@ -227,7 +243,9 @@ He replied the same way he always does.
 I understand why, though. After all, you signed up for the idol course by accident, right?
 
 You never wanted to become an idol in the first place, right?
+{% endbubble %}
 
+{% bubble Tetora angry %}
 So scolding you so harshly, pushing you to do stuff, and forcefully dragging you back in when you’re so unmotivated would just be cruel. That’s exactly what Taichou always did, though.
 {% endbubble %}
 

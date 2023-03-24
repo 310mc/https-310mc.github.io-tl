@@ -45,6 +45,9 @@
 [character="Midori"][cry2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_cry2.png");
 }
+[character="Midori"][cry3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_cry3.png");
+}
 [character="Midori"][sweat] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sweat.png");
 }
@@ -170,6 +173,9 @@
 [character="Chiaki"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_surprised.png");
 }
+[character="Chiaki"][surprised2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_surprised2.png");
+}
 [character="Chiaki"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_worried.png");
 }
@@ -277,6 +283,9 @@
 [character="Kanata"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_surprised.png");
 }
+[character="Kanata"][surprised2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_surprised2.png");
+}
 [character="Kanata"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_idle.png");
 }
@@ -312,6 +321,9 @@
 }
 [character="Shinobu"][surprised2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_surprised2.png");
+}
+[character="Shinobu"][surprised3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_surprised3.png");
 }
 [character="Shinobu"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_worried.png");
@@ -360,6 +372,9 @@
 }
 [character="Shinobu"][smug] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_smug.png");
+}
+[character="Shinobu"][clmocg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_clmocg.png");
 }
 /**
 ***/
@@ -454,6 +469,12 @@
 }
 [character="Tetora"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_curious.png");
+}
+[character="Tetora"][cry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_cry.png");
+}
+[character="Tetora"][cry2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_cry2.png");
 }
 [character="Tetora"][thinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_thinking.png");

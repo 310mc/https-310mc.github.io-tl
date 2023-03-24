@@ -12,7 +12,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

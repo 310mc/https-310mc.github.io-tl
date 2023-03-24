@@ -62,7 +62,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             />
         </div>
         <a href="/climax" class="storyName" target="_blank">
-            <span>Climax (In Progress!)</span>
+            <span>Climax</span>
             <span class="read"></span>
         </a>
     </div>

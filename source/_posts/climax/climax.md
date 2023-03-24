@@ -1,6 +1,6 @@
 ---
-title: "[ES!] Climax (In Progress!)"
-date: 2017-3-10 9:00:00
+title: "[ES!] Climax"
+date: 2023-3-24 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -18,7 +18,7 @@ permalink: climax/
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
                 <div class="title-area__subtitle">クライマックス</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/climax">In Progress!</a></div>
+                <div class="title-area__start"><a href="/climax/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -109,7 +109,7 @@ permalink: climax/
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
                 <div class="title-area__subtitle">クライマックス</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/climax">In Progress!</a></div>
+                <div class="title-area__start"><a href="prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -357,8 +357,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">You should've just disappeared!<!--消えちまえば良かったんスよ！--></div>
+                                            <div class="bloomed">I'll shine bright like the sun!<!--太陽のように輝くッス！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -421,8 +421,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">promise me…♪<!--やくそくですよ…♪--></div>
+                                            <div class="bloomed">you all grew up so much…♪<!--みんなせいちょうしましたねぇ…♪--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -453,8 +453,8 @@ permalink: climax/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">I'm excited for Takamin's performance…☆<!--タカミンの舞台楽しみだな…☆--></div>
+                                            <div class="bloomed">Everyone's super hyped!<!--みんな浮き浮きしてるよっ！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -546,8 +546,7 @@ permalink: climax/
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                            <a href="https://euni2319.dreamwidth.org/tag/climax" id="none">Dreamwidth</a>
-                        <!--<li>
+                        <li>
                             <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
@@ -570,7 +569,7 @@ permalink: climax/
                         </li>
                         <li>
                             <a href="epilogue" id="none">Epilogue</a>
-                        </li>-->
+                        </li>
                     </ul>
                 </div>
               <div class="mini-talks">
