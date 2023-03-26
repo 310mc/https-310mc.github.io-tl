@@ -545,7 +545,7 @@ Tetora-kun…
 {% endbubble %}
 
 {% bubble Tetora awkward %}
-Haha. That’s why I got so angry at you, Midori-kun… It’s like I could see the real me in you — my pathetic self, that I hide in the pit of my stomach.
+Haha. That’s why I got so angry at you, Midori-kun[^3]… It’s like I could see the real me in you — my pathetic self, that I hide in the pit of my stomach.
 
 And yet, I felt like you had everything I ever wanted. You have way better looks than me, and with just a little effort, you could do anything, you know?
 
@@ -921,7 +921,7 @@ Yeah, Crimson Production likely intends to use Supervillains itself as propagand
 
 We should never underestimate fictional works. The influence of creative work on reality is massive.
 
-This is referring to the Showa era[^3], but… There was once a scary-looking actor who played the villain in a tokusatsu show, and he spoke about personal anecdotes where he made children cry even when he was simply walking around town.
+This is referring to the Showa era[^4], but… There was once a scary-looking actor who played the villain in a tokusatsu show, and he spoke about personal anecdotes where he made children cry even when he was simply walking around town.
 
 Within Supervillains, you could have an evil organization or monster that makes you think, “This is clearly meant to be ES.”
 
@@ -1117,7 +1117,7 @@ I’ll <em>never</em> be able to surpass you.
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
-This time around, I’ve walked my own path away from you. A pitch dark path[^4] that you haven’t explored yet — a path that you can’t even set foot in.
+This time around, I’ve walked my own path away from you. A pitch dark path[^5] that you haven’t explored yet — a path that you can’t even set foot in.
 
 —The path of evil.
 
@@ -1158,5 +1158,6 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
 ## Translation Notes
 [^1]: In Japan, sports teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
 [^2]: This is a reference to [High and Low](https://ensemble-stars.fandom.com/wiki/High_and_Low).
-[^3]: Tokusatsu shows are categorized by which era they were released in. Showa era covers all series from around 1971-1994, then comes all the series of Heisei era from around 2000-2019, and now it's Reiwa era.
-[^4]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “*Dark* Star”
+[^3]: This is referring to [Climax](/climax), the chapters Tears of Shooting Stars.
+[^4]: Tokusatsu shows are categorized by which era they were released in. Showa era covers all series from around 1971-1994, then comes all the series of Heisei era from around 2000-2019, and now it's Reiwa era.
+[^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “*Dark* Star”

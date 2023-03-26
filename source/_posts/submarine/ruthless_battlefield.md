@@ -936,7 +936,7 @@ Who knows… He could also hate his mom so much that he chose to chase after an 
 
 Ideals are called ideals ‘cause they’re outta our reach, and he’s walking on the path of hell by tryin’ so hard to get close. I could say the same thing about you, too.
 
-“The allies of justice”, was it? Honestly, I don't really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
+“The heroes of justice”, was it? Honestly, I don't really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
 
 They beat us down, deny us, and force us to reflect and reform. It’s pretty shitty of ‘em to do.
 {% endbubble %}

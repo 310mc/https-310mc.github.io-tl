@@ -17,6 +17,7 @@ permalink: guideline/
 <p><b>These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.</b></p>
 <p style="color:blue"><b>I permit:</b></p>
 
+※ Taking screenshots of my translations. You don't have to credit me unless you prefer to.
 ※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
 ※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page. __Please note that some translations may be on hold indefinitely.__
 ※ Using my __non-story translations__ (ex. card quotes, skill names, etc...) in the Enstars Wiki.

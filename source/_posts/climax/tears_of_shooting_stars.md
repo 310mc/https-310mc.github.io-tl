@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -496,7 +495,7 @@ But all along, were we just pushing our own selfish wishes onto you?
 
 Was it all seriously just a huge bother to you? 'Cuz if it was, then you should’ve said so a long time ago!
 
-Sure, you never wanted to be an idol in the first place — you joined this school by accident — you can’t keep up with this hero act!
+Sure, you never wanted to be an idol in the first place — you joined this course by accident — you can’t keep up with this hero act!
 
 I get it, you say it all the time! I’m sick and tired of hearing it!
 {% endbubble %}

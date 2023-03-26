@@ -113,7 +113,9 @@ hehe… i am just joking, [kaocchi]~♪
 Ehh~? Man, you’re always messing with me…
 
 I don’t really want people to get *too* friendly with me, so I’d rather you keep calling me by my first name.
+{% endbubble %}
 
+{% bubble Kaoru awkward %}
 I know it’s my own fault, but everyone’s been kinda keeping their distance from me…
 
 I mean, not even my *family* talks to me without attaching an honorific to my name.
@@ -137,7 +139,7 @@ eh~… that is not something i can really help with.
 if you want [emotional comfort], i recommend gazing at the [fishies] and [jellyfishies]. we call it [aquatherapy]. *puka, puka…♪*
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru v2 %}
 Mm, yeah. I guess looking at them through the fish tank does give me some comfort now.
 
 It took all the way until graduation season, but I think I’m finally starting to understand your feelings, Kanata-kun.

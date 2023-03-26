@@ -601,7 +601,7 @@ It exists so that, together, we can climb up to a place we wouldn’t be able to
 {% bubble Chiaki smile2 %}
 I'm not a genius like Kanata. But thanks to Ryuseitai — Thanks to everyone, I was able to make my dream come true.
 
-I won't frown down upon that. I’m thankful and proud of it.
+I won't frown on that. I’m thankful and proud of it.
 {% endbubble %}
 
 {% bubble Chiaki serious %}

@@ -370,6 +370,6 @@ We’ll have to withdraw from participating in the Repayment Festival. It’s �
 </div>
 
 ## Translation Notes
-[^1]: The word he uses is *shinpi-teki*, which is the same word used Ryusei Blue catchphrase, “mark of mystery” (*shinpi*)
+[^1]: The word he uses is *shinpi-teki*, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” *shinpi*
 [^2]: Specifically, *zen* meditation, that involves sitting cross-legged. Tetora does this pose in his [Christmas Live](https://ensemble-stars.fandom.com/wiki/%28Black_Santa%29_Tetora_Nagumo) card.
 [^3]: A reference to [The Four Beasts of Fistfighting](https://ensemble-stars.fandom.com/wiki/The_Four_Beasts_of_Fistfighting).
