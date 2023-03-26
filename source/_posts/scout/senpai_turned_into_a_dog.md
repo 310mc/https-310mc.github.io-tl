@@ -73,7 +73,7 @@ permalink: senpai_turned_into_a_dog/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                            <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>
@@ -158,7 +158,7 @@ permalink: senpai_turned_into_a_dog/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                            <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>
@@ -271,9 +271,9 @@ permalink: senpai_turned_into_a_dog/
 **Content Warning:** This story has brief mentions of animal euthanasia in Chapter 2.
 {% endnote %}
 
-{% note location %}
-**Location:** Garden Space
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Space</span></p>
+</div>
 
 {% img /img/es/scoutstory/zodiac/1.jpg %}
 
@@ -290,7 +290,7 @@ permalink: senpai_turned_into_a_dog/
 
 <th>(Well… I’m starting to enjoy doing things with Ryuseitai… But it uses up all of my energy and willpower…)</th>
 
-<th>(I don’t have the motivation to do anything else afterwards…… So I end up putting off all the annoying stuff I don’t wanna do by telling myself I’ll do it tomorrow…)</th>
+<th>(I don’t have the motivation to do anything else afterwards… So I end up putting off all the annoying stuff I don’t wanna do by telling myself I’ll do it tomorrow…)</th>
 
 <th>(Then that day comes and I wonder why I didn’t work on it just a little bit every day… That’s the situation I’m in right now…)</th>
 
@@ -308,16 +308,16 @@ permalink: senpai_turned_into_a_dog/
 {% bubble Midori %}
 <th>(…Hm? I think I hear some drumming sounds from the gym…)</th>
 
-<th>(I’m pretty sure the Basketball Club has today off, though…)</th>
+<th>(I’m pretty sure the Basketball club has today off, though…)</th>
 
 <th>(Hmm…? Am I remembering things wrong…? Maybe I should double-check when I’m done, just in case…)</th>
 
 <th>(Since Morisawa-senpai gets really annoying when I skip out on the club…)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
 
 {% img /img/es/scoutstory/zodiac/3.jpg %}
 
@@ -496,9 +496,9 @@ Ah—Hold it! Hey!! You didn’t clean up after yourself!!
 I-I’m not the one who left them lying around…! Please excuse me, sorry!!
 {% endbubble %}
 
-{% note location %}
-**Location:** Shopping District (New Year)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Shopping District (New Year)</span></p>
+</div>
 
 {% img /img/es/scoutstory/zodiac/5.jpg %}
 

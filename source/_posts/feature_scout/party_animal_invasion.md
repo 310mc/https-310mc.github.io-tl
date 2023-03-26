@@ -55,7 +55,7 @@ This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](ht
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/holicstarchive">holicstar</a>, <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    <a href="https://twitter.com/holicstarchive">holicstar</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>

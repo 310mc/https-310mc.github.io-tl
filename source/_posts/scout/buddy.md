@@ -1,5 +1,5 @@
 ---
-title: "[ES!] TBA"
+title: "[ES!] Buddy"
 date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!]

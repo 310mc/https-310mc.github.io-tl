@@ -249,9 +249,9 @@ permalink: biblio/
 **Content Warning:** This story contains suicidal ideation and explicit reference to suicide in Chapter 4 and 5 respectively.
 {% endnote %}
 
-{% note location %}
-**Location:** Classroom 1-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-A</span></p>
+</div>
 
 {% img /img/es/scoutstory/biblio/1.jpg %}
 
@@ -399,9 +399,9 @@ Takamine-kun, you really do have a heroic feel to you…♪
 
 ## Bind and Unfold 2
 
-{% note location %}
-**Location:** Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
 
 {% img /img/es/scoutstory/biblio/2.jpg %}
 
@@ -563,9 +563,9 @@ D-Did thunder strike down…?
 
 ## Bind and Unfold 3
 
-{% note location %}
-**Location:** Library Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Library Room</span></p>
+</div>
 
 {% img /img/es/scoutstory/biblio/3.jpg %}
 
@@ -715,7 +715,7 @@ Ah, I think its somewhere here… Look, there's books scattered about…
 Ah, you're right! Aoba-senpai~ Are you here?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 …………
 {% endbubble %}
 
@@ -727,7 +727,7 @@ Eugh, somebody died… Don't look, Shino-kun…
 Wha? Huh? Why? I don’t like my eyes covered~!
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 I-I'm more or less alive~ Hello Hajime-kun, and…?
 {% endbubble %}
 
@@ -739,7 +739,7 @@ Er, Aoba-senpai, right? What are you doing over there…?
 From what I can see, it seems you got flattened down by the collapsed bookcases…?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Yes, that's exactly what happened~!! Please help me!
 
 They all fell down one after the other like dominoes, I couldn't move away fast enough!
@@ -753,7 +753,7 @@ I dreaded I might die buried alive like this… Ahh, how unlucky… Is it all be
 **Content Warning:** Suicidal ideation.
 {% endnote %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahhh, you really saved me! It really is good to have kind juniors~♪
 {% endbubble %}
 
@@ -765,7 +765,7 @@ Takamine-kun had the physical strength to make it through, but I would have neve
 I don't really understand how this happened, but please be more careful, okay?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 I got scolded by my junior…! Ughh, it’s not like I like being trampled by bookcases either!
 
 I was organizing the bookcases as part of my duty as a committee member. During these times, the old books get moldy from the rain, so I was carrying all the valuable old books down to the underground archive where the humidity level is adjusted for preservation purposes.
@@ -779,7 +779,7 @@ In other words I’m, well, swapping books. It’s tough doing this when there a
 Um, before that, what is the underground archive?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahh, there's something like a library downstairs. I also only learnt about it when a friend told me in my first year.
 
 And because it’s underground, nowadays it has old books you can't get a hold of, and there's even prohibited-looking books collected from somewhere by Natsume-kun in there. It’s pretty interesting.
@@ -799,7 +799,7 @@ The impression you give off changes dramatically, you look like an elite from a 
 Yeah, you look like my big bro…
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Huh? In what way are you seeing me? I haven't looked at myself in the mirror without glasses for a while, so I really don't remember how I looked without them!
 {% endbubble %}
 
@@ -807,7 +807,7 @@ Huh? In what way are you seeing me? I haven't looked at myself in the mirror wit
 Hehe, you look cool\~ I think you look more superb without glasses\~♪
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Is that so? Ooh, you youngsters are making me blush!
 
 But my glasses are my lucky item, so I don't usually want to take them off, you know~?
@@ -817,7 +817,7 @@ But my glasses are my lucky item, so I don't usually want to take them off, you 
 Hehe. You really like things like fortune-telling, lucky charms, and Buddhist prayers, right? Even your book cover is somewhat mandala-patterned.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahh, I got that from a friend long ago. It’s worn out by now, but it’s something that has memories to it, so I can't get myself to throw it away.
 {% endbubble %}
 
@@ -835,7 +835,7 @@ I think the conversation went way off track… Um, Aoba-senpai, like we asked, w
 I feel uneasy not knowing the answer to things like that, so…
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahh, sorry. Erm, like I said, I was organizing books.
 
 I lent my glasses to a friend for a little while, or well, midway at work they were taken away from me…
@@ -859,7 +859,7 @@ I’ve committed many sins, after all.
 Hey! What's all this fuss about!?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Hiiahhh!?
 
 D-d-d-don't scare me like that, Keito-kun!
@@ -871,7 +871,7 @@ D-d-d-don't scare me like that, Keito-kun!
 Aoba.  …What happened to your glasses?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahh, I ended up lending them to Rei-kun.
 
 He was saying something like he was bored because of the rain, so I suggested he borrow some books.
@@ -887,7 +887,7 @@ I was even thinking he was finally being more considerate to his surroundings, b
 Well, it’s fine. Wait here a bit, Aoba. I’ve been keeping some spare glasses in the Student Council office, so I’ll bring them over. What's your eyesight?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Hmm… I’m not sure. I haven't done an eye test in a while, so I don't know.
 {% endbubble %}
 
@@ -919,7 +919,7 @@ Uh, don't expect me to be able to judge aesthetically… I have no idea… I fee
 
 {% img /img/es/scoutstory/biblio/tsumugiorigcg.jpg %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ah, welcome back Keito-kuuun! You were really quick, just like you said you’d be!
 {% endbubble %}
 
@@ -929,7 +929,7 @@ What’s this all about, Aoba? If I'm seeing this right, it appears that your ju
 If you don't like it, then say so. Why are you being so timid?
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahh, please spare me the lecture. I’m aware I’m hopeless, but if I’m constantly being told that I’ll definitely get mopey about it.
 
 Besides, it’s not like I don’t like it~
@@ -945,7 +945,7 @@ I can't do my work anyway since I can't see anything without glasses, so I thoug
 I’ve said this far too many times, but if your hair irritates you, then get a haircut.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 And I keep telling you that no can do, it’s part of a Buddhist prayer so I can't cut it.
 
 Though, during rainy days, it starts curling up from the humidity and feels ticklish on my skin.
@@ -955,7 +955,7 @@ Though, during rainy days, it starts curling up from the humidity and feels tick
 I know what you mean~ I also can't cut my hair due to how Ra*bits works, but during these days it’s really humid, so combing my hair is tricky.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ah, a buddy! Handshake~♪
 
 Although I think your hairstyle suits you perfectly, so it's fine as it is.
@@ -979,7 +979,7 @@ She likes my hair a lot, saying "Onii-chan, don't cut it!"
 But my little brother says I look like a girl with long hair… He's too embarrassed about it, and we no longer have baths together.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahaha, not that it matters too much, but you fiddling with my hair while we talk makes it feel like we really are in a barbershop~♪
 {% endbubble %}
 
@@ -1017,7 +1017,7 @@ If you're going to snarl at me then you’re on, come at me whenever.
 ………
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahaha, don't make him all tense pleeease, this is a place to enjoy books peacefully.
 {% endbubble %}
 
@@ -1025,7 +1025,7 @@ Ahaha, don't make him all tense pleeease, this is a place to enjoy books peacefu
 That's true… That aside, you have work to do as the library committee member, don't you? I basically finished my duties for the Student Council, so I’ll help out if you want.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Eh, are you sure? It'd be a huge help, thank you Keito-kun~♪
 {% endbubble %}
 
@@ -1037,7 +1037,7 @@ I feel a little bad about that.
 Let me make up for it at least, or else I won't feel like I can move on.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Hehe. There's a lot of implications behind your words… I need better reading comprehension for this~ You troublesome person.
 {% endbubble %}
 
@@ -1051,7 +1051,7 @@ That's just how I am. I can't change this late in.
 …That aside, Aoba, choose your glasses. I’ve brought frames that would suit you, and the lens come in variety, so adjusting the strength should be possible.
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Waaah, I'm sincerely, extremely saved by this. Why do you have so many kinds of glasses with you?
 
 As always, you love glasses, don't you, Keito-kun~♪
@@ -1061,7 +1061,7 @@ As always, you love glasses, don't you, Keito-kun~♪
 Well, I’m the type that, when I get attached to something, I pursue it to the end. If I had inherited the temple like normal, I would've probably become a monk who practices austerity.[^1]
 {% endbubble %}
 
-{% bubble Tsumugi %}
+{% bubble Tsumugi mgn %}
 Ahaha, nothing happens once you die~ So please live as long as you can, okay? I'll try to do that too, as much as I'm allowed to.
 
 But well, if it ever ends up seeming impossible, I'll put my hope on the afterlife and hang myself!
@@ -1075,9 +1075,9 @@ If you live on, you get to have your hair tied up by your cute junior, and other
 
 ## Bind and Unfold 6
 
-{% note location %}
-**Location:** Underground Archive
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Underground Archive</span></p>
+</div>
 
 {% img /img/es/scoutstory/biblio/6.jpg %}
 

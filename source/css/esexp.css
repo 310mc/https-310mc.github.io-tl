@@ -734,6 +734,10 @@ Past Stories
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/keito_smile.png");
 }
 
+[character="Tsumugi"][mgn] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tsumugi_mgn.png");
+}
+
 [character="Mao"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_awkward.png");
 }

@@ -45,7 +45,7 @@ description: "[ES!] Translation of Madara's Management Stories, featuring Mitsur
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>

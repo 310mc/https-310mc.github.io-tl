@@ -53,7 +53,7 @@ description: "[ES!] Translation of Midori's Management Stories, featuring Hajime
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/spoonbutt">Spoonbutt</a>
+                    <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
