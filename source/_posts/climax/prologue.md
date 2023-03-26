@@ -149,7 +149,7 @@ It took all the way until graduation season, but I think I’m finally starting 
 really? it feels a little less [lonely] to have someone share the [same feelings] as me.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru frown %}
 Mhm… But, uh, they really <em>are</em> loud out there, huh? I feel like I can’t chill out; that party is going off the *rails.*
 
 Knowing the kinda person Moricchi is, parting ways must be kinda sad for him. I wonder if he’s balling his eyes out…
