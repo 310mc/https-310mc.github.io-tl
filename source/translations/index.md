@@ -392,11 +392,11 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/idolstory/banner/gameoftag.jpg"
+                src="/img/es/idolstory/gameoftag/c2.jpg"
                 alt="A Game of Tag with Mama"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2019/05/07/a-game-of-tag-with-mama/" class="storyName" target="_blank">
+        <a href="/game_of_tag_with_mama" class="storyName" target="_blank">
             <span>A Game of Tag with Mama</span>
             <span class="read"></span>
         </a>
@@ -404,7 +404,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/idolstory/banner/melancholicclubactivities.jpg"
+                src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"
             />
         </div>
@@ -416,11 +416,11 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/idolstory/banner/crimsonspureheart.jpg"
+                src="/img/es/idolstory/crimsonspureheart/c2.jpg"
                 alt="The Crimson's Pure Heart"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2020/09/22/kuro-kiryu-sub-story-the-crimsons-pure-heart/" class="storyName" target="_blank">
+        <a href="/crimsons_pure_heart" class="storyName" target="_blank">
             <span>The Crimson's Pure Heart</span>
             <span class="read"></span>
         </a>

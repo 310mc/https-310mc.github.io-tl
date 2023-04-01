@@ -84,7 +84,7 @@ What about you, Hajime? We haven’t been walking home together lately unless we
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, the Tea Club has the day off today, so I also have free time. I’ll accompany you anywhere~♪
+Heheh, the Tea Club has the day off today, so I also have free time. I’ll accompany you anywhere~♪
 {% endbubble %}
 
 {% bubble Midori %}
