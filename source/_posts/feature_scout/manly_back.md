@@ -221,7 +221,7 @@ Alright, I’m waiting~ I’ll go check out the clothes store on the other side,
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Train station</span></p>
+    <p><span><b>Location:</b> Train Station</span></p>
 </div>
 
 {% bubble Arashi %}

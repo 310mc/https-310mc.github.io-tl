@@ -1898,7 +1898,7 @@ I’ve no time to chat over manga! My hands are full just trying to live my own 
 [^1]: In Japanese, Ensemble Stars is あんさんぶるスターズ (ansanburu sutaazu), so Answer &amp; Masters is written as アンサー＆ますた～ず (Ansaa &amp; masutaazu). It sounds similar to the original, but switches the hiragana and katakana around (あんスタ for Enstars and アンすた for Ansters, both pronounced as *ansuta*). Thankfully, a similar difference is shown in English with “Ansters” (The e and a switched around). Also, the story’s title “Correct Answer and Authors” is meant to be a parallel to the name.
 [^2]: Aquarius speaks in kanji and hiragana, unlike Kanata. Libra speaks similarly to Keito.
 [^3]: In Japanese, *mizu mo shitataru ii otoko* means a super handsome man, but there’s also a wordplay that it’s a handsome man dripping with water.
-[^4]: Aquarius says 深海煉獄殺, which is romanized as “Aqua punisher”. The kanji would be deep sea depths - purgatory - murder (*shinkai rengoku satsu*).
+[^4]: Aquarius says 深海煉獄殺, which is romanized as “Aqua punisher”. The kanji would be deep sea depths - purgatory - murder.
 [^5]: Otaku, i.e the Japanese word equivalent to a (manga/anime/video game/etc.) nerd.
 [^6]: As in, it’s violating people’s image, especially without their consent.
 [^7]: A reference to what happened in [Gang](/gang).
