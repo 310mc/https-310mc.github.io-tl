@@ -244,7 +244,7 @@ I’m not an ogre, I’m Mamaaa!! C’mooon Baby-chans, Mama’s gonna embrace y
 {% endbubble %}
 
 {% bubble Mitsuru %}
-*(Sticks out tongue)* Bleegh~! You never show up to our club, so there’s no way you could beat me in running!
+<th><em>(Sticks out tongue)</em></th> Bleegh~! You never show up to our club, so there’s no way you could beat me in running!
 
 You’re not gonna get me! Dash, dash, dash~!!
 

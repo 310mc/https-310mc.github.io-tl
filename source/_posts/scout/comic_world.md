@@ -20,7 +20,7 @@ permalink: comic_world/
             <div class="title-area">
                 <div class="title-area__title">Comic World</div>
                 <div class="title-area__subtitle">コミックワールド</div>
-                <div class="title-area__start"><a href="/comic_world#The-Correct-Answer-and-The-Authors-1">Start Reading</a></div>
+                <div class="title-area__start"><a href="/comic_world#Correct-Answer-and-Authors-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -107,7 +107,7 @@ permalink: comic_world/
                 <div class="title-area__title">Comic World</div>
                 <div class="title-area__subtitle">コミックワールド</div>
                 <div class="title-area__start">
-                    <a href="#The-Correct-Answer-and-The-Authors-1">Start Reading</a>
+                    <a href="#Correct-Answer-and-Authors-1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
@@ -188,6 +188,14 @@ permalink: comic_world/
                                 2018/7/14 (15:00 JST) - 2018/7/30 (15:00 JST)
                             </div>
                         </div>
+                        <div class="tab-item">
+                            <div class="label">
+                                Unit Skill
+                            </div>
+                            <div class="value">
+                                <b>Comic Characters:</b> Those who provide entertainment to the observers in their own world, as they put their pride and status on the line all in order to display their existence.<!--観測者たちに娯楽を提供し、それぞれの世界で立場とプライドをかけて存在を証明するものたち。-->
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="cg-gallery">
@@ -201,7 +209,7 @@ permalink: comic_world/
                                     <img src="/img/es/scoutstory/comicworld/keitoorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    The Correct Answer and The Authors 5
+                                    Correct Answer and Authors 5
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -209,7 +217,7 @@ permalink: comic_world/
                                     <img src="/img/es/scoutstory/comicworld/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    The Correct Answer and The Authors 6
+                                    Correct Answer and Authors 6
                                 </div>
                             </div>
                         </div>
@@ -357,15 +365,15 @@ permalink: comic_world/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <span>The Correct Answer and The Authors</span>
-                            <a href="#The-Correct-Answer-and-The-Authors-1" id="none">1</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-2" id="none">2</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-3" id="none">3</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-4" id="none">4</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-5" id="none">5</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-6" id="none">6</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-7" id="none">7</a>
-                            <a href="#The-Correct-Answer-and-The-Authors-8" id="none">8</a>
+                            <span>Correct Answer and Authors</span>
+                            <a href="#Correct-Answer-and-Authors-1" id="none">1</a>
+                            <a href="#Correct-Answer-and-Authors-2" id="none">2</a>
+                            <a href="#Correct-Answer-and-Authors-3" id="none">3</a>
+                            <a href="#Correct-Answer-and-Authors-4" id="none">4</a>
+                            <a href="#Correct-Answer-and-Authors-5" id="none">5</a>
+                            <a href="#Correct-Answer-and-Authors-6" id="none">6</a>
+                            <a href="#Correct-Answer-and-Authors-7" id="none">7</a>
+                            <a href="#Correct-Answer-and-Authors-8" id="none">8</a>
                         </li>
                         <li>
                             <a href="#Epilogue" id="none">Epilogue</a>
@@ -378,9 +386,9 @@ permalink: comic_world/
 </div>
 
 ## Chapter Index
-<a href="#The-Correct-Answer-and-The-Authors-1">Ch 1</a> - <a href="#The-Correct-Answer-and-The-Authors-2">Ch 2</a> - <a href="#The-Correct-Answer-and-The-Authors-3">Ch 3</a> - <a href="#The-Correct-Answer-and-The-Authors-4">Ch 4</a> - <a href="#The-Correct-Answer-and-The-Authors-5">Ch 5</a> - <a href="#The-Correct-Answer-and-The-Authors-6">Ch 6</a> - <a href="#The-Correct-Answer-and-The-Authors-7">Ch 7</a> - <a href="#The-Correct-Answer-and-The-Authors-8">Ch 8</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Correct-Answer-and-Authors-1">Ch 1</a> - <a href="#Correct-Answer-and-Authors-2">Ch 2</a> - <a href="#Correct-Answer-and-Authors-3">Ch 3</a> - <a href="#Correct-Answer-and-Authors-4">Ch 4</a> - <a href="#Correct-Answer-and-Authors-5">Ch 5</a> - <a href="#Correct-Answer-and-Authors-6">Ch 6</a> - <a href="#Correct-Answer-and-Authors-7">Ch 7</a> - <a href="#Correct-Answer-and-Authors-8">Ch 8</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-## The Correct Answer and The Authors 1
+## Correct Answer and Authors 1
 
 <div class="msr-location">
     <p><span><b>Location:</b> Dojo</span></p>
@@ -524,7 +532,7 @@ Hm, lemme see… “Big Hit! The New Sensation ★ Romcom in an Academy! ‘Answ
 Never heard of it… The hell?
 {% endbubble %}
 
-## The Correct Answer and The Authors 2
+## Correct Answer and Authors 2
 
 <div class="msr-location">
     <p><span><b>Location:</b> Park</span></p>
@@ -668,7 +676,7 @@ They’re probably hiding who they are for certain reasons…
 I mean, lately new artists improve very early on, probably because of the wide range of art tools available… They could simply be an art student before their debut as a professional artist.
 {% endbubble %}
 
-## The Correct Answer and The Authors 3
+## Correct Answer and Authors 3
 
 {% bubble Kuro %}
 Haha, you’re discussing this in some serious depth. You start to sound like an otaku[^5] sometimes, Danna.
@@ -804,7 +812,7 @@ I don’t feel right censoring all of this, but the artist has been basing chara
 After all, this is still breaching various laws — Even if they aren’t actually trying to criticize and expose our past.
 {% endbubble %}
 
-## The Correct Answer and The Authors 4
+## Correct Answer and Authors 4
 
 {% bubble Kuro %}
 Hmm… This manga just feels sort of a waste. I skimmed through some more pages while you were talking, and it’s genuinely interesting.
@@ -948,7 +956,7 @@ please save me, mr. [red ogre]~!
 Haha, you’ve been reading way too much manga, Danna.
 {% endbubble %}
 
-## The Correct Answer and The Authors 5
+## Correct Answer and Authors 5
 
 <div class="msr-location">
     <p><span><b>Location:</b> Rooftop</span></p>
@@ -1124,7 +1132,7 @@ fufu. here we go, mr. [red ogre]! we will [rescue] the surfboard~♪
 ‘Course. We’ll do it on my count — Three, two, one—pull!
 {% endbubble %}
 
-## The Correct Answer and The Authors 6
+## Correct Answer and Authors 6
 
 {% bubble Kuro %}
 …Right. We managed to pull it up.
@@ -1306,7 +1314,7 @@ W-Why’re you dancin’ all of a sudden? I don’t get you at all…
 fufufu\~ that is my [nature]\~♪
 {% endbubble %}
 
-## The Correct Answer and The Authors 7
+## Correct Answer and Authors 7
 
 {% img /img/es/scoutstory/comicworld/7_1.jpg %}
 
@@ -1327,23 +1335,23 @@ fufufu\~ that is my [nature]\~♪
 {% endbubble %}
 
 {% bubble Keito %}
-(…Agh, I really don’t know what to do here. It would’ve been fine if Kiryu and the transfer student were still around, but since Kiryu went to take her home…)
+<th>(…Agh, I really don’t know what to do here. It would’ve been fine if Kiryu and the transfer student were still around, but since Kiryu went to take her home…)</th>
 
-(It’s just me and these two now, and we’re the strangest lineup of people ever. I’m honestly at a loss with this.)
+<th>(It’s just me and these two now, and we’re the strangest lineup of people ever. I’m honestly at a loss with this.)</th>
 
-(Right now, it’s really calm outside for some strange reason, but who knows when the rainstorm will come back again… Relocating isn’t a viable option at the moment.)
+<th>(Right now, it’s really calm outside for some strange reason, but who knows when the rainstorm will come back again… Relocating isn’t a viable option at the moment.)</th>
 
-(I want to let our clothes dry off too, so the only option is to stay here and pass time…)
+<th>(I want to let our clothes dry off too, so the only option is to stay here and pass time…)</th>
 
-(But I just don’t have any common topic to discuss with them. If I really had to pick something, I suppose I could get things moving using embarrassing stories of “Sakuma-san”, but…)
+<th>(But I just don’t have any common topic to discuss with them. If I really had to pick something, I suppose I could get things moving using embarrassing stories of “Sakuma-san”, but…)</th>
 
-(If I start talking about him, we might end up on some stories of the past that I don’t really want anyone bringing up… Mmm, what do I do… This is so incorrigible.)
+<th>(If I start talking about him, we might end up on some stories of the past that I don’t really want anyone bringing up… Mmm, what do I do… This is so incorrigible.)</th>
 
-(I mean, I don’t *have* to force myself to talk with them, and I don’t think either of them are the type to dread silence…)
+<th>(I mean, I don’t *have* to force myself to talk with them, and I don’t think either of them are the type to dread silence…)</th>
 
-(But I personally can’t handle this… This isn't some Buddhist memorial service; it's only wasting precious time to stay quiet when there's three people gathered here.)
+<th>(But I personally can’t handle this… This isn't some Buddhist memorial service; it's only wasting precious time to stay quiet when there's three people gathered here.)</th>
 
-(Hm… Oh, right. I may as well mention *that* while I can.)
+<th>(Hm… Oh, right. I may as well mention *that* while I can.)</th>
 
 …Hey, do you like manga?
 {% endbubble %}
@@ -1470,7 +1478,7 @@ Don’t just keep sleeping; work some more.
 You too, Shinkai. One of you sleeps everywhere, and the other bathes in water… Your eccentric acts are frequent, so people could easily misinterpret you. You should be more careful.
 {% endbubble %}
 
-## The Correct Answer and The Authors 8
+## Correct Answer and Authors 8
 
 {% bubble Keito %}
 Moving on. This manga tries to avoid having characters with overlapping personalities…
@@ -1887,7 +1895,7 @@ I’ve no time to chat over manga! My hands are full just trying to live my own 
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: In Japanese, Ensemble Stars is あんさんぶるスターズ (ansanburu sutaazu), so Answer &amp; Masters is written as アンサー＆ますた～ず (Ansaa &amp; masutaazu). It sounds similar to the original, but switches the hiragana and katakana around (あんスタ for Enstars and アンすた for Ansters, both pronounced as *ansuta*). Thankfully, a similar difference is shown in English with “Ansters” (The e and a switched around). Also, the story’s title “The Correct Answer and The Authors” is meant to be a parallel to the name.
+[^1]: In Japanese, Ensemble Stars is あんさんぶるスターズ (ansanburu sutaazu), so Answer &amp; Masters is written as アンサー＆ますた～ず (Ansaa &amp; masutaazu). It sounds similar to the original, but switches the hiragana and katakana around (あんスタ for Enstars and アンすた for Ansters, both pronounced as *ansuta*). Thankfully, a similar difference is shown in English with “Ansters” (The e and a switched around). Also, the story’s title “Correct Answer and Authors” is meant to be a parallel to the name.
 [^2]: Aquarius speaks in kanji and hiragana, unlike Kanata. Libra speaks similarly to Keito.
 [^3]: In Japanese, *mizu mo shitataru ii otoko* means a super handsome man, but there’s also a wordplay that it’s a handsome man dripping with water.
 [^4]: Aquarius says 深海煉獄殺, which is romanized as “Aqua punisher”. The kanji would be deep sea depths - purgatory - murder (*shinkai rengoku satsu*).
