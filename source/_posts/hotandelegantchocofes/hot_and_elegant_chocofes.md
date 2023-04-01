@@ -1,6 +1,6 @@
 ---
 title: "[ES!] TBA"
-date: 2021-10-29 9:10:00
+date: 2019-2-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

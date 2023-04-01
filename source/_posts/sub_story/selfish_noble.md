@@ -8,7 +8,7 @@ categories:
 tags:
 - Idol Story
 - Akira
-description: "[ES!] Translation of Hiyori's Sub Story, featuring Jun."
+description: "[ES!] Translation of Hiyori's sub story, featuring Jun."
 permalink: selfish_noble/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -52,7 +52,8 @@ permalink: selfish_noble/
 </div>
 
 <!-- more -->
-<div class="msr-season spring">
+
+<div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
 

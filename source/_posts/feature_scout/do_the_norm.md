@@ -12,7 +12,7 @@ tags:
 description: "[ES!!] Translation of an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and makes an incredible discovery."
 permalink: do_the_norm/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/8/8a/%28Basketball_Connections%29_Aira_Shiratori_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/1/1f/%28Basketball_Connections%29_Aira_Shiratori_M_Bloomed.png)
+![](/img/es/idolstory/do_the_norm/c1.jpg)|![](/img/es/idolstory/do_the_norm/c2.jpg)
 :-:|:-:
 
 Aira goes to school for once and makes an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story.
@@ -27,9 +27,9 @@ This story is connected to the card [[Basketball Connections] Aira Shiratori](ht
                     Characters
                 </div>
                 <div class="value">
+		            <a href="/categories/Enstars/Aira" character="Aira"></a>
 								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
 								<a href="/categories/Enstars/Midori" character="Midori"></a>
-		            <a href="/categories/Enstars/Aira" character="Aira"></a>
                 </div>
             </div>
             <div class="info-item one">

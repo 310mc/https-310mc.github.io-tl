@@ -1,6 +1,6 @@
 ---
 title: "Orihime and Hikoboshi – Prologue"
-date: 2020-1-31 9:00:00
+date: 2018-6-30 9:00:00
 categories:
 - [Enstars, Shinobu]
 - [Enstars, Mao]

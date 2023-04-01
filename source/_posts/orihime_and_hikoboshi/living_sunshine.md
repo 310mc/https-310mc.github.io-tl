@@ -1,6 +1,6 @@
 ---
 title: "Orihime and Hikoboshi – Living Sunshine"
-date: 2020-1-31 9:00:00
+date: 2018-6-30 9:03:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]

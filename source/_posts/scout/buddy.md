@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Buddy"
-date: 2021-10-29 9:10:00
+date: 2023-4-1 10:0:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]
@@ -9,9 +9,8 @@ categories:
 - [Enstars, Madara]
 tags:
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] The transfer student is looking for an idol who can do a promotional video for motorbikes. As it will be hero-themed, she heads over to speak to the person that comes to mind for heroes…"
 permalink: buddy/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -19,12 +18,12 @@ hidden: true
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Buddy</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__subtitle">バディ</div>
                 <div class="title-area__start"><a href="/buddy#Chapter-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    The transfer student is looking for an idol who can do a promotional video for motorbikes. As it will be hero-themed, she heads over to speak to the person that comes to mind for heroes…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -105,14 +104,14 @@ hidden: true
             </div>
             <div class="title-area">
                 <div class="title-area__title">Buddy</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__subtitle">バディ</div>
                 <div class="title-area__start">
                     <a href="#Chapter-1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    The transfer student is looking for an idol who can do a promotional video for motorbikes. As it will be hero-themed, she heads over to speak to the person that comes to mind for heroes…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -182,10 +181,18 @@ hidden: true
                         </div>
                         <div class="tab-item">
                             <div class="label">
-                                Event Duration
+                                Scout Duration
                             </div>
                             <div class="value">
-                                2018/5/31 (15:00 JST) - 2018/6/8 (22:00 JST)
+                                2018/7/30 (15:00 JST) - 2018/8/14 (15:00 JST)
+                            </div>
+                        </div>
+                        <div class="tab-item">
+                            <div class="label">
+                                Unit Skill
+                            </div>
+                            <div class="value">
+                                <b>Target Lock-On:</b> Their client, often unknown and anonymous, differs with every mission. Speeding through countless nights, their only partner is their motorbike.<!--任務の相手は毎回異なり、時には顔を合わすこともない。そんないくつもの闇夜を駆ける相棒はこのバイクだけ。-->
                             </div>
                         </div>
                     </div>
@@ -201,7 +208,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/buddy/madaraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 1
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -209,7 +216,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/buddy/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 4
                                 </div>
                             </div>
                         </div>
@@ -231,26 +238,22 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">This is truly splendid…☆<!--TBA--></div>
+                                            <div class="bloomed">Leave this to me.<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[A Hero's Partner] Chiaki Morisawa</div>
+                                    <div class="card__jp">[ヒーローの相棒] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Highway Chase<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Red Figure<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -260,33 +263,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/buddy/tetoracard.jpg">
+                                        <img src="/img/es/scoutstory/buddy/madaracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/buddy/tetorabcard.jpg">
+                                        <img src="/img/es/scoutstory/buddy/madarabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">Are you on a date?<!--TBA--></div>
+                                            <div class="bloomed">One more target, and the mission is complete.<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Mission Partner] Madara Mikejima</div>
+                                    <div class="card__jp">[ミッションの相棒] 三毛縞 斑</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Midnight Parking<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Motorbike Maintenance<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -303,26 +302,22 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">I'm passionate about this right now…!<!--TBA--></div>
+                                            <div class="bloomed">If there's a task to protect mascots, I'll do it…!<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[The Heart's Partner] Midori Takamine</div>
+                                    <div class="card__jp">[心の相棒] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Protecting the Soothing Things<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Captain Kidoairaku<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -339,26 +334,22 @@ hidden: true
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed">This is Peachy and Thunder!<!--TBA--></div>
+                                            <div class="bloomed">I will slip into darkness, and fulfill my mission.<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Precious Partner] Shinobu Sengoku</div>
+                                    <div class="card__jp">[大切な相棒] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Acting in Secret<!--隠密行動--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name">Frog Companions<!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -438,7 +429,7 @@ Thank you for all of that, Anzu…☆
 
 Alright, let’s hear why you’ve called me over! I’m ready for anything, like hanging out together thanks to the free time we’ve got~♪
 
-Hmhmm… A new motorbike PV is going to be released?
+Hmhmm… A new motorbike promotional vieo is going to be released?
 
 You want me to accept a solo job, instead of doing it as part of Ryuseitai's activities…
 
@@ -450,7 +441,7 @@ Ohh, *that’s* why! It’s going to have a concept similar to hero stuff, so yo
 
 I’ve ridden motorbikes before during stunt work, and I’m pretty interested—
 
-Wait, hold on— PV with motorbikes? *And* hero stuff in it? I think there’s someone else more suitable for this than me!
+Wait, hold on— A promotional video with motorbikes? *And* hero elements in it? I think there’s someone else more suitable for this than me!
 
 I saw him just a second ago inside the school grounds, so he should still be around. Follow me, Anzu!
 {% endbubble %}
@@ -496,7 +487,7 @@ Yep, I’m all good. I can listen to what you have to say while I work on my mot
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh no, you can carry on if you like. See, Anzu asked me to take part in a new motorbike PV.
+Oh no, you can carry on if you like. See, Anzu asked me to take part in a new promotional video for motorbikes.
 
 I’ve ridden one before, and I’m fine with taking the job, but… You love motorbikes way more than I do, so.
 {% endbubble %}
@@ -548,7 +539,7 @@ O-Oh, you have other work to do. You really are a hard worker… Make sure to do
 {% endbubble %}
 
 {% bubble Madara %}
-So you’ll tell me when it’s time to meet up for the PV’s briefing? Got it~! ☆
+So you’ll tell me when it’s time to meet up for the promotional video’s briefing? Got it~! ☆
 
 You don’t have to thank me, Anzu-san! We’re close, aren’t we!
 
@@ -956,7 +947,7 @@ It made me realize how much I’ve missed out from not visiting just because I w
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ahh… Yes, we have been busy even during the summer holidays — what with Pirate Fes and helping out at the beach house.
+Ahh… Yes, we have been busy even during the summer holidays — what with Pirate Festival and helping out at the beach house.
 
 I do not typically go outside during the summer holidays, but I felt like an outdoor ninja this summer.
 {% endbubble %}
@@ -1216,7 +1207,7 @@ Hahaha! Yep, it’s as you say! I still love motorbikes to this day~♪
 
 That’s why I’m really looking forward to this job!
 
-The PV’s briefing is tomorrow, right? I don’t have anything else planned, so I’m free to work alongside you~♪
+The promotional video’s briefing is tomorrow, right? I don’t have anything else planned, so I’m free to work alongside you~♪
 
 You don’t have to bow your head down in apology, y’know? I don’t feel forced to do this, so~♪
 
@@ -1445,6 +1436,6 @@ Now, come on! Let me take you back home today, Anzu-san~♪ Accept me as your bu
 [^3]: He says *beppin* (beautiful lady) to describe his motorbike, so I made him refer to it with she/her.
 [^4]: “Buddy” is in katakana (so basically, in English), which is likely why Chiaki couldn’t tell what Madara meant at first.
 [^5]: He literally says: I showed it to her while saying “Look, look! It’s a drone beetle~♪”. I couldn’t put it in the translation without it being awkward, so I figured I could note it down here since it’s cute.
-[^6]: A reference to the mascot character that appears in [Pirate Fes](). It’s also in his [card]() for this gacha story.
+[^6]: A reference to the mascot character that appears in [Pirate Festival](https://ensemble-stars.fandom.com/wiki/Pirate_Festival). It’s also in his [card](https://ensemble-stars.fandom.com/wiki/(The_Heart%27s_Partner%29_Midori_Takamine) for this gacha story.
 [^7]: In Japanese, *kero* is the sound a frog makes, so the mascot character’s name is based on that.
-[^8]: You can see Shinobu holding his frogs in his [card]().
+[^8]: You can see Shinobu holding his frogs in his [card](https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku).

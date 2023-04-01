@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Shooting Star Festival"
-date: 2021-10-29 9:10:00
+date: 2017-7-10 9:10:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

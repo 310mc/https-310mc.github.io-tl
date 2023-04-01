@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Comic World"
-date: 2023-3-31 9:10:00
+date: 2023-4-1 9:10:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Keito]
@@ -489,7 +489,7 @@ Hm? C’mon, show us.
 {% endbubble %}
 
 {% bubble Keito %}
-Hrm, I should’ve brought my tablet — It would’ve been easier to show you on a bigger screen.
+Hm, I should’ve brought my tablet — It would’ve been easier to show you on a bigger screen.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -551,7 +551,7 @@ I’ve waited for this moment! For three whole years! I’ve waited for this mer
 {% img /img/es/scoutstory/comicworld/2_2.jpg %}
 
 {% bubble Libra %}
-…Heh. For the first time ever, you deserve some praise.
+…Heh. For the first time ever, you deserve actual praise.
 
 My friend. These three years have been hell for you, haven’t they? Three years of pretending to love your wretched foe… to serve by his side, and treat him kindly and closely.
 
@@ -559,15 +559,15 @@ There was no need for such a plan — I would have been fine being killed by *yo
 {% endbubble %}
 
 {% bubble Aquarius %}
-…!! There you go again, talking to me like you know it all! Like you’re above it all! Please don’t just *allow* me to do this, Libra!
+…!! There you go again, talking to me like you know it all! Like you’re above it all! Please stop sitting there and *allowing* me to do this, Libra!
 
-You're only bluffing, anyway! Pretending that, even if you’ve lost the battle, your feelings haven’t wavered or died! But too bad for you, because your dreams are ending right here, right now!
+You're only bluffing, anyway! Pretending that, even if you’ve lost the battle, your feelings haven’t wavered or died, aren’t you? But too bad for you, because your dreams are ending right here, right now!
 
 My friend, you’re aware of my power, aren’t you? That’s right! I can manipulate every single drop of water!
 
 But manipulating pure water combined from hydrogen and oxygen isn’t all I can do!
 
-I can even control other liquids! And also, every material in this world can turn to liquid!
+I can even control other liquids! And I’d like to mention that *every* material in this world can turn to liquid!
 
 Even those glasses of yours — The ones holding the key to your power…!
 
@@ -577,7 +577,7 @@ I’ll melt it down to a muddled mess — along with everything else you hold de
 {% endbubble %}
 
 {% bubble Libra %}
-Heheh…
+Heh…
 {% endbubble %}
 
 {% bubble Aquarius %}
@@ -597,7 +597,7 @@ Hm… I’ve become a much more kind being. Or perhaps I’ve grown weaker…
 
 Whatever, it doesn’t matter anymore! Perish before you spread even more grief to this world!
 
-It’s time to say goodbye! *Aqua Punisher*…![^4]
+It’s time to say goodbye! <em>Aqua Punisher…!</em>[^4]
 {% endbubble %}
 
 <div class="msr-location">
@@ -1499,7 +1499,7 @@ Although, if that *were* true, they wouldn’t depict any of us in these nonsens
 {% endbubble %}
 
 {% bubble Ritsu %}
-Hrmm… Maybe they aren’t from school, and they’re drawing this based on information given by someone else.
+Hmm… Maybe they aren’t from school, and they’re drawing this based on information given by someone else.
 
 So like, the one with the info and the one drawing the manga are two different people.
 {% endbubble %}
@@ -1713,7 +1713,7 @@ Heyo, Kei-chan~♪
 {% bubble Keito %}
 Woah, what the—!?
 
-Why are you lying on the floor—I was this close to stepping on you…
+Why are you lying on the floor — I was this close to stepping on you…
 
 Kiryu’s currently in the middle of his club activities. Stop getting in his way, you two.
 {% endbubble %}
@@ -1735,7 +1735,7 @@ For goodness’ sake… Didn’t I tell you to moderate your eccentric acts? Inc
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. i am sorry, was i a bother?
+fufu. i’m sorry, was i a bother?
 {% endbubble %}
 
 {% bubble Kuro %}

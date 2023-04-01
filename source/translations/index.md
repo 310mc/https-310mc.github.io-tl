@@ -290,7 +290,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Comic World"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2019/01/19/comic-world-chapter-masterlist/" class="storyName" target="_blank">
+        <a href="/comic_world" class="storyName" target="_blank">
             <span>Comic World</span>
             <span class="read"></span>
         </a>
@@ -302,7 +302,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Buddy"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2020/01/17/buddy-chapter-masterlist/" class="storyName" target="_blank">
+        <a href="/buddy" class="storyName" target="_blank">
             <span>Buddy</span>
             <span class="read"></span>
         </a>
@@ -408,7 +408,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Melancholic Club Activities"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2020/09/22/midori-takamine-sub-story-melancholic-club-activities/" class="storyName" target="_blank">
+        <a href="/melancholic_club_activities" class="storyName" target="_blank">
             <span>Melancholic Club Activities</span>
             <span class="read"></span>
         </a>
@@ -592,7 +592,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/dothenorm.jpg"
+            src="/img/es/idolstory/do_the_norm/c2.jpg"
             alt="Do The Norm"
         />
     </div>
@@ -652,7 +652,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/manlyback.jpg"
+            src="/img/es/idolstory/manlyback/c1.jpg"
             alt="Manly Back"
         />
     </div>

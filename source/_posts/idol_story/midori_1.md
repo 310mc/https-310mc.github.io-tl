@@ -182,4 +182,4 @@ And that’s how I’ll be doing my best, so… Please do support me, Miss Produ
 
 |Midori Idol Story 1<br>(Solo)|Midori Idol Story 2<br>(Featuring Shinobu, Yuta)|Midori Idol Story 3<br>(Featuring Hajime)
 | :-----------: | :-----------: | :-----------: |
-[![/idol_story/midori_1](https://static.wikia.nocookie.net/ensemble-stars/images/1/17/%28An_Idol%29_Midori_Takamine_M_Bloomed.png)](/idol_story/midori_1)|[![/idol_story/midori_2](https://static.wikia.nocookie.net/ensemble-stars/images/d/d8/%28ES_Idol%29_Midori_Takamine_B.png)](/idol_story/midori_2)|[![/idol_story/midori_3](https://static.wikia.nocookie.net/ensemble-stars/images/6/61/%28Practicing%29_Midori_Takamine_M.png)](/idol_story/midori_3)
+[![/idol_story/midori_1](/img/es/idolstory/banner/midoriidolstory1.jpg)](/idol_story/midori_1)|[![/idol_story/midori_2](/img/es/idolstory/banner/midoriidolstory2.jpg)](/idol_story/midori_2)|[![/idol_story/midori_3](/img/es/idolstory/banner/midoriidolstory3.jpg)](/idol_story/midori_3)

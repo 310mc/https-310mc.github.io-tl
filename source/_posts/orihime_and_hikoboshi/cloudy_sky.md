@@ -1,6 +1,6 @@
 ---
 title: "Orihime and Hikoboshi – Cloudy Sky"
-date: 2020-1-31 9:00:00
+date: 2018-6-30 9:01:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Midori]

@@ -11,10 +11,10 @@ tags:
 description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Arashi. Tetora needs to buy a new ear piercing."
 permalink: manly_back/
 ---
-![](/img/es/idolstory/manlyback/c1.png)|![](/img/es/idolstory/manlyback/c2.png)
+![](/img/es/idolstory/manlyback/c1.jpg)|![](/img/es/idolstory/manlyback/c2.jpg)
 :-:|:-:
 
-Tetora needs to buy a new ear piercing. This story is connected to the card [Favorite One] Tetora Nagumo.
+Tetora needs to buy a new ear piercing. This story is connected to the card [What I Like] Tetora Nagumo.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
