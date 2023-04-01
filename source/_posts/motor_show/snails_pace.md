@@ -910,7 +910,7 @@ What’re you on about… She’s just a little kid, y’know… And I’m prett
 It’s like I can barely get my point across with her… it really makes you think of a certain someone—
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad2 %}
 …But if Morisawa-senpai was here, I bet he’d solve all our problems perfectly, no matter what they may be.
 {% endbubble %}
 

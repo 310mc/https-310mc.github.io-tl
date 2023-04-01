@@ -56,7 +56,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 {% endnote %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Marine Bio Clubroom</span></p>
+    <p><span><b>Location:</b> Marine Life Clubroom</span></p>
 </div>
 
 {% img /img/es/eventstory/climax/prologue_1.jpg %}
@@ -80,7 +80,7 @@ i am actually pretty [irritated]. it is very [noisy] outside.
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
-Ahh, yeah, while I was on my way over here, I saw the Basketball club having a farewell party for their third years.
+Ahh, yeah, while I was on my way over here, I saw the Basketball Club having a farewell party for their third years.
 
 They’re in that basketball court outside.
 
@@ -158,7 +158,7 @@ Knowing the kinda person Moricchi is, parting ways must be kinda sad for him. I 
 {% bubble Kanata smile3 %}
 chiaki won’t cry.
 
-fufu, how about we call souma over and have our own [farewell party] for the [marine bio club]?
+fufu, how about we call souma over and have our own [farewell party] for the [marine life club]?
 
 i would like to [hand] the [fish tanks] over to souma’s care, as well.
 {% endbubble %}

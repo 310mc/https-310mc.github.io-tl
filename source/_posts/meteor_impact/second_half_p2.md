@@ -1040,7 +1040,7 @@ But the hero never, ever came to save me!
 
 {% endbubble %}
 {% bubble Chiaki pastsad %}
-It hurt so much to be ignored and made fun of by the guys who were supposed to be my comrades! One time, they saw my toy figure and tore it apart, mocking me the whole time!
+It hurt so much to be ignored and made fun of by the guys who were supposed to be my comrades! One time, they saw my toy figurine and tore it apart, mocking me the whole time!
 
 It made me feel horrible! But I held it in and laughed it off!
 

@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Comic World"
-date: 2021-10-29 9:10:00
+date: 2023-3-31 9:10:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Keito]
@@ -10,9 +10,8 @@ categories:
 tags:
 - Scout Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!] Keito discovers a web comic with an interesting story and a rising popularity. However, the characters appear to be based on Yumenosaki students…"
 permalink: comic_world/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -25,7 +24,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Keito discovers a web comic with an interesting story and a rising popularity. However, the characters appear to be based on Yumenosaki students…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -113,7 +112,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Keito discovers a web comic with an interesting story and a rising popularity. However, the characters appear to be based on Yumenosaki students…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -186,7 +185,7 @@ hidden: true
                                 Scout Duration
                             </div>
                             <div class="value">
-                                2018/7/14 (15:00 JST) - 2018/7/39 (15:00 JST)
+                                2018/7/14 (15:00 JST) - 2018/7/30 (15:00 JST)
                             </div>
                         </div>
                     </div>
@@ -392,11 +391,11 @@ hidden: true
 {% bubble Kuro %}
 You’re rushing this way too much, li’l miss.
 
-I get you. You’re gonna want to rush when you’ve got so many deadlines approachin’, yeah? Man, you’ve been picking up way too many jobs lately.
+I get you. You get the urge to rush when you’ve got so many deadlines approachin’, yeah? Man, you’ve been picking up *way* too many jobs lately.
 
 But y’know… You’re not used to making outfits yet, so you have to sew them properly, bit by bit.
 
-If you hand in sloppily-made outfits to your customer, they could get upset and ask for a remake.
+If you hand in sloppily-made outfits to your customer, they could get upset and ask for a re-do.
 
 It’ll only hurt you in the long run. Taking shortcuts is never an option.
 
@@ -496,7 +495,7 @@ Hrm, I should’ve brought my tablet — It would’ve been easier to show you o
 {% bubble Kuro %}
 It’s all good. I can still read it like this.
 
-But it *is* small enough to be kinda unclear… My face is gonna go all scary if I start squinting my eyes.
+But it *is* small enough to be kinda unclear… My face is gonna look scary if I start squinting my eyes.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -508,7 +507,7 @@ Right… I’ll skip ahead, and show you the scene in question.
 {% endbubble %}
 
 {% bubble Kuro %}
-In question…? What’re you talking about? Aren’t you showing us an interesting manga you found?
+In question…? What’re you talking about? Aren’t you showin’ us an interesting manga you found?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -520,9 +519,9 @@ I want to talk to you about this because if it goes down the wrong path, it coul
 {% bubble Kuro %}
 “Chaos,” he says… It’s just a manga… I don’t get it.
 
-Hrm, lemme see… “Big Hit! The New Sensation ★ Romcom in an Academy! ‘Answer &amp; Masters’, or ‘Ansters’ for short”…?[^1]
+Hm, lemme see… “Big Hit! The New Sensation ★ Romcom in an Academy! ‘Answer &amp; Masters’, or ‘Ansters’ for short”…?[^1]
 
-Never heard of it… What on earth?
+Never heard of it… The hell?
 {% endbubble %}
 
 ## The Correct Answer and The Authors 2
@@ -704,7 +703,7 @@ I’m guessing the artist came to the park themselves, and took photos to use as
 {% endbubble %}
 
 {% bubble Kuro %}
-*Oh*? Which means they live close by. Feels like we’re detectives right now — We sound a little too full of ourselves, but I dunno, I’m starting to have fun with this.
+*Oh*? Which means they live close by. Feels like we’re detectives right now — We sound a li’l too full of ourselves, but I dunno, I’m startin’ to have fun with this.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -774,9 +773,9 @@ C-Calm down, Kiryu. Your face is looking scary. We’re already trying to look f
 
 We need to find them one way or another, and express our discontent.
 
-This may just be a coincidence, but… The characters who are based on Eichi, Aoba, and those two who transferred to other schools—Tomoe and Ran… They have a lot of scenes where they fight the characters who look like the Five Oddballs.
+This may just be a coincidence, but… The characters who are based on Eichi, Aoba, and those two who transferred to other schools — Tomoe and Ran… They have a lot of scenes where they fight the characters who look like the Five Oddballs.
 
-This particular scene is just a nonsensical battle involving superpowers, but. There’s one part in it that unfolds the same way as one of our plans did back then.
+This particular scene is just a nonsensical battle involving superpowers, but… There’s one part in it that unfolds the same way as one of our plans did back then.
 
 Let’s say this manga really is based on idols who were involved in those incidents and this school, and was simply drawn as a parody for laughs…
 
@@ -808,7 +807,7 @@ After all, this is still breaching various laws — Even if they aren’t actual
 ## The Correct Answer and The Authors 4
 
 {% bubble Kuro %}
-Hrmm… This manga just feels sort of a waste. I skimmed through some more pages while you were talking, and it’s genuinely interesting.
+Hmm… This manga just feels sort of a waste. I skimmed through some more pages while you were talking, and it’s genuinely interesting.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -858,9 +857,9 @@ I can’t do anything about that part — It’s still violating laws. They’ll
 {% endbubble %}
 
 {% bubble Kuro %}
-Hrmm… This’ll be pretty tricky to accomplish.
+Hmm… This’ll be pretty tricky to accomplish.
 
-There’re a lot of students in this school, especially if you count the other courses. We’re gettin’ nowhere until we shorten our list of suspects.
+There’s a lotta students in this school, especially if you count the other courses. We’re gettin’ nowhere 'til we shorten our list of suspects.
 
 We aren’t even sure they *are* a student of this school, either. We just think there’s a good chance they are.
 {% endbubble %}
@@ -870,13 +869,13 @@ That’s true, but it’s impossible for an unauthorized person to enter the ido
 
 There would’ve been a commotion were someone to spot an intruder, but unfortunately, I’ve noticed nothing of the sort.
 
-And back in spring, we had that terrorist warning—or, well… we had a small incident, so they’ve tightened security since then.[^7]
+And back in spring, we had that terrorist warning — or, well… we had a small incident, so they’ve tightened security since then.[^7]
 
 Unauthorized people can no longer enter the school so effortlessly.
 {% endbubble %}
 
 {% bubble Kuro %}
-Ahh, um. Yeah, there was that… warning.
+Ahh, uhh. Yeah, there was that… warning.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -992,9 +991,9 @@ Although… You do *try* to communicate with people now, so you’re already bet
 {% img /img/es/scoutstory/comicworld/keitoorigcg.jpg %}
 
 {% bubble Kanata %}
-ah—? are you alright, temple guy?
+wah—? are you alright, [temple guy]?
 
-you tumbled down… the wind is strong, so you have to be careful, okay~?
+you tumbled down… the wind is [strong], so you [have] to be careful, okay~?
 
 shall i help you with a “pain, pain go away”?[^9]
 {% endbubble %}
@@ -1004,7 +1003,7 @@ shall i help you with a “pain, pain go away”?[^9]
 {% endbubble %}
 
 {% bubble Kuro %}
-This ain’t the time to chat. C’mon, grab my hand and stand back up, Danna.
+This isn’t the time to chat. C’mon, grab my hand and stand back up, Danna.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1012,7 +1011,7 @@ Don’t worry about me, I can get back up on my own. We need to hurry and deal w
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, i would like that very much… i really cannot do it alone. please help me save that child.
+yes, i would like that very much… i really [cannot] do it alone. please help me save [that child].
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1026,11 +1025,11 @@ Don’t tell me he already fell…!?
 {% endbubble %}
 
 {% bubble Kanata %}
-no. can you see them? the rain is harsh, so it is not very easy to see… but they seem to be on the edge of falling.
+no. can you see them? the rain is harsh, so it is not easy to [see]… but they seem to be on the [edge] of falling.
 
-we will have to pull them up, so please help me… mr. red ogre.
+we will have to pull them up, so please help me… mr. [red ogre].
 
-you excel at manual labor, yes? my hands are slippery from the rain, so i cannot pull them up with my strength only.
+you excel at manual labor, yes? my [hands] will be slippery from the rain, so i cannot pull them up with my [strength] only…
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1038,7 +1037,7 @@ Aren’t you stronger than you seem? Hell, we wouldn’t even know which of us w
 {% endbubble %}
 
 {% bubble Kanata %}
-yes. that is why i hope the two of us will be able to pull them up.
+yes. that is why i hope the [two] of us will be able to pull them up.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1058,7 +1057,7 @@ I must’ve broken my glasses when I fell. All I see is a surfboard.
 {% endbubble %}
 
 {% bubble Kanata %}
-that’s right, they are a surfboard~ kaoru always keeps them lying here.
+that’s right, they are a surfboard~ kaoru always keeps them lying on the [rooftop].
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1070,9 +1069,9 @@ He finds procedures like that bothersome, so I did it all for him instead. It’
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, kaoru was very grateful for that. he is a shy person, so i do not think he would directly tell you so.
+yes, kaoru was very [grateful] for that. he is a shy person, so i do not think he would directly [tell] you so.
 
-you are a good person… temple guy.
+you are a good person… [temple guy].
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1086,11 +1085,11 @@ It wasn’t so that I could sit back and bask in my own power. It was all to bec
 {% endbubble %}
 
 {% bubble Kanata %}
-as living creatures, doing such things is natural. we were simply used as prey for such purposes.
+as living creatures, doing such things is [natural]. we were simply used as [prey] for such purposes.
 
-it is sorrowful, but that is how it goes. it is the natural law.[^10]
+it is sorrowful, but that is how it [goes]. it is the natural [law].[^10]
 
-but. if possible, please choose a much kinder method next time.
+but… if possible, please choose a much [kinder] method next time.
 
 please settle the issue before any blood can be spilled — before anyone can die.
 {% endbubble %}
@@ -1104,13 +1103,13 @@ Hey, enough chatting — let’s get a move on, Shinkai. The surfboard’s this 
 {% endbubble %}
 
 {% bubble Kanata %}
-ah, yes. they would break if they fell, and kaoru would be sad… so we will pull them up some way or another.
+ah, yes. [they] would break if they fell, and kaoru would be sad… so we will pull them up some way or another.
 
 it is best to have as few sorrowful things as possible.
 
-if that is what you people think as well, then there is no reason for us to hate each other.
+if that is what you people [think] as well, then there is no reason for us to [hate] each other.
 
-let’s allow the past to flow away with the water, and do what we can right now.
+let’s allow the past to flow away with the [water], and do what we can right now.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1118,7 +1117,7 @@ let’s allow the past to flow away with the water, and do what we can right now
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. here we go, mr. red ogre! we will rescue the surfboard~♪
+fufu. here we go, mr. [red ogre]! we will [rescue] the surfboard~♪
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1142,7 +1141,7 @@ I think you still have some sample outfits in there, so.
 {% endbubble %}
 
 {% bubble Kuro %}
-Yeah, using those is fine by me. Let’s get out of here — The rain’s just gettin’ worse.
+Yeah, using those is fine by me. Let’s get outta here — The rain’s just gettin’ worse.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1164,13 +1163,11 @@ You could’ve just pretended you didn’t notice it falling.
 {% img /img/es/scoutstory/comicworld/kanataorigcg.jpg %}
 
 {% bubble Kanata %}
-no, no~ a hero would never turn his eyes away.
+no, no~ a hero would never turn his [eyes] away.
 
-i am also part of ryuseitai, so i will save as much as i can.
+i am also a member of ryuseitai, so i will [save] as much as i can.
 
-it is only for selfish reasons, though. both kaoru and chiaki will surely praise me for it.
-
-and i… will be satisfied with just that.
+it is only for selfish reasons, though. both kaoru and chiaki will surely praise me for it. and i… will be [satisfied] with just that.
 {% endbubble %}
 
 <div class="msr-location">
@@ -1188,7 +1185,7 @@ Yeah, come on in. I’ll get you a towel, so dry off. You’ll catch a cold othe
 {% endbubble %}
 
 {% bubble Kanata %}
-i prefer to be drenched wet, though~♪
+i [prefer] to be drenched wet, though~♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1198,7 +1195,7 @@ Hold it! Don’t walk on the tatami mat in that state, Shinkai. In this season, 
 {% bubble Kuro %}
 Haha, the dojo’s been waterproofed for whatever reason, so it should be fine.
 
-I heard there was a time it was crumbling down, and they did some extra touch-ups during reconstruction.
+I heard there was a time it was crumblin’ down, and they did some extra touch-ups during reconstruction.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1214,21 +1211,21 @@ As for us, we can stay in school overnight if it really gets bad. As long as we 
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, i think so~ they do not really like the idea of me sleeping away from home.
+yes, i think so~ they do not really [like] the idea of me sleeping [away] from home.
 
 it is already bad enough that i have been getting scolded for doing things that are “not like me” lately…
 
-is it not like me to act this way? i do not know myself… what do you think, temple guy?
+is it not [like] me to act this way? i do not know myself… what do you think, [temple guy]?
 {% endbubble %}
 
 {% bubble Keito %}
 Don’t ask me such a difficult question. “Like oneself” and “like a human” aren’t things you can calculate. They’re vague concepts.
 
-The majority of the world—or perhaps just you yourself—will have to go through conflict after conflict until you find an answer that satisfies you.
+The majority of the world — in other words, oneself — will have to go through conflict after conflict until you find an answer that satisfies you.
 {% endbubble %}
 
 {% bubble Ritsu %}
-Did you get that idea from my brother, *Kei*-*chan*?
+Did you get that idea from my brother, *Kei-chan*?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1268,7 +1265,7 @@ You’re truly ill-natured… So you haven’t changed either. If you keep being
 {% endbubble %}
 
 {% bubble Kanata %}
-rei’s little brotheeer\~! good evening! act all buddy-buddy with me, too\~♪
+rei’s [little brotheeer]\~! good evening! act all [buddy-buddy] with me, too\~♪
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1276,11 +1273,11 @@ Ughh— I can’t deal with this person… Don’t hug me when you’re drenched
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha. I dunno what’s going on, but it’s gotten real lively here.
+Haha. I dunno what’s goin’ on, but it’s gotten real lively here.
 
-I think you guys’ll be fine together, so I’ll take li’l miss back home — try to get along in the meantime.
+I think you guys’ll be fine together, so I’ll take li’l miss back home. Try to get along in the meantime.
 
-It’s not so easy to “allow the past to flow away with the water,” but. The possibility will remain as long as you’re alive, so, well… Let’s all work hard with whatever we can.
+It’s not so easy to “allow the past to flow away with the water,” but… The possibility’ll remain as long as you’re alive, so, well… Let’s all work hard with whatever we can.
 
 Right then. Let’s go, li’l miss. Hold onto my arm so you don’t get blown away by the wind.
 {% endbubble %}
@@ -1294,19 +1291,19 @@ Hm? Why’re you starin’ at me, Shinkai? Did you wanna take her home instead?
 {% endbubble %}
 
 {% bubble Kanata %}
-mm~ i was thinking how i would like to give you a bit of assistance, as repayment for helping me save the surfboard.
+mm~ i was thinking how i would like to give you a bit of [assistance], as [repayment] for [helping] me save the surfboard.
 
-i will be borrowing this akatsuki fan for a moment.
+i will borrow this akatsuki [fan] for a moment.
 
 ♪\~♪\~♪
 {% endbubble %}
 
 {% bubble Kuro %}
-W-Why’re you dancing all of a sudden? I don’t get you at all…
+W-Why’re you dancin’ all of a sudden? I don’t get you at all…
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu\~ that is my nature\~♪
+fufufu\~ that is my [nature]\~♪
 {% endbubble %}
 
 ## The Correct Answer and The Authors 7
@@ -1352,7 +1349,7 @@ fufufu\~ that is my nature\~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-hwa—? where did this come from, temple guy?
+fwah—? where did this come from, [temple guy]?
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1374,9 +1371,9 @@ mmm~ i have never read manga before, so no.
 {% endbubble %}
 
 {% bubble Kanata %}
-huh? is that bad? when i try to read a book in general, it gets soaked for some reason, so i could not read it even if i wanted to.
+huh? is that bad? when i try to read a [book] in general, it gets [soaked] for some reason, so i could not read it even if i wanted to.
 
-after all, books are impossible to read once they are wet, yes?
+after all, [books] are [impossible] to read once they are wet, yes?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1390,11 +1387,11 @@ There’s waterproof books made for reading in the bathtub, and if you’re read
 {% bubble Kanata %}
 well, i do not want to read *that* much…
 
-hmm, it really is a strange story, though.
+hmm, it really is a [strange story], though.
 
-so there is someone out there drawing a manga based on us?
+so there is someone out there drawing a manga [based] on us?
 
-i am a little curious. if it is all right with you, please let me try reading that manga.
+i am a little curious. if it is all right with you, please let me try reading that [manga].
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1406,11 +1403,11 @@ Ugh~ It’s already hot enough, and now you’re telling me to huddle close to t
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, these kinds of things are sort of fun for me, though… waah~ this is such pretty art.
+fufu, these kinds of things are sort of [fun] for me, though… waah~ this is such pretty [art].
 
-hrm, so how do i read this? am i meant to follow the line of words? it is a little difficult…
+hm, so how do i read this? am i meant to follow the line of words? it is a little difficult…
 
-wow, so this is a manga…♪
+wow, so this is a [manga]…♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1418,7 +1415,7 @@ You… Have you been living deep in the mountains without ever conversing with a
 {% endbubble %}
 
 {% bubble Kanata %}
-no~ i live in the sea, as you already know. you are the one who lives in the mountains, yes?
+no~ i live in the [ocean], as you already know. you are the one who lives in the [mountains], yes?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1426,7 +1423,7 @@ It’s more like I’ve come down from the mountains, and now intend to live a n
 {% endbubble %}
 
 {% bubble Kanata %}
-ooh, so there is that sort of system over there. as for me, i have been a god from the moment i was born, and will be one until the day i die.
+ooh, so there is that sort of [system] over there. as for me, i have been a [god] from the moment i was born, and will be one until the day i die.
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1528,19 +1525,19 @@ But all that new stuff isn’t in this manga. I skimmed through the whole story,
 
 It’s possible that the artist drew these chapters in a short amount of time, or maybe they didn’t bother to adjust the backgrounds to the new changes…
 
-We won’t be able to know if either are true without asking them firsthand, but.
+We won’t be able to know if either are true without asking them firsthand, but…
 
 The things the characters say seem similar to recent interviews, so it’s kinda weird that it’s only the backgrounds that aren’t up-to-date.
 {% endbubble %}
 
 {% bubble Kanata %}
-ah, you are right. what chiaki said in the manga is exactly the same as what he said in an interview the other day.
+ah, you are right. what chiaki said in the [manga] is exactly the same as what he said in an [interview] the other day.
 
-the artist really is doing their research.
+the artist really is doing their [research].
 
-if that is true, then they would try to be much more precise, and make sure their story was accurate to the current reality, wouldn’t they?
+if that is true, then they would try to be much more precise, and make sure their [story] was accurate to the current reality, wouldn’t they?
 
-yet, the characters are bizarre.
+yet, the [characters] are written in a bizarre way.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1590,15 +1587,15 @@ We were able to get there easily. I think we just so happened to be at the eye o
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu\~♪ i see\~ i am glad to know it went well.
+fufufu\~♪ i see\~ i am [glad] to know it went well.
 {% endbubble %}
 
 {% bubble Kuro %}
-? What’s up? Why’re you so happy about it?
+…? What’s up? Why’re you so happy about it?
 {% endbubble %}
 
 {% bubble Kanata %}
-you see, i made a small request for the typhoon to go far away. i prayed, and offered a dance in return…♪
+you see, i made a small [request] for the [typhoon] to go far away. i [prayed], and [offered] a dance in return…♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1626,11 +1623,11 @@ I know, but he prayed for our sake. Of course I’d be happy about that, that’
 {% bubble Kanata %}
 fufu. there is no need to thank me at all…
 
-as i have said before, this is repayment for helping me save the surfboard.
+as i have said before, this is [repayment] for [helping] me save the surfboard.
 
-it is wonderful to repay kindness with kindness, and gratitude with gratitude.
+it is wonderful to repay [kindness] with [kindness], and [gratitude] with [gratitude].
 
-that is why — while we do not live in a manga — i wish for the world to work that way.
+that is why — while we do not live in a [manga] — i wish for the [world] to work that way.
 
 i will alwaaays be praying for that.
 {% endbubble %}
@@ -1656,13 +1653,13 @@ Hup— Haa—! Toryaa—!!
 {% endbubble %}
 
 {% bubble Kuro %}
-…Hey. Your staring's been botherin' me. Have you got something to do here, Shinkai?
+…Hey. Your staring’s been botherin’ me. Have you got somethin’ to do here, Shinkai?
 {% endbubble %}
 
 {% bubble Kanata %}
-no, not at all~ i am watching how you move, so i can use it as reference for action moves.
+no, not at all~ i am watching how you [move], so i can use it as [reference] for action moves.
 
-we often do acts that require fighting lately, you see.
+we often do [acts] that require fighting lately, you see.
 
 i am still not used to it, so… i have to study more.
 {% endbubble %}
@@ -1672,7 +1669,7 @@ Ahh, Ryuseitai’s always doing hero shows, yeah…
 
 So you’re trying to learn a few fighting skills for that, huh?
 
-Haha. Ain’t that great — you’re actually thinking to put in effort and learn.
+Haha, isn’t that great — you’re actually thinkin’ to put in effort and learn.
 
 Until recently, you always seemed like you had no interest in anything at all.
 {% endbubble %}
@@ -1680,9 +1677,9 @@ Until recently, you always seemed like you had no interest in anything at all.
 {% bubble Kanata %}
 yes. because i *was* disinterested~
 
-i simply watched it all float by, as if it was a story of a distant world… just like a manga.
+i simply watched it all float by, as if it was a [story] of a distant world… just like a [manga].
 
-but, doing that was wrong, and i realized how lonely it was… that is why i have been working hard lately.
+but, doing that was [wrong], and i realized how lonely it was… that is why i have been working hard lately.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1706,7 +1703,7 @@ Yo. What’s up? Did you find another interesting manga?
 {% endbubble %}
 
 {% bubble Kanata %}
-hello, temple guy~♪
+hello, [temple guy]~♪
 {% endbubble %}
 
 {% bubble Ritsu %}
@@ -1742,7 +1739,7 @@ fufu. i am sorry, was i a bother?
 {% endbubble %}
 
 {% bubble Kuro %}
-Not one bit. There aren’t many members in the Karate Club, so no one uses this place when there aren’t any activities going on.
+Nah, not one bit. There aren’t many members in the Karate Club, so no one uses this place when there aren’t any activities going on.
 
 You could make this a sleeping spot or a hang out spot — Wouldn’t bother anyone.
 {% endbubble %}
@@ -1772,9 +1769,9 @@ Ahaha, you’re pretty soft yourself, Kei-chan.
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, and yet that sort of person was able to be so cruel towards us…
+fufu, and yet that sort of person was able to be so [cruel] towards us…
 
-it is almost strange, or rather, it shows that it really was a sorrowful era, doesn’t it?
+it is almost strange, or rather, it really *was* a sorrowful [era], wasn’t it?
 
 but anyway. who was the artist? i am a little curious.
 {% endbubble %}
@@ -1822,7 +1819,7 @@ It’s an idol agency that’s been gaining power lately.
 
 This matter was probably one of their schemes to eliminate this academy, as we still have our place in the business world.
 
-This is only what I presume, but. With the manga increasing in popularity…
+This is only what I presume, but… With the manga increasing in popularity—
 
 They could then show negative depictions of Yumenosaki Academy, as if such things were the truth, all to bring bad reputation to our name, and to make us lose fans…
 
@@ -1836,7 +1833,7 @@ How wretched… I know this is common knowledge, but manga is meant to help you 
 
 Thankfully, we were able to shut this down before it caused a disaster, but I think there’s other similar tactics being used all over the place.
 
-We need to be extra careful. In order to avoid having our reality—our story—be destroyed freely.
+We need to be extra careful. In order to avoid having our reality — our story — be destroyed freely.
 {% endbubble %}
 
 {% bubble Kuro %}

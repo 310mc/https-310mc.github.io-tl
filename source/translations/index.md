@@ -28,11 +28,13 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 3. Changing nicknames/namings for consistency/preference
 4. Adjusting grammar or punctuation for clarification
 
-I do __NOT__ permit changing the original intent/script of my translations. That would simply be a mistranslation of the original text, and I don't approve of that.
-
 <p style="color:red"><b>I do not permit:</b></p>
 
-※ Profiting off of my translations in any way. I don't do my unofficial translations for profit and I would like them to stay as __non-profit__. Please keep in mind that __unofficial translations are typically illegal__ and this would cause legal repercussions on both parties.
+※ I do __NOT__ permit changing the original intent/script of my translations in any way. That would simply be a mistranslation of the original text, and I don't approve of that. __This includes using inspect tool to change the script of the translation and then taking a screenshot of it.__
+
+※ I do __NOT__ permit profiting off of my translations in any way. I don't do my unofficial translations for profit and I would like them to stay as __non-profit__. Please keep in mind that __unofficial translations are typically illegal__ and this would cause legal repercussions on both parties.
+
+__All of the above applies ONLY to translations published on the 310mc.github.io site.__ For example, if there is a translation in here that links to a different site for a certain chapter, you must follow the terms and conditions of that translator, NOT mine.
 
 If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
 </div>

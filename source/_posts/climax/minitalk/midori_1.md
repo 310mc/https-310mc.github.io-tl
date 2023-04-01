@@ -100,7 +100,7 @@ I just wanna go home and relax…
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Midori smile3 %}
-							Yes. We're going to have a farewell party at the Basketball club.
+							Yes. We're going to have a farewell party at the Basketball Club.
 
         We'll celebrate our upperclassmen's graduation and have fun with sweets and stuff.
 
@@ -109,7 +109,7 @@ I just wanna go home and relax…
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Midori sigh %}
-							Yeah… I get why we're here, 'cause we're the Basketball club and all…
+							Yeah… I get why we're here, 'cause we're the Basketball Club and all…
 
         But why do we have to play *outside?* We could've done it inside, like the gym…
 

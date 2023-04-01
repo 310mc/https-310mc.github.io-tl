@@ -308,7 +308,7 @@ permalink: senpai_turned_into_a_dog/
 {% bubble Midori %}
 <th>(…Hm? I think I hear some drumming sounds from the gym…)</th>
 
-<th>(I’m pretty sure the Basketball club has today off, though…)</th>
+<th>(I’m pretty sure the Basketball Club has today off, though…)</th>
 
 <th>(Hmm…? Am I remembering things wrong…? Maybe I should double-check when I’m done, just in case…)</th>
 
@@ -431,7 +431,7 @@ Hm? Is that you, Takamine? You’re from Ryuseitai, right? What’s wrong? Why a
 {% bubble Midori %}
 U-Um… I—Uh…
 
-<th>(W-w-w-what do I do!? The vice president is here…! I’m scared!!)</th>
+<th>(W-w-w-what do I do!? The Vice President is here…! I’m scared!!)</th>
 
 <th>(I’m pretty good about following the rules, so thankfully I don’t ever come face-to-face with him, but… He gets super angry at any first years who break the rules…)</th>
 
@@ -451,7 +451,7 @@ Huh? Uh, um, nothing…?
 
 <th>(Crap… I just stuffed doggie-senpai into my cardigan without thinking…)</th>
 
-<th>(It’s struggling around for air… The vice president is gonna get suspicious…)</th>
+<th>(It’s struggling around for air… The Vice President is gonna get suspicious…)</th>
 
 Umm, I ate way too much and gained weight! So, uh, my belly’s gotten bigger…! That’s all!
 {% endbubble %}

@@ -1210,7 +1210,7 @@ Heeeey! Chiaki-saaaan!
 
 {% endbubble %}
 {% bubble Madara %}
-Hahaha! It’s not like I wanna scare people or anything, but every time I greet someone, they get jumpy for some reason.
+Hahaha! It’s not like I wanna scare people or anything, but eeevery time I greet someone, they get jumpy for some reason.
 
 …Am I really that scary?
 
@@ -1434,7 +1434,7 @@ Who knooows? I’m no God, I don’t know what the future holds! Haha, if you ca
 **Content Warning:** Casual mentions of self-injury ahead.
 {% endnote %}
 {% note location %}
-**Location:** Marine Bio Clubroom
+**Location:** Marine Life Clubroom
 {% endnote %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch10.jpg %}
 {% note narration %}
@@ -1497,22 +1497,22 @@ Wha—!? What on earth—The clubroom has been turned into an aquarium…?
 hm…?
 
 ah, umm… i Remember you. you are the one i watched the sea turtle Video with—
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 Ah, it makes sense you do not recall who I am, as we have not encountered each other since then. My name is Kanzaki Souma, I am pleased to make your acquaintance.
-
 {% endbubble %}
+
 {% bubble Kanata past %}
 i see… um, so, souma…? do you have Business with me?
 
 oh! i know! you would like me to grant you a Wish, yes…? ♪
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 Nay, it is an entirely separate matter. I have come to visit you in order to confirm a certain fact.
 
-What a fool I am… I too am a member of the Marine Bio club, even if it is only on paper—
+What a fool I am… I too am a member of the Marine Life Club, even if it is only on paper—
 
 {% endbubble %}
 {% bubble Kanata past %}

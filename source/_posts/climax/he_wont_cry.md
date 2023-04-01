@@ -217,7 +217,7 @@ For you see, as a final parting, we’re having a match between the graduates an
 
 We’re on a basketball court, after all! Doing nothing but eating snacks and chatting would be a little too sad, right?
 
-This is the *Basketball* club’s farewell party, so let’s play basketball!
+This is the *Basketball* Club’s farewell party, so let’s play basketball!
 
 Fuhaha! You guys should also change into your uniforms and join us! Let’s have a final showdown! Come on now, let me feel your growth firsthand…☆
 {% endbubble %}

@@ -534,7 +534,7 @@ i knew you would say that, so i have prepared sliced up Sashimi as an alternativ
 {% endbubble %}
 
 {% bubble Souma worried %}
-Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter — I swear to you that my heart has always been one with the Marine Biology Club!
+Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter — I swear to you that my heart has always been one with the Marine Life Club!
 {% endbubble %}
 
 {% bubble Kanata hmph %}
