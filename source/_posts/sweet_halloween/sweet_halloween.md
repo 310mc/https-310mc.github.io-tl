@@ -7,6 +7,8 @@ categories:
 - [Enstars, Ra*bits]
 - [Enstars, MaM]
 tags:
+- Event Story
+- Akira
 - Story Index
 description: "[ES!] TBA"
 hidden: true

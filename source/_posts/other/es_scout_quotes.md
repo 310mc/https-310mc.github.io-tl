@@ -2,7 +2,7 @@
 title: "[ES!] 5* Scout Quotes"
 date: 2017-08-09 9:00:00
 categories:
-- [Enstars]
+- [Enstars, ES!]
 tags:
 description: "[ES!] Ensemble Stars (Enstars) Translation of the quotes that appear when you scout a 5* of the character."
 hidden: true

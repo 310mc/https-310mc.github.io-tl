@@ -5,6 +5,8 @@ categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 tags:
+- Event Story
+- Akira
 - Story Index
 description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
 permalink: supervillain/

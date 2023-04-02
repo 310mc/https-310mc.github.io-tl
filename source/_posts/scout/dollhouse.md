@@ -7,6 +7,7 @@ categories:
 tags:
 - Scout Story
 - Nishioka Maiko
+- Story Index
 description: "[ES!!] TBA"
 permalink: dollhouse/
 hidden: true
@@ -1245,7 +1246,7 @@ Mmm? I don’t really get how that works…?
 {% endbubble %}
 
 {% bubble Midori %}
-*Exactly*! He loves muscle building, yet he’s doing stretches on the show! And pulling a muscle during stretches makes absolutely no sense, which is just beyond perfection…!
+*Exactly!* He loves muscle building, yet he’s doing stretches on the show! And pulling a muscle during stretches makes absolutely no sense, which is just beyond perfection…!
 
 —Um, huh?
 
@@ -2143,7 +2144,7 @@ Yeah, you’re right. That’s enough darkness for one day. Let’s go somewhere
 ## Translation Notes
 [^1]: A teishoku place is essentially a restaurant that serves specific set meals. They’re very similar to bentos, and the staff cafeteria in ES has a similar system as well.
 [^2]: Trivia note: Cafe COCHI, Cafe Cinnamon, and the staff cafeteria are all in ES.
-[^3]: A reference to [Zodiac - Senpai Turned into a Dog!?](/senpai_turned_into_a_dog).
+[^3]: A reference to [Zodiac - Senpai Turned into a Dog!?](/senpai_turned_into_a_dog)
 [^4]: This is [Sylvanian Families](https://www.sylvanianfamilies.com/en-uk/).
 [^5]: This mascot's name is a wordplay between *niku* (meat) and *kuma* (bear).
 [^6]: The [nursery rhyme](https://www.youtube.com/watch?v=w14xl5NbKL0) he’s referring to.

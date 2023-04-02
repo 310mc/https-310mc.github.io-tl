@@ -11,6 +11,7 @@ categories:
 tags:
 - Scout Story
 - Akira
+- Story Index
 description: "[ES!] Arashi receives a lot of praise for her manly photoshoot. Tetora becomes inspired by the photos, and rushes to ask Arashi for advice on how to be more manly…"
 permalink: beasts/
 ---

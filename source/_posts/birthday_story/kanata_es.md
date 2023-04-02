@@ -15,7 +15,7 @@ categories:
 tags:
 - Mini Talk
 - Birthday Story
-- Happy Elements K.K
+- Happy Elements Staff
 description: "[ES!] Translation of Kanata's birthday content from Enstars! Era."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">

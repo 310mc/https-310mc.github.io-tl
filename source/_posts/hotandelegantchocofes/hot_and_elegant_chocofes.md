@@ -5,6 +5,8 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
 tags:
+- Event Story
+- Yuuki Yoshino
 - Story Index
 description: "[ES!] TBA"
 permalink: hot_and_elegant_chocofes/

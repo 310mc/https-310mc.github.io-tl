@@ -11,6 +11,7 @@ categories:
 tags:
 - Scout Story
 - Akira
+- Story Index
 description: "[ES!] Yumenosaki receives a warning akin to a terrorist threat, and during that time, Yuzuru returns to school at night to pick up something Tori forgot…"
 permalink: gang/
 ---

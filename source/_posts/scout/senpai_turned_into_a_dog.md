@@ -9,6 +9,7 @@ categories:
 tags:
 - Scout Story
 - Akira
+- Story Index
 description: "[ES!] Midori goes into a panic when he finds out that Chiaki turned into a dog! What will he do…!?"
 permalink: senpai_turned_into_a_dog/
 ---

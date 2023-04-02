@@ -4,6 +4,8 @@ date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!]
 tags:
+- Event Story
+- Akira
 - Story Index
 description: "[ES!] TBA"
 hidden: true

@@ -9,6 +9,7 @@ categories:
 tags:
 - Scout Story
 - Nishioka Maiko
+- Story Index
 description: "[ES!!] Mitsuru helps out Tsumugi with preparations…"
 permalink: soleil/
 ---

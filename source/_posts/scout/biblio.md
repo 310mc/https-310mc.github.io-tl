@@ -8,6 +8,8 @@ categories:
 - [Enstars, Hajime]
 - [Enstars, Midori]
 tags:
+- Scout Story
+- Akira
 - Story Index
 description: "[ES!] Midori and Hajime hear a loud thud and come rushing to see what had happened, only to find Tsumugi collapsed under the bookshelves in the library…"
 permalink: biblio/

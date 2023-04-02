@@ -6,6 +6,8 @@ categories:
 - [Enstars, Ryuseitai]
 - [Enstars, Trickstar]
 tags:
+- Event Story
+- Akira
 - Story Index
 description: "[ES!] TBA"
 hidden: true

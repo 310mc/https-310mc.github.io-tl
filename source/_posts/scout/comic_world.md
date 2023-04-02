@@ -10,6 +10,7 @@ categories:
 tags:
 - Scout Story
 - Akira
+- Story Index
 description: "[ES!] Keito discovers a web comic with an interesting story and a rising popularity. However, the characters appear to be based on Yumenosaki students…"
 permalink: comic_world/
 ---

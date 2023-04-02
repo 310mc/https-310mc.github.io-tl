@@ -5,6 +5,8 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
 tags:
+- Scout Story
+- Yuuki Yoshino
 - Story Index
 description: "[ES!] TBA"
 permalink: colorful_autumn/
