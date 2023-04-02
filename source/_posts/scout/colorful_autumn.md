@@ -3,7 +3,10 @@ title: "[ES!] Colorful Autumn"
 date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!]
-- [Enstars, Ryuseitai]
+- [Enstars, Midori]
+- [Enstars, Kanata]
+- [Enstars, Tetora]
+- [Enstars, Souma]
 tags:
 - Scout Story
 - Yuuki Yoshino

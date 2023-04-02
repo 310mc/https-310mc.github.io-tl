@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] TBA"
+title: "[ES!!] Dear Me, Before I Became a Ninja"
 date: 2021-11-27 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] TBA"
+description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tsukasa and Tetora. TBA…"
 permalink: dear_me_before_i_became_a_ninja/
 hidden: true
 ---
@@ -17,7 +17,9 @@ hidden: true
 ![](/img/es/idolstory/dearmeninja/c1.jpg)|![](/img/es/idolstory/dearmeninja/c2.jpg)
 :-:|:-:
 
-Kuro wants to learn more about a certain mascot from Midori… This story is connected to the card [[Carrot's Relations] Kuro Kiryu](https://ensemble-stars.fandom.com/wiki/(Carrot%27s_Relations)_Kuro_Kiryu).
+TBA…
+
+This story is connected to the card [] Shinobu Sengoku.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -45,15 +47,15 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, <a href="https://twitter.com/tsubasafl">TsubasaFL</a>
                 </div>
             </div>
             <div class="info-item three">
                 <div class="label">
                    Proofreading
                 </div>
-                <div class="value">
-                    TBA
+                <div class="value">                 
+                    <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -62,24 +64,26 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
 
 <!-- more -->
 
-{% bubble Season %}
-Summer (夏)
-{% endbubble %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
 
-{% note location %}
-**Location:** Hanging Garden
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Floating Garden</span></p>
+</div>
+
+{% img /img/es/idolstory/dearmeninja/1.jpg %}
 
 {% bubble Shinobu %}
-<th>(Shu-tatatata… I’ve arrived♪)
+<th>(Shu-tatatata… I’ve arrived♪)</th>
 
-<th>(It seems like Anzu-dono’s not here yet. There’s still some time before we have to meet, so I’ll just wait for her on the bench.)
+<th>(It seems like Anzu-dono’s not here yet. There’s still some time before we have to meet, so I’ll just wait for her on the bench.)</th>
 
-<th>(It’s my turn to get a personalized outfit at last. I’m so happy, I can’t stop grinning~)
+<th>(It’s my turn to get a personalized outfit at last. I’m so happy, I can’t stop grinning~)</th>
 
-<th>(A one and only special outfit made just for *me*… Mhm, sounds amazing!)
+<th>(A one and only special outfit made just for *me*… Mhm, sounds amazing!)</th>
 
-<th>(I’m really looking forward to seeing how it’ll turn out!)
+<th>(I’m really looking forward to seeing how it’ll turn out!)</th>
 
 Ah, it’s Anzu-dono! Heeey, Anzu-dono~☆ I’m over here~
 
@@ -189,11 +193,11 @@ Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a minute, Tetora-
 {% endbubble %}
 
 {% bubble Shinobu %}
-<th>(She sent over the finished rough sketch already… Even though we only just talked about it this very morning.)
+<th>(She sent over the finished rough sketch already… Even though we only just talked about it this very morning.)</th>
 
-<th>(It’s a splendid ninja attire design that suits me well. I feel like this is good enough, and there’s no point in me pondering anymore about it.)
+<th>(It’s a splendid ninja attire design that suits me well. I feel like this is good enough, and there’s no point in me pondering anymore about it.)</th>
 
-<th>(However, Anzu-dono sought out my opinion. I wonder if it’ll trouble her instead if I say *nothing* at all…?)
+<th>(However, Anzu-dono sought out my opinion. I wonder if it’ll trouble her instead if I say *nothing* at all…?)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -223,21 +227,21 @@ And that fortitude reminds me of the time you jumped through a ring of fire; tha
 {% bubble Shinobu %}
 Hehehe, you’re going to make me blush~. You really do pay close attention to me, don’t you? ♪
 
-<th>(It’s not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)
+<th>(It’s not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)</th>
 
-<th>(Everyday is a blessing — I want to tell that to my past self[^1], who was all alone…)
+<th>(Everyday is a blessing — I want to tell that to my past self[^1], who was all alone…)</th>
 
-<th>(I want to tell him that it’s okay to love what you love. Because people who will accept that about you are definitely out there in the world.)
+<th>(I want to tell him that it’s okay to love what you love. Because people who will accept that about you are definitely out there in the world.)</th>
 
-<th>(Because a place where you can voice that love of yours so loudly is too.)
+<th>(Because a place where you can voice that love of yours so loudly is too.)</th>
 
-<th>(I am proof of that. Because I refused to abandon my dreams, this Shinobu Sengoku is able to stand here right now.)
+<th>(I am proof of that. Because I refused to abandon my dreams, this Shinobu Sengoku is able to stand here right now.)</th>
 
-<th>(If I can convey that to the people who are like my past self by wearing this ninja attire—)
+<th>(If I can convey that to the people who are like my past self by wearing this ninja attire—)</th>
 
 …Ah, that’s it!
 
-Originally, the title was *katsute no boku e* <th>(かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
+Originally, the title was *katsute no boku e* <th>(かつての『ぼく』へ)</th>, lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
 {% endbubble %}
 
 {% bubble Translation %}
@@ -249,17 +253,17 @@ Originally, the title was *katsute no boku e* <th>(かつての『ぼく』へ),
 {% endbubble %}
 
 {% bubble Writer %}
-ゆーます <th>(Yuumasu)
+ゆーます <th>(Yuumasu)</th>
 {% endbubble %}
 
 {% bubble Requirement %}
-Unlock in [[<th>(Light Beaming from the Darkness) Shinobu Sengoku]]'s Idol Road
+Unlock in [[<th>(Light Beaming from the Darkness)</th> Shinobu Sengoku]]'s Idol Road
 {% endbubble %}
 
 {% img Shinobu Sengoku Dear me 2.png %}
 
 {% bubble Season %}
-Summer <th>(夏)
+Summer <th>(夏)</th>
 {% endbubble %}
 
 {% note location %}
@@ -287,9 +291,9 @@ Mm— I can feel a presence…!
 {% endbubble %}
 
 {% bubble Shinobu %}
-<th>(Phew, that was close. To think that someone would come here during this time of the night…)
+<th>(Phew, that was close. To think that someone would come here during this time of the night…)</th>
 
-<th>(Ah, wait! I ended up hiding myself with the Camouflage Jutsu out of habit…! Even though I have nothing to feel guilty about…!)
+<th>(Ah, wait! I ended up hiding myself with the Camouflage Jutsu out of habit…! Even though I have nothing to feel guilty about…!)</th>
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -297,13 +301,13 @@ Good lord. Neglecting to return a book is so ill-mannered. And it just *had* to 
 {% endbubble %}
 
 {% bubble Shinobu %}
-<th>(This voice sounds like Suou-kun. Hmm, I see — it seems like he’s here to return a book.)
+<th>(This voice sounds like Suou-kun. Hmm, I see — it seems like he’s here to return a book.)</th>
 
-<th>(I feel awkward staying hidden, but this doesn’t seem to be the right mood for a conversation, so I’ll stay still and wait until he leaves.)
+<th>(I feel awkward staying hidden, but this doesn’t seem to be the right mood for a conversation, so I’ll stay still and wait until he leaves.)</th>
 
-<th>(…Wahhh!? Oh no, I left my box on the floor! If he discovers it, he’ll immediately find it suspicious. I must quickly retrieve it—)
+<th>(…Wahhh!? Oh no, I left my box on the floor! If he discovers it, he’ll immediately find it suspicious. I must quickly retrieve it—)</th>
 
-<th>(Slowly reach out your hand… Little by little…)
+<th>(Slowly reach out your hand… Little by little…)</th>
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -386,7 +390,7 @@ Anzu-dono, I apologize for asking you to come here so suddenly. But I have somet
 Since you’re making my personalized outfit for me, I want you to accept this!
 {% endbubble %}
 
-{% img <th>(Light Beaming from the Darkness) Shinobu Sengoku CG.png %}
+{% img <th>(Light Beaming from the Darkness)</th> Shinobu Sengoku CG.png %}
 
 {% bubble Shinobu %}
 This plastic shuriken clearly looks like a toy and has scratches all over, but it’s also the *very* first item I bought with my own pocket money— it’s my dearest treasure.
@@ -405,9 +409,6 @@ So everyone can see how I daringly chase after my own dreams—!
 
 Thank you for always watching over me. Because you and my comrades are here for me, I am able to truly live my life…♪
 {% endbubble %}
-
-https://twitter.com/tsubasafl TsubasaFL
-https://twitter.com/yoroshikilled Peace
 
 ## Translation Notes
 [^1]: He refers to his past self with *boku* instead of *sessha*, the first-person pronoun Shinobu usually uses. *boku* is a common first-person pronoun for boys, but *sessha* is a first-person pronoun specifically known to be used by ninjas.

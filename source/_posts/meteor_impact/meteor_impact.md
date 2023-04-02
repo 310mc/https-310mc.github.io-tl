@@ -5,6 +5,9 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
 - [Enstars, Akatsuki]
+- [Enstars, MaM]
+- [Enstars, Basketball Club]
+- [Enstars, Marine Life Club]
 tags:
 - Event Story
 - Akira

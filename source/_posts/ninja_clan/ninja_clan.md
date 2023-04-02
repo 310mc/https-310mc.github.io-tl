@@ -4,6 +4,7 @@ date: 2021-12-08 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
+- [Enstars, Ninja Association]
 tags:
 - Event Story
 - Nishioka Maiko

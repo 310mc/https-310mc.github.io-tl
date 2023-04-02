@@ -18,7 +18,7 @@ permalink: making_100_friends_project/
 
 Midori has to mention who his friends are in a survey, but he doesn't know who to write down…
 
-This story is connected to the card [[Bonds That Can Be Called Friendship] Midori Takamine](https://ensemble-stars.fandom.com/wiki/(Bonds_That_Can_Be_Called_Friendship)_Midori_Takamine).
+This story is connected to the card [Bonds That Can Be Called Friendship] Midori Takamine.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

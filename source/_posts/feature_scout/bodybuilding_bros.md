@@ -15,7 +15,9 @@ permalink: bodybuilding_bros/
 ![](https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Muscle_Talk%29_Tetora_Nagumo_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Muscle_Talk%29_Tetora_Nagumo_M_Bloomed.png)
 :-:|:-:
 
-Tetora finally gets to talk to Jun about workouts. This story is connected to the card [[Muscle Talk] Tetora Nagumo](https://ensemble-stars.fandom.com/wiki/(Muscle_Talk)_Tetora_Nagumo).
+Tetora finally gets to talk to Jun about workouts.
+
+This story is connected to the card [Muscle Talk] Tetora Nagumo.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

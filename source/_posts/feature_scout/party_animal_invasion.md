@@ -18,7 +18,7 @@ permalink: party_animal_invasion/
 
 Midori wants to try out the new parfait, but he has to interact with people first…
 
-This story is connected to the card [[Parfait of Pure Bliss] Midori Takamine](https://ensemble-stars.fandom.com/wiki/(Parfait_of_Pure_Bliss)_Midori_Takamine).
+This story is connected to the card [Parfait of Pure Bliss] Midori Takamine.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

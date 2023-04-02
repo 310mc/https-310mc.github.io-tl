@@ -21,7 +21,7 @@ permalink: the_essence_of_a_butler/
 
 Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…
 
-This story is connected to the card [[Devoted Valet] Yuzuru Fushimi](https://ensemble-stars.fandom.com/wiki/(Devoted_Valet)_Yuzuru_Fushimi).
+This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

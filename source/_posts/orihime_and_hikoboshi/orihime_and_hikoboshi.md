@@ -5,6 +5,7 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
 - [Enstars, Trickstar]
+- [Enstars, Basketball Club]
 tags:
 - Event Story
 - Akira

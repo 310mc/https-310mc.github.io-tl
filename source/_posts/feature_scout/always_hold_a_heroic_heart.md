@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] TBA"
+title: "[ES!!] Always Hold a Heroic Heart"
 date: 2021-11-27 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -8,7 +8,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] TBA"
+description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Kanata. TBA…"
 permalink: always_hold_a_heroic_heart/
 hidden: true
 ---
@@ -16,7 +16,9 @@ hidden: true
 ![](/img/es/idolstory/heroicheart/c1.jpg)|![](/img/es/idolstory/heroicheart/c2.jpg)
 :-:|:-:
 
-Kuro wants to learn more about a certain mascot from Midori… This story is connected to the card [[Carrot's Relations] Kuro Kiryu](https://ensemble-stars.fandom.com/wiki/(Carrot%27s_Relations)_Kuro_Kiryu).
+TBA…
+
+This story is connected to the card [What A Hero Is] Chiaki Morisawa.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -43,7 +45,7 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, , <a href="https://twitter.com/tsubasafl">TsubasaFL</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -51,7 +53,7 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="/about">310mc</a>, , <a href="https://twitter.com/tsubasafl">TsubasaFL</a>
                 </div>
             </div>
         </div>
@@ -60,13 +62,15 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
 
 <!-- more -->
 
-{% bubble Season %}
-Summer (夏)
-{% endbubble %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
 
-{% note location %}
-**Location:** Shopping District
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Shopping District</span></p>
+</div>
+
+{% img /img/es/idolstory/heroicheart/1.jpg %}
 
 {% bubble Chiaki %}
 Fuhahahaha! ☆ It really feels nice to have a morning walk!
@@ -104,9 +108,9 @@ I prepared a lot of coins for this moment. I should be able to get the hero with
 I’ll make sure to come out victorious! Time for my first attempt! Oooooh…!!
 {% endbubble %}
 
-{% bubble Heading %}
-— Five minutes later —
-{% endbubble %}
+<div class="msr-narration">
+    <p>Five minutes later…</p>
+</div>
 
 {% bubble Chiaki %}
 …Guh! I can’t believe I didn’t get a single hero after all those attempts…! Is this the villain’s doing!?
@@ -128,11 +132,11 @@ After all, they can’t use as much money as an adult on these machines. I’m g
 Anyhow, that was my task for today. As promised, I’ll now accompany you however you like!
 {% endbubble %}
 
-{% note location %}
-**Location:** Beach
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Beach</span></p>
+</div>
 
-{% img Chiaki Morisawa Always Hold a Heroic Heart Scene Change.png %}
+{% img /img/es/idolstory/heroicheart/2.jpg %}
 
 {% bubble Chiaki %}
 It’s a bit warmer here. We should be able to avoid catching a cold with this temperature.
@@ -145,7 +149,7 @@ I’ll make a secret base over here. You’re free to *puka puka* as much as you
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh no, it’s going to be for these villain toy figures. I used to make secret bases in the park’s sandbox when I was young.
+Oh no, it’s going to be for these villain toy figurines. I used to make secret bases in the park’s sandbox when I was young.
 
 But back then I’d make them for heroes, not villains. Anyway, it’s alright to play around like a kid every once in a while, don’t you think?
 {% endbubble %}
@@ -180,16 +184,16 @@ We can’t let this slide. Let’s go, Kanata!
 okay~♪
 {% endbubble %}
 
-{% bubble Heading %}
-— Time passes —
-{% endbubble %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Chiaki %}
 Fuhaha! I see you’re all full of energy and enjoying yourselves!
 
 …That’s right — I’m Morisawa Chiaki from Ryuseitai, and this here is Shinkai Kanata! I’m so happy to hear you know who we are!
 
-You see, we also love playing hero pretend. Could you let us join you? Oh yes, I don’t mind playing as the villain—☆
+You see, we also love playing hero pretend. Could you let us join you? Oh yes, I don’t mind playing as the villain! ☆
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -200,7 +204,7 @@ then i’ll play the [hero].
 take this, [ryuseitai beam]! pew pew pew!
 {% endbubble %}
 
-{% img (What a Hero is) Chiaki Morisawa CG.png %}
+{% img /img/es/idolstory/heroicheart/cg.jpg %}
 
 {% bubble Chiaki %}
 Bwahahaha! You barely even scratched me! What could you *ever* do on your own!?
@@ -217,7 +221,7 @@ GAAAAAAAAAH!? N-No, how could this be—! <em><th>(collapses)</th></em>
 {% endbubble %}
 
 {% bubble Kanata %}
-we did it. we achieved this [result] because we cooperated together, peace—☆
+we did it. we achieved this [result] because we cooperated together, peace\~☆
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -243,8 +247,6 @@ ufufu. with this, we were able to protect the [peace], right, chiaki?
 {% bubble Chiaki %}
 Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! ☆
 {% endbubble %}
-
-https://twitter.com/tsubasafl TsubasaFL
 
 ## Translation Notes
 [^1]: Chiaki’s name is 千 (thousand) 秋 (autumn).

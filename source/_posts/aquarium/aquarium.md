@@ -3,6 +3,8 @@ title: "[ES!] Aquarium"
 date: 2021-10-29 9:10:00
 categories:
 - [Enstars, ES!]
+- [Enstars, MaM]
+- [Enstars, Marine Life Club]
 tags:
 - Event Story
 - Akira

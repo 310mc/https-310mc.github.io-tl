@@ -4,6 +4,7 @@ date: 2019-2-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
+- [Enstars, Valkyrie]
 tags:
 - Event Story
 - Yuuki Yoshino

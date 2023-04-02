@@ -6,6 +6,7 @@ categories:
 - [Enstars, Midori]
 - [Enstars, Keito]
 - [Enstars, Subaru]
+- [Enstars, Basketball Club]
 tags:
 - Scout Story
 - Akira

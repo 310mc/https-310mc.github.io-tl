@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] TBA"
+title: "[ES!!] Something Dubious in the Library"
 date: 2021-11-27 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] TBA"
+description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hajime and Tsumugi. TBA…"
 permalink: something_dubious_in_the_library/
 hidden: true
 ---
@@ -17,7 +17,9 @@ hidden: true
 ![](/img/es/idolstory/somethinglibrary/c1.jpg)|![](/img/es/idolstory/somethinglibrary/c2.jpg)
 :-:|:-:
 
-Kuro wants to learn more about a certain mascot from Midori… This story is connected to the card [[Carrot's Relations] Kuro Kiryu](https://ensemble-stars.fandom.com/wiki/(Carrot%27s_Relations)_Kuro_Kiryu).
+TBA…
+
+This story is connected to the card [Untitled Book] Chiaki Morisawa.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -53,7 +55,7 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
                    Proofreading
                 </div>
                 <div class="value">
-                    haranami
+                    <a href="https://twitter.com/haranami_">haranami</a>
                 </div>
             </div>
         </div>
@@ -62,13 +64,15 @@ Kuro wants to learn more about a certain mascot from Midori… This story is con
 
 <!-- more -->
 
-{% bubble Season %}
-Summer (夏)
-{% endbubble %}
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
 
-{% note location %}
-**Location:** Dormitory Library
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dormitory Library</span></p>
+</div>
+
+{% img /img/es/idolstory/somethinglibrary/1.jpg %}
 
 {% bubble Chiaki %}
 Ohh, Shino-kun! Hello there!
@@ -285,4 +289,4 @@ Thank you. I’ll tell Morisawa-senpai about it later.
 {% endbubble %}
 
 ## Translation Notes
-[^1]: Originally, he says ES *biru* (building) will become ES *debiru* (devil). Thank you [https://twitter.com/haranami_ haranami] for the localization!
+[^1]: Originally, he says ES *biru* (building) will become ES *debiru* (devil). Thank you [haranami](https://twitter.com/haranami_) for the localization!

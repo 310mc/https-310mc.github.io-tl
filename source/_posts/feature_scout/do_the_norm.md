@@ -6,6 +6,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Aira]
 - [Enstars, ES!!]
+- [Enstars, Basketball Club]
 tags:
 - Idol Story
 - Yuumasu
@@ -17,7 +18,7 @@ permalink: do_the_norm/
 
 Aira goes to school for once and makes an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story.
 
-This story is connected to the card [[Basketball Connections] Aira Shiratori](https://ensemble-stars.fandom.com/wiki/(Basketball_Connections)_Aira_Shiratori).
+This story is connected to the card [Basketball Connections] Aira Shiratori.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

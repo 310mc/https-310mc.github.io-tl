@@ -19,7 +19,7 @@ permalink: me_the_sea_and_everyone_with_me/
 
 Kaoru finds seashells and sequins on the floor, and follows its trail to see where it leads him…
 
-This story is connected to the card [[Intertwined Sea] Kanata Shinkai](https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai).
+This story is connected to the card [Intertwined Sea] Kanata Shinkai.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
