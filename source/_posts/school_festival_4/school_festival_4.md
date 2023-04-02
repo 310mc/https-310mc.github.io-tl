@@ -267,16 +267,16 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="/prologue" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="/first_half" id="none">Chapter 1–6</a>
+                            <a href="first_half" id="none">Chapter 1–6</a>
                         </li>
                         <li>
-                            <a href="/second_half" id="none">Chapter 7–11</a>
+                            <a href="second_half" id="none">Chapter 7–11</a>
                         </li>
                         <li>
-                            <a href="/epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
