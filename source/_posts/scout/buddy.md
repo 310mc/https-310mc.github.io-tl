@@ -8,7 +8,8 @@ categories:
 - [Enstars, Shinobu]
 - [Enstars, Madara]
 tags:
-- Story Index
+- Scout Story
+- Yuuki Yuushino
 description: "[ES!] The transfer student is looking for an idol who can do a promotional video for motorbikes. As it will be hero-themed, she heads over to speak to the person that comes to mind for heroes…"
 permalink: buddy/
 ---
