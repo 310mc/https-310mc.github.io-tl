@@ -380,7 +380,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/idolstory/banner/selfishnoble.jpg"
+                src="/img/es/idolstory/selfishnoble/c1.jpg"
                 alt="Selfish Noble"
             />
         </div>
@@ -544,7 +544,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/partyanimalinvasion.jpg"
+            src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
         />
     </div>

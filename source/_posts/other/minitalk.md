@@ -128,7 +128,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/b4/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless.png"
+                src="/img/es/eventstory/shootingstarfestival/chiakiframe_300px.jpg"
                 alt="A Joint Live!"
             />
         </div>
@@ -140,7 +140,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c7/%28Smiles_and_Fireworks%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/shootingstarfestival/chiakibcgframe_300px.jpg"
                 alt="The Festival's Hero"
             />
         </div>
@@ -183,7 +183,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/6/60/%28Meteor_for_My_True_Feelings%29_Midori_Takamine_Frameless.png"
+                src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
                 alt="Worrisome Days"
             />
         </div>
@@ -195,7 +195,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/54/%28Meteor_for_My_True_Feelings%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
                 alt="Topics About That Guy"
             />
         </div>
