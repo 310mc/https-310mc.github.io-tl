@@ -25,7 +25,7 @@ Mini Talk translations by 310mc.
 <div class="story">
     <div class="image">
         <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/a/ac/%28Assuming_the_Spirit%29_Tetora_Nagumo_Frameless.png"
+            src="/img/es/eventstory/climax/tetoraframe_300px.jpg"
             alt="As The Future Commander"
         />
     </div>
@@ -37,7 +37,7 @@ Mini Talk translations by 310mc.
 <div class="story">
     <div class="image">
         <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/5/56/%28Assuming_the_Spirit%29_Tetora_Nagumo_Frameless_Bloomed.png"
+            src="/img/es/eventstory/climax/tetorabcgframe_300px.jpg"
             alt="Fruits Of One's Efforts"
         />
     </div>
@@ -49,7 +49,7 @@ Mini Talk translations by 310mc.
 <div class="story">
     <div class="image">
         <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/1/13/%28Embracing_the_Hope%29_Shinobu_Sengoku_Frameless.png"
+            src="/img/es/eventstory/climax/shinobuframe_300px.jpg"
             alt="Endurance Of A Shy Person"
         />
     </div>
@@ -61,7 +61,7 @@ Mini Talk translations by 310mc.
 <div class="story">
     <div class="image">
         <img
-            src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e8/%28Embracing_the_Hope%29_Shinobu_Sengoku_Frameless_Bloomed.png"
+            src="/img/es/eventstory/climax/shinobubcgframe_300px.jpg"
             alt="Guiding Them To Hope"
         />
     </div>
@@ -73,7 +73,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/1/15/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless.png"
+                src="/img/es/eventstory/climax/chiakiframe_300px.jpg"
                 alt="Tough Being a Parent"
             />
         </div>
@@ -85,7 +85,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/%28Entrusting_the_Passion%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
                 alt="Justice Will Prevail"
             />
         </div>
@@ -97,7 +97,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/52/%28Believing_the_Potential%29_Midori_Takamine_Frameless.png"
+                src="/img/es/eventstory/climax/midoriframe_300px.jpg"
                 alt="Novice Hero"
             />
         </div>
@@ -109,7 +109,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f8/%28Believing_the_Potential%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
                 alt="Path To Compassion"
             />
         </div>
@@ -152,7 +152,7 @@ Mini Talk translations by 310mc.
     <!--<div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
                 alt="Sweet Halloween: "
             />
         </div>
@@ -164,7 +164,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9d/%28Horror_Jiangshi%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
                 alt="Sweet Halloween: "
             />
         </div>
@@ -214,7 +214,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/3/3c/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless.png"
+                src="/img/es/eventstory/submarine/chiakiframe_300px.jpg"
                 alt="Okinawa Red!"
             />
         </div>
@@ -226,7 +226,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/2/26/%28Submarine_and_Distance%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg"
                 alt="Troubled Hero"
             />
         </div>
@@ -240,7 +240,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/ring/midoriframe_300px.jpg"
                 alt="Ring: Conveying My Feelings"
             />
         </div>
@@ -252,7 +252,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c2/%28Hopeful_Bouquet%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
                 alt="Ring: Before the Nerve-wrecking Photoshoot"
             />
         </div>
@@ -271,7 +271,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/b2/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless.png"
+                src="/img/es/eventstory/ninjaclan/midoriframe_300px.jpg"
                 alt="Relaxing Gameplay"
             />
         </div>
@@ -283,7 +283,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fe/%28Ninpou%2C_Yuru-style%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
                 alt="Eeeggy-eggy-eggyplant"
             />
         </div>
@@ -295,7 +295,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/3/39/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless.png"
+                src="/img/es/eventstory/ninjaclan/tetoraframe_300px.jpg"
                 alt="Thrilling Gameplay"
             />
         </div>
@@ -307,7 +307,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/9/9e/%28Ninpou%2C_Hardworking-ism%29_Tetora_Nagumo_Frameless_Bloomed.png"
+                src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
                 alt="I Don't Get It"
             />
         </div>
@@ -319,7 +319,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/5/59/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless.png"
+                src="/img/es/eventstory/ninjaclan/chiakiframe_300px.jpg"
                 alt="An Invasion from a Formidable Enemy"
             />
         </div>
@@ -331,7 +331,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Hero_Ninpou%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
                 alt="Sightseeing the Historical Village"
             />
         </div>
@@ -350,7 +350,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/0/01/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless.png"
+                src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg"
                 alt="The Planning Of That Show"
             />
         </div>
@@ -362,7 +362,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/fb/%28Unlimited_Power_Struggle%29_Tetora_Nagumo_Frameless_Bloomed.png"
+                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
                 alt="Unaligned Feelings"
             />
         </div>
@@ -374,7 +374,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/8/82/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless.png"
+                src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg"
                 alt="What An Evil Ninja Is"
             />
         </div>
@@ -386,7 +386,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Unlimited_Effort%29_Shinobu_Sengoku_Frameless_Bloomed.png"
+                src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg"
                 alt="Preparing For The Mission"
             />
         </div>
@@ -398,7 +398,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/e/e2/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless.png"
+                src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg"
                 alt="Hungry Hero"
             />
         </div>
@@ -410,7 +410,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/4/41/%28Unlimited_United_Front%29_Chiaki_Morisawa_Frameless_Bloomed.png"
+                src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg"
                 alt="The Path of a Hero Turning Evil"
             />
         </div>
@@ -422,7 +422,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless.png"
+                src="/img/es/eventstory/supervillain/midoriframe_300px.jpg"
                 alt="Recommendations"
             />
         </div>
@@ -434,7 +434,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/c/c8/%28Unlimited_Toying_Around%29_Midori_Takamine_Frameless_Bloomed.png"
+                src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg"
                 alt="Work, work, work"
             />
         </div>
@@ -446,7 +446,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/0/0b/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless.png"
+                src="/img/es/eventstory/supervillain/kanataframe_300px.jpg"
                 alt="planning a trip"
             />
         </div>
@@ -458,7 +458,7 @@ Mini Talk translations by 310mc.
     <div class="story">
         <div class="image">
             <img
-                src="https://static.wikia.nocookie.net/ensemble-stars/images/b/bc/%28Unlimited_Reminiscence%29_Kanata_Shinkai_Frameless_Bloomed.png"
+                src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg"
                 alt="sea crook"
             />
         </div>
