@@ -118,9 +118,9 @@ My bad! I’ll make sure to do things after I’ve talked to you guys about it, 
 {% endbubble %}
 
 {% bubble Kanata %}
-*Puka, puka*…♪ What is important is the present, not the past. Chiaki has learnt his lesson, so let it flow away with the water~
+*puka, puka*…♪ what is important is the present, not the past. chiaki has learned his lesson, so let it flow away with the water~
 
-Chiaki, I would like fish for the truck. Sashimiii…♪
+chiaki, i would like fish for the truck. sashimiii…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -128,7 +128,7 @@ Sashimi, huh… Hmm, raw food is probably a no for food safety reasons. Though I
 {% endbubble %}
 
 {% bubble Tetora %}
-Taichou, Taichou! If raw food’s out, then we could just grill all of it! Leave the grilling to me!!
+Taichou, Taichou! If raw food’s out, then we could just grill all'a it! Leave the grilling to me!!
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -140,9 +140,9 @@ You’re exaggerating~ Right, guys?
 {% endbubble %}
 
 {% bubble Shinobu %}
-Weeell… After seeing Taichou-dono like that, it is kind of……
+Weeell… After seeing Taichou-dono like that, it’s a little hard to comment……
 
-Errmm, Taichou-dono. Our options will go down if we take grilling off the list.
+Ermm, Taichou-dono. Our options will go down if we take grilling off the list.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -154,7 +154,7 @@ I-I have not done it much, but I shall do my best!
 {% endbubble %}
 
 {% bubble Kanata %}
-I am very good at preparing fish~♪
+i am very good at preparing fish~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -172,7 +172,7 @@ Don’t give up, Takamine! We just need it to be food we *can* make, right? Righ
 {% endbubble %}
 
 {% bubble Tetora %}
-Hmm, how about cotton candy? We wouldn’t need to use fire, and we can make it without knowing how to cook, right?
+Hmm, how 'bout cotton candy? We wouldn’t need to use fire, and we can make it without knowing how to cook, right?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -180,7 +180,7 @@ Oh, cotton candy!? That’s a great idea! Alright, let’s do that! ☆
 {% endbubble %}
 
 {% bubble Tetora %}
-Hehe, it’s a staple to do cotton candy for a stall~ Ah, but we’re doing a food truck instead, so maybe we should’ve gone for something more fancy?
+Heheh, it’s a staple to do cotton candy for a stall~ Ah, but we’re doing a food truck instead, so maybe we should’ve gone for somethin’ more fancy?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -202,7 +202,7 @@ Ahh, I would be glad to have that~ I am in complete agreement. ♪
 {% endbubble %}
 
 {% bubble Kanata %}
-I am also fine with it~ Make sure to have mineral water in the menu…♪
+i am also fine with it~ make sure to have mineral water in the menu…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -212,7 +212,7 @@ Alright, then we’ll do cotton candy and juice. Heheh, I’m feeling more excit
 {% bubble Tetora %}
 Um, Taichou? Do you have a sec?
 
-Taishou asked me about something… If we have time for it, could we also do some patrolling around school?
+Taishou asked me 'bout something… If we have time for it, could we also do some patrolling around school?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -272,7 +272,7 @@ Oh, that’s a great idea! You’re a good boy for doing your tokusatsu research
 {% endbubble %}
 
 {% bubble Shinobu %}
-Wawa— Please do not pat my head~!
+Wawa— Please don’t pat my head~!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -280,7 +280,7 @@ It’ll make us stand out either way… Nothing’s changed…
 {% endbubble %}
 
 {% bubble Tetora %}
-A skit… Then how about we do a hero show after?
+A skit… Then how 'bout we do a hero show after?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -292,7 +292,7 @@ Ughh, no thanks. And don’t hug me, either.
 {% endbubble %}
 
 {% bubble Kanata %}
-But a hero show would require setting up a stage, wouldn’t it?
+but a hero show would require setting up a stage, wouldn’t it?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -314,7 +314,7 @@ We’re idols, not heroes… Wait no, being an idol is annoying too… Ughhh, ev
 {% endbubble %}
 
 {% bubble Shinobu %}
-You cannot die! Good things will happen to you if you live on. For me, meeting everyone is one of those good things~♪
+You can’t die! Good things will happen to you if you live on. For me, meeting everyone is one of those good things~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -338,7 +338,7 @@ Why would you want to be a delinquent…!?
 {% endbubble %}
 
 {% bubble Tetora %}
-No no, there’s no real reason to it, it’s just… I thought it’d be kinda fun.
+Nah, there’s no real reason to it, it’s just… I thought it’d be kinda fun.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -346,7 +346,7 @@ O-oh… Well, I’m glad to know you’re interested…
 {% endbubble %}
 
 {% bubble Tetora %}
-And anyway, it’s not like I suddenly lost sight of my whole “man among men” dream~
+And anyway, it’s not like I suddenly lost sight of my “man among men” dream~
 {% endbubble %}
 
 ## Chapter 3
@@ -366,11 +366,11 @@ Same…
 {% endbubble %}
 
 {% bubble Kanata %}
-Hmm… So no one wants to do it… How about I take it?
+hmm… so no one wants to do it… how about i take it?
 
-Yaaay! Delinquent-san is here~♪ Would you like to eat fish?
+yaaay! mr. delinquent is here~♪ would you like to eat fish?
 
-Irritation comes from calcium deficiency, you see. You should eat lots of fish~♪
+irritation comes from calcium deficiency, you see. you should eat lots of fish~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -438,7 +438,7 @@ Uhh, the fountain isn’t his domain or anything, so I don't think his approval 
 {% endbubble %}
 
 {% bubble Tetora %}
-I know, but… He’s always bathing in it, so I thought I should get his permission, first.
+I know, but… He’s always bathing in it, so I thought I should get his permission first.
 
 Why *does* he do that, anyway? The first time I saw him doing it, I thought he was someone suspicious. I was this close to reporting him to someone.
 {% endbubble %}
@@ -462,7 +462,7 @@ Ossu, I did! I asked her if she wanted to join us when I saw her on my way here,
 
 So we may end up doing it together if she finishes her work in time!
 
-Hehe! I’m so grateful that you’re also joining practice, Midori-kun~♪
+Heheh! I’m so grateful that you’re also joining practice, Midori-kun~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -476,11 +476,11 @@ I’m sooooo depressed… I wanna dieeeeeeee…
 {% bubble Tetora %}
 You’re getting depressed either way…
 
-You won in rock paper scissors, that’s why. Can’t do anything about that.
+You won in rock paper scissors, that’s why. Can’t do anything 'bout that.
 
 Taichou totally looked like he wanted to do it, but he still said, “I lost, so of course I’d give the role to you!”
 
-He didn’t back down from his words, even when you told him you didn’t want it… Kept saying it’s the winner’s right to have the role… It’s kinda surprising that he’d be stubborn about these things.
+He didn’t back down from his words, even when you told him you didn’t want it… Kept saying it’s the winner’s right to have the role… It’s kinda surprising that he’d be stubborn 'bout these things.
 
 Hm, since you and Shinkai-senpai got the role… Maybe I should’ve asked him to join practice, too.
 {% endbubble %}
@@ -534,7 +534,7 @@ And they all lived happily ever after~♪
 
 …Wait! No, no! What’s the point of a hero show when there’s no hero!?
 
-You too, transfer student-san! You gotta start doing the scene where you shake me off, y’know!?
+You too, transfer student-san! You gotta start doin’ the scene where you shake me off, y’know!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -550,7 +550,7 @@ Whaaa—!?? W-Why’re you grabbing my hand!? Please stop! I dunno how to deal w
 
 Huh? Ahh, this is supposed to be a forceful scene where I grab your arm, but since I didn’t do that, you did it yourself…?
 
-Uuu… I’m so pathetic. I know I gotta be shameless for this, but I can’t do it! I’m too embarrassed~!
+Uuu… I’m so pathetic. I know I gotta be shameless with this, but I can’t do it! I’m too embarrassed~!
 
 Maybe I gotta forget the part where you’re a girl… But, but… you *are* one, so…
 
@@ -602,11 +602,11 @@ Yo, Tetsu. Nice seein’ you here too, li’l miss.
 {% endbubble %}
 
 {% bubble Tetora %}
-Ah! Taishou\~! You came at the right moment! There’s something I wanna ask you\~!
+Ah! Taishou\~! You came at the right moment! There’s somethin’ I wanna ask you\~!
 {% endbubble %}
 
 {% bubble Kuro %}
-Oh? That came out of nowhere… But sure, why not. I wanna pay back the favor, so ask me anything.
+Oh? That came outta nowhere… But sure, why not. I wanna pay back the favor, so ask me anything.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -640,13 +640,13 @@ Um, Taishou! What do I gotta do to become a cool delinquent!?
 {% endbubble %}
 
 {% bubble Kuro %}
-A cool delinquent…? I don’t get it, but… I really can’t advise you on anything about acting.
+A cool delinquent…? I don’t get it, but… I really can’t advise you on anything 'bout acting.
 
 My bad… I said you could ask me anything, but I still failed to help you out.
 {% endbubble %}
 
 {% bubble Tetora %}
-There’s never a time you’ve done that! And anyway, I should be learning the ways of a cool delinquent, not asking, right?
+There’s never a time you’ve done that! And anyway, I should be *learning* the ways of a cool delinquent, not asking, right?
 
 I’ll work really hard, and learn as much as I can to become a cool delinquent! So, Taishou! Please look forward to seeing it…! ☆
 {% endbubble %}
@@ -664,7 +664,7 @@ Are you serious!? Who’re you gonna be…!?
 {% bubble Kuro %}
 The Second Prince…? Was there even someone like that in Cinderella…?
 
-Oh, right, you did mention there’d be added roles… You must’ve been talking about this one.
+Oh, right, you did mention there’d be added roles… You must’ve been talking 'bout this one.
 
 But me, as a prince…? You’re not messin’ around with me, right?
 {% endbubble %}
@@ -704,7 +704,7 @@ Yep! This is the school festival we’ve all been waiting for, so I woke up as e
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh? You two here are here already, huh? Oh well, good morning! ☆
+Oh? You two’re here already, huh? Oh well, good morning! ☆
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -724,11 +724,11 @@ K-Kanata!? You always arrive on the last minute, and sometimes you’re complete
 {% endbubble %}
 
 {% bubble Kanata %}
-Huh? Was I? Hmm~ I thought I would not make it on time, so I hurried over here…
+huh? was i? hmm~ i thought i would not make it on time, so i hurried over here…
 {% endbubble %}
 
 {% bubble Chiaki %}
-That’s not a problem at all! Anyhow, we’re all here now, so let’s head over to the food truck.
+That isn’t a problem at all! Anyhow, we’re all here now, so let’s head over to the food truck.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -780,7 +780,7 @@ Wait, wait! Don’t go off on your own until breaktime, please!
 {% endbubble %}
 
 {% bubble Tetora %}
-Midori-kuuun? You’ve been quiet this whole time. It’s pretty scary when you’re quiet and not doing your usual “I’m so depressed, I wanna die” thing, y’know?
+Midori-kun~? You’ve been quiet this whole time. It’s pretty scary when you’re quiet and not doing your usual “I’m so depressed, I wanna die” thing, y’know?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -790,7 +790,7 @@ Ahh dammit, I wish this school festival didn’t even *exist*…!!
 {% endbubble %}
 
 {% bubble Shinobu %}
-Midori-kun, Midori-kun! We are getting customers soon enough, so you cannot show that kind of face, okay~?
+Midori-kun, Midori-kun! We’re getting customers soon enough, so you can’t show that kind of face, okay~?
 
 Everyone would just run away!
 {% endbubble %}
@@ -818,7 +818,7 @@ Shinkai-senpai, I’ll make the cotton candy, so… You should prepare the orang
 {% endbubble %}
 
 {% bubble Kanata %}
-Here you go~ Nice, cold water~♪
+here you go~ nice, cold water~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -826,9 +826,9 @@ You’re confusing the customer… Let’s change spots, Shinkai-senpai…
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehehe, white cotton candy is pretty, isn’t it\~? But I like blue the most. It is the color of the ocean, you see\~♪
+fufufu, white cotton candy is pretty, isn’t it\~? but i like blue the most. it is the color of the ocean, you see\~♪
 
-Here you go\~ A bright blue cotton candy, just like the ocean\~♪
+here you go\~ a bright blue cotton candy, just like the ocean\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -842,7 +842,7 @@ Huh? This cotton candy is prettier…? Uh… Well, if you say so… Umm, thank y
 {% endbubble %}
 
 {% bubble Kanata %}
-Midori~ I see you are sighing. Please take a look at this child, and cheer up.
+midori~ i see you are sighing. please take a look at this child, and cheer up.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -852,7 +852,7 @@ It looks so cute and strangely mascot character-like…♪
 {% endbubble %}
 
 {% bubble Kanata %}
-It is a plush toy of a scotoplanes~ I could give it to you if you like it.
+it is a stuffed toy of a scotoplanes~ i could give it to you if you like it.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -860,7 +860,7 @@ A-Are you sure…? It’s so cute — Isn’t it precious to you?
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe. You say that, but you are hugging it tightly, you know~…♪
+ufufu. you say that, but you are hugging it tightly, you know~…♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -890,11 +890,11 @@ And that customer wants cotton candy and grape juice… Huh? Apple juice, too…
 {% bubble Shinobu %}
 Garden Terrace, all clear. I shall proceed onwards to the next area!
 
-<th>(Ehehe, we received walkie-talkies from the student council — it makes everything feel so much more professional~♪)</th>
+<th>(Ehehe, we received walkie-talkies from the Student Council — it makes everything feel so much more professional~♪)</th>
 
-<th>(It is much better for me to patrol alone rather than with everyone else, as I excel at collecting intelligence. I am glad I suggested the idea to Taichou-dono!)</th>
+<th>(It’s much better for me to patrol alone rather than with everyone else, as I excel at collecting intelligence. I’m glad I suggested the idea to Taichou-dono!)</th>
 
-<th>(Heheh~ This is how I will show my true abilities~♪)</th>
+<th>(Fufufu~ This is how I will show my true abilities~♪)</th>
 
 …Hmm?
 
@@ -932,7 +932,7 @@ Mhm mhm, I’m glad to hear that~ I’ll make sure to escort you to the cafe, so
 {% endbubble %}
 
 {% bubble Kanata %}
-Ding…♪
+ding…♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -940,7 +940,7 @@ Ow—!? That was such a soft way to say it, but you genuinely went and chopped m
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe, naughty children must be punished~ You should not trouble transfer student-san, okay?
+ufufu, naughty children must be punished~ you should not trouble transfer student-san, okay?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -950,7 +950,7 @@ We were just having a nice chat. Right, transfer student-chan?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hmm. She is clearly saying otherwise, though?
+hmm. she is clearly saying otherwise, though?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -962,7 +962,7 @@ I won’t pester you anymore, so come on over to my side~ Come on~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-Ahaha… She is shaking her head and completely refusing. It seems you are hated.
+ahaha… she is shaking her head and completely refusing. it seems you are hated.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -970,7 +970,7 @@ Wha— No, I’m not! Why’d you go and say something I’ve been worrying abou
 {% endbubble %}
 
 {% bubble Kanata %}
-You were worried about that? I am sorry, I did not notice.
+you were worried about that? i am sorry, i did not notice.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -980,7 +980,7 @@ Ahh, but you also said something about patrolling, right? What a load of work th
 {% endbubble %}
 
 {% bubble Kanata %}
-You really love girls, don’t you, Kaoru. But that still does not mean you should flirt with girls that clearly do not like it.
+you really love girls, don’t you, kaoru. but that still does not mean you should flirt with girls that clearly do not like it.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -988,11 +988,11 @@ Alright, alright. All I gotta do is *not* bother transfer student-chan anymore, 
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe, let me praise you. Good boy, good boy…♪
+ufufu, let me praise you. good boy, good boy…♪
 
-Kaoru, I think I need to leave for now.
+kaoru, i think i need to leave for now.
 
-I left my spot to rehydrate, but that also means I left Midori alone to tend the truck.
+i left my spot to rehydrate, but that also means i left midori alone to tend the truck.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -1002,7 +1002,7 @@ Transfer student-chan, see you later~ I await your return, my princess~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-Now then, it is time I head back to Midori.
+now then, it is time i head back to midori.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1010,7 +1010,7 @@ U-Uuuu~ Transfer student-dono~…
 {% endbubble %}
 
 {% bubble Kanata %}
-Huh? Shinobu? Since when were you here~?
+huh? shinobu? since when were you here~?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1020,15 +1020,15 @@ I noticed transfer student-dono was feeling awkward around that person, but I wa
 
 It went alright thanks to you, Shinkai-dono, but… I deeply apologize for failing to save you, transfer student-dono!
 
-Y-You will forgive me? Ehehe, you are truly kind~♪
+Y-You forgive me? Ehehe, you are truly kind~♪
 
-Shinkai-dono, I shall return with you. It is probably time for us to switch places, anyway.
+Shinkai-dono, I shall return with you. It’s probably time for us to switch places, anyway.
 {% endbubble %}
 
 {% bubble Kanata %}
-It is that time already~? Transfer student-san, we will be off now.
+it is that time already~? transfer student-san, we will be off now.
 
-Please do enjoy the school festival. *Puka, puka*…♪
+please do enjoy the school festival. *puka, puka*…♪
 {% endbubble %}
 
 <div toc>

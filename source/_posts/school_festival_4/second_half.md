@@ -126,7 +126,7 @@ Mmm… I think it’s better if you ask him, not me.
 {% endbubble %}
 
 {% bubble Tetora %}
-He’ll just avoid the question if I did~
+He’ll just avoid the question, though~
 
 Well, whatever. I’m sure Taishou as a delinquent was as super duper cool as he is right now!
 {% endbubble %}
@@ -276,7 +276,7 @@ You can’t give up now! If you’re a man, then you gotta show all your guts an
 {% endbubble %}
 
 {% bubble Kanata %}
-I am back~♪
+i am back~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -284,15 +284,15 @@ Kanata! Just where were you?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hm\~ I was rehydrating myself. I am now in full energy\~♪
+hm\~ i was rehydrating myself. i am now in full energy\~♪
 
-…Oh? Midori, you look exhausted. It is all because I left you alone with the truck… I am very sorry.
+…oh? midori, you look exhausted. it is all because i left you alone with the truck… i am very sorry.
 {% endbubble %}
 
 {% bubble Chiaki %}
 Oh jeez, I *told* you to avoid going off on your own…
 
-Well, you seem to have learnt your lesson now, so I won’t say anything else. Just be careful next time!
+Well, you seem to have learned your lesson now, so I won’t say anything else. Just be careful next time!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -314,7 +314,7 @@ And so! You two go now! Leave this place to us!
 {% endbubble %}
 
 {% bubble Kanata %}
-Midori~ Will you be okay? I will work hard in patrol work to make up for the time I left you alone.
+midori~ will you be okay? i will work hard in patrol work to make up for the time i left you alone.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -388,7 +388,7 @@ We have a new order. Sengoku-kun, please prepare the cotton candy!
 {% endbubble %}
 
 {% bubble Shinobu %}
-Understood! Heheh, I can prepare the food, while you handle serving the customers. I am truly thankful that you are being considerate towards me, since I am shy with strangers.
+Understood! Heheh, I can prepare the food, while you handle serving the customers. I am truly thankful that you’re being considerate towards me, since I’m shy with strangers.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -396,7 +396,7 @@ It wasn’t intentional, though… I’m bad at handling stuff, so~ I’m sure I
 {% endbubble %}
 
 {% bubble Shinobu %}
-No, no! It is my first time making cotton candy as well! How about you try making one yourself, Tetora-kun?
+No, no! It’s my first time making cotton candy as well! How about you try making one yourself, Tetora-kun?
 
 You may just make one even better than I do!
 {% endbubble %}
@@ -422,13 +422,13 @@ T-The top? L-Like this…?
 {% bubble Shinobu %}
 Well done! I had only realized this after I messed up once, but you can wrap the cotton candy around the top side of the stick if you aim it downwards.
 
-When there is too much cotton candy on the bottom, you aim the stick downwards, and then vice versa. Making cotton candy is essentially repeating these two steps.
+When there’s too much cotton candy on the bottom, you aim the stick downwards, and then vice versa. Making cotton candy is essentially repeating these two steps.
 
 You just have to repeat this until there is no more cotton candy, and it will finally be complete! Mhm! This is a pretty cotton candy~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-R-Really…? I guess even I can make something~ Hehe! ♪
+R-Really…? I guess even I can make something~ Heheh! ♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -448,7 +448,7 @@ Oh—! The customers are starting to wonder what is taking us so long. I shall p
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hehe, an adorable customer is here. Where are your mommy and daddy?
+Heheh, an adorable customer is here. Where are your mommy and daddy?
 
 Ohh, the lady waving her hand is your mommy, and the one beside her is your daddy? I see, I see! You told them to wait there, since you can make an order all by yourself?
 
@@ -478,11 +478,11 @@ Yeah, I love kids! I was this close to hugging the kid just now, but I held it i
 {% bubble Tetora %}
 Uh, yeah, it’s a good thing you did.
 
-Right, Taichou. It’s about time for the skit, so can I leave the rest to you two?
+Right, Taichou. It’s 'bout time for the skit, so can I leave the rest to you two?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah, there’s not as many customers now, so we’ll be fine.
+Yeah, there aren’t as many customers now, so we’ll be fine.
 
 Nagumo, I know you didn’t ask for my help, but… Just because you’re acting out a delinquent role, doesn’t mean you have to try and become one.
 
@@ -490,7 +490,7 @@ Just be yourself. That would make me feel more at ease.
 {% endbubble %}
 
 {% bubble Tetora %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -510,15 +510,15 @@ Gotcha! Right then, Taichou, Sengoku-kun! I’ll see you later!
 {% img /img/es/eventstory/schoolfestival4/10_1.jpg %}
 
 {% bubble Kanata %}
-Excuse meee~ I would like some fish, please~♪
+excuse meee~ i would like some fish, please~♪
 
-Huh? You do not have fish?
+huh? you do not have fish?
 
-Then I would like something that is like fish…♪
+then i would like something that is like fish…♪
 
-Ohh, there is a food stall selling taiyaki over there, I see~ Tai are tasty, so I like it.
+ohh, there is a food stall selling taiyaki over there, i see~ tai are tasty, so i like it.
 
-Thank you for the information~
+thank you for the information~
 {% endbubble %}
 
 {% bubble Sora %}
@@ -526,7 +526,7 @@ Uuuu~…?
 {% endbubble %}
 
 {% bubble Kanata %}
-Oh no, I bumped into you… I am sorry, are you okay?
+oh no, i bumped into you… i am sorry, are you okay?
 {% endbubble %}
 
 {% bubble Sora %}
@@ -550,9 +550,9 @@ Sora was feeling ill from the crowd, so when he tried to go somewhere without as
 {% endbubble %}
 
 {% bubble Kanata %}
-I see~ There is no need to worry, yellow kid. I will take you to where Nacchan is at~
+i see~ there is no need to worry, yellow kid. i will take you to where nacchan is at~
 
-It is part of my patrolling job to protect lost children, and find their parents.
+it is part of my patrolling job to protect lost children, and find their parents.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -568,23 +568,23 @@ Wawa—? Sora hears a growling sound~ This is… the color of an empty stomach!
 {% endbubble %}
 
 {% bubble Kanata %}
-Oh, you figured me out~…
+oh, you figured me out~…
 {% endbubble %}
 
 {% bubble Sora %}
-HuHu\~? Sea Onii\~san, are you hungry? Sora learnt from Senpai that people can’t fight when they’re hungry!
+HuHu\~? Sea Onii\~san, are you hungry? Sora learned from Senpai that people can’t fight when they’re hungry!
 
 What would you like? Sora will buy it for you if you tell him~
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe, thank you. You are kind, just like Nacchan~
+ufufu, thank you. you are kind, just like nacchan~
 
-Do not worry, I was thinking of buying taiyaki just now~ Excuse meee, I would like two taiyaki~♪
+do not worry, i was thinking of buying taiyaki just now~ excuse meee, i would like two taiyaki~♪
 
-Huh? There is red bean paste flavor and cream flavor? Hm~ I think I will take one red bean paste.
+huh? there is red bean paste flavor and cream flavor? hm~ i think i will take one red bean paste.
 
-Which one do you think is good for the other taiyaki?
+which one do you think is good for the other taiyaki?
 {% endbubble %}
 
 {% bubble Sora %}
@@ -592,7 +592,7 @@ HeHe~? Sora is the one who has to decide?
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes~ I am going to give you one as a present, so please choose a flavor~♪
+yes~ i am going to give you one as a present, so please choose a flavor~♪
 {% endbubble %}
 
 {% bubble Sora %}
@@ -602,9 +602,9 @@ Let’s have half of each! Getting to taste both flavors will make Sora so happy
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, that is a great idea~♪
+fufu, that is a great idea~♪
 
-Ow, hot— It is fresh from the oven, so I have to cool it down before eating it, don’t I… I will burn otherwise.
+ow, hot— it is fresh from the oven, so i have to cool it down before eating it, don’t i… i will burn otherwise.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -612,7 +612,7 @@ Are you bad with hot food, Sea Onii~san?
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, I am~ It is a shame I cannot eat immediately, even though I am starving.
+yes, i am~ it is a shame i cannot eat immediately, even though i am starving.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -620,13 +620,13 @@ Ah— Sea Onii~san! There’s a colorful and pretty dolphin!
 {% endbubble %}
 
 {% bubble Kanata %}
-Uwaa, it is candy in the shape of a dolphin\~ This will not be hot, so I can eat it straight away\~♪
+uwaa, it is candy in the shape of a dolphin\~ this will not be hot, so i can eat it straight away\~♪
 
-Excuse meee~  I would like two of this dolphin candy~♪
+excuse meee\~ i would like two of this dolphin candy\~♪
 
-Here you go, yellow kid. It would not be right if I eat one by myself.
+here you go, yellow kid. it would not be right if i eat one by myself.
 
-It will make us both much happier to share delicious food and fun things with each other~♪
+it will make us both much happier to share delicious food and fun things with each other~♪
 {% endbubble %}
 
 {% bubble Sora %}
@@ -634,7 +634,7 @@ Sora agrees! Sora got separated from Shisho and Senpai, but Sora is happy to hav
 {% endbubble %}
 
 {% bubble Kanata %}
-<th><em>(Lick, lick)</em></th>…♪ Mm~ It gave me a tingly feeling.
+<th><em>(lick, lick)</em></th>…♪ mm~ it gave me a tingly feeling.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -642,13 +642,13 @@ Really? Sora’s tastes sour~ Maybe it’s lemon flavor?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hmm… The yellow area must be lemon flavor, huh~ The blue area is probably soda flavor?
+hmm… the yellow area must be lemon flavor, huh~ the blue area is probably soda flavor?
 
-Ehehe, we get to enjoy all kinds of flavors, then~ I am glad we bought this.
+ufufu, we get to enjoy all kinds of flavors, then~ i am glad we bought this.
 
-The taiyaki should have cooled down by now, too. This fish is enough for me.
+the taiyaki should have cooled down by now, too. this fish is enough for me.
 
-I am much more happy like this~♪
+i am much more happy like this~♪
 {% endbubble %}
 
 ## Chapter 11
@@ -664,7 +664,7 @@ Excuse me, I need to get through! Please move aside!
 
 <th>(Oh yeah, the Drama Club’s performance must have ended by now.)</th>
 
-<th>(I heard some people talking about how cool the Second Prince was. Just what I’d expect from Taishou! I bet he performed his prince role superbly…!)</th>
+<th>(I heard some people talking 'bout how cool the Second Prince was. Just what I’d expect from Taishou! I bet he performed his prince role superbly…!)</th>
 
 <th>(I gotta work hard too! I gotta perform my delinquent role perfectly, so he’ll praise me for a great job!)</th>
 
@@ -674,7 +674,7 @@ Excuse me, I need to get through! Please move aside!
 {% endbubble %}
 
 {% bubble Kanata %}
-*Puka, puka*…♪
+*puka, puka*…♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -688,11 +688,11 @@ Shinkai-senpai!
 {% endbubble %}
 
 {% bubble Kanata %}
-Ah— Tetora. Hello~ Would you like some candy, too?
+ah— tetora. hello~ would you like some candy, too?
 {% endbubble %}
 
 {% bubble Tetora %}
-Are you eating while patrolling…? You’re way too free, Shinkai-senpai~
+You’re eating while patrolling…? You’re way too free, Shinkai-senpai~
 {% endbubble %}
 
 {% bubble Sora %}
@@ -714,7 +714,7 @@ Ohh, I see! Great work, Shinkai-senpai…☆
 {% endbubble %}
 
 {% bubble Kanata %}
-You too, Tetora. Are you hungry? You can have some taiyaki if you like~♪
+you too, tetora. are you hungry? you can have some taiyaki if you like~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -722,7 +722,7 @@ Huh— Is that okay with you?
 {% endbubble %}
 
 {% bubble Kanata %}
-Of course it is~ We will all become even more happy if we share tasty food with you.
+of course it is~ we will all become even more happy if we share tasty food with you.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -736,23 +736,23 @@ the bigger the happiness circle becomes, the closer we get to the whole world be
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, that’s just how a hero would think! Please show that same kind of heroic feel in the skit we’re having later!
+Ahaha, that’s just how a hero would think! Please show that same kinda heroic feel in the skit we’re having later!
 {% endbubble %}
 
 {% bubble Kanata %}
-…? Later? Are we doing something?
+…? later? are we doing something?
 {% endbubble %}
 
 {% bubble Tetora %}
-Umm, you’re joking, right?
+Umm, you’re jokin’, right?
 
 We’re planning to do a skit where I’m a delinquent who chats up with the transfer student, and then you and Midori-kun will come over and save her, remember?
 {% endbubble %}
 
 {% bubble Kanata %}
-Ahh~… That’s right. Midori and I are the heroes, yes?
+ahh~… that’s right. midori and i are the heroes, yes?
 
-That kind of feels strange. When I think of “hero”, I think of Chiaki.
+that kind of feels strange. when i think of “hero”, i think of chiaki.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -764,7 +764,7 @@ Hey— Move, move! Ah— Kanata-kun! Perfect timing!
 {% endbubble %}
 
 {% bubble Kanata %}
-Kaoru~? Why do you look so flustered?
+kaoru~? why do you look so flustered?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -778,9 +778,9 @@ I’ve been trying to find someone from the student council so I could report th
 {% endbubble %}
 
 {% bubble Kanata %}
-Why yes, I can~ With this walkie-talkie, I can—
+why yes, i can~ with this walkie-talkie, i can—
 
-Hm? Ah, that’s right, I left that with Midori, didn’t I…
+hm? ah, that’s right, i left that with midori, didn’t i…
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -792,11 +792,11 @@ Are you serious… so I really *do* have to go all the way and report this by my
 {% endbubble %}
 
 {% bubble Kanata %}
-Kaoru ran off. Still, it sounds like something troublesome is brewing, doesn’t it~?
+kaoru ran off. still, it sounds like something troublesome is brewing, doesn’t it~?
 {% endbubble %}
 
 {% bubble Tetora %}
-Uumyu… I have a bad feeling about this. I hope nothing bad happens…
+Uumyu… I have a bad feeling 'bout this. I hope nothing bad happens…
 
 For now, let’s rush over to where we promised to meet Midori-kun and the transfer student!
 {% endbubble %}

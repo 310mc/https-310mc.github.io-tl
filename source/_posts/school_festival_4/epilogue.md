@@ -139,7 +139,7 @@ Midori-kun!
 {% endbubble %}
 
 {% bubble Kanata %}
-“The blue flame is the mark of mystery! I have come from the blue sea~♪ Ryusei Blue, Shinkai Kanata…☆ <th><em>(sparkle)</em></th>”
+“the blue flame is the mark of mystery! i have come from the blue sea~♪ ryusei blue, shinkai kanata…☆ <th><em>(sparkle)</em></th>”
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -207,7 +207,7 @@ There are plenty who aren’t considerate, and just do as they like… I finally
 {% bubble Shinobu %}
 But, you know… Although we were unable to follow through our original plan, since an actual delinquent appeared…
 
-In the end, we still got to save a frail transfer student-dono from delinquents.
+In the end, we were still able to save a frail transfer student-dono from delinquents.
 
 In a way, something good came from an unfortunate incident. We even managed to get more people to come to our hero show, and now we have a full crowd.
 {% endbubble %}
@@ -227,7 +227,7 @@ Noooo… I don’t wannaaaaa…
 {% endbubble %}
 
 {% bubble Shinobu %}
-Oh jeez, Midori-kun! You have been standing out for a while now, so just accept your fate already! Heheh~ I am feeling super excited~♪
+Oh jeez, Midori-kun! You’ve been standing out for a while now, so just accept your fate already! Heheh~ I’m feeling super excited~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/schoolfestival4/tetorabcg.jpg %}
@@ -253,7 +253,7 @@ I kept saying how much I wanna be a cool delinquent, and never bothered to look 
 {% endbubble %}
 
 {% bubble Chiaki %}
-No, it’s alright. It doesn’t look like you want to become one anymore, and that’s enough.
+No, it’s alright. It seems like you don’t want to become one anymore, and that’s enough.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -295,11 +295,11 @@ That would be a shame! In fact, this is a hero show for *kids!* We shouldn’t f
 {% endbubble %}
 
 {% bubble Shinobu %}
-Taichou-dono is performing with so much energy~ He is jumping around while singing… Does he not get tired?
+Taichou-dono is performing with so much energy~ He’s jumping around while singing… Does he not get tired?
 {% endbubble %}
 
 {% bubble Tetora %}
-Mmm~ I think he’s got a different amount of stamina from us… It frustrates me to say this, but my performance a second ago took a lot out of me, so I’m gonna stay in the back to recover some of my energy.
+Mmm~ I think he’s got a different amount of stamina from us… It frustrates me to say this, but my performance a second ago took a lot outta me, so I’m gonna stay in the back to recover some of my energy.
 
 I’ll leave the rest to you and Midori-kun.
 {% endbubble %}
@@ -329,7 +329,7 @@ N-No, I’m fine… I’m just gonna stay here where no one can see me…
 {% endbubble %}
 
 {% bubble Kanata %}
-Midori~♪
+midori~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -337,13 +337,13 @@ Huh? W-Why are you calling out to me…? Ah, am I in your way…?
 {% endbubble %}
 
 {% bubble Kanata %}
-No, not at all~ The five of us together are Ryuseitai, after all.
+no, not at all~ the five of us together are ryuseitai, after all.
 {% endbubble %}
 
 {% img /img/es/eventstory/schoolfestival4/kanatabcg.jpg %}
 
 {% bubble Kanata %}
-People become happy every time we do something. And when people enjoy what we do, we also become happy.
+people become happy every time we do something. and when people enjoy what we do, we also become happy.
 
 “♪\~♪\~♪”
 {% endbubble %}

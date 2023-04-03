@@ -79,7 +79,7 @@ Ahaha, only a second. You’ve got awesome concentration skills, Taishou~!
 {% endbubble %}
 
 {% bubble Kuro %}
-Nah… I'm just so out of it that I didn't realize you were here.
+Nah… I'm just so outta it that I didn't realize you were here.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -87,7 +87,7 @@ Uumyu… Is there something bothering you again?
 {% endbubble %}
 
 {% bubble Kuro %}
-Mm… It's more like I'm worried about somethin’.
+Mm… It's more like I'm worried 'bout something.
 
 Akatsuki's gonna help the Drama Club during the school festival, right? But I didn't expect we’d be helpin' them as actors.
 
@@ -161,11 +161,11 @@ Hmm? What's too much?
 {% bubble Kuro %}
 See, apparently there's not enough people to patrol the school during the festival.
 
-I kinda overheard Hasumi talking about it… I thought I could help out a little, but — I'll be too busy with the performance, so I doubt I'll have any time to patrol.
+I kinda overheard Hasumi talking 'bout it… I thought I could help out a little, but — I'll be too busy with the performance, so I doubt I'll have any time to patrol.
 
 That’s when I thought maybe you guys could help out instead.
 
-Ryuseitai's about being heroes of justice, so a duty to maintain public order would suit you all perfectly, yeah?
+Ryuseitai's 'bout being heroes of justice, so a duty to maintain public order would suit you all perfectly, yeah?
 
 But, well… This isn't your problem to deal with. Hopefully they'll find people for the job, so forget what I just said.
 {% endbubble %}
@@ -177,7 +177,7 @@ We may find the time to patrol while we do our food stall… Also, I wanna make 
 {% endbubble %}
 
 {% bubble Kuro %}
-Thanks, Tetsu. Yeah, could you ask Morisawa about it?
+Thanks, Tetsu. Yeah, could you ask Morisawa 'bout it?
 {% endbubble %}
 
 {% bubble Tetora %}
