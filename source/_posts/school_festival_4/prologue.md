@@ -1,14 +1,13 @@
 ---
 title: "School Festival 4 – Prologue"
-date: 2020-1-31 9:00:00
+date: 2018-5-15 9:00:00
 categories:
 - [Enstars, Kuro]
 - [Enstars, Tetora]
 tags:
 - Event Story
 - Yuuki Yoshino
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

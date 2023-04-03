@@ -100,7 +100,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="School Festival 4"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2019/05/21/school-festival-4-chapter-masterlist/" class="storyName" target="_blank">
+        <a href="/school_festival_4" class="storyName" target="_blank">
             <span>School Festival 4</span>
             <span class="read"></span>
         </a>

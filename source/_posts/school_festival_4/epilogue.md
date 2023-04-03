@@ -1,6 +1,6 @@
 ---
 title: "School Festival 4 – Epilogue"
-date: 2020-1-31 9:00:00
+date: 2018-5-15 9:03:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Midori]
@@ -10,8 +10,7 @@ categories:
 tags:
 - Event Story
 - Yuuki Yoshino
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -138,8 +137,8 @@ Midori-kun!
 “The red flame is the mark of justice! Burning bright red, the sun of life! Ryusei Red, Morisawa Chiaki…! ☆”
 {% endbubble %}
 
-{% bubble Kanata %}
-“the blue flame is the mark of mystery! i have come from the blue sea~♪ ryusei blue, shinkai kanata…☆ <th><em>(sparkle)</em></th>”
+{% bubble Kanata v2 %}
+“the blue flame is the mark of mystery! i have come from the blue [sea]~♪ ryusei blue, shinkai kanata…☆ <th><em>(sparkle)</em></th>”
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -328,7 +327,7 @@ N-No, I’m fine… I’m just gonna stay here where no one can see me…
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 midori~♪
 {% endbubble %}
 
@@ -336,13 +335,13 @@ midori~♪
 Huh? W-Why are you calling out to me…? Ah, am I in your way…?
 {% endbubble %}
 
-{% bubble Kanata %}
-no, not at all~ the five of us together are ryuseitai, after all.
+{% bubble Kanata v2 %}
+no, you would never be in my [way]~ the five of us together are ryuseitai, after all.
 {% endbubble %}
 
 {% img /img/es/eventstory/schoolfestival4/kanatabcg.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 people become happy every time we do something. and when people enjoy what we do, we also become happy.
 
 “♪\~♪\~♪”

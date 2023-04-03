@@ -1,6 +1,6 @@
 ---
 title: "[ES!] School Festival 4"
-date: 2021-10-29 9:10:00
+date: 2023-4-3 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -8,9 +8,8 @@ tags:
 - Event Story
 - Yuuki Yoshino
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!"
 permalink: school_festival_4/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -23,7 +22,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -117,7 +116,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -149,11 +148,16 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                        <a href="/categories/Enstars/Wataru" character="Wataru"></a>
+                        <a href="/categories/Enstars/Sora" character="Sora"></a>
+                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
                         </div>
                     </div>
                     <div class="info-item tl">

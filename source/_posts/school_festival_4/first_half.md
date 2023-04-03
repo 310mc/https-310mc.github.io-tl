@@ -1,6 +1,6 @@
 ---
 title: "School Festival 4 – Chapter 1–6"
-date: 2020-1-31 9:00:00
+date: 2018-5-15 9:01:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Midori]
@@ -12,8 +12,7 @@ categories:
 tags:
 - Event Story
 - Yuuki Yoshino
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Ryuseitai holds a food truck during the School Festival, patrolling the place and performing a hero show. Despite that, the transfer student ends up in a pinch, surrounded by delinquents!"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -117,10 +116,10 @@ You’re the one who was like, “When it comes to festivals, you think food sta
 My bad! I’ll make sure to do things after I’ve talked to you guys about it, so forgive me this once!
 {% endbubble %}
 
-{% bubble Kanata %}
-*puka, puka*…♪ what is important is the present, not the past. chiaki has learned his lesson, so let it flow away with the water~
+{% bubble Kanata v2 %}
+*puka, puka*…♪ what is important is the [present], not the [past]. chiaki has learned his [lesson], so let it flow away with the [water]~
 
-chiaki, i would like fish for the truck. sashimiii…♪
+chiaki, i would like [fish] for the truck. sashimiii…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -153,8 +152,8 @@ Um, first off. Can any of you even *cook*?
 I-I have not done it much, but I shall do my best!
 {% endbubble %}
 
-{% bubble Kanata %}
-i am very good at preparing fish~♪
+{% bubble Kanata v2 %}
+i am very [good] at preparing [fish]~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -201,8 +200,8 @@ Alright, so now that we’ve settled on cotton candy… Our customers might star
 Ahh, I would be glad to have that~ I am in complete agreement. ♪
 {% endbubble %}
 
-{% bubble Kanata %}
-i am also fine with it~ make sure to have mineral water in the menu…♪
+{% bubble Kanata v2 %}
+i am also fine with it~ make sure to have [mineral water] in the menu…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -291,8 +290,8 @@ Oohh!! What a bold idea! I like it! Yeah, we should do a hero show! Let me pat y
 Ughh, no thanks. And don’t hug me, either.
 {% endbubble %}
 
-{% bubble Kanata %}
-but a hero show would require setting up a stage, wouldn’t it?
+{% bubble Kanata v2 %}
+but a [hero show] would require setting up a [stage], wouldn’t it?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -365,12 +364,12 @@ Standing out is a bit too embarrassing for me, so…
 Same…
 {% endbubble %}
 
-{% bubble Kanata %}
-hmm… so no one wants to do it… how about i take it?
+{% bubble Kanata v2 %}
+mm… so no one wants to do it… how about i [take] it?
 
-yaaay! mr. delinquent is here~♪ would you like to eat fish?
+yaaay! mr. [delinquent] is here~♪ would you like to eat [fish]?
 
-irritation comes from calcium deficiency, you see. you should eat lots of fish~♪
+[irritation] comes from [calcium deficiency], you see. you should eat lots of [fish]~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -715,7 +714,7 @@ Good morning! …Hm? Nagumo, you came over with Takamine, huh?
 Ahh, I met him on the way here, so we came together.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 good mooorning~…♪
 {% endbubble %}
 
@@ -723,7 +722,7 @@ good mooorning~…♪
 K-Kanata!? You always arrive on the last minute, and sometimes you’re completely late — Yet you came really early today, huh!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 huh? was i? hmm~ i thought i would not make it on time, so i hurried over here…
 {% endbubble %}
 
@@ -767,8 +766,8 @@ Yeah, he’s busy with a bunch of stuff, after all. I couldn’t bear to ask him
 Same with the transfer student… I was really unsure of what to do at first, so this really saved us!
 {% endbubble %}
 
-{% bubble Kanata %}
-<em><th>(sniff, sniff)</th></em>… i smell fish\~♪ excuse me while i go buy some\~♪
+{% bubble Kanata v2 %}
+<em><th>(sniff, sniff)</th></em>… i smell [fish]\~♪ excuse me while i go buy some\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -817,18 +816,18 @@ Huh? Ahh, are you a customer…? Um, welcome…
 Shinkai-senpai, I’ll make the cotton candy, so… You should prepare the orange juice…
 {% endbubble %}
 
-{% bubble Kanata %}
-here you go~ nice, cold water~♪
+{% bubble Kanata v2 %}
+here you go~ nice, cold [water]~♪
 {% endbubble %}
 
 {% bubble Midori %}
 You’re confusing the customer… Let’s change spots, Shinkai-senpai…
 {% endbubble %}
 
-{% bubble Kanata %}
-fufufu, white cotton candy is pretty, isn’t it\~? but i like blue the most. it is the color of the ocean, you see\~♪
+{% bubble Kanata v2 %}
+fufufu, [white] cotton [candy] is pretty, isn’t it\~? but i like [blue] the most. it is the color of the [ocean], after all\~♪
 
-here you go\~ a bright blue cotton candy, just like the ocean\~♪
+here you go\~ a bright [blue] cotton [candy], just like the [ocean]\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -841,8 +840,8 @@ Huh? This cotton candy is prettier…? Uh… Well, if you say so… Umm, thank y
 *Sigh*… I wanna go home…
 {% endbubble %}
 
-{% bubble Kanata %}
-midori~ i see you are sighing. please take a look at this child, and cheer up.
+{% bubble Kanata v2 %}
+midori~ i see you are [sighing]. please take a look at this child, and [cheer] up.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -851,15 +850,15 @@ Huh? What’s this?
 It looks so cute and strangely mascot character-like…♪
 {% endbubble %}
 
-{% bubble Kanata %}
-it is a stuffed toy of a scotoplanes~ i could give it to you if you like it.
+{% bubble Kanata v2 %}
+it is a stuffed toy of a [scotoplanes]~ i could give it to you if you like it.
 {% endbubble %}
 
 {% bubble Midori %}
 A-Are you sure…? It’s so cute — Isn’t it precious to you?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ufufu. you say that, but you are hugging it tightly, you know~…♪
 {% endbubble %}
 
@@ -931,7 +930,7 @@ Mhm mhm, I’m glad to hear that~ I’ll make sure to escort you to the cafe, so
 <th>(I-I must save her! But but, I feel anxious doing it alone~! I-I shall contact the others for the time being!)</th>
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ding…♪
 {% endbubble %}
 
@@ -939,8 +938,8 @@ ding…♪
 Ow—!? That was such a soft way to say it, but you genuinely went and chopped me hard, Kanata-kun…!!
 {% endbubble %}
 
-{% bubble Kanata %}
-ufufu, naughty children must be punished~ you should not trouble transfer student-san, okay?
+{% bubble Kanata v2 %}
+ufufu, [naughty children must] be punished~ you should not trouble [transfer student]-san, okay?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -949,7 +948,7 @@ ufufu, naughty children must be punished~ you should not trouble transfer studen
 We were just having a nice chat. Right, transfer student-chan?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 hmm. she is clearly saying otherwise, though?
 {% endbubble %}
 
@@ -961,15 +960,15 @@ Ah, and now you’re hiding behind Kanata-kun…
 I won’t pester you anymore, so come on over to my side~ Come on~♪
 {% endbubble %}
 
-{% bubble Kanata %}
-ahaha… she is shaking her head and completely refusing. it seems you are hated.
+{% bubble Kanata v2 %}
+ahaha… she is shaking her head and completely [refusing]. it seems you are hated.
 {% endbubble %}
 
 {% bubble Kaoru %}
 Wha— No, I’m not! Why’d you go and say something I’ve been worrying about, huh!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 you were worried about that? i am sorry, i did not notice.
 {% endbubble %}
 
@@ -979,20 +978,20 @@ It’s fine, I guess. Anyway, why’re you here? Didn’t you say you guys were 
 Ahh, but you also said something about patrolling, right? What a load of work that must be~ If it were me, I’d have skipped it to go and flirt with girls.
 {% endbubble %}
 
-{% bubble Kanata %}
-you really love girls, don’t you, kaoru. but that still does not mean you should flirt with girls that clearly do not like it.
+{% bubble Kanata v2 %}
+you really love [girls], don’t you, kaoru. but that still does not mean you should flirt with [girls] that clearly do not like it.
 {% endbubble %}
 
 {% bubble Kaoru %}
 Alright, alright. All I gotta do is *not* bother transfer student-chan anymore, right?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ufufu, let me praise you. good boy, good boy…♪
 
-kaoru, i think i need to leave for now.
+kaoru, i think i [need] to leave for now.
 
-i left my spot to rehydrate, but that also means i left midori alone to tend the truck.
+i left my spot to [rehydrate], but that also means i left midori alone to [tend] the truck.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -1001,7 +1000,7 @@ Guess I’ll leave too, then~ I’ve also left most of the work to Sakuma-san, s
 Transfer student-chan, see you later~ I await your return, my princess~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 now then, it is time i head back to midori.
 {% endbubble %}
 
@@ -1009,7 +1008,7 @@ now then, it is time i head back to midori.
 U-Uuuu~ Transfer student-dono~…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 huh? shinobu? since when were you here~?
 {% endbubble %}
 
@@ -1025,10 +1024,10 @@ Y-You forgive me? Ehehe, you are truly kind~♪
 Shinkai-dono, I shall return with you. It’s probably time for us to switch places, anyway.
 {% endbubble %}
 
-{% bubble Kanata %}
-it is that time already~? transfer student-san, we will be off now.
+{% bubble Kanata v2 %}
+it is that [time] already~? transfer student-san, we will be off now.
 
-please do enjoy the school festival. *puka, puka*…♪
+please do enjoy the [school festival]. *puka, puka*…♪
 {% endbubble %}
 
 <div toc>
