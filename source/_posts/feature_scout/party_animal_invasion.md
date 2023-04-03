@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Adonis, Niki, and Rinne. Midori wants to try out the new parfait, but he has to interact with people first…"
 permalink: party_animal_invasion/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/e/eb/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/3/36/%28Parfait_of_Pure_Bliss%29_Midori_Takamine_M_Bloomed.png)
+![](/img/es/idolstory/partyanimalinvasion/c1.jpg)|![](/img/es/idolstory/partyanimalinvasion/c2.jpg)
 :-:|:-:
 
 Midori wants to try out the new parfait, but he has to interact with people first…
@@ -71,7 +71,7 @@ This story is connected to the card [Parfait of Pure Bliss] Midori Takamine.
     <p><span><b>Location:</b> Café Cinnamon</span></p>
 </div>
 
-{% img /img/es/idolstory/party_animal_invasion/1.jpg %}
+{% img /img/es/idolstory/partyanimalinvasion/1.jpg %}
 
 {% bubble Midori %}
 <th>(Huh? Is that… Otogari-senpai over there?)</th>
@@ -235,7 +235,7 @@ Shiina-senpai, your manner of eating is quite pleasing to the eye; you ate so mu
 <th>(Alright, time to take a photo, and—there… This really feels like a dream come true; I didn’t expect to actually win the contest.)</th>
 {% endbubble %}
 
-{% img /img/es/idolstory/party_animal_invasion/cg.jpg %}
+{% img /img/es/idolstory/partyanimalinvasion/cg.jpg %}
 
 {% bubble Midori %}
 <th>(I wanna indulge in this moment for as long as I can, but my family’s always told me that the Wasteful Ghost would haunt me if I waste my food…)</th>[^2]

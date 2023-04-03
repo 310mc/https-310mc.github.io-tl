@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Translation of an Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and makes an incredible discovery."
 permalink: do_the_norm/
 ---
-![](/img/es/idolstory/do_the_norm/c1.jpg)|![](/img/es/idolstory/do_the_norm/c2.jpg)
+![](/img/es/idolstory/dothenorm/c1.jpg)|![](/img/es/idolstory/dothenorm/c2.jpg)
 :-:|:-:
 
 Aira goes to school for once and makes an incredible discovery. It acts as a sequel to Idol☆Hijack, a Rei Feature Scout story.
@@ -71,7 +71,7 @@ This story is connected to the card [Basketball Connections] Aira Shiratori.
     <p><span><b>Location:</b> Yumenosaki Academy Front Gate</span></p>
 </div>
 
-{% img /img/es/idolstory/do_the_norm/1.jpg %}
+{% img /img/es/idolstory/dothenorm/1.jpg %}
 
 {% bubble Aira %}
 <th>(Hmhmhmmm~♪ You’ve always gotta ask an idol whenever you’re in trouble!)</th>
@@ -99,7 +99,7 @@ This story is connected to the card [Basketball Connections] Aira Shiratori.
 <th>(—…Oh, he’s here!)</th>
 {% endbubble %}
 
-{% img /img/es/idolstory/do_the_norm/2.jpg %}
+{% img /img/es/idolstory/dothenorm/2.jpg %}
 
 {% bubble Midori %}
 <th>(Sigh… so depressing…)</th>
@@ -181,7 +181,7 @@ M-Mhm…
     <p><span><b>Location:</b> Time Street</span></p>
 </div>
 
-{% img /img/es/idolstory/do_the_norm/3.jpg %}
+{% img /img/es/idolstory/dothenorm/3.jpg %}
 
 {% bubble Aira %}
 —And the look you had in your eyes right when you got the ball was super duper ra-vely!
@@ -241,7 +241,7 @@ Really? But you looked like you were really having fun playing with Morisawa-sen
 What… No way…
 {% endbubble %}
 
-{% img /img/es/idolstory/do_the_norm/4.jpg %}
+{% img /img/es/idolstory/dothenorm/4.jpg %}
 
 {% bubble Chiaki %}
 There you are, Takamine! You didn’t have to leave without me! That’s mean!
@@ -259,7 +259,7 @@ It’s Morisawa-senpai~! Wow, it’s like, “speak of the devil” and stuff, h
 Oh? You were talking about me?
 {% endbubble %}
 
-{% img /img/es/idolstory/do_the_norm/5.jpg %}
+{% img /img/es/idolstory/dothenorm/5.jpg %}
 
 {% bubble Midori sideeye %}
 No, um, we weren’t. Don’t worry about it…

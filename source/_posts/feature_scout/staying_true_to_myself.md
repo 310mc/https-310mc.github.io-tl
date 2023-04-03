@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personal outfit that he'd like to wear."
 permalink: staying_true_to_myself/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/3/3a/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/7/7e/%28Comfortable_Staying_Just_As_I_Am%29_Midori_Takamine_M_Bloomed.png)
+![](/img/es/idolstory/stayingtrue/c1.jpg)|![](/img/es/idolstory/stayingtrue/c2.jpg)
 :-:|:-:
 
 Midori feels depressed as soon as he hears it's his turn to receive a personal outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear…
@@ -72,7 +72,7 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
     <p><span><b>Location:</b> Resting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/1.jpg %}
+{% img /img/es/idolstory/stayingtrue/1.jpg %}
 
 {% bubble Midori sigh %}
 <em>Sigh</em>… Ughhh…
@@ -202,7 +202,7 @@ So how about you start by asking Anzu-dono if it’s true?
     <p><span><b>Location:</b> StarPro Office</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/2.jpg %}
+{% img /img/es/idolstory/stayingtrue/2.jpg %}
 
 {% bubble Midori worried %}
 <th>(Shinobu-kun’s right. I’d only feel humiliated if I let a rumor make a fool of me, so I should double-check with Anzu-san first.)</th></th>
@@ -232,7 +232,7 @@ You said it’s an autumn commercial products exhibition, right? They’re gonna
 What would you like me to do in that exhibition? You said something about a stage…
 {% endbubble %}
 
-{% img /img/es/idolstory/staying_true/3.jpg %}
+{% img /img/es/idolstory/stayingtrue/3.jpg %}
 
 {% bubble Midori smile %}
 Huh!? I’ll be the host for a mascot character event…!?
@@ -248,7 +248,7 @@ And my parents will be super happy to know I’ll be doing an advertisement for 
     <p><span><b>Location:</b> ES Hallway</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/4.jpg %}
+{% img /img/es/idolstory/stayingtrue/4.jpg %}
 
 {% bubble Midori curious %}
 <th>(She didn’t talk to me about my personal outfit in the end. Maybe it really *was* a rumor after all.)</th>
@@ -268,7 +268,7 @@ I’ll search up what kinda mascots will show up for the event…♪
     <p><span><b>Location:</b> Park (Lawn Area)</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/5.jpg %}
+{% img /img/es/idolstory/stayingtrue/5.jpg %}
 
 <div class="msr-narration">
     <p>On the day of the exhibition</p>
@@ -356,7 +356,7 @@ Feels like you’re just throwing anything at me to cheer me up… But thank you
     <p><span><b>Location:</b> Event Stage</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/6.jpg %}
+{% img /img/es/idolstory/stayingtrue/6.jpg %}
 
 {% bubble Midori %}
 <th>(…I managed to get on stage and all, but my heart’s still racing…)</th>
@@ -382,7 +382,7 @@ Ah…
 <th>(Did they come to cheer for me…? Maybe I should wave at them, at least…)</th>
 {% endbubble %}
 
-{% img /img/es/idolstory/staying_true/7.jpg %}
+{% img /img/es/idolstory/stayingtrue/7.jpg %}
 
 {% bubble Midori smile %}
 “……♪”
@@ -406,7 +406,7 @@ Ah…
     <p><span><b>Location:</b> Park (Lawn Area)</span></p>
 </div>
 
-{% img /img/es/idolstory/staying_true/8.jpg %}
+{% img /img/es/idolstory/stayingtrue/8.jpg %}
 
 {% bubble Midori smile %}
 Huh, Anzu-san…? Hello, I didn’t know you were here.
@@ -428,7 +428,7 @@ But right now, I think I’ve got some sort of idea in my head. Could I speak to
 …I think I’d like an outfit where I can be my typical self.
 {% endbubble %}
 
-{% img /img/es/idolstory/staying_true/cg.jpg %}
+{% img /img/es/idolstory/stayingtrue/cg.jpg %}
 
 {% bubble Midori smile %}
 I don’t wanna look *too* cool… And by that, I mean I don’t wanna only show a cool side of me, and have everyone love me for that only… ‘Cause I’d hate to see them get disappointed the moment they see my true self.

@@ -16,7 +16,7 @@ tags:
 description: "[ES!!] Translation of Yuzuru Feature Scout Story, featuring Keito, Aira, Hiiro, Mika, Tori, and Midori. Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…"
 permalink: the_essence_of_a_butler/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/0/0d/%28Devoted_Valet%29_Yuzuru_Fushimi_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/4/44/%28Devoted_Valet%29_Yuzuru_Fushimi_M_Bloomed.png)
+![](/img/es/idolstory/essencebutler/c1.jpg)|![](/img/es/idolstory/essencebutler/c2.jpg)
 :-:|:-:
 
 Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…
@@ -80,7 +80,7 @@ This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/essence_butler/1.jpg %}
+{% img /img/es/idolstory/essencebutler/1.jpg %}
 
 {% bubble Keito %}
 —Oh, it’s getting late already. Right, let’s wrap this up. Keito Class ends here for today.
@@ -260,7 +260,7 @@ You not only excel at watercoloring, but pencil sketching, too? You’re quite m
 …Oh? How odd, I feel as though I’ve seen this art style before…
 {% endbubble %}
 
-{% img /img/es/idolstory/essence_butler/1_1.jpg %}
+{% img /img/es/idolstory/essencebutler/1_1.jpg %}
 
 {% bubble Keito %}
 You’re just imagining it. …Alright, I’m done.
@@ -344,7 +344,7 @@ Why do you look as though you’ve struck gold or something? <em>Sigh</em>…
     <p><span><b>Location:</b> Resting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/essence_butler/2.jpg %}
+{% img /img/es/idolstory/essencebutler/2.jpg %}
 
 <div class="msr-narration">
     <p>A while later…</p>
@@ -364,7 +364,7 @@ Why do you look as though you’ve struck gold or something? <em>Sigh</em>…
 <th>(You didn’t know left from right back then, and yet you’ve now grown and become a highly respected producer.)</th>
 {% endbubble %}
 
-{% img /img/es/idolstory/essence_butler/cg.jpg %}
+{% img /img/es/idolstory/essencebutler/cg.jpg %}
 
 {% bubble Yuzuru %}
 <th>(I wish to serve only the very best for the Young Master too, similar to how you wish to support the many idols around you. I only hope that I manage to present those feelings into my personal outfit…)</th>
@@ -422,7 +422,7 @@ I see. I overlooked such an important factor to my outfit, didn’t I? Thank you
 I no longer need this design, so you may have it if you like.
 {% endbubble %}
 
-{% img /img/es/idolstory/essence_butler/2_1.jpg %}
+{% img /img/es/idolstory/essencebutler/2_1.jpg %}
 
 {% bubble Midori smile %}
 Really!? Yay, yay, thank you so much! I’ll treasure it for the rest of my life…♪
@@ -436,7 +436,7 @@ I’d like your autograph, if that’s okay…♪
     <p><span><b>Location:</b> Outfit Room</span></p>
 </div>
 
-{% img /img/es/idolstory/essence_butler/2_2.jpg %}
+{% img /img/es/idolstory/essencebutler/2_2.jpg %}
 
 <div class="msr-narration">
     <p>A few days later…</p>

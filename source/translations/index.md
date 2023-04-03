@@ -532,7 +532,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/making100friends.jpg"
+            src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
         />
     </div>
@@ -556,7 +556,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/stayingtruetomyself.jpg"
+            src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
         />
     </div>
@@ -568,7 +568,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/dubiouslibrary.jpg"
+            src="/img/es/idolstory/somethinglibrary/c1.jpg"
             alt="Something Dubious in the Library"
         />
     </div>
@@ -580,7 +580,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/heroicheart.jpg"
+            src="/img/es/idolstory/heroicheart/c1.jpg"
             alt="Always Hold a Heroic Heart"
         />
     </div>
@@ -592,7 +592,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/do_the_norm/c2.jpg"
+            src="/img/es/idolstory/dothenorm/c2.jpg"
             alt="Do The Norm"
         />
     </div>
@@ -604,7 +604,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/dearmebeforeibecameaninja.jpg"
+            src="/img/es/idolstory/dearmeninja/c1.jpg"
             alt="Dear me, Before I Became a Ninja"
         />
     </div>
@@ -616,7 +616,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/bodybuildingbros.jpg"
+            src="/img/es/idolstory/bodybuildingbros/c2.jpg"
             alt="Together, We Are the Bodybuilding Bros!"
         />
     </div>
@@ -628,7 +628,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/methesea.jpg"
+            src="/img/es/idolstory/methesea/c1.jpg"
             alt="me, the sea, and everyone with me"
         />
     </div>
@@ -640,7 +640,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/banner/essenceofabutler.jpg"
+            src="/img/es/idolstory/essencebutler/c1.jpg"
             alt="The Essence of a Butler"
         />
     </div>

@@ -14,7 +14,7 @@ tags:
 description: "[ES!!] Translation of a Kanata Feature Scout Story, featuring Rei, Kaoru, Natsume, and Chiaki. Kaoru finds seashells and sequins on the floor, and follows its trail…"
 permalink: me_the_sea_and_everyone_with_me/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/%28Intertwined_Sea%29_Kanata_Shinkai_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/c/c0/%28Intertwined_Sea%29_Kanata_Shinkai_M_Bloomed.png)
+![](/img/es/idolstory/methesea/c1.jpg)|![](/img/es/idolstory/methesea/c2.jpg)
 :-:|:-:
 
 Kaoru finds seashells and sequins on the floor, and follows its trail to see where it leads him…
@@ -75,7 +75,7 @@ This story is connected to the card [Intertwined Sea] Kanata Shinkai.
     <p><span><b>Location:</b> ES Lobby</span></p>
 </div>
 
-{% img /img/es/idolstory/me_thesea/1.jpg %}
+{% img /img/es/idolstory/methesea/1.jpg %}
 
 {% bubble Kaoru %}
 <th>(Hm? I saw something glittering from the corner of my eye…?)</th>
@@ -103,7 +103,7 @@ Oh, it’s going past the door now. How many floors have I gone up by now…?
     <p><span><b>Location:</b> Resting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/me_thesea/2.jpg %}
+{% img /img/es/idolstory/methesea/2.jpg %}
 
 {% bubble Kaoru %}
 …I don’t see any more stuff on the floor. Does this mean I reached the finish line?
@@ -167,7 +167,7 @@ Well, to get back on Track… We’re counting on you to lead the way to “that
     <p><span><b>Location:</b> Floating Garden</span></p>
 </div>
 
-{% img /img/es/idolstory/me_thesea/3.jpg %}
+{% img /img/es/idolstory/methesea/3.jpg %}
 
 {% bubble Rei %}
 Hellooo? Shinkai-kun~?
@@ -187,7 +187,7 @@ K-Kanataaaa!! What’re you doing bathing in water during the cold season!? You�
 …Hm?
 {% endbubble %}
 
-{% img /img/es/idolstory/me_thesea/cg.jpg %}
+{% img /img/es/idolstory/methesea/cg.jpg %}
 
 {% bubble Kanata v2 %}
 gosh, chiaki, you don’t need to panic so much all the time. please look closely—notice how there’s no water in the pool?

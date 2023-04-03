@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Hinata, Sora, and Mitsuru. Midori has to mention who his friends are in a survey, but he doesn't know who to write down…"
 permalink: making_100_friends_project/
 ---
-![](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M.png)|![](https://static.wikia.nocookie.net/ensemble-stars/images/3/31/%28Bonds_That_Can_Be_Called_Friendship%29_Midori_Takamine_M_Bloomed.png)
+![](/img/es/idolstory/making100friendsproject/c1.jpg)|![](/img/es/idolstory/making100friendsproject/c2^.jpg)
 :-:|:-:
 
 Midori has to mention who his friends are in a survey, but he doesn't know who to write down…
@@ -71,7 +71,7 @@ This story is connected to the card [Bonds That Can Be Called Friendship] Midori
     <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
 </div>
 
-{% img /img/es/idolstory/making_100_friends_project/1.jpg %}
+{% img /img/es/idolstory/making100friendsproject/1.jpg %}
 
 {% bubble Midori %}
 <th>(Crap… I can’t think of any idol I’m close to…)</th>
@@ -145,7 +145,7 @@ W-Whaaa…?
     <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
 </div>
 
-{% img /img/es/idolstory/making_100_friends_project/2.jpg %}
+{% img /img/es/idolstory/making100friendsproject/2.jpg %}
 
 <div class="msr-narration">
     <p>On a day off</p>
@@ -231,7 +231,7 @@ Whaa? Are you for real?
 Let’s move our bodies and laugh until we can’t anymore! Like friends, yeah? ♪
 {% endbubble %}
 
-{% img /img/es/idolstory/making_100_friends_project/3.jpg %}
+{% img /img/es/idolstory/making100friendsproject/3.jpg %}
 
 {% bubble Midori %}
 I-I can’t move anymore…
@@ -278,7 +278,7 @@ Ahaha, then how about we hang out next week, too? ♪ ‘Cause we’re all frien
 {% endbubble %}
 
 {% bubble Midori %}
-*Next week*? Urghh, I *just* said I’d rather do this once in a while…
+*Next week?* Urghh, I *just* said I’d rather do this once in a while…
 
 <th>(Oh yeah, wasn’t there another question that asked what I do on my free days…? I wrote down a safe answer like reading manga and stuff, but—)</th>
 
