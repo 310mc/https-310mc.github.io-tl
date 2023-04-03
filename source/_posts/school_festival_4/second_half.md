@@ -7,6 +7,10 @@ categories:
 - [Enstars, Tetora]
 - [Enstars, Chiaki]
 - [Enstars, Shinobu]
+- [Enstars, Tomoya]
+- [Enstars, Wataru]
+- [Enstars, Sora]
+- [Enstars, Kaoru]
 tags:
 - Event Story
 - Yuuki Yoshino
@@ -26,6 +30,10 @@ hidden: true
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                <a href="/categories/Enstars/Wataru" character="Wataru"></a>
+                <a href="/categories/Enstars/Sora" character="Sora"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -59,7 +67,7 @@ hidden: true
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a>
 
 <div toc>
 {% btn /school_festival_4/first_half,, arrow-left, Previous Chapter: Chapter 1-6 %}

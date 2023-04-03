@@ -60,7 +60,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a>
 
 <div toc>
 {% btn /climax/tears_of_shooting_stars,, arrow-left, Previous Chapter: Tears of Shooting Stars %}

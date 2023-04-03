@@ -7,6 +7,8 @@ categories:
 - [Enstars, Tetora]
 - [Enstars, Chiaki]
 - [Enstars, Shinobu]
+- [Enstars, Kuro]
+- [Enstars, Kaoru]
 tags:
 - Event Story
 - Yuuki Yoshino
@@ -26,6 +28,8 @@ hidden: true
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
                 </div>
             </div>
             <div class="info-item one">

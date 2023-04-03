@@ -58,7 +58,17 @@ hidden: true
 
 <!-- more -->
 
+## Chapter Index
+
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a>
+
 ## Chapter 1
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/ep1_1.jpg %}
 
 {% bubble Midori %}
 …………
@@ -82,7 +92,7 @@ Huh…?
 <th>(Some bad-looking guys are talking to her, I think…? Whaa… Why’re there guys like that in our school…?)</th>
 {% endbubble %}
 
-{% img <th>(School Festival and Show)</th> Midori Takamine CG.png %}
+{% img /img/es/eventstory/schoolfestival4/midoriorigcg.jpg %}
 
 {% bubble Midori %}
 <th>(Wait, no— This isn’t the time to think! I have to go save her…!)</th>
@@ -104,44 +114,44 @@ S-Stop…! Don’t you dare lay a hand on her…!!
 <th>(Maybe I’ve done enough, then… I’m sorry I couldn’t save you heroically, transfer student-san…)</th>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora hidden %}
 Midori-kun!
 {% endbubble %}
 
 {% bubble Midori %}
 <th>(Huh…? That voice… Ah, Nagumo-kun’s here…)</th>
 
-<th>(He’s rushing over here… He’s really just like a hero… ♪)</th>
+<th>(He’s rushing over here… He’s really just like a hero…♪)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Hero Show Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hero Show Stage</span></p>
+</div>
 
-{% img School Festival 4 - Chapter 13 Scene Change.png %}
+{% img /img/es/eventstory/schoolfestival4/ep1_2.jpg %}
 
-{% bubble Heading %}
-Hero show time
-{% endbubble %}
+<div class="msr-narration">
+    <p>Hero show time…</p>
+</div>
 
 {% bubble Chiaki %}
-“The red flames are the mark of justice! Burning bright red, the sun of life! Ryusei Red, Morisawa Chiaki…! ☆”
+“The red flame is the mark of justice! Burning bright red, the sun of life! Ryusei Red, Morisawa Chiaki…! ☆”
 {% endbubble %}
 
 {% bubble Kanata %}
-“The blue flames are the mark of mystery! I have come from the blue sea~♪ Ryusei Blue, Shinkai Kanata… ☆ <th>(*sparkle*)</th>”
+“The blue flame is the mark of mystery! I have come from the blue sea~♪ Ryusei Blue, Shinkai Kanata…☆ <th><em>(sparkle)</em></th>”
 {% endbubble %}
 
 {% bubble Tetora %}
-“The black flames are the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black, Nagumo Tetora…! ☆”
+“The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black, Nagumo Tetora…! ☆”
 {% endbubble %}
 
 {% bubble Shinobu %}
-“The yellow flames are the mark of hope! A single miracle shining into the darkness! Ryusei Yellow! Sengoku Shinobu…! ☆”
+“The yellow flame is the mark of hope! A single miracle shining into the darkness! Ryusei Yellow! Sengoku Shinobu…! ☆”
 {% endbubble %}
 
 {% bubble Midori %}
-“The green flames are the mark of compassion… Healing everyone with things like mascot characters… Ryusei Green, Takamine Midori…”
+“The green flame is the mark of compassion… Healing everyone with things like mascot characters… Ryusei Green, Takamine Midori…”
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -161,7 +171,7 @@ Just earlier, you protected transfer student-dono from the delinquents, did you 
 {% endbubble %}
 
 {% bubble Midori %}
-Urghh… I really wanted to run away back then, though… They were terrifying…
+Ughh… I really wanted to run away back then, though… They were terrifying…
 
 Even I think I managed that way too well… I don’t typically have that much guts in me… Maybe I experienced that thing where you get tremendous courage at any sign of danger…?
 {% endbubble %}
@@ -173,13 +183,13 @@ You were super cool~♪ All the girls had hearts in their eyes!
 {% bubble Midori %}
 Mm~… It’s true that I was the first one to jump in there, but the ones who drove them away were you guys, y’know…?
 
-I’m kinda late on saying this, but thank you, everyone… ♪
+I’m kinda late on saying this, but thank you, everyone…♪
 {% endbubble %}
 
 {% bubble Tetora %}
 No need to thank me! I’d be a disgrace as a man if I were to abandon a comrade in danger!
 
-… I made a huge mistake.
+…I made a huge mistake.
 
 When I heard that Taishou was a delinquent in the past… I thought they were super cool people.
 
@@ -220,7 +230,7 @@ Noooo… I don’t wannaaaaa…
 Oh jeez, Midori-kun! You have been standing out for a while now, so just accept your fate already! Heheh~ I am feeling super excited~♪
 {% endbubble %}
 
-{% img <th>(Delinquent and Hero)</th> Tetora Nagumo CG2.png %}
+{% img /img/es/eventstory/schoolfestival4/tetorabcg.jpg %}
 
 {% bubble Tetora %}
 Ossu! I’m gonna sing as loud as I can!
@@ -259,7 +269,7 @@ But you didn't stop, so that you could save them. You’re a wonderful hero, Nag
 {% endbubble %}
 
 {% bubble Tetora %}
-Like I *said*! Don’t pat my head! Should we even be talking in the middle of our performance, anyway?
+Like I *said!* Don’t pat my head! Should we even be talking in the middle of our performance, anyway?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -273,10 +283,10 @@ That’s not funny! We’ve got little kids here, so they might get bored and le
 {% endbubble %}
 
 {% bubble Chiaki %}
-That would be a shame! In fact, this is a hero show for *kids*! We shouldn’t forget about our purpose here!
+That would be a shame! In fact, this is a hero show for *kids!* We shouldn’t forget about our purpose here!
 {% endbubble %}
 
-{% img <th>(Exciting School Festival)</th> Chiaki Morisawa CG2.png %}
+{% img /img/es/eventstory/schoolfestival4/chiakibcg.jpg %}
 
 {% bubble Chiaki %}
 “Children, watch over our heroic figures! Now then, let’s get this hero show going~!”
@@ -289,7 +299,7 @@ Taichou-dono is performing with so much energy~ He is jumping around while singi
 {% endbubble %}
 
 {% bubble Tetora %}
-Mrmm~ I think he’s got a different amount of stamina from us… It frustrates me to say this, but my performance a second ago took a lot out of me, so I’m gonna stay in the back to recover some of my energy.
+Mmm~ I think he’s got a different amount of stamina from us… It frustrates me to say this, but my performance a second ago took a lot out of me, so I’m gonna stay in the back to recover some of my energy.
 
 I’ll leave the rest to you and Midori-kun.
 {% endbubble %}
@@ -308,7 +318,7 @@ N-No, I’m fine… I’m just gonna stay here where no one can see me…
 <th>(Ahh, but everyone’s having fun performing… This isn’t the right time to be fighting against it, I guess…)</th>
 {% endbubble %}
 
-{% img <th>(School Festival and Show)</th> Midori Takamine CG2.png %}
+{% img /img/es/eventstory/schoolfestival4/midoribcg.jpg %}
 
 {% bubble Midori %}
 <th>(Just what is *up* with today… Every time I don’t wanna stand out, I stand out even more…)</th>
@@ -330,7 +340,7 @@ Huh? W-Why are you calling out to me…? Ah, am I in your way…?
 No, not at all~ The five of us together are Ryuseitai, after all.
 {% endbubble %}
 
-{% img <th>(Enjoyable School Festival)</th> Kanata Shinkai CG2.png %}
+{% img /img/es/eventstory/schoolfestival4/kanatabcg.jpg %}
 
 {% bubble Kanata %}
 People become happy every time we do something. And when people enjoy what we do, we also become happy.
@@ -349,7 +359,7 @@ People become happy every time we do something. And when people enjoy what we do
 
 <th>(A kid just cheered me on… But, that does make me a bit happy, I think…)</th>
 
-<th>(Even I don’t want any of these kids’ smiles ruined… That’s why, I’ll try to work as hard as I can… ♪)</th>
+<th>(Even I don’t want any of these kids’ smiles ruined… That’s why, I’ll try to work as hard as I can…♪)</th>
 
 “♪\~♪\~♪”
 {% endbubble %}

@@ -60,6 +60,11 @@ hidden: true
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                        <a href="/categories/Enstars/Wataru" character="Wataru"></a>
+                        <a href="/categories/Enstars/Sora" character="Sora"></a>
+                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Kuro" character="Kuro"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -284,7 +289,7 @@ hidden: true
                 </div>
               <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
                             <a href="minitalk/chiaki_1" id="none">x</a>
@@ -293,7 +298,7 @@ hidden: true
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -302,7 +307,7 @@ hidden: true
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
@@ -311,7 +316,7 @@ hidden: true
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>
