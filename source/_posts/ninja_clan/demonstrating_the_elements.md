@@ -641,4 +641,4 @@ Scene change to the front stage
 
 [^1]: They're in the same area that appeared in Scroll of the Elements.
 [^2]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
-[^3]: This plushie appears in Midori's [Scroll of the Elements card](https://static.wikia.nocookie.net/ensemble-stars/images/e/ec/%28Healing_Ninja%29_Midori_Takamine.png).
+[^3]: This plushie appears in Midori's [Scroll of the Elements card](https://ensemble-stars.fandom.com/wiki/%28Healing_Ninja%29_Midori_Takamine).
