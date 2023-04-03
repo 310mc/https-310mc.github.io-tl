@@ -572,7 +572,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             alt="Something Dubious in the Library"
         />
     </div>
-    <a href="https://euni2319.wordpress.com/2020/10/26/something-dubious-in-the-library/" class="storyName" target="_blank">
+    <a href="/something_dubious_in_the_library/" class="storyName" target="_blank">
         <span>Something Dubious in the Library</span>
         <span class="read"></span>
     </a>
@@ -584,7 +584,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             alt="Always Hold a Heroic Heart"
         />
     </div>
-    <a href="https://euni2319.wordpress.com/2020/09/10/always-hold-a-heroic-heart/" class="storyName" target="_blank">
+    <a href="/always_hold_a_heroic_heart/" class="storyName" target="_blank">
         <span>Always Hold a Heroic Heart</span>
         <span class="read"></span>
     </a>

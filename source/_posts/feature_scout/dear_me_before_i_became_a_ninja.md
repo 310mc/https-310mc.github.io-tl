@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Dear Me, Before I Became a Ninja"
-date: 2021-11-27 9:00:00
+date: 2020-9-10 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Shinobu]
@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tsukasa and Tetora. TBA…"
+description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tsukasa and Tetora. Shinobu tries to figure out the perfect personalized outfit for himself…"
 permalink: dear_me_before_i_became_a_ninja/
 hidden: true
 ---
@@ -17,9 +17,9 @@ hidden: true
 ![](/img/es/idolstory/dearmeninja/c1.jpg)|![](/img/es/idolstory/dearmeninja/c2.jpg)
 :-:|:-:
 
-TBA…
+Shinobu tries to figure out the perfect personalized outfit for himself…
 
-This story is connected to the card [] Shinobu Sengoku.
+This story is connected to the card [Light Beaming from the Darkness] Shinobu Sengoku.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -75,79 +75,79 @@ This story is connected to the card [] Shinobu Sengoku.
 {% img /img/es/idolstory/dearmeninja/1.jpg %}
 
 {% bubble Shinobu %}
-<th>(Shu-tatatata… I’ve arrived♪)</th>
+<th>(Shu-tatatata… I’ve made it~♪)</th>
 
-<th>(It seems like Anzu-dono’s not here yet. There’s still some time before we have to meet, so I’ll just wait for her on the bench.)</th>
+<th>(It seems like Anzu-dono’s not here yet. There’s still some time before we have to meet, so I will wait for her on the bench.)</th>
 
 <th>(It’s my turn to get a personalized outfit at last. I’m so happy, I can’t stop grinning~)</th>
 
 <th>(A one and only special outfit made just for *me*… Mhm, sounds amazing!)</th>
 
-<th>(I’m really looking forward to seeing how it’ll turn out!)</th>
+<th>(I’m really looking forward to seeing how it will turn out!)</th>
 
 Ah, it’s Anzu-dono! Heeey, Anzu-dono~☆ I’m over here~
 
-Come, come, sit next to me! …Oh no, I also just got here.
+Come, come, sit next to me! …Oh, no, I also just got here.
 
-The weather today is really nice, I should've brought my lunchbox with me. It would’ve felt like a picnic since we’re in the Hanging Gar—
+The weather today is really nice, I should have brought my lunchbox with me. It would have felt like a picnic since we’re in the Floating Gar—
 
 Ah, forgive me. I strayed off topic.
 
-We’re going to talk about my personalized outfit, right? I assure you that I did *not *forget!
+We are going to talk about my personalized outfit, right? I assure you that I did *not* forget!
 
-But I don’t know how the procedure works. If it’s alright, would you please teach me~?
+But I do not know how the procedure works. If it’s alright, would you please teach me~?
 
 …Wow, you even prepared a design idea notebook for me?
 
-Okay! I’ll take a look right away. Let’s see…♪
+Okay! I will take a look right away. Let’s see…♪
 {% endbubble %}
 
-{% bubble Heading %}
-— 10 minutes later —
-{% endbubble %}
+<div class="msr-narration">
+    <p>10 minutes later…</p>
+</div>
 
 {% bubble Shinobu %}
 Hmm~, all of these design ideas can be summed up with one word: brilliant!
 
 To think you had this much data on ninjas… Are you perhaps a ninja lover as well, Anzu-dono?
 
-You’re not, but you *did* prepare all of this for my sake? Even though you’re so busy… I’m extremely grateful!
+You are not, but you *did* prepare all of this for my sake? Even though you’re so busy… I’m extremely grateful!
 
 Mhm, I agree. I also think the ninja motifs are great. You sure understand me well~♪
 
-I can’t wait for the finished product. I’m excited to see what kind of ninja attire it’ll turn out to be♪
+I cannot wait for the finished product. I’m excited to see what kind of ninja attire it will turn out to be♪
 
 …Huh? You want *my* opinion…?
 
-I wouldn’t know what to add to this, though. All of your design suggestions were very detailed and perfect already, so—
+I would not know what to add to this, though. All of your design suggestions were very detailed and perfect already, so—
 
-It’s not perfect since you have yet to implement my request into the design, you say? I see… Hmmm~…
+It isn’t perfect since you have yet to implement my request into the design, you say? I see… Hmmm~…
 
-I wish for the outfit to be ninja-like, so I don’t have any other desires beyond that… Hmmm, it’s hard to give you an immediate answer.
+I wish for the outfit to be like a ninja, so I do not have any other desires beyond that… Hmmm, it is hard to give you an immediate answer.
 
 …You want me to carefully think about it with the rough sketch you plan to make?
 
-Understood! It’ll be easier for me to visualise what I want if I have a drawing, so that would be very helpful.
+Understood! It’ll be easier for me to visualize what I want if I have a drawing, so that would be very helpful.
 
-I’m looking forward to the rough sketch~. Well then, Anzu-dono, I’ll leave it to you!
+I’m looking forward to the rough sketch~. Well then, Anzu-dono, I shall leave it to you!
 {% endbubble %}
 
-{% note location %}
-**Location:** Staff Cafeteria
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Staff Cafeteria</span></p>
+</div>
 
-{% img Shinobu Sengoku Dear me 1 Scene Change.png %}
+{% img /img/es/idolstory/dearmeninja/2.jpg %}
 
-{% bubble Heading %}
-— Hours later —
-{% endbubble %}
+<div class="msr-narration">
+    <p>Hours later…</p>
+</div>
 
 {% bubble Shinobu %}
 Hmhmhm\~♪ My own\~ personalized outfit\~♪ Hmhmhm\~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-You sound like you’re in a good mood, huh~? Hope you don’t mind me sitting here.
+You sound like you’re in a good mood, huh~? Hope you don’t mind me sittin’ here.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -169,15 +169,15 @@ You said it yourself— Or well, you were humming a song, y’know? Going all, �
 {% endbubble %}
 
 {% bubble Shinobu %}
-R-really? I didn’t realize I was doing that… Uuu, so embarrassing~
+R-really? I did not realize I was doing that… Uuu, so embarrassing~
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, you’re just that happy about it, so it makes sense. It’s your very own outfit, after all!
+Ahaha, you’re just that happy 'bout it, so it makes sense. It’s your very own outfit, after all!
 
 There’s a ton of idols in here, so it doesn’t really hit home when the topic of “personalized outfits” comes up, but…
 
-Now that you, a member of Ryuseitai, have been chosen as the next idol, it’s finally hitting me that this really is happening. I’m excited for the day I’m chosen to be up next—☆
+Now that you, a member of Ryuseitai, have been chosen as the next idol, it’s finally hittin’ me that this really is happening. I’m excited for the day I’m chosen to be up next! ☆
 
 Speaking of, what’s yours gonna be like? I’m guessing something ninja-like?
 {% endbubble %}
@@ -185,7 +185,7 @@ Speaking of, what’s yours gonna be like? I’m guessing something ninja-like?
 {% bubble Shinobu %}
 Yes! Actually—
 
-Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a minute, Tetora-kun.
+Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a moment, Tetora-kun.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -197,7 +197,7 @@ Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a minute, Tetora-
 
 <th>(It’s a splendid ninja attire design that suits me well. I feel like this is good enough, and there’s no point in me pondering anymore about it.)</th>
 
-<th>(However, Anzu-dono sought out my opinion. I wonder if it’ll trouble her instead if I say *nothing* at all…?)</th>
+<th>(However, Anzu-dono sought out my opinion. I wonder if it will trouble her instead if I say *nothing* at all…?)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -209,7 +209,7 @@ The truth is, I received a rough sketch of my personalized outfit from Anzu-dono
 {% endbubble %}
 
 {% bubble Tetora %}
-Ohhh~ The design isn’t *just* ninja-themed, it’s even showing off what makes you *you*. You can really tell this is one of Anzu-anego’s designs!
+Ohhh~ The design isn’t *just* ninja-themed, it’s even showing off what makes you *you*. You can really tell this is one of Anzu-Anego’s designs!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -227,37 +227,19 @@ And that fortitude reminds me of the time you jumped through a ring of fire; tha
 {% bubble Shinobu %}
 Hehehe, you’re going to make me blush~. You really do pay close attention to me, don’t you? ♪
 
-<th>(It’s not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)</th>
+<th>(It is not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)</th>
 
 <th>(Everyday is a blessing — I want to tell that to my past self[^1], who was all alone…)</th>
 
 <th>(I want to tell him that it’s okay to love what you love. Because people who will accept that about you are definitely out there in the world.)</th>
 
-<th>(Because a place where you can voice that love of yours so loudly is too.)</th>
+<th>(Because a place where you can voice that love of yours so loudly is out there, too.)</th>
 
-<th>(I am proof of that. Because I refused to abandon my dreams, this Shinobu Sengoku is able to stand here right now.)</th>
+<th>(I am proof of that. Because I refused to abandon my dreams, this Sengoku Shinobu is able to stand here right now.)</th>
 
 <th>(If I can convey that to the people who are like my past self by wearing this ninja attire—)</th>
 
 …Ah, that’s it!
-
-Originally, the title was *katsute no boku e* <th>(かつての『ぼく』へ)</th>, lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
-{% endbubble %}
-
-{% bubble Translation %}
-[https://twitter.com/tsubasafl TsubasaFL] &amp; [https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/ euni2319]
-{% endbubble %}
-
-{% bubble Proofreading %}
-[https://twitter.com/yoroshikilled Peace]
-{% endbubble %}
-
-{% bubble Writer %}
-ゆーます <th>(Yuumasu)</th>
-{% endbubble %}
-
-{% bubble Requirement %}
-Unlock in [[<th>(Light Beaming from the Darkness)</th> Shinobu Sengoku]]'s Idol Road
 {% endbubble %}
 
 {% img Shinobu Sengoku Dear me 2.png %}
@@ -411,5 +393,7 @@ Thank you for always watching over me. Because you and my comrades are here for 
 {% endbubble %}
 
 ## Translation Notes
+Originally, the title was *katsute no boku e* (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
+
 [^1]: He refers to his past self with *boku* instead of *sessha*, the first-person pronoun Shinobu usually uses. *boku* is a common first-person pronoun for boys, but *sessha* is a first-person pronoun specifically known to be used by ninjas.
 [^2]: Tsudzura (葛籠): A traditional Japanese lacquer wicker basket made with bamboo and lined with Japanese washi paper. It comes with a lid and is shaped like a box.

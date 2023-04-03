@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Something Dubious in the Library"
-date: 2021-11-27 9:00:00
+date: 2020-10-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -9,15 +9,14 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hajime and Tsumugi. TBA…"
+description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hajime and Tsumugi. Chiaki wants to borrow a new book, and ends up finding a suspicious-looking book…"
 permalink: something_dubious_in_the_library/
-hidden: true
 ---
 
 ![](/img/es/idolstory/somethinglibrary/c1.jpg)|![](/img/es/idolstory/somethinglibrary/c2.jpg)
 :-:|:-:
 
-TBA…
+Chiaki wants to borrow a new book, and ends up finding a suspicious-looking book…
 
 This story is connected to the card [Untitled Book] Chiaki Morisawa.
 
@@ -125,7 +124,7 @@ You’re welcome. Feel free to ask me for help anytime.
 
 <th>(There’s a strange book here… It's got a pitch-black leather cover — it looks expensive. And is this pattern on the front cover a magic circle…?)</th>
 
-Mmrm, this doesn’t seem right… What on earth is this book?
+Mmm, this doesn’t seem right… What on earth is this book?
 {% endbubble %}
 
 {% bubble Hajime %}
