@@ -11,7 +11,6 @@ tags:
 - Yuumasu
 description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tsukasa and Tetora. Shinobu tries to figure out the perfect personalized outfit for himself…"
 permalink: dear_me_before_i_became_a_ninja/
-hidden: true
 ---
 
 ![](/img/es/idolstory/dearmeninja/c1.jpg)|![](/img/es/idolstory/dearmeninja/c2.jpg)
@@ -242,35 +241,33 @@ Hehehe, you’re going to make me blush~. You really do pay close attention to m
 …Ah, that’s it!
 {% endbubble %}
 
-{% img Shinobu Sengoku Dear me 2.png %}
+## Chapter 2
 
-{% bubble Season %}
-Summer <th>(夏)</th>
-{% endbubble %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dormitory Library</span></p>
+</div>
 
-{% note location %}
-**Location:** Dormitory Library
-{% endnote %}
+{% img /img/es/idolstory/dearmeninja/3.jpg %}
 
 {% bubble Shinobu %}
-Hmm. As expected, no one’s around when it’s this late at night.
+Hmm. As I expected; nobody is around when it is this late at night.
 
 I won’t be in anyone’s way if I do it here. After all, it’d be inexcusable to scatter things around in the room and make a mess this late.
 
-Heave-ho… Alright then, it’s time to open this wicker box[^2] of memories♪
+Heave-ho… Alright then, it’s time to open this wicker box[^2] of memories~♪
 
-Nihihi. These photos and handmade picture scrolls really bring me back. I didn’t have a master or any ninja companions, so I had to learn everything through imitation at first.
+Nihihi. These photos and handmade picture scrolls really bring me back. I did not have a master or any ninja companions, so I had to learn everything through imitation at first.
 
 I would constantly practice throwing origami shuriken at the tree everyday, even though they can’t pierce into anything at all…
 
 And the very first item I bought with my own money is this shuriken toy — the thing that started everything.
 
-Mm— I can feel a presence…!
+Mm—! I can feel a presence…!
 {% endbubble %}
 
-{% bubble Heading %}
-— Fades to black for a moment —
-{% endbubble %}
+<div class="msr-narration">
+    <p>Fades to black for a moment…</p>
+</div>
 
 {% bubble Shinobu %}
 <th>(Phew, that was close. To think that someone would come here during this time of the night…)</th>
@@ -279,13 +276,13 @@ Mm— I can feel a presence…!
 {% endbubble %}
 
 {% bubble Tsukasa %}
-Good lord. Neglecting to return a book is so ill-mannered. And it just *had* to be under my name, too…
+Goodness' sake… Neglecting to return a book is so ill-mannered. And it just *had* to be under my name, too…
 {% endbubble %}
 
 {% bubble Shinobu %}
 <th>(This voice sounds like Suou-kun. Hmm, I see — it seems like he’s here to return a book.)</th>
 
-<th>(I feel awkward staying hidden, but this doesn’t seem to be the right mood for a conversation, so I’ll stay still and wait until he leaves.)</th>
+<th>(I feel awkward staying hidden, but this does not seem to be the right mood for a conversation, so I’ll stay still and wait until he leaves.)</th>
 
 <th>(…Wahhh!? Oh no, I left my box on the floor! If he discovers it, he’ll immediately find it suspicious. I must quickly retrieve it—)</th>
 
@@ -295,11 +292,11 @@ Good lord. Neglecting to return a book is so ill-mannered. And it just *had* to 
 {% bubble Tsukasa %}
 Oh? There’s a strange box here—
 
-Eep! A hand came out of the bookshelf— Don’t tell me it’s a ghost…!?
+Eeep! A hand came out of the bookshelf— Don’t tell me it’s a ghost…!?
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ahh~! It’s not a ghost, it’s me!
+Ahh~! It is not a ghost, it’s me!
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -313,7 +310,7 @@ I was surprised by your approaching presence and hid myself out of habit. I apol
 {% endbubble %}
 
 {% bubble Tsukasa %}
-Oh, so that’s what this box was. This origami shuriken that fell down— is this one of your treasured items as well?
+Oh, so that’s what this box was. This origami shuriken that fell down — is this one of your treasured items, as well?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -325,11 +322,11 @@ You’re welcome. You’ve always had dexterous hands, I see.
 {% endbubble %}
 
 {% bubble Shinobu %}
-Back in those days, I had no choice but to make them myself~. So most of the things in this box are handmade~♪
+Back in those days, I had no choice but to make them myself\~. So most of the things in this box are handmade\~♪
 {% endbubble %}
 
 {% bubble Tsukasa %}
-Marvelous! There are so many ninja-related items in here… I can tell that you truly do not give up when it comes to the values you have, as well as where you individuality is concerned — how splendid~♪
+Marvelous! There are so many ninja-related items in here… I can tell that you truly do not give up when it comes to the values you have, as well as where you individuality is concerned — How splendid. ♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -339,7 +336,7 @@ Me? Splendid?
 {% bubble Tsukasa %}
 Yes, very much so. People always keep their interests and ambitions deep within their heart.
 
-However, not everyone can make their dream come true. It’s not uncommon for people to give up halfway.
+However, not everyone can make their dream come true. It is not uncommon for people to give up halfway.
 
 Yet you were able to continue staying the way you wished to be. Your level of persistence is not of the ordinary.
 {% endbubble %}
@@ -356,15 +353,15 @@ Fufu, that’s the spirit~♪
 Ahh, but please do refrain from startling people like you did earlier.
 {% endbubble %}
 
-{% note location %}
-**Location:** StarPro Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> StarPro Office</span></p>
+</div>
 
-{% img Shinobu Sengoku Dear me 2 Scene Change.png %}
+{% img /img/es/idolstory/dearmeninja/4.jpg %}
 
-{% bubble Heading %}
-— The next day —
-{% endbubble %}
+<div class="msr-narration">
+    <p>The next day…</p>
+</div>
 
 {% bubble Shinobu %}
 Anzu-dono, I apologize for asking you to come here so suddenly. But I have something that I *really* want to give you…
@@ -372,28 +369,28 @@ Anzu-dono, I apologize for asking you to come here so suddenly. But I have somet
 Since you’re making my personalized outfit for me, I want you to accept this!
 {% endbubble %}
 
-{% img <th>(Light Beaming from the Darkness)</th> Shinobu Sengoku CG.png %}
+{% img /img/es/idolstory/dearmeninja/cg.jpg %}
 
 {% bubble Shinobu %}
-This plastic shuriken clearly looks like a toy and has scratches all over, but it’s also the *very* first item I bought with my own pocket money— it’s my dearest treasure.
+This plastic shuriken clearly looks like a toy and has scratches all over, but it is also the *very* first item I bought with my own pocket money — it is my dearest treasure.
 
 This simple toy is proof of how that tiny first-step I took in the past has helped to make me the ninja I am now.
 
 I’m still inexperienced, so this might be an aspiration beyond my capabilities right now—
 
-But I want to become a heroic ninja— one that can be the “light of hope” to people who have things they love, yet who are afraid of turning that love into a dream they can hold.
+But I want to become a heroic ninja — one that can be the “light of hope” to people who have things they love, yet who are afraid of turning that love into a dream they can hold.
 
 That’s why I want to add a large shuriken like this one to the design you made, Anzu-dono! So that all of those people can easily spot it!
 
 So everyone can see how I daringly chase after my own dreams—!
 
-…Ehehe. I knew you would say that. I’m counting on you, Anzu-dono♪
+…Ehehe. I knew you would say that. I’m counting on you, Anzu-dono~♪
 
 Thank you for always watching over me. Because you and my comrades are here for me, I am able to truly live my life…♪
 {% endbubble %}
 
 ## Translation Notes
-Originally, the title was *katsute no boku e* (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
+Originally, the story title was *katsute no boku e* (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
 
 [^1]: He refers to his past self with *boku* instead of *sessha*, the first-person pronoun Shinobu usually uses. *boku* is a common first-person pronoun for boys, but *sessha* is a first-person pronoun specifically known to be used by ninjas.
 [^2]: Tsudzura (葛籠): A traditional Japanese lacquer wicker basket made with bamboo and lined with Japanese washi paper. It comes with a lid and is shaped like a box.

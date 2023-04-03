@@ -529,7 +529,7 @@ I feel calm whenever I look at plants, and it won’t cost me a penny… It’s 
 {% endnote %}
 
 {% bubble Midori %}
-*Haah… phew…♪*
+<em><th>(Breathes in and out)</th></em> Haah… phew…♪
 
 Maybe I was right to go with this idea… The air feels so nice… I haven’t had the time to take a stroll like this lately.
 

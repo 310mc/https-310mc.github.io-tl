@@ -291,7 +291,7 @@ permalink: school_festival_4/
                         </li>
                     </ul>
                 </div>
-              <div class="mini-talks">
+              <!--<div class="mini-talks">
                     <div class="mini-talk">
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
@@ -328,7 +328,7 @@ permalink: school_festival_4/
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>

@@ -331,7 +331,7 @@ Umm… Could I do it?
 {% endbubble %}
 
 {% bubble Chiaki %}
-What’s wrong, Nagumo!? Aren’t you always saying how you want to be a man among men!?
+What’s wrong, Nagumo!? Aren’t you always saying how you want to become a man among men!?
 
 Why would you want to be a delinquent…!?
 {% endbubble %}

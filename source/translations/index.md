@@ -608,7 +608,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             alt="Dear me, Before I Became a Ninja"
         />
     </div>
-    <a href="https://euni2319.wordpress.com/2020/09/13/dear-me-before-i-became-a-ninja/" class="storyName" target="_blank">
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
         <span>Dear me, Before I Became a Ninja</span>
         <span class="read"></span>
     </a>
