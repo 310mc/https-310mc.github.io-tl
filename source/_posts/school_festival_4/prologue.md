@@ -52,6 +52,12 @@ hidden: true
 
 <!-- more -->
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/prologue.jpg %}
+
 {% bubble Tetora %}
 Ossu! Nagumo Tetora, comin' in!
 {% endbubble %}

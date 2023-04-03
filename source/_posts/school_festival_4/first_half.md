@@ -59,7 +59,7 @@ hidden: true
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
 {% btn /school_festival_4/prologue,, arrow-left, Previous Chapter: Prologue %}
@@ -69,9 +69,15 @@ hidden: true
 
 ## Chapter 1
 
-{% bubble Heading %}
-The next day — After school
-{% endbubble %}
+<div class="msr-location">
+    <p><span><b>Location:</b> AV Room</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/1_1.jpg %}
+
+<div class="msr-narration">
+    <p>The next day — After school…</p>
+</div>
 
 {% bubble Chiaki %}
 Alright, glad to see you’re all here!
@@ -221,8 +227,6 @@ If we’re also going to do patrolling, then we’ll need to assign roles. Let�
 
 ## Chapter 2
 
-{% img School Festival 4 - Chapter 3.png %}
-
 {% bubble Tetora %}
 Ermm, we have five people, so… Are we splitting up into a team with three people, and the other one with two?
 {% endbubble %}
@@ -343,8 +347,6 @@ And anyway, it’s not like I suddenly lost sight of my whole “man among men�
 
 ## Chapter 3
 
-{% img School Festival 4 - Chapter 4.png %}
-
 {% bubble Chiaki %}
 Alright. I thought we'd have the most trouble with this, but we've quickly settled the delinquent role, so what's left are the heroes and the victim!
 
@@ -411,10 +413,15 @@ Hm? “Yes, I’d like to help if you need it”? Thank you, transfer student!
 We’ve got ourselves someone for the victim role! It’s time for the role everyone’s been waiting for — The heroes! Heheh, I’m excited to see who’ll get to be this one~♪
 {% endbubble %}
 
+<div class="msr-location">
+    <p><span><b>Location:</b> At the Fountain</span></p>
+</div>
 
-{% bubble Heading %}
-A few days later — After school
-{% endbubble %}
+{% img /img/es/eventstory/schoolfestival4/3_1.jpg %}
+
+<div class="msr-narration">
+    <p>A few days later — After school…</p>
+</div>
 
 {% bubble Tetora %}
 Midori-kuuun! Over here, c’mon~!
@@ -502,8 +509,10 @@ Transfer student-san…♪ I’m so glad you’re here… Nagumo-kun pushed on m
 
 ## Chapter 4
 
+{% img /img/es/eventstory/schoolfestival4/4_1.jpg %}
+
 {% bubble Tetora %}
-Yo, yo. Lady, why don’t ya come over with me a lil’?
+Yo, yo. Lady, why don’t ya come over with me a li’l?
 
 Huh? “Where are we going”? Uhh… To the school store, I guess?
 
@@ -531,7 +540,7 @@ Whaa… *You're* the one who went along with what she said…
 {% bubble Tetora %}
 I-I just, y’know, accidentally got pulled in… Look, it doesn’t matter! We’re starting over again!
 
-Yo, yo. Lady, why don’t ya come over with me a lil’?
+Yo, yo. Lady, why don’t ya come over with me a li’l?
 
 Whaaa—!?? W-Why’re you grabbing my hand!? Please stop! I dunno how to deal with physical contact with girls~!
 
@@ -670,9 +679,15 @@ We’ve both gotten roles we’re not used to, but let’s work as best as we ca
 
 ## Chapter 5
 
-{% bubble Heading %}
-Day of the school festival
-{% endbubble %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/5_1.jpg %}
+
+<div class="msr-narration">
+    <p>Day of the school festival…</p>
+</div>
 
 {% bubble Shinobu %}
 Ah— Taichou-dono! Good morning~♪
@@ -697,7 +712,7 @@ Ahh, I met him on the way here, so we came together.
 {% endbubble %}
 
 {% bubble Kanata %}
-Good mooorning~…♪
+good mooorning~…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -719,6 +734,12 @@ Woohoo\~! Can’t wait\~♪ This is my first time getting in one, so I’m reall
 {% bubble Chiaki %}
 Now then, the truck’s this way. Everyone, follow me…☆
 {% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds (Food Truck)</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/5_2.jpg %}
 
 {% bubble Chiaki %}
 You guys are looking great!
@@ -743,7 +764,7 @@ Same with the transfer student… I was really unsure of what to do at first, so
 {% endbubble %}
 
 {% bubble Kanata %}
-<em><th>(Sniff, sniff)</th></em>… i smell fish\~♪ excuse me while i go buy some\~♪
+<em><th>(sniff, sniff)</th></em>… i smell fish\~♪ excuse me while i go buy some\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -777,7 +798,7 @@ Right, and we’re off! We’ll protect Yumenosaki Academy’s peace…♪
 {% endbubble %}
 
 {% bubble Midori %}
-……
+…………
 
 <th>(Ughhh, they all left… And now I’m all alone with Shinkai-senpai…)</th>
 
@@ -855,6 +876,12 @@ And that customer wants cotton candy and grape juice… Huh? Apple juice, too…
 {% endbubble %}
 
 ## Chapter 6
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Terrace</span></p>
+</div>
+
+{% img /img/es/eventstory/schoolfestival4/6_1.jpg %}
 
 {% bubble Shinobu %}
 Garden Terrace, all clear. I shall proceed onwards to the next area!
@@ -998,700 +1025,6 @@ Shinkai-dono, I shall return with you. It is probably time for us to switch plac
 It is that time already~? Transfer student-san, we will be off now.
 
 Please do enjoy the school festival. *Puka, puka*…♪
-{% endbubble %}
-
-## Chapter 7
-
-{% bubble Chiaki %}
-The running grounds is also clear!
-
-Heheh, walkie-talkies are so convenient~♪ This is fun, it’s kinda like we’re in an undercover investigation…☆
-{% endbubble %}
-
-{% bubble Tetora %}
-Yo, yo. Lady, why don’t ya come over with me a lil’?
-{% endbubble %}
-
-{% bubble Chiaki %}
-Mm—!? W-What’s wrong, Nagumo? I’m not a lady, and your face is kinda scaring me…
-{% endbubble %}
-
-{% bubble Tetora %}
-*Huuuh*? Quit your yappin’ and come with me already. Just drop everythin’ you’re doin’ and flirt with me, alright?
-{% endbubble %}
-
-{% bubble Chiaki %}
-F-F-F-Flirt!? Nagumo, what happened with you!? Did you accidentally eat something weird!?
-{% endbubble %}
-
-{% bubble Tetora %}
-Uh, no, I didn’t. I’m just rehearsing for my role.
-
-Honestly, I don’t really feel like I’m grasping it yet… Just what *is* a cool delinquent…
-{% endbubble %}
-
-{% bubble Chiaki %}
-Ah, that’s what it was… I'm happy to see you working this hard for your role, but I prefer the usual you.
-{% endbubble %}
-
-{% bubble Tetora %}
-Oh, I know! Taichou, you’ve known Taishou for a long time, right? Could you tell me what he was like back then? Please!
-{% endbubble %}
-
-{% bubble Chiaki %}
-B-Back then…? Why would you want to know that all of a sudden?
-
-Mmm… I think it’s better if you ask him, not me.
-{% endbubble %}
-
-{% bubble Tetora %}
-He’ll just avoid the question if I did~
-
-Well, whatever. I’m sure Taishou as a delinquent was as super duper cool as he is right now!
-{% endbubble %}
-
-{% img <th>(Delinquent and Hero)</th> Tetora Nagumo CG.png %}
-
-{% bubble Tetora %}
-‘Kay, I glare like this, and… Hey, hey! What d’you think you’re lookin’ at!? This ain’t here for show~!
-
-Guuuh\~!! That was just like a delinquent! Studying all those mangas with delinquents really came in handy\~♪
-{% endbubble %}
-
-{% bubble Chiaki %}
-…………
-{% endbubble %}
-
-{% bubble Tomoya %}
-UAAAHHHH—!?
-{% endbubble %}
-
-{% bubble Tetora %}
-A-A scream…!? Taichou, I think there’s trouble afoot!
-{% endbubble %}
-
-{% bubble Chiaki %}
-Yeah, I think I heard it from that side! We have to hurry, quick!
-{% endbubble %}
-
-{% bubble Tomoya %}
-S-Stop! Don’t come any closer, pervert~!
-{% endbubble %}
-
-{% bubble Wataru %}
-I’m not a pervert, I’m your stepmother.
-
-*Fufufu!* It may have arrived late, but Cinderella had her own rebellious stage, after all~ How wonderful! Tonight we’ll be having red bean rice to celebrate…☆
-{% endbubble %}
-
-{% bubble Tomoya %}
-I told you not to come any closer—!! It’s grooooooss~!!
-{% endbubble %}
-
-{% bubble Wataru %}
-It’s human nature to chase after anything that runs away! Ahahahahaha!! ☆
-{% endbubble %}
-
-{% bubble Tomoya %}
-You’re making no sense! That’s only you, isn’t it!?
-
-…Hm? Tetora?
-{% endbubble %}
-
-{% bubble Tetora %}
-Oh, what… It’s just you, Tomoya-kun.
-{% endbubble %}
-
-{% bubble Tomoya %}
-W-Why are you so disappointed!? Oh c’mon~ That’s kinda rude, don’t you think?
-{% endbubble %}
-
-{% bubble Tetora %}
-Ah, yeah… Sorry.
-
-Huh? You’re in a girl’s outfit?
-{% endbubble %}
-
-{% bubble Tomoya %}
-Yeah, we have our club’s play soon. What about you? What’re you doing here?
-{% endbubble %}
-
-{% bubble Tetora %}
-We’re patrolling around the area. We heard a scream and rushed over, but it’s just the usual thing with you, so there doesn’t seem to be any problems.
-{% endbubble %}
-
-{% bubble Tomoya %}
-No, no! There’s plenty of problems here, y’know!?
-{% endbubble %}
-
-{% bubble Chiaki %}
-It’s almost time for the Drama Club’s play, huh… Ah, Kiryu was going to be in it too, wasn’t he? Nagumo, I’m sure you want to go see him, so you’re free to do so.
-{% endbubble %}
-
-{% bubble Tetora %}
-I badly wanna, but Taishou told me to prioritize my work, so~ I’m gonna hold it in!
-
-Guuh~! I would’ve loved to see his awesome figure at least once, though!
-{% endbubble %}
-
-{% bubble Tomoya %}
-Oh, then I could ask him for a picture while we’re in the dressing room.
-{% endbubble %}
-
-{% bubble Tetora %}
-Really!? You’re such a nice guy, Tomoya-kun~♪
-{% endbubble %}
-
-{% bubble Tomoya %}
-Don’t sweat it, we’re friends.
-
-…Alright, it’s about time I go. See ya, Tetora. Good luck on your side~♪
-{% endbubble %}
-
-{% bubble Tetora %}
-Back at ya! I can’t watch the play, but I’m cheering for you!
-{% endbubble %}
-
-## Chapter 8
-
-{% bubble Tetora %}
-Heeey, Midori-kun! Shinkai-senpai!
-
-Woah— What’s with this queue!? It’s only this area that’s crowded — What’s going on!?
-{% endbubble %}
-
-{% bubble Chiaki %}
-I’m not sure, but it’s going to be hard for only the two of them to deal with this many customers. We have to go and help them!
-
-Excuse me! Please, let us pass through!
-
-Thank you very much…☆ Are you alright, Takamine? You look exhausted. Go and take a rest on that chair!
-{% endbubble %}
-
-{% bubble Midori %}
-M-Morisawa-senpai…? And Nagumo-kun came back, too…
-
-Y-You saved me… I almost lost all hope in this world and was ready to die…
-{% endbubble %}
-
-{% bubble Tetora %}
-I’m glad we made it in time, then! But I don’t see Shinkai-senpai anywhere… Where’d he go?
-{% endbubble %}
-
-{% bubble Midori %}
-That’s what *I* wanna know… He disappeared before I knew it, so I’ve been tending the truck all by myself… I feel like I’m dying inside…
-
-I worked this hard, so there’s no problem with me heading straight to my death, right…? ♪
-{% endbubble %}
-
-{% bubble Tetora %}
-You can’t give up now! If you’re a man, then you gotta show all your guts and pump yourself back up!
-{% endbubble %}
-
-{% bubble Kanata %}
-I am back~♪
-{% endbubble %}
-
-{% bubble Chiaki %}
-Kanata! Just where were you?
-{% endbubble %}
-
-{% bubble Kanata %}
-Hm\~ I was rehydrating myself. I am now in full energy\~♪
-
-…Oh? Midori, you look exhausted. It is all because I left you alone with the truck… I am very sorry.
-{% endbubble %}
-
-{% bubble Chiaki %}
-Oh jeez, I *told* you to avoid going off on your own…
-
-Well, you seem to have learnt your lesson now, so I won’t say anything else. Just be careful next time!
-{% endbubble %}
-
-{% bubble Shinobu %}
-Taichou-dono! Shinkai-dono has fulfilled his heroic task wonderfully!
-
-Transfer student-dono and I saw it ourselves! Ahh, but she had something to do, so she is not here right now.
-
-He magnificently dropped a chop on someone who was trying to play around with her~ Heh! ♪
-{% endbubble %}
-
-{% bubble Chiaki %}
-That so!? I see, he’s also growing to become a member of Ryuseitai, one step at a time! Hahaha!! ☆
-
-Right! Now that Kanata and Sengoku are here, everybody listen up while we're serving our customers!
-
-Nagumo, Sengoku, and I will tend the truck, so Kanata and Takamine should head out and patrol.
-
-And so! You two go now! Leave this place to us!
-{% endbubble %}
-
-{% bubble Kanata %}
-Midori~ Will you be okay? I will work hard in patrol work to make up for the time I left you alone.
-{% endbubble %}
-
-{% bubble Midori %}
-Um, no… Who knows what’ll happen if I leave that to you…
-
-Let’s go change for now… Not that I really wanna, since it’d just make me stand out…
-{% endbubble %}
-
-{% bubble Chiaki %}
-Ah, wait! Do you know everything that you’re supposed to do from here on?
-
-We won’t have enough time to discuss anything about our hero show, so this is the perfect chance to ask me anything you’re not sure of.
-
-Good luck on your skit, you three! Sengoku and I will be watching over you together!
-
-That’s all from me. Right then, it’s time to fulfill our duties…☆
-{% endbubble %}
-
-## Chapter 9
-
-{% bubble Midori %}
-<th>(*Sigh*… I’m finally done with tending the truck, but now I’ve gotta deal with all this hero show and skit stuff… Ughhh, this is soooo depressiiiing…)</th>
-
-…Hm?
-
-<th>(W-What!? Shinkai-senpai’s gone again…!)</th>
-
-<th>(Whaaa… Morisawa-senpai *just* told him off, why’s he still doing this…!?)</th>
-
-<th>(H-He shouldn’t be that far… hopefully!)</th>
-
-<th>(Ahh man, why do I have to deal with all of this…!)</th>
-{% endbubble %}
-
-{% bubble Chiaki %}
-Welcome! What would you like?
-
-Okay, one cotton candy! Please wait one moment…☆
-{% endbubble %}
-
-{% bubble Shinobu %}
-Taichou-dono is handling this wonderfully… Does he have experience in serving customers?
-{% endbubble %}
-
-{% bubble Tetora %}
-Who knows~ Oh, did you prepare the juices for our customer, by the way?
-{% endbubble %}
-
-{% bubble Shinobu %}
-Ah— Yes. Melon juice and grapefruit juice, correct?
-{% endbubble %}
-
-{% bubble Tetora %}
-Yup! Here you go, enjoy your drinks~♪
-
-Ah! Welcome! Two cotton candy, pineapple juice and orange juice for you, right?
-
-We have a new order. Sengoku-kun, please prepare the cotton candy!
-{% endbubble %}
-
-{% bubble Shinobu %}
-Understood! Heheh, I can prepare the food, while you handle serving the customers. I am truly thankful that you are being considerate towards me, since I am shy with strangers.
-{% endbubble %}
-
-{% bubble Tetora %}
-It wasn’t intentional, though… I’m bad at handling stuff, so~ I’m sure I’d just disappoint the customers with badly-made cotton candy.
-{% endbubble %}
-
-{% bubble Shinobu %}
-No, no! It is my first time making cotton candy as well! How about you try making one yourself, Tetora-kun?
-
-You may just make one even better than I do!
-{% endbubble %}
-
-{% bubble Tetora %}
-…You’re right. I shouldn’t give up before I even try! That’s not manly!
-
-Nagumo Tetora will take on this challenge!
-
-Uhhh, so I rotate the stick…?
-
-Ahh—! Some got on my hand! Ack— It’s all sticky now~!
-{% endbubble %}
-
-{% bubble Shinobu %}
-Tetora-kun, you have enough cotton candy near the bottom, so you should add more on the top!
-{% endbubble %}
-
-{% bubble Tetora %}
-T-The top? L-Like this…?
-{% endbubble %}
-
-{% bubble Shinobu %}
-Well done! I had only realized this after I messed up once, but you can wrap the cotton candy around the top side of the stick if you aim it downwards.
-
-When there is too much cotton candy on the bottom, you aim the stick downwards, and then vice versa. Making cotton candy is essentially repeating these two steps.
-
-You just have to repeat this until there is no more cotton candy, and it will finally be complete! Mhm! This is a pretty cotton candy~♪
-{% endbubble %}
-
-{% bubble Tetora %}
-R-Really…? I guess even I can make something~ Hehe! ♪
-{% endbubble %}
-
-{% bubble Chiaki %}
-You guys look like you’re having fun! Mhm mhm, it’s beautiful to see you two getting along so wonderfully…☆
-{% endbubble %}
-
-{% bubble Shinobu %}
-Taichou-dono! Look, look! It is the very first cotton candy Tetora-kun made~♪
-{% endbubble %}
-
-{% bubble Chiaki %}
-Ooh, it’s perfect! Great job, Nagumo!
-{% endbubble %}
-
-{% bubble Shinobu %}
-Oh—! The customers are starting to wonder what is taking us so long. I shall prepare the juice at once!
-{% endbubble %}
-
-{% bubble Chiaki %}
-Hehe, an adorable customer is here. Where are your mommy and daddy?
-
-Ohh, the lady waving her hand is your mommy, and the one beside her is your daddy? I see, I see! You told them to wait there, since you can make an order all by yourself?
-
-So this is your very first time doing an errand! That’s wonderful! I’m so impressed!
-
-Okay, so cotton candy and apple juice is enough? Right then, give me a moment.
-
-Hmhmhm~♪
-{% endbubble %}
-
-{% img <th>(Exciting School Festival)</th> Chiaki Morisawa CG.png %}
-
-{% bubble Chiaki %}
-I’ll give you the cotton candy first. It’s sweet and tasty? Oh! You have a bit on your cheek. Be careful while you eat it, okay?
-
-Mhm, mhm~ You’re a good kid…♪ Can you hold the apple juice? Mhm, carry it carefully so it doesn’t spill. Bye byee~ Let’s meet again! ☆
-{% endbubble %}
-
-{% bubble Tetora %}
-Kids really like you, don’t they? They’re always swarming around you during a hero show.
-{% endbubble %}
-
-{% bubble Chiaki %}
-Yeah, I love kids! I was this close to hugging the kid just now, but I held it in!
-{% endbubble %}
-
-{% bubble Tetora %}
-Uh, yeah, it’s a good thing you did.
-
-Right, Taichou. It’s about time for the skit, so can I leave the rest to you two?
-{% endbubble %}
-
-{% bubble Chiaki %}
-Yeah, there’s not as many customers now, so we’ll be fine.
-
-Nagumo, I know you didn’t ask for my help, but… Just because you’re acting out a delinquent role, doesn’t mean you have to try and become one.
-
-Just be yourself. That would make me feel more at ease.
-{% endbubble %}
-
-{% bubble Tetora %}
-…?
-{% endbubble %}
-
-{% bubble Chiaki %}
-Ahaha, you don’t seem like you understand what I’m trying to say. Well, for now, just do it the way you want to.
-{% endbubble %}
-
-{% bubble Tetora %}
-Gotcha! Right then, Taichou, Sengoku-kun! I’ll see you later!
-{% endbubble %}
-
-## Chapter 10
-
-{% bubble Kanata %}
-Excuse meee~ I would like some fish, please~♪
-
-Huh? You do not have fish?
-
-Then I would like something that is like fish…♪
-
-Ohh, there is a food stall selling taiyaki over there, I see~ Tai are tasty, so I like it.
-
-Thank you for the information~
-{% endbubble %}
-
-{% bubble Sora %}
-Uuuu~…?
-{% endbubble %}
-
-{% bubble Kanata %}
-Oh no, I bumped into you… I am sorry, are you okay?
-{% endbubble %}
-
-{% bubble Sora %}
-Sora’s fine! Sora was just not paying attention!
-
-Huh? Sea Onii~san?
-
-HaHa\~♪ Hello! Sora greets his seniors when he meets them\~♪
-{% endbubble %}
-
-{% bubble Kanata %}
-hello~♪ did you not come with nacchan today?
-{% endbubble %}
-
-{% bubble Sora %}
-Sora was with Shisho only a second ago, but then he got separated from him~
-
-It was wrong of Sora to not pay attention!
-
-Sora was feeling ill from the crowd, so when he tried to go somewhere without as much color, he got lost.
-{% endbubble %}
-
-{% bubble Kanata %}
-I see~ There is no need to worry, yellow kid. I will take you to where Nacchan is at~
-
-It is part of my patrolling job to protect lost children, and find their parents.
-{% endbubble %}
-
-{% bubble Sora %}
-HiHi\~♪ Thank you! Sora shows his gratitude to anyone who is kind to him\~♪
-{% endbubble %}
-
-{% bubble Kanata %}
-…………
-{% endbubble %}
-
-{% bubble Sora %}
-Wawa—? Sora hears a growling sound~ This is… the color of an empty stomach!
-{% endbubble %}
-
-{% bubble Kanata %}
-Oh, you figured me out~…
-{% endbubble %}
-
-{% bubble Sora %}
-HuHu\~? Sea Onii\~san, are you hungry? Sora learnt from Senpai that people can’t fight when they’re hungry!
-
-What would you like? Sora will buy it for you if you tell him~
-{% endbubble %}
-
-{% bubble Kanata %}
-Ehehe, thank you. You are kind, just like Nacchan~
-
-Do not worry, I was thinking of buying taiyaki just now~ Excuse meee, I would like two taiyaki~♪
-
-Huh? There is red bean paste flavor and cream flavor? Hm~ I think I will take one red bean paste.
-
-Which one do you think is good for the other taiyaki?
-{% endbubble %}
-
-{% bubble Sora %}
-HeHe~? Sora is the one who has to decide?
-{% endbubble %}
-
-{% bubble Kanata %}
-Yes~ I am going to give you one as a present, so please choose a flavor~♪
-{% endbubble %}
-
-{% bubble Sora %}
-HoHo~♪ Thank you! Sora shows his gratitude to anyone who treats him nicely! Okay, Sora will take the cream one!
-
-Let’s have half of each! Getting to taste both flavors will make Sora so happy~♪
-{% endbubble %}
-
-{% bubble Kanata %}
-Hehe, that is a great idea~♪
-
-Ow, hot— It is fresh from the oven, so I have to cool it down before eating it, don’t I… I will burn otherwise.
-{% endbubble %}
-
-{% bubble Sora %}
-Are you bad with hot food, Sea Onii~san?
-{% endbubble %}
-
-{% bubble Kanata %}
-Yes, I am~ It is a shame I cannot eat immediately, even though I am starving.
-{% endbubble %}
-
-{% bubble Sora %}
-Ah— Sea Onii~san! There’s a colorful and pretty dolphin!
-{% endbubble %}
-
-{% bubble Kanata %}
-Uwaa, it is candy in the shape of a dolphin\~ This will not be hot, so I can eat it straight away\~♪
-
-Excuse meee~  I would like two of this dolphin candy~♪
-
-Here you go, yellow kid. It would not be right if I eat one by myself.
-
-It will make us both much happier to share delicious food and fun things with each other~♪
-{% endbubble %}
-
-{% bubble Sora %}
-Sora agrees! Sora got separated from Shisho and Senpai, but Sora is happy to have met with Sea Onii~san~♪
-{% endbubble %}
-
-{% bubble Kanata %}
-<th><em>(Lick, lick)</em></th>…♪ Mm~ It gave me a tingly feeling.
-{% endbubble %}
-
-{% bubble Sora %}
-Really? Sora’s tastes sour~ Maybe it’s lemon flavor?
-{% endbubble %}
-
-{% bubble Kanata %}
-Hmm… The yellow area must be lemon flavor, huh~ The blue area is probably soda flavor?
-
-Ehehe, we get to enjoy all kinds of flavors, then~ I am glad we bought this.
-
-The taiyaki should have cooled down by now, too. This fish is enough for me.
-
-I am much more happy like this~♪
-{% endbubble %}
-
-## Chapter 11
-
-{% bubble Tetora %}
-Excuse me, I need to get through! Please move aside!
-
-<th>(Ugh, it’s so crowded…)</th>
-
-<th>(I’ll just get pushed back if I force myself through the crowd, but some people won’t move aside even when I ask them to… This is tough…)</th>
-
-<th>(Oh yeah, the Drama Club’s performance must have ended by now.)</th>
-
-<th>(I heard some people talking about how cool the Second Prince was. Just what I’d expect from Taishou! I bet he performed his prince role superbly…!)</th>
-
-<th>(I gotta work hard too! I gotta perform my delinquent role perfectly, so he’ll praise me for a great job!)</th>
-
-<th>(Ah, well, it’s not that I took this role to be praised…)</th>
-
-<th>(It’s just— I wanna go down the same path Taishou took, I guess. I feel like I could get one step closer to being a man among men if I do this…!)</th>
-{% endbubble %}
-
-{% bubble Kanata %}
-*Puka, puka*…♪
-{% endbubble %}
-
-{% bubble Tetora %}
-<th>(Hm? That’s Shinkai-senpai over there, right? He must be in the middle of patrol work. I should go thank him for his hard work.)</th>
-{% endbubble %}
-
-{% img <th>(Enjoyable School Festival)</th> Kanata Shinkai CG.png %}
-
-{% bubble Tetora %}
-Shinkai-senpai!
-{% endbubble %}
-
-{% bubble Kanata %}
-Ah— Tetora. Hello~ Would you like some candy, too?
-{% endbubble %}
-
-{% bubble Tetora %}
-Are you eating while patrolling…? You’re way too free, Shinkai-senpai~
-{% endbubble %}
-
-{% bubble Sora %}
-HaHa~♪ Hello! Sora greets anyone he knows! ♪
-{% endbubble %}
-
-{% bubble Tetora %}
-Oh, Harukawa-kun! ‘Sup~☆
-
-Uhh… Kinda weird to see you two together. What happened?
-{% endbubble %}
-
-{% bubble Sora %}
-You see~ Sora got separated from Shisho and Senpai. He was lost, so Sea Onii\~san has been taking care of him\~
-{% endbubble %}
-
-{% bubble Tetora %}
-Ohh, I see! Great work, Shinkai-senpai…☆
-{% endbubble %}
-
-{% bubble Kanata %}
-You too, Tetora. Are you hungry? You can have some taiyaki if you like~♪
-{% endbubble %}
-
-{% bubble Tetora %}
-Huh— Is that okay with you?
-{% endbubble %}
-
-{% bubble Kanata %}
-Of course it is~ We will all become even more happy if we share tasty food with you.
-{% endbubble %}
-
-{% bubble Tetora %}
-T-Then I’ll have some! <th><em>(munch, much)</em></th>…♪
-{% endbubble %}
-
-{% bubble Kanata %}
-ufufu. you look very happy~
-
-the bigger the happiness circle becomes, the closer we get to the whole world being filled with happiness.
-{% endbubble %}
-
-{% bubble Tetora %}
-Ahaha, that’s just how a hero would think! Please show that same kind of heroic feel in the skit we’re having later!
-{% endbubble %}
-
-{% bubble Kanata %}
-…? Later? Are we doing something?
-{% endbubble %}
-
-{% bubble Tetora %}
-Umm, you’re joking, right?
-
-We’re planning to do a skit where I’m a delinquent who chats up with the transfer student, and then you and Midori-kun will come over and save her, remember?
-{% endbubble %}
-
-{% bubble Kanata %}
-Ahh~… That’s right. Midori and I are the heroes, yes?
-
-That kind of feels strange. When I think of “hero”, I think of Chiaki.
-{% endbubble %}
-
-{% bubble Tetora %}
-I can’t deny that. Also, I’ve been wondering for a while now, but… Where’s Midori-kun?
-{% endbubble %}
-
-{% bubble Kaoru %}
-Hey— Move, move! Ah— Kanata-kun! Perfect timing!
-{% endbubble %}
-
-{% bubble Kanata %}
-Kaoru~? Why do you look so flustered?
-{% endbubble %}
-
-{% bubble Kaoru %}
-Well, see… There’s some delinquent guys who managed to get into our school somehow…
-
-They came over to our cafe, too. They were bothering the girls, so we asked them to leave.
-
-But I heard something similar happened someplace else, too…
-
-I’ve been trying to find someone from the student council so I could report the issue. You’re patrolling, right? Can you contact any of the members?
-{% endbubble %}
-
-{% bubble Kanata %}
-Why yes, I can~ With this walkie-talkie, I can—
-
-Hm? Ah, that’s right, I left that with Midori, didn’t I…
-{% endbubble %}
-
-{% bubble Tetora %}
-I also had mine with me, but I left it behind when I was done with my patrol work~!
-{% endbubble %}
-
-{% bubble Kaoru %}
-Are you serious… so I really *do* have to go all the way and report this by myself? Ahh, I didn’t sign up for all this running and sweat~!
-{% endbubble %}
-
-{% bubble Kanata %}
-Kaoru ran off. Still, it sounds like something troublesome is brewing, doesn’t it~?
-{% endbubble %}
-
-{% bubble Tetora %}
-Uumyu… I have a bad feeling about this. I hope nothing bad happens…
-
-For now, let’s rush over to where we promised to meet Midori-kun and the transfer student!
 {% endbubble %}
 
 <div toc>
