@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – sweet home"
-date: 2020-1-31 9:00:00
+date: 2017-10-31 9:02:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -71,13 +71,19 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /sweet_halloween/dis_harmony,, arrow-left, Previous Chapter: dis harmony %}
+{% btn /sweet_halloween,, star, Index %}
+{% btn /sweet_halloween/lets_party,, arrow-right, Next Chapter: let's party! %}
+</div>
+
 ## Chapter 1
 
-{% img Sweet Halloween - sweet home 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
-{% note location %}
-**Location:** Dojo
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/sweethomech1_1.jpg %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -230,7 +236,7 @@ It’s gonna be Mama, isn’t it, Anzu-san! Even though you were always too emba
 {% endbubble %}
 
 {% bubble Kanata %}
-… Rogue, yours just says “Mikejima.”
+…Rogue, yours just says “Mikejima.”
 {% endbubble %}
 
 {% bubble Madara %}
@@ -240,12 +246,6 @@ Even when I care for you this deeply—! Sweet darling daughter, are you rebelli
 {% endbubble %}
 
 ## Chapter 2
-
-{% img Sweet Halloween - sweet home 2.png %}
-
-{% note location %}
-**Location:** Dojo
-{% endnote %}
 
 {% bubble Chiaki %}
 Hm… So what I’m getting from this is that Nito’s and… Mashiro-kun’s[^2] pants are switched?
@@ -397,11 +397,7 @@ Uuu… Whenever Mikejima-san’s around, it starts to feel like my past seniors 
 
 ## Chapter 3
 
-{% img Sweet Halloween - sweet home 3.png %}
-
-{% note location %}
-**Location:** Halloween Party Hallway
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/sweethomech3_1.jpg %}
 
 {% bubble Shinobu %}
 Here we go…♪
@@ -510,7 +506,7 @@ G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! No
 {% endbubble %}
 
 {% bubble Shinobu %}
-… Taichou-dono?
+…Taichou-dono?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -573,12 +569,6 @@ Hnn… No, I’m the one who’s sorry… I’m also shocked by my own reaction�
 
 ## Chapter 4
 
-{% img Sweet Halloween - sweet home 4.png %}
-
-{% note location %}
-**Location:** Halloween Party Hallway
-{% endnote %}
-
 {% bubble Midori %}
 But no, really, hasn’t Morisawa-senpai been kinda off…?
 {% endbubble %}
@@ -598,7 +588,7 @@ Like, that’s how we got ourselves involved with Quarrel Festival…
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hmm… Does he not like Halloween very much? Perhaps something bad happened during last year’s *Halloween Party*…
+Hmm… Does he not like Halloween very much? Perhaps something bad happened during last year’s Halloween Party…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -645,11 +635,11 @@ So let’s do our best! We can do it! Put all your energy into it! Fuhahaha!! �
 Mmm… He really is acting weird… Or like, he’s just trying really, *really* hard to seem as energetic as possible…
 {% endbubble %}
 
-{% img Sweet Halloween - sweet home 4 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Terrace’s Kitchen</span></p>
+</div>
 
-{% note location %}
-**Location:** Garden Terrace’s Kitchen
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/sweethomech4_1.jpg %}
 
 {% bubble Madara %}
 Hahaha! A balanced diet leads to a healthy life! It’s time to cook with Mama!
@@ -726,7 +716,7 @@ Ahaha, it’s one of the benefits of being with Tomo-chan~! ♪
 {% endbubble %}
 
 {% bubble Hajime %}
-… Um, I think it may be too much for Tomoya-kun to feed all those animals by himself, so may I go help him?
+…Um, I think it may be too much for Tomoya-kun to feed all those animals by himself, so may I go help him?
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -747,30 +737,30 @@ I’ll be going now. I’ll come back to help with the cooking as soon as I can,
 
 ## Chapter 5
 
-{% img Sweet Halloween - sweet home 5.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Animal Shed</span></p>
+</div>
 
-{% note location %}
-**Location:** Animal Shed
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/sweethomech5_1.jpg %}
 
 {% bubble Hajime %}
-(O-Okay, I’m going to do this… I have to properly make up with Tomoya-kun.)
+<th>(O-Okay, I’m going to do this… I have to properly make up with Tomoya-kun.)</th>
 
-(We’re making Nii-chan and Mitsuru-kun worry… and we have to get through a big event like *Halloween Party* with all three units…)
+<th>(We’re making Nii-chan and Mitsuru-kun worry… and we have to get through a big event like Halloween Party with all three units…)</th>
 
-(So we can’t keep acting awkward around each other like this… It’d be awful of us to cause trouble for everyone.)
+<th>(So we can’t keep acting awkward around each other like this… It’d be awful of us to cause trouble for everyone.)</th>
 
-(Ra*bits is finally doing incredibly well… It’s almost unbelievable that we first started out as a jumbled mess… We can't just let everything fall apart now. We just can’t.)
+<th>(Ra*bits is finally doing incredibly well… It’s almost unbelievable that we first started out as a jumbled mess… We can't just let everything fall apart now. We just can’t.)</th>
 {% endbubble %}
 
 {% bubble Tomoya %}
-……
+…………
 {% endbubble %}
 
 {% bubble Hajime %}
-(Ah—Tomoya-kun… Okay, this is good. He doesn’t seem to be done feeding the animals.)
+<th>(Ah—Tomoya-kun… Okay, this is good. He doesn’t seem to be done feeding the animals.)</th>
 
-(I can speak to him alone.)
+<th>(I can speak to him alone.)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -778,21 +768,21 @@ Tomoya-kuuun, I finished cleaning up this hut here~♪
 {% endbubble %}
 
 {% bubble Hajime %}
-(Eeep— Huh? Tetora-kun?)
+<th>(Eeep— Huh? Tetora-kun?)</th>
 
-(Why is he here? Did he notice Tomoya-kun at the shed when he and the others from Ryuseitai were on their way to the kitchen?)
+<th>(Why is he here? Did he notice Tomoya-kun at the shed when he and the others from Ryuseitai were on their way to the kitchen?)</th>
 
-(He’s kind and reliable, so he would help him out…)
+<th>(He’s kind and reliable, so he would help him out…)</th>
 
-(But this is bad timing…! Uuu~ What do I do?)
+<th>(But this is bad timing…! Uuu~ What do I do?)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
-……
+…………
 {% endbubble %}
 
 {% bubble Hajime %}
-(Wah—!?)
+<th>(Wah—!?)</th>
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -804,11 +794,11 @@ Ah, nah… I thought I sensed something nearby, but it was probably just my imag
 {% endbubble %}
 
 {% bubble Hajime %}
-(Uuu… I just hid without thinking… I really have no backbone…)
+<th>(Uuu… I just hid without thinking… I really have no backbone…)</th>
 
-(Tetora-kun may be here too, but I could’ve just told them I’m here to help out…)
+<th>(Tetora-kun may be here too, but I could’ve just told them I’m here to help out…)</th>
 
-(I would’ve been able to do that in any other situation… W-Why am I acting like this right now…?)
+<th>(I would’ve been able to do that in any other situation… W-Why am I acting like this right now…?)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -919,11 +909,7 @@ Uh… Umm… I don’t really get what you mean…?
 
 ## Chapter 6
 
-{% img (Challenge Zombie) Tomoya Mashiro CG.png %}
-
-{% note location %}
-**Location:** Animal Shed
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/tomoyaorigcg.jpg %}
 
 {% bubble Tomoya %}
 Like! If I make a cute pose like this! Do you get excited like you would with a cute girl?
@@ -990,7 +976,7 @@ On one hand, you have me, and then you have Mitsuru, who’s boyish-looking… B
 
 But… what about me?
 
-It's so unsettling. I get really worried, like “Is this really what I wished for? Am I really the idol I always aspired to become? … Is it really okay for things to be this way?”
+It's so unsettling. I get really worried, like “Is this really what I wished for? Am I really the idol I always aspired to become? …Is it really okay for things to be this way?”
 
 I'm always so confused, but… Hajime's been really into this stuff lately. He keeps picking up on doing more and more cutesy things, and he's always great at it.
 
@@ -1045,11 +1031,11 @@ It frustrates me… I feel so pathetic… I’m not even some *normal* kid at th
 
 ## Chapter 7
 
-{% img Sweet Halloween - sweet home 7.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo (Futons)</span></p>
+</div>
 
-{% note location %}
-**Location:** Dojo (Futon)
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/sweethomech7_1.jpg %}
 
 {% bubble Nazuna %}
 Ahhh, I’m exhausted… Having t’prepare everything *and* practice is justoo much…
@@ -1078,7 +1064,7 @@ Yeah, he wears glasses during class, too. You’re in class B, so you didn’t k
 {% endbubble %}
 
 {% bubble Nazuna %}
-Wow, really… Seeing a whole ‘nother side to someone is part of what’s so greatabout sleepovers, huh… *(yawn)*
+Wow, really… Seeing a whole ‘nother side to someone is part of what’s so greatabout sleepovers, huh… <em><th>(yawn)</th></em>
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1090,7 +1076,7 @@ Since it’s not even 10 PM yet, and the rest of us are still awake, you may hav
 {% bubble Nazuna %}
 Nnn, hnn… Yeah, maybe I will… I wanted to stay up with the kids, though…
 
-But… my eyes keep closing all on their own… *(yawn)*
+But… my eyes keep closing all on their own… <em><th>(yawn)</th></em>
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1112,7 +1098,7 @@ Yep. Standing next to each other, you and I would look like a parent and their k
 {% endbubble %}
 
 {% bubble Nazuna %}
-zzz…zzz… ♪
+zzz…zzz…♪
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1150,7 +1136,7 @@ Don’t worry. If *that* ever shows up, I’ll beat it to a pulp~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-… You really are incredible, Mikejima-san. You can even expel spirits?
+…You really are incredible, Mikejima-san. You can even expel spirits?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1161,7 +1147,7 @@ It’s just like the shadow mentioned in psychology.[^4] It’s an illusion caus
 So you should make sure to be in a happy, good mood. C’mon, don’t read a book; let’s go play a board game with the kids~♪
 {% endbubble %}
 
-{% img (Horror Jiangshi) Chiaki Morisawa CG.png %}
+{% img <th>(Horror Jiangshi)</th> Chiaki Morisawa CG.png %}
 
 {% bubble Chiaki %}
 I’ve made it a habit to read something before I sleep, but… yeah, alright. I can always read some other time.
@@ -1227,12 +1213,6 @@ I see… Sounds like she’s completely focused on her work… I wish she’d jo
 
 ## Chapter 8
 
-{% img Sweet Halloween - sweet home 8.png %}
-
-{% note location %}
-**Location:** Dojo (Futon)
-{% endnote %}
-
 {% bubble Madara %}
 That aside… Why a horror movie? How about we watch something we can all enjoy instead, like an action movie?
 {% endbubble %}
@@ -1242,7 +1222,7 @@ Y-yeah! I like that idea! Let’s watch *Ganbare Robocon* or something! It’s r
 {% endbubble %}
 
 {% bubble Tomoya %}
-But we’re going to be participating in *Halloween Party*, right? And Halloween’s all about dressing up as ghosts and monsters.
+But we’re going to be participating in Halloween Party, right? And Halloween’s all about dressing up as ghosts and monsters.
 
 So we’re watching horror movies to take note of how to how to act more monster-like.
 
@@ -1336,7 +1316,7 @@ Gahhh!? Oh Nagumo…! You’re such a good kid…!!
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Hrnn… We shouldn’t drink stuff and eat snacks around this hour, you know? My mom always scolds me about that!
+Hnn… We shouldn’t drink stuff and eat snacks around this hour, you know? My mom always scolds me about that!
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1373,12 +1353,6 @@ Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 
 ## Chapter 9
 
-{% img Sweet Halloween - sweet home 9.png %}
-
-{% note location %}
-**Location:** Dojo (Futon)
-{% endnote %}
-
 {% bubble Kanata %}
 I’m back~♪
 
@@ -1386,7 +1360,7 @@ I’m back~♪
 {% endbubble %}
 
 {% bubble Nazuna %}
-……
+…………
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -1402,7 +1376,7 @@ What do I gotta eat to be that tall? I’m so jealous…
 {% bubble Kanata %}
 Fish\~ You should eat fish, Nazuna\~♪
 
-The reason why you do not grow taller, and why governments become corrupt, and why flowers do not live for long—it is all due to not eating fish.
+The reason why you do not grow taller, and why governments become corrupt, and why flowers do not live for long — it is all due to not eating fish.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -1500,14 +1474,14 @@ U-Uuu! It hurts when you say that!
 {% endbubble %}
 
 {% bubble Midori %}
-*(whispering)* So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
+<em><th>(whispering)</th></em> So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
 {% endbubble %}
 
 {% bubble Chiaki %}
 Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% endbubble %}
 
-{% img (Natural Jiangshi) Midori Takamine CG.png %}
+{% img /img/es/eventstory/sweethalloween/midoriorigcg.jpg %}
 
 {% bubble Midori %}
 Then why exactly are you tugging on my sleeve and shaking in fear…?
@@ -1548,7 +1522,7 @@ Well, you were only strolling around the school, so I guess nothing bad would ha
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, I am sorry. Did I worry you?
+fufu, I am sorry. Did I worry you?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1558,7 +1532,7 @@ So please don’t just disappear out of nowhere…
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehehe, that is because Chiaki is more spoiled than you would expect.
+fufufu, that is because Chiaki is more spoiled than you would expect.
 
 But it looks like things will be okay, since it seems like you are protecting him.
 
@@ -1566,12 +1540,6 @@ Or actually… With everyone in Ryuseitai supporting Chiaki, there can be nothin
 {% endbubble %}
 
 ## Chapter 10
-
-{% img Sweet Halloween - sweet home 10.png %}
-
-{% note location %}
-**Location:** Dojo (Futon)
-{% endnote %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -1581,16 +1549,16 @@ Or actually… With everyone in Ryuseitai supporting Chiaki, there can be nothin
 zzz…zzz…♪
 {% endbubble %}
 
-{% img (Honey Zombie) Hajime Shino CG.png %}
+{% img /img/es/eventstory/sweethalloween/hajimeorigcg.jpg %}
 
 {% bubble Hajime %}
 ……
 
-… Tomoya-kun, it’s morning.
+…Tomoya-kun, it’s morning.
 {% endbubble %}
 
 {% bubble Tomoya %}
-Mmm… zzz… ♪
+Mmm… zzz…♪
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -1606,7 +1574,7 @@ W-why are you…? Morning! Ah—Ohhh, that’s right, we slept at school…
 {% bubble Hajime %}
 Hehe, you’re still half-asleep.
 
-… Could we talk for a bit?
+…Could we talk for a bit?
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -1632,7 +1600,7 @@ Idols are all about making money by standing out, but I still can’t get myself
 {% endbubble %}
 
 {% bubble Hajime %}
-I think it’s fine. That’s just like you… *(nibble, nibble)* ♪
+I think it’s fine. That’s just like you… <em><th>(nibble, nibble)</th></em> ♪
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -1648,7 +1616,7 @@ You seriously act like an animal sometimes… I can fix my hair by myself, and i
 {% endbubble %}
 
 {% bubble Hajime %}
-Okay.  … If I ever do something you don’t want me to do, please tell me.
+Okay.  …If I ever do something you don’t want me to do, please tell me.
 
 Actually, please tell me what’s okay to do, and what isn’t.
 
@@ -1727,12 +1695,6 @@ Mmm… How many years do you think I’ve been your friend? I can understand wha
 
 ## Chapter 11
 
-{% img Sweet Halloween - sweet home 11.png %}
-
-{% note location %}
-**Location:** Dojo (Futon)
-{% endnote %}
-
 {% bubble Tomoya %}
 …Yeah. You’re strong now. I don’t need to lead you by the hand anymore.
 {% endbubble %}
@@ -1750,7 +1712,7 @@ If there’s a wall blocking your way, then I’ll lead you to an alternate rout
 
 So at the very least, while we’re walking together… Please, hold my hand like you always did.
 
-I don’t want to separate from you… I can’t do anything without you… I won’t know what to do anymore, and I’ll start crying in panic… *(sobs)*
+I don’t want to separate from you… I can’t do anything without you… I won’t know what to do anymore, and I’ll start crying in panic… <em><th>(sobs)</th></em>
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -1836,7 +1798,7 @@ Something that’s cute but scary; scary but cute…♪
 {% endbubble %}
 
 {% bubble Tomoya %}
-What’s that supposed to mean? … But you’re right, that *is* what Ra*bits is all about.
+What’s that supposed to mean? …But you’re right, that *is* what Ra*bits is all about.
 
 We’re lacking in everything, but that’s exactly why we work as hard as we can together, and continue to grow.
 
@@ -1878,6 +1840,7 @@ Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /sweet_halloween/dis_harmony,, arrow-left, Previous Chapter: dis harmony %}
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/lets_party,, arrow-right, Next Chapter: let's party! %}
@@ -1889,5 +1852,5 @@ Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
 [^3]: Kenpo is a Japanese martial arts.
 [^4]: The shadow Madara talks about is Jungian psychology.
 [^5]: In Japan, the season for ghost stories is typically in summer.
-[^6]: He unusually asks for permission with *dame kana*
+[^6]: He unusually asks for permission with *dame kana*.
 [^7]: Originally, Hajime says that he can’t do [this] (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.

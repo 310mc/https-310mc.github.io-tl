@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – dis harmony"
-date: 2020-1-31 9:00:00
+date: 2017-10-31 9:01:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -452,7 +452,7 @@ Although, you’re gonna need to dry up first, Kanata-san. I can lend you a towe
 {% endbubble %}
 
 {% bubble Kanata %}
-Hrnnn… We are going to be working with the rogue? It feels like it will only be a ruckus.
+Hnn… We are going to be working with the rogue? It feels like it will only be a ruckus.
 
 Well… I suppose that lately I do not dislike things being rowdy, anyway.
 

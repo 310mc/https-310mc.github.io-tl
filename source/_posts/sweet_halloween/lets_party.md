@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – let's party!"
-date: 2020-1-31 9:00:00
+date: 2017-10-31 9:04:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -71,6 +71,12 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /sweet_halloween/sweet_home,, arrow-left, Previous Chapter: sweet home %}
+{% btn /sweet_halloween,, star, Index %}
+{% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">
@@ -80,7 +86,7 @@ hidden: true
 {% img /img/es/eventstory/sweethalloween/letsparty1_1.jpg %}
 
 <div class="msr-narration">
-    <p>Two weeks later — The day of Halloween Party…</p>
+    <p>Two weeks later, the day of Halloween Party…</p>
 </div>
 
 {% bubble Madara %}
@@ -266,7 +272,7 @@ Hahaha, looks like the plan to get you used to them failed, huh?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe. It is not that easy to overcome your weaknesses.
+fufu. It is not that easy to overcome your weaknesses.
 
 Unlike you, most people cannot easily manage to do things just by getting into it… Mama.
 
@@ -298,7 +304,7 @@ Right, let’s go now, Anzu-san. You’re the one managing this event, so everyo
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, seeing him carry her like that really makes them look like a parent and their child.
+fufu, seeing him carry her like that really makes them look like a parent and their child.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -362,7 +368,7 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehe, do not bully him so much, Midori~♪
+fufu, do not bully him so much, Midori~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -590,16 +596,10 @@ Alright! Let’s start our own warm-ups, Ryuseitai! Our live show begins soon, s
 {% endbubble %}
 
 {% bubble Shinobu %}
-Got it~♪ Ahhh, it feels like a lot will happen tonight~!
+Got it\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% endbubble %}
 
 ## Chapter 4
-
-{% img Sweet Halloween - let's party! 4.png %}
-
-{% note location %}
-**Location:** Halloween Party Concert Hall (Ryuseitai)
-{% endnote %}
 
 {% bubble Chiaki %}
 “Hello, everyone\~! Trick or Treat\~♪”
@@ -630,7 +630,7 @@ Got it~♪ Ahhh, it feels like a lot will happen tonight~!
 {% endbubble %}
 
 {% bubble Nazuna %}
-… Not that it really matters, but, Chiaki-chin… You say you’re zombies, but you guys are buzzing about with your backs straightened up, so it doesn’t really give me that impression.
+…Not that it really matters, but, Chiaki-chin… You say you’re zombies, but you guys are buzzing about with your backs straightened up, so it doesn’t really give me that impression.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -736,11 +736,11 @@ Let’s go, everyone! We’re at a climax from start to end…☆[^6]
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Mike-chan-senpai, come over here, c’mon~♪ Why’re you so far away from us? Let’s all have fun singing and dancing together~!
+Mike-chan-senpai, come over here, c’mon\~♪ Why’re you so far away from us? Let’s all have fun singing and dancing together\~!
 {% endbubble %}
 
 {% bubble Madara %}
-… Sure. Thank you, Mitsuru-san.
+…Sure. Thank you, Mitsuru-san.
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -766,12 +766,6 @@ That’s right, it is just as Chiaki said~ Come, let’s all dance together~♪
 {% endbubble %}
 
 ## Chapter 5
-
-{% img Sweet Halloween - let's party! 5.png %}
-
-{% note location %}
-**Location:** Halloween Party Concert Hall (Ryuseitai)
-{% endnote %}
 
 {% bubble Kanata %}
 “♪\~♪\~♪”
@@ -834,7 +828,7 @@ Although, I do suppose it is much better to do that than to treat everything wit
 
 Halloween is the children’s festival.
 
-You should not intrude on their festival~ Let’s relax, and enjoy it in our own way~♪
+You should not intrude on their festival\~ Let’s relax, and enjoy it in our own way\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -918,6 +912,7 @@ T-Tomoya-kun…♪
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /sweet_halloween/sweet_home,, arrow-left, Previous Chapter: sweet home %}
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}

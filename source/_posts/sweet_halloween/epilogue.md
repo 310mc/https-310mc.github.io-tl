@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Epilogue"
-date: 2020-1-31 9:00:00
+date: 2017-10-31 9:05:00
 categories:
 - [Enstars, Nazuna]
 - [Enstars, Mitsuru]

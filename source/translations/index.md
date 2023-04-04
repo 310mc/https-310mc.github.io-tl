@@ -70,7 +70,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
-<div class="story">
+<!--<div class="story">
     <div class="image">
         <img
             src="/img/es/es2mainstory/ssfinalsbanner.jpg"
@@ -81,7 +81,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span>SS Finals (Coming Soon!)</span>
         <span class="read soon"></span>
     </a>
-</div>
+</div>-->
 </div>
 
 ## Event Stories

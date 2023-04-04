@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Prologue"
-date: 2020-1-31 9:00:00
+date: 2017-10-31 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Hajime]
@@ -59,59 +59,59 @@ hidden: true
 {% img /img/es/eventstory/sweethalloween/prologue_1.jpg %}
 
 {% bubble Hajime %}
-(*Sigh…* I’m not sure what to do now… Why did things turn out this way…)
+<th>(*Sigh…* I’m not sure what to do now… Why did things turn out this way…)</th>
 
-(I can’t believe I ended up fighting with Tomoya-kun… This has never even happened before…)
+<th>(I can’t believe I ended up fighting with Tomoya-kun… This has never even happened before…)</th>
 
-(Tomoya-kun has always been so kind and positive towards me… Even though I’m bad at talking, he cheerfully listens to me…)
+<th>(Tomoya-kun has always been so kind and positive towards me… Even though I’m bad at talking, he cheerfully listens to me…)</th>
 
-(He never rejects what I say, and agrees to it with things like “That sounds good” or “Let’s do it together”…)
+<th>(He never rejects what I say, and agrees to it with things like “That sounds good” or “Let’s do it together”…)</th>
 
-(He would even hold my hand while walking with me…)
+<th>(He would even hold my hand while walking with me…)</th>
 
-(So why did it turn out this way this time around…? I don’t understand… It’s probably my fault, isn’t it?)
+<th>(So why did it turn out this way this time around…? I don’t understand… It’s probably my fault, isn’t it?)</th>
 
-(I must’ve accidentally hit a nerve in Tomoya-kun… I must’ve mentioned something he doesn’t want to discuss.)
+<th>(I must’ve accidentally hit a nerve in Tomoya-kun… I must’ve mentioned something he doesn’t want to discuss.)</th>
 
-(I have to apologize to him… We should be able to understand each others’ feelings if we talk it through.)
+<th>(I have to apologize to him… We should be able to understand each others’ feelings if we talk it through.)</th>
 
-(He’s my best friend, after all.)
+<th>(He’s my best friend, after all.)</th>
 
-(But… We can never find the right time, because of our clubs or because of family… And even though we’re classmates, there still hasn’t been the right timing to talk properly to each other.)
+<th>(But… We can never find the right time, because of our clubs or because of family… And even though we’re classmates, there still hasn’t been the right timing to talk properly to each other.)</th>
 
-(And now time is going by just like that… Uuu, why did this happen…)
+<th>(And now time is going by just like that… Uuu, why did this happen…)</th>
 
-(I love Tomoya-kun, and he’s so important to me… So why did we clash against each other…? Why is it that all I can do is mumble my words when I try to make amends with him?)
+<th>(I love Tomoya-kun, and he’s so important to me… So why did we clash against each other…? Why is it that all I can do is mumble my words when I try to make amends with him?)</th>
 
-(I’m just a no good dunce, aren’t I…? It’s like I’ve gone straight back to how I was before I met Tomoya-kun.)
+<th>(I’m just a no good dunce, aren’t I…? It’s like I’ve gone straight back to how I was before I met Tomoya-kun.)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/prologue_2.jpg %}
 
 {% bubble Chiaki %}
-(*Sigh…*)
+<th>(*Sigh…*)</th>
 
-(What do I do? What do I do? I’m in big trouble.)
+<th>(What do I do? What do I do? I’m in big trouble.)</th>
 
-(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Aahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)
+<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Aahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
 
-(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)
+<th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
 
-(But…… Ahhh, I really don’t wanna! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)
+<th>(But…… Ahhh, I really don’t wanna~! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)</th>
 
-(Someone who would accept anything and everything — Who would love everything, and bring peace to the world! That’s the kind of hero I wanted to be!)
+<th>(Someone who would accept anything and everything — Who would love everything, and bring peace to the world! That’s the kind of hero I wanted to be!)</th>
 
-(But *that thing* is the only thing I can’t deal with!! I just caaaaan’t!!!!!)
+<th>(But *that thing* is the only thing I can’t deal with!! I just caaaaan’t!!!!!)</th>
 
-(But! I’m always pushing my own interests onto everyone in Ryuseitai! Even if they don’t want it, I push it on them semi-forcefully!)
+<th>(But! I’m always pushing my own interests onto everyone in Ryuseitai! Even if they don’t want it, I push it on them semi-forcefully!)</th>
 
-(So rejecting what I can’t handle with “I don’t wanna!” is just ridiculous!)
+<th>(So rejecting what I can’t handle with “I don’t wanna!” is just ridiculous!)</th>
 
-(It’s not fair to them! That’s not what justice is!)
+<th>(It’s not fair to them! That’s not what justice is!)</th>
 
-(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward!)
+<th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward!)</th>
 
-(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!!)
+<th>(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!!)</th>
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -197,7 +197,7 @@ Heroes are cool, aren’t they? My little brother often watches those shows on S
 {% bubble Chiaki %}
 Ohh!! Really! I think I could get along well with your little brother! ♪
 
-… Alright, I finished picking them up while we were talking. Were you taking these somewhere?
+…Alright, I finished picking them up while we were talking. Were you taking these somewhere?
 
 I’ll take them there for you as an apology for bumping into you!
 {% endbubble %}
@@ -223,7 +223,7 @@ So I tried to find all kinds of things in the reference room. Ehehe, it was pret
 {% endbubble %}
 
 {% bubble Chiaki %}
-I see… *Halloween Party* is an S1, after all… Preparing for it must be a huge task.
+I see… Halloween Party is an S1, after all… Preparing for it must be a huge task.
 
 I wonder if she’ll be okay… She probably has SS to produce for, too…
 
