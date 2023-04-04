@@ -180,7 +180,7 @@ hidden: true
                                 Event
                             </div>
                             <div class="value">
-                                TBA
+                                Doll House
                             </div>
                         </div>
                         <div class="tab-item">
@@ -188,7 +188,7 @@ hidden: true
                                 Event Duration
                             </div>
                             <div class="value">
-                                2021/5/31 (15:00 JST) - 2021/6/8 (22:00 JST)
+                                2020/5/31 (15:00 JST) - 2020/6/8 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -201,15 +201,7 @@ hidden: true
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/dollhouse/kanataorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/scoutstory/dollhouse/chiakiorigcg.jpg">
+                                    <img src="/img/es/scoutstory/dollhouse/mikaorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -218,30 +210,6 @@ hidden: true
                             <div class="gallery-item">
                                 <div class="image">
                                     <img src="/img/es/scoutstory/dollhouse/midoriorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/scoutstory/dollhouse/chiakibcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/scoutstory/dollhouse/midoribcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/scoutstory/dollhouse/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -430,6 +398,20 @@ hidden: true
 
 ## Chapter 1
 
+{% note cw %}
+**Content Warning:** There are casual suicide mentions in this story.
+{% endnote %}
+
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Set Piece Storehouse</span></p>
+</div>
+
+{% img /img/es/scoutstory/dollhouse/1_1.jpg %}
+
 {% bubble Midori %}
 Heeeey!! Is there anyone out there~!?
 
@@ -454,11 +436,15 @@ Uughh… The set piece storehouse is in the back of ES, after all… I usually w
 <th>(Ahh… How could this happen…?)</th>
 {% endbubble %}
 
-{% img Dollhouse - Chapter 1 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Cafe Cinnamon</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/1_2.jpg %}
+
+<div class="msr-narration">
+    <p>Two hours ago…</p>
+</div>
 
 {% bubble Midori %}
 Alright, then sign here please… Thank you.
@@ -522,11 +508,11 @@ Uurmm…? There’s all kinds of places like that in ES, but I dunno, I don’t 
 I feel calm whenever I look at plants, and it won’t cost me a penny… It’s just perfect…♪
 {% endbubble %}
 
-{% img Dollhouse - Chapter 1 Scene Change 2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ES (Exterior)</span></p>
+</div>
 
-{% note location %}
-**Location:**
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/1_3.jpg %}
 
 {% bubble Midori %}
 <em><th>(Breathes in and out)</th></em> Haah… phew…♪
@@ -551,24 +537,24 @@ Hm? I heard a voice from afar… They sounded panicked, maybe I should go help�
 
 <th>(I feel like his overbearing blood is consuming my body, and it makes me wanna die… It’d be a different story if it’s just learning from someone, but this is—… I really just don’t wanna be infected by *that* guy of all people.)</th>
 
-—Ah! I’m not supposed to be thinking to myself right now—
+……Ah! I’m not supposed to be thinking to myself right now—
 
-Um, okay. *The green flames are the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!* — Alright then.
+Um, okay. *The green flame is the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!* — Alright then.
 
-I’m on my way to you~ I’m not sure if I’ll be able to help, but please wait a little longer, okay~?
+I’m on my way to you\~ I’m not sure if I’ll be able to help, but please wait a little longer, okay\~?
 {% endbubble %}
 
 ## Chapter 2
 
-{% img Dollhouse - Chapter 2.png %}
-
-{% note location %}
-**Location:** Forested Path
+{% note cw %}
+**Content Warning:** Casual drowning mention.
 {% endnote %}
 
-{% bubble Warning %}
-Casual suicide and drowning mention.
-{% endbubble %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Forested Path</span></p>
+</div>
+
+{% img /img/es/scoutstory/dollhouse/2_1.jpg %}
 
 {% bubble Midori %}
 Hm… I think I heard it coming from here…?
@@ -607,7 +593,7 @@ Oh, don’t worry. I can assure you that’s not what happened. Daikichi-kun is 
 {% bubble Mika %}
 Oshisan turnin’ into a *dog*…? Ummm… What’re ya on ‘bout? Daikichi-kun’s obviously nothin’ but a dog, an’ people can’t turn into dogs either, so…?
 
-Ahhh!! But at this rate, I bet he *will* get angry at me like a growlin’, menacin’ dog~!! What do I dooo~!?
+Ahhh!! But at this rate, I bet he *will* get angry at me like a growlin’, menacin’ dog\~!! What do I dooo\~!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -615,7 +601,7 @@ Ahhh!! But at this rate, I bet he *will* get angry at me like a growlin’, mena
 
 <th>(That’s so embarrassing… I wanna go drown myself in the sea…)</th>
 
-UghhI’m sorry. Please forget what I just said…
+Ughh… I’m sorry. Please forget what I just said…
 
 Um, so you’re looking for Daikichi-kun? What happened…?
 {% endbubble %}
@@ -659,7 +645,7 @@ Yeah. I still have time before I need to go, and I was only strolling around to 
 {% bubble Mika %}
 T-Thank ya kindly\~! Yer like my savior\~!
 
-Ah—But yer part of Ryuseitai, so I reckon ‘s completely natural for ya ta help people out… Was that rude fer me ta say?
+Ah— But yer part of Ryuseitai, so I reckon ‘s completely natural for ya ta help people out… Was that rude fer me ta say?
 
 Yer just what ya’d expect from a hero of justice~♪
 {% endbubble %}
@@ -700,9 +686,9 @@ Ah, you’re right. It looks like one.
 That looked like Daikichi-kun, so let’s hurry after him…!
 {% endbubble %}
 
-{% bubble Heading %}
-Deeper into the forested path
-{% endbubble %}
+<div class="msr-narration">
+    <p>Deeper into the forested path…</p>
+</div>
 
 {% bubble Mika %}
 Daikichi-kuuun! I’m beggin’ ya, come on out~!
@@ -774,11 +760,11 @@ Ahh, jeez! Please wait, Kagehira-senpai! Don’t leave me alone here~!
 
 ## Chapter 3
 
-{% img Dollhouse - Chapter 3.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Set Piece Storehouse</span></p>
+</div>
 
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/3_1.jpg %}
 
 {% bubble Midori %}
 Daikichi-kun— You’re *not* getting away this time!
@@ -833,7 +819,7 @@ AAAAAAGH?!
 {% bubble Midori %}
 …………
 
-*Cough, cough…* So much dust…
+<th><em>(Cough, cough…)</em></th> So much dust…
 
 Ugh… I almost thought I died from the impact… I’m so lucky that they’re huge pieces without any real weight…
 
@@ -982,25 +968,15 @@ Which means…
 We’re…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble MidoriMika %}
 Trapped in hereeeeeee!?
 {% endbubble %}
 
 ## Chapter 4
 
-{% img Dollhouse - Chapter 4.png %}
-
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
-
-{% bubble Heading %}
-Back to the present
-{% endbubble %}
-
-{% bubble Warning %}
-Casual suicide mention.
-{% endbubble %}
+<div class="msr-narration">
+    <p>Back to the present…</p>
+</div>
 
 {% bubble Midori %}
 *Siiiighhh…* This is so depressing…
@@ -1168,12 +1144,6 @@ Hehe, true. But I wouldn’t wanna stay in a place like this for too long, so I 
 
 ## Chapter 5
 
-{% img Dollhouse - Chapter 5.png %}
-
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
-
 {% bubble Midori %}
 He’s *still* not here…!
 {% endbubble %}
@@ -1224,7 +1194,7 @@ Aight, then how about we go deeper inside? I see a huuuge stage set from ‘ere.
 Okay.
 {% endbubble %}
 
-{% img <th>(Fanciful Dollhouse)</th> Mika Kagehira CG.png %}
+{% img /img/es/scoutstory/dollhouse/mikaorigcg.jpg %}
 
 {% bubble Mika %}
 …Alrightie. Look, look, Midori-kun! This set looks like a huge dollhouse, it’s so cute~
@@ -1237,11 +1207,11 @@ Midori-kun, ya listenin’? ‘s lonely when I’m just talking t’myself, y’
 {% endbubble %}
 
 {% bubble Midori %}
-Uwaaaaaaa…♪ It’s the legendary “Niku-nikumatan☆”[^5] stage set~…♪
+Uwaaaaaah…♪ It’s the legendary “Niku-nikumatan☆”[^5] stage set~…♪
 
 It was a show where you did stretching exercises with this bear mascot who loves building muscle—
 
-But Niku-nikumatan☆ immediately pulled a muscle on the first episode, and it was never aired ever again! It’s like the show was just a dream! Uwaaaaa…! I can’t believe it’s right before my very eyes~☆
+But Niku-nikumatan☆ immediately pulled a muscle on the first episode, and it was never aired ever again! It’s like the show was just a dream! Uwaaaah…! I can’t believe it’s right before my very eyes~☆
 {% endbubble %}
 
 {% bubble Mika %}
@@ -1316,14 +1286,14 @@ Ughh… Weren’t you supposed to be a hero to anyone in need…? You always sti
 I know there’s that whole “a hero always arrives in the nick of time” saying, but can you *not* do that this time…?
 {% endbubble %}
 
-{% img Dollhouse - Chapter 5 Scene Change 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ES (Exterior)</span></p>
+</div>
 
-{% note location %}
-**Location:** ES (Exterior)
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/5_1.jpg %}
 
 {% bubble Chiaki %}
-Mm… Where on earth is Takamine? It’s already time for practice… I think his phone is dead because I can’t call him, either.
+Mm… Where on earth is Takamine? It’s already time for practice… I think his phone is dead, because I can’t call him, either.
 
 <th>(I tried asking around, and it sounds like he was delivering vegetables early in the morning…)</th>
 
@@ -1350,11 +1320,11 @@ I’ve asked the other three to start practice without the two of us, but I’m 
 A detective’s work involves using his feet! This is just like Space Sheriff Gavan — I’m all fired up~♪
 {% endbubble %}
 
-{% img Dollhouse - Chapter 5 Scene Change 2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Set Piece Storehouse</span></p>
+</div>
 
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/5_2.jpg %}
 
 {% bubble Midori %}
 Ah, speaking of which — I’ve been curious about something…
@@ -1412,11 +1382,7 @@ We’ll die if we wait a whole week… I can’t stand the thought of my usual p
 
 ## Chapter 6
 
-{% img (Fantasy Dollhouse) Midori Takamine CG.png %}
-
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/midoriorigcg.jpg %}
 
 {% bubble Mika %}
 Mmrgh~! M-Midori-kun, could ya go a li’l higher? Just a li’l more… Just another ten centimeters…!
@@ -1526,14 +1492,14 @@ Aight, I reckon I could hang it up if ya lift me one more time? My hands reached
 There’s a lot of trees around here, so I dunno if anyone will notice, but… This is all we have right now. Let’s try it.
 {% endbubble %}
 
-{% img Dollhouse - Chapter 6 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Forested Pathway</span></p>
+</div>
 
-{% note location %}
-**Location:** Forested Pathway
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/6_1.jpg %}
 
 {% bubble Chiaki %}
-Mm… He isn’t here, either…
+Mmm… He isn’t here, either…
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1623,7 +1589,7 @@ Really? But there’s folklore for every place you go, as well as cases of it ha
 {% endbubble %}
 
 {% bubble Chiaki %}
-No, really, there’s no way it could! We should stop talking about this, okay!? If we keep this conversation going, it may actually—Nono, it won’t happen, it *won’t!!*
+No, really, there’s no way it could! We should stop talking about this, okay!? If we keep this conversation going, it may actually— Nono, it won’t happen, it *won’t!!*
 
 C’mon now, let’s talk about something fun! Something as bright as the sun! …Maybe we could talk *about* the sun?
 {% endbubble %}
@@ -1638,11 +1604,11 @@ Ah! You’re right! We should accomplish our goal first!
 
 ## Chapter 7
 
-{% img Dollhouse - Chapter 7.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Set Piece Storehouse</span></p>
+</div>
 
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/7_1.jpg %}
 
 {% bubble Midori %}
 *Sigh*… Nothing, huh…
@@ -1686,8 +1652,6 @@ No, um… By that, do you—
 ……………
 {% endbubble %}
 
-{% img Dollhouse - Chapter 7 (1).png %}
-
 {% bubble Midori %}
 <th>(Why won’t you come save us…?)</th>
 
@@ -1714,8 +1678,6 @@ No, um… By that, do you—
 <th>(…No. I’m already aware… I’m just taking it out on you.)</th>
 {% endbubble %}
 
-{% img Dollhouse - Chapter 7 (2).png %}
-
 {% bubble Midori %}
 <th>(I didn’t wanna accept the truth, and it’s been making my heart race like crazy…)</th>
 
@@ -1741,8 +1703,6 @@ I’m… I’m sorry, Kagehira-senpai.
 {% bubble Mika %}
 Huh!? What’s wrong!? Why’re ya apologizin’ outta nowhere!? It’s my fault that yer here, so *I’m* the one who’s supposed ta say sorry!
 {% endbubble %}
-
-{% img Dollhouse - Chapter 7 <th>(3)</th>.png %}
 
 {% bubble Midori %}
 No, not that… It’s just, you’ve been thinking up so many ways to get out of here, and all I’ve done so far is reject each and every one of them…
@@ -1840,16 +1800,6 @@ Gosh… Thanks to that shock you gave me—all my moping just flew right out of 
 
 ## Chapter 8
 
-{% img Dollhouse - Chapter 8.png %}
-
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
-
-{% bubble Warning %}
-Casual suicide mention.
-{% endbubble %}
-
 {% bubble Mika %}
 Aight then, let’s get back ta thinkin’ up ways ta get outta ‘ere!
 {% endbubble %}
@@ -1886,15 +1836,15 @@ Ahaha, ya sound so much more confident now.
 Aight then. Let’s try it~!
 {% endbubble %}
 
-{% img Dollhouse - Chapter 8 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Forested Pathway</span></p>
+</div>
 
-{% note location %}
-**Location:** Forested Pathway
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/8_1.jpg %}
 
-{% bubble Heading %}
-Deep into the path
-{% endbubble %}
+<div class="msr-narration">
+    <p>Deep into the path…</p>
+</div>
 
 {% bubble Chiaki %}
 Uu… The woods are so quiet, it’s a little unsettling…
@@ -1962,9 +1912,11 @@ Ohhh! Flip it around, and it becomes “es-oh-es”!
 Ah, that’s it! They call it mirrored writing~ How interesting, it’s like a visual illusion~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
-…*SOS!?*
+{% bubble ChiakiTsumugi %}
+*…SOS!?*
+{% endbubble %}
 
+{% bubble Chiaki %}
 W-What’s going on!? Why is there a request for help outside the storehouse!?
 {% endbubble %}
 
@@ -1980,11 +1932,11 @@ So that means… What Takamine wanted to say was—
 *“Kagehira-kun is stuck with me in the set piece storehouse”!?*
 {% endbubble %}
 
-{% img Dollhouse - Chapter 8 Scene Change 2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Set Piece Storehouse</span></p>
+</div>
 
-{% note location %}
-**Location:** Set Piece Storehouse
-{% endnote %}
+{% img /img/es/scoutstory/dollhouse/8_2.jpg %}
 
 {% bubble Midori %}
 Alright then, we’ll charge on the count of three.
@@ -2006,7 +1958,7 @@ One—
 Mika-kun, are you okaaaaaayyy!?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble MidoriMika %}
 Gaaaaaaaaaaah!?
 {% endbubble %}
 
@@ -2019,7 +1971,7 @@ Huh? M-Morisawa-senpai…?
 {% endbubble %}
 
 {% bubble Mika %}
-T-Tsumuchan-senpai…? Why are ya…?
+T-Tsumuchan-senpai…? Why’re ya…?
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -2049,7 +2001,7 @@ Huh? B-But, we couldn’t open it no matter how hard we pushed or pulled…!
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ummm…? It’s a slider door, y’know? Look—It opens when you slide it.
+Ummm…? It’s a sliding door, y’know? Look—It opens when you slide it.
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -2063,7 +2015,7 @@ Wha…
 {% bubble Mika %}
 A-Ahaha…
 
-We were so panicked, we never considered the possibility of it bein’ a slide door…
+We were so panicked, we never considered the possibility of it bein’ a sliding door…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -2113,7 +2065,7 @@ Takamine! Our comrades are waiting for your return! Let’s return at the speed 
 {% endbubble %}
 
 {% bubble Midori %}
-……
+…………
 {% endbubble %}
 
 {% bubble Chiaki %}
