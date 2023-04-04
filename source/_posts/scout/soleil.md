@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Soleil (Chapter 1 Only!)"
-date: 2021-10-30 15:00:00
+date: 2021-10-30 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]

@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Beasts (In Progress!)"
-date: 2021-11-27 9:00:00
+date: 2018-3-14 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Arashi]
@@ -78,7 +78,7 @@ permalink: beasts/
                             Proofreading
                         </div>
                         <div class="value">
-                            To be added!
+                            ryuseipuka, Shie, Anonymous
                         </div>
                     </div>
                 </div>
@@ -165,7 +165,7 @@ permalink: beasts/
                             Proofreading
                         </div>
                         <div class="value">
-                            To be added!
+                            ryuseipuka, Shie, Anonymous
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Doll House"
-date: 2021-10-29 9:10:00
+title: "[ES!!] Dollhouse"
+date: 2020-7-14 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -11,22 +11,22 @@ tags:
 - Scout Story
 - Nishioka Maiko
 - Story Index
-description: "[ES!!] TBA"
+description: "[ES!!] Midori hears the voice of someone in trouble, and finds Mika struggling to look for Daikichi. They chase after him into the storehouse, only to get locked inside…"
 permalink: dollhouse/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/dollhouse/NAMEbcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/scoutstory/dollhouse/midoriorigcg.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
+                <div class="title-area__title">Dollhouse</div>
+                <div class="title-area__subtitle">ドールハウス</div>
+                <div class="title-area__start"><a href="/dollhouse#Chapter-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Midori hears the voice of someone in trouble, and finds Mika struggling to look for Daikichi. They chase after him into the storehouse, only to get locked inside…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -58,11 +58,10 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Mika" character="Mika"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Tsumugi" character="Tsumugi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -107,15 +106,15 @@ hidden: true
                 <div><img src="/img/es/scoutstory/dollhouse/midoribcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Doll House</div>
+                <div class="title-area__title">Dollhouse</div>
                 <div class="title-area__subtitle">ドールハウス</div>
                 <div class="title-area__start">
-                    <a href="TBA">Start Reading</a>
+                    <a href="#Chapter-1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Midori hears the voice of someone in trouble, and finds Mika struggling to look for Daikichi. They chase after him into the storehouse, only to get locked inside…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -177,18 +176,18 @@ hidden: true
                     <div class="tab-content">
                         <div class="tab-item">
                             <div class="label">
-                                Event
+                                Scout
                             </div>
                             <div class="value">
-                                Doll House
+                                Dollhouse
                             </div>
                         </div>
                         <div class="tab-item">
                             <div class="label">
-                                Event Duration
+                                Scout Duration
                             </div>
                             <div class="value">
-                                2020/5/31 (15:00 JST) - 2020/6/8 (22:00 JST)
+                                2020/7/14 (15:00 JST) - 2020/7/30 (15:00 JST)
                             </div>
                         </div>
                     </div>
@@ -204,7 +203,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/dollhouse/mikaorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 5
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -212,7 +211,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/dollhouse/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 6
                                 </div>
                             </div>
                         </div>
@@ -227,42 +226,6 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/chiakicard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/chiakibcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
                                         <img src="/img/es/scoutstory/dollhouse/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
@@ -271,25 +234,25 @@ hidden: true
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
                                             <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="bloomed">Everything around me is just really small, right!?<!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Fantasy Dollhouse] Midori Takamine</div>
+                                    <div class="card__jp">[妄想ドールハウス] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ドールの災難--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--全力の肩車--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--納品の手伝い--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -299,10 +262,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/kanatacard.jpg">
+                                        <img src="/img/es/scoutstory/dollhouse/mikacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/kanatabcard.jpg">
+                                        <img src="/img/es/scoutstory/dollhouse/mikabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -312,20 +275,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[Fanciful Dollhouse] Mika Kagehira</div>
+                                    <div class="card__jp">[空想ドールハウス] 影片 みか</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ドールの目線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--入館証の奪還--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--脱出SOS--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -335,10 +298,46 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/shinobucard.jpg">
+                                        <img src="/img/es/scoutstory/dollhouse/chiakicard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/dollhouse/shinobubcard.jpg">
+                                        <img src="/img/es/scoutstory/dollhouse/chiakibcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--目線ひとつで新体験だな！--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Ranger of Dollhouse] Chiaki Morisawa</div>
+                                    <div class="card__jp">[突撃ドールハウス] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--ドールの居場所--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--暗号メッセージ--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--レッスンの呼び出し--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/dollhouse/tsumugicard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/dollhouse/tsumugibcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -348,8 +347,8 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Rescuer of Dollhouse] Tsumugi Aoba</div>
+                                    <div class="card__jp">[救出ドールハウス] 青葉 つむぎ</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -1636,7 +1635,7 @@ Huh…?
 Ah! I’m only gonna make ya anxious if I keep talkin’ like this, aren’t I? ‘m real sorry!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 No, um… By that, do you—
 
 …No, nothing.
