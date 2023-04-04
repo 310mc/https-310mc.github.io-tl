@@ -56,11 +56,11 @@ hidden: true
 
 <!-- more -->
 
-{% img Sweet Halloween - Epilogue.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Halloween Party Concert Hall (Ra*bits)</span></p>
+</div>
 
-{% note location %}
-**Location:** Halloween Party Concert Hall (Ra*bits)
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/ep1_1.jpg %}
 
 {% bubble Nazuna %}
 Tomo-chin? Hajime-chin? What’s up, did something happen?
@@ -111,13 +111,13 @@ Alrighty then, I’ll start dancing even harder! I’ll give some space for you 
 {% bubble Hajime %}
 Okay…♪ I’ll do my best~!
 
-(Ehehe, I’m so happy… I can’t help but feel at ease. It’s entirely my fault for losing all my strength to perform on the day of the live show, and yet… Instead of throwing me away as some waste of space, they let me be useful to them…)
+<th>(Ehehe, I’m so happy… I can’t help but feel at ease. It’s entirely my fault for losing all my strength to perform on the day of the live show, and yet… Instead of throwing me away as some waste of space, they let me be useful to them…)</th>
 
-(I’m so happy~ I’m so, so glad to be part of Ra*bits.)
+<th>(I’m so happy~ I’m so, so glad to be part of Ra*bits.)</th>
 
-(No, not just that… I’m so glad I joined Yumenosaki, and yearned to be an idol. I’m sure that no matter what happens, I won't regret anything.)
+<th>(No, not just that… I’m so glad I joined Yumenosaki, and yearned to be an idol. I’m sure that no matter what happens, I won't regret anything.)</th>
 
-(I’m so, so happy right now…♪)
+<th>(I’m so, so happy right now…♪)</th>
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -138,7 +138,7 @@ I really, really am alright.
 …Yeah, gotcha. If that’s what you say, then I believe you.
 {% endbubble %}
 
-{% img (Challenge Zombie) Tomoya Mashiro CG2.png %}
+{% img /img/es/eventstory/sweethalloween/tomoyabcg.jpg %}
 
 {% bubble Tomoya %}
 To be honest, I don’t ever have the time to be worrying about other people. I’ve been scraping the barrel just trying to reach the average.
@@ -153,33 +153,33 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 {% endbubble %}
 
 {% bubble Hajime %}
-(Ahaha, you’re hopping about, Tomoya-kun… You did practice acting like a bunny a whole lot, after all.)
+<th>(Ahaha, you’re hopping about, Tomoya-kun… You did practice acting like a bunny a whole lot, after all.)</th>
 
-(It’s so cute how you work hard with all your might.)
+<th>(It’s so cute how you work hard with all your might.)</th>
 
-(You’re cute, and so cool.)
+<th>(You’re cute, and so cool.)</th>
 
-(I remember that time in junior high. We were on our way back to school from the marathon…)
+<th>(I remember that time in junior high. We were on our way back to school from the marathon…)</th>
 
-(You noticed how slow I was, and turned back to ask if I was okay…)
+<th>(You noticed how slow I was, and turned back to ask if I was okay…)</th>
 
-(And then you picked me up like a princess. I was embarrassed, but you must’ve been embarrassed about it, too.)
+<th>(And then you picked me up like a princess. I was embarrassed, but you must’ve been embarrassed about it, too.)</th>
 
-(Yet you still carried me, even though you didn’t have the strength to… All for my sake.)
+<th>(Yet you still carried me, even though you didn’t have the strength to… All for my sake.)</th>
 {% endbubble %}
 
-{% img (Honey Zombie) Hajime Shino CG2.png %}
+{% img /img/es/eventstory/sweethalloween/hajimebcg.jpg %}
 
 {% bubble Hajime %}
-(You’ve been my prince ever since that day.)
+<th>(You’ve been my prince ever since that day.)</th>
 
-(It may be wrong to make a cool prince do cute things…)
+<th>(It may be wrong to make a cool prince do cute things…)</th>
 
-(And we may someday find it hard to be together, break off, and walk different paths from each other…)
+<th>(And we may someday find it hard to be together, break off, and walk different paths from each other…)</th>
 
-(But for now, stay by my side…)
+<th>(But for now, stay by my side…)</th>
 
-(And let’s sing together.)
+<th>(And let’s sing together.)</th>
 
 “♪\~♪\~♪”
 {% endbubble %}

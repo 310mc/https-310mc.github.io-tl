@@ -79,11 +79,11 @@ hidden: true
 
 ## Chapter 1
 
-{% img Sweet Halloween - dis harmony 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-A</span></p>
+</div>
 
-{% note location %}
-**Location:** Classroom 1-A
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/disharmony1_1.jpg %}
 
 {% bubble Tomoya %}
 *Sigh…*
@@ -204,7 +204,7 @@ Y-Yes. I met him at the school gate. It would have been weird if we tried to go 
 {% endbubble %}
 
 {% bubble Midori %}
-Wow, you’re too good at socialising… I would’ve definitely run away from that situation if it were me…
+Wow, you’re too good at socializing… I would’ve definitely run away from that situation if it were me…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -234,7 +234,7 @@ Hmm…? What do you mean…?
 {% endbubble %}
 
 {% bubble Tetora %}
-Ah, you still don’t know, right? I happened to meet Taichou on my way here, so he told me about it.
+Ah, you still dunno, right? I happened to meet Taichou on my way here, so he told me 'bout it.
 
 It looks like we’re gonna be participating in the Halloween Party together with Ra*bits and another unit. It's happening in two weeks from now.
 
@@ -243,11 +243,11 @@ So we’re all in the same boat together this time~♪
 
 ## Chapter 2
 
-{% img Sweet Halloween - dis harmony 2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> At the Fountain</span></p>
+</div>
 
-{% note location %}
-**Location:** At the fountain
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/disharmony2_1.jpg %}
 
 {% bubble Kanata %}
 *puka, puka…♪*
@@ -270,7 +270,7 @@ You are a third year — a *senior!* Be a little more sensible please!
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe. Shinobu, even you say stuff like that now\~ Lately, it feels like you are assertive to me, as well\~♪
+ufufu. Shinobu, even you say stuff like that now\~ Lately, it feels like you are assertive to me, as well\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -351,11 +351,7 @@ Besides, I can grow to love almost anything as long as it is ninja-related~
 
 ## Chapter 3
 
-{% img Sweet Halloween - dis harmony 3.png %}
-
-{% note location %}
-**Location:** At the fountain
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/disharmony3_1.jpg %}
 
 {% bubble Mitsuru %}
 Slaaam! ☆
@@ -460,19 +456,19 @@ Hrnnn… We are going to be working with the rogue? It feels like it will only b
 
 Well… I suppose that lately I do not dislike things being rowdy, anyway.
 
-Three units together… that is a pretty large amount of people. Hrmm, will we really be able to work well together…?
+Three units together… that is a pretty large amount of people. Hmm, will we really be able to work well together…?
 {% endbubble %}
 
 ## Chapter 4
 
-{% img Sweet Halloween - dis harmony 4.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Basketball Court</span></p>
+</div>
 
-{% note location %}
-**Location:** Basketball Court
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/disharmony4_1.jpg %}
 
 {% bubble Chiaki %}
-……
+…………
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -639,12 +635,6 @@ That’s true… Ahh man… Living a normal life is tough.
 
 ## Chapter 5
 
-{% img Sweet Halloween - dis harmony 5.png %}
-
-{% note location %}
-**Location:** Basketball Court
-{% endnote %}
-
 {% bubble Hajime %}
 Everyooone, here’s your tea~♪
 
@@ -728,7 +718,7 @@ MaM is all in this, too! Hahaha, calling out our unit names one by one makes it 
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh, okay… Urghh… Alright, I’m not good at this, but I’ll do it.
+Oh, okay… Ughh… Alright, I’m not good at this, but I’ll do it.
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -814,33 +804,27 @@ Okaaay~ You may end up needing the bathroom if you drink it too quickly, so plea
 {% endbubble %}
 
 {% bubble Nazuna %}
-………
+…………
 
-(Mmm… Hajime-chin and Tomo-chin are still acting awkward around each other…)
+<th>(Mmm… Hajime-chin and Tomo-chin are still acting awkward around each other…)</th>
 
-(I thought that things between them would go back to normal after a while, since it’s those two we’re talking about…)
+<th>(I thought that things between them would go back to normal after a while, since it’s those two we’re talking about…)</th>
 
-(But I guess with something as big as the Halloween Party coming up, that might not be the case…)
+<th>(But I guess with something as big as the Halloween Party coming up, that might not be the case…)</th>
 
-(Maybe I should get myself involved instead of just waiting to see how things turn out…)
+<th>(Maybe I should get myself involved instead of just waiting to see how things turn out…)</th>
 
-(But I’m not sure what to do… I’m not used to this kind of stuff…)
+<th>(But I’m not sure what to do… I’m not used to this kind of stuff…)</th>
 
-(If it was Mitsuru-chin acting this way, I’d be able to easily understand the problem and come up with a solution…)
+<th>(If it was Mitsuru-chin acting this way, I’d be able to easily understand the problem and come up with a solution…)</th>
 
-(But I don’t have a single clue as to why Hajime-chin and Tomo-chin are fighting… Just what happened? They’ve always been such good kids, too…)
+<th>(But I don’t have a single clue as to why Hajime-chin and Tomo-chin are fighting… Just what happened? They’ve always been such good kids, too…)</th>
 {% endbubble %}
 
 ## Chapter 6
 
-{% img Sweet Halloween - dis harmony 6.png %}
-
-{% note location %}
-**Location:** Basketball Court
-{% endnote %}
-
 {% bubble Chiaki %}
-*Cough*… Ahem, as I was saying, I hope that we can count on each other for this event.
+<th><em>(Cough)</em></th>… Ahem, as I was saying, I hope that we can count on each other for this event.
 
 Hopefully, we’ll be able to get through a grand event like Halloween Party with everyone’s cooperation.
 
@@ -906,7 +890,7 @@ I’m all for the idea of just sleeping over whenever you can, and coming to sch
 {% endbubble %}
 
 {% bubble Madara %}
-… Kanata-san. If that’s the problem, then maybe I should try having a talk with your household?
+…Kanata-san. If that’s the problem, then maybe I should try having a talk with your household?
 {% endbubble %}
 
 {% bubble Kanata %}

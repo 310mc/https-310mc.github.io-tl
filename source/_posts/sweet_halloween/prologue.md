@@ -52,11 +52,11 @@ hidden: true
 
 <!-- more -->
 
-<img src="https://image.ibb.co/iQy8TG/IMG_4396.png">
+<div class="msr-location">
+    <p><span><b>Location:</b> At the Bulletin Board</span></p>
+</div>
 
-{% note location %}
-**Location:** At the bulletin board
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/prologue_1.jpg %}
 
 {% bubble Hajime %}
 (*Sigh…* I’m not sure what to do now… Why did things turn out this way…)

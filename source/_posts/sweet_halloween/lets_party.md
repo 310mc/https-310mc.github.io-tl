@@ -73,11 +73,11 @@ hidden: true
 
 ## Chapter 1
 
-{% img Sweet Halloween - let's party! 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Passage 1-F (Halloween)</span></p>
+</div>
 
-{% note location %}
-**Location:** Passage 1-F (Halloween)
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/letsparty1_1.jpg %}
 
 <div class="msr-narration">
     <p>Two weeks later — The day of Halloween Party…</p>
@@ -110,7 +110,7 @@ Either way! I’m an immortal type of monster, so a gun won’t be enough to kil
 
 Hm? What am I going as?
 
-Hrmm… I thought about being a cyclops at first, but the eyeball would look pretty gross, right? It’d make me look bad in front of people.
+Hmm… I thought about being a cyclops at first, but the eyeball would look pretty gross, right? It’d make me look bad in front of people.
 
 So after going through countless ideas, I finally decided on being a “Guardian of the Valley of Kings”! So basically an Egyptian monster. If you wanted to be more specific, then I guess it’d be a mummy.
 
@@ -233,12 +233,6 @@ Ahaha, Morisawa-senpai’s acting just like a little kid at a haunted house…�
 
 ## Chapter 2
 
-{% img Sweet Halloween - let's party! 2.png %}
-
-{% note location %}
-**Location:** Passage 1-F (Halloween)
-{% endnote %}
-
 {% bubble Midori %}
 Morisawa-senpai, you really are bad with monsters, huh?
 
@@ -246,7 +240,7 @@ I’m not really good with them either, but seeing someone who's more afraid tha
 {% endbubble %}
 
 {% bubble Tetora %}
-Hrmm… I don’t feel like there’s any reason to be afraid, though.
+Hmm… I don’t feel like there’s any reason to be afraid, though.
 
 There are people walking around in monster costumes, but only a few of them are realistic-looking. Most of them are just cute ones!
 
@@ -437,11 +431,11 @@ That’s exactly why I’m not one bit scared of you guys…♪
 
 ## Chapter 3
 
-{% img Sweet Halloween - let's party! 3.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Halloween Party Concert Hall (Ryuseitai)</span></p>
+</div>
 
-{% note location %}
-**Location:** Halloween Party Concert Hall (Ryuseitai)
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/letsparty3_1.jpg %}
 
 {% bubble Mitsuru %}
 Heeey! Ryuseitai! Over here, over here~! ♪
@@ -725,7 +719,7 @@ I think I finally got through them all, though… Ahh man, I’m exhausted.
 Hehe, you’ve got a lot of stamina, so you’ll be fine! You can do it, you can~♪
 {% endbubble %}
 
-{% img (Horror Jiangshi) Chiaki Morisawa CG2.png %}
+{% img /img/es/eventstory/sweethalloween/chiakibcg.jpg %}
 
 {% bubble Chiaki %}
 Yep! So, now that all us monsters are here, let’s quit the chatter and start entertaining our guests!
@@ -799,7 +793,7 @@ Besides, no one’ll notice shooting stars if they don’t shine… And it'd be 
 That’s why I’ll do my best, at least once in a while…♪
 {% endbubble %}
 
-{% img (Natural Jiangshi) Midori Takamine CG2.png %}
+{% img /img/es/eventstory/sweethalloween/midoribcg.jpg %}
 
 {% bubble Midori %}
 “♪\~♪\~♪”
@@ -857,26 +851,26 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% img Sweet Halloween - let's party! 5 Scene Change.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Halloween Party Concert Hall (Ra*bits)</span></p>
+</div>
 
-{% note location %}
-**Location:** Halloween Party Concert Hall (Ra*bits)
-{% endnote %}
+{% img /img/es/eventstory/sweethalloween/letsparty5_1.jpg %}
 
 {% bubble Hajime %}
-(… Hehe, everyone looks like they’re having fun. I’m so glad.)
+<th>(…Fufu, everyone looks like they’re having fun. I’m so glad.)</th>
 
-(Especially Morisawa-senpai. He was always sighing, so I was worried for him…)
+<th>(Especially Morisawa-senpai. He was always sighing, so I was worried for him…)</th>
 
-(But he truly is the person Akehoshi-senpai respects. He got through his worries with ease, and is back in high spirits…♪)
+<th>(But he truly is the person Akehoshi-senpai respects. He got through his worries with ease, and is back in high spirits…♪)</th>
 
-(As for me… I think I’ve reached my limit… I’ve only realized it now, but I really must’ve tired myself out…)
+<th>(As for me… I think I’ve reached my limit… I’ve only realized it now, but I really must’ve tired myself out…)</th>
 
-(I-I feel too wobbly to stand up straight.)
+<th>(I-I feel too wobbly to stand up straight.)</th>
 
-(What do I do…? Ugh… After all that practice we all went through together… I can’t believe I ended up like this on the actual live show…)
+<th>(What do I do…? Ugh… After all that practice we all went through together… I can’t believe I ended up like this on the actual live show…)</th>
 
-(I’m so pathetic. Why am I always like this?)
+<th>(I’m so pathetic. Why am I always like this?)</th>
 {% endbubble %}
 
 {% bubble Tomoya %}

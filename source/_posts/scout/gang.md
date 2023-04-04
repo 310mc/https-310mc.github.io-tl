@@ -249,9 +249,9 @@ permalink: gang/
 **Content Warning:** This story contains multiple references to war.
 {% endnote %}
 
-{% note location %}
-**Location:** Hallway, Second Floor
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway, Second Floor</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/1.jpg %}
 
@@ -308,7 +308,7 @@ Why are you so frightened? We are classmates, are we not? ♪
 {% endbubble %}
 
 {% bubble Mika %}
-Nnah~…Well, I don’ really get why, but y’ seemed kinda scary, Yukkun. It felt like somethin’ cold was slitherin’ up my spine, or somethin’.
+Nnah~… Well, I don’ really get why, but y’ seemed kinda scary, Yukkun. It felt like somethin’ cold was slitherin’ up my spine, or somethin’.
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -529,15 +529,15 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 <th>I had forgotten it for a long time—the scent of the battlefield.)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Private Military Company Practice Grounds
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Private Military Company Practice Grounds</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/2.jpg %}
 
-{% note narration %}
-**Time:** Yuzuru Fushimi’s Childhood, in the fields of a private military company
-{% endnote %}
+<div class="msr-narration">
+    <p>Yuzuru Fushimi’s Childhood, in the fields of a private military company…</p>
+</div>
 
 {% bubble Yuzuru young %}
 <th>(………</th>
@@ -611,15 +611,15 @@ Ughh~ You monster! You drill sergeant! You son of a b*tch![^5]
 
 ## Midnight Gangsters 3
 
-{% note location %}
-**Location:** Rooftop
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Rooftop</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/3.jpg %}
 
-{% note narration %}
-**Time:** One Year Ago
-{% endnote %}
+<div class="msr-narration">
+    <p>One Year Ago…</p>
+</div>
 
 {% bubble Chiaki pastserious %}
 You absolute idiot!
@@ -687,15 +687,15 @@ I’ll be fine. I’ll make sure to live a happy life under my own power, even w
 I promise you that. So please, don’t do anything dangerous anymore.
 {% endbubble %}
 
-{% note location %}
-**Location:** AV Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> AV Room</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/4.jpg %}
 
-{% note narration %}
-**Time:** Present Time
-{% endnote %}
+<div class="msr-narration">
+    <p>Present Time…</p>
+</div>
 
 {% bubble Kuro %}
 Yo, Morisawa… Why doesn’t Ultraman just transform so he can fight already?
@@ -957,15 +957,15 @@ Ahh, man… Everything was supposed to have become peaceful in this school… So
 
 ## Midnight Gangsters 5
 
-{% note location %}
-**Location:** Private Military Company Practice Grounds
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Private Military Company Practice Grounds</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/5.jpg %}
 
-{% note narration %}
-**Time:** Back to Yuzuru Fushimi's childhood.
-{% endnote %}
+<div class="msr-narration">
+    <p>Back to Yuzuru Fushimi's childhood…</p>
+</div>
 
 {% bubble Ibara young %}
 ………
@@ -1133,15 +1133,15 @@ In my case, those feelings have yet to spring forth within me. It sounds almost 
 
 ## Midnight Gangsters 6
 
-{% note location %}
-**Location:** Hallway, Second Floor
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway, Second Floor</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/6.jpg %}
 
-{% note narration %}
-**Time:** Present Time
-{% endnote %}
+<div class="msr-narration">
+    <p>Present Time…</p>
+</div>
 
 {% bubble Yuzuru %}
 <th>(Honestly… Everything still seems unbelievable, like a dream, right now, Ibara.</th>
@@ -1303,9 +1303,9 @@ It seems as if we may have wasted quite a bit of time doing something incredibly
 
 ## Epilogue
 
-{% note location %}
-**Location:** Front Gate
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Front Gate</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/7.jpg %}
 
@@ -1431,9 +1431,9 @@ No… Something seems a little off.
 It seems the car is here to pick us up. Let us head home, everyone.
 {% endbubble %}
 
-{% note location %}
-**Location:** Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
 
 {% img /img/es/scoutstory/gang/8.jpg %}
 

@@ -1,6 +1,6 @@
 ---
-title: Ensemble Stars & Helios Translation Masterlist
-description: A list of translations by 310mc. You will find Enstars / Ensemble Stars and Helios Rising Heroes translations in this blog site.
+title: Ensemble Stars Translation Masterlist
+description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
 <link rel="stylesheet" href="/css/storylist.css">
@@ -43,6 +43,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 
 **Ensemble Stars**
 <ul>
+<li><a href="#Main-Stories">Main Story</a></li>
 <li><a href="#Event-Stories">Event Story</a></li>
 <li><a href="#Gacha-Stories">Gacha / Scout Story</a></li>
 <li><a href="#Idol-Stories">Idol / Feature Scout Story</a></li>
@@ -52,7 +53,36 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 <li><a href="#Other">Other</a></li>
 </ul>
 
-<a href="#Helios-Rising-Heroes">Helios Rising Heroes</a>
+## Main Stories
+
+<h4>Ensemble Stars!! Era</h4>
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/es2mainstory/firstmainstorybanner.jpg"
+            alt="First Main Story (Chapter 123-124)"
+        />
+    </div>
+    <a href="/es2_mainstory/ch123_124" class="storyName" target="_blank">
+        <span>First Main Story (Chapter 123-124)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/es2mainstory/ssfinalsbanner.jpg"
+            alt="SS Finals"
+        />
+    </div>
+    <a href="#Main-Stories" class="storyName" target="_blank">
+        <span>SS Finals (Coming Soon!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+</div>
 
 ## Event Stories
 <h4>Ensemble Stars! Era</h4>
@@ -813,7 +843,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     </div>
 </div>
 
-## Helios Rising Heroes
+<!--## Helios Rising Heroes
 <div class="stories">
     <div class="story">
         <div class="image">
@@ -827,6 +857,6 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
-</div>
+</div>-->
 <br>
 <div style="margin-bottom:5px">{% btn #Translation-Usage,, arrow-up, Back to Top %}</div>

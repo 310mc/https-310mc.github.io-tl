@@ -136,7 +136,7 @@ If we needed to, we could even change into our gym clothes, or we could bring ov
 {% endbubble %}
 
 {% bubble Nazuna %}
-Hrmm… We’re gonna be in school, so we shouldn’t be walking around in our own clothes.
+Hmm… We’re gonna be in school, so we shouldn’t be walking around in our own clothes.
 
 But I wanna ask, Chiaki-chin… Is there a smaller size than the one I’m wearing right now? My pants are too long.
 
@@ -416,7 +416,7 @@ We probably won’t even get the time to decorate the outside of the building at
 {% endbubble %}
 
 {% bubble Tetora %}
-Hrmm… The academy *is* pretty big, and for once we’re having guests enter the school…
+Hmm… The academy *is* pretty big, and for once we’re having guests enter the school…
 
 The usual DreamFes just require setting up the stage, though.
 {% endbubble %}
@@ -534,7 +534,7 @@ What are you even fighting against…?
 {% endbubble %}
 
 {% bubble Midori %}
-Hrm… Hey, is it just me, or is Morisawa-senpai acting weird lately…?
+Hm… Hey, is it just me, or is Morisawa-senpai acting weird lately…?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -568,7 +568,7 @@ You freaked me out! You’re good-looking, so it’s terrifying when you get a s
 {% endbubble %}
 
 {% bubble Midori %}
-Hrnn… No, I’m the one who’s sorry… I’m also shocked by my own reaction…
+Hnn… No, I’m the one who’s sorry… I’m also shocked by my own reaction…
 {% endbubble %}
 
 ## Chapter 4
@@ -614,7 +614,7 @@ It felt really closed off from the world…
 {% endbubble %}
 
 {% bubble Tetora %}
-Hrmm… No one ever tells us about what happened in the past, and there’s only so much we can assume, so… It’d be better to just ask him directly.
+Hmm… No one ever tells us about what happened in the past, and there’s only so much we can assume, so… It’d be better to just ask him directly.
 
 Taichou~ Um, do you hate Halloween?
 {% endbubble %}
@@ -850,7 +850,7 @@ Ah— S-sorry… I lashed out on you.
 {% bubble Tetora %}
 No, it’s okay. I’m bothered by that part of myself, too. I don’t really like being soft about things, so I choose to be more straightforward.
 
-I know it’s important to be thoughtful to other people and try to put yourself in their shoes, and to work on settling your differences when you get in an argument, but… urghh… That kinda stuff just irritates me.
+I know it’s important to be thoughtful to other people and try to put yourself in their shoes, and to work on settling your differences when you get in an argument, but… Ughh… That kinda stuff just irritates me.
 
 But… While it might feel like a relief to let everything out, you might end up hurting that person’s feelings.
 
@@ -904,7 +904,7 @@ Hey, Tetora… Am I cute?
 {% endbubble %}
 
 {% bubble Tetora %}
-Huh? Hrmm… Yeah, you are. Cute enough that I forget you’re my age. You look like a little kid, which is normally cute.
+Huh? Hmm… Yeah, you are. Cute enough that I forget you’re my age. You look like a little kid, which is normally cute.
 {% endbubble %}
 
 {% bubble Tomoya %}

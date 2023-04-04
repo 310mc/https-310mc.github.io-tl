@@ -8,8 +8,8 @@ tags:
 - Scout Story
 - Kino Seitarou
 description: "[ES!!] TBA"
-hidden: true
 permalink: flowers_of_the_wasteland/
+hidden: true
 ---
 
 {% note narration %}
