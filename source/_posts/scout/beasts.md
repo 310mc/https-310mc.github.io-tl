@@ -1,5 +1,5 @@
 ---
-title: "[ES!] Beasts (In Progress!)"
+title: "[ES!] Beasts"
 date: 2018-3-14 9:00:00
 categories:
 - [Enstars, ES!]
@@ -22,7 +22,7 @@ permalink: beasts/
             <div class="title-area">
                 <div class="title-area__title">Beasts</div>
                 <div class="title-area__subtitle">ケダモノ</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/beasts">Start Reading</a></div>
+                <div class="title-area__start"><a href="/beasts#Center-of-the-World-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -34,7 +34,7 @@ permalink: beasts/
                             Season
                         </div>
                         <div class="value">
-                            Spring, before Repayment Festival
+                            Spring, before <a href="/climax">graduation season</a>
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -109,7 +109,7 @@ permalink: beasts/
             <div class="title-area">
                 <div class="title-area__title">Beasts</div>
                 <div class="title-area__subtitle">ケダモノ</div>
-                <div class="title-area__start"><a href="https://euni2319.dreamwidth.org/tag/beasts">Start Reading</a></div>
+                <div class="title-area__start"><a href="#Center-of-the-World-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -121,7 +121,7 @@ permalink: beasts/
                             Season
                         </div>
                         <div class="value">
-                            Spring, before Repayment Festival
+                            Spring, before <a href="/climax">graduation season</a>
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -216,7 +216,7 @@ permalink: beasts/
                                     <img src="/img/es/scoutstory/beasts/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Center of the World 4
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -224,7 +224,7 @@ permalink: beasts/
                                     <img src="/img/es/scoutstory/beasts/arashiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Center of the World 6
                                 </div>
                             </div>                            
                         </div>
@@ -234,22 +234,20 @@ permalink: beasts/
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                    <li>
-                        <a href="https://euni2319.dreamwidth.org/tag/beasts" id="none">Dreamwidth</a>
-                    </li>                                          
-                      <!--  <li>
+                    <li>                                        
+                      <li>
                             <span>Center of the World</span>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <a href="#Center-of-the-World-1" id="none">1</a>
+                            <a href="#Center-of-the-World-2" id="none">2</a>
+                            <a href="#Center-of-the-World-3" id="none">3</a>
+                            <a href="#Center-of-the-World-4" id="none">4</a>
+                            <a href="#Center-of-the-World-5" id="none">5</a>
+                            <a href="#Center-of-the-World-6" id="none">6</a>
+                            <a href="#Center-of-the-World-7" id="none">7</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">x</a>
-                        </li>-->
+                            <a href="#Epilogue" id="none">Epilogue</a>
+                        </li>
                     </ul>
                 </div>              
             </div>
