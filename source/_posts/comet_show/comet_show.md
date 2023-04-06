@@ -467,11 +467,11 @@ permalink: comet_show/
                             <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="none">2</a>
                             <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="none">3</a>
                             <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="none">4</a>
-                            <a href="/comet_show/second_half" id="none">5</a>
-                            <a href="/comet_show/second_half" id="none">6</a>
-                            <a href="/comet_show/second_half" id="none">7</a>
-                            <a href="/comet_show/second_half" id="none">8</a>
-                            <a href="/comet_show/second_half" id="none">9</a>
+                            <a href="/comet_show/second_half#Chapter-5" id="none">5</a>
+                            <a href="/comet_show/second_half#Chapter-6" id="none">6</a>
+                            <a href="/comet_show/second_half#Chapter-7" id="none">7</a>
+                            <a href="/comet_show/second_half#Chapter-8" id="none">8</a>
+                            <a href="/comet_show/second_half#Chapter-9" id="none">9</a>
                         </li>
                         <li>
                             <a href="/comet_show/epilogue" id="none">Epilogue</a>
@@ -492,8 +492,8 @@ permalink: comet_show/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="none">1</a>
-                            <a href="minitalk/midori_2" id="none">2</a>
+                            <a href="minitalk/midori_1" id="none">Part One</a>
+                            <a href="minitalk/midori_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

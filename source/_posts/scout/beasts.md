@@ -265,7 +265,7 @@ permalink: beasts/
     <p><span><b>Location:</b> Studio</span></p>
 </div>
 
-{% img /img/es/scoutstory/beasts/1.jpg %}
+{% img /img/es/scoutstory/beasts/1_1.jpg %}
 
 {% bubble Tetora %}
 Ossu, hello! I’m Nagumo Tetora from Ryuseitai! I’m enterin’ the studio if you don’t mind~! ☆
@@ -370,13 +370,13 @@ Righty then, I’ll leave you alone now! Thank you so much for all your help~!
 {% endbubble %}
 
 {% bubble Ritsu %}
-(…And he dashed off. Youngsters sure are energetic…)
+<th>(…And he dashed off. Youngsters sure are energetic…)</th>
 
-(But really, why did he want to see Nacchan… Aren’t those two complete opposites? Like, I don’t think there’s any connection between the two…)
+<th>(But really, why did he want to see Nacchan… Aren’t those two complete opposites? Like, I don’t think there’s any connection between the two…)</th>
 
-(Ah, wait… Nacchan’s been doing something society keeps expecting from them, I think…)
+<th>(Ah, wait… Nacchan’s been doing something society keeps expecting from them, I think…)</th>
 
-(If he came over to see Nacchan ‘cause of *that* rumor… Then he’s probably going to set Nacchan off, huh…)
+<th>(If he came over to see Nacchan ‘cause of *that* rumor… Then he’s probably going to set Nacchan off, huh…)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -420,17 +420,17 @@ Yeah, bye bye~
 
 Mmgh… This blanket stinks like a guy…
 
-(Mmm… I don’t get that kid at all… He looks like he’s just a bit dumb, though…)
+<th>(Mmm… I don’t get that kid at all… He looks like he’s just a bit dumb, though…)</th>
 
-(That’s exactly why people like me, who overthink things way too much, would prefer avoiding people like him…)
+<th>(That’s exactly why people like me, who overthink things way too much, would prefer avoiding people like him…)</th>
 
-(You can’t use logic to read an beast…)[^1]
+<th>(You can’t use logic to read an beast…)</th>[^1]
 
-(Although… He *did* get worried about me, and went all the way to bring a blanket for me, so I doubt he’s all that bad.)
+<th>(Although… He *did* get worried about me, and went all the way to bring a blanket for me, so I doubt he’s all that bad.)</th>
 
-(But depending on the situation — a good kid, a reasonable argument, or even a white lie can sometimes hurt someone’s feelings.)
+<th>(But depending on the situation — a good kid, a reasonable argument, or even a white lie can sometimes hurt someone’s feelings.)</th>
 
-(It feels like something bad’s gonna happen… I’m seriously starting to get worried.)
+<th>(It feels like something bad’s gonna happen… I’m seriously starting to get worried.)</th>
 {% endbubble %}
 
 ## Center of the World 2
@@ -439,7 +439,7 @@ Mmgh… This blanket stinks like a guy…
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/scoutstory/beasts/2.jpg %}
+{% img /img/es/scoutstory/beasts/2_1.jpg %}
 
 {% bubble Arashi %}
 …………
@@ -452,6 +452,8 @@ Heeeeey, Arashi-saaaaaan! I see you showed up for the club todaaay! It’s Mamaa
 {% bubble Arashi %}
 …There’s really no need to yell. I can tell it’s you from a hundred kilometers away, Mama. You do realize you’re incredibly huge, right?
 {% endbubble %}
+
+{% img /img/es/scoutstory/beasts/2_2.jpg %}
 
 {% bubble Madara %}
 Hahaha! You’re unusually in a bad mood, huuuh?
@@ -478,7 +480,7 @@ I know I’m waaay too late in saying this, buuut I don’t think you should’v
 
 It was a photo album that emphasizes your cool, manly side, right?
 
-The sales were off the charts with all sooorts of good reviews, weren’t they? Even my shut-in little sister knew about it.
+The sales were off the charts with all sooorts of good reviews, weren’t they? Even my shut-in[^2] little sister knew about it.
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -508,7 +510,7 @@ Even *Izumi-chan* praised me for it. For once, he genuinely told me I did a good
 
 I shouldn’t be upset at all. I should be twirling around in excitement. That’s how I roll… That’s how Narukami Arashi would react.
 
-At this point, I wouldn’t feel hurt at all by people’s words, whether it’s telling me I’m manly or cool… Or hurtful things, like “creepy” or “shitty okama”[^2]…
+At this point, I wouldn’t feel hurt at all by people’s words, whether it’s telling me I’m manly or cool… Or hurtful things, like “creepy” or “shitty okama”[^3]…
 
 No matter what anyone says, I love myself most.
 
@@ -609,7 +611,7 @@ Let’s see now… Okay then, let’s start with step one, Tetora-chan.
     <p><span><b>Location:</b> Fancy Shop</span></p>
 </div>
 
-{% img /img/es/scoutstory/beasts/3.jpg %}
+{% img /img/es/scoutstory/beasts/3_1.jpg %}
 
 {% bubble Arashi %}
 Come in, Tetora-chan. Welcome to a whole new world~♪
@@ -696,7 +698,7 @@ Ahaha, nobody said that, you know~? You’re pretty cautious with these things, 
 {% endbubble %}
 
 {% bubble Tetora %}
-Mmm… I’m more girly and delicate[^3] than I seem, y’see…
+Mmm… I’m more girly and delicate[^4] than I seem, y’see…
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -730,51 +732,51 @@ Oh my! They’re already having a spring sale! Kyaa~! I hope I have the money!
 {% endbubble %}
 
 {% bubble Tetora %}
-(…Mmm~ I feel like I’m on a date with an older lady… It’s makin’ me a little restless.)
+<th>(…Mmm~ I feel like I’m on a date with an older lady… It’s makin’ me a little restless.)</th>
 
-(Oh, right. I only have thirty minutes, so I’d better get moving fast.)
+<th>(Oh, right. I only have thirty minutes, so I’d better get moving fast.)</th>
 
-(But… I don’t really know what I’m supposed to look for to be cute…?)
+<th>(But… I don’t really know what I’m supposed to look for to be cute…?)</th>
 
-(I guess makeup…? Since I doubt the clothes here fit my size…)
+<th>(I guess makeup…? Since I doubt the clothes here fit my size…)</th>
 
-(Ah! Maybe if I wear these animal ears…?)
+<th>(Ah! Maybe if I wear these animal ears…?)</th>
 
-(Uu~myu, I look stupid! It just looks like I’m tryna do some kinda act!)
+<th>(Uu~myu, I look stupid! It just looks like I’m tryna do some kinda act!)</th>
 
-(Gahh! I didn’t expect things to go like this at all…!! I really dunno what to do!!)
+<th>(Gahh! I didn’t expect things to go like this at all…!! I really dunno what to do!!)</th>
 
-(I mean… when he said that I gotta “learn the ways of a woman,” my heart started racing with all kinds’a images…)
+<th>(I mean… when he said that I gotta “learn the ways of a woman,” my heart started racing with all kinds’a images…)</th>
 
-(So this was completely unexpected… But I’m glad it wasn’t like that.)
+<th>(So this was completely unexpected… But I’m glad it wasn’t like that.)</th>
 
-(E-Everything’ll go okay, right…? I’m trusting you, Narukami-senpai! I want you to make me into a man among men!)
+<th>(E-Everything’ll go okay, right…? I’m trusting you, Narukami-senpai! I want you to make me into a man among men!)</th>
 {% endbubble %}
 
 {% bubble Arashi %}
-(Ahaha, he’s really struggling~)
+<th>(Ahaha, he’s really struggling~)</th>
 
-(You’re so earnest, Tetora-kun… It’s suuuper cute~♪)
+<th>(You’re so earnest, Tetora-kun… It’s suuuper cute~♪)</th>
 
-(But now I feel bad… It feels like I’m tricking a pure, innocent boy.)
+<th>(But now I feel bad… It feels like I’m tricking a pure, innocent boy.)</th>
 
-(His words actually really set me off earlier, so I just said whatever on the spot.)
+<th>(His words actually really set me off earlier, so I just said whatever on the spot.)</th>
 
-(I thought maybe I could make him carry my shopping bags for me…)
+<th>(I thought maybe I could make him carry my shopping bags for me…)</th>
 
-(But he’s much more serious about this than I thought. I can tell just by looking at his expression… Just why *is* he working so hard for this?)
+<th>(But he’s much more serious about this than I thought. I can tell just by looking at his expression… Just why *is* he working so hard for this?)</th>
 
-(Is there even a need for manliness in this current age…?)
+<th>(Is there even a need for manliness in this current age…?)</th>
 {% endbubble %}
 
 ## Center of the World 4
 
 {% bubble Arashi %}
-(Humming) Hmhmhm~…♪
+<em><th>(Humming)</th></em> Hmhmhm~…♪
 
 …Mm? My my, who’s the naughty kid poking my shoulder~?
 
-Ah, it really was you! Hii~ Anzu-chan! As always, you’re much quicker to move than talk, aren’t you? You shouldn’t make physical contact with me, okay?
+Ah, it really was you! Hi~ Anzu-chan! As always, you’re much quicker to move than talk, aren’t you? You shouldn’t make physical contact with me, okay?
 
 But I’ll let it slide, since it’s you… Ufufu, we come across each other in this shop often, don’t we?
 
@@ -820,23 +822,23 @@ Do you know where Tetora-kun is right now? Eh? In the dressing room?
 
 Did he get too embarrassed to go out wearing a cute outfit?
 
-(Oh my gosh, he *seriously* did what I told him to do…?)
+<th>(Oh my gosh, he *seriously* did what I told him to do…?)</th>
 
-(I thought he was just going through some random teenage dilemma…)
+<th>(I thought he was just going through some random teenage dilemma…)</th>
 
-(Unlike me, who’s mentally and emotionally suffering from gender-related problems—)
+<th>(Unlike me, who’s mentally and emotionally suffering from gender-related problems—)</th>
 
-(I thought he was just babbling about becoming manly for some silly, childish reason.)
+<th>(I thought he was just babbling about becoming manly for some silly, childish reason.)</th>
 
-(And if I told him whatever random thing that came to mind, he’d feel ridiculed and stomp back home in frustration… since I figured his worry is nothing serious.)
+<th>(And if I told him whatever random thing that came to mind, he’d feel ridiculed and stomp back home in frustration… since I figured his worry is nothing serious.)</th>
 
-(After all, our worries are fundamentally different in every way… Yet he still went ahead and hit a sensitive nerve.)
+<th>(After all, our worries are fundamentally different in every way… Yet he still went ahead and hit a sensitive nerve.)</th>
 
-(That’s why I got upset, and did something cruel to him in retaliation.)
+<th>(That’s why I got upset, and did something cruel to him in retaliation.)</th>
 
-(But you’re telling me he *actually* believed in me through and through…?)
+<th>(But you’re telling me he *actually* believed in me through and through…?)</th>
 
-(…Ugh! Just *who* is the childish one here, huh!? I’m such an idiot!)
+<th>(…Ugh! Just *who* is the childish one here, huh!? I’m such an idiot!)</th>
 
 Oh gosh, I’m so sorry, Anzu-chan…… Could you show me where Tetora-kun is?
 
@@ -861,7 +863,7 @@ O-Ossu! ‘S all good! Come on in!
 Y-You sound a bit overwhelmed…? Umm, then I’m going to check, okay…?
 {% endbubble %}
 
-{% img CG %}
+{% img /img/es/scoutstory/beasts/tetoraorigcg.jpg %}
 
 {% bubble Tetora %}
 Ossu! This is the absolute best I could do, Narukami-senpai!
@@ -922,7 +924,7 @@ Huh? Huh…!?
 {% bubble Tetora %}
 I’m off! Sorry, but I’ll have to give you my wallet, so please pay for me!
 
-Oooohh~! I only mess up when I overthink stuff, so the best thing to do here is to charge through without a second thought~!
+Oooohh\~! I only mess up when I overthink stuff, so the best thing to do here is to charge through without a second thought\~!
 
 Go for it, me! Become a man among men…!
 {% endbubble %}
@@ -934,29 +936,29 @@ Wh— Hold on, Tetora-kun! Listen to what I have to say first…!
 ## Center of the World 5
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Shopping Area</span></p>
+    <p><span><b>Location:</b> Shopping Center</span></p>
 </div>
 
-{% img /img/es/scoutstory/beasts/5.jpg %}
+{% img /img/es/scoutstory/beasts/5_1.jpg %}
 
 {% bubble Arashi %}
 *Huff, huff…* Tetora-kuuun!! Where did you go!?
 
-(…Shoot! I completely lost sight of him!)
+<th>(…Shoot! I completely lost sight of him!)</th>
 
-(How’d he outrun *me* — I’m from the Track &amp; Field Club! I only took a few minutes at the cashier!)
+<th>(How’d he outrun *me* — I’m from the Track &amp; Field Club! I only took a few minutes at the cashier!)</th>
 
-(Ahh, why did this have to happen…?)
+<th>(Ahh, why did this have to happen…?)</th>
 
-(He relied on me… He believed in me, and politely asked for my help…)
+<th>(He relied on me… He believed in me, and politely asked for my help…)</th>
 
-(But all I did was lash out at him for asking me how to be “manly”.)
+<th>(But all I did was lash out at him for asking me how to be “manly”.)</th>
 
-(He didn't even do anything wrong… He was just trying to get closer to his ideal image…)
+<th>(He didn't even do anything wrong… He was just trying to get closer to his ideal image…)</th>
 
-(…Now I'm just acting like an evil queen from some fairy tale…)
+<th>(…Now I'm just acting like an evil queen from some fairy tale…)</th>
 
-(I’m exactly like everyone who’s hurt me. All I was doing was turning him into a toy for laughs, making fun of him, then leaving him to rot, just like them—)
+<th>(I’m exactly like everyone who’s hurt me. All I was doing was turning him into a toy for laughs, making fun of him, then leaving him to rot, just like them—)</th>
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1074,7 +1076,7 @@ Yes! Thank you, it sure is wonderful to have reliable seniors and friends. ♪
 {% endbubble %}
 
 {% bubble Ritsu %}
-Ahaha, no need for thanks. This is me repaying you for always taking care of me. You shouldn't have any reservations around a vampire anyway. We aren't good with running water[^4]…
+Ahaha, no need for thanks. This is me repaying you for always taking care of me. You shouldn't have any reservations around a vampire anyway. We aren't good with running water[^5]…
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1087,12 +1089,6 @@ Ahaha… Wow, you're so reliable, I could almost cry…♪
 
 ## Center of the World 6
 
-<div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
-</div>
-
-{% img /img/es/scoutstory/beasts/6.jpg %}
-
 {% bubble Arashi %}
 Anzu-chaaan!
 
@@ -1104,7 +1100,7 @@ I had you wait at the store in case he gets embarrassed and rushes back…
 
 That’s a wonderful trait to have, but it’s just a burden on us right now.
 
-I can’t figure out his next move… I doubt he’s even acting on logic. He’s like an animal, just as his name states.[^5]
+I can’t figure out his next move… I doubt he’s even acting on logic. He’s like an animal, just as his name states.[^6]
 
 …Mhm, you stay here and act as a communication point for everyone looking for him.
 
@@ -1128,59 +1124,59 @@ Don’t worry about me, okay? Just message me if Tetora-kun comes back, or if th
 
 Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time shopping around, so I’m really sorry to have involved you in this mess.
 
-(Right then… I tried to sound composed when talking to Anzu-chan, but alleyways really *are* scary…)
+<th>(Right then… I tried to sound composed when talking to Anzu-chan, but alleyways really *are* scary…)</th>
 
-(Maybe I should bring Mama along instead of going in alone, since he’s a strong fighter.)
+<th>(Maybe I should bring Mama along instead of going in alone, since he’s a strong fighter.)</th>
 
-(……Hm? H-Huh? I think there’s some people arguing in the alleyway…?)
+<th>(……Hm? H-Huh? I think there’s some people arguing in the alleyway…?)</th>
 
-(Gosh, I can’t see a *thing* in this dark place!)
+<th>(Gosh, I can’t see a *thing* in this dark place!)</th>
 
-(…Wha!? Are those awful-looking guys crowding around a girl…!? Oh no—!)
+<th>(…Wha!? Are those awful-looking guys crowding around a girl…!? Oh no—!)</th>
 
-(Wait, actually, is that… Tetora-kun?)
+<th>(Wait, is that… Tetora-kun?)</th>
 
-(Yeah, actually, I recognize that outfit! Those are the new clothes from that shop!)
+<th>(Yeah, actually, I recognize that outfit! Those are the new clothes from that shop!)</th>
 
-(Did they corner him because they got grossed out by a guy wearing a dress…?)
+<th>(Did they corner him because they got grossed out by a guy wearing a dress…?)</th>
 
-(Are they making fun of him? Bullying him and pushing him around…?)
+<th>(Are they making fun of him? Bullying him and pushing him around…?)</th>
 
-(…! No, I can’t let that happen! Tetora-kun doesn’t deserve to be picked on!)
+<th>(…! No, I can’t let that happen! Tetora-kun doesn’t deserve to be picked on!)</th>
 
-(Because all of this is *my* fault…!)
+<th>(Because all of this is *my* fault…!)</th>
 
-(*I’m* the one who tried to turn him into a toy just to relieve my stress! *I’m* the one who stepped on his pure-hearted feelings!)
+<th>(*I’m* the one who tried to turn him into a toy just to relieve my stress! *I’m* the one who stepped on his pure-hearted feelings!)</th>
 {% endbubble %}
 
-{% img Cg %}
+{% img /img/es/scoutstory/beasts/arashiorigcg.jpg %}
 
 {% bubble Arashi %}
-Hey, you…!
+Hey, you…!!
 
-Get *away* from her right this instant! Don’t you dare touch her with your filthy hands!
+Get *away* from that girl right this instant! Don’t you dare touch her with your filthy hands!
 
-(………)
+<th>(…………)</th>
 
-(…Alright! I scared them away.)
+<th>(…Alright! I scared them away.)</th>
 
-(I’m so glad my breathing exercises came in handy! Anyone would flinch if they heard a shout *that* ear-piercingly loud!)
+<th>(I’m so glad my breathing exercises came in handy! Anyone would flinch if they heard a shout *that* ear-piercingly loud!)</th>
 
-(I’m relieved that I didn’t need to get into a fistfight with them, too… I wouldn’t have been able to, anyway — committing violence is fatal to an idol’s career.)
+<th>(I’m relieved that I didn’t need to get into a fistfight with them, too… I wouldn’t have been able to, anyway — committing violence is fatal to an idol’s career.)</th>
 
-(I’d *much* rather settle things through vicious threats. That’s why animals usually growl at each other, after all.)
+<th>(I’d *much* rather settle things through vicious threats. That’s why animals usually growl at each other, after all.)</th>
 
-(But still, I should learn to do better… Shouting is just another form of violence, so I fail as an idol either way. Gosh, I still have so much to learn, don’t I?)
+<th>(But still, I should learn to do better… Shouting is just another form of violence, so I fail as an idol either way. Gosh, I still have so much to learn, don’t I?)</th>
 
-(You’d think I’d be more experienced by now if I felt comfortable enough to act like a grown-up — like a distinguished senior should be…)
+<th>(You’d think I’d be more experienced by now if I felt comfortable enough to act like a grown-up — like a distinguished senior should be…)</th>
 
-(…Oh! Never mind me, I need to check on Tetora-kun—)
+<th>(…Oh! Never mind me, I need to check on Tetora-kun—)</th>
 
 Tetora-kun! Are you alright? They didn’t hurt you, did they?
 
-(Wait, huh? Now that those delinquents are gone, I can see better, but… This isn’t Tetora-kun, is it?)
+<th>(Wait, huh? Now that those delinquents are gone, I can see better, but… This isn’t Tetora-kun, is it?)</th>
 
-(It was genuinely a girl all along… Huh…? So it was all a coincidence that she was wearing the same trendy clothes as him?)
+<th>(It was genuinely a girl all along… Huh…? So it was all a coincidence that she was wearing the same trendy clothes as him?)</th>
 
 Woah! Don’t cling to me…
 
@@ -1247,20 +1243,14 @@ I expect nothing less from the person Taichou respects~ I’m still nowhere near
 
 ## Center of the World 7
 
-<div class="msr-location">
-    <p><span><b>Location:</b> Shopping Area</span></p>
-</div>
-
-{% img /img/es/scoutstory/beasts/7.jpg %}
-
 {% bubble Arashi %}
 Um, so where’s Mama right now? He could do something really bad if we don’t keep an eye on him… Just the thought of it scares me.
 
-(Hmm… But it’s him we’re talking about, so he’s probably dealing with the delinquents that ran off…)
+<th>(Hmm… But it’s him we’re talking about, so he’s probably dealing with the delinquents that ran off…)</th>
 
-(He might be warning them to keep quiet about this…)
+<th>(He might be warning them to keep quiet about this…)</th>
 
-(I mean, it’s a good precaution, but… It feels wrong, like we’re trying to cover up a scandal or something… Gosh, nothing good comes from violence.)
+<th>(I mean, it’s a good precaution, but… It feels wrong, like we’re trying to cover up a scandal or something… Gosh, nothing good comes from violence.)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1318,7 +1308,7 @@ So Tetora-kun… Lift your head up. It’s true that I was a little hurt, but I�
 {% endbubble %}
 
 {% bubble Tetora %}
-*…(sob)*
+*…<th>(sobs)</th>*
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -1352,27 +1342,27 @@ I’m so pathetic.
 {% endbubble %}
 
 {% bubble Arashi %}
-(Ahh… Right, we’re reaching that time of the year…)
+<th>(Ahh… Right, we’re reaching that time of the year…)</th>
 
-(Gosh… I’m seriously such an idiot. He really is just an earnest kid.)
+<th>(Gosh… I’m seriously such an idiot. He really is just an earnest kid.)</th>
 
-(He never, ever meant to make fun of me.)
+<th>(He never, ever meant to make fun of me.)</th>
 
-(He was just restless, and it made him shortsighted… He just didn’t pay attention to what’s going on, that’s all.)
+<th>(He was just restless, and it made him shortsighted… He just didn’t pay attention to what’s going on, that’s all.)</th>
 
-(Just like how I was, when I thought that girl was him…)
+<th>(Just like how I was, when I thought that girl was him…)</th>
 
-(Tetora-kun… We’ve still got a long way to go, haven’t we?)
+<th>(Tetora-kun… We’ve still got a long way to go, haven’t we?)</th>
 
-(Our seniors are still so worried about us, that they can’t get themselves to leave just yet.)
+<th>(Our seniors are still so worried about us, that they can’t get themselves to leave just yet.)</th>
 
-(That’s why… We should grow up. We don’t have much time, but…)
+<th>(That’s why… We should grow up. We don’t have much time, but…)</th>
 
-(Let’s work hard to the very end — until we’re much, much closer to our ideal selves.)
+<th>(Let’s work hard to the very end — until we’re much, much closer to our ideal selves.)</th>
 
-(Let’s stand tall, and see our seniors off with pride.)
+<th>(Let’s stand tall, and see our seniors off with pride.)</th>
 
-(We’ll see them off… as they leave the world for children, and completely become adults.)
+<th>(We’ll see them off… as they leave the world for children, and completely become adults.)</th>
 {% endbubble %}
 
 ## Epilogue
@@ -1381,7 +1371,7 @@ I’m so pathetic.
     <p><span><b>Location:</b> Classroom 1-A</span></p>
 </div>
 
-{% img /img/es/scoutstory/beasts/8.jpg %}
+{% img /img/es/scoutstory/beasts/8_1.jpg %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -1396,7 +1386,7 @@ You’re in a good mood, huh, Tetora-kun…?
 {% endbubble %}
 
 {% bubble Tetora %}
-Hm? You think so~? Well, I did encounter someone wonderful the other day~♪
+Hm? You think so\~? Well, I did have a wonderful encounter the other day\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1534,8 +1524,9 @@ Just like <em>her</em>. First things first: I gotta start learning to love that 
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: fsfsfs
-[^2]: fsfsfs
-[^3]: fsfsfs
-[^4]: fsfsfs
-[^5]: fsfsfs
+[^1]: Originally, Ritsu says “You won’t get anywhere playing Shogi with an animal.”
+[^2]: Originally, Madara refers to his sister as a [Hikikomori](https://en.wikipedia.org/wiki/Hikikomori), which is a term to refer to people who are withdrawn from society, especially in public.
+[^3]: Okama is a Japanese derogatory term used towards effeminate men.
+[^4]: Usually I translate 女々しい *memeshii* as sensitive/soft, but considering this story is related to gender, I decided it’d be best to keep it literal (the literal meaning is effeminate/like a girl).
+[^5]: “Reserved” in Japanese is lit. “watery,” hence why Ritsu mentions that vampires aren't good with running water.
+[^6]: Tetora's name lit. means "Iron Tiger". (It's also in his solo song names, IRON HEART TIGER).
