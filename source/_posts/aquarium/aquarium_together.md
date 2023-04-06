@@ -61,28 +61,26 @@ hidden: true
 
 ## Chapter 1
 
-{% img Aquarium Going to the Aquarium Together.png %}
-
-{% note location %}
-**Location:** At the bulletin board
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> At the Bulletin Board</span></p>
+</div>
 
 {% bubble Madara %}
 Hmhmhmm~♪
 
-Blue skies and a clear sun! The morning feels great! I feel the energy just gushing right out of me! It’s making me wanna run around all over!
+*Blue skies and a clear sun!* The morning feels great! I feel the energy just gushing right out of me! It’s making me wanna run around all over!
 
 (Other than that one specific thing, I don’t have any urgent work to do, so maybe I’ll go to the track field club to use up some energy on practice.)
 
 (*Is* there practice for the club today?)
 
-(Maybe I can check from the window…? Hmmm… I’ve been hearing music for a while now, so does that mean people have been participating in a DreamFes on their holiday?)
+(Maybe I can check from the window…? Hmm… I’ve been hearing music for a while now, so does that mean people have been participating in a DreamFes on their holiday?)
 
 (Everyone’s motivated! That’s good, that’s great! But there’s a stage installed on the grounds, so I’d be in their way if I tried to run through, huh?)
 
-(Hmm, what to do….)
+(Hmm, what to do…)
 
-…Hm? Hiii--Hahaha!! ☆ Heeey, who's the bad kid poking Mama’s sides!?
+…Hm? Hiii—Hahaha!! ☆ Heeey, who's the naughty kid poking Mama’s sides!?
 
 Ohh, it’s you, Anzu-san! You’re tiny and I couldn’t see you, so I didn’t notice you were there! You should make your presence much stronger!
 
@@ -250,7 +248,7 @@ Uughh~ What’s with this kid!? He’s a real pain! This is my long-awaited date
 
 This date is why I cancelled all my other plans! I even woke up early today!
 
-Woah--… Don’t pat my head to calm me down, Anzu-chan. You treat me like a kid sometimes~ *I’m* the senior here, you know?
+Woah—… Don’t pat my head to calm me down, Anzu-chan. You treat me like a kid sometimes~ *I’m* the senior here, you know?
 
 It’s fine, though. Today’s a holiday, so the aquarium’s probably really crowded…
 
@@ -268,7 +266,7 @@ But that's all there is to it, right? He isn't a baby, so I feel like this is ju
 
 I mean, he disappeared for a long time at the end of last year.
 
-Huh? You didn’t know? He’s part of the Five Oddballs—I think it’s just the Three Oddballs now… He was that kinda person, so…
+Huh? You didn’t know? He’s part of the Five Eccentrics—I think it’s just the Three Eccentrics now… He was that kinda person, so…
 
 A lot happened to him back then. He may act like things don’t affect him, but he does go through a lot more than you might think.
 
@@ -682,7 +680,7 @@ But, you know… I’m surprised, Rei-san. Your favor wasn’t what I expected i
 {% bubble Rei %}
 Ahh, yes, Shinkai-kun also seems to be going through some problems.
 
-Since I do not spend time with the Five Oddballs as much as I used to, I do not know what is happening with him….
+Since I do not spend time with the Five Eccentrics as much as I used to, I do not know what is happening with him…
 
 But he is an old friend. If danger befalls him, then I cannot sit by and watch. However, from the way I see it, what is happening at the moment is a *good* sign.
 
@@ -792,11 +790,11 @@ Or, well, maybe he thinks I’m annoying, so he just simply hates me.
 {% endbubble %}
 
 {% bubble Rei %}
-*Kukuku.* We of the Three Oddballs may indeed be human, but we have been removed from the fabric of humanity. And perhaps, because of that, we yearn to connect with other humans.
+*Kukuku.* We of the Three Eccentrics may indeed be human, but we have been removed from the fabric of humanity. And perhaps, because of that, we yearn to connect with other humans.
 
 Thus neither I, Shinkai-kun, nor Hibiki-kun would ever scorn anyone.
 
-The other two from the Five Oddballs remain barely within the fabric of humanity, so they may not have the same feelings as we do towards humans.
+The other two from the Five Eccentrics remain barely within the fabric of humanity, so they may not have the same feelings as we do towards humans.
 
 But perhaps they deny out of love, as well. I would not know something like that though.
 {% endbubble %}

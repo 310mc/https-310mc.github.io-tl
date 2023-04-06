@@ -69,11 +69,9 @@ hidden: true
 
 ## Chapter 1
 
-{% img Aquarium Hanging Out Together 1.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
+</div>
 
 {% bubble Souma %}
 Anzu-dono~!
@@ -90,7 +88,7 @@ Uugh, for an *“ai-dol”* to bring dishonor to their lord—to their *“puro-
 
 I am a shameful man! I cannot bear this shame—I will slice my stomach open as apology!
 
-Ah--! But I did not bring my katana today…!
+Ah—! But I did not bring my katana today…!
 
 What do I do!? Should I dive into the watertank full of *“pi-rah-na”* and allow myself to get devoured as apology!?
 {% endbubble %}
@@ -202,7 +200,7 @@ I understand completely. It must have felt like you were tossed into the same ca
 
 But fear not! I will absolutely protect you to the very end.
 
-Hmm, that is not the case…? That person is not as bad one would think….?
+Hmm, that is not the case…? That person is not as bad one would think…?
 
 Well… I suppose I must regretfully agree to that.
 
@@ -304,7 +302,7 @@ Everyone lives while getting others involved in their lives.
 
 You can’t just tell people to ignore things whenever it’s most convenient for you. You can’t get through life by hiding away every problem.
 
-When you were part of the Five Oddballs last year, there was a dispute about stuff like this, so I’m guessing that’s why you put so much effort into distancing yourself from others…
+When you were part of the Five Eccentrics last year, there was a dispute about stuff like this, so I’m guessing that’s why you put so much effort into distancing yourself from others…
 
 But times have changed now, I think.
 
@@ -590,7 +588,7 @@ Hellooo… Hinata-kun, you look like you are having fun. But you should not be f
 {% endbubble %}
 
 {% bubble Hinata %}
-Wahhhh--!?
+Wahhhh—!?
 
 Oooh! So it was you, Sakuma-senpai! Hello! Pretty unusual to see you outside of school during the day~♪
 {% endbubble %}
@@ -612,7 +610,7 @@ Then allow me to scribbley dibbley it down for you with this pen I bought from t
 {% endbubble %}
 
 {% bubble Hinata %}
-Ah--wait! So it’ll disappear as soon as it gets wet!? I was playing around in the *Free to Touch* section, so my hands are all dripping wet!
+Ah— Wait! So it’ll disappear as soon as it gets wet!? I was playing around in the *Free to Touch* section, so my hands are all dripping wet!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -728,7 +726,7 @@ Okay! Going there together is much more fun than doing it all alone~ HaHiHuHeHo~
 {% endbubble %}
 
 {% bubble Rei %}
-Woah, woah--! Do not drag me over by the hand…
+Woah, woah—! Do not drag me over by the hand…
 {% endbubble %}
 
 {% bubble Wataru %}

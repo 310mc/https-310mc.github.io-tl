@@ -65,9 +65,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% note location %}
 **Location:** Aoumi Aquarium (Main Exhibit)
 {% endnote %}
+
 {% img /img/es/eventstory/cometshow/p2ch5.jpg %}
+
 {% note narration %}
-**Time:** Another several minutes later
+**Time:** Another several minutes later…
 {% endnote %}
 
 {% bubble Midori v2 %}
@@ -93,7 +95,7 @@ You love these kinds of soft looking creatures, right!? Alrighty then, your dad 
 {% bubble Midori v2 %}
 You’re not my papa either, ‘kay?
 
-<th>(Actually, right now it does kinda feel like he’s a dad awkwardly trying to appease his daugh—his *son* in order to improve their strained relationship…)</th>
+<th>(Actually, right now it does kinda feel like he’s a dad awkwardly trying to appease his daugh— his *son* in order to improve their strained relationship…)</th>
 
 <th>(But it’s such a fitting scenario that I don’t wanna say it out loud…)</th>
 
@@ -137,7 +139,7 @@ Ah, I was thinking something similar just now. It’s always so nice to share so
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Why did you have to add *that*!? Then who would you have preferred to be with right now instead?
+Why did you have to add *that!?* Then who would you have preferred to be with right now instead?
 
 Nagumo? Sengoku? Or maybe Kanata? Why’re you always so blunt towards just me!? Your dear ol’ grandpa feels so lonely!
 {% endbubble %}
@@ -171,7 +173,7 @@ What’re you talking about…? Even I give honest compliments sometimes, y’kn
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Hehe, I do have a few things I want to improve on, though. Starting with what my director pointed out: I had an overwhelming presence for a kaijuu.
+Heheh, I do have a few things I want to improve on, though. Starting with what my director pointed out: I had an overwhelming presence for a kaijuu.
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -201,7 +203,7 @@ Ah, I heard of that show… But that’s as far as I know, ‘cause Shinobu-kun 
 {% bubble Chiaki v2 %}
 Yeah! I love it, too! It was so unrestrained with how it did things. I would get so excited about what would happen next because you could never know what’s coming.
 
-Although, that freedom is likely because of its enormous amount of sales, the power to manage its cast and resources at will—and most of all, the support from the fans.
+Although, that freedom is likely because of its enormous amount of sales, the power to manage its cast and resources at will — and most of all, the support from the fans.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -237,9 +239,11 @@ But it doesn't really matter if the season became a rare commodity only *after* 
 
 I don’t care for stuff that has historical value or public appraisal. I don’t think it’s worth bothering with at all; what’s more important than that is—
 {% endbubble %}
+
 {% note narration %}
 *(Phone starts ringing)*
 {% endnote %}
+
 {% bubble Midori v2 %}
 Mm?
 {% endbubble %}
@@ -251,12 +255,13 @@ Hm? What’s wrong? It’s rare to see you make such a grim face; did a monster 
 {% bubble Midori v2 %}
 You watch *way* too much tokusatsu, Senpai.
 
-<th>(My phone’s been buzzing for a while now… Ohh, I see—I got a bunch of missed calls from Shinobu-kun and Tetora-kun…)</th>
+<th>(My phone’s been buzzing for a while now… Ohh, I see — I got a bunch of missed calls from Shinobu-kun and Tetora-kun…)</th>
 
 <th>(What’s wrong…? I got angry at them for basically pushing the role of talking with our seniors on me, so I haven’t been checking HoldHands that much…)</th>
 
 <th>(But there’s so many missed calls here… What’s going on…? There’s no way it’s something as serious as someone dying or an enemy invasion, so what gives…?)</th>
 {% endbubble %}
+
 ## Chapter 6
 
 {% img /img/es/eventstory/cometshow/p2ch6.jpg %}
@@ -274,13 +279,13 @@ Yeah, yeah… What? Ahhh~ Okay, I’m sorry about that, but—
 
 <th>(But not knowing where this is heading is making me uneasy.)</th>
 
-<th>(No—That’s exactly why we *have* to make a decision by today.)</th>
+<th>(No— That’s exactly why we *have* to make a decision by today.)</th>
 
 <th>(I can’t just avoid thinking about these tiring topics by indulging myself in my comfort zone because I'm too afraid of pain.)</th>
 
 <th>(That was exactly the type of people I felt so frustrated with when I was a junior.)</th>
 
-<th>(I just wanted to change our situation—our very existence, even if it was by pure force. Though… I was too much of a coward to do something as violent as that.)</th>
+<th>(I just wanted to change our situation — our very existence, even if it was by pure force. Though… I was too much of a coward to do something as violent as that.)</th>
 
 <th>(But… That’s exactly why this time around—)</th>
 
@@ -298,9 +303,9 @@ I’m always serious! And I seriously love you!
 {% endbubble %}
 
 {% bubble Midori v2 %}
-Die, please.  …I’m well aware how badly you wanna look cool—you’re just a liar as fake as paper-mache.
+Die, please.  …I’m well aware how badly you wanna look cool — you’re just a liar as fake as paper-mache.
 
-You don’t have to hide your true form from the people close to you, the same heroes as *you*—do you?
+You don’t have to hide your true form from the people close to you, the same heroes as *you* — do you?
 
 We’re not in some old tokusatsu show or American comic, so why do you keep hiding your true self?
 
@@ -322,7 +327,7 @@ You keep treating us like weaklings who need to be protected, just so you can re
 {% bubble Chiaki worried %}
 T-That’s not what I—
 
-I just don’t want my place of belonging—the dream I’ve finally achieved—to be smashed into pieces again.
+I just don’t want my place of belonging — the dream I’ve finally achieved — to be smashed into pieces again.
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -340,7 +345,7 @@ And it’s only been a few months since they joined in the spring, too. There’
 {% bubble Chiaki sad %}
 Yeah… Nagumo’s amazing, and that’s exactly why I chose him to be the next leader.
 
-He’s a bit of a klutz, so he tends to be looked down on—but he’s relentless with his hard work, and knows how to turn all his experiences into his strengths.
+He’s a bit of a klutz, so he tends to be looked down on — but he’s relentless with his hard work, and knows how to turn all his experiences into his strengths.
 
 That’s how he’s going to build himself thoroughly to grow into a splendid man.
 
@@ -354,7 +359,7 @@ I’ve always dreamed of such a future for him.
 {% bubble Midori serious %}
 Well, I think Tetora-kun will keep pushing forward no matter what, and work as hard as he can.
 
-So don’t just give up like that; please keep supporting him in every way you can—Senpai.
+So don’t just give up like that; please keep supporting him in every way you can — Senpai.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -370,6 +375,7 @@ Huh, is that so… And here I thought you were working yourself to the bone ‘c
 {% endbubble %}
 
 ## Chapter 7
+
 {% img /img/es/eventstory/cometshow/p2ch7.jpg %}
 
 {% bubble Midori smile %}
@@ -401,7 +407,7 @@ But he’s a kind, big-hearted kid, though, so I’m sure he’d just laugh off 
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-…Yeah. That’s the kind of kid he is—He’s the strongest one out of all of us.
+…Yeah. That’s the kind of kid he is — He’s the strongest one out of all of us.
 
 He’s our role model and our guide. He’s much more suited for that job than Kanata and I.
 {% endbubble %}
@@ -415,7 +421,7 @@ But Shinobu-kun and Tetora-kun both probably went through a similar life to mine
 
 They’re in desperate need of validation and approval, y’know?
 
-I’m the same as them—I was a “pathetic kid,” so I know that they must be feeling that way.
+I’m the same as them — I was a “pathetic kid,” so I know that they must be feeling that way.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -449,7 +455,7 @@ Yeah, it’s kind of embarrassing… But in that sense, it’s incredible how yo
 {% bubble Midori v2 %}
 You say that like it’s a good thing… I just find acting a pain to do… There was nothing I wanted so badly that I’d go through the effort of doing that.
 
-But things are different now. I have something I want—something I wanna get no matter *what* it takes.
+But things are different now. I have something I want — something I wanna get no matter *what* it takes.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -471,7 +477,7 @@ Hm? Is that Kanata?
 {% endbubble %}
 
 {% bubble Midori v2 %}
-It sure is… He was called over by a couple staff members for some business in the aquarium just now—I wonder what happened…?
+It sure is… He was called over by a couple staff members for some business in the aquarium just now — I wonder what happened…?
 {% endbubble %}
 
 {% bubble Kanata hidden %}
@@ -526,7 +532,7 @@ Wha—!? W-What’s happening? That was a scream just now… right?
 {% bubble Kanata hidden %}
 “oh nooo! aoumi aquarium has been accused of kidnapping and abducting marine animals to make money—”
 
-“by none other than the ruler of the ocean—the great kaijuu! and he’s come to strike us down!”
+“by none other than the ruler of the ocean — the great kaijuu! and he’s come to strike us down!”
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -554,16 +560,21 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
 
 “so! um, are there any heroes in the aquarium today!? someone who will protect us all!?”
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/midoriorigcg.jpg %}
+
 {% bubble Midori cscg %}
 —It's kinda messy, but… To put it simply, it’s our turn to shine, Senpai.
 {% endbubble %}
 
 ## Chapter 8
+
 {% note location %}
 **Location:** Comet Show Stage
 {% endnote %}
+
 {% img /img/es/eventstory/cometshow/p2ch8.jpg %}
+
 {% note narration %}
 **Time:** At the same time, on the stage within the aquarium
 {% endnote %}
@@ -585,7 +596,7 @@ I’m really grateful to everyone. We’re named after the shooting stars who gr
 {% bubble Shinobu v2 %}
 You should think in the reverse, Tetora-kun!
 
-We poured all our efforts into granting people’s wishes—and for that, they’re helping us achieve ours.
+We poured all our efforts into granting people’s wishes — and for that, they’re helping us achieve ours.
 
 All we should do now is be grateful for such a token of kindness.
 {% endbubble %}
@@ -619,11 +630,11 @@ Your voice is so calming to hear, I couldn’t help but feel wrapped in comfort 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-you’re going too far with those praises~ i’m often scolded for being hard to understand, you know?
+you are going too far with those praises~ i am often scolded for being hard to understand, you know?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Hehe, that’s true. Sometimes I find myself spacing out when you’re talking, and I have to reaaally focus to actually get what you’re saying.
+Heheh, that’s true. Sometimes I find myself spacing out when you’re talking, and I have to reaaally focus to actually get what you’re saying.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -631,11 +642,11 @@ Mhm, mhm! Surprisingly, you tend to speak in a slightly incomprehensible manner,
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-a*hem*! that is because i was once a god~♪
+*ehe!* that is because i was once a god~♪
 
 the more complicated words you speak, and the more convoluted they are, the more you sound like you’re saying something incredible~
 
-people will try their best to over-interpret what i’m saying, you see?
+people will try their best to over-interpret what i am saying, you see?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -645,7 +656,7 @@ Mm… I dunno what you’re on about, but that’s another reason why I think yo
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hehe. though that comes with him being very argumentative~ much, much more than i could be.
+fufu. though that comes with him being very argumentative~ much, much more than i could be.
 
 that’s exactly why it’s so hard to win an argument against him. once he’s set his mind on something, he’ll refuse to budge.
 {% endbubble %}
@@ -681,9 +692,9 @@ I’m in no position where I *have* to rush myself to figure things out and get 
 
 ‘Course, I *am* aware that we can’t just stand around and do nothing right now, either…
 
-But I know how I am—I just panic and mess up the moment I rush myself. I’m painfully aware of that part of me by now.
+But I know how I am — I just panic and mess up the moment I rush myself. I’m painfully aware of that part of me by now.
 
-So I’ll just steadily work hard to the best of my ability ‘til the day I become strong enough to grasp my own justice—my own correct answer, within my own two hands.
+So I’ll just steadily work hard to the best of my ability ‘til the day I become strong enough to grasp my own justice — my own correct answer, within my own two hands.
 
 I’ll keep doing that, even after you two leave Ryuseitai.
 {% endbubble %}
@@ -712,9 +723,11 @@ so let’s carry out our performance with a smile on our faces. this may be wher
 {% endbubble %}
 
 ## Chapter 9
+
 {% note location %}
 **Location:** Aoumi Aquarium (Main Exhibit)
 {% endnote %}
+
 {% img /img/es/eventstory/cometshow/p2ch9.jpg %}
 
 {% bubble Chiaki serious %}
@@ -734,7 +747,7 @@ Tetora-kun even sent me a message that said, “let’s do our best together! (^
 {% bubble Chiaki v2 %}
 Hmm… So that’s why they were so late for our meet up in the aquarium, huh?
 
-They were running around making negotiations with various people, and getting the word out for the live show—all while preparing the materials and tools needed for the stage.
+They were running around making negotiations with various people, and getting the word out for the live show — all while preparing the materials and tools needed for the stage.
 
 It all makes sense now! I feel a weight off my back with that mystery solved.
 {% endbubble %}
@@ -774,7 +787,7 @@ He wouldn’t choose to be selfish and throw the whole unit into danger by going
 
 He’s an honest, good kid, after all. And so is Sengoku.
 
-Their good-hearted nature is exactly why they tried their best to search for a future where everyone in the unit is happy—and that includes us graduates.
+Their good-hearted nature is exactly why they tried their best to search for a future where everyone in the unit is happy — and that includes us graduates.
 
 I think it’s admirable of them. And I choose to respect their decision.
 {% endbubble %}
@@ -802,7 +815,7 @@ On top of that, we had a whole bunch of newbies back in spring, but they kept dr
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+…………
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -814,13 +827,13 @@ And to make matters even *worse*, you guys declared a leave from Ryuseitai.
 {% endbubble %}
 
 {% bubble Chiaki sad %}
-………
+…………
 {% endbubble %}
 
 {% bubble Midori serious %}
 Tetora-kun must feel so pathetic and frustrated with himself.
 
-He’s questioning if he’s ever actually been suited to be a leader in the first place—And when you lay out all that he’s done so far as one, it’s only natural he’d start doubting himself.
+He’s questioning if he’s ever actually been suited to be a leader in the first place — And when you lay out all that he’s done so far as one, it’s only natural he’d start doubting himself.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -844,11 +857,11 @@ Yeah, just like a kaijuu would.
 
 But it’s not your fault, really… No one ever imagined that something as bizarre as ES was gonna emerge from the ground until *after* our school year was completely over.
 
-It’s like a natural disaster—nobody could’ve predicted it. No one’s at fault here.
+It’s like a natural disaster — nobody could’ve predicted it. No one’s at fault here.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-That’s true… Tenshouin made ES—a paradise for idols—in order to achieve his dreams. I'm sure he didn’t do it to hurt anyone.
+That’s true… Tenshouin made ES — a paradise for idols — in order to achieve his dreams. I'm sure he didn’t do it to hurt anyone.
 
 But unfortunately, if a humongous object like ES were to move even a small step, there would inevitably be casualties along the way.
 
@@ -922,7 +935,7 @@ True… But am I really going as Red again? I’ve been telling all of you over 
 {% bubble Midori v2 %}
 Mmm~… I think it’s only you tokusatsu fans who waste your time caring about that kind of thing…
 
-Every last one of you are so insistent on making everything harder on yourselves with this pointless stuff—It’s all so dumb.
+Every last one of you are so insistent on making everything harder on yourselves with this pointless stuff — It’s all so dumb.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

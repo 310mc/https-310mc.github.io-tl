@@ -62,9 +62,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
 
 ## Chapter 1
+
 {% note location %}
 **Location:** Comet Show Stage
 {% endnote %}
+
 {% img /img/es/eventstory/cometshow/ep1.jpg %}
 
 {% bubble Kanata v2 %}
@@ -120,9 +122,11 @@ Heh! I may not grow taller, but I assure you my mental fortitude has strengthene
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hehe, did you learn that from mikejima or something?
+fufu, did you learn that from mikejima or something?
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/ep1_1.jpg %}
+
 {% bubble Kanata v2 %}
 <th>(ah— i accidentally called him by his past name…)</th>
 
@@ -146,7 +150,7 @@ Haha, I’m more than glad you’re having a blast, though~!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-mhm. hehe, i’m sorry—did i weird you two out?
+mhm. fufu, i’m sorry — did i weird you two out?
 {% endbubble %}
 
 {% bubble TetoraS %}
@@ -250,7 +254,7 @@ Woah—!? Shinobu-kun, I get being spooked, but please don’t hide inside my cl
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hehe, it’s disgraceful for a hero to run away with their tail between their legs~
+fufu, it is disgraceful for a hero to run away with their tail between their legs~
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -268,7 +272,9 @@ Creatures…? Ahh, you mean from the ocean? Like steller sea lions and walruses?
 {% bubble Kanata v2 %}
 yes. but it looks like what’s before us right now is actually the fire-breathing type of creature.
 {% endbubble %}
+
 ## Chapter 2
+
 {% img /img/es/eventstory/cometshow/ep2.jpg %}
 
 {% bubble Kaijuu %}
@@ -348,7 +354,7 @@ Of all people who’d nitpick, I didn’t expect it to be you, Shinkai-senpai…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no, it’s more like… something i can relate to.
+no, it is more like… something i can relate to.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -358,7 +364,9 @@ no, it’s more like… something i can relate to.
 {% bubble Shinobu v2 %}
 “However, mankind mustn’t give up! Where darkness may lie, let there be light! When evil surges forth, justice shall too!”
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
+
 {% bubble Shinobu v2 %}
 “‘I want to protect our wonderful planet!’ ‘I want to protect my loved ones!’ ‘I want to live happily forever, without any worries or anguish!’”
 
@@ -370,7 +378,7 @@ no, it’s more like… something i can relate to.
 {% bubble Chiaki csbcg %}
 “Fuhahahaha! Fuhahaha! Fuhaaaaaha-ha-ha-ha!!!! ☆”
 
-“The red flames are the mark of justice! Burning bright red, the sun of life!”
+“The red flame is the mark of justice! Burning bright red, the sun of life!”
 
 “I’m Ryusei Red, Morisawa Chiaki…!”
 {% endbubble %}
@@ -386,7 +394,9 @@ Eh, what’s the big deal… Didn’t you guys wanna make this our final parting
 {% bubble Tetora serious %}
 You sound like you’ve got a problem with that, Midori-kun.
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/midoribcg.jpg %}
+
 {% bubble Midori csbcg %}
 I have more than one, actually…
 
@@ -394,7 +404,7 @@ Well, whatever. The Great Kaijuu is carrying the entirety of mankind’s malice 
 
 As much as it pains me, I guess we’ll just have to back him up.
 
-“The green flames are the mark of compassion!”
+“The green flame is the mark of compassion!”
 
 “The great nature, growing infinitely! Ryusei Green, Takamine Midori…!”
 
@@ -406,21 +416,23 @@ As much as it pains me, I guess we’ll just have to back him up.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Urmm… I’ve no idea what’s happening anymore… But that’s always how it is for Ryuseitai anyway.
+Umm… I’ve no idea what’s happening anymore… But that is always how it is for Ryuseitai anyway.
 
 As a ninja, my duty is to support from the sidelines while everyone takes action as they please. That is my wish, what brings me the most joy, and what I consider my form of justice.
 
-“The yellow flames are the mark of hope! A single miracle shining into the darkness!”
+“The yellow flame is the mark of hope! A single miracle shining into the darkness!”
 
 “Ryusei Yellow, Sengoku Shinobu…!”
 {% endbubble %}
 
 {% bubble Kanata csbcg %}
-——well then, i’ll join along~♪
+——well then, i will join along~♪
 
 you three have become so very reliable, but that doesn’t mean that i’m no longer needed.
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/kanatabcg.jpg %}
+
 {% bubble Kanata csbcg %}
 in fact, now that we’ve all grown stronger, we may be able to accomplish much more valuable things than we could ever before.
 
@@ -428,7 +440,7 @@ no, it could go even beyond that—i feel like we could make anything happen as 
 
 ……i took too long to realize that.
 
-“the blue flames are the mark of mystery. i have come from the blue sea~”
+“the blue flame is the mark of mystery. i have come from the blue sea~”
 
 “and now, i’m here with all of you, living on land! ryusei blue—shinkai kanata!”
 {% endbubble %}
@@ -440,7 +452,7 @@ Man… I can’t even imagine how great it could’ve been if we could all live 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-………
+…………
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -458,13 +470,15 @@ I know by now that the Ryuseitai you seniors worked hard to build isn’t some �
 
 So I’ll proudly yell my own catchphrase with my head held high!
 
-“The black flames are the mark of effort! The burning fighting spirit, stained with the soil of the earth!!”
+“The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth!!”
 
 “Ryusei Black, Nagumo Tetora!”
 
 “With the five of us together! We are Ryuseitai…!”
 {% endbubble %}
+
 ## Chapter 3
+
 {% img /img/es/eventstory/cometshow/ep3.jpg %}
 
 {% bubble Chiaki v2 %}
@@ -661,7 +675,9 @@ That’s why—
 
 <th>(Actually, wait—Midori-kun tends to not check HoldHands that often, so perhaps he isn’t aware of our decision…?)</th>
 {% endbubble %}
+
 ## Chapter 4
+
 {% img /img/es/eventstory/cometshow/ep4.jpg %}
 
 {% bubble Tetora worried %}
@@ -793,7 +809,7 @@ No matter how painful or horrible the situation is, we have to keep on smiling�
 {% endbubble %}
 
 {% bubble Midori angry %}
-And we just have to take it? Just *us*? Why?
+And we just have to take it? Just *us?* Why?
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -851,10 +867,13 @@ Maybe it’s something trivial and disposable to you guys, but…
 
 To me, you are all precious treasures that I never, ever once expected to have in my life.
 {% endbubble %}
+
 ## Chapter 5
+
 {% img /img/es/eventstory/cometshow/ep5.jpg %}
+
 {% bubble Midori smile %}
-… I ended up preaching a bit. That's embarrassing… I don’t wanna keep our guests waiting, so let’s get rid of all the unnecessary stuff and start the show.
+…I ended up preaching a bit. That's embarrassing… I don’t wanna keep our guests waiting, so let’s get rid of all the unnecessary stuff and start the show.
 
 *Ryuseitai’s* show, made just for us.
 {% endbubble %}
@@ -1020,7 +1039,9 @@ This does mean we’ll be letting go of all the boys who joined our unit out of 
 
 Regardless, we also demanded a handful of things from the agency in exchange for our compliance with their orders.
 {% endbubble %}
+
 ## Chapter 6
+
 {% img /img/es/eventstory/cometshow/ep6.jpg %}
 
 {% bubble Chiaki v2 %}

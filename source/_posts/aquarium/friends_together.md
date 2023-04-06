@@ -124,7 +124,7 @@ Good, good. I’m gonna carry you up on my shoulders~ Here we go~♪
 {% endbubble %}
 
 {% bubble Sora %}
-Woah--!? Hina-chan, you’re super strong! Sora is around the same size as you, yet you easily managed to carry Sora up!
+Woah—!? Hina-chan, you’re super strong! Sora is around the same size as you, yet you easily managed to carry Sora up!
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -480,7 +480,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 (I mean, it's pretty neat how aquariums have all kinds of stuff you wouldn’t be able to find, even if you went for a dive in the ocean.)
 
-(Let's see… What kind of fish i--Wait, huuuh!?)
+(Let's see… What kind of fish i— Wait, huuuh!?)
 {% endbubble %}
 
 {% img (Aquarium ♪) Kanata Shinkai CG.png %}
@@ -616,7 +616,7 @@ That's why all you can do is just stand by and watch, huh? You're loyal to your 
 
 Are you scared that he'd drift away from Ryuseitai if you don’t keep that promise?
 
-He does have incredibly strong potential—not just as part of the Five Oddballs, or Ryuseitai.
+He does have incredibly strong potential—not just as part of the Five Eccentrics, or Ryuseitai.
 
 And not only that, but you're also friends—pretty much just like family now, right? So you don't want to seperate from him, I understand.
 
@@ -778,7 +778,7 @@ What a mistake I’ve made… If I was going to hold a performance, then I shoul
 {% bubble Rei %}
 To begin with, we are just regular visitors of this aquarium. There is absolutely no need for you to perform something.
 
-*Kukuku.* However… You may have completely become a part of *fine*, but it seems you have not forgotten the bonds that once existed between us Five Oddballs, so I am relieved.
+*Kukuku.* However… You may have completely become a part of *fine*, but it seems you have not forgotten the bonds that once existed between us Five Eccentrics, so I am relieved.
 
 That is why I thought that perhaps you had bought a ticket to the aquarium from Shinkai-kun, as well. I was right to ask you about it.
 
@@ -800,9 +800,9 @@ That child gets displeased when you take back your words or forget what you had 
 {% bubble Wataru %}
 Yet I believe that if you were to call for him, he would gladly rush to you with his tail wagging…
 
-But, well, it’s also good to be in the company of an old friend from the Five Oddballs, yes?
+But, well, it’s also good to be in the company of an old friend from the Five Eccentrics, yes?
 
-It seems that Kanata is in this aquarium… If that’s true, then it would have been nice to invite Shu and Natsume-kun over as well. We could have gathered as the Five Oddballs for the first time in a long while.
+It seems that Kanata is in this aquarium… If that’s true, then it would have been nice to invite Shu and Natsume-kun over as well. We could have gathered as the Five Eccentrics for the first time in a long while.
 
 Let us have our long awaited reunion! Let us enjoy the *Amazing* sensation brought by the unexpected child marrying and having children~♪
 {% endbubble %}
@@ -810,7 +810,7 @@ Let us have our long awaited reunion! Let us enjoy the *Amazing* sensation broug
 {% bubble Rei %}
 Those two children have finally been participating in DreamFes, so they are probably busy.
 
-Also, if we were to join arms again as the Five Oddballs, then there would surely be too much commotion.
+Also, if we were to join arms again as the Five Eccentrics, then there would surely be too much commotion.
 
 I did not even plan on showing up here in the first place…
 

@@ -414,7 +414,7 @@ Thank goodness. I hope that they were able to enjoy themselves after coming all 
 
 I am so happy that we were brought together here.
 
-The Five Oddballs are supposed to have drifted apart from each other, but we still have our friendship.
+The Five Eccentrics are supposed to have drifted apart from each other, but we still have our friendship.
 
 That makes me happy. I have always considered everyone as my friends.
 
@@ -426,7 +426,7 @@ Yeah, they’re important too, but I meant to look a little bit to the right… 
 {% endbubble %}
 
 {% bubble Kanata %}
-Wah--You are right. They look different from how they look at home, so I did not notice them.
+Wah— You are right. They look different from how they look at home, so I did not notice them.
 
 They seem like regular people when they look like that way, don’t they?
 {% endbubble %}

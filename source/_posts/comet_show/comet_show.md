@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Comet Show"
-date: 2021-01-08 9:10:00
+date: 2021-01-08 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

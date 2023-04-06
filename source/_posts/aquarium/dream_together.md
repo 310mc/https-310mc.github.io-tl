@@ -244,7 +244,7 @@ You’ve been doing as great as you ever could. This Onii-san right here will as
 {% endbubble %}
 
 {% bubble Hinata %}
-Oh! If you want something from the shop, then I’ll rush over there by myse--Mrrpfh!?
+Oh! If you want something from the shop, then I’ll rush over there by myse—Mrrpfh!?
 {% endbubble %}
 
 {% bubble Rei %}
@@ -358,7 +358,7 @@ Owowow! Don’t hit me~ Sorry, I went too far! I think it looks good! Octopuses 
 
 Everyone has their own fashion sense, so anything goes so long as it suits them, yeah?
 
-Actually, wait-- Can I take a picture with you? I feel I could burst out in laughter if I could keep looking at it~!
+Actually, wait— Can I take a picture with you? I feel I could burst out in laughter if I could keep looking at it~!
 
 Ah—wait wait, come back!
 
@@ -454,7 +454,7 @@ It is because that rogue has always liked old-fashioned things, and Souma excite
 {% endbubble %}
 
 {% bubble Kaoru %}
-He’s a samurai of the old ages, so it makes sense~ Wait-- Kanata-kun, you’re talking like you know all about him. Were you two that close?
+He’s a samurai of the old ages, so it makes sense~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two that close?
 {% endbubble %}
 
 {% bubble Kanata %}

@@ -49,11 +49,10 @@ hidden: true
 </div>
 
 <!-- more -->
-{% img Aquarium Prologue.png %}
 
-{% note location %}
-**Location:** Seaside
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Beach</span></p>
+</div>
 
 {% bubble Kanata %}
 *puka, puka~*
@@ -101,11 +100,9 @@ but at the very least, i will help you out by carrying the garbage bag for you, 
 hehe, leave it to me. i may not look it, but i have quite the strength~♪
 {% endbubble %}
 
-{% bubble heading %}
-scene change:
-{% endbubble %}
-
-{% img aquarium prologue (2).png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> ADD</span></p>
+</div>
 
 {% bubble Kanata %}
 whew… in the end, we got really into it, and ended up picking up all the litter.
