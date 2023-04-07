@@ -101,7 +101,7 @@ it is a song that can relax you a whooole lot, so please do listen to it, okay�
 
 this was shinkai kanata speaking…♪
 
-tomorrow is the last day. have you already figured out who it will be~? ufufu, look forward to it~♪
+tomorrow is the last day. have you already figured out who it will be\~? ufufu, look forward to it\~♪
 {% endbubble %}
 
 ### Day 5

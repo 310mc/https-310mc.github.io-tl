@@ -236,7 +236,7 @@ It’s gonna be Mama, isn’t it, Anzu-san! Even though you were always too emba
 {% endbubble %}
 
 {% bubble Kanata %}
-…Rogue, yours just says “Mikejima.”
+…rogue, yours just says “mikejima.”
 {% endbubble %}
 
 {% bubble Madara %}
@@ -352,11 +352,11 @@ Every little bit helps, so let’s work hard every day with that mindset.
 {% endbubble %}
 
 {% bubble Kanata %}
-Umm… You said the work will be split between units, but… that just means the rogue will be all alone.
+umm… you said the work will be split between units, but… that just means the rogue will be all alone.
 
-Isn’t it a little too cruel to make him work as much as us? Well… I suppose he could manage it, anyway…
+isn’t it a little too cruel to make him work as much as us? well… i suppose he could manage it, anyway…
 
-But just because he could does not mean we should make him… It just does not seem right.
+but just because he could does not mean we should make him… it just does not seem right.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -492,9 +492,9 @@ Shinkai-senpai, did you eat him!?
 {% endbubble %}
 
 {% bubble Kanata %}
-Huh? I do not understand how you reached that conclusion…
+huh? i do not understand how you reached that conclusion…
 
-I would not eat him, you know… He would probably burn my tongue if I did.
+i would not eat him, you know… he would probably burn my tongue if i did.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -518,7 +518,7 @@ Gotta be careful! You guys should be more careful, too! Fuhahahaha!! ☆
 {% endbubble %}
 
 {% bubble Kanata %}
-Chiaki, you look pale… If you are feeling unwell, then please leave the rest to us and take a break, okay?
+chiaki, you look pale… if you are feeling unwell, then please leave the rest to us and take a break, okay?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -526,7 +526,7 @@ I-I’m fine, Kanata! I will never give in! I will surely get my chance to turn 
 {% endbubble %}
 
 {% bubble Kanata %}
-What are you even fighting against…?
+what are you even fighting against…?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1354,9 +1354,9 @@ Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 ## Chapter 9
 
 {% bubble Kanata %}
-I’m back~♪
+i am back~♪
 
-…? Things are quite lively here… It is midnight by now, so you are going to disturb the neighborhood, you know?
+…? things are quite lively here… it is midnight by now, so you are going to disturb the neighborhood, you know?
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -1364,7 +1364,7 @@ I’m back~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-Wah…! I-I’m so sorry! I turned around and bumped into you!
+wah…! i-i’m so sorry! i turned around and bumped into you!
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -1374,9 +1374,9 @@ What do I gotta eat to be that tall? I’m so jealous…
 {% endbubble %}
 
 {% bubble Kanata %}
-Fish\~ You should eat fish, Nazuna\~♪
+fish\~ you should eat fish, nazuna\~♪
 
-The reason why you do not grow taller, and why governments become corrupt, and why flowers do not live for long — it is all due to not eating fish.
+the reason why you do not grow taller, and why governments become corrupt, and why flowers do not live for long — it is all due to not eating fish.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -1388,7 +1388,7 @@ Ahh, jeez… What’s this whole ruckus about?
 {% endbubble %}
 
 {% bubble Kanata %}
-Hmm~? They are watching a movie, I think?
+hmm~? they are watching a movie, i think?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1512,7 +1512,7 @@ Nevermind… It wasn’t anything important, so please don’t worry about it…
 {% endbubble %}
 
 {% bubble Kanata %}
-Midori~? That pufferfish-looking thing next to you… is that Chiaki?
+midori~? that pufferfish-looking thing next to you… is that chiaki?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1522,7 +1522,7 @@ Well, you were only strolling around the school, so I guess nothing bad would ha
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, I am sorry. Did I worry you?
+fufu, i am sorry. did i worry you?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1532,11 +1532,11 @@ So please don’t just disappear out of nowhere…
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu, that is because Chiaki is more spoiled than you would expect.
+fufufu, that is because chiaki is more spoiled than you would expect.
 
-But it looks like things will be okay, since it seems like you are protecting him.
+but it looks like things will be okay, since it seems like you are protecting him.
 
-Or actually… With everyone in Ryuseitai supporting Chiaki, there can be nothing scary in this whole world.
+or actually… with everyone in ryuseitai supporting chiaki, there can be nothing scary in this whole world.
 {% endbubble %}
 
 ## Chapter 10

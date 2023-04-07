@@ -71,7 +71,7 @@ Huh? What’s wrong, transfer student? Give me a response~ I’m gonna feel lone
 
 Hello? Hey! Transfer student~!
 
-… Huh? What’s with that face? Did I upset you?
+…Huh? What’s with that face? Did I upset you?
 
 I’m still not used to talking to girls, so I don’t know when I’m doing something wrong. If there’s something you have to say, you gotta do it out loud, okay?
 
@@ -119,7 +119,7 @@ Wait, now all I’m doing is complaining. My bad, Anzu. I came here to help you,
 
 Maybe this means you’re a truly excellent producer… Even more than I thought.
 
-… Woah—Why are you suddenly teary-eyed!? Sorry, am I annoying you?
+…Woah— Why are you suddenly teary-eyed!? Sorry, am I annoying you?
 
 No? It’s because you don’t get why you were tasked to plan an S1 event? You’re still an amateur who doesn’t know anything?
 
@@ -153,7 +153,7 @@ You’re pretty energetic and peppy for a ninja, y’know.
 {% bubble Shinobu %}
 A*hem*. That is because I am still a novice!
 
-… Oh? Is that Anzu-dono next to you, Isara-dono?
+…Oh? Is that Anzu-dono next to you, Isara-dono?
 
 My apologies! You were enjoying a date together! I apologize for being a ninja who cannot read the mood! I will take my leave right away~!
 {% endbubble %}
@@ -173,7 +173,7 @@ Mggh!? W-wha—Anzu-dono? Please do not hug me~!
 {% bubble Mao %}
 C’mon, Anzu. Trying to heal yourself through Sengoku is understandable and all, but you can’t go and hug guys just like that.
 
-… You’re so lucky, Sengoku.
+…You’re so lucky, Sengoku.
 {% endbubble %}
 
 {% bubble Shinobu %}

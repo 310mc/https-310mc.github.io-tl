@@ -472,9 +472,9 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 {% img /img/es/eventstory/aquarium/kanataorigcg.jpg %}
 
 {% bubble Kanata v2 %}
-*Puka, puka… ♪*
+*puka, puka…♪*
 
-Ohhh? Kaoru! ufufu, what a coincidence~♪
+ohhh? kaoru! ufufu, what a coincidence~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -484,9 +484,9 @@ I second-guessed myself about this before, but were you actually a sea creature 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, I am human, more or less. I am no longer a sea creature, so that is why I cannot swim.
+fufufu, i am human, more or less. i am no longer a sea creature, so that is why i cannot swim.
 
-I sacrificed something important to me so as to live on the land… It is just like the Little Mermaid~ Puka, puka~♪
+i sacrificed something important to me so as to live on the land… it is just like the little mermaid~ puka, puka~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -496,13 +496,13 @@ Yet all this time you were over here, just acting all weird like it's completely
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Now, now… Please calm down, Kaoru.
+now, now… please calm down, kaoru.
 
-It is not like you. You are usually much more calm, drifting through the waves… You are a surfer, after all… ♪
+it is not like you. you are usually much more calm, drifting through the waves… you are a surfer, after all… ♪
 
-If you start to panic, you will be consumed by the waves and drown~ fufu~♪
+if you start to panic, you will be consumed by the waves and drown~ fufu~♪
 
-Do not make a ruckus~ Okay, Kaoru? Or you will scare the fish~
+do not make a ruckus~ okay, kaoru? or you will scare the fish~
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -510,7 +510,7 @@ Guuuh… Okay, wait a sec. I'll take a deep breath, and go back to my usual self
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Okay. A confused Kaoru is also cute… But the usual Kaoru is more charming~♪
+okay. a confused kaoru is also cute… but the usual kaoru is more charming~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -520,7 +520,7 @@ Hey, Kanata-kun.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Yes. What is it, Kaoru?
+yes. what is it, kaoru?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -528,11 +528,11 @@ Yes. What is it, Kaoru?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-I see. Your voice is far away from me, so it does feel a bit lonely.
+i see. your voice is far away from me, so it does feel a bit lonely.
 
-But, I am sorry. This is my punishment… So I cannot leave this place.
+but, i am sorry. this is my punishment… so i cannot leave this place.
 
-I know it must be embarrassing, but can I stay where I am right now?
+i know it must be embarrassing, but can i stay where i am right now?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -542,13 +542,13 @@ I haven't heard much of what happened, but apparently it's some problem related 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Yes. I kind of ended up going against my household… But I really did not think it would become this much of a problem.
+yes. i kind of ended up going against my household… but i really did not think it would become this much of a problem.
 
-Now I am truly in trouble. But their side of the story is also correct, so right now we are talking it out and finding a common ground between us.
+now i am truly in trouble. but their side of the story is also correct, so right now we are talking it out and finding a common ground between us.
 
-For now, I am going through with the punishment. They will listen to my selfish requests afterwards.
+for now, i am going through with the punishment. they will listen to my selfish requests afterwards.
 
-So if you can, please do not try to interfere, Kaoru.
+so if you can, please do not try to interfere, kaoru.
 {% endbubble %}
 
 ## Chapter 4

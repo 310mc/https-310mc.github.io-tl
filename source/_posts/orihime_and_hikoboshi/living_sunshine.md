@@ -88,7 +88,7 @@ Sorry for making you wait, guys! Morisawa Chiaki has been revived in all his spl
 {% endbubble %}
 
 {% bubble Kanata %}
-Shinkai Kanata has also been revived, as an extra~♪
+shinkai kanata has also been revived, as an extra~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -98,11 +98,11 @@ Each comrade is important and irreplaceable—the five of us together are Ryusei
 {% endbubble %}
 
 {% bubble Kanata %}
-Chiaki…! ☆* (hugs him)*
+chiaki…! ☆ <em>(hugs him)</em>
 {% endbubble %}
 
 {% bubble Chiaki %}
-Kanata…! ☆* (hugs back)*
+Kanata…! ☆ <em>(hugs back)</em>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -134,11 +134,11 @@ Anyway, I get why *you* weren’t around, but why didn't Shinkai-senpai show up?
 {% endbubble %}
 
 {% bubble Kanata %}
-Ehehe~ I am sorry, was it lonely?
+ufufu~ i am sorry, was it lonely?
 
-You see, Chiaki kept trying to come and see you three, no matter how many times people told him not to go…
+you see, chiaki kept trying to come and see you three, no matter how many times people told him not to go…
 
-So I had no choice but to abduct and confine him.
+so i had no choice but to abduct and confine him.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -146,7 +146,7 @@ Uh-- Huh!? What did you just say!?
 {% endbubble %}
 
 {% bubble Kanata %}
-I abducted and confined him~♪
+i abducted and confined him~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -168,17 +168,17 @@ Kanata's home is isolated—I felt like I was living the life of Urashima Tarou 
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehehe~ Sea breams and flounders showed him a dance~[^3] *puka puka*~♪
+fufufu\~ sea breams and flounders showed him a dance~[^3] <em>puka puka\~♪</em>
 {% endbubble %}
 
 {% bubble Chiaki %}
 Hehe. The people in his home treat him very preciously, like a god, so they didn't like it when he was around me…
 
-… Did I end up causing you trouble, Kanata?
+…Did I end up causing you trouble, Kanata?
 {% endbubble %}
 
 {% bubble Kanata %}
-Not at all~ it would have been much more troublesome if you died from illness. Let me save you every once in a while… Hero~♪
+not at all~ it would have been much more troublesome if you died from illness. let me save you every once in a while… hero~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -198,11 +198,11 @@ But you're right! I should be listening to what my doctor says!
 {% endbubble %}
 
 {% bubble Kanata %}
-That's right~ And you got to experience a pretty good life in there—I almost want you to thank me.
+that's right~ and you got to experience a pretty good life in there — i almost want you to thank me.
 
-Hehe, I always have to do beach opening ceremonies in summer, which is a nuisance, but I felt much happier with Chiaki around.
+fufu, i always have to do beach opening ceremonies in summer, which is a nuisance, but i felt much happier with chiaki around.
 
-If you are okay with it, you could live in my home forever, Chiaki~♪
+if you are okay with it, you could live in my home forever, chiaki~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -308,7 +308,7 @@ It's just like Ryuseitai! I like it! Ahh, this brings me back… Mikejima-san us
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, he used to invite me to festivals too when we were young. That is the only thing about him that has not changed since he was a child.
+yes, he used to invite me to festivals too when we were young. that is the only thing about him that has not changed since he was a child.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -330,7 +330,7 @@ Orihime and Hikoboshi? That's definitely Tanabata-related, but it doesn't really
 {% endbubble %}
 
 {% bubble Kanata %}
-Where *is* Trickstar right now? We would like to thank them for taking care of you three.
+where *is* trickstar right now? we would like to thank them for taking care of you three.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -360,7 +360,7 @@ Ahaha. We have to work hard, or we will be buried by everyone else~
 {% endbubble %}
 
 {% bubble Kanata %}
-Okay, then let's do that. It will be okay, the five of us together are invincible~♪
+okay, then let's do that. it will be okay, the five of us together are invincible~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -384,7 +384,7 @@ Ack~! Please do not hug me! The summer is like hell itself—it is so sweaty and
 {% endbubble %}
 
 {% bubble Kanata %}
-Then let's bathe in the water~♪ It will relieve you and make you feel refreshed~
+then let's bathe in the water~♪ it will relieve you and make you feel refreshed~
 {% endbubble %}
 
 {% bubble Tetora %}

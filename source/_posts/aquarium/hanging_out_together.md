@@ -218,11 +218,11 @@ Yet he continues to keep things vague by hiding his sincerity with frivolous tal
 ## Chapter 2
 
 {% bubble Kanata v2 %}
-Whew. I am finally outside.
+whew. i am finally outside.
 
-Walking on my feet is a pain, but… That is how it is. After all, I am also human. I have to walk on my feet and breathe through my lungs.
+walking on my feet is a pain, but… that is how it is. after all, i am also human. i have to walk on my feet and breathe through my lungs.
 
-<em><th>(Breathe in, breathe out)</th>…</em> The air is tasty, so I do find being outside enjoyable.
+<em><th>(breathe in, breathe out)</th>…</em> the air is tasty, so i do find being outside enjoyable.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -230,11 +230,11 @@ Walking on my feet is a pain, but… That is how it is. After all, I am also hum
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Kaoru. Humans breathe through their mouths, so they can probably taste the air, but fish breathe through their gills, yes?
+kaoru. humans breathe through their mouths, so they can probably taste the air, but fish breathe through their gills, yes?
 
-I wonder if they cannot taste the tastiness of the air. If that is true, then I feel bad for them…
+i wonder if they cannot taste the tastiness of the air. if that is true, then i feel bad for them…
 
-Now I am curious~ What do you think, Kaoru?
+now i am curious~ what do you think, kaoru?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -242,7 +242,7 @@ Kanata-kun.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Yes, What is it, Kaoru?
+yes, what is it, kaoru?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -250,19 +250,19 @@ Quit talking about weird things without a care in the world\~! You should apolog
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Uunini!? Kaoru! Please do not pinch my cheeks~!
+uunini!? kaoru! please do not pinch my cheeks~!
 
-Uuu… How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
+uuu… how cruel, i thought you were a kind boy. please do not hurt me, i can feel pain too.
 
-Ah! There is a theory that fish do not feel pain…
+ah! there is a theory that fish do not feel pain…
 
-It is said that if you cut a fish properly, it will continue to swim just with its bones.
+it is said that if you cut a fish properly, it will continue to swim just with its bones.
 
-I wonder if that is true?
+i wonder if that is true?
 
-I have never seen a fish like that before…
+i have never seen a fish like that before…
 
-If they were only bones, then they would not have meat or fins, so they should not be able to swim… Right?
+if they were only bones, then they would not have meat or fins, so they should not be able to swim… right?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -278,13 +278,13 @@ So if you don’t feel even a little bad for making us all worry, then I may jus
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Uuu… Kaoru, you may be smiling, but your eyes are completely serious…
+uuu… kaoru, you may be smiling, but your eyes are completely serious…
 
-It is scary. I really do feel bad for making you all worry.
+it is scary. i really do feel bad for making you all worry.
 
-But this is my problem. I will be okay. You do not have to poke your nose in my problem.
+but this is my problem. i will be okay. you do not have to poke your nose in my problem.
 
-I do not want to ruin everyone’s peaceful lives with my problems.
+i do not want to ruin everyone’s peaceful lives with my problems.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -322,7 +322,7 @@ I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Kaoru… Are you *really* sexy?
+kaoru… are you *really* sexy?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -334,7 +334,7 @@ Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-…If you pull this off, I will die. Please do not.
+…if you pull this off, i will die. please do not.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -342,9 +342,9 @@ Huh!? That’s how it works!? You cryptic creature!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Hehehe, I am only joking…
+fufufu, i am only joking…
 
-I am sorry for making you talk about something so serious, even though it is out of your character… I completely understood what you said.
+i am sorry for making you talk about something so serious, even though it is out of your character… i completely understood what you said.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -368,9 +368,9 @@ We work as idols, after all. So at the very least, we have to do it properly.
 ## Chapter 3
 
 {% bubble Kanata v2 %}
-*Sigh…* I am not one to think of being an idol as work.
+*sigh…* i am not one to think of being an idol as work.
 
-Kaoru, you surprisingly have your head on your shoulders.
+kaoru, you surprisingly have your head on your shoulders.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -380,7 +380,7 @@ That’s what you call "swimming the current of life". It’s something everyone
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Okay. I will not forget these memories with everyone… Never ever.
+okay. i will not forget these memories with everyone… never ever.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -412,7 +412,7 @@ Did being inside a dim water tank for so long make you want some sunshine?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-No… Kaoru, please wait here, okay?
+no… kaoru, please wait here, okay?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -434,7 +434,7 @@ Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
 {% bubble Kanata v2 %}
-Ahh, I thought so… Hey! Please stop giving food to the dolphins as you please!
+ahh, i thought so… hey! please stop giving food to the dolphins as you please!
 {% endbubble %}
 
 {% bubble Madara %}
@@ -444,9 +444,9 @@ Come, come, come!! I’ll give you some of their food too~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Hmm… I love fish, but if I were to eat it raw, it would hurt my stomach.
+hmm… i love fish, but if i were to eat it raw, it would hurt my stomach.
 
-You need to at least prepare it and make it into sashimi before I can eat it.
+you need to at least prepare it and make it into sashimi before i can eat it.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -460,7 +460,7 @@ Heeey, what’s going on? Seriously… You look like you’re having fun talking
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-*Sigh*… Just some rogue.
+*sigh*… just some rogue.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -490,7 +490,7 @@ And that someone was you, huh? Now that I think about it, you two are childhood 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-No. This person has nothing to do with me.
+no. this person has nothing to do with me.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -514,15 +514,15 @@ I can do any and all jobs swiftly. I plan to clean the water tank next~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-Doing such unnecessary things… No one asked for it, okay?
+doing such unnecessary things… no one asked for it, okay?
 
-If I were to just restrain myself for a while, it would have all gone well.
+if i were to just restrain myself for a while, it would have all gone well.
 
-You said you put pressure on them, but my household has not actually done anything wrong.
+you said you put pressure on them, but my household has not actually done anything wrong.
 
-Please do not threaten people for no reason.
+please do not threaten people for no reason.
 
-It is our responsibility as people with power to protect peace by not using that power.
+it is our responsibility as people with power to protect peace by not using that power.
 {% endbubble %}
 
 {% bubble Madara %}

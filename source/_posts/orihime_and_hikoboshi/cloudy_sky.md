@@ -192,7 +192,7 @@ Ahh you're hot, you're insanely hot! Are you some heat power generator!?
 {% endbubble %}
 
 {% bubble Subaru %}
-… Are you really okay, Chi~chan-senpai?
+…Are you really okay, Chi~chan-senpai?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -334,7 +334,7 @@ I love you, so I don't really mind how you treat me, but if you treated other se
 {% endbubble %}
 
 {% bubble Subaru %}
-Hrmm… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
+Hmm… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
 
 We aren't used to the idea of working with seniors and juniors for a job.
 {% endbubble %}
@@ -424,7 +424,7 @@ Okay, got it! Take care, okay~?
 
 Mhmm. Just as we’ve discussed before, we're going to be taking care of the first years.
 
-Yep, Hokke~ and Ukki~ both said they were fine with it. … Right?
+Yep, Hokke~ and Ukki~ both said they were fine with it. …Right?
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -464,7 +464,7 @@ Huh? C-chi~chan-senpai? Hello? Talk to me!
 
 Uhh? What just happened? The call was cut off all of a sudden!
 
-… Mmm, he won't pick up no matter how many times I call. I have a bad feeling about this… I'll try calling him again later.
+…Mmm, he won't pick up no matter how many times I call. I have a bad feeling about this… I'll try calling him again later.
 {% endbubble %}
 
 {% bubble Hokuto %}

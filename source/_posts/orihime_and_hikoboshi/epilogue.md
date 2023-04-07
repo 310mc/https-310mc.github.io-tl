@@ -104,7 +104,7 @@ Few hours later
 {% endbubble %}
 
 {% bubble Kanata %}
-“And then comes~ Ryusei Blue, Shinkai Kanata~♪”
+“and then comes\~ ryusei blue, shinkai kanata\~♪”
 {% endbubble %}
 
 {% bubble Midori %}
@@ -136,11 +136,11 @@ Few hours later
 {% endbubble %}
 
 {% bubble Kanata %}
-“Hehehe. Wild animals avoid fights by shouting out threats.”
+“fufufu. wild animals avoid fights by shouting out threats.”
 
-“It is sad to shed blood with claws and fangs.”
+“it is sad to shed blood with claws and fangs.”
 
-“So, a happy ending is when the animal’s opponent cowers in fear and runs away~♪”
+“so, a happy ending is when the animal’s opponent cowers in fear and runs away~♪”
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -148,7 +148,7 @@ Few hours later
 {% endbubble %}
 
 {% bubble Kanata %}
-“Hehehe, the land and the sea are the same~ Both are the survival of the fittest! Rawr~☆”
+“fufufu, the land and the sea are the same\~ both are the survival of the fittest! rawr\~☆”
 {% endbubble %}
 
 {% bubble Mao %}
@@ -240,9 +240,9 @@ Few hours later
 {% endbubble %}
 
 {% bubble Kanata %}
-“♪~♪~♪”
+“♪\~♪\~♪”
 
-“Hehehe~ We are stars swimming in the Milky Way~ *puka puka~♪*”
+“fufufu\~ we are stars swimming in the milky way\~ *puka puka\~♪*”
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -282,7 +282,7 @@ Few hours later
 {% endbubble %}
 
 {% bubble Tetora %}
-(Hrmm… That idiot Taichou’s jumping around everywhere, when he's only just recovered.)
+(Hmm… That idiot Taichou’s jumping around everywhere, when he's only just recovered.)
 
 (I guess he’d built up a lot of stress during the time he was sick, since he couldn't join in on practice.)
 
@@ -398,7 +398,7 @@ I’m so jealous of you. Everything I wanted in the past… You have it all with
 {% endbubble %}
 
 {% bubble Midori %}
-……
+……………
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -532,7 +532,7 @@ Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 {% endbubble %}
 
 {% bubble Mao %}
-(Hrmm… It’s seriously not looking good for him. He's barely responding, not even with a quick nod.)
+(Hmm… It’s seriously not looking good for him. He's barely responding, not even with a quick nod.)
 
 (I mean, his safety is top priority… So if his condition gets really bad, I’ll forcibly carry him off the stage.)
 
@@ -616,7 +616,7 @@ It made me so happy. Something so normal, so natural and mundane… It was spark
 {% endbubble %}
 
 {% bubble Mao %}
-… You don't have to thank me. It really was something so normal, anyone could do it.
+…You don't have to thank me. It really was something so normal, anyone could do it.
 
 More importantly, you need to keep yourself together. You’re starting to sound like these are your last words.
 

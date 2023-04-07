@@ -272,13 +272,13 @@ Hahaha, looks like the plan to get you used to them failed, huh?
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. It is not that easy to overcome your weaknesses.
+fufu. it is not that easy to overcome your weaknesses.
 
-Unlike you, most people cannot easily manage to do things just by getting into it… Mama.
+unlike you, most people cannot easily manage to do things just by getting into it… mama.
 
-Anyway, due to Chiaki’s uselessness, the children probably felt they had to get through this on their own this time, so they are keeping things going in his stead. Everything is just fine~♪
+anyway, due to chiaki’s uselessness, the children probably felt they had to get through this on their own this time, so they are keeping things going in his stead. everything is just fine~♪
 
-It is cuter if Chiaki shows his weak side every once in a while, anyway. Although, I am sure he would rather show his cool side.
+it is cuter if chiaki shows his weak side every once in a while, anyway. although, i am sure he would rather show his cool side.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -368,7 +368,7 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, do not bully him so much, Midori~♪
+fufu, do not bully him so much, midori~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -412,7 +412,7 @@ What! But I am completely fine with anything as long as it is ninja-related! I r
 {% endbubble %}
 
 {% bubble Kanata %}
-Yes, I am also okay with anything as long as it is sea creatures~♪
+yes, i am also okay with anything as long as it is sea creatures~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -758,9 +758,9 @@ We can’t have you do that now! Let’s all enjoy this together to the very end
 {% endbubble %}
 
 {% bubble Kanata %}
-That’s right, it is just as Chiaki said~ Come, let’s all dance together~♪
+that’s right, it is just as chiaki said~ come, let’s all dance together~♪
 
-“For today only, we invite everyone to the monster festival! Trick or Treat…♪”
+“for today only, we invite everyone to the monster festival! trick or treat…♪”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -822,13 +822,13 @@ Dammit, I’m so frustrated… I’m going to lose face at this point, I’ve go
 {% endbubble %}
 
 {% bubble Kanata %}
-Ahaha, what would you even get from competing against your own comrades, Chiaki~?
+ahaha, what would you even get from competing against your own comrades, chiaki~?
 
-Although, I do suppose it is much better to do that than to treat everything with caution~♪
+although, i do suppose it is much better to do that than to treat everything with caution~♪
 
-Halloween is the children’s festival.
+halloween is the children’s festival.
 
-You should not intrude on their festival\~ Let’s relax, and enjoy it in our own way\~♪
+you should not intrude on their festival\~ let’s relax, and enjoy it in our own way\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}

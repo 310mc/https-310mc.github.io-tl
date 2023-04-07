@@ -342,7 +342,7 @@ Ughh… I knew it, this guy’s also the pushy overbearing type…
 {% endbubble %}
 
 {% bubble Midori %}
-… Sengoku-kun? What’s wrong? Are you feeling unwell?
+…Sengoku-kun? What’s wrong? Are you feeling unwell?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -596,7 +596,7 @@ Think up something you guys wanna perform. If you don't at least know *that*, th
 {% endbubble %}
 
 {% bubble Tetora %}
-…
+……………
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -804,7 +804,7 @@ At the same time, outside the gym…
 {% endbubble %}
 
 {% bubble Shinobu %}
-… We got scolded really badly.
+…We got scolded really badly.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -816,7 +816,7 @@ It felt more like he was looking down on us… Rather than scared, I would say I
 {% endbubble %}
 
 {% bubble Midori %}
-… I dunno what he couldn't stand about us, but he didn’t have to say it like that…
+…I dunno what he couldn't stand about us, but he didn’t have to say it like that…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -856,7 +856,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 {% endbubble %}
 
 {% bubble Tetora %}
-…
+…………
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1020,7 +1020,7 @@ Just think of it like, “we're lucky to have made mistakes.” I mean, you got 
 
 We're meant to keep going via trial and error, and to grow further from this.
 
-… Haha! *I'm *the one who got here late, but I’m preaching to all of you like some kinda wise guy! Just who do I think I am, huh!?
+…Haha! *I'm* the one who got here late, but I’m preaching to all of you like some kinda wise guy! Just who do I think I am, huh!?
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -1136,7 +1136,7 @@ There's no way these novice first years can do it too.
 {% endbubble %}
 
 {% bubble Midori %}
-Exactly… *Thank *you, Isara-senpai…
+Exactly… *Thank* you, Isara-senpai…
 
 I… I was doing my very best… He kept on saying awful things to me, so I thought I’d make him eat his words…
 
@@ -1346,7 +1346,7 @@ Huh!? Why're you complimenting me all of a sudden!? You're making me blush~!
 {% endbubble %}
 
 {% bubble Shinobu %}
-… When the atmosphere went bad today, I could not do anything about it myself…
+…When the atmosphere went bad today, I could not do anything about it myself…
 
 All I could do was call for you with the hope that you could do something.
 
