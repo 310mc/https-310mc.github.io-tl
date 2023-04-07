@@ -198,7 +198,7 @@ So I thought I’d ask any friend I could find to join me without telling Yuta-k
 {% endbubble %}
 
 {% bubble Sora %}
-HoHo~? But Sora is not your classmate~?
+HoHo\~? But Sora is not your classmate\~?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -290,7 +290,7 @@ Aahh, that’s right, you’re not good with places like this… My bad. You loo
 {% bubble Sora %}
 Sora's fine, though~ If Sora is with a friend, then anywhere is fun!
 
-Actually, the feelings of happiness and fun win over the pain and distress~! Sora's painted with colors right now, after all~
+Actually, the feelings of happiness and fun win over the pain and distress\~! Sora's painted with colors right now, after all\~
 
 But not having enough stamina is Sora's weakpoint, so Sora's happy that you’re being considerate~♪
 {% endbubble %}
@@ -314,7 +314,7 @@ Huh? What!? Are we turning into a horrific thriller movie!?
 {% endbubble %}
 
 {% bubble Souma %}
-……
+…………
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -366,7 +366,7 @@ Oh, it really ain’t no sword… You always look ready to strike, so I freaked 
 {% endbubble %}
 
 {% bubble Sora %}
-HuHu~? What are you doing here, Kanzaki-senpai? You’re radiating with the color of bloodlust~ Sora thought you were a sharkie!
+HuHu\~? What are you doing here, Kanzaki-senpai? You’re radiating with the color of bloodlust\~ Sora thought you were a sharkie!
 {% endbubble %}
 
 {% bubble Souma %}
@@ -474,7 +474,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 {% bubble Kanata %}
 *Puka, puka… ♪*
 
-Ohhh? Kaoru! Ehehe, what a coincidence~♪
+Ohhh? Kaoru! ufufu, what a coincidence~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -484,13 +484,13 @@ I second-guessed myself about this before, but were you actually a sea creature 
 {% endbubble %}
 
 {% bubble Kanata %}
-Hehehe, I am human, more or less. I am no longer a sea creature, so that is why I cannot swim.
+fufufu, I am human, more or less. I am no longer a sea creature, so that is why I cannot swim.
 
 I sacrificed something important to me so as to live on the land… It is just like the Little Mermaid~ Puka, puka~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Okay yeah, you do look like a *“Little Mermaid”* resting on top of a rock right now, but! What are you doing!? We were looking for you because of how worried we were!
+Okay yeah, you do look like a “Little Mermaid” resting on top of a rock right now, but! What are you doing!? We were looking for you because of how worried we were!
 
 Yet all this time you were over here, just acting all weird like it's completely normal!
 {% endbubble %}
@@ -500,7 +500,7 @@ Now, now… Please calm down, Kaoru.
 
 It is not like you. You are usually much more calm, drifting through the waves… You are a surfer, after all… ♪
 
-If you start to panic, you will be consumed by the waves and drown~ Hehe~♪
+If you start to panic, you will be consumed by the waves and drown~ fufu~♪
 
 Do not make a ruckus~ Okay, Kaoru? Or you will scare the fish~
 {% endbubble %}
@@ -514,7 +514,7 @@ Okay. A confused Kaoru is also cute… But the usual Kaoru is more charming~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Yeah, uh, be quiet for a sec. *(Breathe in, breathe out)*…… Alright, I'm good to go.
+Yeah, uh, be quiet for a sec. <em>(Breathe in, breathe out)</em>…… Alright, I'm good to go.
 
 Hey, Kanata-kun.
 {% endbubble %}
@@ -830,6 +830,7 @@ After all, we, too, cannot continue wandering about in the same place endlessly.
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /aquarium/aquarium_together,, arrow-left, Previous Chapter: Going to the Aquarium Together %}
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/hanging_out_together,, arrow-right, Next Chapter: Hanging Out Together %}

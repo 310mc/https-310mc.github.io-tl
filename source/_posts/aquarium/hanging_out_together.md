@@ -162,7 +162,7 @@ Wouldn’t falling in love and having fun *also* be helpful for work? Not that I
 {% endbubble %}
 
 {% bubble Sora %}
-HiHi~♪ That’s right, Hina-chan! Youth is a treasure you can’t buy with money~!
+HiHi\~♪ That’s right, Hina-chan! Youth is a treasure you can’t buy with money\~!
 
 Well, see you~! We’ll be heading off!
 
@@ -182,7 +182,7 @@ Hehe, they speak like they know things so well… However, it is indeed the trut
 
 Now then… Anzu-dono, I am sure it is irritating of me to apologise over and over again, but allow me to say it one last time.
 
-…… Is there something that is troubling you?
+……Is there something that is troubling you?
 
 I have good hearing, so I had heard what you spoke about with my senior… I am so sorry for not realizing that you had been crying.
 
@@ -226,7 +226,7 @@ Walking on my feet is a pain, but… That is how it is. After all, I am also hum
 {% endbubble %}
 
 {% bubble Kaoru %}
-…
+……………
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -246,13 +246,13 @@ Yes, What is it, Kaoru?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Quit talking about weird things without a care in the world~! You should apologise for making us all worried first~!!
+Quit talking about weird things without a care in the world\~! You should apologize for making us all worried first\~!!
 {% endbubble %}
 
 {% bubble Kanata %}
-*Uunini!?* Kaoru! Please do not pinch my cheeks~!
+Uunini!? Kaoru! Please do not pinch my cheeks~!
 
-Uuu*…* How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
+Uuu… How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
 
 Ah! There is a theory that fish do not feel pain…
 
@@ -278,7 +278,7 @@ So if you don’t feel even a little bad for making us all worry, then I may jus
 {% endbubble %}
 
 {% bubble Kanata %}
-Uuu*… *Kaoru, you may be smiling, but your eyes are completely serious…
+Uuu… Kaoru, you may be smiling, but your eyes are completely serious…
 
 It is scary. I really do feel bad for making you all worry.
 
@@ -388,7 +388,7 @@ Memories…? Why’re you talking like you’re leaving for a far away place?
 {% endbubble %}
 
 {% bubble Kanata %}
-……
+…………
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -548,7 +548,7 @@ Maybe I’ll take some home and cook it for dinner.
 {% endbubble %}
 
 {% bubble Sora %}
-HaHa~♪ Sea cucumbers aren’t typically sold around here, so if you took some back, it’ll be obvious to Yuu-chan that you went to the aquarium~
+HaHa\~♪ Sea cucumbers aren’t typically sold around here, so if you took some back, it’ll be obvious to Yuu-chan that you went to the aquarium\~
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -558,11 +558,11 @@ But this is just the *Free to Touch* section, so I guess I can’t take it back 
 
 Look at this, Sora-kun! Putting starfish on my chest gives me that sexy swimsuit look~☆
 
-What’cha think~? Does this suit lil’ ol’ me~?[^2]
+What’cha think\~? Does this suit lil’ ol’ me\~?[^2]
 {% endbubble %}
 
 {% bubble Sora %}
-HiHi~♪ You’ll have the whole seaside talking about it~!
+HiHi\~♪ You’ll have the whole seaside talking about it\~!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -716,6 +716,7 @@ Woah, woah—! Do not drag me over by the hand…
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /aquarium/friends_together,, arrow-left, Previous Chapter: Inviting Friends Together %}
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/dream_together,, arrow-right, Next Chapter: What Dream Shall We Be Seeing Together %}

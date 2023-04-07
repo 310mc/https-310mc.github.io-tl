@@ -82,7 +82,7 @@ hidden: true
 
 “There will be a lot of splashing about, so may all the mommys and daddies take good care of their children, please?”
 
-“And now! To the people in the back seats~! Hello~! ♪”
+“And now! To the people in the back seats\~! Hello\~! ♪”
 
 “Hehehe, did I startle all of you? I asked the talented Mr. Dolphin to spring both of us up high~♪”
 
@@ -100,7 +100,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Souma %}
-…… Buchou-dono is handling that *“dol-fin”* magnificently. The sight is beautiful, but what he is doing is normally quite preposterous, is it not?
+……Buchou-dono is handling that *“dol-fin”* magnificently. The sight is beautiful, but what he is doing is normally quite preposterous, is it not?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -158,9 +158,9 @@ I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
 {% bubble Kanata %}
-“Bravo~♪ Mr. Dolphin wonderfully caught the rings Souma tossed with its tail~!”
+“Bravo\~♪ Mr. Dolphin wonderfully caught the rings Souma tossed with its tail\~!”
 
-“A round of applause for you~♪ I’ll give you fish as reward~!”
+“A round of applause for you\~♪ I’ll give you fish as reward\~!”
 {% endbubble %}
 
 {% bubble Souma %}
@@ -214,7 +214,7 @@ Ewww, being complimented by a guy won’t make me happy at *all*~ But you’re r
 
 That sounds like a lot of fun to do, and it suits my style… Even if I succeed only for a moment~♪
 
-♪~♪~♪
+♪\~♪\~♪
 {% endbubble %}
 
 ## Chapter 2
@@ -312,7 +312,7 @@ Hehehe, what is wrong with it? It *is* true that you get too ahead of yourself s
 {% endbubble %}
 
 {% bubble Kaoru %}
-Whaaat~? You guys are so harsh~! I’ve had a complete 180 flip, I’m an earnest guy now! I’m serious~
+Whaaat\~? You guys are so harsh\~! I’ve had a complete 180 flip, I’m an earnest guy now! I’m serious~
 {% endbubble %}
 
 {% bubble Madara %}
@@ -360,7 +360,7 @@ Are they perhaps hungry? They do not feed on fish, though, do they?
 {% endbubble %}
 
 {% bubble Sora %}
-HaHa~♪ There’s been an unusually strange color drifting in the air for awhile now~ Maybe it’s because of that?
+HaHa\~♪ There’s been an unusually strange color drifting in the air for awhile now\~ Maybe it’s because of that?
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -370,7 +370,7 @@ That sound is visible to you? How wonderful! ♪
 {% endbubble %}
 
 {% bubble Sora %}
-Aaaahh, this is Mr. Dolphin’s singing? It’s a lovely color~! *La~di~la~!* ♪
+Aaaahh, this is Mr. Dolphin’s singing? It’s a lovely color\~! *La\~di\~la\~!* ♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -512,7 +512,7 @@ I mean, we’re going around the aquarium with everyone after this, so let’s q
 {% bubble Kanata %}
 Yes, I am also hoping that we will be able to do that.
 
-Everyone together now~! Let us sing together with high spirits! We will sing our Ensemble in unison~♪
+Everyone together now\~! Let us sing together with high spirits! We will sing our Ensemble in unison\~♪
 
 This is the gentle planet Earth![^2] We are all family, born on this planet!
 
@@ -520,10 +520,11 @@ We will help each other, love each other, and sing a happy song!
 
 We will sing together! And I hope, forever…♪
 
-♪~♪~♪
+♪\~♪\~♪
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /aquarium/dream_together,, arrow-left, Previous Chapter: What Dream Shall We Be Seeing Together %}
 {% btn /aquarium,, star, Index %}
 </div>

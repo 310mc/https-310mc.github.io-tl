@@ -106,7 +106,7 @@ That’s a good joke! I’ve known you long enough that I can tell just from loo
 
 Besides, you’re looking a little prettier today… You usually don’t wear makeup, but could it be that you’re wearing a little right now?
 
-Ho*ho*, could you be going to a *date?* ♪
+Ho<em>ho</em>, could you be going to a *date?* ♪
 
 I’m interested! Who’s it with? Tell Mama your secret ☆
 
@@ -164,7 +164,7 @@ Get any closer to Anzu-dono and I will tear you down by the throat.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Huuuh? Am I seeing things~? There’s a samurai getting in the way of the perfect couple from a shoujo manga for some reason~?
+Huuuh? Am I seeing things\~? There’s a samurai getting in the way of the perfect couple from a shoujo manga for some reason\~?
 
 No one called for you, so can you leave? Shoo, shoo!
 {% endbubble %}
@@ -178,7 +178,7 @@ Uhh, you just said that so casually, you know!? Please don't do anything~ Aren�
 {% endbubble %}
 
 {% bubble Souma %}
-I have never seen you as a “*pal*”… You are the disgrace of the Marine Life club.
+I have never seen you as a *“pal”*… You are the disgrace of the Marine Life club.
 {% endbubble %}
 
 ## Chapter 2
@@ -235,7 +235,7 @@ Okay, if you get confused just call out to us~ Bye bye~♪
 Eek!? A shuriken thingie just flew this way!!
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma unknown %}
 …I may not be able to see you, but I can sense your presence. You best not do anything tactless.
 {% endbubble %}
 
@@ -390,7 +390,7 @@ Ahh… Right, I forgot you were from a family detached from the modern times, st
 {% bubble Kaoru %}
 Um, you do know that “smart” is in *smart* phone, right?
 
-Oh, woops. Sorry Anzu-chan. I shouldn't be talking just to this punk, right~? I’ll make sure not to bore you, so feel free to join in the conversation~♪
+Oh, woops. Sorry Anzu-chan. I shouldn't be talking just to this punk, right\~? I’ll make sure not to bore you, so feel free to join in the conversation\~♪
 
 Hm? Did you just say we surprisingly get along? Ewww, do you really see us that way?
 {% endbubble %}
@@ -794,6 +794,7 @@ It is because it is midday… This is the time for vampires to sleep… Also, yo
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /aquarium/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/friends_together,, arrow-right, Next Chapter: Inviting Friends Together %}

@@ -176,11 +176,11 @@ Is that why you’re in the corner, looking like you can’t stand being here fo
 {% endbubble %}
 
 {% bubble Souma %}
-Hehe, be slow and steady, Anzu-dono.[^1] You should take a relaxing break.
+Fufu, be slow and steady, Anzu-dono.[^1] You should take a relaxing break.
 
-The more you exhaust yourself, the more you will cause *“care-less mis-staiks”* to happen… Not only that, but you will be less mindful of your surroundings. It is not a pleasant experience.
+The more you exhaust yourself, the more you will cause careless mistakes to happen… Not only that, but you will be less mindful of your surroundings. It is not a pleasant experience.
 
-Hasumi-dono is occasionally reduced to such a state from overexhaustion, so I am well aware of this fact.
+Hasumi-dono is occasionally reduced to such a state from over-exhaustion, so I am well aware of this fact.
 
 Pushing yourself to work even harder when you are in that state only worsens your health, as well as your work productivity.
 {% endbubble %}
@@ -336,7 +336,7 @@ It’s easy to forget this when we’re all living in this peaceful country, but
 
 Don’t die on us… Okay? You’re very important to everyone, Anzu-chan.
 
-…… Ahaha, this isn’t the moment to talk so seriously… I mean, you’re wearing a T-shirt with dumb-looking octopuses and squids on it~♪
+……Ahaha, this isn’t the moment to talk so seriously… I mean, you’re wearing a T-shirt with dumb-looking octopuses and squids on it~♪
 
 I know you had to change your clothes after getting drenched, but out of all the shirts in the shop, why did you choose that one? There were plenty of other ones, weren’t there?
 
@@ -362,7 +362,7 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s ador
 
 (You know, I really do want good people to always be smiling.)
 
-(… Mom, I'll be a good kid too, so could I also smile and laugh more?)
+(…Mom, I'll be a good kid too, so could I also smile and laugh more?)
 {% endbubble %}
 
 ## Chapter 3
@@ -638,6 +638,7 @@ Because I am not a God, but now the same human being as everyone else.
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /aquarium/hanging_out_together,, arrow-left, Previous Chapter: Hanging Out Together %}
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/epilogue,, arrow-right, Next Chapter: Epilogue %}
