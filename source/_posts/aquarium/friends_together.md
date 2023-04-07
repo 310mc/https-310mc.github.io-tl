@@ -498,7 +498,7 @@ Yet all this time you were over here, just acting all weird like it's completely
 {% bubble Kanata v2 %}
 now, now… please calm down, kaoru.
 
-it is not like you. you are usually much more calm, drifting through the waves… you are a surfer, after all… ♪
+it is not like you. you are usually much more calm, drifting through the waves… you are a surfer, after all…♪
 
 if you start to panic, you will be consumed by the waves and drown~ fufu~♪
 

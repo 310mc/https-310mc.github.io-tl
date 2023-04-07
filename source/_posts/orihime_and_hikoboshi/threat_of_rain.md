@@ -53,7 +53,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    Shie, <a href="https://twitter.com/goldgust">Goldgust</a>
                 </div>
             </div>
         </div>

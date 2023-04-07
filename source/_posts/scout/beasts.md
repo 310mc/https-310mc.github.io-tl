@@ -1268,7 +1268,7 @@ No! Please let me apologize for everything! Please forgive me!
 {% endbubble %}
 
 {% bubble Arashi %}
-Wh— Don’t prostrate yourself! You’ll get your clothes dirty!
+Wh— Don’t kneel on the ground in this dirty alleyway! You’ll get your clothes dirty!
 {% endbubble %}
 
 {% bubble Tetora %}

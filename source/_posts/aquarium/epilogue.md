@@ -84,13 +84,13 @@ hidden: true
 
 “and now! to the people in the back seats\~! hello\~! ♪”
 
-“hehehe, did i startle all of you? i asked the talented mr. dolphin to spring both of us up high~♪”
+“fufufu, did i startle all of you? i asked the talented mr. dolphin to spring both of us up high~♪”
 
 “it may be hard for the people in the back seats to see the pool because of how far away the seats are…”
 
 “but i’ll spring up like this every once in a while to greet you all~♪”
 
-“ehehe, thank you for waving your hands! and now for the special fan service~ <em><th>(kiss)</th></em> ♪”
+“ufufu, thank you for waving your hands! and now for the special fan service~ <em><th>(kiss)</th></em> ♪”
 
 “yes, mr. dolphin just gave me a kiss! i’m so happy~♪”
 
@@ -284,7 +284,7 @@ that is right, and so are you, kaoru… so is souma, since we are all part of th
 {% bubble Souma %}
 Indeed. It feels cool and pleasant here.
 
-Not only did I have the honor of performing with people other than my *"yu-nit,"* but it was also very refreshing. That does not mean I have any dissatisfactions with Akatsuki, though.
+Not only did I have the honor of performing with people other than my *“yu-nit,”* but it was also very refreshing. That does not mean I have any dissatisfactions with Akatsuki, though.
 
 However, it is pleasant to perform side-by-side like this with my friends from the same club every once in awhile.
 {% endbubble %}

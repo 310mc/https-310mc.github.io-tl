@@ -580,11 +580,11 @@ Make sure to properly do your warm-ups so you don’t trip and hurt yourselves!
 {% endbubble %}
 
 {% bubble Hajime %}
-Okaaay, Nii-chan…♪
+Okaaay, Nii~chan…♪
 {% endbubble %}
 
 {% bubble Mitsuru %}
-You don’t even need to tell me that, Nii-chan! ♪ Yippee~! I’m gonna jump high up to the stars again!
+You don’t even need to tell me that, Nii~chan! ♪ Yippee~! I’m gonna jump high up to the stars again!
 {% endbubble %}
 
 {% bubble Tomoya %}

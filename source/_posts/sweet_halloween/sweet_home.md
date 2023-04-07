@@ -164,7 +164,7 @@ It’s really unusual for something prepared by Anzu to be like this… Did she 
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Nii-chan, Nii-chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
+Nii~chan, Nii~chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -208,7 +208,7 @@ Hm? Mine’s a brown bunny.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-So’s mine! But it’s kinda darker than Nii-chan’s…?
+So’s mine! But it’s kinda darker than Nii~chan’s…?
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -252,7 +252,7 @@ Hm… So what I’m getting from this is that Nito’s and… Mashiro-kun’s[^2
 {% endbubble %}
 
 {% bubble Tomoya %}
-Ah, that must be it. Let’s switch pants, Nii-chan.
+Ah, that must be it. Let’s switch pants, Nii~chan.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -260,7 +260,7 @@ O-Okay. Wait— Then why *are* Mitsuru-chin’s pants not long enough?
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Huh—? Ah— Uuu…? I bet I messed up and wore yours, too! A-Ahaha! So your legs were short all along, Nii-chan!
+Huh—? Ah— Uuu…? I bet I messed up and wore yours, too! A-Ahaha! So your legs were short all along, Nii~chan!
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -282,19 +282,19 @@ N-Nothing! All’s good!
 {% bubble Tomoya %}
 …? But wait, yours had a bunny with your hair color.
 
-So it can’t be Nii-chan’s. Isn’t it actually yours?
+So it can’t be Nii~chan’s. Isn’t it actually yours?
 {% endbubble %}
 
 {% bubble Mitsuru %}
 H-huh? No, well…
 
-You mistook it as my color, but it’s actually Nii-chan’s!
+You mistook it as my color, but it’s actually Nii~chan’s!
 
 It’s a sparkly golden color! Just like an angel! Just like the sunlight!
 {% endbubble %}
 
 {% bubble Hajime %}
-Ahh, so basically you’re wearing Nii-chan’s spare, right?
+Ahh, so basically you’re wearing Nii~chan’s spare, right?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -376,7 +376,7 @@ But it’s all good! Anyway, we really aren’t gonna get anywhere if we keep ta
 {% endbubble %}
 
 {% bubble Hajime %}
-Of course, Nii-chan… ♪
+Of course, Nii~chan…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -730,7 +730,7 @@ Tell me if you need a mediator, or any kind of help in general.
 {% endbubble %}
 
 {% bubble Hajime %}
-Okay. Thank you very much, Nii-chan.
+Okay. Thank you very much, Nii~chan.
 
 I’ll be going now. I’ll come back to help with the cooking as soon as I can, along with Tomoya-kun…♪
 {% endbubble %}
@@ -746,7 +746,7 @@ I’ll be going now. I’ll come back to help with the cooking as soon as I can,
 {% bubble Hajime %}
 <th>(O-Okay, I’m going to do this… I have to properly make up with Tomoya-kun.)</th>
 
-<th>(We’re making Nii-chan and Mitsuru-kun worry… and we have to get through a big event like Halloween Party with all three units…)</th>
+<th>(We’re making Nii~chan and Mitsuru-kun worry… and we have to get through a big event like Halloween Party with all three units…)</th>
 
 <th>(So we can’t keep acting awkward around each other like this… It’d be awful of us to cause trouble for everyone.)</th>
 
@@ -968,11 +968,11 @@ Those are the principles female idols have set for this industry.
 
 We can follow in his footsteps and copy what he does, and it’ll take us relatively far.
 
-We're still inexperienced, and our one big selling point is the "cute" quality we have… so making use of it is the right choice.
+We're still inexperienced, and our one big selling point is the “cute” quality we have… so making use of it is the right choice.
 
-It’s the path Nii-chan showed us, when none of us could get anywhere.
+It’s the path Nii~chan showed us, when none of us could get anywhere.
 
-On one hand, you have me, and then you have Mitsuru, who’s boyish-looking… But then, Nii-chan and Hajime tend to be even cuter than girls sometimes. They have the qualities and talent for this.
+On one hand, you have me, and then you have Mitsuru, who’s boyish-looking… But then, Nii~chan and Hajime tend to be even cuter than girls sometimes. They have the qualities and talent for this.
 
 But… what about me?
 
@@ -1248,7 +1248,7 @@ Why, Kanata went off to feed the fish in the fish tanks instead of hanging out w
 {% endbubble %}
 
 {% bubble Hajime %}
-Wawa— Morisawa-senpai, shhh~♪ I think Nii-chan is asleep, so please keep your voice down.
+Wawa— Morisawa-senpai, shhh~♪ I think Nii~chan is asleep, so please keep your voice down.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1586,7 +1586,7 @@ Hm, Mitsuru-kun and Mikejima-senpai said they have a daily routine of running in
 
 Morisawa-senpai, Tetora-kun, and some other people joined them, as well.
 
-Nii-chan is making breakfast. I was helping him out with that, but you still hadn’t woken up, so I came over to see how you were doing.
+Nii~chan is making breakfast. I was helping him out with that, but you still hadn’t woken up, so I came over to see how you were doing.
 
 Ehehe. I didn’t expect you to be such a sleepyhead, Tomoya-kun.
 

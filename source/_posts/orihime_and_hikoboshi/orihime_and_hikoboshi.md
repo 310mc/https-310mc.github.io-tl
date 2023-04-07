@@ -82,7 +82,7 @@ permalink: orihime_and_hikoboshi/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            Shie, <a href="https://twitter.com/goldgust">Goldgust</a>
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@ permalink: orihime_and_hikoboshi/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            Shie, <a href="https://twitter.com/goldgust">Goldgust</a>
                         </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@ permalink: orihime_and_hikoboshi/
                                 Event Duration
                             </div>
                             <div class="value">
-                                2021/5/31 (15:00 JST) - 2021/6/8 (22:00 JST)
+                                2018/7/10 (15:00 JST) - 2018/7/25 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -228,6 +228,22 @@ permalink: orihime_and_hikoboshi/
                             <div class="gallery-item">
                                 <div class="image">
                                     <img src="/img/es/eventstory/orihimeandhikoboshi/midoriorigcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    TBA
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    TBA
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA

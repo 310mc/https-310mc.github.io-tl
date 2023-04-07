@@ -112,7 +112,7 @@ I’m interested! Who’s it with? Tell Mama your secret ☆
 
 Ah! Hey, wait! Don’t just dash away!
 
-But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of age, I see… ♪ Time flies by so fast!
+But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of age, I see…♪ Time flies by so fast!
 
 <th>(Hahaha. She covered her ears and ran away immediately…)</th>
 
@@ -344,7 +344,7 @@ Alright, alright. Ahh man… This doesn't feel like a date, it's more like spend
 {% bubble Kaoru %}
 Right then. We wasted way too much time, but we're finally here.
 
-Hehe. Of course, finding Kanata-kun is our number one priority, but we should still have some fun like it’s a date~♪
+Heheh. Of course, finding Kanata-kun is our number one priority, but we should still have some fun like it’s a date~♪
 
 Sooo, is it fine if Souma-kun runs off to do something by himself?
 {% endbubble %}
@@ -362,7 +362,7 @@ Just what kind of person do you think I am? I don't like to be forceful. If I ev
 {% endbubble %}
 
 {% bubble Souma %}
-The fact that you think "if I ever plan to do something" is already a sin itself. In fact, you being *born* must be some kind of mistake.
+The fact that you think “if I ever plan to do something” is already a sin itself. In fact, you being *born* must be some kind of mistake.
 {% endbubble %}
 
 {% bubble Kaoru %}

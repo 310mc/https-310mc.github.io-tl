@@ -81,7 +81,7 @@ leaving behind all these things that cannot decompose, like plastics, vinyls, bo
 
 this is abuse, *domestic* abuse.
 
-you could not ignore that, so you are picking up the litter, right? that is wonderful. good girl, gooood girl… ♪
+you could not ignore that, so you are picking up the litter, right? that is wonderful. good girl, gooood girl…♪
 
 oooh. so you will just look at how bad it is for now, and if it looks extremely bad then you will take up a school part-time job related to picking up litter.
 
@@ -97,7 +97,7 @@ right now, i am not very reliable to the ocean…
 
 but at the very least, i will help you out by carrying the garbage bag for you, anzu-san. i will help out as much as i can~
 
-hehe, leave it to me. i may not look it, but i have quite the strength~♪
+fufu, leave it to me. i may not look it, but i have quite the strength~♪
 {% endbubble %}
 
 <div class="msr-location">
@@ -113,7 +113,7 @@ it is dangerous for a girl to walk alone, after all. you may get attacked by a m
 
 but do not worry, it will be okay. i will protect you, no matter what happens.
 
-hehehe, i sounded just a little like a hero… ♪
+fufufu, i sounded just a little like a hero…♪
 
 huh? you have never heard of a hero who walks around drenched wet, looking all suspicious?
 
@@ -133,7 +133,7 @@ and if they are able to ascertain their sense of justice even further…
 
 then those aberration would have had value in existing as well.
 
-… wah! anzu-san, you are rubbing me with a towel without even listening to what i was saying, aren't you?
+…wah! anzu-san, you are rubbing me with a towel without even listening to what i was saying, aren't you?
 
 it is a little too rough~ please do it a little softer, like how a mother would.
 

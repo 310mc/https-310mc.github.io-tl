@@ -178,7 +178,7 @@ No no, this is the result of everyone working hard to give them value! They made
 {% endbubble %}
 
 {% bubble Souma %}
-Hehe, they speak like they know things so well… However, it is indeed the truth. What strange children.
+Fufu, they speak like they know things so well… However, it is indeed the truth. What strange children.
 
 Now then… Anzu-dono, I am sure it is irritating of me to apologise over and over again, but allow me to say it one last time.
 
@@ -376,7 +376,7 @@ kaoru, you surprisingly have your head on your shoulders.
 {% bubble Kaoru %}
 I hate to say this, but I'm not a genius like you are, so I have to be mindful of a lot of things, Kanata-kun.
 
-That’s what you call "swimming the current of life". It’s something everyone has to work hard to do, so you should take note of it.
+That’s what you call “swimming the current of life”. It’s something everyone has to work hard to do, so you should take note of it.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -626,7 +626,7 @@ HeHe~♪ This is all thanks to everything Shisho and Senpai have taught Sora!
 {% endbubble %}
 
 {% bubble Rei %}
-Hehe. But how odd… Did you not come here with Yuta-kun today, Hinata-kun?
+Fufu. But how odd… Did you not come here with Yuta-kun today, Hinata-kun?
 {% endbubble %}
 
 {% bubble Hinata %}
