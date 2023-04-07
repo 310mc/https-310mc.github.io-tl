@@ -2,6 +2,7 @@
 title: "[ES!!] Dokisuta Ryuseitai"
 date: 2023-4-5 9:00:00
 categories:
+- [Enstars, ES!]
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 tags:

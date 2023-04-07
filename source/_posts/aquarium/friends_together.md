@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – Inviting Friends Together"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:02:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, Sora]
@@ -244,11 +244,11 @@ Wha-Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
 ## Chapter 2
 
 {% bubble Sora %}
-(Gosh, Hina-chan… You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)
+<th>(Gosh, Hina-chan… You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)</th>
 
-(Accurately using magic and leading someone just a little closer to a happier direction… That's easier said than done. It's still tricky for Sora.)
+<th>(Accurately using magic and leading someone just a little closer to a happier direction… That's easier said than done. It's still tricky for Sora.)</th>
 
-(… Even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)
+<th>(… Even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)</th>
 
 Look, Hina-chan, look! There’s a big thing moving around in that water tank~!
 {% endbubble %}
@@ -349,7 +349,7 @@ Hm… There is no need to say your names, I know who you are. I am pretty good a
 Also, there is no need to be frightened. Even I am aware that brandishing my katana here would only cause unnecessary havoc. So I do not have my katana with me today.
 {% endbubble %}
 
-{% img (Bonds Born From the Sea) Souma Kanzaki CG.png %}
+{% img /img/es/eventstory/aquarium/soumaorigcg.jpg %}
 
 {% bubble Souma %}
 I feel uneasy without my katana, but… It is an unavoidable matter.
@@ -420,58 +420,58 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 ## Chapter 3
 
 {% bubble Kaoru %}
-(Hrnn… What do I do now…? I lost complete sight of Anzu-chan…)
+<th>(Hrnn… What do I do now…? I lost complete sight of Anzu-chan…)</th>
 
-(I got so distracted while trying to catch up with her that I didn’t even notice that Souma-kun isn’t here anymore. Jeez, what am I *doing?*)
+<th>(I got so distracted while trying to catch up with her that I didn’t even notice that Souma-kun isn’t here anymore. Jeez, what am I *doing?*)</th>
 
-(This isn’t like me. The most unbelievable thing that shouldn’t ever happen in your long-awaited date with someone is to somehow manage to lose sight of them midway into it… and now guess what happened…)
+<th>(This isn’t like me. The most unbelievable thing that shouldn’t ever happen in your long-awaited date with someone is to somehow manage to lose sight of them midway into it… and now guess what happened…)</th>
 
-(I’ve been really weird lately… I’m meant to be much more tactful than this.)
+<th>(I’ve been really weird lately… I’m meant to be much more tactful than this.)</th>
 
-(Eh, whining won’t get me anywhere. I gotta work with what I have right now.)
+<th>(Eh, whining won’t get me anywhere. I gotta work with what I have right now.)</th>
 
-(Souma-kun doesn’t have a phone right now, and Anzu-chan wouldn’t ever tell me her phone number…)
+<th>(Souma-kun doesn’t have a phone right now, and Anzu-chan wouldn’t ever tell me her phone number…)</th>
 
-(Should I just search for them normally? Or maybe my only choice is to broadcast for a lost child…)
+<th>(Should I just search for them normally? Or maybe my only choice is to broadcast for a lost child…)</th>
 
-(Souma-kun will probably get angry at me and say *“How dare you embarrass me like that!”* if I did that, but… Yeah, let’s call for a lost child.)
+<th>(Souma-kun will probably get angry at me and say *“How dare you embarrass me like that!”* if I did that, but… Yeah, let’s call for a lost child.)</th>
 
-(It’s times like these that things are easy for me, since I’m already hated by them anyway. It’s not like they can hate me any more than they already do, after all…)
+<th>(It’s times like these that things are easy for me, since I’m already hated by them anyway. It’s not like they can hate me any more than they already do, after all…)</th>
 
-(Well, being treated with hostility twenty-four-seven can be tiring too, though.)
+<th>(Well, being treated with hostility twenty-four-seven can be tiring too, though.)</th>
 
-(I’d prefer to be treated more warmly by default instead.)
+<th>(I’d prefer to be treated more warmly by default instead.)</th>
 
-(I really am trying to be considerate. I’m putting a lot of effort into trying to keep them in a good mood by chit-chatting and cracking jokes.)
+<th>(I really am trying to be considerate. I’m putting a lot of effort into trying to keep them in a good mood by chit-chatting and cracking jokes.)</th>
 
-(So why do both Souma-kun and Anzu-chan hate me so much…?)
+<th>(So why do both Souma-kun and Anzu-chan hate me so much…?)</th>
 
-(I really *did* make a bad first impression on them, huh. But I really have learned from my mistakes, and I’m trying to be better than that now.)
+<th>(I really *did* make a bad first impression on them, huh. But I really have learned from my mistakes, and I’m trying to be better than that now.)</th>
 
-(But I guess I was too hasty with that. I thought things would be okay between me and Anzu-chan now, but I only ended up going over the line by talking about the wrong things with her…)
+<th>(But I guess I was too hasty with that. I thought things would be okay between me and Anzu-chan now, but I only ended up going over the line by talking about the wrong things with her…)</th>
 
-(And now I'm back to square one.)
+<th>(And now I'm back to square one.)</th>
 
-(But… There isn't even half a year left until graduation. It makes sense that I feel like I need to hurry.)
+<th>(But… There isn't even half a year left until graduation. It makes sense that I feel like I need to hurry.)</th>
 
-(The two of us have always lived in completely different worlds, so I feel like once I graduate, our ties will end right there.)
+<th>(The two of us have always lived in completely different worlds, so I feel like once I graduate, our ties will end right there.)</th>
 
-(That's why I don’t want to say goodbye with only awful memories between us.)
+<th>(That's why I don’t want to say goodbye with only awful memories between us.)</th>
 
-(*Sigh…*… Well, whatever. For now I should figure out the place to go to for a lost child. Hrrmmm, I think there's a guide near that water tank over there?)
+<th>(*Sigh…*… Well, whatever. For now I should figure out the place to go to for a lost child. Hrrmmm, I think there's a guide near that water tank over there?)</th>
 
-(Huh, weird, there's a huge crowd over here… I wonder if there are unusual fish in it? Like, something the aquarium has to attract attention.)
+<th>(Huh, weird, there's a huge crowd over here… I wonder if there are unusual fish in it? Like, something the aquarium has to attract attention.)</th>
 
-(I should try to group up with Anzu-chan and Souma-kun again as soon as possible, but just glancing over might be okay…)
+<th>(I should try to group up with Anzu-chan and Souma-kun again as soon as possible, but just glancing over might be okay…)</th>
 
-(I mean, it's pretty neat how aquariums have all kinds of stuff you wouldn’t be able to find, even if you went for a dive in the ocean.)
+<th>(I mean, it's pretty neat how aquariums have all kinds of stuff you wouldn’t be able to find, even if you went for a dive in the ocean.)</th>
 
-(Let's see… What kind of fish i— Wait, huuuh!?)
+<th>(Let's see… What kind of fish i— Wait, huuuh!?)</th>
 {% endbubble %}
 
-{% img (Aquarium ♪) Kanata Shinkai CG.png %}
+{% img /img/es/eventstory/aquarium/kanataorigcg.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 *Puka, puka… ♪*
 
 Ohhh? Kaoru! ufufu, what a coincidence~♪
@@ -483,7 +483,7 @@ Um, no, no! What are you doing, Kanata-kun!? You're inside the water tank, you k
 I second-guessed myself about this before, but were you actually a sea creature and not a human all along!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufufu, I am human, more or less. I am no longer a sea creature, so that is why I cannot swim.
 
 I sacrificed something important to me so as to live on the land… It is just like the Little Mermaid~ Puka, puka~♪
@@ -495,7 +495,7 @@ Okay yeah, you do look like a “Little Mermaid” resting on top of a rock righ
 Yet all this time you were over here, just acting all weird like it's completely normal!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Now, now… Please calm down, Kaoru.
 
 It is not like you. You are usually much more calm, drifting through the waves… You are a surfer, after all… ♪
@@ -509,17 +509,17 @@ Do not make a ruckus~ Okay, Kaoru? Or you will scare the fish~
 Guuuh… Okay, wait a sec. I'll take a deep breath, and go back to my usual self.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Okay. A confused Kaoru is also cute… But the usual Kaoru is more charming~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Yeah, uh, be quiet for a sec. <em>(Breathe in, breathe out)</em>…… Alright, I'm good to go.
+Yeah, uh, be quiet for a sec. <em><th>(Breathe in, breathe out)</th></em>…… Alright, I'm good to go.
 
 Hey, Kanata-kun.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes. What is it, Kaoru?
 {% endbubble %}
 
@@ -527,7 +527,7 @@ Yes. What is it, Kaoru?
 …Sorry, before we sit down and chat, could you come out from there? It's getting pretty embarrassing to be here, what with all the attention on us.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 I see. Your voice is far away from me, so it does feel a bit lonely.
 
 But, I am sorry. This is my punishment… So I cannot leave this place.
@@ -541,7 +541,7 @@ Punishment…? Just what did you do? You're a troublesome one.
 I haven't heard much of what happened, but apparently it's some problem related to your home, right?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes. I kind of ended up going against my household… But I really did not think it would become this much of a problem.
 
 Now I am truly in trouble. But their side of the story is also correct, so right now we are talking it out and finding a common ground between us.
@@ -658,13 +658,13 @@ I want you to pursue your own kind of justice. I'm sure that you, who loves hero
 
 Mhm. Bye byeee~ I’ll call you again.
 
-(… Alright then. First off, time to go find the managers of the aquarium.)
+<th>(… Alright then. First off, time to go find the managers of the aquarium.)</th>
 
-(I’ll ask about what’s going on, and if it starts sounding like the worst case scenario, I’ll make them do things my way even if I have to threaten them.)
+<th>(I’ll ask about what’s going on, and if it starts sounding like the worst case scenario, I’ll make them do things my way even if I have to threaten them.)</th>
 
-(In this country—In this time period—Gods barely have any real power, so this should be effective.)
+<th>(In this country—In this time period—Gods barely have any real power, so this should be effective.)</th>
 
-(This is the only way I know how to do things… That’s why I fail as a hero.)
+<th>(This is the only way I know how to do things… That’s why I fail as a hero.)</th>
 {% endbubble %}
 
 ## Chapter 5

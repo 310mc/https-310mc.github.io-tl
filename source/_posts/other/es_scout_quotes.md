@@ -5,12 +5,13 @@ categories:
 - [Enstars, ES!]
 tags:
 description: "[ES!] Ensemble Stars (Enstars) Translation of the quotes that appear when you scout a 5* of the character."
-hidden: true
 permalink: es_scout_quotes/
 ---
-Translation of the quotes that appear when you scout a 5* of the character.
+
+Translation of the quotes that appear when you scout a 5* of the character in the Ensemble Stars! (Basic) gacha.
 
 <!-- more -->
+
 **Chiaki:** We are shooting stars. Let’s fight to make wishes come true!
 
 俺たちは、流れ星。願いを叶えるために戦おう！

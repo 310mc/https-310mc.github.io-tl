@@ -13,7 +13,6 @@ tags:
 - Story Index
 description: "[ES!!] Midori hears the voice of someone in trouble, and finds Mika struggling to look for Daikichi. They chase after him into the storehouse, only to get locked inside…"
 permalink: dollhouse/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

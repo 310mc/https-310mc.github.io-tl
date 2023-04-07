@@ -84,7 +84,7 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
 
 <th>(I’m really looking forward to seeing how it will turn out!)</th>
 
-Ah, it’s Anzu-dono! Heeey, Anzu-dono~☆ I’m over here~
+Ah, it’s Anzu-dono! Heeey, Anzu-dono\~☆ I’m over here\~
 
 Come, come, sit next to me! …Oh, no, I also just got here.
 

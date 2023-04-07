@@ -65,7 +65,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         </div>
         <a href="/beasts" class="storyName" target="_blank">
             <span>Beasts</span>
-            <span class="read soon"></span>
+            <span class="read"></span>
         </a>
     </div>
     <!--<div class="story">

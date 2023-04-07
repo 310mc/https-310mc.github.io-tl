@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – What Dream Shall We Be Seeing Together"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:04:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, Sora]
@@ -77,7 +77,7 @@ hidden: true
 **Content Warning:** Sexual harrassment within.
 {% endnote %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ♪\~♪\~♪
 {% endbubble %}
 
@@ -95,7 +95,7 @@ Although since this was an unplanned live, perhaps they do not have outfits prep
 It should still be alright to chat with him if we keep it short. I want to greet him at least, although I am somewhat disinclined to walk on slippery floors.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Rei, Wataru… What are you doing here? You two being together is very unusual~
 {% endbubble %}
 
@@ -103,7 +103,7 @@ Rei, Wataru… What are you doing here? You two being together is very unusual~
 No, no, you should not be asking that. Is it not obvious that I dragged my old bones all the way here out of worry for you?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Oh, I see… I really do need to reflect on the trouble I have caused.
 {% endbubble %}
 
@@ -185,7 +185,7 @@ Hasumi-dono is occasionally reduced to such a state from over-exhaustion, so I a
 Pushing yourself to work even harder when you are in that state only worsens your health, as well as your work productivity.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes… So how about we all go around the aquarium together once this live show is over?
 
 Let’s forget about work and take a nice breather…
@@ -257,7 +257,7 @@ Gotcha. Alright, let’s get going, Anzu-chan! Let’s hold hands as we walk the
 Shall I accompany them just in case?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Souma, you should practice a little more for the live show.
 
 You are very good at singing and dancing, but this show will have a dolphin performance in it, so you have to get along with the dolphins.
@@ -277,7 +277,7 @@ Oohh. This is the first time I have seen *“dol-fins”* up close. I did not ex
 But it feels like their eyes have a gentle feel to them… It is vaguely similar to Buchou-dono’s.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Oh, really? Well, I do suppose you would not be used to seeing them, since we cannot keep any in our water tanks.
 
 That is exactly why we need this aquarium.
@@ -285,11 +285,11 @@ That is exactly why we need this aquarium.
 I want to protect it. This time… I will definitely protect what is important to me. I really am just talking about this case.
 {% endbubble %}
 
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
+</div>
 
-{% img (The Sea and You) Kaoru Hakaze CG.png %}
+{% img /img/es/eventstory/aquarium/kaoruorigcg.jpg %}
 
 {% bubble Kaoru %}
 Look, Anzu-chan! Look over there! There’s an interesting display of fish over there~♪
@@ -356,13 +356,13 @@ Ah—wait wait, come back!
 
 Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s adorable, Anzu-chan~♪
 
-(Ahaha. Good, good… I think she cheered up a little. It really doesn’t suit her to be upset~)
+<th>(Ahaha. Good, good… I think she cheered up a little. It really doesn’t suit her to be upset~)</th>
 
-(She’s probably been really busy lately and making mistakes as she gets more and more tired. I’m guessing that’s what ended up making her cry…)
+<th>(She’s probably been really busy lately and making mistakes as she gets more and more tired. I’m guessing that’s what ended up making her cry…)</th>
 
-(You know, I really do want good people to always be smiling.)
+<th>(You know, I really do want good people to always be smiling.)</th>
 
-(…Mom, I'll be a good kid too, so could I also smile and laugh more?)
+<th>(…Mom, I'll be a good kid too, so could I also smile and laugh more?)</th>
 {% endbubble %}
 
 ## Chapter 3
@@ -375,7 +375,7 @@ I’m baaack~♪ The live show hasn’t started yet, right?
 You are late! I almost thought you had escaped! Just where were you, and what were you doing!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Now, now, Souma… Welcome back, Kaoru. It looks like you came back wearing the costume, yes?
 {% endbubble %}
 
@@ -387,7 +387,7 @@ Anyway, I’d look like an idiot if I were the only one wearing casual clothes w
 But this show came out of nowhere, so weren’t we just talking about how we probably won’t get any special costumes for it?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 That is right. But Wataru was able to provide some for us.
 
 It seems that he was able to spot an association from a nearby theater doing a public performance at the perfect time.
@@ -423,7 +423,7 @@ Cease at once! It would be a great deal of pain if it were to come into my eyes!
 Ahaha, Mikejima-kun got himself on Souma-kun’s good side before we knew it.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hehe, it looks like he has taken a huge liking to Souma ever since Wisteria Festival long ago…
 
 Souma often complains about how he would come and pester him over every little thing.
@@ -435,7 +435,7 @@ And since Souma is a good boy, he cannot be cold-hearted to someone who treats h
 Haha, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the weird kids.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 It is because that rogue has always liked old-fashioned things, and Souma excites him for that reason.
 {% endbubble %}
 
@@ -443,7 +443,7 @@ It is because that rogue has always liked old-fashioned things, and Souma excite
 He’s a samurai of the old ages, so it makes sense~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two that close?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hm… His father is a high-ranking police officer, you see. So his father would often come to my house for inspection.
 
 Sooo… I would see him often as well. It has been like that since long ago.
@@ -479,7 +479,7 @@ I do want to work things out with my own power, though… It’d be pathetic to 
 But Kanata-san’s household is an unusual case, so I used every card in my hand.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Is it really that unusual…? I *did* understand the fact that I am different from others.
 
 But to me, this was always the norm.
@@ -499,7 +499,7 @@ And that is when my household decided to let go of this aquarium they own.
 So your household owns this aquarium, huh? I never knew that~ I’ve always just gone to it because it’s nearby.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hehe, long ago, I had seen someone who looked a lot like you, Kaoru.
 
 You would walk around in the aquarium holding hands with a very pretty woman, yes?
@@ -517,7 +517,7 @@ So this place holds a looot of important memories to me. If it goes bankrupt bec
 Hm, it is going to go bankrupt? What a shame. Even though it seems to be prospering so well right now.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Ah, no. It seems like it will be bought by some company. But that company does not have a very good reputation.
 
 So I became anxious about whether the fish would be taken care of properly or not…
@@ -541,7 +541,7 @@ Like buying the tickets with my own money, and handing them out to people.
 Ahh, I finally understand the reason behind those strange things you were doing, Buchou-dono. However, is it not futile to try and do it with only your power?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 You are right. My household also sympathized with how I feel…
 
 And we made it an objective to work hard, and not let go of the aquarium.
@@ -551,7 +551,7 @@ And we made it an objective to work hard, and not let go of the aquarium.
 They’re softer on you than one would expect. Throwing a tantrum usually doesn’t get things through, you know?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes, it is because I am a very, very important living God. People would yield to me in most cases.
 
 Well, it is also thanks to the pressure you put on them, though. In this time period, the God’s position is weak.
@@ -565,7 +565,7 @@ Hm… I do think I was a bit rash, but your wish was for this aquarium to stay a
 Then I want to support that with all I’ve got, as your friend.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 You went too far with that “support,” mama.
 
 It is the God’s duty to heal and protect everybody. He cannot cause trouble to them like this.
@@ -583,7 +583,7 @@ That just shows how dearly everyone thinks of you, Kanata-san.
 Not because you’re a God… It’s because you’re *you* that everyone wanted to help you.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Huh… This is all strange to me… I have never even gotten involved with anyone in my life before…
 {% endbubble %}
 
@@ -595,7 +595,7 @@ All that I ask is that you consult me about it much sooner. You are being a litt
 It takes a lot of energy to undo a problem after it has already gotten so complicated.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 I am so sorry, Souma. I am sorry to you too, Kaoru, and to everyone else…
 
 I have never been selfish before, until now. So I am not really good at it.
@@ -607,7 +607,7 @@ Yeah, the way you were acting for this case is like a spoiled kid whining and de
 Ahaha, it’s pretty much just like a baby going against their parents for the first time.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes… But this is a strange feeling. I had always restrained myself up until this point. It is almost always peaceful so long as I restrain myself.
 
 But in Yumenosaki, everyone is trying to make their own dreams come true with everything they have.

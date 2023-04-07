@@ -62,11 +62,11 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="image">
         <img
             src="/img/es/es2mainstory/firstmainstorybanner.jpg"
-            alt="First Main Story (Chapter 123-124)"
+            alt="1st Main Story"
         />
     </div>
     <a href="/es2_mainstory/ch123_124" class="storyName" target="_blank">
-        <span>First Main Story (Chapter 123-124)</span>
+        <span>1st Main Story</span>
         <span class="read"></span>
     </a>
 </div>
@@ -297,7 +297,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             />
         </div>
         <a href="/beasts" class="storyName" target="_blank">
-            <span>Beasts (In Progress!)</span>
+            <span>Beasts</span>
             <span class="read"></span>
         </a>
     </div>
@@ -348,7 +348,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Dollhouse"
             />
         </div>
-        <a href="https://euni2319.wordpress.com/2020/08/24/dollhouse-chapter-masterlist/" class="storyName" target="_blank">
+        <a href="/dollhouse" class="storyName" target="_blank">
             <span>Dollhouse</span>
             <span class="read"></span>
         </a>
@@ -816,6 +816,9 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 </div>
 
 ## Other
+
+<h4>Ensemble Stars! Era</h4>
+
 <div class="stories">
     <div class="story">
         <div class="image">
@@ -824,7 +827,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Ryuseitai Album Messages"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/21314.html" class="storyName" target="_blank">
+        <a href="/ryuseitai_album" class="storyName" target="_blank">
             <span>Ryuseitai Album Messages</span>
             <span class="read"></span>
         </a>
@@ -838,6 +841,23 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         </div>
         <a href="/es_scout_quotes" class="storyName" target="_blank">
             <span>ES! Era 5* Scout Quotes</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<h4>Ensemble Stars!! Era</h4>
+
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/songs/ryuseitaialbum_300px.jpg"
+                alt="Dokisuta Ryuseitai"
+            />
+        </div>
+        <a href="/dokisuta_ryuseitai" class="storyName" target="_blank">
+            <span>Dokisuta Ryuseitai</span>
             <span class="read"></span>
         </a>
     </div>

@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – Going to the Aquarium Together"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:01:00
 categories:
 - [Enstars, Madara]
 - [Enstars, Rei]
@@ -70,15 +70,15 @@ Hmhmhmm~♪
 
 *Blue skies and a clear sun!* The morning feels great! I feel the energy just gushing right out of me! It’s making me wanna run around all over!
 
-(Other than that one specific thing, I don’t have any urgent work to do, so maybe I’ll go to the track field club to use up some energy on practice.)
+<th>(Other than that one specific thing, I don’t have any urgent work to do, so maybe I’ll go to the track field club to use up some energy on practice.)</th>
 
-(*Is* there practice for the club today?)
+<th>(*Is* there practice for the club today?)</th>
 
-(Maybe I can check from the window…? Hmm… I’ve been hearing music for a while now, so does that mean people have been participating in a DreamFes on their holiday?)
+<th>(Maybe I can check from the window…? Hmm… I’ve been hearing music for a while now, so does that mean people have been participating in a DreamFes on their holiday?)</th>
 
-(Everyone’s motivated! That’s good, that’s great! But there’s a stage installed on the grounds, so I’d be in their way if I tried to run through, huh?)
+<th>(Everyone’s motivated! That’s good, that’s great! But there’s a stage installed on the grounds, so I’d be in their way if I tried to run through, huh?)</th>
 
-(Hmm, what to do…)
+<th>(Hmm, what to do…)</th>
 
 …Hm? Hiii—Hahaha!! ☆ Heeey, who's the naughty kid poking Mama’s sides!?
 
@@ -114,21 +114,21 @@ Ah! Hey, wait! Don’t just dash away!
 
 But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of age, I see… ♪ Time flies by so fast!
 
-(Hahaha. She covered her ears and ran away immediately…)
+<th>(Hahaha. She covered her ears and ran away immediately…)</th>
 
-(She’s always been pretty shy… Well, it’s more like she really can’t handle this kind of thing.)
+<th>(She’s always been pretty shy… Well, it’s more like she really can’t handle this kind of thing.)</th>
 
-(I think Anzu-san has a complicated family or something… Maybe they have a narrow view about it so she feels like it’s something to be avoided.)
+<th>(I think Anzu-san has a complicated family or something… Maybe they have a narrow view about it so she feels like it’s something to be avoided.)</th>
 
-(But I’d be glad for her if she could fall in love with someone great and kind, who could help her overcome those complex feelings regarding love.)
+<th>(But I’d be glad for her if she could fall in love with someone great and kind, who could help her overcome those complex feelings regarding love.)</th>
 
-(Everyone treats her as sacred, but I guess it’s more like both her and the other side are holding back from each other.)
+<th>(Everyone treats her as sacred, but I guess it’s more like both her and the other side are holding back from each other.)</th>
 
-(I wonder if there’s someone out there who wouldn’t put her on a pedestal like that…)
+<th>(I wonder if there’s someone out there who wouldn’t put her on a pedestal like that…)</th>
 
-(I wouldn’t mind being that someone, but I think she hates me or something. She’s always avoiding me.)
+<th>(I wouldn’t mind being that someone, but I think she hates me or something. She’s always avoiding me.)</th>
 
-(Hahaha! Life just doesn’t go the way you want it! That’s why it’s so interesting!)
+<th>(Hahaha! Life just doesn’t go the way you want it! That’s why it’s so interesting!)</th>
 {% endbubble %}
 
 <div class="msr-location">
@@ -235,7 +235,7 @@ Okay, if you get confused just call out to us~ Bye bye~♪
 Eek!? A shuriken thingie just flew this way!!
 {% endbubble %}
 
-{% bubble Souma unknown %}
+{% bubble Souma hidden %}
 …I may not be able to see you, but I can sense your presence. You best not do anything tactless.
 {% endbubble %}
 

@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – Prologue"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:00:00
 categories:
 - [Enstars, Kanata]
 tags:
@@ -54,7 +54,7 @@ hidden: true
     <p><span><b>Location:</b> Beach</span></p>
 </div>
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 *puka, puka~*
 
 …ohh? hello, anzu-san~♪
@@ -104,7 +104,7 @@ hehe, leave it to me. i may not look it, but i have quite the strength~♪
     <p><span><b>Location:</b> ADD</span></p>
 </div>
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 whew… in the end, we got really into it, and ended up picking up all the litter.
 
 it is completely dark now… anzu-san, where do you live? i will take you back home.
@@ -153,7 +153,7 @@ i guess i will always be a mysterious aberration, won't i?
 
 …………
 
-…ah, that’s right! please wait a moment. *(rustle, rustle)*
+…ah, that’s right! please wait a moment. <em><th>(rustle, rustle)</th></em>
 
 anzu-san, this is for you.
 

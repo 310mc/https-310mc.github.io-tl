@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Aquarium"
-date: 2021-10-29 9:10:00
+date: 2023-4-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, MaM]
@@ -9,7 +9,7 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 hidden: true
 permalink: aquarium/
 ---
@@ -24,7 +24,7 @@ permalink: aquarium/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to then encounter Souma at the meeting spot. In the end, they all go together to the aquarium.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -56,12 +56,12 @@ permalink: aquarium/
                             Characters
                         </div>
                         <div class="value">
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
                         <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                         <a href="/categories/Enstars/Sora" character="Sora"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
-                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Madara" character="Madara"></a>
                         <a href="/categories/Enstars/Rei" character="Rei"></a>
                         <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                         </div>
@@ -116,7 +116,7 @@ permalink: aquarium/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to then encounter Souma at the meeting spot. In the end, they all go together to the aquarium.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -148,12 +148,12 @@ permalink: aquarium/
                             Characters
                         </div>
                         <div class="value">
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
                         <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                         <a href="/categories/Enstars/Sora" character="Sora"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
-                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Madara" character="Madara"></a>
                         <a href="/categories/Enstars/Rei" character="Rei"></a>
                         <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                         </div>
@@ -257,7 +257,7 @@ permalink: aquarium/
                                     <img src="/img/es/eventstory/aquarium/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    Epilogue 1
                                 </div>
                             </div>
                             <div class="gallery-item">

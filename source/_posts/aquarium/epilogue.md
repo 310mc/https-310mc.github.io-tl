@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – Epilogue"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:05:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, Sora]
@@ -73,9 +73,9 @@ hidden: true
     <p><span><b>Location:</b> Aquarium Stage</span></p>
 </div>
 
-{% img (Aquarium ♪) Kanata Shinkai CG2.png %}
+{% img /img/es/eventstory/aquarium/kanatabcg.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 “Hellooo everyone~ Thank you for coming over to our live show today~♪”
 
 “To the children sitting in the front seats, please be careful and watch your step, so that you don’t slip and fall into the pool~♪”
@@ -90,7 +90,7 @@ hidden: true
 
 “But I’ll spring up like this every once in a while to greet you all~♪”
 
-“Ehehe, thank you for waving your hands! And now for the special fan service~ *(kiss) ♪*”
+“Ehehe, thank you for waving your hands! And now for the special fan service~ <em><th>(kiss)</th></em> ♪”
 
 “Yes, Mr. Dolphin just gave me a kiss! I’m so happy~♪”
 
@@ -151,13 +151,13 @@ It has long been a dream of mine to play alongside *“dol-fins”* like this…
 I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
-{% img (Bonds Born From the Sea) Souma Kanzaki CG2.png %}
+{% img /img/es/eventstory/aquarium/soumabcg.jpg %}
 
 {% bubble Souma %}
 “Come now, one and all! Those who sit afar, listen closely! Clap your hands to the beat of the music, and feast your eyes on this joyous spectacle! Behold the heart and soul of our performance!”
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 “Bravo\~♪ Mr. Dolphin wonderfully caught the rings Souma tossed with its tail\~!”
 
 “A round of applause for you\~♪ I’ll give you fish as reward\~!”
@@ -207,7 +207,7 @@ Hahaha, then just show off the most terrific performance ever, something so good
 If anyone can do that, it’s you. After all, you’re the most gorgeous, beautiful guy in the whole school~♪
 {% endbubble %}
 
-{% img (The Sea and You) Kaoru Hakaze CG2.png %}
+{% img /img/es/eventstory/aquarium/kaorubcg.jpg %}
 
 {% bubble Kaoru %}
 Ewww, being complimented by a guy won’t make me happy at *all*~ But you’re right… So how about I elegantly steal away all the girls from their careless boyfriends, hm?
@@ -225,7 +225,7 @@ Okay kids, gather around! It’s time to pet the dolphins~♪
 Come, all of you, come!! You have to touch the dolphins gently! It’s not scary, so don’t be scared~! Hahaha!! ☆
 {% endbubble %}
 
-{% img (Mama and Dolphin) Madara Mikejima CG2.png %}
+{% img /img/es/eventstory/aquarium/madarabcg.jpg %}
 
 {% bubble Madara %}
 If the real thing’s still too scary for you, then pet this plush toy version instead!
@@ -233,20 +233,20 @@ If the real thing’s still too scary for you, then pet this plush toy version i
 Here, here! ♪ The real dolphin’s even softer, you know! Dolphins raise their own offspring through milk like us, after all! That makes them our friends!
 {% endbubble %}
 
-{% bubble Kanata %}
-(Whew… The rogue gave us a chance to rest at a good time.)
+{% bubble Kanata v2 %}
+<th>(Whew… The rogue gave us a chance to rest at a good time.)</th>
 
-(We would only end up getting tired if we kept singing and dancing.)
+<th>(We would only end up getting tired if we kept singing and dancing.)</th>
 
-(Not only us, but the dolphins, too.)
+<th>(Not only us, but the dolphins, too.)</th>
 
-(He is not like how he was in the past… He has become much more mindful with people.)
+<th>(He is not like how he was in the past… He has become much more mindful with people.)</th>
 
-(He is still just as pushy as he has always been, though.)
+<th>(He is still just as pushy as he has always been, though.)</th>
 
-(Like how he was this time… I did not even ask him to, yet he came all the way over to help me… Gosh, he is so strange.)
+<th>(Like how he was this time… I did not even ask him to, yet he came all the way over to help me… Gosh, he is so strange.)</th>
 
-(I have always been so horrible to him, too… I have never once given anything back to him, so why is he always this nice to me?)
+<th>(I have always been so horrible to him, too… I have never once given anything back to him, so why is he always this nice to me?)</th>
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -255,7 +255,7 @@ What’s up, Kanata-kun? You look dazed; you getting tired?
 If you are, then you can leave the singing to me and Souma-kun, and you can rest while doing your *puka puka*~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 I would definitely not *puka puka* during work… While it is a fish’s job to swim, an idol’s duty is to sing and dance.
 
 But I am not tired at all, anyway. This is nothing compared to Ryuseitai’s performances.
@@ -267,7 +267,7 @@ Ahh, Ryuseitai’s all about action and stuff, yeah.
 UNDEAD’s dances and stuff are rough and intense, too~ I have to push my limits to match up with the energetic youngsters.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes… Hehehe, we both have it rough, don’t we? But it gives the thrill of being alive, so I do not dislike it being intense, either.
 
 And this time around, we are performing above the water, so I am actually getting more and more energetic~♪
@@ -277,7 +277,7 @@ And this time around, we are performing above the water, so I am actually gettin
 You *are* a sea creature, after all.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 That is right, and so are you, Kaoru… So is Souma, since we are all part of the Marine Life club~♪
 {% endbubble %}
 
@@ -307,7 +307,7 @@ However, I still do not completely trust you… If you get too ahead of yourself
 Well, that’s terrifying… Hey Kanata-kuuun, can’t you scold Souma-kun and tell him to show more respect to his senior?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hehehe, what is wrong with it? It *is* true that you get too ahead of yourself sometimes. This is good medicine for that; the carrot and stick.
 {% endbubble %}
 
@@ -319,7 +319,7 @@ Whaaat\~? You guys are so harsh\~! I’ve had a complete 180 flip, I’m an earn
 Kanata-saaan? Sorry for interrupting your chatter, but could you come over here for a second?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes? What’s wrong…? Is there trouble afoot?[^1]
 
 I will do anything as an apology for causing trouble to everyone.
@@ -343,7 +343,7 @@ Yeah, we’ve still got that objective to complete. But it’s not like we can w
 But besides that, there's something important Kanata-san needs to consider when thinking about his own future. Kanata-san, take a good look at the seats over there~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Over there…? Oh, it’s Rei and Wataru.
 {% endbubble %}
 
@@ -395,7 +395,7 @@ Well, it is up to each person how they want to enjoy a live show… However, as 
 Perhaps this kind of awareness is also something that comes from one’s field of work. You become unable to have a more objective viewpoint of these things, so it has its merits and its demerits.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hehehe, they look like they are having much more fun than I thought they would.
 
 Thank goodness. I hope that they were able to enjoy themselves after coming all the way over here, instead of feeling like they only wasted their time…
@@ -413,7 +413,7 @@ Rei~! Wataru~! Are you watching me? I am truly happy right now~♪
 Yeah, they’re important too, but I meant to look a little bit to the right… Look, it’s the people from your household.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Wah— You are right. They look different from how they look at home, so I did not notice them.
 
 They seem like regular people when they look like that way, don’t they?
@@ -445,7 +445,7 @@ So your most important duty in all of this is to meet that need. That would do f
 We have long lives ahead of us, so you can take your time thinking about what to do after this.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Do not act like you know any better… Just how long do you plan to meddle with my affairs like you are my guardian?
 
 Well… I suppose I can understand what you are trying to say. I am sorry that things always end up this way… Mama.
@@ -457,7 +457,7 @@ Oh, c’mon~ All I want is for you to blast through trivial problems such as thi
 I think Chiaki-san is gonna get a really bad stomach ache from worry if things don’t get settled soon.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 … So he really was worried about this?
 {% endbubble %}
 
@@ -471,7 +471,7 @@ He could be the most brilliant hero ever, but he would still be unable to do any
 The hardest thing for him is probably when he can only sit by and watch what happens.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes, I know… I do hope for a day when I can tell him about it…
 
 But it is still too difficult to do that right now. Ryuseitai is finally shining in the ideal way Chiaki has dreamed of.
@@ -497,7 +497,7 @@ That’s so cold~ Did you hear that, Souma-kun? Kanata-kun said Ryuseitai is the
 What? Buchou-dono~ What are we lacking? I am ashamed of myself—If there is anything you would like us to change, then please tell me!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 T-That is not what I said! You bully, Kaoru~
 {% endbubble %}
 
@@ -509,7 +509,7 @@ Hahaha, let me crack some jokes for all the trouble you’ve caused me.
 I mean, we’re going around the aquarium with everyone after this, so let’s quickly get rid of the tedious parts and enjoy life with only the fun stuff~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes, I am also hoping that we will be able to do that.
 
 Everyone together now\~! Let us sing together with high spirits! We will sing our Ensemble in unison\~♪

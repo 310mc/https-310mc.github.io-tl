@@ -1,6 +1,6 @@
 ---
 title: "Aquarium – Hanging Out Together"
-date: 2020-1-31 9:00:00
+date: 2017-9-15 9:03:00
 categories:
 - [Enstars, Hinata]
 - [Enstars, Sora]
@@ -217,19 +217,19 @@ Yet he continues to keep things vague by hiding his sincerity with frivolous tal
 
 ## Chapter 2
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Whew. I am finally outside.
 
 Walking on my feet is a pain, but… That is how it is. After all, I am also human. I have to walk on my feet and breathe through my lungs.
 
-*(Breathe in, breathe out)…* The air is tasty, so I do find being outside enjoyable.
+<em><th>(Breathe in, breathe out)</th>…</em> The air is tasty, so I do find being outside enjoyable.
 {% endbubble %}
 
 {% bubble Kaoru %}
 ……………
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Kaoru. Humans breathe through their mouths, so they can probably taste the air, but fish breathe through their gills, yes?
 
 I wonder if they cannot taste the tastiness of the air. If that is true, then I feel bad for them…
@@ -241,7 +241,7 @@ Now I am curious~ What do you think, Kaoru?
 Kanata-kun.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Yes, What is it, Kaoru?
 {% endbubble %}
 
@@ -249,7 +249,7 @@ Yes, What is it, Kaoru?
 Quit talking about weird things without a care in the world\~! You should apologize for making us all worried first\~!!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Uunini!? Kaoru! Please do not pinch my cheeks~!
 
 Uuu… How cruel, I thought you were a kind boy. Please do not hurt me, I can feel pain too.
@@ -277,7 +277,7 @@ It’s not my style to be nice and considerate whenever and wherever, you know?
 So if you don’t feel even a little bad for making us all worry, then I may just get real angry.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Uuu… Kaoru, you may be smiling, but your eyes are completely serious…
 
 It is scary. I really do feel bad for making you all worry.
@@ -321,7 +321,7 @@ That’d made me look like an idiot, wouldn’t it? Like someone who’s just go
 I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Kaoru… Are you *really* sexy?
 {% endbubble %}
 
@@ -333,7 +333,7 @@ I shouldn’t have tried! I should’ve just had a nice date with a girl! I wast
 Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 …If you pull this off, I will die. Please do not.
 {% endbubble %}
 
@@ -341,7 +341,7 @@ Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 Huh!? That’s how it works!? You cryptic creature!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hehehe, I am only joking…
 
 I am sorry for making you talk about something so serious, even though it is out of your character… I completely understood what you said.
@@ -367,7 +367,7 @@ We work as idols, after all. So at the very least, we have to do it properly.
 
 ## Chapter 3
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 *Sigh…* I am not one to think of being an idol as work.
 
 Kaoru, you surprisingly have your head on your shoulders.
@@ -379,7 +379,7 @@ I hate to say this, but I'm not a genius like you are, so I have to be mindful o
 That’s what you call "swimming the current of life". It’s something everyone has to work hard to do, so you should take note of it.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Okay. I will not forget these memories with everyone… Never ever.
 {% endbubble %}
 
@@ -387,7 +387,7 @@ Okay. I will not forget these memories with everyone… Never ever.
 Memories…? Why’re you talking like you’re leaving for a far away place?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 …………
 {% endbubble %}
 
@@ -396,13 +396,13 @@ Kanata-kun? Hey, wai- Where are you wondering off to?
 
 Quit doing things that make no sense, you enigma! Hold on, hold on! You can’t disappear on me! Give me a break!
 
-(Ahh, jeez… Now I gotta go after him. If only I could contact the other kids too…)
+<th>(Ahh, jeez… Now I gotta go after him. If only I could contact the other kids too…)</th>
 
-(There was an announcement for a lost child just a second ago, so Anzu-chan and Souma-kun probably grouped up again…)
+<th>(There was an announcement for a lost child just a second ago, so Anzu-chan and Souma-kun probably grouped up again…)</th>
 
-(And here I was hoping I could go over to show them that Kanata-kun is doing just fine.)
+<th>(And here I was hoping I could go over to show them that Kanata-kun is doing just fine.)</th>
 
-(All my plans are gone in a flash. He’s always taking me by storm.)
+<th>(All my plans are gone in a flash. He’s always taking me by storm.)</th>
 
 Ughh, I’m serious! Kanata-kuuun, if you don’t quit messing around, I’ll trap you in a fishing net!
 
@@ -411,7 +411,7 @@ Wait, what’s wrong? You’re heading outside all of a sudden…
 Did being inside a dim water tank for so long make you want some sunshine?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 No… Kaoru, please wait here, okay?
 {% endbubble %}
 
@@ -421,11 +421,9 @@ No, no. I’m telling you, this place is really crowded—I’ll lose sight of y
 Don’t make me waste my energy moving around everywhere~ C’mon, please.
 {% endbubble %}
 
-{% img Aquarium Hanging Out Together 3 (2).png %}
-
-{% note location %}
-**Location:** Aquarium (Dolphin Show)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Dolphin Show)</span></p>
+</div>
 
 {% bubble Madara %}
 Hmhmhmmm~♪
@@ -433,9 +431,9 @@ Hmhmhmmm~♪
 Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins… ☆
 {% endbubble %}
 
-{% img (Mama and Dolphin) Madara Mikejima CG.png %}
+{% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Ahh, I thought so… Hey! Please stop giving food to the dolphins as you please!
 {% endbubble %}
 
@@ -445,7 +443,7 @@ Ooh? I was wondering who that was! So it’s you, Kanata-san! I missed youuu!
 Come, come, come!! I’ll give you some of their food too~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Hmm… I love fish, but if I were to eat it raw, it would hurt my stomach.
 
 You need to at least prepare it and make it into sashimi before I can eat it.
@@ -461,7 +459,7 @@ But I don’t have a kitchen knife right now, so maybe I could use the dolphins 
 Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is there someone here you know?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 *Sigh*… Just some rogue.
 {% endbubble %}
 
@@ -491,7 +489,7 @@ So I thought maybe someone did something elsewhere.
 And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close friends, right?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 No. This person has nothing to do with me.
 {% endbubble %}
 
@@ -515,7 +513,7 @@ I’ll tell you now; I have permission to do this *and* I’m qualified enough f
 I can do any and all jobs swiftly. I plan to clean the water tank next~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 Doing such unnecessary things… No one asked for it, okay?
 
 If I were to just restrain myself for a while, it would have all gone well.
