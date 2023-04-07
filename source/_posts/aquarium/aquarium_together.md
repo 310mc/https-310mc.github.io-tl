@@ -20,10 +20,10 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Rei" character="Rei"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
                 <a href="/categories/Enstars/Madara" character="Madara"></a>
                 <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Rei" character="Rei"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -47,7 +47,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@ Hmm? What is it? Are you gonna say, “Anyone is tiny next to you”? Or “Plea
 
 You gotta tell me clearly! Or it won’t reach Mama’s heart! Hahahaha! ☆
 
-… Oh. You look like you’re in a rush. Guess I shouldn’t bother you with random chitchat. Are you trying to put up those posters on the bulletin board?
+…Oh. You look like you’re in a rush. Guess I shouldn’t bother you with random chitchat. Are you trying to put up those posters on the bulletin board?
 
 And I’ve been standing infront of it, so I’ve been in your way, huh? Hahaha, the mystery has been solved!
 
@@ -131,11 +131,9 @@ But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of
 (Hahaha! Life just doesn’t go the way you want it! That’s why it’s so interesting!)
 {% endbubble %}
 
-{% bubble Heading %}
-Scene Change:
-{% endbubble %}
-
-{% img Aquarium Going to the Aquarium Together 1 (2).png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> TBA</span></p>
+</div>
 
 {% bubble Kaoru %}
 Anzu-chaaan, over here, over here~♪
@@ -185,11 +183,9 @@ I have never seen you as a “*pal*”… You are the disgrace of the Marine Lif
 
 ## Chapter 2
 
-{% img Aquarium Going to the Aquarium Together 2.png %}
-
-{% note location %}
-**Location:** Shopping Mall 1F
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Shopping Mall 1F</span></p>
+</div>
 
 {% bubble Souma %}
 For goodness’ sake… A detour will only waste time. Why does our attire even matter?
@@ -304,7 +300,7 @@ But that's also exactly why it's gonna be really tricky for me to approach him a
 
 For once I, of all people, was able to be friends with a guy, so I don't want to make things awkward between us because of family-related things.
 
-… Ahh, but don't worry. I don’t think it’s going to be that serious this time around.
+…Ahh, but don't worry. I don’t think it’s going to be that serious this time around.
 
 I’ll do everything you’ve asked of me. It's a favor from you, so I have to do it.
 
@@ -341,11 +337,9 @@ Alright, alright. Ahh man… This doesn't feel like a date, it's more like spend
 
 ## Chapter 3
 
-{% img Aquarium Going to the Aquarium Together 3.png %}
-
-{% note location %}
-**Location:** Aquarium (Front)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Front)</span></p>
+</div>
 
 {% bubble Kaoru %}
 Right then. We wasted way too much time, but we're finally here.
@@ -378,7 +372,7 @@ But I'm not joking around here. It really is my goal to find Kanata-kun, so… w
 {% endbubble %}
 
 {% bubble Souma %}
-Hrmph. Once again, it is only your mouth that is good at its job.
+Hmph. Once again, it is only your mouth that is good at its job.
 
 You have a point, but there is one issue in that plan. I do not currently have anything that can be used to stay in contact. I am inadequate with electronic devices.
 {% endbubble %}
@@ -388,7 +382,7 @@ Ahh… Right, I forgot you were from a family detached from the modern times, st
 {% endbubble %}
 
 {% bubble Souma %}
-… We *do* have a landline phone at home. But I cannot get accustomed to a *“smar-to foon”* and all of its unnecessary features. I am not fond of how it is all jumbled up.
+…We *do* have a landline phone at home. But I cannot get accustomed to a *“smar-to foon”* and all of its unnecessary features. I am not fond of how it is all jumbled up.
 
 *“Smar-to foons”* should be just like their name, and be more simplified.
 {% endbubble %}
@@ -422,7 +416,7 @@ Huh? It's not a date? Then why are you wearing a bit of makeup~? ♪
 
 If I didn’t know any better, I’d say you’re starting to notice me, even if just a teensy bit…… Ohhh~ This is a thing you and I share in common, huh.
 
-Which means the right thing to do is to pretend I didn’t notice that, but… Hrmm~ I want it to be a fun day for us, so I’ll try and get through this gloomy topic as quickly as possible.
+Which means the right thing to do is to pretend I didn’t notice that, but… Hmm~ I want it to be a fun day for us, so I’ll try and get through this gloomy topic as quickly as possible.
 
 Sooo, you’re trying to hide that you’ve been crying with makeup, right? But you're not the type to wear makeup, so it just looks awkward instead~♪
 
@@ -434,7 +428,7 @@ Ahaha, I'm helping you out a little *too* much? True~ Buuut, I want to pay you b
 
 It's sweet that your love is the kind that doesn't ask for anything in return, but I also find it a little lonely.
 
-… Ah! She just cut me off and ran ahead…
+…Ah! She just cut me off and ran ahead…
 
 Did I talk to her incorrectly…? I feel like I never choose the right answer when I'm talking to her.
 {% endbubble %}
@@ -489,11 +483,9 @@ You being away from me makes it easier on me, too.
 
 ## Chapter 4
 
-{% img Aquarium Going to the Aquarium Together 4.png %}
-
-{% note location %}
-**Location:** Light Music Clubroom
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Light Music Clubroom</span></p>
+</div>
 
 {% bubble Madara %}
 Excuuuse meeeeeee!
@@ -598,7 +590,7 @@ Yes! I’m filled with energy, yet I have nothing to do! It’s the bane of my e
 
 It seems like everyone wants to try and work hard on their own lately, and so my job as a helper has been decreasing by a lot!
 
-… Wait, I just said I'd listen to what you have to say, but I ended up talking about myself!
+…Wait, I just said I'd listen to what you have to say, but I ended up talking about myself!
 
 This is bad, *terrible!* You have this peculiar feel to you that makes me want to vent all my worries to you!
 {% endbubble %}
@@ -639,14 +631,8 @@ Then you are just the right person for this. After all, as far as I can tell fro
 
 ## Chapter 5
 
-{% img Aquarium Going to the Aquarium 5.png %}
-
-{% note location %}
-**Location:** Light Music Room
-{% endnote %}
-
 {% bubble Madara %}
-Hrmm… Anzu-san’s like a big sister figure. Well, I think it’s more like she grew up without knowing how to depend on others.
+Hmm… Anzu-san’s like a big sister figure. Well, I think it’s more like she grew up without knowing how to depend on others.
 
 So whenever I try to look out for her, she rejects my help and pushes it away.
 
@@ -784,7 +770,7 @@ He has been much more social and friendly lately; has he not sold you a ticket d
 {% endbubble %}
 
 {% bubble Madara %}
-Hrm~ Actually, maybe I’m the only one he rejects now… Maybe he thinks I have some kind of ulterior motive…
+Hm~ Actually, maybe I’m the only one he rejects now… Maybe he thinks I have some kind of ulterior motive…
 
 Or, well, maybe he thinks I’m annoying, so he just simply hates me.
 {% endbubble %}

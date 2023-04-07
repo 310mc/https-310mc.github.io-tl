@@ -41,7 +41,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>

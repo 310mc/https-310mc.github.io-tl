@@ -79,7 +79,7 @@ permalink: aquarium/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@ permalink: aquarium/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>

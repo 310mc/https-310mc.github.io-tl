@@ -24,12 +24,12 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
                 <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 <a href="/categories/Enstars/Sora" character="Sora"></a>
-                <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
                 <a href="/categories/Enstars/Rei" character="Rei"></a>
                 <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                 </div>
@@ -55,7 +55,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -69,11 +69,9 @@ hidden: true
 
 ## Chapter 1
 
-{% img Aquarium Inviting Friends Together 1.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
+</div>
 
 {% bubble Sora %}
 HaHa~♪ Hina-chan, Hina-chan! Come over here!
@@ -110,7 +108,7 @@ But this is all because Sora’s strange, so you don’t have to apologise, Hina
 {% endbubble %}
 
 {% bubble Hinata %}
-Hrmm…
+Hmm…
 
 Aaalrighty, then how about we do this. Let go of my hand, and then part your leggies.
 {% endbubble %}
@@ -245,12 +243,6 @@ Wha-Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
 
 ## Chapter 2
 
-{% img Aquarium Inviting Friends Together 2.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
-
 {% bubble Sora %}
 (Gosh, Hina-chan… You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)
 
@@ -284,7 +276,7 @@ Instead of the things that society perceives as dangerous, what’s actually muc
 {% endbubble %}
 
 {% bubble Hinata %}
-Hrmm… Now I'm curious. I wonder if it's explained somewhere. If only we could find someone who knows more… I don't come to places like these often enough to know.
+Hmm… Now I'm curious. I wonder if it's explained somewhere. If only we could find someone who knows more… I don't come to places like these often enough to know.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -352,7 +344,7 @@ Yep! Hello! Sora will greet anyone he meets!
 {% endbubble %}
 
 {% bubble Souma %}
-Hrm… There is no need to say your names, I know who you are. I am pretty good at remembering people's names.
+Hm… There is no need to say your names, I know who you are. I am pretty good at remembering people's names.
 
 Also, there is no need to be frightened. Even I am aware that brandishing my katana here would only cause unnecessary havoc. So I do not have my katana with me today.
 {% endbubble %}
@@ -426,12 +418,6 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 {% endbubble %}
 
 ## Chapter 3
-
-{% img Aquarium Inviting Friends Together 3.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
 
 {% bubble Kaoru %}
 (Hrnn… What do I do now…? I lost complete sight of Anzu-chan…)
@@ -567,11 +553,9 @@ So if you can, please do not try to interfere, Kaoru.
 
 ## Chapter 4
 
-{% img Aquarium Inviting Friends Together 4.png %}
-
-{% note location %}
-**Location:** In Front of the Station
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> In Front of the Station</span></p>
+</div>
 
 {% bubble Madara %}
 Hellooo, is this Chiaki-san?
@@ -685,11 +669,9 @@ Mhm. Bye byeee~ I’ll call you again.
 
 ## Chapter 5
 
-{% img Aquarium Inviting Friends Together 5.png %}
-
-{% note location %}
-**Location:** Aquarium (Entrance)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Entrance)</span></p>
+</div>
 
 {% bubble Wataru %}
 *Amazing!* How wonderful!

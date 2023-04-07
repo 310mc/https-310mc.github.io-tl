@@ -24,12 +24,12 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
                 <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 <a href="/categories/Enstars/Sora" character="Sora"></a>
-                <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
                 <a href="/categories/Enstars/Rei" character="Rei"></a>
                 <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                 </div>
@@ -55,7 +55,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -69,18 +69,16 @@ hidden: true
 
 ## Chapter 1
 
-{% img Aquarium What Dream Shall We Be Seeing Together 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium Stage</span></p>
+</div>
 
-{% note location %}
-**Location:** Aquarium Stage
+{% note cw %}
+**Content Warning:** Sexual harrassment within.
 {% endnote %}
 
-{% bubble Warning %}
-Sexual harrassment within.
-{% endbubble %}
-
 {% bubble Kanata %}
-♪~♪~♪
+♪\~♪\~♪
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -140,7 +138,7 @@ How many times must I tell you that your habit of turning everything into a bois
 {% endbubble %}
 
 {% bubble Souma %}
-Hrm… I do not think any of us here can comprehend what is occuring at the moment, except for Mikejima-dono. He dragged all of us into this without any prior explanation.
+Hm… I do not think any of us here can comprehend what is occuring at the moment, except for Mikejima-dono. He dragged all of us into this without any prior explanation.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -226,12 +224,6 @@ But things just don’t work out that way… All these guys around me are a hand
 {% endbubble %}
 
 ## Chapter 2
-
-{% img Aquarium What Dream Shall We Be Seeing Together 2.png %}
-
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
 
 {% bubble Kaoru %}
 Uh-oh. Anzu-chan, you’re getting cold from being drenched, aren’t you? You’re sneezing.
@@ -375,12 +367,6 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s ador
 
 ## Chapter 3
 
-{% img Aquarium What Dream Shall We Be Seeing Together 3.png %}
-
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
-
 {% bubble Kaoru %}
 I’m baaack~♪ The live show hasn’t started yet, right?
 {% endbubble %}
@@ -509,12 +495,6 @@ And that is when my household decided to let go of this aquarium they own.
 
 ## Chapter 4
 
-{% img Aquarium What Dream Shall We Be Seeing Together 4.png %}
-
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
-
 {% bubble Kaoru %}
 So your household owns this aquarium, huh? I never knew that~ I’ve always just gone to it because it’s nearby.
 {% endbubble %}
@@ -580,7 +560,7 @@ If a higher-up keeps a strong eye on him, he will perish away immediately… So 
 {% endbubble %}
 
 {% bubble Madara %}
-Hrm… I do think I was a bit rash, but your wish was for this aquarium to stay as it is, right?
+Hm… I do think I was a bit rash, but your wish was for this aquarium to stay as it is, right?
 
 Then I want to support that with all I’ve got, as your friend.
 {% endbubble %}

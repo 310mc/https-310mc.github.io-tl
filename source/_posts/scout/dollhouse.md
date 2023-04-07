@@ -1649,9 +1649,7 @@ No, um… By that, do you—
 <th>(The more I grow up, the more I learn the hard truth… Nothing’s convenient in this world…)</th>
 
 ……………
-{% endbubble %}
 
-{% bubble Midori %}
 <th>(Why won’t you come save us…?)</th>
 
 <th>(Isn’t a hero supposed to *always* come to the rescue whenever there’s danger…?)</th>
@@ -1675,9 +1673,7 @@ No, um… By that, do you—
 <th>(So why…? Why won’t you come…)</th>
 
 <th>(…No. I’m already aware… I’m just taking it out on you.)</th>
-{% endbubble %}
 
-{% bubble Midori %}
 <th>(I didn’t wanna accept the truth, and it’s been making my heart race like crazy…)</th>
 
 <th>(Because what’s really making me mad… the one who’s really pathetic right now is—)</th>

@@ -24,12 +24,12 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
                 <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 <a href="/categories/Enstars/Sora" character="Sora"></a>
-                <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
                 <a href="/categories/Enstars/Rei" character="Rei"></a>
                 <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                 </div>
@@ -55,7 +55,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -69,11 +69,11 @@ hidden: true
 
 ## Chapter 1
 
-{% img (Aquarium ♪) Kanata Shinkai CG2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium Stage</span></p>
+</div>
 
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
+{% img (Aquarium ♪) Kanata Shinkai CG2.png %}
 
 {% bubble Kanata %}
 “Hellooo everyone~ Thank you for coming over to our live show today~♪”
@@ -218,12 +218,6 @@ That sounds like a lot of fun to do, and it suits my style… Even if I succeed 
 {% endbubble %}
 
 ## Chapter 2
-
-{% img Aquarium Epilogue 2.png %}
-
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
 
 {% bubble Madara %}
 Okay kids, gather around! It’s time to pet the dolphins~♪
@@ -392,12 +386,6 @@ Ah! Then please teach me sometime! I mean, it’s probably best I try to pick up
 {% endbubble %}
 
 ## Chapter 3
-
-{% img Aquarium Epilogue 3.png %}
-
-{% note location %}
-**Location:** Aquarium Stage
-{% endnote %}
 
 {% bubble Rei %}
 Hush now. Do not frolic about; you should be listening to their song.

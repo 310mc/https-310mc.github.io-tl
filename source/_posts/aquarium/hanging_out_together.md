@@ -24,12 +24,12 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
                 <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 <a href="/categories/Enstars/Sora" character="Sora"></a>
-                <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
                 <a href="/categories/Enstars/Rei" character="Rei"></a>
                 <a href="/categories/Enstars/Wataru" character="Wataru"></a>
                 </div>
@@ -55,7 +55,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    TBA
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>
                 </div>
             </div>
         </div>
@@ -217,12 +217,6 @@ Yet he continues to keep things vague by hiding his sincerity with frivolous tal
 
 ## Chapter 2
 
-{% img Aquarium Hanging Out Together 2.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
-
 {% bubble Kanata %}
 Whew. I am finally outside.
 
@@ -373,12 +367,6 @@ We work as idols, after all. So at the very least, we have to do it properly.
 
 ## Chapter 3
 
-{% img Aquarium Hanging Out Together 3.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
-
 {% bubble Kanata %}
 *Sigh…* I am not one to think of being an idol as work.
 
@@ -458,7 +446,7 @@ Come, come, come!! I’ll give you some of their food too~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-Hrmm… I love fish, but if I were to eat it raw, it would hurt my stomach.
+Hmm… I love fish, but if I were to eat it raw, it would hurt my stomach.
 
 You need to at least prepare it and make it into sashimi before I can eat it.
 {% endbubble %}
@@ -548,12 +536,6 @@ But if peace comes at the price of a good and kind child restraining themselves�
 {% endbubble %}
 
 ## Chapter 4
-
-{% img Aquarium Hanging Out Together 4.png %}
-
-{% note location %}
-**Location:** Aquarium (Main Exhibition)
-{% endnote %}
 
 {% bubble Sora %}
 Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides will come out!
@@ -678,7 +660,7 @@ I can’t tell you exactly what’s going on with him, but apparently he and som
 {% endbubble %}
 
 {% bubble Rei %}
-Live show…? Why did this situation develop into such a ridiculous event…? Hrmm, perhaps it is Mikejima-kun behind all this again? He always regrettably turns things into festivals when he is taking the lead.
+Live show…? Why did this situation develop into such a ridiculous event…? Hmm, perhaps it is Mikejima-kun behind all this again? He always regrettably turns things into festivals when he is taking the lead.
 {% endbubble %}
 
 {% bubble Hinata %}
