@@ -87,7 +87,7 @@ We don't have to try and do everything all on our own. *All for one, one for all
 
 {% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
 
-{% bubble csbcg %}
+{% bubble Chiaki csbcg %}
 We’ll start over and assemble everything all over again. What we want to protect isn’t a tradition — it’s our freedom, our happiness, and the smiles of ourselves and our fans.
 {% endbubble %}
 
@@ -125,12 +125,12 @@ there are so [many] strange things in this world, isn't there…♪
 {% img /img/es/eventstory/piratefes/kanatabcg.jpg %}
 
 {% bubble Kanata v2 %}
-let's <em>puka puka</em>\~♪ all the way the [other side] of the [horizon]… [together]\~♪
+let's <em>puka puka</em>\~♪ all the way to the [other side] of the [horizon]… [together]\~♪
 {% endbubble %}
 
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1418).</small>
 
-<h4>※ A <u>Broad-minded</u>, deepsea-like heart that sees through one's true nature, and wraps around them like the ocean.</h4>
+<h4>※ A <u>Broad-minded</u>, deep heart that sees through one's true nature, and wraps around them like the deep ocean.</h4>
 
 {% img /img/es/es2mainstory/kanatabcg.jpg %}
 
@@ -143,7 +143,7 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 **Summary:**
 * Puzzling behavior, an unwavering person no matter the situation; he <u>100% goes by his own pace</u>
 * In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Sea-lover</u>
-* A <u>Broad-minded</u>, deepsea-like heart that sees through one's true nature, and wraps around them like the ocean.
+* A <u>Broad-minded</u>, deep heart that sees through one's true nature, and wraps around them like the deep ocean.
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
