@@ -164,4 +164,4 @@ But I’ll be fine, I’m used to hardships! If you’re ever in trouble, just c
 ## Translation Notes
 
 [^1]: N stands for Nagumo.
-[^2]: As an extra note, Chiaki says “Here we go” in English, written in hiragana (implying he pronounces it more closely to how it’s written in Japanese). He does this in Orihime and Hikoboshi, too.
+[^2]: Chiaki says “Here we go” in English, written in katakana. He does this in Orihime and Hikoboshi, too.

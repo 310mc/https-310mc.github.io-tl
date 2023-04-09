@@ -15,11 +15,11 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 
 <!-- more -->
 
-<big><b>You are more than welcome to use these images for the sake of introducing people to Ryuseitai!</b> They are advertised as such in the stream.</big>
-
 ## Index
 
 <a href="#Ryuseitai-Timeline">Ryuseitai Timeline</a> - <a href="#Ryuseitai-Relationship-Chart">Ryuseitai Relationship Chart</a> - <a href="#Chiaki-Relationship-Chart">Chiaki Relationship Chart</a> - <a href="#Kanata-Relationship-Chart">Kanata Relationship Chart</a> - <a href="#Chiaki-s-Charm-Points">Chiaki's Charm Points</a> - <a href="#Kanata-s-Charm-Points">Kanata's Charm Points</a>
+
+<big><b>Note: You are more than welcome to use these images for the sake of introducing people to Ryuseitai!</b> They are advertised as such in the stream.</big>
 
 ## Ryuseitai Timeline
 
@@ -50,7 +50,7 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 
 ## Chiaki's Charm Points
 
-<h4>※ Paraded as his ideal, his aspiration since a young age: <u>The hero of justice</u></h4>
+<h4>※ Held up as his ideal, his aspiration since a young age: <u>The hero of justice</u></h4>
 
 <!--
 理想に掲げる
@@ -83,7 +83,7 @@ We don't have to try and do everything all on our own. *All for one, one for all
 
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=616).</small>
 
-<h4>※ While he may be just a regular young man who has his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u></h4>
+<h4>※ While he may be just a regular young man with his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u></h4>
 
 {% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
 
@@ -94,9 +94,9 @@ We’ll start over and assemble everything all over again. What we want to prote
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=839).</small>
 
 **Summary:**
-* Paraded as his ideal, his aspiration since a young age: <u>The hero of justice</u>
+* Held up as his ideal, his aspiration since a young age: <u>The hero of justice</u>
 * All for one, one for all; he is <u>passionate and empathetic</u>
-* While he may be just a regular young man who has his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u>
+* While he may be just a regular young man with his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u>
 
 ## Kanata's Charm Points
 
@@ -115,7 +115,7 @@ We’ll start over and assemble everything all over again. What we want to prote
 {% img /img/es/eventstory/wisteria/kanatabcg.jpg %}
 
 {% bubble Kanata v2 %}
-there are so [many] strange things in this world, isn't there…♪
+there are so [many] strange things in this world, aren't there~…♪
 {% endbubble %}
 
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1202).</small>
