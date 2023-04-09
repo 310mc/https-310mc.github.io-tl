@@ -17,6 +17,10 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 
 <big><b>You are more than welcome to use these images for the sake of introducing people to Ryuseitai!</b> They are advertised as such in the stream.</big>
 
+## Index
+
+<a href="#Ryuseitai-Timeline">Ryuseitai Timeline</a> - <a href="#Ryuseitai-Relationship-Chart">Ryuseitai Relationship Chart</a> - <a href="#Chiaki-Relationship-Chart">Chiaki Relationship Chart</a> - <a href="#Kanata-Relationship-Chart">Kanata Relationship Chart</a> - <a href="#Chiaki-s-Charm-Points">Chiaki's Charm Points</a> - <a href="#Kanata-s-Charm-Points">Kanata's Charm Points</a>
+
 ## Ryuseitai Timeline
 
 {% img /img/es/dokisuta/ryuseitai_timeline.png %}
@@ -73,7 +77,7 @@ I’ll keep saying it — the hero is right here!
 
 {% img /img/es/es2mainstory/chiakibcg.jpg %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki grin %}
 We don't have to try and do everything all on our own. *All for one, one for all!*
 {% endbubble %}
 
@@ -83,7 +87,7 @@ We don't have to try and do everything all on our own. *All for one, one for all
 
 {% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
 
-{% bubble Chiaki %}
+{% bubble csbcg %}
 We’ll start over and assemble everything all over again. What we want to protect isn’t a tradition — it’s our freedom, our happiness, and the smiles of ourselves and our fans.
 {% endbubble %}
 
@@ -141,4 +145,7 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 * In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Sea-lover</u>
 * A <u>Broad-minded</u>, deepsea-like heart that sees through one's true nature, and wraps around them like the ocean.
 
-<div toc>{% btn /translations#Other,, star, Index %}</div>
+<div toc>
+<div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
+{% btn /translations#Other,, star, Index %}
+</div>
