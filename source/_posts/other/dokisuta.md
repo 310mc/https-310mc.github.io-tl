@@ -11,6 +11,8 @@ description: "[ES!!] Content about Ryuseitai from the Dokisuta stream."
 permalink: dokisuta_ryuseitai/
 ---
 
+{% img /img/es/dokisuta/cover_500px.jpg %}
+
 Translation of various content from the Dokisuta stream for Ryuseitai. (Relationship Charts, etc...)
 
 <!-- more -->

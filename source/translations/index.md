@@ -852,7 +852,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/songs/ryuseitaialbum_300px.jpg"
+                src="/img/es/dokisuta/cover.jpg"
                 alt="Dokisuta Ryuseitai"
             />
         </div>
