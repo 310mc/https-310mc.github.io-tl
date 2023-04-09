@@ -198,7 +198,7 @@ permalink: orihime_and_hikoboshi/
                                 Event Duration
                             </div>
                             <div class="value">
-                                2018/7/10 (15:00 JST) - 2018/7/25 (22:00 JST)
+                                2018/6/30 (15:00 JST) - 2018/7/10 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -285,10 +285,10 @@ permalink: orihime_and_hikoboshi/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/maocard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/maobcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -298,8 +298,44 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__name">[] Mao Isara</div>
                                     <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/shinobucard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/shinobubcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -357,10 +393,10 @@ permalink: orihime_and_hikoboshi/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/subarucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/subarubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -370,7 +406,115 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__name">[] Subaru Akehoshi</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/hokutocard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/hokutobcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Hokuto Hidaka</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/makotocard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/makotobcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Makoto Yuuki</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/chiakicard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Chiaki Morisawa</div>
                                     <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
@@ -429,10 +573,10 @@ permalink: orihime_and_hikoboshi/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/orihimeandhikoboshi/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/orihimeandhikoboshi/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -442,7 +586,7 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__name">[] Kanata Shinkai</div>
                                     <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>

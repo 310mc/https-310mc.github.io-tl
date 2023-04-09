@@ -111,7 +111,7 @@ I’ve been really busy with Student Council, and it’s taking up all my time j
 
 The entire Student Council has been scrambling to get through the procedures and preparations.
 
-To be honest, my work as an idol is *this *close to becoming second priority… This ain’t good…
+To be honest, my work as an idol is *this* close to becoming second priority… This isn’t good…
 
 The Vice-prez is doing ten times more than I am—it’s incredible how he still manages to work as an idol without ruining his health.
 
@@ -189,7 +189,7 @@ Ahaha, if she gets pumped back into working, then I guess there’s nothing wron
 {% endbubble %}
 
 {% bubble Shinobu %}
-I am neither a kid nor a little animal! Hmph! And here I thought that at least *you *had accepted me as a splendid ninja~!
+I am neither a kid nor a little animal! Hmph! And here I thought that at least *you* had accepted me as a splendid ninja~!
 {% endbubble %}
 
 {% bubble Mao %}
