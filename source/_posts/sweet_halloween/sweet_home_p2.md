@@ -69,7 +69,7 @@ hidden: true
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
 {% btn /sweet_halloween/sweet_home,, arrow-left, Previous Chapter: Sweet Home (Chapter 1–6) %}
@@ -898,4 +898,4 @@ Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
 [^1]: The shadow Madara talks about is Jungian psychology.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: He unusually asks for permission with *dame kana*.
-[^4]: Originally, Hajime says that he can’t do [this] (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
+[^4]: Originally, Hajime says that he can’t do [this](https://www.sakaagari-kotsu.com/practice/maemawari-ori.html) (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.

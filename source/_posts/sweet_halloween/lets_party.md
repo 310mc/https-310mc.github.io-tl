@@ -72,7 +72,7 @@ hidden: true
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
-{% btn /sweet_halloween/sweet_home,, arrow-left, Previous Chapter: sweet home %}
+{% btn /sweet_halloween/sweet_home_p2,, arrow-left, Previous Chapter: sweet home (Chapter 7–11) %}
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
@@ -80,7 +80,7 @@ hidden: true
 ## Chapter 1
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Passage 1-F (Halloween)</span></p>
+    <p><span><b>Location:</b> Passage 1-F (Halloween Party)</span></p>
 </div>
 
 {% img /img/es/eventstory/sweethalloween/letsparty1_1.jpg %}
@@ -913,7 +913,7 @@ T-Tomoya-kun…♪
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /sweet_halloween/sweet_home,, arrow-left, Previous Chapter: sweet home %}
+{% btn /sweet_halloween/sweet_home_p2,, arrow-left, Previous Chapter: sweet home (Chapter 7–11) %}
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
