@@ -166,7 +166,7 @@ Did something sad happen to you? Alright, don't worry, I’ll share my energy wi
 {% endbubble %}
 
 {% bubble Midori %}
-Ack—You’re hot! It's not suffocating — it's literally like you're a burning hot pan…! Are you okay, Morisawa-senpai…? Do you have a fever?
+Ack— You’re hot! It's not suffocating — it's literally like you're a burning hot pan…! Are you okay, Morisawa-senpai…? Do you have a fever?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -356,7 +356,7 @@ Of course, if the checkup shows no problems whatsoever, I'll take care of them m
 
 But. Just in case something does show up, I want to entrust them to you guys.
 
-For now, I want you to have practice sessions with them for the upcoming S1—the Tanabata Festival. I’ll tell them about this myself.
+For now, I want you to have practice sessions with them for the upcoming S1 — the Tanabata Festival. I’ll tell them about this myself.
 
 It’s not like I’m going to die, so if you need anything, feel free to contact me anytime.
 
@@ -368,7 +368,7 @@ Hm… That's actually a big help. Since we haven’t been able to do much lately
 
 <th>(If this was a request from the Student Council Prez, I would assume there was something bigger behind it all… But this is Buchou we're talking about, so I doubt he has an ulterior motive.)</th>
 
-<th>(In fact, this is really good for us—we won't lose out on anything.)</th>
+<th>(In fact, this is really good for us — we won't lose out on anything.)</th>
 
 Hm, I don't really have any problems with this, but could I tell you how we feel about it once we've talked to Hokuto and Makoto?
 
@@ -390,7 +390,7 @@ Ohh yeah, true. You don't need us for this, do you…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mmm… Kanata doesn’t seem used to dealing with the first years either, and he's busy during summer—circumstances with his home, you see… So I'm not sure if he could do it.
+Mmm… Kanata doesn’t seem used to dealing with the first years either, and he's busy during summer — circumstances with his home, you see… So I'm not sure if he could do it.
 
 But yeah… I'll tell Kanata about it. If he joins in with your activities, I want you guys to lead them together with him.
 
@@ -398,7 +398,7 @@ Thing is, he can be harder to deal with if you mess up… But I guess you’d ge
 
 Either way, I want you guys to grow further while connecting and bonding more with everyone, including your seniors and juniors.
 
-If you don't do that, you won't be able to overcome your next hurdle—the SS.
+If you don't do that, you won't be able to overcome your next hurdle — the SS.
 
 I'm cheering you on, so do your very best. Don't worry — I'm certain you guys can do it.
 {% endbubble %}
@@ -456,9 +456,9 @@ Mhm mhm, so you’ll rest as much as you can, and come back as soon as possible?
 
 No one wants to catch a cold, so make sure to come back only after you're back in perfect shape, okay?
 
-Oh—Right, right. We kept on trying to find Shinkai-senpai, but we’ve never managed to spot him.
+Oh— Right, right. We kept on trying to find Shinkai-senpai, but we’ve never managed to spot him.
 
-We can’t contact him, either—not even Anzu knows his phone number.
+We can’t contact him, either — not even Anzu knows his phone number.
 
 How’s he like? Would he join in on practice?
 
@@ -524,7 +524,7 @@ I'll be in my prince mode for today, and treat you all like princesses.
 {% bubble Makoto %}
 Heheh, so it's not just me, but you guys, too… We're all hyper about this. Ahh~ It’s weird to see us like this~♪
 
-If we end up having problems with our first-time experiences, we won't be able to properly face our all-time important event—the SS.
+If we end up having problems with our first-time experiences, we won't be able to properly face our all-time important event — the SS.
 
 We need to get used to all sorts of things while we still can.
 {% endbubble %}
@@ -588,7 +588,7 @@ He comes from a wealthy, prestigious family, so apparently he gets this sort of 
 
 Yeah, it’s probably bribery. This school used to have connections to certain manufacturing companies, but it seems like he’s severed a lot of those business contracts.
 
-Now it’s like all the companies are trying to appease him out of fear, but thing is, I doubt bribing will save them—once the Prez’s decided to do something, he’ll do it.
+Now it’s like all the companies are trying to appease him out of fear, but thing is, I doubt bribing will save them — once the Prez’s decided to do something, he’ll do it.
 
 But hey, there’s nothing wrong with the drinks, so let’s be thankful we have them right now. It’ll help us avoid getting heatstroke, too~ We can’t have ourselves collapsing from preparation work.
 

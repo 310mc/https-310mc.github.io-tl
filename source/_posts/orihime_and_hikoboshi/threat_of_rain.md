@@ -280,7 +280,7 @@ Oh, and Sally~ is busy with Student Council stuff on-site, so he said he’ll be
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh right, Taichou—I mean, Morisawa-senpai won’t be here either since he's sick, and we don't know where Shinkai-senpai is.
+Oh right, Taichou— I mean, Morisawa-senpai won’t be here either since he's sick, and we don't know where Shinkai-senpai is.
 
 Also, who's “Sarii”? I can't tell from that nickname.
 {% endbubble %}
@@ -556,7 +556,7 @@ That's right… Takamin, you took the idol course entrance exam by accident, rig
 {% endbubble %}
 
 {% bubble Midori %}
-Ah—um, yes… and then I passed it for some reason…
+Ah— Um, yes… and then I passed it for some reason…
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -720,7 +720,7 @@ Yep! Orihime and Hikoboshi were originally stars, after all.
 {% bubble Subaru %}
 Ah, I'm the only one dancing here, so you probably couldn’t tell.
 
-Look, this is my move—then this is yours, this is Ukki\~'s, and this is Sally\~'s!
+Look, this is my move — then this is yours, this is Ukki\~'s, and this is Sally\~'s!
 
 When you put them together… see?
 {% endbubble %}
@@ -892,7 +892,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 
 <th>(Though nowadays, we'd been getting more recognition, and slowly producing better results.)</th>
 
-<th>(But I wasn't meant to be satisfied with that —the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)</th>
+<th>(But I wasn't meant to be satisfied with that — the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)</th>
 
 <th>(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)</th>
 {% endbubble %}
@@ -1016,7 +1016,7 @@ We're meant to keep going via trial and error, and to grow further from this.
 {% bubble Makoto %}
 Ahaha, but I'm kinda glad you came late.
 
-If you were here, you would've dealt with everything properly before it even became a problem—it'd all be gone in the blink of an eye.
+If you were here, you would've dealt with everything properly before it even became a problem — it'd all be gone in the blink of an eye.
 
 We wouldn’t have been able to fail and grow from this experience if that happened.
 {% endbubble %}
@@ -1052,7 +1052,7 @@ Ahaha, that just sounds like you’re getting married to him.
 
 <th>(I wish God gave me what he has, instead of “pretty looks”…)</th>
 
-<th>(This sucks… I'm just paper mache—I'm completely hollow inside…)</th>
+<th>(This sucks… I'm just paper mache — I'm completely hollow inside…)</th>
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1190,7 +1190,7 @@ Whenever I hear my parents talk about work, I tend to think that those drinking 
 
 But y’know, we're still kids. We don't have to keep working in the most proper way possible.
 
-We should start by getting to know each other, and getting along—we’ll still have time to work after all that.
+We should start by getting to know each other, and getting along — we’ll still have time to work after all that.
 
 We're still in puberty — it's fine if we take detours, and make mistakes here and there. I’m sure that it’s those experiences that’ll be most useful to us when we become adults.
 
@@ -1198,7 +1198,7 @@ The Vice-Prez is always saying stuff like that.
 
 He's all about work, but I think that's exactly why he keeps telling us to go and have fun.
 
-The kids who have the most fun—the ones who enjoy their youth as much as they can… They become the winners once they're adults.
+The kids who have the most fun — the ones who enjoy their youth as much as they can… They become the winners once they're adults.
 
 We don't have to constantly think about work, and desperately keep trying to produce more results, yeah?
 
@@ -1210,7 +1210,7 @@ Were us, Trickstar — us, who carried out the revolution… right?
 
 That's the sort of Trickstar I love.
 
-*They're* the ones who saved me in the past—the me who did nothing but work so he could be useful to others, and whose only reward was the praise of adults.
+*They're* the ones who saved me in the past — the me who did nothing but work so he could be useful to others, and whose only reward was the praise of adults.
 {% endbubble %}
 
 ## Chapter 8
@@ -1254,7 +1254,7 @@ And I really do think that Trickstar and Ryuseitai are similar, since they’re 
 
 You guys will get along superbly with the right opportunity.
 
-Like, look—they’ve already forgotten about the mess earlier. They’re having a great time now.
+Like, look — they’ve already forgotten about the mess earlier. They’re having a great time now.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1340,7 +1340,7 @@ All I could do was call for you with the hope that you could do something.
 
 Everyone in Ryuseitai had saved me…
 
-They made me, someone who was always doing ninja stuff all on his own, into an idol—into a comrade who can pursue dreams with them…
+They made me, someone who was always doing ninja stuff all on his own, into an idol — into a comrade who can pursue dreams with them…
 
 A ninja’s one true mission is to be of use to people, yet… I could not think of what to do… I just panicked.
 
@@ -1408,5 +1408,5 @@ If we were to gather together, I'm sure *we* could become a shining, sparkling M
 [^1]: Tetora says the word *budou* for Karate, and Midori misunderstands it as *budou* for grapes, hence why he responds back in confusion. I tried to give the English version a similar feel.
 [^2]: Subaru’s “intestines” line is a reference to what he said in [Rocket Start](https://ensemble-stars.fandom.com/wiki/Rocket_Start) - Set Theory 5.
 [^3]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
-[^4]: In Japan, it’s common for working adults to have “drinking get-togethers,” which is basically a way for them to get to know each other.
+[^4]: In Japan, it’s common for working adults to have “drinking get-togethers,” which is basically a way for them to get to know each other. You can be peer pressured into doing it, even if you aren't interested, usually for the sake of keeping your position at work.
 [^5]: “Ryuseitai” lit. means shooting star/meteor squad, and the *sei* in Ryuseitai means “star”.

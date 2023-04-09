@@ -75,7 +75,7 @@ Hello? Hey! Transfer student~!
 
 I’m still not used to talking to girls, so I don’t know when I’m doing something wrong. If there’s something you have to say, you gotta do it out loud, okay?
 
-Ah—Did you want me to call you by your name…? Yeah, I guess you’re not always going to be a “transfer student”…
+Ah— Did you want me to call you by your name…? Yeah, I guess you’re not always going to be a “transfer student”…
 
 But I’ve been calling you that for so long that it’s kinda awkward to change it now, if you get what I mean…♪
 
@@ -113,9 +113,9 @@ The entire Student Council has been scrambling to get through the procedures and
 
 To be honest, my work as an idol is *this* close to becoming second priority… This isn’t good…
 
-The Vice-prez is doing ten times more than I am—it’s incredible how he still manages to work as an idol without ruining his health.
+The Vice-prez is doing ten times more than I am — it’s incredible how he still manages to work as an idol without ruining his health.
 
-Wait, now all I’m doing is complaining. My bad, Anzu. I came here to help you, but—it’s weird, talking to you just gets me pouring out all my worries.
+Wait, now all I’m doing is complaining. My bad, Anzu. I came here to help you, but — it’s weird, talking to you just gets me pouring out all my worries.
 
 Maybe this means you’re a truly excellent producer… Even more than I thought.
 
@@ -129,7 +129,7 @@ But I doubt they’re trying to be mean to you out of hatred, or anything like t
 
 We’ll be here to support you. We’ll protect you no matter what happens, so stay strong, and keep smiling.
 
-And then we’ll bring about another miracle that’s unique to you—No, unique to *us*; all while having fun.
+And then we’ll bring about another miracle that’s unique to you — No, unique to *us*; all while having fun.
 {% endbubble %}
 
 {% bubble Shinobu %}

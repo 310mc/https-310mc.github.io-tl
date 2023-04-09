@@ -119,7 +119,7 @@ hidden: true
 {% bubble Chiaki %}
 “Now now, no fussing! Get yourself pumped up again, Takamine! We can't win against our opponents if you're like that!”
 
-“Our adversaries are the people we've been practicing with this whole time—the four members of Trickstar!”
+“Our adversaries are the people we've been practicing with this whole time — the four members of Trickstar!”
 
 “What a cruel twist of fate… Who would've thought we'd end up competing against you!”
 
@@ -183,7 +183,7 @@ hidden: true
 {% bubble Hokuto %}
 “Fufu, you're unusually confident of yourself, Yuuki. It feels reassuring.”
 
-“As long as we’re all looking in the same direction—looking forward—we’ll be able to break through any wall, and charge onwards. We can go anywhere.”
+“As long as we’re all looking in the same direction — looking forward — we’ll be able to break through any wall, and charge onwards. We can go anywhere.”
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -251,11 +251,11 @@ hidden: true
 
 <th>(No, not just that. I'm sure he loves being an *idol.* He loves singing and dancing with everyone…)</th>
 
-<th>(He doesn't want to be an unreachable, mighty being—not like a god, like nature, or like the stars…)</th>
+<th>(He doesn't want to be an unreachable, mighty being — not like a god, like nature, or like the stars…)</th>
 
-<th>(No, he wants to be beside everyone—close enough to hold hands with them, and laugh together.)</th>
+<th>(No, he wants to be beside everyone — close enough to hold hands with them, and laugh together.)</th>
 
-<th>(If that's his wish, then we'll make it come true together. We are *“Ryuseitai”*—Shooting Stars.)</th>
+<th>(If that's his wish, then we'll make it come true together. We are *“Ryuseitai”* — Shooting Stars[^2].)</th>
 
 <th>(We won't make wishes come true only once a year, like Tanabata. We'll make them come true time after time, all year round.)</th>
 {% endbubble %}
@@ -277,7 +277,7 @@ hidden: true
 
 <th>(The day when we say our goodbyes will surely come. But even so, I know I have nothing to worry about.)</th>
 
-<th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em>[^2] ☆)</th>
+<th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em>[^3] ☆)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -353,7 +353,7 @@ hidden: true
 
 <th>(So annoying! If you were gonna apologize, then you shouldn’t have said it in the first place! You can just leave me alone and not say anything…!!)</th>
 
-<th>(And anyway, people of your species[^3]… Even if I hadn’t accidentally gotten into this school, you still would've been sparkling bright your whole life!)</th>
+<th>(And anyway, people of your species[^4]… Even if I hadn’t accidentally gotten into this school, you still would've been sparkling bright your whole life!)</th>
 
 <th>(You would've been doing that without ever knowing I existed!)</th>
 
@@ -405,7 +405,7 @@ Dad…! I think I’ve finally reached it…☆
 {% endbubble %}
 
 {% bubble Midori %}
-<th>(B-Bleached it?[^4] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
+<th>(B-Bleached it?[^5] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
 
 <th>(But somehow, just for a moment… Akehoshi-senpai made a face similar to how I look…)</th>
 
@@ -453,11 +453,11 @@ They're buzzing back and forth! It’s making me more and more excited!
 {% endbubble %}
 
 {% bubble Shinobu %}
-……
+…………
 {% endbubble %}
 
 {% bubble Makoto %}
-<th>(Huh? This looks bad—Shinobu-kun's movements are so slow… And he's not singing at all! Are the other Ryuseitai members performing so eagerly that they haven’t noticed his state…?)</th>
+<th>(Huh? This looks bad — Shinobu-kun's movements are so slow… And he's not singing at all! Are the other Ryuseitai members performing so eagerly that they haven’t noticed his state…?)</th>
 
 <th>(He doesn't have much stamina, probably because of his small figure…)</th>
 
@@ -481,7 +481,7 @@ They're buzzing back and forth! It’s making me more and more excited!
 
 <th>(I can just count on Isara-kun for this, hopefully. I’m reaching the hard part of my performance, so I can't really pay attention to him anyway! Sorry!)</th>
 
-<th>(No—I'll sing as hard as I can and pull everyone’s attention onto me, so Isara-kun can easily get closer to Shinobu-kun!)</th>
+<th>(No— I'll sing as hard as I can and pull everyone’s attention onto me, so Isara-kun can easily get closer to Shinobu-kun!)</th>
 
 <th>(I'm used to drawing people's eyes! It's what I'm good at!)</th>
 
@@ -539,7 +539,7 @@ Nope. You don't look alright one bit, that's why I’m worried about you, y’kn
 {% bubble Shinobu %}
 …In just a few minutes, our song will end.
 
-I only need to endure until then, and as a ninja, I excel at that.[^5] If I say I am okay, then it means I am okay.
+I only need to endure until then, and as a ninja, I excel at that.[^6] If I say I am okay, then it means I am okay.
 {% endbubble %}
 
 {% bubble Mao %}
@@ -553,7 +553,7 @@ I’ll carry you, and trick everyone into thinking that we're just doing that so
 
 I'm gonna sound like I'm taking your words, but—I excel at that, so you can count on me.
 
-Don't say anything like, “but I do not want sympathy from my opponent,” alright?[^6]
+Don't say anything like, “but I do not want sympathy from my opponent,” alright?[^7]
 
 I think of you as my precious, cute little brother. So if it ever feels bad, just rely on me.
 
@@ -599,7 +599,7 @@ And after that, whenever we saw each other in the hallway, you would check up on
 
 Whenever I had trouble with something, or had hit a wall, you were always there to help me.
 
-It made me so happy. Something so normal, so natural and mundane… It was sparkling bright to me. I’ve never properly expressed my gratitude, so… Thank you, Isara-dono.[^7]
+It made me so happy. Something so normal, so natural and mundane… It was sparkling bright to me. I’ve never properly expressed my gratitude, so… Thank you, Isara-dono.[^8]
 {% endbubble %}
 
 {% bubble Mao %}
@@ -632,10 +632,10 @@ I will be giving my all, so I want you to watch me, Isara-dono! Because you held
 You linked my chosen path to a bright, shining future!
 {% endbubble %}
 
-{% img <th>(Tanabata Declaration)</th> Shinobu Sengoku CG2.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/shinobubcg.jpg %}
 
 {% bubble Shinobu %}
-I shall definitely become a splendid ninja! And then I shall become an idol like you, Isara-dono—I shall become someone who can be respected!
+I shall definitely become a splendid ninja! And then I shall become an idol like you, Isara-dono — I shall become someone who can be respected!
 
 I shall persist onwards, until that very day! I shall go through all the rigorous training, and endure it all, to the very end!
 
@@ -658,7 +658,7 @@ Yaaay! ♪ You can do anything, so I could ask you to make any of my dreams and 
 No, I can't. I may be capable of a lot of things, but I can't do any of them well.
 {% endbubble %}
 
-{% img <th>(Tanabata Play)</th> Mao Isara CG2.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/maobcg.jpg %}
 
 {% bubble Mao %}
 But… Even if that’s true, there's still some wishes I can fulfill. I’ll have faith in that thought, and stand my ground next to all these sparkling people, just a little longer…
@@ -678,9 +678,10 @@ Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last 
 
 ## Translation Notes
 [^1]: Chiaki says *noumen mitai na kao* (an expression like noh mask) to describe Kanata’s blank expression. The masks he’s referencing look like [this](https://www.the-noh.com/en/world/mask.html) (warning: some are eerie).
-[^2]: Chiaki says “Here we go” in English, written in hiragana (implying he pronounces it more closely to how it’s written in Japanese).
-[^3]: Midori literally does say “people of your species.” Considering how Midori feels about idols (and himself), I left it the same in English.
-[^4]: Subaru says *tou-san* (Dad), and Midori misunderstands it for *tousan* (Bankruptcy). I tried to give the English version a similar feel.
-[^5]: Shinobu’s name and *ninja* both share the same kanji *nin* (忍), which can mean “to endure.”
-[^6]: Mao imitates Shinobu here, and even uses *de gozaru* at the end.
-[^7]: He thanks Mao without using *de gozaru.*
+[^2]: The *ryusei* in Ryuseitai lit. means shooting star/meteor.
+[^3]: Chiaki says “Here we go” in English, written in hiragana (implying he pronounces it more closely to how it’s written in Japanese).
+[^4]: Midori literally does say “people of your species.” Considering how Midori feels about idols (and himself), I left it the same in English.
+[^5]: Subaru says *tou-san* (Dad), and Midori misunderstands it for *tousan* (Bankruptcy). I tried to give the English version a similar feel.
+[^6]: Shinobu’s name and *ninja* both share the same kanji *nin* (忍), which can mean “to endure.”
+[^7]: Mao imitates Shinobu here, and even uses *de gozaru* at the end.
+[^8]: He thanks Mao without using *de gozaru.*

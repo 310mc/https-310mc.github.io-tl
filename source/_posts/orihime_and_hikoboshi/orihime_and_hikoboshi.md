@@ -302,10 +302,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -338,10 +334,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -374,10 +366,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -410,10 +398,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -446,10 +430,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -482,10 +462,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -518,10 +494,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -554,10 +526,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -590,10 +558,6 @@ permalink: orihime_and_hikoboshi/
                                     <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>

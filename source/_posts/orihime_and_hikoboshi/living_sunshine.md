@@ -100,7 +100,7 @@ shinkai kanata has also been revived, as an extra~♪
 {% bubble Chiaki %}
 You're not an extra, Kanata! A star can't take shape if one section is missing!
 
-Each comrade is important and irreplaceable—the five of us together are Ryuseitai…!
+Each comrade is important and irreplaceable — the five of us together are Ryuseitai…!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -170,7 +170,7 @@ Huh!? W-were you okay!?
 {% bubble Chiaki %}
 Yeah. I wasn't allowed to go outside, but there were no other constraints.
 
-Kanata's home is isolated—I felt like I was living the life of Urashima Tarou when he stayed in the Dragon Palace.[^2]
+Kanata's home is isolated — I felt like I was living the life of Urashima Tarou when he stayed in the Dragon Palace.[^2]
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -380,7 +380,7 @@ I'll never separate myself from you guuuuuysss!! ☆
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ack\~! Please don't hug me! The summer is like hell itself—it is so sweaty and hot\~!
+Ack\~! Please don't hug me! The summer is like hell itself — it's so sweaty and hot\~!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -408,10 +408,6 @@ However, when it comes to the stage, I will prefer to simply be with my comrades
 {% note cw %}
 **Content Warning:** The following chapters contain jokes about sexual harrassment.
 {% endnote %}
-
-<div class="msr-location">
-    <p><span><b>Location:</b> Running Grounds</span></p>
-</div>
 
 {% img /img/es/eventstory/orihimeandhikoboshi/maoorigcg.jpg %}
 
@@ -472,7 +468,7 @@ H-Hold on, I’ll climb down right now! Just gimme a sec—Woah—!!
 
 <th>(Crap, no!! I rushed too much — I’m losing my balance! I’m gonna fall…!)</th>
 
-<th>(Ahh, no, you—! She leaped forward—Is she trying to catch me so I won’t get hurt…?)</th>
+<th>(Ahh, no, you—! She leaped forward — Is she trying to catch me so I won’t get hurt…?)</th>
 
 <th>(No, I’m okay! I can land just fine, so back away!)</th>
 
@@ -504,7 +500,7 @@ Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 
 {% bubble Hokuto %}
-What!? Have you gone mad, Isara!? It doesn't matter if it's you—that's still unforgivable!
+What!? Have you gone mad, Isara!? It doesn't matter if it's you — that's still unforgivable!
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -662,13 +658,13 @@ But, if you think it is a problem, then there is still time to make changes.
 {% bubble Hokuto %}
 No, it's alright. It's customary for us and our opponents to play by the same rules. And no matter what the premise, or who we’re up against, we will always come out victorious.
 
-Not only that—we're capable of firing up our own radiance. That is “Trickstar.”
+Not only that — we're capable of firing up our own radiance. That is “Trickstar.”
 {% endbubble %}
 
 {% bubble Shinobu %}
 Sooo cool! ♪ This is why I really respect all of you! I am truly grateful for all that you have done for us this event!
 
-Please watch us, as we take in your guidance—your radiance—and shine brilliantly! We will make sure you do not regret accompanying us for all those days!
+Please watch us, as we take in your guidance — your radiance — and shine brilliantly! We will make sure you do not regret accompanying us for all those days!
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -676,7 +672,7 @@ Mm, we’re looking forward to it. Let's do our best in the event, Ryuseitai~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Yes! Let us both! As two units that bear stars in our names, we shall become the bridge to bright, shining dreams—we shall become the Milky Way!
+Yes! Let us both! As two units that bear stars in our names, we shall become the bridge to bright, shining dreams — we shall become the Milky Way!
 {% endbubble %}
 
 <div toc>
@@ -690,7 +686,7 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 [^1]: It’s left ambiguous in the story, but Chiaki’s likely referring to something like the influenza.
 [^2]: Urashima Tarō is the protagonist of the Japanese fairytale, *The Story of Urashima Tarou*, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
 [^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, [he’s singing the folk song for it](https://www.youtube.com/watch?v=0IuLZo3cvcs).
-[^4]: Midori’s likely referring to [these mascot characters](https://www.yurugp.jp/jp/vote/detail.php?id=00003111). Interesting enough, maybe to avoid copyright, they switched the -kun and -chan around.
+[^4]: Midori’s likely referring to [these mascot characters](https://www.yurugp.jp/jp/vote/detail.php?id=00003111). To likely avoid copyright, they switched the -kun and -chan around.
 [^5]: Tanzaku are strips of paper you write your wish on for Tanabata.
 [^6]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^7]: Kenpo is a Japanese martial art.
