@@ -65,17 +65,23 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /orihime_and_hikoboshi/cloudy_sky,, arrow-left, Previous Chapter: Cloudy Sky %}
+{% btn /orihime_and_hikoboshi,, star, Index %}
+{% btn /orihime_and_hikoboshi/living_sunshine,, arrow-right, Next Chapter: Living Sunshine %}
+</div>
+
 ## Chapter 1
 
-{% img Orihime and Hikoboshi - Chapter 5.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dance room</span></p>
+</div>
 
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat1_1.jpg %}
 
-{% bubble Heading %}
-A few hours ago…
-{% endbubble %}
+<div class="msr-narration">
+    <p>A few hours ago…</p>
+</div>
 
 {% bubble Tetora %}
 Please excuse us!
@@ -102,7 +108,7 @@ Carrot-y?[^1] Wait, why are you suddenly acting as our leader, Tetora-kun?
 {% endbubble %}
 
 {% bubble Tetora %}
-Wha--? Uhh, I thought you two were bad at stuff like this, sooo…?
+Wha—? Uhh, I thought you two were bad at stuff like this, sooo…?
 
 If you wanna be the temporary leader, then feel free, Midori-kun~♪
 {% endbubble %}
@@ -190,7 +196,7 @@ Wawa—Don't just let go!
 {% endbubble %}
 
 {% bubble Midori %}
-(I-It's lively all of a sudden… I feel really awkward when it’s like this…)
+<th>(I-It's lively all of a sudden… I feel really awkward when it’s like this…)</th>
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -270,7 +276,7 @@ But she had to leave after getting a sudden call from the Student Council…
 {% endbubble %}
 
 {% bubble Subaru %}
-Oh, and Sari~ is busy with Student Council stuff on-site, so he said he’ll be late.
+Oh, and Sally~ is busy with Student Council stuff on-site, so he said he’ll be late.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -295,15 +301,11 @@ Let’s get to know one another, and help each other grow.
 
 ## Chapter 2
 
-{% img Orihime and Hikoboshi - Chapter 6.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat2_1.jpg %}
 
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
-
-{% bubble Heading %}
-Several minutes later
-{% endbubble %}
+<div class="msr-narration">
+    <p>Several minutes later…</p>
+</div>
 
 {% bubble Hokuto %}
 Right, has everyone finished changing?
@@ -314,7 +316,7 @@ Alright. Us joining hands was very sudden, so there may be some confusion and a 
 {% endbubble %}
 
 {% bubble Subaru %}
-Ah! And we'll introduce Sari~ to you guys once he's here! Takamin already knows him, though~♪
+Ah! And we'll introduce Sally~ to you guys once he's here! Takamin already knows him, though~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -324,7 +326,7 @@ Like, he's someone I can actually talk to, unlike you and Morisawa-senpai…
 {% endbubble %}
 
 {% bubble Subaru %}
-Whaa~? Don't put me together with Chi~chan-senpai! We can talk to each other properly, too! Let's get along! Handshake~♪
+Whaa\~? Don't put me together with Chi\~chan-senpai! We can talk to each other properly, too! Let's get along! Handshake~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -332,17 +334,17 @@ Ughh… I knew it, this guy’s also the pushy overbearing type…
 {% endbubble %}
 
 {% bubble Shinobu %}
-(Mmm… I also know Isara-dono, but I suppose there is no need to point that out right now…)
+<th>(Mmm… I also know Isara-dono, but I suppose there is no need to point that out right now…)</th>
 
-(I love Isara-dono, but I do not know how he feels about me…)
+<th>(I love Isara-dono, but I do not know how he feels about me…)</th>
 
-(I will feel guilty if I act like he and I are close…)
+<th>(I will feel guilty if I act like he and I are close…)</th>
 
-(He is probably kind to anyone, and gets along well with everyone. It is not that I am special or anything.)
+<th>(He is probably kind to anyone, and gets along well with everyone. It is not that I am special or anything.)</th>
 {% endbubble %}
 
 {% bubble Midori %}
-…Sengoku-kun? What’s wrong? Are you feeling unwell?
+…Sengoku-kun? What’s wrong? Are you not feeling well?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -372,7 +374,7 @@ Umm… Could we not chit-chat, please…? Let's do this properly.
 {% endbubble %}
 
 {% bubble Hokuto %}
-That's right, it's as Nagumo--…kun, says. Don't relax so much… Of course, being too nervous wouldn't be good, either.
+That's right, it's as Nagumo—…kun, says. Don't relax so much… Of course, being too nervous wouldn't be good, either.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -414,7 +416,7 @@ However, we're going to be doing two different performances, so we'll be splitti
 
 If there's anything you're struggling with in your performance, ask us about it.
 
-We'll guide you as best as we can, as your seniors… Hehe~♪
+We'll guide you as best as we can, as your seniors… Heheh~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -424,7 +426,7 @@ Aren't we going to do a joint live for the event?
 {% endbubble %}
 
 {% bubble Hokuto %}
-…? Joint? I suppose you could call it that. We *are *going to be on the same stage, after all.
+…? Joint? I suppose you could call it that. We *are* going to be on the same stage, after all.
 
 However, in Tanabata Festival, units come onstage to compete against each other.
 
@@ -442,7 +444,7 @@ You're always thinking about things, unlike Akehoshi, so knowing your opinion wo
 {% endbubble %}
 
 {% bubble Subaru %}
-Hokke~, can’t you open your mouth *once *without picking a fight with me?
+Hokke~, can’t you open your mouth *once* without picking a fight with me?
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -481,12 +483,6 @@ I-I apologize. I did not expect anyone not to know about it, and no-one asked me
 
 ## Chapter 3
 
-{% img Orihime and Hikoboshi - Chapter 7.png %}
-
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
-
 {% bubble Subaru %}
 I'm worried about you guys… You sure you're gonna be okay like this?
 
@@ -518,7 +514,7 @@ Hmm? Is Ryuseitai really always like that, Takamin?
 {% endbubble %}
 
 {% bubble Midori %}
-Huh--? Yeah, basically… Morisawa-senpai would always show us what to do and guide us through practically everything… Like, it’s as if he’s just dragging us into whatever he’s planned…
+Huh—? Yeah, basically… Morisawa-senpai would always show us what to do and guide us through practically everything… Like, it’s as if he’s just dragging us into whatever he’s planned…
 
 We do throw our complaints and opinions in there sometimes, but well… I mean, we do basically end up properly performing as idols thanks to that, I guess…?
 
@@ -534,15 +530,15 @@ I don't really wanna work with people like that.
 {% endbubble %}
 
 {% bubble Midori %}
-…
+…………
 {% endbubble %}
 
 {% bubble Hokuto %}
-Hey! Akehoshi! Don't start scolding them! We didn’t know left from right when we were first years either, and we just went with the flow.
+Hey! Akehoshi! Don't start scolding them! We didn’t know left from right when we were first years either, and just went with the flow.
 
 When you're still a novice, it's necessary to ask for instructions, and do exactly as you're told.
 
-It's not too late to start learning independence *after *you've been taught the basics.
+It's not too late to start learning independence *after* you've been taught the basics.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -560,7 +556,7 @@ That's right… Takamin, you took the idol course entrance exam by accident, rig
 {% endbubble %}
 
 {% bubble Midori %}
-Ah--um, yes… and then I passed it for some reason…
+Ah—um, yes… and then I passed it for some reason…
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -579,10 +575,10 @@ You’re right, we didn't think about this properly. We relied on Taichou way to
 I really do wanna do better this time, and I’ll never let this happen ever again, so please forgive us.
 {% endbubble %}
 
-{% img (Tanabata Anticipation) Subaru Akehoshi CG.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/subaruorigcg.jpg %}
 
 {% bubble Tetora %}
-Please, *please *forgive us.
+Please, *please* forgive us.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -615,18 +611,14 @@ Let's send our own shine to the whole world~!☆
 
 ## Chapter 4
 
-{% img Orihime and Hikoboshi - Chapter 8.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat4_1.jpg %}
 
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
-
-{% bubble Heading %}
-Several minutes later
-{% endbubble %}
+<div class="msr-narration">
+    <p>Several minutes later…</p>
+</div>
 
 {% bubble Hokuto %}
-<p dir="ltr">Right, looks like we've all finished our warmups.</p>
+Right, looks like we've all finished our warmups.
 
 It’s time we began our dance practice.
 {% endbubble %}
@@ -680,13 +672,13 @@ She's been chosen to plan an S1 event, after all — That's a big step up for he
 
 We have to celebrate for her sake. Though it is lonely, yeah…
 
-Actually, no-- Our repayment to her will be to shine to the fullest in Tanabata Festival.
+Actually, no— Our repayment to her will be to shine to the fullest in Tanabata Festival.
 {% endbubble %}
 
 {% bubble Subaru %}
 Mhm, mhm! Let's do our very best~ Starting with our dance practice!
 
-So, just like we always do it, the one who’s the best coaches for the rest, right? Sari~ isn't here, so I'm the best at dancing~! ☆
+So, just like we always do it, the one who’s the best coaches for the rest, right? Sally~ isn't here, so I'm the best at dancing~! ☆
 
 I had a feeling this'd happen, so I practiced the choreography at home! Watch closely — I'm about to show you how to do it~! ☆
 
@@ -728,7 +720,7 @@ Yep! Orihime and Hikoboshi were originally stars, after all.
 {% bubble Subaru %}
 Ah, I'm the only one dancing here, so you probably couldn’t tell.
 
-Look, this is my move--then this is yours, this is Ukki~'s, and this is Sari~'s!
+Look, this is my move—then this is yours, this is Ukki\~'s, and this is Sally\~'s!
 
 When you put them together… see?
 {% endbubble %}
@@ -766,7 +758,7 @@ And if we really want it to be known, we can tell them about it during the after
 {% endbubble %}
 
 {% bubble Subaru %}
-True~ Hehe, this really is lotsa fun~! Talking about the performance and practicing together is true happiness!
+True~ Heheh, this really is lotsa fun~! Talking about the performance and practicing together is true happiness!
 
 We haven’t been able to meet each other, right? It made me feel so lonely! But hopefully, we’ll have a great time together at the event!
 
@@ -784,24 +776,26 @@ Oh? You just called me an idiot, didn’t you? Ukki~, let ‘im have it!
 {% endbubble %}
 
 {% bubble Makoto %}
-Mhm, you were very mean just now~! Repent~♪
+Mhm, you were very mean just now\~! Repent\~♪
 {% endbubble %}
 
 {% bubble Hokuto %}
-Wha-- Yuuki, stop. Don’t do that weird “reflect light off glasses” trick. It’s blinding.
+Wha— Yuuki, stop. Don’t do that weird “reflect light off glasses” trick. It’s blinding.
 {% endbubble %}
 
 ## Chapter 5
 
 {% img Orihime and Hikoboshi - Chapter 9.png %}
 
-{% note location %}
-**Location:** Outside the Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dance room</span></p>
+</div>
 
-{% bubble Heading %}
-At the same time, outside the gym…
-{% endbubble %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat1_1.jpg %}
+
+<div class="msr-narration">
+    <p>A few hours ago…</p>
+</div>
 
 {% bubble Shinobu %}
 …We got scolded really badly.
@@ -820,7 +814,7 @@ It felt more like he was looking down on us… Rather than scared, I would say I
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe… I, once again, realize just how nice and considerate Taichou-dono is towards us.
+Fufu… I, once again, realize just how nice and considerate Taichou-dono is towards us.
 
 I feel like it has been a long time since I was last scolded.
 
@@ -860,51 +854,51 @@ Well… It *is* annoying to get told off without being able to say anything back
 {% endbubble %}
 
 {% bubble Midori %}
-(Tetora-kun's watching Trickstar practice… or maybe he’s just glaring at them…)
+<th>(Tetora-kun's watching Trickstar practice… or maybe he’s just glaring at them…)</th>
 
-(He's really hot-blooded — He might go pick a fight with them if we don't keep an eye on him…)
+<th>(He's really hot-blooded — He might go pick a fight with them if we don't keep an eye on him…)</th>
 
-(We're gonna have to stop him if that happens… Sengoku-kun's not strong enough to do it, so it has to be me…)
+<th>(We're gonna have to stop him if that happens… Sengoku-kun's not strong enough to do it, so it has to be me…)</th>
 
-(All of this has been tiring, but, honestly… I'm sure if I go home now, I'll just feel more and more irritated… I have to get rid of this feeling before I go to sleep tonight…)
+<th>(All of this has been tiring, but, honestly… I'm sure if I go home now, I'll just feel more and more irritated… I have to get rid of this feeling before I go to sleep tonight…)</th>
 
-(Otherwise, I'll feel even more depressed, and start wanting to die…)
+<th>(Otherwise, I'll feel even more depressed, and start wanting to die…)</th>
 
-(But really, Tetora-kun's making a super scary face… What's he thinking about…? Please spare us from a fight…)
+<th>(But really, Tetora-kun's making a super scary face… What's he thinking about…? Please spare us from a fight…)</th>
 {% endbubble %}
 
 {% bubble Tetora %}
-(Wow… They're amazing. It may seem like they're just playing around, but they're actually practicing properly.)
+<th>(Wow… They're amazing. It may seem like they're just playing around, but they're actually practicing properly.)</th>
 
-(They’re making sure to get every dance move right, asking each other for opinions, and then brushing up the entire choreography.)
+<th>(They’re making sure to get every dance move right, asking each other for opinions, and then brushing up the entire choreography.)</th>
 
-(Though if you only heard them talk, it’d sound like they were just goofing around.)
+<th>(Though if you only heard them talk, it’d sound like they were just goofing around.)</th>
 
-(No — These people are dead serious. They know their goal, and they're heading towards it as one.)
+<th>(No — These people are dead serious. They know their goal, and they're heading towards it as one.)</th>
 
-(Everything they do leads them towards the proper path… that's how they manage to give off a bright radiance — enough to light the whole world.)
+<th>(Everything they do leads them towards the proper path… that's how they manage to give off a bright radiance — enough to light the whole world.)</th>
 
-(That's Trickstar — the ones behind this school’s revolution. Our representatives for SS.)
+<th>(That's Trickstar — the ones behind this school’s revolution. Our representatives for SS.)</th>
 
-(I'm a first year, so I didn't really get all this “revolution” and “being the representatives of the school” stuff…)
+<th>(I'm a first year, so I didn't really get all this “revolution” and “being the representatives of the school” stuff…)</th>
 
-(That’s why I thought they were messing around whenever I saw them — but it was never like that at all. They're actually really incredible.)
+<th>(That’s why I thought they were messing around whenever I saw them — but it was never like that at all. They're actually really incredible.)</th>
 
-(They're working their hardest as idols, and even stood once at the top of all of Yumenosaki. There’s just no way you can become the representatives of a school through dumb luck.)
+<th>(They're working their hardest as idols, and even stood once at the top of all of Yumenosaki. There’s just no way you can become the representatives of a school through dumb luck.)</th>
 
-(It's the same as Karate… There’s no such thing as “winning by chance” in a fierce match.)
+<th>(It's the same as Karate… There’s no such thing as “winning by chance” in a fierce match.)</th>
 
-(Then you have us… We lost on our first match in DDD, and we kinda kept on doing badly after that.)
+<th>(Then you have us… We lost on our first match in DDD, and we kinda kept on doing badly after that.)</th>
 
-(Though nowadays, we'd been getting more recognition, and slowly producing better results.)
+<th>(Though nowadays, we'd been getting more recognition, and slowly producing better results.)</th>
 
-(But I wasn't meant to be satisfied with that —the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)
+<th>(But I wasn't meant to be satisfied with that —the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)</th>
 
-(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)
+<th>(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)</th>
 {% endbubble %}
 
 {% bubble Midori %}
-(I-It’s going to be okay, right…? Please don't move around like that, Tetora-kun… Please…)
+<th>(I-It’s going to be okay, right…? Please don't move around like that, Tetora-kun… Please…)</th>
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -915,7 +909,7 @@ Hey, Ryuseitai kids. We're gonna get distracted if you keep staring at us.
 Eeek!! A-Akehoshi-dono, I deeply apologize for not leaving as you told us to!
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru frown %}
 Mm. No… I let my anger get to me, and just lashed out… I'm sorry for that. It's not like you guys did anything wrong.
 
 You're gonna start feeling hot if you stay here.
@@ -925,21 +919,17 @@ If you plan on learning from us, come back inside. We’d be in hot water too if
 Chi~chan-senpai would get furious with me. I saw him angry like that once, and it was seriously terrifying.
 {% endbubble %}
 
-{% bubble Midori %}
-……
+{% bubble Midori curious %}
+…………
 {% endbubble %}
 
 ## Chapter 6
 
-{% img Orihime and Hikoboshi - Chapter 10.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat6_1.jpg %}
 
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
-
-{% bubble Heading %}
-Back to the present time
-{% endbubble %}
+<div class="msr-narration">
+    <p>Back to the present time…</p>
+</div>
 
 {% bubble Mao %}
 …Hm. Alright, I think I've gotten the gist of it.
@@ -981,15 +971,15 @@ If we show ourselves like *this*, we'd be booed off the stage. We'd have failed 
 We wouldn’t be fit to call ourselves idols.
 {% endbubble %}
 
-{% bubble Subaru %}
-…
+{% bubble Subaru serious %}
+…………
 {% endbubble %}
 
 {% bubble Mao %}
-Oh? Is something wrong, Subaru-san?
+Oh? Is something wrong, Subaru sir?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru serious %}
 Why’re you suddenly speaking politely… No, it's just as you said. I agree.
 
 Sorry. I was reminded of what happened in the past, and got angry.
@@ -1032,7 +1022,7 @@ We wouldn’t have been able to fail and grow from this experience if that happe
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe, that sounds similar to Taichou-dono.
+Heheh, that sounds similar to Taichou-dono.
 
 He always takes good care of us and leads us, so that we never fail.
 
@@ -1056,13 +1046,13 @@ Ahaha, that just sounds like you’re getting married to him.
 {% endbubble %}
 
 {% bubble Midori %}
-(Huh… Thank God, everything's peaceful…)
+<th>(Huh… Thank God, everything's peaceful…)</th>
 
-(Isara-senpai’s amazing… There's no way I could do something like that… I wonder what makes him different to me…? Was he born with a special trait…?)
+<th>(Isara-senpai’s amazing… There's no way I could do something like that… I wonder what makes him different to me…? Was he born with a special trait…?)</th>
 
-(I wish God gave me what he has, instead of “pretty looks”…)
+<th>(I wish God gave me what he has, instead of “pretty looks”…)</th>
 
-(This sucks… I'm just paper mache—I'm completely hollow inside…)
+<th>(This sucks… I'm just paper mache—I'm completely hollow inside…)</th>
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1078,23 +1068,17 @@ For goodness’ sake… He may look strong because of his build, but he's pretty
 {% endbubble %}
 
 {% bubble Subaru %}
-Huh--!? I didn't do that! …I think.
+Huh—!? I didn't do that! …I think.
 {% endbubble %}
 
 ## Chapter 7
-
-{% img Orihime and Hikoboshi - Chapter 11.png %}
-
-{% note location %}
-**Location:** Dance Room
-{% endnote %}
 
 {% bubble Subaru %}
 Well, see… We told the kids to come back inside to watch us practice, right?
 
 But then we thought they'd get bored just doing that, so we made them practice with us.
 
-I mean, they wouldn't learn anything just by watching, after all. And the kid with the bangs *really *looked like he wanted to join in with the dancing.
+I mean, they wouldn't learn anything just by watching, after all. And the kid with the bangs *really* looked like he wanted to join in with the dancing.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1146,7 +1130,7 @@ And still he kept on talking to me like I was just messing around… I’m so an
 {% endbubble %}
 
 {% bubble Subaru %}
-Huh--? S-sorry, Takamin! Did I put too much pressure on you?
+Huh—? S-sorry, Takamin! Did I put too much pressure on you?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1184,7 +1168,7 @@ Thanks!
 
 Wait, we shouldn't just keep complimenting each other… We won't get anything done if we keep on chatting, so let's start practice for real now.
 
-Oh wait, that’s right-- I heard about this while I was dealing with the event preparations, but apparently there's a festival going on in the neighboring town today.
+Oh wait, that’s right— I heard about this while I was dealing with the event preparations, but apparently there's a festival going on in the neighboring town today.
 
 If it’s alright with you guys, wanna go together? You’ve been wanting to do something like that, yeah? So it's just the perfect timing~♪
 {% endbubble %}
@@ -1226,16 +1210,20 @@ Were us, Trickstar — us, who carried out the revolution… right?
 
 That's the sort of Trickstar I love.
 
-*They're *the ones who saved me in the past—the me who did nothing but work so he could be useful to others, and whose only reward was the praise of adults.
+*They're* the ones who saved me in the past—the me who did nothing but work so he could be useful to others, and whose only reward was the praise of adults.
 {% endbubble %}
 
 ## Chapter 8
 
-{% img Orihime and Hikoboshi - Chapter 12.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> School Route</span></p>
+</div>
 
-{% note location %}
-**Location:** School Route
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat8_1.jpg %}
+
+<div class="msr-narration">
+    <p>A few hours ago…</p>
+</div>
 
 {% bubble Shinobu %}
 Isara-dono~ Over here, over here! I can see the festival~♪
@@ -1290,7 +1278,7 @@ Why're you acting like this all of a sudden? You're usually a well-behaved kid�
 {% endbubble %}
 
 {% bubble Shinobu %}
-…
+…………
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1300,7 +1288,7 @@ Sengoku? Why'd you go quiet? D-Don’t worry, I'm not angry at you, okay?
 {% bubble Shinobu %}
 Isara-dono, you—
 
-… Mm. Nevermind, it is nothing.
+…Mm. Nevermind, it is nothing.
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1316,13 +1304,13 @@ You better start saying it, you~! I'll punish you with tickles if you don't!
 {% endbubble %}
 
 {% bubble Shinobu %}
-Eeek—Nihahaha!! ☆ I give, I give~! Do not tickle me~!
+Eeek—Nihahaha!! ☆ I give, I give\~! Do not tickle me\~!
 {% endbubble %}
 
 {% bubble Mao %}
-Bwahaha! You're a *ninja! *You should have the discipline to withstand torture~!
+Bwahaha! You're a *ninja!* You should have the discipline to withstand torture~!
 
-Maybe *this*’ll make you admit defeat~! Tickle tickle~♪
+Maybe *this*’ll make you admit defeat\~! Tickle tickle\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1336,7 +1324,7 @@ It's seriously summer now — it's super humid even at night!
 {% endbubble %}
 
 {% bubble Shinobu %}
-*Huff… Huff… *Ahh… I thought I was going to die…
+*Huff… Huff…* Ahh… I thought I was going to die…
 
 …Isara-dono, I really respect you.
 {% endbubble %}
@@ -1393,23 +1381,24 @@ Makes me a little nervous, since I’m still not doing everything properly. I go
 Everyone around me is shining so brightly, after all. I gotta keep working hard and not fall behind, else I'll just disappear into the crowd.
 {% endbubble %}
 
-{% img (Tanabata Declaration) Shinobu Sengoku CG.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/shinobuorigcg.jpg %}
 
 {% bubble Shinobu %}
 Isara-dono! Look, look! It is the Milky Way! We can see it even when it is not Tanabata yet, huh?
 {% endbubble %}
 
 {% bubble Mao %}
-Ooh, you're right! It's so pretty… Ah, that reminds me-- there might be a cloudy weather on the day of Tanabata Festival, so we may not be able to see it then.
+Ooh, you're right! It's so pretty… Ah, that reminds me— there might be a cloudy weather on the day of Tanabata Festival, so we may not be able to see it then.
 
 That's why we should admire the scenery now as much as we can.
 
-Actually-- Both “Trickstar” and “Ryuseitai” have the word “star”[^5]…
+Actually— Both “Trickstar” and “Ryuseitai” have the word “star”[^5]…
 
 If we were to gather together, I'm sure *we* could become a shining, sparkling Milky Way.
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /orihime_and_hikoboshi/cloudy_sky,, arrow-left, Previous Chapter: Cloudy Sky %}
 {% btn /orihime_and_hikoboshi,, star, Index %}
 {% btn /orihime_and_hikoboshi/living_sunshine,, arrow-right, Next Chapter: Living Sunshine %}
@@ -1417,7 +1406,7 @@ If we were to gather together, I'm sure *we* could become a shining, sparkling M
 
 ## Translation Notes
 [^1]: Tetora says the word *budou* for Karate, and Midori misunderstands it as *budou* for grapes, hence why he responds back in confusion. I tried to give the English version a similar feel.
-[^2]: Subaru’s “intestines” line is a reference to what he said in Rocket Start - Set Theory 5.
+[^2]: Subaru’s “intestines” line is a reference to what he said in [Rocket Start](https://ensemble-stars.fandom.com/wiki/Rocket_Start) - Set Theory 5.
 [^3]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^4]: In Japan, it’s common for working adults to have “drinking get-togethers,” which is basically a way for them to get to know each other.
-[^5]: The “sei” in Ryuseitai means “star”.
+[^5]: “Ryuseitai” lit. means shooting star/meteor squad, and the *sei* in Ryuseitai means “star”.

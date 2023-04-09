@@ -52,11 +52,11 @@ hidden: true
 
 <!-- more -->
 
-{% img Orihime and Hikoboshi - Prologue.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Library</span></p>
+</div>
 
-{% note location %}
-**Location:** Library
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/prologue1_1.jpg %}
 
 {% bubble Mao %}
 ‘Sup, transfer student! How’s the the summer S1 event proposal going?
@@ -67,7 +67,7 @@ We’re not allowed to photocopy these, so hand them back once you’re done rea
 
 Huh? What’s wrong, transfer student? Give me a response~ I’m gonna feel lonely~♪
 
-(Hmm? She may not talk much, but she isn’t heartless… Is she so desperate to complete the proposal that she hasn’t noticed me?)
+<th>(Hmm? She may not talk much, but she isn’t heartless… Is she so desperate to complete the proposal that she hasn’t noticed me?)</th>
 
 Hello? Hey! Transfer student~!
 
@@ -137,7 +137,7 @@ Isara-dono~☆
 {% endbubble %}
 
 {% bubble Mao %}
-Woah!! What the-- What’s wrong, Sengoku? Need something?
+Woah!! What the— What’s wrong, Sengoku? Need something?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -179,7 +179,7 @@ C’mon, Anzu. Trying to heal yourself through Sengoku is understandable and all
 {% bubble Shinobu %}
 You just confessed your true thoughts! I suppose even you would be in puberty, Isara-dono!
 
-Ack~!!! Ninjas are not mascot characters, so I do not have any aspiration to heal people~!
+Agh\~!!! Ninjas are not mascot characters, so I do not have any aspiration to heal people\~!
 
 H-Help me, Isara-dono~!
 {% endbubble %}

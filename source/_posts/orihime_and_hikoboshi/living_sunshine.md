@@ -69,17 +69,23 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /orihime_and_hikoboshi/threat_of_rain,, arrow-left, Previous Chapter: Threat of Rain %}
+{% btn /orihime_and_hikoboshi,, star, Index %}
+{% btn /orihime_and_hikoboshi/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 1
 
-{% img Orihime and Hikoboshi - Chapter 13.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
 
-{% note location %}
-**Location:** Running Grounds
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/living1_1.jpg %}
 
-{% bubble Heading %}
-One week later — The day of Tanabata Festival
-{% endbubble %}
+<div class="msr-narration">
+    <p>One week later, the day of Tanabata Festival…</p>
+</div>
 
 {% bubble Chiaki %}
 Fuhahahahaha!
@@ -87,7 +93,7 @@ Fuhahahahaha!
 Sorry for making you wait, guys! Morisawa Chiaki has been revived in all his splendid glory! ☆
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 shinkai kanata has also been revived, as an extra~♪
 {% endbubble %}
 
@@ -97,12 +103,12 @@ You're not an extra, Kanata! A star can't take shape if one section is missing!
 Each comrade is important and irreplaceable—the five of us together are Ryuseitai…!
 {% endbubble %}
 
-{% bubble Kanata %}
-chiaki…! ☆ <em>(hugs him)</em>
+{% bubble Kanata v2 %}
+chiaki…! ☆ <em><th>(hugs him)</th></em>
 {% endbubble %}
 
 {% bubble Chiaki %}
-Kanata…! ☆ <em>(hugs back)</em>
+Kanata…! ☆ <em><th>(hugs back)</th></em>
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -133,7 +139,7 @@ No, it would've been way more bothersome if you came over while you were feeling
 Anyway, I get why *you* weren’t around, but why didn't Shinkai-senpai show up?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ufufu~ i am sorry, was it lonely?
 
 you see, chiaki kept trying to come and see you three, no matter how many times people told him not to go…
@@ -142,10 +148,10 @@ so i had no choice but to abduct and confine him.
 {% endbubble %}
 
 {% bubble Tetora %}
-Uh-- Huh!? What did you just say!?
+Uh— Huh!? What did you just say!?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 i abducted and confined him~♪
 {% endbubble %}
 
@@ -167,17 +173,17 @@ Yeah. I wasn't allowed to go outside, but there were no other constraints.
 Kanata's home is isolated—I felt like I was living the life of Urashima Tarou when he stayed in the Dragon Palace.[^2]
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufufu\~ sea breams and flounders showed him a dance~[^3] <em>puka puka\~♪</em>
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hehe. The people in his home treat him very preciously, like a god, so they didn't like it when he was around me…
+Heheh. The people in his home treat him very preciously, like a god, so they didn't like it when he was around me…
 
 …Did I end up causing you trouble, Kanata?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 not at all~ it would have been much more troublesome if you died from illness. let me save you every once in a while… hero~♪
 {% endbubble %}
 
@@ -187,8 +193,8 @@ Ahhh… Morisawa-senpai didn't listen to what the doctor said and tried to come 
 Good work, Senpai~♪
 {% endbubble %}
 
-{% bubble Midori %}
-For real, good work… Gosh, Morisawa-senpai's *such *a handful…♪
+{% bubble Midori awkward %}
+For real, good work… Gosh, Morisawa-senpai's *such* a handful…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -197,7 +203,7 @@ What!? I'm the victim here, but you're talking to me like I'm the one who did so
 But you're right! I should be listening to what my doctor says!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 that's right~ and you got to experience a pretty good life in there — i almost want you to thank me.
 
 fufu, i always have to do beach opening ceremonies in summer, which is a nuisance, but i felt much happier with chiaki around.
@@ -241,14 +247,8 @@ Ahaha, I am happy to know my ninja techniques were useful for once! I usually ne
 
 ## Chapter 2
 
-{% img Orihime and Hikoboshi - Chapter 14.png %}
-
-{% note location %}
-**Location:** Running Grounds
-{% endnote %}
-
 {% bubble Shinobu %}
-Hehe, my apologies, everyone…
+Heheh, my apologies, everyone…
 
 We were told that we should do our best without relying on Taichou-dono. Thus, I hid the fact that I was contacting him.
 
@@ -268,11 +268,11 @@ Will you shut up… It’s so suffocating… I wish you didn't come back until s
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hehe, that aside… After I’d recuperated, I practiced with Kanata. We should be able to perform properly in the event.
+Heheh, that aside… After I’d recuperated, I practiced with Kanata. We should be able to perform properly in the event.
 
 Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
 
-Actually, no-- Let's do our best together, as we always do, Ryuseitai! *All for one, one for all!*
+Actually, no— Let's do our best together, as we always do, Ryuseitai! *All for one, one for all!*
 {% endbubble %}
 
 {% bubble Midori %}
@@ -282,13 +282,13 @@ Us three just can't do well without both of you here…
 {% endbubble %}
 
 {% bubble Tetora %}
-But we *did *manage to get through it by ourselves. We practiced really hard with Trickstar.
+But we *did* manage to get through it by ourselves. We practiced really hard with Trickstar.
 
-In fact, you two might’ve been in the way if you were around. I kinda *wanted *you to stay away~♪
+In fact, you two might’ve been in the way if you were around. I kinda *wanted* you to stay away~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-What did you just say, you little~!! I’m not giving away my chance on the stage! I've been yearning to stand on top of it this whole time, you know~!
+What did you just say, you little rascal\~!! I’m not giving away my chance on the stage! I've been yearning to stand on top of it this whole time, you know\~!
 
 I'll be up there no matter what it takes! I'll shine as part of Ryuseitai!
 
@@ -307,7 +307,7 @@ Ohh, you're doing a stall again!? I feel like it's become a custom of ours now!
 It's just like Ryuseitai! I like it! Ahh, this brings me back… Mikejima-san used to invite me to help out in stalls pretty often, last year…♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 yes, he used to invite me to festivals too when we were young. that is the only thing about him that has not changed since he was a child.
 {% endbubble %}
 
@@ -320,7 +320,7 @@ We would like to sell a lot, and repay them with the profits.
 {% endbubble %}
 
 {% bubble Midori %}
-Hehehe, Trickstar stuff is so cute… Anzu-san made them all…
+Heheheh, Trickstar stuff is so cute… Anzu-san made them all…
 
 I got a sample of “Orihime-kun and Hikoboshi-chan”[^4]…♪
 {% endbubble %}
@@ -329,7 +329,7 @@ I got a sample of “Orihime-kun and Hikoboshi-chan”[^4]…♪
 Orihime and Hikoboshi? That's definitely Tanabata-related, but it doesn't really have anything to do with Trickstar!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 where *is* trickstar right now? we would like to thank them for taking care of you three.
 {% endbubble %}
 
@@ -359,7 +359,7 @@ Are we really…? Everyone here is so into this event… It's said that it has t
 Ahaha. We have to work hard, or we will be buried by everyone else~
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 okay, then let's do that. it will be okay, the five of us together are invincible~♪
 {% endbubble %}
 
@@ -380,15 +380,15 @@ I'll never separate myself from you guuuuuysss!! ☆
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ack~! Please do not hug me! The summer is like hell itself—it is so sweaty and hot~!
+Ack\~! Please don't hug me! The summer is like hell itself—it is so sweaty and hot\~!
 {% endbubble %}
 
-{% bubble Kanata %}
-then let's bathe in the water~♪ it will relieve you and make you feel refreshed~
+{% bubble Kanata v2 %}
+then let's bathe in the water\~♪ it will relieve you and make you feel refreshed\~
 {% endbubble %}
 
 {% bubble Tetora %}
-Where'd you get that bucket from, Shinkai-senpai!? I see water in there—if you dump that on us we'll *all *get sick!
+Where'd you get that bucket from, Shinkai-senpai!? I see water in there — If you dump that on us we'll *all* get sick!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -405,15 +405,15 @@ However, when it comes to the stage, I will prefer to simply be with my comrades
 
 ## Chapter 3
 
-{% img (Tanabata Play) Mao Isara CG.png %}
-
-{% note location %}
-**Location:** Running Grounds
+{% note cw %}
+**Content Warning:** The following chapters contain jokes about sexual harrassment.
 {% endnote %}
 
-{% bubble Warning %}
-Jokes about sexual harrassment within.
-{% endbubble %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
+
+{% img /img/es/eventstory/orihimeandhikoboshi/maoorigcg.jpg %}
 
 {% bubble Mao %}
 Right, this should be good.
@@ -434,7 +434,7 @@ Alright, alright~ Back in spring, you used to get nervous whenever you tried to 
 
 That just means you’re growing up, too. Mhm, you’re now like a confident, reliable mom~♪
 
-Woah woah--!! Don’t shake the step ladder!! Oh no, no, no--!! I’m sorry, I’m sorry!
+Woah woah—!! Don’t shake the step ladder!! Oh no, no, no—!! I’m sorry, I’m sorry!
 
 Please don’t be angry, Anzu-san!! You don’t speak when you’re mad, so it’s even more terrifying, y’know!?
 
@@ -448,7 +448,7 @@ S-Sorry for teasing you! I shouldn’t crack jokes with you as if I’m talking 
 
 Ughh, I wanna prostrate and apologize to you, but I can’t! I’m still on top of the ladder!
 
-… Huh? You’re going to be okay? You sure~?
+…Huh? You’re going to be okay? You sure~?
 
 Don’t push yourself so hard… You don’t have to hold it in. If there’s something you wanna say, go ahead and say it. I’m kinda dense, so… I’ll only get it if you tell me.
 
@@ -466,41 +466,41 @@ They acknowledge you as a respectable person, who can guide us all.
 
 So c’mon, don’t make that face. Don’t talk about yourself that way. Be more proud of yourself~ This is something worth boasting about.
 
-… Anzu? Uh!? Are you crying for real now!?
+…Anzu? Uh!? Are you crying for real now!?
 
-H-Hold on, I’ll climb down right now! Just gimme a sec—Woah--!!
+H-Hold on, I’ll climb down right now! Just gimme a sec—Woah—!!
 
-(Crap, no!! I rushed too much — I’m losing my balance! I’m gonna fall…!)
+<th>(Crap, no!! I rushed too much — I’m losing my balance! I’m gonna fall…!)</th>
 
-(Ahh, no, you--! She leaped forward—Is she trying to catch me so I won’t get hurt…?)
+<th>(Ahh, no, you—! She leaped forward—Is she trying to catch me so I won’t get hurt…?)</th>
 
-(No, I’m okay! I can land just fine, so back away!)
+<th>(No, I’m okay! I can land just fine, so back away!)</th>
 
-(—Ack!! I’m gonna crash into her!!)
+<th>(—Ack!! I’m gonna crash into her!!)</th>
 
-…Gffh--! S-Sorry, Anzu! I’ll get off you immediately!
+…Gffh—! S-Sorry, Anzu! I’ll get off you immediately!
 
-(Woah… Was a girl’s body always this warm and soft…)
+<th>(Woah… Was a girl’s body always this warm and soft…)</th>
 
-(Wait—This isn’t the time to be fascinated by this.)
+<th>(Wait—This isn’t the time to be fascinated by this.)</th>
 
-(I hear footsteps--!! Oh no, this is *really* bad! If someone saw us like this--)
+<th>(I hear footsteps—!! Oh no, this is *really* bad! If someone saw us like this—)</th>
 {% endbubble %}
 
 {% bubble Subaru %}
-Yooo, Sari~! You done with your work? Ryuseitai asked us if we could rehearse with them while we still have time, so--
+Yooo, Sally~! You done with your work? Ryuseitai asked us if we could rehearse with them while we still have time, so—
 
 Ooh?
 {% endbubble %}
 
 {% bubble Mao %}
-……
+……………
 
 …Um. It’s not what you think, Subaru. This was all an accident. Please believe me.
 {% endbubble %}
 
 {% bubble Subaru %}
-Hey, guys… Come over here. Sari~ pushed Anzu down.
+Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -516,22 +516,12 @@ Nooo!! It really was an accident! Don't look at me like that! Dammit, how does t
 
 C’mon, Anzu! Don't laugh! Tell them the truth!!
 
-(…Huh? I thought she was crying, but she’s actually smiling? Was I just imagining her cry…?)
+<th>(…Huh? I thought she was crying, but she’s actually smiling? Was I just imagining her cry…?)</th>
 
-(……?)
+<th>(……?)</th>
 {% endbubble %}
 
 ## Chapter 4
-
-{% img Orihime and Hikoboshi - Chapter 16.png %}
-
-{% note location %}
-**Location:** Running Grounds
-{% endnote %}
-
-{% bubble Warning %}
-Jokes about sexual harrassment within.
-{% endbubble %}
 
 {% bubble Mao %}
 Um, I'll get off of you now, so… A-Are you hurt anywhere?
@@ -540,11 +530,11 @@ Um, I'll get off of you now, so… A-Are you hurt anywhere?
 {% endbubble %}
 
 {% bubble Subaru %}
-Oooh, there it is! Sari~'s specialty! The most magnificent prostration we’ve seen all summer! ☆
+Oooh, there it is! Sally~'s specialty! The most magnificent prostration we’ve seen all summer! ☆
 {% endbubble %}
 
 {% bubble Makoto %}
-Hehe. You can pretty much tell it was an accident, anyway. The step ladder’s tipped over.
+Heheh. You can pretty much tell it was an accident, anyway. The step ladder’s tipped over.
 
 But someone could’ve seen this… Both of you could’ve gotten hurt, so be more careful, okay?
 {% endbubble %}
@@ -552,7 +542,7 @@ But someone could’ve seen this… Both of you could’ve gotten hurt, so be mo
 {% bubble Hokuto %}
 Y-yeah, we can't let that happen.
 
-… Was it really alright, Anzu? Isara didn't go on a puberty-induced rampage, did he?
+…Was it really alright, Anzu? Isara didn't go on a puberty-induced rampage, did he?
 {% endbubble %}
 
 {% bubble Mao %}
@@ -612,9 +602,9 @@ I mean, Orihime and Hikoboshi are happy enough just knowing they can rendezvous 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Isara-dono~! I mean-- Everyone from Trickstar! We have acquired a place for our rehearsals, so I will take you over there! ♪
+Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our rehearsals, so I will take you over there! ♪
 
-… Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
+…Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
 {% endbubble %}
 
 {% bubble Mao %}
@@ -626,7 +616,7 @@ Nay! You need not to explain it to me, I understand what it is. I am not a child
 
 What comes after bonding as friends is—
 
-Wha--? Anzu-dono? Why are you tugging at my clothes?
+Wha—? Anzu-dono? Why are you tugging at my clothes?
 
 Huh? You are worried about my clothes seam? W-wait! I would rather you fix it after I have removed my clothes! I do not want to be pricked by the needle! It is scary~!
 {% endbubble %}
@@ -636,7 +626,7 @@ Ahaha, you're already wearing your outfit for the event, Shinobu-kun? Anzu-chan 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Heheh~♪ That is correct! She has carefully crafted it!
+Heh~♪ That is correct! She has carefully crafted it!
 
 Each and every part is different in some way — It is extremely elaborate! Truly respectable!
 
@@ -690,6 +680,7 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /orihime_and_hikoboshi/threat_of_rain,, arrow-left, Previous Chapter: Threat of Rain %}
 {% btn /orihime_and_hikoboshi,, star, Index %}
 {% btn /orihime_and_hikoboshi/epilogue,, arrow-right, Next Chapter: Epilogue %}
@@ -699,7 +690,7 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 [^1]: It’s left ambiguous in the story, but Chiaki’s likely referring to something like the influenza.
 [^2]: Urashima Tarō is the protagonist of the Japanese fairytale, *The Story of Urashima Tarou*, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
 [^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, [he’s singing the folk song for it](https://www.youtube.com/watch?v=0IuLZo3cvcs).
-[^4]: Midori’s likely referring to [these mascot characters](https://www.city.hirakata.osaka.jp/0000003674.html).
+[^4]: Midori’s likely referring to [these mascot characters](https://www.yurugp.jp/jp/vote/detail.php?id=00003111). Interesting enough, maybe to avoid copyright, they switched the -kun and -chan around.
 [^5]: Tanzaku are strips of paper you write your wish on for Tanabata.
 [^6]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^7]: Kenpo is a Japanese martial art.

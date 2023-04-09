@@ -211,50 +211,34 @@ permalink: orihime_and_hikoboshi/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/kanataorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakiorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
                                     <img src="/img/es/eventstory/orihimeandhikoboshi/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Cloudy Sky 4
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/subaruorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Threat of Rain 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/shinobuorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Threat of Rain 8
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/maoorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Living Sunshin 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -262,15 +246,31 @@ permalink: orihime_and_hikoboshi/
                                     <img src="/img/es/eventstory/orihimeandhikoboshi/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 3
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/orihimeandhikoboshi/kanatabcg.jpg">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/subarubcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 3
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/shinobubcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Epilogue 4
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/orihimeandhikoboshi/maobcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Epilogue 4
                                 </div>
                             </div>
                         </div>

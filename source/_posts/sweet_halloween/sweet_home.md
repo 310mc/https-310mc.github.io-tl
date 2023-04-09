@@ -248,7 +248,7 @@ Even when I care for you this deeply—! Sweet darling daughter, are you rebelli
 ## Chapter 2
 
 {% bubble Chiaki %}
-Hm… So what I’m getting from this is that Nito’s and… Mashiro-kun’s[^2] pants are switched?
+Hm… So what I’m getting from this is that Nito’s and… Mashiro-kun’s pants are switched?
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -922,7 +922,7 @@ This is the best I can do…!! I’m copying this bunny next to me!
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh yeah, mimicking an animal’s movement makes sense. That’s the secret behind Kenpo.[^3]
+Oh yeah, mimicking an animal’s movement makes sense. That’s the secret behind Kenpo.[^2]
 
 I’ve practiced that plenty of times to grow stronger. Like the Monkey Fist style or the Praying Mantis Fist style~♪
 {% endbubble %}
@@ -1042,5 +1042,4 @@ It frustrates me… I feel so pathetic… I’m not even some *normal* kid at th
 
 ## Translation Notes
 [^1]: Hajime’s tone here sounds like parental scolding, hence Tomoya’s retort.
-[^2]: The slight pause is likely because he was trying to recall Tomoya’s name.
-[^3]: Kenpo is a Japanese martial arts.
+[^2]: Kenpo is a Japanese martial arts.

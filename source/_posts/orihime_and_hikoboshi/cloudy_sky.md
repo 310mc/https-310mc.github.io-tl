@@ -65,17 +65,23 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /orihime_and_hikoboshi/prologue,, arrow-left, Previous Chapter: Prologue %}
+{% btn /orihime_and_hikoboshi,, star, Index %}
+{% btn /orihime_and_hikoboshi/threat_of_rain,, arrow-right, Next Chapter: Threat of Rain %}
+</div>
+
 ## Chapter 1
 
-{% img Orihime and Hikoboshi - Chapter 1.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_1.jpg %}
 
-{% bubble Heading %}
-Next day — After class, during Basketball Club activities
-{% endbubble %}
+<div class="msr-narration">
+    <p>Next day — After class, during Basketball Club activities…</p>
+</div>
 
 {% bubble Chiaki %}
 Defense, defense~☆
@@ -86,7 +92,7 @@ Burn the flames of your soul red! Make a large river with the sweat of your yout
 {% endbubble %}
 
 {% bubble Subaru %}
-Hey, hey Sari~ If you don’t plan on drinking that, then give it to me! I'm feeling really thirsty from the heat! ♪
+Hey, hey Sally~ If you don’t plan on drinking that, then give it to me! I'm feeling really thirsty from the heat! ♪
 {% endbubble %}
 
 {% bubble Mao %}
@@ -108,7 +114,7 @@ Woah, nice defense! Buchou, you're not that tall but you make up for it by being
 {% endbubble %}
 
 {% bubble Chiaki %}
-Heheh~♪ Overcoming your weaknesses is what it means to be a hero~☆
+Heheh\~♪ Overcoming your weaknesses is what it means to be a hero\~☆
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -225,15 +231,15 @@ Mm… Sounds even more suspicious now… But whatever… I don't really wanna be
 
 ## Chapter 2
 
-{% img Orihime and Hikoboshi - Chapter 2.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Cafe</span></p>
+</div>
 
-{% note location %}
-**Location:** Cafe
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy2_1.jpg %}
 
-{% bubble Heading %}
-A few hours later
-{% endbubble %}
+<div class="msr-narration">
+    <p>A few hours later…</p>
+</div>
 
 {% bubble Mao %}
 So, what did you want to talk about?
@@ -360,9 +366,9 @@ I'll also take care of any expenses you need once I'm back in shape.
 {% bubble Mao %}
 Hm… That's actually a big help. Since we haven’t been able to do much lately, we’re getting low on funds, so it’s honestly a godsend.
 
-(If this was a request from the Student Council Prez, I would assume there was something bigger behind it all… But this is Buchou we're talking about, so I doubt he has an ulterior motive.)
+<th>(If this was a request from the Student Council Prez, I would assume there was something bigger behind it all… But this is Buchou we're talking about, so I doubt he has an ulterior motive.)</th>
 
-(In fact, this is really good for us—we won't lose out on anything.)
+<th>(In fact, this is really good for us—we won't lose out on anything.)</th>
 
 Hm, I don't really have any problems with this, but could I tell you how we feel about it once we've talked to Hokuto and Makoto?
 
@@ -399,18 +405,18 @@ I'm cheering you on, so do your very best. Don't worry — I'm certain you guys 
 
 ## Chapter 3
 
-{% img Orihime and Hikoboshi - Chapter 3.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 2-A</span></p>
+</div>
 
-{% note location %}
-**Location:** Classroom 2-A
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy3_1.jpg %}
 
-{% bubble Heading %}
-A few days later, early in the week
-{% endbubble %}
+<div class="msr-narration">
+    <p>A few days later, early in the week…</p>
+</div>
 
 {% bubble Subaru %}
-Hellooo, Chi~chan-senpai~? Iiit's Subaru! ☆
+Hellooo, Chi\~chan-senpai\~? Iiit's Subaru! ☆
 
 How’d your checkup go?
 
@@ -444,7 +450,7 @@ If this was Knights, I might've hesitated, but this is Ryuseitai we're talking a
 {% endbubble %}
 
 {% bubble Subaru %}
-You heard them! We're all pumped for this, so don't worry, Chi~chan-senpai~♪
+You heard them! We're all pumped for this, so don't worry, Chi\~chan-senpai\~♪
 
 Mhm mhm, so you’ll rest as much as you can, and come back as soon as possible?
 
@@ -456,7 +462,7 @@ We can’t contact him, either—not even Anzu knows his phone number.
 
 How’s he like? Would he join in on practice?
 
-Huh--? Chi~chan-senpai, you're in Shinkai-senpai's home? Why? Is that why I couldn't reach you by phone?
+Huh—? Chi~chan-senpai, you're in Shinkai-senpai's home? Why? Is that why I couldn't reach you by phone?
 
 W-What's going on…? You're not involved in something bad, right…?
 
@@ -516,7 +522,7 @@ I'll be in my prince mode for today, and treat you all like princesses.
 {% endbubble %}
 
 {% bubble Makoto %}
-Hehe, so it's not just me, but you guys, too… We're all hyper about this. Ahh~ It’s weird to see us like this~♪
+Heheh, so it's not just me, but you guys, too… We're all hyper about this. Ahh~ It’s weird to see us like this~♪
 
 If we end up having problems with our first-time experiences, we won't be able to properly face our all-time important event—the SS.
 
@@ -532,7 +538,7 @@ We'll go fetch Isara from Class 2-B, and head over there together.
 {% endbubble %}
 
 {% bubble Subaru %}
-Ah, Sari~ said he might not be able to join today.
+Ah, Sally~ said he might not be able to join today.
 
 The Tanabata Festival preparations are insanely rough, so he's going around dealing with it.
 {% endbubble %}
@@ -559,15 +565,15 @@ I think you're meteorites who walk and talk at the same time…
 
 ## Chapter 4
 
-{% img Orihime and Hikoboshi - Chapter 4.png %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
 
-{% note location %}
-**Location:** Running Grounds
-{% endnote %}
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_1.jpg %}
 
-{% bubble Heading %}
-A few hours later
-{% endbubble %}
+<div class="msr-narration">
+    <p>A few hours later…</p>
+</div>
 
 {% bubble Mao %}
 Alrighty, we finally finished carrying over the equipment.
@@ -590,27 +596,27 @@ Let’s keep at this — it may be rough work, but it’s all so that we can shi
 
 Ahaha, yeah! Hip-hip-hooray~! ♪
 
-(Whew… Thank God, the Student Council members are listening to what I say.)
+<th>(Whew… Thank God, the Student Council members are listening to what I say.)</th>
 
-(I’m a member of Trickstar, after all… We’re the ones who broke the Student Council’s influence.)
+<th>(I’m a member of Trickstar, after all… We’re the ones who broke the Student Council’s influence.)</th>
 
-(I wouldn’t blame them if they left me out of the group for being an “enemy.”)
+<th>(I wouldn’t blame them if they left me out of the group for being an “enemy.”)</th>
 
-(But instead, the Vice-prez was considerate and understanding of my position — he even vouches for me.)
+<th>(But instead, the Vice-prez was considerate and understanding of my position — he even vouches for me.)</th>
 
-(So they still accept me as another member, and I somehow got to stay in the Student Council.)
+<th>(So they still accept me as another member, and I somehow got to stay in the Student Council.)</th>
 
-(To be honest, I would just get to focus more on my idol work if they *did* kick me out, so that wouldn’t have been a problem either.)
+<th>(To be honest, I would just get to focus more on my idol work if they *did* kick me out, so that wouldn’t have been a problem either.)</th>
 
-(But the Prez and Vice-prez are working as hard as they can, which is helping the Student Council get its power back.)
+<th>(But the Prez and Vice-prez are working as hard as they can, which is helping the Student Council get its power back.)</th>
 
-(So, considering what could come next, I should keep at it with this “Student Council Member” title, anyway.)
+<th>(So, considering what could come next, I should keep at it with this “Student Council Member” title, anyway.)</th>
 
-(It’ll come in real handy when something like the revolution from spring happens again.)
+<th>(It’ll come in real handy when something like the revolution from spring happens again.)</th>
 
-(I don’t dislike Student Council work, anyway~ Even though it’s basically stuff no-one would wanna do.)
+<th>(I don’t dislike Student Council work, anyway~ Even though it’s basically stuff no-one would wanna do.)</th>
 
-(But I like stuff like that, soo~♪)
+<th>(But I like stuff like that, soo~♪)</th>
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -635,11 +641,27 @@ The practice session’s starting to look super bad! I apologize for interruptin
 W-woah, don't pull me over! Tell me what's happening first!
 {% endbubble %}
 
-{% img Orihime and Hikoboshi - Chapter 4 Scene Change.png %}
+{% bubble Shinobu %}
+Uuu…!!! I am a ninja who is bad at explanations…!
 
-{% bubble Heading %}
-Scene Change: Dance Room
+“One eyewitness is better than many hearsays,” so! I beg of you, lend your ear to my plea! Come see for yourself, please!
 {% endbubble %}
+
+{% bubble Mao %}
+I-I get it already, so calm down! Don’t drag me over! You’ll dislocate my arm!
+
+Y-You guys! I’m not sure what’s happening over there, but it seems urgent, so I’m gonna have to leave for a bit!
+
+Once you’re done resting, please keep working on the preparations like we discussed before!
+
+Sorry! I'll make it up to you guys later, so I’m counting on you now!
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Dance Room</span></p>
+</div>
+
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_2.jpg %}
 
 {% bubble Mao %}
 Uh, I'm coming in…?
@@ -647,45 +669,46 @@ Uh, I'm coming in…?
 What's going on, you guys? I was pulled over here by Sengoku all of a sudden… Could someone tell me what’s happening?
 {% endbubble %}
 
-{% img (Tanabata Awakening) Midori Takamine CG.png %}
+{% img /img/es/eventstory/orihimeandhikoboshi/midoriorigcg.jpg %}
 
-{% bubble Midori %}
-……
+{% bubble Midori pout %}
+…………
 {% endbubble %}
 
 {% bubble Mao %}
 Woah! W-what's wrong, Takamine? Why are you hunched over in the corner there…?
 {% endbubble %}
 
-{% bubble Midori %}
-*(mutter)* Why’d he have to go and tell me that… So annoying… This is why I didn't want this… *(mutter)*
+{% bubble Midori pout %}
+*<th>(mutter)</th>* Why’d he have to go and tell me that… So annoying… This is why I didn't want this… *<th>(mutter)</th>*
 {% endbubble %}
 
 {% bubble Mao %}
-(H-He's mumbling something! It's freaking me out!)
+<th>(H-He's mumbling something! It's freaking me out!)</th>
 
 S-seriously, what's wrong, Takamine~? You're much gloomier than usual!
 
 Anzu told me on the phone but~ I’m guessing it's because Buchou can’t be around for practice, yeah…?
 
-You're feeling lonely, right? Ahaha, you really do love Buchou~♪ You can't relax if he isn't hugging you every day, huh~?
+You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't relax if he isn't hugging you every day, huh\~?
 {% endbubble %}
 
-{% bubble Midori %}
-……
+{% bubble Midori sideeye %}
+…………
 {% endbubble %}
 
 {% bubble Mao %}
-(…!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)
+<th>(…!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)</th>
 
-(Really, though… I need to figure out what's going on. Why's it so gloomy in here?)
+<th>(Really, though… I need to figure out what's going on. Why's it so gloomy in here?)</th>
 
-(This is Trickstar and Ryuseitai we’re talking about — They’re both cheerful units!)
+<th>(This is Trickstar and Ryuseitai we’re talking about — They’re both cheerful units!)</th>
 
-(Just what on earth happened while I was gone…?)
+<th>(Just what on earth happened while I was gone…?)</th>
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /orihime_and_hikoboshi/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /orihime_and_hikoboshi,, star, Index %}
 {% btn /orihime_and_hikoboshi/threat_of_rain,, arrow-right, Next Chapter: Threat of Rain %}
@@ -693,4 +716,4 @@ You're feeling lonely, right? Ahaha, you really do love Buchou~♪ You can't rel
 
 ## Translation Notes
 [^1]: “I’m at a climax from start to end” is a reference to Kamen Rider Den-o.
-[^2]: *Atatte kudakeyou* is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.
+[^2]: In Japanese, *atatte kudakeyou* is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.
