@@ -82,7 +82,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            <a href="https://twitter.com/splafyoon">spoon</a>
                         </div>
                     </div>
                 </div>
@@ -620,7 +620,10 @@ hidden: true
                             <a href="dis_harmony" id="none">dis harmony</a>
                         </li>
                         <li>
-                            <a href="sweet_home" id="none">sweet home</a>
+                            <a href="sweet_home" id="none">sweet home<br>(Chapter 1–6)</a>
+                        </li>                        
+                        <li>
+                            <a href="sweet_home_p2" id="none">sweet home<br>(Chapter 7–11)</a>
                         </li>
                         <li>
                             <a href="lets_party" id="none">let's party!</a>
@@ -632,16 +635,16 @@ hidden: true
                 </div>
               <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>

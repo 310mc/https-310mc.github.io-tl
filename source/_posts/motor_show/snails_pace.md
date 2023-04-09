@@ -64,6 +64,9 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a>
 
+<div toc>
+{% btn /motor_show/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /motor_show,, star, Index %}{% btn /motor_show/muddy_road,, arrow-right, Next Chapter: Muddy Road %}</div>
+
 ## Chapter 1
 
 {% note cw %}
@@ -919,7 +922,7 @@ Uh, nobody mentioned that guy, though…? Besides, what’s dead is dead; we hav
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-Hold on a moment! He’s not actually dead, y’know…!?
+Hold on a moment! He isn’t actually dead, y’know…!?
 {% endbubble %}
 
 {% bubble Midori sigh %}

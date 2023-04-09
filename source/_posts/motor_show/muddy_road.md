@@ -68,6 +68,9 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a>
 
+<div toc>
+{% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
+
 ## Chapter 1
 {% note location %}
 **Location:** Time Street
@@ -968,6 +971,6 @@ Ossu! Guess I gotta show off a more senior side of myself, huh? I’ll do what I
 {% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
-[^9]: A reference to [Climax](https://euni2319.dreamwidth.org/8614.html).
+[^9]: A reference to [Climax](/climax).
 [^10]: Kuji is a series of hand signs ninjas tend to do. Here is an article on [kuji](https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/).
 [^11]: MDM happens at the end of August. It's shown in the first main story of ES!! era.

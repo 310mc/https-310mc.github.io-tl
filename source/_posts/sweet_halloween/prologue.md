@@ -52,6 +52,14 @@ hidden: true
 
 <!-- more -->
 
+{% note narration %}
+**Translation Note:** Chiaki talks in an informal/masculine manner with a lot of drama added to it. But in various parts of this story, he breaks his usual speech pattern, mostly from being spooked.
+{% endnote %}
+
+{% note narration %}
+It’s a little tricky to show that change in speech pattern in English, so I’ve decided to footnote the major ones. You can read more about each of them in the respective chapter’s T/L notes.
+{% endnote %}
+
 <div class="msr-location">
     <p><span><b>Location:</b> At the Bulletin Board</span></p>
 </div>
@@ -147,7 +155,7 @@ I may be bothering you right now, but please, let me pick them up for you…!
 {% endbubble %}
 
 {% bubble Hajime %}
-…Hehe~♪
+…Heheh~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -249,5 +257,5 @@ Wah-wah— Um, please don’t pat my head so roughly~!
 
 ## Translation Notes
 
-[^1]: Chiaki talks in an informal/masculine manner with a lot of drama added to it. But in various parts of this story, he breaks his usual speech pattern, mostly from being spooked. It’s a little tricky to show that change in speech pattern in English, so I’ve decided to footnote the major ones. You can read more about each of them in the respective chapter’s T/L notes, starting with this one. Here, he apologizes with *gomen* (polite sorry).
+[^1]: Here, he apologizes with *gomen* (polite sorry).
 [^2]: He switches back to *suman* (informal sorry, the usual he uses)

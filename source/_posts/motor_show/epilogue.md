@@ -68,6 +68,9 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a>
 
+<div toc>
+{% btn /motor_show/muddy_road,, arrow-left, Previous Chapter: Muddy Road %}{% btn /motor_show,, star, Index %}</div>
+
 ## Chapter 1
 
 {% note cw %}
@@ -95,11 +98,11 @@ Thank you, O'Heavenly Father, for blessing us with this opportunity.
 {% endbubble %}
 
 {% bubble Aira %}
-……
+…………
 {% endbubble %}
 
 {% bubble Mayoi %}
-……
+…………
 {% endbubble %}
 
 {% bubble Tatsumi %}
@@ -231,7 +234,7 @@ Let's. We’ll perform in a way that very much suits the spirit of Alkaloid. Eve
 {% img /img/es/eventstory/motorshow/ep2.jpg %}
 
 {% bubble Chiaki serious %}
-………
+…………
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -329,13 +332,13 @@ And I just happened to end up here! I shouldn’t get in the way of their work w
 {% bubble Kanata %}
 mhm, mhm, i know the truth. no need to come up with excuses. let’s go on stage with everyone, why don’t we?
 
-i’m sure you practiced for motor show’s performance anyway, didn’t you? just in the slight chance you’d have to perform. you’ve always been that sort of person—
+i am sure you practiced for motor show’s performance anyway, didn’t you? just in the slight chance you’d have to perform. you’ve always been that sort of person—
 
-and it’s a hero’s duty to be prepared for that “slight chance”.
+and it is a hero’s duty to be prepared for that “slight chance”.
 
 besides, you’d never distance yourself from others simply because you’re too busy.
 
-we’re talking about mr. lonely here, aren’t we?
+we are talking about mr. lonely here, aren’t we?
 {% endbubble %}
 
 {% bubble Chiaki cry %}

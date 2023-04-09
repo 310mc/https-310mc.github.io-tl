@@ -68,6 +68,10 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 
 ## Chapter 1
 
+<div class="msr-season winter">
+    <p><span><b>Season:</b> Winter</span></p>
+</div>
+
 {% img /img/es/eventstory/supervillain/darkstarch1_1.jpg %}
 
 <div class="msr-narration">
@@ -157,7 +161,7 @@ I’m certain that deep down, he also thinks that you are the cutest in the whol
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-……<th><em>(Looks at Chiaki with anticipation)</em></th>
+……<th><em>(looks at Chiaki with anticipation)</em></th>
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -251,7 +255,7 @@ I always think this, but you truly do not have to be so reserved, Morisawa-dono.
 {% bubble Kanata v2 %}
 exactly~ you heard him, chiaki. let’s [keep] the [water reservoirs] for me, only~♪
 
-all for one, and one for all—
+*all for one, and one for all—*
 {% endbubble %}
 
 {% bubble Chiaki frown %}
