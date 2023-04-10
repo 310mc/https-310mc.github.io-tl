@@ -691,6 +691,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/makewordseven/c1.jpg"
+            alt="Making Our Words Even"
+        />
+    </div>
+    <a href="/making_our_words_even" class="storyName" target="_blank">
+        <span>Making Our Words Even</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories
