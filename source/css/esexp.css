@@ -764,6 +764,10 @@ Past Stories
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mayoi2.png");
 }
 
+[character="Yuta"][hair] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuta_hair.png");
+}
+
 [character="Libra"] {
   --color:#316745;
   --name: "Libra";
