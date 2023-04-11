@@ -83,7 +83,7 @@ hidden: true
     <p><span><b>Location:</b> Dojo (Futons)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethomech7_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/sweethome7_1.jpg %}
 
 {% bubble Nazuna %}
 Ahhh, I’m exhausted… Having t’prepare everything *and* practice is justoo much…
@@ -96,6 +96,8 @@ Hahaha, you’re slurring your words, Nazuna-san.
 {% bubble Nazuna %}
 Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t hafta focus anymore, so…
 {% endbubble %}
+
+{% img /img/es/eventstory/sweethalloween/sweethome7_2.jpg %}
 
 {% bubble Chiaki %}
 ………♪
@@ -260,6 +262,8 @@ I see… Sounds like she’s completely focused on her work… I wish she’d jo
 {% endbubble %}
 
 ## Chapter 8
+
+{% img /img/es/eventstory/sweethalloween/sweethome8_1.jpg %}
 
 {% bubble Madara %}
 That aside… Why a horror movie? How about we watch something we can all enjoy instead, like an action movie?
@@ -589,6 +593,8 @@ or actually… with everyone in ryuseitai supporting chiaki, there can be nothin
 
 ## Chapter 10
 
+{% img /img/es/eventstory/sweethalloween/sweethome10_1.jpg %}
+
 <div class="msr-narration">
     <p>The next day…</p>
 </div>
@@ -600,7 +606,7 @@ zzz…zzz…♪
 {% img /img/es/eventstory/sweethalloween/hajimeorigcg.jpg %}
 
 {% bubble Hajime %}
-……
+………
 
 …Tomoya-kun, it’s morning.
 {% endbubble %}

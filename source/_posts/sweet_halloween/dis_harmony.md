@@ -291,8 +291,10 @@ Wffhg!? Bffppt — A bit of water splashed into my mouth!
 Shinkai-dono, pleaaase\~! Do not splash around like a little child! Get out of there already\~!
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/disharmony2_2.jpg %}
+
 {% bubble Madara %}
-Hahaha! So peaceful! You’re getting along with a junior — I didn’t expect that! How fortunate of you, Kanata-san~♪
+Hahaha! How peaceful! You’re getting along with a junior — I didn’t expect that! How fortunate of you, Kanata-san~♪
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -370,7 +372,7 @@ So I’m gonna vent all my frustrations! Wham, slaaam~!! ☆
 {% bubble Madara %}
 Hahaha, this is a pretty nice massage.
 
-… I think *you’re* the one who’s gonna get hurt from this; your neck’s gonna get cramped. Don’t keep bashing into me like that, alright?
+…I think *you’re* the one who’s gonna get hurt from this; your neck’s gonna get cramped. Don’t keep bashing into me like that, alright?
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -380,7 +382,7 @@ Bam! Ba-ba-boom!!
 {% bubble Madara %}
 You never listen to people… It’s easier to stop you myself.
 
-… Hup! Upsie daisy, up you gooooo~! ♪
+…Hup! Upsie daisy, up you gooooo~! ♪
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -452,7 +454,7 @@ Although, you’re gonna need to dry up first, Kanata-san. I can lend you a towe
 {% endbubble %}
 
 {% bubble Kanata %}
-hnn… we are going to be working with the rogue? it feels like it will only be a ruckus.
+mm… we are going to be working with the rogue? it feels like it will only be a ruckus.
 
 well… i suppose that lately i do not dislike things being rowdy, anyway.
 
@@ -468,7 +470,7 @@ three units together… that is a pretty large amount of people. hmm, will we re
 {% img /img/es/eventstory/sweethalloween/disharmony4_1.jpg %}
 
 {% bubble Chiaki %}
-…………
+……………
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -476,7 +478,7 @@ Heeey, Chiaki-chin\~♪ I made enough copies of the printout for everyone\~
 {% endbubble %}
 
 {% bubble Chiaki %}
-……
+……………
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -512,7 +514,7 @@ They told us that once we reach around the time for graduation, they’ll barely
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hrnn… I really don’t want to think about graduation right now…
+Mmm… I really don’t want to think about graduation right now…
 
 Anyway, I wanted to ask you something, Nito. You’re in the same class as Kanata, right? Do you know where he could be?
 {% endbubble %}
@@ -552,7 +554,7 @@ So in the end it’s about whether he’s prioritizing personal affairs or busin
 {% bubble Chiaki %}
 You could say that.
 
-…… Alright, I filed everything in the right place.
+……Alright, I filed everything in the right place.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -782,11 +784,11 @@ Ughh… But doing things “normally” is always the hardest when you need it m
 {% endbubble %}
 
 {% bubble Hajime %}
-………
+…………
 {% endbubble %}
 
 {% bubble Tomoya %}
-… What’re you looking at me for? Don’t look at me every time the word “normal” pops up.
+…What’re you looking at me for? Don’t look at me every time the word “normal” pops up.
 {% endbubble %}
 
 {% bubble Hajime %}

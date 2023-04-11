@@ -243,7 +243,7 @@ Yes, that’s what I think we should do, too~ People should help each other when
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yep, that’s correct! You have what it takes to be a hero, Shino-kun! Good, good! ♪
+Yep, that’s correct! You have what it takes to be a hero, Shino-kun! There, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 
 {% bubble Hajime %}

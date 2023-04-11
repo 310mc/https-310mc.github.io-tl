@@ -83,7 +83,7 @@ hidden: true
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethomech1_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/sweethome1_1.jpg %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -163,6 +163,8 @@ Shut it. Uugh… I guess I could just roll my pants up if there isn’t anything
 It’s really unusual for something prepared by Anzu to be like this… Did she get my size wrong?
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/sweethome1_2.jpg %}
+
 {% bubble Mitsuru %}
 Nii~chan, Nii~chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
 {% endbubble %}
@@ -212,7 +214,7 @@ So’s mine! But it’s kinda darker than Nii~chan’s…?
 {% endbubble %}
 
 {% bubble Tomoya %}
-… Hm, Hajime’s got a light blue bunny.
+…Hm, Hajime’s got a light blue bunny.
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -340,7 +342,7 @@ Never demanding rewards from anyone\~! I wanna be like that too! I wanna help so
 {% bubble Chiaki %}
 Yep, that’s exactly what a hero is, Nagumo.
 
-… Oh, woops, we went off-topic again.
+…Oh, woops, we went off-topic again.
 
 Alright then, let’s start decorating the place.
 
@@ -401,7 +403,7 @@ Uuu… Whenever Mikejima-san’s around, it starts to feel like my past seniors 
     <p><span><b>Location:</b> Halloween Party Hallway</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethomech3_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/sweethome3_1.jpg %}
 
 {% bubble Shinobu %}
 Here we go…♪
@@ -573,6 +575,8 @@ Hnn… No, I’m the one who’s sorry… I’m also shocked by my own reaction�
 
 ## Chapter 4
 
+{% img /img/es/eventstory/sweethalloween/sweethome4_1.jpg %}
+
 {% bubble Midori %}
 But no, really, hasn’t Morisawa-senpai been kinda off…?
 {% endbubble %}
@@ -643,7 +647,7 @@ Mmm… He really is acting weird… Or like, he’s just trying really, *really*
     <p><span><b>Location:</b> Garden Terrace’s Kitchen</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethomech4_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/sweethome4_2.jpg %}
 
 {% bubble Madara %}
 Hahaha! A balanced diet leads to a healthy life! It’s time to cook with Mama!
@@ -745,7 +749,7 @@ I’ll be going now. I’ll come back to help with the cooking as soon as I can,
     <p><span><b>Location:</b> Animal Shed</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethomech5_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/sweethome5_1.jpg %}
 
 {% bubble Hajime %}
 <th>(O-Okay, I’m going to do this… I have to properly make up with Tomoya-kun.)</th>
