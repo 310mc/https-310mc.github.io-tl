@@ -71,7 +71,7 @@ This story is connected to the card [Desperately Trying To Compliment] Midori Ta
 {% img /img/es/idolstory/makewordseven/1.jpg %}
 
 {% bubble Yuta hair %}
-Oh, so that’s who’s been walking with their head down — Hey, Midori-kun! Are you heading home now?
+Oh, so that’s who’s been walking with his head down — Hey, Midori-kun! Are you heading home now?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -139,7 +139,7 @@ I can’t *believe* you’d reply to someone asking how their new hairdo looks w
 {% endbubble %}
 
 {% bubble Midori %}
-You didn’t ask me *that* way, and I don’t approve of violent acts, okay…
+You didn’t ask me *that* way, and I don’t approve of violence, okay…
 
 <th>(But I can tell this whole situation’s turned into an *actual* pain… Why’s he so insistent to talk to me…?)</th>
 {% endbubble %}

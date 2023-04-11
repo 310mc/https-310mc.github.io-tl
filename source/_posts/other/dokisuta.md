@@ -122,7 +122,7 @@ there are so [many] strange things in this world, aren't there~…♪
 
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1202).</small>
 
-<h4>※ In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Sea-lover</u></h4>
+<h4>※ In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Water-lover</u></h4>
 
 {% img /img/es/eventstory/piratefes/kanatabcg.jpg %}
 
@@ -144,7 +144,7 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 
 **Summary:**
 * Puzzling behavior, an unwavering person no matter the situation; he <u>100% goes by his own pace</u>
-* In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Sea-lover</u>
+* In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Water-lover</u>
 * A <u>Broad-minded</u>, deep heart that sees through one's true nature, and wraps around them like the deep ocean.
 
 <div toc>
