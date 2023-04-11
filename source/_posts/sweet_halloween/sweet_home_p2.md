@@ -99,7 +99,7 @@ Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t h
 
 {% img /img/es/eventstory/sweethalloween/sweethome7_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 ………♪
 {% endbubble %}
 
@@ -117,7 +117,7 @@ Yeah, he wears glasses during class, too. You’re in class B, so you didn’t k
 Wow, really… Seeing a whole ‘nother side to someone is part of what’s so greatabout sleepovers, huh… <em><th>(yawn)</th></em>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Hehe, that was a big yawn just now, Nito. You can go ahead and sleep if you’re tired.
 
 Since it’s not even 10 PM yet, and the rest of us are still awake, you may have to sleep with the lights still on.
@@ -129,7 +129,7 @@ Nnn, hnn… Yeah, maybe I will… I wanted to stay up with the kids, though…
 But… my eyes keep closing all on their own… <em><th>(yawn)</th></em>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Do you always sleep around this time?
 {% endbubble %}
 
@@ -139,7 +139,7 @@ Yeah… My dad always leaves for work real early, so… I got used to that kinda
 An’ like they always say, “sleeping is what helps a kid grow.”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 It kind of seems like you’re done growing, though… You still look the same as you did in our first year. You’re so small that I sometimes forget you’re my age.
 {% endbubble %}
 
@@ -155,7 +155,7 @@ zzz…zzz…♪
 Ohh? He fell asleep… Oh well, I’ll carry him to his futon~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 His is next to mine, Mikejima-san. Let’s tuck him in and let him sleep.
 
 He probably won’t be able to sleep well with the lights on, so maybe I should turn off the lights on this side of the room and move somewhere else…
@@ -165,7 +165,7 @@ He probably won’t be able to sleep well with the lights on, so maybe I should 
 Yep! You’re doing a great job, being considerate like that, Chiaki-san! Bravo, bravo~! ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 You should be more considerate, too. You’re too loud.
 
 We had a pretty rough day today, yet you don’t seem to be tired at all… That’s pretty impressive.
@@ -175,7 +175,7 @@ We had a pretty rough day today, yet you don’t seem to be tired at all… That
 Are *you* tired? You don’t seem as energetic as usual. You alright?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Yep. You don't need to worry, I’m in perfect shape.
 {% endbubble %}
 
@@ -185,7 +185,7 @@ Ahh, that can only mean… O<em>ho,</em> you still can’t stand *that*, can you
 Don’t worry. If *that* ever shows up, I’ll beat it to a pulp~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 …You really are incredible, Mikejima-san. You can even expel spirits?
 {% endbubble %}
 
@@ -199,7 +199,7 @@ So you should make sure to be in a happy, good mood. C’mon, don’t read a boo
 
 {% img /img/es/eventstory/sweethalloween/chiakiorigcg.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 I’ve made it a habit to read something before I sleep, but… yeah, alright. I can always read some other time.
 
 Let’s try to spend some time with them without disturbing Nito’s sleep. Getting closer to everyone is also another objective of this sleepover.
@@ -229,7 +229,7 @@ Mike-chan-senpai, you sit over here! It’s the farthest spot! Cuz you’d be in
 Oh, no. We’re going to be watching horror movies together~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Horro…!? Huh!? Why are you…!? It’s not the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
 
 Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right?
@@ -241,7 +241,7 @@ That’s not a problem, I brought over everything we need…
 There was an extra monitor in the AV room, right? I got permission from Anzu-san to use it…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Gahhh!? You really are amazing, Takamine…! So kind and strong…!
 {% endbubble %}
 
@@ -269,7 +269,7 @@ I see… Sounds like she’s completely focused on her work… I wish she’d jo
 That aside… Why a horror movie? How about we watch something we can all enjoy instead, like an action movie?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Y-yeah! I like that idea! Let’s watch *Ganbare Robocon* or something! It’s really heart-warming!!
 {% endbubble %}
 
@@ -291,7 +291,7 @@ Yeah, aren’t *you* the one who always forces us to watch tokusatsu shows so we
 It’s the same as that… What, do you have a problem or something?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 N-no? Nope, none at all! Quite the opposite! It’s wonderful how you’re all putting so much work into it!
 
 But you know, no one will scold you if you choose to play around and chat with each other instead! It’s your free time, after all!
@@ -300,10 +300,10 @@ Why, Kanata went off to feed the fish in the fish tanks instead of hanging out w
 {% endbubble %}
 
 {% bubble Hajime %}
-Wawa— Morisawa-senpai, shhh~♪ I think Nii~chan is asleep, so please keep your voice down.
+Wawa— Morisawa-senpai, shhh\~♪ I think Nii\~chan is asleep, so please keep your voice down.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Ah! Yeah! My bad! I-I think I’ve gotten tired, too! Can I go ahead and get some rest? Is it okay if I do that!?[^3]
 {% endbubble %}
 
@@ -311,21 +311,21 @@ Ah! Yeah! My bad! I-I think I’ve gotten tired, too! Can I go ahead and get som
 Oh no no, don’t be like that\~ Let’s all watch the movie together\~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 T-Takamine? Your face looks mischievous! Why is that! Did I do something to make you angry again!?
 {% endbubble %}
 
 {% bubble Shinobu %}
 …? Um, what shall we start with?
 
-I brought over the DVDs—I mean, the reference material from the AV room and the library.
+I brought over the DVDs — I mean, the reference material from the AV room and the library.
 
 There are all kinds of movies in here, including western ones. Perhaps we should pick whichever one looks the best.
 
 But, well… if we watch a few movies every night, we will probably get through all of them.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 E-Every night? We’ll be watching horror movies every night? Will we be alright? Won’t we die?
 {% endbubble %}
 
@@ -351,7 +351,7 @@ He likes them, but he’s also scared of them, so he clings to me whenever we’
 Hehe, my brother has been kind of rebelling against me, but sometimes he acts spoiled around me~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 A-Alright then! You’re going to need popcorn and drinks for a movie, right! I’ll go get some from the convenience store!
 
 Go ahead and start the movie without me!
@@ -363,7 +363,7 @@ Ah! We’ve got all the stuff we need already! Look, we bought all kinds of drin
 We’ve got a special spot right here just for you seniors, so just relax and enjoy the movie~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Gahhh!? Oh Nagumo…! You’re such a good kid…!!
 {% endbubble %}
 
@@ -383,7 +383,7 @@ It might be difficult, but… you may be able to overcome your weaknesses if you
 Weaknesses…? So Morisawa-senpai really is bad with scary stuff?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 O-Of course not! There’s nothing a hero’s afraid of! Ahh, I’m so excited\~! We’re going to watch a horror movie\~! Come on, let’s get the movie started!
 {% endbubble %}
 
@@ -395,7 +395,7 @@ Taichou-dono, your eyes are twitching, you know…?
 Okay, I’ll put the DVD in, then. This Halloween-themed movie is just what we need, so we’ll start with it~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 {% endbubble %}
 
@@ -473,7 +473,7 @@ If you think about it, since they were just talking about his past with his love
 Yeah, I totally know what you mean… This guy’s likely gonna die…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 H-He won’t die, right!? He survived this long! You’re just lying when you say he’s gonna die, right!?
 {% endbubble %}
 
@@ -483,7 +483,7 @@ Hahaha, I’ve watched this movie before so I know what happens. But I’m not g
 Don’t worry, don’t worry! In fiction, the good guys almost always win!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 R-Really? Can I really believe in that?
 
 Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeeeeeee!!
@@ -513,7 +513,7 @@ Heeey, Morisawa-senpai~?
 Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, you know\~? ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 No! It’s scary! I don’t wanna see any more blood and guts!
 {% endbubble %}
 
@@ -521,7 +521,7 @@ No! It’s scary! I don’t wanna see any more blood and guts!
 You always force us to watch hero stuff when we never even wanted to… so there’s no reason why *you* should be the only one to get away with something like that, right?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 U-Uuu! It hurts when you say that!
 {% endbubble %}
 
@@ -529,7 +529,7 @@ U-Uuu! It hurts when you say that!
 <em><th>(whispering)</th></em> So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% endbubble %}
 
@@ -541,7 +541,7 @@ Then why exactly are you tugging on my sleeve and shaking in fear…?
 Wait a sec… didn’t you shout “It’s scary!” just now…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 N-n-no! You misunderstand, Takamine! *“Sca-ree”* in Swahili means “It’s really interesting”!
 {% endbubble %}
 
@@ -555,7 +555,7 @@ In a way, it’s more embarrassing and uncool to keep trying to pretend to like 
 It’s natural to have dislikes… Just be true to yourself… Aren’t *you* the one who’s always telling me stuff like, “I love you no matter what”…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki mgn %}
 …? What was that, Takamine? Sorry, I can’t hear you very well from under all the blankets!
 {% endbubble %}
 
@@ -904,4 +904,4 @@ Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
 [^1]: The shadow Madara talks about is Jungian psychology.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: He unusually asks for permission with *dame kana*.
-[^4]: Originally, Hajime says that he can’t do [this](https://www.sakaagari-kotsu.com/practice/maemawari-ori.html) (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
+[^4]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.

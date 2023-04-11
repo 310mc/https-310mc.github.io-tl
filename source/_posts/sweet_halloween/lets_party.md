@@ -147,6 +147,8 @@ Heaaave—Up you goooo! You were on your way to someplace, right? I’ll carry y
 Where shall we head to? It’s all up to you, Anzu-san! Super Express Mama No.1, taking you to the galaxy and beyond! It’s time to depart~! ☆
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/letsparty1_2.jpg %}
+
 {% bubble Kanata %}
 hey rooogue~♪ trick or treat!
 {% endbubble %}
@@ -205,6 +207,8 @@ so i have to be the one to keep things going, yes? supporting and helping each o
 Eeek!! There’s a ghooost!!!
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/letsparty1_3.jpg %}
+
 {% bubble Tetora %}
 Eep—!! Don’t just yell out of nowhere! You scared me!
 
@@ -238,6 +242,8 @@ Ahaha, Morisawa-senpai’s acting just like a little kid at a haunted house…�
 {% endbubble %}
 
 ## Chapter 2
+
+{% img /img/es/eventstory/sweethalloween/letsparty2_1.jpg %}
 
 {% bubble Midori %}
 Morisawa-senpai, you really are bad with monsters, huh?
@@ -338,7 +344,7 @@ He was looking out towards her future, preparing the necessary steps to reach it
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe, the more I hear about him, the more awesome he sounds.
+Heheh, the more I hear about him, the more awesome he sounds.
 
 Of course, I see my seniors as people I should respect and aim to be like, anyway! ♪
 {% endbubble %}
@@ -388,6 +394,8 @@ Ughh… I wanted to look as cool as possible, though…
 
 I just can’t handle eggplants and monsters, no matter what I do… My trauma from when I was a kid still lingers…
 {% endbubble %}
+
+{% img /img/es/eventstory/sweethalloween/letsparty2_2.jpg %}
 
 {% bubble Shinobu %}
 …? Did it become hard to handle them because of a bad incident?
@@ -547,6 +555,8 @@ Everyone~! It looks like we have a full crowd now, so please don’t chit-chat.
 We have to show them something, or else this big crowd will go to waste, right?
 {% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/letsparty3_2.jpg %}
+
 {% bubble Tomoya %}
 Ahaha, it’s all ‘cause of you, Hajime. You got way too into it, and even invited guests over to the hall.
 
@@ -584,7 +594,7 @@ Okaaay, Nii~chan…♪
 {% endbubble %}
 
 {% bubble Mitsuru %}
-You don’t even need to tell me that, Nii~chan! ♪ Yippee~! I’m gonna jump high up to the stars again!
+You don’t even need to tell me that, Nii\~chan! ♪ Yippee\~! I’m gonna jump high up to the stars again!
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -624,7 +634,7 @@ Got it\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% endbubble %}
 
 {% bubble Chiaki %}
-“But if this talisman were to tear off… <em>Bleeegh~♪</em>”
+“But if this talisman were to tear off… <em><th>(Sticks out tongue)</th></em> <em>Bleeegh~♪</em>”
 
 “Our terrifying nature will show itself and we’ll start hunting you down~! Fuhahahaha! ☆”
 {% endbubble %}
@@ -767,6 +777,8 @@ that’s right, it is just as chiaki said~ come, let’s all dance together~♪
 
 ## Chapter 5
 
+{% img /img/es/eventstory/sweethalloween/letsparty5_1.jpg %}
+
 {% bubble Kanata %}
 “♪\~♪\~♪”
 {% endbubble %}
@@ -841,7 +853,11 @@ I’m so happy, Kanata. Our dreams, our wishes keep coming true.
 With our comrades in Ryuseitai, even world peace is achievable! If we’re together, we could defeat all evil, and turn any ideal into a reality!
 
 Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be afraid of!
+{% endbubble %}
 
+{% img /img/es/eventstory/sweethalloween/letsparty5_2.jpg %}
+
+{% bubble Chiaki %}
 “♪\~♪\~♪”
 {% endbubble %}
 
@@ -849,7 +865,7 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
     <p><span><b>Location:</b> Halloween Party Concert Hall (Ra*bits)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/letsparty5_1.jpg %}
+{% img /img/es/eventstory/sweethalloween/letsparty5_3.jpg %}
 
 {% bubble Hajime %}
 <th>(…Fufu, everyone looks like they’re having fun. I’m so glad.)</th>
@@ -919,9 +935,9 @@ T-Tomoya-kun…♪
 </div>
 
 ## Translation Notes
-[^1]: Chiaki is referencing [this](https://www.youtube.com/watch?v=dZL5JPvXn7Q) children’s song. The English lyrics can be found [here](http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa).
+[^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=dZL5JPvXn7Q" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
 [^2]: Out of fear, Chiaki switches to talking more politely with: **“Takamine-kun”:** a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and **“~shite kureru?”:** a polite way to request something (“Could you please~”)
-[^3]: This is [Doctor Shinigami](https://www.google.com/search?q=%E6%AD%BB%E7%A5%9E%E5%8D%9A%E5%A3%AB&rlz=1C1CHBD_enBH755BH755&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvibHs3KbaAhXK3KQKHeqTBy0Q_AUICigB&biw=1366&bih=662). He appeared in [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider), which aired back in 1971.
+[^3]: This is <a href="https://www.google.com/search?q=%E6%AD%BB%E7%A5%9E%E5%8D%9A%E5%A3%AB&rlz=1C1CHBD_enBH755BH755&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvibHs3KbaAhXK3KQKHeqTBy0Q_AUICigB&biw=1366&bih=662" target="_blank">Doctor Shinigami</a>. He appeared in <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a>, which aired back in 1971.
 [^4]: He apologizes with *gomennasai* (polite sorry) instead of the usual way he apologizes, which is “suman” (informal sorry).
 [^5]: The original for “Aiyah” is アチョー (Achow), and when you google it, it seems to be referencing Bruce Lee’s battle cries.
 [^6]: “I’m at a climax from start to end” is a reference from Kamen Rider Den-o.

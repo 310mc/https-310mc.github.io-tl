@@ -1414,24 +1414,26 @@ so, when he feels Irritated, he leaves to someplace Far away, as he does not wan
 but lately, he is probably in this Country more often. see, since i am here, after all… and mikejima’s Job is to be Useful for me.
 
 i don’t really need him to, though… for mikejima to do all the Work is so stingy of him, isn’t it? don’t you think so too?
-
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Huh? Huhhh…? I’m sorry, I’m not quite sure I understand you!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 is that so… are the things i am saying difficult to comprehend? i am sorry, i am still not used to Speaking very much.
-
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Ah, no, there’s nothing you need to apologize for—Oh.
 
 Sorry, seems like I’m being called over. I’ll have to go now!
-
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 called over?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Yeah, I got a text from our leader… I wonder what this is all about…? I don’t think he’s even been around at school ever since he decided to quit.
 
@@ -1446,8 +1448,8 @@ Hehe, alright then, Shinkai-kun. I’m happy we got to talk. Oh, and… you clea
 <th>(It’s been a while since I’ve been treated this kindly — I feel sort of touched.)</th>
 
 Hehe, well then, I’ll see you later… Shinkai-kun, I know I keep saying this but — You shouldn’t soak yourself with water, okay? It’s still too early in the season to swim.
-
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 hm? i am not swimming, i am just *puka puka*-ing.
 
@@ -1455,9 +1457,11 @@ if only there were other Places like this around…
 
 i feel as if i will dry out. the Land is always so dry, it is difficult to Breathe.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 …?
 {% endbubble %}
+
 **Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
 
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
