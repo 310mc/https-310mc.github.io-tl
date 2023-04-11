@@ -226,7 +226,7 @@ Hey guys, look over here~! There’s a bully in the club!
 {% endbubble %}
 
 {% bubble Chiaki %}
-D-Don't say it like that, it makes me seem bad! I just want to talk about something only adults should know! It’s not for kids to hear!
+D-Don't say it like that, it makes me seem bad! I just want to talk about something only adults should know! It isn’t for kids to hear!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -334,7 +334,7 @@ Still, that doesn't mean you'll always be treated special.
 
 If you guys don't keep producing results, someone will eventually replace you. Everyone wants to be the protagonists, after all.
 
-Also, while you have a strong unity since you’re in the same year, you're not used to dealing with seniors and juniors for that same reason.
+Also, while you have a strong unity since you’re in the same year, you aren't used to dealing with seniors and juniors for that same reason.
 
 It’s fine for it to be like that right now, but if you plan to get into show business, then you’ll be meeting all sorts of people.
 
@@ -364,7 +364,7 @@ But. Just in case something does show up, I want to entrust them to you guys.
 
 For now, I want you to have practice sessions with them for the upcoming S1 — the Tanabata Festival. I’ll tell them about this myself.
 
-It’s not like I’m going to die, so if you need anything, feel free to contact me anytime.
+It isn’t like I’m going to die, so if you need anything, feel free to contact me anytime.
 
 I'll also take care of any expenses you need once I'm back in shape.
 {% endbubble %}

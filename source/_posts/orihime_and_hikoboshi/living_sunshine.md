@@ -98,7 +98,7 @@ shinkai kanata has also been revived, as an extra~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-You're not an extra, Kanata! A star can't take shape if one section is missing!
+You aren't an extra, Kanata! A star can't take shape if one section is missing!
 
 Each comrade is important and irreplaceable — the five of us together are Ryuseitai…!
 {% endbubble %}

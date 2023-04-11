@@ -792,7 +792,7 @@ Ughh… But doing things “normally” is always the hardest when you need it m
 {% endbubble %}
 
 {% bubble Hajime %}
-T-That’s not why I—… You’re overthinking it, Tomoya-kun…
+T-That isn’t why I—… You’re overthinking it, Tomoya-kun…
 
 I was looking around at everyone to see if anyone wanted a refill. I wasn’t only looking at you…
 {% endbubble %}
@@ -902,7 +902,7 @@ i will try to talk to them myself first. i will consider what is best to do afte
 {% endbubble %}
 
 {% bubble Chiaki %}
-Alright. It’s okay if you can’t sleep over; it’s not necessarily required. I’d like to keep things as flexible as possible.
+Alright. It’s okay if you can’t sleep over; it isn’t necessarily required. I’d like to keep things as flexible as possible.
 
 Oh, and I heard Anzu will prepare the bedding and other necessities for our sleepover.
 {% endbubble %}
@@ -968,7 +968,7 @@ We don’t have to pay for anything as long as we do our best, work hard, and pe
 
 However, it *will* end up requiring almost all of your free time, so if it ever seems impossible, please come to me about it.
 
-We’re still just high school students. We’re not actual full-time workers.
+We’re still just high school students. We aren’t actual full-time workers.
 
 I can’t tell you that you should use up all your time for work. Being with your family is also important.
 

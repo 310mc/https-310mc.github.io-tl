@@ -196,7 +196,7 @@ I know you can do it if you try. Yes you can, yes you can~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Hnnn… Honestly, I have no will whatsoever, not with the audience full of parents with their children and couples looking all happy.
+Mmm… Honestly, I have no will whatsoever, not with the audience full of parents with their children and couples looking all happy.
 
 Seriously, I’m *super* jealous of the couples here… maybe I should splash water at them…
 {% endbubble %}

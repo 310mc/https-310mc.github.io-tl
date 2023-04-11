@@ -120,7 +120,7 @@ Wow, really… Seeing a whole ‘nother side to someone is part of what’s so g
 {% bubble Chiaki mgn %}
 Hehe, that was a big yawn just now, Nito. You can go ahead and sleep if you’re tired.
 
-Since it’s not even 10 PM yet, and the rest of us are still awake, you may have to sleep with the lights still on.
+Since it isn’t even 10 PM yet, and the rest of us are still awake, you may have to sleep with the lights still on.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -230,7 +230,7 @@ Oh, no. We’re going to be watching horror movies together~♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Horro…!? Huh!? Why are you…!? It’s not the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
+Horro…!? Huh!? Why are you…!? It isn’t the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
 
 Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right?
 {% endbubble %}
@@ -504,7 +504,7 @@ I-It’s fine if you don’t want to, though…
 {% endbubble %}
 
 {% bubble Hajime %}
-Huh…? Um… I-It’s not that I don’t want to…
+Huh…? Um… I-It isn’t that I don’t want to…
 {% endbubble %}
 
 {% bubble Midori %}

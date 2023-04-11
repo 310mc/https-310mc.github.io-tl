@@ -101,21 +101,21 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 <th>(What do I do? What do I do? I’m in big trouble.)</th>
 
-<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Aahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
+<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
 
 <th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
 
-<th>(But…… Ahhh, I really don’t wanna~! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)</th>
+<th>(But…… Ahhh, I really don’t wannaa~! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)</th>
 
 <th>(Someone who would accept anything and everything — Who would love everything, and bring peace to the world! That’s the kind of hero I wanted to be!)</th>
 
-<th>(But *that thing* is the only thing I can’t deal with!! I just caaaaan’t!!!!!)</th>
+<th>(But *that thing* is the only thing I can’t deal with!! I just caaaaan’t!!)</th>
 
 <th>(But! I’m always pushing my own interests onto everyone in Ryuseitai! Even if they don’t want it, I push it on them semi-forcefully!)</th>
 
 <th>(So rejecting what I can’t handle with “I don’t wanna!” is just ridiculous!)</th>
 
-<th>(It’s not fair to them! That’s not what justice is!)</th>
+<th>(It isn’t fair to them! That isn’t what justice is all about!)</th>
 
 <th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward!)</th>
 

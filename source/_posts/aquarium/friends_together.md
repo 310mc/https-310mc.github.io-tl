@@ -288,7 +288,7 @@ HiHi~ This is the first time for Sora! Sora can't really calm down~ Sora’s eye
 {% endbubble %}
 
 {% bubble Hinata %}
-Aahh, that’s right, you’re not good with places like this… My bad. You look like you could get tired at any second, so let’s start taking occasional breaks~♪
+Ahh, that’s right, you’re not good with places like this… My bad. You look like you could get tired at any second, so let’s start taking occasional breaks~♪
 {% endbubble %}
 
 {% bubble Sora %}

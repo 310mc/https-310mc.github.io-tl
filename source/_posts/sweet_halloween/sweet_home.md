@@ -218,11 +218,11 @@ So’s mine! But it’s kinda darker than Nii~chan’s…?
 {% endbubble %}
 
 {% bubble Hajime %}
-Wah—Hold on, please don’t pull on mine! Don’t do anything you wouldn’t want done to yourself! That’s not very nice!
+Wah— Hold on, please don’t pull on mine! Don’t do anything you wouldn’t want done to yourself! That isn’t very nice!
 {% endbubble %}
 
 {% bubble Tomoya %}
-“That’s not very nice”? Seriously…?[^1]
+“That isn’t very nice”? *Seriously*…?[^1]
 
 Ah! Are these our hair colors?
 {% endbubble %}
@@ -508,7 +508,7 @@ Ah, Taichou-dono is being crushed by a box of decorations… Ahaha, he is comple
 {% endbubble %}
 
 {% bubble Chiaki %}
-G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! Nope!
+G…G-Ghosts!? No, it’s fine, these are just decorations! It isn’t scary! Nope!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -630,7 +630,7 @@ Uhh… I feel like you’re avoiding the question.
 {% bubble Chiaki %}
 No matter! Let’s quit the chatter and start moving our hands!
 
-It’s no surprise that our work has been a bit slow, as it *is* the first day and we’re not entirely used to it, but I’d like to get to a good place to stop at for the day!
+It’s no surprise that our work has been a bit slow, as it *is* the first day and we aren’t entirely used to it, but I’d like to get to a good place to stop at for the day!
 
 I’ve been keeping in contact with the others every once in a while, and it seems like MaM and Ra*bits have progressed far ahead!
 

@@ -910,11 +910,11 @@ Ah—! Don’t move around! You’re pretty heavy, you know!
 {% endbubble %}
 
 {% bubble Hajime %}
-I-I’m not heavy, you’re just weak, Tomoya-kun… Now do you see! You shouldn’t carry me like a princess! It’s not right!
+I-I’m not heavy, you’re just weak, Tomoya-kun… Now do you see! You shouldn’t carry me like a princess! It isn’t right!
 {% endbubble %}
 
 {% bubble Tomoya %}
-What’s “not right”… What’re you getting so embarrassed about all of a sudden…
+What “isn’t right”… What’re you getting so embarrassed about all of a sudden…
 
 I carried you like this when we had a marathon in junior high, remember? When you pushed yourself way too hard.
 
