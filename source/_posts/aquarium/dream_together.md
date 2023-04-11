@@ -69,13 +69,15 @@ hidden: true
 
 ## Chapter 1
 
+{% note cw %}
+**Content Warning:** Sexual harrassment within.
+{% endnote %}
+
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium Stage</span></p>
 </div>
 
-{% note cw %}
-**Content Warning:** Sexual harrassment within.
-{% endnote %}
+{% img /img/es/eventstory/aquarium/dream1_1.jpg %}
 
 {% bubble Kanata v2 %}
 ♪\~♪\~♪
@@ -367,6 +369,12 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s ador
 
 ## Chapter 3
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium Stage</span></p>
+</div>
+
+{% img /img/es/eventstory/aquarium/dream3_1.jpg %}
+
 {% bubble Kaoru %}
 I’m baaack~♪ The live show hasn’t started yet, right?
 {% endbubble %}
@@ -406,6 +414,8 @@ Ahaha, Anzu-dono, that tickles.
 
 I would rather you not fumble with my costume… I think it is best that you adjust Mikejima-dono’s outfit instead of mine, no? He seems cramped in his costume.
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/dream3_2.jpg %}
 
 {% bubble Madara %}
 Yep, please and thank you! Honestly, I’d be able to move about to an extent even if my limbs were somehow all tied up, so you don’t really have to be precise with the adjustments.
@@ -478,6 +488,8 @@ I do want to work things out with my own power, though… It’d be pathetic to 
 
 But Kanata-san’s household is an unusual case, so I used every card in my hand.
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/dream3_3.jpg %}
 
 {% bubble Kanata v2 %}
 is it really that unusual…? i *did* understand the fact that i am different from others.
@@ -606,6 +618,8 @@ Yeah, the way you were acting for this case is like a spoiled kid whining and de
 
 Ahaha, it’s pretty much just like a baby going against their parents for the first time.
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/dream4_1.jpg %}
 
 {% bubble Kanata v2 %}
 yes… but this is a strange feeling. i had always restrained myself up until this point. it is almost always peaceful so long as i restrain myself.

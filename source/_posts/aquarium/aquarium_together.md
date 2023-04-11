@@ -65,6 +65,8 @@ hidden: true
     <p><span><b>Location:</b> At the Bulletin Board</span></p>
 </div>
 
+{% img /img/es/eventstory/aquarium/aquarium1_1.jpg %}
+
 {% bubble Madara %}
 Hmhmhmm~♪
 
@@ -132,8 +134,10 @@ But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
+    <p><span><b>Location:</b> At the Station</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/aquarium1_2.jpg %}
 
 {% bubble Kaoru %}
 Anzu-chaaan, over here, over here~♪
@@ -158,6 +162,8 @@ Leave it all to me~ I'll make you the most charming girl in the world!
 
 Now give me your hand, princess! I've been waiting for this~ Aah, it feels like today is going to be the most wonderful day ever…☆
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/aquarium1_3.jpg %}
 
 {% bubble Souma %}
 Get any closer to Anzu-dono and I will tear you down by the throat.
@@ -186,6 +192,8 @@ I have never seen you as a *“pal”*… You are the disgrace of the Marine Lif
 <div class="msr-location">
     <p><span><b>Location:</b> Shopping Mall 1F</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/aquarium2_1.jpg %}
 
 {% bubble Souma %}
 For goodness’ sake… A detour will only waste time. Why does our attire even matter?
@@ -309,6 +317,8 @@ Besides, his most likely hiding spot is in the aquarium, so while we’re there 
 Well, other than having a *child* coming along with us.
 {% endbubble %}
 
+{% img /img/es/eventstory/aquarium/aquarium2_2.jpg %}
+
 {% bubble Souma %}
 I apologize for making you wait… Do I look strange in this? Am I wearing it properly?
 {% endbubble %}
@@ -340,6 +350,8 @@ Alright, alright. Ahh man… This doesn't feel like a date, it's more like spend
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium (Front)</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/aquarium3_1.jpg %}
 
 {% bubble Kaoru %}
 Right then. We wasted way too much time, but we're finally here.
@@ -487,6 +499,8 @@ You being away from me makes it easier on me, too.
     <p><span><b>Location:</b> Light Music Clubroom</span></p>
 </div>
 
+{% img /img/es/eventstory/aquarium/aquarium4_1.jpg %}
+
 {% bubble Madara %}
 Excuuuse meeeeeee!
 
@@ -506,7 +520,7 @@ It does not sound like a joke when you say it, Mikejima-kun. One would normally 
 {% bubble Madara %}
 Oh, you’re right! I apologise! But it’s really rare for you to ask me for a favor! I couldn’t help but get all excited about it!
 
-I’m so happy~! This is such an honor~!! It’s a festival~!!! Hahahaha!!! ☆
+I’m so happy~! This is such an honor\~!! It’s a festival\~!!! Hahahaha!!! ☆
 {% endbubble %}
 
 {% bubble Rei %}

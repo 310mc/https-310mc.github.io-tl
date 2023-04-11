@@ -54,6 +54,8 @@ hidden: true
     <p><span><b>Location:</b> Beach</span></p>
 </div>
 
+{% img /img/es/eventstory/aquarium/prologue_1.jpg %}
+
 {% bubble Kanata v2 %}
 *puka, puka~*
 
@@ -101,8 +103,10 @@ fufu, leave it to me. i may not look it, but i have quite the strength~♪
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> ADD</span></p>
+    <p><span><b>Location:</b> School Route</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/prologue_2.jpg %}
 
 {% bubble Kanata v2 %}
 whew… in the end, we got really into it, and ended up picking up all the litter.
@@ -174,4 +178,4 @@ now then, let's keep going. if you do not return home soon, the people at home w
 </div>
 
 ## Translation Notes
-[^1]: The word Kanata uses for “aberration” is *kaijin* 怪人, which is also a term in tokusatsu to refer to characters who are typically antagonistic humanoids. (In other words, usually villains.) You can find more info [here](https://dic.pixiv.net/a/%E6%80%AA%E4%BA%BA) (It’s in Japanese).
+[^1]: The word Kanata uses for “aberration” is *kaijin* 怪人, which is also a term in tokusatsu to refer to characters who are typically antagonistic humanoids. (In other words, usually villains.) You can find more info <a href="https://dic.pixiv.net/a/%E6%80%AA%E4%BA%BA" target="_blank">here</a> (It’s in Japanese).

@@ -406,7 +406,7 @@ the five eccentrics are supposed to have drifted apart from each other, but we s
 
 that makes me happy. i have always considered everyone as my friends.
 
-rei~! wataru~! are you watching me? i am truly happy right now~♪
+rei\~! wataru\~! are you watching me? i am truly happy right now~♪
 {% endbubble %}
 
 {% bubble Madara %}
@@ -531,4 +531,4 @@ we will sing together! and i hope, forever…♪
 
 ## Translation Notes
 [^1]: The original line for “is there trouble afoot” is 何か問題発生ですか (nanika mondai hassei desuka), which is a phrase Chiaki says in his ! era home screen (he says it without *desu* though), except Kanata is using it here.
-[^2]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in [Boarding Live](https://ensemble-stars.fandom.com/wiki/Boarding_Live)). A literal translation would be "water planet."</ref>
+[^2]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be "water planet."</ref>

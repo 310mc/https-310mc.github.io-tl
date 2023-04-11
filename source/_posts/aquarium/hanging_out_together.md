@@ -73,6 +73,8 @@ hidden: true
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
+{% img /img/es/eventstory/aquarium/hangingout1_1.jpg %}
+
 {% bubble Souma %}
 Anzu-dono~!
 
@@ -216,6 +218,8 @@ Yet he continues to keep things vague by hiding his sincerity with frivolous tal
 {% endbubble %}
 
 ## Chapter 2
+
+{% img /img/es/eventstory/aquarium/hangingout2_1.jpg %}
 
 {% bubble Kanata v2 %}
 whew. i am finally outside.
@@ -392,7 +396,7 @@ Memories…? Why’re you talking like you’re leaving for a far away place?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Kanata-kun? Hey, wai- Where are you wondering off to?
+Kanata-kun? Hey, wai— Where are you wondering off to?
 
 Quit doing things that make no sense, you enigma! Hold on, hold on! You can’t disappear on me! Give me a break!
 
@@ -424,6 +428,8 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium (Dolphin Show)</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/hangingout3_1.jpg %}
 
 {% bubble Madara %}
 Hmhmhmmm~♪
@@ -534,6 +540,12 @@ But if peace comes at the price of a good and kind child restraining themselves�
 {% endbubble %}
 
 ## Chapter 4
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
+</div>
+
+{% img /img/es/eventstory/aquarium/hangingout4_1.jpg %}
 
 {% bubble Sora %}
 Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides will come out!
@@ -723,6 +735,6 @@ Woah, woah—! Do not drag me over by the hand…
 ## Translation Notes
 [^1]: Coelacanth are an extremely old species of fish.
 [^2]: Hinata uses *atai* (feminine pronoun for “I”).
-[^3]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it [here](https://en.wikipedia.org/wiki/Hoichi_the_Earless).
-[^4]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you (Nanashi)[https://twitter.com/seiginoakashi] for the localization!
+[^3]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it <a href="https://en.wikipedia.org/wiki/Hoichi_the_Earless" target="_blank">here</a>.
+[^4]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you <a href="https://twitter.com/seiginoakashi" target="_blank">Nanashi</a> for the localization!
 [^5]: Natsume calls Wataru *Shisho* (Master), similarly to how Sora calls Natsume *Shisho*. So combining both Shisho's would become *Dai-shisho* (Grand-shisho).

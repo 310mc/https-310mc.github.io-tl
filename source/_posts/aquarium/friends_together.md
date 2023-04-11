@@ -73,6 +73,8 @@ hidden: true
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
+{% img /img/es/eventstory/aquarium/friends1_1.jpg %}
+
 {% bubble Sora %}
 HaHa~♪ Hina-chan, Hina-chan! Come over here!
 
@@ -96,6 +98,8 @@ But I’m worried about you… You’re kinda wobbling about. It’s like you ca
 
 Are you bad with places like this…? I’m sorry!
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/friends1_2.jpg %}
 
 {% bubble Sora %}
 HuHu~♪ Sora can’t see very well in a place like this!
@@ -248,7 +252,7 @@ Wha-Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
 
 <th>(Accurately using magic and leading someone just a little closer to a happier direction… That's easier said than done. It's still tricky for Sora.)</th>
 
-<th>(… Even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)</th>
+<th>(…Even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)</th>
 
 Look, Hina-chan, look! There’s a big thing moving around in that water tank~!
 {% endbubble %}
@@ -322,7 +326,7 @@ Hmm? Wait, that's not a shark, Sora-kun. That's Akatsuki's… Kanzaki-senpai?
 {% endbubble %}
 
 {% bubble Souma %}
-… You bastard! Where did you go!? It is inexcusable of you to sneakily take a head start!
+…You bastard! Where did you go!? It is inexcusable of you to sneakily take a head start!
 
 I was a fool for admiring how you were thinking for once!
 {% endbubble %}
@@ -419,8 +423,10 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 ## Chapter 3
 
+{% img /img/es/eventstory/aquarium/friends3_1.jpg %}
+
 {% bubble Kaoru %}
-<th>(Hrnn… What do I do now…? I lost complete sight of Anzu-chan…)</th>
+<th>(Mmm… What do I do now…? I lost complete sight of Anzu-chan…)</th>
 
 <th>(I got so distracted while trying to catch up with her that I didn’t even notice that Souma-kun isn’t here anymore. Jeez, what am I *doing?*)</th>
 
@@ -553,9 +559,7 @@ so if you can, please do not try to interfere, kaoru.
 
 ## Chapter 4
 
-<div class="msr-location">
-    <p><span><b>Location:</b> In Front of the Station</span></p>
-</div>
+{% img /img/es/eventstory/aquarium/friends4_1.jpg %}
 
 {% bubble Madara %}
 Hellooo, is this Chiaki-san?
@@ -658,7 +662,7 @@ I want you to pursue your own kind of justice. I'm sure that you, who loves hero
 
 Mhm. Bye byeee~ I’ll call you again.
 
-<th>(… Alright then. First off, time to go find the managers of the aquarium.)</th>
+<th>(…Alright then. First off, time to go find the managers of the aquarium.)</th>
 
 <th>(I’ll ask about what’s going on, and if it starts sounding like the worst case scenario, I’ll make them do things my way even if I have to threaten them.)</th>
 
@@ -672,6 +676,8 @@ Mhm. Bye byeee~ I’ll call you again.
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium (Entrance)</span></p>
 </div>
+
+{% img /img/es/eventstory/aquarium/friends5_1.jpg %}
 
 {% bubble Wataru %}
 *Amazing!* How wonderful!
@@ -688,6 +694,8 @@ They don't forget to leave their guests wanting more, and effortlessly pull them
 
 Such sublime attention to detail…! I am truly impressed! I would love to learn from this, in fact! ☆
 {% endbubble %}
+
+{% img /img/es/eventstory/aquarium/friends5_2.jpg %}
 
 {% bubble Rei %}
 So I see the very first thing that attracts your attention is the design of this entrance… Are you incapable of enjoying an aquarium like one normally would, Hibiki-kun?
