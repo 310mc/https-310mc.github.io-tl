@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo clean && hexo g",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "deploy": "hexo clean && hexo g && hexo d && hexo clean",
+    "server": "hexo clean && hexo s"
   },
   "hexo": {
     "version": "5.4.0"
@@ -14,23 +14,21 @@
   "dependencies": {
     "hexo": "^5.0.0",
     "hexo-all-minifier": "^0.5.3",
-    "hexo-bubble": "^2.0.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^2.0.0",
-    "hexo-generator-searchdb": "^1.4.0",
+    "hexo-generator-searchdb": "^1.3.2",
     "hexo-generator-tag": "^1.0.0",
     "hexo-hide-posts": "^0.1.1",
-    "hexo-reference-mashiro": "^1.2.3",
+    "hexo-mashiro": "^1.0.0",
     "hexo-renderer-ejs": "^1.0.0",
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-next": "^8.8.1",
+    "hexo-theme-next": "^8.0.0-rc.5",
     "hexo-word-counter": "0.0.2",
-    "markdown-it-footnote": "^3.0.3",
-    "tippy.js": "^6.3.7"
+    "markdown-it-footnote": "^3.0.3"
   }
 }
