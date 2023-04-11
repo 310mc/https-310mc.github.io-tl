@@ -95,6 +95,8 @@ Burn the flames of your soul red! Make a large river with the sweat of your yout
 Hey, hey Sally~ If you don’t plan on drinking that, then give it to me! I'm feeling really thirsty from the heat! ♪
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_2.jpg %}
+
 {% bubble Mao %}
 Okay sure, but. Could you pay attention to Buchou?
 {% endbubble %}
@@ -154,6 +156,8 @@ Like, I even helped Anzu with the plans for Tanabata Festival until it was perfe
 
 It was really tough… I’m glad it was approved in the end.
 {% endbubble %}
+
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_3.jpg %}
 
 {% bubble Midori %}
 Same here… I’m exhausted… I’m so tired of summer… I just wanna stay inside my room with the AC on all day…
@@ -270,6 +274,8 @@ Right, then I’ll get a dessert… It’s pretty hot, so ice-cream sounds good 
 {% bubble Chiaki %}
 Okay, have you decided on what you want? I’ll call over a waiter! Excuse meee!! ☆
 {% endbubble %}
+
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy2_2.jpg %}
 
 {% bubble Subaru %}
 You're always so, so energetic… Seriously, what did you wanna talk about?
@@ -619,6 +625,8 @@ Ahaha, yeah! Hip-hip-hooray~! ♪
 <th>(But I like stuff like that, soo~♪)</th>
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_2.jpg %}
+
 {% bubble Shinobu %}
 Isara-donoo~!!!
 {% endbubble %}
@@ -661,7 +669,7 @@ Sorry! I'll make it up to you guys later, so I’m counting on you now!
     <p><span><b>Location:</b> Dance Room</span></p>
 </div>
 
-{% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_2.jpg %}
+{% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_3.jpg %}
 
 {% bubble Mao %}
 Uh, I'm coming in…?

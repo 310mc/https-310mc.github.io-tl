@@ -180,11 +180,15 @@ hidden: true
 “And I wanna sing and dance lots with everyone~ I’m not letting a single second go to waste! Bring it on, Ryuseitai…☆”
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/ep1_2.jpg %}
+
 {% bubble Hokuto %}
 “Fufu, you're unusually confident of yourself, Yuuki. It feels reassuring.”
 
 “As long as we’re all looking in the same direction — looking forward — we’ll be able to break through any wall, and charge onwards. We can go anywhere.”
 {% endbubble %}
+
+{% img /img/es/eventstory/orihimeandhikoboshi/ep1_3.jpg %}
 
 {% bubble Wataru %}
 “*Amazing!* How wonderful of you, Hokuto-kun! You're actually joining in on the conversation!”
@@ -238,6 +242,8 @@ hidden: true
 <th>(I never want the finale to come! Oh, stars in the night sky! Oh, Orihime-sama, Hikoboshi-sama! Please, hear my wish!)</th>
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/ep2_1.jpg %}
+
 {% bubble Kanata v2 %}
 “♪\~♪\~♪”
 
@@ -259,6 +265,8 @@ hidden: true
 
 <th>(We won't make wishes come true only once a year, like Tanabata. We'll make them come true time after time, all year round.)</th>
 {% endbubble %}
+
+{% img /img/es/eventstory/orihimeandhikoboshi/ep2_2.jpg %}
 
 {% bubble Tetora %}
 “♪\~♪\~♪”
@@ -366,6 +374,8 @@ hidden: true
 <th>(I'm so sick of people like you! You all just piss me off…! Ahh!! I feel like I'm gonna explode from all this anger and heat!)</th>
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/ep3_1.jpg %}
+
 {% bubble Subaru %}
 …Takamin, concentrate. You always slipped up on this part during practice, remember?
 
@@ -470,6 +480,8 @@ They're buzzing back and forth! It’s making me more and more excited!
 <th>(He has to rest now before it's too late! What should I do? Do I try to get close to him, and help him offstage without the audience noticing…?)</th>
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/ep3_2.jpg %}
+
 {% bubble Mao %}
 “♪\~♪\~♪”
 {% endbubble %}
@@ -491,6 +503,8 @@ They're buzzing back and forth! It’s making me more and more excited!
 {% endbubble %}
 
 ## Chapter 4
+
+{% img /img/es/eventstory/orihimeandhikoboshi/ep4_1.jpg %}
 
 {% bubble Shinobu %}
 …………

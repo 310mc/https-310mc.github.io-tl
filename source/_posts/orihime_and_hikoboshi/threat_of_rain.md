@@ -180,7 +180,7 @@ Ah, sorry. I wasn't paying attention.
 {% endbubble %}
 
 {% bubble Subaru %}
-Coming in~! Sorry we’re late! We had to carry practice stuff here, see~?
+Coming in\~! Sorry we’re late! We had to carry practice stuff here, see\~?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -611,8 +611,6 @@ Let's send our own shine to the whole world~!☆
 
 ## Chapter 4
 
-{% img /img/es/eventstory/orihimeandhikoboshi/threat4_1.jpg %}
-
 <div class="msr-narration">
     <p>Several minutes later…</p>
 </div>
@@ -682,7 +680,7 @@ So, just like we always do it, the one who’s the best coaches for the rest, ri
 
 I had a feeling this'd happen, so I practiced the choreography at home! Watch closely — I'm about to show you how to do it~! ☆
 
-♪~♪~♪
+♪\~♪\~♪
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -714,7 +712,7 @@ Yep! Orihime and Hikoboshi were originally stars, after all.
 {% endbubble %}
 
 {% bubble Hokuto %}
-? I don't get it, how does that dance move look like a star?
+…? I don't get it, how does that dance move look like a star?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -785,16 +783,14 @@ Wha— Yuuki, stop. Don’t do that weird “reflect light off glasses” trick.
 
 ## Chapter 5
 
-{% img Orihime and Hikoboshi - Chapter 9.png %}
-
 <div class="msr-location">
-    <p><span><b>Location:</b> Dance room</span></p>
+    <p><span><b>Location:</b> Near the Gym</span></p>
 </div>
 
-{% img /img/es/eventstory/orihimeandhikoboshi/threat1_1.jpg %}
+{% img /img/es/eventstory/orihimeandhikoboshi/threat5_1.jpg %}
 
 <div class="msr-narration">
-    <p>A few hours ago…</p>
+    <p>Meanwhile, outside the dance room that Trickstar is practicing in…</p>
 </div>
 
 {% bubble Shinobu %}
@@ -900,6 +896,8 @@ Well… It *is* annoying to get told off without being able to say anything back
 {% bubble Midori %}
 <th>(I-It’s going to be okay, right…? Please don't move around like that, Tetora-kun… Please…)</th>
 {% endbubble %}
+
+{% img /img/es/eventstory/orihimeandhikoboshi/threat5_2.jpg %}
 
 {% bubble Subaru %}
 Hey, Ryuseitai kids. We're gonna get distracted if you keep staring at us.

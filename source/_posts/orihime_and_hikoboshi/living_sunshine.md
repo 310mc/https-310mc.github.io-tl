@@ -597,6 +597,8 @@ I mean, Orihime and Hikoboshi are happy enough just knowing they can rendezvous 
 …Ahh, man! I really can’t say it right! Ahaha! ♪
 {% endbubble %}
 
+{% img /img/es/eventstory/orihimeandhikoboshi/living4_1.jpg %}
+
 {% bubble Shinobu %}
 Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our rehearsals, so I will take you over there! ♪
 
