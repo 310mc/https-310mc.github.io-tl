@@ -83,7 +83,7 @@ First off, by the time Keito finally got Rei to the live house, something unexpe
 
 ## Chapter 4/6/7 of Chaos
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 ♪\~♪\~♪
 {% endbubble %}
 
@@ -97,7 +97,7 @@ Huh? That's… Morisawa from Ryuseitai, isn't it?
 (Why is he here? This is completely unexpected… What's going on?)
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Hm? You are…? Are you friends of the delinquents gathered here?
 {% endbubble %}
 
@@ -105,7 +105,7 @@ Hm? You are…? Are you friends of the delinquents gathered here?
 Do I look like one to you?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Um, no… You seem pretty serious, and you aren't like a delinquent at all.
 
 But if that’s the case, then you’re in trouble! Leave this place to me, and get away from here right away!
@@ -119,7 +119,7 @@ W-What are you on about?! Explain, Morisawa! I might be able to help!
 …<em>(whispering)</em> Hey, was Eichi here? He didn’t get kidnapped for real, did he?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Eichi? Ahh, you mean Tenshouin-kun! He looked like he was in great danger, so I helped him out!
 {% endbubble %}
 
@@ -129,7 +129,7 @@ You’re too loud! Wait, I don’t really understand why you're up here… What 
 From what I can tell, you seem to be singing onstage for some reason.
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 A-Ah… It’ll take a while to explain, and it’s a bit embarrassing, so it’s hard to say.
 
 But don’t worry about that! Run away right now!
@@ -153,7 +153,7 @@ Later, Keito seems to have also been swept with the mood, singing along with Rei
 ♪\~♪\~♪
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 S-sorry but, Hasumi-kun… right? I feel like you could help me understand. What exactly is going on right now?
 {% endbubble %}
 
@@ -163,7 +163,7 @@ That’s what I want to know. Morisawa, why are you singing onstage all by yours
 Oh right, is this part of your Ryuseitai activities?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 No way! A rowdy underground live house like this is very ill-fitting for the duties performed by heroes of justice.
 
 A more ideal place would be a really tall skyscraper, or an abandoned mining cave.
@@ -173,7 +173,7 @@ A more ideal place would be a really tall skyscraper, or an abandoned mining cav
 What are you even talking about… Okay, then why are you in a place like this?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Well, when Mikejima-san isn’t around, the others don’t have any motivation, so I struggled very hard just to get them together in one place… and after that, we wound up in this underground live house.
 
 Then they started having fun eating and drinking as they messed around and sang karaoke. Well… That’s the usual for us, though.
@@ -195,7 +195,7 @@ And that’s why I started singing.
 …That must’ve been unfortunate for you.
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Yeah, they sneered and made fun of me… It was pretty rough…
 
 But I waited for an opening and loosened Tenshouin-kun’s binds a little, so he could escape by himself.
@@ -215,7 +215,7 @@ After that, I just had to buy enough time by bringing all the attention to mysel
 (I have to be cautious. Well, Mikejima’s the more important part, and he's working overseas right now, so it should likely be alright.)
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 …? You look grim, Hasumi…kun. What's wrong?
 
 It’ll be okay! I’ll protect you, no matter what!
@@ -237,7 +237,7 @@ Then Keito monologues about the plan which I already explained.
 After a monologue of the plan, Keito wonders how a plan so perfect (or so he thought) could’ve been ruined like this. Is it really because of Chiaki doing something unnecessary, or was it a plan that only works in theory?
 {% endnote %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 …What’s wrong, Hasumi-kun? You don’t look well. Should I take you to the nearest hospital?
 
 Tenshouin-kun seemed unwell, too… I think some people in black suits panicked and took him to the hospital.
@@ -249,7 +249,7 @@ I guess it's not surprising that honor students like you wouldn't feel so well i
 …? Wait, Eichi was taken to the hospital?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 I’m only guessing. I got worried about him because he was obviously feeling unwell, so I paid close attention to what the people in black suits were saying… and they sounded shaken up while contacting a hospital.
 {% endbubble %}
 
@@ -263,7 +263,7 @@ I’m only guessing. I got worried about him because he was obviously feeling un
 (What “perfect plan”… I’m the fool.)
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 W-What’s wrong? Are you really alright, Hasumi-kun…?
 {% endbubble %}
 
@@ -271,7 +271,7 @@ W-What’s wrong? Are you really alright, Hasumi-kun…?
 …Yes, I’m alright. I’m calm. I’m just shocked at my own carelessness.
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 I see. It’s alright, it happens. I’m also always irritated by my own incompetence. I suppose there’s only so much you can do as one single human being.
 
 Even so, I can’t stand and watch as someone falls into danger right before my eyes.
@@ -297,7 +297,7 @@ Rei and Keito have a small chat, where Keito is displeased by Rei’s “People 
 Anyways, I went with my gut and barged in on this guy’s live, since he sounded so pitiful, singing all alone.
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 I'm guessing you mean me by “this guy.” Thank you. To be honest, I really couldn’t handle being here any longer, so you helped me out…
 
 The atmosphere of this place changed entirely, all thanks to you two spontaneously joining me and singing.
@@ -383,7 +383,7 @@ Chiaki thinks it was a dispute between the two, and…
 (**Note:** It’s implied that Kaoru’s dad owns the live house.)
 {% endnote %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Excuse me, Hakaze. Is there some kind of argument going on? If you don’t mind, I’ll be your mediator!
 {% endbubble %}
 
@@ -391,7 +391,7 @@ Excuse me, Hakaze. Is there some kind of argument going on? If you don’t mind,
 Huh? You’re talking to me like we know each other but… who were you again?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 I’m Morisawa, we’re in the same class. Please remember that. Though, you aren’t usually in school, so it makes sense you don’t know me.
 {% endbubble %}
 
@@ -403,7 +403,7 @@ You guys from Ryuseitai don’t really have good manners, so be careful, okay? T
 If it starts to get worse, you might get thrown out and forbidden from entering the live house again.
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Ack… I’m sorry, I’ll try to tell them. I don’t think they really listen to what I say though.
 {% endbubble %}
 
@@ -413,7 +413,7 @@ That so? Well, whatever, at least try to enjoy yourself with the amount of money
 I recommend diluted orange juice~♪
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Hakaze, are you working in this underground live house? I’m not sure I get it, but are you tight on money? It must be rough on you…
 
 Alright then, I’ll order lots of drinks!
@@ -425,7 +425,7 @@ Um. I feel like we’re kinda off here, or like we’re on two different topics�
 Morisawa-kun, you seem like an earnest good boy~ So why are you in Ryuseitai, when it has a bad reputation?
 {% endbubble %}
 
-{% bubble Chiaki past %}
+{% bubble Chiaki mgn %}
 Its state may be like this right now, but the group upholds the image of being a hero of justice…
 
 That's why I’d like to reform it from within, so that it can be reborn once again to live up to the ideal that comes with its image.
