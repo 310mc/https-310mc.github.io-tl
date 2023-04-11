@@ -70,18 +70,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/es2mainstory/ssfinalsbanner.jpg"
             alt="SS Finals"
         />
     </div>
-    <a href="#Main-Stories" class="storyName" target="_blank">
-        <span>SS Finals (Coming Soon!)</span>
-        <span class="read soon"></span>
+    <a href="/es2_mainstory/ss_finals" class="storyName" target="_blank">
+        <span>SS Finals (In Progress!)</span>
+        <span class="read"></span>
     </a>
-</div>-->
+</div>
 </div>
 
 ## Event Stories

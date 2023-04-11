@@ -1,17 +1,18 @@
 ---
 title: "SS Finals – Ryuseitai's Scenes"
-date: 2020-1-31 9:00:00
+date: 2021-12-31 9:00:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Subaru]
 - [Enstars, Tetora]
 - [Enstars, Shinobu]
+- [Enstars, Hokuto]
+- [Enstars, Kanata]
 tags:
 - Main Story
 - Akira
 description: "[ES!!] Ryuseitai's scenes in SS Finals."
-hidden: true
 permalink: ss_finals/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -26,6 +27,7 @@ permalink: ss_finals/
 		            <a href="/categories/Enstars/Midori" character="Midori"></a>
 		            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
 		            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
                 <a href="/categories/Enstars/Subaru" character="Subaru"></a>
                 </div>
@@ -60,14 +62,36 @@ permalink: ss_finals/
 
 <!-- more -->
 
-{% bubble Hokuto %}
-It’s as Akehoshi says. We are extremely grateful to Morisawa-senpai — No, to Ryuseitai as a whole, for what they’ve done for us during the first DDD.
+{% bubble Subaru %}
+——Ryuseitai!
+{% endbubble %}
 
-We will never forget what you did for us. We assure you we won’t do anything to repay that kindness with malice instead.
+{% bubble Hokuto %}
+Don’t set out to battle just yet!
+{% endbubble %}
+
+{% bubble Chiaki %}
+Hm? Hidaka? Akehoshi? What’s up, what’s wrong?
+
+I thought you guys at Trickstar became much more quiet this year. Are you actually planning to cause a stir on this final stage…?
+{% endbubble %}
+
+{% bubble Tetora %}
+Spare us from any unnecessary disruptions, ‘kay?
+{% endbubble %}
+
+{% bubble Subaru %}
+We wouldn’t do that! How *rude!* Hrmph, hrmph!
+{% endbubble %}
+
+{% bubble Hokuto %}
+It’s as Akehoshi says. We’re extremely grateful to Morisawa-senpai — No, to Ryuseitai as a whole, for what you’ve all done for us during the first DDD.
+
+We will never forget what you did for us. We assure you that we won’t do anything to repay that kindness with spite instead.
 {% endbubble %}
 
 {% bubble Midori %}
-So you say, but all you did in Tanabata last year was put pressure on us… My depression got <em>worse</em> after that, y’know…
+So you say, but all you did in Tanabata last year was put pressure on us… My depression got <em>worse</em> for a while after that, y’know…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -75,7 +99,7 @@ Ahaha, but thanks to everything that had happened then, we were able to finally 
 {% endbubble %}
 
 {% bubble Midori %}
-Well, I’m sure it was nice for you since you were just flirting with Isara-senpai… but it was a traumatic experience for me, personally…
+Well, I’m sure it was nice for you since you were just flirting with Isara-senpai, Shinobu-kun… but it was a traumatic experience for me, personally…
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -97,7 +121,7 @@ erm. did you have something to [tell] us, trickstar?
 {% bubble Chiaki %}
 Fuhaha! You came to cheer for us as fellow members of the Red Team, right? I’m sure that’s why!
 
-Thank you! We’ll turn your cheers into strength, and march forward!
+Thank you! We’ll turn your cheers into strength, and march forth!
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -165,13 +189,13 @@ I’d never be happy being pat by *you!*
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, exactly~ i won’t say that your help is [unnecessary], but…
+fufu, exactly~ i will not say that your help is [unnecessary], but…
 
-there is no [need] to worry about us. we will not lose again.
+there is no [need] to worry about us. we will not lose anymore.
 
 we will win this [battle], and ensure [victory] for the [red team], all so that we may [relieve] those who will [perform] after us.
 
-don’t you think that’s very [ryuseitai] of us?
+don’t you think that is very ryuseitai of us?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -191,3 +215,29 @@ Mhm. If anything, I’m sorry we ruined your focus just before your performance.
 {% bubble Midori %}
 You *really* did… What an absolute nuisance.
 {% endbubble %}
+
+{% bubble Tetora %}
+Now, now… They aren’t the type to act on ill intent, so let’s laugh it off and forgive ‘em.
+{% endbubble %}
+
+{% bubble Kanata %}
+laugh and forgive! that is also very ryuseitai-like~♪
+{% endbubble %}
+
+{% bubble Subaru %}
+Ahaha~ True, that’s what I love about you guys.
+
+You always give me energy and courage.  …Good luck out there, I mean it!
+
+♪\~♪\~♪
+{% endbubble %}
+
+{% bubble Hokuto %}
+Right, we’ll excuse ourselves now. Sorry for the trouble.
+
+We wish you the best of luck from the bottom of our hearts.
+{% endbubble %}
+
+<div toc>
+{% btn /translations#Main-Stories,, star, Index %}
+</div>
