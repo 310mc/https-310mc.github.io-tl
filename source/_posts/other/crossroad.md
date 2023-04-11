@@ -21,7 +21,7 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Keito" character="Keito"></a>
                 <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                 <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
@@ -49,7 +49,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    Anonymous
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/ReikazeYuuki">ReikazeYuuki</a>
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@ The ideal result was that Rei would cause a huge ruckus with an amazing live and
 
 Rei would then lose all his supporters, and be persecuted by everyone. In that moment, Rei will finally have no choice but to use the student council('s influence, I suppose). It'd be even better if Rei could then see the student council as his own home. And so, with Rei on the student council's side, Keito could make him the "boss", and thus finally reform the academy.
 
-He explains a little extra details about the plan, but this is basically the base of it.
+He explains a little extra details about the plan, but this is basically the main gist.
 
 If this went all according to plan, Keito presumes he would have been able to "purify" the academy from these delinquent students. But things didn't go as planned.
 
@@ -106,7 +106,7 @@ Do I look like one to you?
 {% endbubble %}
 
 {% bubble Chiaki past %}
-Um, no… You seem pretty serious, and you're not like a delinquent at all.
+Um, no… You seem pretty serious, and you aren't like a delinquent at all.
 
 But if that’s the case, then you’re in trouble! Leave this place to me, and get away from here right away!
 {% endbubble %}
@@ -116,7 +116,7 @@ W-What are you on about?! Explain, Morisawa! I might be able to help!
 
 (And while I'm pretending to be worried, I’ll move away from Sakuma-san and… sneakily get closer to Morisawa and talk to him quietly.)
 
-…(whispering) Hey, was Eichi here? He didn’t get kidnapped for real, did he?
+…<em>(whispering)</em> Hey, was Eichi here? He didn’t get kidnapped for real, did he?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -139,13 +139,15 @@ Worry not, I’m a hero of justice. I’ll make sure you can safely get away fro
 
 {% bubble Keito %}
 I don’t understand. Mmm… Just what is this guy going on about?
+{% endbubble %}
 
+{% note narration %}
 Then Keito worries about how everything's turning out different from what he expected, but it’s too late to change the plan now that Rei is here. So he decides to drop this plan and forget about it, since it’s not worth the gamble.
 
 But Rei accepts the chaos as it is, and wants to have fun with it since it’s already here (Keito rejects the idea at first, but ends up being swept along with it.)
 
 Later, Keito seems to have also been swept with the mood, singing along with Rei on the live house’s stage, until he snaps out of it and demands to understand the current situation they’re in (to which Rei tells him don’t think just feel.)
-{% endbubble %}
+{% endnote %}
 
 {% bubble Rei %}
 ♪\~♪\~♪
@@ -162,7 +164,7 @@ Oh right, is this part of your Ryuseitai activities?
 {% endbubble %}
 
 {% bubble Chiaki past %}
-No way! A rowdy underground live house like this is very ill-fitting for the duties performed by allies of justice.
+No way! A rowdy underground live house like this is very ill-fitting for the duties performed by heroes of justice.
 
 A more ideal place would be a really tall skyscraper, or an abandoned mining cave.
 {% endbubble %}
@@ -204,9 +206,9 @@ After that, I just had to buy enough time by bringing all the attention to mysel
 {% bubble Keito %}
 (I can’t believe this… So thanks to this idiot doing something completely unnecessary, my plans have been forcibly changed?)
 
-(I never expected Morisawa Chiaki from Ryuseitai to be this kind of person.)
+(I never expected Morisawa Chiaki from Ryuseitai to be this sort of person.)
 
-(I thought Ryuseitai was a bunch of fools, going only by the name of “allies of justice.”)
+(I thought Ryuseitai was a bunch of fools, going only by the name of “heroes of justice.”)
 
 (But now I have to reconsider what I've known about them… It seems like only Mikejima and this guy are different from the others, though.)
 
@@ -287,7 +289,7 @@ I will become the ally of justice that I’ve looked up to as a kid.
 (I thought Morisawa had absolutely no striking features about him, but he really does seem to be different from the other pack.)
 {% endbubble %}
 
-{% note Narration %}
+{% note narration %}
 Rei and Keito have a small chat, where Keito is displeased by Rei’s “People are unique and that’s makes them interesting” and “C’mon, let’s put that aside and sing for real now”
 {% endnote %}
 
