@@ -77,7 +77,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             alt="SS Finals"
         />
     </div>
-    <a href="/es2_mainstory/ss_finals" class="storyName" target="_blank">
+    <a href="/ss_finals" class="storyName" target="_blank">
         <span>SS Finals (In Progress!)</span>
         <span class="read"></span>
     </a>
@@ -740,6 +740,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     </div>
     <a href="/birthday_story" class="storyName" target="_blank">
         <span>Birthday Story</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/christmasparty/banner_300px.jpg"
+            alt="Yumenosaki Christmas Party"
+        />
+    </div>
+    <a href="/yumenosaki_christmas_party" class="storyName" target="_blank">
+        <span>Yumenosaki Christmas Party</span>
         <span class="read"></span>
     </a>
 </div>

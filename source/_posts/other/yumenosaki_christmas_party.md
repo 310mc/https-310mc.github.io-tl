@@ -371,4 +371,4 @@ Now, now! Celebrating Christmas with your friends can be just as fun!
 Yeah, sure, though it isn't really romantic or anything. But messing around on Christmas isn't so bad either, I guess. ♪
 {% endbubble %}
 
-<div toc>{% btn /translations,, star, Index %}</div>
+<div toc>{% btn /translations#Other-Stories,, star, Index %}</div>
