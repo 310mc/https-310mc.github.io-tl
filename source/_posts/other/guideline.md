@@ -41,21 +41,9 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 
 ## Currently Working On
 
-<big>※ Uploading the following [translations](/translations) to this site:</big>
+<big>※ Finish uploading the following [translations](/translations) to this site:</big>
 
 <div class="stories">
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
-                alt="Climax"
-            />
-        </div>
-        <a href="/climax" class="storyName" target="_blank">
-            <span>Climax</span>
-            <span class="read"></span>
-        </a>
-    </div>
     <div class="story">
         <div class="image">
             <img
@@ -68,7 +56,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
+    <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
@@ -77,9 +65,9 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         </div>
         <a href="" class="storyName" target="_blank">
             <span>Aquarium</span>
-            <span class="read soon"></span>
+            <span class="read"></span>
         </a>
-    </div>-->
+    </div>
     <!--<div class="story">
         <div class="image">
             <img
@@ -92,7 +80,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read soon"></span>
         </a>
     </div>-->
-    <!--<div class="story">
+    <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/schoolfestival4/tetorabcgframe_300px.jpg"
@@ -104,7 +92,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read soon"></span>
         </a>
     </div>
-    <div class="story">
+    <!--<div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe_300px.jpg"

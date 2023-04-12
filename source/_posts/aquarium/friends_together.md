@@ -569,57 +569,59 @@ so if you can, please do not try to [interfere], kaoru.
 {% bubble Madara %}
 Hellooo, is this Chiaki-san?
 
-Yep! It's me! It's your Mama~♪
+Yep! It's me! It's your Mamaaa~♪
 
-Hahaha, if it sounds awkward, then you don't have to force yourself to call me “Mama”… You don't have to be considerate towards people and hide your own true feelings.
+Hahaha, if it feels awkward, then you don't have to force yourself to call me “Mama”… You don't have to be considerate towards people and disguise your true feelings.
 
-That pure side of you can be tainted easily, so I'm worried for you, Chiaki-san…
+That pure side of you can be tainted sooo easily, so I'm worried for you, Chiaki-san…
 
 Anyway, sorry, but I'll have to talk quietly. If it's hard to pick up what I'm saying, then raise the volume on your side.
 
-It says on the pamphlet to be respectful while talking on your phone inside the aquarium, so yeah… I might annoy someone if I talk loudly.
+It says on the pamphlet to be respectful while talking on your phone inside the aquarium, sooo yeah…
 
-Alright. Good, good… You're an obedient and good kid as always.
+I might annoy someone if I talk loudly.
 
-As a reward for being well-behaved, I'll clear off a little bit of your stress.
+Alright. Good, good… You're an obedient and good boy as always.
+
+As a reward for being well-behaved, I'll clear off a liiittle bit of your stress.
 
 Right now, I'm at the aquarium for various reasons, but…
 
-Kanata-san can't join in with Ryuseitai's activities because of a problem that happened, and it's causing you trouble, right?
+I'm guessing that since Kanata-san can't join in with Ryuseitai's activities because of a problem that happened, it's causing you trouble, right?
 
-I see. So it's not a trouble, but it is making you worried… Okay, then you should properly say that *that's* how you really feel.
+I see. So it's not a trouble, but it is making you worried… Okay, then you should properly say that *that's* how you actually feel.
 
-Even if you lie and say otherwise, someday those lies won't hold up anymore. Besides, Kanata-san is sensitive… He'll more likely feel lonely if you step away from him out of consideration.
+Even if you lie and say otherwise, someday those lies won't hold up anymore. Besides, Kanata-san is preeetty smart… He'll more likely feel lonely if you step away from him out of consideration.
 
-Hahaha, so that goes for both of you, huh? It seems like you both find each other so important that you end up holding back from each other…
+Hahaha, that goes for both of you, I think. It seems like you both find each other so important that you end up holding back from each other…
 
-But you know, it's fine to fight each other with all you've got every once in a while.
+Buuut y'know, it's fine to fight each other with all you've got every once in a while.
 
-*“Diamonds only form under extreme pressure.”* Don’t the tokusatsu shows always say that?
+<em>“Diamonds only form under extreme pressure.”</em>[^1] Aren't tokusatsu shows practically built on that concept?
 
-Well, I plan to try and solve this problem as much as I can this time around.
+Weeell, I plan to try and solve this problem as much as I can.
 
-After all, I *did* leave literally everything behind to go off on a trip by myself… I need to do something—even if a little bit—for my former home, Ryuseitai.
+After all, I *did* leave literally everything behind to go off on a trip by myself… I need to do something — even if a little bit — for my former home, Ryuseitai.
 
 Mhm, so you haven't heard much about Kanata-san's circumstances at home.
 
-Oohh… So he said he’d only join Ryuseitai if you promised not to mention anything about that, I see.
+Ohh… So when he was gonna join Ryuseitai, he asked you to promised not to mention anything about that, I see.
 
-That's why all you can do is just stand by and watch, huh? You're loyal to your promises.
+That's why aaall you can do is just stand by and watch, huh? You're loyal to your promises.
 
-Are you scared that he'd drift away from Ryuseitai if you don’t keep that promise?
+Are you scared that he'd drift away from Ryuseitai if you break that promise?
 
-He does have incredibly strong potential—not just as part of the Five Eccentrics, or Ryuseitai.
+He's one of the Five Eccentrics — He has incredibly powerful capabilities within the school itself, not just Ryuseitai.
 
-And not only that, but you're also friends—pretty much just like family now, right? So you don't want to seperate from him, I understand.
+Aaand not only that, but you're also friends — pretty much just like family now, right? So you don't wanna separate from him, I understand.
 
-But… His circumstances at home are a deep darkness he's carried since he was born. If you're going to keep accompanying him, then someday you won’t be able to avoid it anymore.
+But… His circumstances at home are a deep darkness he's carried since he was born. If you're gonna keep accompanying him, then someday you won’t be able to avoid it anymore.
 
-If he's important to you, then don’t wait for that time to come—I want you to prepare yourself for this and break into it by yourself.
+If he's important to you, then don’t wait for that time to come — I want you to prepare yourself for this and break into it by yourself.
 
 If you do that, you'll become a great man who can solve everything without harm, Chiaki-san… If anyone can do it, it's *you.*
 
-Even if I can't—Even if no one else can—*you* will be able to.
+Even if I can't — Even if no one else can — *you* will be able to.
 
 The only one who could make the cold, dark universe shine bright is the one who shines passionately himself: The sun.
 
@@ -631,35 +633,35 @@ It’ll probably solve itself one way or another. The worst case scenario is tha
 
 But I can’t truly solve this. The circumstances at Kanata-san’s home are deeply rooted within this whole region.
 
-It’s a deep seated grudge… Nothing could solve it—Not money, nor violence, nor any kind of authority.
+It’s a deep seated grudge from long past… Nothing could solve it — Not money, nor violence, nor any kind of authority.
 
-Even the student council who’ve previously reformed the academy—Even *fine* and Akatsuki…
+Even the Student Council who’ve previously reformed the academy — *fine* and Akatsuki…
 
-They avoided heavy involvement with his circumstances, and brushed it all off as being his own personal problem.
+They avoided heavy involvement with his circumstances, and suppressed him by brushing it all off as being his own personal problem.
 
-Because of that, there ended up being something of an after-effect, and now Kanata-san is in all kinds of trouble.
+Because of that, there ended up being sooomething of an after-effect, and now Kanata-san is in all kinds of trouble.
 
 He still has many unresolved problems of his own.
 
-I could just say it’s all because of the student council, but eh, it’s too late for that… Nothing would come out of slamming Eichi-san or Keito-san’s face in.
+I could just say it’s all 'cause of the Student Council, but eh, it’s too late for that… Nothing'd come out of slamming Eichi-san or Keito-san’s face in.
 
 All it’d do is make my fist hurt. This wouldn’t go like a tokusatsu show would, huh…
 
-The only thing that can be done is to take time solving this—to slowly and carefully undo all the tangled knots.
+The only thing that can be done is to take time solving this — to slowly and carefully undo all the tangled knots.
 
-And you’re really good at stuff like that, right? Good luck, Chiaki-san.
+And you’re reaaally good at stuff like that, right? Good luck, Chiaki-san.
 
 Yep, if things start progressing, I’ll tell you about it in secret.
 
-You probably can't focus due to how worried you are, but this is a really important time for Ryuseitai. As its reputation increases, your work increases as well, right?
+You probably can't focus due to how worried you are, but this is a really important time for Ryuseitai. As its reputation increases, your work has been increasing as well, right?
 
 So focus on your practice sessions, and leave this to me. Don’t worry, I’ll do whatever I can so that Kanata-san can come home to Ryuseitai as soon as possible.
 
-You’ll be able to say, *“The five of us together are Ryuseitai”* before you know it.
+You’ll be able to say, *“The five of us together are Ryuseitai”* befooore you know it.
 
 Haha, you’re so silly… You don’t need to thank me.
 
-I couldn’t become a hero—I’m just an uncool guy who’s trying as hard as he can to make it up to the people he couldn’t protect.
+I couldn’t become a hero — I’m just an uncool guy who’s trying as hard as he can to make it up to the people he couldn’t protect, even though it's already so late.
 
 Don’t look up to me… Don’t call someone like me “incredible”… Chiaki-san.
 
@@ -671,7 +673,7 @@ Mhm. Bye byeee~ I’ll call you again.
 
 <th>(I’ll ask about what’s going on, and if it starts sounding like the worst case scenario, I’ll make them do things my way even if I have to threaten them.)</th>
 
-<th>(In this country—In this time period—Gods barely have any real power, so this should be effective.)</th>
+<th>(In this country — In this time period — Gods barely have any real power, so this should be effective.)</th>
 
 <th>(This is the only way I know how to do things… That’s why I fail as a hero.)</th>
 {% endbubble %}
@@ -848,3 +850,6 @@ After all, we, too, cannot continue wandering about in the same place endlessly.
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/hanging_out_together,, arrow-right, Next Chapter: Hanging Out Together %}
 </div>
+
+## Translation Notes
+[^1]: Originally, he says 雨降って地固まる *ame futte ji katamaru*, which is an idiom to mean "what doesn't kill you makes you stronger". It's also used in various tokusatsu shows.

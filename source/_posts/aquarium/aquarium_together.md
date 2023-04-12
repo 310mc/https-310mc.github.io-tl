@@ -791,9 +791,9 @@ He has been much more social and friendly lately, yet he will not sell you a tic
 {% endbubble %}
 
 {% bubble Madara %}
-Mm~ Actually, maybe the reason I’m the only one he rejects has some special motive to it…
+Mm~ Actually, maybe the reason I’m the only one he rejects now has some special motive to it…
 
-But, well… maybe he just thinks I’m annoying, so that’s why he hates me.
+But, well… maybe he just thinks I’m overbearing, so that’s why he hates me.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -823,4 +823,4 @@ It is because it is midday… This is the time for vampires to sleep… Also, yo
 
 ## Translation Notes
 [^1]: Rei speaks in his ore-speech here.
-[^2]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as *mura,* which means “capricious/fickle.” Rei pretty much made a double word play on Madara’s name with the same kanji.
+[^2]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as *mura,* which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.
