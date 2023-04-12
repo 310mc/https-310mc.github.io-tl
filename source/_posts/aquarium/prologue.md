@@ -61,45 +61,45 @@ hidden: true
 
 …ohh? hello, anzu-san~♪
 
-what are you doing here? are you here to bathe in the water too?
+what are you doing here? are you here to [bathe] in the water, [too]?
 
-the ocean during these times is at a good temperature, after all…♪
+the [ocean] during these times is at a [good temperature], after all…♪
 
-see, the water is body temperature. it makes you feel like you are being embraced by the mother ocean~…♪
+see, the water is at body [temperature]. it makes you feel like you are being embraced by the mother ocean~…♪
 
-hmm, i am wrong? you are picking up litter while taking a walk?
+hmm, i am wrong? you are picking up [litter] while taking a [walk]?
 
-now that you mention it, you are wearing a jersey, which is the perfect way to exercise. and you also have a garbage bag with you.
+now that you mention it, you are wearing a [jersey], which is the perfect way to [exercise]. and you also have a [garbage] bag with you\~
 
-hmm, i see… lately, yumenosaki has been bustling with activity, and the dreamfes have big audiences.
+hmm, i see… lately, yumenosaki has been bustling with [activity], and the dreamfes have big [audiences].
 
-there are notices about it, but there are still some people with bad manners…
+there are [notices] about it, but there are still some [guests] with bad [manners]…
 
-would *you* throw litter around as you visit your neighbor's ocean?
+and they are throwing [litter] around while visiting this neighboring [ocean], yes?
 
-it is absolutely inexcusable. the ocean has an autopurification system, but humans dirty it much more than it can handle.
+it is absolutely inexcusable. the ocean has an [auto-purification] system, but humans dirty it [much more] than it can handle.
 
-leaving behind all these things that cannot decompose, like plastics, vinyls, bottles, toxic waste…
+leaving behind all these things that cannot decompose, like [plastics], [vinyls], [bottles], [toxic waste]…
 
-this is abuse, *domestic* abuse.
+this is [abuse], *domestic* [abuse].
 
-you could not ignore that, so you are picking up the litter, right? that is wonderful. good girl, gooood girl…♪
+you could not ignore that, so you are [picking] up the [litter], right? that is wonderful. good girl, gooood girl…♪
 
-oooh. so you will just look at how bad it is for now, and if it looks extremely bad then you will take up a school part-time job related to picking up litter.
+oooh. so you will just [look] around the place for now, and if it seems extremely bad, then you will [post] up a new school [part-time job] for picking up [litter].
 
-but cleaning up the whole ocean by yourself is impossible, you know…?
+well, yes, [cleaning] up the [whole] ocean by [yourself] is definitely [impossible].
 
-you would have to rely on everyone’s strength, or a very strong power.
+you really *would* have to rely on [everyone’s strength], or a very [strong power].
 
-when i become an adult, i will be able to use that kind of power…
+when i become an [adult], i will be able to use that kind of [power], too…
 
-and then i would also like to make the ocean clean. it would be my repayment to the kindness from the mother ocean.
+and then i would also like to make the ocean [clean]. it would be my [repayment] to the kindness from the mother ocean.
 
-right now, i am not very reliable to the ocean…
+right now, i am not very [reliable]…
 
-but at the very least, i will help you out by carrying the garbage bag for you, anzu-san. i will help out as much as i can~
+but at the very least, i will help you out by [carrying] the [garbage bag] for you, anzu-san. i will help out as much as i can~
 
-fufu, leave it to me. i may not look it, but i have quite the strength~♪
+fufu, please leave it to me. i may not look it, but i have quite the [strength]~♪
 {% endbubble %}
 
 <div class="msr-location">
@@ -109,47 +109,47 @@ fufu, leave it to me. i may not look it, but i have quite the strength~♪
 {% img /img/es/eventstory/aquarium/prologue_2.jpg %}
 
 {% bubble Kanata v2 %}
-whew… in the end, we got really into it, and ended up picking up all the litter.
+whew… in the end, we got really [into it], and ended up picking up all the [litter].
 
-it is completely dark now… anzu-san, where do you live? i will take you back home.
+it is completely [dark] now… anzu-san, where do you live? i will take you back home.
 
-it is dangerous for a girl to walk alone, after all. you may get attacked by a monster, or a bad person.
+it is [dangerous] for a girl to [walk alone], after all. you may get attacked by a [monster], or a [bad person].
 
-but do not worry, it will be okay. i will protect you, no matter what happens.
+but do not [worry], it will be okay. i will [protect] you, no matter what happens.
 
-fufufu, i sounded just a little like a hero…♪
+fufufu, i sounded just a little like a hero, don't you think? ♪
 
-huh? you have never heard of a hero who walks around drenched wet, looking all suspicious?
+huh? you have never heard of a hero who walks around [drenched wet], looking all [suspicious]?
 
 they probably do exist. i have heard that there are many kinds of heroes out there in this world, you know?
 
 chiaki told me all about them.
 
-well… you see, i often watch tokusatsu shows with everyone in ryuseitai, so i am completely aware of these things.
+well… you see, i often watch [tokusatsu shows] with everyone in ryuseitai, so i have become very [knowledgeable] of these things.
 
-i find them a bit hard to watch, though…
+i find them a bit [hard] to watch, though…
 
-because, no matter what i do, i empathize more with the villain… with the aberration.[^1]
+because, no matter what i do, i [empathize] more with the [villain]… with the [aberration].[^1]
 
-but, if the heroes' bonds become stronger after defeating them…
+but, if the heroes' [bonds] become stronger after [defeating] them…
 
-and if they are able to ascertain their sense of justice even further…
+and if they are able to [ascertain] their form of [justice] even further…
 
-then those aberration would have had value in existing as well.
+then those [aberration] would have had value in [existing], as well.
 
-…wah! anzu-san, you are rubbing me with a towel without even listening to what i was saying, aren't you?
+…wah! anzu-san, you are [rubbing] me with a [towel] without even listening to what i was saying, aren't you?
 
-it is a little too rough~ please do it a little softer, like how a mother would.
+it is a little too [rough]~ please do it a little [softer], like how a [mother] would.
 
-ah, no, i have not seen my mother that often… it is simply the image i have of one, more or less.
+ah, no, i have not seen my [mother] that often… it is simply the [image] i have of one.
 
-yes, my mother is very pretty. but she is also a little scary.
+yes, my [mother] is very [pretty]. but she is also a little [scary].
 
-every time i do see her, she scolds me. because i am not a good child at all.
+every time we meet, she scolds me. because i am not a [good boy] at all.
 
-i do not want to be scolded, and i do not want to cause trouble to everyone, either… so i do want to try and become a good child.
+i do not want to be scolded, and i do not want to cause [trouble] to everyone, either… so i do want to try and become a [good boy].
 
-i do, even if it meant that i could not become a hero. i want to become a good child—the kind a hero would rescue.
+i do, even if it meant that i could not become a hero. i want to become a good boy — the kind a hero would rescue.
 
 but right now, it is still too difficult for me.
 
