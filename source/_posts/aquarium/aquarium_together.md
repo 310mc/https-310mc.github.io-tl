@@ -9,8 +9,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -68,63 +67,63 @@ hidden: true
 {% img /img/es/eventstory/aquarium/aquarium1_1.jpg %}
 
 {% bubble Madara %}
-Hmhmhmm~♪
+<em><th>(Humming)</th></em> Hmhmhmm~♪
 
-*Blue skies and a clear sun!* The morning feels great! I feel the energy just gushing right out of me! It’s making me wanna run around all over!
+*Blue skies and a clear sun!* The morning feels greaaat! I feel the energy just gushing right out of me! It’s making me wanna run around aaall over!
 
-<th>(Other than that one specific thing, I don’t have any urgent work to do, so maybe I’ll go to the track field club to use up some energy on practice.)</th>
+<th>(Other than that one specific thing, I don’t have any urgent work to do, so maaaybe I’ll go to the Track & Field Club to use up some energy on practice.)</th>
 
-<th>(*Is* there practice for the club today?)</th>
+<th>(Actually, *is* there practice for the club today?)</th>
 
-<th>(Maybe I can check from the window…? Hmm… I’ve been hearing music for a while now, so does that mean people have been participating in a DreamFes on their holiday?)</th>
+<th>(Maaaybe I can check from the window…? Hmm… I’ve been hearing music for a while now, sooo does that mean people have been participating in a DreamFes on their holiday?)</th>
 
-<th>(Everyone’s motivated! That’s good, that’s great! But there’s a stage installed on the grounds, so I’d be in their way if I tried to run through, huh?)</th>
+<th>(Everyone’s motivated! That’s good, that’s great! But there’s a stage installed on the grounds, sooo I’d be in their way if I tried to run through, huh?)</th>
 
 <th>(Hmm, what to do…)</th>
 
 …Hm? Hiii—Hahaha!! ☆ Heeey, who's the naughty kid poking Mama’s sides!?
 
-Ohh, it’s you, Anzu-san! You’re tiny and I couldn’t see you, so I didn’t notice you were there! You should make your presence much stronger!
+Ohh, it’s you, Anzu-saaan! You’re tiny and I couldn’t see you, so I didn’t notice you were there! You should make your presence muuuch stronger!
 
 Shout out that you’re here! Starting with a really energetic greeting!
 
-Come now! Let’s do it together! Good moooorniiiiiiiiiing!! ☆
+Come now! Let’s do it together! Good moooorniiiiiiing!! ☆
 
 Hmm? What is it? Are you gonna say, “Anyone is tiny next to you”? Or “Please don’t be noisy in the corridors”? Or maybe “You’re energetic right from the morning”?
 
-You gotta tell me clearly! Or it won’t reach Mama’s heart! Hahahaha! ☆
+You gotta tell me cleaaarly! Or it won’t reach Mama’s heart! Hahahaha! ☆
 
 …Oh. You look like you’re in a rush. Guess I shouldn’t bother you with random chitchat. Are you trying to put up those posters on the bulletin board?
 
-And I’ve been standing infront of it, so I’ve been in your way, huh? Hahaha, the mystery has been solved!
+And I’ve been standing in front of it, so I’ve been in your way, huh? Hahaha, the mystery has been sooolved!
 
-Aaalright! Mama’s free right now, so Mama will put them up for you instead!
+Aaalright! Mama’s free right now, so Mama will put them up for you insteaaad!
 
-You have something you gotta hurry off to do, right? So you should be going~♪
+You have something you gotta hurry off to do, riiight? So you should be going~♪
 
 Huh? How did I figure it out?
 
-That’s a good joke! I’ve known you long enough that I can tell just from looking at your face! Hahaha!
+That’s a good joke! I’ve known you looong enough that I can tell just from looking at your face! Hahaha!
 
-Besides, you’re looking a little prettier today… You usually don’t wear makeup, but could it be that you’re wearing a little right now?
+Besides, you’re looking a liiittle prettier today… You uuusually don’t wear makeup, but could it be that you’re wearing a little right now?
 
 Ho<em>ho</em>, could you be going to a *date?* ♪
 
-I’m interested! Who’s it with? Tell Mama your secret ☆
+I’m interested! Whooo’s it with? Tell Mama your secret! ☆
 
 Ah! Hey, wait! Don’t just dash away!
 
-But man, I’m feeling kinda emotional… So Anzu-san has reached *that* time of age, I see…♪ Time flies by so fast!
+But man, I’m feeling kiiinda emotional… So Anzu-san has reached *that* time of age, I see…♪ Time flies by sooo fast!
 
 <th>(Hahaha. She covered her ears and ran away immediately…)</th>
 
-<th>(She’s always been pretty shy… Well, it’s more like she really can’t handle this kind of thing.)</th>
+<th>(She’s aaalways been pretty shy… Well, it’s more like she just reaaally can’t handle this kind of thing.)</th>
 
-<th>(I think Anzu-san has a complicated family or something… Maybe they have a narrow view about it so she feels like it’s something to be avoided.)</th>
+<th>(I think Anzu-san has a complicated family or something… Maybe they have a narrow view about it, sooo she feels like it’s something to be avoided.)</th>
 
-<th>(But I’d be glad for her if she could fall in love with someone great and kind, who could help her overcome those complex feelings regarding love.)</th>
+<th>(I’d be glad for her if she could fall in love with someone great and kind, who could help her overcome those complex feelings regarding love, buuut…)</th>
 
-<th>(Everyone treats her as sacred, but I guess it’s more like both her and the other side are holding back from each other.)</th>
+<th>(Everyone treats her as sacred, but I guess it’s more liiike, both her and the other side are holding back from each other.)</th>
 
 <th>(I wonder if there’s someone out there who wouldn’t put her on a pedestal like that…)</th>
 

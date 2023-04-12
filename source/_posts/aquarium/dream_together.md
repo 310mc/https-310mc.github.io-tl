@@ -13,8 +13,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -98,7 +97,7 @@ It should still be alright to chat with him if we keep it short. I want to greet
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-rei, wataru… what are you doing here? you two being together is very unusual~
+rei, wataru… what are you doing here? the two of you together is very unusual~
 {% endbubble %}
 
 {% bubble Rei %}
@@ -106,7 +105,7 @@ No, no, you should not be asking that. Is it not obvious that I dragged my old b
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-oh, i see… i really do need to reflect on the trouble i have caused.
+oh, i see… i really do [need] to [reflect] on the trouble i have caused.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -144,7 +143,7 @@ Hm… I do not think any of us here can comprehend what is occuring at the momen
 {% endbubble %}
 
 {% bubble Madara %}
-*<nowiki/>'Tis my utter folly!* I can’t say you’re wrong for calling me out on that, but just trust me on this and follow along!
+*'Tis my utter folly!* I can’t say you’re wrong for calling me out on that, but just trust me on this and follow along!
 
 It’ll be fine, just fine! Everything will surely end in success!
 
@@ -188,13 +187,13 @@ Pushing yourself to work even harder when you are in that state only worsens you
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes… so how about we all go around the aquarium together once this live show is over?
+yes… so how about we all go around the [aquarium] together once this [live show] is over?
 
-let’s forget about work and take a nice breather…
+let’s forget about [work] and take a nice [breather]…♪
 
-it *is* everyone’s holiday, after all… it would be a shame if it ends in waste because of me.
+it *is* everyone’s [holiday], after all… it would be a [shame] if it [ends] in waste because of me.
 
-i would feel a bit terrible if that were to happen.
+i would feel a bit [terrible] if that were to happen.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -238,7 +237,7 @@ You’ve been doing as great as you ever could. This Onii-san right here will as
 {% endbubble %}
 
 {% bubble Hinata %}
-Oh! If you want something from the shop, then I’ll rush over there by myse—Mrrpfh!?
+Oh! If you want something from the shop, then I’ll rush over there by myse— Mrrpfh!?
 {% endbubble %}
 
 {% bubble Rei %}
@@ -260,17 +259,21 @@ Shall I accompany them just in case?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-souma, you should practice a little more for the live show.
+souma, you should [practice] a little more for the [performance].
 
-you are very good at singing and dancing, but this show will have a dolphin performance in it, so you have to get along with the dolphins.
+you are very [good] at [singing] and [dancing], but…
 
-generally, most of it will be dealt with by the aquarium staff.
+this show will have a [dolphin performance] in it, so you [have] to get along with the [dolphins].
 
-but just in case anything happens, you should learn how to work with them, too. i will teach you all about it.
+generally, most of it will be dealt with by the [aquarium] staff.
 
-look, the dolphins have come over to us…
+but just [in case] anything happens, you should learn [how] to work with them, too.
 
-they are very smart children, but they are also timid. treat them gently, so as not to scare them away.
+i will teach you all about it.
+
+look, the [dolphins] have come over to us…
+
+they are very [smart children], but they are also [timid]. treat them [gently], so as not to scare them away.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -280,11 +283,11 @@ But it feels like their eyes have a gentle feel to them… It is vaguely similar
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-oh, really? well, i do suppose you would not be used to seeing them, since we cannot keep any in our water tanks.
+oh, really? well, i do suppose you would not be used to [seeing] them, since we cannot keep any in our [water tanks].
 
-that is exactly why we need this aquarium.
+that is exactly why we [need] this [aquarium].
 
-i want to protect it. this time… i will definitely protect what is important to me. i really am just talking about this case.
+i want to protect it. this time… i will definitely protect what is [important] to me. everything that has happened [this time] around is really [just] about [that].
 {% endbubble %}
 
 <div class="msr-location">
@@ -384,7 +387,7 @@ You are late! I almost thought you had escaped! Just where were you, and what we
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-now, now, souma… welcome back, kaoru. it looks like you came back wearing the costume, yes?
+now, now, souma… welcome back, kaoru. it looks like you came back wearing the [costume], yes?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -396,13 +399,13 @@ But this show came out of nowhere, so weren’t we just talking about how we pro
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-that is right. but wataru was able to provide some for us.
+yes. but [wataru] was able to [provide] some for us.
 
-it seems that he was able to spot an association from a nearby theater doing a public performance at the perfect time.
+it seems that he was able to spot an [association] from a nearby [theater] doing a public [performance] at the perfect time.
 
-he has connections with them, so he asked them to lend him some costumes as a favor.
+he has [connections] with them, so he asked them to lend him some [costumes] as a favor.
 
-but these costumes were not made for us, so we must make some adjustments to the size.
+but these costumes were not [made] for us, so we must make some [adjustments] to the [size].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -436,29 +439,29 @@ Ahaha, Mikejima-kun got himself on Souma-kun’s good side before we knew it.
 {% bubble Kanata v2 %}
 fufu, it looks like he has taken a huge liking to souma ever since wisteria festival long ago…
 
-souma often complains about how he would come and pester him over every little thing.
+souma often complains about how he would come and [pester] him over every little thing.
 
-and since souma is a good boy, he cannot be cold-hearted to someone who treats him intimately.
+and since souma is a [good boy], he cannot be [cold-hearted] to someone who treats him [intimately].
 {% endbubble %}
 
 {% bubble Kaoru %}
-Haha, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the weird kids.
+Haha, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the strange kids.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-it is because that rogue has always liked old-fashioned things, and souma excites him for that reason.
+it is because that [rogue] has always liked [old-fashioned] things, and souma likely [excites] him for that reason.
 {% endbubble %}
 
 {% bubble Kaoru %}
-He’s a samurai of the old ages, so it makes sense~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two that close?
+Makes sense, since he’s a samurai of the old ages~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two that close?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hm… his father is a high-ranking police officer, you see. so his father would often come to my house for inspection.
+hm… his father is a high-ranking [police] officer, you see. so his father would often come to my [house] for [inspection].
 
-sooo… i would see him often as well. it has been like that since long ago.
+so, well… i would see him often as well. it has been like that since long ago.
 
-we would play together while the adults talked to each other, since we were the same age.
+we would [play] together while the adults [talked] to each other, since we were the [same] age.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -492,17 +495,17 @@ But Kanata-san’s household is an unusual case, so I used every card in my hand
 {% img /img/es/eventstory/aquarium/dream3_3.jpg %}
 
 {% bubble Kanata v2 %}
-is it really that unusual…? i *did* understand the fact that i am different from others.
+is it really that [unusual]…? i *did* [understand] the fact that i am [different] from others.
 
-but to me, this was always the norm.
+but to me, this was always the [norm].
 
-i am always confused whenever people tell me “that is so weird” or “you poor thing.”
+i am always confused whenever people tell me that it is so [weird] or “you poor thing.”
 
-and i am on good terms with my household, so i am not really that dissatisfied, you know?
+and i am on [good terms] with my household, so i am not really that [dissatisfied], you know?
 
-it is just… the gods has been falling out of power lately. so it seems like my household’s power has weakened.
+it is just… the [gods] has been [falling] out of power lately. so it seems like my household’s [power] has [weakened].
 
-and that is when my household decided to let go of this aquarium they own.
+and that is when my household decided to let go of this [aquarium] they [own].
 {% endbubble %}
 
 ## Chapter 4
@@ -514,7 +517,7 @@ So your household owns this aquarium, huh? I never knew that~ I’ve always just
 {% bubble Kanata v2 %}
 fufu, long ago, i had seen someone who looked a lot like you, kaoru.
 
-you would walk around in the aquarium holding hands with a very pretty woman, yes?
+you would [walk] around in the aquarium holding hands with a very pretty [woman], yes?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -530,23 +533,23 @@ Hm, it is going to go bankrupt? What a shame. Even though it seems to be prosper
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-ah, no. it seems like it will be bought by some company. but that company does not have a very good reputation.
+ah, no. it seems like it will be [bought] by some [company]. but that company does not have a very good [reputation].
 
-so i became anxious about whether the fish would be taken care of properly or not…
+so i became [anxious] about whether the fish would be [taken care] of properly or not…
 
-also, they have a business of reselling lands, so what they truly want is this land.
+also, they have a business of [reselling lands], so what they truly want is this [land].
 
-if they cannot make profit from the aquarium, then there is a chance that they will demolish it.
+if they cannot make profit from the [aquarium], then there is a [chance] that they will demolish it.
 
-by doing so, they may be able to make something that will bring more revenue.
+by doing so, they may be able to make something that will bring more [revenue].
 
 but i did not want that.
 
-so i said selfish things, begging them not to sell it, please don’t…
+so i said [selfish] things, begging them not to sell [it], please don’t…
 
-that is when i started to advertise for the aquarium, to keep the business going.
+that is when i started to [advertise] for the aquarium, to keep the [business] going.
 
-like buying the tickets with my own money, and handing them out to people.
+like [buying] the tickets with my own [money], and handing them out to people.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -554,21 +557,21 @@ Ahh, I finally understand the reason behind those strange things you were doing,
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-you are right. my household also sympathized with how i feel…
+you are right. my household also sympathized with how i [feel]…
 
-and we made it an objective to work hard, and not let go of the aquarium.
+and we made it an [objective] to work hard, and not let go of the [aquarium].
 {% endbubble %}
 
 {% bubble Madara %}
-They’re softer on you than one would expect. Throwing a tantrum usually doesn’t get things through, you know?
+They’re softer on you than one would expect. Throwing a tantrum usually doesn’t get things through, y’know?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, it is because i am a very, very important living god. people would yield to me in most cases.
+yes, it is because i am a very, very important [living god]. people would [yield] to me in most cases.
 
-well, it is also thanks to the pressure you put on them, though. in this time period, the god’s position is weak.
+well, it is also thanks to the [pressure] you put on them, though. in this [time period], the god’s [position] is [weak].
 
-if a higher-up keeps a strong eye on him, he will perish away immediately… so please try not to bully him, okay?
+if a [higher-up] keeps a strong [eye] on him, he will [perish] away immediately… so please try not to bully him, okay?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -578,15 +581,15 @@ Then I want to support that with all I’ve got, as your friend.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-you went too far with that “support,” mama.
+you went too far with that [support], mama.
 
-it is the god’s duty to heal and protect everybody. he cannot cause trouble to them like this.
+it is the god’s [duty] to [heal] and [protect] everyone. he [cannot] cause [trouble] to them like this.
 
-it is too late to say “i think i’ll quit after all” now, anyway… so i will push through with it.
+it is too late to say “i think i’ll quit after all” now, anyway… so i will push through with [it].
 
-i have to make sure i never say anything selfish ever again.
+i have to make sure i never say anything [selfish] ever again.
 
-i really never wanted to bother anyone… yet it ended up being a bigger problem than i thought it would… i will do better next time.
+i really never wanted to [bother] anyone… yet it ended up being a [bigger] problem than i thought it would… i will do [better] next time.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -596,7 +599,7 @@ Not because you’re a God… It’s because you’re *you* that everyone wanted
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-huh… this is all strange to me… i have never even gotten involved with anyone in my life before…
+huh… this is all strange to me… i have never even gotten [involved] with anyone in my life before…
 {% endbubble %}
 
 {% bubble Souma %}
@@ -610,7 +613,7 @@ It takes a lot of energy to undo a problem after it has already gotten so compli
 {% bubble Kanata v2 %}
 i am so sorry, souma. i am sorry to you too, kaoru, and to everyone else…
 
-i have never been selfish before, until now. so i am not really good at it.
+i have never been [selfish] before, until now. so i am not really good at it.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -622,33 +625,37 @@ Ahaha, it’s pretty much just like a baby going against their parents for the f
 {% img /img/es/eventstory/aquarium/dream4_1.jpg %}
 
 {% bubble Kanata v2 %}
-yes… but this is a strange feeling. i had always restrained myself up until this point. it is almost always peaceful so long as i restrain myself.
+yes… but this is a strange feeling. i had always [restrained] myself up until this point. it is almost always [peaceful] so long as i [restrain] myself.
 
-but in yumenosaki, everyone is trying to make their own dreams come true with everything they have.
+but in yumenosaki, everyone is trying to make their own [dreams] come true with [everything] they have.
 
-even if it was their own selfish desires… that is why i wanted to do the same.
+even if it was their own selfish desires… that is why i wanted to do the [same].
 
-i am not used to it, and so i cannot do it properly. but this time, i followed how i feel to the very end…
+i am not used to it, and so i cannot do it properly. but this time, i followed how i [feel] to the very [end]…
 
-and it feels like things will work out someway or another, so i am a bit happy.
+and it feels like things will work out someway or another, so i am a bit [happy].
 
-if it were me from the past, then after getting locked up in the water tank as punishment and cooling my head down with some thinking… i would just have thought it did not matter anymore.
+if it were still me from the past, then after getting locked up in the [water tank] as [punishment]—
 
-my household also probably thought that by punishing me, i would regret my actions, and be a good kid.
+and cooling my head down with some [thinking]… i would have just thought it did not [matter] anymore.
 
-actually, when i was all alone inside that water tank, i did start thinking about how dumb i was acting, and i thought of giving up altogether…
+my household also probably thought that by [punishing] me, i would [regret] my actions, and be a [good boy].
 
-but then everyone came here for me. and then you helped me to the best that you could.
+actually, when i was [all alone] inside that water tank…
 
-without ever rejecting me, you supported and aided me.
+i did start [thinking] about how dumb i was acting, and i thought of giving up altogether…
 
-it made me so happy. that is why i will not restrain myself this time.
+but then everyone came here for me. and then you [helped] me to the best that you could.
 
-even if it is something embarrassing and childishly selfish, i will make my own dream come true.
+without ever [rejecting] me, you supported and aided me.
+
+it made me so happy. that is why i will not [restrain] myself this time.
+
+even if it is something [embarrassing] and childishly [selfish], i will make my own [dream] come true.
 
 just like what everyone else is doing.
 
-because i am not a god, but now the same human being as everyone else.
+because i am no longer a [god]… i was able to become the same [human] being as everyone else.
 {% endbubble %}
 
 <div toc>

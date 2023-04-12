@@ -3,6 +3,7 @@ title: "[ES!] Meteor Impact"
 date: 2019-04-10 9:00:00
 categories:
 - [Enstars, ES!]
+- [Enstars, Five Eccentrics]
 - [Enstars, Ryuseitai]
 - [Enstars, Akatsuki]
 - [Enstars, MaM]
@@ -110,7 +111,7 @@ permalink: meteor_impact/
 **Content Warning:** This story deals with topics that may be upsetting for some readers. Please check the content warnings first!
 {% endnote %}
 {% note cw %}
-**Includes, but not limited to:** Major discussions of cult, depictions of harrassment, as well as heavy mentions of cannibalism, violence, bullying, child abuse, and depression.
+**Includes, but not limited to:** Major discussions of cult, depictions of harrassment, as well as heavy mentions of cannibalism, violence, bullying, and depression.
 {% endnote %}
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

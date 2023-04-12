@@ -13,8 +13,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -480,19 +479,19 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 {% bubble Kanata v2 %}
 *puka, puka…♪*
 
-ohhh? kaoru! ufufu, what a coincidence~♪
+ohhh? kaoru! ehehe, what a [coincidence]~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Um, no, no! What are you doing, Kanata-kun!? You're inside the water tank, you know!?
+Um, no, no! What're you doing, Kanata-kun!? You're inside the water tank, you know!?
 
 I second-guessed myself about this before, but were you actually a sea creature and not a human all along!?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, i am human, more or less. i am no longer a sea creature, so that is why i cannot swim.
+fufufu, i am meant to be a [human] being, more or less. i am no longer a [sea creature], so i cannot swim.
 
-i sacrificed something important to me so as to live on the land… it is just like the little mermaid~ puka, puka~♪
+i sacrificed something [important] to me so as to live on the [land]… it is just like [the little mermaid]\~ puka, puka\~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -504,19 +503,19 @@ Yet all this time you were over here, just acting all weird like it's completely
 {% bubble Kanata v2 %}
 now, now… please calm down, kaoru.
 
-it is not like you. you are usually much more calm, drifting through the waves… you are a surfer, after all…♪
+it is not like you. you are usually much more [composed], drifting through the [waves]… you are a [surfer], after all…♪
 
-if you start to panic, you will be consumed by the waves and drown~ fufu~♪
+if you start to [panic], you will be consumed by the [waves] and [drown]\~ fufu\~♪
 
-do not make a ruckus~ okay, kaoru? or you will scare the fish~
+[do not] make a ruckus\~ okay, kaoru? or you will scare the fish\~
 {% endbubble %}
 
 {% bubble Kaoru %}
-Guuuh… Okay, wait a sec. I'll take a deep breath, and go back to my usual self.
+Guuh… Okay, wait a sec. I'll take a deep breath, and go back to my usual self.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-okay. a confused kaoru is also cute… but the usual kaoru is more charming~♪
+okay. a confused kaoru is also cute… but the usual [kaoru] is more [charming]~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -534,11 +533,11 @@ yes. what is it, kaoru?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i see. your voice is far away from me, so it does feel a bit lonely.
+i see. your voice is [far] away from me, so it does feel a bit [lonely].
 
-but, i am sorry. this is my punishment… so i cannot leave this place.
+but, i am sorry. this is my [punishment]… so i cannot leave this [place].
 
-i know it must be embarrassing, but can i stay where i am right now?
+i know it must be [embarrassing], but can we talk as we are right now?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -548,13 +547,13 @@ I haven't heard much of what happened, but apparently it's some problem related 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes. i kind of ended up going against my household… but i really did not think it would become this much of a problem.
+yes. i kind of ended up going against my [household]… but even i did not think it would become this much of a [problem].
 
-now i am truly in trouble. but their side of the story is also correct, so right now we are talking it out and finding a common ground between us.
+now i am truly in trouble. but their [side] of the story is also correct, so right now we are talking it out and finding a [common ground] between us.
 
-for now, i am going through with the punishment. they will listen to my selfish requests afterwards.
+for now, i am going through with the [punishment]. they will listen to my [selfish requests] afterwards.
 
-so if you can, please do not try to interfere, kaoru.
+so if you can, please do not try to [interfere], kaoru.
 {% endbubble %}
 
 ## Chapter 4

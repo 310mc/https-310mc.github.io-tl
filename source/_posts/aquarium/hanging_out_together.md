@@ -13,8 +13,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -222,11 +221,13 @@ Yet he continues to keep things vague by hiding his sincerity with frivolous tal
 {% img /img/es/eventstory/aquarium/hangingout2_1.jpg %}
 
 {% bubble Kanata v2 %}
-whew. i am finally outside.
+whew. i am finally [outside].
 
-walking on my feet is a pain, but… that is how it is. after all, i am also human. i have to walk on my feet and breathe through my lungs.
+leaving the source of [water] and walking on my [feet] is a [pain], but…
 
-<em><th>(breathe in, breathe out)</th>…</em> the air is tasty, so i do find being outside enjoyable.
+that is how it is. after all, i am also [human]. i have to walk on my [feet] and breathe through my [lungs].
+
+<em><th>(breathe in, breathe out)</th>…</em> the air is [tasty], so i do find being outside [enjoyable].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -234,7 +235,9 @@ walking on my feet is a pain, but… that is how it is. after all, i am also hum
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-kaoru. humans breathe through their mouths, so they can probably taste the air, but fish breathe through their gills, yes?
+kaoru. humans [breathe] through their [mouths], so they can probably [taste] the air…
+
+but fish breathe through their [gills], yes?
 
 i wonder if they cannot taste the tastiness of the air. if that is true, then i feel bad for them…
 
@@ -254,23 +257,23 @@ Quit talking about weird things without a care in the world\~! You should apolog
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-uunini!? kaoru! please do not pinch my cheeks~!
+unini!? kaoru! please [do not] pinch my cheeks~!
 
-uuu… how cruel, i thought you were a kind boy. please do not hurt me, i can feel pain too.
+uuu… how cruel, i thought kaoru was a [kind boy]. please do not [hurt] me, i can feel [pain], too.
 
-ah! there is a theory that fish do not feel pain…
+ah! there is a [theory] that fish do not feel [pain]…
 
-it is said that if you cut a fish properly, it will continue to swim just with its bones.
+it is [said] that if you [cut] a fish properly, it will continue to [swim] just with its [bones].
 
-i wonder if that is true?
+i wonder if that is [true]?
 
-i have never seen a fish like that before…
+i have never seen a [fish] like that before…
 
-if they were only bones, then they would not have meat or fins, so they should not be able to swim… right?
+actually, if they were only [bones], then they would not have [meat] or [fins], so they should not be able to swim… right?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Kanata-kun. I think you’re just trying really hard to avoid the subject, but if you’re actually being *this* thickheaded, then even my gentle side will snap a nerve…
+Kanata-kun. I think you’re just trying really hard to avoid the subject, but if you’re actually being *this* thickheaded, then even my chill side will snap a nerve…
 
 Seriously, we were all worried for you.
 
@@ -282,13 +285,13 @@ So if you don’t feel even a little bad for making us all worry, then I may jus
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-uuu… kaoru, you may be smiling, but your eyes are completely serious…
+uuu… kaoru, you may be smiling, but your [eyes] are completely [serious]…
 
-it is scary. i really do feel bad for making you all worry.
+it is scary. i [really] do feel [bad] for making you all worry.
 
-but this is my problem. i will be okay. you do not have to poke your nose in my problem.
+but this is my [problem]. i will be okay. you do not have to poke your nose in my [problem].
 
-i do not want to ruin everyone’s peaceful lives with my problems.
+i do not want to ruin [everyone’s] peaceful lives with my [problems].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -326,7 +329,7 @@ I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-kaoru… are you *really* sexy?
+kaoru… are you *really* [sexy]?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -338,7 +341,7 @@ Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-…if you pull this off, i will die. please do not.
+…if you pull this off, i will [die]. please do not.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -346,9 +349,9 @@ Huh!? That’s how it works!? You cryptic creature!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, i am only joking…
+fufufu, i am only [joking]…
 
-i am sorry for making you talk about something so serious, even though it is out of your character… i completely understood what you said.
+i am sorry for making you talk about something so [serious], even though it is out of your character… i completely [understood] what you said.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -372,9 +375,9 @@ We work as idols, after all. So at the very least, we have to do it properly.
 ## Chapter 3
 
 {% bubble Kanata v2 %}
-*sigh…* i am not one to think of being an idol as work.
+*sigh…* i am not one to [think] of being an idol as [work].
 
-kaoru, you surprisingly have your head on your shoulders.
+kaoru, you surprisingly have your [head] on your shoulders.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -384,7 +387,7 @@ That’s what you call “swimming the current of life”. It’s something ever
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-okay. i will not forget these memories with everyone… never ever.
+okay. i will not forget these [memories] with everyone… never ever.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -416,7 +419,7 @@ Did being inside a dim water tank for so long make you want some sunshine?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no… kaoru, please wait here, okay?
+no… kaoru, please [wait] here, okay?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -440,7 +443,7 @@ Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
 {% bubble Kanata v2 %}
-ahh, i thought so… hey! please stop giving food to the dolphins as you please!
+ahh, i thought so… hey! please stop giving [food] to the [dolphins] as you please, okay?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -450,9 +453,9 @@ Come, come, come!! I’ll give you some of their food too~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hmm… i love fish, but if i were to eat it raw, it would hurt my stomach.
+hmm… i love [fish], but if i were to eat it [raw], it would hurt my [stomach].
 
-you need to at least prepare it and make it into sashimi before i can eat it.
+you need to at least prepare it and make it into [sashimi] first.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -466,7 +469,7 @@ Heeey, what’s going on? Seriously… You look like you’re having fun talking
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-*sigh*… just some rogue.
+*sigh*… just some [rogue].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -496,7 +499,7 @@ And that someone was you, huh? Now that I think about it, you two are childhood 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no. this person has nothing to do with me.
+no. this person has [nothing] to do with [me].
 {% endbubble %}
 
 {% bubble Madara %}
@@ -522,13 +525,13 @@ I can do any and all jobs swiftly. I plan to clean the water tank next~♪
 {% bubble Kanata v2 %}
 doing such unnecessary things… no one asked for it, okay?
 
-if i were to just restrain myself for a while, it would have all gone well.
+if i were to just [restrain] myself, it would have all worked out peacefully.
 
-you said you put pressure on them, but my household has not actually done anything wrong.
+you said you put [pressure] on them, but my [household] has not actually done anything [wrong].
 
-please do not threaten people for no reason.
+please do not [threaten] people for no reason.
 
-it is our responsibility as people with power to protect peace by not using that power.
+it is our responsibility as people with [power] to protect [peace] by [not using] that power.
 {% endbubble %}
 
 {% bubble Madara %}

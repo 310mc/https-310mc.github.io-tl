@@ -13,8 +13,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -76,27 +75,27 @@ hidden: true
 {% img /img/es/eventstory/aquarium/kanatabcg.jpg %}
 
 {% bubble Kanata v2 %}
-“hellooo everyone~ thank you for coming over to our live show today~♪”
+“hellooo everyone~ thank you for coming over to our [live show] today~♪”
 
-“to the children sitting in the front seats, please be careful and watch your step, so that you don’t slip and fall into the pool~♪”
+“to the [children] sitting in the [front seats], please be [careful] and watch your step, so that you don’t slip and fall into the [pool]~♪”
 
-“there will be a lot of splashing about, so may all the mommys and daddies take good care of their children, please?”
+“there will be a lot of [splashing] about, so may all the mommys and daddies take [good care] of their children, please?”
 
-“and now! to the people in the back seats\~! hello\~! ♪”
+“and now! to the people in the [back seats]\~! hello\~! ♪”
 
-“fufufu, did i startle all of you? i asked the talented mr. dolphin to spring both of us up high~♪”
+“fufufu, did i [startle] all of you? i asked the [talented] mr. [dolphin] to [spring] both of us up high~♪”
 
-“it may be hard for the people in the back seats to see the pool because of how far away the seats are…”
+“it may be hard for the people in the [back seats] to see the [pool] because of how far away the seats are…”
 
-“but i’ll spring up like this every once in a while to greet you all~♪”
+“but i will [spring] up like this every once in a while to greet you all~♪”
 
-“ufufu, thank you for waving your hands! and now for the special fan service~ <em><th>(kiss)</th></em> ♪”
+“ehehe, thank you for waving your hands! and now for the special [fan service]~ <em><th>(kiss)</th></em> ♪”
 
-“yes, mr. dolphin just gave me a kiss! i’m so happy~♪”
+“yes, mr. [dolphin] gave me a [kiss]! i am so happy~♪”
 
 “ah, are you alright? did it hurt you?”
 
-“hmm… it only startled you for a moment? okay, i am glad~ you are such a strong child~♪”
+“hm\~… it only [startled] you for a moment? okay, i am glad\~ you are such a [strong child]\~♪”
 {% endbubble %}
 
 {% bubble Souma %}
@@ -158,9 +157,9 @@ I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-“bravo\~♪ mr. dolphin wonderfully caught the rings souma tossed with its tail\~!”
+“bravo\~♪ mr. dolphin wonderfully [caught] the [rings] souma tossed with its [tail]\~!”
 
-“a round of applause for you\~♪ i’ll give you fish as reward\~!”
+“a round of applause for you\~♪ let me give you [fish] as reward\~”
 {% endbubble %}
 
 {% bubble Souma %}
@@ -234,19 +233,21 @@ Here, here! ♪ The real dolphin’s even softer, you know! Dolphins raise their
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-<th>(whew… the rogue gave us a chance to rest at a good time.)</th>
+<th>(whew… the rogue gave us a chance to [rest] at a good [timing].)</th>
 
 <th>(we would only end up getting tired if we kept singing and dancing.)</th>
 
-<th>(not only us, but the dolphins, too.)</th>
+<th>(not only us, but the [dolphins], too.)</th>
 
-<th>(he is not like how he was in the past… he has become much more mindful with people.)</th>
+<th>(he is not like how he was in the past… he has become much more [mindful] with people.)</th>
 
 <th>(he is still just as pushy as he has always been, though.)</th>
 
-<th>(like how he was this time… i did not even ask him to, yet he came all the way over to help me… gosh, he is so strange.)</th>
+<th>(like how he was this time… i did not even ask him to, yet he came all the way over to [help] me… gosh, he is so strange.)</th>
 
-<th>(i have always been so horrible to him, too… i have never once given anything back to him, so why is he always this nice to me?)</th>
+<th>(i have always [treated] him so horribly, too…)</th>
+
+<th>(i have never once [given] anything back to him, so why is he always this [nice] to me?)</th>
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -256,9 +257,11 @@ If you are, then you can leave the singing to me and Souma-kun, and you can rest
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i would definitely not *puka puka* during work… while it is a fish’s job to swim, an idol’s duty is to sing and dance.
+i would definitely not [puka puka] during work…
 
-but i am not tired at all, anyway. this is nothing compared to ryuseitai’s performances.
+while it is a fish’s [job] to [swim], an idol’s [duty] is to [sing] and [dance].
+
+but i am not tired at all, anyway. this is [nothing] compared to ryuseitai’s [performances].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -268,9 +271,11 @@ UNDEAD’s dances and stuff are rough and intense, too~ I have to push my limits
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes… fufufu, we both have it rough, don’t we? but it gives the thrill of being alive, so i do not dislike it being intense, either.
+yes… fufufu, we both have it [rough], don’t we? but it gives the thrill of being [alive]…
 
-and this time around, we are performing above the water, so i am actually getting more and more energetic~♪
+so i do not [dislike] it being intense, either.
+
+and this time around, we are performing above the [water], so i am actually getting more and more [energetic]~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -278,7 +283,7 @@ You *are* a sea creature, after all.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-that is right, and so are you, kaoru… so is souma, since we are all part of the marine life club~♪
+that is right, and so are you, kaoru… so is souma, since we are all part of the [marine life club]~♪
 {% endbubble %}
 
 {% bubble Souma %}
@@ -308,7 +313,7 @@ Well, that’s terrifying… Hey Kanata-kuuun, can’t you scold Souma-kun and t
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, what is wrong with it? it *is* true that you get too ahead of yourself sometimes. this is good medicine for that; the carrot and stick.
+fufufu, what is wrong with that? it *is* true that you get too [ahead] of yourself sometimes. this is good [medicine] for that; the [carrot] and [stick].
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -320,9 +325,9 @@ Kanata-saaan? Sorry for interrupting your chatter, but could you come over here 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes? what’s wrong…? is there trouble afoot?[^1]
+yes? what’s wrong…? is there [trouble afoot]?[^1]
 
-i will do anything as an apology for causing trouble to everyone.
+i will do anything as an [apology] for causing [trouble] to everyone.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -396,17 +401,17 @@ Perhaps this kind of awareness is also something that comes from one’s field o
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, they look like they are having much more fun than i thought they would.
+fufufu, they look like they are having much more [fun] than i thought they would.
 
-thank goodness. i hope that they were able to enjoy themselves after coming all the way over here, instead of feeling like they only wasted their time…
+thank goodness. i hope that they were able to enjoy themselves after coming all the way over [here], instead of feeling like they only [wasted] their time…
 
-i am so happy that we were brought together here.
+i am so [happy] that we were brought together here.
 
-the five eccentrics are supposed to have drifted apart from each other, but we still have our friendship.
+the [five eccentrics] are supposed to have [drifted] apart from each other, but we still have our [friendship].
 
-that makes me happy. i have always considered everyone as my friends.
+that makes me happy. i have always considered everyone as my [friends].
 
-rei\~! wataru\~! are you watching me? i am truly happy right now~♪
+rei\~! wataru\~! are you watching me? i am truly [happy] right now~♪
 {% endbubble %}
 
 {% bubble Madara %}
@@ -414,9 +419,9 @@ Yeah, they’re important too, but I meant to look a little bit to the right… 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-wah— you are right. they look different from how they look at home, so i did not notice them.
+wah— you are right. they look different from how they [look] at home, so i did not notice them.
 
-they seem like regular people when they look like that way, don’t they?
+they seem like [regular people] when they look like that way, don’t they?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -446,9 +451,9 @@ We have long lives ahead of us, so you can take your time thinking about what to
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-do not act like you know any better… just how long do you plan to meddle with my affairs like you are my guardian?
+acting like you know any better… just how long do you plan to [meddle] with my affairs like you are my [guardian]?
 
-well… i suppose i can understand what you are trying to say. i am sorry that things always end up this way… mama.
+well… i suppose i can [understand] what you are trying to say. i am sorry that things always end up this way… mama.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -458,7 +463,7 @@ I think Chiaki-san is gonna get a really bad stomach ache from worry if things d
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-…so he really was worried about this?
+…so chiaki really was [worried] about this?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -472,19 +477,21 @@ The hardest thing for him is probably when he can only sit by and watch what hap
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, i know… i do hope for a day when i can tell him about it…
+yes, i know… i do hope for a day when i can [tell] him all about it…
 
-but it is still too difficult to do that right now. ryuseitai is finally shining in the ideal way chiaki has dreamed of.
+but it is still too difficult to do that right now. ryuseitai is finally [shining] in the [ideal] way chiaki has dreamed of.
 
-things are looking very good for ryuseitai right now… so i would feel terrible if that radiance clouds over because of me.
+things are looking very [good] for ryuseitai right now.
+
+so i would feel [terrible] if that [radiance] clouds over because of me.
 
 but someday… when that day comes… i will shout out “save me, hero!” from the bottom of my heart.
 
-when that happens, i am sure that chiaki would gladly come rushing for me.
+when that happens, i am sure that chiaki would [gladly] come rushing for me.
 
-for the sake of that day… i will clear through all these problems immediately and come back home to everyone, so that chiaki would not abandon me.
+for the sake of that day… i will [clear] through all these [problems] immediately and come back home to everyone, so that chiaki would not [give up] me.
 
-i will come back to where i belong, as a human.
+i will come back to [where] i [belong], as a human.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -498,7 +505,7 @@ What? Buchou-dono~ What are we lacking? I am ashamed of myself—If there is any
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-t-that is not what i said! you bully, kaoru~
+t-that is not what i said! you [bully], kaoru~
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -510,15 +517,15 @@ I mean, we’re going around the aquarium with everyone after this, so let’s q
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, i am also hoping that we will be able to do that.
+yes, i am also [hoping] that we will be able to do that.
 
-everyone together now\~! let us sing together with high spirits! we will sing our ensemble in unison\~♪
+everyone together now\~! let us [sing] together with high spirits! we will sing our [ensemble] in unison\~♪
 
-this is the gentle planet earth![^2] we are all family, born on this planet!
+this is the gentle [planet earth]![^2] we are all [family], born on this planet!
 
-we will help each other, love each other, and sing a happy song!
+we will help each other, love each other, and sing a happy [song]!
 
-we will sing together! and i hope, forever…♪
+we will sing together! and i hope, foreeever…♪
 
 ♪\~♪\~♪
 {% endbubble %}
@@ -531,4 +538,4 @@ we will sing together! and i hope, forever…♪
 
 ## Translation Notes
 [^1]: The original line for “is there trouble afoot” is 何か問題発生ですか (nanika mondai hassei desuka), which is a phrase Chiaki says in his ! era home screen (he says it without *desu* though), except Kanata is using it here.
-[^2]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be "water planet."</ref>
+[^2]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be “water planet.”

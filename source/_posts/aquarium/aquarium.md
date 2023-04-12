@@ -1,8 +1,9 @@
 ---
 title: "[ES!] Aquarium"
-date: 2023-4-10 9:00:00
+date: 2023-4-12 9:00:00
 categories:
 - [Enstars, ES!]
+- [Enstars, Five Eccentrics]
 - [Enstars, MaM]
 - [Enstars, Marine Life Club]
 tags:
@@ -10,7 +11,6 @@ tags:
 - Akira
 - Story Index
 description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
-hidden: true
 permalink: aquarium/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -238,6 +238,14 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
+                                    <img src="/img/es/eventstory/aquarium/kanatabcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Epilogue 1
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
                                     <img src="/img/es/eventstory/aquarium/soumabcg.jpg">
                                 </div>
                                 <div class="caption">
@@ -247,14 +255,6 @@ permalink: aquarium/
                             <div class="gallery-item">
                                 <div class="image">
                                     <img src="/img/es/eventstory/aquarium/kaorubcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    Epilogue 1
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -337,3 +337,11 @@ permalink: aquarium/
         </div>
     </div>
 </div>
+
+## Translation Notes
+
+In Japanese, all the chapter titles end in volitional form (~しよう). The importance of the pattern was chosen to be shown through "-ing" and "together" instead, hence why every chapter title ends with it. But to make it work smoothly, paraphrasing had to be done a bit, especially the chapter title 楽しく遊び回ろう (Hanging out together). Without a special sentence structure, the titles in English would be:
+* 水族館へ行こう Let's go to the aquarium
+* お友達も呼ぼう Let's invite friends over
+* 楽しく遊び回ろう Let's have fun in all kinds of places
+* どんな夢を見よう What dream shall we see

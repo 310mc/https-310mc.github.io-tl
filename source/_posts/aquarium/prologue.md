@@ -6,8 +6,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -66,7 +65,9 @@ what are you doing here? are you here to [bathe] in the water, [too]?
 the [ocean] during these times is at a [good temperature], after all…♪
 
 see, the water is at body [temperature]. it makes you feel like you are being embraced by the mother ocean~…♪
+{% endbubble %}
 
+{% bubble Kanata curious %}
 hmm, i am wrong? you are picking up [litter] while taking a [walk]?
 
 now that you mention it, you are wearing a [jersey], which is the perfect way to [exercise]. and you also have a [garbage] bag with you\~
@@ -76,7 +77,9 @@ hmm, i see… lately, yumenosaki has been bustling with [activity], and the drea
 there are [notices] about it, but there are still some [guests] with bad [manners]…
 
 and they are throwing [litter] around while visiting this neighboring [ocean], yes?
+{% endbubble %}
 
+{% bubble Kanata frown %}
 it is absolutely inexcusable. the ocean has an [auto-purification] system, but humans dirty it [much more] than it can handle.
 
 leaving behind all these things that cannot decompose, like [plastics], [vinyls], [bottles], [toxic waste]…
@@ -86,11 +89,15 @@ this is [abuse], *domestic* [abuse].
 you could not ignore that, so you are [picking] up the [litter], right? that is wonderful. good girl, gooood girl…♪
 
 oooh. so you will just [look] around the place for now, and if it seems extremely bad, then you will [post] up a new school [part-time job] for picking up [litter].
+{% endbubble %}
 
+{% bubble Kanata sigh %}
 well, yes, [cleaning] up the [whole] ocean by [yourself] is definitely [impossible].
 
 you really *would* have to rely on [everyone’s strength], or a very [strong power].
+{% endbubble %}
 
+{% bubble Kanata smile3 %}
 when i become an [adult], i will be able to use that kind of [power], too…
 
 and then i would also like to make the ocean [clean]. it would be my [repayment] to the kindness from the mother ocean.
@@ -108,13 +115,15 @@ fufu, please leave it to me. i may not look it, but i have quite the [strength]~
 
 {% img /img/es/eventstory/aquarium/prologue_2.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata awkward %}
 whew… in the end, we got really [into it], and ended up picking up all the [litter].
 
 it is completely [dark] now… anzu-san, where do you live? i will take you back home.
 
 it is [dangerous] for a girl to [walk alone], after all. you may get attacked by a [monster], or a [bad person].
+{% endbubble %}
 
+{% bubble Kanata smile %}
 but do not [worry], it will be okay. i will [protect] you, no matter what happens.
 
 fufufu, i sounded just a little like a hero, don't you think? ♪
@@ -126,50 +135,60 @@ they probably do exist. i have heard that there are many kinds of heroes out the
 chiaki told me all about them.
 
 well… you see, i often watch [tokusatsu shows] with everyone in ryuseitai, so i have become very [knowledgeable] of these things.
+{% endbubble %}
 
+{% bubble Kanata frown %}
 i find them a bit [hard] to watch, though…
 
-because, no matter what i do, i [empathize] more with the [villain]… with the [aberration].[^1]
+because, no matter what i do, i [empathize] more with the [villain]… with the [monster].[^1]
+{% endbubble %}
 
+{% bubble Kanata smile2 %}
 but, if the heroes' [bonds] become stronger after [defeating] them…
 
 and if they are able to [ascertain] their form of [justice] even further…
 
-then those [aberration] would have had value in [existing], as well.
+then those [monsters] would have had value in [existing], as well.
 
 …wah! anzu-san, you are [rubbing] me with a [towel] without even listening to what i was saying, aren't you?
 
 it is a little too [rough]~ please do it a little [softer], like how a [mother] would.
+{% endbubble %}
 
+{% bubble Kanata frown2 %}
 ah, no, i have not seen my [mother] that often… it is simply the [image] i have of one.
 
 yes, my [mother] is very [pretty]. but she is also a little [scary].
 
 every time we meet, she scolds me. because i am not a [good boy] at all.
+{% endbubble %}
 
+{% bubble Kanata sigh2 %}
 i do not want to be scolded, and i do not want to cause [trouble] to everyone, either… so i do want to try and become a [good boy].
 
-i do, even if it meant that i could not become a hero. i want to become a good boy — the kind a hero would rescue.
+i do, even if it meant that i could not become a hero. i want to become a [good boy] — the kind a hero would want to rescue.
 
-but right now, it is still too difficult for me.
+but right now, it is still too [difficult] for me.
 
-i guess i will always be a mysterious aberration, won't i?
+i am always just a mysterious [monster], aren't i?
 
-…………
+……………
+{% endbubble %}
 
-…ah, that’s right! please wait a moment. <em><th>(rustle, rustle)</th></em>
+{% bubble Kanata smile %}
+…ah, that’s right! please [wait] a moment. <em><th>(rustle, rustle)</th></em>
 
 anzu-san, this is for you.
 
-this is my “thank you” for listening to me. and also because i have to share these, but was not sure how…
+this is my [repayment] for listening to me. and also because i have to share these, but was not sure [how]…
 
 so i still have plenty with me.
 
-yes, this is a ticket to the aquarium.
+yes, this is a [ticket] to the [aquarium].
 
-please take it. it is your reward for being a hard worker.
+please take it. it is your [reward] for being a hard worker.
 
-now then, let's keep going. if you do not return home soon, the people at home will worry for you… anzu-san.
+now then, let's keep going. if you do not return home soon, the people at home will [worry] for you… anzu-san.
 {% endbubble %}
 
 <div toc>
@@ -178,4 +197,4 @@ now then, let's keep going. if you do not return home soon, the people at home w
 </div>
 
 ## Translation Notes
-[^1]: The word Kanata uses for “aberration” is *kaijin* 怪人, which is also a term in tokusatsu to refer to characters who are typically antagonistic humanoids. (In other words, usually villains.) You can find more info <a href="https://dic.pixiv.net/a/%E6%80%AA%E4%BA%BA" target="_blank">here</a> (It’s in Japanese).
+[^1]: The word Kanata uses for “monster” is *kaijin* 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids (villains). You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.
