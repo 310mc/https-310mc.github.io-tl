@@ -66,6 +66,12 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /aquarium/aquarium_together,, arrow-left, Previous Chapter: Going to the Aquarium Together %}
+{% btn /aquarium,, star, Index %}
+{% btn /aquarium/hanging_out_together,, arrow-right, Next Chapter: Hanging Out Together %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">

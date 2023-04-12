@@ -66,6 +66,11 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /aquarium/dream_together,, arrow-left, Previous Chapter: What Dream Shall We Be Seeing Together %}
+{% btn /aquarium,, star, Index %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">

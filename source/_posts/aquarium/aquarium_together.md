@@ -58,6 +58,12 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /aquarium/prologue,, arrow-left, Previous Chapter: Prologue %}
+{% btn /aquarium,, star, Index %}
+{% btn /aquarium/friends_together,, arrow-right, Next Chapter: Inviting Friends Together %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">
@@ -103,7 +109,7 @@ You have something you gotta hurry off to do, riiight? So you should be going~�
 
 Huh? How did I figure it out?
 
-That’s a good joke! I’ve known you looong enough that I can tell just from looking at your face! Hahaha!
+That’s a good joke! I’ve known you long enough that I can tell juuust from looking at your face! Hahaha!
 
 Besides, you’re looking a liiittle prettier today… You uuusually don’t wear makeup, but could it be that you’re wearing a little right now?
 
@@ -503,13 +509,13 @@ You being away from me makes it easier on me, too.
 {% bubble Madara %}
 Excuuuse meeeeeee!
 
-This is *astounding!* You called out for me so suddenly; I was surprised!
+This is *astounding!* You called out for me sooo suddenly; I was surprised!
 
-I can’t even *imagine* what this is all about, but! Luckily I’ve got free time, so I can take care of anything right now!
+I can’t even *imagine* what this is all about, buuut! Luckily I’ve got free time, so I can take care of aaanything right now!
 
-Now then! What do I need to do? Does your coffin need fixing after being broken again? Or do you need me to help out with idol-related work?
+Now then! What do I need to do? Does your coffin need fixing after being broken again? Ooor do you need me to help out with idol-related work?
 
-Go ahead and ask anything of me! Whether it's demolishing a building, arranging a passport, smuggling, or even murder, I’d do anything for you! Hahaha!! ☆
+Go ahead and ask aaanything of me! Whether it's demolishing a building, arranging a passport, smuggling, or even murder, I’d do aaanything for you! Hahaha!! ☆
 {% endbubble %}
 
 {% bubble Rei %}
@@ -517,23 +523,23 @@ It does not sound like a joke when you say it, Mikejima-kun. One would normally 
 {% endbubble %}
 
 {% bubble Madara %}
-Oh, you’re right! I apologise! But it’s really rare for you to ask me for a favor! I couldn’t help but get all excited about it!
+Oh, you’re right! I apologize! But it’s reaaally rare for you to ask me for a favor! I couldn’t help but get all excited about it!
 
-I’m so happy~! This is such an honor\~!! It’s a festival\~!!! Hahahaha!!! ☆
+I’m sooo happy~! This is suuuch an honor\~!! It’s a festivaaal\~!! Hahahaha!! ☆
 {% endbubble %}
 
 {% bubble Rei %}
-Your boisterous nature never changes… You should really tone it down—both what you say *and* the volume you say it with. You are already overbearing enough.
+Your boisterous nature never changes… You should really tone it down — both what you say *and* the volume you say it with. You are already overbearing enough.
 
 You do *not* wish for people to be terrified of you, correct?
 {% endbubble %}
 
 {% bubble Madara %}
-I apologise, once again! I really am trying to be more careful, but I guess I’m still new to this!
+I apologize, once again! I really am trying to be more careful, buuut I guess I’m still new to this!
 
-I can’t do things as well as you do, Rei-san! I’ll work harder… with everything I’ve got!
+I can’t do things as well as you do, Rei-san! I’ll work harder… with eeeverything I’ve got!
 
-I’m so happy! To think I can work harder—That I can still reach higher!! Hahaha!! ☆
+I’m sooo happy! To think I can work harder — that I can still reach higher!! Hahaha!! ☆
 {% endbubble %}
 
 {% bubble Rei %}
@@ -543,7 +549,7 @@ Every person has their own suitable role. You will only tire yourself out if you
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, that’s not something you should say, what with that “Vampire” role you’ve given yourself.
+Hahaha, that’s nooot something you should say, what with that “Vampire” role you’ve given yourself.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -557,9 +563,9 @@ My apologies for making you listen to an old man’s rambles on your buoyant hol
 {% endbubble %}
 
 {% bubble Madara %}
-No need to apologise! Like I said, I had waaay too much free time today!
+No need to apologize! Like I said, I had waaay too much free time today!
 
-With this much free time, I could honestly talk about *anything* with you till dawn!
+With this much free time, I could honestly talk about *anything* with you till daaawn!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -569,9 +575,9 @@ I could hear you as you moved about from place to place, so I thought you might 
 {% endbubble %}
 
 {% bubble Madara %}
-Oh, no no! There are live shows going on all around the campus, and I thought best not to bother them! I noticed the corridors were empty, so I ran in them instead, that’s all!
+Oh, no no! There are live shows going on aaall around the campus, and I thought best not to bother them! I noticed the corridors were empty, so I ran in them instead, that’s aaall!
 
-If I’ve decided I’m gonna run, then I’m gonna run! I can’t calm down otherwise!
+If I’ve decided I’m gonna run, then I’m gonna ruuun! I can’t calm down otherwise!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -579,11 +585,11 @@ I see. It may be a holiday, but that does not mean there are not any people arou
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, you should be talking more about how I *shouldn’t* be running in the corridors. But it makes sense that you didn’t, considering you used to be a problem child, too…… Wait, this conversation is going nowhere.
+Hahaha, you should be talking more about how I *shouldn’t* be running in the corridors. But it makes sense that you didn’t, considering you used to be a problem child, too… Wait, this conversation is going nooowhere.
 
-I’m truly sorry! My bad, it’s just that it’s always fun talking to you! I could go on for hours about pointless stuff!
+I’m truly sorry! My bad, it’s just that it’s aaalways fun talking to you! I could go on for hours about pointless stuff!
 
-But you might have something urgent you need to tell me right now, so let’s hear it!
+But you might have something urgent you need to tell me riiight now, so let’s hear it!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -591,7 +597,7 @@ That is correct, so sit down over there. I am the only one here since there are 
 {% endbubble %}
 
 {% bubble Madara %}
-Please and thank you! I ran a ton so I’m all parched! I am beyond grateful!
+Please and thank you! I ran a ton so I’m aaaall parched! I am beyond grateful!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -599,17 +605,17 @@ You are always exaggerating things, for heaven’s sake… Well, I am glad to se
 {% endbubble %}
 
 {% bubble Madara %}
-Yes! I’m filled with energy, yet I have nothing to do! It’s the bane of my existence!
+Yes! I’m filled with energy, yet I have nothing to do! It’s the baaane of my existence!
 
-It seems like everyone wants to try and work hard on their own lately, and so my job as a helper has been decreasing by a lot!
+It seems like eeeveryone wants to try and work hard on their own lately, and so my job as a helper has been decreasing by a looot!
 
-…Wait, I just said I'd listen to what you have to say, but I ended up talking about myself!
+…Wait, I *just* said I'd listen to what you have to saaay, but I ended up talking about myself!
 
-This is bad, *terrible!* You have this peculiar feel to you that makes me want to vent all my worries to you!
+This is bad, *terrible!* You have this peculiar feel to you that makes me want to vent aaall my worries to you!
 {% endbubble %}
 
 {% bubble Rei %}
-Ahaha. Y’see, it's somethin’ of a curse that's been placed on *me*, actually.[^1]
+Ahaha. Y’see, it's actually somethin’ of a curse that's been placed on *me*.[^1]
 
 In any case, there is something I want to ask you, Mikejima-kun.
 
@@ -645,11 +651,11 @@ Then you are just the right person for this. After all, as far as I can tell fro
 ## Chapter 5
 
 {% bubble Madara %}
-Hmm… Anzu-san’s like a big sister figure. Well, I think it’s more like she grew up without knowing how to depend on others.
+Mm~… Anzu-san’s like a big sister figure. Well, I think it’s more like she grew up without knowing hooow to depend on others.
 
-So whenever I try to look out for her, she rejects my help and pushes it away.
+Sooo whenever I try to look out for her, she rejects my help and pushes it away.
 
-It’s almost like she thinks it’s bad for her to depend on others.
+It’s aaalmost like she thinks it’s bad for her to depend on others.
 
 It’s completely ingrained in her head that she *has* to stay in shape because she’s the big sister.
 {% endbubble %}
@@ -663,7 +669,7 @@ It’s a difficult issue of hers, but she’s a very important childhood friend�
 
 So I do want to protect her as much as I can. But if she doesn’t want that, then there’s not much I can do about that.
 
-After all, I may end up stressing her out by looking after her way more than necessary… and that would only exhaust her even further. Doing things delicately is a huge challenge for me.
+After all, I may end up stressing her out by looking after her waaay more than necessary… and that would only exhaust her even further. Doing things delicately is a huuuge challenge for me.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -673,7 +679,7 @@ It is in part my own actions that caused this problem, so I will watch over what
 {% endbubble %}
 
 {% bubble Madara %}
-But, you know… I’m surprised, Rei-san. Your favor wasn’t what I expected it to be. I really thought you were going to talk to me about what’s happening with Kanata-san.
+But, y’know… I’m surprised, Rei-san. Your favor wasn’t what I expected it to be. I reaaally thought you were going to talk to me about what’s happening with Kanata-san.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -693,11 +699,13 @@ But the modern age would not accept living a life like that of a sacrificial lam
 {% bubble Madara %}
 I agree with you. While I do think it's silly that we're trying to define someone else's form of happiness…
 
-His form of happiness has never been world peace, or the prosperity of land—It's nothing ambitious like that…
+His form of happiness has never been world peace, or the prosperity of land — It's nothing ambitious like that…
 
 Rather, it seems to be those trivial but valuable things, such as simply sitting together as a family, having tea.
 
-After all, when we played house together, he'd have the loveliest smile on his face from how happy he was—You almost wouldn’t believe it. Even though he'd always say I'm being annoying or that I’m bothering him.
+After all, when we played house together, he'd have the loooveliest smile on his face from how happy he was—
+
+You almost wouldn’t believe it. Even though he'd always say I'm being annoying or that I’m bothering him.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -705,11 +713,11 @@ After all, when we played house together, he'd have the loveliest smile on his f
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, so he's pretty much like a jellyfish, huh?
+Hahaha, yeah, he's pretty much like a jellyfish.
 
-The venom stored in a sea creature’s body comes from absorbing all the nasty stuff in the water and the food it eats…
+Thing is, though, the venom stored in a sea creature’s body comes from absorbing all the nasty stuff in the water and its food…
 
-But Kanata-san, in truth, is a pure and kind creature. I don't ever want him to live such a miserable life. If that’s his fate then I *will* make sure to change it.
+But the real Kanata-san is a pure and kind creature. I don't ever want him to live such a miserable life. If that’s his fate, then I *will* make sure to change it.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -723,11 +731,11 @@ So I wasn't *always* Ryusei Purple, Rei-san.
 {% endbubble %}
 
 {% bubble Rei %}
-But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously speckled color like your name.
+But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously speckled color like your name.[^2]
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, my name’s weird, but I like it a lot. Because of it being “Mikejima Madara,” I get to casually call myself “Mama.”
+Hahaha, my name’s weird, but I like it a looot. Because of it being “Mikeji<em>ma Ma</em>dara,” I get to casually call myself “Mama.”
 {% endbubble %}
 
 {% bubble Rei %}
@@ -747,9 +755,9 @@ You must do your best so as not to repeat the same mistakes as this foolish vamp
 {% endbubble %}
 
 {% bubble Madara %}
-Yep, I’m aware. But if I keep being cautious over every single thing I do, I won’t get anywhere.
+Yep, I’m aware. Buuut if I keep being cautious over every single thing I do, I won’t get anywhere.
 
-You’re still young too, Rei-san. I think it’s fine if you aim for a dream again, you know?
+You’re still young too, Rei-san. I think it’s fine if you aim for a dream again, y’knooow?
 {% endbubble %}
 
 {% bubble Rei %}
@@ -769,23 +777,23 @@ You should go there with a friend. Hopefully these tickets are a good enough rew
 {% endbubble %}
 
 {% bubble Madara %}
-Oh yes, this is a godsend. I also saw Kanata-san walking around selling them, but whenever I asked for one he wouldn’t sell me any for some reason.
+Oh yeah, this is a godsend. I also saw Kanata-san walking around selling them, but whenever I asked for one, he wouldn’t sell me aaany for some reason.
 
 And I thought I’d be pushing it *too* far if I were to go and buy a ticket from the aquarium myself.
 
-But if you’re going to give me some, then I can now go there with the excuse that it’s where I was fated to be.
+But if you’re gonna give me one, theeen I can now go there with the excuse that it’s where I was fated to be.
 {% endbubble %}
 
 {% bubble Rei %}
 *Kukuku,* what’s this? Does Shinkai-kun hate you?
 
-He has been much more social and friendly lately; has he not sold you a ticket despite this?
+He has been much more social and friendly lately, yet he will not sell you a ticket despite this?
 {% endbubble %}
 
 {% bubble Madara %}
-Hm~ Actually, maybe I’m the only one he rejects now… Maybe he thinks I have some kind of ulterior motive…
+Mm~ Actually, maybe the reason I’m the only one he rejects has some special motive to it…
 
-Or, well, maybe he thinks I’m annoying, so he just simply hates me.
+But, well… maybe he just thinks I’m annoying, so that’s why he hates me.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -793,7 +801,7 @@ Or, well, maybe he thinks I’m annoying, so he just simply hates me.
 
 Thus neither I, Shinkai-kun, nor Hibiki-kun would ever scorn anyone.
 
-The other two from the Five Eccentrics remain barely within the fabric of humanity, so they may not have the same feelings as we do towards humans.
+The other two from the Five Eccentrics narrowly remain within the fabric of humanity, so they may not have the same feelings as we do towards humans.
 
 But perhaps they deny out of love, as well. I would not know something like that though.
 {% endbubble %}
