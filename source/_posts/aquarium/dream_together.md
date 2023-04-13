@@ -203,7 +203,7 @@ i would feel a bit [terrible] if that were to happen.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Everyone’s doing this ‘cause they want to, you know? But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
+Everyone’s doing this ‘cause they want to, y'know? But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
 
 This was just the worst type of ending, what with time being lost thanks to us taking forever to group up after losing eachother…
 
@@ -327,7 +327,7 @@ Ah! Don’t run off with a stunned look on your face!
 
 Did you forget that the reason today went badly was because of that~? I think it’d be a good idea to think less about work every once in awhile, don’t you?
 
-People aren’t meant to put work above all else, you know?
+People aren’t meant to put work above all else, y'know?
 
 Well, nowadays you get rewarded for working hard, so I guess everyone has been putting their all into it.
 
@@ -343,7 +343,7 @@ I don’t want you to turn out that way.
 
 It *could* be nice for someone to live a short but fulfilling life, and it *could* satisfy them in the end… But everyone they leave behind wouldn’t be able to handle it. So take care of your health, and live as long as you can.
 
-It’s easy to forget this when we’re all living in this peaceful country, but… People do die, you know?
+It’s easy to forget this when we’re all living in this peaceful country, but… People do die, y'know?
 
 Don’t die on us… Okay? You’re very important to everyone, Anzu-chan.
 
@@ -371,7 +371,7 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s ador
 
 <th>(She’s probably been really busy lately and making mistakes as she gets more and more tired. I’m guessing that’s what ended up making her cry…)</th>
 
-<th>(You know, I really do want good people to always be smiling.)</th>
+<th>(Y'know, I really do want good people to always be smiling.)</th>
 
 <th>(…Mom, I'll be a good kid too, so could I also smile and laugh more?)</th>
 {% endbubble %}

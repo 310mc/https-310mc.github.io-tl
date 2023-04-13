@@ -110,9 +110,9 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 {% bubble Madara %}
 Hahaha, are you really saying that after all this time you’ve known him? Kanata-san has aaaalways been dearly loved by marine animals. No one knows if it’s true, but they say it’s because he comes from a family that dominated the ocean.
 
-Long ago in ancient times, his ancestors lived their lives with the ocean’s tides, and they built a paradise within its depths.
+Long ago in ancient times, his ancestors lived their lives with the ocean’s tides, and built a paradise within its depths.
 
-And since that blood runs in his own veins, he will be made the head of the family. But that’s aaall just a fairytale.
+And since that blood runs in his own veins, he's the current head of the family. But that’s aaall just a fairytale.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -124,7 +124,7 @@ Deeply respect, huuuh? It looks more like they're trying to atone for something 
 
 This is also just folklore, but it’s said that the rich folks of this region used those in his lineage as a sacrificial lamb for prosperity.
 
-But yeah, it’s such an old tale that no one knows if it’s true anymore.
+But yeah, it’s such an old tale that no one knows if it’s even true anymore.
 
 I’m the type to try and find out more about valuable things with ancient history attached to them, but unlike Nagisa-san, I have no interest in purposely taking those things right out from the graveyard.
 
@@ -192,9 +192,9 @@ And whenever you can, invite Anzu-chan over, too.
 {% bubble Madara %}
 Yeah, please do hang out with her more.
 
-I think she might be bad at making friends, or like, she prioritizes others over herself, so I’m always worried for her.
+I think she might be bad at making friends, or more liiike, she prioritizes others over herself, so I’m always worried for her.
 
-But right now, I want you to focus on this live show…… What’s wrong, Kaoru-san? You don’t seem focused on the show, you know?
+But right now, I want you to focus on this live show… What’s wrong, Kaoru-san? You don’t seem focused on the show, y'knooow?
 
 I know you can do it if you try. Yes you can, yes you can~♪
 {% endbubble %}
@@ -214,7 +214,7 @@ If anyone can do that, it’s you. After all, you’re the most gorgeous, beauti
 {% img /img/es/eventstory/aquarium/kaorubcg.jpg %}
 
 {% bubble Kaoru %}
-Ewww, being complimented by a guy won’t make me happy at *all*~ But you’re right… So how about I elegantly steal away all the girls from their careless boyfriends, hm?
+Ewww, being complimented by a guy doesn’t make me happy at *all*~ But you’re right… How about I elegantly steal away all the girls from their careless boyfriends, hm?
 
 That sounds like a lot of fun to do, and it suits my style… Even if I succeed only for a moment~♪
 
@@ -232,9 +232,9 @@ Come, all of you, come!! You have to touch the dolphins gently! It’s not scary
 {% img /img/es/eventstory/aquarium/madarabcg.jpg %}
 
 {% bubble Madara %}
-If the real thing’s still too scary for you, then pet this plush toy version instead!
+If the real thing’s still too scary for you, then pet this stuffed toy version instead!
 
-Here, here! ♪ The real dolphin’s even softer, you know! Dolphins raise their own offspring through milk like us, after all! That makes them our friends!
+Here, here! ♪ The real dolphin’s even softer, y'know! Dolphins raise their own offspring through milk like us, after all! That makes them our friends!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -326,7 +326,7 @@ Whaaat\~? You guys are so harsh\~! I’ve had a complete 180 flip, I’m an earn
 {% endbubble %}
 
 {% bubble Madara %}
-Kanata-saaan? Sorry for interrupting your chatter, but could you come over here for a second?
+Kanata-saaan? Sorry for interrupting your chatter, buuut could you come over here for a second?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -336,11 +336,11 @@ i will do anything as an [apology] for causing [trouble] to everyone.
 {% endbubble %}
 
 {% bubble Madara %}
-Nah, there’s just something I want you to see. I thought it was about time I finished off one of the objectives behind this live show I made us do.
+Naaah, there’s just something I want you to see. I thought it was about time I finished off one of the objectives behind this performance I made us do.
 {% endbubble %}
 
 {% bubble Souma %}
-…? The plan is to help the aquariums’ business by calling over an audience with a live show, is it not?
+…? The plan is to help the aquariums’ business by calling over an audience with a performance, is it not?
 
 I have been working with all my might with that in mind.
 
@@ -348,9 +348,11 @@ If we are to make the business flourish, then there will be no reason to let go 
 {% endbubble %}
 
 {% bubble Madara %}
-Yeah, we’ve still got that objective to complete. But it’s not like we can work full time here… No matter how good of a performance we put up, it’ll only be a temporary help to the business.
+Yeah, we’ve still got that objective to complete. Buuut it’s not like we can work full time here…
 
-But besides that, there's something important Kanata-san needs to consider when thinking about his own future. Kanata-san, take a good look at the seats over there~♪
+No matter how good of a performance we put up, it’ll only be a temporary help to the business.
+
+But besides that, there's something important Kanata-san needs to consider when thinking about his own future. Kanata-san, take a gooood look at the seats over there~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -420,7 +422,7 @@ rei\~! wataru\~! are you watching me? i am truly [happy] right now~♪
 {% endbubble %}
 
 {% bubble Madara %}
-Yeah, they’re important too, but I meant to look a little bit to the right… Look, it’s the people from your household.
+Yeah, they’re important too, but I meant to look a liiittle bit to the right… Look, it’s the people from your household.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -430,27 +432,29 @@ they seem like [regular people] when they look like that way, don’t they?
 {% endbubble %}
 
 {% bubble Madara %}
-Heheh. Everyone puts on a mask at festivals, so even gods can blend in.
+Heh. During festivals, everyone puts on a mask, so even gods can blend in.
 
-During these moments when people look the same and aren’t their usual selves, they interact with and talk to each other, growing fond of one another. That's why I love festivals.
+During these moments when people look the same and aren’t their usual selves, they interact with and talk to each other, growing fond of one another. That's why I looove festivals.
 
 We’re not like other people. But *here*, we can be happy just like everyone else.
 
-Now, Kanata-san… Show your smile to your household—to your family.
+Now, Kanata-san… Show your smile to your household — to your family.
 
 Let them know that you’re fine, that you're living happily as an idol… Show them that you feel that way, to give them peace of mind.
 
-You’re their hope. Their dreams, their happiness—All of it. After all, you’re their god.
+You’re their hope. Their dreams, their happiness — All of it. After all, you’re their god.
 
-That's why they become uneasy when you start being gloomy…
+That's why they become uneasy when you start being gloomy.
 
 This time around, you started saying selfish things to them, and your feelings clashed with theirs…
 
-So that must’ve made them really worried. That’s exactly why you need to show them with pride that you’re okay right now.
+So that must’ve made them reaaally worried. That’s exactly why you need to show them with pride that you’re okay right now.
 
-It’s probably rough to be treated like a god when you just want to be human, but… Having faith in God is a strong emotion similar to love, and not getting anything in return for their love probably makes them feel left out.
+It’s probably rough to be treated like a god when you just want to be human, but…
 
-So your most important duty in all of this is to meet that need. That would do for now.
+Having faith in God is a strong emotion similar to love, and not getting anything in return for their love probably makes them feel left out.
+
+So your most important duty in aaall of this is to meet that need. That would do for now.
 
 We have long lives ahead of us, so you can take your time thinking about what to do after this.
 {% endbubble %}
@@ -462,9 +466,9 @@ well… i suppose i can [understand] what you are trying to say. i am sorry that
 {% endbubble %}
 
 {% bubble Madara %}
-Oh, c’mon~ All I want is for you to blast through trivial problems such as this, so that you can go back to joining Ryuseitai’s activities.
+Oh, c’mooon~ All I want is for you to blast through trivial problems such as this, so that you can go back to joining Ryuseitai’s activities.
 
-I think Chiaki-san is gonna get a really bad stomach ache from worry if things don’t get settled soon.
+I think Chiaki-san is gonna get a really bad stomachache from worry if things don’t get settled soon.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -472,7 +476,7 @@ I think Chiaki-san is gonna get a really bad stomach ache from worry if things d
 {% endbubble %}
 
 {% bubble Madara %}
-Yeah, so much that it startled me. He’s the type to be way too mindful and considerate about things, so you should properly tell him everything to ease his mind.
+Yeah, so much that it startled me. He’s the type to be way too mindful and considerate about things, so you should properly tell him eeeverything to ease his mind.
 
 He’s not ashamed of losing, but of being unable to fight. If he doesn’t know what’s going on, he can’t involve himself in it, nor can he fight.
 
@@ -494,7 +498,7 @@ but someday… when that day comes… i will shout out “save me, hero!” from
 
 when that happens, i am sure that chiaki would [gladly] come rushing for me.
 
-for the sake of that day… i will [clear] through all these [problems] immediately and come back home to everyone, so that chiaki would not [give up] me.
+for the sake of that day… i will [clear] through all these [problems] immediately and come back home to everyone, so that chiaki would not [abandon] me.
 
 i will come back to [where] i [belong], as a human.
 {% endbubble %}

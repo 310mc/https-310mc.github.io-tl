@@ -106,7 +106,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Aquarium"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/10207.html" class="storyName" target="_blank">
+        <a href="/aquarium" class="storyName" target="_blank">
             <span>Aquarium</span>
             <span class="read"></span>
         </a>

@@ -163,7 +163,7 @@ Yep, that’s what we plan to do. We’re gonna be here for awhile, so phonecall
 
 I dunno what’s going on, but… wouldn’t it be good if you guys took it easy and enjoyed yourselves like you’re on a date?
 
-Anzu-san, you always have your head buried with work, work, and more work, you know?
+Anzu-san, you always have your head buried with work, work, and more work, y'know?
 
 Wouldn’t falling in love and having fun *also* be helpful for work? Not that I know anything about that.
 {% endbubble %}
@@ -187,7 +187,7 @@ No no, this is the result of everyone working hard to give them value! They made
 {% bubble Souma %}
 Fufu, they speak like they know things so well… However, it is indeed the truth. What strange children.
 
-Now then… Anzu-dono, I am sure it is irritating of me to apologise over and over again, but allow me to say it one last time.
+Now then… Anzu-dono, I am sure it is irritating of me to apologize over and over again, but allow me to say it one last time.
 
 ……Is there something that is troubling you?
 
@@ -195,7 +195,7 @@ I have good hearing, so I had heard what you spoke about with my senior… I am 
 
 If something is troubling you, may I ask you to speak to me about it?
 
-I am sure you know this by now, but I am unreliable, and I am not attentive enough. I am still but a novice, and so I do not have the power to solve problems easily.
+I am sure you are aware of this by now, but I am unreliable and not attentive enough. I am still but a novice, and so I do not have the power to solve problems easily.
 
 However, you are a friend who I sit next to and learn together with every day in class… The least I could do is to listen to your worries and try to assist you—even if it is not the best of assistance.
 
@@ -285,7 +285,7 @@ Seriously, we were all worried for you.
 
 Morisawa-kun, Souma-kun, Anzu-chan… and me too, of course. I sacrificed a precious holiday for you.
 
-It’s not my style to be nice and considerate whenever and wherever, you know?
+It’s not my style to be nice and considerate whenever and wherever, y'know?
 
 So if you don’t feel even a little bad for making us all worry, then I may just get real angry.
 {% endbubble %}
@@ -521,7 +521,7 @@ You gotta use *all* the resources you can find. You can’t just muscle your way
 
 And now I’m checking up on the results and consequences of those actions.
 
-The staff members are clattering aaall about 'cause of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
+The staff members are clattering aaall about because of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
 
 I’ll tell you now; I have permission to do this *aaand* I’m qualified enough for it.
 

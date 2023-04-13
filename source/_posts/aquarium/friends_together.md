@@ -215,7 +215,7 @@ But you’re a friend I’m close to! You don’t really poke your nose in or tr
 
 So I feel relaxed, since I prefer people not butting in on that kind of stuff.
 
-You know, like when people act as if they actually get me and Yuta-kun, but talk about us in typical terms, saying stuff like “I’m so sorry for you,” or “You should try doing this.”
+Y'know, like when people act as if they actually get me and Yuta-kun, but talk about us in typical terms, saying stuff like “I’m so sorry for you,” or “You should try doing this.”
 
 When in reality, I never wanted any of their help. He and I are different from what’s normal, after all.
 
@@ -489,7 +489,7 @@ ohhh? kaoru! ehehe, what a [coincidence]~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Um, no, no! What're you doing, Kanata-kun!? You're inside the water tank, you know!?
+Um, no, no! What're you doing, Kanata-kun!? You're inside the water tank, y'know!?
 
 I second-guessed myself about this before, but were you actually a sea creature and not a human all along!?
 {% endbubble %}
@@ -643,7 +643,7 @@ Because of that, there ended up being sooomething of an after-effect, and now Ka
 
 He still has many unresolved problems of his own.
 
-I could just say it’s all 'cause of the Student Council, but eh, it’s too late for that… Nothing'd come out of slamming Eichi-san or Keito-san’s face in.
+I could just say it’s all because of the Student Council, but eh, it’s too late for that… Nothing'd come out of slamming Eichi-san or Keito-san’s face in.
 
 All it’d do is make my fist hurt. This wouldn’t go like a tokusatsu show would, huh…
 

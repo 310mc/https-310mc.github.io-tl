@@ -185,7 +185,7 @@ I do not mind. But before doing so, I will eliminate you before you can do any h
 {% endbubble %}
 
 {% bubble Kaoru %}
-Uhh, you just said that so casually, you know!? Please don't do anything~ Aren’t we pals from the same club? ♪
+Uhh, you just said that so casually, y'know!? Please don't do anything~ Aren’t we pals from the same club? ♪
 {% endbubble %}
 
 {% bubble Souma %}
@@ -209,7 +209,7 @@ There is no reason for this festivity. Our school uniforms should be enough.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Souma-kyun, you have a weak outlook~ We need to consider every kind of possibility, you know?
+Souma-kyun, you have a weak outlook~ We need to consider every kind of possibility, y'know?
 
 Regardless how Kanata-kun may have been in the past, he wouldn't just disappear now without telling anyone.
 
@@ -257,7 +257,7 @@ Uughh~ What’s with this kid!? He’s a real pain! This is my long-awaited date
 
 This date is why I cancelled all my other plans! I even woke up early today!
 
-Woah—… Don’t pat my head to calm me down, Anzu-chan. You treat me like a kid sometimes~ *I’m* the senior here, you know?
+Woah—… Don’t pat my head to calm me down, Anzu-chan. You treat me like a kid sometimes~ *I’m* the senior here, y'know?
 
 It’s fine, though. Today’s a holiday, so the aquarium’s probably really crowded…
 
@@ -473,7 +473,7 @@ Yet you never realized he was acting differently until *after* he disappeared.
 
 Shouldn’t you be reflecting on this mistake? I’m aware I’m saying this like I’m not part of the mistake, though… So how about we both start being cautious from now on?
 
-Kanata-kun’s a real handful too, you know…
+Kanata-kun’s a real handful too, y'know…
 
 So I think it'd be good if there was someone who could always be nearby, and who could then protect him when needed. You’d pretty much fit that role.
 {% endbubble %}
@@ -807,7 +807,7 @@ But perhaps they deny out of love, as well. I would not know something like that
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, you're getting really sleepy, aren't you? Your words are starting to sound really jumbled, you know?
+Hahaha, you're getting really sleepy, aren't you? Your words are starting to sound really jumbled, y'know?
 {% endbubble %}
 
 {% bubble Rei %}
