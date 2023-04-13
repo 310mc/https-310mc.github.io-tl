@@ -83,11 +83,11 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 {% bubble Sora %}
 HaHa~♪ Hina-chan, Hina-chan! Come over here!
 
-There’s fishies here with pretty colors~ They're shining like a rainbow with the reflected colors of the people around them!
+There are fishies here with pretty colors~ They're shining like a rainbow with the reflected colors of the people around them!
 {% endbubble %}
 
 {% bubble Hinata %}
-Which ones? Lemme see~ But you shouldn’t run off, okay? It’s reaaally crowded here, you’ll hurt yourself if you smack right into someone, Sora-kun!
+Which ones? Lemme see~! Ah, but you shouldn’t run off, okay? It’s reaaally crowded here, you’ll hurt yourself if you smack right into someone, Sora-kun!
 
 C’mon, let’s hold hands.
 {% endbubble %}
@@ -97,11 +97,11 @@ Okay! HiHi~ You feel like a big brother sometimes, Hina-chan~♪
 {% endbubble %}
 
 {% bubble Hinata %}
-*Ahem!* That’s because I *am* a big brother!
+*Ahem!* That’s 'cause I *am* a big brother!
 
-But I’m worried about you… You’re kinda wobbling about. It’s like you can’t focus on what’s going on around you… You okay?
+But I’m worried about you; you’re kinda wobbling about! It’s like you can’t focus on what’s going on around you… You okay?
 
-Are you bad with places like this…? I’m sorry!
+Are you bad with places like this…? Sorry!
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/friends1_2.jpg %}
@@ -109,17 +109,17 @@ Are you bad with places like this…? I’m sorry!
 {% bubble Sora %}
 HuHu~♪ Sora can’t see very well in a place like this!
 
-But Sora can enjoy it as much as you by looking at the colors reflected in people’s eyes~
+But Sora can enjoy it as much as everyone by looking at the colors reflected in people’s eyes~
 
-Everyone is emitting colors; it’s like Sora’s in a jewelry box! The fishies are what we’re here for, but Sora can’t exactly see them well, so Sora thinks it’s a little disappointing~
+Everyone is emitting colors; it’s like Sora’s in a jewelry box! But the fishies are what we’re here for, and Sora can’t exactly see them well, so that’s a little disappointing~
 
-But this is all because Sora’s strange, so you don’t have to apologise, Hina-chan~♪
+But this is all because Sora’s strange, so you don’t have to apologize, Hina-chan~♪
 {% endbubble %}
 
 {% bubble Hinata %}
-Hmm…
+Mm~…
 
-Aaalrighty, then how about we do this. Let go of my hand, and then part your leggies.
+Aaalrighty, then how about we do this. Let go of my hand, and then part your legs.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -127,15 +127,15 @@ Aaalrighty, then how about we do this. Let go of my hand, and then part your leg
 {% endbubble %}
 
 {% bubble Hinata %}
-Good, good. I’m gonna carry you up on my shoulders~ Here we go~♪
+Good, good. I’m gonna carry you up on my shoulders\~ Here we go\~♪
 {% endbubble %}
 
 {% bubble Sora %}
-Woah—!? Hina-chan, you’re super strong! Sora is around the same size as you, yet you easily managed to carry Sora up!
+Wawa—!? Hina-chan, you’re super strong~! Sora is around the same size as you, yet you easily managed to carry Sora up!
 {% endbubble %}
 
 {% bubble Hinata %}
-That’s ‘cuz you’re light. Upper strength is needed for lifting things, but a sense of balance is also important to manage it.
+That’s ‘cause you’re light. Upper strength is needed for lifting things, but a sense of balance is also important to manage it.
 
 I’m pretty good at that~ I often carried my little brother like this when we were young.
 
@@ -143,17 +143,17 @@ How’s it up there? You should be able to see the fishies now that everyone’s
 {% endbubble %}
 
 {% bubble Sora %}
-HeHe~♪ Yes! Sora can see them! This area is like an underwater tunnel, so Sora can see the fishies on the ceiling instead!
+HeHe~♪ Yes! Sora can see them! This area is like an underwater tunnel, so Sora can see the fishies on the ceiling, too!
 
-*Uwaa…* Sora thinks it probably looks colorful and pretty~☆
+Uwaa… Sora thinks it probably looks colorful and pretty~☆
 {% endbubble %}
 
 {% bubble Hinata %}
-“Probably”…? Hrrm, just what kinda view are you seeing right now…
+“Probably”…? Hmm, just what kinda view are you seeing right now…
 
 Well, whatever. We’ll be in everyone’s way if we stay near the entrance any longer, so let’s go in like this.
 
-Don’t move around too much, okay? We’d probably both crash down if I lost my balance.
+Don’t move around too much, okay? We’ll both crash down if I lost my balance.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -161,19 +161,19 @@ Okay! Sora will be obedient, Hina-chan~♪
 
 But Sora wants you to also have fun! You don’t have to be looking after Sora the whole way~
 
-Sora will tell you about any fish with pretty colors that Sora finds. Whenever you feel like you have less weight on your shoulders, you should look over at them too, okay?
+Sora will tell you about any fish with pretty colors. Whenever you feel like you have less weight on your shoulders, you should look over at them too, okay?
 {% endbubble %}
 
 {% bubble Hinata %}
-Ahaha, wow, you managed to figure out that I have a weight on my shoulders~
+Ahaha, wow, you figured out that I have a weight on my shoulders~
 
 But it’s not your weight that’s pressing me down; I just have way too much on my mind right now.
 
-Well, if Yuta-kun were here, I could feel more relaxed by splitting some of those troubles with him.
+Well, if Yuuta-kun were here, I could feel more relaxed by splitting some of those troubles with him.
 {% endbubble %}
 
 {% bubble Sora %}
-Oh, that’s right… Yuu-chan is not around today, is he? That’s odd~ Aren’t you two peas in a pod?
+Oh, that’s right… Yuu-chan isn’t around today, is he? That’s odd~ Aren’t you two peas in a pod?
 
 Although for Sora, if only Hina-chan is here, Sora can feel at ease by being able to see your real color.
 
@@ -183,9 +183,9 @@ But your real color always feels like it’s sad and lonely, so wouldn’t it be
 {% endbubble %}
 
 {% bubble Hinata %}
-Yeah. I also wish I could be around Yuta-kun every single minute of my life, but it couldn’t be like that this time around~ Something kinda happened, you see.
+Yeah. I also wish I could be around Yuuta-kun every single second of my life, but it couldn’t be like that this time around~ Something kinda happened, you see.
 
-I’m taking up some part-time jobs to help increase 2wink’s funds, and so I can get a special present for Yuta-kun.
+I’m taking up some part-time jobs to help increase 2wink’s funds, and so I can get a special present for Yuuta-kun.
 
 He found out about it though, so lately he’s been helping me out here and there with saving up money…
 
@@ -197,13 +197,13 @@ So if I told him to come with me to the aquarium, I’d also have to explain to 
 
 Even if I tried to get away with it by lying or something, he’d probably find out anyway, and then he’d sulk about it.
 
-This is literally right after he got angry at me for taking up whatever part-time jobs I could get, so I think he’d get suuuper angry at me if he found out I *“haven’t learned my lesson”…*
+This is literally right after he got angry at me for taking up whatever part-time jobs I could get, so I think he’d get suuuper angry at me if he found out I “haven’t learned my lesson”…
 
 But I didn’t think it’d be right of me to sell the tickets for money…
 
-And Yuta-kun often tells me that I shouldn’t only play with him, and that I should hang out with my own classmates more.
+And Yuuta-kun often tells me that I shouldn’t only play with him, and that I should hang out with my own classmates more.
 
-So I thought I’d ask any friend I could find to join me without telling Yuta-kun about it, and now here we are.
+So I thought I’d invite any friend I could find without telling Yuuta-kun about it, and now here we are.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -211,15 +211,15 @@ HoHo\~? But Sora is not your classmate\~?
 {% endbubble %}
 
 {% bubble Hinata %}
-But you’re a friend I’m close to! You don’t really poke your nose in or try to ask about what’s going on with us…
+But you’re a friend I’m close to! You don’t really poke your nose in or try to ask about what’s going on with us, either…
 
-So I feel relaxed, since I prefer people not butting in on that kind of stuff.
+So I feel relaxed, since I prefer people not butting in on that kinda stuff.
 
-Y'know, like when people act as if they actually get me and Yuta-kun, but talk about us in typical terms, saying stuff like “I’m so sorry for you,” or “You should try doing this.”
+Y’know like, when people act as if they actually get me and Yuuta-kun, but talk about us in typical terms, saying stuff like “I’m so sorry for you,” or “You should try doing this.”
 
 When in reality, I never wanted any of their help. He and I are different from what’s normal, after all.
 
-We were always two halves of one whole from the time we were in in our mom’s belly. There’s no way people who aren’t like us could understand something like that.
+We were always two halves of one whole from the very moment we were in in our mom’s belly. There’s no way people who aren’t like us could understand something like that.
 
 I think you’d get what I mean, though.
 {% endbubble %}
@@ -233,31 +233,31 @@ If it weren’t for that, Sora would have trouble just breathing!
 
 But even Sora has been adapting to this earth with the help of kind people.
 
-You’re handy and can do anything, so Sora is sure that you can get used to this earth, too—even more smoothly than Sora does.
+You’re handy and can do anything, so Sora is sure that you can get used to this earth, too — even more smoothly than Sora does.
 
 So don’t be so stubborn, don’t shut your heart inside… You should show your real color to everyone, Hina-chan.
 
-No one will say it’s an ugly color.
+No one will say it’s a creepy color.
 {% endbubble %}
 
 {% bubble Hinata %}
-Didn’t I just tell you? I’ve heard that kinda advice so much already that I’m tired of it!
+Didn’t I *just* tell you? I’ve heard that kinda advice so much already that I’m tired of it!
 
-I’m fine! If you won’t believe me then I’ll do *this* to you!
+I’m fine! If you won’t believe me, then I’ll do *this* to you!
 {% endbubble %}
 
 {% bubble Sora %}
-Wha-Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
+Wha—Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
 {% endbubble %}
 
 ## Chapter 2
 
 {% bubble Sora %}
-<th>(Gosh, Hina-chan… You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)</th>
+<th>(…Gosh, Hina-chan. You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)</th>
 
 <th>(Accurately using magic and leading someone just a little closer to a happier direction… That's easier said than done. It's still tricky for Sora.)</th>
 
-<th>(…Even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)</th>
+<th>(But even if Sora is still a novice, the world is brimming with magic. If Sora's power isn't enough for this, then Sora will rely on power from the people around him.)</th>
 
 Look, Hina-chan, look! There’s a big thing moving around in that water tank~!
 {% endbubble %}
@@ -269,7 +269,7 @@ I think that shark's usual food is tiny fish, so won't it eat the fish around it
 {% endbubble %}
 
 {% bubble Sora %}
-Hmmm…? Now that you mention it, it is strange~
+Hmm…? Now that you mention it, it is strange~
 
 If they're not careful they'll probably be gone in a swipe, so maybe there’s a reason for it?
 
@@ -281,7 +281,7 @@ Nature’s living creatures don’t ever kill more than what they need, after al
 
 The idea that such creatures could reach a “breaking point” in their instincts and go on a rampage is usually born from mankind’s own unique rationalization.
 
-Instead of the things that society perceives as dangerous, what’s actually much more dangerous is the capacity of humans to think that way. Sora finds that really interesting~♪
+Contrary to what society perceives as dangerous, what’s actually much more dangerous is the capacity of humans to think that way. Sora finds that really interesting~♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -293,7 +293,7 @@ HiHi~ This is the first time for Sora! Sora can't really calm down~ Sora’s eye
 {% endbubble %}
 
 {% bubble Hinata %}
-Ahh, that’s right, you’re not good with places like this… My bad. You look like you could get tired at any second, so let’s start taking occasional breaks~♪
+Ahh, that’s right, you’re not good with places like this… My bad. You look like you could get tired at any second, so we'll take occasional breaks~♪
 {% endbubble %}
 
 {% bubble Sora %}
@@ -301,7 +301,7 @@ Sora's fine, though~ If Sora is with a friend, then anywhere is fun!
 
 Actually, the feelings of happiness and fun win over the pain and distress\~! Sora's painted with colors right now, after all\~
 
-But not having enough stamina is Sora's weakpoint, so Sora's happy that you’re being considerate~♪
+But not having enough stamina is Sora's weak-point, so Sora's happy that you’re being considerate~♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -315,7 +315,7 @@ I mean, you’re *extremely* athletic. The only person our age who can move as w
 {% bubble Sora %}
 …? Hina-chan, is that thing over there a human?
 
-Or is the sharkie coming right out of the water tank…?
+Has the sharkie come right out of the water tank…?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -337,11 +337,11 @@ I was a fool for admiring how you were thinking for once!
 {% endbubble %}
 
 {% bubble Hinata %}
-Eek!? Wai—Don’t take out your sword! Yuta-kun will be sad if I die!!
+Eeek!? Wai— Don’t take out your sword! Yuuta-kun will be sad if I die!!
 {% endbubble %}
 
 {% bubble Souma %}
-Hmm? My apologies, I thought you were someone else. If I recall correctly, you are the twin…?
+Hmm? My apologies, I thought you were someone else. If I recall correctly, you are one of the twins…?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -353,9 +353,9 @@ Yep! Hello! Sora will greet anyone he meets!
 {% endbubble %}
 
 {% bubble Souma %}
-Hm… There is no need to say your names, I know who you are. I am pretty good at remembering people's names.
+Mm… There is no need to say your names, I know who you are. I am pretty good at remembering people's names.
 
-Also, there is no need to be frightened. Even I am aware that brandishing my katana here would only cause unnecessary havoc. So I do not have my katana with me today.
+Also, there is no need to be frightened. Even I am aware that brandishing my katana here would only cause unnecessary havoc. I therefore do not have my katana with me today.
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/soumaorigcg.jpg %}
@@ -363,7 +363,7 @@ Also, there is no need to be frightened. Even I am aware that brandishing my kat
 {% bubble Souma %}
 I feel uneasy without my katana, but… It is an unavoidable matter.
 
-Instead, I tried to search for something that could be used like a weapon, and settled on the scabbardfish plush toy at the shop here.
+Instead, I tried to search for something that could be used like a weapon, and settled on the scabbardfish stuffed toy at the shop here.
 
 It is even more useless than a bamboo sword, but I am skilled enough to be able to use it for punishing scoundrels if necessary.
 
@@ -371,7 +371,7 @@ Also, it can be a souvenir for my younger brother. He enjoys the sight of cute t
 {% endbubble %}
 
 {% bubble Hinata %}
-Oh, it really ain’t no sword… You always look ready to strike, so I freaked out when it looked like you were ready to instantly end my life~♪
+Oh, it really isn’t a sword… You looked ready to strike, so I freaked out when it looked like you were ready to instantly end my life~♪
 {% endbubble %}
 
 {% bubble Sora %}
@@ -379,7 +379,7 @@ HuHu\~? What are you doing here, Kanzaki-senpai? You’re radiating with the col
 {% endbubble %}
 
 {% bubble Souma %}
-Ahh… Well, you see, this happened, then that happened… And now I am searching for Buchou-dono. I had come here with Anzu-dono, but I ended up separating from her.
+Ahh… Well, you see, this happened, then that happened… And now I am searching for Buchou-dono. I had come here with Anzu-dono and another person, but I ended up separating from them.
 
 It is most likely because of that lecher who confused me, only to then desert me, all so that he could be alone with Anzu-dono. You insolent man… I will never forgive you.
 
@@ -403,7 +403,7 @@ My little brother does that whenever he loses sight of me. He uses all means to 
 {% endbubble %}
 
 {% bubble Souma %}
-Hrrnn, but I come from a samurai family. Dying would be better than showing shame.
+Mmm, but I come from a samurai family. Dying would be better than showing shame.
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -433,9 +433,9 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 {% bubble Kaoru %}
 <th>(Mmm… What do I do now…? I lost complete sight of Anzu-chan…)</th>
 
-<th>(I got so distracted while trying to catch up with her that I didn’t even notice that Souma-kun isn’t here anymore. Jeez, what am I *doing?*)</th>
+<th>(I got so distracted while trying to catch up with her that I didn’t even notice that Souma-kun isn’t here anymore. Ahh, jeez, what am I *doing?*)</th>
 
-<th>(This isn’t like me. The most unbelievable thing that shouldn’t ever happen in your long-awaited date with someone is to somehow manage to lose sight of them midway into it… and now guess what happened…)</th>
+<th>(This isn’t like me. The most unbelievable thing that should never happen in your long-awaited date with someone is to somehow manage to lose sight of them midway into it… and now guess what happened…)</th>
 
 <th>(I’ve been really weird lately… I’m meant to be much more tactful than this.)</th>
 
@@ -445,11 +445,11 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 <th>(Should I just search for them normally? Or maybe my only choice is to broadcast for a lost child…)</th>
 
-<th>(Souma-kun will probably get angry at me and say *“How dare you embarrass me like that!”* if I did that, but… Yeah, let’s call for a lost child.)</th>
+<th>(Souma-kun will probably get angry at me and say, “How dare you embarrass me like that!” if I did that, but… Yeah, let’s call for a lost child.)</th>
 
 <th>(It’s times like these that things are easy for me, since I’m already hated by them anyway. It’s not like they can hate me any more than they already do, after all…)</th>
 
-<th>(Well, being treated with hostility twenty-four-seven can be tiring too, though.)</th>
+<th>(Well, being treated with hostility 24/7 can be tiring too, though.)</th>
 
 <th>(I’d prefer to be treated more warmly by default instead.)</th>
 
@@ -467,9 +467,9 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 <th>(The two of us have always lived in completely different worlds, so I feel like once I graduate, our ties will end right there.)</th>
 
-<th>(That's why I don’t want to say goodbye with only awful memories between us.)</th>
+<th>(That's why I don’t wanna say goodbye with only awful memories between us.)</th>
 
-<th>(*Sigh…*… Well, whatever. For now I should figure out the place to go to for a lost child. Hrrmmm, I think there's a guide near that water tank over there?)</th>
+<th>(*Sigh…*… Well, whatever. For now I should figure out the place to go to for a lost child. Hmm, I think there's a guide near that water tank over there?)</th>
 
 <th>(Huh, weird, there's a huge crowd over here… I wonder if there are unusual fish in it? Like, something the aquarium has to attract attention.)</th>
 
@@ -477,7 +477,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 <th>(I mean, it's pretty neat how aquariums have all kinds of stuff you wouldn’t be able to find, even if you went for a dive in the ocean.)</th>
 
-<th>(Let's see… What kind of fish i— Wait, huuuh!?)</th>
+<th>(Let's see… What kinda fish i— Wait, huuuh!?)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/kanataorigcg.jpg %}
@@ -489,7 +489,7 @@ ohhh? kaoru! ehehe, what a [coincidence]~♪
 {% endbubble %}
 
 {% bubble Kaoru %}
-Um, no, no! What're you doing, Kanata-kun!? You're inside the water tank, y'know!?
+Um, no, no! What're you *doing*, Kanata-kun!? I mean, I can see you're inside the water tank, but…!
 
 I second-guessed myself about this before, but were you actually a sea creature and not a human all along!?
 {% endbubble %}
@@ -501,7 +501,7 @@ i sacrificed something [important] to me so as to live on the [land]… it is ju
 {% endbubble %}
 
 {% bubble Kaoru %}
-Okay yeah, you do look like a “Little Mermaid” resting on top of a rock right now, but! What are you doing!? We were looking for you because of how worried we were!
+Okay yeah, you do look like a “little mermaid” resting on top of a rock right now, but! What're you doing!? We were looking for you 'cause of how worried we were!
 
 Yet all this time you were over here, just acting all weird like it's completely normal!
 {% endbubble %}
@@ -525,7 +525,7 @@ okay. a confused kaoru is also cute… but the usual [kaoru] is more [charming]~
 {% endbubble %}
 
 {% bubble Kaoru %}
-Yeah, uh, be quiet for a sec. <em><th>(Breathe in, breathe out)</th></em>…… Alright, I'm good to go.
+Yeah, uh, be quiet for a sec. <em><th>(Breathes in, breathes out)</th></em>…… Alright, I'm good to go.
 
 Hey, Kanata-kun.
 {% endbubble %}
@@ -535,7 +535,7 @@ yes. what is it, kaoru?
 {% endbubble %}
 
 {% bubble Kaoru %}
-…Sorry, before we sit down and chat, could you come out from there? It's getting pretty embarrassing to be here, what with all the attention on us.
+…Sorry, before we sit down and chat, could you come out from there? It's getting pretty embarrassing talking like this, what with all the attention on us.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -547,9 +547,9 @@ i know it must be [embarrassing], but can we talk as we are right now?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Punishment…? Just what did you do? You're a troublesome one.
+Punishment…? Just what did you do, you troublesome kid?
 
-I haven't heard much of what happened, but apparently it's some problem related to your home, right?
+I haven't heard much of what happened, but apparently it's some problem related to your household, right?
 {% endbubble %}
 
 {% bubble Kanata v2 %}

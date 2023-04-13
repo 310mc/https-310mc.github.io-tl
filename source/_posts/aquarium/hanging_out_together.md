@@ -647,11 +647,11 @@ HeHe~♪ This is all thanks to everything Shisho and Senpai have taught Sora!
 {% endbubble %}
 
 {% bubble Rei %}
-Fufu. But how odd… Did you not come here with Yuta-kun today, Hinata-kun?
+Fufu. But how odd… Did you not come here with Yuuta-kun today, Hinata-kun?
 {% endbubble %}
 
 {% bubble Hinata %}
-Ahaha… Something kinda happened… So please don’t tell Yuta-kun we were here.
+Ahaha… Something kinda happened… So please don’t tell Yuuta-kun we were here.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -693,7 +693,7 @@ Oh? So you know where the standby room is… Are you also going to be participat
 {% bubble Hinata %}
 Heheh. Anzu-san *did* ask us if we wanted to be part of the show, too.
 
-But today is my day off, and Yuta-kun isn’t here with me anyway, so I plan to enjoy it like any other person here will.
+But today is my day off, and Yuuta-kun isn’t here with me anyway, so I plan to enjoy it like any other person here will.
 {% endbubble %}
 
 {% bubble Rei %}
