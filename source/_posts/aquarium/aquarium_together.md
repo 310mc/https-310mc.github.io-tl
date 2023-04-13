@@ -147,41 +147,41 @@ But man, I’m feeling kiiinda emotional… So Anzu-san has reached *that* time 
 {% bubble Kaoru %}
 Anzu-chaaan, over here, over here~♪
 
-You really came, I’m so happy. Previously, you’d just ignore me completely.
+You really came, I’m so happy! You’d just ignore me completely in the past.
 
 You aren’t that wary of me now… I wonder if it’s okay to think of it as us getting closer.
 
-I’m so happy! I’ll make you have lots of fun today! I’ll show you my serious side~♪
+I’m so happy! I’ll make you have lots of fun today! I’ll show you how I really am when I’m serious~♪
 
-What a shame though~ You’re in your school uniform. It’s our long-awaited date, so I feel like it’d be okay if you wore some fancy clothes.
+What a shame, though~ You’re in your school uniform. It’s our long-awaited date, so I feel like it would’ve been nice if you wore some fancy clothes.
 
 Hmm… You were working at school the whole time, so you immediately came here in your school uniform.
 
-“Also, this isn’t a date”? Yep yep, I know~♪
+“Also, this isn’t a date”? Yep, yep, I know~♪
 
 But it’s fine to indulge in my happy dream of going on a date with you, right?
 
-It might be good if we find some nice clothes for you to wear before we go to the aquarium, yeah?
+It might be good if we find some nice clothes for you before we go to the aquarium, yeah?
 
-Leave it all to me~ I'll make you the most charming girl in the world!
+Leave it all to me~ I'll make you the most charming girl in the whole world!
 
-Now give me your hand, princess! I've been waiting for this~ Aah, it feels like today is going to be the most wonderful day ever…☆
+Now, give me your hand, princess! I've been waiting for this~ Ahh, today feels like it's going to be the most wonderful day ever…☆
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/aquarium1_3.jpg %}
 
 {% bubble Souma %}
-Get any closer to Anzu-dono and I will tear you down by the throat.
+Move any closer to Anzu-dono and I will tear you down by the throat.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Huuuh? Am I seeing things\~? There’s a samurai getting in the way of the perfect couple from a shoujo manga for some reason\~?
+…Huuh\~? Am I seeing things\~? There’s a samurai getting in the way of the perfect couple from a shoujo manga for some reason\~?
 
 No one called for you, so can you leave? Shoo, shoo!
 {% endbubble %}
 
 {% bubble Souma %}
-I do not mind. But before doing so, I will eliminate you before you can do any harm to Anzu-dono.
+I do not mind. But before doing so, I will eliminate you before you can cause any harm to Anzu-dono.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -189,7 +189,7 @@ Uhh, you just said that so casually, y'know!? Please don't do anything~ Aren’t
 {% endbubble %}
 
 {% bubble Souma %}
-I have never seen you as a *“pal”*… You are the disgrace of the Marine Life club.
+I have never once thought of you as a *“pal”*… You are the disgrace of the Marine Life club.
 {% endbubble %}
 
 ## Chapter 2
@@ -203,29 +203,29 @@ I have never seen you as a *“pal”*… You are the disgrace of the Marine Lif
 {% bubble Souma %}
 For goodness’ sake… A detour will only waste time. Why does our attire even matter?
 
-I thought our goal was to find Buchou-dono. You said that his whereabouts have been unknown for a while, have you not?
+From what I understood, the objective is to find Buchou-dono, as his whereabouts have been unknown for a while, correct?
 
 There is no reason for this festivity. Our school uniforms should be enough.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Souma-kyun, you have a weak outlook~ We need to consider every kind of possibility, y'know?
+You have a weak outlook, Souma-kyun~ We need to consider every kind of possibility, y'know?
 
-Regardless how Kanata-kun may have been in the past, he wouldn't just disappear now without telling anyone.
+Regardless of how Kanata-kun may have been in the past, he wouldn't just disappear now without telling anyone.
 
 If there really *is* a reason for why he's running away, he might try to hide if he ends up seeing people wearing a Yumenosaki uniform.
 
 So we have to wear a disguise. Now stop complaining and wear this, okay?
 
-Well, I call it a disguise for Anzu-chan, but really, I just want to see her in cute clothes. You don’t really have anything to do with this, so don't get in the way.
+Well, I call it a disguise for Anzu-chan, but really, I just want to dress her in cute clothes. You don’t really have anything to do with this, so don't get in the way.
 
-It looks like you won't leave even if I tell you to. But I suppose if Anzu-chan says she’s more content that way, then I’ll go along with it.
+It looks like you won't leave even if I tell you to, and I suppose if Anzu-chan says she’s more content that way, then I’ll go along with it.
 
-But at least do as I say. Don't do anything we don't need happening, okay? You tend to be really reckless, so I get worried.
+But at least do as I say. Don't do anything we don't need happening, okay? You tend to be really reckless, so it's worrying.
 {% endbubble %}
 
 {% bubble Souma %}
-I would not commit a reckless deed.
+I would never commit a reckless deed.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -235,25 +235,28 @@ You know how to wear western clothes, right? Or maybe I should help you out~♪
 {% endbubble %}
 
 {% bubble Souma %}
-I do not need you to. I have worn western clothing plenty of times for work with Akatsuki. So long as it is not a tremendously strange outfit, I should be able to dress myself.
+I do not need you to. I have worn western clothing plenty of times for work with Akatsuki. As long as it is not a tremendously strange outfit, I should be able to dress myself.
 
 I will go change now, so wait a moment.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Okay, if you get confused just call out to us~ Bye bye~♪
+Okay, if you get confused, just call out to us\~ Bye bye\~♪
 
-……Alright! Anzu-chan! Let’s hold hands and run while Souma-kun can’t see us! Let’s run away to the horizon beyond the sea!
+……Alright, Anzu-chan! Let’s hold hands and run while Souma-kun can’t see us! Let’s run away to the horizon beyond the sea!
 
 Eek!? A shuriken thingie just flew this way!!
 {% endbubble %}
+
+<!-- attention
+……さぁ、●●ちゃん！　颯馬くんが試着室にいてこっちが見えてないうちに、ふたりで手を取りあって逃げよう！　水平線の彼方まで！-->
 
 {% bubble Souma hidden %}
 …I may not be able to see you, but I can sense your presence. You best not do anything tactless.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Uughh~ What’s with this kid!? He’s a real pain! This is my long-awaited date with Anzu-chan~!!
+Ughh\~ What’s with this kid!? He’s a real pain! This is my long-awaited date with Anzu-chan\~!!
 
 This date is why I cancelled all my other plans! I even woke up early today!
 
@@ -263,9 +266,9 @@ It’s fine, though. Today’s a holiday, so the aquarium’s probably really cr
 
 I bet we’ll get plenty of chances to sneak away and ditch Souma-kun in there so that we can finally have our alone time together.
 
-*Hmm?* Why are you looking at me suspiciously~?
+*Hmm?* Why're you looking at me suspiciously~?
 
-Don't worry! I do want to try and have a date with you as much as possible, but that doesn’t mean I’m not also worried about Kanata-kun! Really, I’m serious~♪
+Don't worry! I do wanna try and have a date with you as much as possible, but that doesn’t mean I’m not also worried about Kanata-kun! Really, I’m serious~♪
 
 But honestly, I feel like it’s a little too early to start saying Kanata-kun’s gone missing.
 
@@ -275,15 +278,16 @@ But that's all there is to it, right? He isn't a baby, so I feel like this is ju
 
 I mean, he disappeared for a long time at the end of last year.
 
-Huh? You didn’t know? He’s part of the Five Eccentrics—I think it’s just the Three Eccentrics now… He was that kinda person, so…
+Huh? You didn’t know? He’s part of the Five Eccentrics — I think it’s just the Three Eccentrics now… He was that kinda person, that's why.
 
 A lot happened to him back then. He may act like things don’t affect him, but he does go through a lot more than you might think.
 
-But nowadays, it feels like he’s having fun every day.
+But nowadays, it feels like he’s having fun pretty much every day.
 
 So there wouldn’t be any reason for him to disappear… Maybe he’s not feeling well and took a break for his health?
 
 His home is like, really protective of him, or something.
+<!-- attention, kanata sub story -->
 
 Either way… Just to make sure, my role is basically to find him and tell him to come back, right?
 
@@ -295,21 +299,21 @@ You can do it by yourself, can't you? I don’t need to be here.
 
 It’s true that I'm his friend, and I'm also good at talking it out with people to some extent, so I *would* be suitable for something like this.
 
-But soon enough, Ryuseitai will have a big job to do, so when that happens, they’ll want him back, right?
+But soon enough, Ryuseitai will have a big job to do, so before that happens, they’ll want him back, right?
 
 That's probably why you're helping out now, as a producer.
 
 In that case, shouldn't Morisawa-kun be the one to take responsibility as the leader and talk to Kanata-kun?
 
-Hmm… So that was your intention at first, but when you looked around for more info, you found out it may be related to his circumstances at home.
+Hmm… So that was what you intended to do at first, but when you looked around for more info, you found out it may be related to his circumstances at home.
 
 That’s when Morisawa-kun told you that I’d be better equipped to handle it.
 
 I feel like he's overestimating me… I may be the son of a locally famous person…
 
-And that does mean I have a deep connection with Kanata-kun's household, since they're rooted to this region's seaside…
+And that does mean I have deep connections with Kanata-kun's household, since they're rooted to this region's seaside…
 
-But that's also exactly why it's gonna be really tricky for me to approach him about it.
+But that's also exactly why it's going to be really tricky for me to approach him about it.
 
 For once I, of all people, was able to be friends with a guy, so I don't want to make things awkward between us because of family-related things.
 
@@ -317,9 +321,11 @@ For once I, of all people, was able to be friends with a guy, so I don't want to
 
 I’ll do everything you’ve asked of me. It's a favor from you, so I have to do it.
 
-Besides, his most likely hiding spot is in the aquarium, so while we’re there I’ll get to act like I’m on a date with you.
+Besides, his most likely hiding spot is in the aquarium, so…
 
-Well, other than having a *child* coming along with us.
+While we’re there, I’ll get to act like I’m on a date with you.
+
+Well, other than having a *child* accompanying us.
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/aquarium2_2.jpg %}
@@ -383,7 +389,7 @@ The fact that you think “if I ever plan to do something” is already a sin it
 {% endbubble %}
 
 {% bubble Kaoru %}
-Haha. You probably don't realize it, but you say some really harsh things to me sometimes, huh?
+Haha. You probably don't realize it, but you just said some really brutal thing to me…
 
 But I'm not joking around here. It really is my goal to find Kanata-kun, so… wouldn't it be a better tactic if we were to split up and try to find him separately while keeping in contact?
 {% endbubble %}
@@ -391,7 +397,7 @@ But I'm not joking around here. It really is my goal to find Kanata-kun, so… w
 {% bubble Souma %}
 Hmph. Once again, it is only your mouth that is good at its job.
 
-You have a point, but there is one issue in that plan. I do not currently have anything that can be used to stay in contact. I am inadequate with electronic devices.
+You have a point, but there is one issue in that plan. I do not currently possess anything that could be used for contact. I am inadequate with electronic devices.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -404,10 +410,15 @@ Ahh… Right, I forgot you were from a family detached from the modern times, st
 *“Smar-to foons”* should be just like their name, and be more simplified.
 {% endbubble %}
 
+<!--attention
+『すまほ』も名前のとおり、もっと『単純（すまぁと）』であるべきではないか
+薫	うん、スマートフォンのSmartは『賢い』って意味だからね
+-->
+
 {% bubble Kaoru %}
 Um, you do know that “smart” is in *smart* phone, right?
 
-Oh, woops. Sorry Anzu-chan. I shouldn't be talking just to this punk, right\~? I’ll make sure not to bore you, so feel free to join in the conversation\~♪
+Oh, woops. Sorry, Anzu-chan. Us guys shouldn't just be talking to ourselves, right\~? I’ll make sure not to bore you, so feel free to join in the conversation\~♪
 
 Hm? Did you just say we surprisingly get along? Ewww, do you really see us that way?
 {% endbubble %}
@@ -421,7 +432,7 @@ We can never be on the same wavelength. Our only common feature is our gender.
 {% endbubble %}
 
 {% bubble Kaoru %}
-No no, we have some more things in common~ Like our club.
+No, no, we have some more things in common~ Like our club.
 
 But honestly, I'd rather find something in common between the two of us, Anzu-chan.
 
@@ -429,9 +440,12 @@ People grow closer to others when they have something in common. So c’mon, let
 
 That's what this date is for, after all~☆
 
-Huh? It's not a date? Then why are you wearing a bit of makeup~? ♪
+Huh? It's not a date? Then why're you wearing a bit of makeup~? ♪
 
-If I didn’t know any better, I’d say you’re starting to notice me, even if just a teensy bit…… Ohhh~ This is a thing you and I share in common, huh.
+If I didn’t know any better, I’d say you’re starting to notice me, even if just a teensy bit…… *Ohh,* wait… This is a thing you and I share in common, huh.
+
+<!-- attention wanted
+-->
 
 Which means the right thing to do is to pretend I didn’t notice that, but… Hmm~ I want it to be a fun day for us, so I’ll try and get through this gloomy topic as quickly as possible.
 
@@ -441,13 +455,13 @@ But if that's what it is, I can teach you the basics.
 
 I’ve seen girls wear makeup around me pretty often, and there’s loads of moments where I have to wear it for idol work, so I’m used to it.
 
-Ahaha, I'm helping you out a little *too* much? True~ Buuut, I want to pay you back for all the help you've done for me as a producer.
+Ahaha, you never asked for my help? True, but~ I want to pay you back for all the help you've done for me as a producer.
 
 It's sweet that your love is the kind that doesn't ask for anything in return, but I also find it a little lonely.
 
 …Ah! She just cut me off and ran ahead…
 
-Did I talk to her incorrectly…? I feel like I never choose the right answer when I'm talking to her.
+Did I go about it wrong…? I feel like I never choose the right answer when I'm talking to her.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -455,7 +469,7 @@ Hold it! What were you muttering about to Anzu-dono?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Ehh~ None of your business. By the way, if you’re going to stick to being the devoted type, then you should start being more aware of how vulnerable your *“Master”* is.
+Ehh~ None of your business. By the way, if you’re going to stick to being the devoted type, then you should start being more aware of the inner workings of your *“Master”*.
 
 You’re normally really dense, aren’t you?
 
@@ -463,7 +477,7 @@ You’re normally really dense, aren’t you?
 {% endbubble %}
 
 {% bubble Souma %}
-Are you perhaps lecturing me? You may be a *“senior”* of mine, but you still do not have any right to lecture me as if you are any better.
+Are you perhaps lecturing me? You may be a *“senior”* of mine, but you still have no right to lecture me as if you are any better.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -475,7 +489,7 @@ Shouldn’t you be reflecting on this mistake? I’m aware I’m saying this lik
 
 Kanata-kun’s a real handful too, y'know…
 
-So I think it'd be good if there was someone who could always be nearby, and who could then protect him when needed. You’d pretty much fit that role.
+So I think it'd be good if there was someone who could always be nearby, and who could then protect him when needed. You’d pretty much fit that role, wouldn't you?
 {% endbubble %}
 
 {% bubble Souma %}
@@ -483,9 +497,9 @@ Just what have you been on about for the past minute? Make it easier to understa
 {% endbubble %}
 
 {% bubble Kaoru %}
-Hmm~mm, just think of it as me talking to myself…
+Hmm~ I'm just talking to myself…
 
-That aside, we should catch up to Anzu-chan before we lose sight of her. It’s really crowded over here, probably because it’s a holiday. We seriously won’t be able to group up if she splits away from us.
+That aside, we should catch up to Anzu-chan before we lose sight of her. It’s really crowded here, likely because it’s a holiday. We seriously won’t be able to group up if she splits away from us.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -529,7 +543,7 @@ I’m sooo happy~! This is suuuch an honor\~!! It’s a festivaaal\~!! Hahahaha!
 {% endbubble %}
 
 {% bubble Rei %}
-Your boisterous nature never changes… You should really tone it down — both what you say *and* the volume you say it with. You are already overbearing enough.
+Your boisterous nature never changes… You should really tone it down — both what you say *and* the volume you say it with. You are already overbearing enough as it is.
 
 You do *not* wish for people to be terrified of you, correct?
 {% endbubble %}
@@ -553,7 +567,7 @@ Hahaha, that’s nooot something you should say, what with that “Vampire” ro
 {% endbubble %}
 
 {% bubble Rei %}
-I suppose you have a very good point, but a monster’s fate only ends in tragedy.
+That is a harsh point… However, I must remind you that the fate of a monstrous fiend only ends in tragedy.
 
 I know it will pain you, with your enormous body frame and tempo, but be careful not to stray from the path of humanity.
 
@@ -569,7 +583,7 @@ With this much free time, I could honestly talk about *anything* with you till d
 {% endbubble %}
 
 {% bubble Rei %}
-Huh. You were running around in the corridors for some reason…
+I see… You were running around in the corridors for some reason…
 
 I could hear you as you moved about from place to place, so I thought you might have been busy.
 {% endbubble %}
@@ -581,7 +595,7 @@ If I’ve decided I’m gonna run, then I’m gonna ruuun! I can’t calm down o
 {% endbubble %}
 
 {% bubble Rei %}
-I see. It may be a holiday, but that does not mean there are not any people around. Be careful not to crash into anyone. Although you are usually very careful about that.
+I see. It may be a holiday, but that does not mean there is no one around. Be careful not to crash into anyone. Although you are usually very careful about that.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -617,19 +631,21 @@ This is bad, *terrible!* You have this peculiar feel to you that makes me want t
 {% bubble Rei %}
 Ahaha. Y’see, it's actually somethin’ of a curse that's been placed on *me*.[^1]
 
-In any case, there is something I want to ask you, Mikejima-kun.
+In any case, there is something I wish to ask you, Mikejima-kun.
 
 Little Lady Anzu seems remarkably worn out recently.
 
-I am concerned about her. I am not usually one to do so, but I had lectured her sometime ago, you see. I worry that she has been fretting over that ever since.
+I am concerned about her. Though I am not usually one to do so, I had actually lectured her sometime ago, you see. I worry that she has been fretting over that ever since.
 
-If that is indeed the case, then I only feel remorse. It seems that no matter what I do, I cannot help but to be very personal with her, and I end up saying more than necessary.
+<!-- attention summer live -->
+
+If that is indeed the case, then I only feel remorse. It seems that no matter what I do, I cannot help but see myself within her, and I end up saying more than necessary.
 
 You see, she seems to be tackling each and every worry on her own right now…
 
-While that may be part of being a producer, it is just too unbearable to watch.
+It is far too unbearable to watch. Perhaps that is just how it is for a producer, however…
 
-On top of fully assisting with Trickstar’s journey to SS, she is also prioritizing taking care of other units.
+On top of fully assisting with Trickstar’s journey to SS, she is also prioritizing taking care of other units even more than she used to.
 
 It is clearly too much for her. She will reach her limit soon enough. If she collapses from all of this, then it will be a disaster no one could ever bear or benefit from.
 
@@ -637,13 +653,13 @@ However, after taking on a strong front and lecturing her harshly, I cannot sudd
 
 It would only throw her off balance even further.
 
-That is why… Mikejima-kun, I would like you to tell her to relax every once in awhile for me.
+That is why… Mikejima-kun, could you let her know to relax every once in awhile for me?
 
 And I would also like you to support her at all times, if you can.
 
-Not that I even have to say that to you, though. You are the type to poke your nose in other people’s business, so I am sure you are already doing that.
+Not that I even have to request that from you, though. You are the type to poke your nose in other people’s business, so I am sure you are already doing that.
 
-However, if I recall correctly, you are Little Lady’s childhood friend, and you are also close to her, correct?
+However, if I recall correctly, you are close to Little Lady as you two are childhood friends, correct?
 
 Then you are just the right person for this. After all, as far as I can tell from seeing my younger brother, childhood friends are like family.
 {% endbubble %}
@@ -661,7 +677,7 @@ It’s completely ingrained in her head that she *has* to stay in shape because 
 {% endbubble %}
 
 {% bubble Rei %}
-I see. I can deeply relate to that.
+I see. I can deeply relate to that, as well.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -673,7 +689,7 @@ After all, I may end up stressing her out by looking after her waaay more than n
 {% endbubble %}
 
 {% bubble Rei %}
-Yes… I am aware that it is a troublesome request from me, but please try not to go too far. I will also do whatever I can to help.
+Yes… I am aware that it is a troublesome request from me, but please do handle the issue carefully. I will also do whatever I can to help.
 
 It is in part my own actions that caused this problem, so I will watch over what happens.
 {% endbubble %}
