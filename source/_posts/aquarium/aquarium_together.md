@@ -705,11 +705,13 @@ Since I do not spend time with the Five Eccentrics as much as I used to, I do no
 
 But he is an old friend. If danger befalls him, then I cannot sit by and watch. However, from the way I see it, what is happening at the moment is a *good* sign.
 
-That child, bound by the circumstances of his home, and by the customs of this land… He is doing all of that on his own will—for his own selfish reasons. I would rather support him.
+That child, bound by the circumstances of his home, and by the customs of this land…
 
-We should let him do as he pleases. After all, he's far too kind—so much that he always prioritizes making others happy.
+He is currently moving according to his own will — for his own selfish reasons. I would rather support him.
 
-But the modern age would not accept living a life like that of a sacrificial lamb.
+We should let him do as he pleases. After all, he is far too kind — so much that he always prioritizes making others happy.
+
+But in this modern age, one would not accept living a life like that of a sacrificial lamb.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -741,13 +743,13 @@ Ooh… That is just what I expect to hear from the former Ryusei Purple. You spe
 {% endbubble %}
 
 {% bubble Madara %}
-Hmm? Ahh, in those days, Ryuseitai would have people coming and going constantly, so every time that would happen I'd change my color…
+Hmm? Ahh, in those days, Ryuseitai would have members coming and going constantly, and I'd change my color every time that would happen…
 
 So I wasn't *always* Ryusei Purple, Rei-san.
 {% endbubble %}
 
 {% bubble Rei %}
-But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously speckled color like your name.[^2]
+But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously-speckled color like your name.[^2]
 {% endbubble %}
 
 {% bubble Madara %}
@@ -777,7 +779,7 @@ You’re still young too, Rei-san. I think it’s fine if you aim for a dream ag
 {% endbubble %}
 
 {% bubble Rei %}
-*Kukuku.* I am quite comfortable in this state of almost-retirement.
+*Kukuku.* I am quite comfortable in this state of semi-retirement.
 
 …Oh dear. It would be against my morals not to give you something as gratitude for taking my request. Mikejima-kun, please have this.
 
@@ -787,7 +789,7 @@ Shinkai-kun was walking around selling them, so as an old friend I bought a few.
 
 However, it seems like this aquarium is only open during the hours in which I am most sleepy.
 
-I am not interested enough in fish to force myself to go despite my drowsiness, so I will hand them over to you.
+I am not interested enough in fish to force myself to visit, so I will hand them over to you.
 
 You should go there with a friend. Hopefully these tickets are a good enough reward for listening to my request.
 {% endbubble %}
@@ -803,11 +805,11 @@ But if you’re gonna give me one, theeen I can now go there with the excuse tha
 {% bubble Rei %}
 *Kukuku,* what’s this? Does Shinkai-kun hate you?
 
-He has been much more social and friendly lately, yet he will not sell you a ticket despite this?
+He has been much more social and friendly lately, yet he did not sell you a ticket despite this?
 {% endbubble %}
 
 {% bubble Madara %}
-Mm~ Actually, maybe the reason I’m the only one he rejects now has some special motive to it…
+Mm~ Actually, maybe the reason I’m the only one he now denies has some special motive to it…
 
 But, well… maybe he just thinks I’m overbearing, so that’s why he hates me.
 {% endbubble %}
@@ -817,17 +819,17 @@ But, well… maybe he just thinks I’m overbearing, so that’s why he hates me
 
 Thus neither I, Shinkai-kun, nor Hibiki-kun would ever scorn anyone.
 
-The other two from the Five Eccentrics narrowly remain within the fabric of humanity, so they may not have the same feelings as we do towards humans.
+The other two from the Five Eccentrics narrowly remain within the fabric of humanity, so they may not have the same feelings as we do towards humans, however.
 
-But perhaps they deny out of love, as well. I would not know something like that though.
+Perhaps one denies out of love, as well. I would not know for sure, though.
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, you're getting really sleepy, aren't you? Your words are starting to sound really jumbled, y'know?
+Hahaha, you're getting reaaally sleepy, aren't you? Your words are starting to sound reaaally jumbled, y'know?
 {% endbubble %}
 
 {% bubble Rei %}
-It is because it is midday… This is the time for vampires to sleep… Also, you are much too energetic, so talking to you tires me immediately.
+It is because it is midday; this is the time for vampires to sleep… Also, you are much too energetic, so talking to you tires me immensely.
 {% endbubble %}
 
 <div toc>
