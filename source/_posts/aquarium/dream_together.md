@@ -133,7 +133,7 @@ Whenever Anzu-san isn’t looking upbeat, the reason is pretty much always work-
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, no worries, no worries. Everything’s going perfectly splendid for the show.
+Hahaha, no worries, no worries. Everything’s going peeerfectly splendid for the show.
 
 You guys can relax and enjoy the show as our audience.
 {% endbubble %}
@@ -149,11 +149,11 @@ Hm… I do not think any of us here can comprehend what is occuring at the momen
 {% endbubble %}
 
 {% bubble Madara %}
-*'Tis my utter folly!* I can’t say you’re wrong for calling me out on that, but just trust me on this and follow along!
+*'Tis my utter folly!* I can’t say you’re wrong for calling me out on that, buuut just trust me on this and follow along!
 
 It’ll be fine, just fine! Everything will surely end in success!
 
-Also, you don’t need to worry about Anzu-san. She fell into the pool a second ago, so she’s completely drenched.
+Also, you don’t need to worry about Anzu-san. She fell into the pool a second ago, sooo she’s completely drenched.
 
 But there’s not a single scratch on her, so don’t worry.
 
@@ -173,13 +173,13 @@ Hmm, but maybe I was a little too quick to do that… If she had drowned and los
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, that’s a shame. She owes you one, so she ought to let you kiss her at least…
+Hahaha, that’s a shame. She owes you one, sooo she ought to let you kiss her at least…
 
 She’s stiff as always.
 
 Hmm…? She’s feeling all ashamed, saying “today really is a bad day for me…”
 
-Is that why you’re in the corner, looking like you can’t stand being here for any second longer, Anzu-san…?
+Is that why you’re in the corner, looking like you can’t stand being here for aaany second longer, Anzu-san…?
 {% endbubble %}
 
 {% bubble Souma %}
@@ -427,9 +427,9 @@ I would rather you not fumble with my costume… I think it is best that you adj
 {% img /img/es/eventstory/aquarium/dream3_2.jpg %}
 
 {% bubble Madara %}
-Yep, please and thank you! Honestly, I’d be able to move about to an extent even if my limbs were somehow all tied up, so you don’t really have to be precise with the adjustments.
+Yep, please and thank you! Though I’d be able to move about to an extent even if my limbs were somehow aaall tied up, so you don’t really have to be precise with the adjustments.
 
-Anyway, there’ll be quite a lot of water splashing onto us during the performance… I’m probably worried over nothing, but just in case, you should make your clothes waterproof.
+Anyway, there’ll be quite a lot of water splashing onto us during the performance… I’m probably worried over nothing, but just in case, we should make our clothes waterproof.
 
 Here, Souma-san, I’ll do you the honor of coating you in the waterproof spray~♪
 {% endbubble %}
@@ -477,25 +477,25 @@ I could tell he has influential power, but wow… your own parents being part of
 {% endbubble %}
 
 {% bubble Madara %}
-Ahh, no, it’s not both my parents, just my dad. My mom actually used to be someone who went against society… She’s retired now, though.
+Ahh, no, it’s not both my parents, juuust my dad. My mom actually used to be someone who went against society… She’s retired now, though.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Wait what? What do you mean by that? Was she a terrorist? Part of the yakuza?
+Wait, what? What do you mean by that? Was she a terrorist? Part of the yakuza?
 
 How did someone like that marry a police officer!? I can smell a romantic story~♪
 {% endbubble %}
 
-{% bubble Madara %}
-You like stuff like that, huh… But I can’t really tell you more about their love story, since I don’t know much about it myself.
+{% bubble Madara awkward %}
+You like stuff like that, huuuh… But I can’t reaaally tell you more about their love story, since I don’t know much about it myself.
 
-Anyway, since I’m still a kid, I try to ask for help from my parents whenever I hit an area I can’t deal with.
+Aaanyway, since I’m still a kid, I ask for help from my parents whenever I hit an area I can’t deal with.
 
 By using the power of the state and the power of the underground, most things end up working out somehow.
 
-I do want to work things out with my own power, though… It’d be pathetic to keep relying on your own parents’ power, you know?
+I do want to work things out with my own power, though… It’d be pathetic of me to keep relying on my own parents’ power.
 
-But Kanata-san’s household is an unusual case, so I used every card in my hand.
+But Kanata-san’s household is an unusual case, so I used eeevery card in my hand.
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/dream3_3.jpg %}
@@ -569,7 +569,7 @@ and we made it an [objective] to work hard, and not let go of the [aquarium].
 {% endbubble %}
 
 {% bubble Madara %}
-They’re softer on you than one would expect. Throwing a tantrum usually doesn’t get things through, y’know?
+They’re softer on you than one would expect. Throwing a tantrum uuusually doesn’t get things through, y’know?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -581,9 +581,9 @@ if a [higher-up] keeps a strong [eye] on him, he will [perish] away immediately�
 {% endbubble %}
 
 {% bubble Madara %}
-Hm… I do think I was a bit rash, but your wish was for this aquarium to stay as it is, right?
+Mm… I do think I was a bit rash, but your wish was for this aquarium to stay as it is, riiight?
 
-Then I want to support that with all I’ve got, as your friend.
+Then I wanna support that with all I’ve got, as your friend.
 {% endbubble %}
 
 {% bubble Kanata v2 %}

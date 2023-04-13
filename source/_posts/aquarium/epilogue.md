@@ -104,15 +104,15 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 {% endbubble %}
 
 {% bubble Souma %}
-……Buchou-dono is handling that *“dol-fin”* magnificently. The sight is beautiful, but what he is doing is normally quite preposterous, is it not?
+…Buchou-dono is handling that *“dol-fin”* magnificently. The sight is beautiful, but what he is doing is normally quite preposterous, is it not?
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, are you really saying that after all this time you’ve known him? Kanata-san has always been dearly loved by sea creatures. No one knows if it’s true, but they say it’s because he comes from a family that dominated the ocean.
+Hahaha, are you really saying that after all this time you’ve known him? Kanata-san has aaaalways been dearly loved by marine animals. No one knows if it’s true, but they say it’s because he comes from a family that dominated the ocean.
 
 Long ago in ancient times, his ancestors lived their lives with the ocean’s tides, and they built a paradise within its depths.
 
-And since that blood runs in his own veins, he will be made the head of the family. But that’s all just a fairytale.
+And since that blood runs in his own veins, he will be made the head of the family. But that’s aaall just a fairytale.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -120,7 +120,7 @@ You do not need to tell me, I am aware of the general story of the tale. However
 {% endbubble %}
 
 {% bubble Madara %}
-Deeply respect, huh? It looks more like they're trying to atone for something to me, though…
+Deeply respect, huuuh? It looks more like they're trying to atone for something to me, though…
 
 This is also just folklore, but it’s said that the rich folks of this region used those in his lineage as a sacrificial lamb for prosperity.
 
@@ -128,7 +128,7 @@ But yeah, it’s such an old tale that no one knows if it’s true anymore.
 
 I’m the type to try and find out more about valuable things with ancient history attached to them, but unlike Nagisa-san, I have no interest in purposely taking those things right out from the graveyard.
 
-If things are happy in the present times, then that’s good enough for me! Hahaha!! ☆
+If things are happy in the present times, theeen that’s good enough for me! Hahaha! ☆
 {% endbubble %}
 
 {% bubble Kaoru %}

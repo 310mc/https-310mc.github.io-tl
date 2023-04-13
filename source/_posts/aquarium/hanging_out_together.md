@@ -441,21 +441,21 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
 {% img /img/es/eventstory/aquarium/hangingout3_1.jpg %}
 
 {% bubble Madara %}
-Hmhmhmmm~♪
+<em><th>(Humming)</th></em> Hmhmhmmm~♪
 
-Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins… ☆
+Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins…☆
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
 {% bubble Kanata v2 %}
-ahh, i thought so… hey! please stop giving [food] to the [dolphins] as you please, okay?
+ahh, i thought so… hey! stop giving [food] to the [dolphins] as you please, okay?
 {% endbubble %}
 
 {% bubble Madara %}
 Ooh? I was wondering who that was! So it’s you, Kanata-san! I missed youuu!
 
-Come, come, come!! I’ll give you some of their food too~♪
+Come, come, come! I’ll give you some of their food too~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -467,11 +467,11 @@ you need to at least prepare it and make it into [sashimi] first.
 {% bubble Madara %}
 Oh? Prepare? So you’ll only eat food if it’s properly made? You fancy boy!
 
-But I don’t have a kitchen knife right now, so maybe I could use the dolphins jaggy teeth instead?
+Buuut I don’t have a kitchen knife right now, so maaaybe I could use the dolphins jaggy teeth instead?
 {% endbubble %}
 
 {% bubble Kaoru %}
-Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is there someone here you know?
+Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is it someone you know?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -487,9 +487,9 @@ Ooh, it’s Mikejima-kun. Yahoo~♪ What are you doing over here?
 {% bubble Madara %}
 Ooh, Kaoru-san! Hahaha, it’s refreshing to meet a classmate in a place like this!
 
-Hm. Let me guess, you were also worried about Kanata-san’s disappearance and came searching for him.
+Hm. Leeet me guess; you were also worried about Kanata-san’s disappearance and came searching for him.
 
-Kanata-san is such a bad boy, making everyone worry for him…
+Kanata-san is such a naughty boy, making eeeveryone worry for him…
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -505,27 +505,27 @@ And that someone was you, huh? Now that I think about it, you two are childhood 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no. this person has [nothing] to do with [me].
+no. *that* has [nothing] to do with [me].
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha! It’s rude to point fingers at someone and call them “this,” you know!
+Hahaha! It’s rude to point fingers at someone and call them “that,” y'knooow!
 
-Kanata-san, your words and actions are easily misunderstood, so be careful, okay~? ♪
+Kanata-san, your words and actions are easily misunderstood, so be careful, okaaay~? ♪
 
-Anyway, it’s just as you’ve guessed… When I found out about what happened to Kanata-san, I pressured some people to do things…
+Aaanyway, it’s just as you’ve guessed… When I found out about what happened to Kanata-san, I pressured some people to do things…
 
-I’m different from Kaoru-san and the others, I don’t really hold back from doing that kind of stuff.
+I’m different from Kaoru-san and the others; I don’t reaaally hold back from doing that kind of stuff.
 
-You gotta use *all* the resources you can find. You can’t just muscle your way through everything.
+You gotta use *all* the resources you can find. You can’t just muscle your way through eeeverything.
 
-And now I’ll be checking up on the results and consequences of those actions.
+And now I’m checking up on the results and consequences of those actions.
 
-The staff members are clattering all about because of it, so I had some free time while I wait, and I decided to feed the dolphins in their stead.
+The staff members are clattering aaall about 'cause of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
 
-I’ll tell you now; I have permission to do this *and* I’m qualified enough for it.
+I’ll tell you now; I have permission to do this *aaand* I’m qualified enough for it.
 
-I can do any and all jobs swiftly. I plan to clean the water tank next~♪
+I can do aaany and aaall jobs swiftly. I plan to clean the water tanks next~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -541,11 +541,11 @@ it is our responsibility as people with [power] to protect [peace] by [not using
 {% endbubble %}
 
 {% bubble Madara %}
-We have differing viewpoints, huh? Well, that kind of justice is probably more befitting for the current Ryuseitai…
+We have differing viewpoints, huh? Weeell, that kind of justice may be more befitting for the current Ryuseitai…
 
-It’s as you said, I went too far and did something no one even asked for. It makes sense that you’d be displeased about it…
+And as you said, maybe I *did* go too far and did something no one even asked for. It makes sense that you’d be displeased about it…
 
-But if peace comes at the price of a good and kind child restraining themselves… then it can go eat shit.
+But if peace comes at the price of a good and kind kid restraining themselves… then it can go eat shit.
 {% endbubble %}
 
 ## Chapter 4
