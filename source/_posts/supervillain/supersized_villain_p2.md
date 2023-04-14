@@ -1160,4 +1160,4 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
 [^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.
 [^3]: This is referring to <a href="/climax" target="_blank">Climax</a>, the chapters Tears of Shooting Stars.
 [^4]: Tokusatsu shows are categorized by which era they were released in. <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa era</a> covers all series from around 1971-1994, then comes all the series of <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei era</a> from around 2000-2019, and now it's Reiwa era.
-[^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “*Dark* Star”
+[^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “*Dark* Star”.
