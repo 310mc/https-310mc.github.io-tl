@@ -74,6 +74,10 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 
 ## Chapter 1
 
+{% note cw %}
+**Content Warning:** Brief mentions of seppuku.
+{% endnote %}
+
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
@@ -85,19 +89,19 @@ Anzu-dono~!
 
 My deepest apologies! I am truly sorry for separating from you!
 
-Not only that, but I had also fussed over how the lost child broadcast must be undertaken…!
+Not only that, but due to my fussiness, the lost child broadcast was undertaken in a considerate way towards me…!
 
-You had it broadcasted that you were the one who is lost, and that your guardian should come rushing to you right away… Without ever mentioning my name…
+You had it broadcasted that you were the one who is lost, and that your guardian should come rushing to you right away, without ever mentioning my name… Correct?
 
 I am truly, deeply sorry!
 
-Uugh, for an *“ai-dol”* to bring dishonor to their lord—to their *“puro-du-ser”*…!
+Ughh, for an *“ai-dol”* to bring dishonor to their lord — to their *“puro-du-ser”*…!
 
-I am a shameful man! I cannot bear this shame—I will slice my stomach open as apology!
+I am a shameful man! I cannot bear this shame — I will slice my stomach open as apology!
 
 Ah—! But I did not bring my katana today…!
 
-What do I do!? Should I dive into the watertank full of *“pi-rah-na”* and allow myself to get devoured as apology!?
+What do I do!? Should I dive into the water tank full of *“pi-rah-na”* and allow myself to get devoured as apology!?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -105,15 +109,17 @@ Kanzaki-senpai, calm down~ No one wants a gory scene happening… If you feel ba
 
 Sorry that we couldn’t complete your favor, though.
 
-We saw Anzu-san walking around, so we caught her from behind, buuut… We couldn’t find the other person you separated from.
+We saw Anzu-san walking around, so we caught her from behind, buuut…
 
-Heheh, but I always thought that Akatsuki members were serious honor students, so I feel like I got a lot out of knowing that they have their own slip-ups~
+We couldn’t find the other person you separated from.
 
-That’s suuuper interesting~ I think you’d be fun to tease~♪
+Heh, but I always thought that Akatsuki members were serious honor students, so I feel like I got a lot out of knowing that they have their own slip-ups~
+
+That’s suuuper interesting\~ I think you’d be fun to tease\~♪
 {% endbubble %}
 
 {% bubble Sora %}
-It’s a bad habit to tease your elders, Hina-chan…
+It’s a bad habit to tease your elders, Hina-chan~
 
 It’s good manners to show respect to your seniors!
 {% endbubble %}
@@ -125,21 +131,23 @@ I had thought you were a problem child since you have often opposed school rules
 {% endbubble %}
 
 {% bubble Hinata %}
-Hehehe. Learning about another side to someone is the best part about hanging out with them on a holiday.
+Heh, learning about another side to someone is one of the many charms about hanging out with people on a holiday.
 
-Yo yo, Kanzaki-senpai~ Tell the vice president to shorten down his lectures from now on, as thanks for being nice to you~♪
+Hey, Kanzaki-senpai~? Do me a favor and tell the vice president to shorten down his lectures from now on, as thanks for being nice to you~♪
 {% endbubble %}
 
 {% bubble Souma %}
-Except the only reason you get lectured is for doing bad deeds…
+Except the only reason you get lectured is for conducting wrong deeds…
 
-Well… If I am to ever catch you while you are being lectured, then I may ask Hasumi-dono to hasten the lecture for you… Although I am not very fond of participating in any act so similar to bribery.
+Well… If I am to ever catch you while you are being lectured, then I may ask Hasumi-dono to hasten the lecture for you…
+
+Although, I am not very fond of participating in any acts so similar to bribery.
 
 It is for your own sake that Hasumi-dono lectures you, so you should listen closely when he does.
 {% endbubble %}
 
 {% bubble Hinata %}
-Yeah, yeah, I understand~ I know that when they scold you, it means they’re worried for you.
+Yeah, yeah, I know~ I know that when they scold you, it means they’re worried for you.
 
 It’s not like I’m not grateful for it.
 {% endbubble %}
@@ -151,7 +159,7 @@ HaHa~♪ Anyway, this case is closed, yes?
 {% bubble Souma %}
 Nay, we have yet to solve anything. I believe that the lecher will show himself if he heard the broadcast…
 
-Therefore, it would be wise for me to wait here. He and I will decide on what we must do next after we have grouped up.
+Therefore, it would be wise for me to wait here. We will decide on what we must do next after we have grouped up.
 
 Well, what we must do is find Buchou-dono and check on his situation. That is our mission.
 
@@ -159,9 +167,9 @@ But you two may enjoy yourselves while going around the aquarium.
 {% endbubble %}
 
 {% bubble Hinata %}
-Yep, that’s what we plan to do. We’re gonna be here for awhile, so phonecall us or something if there’s anything we can help you with.
+Yep, that’s what we plan to do. We’re gonna be here for a while, so phone call us or something if there’s anything we can help you with.
 
-I dunno what’s going on, but… wouldn’t it be good if you guys took it easy and enjoyed yourselves like you’re on a date?
+I dunno what’s going on, but still, wouldn’t it be good if you guys took it easy and enjoyed yourselves like you’re on a date?
 
 Anzu-san, you always have your head buried with work, work, and more work, y'know?
 
@@ -177,7 +185,7 @@ Sora has many things he wants to see! It looks like there’s a lot of dugong an
 {% endbubble %}
 
 {% bubble Hinata %}
-Marine mammals!! That’s exciting! You don’t usually get to see stuff like that! Rare animals really *are* valuable just because they’re so rare, aren’t they~♪
+Marine mammals! That’s exciting! You don’t usually get to see those animals! Rare animals really *are* valuable just 'cause they’re so rare, aren’t they~♪
 {% endbubble %}
 
 {% bubble Sora %}
@@ -191,15 +199,15 @@ Now then… Anzu-dono, I am sure it is irritating of me to apologize over and ov
 
 ……Is there something that is troubling you?
 
-I have good hearing, so I had heard what you spoke about with my senior… I am so sorry for not realizing that you had been crying.
+I have good hearing, so I had heard what you spoke about with my senior… I am truly sorry for not realizing that you had been crying.
 
 If something is troubling you, may I ask you to speak to me about it?
 
-I am sure you are aware of this by now, but I am unreliable and not attentive enough. I am still but a novice, and so I do not have the power to solve problems easily.
+I am sure you are aware of this by now, but I am not reliable and attentive enough. I am still but a novice, and so I do not possess the power to solve problems easily.
 
-However, you are a friend who I sit next to and learn together with every day in class… The least I could do is to listen to your worries and try to assist you—even if it is not the best of assistance.
+However, you are a friend who I sit next to and learn together with every day in class… A the very least, I could listen to your worries and try to assist you — even if it is not the best of assistance.
 
-The most upsetting thing for me is for you to hide your pain and suffering with a strong front.
+The most upsetting thing for me is that you hide your pain and suffering with a strong front.
 
 Was doing things alongside that lecherous man unpleasant enough to bring you to tears?
 
@@ -211,13 +219,13 @@ Hmm, that is not the case…? That person is not as bad one would think…?
 
 Well… I suppose I must regretfully agree to that.
 
-However, I cannot completely trust him. He hides his true self with his frivolous nature.
+However, I cannot completely trust him. He hides his sincerity within his frivolous nature.
 
 He is not a bad person… And since that is the case, then he should simply face people as he is without flimsily hiding his true nature.
 
 There is no need for him to think of virtue as something shameful…
 
-Yet he continues to keep things vague by hiding his sincerity with frivolous talk, and waving away any serious conversation.
+Yet he continues to keep matters vague by hiding his sincerity with frivolous talk, and waving away any serious conversation.
 
 *That* is what I simply cannot accept about him.
 {% endbubble %}
@@ -301,33 +309,33 @@ i do not want to ruin [everyone’s] peaceful lives with my [problems].
 {% endbubble %}
 
 {% bubble Kaoru %}
-Listen… You don’t live on some far away island surrounded only by ocean. If you just live on like anyone normally would, you’ll end up causing trouble to other people.
+Listen… You don’t live on some far away island surrounded only by ocean. If you just live your life like anyone normally would, you’ll end up causing trouble to other people.
 
-But that’s nothing to be embarrassed about at all.
+And that’s nothing to be embarrassed about at all.
 
 Everyone lives while getting others involved in their lives.
 
 You can’t just tell people to ignore things whenever it’s most convenient for you. You can’t get through life by hiding away every problem.
 
-When you were part of the Five Eccentrics last year, there was a dispute about stuff like this, so I’m guessing that’s why you put so much effort into distancing yourself from others…
+When you were part of the Five Eccentrics last year, there was a a huge mess about stuff like this, so I’m guessing that’s why you excessively distance yourself from others…
 
 But times have changed now, I think.
 
-You have to understand that—To adapt to the changes. You’re not a coelacanth[^1]…
+You have to understand that, and then adapt to the changes. You’re not a coelacanth[^1]…
 
 I’m trying to do that, too. I’ve been trying to act as a big brother to the rascals in my unit.
 
-If I can do it, then so can you. We’re similar after all, right? We’re both part of the Marine Life club—Both of us gathered to the water, captivated by the ocean.
+If I can do it, then so can you. We’re similar after all, right? We’re both part of the Marine Life Club — Both of us gathered to the water, captivated by the ocean.
 
-Also, in hard times, I’d probably want to depend on someone.
+Also, in hard times, I’d want to depend on someone.
 
 Even if it was a bother to them. After all, if I don’t get a nice fresh filling of love, I’ll dry up and die.
 
-I think you're like me, too. I also think you’re strong, and you don't want to make people bear your burdens, so you forcibly distance yourself from others.
+I think you're like me, too. I also think that, because you’re strong, you don't want to burden people with your problems, so you forcibly distance yourself from others.
 
 That's why I'm here, by your side.
 
-I don't like having my teenagerish, bratty feelings brushed off as “poking my nose in your problem.”
+I wouldn't like to have my teenager-ish, bratty feelings brushed off as “poking my nose in your problem.”
 
 That’d made me look like an idiot, wouldn’t it? Like someone who’s just going around in circles…
 
@@ -367,7 +375,7 @@ So I had to be the one to say it. You would’ve gotten away if I didn’t deal 
 
 Anyway. I’ve gotten pretty used to your eccentric behavior, but you have to explain clearly what happened to the others.
 
-Especially to all your important friends that you work with in Ryuseitai.
+Especially to all your important pals that you work with in Ryuseitai.
 
 Saying you can’t work because of a personal problem usually won’t cut it.
 
@@ -375,7 +383,7 @@ We’re still students, so you can get away with it now, but an actual company w
 
 You need to talk about how it all led up to this, until they’ve properly understood.
 
-We work as idols, after all. So at the very least, we have to do it properly.
+We work as idols, after all. So at the very least, we have to properly go through those procedures.
 {% endbubble %}
 
 ## Chapter 3
@@ -389,7 +397,7 @@ kaoru, you surprisingly have your [head] on your shoulders.
 {% bubble Kaoru %}
 I hate to say this, but I'm not a genius like you are, so I have to be mindful of a lot of things, Kanata-kun.
 
-That’s what you call “swimming the current of life”. It’s something everyone has to work hard to do, so you should take note of it.
+That’s what you call “swimming the current of life”. You'll only make everyone's life harder if you don't note of it, as well.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -409,17 +417,17 @@ Kanata-kun? Hey, wai— Where are you wondering off to?
 
 Quit doing things that make no sense, you enigma! Hold on, hold on! You can’t disappear on me! Give me a break!
 
-<th>(Ahh, jeez… Now I gotta go after him. If only I could contact the other kids too…)</th>
+<th>(Ahh, jeez… I gotta go after him. If only I could contact the others, too…)</th>
 
 <th>(There was an announcement for a lost child just a second ago, so Anzu-chan and Souma-kun probably grouped up again…)</th>
 
-<th>(And here I was hoping I could go over to show them that Kanata-kun is doing just fine.)</th>
+<th>(And here I was, hoping I could go over to show them that Kanata-kun is doing just fine, too…)</th>
 
-<th>(All my plans are gone in a flash. He’s always taking me by storm.)</th>
+<th>(All my plans are gone in a flash. Kanata-kun's always taking me by storm.)</th>
 
 Ughh, I’m serious! Kanata-kuuun, if you don’t quit messing around, I’ll trap you in a fishing net!
 
-Wait, what’s wrong? You’re heading outside all of a sudden…
+What’s wrong all of a sudden? You’re heading outside…?
 
 Did being inside a dim water tank for so long make you want some sunshine?
 {% endbubble %}
@@ -429,7 +437,7 @@ no… kaoru, please [wait] here, okay?
 {% endbubble %}
 
 {% bubble Kaoru %}
-No, no. I’m telling you, this place is really crowded—I’ll lose sight of you immediately. And then it’ll take even longer for all of us to group up again.
+No, no. I’m telling you, this place is really crowded — I’ll lose sight of you immediately. And then it’ll take even longer for all of us to group up again.
 
 Don’t make me waste my energy moving around everywhere~ C’mon, please.
 {% endbubble %}
@@ -501,7 +509,7 @@ I kept trying to persuade him earlier, but he kept saying no, and that he’d ta
 
 So I thought maybe someone did something elsewhere.
 
-And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close friends, right?
+And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close, right?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
