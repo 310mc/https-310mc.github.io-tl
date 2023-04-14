@@ -175,7 +175,7 @@ We should stay positive about this. Shouldering nothing but worries would only c
 {% endbubble %}
 
 {% bubble Tetora %}
-Mm… Yeah, I’m not really good at clearing my thoughts up like that, but I’ll do my best to push forward! The black flames are the mark of effort, after all!
+Mm… Yeah, I’m not really good at clearing my thoughts up like that, but I’ll do my best to push forward! The black flame is the mark of effort, after all!
 {% endbubble %}
 
 {% bubble Midori smile %}

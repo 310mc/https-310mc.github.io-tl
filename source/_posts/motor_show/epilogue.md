@@ -620,7 +620,7 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 
 <th>(It’s all thanks to everyone that I’m here right now. At the very least, I’m gonna try to move forward little by little so that I avoid causing any delays!)</th>
 
-<th>(The black flames are the mark of effort! With every single flame absorbed within me, I’ll use them as fuel and make those flames shine!)</th>
+<th>(The black flame is the mark of effort! With every single flame absorbed within me, I’ll use them as fuel and make those flames shine!)</th>
 
 <th>(Our flames will sparkle with every color in existence!)</th>
 {% endbubble %}

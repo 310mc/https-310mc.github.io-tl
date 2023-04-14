@@ -170,7 +170,7 @@ ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
 #### <div mt="rare"></div> 2/3
 {% img /img/es/birthdaystory/es/kanata/minitalk_2.jpg %}
 {% bubble Kanata %}
-the blue flames are the mark of mystery! i've come from the blue sea~♪
+the blue flame is the mark of mystery! i've come from the blue sea~♪
 
 today's protagonist! shinkai kanata…☆
 

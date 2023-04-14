@@ -119,11 +119,11 @@ Yeah, no thanks. No way I’ll ever go to a movie with a guy~♪
 {% endnote %}
 
 {% bubble Chiaki %}
-The red flames are the mark of justice! Burning bright red, the sun of life! Ryusei Red! Morisawa Chiaki…!
+The red flame is the mark of justice! Burning bright red, the sun of life! Ryusei Red! Morisawa Chiaki…!
 
 You say yours too, Nagumo! …Ah! Did you forget it by any chance? Alright then, I’ll say it right now, so make sure to remember it!
 
-The black flames are the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black! Nagumo Tetora…!
+The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black! Nagumo Tetora…!
 {% endbubble %}
 
 {% bubble Tetora %}

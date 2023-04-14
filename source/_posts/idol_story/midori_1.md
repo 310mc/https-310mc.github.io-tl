@@ -165,7 +165,7 @@ Actually, I’m also sorry for complaining this much… I’m a second year now�
 
 *<th>(Breathe in, breathe out)</th>*
 
-*The green flames are the mark of compassion!*
+*The green flame is the mark of compassion!*
 
 *The great nature, growing infinitely! Ryusei Green, Takamine Midori!*
 

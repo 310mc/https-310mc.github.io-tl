@@ -68,7 +68,7 @@ No, don’t give up yet, me! We just have to keep trying until it works! We’ll
 
 Okay, I got it! I’ll just have to give you a taste of my voiced alarm clock greetings, as a special treat!
 
-*The red flames are the mark of justice! Burning bright red, the sun of life!*
+*The red flame is the mark of justice! Burning bright red, the sun of life!*
 
 *Ryusei Red! Morisawa Chiaki!*
 

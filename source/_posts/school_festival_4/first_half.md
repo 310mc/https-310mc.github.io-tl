@@ -1044,4 +1044,4 @@ please do enjoy the [school festival]. *puka, puka*…♪
 </div>
 
 ## Translation Notes
-[^1]: Happi looks like [this](https://en.wikipedia.org/wiki/Happi). They’re often worn in festivals.
+[^1]: Happi looks like <a href="https://en.wikipedia.org/wiki/Happi" target="_blank">this</a>. They’re often worn in festivals.

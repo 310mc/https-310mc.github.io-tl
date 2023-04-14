@@ -1404,7 +1404,7 @@ If we were to gather together, I'm sure *we* could become a shining, sparkling M
 
 ## Translation Notes
 [^1]: Tetora says the word *budou* for Karate, and Midori misunderstands it as *budou* for grapes, hence why he responds back in confusion. I tried to give the English version a similar feel.
-[^2]: Subaru’s “intestines” line is a reference to what he said in [Rocket Start](https://ensemble-stars.fandom.com/wiki/Rocket_Start) - Set Theory 5.
+[^2]: Subaru’s “intestines” line is a reference to what he said in <a href="https://ensemble-stars.fandom.com/wiki/Rocket_Start" target="_blank">Rocket Start</a> - Set Theory 5.
 [^3]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^4]: In Japan, it’s common for working adults to have “drinking get-togethers,” which is basically a way for them to get to know each other. You can be peer pressured into doing it, even if you aren't interested, usually for the sake of keeping your position at work.
 [^5]: “Ryuseitai” lit. means shooting star/meteor squad, and the *sei* in Ryuseitai means “star”.

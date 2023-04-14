@@ -623,7 +623,7 @@ Alright, now it’s the request corner. Thank you for all your requests, everyon
 
 First one is: “Please say your Ryusei Green catchphrase!”. This was the most requested one, surprisingly. Aren’t I always saying it?
 
-…Alright then, here I go! *“The green flames are the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!”*
+…Alright then, here I go! *“The green flame is the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!”*
 
 Ahaha, it’s kinda embarrassing to do it without the rest here… But I hope it made you all happy.
 

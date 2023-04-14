@@ -687,8 +687,8 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 ## Translation Notes
 [^1]: It’s left ambiguous in the story, but Chiaki’s likely referring to something like the influenza.
 [^2]: Urashima Tarō is the protagonist of the Japanese fairytale, *The Story of Urashima Tarou*, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
-[^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, [he’s singing the folk song for it](https://www.youtube.com/watch?v=0IuLZo3cvcs).
-[^4]: Midori’s likely referring to [these mascot characters](https://www.yurugp.jp/jp/vote/detail.php?id=00003111). To likely avoid copyright, they switched the -kun and -chan around.
+[^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, <a href="https://www.youtube.com/watch?v=0IuLZo3cvcs" target="_blank">he’s singing the folk song for it</a>.
+[^4]: Midori’s likely referring to <a href="https://www.yurugp.jp/jp/vote/detail.php?id=00003111" target="_blank">these mascot characters</a>. To likely avoid copyright, they switched the -kun and -chan around.
 [^5]: Tanzaku are strips of paper you write your wish on for Tanabata.
 [^6]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^7]: Kenpo is a Japanese martial art.

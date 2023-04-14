@@ -712,4 +712,4 @@ It’s just impossible for me… I don’t have the right… I’m sorry, I’m 
 ## Translation Notes
 [^1]: This is in reference to how you must behave in a dojo, starting with respect (bowing) and ending it with respect.
 [^2]: Tokusatsu shows air every Sunday morning.
-[^3]: A reference to [Colorful Autumn](https://ensemble-stars.fandom.com/wiki/Colorful_Autumn).
+[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Colorful_Autumn" target="_blank">Colorful Autumn</a>.

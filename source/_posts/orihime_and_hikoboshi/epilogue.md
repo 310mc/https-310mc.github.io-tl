@@ -691,7 +691,7 @@ Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last 
 </div>
 
 ## Translation Notes
-[^1]: Chiaki says *noumen mitai na kao* (an expression like noh mask) to describe Kanata’s blank expression. The masks he’s referencing look like [this](https://www.the-noh.com/en/world/mask.html) (warning: some are eerie).
+[^1]: Chiaki says *noumen mitai na kao* (an expression like noh mask) to describe Kanata’s blank expression. The masks he’s referencing look like <a href="https://www.the-noh.com/en/world/mask.html" target="_blank">this</a> (warning: some are eerie).
 [^2]: The *ryusei* in Ryuseitai lit. means shooting star/meteor.
 [^3]: Chiaki says “Here we go” in English, written in katakana.
 [^4]: Midori literally does say “people of your species.” Considering how Midori feels about idols (and himself), I left it the same in English.

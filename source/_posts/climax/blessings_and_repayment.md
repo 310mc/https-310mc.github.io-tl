@@ -430,4 +430,4 @@ are the [children] of yumenosaki academy really going to be okay…?
 </div>
 
 ## Translation Notes
-[^1]: This is a reference to [Triumph of the Emperor](https://ensemble-stars.fandom.com/wiki/Triumph_of_the_Emperor).
+[^1]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Triumph_of_the_Emperor" target="_blank">Triumph of the Emperor</a>.
