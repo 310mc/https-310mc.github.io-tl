@@ -697,7 +697,7 @@ You are taken to a whole different world as soon as you step into the aquarium!
 
 Ahh, the extraordinary is truly lovely! They keep the guests entertained with what they want to see, but keep the most prized treasure at the furthest end of the course!
 
-They don't forget to leave their guests wanting more, and effortlessly pull them further and further in! You will not be able to forget such an enticement!
+They don't forget to leave their guests wanting more, and effortlessly entice them further and further in!
 
 Such sublime attention to detail…! I am truly impressed! I would love to learn from this, in fact! ☆
 {% endbubble %}
@@ -711,13 +711,13 @@ So I see the very first thing that attracts your attention is the design of this
 {% bubble Wataru %}
 Oh my, how rude of me! Perhaps this is a habit I picked up from my field of work? However, while this may not be related to it, one must learn from other peoples’ craftsmanship!
 
-I would love to take in everything I find, and go further up towards the peak of art performance… ☆
+I would love to take in everything I find, and go further up towards the peak of art performance…☆
 {% endbubble %}
 
 {% bubble Rei %}
-Hm, it is a good thing to desire to grow further.
+Mm, it is a good thing to desire to grow further.
 
-I used to think you were in danger since you aim for heights beyond imagination but… Thanks to a certain someone keeping you at your reins, you no longer seem to be overreaching to that extent.
+I used to think you were in danger since you aim for heights beyond imagination, but… Thanks to a certain someone keeping you at your reins, you no longer seem to be overreaching to that extent.
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -731,19 +731,19 @@ Ahh, *fine* is such a wonderful environment to be in…☆
 {% bubble Rei %}
 *Kukuku.* If that is how you feel, then I am glad. I was quite worried for you in the beginning, you see.
 
-You are skilled at everything and are unique, after all. Those who do not have that prowess are just living normal lives.
+After all, you are skilled at everything, yet the one and only trait you do not properly possess is living a normal life.
 {% endbubble %}
 
 {% bubble Wataru %}
 *Fufufu!* I am *always* growing, Rei!
 
-There is still so much more to improve myself in! No, in fact, any prodigy would always have heights they simply could not reach, even if they were to repeat their life over and over again to perfect everything!
+There is still so much more to improve myself in! No, in fact, any prodigy would always have heights they simply could not reach, even if they were to repeat their life over and over again!
 
-For as long as I believe this, this would mean I am but another mere, foolish, powerless human, just like everyone else! Ahhh, such an incredibly wonderful life that is…☆
+For as long as I believe this, this would mean I am nothing but another mere, foolish, powerless human, just like everyone else! Ahhh, such an incredibly wonderful life that is…☆
 {% endbubble %}
 
 {% bubble Rei %}
-Hibiki-kun, I do not particularly mind your voice, but we are in public right now, so at least keep it down.
+Hibiki-kun, I do not particularly mind this chat, but we are in public right now, so at least keep it down.
 
 People are looking at us now, thinking that some kind of performance for the aquarium is happening.
 {% endbubble %}
@@ -751,7 +751,7 @@ People are looking at us now, thinking that some kind of performance for the aqu
 {% bubble Wataru %}
 My oh my, this is completely against etiquette!
 
-However! If their attention is now on us, then it is an entertainers’ job to perform! Now then, everyone! Please keep your eyes on the palm of my hand!
+However! If their attention is now on us, then it is an entertainer's job to perform! Now then, everyone! Please keep your eyes on the palm of my hand!
 
 *One, two, Amazing!* Now, you shall find a pamphlet of the aquarium in your pockets! Please see for yourselves!
 
@@ -761,23 +761,23 @@ Yes, thank you very much! Thank you for the applause! ☆
 {% bubble Rei %}
 Ohhh… This is so embarrassing…
 
-It has been quite awhile since I have gone out with you, I had completely forgotten about this terrible habit of yours. How Tenshouin-kun allows you to do this every time is beyond me.
+It has been quite a while since I have gone out with you, and I had completely forgotten about this terrible habit of yours. How Tenshouin-kun allows you to do this every time is beyond me.
 {% endbubble %}
 
 {% bubble Wataru %}
-Oh no no, he gets angry at me for it pretty often. He’s from a well-off family, you see, and so he must be careful about the way he presents himself.
+Oh no no, he also gets angry at me for it pretty often. He’s from a well-off family, you see, and so he must be careful about the way he presents himself.
 
 But that aside, we would be blocking the path if we stay here. Let’s move right in.
 
-What a mistake I’ve made… If I was going to hold a performance, then I should have chosen a much wider area to perform in.
+What a blunder I’ve made… If I was going to hold a performance, then I should have chosen a much wider area to perform in.
 {% endbubble %}
 
 {% bubble Rei %}
-To begin with, we are just regular visitors of this aquarium. There is absolutely no need for you to perform something.
+To begin with, we are just visitors of this aquarium. There is absolutely no need for you to perform something.
 
-*Kukuku.* However… You may have completely become a part of *fine*, but it seems you have not forgotten the bonds that once existed between us Five Eccentrics, so I am relieved.
+*Kukuku.* That all being said… You may have completely become a part of *fine*, but it seems you have not forgotten the bonds that once existed between us Five Eccentrics, so I am relieved.
 
-That is why I thought that perhaps you had bought a ticket to the aquarium from Shinkai-kun, as well. I was right to ask you about it.
+That is why I thought that perhaps you had bought tickets to the aquarium from Shinkai-kun, as well. I was right to ask you about it.
 
 Thank you for accompanying me. If I had come alone at this time of the day, I would have fallen right to sleep midway.
 
@@ -785,11 +785,11 @@ Without an escort, I would not even be able to walk past the door.
 {% endbubble %}
 
 {% bubble Wataru %}
-If it’s an escort you need, wouldn’t your favorite child… your favorite puppy have been a good choice for it?
+If it is an escort you need, wouldn’t your favorite child… your favorite puppy have been a good choice for it?
 {% endbubble %}
 
 {% bubble Rei %}
-Do you mean Doggie by any chance? I have already previously told him that both UNDEAD and the Light Music club have no activities for today… I would feel a little bad for calling him over after saying so.
+Do you mean Doggie by any chance? I have already previously told him that both UNDEAD and the Light Music club have no activities for today… I would feel a little terrible for calling him over after saying so.
 
 That child gets displeased when you take back your words or forget what you had previously said to him.
 {% endbubble %}
@@ -799,13 +799,13 @@ Yet I believe that if you were to call for him, he would gladly rush to you with
 
 But, well, it’s also good to be in the company of an old friend from the Five Eccentrics, yes?
 
-It seems that Kanata is in this aquarium… If that’s true, then it would have been nice to invite Shu and Natsume-kun over as well. We could have gathered as the Five Eccentrics for the first time in a long while.
+It seems that Kanata is in this aquarium… If that’s true, then it would have been nice to invite Shu and Natsume-kun over, as well. We could have gathered as the Five Eccentrics for the first time in a long while.
 
 Let us have our long awaited reunion! Let us enjoy the *Amazing* sensation brought by the unexpected child marrying and having children~♪
 {% endbubble %}
 
 {% bubble Rei %}
-Those two children have finally been participating in DreamFes, so they are probably busy.
+Those two have finally been participating in DreamFes, so they are likely busy.
 
 Also, if we were to join arms again as the Five Eccentrics, then there would surely be too much commotion.
 
@@ -821,7 +821,7 @@ It reminds me of the past… It is delightful for a friend to travel from great 
 {% endbubble %}
 
 {% bubble Wataru %}
-*Fufufu.* It *is* the day of rest, after all. Relaxing with an old friend and wandering around an aquarium is also a lovely way to spend one’s time.
+*Fufufu.* It *is* a holiday today, after all. Relaxing with an old friend and wandering around an aquarium is also a lovely way to spend one’s time.
 
 If we are here, we will be able to rush to Kanata’s aid quickly, as well.
 {% endbubble %}
@@ -839,7 +839,7 @@ Although, it does feel like he would buy me a small country if I were to ask of 
 {% bubble Rei %}
 Indeed. We shall make him go through hardships as his atonement for turning us into villains.
 
-Only then can we call it “quits.” The chain of hatred will be broken, and we may move on.
+Only then can we call it quits. The chain of hatred will be broken, and we may move on.
 
 After all, we, too, cannot continue wandering about in the same place endlessly.
 {% endbubble %}
