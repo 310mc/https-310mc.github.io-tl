@@ -75,7 +75,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 ## Chapter 1
 
 {% note cw %}
-**Content Warning:** Sexual harrassment within.
+**Content Warning:** The following chapter contains sexual harassment.
 {% endnote %}
 
 <div class="msr-location">
@@ -99,7 +99,7 @@ No, this is simply the rehearsal for the show, is it not? They are not even wear
 
 Although since this was an unplanned live, perhaps they do not have outfits prepared.
 
-It should still be alright to chat with him if we keep it short. I want to greet him at least, although I am somewhat disinclined to walk on slippery floors.
+It should still be alright to chat with him if we keep it short. Let us greet him at least, although I am somewhat disinclined to walk on slippery floors.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -121,13 +121,13 @@ It is not like you have caused us any trouble, either. This all happened by chan
 {% endbubble %}
 
 {% bubble Sora %}
-Yes! Today was very fun! Sora got to see lots and lots of new things!
+Yes! Today was very fun! Sora got to see lots and lots of new things~! ♪
 {% endbubble %}
 
 {% bubble Hinata %}
 Umm… I see Anzu-san crouching down in the corner over there… Is she okay?
 
-Is it because there aren’t enough helping hands for the live show… like, not enough advertisement? Should we help?
+Is it 'cause there aren’t enough helping hands for the live show… Like, not enough advertisement? Should we help?
 
 Whenever Anzu-san isn’t looking upbeat, the reason is pretty much always work-related.
 {% endbubble %}
@@ -139,13 +139,13 @@ You guys can relax and enjoy the show as our audience.
 {% endbubble %}
 
 {% bubble Rei %}
-No, no… Mikejima-kun, I cannot even fathom how this entire situation could have turned into a live show performance in the first place.
+No, no… Mikejima-kun, I cannot even fathom how this entire situation could have turned into a performance in the first place.
 
 How many times must I tell you that your habit of turning everything into a boisterous festival is terrible?
 {% endbubble %}
 
 {% bubble Souma %}
-Hm… I do not think any of us here can comprehend what is occuring at the moment, except for Mikejima-dono. He dragged all of us into this without any prior explanation.
+Hm… I do not think any of us here can comprehend what is occurring at the moment, except for Mikejima-dono. He dragged all of us into this without any prior explanation.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -161,9 +161,9 @@ It’s all thanks to Kaoru-san, who swiftly came to her rescue. Anzu-san, you pr
 {% endbubble %}
 
 {% bubble Kaoru %}
-Ahaha, I really panicked there… I could tell she was wobbling about as she walked, but then she flopped down right into the pool.
+Ahaha, I really panicked there~… I could tell she was wobbling about as she walked, but then she flopped down right into the pool.
 
-I think she accidentally tripped over herself…
+I think she just accidentally slipped…
 
 But then I didn’t see her resurface out of the water, so I had to dive in there and save her.
 
@@ -193,7 +193,7 @@ Pushing yourself to work even harder when you are in that state only worsens you
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes… so how about we all go around the [aquarium] together once this [live show] is over?
+yes… so how about we all go around the [aquarium] together once this [performance] is over?
 
 let’s forget about [work] and take a nice [breather]…♪
 
@@ -203,9 +203,9 @@ i would feel a bit [terrible] if that were to happen.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Everyone’s doing this ‘cause they want to, y'know? But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
+Everyone’s doing this because they want to, though. But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
 
-This was just the worst type of ending, what with time being lost thanks to us taking forever to group up after losing eachother…
+This was just the worst type of ending, what with time being lost thanks to us taking forever to group up after losing each other…
 
 But next chance I get, I’ll totally make it enjoyable for her. I swear I will~♪
 {% endbubble %}
@@ -233,25 +233,27 @@ But things just don’t work out that way… All these guys around me are a hand
 ## Chapter 2
 
 {% bubble Kaoru %}
-Uh-oh. Anzu-chan, you’re getting cold from being drenched, aren’t you? You’re sneezing.
+Uh-oh. Anzu-chan, you’re sneezing. You’re getting cold from being drenched, aren’t you?
 
 Let’s head over to the shop together! We’ll buy a towel and a change of clothes~♪
 
 C’mon, stand up. Cheer up, okay? You’ll be alright.
 
-You’ve been doing as great as you ever could. This Onii-san right here will assure you of that! Good girl, good girl~♪
+You’ve been doing as great work as you ever could. This Onii\~san right here will assure you of that! Good girl, good girl\~♪
 {% endbubble %}
 
 {% bubble Hinata %}
-Oh! If you want something from the shop, then I’ll rush over there by myse— Mrrpfh!?
+Oh! If you want something from the shop, then I’ll rush over there by myse—
+
+—Mrrpfh!?
 {% endbubble %}
 
 {% bubble Rei %}
-Do not worry about it, just leave this to Kaoru-kun. It is we who are the guests today; we should not be intruding in on them.
+Do not worry about them, just leave this to Kaoru-kun. It is we who are the guests today; we should not be intruding in on them.
 
 Now then, let us head over to the audience seats~♪
 
-There does not seem to be much time until the show starts, so you must hurry… Alright, Kaoru-kun?
+There does not seem to be much time until the performance starts, so you must hurry… Alright, Kaoru-kun?
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -305,23 +307,23 @@ i want to protect it. this time… i will definitely protect what is [important]
 {% bubble Kaoru %}
 Look, Anzu-chan! Look over there! There’s an interesting display of fish over there~♪
 
-It looks like like they put all the big crabs and deep-sea fish and any other sci-fi-ish sea creatures in there, so it’s like you’ve *“Stepped into a planet completely different from Earth,”* or so it says.
+It looks like they put all the big crabs and deep-sea fish and any other sci-fi-like marine life in there, so it’s like you’ve “Stepped into a planet completely different from Earth,” or so it says.
 
 I think no one’s been approaching it, probably because it’s kinda eerie.
 
 So if we go over there, we may get to be all alone together~ Wanna go and see?
 
-Ahhh…! It’s like we’re space travellers drifting into an unknown planet…!!
+Ahhh…! It’s like we’re space travelers drifting into an unknown planet…!
 
-We could live here, as we support and help each other while in danger of monsterous creatures on this planet…! And then, our love will bloom…♪
+We could live here, as we support and help each other while in danger of monstrous creatures on this planet…! And then, our love will bloom…♪
 
 Heheh, let’s become this planet’s Adam and Eve, Anzu-chan! ♪
 
 Huh? We should just hurry up already?
 
-It’ll be fine, won’t it? I’m not part of the main show this time, so they can start without me if we don’t make it in time.
+It’ll be fine, won’t it? I’m not the main lead of the performance, so they can start without me if we don’t make it in time.
 
-I don’t even want to work today, it’s a holiday… We’ll go back to them sometime in the middle of the show, sooo~ I’m gonna keep you for myself for a while…♪
+I don’t even wanna work today, since it’s a holiday… We’ll go back to them sometime in the middle of the show, sooo~ I’m gonna keep you for myself for a while…♪
 
 Ah! Don’t run off with a stunned look on your face!
 
@@ -329,21 +331,21 @@ Did you forget that the reason today went badly was because of that~? I think it
 
 People aren’t meant to put work above all else, y'know?
 
-Well, nowadays you get rewarded for working hard, so I guess everyone has been putting their all into it.
+Well, nowadays people can get rewarded for working hard, so I guess everyone has been putting their all into it.
 
 I mean, having your hard work recognized and accomplishing things can be nice, after all.
 
-But that’s why I think it’s risky for you to do this… It’s really easy to get obsessed with the idea of working hard for satisfaction if you continue to do it.
+But that’s why I think it’s risky, too… It’s really easy to get obsessed with the idea of working hard for satisfaction.
 
-Then you’ll get so addicted to it you won’t be able to notice when your body can’t take it anymore, and you may end up in tatters before you know it.
+Then you’ll get so addicted to it that you won’t be able to notice when your body can’t take it anymore, and you may end up in tatters before you know it.
 
-I don’t want you to turn out that way.
+I would never want you to turn out that way.
 
 ……Yep, I’m lecturing you like an elder.
 
 It *could* be nice for someone to live a short but fulfilling life, and it *could* satisfy them in the end… But everyone they leave behind wouldn’t be able to handle it. So take care of your health, and live as long as you can.
 
-It’s easy to forget this when we’re all living in this peaceful country, but… People do die, y'know?
+It’s easy to forget this when we’re all living in this peaceful country, but… People really *do* die, y'know?
 
 Don’t die on us… Okay? You’re very important to everyone, Anzu-chan.
 
@@ -359,19 +361,19 @@ It’s like your fashion sense is still in it’s baby phase, that’s *sooo* cu
 
 Owowow! Don’t hit me~ Sorry, I went too far! I think it looks good! Octopuses and squids are just fine!
 
-Everyone has their own fashion sense, so anything goes so long as it suits them, yeah?
+Everyone has their own fashion sense, so anything goes as long as it suits them, yeah?
 
 Actually, wait— Can I take a picture with you? I feel I could burst out in laughter if I could keep looking at it~!
 
-Ah—wait wait, come back!
+Ah— Wait, wait, come back!
 
-Sorry, sorry, I teased you way too much. It’s okay, you look fine! It’s adorable, Anzu-chan~♪
+Sorry, sorry, I teased you way too much. It’s okay, you look fine! You look adorable, Anzu-chan~♪
 
-<th>(Ahaha. Good, good… I think she cheered up a little. It really doesn’t suit her to be upset~)</th>
+<th>(Ahaha. Good, good… I think she cheered up a little. It really doesn’t suit you to be upset, Anzu-chan~)</th>
 
-<th>(She’s probably been really busy lately and making mistakes as she gets more and more tired. I’m guessing that’s what ended up making her cry…)</th>
+<th>(She’s probably been really busy lately and making mistakes as she gets more and more tired… I’m guessing that’s what ended up making her cry…)</th>
 
-<th>(Y'know, I really do want good people to always be smiling.)</th>
+<th>(But y'know, I really do want good-natured people to always be smiling.)</th>
 
 <th>(…Mom, I'll be a good kid too, so could I also smile and laugh more?)</th>
 {% endbubble %}
@@ -401,7 +403,7 @@ Yeah, more or less~ As soon as I came back, Sakuma-san and the others hoisted me
 
 Anyway, I’d look like an idiot if I were the only one wearing casual clothes while everyone else wore costumes for the show.
 
-But this show came out of nowhere, so weren’t we just talking about how we probably won’t get any special costumes for it?
+But this performance came out of nowhere, so weren’t we just talking about how we probably won’t get any special costumes for it?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -421,7 +423,7 @@ Ahhh… So that’s why Anzu-chan has her sewing box out and is clamoring about 
 {% bubble Souma %}
 Ahaha, Anzu-dono, that tickles.
 
-I would rather you not fumble with my costume… I think it is best that you adjust Mikejima-dono’s outfit instead of mine, no? He seems cramped in his costume.
+I would rather you not fumble with my costume… I think it is best that you adjust Mikejima-dono’s costume instead of mine, no? He seems cramped in his costume.
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/dream3_2.jpg %}
@@ -451,7 +453,7 @@ and since souma is a [good boy], he cannot be [cold-hearted] to someone who trea
 {% endbubble %}
 
 {% bubble Kaoru %}
-Haha, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the strange kids.
+Ohh, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the strange kids.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -459,7 +461,7 @@ it is because that [rogue] has always liked [old-fashioned] things, and souma li
 {% endbubble %}
 
 {% bubble Kaoru %}
-Makes sense, since he’s a samurai of the old ages~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two that close?
+Makes sense, since he’s a samurai of the old ages~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two *that* close?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -517,11 +519,11 @@ and that is when my household decided to let go of this [aquarium] they [own].
 ## Chapter 4
 
 {% bubble Kaoru %}
-So your household owns this aquarium, huh? I never knew that~ I’ve always just gone to it because it’s nearby.
+So your household owns this aquarium, huh? I never knew that~ I’ve always gone to it from way back since it’s nearby.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufu, long ago, i had seen someone who looked a lot like you, kaoru.
+fufu, long ago, i had seen a boy who looked a lot like you, kaoru.
 
 you would [walk] around in the aquarium holding hands with a very pretty [woman], yes?
 {% endbubble %}
@@ -531,7 +533,7 @@ Ahh, yeah… My mom really liked fish and stuff.
 
 Whenever she was feeling better, she’d secretly take me here after I’d been pooped out from all the studying and lessons.
 
-So this place holds a looot of important memories to me. If it goes bankrupt because of bad business, it’ll feel like something’s missing.
+So this place holds a looot of important memories to me, as well. If it goes bankrupt because of bad business, it’ll feel like something’s missing.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -599,19 +601,19 @@ i really never wanted to [bother] anyone… yet it ended up being a [bigger] pro
 {% endbubble %}
 
 {% bubble Madara %}
-That just shows how dearly everyone thinks of you, Kanata-san.
+Thaaat just shows how much everyone cherishes you, Kanata-san.
 
-Not because you’re a God… It’s because you’re *you* that everyone wanted to help you.
+Not because you’re a god… It’s because you’re *you* that everyone wanted to help you.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-huh… this is all strange to me… i have never even gotten [involved] with anyone in my life before…
+huh… this is all strange to me… i have never even gotten [involved] with anyone in my whole life…
 {% endbubble %}
 
 {% bubble Souma %}
-It is only you who sees it that way, Buchou-dono. At the very least *I* am indebted to you. I would love to assist you if you are ever in trouble.
+It is only you who sees it that way, Buchou-dono. At the very least, *I* am indebted to you. I would love to assist you if you are ever in trouble.
 
-All that I ask is that you consult me about it much sooner. You are being a little *too* reserved, are you not?
+All that I ask is that you consult me about it much sooner. You are being a little *too* distant, are you not?
 
 It takes a lot of energy to undo a problem after it has already gotten so complicated.
 {% endbubble %}
@@ -631,9 +633,9 @@ Ahaha, it’s pretty much just like a baby going against their parents for the f
 {% img /img/es/eventstory/aquarium/dream4_1.jpg %}
 
 {% bubble Kanata v2 %}
-yes… but this is a strange feeling. i had always [restrained] myself up until this point. it is almost always [peaceful] so long as i [restrain] myself.
+yes… but this is a strange feeling. i had always [restrained] myself up until this point. it is almost always [peaceful] as long as i [restrain] myself.
 
-but in yumenosaki, everyone is trying to make their own [dreams] come true with [everything] they have.
+but in yumenosaki academy, everyone is trying to make their own [dreams] come true with [everything] they have.
 
 even if it was their own selfish desires… that is why i wanted to do the [same].
 
@@ -647,9 +649,9 @@ and cooling my head down with some [thinking]… i would have just thought it di
 
 my household also probably thought that by [punishing] me, i would [regret] my actions, and be a [good boy].
 
-actually, when i was [all alone] inside that water tank…
+and actually, when i was [all alone] inside that water tank…
 
-i did start [thinking] about how dumb i was acting, and i thought of giving up altogether…
+i did start [thinking] about how silly i was acting, and i thought of giving up altogether…
 
 but then everyone came here for me. and then you [helped] me to the best that you could.
 
@@ -661,7 +663,7 @@ even if it is something [embarrassing] and childishly [selfish], i will make my 
 
 just like what everyone else is doing.
 
-because i am no longer a [god]… i was able to become the same [human] being as everyone else.
+because i am no longer a [god]… i was able to become the same [human being] as everyone else.
 {% endbubble %}
 
 <div toc>
