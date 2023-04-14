@@ -1227,7 +1227,7 @@ No matter what the future has in store for us, and even if we can only stay this
 {% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}{% btn /comet_show,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: This is referencing [Marionette](https://fortunebanquet.tumblr.com/tagged/marionette/chrono), a reminiscence story about Valkyrie’s past.
+[^1]: This is referencing <a href="https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette" target="_blank">Marionette</a>, a reminiscence story about Valkyrie’s past.
 [^2]: A reference to Summer Snow, where Kanata had to come up with a marketing strategy to make his aquarium flourish.
-[^3]: The Kamen Rider series are categorized into Japan's time periods. The [Showa series](https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series) is considered the first era of the series (1926 to 1989 series), with [Heisei](https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series) (1989 to 2019) coming right after it.
-[^4]: Chiaki says *gomen* here, a more polite/softer way to say "sorry" compared to *suman* (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in [Sweet Halloween](https://euni2319.dreamwidth.org/15004.html).
+[^3]: The Kamen Rider series are categorized into Japan's time periods. The <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa series</a> is considered the first era of the series (1926 to 1989 series), with <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei</a> (1989 to 2019) coming right after it.
+[^4]: Chiaki says *gomen* here, a more polite/softer way to say "sorry" compared to *suman* (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="https://euni2319.dreamwidth.org/15004.html" target="_blank">Sweet Halloween</a>.

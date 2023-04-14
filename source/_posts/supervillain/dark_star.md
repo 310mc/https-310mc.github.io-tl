@@ -1335,4 +1335,4 @@ We *have* to solve this unprecedented problem.
 [^2]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”.
 [^3]: Tetora speaks differently starting from here, and will continue to do so for the majority of this story. He doesn't use his typical “Ossu”, and “~ssu” ending speech quirk. He instead talks more plainly, without any particular speech quirk.
 [^4]: “Oni” means demon or ogre.
-[^5]: Gorgom is a fictional criminal group from Kamen Rider Black. For more information, go [here](https://kamenrider.fandom.com/wiki/Gorgom).
+[^5]: Gorgom is a fictional criminal group from Kamen Rider Black. For more information, go <a href="https://kamenrider.fandom.com/wiki/Gorgom" target="_blank">here</a>.

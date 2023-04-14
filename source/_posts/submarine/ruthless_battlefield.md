@@ -66,6 +66,12 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter Index
 <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn https://verdantgrove.dreamwidth.org/14046.html,, arrow-left, Previous Chapter: Chapter 3 %}
+{% btn /submarine,, star, Index %}
+{% btn https://verdantgrove.dreamwidth.org/15809.html,, arrow-right, Next Chapter: Chapter 11 %}
+</div>
+
 ## Chapter 3
 
 {% note cw %}
@@ -1423,5 +1429,5 @@ That sort of wishy-washy stance is not the hero I’ve aspired to be since I was
 ## Translation Notes
 [^1]: This is a reference to a scene in Bleach. You will find it in Volume 34, Chapter 302.
 [^2]: The following areas refer to specific SS stories: Virtual Space → SHINSEKAI, Amusement park → Sanctuary, Desert → Sandstorm, Jungle → Satellite.
-[^3]: A reference to [Meteor Impact](https://310mc.github.io/meteor_impact/).
-[^4]: Another reference to [Meteor Impact](https://310mc.github.io/meteor_impact/). In general, this story heavily relates to Meteor Impact.
+[^3]: A reference to <a href="/meteor_impact" target="_blank">Meteor Impact</a>.
+[^4]: Another reference to <a href="/meteor_impact" target="_blank">Meteor Impact</a>. In general, this story heavily relates to Meteor Impact.

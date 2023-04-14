@@ -1330,9 +1330,9 @@ Let’s also assemble a happy ending for our reality — an ending that everyone
 </div>
 
 ## Translation Notes
-[^1]: Combatants refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the [Shocker Combatmen](https://kamenrider.fandom.com/wiki/Shocker_Combatmen) from Kamen Rider.
-[^2]: The following scene is related to [Meteor Impact](https://310mc.github.io/meteor_impact/).
+[^1]: Combatants refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the <a href="https://kamenrider.fandom.com/wiki/Shocker_Combatmen" target="_blank">Shocker Combatmen</a> from Kamen Rider.
+[^2]: The following scene is related to <a href="/meteor_impact" target="_blank">Meteor Impact</a>.
 [^3]: In Japanese, the word he says is *hangure*, which are groups in Japan that commit crimes, but are not affiliated with any crime syndicates (yakuza, for example).
 [^4]: As mentioned earlier, *taichou* refers to leader (sometimes translated as Captain). It literally means “Commander”. It’s also the title Tetora would call Chiaki by a year ago, when Chiaki was still in high school.
 [^5]: Tetora temporarily switches to his typical speech quirk here as part of the light joke. Also, *sundome* is a type of karate where you have to stop before you hit the target.
-[^6]: This is a reference to the story [Mirage](https://ensemble-stars.fandom.com/wiki/MIRAGE).
+[^6]: This is a reference to the story <a href="https://ensemble-stars.fandom.com/wiki/MIRAGE" target="_blank">MIRAGE</a>.

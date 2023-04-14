@@ -66,6 +66,12 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /submarine/nirai_kanai,, arrow-left, Previous Chapter: Nirai-Kanai %}
+{% btn /submarine,, star, Index %}
+{% btn https://verdantgrove.dreamwidth.org/18078.html,, arrow-right, Next Chapter: Epilogue 3 %}
+</div>
+
 ## Chapter 1
 
 {% img /img/es/eventstory/submarine/epch1_1.jpg %}
@@ -354,4 +360,4 @@ If they take any longer, we’ll end up stealing the limelight!
 ## Translation Notes
 [^1]: “Mensoore” is an Okinawan greeting.
 [^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses *boku* here instead of his usual *sessha* (the more ninja-like way to refer to oneself).
-[^3]: A reference to the last chapter of [Meteor Impact](https://310mc.github.io/meteor_impact/epilogue/#Chapter-2).
+[^3]: A reference to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.

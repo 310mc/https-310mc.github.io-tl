@@ -307,5 +307,5 @@ Okay, I’d be glad to…♪
 
 ## Translation Notes
 
-[^1]: A reference to [Tough Guy](https://ensemble-stars.fandom.com/wiki/Tough_Guy).
-[^2]: You can see how Carrotian looks on Kuro's [bloomed card](https://ensemble-stars.fandom.com/wiki/%28Carrot%27s_Relations%29_Kuro_Kiryu).
+[^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Tough_Guy" target="_blank">Tough Guy</a>.
+[^2]: You can see how Carrotian looks on Kuro's <a href="https://ensemble-stars.fandom.com/wiki/%28Carrot%27s_Relations%29_Kuro_Kiryu" target="_blank">bloomed card</a>.

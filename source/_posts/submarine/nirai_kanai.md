@@ -68,6 +68,12 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter Index
 <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn https://verdantgrove.dreamwidth.org/16854.html,, arrow-left, Previous Chapter: Chapter 2 %}
+{% btn /submarine,, star, Index %}
+{% btn /submarine/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 3
 
 {% note narration %}
@@ -1965,7 +1971,7 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 ## Translation Notes
 [^1]: This is a reference to Chapter 200 of the first main story.
 [^2]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
-[^3]: For anyone interested, [here is a video](https://www.youtube.com/watch?v=vJmWVWCdTYo) that discusses how Japan views religion, that I found to be relevant to this story.
+[^3]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
 [^4]: Typically, *kakusu* means to conceal, but it has an archaic meaning to say “to behead”.
-[^5]: “The Dance of Divine Slicing” shares a pronunciation with the name *Kanzaki*, the *kan* in the technique being “god”, and the *zaki* being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in [Meteor Impact](https://310mc.github.io/meteor_impact/) (One Year Ago, Chapter 11).
+[^5]: “The Dance of Divine Slicing” shares a pronunciation with the name *Kanzaki*, the *kan* in the technique being “god”, and the *zaki* being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).
 [^6]: A wordplay with his name, *shinkai*, which also means deep sea.

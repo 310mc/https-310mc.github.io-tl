@@ -47,6 +47,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
+                src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
+                alt="Aquarium"
+            />
+        </div>
+        <a href="/aquarium" class="storyName" target="_blank">
+            <span>Aquarium</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
                 src="/img/es/scoutstory/beasts/tetoracgframe_300px.jpg"
                 alt="Beasts"
             />
@@ -68,18 +80,6 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read soon"></span>
         </a>
     </div>-->
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/schoolfestival4/tetorabcgframe_300px.jpg"
-                alt="School Festival 4"
-            />
-        </div>
-        <a href="/school_festival_4" class="storyName" target="_blank">
-            <span>School Festival 4</span>
-            <span class="read"></span>
-        </a>
-    </div>
     <!--<div class="story">
         <div class="image">
             <img

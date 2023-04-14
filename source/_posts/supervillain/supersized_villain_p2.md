@@ -1157,7 +1157,7 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
 
 ## Translation Notes
 [^1]: In Japan, sports teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
-[^2]: This is a reference to [High and Low](https://ensemble-stars.fandom.com/wiki/High_and_Low).
-[^3]: This is referring to [Climax](/climax), the chapters Tears of Shooting Stars.
+[^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.
+[^3]: This is referring to <a href="/climax" target="_blank">Climax</a>, the chapters Tears of Shooting Stars.
 [^4]: Tokusatsu shows are categorized by which era they were released in. Showa era covers all series from around 1971-1994, then comes all the series of Heisei era from around 2000-2019, and now it's Reiwa era.
 [^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “*Dark* Star”
