@@ -116,7 +116,7 @@ And since that blood runs in his own veins, he's the current head of the family.
 {% endbubble %}
 
 {% bubble Souma %}
-You do not need to tell me, I am aware of the general story of the tale. However, I cannot think of it as nothing but a fairytale, as it seems that the people of power within this region deeply respect Buchou-dono’s family lineage.
+You do not need to tell me, I am also aware of the general story of the tale. However, I cannot think of it as nothing but a fairytale, as it seems that the people of power within this region deeply respect Buchou-dono’s family lineage.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -134,7 +134,7 @@ If things are happy in the present times, theeen that’s good enough for me! Ha
 {% bubble Kaoru %}
 Alright you guys, less chit-chatting and more working~
 
-But I’m really amazed by you guys. This was a sudden live, but everyone’s on track with each other’s steps.
+But I’m really amazed by you all. This was a sudden performance, but everyone’s on track with each other’s steps.
 
 *Especially* Souma-kun. I really didn’t see that coming, you looked like you’d be bad at dealing with unexpected situations~♪
 {% endbubble %}
@@ -144,13 +144,17 @@ Do not look down on me. I have gone through training since childhood. I am profi
 
 I am somewhat bewildered by all of this, but I will not be performing in any way that could falter my seniors.
 
-Also, Buchou-dono has brought me to this aquarium with him plenty of times as part of our Marine Life club activities.
+Also, Buchou-dono has brought me to this aquarium with him plenty of times as part of our Marine Life Club activities.
 
-In those cases, I watched the *“dol-fin”* show in the audience seats, and so I am more or less aware of the inner workings of the show.
+In those cases, I watched the *“dol-fin”* show in the audience seats.
 
-I have asked Buchou-dono all kinds of questions pertaining to it as well, as I get excited when watching such an admirable performance.
+Thus, I am more or less aware of the inner workings of the show.
 
-It has long been a dream of mine to play alongside *“dol-fins”* like this… Before falling to sleep, I had often imagined the various acts I would love to attempt were I to ever have the chance.
+I have asked Buchou-dono all kinds of questions pertaining to it as well, as I get delighted when watching such an admirable performance.
+
+It has long been a dream of mine to play alongside *“dol-fins”* like this…
+
+Before falling to sleep, I had often imagined the various acts I would love to attempt were I to ever have the chance.
 
 I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
@@ -168,19 +172,21 @@ I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
 {% bubble Souma %}
-“Wh-what!? Buchou-dono! I do not particularly want any reward, so please do not toss seafood at me!”
+“Wawa—!? Buchou-dono! I do not particularly want any reward, so please do not toss seafood at me!”
 {% endbubble %}
 
 {% bubble Kaoru %}
 Ahaha, you’re really into this, Kanata-kun.
 
-But this is the first time I’ve heard about this whole “going to the aquarium together” thing. That’s weird, I was never invited to this~?
+But this is the first time I’m hearing about this whole “going to the aquarium together” thing. That’s weird, you never invited *me* to this~?
 {% endbubble %}
 
 {% bubble Souma %}
-Did you want us to? You come and go with the club, and so our *“tai-ming”* had always been off, and we had thought that forcing you to come would be too much.
+Did you want us to? However, you come and go with the club, do you not?
 
-And when you do show your face, you usually look very tired as you gaze idly at the water tanks… We had only wanted to let you rest whenever we secretly went off to the aquarium.
+Our timing had always been off, and we had thought that forcing you to come would be too much.
+
+And when you do show your face, you usually look very tired as you gaze idly at the water tanks… We had only wanted to let you rest during those times.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -258,7 +264,7 @@ Here, here! ♪ The real dolphin’s even softer, y'know! Dolphins raise their o
 {% bubble Kaoru %}
 What’s up, Kanata-kun? You look dazed; you getting tired?
 
-If you are, then you can leave the singing to me and Souma-kun, and you can rest while doing your *puka puka*~♪
+If you are, then you can leave the singing to me and Souma-kun, and rest over there while doing your *puka puka*~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -272,7 +278,7 @@ but i am not tired at all, anyway. this is [nothing] compared to ryuseitai’s [
 {% bubble Kaoru %}
 Ahh, Ryuseitai’s all about action and stuff, yeah.
 
-UNDEAD’s dances and stuff are rough and intense, too~ I have to push my limits to match up with the energetic youngsters.
+UNDEAD’s performances are rough and intense, too~ I have to push my limits to match up with the energetic youngsters.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -294,9 +300,9 @@ that is right, and so are you, kaoru… so is souma, since we are all part of th
 {% bubble Souma %}
 Indeed. It feels cool and pleasant here.
 
-Not only did I have the honor of performing with people other than my *“yu-nit,”* but it was also very refreshing. That does not mean I have any dissatisfactions with Akatsuki, though.
+And most of all, I had the honor of performing with people other than my *“yu-nit.”* It feels very refreshing. That does not mean I have any dissatisfactions with Akatsuki, though.
 
-However, it is pleasant to perform side-by-side like this with my friends from the same club every once in awhile.
+However, it is pleasant to perform side-by-side like this with my companions from the same club every once in awhile.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -304,7 +310,7 @@ Oh? The way you say that sounds like you see me as a pal from the same club now~
 {% endbubble %}
 
 {% bubble Souma %}
-I only partially feel that way. Today you were kind to people around you, such as Anzu-dono, for starters.
+I only partially feel that way. Today, you were kind to people around you, such as Anzu-dono, for starters.
 
 I still believe you may have some ulterior motive, but I also believe that the love and kindness you presented was not a lie.
 
@@ -322,7 +328,7 @@ fufufu, what is wrong with that? it *is* true that you get too [ahead] of yourse
 {% endbubble %}
 
 {% bubble Kaoru %}
-Whaaat\~? You guys are so harsh\~! I’ve had a complete 180 flip, I’m an earnest guy now! I’m serious~
+Whaaat\~? You guys are so harsh\~! I’ve had a complete 180 flip, I’m an earnest guy now! I’m serious\~
 {% endbubble %}
 
 {% bubble Madara %}
@@ -340,7 +346,7 @@ Naaah, there’s just something I want you to see. I thought it was about time I
 {% endbubble %}
 
 {% bubble Souma %}
-…? The plan is to help the aquariums’ business by calling over an audience with a performance, is it not?
+…? The plan is to help the aquarium’s business by calling over an audience with a performance, is it not?
 
 I have been working with all my might with that in mind.
 
@@ -366,23 +372,23 @@ Kanata~! My dear old friend! The splashes amplify your divine glow! *Amazing*…
 {% endbubble %}
 
 {% bubble Rei %}
-Nevermind that, Hibiki-kun, the doves within your clothes seem to be moving about everywhere…
+Never mind that, Hibiki-kun, the doves within your clothes seem to be moving about everywhere…
 
 Are they perhaps hungry? They do not feed on fish, though, do they?
 {% endbubble %}
 
 {% bubble Sora %}
-HaHa\~♪ There’s been an unusually strange color drifting in the air for awhile now\~ Maybe it’s because of that?
+HaHa\~♪ There’s been an unusually strange color drifting in the air for a while now\~ Maybe it’s because of that?
 {% endbubble %}
 
 {% bubble Wataru %}
-Hm? Aahh, I can hear a peculiar sound when I listen closely… Could this be the dolphin’s singing?
+Hm? Ahh, I can hear a peculiar sound when I listen closely… Could this be the dolphins’ singing?
 
-That sound is visible to you? How wonderful! ♪
+That sound is *visible* to you? How wonderful! ♪
 {% endbubble %}
 
 {% bubble Sora %}
-Aaaahh, this is Mr. Dolphin’s singing? It’s a lovely color\~! *La\~di\~la\~!* ♪
+Waah, this is Mr. Dolphin’s singing? It’s a lovely color\~! *La\~di\~la\~!* ♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -390,7 +396,7 @@ Ahaha, you’re so lucky~ I wanna hear it too. Are you able to hear it, Hibiki-s
 {% endbubble %}
 
 {% bubble Wataru %}
-Hmm… Focusing your hearing sense on something for a brief moment can be difficult. But anyone could do it to some extent with enough training.
+Hmm… Training your hearing sense is quite difficult to achieve in a short time. But anyone could do it to some extent with enough training.
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -402,7 +408,9 @@ Ah! Then please teach me sometime! I mean, it’s probably best I try to pick up
 {% bubble Rei %}
 Hush now. Do not frolic about; you should be listening to their song.
 
-Well, it is up to each person how they want to enjoy a live show… However, as someone who is an idol, I imagine that it would feel terrible if the guests were idly chatting instead of paying attention to the song.
+Well, it is up to each person how they want to enjoy a live show…
+
+However, for idols, I imagine that it would feel terrible if the guests were idly chatting instead of paying attention to the song.
 
 Perhaps this kind of awareness is also something that comes from one’s field of work. You become unable to have a more objective viewpoint of these things, so it has its merits and its demerits.
 {% endbubble %}
@@ -504,13 +512,13 @@ i will come back to [where] i [belong], as a human.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Kanata-kuuun, does that mean you don't see the Marine Life club as somewhere you belong?
+Kanata-kuuun, does that mean you don't see the Marine Life Club as somewhere you belong?
 
 That’s so cold~ Did you hear that, Souma-kun? Kanata-kun said Ryuseitai is the only place he belongs~♪
 {% endbubble %}
 
 {% bubble Souma %}
-What? Buchou-dono~ What are we lacking? I am ashamed of myself—If there is anything you would like us to change, then please tell me!
+What? Buchou-dono~ What are we lacking? I am ashamed of myself — If there is anything you would like us to change, then please tell me!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -528,7 +536,7 @@ I mean, we’re going around the aquarium with everyone after this, so let’s q
 {% bubble Kanata v2 %}
 yes, i am also [hoping] that we will be able to do that.
 
-everyone together now\~! let us [sing] together with high spirits! we will sing our [ensemble] in unison\~♪
+everyone together now\~! let's [sing] together with high spirits! we will sing our [ensemble] in unison\~♪
 
 this is the gentle [planet earth]![^2] we are all [family], born on this planet!
 
