@@ -248,9 +248,6 @@ Okay, if you get confused, just call out to us\~ Bye bye\~♪
 Eek!? A shuriken thingie just flew this way!!
 {% endbubble %}
 
-<!-- attention
-……さぁ、●●ちゃん！　颯馬くんが試着室にいてこっちが見えてないうちに、ふたりで手を取りあって逃げよう！　水平線の彼方まで！-->
-
 {% bubble Souma hidden %}
 …I may not be able to see you, but I can sense your presence. You best not do anything tactless.
 {% endbubble %}
@@ -407,16 +404,11 @@ Ahh… Right, I forgot you were from a family detached from the modern times, st
 {% bubble Souma %}
 …We *do* have a landline phone at home. But I cannot get accustomed to a *“smar-to foon”* and all of its unnecessary features. I am not fond of how it is all jumbled up.
 
-*“Smar-to foons”* should be just like their name, and be more simplified.
+*“Smar-to foons”* should be just like their name, and be more simplified.[^1]
 {% endbubble %}
 
-<!--attention
-『すまほ』も名前のとおり、もっと『単純（すまぁと）』であるべきではないか
-薫	うん、スマートフォンのSmartは『賢い』って意味だからね
--->
-
 {% bubble Kaoru %}
-Um, you do know that “smart” is in *smart* phone, right?
+Um, the “smart” is meant to mean *clever* here, okay?
 
 Oh, woops. Sorry, Anzu-chan. Us guys shouldn't just be talking to ourselves, right\~? I’ll make sure not to bore you, so feel free to join in the conversation\~♪
 
@@ -442,10 +434,7 @@ That's what this date is for, after all~☆
 
 Huh? It's not a date? Then why're you wearing a bit of makeup~? ♪
 
-If I didn’t know any better, I’d say you’re starting to notice me, even if just a teensy bit…… *Ohh,* wait… This is a thing you and I share in common, huh.
-
-<!-- attention wanted
--->
+If I didn’t know any better, I’d say you’re starting to notice me, even if just a teensy bit…… *Ohh,* wait… This is a thing you and I share in common, huh.[^2]
 
 Which means the right thing to do is to pretend I didn’t notice that, but… Hmm~ I want it to be a fun day for us, so I’ll try and get through this gloomy topic as quickly as possible.
 
@@ -629,15 +618,13 @@ This is bad, *terrible!* You have this peculiar feel to you that makes me want t
 {% endbubble %}
 
 {% bubble Rei %}
-Ahaha. Y’see, it's actually somethin’ of a curse that's been placed on *me*.[^1]
+Ahaha. Y’see, it's actually somethin’ of a curse that's been placed on *me*.[^3]
 
 In any case, there is something I wish to ask you, Mikejima-kun.
 
 Little Lady Anzu seems remarkably worn out recently.
 
-I am concerned about her. Though I am not usually one to do so, I had actually lectured her sometime ago, you see. I worry that she has been fretting over that ever since.
-
-<!-- attention summer live -->
+I am concerned about her. Though I am not usually one to do so, I had actually lectured her sometime ago, you see. I worry that she has been fretting over that ever since.[^4]
 
 If that is indeed the case, then I only feel remorse. It seems that no matter what I do, I cannot help but see myself within her, and I end up saying more than necessary.
 
@@ -749,7 +736,7 @@ So I wasn't *always* Ryusei Purple, Rei-san.
 {% endbubble %}
 
 {% bubble Rei %}
-But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously-speckled color like your name.[^2]
+But it is a color that suits you. One that is right between red and blue… It is much better than a vague, capriciously-speckled color like your name.[^5]
 {% endbubble %}
 
 {% bubble Madara %}
@@ -840,5 +827,8 @@ It is because it is midday; this is the time for vampires to sleep… Also, you 
 </div>
 
 ## Translation Notes
-[^1]: Rei speaks in his ore-speech here.
-[^2]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as *mura,* which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.
+[^1]: In Japanese, *su-maa-to* (smart) actually means slim/slender (hence, Souma wishing it to be simplified like its name), but Kaoru explains that it means the English meaning of “smart”, not the Japanese version. These types of words are called <em><a href="https://en.wikipedia.org/wiki/Wasei-eigo" target="_blank">wasei-eigo</a></em>.
+[^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/WANTED!!!" target="_blank">WANTED!!!</a>.
+[^3]: Rei speaks in his ore-speech here.
+[^4]: This is referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Summer_Live" target="_blank">Summer Live</a>.
+[^5]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as *mura,* which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.

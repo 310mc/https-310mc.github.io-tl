@@ -227,7 +227,7 @@ I think you’d get what I mean, though.
 {% bubble Sora %}
 Yes, Sora is an alien, after all~ No matter where Sora goes on this earth, it’ll always be a completely different world for Sora.
 
-But Sora was able to meet with Shisho and Senpai by chance, and they can understand and decrypt how Sora feels.
+But Sora was able to meet with Shisho\~ and Senpai by chance, and they can understand and decrypt how Sora feels.
 
 If it weren’t for that, Sora would have trouble just breathing!
 
@@ -253,7 +253,7 @@ Wha—Waah!? Hina-chan, don’t spin around~! Sora’s eyes are twirling!
 ## Chapter 2
 
 {% bubble Sora %}
-<th>(…Gosh, Hina-chan. You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho and Senpai do it, huh~?)</th>
+<th>(…Gosh, Hina-chan. You’re always trying to fool Sora by force. Sora can't really do things as well as Shisho\~ and Senpai do it, huh\~?)</th>
 
 <th>(Accurately using magic and leading someone just a little closer to a happier direction… That's easier said than done. It's still tricky for Sora.)</th>
 

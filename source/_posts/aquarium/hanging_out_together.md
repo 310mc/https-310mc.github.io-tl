@@ -569,8 +569,7 @@ Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides w
 {% endbubble %}
 
 {% bubble Hinata %}
-Ahh, that one’s really tasty. I think the old man from the Chinese restaurant used to make it often for me looong ago.
-<!-- attention kung fu -->
+Ahh, that one’s really tasty. I think the old man from the Chinese restaurant used to make it often for me looong ago.[^2]
 
 Maybe I’ll take some home and cook it for dinner.
 {% endbubble %}
@@ -586,7 +585,7 @@ But this is just the *Free to Touch* section, so I guess I can’t take it back 
 
 Look at this, Sora-kun! Putting starfish on my chest gives me that sexy swimsuit look~☆
 
-What’cha think\~? Does this make li’l ol’ me pretty\~?[^2]
+What’cha think\~? Does this make li’l ol’ me pretty\~?[^3]
 {% endbubble %}
 
 {% bubble Sora %}
@@ -636,7 +635,7 @@ However, Hinata-kun is my beloved child, so I cannot allow you to take him.
 {% bubble Wataru %}
 Eh~? *You’re* the one who gets everything no matter where you go; you can let me have one of them at least!
 
-Ahhh, I’m ever so happy…! I’m beyond emotional right now! I’m this close to signing your entire body like <em>Hoichi the Earless…!</em>[^3] ☆
+Ahhh, I’m ever so happy…! I’m beyond emotional right now! I’m this close to signing your entire body like <em>Hoichi the Earless…!</em>[^4] ☆
 {% endbubble %}
 
 {% bubble Rei %}
@@ -714,7 +713,7 @@ It may mean that they need more hands on deck. What an interesting twist of fate
 {% endbubble %}
 
 {% bubble Sora %}
-Hands? If it’s hands you need, then these starfish have plenty![^4] Here you go, Rei-nii~san! ☆
+Hands? If it’s hands you need, then these starfish have plenty![^5] Here you go, Rei-nii~san! ☆
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -724,7 +723,7 @@ Ahahahaha!! What a wonderful joke! I expect nothing less from Natsume-kun’s fa
 {% bubble Sora %}
 HoHo~♪ Thank you! Sora must give his thanks when he’s complimented!
 
-Wataru-nii\~san, you’re Shisho\~’s master, so you would be *Grand-Shisho~!*[^5] Sora’s happy to be acknowledged by you\~♪
+Wataru-nii\~san, you’re Shisho\~’s master, so you would be *Grand-Shisho~!*[^6] Sora’s happy to be acknowledged by you\~♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -754,7 +753,8 @@ Woah, woah—! Do not drag me over by the hand…
 
 ## Translation Notes
 [^1]: Coelacanth are an extremely old species of fish.
-[^2]: Hinata uses *atai* (feminine pronoun for “I”).
-[^3]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it <a href="https://en.wikipedia.org/wiki/Hoichi_the_Earless" target="_blank">here</a>.
-[^4]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you <a href="https://twitter.com/seiginoakashi" target="_blank">Nanashi</a> for the localization!
-[^5]: Natsume calls Wataru *Shisho* (Master), similarly to how Sora calls Natsume *Shisho*. So combining both Shisho's would become *Dai-shisho* (Grand-shisho).
+[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Kung_Fu" target="_blank">Kung Fu</a>.
+[^3]: Hinata uses *atai* (feminine pronoun for “I”).
+[^4]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it <a href="https://en.wikipedia.org/wiki/Hoichi_the_Earless" target="_blank">here</a>.
+[^5]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you <a href="https://twitter.com/seiginoakashi" target="_blank">Nanashi</a> for the localization!
+[^6]: Natsume calls Wataru *Shisho\~* (Master), similarly to how Sora calls Natsume *Shisho\~*. So combining both Shisho\~'s would become *Dai-shisho\~* (Grand-shisho\~).
