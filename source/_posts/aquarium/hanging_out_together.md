@@ -570,6 +570,7 @@ Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides w
 
 {% bubble Hinata %}
 Ahh, that one’s really tasty. I think the old man from the Chinese restaurant used to make it often for me looong ago.
+<!-- attention kung fu -->
 
 Maybe I’ll take some home and cook it for dinner.
 {% endbubble %}
@@ -579,13 +580,13 @@ HaHa\~♪ Sea cucumbers aren’t typically sold around here, so if you took some
 {% endbubble %}
 
 {% bubble Hinata %}
-That’s true! He’d get his undies in a bunch from jealousy and say, *“You cheater, Aniki! You hung out with someone other than me, didn’t you!?”*
+That’s true! He’d get his undies in a bunch from jealousy and say, “You cheater, Aniki! You hung out with someone other than me, didn’t you!?”
 
 But this is just the *Free to Touch* section, so I guess I can’t take it back home anyway. I’ll put it back.
 
 Look at this, Sora-kun! Putting starfish on my chest gives me that sexy swimsuit look~☆
 
-What’cha think\~? Does this suit lil’ ol’ me\~?[^2]
+What’cha think\~? Does this make li’l ol’ me pretty\~?[^2]
 {% endbubble %}
 
 {% bubble Sora %}
@@ -599,7 +600,7 @@ Hellooo… Hinata-kun, you look like you are having fun. But you should not be f
 {% bubble Hinata %}
 Wahhhh—!?
 
-Oooh! So it was you, Sakuma-senpai! Hello! Pretty unusual to see you outside of school during the day~♪
+Oooh? So it was you, Sakuma-senpai! Hello! Pretty unusual to see you outside of school during the day~♪
 {% endbubble %}
 
 {% bubble Wataru %}
@@ -607,11 +608,13 @@ And I am here too! Your Hibiki Wataru is here… ☆
 {% endbubble %}
 
 {% bubble Hinata %}
-Ah! It’s Hibiki-senpai! Aaaahh, I’ve been a big fan of you since *Circus!* I really respect you! I’d love your signature!
+Ah! It’s Hibiki-senpai! Aaahh, I’ve been a big fan of you since *Circus!* I really respect you! I’d love your signature!
 {% endbubble %}
 
 {% bubble Wataru %}
-*Amazing!* I was expecting you to push me away for daring to talk to you like we’re friends, so this is quite the unexpected reaction!
+*Amazing!* I was expecting you to push me away for daring to talk to you like we’re friends, but!
+
+This is quite the unexpected reaction!
 
 *Fufufu!* Cute twin, you said you’d love my signature?
 
@@ -623,17 +626,17 @@ Ah— Wait! So it’ll disappear as soon as it gets wet!? I was playing around i
 {% endbubble %}
 
 {% bubble Rei %}
-*Kukuku.* Hibiki-kun is always immediately rejected by his underclassmen, so he is feeling bashful over someone gladly latching onto him for once.
+*Kukuku.* Hibiki-kun is typically immediately rejected by his underclassmen, so he is feeling bashful over someone gladly latching onto him for once.
 
 He is acting strangely, perhaps in his excitement.
 
-However, Hinata-kun is my beloved child, so I cannot let you take him.
+However, Hinata-kun is my beloved child, so I cannot allow you to take him.
 {% endbubble %}
 
 {% bubble Wataru %}
 Eh~? *You’re* the one who gets everything no matter where you go; you can let me have one of them at least!
 
-Ahhh, I’m ever so happy…! I’m beyond emotional right now! I’m this close to signing your entire body like *Hoichi the Earless…![^3] ☆*
+Ahhh, I’m ever so happy…! I’m beyond emotional right now! I’m this close to signing your entire body like <em>Hoichi the Earless…!</em>[^3] ☆
 {% endbubble %}
 
 {% bubble Rei %}
@@ -641,17 +644,17 @@ You always go to the extreme with anything you do… Is that not why you are con
 {% endbubble %}
 
 {% bubble Sora %}
-HuHu~ Sora will greet anyone he meets! Hello, Shisho’s nii-sans~♪
+HuHu\~ Sora will greet anyone he meets! Hello, Shisho~’s nii~sans\~♪
 {% endbubble %}
 
 {% bubble Rei %}
 Oh? You must be Sakasaki-kun’s child. Good day to you.
 
-Excellent job at your greeting~ Good boy, good boy~♪
+Excellent job at your greeting\~ Good boy, good boy\~♪
 {% endbubble %}
 
 {% bubble Sora %}
-HeHe~♪ This is all thanks to everything Shisho and Senpai have taught Sora!
+HeHe~♪ This is all thanks to everything Shisho~ and Senpai have taught Sora!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -681,7 +684,7 @@ Hibiki-kun and I are actually trying to find Shinkai-kun. Have you seen him anyw
 {% endbubble %}
 
 {% bubble Hinata %}
-Ah, you mean Shinkai-senpai, right?
+Ah, you're here for Shinkai-senpai?
 
 I can’t tell you exactly what’s going on with him, but apparently he and some others are going to have a live show at the dolphin area up ahead.
 {% endbubble %}
@@ -699,29 +702,29 @@ Oh? So you know where the standby room is… Are you also going to be participat
 {% endbubble %}
 
 {% bubble Hinata %}
-Heheh. Anzu-san *did* ask us if we wanted to be part of the show, too.
+Heh, Anzu-san *did* ask us if we wanted to be part of the show, too.
 
 But today is my day off, and Yuuta-kun isn’t here with me anyway, so I plan to enjoy it like any other person here will.
 {% endbubble %}
 
 {% bubble Rei %}
-O<em>ho</em>, so that’s what it is. If you were asked to participate in the show, then that must mean it is a spontaneous show that was not originally planned.
+O<em>ho</em>, so that’s what it is. If you were asked to participate in the show, then that must mean it is a spontaneous performance that was not originally planned.
 
 It may mean that they need more hands on deck. What an interesting twist of fate… Perhaps we should try and help out if there ever seems to be a problem.
 {% endbubble %}
 
 {% bubble Sora %}
-Hands? If it’s hands you need, then these starfish have plenty![^4] Here you go, Rei-niisan! ☆
+Hands? If it’s hands you need, then these starfish have plenty![^4] Here you go, Rei-nii~san! ☆
 {% endbubble %}
 
 {% bubble Wataru %}
-Ahahahaha!!! Wonderful joke! I expect nothing less from Natsume-kun’s favorite pupil! You have quite the sense of humor! ☆
+Ahahahaha!! What a wonderful joke! I expect nothing less from Natsume-kun’s favorite pupil! You have quite the sense of humor! ☆
 {% endbubble %}
 
 {% bubble Sora %}
 HoHo~♪ Thank you! Sora must give his thanks when he’s complimented!
 
-Wataru-niisan, you’re Shisho’s master, so you would be *Grand-Shisho!*[^5] Sora’s happy to be acknowledged by you~♪
+Wataru-nii\~san, you’re Shisho\~’s master, so you would be *Grand-Shisho~!*[^5] Sora’s happy to be acknowledged by you\~♪
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -731,7 +734,7 @@ I’ll show you the way! Over here, over here! C’mon, Sora-kun, let’s go tog
 {% endbubble %}
 
 {% bubble Sora %}
-Okay! Going there together is much more fun than doing it all alone~ HaHiHuHeHo~♪
+Okay! Going there together is much more fun than doing it all alone\~ HaHiHuHeHo\~♪
 {% endbubble %}
 
 {% bubble Rei %}
