@@ -110,7 +110,7 @@ rei, wataru… what are you doing here? the two of you together is very unusual~
 No, no, you should not be asking that. Is it not obvious that I dragged my old bones all the way here out of worry for you?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sad2 %}
 oh, i see… i really do [need] to [reflect] on the trouble i have caused.
 {% endbubble %}
 
@@ -294,7 +294,9 @@ But it feels like their eyes have a gentle feel to them… It is vaguely similar
 oh, really? well, i do suppose you would not be used to [seeing] them, since we cannot keep any in our [water tanks].
 
 that is exactly why we [need] this [aquarium].
+{% endbubble %}
 
+{% bubble Kanata sad3 %}
 i want to protect it. this time… i will definitely protect what is [important] to me. everything that has happened [this time] around is really [just] about [that].
 {% endbubble %}
 
@@ -334,21 +336,29 @@ People aren’t meant to put work above all else, y'know?
 Well, nowadays people can get rewarded for working hard, so I guess everyone has been putting their all into it.
 
 I mean, having your hard work recognized and accomplishing things can be nice, after all.
+{% endbubble %}
 
+{% bubble Kaoru frown %}
 But that’s why I think it’s risky, too… It’s really easy to get obsessed with the idea of working hard for satisfaction.
 
 Then you’ll get so addicted to it that you won’t be able to notice when your body can’t take it anymore, and you may end up in tatters before you know it.
 
 I would never want you to turn out that way.
+{% endbubble %}
 
+{% bubble Kaoru v2 %}
 ……Yep, I’m lecturing you like an elder.
 
 It *could* be nice for someone to live a short but fulfilling life, and it *could* satisfy them in the end… But everyone they leave behind wouldn’t be able to handle it. So take care of your health, and live as long as you can.
+{% endbubble %}
 
+{% bubble Kaoru sad %}
 It’s easy to forget this when we’re all living in this peaceful country, but… People really *do* die, y'know?
 
 Don’t die on us… Okay? You’re very important to everyone, Anzu-chan.
+{% endbubble %}
 
+{% bubble Kaoru awkward %}
 ……Ahaha, this isn’t the moment to talk so seriously… I mean, you’re wearing a T-shirt with dumb-looking octopuses and squids on it~♪
 
 I know you had to change your clothes after getting drenched, but out of all the shirts in the shop, why did you choose that one? There were plenty of other ones, weren’t there?
@@ -374,7 +384,9 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! You look ad
 <th>(She’s probably been really busy lately and making mistakes as she gets more and more tired… I’m guessing that’s what ended up making her cry…)</th>
 
 <th>(But y'know, I really do want good-natured people to always be smiling.)</th>
+{% endbubble %}
 
+{% bubble Kaoru smile2 %}
 <th>(…Mom, I'll be a good kid too, so could I also smile and laugh more?)</th>
 {% endbubble %}
 
@@ -456,7 +468,7 @@ and since souma is a [good boy], he cannot be [cold-hearted] to someone who trea
 Ohh, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the strange kids.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown2 %}
 it is because that [rogue] has always liked [old-fashioned] things, and souma likely [excites] him for that reason.
 {% endbubble %}
 
@@ -464,7 +476,7 @@ it is because that [rogue] has always liked [old-fashioned] things, and souma li
 Makes sense, since he’s a samurai of the old ages~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two *that* close?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata thinking %}
 hm… his father is a high-ranking [police] officer, you see. so his father would often come to my [house] for [inspection].
 
 so, well… i would see him often as well. it has been like that since long ago.
@@ -502,7 +514,7 @@ But Kanata-san’s household is an unusual case, so I used eeevery card in my ha
 
 {% img /img/es/eventstory/aquarium/dream3_3.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh3 %}
 is it really that [unusual]…? i *did* [understand] the fact that i am [different] from others.
 
 but to me, this was always the [norm].
@@ -540,7 +552,7 @@ So this place holds a looot of important memories to me, as well. If it goes ban
 Hm, it is going to go bankrupt? What a shame. Even though it seems to be prospering so well right now.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sad %}
 ah, no. it seems like it will be [bought] by some [company]. but that company does not have a very good [reputation].
 
 so i became [anxious] about whether the fish would be [taken care] of properly or not…
@@ -564,7 +576,7 @@ like [buying] the tickets with my own [money], and handing them out to people.
 Ahh, I finally understand the reason behind those strange things you were doing, Buchou-dono. However, is it not futile to try and do it with only your power?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata idle %}
 you are right. my household also sympathized with how i [feel]…
 
 and we made it an [objective] to work hard, and not let go of the [aquarium].
@@ -574,7 +586,7 @@ and we made it an [objective] to work hard, and not let go of the [aquarium].
 They’re softer on you than one would expect. Throwing a tantrum uuusually doesn’t get things through, y’know?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile2 %}
 yes, it is because i am a very, very important [living god]. people would [yield] to me in most cases.
 
 well, it is also thanks to the [pressure] you put on them, though. in this [time period], the god’s [position] is [weak].
@@ -588,11 +600,13 @@ Mm… I do think I was a bit rash, but your wish was for this aquarium to stay a
 Then I wanna support that with all I’ve got, as your friend.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata angry2 %}
 you went too far with that [support], mama.
 
 it is the god’s [duty] to [heal] and [protect] everyone. he [cannot] cause [trouble] to them like this.
+{% endbubble %}
 
+{% bubble Kanata sigh3 %}
 it is too late to say “i think i’ll quit after all” now, anyway… so i will push through with [it].
 
 i have to make sure i never say anything [selfish] ever again.
@@ -606,7 +620,7 @@ Thaaat just shows how much everyone cherishes you, Kanata-san.
 Not because you’re a god… It’s because you’re *you* that everyone wanted to help you.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata curious %}
 huh… this is all strange to me… i have never even gotten [involved] with anyone in my whole life…
 {% endbubble %}
 
@@ -618,13 +632,13 @@ All that I ask is that you consult me about it much sooner. You are being a litt
 It takes a lot of energy to undo a problem after it has already gotten so complicated.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh2 %}
 i am so sorry, souma. i am sorry to you too, kaoru, and to everyone else…
 
 i have never been [selfish] before, until now. so i am not really good at it.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru awkward %}
 Yeah, the way you were acting for this case is like a spoiled kid whining and demanding that things go their way.
 
 Ahaha, it’s pretty much just like a baby going against their parents for the first time.
@@ -632,13 +646,15 @@ Ahaha, it’s pretty much just like a baby going against their parents for the f
 
 {% img /img/es/eventstory/aquarium/dream4_1.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sad %}
 yes… but this is a strange feeling. i had always [restrained] myself up until this point. it is almost always [peaceful] as long as i [restrain] myself.
 
 but in yumenosaki academy, everyone is trying to make their own [dreams] come true with [everything] they have.
 
 even if it was their own selfish desires… that is why i wanted to do the [same].
+{% endbubble %}
 
+{% bubble Kanata awkward %}
 i am not used to it, and so i cannot do it properly. but this time, i followed how i [feel] to the very [end]…
 
 and it feels like things will work out someway or another, so i am a bit [happy].
@@ -646,13 +662,17 @@ and it feels like things will work out someway or another, so i am a bit [happy]
 if it were still me from the past, then after getting locked up in the [water tank] as [punishment]—
 
 and cooling my head down with some [thinking]… i would have just thought it did not [matter] anymore.
+{% endbubble %}
 
+{% bubble Kanata frown2 %}
 my household also probably thought that by [punishing] me, i would [regret] my actions, and be a [good boy].
 
 and actually, when i was [all alone] inside that water tank…
 
 i did start [thinking] about how silly i was acting, and i thought of giving up altogether…
+{% endbubble %}
 
+{% bubble Kanata smile2 %}
 but then everyone came here for me. and then you [helped] me to the best that you could.
 
 without ever [rejecting] me, you supported and aided me.
@@ -662,7 +682,9 @@ it made me so happy. that is why i will not [restrain] myself this time.
 even if it is something [embarrassing] and childishly [selfish], i will make my own [dream] come true.
 
 just like what everyone else is doing.
+{% endbubble %}
 
+{% bubble Kanata smile3 %}
 because i am no longer a [god]… i was able to become the same [human being] as everyone else.
 {% endbubble %}
 

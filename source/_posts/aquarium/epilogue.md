@@ -243,19 +243,25 @@ If the real thing’s still too scary for you, then pet this stuffed toy version
 Here, here! ♪ The real dolphin’s even softer, y'know! Dolphins raise their own offspring through milk like us, after all! That makes them our friends!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata idle %}
 <th>(whew… the rogue gave us a chance to [rest] at a good [timing].)</th>
 
 <th>(we would only end up getting tired if we kept singing and dancing.)</th>
 
 <th>(not only us, but the [dolphins], too.)</th>
+{% endbubble %}
 
+{% bubble Kanata curious %}
 <th>(he is not like how he was in the past… he has become much more [mindful] with people.)</th>
 
 <th>(he is still just as pushy as he has always been, though.)</th>
+{% endbubble %}
 
+{% bubble Kanata frown2 %}
 <th>(like how he was this time… i did not even ask him to, yet he came all the way over to [help] me… gosh, he is so strange.)</th>
+{% endbubble %}
 
+{% bubble Kanata sad2 %}
 <th>(i have always [treated] him so horribly, too…)</th>
 
 <th>(i have never once [given] anything back to him, so why is he always this [nice] to me?)</th>
@@ -467,7 +473,7 @@ So your most important duty in aaall of this is to meet that need. That would do
 We have long lives ahead of us, so you can take your time thinking about what to do after this.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown2 %}
 acting like you know any better… just how long do you plan to [meddle] with my affairs like you are my [guardian]?
 
 well… i suppose i can [understand] what you are trying to say. i am sorry that things always end up this way… mama.
@@ -479,7 +485,7 @@ Oh, c’mooon~ All I want is for you to blast through trivial problems such as t
 I think Chiaki-san is gonna get a really bad stomachache from worry if things don’t get settled soon.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata idle %}
 …so chiaki really was [worried] about this?
 {% endbubble %}
 
@@ -493,7 +499,7 @@ He could be the most brilliant hero ever, but he would still be unable to do any
 The hardest thing for him is probably when he can only sit by and watch what happens.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown %}
 yes, i know… i do hope for a day when i can [tell] him all about it…
 
 but it is still too difficult to do that right now. ryuseitai is finally [shining] in the [ideal] way chiaki has dreamed of.
@@ -501,7 +507,9 @@ but it is still too difficult to do that right now. ryuseitai is finally [shinin
 things are looking very [good] for ryuseitai right now.
 
 so i would feel [terrible] if that [radiance] clouds over because of me.
+{% endbubble %}
 
+{% bubble Kanata smile3 %}
 but someday… when that day comes… i will shout out “save me, hero!” from the bottom of my heart.
 
 when that happens, i am sure that chiaki would [gladly] come rushing for me.
@@ -521,7 +529,7 @@ That’s so cold~ Did you hear that, Souma-kun? Kanata-kun said Ryuseitai is the
 What? Buchou-dono~ What are we lacking? I am ashamed of myself — If there is anything you would like us to change, then please tell me!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata worried %}
 t-that is not what i said! you [bully], kaoru~
 {% endbubble %}
 

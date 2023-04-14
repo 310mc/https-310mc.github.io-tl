@@ -244,7 +244,7 @@ that is how it is. after all, i am also [human]. i have to walk on my [feet] and
 <em><th>(breathe in, breathe out)</th>…</em> the air is [tasty], so i do find being outside [enjoyable].
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru serious %}
 ……………
 {% endbubble %}
 
@@ -258,7 +258,7 @@ i wonder if they cannot taste the tastiness of the air. if that is true, then i 
 now i am curious~ what do you think, kaoru?
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru serious %}
 Kanata-kun.
 {% endbubble %}
 
@@ -266,15 +266,17 @@ Kanata-kun.
 yes, what is it, kaoru?
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru angry %}
 Quit talking about weird things without a care in the world\~! You should apologize for making us all worried first\~!!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-unini!? kaoru! please [do not] pinch my cheeks~!
+{% bubble Kanata worried %}
+unini\~!? kaoru! please [do not] pinch my cheeks\~!
 
 uuu… how cruel, i thought kaoru was a [kind boy]. please do not [hurt] me, i can feel [pain], too.
+{% endbubble %}
 
+{% bubble Kanata v2 %}
 ah! there is a [theory] that fish do not feel [pain]…
 
 it is [said] that if you [cut] a fish properly, it will continue to [swim] just with its [bones].
@@ -286,29 +288,33 @@ i have never seen a [fish] like that before…
 actually, if they were only [bones], then they would not have [meat] or [fins], so they should not be able to swim… right?
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru frown %}
 Kanata-kun. I think you’re just trying really hard to avoid the subject, but if you’re actually being *this* thickheaded, then even my chill side will snap a nerve…
 
 Seriously, we were all worried for you.
 
 Morisawa-kun, Souma-kun, Anzu-chan… and me too, of course. I sacrificed a precious holiday for you.
+{% endbubble %}
 
+{% bubble Kaoru smile %}
 It’s not my style to be nice and considerate whenever and wherever, y'know?
 
 So if you don’t feel even a little bad for making us all worry, then I may just get real angry.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata worried %}
 uuu… kaoru, you may be smiling, but your [eyes] are completely [serious]…
 
 it is scary. i [really] do feel [bad] for making you all worry.
+{% endbubble %}
 
+{% bubble Kanata sad2 %}
 but this is my [problem]. i will be okay. you do not have to poke your nose in my [problem].
 
 i do not want to ruin [everyone’s] peaceful lives with my [problems].
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru serious %}
 Listen… You don’t live on some far away island surrounded only by ocean. If you just live your life like anyone normally would, you’ll end up causing trouble to other people.
 
 And that’s nothing to be embarrassed about at all.
@@ -326,7 +332,9 @@ You have to understand that, and then adapt to the changes. You’re not a coela
 I’m trying to do that, too. I’ve been trying to act as a big brother to the rascals in my unit.
 
 If I can do it, then so can you. We’re similar after all, right? We’re both part of the Marine Life Club — Both of us gathered to the water, captivated by the ocean.
+{% endbubble %}
 
+{% bubble Kaoru v2 %}
 Also, in hard times, I’d want to depend on someone.
 
 Even if it was a bother to them. After all, if I don’t get a nice fresh filling of love, I’ll dry up and die.
@@ -342,11 +350,11 @@ That’d made me look like an idiot, wouldn’t it? Like someone who’s just go
 I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata curious %}
 kaoru… are you *really* [sexy]?
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru hmph %}
 Shut up! Jeez! You’re so annoying!
 
 I shouldn’t have tried! I should’ve just had a nice date with a girl! I wasted my holiday for nothing!
@@ -354,11 +362,11 @@ I shouldn’t have tried! I should’ve just had a nice date with a girl! I wast
 Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown %}
 …if you pull this off, i will [die]. please do not.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru surprised %}
 Huh!? That’s how it works!? You cryptic creature!
 {% endbubble %}
 
@@ -368,7 +376,7 @@ fufufu, i am only [joking]…
 i am sorry for making you talk about something so [serious], even though it is out of your character… i completely [understood] what you said.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru sideeye %}
 Hmph. I ended up getting separated from the people who could *properly* talk seriously with you, alright?
 
 So I had to be the one to say it. You would’ve gotten away if I didn’t deal with you the moment I found you.
@@ -388,19 +396,19 @@ We work as idols, after all. So at the very least, we have to properly go throug
 
 ## Chapter 3
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh2 %}
 *sigh…* i am not one to [think] of being an idol as [work].
 
 kaoru, you surprisingly have your [head] on your shoulders.
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru frown %}
 I hate to say this, but I'm not a genius like you are, so I have to be mindful of a lot of things, Kanata-kun.
 
 That’s what you call “swimming the current of life”. You'll only make everyone's life harder if you don't note of it, as well.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile2 %}
 okay. i will not forget these [memories] with everyone… never ever.
 {% endbubble %}
 
@@ -456,7 +464,7 @@ Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for
 
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown %}
 ahh, i thought so… hey! stop giving [food] to the [dolphins] as you please, okay?
 {% endbubble %}
 
@@ -466,7 +474,7 @@ Ooh? I was wondering who that was! So it’s you, Kanata-san! I missed youuu!
 Come, come, come! I’ll give you some of their food too~♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata frown2 %}
 hmm… i love [fish], but if i were to eat it [raw], it would hurt my [stomach].
 
 you need to at least prepare it and make it into [sashimi] first.
@@ -482,7 +490,7 @@ Buuut I don’t have a kitchen knife right now, so maaaybe I could use the dolph
 Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is it someone you know?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh2 %}
 *sigh*… just some [rogue].
 {% endbubble %}
 
@@ -512,7 +520,7 @@ So I thought maybe someone did something elsewhere.
 And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close, right?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata hmph %}
 no. *that* has [nothing] to do with [me].
 {% endbubble %}
 
@@ -536,7 +544,7 @@ I’ll tell you now; I have permission to do this *aaand* I’m qualified enough
 I can do aaany and aaall jobs swiftly. I plan to clean the water tanks next~♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata angry2 %}
 doing such unnecessary things… no one asked for it, okay?
 
 if i were to just [restrain] myself, it would have all worked out peacefully.
@@ -643,7 +651,7 @@ You always go to the extreme with anything you do… Is that not why you are con
 {% endbubble %}
 
 {% bubble Sora %}
-HuHu\~ Sora will greet anyone he meets! Hello, Shisho~’s nii~sans\~♪
+HuHu\~ Sora will greet anyone he meets! Hello, Shisho\~’s nii~sans\~♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -653,7 +661,7 @@ Excellent job at your greeting\~ Good boy, good boy\~♪
 {% endbubble %}
 
 {% bubble Sora %}
-HeHe~♪ This is all thanks to everything Shisho~ and Senpai have taught Sora!
+HeHe\~♪ This is all thanks to everything Shisho\~ and Senpai have taught Sora!
 {% endbubble %}
 
 {% bubble Rei %}
@@ -723,7 +731,7 @@ Ahahahaha!! What a wonderful joke! I expect nothing less from Natsume-kun’s fa
 {% bubble Sora %}
 HoHo~♪ Thank you! Sora must give his thanks when he’s complimented!
 
-Wataru-nii\~san, you’re Shisho\~’s master, so you would be *Grand-Shisho~!*[^6] Sora’s happy to be acknowledged by you\~♪
+Wataru-nii\~san, you’re Shisho\~’s master, so you would be *Grand-Shisho\~!*[^6] Sora’s happy to be acknowledged by you\~♪
 {% endbubble %}
 
 {% bubble Hinata %}
