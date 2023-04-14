@@ -501,7 +501,7 @@ i sacrificed something [important] to me so as to live on the [land]… it is ju
 {% endbubble %}
 
 {% bubble Kaoru %}
-Okay yeah, you do look like a “little mermaid” resting on top of a rock right now, but! What're you doing!? We were looking for you 'cause of how worried we were!
+Okay yeah, you do look like a “little mermaid” princess resting on top of a rock right now, but! What're you doing!? We were looking for you 'cause of how worried we were!
 
 Yet all this time you were over here, just acting all weird like it's completely normal!
 {% endbubble %}
@@ -559,7 +559,7 @@ now i am truly in trouble. but their [side] of the story is also correct, so rig
 
 for now, i am going through with the [punishment]. they will listen to my [selfish requests] afterwards.
 
-so if you can, please do not try to [interfere], kaoru.
+so if you can, please try not to [interfere], kaoru.
 {% endbubble %}
 
 ## Chapter 4

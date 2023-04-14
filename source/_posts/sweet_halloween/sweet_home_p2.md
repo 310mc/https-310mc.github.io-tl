@@ -296,7 +296,7 @@ N-no? Nope, none at all! Quite the opposite! It’s wonderful how you’re all p
 
 But you know, no one will scold you if you choose to play around and chat with each other instead! It’s your free time, after all!
 
-Why, Kanata went off to feed the fish in the fish tanks instead of hanging out with us! You know, those fish tanks in the Marine Life club room…! Yeah, those!!
+Why, Kanata went off to feed the fish in the fish tanks instead of hanging out with us! You know, those fish tanks in the Marine Life Club room…! Yeah, those!!
 {% endbubble %}
 
 {% bubble Hajime %}

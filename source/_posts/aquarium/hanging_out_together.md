@@ -133,7 +133,7 @@ I had thought you were a problem child since you have often opposed school rules
 {% bubble Hinata %}
 Heh, learning about another side to someone is one of the many charms about hanging out with people on a holiday.
 
-Hey, Kanzaki-senpai~? Do me a favor and tell the vice president to shorten down his lectures from now on, as thanks for being nice to you~♪
+Hey, Kanzaki-senpai\~? Do me a favor and tell the vice president to shorten down his lectures from now on, as thanks for being nice to you\~♪
 {% endbubble %}
 
 {% bubble Souma %}
@@ -651,7 +651,7 @@ You always go to the extreme with anything you do… Is that not why you are con
 {% endbubble %}
 
 {% bubble Sora %}
-HuHu\~ Sora will greet anyone he meets! Hello, Shisho\~’s nii~sans\~♪
+HuHu\~ Sora will greet anyone he meets! Hello, Shisho\~’s nii\~sans\~♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -721,7 +721,7 @@ It may mean that they need more hands on deck. What an interesting twist of fate
 {% endbubble %}
 
 {% bubble Sora %}
-Hands? If it’s hands you need, then these starfish have plenty![^5] Here you go, Rei-nii~san! ☆
+Hands? If it’s hands you need, then these starfish have plenty![^5] Here you go, Rei-nii\~san! ☆
 {% endbubble %}
 
 {% bubble Wataru %}

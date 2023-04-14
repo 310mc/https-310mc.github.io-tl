@@ -189,7 +189,7 @@ Uhh, you just said that so casually, y'know!? Please don't do anything~ Aren’t
 {% endbubble %}
 
 {% bubble Souma %}
-I have never once thought of you as a *“pal”*… You are the disgrace of the Marine Life club.
+I have never once thought of you as a *“pal”*… You are the disgrace of the Marine Life Club.
 {% endbubble %}
 
 ## Chapter 2
@@ -386,7 +386,7 @@ The fact that you think “if I ever plan to do something” is already a sin it
 {% endbubble %}
 
 {% bubble Kaoru %}
-Haha. You probably don't realize it, but you just said some really brutal thing to me…
+Haha. You probably don't realize it, but you just said something really brutal to me…
 
 But I'm not joking around here. It really is my goal to find Kanata-kun, so… wouldn't it be a better tactic if we were to split up and try to find him separately while keeping in contact?
 {% endbubble %}
@@ -528,7 +528,7 @@ It does not sound like a joke when you say it, Mikejima-kun. One would normally 
 {% bubble Madara %}
 Oh, you’re right! I apologize! But it’s reaaally rare for you to ask me for a favor! I couldn’t help but get all excited about it!
 
-I’m sooo happy~! This is suuuch an honor\~!! It’s a festivaaal\~!! Hahahaha!! ☆
+I’m sooo happy\~! This is suuuch an honor\~!! It’s a festivaaal\~!! Hahahaha!! ☆
 {% endbubble %}
 
 {% bubble Rei %}
