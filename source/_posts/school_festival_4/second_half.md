@@ -88,6 +88,8 @@ The running grounds is also clear!
 Heheh, walkie-talkies are so convenient~♪ This is fun, it’s kinda like we’re in an undercover investigation…☆
 {% endbubble %}
 
+{% img /img/es/eventstory/schoolfestival4/7_2.jpg %}
+
 {% bubble Tetora %}
 Yo, yo. Lady, why don’t ya come over with me a li’l?
 {% endbubble %}
@@ -142,7 +144,7 @@ Guuuh\~!! That was just like a delinquent! Studying all those mangas with delinq
 …………
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya hidden %}
 UAAAHHHH—!?
 {% endbubble %}
 
@@ -163,6 +165,8 @@ I’m not a pervert, I’m your stepmother.
 
 *Fufufu!* It may have arrived late, but Cinderella had her own rebellious stage, after all~ How wonderful! Tonight we’ll be having red bean rice to celebrate…☆
 {% endbubble %}
+
+{% img /img/es/eventstory/schoolfestival4/7_3.jpg %}
 
 {% bubble Tomoya %}
 I told you not to come any closer—!! It’s grooooooss~!!
@@ -254,6 +258,8 @@ Excuse me! Please, let us pass through!
 Thank you very much…☆ Are you alright, Takamine? You look exhausted. Go and take a rest on that chair!
 {% endbubble %}
 
+{% img /img/es/eventstory/schoolfestival4/8_2.jpg %}
+
 {% bubble Midori %}
 M-Morisawa-senpai…? And Nagumo-kun came back, too…
 
@@ -277,6 +283,8 @@ You can’t give up now! If you’re a man, then you gotta show all your guts an
 {% bubble Kanata v2 %}
 i am back~♪
 {% endbubble %}
+
+{% img /img/es/eventstory/schoolfestival4/8_3.jpg %}
 
 {% bubble Chiaki %}
 Kanata! Just where were you?
@@ -386,8 +394,10 @@ Ah! Welcome! Two cotton candy, pineapple juice and orange juice for you, right?
 We have a new order. Sengoku-kun, please prepare the cotton candy!
 {% endbubble %}
 
+{% img /img/es/eventstory/schoolfestival4/9_3.jpg %}
+
 {% bubble Shinobu %}
-Understood! Heheh, I can prepare the food, while you handle serving the customers. I am truly thankful that you’re being considerate towards me, since I’m shy with strangers.
+Understood! Heh, I can prepare the food, while you handle serving the customers. I am truly thankful that you’re being considerate towards me, since I’m shy with strangers.
 {% endbubble %}
 
 {% bubble Tetora %}

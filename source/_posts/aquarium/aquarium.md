@@ -198,6 +198,19 @@ permalink: aquarium/
                         </div>
                     </div>
                 </div>
+                <div class="comment-area">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Writer's Comment</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-item">
+                            In Enstars, if the heroes are Ryuseitai, then the anti-hero would be Madara-san. (The Student Council President would also be similar to that, but I personally prefer calling him "Dark Hero").<!--［アクアリウム］シナリオを担当しています。あんスタにおけるヒーローが『流星隊』なら、アンチヒーローが斑さんです（生徒会長も同じ区分ですが、個人的にはダークヒーローって呼びたい）。-->
+                            <div class="source">
+                                <a href="https://twitter.com/HiHiHiakira/status/911941906258567168">Akira [@HiHiHiakira]. September 24, 2017.</a>
+                            </div>
+                        </div>                       
+                    </div>
+                </div>
                 <div class="cg-gallery">
                     <div class="tab-header">
                         <div class="tab-header__name">CG Gallery</div>

@@ -56,18 +56,6 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
-                alt="Aquarium"
-            />
-        </div>
-        <a href="" class="storyName" target="_blank">
-            <span>Aquarium</span>
-            <span class="read"></span>
-        </a>
-    </div>
     <!--<div class="story">
         <div class="image">
             <img
@@ -87,9 +75,9 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="School Festival 4"
             />
         </div>
-        <a href="" class="storyName" target="_blank">
+        <a href="/school_festival_4" class="storyName" target="_blank">
             <span>School Festival 4</span>
-            <span class="read soon"></span>
+            <span class="read"></span>
         </a>
     </div>
     <!--<div class="story">

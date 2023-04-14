@@ -766,6 +766,8 @@ Yeah, he’s busy with a bunch of stuff, after all. I couldn’t bear to ask him
 Same with the transfer student… I was really unsure of what to do at first, so this really saved us!
 {% endbubble %}
 
+{% img /img/es/eventstory/schoolfestival4/5_3.jpg %}
+
 {% bubble Kanata v2 %}
 <em><th>(sniff, sniff)</th></em>… i smell [fish]\~♪ excuse me while i go buy some\~♪
 {% endbubble %}
@@ -773,6 +775,8 @@ Same with the transfer student… I was really unsure of what to do at first, so
 {% bubble Chiaki %}
 Wait, wait! Don’t go off on your own until breaktime, please!
 {% endbubble %}
+
+{% img /img/es/eventstory/schoolfestival4/5_4.jpg %}
 
 {% bubble Midori %}
 …………
@@ -805,7 +809,7 @@ Right, and we’re off! We’ll protect Yumenosaki Academy’s peace…♪
 
 <th>(Ughhh, they all left… And now I’m all alone with Shinkai-senpai…)</th>
 
-<th>(Mmmm… I don’t get anything he does…)</th>
+<th>(Mmm… I don’t get anything he does…)</th>
 
 <th>(He’s been humming some “splish-splash yip-yay~♪” song, so I seriously don’t have a single clue about what he’s thinking…)</th>
 
@@ -900,6 +904,8 @@ Garden Terrace, all clear. I shall proceed onwards to the next area!
 <th>(Ah! That looks like transfer student-dono! Alright! Time to say hello~♪)</th>
 {% endbubble %}
 
+{% img /img/es/eventstory/schoolfestival4/6_2.jpg %}
+
 {% bubble Kaoru %}
 Yoohoo yoohoo, transfer student-chan! What’s up~? Why’re you here?
 
@@ -913,7 +919,7 @@ I purposely stepped away from that area, and now I got to meet you… I’m so l
 {% endbubble %}
 
 {% bubble Shinobu %}
-<th>(Hmmm, someone did it before I could. That person is acting strangely friendly with her…)</th>
+<th>(Hmm, someone did it before I could. That person is acting strangely friendly with her…)</th>
 
 <th>(It feels as if transfer student-dono is not sure what to do with him, either. Should I go in there and help her?)</th>
 {% endbubble %}
