@@ -7,7 +7,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable. However, Subaru becomes upset with the first years for not knowing what to do…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">

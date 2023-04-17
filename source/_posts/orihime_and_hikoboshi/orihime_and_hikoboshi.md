@@ -6,12 +6,12 @@ categories:
 - [Enstars, Ryuseitai]
 - [Enstars, Trickstar]
 - [Enstars, Basketball Club]
+- [Enstars, Ninja Association]
 tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable. However, Subaru becomes upset with the first years for not knowing what to do…"
 permalink: orihime_and_hikoboshi/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -25,7 +25,7 @@ permalink: orihime_and_hikoboshi/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable during practice. However, once they start practicing, Subaru becomes upset with the first years for not knowing what to do…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -119,7 +119,7 @@ permalink: orihime_and_hikoboshi/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable during practice. However, once they start practicing, Subaru becomes upset with the first years for not knowing what to do…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -298,8 +298,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Mao Isara</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Tanabata Play] Mao Isara</div>
+                                    <div class="card__jp">[七夕の遊戯] 衣更 真緒</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -330,8 +330,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Tanabata Declaration] Shinobu Sengoku</div>
+                                    <div class="card__jp">[七夕の宣言] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -362,8 +362,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Tanabata Awakening] Midori Takamine</div>
+                                    <div class="card__jp">[七夕の奮起] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -394,8 +394,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Subaru Akehoshi</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Tanabata Anticipation] Subaru Akehoshi</div>
+                                    <div class="card__jp">[七夕の期待] 明星 スバル</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -426,8 +426,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Hokuto Hidaka</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Tanabata Command] Hokuto Hidaka</div>
+                                    <div class="card__jp">[七夕の指揮] 氷鷹 北斗</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -458,8 +458,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Makoto Yuuki</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Tanabata Opinion] Makoto Yuuki</div>
+                                    <div class="card__jp">[七夕の見解] 遊木 真</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -490,8 +490,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[Tanabata Season] Chiaki Morisawa</div>
+                                    <div class="card__jp">[七夕の時節] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -522,8 +522,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Tanabata Study] Tetora Nagumo</div>
+                                    <div class="card__jp">[七夕の勉強] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -554,8 +554,8 @@ permalink: orihime_and_hikoboshi/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Tanabata Star] Kanata Shinkai</div>
+                                    <div class="card__jp">[たなばたのほし] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
