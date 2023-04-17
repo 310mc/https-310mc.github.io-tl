@@ -636,3 +636,19 @@ permalink: orihime_and_hikoboshi/
         </div>
     </div>
 </div>
+
+## Translation Notes
+
+This event is heavily influenced by the concept of Chinese martial arts. Makoto mentions that he incorporated “Kung-fu” dance moves for Trickstar’s Tanabata performance and Ryuseitai was influenced in the process, so here is more information about it:
+
+* Tanabata was inspired by Qixi Festival, a Chinese festival celebrating the annual meeting of the cowherd (Hikoboshi) and weaver girl (Orihime) in mythology.
+
+* Trickstar is most likely referencing from Wushu (Chinese kung fu). Since Ryuseitai ended up choosing a similar concept to Trickstar, they’re also referencing from Wushu.
+
+* *Taolu* is the set routines, or “forms”, of Wushu. There are routines performed bare-handed, and routines performed with weaponry.
+
+* In this case, Trickstar and Ryuseitai chose a weaponry-based *taolu*: Gunshu (long staff), and *Jianshu* (double-edged straight sword) respectively. Both of these styles consist of agile, quick movements, and require flexibility.
+
+* Video of an athlete performing *gunshu*: <a href="https://www.youtube.com/watch?v=QqwJ8Cni-Lc" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=-HsxeMvVBms" target="_blank">No.2</a> (Both videos portray Mao and Subaru's poses) – Video of an athlete performing *jianshu*: <a href="https://www.youtube.com/watch?v=Guls7Q3EBQY" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=jOcsu3VJSrI" target="_blank">No.2</a> (second video portrays Midori's pose)
+
+* Shinobu’s pose is the <a href="https://www.google.com/search?q=flying+kung+fu+kick&sxsrf=APwXEdfCYOXkdgZMG1202pt-xJUPHDyTzg:1681747015624&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKjt_ro7H-AhX-87sIHT5LBf4Q_AUoAXoECAEQAw&biw=675&bih=640" target="_blank">flying kung fu kick</a> (a kick Bruce Lee often does). Kenpo, the martial arts Tetora adds to Ryuseitai's performance, also has this kicking style.

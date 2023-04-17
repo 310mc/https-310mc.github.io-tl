@@ -424,7 +424,7 @@ Ahaha, you’re making an OK sign; guess that means it’s all good?
 
 You gotta tell me properly~ There's tanzaku and leaves all around me, so I can't see you well, y’know~?
 
-I love your voice. I feel at ease when I hear it. You don’t talk much, but when you do, it feels like you say lots of meaningful things.
+I love your voice. I feel at ease when I hear it. You don’t talk much, but when you do, it feels like you say a lot of meaningful things.
 
 I don't wanna miss out on anything you say, so talk to me in a clear voice. It’ll make me happy.
 
@@ -434,9 +434,9 @@ Alright, alright~ Back in spring, you used to get nervous whenever you tried to 
 
 That just means you’re growing up, too. Mhm, you’re now like a confident, reliable mom~♪
 
-Woah woah—!! Don’t shake the step ladder!! Oh no, no, no—!! I’m sorry, I’m sorry!
+Woah, woah—!! Don’t shake the step ladder!! Oh no, no, no, this is terrifying—!! I’m sorry, I’m sorry!
 
-Please don’t be angry, Anzu-san!! You don’t speak when you’re mad, so it’s even more terrifying, y’know!?
+I beg you, please don’t be angry, ma'am!! You don’t speak when you’re mad, so it’s even more terrifying, y’know!?
 
 L-Let’s calm down now! You can’t hurt an idol right before their performance — You’d fail as a producer if you did that, wouldn’t you?
 
@@ -448,7 +448,7 @@ S-Sorry for teasing you! I shouldn’t crack jokes with you as if I’m talking 
 
 Ughh, I wanna prostrate and apologize to you, but I can’t! I’m still on top of the ladder!
 
-…Huh? You’re going to be okay? You sure~?
+…Huh? You’re gonna be okay? You sure~?
 
 Don’t push yourself so hard… You don’t have to hold it in. If there’s something you wanna say, go ahead and say it. I’m kinda dense, so… I’ll only get it if you tell me.
 
@@ -456,11 +456,11 @@ Hm… “I really might fail as a producer”? Why do you say that?
 
 You’re amazing, y’know? You properly managed a DreamFes this huge.
 
-I bet it’ll be a success, beyond everyone’s imagination. Even this event’s client’ll love it.
+I bet it’ll be a success, beyond everyone’s imagination, including the client's.
 
 The performances haven’t even started yet, but there’s already so many people bustling around the place. This is the first time it’s ever been this busy, y’know? This is all thanks to *you* and *your* accomplishments.
 
-You’re amazing, Anzu. It’s admirable. No one thinks of you as an *“amateur producer”* anymore.
+You’re amazing, Anzu. It’s admirable. No one thinks of you as an “amateur producer” anymore.
 
 They acknowledge you as a respectable person, who can guide us all.
 
@@ -468,21 +468,21 @@ So c’mon, don’t make that face. Don’t talk about yourself that way. Be mor
 
 …Anzu? Uh!? Are you crying for real now!?
 
-H-Hold on, I’ll climb down right now! Just gimme a sec—Woah—!!
+H-Hold on, I’ll climb down right now! Just gimme a sec— Woah—!!
 
-<th>(Crap, no!! I rushed too much — I’m losing my balance! I’m gonna fall…!)</th>
+<th>(Crap, no—!! I rushed too much — I’m losing my balance! I’m gonna fall…!)</th>
 
-<th>(Ahh, no, you—! She leaped forward — Is she trying to catch me so I won’t get hurt…?)</th>
+<th>(Ahh, no, you—! She leaped forward — Is she trying to catch me so I won’t get hurt…!?)</th>
 
 <th>(No, I’m okay! I can land just fine, so back away!)</th>
 
 <th>(—Ack!! I’m gonna crash into her!!)</th>
 
-…Gffh—! S-Sorry, Anzu! I’ll get off you immediately!
+…Gffh—! S-Sorry, Anzu! I’ll get off of you immediately!
 
 <th>(Woah… Was a girl’s body always this warm and soft…)</th>
 
-<th>(Wait—This isn’t the time to be fascinated by this.)</th>
+<th>(Wait— This isn’t the time to be fascinated by this.)</th>
 
 <th>(I hear footsteps—!! Oh no, this is *really* bad! If someone saw us like this—)</th>
 {% endbubble %}
@@ -518,7 +518,7 @@ C’mon, Anzu! Don't laugh! Tell them the truth!!
 
 <th>(…Huh? I thought she was crying, but she’s actually smiling? Was I just imagining her cry…?)</th>
 
-<th>(……?)</th>
+<th>(………?)</th>
 {% endbubble %}
 
 ## Chapter 4
@@ -536,11 +536,11 @@ Oooh, there it is! Sally~'s specialty! The most magnificent prostration we’ve 
 {% bubble Makoto %}
 Heheh. You can pretty much tell it was an accident, anyway. The step ladder’s tipped over.
 
-But someone could’ve seen this… Both of you could’ve gotten hurt, so be more careful, okay?
+But someone could’ve seen this, and both of you could’ve gotten hurt, so be more careful, okay?
 {% endbubble %}
 
 {% bubble Hokuto %}
-Y-yeah, we can't let that happen.
+Y-Yeah, we can't let that happen.
 
 …Was it really alright, Anzu? Isara didn't go on a puberty-induced rampage, did he?
 {% endbubble %}
@@ -584,13 +584,13 @@ But somehow, I’m kinda happy that we’ve been stressing out and fumbling abou
 
 Makes me happy, like we’re connected…… Sorry, I can’t say it like how it’s done in manga.
 
-Let’s keep growing together. We might trip and lose our way sometimes, maybe we’ll take a detour — But even then, let’s keep going forward without ever giving up. We can do that together, no matter where we are.
+Let’s keep growing together. We might trip and lose our way sometimes, and maybe we’ll take a detour or true — But even then, let’s keep going forward without ever giving up. We can do that together, no matter where we are.
 
 We can’t really walk side by side together anymore, like how we used to in spring, but…
 
-It feels like you’re always beside me — Your hard work makes *me* wanna work harder…
+It feels like you’re always beside us — Your hard work makes *us* wanna work harder…
 
-If I keep going while thinking that, we’ll eventually be able to stand on the same stage again, won’t we?
+If we keep going while thinking that, we’ll eventually be able to stand on the same stage again, won’t we?
 
 We’ll surely be able to stand side by side with you, in a much brighter, sparkling, amazing future.
 
@@ -604,7 +604,7 @@ I mean, Orihime and Hikoboshi are happy enough just knowing they can rendezvous 
 {% img /img/es/eventstory/orihimeandhikoboshi/living4_1.jpg %}
 
 {% bubble Shinobu %}
-Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our rehearsals, so I will take you over there! ♪
+Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our rehearsals, so I shall take you over there! ♪
 
 …Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
 {% endbubble %}
@@ -620,7 +620,7 @@ What comes after bonding as friends is—
 
 Wha—? Anzu-dono? Why are you tugging at my clothes?
 
-Huh? You are worried about my clothes seam? W-wait! I would rather you fix it after I have removed my clothes! I do not want to be pricked by the needle! It is scary~!
+Huh? You are worried about my clothes seam? W-wait! I would rather you fix it after I have removed my clothes! I don't want to be pricked by the needle! It is scary~!
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -638,27 +638,27 @@ What do you think~? Does it suit me?
 {% endbubble %}
 
 {% bubble Makoto %}
-Ahaha, it totally does~ Cute, very cute~♪
+Ahaha, it totally does\~ Cute, very cute\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Eek! Do not pat my head! I had my hair arranged!
+Eek! Don't pat my head! I had my hair arranged!
 {% endbubble %}
 
 {% bubble Subaru %}
-But if you're gonna be rehearsing, won't it just get messy anyway? Your choreography has lots of vigorous dance moves, so~
+But if you're gonna be rehearsing, won't it just get messy anyway?
 
-You guys modelled it after kung fu like us, right?[^6]
+Your choreography has lots of vigorous dance moves, after all~ You guys modelled it after kung fu like us, right?[^6]
 {% endbubble %}
 
 {% bubble Shinobu %}
-Indeed we did. It even ended up being too similar to your performance, so we have also taken ideas from Kenpo[^7], since Tetora-kun knows it well.
+Indeed we did. It even ended up being too similar to your performance, so we have also taken ideas from *kenpo*[^7], since Tetora-kun knows it well.
 
-In the end, we could not really figure out something for ourselves…
+In the end, we couldn't really figure out something for ourselves…
 
-We were practicing with you Trickstar the whole time, and ended up being influenced by your choreography.
+And we were practicing with you Trickstar the whole time, so we ended up being influenced by your choreography.
 
-But, if you think it is a problem, then there is still time to make changes.
+But, if you think it is a problem, then there's still time to make changes.
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -668,17 +668,17 @@ Not only that — we're capable of firing up our own radiance. That is “Tricks
 {% endbubble %}
 
 {% bubble Shinobu %}
-Sooo cool! ♪ This is why I really respect all of you! I am truly grateful for all that you have done for us this event!
+Sooo cool! ♪ This is why I really respect all of you! I am truly grateful for all that you've done for us this event!
 
-Please watch us, as we take in your guidance — your radiance — and shine brilliantly! We will make sure you do not regret accompanying us for all those days!
+Please watch us, as we take in your guidance — your radiance — and shine brilliantly! We will make sure you don't regret accompanying us for all those days!
 {% endbubble %}
 
 {% bubble Subaru %}
-Mm, we’re looking forward to it. Let's do our best in the event, Ryuseitai~♪
+Mhm, we’re looking forward to it. Let's do our best in the event, Ryuseitai~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Yes! Let us both! As two units that bear stars in our names, we shall become the bridge to bright, shining dreams — we shall become the Milky Way!
+Yes! Let us both! As two units that bear stars in our names, we shall become the bridge to bright, shining dreams — we shall become the Milky Way itself!
 {% endbubble %}
 
 <div toc>
@@ -694,5 +694,5 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 [^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, <a href="https://www.youtube.com/watch?v=0IuLZo3cvcs" target="_blank">he’s singing the folk song for it</a>.
 [^4]: Midori’s likely referring to <a href="https://www.yurugp.jp/jp/vote/detail.php?id=00003111" target="_blank">these mascot characters</a>. To likely avoid copyright, they switched the -kun and -chan around.
 [^5]: Tanzaku are strips of paper you write your wish on for Tanabata.
-[^6]: Check cover for extra info about Trickstar and Ryuseitai's Tanabata performances.
+[^6]: Check <a href="/orihime_and_hikoboshi#Translation-Notes" target="_blank">the cover</a> for extra info about Trickstar and Ryuseitai's Tanabata performances.
 [^7]: Kenpo is a Japanese martial art.
