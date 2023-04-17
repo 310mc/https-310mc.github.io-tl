@@ -158,7 +158,7 @@ Waahh!!? Heyo, Kanata-san! You look like you’re having the time of your life!
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu, i could say the same about you, too, rogue~♪
+fufufu, i could say the [same] about [you], too, rogue~♪
 {% endbubble %}
 
 {% bubble Madara %}
@@ -166,11 +166,11 @@ I’d really like it if you could stop calling me that already… I thought we g
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu. since you are keeping your distance from us, i cannot reach close to you from my own position, either.
+fufufu. since you are keeping your [distance] from [us], i cannot [reach close] to you from my own position, either.
 
-even if i do want to get close, the water tank is in the way, you see?
+even if i do want to get close, the [water tank] is in the way, you see?
 
-so how about *you* forgive your old self already? i am also trying to do that as much as i can.
+so how about *you* [forgive] your old self already? i am also trying to do that as much as i can.
 
 wah—!?
 {% endbubble %}
@@ -180,11 +180,11 @@ Shinkai-dono~! We have to go to the concert hall now! Our turn starts once the s
 {% endbubble %}
 
 {% bubble Kanata %}
-okaaay. you could have just told me normally, though.
+okaaay. you could have just [told] me normally, though.
 
-you are all excited, too, huh? you even threw candy at me.
+you are all [excited], too, huh? you even [threw] candy at me.
 
-you should not throw food like that, okay? this is punishment for your prank~♪
+you [should not] throw food like that, okay? this is punishment for your prank~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -198,7 +198,7 @@ Hahaha. You’re pretty much just like a guardian now, Kanata-san~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-well, i had to be. chiaki was completely useless this time around.
+well, i [had] to be. chiaki was [completely] useless this time around.
 
 so i have to be the one to keep things going, yes? supporting and helping each other is what ryuseitai is all about~♪
 {% endbubble %}
@@ -278,13 +278,13 @@ Hahaha, looks like the plan to get you used to them failed, huh?
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. it is not that easy to overcome your weaknesses.
+fufu. it is not that [easy] to [overcome] your [weaknesses].
 
-unlike you, most people cannot easily manage to do things just by getting into it… mama.
+unlike you, most people cannot [easily] manage to do things just by getting into it… mama.
 
-anyway, due to chiaki’s uselessness, the children probably felt they had to get through this on their own this time, so they are keeping things going in his stead. everything is just fine~♪
+anyway, due to chiaki’s [uselessness], the children probably felt they had to [get through] this on their own this time, so they are keeping things going in his stead. everything is [just fine]~♪
 
-it is cuter if chiaki shows his weak side every once in a while, anyway. although, i am sure he would rather show his cool side.
+it is cuter if chiaki shows his [weak side] every once in a while, anyway. although, i am sure he would rather show his [cool side].
 {% endbubble %}
 
 {% bubble Madara %}
@@ -310,7 +310,7 @@ Right, let’s go now, Anzu-san. You’re the one managing this event, so everyo
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, seeing him carry her like that really makes them look like a parent and their child.
+fufu, seeing him [carry] her like that really makes them look like a [parent] and their [child].
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -374,7 +374,7 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, do not bully him so much, midori~♪
+fufu, do not [bully] him so much, midori~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -420,7 +420,7 @@ What! But I am completely fine with anything as long as it is ninja-related! I r
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, i am also okay with anything as long as it is sea creatures~♪
+yes, i am also [okay] with anything as long as it is [marine animals]~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -768,9 +768,9 @@ We can’t have you do that now! Let’s all enjoy this together to the very end
 {% endbubble %}
 
 {% bubble Kanata %}
-that’s right, it is just as chiaki said~ come, let’s all dance together~♪
+that’s right, it is just as chiaki [said]~ come, let’s all dance together~♪
 
-“for today only, we invite everyone to the monster festival! trick or treat…♪”
+“for today only, we [invite] everyone to the monster [festival]! trick or treat…♪”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -834,13 +834,13 @@ Dammit, I’m so frustrated… I’m going to lose face at this point, I’ve go
 {% endbubble %}
 
 {% bubble Kanata %}
-ahaha, what would you even get from competing against your own comrades, chiaki~?
+ahaha, what would you even get from [competing] against your own comrades, chiaki~?
 
-although, i do suppose it is much better to do that than to treat everything with caution~♪
+although, i do suppose it is much [better] to do that than to treat everything with [caution]~♪
 
-halloween is the children’s festival.
+[halloween] is the children’s [festival].
 
-you should not intrude on their festival\~ let’s relax, and enjoy it in our own way\~♪
+you [should not] intrude on their festival\~ let’s [relax], and enjoy it in our own way\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}

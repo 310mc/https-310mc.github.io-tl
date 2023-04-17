@@ -252,15 +252,17 @@ So we’re all in the same boat together this time~♪
 {% bubble Kanata %}
 *puka, puka…♪*
 
-mm… the season really is getting colder… even just a little dip in the water is cold…
+mm… the season really is getting [colder]… even just a little [dip] in the [water] is cold…
 
-i miss summer… i wish global warming would happen already.
+i [miss] summer… i wish [global warming] would happen already.
 
-if that were to happen, the ice in the north pole or in the south pole would melt, and the whole world would be submerged in water… and then there would be ocean wherever you look~♪
+if that were to happen, the [ice] in the [north pole] and in the [south pole] would melt…
+
+and the whole world would be [submerged] in water… and then there would be [ocean] wherever you look~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Shinkai-donooo? Please stop saying terrifying things, and withdraw yourself from the fountain!
+Shinkai-donoo~? Please stop saying terrifying things, and withdraw yourself from the fountain!
 
 Come on out, the meeting will start very soon!
 
@@ -270,7 +272,7 @@ You are a third year — a *senior!* Be a little more sensible please!
 {% endbubble %}
 
 {% bubble Kanata %}
-ufufu. shinobu, even you say stuff like that now\~ lately, it feels like you are assertive to me, as well\~♪
+ufufu. shinobu, even you say stuff like that now\~ [lately], it feels like you are [assertive] to me, as well\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -280,15 +282,15 @@ I am the type of ninja who sticks close to comrades I feel comfortable with.
 {% endbubble %}
 
 {% bubble Kanata %}
-i am a comrade you feel comfortable with? hehe, if that is how you feel about me… then i am very happy.
+i am a [comrade] you feel comfortable with? fufu, if that is how you [feel] about me… then i am very [happy].
 
-i will stay here a little longer\~ to show how happy i am\~ *puka, puka\~♪*
+i will stay here a little longer\~ to [show] how happy i am\~ *puka, puka\~♪*
 {% endbubble %}
 
 {% bubble Shinobu %}
 Wffhg!? Bffppt — A bit of water splashed into my mouth!
 
-Shinkai-dono, pleaaase\~! Do not splash around like a little child! Get out of there already\~!
+Shinkai-dono, pleaaase\~! Don't splash around like a little child! Get out of there already\~!
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/disharmony2_2.jpg %}
@@ -298,9 +300,9 @@ Hahaha! How peaceful! You’re getting along with a junior — I didn’t expect
 {% endbubble %}
 
 {% bubble Kanata %}
-ughh… rogue, i have told you before *not* to come near the fountain.
+ughh… rogue, i have told you before *not* to come near the [fountain].
 
-the sports area is your territory ground, but the fountain is my territorial sea.
+the [running grounds] is your territory [ground], but the [fountain] is my territorial [sea].
 {% endbubble %}
 
 {% bubble Madara %}
@@ -308,9 +310,9 @@ I don’t remember ever agreeing to something like that. If I couldn’t come ov
 {% endbubble %}
 
 {% bubble Kanata %}
-then take a detour and go *all* the way around to avoid the fountain.
+then take a [detour] and go *all* the way around to avoid the [fountain].
 
-anyway, *you* would not get injured even if you were barefoot, so you do not need to go all the way around just to change shoes.
+anyway, *you* would not get [injured] even if you were [barefoot], so you do not need to go all the way around just to change [shoes].
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -320,7 +322,7 @@ I do not think you should hate him so much… He is actually much kinder than yo
 {% endbubble %}
 
 {% bubble Kanata %}
-care to explain when exactly you lured my child to your side, rogue?
+care to explain when exactly you lured [my child] to your side, rogue?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -340,13 +342,13 @@ Look, do you see this! “Once upon a time, there was a group of ninjas who surv
 {% endbubble %}
 
 {% bubble Kanata %}
-you are fine with just about anything when it is ninja-related, aren’t you…
+you are [fine] with just about [anything] when it is [ninja]-related, aren’t you…
 
-it is good to have something you love, but… you have no standards.
+it is [good] to have something you [love], but… you have no [standards].
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehehe, ninjas are not that popular no matter where you go, so I must take whatever I can get and enjoy it to its fullest, or else I would starve to death.
+Heh, ninjas are not that popular no matter where you go, so I must take whatever I can get and enjoy it to its fullest, or else I would starve to death.
 
 Besides, I can grow to love almost anything as long as it is ninja-related~
 {% endbubble %}
@@ -454,11 +456,11 @@ Although, you’re gonna need to dry up first, Kanata-san. I can lend you a towe
 {% endbubble %}
 
 {% bubble Kanata %}
-mm… we are going to be working with the rogue? it feels like it will only be a ruckus.
+mm… we are going to be working [together] with the rogue? it feels like it will only be a ruckus.
 
-well… i suppose that lately i do not dislike things being rowdy, anyway.
+well… i suppose that lately i do not [dislike] things being [rowdy], anyway.
 
-three units together… that is a pretty large amount of people. hmm, will we really be able to work well together…?
+three [units] together… that is a pretty large amount of [people]. hmm, will we really be able to work well together…?
 {% endbubble %}
 
 ## Chapter 4
@@ -724,7 +726,7 @@ Oh, okay… Ughh… Alright, I’m not good at this, but I’ll do it.
 {% endbubble %}
 
 {% bubble Kanata %}
-…? chiaki, you do not seem up for this… you do not look energetic, are you alright?
+…? chiaki, you do not seem [up] for this… actually, you do not look so [energetic], are you alright?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -880,9 +882,9 @@ Our role is to stay here at school and decorate the whole place through the comi
 {% endbubble %}
 
 {% bubble Kanata %}
-huh—? hold on a second, we are going to sleep over?
+huh—? hold on a second, we are going to [sleep over]?
 
-that might be a little too difficult for me. my household does not see sleepovers in good light.
+that might be a little too [difficult] for me. my household does not see [sleepovers] in [good] light.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -896,9 +898,9 @@ I’m all for the idea of just sleeping over whenever you can, and coming to sch
 {% endbubble %}
 
 {% bubble Kanata %}
-no, do not… please try not to involve yourself with my household anymore.
+no, do not… please try not to involve yourself with my [household] anymore.
 
-i will try to talk to them myself first. i will consider what is best to do after i see how they react.
+i will try to [talk] to them myself first. i will consider what is [best] to do after i see how they [react].
 {% endbubble %}
 
 {% bubble Chiaki %}

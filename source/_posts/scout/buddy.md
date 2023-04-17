@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Buddy"
-date: 2023-4-1 10:0:00
+date: 2018-7-30 10:0:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Chiaki]

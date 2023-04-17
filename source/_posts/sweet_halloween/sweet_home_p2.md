@@ -408,7 +408,7 @@ Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 {% bubble Kanata %}
 i am back~♪
 
-…? things are quite lively here… it is midnight by now, so you are going to disturb the neighborhood, you know?
+…? things are quite [lively] here~ it is [midnight] by now, so you are going to [disturb] the neighborhood, you know?
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -416,7 +416,7 @@ i am back~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-wah…! i-i’m so sorry! i turned around and bumped into you!
+…fwah? i-i am so sorry! i [turned] around and bumped into you!
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -426,9 +426,9 @@ What do I gotta eat to be that tall? I’m so jealous…
 {% endbubble %}
 
 {% bubble Kanata %}
-fish\~ you should eat fish, nazuna\~♪
+[fish]\~ you should eat [fish], nazuna\~♪
 
-the reason why you do not grow taller, and why governments become corrupt, and why flowers do not live for long — it is all due to not eating fish.
+the reason why you do not grow taller, and why [governments] become [corrupt], and why flowers do not live for [long] — it is all due to not eating [fish].
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -440,7 +440,7 @@ Ahh, jeez… What’s this whole ruckus about?
 {% endbubble %}
 
 {% bubble Kanata %}
-hmm~? they are watching a movie, i think?
+hmm~? they are watching a [movie], i think?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -564,7 +564,7 @@ Nevermind… It wasn’t anything important, so please don’t worry about it…
 {% endbubble %}
 
 {% bubble Kanata %}
-midori~? that pufferfish-looking thing next to you… is that chiaki?
+midori~? that [pufferfish]-looking thing next to you… is that chiaki?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -574,7 +574,7 @@ Well, you were only strolling around the school, so I guess nothing bad would ha
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, i am sorry. did i worry you?
+fufu, i am sorry. did i [worry] you?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -584,11 +584,11 @@ So please don’t just disappear out of nowhere…
 {% endbubble %}
 
 {% bubble Kanata %}
-fufufu, that is because chiaki is more spoiled than you would expect.
+fufufu, that is because chiaki is more [spoiled] than you would expect.
 
-but it looks like things will be okay, since it seems like you are protecting him.
+but it looks like things will be okay, since it seems like you are [protecting] him.
 
-or actually… with everyone in ryuseitai supporting chiaki, there can be nothing scary in this whole world.
+or actually… with everyone in ryuseitai supporting chiaki, there can be nothing scary in this whole [world].
 {% endbubble %}
 
 ## Chapter 10

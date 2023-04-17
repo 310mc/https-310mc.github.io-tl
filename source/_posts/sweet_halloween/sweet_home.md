@@ -238,7 +238,7 @@ It’s gonna be Mama, isn’t it, Anzu-san! Even though you were always too emba
 {% endbubble %}
 
 {% bubble Kanata %}
-…rogue, yours just says “mikejima.”
+…rogue, yours just [says] “mikejima.”
 {% endbubble %}
 
 {% bubble Madara %}
@@ -354,11 +354,11 @@ Every little bit helps, so let’s work hard every day with that mindset.
 {% endbubble %}
 
 {% bubble Kanata %}
-umm… you said the work will be split between units, but… that just means the rogue will be all alone.
+umm… you said the work will be [split] between [units], but… that just means the rogue will be all [alone].
 
-isn’t it a little too cruel to make him work as much as us? well… i suppose he could manage it, anyway…
+isn’t it a little too [cruel] to make him work as much as [us]? well… i suppose he [could] manage it, anyway…
 
-but just because he could does not mean we should make him… it just does not seem right.
+but just because he [could] does not mean we should [make] him… it just does not [seem] right.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -498,9 +498,9 @@ Shinkai-senpai, did you eat him!?
 {% endbubble %}
 
 {% bubble Kanata %}
-huh? i do not understand how you reached that conclusion…
+huh? i do not understand how you reached that [conclusion]…
 
-i would not eat him, you know… he would probably burn my tongue if i did.
+i would not eat him, you know… he would probably [burn] my [tongue] if i did.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -524,7 +524,7 @@ Gotta be careful! You guys should be more careful, too! Fuhahahaha!! ☆
 {% endbubble %}
 
 {% bubble Kanata %}
-chiaki, you look pale… if you are feeling unwell, then please leave the rest to us and take a break, okay?
+chiaki~ you look [pale]… if you are feeling [unwell], then please leave the rest to us and take a [break], okay?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -532,7 +532,7 @@ I-I’m fine, Kanata! I will never give in! I will surely get my chance to turn 
 {% endbubble %}
 
 {% bubble Kanata %}
-what are you even fighting against…?
+[what] are you even [fighting] against…?
 {% endbubble %}
 
 {% bubble Midori %}

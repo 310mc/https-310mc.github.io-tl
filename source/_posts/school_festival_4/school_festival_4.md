@@ -1,6 +1,6 @@
 ---
 title: "[ES!] School Festival 4"
-date: 2023-4-3 9:00:00
+date: 2018-5-25 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

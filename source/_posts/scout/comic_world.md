@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Comic World"
-date: 2023-4-1 9:10:00
+date: 2018-7-14 9:10:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Keito]
