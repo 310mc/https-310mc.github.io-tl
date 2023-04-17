@@ -142,7 +142,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Orihime and Hikoboshi"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/24376.html" class="storyName" target="_blank">
+        <a href="/orihime_and_hikoboshi" class="storyName" target="_blank">
             <span>Orihime and Hikoboshi</span>
             <span class="read"></span>
         </a>

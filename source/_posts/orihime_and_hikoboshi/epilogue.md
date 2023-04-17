@@ -16,7 +16,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable. However, Subaru becomes upset with the first years for not knowing what to do…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -85,7 +84,7 @@ hidden: true
 {% img /img/es/eventstory/orihimeandhikoboshi/ep1_1.jpg %}
 
 <div class="msr-narration">
-    <p>Few hours later…</p>
+    <p>A few hours later…</p>
 </div>
 
 {% bubble Chiaki %}
@@ -97,7 +96,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Tetora %}
-“Wait, we were gonna do that!? Couldn’t we have just left them out~?”
+“Ah, we were gonna do that? Couldn’t we have just left them out~?”
 
 “Well, whatever! I'm Ryusei Black, Nagumo Tetora…!”
 {% endbubble %}
@@ -109,7 +108,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-“and then comes\~ ryusei blue, shinkai kanata\~♪”
+“and then comes\~ ryusei blue, shinkai kanata\~…♪”
 {% endbubble %}
 
 {% bubble Midori %}
@@ -127,13 +126,13 @@ hidden: true
 
 “After all, that would be rude to the audience cheering for us, and to you, our opponents!”
 
-“Both Karate and idols start with a bow and end with a bow! Isn't that right, Nagumo!?”
+“Both karate and idols start with a bow and end with a bow! Isn't that right, Nagumo!?”
 {% endbubble %}
 
 {% bubble Tetora %}
-“Ossu! I'm actually really happy about this! I didn't see it coming at all! I’m all fired up~!! ☆”
+“Ossu! I'm actually real happy about this! This is exactly what I was hopin' to happen! I’m all fired up~!! ☆”
 
-“Trickstar, I plan to fight against you as skilled seniors!”
+“Trickstar, I plan to fight against you as my skilled seniors!”
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -141,19 +140,19 @@ hidden: true
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-“fufufu. wild animals avoid fights by shouting out threats.”
+“fufufu. [wild animals] avoid [fights] by shouting out [threats].”
 
-“it is sad to shed blood with claws and fangs.”
+“after all, it is [sad] to [shed] blood with [claws] and [fangs].”
 
-“so, a happy ending is when the animal’s opponent cowers in fear and runs away~♪”
+“so, a [happy ending] is when the animal’s [opponent] cowers in fear and [runs away]~♪”
 {% endbubble %}
 
 {% bubble Chiaki %}
-“Oh! I see you’ve also become knowledgeable about land creatures, Kanata! Nice, very nice! You're a studious one, you~♪”
+“Oh! I see you’ve also become knowledgeable about land creatures, Kanata! Nice, absolutely wonderful! You're a studious one, aren’t you~♪”
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-“fufufu, the land and the sea are the same\~ both are the survival of the fittest! rawr\~☆”
+“fufufu, the [land] and the [sea] are the same\~ both are the [survival] of the [fittest]! rawr\~☆”
 {% endbubble %}
 
 {% bubble Mao %}
@@ -163,7 +162,7 @@ hidden: true
 
 “Just means they're gonna overwhelm us if we aren't careful! We gotta prepare ourselves, stand our ground, and strike back!”
 
-“Actually— Let's get rid of ‘em with our radiance! ♪”
+“Actually — Let's get rid of ‘em with our radiance! ♪”
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -177,7 +176,9 @@ hidden: true
 
 “We really struggled to finish the preparations, and ended up taking so much time to get here…”
 
-“And I wanna sing and dance lots with everyone~ I’m not letting a single second go to waste! Bring it on, Ryuseitai…☆”
+“But I wanna sing and dance lots with everyone—”
+
+“So I’m not letting a single second go to waste! Bring it on, Ryuseitai…☆”
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep1_2.jpg %}
@@ -185,7 +186,7 @@ hidden: true
 {% bubble Hokuto %}
 “Fufu, you're unusually confident of yourself, Yuuki. It feels reassuring.”
 
-“As long as we’re all looking in the same direction — looking forward — we’ll be able to break through any wall, and charge onwards. We can go anywhere.”
+“As long as we’re all looking in the same forward direction — we’ll be able to break through any wall, and charge onwards. We can go anywhere.”
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep1_3.jpg %}
@@ -229,17 +230,17 @@ hidden: true
 
 <th>(Yes! I'm in perfect shape! My body feels light thanks to all that resting! I could soar to the far ends of the sky! Fuhahaha! ♪)</th>
 
-<th>(I’d been overpushing myself nonstop until Supernova happened, and that was only a few weeks ago…)</th>
+<th>(I’d been over-pushing myself nonstop until Supernova happened, and that was only a while ago…)</th>
 
 <th>(I was forced to do it, but I’m still glad the doctor’s warning stopped me from pushing myself even further. It helped me finally slow down.)</th>
 
-<th>(I really would’ve collapsed again if I kept going like that.)</th>
+<th>(I really could’ve collapsed again if I kept going like that.)</th>
 
-<th>(I was having so much fun, I just couldn't stop myself… and I ended up getting too into it. Ahhh… Guess I’m also still just a kid.)</th>
+<th>(But I was having so much fun, I just couldn't stop myself… and I ended up getting too into it. Ahhh… Guess I’m also still just a kid.)</th>
 
-<th>(Everything just… feels so dreamlike. I keep on wanting more and more.)</th>
+<th>(It's just, everything feels so… dreamlike. I keep on wanting more and more.)</th>
 
-<th>(I never want the finale to come! Oh, stars in the night sky! Oh, Orihime-sama, Hikoboshi-sama! Please, hear my wish!)</th>
+<th>(I never want the finale to come! Oh, stars in the night sky! O Orihime-sama, Hikoboshi-sama! Please, hear my wish!)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep2_1.jpg %}
@@ -247,7 +248,7 @@ hidden: true
 {% bubble Kanata v2 %}
 “♪\~♪\~♪”
 
-“fufufu\~ we are stars swimming in the milky way\~ *puka puka\~♪*”
+“fufufu\~ we are [stars] swimming in the [milky way]\~ *puka puka\~♪*”
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -259,9 +260,9 @@ hidden: true
 
 <th>(He doesn't want to be an unreachable, mighty being — not like a god, like nature, or like the stars…)</th>
 
-<th>(No, he wants to be beside everyone — close enough to hold hands with them, and laugh together.)</th>
+<th>(Rather, he wanted to be beside everyone — close enough to hold hands with them, and laugh together.)</th>
 
-<th>(If that's his wish, then we'll make it come true together. We are *“Ryuseitai”* — Shooting Stars[^2].)</th>
+<th>(If that's his wish, then we'll make it come true together. After all, we are *“Ryuseitai”* — Shooting Stars[^2].)</th>
 
 <th>(We won't make wishes come true only once a year, like Tanabata. We'll make them come true time after time, all year round.)</th>
 {% endbubble %}
@@ -273,15 +274,15 @@ hidden: true
 {% endbubble %}
 
 {% bubble Chiaki %}
-<th>(Yes! And the first years have grown so, so much this time! I’m in awe! They're performing with such nimble movements!)</th>
+<th>(Mhm! And the first years have grown so, so much this time! I’m in awe! They're performing with such nimble movements!)</th>
 
 <th>(Everyone’s so into this! I can feel their overflowing enthusiasm!)</th>
 
 <th>(I made the right choice by entrusting the kids to Trickstar.)</th>
 
-<th>(I felt pathetic that I couldn't do a single thing for them — I couldn't even see them or support them, but… I'm absolutely certain *you* three can go anywhere, even without me around.)</th>
+<th>(I felt pathetic that I couldn't do a single thing for them — I couldn't even see them or support them, but…)</th>
 
-<th>(Of course, I still plan to stay by your sides, and watch over you as much as I can.)</th>
+<th>(I'm absolutely certain *you* three can go anywhere, even without me around. Of course, I still plan to stay by your sides, and watch over you as much as I can, but…)</th>
 
 <th>(The day when we say our goodbyes will surely come. But even so, I know I have nothing to worry about.)</th>
 
@@ -289,17 +290,17 @@ hidden: true
 {% endbubble %}
 
 {% bubble Tetora %}
-<th>(Hmm… That idiot Taichou’s jumping around everywhere, when he's only just recovered.)</th>
+<th>(Uu~myu… That idiot Taichou’s jumpin’ around everywhere, when he's only just recovered.)</th>
 
-<th>(I guess he’d built up a lot of stress during the time he was sick, since he couldn't join in on practice.)</th>
+<th>(I guess he’d built up a lotta stress during the time he was sick, since he couldn't join in on practice.)</th>
 
-<th>(You're gonna regret it if you end up collapsing, y'know~? But I guess it's just like us to not think about the little details, and instead, charge forward immediately… yeah?)</th>
+<th>(You're gonna regret it if you end up collapsin’, y’know~? But I guess it's just like us to not think about the li’l details, and instead, charge forward immediately… yeah?)</th>
 
 <th>(Ahaha, “just like us”… I'm getting influenced by how Trickstar talk.)</th>
 
-<th>(“Us,” huh… There was so much I didn't like about Ryuseitai at first…)</th>
+<th>(“Us,” huh… There was so much I didn't like 'bout Ryuseitai at first…)</th>
 
-<th>(And I still wanted to join Taishou in Akatsuki…)</th>
+<th>(I just wanted to join Taishou in Akatsuki…)</th>
 
 <th>(But us, being a mess like this, having nothing but fun like this… Ryuseitai perfectly suits who I am now.)</th>
 
@@ -339,7 +340,7 @@ hidden: true
 {% bubble Midori %}
 <th>(Huh…? Did Akehoshi-senpai just wave at me…?)</th>
 
-<th>(Now he's clapping and moving around like he’s mocking me…? Uh? Huh? What's he trying to tell me…?)</th>
+<th>(Now he's clapping and moving around like he’s taunting me…? Uh? Huh? What's he trying to tell me…?)</th>
 {% endbubble %}
 
 ## Chapter 3
@@ -353,25 +354,25 @@ hidden: true
 
 <th>“Don’t you have any motivation?”)</th>
 
-<th>(You think you're *such* a good person… Acting as if you’re being reasonable and helpful…)</th>
+<th>(You think you're *such* a good person by saying all of that… Acting as if you’re being reasonable and helpful…)</th>
 
-<th>(I’m trying my best! I’m doing it as properly as I can! I'm already at my limit, but you still come and spit in the face of my hard work!)</th>
+<th>(When I *am* trying my best! I *am* doing it as properly as I can! I'm already at my limit, but you still come and spit in the face of my hard work!)</th>
 
 <th>(Then you laugh it all off and apologize with a simple *“Sooorry~♪”*)</th>
 
 <th>(So annoying! If you were gonna apologize, then you shouldn’t have said it in the first place! You can just leave me alone and not say anything…!!)</th>
 
-<th>(And anyway, people of your species[^4]… Even if I hadn’t accidentally gotten into this school, you still would've been sparkling bright your whole life!)</th>
+<th>(And anyway, people of your species[^4]… Even if I hadn’t accidentally gotten into this school, you would've still been sparkling bright your whole life!)</th>
 
 <th>(You would've been doing that without ever knowing I existed!)</th>
 
 <th>(Akehoshi-senpai! You don't know how it feels to be me! Living the life of a miserable bug underfoot while you glitter in the sunshine!)</th>
 
-<th>(You don't! That's why you can't treat people like me right—you get close to us in all the wrong ways and then hurt us!)</th>
+<th>(You don't! That's why you can't treat people like me right — You get close to us in all the wrong ways and then hurt us!)</th>
 
 <th>(Then when you get tired, you just wander off and leave us to rot…!)</th>
 
-<th>(I'm so sick of people like you! You all just piss me off…! Ahh!! I feel like I'm gonna explode from all this anger and heat!)</th>
+<th>(I'm so sick of people like you! You all just piss me off…! Ahh!! I feel like I'm gonna explode from all this anger and heat…!!)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep3_1.jpg %}
@@ -381,23 +382,23 @@ hidden: true
 
 It's fine to make mistakes there, but you can't mess up onstage, y’know~?
 
-Go for it! Do it properly! It's okay, I'm sure *you* can do it! ♪
+Go for it! Do it properly! It'll be okay, I'm sure *you* can do it! ♪
 {% endbubble %}
 
 {% bubble Midori %}
-…!! We're in the middle of our match, but I guess you still have time to *help* me, huh…!?
+……!! We're in the middle of our match, but I guess you still have time to *help* me, huh…!?
 {% endbubble %}
 
 {% bubble Subaru %}
 Ah, right… I did it again… I just can't get used to this.
 
-See, before I met Trickstar, I was always by myself…
+See, when I was a first year… before I even met Trickstar, I was always by myself.
 
 I couldn’t get close to anyone, so I just copied stuff from videos of my dad’s performances.
 
-But… involving yourself with actual people and practicing with them is a million times more fun, and you can learn things quicker, right?
+But… involving yourself with actual people and practicing with them is a million times more fun, and you can learn things faster, right?
 
-I’m so jealous of you. Everything I wanted in the past… You have it all with you.
+I’m so jealous of you, Takamin. Everything I wanted in the past… You have it all with you.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -417,7 +418,7 @@ Dad…! I think I’ve finally reached it…☆
 {% bubble Midori %}
 <th>(B-Bleached it?[^5] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
 
-<th>(But somehow, just for a moment… Akehoshi-senpai made a face similar to how I look…)</th>
+<th>(But somehow, just for a moment… Akehoshi-senpai made a face similar to how I would look in the mirror…)</th>
 
 <th>(He had an exhausted, depressed, painful look on his face…)</th>
 
@@ -441,7 +442,7 @@ Dad…! I think I’ve finally reached it…☆
 {% endbubble %}
 
 {% bubble Midori %}
-<th>(Ahh!!! You didn't even *try* to understand what I'm telling you, did you!? Bet you're feeling so smug like you’ve done a good job, huh!?)</th>
+<th>(Ughhh~!! You didn't even *try* to understand what I'm telling you, did you!? Yet you're acting so smug like you’ve done a good job…!)</th>
 
 <th>(Dammit! That sparkly smile pisses me off…!)</th>
 
@@ -462,12 +463,12 @@ They're buzzing back and forth! It’s making me more and more excited!
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sad %}
 …………
 {% endbubble %}
 
 {% bubble Makoto %}
-<th>(Huh? This looks bad — Shinobu-kun's movements are so slow… And he's not singing at all! Are the other Ryuseitai members performing so eagerly that they haven’t noticed his state…?)</th>
+<th>(Huh? This looks bad — Shinobu-kun's movements are so slow… And he's barely singing! Are the other Ryuseitai members performing so eagerly that they haven’t noticed his state…?)</th>
 
 <th>(He doesn't have much stamina, probably because of his small figure…)</th>
 
@@ -506,7 +507,7 @@ They're buzzing back and forth! It’s making me more and more excited!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep4_1.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sad %}
 …………
 {% endbubble %}
 
@@ -514,8 +515,8 @@ They're buzzing back and forth! It’s making me more and more excited!
 Sengoku! …You okay?
 {% endbubble %}
 
-{% bubble Shinobu %}
-…Huh—!? I am okay! I love ninjas!
+{% bubble Shinobu surprised %}
+…Hweh—!? I'm okay! I love ninjas!
 {% endbubble %}
 
 {% bubble Mao %}

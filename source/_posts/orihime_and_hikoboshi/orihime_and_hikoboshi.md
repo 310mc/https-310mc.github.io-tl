@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Orihime and Hikoboshi"
-date: 2018-7-10 9:00:00
+date: 2023-4-17 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

@@ -77,10 +77,10 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         </div>
         <a href="" class="storyName" target="_blank">
             <span>Sweet Halloween</span>
-            <span class="read soon"></span>
+            <span class="read"></span>
         </a>
     </div>-->
-    <!--<div class="story">
+    <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe_300px.jpg"
@@ -89,7 +89,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
         </div>
         <a href="" class="storyName" target="_blank">
             <span>Orihime and Hikoboshi</span>
-            <span class="read soon"></span>
+            <span class="read"></span>
         </a>
-    </div>-->
+    </div>
 </div>
