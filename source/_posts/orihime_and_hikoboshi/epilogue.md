@@ -529,12 +529,12 @@ And it'll be immediately obvious that something’s wrong if you get off the sta
 Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 {% endbubble %}
 
-{% bubble Shinobu %}
-*Huff… Huff…* Ughh…
+{% bubble Shinobu sad %}
+*Huff… Huff…* Uuu…
 {% endbubble %}
 
 {% bubble Mao %}
-<th>(Hmm… It’s seriously not looking good for him. He's barely responding, not even with a quick nod.)</th>
+<th>(Mmm… It’s really not looking good for him. He's barely responding, not even with a quick nod.)</th>
 
 <th>(I mean, his safety is top priority… So if his condition gets really bad, I’ll forcibly carry him off the stage.)</th>
 
@@ -544,7 +544,7 @@ Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 {% bubble Shinobu %}
 Isara-dono.
 
-There is no need to worry. I am alright.
+You need not worry. I am alright.
 {% endbubble %}
 
 {% bubble Mao %}
@@ -552,9 +552,9 @@ Nope. You don't look alright one bit, that's why I’m worried about you, y’kn
 {% endbubble %}
 
 {% bubble Shinobu %}
-…In just a few minutes, our song will end.
+…In just a few minutes, our time will end.
 
-I only need to endure until then, and as a ninja, I excel at that.[^6] If I say I am okay, then it means I am okay.
+I only need to endure until then, and as a ninja, I excel at that.[^6] If I say I'm okay, then it means I'm okay.
 {% endbubble %}
 
 {% bubble Mao %}
@@ -562,13 +562,15 @@ I only need to endure until then, and as a ninja, I excel at that.[^6] If I say 
 
 Well, I would've said the same thing if I were you. It'd suck to be the only one leaving the stage while everyone’s working hard.
 
-But collapsing onstage would be the worst outcome for us— it'd cause trouble for your comrades. So if it really seems bad for you, don't be stubborn. Just give me a signal, okay?
+But collapsing onstage would be the worst outcome for us — it'd only cause trouble for your comrades. So if it really seems bad for you, don't be stubborn. Just give me a signal, okay?
 
-I’ll carry you, and trick everyone into thinking that we're just doing that sort of performance. And I’ll make extra sure no one can tell what’s really going on.
+I’ll carry you, and trick everyone into thinking that we're just doing some sort of performance.
 
-I'm gonna sound like I'm taking your words, but—I excel at that, so you can count on me.
+I’ll also make extra sure no one can tell what’s really going on.
 
-Don't say anything like, “but I do not want sympathy from my opponent,” alright?[^7]
+I'm gonna sound like I'm taking your words, but — I excel at that, so you can count on me.
+
+Don't say anything like, “but I do not want sympathy from my opponent,”[^7] alright?
 
 I think of you as my precious, cute little brother. So if it ever feels bad, just rely on me.
 
@@ -576,13 +578,13 @@ It's my repayment for all the times you’ve helped me out.
 {% endbubble %}
 
 {% bubble Shinobu %}
-Fufu, “repayment”… That is what I am supposed to say to you, Isara-dono.
+Fufu, “repayment”… That is what I'm supposed to say to you, Isara-dono.
 
 I was reaching my limit, and beginning to feel dizzy, and so my mind started to wander back to our first meeting.
 
-To that time in spring… when I wanted to form the Ninja Association—back then, I called it “Ninja Club”.
+To that time in spring… when I wanted to form the Ninja Association — Though back then, I wanted to make it the “Ninja Club”.
 
-And so, in order to do that, I headed over to the Student Council room…
+And so, in order to do that, I headed over to the Student Council office…
 
 During that time, everyone else was also at the Student Council to register for clubs and units, and I got caught up in the big crowd.
 
@@ -622,7 +624,7 @@ It made me so happy. Something so normal, so natural and mundane… It was spark
 
 More importantly, you need to keep yourself together. You’re starting to sound like these are your last words.
 
-Don't make me worry so much. …The song is ending soon, so we just have to do our best now.
+Don't make me worry so much. …Our time is ending soon, so we just have to do our best now.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -636,13 +638,13 @@ Oooh… Your stamina's at zero, y’know? You shouldn’t jump about! But man, t
 {% endbubble %}
 
 {% bubble Shinobu %}
-I am not a kid! I am growing splendidly because of you and everyone in Ryuseitai—no, because of everyone in the whole world supporting me!
+I am no kid! I am growing splendidly because of you and everyone in Ryuseitai — No, because of everyone in the whole world supporting me!
 
 I will be able to jump up even faster, and even higher!
 
 First is persistence! Second is endurance! Third, fourth, fifth is perseverance! I shall not let myself fall over now!
 
-I will be giving my all, so I want you to watch me, Isara-dono! Because you held out your hand to me back then, when I had been paralyzed in place!
+I shall be giving my all, so I want you to watch me, Isara-dono! Because you held out your hand to me back then, when I had been paralyzed in place!
 
 You linked my chosen path to a bright, shining future!
 {% endbubble %}
@@ -676,9 +678,7 @@ No, I can't. I may be capable of a lot of things, but I can't do any of them wel
 {% img /img/es/eventstory/orihimeandhikoboshi/maobcg.jpg %}
 
 {% bubble Mao %}
-But… Even if that’s true, there's still some wishes I can fulfill. I’ll have faith in that thought, and stand my ground next to all these sparkling people, just a little longer…
-
-And I'll do it together with you~♪
+But even if that’s true… There's still some wishes I can fulfill. I’ll have faith in that thought, and stand my ground next to all these sparkling people, just a little longer… together with you~♪
 
 Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last moment! Tanabata happens only once a year, so we gotta make this into a great, happy memory!
 

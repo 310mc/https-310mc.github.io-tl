@@ -90,9 +90,11 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Kuro past %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Right. Allow me to recap our current situation, as well as explain our plan from here on.
 
@@ -176,10 +178,11 @@ In the case that Hibiki *does* have some hidden skill within him, then he may re
 
 If even the slightest possibility of that could happen, then our odds of winning are still low. We must tread carefully with this plan.
 
-It’s not too late in the game to eradicate Hibiki *after* we learn everything there is to know about him, including his true identity.
+It isn’t too late in the game to eradicate Hibiki *after* we learn everything there is to know about him, including his true identity.
 
 We’ll leave him for later. This means that our next target to subjugate is Shinkai Kanata.
 {% endbubble %}
+
 {% bubble Kuro past %}
 … And what about Sakuma? Did you just forget ‘bout him, Danna?
 
@@ -191,6 +194,7 @@ I know the DEADMANZ live feels like it happened long ago, but you can’t tell m
 
 He turned everythin’ around at the very moment you thought you won, and you lost to him so badly that it almost made you cry— remember?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 It did *not*. However, I simply don’t see a single chance of winning against Sakuma Rei at the moment.
 
@@ -208,9 +212,11 @@ He just finished with the battle against Valkyrie, and thus requires time to rec
 
 In fact, it *must* be us who eradicate Shinkai Kanata.
 {% endbubble %}
+
 {% bubble Kuro past %}
 … What d’you mean?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 You don’t know? Shinkai Kanata of the Five Eccentrics, as well as the Yaobikuni group of his, are a religious force.
 
@@ -246,14 +252,17 @@ I’ve already finished the preparations. Shinkai Kanata is on thin ice, alongsi
 
 Just watch. No—Follow after me without a word, and I’ll tell you all about my strategy for this religious war.
 {% endbubble %}
+
 {% bubble Souma worried %}
 H-Hold on a moment, Hasumi-dono!
 {% endbubble %}
+
 {% bubble Keito v2 %}
 … What is it, Kanzaki. You were listening to me without uttering a word, so I assumed it meant you had nothing to say on the matter.
 
 Is there something you wanted to bring up? Or actually, let me be blunt: is there a *problem* with what I'm saying?
 {% endbubble %}
+
 {% bubble Souma worried %}
 A problem…? No, I would never have any objections to your words, Hasumi-dono.
 
@@ -265,12 +274,15 @@ I will do anything for you. I would not even object to tainting my hands with bl
 
 That is what it means to show loyalty—to be of service to someone. That is the discipline I have been raised with. Once you have ascertained your lord, then you mustn’t oppose them—
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Oh? Well, this is a surprise. You really are quite the actor, Kanzaki.
 {% endbubble %}
+
 {% bubble Souma worried %}
 …? *<th>(surprised look)</th>*
 {% endbubble %}
+
 {% bubble Keito v2 %}
 You almost had me fooled. How brilliant — Allow me to compliment your skills.
 
@@ -290,15 +302,19 @@ You did the best you could to pretend to be a samurai who holds himself proudly,
 
 It’s just like measles — You simply have one of those illnesses[^16] one suffers through during puberty. There’s no point blaming the ill, *I’m* the fool here for believing that you were a real samurai.
 {% endbubble %}
+
 {% bubble Souma worried %}
 N-No…! I was never trying to decieve you! I have always felt this way from the bottom of my—
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Shut up, you traitor!
 {% endbubble %}
+
 {% bubble Souma worried %}
 —!?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 … Did you really think I didn’t know a single thing?
 
@@ -313,6 +329,7 @@ You fabricated your report on the Yaobikuni, didn’t you?
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 You asked me to leave it to you, so I complied. And yet, this is how you repay me, Kanzaki.
 
@@ -330,9 +347,11 @@ Kanzaki. You denied it, but you were just another one of those worshippers infec
 
 That’s why you attempted to protect the Living God Shinkai Kanata, so that no harm reaches him.
 {% endbubble %}
+
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 I won’t think of this as you biting at the hand that feeds you. Obviously you, a worshipper, would try to protect your God.
 
@@ -350,9 +369,11 @@ Instead, I thought I would let you do as you please, so I could then use you to 
 
 But you didn’t notice that, because you let your guard down after thinking you had me fooled.
 {% endbubble %}
+
 {% bubble Souma worried %}
 …? *<th>(surprised look)</th>*
 {% endbubble %}
+
 {% bubble Keito v2 %}
 I’ve already come in contact with Shinkai Kanata in secret. It was one of the first steps I took.
 
@@ -379,6 +400,7 @@ This is where you came in handy.
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Kanzaki. You acted as a person of virtue, aiding Shinkai in his daily duties perfectly.
 
@@ -393,6 +415,7 @@ And you’re a member of Akatsuki, the Student Council force. We heavily emphasi
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 But the truth is far different. As *if* I’d appoint a traitor with anything. You’re nothing but a disposable pawn to me.
 
@@ -422,9 +445,11 @@ Soon, they’ll think to themselves, perhaps the one saving them wasn’t Shinka
 {% bubble Keito v2 %}
 Hey, Kanzaki. You went quiet — Are you alright? Can’t you at least respond? Or is it difficult for a samurai like yourself to speak in our modern language?
 {% endbubble %}
+
 {% bubble Souma worried %}
 ……
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Tell me, what year are we in? We’re in the twenty-first century already. Surely you can think scientifically on your own if you’ve taken the mandatory education.
 
@@ -454,6 +479,7 @@ Once we do, Shinkai Kanata—the obsolete God will only be a hindrance. We’ll 
 
 We’ll become their new God instead.
 {% endbubble %}
+
 {% bubble Souma worried %}
 N-no… To become a God in His stead — It is unforgivable!
 
@@ -463,6 +489,7 @@ There is a reason why we have kept the faith going for so long — why we need G
 
 This is territory humans mustn't interfere with!
 {% endbubble %}
+
 {% bubble Keito v2 %}
 I expected you to react that way, you primitive fool… I *just* said that I researched all about the traditions of this land, did I not? I know about everything.
 
@@ -470,6 +497,7 @@ Let me ask you this instead: You’re a highschooler by now; do you *really* sti
 
 Did you ask your mommy and daddy to read it to you on nights you couldn’t sleep when you were young?
 {% endbubble %}
+
 {% bubble Souma worried %}
 … Say what you will! But I will do whatever I must to stop you from doing *that*!
 
@@ -479,6 +507,7 @@ It is impossible for someone to become a God in His stead, is it not!?
 
 It is precisely *because* Shinkai-dono is our God that wishes were granted! For He has worshippers who serve Him! And you dare insinuate that the Student Council is capable of such feats?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Well, we’ll only make it *look* like we can. Although, I doubt we’ll be carrying that facade for very long… We only need to make the public daydream until we’ve accomplished our revolution.
 
@@ -488,9 +517,11 @@ The same goes for you. There’s nothing you could do for me, not when you’re 
 
 I only need to throw you away now that I’ve made use of you as much as I could.
 {% endbubble %}
+
 {% bubble Souma worried %}
 I… Hasumi-dono, for you, I wou—
 {% endbubble %}
+
 {% bubble Keito v2 %}
 What do you think you’re doing? I’ve no interest in keeping useless ornaments in my room.
 
@@ -500,31 +531,39 @@ From today forth, you’re banished from Akatsuki. You fabricated a false report
 
 Kanzaki, don’t you *dare* show your face to me ever again. I’m through with you.
 {% endbubble %}
+
 {% bubble Souma worried %}
 —!
 
 …… *<th>(sobs)</th>*
 {% endbubble %}
+
 {% bubble Keito v2 %}
 ……
 
 … *<th>(exhales)</th>,* he’s gone.
 {% endbubble %}
+
 {% bubble Kuro past %}
 Haha, poor him. He was basically in tears.
 {% endbubble %}
+
 {% bubble Keito v2 %}
 … I had to. Boys only grow stronger with every tear they shed.
 {% endbubble %}
+
 {% bubble Kuro past %}
 Oh? Are you gonna say you’re tryin’ to hone him?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Of course not. This is just my own selfish ego — You could say it’s the same as a parent who insists abuse is a means of discipline.
 {% endbubble %}
+
 {% bubble Kuro past %}
 Haha, woah. You’re pretty dark, aintcha, daddy-o.[^19]
 {% endbubble %}
+
 {% bubble Keito v2 %}
 Stick to one name already. No, nevermind, there won’t be any need to… I don’t mind if this was the last straw for you — You’re free to never show yourself here ever again.
 
@@ -532,9 +571,11 @@ I laughed it off a second ago, but the truth is — the tradition within this la
 
 I honestly can’t predict how the worshippers would react were we to interfere with their faith regarding Shinkai Kanata.
 {% endbubble %}
+
 {% bubble Kuro past %}
 Is that why you drove out Kanzaki? ‘Cause he’ll be safe from whatever could happen if you make him have no relation to us?
 {% endbubble %}
+
 {% bubble Keito v2 %}
 That, too. But in reality, his hands are still clean.
 
@@ -546,11 +587,13 @@ I could never bear to have him as an accomplice, when he hasn’t even hurt anyo
 
 Only *I* need to be corrupted. So, Kiryu, you too can—
 {% endbubble %}
+
 {% bubble Kuro past %}
 Oh, shut up. I’ve been dyed black throughout my whole body since long back, aight? There ain’t no chance for me to get rid of it. I’ve hurt too many folks at the Dragon King Competition, and other places too, y’know.
 
 There’s no turnin’ back for me.
 {% endbubble %}
+
 {% bubble Keito v2 %}
 … I see. That will be a huge help, I won’t deny. I tried to act tough earlier, but I’m aware that I can barely do anything on my own.
 
@@ -558,6 +601,7 @@ I’m still on my way there… No, everything has only just begun.
 
 I need your help in order to make these dreams come true. I’m weak… I couldn’t even push such a pure, adoring child away without hurting him.
 {% endbubble %}
+
 {% bubble Kuro past %}
 Yeah, yeah, keep your grumblin’ for later. We’re only gonna get busier, Danna.
 
@@ -672,7 +716,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(Or maybe it was the usual thing? Were you trying to ask me what my wish was?)</th>
 
-<th>(Even though you can’t even grant wishes! You’re not some God, you’re just a human being!)</th>
+<th>(Even though you can’t even grant wishes! You aren’t some God, you’re just a human being!)</th>
 
 <th>(… Lately, I’ve been hearing a rumor — that he can no longer grant any wishes.)</th>
 
@@ -739,15 +783,19 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 {% bubble Subaru %}
 Bucho~…?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 …!? W-What is it, Akehoshi? What’s wrong? I’m using this practice room right now, y’know?
 {% endbubble %}
+
 {% bubble Subaru %}
 I know. You mentioned that in the club yesterday.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 A-Ahh… I did say that, huh… I’m happy to see you join the club more often lately, Akehoshi.
 {% endbubble %}
+
 {% bubble Subaru %}
 I just had the free time, is all. But y’know~ The Venus Cup that happened the other day ended up going really well—
 
@@ -757,9 +805,11 @@ I was so happy about it that I basically accepted every single one of them, so I
 
 So, yeah… That’s why I wanna practice. Could I do it here with you?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Mhm… Of course, you’re always welcome.
 {% endbubble %}
+
 {% bubble Subaru %}
 Thanks! You saved me a bunch~ The practice rooms aren’t for free, after all.
 
@@ -773,37 +823,47 @@ And I was right~ It’s so spacious here when you’re all alone, huh? I’ll ma
 
 But yep, I’ll take your offer and practice in this room.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Mhm, feel free! Oh, but don’t go for the corner! Let’s practice together!
 
 If there’s anything you don’t know, just ask me! I’ll teach you from top to bottom! ♪
 {% endbubble %}
+
 {% bubble Subaru %}
 Whaa~? I may need help with basketball, but I doubt there’s anything you could teach me when it comes to idol stuff, ‘kay?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 What!? Don’t look down on me, Akehoshi! I study very hard, so both my practical grades and theoretical grades are excellent!
 {% endbubble %}
+
 {% bubble Subaru %}
 Ahaha, no matter how good your grades are, it doesn’t have much to do with idol activities, does it?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 True, but… I suppose as the elder here, it shows how I have wisdom learned over time—
 
 Hm? I just noticed this, but aren’t you a little wet? The weather should’ve been good today; did a rainshower happen at some point?
 {% endbubble %}
+
 {% bubble Subaru %}
 Ahh… It’s not from the rain. A weird guy got hold of me, see…
 {% endbubble %}
+
 {% bubble Chiaki past %}
 D-Did he throw water at you or something!? That’s so cruel! I’ll go make a complaint!
 {% endbubble %}
+
 {% bubble Subaru %}
 Oh, no no! I think he was bathing in the fountain for some reason.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 —!!
 {% endbubble %}
+
 {% bubble Subaru %}
 I was doing my usual walk with Daikichi, yeah? Then suddenly, the guy just jumped on me, so I got splashed with water.
 
@@ -811,9 +871,11 @@ I guess I’m this soaked ‘cause he clinged to me.
 
 I tried to wipe it off with a towel, but maybe it didn’t dry off enough…? Sorry, sorry. I’ll wipe the wet floor with a mop or something, okay?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Akehoshi!
 {% endbubble %}
+
 {% bubble Subaru %}
 Woah! What!?
 {% endbubble %}
@@ -821,6 +883,7 @@ Woah! What!?
 {% bubble Chiaki pastserious %}
 That weird person… was Shinkai Kanata-kun, wasn’t it?
 {% endbubble %}
+
 {% bubble Subaru %}
 Y-Yeah. Yep, the guy from the Five Eccentrics.
 
@@ -828,17 +891,21 @@ That guy’s had it hard lately, hasn’t he…? The Five Eccentrics people have
 
 He was mumbling something while clinging to me; stuff like, “tell me your wish” and “let me grant your wish”… Honestly, it kinda freaked me out.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
+
 {% bubble Subaru %}
 Ah, that’s right! Maybe I misheard, but he mentioned your name at one point, too.
 
 He kept saying “Chiaki”… I don’t think there’s anyone else with that name in this school, right?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Huh? He called my name? Why would he…?
 {% endbubble %}
+
 {% bubble Subaru %}
 I dunno. I think Daikichi thought I was getting attacked when he hugged me…
 
@@ -848,16 +915,21 @@ So I dunno why he called for you.
 
 Is he your friend or something?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch17_3.jpg %}
+
 {% bubble Chiaki pastsad %}
-No… He’s not. We’ve barely even talked.
+No… He isn’t. We’ve barely even talked.
 {% endbubble %}
+
 {% bubble Subaru %}
 Hmm, I see… But you’re gonna save him, aren’t you?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Wha…?
 {% endbubble %}
+
 {% bubble Subaru %}
 You’re a hero, after all. You can’t overlook a person in trouble, right? That’s what you always say.
 
@@ -893,26 +965,33 @@ So thank you.
 
 I’m so, so grateful, I looove you, Bucho~…♪
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
+
 {% bubble Subaru %}
 A-Ah, yep! Serious talk over! Sorry! I said something weird!
 
 Being in school has been making me feel awful, and it reminded me of the past… so like, it kinda made me a little anxious and unstable, I think!
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Akehoshi.
 {% endbubble %}
+
 {% bubble Subaru %}
 Hm? What is it…? I’m starting to feel really embarrassed, so just forget what I said!
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 … Alright. I’ll forget about it.
 {% endbubble %}
+
 {% bubble Subaru %}
 …?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 What you said to me makes me so happy… I don’t actually want to forget it.
 
@@ -920,39 +999,49 @@ That was the most grateful and most honorable thing I've ever been told in my en
 
 But, I’ll forget about it. So you should forget about it too, please.
 {% endbubble %}
+
 {% bubble Subaru worried %}
 U…h? Forget about what?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 All those things I said—where I was only pretending to be a hero, talking like some know-it-all.
 {% endbubble %}
+
 {% bubble Subaru serious %}
-……
+…………
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
 I was never a hero. I loved them, I longed to become them— But no matter how hard I try, I will never be able to become one—
 
 I finally realized that. I finally recognized that.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_1.jpg %}
+
 {% bubble Subaru worried %}
 What’re you saying, Bucho~…?
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
 Thinking back on everything — it was all just some stupid, childish dream. I never understood a single thing.
 
-Our world is not like a tokusatsu show. Every guy in the whole, entire world realizes that early on, but I never did until this very moment.
+Our world isn’t like a tokusatsu show. Every guy in the whole, entire world realizes that early on, but I never did until this very moment.
 
 No… I *should* have realized, but I refused to accept it.
 
 But… I can’t do it anymore.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_2.jpg %}
+
 {% bubble Subaru serious %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
-I mean, look at me! I can’t do *anything*! You asked me what I’ll do for him, didn’t you? There’s not a single thing I would ever be able to do, Akehoshi!
+I mean, look at me! I can’t do *anything*! You asked me what I’ll do for him, didn’t you? There isn’t a single thing I would ever be able to do, Akehoshi!
 
 I don’t even have a clue where to start! I bet it would just go to waste even if I did try!
 
@@ -964,9 +1053,11 @@ But! He does absolutely nothing for me! I shouted so many times for help! Deep d
 
 But the hero never, ever came to save me!
 {% endbubble %}
+
 {% bubble Subaru serious %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
 It hurt so much to be ignored and made fun of by the guys who were supposed to be my comrades! One time, they saw my toy figurine and tore it apart, mocking me the whole time!
 
@@ -990,6 +1081,7 @@ You can see it yourself, can’t you!? This is who I am! I can’t protect anyon
 
 I don’t deserve your respect…!
 {% endbubble %}
+
 {% bubble Subaru serious %}
 ……
 {% endbubble %}
@@ -1001,9 +1093,11 @@ I don’t deserve your respect…!
 
 Ah, okay. I got it, it’s fine… Sorry for hoping for something from you.
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
 ……
 {% endbubble %}
+
 {% bubble Subaru angry %}
 Ahh, jeez… That ruined my mood.
 
@@ -1017,9 +1111,11 @@ I know that already. Of *course* I was aware of that.
 
 But it’s not like I wanted to be reminded about that fact.
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
-……
+…………
 {% endbubble %}
+
 {% bubble Subaru angry %}
 *Sigh*… In the end, you’re no different from everyone else, huh…
 
@@ -1031,11 +1127,13 @@ Not objecting to it, not sticking up for them, not saving them… just means you
 
 You’re the same kind of person as the people who killed my dad.
 {% endbubble %}
+
 {% bubble Chiaki pastsad %}
-I-I’m sor— It’s not like th— No. It's as you say.
+I-I’m sor— It isn’t like th— No. It's as you say.
 
 I’m so sorry, Akehoshi.
 {% endbubble %}
+
 {% bubble Subaru angry %}
 Nah, you don’t have to apologize.
 
@@ -1123,15 +1221,15 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 … Ahh! The call was cut off! S-Should I redial?
 
-… … … Urghh! He’s not picking up! Really, what was that about!?
+… … … Urghh! He isn’t picking up! Really, what was that about!?
 
 <th>(I don’t really understand, but I can't just do nothing about it, even if I am confused!)</th>
 
-<th>(It’s not like I have anything else to do, so I’ll keep redialing his number on the way to the ocean!)</th>
+<th>(It isn’t like I have anything else to do, so I’ll keep redialing his number on the way to the ocean!)</th>
 
 <th>(If I remember clearly, Mikejima-san is overseas right now… yet he still called for me, which must mean it’s something important.)</th>
 
-<th>(We’re not so close that he would tell me anything without a proper reason.)</th>
+<th>(We aren’t so close that he would tell me anything without a proper reason.)</th>
 
 <th>(Obviously, I’m just worthless as a human being — so worthless that even my junior, who used to adore me, has given up on me…)</th>
 
@@ -1214,6 +1312,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 {% bubble Kanata past %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki past %}
 <th>(…!? Huh? Is that Shinkai-kun?)</th>
 
@@ -1221,11 +1320,13 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 <th>(Does he love water that much? To the point that nothing else matters anymore?)</th>
 {% endbubble %}
+
 {% bubble Kanata past %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
-<th>(Hmm? Something’s not right here — I thought he was just doing his “puka puka” thing, but… He won’t get his head out of the water! He’ll suffocate at this rate! Humans can’t breathe underwater!)</th>
+<th>(Hmm? Something isn’t right here — I thought he was just doing his “puka puka” thing, but… He won’t get his head out of the water! He’ll suffocate at this rate! Humans can’t breathe underwater!)</th>
 
 <th>(Did he pass out…?)</th>
 
@@ -1233,9 +1334,11 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 Shinkai-kun! Respond if you hear me! Are you okaaaaayyy!?
 {% endbubble %}
+
 {% bubble Kanata past %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 <th>(N-No response! A-And he seems to be sinking further inside…? You *are* alive, right!?)</th>
 
@@ -1251,9 +1354,11 @@ Haaaah—!
 
 … Huff, huff! Made it in just in time!
 {% endbubble %}
+
 {% bubble Kanata past %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 <th>(I-I managed to save him! I’m so glad I did part time as a lifeguard before!)</th>
 
@@ -1277,9 +1382,11 @@ wish—
 
 i’ve been waiting for so long, chiaki…♪
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Ahh! You came back to life! I’m so glaaad…! Uaaah, I’m so, *so* glad you’re safe…! ☆ *<th>(sobs)</th>*
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 hehe. what’s wrong, are you crying? or are you Imitating a Sea turtle, chiaki…?
 
@@ -1291,22 +1398,27 @@ Uuu~? N-No, you’re mistaken! I’m not crying! That’s just water in my eyes!
 
 Actually— A hero only sheds happy tears, so that’s the kind of tears I’ve been shedding, okay…!?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 i see! i understand now! so a hero does not cry, yes…?
 
 hehe, i am jealous. you were able to become a hero…♪
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Ah, no! That was just a figure of speech, I have a habit of thinking out loud, see…!?
 
 Ahh, what am I saying! Point is, I don't have the qualifications to call myself a hero!
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 is that so? those “qualifications” are a necessity, i see~ is it some kind of Job?
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
-No, it’s not a job, it’s a way of lif—… Ahhh, seriously, what am I on about?
+No, it isn’t a job, it’s a way of lif—… Ahhh, seriously, what am I on about?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 hehe… please calm down, it will be okay.
 
@@ -1318,11 +1430,13 @@ you became a hero at some point, didn’t you?
 
 even though i have become less of a God at some point…
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
-i *am* a god, right? i am supposed to be, but everyone tells me it’s not true. why is that?
+i *am* a god, right? i am supposed to be, but everyone tells me it is not true. why is that?
 
 it seems like i have become a liar and a fraud.
 
@@ -1338,9 +1452,11 @@ you, who i granted no Wish for, and Gave nothing… you, who always Gave me thin
 
 you would teach me, wouldn’t you? that is what i had thought, so i had been searching for you forever.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 but. i could not meet with you, and it was very— what was it… i think i felt “lonely”.
 
@@ -1354,9 +1470,11 @@ do i no longer have any Right to receive a Tribute from you?
 
 that… is really Lonely.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 —!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 wah! w-why are you Hugging me? you will get wet~ you Don’t like that, right?
 
@@ -1366,6 +1484,7 @@ me too. i am not Good at these things… you do not have Body contact like this 
 
 my Scales will fully peel off. that is why… um, chiaki? are you listening?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 … Yeah. I’m sorry for suddenly hugging you.
 {% endbubble %}
@@ -1401,6 +1520,7 @@ it’s so hot, i feel like i could melt…
 
 <th>(… Can I really become a hero of justice…?)</th>
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 chiaki~…?
 
@@ -1410,9 +1530,11 @@ the Land really is painful to Live on, isn’t it…?
 
 such feelings don’t exist within the Ocean…
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 No… The ocean would be much more agonizing. Humans can’t breathe underwater.
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 yes, so it seems. i didn’t know that, because my household is within the Ocean, and i had not once thought of it as Agonizing.
 
@@ -1426,29 +1548,37 @@ i had thought i was a Fishie, and that it was why i could breathe Underwater, to
 
 but, it seems difficult. i seem to be a fishie who can’t swim.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
-You’re not a fish, y’know… and you’re not a God, either.
+You aren’t a fish, y’know… and you aren’t a God, either.
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 … i *am* a god, though.
 
 after all, if there is no god, everyone will be in distress… i have to be a god, or else.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 W-What do you mean? I mean, it’s true that the worshippers who serve you as their Living God would be in trouble without you, but otherwise…?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 no. without a god, the whole World will be in Distress.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 …?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 looong ago… a Meteorite fell down on this Land.
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Meteorite…? What’re you going on about suddenly, Shinkai-kun!?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 the story about God, chiaki. i had Overheard it during Ceremonies, so i don’t know the Full story, but…
 
@@ -1456,11 +1586,13 @@ looong ago, a Meteorite crashed down. in that meteorite there were many evil, si
 
 that was how many Human beings became ill… and died.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 <th>(Hmmm? So what he means is that there was a legend like that? That people died from illnesses through evil things coming out of a meteorite?)</th>
 
 <th>(It must’ve been a disease of some sort… and then, it began to spread across the land…?)</th>
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 it is also said that it was a Curse from the Beings slumbering underground.
 
@@ -1472,9 +1604,11 @@ a higher up of Long past found that Terrifying—
 
 so he Sacrificed those who did not fall ill, despite being on this Land… and tried to Fix everything that was happening.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Sacrifice… That must be about human sacrifice, huh… Legends like that are all over this world.
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 hm~ i think it is a little different from Human sacrifice. that would be sacrificing the Victims to the Ocean, right?
 
@@ -1482,37 +1616,47 @@ they *had* tried that at one point, but it did not seem to Work, and it had actu
 
 so everyone tried a different Method.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Different… method…?
 {% endbubble %}
+
 {% bubble Kanata pastsmiled %}
 yes. first, they tore the Sacrifice to pieces.
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Tore to pieces—!?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 they chopped them up, and made them into a feast—and everyone Ate a piece of it, tasty as they were. both their meat, and their blood…
 
 it really is just like the Yaobikuni, isn’t it?
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 A…te…!? No, that’s too cruel!
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 is it? but fish are Food, aren’t they?
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
-They’re not fish… Weren’t the sacrifices human beings?
+They aren’t fish… Weren’t the sacrifices human beings?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 yes. but once they became Sacrifices, they were no longer Humans.
 
 they become Fish—beings made to be Eaten.
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 ……
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 they ate the Sacrifice… and apparently, with that, their illness was Cured.
 
@@ -1520,6 +1664,7 @@ it Worked perfectly. and so, the Curse disappeared.
 
 a happy ending.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 <th>(… It’s probably just a fairytale, but…)</th>
 
@@ -1529,22 +1674,27 @@ a happy ending.
 
 <th>(This would explain how they managed to cure the disease, without the use of some mysterious magic and whatnot… probably. Either way, it's inhumane.)</th>
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 but. after that Happy ending, the chieftain thought to themself: this illness might Come about again.
 
 so, the family members of the sacrifices that never became ill were protected as Gods who rid of the curse — in other words, grant miracles.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Are those… your ancestors?
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 maybe so.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 <th>(Which means, this absurd fairytale-like legend is true…)</th>
 
 <th>(They’re a family that has been turned into Gods and guarded all the way up to the twenty-first century?)</th>
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 to be more Precise, apparently, the very first human being who was sacrificed to the Ocean returned all of a Sudden—
 
@@ -1554,11 +1704,13 @@ the person who was turned into a God married them, and gave birth to Children.
 
 they are my ancestors.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 <th>(That part… just sounds like a legend, yeah.)</th>
 
 <th>(There’s no way a human being could survive after being submerged into the ocean — They must have made up that story to give the whole “God” thing more weight.)</th>
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 the person who was dyed with Evil is my ancestor, and that is why we are capable of performing miraculous deeds.
 
@@ -1570,6 +1722,7 @@ not only Them, but their family, and many other people of that Land died—is wh
 
 and the illness was finally cured, too… how Sad…
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
@@ -1598,11 +1751,13 @@ that must be why… no one believes that i am a god.
 
 i am sorry.
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 … Huh? W-Why are you apologizing? I won’t call you a lying fraud, y’know? I mean, you were just raised to think of yourself as a God, right?
 
-Which means you're not the one to blame!
+Which means you aren’t the one to blame!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 ? no… i am apologizing for being Inexperienced as a god, and for growing weaker…
 
@@ -1636,18 +1791,21 @@ that is why he stopped coming to see me, right…?
 
 and you, too! chiaki, you’re the Same, aren’t you? i wanted to see you, i was so lonely… but you all left for somewhere Far away!
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 No… No, you’re wrong, Shinkai-kun.
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 …?
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 Mikejima-san was trying to save you from your circumstances. But then the worshippers found out and shunned him, and forced him to keep a distance from you… I think.
 
 You said that he brought over magazines, so maybe actions like that were seen as a problem, too.
 
-I think you were talking about when you were kids, right…? Mikejima-san may be strong and a genius, but he’s not a God.
+I think you were talking about when you were kids, right…? Mikejima-san may be strong and a genius, but he isn’t a God.
 
 He must’ve made mistakes since he was still so inexperienced, and then those piled up until his position was in danger.
 
@@ -1685,15 +1843,19 @@ But he couldn’t accomplish it, so he failed… He was completely defeated by s
 
 <th>(… and I want to become that hero — the same ones from TV that gave my younger self hope!)</th>
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 —is that your Wish?
 {% endbubble %}
+
 {% bubble Chiaki pastworried %}
 Mm!? Did I say it out loud!?
 {% endbubble %}
+
 {% bubble Kanata past %}
 no… for some reason, i could just Tell. a*hem*\~ this must be because I am a god~♪
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 No, it’s because you’re human — the same as me. You can feel empathy and understand how someone feels.
 
@@ -1703,6 +1865,7 @@ No matter how much we beg to be rescued, it would never bring about a miracle.
 
 If that’s what God is… then, even if it does truly exist, everything is practically the same as it’d be without its existence.
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 whaa~? i am *different*! i would Save you if you tell me your wish! i would bring about Miracles, and grant wishes!
 
@@ -1718,17 +1881,21 @@ i figured that’s what you were Thinking about a second ago! because i am a god
 
 i will grant you that wish! right this instant!
 {% endbubble %}
+
 {% bubble Chiaki past %}
 No… You don’t need to.
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 … whaaaat!?
 
 huh? why!? I don’t understand! please don't Hold back, please let me grant your wish!
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I refuse!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 … huh? what? why? you are only Human, yet you oppose me? i’m a god, you know? you must listen to what i say!
 {% endbubble %}
@@ -1736,26 +1903,33 @@ I refuse!
 {% bubble Chiaki past %}
 Never!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 … w-why…? uuu, why don’t you want me to grant your wish? i don’t understaaand~!
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Mhm, alright! Allow me to explain! Becoming a hero is not my wish — it’s my *dream*!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 d-dream? what is that…? is it different from wishes?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 That’s right! Listen, Shinkai-kun — You can’t make dreams come true through someone else! You have to work hard and make it come true yourself, or else there’s no point to it!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 umm… ummm…?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 And! There’s no point in granting your parents’ or ancestors’ dreams in their stead! Well, if your dream is the same as theirs, *then* it’d be fine!
 
 But! Making it come true on your own is what makes a dream so sacred!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 i-is that how it is? it is difficult to understand, but i suppose there are things like that, too…?
 {% endbubble %}
@@ -1766,25 +1940,29 @@ i-is that how it is? it is difficult to understand, but i suppose there are thin
 {% bubble Chiaki past %}
 Mhm! You’re always asking me questions, so it’s about time I asked you one! Shinkai-kun, what is your dream?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 u-um…? i-i don’t know how to respond to such a sudden question…?
 
 ah! i see! your wish is for me to answer that question, yes?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 If that’s what you want to think, then sure! Does that mean granting wishes is your dream?
 
 Fuhaha! We’re just going back and forth with everything right now, huh!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 ummm…? i grant wishes because i am a god. i do not know if that is what you would call a Dream or not…!
 
 it is the same as Breathing and eating Food for me… can i call that my Dream?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 That’s different! Well, it is possible to have meals as a dream if you were a kid who was starving to death!
 
-But you’re not like that, right?
+But you aren’t like that, right?
 
 A dream! Is something you don’t have with you at this very moment! But you’ll do whatever it takes to have it within your grasp!
 
@@ -1792,15 +1970,19 @@ It’ll make you feel like you could work as hard as you possibly can without a 
 
 Do you not have anything like that, Shinkai-kun?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 uhh, umm…? i’m sorry, i am still Thinking!
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Hm. It just occured to me, but isn’t your dream to become an idol?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 huh? is that so? why did you Think that, chiaki?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Well, you’re wearing the same uniform as me!
 
@@ -1810,14 +1992,17 @@ There's no way anyone out there would accidentally join the idol course, after a
 
 Why did you join the idol course? Or is this also because your peculiar household ordered you to…?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 no… i was not given any Order to do so. i am a god, you know?
 
 the likes of mere Humans could never Order me around.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 So we’re just mere humans…?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 ah! i am not making a Fool out of you, okay? it is just that Gods and Humans are different, we are Different existences…!
 
@@ -1847,21 +2032,25 @@ of course, once i got to meet the Five Eccentrics, they did make that Desire com
 
 that was why we were to become Friends.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Hehe. Then your dream came true.
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 i wonder… i’m not sure—was that really my Dream?
 
 but in reality, someone started calling us the Five Eccentrics… and it is Thanks to that that i made Friends.
 
-which means someone Granted it for me, so it’s not a Dream, yes?
+which means someone Granted it for me, so it is not a Dream, yes?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 No, no. As long as it wasn’t completely given to you in its entirety from someone else, then you can still call it a dream.
 
 After all, you worked hard to become their friend, right?
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 yes… especially shu — he was unwilling to become my Friend.
 
@@ -1875,9 +2064,11 @@ i Failed many times along the way, but… at some point, he began to call me his
 
 it made me so happy… ehehe, it makes me Smile just remembering it.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I see! Then that really must’ve been your dream. It’s because you made it come true on your own that it made you so happy.
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 mm~? i don’t understand this anymore! i really can’t help but see Wishes and Dreams as the same! i cannot tell the Difference!
 
@@ -1889,6 +2080,7 @@ and once you’ve Worked hard for a bit, i will make it possible to Grant it!
 
 … is that wrong, too?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 No, not at all. I really appreciate it. I’m happy to hear that you want to support and help me achieve my dream.
 
@@ -1900,17 +2092,21 @@ That’s how all the people in the whole world make their dreams come true, with
 
 I can’t cheat my way toward it! So please, cheer me on as a friend!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 friend… chiaki, you will become my Friend?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Hm? Yep, only if that’s alright with you! If you ever feel lonely, call for me! I’ll hug you!
 
 Let’s do lots of fun things together! Let’s become friends!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 … but. chiaki, you are not a god, are you?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I’m not, and neither are you. I’ll sound a little mean with how I word this, but — if you want to be my friend…
 
@@ -1918,17 +2114,21 @@ Then you have to become a human being that lives on the same surface as me, inst
 
 If it’s just you as a human being, then you’re always welcome to be my friend! Let’s become close friends that laugh, cry, and enjoy their youth together!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 mm~ gods are not up in the Heavens, but Deep within the oceans, though…
 
 well, i will think it through.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Okay! Tell me when you've decided! I pray that we really do become friends at some point and shake each other’s hands! ☆
 {% endbubble %}
+
 {% bubble Kanata past %}
 ah! did you just say “Pray”? i see, so that is your Wish…☆
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor* my dream! My dream is—
 {% endbubble %}
@@ -1938,12 +2138,15 @@ Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor*
 {% bubble Madara hidden %}
 “Your dream is to become a hero… riiight?”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 —!?
 {% endbubble %}
+
 {% bubble Kanata past %}
 huh? was that mikejima’s Voice just now? or was it my imagination?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Hahaha! My oh my, don’t be so surprised! It’s not just your imagination, it’s your Mamaaaaaaa!! ☆”
 
@@ -1953,25 +2156,31 @@ huh? was that mikejima’s Voice just now? or was it my imagination?
 
 “That’s right! You had never needed to want *‘that’*, y’know—for you see, your friend has been here from the very staaaart!!”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 u-ummm? where? show Yourself, manservant!
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “I’m not a manservant! I’m repeating myself, but—I’m your friend! Or, really, I’m your Mamaaaaa!”
 
 “Wait—But we’ll be family if I become your Mama, so wouldn’t that mean we won’t be friends? I’m contradicting myself!”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Ahhh! Look over there, Shinkai-kun! There’s something rising up from the ocean! It looks huge… Wait—Is it a monster!?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Nah, it’s not! It’s a drone that I dropped in the ocean to make it look like a meteorite.”
 
 “Mama made eeevery single part of it all by himself! My recipe is a secret! It’s waterproof, and to some extent, I can control it remotely from far away!”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it safe to get close to it? It won’t explode, right!?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Don’t worry, don’t worry, it won’t. Probably. Don’t be so alarmed, please come closer… You guys are a liiittle too far away for me to see you clearly.”
 
@@ -1979,28 +2188,35 @@ Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it s
 
 “In the end, people understand each other’s intentions better when they talk face to face, right?”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Mmm… I don’t really get it, but how about we try going closer, Shinkai-kun?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 *sigh*…
 
 wa—ahhh—?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Are you alright!? You’re staggering a little… It’s hard to walk on sand — You can grab onto my shoulder if you like!
 {% endbubble %}
+
 {% bubble Kanata past %}
 okaaay. thank you, chiaki.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Oh no, no need for thanks! When one of us is in trouble, we all are! You need no reason nor reward to help a friend! Fuhahahaha!! ☆
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 acting so high and mighty for something as Simple as this… also, we are not Friends yet, okay?
 
 …you, too. when did *you* ever become my Friend, *rogue*?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Hahaha… I was *always* trying to be that for you, though…?”
 
@@ -2010,35 +2226,43 @@ acting so high and mighty for something as Simple as this… also, we are not Fr
 
 “First off, thank you two for answering my calls!”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Hm? It is true that you led me here through a call, but does that mean you called Shinkai-kun over too, too…?
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 no… for some reason, i am told to never Come into contact with mikejima, so…
 
 it has been a While since i Heard from him, or even his voice.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep! I’m so sorry for making you feel lonely, Kanata-san!”
 
 “Ahhh, I wanna hug you sooo bad! I’ll at least blow kisses at you so a little bit of my love reaches you! Kiss, kiss~☆”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 just die.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Hm. So, Mikejima-san? Your… real self… is still overseas?
 
 I can see you through the screen attached to the drone, but where is that place…? A warehouse…?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep! I’m using a network to call you guys! I’m in Rio de Janeiro right now!”
 
 “Hahaha! ‘Ri-o-de-Ja-ne-i-ro’ sounds like a Japanese word that comes from an alternate universe!”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Why are you in a place like that…? You really are flying all over the world, huh…
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep. In fact, even I started to find it weird how much travelling I’ve had to do, so I did some proper research…”
 
@@ -2056,12 +2280,15 @@ Why are you in a place like that…? You really are flying all over the world, h
 
 “I’m so sorry, Kanata-san… I couldn’t become your hero.”
 {% endbubble %}
+
 {% bubble Kanata past %}
 ……
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 ……
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “But whatever, I’ll keep my whining for later. I’ll look back on everything when I can’t move a single part of my body anymore… There’s no use crying over spilled milk.”
 
@@ -2071,6 +2298,7 @@ Why are you in a place like that…? You really are flying all over the world, h
 
 “Kanata-san. You seem worried about it, so I’ll at least tell you this: It’s pretty obvious by now, but—what crashed down into this ocean wasn’t a meteorite.”
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 <th>(Meteorite… Ahh, right, his family began from one.)</th>
 
@@ -2090,17 +2318,21 @@ Why are you in a place like that…? You really are flying all over the world, h
 
 <th>(The worshippers forbid him from contacting Shinkai-kun, so he had to find another way to talk to him.)</th>
 {% endbubble %}
+
 {% bubble Kanata past %}
 …hm. i see. why did you do this then?
 
 a Meteorite is no Joke to us, you know?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and straaaight onto the earth…♪”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 … *<th>(glares)</th>*
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “…That’s not the real reason, of course. I’ll stop cracking jokes, so please stop trying to break the camera, Kanata-san!”
 
@@ -2112,17 +2344,21 @@ a Meteorite is no Joke to us, you know?
 {% bubble Madara hidden %}
 “Chiaki-san.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Y-Yes? D-Did I do something!?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Why’re you acting so surprised… You’re as timid as always—although that has its own cute charm to it.”
 
 “I called you ‘cause I have a favor to ask of you, of course.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Me…?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep. Chiaki-san, I’ll make you into a hero.”
 
@@ -2132,9 +2368,11 @@ Me…?
 
 “I want you to cooperate with that person, and take Kanata-san to his home, where it’s safe.”
 {% endbubble %}
+
 {% bubble Kanata past %}
 my… house?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep. You’re in the center of this whirlpool, so it'll probably be hard for you to understand why… but I’m sure Chiaki-san will.”
 
@@ -2142,9 +2380,11 @@ my… house?
 
 “He was chosen as the second Eccentric to be subjugated… and they’re trying to publicly execute him through the live show that’s about to start.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 …You know a lot even when you’re overseas, huh?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Hahaha, nooobody holds their tongue in this day and age! If I ever wanna know something, there’s plenty of ways to get the info.”
 
@@ -2164,14 +2404,17 @@ my… house?
 
 “Being in that place will only get you minced up, like your ancestors from long ago that were made into sacrifices.”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 ……
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “And with that, Yumenosaki will be revolutionized, and we begin a beaaautiful, peaceful new era! Yep, yep! You need sacrifices to accomplish that, don’t you~♪”
 
 “…It’s absolute bullshit.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I think so, too. I see, so that’s what this was about…
 
@@ -2181,6 +2424,7 @@ I’ve been believing in and cheering on people like that…?
 
 I was under the belief that they would change this world for us…
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “The world will probably change, yeah. But, for that change to happen, there are people being turned into sacrifices.”
 
@@ -2192,50 +2436,61 @@ I was under the belief that they would change this world for us…
 
 “I don’t care if I’m called a villain for it.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 …I think you’re a wonderful hero, Mikejima-san.
 
 That’s exactly why you’re also dressed *that* way, right?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Hm? No, no! I needed this uniform for work, that’s aaall!”
 
 “I figured no one would use it, so I stole it from the AV room, since that’s become Ryuseitai’s storage area!”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 You should get permission first… I suppose you can’t choose your methods for your goals, but… you should do the proper procedures no matter what.
 
 If you just keep doing what you like, you’ll lose all your allies.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “I’m fine with me being my only ally. Besides, no one would be upset if I took it, would they? I mean, I chose the color that barely makes an appearance in Super Sentai shows, y’know?”
 
 “There were a bunch of other uniforms in red, blue, and other common colors, sooo… Chiaki-san, feel free to use any of them if you need to.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Really…? Then I’d like to wear the red uniform. Though it probably doesn’t suit me with how I am right now.
 {% endbubble %}
+
 {% bubble Kanata past %}
 ? i don't quite understand, but i would like blue~♪
 {% endbubble %}
+
 {% bubble Chiaki past %}
-Ahaha, you’re not part of Ryuseitai, y’know~… Ah, but wait? Hmm? It *would* suit you, though…?
+Ahaha, you aren’t part of Ryuseitai, y’know~… Ah, but wait? Hmm? It *would* suit you, though…?
 
 <th>(Huh, wait… I think I have a great idea.)</th>
 {% endbubble %}
+
 {% bubble Kanata past %}
 Um? err… so, i should go Back home, yes?
 
 it is true that the School is suffocating right now, so… i would like to go home.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Mhm. You don’t need to become a sacrifice. Just hide somewhere safe.”
 
 “And then, once things calm down, and you still feel like being an idol, I’d like you to come over to my place. No—I’ll come pick you up from your house, and we could go there together.”
 {% endbubble %}
+
 {% bubble Kanata past %}
 mikejima’s… place? is that Outside the Ocean…?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Yep. See, there’s an acquaintance I know here, and apparently they’re gonna make a whole new agency.”
 
@@ -2243,9 +2498,11 @@ mikejima’s… place? is that Outside the Ocean…?
 
 “We’ll have a re-do with our time as idols in that agency. We’ll even get to have our whooole youth there.”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 …that…
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Does the thought make you uneasy? I figured… It’s not like you can trust anything I say at this point…”
 
@@ -2253,6 +2510,7 @@ mikejima’s… place? is that Outside the Ocean…?
 
 “I may be trusting that acquaintance, but there’s still a chance they could reject us from the agency. If that happens, we’ll have nowhere left to run.”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 …the fact that i Was one of the five Eccentrics… will become a Problem, won’t it…
 
@@ -2267,6 +2525,7 @@ no agency’s Manager would ever accept such an idol…
 {% bubble Madara hidden %}
 “…I’m gonna do something about that.”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 no. that itself would be a Problem.
 
@@ -2288,19 +2547,23 @@ it is your Dream to become an idol, isn’t it?
 
 it would only be Sad if you were turned into a Villain along with Me and lost your dream, all because of me… wouldn’t it?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “…Nah. I was never interested in idols—I just joined Yumenosaki to take care of you, the Living God, y’know?”
 
 “So! It’s peeerfectly fine if I fail to become an idol! ‘Cause I never had any interest in becoming one, anyway!”
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 …liar.
 
 if that is the case. then why were There idols in the Magazines you would always bring over…?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “……”
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 mikejima. thank you for trying to Protect me until the very end.
 
@@ -2320,23 +2583,29 @@ i could not even become a proper god, and lost hold of my religious faith…
 
 there was no chance someone like me could ever be capable of becoming Something else.
 {% endbubble %}
+
 {% bubble Chiaki past %}
 …Like a transformation[^23], huh.
 {% endbubble %}
+
 {% bubble Kanata past %}
 mm? what is it, chiaki?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I see now. You were the same as me.
 {% endbubble %}
+
 {% bubble Kanata past %}
 what are you on about…? um, it makes you Happy to know we are the Same, yes?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Yep! Really happy!
 
 Mikejima-san!
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “W-What?”
 
@@ -2354,9 +2623,11 @@ Mikejima-san!
 
 “I was already considering asking you to do that in the case the ship *does* arrive, but everyone in there is in disarray and tries to harm Kanata-san… or even if you just sensed something bad from them.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 So that’s why you called for me… I have no means of retaliation if they start attacking us, y’know? I’ll only get beaten down—I’m weak when it comes to fighting, I’m not like my friend.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “No, there’s no need for you to fight. Just call for the police.”
 
@@ -2364,26 +2635,33 @@ So that’s why you called for me… I have no means of retaliation if they star
 
 “I’ve already asked him to be on standby for it. …He’s still my parent, more or less, so he’ll probably do what I asked of him.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 But then, why didn’t you just ask your parents to escort Shinkai-kun from the start, instead of me…?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “I can’t trust them thaaat much… Please just know that my parents are always my last resort.”
 
 “Both of them are worshippers themselves, and don’t see me, the problem child, in good light.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I see. You should get along with your family more. Don’t you have things you should be doing before calling yourself a “mama” and playing house?
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “That hurts to hear, haha… But anyway, wasn’t there something you were about to say?”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Ah, yes. I have one favor to ask, Mikejima-san.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Sure, let me hear it. Tell me anything, since I owe you big time now.”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Thank you! …You see, there’s something I’d like to try.
 
@@ -2391,31 +2669,39 @@ So I want to postpone the escorting for later—please do forgive me for that.
 
 I’m sure it won’t be too late to give up and run away *after* trying everything you can do first.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Oooh? Interesting. What is it that you wanna try?”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I don’t have enough time to explain. The “Battle versus the Sea God” performance will end if we don’t go there soon.
 {% endbubble %}
+
 {% bubble Madara hidden %}
 “Battle versus the Sea God? Isn’t that the live show for executing the ‘Eccentric’, Kanata-san…?”
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Mhm. I’m thinking of going there right now. …with Shinkai-kun.
 {% endbubble %}
+
 {% bubble Kanata past %}
 huh? me too? why? but wait, isn’t a Ship coming…? shouldn’t we Wait for it?
 {% endbubble %}
+
 {% bubble Chiaki past %}
-We’re not going to go on that ship. Ah, no—maybe if this doesn’t work out, then we should rely on that plan, but— Nah, actually, I already feel like this isn’t going to work, since it’s something *I’m* trying to do.
+We aren’t going to go on that ship. Ah, no—maybe if this doesn’t work out, then we should rely on that plan, but— Nah, actually, I already feel like this isn’t going to work, since it’s something *I’m* trying to do.
 
 But! Shinkai-kun, you said it yourself, didn’t you? You said that if no one is in need of you, then you may as well not exist!
 
 But there’s no need to worry! Because I’m here!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 whaa…?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 I want to see you as an idol! I want to see the version of you that isn’t a God!
 
@@ -2423,26 +2709,33 @@ After all, I told you that we should be friends… yet I still know nothing abou
 
 I want to know more! I want to see more of you, in different ways! Let’s talk about our favorite color! Our favorite food! I’m going to keep saying it — Let’s become friends…!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 i-is that your w—
 {% endbubble %}
+
 {% bubble Chiaki past %}
-No, it’s not a wish! It’s a promise! I vow on the bright red sunset!
+No, it isn’t a wish! It’s a promise! I vow on the bright red sunset!
 {% endbubble %}
+
 {% bubble Kanata pastcurious %}
 huh..? it is Night time right now, there is no Sunset..?
 {% endbubble %}
+
 {% bubble Chiaki past %}
 Don’t worry about the details! Don’t just give up and act like you've gone cold! Be more passionate—more burned up…!
 
 No! *I’ll* make you passionate! I’ll revive you myself! Not just that—Let’s live on, together! We were finally able to meet each other — I don’t want to say goodbye like this…!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 …? …??
 {% endbubble %}
+
 {% bubble Chiaki past %}
 C’mon, let’s go!
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 wait, wha—huh? are you serious? where are we going, chiaki~?
 

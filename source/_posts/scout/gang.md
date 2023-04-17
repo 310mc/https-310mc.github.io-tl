@@ -388,7 +388,7 @@ Besides, is it true that they’re tightening security? Was there an announcemen
 {% bubble Yuzuru %}
 No, normal students would not know.
 
-I was assisting the Young Master with his work in the Student Council room, and I simply overheard it.
+I was assisting the Young Master with his work in the Student Council office, and I simply overheard it.
 
 In any case, it seems that Yumenosaki Academy received some notice from a terrorist.
 {% endbubble %}

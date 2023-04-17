@@ -654,7 +654,7 @@ Wha!? W-Why did you change, too!?
 {% endbubble %}
 
 {% bubble Chiaki past%}
-No, um…? It’s not that—actually, it suits you way more than I thought, but--! Shinkai-kun, don’t tell me you’re going up on stage…!?
+No, um…? It isn’t that — Actually, it suits you way more than I thought, but—! Shinkai-kun, don’t tell me you’re going up on stage…!?
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
@@ -784,7 +784,7 @@ I *will* do this, even if I’m all on my own. If there’s even a slight chance
 
 If I lose the chance I have now, I’ll just end up a boring, whiny coward for the rest of my life.
 
-But that’s not what I want to become… I want to become a *hero*.
+But that isn’t what I want to become… I want to become a *hero*.
 
 That’s why I’ll go there. Honestly, I don’t recommend joining me, but if that’s what you prefer to do, then — I’ll respect your feelings, just like you respected mine. It’s reassuring, and it’ll help me out a lot.
 
@@ -934,7 +934,9 @@ I will never, ever regret that I made this decision—that I made this choice fo
 
 <th>(That’s why, at the very least, I’ll smile for the audience. Even if this were nothing but a repulsive farce of a show, we’ll ensure satisfaction to our guests.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
+
 {% bubble Chiaki pastbcg %}
 HOLD IT RIGHT THEEEERE!!![^29]
 {% endbubble %}
@@ -1034,7 +1036,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 
 “They crush the strong and save the weak! They come running towards anyone in need of rescue! No matter what happens, they’ll make sure to protect you!”
 
-“I won’t ask you to have faith in us — after all, we’re not Gods to revere!”
+“I won’t ask you to have faith in us — after all, we aren’t Gods to revere!”
 
 "But I want you to have *hope* — to understand that heroes like us exist in this world!”
 
@@ -1076,7 +1078,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 
 “That’s why everyone starts to doubt heroes — that’s why they call them liars!”
 
-“I can’t bear to watch that happen — No, it’s not only that! It’s because I want to repay their kindness, for teaching me everything important to know—”
+“I can’t bear to watch that happen — No, it isn’t only that! It’s because I want to repay their kindness, for teaching me everything important to know—”
 
 “That’s why I’ll be protecting their dignity! If there are no heroes in this world, then *I’ll* become the hero!”
 
@@ -1112,7 +1114,7 @@ Hasumi.
 {% bubble Keito v2 cg %}
 … Hm. I was a little shaken after seeing such an unexpected sight, but — our plans haven’t changed. We’ll do what we must, carefully.
 
-“Morisawa. Sorry to interrupt your excitement, but it’s not your turn.”
+“Morisawa. Sorry to interrupt your excitement, but it isn’t your turn.”
 
 “According to DreamFes regulations, performances begin from the unit with the least amount of track records.”
 

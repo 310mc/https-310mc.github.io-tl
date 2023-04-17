@@ -120,7 +120,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(After we became second-years, Mikejima-san has been travelling overseas even more than before for some reason…)</th>
 
-<th>(So whenever he’s not around, everyone starts doing whatever they want, like they’re trying to vent out their pent-up grudges.)</th>
+<th>(So whenever he isn’t around, everyone starts doing whatever they want, like they’re trying to vent out their pent-up grudges.)</th>
 
 <th>(Some members couldn’t even tolerate stopping themselves from messing around, so they’ve been transferring to Chess instead, where everyone messes around all the time, whenever they feel like.)</th>
 
@@ -166,7 +166,7 @@ Sorry, but you’re in my way, so~ Move, Morisenpai.
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Woah—! Oh, Akehoshi-kun! Hello! I’ve told you this so many times by now, but it’s not “Mori”, I’m *Morisawa*!
+Woah—! Oh, Akehoshi-kun! Hello! I’ve told you this so many times by now, but it isn’t “Mori”, I’m *Morisawa*!
 
 {% endbubble %}
 {% bubble Subaru %}
@@ -358,7 +358,7 @@ I feel like you praise me over just about anything… It’s super overbearing, 
 
 {% endbubble %}
 {% bubble Chiaki past %}
-That’s not my intention at all~! … I’ve never once been praised by my seniors, so I thought to make sure to pour all my love into my juniors once I had my own!
+That isn’t my intention at all~! … I’ve never once been praised by my seniors, so I thought to make sure to pour all my love into my juniors once I had my own!
 
 {% endbubble %}
 {% bubble Subaru %}
@@ -1225,7 +1225,7 @@ Hahaha! It’s not like I wanna scare people or anything, but eeevery time I gre
 
 {% endbubble %}
 {% bubble Chiaki pastworried %}
-Urmm… You’re noisy and massive, so it’s not strange to feel pressured by your presence, I think. Still, what are you doing here?
+Ermm… You’re noisy and massive, so it isn’t strange to feel pressured by your presence, I think. Still, what are you doing here?
 
 {% endbubble %}
 {% bubble Madara %}
@@ -1377,7 +1377,7 @@ Even Kanata-san told me off, y’know? He called me a traitor. An unfaithful, vu
 
 {% endbubble %}
 {% bubble Chiaki pastserious %}
-That’s not true, though. Aren’t you the *only* person who’s been trying to protect him as a human being? You did it because he’s your friend—because you love him.
+That isn’t true, though. Aren’t you the *only* person who’s been trying to protect him as a human being? You did it because he’s your friend—because you love him.
 
 {% endbubble %}
 {% bubble Madara %}
@@ -1759,7 +1759,7 @@ Bucho~… Save me…
 
 A-Are you hurt somewhere!?
 
-Ahhh!! Don’t worry!!! It’ll be fine! I’ll be by your side, no matter what! So there’s not a single thing to worry about, okay Akehoshi!?
+Ahhh!! Don’t worry!!! It’ll be fine! I’ll be by your side, no matter what! So there isn’t a single thing to worry about, okay Akehoshi!?
 
 {% endbubble %}
 {% bubble Subaru worried %}

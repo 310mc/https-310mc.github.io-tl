@@ -193,11 +193,11 @@ ahh, i forgot. ehehe, it was an accident, really…♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh jeez… You’re not living all on your own — Don’t just forget about us, please. If you kill Sengoku-kun by “accident,” he won’t be able to rest in peace…
+Oh jeez… You’re not livin’ all on your own — Don’t just forget about us, please. If you kill Sengoku-kun by “accident,” he won’t be able to rest in peace…
 {% endbubble %}
 
 {% bubble Kanata %}
-yes! i’m aware! the five of us together are Ryuseitai~♪
+yes! i am aware! the five of us together are Ryuseitai~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -219,13 +219,13 @@ But at this point, Ryuseitai is like family to me. Our bond is too deep to break
 {% endbubble %}
 
 {% bubble Kanata %}
-yes. hehehe~ i’ve made many Families before i knew it… not that i ever Wished for any of it.
+yes. hehehe~ i have made many Families before i knew it… not that i ever Wished for any of it.
 
-god doesn’t Wish for things, after all.
+god does not Wish for things, after all.
 
-ah, but… that’s right… i’m not a god, am i?
+ah, but… that’s right… i am not a god, am i?
 
-chiaki told me that, but… i had always believed myself as such, so it’s still hard for me to shake off the thought…
+chiaki told me that, but… i had always believed myself as such, so it is still hard for me to shake off the thought…
 {% endbubble %}
 
 {% bubble Tetora %}

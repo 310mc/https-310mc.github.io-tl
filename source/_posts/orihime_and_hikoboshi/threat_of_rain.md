@@ -99,7 +99,7 @@ Y-You have to properly greet them, Midori-kun!
 {% endbubble %}
 
 {% bubble Tetora %}
-So do you, Sengoku-kun! They’re gonna be leading us, so we have to be polite. Karate starts with a bow and ends with a bow! ♪
+So do you, Sengoku-kun! They’re gonna be leading us, so we gotta be polite. Karate starts with a bow and ends with a bow! ♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -119,7 +119,7 @@ Morisawa-senpai said something about how you should be the one to take that role
 {% endbubble %}
 
 {% bubble Tetora %}
-Well he didn't really actually *say* it to me, but yeah…
+Well he didn't actually really *say* it to me, but yeah…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -571,7 +571,7 @@ H-Hey, Akehoshi… I don't understand — Why are you getting angry all of a sud
 {% bubble Tetora %}
 Um, did we do somethin' upsetting…?
 
-You’re right, we didn't think about this properly. We relied on Taichou way too much, and never thought 'bout it on our own.
+You’re right, we didn't think ‘bout this properly. We relied on Taichou way too much, and never thought 'bout it on our own.
 
 I really do wanna do better this time, and I’ll never let this happen ever again, so please forgive us.
 {% endbubble %}

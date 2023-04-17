@@ -436,7 +436,7 @@ Woah!? Shinkai-kun! So it really *was* you!
 {% bubble Chiaki past %}
 Uh, no, um—… I keep saying this, but I really don’t think it’s a good idea to bathe in water with your clothes still on.
 
-And you’re doing that in a fountain this time, so it looks even more suspicious and strange than before. You’ll be reported if you’re not careful, y’know?
+And you’re doing that in a fountain this time, so it looks even more suspicious and strange than before. You’ll be reported if you aren’t careful, y’know?
 
 {% endbubble %}
 {% bubble Kanata pastcurious %}
@@ -562,7 +562,7 @@ Huh? Um… But—
 
 <th>(What am I thinking… He may seem capable of rebuilding a fountain in one night, and can perform other miraculous, unfathomable spectacles, but…)</th>
 
-<th>(Just because he can, doesn’t mean I should ask him to do another. I have no right to do so. We’re not friends—we’re nothing to each other. I should solve my problems on my own.)</th>
+<th>(Just because he can, doesn’t mean I should ask him to do another. I have no right to do so. We aren’t friends — we’re nothing to each other. I should solve my problems on my own.)</th>
 
 <th>(I don’t want to be a helpless victim that asks for help from heroes—I want to *become* a hero.)</th>
 
@@ -1240,7 +1240,7 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 {% bubble Chiaki pastworried worried %}
 Shinkai-kun!
 
-<th>(… He’s not here, either. Nor was he at the fountain… He’s nowhere to be found. He disappeared like he was just some kind of illusion or dream…)</th>
+<th>(… He isn’t here, either. Nor was he at the fountain… He’s nowhere to be found. He disappeared like he was just some kind of illusion or dream…)</th>
 
 <th>(But I *have* to see him! He said something about granting my wish…! My wish regarding Kiryu-kun…!)</th>
 
@@ -1387,7 +1387,7 @@ I was only saying that there are a looot of people who *believe* that.
 
 That includes Kanata-san… to these kinds of people, who believe in such a being… They also believe that Gods, magic, and everything else like it are real, too.
 
-That isn’s necessarily a bad thing. I mean, if you try to prove to people that Santa Claus isn’t real, it’s not gonna make anyone happy.
+That isn’t necessarily a bad thing. I mean, if you try to prove to people that Santa Claus isn’t real, it’s not gonna make anyone happy.
 
 That’s why these customs don’t die out. Even now, mamas and papas dress themselves red, wear a white beard, and place presents under their children’s pillows for the ones who believe in him.
 

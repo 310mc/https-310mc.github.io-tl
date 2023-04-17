@@ -179,7 +179,7 @@ Ohh, is that so… ♪ My bad, Sengoku! I wasn’t trying to insult you guys! Th
 {% endbubble %}
 
 {% bubble Shinobu %}
-It is not just that. It is as you always say, Taichou-dono — *All* *for* *one*, *one* *for* *all*~♪
+It is not just that. It is as you always say, Taichou-dono — <em>All for one, one for all</em>~♪
 
 {% endbubble %}
 

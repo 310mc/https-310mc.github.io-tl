@@ -219,11 +219,11 @@ hm. well, maybe it was his Atonement for hurting us five Eccentrics.
 
 i refuse to forgive him, though~ because he made my Friends suffer.
 
-it’s not about what happened to me — the real problem is that he got Involved with my Friends.
+it is not about what happened to me — the real problem is that he got Involved with my Friends.
 
 on the other hand, the temple guy is surprisingly not that Revolting.
 
-i won’t listen to what he Says ever again, though… by that, i mean his Wishes. it’s all his fault that i couldn’t stay as a god, after all.
+i will not listen to what he Says ever again, though… by that, i mean his Wishes. it is all his fault that i couldn’t stay as a god, after all.
 
 as frustrating as it is, i suppose i could also say it’s *thanks* to him.
 {% endbubble %}
