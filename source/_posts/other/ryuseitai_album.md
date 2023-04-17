@@ -158,7 +158,7 @@ This is the last day, you know? That is why we planned to surprise the fans with
 But in the end, it just ended up as it always does… It is never the way we first thought it through.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 now, now. we do not need to be formal about this, anyway. it is much more like us to simply do it the usual way…♪
 
 now then, chiaki. please continue what you were saying, as our [taichou].

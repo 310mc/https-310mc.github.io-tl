@@ -309,7 +309,7 @@ i want to protect it. this time… i will definitely protect what is [important]
 {% bubble Kaoru %}
 Look, Anzu-chan! Look over there! There’s an interesting display of fish over there~♪
 
-It looks like they put all the big crabs and deep-sea fish and any other sci-fi-like marine life in there, so it’s like you’ve “Stepped into a planet completely different from Earth,” or so it says.
+It looks like they put all the big crabs and deep-sea fish and any other sci-fi-like marine animals in there, so it’s like you’ve “Stepped into a planet completely different from Earth,” or so it says.
 
 I think no one’s been approaching it, probably because it’s kinda eerie.
 
@@ -523,7 +523,7 @@ i am always confused whenever people tell me that it is so [weird] or “you poo
 
 and i am on [good terms] with my household, so i am not really that [dissatisfied], you know?
 
-it is just… the [gods] has been [falling] out of power lately. so it seems like my household’s [power] has [weakened].
+it is just… [god] has been [falling] out of power lately. so it seems like my household’s [power] has [weakened].
 
 and that is when my household decided to let go of this [aquarium] they [own].
 {% endbubble %}

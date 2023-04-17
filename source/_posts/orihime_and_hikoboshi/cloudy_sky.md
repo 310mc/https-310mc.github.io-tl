@@ -86,9 +86,9 @@ hidden: true
 {% bubble Chiaki %}
 Defense, defense~☆
 
-Come at me, Akehoshi! Show me that you can overcome the high wall known as me! You can do it, you can! Because it’s you!
+Come at me, Akehoshi! Show me that you can overcome the high wall known as I! You can do it, you can! Because it’s you!
 
-Burn the flames of your soul red! Make a large river with the sweat of your youth! Become the Basketball Club’s star that will shine throughout the entire universe! Akehoshiiii~!!! ☆
+Burn the flames of your soul red! Make a large river with the sweat of your youth! Become the Basketball Club’s star that will shine throughout the entire universe, Akehoshiiii~!!! ☆
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -98,7 +98,7 @@ Hey, hey Sally~ If you don’t plan on drinking that, then give it to me! I'm fe
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_2.jpg %}
 
 {% bubble Mao %}
-Okay sure, but. Could you pay attention to Buchou?
+Okay sure, but. Could you pay attention to our captain?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -106,13 +106,13 @@ I am, though~! I’m distracting him, and then while I hide the ball behind me�
 {% endbubble %}
 
 {% bubble Chiaki %}
-How naive of you, Akehoshi! I see you tried to play your trump card, but you can’t get past me like that!
+How naïve of you, Akehoshi! I see you tried to play your trump card, but you can’t get past me like that!
 
-It was still a very nice idea! I really thought you were ignoring me for a second there!!
+It was still a very nice idea! I really thought you were ignoring me for a second there…!
 {% endbubble %}
 
 {% bubble Mao %}
-Woah, nice defense! Buchou, you're not that tall but you make up for it by being really good at jumping.
+Woah, nice defense! You're not that tall, Buchou[^1], but you make up for it by being really good at jumping.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -124,7 +124,7 @@ Tch, so it didn't work. And here I thought you had finally let your guard down n
 {% endbubble %}
 
 {% bubble Chiaki %}
-Fuhaha! I'm at a climax from start to end![^1] I'll always be charging to the very last moment!
+Fuhaha! I'm always at a climax from start to end![^2] I'll always be charging to the very last moment!
 
 You won't get me with surprise attacks! I'm always taking a close look at how your muscles are moving!
 
@@ -138,7 +138,7 @@ Guess I still can't score a goal on you, huh…
 {% endbubble %}
 
 {% bubble Chiaki %}
-Of course not! I plan to be your unsurpassable wall for the rest of my life!
+Of course not! I plan to be you guys' unsurpassable wall for the rest of my life!
 
 But I want you to keep trying harder and harder! And then, you’ll be able to fly higher than you could today! ☆
 {% endbubble %}
@@ -148,11 +148,11 @@ Ahaha, whenever you're playing, you just get more and more hyper, Buchou…
 
 You don’t get tired at all, huh? I'm honestly envious, the heat’s already getting to me.
 
-There’s no way I could handle student council work, unit activities, *and* club activities without exhaustion.
+There’s no way I could handle Student Council work, unit activities, *and* club activities without exhaustion.
 
 Ah, man~ It’s just nuts for me lately.
 
-Like, I even helped Anzu with the plans for Tanabata Festival until it was perfected.
+Like, I even helped Anzu with the plans for Tanabata Festival 'til it was perfected.
 
 It was really tough… I’m glad it was approved in the end.
 {% endbubble %}
@@ -164,13 +164,11 @@ Same here… I’m exhausted… I’m so tired of summer… I just wanna stay in
 {% endbubble %}
 
 {% bubble Chiaki %}
-What's wrong, Takamine! Why are you slouching in the corner there!?
-
-Did something sad happen to you? Alright, don't worry, I’ll share my energy with you! ☆
+What's up, Takamine, what's wrong!? Why are you slouching in the corner there!? Did something sad happen to you? Alright, don't worry, I’ll share my energy with you! ☆
 {% endbubble %}
 
 {% bubble Midori %}
-Ack— You’re hot! It's not suffocating — it's literally like you're a burning hot pan…! Are you okay, Morisawa-senpai…? Do you have a fever?
+Ack— You’re hot! It's not suffocating — it's literally like you're a burning hot pan…! Are you okay, Morisawa-senpai…? Do you have a fever…?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -194,11 +192,11 @@ But lately, it’s been calm and quiet… So I’ve been pretty happy…♪
 {% bubble Chiaki %}
 Fuhaha! I see, I see! You too are a hero who loves peace! ☆
 
-I feel the same way Takaminee~! We’re the same! We're one in body and soul! Let's keep working hard together! ☆
+I feel the same way Takaminee~! We’re the same! We're two hearts beating as one! Let's keep working hard together! ☆
 {% endbubble %}
 
 {% bubble Midori %}
-Ahh you're hot, you're insanely hot! Are you some heat power generator!?
+Ahh you're hot, you're insanely hot! Are you some heat power generator…!?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -214,7 +212,7 @@ Huh!? Where did this come from!? Please spare me from dealing with any problems�
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah, no. It's just something I don’t want Takamine to hear, so we'll talk about it in a cafe.
+Ah, no. It's just something I don’t want Takamine to hear, so we'll talk about it in a café.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -236,7 +234,7 @@ Mm… Sounds even more suspicious now… But whatever… I don't really wanna be
 ## Chapter 2
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Cafe</span></p>
+    <p><span><b>Location:</b> Café</span></p>
 </div>
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy2_1.jpg %}
@@ -246,11 +244,13 @@ Mm… Sounds even more suspicious now… But whatever… I don't really wanna be
 </div>
 
 {% bubble Mao %}
-So, what did you want to talk about?
+…So, what did you want to talk about?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Before that, you guys should order something! This cafe has authentic burgers and french fries! It’s my favorite place to eat at right now!
+Before that, you guys should order something! This café has authentic burgers and French fries!
+
+It’s my favorite place to eat at right now!
 {% endbubble %}
 
 {% bubble Mao %}
@@ -262,13 +262,11 @@ Fuhaha! That's completely okay! It's perfect for high schoolers! Pimples are the
 {% endbubble %}
 
 {% bubble Subaru %}
-Yeah, but we're idols too, so I dunno about that~
-
-Anyway, I wanna eat dinner at home with my mom, so I’ll just order a drink.
+Yeah, but we're idols too, so I dunno about that~ Anyway, I wanna eat dinner at home with my mom, so I’ll just order a drink.
 {% endbubble %}
 
 {% bubble Mao %}
-Right, then I’ll get a dessert… It’s pretty hot, so ice-cream sounds good right now.
+Right, then I’ll get a dessert. It’s pretty hot, so ice-cream sounds good right now.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -292,15 +290,15 @@ This is all over the place… Meh, guess that’s just like you, though.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ahaha, yeah, and meanwhile Isara is really good at efficiently getting things done! It’s impressive! I should learn from him…! Life is all about learning! ☆
+Ahaha, yeah, and meanwhile people like Isara are really good at efficiently getting things done! It’s impressive! I should learn from him…! Life is all about learning! ☆
 
 Alright, now that we're done with our orders, it’s time to talk about this.
 
-I want you, Trickstar, to take care of my first years for a bit.
+I want you, Trickstar, to take care of my juniors in Ryuseitai for a bit.
 {% endbubble %}
 
 {% bubble Subaru %}
-Huh? What do you mean?
+Hweh? What do you mean?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -314,9 +312,11 @@ C-Checkup? You okay? Actually, wasn’t your health in a wreck around this time 
 {% bubble Chiaki %}
 Yeah, so I'm having one as a precaution. Depending on the results, I may have to take a break and rest at home.
 
-But I can't let my comrades rest too. It's a really important time for us right now — I can't make everyone stop in their tracks all because of me.
+But I can't let my comrades rest during that time, too.
 
-Ryuseitai has been slowly matching pace with one another, and we've been doing good in DreamFes.
+It's a really crucial time for us right now — I can't make everyone stop in their tracks all because of me.
+
+Ryuseitai has been slowly matching pace with one another, and we've been performing well in DreamFes.
 
 I believe that we'll keep going higher and higher, so I couldn’t possibly let them fall back down now.
 
@@ -324,35 +324,37 @@ Other units have been getting more active too, so any careless step could put us
 {% endbubble %}
 
 {% bubble Mao %}
-Ahh, we're going through the same thing… If we stop, even for a moment, we'll be buried.
+Ahh, we're going through the same thing… If we stop even for a moment, we'll be buried.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah… It's great that everyone’s getting more and more motivated, though. It's all thanks to the things you’ve accomplished, Trickstar, so be proud of it.
+Yeah. It's great that everyone’s getting more and more motivated, though. It's all thanks to the your accomplishments, Trickstar, so be proud of it.
 
 Still, that doesn't mean you'll always be treated special.
 
 If you guys don't keep producing results, someone will eventually replace you. Everyone wants to be the protagonists, after all.
 
-Also, while you have a strong unity since you’re in the same year, you aren't used to dealing with seniors and juniors for that same reason.
+Also, while you have a strong unity since you’re in the same year…
 
-It’s fine for it to be like that right now, but if you plan to get into show business, then you’ll be meeting all sorts of people.
+You aren't used to dealing with seniors and juniors for that same reason.
+
+It’s fine for it to be like that right now, but if you plan to get into the entertainment business, then you’ll be meeting all sorts of people.
 
 It's good to learn the tricks to success while you still can.
 
-Well… Isara can do anything and deal with stuff pretty well no matter what, but I'm worried about you, Akehoshi.
+Well… Isara can do anything and deal with matters pretty well no matter what, but I'm worried about you, Akehoshi.
 
 I love you, so I don't really mind how you treat me, but if you treated other seniors that way, you'd get kicked out.
 {% endbubble %}
 
 {% bubble Subaru %}
-Hmm… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
+Mm~… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
 
-We aren't used to the idea of working with seniors and juniors for a job.
+We aren't used to the idea of working in a senior-junior hierarchy relationship for a job.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yep, that's why I want you to try it out by taking care of the first years. Try to lead and guide them, and take care of them properly.
+Yep, that's why I want you to try it out by taking care of my unit's first years. Try to lead and guide them, and take care of them properly.
 
 I'm sure this will come in handy for your future. My juniors are earnest, good kids — I’m certain they'll be easy to handle even if you're new to this.
 
@@ -360,9 +362,9 @@ They're following after someone like me, after all.
 
 Of course, if the checkup shows no problems whatsoever, I'll take care of them myself, like I always have.
 
-But. Just in case something does show up, I want to entrust them to you guys.
+But just in case something does show up, I want to entrust them to you guys.
 
-For now, I want you to have practice sessions with them for the upcoming S1 — the Tanabata Festival. I’ll tell them about this myself.
+For now, I want you to guide them in practice sessions for the upcoming S1 — the Tanabata Festival. I’ll tell them about this myself.
 
 It isn’t like I’m going to die, so if you need anything, feel free to contact me anytime.
 
@@ -382,7 +384,7 @@ Subaru and I can't just decide what to do next on our own, after all.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mhm, of course. I’ll wait to hear back from you.
+Yup, of course. I’ll wait to hear back from you.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -396,17 +398,19 @@ Ohh yeah, true. You don't need us for this, do you…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mmm… Kanata doesn’t seem used to dealing with the first years either, and he's busy during summer — circumstances with his home, you see… So I'm not sure if he could do it.
+Mmm… Kanata doesn’t seem used to dealing with the first years either, and he's busy during summer — circumstances with his home, you see…
+
+So I'm not sure if he could do it.
 
 But yeah… I'll tell Kanata about it. If he joins in with your activities, I want you guys to lead them together with him.
 
-Thing is, he can be harder to deal with if you mess up… But I guess you’d get to practice dealing with a troublesome senior too…?
+The thing is, he can be harder to deal with than the first years if you mess up… But I guess you’d get to practice dealing with a troublesome senior too…?
 
 Either way, I want you guys to grow further while connecting and bonding more with everyone, including your seniors and juniors.
 
 If you don't do that, you won't be able to overcome your next hurdle — the SS.
 
-I'm cheering you on, so do your very best. Don't worry — I'm certain you guys can do it.
+I'm always cheering you on, so do your very best. Don't worry — I'm certain you guys can do it.
 {% endbubble %}
 
 ## Chapter 3
@@ -426,17 +430,17 @@ Hellooo, Chi\~chan-senpai\~? Iiit's Subaru! ☆
 
 How’d your checkup go?
 
-Mhm… Ooh, good, that's good. I didn't hear from you, so I got worried. They didn't find anything serious, right?
+Mhm… Ooh, good, that's good. I didn't hear from you, so I got worried. So they didn't find anything serious?
 
-But you've exhausted your body, and it's weakening your immune system? So I guess that means you'd easily get a cold like this, yeah?
+Ah, but you've exhausted your body, and it's weakening your immune system? You'd easily get a cold like this…?
 
-So just in case, you need to rest for a week or so…?
+So just in case, you need to rest for a whole week or so…?
 
 Okay, got it! Take care, okay~?
 
-Mhmm. Just as we’ve discussed before, we're going to be taking care of the first years.
+Mhmm. Just as we’ve discussed before, we're gonna take care of the first years.
 
-Yep, Hokke~ and Ukki~ both said they were fine with it. …Right?
+Yep, Hokke\~ and Ukki\~ both said they were fine with it. …Right?
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -448,19 +452,21 @@ There's no loss in doing this, so there's no reason to refuse.
 {% bubble Makoto %}
 Yep~ We're kinda at a low point right now, so we need to pump ourselves up, and work hard for Tanabata Festival.
 
-It’s gonna be like we’re working with Ryuseitai, so it's very reassuring.
+If we’re going to work side-by-side with Ryuseitai, it'll be very reassuring.
 
-I'm kinda worried we won't be able to communicate very well with them, but… Anzu-chan’s on good terms with them, so maybe she could be our middleman?
+I'm kind of worried we won't be able to communicate very well with them, but…
+
+Anzu-chan’s on good terms with them, so maybe she could be our middleman?
 
 If this was Knights, I might've hesitated, but this is Ryuseitai we're talking about — I’m sure they're good boys like Shinobu-kun. I think we’ll be fine.
 {% endbubble %}
 
 {% bubble Subaru %}
-You heard them! We're all pumped for this, so don't worry, Chi\~chan-senpai\~♪
+You heard 'em! We're all pumped for this, so don't worry, Chi\~chan-senpai\~♪
 
-Mhm mhm, so you’ll rest as much as you can, and come back as soon as possible?
+Mhm, mhm, so you’ll rest as much as you can, and come back as soon as possible?
 
-No one wants to catch a cold, so make sure to come back only after you're back in perfect shape, okay?
+No one wants to catch a cold, so make sure it's only after you're back in perfect shape, okay?
 
 Oh— Right, right. We kept on trying to find Shinkai-senpai, but we’ve never managed to spot him.
 
@@ -468,11 +474,11 @@ We can’t contact him, either — not even Anzu knows his phone number.
 
 How’s he like? Would he join in on practice?
 
-Huh—? Chi~chan-senpai, you're in Shinkai-senpai's home? Why? Is that why I couldn't reach you by phone?
+Huh—? Chi~chan-senpai, you're in Shinkai-senpai's home? Why? Is that why I couldn't reach you by phone for a while?
 
 W-What's going on…? You're not involved in something bad, right…?
 
-Huh? C-chi~chan-senpai? Hello? Talk to me!
+Huh? C-Chi~chan-senpai? Hello? Talk to me!
 
 Uhh? What just happened? The call was cut off all of a sudden!
 
@@ -518,7 +524,7 @@ Will we really be able to properly act like seniors…?
 {% endbubble %}
 
 {% bubble Subaru %}
-No problem-o! We'll manage it somehow, yes we will! Nothing to lose here, so we may as well bump heads with them and break apart![^2] ☆
+No problem-o! We'll manage it somehow, yes we will! Nothing to lose here, so we may as well bump heads with them and break apart![^3] ☆
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -723,5 +729,7 @@ You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't re
 </div>
 
 ## Translation Notes
-[^1]: “I’m at a climax from start to end” is a reference to Kamen Rider Den-o.
-[^2]: In Japanese, *atatte kudakeyou* is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.
+
+[^1]: Buchou is a title that refers to the club captain.
+[^2]: “I’m at a climax from start to end” is a reference to Kamen Rider Den-o.
+[^3]: In Japanese, *atatte kudakeyou* is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.

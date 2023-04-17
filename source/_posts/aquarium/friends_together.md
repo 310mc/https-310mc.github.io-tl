@@ -552,7 +552,7 @@ Punishment…? Just what did you do, you troublesome kid?
 I haven't heard much of what happened, but apparently it's some problem related to your household, right?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata sigh3 %}
 yes. i kind of ended up going against my [household]… but even i did not think it would become this much of a [problem].
 
 now i am truly in trouble. but their [side] of the story is also correct, so right now we are talking it out and finding a [common ground] between us.
@@ -605,7 +605,7 @@ After all, I *did* leave literally everything behind to go off on a trip by myse
 
 Mhm, so you haven't heard much about Kanata-san's circumstances at home.
 
-Ohh… So when he was gonna join Ryuseitai, he asked you to promised not to mention anything about that, I see.
+Ohh… So when he was gonna join Ryuseitai, he asked you to promise not to mention anything about that, I see.
 
 That's why aaall you can do is just stand by and watch, huh? You're loyal to your promises.
 

@@ -63,14 +63,23 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-27">Ch 27</a> - <a href="#Chapter-28">Ch 28</a> - <a href="#Chapter-29">Ch 29</a> - <a href="#Chapter-30">Ch 30</a> - <a href="#Chapter-31">Ch 31</a> - <a href="#Chapter-32">Ch 32</a> - <a href="#Chapter-33">Ch 33</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}
+{% btn /meteor_impact,, star, Index %}
+{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 27
-{% note location %}
-**Location:** School Route
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> School Route</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch27.jpg %}
-{% note narration %}
-**Time:** Few minutes later
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Few minutes later…</p>
+</div>
 
 {% bubble Subaru sad %}
 <th>(Mmm\~ I dunno what to do… I can’t find Bucho~ anywhere.)</th>
@@ -97,7 +106,9 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(I’m so indebted towards him for practically everything, and yet… I’m being so ungrateful to him.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch27_1.jpg %}
+
 {% bubble Subaru sad %}
 <th>(I’m always like this… But… It was such a huge shock to me.)</th>
 
@@ -107,71 +118,73 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(……)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch27_2.jpg %}
+
 {% bubble Chiaki past%}
 Move, move move move~!!
-
 {% endbubble %}
+
 {% bubble Subaru %}
 —!?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Ahh, that was too harsh of me! Excuse me, please move aside! I’m in a hurry!
 
 I’m coming throooough!! If there’s any complaints, please send them all over to Morisawa Chiaki from Ryuseitai!
-
 {% endbubble %}
+
 {% bubble Subaru %}
 <th>(Huh? Is that Bucho~…? W-What’s he doing?)</th>
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Shinkai-kun, are you alright? Are you feeling sick from me shaking you around?
-
 {% endbubble %}
+
 {% bubble Kanata past%}
 well… it is more Comfortable than Walking on my own.
 
 i’m sorry. i am not very Good at Walking… i am not used to it, see — because i’m always being Carried around.
 
 so. this is the Usual for me, and it is comforting.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying you like a princess is just perfect for that role…☆[^24]
-
 {% endbubble %}
+
 {% bubble Subaru %}
 ……
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Hm? Ahh, Akehoshi! I’m very sorry, but please let me through!
 
 There’s a lot of things I want to talk to you about, but we’re in a hurry! We have to head over to the auditorium right away!
-
 {% endbubble %}
+
 {% bubble Subaru %}
 Uh, okay… But why? Does that mean you’re gonna perform?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yes! Exactly!
 
 Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in the AV room — we’ll head there first!
 
 … Are you alright with that, Shinkai-kun?
-
 {% endbubble %}
+
 {% bubble Kanata past%}
 mm~ you will Bite your tongue if you Talk while running, chiaki.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Oh! You’re right! Thank you for the warning~♪
-
 {% endbubble %}
+
 {% bubble Subaru %}
 <th>(That guy… is the weird person who clung on to me while drenched in water. Why’s Bucho~ carrying him?)</th>
 
@@ -184,26 +197,26 @@ Oh! You’re right! Thank you for the warning~♪
 <th>(He was sparkling! Ahaha! I see… I, see?)</th>
 
 Bucho~! Sorry, I know you’re in a rush, but please answer this one question! I keep asking about it, but — are you gonna save this guy?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yep! Exactly! You understood it well, Akehoshi! Well done!
-
 {% endbubble %}
+
 {% bubble Subaru pasthappy %}
 Of *course* I would! I’ve spent time in the same Basketball Club as you!
 
 But, uh, anyway… Will you be able to win…? Can you really save him?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 I don’t know! Honestly, I have no confidence in how I’ll manage it!
-
 {% endbubble %}
+
 {% bubble Subaru pasthappy %}
 What!? Then why? Because you’re a hero?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yes! No—It’s because I *want* to become one!
 
@@ -212,8 +225,8 @@ Unfortunately, there are many things about myself I still lack right now, but I 
 But that still doesn’t mean I should give up! I just need to put all my effort into it! I’ll put in every last bit of strength that I have right now, and work hard!
 
 Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my breath, so I’d be glad if you could keep the talk short, okay!?
-
 {% endbubble %}
+
 {% bubble Subaru pasthappy %}
 <th>(… Oh, that’s what it was. I don’t really follow, but I understand it.)</th>
 
@@ -232,23 +245,23 @@ Because I’m an idol! Because you let me stay as one!
 *Hang in there! Don’t lose now, hero!*
 
 ……☆
-
 {% endbubble %}
+
 ## Chapter 28
 
 {% note cw %}
 **Content Warning:** Mentions of harassment ahead.
 {% endnote %}
 
-{% note location %}
-**Location:** “Battle versus the Sea God” Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> “Battle versus the Sea God” Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch28.jpg %}
 
-{% note narration %}
-**Time:** At the same time, as the “Battle versus the Sea God” performance begins
-{% endnote %}
+<div class="msr-narration">
+    <p>At the same time, as the “Battle versus the Sea God” performance begins…</p>
+</div>
 
 {% bubble Keito v2 cg %}
 “♪\~♪\~♪”
@@ -362,26 +375,28 @@ Because I’m an idol! Because you let me stay as one!
 <th>(Would that mean that this is my fault…? By devising a tactic to subdue Shinkai Kanata of the Five Eccentrics, I’ve made the evil come back once more…?)</th>
 
 <th>(No…! Impossible! It’s nothing but a legend — a mere superstition…!)</th>
-
 {% endbubble %}
+
 ## Chapter 29
+
 {% note cw %}
-**Content Warning:** Light mentions of self-injury ahead.
+**Content Warning:** Brief mentions of self-injury ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch29.jpg %}
 
 {% bubble Souma angry %}
 Compose yourself, Hasumi-dono!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 —!?
 
 K-Kanzaki? What’re you doing here!?
 
 I thought I made it very clear you’re banished from Akatsuki…!
-
 {% endbubble %}
+
 {% bubble Souma angry %}
 Indeed you did. I have no right to be standing on this stage; I am akin to a ruffian running amok.
 
@@ -392,12 +407,12 @@ Nay! I speak to you as a fan of you and Kiryu-dono—of Akatsuki! What an unsigh
 You are both entirely distracted, and neither of you have smiled even once! You are not in the least bit synchronized with the song!
 
 I know not what has intoxicated you, but watching your staggering, nearly inebriated movements is unbearable!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 —!
-
 {% endbubble %}
+
 {% bubble Souma angry %}
 I may have lost the right to call myself a member of Akatsuki, but I am still an “ai-dol”!
 
@@ -412,12 +427,12 @@ Straighten your back! Smile, even if you do not want to! Do it for the sake of y
 Present yourself whole, and utter every lyric you sing with as much passion—as much soul as one could muster!
 
 Is that not what you two had taught me, back when I knew nothing…!?
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 ……
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 … Haha! ♪
 
@@ -428,8 +443,8 @@ You ain’t gonna start actin’ indifferent after bein’ criticized that hard 
 He’s pickin’ a fight, so let’s accept his challenge.
 
 ‘Course, we’ll be the losers here if we lose ourselves to anger and start throwin’ punches — and “he hit me first” ain’t gonna cut it as an excuse. But a nerdy young master[^25] like yourself would know that much at least, right?
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 … Of course I do.
 
@@ -440,20 +455,20 @@ It doesn’t matter how bizarre or unimaginable this situation is, the guests ar
 I understand how it feels to be a parent who gets taught by their own child. It seems I still need much more training than I had thought.
 
 Kanzaki.
-
 {% endbubble %}
+
 {% bubble Souma angry %}
 Is there a *problem*? I spoke what was on my mind, and I refuse to apologize for anything! I am far beyond furious right now, I feel as though my beloved katana has been smeared with filth!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 … And yet, you never change. You always remain straightforward and clean — like a polished katana.
 
 Even if those “evil things” existed, it would surely never have an effect on you.
 
 They say that it amplifies one’s negative emotions, but it could never manage to do so if those emotions never existed inside the person in the first place.
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 ? But I can also feel negative emotions…? There are times when I cry, and times when I am angry! I am a human being, after all!
 
@@ -464,26 +479,26 @@ You are currently in the middle of a performance, so I will withhold the details
 I had forgotten what it means to be loyal, and attempted to deceive the person I claimed as my lord!
 
 Were this during a certain era, it would have only been natural to be ordered to slice my stomach open! In fact, I am more than grateful that you allowed me to live with a mere exile!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 About that exile… I’ll be retracting your banishment.
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 … What? Pardon?
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 Or, rather, I haven’t even done the procedures to banish you from the unit. I was too preoccupied with other matters.
 
 If you’re still up for it, then go change into your uniform — There’s a spare sewn by Kiryu in the dressing room.
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 What!? You prepared an outfit for me, too, Kiryu-dono!?
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 Sure did. I mean, I didn’t even expect ya to get “banished” in the first place, so I got three outfits stitched up.
 
@@ -494,8 +509,8 @@ No more of this politics and war strategy nonsense — Let’s win this fight by
 Once we do, this punk self of mine can finally be reborn as the person I’ve dreamed of bein’.
 
 I’m sure you can tell that we’re a mess right now, Kanzaki… so help us out, will ya?
-
 {% endbubble %}
+
 {% bubble Souma v2 %}
 … R-Roger! Why, of course I will, that is exactly what I was hoping you would say! But as a man who was wrongfully disloyal to you, I could not say it myself!
 
@@ -504,16 +519,16 @@ It has nothing to do with what my ancestors say! I simply wish to sing as part o
 You both appear weak and pale at the moment for some reason, and so I shall be your right-hand blade, much like a final trump card!
 
 Wait just a moment! Nay, not even that — for I, Kanzaki Souma, shall hurry back as I were Skanda himself![^27] Fuhahahaha…! ☆
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 … Haha. He’s so happy, like a li’l kid who got his new year’s gift.
 
 It was almost enough to fool me into thinkin’ I’m a good guy for doin’ a good deed.
 
 But you alright with this, Danna? You really lettin’ him come back? Didn’t you want him away from all this dirty work?
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 I’ll be sure to avoid keeping him near that type of work, obviously. I’ll keep him far away from the swamp through any means necessary, even if it’s by reworking the documents.
 
@@ -530,8 +545,8 @@ I won’t lose my way anymore. *I’m* the one who started all of this, so I’l
 And I’ll need both of you to help with that.
 
 Especially on stage. I may still be inexperienced, but I can fight if I’m not alone. I could kill any God — so let’s show them the power of human beings.
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 Haha, sayin’ that’ll get you damned to hell, Mr. “son of a temple”.
 
@@ -544,16 +559,18 @@ Even the part about you that rambles on and on about borin’ logical stuff, but
 It’s so naive, and honestly, childish of you… I just can’t leave ya alone, can I? ♪
 
 “♪\~♪~♪”
-
 {% endbubble %}
+
 ## Chapter 30
 
 {% note cw %}
 **Content Warning:** Mentions of harassment ahead.
 {% endnote %}
-{% note location %}
-**Location:** AV Room
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> AV Room</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch30.jpg %}
 
 {% bubble Chiaki past%}
@@ -566,28 +583,28 @@ Let’s hurry, Shinkai-kun! There was a huge commotion near the auditorium, I th
 <th>(“Sea God”… At first glance, it looks like the most suitable name for Shinkai-kun, but you can also read it as “monster”.[^28] I feel like that was what Akatsuki, the Student Council force, was aiming for…)</th>
 
 <th>(Shinkai-kun isn’t even a God, let alone a monster… I don’t quite like the naming, but for now, I need to—)</th>
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 chiaki~? was this what you were Looking for?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Ohh! That’s it, that’s the one! It was exactly as Mikejima-san said — Ryuseitai’s uniforms were all in the AV room!
 
 Whew, I’m glad. I was worried I’d have to buy one of those idol uniforms the school’s been selling recently.
 
 Though, any outfit would’ve been fine, really. But I wanted to change into these if I could.
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 i see. i’m glad\~ i am very Good at Finding things. i am a god, after all~♪
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 … Uh-huh… Um, yes, you were a big help. Thank you.
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 you would like Red, yes? i think it’s This one, here you go~♪
 {% endbubble %}
@@ -596,8 +613,8 @@ you would like Red, yes? i think it’s This one, here you go~♪
 Yeah…… Shinkai-kun, I have a question.
 
 Does this uniform suit me…?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 huh? i think the Size would Fit you just fine…?
 
@@ -606,8 +623,8 @@ actually, i think the material is Strong enough to be Handled a bit roughly, too
 you should be able to Wear it, and i’m sure it would Fit you. i do not know if it would have fit you a year ago, but right now, you will surely be good enough for it.
 
 that is why. please take it. you always wanted to Wear it, didn’t you?
-
 {% endbubble %}
+
 {% bubble Chiaki pastserious %}
 … Yeah, I did. I’ve always longed to wear it.
 
@@ -622,25 +639,24 @@ that is why. please take it. you always wanted to Wear it, didn’t you?
 <th>(No! I’ve chosen to inherit the passionate spirit of justice because I *want* to!)</th>
 
 Aaalright, time to change! Urmm, how do you wear this…?
-
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_2.jpg %}
 {% bubble Kanata pastsmile %}
 shall i help you, chiaki?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Wha!? W-Why did you change, too!?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 ? huh? am i not Allowed to…?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 No, um…? It’s not that—actually, it suits you way more than I thought, but--! Shinkai-kun, don’t tell me you’re going up on stage…!?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 mm… if that is what you Want, then i will. i was already planning on Performing in the live show, anyway.
 
@@ -655,16 +671,16 @@ since he is my Friend.
 … but they Wished me not to, so i shouldn’t go Perform, should i?
 
 am i a failure as their god…? mm…?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 … So that’s how it is.
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 huh? what do you mean?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Ah, no, just talking to myself. Hmm… I’m going to be honest: I didn’t actually want you to perform on stage.
 
@@ -685,15 +701,16 @@ Once I was done, I would have escorted you back to the beach… so that I may fu
 … you were planning to Substitute for me…? to go Up there, and have Rocks thrown at you in my stead?
 
 you were planning on becoming the Sacrifice, chiaki?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 When you put it that way, you make me sound like I’ll honorably sacrifice myself, which sort of feels weird… But, you see — while this isn’t something I’m proud of, I’m actually used to being in horrible situations.
 
 And that’s exactly why— *I’ll* become the monster subjugated in your stead.
-
 {% endbubble %}
+
 ## Chapter 31
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch31.jpg %}
 
 {% bubble Kanata pastfrown %}
@@ -704,14 +721,14 @@ And that’s exactly why— *I’ll* become the monster subjugated in your stead
 Yep. That’s what I plan on becoming. The world may see me as a monster, but I will become your hero.
 
 I’ll become a being who can take the pain in place of the persecuted victims, and fight to protect them.
-
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 is that what you Desire? is that your Dream…?
 
 didn’t you say that Dreams are something much more Sacred…? that is how i Understood it, but was i wrong?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 … I can’t think of any other way to become one.
 
@@ -722,8 +739,8 @@ I’m never going to betray those cheers again.
 I *am* terrified, though. It’s pathetic, but my legs won’t stop shaking.
 
 But even if I’m scared — if even one single person believes in me, then I want to become a hero.
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 … i really can’t see the Difference between heroes and gods, but—
 
@@ -738,16 +755,16 @@ and besides, i’m wearing such a cool Uniform… i don’t want to Hide without
 i wanted to get involved… even if it meant i got hurt. that is why i came out from the bottom of the Ocean.
 
 i didn’t really want to go back inside… back to the Bottom, where there’s no one else — where it’s quiet, and lonely…
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Is that your “wish”?
-
 {% endbubble %}
+
 {% bubble Kanata pastfrown %}
 ah! that’s my Line, you know!? you can’t Steal it from me~ okay, chiaki?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Ah, sorry. …… All I’ve been doing is apologizing.
 
@@ -759,7 +776,7 @@ Thank you for understanding how I feel, and for wanting to come along with me.
 
 I told them I’m going to participate in the live show as Ryuseitai, and that they can help out if they’d like.
 
-No one replied. Of *course *they wouldn’t, they all shun me… and none of them would want to get hurt for no reason.
+No one replied. Of *course* they wouldn’t, they all shun me… and none of them would want to get hurt for no reason.
 
 But you know, that’s exactly why I’ve steeled my resolve to see it through.
 
@@ -776,82 +793,82 @@ Don’t worry about the rage and hostility they might sling at you — I’ll ta
 It makes me so happy to be able to do something heroic like that.
 
 Let’s go, Shinkai-kun. From here on out, we’re our very own superhero squad!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 okay. … ah, please wait. you have to change before that.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Oh, you’re right! Sorry! I’ll go transform immediately!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “transform”… you keep saying that. it is an Important thing to do, yes?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yep! No matter how pathetic someone is, as long as they transform, they can save anything, even the world!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 hm… please let me borrow that thing you call a Phone for a second.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Huh!? I don’t mind, but why?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 just do it. hm, hm… thankfully, my body is Dry, so i will not be breaking it.
 
 as for how to use it— i learned that from seeing everyone use them.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Mm…? I don’t really understand, but I’ll go change for now, okay?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 okay. … alright, it is perfect~♪
 
 i will return your Phone now.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Alright… Who did you message, and for what?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 heheh. i gave mikejima a Job to do. he is an important Person within ryuseitai, yes?
 
 i got him to allow me in ryuseitai with that Authority.
 
 he promised to do all the Procedures necessary for me, so it should be Fine.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Join Ryuseitai? You… you’ll join…?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 it is only for this one Occasion. the dreamfes Rules say you cannot fight Together unless you’re in the same Unit.
 
 i want to fight alongside you. and i want to Prove to you that i’m not Lying.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 I see… You’re completely welcome to do so, Shinkai-kun.
 
 No, allow me to call you by this name! Ryuseitai’s new warrior, Ryusei Blue!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “ryusei blue”… is that me? did i stop being “shinkai kanata”?
 
 that is a strange feeling… but i do not Dislike it.
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yeah! You’re wearing the uniform, after all — so let’s both be reborn as new beings!
 
@@ -867,24 +884,25 @@ I will never, ever regret that I made this decision—that I made this choice fo
 {% endbubble %}
 
 ## Chapter 32
-{% note location %}
-**Location:** “Battle versus the Sea God” Stage
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> “Battle versus the Sea God” Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch32.jpg %}
 
 {% bubble Keito v2 cg %}
 “♪\~♪~♪”
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 “♪♪♪~♪”
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 “~…♪”
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 <th>(… Mm. The air changed slightly ever since Kanzaki came rushing in here.)</th>
 
@@ -919,84 +937,84 @@ I will never, ever regret that I made this decision—that I made this choice fo
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 {% bubble Chiaki pastbcg %}
 HOLD IT RIGHT THEEEERE!!![^29]
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 …!? W-w-w-wh—
 
 What is the *meaning* of this, Morisawaaa!?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Oh! You finally learned my name!
 
 No matter when and where we met, you would always forget it for some reason — it made me feel blue, because I was worried it meant I was simply that worthless to you!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 blue? aren’t *i* blue?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 Yes! I leave that color to you now, so I’ll no longer be blue!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 Shinkai--? *You,* too!? Why!? Why must you interfere with my plans!?
 
 Why did you come here!? If you hadn’t shown up, we would have won by default! I would’ve been able to end this with as little sacrifice as possible!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “why”… because i wanted to, i think?
 
 please ask the Difficult questions to chiaki! because i Don’t know!
 
 but i *want* to know, so! i will have the hero teach me!
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 *“Hero”*? Why do the lot of you try to become something that doesn’t even *exist*…!?
 
 That’s a wish too great for a human body to bear! Your desire to do so will only tear everything apart!
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 mm~? it is not a Wish, but apparently a Dream, temple guy?
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 That’s right! It’s a promise, and a vow! I’m going to make the dream I’ve envisioned since childhood into a reality — right here, right now!
 
 “Hello, everyone! Good evening! You’re probably wondering who I am, so I’ll start by introducing myself! I’m Ryuseitai’s Morisawa Chiaki!”
 
 “*No!* In fact, I’m a *hero* that’s part of that unit—my name is Ryusei Red…! ☆”
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 What even— B-Buchou-dono? Are you alright!?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “buchou-dono”? i don’t know who that is. my name is “ryusei blue”, you know?
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 Huh? Umm…?
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 souma. it’s alright. i’m sure you heard the Legend when you were young… and it must have been terrifying for you.
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 Y-Yes… From a young age, I have had many hellish nightmares of the town being dyed with evil.
 
 I was terrified that it would become a reality if anyone were to lay a hand on you.
 
 Thus, I committed treachery, all in an attempt to avoid the calamity once more.
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 it was Unnecessary, souma.
 
@@ -1005,12 +1023,12 @@ i’ll say this once again: it really is alright. even if Evil does spill out on
 i’m a god for that reason. i was protected for that reason… and that is why everyone had Faith in my existence for a Long, long time.
 
 i’ll accomplish my Duty when the time comes. i will be the one to protect you all.
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 ……
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 “Fuhahaha! Ryuseitai are both heroes and idols!”
 
@@ -1052,7 +1070,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 
 “Stop hurting each other! Nothing good comes from fighting! Haven’t you all been taught this by the very people you admired as a kid!?”
 
-“At least, *I *was! That’s why I’ll become the very same being who taught me all these important things long ago!”
+“At least, *I* was! That’s why I’ll become the very same being who taught me all these important things long ago!”
 
 “Those non-existent heroes are practically powerless in this reality, and they can’t do a single thing for you no matter how much you cry for help!”
 
@@ -1063,9 +1081,10 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 “That’s why I’ll be protecting their dignity! If there are no heroes in this world, then *I’ll* become the hero!”
 
 “I’ll keep saying it — the hero is right here!”
-
 {% endbubble %}
+
 ## Chapter 33
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch33.jpg %}
 
 {% bubble Kuro pastbcg %}
@@ -1088,8 +1107,8 @@ You don’t need to yell it so loud — I’ve *always* known you were a real co
 <th>(I’ll make sure of it this time— I’ll protect my treasured friend in a respectable way—without a single shred of violence.)</th>
 
 Hasumi.
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 … Hm. I was a little shaken after seeing such an unexpected sight, but — our plans haven’t changed. We’ll do what we must, carefully.
 
@@ -1144,8 +1163,8 @@ Hasumi.
 <th>(Ahh… How can we even call ourselves the “Student Council” when we can’t even protect the earnest, good-natured students we have…)</th>
 
 “Kiryu, Kanzaki, we’re still in the middle of our song. We’ll be singing until the very end. Ryuseitai, get back — we’ll end this performance and conclude our battle.”
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 “Gotcha. Get back, Morisawa. We already got what you wanted to say.”
 
@@ -1154,8 +1173,8 @@ Hasumi.
 “We’re friends, after all. Whatever concerns you concerns me, too — if anyone ever messes with you, just tell me—”
 
 “I’ll clean ‘em up with my own two hands~♪”
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 “Hehe, it appears that attempting to torment the man known as Morisawa is an act equivalent to picking a fight with Kiryu-dono…”
 
@@ -1176,8 +1195,8 @@ Hasumi.
 {% img /img/es/eventstory/meteorimpact/kanatabcg.jpg %}
 {% bubble Kanata pastsmile %}
 “♪\~♪\~♪”
-
 {% endbubble %}
+
 {% bubble Souma pastcg %}
 <th>(…! Buchou-dono is singing along to the song unplanned!)</th>
 
@@ -1194,24 +1213,24 @@ Hasumi.
 <th>(Ahh, *this* is why we have been protecting you for generations… for you are the ones capable of pacifying the evil—)</th>
 
 <th>(G-*God*—)</th>
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “…? huh? am i not Allowed to sing?”
 
 “i’m sorry. it’s my First time standing on a real Stage, so i don’t know what i’m supposed to do.”
-
 {% endbubble %}
+
 {% bubble Kuro pastbcg %}
 “… Nah. Must’ve been borin’ to just stand around, so sing along with us as a backup singer. You’re up on stage now, after all — not to mention, you’re an idol too.”
 
 “You can do the same, Morisawa. You guys may have lost, but that doesn’t mean you died or anythin’.”
-
 {% endbubble %}
+
 {% bubble Keito v2 cg %}
 “That’s right. While you do become a spirit once you die[^33]… your soul won’t be able to move on in peace if you leave behind regrets. Do everything you can while you’re still alive.”
-
 {% endbubble %}
+
 {% bubble Chiaki past%}
 “Ahh… Don’t worry, we haven’t died. We may have lost, but you haven’t killed us without mercy, either.”
 
@@ -1224,24 +1243,24 @@ Hasumi.
 “No— *Ryusei Blue*! Let’s burn the flames of justice infinitely, and resound our ensemble!”
 
 “♪\~♪\~♪”
-
 {% endbubble %}
+
 {% bubble Kanata pastsmile %}
 “~…♪”
 {% endbubble %}
 
 <div toc>
-<div style="margin-bottom:5px">{% btn #Story-Details,, arrow-up, Back to Top %}</div>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
 [^24]: The Little Mermaid is *ningyo hime* 人魚姫, literally “mermaid princess”.
 [^25]: Kuro refers to Keito as *obocchan* here.
-[^26]: [Klesha](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)) is a buddhist term referring to a negative mental state (and polluting thoughts).
-[^27]: [Skanda](https://en.wikipedia.org/wiki/Skanda_(Buddhism)), who is known to be a fast runner.
+[^26]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).
+[^27]: Referring to <a href="https://en.wikipedia.org/wiki/Skanda_(Buddhism)" target="_blank">Skanda</a>, who is known to be a fast runner.
 [^28]: 海神 (Sea God) is read as *kaijin*, the same pronunciation for the word 怪人 (monster). As mentioned in a previous chapter, this is a common word in tokusatsu shows, and it refers to an antagonistic humanoid with supernatural abilities. This wordplay is why I chose to translate the live show’s name as “Battle versus the Sea God”.
 [^29]: You can hear a voiced version of this line <a href="https://files.catbox.moe/9m58c7.mp3" target="_blank">here.</a>
 [^30]: As mentioned before, the *ryusei* in Ryuseitai means “meteor”, as well as “shooting star”.
 [^31]: In entertainment, opening acts are known to be usually done by the lowly ranks.
-[^32]: Information about Kagura [here](https://en.wikipedia.org/wiki/Kagura).
+[^32]: Information about Kagura <a href="https://en.wikipedia.org/wiki/Kagura" target="_blank">here</a>.
 [^33]: Keito is referring to how Buddhism views life after death.

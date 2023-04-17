@@ -61,6 +61,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /meteor_impact/first_half_p1,, arrow-left, Previous Chapter: Two Years Ago: Not Quite A Hero (Chapter 1-8) %}
+{% btn /meteor_impact,, star, Index %}
+{% btn /meteor_impact/monologue,, arrow-right, Next Chapter: Monologue %}
+</div>
+
 ## Chapter 9
 {% note cw %}
 **Content Warning:** Mentions of violence ahead.
@@ -1591,8 +1597,11 @@ I mean… You get what I’m saying, right? He’s a human being, after all.
 **ENG Proof:** [Revoltrad](https://ensemble-stars.fandom.com/wiki/User:Revoltrad), [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 <div toc>
-<div style="margin-bottom:5px">{% btn #Story-Details,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/first_half_p1,, arrow-left, Previous Chapter: Two Years Ago: Not Quite A Hero (Chapter 1-8) %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/monologue,, arrow-right, Next Chapter: Monologue %}</div>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
+{% btn /meteor_impact/first_half_p1,, arrow-left, Previous Chapter: Two Years Ago: Not Quite A Hero (Chapter 1-8) %}
+{% btn /meteor_impact,, star, Index %}
+{% btn /meteor_impact/monologue,, arrow-right, Next Chapter: Monologue %}
+</div>
 
 ## Translation Notes
 [^11]: Some people have a concern that exercise can stump their physical growth, or even make them shorter.

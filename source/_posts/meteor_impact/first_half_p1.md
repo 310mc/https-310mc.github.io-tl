@@ -59,6 +59,12 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}
+{% btn /meteor_impact,, star, Index %}
+{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}
+</div>
+
 ## Chapter 1
 {% note location %}
 **Location:** Pool
@@ -529,7 +535,7 @@ Ahahaha, if I could make it come true just by wishing, it would be a lot simpler
 
 {% endbubble %}
 {% bubble Chiaki past %}
-Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, after all! C’mon, y’know, it’s the ones that go “*Transform!*”
+Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, after all! C’mon, y’know, it’s the ones that go *“Transform!”*
 
 {% endbubble %}
 {% bubble Kanata pastcurious %}
@@ -1467,8 +1473,11 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 <div toc>
-<div style="margin-bottom:5px">{% btn #Story-Details,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}</div>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
+{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}
+{% btn /meteor_impact,, star, Index %}
+{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}
+</div>
 
 ## Translation Notes
 [^1]: Chiaki is referencing [this](https://www.youtube.com/watch?v=dZL5JPvXn7Q) children’s song. The English lyrics can be found [here](http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa).
