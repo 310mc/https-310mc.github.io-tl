@@ -480,7 +480,7 @@ W-What's going on…? You're not involved in something bad, right…?
 
 Huh? C-Chi~chan-senpai? Hello? Talk to me!
 
-Uhh? What just happened? The call was cut off all of a sudden!
+Uhh\~? What just happened? The call was cut off all of a sudden!
 
 …Mmm, he won't pick up no matter how many times I call. I have a bad feeling about this… I'll try calling him again later.
 {% endbubble %}
@@ -492,13 +492,13 @@ I-Is everything alright? It sounded a little shady.
 {% bubble Subaru %}
 I dunno… Chi~chan-senpai sounded more energetic than I thought he’d be, so I’m relieved about that.
 
-But I feel like he got himself involved with something weird again, you know?
+But I feel like he got himself involved with something weird again…?
 
 I’ll call the police if something bad ends up happening, but I doubt it'll be *that* bad…
 
 Well, I’ll try to call him again when I can, and check to see what’s going on.
 
-Anyway, we've been entrusted with the first years, so let’s go and look after them.
+Anyway, we've been entrusted with the first years, so let’s make sure to look after them.
 
 Fuhaha~! We'll show ‘em our senior power!
 {% endbubble %}
@@ -534,11 +534,9 @@ I'll be in my prince mode for today, and treat you all like princesses.
 {% endbubble %}
 
 {% bubble Makoto %}
-Heheh, so it's not just me, but you guys, too… We're all hyper about this. Ahh~ It’s weird to see us like this~♪
+Heheh, so it's not just me, but you guys, too… We're all hyper about this. Ahh\~ It’s weird to see us like this\~♪
 
-If we end up having problems with our first-time experiences, we won't be able to properly face our all-time important event — the SS.
-
-We need to get used to all sorts of things while we still can.
+We can't let ourselves go through first-time experiences in our all-time important event — the SS. We need to get used to all sorts of things while we still can.
 {% endbubble %}
 
 {% bubble Hokuto %}
@@ -556,7 +554,7 @@ The Tanabata Festival preparations are insanely rough, so he's going around deal
 {% endbubble %}
 
 {% bubble Makoto %}
-Ahaha, that's just like him, but… among us, he’s the best at dealing with people, so it sucks that he can’t be around right now… I’m kinda worried.
+Ahaha, that's just like him, but… among us, he’s the best at dealing with people, so it sucks that he can’t be around right now… I’m kind of worried.
 
 Akehoshi-kun, Hidaka-kun, please don't do anything rash… and don't pick fights with them, okay? I can't stop you on my own.
 {% endbubble %}
@@ -570,9 +568,7 @@ Yeah! What do you think we are, Ukki~?
 {% endbubble %}
 
 {% bubble Makoto %}
-I think you're meteorites who walk and talk at the same time…
-
-…I'm seriously worried about this, so let’s make sure they don’t steer off in a bad direction, okay, Anzu-chan?
+I think you're meteorites who walk and talk at the same time…… I'm seriously worried about this, so let’s make sure they don’t steer off in a bad direction, okay, Anzu-chan?
 {% endbubble %}
 
 ## Chapter 4
@@ -600,7 +596,9 @@ He comes from a wealthy, prestigious family, so apparently he gets this sort of 
 
 Yeah, it’s probably bribery. This school used to have connections to certain manufacturing companies, but it seems like he’s severed a lot of those business contracts.
 
-Now it’s like all the companies are trying to appease him out of fear, but thing is, I doubt bribing will save them — once the Prez’s decided to do something, he’ll do it.
+Now it’s like all the companies are trying to appease him out of fear, but thing is, I doubt bribing will save them.
+
+Once the Prez’s decided to do something, he’ll do it.
 
 But hey, there’s nothing wrong with the drinks, so let’s be thankful we have them right now. It’ll help us avoid getting heatstroke, too~ We can’t have ourselves collapsing from preparation work.
 
@@ -608,25 +606,25 @@ Let’s keep at this — it may be rough work, but it’s all so that we can shi
 
 Ahaha, yeah! Hip-hip-hooray~! ♪
 
-<th>(Whew… Thank God, the Student Council members are listening to what I say.)</th>
+<th>(Whew… I'm so glad to see that the Student Council members are listening to what I say.)</th>
 
 <th>(I’m a member of Trickstar, after all… We’re the ones who broke the Student Council’s influence.)</th>
 
 <th>(I wouldn’t blame them if they left me out of the group for being an “enemy.”)</th>
 
-<th>(But instead, the Vice-prez was considerate and understanding of my position — he even vouches for me.)</th>
+<th>(But instead, the Vice-Prez was considerate and understanding of my position — he even vouches for me.)</th>
 
 <th>(So they still accept me as another member, and I somehow got to stay in the Student Council.)</th>
 
 <th>(To be honest, I would just get to focus more on my idol work if they *did* kick me out, so that wouldn’t have been a problem either.)</th>
 
-<th>(But the Prez and Vice-prez are working as hard as they can, which is helping the Student Council get its power back.)</th>
+<th>(But the Prez and Vice-Prez are working as hard as they can, which is helping the Student Council gain back its power.)</th>
 
 <th>(So, considering what could come next, I should keep at it with this “Student Council Member” title, anyway.)</th>
 
 <th>(It’ll come in real handy when something like the revolution from spring happens again.)</th>
 
-<th>(I don’t dislike Student Council work, anyway~ Even though it’s basically stuff no-one would wanna do.)</th>
+<th>(I don’t dislike Student Council work, anyway~ Even though it’s basically stuff no one would wanna do.)</th>
 
 <th>(But I like stuff like that, soo~♪)</th>
 {% endbubble %}
@@ -658,7 +656,7 @@ W-woah, don't pull me over! Tell me what's happening first!
 {% bubble Shinobu %}
 Uuu…!!! I am a ninja who is bad at explanations…!
 
-“One eyewitness is better than many hearsays,” so! I beg of you, lend your ear to my plea! Come see for yourself, please!
+“One eyewitness is better than many hearsays,” so! I beg thee, lend your ear to my plea! Come see for yourself, please!
 {% endbubble %}
 
 {% bubble Mao %}
@@ -690,17 +688,17 @@ What's going on, you guys? I was pulled over here by Sengoku all of a sudden… 
 {% endbubble %}
 
 {% bubble Mao %}
-Woah! W-what's wrong, Takamine? Why are you hunched over in the corner there…?
+Woah! W-What's wrong, Takamine? Why are you hunched over in the corner there…?
 {% endbubble %}
 
 {% bubble Midori pout %}
-*<th>(mutter)</th>* Why’d he have to go and tell me that… So annoying… This is why I didn't want this… *<th>(mutter)</th>*
+<em><th>(mutter)</th></em> Why’d he have to go and tell me that… So annoying… This is why I didn't want this… <em><th>(mutter, mutter)</th></em>
 {% endbubble %}
 
 {% bubble Mao %}
 <th>(H-He's mumbling something! It's freaking me out!)</th>
 
-S-seriously, what's wrong, Takamine~? You're much gloomier than usual!
+S-Seriously, what's wrong, Takamine~? You're much gloomier than usual!
 
 Anzu told me on the phone but~ I’m guessing it's because Buchou can’t be around for practice, yeah…?
 
@@ -712,13 +710,13 @@ You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't re
 {% endbubble %}
 
 {% bubble Mao %}
-<th>(…!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)</th>
+<th>(……!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)</th>
 
 <th>(Really, though… I need to figure out what's going on. Why's it so gloomy in here?)</th>
 
 <th>(This is Trickstar and Ryuseitai we’re talking about — They’re both cheerful units!)</th>
 
-<th>(Just what on earth happened while I was gone…?)</th>
+<th>(Just what on earth happened here while I was gone…?)</th>
 {% endbubble %}
 
 <div toc>
