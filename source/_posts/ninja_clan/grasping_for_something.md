@@ -636,5 +636,5 @@ Now then, feel free to speak to us!
 ## Translation Notes
 
 [^1]: A reference to [Chuunibyou](https://bakemonoremy.dreamwidth.org/18330.html).
-[^2]: A reference to the first main story of !! era, [Chapter 124](https://310mc.github.io/es2_mainstory/ch123_124/#Chapter-124-Emergency).
+[^2]: A reference to the first main story of !! era, [Chapter 124](/es2_mainstory/ch123_124/#Chapter-124-Emergency).
 [^3]: Hurricaneger is a Ninja-esque Sentai squad. It has three members: Red/Black, Blue, and Yellow. You can read more about it [here](https://powerrangers.fandom.com/wiki/Category:Hurricanegers).

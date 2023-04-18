@@ -108,31 +108,31 @@ Oh… That’s weird, I thought you two were super close…
 
 You were always peacefully talking and laughing with each other no matter what…
 
-Seeing you guys like that had always been a soothing part of this school for me… Try your best not to fight, okay? When things are looking strained around me, I start to feel depressed…
+Seeing you guys like that had always been a soothing part of this school for me… So try your best not to fight, okay? When people and stuff are looking tense around me, I start to feel depressed, as well…
 {% endbubble %}
 
 {% bubble Tomoya %}
-Ugh… It’s not like I fought with him because I *wanted* to… This is the first time this has happened, and I dunno what to do…
+Uu\~… It’s not like I fought with him because I *wanted* to… This is the first time this has happened, and I dunno what to do…
 {% endbubble %}
 
 {% bubble Midori %}
-Hmm… You guys have been close friends since junior high, right?
+Hmm… You guys have been close friends since junior high, right…?
 
 You’ve known each other for so long, it’s actually weirder that you hadn’t fought before…
 
-I’d immediately stop talking with anyone I can't get along with…
+Personally, I’d immediately stop talking with anyone I can't get along with…
 
 I can’t deal with arguments or fights, so I’d run away as soon as things get sour…
 
-Like, I don’t even talk to anyone from junior high anymore…
+Like, I don’t even talk to any friend from junior high anymore…
 
-That’s why I always thought you two had it pretty lucky…
+That’s why I always thought you two had it pretty lucky… I'm kinda jealous…
 
 You should make up with him as soon as possible… It’s pretty hard to find a lifelong friend like him…
 {% endbubble %}
 
 {% bubble Tomoya %}
-Ugh… Lifelong friends, huh… Yeah, I also felt like we’d be together just like we’ve always been, forever and ever…
+Ughh… Lifelong friends, huh… Yeah, I also felt like we’d be together just like we’ve always been, forever and ever…
 
 Even after we graduate, then become adults, and then grow old… I thought we’d always be together.
 
@@ -162,7 +162,7 @@ And it’s still ongoing… Time’s just passing by, and we haven’t resolved 
 
 I feel like my head’s gonna burst from all this self-loathing and frustration…
 
-But! I *really* don’t wanna! I don’t wanna cross-dress ever again!!
+But! I *really* don’t wanna! I don’t wanna cross-dress ever again…!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -208,7 +208,7 @@ Wow, you’re too good at socializing… I would’ve definitely run away from t
 {% endbubble %}
 
 {% bubble Hajime %}
-Uh, but… Isn’t it natural to group up with a classmate when you see them? That seems like the normal thing to do.
+Uh, but…? Isn’t it natural to group up with a classmate when you see them? That seems like the normal thing to do.
 
 D-Don’t you think so, Tomoya-kun?
 {% endbubble %}
@@ -230,13 +230,15 @@ It’d be nice if you could do that as soon as possible. We’d also be in big t
 {% endbubble %}
 
 {% bubble Midori %}
-Hmm…? What do you mean…?
+Mm…? What do you mean…?
 {% endbubble %}
 
 {% bubble Tetora %}
 Ah, you still dunno, right? I happened to meet Taichou on my way here, so he told me 'bout it.
 
-It looks like we’re gonna be participating in the Halloween Party together with Ra*bits and another unit. It's happening in two weeks from now.
+In two weeks, we’re gonna have the Halloween Party—
+
+And it sounds like we’re gonna be participating in it together with Ra*bits and another unit.
 
 So we’re all in the same boat together this time~♪
 {% endbubble %}
@@ -252,19 +254,19 @@ So we’re all in the same boat together this time~♪
 {% bubble Kanata %}
 *puka, puka…♪*
 
-mm… the season really is getting [colder]… even just a little [dip] in the [water] is cold…
+mm\~… the season really is getting [colder]… even just a little [dip] in the [water] is cold…
 
 i [miss] summer… i wish [global warming] would happen already.
 
 if that were to happen, the [ice] in the [north pole] and in the [south pole] would melt…
 
-and the whole world would be [submerged] in water… and then there would be [ocean] wherever you look~♪
+and the whole world would be [submerged] in water… and then there would be [ocean] wherever you look\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Shinkai-donoo~? Please stop saying terrifying things, and withdraw yourself from the fountain!
+Shinkai-donoo~? Please stop saying terrifying statements, and withdraw yourself from the fountain!
 
-Come on out, the meeting will start very soon!
+Come on out, the meeting will start very soon\~!
 
 I heard that we will be grouping up with other units this time, you know? Everyone would tease you if you were to arrive late!
 
@@ -272,17 +274,17 @@ You are a third year — a *senior!* Be a little more sensible please!
 {% endbubble %}
 
 {% bubble Kanata %}
-ufufu. shinobu, even you say stuff like that now\~ [lately], it feels like you are [assertive] to me, as well\~♪
+ufufu. shinobu, you have started stuff like that now\~ [lately], it feels like you are [assertive] to me, as well\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
 Well, I mean… After going through half a year with you, I would obviously become more acquainted with you, yes?
 
-I am the type of ninja who sticks close to comrades I feel comfortable with.
+I am the type of ninja who becomes pushy and assertive towards close comrades I feel comfortable with.
 {% endbubble %}
 
 {% bubble Kanata %}
-i am a [comrade] you feel comfortable with? fufu, if that is how you [feel] about me… then i am very [happy].
+i am a [close comrade] to you\~? fufu, if that is how you [feel] about me… then i am very [happy].
 
 i will stay here a little longer\~ to [show] how happy i am\~ *puka, puka\~♪*
 {% endbubble %}
@@ -296,23 +298,23 @@ Shinkai-dono, pleaaase\~! Don't splash around like a little child! Get out of th
 {% img /img/es/eventstory/sweethalloween/disharmony2_2.jpg %}
 
 {% bubble Madara %}
-Hahaha! How peaceful! You’re getting along with a junior — I didn’t expect that! How fortunate of you, Kanata-san~♪
+Hahaha! *How peaceful!* You’re getting along with a junior — I didn’t expect that! How fortunate for youuu, Kanata-san~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-ughh… rogue, i have told you before *not* to come near the [fountain].
+uueeh… rogue, i have told you before *not* to come near the [fountain].
 
-the [running grounds] is your territory [ground], but the [fountain] is my territorial [sea].
+the [running grounds] is your territory [ground], and the [fountain] is my territorial [sea].
 {% endbubble %}
 
 {% bubble Madara %}
-I don’t remember ever agreeing to something like that. If I couldn’t come over to this side, I wouldn’t be able to reach the shoe rack or the school gate! I wouldn’t be able to go home!
+I don’t remember eeever agreeing to something like that, though? If I couldn’t come over to this side, I wouldn’t be able to reach the shoe rack ooor the school gate! I wouldn’t be able to go home!
 {% endbubble %}
 
 {% bubble Kanata %}
 then take a [detour] and go *all* the way around to avoid the [fountain].
 
-anyway, *you* would not get [injured] even if you were [barefoot], so you do not need to go all the way around just to change [shoes].
+anyway, *you* would not get [injured] even if you were [barefoot], so you would not need to go all the way around just to change your [shoes].
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -328,9 +330,9 @@ care to explain when exactly you lured [my child] to your side, rogue?
 {% bubble Madara %}
 Hahaha, if he’s a kid from Ryuseitai, then he’s my kid too, right?
 
-Just kidding, I could never say that for real…… For some strange reason, Shinobu-san isn’t terrified of me and adores me instead. I can’t help but to be happy about it.
+Juuust kidding, I could never say that for real…… For some strange reason, Shinobu-san isn’t terrified of me and adooores me instead. I can’t help but be happy about it.
 
-So I end up spoiling him… Well, okay, I end up doting on him.
+Sooo I end up spoiling him… Well, okay, I end up doting on him.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -338,11 +340,13 @@ Nihihi, Mikejima-dono gives me ninja merchandise as a souvenir from his work ove
 
 I heard that lately, ninjas are getting attention overseas because of appearances in American comic books and stuff~♪
 
-Look, do you see this! “Once upon a time, there was a group of ninjas who survived Nobunaga Oda’s oppression, and they travelled across continents, changing and evolving”… is the backstory of a ninja from Kentucky, and this is their colorful shuriken~☆
+Look, look! “Once upon a time, there was a group of ninjas who survived Nobunaga Oda’s oppression, and they travelled across continents, changing and evolving”—
+
+—Is the backstory of a ninja from Kentucky, and this is his colorful shuriken~☆
 {% endbubble %}
 
 {% bubble Kanata %}
-you are [fine] with just about [anything] when it is [ninja]-related, aren’t you…
+you are [fine] with just about [anything] when it is [ninja]-related, aren’t you, shinobu…
 
 it is [good] to have something you [love], but… you have no [standards].
 {% endbubble %}
@@ -362,7 +366,7 @@ Slaaam! ☆
 {% endbubble %}
 
 {% bubble Madara %}
-Owaah!? Heeey, you shouldn’t crash into people from behind, Mitsuru-san! You might hurt someone, okay?
+Owaah!? Heeey, you shouldn’t crash into people from behind, Mitsuru-san! You might hurt someone, okaaay?
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -372,17 +376,17 @@ So I’m gonna vent all my frustrations! Wham, slaaam~!! ☆
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, this is a pretty nice massage.
+Hahaha, this is a preeetty nice massage.
 
-…I think *you’re* the one who’s gonna get hurt from this; your neck’s gonna get cramped. Don’t keep bashing into me like that, alright?
+…I think *you’re* the one who’s gonna get hurt from this; your neck’s gonna get cramped. Don’t keep bashing into me like that, alriiight?
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Bam! Ba-ba-boom!!
+Baaam! Ba-ba-boom!!
 {% endbubble %}
 
 {% bubble Madara %}
-You never listen to people… It’s easier to stop you myself.
+You neeever listen to people… It’s easier to stop you myself.
 
 …Hup! Upsie daisy, up you gooooo~! ♪
 {% endbubble %}
@@ -394,7 +398,7 @@ I’m as much of an athlete as you! I’ll prove it with another showdown, c’m
 {% endbubble %}
 
 {% bubble Madara %}
-There’s a meeting coming up pretty soon, remember? I’m gonna keep carrying you like this, so let’s go there together, alright? We can have a showdown next time.
+There’s a meeting coming up pretty soon, remember? I’m gonna keep carrying you like this, so let’s go there together, alriiight? We can have a showdown next time.
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -404,59 +408,61 @@ Uuu~! That’s what you say now, but you’re just gonna go overseas and you won
 {% bubble Madara %}
 Ahhh, I’m sorry about that…
 
-There there, Mitsuru-san~ Cheer up~♪
+There there, Mitsuru-san\~ Cheer up\~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Umm… So you get along with Tenma-kun, Mikejima-dono? Oh yeah, is it because you are both in the Trackfield Club…?
+Umm… So you are on good terms with Tenma-kun, Mikejima-dono? Oh yeah, is it because you are both in the Track & Field Club…?
 {% endbubble %}
 
 {% bubble Mitsuru %}
-We don’t get along at all! He’s my rival in speed!
+We’re not on good terms at all! He’s my rival in speed!
 
-Sometimes we have a race around the school grounds! But I still haven’t won a single time! It’s so annoying!!
+Sometimes we have a race against the clock around the school!
 
-I feel like he’s starting to get more serious about it, though, which makes me happy! And now I’m getting all pumped up~! I’m gonna run around one more time!!
+I still haven’t won a single time! Ughh, it’s so annoying!!
+
+But I feel like he’s starting to get more serious about it, and that makes me happy! And now I’m getting all pumped up~! I’m gonna run around one more time!!
 {% endbubble %}
 
 {% bubble Madara %}
 I *just* told you we have a meeting coming up…
 
-We still had a bit of time before it started, so I went along with your showdown… But there’s not much time left anymore, and we still have to change back into our school uniforms.
+We still had a biiit of time before it started, so I went along with your showdown… But there’s not much time left anymore, and we stiiill have to change back into our school uniforms.
 
-Maybe it’s best if we get our stuff from the club room and leave the changing for after the meeting…
+Maaaybe it’s best if we get our stuff from the clubroom and leave the changing for after the meeting…
 
-Uh, we’re gonna have it at the… basketball court for some reason?
+Uh, we’re gonna have it at the… basketball court fooor some reason…?
 {% endbubble %}
 
 {% bubble Shinobu %}
 Ahh, yes, it seems that it was a very sudden meeting, so there was not enough time to rent a practice room for it.
 
-Although… You make it sound like you are going to be participating, too, Mikejima-dono. Is that correct?
+Although… You make it sound like you are going to be participating in the same meeting as us, Mikejima-dono. Is that correct?
 {% endbubble %}
 
 {% bubble Madara %}
-Yep! Didn’t you hear? Ryuseitai, Ra*bits, and MaM are gonna participate in the Halloween Party together~♪
+Yeeep! Didn’t you hear? Ryuseitai, Ra*bits, and MaM are gonna participate in the Halloween Party together~♪
 
-It seems that we’re all gonna be there together today… So if we have some extra time afterwards, we can start practicing right after.
+It seems that we’re aaall gonna be there together today… If we have some extra time afterwards, we can start practicing riiight after.
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ahhh… Although you work solo, you are also treated as a “unit” under the name of MaM…
+Ahhh… Although you work solo, it is still treated as a “unit” activity under the name of MaM…
 
 Is it not lonely to work alone?
 {% endbubble %}
 
 {% bubble Madara %}
-It can be, but, y’know… A lot’s happened… Plus, I’m surrounded by the audience whenever I’m on stage, so I’m able to forget that loneliness.
+It can be, buuut, y’know… A lot’s happened… Plus, I’m surrounded by the audience whenever I’m on stage, so I’m able to forget that loneliness.
 
-Anyway, you guys are gonna be at the meeting too, so let’s all go there together.
+Aaanyway, you guys are gonna be at the meeting too, so let’s all go there together.
 
-Although, you’re gonna need to dry up first, Kanata-san. I can lend you a towel if you come with us to the club room~
+Although, you need to dry up first, Kanata-san. I can lend you a towel if you come with us to the clubroom~
 {% endbubble %}
 
 {% bubble Kanata %}
-mm… we are going to be working [together] with the rogue? it feels like it will only be a ruckus.
+mm… we are going to work [with] the rogue? it feels like it will only be a ruckus.
 
 well… i suppose that lately i do not [dislike] things being [rowdy], anyway.
 
@@ -471,7 +477,7 @@ three [units] together… that is a pretty large amount of [people]. hmm, will w
 
 {% img /img/es/eventstory/sweethalloween/disharmony4_1.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 ……………
 {% endbubble %}
 
@@ -479,7 +485,7 @@ three [units] together… that is a pretty large amount of [people]. hmm, will w
 Heeey, Chiaki-chin\~♪ I made enough copies of the printout for everyone\~
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 ……………
 {% endbubble %}
 
@@ -490,19 +496,19 @@ It’s not like you to make such a grim face! C’mon, cheer up~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-O-ooh!? You surprised me!
+O-Ooh!? You surprised me! Sorry, sorry! I was deep in thought and couldn’t respond in time!
 
-Sorry, sorry! I was deep in thought and couldn’t respond in time!
+Anyway, so you brought the copies? Thank you! Let me file them in so they don’t fly off, since we’re outside!
 
-Anyway, so you brought the copies? Thank you! Let me file them away so they don’t fly off, since we’re outside!
-
-I’ve already got a folder right here that we can use! I don’t want to make you carry it since it’s pretty heavy, and you’re delicate!
+I’ve already got a folder right here that we can use! I don’t want to make you carry it, though — It’s pretty heavy, and you’re delicate!
 
 So, please hand me each paper one by one and I’ll file them in.
 {% endbubble %}
 
 {% bubble Nazuna %}
-Okay… Feels like our roles are all over the place… It should be our juniors doing this stuff, but it doesn’t look like they’re here yet, huh?
+Okay… Feels like our roles are all over the place… It should be our juniors doing this stuff.
+
+But it doesn’t look like they’re here yet, huh?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -512,25 +518,25 @@ Yeah. Looks like it’s only us third years who got out of class early.
 {% bubble Nazuna %}
 We’re more or less just here for exam preparations, so our classes are lessening each day.
 
-They told us that once we reach around the time for graduation, they’ll barely be holding classes anymore and we can just come to school whenever we feel like it.
+They told us that once we reach around the time for graduation, they’ll barely hold classes anymore and we can just come to school whenever we feel like it.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mmm… I really don’t want to think about graduation right now…
+Mmm… I *really* don’t want to think about graduation right now…
 
 Anyway, I wanted to ask you something, Nito. You’re in the same class as Kanata, right? Do you know where he could be?
 {% endbubble %}
 
 {% bubble Nazuna %}
-He wasn’t in class today. The Three Oddballs barely come to class…
+He wasn’t in class today. The Three Eccentrics barely show up to class…
 
 But Rei-chin came to class in the afternoon, and said he was in school today.
 {% endbubble %}
 
 {% bubble Chiaki %}
-I see… It’s really hard to get in contact with him… I asked Sengoku to check the fountain before coming here, just in case.
+I see. It’s really hard to get in contact with him… I asked Sengoku to check the fountain before coming here, just in case.
 
-Oh yeah, and Mikejima-san said he’s coming over after a quick run.
+Oh yeah, and my classmate Mikejima-san said he’s coming over after a quick run.
 
 It seems like he always has to use up some of his energy, or he won’t be able to sit still for the day.
 {% endbubble %}
@@ -544,19 +550,17 @@ He’s reliable, but I haven’t really worked with him when he’s MaM, so I’
 {% bubble Chiaki %}
 Oh, I don’t think you’ll have to worry.
 
-When he’s going by “Mikejima Madara,” he pretty much just does as he likes, but when he’s “MaM,” he follows the rules… Basically, he does listen to other people.
+When he’s going by “Mikejima Madara,” he pretty much does as he likes, but when he’s “MaM,” he follows the rules. Basically, he does listen to other people.
 {% endbubble %}
 
 {% bubble Nazuna %}
 I don’t really get where the difference lies… Either way, he’s alone.
 
-So in the end it’s about whether he’s prioritizing personal affairs or business objectives?
+So in the end, it’s about whether he’s prioritizing personal affairs or business objectives?
 {% endbubble %}
 
 {% bubble Chiaki %}
-You could say that.
-
-……Alright, I filed everything in the right place.
+You could say that. ……Alright, I filed everything in the right place.
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -566,13 +570,13 @@ The details are written as simple as possible. It just shows that she’s been g
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah. Well actually, it’s also probably because nothing’s been completely decided on yet.
+Yeah. Well, actually, it’s also likely because nothing’s been completely decided on yet.
 
 There was the S1 in spring, then Tanabata Festival, and now Halloween Party… As the seasons go by, the scale and amount of participants for S1 events both continue to increase.
 
-It’s probably getting harder for her to manage everything on her own.
+It’s likely getting harder for her to manage everything on her own.
 
-I think the student council and the teachers are helping her out as much as they can, but her responsibilities are increasing either way.
+I think the Student Council and the teachers are helping her out as much as they can, but her responsibilities are increasing either way.
 
 I’m worried that she might reach her limit… If she really does crash down from this, everything else will crash down along with her.
 {% endbubble %}
@@ -580,9 +584,11 @@ I’m worried that she might reach her limit… If she really does crash down fr
 {% bubble Nazuna %}
 Then we’ve just got to help her out as much as we can to make sure that doesn’t happen.
 
-After all, for Halloween Party, we’re all gathering here so that we can go through the preparations step-by-step together.
+After all, for Halloween Party, we’re all gathering here so that we can go through step-by-step what we'd need to prepare together.
 
-This was honestly a godsend. My Ra*bits members have clearly been growing up well… and they’ve been doing all kinds of things, but our unit funds haven’t been enough for anything else.
+This was honestly a godsend for us.
+
+My Ra*bits members have clearly been growing up well, and they’ve been doing all kinds of things… But our unit funds haven’t been enough for anything else.
 
 But this time around, we can make up for it by working hard on preparations.
 
@@ -590,7 +596,9 @@ So thankfully, we can be on the same level as other units, even without any fund
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh yeah, Shino-kun and I were helping out with the preparations yesterday, and that’s when we decided that we’d join our three units and work on preparations together.
+Oh yeah, Shino-kun and I were helping out with the preparations yesterday, and he told me about it.
+
+That’s when we decided that we’d join our three units and work on preparations together.
 
 Originally, it was only Mikejima-san who was supposed to participate in the event like that.
 
@@ -606,13 +614,15 @@ Even a veteran unit like Ryuseitai is going through this? Well, you guys do a lo
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hehe, yep, we mostly do volunteer work.
+Heheh, yep, we mostly do volunteer work.
 
-Lately, Yumenosaki has been bustling with activity, but I feel like a problem is rising because of it.
+Also, lately, Yumenosaki has been bustling with activity, but I feel like a problem is rising because of it.
 
-For official DreamFes, we have an S1 event every season, and an S2 event every month… But that alone isn’t enough for everyone.
+For official DreamFes, we have an S1 event every season, and an S2 event every month…
 
-That’s why units who want to do more work have no choice but to join unauthorised live shows — The B1 events — but they’re unofficial, so the student council won’t fund them.
+But that alone isn’t enough for everyone.
+
+That’s why units who want to do more work have no choice but to join unauthorized live shows — The B1 events — but they’re unofficial, so the Student Council won’t fund them.
 
 Well, we should probably be glad that they tolerate the idea of unofficial events instead of completely ridding of them…
 
@@ -622,7 +632,7 @@ But those units have to keep using their own money on the show and its business.
 {% bubble Nazuna %}
 Yeah, it’s possible to make some profit off of selling goods and merchandise, but the actual live show is free.
 
-And to even make that kind of stuff, you need people and you need money.
+And to even make that kind of stuff, you need people and money.
 
 Money, money, money… It’s always about money. I’m tired of it.
 
@@ -642,7 +652,7 @@ That’s true… Ahh man… Living a normal life is tough.
 {% bubble Hajime %}
 Everyooone, here’s your tea~♪
 
-I thought it might get cold when we’re outside, so I poured some hot tea in the flask beforehand.
+I thought it might get cold while we’re outside, so I poured some hot tea in the flask beforehand.
 
 There’s also tea cakes, so please take whatever you like~♪
 {% endbubble %}
@@ -664,7 +674,7 @@ Ahaha, anyone is a good person to you, Hajime-chin.
 {% bubble Shinobu %}
 Committee Chairman-dono~ I am the one who baked this confectionary!
 
-I spotted them making tea after passing by the Trackfield Club’s room, so I assisted them!
+I spotted them making tea after passing by the Track  & Field Club’s room, so I assisted them!
 
 Look closely! It is confectionary in the shape of a shuriken~♪
 
@@ -682,15 +692,15 @@ Very well. I did not expect you to be particular about these things, Nito-dono.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Alright, everyone! Your attention please! I apologise for interrupting your chattering, but I’d like to start the meeting by now! Is that alright with you, Mikejima-san?
+Alright, everyone! Your attention please! I apologize for interrupting your chattering, but I’d like to start the meeting by now! Is this alright for you, Mikejima-san?
 {% endbubble %}
 
 {% bubble Madara %}
-Why are you asking me…? Ryuseitai is the biggest in terms of the units here, and you’re its leader, so… It’s best if you lead this meeting.
+Why're you asking me…? Ryuseitai is the biggest in terms of the units here, and you’re its leader, sooo… It’s best if you lead this meeting.
 {% endbubble %}
 
 {% bubble Nazuna %}
-Yep, that’s what I think too.
+Yep, that’s what I think, too.
 
 If Anzu was here, she’d probably do the leading since she’s the producer, but… I doubt we could make her do everything for us.
 
@@ -704,35 +714,37 @@ Yes, I have no problems with it.
 {% endbubble %}
 
 {% bubble Tomoya %}
-Yeah, me too. Personally, I adjust to things better when Nii~chan’s leading us, but it’s fine. Ra*bits has been led by other units many times before.
+Yeah, me too. Personally, I adjust to things better when Nii~chan’s leading us, but it’s alright.
+
+Ra*bits has been led by other units many times before.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Hrrnnn… It’s so annoying that we’re always being carried around by other people! We’re awesome, too!
+Mmm\~… It’s so annoying that we’re always being carried around by other people! We’re awesome, too!
 
 But if Nii~chan is okay with it, then I guess I’ll go along with it, too…
 {% endbubble %}
 
 {% bubble Nazuna %}
-Hehe. Yeah, I do hope we'll have the spotlight someday.
+Heheh. Yeah, I do hope we'll have the spotlight for ourselves someday.
 {% endbubble %}
 
 {% bubble Madara %}
-MaM is all in this, too! Hahaha, calling out our unit names one by one makes it feel like we’re in some strategy meeting! This is fun~♪
+MaM is aaall in this, too! Hahaha, calling out our unit names one by one makes it feel like we’re in some strategy meeting! This is fun~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh, okay… Ughh… Alright, I’m not good at this, but I’ll do it.
+Oh, okay… Uuu\~… Alright, I’m only a novice, but I’ll do it.
 {% endbubble %}
 
 {% bubble Kanata %}
-…? chiaki, you do not seem [up] for this… actually, you do not look so [energetic], are you alright?
+…? chiaki, you do not seem [up] for this… actually, you do not look so [energetic]; are you alright?
 {% endbubble %}
 
 {% bubble Tetora %}
 Oh, c’mon~! Please get a hold of yourself, Taichou!
 
-This is a meeting of three units; you gotta be even more pumped up than usual! It can easily get chaotic with this many people, you know!
+This is a meeting of three units; you gotta be even more pumped up than usual! It can easily get chaotic with this many people, y'know!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -750,15 +762,17 @@ Eugh… Don’t pull that out, Sengoku-kun… I can’t stand the smell…
 {% endbubble %}
 
 {% bubble Hajime %}
-Ah, I have air fresheners. There’s one with a nice odor, one that’s odorless… and an odor neutralizer perfumers use~♪
+Ah, I have air fresheners. There’s one with a nice odor, one that’s odorless…
+
+I even have an odor neutralizer perfumers use~♪
 {% endbubble %}
 
 {% bubble Midori %}
-You’ve always got a lot of useful stuff with you, Shino-kun… You’re like Doraemon~♪
+You’ve always got a lot of useful stuff with you, Shino-kun… You’re like Doraemon…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah, um! I *am* still doing this, so please don’t start chatting to each other!
+Ah, um~! I *am* still going to do this, so please don’t start chatting to each other!
 {% endbubble %}
 
 {% bubble Madara %}
@@ -766,23 +780,23 @@ Hahaha, I saw it coming, but things really are getting rowdy.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah… I’m sorry, Mikejima-san. I can’t do it right…
+Yeah… I’m sorry, Mikejima-san. I can’t lead everyone properly…
 
 This was meant to be only your job at first, so I’d feel really bad if we ended up causing you any problems.
 {% endbubble %}
 
 {% bubble Madara %}
-Problems? Not at all. I mean, I was only helping Anzu-san by barging in on her work.
+Problems? Not at aaall. I mean, I was only helping Anzu-san by barging in on her work.
 
-I’m always doing things alone, so I’m actually happy with how lively things are right now.
+I’m always doing things alone, so I’m actually reaaally happy with how lively things are right now.
 
-Plus, we’re Ra*bits, Ryuseitai, and MaM. None of us have anything against each other, and we all get along peacefully.
+Plus, we’re Ra*bits, Ryuseitai, and MaM. None of us have aaanything against each other, and we all get along peacefully.
 
 We’ll succeed as long as we do it as we normally would. You don’t have to stress out over it, just enjoy yourself.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ughh… But doing things “normally” is always the hardest when you need it most…
+Uuu… But depending on the time and situation, doing things “normally” can be the hardest task…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -804,7 +818,7 @@ I was looking around at everyone to see if anyone wanted a refill. I wasn’t on
 {% endbubble %}
 
 {% bubble Hajime %}
-Okaaay~ You may end up needing the bathroom if you drink it too quickly, so please take your time with your tea, okay?
+Okaaay~ You may end up needing the toilet if you drink it too quickly, so please take your time with your tea, okay?
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -812,15 +826,15 @@ Okaaay~ You may end up needing the bathroom if you drink it too quickly, so plea
 
 <th>(Mmm… Hajime-chin and Tomo-chin are still acting awkward around each other…)</th>
 
-<th>(I thought that things between them would go back to normal after a while, since it’s those two we’re talking about…)</th>
+<th>(I thought that things between them would go back to normal after a while, since it’s those two we’re talking about, but I guess not…)</th>
 
-<th>(But I guess with something as big as the Halloween Party coming up, that might not be the case…)</th>
+<th>(We've got something as big as the Halloween Party coming up, so…)</th>
 
 <th>(Maybe I should get myself involved instead of just waiting to see how things turn out…)</th>
 
-<th>(But I’m not sure what to do… I’m not used to this kind of stuff…)</th>
+<th>(But I’m not sure what to do… I’m not used to this kinda stuff…)</th>
 
-<th>(If it was Mitsuru-chin acting this way, I’d be able to easily understand the problem and come up with a solution…)</th>
+<th>(If it was Mitsuru-chin acting this way, I’d be able to easily figure out the problem and come up with a solution…)</th>
 
 <th>(But I don’t have a single clue as to why Hajime-chin and Tomo-chin are fighting… Just what happened? They’ve always been such good kids, too…)</th>
 {% endbubble %}
@@ -848,7 +862,7 @@ Tanabata Festival\~!? That was suuuper fun! I felt like I could reach the stars 
 {% endbubble %}
 
 {% bubble Tomoya %}
-Yeah, and it was also *extremely* exhausting because of all the trouble you put me through…. You always just remember the good parts, don’t you…
+Yeah, and it was also *extremely* exhausting 'cause of all the trouble you put me through… You always just remember the good parts, don’t you…
 {% endbubble %}
 
 {% bubble Mitsuru %}

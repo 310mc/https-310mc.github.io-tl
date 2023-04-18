@@ -53,7 +53,7 @@ hidden: true
 <!-- more -->
 
 {% note narration %}
-**Translation Note:** Chiaki talks in an informal/masculine manner with a lot of drama added to it. But in various parts of this story, he breaks his usual speech pattern, mostly from being spooked.
+**Translation Note:** Chiaki talks in an informal/masculine manner with a dramatic feel added to it. But in various parts of this story, he breaks his usual speech pattern, mostly from being spooked.
 {% endnote %}
 
 {% note narration %}
@@ -69,11 +69,11 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 {% bubble Hajime %}
 <th>(*Sigh…* I’m not sure what to do now… Why did things turn out this way…)</th>
 
-<th>(I can’t believe I ended up fighting with Tomoya-kun… This has never even happened before…)</th>
+<th>(I can’t believe I ended up fighting with Tomoya-kun… This has never once happened before…)</th>
 
-<th>(Tomoya-kun has always been so kind and positive towards me… Even though I’m bad at talking, he cheerfully listens to me…)</th>
+<th>(Tomoya-kun has always been so kind and positive towards me… Even though I’m bad at speaking, he gladly listens to me…)</th>
 
-<th>(He never rejects what I say, and agrees to it with things like “That sounds good” or “Let’s do it together”…)</th>
+<th>(He never rejects what I say, and agrees to it with words like “That sounds good” or “Let’s do it together”…)</th>
 
 <th>(He would even hold my hand while walking with me…)</th>
 
@@ -81,7 +81,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 <th>(I must’ve accidentally hit a nerve in Tomoya-kun… I must’ve mentioned something he doesn’t want to discuss.)</th>
 
-<th>(I have to apologize to him… We should be able to understand each others’ feelings if we talk it through.)</th>
+<th>(I have to apologize to him… We should be able to understand each other’s feelings if we talk it through.)</th>
 
 <th>(He’s my best friend, after all.)</th>
 
@@ -89,7 +89,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 <th>(And now time is going by just like that… Uuu, why did this happen…)</th>
 
-<th>(I love Tomoya-kun, and he’s so important to me… So why did we clash against each other…? Why is it that all I can do is mumble my words when I try to make amends with him?)</th>
+<th>(I love Tomoya-kun, and he’s so important to me… So why did we clash against each other…? Why is it that all I can do is mumble my words whenever I try to make amends with him?)</th>
 
 <th>(I’m just a no good dunce, aren’t I…? It’s like I’ve gone straight back to how I was before I met Tomoya-kun.)</th>
 {% endbubble %}
@@ -99,9 +99,9 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 {% bubble Chiaki %}
 <th>(*Sigh…*)</th>
 
-<th>(What do I do? What do I do? I’m in big trouble.)</th>
+<th>(What do I do? What do I do? I’m in a huge predicament.)</th>
 
-<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
+<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, gosh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
 
 <th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
 
@@ -117,9 +117,9 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 <th>(It isn’t fair to them! That isn’t what justice is all about!)</th>
 
-<th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward!)</th>
+<th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward\~!)</th>
 
-<th>(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!!)</th>
+<th>(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!)</th>
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -131,7 +131,7 @@ Wha—!? I-I-I-I’m so sorry!![^1] Are you alright!? I’m terribly sorry for b
 {% endbubble %}
 
 {% bubble Hajime %}
-O-ow… I’m alright~! I’m so sorry, I was also walking with my head in the clouds!
+O-Ow… I’m alright~! I’m so sorry, I was also walking with my head in the clouds!
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -139,7 +139,7 @@ No, no, it's my bad![^2] The papers you were holding flew everywhere because of 
 {% endbubble %}
 
 {% bubble Hajime %}
-Ah! It’s fine, I’ll pick them up myself!
+Ah! It’s fine, really~ I’ll pick them up myself!
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -147,7 +147,7 @@ I can’t let that happen! Let me pick them up, please! I won’t be able to rel
 
 If I remember clearly, you’re Shino-kun from Ra*bits… You’re Akehoshi’s favorite kid, right?
 
-If he finds out that I caused trouble for you, he might not speak to me for three months! Something like that has happened before!
+If he finds out that I caused trouble for you, he may not speak to me for three months! Something like that has happened before!
 
 In other words, I’m just doing this because I don’t want Akehoshi to hate me! It’s all for my own selfish reasons!
 
@@ -155,7 +155,7 @@ I may be bothering you right now, but please, let me pick them up for you…!
 {% endbubble %}
 
 {% bubble Hajime %}
-…Heheh~♪
+…Ehehe~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -167,7 +167,7 @@ No, I’m sorry… But you really are exactly how Akehoshi-senpai described you,
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh? Akehoshi gossiped about me? I see now! So the reason I’d sneeze here and there every time the season changes is because of Akehoshi!
+Oh? Akehoshi gossiped about me? I see now! So the reason I’d sneeze here and there every time the season changes was because of Akehoshi!
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -179,15 +179,15 @@ Ehehe, if I’m remembering right, ginger tea is good for a cold.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mhm, you have a pretty unique way of pacing the conversation! It’s super cute, there there! ♪
+Mhm, you have a pretty unique way of pacing the conversation! It’s super cute, there, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 
 {% bubble Hajime %}
-Wah— Awawa…
+Hwah— Awawa…
 
 Ah! Being patted on the head made me remember what I wanted to say! Akehoshi-senpai talks about you a lot, Morisawa-senpai.
 
-He always says you’re irritating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
+He always says you’re suffocating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -197,13 +197,13 @@ Oh… Yeah, I guess he would. That’s heart-crushing.
 {% bubble Hajime %}
 But whenever he talks about you, he has a really gentle look on his face…
 
-And he always sounds happy when he ends it with “Chi~chan-senpai is a hero, after all!”
+And he *always* happily ends it by saying, “Chi~chan-senpai is a hero, after all!”
 
 Heroes are cool, aren’t they? My little brother often watches those shows on Sunday.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ohh!! Really! I think I could get along well with your little brother! ♪
+Ohh!! Really! I think I could get along well with your little brother, Shino-kun! ♪
 
 …Alright, I finished picking them up while we were talking. Were you taking these somewhere?
 
@@ -211,9 +211,9 @@ I’ll take them there for you as an apology for bumping into you!
 {% endbubble %}
 
 {% bubble Hajime %}
-Ah, thank you so much. People have been complimenting my upper strength often lately, so I got ahead of myself and tried to carry many of these papers at once…
+Ah, thank you so much. People have been complimenting my upper strength often lately, so I got ahead of myself and tried to carry a lot at once…
 
-But it was a little too much — or, well, it was just very tough.
+But it was a little too much, and ended up being pretty tough to do.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -233,7 +233,7 @@ So I tried to find all kinds of things in the reference room. Ehehe, it was pret
 {% bubble Chiaki %}
 I see… Halloween Party is an S1, after all… Preparing for it must be a huge task.
 
-I wonder if she’ll be okay… She probably has SS to produce for, too…
+I wonder if she’ll be okay… She likely has SS to produce for, too…
 
 We have to properly support her — the important one-and-only producer in this school.
 {% endbubble %}

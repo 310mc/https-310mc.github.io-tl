@@ -170,7 +170,7 @@ i do, even if it meant that i could not become a hero. i want to become a [good 
 
 but right now, it is still too [difficult] for me.
 
-i am always just a mysterious [monster], aren't i?
+i am always going to be a mysterious [monster], aren't i?
 
 ……………
 {% endbubble %}
