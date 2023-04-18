@@ -175,7 +175,7 @@ Kanata's home is isolated — I felt like I was living the life of Urashima Taro
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu\~ [sea breams] and [flounders] showed him a dance~[^3] <em>puka puka\~♪</em>
+fufufu\~ [sea breams] and [flounders] showed him a dance\~[^3] <em>puka puka\~♪</em>
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -189,7 +189,7 @@ not at all\~ it would have been much more [troublesome] if you died from [illnes
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahhh… Morisawa-senpai didn't listen to what the doctor's advice and tried to come over, and so Shinkai-senpai did whatever he could to stop him. I see.
+Ahhh… Morisawa-senpai didn't listen to the doctor's advice and tried to come over, and so Shinkai-senpai did whatever he could to stop him. I see.
 
 Good work, Senpai~♪
 {% endbubble %}

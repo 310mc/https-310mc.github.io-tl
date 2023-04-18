@@ -329,7 +329,7 @@ Whaa\~? Don't put me together with Chi\~chan-senpai! We can talk to each other p
 {% endbubble %}
 
 {% bubble Midori %}
-Ughh… I knew it, this guy’s also the pushy overbearing type…
+Ughh… I knew it, this guy’s also the pushy type…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1117,7 +1117,7 @@ Like, “why can't you get this right?” and “do it properly!” and “don�
 {% bubble Mao %}
 Holy… For an ordinary person, hearing that from a genius would hurt a *lot*.
 
-I don't think he wasn't motivated, y’know. I'm sure he was trying to do it properly.
+I don't think he had no motivation, y’know. I'm sure he was trying to do it properly.
 
 He may complain a lot, but he works hard at what he's told to.
 

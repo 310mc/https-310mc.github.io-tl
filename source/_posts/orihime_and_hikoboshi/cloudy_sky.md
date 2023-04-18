@@ -691,7 +691,7 @@ Woah! W-What's wrong, Takamine? Why are you hunched over in the corner there…?
 {% endbubble %}
 
 {% bubble Midori pout %}
-<em><th>(mutter)</th></em> Why’d he have to go and tell me that… So annoying… This is why I didn't want this… <em><th>(mutter, mutter)</th></em>
+<em><th>(mutter)</th></em> Why me… Why’d he have to go and tell me that… So annoying… This is why I didn't want this… <em><th>(mutter, mutter)</th></em>
 {% endbubble %}
 
 {% bubble Mao %}

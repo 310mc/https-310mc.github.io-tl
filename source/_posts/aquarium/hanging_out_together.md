@@ -377,7 +377,7 @@ i am sorry for making you talk about something so [serious], even though it is o
 {% endbubble %}
 
 {% bubble Kaoru sideeye %}
-Hmph. I ended up getting separated from the people who could *properly* talk seriously with you, alright?
+Hmph. I ended up getting separated from the people who could *properly* have a serous talk with you, alright?
 
 So I had to be the one to say it. You would’ve gotten away if I didn’t deal with you the moment I found you.
 
@@ -405,7 +405,7 @@ kaoru, you surprisingly have your [head] on your shoulders.
 {% bubble Kaoru frown %}
 I hate to say this, but I'm not a genius like you are, so I have to be mindful of a lot of things, Kanata-kun.
 
-That’s what you call “swimming the current of life”. You'll only make everyone's life harder if you don't note of it, as well.
+That’s what you call “swimming the current of life”. You'll only make everyone's lives harder if you don't note of it, as well.
 {% endbubble %}
 
 {% bubble Kanata smile2 %}
@@ -459,7 +459,7 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
 {% bubble Madara %}
 <em><th>(Humming)</th></em> Hmhmhmmm~♪
 
-Drink a lot, eat a lot! Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins…☆
+*Drink a lot, eat a lot!* Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins…☆
 {% endbubble %}
 
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
@@ -505,7 +505,7 @@ Ooh, Kaoru-san! Hahaha, it’s refreshing to meet a classmate in a place like th
 
 Hm. Leeet me guess; you were also worried about Kanata-san’s disappearance and came searching for him.
 
-Kanata-san is such a naughty boy, making eeeveryone worry for him…
+Kanata-san is suuuch a naughty boy, making everyone worry for him…
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -539,7 +539,7 @@ And now I’m checking up on the results and consequences of those actions.
 
 The staff members are clattering aaall about because of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
 
-I’ll tell you now; I have permission to do this *aaand* I’m qualified enough for it.
+I’ll tell you now; I have permission to do this aaand I’m qualified enough for it.
 
 I can do aaany and aaall jobs swiftly. I plan to clean the water tanks next~♪
 {% endbubble %}
@@ -593,7 +593,7 @@ But this is just the *Free to Touch* section, so I guess I can’t take it back 
 
 Look at this, Sora-kun! Putting starfish on my chest gives me that sexy swimsuit look~☆
 
-What’cha think\~? Does this make li’l ol’ me pretty\~?[^3]
+What’cha think\~? Does this make li’l ol’ me look pretty\~?[^3]
 {% endbubble %}
 
 {% bubble Sora %}
