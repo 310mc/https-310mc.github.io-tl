@@ -841,7 +841,7 @@ ehe, it’s how i show my love~♪
 
 but… i see. so tetora took off his mask and showed his true self to them, didn’t he?
 
-that’s not something just anyone can do — after all, it’s terrifying to fail to meet someone’s expectations.
+that is not something just anyone can do — after all, it’s terrifying to fail to meet someone’s expectations.
 
 that’s why i believe you did a wonderful job, tetora. you know what was most important to do…
 

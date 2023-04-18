@@ -437,7 +437,7 @@ Nah, it’s just, it doesn’t really feel real to me somehow…
 {% endbubble %}
 
 {% bubble Shinobu serious %}
-To be honest, it's not something to panic about when you think about it calmly.
+To be honest, it isn't something to panic about when you think about it calmly.
 
 The local religious group, I assume…? Simply offered a meeting with Shinkai-dono, and he agreed to it. That is all there is to it, that we know of.
 
@@ -816,7 +816,7 @@ No way he doesn’t, dude… What are you, a teenager who gets embarrassed by pe
 {% endbubble %}
 
 {% bubble Keito %}
-He's not family. I’m simply subjected to the misfortune of being stuck in an undesirable yet inseparable relationship.
+He isn't family. I’m simply subjected to the misfortune of being stuck in an undesirable yet inseparable relationship.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -866,7 +866,7 @@ What the hell, is this some kinda religious ceremony or somethin’…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-It’s not right to conclude that something you don't know must be “related to religion”, without ever trying to deepen your understanding of it, Kiryu!
+It isn’t right to conclude that something you don't know must be “related to religion”, without ever trying to deepen your understanding of it, Kiryu!
 
 All the religious people in the world must’ve suffered from such a lack of sympathy, you know! Don't you agree, Hasumi!?
 {% endbubble %}
@@ -1902,7 +1902,7 @@ I wish to follow in Hasumi-dono’s footsteps — Not because Hasumi-dono ordere
 {% endbubble %}
 
 {% bubble Keito %}
-Hrm… Well, it is true that it’s not like us to dance around according to rules laid down by others.
+Hrm… Well, it is true that it isn’t like us to dance around according to rules laid down by others.
 {% endbubble %}
 
 {% bubble Tetora %}

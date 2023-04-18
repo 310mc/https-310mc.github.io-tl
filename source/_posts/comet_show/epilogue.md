@@ -496,7 +496,7 @@ Oooh! Nice one, Nagumo! That sounded like something you’d hear in a crossover 
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-There’s not *that* much of a generation gap between us, though…?
+There isn’t *that* much of a generation gap between us, though…?
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -607,9 +607,9 @@ I’m sorry, Tetora-kun, Shinobu-kun. I’m the only one who hasn’t changed si
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-That’s not true, Midori-kun. You’re the one getting the most recognition through your modeling and other solo work.
+That isn’t true, Midori-kun. You’re the one getting the most recognition through your modeling and other solo work.
 
-Anyone who knows you could guess how much you dislike that line of work, but you still worked as hard as you could, and your efforts paid off. That’s not something just anyone can do—You’re incredible, Midori-kun.
+Anyone who knows you could guess how much you dislike that line of work, but you still worked as hard as you could, and your efforts paid off. That isn’t something just anyone can do — You are incredible, Midori-kun.
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -667,7 +667,7 @@ That’s why—
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-<th>(He’s not going to tell our fans that this is the last time the five of us will perform together… is he?)</th>
+<th>(He isn’t going to tell our fans that this is the last time the five of us will perform together… is he?)</th>
 
 <th>(This is an extremely sensitive issue, so we decided that we’d announce it much more properly and carefully rather than in this improvised live show—)</th>
 
@@ -705,7 +705,7 @@ That’s why—
 {% endbubble %}
 
 {% bubble Midori serious %}
-Yeah, you wouldn’t have… ‘Cause we just decided on it a minute ago. In fact, Anzu-san is still negotiating with the agency about it as we speak—It’s not even official yet.
+Yeah, you wouldn’t have… ‘Cause we just decided on it a minute ago. In fact, Anzu-san is still negotiating with the agency about it as we speak — It’s not even official yet.
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -927,7 +927,7 @@ By that, I mean *you*, Nagumo. I did it precisely because I believed you were su
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-No, that’s not true. You’re not one bit at fault here.
+No, that isn’t true. You aren’t one bit at fault here.
 
 I’m the one who made a mistake—our environment was rapidly changing due to the establishment of ES, yet I was still stubborn enough to try and stick to tradition without any prior thought.
 
@@ -1059,7 +1059,7 @@ Ahh, I was wondering what that strange act earlier was for… This isn’t anyth
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Yeah, I’m so sorry for doing that everytime.
+Yeah, I’m so sorry for doing that every time.
 
 Nevertheless, I’m going to be performing as both a kaijuu and a hero. This way, there should be no problems regarding my face being hidden behind the costume.
 
@@ -1073,7 +1073,7 @@ At the very least this stops us from being treated as slaves and convenient ches
 
 This way, we’ll be able to protect our autonomy and freely do things the way we want to.
 
-We’re not soldiers like Alkaloid—We’re heroes who sacrifice ourselves only under our own sense of justice.
+We aren’t soldiers like Alkaloid — We’re heroes who sacrifice ourselves only under our own sense of justice.
 
 …It would be selfish of me to say all that without giving anything in return, however, so we also took down the proposal of Kanata and I leaving Ryuseitai.
 

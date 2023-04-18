@@ -176,7 +176,7 @@ Oh, right. Sorry, sorry, I just call anyone I’m not interested in whatever com
 {% bubble Chiaki past %}
 No interest!? That’s mean!
 
-Ah, but Senpai thinks your honesty is a good thing! Let me praise you, come on over, c’mon, c’mon… ♪
+Ah, but Senpai thinks your honesty is a good thing! Let me praise you, come on over, c’mon, c’mon…♪
 
 {% endbubble %}
 {% bubble Subaru %}

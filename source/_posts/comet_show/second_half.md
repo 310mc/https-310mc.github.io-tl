@@ -325,7 +325,7 @@ You keep treating us like weaklings who need to be protected, just so you can re
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-T-That’s not what I—
+T-That isn’t what I—
 
 I just don’t want my place of belonging — the dream I’ve finally achieved — to be smashed into pieces again.
 {% endbubble %}
@@ -481,13 +481,13 @@ It sure is… He was called over by a couple staff members for some business in 
 {% endbubble %}
 
 {% bubble Kanata hidden %}
-“mm\~m\~ ahem, ahem~♪”
+“mm\~m\~ ahem, ahem\~♪”
 
 “hello, everyone~ thank you for visiting the aoumi aquarium today!”
 
-“as you may know, i’m the mascot[^2] known as kanatee\~♪”
+“as you may know, i am the mascot known as kanatee\~♪”[^2]
 
-“you’re not feeling blue today, are you? despite my color, i’m not feeling blue at all\~ i wonder if it’s because of all the fishies? kana-kana~♪”
+“you are not feeling blue today, are you? despite my color, i am not feeling blue at all\~ i wonder if it’s because of all the fishies? kana-kana\~♪”
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -911,7 +911,7 @@ Okay, feel free to change first.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Hm? We’re not changing together? We’d get the job done faster that way, though! C’mon, all the kiddos are waiting for our rescue!
+Hm? We aren’t changing together? We’d get the job done faster that way, though! C’mon, all the kiddos are waiting for our rescue!
 {% endbubble %}
 
 {% bubble Midori v2 %}

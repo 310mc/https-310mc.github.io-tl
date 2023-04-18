@@ -224,7 +224,7 @@ we did it. we achieved this [result] because we cooperated together, peace\~☆
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Hehe, it’s not so bad to play as the villain every once in a while. I’m happy you all enjoyed it!
+Hehe, it isn’t so bad to play as the villain every once in a while. I’m happy you all enjoyed it!
 
 Now then, it’s quite clear to me that you all love to be heroes. But that doesn’t mean you should force someone else to be the villain, does it?
 

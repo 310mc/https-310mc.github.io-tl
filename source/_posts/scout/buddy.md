@@ -471,7 +471,7 @@ Ohhh? Chiaki-san and Anzu-san! Oh, what’s this? Are you on a date? Good, good!
 {% endbubble %}
 
 {% bubble Chiaki %}
-Um, I’m not like *that* with Anzu, okay? You shouldn’t tease people when you already know it’s not true, Mikejima-san.
+Um, I’m not like *that* with Anzu, okay? You shouldn’t tease people when you already know it isn’t true, Mikejima-san.
 {% endbubble %}
 
 {% bubble Madara %}

@@ -376,7 +376,7 @@ Nnah, that would be bad! I’m already a burden to *Valkyrie*, as it is! If I ca
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Fufu. No one is going to throw you away or pick you back up, you’re not a dog.
+Fufu. No one is going to throw you away or pick you back up, you aren’t a dog.
 {% endbubble %}
 
 {% bubble Mika %}
@@ -472,7 +472,7 @@ Nnah, ‘m sorry? It’s rude for me t’say that to guys, right? You’re real 
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Oh, that’s not it. Please be quiet for a moment.
+Oh, that isn’t it. Please be quiet for a moment.
 
 …Did you hear any suspicious noises, Kagehira-sama?
 {% endbubble %}
@@ -516,7 +516,7 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-<th>(Hm… it’s not as if I feel particularly pleased, but when I touch my face, I can definitely feel a smile there.</th>
+<th>(Hm… it isn’t as if I feel particularly pleased, but when I touch my face, I can definitely feel a smile there.</th>
 
 <th>Well, it is said that when beasts are on the hunt, they possess expressions like that of smiles. That must be what this is.)</th>
 {% endbubble %}
@@ -546,7 +546,7 @@ Uh huh. Yukkun, you’re smilin’ and everything.
 
 <th>To think that the day has come, where I miss the sweet smell of the Himemiya residence gardens.</th>
 
-<th>It’s not like I’m thinking about going back there, though. A guy like me fits in with this place much more, I think.)[^2]</th>
+<th>It isn’t like I’m thinking about going back there, though. A guy like me fits in with this place much more, I think.)[^2]</th>
 {% endbubble %}
 
 {% img /img/es/scoutstory/gang/2_1.jpg %}
@@ -658,7 +658,7 @@ Is that why you’re so angry at me?
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-What I’m angry about, is that you're not taking care of yourself.
+What I’m angry about, is that you aren't taking care of yourself.
 
 This issue was settled before things got worse, but… We’re idols. It doesn’t matter if what you did wasn't violent; if you let even a single rumor like that spread, then your future’s done for.
 
@@ -756,7 +756,7 @@ Morisawa. It’s midnight by now, shouldn’t you be going home? Your parents ar
 {% endbubble %}
 
 {% bubble Chiaki %}
-I could say the same to you. It’s not like you to stay here late, usually you go home early so you can pick up your sister.
+I could say the same to you. It isn’t like you to stay here late, usually you go home early so you can pick up your sister.
 {% endbubble %}
 
 {% bubble Kuro %}

@@ -62,7 +62,7 @@ description: "[ES!!] Translation of Chiaki's Idol Story 1."
 {% bubble Chiaki %}
 Producer! Wake up, Producer!
 
-…Mmm~? She’s not budging one bit. That’s just too strange! I’m so loud, I was able to have greetings commercialized as a voiced alarm clock!
+…Mmm~? She isn’t budging one bit. That’s just too strange! I’m so loud, I was able to have greetings commercialized as a voiced alarm clock!
 
 No, don’t give up yet, me! We just have to keep trying until it works! We’ll be the winners as long as we win by the end—all’s well that ends well!
 

@@ -202,7 +202,7 @@ Uurgh, but… but…
 {% endbubble %}
 
 {% bubble Hiiro %}
-Oh? Mayoi-senpai! He’s not a spirit haunting anyone, Buchou. This is Ayase Mayoi-senpai, from the same unit as me.
+Oh? Mayoi-senpai! He isn’t a spirit haunting anyone, Buchou. This is Ayase Mayoi-senpai, from the same unit as me.
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -472,7 +472,7 @@ Oh? So we *will* take this job?
 
 I have reserved, or more like they secured, a spot on the job for us, so we are not officially the ones in charge of it yet…
 
-It’s not too late to take back our word and tell them we can’t do it, you know?
+It isn’t too late to take back our word and tell them we can’t do it, you know?
 {% endbubble %}
 
 {% bubble Tetora %}

@@ -139,7 +139,7 @@ Ahh, it’s all coming back to me… All the old members of Ryuseitai quit after
 {% endbubble %}
 
 {% bubble Kanata %}
-yes. i was an oddball joining ryuseitai, so they probably Didn’t want any Troubles that come with that.
+yes. i was an eccentric joining ryuseitai, so they probably Didn’t want any Troubles that come with that.
 
 even the old Leader left. and then, that title became yours.
 
@@ -181,7 +181,7 @@ I haven't decided my own path yet, either. I’m in a shoddy state at the moment
 
 But I’ve gotten stronger, even if only by a little. I’ve been working hard to grow stronger without ever giving up.
 
-I’ll save you, no matter what. And not only that— I’ll *always* be your ally.
+I’ll save you, no matter what. And not only that — I’ll *always* be your ally.
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -193,19 +193,19 @@ i know that, chiaki…♪
 {% img /img/es/eventstory/meteorimpact/epilogue2.jpg %}
 
 {% bubble Kanata %}
-but… your path hasn’t been confirmed yet? i’m surprised — so even you can be something of a Punk, huh?[^2]
+but… your path hasn’t been confirmed yet? i am surprised — so even you can be something of a Punk, huh?[^2]
 {% endbubble %}
 
 {% bubble Chiaki %}
-Punk? Like Kiryu? *Oh,* because I haven’t made any progress yet, right… Ahh, well—I think I made it a little too hard on myself.
+Punk? Like Kiryu? *Oh,* because I haven’t made any progress yet, right… Ahh, well — I think I made it a little too hard on myself.
 
-I got greedy, y’see. I couldn’t get myself to give up on any of my dreams, so I decided I’d make them *all* come true.
+I got greedy, you see. I couldn’t get myself to give up on any of my dreams, so I decided I’d make them *all* come true.
 
 Well, Tenshouin said he’ll mediate for me, so hopefully everything will turn out alright.
 
 I owe him a lot… Ryuseitai was able to live on thanks to him, too.
 
-Last year, we couldn’t win a single DreamFes as a unit with an Oddball member—
+Last year, we couldn’t win a single DreamFes as a unit with an Eccentric member—
 
 Ryuseitai was extremely close to dissolution, since we were practically broke in unit funds…
 
@@ -335,11 +335,11 @@ I don’t need to shoulder everything by myself… not anymore.
 {% bubble Kanata %}
 hehe. it’s hard to let go of old Habits and outdated Customs. even i act like a god sometimes.
 
-but, we’ve changed.
+but, we have changed.
 
-we’ve *transformed*. like this— this is No.1’s transformation pose…♪
+we have *transformed*. like this — this is No.1’s transformation pose…♪
 
-you’re the one who taught me this.
+you are the one who taught me this.
 
 thank you, hero…♪
 {% endbubble %}

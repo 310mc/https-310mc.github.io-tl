@@ -174,7 +174,7 @@ However, please do not make light of us, Taichou-dono. We did not work hard just
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ohh, is that so… ♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all for the sake of justice, didn’t you!?
+Ohh, is that so…♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all for the sake of justice, didn’t you!?
 
 {% endbubble %}
 
@@ -280,7 +280,7 @@ Which part of us is even alike…?
 {% bubble Kanata %}
 ah—now that you mention it… hmm, i suppose it’s your Kindness?
 
-which means, All you three Children are similar to chiaki… ♪
+which means, All you three Children are similar to chiaki…♪
 
 {% endbubble %}
 

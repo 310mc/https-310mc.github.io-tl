@@ -173,7 +173,7 @@ I’m so selfish, I always make it 'bout myself. I’m really not fit to be a le
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Ahaha, it's not like you can do things perfectly from the very beginning.
+Ahaha, it isn't like you can do things perfectly from the very beginning.
 
 It took me many years before I was finally able to properly hit bullseye with my shuriken.
 
@@ -571,7 +571,7 @@ Dreams don't even come true most of the time — though I could never say that i
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Everyone's like that, it's not just you… Takamine.
+Everyone's like that, it isn't just you… Takamine.
 
 Everyone, *everyone*, gets carried into situations they don't expect throughout their life, and everyone complains, *“Why is this happening to me!?”*
 
@@ -593,7 +593,7 @@ I kept only the good parts of Ryuseitai, and used it for my own sake.
 {% bubble Chiaki sigh2 %}
 But you're a considerate person, so benefiting from the unit’s value… might have felt wrong for you.
 
-But it's not something to feel guilty about at all. That’s what units are for.
+But it isn't something to feel guilty about at all. That’s what units are for.
 
 It exists so that, together, we can climb up to a place we wouldn’t be able to reach on our own.
 {% endbubble %}

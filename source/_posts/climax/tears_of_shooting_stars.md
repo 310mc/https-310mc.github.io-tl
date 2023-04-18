@@ -323,7 +323,7 @@ I still don't have what it takes to be Ryusei Red.
 {% endbubble %}
 
 {% bubble Chiaki angry2 %}
-That’s not true, Nagumo.
+That isn’t true, Nagumo.
 
 Even I failed over and over at the start. I couldn't get anything right at all — to the point where just seeing the red color made me feel sick.
 

@@ -582,7 +582,7 @@ Huh? Didn’t you always say that the stronger the enemy, the better? So I chose
 {% endbubble %}
 
 {% bubble Chiaki frown2 %}
-Gghh!? That’s not how I expected my words to be interpreted…!
+Gghh!? That isn’t how I expected my words to be interpreted…!
 
 But it *is* true that I struggled to hold back from blocking you on sight, even when I knew it was you behind the message…!
 {% endbubble %}

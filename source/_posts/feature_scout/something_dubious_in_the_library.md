@@ -260,7 +260,7 @@ Heheh, you aren’t completely wrong, though. Natsume-kun might have put a curse
 {% endbubble %}
 
 {% bubble Chiaki %}
-T-That’s not a joke I can laugh at…
+T-That isn’t a joke I can laugh at…
 {% endbubble %}
 
 {% bubble Hajime %}

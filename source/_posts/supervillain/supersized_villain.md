@@ -147,7 +147,7 @@ Hah?
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-At the very least, I’m glad to confirm that you’re safe. How’s Sengoku? He’s not hurt, is he?
+At the very least, I’m glad to confirm that you’re safe. How’s Sengoku? He isn’t hurt, is he?
 {% endbubble %}
 
 {% bubble Tetora angry2 %}

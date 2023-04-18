@@ -121,7 +121,7 @@ Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never 
 
 <th>(Let’s do this! Justice will always prevail!)</th>
 
-Hmhm\~hmm~… ♪
+Hmhm\~hmm~…♪
 
 Woosh! Chiaki Crusheeeerrrr!! *<th>(Cleans the pool’s floor with a mop)</th>*
 
