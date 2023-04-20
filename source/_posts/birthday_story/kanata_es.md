@@ -415,7 +415,7 @@ Kanata! Happy birthday…! ☆
 
 How joyful! We’ve managed to gather here for the sake of celebrating a dear, beloved old friend’s birthday~♪
 
-Although, if we could just come to school properly, we would be able to see each other practically everyday, yes?
+Although, if we could just come to school properly, we would be able to see each other practically every day, yes?
 
 But let us leave that aside for now! I’ve prepared a present specifically for you. Please watch closely… One, Two, *Amazing*!
 

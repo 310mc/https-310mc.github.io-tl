@@ -346,7 +346,7 @@ Yep, that’s exactly what a hero is, Nagumo.
 
 Alright then, let’s start decorating the place.
 
-We’ll split the work between units and decorate bit by bit everyday. We’ll hopefully manage to make the entire place look like Halloween by the end of it, and call it a job well done.
+We’ll split the work between units and decorate bit by bit every day. We’ll hopefully manage to make the entire place look like Halloween by the end of it, and call it a job well done.
 
 I don’t really expect us to finish it all in one day, after all. The academy is huge.
 

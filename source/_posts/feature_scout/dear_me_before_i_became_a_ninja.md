@@ -230,7 +230,7 @@ Hehehe, you’re going to make me blush~. You really do pay close attention to m
 
 <th>(It is not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)</th>
 
-<th>(Everyday is a blessing — I want to tell that to my past self[^1], who was all alone…)</th>
+<th>(Every day is a blessing — I want to tell that to my past self[^1], who was all alone…)</th>
 
 <th>(I want to tell him that it’s okay to love what you love. Because people who will accept that about you are definitely out there in the world.)</th>
 
@@ -260,7 +260,7 @@ Heave-ho… Alright then, it’s time to open this wicker box[^2] of memories~�
 
 Nihihi. These photos and handmade picture scrolls really bring me back. I did not have a master or any ninja companions, so I had to learn everything through imitation at first.
 
-I would constantly practice throwing origami shuriken at the tree everyday, even though they can’t pierce into anything at all…
+I would constantly practice throwing origami shuriken at the tree every day, even though they can’t pierce into anything at all…
 
 And the very first item I bought with my own money is this shuriken toy — the thing that started everything.
 

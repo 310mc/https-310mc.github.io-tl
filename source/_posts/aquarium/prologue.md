@@ -156,7 +156,7 @@ it is a little too [rough]~ please do it a little [softer], like how a [mother] 
 {% endbubble %}
 
 {% bubble Kanata frown2 %}
-ah, no, i have not seen my [mother] that often… it is simply the [image] i have of one.
+ah, no, i have not met my [mother] that often… it is simply the [image] i have of one.
 
 yes, my [mother] is very [pretty]. but she is also a little [scary].
 

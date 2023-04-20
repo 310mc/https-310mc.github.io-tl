@@ -304,7 +304,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 <th>(But us, being a mess like this, having nothing but fun like this… Ryuseitai perfectly suits who I am now.)</th>
 
-<th>(It's a festival riot everyday! There’s never a single moment to worry over things! Woohoo~! ☆)</th>
+<th>(It's a festival riot every day! There’s never a single moment to worry over things! Woohoo~! ☆)</th>
 {% endbubble %}
 
 {% bubble Midori %}
