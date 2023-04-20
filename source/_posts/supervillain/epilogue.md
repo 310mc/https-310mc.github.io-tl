@@ -254,7 +254,7 @@ But… This is a hundred times better than dwelling on the past, wondering what 
 
 I wanna see the new Ryuseitai that everyone has in their minds.
 
-*All for one, and one for all.*
+*All for one, one for all.*
 
 That phrase has never changed for us — It’ll always be the perfect way to describe Ryuseitai’s principles.
 {% endbubble %}

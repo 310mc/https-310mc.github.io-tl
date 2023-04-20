@@ -139,7 +139,7 @@ Ninjas are meant to be the dark type, but whenever you’re around, the mood get
 {% bubble Shinobu v2 %}
 Heheh, there is no need to thank me, Tetora-kun.
 
-*All for one, and one for all.* That is what Ryuseitai is all about.
+*All for one, one for all.* That is what Ryuseitai is all about.
 {% endbubble %}
 
 {% bubble Shinobu sigh2 %}

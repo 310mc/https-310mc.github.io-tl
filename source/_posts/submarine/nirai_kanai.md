@@ -561,7 +561,7 @@ He’s simply the right person to consult with for this situation, that is all. 
 {% endbubble %}
 
 {% bubble Tetora %}
-*All for one, and one for all!* —right?
+*All for one, one for all!* —right?
 
 Everything we’ve been through since spring has taken a huge toll on us, but I wanna believe that those fundamental parts of our unit haven’t changed.
 {% endbubble %}
@@ -1238,7 +1238,7 @@ It’s not “I”, it’s “we”, Tetora-kun.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Yeah! *All for one, and one for all!* We, Ryuseitai, are always of one mind!
+Yeah! *All for one, one for all!* We, Ryuseitai, are always of one mind!
 {% endbubble %}
 
 {% bubble Chiaki %}

@@ -368,7 +368,7 @@ Gahhh!? Oh Nagumo…! You’re such a good kid…!!
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Hnn… We shouldn’t drink stuff and eat snacks around this hour, you know? My mom always scolds me about that!
+Mmm… We shouldn’t drink stuff and eat snacks around this hour, you know? My mom always scolds me about that!
 {% endbubble %}
 
 {% bubble Madara %}
@@ -560,7 +560,7 @@ It’s natural to have dislikes… Just be true to yourself… Aren’t *you* th
 {% endbubble %}
 
 {% bubble Midori %}
-Nevermind… It wasn’t anything important, so please don’t worry about it…
+Never mind… It wasn’t anything important, so please don’t worry about it…
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -808,11 +808,11 @@ Ah—Um! When I said I love you, I meant it as friends!!
 {% endbubble %}
 
 {% bubble Tomoya %}
-Yep. Well, anyway, I just wanna make sure of something real quick. You say you want to be cuter… But that doesn’t necessarily mean you want to crossdress, right?
+Yep. Well, anyway, I just wanna make sure of something real quick. You say you want to be cuter… But that doesn’t necessarily mean you wanna cross-dress, right?
 
 I mean, the thing that started our whole fight was the idea of taking up jobs that would require crossdressing.
 
-It was all because I said I didn’t wanna do it.
+It was all 'cause I said I didn’t wanna do it.
 {% endbubble %}
 
 {% bubble Hajime %}

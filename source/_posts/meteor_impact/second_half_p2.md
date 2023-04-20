@@ -1292,13 +1292,15 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 <th>(I’m curious how the match will turn out, but I doubt I could get a ticket anymore… I’ll just focus all my energy on helping out my comrade.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch19_3.jpg %}
+
 {% bubble Chiaki pastserious %}
 <th>(… It’s fine to think of you as a comrade, right, Mikejima-san?)</th>
 
 <th>(You were the only one in Ryuseitai other than me who worked as an idol properly, even when the unit was only getting corrupted further!)</th>
 
-<th>(I believe in you! This is a motto that’s been long forgotten and lost meaning, but— *All for one, and one for all*!)</th>
+<th>(I believe in you! This is a motto that’s been long forgotten and lost meaning, but — *All for one, one for all*!)</th>
 
 <th>(*That* is what makes Ryuseitai!)</th>
 {% endbubble %}
@@ -1310,7 +1312,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 {% img /img/es/eventstory/meteorimpact/secondhalfch20.jpg %}
 
 {% bubble Kanata past %}
-……
+…………
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -1322,7 +1324,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 {% endbubble %}
 
 {% bubble Kanata past %}
-……
+…………
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}

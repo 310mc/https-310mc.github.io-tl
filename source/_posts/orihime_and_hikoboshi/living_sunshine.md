@@ -275,7 +275,7 @@ Heheh, that aside… After I’d recuperated, I practiced with Kanata. We should
 
 Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
 
-Actually, no — Let's do our absolute best together, as we always do, Ryuseitai! *All for one, and one for all!*
+Actually, no — Let's do our absolute best together, as we always do, Ryuseitai! *All for one, one for all!*
 {% endbubble %}
 
 {% bubble Midori %}

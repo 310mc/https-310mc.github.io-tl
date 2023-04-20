@@ -255,7 +255,7 @@ I always think this, but you truly do not have to be so reserved, Morisawa-dono.
 {% bubble Kanata v2 %}
 exactly~ you heard him, chiaki. let’s [keep] the [water reservoirs] for me, only~♪
 
-*all for one, and one for all—*
+*all for one, one for all—*
 {% endbubble %}
 
 {% bubble Chiaki frown %}

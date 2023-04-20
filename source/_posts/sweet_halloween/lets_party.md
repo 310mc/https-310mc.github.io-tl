@@ -290,7 +290,7 @@ it is cuter if chiaki shows his [weak side] every once in a while, anyway. altho
 {% bubble Madara %}
 Hahaha. It would be great if he could manage that, but he’s a little too spontaneous to keep up that kind of image… He’s still got a long way to go before he becomes the perfect hero.
 
-But that’s exactly why he struggles to do his best—because he knows he’s lacking, he works hard with all he’s got to make up for it. That’s exactly what being human is… It’s completely understandable.
+But that’s exactly why he struggles to do his best — because he knows he’s lacking, he works hard with all he’s got to make up for it. That’s exactly what being human is… It’s completely understandable.
 
 In fact, I think it’s a really cool thing about him.
 
@@ -398,7 +398,7 @@ I just can’t handle eggplants and monsters, no matter what I do… My trauma f
 {% img /img/es/eventstory/sweethalloween/letsparty2_2.jpg %}
 
 {% bubble Shinobu %}
-…? Did it become hard to handle them because of a bad incident?
+…? Did it become hard to handle them due to a terrible incident?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -412,7 +412,7 @@ Ugh… Doctor Shinigami is super scary… I’m not joking around here, he’s j
 {% bubble Midori %}
 Ahaha… Yeah, liking something doesn’t mean you’re gonna love every single thing about it…
 
-I’m like that, too… I’m not going to be okay with anything just because it’s a mascot character…
+I’m like that, too… I’m not going to be okay with anything just 'cause it’s a mascot character…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -500,11 +500,11 @@ She’ll surely accept all our opinions, grow to become even better, and make us
 
 So let’s also shine, sing, and dance in the middle of that stage.
 
-Hehe, this is a lot of fun~ I’m starting to feel excited myself~♪
+Heheh, this is a lot of fun\~ I’m starting to feel excited myself\~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh! Took you long enough to get your energy back. You’re so late, Taichou~♪
+Oh! Took ya long enough to get your energy back. You’re so late, Taichou~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -518,7 +518,7 @@ Ahaha, it’s unusual for Morisawa-senpai to be useless, but I feel like I got t
 
 I got a lot of attention from the guests, and they kept asking me to take pictures with them…
 
-Maybe it’s because I’m wearing a costume, but I didn’t feel embarrassed about it, either…♪
+Maybe it’s 'cause I’m wearing a costume, but I didn’t feel embarrassed about it, either…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -646,7 +646,7 @@ Got it\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% bubble Tetora %}
 Ah, that’s how Jiangshi are like.
 
-They move really quickly, but because of rigor mortis, they can’t really move their joints around.
+They move really quickly, but 'cuz of rigor mortis, they can’t really move their joints around.
 {% endbubble %}
 
 {% bubble Chiaki %}

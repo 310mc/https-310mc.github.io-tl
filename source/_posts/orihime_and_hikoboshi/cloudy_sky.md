@@ -699,7 +699,7 @@ Woah! W-What's wrong, Takamine? Why are you hunched over in the corner there…?
 
 S-Seriously, what's wrong, Takamine~? You're much gloomier than usual!
 
-Anzu told me on the phone but~ I’m guessing it's because Buchou can’t be around for practice, yeah…?
+Anzu told me on the phone but~ I’m guessing it's 'cause Buchou can’t be around for practice, yeah…?
 
 You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't relax if he isn't hugging you every day, huh\~?
 {% endbubble %}

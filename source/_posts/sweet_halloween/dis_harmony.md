@@ -112,7 +112,7 @@ Seeing you guys like that had always been a soothing part of this school for me�
 {% endbubble %}
 
 {% bubble Tomoya %}
-Uu\~… It’s not like I fought with him because I *wanted* to… This is the first time this has happened, and I dunno what to do…
+Uu\~… It’s not like I fought with him 'cause I *wanted* to… This is the first time this has happened, and I dunno what to do…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -168,7 +168,7 @@ But! I *really* don’t wanna! I don’t wanna cross-dress ever again…!
 {% bubble Midori %}
 Huh…? Uhh, what…? Sorry, I completely lost track of where this was going…
 
-Crossdress…? Um, what were you two arguing over…?
+Cross-dress…? Um, what were you two arguing over…?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -338,7 +338,7 @@ Sooo I end up spoiling him… Well, okay, I end up doting on him.
 {% bubble Shinobu %}
 Nihihi, Mikejima-dono gives me ninja merchandise as a souvenir from his work overseas!
 
-I heard that lately, ninjas are getting attention overseas because of appearances in American comic books and stuff~♪
+I heard that lately, ninjas are getting attention overseas due to appearances in American comic books and stuff~♪
 
 Look, look! “Once upon a time, there was a group of ninjas who survived Nobunaga Oda’s oppression, and they travelled across continents, changing and evolving”—
 

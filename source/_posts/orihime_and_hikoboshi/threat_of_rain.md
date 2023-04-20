@@ -647,7 +647,7 @@ I disapprove of how you diminish your role like this whenever you come up with i
 {% endbubble %}
 
 {% bubble Makoto %}
-Ah, Anzu-chan told me something similar. Since she’s the producer, I always have to check our programme and plans with her beforehand.
+Ah, Anzu-chan told me something similar. Since she’s the producer, I always have to check our program and plans with her beforehand.
 
 Lately, she’s been approving everything I show her with a “well, if you guys are going to do it together, then it’s all good!” and stuff, but it just makes me worried about it instead…
 
@@ -1071,7 +1071,7 @@ You guys told me that Ryuseitai is currently watching and learning from Tricksta
 
 If that’s all you’re doing, then why're you hunched over there? Did someone tell you something mean?
 
-For goodness’ sake… He may look strong because of his build, but he's pretty timid. You can't bully him, Subaru… Got it?
+For goodness’ sake… He may look strong 'cause of his build, but he's pretty timid. You can't bully him, Subaru… Got it?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -1271,7 +1271,7 @@ Ahaha, that is true. I wonder what they're talking about~?
 {% bubble Mao %}
 If you're curious, then go ahead and ask them, instead of talking to me.
 
-I have to check up on the Student Council members that I left behind at school.
+I gotta check up on the Student Council members that I left behind at school.
 {% endbubble %}
 
 {% bubble Shinobu %}

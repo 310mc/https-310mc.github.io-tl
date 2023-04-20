@@ -606,7 +606,7 @@ You settled the issue masterfully, without causing a fuss — I thought you were
 
 But what really made me happy was you treating me normally.
 
-I started babbling about something so silly, telling you about how I want to make a club for people who love ninjas, and that we will do ninja training in it…
+I started babbling about something so silly, telling you about how I wish to make a club for people who love ninjas, and that we will do ninja training in it…
 
 And you listened to me with complete interest.
 

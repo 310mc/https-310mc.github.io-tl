@@ -438,7 +438,7 @@ Ughh… Just thinking about it makes me depressed…
 {% endbubble %}
 
 {% bubble Tetora %}
-Whaa~? Aren’t you used to customers because of the greengrocer shop?
+Whaa~? Aren’t you used to customers 'cuz of the greengrocer shop?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -584,7 +584,7 @@ But no, really, hasn’t Morisawa-senpai been kinda off…?
 {% bubble Tetora %}
 Yeah, now that you mention it… He *has* been a little quieter than usual lately.
 
-He hasn’t been his usual positive self… I mean, he didn’t seem pumped up about participating in the Halloween Party, either.
+He hasn’t been his usual positive self… I mean, he didn’t seem pumped up 'bout participating in the Halloween Party, either.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -612,7 +612,7 @@ It felt really closed off from the world…
 {% endbubble %}
 
 {% bubble Tetora %}
-Hmm… No one ever tells us about what happened in the past, and there’s only so much we can assume, so… It’d be better to just ask him directly.
+Hmm… No one ever tells us 'bout what happened in the past, and there’s only so much we can assume, so… It’d be better to just ask him directly.
 
 Taichou~ Um, do you hate Halloween?
 {% endbubble %}
@@ -838,7 +838,7 @@ Yeah, true… I feel like you go through that a lot, Tetora… since you’re pr
 {% endbubble %}
 
 {% bubble Tetora %}
-Woah woah, why did this suddenly become about me…!? You’re not holding back at all, huh? The fight must be affecting you.
+Woah woah, why did this suddenly become 'bout me…!? You’re not holding back at all, huh? The fight must be affecting ya.
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -846,7 +846,7 @@ Ah— S-sorry… I lashed out on you.
 {% endbubble %}
 
 {% bubble Tetora %}
-No, it’s okay. I’m bothered by that part of myself, too. I don’t really like being soft about things, so I choose to be more straightforward.
+Nah, it’s okay. I’m bothered by that part of myself, too. I don’t really like being soft 'bout things, so I choose to be more straightforward.
 
 I know it’s important to be thoughtful to other people and try to put yourself in their shoes, and to work on settling your differences when you get in an argument, but… Ughh… That kinda stuff just irritates me.
 
@@ -890,7 +890,7 @@ Yeah… Sorry.
 
 But, like… this problem’s pretty serious. I feel like we’ll just end up getting in a fight all over again, even if we tried to apologize and call it a day.
 
-I think it’s because there’s a difference between how Hajime and I think.
+I think it’s 'cause there’s a difference between how Hajime and I think.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -944,7 +944,7 @@ I’ve always wanted to be like the idols I loved—It’s why I came to Yumenos
 
 I got to be a little popular as part of Ra*bits… so I did make my dream come true. I shouldn’t be feeling unsatisfied like this.
 
-But… I didn’t want to be a *cute* idol.
+But… I didn’t wanna be a *cute* idol.
 
 I know I’m being selfish… I mean, with the kinds of magazines and companies we get requests from, we’re only going to keep getting shaped more and more into the perfect ideal of “cute.”
 
@@ -966,11 +966,11 @@ He's actually really amazing. He's put in so much hard work and training and com
 
 Sometimes we meet him in real life, and when I realize I may have to put that much work in as well… I start to get scared. I know I’m being pathetic…
 
-It just became natural for him to crossdress, and as long as the outfit’s cute, he'd wear all kinds of things, from baby outfits to animal costumes…
+It just became natural for him to cross-dress, and as long as the outfit’s cute, he'd wear all kinds of things, from baby outfits to animal costumes…
 
 Every single time he does anything, he has to think about whether it's cute or not.
 
-He's had to completely put aside everything else to become fully specialized in being cute. It’s what he had to do to get by in the industry, and he's now succeeding because of it.
+He's had to completely put aside everything else to become fully specialized in being cute. It’s what he had to do to get by in the industry, and he's now succeeding 'cause of it.
 
 Those are the principles female idols have set for this industry.
 
@@ -1028,7 +1028,7 @@ He’s going for his dreams with everything he’s got, but I feel like I'm just
 
 I’m scared. I alone want to be his ally, forever and ever. I don’t want to make him cry. I don't ever want to cast a shadow over that gentle smile of his.
 
-Yet right now, I’m the reason why he’s depressed. All because I don’t have the talent for this… all because I'm not determined enough.
+Yet right now, I’m the reason why he’s depressed. All 'cause I don’t have the talent for this… all 'cause I'm not determined enough.
 
 It frustrates me… I feel so pathetic… I’m not even some *normal* kid at this point. I’m just a waste of space.
 {% endbubble %}
