@@ -433,7 +433,7 @@ I didn’t say you could do *that*! Stay, stay! You’re so overbearing, oh my *
 
 About me—no, about my dad[^4], you—…
 
-No, nevermind.
+No, never mind.
 
 {% endbubble %}
 {% bubble Chiaki past %}

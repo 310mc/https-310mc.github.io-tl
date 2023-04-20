@@ -1295,7 +1295,7 @@ Sengoku? Why'd you go quiet? D-Don’t worry, I'm not angry at you, okay?
 {% bubble Shinobu %}
 Isara-dono, you—
 
-…Mm. Nevermind, it is nothing.
+…Mm. Never mind, it is nothing.
 {% endbubble %}
 
 {% bubble Mao %}

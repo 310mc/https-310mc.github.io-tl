@@ -175,16 +175,16 @@ Didn’t I just say not ta make a scene? Don’t make me say it again — talkin
 {% endbubble %}
 {% bubble Chiaki past %}
 <th>(Yeah, I’d expect as much… Those are some terrible wounds! S-Something’s definitely up! What should I do in times like these?)</th>
-
 {% endbubble %}
+
 {% bubble Kuro pastinjured %}
 Haha, sorry for buggin’ ya on your way back home.
-
 {% endbubble %}
+
 {% bubble Chiaki past %}
 N-no, I don’t mind… I have nothing planned besides going to sleep once I’m back home, anyway.
 
-Nevermind that, please tell me what happened to you! Is there anything I can do for you?
+Never mind that, please tell me what happened to you! Is there anything I can do for you?
 
 {% endbubble %}
 {% bubble Kuro pastinjured %}

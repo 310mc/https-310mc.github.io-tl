@@ -199,7 +199,7 @@ No way, that can’t be it… Or well, I hope not.
 
 Actually, even if that *was* their plan, then we’re gonna inherit Ryuseitai and the spirit of justice and protect it ourselves.
 
-… Haha, nevermind, I don’t have any right to say that when I’m so pathetic right now…
+… Haha, never mind, I don’t have any right to say that when I’m so pathetic right now…
 {% endbubble %}
 
 {% bubble Shinobu %}

@@ -565,7 +565,7 @@ Haha, woah. You’re pretty dark, aintcha, daddy-o.[^19]
 {% endbubble %}
 
 {% bubble Keito v2 %}
-Stick to one name already. No, nevermind, there won’t be any need to… I don’t mind if this was the last straw for you — You’re free to never show yourself here ever again.
+Stick to one name already. No, never mind, there won’t be any need to… I don’t mind if this was the last straw for you — You’re free to never show yourself here ever again.
 
 I laughed it off a second ago, but the truth is — the tradition within this land is terrifyingly rooted deep beyond measure.
 
@@ -2398,7 +2398,7 @@ my… house?
 
 “On the other hand, Kanata-san’s family hasn’t kept up with the modern times, so I can’t figure out what they’ve been up to through the internet alone…”
 
-“But, whatever—nevermind that for now.”
+“But, whatever — never mind that for now.”
 
 “The Student Council folks are completely serious about making this war happen. They’re gonna do whatever it takes to crush Kanata-san—the one appointed as the antagonist, and the evil.”
 

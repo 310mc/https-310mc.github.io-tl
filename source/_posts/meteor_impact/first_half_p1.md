@@ -484,7 +484,7 @@ Kyaha-- Kyahahaha! ♪ Kyahahahahaha…!! ☆
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-<th>(E-Ermm…? Nevermind, it really is terrifying, Shinkai-kun! I don’t get anything you do — It’s just too bizarre!)</th>
+<th>(E-Ermm…? Never mind, it really is terrifying, Shinkai-kun! I don’t get anything you do — It’s just too bizarre!)</th>
 {% endbubble %}
 
 {% bubble Kanata past %}

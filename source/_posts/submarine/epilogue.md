@@ -141,7 +141,7 @@ the people of okinawa are not Familiar with the yumenosaki Tradition to Chat on 
 {% endbubble %}
 
 {% bubble Tetora %}
-That’s true. Okinawa may have alotta tourists from all over, but that doesn’t mean everyone’s accepting and understanding of ES’s ways.
+That’s true. Okinawa may have a lotta tourists from all over, but that doesn’t mean everyone’s accepting and understanding of ES’s ways.
 {% endbubble %}
 
 {% bubble Shinobu %}
