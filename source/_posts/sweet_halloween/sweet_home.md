@@ -98,13 +98,17 @@ This is a sleepover party between three units: MaM, Ryuseitai, and Ra*bits!
 {% endbubble %}
 
 {% bubble Madara %}
-Did you just say “sleepover party”? I guess there isn’t really any other way to put it, but… it doesn’t really feel like we’re here for work when you say that, so how about calling it a training camp instead?
+Did you just say “sleepover party”? I guess there isn’t really any other way to put it, but…
+
+It doesn’t really feel like we’re here for work when you say that, so how about calling it a training camp instead?
 {% endbubble %}
 
 {% bubble Chiaki %}
 Well, we can call it anything, really.
 
-But more importantly, is your outfit fitting you alright, Mikejima-san? I did try to make sure yours was extra-large, but if it’s still too tight, then please tell me! I’ll ask Anzu to adjust it for you.
+But more importantly, is your outfit fitting you alright, Mikejima-san? I did try to make sure yours was extra-large, but if it’s still too tight, then please tell me!
+
+I’ll ask Anzu to adjust it for you.
 
 Is yours alright, too, Takamine? You mentioned that you grew taller recently, right?
 {% endbubble %}
@@ -114,7 +118,7 @@ Ah, yeah, it’s alright… The outfit’s made of stretchy material, anyway…
 {% endbubble %}
 
 {% bubble Tetora %}
-It’s really easy to move in them! Did Anego make these? She’s amazing, doing a good job like always! ☆
+It’s really easy to move in it! Did Anego make these? She’s amazing, doing an awesome job like always! ☆
 {% endbubble %}
 
 {% bubble Chiaki %}

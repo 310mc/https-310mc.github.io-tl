@@ -846,7 +846,7 @@ Okaaay~ You may end up needing the toilet if you drink it too quickly, so please
 
 Hopefully, we’ll be able to get through a grand event like Halloween Party with everyone’s cooperation.
 
-It would make me happy if everyone put all their energy and effort into this. And please tell me if you have any problems.
+It would make me happy if everyone put all their energy and effort into this. Don't hesitate to tell me if you have any problems.
 
 Everything you need to know is in this folder right here.
 
@@ -858,7 +858,7 @@ This is a big event, just like Tanabata Festival — The one we did in the summe
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Tanabata Festival\~!? That was suuuper fun! I felt like I could reach the stars with all the bouncing we did on stage\~! ☆
+Tanabata Festival\~!? That was suuuper duper fun! I felt like I could reach the stars with all the bouncing we did on stage\~! ☆
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -872,31 +872,33 @@ I’m gonna do my super duper best in Halloween Party for all the trouble I caus
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you’re so positive about it, Mitsuru-kun. I should really learn from you~
+Heheh, you’re so positive about it, Mitsuru-kun. I should really learn from you~
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah, the scale has grown even larger than Tanabata Festival, so it’d be perfect if you could do even better than you did back then.
+Yeah, the scale has grown even larger than Tanabata Festival, so it’d be perfect if you could perform even better than you did back then.
 
-Actually… Anzu is changing things up to prevent some of the mistakes that happened during Tanabata Festival.
+Actually… Anzu is adjusting the event to prevent some of the mistakes that happened during Tanabata Festival.
 
-I think it’s due to Anzu’s S1 events having their own unique kind of system, but… it seems that in Tanabata Festival, the audience didn’t completely grasp the rules, and were mostly confused about what to do.
+I think this is due to Anzu’s S1 events having their own unique kind of system, but…
 
-So this time around, they’re doing lots of advertising early on, and making sure the rules are as well-understood as possible.
+It seems that in Tanabata Festival, the audience didn’t completely grasp the rules, and were mostly confused about what to do.
 
-2wink is well-known within the shopping center, so they were left to do the advertising work in that area… As for the rest of the units, each of us will spread the word in whichever way suits us best.
+So this time around, they’re doing a lot of advertising early on, and making sure the rules are as well-understood as possible.
 
-Also, Tanabata Festival’s event plan took too long to finalize, so they must’ve had to rush setting everything up, among other things.
+2wink is well-known in downtown, so they were left to do the advertising work in that area. The rest of us will also spread the word in whichever way suits our unit best.
+
+Also, Tanabata Festival’s event planning took too long to finalize, so they must’ve had to rush setting everything up, among other things.
 
 That’s why this time, they’re starting everything early.
 
 Starting tomorrow, the preparations for Halloween Party will commence.
 
-Our role is to stay here at school and decorate the whole place through the coming nights.
+Our role is to sleep over in school and decorate the whole place through the coming nights.
 {% endbubble %}
 
 {% bubble Kanata %}
-huh—? hold on a second, we are going to [sleep over]?
+huh—? please wait a moment, we are going to [sleep over]?
 
 that might be a little too [difficult] for me. my household does not see [sleepovers] in [good] light.
 {% endbubble %}
@@ -904,7 +906,7 @@ that might be a little too [difficult] for me. my household does not see [sleepo
 {% bubble Chiaki %}
 Yeah, we’ll be doing it for a decent amount of time, so things can always be adjusted to suit each person’s own convenience.
 
-I’m all for the idea of just sleeping over whenever you can, and coming to school normally the rest of the time.
+I’m all for the idea of just sleeping over whenever you can, and coming to school normally for the rest of the time.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -912,7 +914,7 @@ I’m all for the idea of just sleeping over whenever you can, and coming to sch
 {% endbubble %}
 
 {% bubble Kanata %}
-no, do not… please try not to involve yourself with my [household] anymore.
+no… please try not to involve yourself with my [household] anymore.[^1]
 
 i will try to [talk] to them myself first. i will consider what is [best] to do after i see how they [react].
 {% endbubble %}
@@ -926,7 +928,7 @@ Oh, and I heard Anzu will prepare the bedding and other necessities for our slee
 {% bubble Nazuna %}
 Aren’t most things easily bought from the school store? We can always rent things, too.
 
-We’re not gonna be in some faraway island, so if we had to, we could even ask a teacher to go out and get us anything else we needed.
+We’re not gonna be in some faraway island, so if we had to, we could even ask a teacher to drive us to a shop for anything else we need.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -938,7 +940,7 @@ Ahaha, we’ve had jobs that required us to stay the night plenty of times, but 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Yes, yes! I am excited already~
+Yes, yes! I'm excited already~
 
 I was really jealous that the second years get to go on a school trip soon, when us first years still have to wait a whole year before our own, you know~
 {% endbubble %}
@@ -956,7 +958,7 @@ However, there are other reasons for sleeping over.
 
 We aren’t just helping out with the preparations, but also participating in the event as idols.
 
-I’m afraid that unless we sleep over, the decorations alone would take up all of our time.
+Therefore, I’m afraid to say that unless we sleep over, the decorations alone would take up all of our time.
 
 Otherwise, we would barely have any time for practice, and our main job as idols would be neglected.
 
@@ -968,7 +970,7 @@ Of course, since this is a sleepover, we’ll need permission from our parents.
 
 One way or another, everything will be thoroughly explained to your parents, so don’t worry.
 
-Also. I know I’ve already said this, but sleeping over isn’t mandatory — if it’s too complicated for you, then coming to school normally is also fine.
+Also, I know I’ve already said this, but sleeping over isn’t mandatory — if it’s too complicated for you, then coming to school normally is also fine.
 
 We can adjust each person’s schedule however we need to.
 
@@ -980,13 +982,15 @@ Any expenses needed during that time will be compensated by our preparation work
 
 The costumes required for Halloween Party will also be funded through our hard work.
 
-We don’t have to pay for anything as long as we do our best, work hard, and perform on stage. It’s a pretty good situation.
+We don’t have to pay for anything as long as we do our best, work hard, and perform on stage.
+
+It’s a pretty good situation for us.
 
 However, it *will* end up requiring almost all of your free time, so if it ever seems impossible, please come to me about it.
 
 We’re still just high school students. We aren’t actual full-time workers.
 
-I can’t tell you that you should use up all your time for work. Being with your family is also important.
+I could never truly declare that you should use up all your time for work. Being with your family is also important.
 
 Think closely about what you yourself are willing to do, and the objectives of your unit…
 
@@ -1003,3 +1007,7 @@ So, what do *you* want to do? You’ve been given plenty of choices, so think cl
 {% btn /sweet_halloween,, star, Index %}
 {% btn /sweet_halloween/sweet_home,, arrow-right, Next Chapter: sweet home %}
 </div>
+
+## Translation Notes
+
+[^1]: This story happens after <a href="/aquarium" target="_blank">Aquarium</a>.

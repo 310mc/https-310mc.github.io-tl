@@ -5,7 +5,6 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Mitsuru]
 - [Enstars, Hajime]
-- [Enstars, Tomoya]
 - [Enstars, Madara]
 tags:
 - Idol Story
@@ -30,7 +29,6 @@ This story is connected to the card [[Showdown with Mama] Mitsuru Tenma](https:/
                 </div>
                 <div class="value">
 								<a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
                 <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                 <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
