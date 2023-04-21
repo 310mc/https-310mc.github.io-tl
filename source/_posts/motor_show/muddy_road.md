@@ -167,7 +167,7 @@ It all went well in the end, but we certainly experienced some harrowing moments
 
 Back then, I was so worried that there was no way out of our predicament. I was so certain this would be the end—…
 
-That’s why I feel like what we’re going through right now is a hundred times better than back then, Tetora-kun.
+That is why I feel like what we’re going through right now is a hundred times better than back then, Tetora-kun.
 
 No matter how many wounds we receive, they won’t bring us anywhere near death — Instead, what we should do is endure that pain and advance forward.
 
@@ -199,7 +199,7 @@ No way, that can’t be it… Or well, I hope not.
 
 Actually, even if that *was* their plan, then we’re gonna inherit Ryuseitai and the spirit of justice and protect it ourselves.
 
-… Haha, never mind, I don’t have any right to say that when I’m so pathetic right now…
+…Haha, never mind, I don’t have any right to say that when I’m so pathetic right now…
 {% endbubble %}
 
 {% bubble Shinobu %}

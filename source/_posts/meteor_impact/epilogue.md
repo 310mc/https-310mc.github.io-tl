@@ -81,13 +81,13 @@ have i become a proper hero? just like you?
 {% endbubble %}
 
 {% bubble Chiaki %}
-… Eek!?
+…Eeek!?
 
 A-Ahh, yeah! Good work! You really are a reliable comrade, Kanata! I knew you’d be able to accomplish your duty safely! Fuhahaha! ☆
 {% endbubble %}
 
 {% bubble Kanata %}
-… were you crying?
+…were you crying?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -95,9 +95,9 @@ Huh!? No I wasn’t! Don’t say such absurd things, Kanata! You little~!! ☆
 {% endbubble %}
 
 {% bubble Kanata %}
-… okay. heroes only shed Happy tears, yes?
+…okay. heroes only shed Happy tears, yes?
 
-hehe. you’ve become so amazing and wonderful…
+fufu. you’ve become so amazing and wonderful…
 
 even though when we first Met, you were always in Tears, Shaking in fear.
 
@@ -123,7 +123,7 @@ These uniforms were still buried deep inside. So many memories came flowing back
 {% bubble Kanata %}
 ahh… *that’s* why you were acting so Hyper earlier.
 
-hehe. after that performance, we were skipping about, unable to perform any live shows…
+fufu. after that performance, we were skipping about, unable to perform any live shows…
 
 so we wore our p.e. uniforms, and ran everywhere in order to Help anybody.
 
@@ -143,7 +143,7 @@ yes. i was an eccentric joining ryuseitai, so they probably Didn’t want any Tr
 
 even the old Leader left. and then, that title became yours.
 
-hehe. and the rogue was Planning on joining a new Agency, so—
+fufu. and the rogue was Planning on joining a new Agency, so—
 
 i found it very funny that he had Dropped out of school in secret before that live show.
 {% endbubble %}
@@ -151,7 +151,7 @@ i found it very funny that he had Dropped out of school in secret before that li
 {% bubble Chiaki %}
 Don’t laugh at that… Why are you only this harsh towards Mikejima-san… But it kind of feels like you have no restraint regarding him, like you somehow seem very close with him — it’s enough to make me feel a little jealous.
 
-Hehe. Well, he quickly tried to retract his decision to drop out, but still left Ryuseitai anyway—
+Heheh. Well, he quickly tried to retract his decision to drop out, but still left Ryuseitai anyway—
 
 He must’ve had plans of his own or something, because he never returned to Ryuseitai after that.
 
@@ -175,7 +175,7 @@ i’ll come back when i’m done. so please let me sing with you then, okay?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mhm, I’ll be waiting for you. I’m always ready to welcome you back. … In fact, don’t hesitate to call for me if you’re ever in trouble.
+Mhm, I’ll be waiting for you. I’m always ready to welcome you back. …In fact, don’t hesitate to call for me if you’re ever in trouble.
 
 I haven't decided my own path yet, either. I’m in a shoddy state at the moment, because I’ve barely taken responsibility for my future—
 
@@ -249,7 +249,7 @@ Ossu! Excuse me!
 {% endbubble %}
 
 {% bubble Chiaki %}
-Woah, wha--!? Ooh, Nagumo! I didn’t even call for you, yet you came rushing over, huh!? You really do have what it takes to be a hero!
+Woah, wha—!? Ooh, Nagumo! I didn’t even call for you, yet you came rushing over, huh!? You really do have what it takes to be a hero!
 
 What’s up, what’s wrong!? Did you forget something!?
 {% endbubble %}
@@ -271,7 +271,7 @@ But after collecting our thoughts, we decided to come back.
 {% endbubble %}
 
 {% bubble Chiaki %}
-… You told them about the *past*? Kanata!?
+…You told them about the *past*? Kanata!?
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -285,7 +285,7 @@ All that meteorite stuff, and how Morisawa-senpai *apparently* mega-exploded whe
 {% endbubble %}
 
 {% bubble Kanata %}
-i wasn’t Lying\~ that’s chiaki’s Finishing move: “super phoenix explosion”~♪
+i wasn’t Lying\~ that’s chiaki’s Finishing move: “super phoenix explosion”\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -333,7 +333,7 @@ I don’t need to shoulder everything by myself… not anymore.
 {% endbubble %}
 
 {% bubble Kanata %}
-hehe. it’s hard to let go of old Habits and outdated Customs. even i act like a god sometimes.
+fufu. it’s hard to let go of old Habits and outdated Customs. even i act like a god sometimes.
 
 but, we have changed.
 

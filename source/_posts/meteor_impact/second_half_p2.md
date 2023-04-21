@@ -184,7 +184,7 @@ We’ll leave him for later. This means that our next target to subjugate is Shi
 {% endbubble %}
 
 {% bubble Kuro past %}
-… And what about Sakuma? Did you just forget ‘bout him, Danna?
+…And what about Sakuma? Did you just forget ‘bout him, Danna?
 
 If you’re worried one of them could turn the odds in their favor, then he’s the exact guy who could, even if he was the last one left.
 
@@ -208,13 +208,13 @@ But that’s exactly why I left this job for Eichi. He’s currently using all h
 
 He just finished with the battle against Valkyrie, and thus requires time to recuperate from the fatigue…
 
-… That’s why, in the meantime, we Akatsuki will support the war front.
+…That’s why, in the meantime, we Akatsuki will support the war front.
 
 In fact, it *must* be us who eradicate Shinkai Kanata.
 {% endbubble %}
 
 {% bubble Kuro past %}
-… What d’you mean?
+…What d’you mean?
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -258,7 +258,7 @@ H-Hold on a moment, Hasumi-dono!
 {% endbubble %}
 
 {% bubble Keito v2 %}
-… What is it, Kanzaki. You were listening to me without uttering a word, so I assumed it meant you had nothing to say on the matter.
+…What is it, Kanzaki. You were listening to me without uttering a word, so I assumed it meant you had nothing to say on the matter.
 
 Is there something you wanted to bring up? Or actually, let me be blunt: is there a *problem* with what I'm saying?
 {% endbubble %}
@@ -316,7 +316,7 @@ Shut up, you traitor!
 {% endbubble %}
 
 {% bubble Keito v2 %}
-… Did you really think I didn’t know a single thing?
+…Did you really think I didn’t know a single thing?
 
 Did you really think I was *that* stupid? You must think so lightly of me, it honestly makes me sad… Hmm, Kanzaki?
 
@@ -408,7 +408,7 @@ Many people caught sight of you going there and back from visiting him.
 
 And you’re a member of Akatsuki, the Student Council force. We heavily emphasized this about us in every live show we’ve performed.
 
-… Were you happy you were appointed an important role by us?
+…Were you happy you were appointed an important role by us?
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch14_3.jpg %}
 
@@ -499,7 +499,7 @@ Did you ask your mommy and daddy to read it to you on nights you couldn’t slee
 {% endbubble %}
 
 {% bubble Souma worried %}
-… Say what you will! But I will do whatever I must to stop you from doing *that*!
+…Say what you will! But I will do whatever I must to stop you from doing *that*!
 
 God is necessary in this world! It is a role of holiness, one that could never be appointed to a mere human!
 
@@ -541,7 +541,7 @@ Kanzaki, don’t you *dare* show your face to me ever again. I’m through with 
 {% bubble Keito v2 %}
 ……
 
-… *<th>(exhales)</th>,* he’s gone.
+…*<th>(exhales)</th>,* he’s gone.
 {% endbubble %}
 
 {% bubble Kuro past %}
@@ -549,7 +549,7 @@ Haha, poor him. He was basically in tears.
 {% endbubble %}
 
 {% bubble Keito v2 %}
-… I had to. Boys only grow stronger with every tear they shed.
+…I had to. Boys only grow stronger with every tear they shed.
 {% endbubble %}
 
 {% bubble Kuro past %}
@@ -595,7 +595,7 @@ There’s no turnin’ back for me.
 {% endbubble %}
 
 {% bubble Keito v2 %}
-… I see. That will be a huge help, I won’t deny. I tried to act tough earlier, but I’m aware that I can barely do anything on my own.
+…I see. That will be a huge help, I won’t deny. I tried to act tough earlier, but I’m aware that I can barely do anything on my own.
 
 I’m still on my way there… No, everything has only just begun.
 
@@ -949,7 +949,7 @@ It’s probably gonna be super hard to pull off, but… I’m cheering you on! A
 {% img /img/es/eventstory/meteorimpact/secondhalfch18.jpg %}
 
 {% bubble Subaru %}
-Hehe. I’m so grateful to have you, Bucho~. I had so many awful days, but I was still able to keep on being an idol.
+Heheh. I’m so grateful to have you, Bucho~. I had so many awful days, but I was still able to keep on being an idol.
 
 Whenever it felt too rough or when I was feeling lonely, you’d always call out to me. You saved me a whole bunch just by doing that.
 
@@ -985,7 +985,7 @@ Hm? What is it…? I’m starting to feel really embarrassed, so just forget wha
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-… Alright. I’ll forget about it.
+…Alright. I’ll forget about it.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -1089,7 +1089,7 @@ I don’t deserve your respect…!
 {% bubble Subaru sad %}
 ………
 
-… Oh…
+…Oh…
 
 Ah, okay. I got it, it’s fine… Sorry for hoping for something from you.
 {% endbubble %}
@@ -1139,7 +1139,7 @@ Nah, you don’t have to apologize.
 
 But I'm super annoyed, so let me just say this.
 
-… You’re being really uncool right now.
+…You’re being really uncool right now.
 {% endbubble %}
 
 {% note narration %}
@@ -1215,13 +1215,13 @@ H-Hello? Who is it? Please respond!
 {% bubble Chiaki pastworried %}
 C-Can you hear me? Hellooo…?
 
-… Huh? “Mikejima”? As in, Mikejima-san?
+…Huh? “Mikejima”? As in, Mikejima-san?
 
 Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean is pretty wide, so could you be more specific…!?
 
-… Ahh! The call was cut off! S-Should I redial?
+…Ahh! The call was cut off! S-Should I redial?
 
-… … … Urghh! He isn’t picking up! Really, what was that about!?
+…… … Urghh! He isn’t picking up! Really, what was that about!?
 
 <th>(I don’t really understand, but I can't just do nothing about it, even if I am confused!)</th>
 
@@ -1354,7 +1354,7 @@ Haaaah—!
 
 <th>(……!)</th>
 
-… Huff, huff! Made it in just in time!
+…Huff, huff! Made it in just in time!
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -1380,7 +1380,7 @@ So please live, Shinkai-kun! That’s the only wish I’ll ever give you…!
 {% bubble Kanata pastcg %}
 wish—
 
-… yes. hehe, you finally told me your Wish.
+…yes. fufu, you finally told me your Wish.
 
 i’ve been waiting for so long, chiaki…♪
 {% endbubble %}
@@ -1390,7 +1390,7 @@ Ahh! You came back to life! I’m so glaaad…! Uaaah, I’m so, *so* glad you�
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
-hehe. what’s wrong, are you crying? or are you Imitating a Sea turtle, chiaki…?
+fufu. what’s wrong, are you crying? or are you Imitating a Sea turtle, chiaki…?
 
 did something Sad happen? should I give you a “good boy, good boy”? would that make you stop Crying?
 {% endbubble %}
@@ -1404,7 +1404,7 @@ Actually— A hero only sheds happy tears, so that’s the kind of tears I’ve 
 {% bubble Kanata pastsmile %}
 i see! i understand now! so a hero does not cry, yes…?
 
-hehe, i am jealous. you were able to become a hero…♪
+fufu, i am jealous. you were able to become a hero…♪
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
@@ -1422,7 +1422,7 @@ No, it isn’t a job, it’s a way of lif—… Ahhh, seriously, what am I on ab
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
-hehe… please calm down, it will be okay.
+fufu… please calm down, it will be okay.
 
 thanks to you… i am saved.
 
@@ -1488,7 +1488,7 @@ my Scales will fully peel off. that is why… um, chiaki? are you listening?
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-… Yeah. I’m sorry for suddenly hugging you.
+…Yeah. I’m sorry for suddenly hugging you.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch20_2.jpg %}
 {% bubble Kanata pastfrown %}
@@ -1556,7 +1556,7 @@ You aren’t a fish, y’know… and you aren’t a God, either.
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… i *am* a god, though.
+…i *am* a god, though.
 
 after all, if there is no god, everyone will be in distress… i have to be a god, or else.
 {% endbubble %}
@@ -1743,7 +1743,7 @@ i’m sure the chieftains of this Land still believe in that.
 
 the warning and the tale is passed on from Parent to child to this very Day.
 
-… but it is an Ancient story, so there are Many people who have forgotten all about it, it seems.
+…but it is an Ancient story, so there are Many people who have forgotten all about it, it seems.
 
 as many years passed, blood from the outside became mingled with ours… and slowly, things have been changing for us.
 
@@ -1755,7 +1755,7 @@ i am sorry.
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-… Huh? W-Why are you apologizing? I won’t call you a lying fraud, y’know? I mean, you were just raised to think of yourself as a God, right?
+…Huh? W-Why are you apologizing? I won’t call you a lying fraud, y’know? I mean, you were just raised to think of yourself as a God, right?
 
 Which means you aren’t the one to blame!
 {% endbubble %}
@@ -1771,7 +1771,7 @@ that is why they’re all fed up with me, and calling me a Liar, right?
 
 i am sorry for being weak… i am sorry for being a failure as a god.
 
-… i’m Terrified, chiaki.
+…i’m Terrified, chiaki.
 
 if a Meteorite comes crashing down again… and people become ill, i may not be able to Cure them.
 
@@ -1889,7 +1889,7 @@ No… You don’t need to.
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… whaaaat!?
+…whaaaat!?
 
 huh? why!? I don’t understand! please don't Hold back, please let me grant your wish!
 {% endbubble %}
@@ -1899,7 +1899,7 @@ I refuse!
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… huh? what? why? you are only Human, yet you oppose me? i’m a god, you know? you must listen to what i say!
+…huh? what? why? you are only Human, yet you oppose me? i’m a god, you know? you must listen to what i say!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch22_2.jpg %}
 {% bubble Chiaki past %}
@@ -1907,7 +1907,7 @@ Never!
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… w-why…? uuu, why don’t you want me to grant your wish? i don’t understaaand~!
+…w-why…? uuu, why don’t you want me to grant your wish? i don’t understaaand~!
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -2036,11 +2036,11 @@ that was why we were to become Friends.
 {% endbubble %}
 
 {% bubble Chiaki past %}
-Hehe. Then your dream came true.
+Heheh. Then your dream came true.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-i wonder… i’m not sure—was that really my Dream?
+i wonder… i’m not sure — was that really my Dream?
 
 but in reality, someone started calling us the Five Eccentrics… and it is Thanks to that that i made Friends.
 
@@ -2064,7 +2064,7 @@ i learned to be careful with what to say, and worked hard to make him Like me.
 
 i Failed many times along the way, but… at some point, he began to call me his Friend.
 
-it made me so happy… ehehe, it makes me Smile just remembering it.
+it made me so happy… ufufu, it makes me Smile just remembering it.
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -2080,7 +2080,7 @@ chiaki! please tell me your Wish!
 
 and once you’ve Worked hard for a bit, i will make it possible to Grant it!
 
-… is that wrong, too?
+…is that wrong, too?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -2106,7 +2106,7 @@ Let’s do lots of fun things together! Let’s become friends!
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-… but. chiaki, you are not a god, are you?
+…but. chiaki, you are not a god, are you?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -2332,7 +2332,7 @@ a Meteorite is no Joke to us, you know?
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… *<th>(glares)</th>*
+…*<th>(glares)</th>*
 {% endbubble %}
 
 {% bubble Madara hidden %}

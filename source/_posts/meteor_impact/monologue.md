@@ -85,7 +85,7 @@ Ahaha… We’re heading straight home, so I don’t think anything *could* happ
 {% bubble Midori %}
 Eh, I bet he just wanted to say something heroic…
 
-Well, whatever… <th>*(yawns)*</th> ♪
+Well, whatever… <th><em>(yawns)</em></th> ♪
 
 I don’t feel right going home when we haven’t even finished cleaning up, but I’m also starting to feel really sleepy, so… I think I’ll take my leave, yeah…
 {% endbubble %}
@@ -155,7 +155,7 @@ that’s right. so don’t Wake him up. go to sleep, go to sleep little baby…�
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hehe. Kanata, you’re singing him a lullaby while carrying him… I’ve been thinking this often lately, but you’re more of a mama than the one who calls himself one, Mikejima-san.
+Heheh. Kanata, you’re singing him a lullaby while carrying him… I’ve been thinking this often lately, but you’re more of a mama than the one who calls himself one, Mikejima-san.
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -201,7 +201,7 @@ yes! i am aware! the five of us together are Ryuseitai~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-… Oh yeah, this reminds me. I heard this from Taishou, but Ryuseitai had a lot of members in the past, right?
+…Oh yeah, this reminds me. I heard this from Taishou, but Ryuseitai had a lot of members in the past, right?
 
 Taichou was so eager to tell us how it’s the first time the unit has had five people, so I sorta had the wrong impression at first…
 
@@ -219,7 +219,7 @@ But at this point, Ryuseitai is like family to me. Our bond is too deep to break
 {% endbubble %}
 
 {% bubble Kanata %}
-yes. hehehe~ i have made many Families before i knew it… not that i ever Wished for any of it.
+yes. fufufu~ i have made many Families before i knew it… not that i ever Wished for any of it.
 
 god does not Wish for things, after all.
 

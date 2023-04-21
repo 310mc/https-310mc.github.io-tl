@@ -66,6 +66,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 </div>
 
 ## Chapter 1
+
 {% note location %}
 **Location:** Pool
 {% endnote %}
@@ -123,9 +124,9 @@ Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never 
 
 Hmhm\~hmm~…♪
 
-Woosh! Chiaki Crusheeeerrrr!! *<th>(Cleans the pool’s floor with a mop)</th>*
+Woosh! Chiaki Crusheeeerrrr!! <em><th>(Cleans the pool’s floor with a mop)</th></em>
 
-Now’s my chance! Take this! Finishing move: Chiaki Beaaaaaaam!! *<th>(Washes it down with a hose)</th>*
+Now’s my chance! Take this! Finishing move: Chiaki Beaaaaaaam!! <em><th>(Washes it down with a hose)</th></em>
 
 Fuhaha! How’s that!? Feel like giving up yet, you evildoers!? Yup, let’s go with the idea that the black sludge was created by the malice within people’s hearts!
 
@@ -139,7 +140,7 @@ Now I can forget all about my fears, and—
 
 <th>(Huh!? W-What was that weird sound just now!? A dog’s wail…? Or maybe a bird…? Or was it just my echo…?)</th>
 
-… *<th>(Gulp)</th>*
+<em>…<th>(Gulp)</th></em>
 
 U-Um, hellooo…? I-Is there someone… out there…?
 
@@ -155,7 +156,7 @@ U-Um, hellooo…? I-Is there someone… out there…?
 
 <th>(Even though I’m doing the opposite.)</th>
 
-… Even though, I only want to become a hero.
+…Even though, I only want to become a hero.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -199,7 +200,9 @@ i know! you are from the Sea as well, yes…? ♪
 **ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
 
 ## Chapter 2
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch2.jpg %}
+
 {% note narration %}
 **Time:** Several minutes later
 {% endnote %}
@@ -219,7 +222,7 @@ Do you have a change of clothes with you? You wouldn’t want to go home complet
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-…?
+……?
 
 i am very sorry. please talk more Slowly. i cannot pick up what you are saying.
 
@@ -229,11 +232,11 @@ i apologize. i am not used to having a Conversation…
 {% bubble Chiaki past %}
 Huh? Ahh, sorry! Did I talk too fast? I don’t have any friends, so I’m bad at it myself!
 
-Hehe. You always seemed like a distant being, so I’m happy to know we share something in common.
+Heheh. You always seemed like a distant being, so I’m happy to know we share something in common.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-? is that so? you are Happy we share something?
+…? is that so? you are Happy we share something?
 
 why would you be Happy about that?
 {% endbubble %}
@@ -280,7 +283,7 @@ Huh? Ahh, you wouldn’t know who I am, would you…?
 {% endbubble %}
 
 {% bubble Kanata past %}
-yes! i Realized this recently! a big discovery! heheh~♪
+yes! i Realized this recently! a big discovery! fufu~♪
 
 each Human has their own Name!
 {% endbubble %}
@@ -408,9 +411,9 @@ it was an Earnest match between the two of us~… chiaki? are you listening?
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
---… …hurry.
+—… …hurry.
 
-chiaki… i… really, will--…
+chiaki… i… really, will—…
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -428,7 +431,7 @@ Yeah, I’ll just make sure to wash it and put it back in its place so I don’t
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-… Shinkai-kun?
+…Shinkai-kun?
 
 W-What’s wrong!? Say something, please! The dark is terrifying! I was able to forget about all my fears because you were chatting!
 {% endbubble %}
@@ -438,15 +441,15 @@ W-What’s wrong!? Say something, please! The dark is terrifying! I was able to 
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-Shinkai-kun? Woah-- Why are you collapsed on the floor!? Is it from anemia? Did you faint!? Are you alriiiiight~!?
+Shinkai-kun? Woah— Why are you collapsed on the floor!? Is it from anemia? Did you faint!? Are you alriiiiight~!?
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-… chiaki, w-water…
+…chiaki, w-water…
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-Water!? Yeah, sorry for the long wait! I’ll spray water on you now! Here goes--!!!
+Water!? Yeah, sorry for the long wait! I’ll spray water on you now! Here goes—!!!
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -470,7 +473,7 @@ Eeek!? W-What!? Don’t laugh out of nowhere! You surprised me!
 {% bubble Kanata past %}
 i am sorry! i am just so happy, and feeling tingly…♪
 
-hehe. if it is what you Wish, i will not laugh.
+fufu. if it is what you Wish, i will not laugh.
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
@@ -478,9 +481,9 @@ N-no, I’d rather see you smiling than have a straight face… The sudden laugh
 {% endbubble %}
 
 {% bubble Kanata past %}
-hehe. you are the Timid type, yes?
+fufu. you are the Timid type, yes?
 
-Kyaha-- Kyahahaha! ♪ Kyahahahahaha…!! ☆
+Kyaha— Kyahahaha! ♪ Kyahahahahaha…!! ☆
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
@@ -488,11 +491,11 @@ Kyaha-- Kyahahaha! ♪ Kyahahahahaha…!! ☆
 {% endbubble %}
 
 {% bubble Kanata past %}
-… am i scaring you?
+…am i scary?
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-!? Wha--!? Did I say it out loud!?
+!? Wha—!? Did I say it out loud!?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -508,7 +511,7 @@ i have to Repay you somehow, since you have given me a Tribute.
 {% bubble Chiaki past %}
 Tribute? No no, no need for anything! It’s been awhile since I—no, I think this is the very first time I’ve properly helped someone, so I’m more than happy!
 
-Your smile is my reward! Hehe, that sounded a little bit like a hero~♪
+Your smile is my reward! Heheh, that sounded a little bit like a hero~♪
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -540,7 +543,7 @@ Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, a
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-… “to-rans-form”?
+…“to-rans-form”?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -570,7 +573,7 @@ I want to become the dream version of myself! The cool, ideal version!
 {% img /img/es/eventstory/meteorimpact/firsthalfch4.jpg %}
 
 {% bubble Kanata pastcurious %}
-… is that your Wish, chiaki?
+…is that your Wish, chiaki?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -622,7 +625,7 @@ Don’t worry, don’t worry! I won’t die! I’m fine!
 {% endbubble %}
 
 {% bubble Kanata past %}
-hehe, you will not die? so you ate Mermaid meat?
+fufu, you will not die? so you ate Mermaid meat?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -644,7 +647,7 @@ Well, there’s no point in me asking for that, though.
 {% endbubble %}
 
 {% bubble Chiaki past %}
-… Ryuseitai will likely disband soon if it keeps going at this pace.
+…Ryuseitai will likely disband soon if it keeps going at this pace.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -668,7 +671,7 @@ Any talented student capable of starting their own independent career has no rea
 
 Also… No adult in this school helps you out in anything, and if you stay around the rotten students, you’ll turn rotten yourself.
 
-Even I… If I could just have more talent and capability--…
+Even I… If I could just have more talent and capability—…
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -720,9 +723,9 @@ The ideal image of the hero I yearn to become is still so far away — I could a
 
 …………
 
-… Oh! I’m sorry! I just talked to myself for ages! I’m sure it was boring and awful to hear…
+…Oh! I’m sorry! I just talked to myself for ages! I’m sure it was boring and awful to hear…
 
-Hehe, you’re so strange, Shinkai-kun… I’ve never ever vented any of these thoughts out, but…
+Heheh, you’re so strange, Shinkai-kun… I’ve never ever vented any of these thoughts out, but…
 
 You aren’t even my friend, yet I can’t help but tell you my secrets.
 
@@ -730,7 +733,7 @@ Please forget everything I said. It has nothing to do with you.
 {% endbubble %}
 
 {% bubble Kanata past %}
-… that is true. the Land has Nothing to do with a god.
+…that is true. the Land has Nothing to do with a god.
 
 but, it is because a god is Distant, that he can see Everything.
 
@@ -861,7 +864,7 @@ K-Kiryu-kun!
 {% endbubble %}
 
 {% bubble Kuro pastinjuredangry %}
-… *Huh*?
+<em>…Huh?</em>
 
 Ugh, you’re still here. Get lost already, you’re gonna be late for homeroom class.
 {% endbubble %}
@@ -893,7 +896,7 @@ Ahh, um! I’m not trying to criticize you or anything! I’m just worried! Ummm
 {% bubble Kuro pastinjured %}
 …………
 
-… I ain’t strong.
+…I ain’t strong.
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -925,7 +928,7 @@ Honestly, there’s nothin’ ta get from involvin’ yourself with a punk like 
 {% endbubble %}
 
 {% bubble Chiaki past %}
-… No, a man never goes back on his word.
+…No, a man never goes back on his word.
 {% endbubble %}
 
 {% bubble Kuro pastinjuredsmile %}
@@ -933,7 +936,7 @@ Haha, you were “a man”? You’ve got such a cute, boyish face[^9], I couldn�
 {% endbubble %}
 
 {% bubble Chiaki past %}
-Hehe, so you can crack jokes like that, Kiryu-kun? I didn’t expect that, with how you’re always silent and looking so sour during class.
+Heheh, so you can crack jokes like that, Kiryu-kun? I didn’t expect that, with how you’re always silent and looking so sour during class.
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -969,7 +972,7 @@ It’s nothing, don’t worry about it. After all, it’s a hero’s duty to hel
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-… Huh, so you’re a hero.
+…Huh, so you’re a hero.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/firsthalfch6_1.jpg %}
 
@@ -1000,7 +1003,7 @@ Don’t bother comin’ into the sewers here — There’s nothin’ interesting
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-… My bad, I talked a li’l too big. I’m sure ya wouldn’t wanna be lectured by the dregs of society… Sorry ’bout that.
+…My bad, I talked a li’l too big. I’m sure ya wouldn’t wanna be lectured by the dregs of society… Sorry ’bout that.
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -1022,7 +1025,7 @@ I really was dreamin’ of a chance to possibly becomin’ a more honest, good m
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-… Doesn’t matter. So, you done? Thanks, I appreciate it.
+…Doesn’t matter. So, you done? Thanks, I appreciate it.
 
 I’m goin’ back to sleep now, so go to class already… Honor student.
 {% endbubble %}
@@ -1213,7 +1216,7 @@ I want to prove that we have obtained the approval of the students—that the st
 {% endbubble %}
 
 {% bubble Chiaki past %}
-Hehe. I see that you’re a serious guy, Hasumi-kun. I don’t dislike it.
+Heheh. I see that you’re a serious guy, Hasumi-kun. I don’t dislike it.
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -1270,7 +1273,7 @@ Please believe in me. I will be the one to change Yumenosaki Academy.
 {% endnote %}
 
 {% bubble Chiaki past %}
-<th>(Hehe, “change Yumenosaki Academy,” huh… It sort of sounded grandiose, but I’ll still be wishing you the best, Hasumi-kun.)</th>
+<th>(Heheh, “change Yumenosaki Academy,” huh… It sort of sounded grandiose, but I’ll still be wishing you the best, Hasumi-kun.)</th>
 
 <th>(So there *are* students other than me who don’t feel like the academy can remain the way as it is right now…)</th>
 
@@ -1413,7 +1416,7 @@ Hm? What’s up with Mikejima-san? Ah, so he returned back to Japan, huh? But I 
 {% endbubble %}
 
 {% bubble Kanata past %}
-hehehe. mikejima immediately breaks anything, you see. but, he Fears that side of Himself the most.
+fufufu. mikejima immediately breaks anything, you see. but, he Fears that side of Himself the most.
 
 so, when he feels Irritated, he leaves to someplace Far away, as he does not want to meet with his Frightening Self.
 
@@ -1445,7 +1448,7 @@ Yeah, I got a text from our leader… I wonder what this is all about…? I don�
 
 Well, no matter. I’ll know once I ask him.
 
-Hehe, alright then, Shinkai-kun. I’m happy we got to talk. Oh, and… you cleaned the pool in my stead, right? I really do appreciate it.
+Heheh, alright then, Shinkai-kun. I’m happy we got to talk. Oh, and… you cleaned the pool in my stead, right? I really do appreciate it.
 
 <th>(Just thinking about how he managed to clean the pool in one night is a little unsettling, but…)</th>
 
@@ -1453,7 +1456,7 @@ Hehe, alright then, Shinkai-kun. I’m happy we got to talk. Oh, and… you clea
 
 <th>(It’s been a while since I’ve been treated this kindly — I feel sort of touched.)</th>
 
-Hehe, well then, I’ll see you later… Shinkai-kun, I know I keep saying this but — You shouldn’t soak yourself with water, okay? It’s still too early in the season to swim.
+Heheh, well then, I’ll see you later… Shinkai-kun, I know I keep saying this but — You shouldn’t soak yourself with water, okay? It’s still too early in the season to swim.
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}

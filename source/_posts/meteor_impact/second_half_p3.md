@@ -156,7 +156,7 @@ I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying 
 {% endbubble %}
 
 {% bubble Subaru %}
-……
+…………
 {% endbubble %}
 
 {% bubble Chiaki past%}
@@ -174,7 +174,7 @@ Yes! Exactly!
 
 Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in the AV room — we’ll head there first!
 
-… Are you alright with that, Shinkai-kun?
+…Are you alright with that, Shinkai-kun?
 {% endbubble %}
 
 {% bubble Kanata past%}
@@ -434,7 +434,7 @@ Is that not what you two had taught me, back when I knew nothing…!?
 {% endbubble %}
 
 {% bubble Kuro pastbcg %}
-… Haha! ♪
+…Haha! ♪
 
 Hey Danna, he just told you off. Ain’t ya ashamed of yourself?
 
@@ -446,7 +446,7 @@ He’s pickin’ a fight, so let’s accept his challenge.
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-… Of course I do.
+…Of course I do.
 
 He’s right on one part: I was caught in a delusion. I couldn’t effectively wave off the *klesha*[^26] plaguing my mind, when I’m meant to perform here on stage…
 
@@ -462,7 +462,7 @@ Is there a *problem*? I spoke what was on my mind, and I refuse to apologize for
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-… And yet, you never change. You always remain straightforward and clean — like a polished katana.
+…And yet, you never change. You always remain straightforward and clean — like a polished katana.
 
 Even if those “evil things” existed, it would surely never have an effect on you.
 
@@ -486,7 +486,7 @@ About that exile… I’ll be retracting your banishment.
 {% endbubble %}
 
 {% bubble Souma v2 %}
-… What? Pardon?
+…What? Pardon?
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
@@ -512,7 +512,7 @@ I’m sure you can tell that we’re a mess right now, Kanzaki… so help us out
 {% endbubble %}
 
 {% bubble Souma v2 %}
-… R-Roger! Why, of course I will, that is exactly what I was hoping you would say! But as a man who was wrongfully disloyal to you, I could not say it myself!
+…R-Roger! Why, of course I will, that is exactly what I was hoping you would say! But as a man who was wrongfully disloyal to you, I could not say it myself!
 
 It has nothing to do with what my ancestors say! I simply wish to sing as part of Akatsuki right now!
 
@@ -522,7 +522,7 @@ Wait just a moment! Nay, not even that — for I, Kanzaki Souma, shall hurry bac
 {% endbubble %}
 
 {% bubble Kuro pastbcg %}
-… Haha. He’s so happy, like a li’l kid who got his new year’s gift.
+…Haha. He’s so happy, like a li’l kid who got his new year’s gift.
 
 It was almost enough to fool me into thinkin’ I’m a good guy for doin’ a good deed.
 
@@ -602,7 +602,7 @@ i see. i’m glad\~ i am very Good at Finding things. i am a god, after all~♪
 {% endbubble %}
 
 {% bubble Chiaki past%}
-… Uh-huh… Um, yes, you were a big help. Thank you.
+…Uh-huh… Um, yes, you were a big help. Thank you.
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
@@ -626,7 +626,7 @@ that is why. please take it. you always wanted to Wear it, didn’t you?
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-… Yeah, I did. I’ve always longed to wear it.
+…Yeah, I did. I’ve always longed to wear it.
 
 <th>(Ryuseitai’s uniforms… They were hidden deep, deep down in here, huh…?)</th>
 
@@ -668,13 +668,13 @@ but if i can Perform there, then i want to. i want to take Vengeance, on behalf 
 
 since he is my Friend.
 
-… but they Wished me not to, so i shouldn’t go Perform, should i?
+…but they Wished me not to, so i shouldn’t go Perform, should i?
 
 am i a failure as their god…? mm…?
 {% endbubble %}
 
 {% bubble Chiaki past%}
-… So that’s how it is.
+…So that’s how it is.
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
@@ -698,7 +698,7 @@ Once I was done, I would have escorted you back to the beach… so that I may fu
 {% bubble Kanata pastfrown %}
 ……
 
-… you were planning to Substitute for me…? to go Up there, and have Rocks thrown at you in my stead?
+…you were planning to Substitute for me…? to go Up there, and have Rocks thrown at you in my stead?
 
 you were planning on becoming the Sacrifice, chiaki?
 {% endbubble %}
@@ -714,7 +714,7 @@ And that’s exactly why— *I’ll* become the monster subjugated in your stead
 {% img /img/es/eventstory/meteorimpact/secondhalfch31.jpg %}
 
 {% bubble Kanata pastfrown %}
-… you want to become a hero, don’t you?
+…you want to become a hero, don’t you?
 {% endbubble %}
 
 {% bubble Chiaki past%}
@@ -730,7 +730,7 @@ didn’t you say that Dreams are something much more Sacred…? that is how i Un
 {% endbubble %}
 
 {% bubble Chiaki past%}
-… I can’t think of any other way to become one.
+…I can’t think of any other way to become one.
 
 But that doesn’t mean I can sit still and do nothing about it. You heard it on our way here, didn’t you? The cheering of a pure, innocent kid…
 
@@ -742,7 +742,7 @@ But even if I’m scared — if even one single person believes in me, then I wa
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
-… i really can’t see the Difference between heroes and gods, but—
+…i really can’t see the Difference between heroes and gods, but—
 
 i understand. i am the Same as you. it makes me Happy to know we’re the Same… that is what you taught me.
 
@@ -772,7 +772,7 @@ I want to change that about myself, so I’m going to thank you instead. Thank y
 
 Thank you for understanding how I feel, and for wanting to come along with me.
 
-… I messaged the other Ryuseitai members just now.
+…I messaged the other Ryuseitai members just now.
 
 I told them I’m going to participate in the live show as Ryuseitai, and that they can help out if they’d like.
 
@@ -840,7 +840,7 @@ Alright… Who did you message, and for what?
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
-heheh. i gave mikejima a Job to do. he is an important Person within ryuseitai, yes?
+fufu. i gave mikejima a Job to do. he is an important Person within ryuseitai, yes?
 
 i got him to allow me in ryuseitai with that Authority.
 
@@ -962,7 +962,7 @@ Yes! I leave that color to you now, so I’ll no longer be blue!
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-Shinkai--? *You,* too!? Why!? Why must you interfere with my plans!?
+Shinkai—? *You,* too!? Why!? Why must you interfere with my plans!?
 
 Why did you come here!? If you hadn’t shown up, we would have won by default! I would’ve been able to end this with as little sacrifice as possible!
 {% endbubble %}
@@ -1090,7 +1090,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 {% img /img/es/eventstory/meteorimpact/secondhalfch33.jpg %}
 
 {% bubble Kuro pastbcg %}
-… Haha. I dunno what happened to you, but you’ve bounced back stronger, haven’t ya, Morisawa?
+…Haha. I dunno what happened to you, but you’ve bounced back stronger, haven’t ya, Morisawa?
 
 You don’t need to yell it so loud — I’ve *always* known you were a real cool hero.
 
@@ -1112,7 +1112,7 @@ Hasumi.
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-… Hm. I was a little shaken after seeing such an unexpected sight, but — our plans haven’t changed. We’ll do what we must, carefully.
+…Hm. I was a little shaken after seeing such an unexpected sight, but — our plans haven’t changed. We’ll do what we must, carefully.
 
 “Morisawa. Sorry to interrupt your excitement, but it isn’t your turn.”
 
@@ -1178,11 +1178,11 @@ Hasumi.
 {% endbubble %}
 
 {% bubble Souma pastcg %}
-“Hehe, it appears that attempting to torment the man known as Morisawa is an act equivalent to picking a fight with Kiryu-dono…”
+“Fufu, it appears that attempting to torment the man known as Morisawa is an act equivalent to picking a fight with Kiryu-dono…”
 
 “My oh my. Personally, I would never be able to conduct such a terrifying act~♪”
 
-<th>(Hehe, how magnificent. As I thought, my seniors in Akatsuki are not tyrants fond of brutality… Even in a bizarre state, they continue to do their best to achieve what is right without relenting.)</th>
+<th>(Fufu, how magnificent. As I thought, my seniors in Akatsuki are not tyrants fond of brutality… Even in a bizarre state, they continue to do their best to achieve what is right without relenting.)</th>
 
 <th>(It is exactly for that reason that I shall serve them. Not because my parents have ordered me to, but because I *want* to.)</th>
 
