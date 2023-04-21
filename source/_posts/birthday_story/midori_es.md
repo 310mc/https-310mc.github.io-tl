@@ -337,13 +337,13 @@ And so, without further ado! Come over, Takamine! If you won’t, I’ll do it m
 {% bubble Kanata %}
 fufufu. happy birthday~ midori~…♪
 
-it's the summer holidays, yet so many people came over to celebrate your birthday. you're very blessed, midori.
+it's the summer holidays, yet so many people came over to celebrate your birthday. you are very blessed, midori.
 
 it looks like you received many presents, too. when it's about you, the first thing that comes to mind is mascot characters, yes~?
 
 the truth is, i also brought mascot merchandise for you. tadaaah, a football fish~…♪
 
-i'm glad to know you like it. it's always nice to get what you love, no matter the amount, yes? ehehe…♪
+i am glad to know you like it. it's always nice to get what you love, no matter the amount, yes? ufufu…♪
 
 you look very happy being surrounded by your friends and mascots. i'm also happy… *puka, puka*~♪
 {% endbubble %}
@@ -359,7 +359,7 @@ It’s not that big of a difference? I mean, that’s true, but…
 
 You’re tall, so you look mature, yeah? But your birthday is after both of us, so…
 
-Hehe! ♪ It feels like a good balance between the three of us!
+Heheh! ♪ It feels like a good balance between the three of us!
 
 Ah—But I wanna grow taller myself, so hmm…
 
@@ -443,7 +443,7 @@ Happy birthday, Takamine-kun…♪
 
 I heard today was your birthday, so I came over to celebrate~♪
 
-Wawa—Why are you bowing your head down in apology? Please, you don’t have to feel guilty about this~!
+Wawa— Why are you bowing your head down in apology? Please, you don’t have to feel guilty about this~!
 
 I didn’t come here because I had spare time during my summer break! I came because I wanted to celebrate your birthday~
 
@@ -471,7 +471,7 @@ Ahaha, they're so pretty… This is soothing in its own way. Thank you very much
 **Fruit Tart (HAPPY)**
 <!--{% img /img/es/birthdaystory/es/midori/fruittart.jpg %}-->
 {% bubble Midori smile %}
-Hehe, it looks so tasty…♪ I don’t dislike fruits. I mean, I’m the son of a greengrocer, after all…
+Heheh, it looks so tasty…♪ I don’t dislike fruits. I mean, I’m the son of a greengrocer, after all…
 {% endbubble %}
 
 **Shortcake (GOOD)**

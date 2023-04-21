@@ -685,21 +685,21 @@ Mm? Where's Shinobu-kyun… Could it be? That all along, Shinobu-kyun was merely
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh… shinobu and the others will arrive a little later.
+fufu… shinobu and the others will arrive a little later.
 
 they said they needed to explain some things to all the members in “n” first.
 {% endbubble %}
 
 {% bubble Mayoi %}
-"N"… By that, do you mean Ryuseitai-N?
+“N”… By that, do you mean Ryuseitai-N?
 {% endbubble %}
 
 {% bubble Kanata %}
 that’s right~ it sounds like they have some sort of strategy.
 
-i don’t know much myself~ i only know what anzu-san told me.
+i do not know much myself~ i only know what anzu-san told me.
 
-“strategy”… heheh, that sounds so heroic~♪
+“strategy”… fufu, that sounds so heroic~♪
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -721,9 +721,9 @@ Mm, second-in-command? Then, are you the right hand man of the leader of Ryuseit
 {% endbubble %}
 
 {% bubble Kanata %}
-oh, no, no. this might sound a little confusing, but i’m the second-in-command for the “m” group.
+oh, no, no. this might sound a little confusing, but i am the second-in-command for the “m” group.
 
-the graduates of ryuseitai don’t interfere with the “n” side.
+the graduates of ryuseitai do not interfere with the “n” side.
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -751,7 +751,7 @@ I mean, that's common sense in the industry too? We're still rock bottom in ES, 
 {% bubble Shinobu %}
 There’s no need to be so humble~
 
-… Oh?
+…Oh?
 
 Yaaay, Shinkai-dono, you’re here~! ♪
 {% endbubble %}
@@ -767,7 +767,7 @@ Motor Show isn’t supposed to have you seniors involved, since it’s a job for
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh, no need to be so distant. it doesn’t matter whether it’s “n” or “m” — we’re in this together.
+fufu, no need to be so distant. it doesn’t matter whether it’s “n” or “m” — we’re in this together.
 
 or what i should be saying is— *all for one, one for all*.
 {% endbubble %}
@@ -781,7 +781,7 @@ Does that mean you’re planning on joining this job with us? Weren’t you busy
 {% bubble Kanata %}
 not at all. there's hardly a ripple in my life these days, compared to the stormy seas of last year.
 
-i’ve managed to clear up my home problems at this point~
+i have managed to clear up my home problems at this point~
 
 also, chiaki asked me to take care of all of you.
 {% endbubble %}
@@ -841,7 +841,7 @@ ehe, it’s how i show my love~♪
 
 but… i see. so tetora took off his mask and showed his true self to them, didn’t he?
 
-that is not something just anyone can do — after all, it’s terrifying to fail to meet someone’s expectations.
+that is not something just anyone can do — after all, it is terrifying to fail to meet someone’s expectations.
 
 that’s why i believe you did a wonderful job, tetora. you know what was most important to do…
 
@@ -869,7 +869,7 @@ Mayoi-dono, your Chief is speaking about crucial matters at the moment, so do ke
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh. a strange person has taken a liking to you, i see.
+fufu. a strange person has taken a liking to you, i see.
 
 mm~… the way he smells takes me back…
 {% endbubble %}
@@ -879,7 +879,7 @@ W-What? Ahhh, I'm sorry to have bothered you anyyy, please just pretend I'm noth
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh. shinobu took after chiaki when it comes to being liked by a strange person, i see.
+fufu. shinobu took after chiaki when it comes to being liked by a strange person, i see.
 
 each one of you is taking after us in your own way — that makes me very, very happy.
 
@@ -907,7 +907,7 @@ Of course, it’s quite a trivial amount of workload compared to your own and Mo
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh. it’ll be alright, because we’re all running down the same path.
+fufu. it’ll be alright, because we’re all running down the same path.
 
 even if there are times we can’t see each other’s faces, our hearts are still in the same place.
 

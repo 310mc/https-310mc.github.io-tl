@@ -97,13 +97,15 @@ i'm so, so happy to have my birthday celebrated. birthdays are fun, aren't they~
 ## Birthday Course
 
 #### <div mt="rare"></div> 1/3
+
 {% img /img/es/birthdaystory/es/kanata/minitalk_1.jpg %}
+
 {% bubble Kanata %}
 hello, anzu-san. today is another perfect day to soak in the fountain. *puka, puka*…♪
 
 hm? you came to see me? hmm, i see… you want me to come with you?
 
-ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
+ufufu, no thank you~ it's hot, so i don't want to get out of the fountain.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -149,9 +151,9 @@ ehehe, no thank you~ it's hot, so i don't want to get out of the fountain.
             	{% bubble Kanata %}
               i'm only joking. there's no need to make that face~
 
-              ehehe. you planned something for my birthday, didn't you?
+              ufufu. you planned something for my birthday, didn't you?
 
-              you look surprised. heheh~ i can see through everything, you know~
+              you look surprised. fufu~ i can see through everything, you know~
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
@@ -193,7 +195,7 @@ ahaha~ what do you think? it's a version specifically just for today…♪
 
               thank you for taking care of all of us, and for making these celebrations for us.
 
-              good girl, good girl…♪ ehehe. i'm also taking care of you now.
+              good girl, good girl…♪ ufufu. i'm also taking care of you now.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
@@ -218,7 +220,7 @@ ahaha~ what do you think? it's a version specifically just for today…♪
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Kanata %}
-              ehehe. both tetora and shinobu got excited when i did this~♪
+              ufufu. both tetora and shinobu got excited when i did this~♪
 
               they were looking at me with sparkles in their eyes, so i got more into it.
 
@@ -263,7 +265,7 @@ i had a feeling that i would have a birthday celebration, but i didn't expect *t
 
               hmm. to think someone would have an eye for this child… i would love to shake hands with whoever made it~
 
-              ahh, so it was you, anzu-san~ ehehe, i love it. handshake~♪
+              ahh, so it was you, anzu-san~ ufufu, i love it. handshake~♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
@@ -459,7 +461,7 @@ ufufu, but since they're so fresh, i'll just keep them in a vase for now. thank 
 **Fruit Tart (HAPPY)**
 <!--{% img /img/es/birthdaystory/es/kanata/fruittart.jpg %}-->
 {% bubble Kanata v2 %}
-there are a lot of fruits in different colors on this cake. it kind of looks like ryuseitai, doesn't it? ehehe…♪
+there are a lot of fruits in different colors on this cake. it kind of looks like ryuseitai, doesn't it? ufufu…♪
 {% endbubble %}
 
 **Shortcake (GOOD)**

@@ -108,7 +108,7 @@ However, while I had charged at you earnestly, and thus took you completely by s
 
 You were still able to turn things to your favor with a counterattack, even after being struck so many times. You’re a splendid martial artist, Taishou.
 
-Hehe, the other club members could tell something was wrong, so they came over to stop us… But it makes me wonder: if we had kept going, who would’ve won that fight?
+Heheh, the other club members could tell something was wrong, so they came over to stop us… But it makes me wonder: if we had kept going, who would’ve won that fight?
 
 As you’re the more experienced one between us, maybe the judge’s fan would have been raised to your victory?[^2]
 {% endbubble %}
@@ -130,7 +130,7 @@ It’s a bad habit of mine to blabber on ‘til I dunno what the topic’s about
 {% endbubble %}
 
 {% bubble Hiiro %}
-Hehe, that too proves you’re an excellent martial artist — it is a must to know where one lacks.
+Heheh, that too proves you’re an excellent martial artist — it is a must to know where one lacks.
 
 I can barely tell where I lack, or rather, I lack the capability to tell, so — I hope to continue being under your care, Buchou~♪
 
@@ -156,7 +156,7 @@ Ahhh, I’m just so, so hopeless… It’s so pathetic of me. There's nothing mo
 {% endbubble %}
 
 {% bubble Hiiro %}
-Hehe, please cheer up, Buchou.
+Heheh, please cheer up, Buchou.
 
 Aren’t you a little too harsh on yourself? From what I heard in school, Ryuseitai-N has been doing well.
 

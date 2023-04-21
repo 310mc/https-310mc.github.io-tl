@@ -317,7 +317,7 @@ Time just ends before you know it when you're having fun, huh?
 {% bubble Kanata %}
 oh nooo~… someone please save me…♪
 
-ehehe. you came to my rescue, chiaki. thank you.
+ufufu. you came to my rescue, chiaki. thank you.
 
 yes, there are no problems here. i was simply doing an act.
 
@@ -325,7 +325,7 @@ specifically, an action scene of coming to the rescue in a cool way, and saving 
 
 you're always so lively and energetic whenever you're being a hero, you see~…♪
 
-hehe, please keep being just like that, chiaki. *puka, puka*…♪
+fufu, please keep being just like that, chiaki. *puka, puka*…♪
 {% endbubble %}
 
 ### Tetora
@@ -341,7 +341,7 @@ If that's what you really thought, then you definitely need to work on this.
 
 There's no way we wouldn't celebrate your birthday! You're our *leader*, so please keep that firmly in your mind!
 
-…Here I am lecturing you on your birthday of all days… Hehe… I'm sorry.
+…Here I am lecturing you on your birthday of all days… Heheh… I'm sorry.
 
 Please let me say the most important thing, at least! Happy birthday, Taichou…♪
 {% endbubble %}

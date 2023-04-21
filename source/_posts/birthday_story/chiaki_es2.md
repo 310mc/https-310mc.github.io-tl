@@ -109,9 +109,9 @@ Thank you, Kanata! I'm so blessed to have my birthday celebrated by so many peop
 {% endbubble %}
 
 {% bubble Kanata %}
-hehe, that's because you're a hero. of course you'd be popular~♪
+fufu, that's because you're a hero. of course you would be popular~♪
 
-my present to you is this huge fish. i'm going to cook it up, so please wait a while.
+my present to you is this huge fish. i am going to cook it up, so please wait a while.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -292,7 +292,7 @@ I could tell it was super fun to share their hobbies and specialties with their 
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
-            Hehe, I heard all kinds of things about the event! I’ve actually already prepared a video for Takamine’s bir—
+            Heheh, I heard all kinds of things about the event! I’ve actually already prepared a video for Takamine’s bir—
 
             Ah—!!  ……Whew, Takamine isn’t around. I have to make sure I don’t spoil the surprise before his birthday.
 			{% endbubble %}

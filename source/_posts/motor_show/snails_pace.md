@@ -124,7 +124,7 @@ However, I once heard that by being vocal, you can relieve the unnecessary tensi
 {% endbubble %}
 
 {% bubble Tetora %}
-Hehe, have you been doing combat sports for a long time? That’s how you sound. But you’re new to karate, right?
+Heheh, have you been doing combat sports for a long time? That’s how you sound. But you’re new to karate, right?
 
 Like, you seem to have done a type of combat sport I’ve never heard of before in your hometown.
 {% endbubble %}
@@ -234,7 +234,7 @@ Huh? Ah— yes, yes. Exactly, this is a ninja skill of mine; I definitely wasn�
 {% endbubble %}
 
 {% bubble Hiiro %}
-Hehe, it looks like you’re enjoying your club activities, Mayoi-senpai. I am too! I was even able to become friends with Buchou straight away.
+Heheh, it looks like you’re enjoying your club activities, Mayoi-senpai. I am too! I was even able to become friends with Buchou straight away.
 
 This just shows that we were able to overcome our hardships and finally enjoy our youth to its maximum extent.
 
@@ -326,7 +326,7 @@ Uuu… I’m extremely sorry for being so suspicious and so afraid of strangers�
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe, I’m the same as him, so I feel a connection.
+Heheh, I’m the same as him, so I feel a connection.
 
 Anyway, umm— to put it simply, Motor Show is a car exhibition.
 
@@ -516,7 +516,7 @@ Though, uh, I feel like we’re just gonna embarrass ourselves if I make such a 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe, you seriously sound downbeat lately, Tetora-kun.
+Heheh, you seriously sound downbeat lately, Tetora-kun.
 
 Please cheer up! You’re so down in the dumps that even Midori-kun is worried if you’re okay, you know?
 {% endbubble %}
@@ -834,7 +834,7 @@ They put weird sparkly stuff all over my body and then forced me to do a bunch o
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hehe, you really seem to be getting a lot of those jobs lately, huh?
+Heheh, you really seem to be getting a lot of those jobs lately, huh?
 
 You’re super handsome, so I think it’s great that you’re getting the chance to make use of your best trait.
 

@@ -193,7 +193,7 @@ It's full of presents for me…? I've gotten so many by now, who could they be f
 
               He told me about how tasty this bakery's bread was a few days ago. I think I'll eat it with everyone now that we're all here together.
 
-              Hehe, they all look so tasty—I dunno what to eat first.
+              Heheh, they all look so tasty — I dunno what to eat first.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
@@ -272,7 +272,7 @@ I'm really just not made to be the main role of anything…
 
               Everyone is a main role to you, in their own way? I should have more confidence in myself?
 
-              Hehe, thank you very much. Hearing you say that made me think a bit more positively.
+              Heheh, thank you very much. Hearing you say that made me think a bit more positively.
 				{% endbubble %}
 			</div>
         </div>
@@ -653,7 +653,7 @@ I didn’t know you guys were planning that at all. So even Tetora-kun, Shinobu-
 You caught me by surprise, but I’m really glad to know that you wanted to do that for me.
 {% endbubble %}
 
-<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Midori_Takamine_Work_Birthday_Flowers_Chibi_8.png" width="150" data-tippy-content="Hehe, that’s just what you’d expect from Ryuseitai.">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Time passed by quickly…">
+<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Midori_Takamine_Work_Birthday_Flowers_Chibi_8.png" width="150" data-tippy-content="Heheh, that’s just what you’d expect from Ryuseitai.">|<img class="msr-tippy" img src="https://static.wikia.nocookie.net/ensemble-stars/images/a/a6/Midori_Takamine_Work_Birthday_Flowers_Chibi_6.png" width="150" data-tippy-content="Time passed by quickly…">
 :-:|:-:
 <center><i>Hover/Click the chibi to see the quote!</i></center>
 

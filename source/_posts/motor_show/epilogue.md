@@ -296,7 +296,7 @@ yes, that’s right. it’s going swimmingly well~ the place is packed with peop
 
 they said that they had a change of heart, and decided not to quit after all…
 
-instead, they’re working hard to do whatever they can, as best as they can.
+instead, they are working hard to do whatever they can, as best as they can.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -314,11 +314,11 @@ I can tell that I made the right choice when I chose him to take after “red”
 {% endbubble %}
 
 {% bubble Kanata %}
-if that’s how you feel, then please tell *him* that. tetora may have grown, but he’s still a child.
+if that is how you feel, then please tell *him* that. tetora may have grown, but he is still a child.
 
-he’s surely had moments where he’s shed tears from anxiety.
+he is surely had moments where he has shed tears from anxiety.
 
-i can’t handle salty water— the only one who can wipe his tears away is <em>you</em>, chiaki, because you’re the one who passed your position onto him in the first place.
+i cannot handle salty water — the only one who can wipe his tears away is <em>you</em>, chiaki, because you are the one who passed your position onto him in the first place.
 
 now then, with that said… let’s go join everyone else.
 {% endbubble %}
@@ -332,17 +332,17 @@ And I just happened to end up here! I shouldn’t get in the way of their work w
 {% bubble Kanata %}
 mhm, mhm, i know the truth. no need to come up with excuses. let’s go on stage with everyone, why don’t we?
 
-i am sure you practiced for motor show’s performance anyway, didn’t you? just in the slight chance you’d have to perform. you’ve always been that sort of person—
+i am sure you practiced for motor show’s performance anyway, didn’t you? just in the slight chance you would have to perform. you have always been that sort of person—
 
 and it is a hero’s duty to be prepared for that “slight chance”.
 
-besides, you’d never distance yourself from others simply because you’re too busy.
+besides, you would never distance yourself from others simply because you are too busy.
 
 we are talking about mr. lonely here, aren’t we?
 {% endbubble %}
 
 {% bubble Chiaki cry %}
-Uuu… *<th>(sobs)</th>* I’m sorry! I lied to myself!
+Uuu… <em><th>(sobs)</th></em> I’m sorry! I lied to myself!
 
 I was actually so, so, sooooo worried!! I wanted to do whatever I could for them!
 
@@ -490,7 +490,7 @@ You take action the moment you decide on something— and that’s both a good a
 
 Nonetheless, to avoid being thrown off the ride, we shall accompany you. After all, we are comrades here— and most of all, together we are Ryuseitai—!
 
-… And so, Mayoi-dono. If you could please cease carrying me now…?
+…And so, Mayoi-dono. If you could please cease carrying me now…?
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -550,11 +550,11 @@ T-Takamine? What’s wrong, you seem kind of angry…? You shouldn’t kick your
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh, it’s because you’re always late to the rescue, chiaki. me and midori start getting irritated the more we wait for you.
+fufu, it is because you are always late to the rescue, chiaki. me and midori start getting irritated the more we wait for you.
 
-after all, we knew for a fact that you’d come over one way or another…
+after all, we knew for a fact that you would come over one way or another…
 
-and this performance requires all five of us for it to glow best, so you won’t be helping anyone by stepping back.
+and this performance requires all five of us for it to glow best, so you will not be helping anyone by stepping back.
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -568,7 +568,7 @@ It’s gonna throw us off if you act so lame… Since you’re still part of Ryu
 {% endbubble %}
 
 {% bubble Kanata %}
-heheh. you heard him, chiaki.
+fufu. you heard him, chiaki.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -576,11 +576,11 @@ Yeah… If someone really *does* end up thinking I’m uncool, it’s over for m
 {% endbubble %}
 
 {% bubble Kanata %}
-you already became one, you know. it’s precisely because you managed it that the children who aimed to be like you have become so cool themselves.
+you already became one, you know. it is precisely because you managed it that the children who aimed to be like you have become so cool themselves.
 {% endbubble %}
 
 {% bubble Chiaki %}
-… You’re right… Or rather, if that’s really the case, nothing would make me any happier.
+…You’re right… Or rather, if that’s really the case, nothing would make me any happier.
 
 Nothing that has happened was in vain. I was really able to pass on the most important things I inherited from my own seniors to the next era— Both the passionate spirit of justice, and the shining, radiant ideal image of a hero…!
 
