@@ -588,7 +588,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 {% bubble Chiaki pastserious %}
 ……
 
-<th>(… Yeah, there’s definitely signs that a huge number of people have been conducting secret meetings here. What I witnessed a few days ago was no illusion or dream.)</th>
+<th>(…Yeah, there’s definitely signs that a huge number of people have been conducting secret meetings here. What I witnessed a few days ago was no illusion or dream.)</th>
 
 <th>(It doesn’t give off the sense that it’s been used as a gathering place for delinquents, either. Although unfortunately, there *are* people like that in this school.)</th>
 
@@ -618,7 +618,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 <th>(……)</th>
 
-<th>(… What am I even doing…? No one asked me to do this, yet I’m acting like a detective just because I’m a little curious.)</th>
+<th>(…What am I even doing…? No one asked me to do this, yet I’m acting like a detective just because I’m a little curious.)</th>
 
 <th>(Mikejima-san even warned me to not get involved—to not dig any deeper into this…)</th>
 
@@ -634,7 +634,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 <th>(But still, I—)</th>
 
-<th>(… Hm? Over there, in the far corner…)</th>
+<th>(…Hm? Over there, in the far corner…)</th>
 
 <th>(That person in the garden… Isn’t that Shinkai-kun?)</th>
 
@@ -812,13 +812,13 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 {% bubble Chiaki pastworried %}
 ……
 
-<th>(… Why did you hide, me!?)</th>
+<th>(…Why did you hide, me!?)</th>
 
 <th>(Ahh, he’s leaving… Seems like he’s meeting up with the rest of the Eccentrics to go hang out somewhere…)</th>
 
 <th>(He looks like he’s having fun walking side-by-side with them.)</th>
 
-<th>(… When those five are together, it really does make a spectacular sight. It has a beauty to it… It makes sense, since they’re the most favored kids of this generation, and they’re currently at the pinnacle of our school…)</th>
+<th>(…When those five are together, it really does make a spectacular sight. It has a beauty to it… It makes sense, since they’re the most favored kids of this generation, and they’re currently at the pinnacle of our school…)</th>
 
 <th>(They’re living in a much different world from me, while I’m just someone from low class struggling to get by.)</th>
 
@@ -1210,7 +1210,7 @@ I hold a different perspective than the one you two hold, and therefore I may be
 
 <th>(And then, from their rage and need for revenge, they may hurt him.)</th>
 
-<th>(… He hasn’t even done anything wrong. All he’s been doing is granting “wishes”…)</th>
+<th>(…He hasn’t even done anything wrong. All he’s been doing is granting “wishes”…)</th>
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch8_1.jpg %}
 {% bubble Madara %}

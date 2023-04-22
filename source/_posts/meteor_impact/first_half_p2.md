@@ -90,7 +90,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(Mhm! It hurts when I pinch my cheek! So this is real~!! He he he…♪)</th>
 
-<th>(… I don’t know how, but Ryuseitai has changed.)</th>
+<th>(…I don’t know how, but Ryuseitai has changed.)</th>
 
 <th>(Our captain came back after a long time of absence, and brought all the members together to give them a huge pep talk.)</th>
 
@@ -142,11 +142,11 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(He appeared to be human, like me. He can’t be a God who grants anything you wish for.)</th>
 
-<th>(… Is that *really* true…? Then how did that filthy pool become spotless in one night? Is there really an explanation for something as bizarre as that…?)</th>
+<th>(…Is that *really* true…? Then how did that filthy pool become spotless in one night? Is there really an explanation for something as bizarre as that…?)</th>
 
 <th>(Wait, no, but… Hmmm? I mean, it matches up pretty well, since it was right after I mentioned it—so maybe the only possible conclusion is that he granted my wish through mystical means—)</th>
 
-<th>(… I must be going crazy. Something so miraculous happened that I’m losing my mind.)</th>
+<th>(…I must be going crazy. Something so miraculous happened that I’m losing my mind.)</th>
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -386,7 +386,7 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 {% bubble Chiaki pastsad %}
 …………
 
-<th>(… I couldn’t really do anything for Kiryu-kun in the end. He completely refused my offer to go with him after helping him reach the train station.)</th>
+<th>(…I couldn’t really do anything for Kiryu-kun in the end. He completely refused my offer to go with him after helping him reach the train station.)</th>
 
 <th>(I considered doing it anyway, but then he glared at me… And it froze me from trying. All I could do was just rush back home with my head low.)</th>
 
@@ -400,7 +400,7 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 
 <th>(It’s so frustrating. If only I really was the hero of my dreams… If only I could do a grand transformation sequence, and take down all the villains—)</th>
 
-<th>(… Hm? Huh, why do I hear noises near the entrance? What happened…?)</th>
+<th>(…Hm? Huh, why do I hear noises near the entrance? What happened…?)</th>
 
 <th>(I-I’ll at least go check what it is, just in case. Not that I’m a hero or anything—I’d probably just turn out to be another person caught in the trouble…)</th>
 
@@ -869,7 +869,7 @@ Well then, Hasumi-kun. See you tomorrow at school.
 {% bubble Keito v2 %}
 Yes… See you tomorrow.
 
-<th>(… He’s an idiot.)</th>
+<th>(…He’s an idiot.)</th>
 
 <th>(He must be extremely well brought-up. He doesn’t understand how human nature works; he believes that what’s said on children’s TV is the truth.)</th>
 
@@ -1253,7 +1253,7 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 {% bubble Chiaki pastworried worried %}
 Shinkai-kun!
 
-<th>(… He isn’t here, either. Nor was he at the fountain… He’s nowhere to be found. He disappeared like he was just some kind of illusion or dream…)</th>
+<th>(…He isn’t here, either. Nor was he at the fountain… He’s nowhere to be found. He disappeared like he was just some kind of illusion or dream…)</th>
 
 <th>(But I *have* to see him! He said something about granting my wish…! My wish regarding Kiryu-kun…!)</th>
 

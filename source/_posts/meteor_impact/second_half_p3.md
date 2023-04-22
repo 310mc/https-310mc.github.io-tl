@@ -100,7 +100,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(But that’s the thing. It’s *‘cause* he’s such a good guy that I shouldn’t be relying on him.)</th>
 
-<th>(… I wanted to properly apologize to Bucho~, though…)</th>
+<th>(…I wanted to properly apologize to Bucho~, though…)</th>
 
 <th>(He looked so down… I lost my cool and went way too far, I think…)</th>
 
@@ -228,7 +228,7 @@ Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my b
 {% endbubble %}
 
 {% bubble Subaru pasthappy %}
-<th>(… Oh, that’s what it was. I don’t really follow, but I understand it.)</th>
+<th>(…Oh, that’s what it was. I don’t really follow, but I understand it.)</th>
 
 <th>(It was alright for me to believe in you. It was alright for me to never give up or lose hope in you… *You’re* the one who taught me that—)</th>
 
@@ -266,7 +266,7 @@ Because I’m an idol! Because you let me stay as one!
 {% bubble Keito v2 cg %}
 “♪\~♪\~♪”
 
-<th>(… Incorrigible! Where did this intense air come from!?)</th>
+<th>(…Incorrigible! Where did this intense air come from!?)</th>
 
 <th>(The audience is acting bizarre. It doesn’t feel as though they’ve gone crazy with intoxication from watching our performance—)</th>
 
@@ -278,7 +278,7 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(They keep screaming “kill them,” “viva la revolution,” and the like… This is no longer an idol performance, this may as well be a rally for war.)</th>
 
-<th>(… There was a strange atmosphere to this live show before it had even begun.)</th>
+<th>(…There was a strange atmosphere to this live show before it had even begun.)</th>
 
 <th>(All I needed to do was make it obvious that we defeated and subdued Shinkai Kanata of the Five Eccentrics.)</th>
 
@@ -356,7 +356,7 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(Something isn’t right here… It’s as if they’re going through mass hysteria — like swathes of people raging over the injustice done to them, just before heading into war.)</th>
 
-<th>(… That reminds me — my parents were mumbling their words for once—)</th>
+<th>(…That reminds me — my parents were mumbling their words for once—)</th>
 
 <th>(But I could hear them saying something about the legend of this land… That the evil within the meteorite had amplified the negative emotions of the people.)</th>
 
@@ -904,7 +904,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-<th>(… Mm. The air changed slightly ever since Kanzaki came rushing in here.)</th>
+<th>(…Mm. The air changed slightly ever since Kanzaki came rushing in here.)</th>
 
 <th>(Actually— I believe what changed here is not the frenzied audience, but my own mindset.)</th>
 
@@ -1104,7 +1104,7 @@ You don’t need to yell it so loud — I’ve *always* known you were a real co
 
 <th>(All those raised fists will turn towards you instead.)</th>
 
-<th>(… Hm, then I guess I’ve got no other choice. If that’s what they’re gonna do, then I just gotta protect ya.)</th>
+<th>(…Hm, then I guess I’ve got no other choice. If that’s what they’re gonna do, then I just gotta protect ya.)</th>
 
 <th>(I’ll make sure of it this time— I’ll protect my treasured friend in a respectable way—without a single shred of violence.)</th>
 
@@ -1154,7 +1154,7 @@ Hasumi.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch33_2.jpg %}
 {% bubble Keito v2 cg %}
-<th>(… There’s no need for you to bear the brunt of their malice any longer.)</th>
+<th>(…There’s no need for you to bear the brunt of their malice any longer.)</th>
 
 <th>(Yumenosaki is acting bizarre right now — at this point, the mobs of students might be driven to annihilate you out of sheer fury.)</th>
 

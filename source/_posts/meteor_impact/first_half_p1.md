@@ -82,7 +82,7 @@ Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never 
 
 …………
 
-<th>(… It’s too scary! I’m trying to shake off my fear with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)</th>
+<th>(…It’s too scary! I’m trying to shake off my fear with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)</th>
 
 <th>(Uuu… Just the thought of the school at the dead of the night is terrifying enough…)</th>
 
@@ -146,7 +146,7 @@ U-Um, hellooo…? I-Is there someone… out there…?
 
 …………
 
-<th>(… N-No response. Of course there wouldn’t be.)</th>
+<th>(…N-No response. Of course there wouldn’t be.)</th>
 
 <th>(No one in our school is enthusiastic enough to practice past schooltime, and the teacher currently on duty isn’t that serious about their job, either.)</th>
 
@@ -166,7 +166,7 @@ U-Um, hellooo…? I-Is there someone… out there…?
 {% bubble Chiaki pastworried %}
 …!?
 
-<th>(… Huh!? W-What!? Somebody’s collapsed within the sludge!)</th>
+<th>(…Huh!? W-What!? Somebody’s collapsed within the sludge!)</th>
 
 <th>(He’s soaking in it! I-Is he dead!? No, no! He spoke just now, didn’t he…!?)</th>
 
@@ -309,7 +309,7 @@ where can i get one? or do i need to Buy it with Money from some place?
 {% endbubble %}
 
 {% bubble Chiaki pastworried %}
-<th>(… What’s he talking about!? Does he really not know the concept of parents…!? No, no! There’s no way that could be true, right…?)</th>
+<th>(…What’s he talking about!? Does he really not know the concept of parents…!? No, no! There’s no way that could be true, right…?)</th>
 
 <th>(No, wait… He might have a complicated family situation.)</th>
 
@@ -1342,7 +1342,7 @@ i will not become ill, as i am a God. in fact, i should be the one to Heal the i
 
 <th>(Well… He talks to me with a smile on his face, which is a lot better than how everyone in Ryuseitai treats me… so I think we could still be friends.)</th>
 
-<th>(… No, acting like I could be friends with a child prodigy… That would be pretentious of me, wouldn’t it… )</th>
+<th>(…No, acting like I could be friends with a child prodigy… That would be pretentious of me, wouldn’t it… )</th>
 {% endbubble %}
 
 {% bubble Kanata past %}

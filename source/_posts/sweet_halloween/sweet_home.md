@@ -98,9 +98,9 @@ This is a sleepover party between three units: MaM, Ryuseitai, and Ra*bits!
 {% endbubble %}
 
 {% bubble Madara %}
-Did you just say “sleepover party”? I guess there isn’t really any other way to put it, but…
+Did you just say “sleepover party”? I guess there isn’t really any other way to put it, buuut…
 
-It doesn’t really feel like we’re here for work when you say that, so how about calling it a training camp instead?
+It doesn’t really feel like we’re here for work when you say that, sooo how about calling it a training camp instead?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -128,15 +128,17 @@ I mean, we *can* get them fixed if they tear, and there are spares for everyone,
 {% endbubble %}
 
 {% bubble Shinobu %}
-Huh? But you said we do not need to worry so much about money. The school is covering all our expenses for us, correct?
+Huh? But you said we do not need to worry so much about money, did you not?
+
+The school is covering all our expenses for us, correct?
 {% endbubble %}
 
 {% bubble Chiaki %}
-That’s exactly why it’d be wrong of us to make them overspend for us.
+That’s exactly why it’d be wrong of us to make them overspend for us, right?
 
 Besides, we’ll be wearing these outfits all throughout this sleepover par— this training camp, so it’ll end up biting us in the rear if we ruin them.
 
-Think about it: if you accidentally spill some milk on yourself right on the first day, then you’d have to sleep with the stench later on.
+Think about it: if you accidentally spill some milk on yourself right on the first day, then you’d have the stench on you for the rest of the day.
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -156,13 +158,13 @@ Gfhbf—!? Oww—I hit my fwace!
 {% endbubble %}
 
 {% bubble Madara %}
-Are you okay!?
+Are you okaaay!?
 
-You tripped on your pants… You’re like a little kid, Nazuna-san~♪
+You tripped on your pants… You’re like a liiittle kid, Nazuna-san~♪
 {% endbubble %}
 
 {% bubble Nazuna %}
-Shut it. Uugh… I guess I could just roll my pants up if there isn’t anything smaller than this…
+Shut it. Uuu\~… I guess I could just roll my pants up if there isn’t anything smaller than this…
 
 It’s really unusual for something prepared by Anzu to be like this… Did she get my size wrong?
 {% endbubble %}
@@ -170,7 +172,7 @@ It’s really unusual for something prepared by Anzu to be like this… Did she 
 {% img /img/es/eventstory/sweethalloween/sweethome1_2.jpg %}
 
 {% bubble Mitsuru %}
-Nii~chan, Nii~chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
+Nii\~chan, Nii\~chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -190,19 +192,19 @@ Woah—!! Mitsuru, stop! Don’t tug on my pants!! My underwear’ll be seen!
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, we’re always changing together, so there’s no need to be shy all of a sudden.
+Heheh, we’re always changing together, so there’s no need to be shy all of a sudden.
 
 Ah— It’s true, there’s something written on the tag.
 
-Hmm… Hrnn… I can’t see it very well.
+Hmm… Mm~… I can’t see it very well.
 {% endbubble %}
 
 {% bubble Tomoya %}
-H-Hajime! Could you please not peek? This isn’t like when we’re changing clothes— It’s just plain embarrassing! Hey—! Seriously, quit staring like that!
+H-Hajime! Could you please not peek? This isn’t like when we’re changing clothes — It’s just plain embarrassing! Hey—! Seriously, quit staring like that!
 {% endbubble %}
 
 {% bubble Hajime %}
-I-I’m sorry.
+I-I’m so sorry.
 
 Um… I didn’t see your name written. For some reason, it had a yellow bunny drawn on it instead.
 

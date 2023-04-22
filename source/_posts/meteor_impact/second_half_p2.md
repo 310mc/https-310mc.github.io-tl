@@ -541,7 +541,7 @@ Kanzaki, don’t you *dare* show your face to me ever again. I’m through with 
 {% bubble Keito v2 %}
 ……
 
-…*<th>(exhales)</th>,* he’s gone.
+<em>…<th>(exhales)</th>,</em> he’s gone.
 {% endbubble %}
 
 {% bubble Kuro past %}
@@ -677,7 +677,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(I hate it! It’s just vile! Everything my beloved heroes spoke of is being misunderstood and twisted! It’s being used as justification to bully others!)</th>
 
-<th>(… At least, that’s how it feels. I’m not sure anymore.)</th>
+<th>(…At least, that’s how it feels. I’m not sure anymore.)</th>
 
 <th>(What is justice? What is a hero? Why am I…?)</th>
 
@@ -685,7 +685,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch16_2.jpg %}
 {% bubble Chiaki pastsad %}
-<th>(… Haha. I bear the same crime as all of them — all I do is criticise them, yet do nothing myself.)</th>
+<th>(…Haha. I bear the same crime as all of them — all I do is criticise them, yet do nothing myself.)</th>
 
 <th>(To let bullying happen is the same as joining in that bullying.)</th>
 
@@ -704,7 +704,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 {% bubble Chiaki pastsad %}
 <th>(……)</th>
 
-<th>(… This morning, I made eye contact with Shinkai-kun.)</th>
+<th>(…This morning, I made eye contact with Shinkai-kun.)</th>
 
 <th>(He was bathing in the fountain again, even though it’s getting so cold now.)</th>
 
@@ -718,7 +718,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(Even though you can’t even grant wishes! You aren’t some God, you’re just a human being!)</th>
 
-<th>(… Lately, I’ve been hearing a rumor — that he can no longer grant any wishes.)</th>
+<th>(…Lately, I’ve been hearing a rumor — that he can no longer grant any wishes.)</th>
 
 <th>(Apparently, there’s still the Yaobikuni people who tell their wishes to him, but they’re never granted. It’s all over the school social media.)</th>
 
@@ -757,7 +757,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 {% img /img/es/eventstory/meteorimpact/secondhalfch16.jpg %}
 
 {% bubble Chiaki pastsad %}
-<th>(… But wouldn’t that be a good thing?)</th>
+<th>(…But wouldn’t that be a good thing?)</th>
 
 <th>(Mikejima-san said that he *should* become a human — that he wanted him to live as a human, and not a God…)</th>
 
@@ -1169,7 +1169,7 @@ But I'm super annoyed, so let me just say this.
 {% bubble Chiaki pastcg %}
 ……
 
-<th>(… Oh… I can’t move… I feel like something precious inside me broke apart…)</th>
+<th>(…Oh… I can’t move… I feel like something precious inside me broke apart…)</th>
 
 <th>(I’ve been whining to myself in my head how depressed I felt, but I think I’m feeling the real thing this time…)</th>
 
@@ -1177,7 +1177,7 @@ But I'm super annoyed, so let me just say this.
 
 <th>(I can’t even move my fingers… I have no will to continue living…)</th>
 
-<th>(… No, I can’t. I can’t be sucked into this dark hole.)</th>
+<th>(…No, I can’t. I can’t be sucked into this dark hole.)</th>
 
 <th>(Hang in there, Chiaki. Don’t lose now, Chiaki.)</th>
 
@@ -1203,7 +1203,7 @@ U-Uunhh… uuuuu… *<th>(sobbing)</th>*
 
 <th>(A positive, energetic song that sings about justice with a reassuring tone… It gave me courage whenever I, a timid crybaby, heard it—)</th>
 
-<th>(… No, wait! That means my phone is ringing! How did I not realize…! I have to answer it!)</th>
+<th>(…No, wait! That means my phone is ringing! How did I not realize…! I have to answer it!)</th>
 
 <th>(Urmm…? Who’s it from? I don't have this number saved.)</th>
 
@@ -1282,7 +1282,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 <th>(I guess that proves just how attentive and interested everyone in school is to see the live show for defeating the Five Eccentrics.)</th>
 
-<th>(… If Shinkai-kun’s planning to participate in that “Battle versus the Sea God” performance, I doubt he’d be at the ocean…)</th>
+<th>(…If Shinkai-kun’s planning to participate in that “Battle versus the Sea God” performance, I doubt he’d be at the ocean…)</th>
 
 <th>(I mean, apparently he accepted the challenge immediately.)</th>
 
@@ -1296,7 +1296,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 {% img /img/es/eventstory/meteorimpact/secondhalfch19_3.jpg %}
 
 {% bubble Chiaki pastserious %}
-<th>(… It’s fine to think of you as a comrade, right, Mikejima-san?)</th>
+<th>(…It’s fine to think of you as a comrade, right, Mikejima-san?)</th>
 
 <th>(You were the only one in Ryuseitai other than me who worked as an idol properly, even when the unit was only getting corrupted further!)</th>
 
@@ -1348,7 +1348,7 @@ Shinkai-kun! Respond if you hear me! Are you okaaaaayyy!?
 
 Haaaah—!
 
-<th>(… Guh! The waves are too strong, I can’t swim properly!)</th>
+<th>(…Guh! The waves are too strong, I can’t swim properly!)</th>
 
 <th>(But! A human’s life is in danger! I can’t fall back now!)</th>
 
@@ -1508,7 +1508,7 @@ it’s so hot, i feel like i could melt…
 {% img /img/es/eventstory/meteorimpact/secondhalfch21.jpg %}
 
 {% bubble Chiaki pastserious %}
-<th>(… This kid—)</th>
+<th>(…This kid—)</th>
 
 <th>(Has never been hugged by anyone before…?)</th>
 
@@ -1520,7 +1520,7 @@ it’s so hot, i feel like i could melt…
 
 <th>(Then it must be this. And if there is evil, then there might be justice, too.)</th>
 
-<th>(… Can I really become a hero of justice…?)</th>
+<th>(…Can I really become a hero of justice…?)</th>
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
@@ -1623,7 +1623,7 @@ so everyone tried a different Method.
 Different… method…?
 {% endbubble %}
 
-{% bubble Kanata pastsmiled %}
+{% bubble Kanata pastsmile %}
 yes. first, they tore the Sacrifice to pieces.
 {% endbubble %}
 
@@ -1668,7 +1668,7 @@ a happy ending.
 {% endbubble %}
 
 {% bubble Chiaki pastserious %}
-<th>(… It’s probably just a fairytale, but…)</th>
+<th>(…It’s probably just a fairytale, but…)</th>
 
 <th>(If I try really hard to interpret this story rationally— Let’s say, you didn’t become infected by the disease thanks to a skilled doctor…)</th>
 
@@ -1835,7 +1835,7 @@ But he couldn’t accomplish it, so he failed… He was completely defeated by s
 
 <th>(You could become a hero no matter when.)</th>
 
-<th>(… I really *do* still want to become one…)</th>
+<th>(…I really *do* still want to become one…)</th>
 
 <th>(I mean, he said he was feeling lonely. He doesn’t seem to know what that word really means, yet…)</th>
 
@@ -1843,7 +1843,7 @@ But he couldn’t accomplish it, so he failed… He was completely defeated by s
 
 <th>(He’s exactly the same as I was — when I was young, all alone, coughing in my hospital bed—when I knew nothing, not even why I was suffering…)</th>
 
-<th>(… and I want to become that hero — the same ones from TV that gave my younger self hope!)</th>
+<th>(…and I want to become that hero — the same ones from TV that gave my younger self hope!)</th>
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -2332,7 +2332,7 @@ a Meteorite is no Joke to us, you know?
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-…*<th>(glares)</th>*
+<em>…<th>(glares)</th></em>
 {% endbubble %}
 
 {% bubble Madara hidden %}
