@@ -797,6 +797,40 @@ Past Stories
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_sigh.png");
 }
 
+[character="Arashi"][angry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_angry.png");
+}
+[character="Arashi"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_awkward.png");
+}
+[character="Arashi"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_curious.png");
+}
+[character="Arashi"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_frown.png");
+}
+[character="Arashi"][sad] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sad.png");
+}
+[character="Arashi"][sad2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sad2.png");
+}
+[character="Arashi"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_serious.png");
+}
+[character="Arashi"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_smile.png");
+}
+[character="Arashi"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_surprised.png");
+}
+[character="Arashi"][thinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_thinking.png");
+}
+[character="Arashi"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_worried.png");
+}
+
 [character="Mayoi"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mayoi2.png");
 }

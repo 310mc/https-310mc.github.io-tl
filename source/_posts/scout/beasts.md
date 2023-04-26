@@ -441,7 +441,7 @@ Mmgh… This blanket stinks like a guy…
 
 {% img /img/es/scoutstory/beasts/2_1.jpg %}
 
-{% bubble Arashi %}
+{% bubble Arashi frown %}
 …………
 {% endbubble %}
 
@@ -1307,11 +1307,11 @@ The point is, you apologized to me properly, without a care for your clothes… 
 So Tetora-kun… Lift your head up. It’s true that I was a little hurt, but I’m alright now.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora cry %}
 *…<th>(sobs)</th>*
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi frown %}
 Oh my, you’re crying really hard. Stay still; I’ll wipe your tears off with a handkerchief.
 {% endbubble %}
 
