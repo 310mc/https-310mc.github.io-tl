@@ -90,51 +90,53 @@ Ossu! Nagumo Tetora, Takamine Midori, Sengoku Shinobu — We, Ryuseitai, have ar
 We're in your care today, Trickstar-senpais~!
 {% endbubble %}
 
-{% bubble Midori %}
-…’scuse me…
+{% bubble Midori curious %}
+…'scuse me…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Y-You have to properly greet them, Midori-kun!
 {% endbubble %}
 
 {% bubble Tetora %}
-So do you, Sengoku-kun! They’re gonna be leading us, so we gotta be polite. Karate starts with a bow and ends with a bow! ♪
+So do you, Sengoku-kun! They’re gonna be guiding us, so we gotta be polite. Karate starts with a bow and ends with a bow! ♪
 {% endbubble %}
 
 {% bubble Midori %}
 Carrot-y?[^1] Wait, why're you suddenly acting as our leader, Tetora-kun?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised %}
 Wha—? Uhh, I thought you two were bad at stuff like this, sooo…?
+{% endbubble %}
 
+{% bubble Tetora %}
 If you wanna be the temporary leader, then feel free, Midori-kun~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori shocked %}
 No, no, no way, nooo way… You're just fine for it…
 
-Morisawa-senpai said something about how you should be the one to take that role whenever he's not around, didn’t he?
+Didn’t Morisawa-senpai say something about entrusting that role to you whenever he's not around…?
 {% endbubble %}
 
-{% bubble Tetora %}
-Well he didn't actually really *say* it to me, but yeah…
+{% bubble Tetora awkward %}
+……Well, he didn't actually clearly *say* that to me, though…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu curious %}
 Umm, guys… I don't see any of our Trickstar seniors here.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised2 %}
 Whaaa!? You're right! Did we get the meeting place wrong?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Huh!? We already messed up? W-What do we do…?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu thinking %}
 Hmm… I know Isara-dono and Yuuki-dono's phone numbers, so I will ask one of them.
 {% endbubble %}
 
@@ -142,7 +144,7 @@ Hmm… I know Isara-dono and Yuuki-dono's phone numbers, so I will ask one of th
 Sengoku-kun, I thought you were like me and had no friends, but you actually know quite a few people, huh…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu grin %}
 Nihihi, ever since I joined this school, I have gotten to know more people, and make friends~♪
 
 Ah, he picked up! Hello, Yuuki-dono? It is I, Sengoku Shinobu~!
@@ -152,7 +154,7 @@ Ah, he picked up! Hello, Yuuki-dono? It is I, Sengoku Shinobu~!
 Yes yes, hellooo~! ♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Nwoh!? A response from behind!? Who…!?
 {% endbubble %}
 
@@ -160,7 +162,7 @@ Nwoh!? A response from behind!? Who…!?
 It's me! Sorry for making you call us. Were you guys worried because we weren't here yet? We’re wasting phone credit, so I’m hanging up, okay?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Ah! Yes! Please do as you like…!!
 {% endbubble %}
 
@@ -172,7 +174,7 @@ Ahaha, you seem nervous. I feel you~ I'm super nervous about this, too.
 Yuuki, don't stop in the doorway. I can't get inside.
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto awkward %}
 Ah, sorry. I never pay enough attention…
 {% endbubble %}
 
@@ -188,19 +190,19 @@ That’s okay, but you could've told us… It looks really heavy, so let me help
 Thankies~! ☆ You’re a lifesaver! Let me praise you! Well done! ♪ <em><th>(pat, pat)</th></em>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised %}
 Wawa— Don't just let go of the thing!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 <th>(I-It's lively all of a sudden… I feel really awkward whenever it’s like this…)</th>
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Midori-kun, Midori-kun, we should help carry their equipment! You are good at stuff like that, are you not?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 Y-Yeah… But today we were only planning to introduce ourselves to each other, and then decide what to do next, right…? Are we gonna use this stuff for practice right now…?
 
 Nobody told me about this…
@@ -210,7 +212,7 @@ Nobody told me about this…
 What're you mumbling about, Takamin?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Eeep! Don't sneak behind me for no reason! Also, could you please not call me “Takamin”…?
 {% endbubble %}
 
@@ -218,7 +220,7 @@ Eeep! Don't sneak behind me for no reason! Also, could you please not call me �
 Huh? I can't? But nicknames make us feel close, right?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 But we aren’t really that close, are we…?
 {% endbubble %}
 
@@ -230,7 +232,7 @@ Right, we've carried it all inside. We'll go over everything right now, so gathe
 Ossu! Ahaha, things are getting hectic here, huh? I guess we’re not the only unit who doesn’t do things properly.
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto worried %}
 C-Crap, this is bad, Hidaka-kun! He just said we're not doing things properly!!
 {% endbubble %}
 
@@ -244,7 +246,7 @@ Ah, no, I didn't mean it that way. I meant that we're pretty similar, so it feel
 Right, Midori-kun?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh2 %}
 Why're you asking me… Don't mind me, just keep talking on your own…
 {% endbubble %}
 
@@ -254,7 +256,7 @@ Alright then. Let me introduce myself again: I'm the leader of Trickstar, Hidaka
 I'm the one with the highest position here, so I'll be leading these joint practice sessions.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Huh? Whaddya mean highest position? We're equals, aren't we?
 {% endbubble %}
 
@@ -276,17 +278,17 @@ But she had to leave after getting a sudden call from the Student Council…
 Oh, and Sally~ is busy with Student Council stuff on-site, so he said he’ll be late.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 Oh right, Taichou— I mean, Morisawa-senpai won’t be here either since he's sick, and we dunno where Shinkai-senpai is.
 
 Also, who's “Sally~”? I can't tell from that nickname.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 Isn't it Isara-senpai…? Akehoshi-senpai calls him that during basketball practice…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu thinking2 %}
 Hm, so Isara-dono will be late… That is a shame — he would have set us all at ease just by being here.
 {% endbubble %}
 
@@ -318,7 +320,7 @@ I hope we can support each other in order to do our best at the Tanabata Festiva
 Ah! And we'll introduce Sally\~ to you guys once he's here! Takamin already knows him well, though\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking2 %}
 Ah, no… I haven't really talked to him that much, so I don't really know him well, but… he seems like a good, kind person to me…
 
 Like, he seems to be someone I can have an actual conversation with, unlike you and Morisawa-senpai…
@@ -328,47 +330,51 @@ Like, he seems to be someone I can have an actual conversation with, unlike you 
 Whaa\~? Don't put me together with Chi\~chan-senpai! We can talk to each other properly, too! Let's get along! Handshake\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried2 %}
 Ughh… I knew it, this guy’s also the pushy type…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu thinking2 %}
 <th>(Mmm… I also know Isara-dono very well, but I suppose there is no need to point that out right now…)</th>
 
 <th>(I love Isara-dono, but I do not know how he feels about me…)</th>
-
-<th>(I'll feel bad if I act like he and I are close…)</th>
-
-<th>(He is probably kind to anyone, and gets along well with everyone. It is not that I am special or anything.)</th>
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Shinobu frown %}
+<th>(I'll feel bad if I act like he and I are close…)</th>
+
+<th>(Isara-dono is likely kind to anyone, and gets along well with everyone. It is not that I am special or anything.)</th>
+{% endbubble %}
+
+{% bubble Midori curious %}
 …Sengoku-kun? What’s wrong? Are you not feeling well?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Huh? No no, I am always feeling just fine! ♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 You sure? It's easy to get a cold nowadays, so be careful, okay…?
+{% endbubble %}
 
+{% bubble Midori sigh2 %}
 Morisawa-senpai's always touchy-feely with us, so I bet he's got all kinds of germs on him…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Ah, no, he doesn't do that to me as much as he does to you, so I am probably okay!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh3 %}
 Why's he always so clingy with me… It's seriously a huge pain…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Ahaha, that's 'cause he always hugs the least energetic person he sees.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 Umm… Could we not chit-chat, please…? Let's do this properly.
 {% endbubble %}
 
@@ -384,11 +390,11 @@ Ah, you don't have to call me by “-kun”!
 No, it feels wrong to talk and act superior to kids I don't know well.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Ahaha, even though you always act that way to just about anyone! ♪
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto frown %}
 Shut it. Anyway, let's first talk about our plans. Ahh man, why did it take us so long to reach this point?
 
 Regardless, the Tanabata Festival is happening in a week, so we're going to be working towards it. We'll do our best there, and produce results.
@@ -418,13 +424,13 @@ If there's anything you're struggling with in your performance, ask us about it.
 We'll guide you as best as we can, as your seniors… Heh~♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised %}
 Huh!? W-Wait, hold on! This is completely different from what we thought… Like, I feel as though we're not on the same page…?
 
 Aren't we gonna do a joint live for the event?
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto serious %}
 …? Joint? I suppose you could call it that. We *are* going to be on the same stage, after all.
 
 However, in Tanabata Festival, units come on stage to compete against each other.
@@ -434,7 +440,7 @@ If both of us were on stage at the same time, we’d be opponents.
 That's how it is… right, Yuuki?
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto surprised %}
 Huh? Why are you asking me?
 {% endbubble %}
 
@@ -442,41 +448,43 @@ Huh? Why are you asking me?
 You're always thinking about things, unlike Akehoshi, so knowing your opinion would be handy.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Hokke~, can’t you open your mouth *once* without picking a fight with me?
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto awkward %}
 Let’s stay calm now… What Hidaka-kun said about Tanabata Festival is true, yes.
 
 Two units take up the stage together, and compete in a performance battle.
 
 The winning unit stays on, and the losing unit has to leave. Basically, if you win, you get to perform again.
+{% endbubble %}
 
+{% bubble Makoto %}
 So I'm guessing you guys haven’t read up on the event?
 
 You never know what could come up next, so you need to check the bulletin board more often, you know?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown3 %}
 Ack… Taichou'd always explain everything we need to know, so I didn't think of doin' that… I'm sorry, I'll do better next time.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 Yeah… I thought we could just ask about it once we were here… But, right… Morisawa-senpai's sick, so he’s not here to tell us…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Ah! I knew such things about the event, though!
 
 I helped Isara-dono and Anzu-dono on the plans by gathering necessary materials for them, you see.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora angry4 %}
 Oh? Really? Then you should've told us earlier!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 I-I apologize. I did not expect anyone not to know about it, and nobody asked me about it, either…
 {% endbubble %}
 
@@ -498,31 +506,33 @@ Still, does that mean you haven’t decided on what you'll do for the Tanabata F
 There’s not much time left… It's too late to prepare your performance plans or outfits, even.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Seriously! What were you guys doing? Were you just sleeping?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad2 %}
 Nghh… If we had to have an excuse, we really thought this'd be a joint live with Trickstar, and thought our programs for the event would be the same, too…
 
 Our joint lives have always been that way… I thought we just had to do the best we could with whatever we’re told, just like we always do…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 Hmm? Is Ryuseitai really always like that, Takamin?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Huh—? Yeah, basically… Morisawa-senpai would always show us what to do and guide us through practically everything…
 
 Like, it’s as if he’s just dragging us into whatever he’s planned…
+{% endbubble %}
 
+{% bubble Midori thinking2 %}
 We do throw our complaints and opinions in there sometimes, but well… I mean, we do basically end up properly performing as idols thanks to that, I guess…?
 
 So, yeah… It's always like that…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru frown %}
 Huh… So you're basically kids who've been protected way too much.
 
 I'm starting to feel that bad part about Chi~chan-senpai right now… He spoils you *way* too much. You guys are like those people who just went with the flow before we did our revolution.
@@ -530,11 +540,11 @@ I'm starting to feel that bad part about Chi~chan-senpai right now… He spoils 
 I don't really wanna work with people like that.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 …………
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto angry %}
 Hey! Akehoshi! Don't start scolding them! We didn’t know left from right when we were first years either, and just went with the flow.
 
 When you're still a novice, it's necessary to ask for instructions, and do exactly as you're told.
@@ -542,7 +552,7 @@ When you're still a novice, it's necessary to ask for instructions, and do exact
 It's not too late to start learning independence *after* you've been taught the basics.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru serious %}
 It *is* too late. When I was a first year, I tried to plan out the things I wanted to do, and worked hard on them all on my own. I found jobs, and did the best I could alone.
 
 That way, I got results, and started getting rewarded.
@@ -550,27 +560,31 @@ That way, I got results, and started getting rewarded.
 I acted like a proper idol — 'cause I *wanted* to become one.
 
 Isn’t that why we're all in this school?
+{% endbubble %}
 
+{% bubble Subaru angry3 %}
 But these kids don't seem that way. I can’t stand it.
 
 That's right… Takamin, you took the idol course entrance exam by accident, right?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 Ah— Um, yes… and then I passed it for some reason…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru sideeye %}
 That so. It means you’ve got the talent. Must be really hard on you to have all those extra intestines dangling out of you, huh?[^2]
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto shocked %}
 H-Hey, Akehoshi… I don't understand — Why are you getting angry all of a sudden?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 Um, did we do somethin' upsetting…?
+{% endbubble %}
 
+{% bubble Tetora sad2 %}
 You’re right, we didn't think ‘bout this properly. We relied on Taichou way too much, and never thought 'bout it on our own.
 
 I really do wanna do better this time, and I’ll never let this happen ever again, so please forgive us.
@@ -578,11 +592,11 @@ I really do wanna do better this time, and I’ll never let this happen ever aga
 
 {% img /img/es/eventstory/orihimeandhikoboshi/subaruorigcg.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad2 %}
 Please, *please* forgive us.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry %}
 …Um, bowing your head down won't change anything.
 
 Ryuseitai, you should just go home for today.
@@ -592,11 +606,11 @@ Even if you stay here, it's not like you have anything you could do… We'll mee
 Think up something you guys wanna perform. If you don't at least know *that*, then there's nothing we could do for you, so please.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad3 %}
 ……………
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru frown %}
 Mm\~… This is completely different to what Chi\~chan-senpai told me…
 
 He kept telling me about how happy he is, that they've started to give him their opinions, and ideas on what they wanna do…
@@ -604,7 +618,9 @@ He kept telling me about how happy he is, that they've started to give him their
 So I thought they’d have all sorts of ideas up their sleeves this time, too… so many that we wouldn’t even know how to help them…
 
 I was even worried if I could guide them properly or not, but… I got anxious over literally nothing. Ahh, man…
+{% endbubble %}
 
+{% bubble Subaru %}
 Well, whatever. Let's start our own practice, Hokke~! There's not much left 'til the event, so we can't waste any more time!
 
 Let's send our own shine to the whole world~!☆

@@ -96,7 +96,7 @@ Hey, hey Sally~ If you don’t plan on drinking that, then give it to me! I'm fe
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_2.jpg %}
 
-{% bubble Mao %}
+{% bubble Mao angry2 %}
 Okay sure, but. Could you pay attention to our captain?
 {% endbubble %}
 
@@ -104,7 +104,7 @@ Okay sure, but. Could you pay attention to our captain?
 I am, though~! I’m distracting him, and then while I hide the ball behind me… I shoot a goal from the back! ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smug2 %}
 How naïve of you, Akehoshi! I see you tried to play your trump card, but you can’t get past me like that!
 
 It was still a very nice idea! I really thought you were ignoring me for a second there…!
@@ -114,15 +114,15 @@ It was still a very nice idea! I really thought you were ignoring me for a secon
 Woah, nice defense! You're not that tall, Buchou[^1], but you make up for it by being really good at jumping.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smug %}
 Heheh\~♪ Overcoming your weaknesses is what it means to be a hero\~☆
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru frown %}
 Tch, so it didn't work. And here I thought you had finally let your guard down now that we're almost done practicing.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Fuhaha! I'm always at a climax from start to end![^2] I'll always be charging to the very last moment!
 
 You won't get me with surprise attacks! I'm always taking a close look at how your muscles are moving!
@@ -130,19 +130,19 @@ You won't get me with surprise attacks! I'm always taking a close look at how yo
 I don't have to hug you to feel your breathing *or* your pulse! After all, you and I are unified as one~! ☆
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru worried2 %}
 Uh, that’s gross… Mmm~ I mean, I can't hide how my muscles move…
 
-Guess I still can't score a goal on you, huh…
+Guess I still can't score a goal on you, huh?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Of course not! I plan to be you guys' unsurpassable wall for the rest of my life!
 
 But I want you to keep trying harder and harder! And then, you’ll be able to fly higher than you could today! ☆
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao awkward %}
 Ahaha, whenever you're playing, you just get more and more hyper, Buchou…
 
 You don’t get tired at all, huh? I'm honestly envious, the heat’s already getting to me.
@@ -158,63 +158,65 @@ It was really tough… I’m glad it was approved in the end.
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_3.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori sigh %}
 Same here… I’m exhausted… I’m so tired of summer… I just wanna stay inside my room with the AC on all day…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 What's up, Takamine, what's wrong!? Why are you slouching in the corner there!? Did something sad happen to you? Alright, don't worry, I’ll share my energy with you! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Ack— You’re hot! It's not suffocating — it's literally like you're a burning hot pan…! Are you okay, Morisawa-senpai…? Do you have a fever…?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru serious %}
 Ahh… You *have* been acting and talking weirder than usual today.
 
 Are you forcing yourself to look okay when you're actually not? 'Cause it’s kinda failing.
 {% endbubble %}
 
-{% bubble Chiaki %}
-W-What are you guys on about…? I'm just fine! I’ll never let myself fall! Not until I bring back peace into our world!
+{% bubble Chiaki awkward %}
+W-What are you on about…? I'm just fine! I’ll never let myself fall! Not until I bring back peace into our world!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 There's nothing to bring back, though… It's been generally peaceful…
 
 The school felt dark and depressing back in spring, and I was stressed over how I might’ve messed up and joined the wrong school…
+{% endbubble %}
 
+{% bubble Midori smile2 %}
 But lately, it’s been calm and quiet… So I’ve been pretty happy…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Fuhaha! I see, I see! You too are a hero who loves peace! ☆
 
 I feel the same way Takaminee~! We’re the same! We're two hearts beating as one! Let's keep working hard together! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori shocked %}
 Ahh you're hot, you're insanely hot! Are you some heat power generator…!?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 …Are you really okay, Chi~chan-senpai?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Mm… Akehoshi, Isara, do you have time after this? I have something I need to ask of you.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao surprised %}
 Huh!? Where did this come from!? Please spare me from dealing with any problems…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 Ah, no. It's just something I don’t want Takamine to hear, so we'll talk about it in a café.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Wha…? What does that mean? Why am I being left out…?
 {% endbubble %}
 
@@ -222,11 +224,11 @@ Wha…? What does that mean? Why am I being left out…?
 Hey guys, look over here~! There’s a bully in the club!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki worried %}
 D-Don't say it like that, it makes me seem bad! I just want to talk about something only adults should know! It isn’t for kids to hear!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh2 %}
 Mm… Sounds even more suspicious now… But whatever… I don't really wanna be involved in any problems anyway…
 {% endbubble %}
 
@@ -242,7 +244,7 @@ Mm… Sounds even more suspicious now… But whatever… I don't really wanna be
     <p>A few hours later…</p>
 </div>
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 …So, what did you want to talk about?
 {% endbubble %}
 
@@ -252,11 +254,11 @@ Before that, you guys should order something! This café has authentic burgers a
 It’s my favorite place to eat at right now!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao awkward %}
 You like junk food like those, don't you… You’ll get pimples if you keep eating greasy food, y’know?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Fuhaha! That's completely okay! It's perfect for high schoolers! Pimples are the badges of youth! ☆
 {% endbubble %}
 
@@ -268,27 +270,29 @@ Yeah, but we're idols too, so I dunno about that~ Anyway, I wanna eat dinner at 
 Right, then I’ll get a dessert. It’s pretty hot, so ice-cream sounds good right now.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Okay, have you decided on what you want? I’ll call over a waiter! Excuse meee!! ☆
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy2_2.jpg %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry3 %}
 You're always so, so energetic… Seriously, what did you wanna talk about?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki idle %}
 Well, see… There’s something I really have to talk to you about—
+{% endbubble %}
 
+{% bubble Chiaki %}
 Oh wait, the waiter’s here. Let's quickly order first.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru frown %}
 This is all over the place… Meh, guess that’s just like you, though.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ahaha, yeah, and meanwhile people like Isara are really good at efficiently getting things done! It’s impressive! I should learn from him…! Life is all about learning! ☆
 
 Alright, now that we're done with our orders, it’s time to talk about this.
@@ -296,15 +300,15 @@ Alright, now that we're done with our orders, it’s time to talk about this.
 I want you, Trickstar, to take care of my juniors in Ryuseitai for a bit.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 Hweh? What do you mean?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sad3 %}
 Mm… You might've noticed by now, but my body hasn't been in good shape for a while… I’m going for a checkup at the doctor’s this weekend.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru shocked %}
 C-Checkup? You okay? Actually, wasn’t your health in a wreck around this time last year too…?
 {% endbubble %}
 
@@ -314,7 +318,9 @@ Yeah, so I'm having one as a precaution. Depending on the results, I may have to
 But I can't let my comrades rest during that time, too.
 
 It's a really crucial time for us right now — I can't make everyone stop in their tracks all because of me.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 Ryuseitai has been slowly matching pace with one another, and we've been performing well in DreamFes.
 
 I believe that we'll keep going higher and higher, so I couldn’t possibly let them fall back down now.
@@ -322,11 +328,11 @@ I believe that we'll keep going higher and higher, so I couldn’t possibly let 
 Other units have been getting more active too, so any careless step could put us behind.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao frown2 %}
 Ahh, we're going through the same thing… If we stop even for a moment, we'll be buried.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki serious %}
 Yeah. It's great that everyone’s getting more and more motivated, though. It's all thanks to the your accomplishments, Trickstar, so be proud of it.
 
 Still, that doesn't mean you'll always be treated special.
@@ -340,13 +346,15 @@ You aren't used to dealing with seniors and juniors for that same reason.
 It’s fine for it to be like that right now, but if you plan to get into the entertainment business, then you’ll be meeting all sorts of people.
 
 It's good to learn the tricks to success while you still can.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 Well… Isara can do anything and deal with matters pretty well no matter what, but I'm worried about you, Akehoshi.
 
 I love you, so I don't really mind how you treat me, but if you treated other seniors that way, you'd get kicked out.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru thinking %}
 Mm~… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
 
 We aren't used to the idea of working in a senior-junior hierarchy relationship for a job.
@@ -383,24 +391,26 @@ Subaru and I can't just decide what to do next on our own, after all.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yup, of course. I’ll wait to hear back from you.
+Yeah, of course. I’ll wait to hear back from you guys, Isara.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru curious %}
 …Huh? Wait, isn’t there another third year in Ryuseitai?
 
 Shinkai-senpai, is it…? Couldn't you ask him to guide the first years?
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 Ohh yeah, true. You don't need us for this, do you…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 Mmm… Kanata doesn’t seem used to dealing with the first years either, and he's busy during summer — circumstances with his home, you see…
 
 So I'm not sure if he could do it.
+{% endbubble %}
 
+{% bubble Chiaki %}
 But yeah… I'll tell Kanata about it. If he joins in with your activities, I want you guys to lead them together with him.
 
 The thing is, he can be harder to deal with than the first years if you mess up… But I guess you’d get to practice dealing with a troublesome senior too…?
@@ -604,7 +614,9 @@ But hey, there’s nothing wrong with the drinks, so let’s be thankful we have
 Let’s keep at this — it may be rough work, but it’s all so that we can shine onstage in Tanabata Festival.
 
 Ahaha, yeah! Hip-hip-hooray~! ♪
+{% endbubble %}
 
+{% bubble Mao awkward %}
 <th>(Whew… I'm so glad to see that the Student Council members are listening to what I say.)</th>
 
 <th>(I’m a member of Trickstar, after all… We’re the ones who broke the Student Council’s influence.)</th>
@@ -616,7 +628,9 @@ Ahaha, yeah! Hip-hip-hooray~! ♪
 <th>(So they still accept me as another member, and I somehow got to stay in the Student Council.)</th>
 
 <th>(To be honest, I would just get to focus more on my idol work if they *did* kick me out, so that wouldn’t have been a problem either.)</th>
+{% endbubble %}
 
+{% bubble Mao %}
 <th>(But the Prez and Vice-Prez are working as hard as they can, which is helping the Student Council gain back its power.)</th>
 
 <th>(So, considering what could come next, I should keep at it with this “Student Council Member” title, anyway.)</th>
@@ -630,35 +644,35 @@ Ahaha, yeah! Hip-hip-hooray~! ♪
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_2.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Isara-donoo~!!!
 {% endbubble %}
 
-{% bubble Mao %}
-Aahh!? W-what's wrong, Sengoku? Do you need something?
+{% bubble Mao surprised %}
+Aahh!? W-What's wrong, Sengoku? Do you need something?
 
 Sorry, I couldn't show up to practice in the end… Preparations for the event are taking much more time than I thought they would.
 
 I don't think I’ll be able to join you guys for a while, so you’ll have to do without me.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 I-It is not possible without you…!
 
 The practice session’s starting to look super bad! I apologize for interrupting your work, but please come with me!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao worried %}
 W-woah, don't pull me over! Tell me what's happening first!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu angry %}
 Uuu…!!! I am a ninja who is bad at explanations…!
 
 “One eyewitness is better than many hearsays,” so! I beg thee, lend your ear to my plea! Come see for yourself, please!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao surprised %}
 I-I get it already, so calm down! Don’t drag me over! You’ll dislocate my arm!
 
 Y-You guys! I’m not sure what’s happening over there, but it seems urgent, so I’m gonna have to leave for a bit!
@@ -674,7 +688,7 @@ Sorry! I'll make it up to you guys later, so I’m counting on you now!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy4_3.jpg %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 Uh, I'm coming in…?
 
 What's going on, you guys? I was pulled over here by Sengoku all of a sudden… Could someone tell me what’s happening?
@@ -686,17 +700,19 @@ What's going on, you guys? I was pulled over here by Sengoku all of a sudden… 
 …………
 {% endbubble %}
 
-{% bubble Mao %}
-Woah! W-What's wrong, Takamine? Why are you hunched over in the corner there…?
+{% bubble Mao surprised %}
+Woah! W-What's wrong, Takamine? Why're you hunched over in the corner there…?
 {% endbubble %}
 
 {% bubble Midori pout %}
 <em><th>(mutter)</th></em> Why me… Why’d he have to go and tell me that… So annoying… This is why I didn't want this… <em><th>(mutter, mutter)</th></em>
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao shocked %}
 <th>(H-He's mumbling something! It's freaking me out!)</th>
+{% endbubble %}
 
+{% bubble Mao awkward %}
 S-Seriously, what's wrong, Takamine~? You're much gloomier than usual!
 
 Anzu told me on the phone but~ I’m guessing it's 'cause Buchou can’t be around for practice, yeah…?
@@ -708,7 +724,7 @@ You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't re
 …………
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao worried %}
 <th>(……!? He ignored me!? I was trying to crack jokes with him to lighten the mood, but it failed~!)</th>
 
 <th>(Really, though… I need to figure out what's going on. Why's it so gloomy in here?)</th>
