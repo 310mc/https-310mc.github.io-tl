@@ -1438,6 +1438,6 @@ Now, come on! Let me take you back home today, Anzu-san~♪ Accept me as your bu
 [^3]: He says *beppin* (beautiful lady) to describe his motorbike, so I made him refer to it with she/her.
 [^4]: “Buddy” is in katakana (so basically, in English), which is likely why Chiaki couldn’t tell what Madara meant at first.
 [^5]: He literally says: I showed it to her while saying “Look, look! It’s a drone beetle~♪”. I couldn’t put it in the translation without it being awkward, so I figured I could note it down here since it’s cute.
-[^6]: A reference to the mascot character that appears in [Pirate Festival](https://ensemble-stars.fandom.com/wiki/Pirate_Festival). It’s also in his [card](https://ensemble-stars.fandom.com/wiki/%28The_Heart%27s_Partner%29_Midori_Takamine) for this gacha story.
+[^6]: A reference to the mascot character that appears in <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a>. It’s also in his <a href="https://ensemble-stars.fandom.com/wiki/%28The_Heart%27s_Partner%29_Midori_Takamine" target="_blank">card</a> for this gacha story.
 [^7]: In Japanese, *kero* is the sound a frog makes, so the mascot character’s name is based on that.
-[^8]: You can see Shinobu holding his frogs in his [card](https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku).
+[^8]: You can see Shinobu holding his frogs in his <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">card</a>.

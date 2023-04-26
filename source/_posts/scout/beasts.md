@@ -1583,7 +1583,7 @@ Just like <em>her</em>. First things first: I gotta start learning to love that 
 
 ## Translation Notes
 [^1]: Originally, Ritsu says “You won’t get anywhere playing Shogi with an animal.”
-[^2]: Originally, Madara refers to his sister as a [Hikikomori](https://en.wikipedia.org/wiki/Hikikomori), which is a term to refer to people who are withdrawn from society, especially in public.
+[^2]: Originally, Madara refers to his sister as a <a href="https://en.wikipedia.org/wiki/Hikikomori" target="_blank">Hikikomori</a>, which is a term to refer to people who are withdrawn from society, especially in public.
 [^3]: Okama is a Japanese derogatory term used towards effeminate men.
 [^4]: Usually I translate 女々しい *memeshii* as sensitive/soft, but considering this story is related to gender, I decided it’d be best to keep it literal (the literal meaning is effeminate/like a girl).
 [^5]: “Reserved” in Japanese is lit. “watery,” hence why Ritsu mentions that vampires aren't good with running water.

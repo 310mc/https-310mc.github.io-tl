@@ -970,7 +970,7 @@ But… I really dunno what I gotta do to become an adult…
 {% btn /motor_show/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /motor_show,, star, Index %}{% btn /motor_show/muddy_road,, arrow-right, Next Chapter: Muddy Road %}</div>
 
 ## Translation Notes
-[^5]: [Kumite](https://en.wikipedia.org/wiki/Kumite), a karate term.
-[^6]: [Amaterasu](https://en.wikipedia.org/wiki/Amaterasu) is the goddess of the sun in Japanese mythology.
-[^7]: Taichou means captain/leader/commander. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
+[^5]: This is about <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">Kumite</a>, a karate term.
+[^6]: This is referring to <a href="https://en.wikipedia.org/wiki/Amaterasu" target="_blank">Amaterasu</a> is the goddess of the sun in Japanese mythology.
+[^7]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
 [^8]: A reference to Strawberry Colored Holiday.

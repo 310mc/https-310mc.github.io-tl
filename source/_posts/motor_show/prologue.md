@@ -196,5 +196,5 @@ Ahaha, things aren’t going well for the both of us, huh…♪
 ## Translation Notes
 [^1]: “Taishou” here refers to Kuro. Tetora calls him by this title out of respect. It means “chief”.
 [^2]: Hiiro originally says *gunpai*, a fan used in sumo wrestling matches to determine the winner.
-[^3]: Buchou means club captain/president.
+[^3]: “Buchou” means club captain/president.
 [^4]: Ryuseitai-N = Nagumo. Ryuseitai-M = Morisawa.

@@ -266,7 +266,5 @@ that was another thing that chiaki taught me. no… every valuable thing — it 
 
 ## Translation Notes
 [^1]: In Japan, it’s common to do an entire cleanup of your house or other before the new year begins.
-
 [^2]: Tetora says 水臭い for “reserved”, which has the water kanji in it, and Kanata jumps on it immediately. I tried to show that in the English translation, too.
-
 [^3]: This story is a great time to mention something about Kanata and the word “hero”: Kanata always talks in full hiragana (he turns katakana words to deformed hiragana spelling). The only word he always says in the correct way it’s spelt is “hero” (ヒーロー, in katakana).

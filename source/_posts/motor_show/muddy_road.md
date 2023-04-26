@@ -971,6 +971,6 @@ Ossu! Guess I gotta show off a more senior side of myself, huh? I’ll do what I
 {% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
-[^9]: A reference to [Climax](/climax).
-[^10]: Kuji is a series of hand signs ninjas tend to do. Here is an article on [kuji](https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/).
+[^9]: A reference to <a href="/climax" target="_blank">Climax</a>.
+[^10]: Kuji is a series of hand signs ninjas tend to do. Here is an article on <a href="https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/" target="_blank">kuji</a>.
 [^11]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
