@@ -86,7 +86,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
     <p>One week later, the day of Tanabata Festival…</p>
 </div>
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Fuhahahahaha!
 
 Sorry for making you wait, guys! Morisawa Chiaki has been revived in all his splendid glory! ☆
@@ -96,7 +96,7 @@ Sorry for making you wait, guys! Morisawa Chiaki has been revived in all his spl
 shinkai kanata has also been [revived], as an extra~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 You aren't an extra, Kanata! A star can't take shape if one section is missing!
 
 Each comrade is important and irreplaceable — the five of us together are Ryuseitai…!
@@ -106,23 +106,23 @@ Each comrade is important and irreplaceable — the five of us together are Ryus
 chiaki…! ☆ <em><th>(hugs him)</th></em>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Kanata…! ☆ <em><th>(hugs back)</th></em>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora shocked %}
 Sometimes you two act so close it's kinda gross…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 Yeah… It's really suffocating…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smile3 %}
 Ahaha, but I am relieved to see them back. Is your health alright now, Taichou-dono?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile3 %}
 Yep! No problems whatsoever! Actually, I’d already recovered a few days ago!
 
 But the doctor insisted that I rest, and refrain from making physical contact with anyone.
@@ -134,13 +134,15 @@ That’s why I had to be somewhere far from anyone, so I wouldn't spread it to a
 But then, they did another check up for me and confirmed I have no symptoms of the disease whatsoever, so don't worry! I've completely recovered! Sorry for leaving you all alone!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori yare %}
 No, it would've been way more bothersome if you came over while you were feeling sick…
-
-Anyway, I get why *you* weren’t around, but why didn't Shinkai-senpai show up…?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Midori curious %}
+Anyway, I get why Morisawa-senpai wasn’t around, but why didn't Shinkai-senpai show up…?
+{% endbubble %}
+
+{% bubble Kanata smile %}
 ufufu~ i am sorry, was it lonely?
 
 you see, chiaki kept trying to come and see you [three], no matter how many times people told him [not] to go…
@@ -148,7 +150,7 @@ you see, chiaki kept trying to come and see you [three], no matter how many time
 so i had no choice but to [abduct] and [confine] him.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised3 %}
 Uh— Huh!? What did you just say!?
 {% endbubble %}
 
@@ -156,19 +158,21 @@ Uh— Huh!? What did you just say!?
 i [abducted] and [confined] him~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 You won’t get away with it by saying it cutely! It’s still a crime! You little rascal~! You shouldn't abduct and confine someone without consent, okay? Promise me that!
+{% endbubble %}
 
+{% bubble Chiaki yare %}
 Gosh, honestly… I heard that there was a dispute in Kanata's home, so I got worried and went over to check how he was doing…
 
 Then he grabbed me and locked me up there for the whole week.
 {% endbubble %}
 
-{% bubble Shinobu %}
-Huh!? W-Were you okay!?
+{% bubble Shinobu surprised %}
+Huh…!? W-Were you okay!?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Yeah. I wasn't allowed to go outside, but there were no other constraints.
 
 Kanata's home is isolated — I felt like I was living the life of Urashima Tarou when he stayed in the Dragon Palace.[^2]
@@ -178,7 +182,7 @@ Kanata's home is isolated — I felt like I was living the life of Urashima Taro
 fufufu\~ [sea breams] and [flounders] showed him a dance\~[^3] <em>puka puka\~♪</em>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Heheh. The people in his home treat him very preciously, like a god, so they didn't like it when he was around me…
 
 …Did I end up causing you trouble, Kanata?
@@ -188,7 +192,7 @@ Heheh. The people in his home treat him very preciously, like a god, so they did
 not at all\~ it would have been much more [troublesome] if you died from [illness]. let me save you every once in a while… hero\~♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ahhh… Morisawa-senpai didn't listen to the doctor's advice and tried to come over, and so Shinkai-senpai did whatever he could to stop him. I see.
 
 Good work, Senpai~♪
@@ -198,13 +202,15 @@ Good work, Senpai~♪
 For real, good work… Gosh, Morisawa-senpai can be *such* a handful, huh…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised2 %}
 What!? I'm the victim here, but you're talking to me like I'm the one who did something wrong!
+{% endbubble %}
 
+{% bubble Chiaki smile3 %}
 But you're right! I should always listen to my doctor in the end!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile %}
 that's right~ and you got to experience a pretty [good life] in there — i almost want you to [thank] me.
 
 fufu, i always have to do [beach] opening [ceremonies] in summer, which is a [nuisance]…
@@ -214,19 +220,21 @@ but i felt much [happier] with chiaki [around].
 if you are okay with it, you could live in [my home] forever, chiaki~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki awkward %}
 Ah, no… I'm from a middle class family — a luxurious life like that isn't for me. It'd just turn me rotten.
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 That aside! I tried to get in touch with Sengoku behind Kanata's back, and I got the gist of what's happened to you guys! You did a very good job holding yourselves up for the week!
 
 But worry not! We're here now! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 Hweh…? Sengoku-kun, you were keeping in contact with Morisawa-senpai?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Well, it was more like, we were not receiving any communication from him, so I got worried and started searching for information.
 
 Every day I would attempt to search after practice… I was always tired by then, but I tried my best to keep pressing on for whatever could be found.
@@ -234,7 +242,7 @@ Every day I would attempt to search after practice… I was always tired by then
 I thought Shinkai-dono would know something, so I gathered my courage to go and visit his home. And then, before me appeared Taichou-dono… I was very surprised to see him there.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Hahaha, it saved you the trouble of searching for me.
 
 Yeah, my phone was confiscated by then and I couldn't really figure out what was going on outside, so Sengoku prepared a ninja-like method of communication for the two of us.
@@ -244,13 +252,13 @@ Every day, we’d secretly bury a letter in the ground for the other to find and
 Ninja skills are incredible, huh? They really come in handy during emergencies. I'll keep appointing you that role in the future, Sengoku.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Ahaha, I am happy to know my ninja techniques were useful for once! I usually never have the chance to apply them in real life.
 {% endbubble %}
 
 ## Chapter 2
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Fufu, my apologies, everyone…
 
 We were told that we should do our best without relying on Taichou-dono. Thus, I hid the fact that I was contacting him.
@@ -258,19 +266,19 @@ We were told that we should do our best without relying on Taichou-dono. Thus, I
 I did so because we tend to depend on Taichou-dono, you see…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh4 %}
 It's fine, really… Though I think I would've liked it if you told us he was doing okay… I couldn't really focus properly in practice from worry…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ho<em>ho</em>, is that so! I was a little nervous you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 Will you shut up… It’s so suffocating… I wish you didn't come back until summer was over…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Heheh, that aside… After I’d recuperated, I practiced with Kanata. We should be able to perform properly in the event.
 
 Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
@@ -278,19 +286,19 @@ Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
 Actually, no — Let's do our absolute best together, as we always do, Ryuseitai! *All for one, one for all!*
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh2 %}
 Yeah, yeah… You really are feeling better… It’s a relief to see you back to your usual self, alright?
 
 Us three just can't do well without both of you here…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora grin2 %}
 But we *did* manage to get through it by ourselves. We practiced real hard with Trickstar.
 
 In fact, you two might’ve been in the way if you were around. I kinda *wanted* you to stay away~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 What did you just say, you little rascal\~!! I’m not giving away my chance on the stage! I've been yearning to stand on top of it this whole time, y'know\~!
 
 I'll be up there no matter what it takes! I'll shine as part of Ryuseitai!
@@ -300,21 +308,21 @@ Fuhahaha! I'm all pumped! So, what do you guys want to do now? We should probabl
 You're the center of the show this time, so we'll do things just as you say!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ah, yeah. I'd love to, but we’ve been left to take care of a stall. We need to tidy it up, and then ask a vendor to take over. We can start rehearsing after that.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ohh, you're doing a stall again!? I feel like it's become a custom of ours now!
 
 It's just like Ryuseitai! I like it! Ahh, this brings me back… Mikejima-san used to invite me to help out in stalls pretty often last year…♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-yes, the [rogue] would [often] invite me to festivals too when we were young. that is the only thing about him that has not changed since he was a [child], isn't it?
+{% bubble Kanata smile %}
+yes, the [rogue] would [often] invite me to festivals too when we were young… that is the only thing about him that has not changed since he was a [child], isn't it?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Hmm? I don't quite understand, but…
 
 We are going to sell Trickstar merchandise, as a repayment for their guidance this event.
@@ -322,21 +330,21 @@ We are going to sell Trickstar merchandise, as a repayment for their guidance th
 We would like to sell a lot, and repay them with the profits.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile %}
 Ehehe, Trickstar's stuff is so cute… Anzu-san made them all…
 
 I got a sample of “Orihime-kun and Hikoboshi-chan”[^4]…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Orihime and Hikoboshi? That's definitely Tanabata-related, but it doesn't really have anything to do with Trickstar!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata curious %}
 where *is* trickstar right now? we would like to [thank] them for [taking care] of you three.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 Ah… Anzu-san's strugglin' a lot with the preparations — there’s still some left to do even now, so I think they're helping her out.
 
 They're super busy setting out the bamboo for the tanzaku[^5], and making food…
@@ -344,45 +352,47 @@ They're super busy setting out the bamboo for the tanzaku[^5], and making food�
 It looks like they can get rewarded for it so well, they won't even need to get up onstage.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 Hm. That wouldn't be a reward in their eyes. Those kids always want to be up on the stage.
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 And the same goes for us! But we can't be shoddy with our stall work! Let's work together and do our absolute best!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ossu! 'Course! Let's pump ourselves up and do this! After all, we're the main show this time!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh5 %}
 Are we really…? Everyone here is so into this event… It's said that it has the most participating units ever…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Ahaha. We have to work hard, or we will be buried by everyone else~
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smile4 %}
 okay, then let's do that. it will be okay, the [five of us] together are [invincible]~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Yep! Well said, Kanata! We've got a new catchphrase for ourselves! I'll carve it in my heart! Fuhahahahaha!! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 Morisawa-senpai, you’ve been at maximum hyper for a while now…
 
 Not only will you drag us down if your health gets bad again, but you're also annoying when you’re like that, so please don’t go into overdrive…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smug3 %}
 I feel like that “annoying” bit was a little too much! Or should I say, it’s saddening! But! I’m aware! I'll never let myself get sick or collapse ever again!
 
-I'll never separate myself from you guuuuuysss!! ☆
+I'll never separate myself from you guuuuuysss…!! ☆
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Gaah\~! Please don't hug me! The summer is like hell itself — it's so sweaty and hot\~!
 {% endbubble %}
 
@@ -390,15 +400,15 @@ Gaah\~! Please don't hug me! The summer is like hell itself — it's so sweaty a
 then let's bathe in the [water]\~♪ it will [relieve] you and make you feel refreshed\~
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised %}
 Where'd you get that bucket from, Shinkai-senpai!? I see water in there — If you dump that on us, we'll *all* get sick!
 {% endbubble %}
 
-{% bubble Midori %}
-Ahaha… It's finally gone right back to the usual… What a relief…♪
+{% bubble Midori smile3 %}
+Ahaha… It's finally gone right back to the usual for us… What a relief…♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Indeed~
 
 It was tense, but we were able to work hard practicing with Trickstar, and gain many things out of it.
@@ -602,7 +612,7 @@ I mean, Orihime and Hikoboshi are happy enough just knowing they can rendezvous 
 
 {% img /img/es/eventstory/orihimeandhikoboshi/living4_1.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our rehearsals, so I shall take you over there! ♪
 
 …Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
@@ -612,7 +622,7 @@ Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our
 Wait, wait! You’re misunderstanding again! We were just bonding as friends, y’know…!?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Nay! You need not to explain it to me, I understand what it is. I am not a child.
 
 What comes after bonding as friends is—
@@ -626,7 +636,7 @@ Huh? You are worried about my clothes seam? W-wait! I would rather you fix it af
 Ahaha, you're already wearing your outfit for the event, Shinobu-kun? Anzu-chan also designed that, right?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Heh~♪ That is correct! She has carefully crafted it!
 
 Each and every part is different in some way — It is extremely elaborate! Truly respectable!
@@ -640,7 +650,7 @@ What do you think~? Does it suit me?
 Ahaha, it totally does\~ Cute, very cute\~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Eek! Don't pat my head! I had my hair arranged!
 {% endbubble %}
 
@@ -650,7 +660,7 @@ But if you're gonna be rehearsing, won't it just get messy anyway?
 Your choreography has lots of vigorous dance moves, after all~ You guys modelled it after kung fu like us, right?[^6]
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Indeed we did. It even ended up being too similar to your performance, so we have also taken ideas from *kenpo*[^7], since Tetora-kun knows it well.
 
 In the end, we couldn't really figure out something for ourselves…
@@ -666,7 +676,7 @@ No, it's alright. It's customary for us and our opponents to play by the same ru
 Not only that — we're capable of firing up our own radiance. That is “Trickstar.”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Sooo cool! ♪ This is why I really respect all of you! I am truly grateful for all that you've done for us this event!
 
 Please watch us, as we take in your guidance — your radiance — and shine brilliantly! We will make sure you don't regret accompanying us for all those days!
@@ -676,7 +686,7 @@ Please watch us, as we take in your guidance — your radiance — and shine bri
 Mhm, we’re looking forward to it. Let's do our best in the event, Ryuseitai~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Yes! Let us both! As two units that bear stars in our names, we shall become the bridge to bright, shining dreams — we shall become the Milky Way itself!
 {% endbubble %}
 

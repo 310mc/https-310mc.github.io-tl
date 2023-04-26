@@ -337,7 +337,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “……♪”
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 <th>(Huh…? Did Akehoshi-senpai just wave at me…?)</th>
 
 <th>(Now he's clapping and moving around like he’s taunting me…? Uh? Huh? What's he trying to tell me…?)</th>
@@ -345,7 +345,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 ## Chapter 3
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 <th>(Akehoshi-senpai… Back at it again already, criticizing me about unnecessary things when you don’t even get me?)</th>
 
 <th>(“Why can't you get this right?”</th>
@@ -365,13 +365,17 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(And anyway, people of your species[^4]… Even if I hadn’t accidentally gotten into this school, you would've still been sparkling bright your whole life!)</th>
 
 <th>(You would've been doing that without ever knowing I existed!)</th>
+{% endbubble %}
 
+{% bubble Midori angry %}
 <th>(Akehoshi-senpai! You don't know how it feels to be me! Living the life of a miserable bug underfoot while you glitter in the sunshine!)</th>
 
 <th>(You don't! That's why you can't treat people like me right — You get close to us in all the wrong ways and then hurt us!)</th>
 
 <th>(Then when you get tired, you just wander off and leave us to rot…!)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(I'm so sick of people like you! You all just piss me off…! Ahh!! I feel like I'm gonna explode from all this anger and heat…!!)</th>
 {% endbubble %}
 
@@ -385,17 +389,19 @@ It's fine to make mistakes there, but you can't mess up onstage, y’know~?
 Go for it! Do it properly! It'll be okay, I'm sure *you* can do it! ♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 ……!! We're in the middle of our match, but I guess you still have time to *help* me, huh…!?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru awkward %}
 Ah, right… I did it again… I just can't get used to this.
 
 See, when I was a first year… before I even met Trickstar, I was always by myself.
 
 I couldn’t get close to anyone, so I just copied stuff from videos of my dad’s performances.
+{% endbubble %}
 
+{% bubble Subaru sad3 %}
 But… involving yourself with actual people and practicing with them is a million times more fun, and you can learn things faster, right?
 
 I’m so jealous of you, Takamin. Everything I wanted in the past… You have it all with you.
@@ -415,9 +421,11 @@ Ahh, this is so much fun! It's awesome\~! This sort of thing has been my dream f
 Dad…! I think I’ve finally reached it…☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried2 %}
 <th>(B-Bleached it?[^5] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
+{% endbubble %}
 
+{% bubble Midori sad %}
 <th>(But somehow, just for a moment… Akehoshi-senpai made a face similar to how I would look in the mirror…)</th>
 
 <th>(He had an exhausted, depressed, painful look on his face…)</th>
@@ -441,7 +449,7 @@ Dad…! I think I’ve finally reached it…☆
 ……☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 <th>(Ughhh~!! You didn't even *try* to understand what I'm telling you, did you!? Yet you're acting so smug like you’ve done a good job…!)</th>
 
 <th>(Dammit! That sparkly smile pisses me off…!)</th>
