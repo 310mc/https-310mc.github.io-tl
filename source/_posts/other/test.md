@@ -167,41 +167,53 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 <h4>※ ADDTEXT</h4>
 
 <!--
-ADDTEXTADDTEXT
+己を変えるため
+いつだって泥臭く　努力＆根性
+
+格好良く頼もしい
+理想に向かう意思　目指すは男の中の男
+
+黒も赤もすべてを超えて　次世代の担い手
 -->
-
-{% img /img/es/eventstory/wisteria/tetorabcg.jpg %}
-
-{% bubble Tetora %}
-ADDTEXT
-{% endbubble %}
-
-<small>You can listen to the voiced line [here](ADDLINK).</small>
-
-<h4>※ ADDTEXT</h4>
-
-{% img /img/es/eventstory/piratefes/tetorabcg.jpg %}
-
-{% bubble Tetora %}
-ADDTEXT
-{% endbubble %}
-
-<small>You can listen to the voiced line [here](ADDLINK).</small>
-
-<h4>※ ADDTEXT</h4>
 
 {% img /img/es/es2mainstory/tetorabcg.jpg %}
 
-{% bubble Tetora %}
-ADDTEXT
+{% bubble Tetora v2 %}
+I'm gonna keep working hard, earnestly and straightforwardly!
+
+I'll keep at it, 'til the day I grow strong enough to grasp my own form of justice — my own *correct* answer!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=155).</small>
+
+<h4>※ ADDTEXT</h4>
+
+{% img /img/es/scoutstory/fourbeasts/tetoraorigcg.jpg %}
+
+{% bubble Tetora v2 %}
+My palm is empty, so I can grasp anything!
+
+Even the sun and moon itself!
+{% endbubble %}
+
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=386).</small>
+
+<h4>※ ADDTEXT</h4>
+
+{% img /img/es/eventstory/supervillain/tetorabcg.jpg %}
+
+{% bubble Tetora v2 %}
+I want to walk down this road for a while longer. I want to get covered in mud, desperately wade through the muck, and move forward—
+
+Then I’ll grasp onto something, and become a bigger man than you’ve ever been.
+{% endbubble %}
+
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=555).</small>
 
 **Summary:**
-* ADDTEXT
-* ADDTEXT
-* ADDTEXT
+* Always muddied, he is full of <u>effort and willpower</u>
+* Reliable and cool, A will to head towards that ideal, His goal is to become a <u>man among men</u>
+* Surpassing everything, including red and black, he is the <u>bearer of the next generation</u>
 
 ## Midori's Charm Points
 
@@ -218,33 +230,35 @@ ADDTEXT
 育ち続ける心　成長株
 -->
 
-{% img /img/es/eventstory/wisteria/midoribcg.jpg %}
+{% img /img/es/eventstory/piratefes/midoribcg.jpg %}
 
-{% bubble Midori %}
-ADDTEXT
+{% bubble Midori smile %}
+I'll work hard, too. I'll do my best with all I've got, at least every once in a while.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=919).</small>
 
 <h4>※ He holds an unbeatable love, and what is his emotional stabilizer, a <u>Mascot character lover</u></h4>
 
-{% img /img/es/eventstory/piratefes/midoribcg.jpg %}
+{% img /img/es/scoutstory/cityriders/midoriorigcg.jpg %}
 
-{% bubble Midori %}
-ADDTEXT
+{% bubble Midori blush %}
+I can take these all for myself, right? Wahh, waah…! ♪
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1109).</small>
 
 <h4>※ His feelings ever so changing, his heart ever so growing, he has <u>the biggest potential to grow</u></h4>
 
 {% img /img/es/es2mainstory/midoribcg.jpg %}
 
-{% bubble Midori %}
-ADDTEXT
+{% bubble Midori smile %}
+We don't know what's gonna happen in the future—
+
+But if you steel yourself and take a leap forward, things surprisingly do turn out okay somehow.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1308).</small>
 
 **Summary:**
 * Tall and handsome, with an ennui charm, he is a <u>natural, adolescent boy</u>
@@ -256,45 +270,62 @@ ADDTEXT
 <h4>※ ADDTEXT</h4>
 
 <!--
-ADDTEXTADDTEXT
+諜報活動はお手の物
+子供のときからの憧れ　忍びの道
 
-忍の道
+細かやな配慮
+場の空気を柔らかく　ぼがらかなバランサー
+
+めげないしょげない
+あきらめない　がんばり屋さん
 -->
 
-{% img /img/es/eventstory/wisteria/shinobubcg.jpg %}
+{% img /img/es/eventstory/scrolloftheelements/shinobubcg.jpg %}
 
-{% bubble Shinobu %}
-ADDTEXT
+{% bubble Shinobu v2 %}
+I really do love ninjas…☆
+
+Until that love is fully shared with everyone—
+
+I mustn't allow myself to be concealed within the shadows!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
-
-<h4>※ ADDTEXT</h4>
-
-{% img /img/es/eventstory/piratefes/shinobubcg.jpg %}
-
-{% bubble Shinobu %}
-ADDTEXT
-{% endbubble %}
-
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1639).</small>
 
 <h4>※ ADDTEXT</h4>
 
 {% img /img/es/es2mainstory/shinobubcg.jpg %}
 
-{% bubble Shinobu %}
-ADDTEXT
+{% bubble Shinobu v2 %}
+If I were to overlook a wrongdoing, I'd be a failure of a hero—
+
+And if I were to abandon my friend in trouble, I'd be a failure of a human!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](ADDLINK).</small>
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1816).</small>
+
+<h4>※ ADDTEXT</h4>
+
+{% img /img/es/eventstory/blackjack/shinobubcg.jpg %}
+
+{% bubble Shinobu v2 %}
+Everyone honed me and made me stronger.
+
+They trained the past, weak "me"[^1], that would only look away from reality, and indulge himself in daydreams!
+{% endbubble %}
+
+<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=2027).</small>
 
 **Summary:**
-* ADDTEXT
-* ADDTEXT
-* ADDTEXT
+* Espionage is his forte, his admiration since a young age; <u>The way of the Ninja</u>
+* Extremely attentive, and capable of calming the atmosphere, <u>he is the cheerful balancer</u>
+* Unyielding, unbending, never giving up, <u>A hard-worker</u> who endures all hardships
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
 {% btn /translations#Other,, star, Index %}
 </div>
+
+## Translation Notes
+
+[^1]: He says *boku* here for “me” instead of *sessha* (the typical way Shinobu talks as a ninja).

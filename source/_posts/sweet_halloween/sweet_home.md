@@ -124,7 +124,7 @@ It’s really easy to move in it! Did Anego make these? She’s amazing, doing a
 {% bubble Chiaki %}
 Don’t jump up and down so much, Nagumo. There’s a limit to how far your clothes can stretch.
 
-I mean, we *can* get them fixed if they tear, and there are spares for everyone, but we wouldn’t want to spend any extra money if we don’t need to.
+I mean, we *can* fix them if they tear, and there are spares for everyone, but… We wouldn’t want to spend any extra money if we don’t need to.
 {% endbubble %}
 
 {% bubble Shinobu %}
