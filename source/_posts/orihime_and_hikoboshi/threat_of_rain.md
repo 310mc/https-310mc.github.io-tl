@@ -812,23 +812,23 @@ Wha— Yuuki, stop. Don’t do that weird “reflect light off glasses” trick.
     <p>Meanwhile, outside the dance room that Trickstar is practicing in…</p>
 </div>
 
-{% bubble Shinobu %}
+{% bubble Shinobu sad4 %}
 …We got scolded really badly.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 Yeah… That was kinda scary… I always thought Akehoshi-senpai just goofs around… I never thought he could get angry like that…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sigh2 %}
 It felt more like he was looking down on us… Rather than scared, I would say I was shocked.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh3 %}
 …I dunno what he couldn't stand about us, but he didn’t have to say it like that…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Fufu… I, once again, realize just how kind and considerate Taichou-dono is towards us.
 
 I feel like it has been a long time since I was last scolded.
@@ -836,7 +836,9 @@ I feel like it has been a long time since I was last scolded.
 See, I used to get scolded often for all the ninja stuff I would do…
 
 But ever since I came to this school, everyone has been praising and accepting me, so I ended up letting my guard down.
+{% endbubble %}
 
+{% bubble Shinobu sad3 %}
 I have allowed myself to relax too much… Now I have become spoiled rotten. I must learn to do better.
 {% endbubble %}
 
@@ -844,7 +846,7 @@ I have allowed myself to relax too much… Now I have become spoiled rotten. I m
 Yeah… Anyway, why are we still standing here in the hallway? He told us to go home, so… let’s go?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu serious %}
 No, I feel like we shouldn't leave.
 
 If we do just what we are told again, as if all we can do is obey without thought, then it is only more proof that we are just a bunch of good-for-nothing children.
@@ -852,7 +854,9 @@ If we do just what we are told again, as if all we can do is obey without though
 Let us stay here and watch what our seniors in Trickstar are doing from afar. We will use them as reference, and contemplate what to do next together.
 
 If they notice us and scold us to go home again, we will relocate.
+{% endbubble %}
 
+{% bubble Shinobu v2 %}
 Until then, we shall stay here and think about what to perform. We shall work hard through hell and high water!
 
 And if we come up with something, we will go inform them about it.
@@ -860,7 +864,7 @@ And if we come up with something, we will go inform them about it.
 If they accept our idea, then we will bow our heads down in respect and ask to be permitted in their practice.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 Ehhh… But I wanna go home…
 
 Well… It *is* annoying to get told off without being able to say anything back…
@@ -870,27 +874,35 @@ Well… It *is* annoying to get told off without being able to say anything back
 …………
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 <th>(Tetora-kun's glaring really hard at Trickstar practicing…)</th>
+{% endbubble %}
 
-<th>(He's really hot-blooded — He might go pick a fight with them if we don't keep an eye on him…)</th>
+{% bubble Midori thinking2 %}
+<th>(He's really hot-blooded, so… He might go pick a fight with them if we don't keep an eye on him…)</th>
 
 <th>(We'll have to stop him if that happens… Sengoku-kun's not strong enough to do it alone, so it has to be me…)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(All of this has been tiring, but, honestly… I'm sure if I go home now, I'll just feel more and more irritated… I have to get rid of this feeling before I go to sleep tonight…)</th>
 
 <th>(Otherwise, I'll feel even more depressed, and start wanting to die…)</th>
+{% endbubble %}
 
+{% bubble Midori curious %}
 <th>(But really, Tetora-kun's making a super scary face… What's he thinking about…? Please spare us from a fight…)</th>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora angry %}
 <th>(Wow… They're amazing. It may seem like they're just playing around, but they're actually practicing properly.)</th>
 
 <th>(They’re makin' sure to get every dance move right, asking each other for opinions, and then brushing up the entire choreography.)</th>
 
 <th>(Though if you only heard them talk, it’d sound like they were just goofing around.)</th>
+{% endbubble %}
 
+{% bubble Tetora thinking2 %}
 <th>(No — These people are dead serious. They know their goal, and they're heading towards it as one.)</th>
 
 <th>(Everything they do leads them towards the proper path…)</th>
@@ -898,7 +910,9 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(That's how they manage to give off a bright radiance — enough to light the whole world.)</th>
 
 <th>(That's Trickstar — the ones behind this school’s revolution. Our representatives for SS.)</th>
+{% endbubble %}
 
+{% bubble Tetora frown %}
 <th>(I'm a first year, so I didn't really get all this “revolution” and “being the representatives of the school” stuff…)</th>
 
 <th>(That’s why I thought they were messin' around whenever I saw them…)</th>
@@ -908,38 +922,44 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(They're working their hardest as idols, and even stood once at the top of all of Yumenosaki. There’s just no way you can become the representatives of a school through dumb luck.)</th>
 
 <th>(It's the same as karate… There’s no such thing as “winning by chance” in a fierce match.)</th>
+{% endbubble %}
 
+{% bubble Tetora sad %}
 <th>(Then you have us… We lost on our first match in DDD, and we kept on doing badly after that.)</th>
 
 <th>(Though nowadays, we'd been getting more recognition, and slowly producing better results.)</th>
 
 <th>(But I wasn't meant to be satisfied with that — the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)</th>
+{% endbubble %}
 
+{% bubble Tetora frown3 %}
 <th>(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)</th>
 {% endbubble %}
 
-{% bubble Midori %}
-<th>(I-It’s going to be okay, right…? Please don't make a mess, Tetora-kun… *Please*…)</th>
+{% bubble Midori worried %}
+<th>(I-Is it really going to be okay…? Please don't make a mess, Tetora-kun… *Please*…?)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/threat5_2.jpg %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry3 %}
 Hey, Ryuseitai kids. We're gonna get distracted if you keep staring at us.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Eeek!? A-Akehoshi-dono, I deeply apologize for not leaving as you told us to!
 {% endbubble %}
 
-{% bubble Subaru frown %}
+{% bubble Subaru serious %}
 Mm. No… I let my anger get to me, and just lashed out… I'm sorry for that. It's not like you guys did anything wrong.
 
 You're gonna start feeling hot if you stay here.
 
 If you plan on learning from us, come back inside. We’d be in hot water too if you ended up collapsing.
+{% endbubble %}
 
-Chi~chan-senpai would get furious with me. I saw him angry like that only once, and it was seriously terrifying.
+{% bubble Subaru yare %}
+Chi~chan-senpai'd get *furious* with me. I saw him angry like that only once, and it was seriously terrifying.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -964,15 +984,17 @@ There was no proper communication between the two units, and you weren’t being
 I'm sure you could’ve avoided this problem if you did that first.
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto sad3 %}
 …True. It's a bad habit of ours to start everything immediately without prior preparation.
 
 We should've checked how they were doing beforehand.
+{% endbubble %}
 
+{% bubble Hokuto serious %}
 I'm sorry, Ryuseitai.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Huh? No, no, you don't need to apologize! We didn't think this through at all! We really have learned from our mistakes!
 {% endbubble %}
 
@@ -983,7 +1005,7 @@ We faltered a bit, but it's no big deal. We're the type to perform without any p
 
 So if worst comes to worst, we’ll just have to balance ourselves out when the time comes.
 
-In fact, how about we aim for exactly that. Starting by apologizing for our mistakes, learning to do better, and growing from it.
+In fact, how about we aim for exactly that? Starting by apologizing for our mistakes, learning to do better, and growing from it.
 
 So let's avoid dragging this gloomy atmosphere all the way to the event. We'd end up disappointing our audience if we do that, won't we?
 
@@ -994,7 +1016,7 @@ If we show ourselves like *this*, we'd be booed off the stage. We'd have failed 
 We wouldn’t be fit to call ourselves idols.
 {% endbubble %}
 
-{% bubble Subaru serious %}
+{% bubble Subaru sad2 %}
 …………
 {% endbubble %}
 
@@ -1004,11 +1026,15 @@ Oh? Is something wrong, Subaru sir?
 
 {% bubble Subaru serious %}
 Why’re you suddenly speaking politely… No, it's just as you said. I agree with you.
+{% endbubble %}
 
+{% bubble Subaru sad3 %}
 Sorry. I was reminded of what happened in the past, and got angry.
 
 That rarely happens for me, so I didn't know how to control myself…
+{% endbubble %}
 
+{% bubble Subaru sad4 %}
 I'm sorry for snapping at you, Ryuseitai.
 
 How we dealt with them after that was wrong, too, wasn’t it…?
@@ -1044,7 +1070,7 @@ If you were here, you would've dealt with everything properly before it even bec
 We wouldn’t have been able to fail and grow from this experience if that happened.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Fufu, that sounds similar to Taichou-dono.
 
 He always takes good care of us and leads us, so that we never make mistakes.
@@ -1060,7 +1086,7 @@ That is why… I am glad that we got scolded.
 Sengoku… You're such a good boy! I want a little brother like you~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Huh!? I-If that is your wish, then I will become “Isara Shinobu” for you any time!
 {% endbubble %}
 
@@ -1068,17 +1094,19 @@ Huh!? I-If that is your wish, then I will become “Isara Shinobu” for you any
 Ahaha, that just sounds like you’re getting married to him.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 <th>(Huh… Whew, I'm so glad to see everything's turning peaceful…)</th>
 
 <th>(Isara-senpai’s amazing… There's no way I could do something like that… I wonder what makes him different to me…? Is it our innate qualities…?)</th>
+{% endbubble %}
 
+{% bubble Midori sad4 %}
 <th>(I wish God gave me what he has, instead of “pretty looks”…)</th>
 
 <th>(This sucks… I'm just paper mache… I'm completely hollow inside…)</th>
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 W-What's wrong, Takamine? You've been gloomy for a while now…
 
 I know I'm asking this really late, but why *are* you in that corner anyway?
@@ -1086,17 +1114,19 @@ I know I'm asking this really late, but why *are* you in that corner anyway?
 You guys told me that Ryuseitai is currently watching and learning from Trickstar's practice session, right?
 
 If that’s all you’re doing, then why're you hunched over there? Did someone tell you something mean?
+{% endbubble %}
 
+{% bubble Mao angry2 %}
 For goodness’ sake… He may look strong 'cause of his build, but he's pretty timid. You can't bully him, Subaru… Got it?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru shocked %}
 Huh—!? I didn't do that! …I think.
 {% endbubble %}
 
 ## Chapter 7
 
-{% bubble Subaru %}
+{% bubble Subaru thinking %}
 Well, see… We told the kids to come back inside to watch us practice, right?
 
 But then we thought they'd get bored just doing that, so we made them practice with us.
@@ -1104,13 +1134,15 @@ But then we thought they'd get bored just doing that, so we made them practice w
 I mean, they wouldn't learn anything just by watching, after all. And the kid with the bangs *really* looked like he wanted to join in with the dancing.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised3 %}
 Is “kid with the bangs” intended to be me? I have already introduced myself to you earlier, so please call me by name!
 {% endbubble %}
 
 {% bubble Subaru %}
 Lemme come up with a nickname~ How about I go with “Shinobun” and “Tetoran” to match with “Takamin”?
+{% endbubble %}
 
+{% bubble Subaru yare %}
 Anyway… after that, we started practicing together, but Takamin just wasn't following along…
 
 I know I scolded them harshly earlier, so I tried to be nice this time and give them advice.
@@ -1118,51 +1150,55 @@ I know I scolded them harshly earlier, so I tried to be nice this time and give 
 But then he just went and hunched in the corner.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 How'd that happen… Uh, what’d you tell him?
 
 You tend to sound inconsiderate when you talk, so you probably hurt him without knowing.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru thinking2 %}
 Huh~? Nah, I just said what’s on my mind.
 
 Like, “why can't you get this right?” and “do it properly!” and “don’t you have any motivation?”
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao shocked %}
 Holy… For an ordinary person, hearing that from a genius would hurt a *lot*.
 
 I don't think he had no motivation, y’know. I'm sure he was trying to do it properly.
 
 He may complain a lot, but he works hard at what he's told to.
+{% endbubble %}
 
+{% bubble Mao yare %}
 But, see… There are people out there who can't do it even if they try. Even I have a hard time keeping up with you guys, y’know?
 
 There's no *way* these novice first years can do what you can do.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh3 %}
 Exactly… *Thank* you, Isara-senpai…
 
 I… I was doing my very best… He kept on saying awful things to me, so I thought I’d make him eat his words…
+{% endbubble %}
 
+{% bubble Midori sad2 %}
 But I just can't do it… I can't do those super-agile moves… I start tripping up and falling over myself… My whole body hurts now… Everything sucks…
 
 And still he kept on talking to me like I was just messing around… All I feel is rage and misery…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru shocked %}
 Huh—…? S-Sorry, Takamin! Was I putting too much pressure on you?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 Not just me… They didn't say so, but I think Tetora-kun and Sengoku-kun were having a hard time, too… We were just scolded earlier, so it was hard to complain about it…
 
 It was all too much… I’m so depressed, I just wanna die…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 Ahaha, cheer up, Midori-kun. I was having quite a lot of fun, you know~?
 {% endbubble %}
 
@@ -1178,7 +1214,7 @@ You moved accordingly to the situation! Good job, good job! ♪
 You could've just called me, though. …Ah! Did you think you'd get scolded for using your phone during practice?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Incredible as always, Isara-dono! You truly have great perception! Indeed, and so I told them I was in need of the bathroom, and quickly left to call for you.
 
 I had left my belongings behind, so all I could do was dash to your side.
@@ -1246,27 +1282,29 @@ That's the sort of Trickstar I love.
 
 {% img /img/es/eventstory/orihimeandhikoboshi/threat8_1.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Isara-dono~ Over here, over here! I can see the festival~♪
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao awkward %}
 Don't pull me, Sengoku… Man, your hand is really warm… Little kids have warmer body temperature~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu angry3 %}
 I'm not a little kid! Everyone has gone ahead of us. We have to hurry over, or we will be left behind!
 {% endbubble %}
 
 {% bubble Mao %}
 Ahaha. Yeah, it was surprising to find out that the festival is closing earlier than usual. If we don’t make it in time, we won’t be able to catch the stalls open. That’s probably why they’re rushing so much.
+{% endbubble %}
 
+{% bubble Mao yare %}
 Anyway… I know I said all that stuff earlier, but…
 
 Honestly, I'm worried about the work I left behind. I'm thinking of quickly zipping through the festival and going right back to school.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Huh!? We are going to deepen our bonds, are we not!? Let's have fun to the very end! If you are not here, who knows when the mood might go down again…!
 {% endbubble %}
 
@@ -1280,8 +1318,8 @@ You guys will get along superbly with the right opportunity.
 Like, look — they’ve already forgotten about the mess earlier. They’re having a great time now.
 {% endbubble %}
 
-{% bubble Shinobu %}
-Ahaha, that is true. I wonder what they're talking about~?
+{% bubble Shinobu v2 %}
+Ahaha, indeed they are. I wonder what they're talking about~?
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1290,71 +1328,75 @@ If you're curious, then go ahead and ask them, instead of talking to me.
 I gotta check up on the Student Council members that I left behind at school.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smug %}
 Ninja art! Phone seizing technique~☆
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao surprised2 %}
 Ah— Hey! Give it back!
 
 Why're you acting like this all of a sudden? You're usually a well-behaved kid…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu serious %}
 …………
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 Sengoku? Why'd you go quiet? D-Don’t worry, I'm not angry at you, okay?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu serious %}
 Isara-dono, you—
+{% endbubble %}
 
+{% bubble Shinobu awkward %}
 …Mm. Never mind, it is nothing.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao smile3 %}
 Hmm? Oh c’mon, now you’ve got me curious\~ If you have something to say, then you gotta say it, you little rascal\~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Waa~! You caught me!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao smile3 %}
 You better start saying it, you~! I'll punish you with tickles if you don't!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu grin %}
 Eeek— Nihahaha!! ☆ I give, I give\~! Don't tickle me\~!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao grin %}
 Bwahaha! You're a *ninja!* You should have the discipline to withstand torture\~! Maybe *this*’ll make you admit defeat\~! Tickle tickle\~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Aha— Hahaha!! ☆ S-Seriously, please, I give in! I can't breathe~!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao grin %}
 …Ahh, it's so hot! It was refreshing and cool inside the room, so being close to someone wasn’t too bad, but doing it outside just makes you sweat hard, huh!
 
-It's 100% summer now — it's super humid even at night!
+It's 100% summer now; it's super humid even at night!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sigh2 %}
 *Huff… Huff…* Ahh… I thought I was going to die…
+{% endbubble %}
 
+{% bubble Shinobu v2 %}
 …Isara-dono, I really respect you.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao blush %}
 Huh\~!? Why're you complimenting me all of a sudden!? You're making me blush\~!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu sad2 %}
 …When the atmosphere became tense today, I could not do anything about it myself…
 
 All I could do was call for you with the hope that you could do something.
@@ -1366,27 +1408,33 @@ And they made me, who was always doing ninja stuff all on his own, into an idol 
 A ninja’s one true mission is to be of use to people, and yet… I could not think of what to do… I simply panicked.
 
 I find that part of me so pathetic.
+{% endbubble %}
 
+{% bubble Shinobu smile3 %}
 But, by my side is you, Isara-dono. The splendid you, who can be my role model. That makes me so happy.
 
 It makes me feel like I can grow and mature more and more.
 
 I want to grow big, enough to reach the stars in the sky. That is what I will write for my Tanabata wish.
+{% endbubble %}
 
+{% bubble Shinobu blush %}
 That is all! Ehehe~♪
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao awkward %}
 Ah, yeah… I see. I'm not sure I get it, but good luck.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smile %}
 Yes! It is fine if you only do it whenever you have the time, but please watch over me… It would make me happy, Isara-dono!
 
 Although, ninjas are meant to be concealed in the dark, so you may have a hard time finding me!
 
 That is all I wanted to say!
+{% endbubble %}
 
+{% bubble Shinobu surprised2 %}
 I’m really sorry, it was hard to understand, wasn't it!?
 {% endbubble %}
 
@@ -1404,11 +1452,11 @@ Everyone around me is shining so brightly, after all. I gotta keep working hard 
 
 {% img /img/es/eventstory/orihimeandhikoboshi/shinobuorigcg.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu orihimeocg %}
 Isara-dono! Look, look! It's the Milky Way! We can see it even when it isn't Tanabata yet, huh?
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao smile3 %}
 Ooh, you're right! It's so pretty… Ah, that reminds me — we might have cloudy weather on the day of Tanabata Festival, so we may not be able to see it then.
 
 That's why we should admire the scenery now as much as we can.
