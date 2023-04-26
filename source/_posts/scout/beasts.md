@@ -34,7 +34,7 @@ permalink: beasts/
                             Season
                         </div>
                         <div class="value">
-                            Spring, before <a href="/climax">graduation season</a>
+                            Winter, before <a href="/climax">graduation season</a>
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -121,7 +121,7 @@ permalink: beasts/
                             Season
                         </div>
                         <div class="value">
-                            Spring, before <a href="/climax">graduation season</a>
+                            Winter, before <a href="/climax">graduation season</a>
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -257,8 +257,8 @@ permalink: beasts/
 
 ## Center of the World 1
 
-<div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (Before graduation season)</span></p>
+<div class="msr-season winter">
+    <p><span><b>Season:</b> Winter (Before graduation season)</span></p>
 </div>
 
 <div class="msr-location">
@@ -315,7 +315,7 @@ Huh. Then I guess we’re something like, *“Even alone, we’re still Knights.
 …But seriously, what’re you here for? Keeping up this conversation is getting exhausting.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Oh! Sorry for takin’ up your time! Umm… Is Narukami Arashi-senpai around, or…?
 {% endbubble %}
 
@@ -351,13 +351,13 @@ It all depends on the time and place… I’m feeling lonely today, that’s all
 But I’ve got a question for you, uh… Tekko-kun, was it? You good friends with Nacchan, or something?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 I’m not Tekko, I’m *“Tetora”!*
 
-Nah, I’m not. I’m not so good with how he talks… I haven’t ever really talked to him outside of work-related stuff!
+Nah, I’m not~ I’m not so good with how he talks… I haven’t ever really talked to him outside of work-related stuff!
 {% endbubble %}
 
-{% bubble Ritsu %}
+{% bubble Ritsu awkward %}
 Ahh… Yeah, it’s typical to be confused by how they talk when you aren’t used to it…
 
 …Oh, Nacchan immediately replied back to me after I sent them a message. Looks like they’ve taken a break just now.
@@ -400,7 +400,7 @@ Heheh, you’ve been in that kotatsu for so long that you’ll start freezing as
 
 So if you end up sleeping inside of it, you’ll eventually get a cold.
 
-Which is why I got you a blanket. I use this often during Ryuseitai sleepovers.
+Which is why I got you a blanket. I use this one often durin’ Ryuseitai sleepovers.
 
 I know I’m doing somethin’ you didn’t ask for, but I just kept getting more worried.
 {% endbubble %}
@@ -441,7 +441,7 @@ Mmgh… This blanket stinks like a guy…
 
 {% img /img/es/scoutstory/beasts/2_1.jpg %}
 
-{% bubble Arashi frown %}
+{% bubble Arashi serious %}
 …………
 {% endbubble %}
 
@@ -449,7 +449,7 @@ Mmgh… This blanket stinks like a guy…
 Heeeeey, Arashi-saaaaaan! I see you showed up for the club todaaay! It’s Mamaaaaaaa! ☆
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi frown %}
 …There’s really no need to yell. I can tell it’s you from a hundred kilometers away, Mama. You do realize you’re incredibly huge, right?
 {% endbubble %}
 
@@ -459,7 +459,7 @@ Heeeeey, Arashi-saaaaaan! I see you showed up for the club todaaay! It’s Mamaa
 Hahaha! You’re unusually in a bad mood, huuuh?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi sigh %}
 Mm~… If you of all people noticed with one glance, even when you’re so thick headed… then this is a much more serious case of depression than I thought.
 
 Gosh, I’d really rather not be seen in an awful mood…
@@ -487,11 +487,11 @@ The sales were off the charts with all sooorts of good reviews, weren’t they? 
 Hm? You have a sister, Mama?
 {% endbubble %}
 
-{% bubble Madara %}
-My unfortunate sister… She’s the complete opposite of me, and I don’t really understand her. Plus, she’s mentally fragile and never leaves her room…
+{% bubble Madara frown %}
+My incompetent sister… She’s the complete opposite of me, and I don’t really understand her. Plus, she’s mentally fragile and never leaves her room.
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi awkward %}
 Ahaha, that really is the complete opposite of you, who’s always traveling all over the world~
 {% endbubble %}
 
@@ -501,7 +501,7 @@ Yeaaah, we’re complete strangers to each other’s worlds… But aaanyway, eno
 A job that emphasizes your manliness… Isn’t that the sorta thing you’d haaate to do?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi frown %}
 Mm… I mean, I *should* be super happy, since my beauty was appreciated by everyone…
 
 And the positive reviews are bound to be a blessing, especially if I plan to continue working as part of Knights…
@@ -531,7 +531,7 @@ But if you can’t stand to be in a position where all people want from you is m
 You’ve got two options! I’m terrible at taking precautions, sooo it’s gonna be all or nothing from me! Alrighty then, what’s it gonna be!?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi frown %}
 When you get involved, everything is taken care of in a flash without me even getting involved, and I don’t like that…
 
 So as always, I choose neither.
@@ -543,7 +543,7 @@ I’ll find a middle ground for myself. …Besides, Mama, aren’t you busy now 
 Hahaha! I’m in a solo unit, so I’ve got nooothing to do with all those generation change problems. I’m taking it pretty easy lately~♪
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi serious %}
 Huh… I suppose you have countless options to choose from for your future career, too.  …Hm?
 {% endbubble %}
 
@@ -559,7 +559,7 @@ Mhm. Ritsu-chan sent me a message, so I knew you’d be coming. …But why did y
 Ossu! The truth is, I wanna learn the secrets to manliness from you, Narukami-senpai!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi awkward %}
 …I thought so. It’s basically a catchphrase at this point for you to mention how your dream is to be a “man among men”, isn’t it?
 {% endbubble %}
 
@@ -573,11 +573,11 @@ Ufufu, I *love* hard-working boys, after all.
 And you’re the epitome of one… So I’ve had my eyes on you, Tetora-chan. ♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 I-I’m not a fan of being called by “-chan”, to be honest…
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi awkward %}
 Oh my, how rude of me. It’s not manly after all, is it? …Hmm~ What shall we do here, hm?
 
 I don’t have any plans for today, so I *could* spend time with you, but…
@@ -595,9 +595,11 @@ I admire the way you were like, oozing manliness…!
 That’s the sorta manly guy I wanna be! So please, teach me your ways!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi serious %}
 ………
+{% endbubble %}
 
+{% bubble Arashi %}
 ……Alright, fine. If you really want it that badly, I’ll teach you. I *always* make sure to pamper any junior that comes my way.
 
 Let’s see now… Okay then, let’s start with step one, Tetora-chan.
@@ -617,7 +619,7 @@ Let’s see now… Okay then, let’s start with step one, Tetora-chan.
 Come in, Tetora-chan. Welcome to a whole new world~♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Um, like I said before, I’d really like it if you didn’t call me by “-chan”.
 
 I know I’m being picky, but it makes me feel like you’re treating me like a little kid, so I don’t really like it.
@@ -629,13 +631,15 @@ Ah, so *that’s* what you don’t like about it.
 My bad… But to me, all the first years in school are still adooorable little children.
 
 Don’t worry about it too much. Kids are called cute no matter their gender.
-
-See, I’ve been modeling since I was young, and was pushed around by the harshness of society, so I had no choice but to grow up and be more like an adult…
-
-Looking back, it makes me wish I enjoyed my youth just a little bit more…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Arashi sigh %}
+See, I’ve been modeling since I was young, and was pushed around by the harshness of society, so I had no choice but to grow up and be more like an adult…
+
+But looking back, it makes me wish I enjoyed my youth just a little bit more…
+{% endbubble %}
+
+{% bubble Tetora curious %}
 Huh, so that’s how it is… Personally, I’m envious of how mature my seniors are.
 
 I wonder what sets us apart from each other… We’re not even that far apart in age.
@@ -663,7 +667,7 @@ Oh no, no. It’s *much* easier than that.
 Just ask Anzu-chan or someone like her to do it for you. The next time you get featured in a magazine, make them mention that you’re a “man among men.”
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 Uu~myu… But that just feels like I’m cheating…
 
 Like, I’d be tricking everyone into thinking I’m a man among men… I’m sure Taishou would only say that I’m letting the label define me.
@@ -683,11 +687,13 @@ You said you’ve been modeling since you were young, right? I feel like that’
 Fufu, it’s nothing to be proud of in front of a crowd… I don’t have any wise things to say, since I’ve still got a lot to learn by myself.
 
 But you’ve asked me to teach you the secrets to being manly, so I’m going to do it. I always do my job properly.
+{% endbubble %}
 
+{% bubble Arashi frown %}
 Not that I’m really interested in this, honestly… I mean, wouldn’t you get your answer faster if you asked your Mr. “Taishou,” or your seniors from Ryuseitai about this?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 Mmm… We’re reaching graduation soon, so I don’t really wanna bother my third-year seniors.
 
 Ah! That doesn’t mean I thought it’s okay to bother you instead, though!
@@ -697,7 +703,7 @@ Ah! That doesn’t mean I thought it’s okay to bother you instead, though!
 Ahaha, nobody said that, you know~? You’re pretty cautious with these things, despite how you seem.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Mmm… I’m more girly and delicate[^4] than I seem, y’see…
 {% endbubble %}
 
@@ -711,7 +717,7 @@ First things first: Make yourself look as pretty and adorable as possible with a
 I’ll give you some pointers, but you should mainly choose with your own taste.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown3 %}
 Huh…? Uhh… I’m sorry, but I don’t really get it! How’s this gonna help me…? I’m tryna be more manly…
 
 I won’t get anything from being cute… I’m aiming for the opposite direction, y’know?
@@ -721,7 +727,7 @@ I won’t get anything from being cute… I’m aiming for the opposite directio
 Now, now! Don’t think, just act! That’s *much* more manly~♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Uu~… Alright, I’ll put my trust in you and do as you say.
 {% endbubble %}
 
@@ -731,7 +737,7 @@ Mhm, good luck~ You’ve got thirty minutes, okay? I’ll be buying stuff in the
 Oh my! They’re already having a spring sale! Kyaa~! I hope I have the money!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad2 %}
 <th>(…Mmm~ I feel like I’m on a date with an older lady… It’s makin’ me a little restless.)</th>
 
 <th>(Oh, right. I only have thirty minutes, so I’d better get moving fast.)</th>
@@ -743,7 +749,9 @@ Oh my! They’re already having a spring sale! Kyaa~! I hope I have the money!
 <th>(Ah! Maybe if I wear these animal ears…?)</th>
 
 <th>(Uu~myu, I look stupid! It just looks like I’m tryna do some kinda act!)</th>
+{% endbubble %}
 
+{% bubble Tetora frown3 %}
 <th>(Gahh! I didn’t expect things to go like this at all…!! I really dunno what to do!!)</th>
 
 <th>(I mean… when he said that I gotta “learn the ways of a woman,” my heart started racing with all kinds’a images…)</th>
@@ -757,15 +765,21 @@ Oh my! They’re already having a spring sale! Kyaa~! I hope I have the money!
 <th>(Ahaha, he’s really struggling~)</th>
 
 <th>(You’re so earnest, Tetora-kun… It’s suuuper cute~♪)</th>
+{% endbubble %}
 
+{% bubble Arashi frown %}
 <th>(But now I feel bad… It feels like I’m tricking a pure, innocent boy.)</th>
 
 <th>(His words actually really set me off earlier, so I just said whatever on the spot.)</th>
 
 <th>(I thought maybe I could make him carry my shopping bags for me…)</th>
+{% endbubble %}
 
+{% bubble Arashi serious %}
 <th>(But he’s much more serious about this than I thought. I can tell just by looking at his expression… Just why *is* he working so hard for this?)</th>
+{% endbubble %}
 
+{% bubble Arashi sad %}
 <th>(Is there even a need for manliness in this current age…?)</th>
 {% endbubble %}
 
@@ -805,7 +819,9 @@ Mhm, I have 20/20 vision. Adonis-chan even told me that having such great eyesig
 Mm? Gosh, Anzu-chan… don’t tug on me, okay?
 
 What’s wrong, is there something you’d like to tell me?
+{% endbubble %}
 
+{% bubble Arashi surprised2 %}
 …Ahh! I completely forgot about Tetora-kun! I got so caught up in browsing the shop…!
 
 How terrible of me… Hasn’t an hour passed by now?
@@ -813,15 +829,19 @@ How terrible of me… Hasn’t an hour passed by now?
 Hm, hm… He was worried about me?
 
 You so happened to spot him, and after you heard him out, you went looking for me in the store…?
+{% endbubble %}
 
-I’m so sorry! I got really into the conversations I had with the manager~
+{% bubble Arashi sigh %}
+I’m so sorry! I got really into the conversations I had with the manager…
 
 She even showed me the storage room full of all the new upcoming stuff!
 
 Do you know where Tetora-kun is right now? Eh? In the dressing room?
 
 Did he get too embarrassed to go out wearing a cute outfit?
+{% endbubble %}
 
+{% bubble Arashi sad3 %}
 <th>(Oh my gosh, he *seriously* did what I told him to do…?)</th>
 
 <th>(I thought he was just going through some random teenage dilemma…)</th>
@@ -831,7 +851,9 @@ Did he get too embarrassed to go out wearing a cute outfit?
 <th>(I thought he was just babbling about becoming manly for some silly, childish reason.)</th>
 
 <th>(And if I told him whatever random thing that came to mind, he’d feel ridiculed and stomp back home in frustration… since I figured his worry is nothing serious.)</th>
+{% endbubble %}
 
+{% bubble Arashi sad2 %}
 <th>(After all, our worries are fundamentally different in every way… Yet he still went ahead and hit a sensitive nerve.)</th>
 
 <th>(That’s why I got upset, and did something cruel to him in retaliation.)</th>
@@ -839,33 +861,37 @@ Did he get too embarrassed to go out wearing a cute outfit?
 <th>(But you’re telling me he *actually* believed in me through and through…?)</th>
 
 <th>(…Ugh! Just *who* is the childish one here, huh!? I’m such an idiot!)</th>
+{% endbubble %}
 
+{% bubble Arashi %}
 Oh gosh, I’m so sorry, Anzu-chan…… Could you show me where Tetora-kun is?
 
 Ah, that dressing room over there?
+{% endbubble %}
 
+{% bubble Arashi worried %}
 Tetora-kuuun! I’m so sorry for forgetting all about you and leaving you on your own! I want to make it up to you! If you forgive me, I’ll guide you much more seriously this time, so—
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora hidden %}
 Ah! Narukami-senpai…?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi eichi_curious %}
 Yes, it’s me. Umm, I can’t see you, but… How’s it going? May I open the curtains?
 {% endbubble %}
 
-{% bubble Tetora %}
-O-Ossu! ‘S all good! Come on in!
+{% bubble Tetora hidden %}
+O-Ossu! ‘S all good! C’mon in!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi curious %}
 Y-You sound a bit overwhelmed…? Umm, then I’m going to check, okay…?
 {% endbubble %}
 
 {% img /img/es/scoutstory/beasts/tetoraorigcg.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 Ossu! This is the absolute best I could do, Narukami-senpai!
 {% endbubble %}
 
@@ -873,7 +899,7 @@ Ossu! This is the absolute best I could do, Narukami-senpai!
 ………
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 I-I didn’t pass, did I?
 
 I couldn’t figure out the best choice by myself, so when I spotted Anzu-Anego by chance, I asked for her advice!
@@ -883,7 +909,7 @@ I couldn’t figure out the best choice by myself, so when I spotted Anzu-Anego 
 …Is that true, Anzu-chan?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 Ossu! She got really into it midway and turned me into her dress-up doll!
 
 This can be said about fans too, but… Girls can be a little scary sometimes!
@@ -905,23 +931,23 @@ But an eye for an eye just isn’t beautiful at all… I was such an idiot — T
 I take it all back. I’m so sorry, Tetora-kun, you can change back into your clothes, okay?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 O-Ossu! Next is walkin’ around the street in these clothes, right!?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi curious %}
 …Mm?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 Gotcha! Nagumo Tetora’s gonna do his absolute best! I’ll put every effort into it! The black flame is the mark of effort…!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi surprised2 %}
 Huh? Huh…!?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora beastscg %}
 I’m off! Sorry, but I’ll have to give you my wallet, so please pay for me!
 
 Oooohh\~! I only mess up when I overthink stuff, so the best thing to do here is to charge through without a second thought\~!
@@ -929,7 +955,7 @@ Oooohh\~! I only mess up when I overthink stuff, so the best thing to do here is
 Go for it, me! Become a man among men…!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi surprised2 %}
 Wh— Hold on, Tetora-kun! Listen to what I have to say first…!
 {% endbubble %}
 
@@ -941,7 +967,7 @@ Wh— Hold on, Tetora-kun! Listen to what I have to say first…!
 
 {% img /img/es/scoutstory/beasts/5_1.jpg %}
 
-{% bubble Arashi %}
+{% bubble Arashi angry2 %}
 *Huff, huff…* Tetora-kuuun!! Where did you go!?
 
 <th>(…Shoot! I completely lost sight of him!)</th>
@@ -953,7 +979,9 @@ Wh— Hold on, Tetora-kun! Listen to what I have to say first…!
 <th>(He relied on me… He believed in me, and politely asked for my help…)</th>
 
 <th>(But all I did was lash out at him for asking me how to be “manly”.)</th>
+{% endbubble %}
 
+{% bubble Arashi sad %}
 <th>(He didn't even do anything wrong… He was just trying to get closer to his ideal image…)</th>
 
 <th>(…Now I'm just acting like an evil queen from some fairy tale…)</th>
@@ -1083,7 +1111,7 @@ Ahaha, no need for thanks. This is me repaying you for always taking care of me.
 Yep! Also, it's Mama's duty to help his adooorable daughter…☆
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi awkward %}
 Ahaha… Wow, you're so reliable, I could almost cry…♪
 {% endbubble %}
 
@@ -1123,7 +1151,9 @@ But don’t you worry! I can protect myself just fine. I’m my very own biggest
 Don’t worry about me, okay? Just message me if Tetora-kun comes back, or if the others have more information on the situation.
 
 Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time shopping around, so I’m really sorry to have involved you in this mess.
+{% endbubble %}
 
+{% bubble Arashi sad %}
 <th>(Right then… I tried to sound composed when talking to Anzu-chan, but alleyways really *are* scary…)</th>
 
 <th>(Maybe I should bring Mama along instead of going in alone, since he’s a strong fighter.)</th>
@@ -1131,7 +1161,9 @@ Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time sh
 <th>(……Hm? H-Huh? I think there’s some people arguing in the alleyway…?)</th>
 
 <th>(Gosh, I can’t see a *thing* in this dark place!)</th>
+{% endbubble %}
 
+{% bubble Arashi surprised2 %}
 <th>(…Wha!? Are those awful-looking guys crowding around a girl…!? Oh no—!)</th>
 
 <th>(Wait, is that… Tetora-kun?)</th>
@@ -1141,7 +1173,9 @@ Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time sh
 <th>(Did they corner him because they got grossed out by a guy wearing a dress…?)</th>
 
 <th>(Are they making fun of him? Bullying him and pushing him around…?)</th>
+{% endbubble %}
 
+{% bubble Arashi angry %}
 <th>(…! No, I can’t let that happen! Tetora-kun doesn’t deserve to be picked on!)</th>
 
 <th>(Because all of this is *my* fault…!)</th>
@@ -1151,17 +1185,21 @@ Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time sh
 
 {% img /img/es/scoutstory/beasts/arashiorigcg.jpg %}
 
-{% bubble Arashi %}
+{% bubble Arashi beastscg %}
 Hey, you…!!
 
 Get *away* from that girl right this instant! Don’t you dare touch her with your filthy hands!
 
 <th>(…………)</th>
+{% endbubble %}
 
+{% bubble Arashi %}
 <th>(…Alright! I scared them away.)</th>
 
 <th>(I’m so glad my breathing exercises came in handy! Anyone would flinch if they heard a shout *that* ear-piercingly loud!)</th>
+{% endbubble %}
 
+{% bubble Arashi sigh %}
 <th>(I’m relieved that I didn’t need to get into a fistfight with them, too… I wouldn’t have been able to, anyway — committing violence is fatal to an idol’s career.)</th>
 
 <th>(I’d *much* rather settle things through vicious threats. That’s why animals usually growl at each other, after all.)</th>
@@ -1173,13 +1211,17 @@ Get *away* from that girl right this instant! Don’t you dare touch her with yo
 <th>(…Oh! Never mind me, I need to check on Tetora-kun—)</th>
 
 Tetora-kun! Are you alright? They didn’t hurt you, did they?
+{% endbubble %}
 
+{% bubble Arashi curious %}
 <th>(Wait, huh? Now that those delinquents are gone, I can see better, but… This isn’t Tetora-kun, is it?)</th>
 
 <th>(It was genuinely a girl all along… Huh…? So it was all a coincidence that she was wearing the same trendy clothes as him?)</th>
 
 Woah! Don’t cling to me…
+{% endbubble %}
 
+{% bubble Arashi %}
 You must’ve been so scared… There, there. ♪
 
 Don’t worry, you’re safe. The scary people are gone now.
@@ -1189,15 +1231,15 @@ My acquaintance knows someone from the police department, so we’ll have his he
 Don’t cry… Everything’s all okay now, I promise. There’s no need to worry. ♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora angry %}
 Narukami-senpai!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi surprised %}
 Eeek!? Huh? Tetora-kun!?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 Ossu! Are you alright, Narukami-senpai!? I’m here to help!
 
 Anzu-Anego told me that you were arguing with some delinquents in an alleyway…!
@@ -1207,11 +1249,11 @@ Anzu-Anego told me that you were arguing with some delinquents in an alleyway…
 U-Umm, yes… But everything’s okay. I drove them all away, as you can see. I rescued the girl they were picking on, too. ♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora grin2 %}
 Ah, I’m so glad to hear that! A <em>lady</em> shouldn’t be doing something so dangerous, okay?
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi curious %}
 Huh? Erm, but she ended up getting surrounded by them… *They’re* the ones at fault, you know?
 
 Anyway, where did you head off to, Tetora-kun? I was so worried about you!
@@ -1253,25 +1295,25 @@ Um, so where’s Mama right now? He could do something really bad if we don’t 
 <th>(I mean, it’s a good precaution, but… It feels wrong, like we’re trying to cover up a scandal or something… Gosh, nothing good comes from violence.)</th>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora worried %}
 Um, Narukami-senpai… Mikejima-senpai told me ‘bout you while we were getting here…
 
 I’m so sorry! I’m such an idiot…! I was so selfish! I never once considered your feelings!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi curious %}
 Huh? Um… But I’m the one who’s supposed to say sorry…?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora angry %}
 No! Please let me apologize for everything! Please forgive me!
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi worried %}
 Wh— Don’t kneel on the ground in this dirty alleyway! You’ll get your clothes dirty!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora sad %}
 I can just clean them later! But hurting someone emotionally could ruin their whole life…!
 
 I’m so, so sorry! Narukami-senpai, you hated how I called you “manly,” didn’t you…?
@@ -1307,15 +1349,15 @@ The point is, you apologized to me properly, without a care for your clothes… 
 So Tetora-kun… Lift your head up. It’s true that I was a little hurt, but I’m alright now.
 {% endbubble %}
 
-{% bubble Tetora cry %}
+{% bubble Tetora cry3 %}
 *…<th>(sobs)</th>*
 {% endbubble %}
 
-{% bubble Arashi frown %}
+{% bubble Arashi %}
 Oh my, you’re crying really hard. Stay still; I’ll wipe your tears off with a handkerchief.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora cry %}
 Uuu, <em>sniff</em>… I’m sorry! But I really just don’t like being treated like a kid!
 
 Ugh, I shouldn’t be talking after everything I’ve done to you…!
@@ -1323,9 +1365,13 @@ Ugh, I shouldn’t be talking after everything I’ve done to you…!
 
 {% bubble Arashi %}
 Mhm, you’re still just a kid… still just a boy. But that’s why you’ll eventually become a man if you keep working hard and growing.
+{% endbubble %}
 
+{% bubble Arashi sad %}
 I’m honestly envious… No matter how much I want it, and no matter how hard I try… I could never become the beautiful woman I dream to be.
+{% endbubble %}
 
+{% bubble Arashi %}
 But even if that’s true… I won’t let it depress me. I won’t whine about it anymore. I love myself most, no matter who I am.
 
 Anyone who can love themselves like that is charming, no matter their gender… Don’t you think so?
@@ -1333,7 +1379,9 @@ Anyone who can love themselves like that is charming, no matter their gender… 
 
 {% bubble Tetora %}
 …Yeah. I think so too. I wanna be like you, Narukami-senpai.
+{% endbubble %}
 
+{% bubble Tetora sad4 %}
 I was so impatient… Soon enough, Taishou and Taichou… All our seniors are gonna graduate.
 
 I wanted to become a great man before then… so that they could leave without any worries. But I’m just not gettin’ there. I’m still nowhere near that ideal… Still just stuck running in circles.
@@ -1341,7 +1389,7 @@ I wanted to become a great man before then… so that they could leave without a
 I’m so pathetic.
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi smile %}
 <th>(Ahh… Right, we’re reaching that time of the year…)</th>
 
 <th>(Gosh… I’m seriously such an idiot. He really is just an earnest kid.)</th>
@@ -1377,11 +1425,11 @@ I’m so pathetic.
     <p>A few days later…</p>
 </div>
 
-{% bubble Tetora %}
+{% bubble Tetora grin2 %}
 ~……♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 You’re in a good mood, huh, Tetora-kun…?
 {% endbubble %}
 
@@ -1389,15 +1437,15 @@ You’re in a good mood, huh, Tetora-kun…?
 Hm? You think so\~? Well, I did have a wonderful encounter the other day\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 Huh? Did you get a girlfriend or something…?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora grin2 %}
 Oh, no, no! That’s far outta my league… But well, I *did* get to know a really charming lady!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Whoa, I was only joking… A-Are you for real…? Wow, so you’re actually in love, Tetora-kun…
 {% endbubble %}
 
@@ -1407,7 +1455,7 @@ Nah, it’s not like that! Besides, wouldn’t you be the one with all sortsa ro
 You’re such a popular guy, too~ Didn’t you get the most chocolates out of all of us in Ryuseitai on Valentine’s Day?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori frown %}
 Uu~… I don’t really have any interest in that right now… Romance is such a pain…
 {% endbubble %}
 
@@ -1415,7 +1463,7 @@ Uu~… I don’t really have any interest in that right now… Romance is such a
 Ohh, you talk like you’re experienced!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad %}
 I’m not, though… There’s just no time for love affairs right now… Not when it’s graduation season, the most depressing time of all…
 
 I just wanna skip past this point already…
@@ -1433,40 +1481,42 @@ There’s no use complaining ‘bout it. Right now, we should let our seniors kn
 Even if it’s hard to do it right, I wanna make sure I convey my feelings.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 You’re so brave, Tetora-kun… I can’t even stand the thought of it…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 Jeez, Midori-kun! You’re not gonna get anywhere if you keep running away!
 
 Maybe that’s how you can avoid pain, and maybe that’s easier for you in the end, but personally, I just feel like that method’s empty and lonely.
 {% endbubble %}
 
-{% bubble Arashi %}
+{% bubble Arashi hidden %}
 Tetora-kuuun~ Are you ready?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile3 %}
 Ah, yes! I’m coming, Narukami-senpai~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Huh…? Isn’t that person from Knights…? Were you on good terms with them, Tetora-kun?
 {% endbubble %}
 
 {% bubble Tetora %}
 Ahh, yeah, just recently! She’s teaching me the secrets to manliness~ I’m gonna do some training for that today, too!
+{% endbubble %}
 
+{% bubble Tetora blush %}
 Ehehe, Narukami-senpai’s been helping me so much…
 
 We may even end up in a magazine together! She’ll try and recommend me as the next manly candidate!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 Wha—? *They’re* teaching you about *manliness?*
 
-A-Are they okay with that…? Don’t they, like, um… dislike that kind of stuff…?
+A-Are they okay with that…? Don’t they, like, um… dislike that kinda stuff…?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1477,15 +1527,19 @@ The first step to becoming manly is to learn all about women, after all.
 I’ll never be able to reach the right answer by researching one side of the coin.
 
 It’s ‘cuz we have darkness that light stands out, so it’s ‘cuz women exist that I’ll be able to grasp what it means to be a man.
+{% endbubble %}
 
+{% bubble Tetora awkward %}
 …Well, I say all’a that, but even I don’t fully understand it right now.
+{% endbubble %}
 
+{% bubble Tetora grin %}
 But I felt somethin’ light up in me. I know for *sure* I can become a man among men if I keep at it!
 
 One day, I’ll even become a man who can proudly stand in front of Taishou and Taichou — to everyone, even the *Sun* itself!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile3 %}
 Huh… I don’t fully get it, but you do seem a little different lately…
 
 Our classmates have been saying the same, too…
@@ -1493,15 +1547,17 @@ Our classmates have been saying the same, too…
 That you look much more mature…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 Huh? Really?
 
 I’ve started to use cute accessories from fancy shops on a daily basis, so if anything, I feel like I’ve been lookin’ much more childish lately…?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile5 %}
 Ahh, yeah, you’ve been using a lot of cute stuff lately, haven’t you…
+{% endbubble %}
 
+{% bubble Midori awkward %}
 I was in over my head to think it was ‘cause of me and my love for mascots, huh…? It was actually ‘cause of them…
 {% endbubble %}
 
@@ -1511,7 +1567,9 @@ It’s ‘cuz of you, too, Midori-kun~ I didn’t like that sorta stuff in the p
 But… Being good at violence, or having lots of muscles isn’t the only way to prove your strength, right?
 
 Being kind enough to laugh off and forgive your junior for making a dumb mistake is also a sign of strength.
+{% endbubble %}
 
+{% bubble Tetora smile2 %}
 I wanna be strong like that, too.
 
 Instead of forcibly scrapin’ off my effeminate parts, I wanna turn it into a strength like kindness — And then I’ll wrap myself in it, and grow into a great man.

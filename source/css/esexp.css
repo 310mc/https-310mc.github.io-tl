@@ -482,11 +482,17 @@
 [character="Tetora"][cry2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_cry2.png");
 }
+[character="Tetora"][cry3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_cry3.png");
+}
 [character="Tetora"][thinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_thinking.png");
 }
 [character="Tetora"][clmocg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_clmocg.png");
+}
+[character="Tetora"][beastscg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_beasts.png");
 }
 [character="Tetora"][vside] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_vside.png");
@@ -698,6 +704,10 @@ Past Stories
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_angry.png");
 }
 
+[character="Mika"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mika_surprised.png");
+}
+
 [character="Kaoru"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru2.png");
 }
@@ -797,11 +807,21 @@ Past Stories
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_sigh.png");
 }
 
+[character="Ritsu"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ritsu_awkward.png");
+}
+
 [character="Arashi"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_angry.png");
 }
+[character="Arashi"][angry2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_angry2.png");
+}
 [character="Arashi"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_awkward.png");
+}
+[character="Arashi"][beastscg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_beasts.png");
 }
 [character="Arashi"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_curious.png");
@@ -815,14 +835,23 @@ Past Stories
 [character="Arashi"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sad2.png");
 }
+[character="Arashi"][sad3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sad3.png");
+}
 [character="Arashi"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_serious.png");
+}
+[character="Arashi"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sigh.png");
 }
 [character="Arashi"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_smile.png");
 }
 [character="Arashi"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_surprised.png");
+}
+[character="Arashi"][surprised2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_surprised2.png");
 }
 [character="Arashi"][thinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_thinking.png");
@@ -855,20 +884,6 @@ Past Stories
   --name: "Aquarius";
   --hue: 193.8;
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
-}
-
-[character="MidoriMika"] {
-  --color:#008db7;
-  --name: "Midori & Mika";
-  --hue: 193.8;
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midorimika.png");
-}
-
-[character="ChiakiTsumugi"] {
-  --color:#008db7;
-  --name: "Chiaki & Tsumugi";
-  --hue: 193.8;
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiakitsumugi.png");
 }
 /**
 ***/

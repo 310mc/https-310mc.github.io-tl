@@ -966,7 +966,11 @@ Which means…
 We’re…
 {% endbubble %}
 
-{% bubble MidoriMika %}
+{% bubble Midori surprised %}
+Trapped in hereeeeeee!?
+{% endbubble %}
+
+{% bubble Mika surprised %}
 Trapped in hereeeeeee!?
 {% endbubble %}
 
@@ -1906,8 +1910,12 @@ Ohhh! Flip it around, and it becomes “es-oh-es”!
 Ah, that’s it! They call it mirrored writing~ How interesting, it’s like a visual illusion~♪
 {% endbubble %}
 
-{% bubble ChiakiTsumugi %}
-*…SOS!?*
+{% bubble Tsumugi %}
+<em>…SOS!?</em>
+{% endbubble %}
+
+{% bubble Chiaki %}
+<em>…SOS!?</em>
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1952,7 +1960,11 @@ One—
 Mika-kun, are you okaaaaaayyy!?
 {% endbubble %}
 
-{% bubble MidoriMika %}
+{% bubble Midori surprised %}
+Gaaaaaaaaaaah!?
+{% endbubble %}
+
+{% bubble Mika surprised %}
 Gaaaaaaaaaaah!?
 {% endbubble %}
 
