@@ -242,4 +242,4 @@ Yeah, we owe this bonding session all to exercise…♪
 
 ## Translation Notes
 The title is a reference to Precure’s opening theme song, “Together We Are Pretty Cure”.
-[^1]: This is a reference to [A Detour Encounter](https://hyenahunt.tumblr.com/post/663687909863555072/jun-sazanami-4-feature-scout-a-detour).
+[^1]: This is a reference to <a href="https://hyenahunt.tumblr.com/post/663687909863555072/jun-sazanami-4-feature-scout-a-detour" target="_blank">A Detour Encounter</a>.

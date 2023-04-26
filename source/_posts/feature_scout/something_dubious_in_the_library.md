@@ -288,4 +288,4 @@ Thank you. I’ll tell Morisawa-senpai about it later.
 {% endbubble %}
 
 ## Translation Notes
-[^1]: Originally, he says ES *biru* (building) will become ES *debiru* (devil). Thank you [haranami](https://twitter.com/haranami_) for the localization!
+[^1]: Originally, he says ES *biru* (building) will become ES *debiru* (devil). Thank you <a href="https://twitter.com/haranami_" target="_blank">haranami</a> for the localization!

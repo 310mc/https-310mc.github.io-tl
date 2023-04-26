@@ -301,5 +301,4 @@ Ughh, Shiratori-kun, don’t drag me with you… And Morisawa-senpai, you’re j
 
 ## Translation Notes
 [^1]: Aira is roommates with Rei and Eichi post-main story, so that might be the reason why.
-
 [^2]: Ryuseitai-M = Morisawa, the unit under StarPro. Ryuseitai-N = Nagumo, the unit within Yumenosaki.

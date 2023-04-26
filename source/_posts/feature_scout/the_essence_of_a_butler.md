@@ -484,5 +484,5 @@ For your sake, and for my fans as well—I will pour my heart and soul, and cont
 
 ## Translation Notes
 
-[^1]: A reference to Toyland. You can see an example of his art [here](https://ensemble-stars.fandom.com/wiki/%28Tin_Soldier%29_Yuzuru_Fushimi).
-[^2]: He first mentions this mascot in [Staying True To Myself](/staying_true_to_myself).
+[^1]: A reference to Toyland. You can see an example of his art <a href="https://ensemble-stars.fandom.com/wiki/%28Tin_Soldier%29_Yuzuru_Fushimi" target="_blank">here</a>.
+[^2]: He first mentions this mascot in <a href="/staying_true_to_myself" target="_blank">Staying True To Myself</a>.

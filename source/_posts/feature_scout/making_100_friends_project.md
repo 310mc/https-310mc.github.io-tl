@@ -289,4 +289,4 @@ Ahaha, then how about we hang out next week, too? ♪ ‘Cause we’re all frien
 
 ## Translation Notes
 
-This story is a sequel to [Hinata's Idol Story 3](/idol_story/hinata_3)!
+This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata's Idol Story 3</a>!
