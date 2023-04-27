@@ -622,7 +622,7 @@ Come in, Tetora-chan. Welcome to a whole new world~♪
 {% bubble Tetora worried %}
 Um, like I said before, I’d really like it if you didn’t call me by “-chan”.
 
-I know I’m being picky, but it makes me feel like you’re treating me like a little kid, so I don’t really like it.
+I know I’m being picky, but it makes me feel like you’re treating me like a li'l kid, so I don’t really like it.
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -912,7 +912,7 @@ I couldn’t figure out the best choice by myself, so when I spotted Anzu-Anego 
 {% bubble Tetora beastscg %}
 Ossu! She got really into it midway and turned me into her dress-up doll!
 
-This can be said about fans too, but… Girls can be a little scary sometimes!
+This can be said about fans too, but… Girls can be a li'l scary sometimes!
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -1377,7 +1377,7 @@ But even if that’s true… I won’t let it depress me. I won’t whine about 
 Anyone who can love themselves like that is charming, no matter their gender… Don’t you think so?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile4 %}
 …Yeah. I think so too. I wanna be like you, Narukami-senpai.
 {% endbubble %}
 

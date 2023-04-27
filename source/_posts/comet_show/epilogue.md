@@ -61,6 +61,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
 
+<div toc>
+{% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}
+{% btn /comet_show,, star, Index %}
+</div>
+
 ## Chapter 1
 
 {% note location %}
@@ -1224,7 +1229,9 @@ No matter what the future has in store for us, and even if we can only stay this
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}{% btn /comet_show,, star, Index %}</div>
+{% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}
+{% btn /comet_show,, star, Index %}
+</div>
 
 ## Translation Notes
 [^1]: This is referencing <a href="https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette" target="_blank">Marionette</a>, a reminiscence story about Valkyrie’s past.

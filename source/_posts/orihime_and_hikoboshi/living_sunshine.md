@@ -76,6 +76,10 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 ## Chapter 1
 
+{% note narration %}
+In Japanese, the chapter title “Living Sunshine” is 晴れ男 *hareotoko*, lit. “man who causes the weather to become sunny wherever he goes​.” Another way to translate it would be “Sunny Man”, but “Living Sunshine” was chosen for poetry's sake.
+{% endnote %}
+
 <div class="msr-location">
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
@@ -393,7 +397,7 @@ I'll never separate myself from you guuuuuysss…!! ☆
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-Gaah\~! Please don't hug me! The summer is like hell itself — it's so sweaty and hot\~!
+Gaah\~! Please don't hug me! The summer heat is like hell itself — it's so sweaty and hot\~!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -404,7 +408,7 @@ then let's bathe in the [water]\~♪ it will [relieve] you and make you feel ref
 Where'd you get that bucket from, Shinkai-senpai!? I see water in there — If you dump that on us, we'll *all* get sick!
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori smile4 %}
 Ahaha… It's finally gone right back to the usual for us… What a relief…♪
 {% endbubble %}
 

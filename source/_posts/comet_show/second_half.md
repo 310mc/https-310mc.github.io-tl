@@ -60,6 +60,12 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 ## Chapter Index
 <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a>
 
+<div toc>
+{% btn https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4,, arrow-left, Previous Chapter: Chapter 4 %}
+{% btn /comet_show,, star, Index %}
+{% btn /comet_show/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
+
 ## Chapter 5
 
 {% note location %}
@@ -944,7 +950,10 @@ Every last one of you are so insistent on making everything harder on yourselves
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4,, arrow-left, Previous Chapter: Chapter 4 %}{% btn /comet_show,, star, Index %}{% btn /comet_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
+{% btn https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4,, arrow-left, Previous Chapter: Chapter 4 %}
+{% btn /comet_show,, star, Index %}
+{% btn /comet_show/epilogue,, arrow-right, Next Chapter: Epilogue %}
+</div>
 
 ## Translation Notes
 [^1]: Kanata’s last name *shinkai* literally means “deep sea”.

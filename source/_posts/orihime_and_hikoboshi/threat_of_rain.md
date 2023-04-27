@@ -485,7 +485,7 @@ Oh? Really? Then you should've told us earlier!
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-I-I apologize. I did not expect anyone not to know about it, and nobody asked me about it, either…
+I-I apologize. I did not expect anyone to be unaware about it, and nobody asked me about it, either…
 {% endbubble %}
 
 ## Chapter 3
