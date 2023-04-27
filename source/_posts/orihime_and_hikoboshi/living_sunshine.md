@@ -446,7 +446,9 @@ Ahaha. “Never mind that, just get down”?
 Alright, alright~ Back in spring, you used to get nervous whenever you tried to reply to us, but nowadays you just let it all out, huh~?
 
 That just means you’re growing up, too. Mhm, you’re now like a confident, reliable mom~♪
+{% endbubble %}
 
+{% bubble Mao worried %}
 Woah, woah—!! Don’t shake the step ladder!! Oh no, no, no, this is terrifying—!! I’m sorry, I’m sorry!
 
 I beg you, please don’t be angry, ma'am!! You don’t speak when you’re mad, so it’s even more terrifying, y’know!?
@@ -460,11 +462,15 @@ Ah, the shaking stopped. Ahaha, yep, the best way to stop you is by aiming from 
 S-Sorry for teasing you! I shouldn’t crack jokes with you as if I’m talking to a guy, right!? I’m really sorry for being inconsiderate!
 
 Ughh, I wanna prostrate and apologize to you, but I can’t! I’m still on top of the ladder!
+{% endbubble %}
 
+{% bubble Mao curious %}
 …Huh? You’re gonna be okay? You sure~?
 
 Don’t push yourself so hard… You don’t have to hold it in. If there’s something you wanna say, go ahead and say it. I’m kinda dense, so… I’ll only get it if you tell me.
+{% endbubble %}
 
+{% bubble Mao %}
 Hm… “I really might fail as a producer”? Why do you say that?
 
 You’re amazing, y’know? You properly managed a DreamFes this huge.
@@ -478,7 +484,9 @@ You’re amazing, Anzu. It’s admirable. No one thinks of you as an “amateur 
 They acknowledge you as a respectable person, who can guide us all.
 
 So c’mon, don’t make that face. Don’t talk about yourself that way. Be more proud of yourself~ This is something worth boasting about.
+{% endbubble %}
 
+{% bubble Mao surprised %}
 …Anzu? Uh!? Are you crying for real now!?
 
 H-Hold on, I’ll climb down right now! Just gimme a sec— Woah—!!
@@ -490,7 +498,9 @@ H-Hold on, I’ll climb down right now! Just gimme a sec— Woah—!!
 <th>(No, I’m okay! I can land just fine, so back away!)</th>
 
 <th>(—Ack!! I’m gonna crash into her!!)</th>
+{% endbubble %}
 
+{% bubble Mao blush %}
 …Gffh—! S-Sorry, Anzu! I’ll get off of you immediately!
 
 <th>(Woah… Was a girl’s body always this warm and soft…)</th>
@@ -506,7 +516,7 @@ Yooo, Sally~! You done with your work? Ryuseitai asked us if we could rehearse w
 Ooh?
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao surprised2 %}
 ……………
 
 …Um. It’s not what you think, Subaru. This was all an accident. Please believe me.
@@ -516,15 +526,15 @@ Ooh?
 Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 
-{% bubble Hokuto %}
+{% bubble Hokuto angry %}
 What!? Have you gone mad, Isara!? It doesn't matter if it's you — that's still unforgivable!
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto worried %}
 Isara-kun… You’re awful…
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao frown %}
 Nooo!! It really was an accident! Don't look at me like that! Dammit, how does this keep happening to me…!
 
 C’mon, Anzu! Don't laugh! Tell them the truth!!
@@ -536,7 +546,7 @@ C’mon, Anzu! Don't laugh! Tell them the truth!!
 
 ## Chapter 4
 
-{% bubble Mao %}
+{% bubble Mao frown2 %}
 Um, I'll get off of you now, so… A-Are you hurt anywhere?
 
 …I’m begging you! Please don't sue me!
@@ -622,7 +632,7 @@ Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our
 …Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao surprised2 %}
 Wait, wait! You’re misunderstanding again! We were just bonding as friends, y’know…!?
 {% endbubble %}
 

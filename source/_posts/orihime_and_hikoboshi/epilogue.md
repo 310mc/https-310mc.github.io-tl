@@ -87,7 +87,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
     <p>A few hours later…</p>
 </div>
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 “Now then! It's our turn at last!”
 
 “I'd love to start our performance with our usual catchphrases, but we’d lose out on time if we do that!”
@@ -95,27 +95,27 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “And so! Unfortunately, we'll be cutting them short! I'm Ryusei Red! Morisawa Chiaki! ☆”
 {% endbubble %}
 
-{% bubble Tetora %}
-“Ah, we were gonna do that? Couldn’t we have just left them out~?”
+{% bubble Tetora v2 %}
+“Ah, we were gonna do that!? Couldn’t we have just left them out~?”
 
 “Well, whatever! I'm Ryusei Black, Nagumo Tetora…!”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 “Ahaha. We must properly say our catchphrase — or rather, a *‘Transform!’* — or else we won't assume our roles.”
 
-“Also, I am Ryusei Yellow, Sengoku Shinobu~☆”
+“Also, I am Ryusei Yellow, Sengoku Shinobu…☆”
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-“and then comes\~ ryusei blue, shinkai kanata\~…♪”
+“and then comes\~ ryusei blue, shinkai kanata…♪”
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 “Ryusei Green, Takamine Midori… Ughh, I'm already tired just from doing the stall…”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 “Now now, no fussing! Get yourself pumped up again, Takamine! We can't win against our opponents if you're like that!”
 
 “Our adversaries are the people we've been practicing with this whole time — the four members of Trickstar!”
@@ -129,13 +129,13 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “Both karate and idols start with a bow and end with a bow! Isn't that right, Nagumo!?”
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 “Ossu! I'm actually real happy about this! This is exactly what I was hopin' to happen! I’m all fired up~!! ☆”
 
 “Trickstar, I plan to fight against you as my skilled seniors!”
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru yare %}
 “Yeah, sure… You guys sure kick up a lot of fuss… Don't yell so much~ You'll burst my eardrums.”
 {% endbubble %}
 
@@ -147,7 +147,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “so, a [happy ending] is when the animal’s [opponent] cowers in fear and [runs away]~♪”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 “Oh! I see you’ve also become knowledgeable about land creatures, Kanata! Nice, absolutely wonderful! You're a studious one, aren’t you~♪”
 {% endbubble %}
 
@@ -155,27 +155,33 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “fufufu, the [land] and the [sea] are the same\~ both are the [survival] of the [fittest]! rawr\~☆”
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao awkward %}
 “Man, Ryuseitai are superbly hyper…”
 
 “It's the first time we fight them head-on, but *wow* do they pour out all that heated-up passion onstage…”
+{% endbubble %}
 
+{% bubble Mao v2 %}
 “Just means they're gonna overwhelm us if we aren't careful! We gotta prepare ourselves, stand our ground, and strike back!”
 
 “Actually — Let's get rid of ‘em with our radiance! ♪”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 “That is just what we wanted to hear! The stronger the light, the darker the shadow! And that is *exactly* my forte! ☆”
+{% endbubble %}
 
+{% bubble Shinobu blush %}
 “Thank you, Isara-dono~! You were giving me a chance to say something ninja-like, right!? ♪”
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto awkward %}
 “Isara-kun tends to do stuff like that, doesn’t he… But yeah, we're running out of time, so how about we start?”
 
 “We really struggled to finish the preparations, and ended up taking so much time to get here…”
+{% endbubble %}
 
+{% bubble Makoto %}
 “But I wanna sing and dance lots with everyone—”
 
 “So I’m not letting a single second go to waste! Bring it on, Ryuseitai…☆”
@@ -225,19 +231,25 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 ## Chapter 2
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 “♪\~♪\~♪”
 
 <th>(Yes! I'm in perfect shape! My body feels light thanks to all that resting! I could soar to the far ends of the sky! Fuhahaha! ♪)</th>
+{% endbubble %}
 
+{% bubble Chiaki awkward %}
 <th>(I’d been over-pushing myself nonstop until Supernova happened, and that was only a while ago…)</th>
 
 <th>(I was forced to do it, but I’m still glad the doctor’s warning stopped me from pushing myself even further. It helped me finally slow down.)</th>
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 <th>(I really could’ve collapsed again if I kept going like that.)</th>
 
 <th>(But I was having so much fun, I just couldn't stop myself… and I ended up getting too into it. Ahhh… Guess I’m also still just a kid.)</th>
+{% endbubble %}
 
+{% bubble Chiaki smile3 %}
 <th>(It's just, everything feels so… dreamlike. I keep on wanting more and more.)</th>
 
 <th>(I never want the finale to come! Oh, stars in the night sky! O Orihime-sama, Hikoboshi-sama! Please, hear my wish!)</th>
@@ -251,7 +263,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “fufufu\~ we are [stars] swimming in the [milky way]\~ *puka puka\~♪*”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile3 %}
 <th>(Heheh, Kanata looks like he's having fun… I'm glad. He would always have a blank look on his face[^1] in his home, and it was pretty scary… The only time he didn't was when he was alone with me.)</th>
 
 <th>(I'm sure he's also happy to be back on stage.)</th>
@@ -269,45 +281,55 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep2_2.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 <th>(Mhm! And the first years have grown so, so much this time! I’m in awe! They're performing with such nimble movements!)</th>
 
 <th>(Everyone’s so into this! I can feel their overflowing enthusiasm!)</th>
 
 <th>(I made the right choice by entrusting the kids to Trickstar.)</th>
+{% endbubble %}
 
+{% bubble Chiaki smug %}
 <th>(I felt pathetic that I couldn't do a single thing for them — I couldn't even see them or support them, but…)</th>
 
 <th>(I'm absolutely certain *you* three can go anywhere, even without me around. Of course, I still plan to stay by your sides, and watch over you as much as I can, but…)</th>
 
 <th>(The day when we say our goodbyes will surely come. But even so, I know I have nothing to worry about.)</th>
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 <th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em>[^3] ☆)</th>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora curious %}
 <th>(Uu~myu… That idiot Taichou’s jumpin’ around everywhere, when he's only just recovered.)</th>
 
 <th>(I guess he’d built up a lotta stress during the time he was sick, since he couldn't join in on practice.)</th>
+{% endbubble %}
 
+{% bubble Tetora awkward %}
 <th>(You're gonna regret it if you end up collapsin’, y’know~? But I guess it's just like us to not think about the li’l details, and instead, charge forward immediately… yeah?)</th>
 
 <th>(Ahaha, “just like us”… I'm getting influenced by how Trickstar talk.)</th>
+{% endbubble %}
 
+{% bubble Tetora sad4 %}
 <th>(“Us,” huh… There was so much I didn't like 'bout Ryuseitai at first…)</th>
 
 <th>(I just wanted to join Taishou in Akatsuki…)</th>
+{% endbubble %}
 
+{% bubble Tetora v2 %}
 <th>(But us, being a mess like this, having nothing but fun like this… Ryuseitai perfectly suits who I am now.)</th>
 
 <th>(It's a festival riot every day! There’s never a single moment to worry over things! Woohoo~! ☆)</th>
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad2 %}
 <th>(Ughh… Everyone's way too energetic…)</th>
 
 <th>(Now *I* gotta perform just as loudly and flashily, or it’s gonna look like I'm the only one slacking off…)</th>
@@ -323,18 +345,20 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 <th>(Woah! That surprised me… They suddenly got right in front of me…)</th>
 
 <th>(I’ll crash into them if I’m not careful… This is a live showdown, so Trickstar is singing at the same time as us…)</th>
+{% endbubble %}
 
+{% bubble Midori sigh3 %}
 <th>(Ahh… This sucks, everything’s so messy…)</th>
 
 <th>(But I don’t have anywhere to hide… Everyone's focusing on me… This is why I'm scared of being onstage, it sucks… Ughh, and it's just so hot, this is seriously the worst…)</th>
 {% endbubble %}
 
-{% bubble Subaru %}
-“……♪”
+{% bubble Subaru grin %}
+“……♪” <th><em>(waves)</em></th>
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -355,7 +379,9 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>“Don’t you have any motivation?”)</th>
 
 <th>(You think you're *such* a good person by saying all of that… Acting as if you’re being reasonable and helpful…)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(When I *am* trying my best! I *am* doing it as properly as I can! I'm already at my limit, but you still come and spit in the face of my hard work!)</th>
 
 <th>(Then you laugh it all off and apologize with a simple *“Sooorry~♪”*)</th>
@@ -364,11 +390,11 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 <th>(And anyway, people of your species[^4]… Even if I hadn’t accidentally gotten into this school, you would've still been sparkling bright your whole life!)</th>
 
-<th>(You would've been doing that without ever knowing I existed!)</th>
+<th>(You would've been doing that without *ever* knowing I existed!)</th>
 {% endbubble %}
 
 {% bubble Midori angry %}
-<th>(Akehoshi-senpai! You don't know how it feels to be me! Living the life of a miserable bug underfoot while you glitter in the sunshine!)</th>
+<th>(Akehoshi-senpai! You don't know how it feels to be me! Living the life of a miserable bug underfoot while you glitter in the sunshine…!)</th>
 
 <th>(You don't! That's why you can't treat people like me right — You get close to us in all the wrong ways and then hurt us!)</th>
 
@@ -421,7 +447,7 @@ Ahh, this is so much fun! It's awesome\~! This sort of thing has been my dream f
 Dad…! I think I’ve finally reached it…☆
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 <th>(B-Bleached it?[^5] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
 {% endbubble %}
 
@@ -435,7 +461,7 @@ Dad…! I think I’ve finally reached it…☆
 
 {% img /img/es/eventstory/orihimeandhikoboshi/midoribcg.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori orihimebcg %}
 <th>(I'm nothing special… There's no point in me aiming for the stars…)</th>
 
 <th>(So I'll look down at my feet below, and do what I can in this moment… I’d only embarrass myself if I messed up right after being warned, so I'm gonna get that move right, like—this!)</th>
@@ -445,7 +471,7 @@ Dad…! I think I’ve finally reached it…☆
 
 {% img /img/es/eventstory/orihimeandhikoboshi/subarubcg.jpg %}
 
-{% bubble Subaru %}
+{% bubble Subaru orihimebcg %}
 ……☆
 {% endbubble %}
 
@@ -471,11 +497,11 @@ They're buzzing back and forth! It’s making me more and more excited!
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad4 %}
 …………
 {% endbubble %}
 
-{% bubble Makoto %}
+{% bubble Makoto worried %}
 <th>(Huh? This looks bad — Shinobu-kun's movements are so slow… And he's barely singing! Are the other Ryuseitai members performing so eagerly that they haven’t noticed his state…?)</th>
 
 <th>(He doesn't have much stamina, probably because of his small figure…)</th>
@@ -515,11 +541,11 @@ They're buzzing back and forth! It’s making me more and more excited!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep4_1.jpg %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad3 %}
 …………
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao curious %}
 Sengoku! …You okay?
 {% endbubble %}
 
@@ -537,11 +563,11 @@ And it'll be immediately obvious that something’s wrong if you get off the sta
 Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 {% endbubble %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad4 %}
 *Huff… Huff…* Uuu…
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao serious %}
 <th>(Mmm… It’s really not looking good for him. He's barely responding, not even with a quick nod.)</th>
 
 <th>(I mean, his safety is top priority… So if his condition gets really bad, I’ll forcibly carry him off the stage.)</th>
@@ -549,23 +575,23 @@ Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 <th>(Then I’ll take him to the infirmary. Hmm, what’s the fastest way to get there…?)</th>
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smile2 %}
 Isara-dono.
 
 You need not worry. I am alright.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao angry2 %}
 Nope. You don't look alright one bit, that's why I’m worried about you, y’know?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu frown2 %}
 …In just a few minutes, our time will end.
 
 I only need to endure until then, and as a ninja, I excel at that.[^6] If I say I'm okay, then it means I'm okay.
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao yare %}
 …That so. You can be pretty stubborn, huh…
 
 Well, I would've said the same thing if I were you. It'd suck to be the only one leaving the stage while everyone’s working hard.
@@ -585,7 +611,7 @@ I think of you as my precious, cute little brother. So if it ever feels bad, jus
 It's my repayment for all the times you’ve helped me out.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Fufu, “repayment”… That is what I'm supposed to say to you, Isara-dono.
 
 I was reaching my limit, and beginning to feel dizzy, and so my mind started to wander back to our first meeting.
@@ -595,16 +621,22 @@ To that time in spring… when I wanted to form the Ninja Association — Though
 And so, in order to do that, I headed over to the Student Council office…
 
 During that time, everyone else was also at the Student Council to register for clubs and units, and I got caught up in the big crowd.
+{% endbubble %}
 
+{% bubble Shinobu awkward %}
 The Student Council members seemed so busy dealing with everything…
 
 I am the type to simply hold my tongue and retreat at times like that.
+{% endbubble %}
 
+{% bubble Shinobu frown %}
 But I am tiny, and everyone around me was blocking my path, so I could not make a retreat…
 
 No one could even tell I was there. I was frozen in place, unable to say a word.
+{% endbubble %}
 
-But then, you noticed me, and called out to me. You were the only one to do such a thing.
+{% bubble Shinobu v2 %}
+However, you then noticed me, and called out to me. You were the only one to do such a thing.
 
 I am a pushover, so when people were cutting in line before me, I could not bring myself to say anything.
 
@@ -627,7 +659,7 @@ Whenever I had trouble with something, or had hit a wall, you were always there 
 It made me so happy. Something so normal, so natural and mundane… It was sparkling bright to me. I’ve never properly expressed my gratitude, so… Thank you, Isara-dono.[^8]
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao smile3 %}
 …You don't have to thank me. It really was something so normal, anyone could do it.
 
 More importantly, you need to keep yourself together. You’re starting to sound like these are your last words.
@@ -635,17 +667,17 @@ More importantly, you need to keep yourself together. You’re starting to sound
 Don't make me worry so much. …Our time is ending soon, so we just have to do our best now.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Okay. You are always carrying many burdens on your shoulders… So, in order to avoid adding to that load, and so that I do not end up repaying your goodness with evil, I will forge onward.
 
 It is a ninja's duty to come back alive! So I will do my very best! Ninjas and heroes never give up!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao smile3 %}
 Oooh… Your stamina's at zero, y’know? You shouldn’t jump about! But man, that's still amazing. Kids sure do bounce back quickly~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smug %}
 I am no kid! I am growing splendidly because of you and everyone in Ryuseitai — No, because of everyone in the whole world supporting me!
 
 I will be able to jump up even faster, and even higher!
@@ -659,7 +691,7 @@ You linked my chosen path to a bright, shining future!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/shinobubcg.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu orihimebcg %}
 I shall definitely become a splendid ninja! And then I shall become an idol like you, Isara-dono — I shall become someone who can be respected!
 
 I shall persist onwards, until that very day! I shall go through all the rigorous training, and endure it all, to the very end!
@@ -675,17 +707,17 @@ I already said it before, but if it really seems bad, just tell me.
 I'll help you out. If there's anything I can do, I'll do it, ‘kay?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Yaaay! ♪ You can do anything, so I could ask you to make any of my dreams and wishes come true!
 {% endbubble %}
 
-{% bubble Mao %}
+{% bubble Mao yare %}
 No, I can't. I may be capable of a lot of things, but I can't do any of them well.
 {% endbubble %}
 
 {% img /img/es/eventstory/orihimeandhikoboshi/maobcg.jpg %}
 
-{% bubble Mao %}
+{% bubble Mao orihimebcg %}
 But even if that’s true… There's still some wishes I can fulfill. I’ll have faith in that thought, and stand my ground next to all these sparkling people, just a little longer… together with you~♪
 
 Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last moment! Tanabata happens only once a year, so we gotta make this into a great, happy memory!
