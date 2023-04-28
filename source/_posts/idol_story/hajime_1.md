@@ -128,7 +128,7 @@ Well, of course, I’m very grateful to have my name in the news, no matter what
 
 But I’m not a pretty girl, so I feel as though I’m deceiving the whole world… It hurts to think about.
 
-Also, if I’m advertised in that sort of way— Although I can’t say much about Tomoya-kun, since he’s had to dress up as a girl for Theater Club performances…
+Also, if I’m advertised in that sort of way— Although I can’t say much about Tomoya-kun, since he’s had to dress up as a girl for Drama Club performances…
 
 Mitsuru-kun might feel restricted, and well — He may not be able to properly make the most of his strengths, even though he’s becoming so much cooler recently.
 

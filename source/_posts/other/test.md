@@ -95,7 +95,7 @@ I’ll keep saying it — the hero is right here!
 {% img /img/es/es2mainstory/chiakibcg.jpg %}
 
 {% bubble Chiaki grin %}
-We don't have to try and do everything all on our own. *All for one, one for all!*
+We don't have to try and do everything all by ourselves. *All for one, one for all!*
 {% endbubble %}
 
 <small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=616).</small>

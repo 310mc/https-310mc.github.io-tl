@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Sweet Halloween"
-date: 2021-10-29 9:10:00
+date: 2023-4-29 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -10,9 +10,8 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
 permalink: sweet_halloween/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -25,7 +24,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -119,7 +118,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -302,10 +301,6 @@ hidden: true
                                     <div class="card__jp">[] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -338,10 +333,6 @@ hidden: true
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -374,10 +365,6 @@ hidden: true
                                     <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -410,10 +397,6 @@ hidden: true
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -446,10 +429,6 @@ hidden: true
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -482,10 +461,6 @@ hidden: true
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -518,10 +493,6 @@ hidden: true
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -554,10 +525,6 @@ hidden: true
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
@@ -590,10 +557,6 @@ hidden: true
                                     <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
                                                 <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>

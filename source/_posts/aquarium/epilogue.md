@@ -342,7 +342,7 @@ Kanata-saaan? Sorry for interrupting your chatter, buuut could you come over her
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes? what’s wrong…? is there [trouble afoot]?[^1]
+yes? what’s wrong…? is there [trouble afoot]?
 
 i will do anything as an [apology] for causing [trouble] to everyone.
 {% endbubble %}
@@ -546,7 +546,7 @@ yes, i am also [hoping] that we will be able to do that.
 
 everyone together now\~! let's [sing] together with high spirits! we will sing our [ensemble] in unison\~♪
 
-this is the gentle [planet earth]![^2] we are all [family], born on this planet!
+this is the gentle [planet earth]![^1] we are all [family], born on this planet!
 
 we will help each other, love each other, and sing a happy [song]!
 
@@ -562,5 +562,4 @@ we will sing together! and i hope, foreeever…♪
 </div>
 
 ## Translation Notes
-[^1]: The original line for “is there trouble afoot” is 何か問題発生ですか (nanika mondai hassei desuka), which is a phrase Chiaki says in his ! era home screen (he says it without *desu* though), except Kanata is using it here.
-[^2]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be “water planet.”
+[^1]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be “water planet.”

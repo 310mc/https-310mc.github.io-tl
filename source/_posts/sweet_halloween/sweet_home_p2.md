@@ -15,8 +15,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
-hidden: true
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -86,7 +85,7 @@ hidden: true
 {% img /img/es/eventstory/sweethalloween/sweethome7_1.jpg %}
 
 {% bubble Nazuna %}
-Ahhh, I’m exhausted… Having t’prepare everything *and* practice is justoo much…
+Ahhh, I’m exhausted… Having t’prepare everythin’ *and* practice is justoo much…
 {% endbubble %}
 
 {% bubble Madara %}
@@ -94,27 +93,25 @@ Hahaha, you’re slurring your words, Nazuna-san.
 {% endbubble %}
 
 {% bubble Nazuna %}
-Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t hafta focus anymore, so…
+Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t hafta focus anymore, so 's fine…
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/sweethome7_2.jpg %}
 
 {% bubble Chiaki mgn %}
-………♪
+~……♪
 {% endbubble %}
 
 {% bubble Nazuna %}
-Nn—Oh? Chiaki-chin, you’re reading a book? I didn’t ‘spect something like that from you~♪
-
-So you got bad eyesight? The glasses made me think you were someone else…
+Nn— Oh? Chiaki-chin, you’re reading a book? I didn’t ‘spect something like that from you~♪ So you got bad eyesight? The glasses made me think you were someone else…
 {% endbubble %}
 
 {% bubble Madara %}
-Yeah, he wears glasses during class, too. You’re in class B, so you didn’t know that, huh?
+Yeah, he wears glasses during class, too. You’re in class B, so you didn’t know that, huuuh?
 {% endbubble %}
 
 {% bubble Nazuna %}
-Wow, really… Seeing a whole ‘nother side to someone is part of what’s so greatabout sleepovers, huh… <em><th>(yawn)</th></em>
+Wow, really… Seeing a whole ‘nother side to someone is part'a what’s so greatabout sleepovers, huh… <em><th>(yawns)</th></em> ♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -124,27 +121,27 @@ Since it isn’t even 10 PM yet, and the rest of us are still awake, you may hav
 {% endbubble %}
 
 {% bubble Nazuna %}
-Nnn, hnn… Yeah, maybe I will… I wanted to stay up with the kids, though…
+Mm, mm~… Yeah, maybe I will… I wanted to stay up and watch over the kids, though…
 
-But… my eyes keep closing all on their own… <em><th>(yawn)</th></em>
+But… my eyes keep closing all on their own… <em><th>(yawns)</th></em> ♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Do you always sleep around this time?
+Do you always sleep around this time, Nito?
 {% endbubble %}
 
 {% bubble Nazuna %}
-Yeah… My dad always leaves for work real early, so… I got used to that kinda schedule…
+Yeah, I got'a habit of sleeping an’ waking up early… My dad always leaves for work real early, so I ended up followin’ along…
 
 An’ like they always say, “sleeping is what helps a kid grow.”
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-It kind of seems like you’re done growing, though… You still look the same as you did in our first year. You’re so small that I sometimes forget you’re my age.
+It kind of seems like you’ve finished growing, though… You still look the same as you did in our first year. You’re so small that I sometimes forget you’re my age.
 {% endbubble %}
 
 {% bubble Madara %}
-Yep. Standing next to each other, you and I would look like a parent and their kid, Nazuna-san. So c’mon, go ahead and call me Mama~♪
+Yep. Standing next to each other, you and I would look like a parent and their kid, Nazuna-san. So c’mooon, go ahead and call me Mama~♪
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -162,17 +159,17 @@ He probably won’t be able to sleep well with the lights on, so maybe I should 
 {% endbubble %}
 
 {% bubble Madara %}
-Yep! You’re doing a great job, being considerate like that, Chiaki-san! Bravo, bravo~! ♪
+Yep! You’re doing a greaaat job, being considerate like that, Chiaki-san! Bravo, bravo~! ♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-You should be more considerate, too. You’re too loud.
+You should be more considerate, too. You’re too loud…
 
-We had a pretty rough day today, yet you don’t seem to be tired at all… That’s pretty impressive.
+Though, we had a pretty rough day today, yet you don’t seem to be tired at all… That’s pretty impressive.
 {% endbubble %}
 
 {% bubble Madara %}
-Are *you* tired? You don’t seem as energetic as usual. You alright?
+Are *you* tired? Actually, you don’t seem as energetic as usual in general. You alright?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -180,7 +177,7 @@ Yep. You don't need to worry, I’m in perfect shape.
 {% endbubble %}
 
 {% bubble Madara %}
-Ahh, that can only mean… O<em>ho,</em> you still can’t stand *that*, can you?
+Ahh, in that case, that can only meaaan… O<em>ho,</em> you still can’t stand *that*, can you?
 
 Don’t worry. If *that* ever shows up, I’ll beat it to a pulp~♪
 {% endbubble %}
@@ -192,9 +189,9 @@ Don’t worry. If *that* ever shows up, I’ll beat it to a pulp~♪
 {% bubble Madara %}
 I know how. I also know how to ward off *that*.
 
-It’s just like the shadow mentioned in psychology.[^1] It’s an illusion caused by anxiety or fear.
+It’s juuust like the shadow mentioned in psychology.[^1] It’s an illusion caused by anxiety or fear.
 
-So you should make sure to be in a happy, good mood. C’mon, don’t read a book; let’s go play a board game with the kids~♪
+Sooo you should make sure to be in a happy, good mood. C’mooon, don’t read a book; let’s go play a board game with the kids~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/chiakiorigcg.jpg %}
@@ -202,7 +199,7 @@ So you should make sure to be in a happy, good mood. C’mon, don’t read a boo
 {% bubble Chiaki mgn %}
 I’ve made it a habit to read something before I sleep, but… yeah, alright. I can always read some other time.
 
-Let’s try to spend some time with them without disturbing Nito’s sleep. Getting closer to everyone is also another objective of this sleepover.
+Let’s try to spend some time with them without disturbing Nito’s sleep. Getting closer to everyone is also another objective of this sleepover party.
 
 My beloved comrades! What are you all doing over in that corner? Let us take part in it, too~♪
 {% endbubble %}
@@ -212,17 +209,17 @@ Eughhh, here comes the loud one…
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, but it’d be a shame to only be around our yearmates, wouldn’t it?
+Heheh, but it’d be a shame to only be around our yearmates, wouldn’t it?
 
-So we should all get along with each other while we have the chance. Please come over here~♪
+We should all get along with each other while we have the chance. Please come over here~♪
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Mike-chan-senpai, you sit over here! It’s the farthest spot! Cuz you’d be in the way if you were in the front!
+Mike-chan-senpai, you sit over here! It’s the farthest spot! 'Cuz you’d be in the way if you were in the front!
 {% endbubble %}
 
-{% bubble Madara %}
-“In the way,” he says… Uhh, so what are you all doing? There’s cushions here to sit on… Are you guys gonna start telling stories?
+{% bubble Madara awkward %}
+“In the way” is a mean way to put… Uhh, sooo what're you all doing? There’s cushions here to sit on… Are you guys gonna start telling stories?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -230,9 +227,9 @@ Oh, no. We’re going to be watching horror movies together~♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Horro…!? Huh!? Why are you…!? It isn’t the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
+Horr—…!? Huh!? Why're you…!? It isn’t the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
 
-Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right?
+Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -246,19 +243,19 @@ Gahhh!? You really are amazing, Takamine…! So kind and strong…!
 {% endbubble %}
 
 {% bubble Madara %}
-Oh yeah, I haven’t seen Anzu-san around…
+Oh yeaaah, I haven’t seen Anzu-san around…
 
 I wonder if she’s doing alright… Well, it’s not like we can ask a girl to come and sleep over with us, though.
 {% endbubble %}
 
 {% bubble Tetora %}
-Anego went home after working for as long as she could for the day.
+Anzu-Anego went home after working for as long as she could for the day.
 
 It seems like Trickstar are usually the ones to walk her home, but lately she’s been getting a ride home from her parents.
 {% endbubble %}
 
 {% bubble Madara %}
-I see… Sounds like she’s completely focused on her work… I wish she’d join in on the fun, though.
+I see… Sounds like she’s compleeetely focused on her work… I wish she’d join in on the fun, though.
 {% endbubble %}
 
 ## Chapter 8
@@ -266,23 +263,23 @@ I see… Sounds like she’s completely focused on her work… I wish she’d jo
 {% img /img/es/eventstory/sweethalloween/sweethome8_1.jpg %}
 
 {% bubble Madara %}
-That aside… Why a horror movie? How about we watch something we can all enjoy instead, like an action movie?
+Anyway, that aside… Why a horror movie? How about we watch something we can aaall enjoy instead, like an action movie?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Y-yeah! I like that idea! Let’s watch *Ganbare Robocon* or something! It’s really heart-warming!!
+Y-Yeah! I like that idea! Let’s watch *Ganbare Robocon* or something! It’s really heart-warming!!
 {% endbubble %}
 
 {% bubble Tomoya %}
 But we’re going to be participating in Halloween Party, right? And Halloween’s all about dressing up as ghosts and monsters.
 
-So we’re watching horror movies to take note of how to how to act more monster-like.
+So we’ll watch horror movies to take note of how to act more monster-like.
 
 Us Ra*bits do stuff like this often so we can take notes on how to do things.
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Yeah, yeah! We watch a lot of stuff with animals in it! Not much happens in them, though, so I get sleepy watching them! ♪
+Yeah, yeah! We watch a lotta stuff with animals in it! Not much happens in them, though, so I get sleepy watching them! ♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -292,11 +289,11 @@ It’s the same as that… What, do you have a problem or something?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-N-no? Nope, none at all! Quite the opposite! It’s wonderful how you’re all putting so much work into it!
+N-No? Nope, none at all! Quite the opposite! It’s wonderful how you’re all putting so much work into it!
 
-But you know, no one will scold you if you choose to play around and chat with each other instead! It’s your free time, after all!
+But you know, no one would scold you if you choose to play around and chat with each other instead! It’s your free time, after all!
 
-Why, Kanata went off to feed the fish in the fish tanks instead of hanging out with us! You know, those fish tanks in the Marine Life Club room…! Yeah, those!!
+Why, Kanata went off to feed the fish in the fish tanks instead of hanging out with us! Y'know, those fish tanks in the Marine Life Club room…! Yeah, those!!
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -304,19 +301,19 @@ Wawa— Morisawa-senpai, shhh\~♪ I think Nii\~chan is asleep, so please keep y
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Ah! Yeah! My bad! I-I think I’ve gotten tired, too! Can I go ahead and get some rest? Is it okay if I do that!?[^3]
+Ah! Yeah! My bad! I-I think I’ve gotten sleepy, too! Can I go ahead and get some rest? Is it okay if I do that!?[^3]
 {% endbubble %}
 
 {% bubble Midori %}
-Oh no no, don’t be like that\~ Let’s all watch the movie together\~♪
+Oh no no… Don’t be like that\~ Let’s all watch the movie together…♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-T-Takamine? Your face looks mischievous! Why is that! Did I do something to make you angry again!?
+T-Takamine? Your face looks mischievous! Why is that!? Did I do something to make you angry again!?
 {% endbubble %}
 
 {% bubble Shinobu %}
-…? Um, what shall we start with?
+…? Umm~ What shall we start with?
 
 I brought over the DVDs — I mean, the reference material from the AV room and the library.
 
@@ -332,23 +329,23 @@ E-Every night? We’ll be watching horror movies every night? Will we be alright
 {% bubble Tetora %}
 No one’s ever died from watching horror movies…
 
-Ah—But this one says that it’s not a movie for the weak-hearted.
+Ah— But this one says that it’s not a movie for the weak-hearted.
 {% endbubble %}
 
 {% bubble Hajime %}
-Wah—It really does look scary… I’m kind of okay with gory scenes, but I can’t handle jumpscares.
+Wah— It really does look scary… I’m kind of okay with gory scenes, but I can’t handle jumpscares.
 {% endbubble %}
 
 {% bubble Midori %}
-Shino-kun, you watch horror movies…?
+Shino-kun, you often watch horror movies…?
 {% endbubble %}
 
 {% bubble Hajime %}
-Yes, but not often~♪ My brother seems to like them, so he rents a few sometimes.
+Not that often~♪ My little brother seems to like them, so he rents a few sometimes.
 
 He likes them, but he’s also scared of them, so he clings to me whenever we’re watching one.
 
-Hehe, my brother has been kind of rebelling against me, but sometimes he acts spoiled around me~♪
+Heheh, my brother has been kind of rebelling against me, but sometimes he acts spoiled around me~♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -358,29 +355,31 @@ Go ahead and start the movie without me!
 {% endbubble %}
 
 {% bubble Tetora %}
-Ah! We’ve got all the stuff we need already! Look, we bought all kinds of drinks and snacks~♪
+Ah! We’ve got all the stuff we need already! Look, we bought all kinds of drinks and snacks!
 
 We’ve got a special spot right here just for you seniors, so just relax and enjoy the movie~♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Gahhh!? Oh Nagumo…! You’re such a good kid…!!
+Gahhh!? Oh Nagumo…! You’re such a good boy…!!
 {% endbubble %}
 
 {% bubble Mitsuru %}
-Mmm… We shouldn’t drink stuff and eat snacks around this hour, you know? My mom always scolds me about that!
+Mmm… We shouldn’t drink stuff and eat snacks around this hour, y'know? My mom always scolds me about that!
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, we *are* idols, so we should avoid eating too many snacks, but it’s nothing to scold someone over, so… I think it’s fine if you all eat as much as you like.
+Hahaha, we *are* idols, so we should avoid eating too many snacks, buuut…
+
+It’s nothing to scold someone over, sooo… I think it’s fine if you all eat as much as you like.
 
 You should give it up, too… Or rather, you should just buckle up and try your best to enjoy yourself, Chiaki-san.
 
-It might be difficult, but… you may be able to overcome your weaknesses if you can get used to them, you know?
+It might be rough, buuut… you may be able to overcome your weaknesses if you can get used to them, y'know?
 {% endbubble %}
 
 {% bubble Midori %}
-Weaknesses…? So Morisawa-senpai really is bad with scary stuff?
+Weaknesses…? So Morisawa-senpai really is bad with scary stuff…?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -416,11 +415,11 @@ i am back~♪
 {% endbubble %}
 
 {% bubble Kanata %}
-…fwah? i-i am so sorry! i [turned] around and bumped into you!
+…fwah? i-i am so sorry! i was looking [away] and bumped into you!
 {% endbubble %}
 
 {% bubble Nazuna %}
-Nnnn… It’s ok. You’re big, so you didn’t see me sitting.
+Mm~… It’s ok. You’re big, so you didn’t see me sitting.
 
 What do I gotta eat to be that tall? I’m so jealous…
 {% endbubble %}
@@ -434,13 +433,13 @@ the reason why you do not grow taller, and why [governments] become [corrupt], a
 {% bubble Nazuna %}
 Mmm? Sorry, I’m still half-asleep so I dunno what you’re sayin’…
 
-Uuu… I was this close to getting a good night’s sleep when I was suddenly woken up… My head feels so heavy…
+Uuu… I was this close to getting a good night’s sleep when I was suddenly woken up… My head feelso heavy…
 
-Ahh, jeez… What’s this whole ruckus about?
+Ahh, jeez… What’s this whole ruckus 'bout?
 {% endbubble %}
 
 {% bubble Kanata %}
-hmm~? they are watching a [movie], i think?
+hmm~? they are watching a [movie], i think…?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -466,11 +465,11 @@ Please run away, Michael-san! Your lover Judy-san is waiting for you in your hom
 {% endbubble %}
 
 {% bubble Tomoya %}
-If you think about it, since they were just talking about his past with his lover and all… it feels like he’s probably gonna die soon.
+If you think about it meta-wise, since they were just talking about his past with his lover and all… it feels like he’s probably gonna die soon.
 {% endbubble %}
 
 {% bubble Midori %}
-Yeah, I totally know what you mean… This guy’s likely gonna die…
+Yeah, I totally know what you mean… That's how you know the character's gonna die…
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -478,19 +477,19 @@ H-He won’t die, right!? He survived this long! You’re just lying when you sa
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, I’ve watched this movie before so I know what happens. But I’m not gonna ruin the fun! No spoilers allowed~♪
+Hahaha, I’ve watched this movie before, so I know what happens. Buuut I’m not gonna ruin the fun! No spoilers allowed~♪
 
-Don’t worry, don’t worry! In fiction, the good guys almost always win!
+Don’t worry, don’t worry! In fiction, the good guys almost aaalways win!
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
 R-Really? Can I really believe in that?
 
-Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeeeeeee!!
+Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeee!!
 {% endbubble %}
 
 {% bubble Hajime %}
-Ah…! Ahhhh!? Nooooooooooo!!
+Ah…! Ahhhh!? Noooooooo!!
 {% endbubble %}
 
 {% bubble Mitsuru %}
@@ -504,13 +503,13 @@ I-It’s fine if you don’t want to, though…
 {% endbubble %}
 
 {% bubble Hajime %}
-Huh…? Um… I-It isn’t that I don’t want to…
+Huh…? Um…? I-It isn’t that I don’t want to…
 {% endbubble %}
 
 {% bubble Midori %}
-Heeey, Morisawa-senpai~?
+Heeey, Morisawa-senpai…?
 
-Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, you know\~? ♪
+Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, y'know\~? ♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -518,7 +517,9 @@ No! It’s scary! I don’t wanna see any more blood and guts!
 {% endbubble %}
 
 {% bubble Midori %}
-You always force us to watch hero stuff when we never even wanted to… so there’s no reason why *you* should be the only one to get away with something like that, right?
+You always force *us* to watch hero stuff when we never even wanted to, though…?
+
+So there’s no reason why *you* should be the only one to get away with saying that, right…?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -538,19 +539,19 @@ Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% bubble Midori %}
 Then why exactly are you tugging on my sleeve and shaking in fear…?
 
-Wait a sec… didn’t you shout “It’s scary!” just now…?
+Wait a sec… didn’t you yell “It’s scary!” just now…?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-N-n-no! You misunderstand, Takamine! *“Sca-ree”* in Swahili means “It’s really interesting”!
+N-N-No! You misunderstand, Takamine! *“Sca-ree”* in Swahili means “really interesting”![^4]
 {% endbubble %}
 
 {% bubble Midori %}
 In *Swahili*…? I can’t *wait* to see what your next excuse will be…♪
 
-Anyway, there really isn’t anything to be embarrassed about… we all have things we can’t stand…
+Anyway, there really isn’t anything to be embarrassed about… We all have things we can’t stand…
 
-In a way, it’s more embarrassing and uncool to keep trying to pretend to like something you actually hate…
+In a way, it’s more embarrassing and uncool to keep insisting that you like something you actually hate…
 
 It’s natural to have dislikes… Just be true to yourself… Aren’t *you* the one who’s always telling me stuff like, “I love you no matter what”…?
 {% endbubble %}
@@ -559,7 +560,7 @@ It’s natural to have dislikes… Just be true to yourself… Aren’t *you* th
 …? What was that, Takamine? Sorry, I can’t hear you very well from under all the blankets!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori yare %}
 Never mind… It wasn’t anything important, so please don’t worry about it…
 {% endbubble %}
 
@@ -568,7 +569,7 @@ midori~? that [pufferfish]-looking thing next to you… is that chiaki?
 {% endbubble %}
 
 {% bubble Midori %}
-Ah, welcome back Shinkai-senpai… Don’t walk around outside for too long…
+Ah, welcome back, Shinkai-senpai… Don’t walk around outside for too long…
 
 Well, you were only strolling around the school, so I guess nothing bad would have happened to you, anyway…
 {% endbubble %}
@@ -578,7 +579,7 @@ fufu, i am sorry. did i [worry] you?
 {% endbubble %}
 
 {% bubble Midori %}
-Mmm… It’s not really about me… It feels like Morisawa-senpai gets really anxious without you around…
+Mm~… It’s not really about us… It feels like Morisawa-senpai gets really anxious without you around…
 
 So please don’t just disappear out of nowhere…
 {% endbubble %}
@@ -586,9 +587,11 @@ So please don’t just disappear out of nowhere…
 {% bubble Kanata %}
 fufufu, that is because chiaki is more [spoiled] than you would expect.
 
-but it looks like things will be okay, since it seems like you are [protecting] him.
+but it looks like it will be okay, since it seems like you are [protecting] him.
 
-or actually… with everyone in ryuseitai supporting chiaki, there can be nothing scary in this whole [world].
+or actually, because everyone in ryuseitai is supporting chiaki…
+
+there is not a single scary thing in this whole [world].
 {% endbubble %}
 
 ## Chapter 10
@@ -622,11 +625,11 @@ Tomoya-kun! It’s the morning~!! Please wake up!
 {% bubble Tomoya %}
 …Mmgaah!? Ah, huh? Huh, what?
 
-W-why are you…? Morning! Ah—Ohhh, that’s right, we slept at school…
+W-Why is Hajime…? Morning! Ah— Ohhh, that’s right, we slept at school…
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you’re still half-asleep.
+Heheh, you’re still half-asleep.
 
 …Could we talk for a bit?
 {% endbubble %}
@@ -640,7 +643,9 @@ Hm, Mitsuru-kun and Mikejima-senpai said they have a daily routine of running in
 
 Morisawa-senpai, Tetora-kun, and some other people joined them, as well.
 
-Nii~chan is making breakfast. I was helping him out with that, but you still hadn’t woken up, so I came over to see how you were doing.
+Nii~chan and the others are making breakfast.
+
+I was helping them out with that, but you still hadn’t woken up, so I came over to see how you were doing.
 
 Ehehe. I didn’t expect you to be such a sleepyhead, Tomoya-kun.
 
@@ -658,11 +663,11 @@ I think it’s fine. That’s just like you… <em><th>(nibble, nibble)</th></em
 {% endbubble %}
 
 {% bubble Tomoya %}
-Hajime? Why are you trying to eat my hair?
+Hajime? Why're you trying to eat my hair?
 {% endbubble %}
 
 {% bubble Hajime %}
-Ah—You had some hair sticking out, so I thought I could lick it down.
+Ah— You had some hair sticking out, so I thought I could lick it down.
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -674,9 +679,9 @@ Okay.  …If I ever do something you don’t want me to do, please tell me.
 
 Actually, please tell me what’s okay to do, and what isn’t.
 
-You probably already knew this, but… I’ve always been unable to do anything properly.
+I'm sure you already know this, but… I’ve always been unable to do anything properly.
 
-I could never really do things that other people could normally do, like swinging on monkey bars…[^4]
+I could never really do things that other people could normally do, like swinging on monkey bars…[^5]
 
 I was always so slow… People would get tired of waiting, and leave me behind…
 
@@ -698,25 +703,25 @@ That’s just fine, though, Tomoya-kun.
 
 I couldn’t do anything to help anyone, so being able to satisfy your heart was ten times better than that.
 
-But when I joined Yumenosaki… what was the norm to me just collapsed. It changed entirely…
+But when I joined Yumenosaki… what was the norm to me just collapsed. It changed entirely. People would compliment me, enough to surprise me…
 
-People would compliment me, enough to surprise me… to completely shock me.
+Enough to completely baffle me. Even though all I did was sluggishly do things other people could easily do—
 
-They’d say things like, “Nice job” “You’re amazing” “Good boy,” even though all I did was sluggishly do things other people could easily do.
+They’d praise me with words like, “Nice job,” “You’re amazing,” “Good boy”.
 
-And lately, I even get told I’m cute… Even though, from the way I see it, I haven’t actually changed…
+And lately, I even get told I’m cute… Even though, from the way I see it, I haven’t actually changed.
 
-But it made me happy. Everyone used to be shocked by how slow I was, after all.
+But it made me happy. Everyone used to be fed up of how slow I was, after all.
 
 I kept getting complimented, and people thought good things about me… It made me want it more and more.
 
-That’s why… Ever since my pair lesson with Tori-kun, I kept thinking about how I wanted to aim to be cute… How I wanted to be even more cute…
+That’s why… Ever since my pair lesson with Tori-kun[^6], I kept thinking about how I wanted to aim to be cute… How I wanted to be even more cute…
 
 About how I wanted to be praised more…
 {% endbubble %}
 
 {% bubble Tomoya %}
-You don’t have to rush yourself so much, you know?
+You don’t have to rush yourself so much, y'know?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -730,13 +735,13 @@ That’s my dream right now.
 
 You know, Tomoya-kun… I wasn’t really interested in idols.
 
-I loved you and didn’t want to separate from you, so I just followed after you without thinking.
+I simply just loved you and didn’t want to separate from you, so I followed after you without second thought.
 
 But it’s different now.
 {% endbubble %}
 
 {% bubble Tomoya %}
-……
+…………
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -758,9 +763,13 @@ I don’t know if that’s really true…
 
 But… Tomoya-kun. It’s my turn this time. I’m going to lead you by the hand for all the times you’ve done the same for me.
 
-The future I’m aiming for might be a little different from yours, since you’ve always loved cool idols, not cute.
+The future I’m aiming for might be a little different from yours.
 
-So someday, we may end up walking different paths from each other, but… I want to believe that that “someday” will be far, far away from now… and that no matter what, I mustn’t stop in my tracks.
+After all, you’ve always loved cool idols, not cute ones.
+
+So someday, we may end up walking different paths from each other, but…
+
+I want to believe that that “someday” will be far, far away from now… and that no matter what, I shouldn't stop in my tracks.
 
 If there’s a wall blocking your way, then I’ll lead you to an alternate route. We should be able to build some muscle as we’re walking, and we’ll get to experience new things.
 
@@ -774,7 +783,7 @@ I don’t want to separate from you… I can’t do anything without you… I wo
 {% endbubble %}
 
 {% bubble Hajime %}
-Okay. If I ever do something wrong, please scold me like you did just now.
+Okay. If I ever do something wrong again, please scold me like you did just now.
 
 Please, just be close enough that I can hear you say it… It doesn’t matter which of our hands is doing the pulling, as long as it’s your hand in mine.
 
@@ -786,7 +795,7 @@ Please, I’m begging you, Tomoya-kun… I love you.
 {% endbubble %}
 
 {% bubble Hajime %}
-…? Why are you staring at me? Is my hair messed up?
+…? Why're you staring at me? Is my hair messed up?
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -798,13 +807,13 @@ Huh!? Am I not good enough as a boy?
 {% endbubble %}
 
 {% bubble Tomoya %}
-No, it’s fine that you are… But if you were a girl, then even though it’s not what you meant, I could’ve mistaken what you said as something else….
+No, it’s fine that you are… But if you were a girl, then even though it’s not what you meant, I could’ve mistaken what you said as something else…
 {% endbubble %}
 
 {% bubble Hajime %}
 Mistaken what I…?
 
-Ah—Um! When I said I love you, I meant it as friends!!
+Ah—! Uu~ When I said I love you, I meant it as friends!!
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -826,21 +835,23 @@ You don’t like crossdressing either, right?
 {% endbubble %}
 
 {% bubble Tomoya %}
-I just got something against it a bit, like any guy would… But I’m part of the Theater Club, so I’m supposed to take on any role without complaining.
+I just got something against it a bit, like any guy normally would… But I’m part of the Drama Club, so I’m supposed to take on any role without complaining.
 
-Still.. whenever I get pushed into doing something I don’t wanna do, I start to feel kinda worthless… I don’t like it.
+Still… whenever I get pushed into doing something I don’t wanna do, it makes me feel like I'm being told that I'm worthless… I don’t like it.
 
 But eh, I know I’m just being a typical teenager by acting like this.
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, we *are* highschool students, after all. We can’t keep letting our parents do our work for us.
+Heheh, we *are* high school students, after all. We can’t keep wearing the clothes our parents choose for us.
 
-The expert we take reference from is completely fine with crossdressing, but I’m not sure if just copying everything he does is the best choice.
+The expert we take reference from is completely fine with crossdressing, but…
 
-And, like I learned in my pair lesson with Tori-kun, there are lots of different ways to be cute.
+I’m not sure if just copying everything he does is the best choice.
 
-I think we should aim for our own kind of cute. The cute that suits us.
+And, like I learned in my pair lesson with Tori-kun, there are a lot of different ways to be cute.
+
+I think we should aim for our very own kind of cute. The cute that suits us.
 
 But for now, we have to focus on the Halloween Party.
 
@@ -860,15 +871,17 @@ We’re not some unit that just does whatever to be cute… No, we’re a unit o
 {% endbubble %}
 
 {% bubble Hajime %}
-That’s right, we grew this big because of everyone working so hard together.
+That’s right, Tomoya-kun. Ra*bits grew this big because of everyone working so hard together.
 
-Tomoya-kun, I don’t like to be awkward around you, and I hate the thought of separating from each other…
+Tomoya-kun, I don’t like to be tense around you, and I hate the thought of separating from each other…
 
-So if there’s ever something that’s stopping you in your tracks, please feel free to talk to me about it. I’ll also do my best to speak my own mind.
+So if there’s ever something that’s stopping you in your tracks, please feel free to talk to me about it.
+
+I’ll also do my best to speak my own mind.
 
 I couldn’t really make up my mind on what I should’ve done about our problem this time around… Then things kept getting worse between us, and our time was wasted away just like that…
 
-I really couldn’t stand how slow I was… I want to properly fight you the next time around.
+I really can’t stand how slow I am… I want to properly fight you the next time around.
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -876,11 +889,11 @@ I don’t even *wanna* fight… I seriously didn’t know what I’d do if you h
 {% endbubble %}
 
 {% bubble Hajime %}
-Oh gosh, what are you talking about? Don’t relax just yet, Tomoya-kun. We haven’t *actually* solved everything.
+Oh gosh, what are you talking about? You shouldn't relax just yet, anyway, Tomoya-kun. We haven’t *actually* solved everything.
 
 We’re going to keep having moments of frustration. We’ll collide somehow, and may lose our way…
 
-But, I’d like to think that we could get through each of those moments together.
+But, I’d like to believe that we can get through each of those moments together.
 
 That’s why… Ehehe, I hope we can keep getting along with each other.
 {% endbubble %}
@@ -890,7 +903,7 @@ What’re you being so formal for? Well, whatever. Same here. Handshake~♪
 {% endbubble %}
 
 {% bubble Hajime %}
-Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
+Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 {% endbubble %}
 
 <div toc>
@@ -904,4 +917,6 @@ Handshake~♪ Ehehe, Tomoya-kun, you really are so warm!
 [^1]: The shadow Madara talks about is Jungian psychology.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: He unusually asks for permission with *dame kana*.
-[^4]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
+[^4]: Fun fact, Swahili has a similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
+[^5]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
+[^6]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.

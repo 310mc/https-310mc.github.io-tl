@@ -64,7 +64,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a>
 
 <div toc>
 {% btn /aquarium/hanging_out_together,, arrow-left, Previous Chapter: Hanging Out Together %}
@@ -183,7 +183,7 @@ Is that why you’re in the corner, looking like you can’t stand being here fo
 {% endbubble %}
 
 {% bubble Souma %}
-Fufu, be slow and steady, Anzu-dono.[^1] You should take a relaxing break.
+Fufu, be slow and steady, Anzu-dono. You should take a relaxing break.
 
 The more you exhaust yourself, the more you will cause careless mistakes to happen… Not only that, but you will be less mindful of your surroundings. It is not a pleasant experience.
 
@@ -694,6 +694,3 @@ because i am no longer a [god]… i was able to become the same [human being] as
 {% btn /aquarium,, star, Index %}
 {% btn /aquarium/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
-
-## Translation Notes
-[^1]: The original line for “Slow and steady” is 急がず焦らず (isogazu aserazu), which is a phrase Kanata commonly says (it’s even one of his voice clips), except Souma is using it here.

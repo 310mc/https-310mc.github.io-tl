@@ -743,7 +743,7 @@ When you put them together… you see it?
 {% bubble Hokuto %}
 Ooh, you're right, it's a star. So we make a star by positioning our hands and legs, I see.
 
-I've done something like that before for a Theater Club performance.
+I've done something like that before for a Drama Club performance.
 {% endbubble %}
 
 {% bubble Makoto %}
