@@ -929,6 +929,17 @@
 [character="Kaoru"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_awkward.png");
 }
+[character="Kaoru"][tied] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_tied.png");
+}
+/**
+***/
+
+/** Rei Expressions
+***/
+[character="Rei"][ore] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_ore.png");
+}
 /**
 ***/
 

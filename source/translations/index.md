@@ -166,7 +166,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Crossroad"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/4502.html" class="storyName" target="_blank">
+        <a href="/crossroad" class="storyName" target="_blank">
             <span>Crossroad (Chiaki Scenes Only!)</span>
             <span class="read"></span>
         </a>

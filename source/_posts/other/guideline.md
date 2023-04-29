@@ -41,7 +41,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
 
 ## Currently Working On
 
-<big>※ Finish uploading the following [translations](/translations) to this site:</big>
+<big>※ Uploading the following [translations](/translations) to this site:</big>
 
 <div class="stories">
     <div class="story">
