@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Crossroad (Chiaki Scenes ONLY!)"
-date: 2019-12-25 2:50:00
+date: 2017-7-31 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]
@@ -59,6 +59,12 @@ permalink: crossroad/
 
 <!-- more -->
 
+## Introduction
+
+<big><a href="https://ensemble-stars.fandom.com/wiki/Crossroad" target="_blank">Crossroad</a> was released on July 31st 2017. It's the first story that revealed how Chiaki used to be in past, including being the first reveal that he wears glasses.</big>
+
+<big>This translation introduces all the Chiaki scenes from Crossroad.</big>
+
 ## Live Quotes
 
 {% img /img/es/eventstory/crossroad/live_1.jpg %}
@@ -98,7 +104,7 @@ First off, by the time Keito finally got Rei to the live house, something unexpe
 {% endbubble %}
 
 {% bubble Rei ore %}
-Hmm? Hey, there's someone singing onstage.
+Hmm? Hey, there's someone singin’ onstage.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -122,7 +128,7 @@ But if that’s the case, then you’re in trouble! Leave this place to me, and 
 {% endbubble %}
 
 {% bubble Keito %}
-W-What are you on about?! Explain, Morisawa! I might be able to help!
+W-What are you on about!? Explain, Morisawa! I might be able to help!
 
 <th>(And while I'm pretending to be worried, I’ll move away from Sakuma-san and… sneakily get closer to Morisawa and talk to him quietly.)</th>
 {% endbubble %}
@@ -130,7 +136,7 @@ W-What are you on about?! Explain, Morisawa! I might be able to help!
 {% img /img/es/eventstory/crossroad/1_2.jpg %}
 
 {% bubble Keito %}
-…<em><th>(whispering)</th></em> Hey, was Eichi here? He didn’t get kidnapped for real, did he?
+<em><th>(whispering)</th></em> …Hey, was Eichi here? He didn’t get kidnapped for real, did he?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -188,7 +194,7 @@ Oh right, is this part of your Ryuseitai activities?
 {% img /img/es/eventstory/crossroad/1_4.jpg %}
 
 {% bubble Chiaki mgn %}
-No way! A rowdy underground live house like this is very ill-fitting for the duties performed by heroes of justice.
+No way! A rowdy underground live house like this is very ill-fitted for the duties performed by heroes of justice.
 
 A more ideal place would be a really tall skyscraper, or an abandoned mining cave.
 {% endbubble %}
@@ -214,7 +220,7 @@ And that’s why I started singing.
 {% bubble Keito %}
 <th>(Huh… so that’s what happened, I get it now. I should've known that bribing some delinquents to do your bidding wouldn't go that well.)</th>
 
-<th>(They changed the plan as they pleased, without ever giving thought to what was really intended… They’re beyond help— Actually, no, our plan was probably just too weak.)</th>
+<th>(They changed the plan as they pleased, without ever giving thought to what was really intended… They’re beyond help — Actually, no, our plan was probably just too weak.)</th>
 
 …That must’ve been unfortunate for you.
 {% endbubble %}
@@ -226,7 +232,7 @@ Yeah, they sneered and made fun of me… It was pretty rough…
 
 But I waited for an opening and loosened Tenshouin-kun’s binds a little, so he could escape by himself.
 
-After that, I just had to buy enough time by bringing all the attention to myself. And I'm going to continue singing until my throat goes dry!
+After that, I just had to buy enough time by bringing all the attention to myself. I'm going to continue singing until my throat goes dry!
 {% endbubble %}
 
 {% bubble Keito %}
@@ -330,7 +336,7 @@ Rei and Keito have a small chat, where Keito is displeased by Rei’s “People 
 {% endnote %}
 
 {% bubble Rei ore %}
-Anyways, I went with my gut and barged in on this guy’s live, since he sounded so pitiful, singing all alone.
+Anyways, I went with my gut and barged in on this guy’s live, since he sounded so pitiful, singin’ all alone.
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/1_9.jpg %}
@@ -403,6 +409,8 @@ Right then, see ya. Come back before it gets too late, alright?
 After a while, Kuro could hear a singing voice from inside the live house, to which he commented: “I hear a nice energetic singing voice… Is that Morisawa?”
 {% endnote %}
 
+<hr>
+
 ***In a few later chapters…***
 
 Kuro approaches Keito near school for something. They have a small chat, until Keito asks what Kuro really wants from him. Kuro says his friend Chiaki is wondering which hospital Eichi is in, and thought Keito might know. After a bit more side-tracked chatter, Kuro asks to get an answer to his question.
@@ -416,6 +424,8 @@ Keito says, it’d probably be a lot faster if he sent the info to Chiaki direct
 Kuro replies, “Huh? I can’t just give away other people’s personal info as I please.”
 
 Keito is impressed by how considerate Kuro is, to which Kuro replies with “I’m the type of delinquent that’d pick up a stray dog in the rain.”
+
+<hr>
 
 ***Kuro's Special Mini Event 3/3:***
 
@@ -452,7 +462,7 @@ Ahh, I kinda remember seeing you around. You’re in Ryuseitai, right?
 
 You guys from Ryuseitai don’t really have good manners, so be careful, okay? Tell that to the other guys too.
 
-If it starts to get worse, you might get thrown out and forbidden from entering the live house again.
+If it starts to get worse, you might get thrown out and get banned from entering the live house again.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -492,6 +502,6 @@ But changing things is pretty hard…
 {% endbubble %}
 
 <div toc>
-<div style="margin-bottom:5px">{% btn #Live-Quotes,, arrow-up, Back to Top %}</div>
+<div style="margin-bottom:5px">{% btn #Introduction,, arrow-up, Back to Top %}</div>
 {% btn /translations#Event-Stories,, star, Index %}
 </div>

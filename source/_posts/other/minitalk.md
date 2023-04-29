@@ -13,6 +13,8 @@ permalink: minitalk/
 
 <link rel="stylesheet" href="/css/storylist.css">
 
+{% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
+
 Mini Talk translations by 310mc.
 
 <!-- more -->

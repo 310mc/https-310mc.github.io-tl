@@ -1,6 +1,6 @@
 ---
 title: "Ryuseitai Album Commentary"
-date: 2023/4/7 9:00:00
+date: 2018-3-7 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

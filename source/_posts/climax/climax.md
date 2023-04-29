@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Climax"
-date: 2023-3-24 9:00:00
+date: 2017-3-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
