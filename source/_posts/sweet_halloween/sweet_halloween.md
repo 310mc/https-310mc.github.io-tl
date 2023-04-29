@@ -297,8 +297,40 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Horror Jiangshi] Chiaki Morisawa</div>
+                                    <div class="card__jp">[ホラーキョンシー] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/sweethalloween/hajimecard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/sweethalloween/hajimebcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Honey Zombie] Hajime Shino</div>
+                                    <div class="card__jp">[ハニーゾンビ] 紫之 創</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -329,8 +361,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Natural Jiangshi] Midori Takamine</div>
+                                    <div class="card__jp">[ナチュラルキョンシー] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -348,10 +380,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/tomoyacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/tomoyabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -361,8 +393,40 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[Challenge Zombie] Tomoya Mashiro</div>
+                                    <div class="card__jp">[チャレンジゾンビ] 真白 友也</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Ninja Jiangshi] Shinobu Sengoku</div>
+                                    <div class="card__jp">[忍者キョンシー] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -393,8 +457,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Kenpou Jiangshi] Tetora Nagumo</div>
+                                    <div class="card__jp">[拳法キョンシー] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -412,10 +476,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -425,8 +489,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[jiangshi of the sea] Kanata Shinkai</div>
+                                    <div class="card__jp">[うみのきょんし〜] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -444,10 +508,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/mitsurucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/mitsurubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -457,8 +521,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Perplexed Zombie] Mitsuru Tenma</div>
+                                    <div class="card__jp">[困惑ゾンビ] 天満 光</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -476,10 +540,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/nazunacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/nazunabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -489,8 +553,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Busy Zombie] Nazuna Nito</div>
+                                    <div class="card__jp">[ビジーゾンビ] 仁兎 なずな</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
@@ -508,10 +572,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/madaracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/sweethalloween/madarabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -521,40 +585,8 @@ permalink: sweet_halloween/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[Halloween Mummy] Madara Mikejima</div>
+                                    <div class="card__jp">[ハロウィンマミー] 三毛縞 斑</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="live">

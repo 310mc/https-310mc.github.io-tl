@@ -203,7 +203,7 @@ i would feel a bit [terrible] if that were to happen.
 {% endbubble %}
 
 {% bubble Kaoru %}
-Everyone’s doing this because they want to, though. But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
+Everyone’s doing this ‘cause they want to, though. But if I get to go around the aquarium with Anzu-chan, then I can finally have the date of my dreams, so I’m up for it~♪
 
 This was just the worst type of ending, what with time being lost thanks to us taking forever to group up after losing each other…
 
@@ -311,7 +311,7 @@ Look, Anzu-chan! Look over there! There’s an interesting display of fish over 
 
 It looks like they put all the big crabs and deep-sea fish and any other sci-fi-like marine animals in there, so it’s like you’ve “Stepped into a planet completely different from Earth,” or so it says.
 
-I think no one’s been approaching it, probably because it’s kinda eerie.
+I think no one’s been approaching it, probably ‘cause it’s kinda eerie.
 
 So if we go over there, we may get to be all alone together~ Wanna go and see?
 
@@ -329,7 +329,7 @@ I don’t even wanna work today, since it’s a holiday… We’ll go back to th
 
 Ah! Don’t run off with a stunned look on your face!
 
-Did you forget that the reason today went badly was because of that~? I think it’d be a good idea to think less about work every once in awhile, don’t you?
+Did you forget that the reason today went badly was ‘cause of that~? I think it’d be a good idea to think less about work every once in awhile, don’t you?
 
 People aren’t meant to put work above all else, y'know?
 
@@ -545,7 +545,7 @@ Ahh, yeah… My mom really liked fish and stuff.
 
 Whenever she was feeling better, she’d secretly take me here after I’d been pooped out from all the studying and lessons.
 
-So this place holds a looot of important memories to me, as well. If it goes bankrupt because of bad business, it’ll feel like something’s missing.
+So this place holds a looot of important memories to me, as well. If it goes bankrupt ‘cause of bad business, it’ll feel like something’s missing.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -617,7 +617,7 @@ i really never wanted to [bother] anyone… yet it ended up being a [bigger] pro
 {% bubble Madara %}
 Thaaat just shows how much everyone cherishes you, Kanata-san.
 
-Not because you’re a god… It’s because you’re *you* that everyone wanted to help you.
+Not ‘cause you’re a god… It’s ‘cause you’re *you* that everyone wanted to help you.
 {% endbubble %}
 
 {% bubble Kanata curious %}

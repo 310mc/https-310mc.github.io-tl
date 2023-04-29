@@ -587,7 +587,7 @@ As a reward for being well-behaved, I'll clear off a liiittle bit of your stress
 
 Right now, I'm at the aquarium for various reasons, but…
 
-I'm guessing that since Kanata-san can't join in with Ryuseitai's activities because of a problem that happened, it's causing you trouble, right?
+I'm guessing that since Kanata-san can't join in with Ryuseitai's activities ‘cause of a problem that happened, it's causing you trouble, right?
 
 I see. So it's not a trouble, but it is making you worried… Okay, then you should properly say that *that's* how you actually feel.
 
@@ -643,7 +643,7 @@ Because of that, there ended up being sooomething of an after-effect, and now Ka
 
 He still has many unresolved problems of his own.
 
-I could just say it’s all because of the Student Council, but eh, it’s too late for that… Nothing'd come out of slamming Eichi-san or Keito-san’s face in.
+I could just say it’s all ‘cause of the Student Council, but eh, it’s too late for that… Nothing'd come out of slamming Eichi-san or Keito-san’s face in.
 
 All it’d do is make my fist hurt. This wouldn’t go like a tokusatsu show would, huh…
 

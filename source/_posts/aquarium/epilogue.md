@@ -108,7 +108,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, are you really saying that after all this time you’ve known him? Kanata-san has aaaalways been dearly loved by marine animals. No one knows if it’s true, but they say it’s because he comes from a family that dominated the ocean.
+Hahaha, are you really saying that after all this time you’ve known him? Kanata-san has aaaalways been dearly loved by marine animals. No one knows if it’s true, but they say it’s ‘cause he comes from a family that dominated the ocean.
 
 Long ago in ancient times, his ancestors lived their lives with the ocean’s tides, and built a paradise within its depths.
 
@@ -494,7 +494,7 @@ Yeah, so much that it startled me. He’s the type to be way too mindful and con
 
 He’s not ashamed of losing, but of being unable to fight. If he doesn’t know what’s going on, he can’t involve himself in it, nor can he fight.
 
-He could be the most brilliant hero ever, but he would still be unable to do anything because of that.
+He could be the most brilliant hero ever, but he would still be unable to do anything ‘cause of that.
 
 The hardest thing for him is probably when he can only sit by and watch what happens.
 {% endbubble %}

@@ -59,6 +59,18 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
     <div class="story">
         <div class="image">
             <img
+                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+                alt="Sweet Halloween"
+            />
+        </div>
+        <a href="" class="storyName" target="_blank">
+            <span>Sweet Halloween</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
                 src="/img/es/scoutstory/beasts/tetoracgframe_300px.jpg"
                 alt="Beasts"
             />
@@ -68,18 +80,6 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
-                alt="Sweet Halloween"
-            />
-        </div>
-        <a href="" class="storyName" target="_blank">
-            <span>Sweet Halloween</span>
-            <span class="read"></span>
-        </a>
-    </div>-->
     <div class="story">
         <div class="image">
             <img

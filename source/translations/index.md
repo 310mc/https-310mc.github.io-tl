@@ -118,7 +118,7 @@ If you need any clarification, please DM me on [twitter](https://twitter.com/310
                 alt="Sweet Halloween"
             />
         </div>
-        <a href="https://euni2319.dreamwidth.org/15004.html" class="storyName" target="_blank">
+        <a href="/sweet_halloween" class="storyName" target="_blank">
             <span>Sweet Halloween</span>
             <span class="read"></span>
         </a>

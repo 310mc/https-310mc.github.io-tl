@@ -219,7 +219,7 @@ Mike-chan-senpai, you sit over here! It’s the farthest spot! 'Cuz you’d be i
 {% endbubble %}
 
 {% bubble Madara awkward %}
-“In the way” is a mean way to put… Uhh, sooo what're you all doing? There’s cushions here to sit on… Are you guys gonna start telling stories?
+“In the way” is a mean way to put it… Uhh, sooo what're you all doing? There’s cushions here to sit on… Are you guys gonna start telling stories?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -251,7 +251,7 @@ I wonder if she’s doing alright… Well, it’s not like we can ask a girl to 
 {% bubble Tetora %}
 Anzu-Anego went home after working for as long as she could for the day.
 
-It seems like Trickstar are usually the ones to walk her home, but lately she’s been getting a ride home from her parents.
+Trickstar are usually the ones to walk her home, but lately she’s been getting a ride home from her parents.
 {% endbubble %}
 
 {% bubble Madara %}
@@ -917,6 +917,6 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 [^1]: The shadow Madara talks about is Jungian psychology.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: He unusually asks for permission with *dame kana*.
-[^4]: Fun fact, Swahili has a similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
+[^4]: Fun fact, Swahili has similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
 [^5]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
 [^6]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.

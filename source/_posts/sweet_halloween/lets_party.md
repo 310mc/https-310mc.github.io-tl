@@ -137,7 +137,7 @@ I mean, you’re like that too, riiight?
 
 You’re going as a fairytale character — A costume that makes you seem like an outsider… It’s as if you’re trying not to get deeply involved with anyone, or end up matching with anyone.
 
-I’m thinking into it too much? I guess I shouldn’t act like we’re similar, just because we’re childhood friends…
+I’m thinking into it too much? I guess I shouldn’t act like we’re similar, just ‘cause we’re childhood friends…
 
 But I dunnooo, I just can’t help but feel like I’m looking at myself when I see you… It makes me feel really uneasy.
 
@@ -215,7 +215,7 @@ Eeeek!! There’s a ghooooost!!!
 {% img /img/es/eventstory/sweethalloween/letsparty1_3.jpg %}
 
 {% bubble Tetora %}
-Eep—!! Please don’t just yell out of nowhere! You scared me!
+Eep—!! Please don’t just yell outta nowhere! You scared me!
 
 Please look closely, Taichou. It’s not a ghost, it’s a guest in their costume!
 
@@ -259,7 +259,7 @@ I’m not really good with them either, but seeing someone who's more afraid tha
 {% bubble Tetora %}
 Uu~myu… I don’t feel like there’s any reason to be afraid, though.
 
-Everyone's walking around in monster costumes, but only a few of them are actually realistic-looking. Most of them are just cute ones!
+Everyone's walking around in monster costumes, but only a few of 'em are actually realistic-looking. Most of them are just cute ones!
 
 Alright! Gather over, kids! I’m giving out candy\~ Trick or Treat\~♪
 {% endbubble %}
@@ -269,7 +269,7 @@ Here you go… We’re going to have a live show at the concert hall, so please 
 {% endbubble %}
 
 {% bubble Tetora %}
-C’mon, Taichou! You gotta give out candy and advertise! Look, even Midori-kun is working hard for once!
+C’mon, Taichou! You gotta give out candy and advertise! Look, even Midori-kun's working hard for once!
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -297,7 +297,7 @@ it is cuter if chiaki shows his [weak side] every once in a while, anyway. altho
 {% bubble Madara %}
 Hahaha. He'd be first-rate if he could manage that, but he’s a little too spontaneous to keep up that kind of image… He’s still got a long way to go before he becomes the perfect hero.
 
-But it's because he's lacking that he struggles to do his best, and because he's not perfect that he works hard with all he’s got to make up for it. That’s exactly what being human is… It’s completely relatable.
+But it's ‘cause he's lacking that he struggles to do his best, and ‘cause he's not perfect that he works hard with all he’s got to make up for it. That’s exactly what being human is… It’s completely relatable.
 
 In fact, I think it’s a reaaally cool thing about him.
 
@@ -419,7 +419,7 @@ Uuu… Doctor Shinigami[^3] is super scary… The air he gives off feels so inte
 {% bubble Midori %}
 Ahaha… Yeah, liking something doesn’t mean you’re gonna love *every* single thing about it…
 
-I’m like that, too… I’m not gonna be okay with anything just 'cause it’s a mascot character…
+I’m like that, too… I’m not gonna be okay with anything just ‘cause it’s a mascot character…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -441,7 +441,7 @@ I’m thankful for that… That’s why I wanna work a little harder for Ryuseit
 {% bubble Tetora %}
 Ossu! The same goes for me!
 
-Startin' by pumping up the place with our live show today! Nothing is impossible when we combine our powers! Let’s do this, let’s do this~!! ☆
+Startin' by pumping up the place with our live show today! Nothing's impossible when we combine our powers! Let’s do this, let’s do this~!! ☆
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -525,7 +525,7 @@ Ahaha, it’s unusual for Morisawa-senpai to be useless, but I feel like I got t
 
 I got a lot of attention from the guests, and they kept asking me to take pictures with them…
 
-Maybe it’s 'cause I’m wearing a costume, but I didn’t feel embarrassed about it, either…♪
+Maybe it’s ‘cause I’m wearing a costume, but I didn’t feel embarrassed about it, either…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -553,7 +553,7 @@ Alright! Leave it to me! Justice will prevail…!!
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, you still sound like you’re trying a li'l *too* hard to be energetic… but I guess you’re starting to sound a bit more like the usual Taichou now~♪
+Ahaha, you still sound like you’re trying a li'l *too* hard to be energetic… but I guess you’re startin’ to sound a li'l bit more like the usual Taichou now~♪
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -633,7 +633,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% bubble Tetora %}
 “By the way, Ryuseitai’s going as Jiangshi!”
 
-“We’re Chinese zombies, basically~ We’ve been revived by the secret techniques of Taoism, so we aren’t rotten bodies! We even smell nice!”
+“We’re Chinese zombies, basically~ We’ve been revived by the secret techniques of Taoism, so we’re not rotten bodies! We even smell nice!”
 
 “Our muscles haven't rotted either, so we can even do Kenpo! Aiyah~☆”[^5]
 
@@ -653,7 +653,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% bubble Tetora %}
 Ah, that’s how Jiangshi are like.
 
-They move really quickly, but 'cuz of rigor mortis, they can’t really move their joints around.
+They move real quickly, but 'cuz of rigor mortis, they can’t really move their joints around.
 {% endbubble %}
 
 {% bubble Chiaki %}

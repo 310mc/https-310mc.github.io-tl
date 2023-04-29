@@ -335,7 +335,7 @@ You’re extremely happy about this, huh, Nagumo. We’re always indebted to Kir
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, the Karate Club takes a break whenever there’s a big DreamFes coming up, and the dojo ends up being unused…
+Ahaha, the Karate Club takes a break whenever there’s a big DreamFes comin’ up, and the dojo ends up being unused…
 
 So this became the perfect place to sleep in.
 
@@ -477,7 +477,7 @@ You’re really light, so… Plus, I’m used to doing manual labor thanks to th
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahhh—! Just watching you carry the ladder is making me nervous…! He might fall and get hurt!!
+Ahhh—! Just watching you carry the ladder’s making me nervous…! He might fall and get hurt!!
 
 It’d be really bad if that happened, so don’t do anything reckless just to get it done faster!
 
@@ -497,7 +497,7 @@ Guh— AAAAAAAAAAH!?
 {% bubble Tetora %}
 …!? What’s wrong, Taichou!?
 
-I heard a large crashing sound! Are you okay!? Did something bad happen as soon as I brought it up!?
+I heard a large crashing sound! Are you okay!? Did somethin’ bad happen as soon as I brought it up!?
 
 …? Huh!? I don’t see him anywhere! But he was working with Shinkai-senpai over there just a second ago!
 
@@ -557,7 +557,7 @@ He seems so nervous over everything that he's overwhelmed… He doesn’t even p
 {% endbubble %}
 
 {% bubble Tetora %}
-Oh? Could it be that you’re feeling lonely\~? Cuz he’s not paying attention to you\~♪
+Oh? Could it be that you’re feeling lonely\~? 'Cuz he’s not paying attention to you\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -573,7 +573,7 @@ Ah—…… Sorry, I just had this sudden urge to kill… Wow, I’ve seen it be
 {% endbubble %}
 
 {% bubble Tetora %}
-You freaked me out! You’re good-looking, so it’s terrifying when you get a serious look on your face! I’m really sorry for teasing you, okay? So please, just spare my life!
+You freaked me out! You’re good-looking, so it’s terrifying when you get a serious look on your face! I’m real sorry for teasing you, okay? So please, just spare my life!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -827,7 +827,7 @@ Ah, nah… I thought I sensed something nearby, but it was probably just my imag
 {% endbubble %}
 
 {% bubble Tetora %}
-Mm~… Hey, Tomoya-kun, I’m not sure if it’s alright to ask, but… Did something happen between you and Hajime-kun?
+Mm~… Hey, Tomoya-kun, I’m not sure if it’s alright to ask, but… Did somethin’ happen between you and Hajime-kun?
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -873,7 +873,7 @@ But… While it might feel like a relief to let everything out, you'll just end 
 
 So it’s important to be more careful with the people who're gonna be in your life for a long time, right?
 
-But you and Hajime-kun feel *way* too careful around each other; it’s like you’re both holding something back…
+But you and Hajime-kun feel *way* too careful around each other; it’s like you’re both holding somethin’ back…
 
 That’s why I want you two to be more harsh and just punch each other.
 {% endbubble %}

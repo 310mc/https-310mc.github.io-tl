@@ -173,7 +173,7 @@ Cross-dress…? Um, what were you two arguing over…?
 {% bubble Tetora %}
 Morning! Wazzup! ☆
 
-Oooh? Midori-kun, talking to a classmate that isn’t me? You don’t see that every day.
+Oooh? Midori-kun, talking to a classmate that’s not me? You don’t see that every day.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -221,11 +221,11 @@ Ah— Uuu…? I-I wasn’t trying to tease you or anything…
 {% endbubble %}
 
 {% bubble Tetora %}
-…? You two are acting kinda awkward. What’s wrong? Did you guys fight or somethin’?
+…? You two’re acting kinda awkward. What’s wrong? Did you guys fight or somethin’?
 
-Well… I think you two would make up pretty much immediately, though.
+Well… I bet you two would make up pretty much immediately.
 
-It’d be nice if you could do that as soon as possible. We’d also be in big trouble if things turned so sour for Ra*bits that they split up.
+It’d be nice if you could do that as soon as possible, though. We’d also be in big trouble if things turned so sour for Ra*bits that they split up.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -237,7 +237,7 @@ Ah, you still dunno, right? I happened to meet Taichou on my way here, so he tol
 
 In two weeks, we’re gonna have the Halloween Party—
 
-And it sounds like we’re gonna be participating in it together with Ra*bits and another unit.
+And it sounds like we’re gonna participate in it together with Ra*bits and another unit.
 
 So we’re all in the same boat together this time~♪
 {% endbubble %}
@@ -935,7 +935,7 @@ Nihihi, a sleepover with everyone? That sounds like fun~♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, we’ve had jobs that required us to stay the night plenty of times, but this is the first time we’re doing it with so many people.
+Ahaha, we’ve had jobs where we had to stay the night plenty of times, but this is the first time we’re doin’ it with so many people.
 {% endbubble %}
 
 {% bubble Shinobu %}

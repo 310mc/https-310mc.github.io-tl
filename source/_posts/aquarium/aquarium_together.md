@@ -312,7 +312,7 @@ And that does mean I have deep connections with Kanata-kun's household, since th
 
 But that's also exactly why it's going to be really tricky for me to approach him about it.
 
-For once I, of all people, was able to be friends with a guy, so I don't want to make things awkward between us because of family-related things.
+For once I, of all people, was able to be friends with a guy, so I don't want to make things awkward between us ‘cause of family-related things.
 
 …Ahh, but don't worry. I don’t think it’s going to be that serious this time around.
 
@@ -488,7 +488,7 @@ Just what have you been on about for the past minute? Make it easier to understa
 {% bubble Kaoru %}
 Hmm~ I'm just talking to myself…
 
-That aside, we should catch up to Anzu-chan before we lose sight of her. It’s really crowded here, likely because it’s a holiday. We seriously won’t be able to group up if she splits away from us.
+That aside, we should catch up to Anzu-chan before we lose sight of her. It’s really crowded here, likely ‘cause it’s a holiday. We seriously won’t be able to group up if she splits away from us.
 {% endbubble %}
 
 {% bubble Souma %}
@@ -660,7 +660,7 @@ Sooo whenever I try to look out for her, she rejects my help and pushes it away.
 
 It’s aaalmost like she thinks it’s bad for her to depend on others.
 
-It’s completely ingrained in her head that she *has* to stay in shape because she’s the big sister.
+It’s completely ingrained in her head that she *has* to stay in shape ‘cause she’s the big sister.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -802,7 +802,7 @@ But, well… maybe he just thinks I’m overbearing, so that’s why he hates me
 {% endbubble %}
 
 {% bubble Rei %}
-*Kukuku.* We of the Three Eccentrics may indeed be human, but we have been removed from the fabric of humanity. And perhaps, because of that, we yearn to connect with other humans.
+*Kukuku.* We of the Three Eccentrics may indeed be human, but we have been removed from the fabric of humanity. And that is perhaps why we yearn to connect with other humans.
 
 Thus neither I, Shinkai-kun, nor Hibiki-kun would ever scorn anyone.
 

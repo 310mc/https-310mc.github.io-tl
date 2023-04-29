@@ -339,7 +339,7 @@ Also, in hard times, I’d want to depend on someone.
 
 Even if it was a bother to them. After all, if I don’t get a nice fresh filling of love, I’ll dry up and die.
 
-I think you're like me, too. I also think that, because you’re strong, you don't want to burden people with your problems, so you forcibly distance yourself from others.
+I think you're like me, too. I also think that, ‘cause you’re strong, you don't want to burden people with your problems, so you forcibly distance yourself from others.
 
 That's why I'm here, by your side.
 
@@ -385,7 +385,7 @@ Anyway. I’ve gotten pretty used to your eccentric behavior, but you have to ex
 
 Especially to all your important pals that you work with in Ryuseitai.
 
-Saying you can’t work because of a personal problem usually won’t cut it.
+Saying you can’t work ‘cause of a personal problem usually won’t cut it.
 
 We’re still students, so you can get away with it now, but an actual company would just fire you. *Fire*, you hear?
 
@@ -511,7 +511,7 @@ Kanata-san is suuuch a naughty boy, making everyone worry for him…
 {% bubble Kaoru %}
 Yeah, well, I already gave him an earful of that, sooo… Erm…
 
-Earlier, Kanata-kun was told he could leave the water tank all of a sudden. Was that because of you?
+Earlier, Kanata-kun was told he could leave the water tank all of a sudden. Was that ‘cause of you?
 
 I kept trying to persuade him earlier, but he kept saying no, and that he’d take his punishment. He wouldn’t budge one bit.
 
@@ -537,7 +537,7 @@ You gotta use *all* the resources you can find. You can’t just muscle your way
 
 And now I’m checking up on the results and consequences of those actions.
 
-The staff members are clattering aaall about because of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
+The staff members are clattering aaall about ‘cause of it, so I had some free time while I wait, and decided to feed the dolphins in their stead.
 
 I’ll tell you now; I have permission to do this aaand I’m qualified enough for it.
 
