@@ -470,7 +470,7 @@ They say that it amplifies one’s negative emotions, but it could never manage 
 {% endbubble %}
 
 {% bubble Souma v2 %}
-? But I can also feel negative emotions…? There are times when I cry, and times when I am angry! I am a human being, after all!
+…? But I can also feel negative emotions…? There are times when I cry, and times when I am angry! I am a human being, after all!
 
 And it is for that reason that I am capable of forming thoughts, for as long as my head stays intact! I felt awful being ridiculed by you… and began to wrack my brain as hard as I could!
 
@@ -650,7 +650,7 @@ Wha!? W-Why did you change, too!?
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}
-? huh? am i not Allowed to…?
+…? huh? am i not Allowed to…?
 {% endbubble %}
 
 {% bubble Chiaki past%}

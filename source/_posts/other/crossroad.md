@@ -165,15 +165,15 @@ Worry not, I’m a hero of justice. I’ll make sure you can safely get away fro
 I don’t understand. Mmm… Just what is this guy going on about?
 {% endbubble %}
 
-{% note narration %}
+{% note location %}
 Then Keito worries about how everything's turning out different from what he expected, but it’s too late to change the plan now that Rei is here. So he decides to drop this plan and forget about it, since it’s not worth the gamble.
 {% endnote %}
 
-{% note narration %}
+{% note location %}
 But Rei accepts the chaos as it is, and wants to have fun with it since it’s already here (Keito rejects the idea at first, but ends up being swept along with it.)
 {% endnote %}
 
-{% note narration %}
+{% note location %}
 Later, Keito seems to have also been swept with the mood, singing along with Rei on the live house’s stage, until he snaps out of it and demands to understand the current situation they’re in (to which Rei tells him don’t think just feel.)
 {% endnote %}
 
@@ -265,11 +265,11 @@ It’ll be okay! I’ll protect you, no matter what!
 <th>(Seems like I need to research on what kind of person he is.)</th>
 {% endbubble %}
 
-{% note narration %}
+{% note location %}
 Then Keito monologues about the plan which I already explained.
 {% endnote %}
 
-{% note narration %}
+{% note location %}
 After a monologue of the plan, Keito wonders how a plan so perfect (or so he thought) could’ve been ruined like this. Is it really because of Chiaki doing something unnecessary, or was it a plan that only works in theory?
 {% endnote %}
 
@@ -331,7 +331,7 @@ I will become the ally of justice that I’ve looked up to as a kid.
 <th>(I thought Morisawa had absolutely no striking features about him, but he really does seem to be different from the other pack.)</th>
 {% endbubble %}
 
-{% note narration %}
+{% note location %}
 Rei and Keito have a small chat, where Keito is displeased by Rei’s “People are unique and that’s makes them interesting” and “C’mon, let’s put that aside and sing for real now”
 {% endnote %}
 
@@ -359,13 +359,13 @@ I’m still an amateur who can’t do it well, so… I’d like your help.
 Ahaha, that sounded like a pick-up line a pure young boy tried his very best to come up with. Not bad at all. Do your best, boy, do your best. This time, we’ll be here to help you.
 {% endbubble %}
 
-{% note narration %}
+{% note location %}
 And that’s the end of Chiaki’s involvement with Keito’s ruined plan.
 {% endnote %}
 
 ## Kuro and Chiaki's Friendship
 
-{% note narration %}
+{% note location %}
 Kuro was outside near the underground live house, when he makes a phone call to his sister.
 {% endnote %}
 
@@ -405,7 +405,7 @@ Right then, see ya. Come back before it gets too late, alright?
 <th>(Being all alone so I can’t hurt anyone is a lot better than that.)</th>
 {% endbubble %}
 
-{% note narration %}
+{% note location %}
 After a while, Kuro could hear a singing voice from inside the live house, to which he commented: “I hear a nice energetic singing voice… Is that Morisawa?”
 {% endnote %}
 
@@ -433,11 +433,11 @@ Keito is impressed by how considerate Kuro is, to which Kuro replies with “I�
 
 ## Chapter 4 of Crowd
 
-{% note narration %}
+{% note location %}
 This is the last chapter Chiaki appears in. It’s the day of the DEADMANZ live. Everyone’s at the underground live house, and Souma encounters Kaoru and threatens him for what happened in their previous meeting. Adonis and Kaoru try to calm him down, but Souma says he better be careful on a moonless night, or else.
 {% endnote %}
 
-{% note narration %}
+{% note location %}
 Chiaki thinks it was a dispute between the two, and…
 
 **Note:** It’s implied that Kaoru’s dad owns the live house.

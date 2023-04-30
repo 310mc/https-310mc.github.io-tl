@@ -67,13 +67,15 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Pool
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Pool</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch1.jpg %}
-{% note narration %}
-**Time:** Two Years Ago — Beginning of Summer
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Two Years Ago — Beginning of Summer…</p>
+</div>
 
 {% bubble Chiaki past %}
 Heh… The ally of justice has arrived in all his splendid glory.
@@ -203,12 +205,12 @@ i know! you are from the Sea as well, yes…? ♪
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch2.jpg %}
 
-{% note narration %}
-**Time:** Several minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>Several minutes later…</p>
+</div>
 
 {% bubble Chiaki past %}
-Hmm, okay… I’ll hose you with water like you asked — Are you sure you’re okay with that, urmm… Shinkai-kun?
+Hmm, okay… I’ll hose you with water like you asked — Are you sure you’re okay with that, umm… Shinkai-kun?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -242,7 +244,7 @@ why would you be Happy about that?
 {% endbubble %}
 
 {% bubble Chiaki past %}
-<th>(U-Urmm… I feel like we’re never on the same page… It doesn’t feel like I’m talking to a human being… Although, he does seem to know Japanese.)</th>
+<th>(U-Umm… I feel like we’re never on the same page… It doesn’t feel like I’m talking to a human being… Although, he does seem to know Japanese.)</th>
 
 <th>(He keeps asking me questions after everything I say… this conversation is getting nowhere.)</th>
 
@@ -270,6 +272,7 @@ why would you be Happy about that?
 
 <th>(It’ll all pay off if I just keep working hard to the best of my abilities… I’m sure of it.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch2_1.jpg %}
 
 {% bubble Kanata past %}
@@ -319,7 +322,7 @@ where can i get one? or do i need to Buy it with Money from some place?
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-? what is wrong? could you give me a Response? i am sorry. was it a difficult Question?
+…? what is wrong? could you give me a Response? i am sorry. was it a difficult Question?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -353,6 +356,7 @@ F-Family? Mikejima-kun’s part of your family!? Your brother, maybe? Ah no, you
 {% bubble Kanata pastfrown %}
 hmm… i think he *wants* to become Family, but… i do not quite understand… how long will he be Playing house…?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch2_2.jpg %}
 
 {% bubble Chiaki past %}
@@ -362,6 +366,7 @@ hmm… i think he *wants* to become Family, but… i do not quite understand… 
 **ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
 
 ## Chapter 3
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch3.jpg %}
 
 {% bubble Kanata pastfrown %}
@@ -567,9 +572,11 @@ I want to become the dream version of myself! The cool, ideal version!
 **ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
 
 ## Chapter 4
+
 {% note cw %}
 **Content Warning:** Light mentions of bullying and cannibalism ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch4.jpg %}
 
 {% bubble Kanata pastcurious %}
@@ -639,11 +646,11 @@ yes, since it is not Unrelated to me… but, then, what is your Wish?
 {% bubble Chiaki past %}
 Hm? Ah, no, it isn’t a wish per se… I just want everyone to be a little more serious, that’s all.
 
-Well, there’s no point in me asking for that, though.
+Well, there isn’t any point in me asking for that, though.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-? what do you mean?
+…? what do you mean?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -749,13 +756,16 @@ please leave everything to me. i will grant your Wish. will that be a sufficient
 **ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
 
 ## Chapter 5
-{% note location %}
-**Location:** School Infirmary
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> School Infirmary</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch5.jpg %}
-{% note narration %}
-**Time:** Next day, early morning
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Next day, early morning…</p>
+</div>
 
 {% bubble Chiaki past %}
 Please excuse me!
@@ -780,6 +790,7 @@ Please excuse me!
 
 <th>(Riiight then! I’ll start with the floor, since it should be fine for me to clean i—)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch5_1.jpg %}
 
 {% bubble Kuro pastinjured %}
@@ -841,6 +852,7 @@ Ah—Um, no, it’s just… I’m sorry! That was presumptuous of me!
 
 I’m sorry if I bothered you! I seem to have a problem with saying the first thing that comes to mind…!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch5_2.jpg %}
 
 {% bubble Kuro pastinjured %}
@@ -888,9 +900,11 @@ Ahh, um! I’m not trying to criticize you or anything! I’m just worried! Ummm
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 6
+
 {% note cw %}
 **Content Warning:** Mentions of violence ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch6.jpg %}
 
 {% bubble Kuro pastinjured %}
@@ -974,6 +988,7 @@ It’s nothing, don’t worry about it. After all, it’s a hero’s duty to hel
 {% bubble Kuro pastinjured %}
 …Huh, so you’re a hero.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch6_1.jpg %}
 
 {% bubble Chiaki past %}
@@ -997,7 +1012,9 @@ Just go play around somewhere the nicer, peaceful adults can protect ya.
 
 Don’t bother comin’ into the sewers here — There’s nothin’ interesting floatin’ around.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch6_1.jpg %}
+
 {% bubble Chiaki past %}
 …………
 {% endbubble %}
@@ -1085,13 +1102,16 @@ If I let that happen again… I’ll really have had no reason to ever been born
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 7
-{% note location %}
-**Location:** Classroom 1-B
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-B</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch7.jpg %}
-{% note narration %}
-**Time:** The same morning
-{% endnote %}
+
+<div class="msr-narration">
+    <p>The same morning…</p>
+</div>
 
 {% bubble Chiaki past %}
 …………
@@ -1150,7 +1170,7 @@ Well, I also take on the responsibilities as well, but I accept that as somethin
 {% endbubble %}
 
 {% bubble Keito v2 %}
-? What are you scrutinizing me for… Is it my glasses?
+…? What are you scrutinizing me for… Is it my glasses?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -1234,7 +1254,7 @@ If possible, I want to stay equals with him. Being indebted to him forever… Ju
 {% endbubble %}
 
 {% bubble Chiaki past %}
-? What are you talking about?
+…? What are you talking about?
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -1264,13 +1284,16 @@ Please believe in me. I will be the one to change Yumenosaki Academy.
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 8
-{% note location %}
-**Location:** Staircase
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Staircase</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch8.jpg %}
-{% note narration %}
-**Time:** Same day, at break time
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Same day, at break time…</p>
+</div>
 
 {% bubble Chiaki past %}
 <th>(Heheh, “change Yumenosaki Academy,” huh… It sort of sounded grandiose, but I’ll still be wishing you the best, Hasumi-kun.)</th>
@@ -1290,9 +1313,10 @@ Please believe in me. I will be the one to change Yumenosaki Academy.
 <th>(Riiight, then! Let’s do this! C’mon, hang in there! Don’t lose now, Morisawa Chiaki!)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Pool
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Pool</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch8_sc.jpg %}
 
 {% bubble Chiaki past %}
@@ -1316,7 +1340,7 @@ Woah, you scared me—!! Shinkai-kun!? W-What are you doing!? Stop—you can’t
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-? was that not okay? could you explain to me where i was Wrong?
+…? was that not okay? could you explain to me where i was Wrong?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -1386,7 +1410,7 @@ then, what is your true Wish? was it the “become a hero” one after all?
 {% endbubble %}
 
 {% bubble Chiaki past %}
-Urm… Well, yes, that is my number one dream, but, hm…
+Um… Well, yes, that is my number one dream, but, hm…
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -1398,7 +1422,7 @@ Huh—Um, I’m not sure how to explain it off the top of my head… Well, like�
 {% endbubble %}
 
 {% bubble Kanata past %}
-? is that not what a God is?
+…? is that not what a God is?
 {% endbubble %}
 
 {% bubble Chiaki past %}

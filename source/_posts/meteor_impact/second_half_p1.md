@@ -75,15 +75,15 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Bulletin Board
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Bulletin Board</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch1.jpg %}
 
-{% note narration %}
-**Time:** One year ago — Beginning of summer<br>During breaktime
-{% endnote %}
+<div class="msr-narration">
+    <p>One year ago, beginning of summer — during breaktime…</p>
+</div>
 
 {% bubble Chiaki pastserious %}
 <th>(Urmmm…)</th>
@@ -253,13 +253,15 @@ Yeah, if I feel like it~ Bye bye now, *Morisawasenpai!*
 
 ## Chapter 2
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch2.jpg %}
-{% note narration %}
-**Time:** Same day, after classes
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Same day, after classes…</p>
+</div>
 
 {% bubble Chiaki past %}
 Bam! Take this! Finishing move: Super Chiaki Shoot…!! ☆
@@ -386,16 +388,21 @@ You went too far with that joke; Senpai would love a kid who’s much more hones
 {% endbubble %}
 
 {% bubble Subaru %}
-I don’t wanna be loved by you, anyway\~ … But alright, maybe I was a little too mean. Sorry, sorry\~ It’s just becoming so much fun to tease you~♪
+I don’t wanna be loved by you, anyway\~ …But alright, maybe I was a little too mean. Sorry, sorry\~ It’s just becoming so much fun to tease you~♪
 {% endbubble %}
+
 ## Chapter 3
-{% note location %}
-**Location:** Front Gate
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Front Gate</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch3.jpg %}
-{% note narration %}
-**Time:** Few hours later
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Few hours later…</p>
+</div>
+
 {% bubble Chiaki past %}
 Aaalright! Time to head home, Akehoshi-kun!
 
@@ -519,7 +526,7 @@ Also, don’t tell me the “kid” is me. We’re only a year apart, ‘kay? Go
 {% endbubble %}
 
 {% bubble Chiaki past %}
-? What’s wrong?
+…? What’s wrong?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -571,22 +578,27 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 {% endbubble %}
 
 {% bubble Chiaki past %}
-……
+…………
 {% endbubble %}
+
 ## Chapter 4
+
 {% note cw %}
 **Content Warning:** Emetophobia and light mentions of cannibalism ahead.
 {% endnote %}
-{% note location %}
-**Location:** Rooftop
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Rooftop</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch4.jpg %}
-{% note narration %}
-**Time:** A few days later, after classes
-{% endnote %}
+
+<div class="msr-narration">
+    <p>A few days later, after classes…</p>
+</div>
 
 {% bubble Chiaki pastserious %}
-……
+…………
 
 <th>(…Yeah, there’s definitely signs that a huge number of people have been conducting secret meetings here. What I witnessed a few days ago was no illusion or dream.)</th>
 
@@ -650,13 +662,15 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 <th>(All I did was spray some water at him, and be a little nice to him… Yet he laughed so innocently, like it was the very first time he’s ever had someone do that for him.)</th>
 {% endbubble %}
-{% note location %}
-**Location:** Garden Space (East)
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Space (East)</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch4_sc.jpg %}
 
 {% bubble Shu %}
-……
+…………
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -790,7 +804,7 @@ okay. you are Unexpectedly kiー
 {% endbubble %}
 
 {% bubble Shu %}
-? What’s wrong? Have those insolent, belated people who called for us finally arrived? I mean the other Eccentrics, of course.
+…? What’s wrong? Have those insolent, belated people who called for us finally arrived? I mean the other Eccentrics, of course.
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -805,12 +819,14 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 <th>(he will probably never Talk to me ever again… i am sure you are just the same as Everyone besides the five Eccentrics—you, too, are—)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Garden Terrace
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Terrace</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch5_sc.jpg %}
+
 {% bubble Chiaki pastworried %}
-……
+…………
 
 <th>(…Why did you hide, me!?)</th>
 
@@ -849,13 +865,17 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 **Co-translated with:** [emu](https://twitter.com/sunsunrainys)
 
 ## Chapter 6
-{% note location %}
-**Location:** Student Council Office
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Student Council Office</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch6.jpg %}
-{% note narration %}
-**Time:** Next day, after classes
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Next day, after classes…</p>
+</div>
+
 {% bubble Kuro pastsmile %}
 —And that’s all I’ve got to report. What’s your next move, Bocchan?
 {% endbubble %}
@@ -995,9 +1015,11 @@ Seems like it. It ain’t an officially recognized group in school or anythin’
 **Co-translated with:** haranami
 
 ## Chapter 7
+
 {% note cw %}
 **Content Warning:** Mentions of violence ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch7.jpg %}
 
 {% bubble Keito v2 %}
@@ -1150,9 +1172,11 @@ I hold a different perspective than the one you two hold, and therefore I may be
 **Co-translated with:** haranami
 
 ## Chapter 8
-{% note location %}
-**Location:** Front Gate
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Front Gate</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch8.jpg %}
 
 {% bubble Chiaki pastserious %}
@@ -1442,19 +1466,23 @@ Who knooows? I’m no God, I don’t know what the future holds! Haha, if you ca
 {% endbubble %}
 
 ## Chapter 10
+
 {% note cw %}
 **Content Warning:** Casual mentions of self-injury ahead.
 {% endnote %}
-{% note location %}
-**Location:** Marine Life Clubroom
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Marine Life Clubroom</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch10.jpg %}
-{% note narration %}
-**Time:** Around the same time
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Around the same time…</p>
+</div>
 
 {% bubble Kanata past %}
-……
+…………
 
 <th>(ooh… my Worshippers have already Set up the Water tanks.)</th>
 
@@ -1502,7 +1530,7 @@ Who knooows? I’m no God, I don’t know what the future holds! Haha, if you ca
 {% bubble Souma v2 %}
 Pardon me. Are you here, Buchou-dono?
 
-Wha—!? What on earth—The clubroom has been turned into an aquarium…?
+Wha—!? What on earth — The clubroom has been turned into an aquarium…?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -1570,10 +1598,13 @@ fufu. lift your Head young one, for it is all okay~♪
 {% bubble Souma v2 %}
 Aha, oh how lucky I must be! I am extremely delighted to have permission to speak with you!
 {% endbubble %}
+
 ## Chapter 11
+
 {% note cw %}
 **Content Warning:** Mentions of graphic self-mutilation ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch11.jpg %}
 
 {% bubble Kanata past %}
@@ -1711,20 +1742,25 @@ Pardon? Um… I do know the word, but it is difficult to explain…
 {% bubble Kanata pastfrown %}
 is that so… *sigh…* you people sure are Boring.
 {% endbubble %}
+
 ## Chapter 12
+
 {% note cw %}
 **Content Warning:** Depictions of mental breakdown ahead.
 {% endnote %}
-{% note location %}
-**Location:** Fountain
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Fountain</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch12.jpg %}
-{% note narration %}
-**Time:** Time passes, and autumn comes — Hours after the Venus Cup
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Time passes, and autumn comes — Hours after the Venus Cup…</p>
+</div>
 
 {% bubble Subaru %}
-……
+…………
 {% endbubble %}
 
 {% bubble Chiaki past %}

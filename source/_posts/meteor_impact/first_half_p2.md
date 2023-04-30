@@ -73,15 +73,15 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Content Warning:** Mentions of violence ahead.
 {% endnote %}
 
-{% note location %}
-**Location:** Downtown
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Downtown</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch9.jpg %}
 
-{% note narration %}
-**Time:** Same day, at dusk
-{% endnote %}
+<div class="msr-narration">
+    <p>Same day, at dusk…</p>
+</div>
 
 {% bubble Chiaki past %}
 <th>(I don’t believe it!)</th>
@@ -211,9 +211,11 @@ Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 10
+
 {% note cw %}
 **Content Warning:** Heavy mentions of violence ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch10.jpg %}
 
 {% bubble Kuro pastinjured %}
@@ -367,21 +369,26 @@ Even if I gotta crawl all the way there, I’ll still get there on time as long 
 
 I can do what she wants me to do, after your help. I can keep bein’ her “normal Onii-chan”… so, thanks again, Morisawa.
 {% endbubble %}
+
 **Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
 
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 11
+
 {% note cw %}
 **Content Warning:** Mentions of violence ahead.
 {% endnote %}
-{% note location %}
-**Location:** Front Gate
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Front Gate</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch11.jpg %}
-{% note narration %}
-**Time:** Next day, early morning
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Next day, early morning…</p>
+</div>
 
 {% bubble Chiaki pastsad %}
 …………
@@ -407,9 +414,9 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 <th>(But even if that’s true, there must be something I can do!)</th>
 {% endbubble %}
 
-{% note location %}
-**Location:** Fountain
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Fountain</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch11_sc.jpg %}
 
@@ -448,7 +455,7 @@ And you’re doing that in a fountain this time, so it looks even more suspiciou
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-? what does “re-por-ted” mean?
+…? what does “re-por-ted” mean?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -717,13 +724,15 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no— i am a God
 
 ## Chapter 13
 
-{% note location %}
-**Location:** Near the Auditorium
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the Auditorium</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch13.jpg %}
-{% note narration %}
-**Time:** One week later, after classes
-{% endnote %}
+
+<div class="msr-narration">
+    <p>One week later, after classes…</p>
+</div>
 
 {% bubble Keito v2 %}
 <th>(How incorrigible.)</th>
@@ -759,7 +768,7 @@ Hasumi-kun!
 {% endbubble %}
 
 {% bubble Keito v2 %}
-? What is it, erm…?
+…? What is it, erm…?
 {% endbubble %}
 
 {% bubble Chiaki past %}
@@ -901,16 +910,20 @@ Yes… See you tomorrow.
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 14
+
 {% note cw %}
 **Content Warning:** Heavy mentions of violence ahead.
 {% endnote %}
-{% note location %}
-**Location:** Downtown - Star Street
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Downtown - Star Street</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch14.jpg %}
-{% note narration %}
-**Time:** Next day — At night, on a day off
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Next day — At night, on a day off…</p>
+</div>
 
 {% bubble Chiaki past %}
 <th>(Yes, yes, yesss! Morisawa Chiaki, you’re doing a great job!)</th>
@@ -999,9 +1012,10 @@ I got somethin’ real important to talk about. Better not try to fight, Morisaw
 …? …?
 {% endbubble %}
 
-{% note location %}
-**Location:** Downtown
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Downtown</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_sc.jpg %}
 
 {% bubble Chiaki pastworried %}
@@ -1110,13 +1124,14 @@ I’m such a dumbass, gettin’ all soft just cuz you were a little nice to me, 
 I’m regrettin’ it all, damnit…!!
 {% endbubble %}
 
-
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 15
+
 {% note cw %}
 **Content Warning:** Heavy mentions of violence and death threats ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch15.jpg %}
 
 {% bubble Kuro pastinjuredangrycg %}
@@ -1239,16 +1254,20 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 **ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 16
+
 {% note cw %}
 **Content Warning:** Discussions of cult ahead.
 {% endnote %}
-{% note location %}
-**Location:** Pool
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Pool</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch16.jpg %}
-{% note narration %}
-**Time:** Few hours later
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Few hours later…</p>
+</div>
 
 {% bubble Chiaki pastworried worried %}
 Shinkai-kun!
@@ -1420,9 +1439,11 @@ And, after a long period of preparation, this fantasy has even plotted a scheme 
 **ENG Proof:** [Revoltrad](https://ensemble-stars.fandom.com/wiki/User:Revoltrad), [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
 
 ## Chapter 17
+
 {% note cw %}
 **Content Warning:** Discussions of cult, and mentions of violence ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch17.jpg %}
 
 {% bubble Madara %}

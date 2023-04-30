@@ -77,22 +77,22 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 **Content Warning:** Mentions of violence and war descriptions ahead.
 {% endnote %}
 
-{% note location %}
-**Location:** Student Council Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Student Council Office</span></p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch13.jpg %}
 
-{% note narration %}
-**Time:** One week later
-{% endnote %}
+<div class="msr-narration">
+    <p>One week later…</p>
+</div>
 
 {% bubble Souma worried %}
-……
+…………
 {% endbubble %}
 
 {% bubble Kuro past %}
-……
+…………
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -435,11 +435,13 @@ That’s why his worshippers will try to find their *own* explanation. As soon a
 
 Soon, they’ll think to themselves, perhaps the one saving them wasn’t Shinkai Kanata, but the Student Council all along.
 {% endbubble %}
+
 ## Chapter 15
 
 {% note cw %}
 **Content Warning:** Verbal abuse, and mentions of child abuse and violence ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch15.jpg %}
 
 {% bubble Keito v2 %}
@@ -613,19 +615,22 @@ Let’s live and die like fireworks, and get boiled up in the kettle of Hell tog
 
 We’ll rinse our bodies with hot water then — So let’s get to drenchin’ ourselves in blood.
 {% endbubble %}
+
 ## Chapter 16
 
 {% note cw %}
 **Content Warning:** Depictions of harrassment ahead.
 {% endnote %}
-{% note location %}
-**Location:** Soundproof Practice Room No.2
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Soundproof Practice Room No.2</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch16.jpg %}
 
-{% note narration %}
-**Time:** A few days later
-{% endnote %}
+<div class="msr-narration">
+    <p>A few days later…</p>
+</div>
 
 {% bubble Chiaki pastserious %}
 <th>(Everything began to change ever since that day.)</th>
@@ -750,10 +755,13 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(No one will be able to believe that he’s a God anymore… at least not in school.)</th>
 {% endbubble %}
+
 ## Chapter 17
+
 {% note cw %}
 **Content Warning:** Mentions of graphic death ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch16.jpg %}
 
 {% bubble Chiaki pastsad %}
@@ -941,11 +949,13 @@ Whatcha gonna do? How are you gonna save him?
 
 It’s probably gonna be super hard to pull off, but… I’m cheering you on! Actually, if there’s anything I can do, tell me! I’ll do the best I can to help!
 {% endbubble %}
+
 ## Chapter 18
 
 {% note cw %}
 **Content Warning:** Mentions of bullying and depression ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18.jpg %}
 
 {% bubble Subaru %}
@@ -1063,7 +1073,7 @@ It hurt so much to be ignored and made fun of by the guys who were supposed to b
 
 It made me feel horrible! But I held it in and laughed it off!
 
-There’s so many of them—I may be doing muscle training now, but I’ve always, *always* been weak! I will *never* win against them!
+There’s so many of them — I may be working out now, but I’ve always, *always* been weak! I will *never* win against them!
 
 I never had the guts to fight them, either! After all, violence is never the answer! I just thought that if I held on long enough that eventually, the hero would rescue me—
 
@@ -1142,18 +1152,20 @@ But I'm super annoyed, so let me just say this.
 …You’re being really uncool right now.
 {% endbubble %}
 
-{% note narration %}
-*<th>(Subaru leaves)</th>*
-{% endnote %}
+<div class="msr-narration">
+    <p><em>(Subaru leaves)</em></p>
+</div>
 
 {% bubble Chiaki pastsad %}
-……
-
 ………
+
+……………
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_5.jpg %}
+
 {% bubble Chiaki pastcry %}
-……………… *<th>(sobs)</th>*
+…………………… *<th>(sobs)</th>*
 {% endbubble %}
 
 ## Chapter 19
@@ -1161,10 +1173,12 @@ But I'm super annoyed, so let me just say this.
 {% note cw %}
 **Content Warning:** Depiction of depressive episode ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/chiakiorigcg.jpg %}
-{% note narration %}
-**Time:** Few hours later
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Few hours later…</p>
+</div>
 
 {% bubble Chiaki pastcg %}
 ……
@@ -1239,10 +1253,13 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 <th>(But still! It’s a hundred times better than being stuck at this place…!)</th>
 {% endbubble %}
-{% note location %}
-**Location:** Seaside
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Seaside</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch19_sc.jpg %}
+
 {% bubble Chiaki past %}
 *Huff, huff…*
 
@@ -1306,9 +1323,11 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 {% endbubble %}
 
 ## Chapter 20
+
 {% note cw %}
 **Content Warning:** Mentions of drowning ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch20.jpg %}
 
 {% bubble Kanata past %}
@@ -1502,9 +1521,11 @@ it’s so hot, i feel like i could melt…
 {% endbubble %}
 
 ## Chapter 21
+
 {% note cw %}
 **Content Warning:** Heavy mentions of cannibalism and mutilation ahead.
 {% endnote %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch21.jpg %}
 
 {% bubble Chiaki pastserious %}
@@ -1761,7 +1782,7 @@ Which means you aren’t the one to blame!
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
-? no… i am apologizing for being Inexperienced as a god, and for growing weaker…
+…? no… i am apologizing for being Inexperienced as a god, and for growing weaker…
 
 if i was a god, i would have been able to grant any Wish, right?
 
@@ -2468,7 +2489,7 @@ Really…? Then I’d like to wear the red uniform. Though it probably doesn’t
 {% endbubble %}
 
 {% bubble Kanata past %}
-? i don't quite understand, but i would like blue~♪
+…? i do not quite understand, but i would like blue~♪
 {% endbubble %}
 
 {% bubble Chiaki past %}

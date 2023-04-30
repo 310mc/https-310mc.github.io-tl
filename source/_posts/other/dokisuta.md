@@ -174,7 +174,7 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 黒も赤もすべてを超えて　次世代の担い手
 -->
 
-<h4>※ Always muddied, he is full of <u>effort and willpower</u></h4>
+<h4>※ In order to change himself, he is always stained with mud — for he is full of <u>Effort and willpower</u></h4>
 
 {% img /img/es/es2mainstory/tetorabcg.jpg %}
 
@@ -186,19 +186,19 @@ I'll keep at it, 'til the day I grow strong enough to grasp my own form of justi
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=155).</small>
 
-<h4>※ A will to head towards that reliable and cool ideal; his goal is to become a <u>man among men</u></h4>
+<h4>※ With a will to face his ideal that defines being cool and reliable; his goal is to become a <u>Man among men</u></h4>
 
 {% img /img/es/scoutstory/fourbeasts/tetoraorigcg.jpg %}
 
 {% bubble Tetora v2 %}
 My palm is empty, so I can grasp anything!
 
-Even the sun and moon itself!
+Be it the sun *or* the moon itself!
 {% endbubble %}
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=386).</small>
 
-<h4>※ Surpassing everything, including red and black; he is the <u>bearer of the next generation</u></h4>
+<h4>※ Surpassing everything, including red and black; he is the <u>Bearer of the next generation</u></h4>
 
 {% img /img/es/eventstory/supervillain/tetorabcg.jpg %}
 
@@ -211,9 +211,9 @@ Then I’ll grasp onto something, and become a bigger man than you’ve ever bee
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=555).</small>
 
 **Summary:**
-* Always muddied, he is full of <u>effort and willpower</u>
-* A will to head towards that reliable and cool ideal; his goal is to become a <u>man among men</u>
-* Surpassing everything, including red and black; he is the <u>bearer of the next generation</u>
+* In order to change himself, he is always stained with mud — for he is full of <u>Effort and willpower</u>
+* With a will to face his ideal that defines being cool and reliable; his goal is to become a <u>Man among men</u>
+* Surpassing everything, including red and black; he is the <u>Bearer of the next generation</u>
 
 ## Midori's Charm Points
 
@@ -228,7 +228,7 @@ Then I’ll grasp onto something, and become a bigger man than you’ve ever bee
 育ち続ける心　成長株
 -->
 
-<h4>※ Tall and handsome, with an ennui charm; he is a <u>natural, adolescent boy</u></h4>
+<h4>※ Tall, handsome, and an ennui allure on top; he is an <u>Adolescent boy with a natural charm</u></h4>
 
 {% img /img/es/eventstory/piratefes/midoribcg.jpg %}
 
@@ -238,7 +238,7 @@ I'll work hard, too. I'll do my best with all I've got, at least every once in a
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=919).</small>
 
-<h4>※ He holds an unbeatable love, and what is his emotional stabilizer, a <u>Mascot character lover</u></h4>
+<h4>※ Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Mascot character-lover</u></h4>
 
 {% img /img/es/scoutstory/cityriders/midoriorigcg.jpg %}
 
@@ -248,7 +248,7 @@ I can take these all for myself, right? Wahh, waah…! ♪
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1109).</small>
 
-<h4>※ His feelings ever so changing, his heart ever so growing; he has <u>the biggest potential to grow</u></h4>
+<h4>※ His feelings ever so changing, his heart ever so growing; he has the <u>Biggest potential to grow</u></h4>
 
 {% img /img/es/es2mainstory/midoribcg.jpg %}
 
@@ -261,9 +261,9 @@ But if you steel yourself and take a leap forward, things surprisingly do turn o
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1308).</small>
 
 **Summary:**
-* Tall and handsome, with an ennui charm; he is a <u>natural, adolescent boy</u>
-* He holds an unbeatable love, and what is his emotional stabilizer, a <u>Mascot character lover</u>
-* His feelings ever so changing, his heart ever so growing; he has <u>the biggest potential to grow</u>
+* Tall, handsome, and an ennui allure on top; he is an <u>adolescent boy with a natural charm</u>
+* Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Mascot character-lover</u>
+* His feelings ever so changing, his heart ever so growing; he has the <u>Biggest potential to grow</u>
 
 ## Shinobu's Charm Points
 
@@ -278,7 +278,7 @@ But if you steel yourself and take a leap forward, things surprisingly do turn o
 あきらめない　がんばり屋さん
 -->
 
-<h4>※ Espionage is his forte, his admiration since a young age; <u>The way of the Ninja</u></h4>
+<h4>※ Known to excel at espionage, his admiration since a young age; <u>The way of the Ninja</u></h4>
 
 {% img /img/es/eventstory/scrolloftheelements/shinobubcg.jpg %}
 
@@ -292,7 +292,7 @@ I mustn't allow myself to be concealed within the shadows!
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1639).</small>
 
-<h4>※ Extremely attentive, and capable of calming the atmosphere, <u>he is the cheerful balancer</u></h4>
+<h4>※ Extremely attentive, and capable of calming the atmosphere; he is the <u>Cheerful balancer</u></h4>
 
 {% img /img/es/es2mainstory/shinobubcg.jpg %}
 
@@ -304,7 +304,7 @@ And if I were to abandon my friend in trouble, I'd be a failure of a human!
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1816).</small>
 
-<h4>※ Unyielding, unbending, never giving up, <u>A hard-worker</u> who endures all hardships</h4>
+<h4>※ Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u></h4>
 
 {% img /img/es/eventstory/blackjack/shinobubcg.jpg %}
 
@@ -317,9 +317,9 @@ They trained the past, weak "me"[^1], that would only look away from reality, an
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=2027).</small>
 
 **Summary:**
-* Espionage is his forte, his admiration since a young age; <u>The way of the Ninja</u>
-* Extremely attentive, and capable of calming the atmosphere, <u>he is the cheerful balancer</u>
-* Unyielding, unbending, never giving up, <u>A hard-worker</u> who endures all hardships
+* Known to excel at espionage, his admiration since a young age; <u>The way of the Ninja</u>
+* Extremely attentive, and capable of calming the atmosphere; he is the <u>Cheerful balancer</u>
+* Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u>
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>

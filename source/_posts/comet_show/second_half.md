@@ -68,15 +68,15 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 ## Chapter 5
 
-{% note location %}
-**Location:** Aoumi Aquarium (Main Exhibit)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aoumi Aquarium (Main Exhibit)</span></p>
+</div>
 
 {% img /img/es/eventstory/cometshow/p2ch5.jpg %}
 
-{% note narration %}
-**Time:** Another several minutes later…
-{% endnote %}
+<div class="msr-narration">
+    <p>Another several minutes later…</p>
+</div>
 
 {% bubble Midori v2 %}
 <th>(Ahhh, this is so depressing… I wanna die…)</th>
@@ -246,9 +246,9 @@ But it doesn't really matter if the season became a rare commodity only *after* 
 I don’t care for stuff that has historical value or public appraisal. I don’t think it’s worth bothering with at all; what’s more important than that is—
 {% endbubble %}
 
-{% note narration %}
-*(Phone starts ringing)*
-{% endnote %}
+<div class="msr-narration">
+    <p><em>(Phone starts ringing)</em></p>
+</div>
 
 {% bubble Midori v2 %}
 Mm?
@@ -575,15 +575,15 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
 
 ## Chapter 8
 
-{% note location %}
-**Location:** Comet Show Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Comet Show Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/cometshow/p2ch8.jpg %}
 
-{% note narration %}
-**Time:** At the same time, on the stage within the aquarium
-{% endnote %}
+<div class="msr-narration">
+    <p>At the same time, on the stage within the aquarium…</p>
+</div>
 
 {% bubble Tetora v2 %}
 —Aight! We managed to finish setting up everything for the live show. I’m amazed we got everything decently sorted out on such short notice.
@@ -730,9 +730,9 @@ so let’s carry out our performance with a smile on our faces. this may be wher
 
 ## Chapter 9
 
-{% note location %}
-**Location:** Aoumi Aquarium (Main Exhibit)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Aoumi Aquarium (Main Exhibit)</span></p>
+</div>
 
 {% img /img/es/eventstory/cometshow/p2ch9.jpg %}
 

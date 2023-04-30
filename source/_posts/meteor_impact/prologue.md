@@ -58,13 +58,15 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <!-- more -->
 
-{% note location %}
-**Location:** AV Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> AV Room</span></p>
+</div>
+
 {% img /img/es/eventstory/meteorimpact/prologue.jpg %}
-{% note narration %}
-**Time:** Present day, end of the year
-{% endnote %}
+
+<div class="msr-narration">
+    <p>Present day, end of the year…</p>
+</div>
 
 {% bubble Chiaki %}
 Fuhahaha! Mission accomplished! It’s an incredible victory for Ryuseitai once again…! ☆

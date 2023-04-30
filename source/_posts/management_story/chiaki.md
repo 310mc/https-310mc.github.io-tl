@@ -64,9 +64,9 @@ description: "[ES!] Translation of Chiaki's Management Stories, featuring Kaoru,
 
 ### With Kaoru
 
-{% note location %}
-**Location:** Classroom 3-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 3-A</span></p>
+</div>
 
 {% bubble Chiaki %}
 Hmhmhm~ Hmhmhmmm~♪
@@ -114,9 +114,9 @@ Yeah, no thanks. No way I’ll ever go to a movie with a guy~♪
 
 ### With Tetora
 
-{% note location %}
-**Location:** Park
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Park</span></p>
+</div>
 
 {% bubble Chiaki %}
 The red flame is the mark of justice! Burning bright red, the sun of life! Ryusei Red! Morisawa Chiaki…!
@@ -154,9 +154,9 @@ Oh! Here comes Sengoku. And the children are here, too. Now that we have our gue
 
 ### With Shu
 
-{% note location %}
-**Location:** Handicrafts Clubroom
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Handicrafts Clubroom</span></p>
+</div>
 
 {% bubble Chiaki %}
 Itsuki, are you in here…!?
@@ -200,9 +200,9 @@ Ohh, you’ll do it? Thank you, Itsuki! It’s so wonderful to have such kind cl
 
 ### With Midori
 
-{% note location %}
-**Location:** Classroom 1-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-A</span></p>
+</div>
 
 {% bubble Chiaki %}
 Takamine-kun, let’s go to the club!
@@ -254,9 +254,9 @@ Alright! This is a great time to invite Akehoshi and the others over, as well! F
 
 ### With Kanata
 
-{% note location %}
-**Location:** Fountain
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Fountain</span></p>
+</div>
 
 {% bubble Chiaki %}
 Hmhmhmm…♪
@@ -320,9 +320,9 @@ Alright, let's have a fun reading session together~! Fuhahahahaha…!! ☆
 
 ### With Keito
 
-{% note location %}
-**Location:** Classroom 3-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 3-A</span></p>
+</div>
 
 {% bubble Chiaki %}
 Bam! The hero has arrived…☆

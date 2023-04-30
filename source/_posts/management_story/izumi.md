@@ -54,9 +54,9 @@ description: "[ES!] Translation of Izumi's Management Stories, featuring Chiaki.
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Classroom 3-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 3-A</span></p>
+</div>
 
 {% bubble Chiaki %}
 Oh! Sena! Good mooorning!

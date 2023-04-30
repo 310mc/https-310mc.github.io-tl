@@ -56,9 +56,9 @@ description: "[ES!] Translation of Hinata's Management Stories, featuring Midori
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
 
 {% bubble Hinata %}
 Please excuse meee~…
@@ -108,9 +108,9 @@ Heh… I dunno if I'll ever get another chance to play with the basketball capta
 
 ### With Midori
 
-{% note location %}
-**Location:** Entrance
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Entrance</span></p>
+</div>
 
 {% bubble Midori %}
 <th>(I don't have any unit or club activities for the day, so I can go home straight away…)</th>

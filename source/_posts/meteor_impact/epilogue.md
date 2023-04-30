@@ -159,17 +159,17 @@ He mainly worked overseas while jumping between different units.
 {% endbubble %}
 
 {% bubble Kanata %}
-yes… now that he works Overseas, it seems like he’s considering trying to obtain his own Influence through it—
+yes… now that he works Overseas, it seems like he is considering trying to obtain his own Influence through it—
 
 and then, he wants to destroy my family’s Religion for sure this time.
 
-not that there’s any purpose… i lost many Worshippers at the battle versus the sea god. they’ve been essentially Annihilated.
+not that there’s any purpose… i lost many Worshippers at the battle versus the sea god. they have been essentially Annihilated.
 
 once i Graduate and have enough Free time, i’ll Cooperate with Him—
 
 and Remodel our religion into something that matches this Generation.
 
-it’ll be hard, because the Religion has been going on for a long, long time. it may take some Time, but i’ll take Responsibility.
+it will be hard, because the Religion has been going on for a long, long time. it may take some Time, but i’ll take Responsibility.
 
 i’ll come back when i’m done. so please let me sing with you then, okay?
 {% endbubble %}
@@ -223,9 +223,9 @@ it is not about what happened to me — the real problem is that he got Involved
 
 on the other hand, the temple guy is surprisingly not that Revolting.
 
-i will not listen to what he Says ever again, though… by that, i mean his Wishes. it is all his fault that i couldn’t stay as a god, after all.
+i will not listen to what he Says ever again, though… by that, i mean his Wishes. it is all his fault that i could not stay as a god, after all.
 
-as frustrating as it is, i suppose i could also say it’s *thanks* to him.
+as frustrating as it is, i suppose i could also say it is *thanks* to him.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -285,7 +285,7 @@ All that meteorite stuff, and how Morisawa-senpai *apparently* mega-exploded whe
 {% endbubble %}
 
 {% bubble Kanata %}
-i wasn’t Lying\~ that’s chiaki’s Finishing move: “super phoenix explosion”\~♪
+i was not Lying\~ that’s chiaki’s Finishing move: “super phoenix explosion”\~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -321,7 +321,7 @@ Yep, leave it to me… I’m good at arranging things and packing them up…♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Ossu! I’m not good with that kinda stuff, but I’m great at anything that needs hard labor! It’ll make for some muscle training, too ♪
+Ossu! I’m not good with that kinda stuff, but I’m great at anythin’ that needs hard labor! It’ll make for a nice workout, too\~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/epilogue2_2.jpg %}
@@ -333,7 +333,7 @@ I don’t need to shoulder everything by myself… not anymore.
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. it’s hard to let go of old Habits and outdated Customs. even i act like a god sometimes.
+fufu. it is hard to let go of old Habits and outdated Customs. even i act like a god sometimes.
 
 but, we have changed.
 

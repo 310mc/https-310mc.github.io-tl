@@ -266,6 +266,7 @@ This translation is **on hold**. Due to the official version having been release
 {% note location %}
 **Location:** StarPro Office
 {% endnote %}
+
 {% img /img/es/scoutstory/ushimairip2/1.jpg %}
 
 {% bubble Eichi %}
@@ -275,7 +276,7 @@ Having graduated, I can’t help but feel somewhat nostalgic watching those who 
 {% endbubble %}
 
 {% bubble Yuzuru %}
-……
+…………
 {% endbubble %}
 
 {% bubble Eichi %}

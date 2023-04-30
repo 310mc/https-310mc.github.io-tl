@@ -68,9 +68,9 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Comet Show Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Comet Show Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/cometshow/ep1.jpg %}
 
@@ -198,10 +198,12 @@ Ossu, I know how you feel. But complaining won’t get us anywhere, so let’s d
 I’m sure everything’ll go just fine if we do that! Even if that's just me being idealistic, I’ll be doing the best I can to make it a reality! Ossu!
 {% endbubble %}
 
-{% note narration %}
-*(Screen fades to black for a moment)*
-{% endnote %}
+<div class="msr-narration">
+    <p><em>(Screen fades to black for a moment)</em></p>
+</div>
+
 {% img /img/es/eventstory/cometshow/ep1_2.jpg %}
+
 {% bubble Shinobu surprised %}
 —Eeep!?
 
