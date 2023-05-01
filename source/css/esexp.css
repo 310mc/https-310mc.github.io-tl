@@ -243,6 +243,9 @@
 [character="Chiaki"][sigh3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh3.png");
 }
+[character="Chiaki"][sigh4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh4.png");
+}
 [character="Chiaki"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_yare.png");
 }
@@ -340,6 +343,9 @@
 ***/
 [character="Kanata"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata2.png");
+}
+[character="Kanata"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_grin.png");
 }
 [character="Kanata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile.png");

@@ -388,7 +388,7 @@ I was a little nervous you might not care about me, since you always act so hars
 …………
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki shocked2 %}
 Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?[^2]
 
 We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
@@ -398,11 +398,11 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 fufu, do not [bully] him so much, midori~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile2 %}
 Mhm… But I just wanna get a tinsy bit more of my revenge for all the times he’s pestered me…♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile %}
 Ahaha, their positions are completely switched around this time, for real… Now do you understand a li'l bit of how *we* usually feel?
 
 But personally, I’m real glad I got to know what you’re bad at, and where your weaknesses lie… I feel like I got to learn a lot more about you, Taichou.
@@ -410,7 +410,7 @@ But personally, I’m real glad I got to know what you’re bad at, and where yo
 It feels like an honor to know I got to meet Morisawa Chiaki-senpai himself in the flesh, instead of the ideal hero that he came up with.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh4 %}
 Uuu… I wanted to look as cool as possible, though…
 
 I just can’t handle eggplants and monsters, no matter what I do… My trauma from when I was a kid still lingers…
@@ -418,19 +418,21 @@ I just can’t handle eggplants and monsters, no matter what I do… My trauma f
 
 {% img /img/es/eventstory/sweethalloween/letsparty2_2.jpg %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu curious %}
 …? Did it become hard to handle them due to a terrible incident?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 There was a lot of creepy-looking stuff in the early tokusatsu shows, you see…
 
 When I was a young, innocent kid, I watched those without forethought… Then I’d cry from how scary they were, and eventually it just became too much to handle.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 Uuu… Doctor Shinigami[^3] is super scary… The air he gives off feels so intense that it’s just terrifying.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori awkward %}
 Ahaha… Yeah, liking something doesn’t mean you’re gonna love *every* single thing about it…
 
 I’m like that, too… I’m not gonna be okay with anything just ‘cause it’s a mascot character…
@@ -444,21 +446,23 @@ What! But I am completely okay with anything as long as it is ninjas! I really l
 yes, i am also [okay] with anything as long as it is [marine life]~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sigh2 %}
 That’s ‘cause you two are broad-minded people who're fine with just about anything…
 
 I mean, you even accept and get along with someone like me, who’s always peevish about everything…
+{% endbubble %}
 
+{% bubble Midori serious %}
 I’m thankful for that… That’s why I wanna work a little harder for Ryuseitai…
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ossu! The same goes for me!
 
 Startin' by pumping up the place with our live show today! Nothing's impossible when we combine our powers! Let’s do this, let’s do this~!! ☆
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile4 %}
 Ahaha, you’re all so energetic, despite looking like monsters.
 
 That’s exactly why I’m not one bit scared of you guys…♪
@@ -482,11 +486,11 @@ The live show’s starting~! You gotta hurry, c’mon!
 Woohoo, Ra*bits\~! We apologize for taking so long to arrive. Taichou-dono kept trying to flee whenever he saw a monster on the way over here\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori frown %}
 Yeah… It was seriously a pain just getting here…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh2 %}
 I’m so, so sorry![^4] I haven’t been able to do anything right during this event!
 {% endbubble %}
 
@@ -528,13 +532,13 @@ Heheh, this is a lot of fun\~ I’m starting to feel excited myself\~♪
 Oh! Took ya long enough to get your energy back. You’re so late, Taichou~♪
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu blush %}
 Nihihi! However, we are monsters, so we should probably not be *too* energetic.
 
 We should be more like Midori-kun; it is much more monster-like to be sluggish and droopy~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 Ahaha, it’s unusual for Morisawa-senpai to be useless, but I feel like I got to be useful instead…
 
 I got a lot of attention from the guests, and they kept asking me to take pictures with them…
@@ -542,11 +546,13 @@ I got a lot of attention from the guests, and they kept asking me to take pictur
 Maybe it’s ‘cause I’m wearing a costume, but I didn’t feel embarrassed about it, either…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Yep! It’s just a regular costume for this event, but! Whenever we shout *“Transform!”*, we are reborn into a new being!
 
 No matter how idealistic or glorified it sounds, we become capable of shouting all our ideals without shame!
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 That’s why I love heroes! You become able to say things you wouldn’t normally be able to say! Things you’d be too scared to say!
 
 You become able to uphold your feelings, your ideals, your dreams — and everything that you believe to be righteous!
@@ -556,17 +562,17 @@ You no longer cower back in fear! Instead, you’re capable of becoming a star o
 Heheh~♪ I’m so happy to know you got to understand what heroes are, Takamine!
 {% endbubble %}
 
-{% bubble Midori yare %}
+{% bubble Midori v2 %}
 Why’re you talking like you’re so wise… You’re looking really pathetic right now, so nothing you say sounds even the tiniest bit convincing, 'kay…?
 
 Please get things done heroically, alright? At least before the live show ends…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smug2 %}
 Alright! Leave it to me! Justice will prevail…!!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ahaha, you still sound like you’re trying a li'l *too* hard to be energetic… but I guess you’re startin’ to sound a li'l bit more like the usual Taichou now~♪
 {% endbubble %}
 
@@ -590,7 +596,7 @@ Ehehe… I love to be hospitable. Also, they told us we could get more funds if 
 I went all-out so that we could keep working a whole lot as part of Ra*bits…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ohh, great job, great job! ♪ We were able to use as little of our funds as possible because of all the preparation work we’ve done, but it’d be very tough to do this for each event.
 
 We’d wear out fast if we had to keep working hard on preparation work *and* practice.
@@ -622,7 +628,7 @@ You don’t even need to tell me that, Nii\~chan! ♪ Yippee\~! I’m gonna jump
 Don’t frolic around *too* much, Mitsuru… There’s gonna be a lot of us on a pretty narrow stage, so we gotta be careful not to collide into each other.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Alright! Let’s start our own warm-ups, Ryuseitai! Our live show begins soon, so don’t starting losing your concentration!
 {% endbubble %}
 
@@ -632,7 +638,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 
 ## Chapter 4
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 “Hello, everyone\~! Trick or Treat\~♪”
 {% endbubble %}
 
@@ -644,7 +650,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 “It feels way more like a monster festival when we’re all a chaotic mess~♪”
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 “By the way, Ryuseitai’s going as Jiangshi!”
 
 “We’re Chinese zombies, basically~ We’ve been revived by the secret techniques of Taoism, so we’re not rotten bodies! We even smell nice!”
@@ -654,17 +660,17 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 “As long as we have these talismans stuck to our forehead, we’ll be loyal servants to everything you say! So don’t be scared!”
 {% endbubble %}
 
-{% bubble Chiaki %}
-“But if this talisman were to tear off… <em><th>(Sticks out tongue)</th></em> <em>Bleeegh~♪</em>”
+{% bubble Chiaki smile4 %}
+“But if this talisman were to tear off… <em><th>(Sticks out tongue)</th> Bleeegh~♪</em>”
 
 “Our terrifying nature will show itself and we’ll start hunting you down~! Fuhahahaha! ☆”
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna curious %}
 …Not that it really matters, but, Chiaki-chin… You say you’re zombies, but you guys are buzzing about with your backs straightened up, so it doesn’t really give me that impression.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile2 %}
 Ah, that’s how Jiangshi are like.
 
 They move real quickly, but 'cuz of rigor mortis, they can’t really move their joints around.
@@ -680,7 +686,7 @@ It’s exactly like wearing Japanese clothes, and you guys move about like rabbi
 Ohh, so *that’s* why you decided on Jiangshi. Thank you, I apologize for the concern we caused you~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki idle %}
 You say some strange expressions sometimes, Nito. It sounds vaguely artistic, or like you’ve tensed up…
 
 Anyway, what did you end up deciding on for your costumes?
@@ -694,15 +700,15 @@ It clearly has rabbit-like features, as I expected it would, but… I can’t te
 Oh yeah, we decided on this with Anzu. We’re zombie rabbits~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki curious %}
 What’s that…? I’ve never heard of it. Are you literally just zombie rabbits?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori thinking2 %}
 Ahhh, I see now… There were zombie dogs in some of the movies we watched with everyone…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh2 %}
 Wha— Don’t remind me! Eeek—!! I still can’t get the image out of my head! The window…! There’s a hand on the window…!?
 {% endbubble %}
 
@@ -714,11 +720,11 @@ After playing with its owner until it fell apart, the stuffed rabbit was thrown 
 Now it yearns to see its owner again and comes back on the night of Halloween to play with them… Something like that.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Wow, that’s kinda cute… That sort of thing is just like Ra*bits…♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki frown2 %}
 Really? I find that super scary! Moving stuffed toys are terrifying!
 {% endbubble %}
 
@@ -730,17 +736,17 @@ It would’ve been way more gruesome and sad if we were actual rabbits, y’see.
 But a beloved stuffed toy coming back to play with you for at least a single night… That’s pretty romantic~♪
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara sigh %}
 *My sincerest apologies!* I’m sorry for arriving so late…!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Oh, Mikejima-san! You’ve finally shown yourself! You were taking a while, so I was starting to worry about you.
 
 But you really are incredible; a hero really is all about arriving in the nick of time~♪
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara frown %}
 No no, that won’t do as an excuse… It’s just that I kept running into one problem after another, and had to rush about eeeverywhere.
 
 I think I finally got through them all, though… Ahh man, I’m exhausted.
@@ -752,7 +758,7 @@ Heheh, you’ve got a lot of stamina, so you’ll be fine! You can do it, you ca
 
 {% img /img/es/eventstory/sweethalloween/chiakibcg.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki swthlwbcg %}
 Yep! So, now that all of us monsters are here, let’s quit the chatter and start entertaining our guests!
 
 Let’s go, everyone! We’re at a climax from start to end…☆[^6]
@@ -784,7 +790,7 @@ So I’m told! But even though I’m like this, I could also get along with ever
 I can’t hold back my joyyy! I’m so happy, I could soar to the ends of the universe~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 We can’t have you do that now! Let’s all enjoy this together to the very end, Mikejima-san~♪
 {% endbubble %}
 
@@ -808,7 +814,7 @@ that’s right, it is just as chiaki [said]~ come, let’s all dance together~�
 Ooh… It’s pretty unusual for Shinkai-senpai to start singing first. We gotta work hard just as hard, too, Midori-kun~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori frown %}
 Yeah… But I’m starting to feel tired all of a sudden…
 
 Those two weeks were rough… I’m also tired from worrying so much about how off Morisawa-senpai was acting…
@@ -816,13 +822,15 @@ Those two weeks were rough… I’m also tired from worrying so much about how o
 Ahh, man… If only I were lazing around at home, it would’ve been way more relaxing… But I can’t say that now that I’m up on the stage…
 
 Besides, no one’ll notice shooting stars if they don’t shine when they fly by… That'd be kinda sad, and maybe lonely…
+{% endbubble %}
 
+{% bubble Midori smile3 %}
 That’s why I’ll do my best, at least once in a while…♪
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/midoribcg.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori swthlwbcg %}
 “♪\~♪\~♪”
 {% endbubble %}
 
@@ -830,15 +838,17 @@ That’s why I’ll do my best, at least once in a while…♪
 Ooh, you look eerie, Midori-kun! You're acting just like a monster, it's incredible~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori swthlwbcg %}
 I’m not really trying to…
 
 But being how I normally am seems to do the trick, so maybe I really am fit for this role…♪
+{% endbubble %}
 
+{% bubble Midori smile2 %}
 If only I could always be praised for being sluggish…♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile3 %}
 Heheh, Taichou was pretty much useless this time, but Midori-kun’s been making up for it by shining way more than usual.
 
 We surprisingly always balance ourselves out.
@@ -848,7 +858,7 @@ We surprisingly always balance ourselves out.
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki thinking %}
 N-Nagumo stole my chance to say our catchphrase…
 
 Dammit, I’m so frustrated… I’m going to lose face at this point; I’ve got to prove that I can miraculously turn the tables around to my side.
@@ -864,11 +874,13 @@ although, i do suppose it is much [better] to do that than to treat everything w
 you [should not] intrude on their festival\~ let’s [relax], and enjoy it in our own way\~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile2 %}
 …Yeah. You’re right, I don’t need to act big like I’ve got to do everything myself, do I?
 
 The kids are growing up to be strong and amazing. I really got to see and feel that from the bottom of my heart this time around.
+{% endbubble %}
 
+{% bubble Chiaki smug %}
 I’m so happy, Kanata. Our dreams, our wishes keep coming true.
 
 With our comrades in Ryuseitai, even world peace is achievable! If we’re together, we could defeat all evil, and turn any ideal into a reality!
@@ -878,7 +890,7 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
 
 {% img /img/es/eventstory/sweethalloween/letsparty5_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smile3 %}
 “♪\~♪\~♪”
 {% endbubble %}
 
@@ -894,7 +906,9 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
 <th>(Especially Morisawa-senpai. He was always sighing, so I was worried for him…)</th>
 
 <th>(But he truly is the person Akehoshi-senpai respects. He got through his worries with ease, and is back in high spirits…♪)</th>
+{% endbubble %}
 
+{% bubble Hajime sad %}
 <th>(But as for me… I think I’ve reached my limit… I’ve only realized it now, but I really must’ve tired myself out…)</th>
 
 <th>(I-I feel too wobbly to stand up straight.)</th>
@@ -904,17 +918,19 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
 <th>(I’m so pathetic. Why am I always like this?)</th>
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya curious %}
 …Hajime? What’s wrong? Are you alright?
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad2 %}
 I-I’m okay. I’m feeling a little dizzy, but I’ll do my best.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya frown %}
 Your “okay” never really is okay… You don’t have to force yourself if you’re tired. Go rest, you can leave the start of the performance to us.
+{% endbubble %}
 
+{% bubble Tomoya smile %}
 See that pumpkin stand? Just make it seem like you’re making a cute pose while leaning against it, and rest.
 
 It’s Ryuseitai’s turn to sing right now, so you won’t look weird if you stay still.
@@ -922,29 +938,31 @@ It’s Ryuseitai’s turn to sing right now, so you won’t look weird if you st
 Heave-ho… I’ll carry you to the pumpkin, Hajime.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime blush %}
 Wha—!? T-Tomoya-kun!? Don’t carry me!
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya glare %}
 D-Don’t move around! You’re pretty heavy, y'know!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime frown2 %}
 I-I’m not heavy, you’re just weak~… Now do you see! You shouldn’t carry me like a princess! It isn’t right!
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya yare %}
 What “isn’t right”… What’re you getting so embarrassed about all of a sudden…
 
 I carried you like this when we had a marathon in junior high, remember? When you pushed yourself way too hard.
+{% endbubble %}
 
+{% bubble Tomoya %}
 I’m actually really happy I get to help you like this again. We’re gonna pull each other’s hands whenever one of us slows down, aren’t we?
 
 So this is my turn, basically.
 {% endbubble %}
 
-{% bubble Hajime blush %}
+{% bubble Hajime blush2 %}
 T-Tomoya-kun…♪
 {% endbubble %}
 

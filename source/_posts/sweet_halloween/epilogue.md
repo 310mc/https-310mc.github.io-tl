@@ -61,7 +61,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 
 {% img /img/es/eventstory/sweethalloween/ep1_1.jpg %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna curious %}
 Tomo-chin? Hajime-chin? What’s up, did something happen?
 {% endbubble %}
 
@@ -69,7 +69,7 @@ Tomo-chin? Hajime-chin? What’s up, did something happen?
 Ahh\~! No fair! Carry me too, Tomo-chan\~♪
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya surprised %}
 Ofgh!! Hey, stop, don’t jump on me! There’s no way I could carry two people at once!
 {% endbubble %}
 
@@ -77,7 +77,7 @@ Ofgh!! Hey, stop, don’t jump on me! There’s no way I could carry two people 
 Ahaha, what’re you doing… I just can’t leave you guys alone~♪
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad3 %}
 I-I’m so sorry. I think I’m feeling a bit weak… I can step down from the stage if I shouldn’t be around here anymore…
 {% endbubble %}
 
@@ -89,7 +89,7 @@ But I wanna get through Halloween Party with everyone, since we went through the
 Try to do your best without hurting yourself, Hajime-chin. And with a smile, if you can.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad2 %}
 *Huff*… I-I’ll try.
 {% endbubble %}
 
@@ -107,7 +107,7 @@ Everything might just go well if you do that~♪
 Alrighty then, I’ll start dancing even harder! I’ll give some space for you so people can see you, so go ahead and make a cute pose~! ♪
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 Okay…♪ I’ll do my best~!
 
 <th>(Ehehe, I’m so happy… I can’t help but feel at ease. It’s entirely my fault for losing all my strength to perform on the day of the live show, and yet…)</th>
@@ -119,7 +119,7 @@ Okay…♪ I’ll do my best~!
 <th>(I’m so, so happy right now…♪)</th>
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya serious %}
 Hajime? Your eyes are closed… You didn’t fall asleep, right…? Wait, are you alright!?
 {% endbubble %}
 
@@ -139,7 +139,7 @@ I really, really am alright.
 
 {% img /img/es/eventstory/sweethalloween/tomoyabcg.jpg %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya swthlwbcg %}
 To be honest, I don’t ever have the time to be worrying about other people. I’ve been scraping the barrel just trying to reach the average.
 
 Still, I can’t keep complaining and saying, *“But for someone like me…”*… I gotta do everything with all I’ve got.
@@ -149,7 +149,7 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile2 %}
 <th>(Ahaha, you’re hopping about, Tomoya-kun… You did practice acting like a bunny a whole lot, after all.)</th>
 
 <th>(It’s so cute how you work hard with all your might.)</th>
@@ -167,7 +167,7 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 
 {% img /img/es/eventstory/sweethalloween/hajimebcg.jpg %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile2 %}
 <th>(You’ve been my prince ever since that day.)</th>
 
 <th>(It may be wrong to make a cool prince do cute things…)</th>
