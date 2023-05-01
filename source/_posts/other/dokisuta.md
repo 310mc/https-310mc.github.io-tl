@@ -82,7 +82,7 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 
-{% bubble Chiaki pastbcg %}
+{% bubble Chiaki mibcg %}
 If there are no heroes in this world, then *I’ll* become the hero!
 
 I’ll keep saying it — the hero is right here!

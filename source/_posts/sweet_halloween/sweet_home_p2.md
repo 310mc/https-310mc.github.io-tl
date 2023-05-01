@@ -549,7 +549,7 @@ Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% bubble Midori swthlwocg %}
 Then why exactly are you tugging on my sleeve and shaking in fear…?
 
-Wait a sec… didn’t you yell “It’s scary!” just now…?
+Wait a sec… Didn’t you yell “It’s scary!” just now…?
 {% endbubble %}
 
 {% bubble Chiaki mgnangry %}
@@ -566,6 +566,7 @@ Anyway, there really isn’t anything to be embarrassed about… We all have thi
 In a way, it’s more embarrassing and uncool to keep insisting that you like something you actually hate…
 
 It’s natural to have dislikes… Just be true to yourself… Aren’t *you* the one who’s always telling me stuff like, “I love you no matter what”…?
+<!--	好き嫌いがあって当然、ありのままの自分でいい……。どんなおまえでも愛してる、みたいなこと、いつもあんたが言ってるんじゃん……-->
 {% endbubble %}
 
 {% bubble Chiaki mgnangry2 %}
@@ -600,7 +601,9 @@ So please don’t just disappear out of nowhere…
 fufufu, that is because chiaki is more [spoiled] than you would expect.
 
 but it looks like it will be okay, since it seems like you are [protecting] him.
+{% endbubble %}
 
+{% bubble Kanata grin %}
 or actually, because everyone in ryuseitai is supporting chiaki…
 
 there is not a single scary thing in this whole [world].
@@ -614,27 +617,27 @@ there is not a single scary thing in this whole [world].
     <p>The next day…</p>
 </div>
 
-{% bubble Tomoya %}
+{% bubble Tomoya sleep %}
 zzz…zzz…♪
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/hajimeorigcg.jpg %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 ………
 
 …Tomoya-kun, it’s morning.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya sleep %}
 Mmm… zzz…♪
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 Tomoya-kun! It’s the morning~!! Please wake up!
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya surprised %}
 …Mmgaah!? Ah, huh? Huh, what?
 
 W-Why is Hajime…? Morning! Ah— Ohhh, that’s right, we slept at school…
@@ -646,7 +649,7 @@ Heheh, you’re still half-asleep.
 …Could we talk for a bit?
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya curious %}
 Uh? Uhhh…? Huh? Where’s everyone else?
 {% endbubble %}
 
@@ -664,7 +667,7 @@ Ehehe. I didn’t expect you to be such a sleepyhead, Tomoya-kun.
 You were rarely ever late to school when we were in middle school, so I didn’t think you were bad with mornings.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya yare %}
 Mmm… It’s just ‘cause I didn’t wanna be late, that’s all. I’d stand out if I were late to class.
 
 Idols are all about making money by standing out, but I still can’t get myself to stop feeling like just another ordinary person.
@@ -674,15 +677,15 @@ Idols are all about making money by standing out, but I still can’t get myself
 I think it’s fine. That’s just like you… <em><th>(nibble, nibble)</th></em> ♪
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya surprised %}
 Hajime? Why're you trying to eat my hair?
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime curious %}
 Ah— You had some hair sticking out, so I thought I could lick it down.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya glare %}
 You seriously act like an animal sometimes… I can fix my hair by myself, and it startles me to suddenly have someone bite at my hair, so could you not do that?
 {% endbubble %}
 
@@ -690,7 +693,9 @@ You seriously act like an animal sometimes… I can fix my hair by myself, and i
 Okay.  …If I ever do something you don’t want me to do, please tell me.
 
 Actually, please tell me what’s okay to do, and what isn’t.
+{% endbubble %}
 
+{% bubble Hajime sad4 %}
 I'm sure you already know this, but… I’ve always been unable to do anything properly.
 
 I could never really do things that other people could normally do, like swinging on monkey bars…[^5]
@@ -704,17 +709,19 @@ But Tomoya-kun, you were the only one who waited for me.
 Not just that… You even gently took me by the hand and walked with me.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya sad %}
 Hajime… No, you’re wrong. I’m not that good of a person.
 
 You couldn’t do anything easily, so I got cocky about how I could help you out. I’ve actually got so little in me.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime serious %}
 That’s just fine, though, Tomoya-kun.
 
 I couldn’t do anything to help anyone, so being able to satisfy your heart was ten times better than that.
+{% endbubble %}
 
+{% bubble Hajime sad2 %}
 But when I joined Yumenosaki… what was the norm to me just collapsed. It changed entirely. People would compliment me, enough to surprise me…
 
 Enough to completely baffle me. Even though all I did was sluggishly do things other people could easily do—
@@ -724,7 +731,9 @@ They’d praise me with words like, “Nice job,” “You’re amazing,” “G
 And lately, I even get told I’m cute… Even though, from the way I see it, I haven’t actually changed.
 
 But it made me happy. Everyone used to be fed up of how slow I was, after all.
+{% endbubble %}
 
+{% bubble Hajime sad3 %}
 I kept getting complimented, and people thought good things about me… It made me want it more and more.
 
 That’s why… Ever since my pair lesson with Tori-kun[^6], I kept thinking about how I wanted to aim to be cute… How I wanted to be even more cute…
@@ -732,11 +741,11 @@ That’s why… Ever since my pair lesson with Tori-kun[^6], I kept thinking abo
 About how I wanted to be praised more…
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya serious %}
 You don’t have to rush yourself so much, y'know?
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime frown2 %}
 No, I have to. I’m much slower than everyone else. I’m far behind, so I have to hurry and catch up.
 
 I want to keep working harder and harder… so I can grow to become a strong, great idol.
@@ -744,7 +753,9 @@ I want to keep working harder and harder… so I can grow to become a strong, gr
 Strong enough to walk while carrying you… Even when you’ve had to stop from indecision.
 
 That’s my dream right now.
+{% endbubble %}
 
+{% bubble Hajime serious %}
 You know, Tomoya-kun… I wasn’t really interested in idols.
 
 I simply just loved you and didn’t want to separate from you, so I followed after you without second thought.
@@ -752,49 +763,55 @@ I simply just loved you and didn’t want to separate from you, so I followed af
 But it’s different now.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya serious %}
 …………
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad4 %}
 I-I’m sorry that I can’t talk about it properly. I’m making no sense, aren’t I?
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya serious %}
 Mmm… How many years do you think I’ve been your friend? I can understand what you’re saying no matter what.
 {% endbubble %}
 
 ## Chapter 11
 
-{% bubble Tomoya %}
+{% bubble Tomoya smile %}
 …Yeah. You’re strong now. I don’t need to lead you by the hand anymore.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad2 %}
 I don’t know if that’s really true…
+{% endbubble %}
 
+{% bubble Hajime serious %}
 But… Tomoya-kun. It’s my turn this time. I’m going to lead you by the hand for all the times you’ve done the same for me.
 
 The future I’m aiming for might be a little different from yours.
 
 After all, you’ve always loved cool idols, not cute ones.
+{% endbubble %}
 
+{% bubble Hajime frown2 %}
 So someday, we may end up walking different paths from each other, but…
 
 I want to believe that that “someday” will be far, far away from now… and that no matter what, I shouldn't stop in my tracks.
 
 If there’s a wall blocking your way, then I’ll lead you to an alternate route. We should be able to build some muscle as we’re walking, and we’ll get to experience new things.
+{% endbubble %}
 
+{% bubble Hajime sobbing %}
 So at the very least, while we’re walking together… Please, hold my hand like you always did.
 
 I don’t want to separate from you… I can’t do anything without you… I won’t know what to do anymore, and I’ll start crying in panic… <em><th>(sobs)</th></em>
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya curious %}
 …C’mon, don’t cry, Hajime.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime cry %}
 Okay. If I ever do something wrong again, please scold me like you did just now.
 
 Please, just be close enough that I can hear you say it… It doesn’t matter which of our hands is doing the pulling, as long as it’s your hand in mine.
@@ -802,29 +819,31 @@ Please, just be close enough that I can hear you say it… It doesn’t matter w
 Please, I’m begging you, Tomoya-kun… I love you.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya serious %}
 …………
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime curious %}
 …? Why're you staring at me? Is my hair messed up?
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya yare %}
 …Nah. I was just thinking how nice it would’ve been if you were a girl.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime worried %}
 Huh!? Am I not good enough as a boy?
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya sigh %}
 No, it’s fine that you are… But if you were a girl, then even though it’s not what you meant, I could’ve mistaken what you said as something else…
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime curious %}
 Mistaken what I…?
+{% endbubble %}
 
+{% bubble Hajime surprised %}
 Ah—! Uu~ When I said I love you, I meant it as friends!!
 {% endbubble %}
 
@@ -836,17 +855,19 @@ I mean, the thing that started our whole fight was the idea of taking up jobs th
 It was all 'cause I said I didn’t wanna do it.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime northinking %}
 Ahh… Hm, Anzu-san *does* usually want to dress me in feminine clothing, yes.
 
 If that’s what I have to do, then I will. After all, it’s a lot easier to simply make use of the feminine culture that already exists.
+{% endbubble %}
 
+{% bubble Hajime awkward %}
 But to be honest, it doesn’t make me feel good… I do want to be cute, but that doesn’t mean I want to be a girl.
 
 You don’t like crossdressing either, right?
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya frown %}
 I just got something against it a bit, like any guy normally would… But I’m part of the Drama Club, so I’m supposed to take on any role without complaining.
 
 Still… whenever I get pushed into doing something I don’t wanna do, it makes me feel like I'm being told that I'm worthless… I don’t like it.
@@ -890,13 +911,15 @@ Tomoya-kun, I don’t like to be tense around you, and I hate the thought of sep
 So if there’s ever something that’s stopping you in your tracks, please feel free to talk to me about it.
 
 I’ll also do my best to speak my own mind.
+{% endbubble %}
 
+{% bubble Hajime awkward %}
 I couldn’t really make up my mind on what I should’ve done about our problem this time around… Then things kept getting worse between us, and our time was wasted away just like that…
 
 I really can’t stand how slow I am… I want to properly fight you the next time around.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya frown2 %}
 I don’t even *wanna* fight… I seriously didn’t know what I’d do if you hated me… I mean, there’d be no point to living if you did!
 {% endbubble %}
 
@@ -910,11 +933,11 @@ But, I’d like to believe that we can get through each of those moments togethe
 That’s why… Ehehe, I hope we can keep getting along with each other.
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya smile %}
 What’re you being so formal for? Well, whatever. Same here. Handshake~♪
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 {% endbubble %}
 

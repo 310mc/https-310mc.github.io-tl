@@ -121,7 +121,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch27_2.jpg %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Move, move move move~!!
 {% endbubble %}
 
@@ -129,7 +129,7 @@ Move, move move move~!!
 —!?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Ahh, that was too harsh of me! Excuse me, please move aside! I’m in a hurry!
 
 I’m coming throooough!! If there’s any complaints, please send them all over to Morisawa Chiaki from Ryuseitai!
@@ -139,7 +139,7 @@ I’m coming throooough!! If there’s any complaints, please send them all over
 <th>(Huh? Is that Bucho~…? W-What’s he doing?)</th>
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Shinkai-kun, are you alright? Are you feeling sick from me shaking you around?
 {% endbubble %}
 
@@ -151,7 +151,7 @@ i’m sorry. i am not very Good at Walking… i am not used to it, see — becau
 so. this is the Usual for me, and it is comforting.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying you like a princess is just perfect for that role…☆[^24]
 {% endbubble %}
 
@@ -159,7 +159,7 @@ I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying 
 …………
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Hm? Ahh, Akehoshi! I’m very sorry, but please let me through!
 
 There’s a lot of things I want to talk to you about, but we’re in a hurry! We have to head over to the auditorium right away!
@@ -169,7 +169,7 @@ There’s a lot of things I want to talk to you about, but we’re in a hurry! W
 Uh, okay… But why? Does that mean you’re gonna perform?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yes! Exactly!
 
 Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in the AV room — we’ll head there first!
@@ -181,7 +181,7 @@ Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in 
 mm~ you will Bite your tongue if you Talk while running, chiaki.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Oh! You’re right! Thank you for the warning~♪
 {% endbubble %}
 
@@ -199,7 +199,7 @@ Oh! You’re right! Thank you for the warning~♪
 Bucho~! Sorry, I know you’re in a rush, but please answer this one question! I keep asking about it, but — are you gonna save this guy?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yep! Exactly! You understood it well, Akehoshi! Well done!
 {% endbubble %}
 
@@ -209,7 +209,7 @@ Of *course* I would! I’ve spent time in the same Basketball Club as you!
 But, uh, anyway… Will you be able to win…? Can you really save him?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 I don’t know! Honestly, I have no confidence in how I’ll manage it!
 {% endbubble %}
 
@@ -217,7 +217,7 @@ I don’t know! Honestly, I have no confidence in how I’ll manage it!
 What!? Then why? Because you’re a hero?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yes! No—It’s because I *want* to become one!
 
 Unfortunately, there are many things about myself I still lack right now, but I don’t have the time to wait for myself to grow and finally become a great person!
@@ -573,7 +573,7 @@ It’s so naive, and honestly, childish of you… I just can’t leave ya alone,
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch30.jpg %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Let’s hurry, Shinkai-kun! There was a huge commotion near the auditorium, I think the “Battle versus the Sea God” has already begun…!
 
 <th>(Battle versus the Sea God, huh… It’s probably an extension of the Dragon King Competition, the one Kiryu was in many times and likely got hurt in the process…)</th>
@@ -589,7 +589,7 @@ Let’s hurry, Shinkai-kun! There was a huge commotion near the auditorium, I th
 chiaki~? was this what you were Looking for?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Ohh! That’s it, that’s the one! It was exactly as Mikejima-san said — Ryuseitai’s uniforms were all in the AV room!
 
 Whew, I’m glad. I was worried I’d have to buy one of those idol uniforms the school’s been selling recently.
@@ -601,7 +601,7 @@ Though, any outfit would’ve been fine, really. But I wanted to change into the
 i see. i’m glad\~ i am very Good at Finding things. i am a god, after all~♪
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 …Uh-huh… Um, yes, you were a big help. Thank you.
 {% endbubble %}
 
@@ -609,7 +609,7 @@ i see. i’m glad\~ i am very Good at Finding things. i am a god, after all~♪
 you would like Red, yes? i think it’s This one, here you go~♪
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_1.jpg %}
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 Yeah…… Shinkai-kun, I have a question.
 
 Does this uniform suit me…?
@@ -625,7 +625,7 @@ you should be able to Wear it, and i’m sure it would Fit you. i do not know if
 that is why. please take it. you always wanted to Wear it, didn’t you?
 {% endbubble %}
 
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 …Yeah, I did. I’ve always longed to wear it.
 
 <th>(Ryuseitai’s uniforms… They were hidden deep, deep down in here, huh…?)</th>
@@ -645,7 +645,7 @@ Aaalright, time to change! Urmm, how do you wear this…?
 shall i help you, chiaki?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Wha!? W-Why did you change, too!?
 {% endbubble %}
 
@@ -653,7 +653,7 @@ Wha!? W-Why did you change, too!?
 …? huh? am i not Allowed to…?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 No, um…? It isn’t that — Actually, it suits you way more than I thought, but—! Shinkai-kun, don’t tell me you’re going up on stage…!?
 {% endbubble %}
 
@@ -673,7 +673,7 @@ since he is my Friend.
 am i a failure as their god…? mm…?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 …So that’s how it is.
 {% endbubble %}
 
@@ -681,7 +681,7 @@ am i a failure as their god…? mm…?
 huh? what do you mean?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Ah, no, just talking to myself. Hmm… I’m going to be honest: I didn’t actually want you to perform on stage.
 
 At the moment, practically every student in the entire school irrationally hates the Five Eccentrics.
@@ -703,7 +703,7 @@ Once I was done, I would have escorted you back to the beach… so that I may fu
 you were planning on becoming the Sacrifice, chiaki?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 When you put it that way, you make me sound like I’ll honorably sacrifice myself, which sort of feels weird… But, you see — while this isn’t something I’m proud of, I’m actually used to being in horrible situations.
 
 And that’s exactly why— *I’ll* become the monster subjugated in your stead.
@@ -717,7 +717,7 @@ And that’s exactly why— *I’ll* become the monster subjugated in your stead
 …you want to become a hero, don’t you?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yep. That’s what I plan on becoming. The world may see me as a monster, but I will become your hero.
 
 I’ll become a being who can take the pain in place of the persecuted victims, and fight to protect them.
@@ -729,7 +729,7 @@ is that what you Desire? is that your Dream…?
 didn’t you say that Dreams are something much more Sacred…? that is how i Understood it, but was i wrong?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 …I can’t think of any other way to become one.
 
 But that doesn’t mean I can sit still and do nothing about it. You heard it on our way here, didn’t you? The cheering of a pure, innocent kid…
@@ -757,7 +757,7 @@ i wanted to get involved… even if it meant i got hurt. that is why i came out 
 i didn’t really want to go back inside… back to the Bottom, where there’s no one else — where it’s quiet, and lonely…
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Is that your “wish”?
 {% endbubble %}
 
@@ -765,7 +765,7 @@ Is that your “wish”?
 ah! that’s my Line, you know!? you can’t Steal it from me~ okay, chiaki?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Ah, sorry. …… All I’ve been doing is apologizing.
 
 I want to change that about myself, so I’m going to thank you instead. Thank you for letting me know your true feelings.
@@ -799,7 +799,7 @@ Let’s go, Shinkai-kun. From here on out, we’re our very own superhero squad!
 okay. … ah, please wait. you have to change before that.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Oh, you’re right! Sorry! I’ll go transform immediately!
 {% endbubble %}
 
@@ -807,7 +807,7 @@ Oh, you’re right! Sorry! I’ll go transform immediately!
 “transform”… you keep saying that. it is an Important thing to do, yes?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yep! No matter how pathetic someone is, as long as they transform, they can save anything, even the world!
 {% endbubble %}
 
@@ -815,7 +815,7 @@ Yep! No matter how pathetic someone is, as long as they transform, they can save
 hm… please let me borrow that thing you call a Phone for a second.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Huh!? I don’t mind, but why?
 {% endbubble %}
 
@@ -825,7 +825,7 @@ just do it. hm, hm… thankfully, my body is Dry, so i will not be breaking it.
 as for how to use it— i learned that from seeing everyone use them.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Mm…? I don’t really understand, but I’ll go change for now, okay?
 {% endbubble %}
 
@@ -835,7 +835,7 @@ okay. … alright, it is perfect~♪
 i will return your Phone now.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Alright… Who did you message, and for what?
 {% endbubble %}
 
@@ -847,7 +847,7 @@ i got him to allow me in ryuseitai with that Authority.
 he promised to do all the Procedures necessary for me, so it should be Fine.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Join Ryuseitai? You… you’ll join…?
 {% endbubble %}
 
@@ -857,7 +857,7 @@ it is only for this one Occasion. the dreamfes Rules say you cannot fight Togeth
 i want to fight alongside you. and i want to Prove to you that i’m not Lying.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 I see… You’re completely welcome to do so, Shinkai-kun.
 
 No, allow me to call you by this name! Ryuseitai’s new warrior, Ryusei Blue!
@@ -869,7 +869,7 @@ No, allow me to call you by this name! Ryuseitai’s new warrior, Ryusei Blue!
 that is a strange feeling… but i do not Dislike it.
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yeah! You’re wearing the uniform, after all — so let’s both be reborn as new beings!
 
 I’ll become Ryusei Red! I may not be capable enough to call myself that yet, but—
@@ -937,7 +937,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 
-{% bubble Chiaki pastbcg %}
+{% bubble Chiaki mibcg %}
 HOLD IT RIGHT THEEEERE!!![^29]
 {% endbubble %}
 
@@ -947,7 +947,7 @@ HOLD IT RIGHT THEEEERE!!![^29]
 What is the *meaning* of this, Morisawaaa!?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Oh! You finally learned my name!
 
 No matter when and where we met, you would always forget it for some reason — it made me feel blue, because I was worried it meant I was simply that worthless to you!
@@ -957,7 +957,7 @@ No matter when and where we met, you would always forget it for some reason — 
 blue? aren’t *i* blue?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 Yes! I leave that color to you now, so I’ll no longer be blue!
 {% endbubble %}
 
@@ -985,7 +985,7 @@ That’s a wish too great for a human body to bear! Your desire to do so will on
 mm~? it is not a Wish, but apparently a Dream, temple guy?
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 That’s right! It’s a promise, and a vow! I’m going to make the dream I’ve envisioned since childhood into a reality — right here, right now!
 
 “Hello, everyone! Good evening! You’re probably wondering who I am, so I’ll start by introducing myself! I’m Ryuseitai’s Morisawa Chiaki!”
@@ -1031,7 +1031,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 ……
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 “Fuhahaha! Ryuseitai are both heroes and idols!”
 
 “They crush the strong and save the weak! They come running towards anyone in need of rescue! No matter what happens, they’ll make sure to protect you!”
@@ -1233,7 +1233,7 @@ Hasumi.
 “That’s right. While you do become a spirit once you die[^33]… your soul won’t be able to move on in peace if you leave behind regrets. Do everything you can while you’re still alive.”
 {% endbubble %}
 
-{% bubble Chiaki past%}
+{% bubble Chiaki mgn %}
 “Ahh… Don’t worry, we haven’t died. We may have lost, but you haven’t killed us without mercy, either.”
 
 “In fact, we’re going to start living from now on.”

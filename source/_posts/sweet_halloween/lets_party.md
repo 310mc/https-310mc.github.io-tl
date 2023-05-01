@@ -117,14 +117,16 @@ I’m gonna stay alive until the very moment Halloween is oveeer!
 
 Hm? What am I going as?
 
-Hmm… I thought about being a cyclops at first, but people told me the eyeball would look preeetty gross.
+Mm~… I thought about being a cyclops at first, but people told me the eyeball would look preeetty gross.
 
 So after going through countless ideas, I finally decided on being a “Guardian of the Valley of Kings”! So basically an Egyptian monster. If you wanted to be less specific, then I guess it’d be a mummy.
 
 Now then, Anzu-san! Go ahead and call me Mummy~♪
 
 Huh? “You want to be called something mama-like *that* badly?”, you say? “It’s just impressive at this point”?
+{% endbubble %}
 
+{% bubble Madara awkward %}
 Uhhh… Huh? You were sooo excited just a second ago, and now it just died off!
 
 …Heheh. I was preparing for the event with Ryuseitai, and they asked me if I wanted to be a Jiangshi with them.
@@ -132,11 +134,15 @@ Uhhh… Huh? You were sooo excited just a second ago, and now it just died off!
 I was part of Ryuseitai once, and they do get along with me…
 
 Aaand I did have fun working with them, but I really should make sure to keep some distance from them.
+{% endbubble %}
 
+{% bubble Madara %}
 I mean, you’re like that too, riiight?
 
 You’re going as a fairytale character — A costume that makes you seem like an outsider… It’s as if you’re trying not to get deeply involved with anyone, or end up matching with anyone.
+{% endbubble %}
 
+{% bubble Madara frown %}
 I’m thinking into it too much? I guess I shouldn’t act like we’re similar, just ‘cause we’re childhood friends…
 
 But I dunnooo, I just can’t help but feel like I’m looking at myself when I see you… It makes me feel really uneasy.
@@ -154,23 +160,23 @@ Where shall we head to? It’s all up to you, Anzu-san! Super Express Mama No.1,
 
 {% img /img/es/eventstory/sweethalloween/letsparty1_2.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile4 %}
 hey rooogue~♪ trick or treat!
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara surprised %}
 Waahh!!? Heyo, Kanata-san! You look like you’re having the time of your life!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufufu, i could say the [same] about [you], too, rogue~♪
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara awkward %}
 I’d really like it if you could stop calling me that already… I thought we got really close to each other after spending two weeks with everyone, y'know?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile2 %}
 fufufu. since you are keeping your [distance] from [us], i cannot [reach close] to you from my own position, either.
 
 even if i do want to get close, the [water tank] is in the way, you see?
@@ -180,11 +186,11 @@ so how about *you* [forgive] your old self already? i am also trying to do that 
 wah—!?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Shinkai-dono~! We have to go to the concert hall now! Our turn starts once the sun sets!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 okaaay. you could have just [told] me normally, though.
 
 you are [excited], too, huh? you even [threw] candy at me~
@@ -192,7 +198,7 @@ you are [excited], too, huh? you even [threw] candy at me~
 you [should not] throw food like that, okay? this is punishment for your naughtiness~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised %}
 Wawa—!? Please do not tickle me! I am ticklish underneath my arms!
 
 I give up, I give up!! Shinkai-donoo~! Ahahaha!! ☆
@@ -202,47 +208,51 @@ I give up, I give up!! Shinkai-donoo~! Ahahaha!! ☆
 Hahaha. You’re preeetty much just like a guardian now, Kanata-san~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 well, i [had] to be. chiaki was completely [useless] this time around.
 
 so i have to be the one to show enthusiasm, yes? supporting and helping each other is what ryuseitai is all about~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki shocked %}
 Eeeek!! There’s a ghooooost!!!
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/letsparty1_3.jpg %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised3 %}
 Eep—!! Please don’t just yell outta nowhere! You scared me!
+{% endbubble %}
 
+{% bubble Tetora %}
 Please look closely, Taichou. It’s not a ghost, it’s a guest in their costume!
 
 So we gotta follow the etiquette of the event and greet them with a “Trick or Treat”! ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki curious %}
 A-Ahhh… You’re right, they’re actually human.
 
 T-That’s quite the detail to your costume! Did you make it yourself?
 
 Y-You suddenly appeared from the corner, so I thought you were a real ghost! Ahaha~♪
+{% endbubble %}
 
+{% bubble Chiaki shocked %}
 …Eeek!! Something just creeped down my back!! S-Something cold! I’m scared! It’s scary! I’m scared!!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 It’s the air conditioning… We made sure to decorate around the vents without blocking them, remember…?
 
 Seriously, are you going to be alright for this…?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh2 %}
 I-I-I-I’m fine! Ghosts don’t exist! They’re just something people see when they’re half asleep![^1]
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 Ahaha… Morisawa-senpai’s acting just like a little kid at a haunted house…♪
 {% endbubble %}
 
@@ -250,29 +260,31 @@ Ahaha… Morisawa-senpai’s acting just like a little kid at a haunted house…
 
 {% img /img/es/eventstory/sweethalloween/letsparty2_1.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori smile %}
 Morisawa-senpai, you really are bad with monsters, huh…?
 
 I’m not really good with them either, but seeing someone who's more afraid than me ends up making me feel calm instead…♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora thinking2 %}
 Uu~myu… I don’t feel like there’s any reason to be afraid, though.
 
 Everyone's walking around in monster costumes, but only a few of 'em are actually realistic-looking. Most of them are just cute ones!
+{% endbubble %}
 
+{% bubble Tetora v2 %}
 Alright! Gather over, kids! I’m giving out candy\~ Trick or Treat\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 Here you go… We’re going to have a live show at the concert hall, so please come over and watch if you can…♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 C’mon, Taichou! You gotta give out candy and advertise! Look, even Midori-kun's working hard for once!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh2 %}
 S-S-S-Sorry! But I really can’t handle scary things…!
 
 It’s just gotten even worse after watching all those movies during the sleepover party! I can’t even walk at night anymore!
@@ -282,11 +294,13 @@ It’s just gotten even worse after watching all those movies during the sleepov
 Hahaha, looks like the plan to get you used to them failed, huuuh?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile2 %}
 fufu. it is not that [easy] to [overcome] your [weaknesses].
 
 unlike you, most people cannot [easily] manage to [do] things just by getting into it… mama.
+{% endbubble %}
 
+{% bubble Kanata grin %}
 but, due to chiaki’s [uselessness], the children probably felt they had to [get through] this on their own this time, so…
 
 they are keeping things going in his stead. everything is [just fine]~♪
@@ -304,7 +318,7 @@ In fact, I think it’s a reaaally cool thing about him.
 And so! Do your best, Chiaki-san, do your best! ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki worried %}
 D-Don’t just smile so casually like that, Mikejima-san! Please help me! It’s scary, it’s scary!
 {% endbubble %}
 
@@ -316,11 +330,11 @@ I’ve got a looot of things to do, so I’m gonna have to head off. You should 
 Right, let’s go now, Anzu-san. You’re the one managing this event, so everyone needs your help!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile3 %}
 fufu, seeing him [carry] her like that really makes them look like a [parent] and their [child].
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Indeed. He prefers to be called “Mama,” but he is much more similar to a Papa.
 
 Either way, he is very reliable~ Once again, he has helped us out a lot!
@@ -350,13 +364,13 @@ She’s going to need her own handlers she can call over whenever they’re need
 He was looking out towards her future, preparing the necessary steps to reach it, and then guiding her over to it… Mikejima-san really is incredible.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Heheh, the more I hear about him, the more awesome he sounds.
 
 Of course, I see my seniors as people I should respect and aim to be like, anyway! ♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori yare %}
 Ehh~… So you even respect Morisawa-senpai, Sengoku-kun…? I don't see what anyone could find respectable about him this time around, though…?
 
 Like, seriously… so *what* if you’re scared of ghosts…
@@ -364,13 +378,13 @@ Like, seriously… so *what* if you’re scared of ghosts…
 If you just told us about it faster, we could’ve avoided being worried over nothing… We would’ve just thought, *“Wait, that’s it?”*, laughed it off, and called it a day…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Oh! So you were worried about me, Takamine! That makes me happy!
 
 I was a little nervous you might not care about me, since you always act so harshly towards me, but in the end, you really *do* love me as a comrade! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori angry %}
 …………
 {% endbubble %}
 
@@ -380,7 +394,7 @@ Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball 
 We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufu, do not [bully] him so much, midori~♪
 {% endbubble %}
 
@@ -404,7 +418,7 @@ I just can’t handle eggplants and monsters, no matter what I do… My trauma f
 
 {% img /img/es/eventstory/sweethalloween/letsparty2_2.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 …? Did it become hard to handle them due to a terrible incident?
 {% endbubble %}
 
@@ -422,11 +436,11 @@ Ahaha… Yeah, liking something doesn’t mean you’re gonna love *every* singl
 I’m like that, too… I’m not gonna be okay with anything just ‘cause it’s a mascot character…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 What! But I am completely okay with anything as long as it is ninjas! I really love them, after all~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 yes, i am also [okay] with anything as long as it is [marine life]~♪
 {% endbubble %}
 
@@ -464,7 +478,7 @@ Heeey! Ryuseitai! Over here, over here~! ♪
 The live show’s starting~! You gotta hurry, c’mon!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Woohoo, Ra*bits\~! We apologize for taking so long to arrive. Taichou-dono kept trying to flee whenever he saw a monster on the way over here\~♪
 {% endbubble %}
 
@@ -514,7 +528,7 @@ Heheh, this is a lot of fun\~ I’m starting to feel excited myself\~♪
 Oh! Took ya long enough to get your energy back. You’re so late, Taichou~♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Nihihi! However, we are monsters, so we should probably not be *too* energetic.
 
 We should be more like Midori-kun; it is much more monster-like to be sluggish and droopy~♪
@@ -612,7 +626,7 @@ Don’t frolic around *too* much, Mitsuru… There’s gonna be a lot of us on a
 Alright! Let’s start our own warm-ups, Ryuseitai! Our live show begins soon, so don’t starting losing your concentration!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 {% endbubble %}
 
@@ -774,7 +788,7 @@ I can’t hold back my joyyy! I’m so happy, I could soar to the ends of the un
 We can’t have you do that now! Let’s all enjoy this together to the very end, Mikejima-san~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 that’s right, it is just as chiaki [said]~ come, let’s all dance together~♪
 
 “for tonight only, we [invite] everyone to the monster [festival]! trick or treat…♪”
@@ -786,7 +800,7 @@ that’s right, it is just as chiaki [said]~ come, let’s all dance together~�
 
 {% img /img/es/eventstory/sweethalloween/letsparty5_1.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 “♪\~♪\~♪”
 {% endbubble %}
 
@@ -812,7 +826,7 @@ That’s why I’ll do my best, at least once in a while…♪
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Ooh, you look eerie, Midori-kun! You're acting just like a monster, it's incredible~♪
 {% endbubble %}
 
@@ -840,7 +854,7 @@ N-Nagumo stole my chance to say our catchphrase…
 Dammit, I’m so frustrated… I’m going to lose face at this point; I’ve got to prove that I can miraculously turn the tables around to my side.
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ahaha, what would you even get from [competing] against your own comrades, chiaki~?
 
 although, i do suppose it is much [better] to do that than to treat everything with [caution]~♪

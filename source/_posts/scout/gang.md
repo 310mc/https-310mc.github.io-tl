@@ -621,7 +621,7 @@ Ughh~ You monster! You drill sergeant! You son of a b*tch![^5]
     <p>One Year Ago…</p>
 </div>
 
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 You absolute idiot!
 {% endbubble %}
 
@@ -629,7 +629,7 @@ You absolute idiot!
 …Well, that’s one way to say hello. Why’re you so out of breath, Morisawa?
 {% endbubble %}
 
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 Are you seriously asking me that? I’ll be angry if you’re actually being serious, Kiryuu!
 
 …I know I shouldn’t be harsh on you like this, but I just don’t understand. Why did you do that?
@@ -643,7 +643,7 @@ I got worried when they stopped coming to school all of a sudden, so I went over
 Haha, they bullied you, didn’t they? There’s no reason for you to worry about guys like that.
 {% endbubble %}
 
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 But they’re still my comrades, technically… It *is* true that they were awful to me, though…
 
 But at this rate, they may never come back to school.
@@ -657,7 +657,7 @@ I truly believed in that possibility… But now you ruined it.
 Is that why you’re so angry at me?
 {% endbubble %}
 
-{% bubble Chiaki pastserious %}
+{% bubble Chiaki mgnserious %}
 What I’m angry about, is that you aren't taking care of yourself.
 
 This issue was settled before things got worse, but… We’re idols. It doesn’t matter if what you did wasn't violent; if you let even a single rumor like that spread, then your future’s done for.
@@ -675,7 +675,7 @@ You’re a good guy, after all. I refuse the idea that you won’t get rewarded 
 I’ll be more careful next time, so just let this whole thing go.
 {% endbubble %}
 
-{% bubble Chiaki pastworried %}
+{% bubble Chiaki mgnworried %}
 A-Alright… Sorry, I made it sound like I’m blaming you.
 
 I’m happy that you did something for my sake. So thank you.
