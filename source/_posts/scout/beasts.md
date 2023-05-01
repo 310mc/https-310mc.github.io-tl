@@ -487,7 +487,7 @@ The sales were off the charts with all sooorts of good reviews, weren’t they? 
 Hm? You have a sister, Mama?
 {% endbubble %}
 
-{% bubble Madara frown %}
+{% bubble Madara frown2 %}
 My incompetent sister… She’s the complete opposite of me, and I don’t really understand her. Plus, she’s mentally fragile and never leaves her room.
 {% endbubble %}
 

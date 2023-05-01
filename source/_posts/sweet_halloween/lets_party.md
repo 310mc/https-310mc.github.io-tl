@@ -15,7 +15,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -473,7 +473,7 @@ Yeah… It was seriously a pain just getting here…
 {% endbubble %}
 
 {% bubble Chiaki %}
-I’m so, so sorry![^4] I haven’t been able to do anything right this event!
+I’m so, so sorry![^4] I haven’t been able to do anything right during this event!
 {% endbubble %}
 
 {% bubble Nazuna %}
@@ -542,7 +542,7 @@ You no longer cower back in fear! Instead, you’re capable of becoming a star o
 Heheh~♪ I’m so happy to know you got to understand what heroes are, Takamine!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori yare %}
 Why’re you talking like you’re so wise… You’re looking really pathetic right now, so nothing you say sounds even the tiniest bit convincing, 'kay…?
 
 Please get things done heroically, alright? At least before the live show ends…
@@ -813,7 +813,7 @@ That’s why I’ll do my best, at least once in a while…♪
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ooh, you look eerie, Midori-kun! You are acting just like a monster, it's incredible~♪
+Ooh, you look eerie, Midori-kun! You're acting just like a monster, it's incredible~♪
 {% endbubble %}
 
 {% bubble Midori %}

@@ -15,7 +15,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -84,7 +84,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 
 {% img /img/es/eventstory/sweethalloween/sweethome7_1.jpg %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna sigh %}
 Ahhh, I’m exhausted… Having t’prepare everythin’ *and* practice is justoo much…
 {% endbubble %}
 
@@ -92,7 +92,7 @@ Ahhh, I’m exhausted… Having t’prepare everythin’ *and* practice is justo
 Hahaha, you’re slurring your words, Nazuna-san.
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna sigh %}
 Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t hafta focus anymore, so 's fine…
 {% endbubble %}
 
@@ -102,7 +102,7 @@ Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t h
 ~……♪
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna curious %}
 Nn— Oh? Chiaki-chin, you’re reading a book? I didn’t ‘spect something like that from you~♪ So you got bad eyesight? The glasses made me think you were someone else…
 {% endbubble %}
 
@@ -110,17 +110,17 @@ Nn— Oh? Chiaki-chin, you’re reading a book? I didn’t ‘spect something li
 Yeah, he wears glasses during class, too. You’re in class B, so you didn’t know that, huuuh?
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna yawn %}
 Wow, really… Seeing a whole ‘nother side to someone is part'a what’s so greatabout sleepovers, huh… <em><th>(yawns)</th></em> ♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 Hehe, that was a big yawn just now, Nito. You can go ahead and sleep if you’re tired.
 
 Since it isn’t even 10 PM yet, and the rest of us are still awake, you may have to sleep with the lights still on.
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna yawn %}
 Mm, mm~… Yeah, maybe I will… I wanted to stay up and watch over the kids, though…
 
 But… my eyes keep closing all on their own… <em><th>(yawns)</th></em> ♪
@@ -130,13 +130,13 @@ But… my eyes keep closing all on their own… <em><th>(yawns)</th></em> ♪
 Do you always sleep around this time, Nito?
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna frown %}
 Yeah, I got'a habit of sleeping an’ waking up early… My dad always leaves for work real early, so I ended up followin’ along…
 
 An’ like they always say, “sleeping is what helps a kid grow.”
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnawkward %}
 It kind of seems like you’ve finished growing, though… You still look the same as you did in our first year. You’re so small that I sometimes forget you’re my age.
 {% endbubble %}
 
@@ -144,7 +144,7 @@ It kind of seems like you’ve finished growing, though… You still look the sa
 Yep. Standing next to each other, you and I would look like a parent and their kid, Nazuna-san. So c’mooon, go ahead and call me Mama~♪
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna sleep %}
 zzz…zzz…♪
 {% endbubble %}
 
@@ -154,7 +154,9 @@ Ohh? He fell asleep… Oh well, I’ll carry him to his futon~♪
 
 {% bubble Chiaki mgn %}
 His is next to mine, Mikejima-san. Let’s tuck him in and let him sleep.
+{% endbubble %}
 
+{% bubble Chiaki mgnsrsthinking %}
 He probably won’t be able to sleep well with the lights on, so maybe I should turn off the lights on this side of the room and move somewhere else…
 {% endbubble %}
 
@@ -162,7 +164,7 @@ He probably won’t be able to sleep well with the lights on, so maybe I should 
 Yep! You’re doing a greaaat job, being considerate like that, Chiaki-san! Bravo, bravo~! ♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnidle %}
 You should be more considerate, too. You’re too loud…
 
 Though, we had a pretty rough day today, yet you don’t seem to be tired at all… That’s pretty impressive.
@@ -172,7 +174,7 @@ Though, we had a pretty rough day today, yet you don’t seem to be tired at all
 Are *you* tired? Actually, you don’t seem as energetic as usual in general. You alright?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 Yep. You don't need to worry, I’m in perfect shape.
 {% endbubble %}
 
@@ -196,19 +198,21 @@ Sooo you should make sure to be in a happy, good mood. C’mooon, don’t read a
 
 {% img /img/es/eventstory/sweethalloween/chiakiorigcg.jpg %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnsweeth %}
 I’ve made it a habit to read something before I sleep, but… yeah, alright. I can always read some other time.
 
 Let’s try to spend some time with them without disturbing Nito’s sleep. Getting closer to everyone is also another objective of this sleepover party.
+{% endbubble %}
 
+{% bubble Chiaki mgngrin %}
 My beloved comrades! What are you all doing over in that corner? Let us take part in it, too~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried2 %}
 Eughhh, here comes the loud one…
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 Heheh, but it’d be a shame to only be around our yearmates, wouldn’t it?
 
 We should all get along with each other while we have the chance. Please come over here~♪
@@ -226,23 +230,23 @@ Mike-chan-senpai, you sit over here! It’s the farthest spot! 'Cuz you’d be i
 Oh, no. We’re going to be watching horror movies together~♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnsurprised %}
 Horr—…!? Huh!? Why're you…!? It isn’t the season for ghost stories anymore[^2], and if you watch horror movies now, you won’t be able to sleep!
 
 Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right!?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile3 %}
 That’s not a problem, I brought over everything we need…
 
 There was an extra monitor in the AV room, right? I got permission from Anzu-san to use it…
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgncry2 %}
 Gahhh!? You really are amazing, Takamine…! So kind and strong…!
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara northinking %}
 Oh yeaaah, I haven’t seen Anzu-san around…
 
 I wonder if she’s doing alright… Well, it’s not like we can ask a girl to come and sleep over with us, though.
@@ -254,7 +258,7 @@ Anzu-Anego went home after working for as long as she could for the day.
 Trickstar are usually the ones to walk her home, but lately she’s been getting a ride home from her parents.
 {% endbubble %}
 
-{% bubble Madara %}
+{% bubble Madara frown2 %}
 I see… Sounds like she’s compleeetely focused on her work… I wish she’d join in on the fun, though.
 {% endbubble %}
 
@@ -262,11 +266,11 @@ I see… Sounds like she’s compleeetely focused on her work… I wish she’d 
 
 {% img /img/es/eventstory/sweethalloween/sweethome8_1.jpg %}
 
-{% bubble Madara %}
+{% bubble Madara curious %}
 Anyway, that aside… Why a horror movie? How about we watch something we can aaall enjoy instead, like an action movie?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 Y-Yeah! I like that idea! Let’s watch *Ganbare Robocon* or something! It’s really heart-warming!!
 {% endbubble %}
 
@@ -278,17 +282,17 @@ So we’ll watch horror movies to take note of how to act more monster-like.
 Us Ra*bits do stuff like this often so we can take notes on how to do things.
 {% endbubble %}
 
-{% bubble Mitsuru %}
+{% bubble Mitsuru blush %}
 Yeah, yeah! We watch a lotta stuff with animals in it! Not much happens in them, though, so I get sleepy watching them! ♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori v2 %}
 Yeah, aren’t *you* the one who always forces us to watch tokusatsu shows so we can learn how to act more “heroic,” Morisawa-senpai…?
 
 It’s the same as that… What, do you have a problem or something?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 N-No? Nope, none at all! Quite the opposite! It’s wonderful how you’re all putting so much work into it!
 
 But you know, no one would scold you if you choose to play around and chat with each other instead! It’s your free time, after all!
@@ -296,37 +300,39 @@ But you know, no one would scold you if you choose to play around and chat with 
 Why, Kanata went off to feed the fish in the fish tanks instead of hanging out with us! Y'know, those fish tanks in the Marine Life Club room…! Yeah, those!!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime awkward %}
 Wawa— Morisawa-senpai, shhh\~♪ I think Nii\~chan is asleep, so please keep your voice down.
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnsrsthinking %}
 Ah! Yeah! My bad! I-I think I’ve gotten sleepy, too! Can I go ahead and get some rest? Is it okay if I do that!?[^3]
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 Oh no no… Don’t be like that\~ Let’s all watch the movie together…♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnshocked %}
 T-Takamine? Your face looks mischievous! Why is that!? Did I do something to make you angry again!?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu curious %}
 …? Umm~ What shall we start with?
 
 I brought over the DVDs — I mean, the reference material from the AV room and the library.
 
 There are all kinds of movies in here, including western ones. Perhaps we should pick whichever one looks the best.
+{% endbubble %}
 
+{% bubble Shinobu v2 %}
 But, well… if we watch a few movies every night, we will probably get through all of them.
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnworried %}
 E-Every night? We’ll be watching horror movies every night? Will we be alright? Won’t we die?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora awkward %}
 No one’s ever died from watching horror movies…
 
 Ah— But this one says that it’s not a movie for the weak-hearted.
@@ -348,23 +354,23 @@ He likes them, but he’s also scared of them, so he clings to me whenever we’
 Heheh, my brother has been kind of rebelling against me, but sometimes he acts spoiled around me~♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 A-Alright then! You’re going to need popcorn and drinks for a movie, right! I’ll go get some from the convenience store!
 
 Go ahead and start the movie without me!
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora v2 %}
 Ah! We’ve got all the stuff we need already! Look, we bought all kinds of drinks and snacks!
 
 We’ve got a special spot right here just for you seniors, so just relax and enjoy the movie~♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgncry2 %}
 Gahhh!? Oh Nagumo…! You’re such a good boy…!!
 {% endbubble %}
 
-{% bubble Mitsuru %}
+{% bubble Mitsuru sad2 %}
 Mmm… We shouldn’t drink stuff and eat snacks around this hour, y'know? My mom always scolds me about that!
 {% endbubble %}
 
@@ -378,15 +384,15 @@ You should give it up, too… Or rather, you should just buckle up and try your 
 It might be rough, buuut… you may be able to overcome your weaknesses if you can get used to them, y'know?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Weaknesses…? So Morisawa-senpai really is bad with scary stuff…?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgngrin %}
 O-Of course not! There’s nothing a hero’s afraid of! Ahh, I’m so excited\~! We’re going to watch a horror movie\~! Come on, let’s get the movie started!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu curious %}
 Taichou-dono, your eyes are twitching, you know…?
 {% endbubble %}
 
@@ -394,43 +400,43 @@ Taichou-dono, your eyes are twitching, you know…?
 Okay, I’ll put the DVD in, then. This Halloween-themed movie is just what we need, so we’ll start with it~♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnshocked2 %}
 Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime curious %}
 …? That’s just the sound of the DVD player reading the disc…?
 {% endbubble %}
 
 ## Chapter 9
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 i am back~♪
 
 …? things are quite [lively] here~ it is [midnight] by now, so you are going to [disturb] the neighborhood, you know?
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna sigh3 %}
 …………
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata surprised %}
 …fwah? i-i am so sorry! i was looking [away] and bumped into you!
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna sad2 %}
 Mm~… It’s ok. You’re big, so you didn’t see me sitting.
 
 What do I gotta eat to be that tall? I’m so jealous…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 [fish]\~ you should eat [fish], nazuna\~♪
 
 the reason why you do not grow taller, and why [governments] become [corrupt], and why flowers do not live for [long] — it is all due to not eating [fish].
 {% endbubble %}
 
-{% bubble Nazuna %}
+{% bubble Nazuna yawn %}
 Mmm? Sorry, I’m still half-asleep so I dunno what you’re sayin’…
 
 Uuu… I was this close to getting a good night’s sleep when I was suddenly woken up… My head feelso heavy…
@@ -438,41 +444,41 @@ Uuu… I was this close to getting a good night’s sleep when I was suddenly wo
 Ahh, jeez… What’s this whole ruckus 'bout?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata curious %}
 hmm~? they are watching a [movie], i think…?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora surprised3 %}
 Ahhh!! No, don’t go in there! That door’s bad news!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime worried %}
 Run away~!! That room’s filled with zombies!
 {% endbubble %}
 
-{% bubble Mitsuru %}
+{% bubble Mitsuru surprised %}
 Gwaah!? Hajime-chan, don’t cling to me! It’ll be okay! Michael got himself a pistol!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Yes, yes! I am sure that Michael-dono will not surrender to these zombies! He seems like a descendant of ninjas, after all!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime frown %}
 But he’s already shot the gun a few times now, does it still have enough ammo?
 
 Please run away, Michael-san! Your lover Judy-san is waiting for you in your hometown~!
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya northinking %}
 If you think about it meta-wise, since they were just talking about his past with his lover and all… it feels like he’s probably gonna die soon.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Yeah, I totally know what you mean… That's how you know the character's gonna die…
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnworried %}
 H-He won’t die, right!? He survived this long! You’re just lying when you say he’s gonna die, right!?
 {% endbubble %}
 
@@ -482,73 +488,79 @@ Hahaha, I’ve watched this movie before, so I know what happens. Buuut I’m no
 Don’t worry, don’t worry! In fiction, the good guys almost aaalways win!
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnshocked %}
 R-Really? Can I really believe in that?
+{% endbubble %}
 
+{% bubble Chiaki mgnshocked2 %}
 Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeee!!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime worried %}
 Ah…! Ahhhh!? Noooooooo!!
 {% endbubble %}
 
-{% bubble Mitsuru %}
+{% bubble Mitsuru frown2 %}
 H-Hajime-cha… I can’t breathe—It hurts…
 {% endbubble %}
 
-{% bubble Tomoya %}
+{% bubble Tomoya glare %}
 Hajime… Mitsuru looks in pain, so if you wanna cling to someone, cling to me.
+{% endbubble %}
 
+{% bubble Tomoya sad4 %}
 I-It’s fine if you don’t want to, though…
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime sad %}
 Huh…? Um…? I-It isn’t that I don’t want to…
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 Heeey, Morisawa-senpai…?
 
 Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, y'know\~? ♪
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnfrown2 %}
 No! It’s scary! I don’t wanna see any more blood and guts!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile4 %}
 You always force *us* to watch hero stuff when we never even wanted to, though…?
 
 So there’s no reason why *you* should be the only one to get away with saying that, right…?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnsad2 %}
 U-Uuu! It hurts when you say that!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smile3 %}
 <em><th>(whispering)</th></em> So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnangry %}
 Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% endbubble %}
 
 {% img /img/es/eventstory/sweethalloween/midoriorigcg.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori swthlwocg %}
 Then why exactly are you tugging on my sleeve and shaking in fear…?
 
 Wait a sec… didn’t you yell “It’s scary!” just now…?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnangry %}
 N-N-No! You misunderstand, Takamine! *“Sca-ree”* in Swahili means “really interesting”![^4]
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori swthlwocg %}
 In *Swahili*…? I can’t *wait* to see what your next excuse will be…♪
+{% endbubble %}
 
+{% bubble Midori serious %}
 Anyway, there really isn’t anything to be embarrassed about… We all have things we can’t stand…
 
 In a way, it’s more embarrassing and uncool to keep insisting that you like something you actually hate…
@@ -556,7 +568,7 @@ In a way, it’s more embarrassing and uncool to keep insisting that you like so
 It’s natural to have dislikes… Just be true to yourself… Aren’t *you* the one who’s always telling me stuff like, “I love you no matter what”…?
 {% endbubble %}
 
-{% bubble Chiaki mgn %}
+{% bubble Chiaki mgnangry2 %}
 …? What was that, Takamine? Sorry, I can’t hear you very well from under all the blankets!
 {% endbubble %}
 
@@ -564,27 +576,27 @@ It’s natural to have dislikes… Just be true to yourself… Aren’t *you* th
 Never mind… It wasn’t anything important, so please don’t worry about it…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata curious %}
 midori~? that [pufferfish]-looking thing next to you… is that chiaki?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori idle %}
 Ah, welcome back, Shinkai-senpai… Don’t walk around outside for too long…
 
 Well, you were only strolling around the school, so I guess nothing bad would have happened to you, anyway…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufu, i am sorry. did i [worry] you?
 {% endbubble %}
 
-{% bubble Midori %}
-Mm~… It’s not really about us… It feels like Morisawa-senpai gets really anxious without you around…
+{% bubble Midori frown %}
+Mm~… It’s not really about me… It feels like Morisawa-senpai gets really anxious without you around…
 
 So please don’t just disappear out of nowhere…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata smile4 %}
 fufufu, that is because chiaki is more [spoiled] than you would expect.
 
 but it looks like it will be okay, since it seems like you are [protecting] him.

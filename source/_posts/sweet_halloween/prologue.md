@@ -7,7 +7,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -65,11 +65,13 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 {% img /img/es/eventstory/sweethalloween/prologue_1.jpg %}
 
-{% bubble Hajime %}
+{% bubble Hajime sigh %}
 <th>(*Sigh…* I’m not sure what to do now… Why did things turn out this way…)</th>
 
 <th>(I can’t believe I ended up fighting with Tomoya-kun… This has never once happened before…)</th>
+{% endbubble %}
 
+{% bubble Hajime sad2 %}
 <th>(Tomoya-kun has always been so kind and positive towards me… Even though I’m bad at speaking, he gladly listens to me…)</th>
 
 <th>(He never rejects what I say, and agrees to it with words like “That sounds good” or “Let’s do it together”…)</th>
@@ -95,21 +97,25 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 {% img /img/es/eventstory/sweethalloween/prologue_2.jpg %}
 
-{% bubble Chiaki %}
-<th>(*Sigh…*)</th>
+{% bubble Chiaki sigh3 %}
+<th>(*Sigh~…*)</th>
 
 <th>(What do I do? What do I do? I’m in a huge predicament.)</th>
 
 <th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, gosh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
 
 <th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
+{% endbubble %}
 
+{% bubble Chiaki sad3 %}
 <th>(But…… Ahhh, I really don’t wannaa~! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)</th>
 
 <th>(Someone who would accept anything and everything — Who would love everything, and bring peace to the world! That’s the kind of hero I wanted to be!)</th>
 
 <th>(But *that thing* is the only thing I can’t deal with!! I just caaaaan’t!!)</th>
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 <th>(But! I’m always pushing my own interests onto everyone in Ryuseitai! Even if they don’t want it, I push it on them semi-forcefully!)</th>
 
 <th>(So rejecting what I can’t handle with “I don’t wanna!” is just ridiculous!)</th>
@@ -117,19 +123,21 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 <th>(It isn’t fair to them! That isn’t what justice is all about!)</th>
 
 <th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward\~!)</th>
+{% endbubble %}
 
+{% bubble Chiaki grin %}
 <th>(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!)</th>
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime surprised %}
 …Hffmph!?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki surprised %}
 Wha—!? I-I-I-I’m so sorry!![^1] Are you alright!? I’m terribly sorry for bumping into you!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime frown %}
 O-Ow… I’m alright~! I’m so sorry, I was also walking with my head in the clouds!
 {% endbubble %}
 
@@ -137,7 +145,7 @@ O-Ow… I’m alright~! I’m so sorry, I was also walking with my head in the c
 No, no, it's my bad![^2] The papers you were holding flew everywhere because of me — Hold on, I’ll pick them all up for you!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime worried %}
 Ah! It’s fine, really~ I’ll pick them up myself!
 {% endbubble %}
 
@@ -153,11 +161,11 @@ In other words, I’m just doing this because I don’t want Akehoshi to hate me
 I may be bothering you right now, but please, let me pick them up for you…!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 …Ehehe~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki shocked %}
 Huh? Why did you laugh? Did I say something weird again!?
 {% endbubble %}
 
@@ -169,15 +177,17 @@ No, I’m sorry… But you really are exactly how Akehoshi-senpai described you,
 Oh? Akehoshi gossiped about me? I see now! So the reason I’d sneeze here and there every time the season changes was because of Akehoshi!
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime awkward %}
 Um, I think that’s just a cold… Please take good care of your health, you won’t be able to sing if you get a sore throat.
+{% endbubble %}
 
+{% bubble Hajime smile %}
 Ehehe, if I’m remembering right, ginger tea is good for a cold.
 
 …Wait, huh? What was I talking about?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Mhm, you have a pretty unique way of pacing the conversation! It’s super cute, there, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 
@@ -185,15 +195,17 @@ Mhm, you have a pretty unique way of pacing the conversation! It’s super cute,
 Hwah— Awawa…
 
 Ah! Being patted on the head made me remember what I wanted to say! Akehoshi-senpai talks about you a lot, Morisawa-senpai.
+{% endbubble %}
 
+{% bubble Hajime sad4 %}
 He always says you’re suffocating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki sigh %}
 Oh… Yeah, I guess he would. That’s heart-crushing.
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime smile %}
 But whenever he talks about you, he has a really gentle look on his face…
 
 And he *always* happily ends it by saying, “Chi~chan-senpai is a hero, after all!”
@@ -201,7 +213,7 @@ And he *always* happily ends it by saying, “Chi~chan-senpai is a hero, after a
 Heroes are cool, aren’t they? My little brother often watches those shows on Sunday.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Ohh!! Really! I think I could get along well with your little brother, Shino-kun! ♪
 
 …Alright, I finished picking them up while we were talking. Were you taking these somewhere?
@@ -223,7 +235,9 @@ Is that so! Aaalright then, leave it to me! I’m pretty good at manual labor!
 Okay, this will really help me. Thank you so much, Morisawa-senpai~♪
 
 By the way, we’re heading to Anzu-san’s classroom.
+{% endbubble %}
 
+{% bubble Hajime awkward %}
 It looks like she became in charge of planning and managing the Halloween Party, and it looked like it was very hard on her… She said she needed reference materials, you see…
 
 So I tried to find all kinds of things in the reference room. Ehehe, it was pretty rough, though.
@@ -241,11 +255,11 @@ We have to properly support her — the important one-and-only producer in this 
 Yes, that’s what I think we should do, too~ People should help each other when in need, after all.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Yep, that’s correct! You have what it takes to be a hero, Shino-kun! There, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 
-{% bubble Hajime %}
+{% bubble Hajime surprised %}
 Wah-wah— Um, please don’t pat my head so roughly~!
 {% endbubble %}
 

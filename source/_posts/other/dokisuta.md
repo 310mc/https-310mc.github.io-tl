@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Dokisuta Ryuseitai"
-date: 2023-4-5 9:00:00
+date: 2023-5-2 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, ES!!]
@@ -13,7 +13,7 @@ permalink: dokisuta_ryuseitai/
 
 {% img /img/es/dokisuta/cover_500px.jpg %}
 
-Translation of various content from the Dokisuta stream for Ryuseitai. (Relationship Charts, etc...)
+Translation of various content from the Dokisuta stream for Ryuseitai. (Relationship Charts, character's charm points, etc...)
 
 <!-- more -->
 
@@ -202,7 +202,7 @@ Be it the sun *or* the moon itself!
 
 {% img /img/es/eventstory/supervillain/tetorabcg.jpg %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora svbcg %}
 I want to walk down this road for a while longer. I want to get covered in mud, desperately wade through the muck, and move forward—
 
 Then I’ll grasp onto something, and become a bigger man than you’ve ever been.
@@ -285,9 +285,7 @@ But if you steel yourself and take a leap forward, things surprisingly do turn o
 {% bubble Shinobu v2 %}
 I really do love ninjas…☆
 
-Until that love is fully shared with everyone—
-
-I mustn't allow myself to be concealed within the shadows!
+Until that love is fully shared with everyone — I mustn't allow myself to be concealed within the shadows!
 {% endbubble %}
 
 <small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1639).</small>

@@ -4,7 +4,7 @@ date: 2017-08-09 9:00:00
 categories:
 - [Enstars, ES!]
 tags:
-description: "[ES!] Ensemble Stars (Enstars) Translation of the quotes that appear when you scout a 5* of the character."
+description: "[ES!] Ensemble Stars (Enstars) translation of the quotes that appear when you scout a 5* of the character."
 permalink: es_scout_quotes/
 ---
 
@@ -67,7 +67,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 アイドルとは、ライブとは、もっと尊貴なる芸術品なのだよ。
 
-**Mika:** It’s *‘cuz* I’m in Valkyrie that I shine ♪
+**Mika:** It’s *‘cuz* I’m in Valkyrie that I shine. ♪
 
 『Valkyrie』だからこそ、おれは輝くんや♪
 
@@ -84,7 +84,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 俺は輝かせてみせるよ、この世界のすべてを！
 
-**Hokuto:** I want to be an idol that can hold one’s head high as “Hokuto Hidaka”.
+**Hokuto:** I want to become an idol that can hold one’s head high as “Hidaka Hokuto”.
 
 俺は『氷鷹北斗』として、胸を張れるアイドルになりたい。
 
@@ -101,7 +101,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 我輩たちはアイドルじゃ。夜闇のなかでこそ、星は輝く。
 
-**Kaoru:** I just want girls to show me all their cute smiles ♪
+**Kaoru:** I just want girls to show me all their cute smiles. ♪
 
 女の子に、かわいい笑顔を見せてもらいたいよね ♪
 
@@ -127,7 +127,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 子供たちに夢を与えられるなら、生まれてきた甲斐があるよ。
 
-**Hinata:** Idols'll shine so long as there’s someone who’ll accept and love them.
+**Hinata:** Idols will shine as long as there’s someone who’ll accept and love them.
 
 認めて、愛してくれる誰かがいればアイドルは輝くんだ。
 
@@ -158,11 +158,11 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 夢みたいなことを実現してこそアイドルだ！
 
 
-**Natsume:** We are idols, it's our duty to show our guests a great TIME ♪
+**Natsume:** We are idols, it's our duty to show our guests a great tIME ♪
 
 ボクらはアイドル、お客さまを楽しませるのが使命ダ♪
 
-**Tsumugi:** To give everyone dreams…
+**Tsumugi:** For the sake of giving everyone dreams…
 
 みんなに夢を与えるために。
 

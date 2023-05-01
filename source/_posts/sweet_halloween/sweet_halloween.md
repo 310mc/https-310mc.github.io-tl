@@ -10,7 +10,7 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…"
+description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…"
 permalink: sweet_halloween/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -24,7 +24,7 @@ permalink: sweet_halloween/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -118,7 +118,7 @@ permalink: sweet_halloween/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, Hajime and Tomoya seem to be awkward around each other, and Chiaki seems terrified of something…
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">
