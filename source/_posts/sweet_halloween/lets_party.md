@@ -227,7 +227,7 @@ Eep—!! Please don’t just yell outta nowhere! You scared me!
 {% bubble Tetora %}
 Please look closely, Taichou. It’s not a ghost, it’s a guest in their costume!
 
-So we gotta follow the etiquette of the event and greet them with a “Trick or Treat”! ♪
+So we gotta follow the etiquette of the event and greet 'em with a “Trick or Treat”! ♪
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -269,7 +269,7 @@ I’m not really good with them either, but seeing someone who's more afraid tha
 {% bubble Tetora thinking2 %}
 Uu~myu… I don’t feel like there’s any reason to be afraid, though.
 
-Everyone's walking around in monster costumes, but only a few of 'em are actually realistic-looking. Most of them are just cute ones!
+Everyone's walking around in monster costumes, but only a few of 'em are actually realistic-looking. Most of 'em are just cute ones!
 {% endbubble %}
 
 {% bubble Tetora v2 %}

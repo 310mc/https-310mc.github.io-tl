@@ -54,9 +54,9 @@ description: "[ES!] Translation of Kanata's Management Stories, featuring Tetora
 
 ### With Tetora
 
-{% note location %}
-**Location:** Beach
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Beach</span></p>
+</div>
 
 {% bubble Kanata %}
 *puka, puka*…♪ the salty wind feels so nice~♪

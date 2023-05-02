@@ -54,9 +54,9 @@ description: "[ES!] Translation of Tetora's Management Stories, featuring Midori
 
 ### With Midori
 
-{% note location %}
-**Location:** Near the Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the Gym</span></p>
+</div>
 
 {% bubble Tetora %}
 Midori-kun, sorry to ask this outta nowhere, but… I'm Ryusei Black, right?

@@ -56,9 +56,9 @@ description: "[ES!] Translation of Shinobu's Management Stories, featuring Mao a
 
 ### With Mao
 
-{% note location %}
-**Location:** Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
 
 {% bubble Shinobu %}
 Isara-dono~☆ Look, look! I bought this shuriken online!
@@ -102,9 +102,9 @@ But it matters not if it’s fake or replica — I can love anything that is nin
 
 ### With Midori
 
-{% note location %}
-**Location:** Near the Auditorium
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the Auditorium</span></p>
+</div>
 
 {% bubble Shinobu %}
 Midori-kuuun! I found what you were looking for! Ahh, but please do confirm if it's the correct one.

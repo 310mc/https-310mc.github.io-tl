@@ -1080,7 +1080,7 @@ At the very least this stops us from being treated as slaves and convenient ches
 
 This way, we’ll be able to protect our autonomy and freely do things the way we want to.
 
-We aren’t soldiers like Alkaloid — We’re heroes who sacrifice ourselves only under our own sense of justice.
+We aren’t soldiers like ALKALOID — We’re heroes who sacrifice ourselves only under our own sense of justice.
 
 …It would be selfish of me to say all that without giving anything in return, however, so we also took down the proposal of Kanata and I leaving Ryuseitai.
 

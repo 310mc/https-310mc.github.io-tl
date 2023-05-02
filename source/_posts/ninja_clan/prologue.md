@@ -51,9 +51,9 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-{% note location %}
-**Location:** Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/prologue.jpg %}
 
@@ -75,9 +75,9 @@ If Isara-dono is in a predicament, then I must assist him in any way I can!
 I just need to head over there first\~! But I shouldn’t run in the hallways, so I’ll be ninja-speedy in the appropriate manners—woosh, woosh\~! ☆
 {% endbubble %}
 
-{% note location %}
-**Location:** Student Council Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Student Council Office</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/prologue1.jpg %}
 

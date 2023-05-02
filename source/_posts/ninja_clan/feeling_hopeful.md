@@ -59,9 +59,9 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Meeting Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Meeting Room</span></p>
+</div>
 
 {% bubble Chiaki thinking %}
 Hmm… I see.

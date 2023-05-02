@@ -7,7 +7,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -51,15 +51,15 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 
 <!-- more -->
 
-{% note location %}
-**Location:** Dojo
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/prologue.jpg %}
 
-{% note narration %}
-**Time:** Just after summer holidays, during the evening
-{% endnote %}
+<div class="msr-narration">
+    <p>Just after summer holidays, during the evening…</p>
+</div>
 
 {% bubble Hiiro %}
 Taishou.
@@ -146,7 +146,7 @@ Oh nah, I don’t mind. I accidentally dozed off while doing my usual meditation
 
 Maybe I really have been exhausted, like you mentioned.
 
-I’ve been doing as best as I can while keeping a close eye on everything, but… Lately, there’s such a huge gap between the school’s Ryuseitai—also known as Ryuseitai-N— and Ryuseitai-M from ES…[^4]
+I’ve been doing as best as I can while keeping a close eye on everything, but… Lately, there’s such a huge gap between the school’s Ryuseitai — also known as Ryuseitai-N — and Ryuseitai-M from ES…[^4]
 
 Like, Ryuseitai-N’s been staggering in *every* way, and I just can’t seem to make things work in the unit… It’s been daunting on me.
 
@@ -164,7 +164,7 @@ Splendidly so, especially compared to us underachievers. There is always someone
 {% endbubble %}
 
 {% bubble Tetora %}
-Nah, I feel like Alkaloid’s already surpassed us… or at least, you surpassed the Ryuseitai that *I’m* the leader of.
+Nah, I feel like ALKALOID’s already surpassed us… or at least, you surpassed the Ryuseitai that *I’m* the leader of.
 
 Didn’t you guys go all out in the MDM?
 

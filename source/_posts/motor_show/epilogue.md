@@ -14,7 +14,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -48,7 +48,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a> (Ryuseitai), <a href="/about">Peace</a> (Alkaloid)
+                    <a href="/about">310mc</a> (Ryuseitai), <a href="/about">Peace</a> (ALKALOID)
                 </div>
             </div>
             <div class="info-item three">
@@ -77,18 +77,18 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 **Content Warning:** Light-hearted PTSD mentions.
 {% endnote %}
 
-{% note location %}
-**Location:** Motor Show Venue
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Motor Show Venue</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/ep1.jpg %}
 
-{% note narration %}
-**Time:** Time passes; the day of Motor Show has arrived.
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes; the day of Motor Show has arrived…</p>
+</div>
 
 {% bubble Tatsumi %}
-Fufu. Rather than the live performances we as idols should be used to doing, promoting things such as cars has become the work that Alkaloid has been far more familiar with at the moment.
+Fufu. Rather than the live performances we as idols should be used to doing, promoting things such as cars has become the work that ALKALOID has been far more familiar with at the moment.
 
 As you may recall, before our first performance at the Bon Festival, we had quite the number of part-time jobs under our belt—
 
@@ -116,7 +116,7 @@ That much is admirable. Though Motor Show is a simple project, it's a good way t
 {% endbubble %}
 
 {% bubble Hiiro %}
-That's right. Ryuseitai will be handling the more difficult portion, while we of Alkaloid shall be doing what we can to aid them.
+That's right. Ryuseitai will be handling the more difficult portion, while we of ALKALOID shall be doing what we can to aid them.
 
 In fact, it is such a simple task that I may have *too* much energy for it!
 {% endbubble %}
@@ -182,7 +182,7 @@ In the meanwhile, I'll tell you what I learned of Motor Show myself — for refe
 
 However… It would seem that the number of guests who attend decreases every year. Even now the place is rather deserted, with not a single person in sight, apart from ourselves.
 
-That is why they've entrusted us with the job of gathering attendees and enlivening the venue— Though, compared to Ryuseitai, we are comparatively unknown in ES.
+That is why they've entrusted us with the job of gathering attendees and enlivening the venue — Though, compared to Ryuseitai, we are comparatively unknown in ES.
 
 The number of people who would come to see us alone is not very many.
 
@@ -196,7 +196,7 @@ Apparently, there are not very many people who'd like to buy a car in recent yea
 {% bubble Tatsumi %}
 Mm. Well, there's a reason for that in the first place. Japan itself is a small country, so there is not much need for roads — save for rural areas, which allow wider roads.
 
-Otherwise, a simple bicycle, or the railway system, born from human stubbornness— or rather, born from hopes and dreams, would suffice.
+Otherwise, a simple bicycle, or the railway system, born from human stubbornness — or rather, born from hopes and dreams, would suffice.
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -218,7 +218,7 @@ TBH, it was pretty fun to look up the history of cars and see what kinds were tr
 
 And I really like being able to name all the cars that're lined up around us, though I don't know why…
 
-But I think it'd be nice if people took an interest in us, in Alkaloid, and remembered us the same way.
+But I think it'd be nice if people took an interest in us, in ALKALOID, and remembered us the same way.
 
 So I guess I’ll work hard and make that a reality. People won't remember idols who've got gloomy looks on their face, after all! So we’ll do everything we can to make this place a party for the guests who've gathered here today!
 
@@ -226,7 +226,7 @@ We'll give it our all to make sure that they have a ton of fun and feel like it 
 {% endbubble %}
 
 {% bubble Mayoi %}
-Let's. We’ll perform in a way that very much suits the spirit of Alkaloid. Even if we're nothing but a pack of cards played to idle away the time, let's ensure they at least find value in that time they spent doing so.
+Let's. We’ll perform in a way that very much suits the spirit of ALKALOID. Even if we're nothing but a pack of cards played to idle away the time, let's ensure they at least find value in that time they spent doing so.
 {% endbubble %}
 
 ## Chapter 2
@@ -292,15 +292,15 @@ Woah!? K-Kanata! Huh!? Weren’t all of Ryuseitai supposed to be on the opposite
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, that’s right. it’s going swimmingly well~ the place is packed with people, and a lot of the “n” members came rushing over to join.
+yes, that’s right. it is going [swimmingly well]~ the place is [packed] with people, and a lot of the “n” [members] came rushing over to join.
 
-they said that they had a change of heart, and decided not to quit after all…
+they said that they had a [change of heart], and decided not to quit after all…
 
-instead, they are working hard to do whatever they can, as best as they can.
+instead, they are working hard to do whatever they [can], as [best] as they can.
 {% endbubble %}
 
 {% bubble Chiaki %}
-I-I see… I’m glad to hear that. Actually, no—I knew deep down this would happen.
+I-I see… I’m glad to hear that. Actually, n[A-Za-z] — [A-Za-z] knew deep down this would happen.
 
 Nagumo is already a hundred times more splendid a hero than when I first became a leader.
 
@@ -308,35 +308,35 @@ He’s still inexperienced, so his earnest side wound up also being his weakness
 
 But now that he’s grown, he’ll become the hope, inspiration, and role model for any kid who’s suffering similarly within this warped society.
 
-Actually, let me amend that— he’ll become the one to rescue them. A hero's duty is to save others, but most of all— Becoming this symbol is what makes the present day Ryusei Red undoubtedly a hero.
+Actually, let me amend that — he’ll become the one to rescue them. A hero's duty is to save others, but most of all — Becoming this symbol is what makes the present day Ryusei Red undoubtedly a hero.
 
 I can tell that I made the right choice when I chose him to take after “red” in my place.
 {% endbubble %}
 
 {% bubble Kanata %}
-if that is how you feel, then please tell *him* that. tetora may have grown, but he is still a child.
+if that is how you feel, then please tell *[him]* that. tetora may have [grown], but he is still a [child].
 
 he is surely had moments where he has shed tears from anxiety.
 
-i cannot handle salty water — the only one who can wipe his tears away is <em>you</em>, chiaki, because you are the one who passed your position onto him in the first place.
+i [cannot handle] salty water — the only one who can [wipe] his tears away is <em>you</em>, chiaki, because you are the one who passed your [position] onto him in the first place.
 
 now then, with that said… let’s go join everyone else.
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Huh? Erm, but—I’m just a regular ol’ visitor, y’know!?
+Huh? Erm, bu[A-Za-z] — [A-Za-z]’m just a regular ol’ visitor, y’know!?
 
 And I just happened to end up here! I shouldn’t get in the way of their work when they’re focused, right!?
 {% endbubble %}
 
 {% bubble Kanata %}
-mhm, mhm, i know the truth. no need to come up with excuses. let’s go on stage with everyone, why don’t we?
+mhm, mhm, i know the truth. no need to come up with [excuses]. let’s go on [stage] with everyone, why don’t we?
 
-i am sure you practiced for motor show’s performance anyway, didn’t you? just in the slight chance you would have to perform. you have always been that sort of person—
+i am sure you [practiced] for motor show’s performance anyway, didn’t you? just in the slight chance you would have to perform. you have always been that sort of person—
 
-and it is a hero’s duty to be prepared for that “slight chance”.
+and it is a hero’s duty to be [prepared] for that “slight chance”.
 
-besides, you would never distance yourself from others simply because you are too busy.
+besides, you would never [distance] yourself from others simply because you are too [busy].
 
 we are talking about mr. lonely here, aren’t we?
 {% endbubble %}
@@ -350,7 +350,7 @@ But… If I step in and do everything for them, they’ll never, ever grooow…!
 {% endbubble %}
 
 {% bubble Kanata %}
-mhm, mhm, i said i know already, didn’t i? and maybe… they do too.
+mhm, mhm, i said i know already, didn’t i? and maybe… they do, too.
 {% endbubble %}
 
 {% bubble Aira %}
@@ -360,7 +360,7 @@ mhm, mhm, i said i know already, didn’t i? and maybe… they do too.
 {% bubble Mayoi %}
 Fufu. That is rather "hero-like" of them, isn't it…? But because of who I am, I'm not very good with tokusatsu shows, nor heroes themselves…
 
-Despite that, I'm at home with those of Ryuseitai— They lended a hand to someone as disgusting and repulsive as myself… It warms my heart.
+Despite that, I cannot help but think Ryuseitai are wonderful — They lended a hand to someone as disgusting and repulsive as myself… It warms my heart.
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -377,18 +377,18 @@ Then you will no longer be just a sly fox borrowing a tiger's dignified presence
 **Content Warning:** Obsessive behavior over a person, and mentions of sexual harrassment.
 {% endnote %}
 
-{% note location %}
-**Location:** Motor Show Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Motor Show Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/ep3.jpg %}
 
-{% note narration %}
-**Time:** Few hours later
-{% endnote %}
+<div class="msr-narration">
+    <p>Few hours later…</p>
+</div>
 
 {% bubble Shinobu %}
-Heeey, Alkaloid! Do you mind coming over here? We’re about to commence the finale for Motor Show!
+Heeey, ALKALOID! Do you mind coming over here? We’re about to commence the finale for Motor Show!
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -416,7 +416,7 @@ I feel like it shouldn’t be acceptable behavior even if the person’s chill w
 {% endbubble %}
 
 {% bubble Hiiro %}
-Fufu. I apologize, Buchou, it's simply that Mayoi-senpai acts erratically from time to time.
+Fufu. I apologize, Buchou; it's simply that Mayoi-senpai acts erratically from time to time.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -454,11 +454,11 @@ But I guess it’d be too weird to have two reds on stage, so we’ve just gotta
 {% bubble Chiaki %}
 Yep. Red may be the color of the leader, but that doesn’t mean the other colors are any less important to it.
 
-The most important thing is to harmonize several colors together— though I know I don’t need to tell you that.
+The most important thing is to harmonize several colors together — though I know I don’t need to tell you that.
 
 Besides, there are times when red is a heavy burden on me, too.
 
-That’s just one of the reasons why I’m happy to get a chance to don a different color, even if it’s only for a brief moment— and I get to do so right now because this performance is led by Ryuseitai-N.
+That’s just one of the reasons why I’m happy to get a chance to don a different color, even if it’s only for a brief moment — and I get to do so right now because this performance is led by Ryuseitai-N.
 
 Thank you, Nagumo, for growing up to be such a reliable man that I can entrust red to.
 {% endbubble %}
@@ -468,17 +468,17 @@ Why’re you thanking me? *I* should be the one showing my gratitude, Morisawa-s
 
 I’m so grateful you brought us all the way here. Thanks to you, we got to have a safe, pleasant trip… You couldn’t have made it any better for us.
 
-Heheh. But driving for a looong time is one of the many causes of accidents, so unworthy as I may be— Nagumo Tetora’s gonna take the wheel from here on!
+Heheh. But driving for a looong time is one of the many causes of accidents, so unworthy as I may be — Nagumo Tetora’s gonna take the wheel from here on!
 
 So I’d like you seniors to just sit back, relax, and enjoy the scenery from the backseat!
 
-Everyone’s seat belts are buckled by now, right? Aight, let’s make sure we follow the traffic rules here— ‘Cuz I’m gonna rev up the engine and put the pedal to the metal!
+Everyone’s seat belts are buckled by now, right? Aight, let’s make sure we follow the traffic rules here — ‘Cuz I’m gonna rev up the engine and put the pedal to the metal!
 
 “Heya guys~! I’m Nagumo Tetora, a member of Ryuseitai!”
 
 “Thanks a ton for showing up to Motor Show! We’re gonna make sure you love what we’re planning to do here, so look forward to seein’ it!”
 
-“We’re gonna keep pressing forward! For the sake of justice, we’ll keep on going and going— carrying all your hopes and dreams with us!”
+“We’re gonna keep pressing forward! For the sake of justice, we’ll keep on going and going — carrying all your hopes and dreams with us!”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -486,9 +486,9 @@ Everyone’s seat belts are buckled by now, right? Aight, let’s make sure we f
 {% bubble Shinobu %}
 Ooh… Tetora-kun, you got so excited that you suddenly commenced the performance out of nowhere!
 
-You take action the moment you decide on something— and that’s both a good and bad thing, you know!
+You take action the moment you decide on something — and that’s both a good and bad thing, you know!
 
-Nonetheless, to avoid being thrown off the ride, we shall accompany you. After all, we are comrades here— and most of all, together we are Ryuseitai—!
+Nonetheless, to avoid being thrown off the ride, we shall accompany you. After all, we are comrades here — and most of all, together we are Ryuseitai—!
 
 …And so, Mayoi-dono. If you could please cease carrying me now…?
 {% endbubble %}
@@ -530,11 +530,11 @@ Mhm! It’s always been a hero’s duty to protect those in anguish to the very 
 {% bubble Chiaki %}
 <th>(Heheh… I feel incredibly relieved. Even just a bit of distance from you all made it hard for me to see how you were doing, but…)</th>
 
-<th>(I can see clearly now— all along, you’ve grown up to be so incredible. I should’ve been well aware of that already, but I still couldn’t shake off the image I had of you guys when we first met…)</th>
+<th>(I can see clearly now — all along, you’ve grown up to be so incredible. I should’ve been well aware of that already, but I still couldn’t shake off the image I had of you guys when we first met…)</th>
 
 <th>(I need to reflect on myself more than ever… I looked down on you guys in the end.)</th>
 
-<th>(You’re no longer babies who’re helpless on your own— You’ve become splendid adults.)</th>
+<th>(You’re no longer babies who’re helpless on your own — You’ve become splendid adults.)</th>
 {% endbubble %}
 
 {% bubble Midori angry %}
@@ -550,11 +550,11 @@ T-Takamine? What’s wrong, you seem kind of angry…? You shouldn’t kick your
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, it is because you are always late to the rescue, chiaki. me and midori start getting irritated the more we wait for you.
+fufu, it is because you are always [late] to the rescue, chiaki. me and midori start getting [irritated] the more we wait for you.
 
-after all, we knew for a fact that you would come over one way or another…
+after all, we knew for a fact that you would [come] over one way or another…
 
-and this performance requires all five of us for it to glow best, so you will not be helping anyone by stepping back.
+and this performance requires all [five of us] for it to [glow] best, so you will not be [helping] anyone by stepping back.
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -576,13 +576,13 @@ Yeah… If someone really *does* end up thinking I’m uncool, it’s over for m
 {% endbubble %}
 
 {% bubble Kanata %}
-you already became one, you know. it is precisely because you managed it that the children who aimed to be like you have become so cool themselves.
+you already became one, you know. it is precisely because you managed it that the [children] who aimed to be like you have become so [cool] themselves.
 {% endbubble %}
 
 {% bubble Chiaki %}
 …You’re right… Or rather, if that’s really the case, nothing would make me any happier.
 
-Nothing that has happened was in vain. I was really able to pass on the most important things I inherited from my own seniors to the next era— Both the passionate spirit of justice, and the shining, radiant ideal image of a hero…!
+Nothing that has happened was in vain. I was really able to pass on the most important things I inherited from my own seniors to the next era — Both the passionate spirit of justice, and the shining, radiant ideal image of a hero…!
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -594,7 +594,7 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 {% bubble Tetora %}
 <th>(Ahaha, I can hear you loud and clear, guys~ They’re just casually talking on stage… That bad habit of ours from Yumenosaki is still lingering on ‘em, huh?)</th>
 
-<th>(Feels like it’s become such a norm to do it that nobody bats an eye to it anymore— like it’s a traditional art or something.)</th>
+<th>(Feels like it’s become such a norm to do it that nobody bats an eye to it anymore — like it’s a traditional art or something.)</th>
 
 <th>(But we've gotta be keepin' an eye on our audience too!)</th>
 
@@ -610,13 +610,13 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 {% img /img/es/eventstory/motorshow/ep4_1.jpg %}
 
 {% bubble Tetora %}
-<th>(Thankfully, I really lucked out by having so many of the people I do around me. I’ve got Shinobu-kun and Midori-kun, who’ve supported me through the toughest times— and Morisawa-senpai and Shinkai-senpai, who’ll guide me through this new path.)</th>
+<th>(Thankfully, I really lucked out by having so many of the people I do around me. I’ve got Shinobu-kun and Midori-kun, who’ve supported me through the toughest times — and Morisawa-senpai and Shinkai-senpai, who’ll guide me through this new path.)</th>
 
-<th>(I even have the Ryuseitai-N newbies who look up to me and try to catch up to me— along with Alkaloid, as well.)</th>
+<th>(I even have the Ryuseitai-N newbies who look up to me and try to catch up to me — along with ALKALOID, as well.)</th>
 
 <th>(And of course, let’s not forget all our fans.)</th>
 
-<th>(All I’ve ever done is pathetically lose my path over and over, but nobody ever blamed me— they only kept supporting me, protecting me, and cheering for me to keep going. That’s why I was able to make this much progress in my life without ever giving up.)</th>
+<th>(All I’ve ever done is pathetically lose my path over and over, but nobody ever blamed me — they only kept supporting me, protecting me, and cheering for me to keep going. That’s why I was able to make this much progress in my life without ever giving up.)</th>
 
 <th>(It’s all thanks to everyone that I’m here right now. At the very least, I’m gonna try to move forward little by little so that I avoid causing any delays!)</th>
 
@@ -638,7 +638,7 @@ I’ve always felt so inferior ‘cuz of my empty self.
 
 I couldn’t stand how empty I was inside, it honestly freaked me out… so I’d act tough by lining up all sortsa cool stuff around me.
 
-Not that it changed much—No matter how much cool stuff I covered my body with, I was always gonna be a lame guy inside that hollow shell.
+Not that it changed much — No matter how much cool stuff I covered my body with, I was always gonna be a lame guy inside that hollow shell.
 
 But right now, there’s so many things inside me — everyone’s hopes, trust, and friendship…
 
@@ -646,9 +646,9 @@ And beside me, I have people who opened the door of the dark car I was cuddling 
 
 That’s why I’m able to press forward. I’m in no way some empty shell anymore.
 
-I’ve always loved cool stuff. Like the ever reliable, strong Taishou— the mighty and wild tiger, the rough and awesome cars…
+I’ve always loved cool stuff. Like the ever reliable, strong Taishou — the mighty and wild tiger, the rough and awesome cars…
 
-Yearning for them, I reached out— and lived my life nuzzling close to them for comfort, if nothing else.
+Yearning for them, I reached out — and lived my life nuzzling close to them for comfort, if nothing else.
 
 But no amount of cool stuff around me could *make* me cool. In the end, I was nothin' but a housecat with painted stripes.
 
@@ -662,13 +662,13 @@ I’m no different from some cocky kid who convinced himself he’s strong just 
 {% bubble Tetora %}
 I plan to work hard in recognizing that about myself, accepting it, and then changing how I am.
 
-Just like how I dealt with the newbies— I’m gonna rip off any signs of stubborn pride, and challenge the world as *myself.*
+Just like how I dealt with the newbies — I’m gonna rip off any signs of stubborn pride, and challenge the world as *myself.*
 
-So that I *truly* become cool— and become an actual man among men, one that everyone can look up to and see as their role model.
+So that I *truly* become cool — and become an actual man among men, one that everyone can look up to and see as their role model.
 
 I was able to see what’s in front of me a little better by facing reality like that.
 
-And what I saw was— all the newbies showing up to the venue without a single one of ‘em looking down on me or laughing at me.
+And what I saw was — all the newbies showing up to the venue without a single one of ‘em looking down on me or laughing at me.
 
 It just made me think, what was I even afraid of…? I really am just a dumbass… I’ve still got so much ahead of me to learn.
 
@@ -690,7 +690,7 @@ However, as we cannot see yet where we are headed, we ask that you guide us… R
 {% img /img/es/eventstory/motorshow/tetorabcg.jpg %}
 
 {% bubble Tetora %}
-Ossu! You’ve got it, Alkaloid~♪ Then zip it and follow my lead—
+Ossu! You’ve got it, ALKALOID~♪ Then zip it and follow my lead—
 
 Nah, forget what I just said. Let’s instead go down the path together, while having a blast singing together!
 

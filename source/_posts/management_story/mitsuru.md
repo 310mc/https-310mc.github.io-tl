@@ -54,9 +54,9 @@ description: "[ES!] Translation of Mitsuru's Management Stories, featuring Madar
 
 ### With Mitsuru
 
-{% note location %}
-**Location:** Running Grounds
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Running Grounds</span></p>
+</div>
 
 {% bubble Madara %}
 Mitsuru-saaaaan! It’s only the two of us in the club today! Nooow then! What should we do~?

@@ -14,7 +14,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -48,7 +48,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a> (Ryuseitai), <a href="/about">Peace</a> (Alkaloid)
+                    <a href="/about">310mc</a> (Ryuseitai), <a href="/about">Peace</a> (ALKALOID)
                 </div>
             </div>
             <div class="info-item three">
@@ -72,15 +72,16 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 {% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Chapter 1
-{% note location %}
-**Location:** Time Street
-{% endnote %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Time Street</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/p2ch1.jpg %}
 
-{% note narration %}
-**Time:** A few days later, at night — On the way home after an all-out practice session with Ryuseitai-N
-{% endnote %}
+<div class="msr-narration">
+    <p>A few days later, at night — On the way home after an all-out practice session with Ryuseitai-N…</p>
+</div>
 
 {% bubble Midori thinking %}
 Huh… So *that’s* why you’ve been down lately…?
@@ -209,7 +210,7 @@ C-Cease this at once, Midori-kun! Don’t sour the mood after how hard Tetora-ku
 {% endbubble %}
 
 {% bubble Midori worried %}
-What the—The heck was that? A spell to exterminate demons or something?
+What the— The heck was that? A spell to exterminate demons or something?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -231,7 +232,7 @@ And now that they’ve left, they’re not part of Ryuseitai-N anymore. You'll w
 {% bubble Tetora sad %}
 Uumyu… But it's not that I’m depressed or anything.
 
-It’s just that I have to think these things through— I’m the leader after all, the very same guy who inherited the red color from Morisawa-senpai.
+It’s just that I have to think these things through — I’m the leader after all, the very same guy who inherited the red color from Morisawa-senpai.
 
 Also, if I don’t figure out why everyone’s leaving and think up a solution for it, it’s just gonna keep happening over and over again.
 
@@ -246,9 +247,9 @@ Otherwise… I’ll never, ever move forward.
 
 {% img /img/es/eventstory/motorshow/p2ch2.jpg %}
 
-{% note narration %}
-**Time:** A few minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>A few minutes later…</p>
+</div>
 
 {% bubble Midori serious %}
 Huh… So most people who quit said something about how Ryuseitai-N's different from what they thought it’d be…?
@@ -297,7 +298,7 @@ Ahh… That *would* be a disappointment. Though personally, I think preparation 
 {% bubble Midori serious %}
 Yeah, but I bet they just wanted to jump right into enjoying good street food and having fun together…
 
-After all, it’s not like *they* got to see what went on backstage— and all the blood, sweat, and tears we poured into setting up everything for the festival…
+After all, it’s not like *they* got to see what went on backstage — and all the blood, sweat, and tears we poured into setting up everything for the festival…
 
 Or how much Morisawa-senpai ran himself ragged with preparations and begging the higher-ups for permission, all for the sake of a festival that spanned only a moment in our lives — they don’t know a lick of it.
 {% endbubble %}
@@ -347,7 +348,7 @@ That’s the sorta unit we inherited, so it doesn’t make sense for us to throw
 {% endbubble %}
 
 {% bubble Midori thinking %}
-Mm… Oh yeah, didn’t you say stuff like that last year too? You’d always talk about how things were different from what you expected…
+Mm… Oh yeah, didn’t you also always say how things were different from what you expected last year?
 
 I think you wanted to be in Akatsuki first, right…? Didn’t you used to complain about that at first? Like, you always looked like you didn’t feel as if this was where you belong.
 
@@ -359,7 +360,7 @@ GOOOOOD WORK EVERYONE!
 {% endbubble %}
 
 {% bubble Midori worried %}
-Eep!? What the—Hey, doesn't that stupidly loud voice sound way too familiar…?
+Eep!? What the— Hey, doesn't that stupidly loud voice sound way too familiar…?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -411,7 +412,7 @@ Also, it’s just natural for sportsy peeps to greet their seniors, y’know?
 {% bubble Midori thinking %}
 Ahhh… You know, it’s possible the newbies dislike that side of you…
 
-I mean, a bunch of them are more of the geeky type who love tokusatsu shows, sooo…
+I mean, a bunch of them are more of the nerdy type who love tokusatsu shows, sooo…
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -437,7 +438,7 @@ Ahaha, why do you want to head home? It's rare that we get to talk to him these 
 {% img /img/es/eventstory/motorshow/p2ch3.jpg %}
 
 {% bubble Chiaki %}
-Bam! The wait is finally over— Morisawa Chiaki has arrived on the scene! Fuhahahaha! ☆
+Bam! The wait is finally over — Morisawa Chiaki has arrived on the scene! Fuhahahaha! ☆
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -473,9 +474,9 @@ Ohh, I see. That’s a shame…
 
 I’ve been doing a lot of work with the TV station nearby, so I've picked up on a lot of tasty restaurants around here. I was hoping I could show you some, but oh well.
 
-Heheh, and honestly, I haven’t had the chance to talk to anyone about how my life's been going lately either.
+Heheh, and honestly, I haven’t had the chance to talk to anyone about how my life's been going lately, either.
 
-So I was hoping we could chat like family, but… Kanata isn’t around right now, since he’s usually working at a different place from me.
+So I was hoping we could chat like family, but… Kanata isn’t around right now, since he's been working at a different place from me lately.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -525,7 +526,7 @@ Y’see, in my head, you’re someone who’s always energetic and positive — 
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mhm, I actually complain a lot more than you'd think—I just keep it all in my head. I'm honestly far from perfect, and I still have a long way to go before I’m the ideal version of myself.
+Mhm, I actually complain a lot more than you'd think — I just keep it all in my head. I'm honestly far from perfect, and I still have a long way to go before I’m the ideal version of myself.
 
 I make mistakes almost every day, and I've spent plenty of nights lying awake haunted by regrets.
 
@@ -545,7 +546,7 @@ Nothing about me is enough, from my hard work to my capability—
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+…………
 {% endbubble %}
 
 {% bubble Tetora sad %}
@@ -573,7 +574,7 @@ Hm… Alright then.
 {% bubble Tetora curious %}
 <th>(Huh? I didn't expect him to let it go so easily.)</th>
 
-<th>(I was sure he'd try to jump in and help… That's what the usual Morisawa-senpai would have done—at least in the past.)</th>
+<th>(I was sure he'd try to jump in and help… That's what the usual Morisawa-senpai would have done — at least in the past.)</th>
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -589,7 +590,7 @@ Oh, it’s nothing. Anyway, unfortunately because of our status, we’re pulling
 
 We should go our separate ways before we make a ruckus in the streets.
 
-Right then, see you all later. I’m really glad we got to talk. You seem to be in something of a predicament—But don't worry, justice will *always* prevail! There’s always light at the end of the tunnel, mhm!
+Right then, see you all later. I’m really glad we got to talk. You seem to be in something of a predicament — But don't worry, justice will *always* prevail! There’s always light at the end of the tunnel, mhm!
 
 Alright, farewell!
 {% endbubble %}
@@ -606,28 +607,32 @@ I wonder… As always, it feels like you could understand him at first glance, b
 ………
 {% endbubble %}
 
+<div class="msr-narration">
+    <p>Meanwhile, somewhere else…</p>
+</div>
+
 {% bubble Chiaki %}
-………
+…………
 
 Ahh, hello? It’s me, Chiaki. Do you have a moment to spare?
 
-Mhm, sorry. I know you don’t have much time either, but— I have a favor I’d like to ask of you, Kanata.
+Mhm, sorry. I know you don’t have much time either, but — I have a favor I’d like to ask of you, Kanata.
 {% endbubble %}
 
 ## Chapter 4
 
-{% note location %}
-**Location:** Vocal Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Vocal Room</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/p2ch4.jpg %}
 
-{% note narration %}
-**Time:** Next day, at noon
-{% endnote %}
+<div class="msr-narration">
+    <p>Next day, at noon…</p>
+</div>
 
 {% bubble Hiiro %}
-Pardon the intrusion, Alkaloid has arrived!
+Pardon the intrusion, ALKALOID has arrived!
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -651,13 +656,13 @@ No, there's totally no *way* I could just "hang in there"!
 
 I was hoping us joining Tattsun-senpai for a ride could be a useful reference point for Motor Show, but… I should’ve *never* done that!
 
-For half a day, he ravaged the coastline with his reckless driving— ugh, just *thinking* about it makes my stomach churn!
+For half a day, he ravaged the coastline with his reckless driving — Ugh, just *thinking* about it makes my stomach churn!
 
 And the cherry on top is that I'm rooming with a pair of top idols, so I haven't been able to sleep a *wink* since I was assigned there… I'm a total wreck health-wise, can't I take the day off?
 {% endbubble %}
 
 {% bubble Hiiro %}
-That won't do. I've already let Buchou know that all of Alkaloid will be participating— but if you say you truly cannot, then I will consider your request.
+That won't do. I've already let Buchou know that all of ALKALOID will be participating — But if you say you truly cannot, then I will consider your request.
 
 Motor Show is rather different from the DreamFes we normally perform in, so I'm counting on you, Aira, and your vast knowledge of idols.
 {% endbubble %}
@@ -685,9 +690,9 @@ Mm? Where's Shinobu-kyun… Could it be? That all along, Shinobu-kyun was merely
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu… shinobu and the others will arrive a little later.
+fufu… [shinobu] and the others will arrive a little [later].
 
-they said they needed to explain some things to all the members in “n” first.
+they said they [needed] to [explain] some things to all the members in “n” first.
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -695,9 +700,9 @@ they said they needed to explain some things to all the members in “n” first
 {% endbubble %}
 
 {% bubble Kanata %}
-that’s right~ it sounds like they have some sort of strategy.
+that’s right~ it sounds like they have some sort of [strategy].
 
-i do not know much myself~ i only know what anzu-san told me.
+i do not [know] much myself~ i only [know] what anzu-san told me.
 
 “strategy”… fufu, that sounds so heroic~♪
 {% endbubble %}
@@ -721,9 +726,9 @@ Mm, second-in-command? Then, are you the right hand man of the leader of Ryuseit
 {% endbubble %}
 
 {% bubble Kanata %}
-oh, no, no. this might sound a little confusing, but i am the second-in-command for the “m” group.
+oh, no, no. this might sound a little confusing, but i am the [second-in-command] for the “m” group.
 
-the graduates of ryuseitai do not interfere with the “n” side.
+the [graduates] of ryuseitai do not [interfere] with the “n” side.
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -737,7 +742,7 @@ call me as you like~
 {% endbubble %}
 
 {% bubble Tetora %}
-Wassuuup~! Sorry we’re late, Hiiro-kun, Alkaloid!
+Wassuuup~! Sorry we’re late, Hiiro-kun, ALKALOID!
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -757,7 +762,7 @@ Yaaay, Shinkai-dono, you’re here~! ♪
 {% endbubble %}
 
 {% bubble Kanata %}
-hellooo, it’s me, shinkai-dono~♪ there, there. have you all been good kids?
+hellooo, it’s me, [shinkai-dono]~♪ there, there. have you all been [good boys]?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -767,9 +772,9 @@ Motor Show isn’t supposed to have you seniors involved, since it’s a job for
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, no need to be so distant. it doesn’t matter whether it’s “n” or “m” — we’re in this together.
+fufu, no need to be so distant. it does not matter whether it is “n” or “m” — we are in this together.
 
-or what i should be saying is— *all for one, one for all*.
+or what i should be saying is — *all for one, one for all*.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -779,9 +784,9 @@ Does that mean you’re planning on joining this job with us? Weren’t you busy
 {% endbubble %}
 
 {% bubble Kanata %}
-not at all. there's hardly a ripple in my life these days, compared to the stormy seas of last year.
+not at all. there is hardly a [ripple] in my life these days, compared to the [stormy seas] of [last year].
 
-i have managed to clear up my home problems at this point~
+i have managed to clear up my household [problems] at this point~
 
 also, chiaki asked me to take care of all of you.
 {% endbubble %}
@@ -791,25 +796,25 @@ Morisawa-senpai did…?
 {% endbubble %}
 
 {% bubble Kanata %}
-yes. it seems like chiaki has finally learned that he can rely on people, too…♪
+yes. it seems like chiaki has finally learned that he can [rely] on people, too…♪
 {% endbubble %}
 
 ## Chapter 5
 
 {% img /img/es/eventstory/motorshow/p2ch5.jpg %}
 
-{% note narration %}
-**Time:** Several minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>Several minutes later…</p>
+</div>
 
 {% bubble Kanata %}
 hm, hm~
 
-i see\~ so that was the choice you made, tetora? i expect nothing less from our proud heir of ryuseitai\~
+i see\~ so that was the [choice] tetora made? i expect nothing less from our [proud heir] of ryuseitai\~
 
-chiaki always hid his weaknesses, but you chose not to do that, yes?
+chiaki always hid his [weaknesses], but tetora chose not to do that, yes?
 
-that already makes you so much more praiseworthy than chiaki.
+[that] already makes him so much more [praiseworthy] than chiaki.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -817,7 +822,7 @@ It was an incredible sight to witness with my own eyes.
 
 Tetora-kun pleaded with the newcomers to gather for a meeting, and then confessed his true feelings to them.
 
-He admitted that he’s still nowhere near as capable as Morisawa-dono— that he’s still an inexperienced, pathetic, thick-headed idiot of a leader…
+He admitted that he’s still nowhere near as capable as Morisawa-dono — that he’s still an inexperienced, pathetic, thick-headed idiot of a leader…
 
 He apologized for disappointing them when they were so excited to be part of Ryuseitai—
 
@@ -829,7 +834,7 @@ The confession was just like him, straightforward and honest. He was in tears af
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, that is a hundred times cooler than the past chiaki, who’d always put up a strong front~♪
+yes, that is a hundred times cooler than the [past] chiaki, who would always put up a strong front~♪
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -837,23 +842,23 @@ yes, that is a hundred times cooler than the past chiaki, who’d always put up 
 {% endbubble %}
 
 {% bubble Kanata %}
-ehe, it’s how i show my love~♪
+ehe, it is how i show my love~♪
 
-but… i see. so tetora took off his mask and showed his true self to them, didn’t he?
+but… i see. so tetora took off his [mask] and showed his [true self] to them, didn’t he?
 
-that is not something just anyone can do — after all, it is terrifying to fail to meet someone’s expectations.
+that is not something just anyone can do — after all, it is [terrifying] to fail to meet someone’s [expectations].
 
-that’s why i believe you did a wonderful job, tetora. you know what was most important to do…
+that is why i believe tetora did a [wonderful] job. he knows what is most important to do…
 
-not only that… you must have spoken to shinobu and midori about it until you finally understood it, yes?
+not only that… he must have spoken to you and midori about it to fully [understand] what he should do, yes?
 
-while some parts of you may be exactly like chiaki, it’s impossible for a human being to be fully identical to another.
+while some parts of him may be [exactly] like chiaki, it is impossible for a human being to be fully [identical] to another.
 
-of course, that’s common sense but… it’s easy to forget that sometimes, isn’t it?
+of course, that is common sense but… it is easy to forget that sometimes, isn’t it?
 
-but our differences are what make us special, and that’s one of ryuseitai's strengths.
+but our differences are what make us special, and that is one of ryuseitai’s strengths.
 
-we’re so much stronger than we would be alone *because* of all these different colors coexisting with each other.
+we are so much [stronger] than we would be [alone] *because* of all these different [colors] coexisting with [each other].
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -869,9 +874,9 @@ Mayoi-dono, your Chief is speaking about crucial matters at the moment, so do ke
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. a strange person has taken a liking to you, i see.
+fufu. a [strange person] has taken a liking to you, i see.
 
-mm~… the way he smells takes me back…
+mm~… the way he [smells] takes me back…
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -879,15 +884,15 @@ W-What? Ahhh, I'm sorry to have bothered you anyyy, please just pretend I'm noth
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. shinobu took after chiaki when it comes to being liked by a strange person, i see.
+fufu. shinobu took after chiaki when it comes to being liked by a [strange person], i see.
 
-each one of you is taking after us in your own way — that makes me very, very happy.
+each one of you is taking after [us] in your own way — that makes me very, very [happy].
 
-i’m so glad i became human. it’s so warm and cozy…
+i am so glad i became [human]. it’s so warm and cozy…
 
-but that aside, how did everyone react to tetora’s confession? did they leave after they thought of him as “pathetic”…?
+but that aside, how did everyone [react] to tetora’s [confession]? did they leave after they thought of him as “pathetic”…?
 
-chiaki always seemed to be scared of that happening to him.
+chiaki always seemed to be terrified of [that] happening to him.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -897,7 +902,7 @@ It’s too early to know how exactly they felt about it.
 {% endbubble %}
 
 {% bubble Kanata %}
-ahh… i’m guessing this discussion is why you were all late?
+ahh… i am guessing this [discussion] is why you were all [late]?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -907,11 +912,11 @@ Of course, it’s quite a trivial amount of workload compared to your own and Mo
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu. it’ll be alright, because we’re all running down the same path.
+fufu. it will be alright, because we are all running down the [same path].
 
-even if there are times we can’t see each other’s faces, our hearts are still in the same place.
+even if there are times we cannot see each other’s [faces], our hearts are always [one] and the [same].
 
-it’ll aaalways be like that, forever.
+we will aaalways be together, forever.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -923,9 +928,9 @@ Shinkai-senpai\~? Shinobu-kuuun? We’re gonna finish our warm-up soon, so get y
 {% endbubble %}
 
 {% bubble Kanata %}
-okaaay, taichou~♪
+okaaay, [taichou]~♪
 
-ah, but since i only joined partway through… the details are a bit fuzzy in my mind. what sort of job is motor show going to be?
+ah, but since i only joined [partway through]… the details are a bit fuzzy in my mind. what sort of [job] is motor show going to be?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -945,7 +950,7 @@ But honestly, I feel like I got the timing all wrong~ Maybe I should’ve done i
 
 I’m super awkward with these kinds of things, I can’t bottle up my feelings for too long, so I end up needing to spill them out as soon as possible… It's one of my bad flaws.
 
-Anyways, apparently Alkaloid drove around on their day off and came up with some ideas.
+Anyways, apparently ALKALOID drove around on their day off and came up with some ideas.
 
 And we have some ideas to share ourselves, so we can start by talking about ‘em first.
 

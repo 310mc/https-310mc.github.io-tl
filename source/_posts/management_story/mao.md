@@ -54,9 +54,9 @@ description: "[ES!] Translation of Mao's Management Stories, featuring Midori."
 
 ### With Midori
 
-{% note location %}
-**Location:** Shopping District
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Shopping District</span></p>
+</div>
 
 {% bubble Mao %}
 Oh, Takamine? Nice seeing you here! Are you here to do shopping, too?

@@ -130,7 +130,7 @@ Takamine-senpai, thank you for your hard work today!
 {% bubble Midori %}
 —W-Woah?
 
-You surprised me… Umm, you’re Shiratori-kun from Alkaloid, right? Uh, what’re you doing here…?
+You surprised me… Umm, you’re Shiratori-kun from ALKALOID, right? Uh, what’re you doing here…?
 {% endbubble %}
 
 {% bubble Aira %}

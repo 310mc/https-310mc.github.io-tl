@@ -59,15 +59,15 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Garden Terrace
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Garden Terrace</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/5ch1.jpg %}
 
-{% note narration %}
-**Time:** Next day
-{% endnote %}
+<div class="msr-narration">
+    <p>Next day…</p>
+</div>
 
 {% bubble Tetora v2 %}
 Aight, show us the outfits you’ve designed, Shinobu-kun!
@@ -167,9 +167,9 @@ Hmm… But now that I’ve adjusted the clothes, the shoes and such need to matc
 Looks awesome! Let’s fix up the decorations on the outfit itself, too!
 {% endbubble %}
 
-{% note narration %}
-Time passes
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Shinobu v2 %}
 —Whew! This should do it.
@@ -187,9 +187,9 @@ Good afternoon. Ahh, you’re asking if this is an outfit design? Yeah, it is.
 Huh? Um, the reason we’re working on it is ‘cause—
 {% endbubble %}
 
-{% note narration %}
-Time passes
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Shinobu v2 %}
 —and so, I’d like to combine ninjas with the current age, in order to promote the Ninja Association.
@@ -253,15 +253,15 @@ Really\~!? I’ll think up lots and lots of ideas, then\~!
 **Content Warning:** Brief mentions of stalking.
 {% endnote %}
 
-{% note location %}
-**Location:** Historical Village
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Historical Village</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/5ch2.jpg %}
 
-{% note narration %}
-**Time:** Day of the performance
-{% endnote %}
+<div class="msr-narration">
+    <p>Day of the performance…</p>
+</div>
 
 {% bubble Chiaki v2 %}
 Heeey, Anzu!
@@ -317,9 +317,9 @@ Remember when we struggled to get him out of there after we were done with Scrol
 oh, i remember~ there are so many of midori’s beloved mascots in there, after all.
 {% endbubble %}
 
-{% note narration %}
-Screen fades to another place in the area
-{% endnote %}
+<div class="msr-narration">
+    <p>Screen fades to another place in the area…</p>
+</div>
 
 {% bubble Shinobu v2 %}
 Yaaay! ♪ This village really is so much fun to be in~!
@@ -425,15 +425,15 @@ I’ll be alright! That aside, we should hurry over to the appointed meeting pla
 
 ## Chapter 3
 
-{% note location %}
-**Location:** Ninja Clan Stage
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Ninja Clan Stage</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/5ch3.jpg %}
 
-{% note narration %}
-**Time:** Before the performance
-{% endnote %}
+<div class="msr-narration">
+    <p>Before the performance…</p>
+</div>
 
 {% bubble Tetora v2 %}
 It’s ‘bout time for the performance. I can hear a lotta noise from the audience! Is it alright if I take a peek or two~?
@@ -557,9 +557,9 @@ yes, that’s the spirit~♪
 Aaalrighty then! It’s time to commence our “Ninja Association Promotion” mission! Let’s go!
 {% endbubble %}
 
-{% note narration %}
-Scene change to the front stage
-{% endnote %}
+<div class="msr-narration">
+    <p>Scene change to the front stage…</p>
+</div>
 
 {% bubble Shinobu v2 %}
 “♪\~♪\~♪”

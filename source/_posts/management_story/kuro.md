@@ -54,9 +54,9 @@ description: "[ES!] Translation of Kuro's Management Stories, featuring Chiaki."
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Downtown
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Downtown</span></p>
+</div>
 
 {% bubble Kuro %}
 (…Right, I bought everything I need; time to head back to school.)

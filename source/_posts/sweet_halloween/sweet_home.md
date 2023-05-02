@@ -1053,7 +1053,7 @@ Like, hold on, Hajime… I'm still thinking… Don't rush me. Don't pull me by t
 
 Hajime’s really cute. He’s the cutest being in the entire galaxy. But it's just so easy to see him as some plain, shy kid that no one noticed how cute he really is until now.
 
-In Yumenosaki, his talent finally bloomed. He found a way to make the absolute best use of his qualities…
+And in Yumenosaki, his talent finally bloomed. He found a way to make the absolute best use of his qualities…
 
 That’s where I feel like the two of us are different.
 {% endbubble %}
@@ -1061,11 +1061,11 @@ That’s where I feel like the two of us are different.
 {% bubble Tomoya sad %}
 I don't really know how to say it, but like, it feels like we're a little off. Like something's just not right.
 
-We’ve been walking this path together, and in fact, I’ve always tried to lead him on…
+We’ve been walking this path together, and I’ve always tried to lead him wherever we go…
 
 But then we came to Yumenosaki, and now I feel like he’s gonna let go of me and leave me behind all of a sudden.
 
-It scares me. He’s a bit of a dummy, and I'm just someone who's normal in every way… yet despite that, I took him by the hand…
+It scares me. He may be a bit of a dummy, but I'm just someone who's normal in every way… yet despite that, I still took him by the hand…
 
 And then I got all cocky about how I was guiding him around, and let it boost my ego.
 

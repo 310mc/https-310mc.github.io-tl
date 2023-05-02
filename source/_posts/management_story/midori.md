@@ -64,9 +64,9 @@ description: "[ES!] Translation of Midori's Management Stories, featuring Hajime
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Entrance
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Entrance</span></p>
+</div>
 
 {% bubble Midori %}
 *Sigh*… I thought I’d have today off since there are no unit activities, but now I found out that there’s club practice instead…
@@ -118,9 +118,9 @@ Ahh, I can’t take it anymore… Everything is such a damn pain… Can someone 
 **Content Warning:** Casual suicide and drowning mention.
 {% endnote %}
 
-{% note location %}
-**Location:** Fountain
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Fountain</span></p>
+</div>
 
 {% bubble Midori %}
 I’m so depressed… I wanna die… I’m depressed enough to try and drown myself in this fountain…
@@ -170,9 +170,9 @@ Thank you, Shinkai-senpai! I’m feeling so much better now!
 
 ### With Hajime
 
-{% note location %}
-**Location:** Shopping District
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Shopping District</span></p>
+</div>
 
 {% bubble Midori %}
 *Sigh*… Welcome…
@@ -214,9 +214,9 @@ Hehe… Please come again to Takamine’s Greengrocer…♪
 
 ### With Tetora
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
 
 {% bubble Midori %}
 *Sigh*… Playing basketball is so depressing, I wanna die…
@@ -266,9 +266,9 @@ Thank you. I get to take it easy now, so… you’re really helping me out…♪
 
 ### With Shinobu
 
-{% note location %}
-**Location:** Library
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Library</span></p>
+</div>
 
 {% bubble Midori %}
 <th>(Phew… It's so relaxing in the library…)</th>
@@ -324,9 +324,9 @@ I'll show you pictures of my favorite mascots, too. I know for a fact that you'l
 
 ### With Yuta
 
-{% note location %}
-**Location:** Hallway
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
 
 {% bubble Midori %}
 Hmhmhmmm~…♪

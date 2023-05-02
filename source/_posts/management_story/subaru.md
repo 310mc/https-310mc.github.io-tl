@@ -58,9 +58,9 @@ description: "[ES!] Translation of Subaru's Management Stories, featuring Chiaki
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Gym
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Gym</span></p>
+</div>
 
 {% bubble Subaru %}
 Yoohoo, it's mee~! Hmm? I'm the only one here, huh? Oh well, guess I'll practice some dribbling on my own!
@@ -112,9 +112,9 @@ Uurghh… It's seriously sooo annoying to deal with him when he's energetic… Y
 
 ### With Mao
 
-{% note location %}
-**Location:** Fountain
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Fountain</span></p>
+</div>
 
 {% bubble Subaru %}
 Zzz… zzz…♪
@@ -174,16 +174,16 @@ C'mon, Sarii\~, let's goooo! Get your legs moving! The ball is waiting for us\~!
 
 ### With Midori
 
-{% note location %}
-**Location:** Staff Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Staff Office</span></p>
+</div>
 
 {% bubble Subaru %}
 Excuse meee\~! Sagami-chan, you here\~?
 {% endbubble %}
 
 {% bubble Midori %}
-………
+…………
 {% endbubble %}
 
 {% bubble Subaru %}

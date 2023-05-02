@@ -3,7 +3,7 @@ title: "[ES!!] Ushimairi, Part Two (On Hold)"
 date: 2021-1-14 9:00:00
 categories:
 - [Enstars, ES!!]
-- [Enstars, Alkaloid]
+- [Enstars, ALKALOID]
 - [Enstars, Yuzuru]
 - [Enstars, Chiaki]
 - [Enstars, Tatsumi]
@@ -17,7 +17,7 @@ tags:
 - Scout Story
 - Kino Seitaro
 - Story Index
-description: "[ES!!] Alkaloid moves into the new dorm without any problems, but a wooden carving of an ox seems to have been left behind in their old dorm. Yuzuru attempts to look for its owner to no avail…"
+description: "[ES!!] ALKALOID moves into the new dorm without any problems, but a wooden carving of an ox seems to have been left behind in their old dorm. Yuzuru attempts to look for its owner to no avail…"
 permalink: ushimairi_p2/
 ---
 
@@ -36,7 +36,7 @@ This translation is **on hold**. Due to the official version having been release
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Alkaloid safely manages to clear out their old dormitory and move in with their new roommates with the help of some idols. Among the helpers is Yuzuru, who spots a wooden carving of an ox that seems to have been left behind. He attempts to look for its owner to no avail…
+                    ALKALOID safely manages to clear out their old dormitory and move in with their new roommates with the help of some idols. Among the helpers is Yuzuru, who spots a wooden carving of an ox that seems to have been left behind. He attempts to look for its owner to no avail…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -84,7 +84,7 @@ This translation is **on hold**. Due to the official version having been release
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://holistar.dreamwidth.org/">holi</a> (Alkaloid members), <a href="https://twitter.com/hiiroaira">Bonni</a> (<em>fine</em> members), <a href="/about">310mc</a> (Chiaki)
+                          <a href="https://holistar.dreamwidth.org/">holi</a> (ALKALOID members), <a href="https://twitter.com/hiiroaira">Bonni</a> (<em>fine</em> members), <a href="/about">310mc</a> (Chiaki)
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -127,7 +127,7 @@ This translation is **on hold**. Due to the official version having been release
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Alkaloid safely manages to clear out their old dormitory and move in with their new roommates with the help of some idols. Among the helpers is Yuzuru, who spots a wooden carving of an ox that seems to have been left behind. He attempts to look for its owner to no avail…
+                    ALKALOID safely manages to clear out their old dormitory and move in with their new roommates with the help of some idols. Among the helpers is Yuzuru, who spots a wooden carving of an ox that seems to have been left behind. He attempts to look for its owner to no avail…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -175,7 +175,7 @@ This translation is **on hold**. Due to the official version having been release
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://holistar.dreamwidth.org/">holi</a> (Alkaloid members), <a href="https://twitter.com/hiiroaira">Bonni</a> (<em>fine</em> members), <a href="/about">310mc</a> (Chiaki)
+                          <a href="https://holistar.dreamwidth.org/">holi</a> (ALKALOID members), <a href="https://twitter.com/hiiroaira">Bonni</a> (<em>fine</em> members), <a href="/about">310mc</a> (Chiaki)
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -263,9 +263,9 @@ This translation is **on hold**. Due to the official version having been release
 
 ## The Cursed Ox Statue 1
 
-{% note location %}
-**Location:** StarPro Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> StarPro Office</span></p>
+</div>
 
 {% img /img/es/scoutstory/ushimairip2/1.jpg %}
 
@@ -295,15 +295,15 @@ Since I can’t seem to find a way to put it shortly, I suppose I will tell you 
 This is how the state of affairs at the Starmony Dormitory came to be.
 {% endbubble %}
 
-{% note location %}
-**Location:** Old Starmony Dormitory
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Old Starmony Dormitory</span></p>
+</div>
 
 {% img/img/es/scoutstory/ushimairip2/1_1.jpg %}
 
-{% note narration %}
-**Time:** Immediately following the MDM, in the old Starmony dorms, ALKALOID’s room
-{% endnote %}
+<div class="msr-narration">
+    <p>Immediately following the MDM, in the old Starmony dorms, ALKALOID’s room…</p>
+</div>
 
 {% bubble Yuzuru %}
 Good morning, esteemed members of ALKALOID. Have you finished your preparations in order to move out?
@@ -469,9 +469,9 @@ Thank you for taking time out of your busy schedule to help us. The lord will su
 
 {% img /img/es/scoutstory/ushimairip2/2.jpg %}
 
-{% note narration %}
-**Time:** A few hours later
-{% endnote %}
+<div class="msr-narration">
+    <p>A few hours later…</p>
+</div>
 
 {% bubble Aira %}
 Phew, all done~! I finally got everything packed!
@@ -553,9 +553,9 @@ Then I shall also say thanks! And now we press onward― to Starmony Dormitory!
 We’ve taken our first step as idols, and I can only hope this new building will treat us well.
 {% endbubble %}
 
-{% note location %}
-**Location:** Starmony Dorm Common Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+</div>
 
 {% img /img/es/scoutstory/ushimairip2/2_1.jpg %}
 
@@ -657,15 +657,15 @@ O ox statue with nowhere to go, may you find your rightful owner in the end― A
 
 ## The Cursed Ox Statue 3
 
-{% note location %}
-**Location:** Starmony Dorm Room (Tori, Yuzuru)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Room (Tori, Yuzuru)</span></p>
+</div>
 
 {% img /img/es/scoutstory/ushimairip2/3.jpg %}
 
-{% note narration %}
-**Time:** The next morning
-{% endnote %}
+<div class="msr-narration">
+    <p>The next morning…</p>
+</div>
 
 {% bubble Yuzuru %}
 <th>(Fufu. Reading in the morning turned out to be surprisingly enjoyable.)</th>
@@ -745,9 +745,9 @@ Furthermore, you postponed washing your uniform to the point that there was no c
 Hmph. Well, I don’t *want* to go to school looking all shabby…
 {% endbubble %}
 
-{% note narration %}
-Time passes
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Tori %}
 …There. I’m done changing. This is fine, right?
@@ -816,7 +816,7 @@ Was there any particular motive to put the statue here, I wonder…?
 {% endbubble %}
 
 {% note narration %}
-This translation is **on hold**.
+This translation is **on hold**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
 {% endnote %}
 
 <div toc>

@@ -4,12 +4,12 @@ date: 2020-05-08 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
-- [Enstars, Alkaloid]
+- [Enstars, ALKALOID]
 tags:
 - Event Story
 - Story Index
 - Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 permalink: motor_show/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -23,7 +23,7 @@ permalink: motor_show/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…
+                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -116,7 +116,7 @@ permalink: motor_show/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…
+                    As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…
                 </div>
                 <div class="info">
                     <div class="info-item season">

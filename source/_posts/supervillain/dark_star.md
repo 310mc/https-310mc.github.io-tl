@@ -1103,7 +1103,7 @@ So tell me, which side is the one with the dangerous ideologies? Who’s the rea
 {% endbubble %}
 
 {% bubble Shinobu sad %}
-………
+…………
 {% endbubble %}
 
 ## Chapter 8

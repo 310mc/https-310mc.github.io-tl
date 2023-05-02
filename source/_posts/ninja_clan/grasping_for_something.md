@@ -59,9 +59,9 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Classroom 2-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 2-A</span></p>
+</div>
 
 {% bubble Tetora serious %}
 Uumyu… I had no idea something so serious was happening while we were just sitting here, messing around playing a game.
@@ -179,9 +179,9 @@ Anyway, the details don’t matter! The point is, we’ll make it through with t
 Tetora-kun, Midori-kun… Thank you so much…!
 {% endbubble %}
 
-{% note narration %}
-Time passes
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Midori thinking %}
 Ermm… So according to Isara-senpai, he’ll work it out for you somehow as long as you get at least one club member?
@@ -405,15 +405,15 @@ Yep, not to mention, heroes are supposedly the type to come rushing to the rescu
 
 ## Chapter 3
 
-{% note location %}
-**Location:** Meeting Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Meeting Room</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/3ch3.jpg %}
 
-{% note narration %}
-**Time:** Next day
-{% endnote %}
+<div class="msr-narration">
+    <p>Next day…</p>
+</div>
 
 {% bubble Tetora curious %}
 Shinkai-senpai and Morisawa-senpai are late… Isn’t it about time for our meeting?
@@ -471,9 +471,9 @@ Ehh~? Nah, I’m sure it’s fine, they got the gist of it. Hopefully…
 You lost your confidence by the end, Midori-kun…
 {% endbubble %}
 
-{% note narration %}
-Time passes
-{% endnote %}
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
 
 {% bubble Tetora serious %}
 …Fifteen minutes have passed by now, and they’re still not here.

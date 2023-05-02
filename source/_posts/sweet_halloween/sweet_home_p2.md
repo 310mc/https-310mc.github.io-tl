@@ -876,7 +876,7 @@ But eh, I know I’m just being a typical teenager by acting like this.
 {% endbubble %}
 
 {% bubble Hajime %}
-Heheh, we *are* high school students, after all. We can’t keep wearing the clothes our parents choose for us.
+Heheh, we *are* high school students, after all. We can’t keep wearing the clothes our parents chose for us.
 
 The expert we take reference from is completely fine with crossdressing, but…
 

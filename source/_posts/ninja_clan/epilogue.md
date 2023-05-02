@@ -55,15 +55,15 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 **Content Warning:** Mentions of stalking
 {% endnote %}
 
-{% note location %}
-**Location:** Empty Classroom
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Empty Classroom</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/ep.jpg %}
 
-{% note narration %}
-**Time:** A week later
-{% endnote %}
+<div class="msr-narration">
+    <p>A week later…</p>
+</div>
 
 {% bubble Shinobu sad %}
 ………
@@ -116,11 +116,11 @@ Yes, who is it~? Is it you, Isara-dono?
 
 <th>(—Hm? I could’ve sworn I’ve seen him somewhere, though… Very recently, even…)</th>
 
-Ah! Now I remember! You’re from Alkaloid!
+Ah! Now I remember! You’re from ALKALOID!
 {% endbubble %}
 
 {% bubble Mayoi %}
-Y-Y-Yes! M-my d-deepest apologies. Yes… I’m Ayase Mayoi from Alkaloid…
+Y-Y-Yes! M-my d-deepest apologies. Yes… I’m Ayase Mayoi from ALKALOID…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

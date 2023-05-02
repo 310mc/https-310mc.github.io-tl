@@ -77,7 +77,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 ## Chapter 1
 
 {% note narration %}
-In Japanese, the chapter title “Living Sunshine” is 晴れ男 *hareotoko*, lit. “man who causes the weather to become sunny wherever he goes​.” Another way to translate it would be “Sunny Man”, but “Living Sunshine” was chosen for poetry's sake.
+**Chapter Translation Note:** In Japanese, the chapter title “Living Sunshine” is 晴れ男 *hareotoko*, lit. “man who causes the weather to become sunny wherever he goes​.” Another way to translate it would be “Sunny Man”, but “Living Sunshine” was chosen for poetry's sake.
 {% endnote %}
 
 <div class="msr-location">

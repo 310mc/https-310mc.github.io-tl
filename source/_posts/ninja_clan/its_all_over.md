@@ -57,15 +57,15 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 ## Chapter 1
 
-{% note location %}
-**Location:** Classroom 2-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 2-A</span></p>
+</div>
 
 {% img /img/es/eventstory/ninjaclan/2ch1.jpg %}
 
-{% note narration %}
-**Time:** Around the same time, the two are playing a mobile game together
-{% endnote %}
+<div class="msr-narration">
+    <p>Around the same time, the two are playing a mobile game together…</p>
+</div>
 
 {% bubble Midori smile %}
 Uwaah, some sort of bird came over. It’s flying over my head, so cuuute…♪
@@ -191,9 +191,9 @@ Hmm… How about we check how he’s doing if he doesn’t come back anytime soo
 Yeah, let’s do that.
 {% endbubble %}
 
-{% note narration %}
-Door opens
-{% endnote %}
+<div class="msr-narration">
+    <p>(Door opens)</p>
+</div>
 
 {% bubble Tetora v2 %}
 Oh, there he is! He’s back.
@@ -284,9 +284,9 @@ So what happened exactly?
 The truth is—
 {% endbubble %}
 
-{% note location %}
-**Location:** Student Council Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Student Council Office</span></p>
+</div>
 
 {% bubble Mao worried %}
 G-Get a hold of yourself, Sengokuuu!!! Lemme lift ya back up—Whew, you okay there? Can you stand?

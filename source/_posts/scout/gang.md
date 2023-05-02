@@ -245,6 +245,7 @@ permalink: gang/
 <a href="#Midnight-Gangsters-1">Ch 1</a> - <a href="#Midnight-Gangsters-2">Ch 2</a> - <a href="#Midnight-Gangsters-3">Ch 3</a> - <a href="#Midnight-Gangsters-4">Ch 4</a> - <a href="#Midnight-Gangsters-5">Ch 5</a> - <a href="#Midnight-Gangsters-6">Ch 6</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Midnight Gangsters 1
+
 {% note cw %}
 **Content Warning:** This story contains multiple references to war.
 {% endnote %}

@@ -56,9 +56,9 @@ description: "[ES!] Translation of Madara's Management Stories, featuring Mitsur
 
 ### With Mitsuru
 
-{% note location %}
-**Location:** Near the Staff Office
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the Staff Office</span></p>
+</div>
 
 {% bubble Madara %}
 Ohhh? Mitsuru-saaaan! What’s up, hm? Do you need to go to the staff office?
@@ -104,9 +104,9 @@ I’ll go buy you your favorite food! Eat it and cheer up! Smile! Fortune comes 
 
 ### With Chiaki
 
-{% note location %}
-**Location:** Classroom 3-A
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 3-A</span></p>
+</div>
 
 {% bubble Madara %}
 Oh, if it isn't Chiaki-san! Good mooooorniiiiiing…☆

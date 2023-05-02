@@ -12,7 +12,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask Alkaloid for help…"
+description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -73,9 +73,9 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 **Content Warning:** Stalking depiction and casual suicide mention.
 {% endnote %}
 
-{% note location %}
-**Location:** Dojo
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Dojo</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/hiiroorigcg.jpg %}
 
@@ -106,7 +106,7 @@ Ohh, Taishou also said the same thing to me. Ah— When I say Taishou, I don’t
 {% bubble Hiiro %}
 Mhm. You mean Kiryu Kuro-senpai from Akatsuki, correct? He was a member of the club until he graduated last year.
 
-I haven’t interacted with him much so I don't know him very well— actually, no, I *have* become more knowledgeable about him through you, since you often speak about him.
+I haven’t interacted with him much so I don't know him very well — actually, no, I *have* become more knowledgeable about him through you, since you often speak about him.
 
 You must really respect this “Taishou” of yours, Buchou.
 
@@ -138,7 +138,7 @@ The more you talk about it, the fishier it sounds…
 {% endbubble %}
 
 {% bubble Hiiro %}
-Do you think so…? It seems as though my combat style—and anything else that was normal to me in my hometown—doesn’t exist in the city…
+Do you think so…? It seems as though my combat style — and anything else that was normal to me in my hometown — doesn’t exist in the city…
 
 In fact, I’m constantly bewildered by many things I’ve never once seen before in my hometown.
 
@@ -174,7 +174,7 @@ Eeek!?
 {% endbubble %}
 
 {% bubble Mayoi %}
-………
+……………
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -226,7 +226,7 @@ But I had something to inform Tetora-kun about as soon as possible, and so I rus
 {% bubble Shinobu %}
 I requested Mayoi-dono to stay behind at school, but…
 
-I see that you followed after me in the end! I never noticed I was being tailed— you are quite the ninja…☆
+I see that you followed after me in the end! I never noticed I was being tailed — you are quite the ninja…☆
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -238,7 +238,7 @@ Heheh, it looks like you’re enjoying your club activities, Mayoi-senpai. I am 
 
 This just shows that we were able to overcome our hardships and finally enjoy our youth to its maximum extent.
 
-That makes me very happy… Our victory gave us this outcome—this future. We should be proud of that, together~♪
+That makes me very happy… Our victory gave us this outcome — this future. We should be proud of that, together~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/motorshow/mayoiorigcg.jpg %}
@@ -250,7 +250,7 @@ Ahh, I wish to die! I’m so ashamed of myself!
 {% endbubble %}
 
 {% bubble Shinobu %}
-Nihihi~ Alkaloid gets along well with each other too, huh?
+Nihihi~ ALKALOID gets along well with each other too, huh?
 
 But Ryuseitai refuses to lose to you! For we are *all for one, one for all*!
 
@@ -265,9 +265,9 @@ And its name is: “Motor Show”! It’s likely the largest job we’ve gotten 
 
 {% img /img/es/eventstory/motorshow/p1ch2.jpg %}
 
-{% note narration %}
-**Time:** A few minutes later
-{% endnote %}
+<div class="msr-narration">
+    <p>A few minutes later…</p>
+</div>
 
 {% bubble Hiiro %}
 Hm, so what exactly is this “Motor Show”…?
@@ -290,13 +290,13 @@ It’s useful to have stuff like this around so we can relax in the room. Plus, 
 {% endbubble %}
 
 {% bubble Shinobu %}
-Although you have strict rules about etiquette and respect, such as needing to bow before entering the dojo, you’re much more lax around those types of things— It gives a sense of adaptability.
+Although you have strict rules about etiquette and respect, such as needing to bow before entering the dojo, you’re much more lax around those types of things — It gives a sense of adaptability.
 
-Though, it’s because we’re a flexible unit and accept everything, that we are Ryuseitai.
+Though, it is because we’re a flexible unit and accept everything, that we are Ryuseitai.
 
 Regardless, we have nothing to hide about this topic, and the truth is, we’re a bit short on people for this job, so we’re also searching for a unit that can cooperate with us.
 
-Whether you’re interested in this job or not, I would still like you to hear us out if you have the time to spare, Alkaloid.
+Whether you’re interested in this job or not, I would still like you to hear us out if you have the time to spare, ALKALOID.
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -354,7 +354,7 @@ And I think Kamen Rider has practically done every genre by now, so I think we s
 {% endbubble %}
 
 {% bubble Shinobu %}
-No, no, hold on— The event’s purpose is to sell cars, so I don’t think we should turn them into monsters, you know?
+No, no, hold on — The event’s purpose is to sell cars, so I don’t think we should turn them into monsters, you know?
 
 But it’s true that it’s easier to think about it from that angle, so it’s best to mention any idea you come up with, or any existing work.
 {% endbubble %}
@@ -366,11 +366,11 @@ Oh, that reminds me; there was a monster-like robot called Crazygon in Ultraman,
 {% endbubble %}
 
 {% bubble Hiiro %}
-………
+…………
 {% endbubble %}
 
 {% bubble Mayoi %}
-………
+…………
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -392,7 +392,7 @@ Ahaha, we were like that in the past, as well.
 {% bubble Tetora %}
 Uumyu… I didn’t notice how nerdy I was getting ‘til just recently, when my parents pointed out that I’m becoming more like a nerd and got worried for me.
 
-It’s all Taichou’s—<em>Morisawa</em>-senpai’s fault.
+It’s all Taichou’s— <em>Morisawa</em>-senpai’s fault.
 {% endbubble %}
 
 {% bubble Mayoi %}
@@ -410,7 +410,7 @@ In that sense, I feel like you’re a mystery, Tetora-kun.
 
 I heard that you got into karate because you admired Kiryu-dono, rather than out of love for the sports.
 
-Do you have anything that you can say is just as important as your very own life? Or maybe something that exceeds that, even?
+Do you have anything that you can say is just as important as your very own life? Or perhaps something that exceeds that, even?
 
 Ah, actually, perhaps it’s rarer for people to already have something like that at such a young age…?
 {% endbubble %}
@@ -422,7 +422,7 @@ Something just as important as my own life… Huh, nothing comes to mind, actual
 {% endbubble %}
 
 {% bubble Mayoi %}
-Chiiief~ You’re dear to <em>me</em>— I’m engrossed in you! You’re the apple of my eye…☆
+Chiiief~ You’re dear to <em>me</em> — I’m engrossed in you! You’re the apple of my eye…☆
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -508,7 +508,7 @@ If our schedules align, I would like to observe you from up close while helping 
 {% endbubble %}
 
 {% bubble Tetora %}
-Ossu! Aight then, as a fellow idol unit from StarPro, we'd love to work together with you guys for this job if you’re up for it, Alkaloid!
+Ossu! Aight then, as a fellow idol unit from StarPro, we'd love to work together with you guys for this job if you’re up for it, ALKALOID!
 
 We’ll show ya the ropes as your idol seniors~♪
 
@@ -524,13 +524,13 @@ Please cheer up! You’re so down in the dumps that even Midori-kun is worried i
 {% bubble Tetora %}
 Aghhh, I might be on death’s doorstep then… Even though my enthusiasm is supposed to be my strong point… This is not good.
 
-Aaalright! I’ll do push ups to pump myself up! One, two, three, four— Fake it ‘til you make it!
+Aaalright! I’ll do push ups to pump myself up! One, two, three, four — Fake it ‘til you make it!
 {% endbubble %}
 
 {% bubble Mayoi %}
-Um… This conversation has been a bit tangential, so I’m afraid I’m still a bit confused—if I am recalling correctly, Ryuseitai-N has quite a few members, doesn’t it?
+Um… This conversation has been a bit tangential, so I’m afraid I’m still a bit confused — If I am recalling correctly, Ryuseitai-N has quite a lot of members, doesn’t it?
 
-Won’t you be able to manage this job yourselves, rather than going through the trouble of asking for Alkaloid’s aid?
+Won’t you be able to manage this job yourselves, rather than going through the trouble of asking for ALKALOID’s aid?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -565,15 +565,15 @@ But… He’s been busy as hell, so it might be hard to do that…
 
 ## Chapter 4
 
-{% note location %}
-**Location:** Floating Garden
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Floating Garden</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/p1ch4.jpg %}
 
-{% note narration %}
-**Time:** Next day, early morning
-{% endnote %}
+<div class="msr-narration">
+    <p>Next day, early morning…</p>
+</div>
 
 {% bubble Aira %}
 Ooh, a big job? Let’s do it! I’m just *bursting* with motivation right now!
@@ -596,7 +596,7 @@ I think something like that would probably be left to professionals… It seems 
 {% bubble Hiiro %}
 Indeed. The focus will be on Ryuseitai-N; we will probably just be providing backup for them.
 
-Of course, there is still a possibility that Alkaloid’s role within the event will change a bit the next time we discuss it, though.
+Of course, there is still a possibility that ALKALOID’s role within the event will change a bit the next time we discuss it, though.
 {% endbubble %}
 
 {% bubble Aira %}
@@ -612,7 +612,7 @@ You seem to be quite burdened by various complexes… it makes me worry when you
 {% bubble Aira %}
 Ahaha… I mean, I wasn’t popular at all as an idol, so…
 
-But as part of Alkaloid, I’ve been able to play an active role in all sorts of stuff, like MDM.
+But as part of ALKALOID, I’ve been able to play an active role in all sorts of stuff, like MDM.
 
 It feels like I can finally do the dazzling idol activities I’ve always dreamed of… I’m *super* pumped up! ♪
 
@@ -622,7 +622,7 @@ You did sooooo well, Hiro-kun! It’s amazing how you got us such a nice job! Th
 {% endbubble %}
 
 {% bubble Hiiro %}
-Fufu. It was really Mayoi-senpai’s “Chief”—or rather, the individual known as Sengoku Shinobu—who brought the job to us.
+Fufu. It was really Mayoi-senpai’s “Chief” — or rather, the individual known as Sengoku Shinobu — who brought the job to us.
 {% endbubble %}
 
 {% bubble Aira %}
@@ -735,20 +735,20 @@ Indeed. I have solid faith that we will reach that dazzling future waiting befor
 
 ## Chapter 5
 
-{% note location %}
-**Location:** Staff Cafeteria
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Staff Cafeteria</span></p>
+</div>
 
 {% img /img/es/eventstory/motorshow/p1ch5.jpg %}
 
-{% note narration %}
-**Time:** Same day, in the evening
-{% endnote %}
+<div class="msr-narration">
+    <p>Same day, in the evening…</p>
+</div>
 
 {% bubble Shinobu %}
-—With that said, fortunately, it appears that Alkaloid is considering participating in Motor Show.
+—With that said, fortunately, it appears that ALKALOID is considering participating in Motor Show.
 
-I’m so grateful~ From what Mayoi-dono told me, they’re not as tired as they thought they’d be from their workload during the MDM.
+I’m so grateful~ From what Mayoi-dono told me, they aren’t as tired as they thought they’d be from their workload during the MDM.
 
 But they do have to keep certain things in mind, such as Kazehaya-dono’s lingering leg pain…
 
@@ -848,7 +848,7 @@ Yet the wacky thing about this industry is that there’s *always* a job out the
 
 Ahhh, out of *all* the jobs in the world, why am I working as an idol…?
 
-I should’ve just inherited our greengrocer shop… I miss all the vegetables.
+I should’ve just inherited our greengrocer shop… I miss all the vegetables…
 
 Not to mention, I could genuinely be motivated to work if I had to advertise tasty veggies or mascot characters…
 
@@ -856,7 +856,7 @@ I literally couldn’t care less about anything related to fashion, so if you th
 {% endbubble %}
 
 {% bubble Shinobu %}
-Mhm, mhm! You’ve gotten so much better now, Midori-kun! You’re not acting on your selfish thoughts as much, and you’re being considerate of others!
+Mhm, mhm! You’ve gotten so much better now, Midori-kun! You aren’t acting on your selfish thoughts as much, and you’re being considerate of others!
 
 Wonderful, wonderful! You’re doing a great job~♪
 {% endbubble %}
@@ -892,7 +892,7 @@ What’re you referring to by “a kid’s dream”?
 {% bubble Shinobu %}
 Ahhh, from what I know, the person who’s been giving him a lot of jobs lately is a multi-millionaire’s daughter.
 
-Apparently, she fell in love at first sight when Midori-kun and I had the job that introduced strawberry picking to people—[^8]
+Apparently, she fell in love at first sight when Midori-kun and I had the job that introduced strawberry picking[^8] to people—
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -908,7 +908,7 @@ Ahaha, what’s so bad about getting a chance to marry a multi-millionaire? Man,
 {% endbubble %}
 
 {% bubble Midori sigh %}
-What’re you on about… She’s just a little kid, y’know… And I’m pretty sure she only likes me for my looks…
+What’re you on about… She’s just a little kid, y’know… I’m pretty sure she only likes me for my looks…
 
 It’s like I can barely get my point across with her… it really makes you think of a certain someone—
 {% endbubble %}
@@ -930,7 +930,7 @@ As a Ryuseitai member, he is… He’s been doing way more work outside of the u
 {% endbubble %}
 
 {% bubble Shinobu %}
-You make a good point there, it does feel as though he’s left Ryuseitai in our hands… And he was very sudden and curt about it—Honestly, this was hardly what I expected to happen.
+You make a good point there, it does feel as though he’s left Ryuseitai in our hands… And he was very sudden and curt about it — Honestly, this was hardly what I expected to happen.
 
 For example, I can understand Shinkai-dono’s situation, as he has yet to finish dealing with the issue concerning his household, but…
 

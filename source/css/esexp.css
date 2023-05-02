@@ -1289,6 +1289,9 @@
 [character="Tomoya"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_sigh.png");
 }
+[character="Tomoya"][sleep] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_sleep.png");
+}
 [character="Tomoya"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_smile.png");
 }
