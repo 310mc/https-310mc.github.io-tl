@@ -518,7 +518,7 @@ I’ve already got a folder right here that we can use! I don’t want to make y
 So, please hand me each paper one by one and I’ll file them in.
 {% endbubble %}
 
-{% bubble Nazuna srsthinking %}
+{% bubble Nazuna serious %}
 Okay… Feels like our roles are all over the place… It should be our juniors doing this stuff.
 
 But it doesn’t look like they’re here yet, huh?

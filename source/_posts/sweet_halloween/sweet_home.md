@@ -214,7 +214,7 @@ Um… I didn’t see your name written. For some reason, it had a yellow bunny d
 I thought it was weird, so I accidentally stared for a little too long.
 {% endbubble %}
 
-{% bubble Nazuna srsthinking %}
+{% bubble Nazuna serious %}
 Hm? Mine’s a brown bunny.
 {% endbubble %}
 
@@ -266,7 +266,7 @@ Hm… So what I’m getting from this is that Nito’s and, erm… Mashiro-kun�
 Ah, that must be it. Let’s switch clothes, Nii~chan.
 {% endbubble %}
 
-{% bubble Nazuna srsthinking %}
+{% bubble Nazuna serious %}
 O-Okay. Wait— Then why are *Mitsuru-chin’s* pants not long enough?
 {% endbubble %}
 

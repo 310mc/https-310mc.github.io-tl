@@ -1929,7 +1929,7 @@ EeeeeEEEEEEAAAAAAAAAAAAAAA!?
 
 ## Translation Notes
 [^1]: It’s very likely they’re talking about <a href="https://ensemble-stars.fandom.com/wiki/HiMERU" target="_blank">HiMERU</a>.
-[^2]: In Japan, number four on the basketball uniform signified the captain. You can read more on the numbers <a href="https://chouseisan.com/l/post-52236/" target="_blank">here</a> (It's in Japanese).
+[^2]: In Japan, number four on the basketball uniform signifies the captain. You can read more on the numbers <a href="https://chouseisan.com/l/post-52236/" target="_blank">here</a> (It's in Japanese).
 [^3]: Chiaki has been referring to Subaru with *kimi* up until this point, when he switched to *omae*. Both mean “you”, but *omae* is more rough and informal than *kimi*, so it gives off a much more casual or close feel. But it can also be rude to refer to someone with *omae*, since it’s typically used towards someone below you, which may be the reason behind Subaru’s reaction.
 [^4]: In the original, Subaru trails off before he elaborates, so it’s unclear whether he was asking a question or stating something. He was definitely going to follow up the sentence with a verb, so it’s possible that it was “Do you know anything about my dad?” or “Did you hear about my dad?” or something similar. It’s free for interpretation.
 [^5]: As a fun fact, Chiaki uses the word *chuunibyou* here, and the gacha that came with this event was Chuunibyou.

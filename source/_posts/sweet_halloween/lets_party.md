@@ -245,7 +245,7 @@ Y-You suddenly appeared from the corner, so I thought you were a real ghost! Aha
 {% bubble Midori idle %}
 It’s the air conditioning… We made sure to decorate around the vents without blocking them, remember…?
 
-Seriously, are you going to be alright for this…?
+Seriously, are you gonna be alright for this…?
 {% endbubble %}
 
 {% bubble Chiaki sigh2 %}
@@ -381,7 +381,7 @@ If you just told us about it faster, we could’ve avoided being worried over no
 {% bubble Chiaki grin %}
 Oh! So you were worried about me, Takamine! That makes me happy!
 
-I was a little nervous you might not care about me, since you always act so harshly towards me, but in the end, you really *do* love me as a comrade! ☆
+I was a little nervous that you might not care about me, since you always act so harshly towards me, but in the end, you really *do* love me as a comrade! ☆
 {% endbubble %}
 
 {% bubble Midori angry %}

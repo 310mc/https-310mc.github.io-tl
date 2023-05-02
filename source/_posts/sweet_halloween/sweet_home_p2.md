@@ -416,7 +416,7 @@ i am back~♪
 …? things are quite [lively] here~ it is [midnight] by now, so you are going to [disturb] the neighborhood, you know?
 {% endbubble %}
 
-{% bubble Nazuna sigh3 %}
+{% bubble Nazuna frown2 %}
 …………
 {% endbubble %}
 
@@ -801,7 +801,7 @@ I want to believe that that “someday” will be far, far away from now… and 
 If there’s a wall blocking your way, then I’ll lead you to an alternate route. We should be able to build some muscle as we’re walking, and we’ll get to experience new things.
 {% endbubble %}
 
-{% bubble Hajime sobbing %}
+{% bubble Hajime sob %}
 So at the very least, while we’re walking together… Please, hold my hand like you always did.
 
 I don’t want to separate from you… I can’t do anything without you… I won’t know what to do anymore, and I’ll start crying in panic… <em><th>(sobs)</th></em>
