@@ -758,7 +758,7 @@ That’s my dream right now.
 {% bubble Hajime serious %}
 You know, Tomoya-kun… I wasn’t really interested in idols.
 
-I simply just loved you and didn’t want to separate from you, so I followed after you without second thought.
+I simply just loved you and didn’t want to separate from you, so I followed after you without a second thought.
 
 But it’s different now.
 {% endbubble %}

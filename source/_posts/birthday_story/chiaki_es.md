@@ -99,7 +99,7 @@ Uu… Uuu… *<th>(sobs)</th>* To think that this many people would celebrate my
 #### <div mt="rare"></div> 1/3
 {% img /img/es/birthdaystory/es/chiaki/minitalk_1.jpg %}
 {% bubble Chiaki %}
-The red flame is the mark of justice! Burning bright red, the sun of life!
+The red flame is the mark of justice! The sun of life, burning bright red!
 
 Today's protagonist! Chiaki Morisawa!
 

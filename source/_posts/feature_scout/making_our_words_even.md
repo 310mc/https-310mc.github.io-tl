@@ -2,7 +2,7 @@
 title: "[ES!!] Making Our Words Even"
 date: 2023-4-10 9:00:00
 categories:
-- [Enstars, Yuuta]
+- [Enstars, Yuta]
 - [Enstars, Midori]
 - [Enstars, ES!!]
 tags:

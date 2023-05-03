@@ -948,13 +948,13 @@ Thanks, Shinobu-kun.
 
 But honestly, I feel like I got the timing all wrong~ Maybe I should’ve done it *way* after Motor Show was over…
 
-I’m super awkward with these kinds of things, I can’t bottle up my feelings for too long, so I end up needing to spill them out as soon as possible… It's one of my bad flaws.
+I’m super awkward with these kinds of things — I can’t bottle up my feelings for too long, so I end up needing to spill them out as soon as possible… It's one of my bad flaws.
 
 Anyways, apparently ALKALOID drove around on their day off and came up with some ideas.
 
 And we have some ideas to share ourselves, so we can start by talking about ‘em first.
 
-The only thing we agreed on is a live show at the end, since we’re idols an’ all…
+The only thing we agreed on is a live show at the end, since we’re idols and all…
 
 So we’re basically gonna think through a plan on *how* to reach that end point for the show.
 {% endbubble %}

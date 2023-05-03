@@ -918,7 +918,7 @@ Then there was value and reason to the desperate fight it took to reach here aft
 {% bubble Chiaki smile4 %}
 Thank you.
 
-The red flame is the mark of justice! Burning bright red, the sun of life!
+The red flame is the mark of justice! The sun of life, burning bright red!
 
 Ryusei Red! Morisawa Chiaki!
 

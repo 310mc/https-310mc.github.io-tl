@@ -385,7 +385,7 @@ no, it is more like… something i can relate to.
 {% bubble Chiaki csbcg %}
 “Fuhahahaha! Fuhahaha! Fuhaaaaaha-ha-ha-ha!!!! ☆”
 
-“The red flame is the mark of justice! Burning bright red, the sun of life!”
+“The red flame is the mark of justice! The sun of life, burning bright red!”
 
 “I’m Ryusei Red, Morisawa Chiaki…!”
 {% endbubble %}

@@ -234,7 +234,7 @@ Huh? Ah— yes, yes. Exactly, this is a ninja skill of mine; I definitely wasn�
 {% endbubble %}
 
 {% bubble Hiiro %}
-Heheh, it looks like you’re enjoying your club activities, Mayoi-senpai. I am too! I was even able to become friends with Buchou straight away.
+Fufu, it looks like you’re enjoying your club activities, Mayoi-senpai. I am too! I was even able to become friends with Buchou straight away.
 
 This just shows that we were able to overcome our hardships and finally enjoy our youth to its maximum extent.
 

@@ -409,7 +409,7 @@ Ahhh, mmm… Ryuseitai was working ever-so-hard themselves in promoting cars, we
 P-Please don’t sniff me… If you ever did this to anyone but I, you’d be sued for sexual harassment, understood?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 Uh no, that’s a no-go no matter what, including when he does it to you.
 
 I feel like it shouldn’t be acceptable behavior even if the person’s chill with it. Is this guy really safe…? I’m pretty worried, man~
@@ -419,7 +419,7 @@ I feel like it shouldn’t be acceptable behavior even if the person’s chill w
 Fufu. I apologize, Buchou; it's simply that Mayoi-senpai acts erratically from time to time.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora frown %}
 Erm, I don’t think a lighthearted “sorry” will cut it. I’d like you guys to amend it if you’re aware of it.
 
 You guys were the tip of the troublemaking over at ES during the summer, so it sure feels just like you to be this way…
@@ -430,7 +430,7 @@ Very much so. There is still much we are lacking in as proper idols, so we canno
 
 That is why I'd like to borrow knowledge from my superiors in Ryuseitai—
 
-I'd like you to answer this for me, please. … What are "idols" to you all?
+I'd like you to answer this for me, please. …What are "idols" to you all?
 {% endbubble %}
 
 {% bubble Tetora %}

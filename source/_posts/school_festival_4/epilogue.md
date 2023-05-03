@@ -134,7 +134,7 @@ Midori-kun!
 </div>
 
 {% bubble Chiaki %}
-“The red flame is the mark of justice! Burning bright red, the sun of life! Ryusei Red, Morisawa Chiaki…! ☆”
+“The red flame is the mark of justice! The sun of life, burning bright red! Ryusei Red, Morisawa Chiaki…! ☆”
 {% endbubble %}
 
 {% bubble Kanata v2 %}
