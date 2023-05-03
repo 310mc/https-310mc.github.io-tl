@@ -48,7 +48,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a> (Ryuseitai), <a href="/about">Peace</a> (ALKALOID)
+                    <a href="/about">310mc</a> (Ryuseitai), <a href="https://twitter.com/yoroshikilled">Peace</a> (ALKALOID)
                 </div>
             </div>
             <div class="info-item three">
