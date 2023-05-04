@@ -456,7 +456,7 @@ Are you my kid, or somethin’? Or maybe my wife?
 {% endbubble %}
 
 {% bubble Keito %}
-What’s wrong with doing that… I’m the righteous, strict, arrogant student council vice president.
+What’s wrong with doing that… I’m the righteous, strict, arrogant Student Council Vice President.
 
 I don’t have anyone to casually talk to about manga. Just follow along, please.
 {% endbubble %}
@@ -482,7 +482,7 @@ Sometimes I pretend to be doing important work on my phone, and read a few pages
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha, what a naughty vice president you are. Maybe I should tattle on you to the student council members, eh? I’ll tell ‘em, “Look over here~! The vice president’s slacking off!” ♪
+Haha, what a naughty vice president you are. Maybe I should tattle on you to the Student Council members, eh? I’ll tell ‘em, “Look over here~! The vice president’s slacking off!” ♪
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1886,7 +1886,7 @@ mizuhanome… i know of her. she is the water goddess, yes?
 {% bubble Keito %}
 Arghh, you’re all so noisy! Don’t get involved!
 
-This discussion is *over!* I’m going back to the student council office — Thanks to this unnecessary mess, I’ve had a lot of work piled up!
+This discussion is *over!* I’m going back to the Student Council office — Thanks to this unnecessary mess, I’ve had a lot of work piled up!
 
 I’ve no time to chat over manga! My hands are full just trying to live my own life!
 {% endbubble %}

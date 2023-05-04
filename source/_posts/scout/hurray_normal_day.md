@@ -11,7 +11,6 @@ tags:
 - Story Index
 description: "[ES!] Mao and Midori relax for a day during Basketball Club activities…"
 permalink: hurray_normal_day/
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -57,6 +56,10 @@ hidden: true
 
 ## Chapter 1
 
+{% note narration %}
+This story is translated by <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a>. I am hosting the translation for them. For their translation terms, please read <a href="https://yoroshikilled.dreamwidth.org/18198.html" target="_blank">this</a>.
+{% endnote %}
+
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
 </div>
@@ -71,13 +74,13 @@ hidden: true
 </div>
 
 {% bubble Midori %}
-(Okay… Instead of throwing my arm, I’m supposed to try shooting by using my wrist and fingertips… like this?
+<th>(Okay… Instead of throwing my arm, I’m supposed to try shooting by using my wrist and fingertips… like this?</th>
 
-Mm~… Like I thought, there's still something off about it…
+<th>Mm~… Like I thought, there's still something off about it…</th>
 
-Maybe being overly conscious made me use too much force, so for the next shot I won't think at all…
+<th>Maybe being overly conscious made me use too much force, so for the next shot I won't think at all…</th>
 
-Here we go… Ahh, I was so focused on not thinking at all, I forgot the pointers I’m supposed to follow…)
+<th>Here we go… Ahh, I was so focused on not thinking at all, I forgot the pointers I’m supposed to follow…)</th>
 {% endbubble %}
 
 {% img /img/es/scoutstory/hurraynormal/1_2.jpg %}
@@ -191,7 +194,7 @@ The moment Trickstar were announced as the winners, Morisawa-senpai let out a we
 {% endbubble %}
 
 {% bubble Mao %}
-A <em>"seal"<em>…? I see… It was all thanks to everyone helping us, so I’m seriously glad to hear that everyone cheered in joy.
+A <em>"seal"</em>…? I see… It was all thanks to everyone helping us, so I’m seriously glad to hear that everyone cheered in joy.
 
 Though personally speaking, it still doesn't feel real.
 {% endbubble %}

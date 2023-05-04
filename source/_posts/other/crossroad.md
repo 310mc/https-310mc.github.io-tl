@@ -79,15 +79,15 @@ Keito wanted control over the delinquents around the area (presumably Yumenosaki
 
 The reason for this all this is: there's a huge problem with these delinquents because they made the underground live house into their gathering spot and have been causing a lot of trouble around the neighborhood.
 
-If this clean up were to be successful, the teachers and management groups of Yumenosaki (so basically the upper staff) would take the student council more seriously (they'd see them in a better light, basically). This'd then make working as part of the student council much easier and they'd finally have a foundation of some sort.
+If this clean up were to be successful, the teachers and management groups of Yumenosaki (so basically the upper staff) would take the Student Council more seriously (they'd see them in a better light, basically). This'd then make working as part of the Student Council much easier and they'd finally have a foundation of some sort.
 
-It'd also be a great excuse to finally motivate Rei, the current student council president, to actually get himself involved with student council duties.
+It'd also be a great excuse to finally motivate Rei, the current Student Council President, to actually get himself involved with Student Council duties.
 
 For the plan, Eichi uses himself as bait to gather up all the delinquents in the underground live house. With Eichi's wealth, he was able to fake being a rich idiot who stumbles into these delinquents, who took the bait and tied him up. On the worst case scenario that something really does end up happening to Eichi, he has bodyguards on standby that can rescue him out anyway, and even calling the police would've worked. In the meantime, Keito hurries to Rei and pretends that there's an emergency that he has to come deal with at the live house.
 
 The ideal result was that Rei would cause a huge ruckus with an amazing live and get Eichi out there safely. The name "Sakuma Rei the Student Council President" would then bring fear into those delinquents, but at the same time, those same delinquents, who don't even try nor bother in their schoolwork, will start to riot against Rei for causing havoc to their gathering place.
 
-Rei would then lose all his supporters, and be persecuted by everyone. In that moment, Rei will finally have no choice but to use the student council('s influence, I suppose). It'd be even better if Rei could then see the student council as his own home. And so, with Rei on the student council's side, Keito could make him the "boss", and thus finally reform the academy.
+Rei would then lose all his supporters, and be persecuted by everyone. In that moment, Rei will finally have no choice but to use the Student Council('s influence, I suppose). It'd be even better if Rei could then see the Student Council as his own home. And so, with Rei on the Student Council's side, Keito could make him the "boss", and thus finally reform the academy.
 
 He explains a little extra details about the plan, but this is basically the main gist.
 
@@ -298,7 +298,7 @@ I’m only guessing. I got worried about him because he was obviously feeling un
 
 <th>(I didn’t think about that, and ended up involving him with the plan… That’s my greatest failure. I rushed too much…)</th>
 
-<th>(What “perfect plan”… I’m the fool.)</th>
+<th>(What “perfect plan”… *I’m* the fool.)</th>
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -320,7 +320,7 @@ Even so, I can’t stand and watch as someone falls into danger right before my 
 {% bubble Chiaki mgn %}
 I’ve always been a coward, who looked away from the evil in this world… But I won’t run away ever again.
 
-I will become the ally of justice that I’ve looked up to as a kid.
+I *will* become the hero of justice that I’ve looked up to as a kid.
 
 ♪\~♪\~♪
 {% endbubble %}

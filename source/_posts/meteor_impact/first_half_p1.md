@@ -199,7 +199,7 @@ salty.
 i know! you are from the Sea as well, yes…? ♪
 {% endbubble %}
 
-**ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
+**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 2
 
@@ -363,7 +363,7 @@ hmm… i think he *wants* to become Family, but… i do not quite understand… 
 …?
 {% endbubble %}
 
-**ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
+**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 3
 
@@ -569,7 +569,7 @@ Becoming a hero is hard when reality is the way it is, but I could become an ido
 I want to become the dream version of myself! The cool, ideal version!
 {% endbubble %}
 
-**ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
+**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 4
 
@@ -753,7 +753,7 @@ please leave everything to me. i will grant your Wish. will that be a sufficient
 …?
 {% endbubble %}
 
-**ENG Proof:** Shie, [Gold](https://twitter.com/goldgust)
+**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 5
 
@@ -897,7 +897,7 @@ Look—It’s only going to swell up if you don’t do anything about it! And th
 Ahh, um! I’m not trying to criticize you or anything! I’m just worried! Ummm… You’re a strong guy, so it’s probably presumptuous of someone like me to be worried about you, but…!
 {% endbubble %}
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 6
 
@@ -1097,9 +1097,9 @@ If I let that happen again… I’ll really have had no reason to ever been born
 …?
 {% endbubble %}
 
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 7
 
@@ -1281,7 +1281,7 @@ Please lend me your support for my dream. If even just one person sympathizes wi
 Please believe in me. I will be the one to change Yumenosaki Academy.
 {% endbubble %}
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 8
 
@@ -1495,9 +1495,9 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 …?
 {% endbubble %}
 
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>

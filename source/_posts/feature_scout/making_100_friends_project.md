@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Hinata, Sora, and Mitsuru. Midori has to mention who his friends are in a survey, but he doesn't know who to write down…"
 permalink: making_100_friends_project/
 ---
-![](/img/es/idolstory/making100friendsproject/c1.jpg)|![](/img/es/idolstory/making100friendsproject/c2^.jpg)
+![](/img/es/idolstory/making100friendsproject/c1.jpg)|![](/img/es/idolstory/making100friendsproject/c2.jpg)
 :-:|:-:
 
 Midori has to mention who his friends are in a survey, but he doesn't know who to write down…

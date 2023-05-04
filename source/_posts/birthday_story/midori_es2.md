@@ -422,7 +422,7 @@ We may spend time together at Gardenia, but I still don't know you particularly 
 Ah, yes… If you're fine with talking to me, then I'd be glad to.
 {% endbubble %}
 
-**ENG Proofread:** [Amagiiz](https://ensemble-stars.fandom.com/wiki/User:Amagiiz)
+**ENG Proofread:** <a href="https://ensemble-stars.fandom.com/wiki/User:Amagiiz" target="_blank">Amagiiz</a>
 
 ## Birthday Event (2021)
 

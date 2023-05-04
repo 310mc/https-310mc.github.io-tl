@@ -19,7 +19,7 @@ permalink: melancholic_club_activities/
 
 Tomoya and Hajime find out Midori is hiding from Chiaki to avoid club activities…
 
-This story is connected to the card [[Senpai Discussion] Midori Takamine](https://ensemble-stars.fandom.com/wiki/(Senpai_Discussion)_Midori_Takamine).
+This story is connected to the card [Senpai Discussion] Midori Takamine.
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

@@ -94,7 +94,7 @@ Thank you! As I grow older, I believe that I'm capable of presenting an even mor
 
 ## Party at the Agency (2020)
 
-Birthday event translation can be found on the [Wiki](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Party_at_the_Agency).
+Birthday event translation can be found on the <a href="https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa_Birthday_Course/Party_at_the_Agency" target="_blank">Wiki</a>.
 
 ## Birthday Story
 

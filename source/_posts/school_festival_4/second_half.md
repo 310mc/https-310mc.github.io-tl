@@ -783,7 +783,7 @@ They came over to our cafe, too. They were bothering the girls, so we asked them
 
 But I heard something similar happened someplace else, too…
 
-I’ve been trying to find someone from the student council so I could report the issue. You’re patrolling, right? Can you contact any of the members?
+I’ve been trying to find someone from the Student Council so I could report the issue. You’re patrolling, right? Can you contact any of the members?
 {% endbubble %}
 
 {% bubble Kanata v2 %}

@@ -18,7 +18,7 @@ permalink: guideline/
 <p style="color:blue"><b>I permit:</b></p>
 
 ※ Taking screenshots of my translations. You don't have to credit me unless you prefer to.
-※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on [twitter](https://twitter.com/310mc1), though!
+※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in DMs on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>, though!
 ※ Linking my translations in directories, etc. This means you're free to copy the URL of a translation and link it on a page. __Please note that some translations may be on hold indefinitely.__
 ※ Using my __non-story translations__ (ex. card quotes, skill names, etc...) in the Enstars Wiki.
 ※ Using my translations in quotebots, fanworks, story analysis, etc. You don't have to credit me unless you prefer to.
@@ -36,12 +36,12 @@ permalink: guideline/
 
 __All of the above applies ONLY to translations published on the 310mc.github.io site.__ For example, if there is a translation in here that links to a different site for a certain chapter, you must follow the terms and conditions of that translator, NOT mine.
 
-If you need any clarification, please DM me on [twitter](https://twitter.com/310mc1)!
+If you need any clarification, please DM me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!
 </div>
 
 ## Currently Working On
 
-<big>※ Uploading the following [translations](/translations) to this site:</big>
+<big>※ Uploading the following <a href="/translations" target="_blank">translations</a> to this site:</big>
 
 <div class="stories">
     <div class="story">

@@ -88,7 +88,7 @@ If there are no heroes in this world, then *I’ll* become the hero!
 I’ll keep saying it — the hero is right here!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=407).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=407" target="_blank">here</a>.</small>
 
 <h4>※ All for one, one for all; he is <u>passionate and empathetic</u></h4>
 
@@ -98,7 +98,7 @@ I’ll keep saying it — the hero is right here!
 We don't have to try and do everything all by ourselves. *All for one, one for all!*
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=616).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=616" target="_blank">here</a>.</small>
 
 <h4>※ While he may be just a regular young man with his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u></h4>
 
@@ -108,7 +108,7 @@ We don't have to try and do everything all by ourselves. *All for one, one for a
 We’ll start over and assemble everything all over again. What we want to protect isn’t a tradition — it’s our freedom, our happiness, and the smiles of ourselves and our fans.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=839).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=839" target="_blank">here</a>.</small>
 
 **Summary:**
 * Held up as his ideal, his aspiration since a young age: <u>The hero of justice</u>
@@ -135,7 +135,7 @@ We’ll start over and assemble everything all over again. What we want to prote
 there are so [many] strange things in this world, aren't there~…♪
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1202).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=1202" target="_blank">here</a>.</small>
 
 <h4>※ In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Water-lover</u></h4>
 
@@ -145,7 +145,7 @@ there are so [many] strange things in this world, aren't there~…♪
 let's <em>puka puka</em>\~♪ all the way to the [other side] of the [horizon]… [together]\~♪
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1418).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=1418" target="_blank">here</a>.</small>
 
 <h4>※ A <u>Broad-minded</u>, deep heart that sees through one's true nature, and wraps around them like the deep ocean.</h4>
 
@@ -155,7 +155,7 @@ let's <em>puka puka</em>\~♪ all the way to the [other side] of the [horizon]�
 this is the gentle [planet earth]! we are all [family], born on this planet!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/n7ySxYtmWRE?t=1620).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=1620" target="_blank">here</a>.</small>
 
 **Summary:**
 * Puzzling behavior, an unwavering person no matter the situation; he <u>100% goes by his own pace</u>
@@ -184,7 +184,7 @@ I'm gonna keep working hard, earnestly and straightforwardly!
 I'll keep at it, 'til the day I grow strong enough to grasp my own form of justice — my own *correct* answer!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=155).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=155" target="_blank">here</a>.</small>
 
 <h4>※ With a will to face his ideal that defines being cool and reliable; his goal is to become a <u>Man among men</u></h4>
 
@@ -196,7 +196,7 @@ My palm is empty, so I can grasp anything!
 Be it the sun *or* the moon itself!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=386).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=386" target="_blank">here</a>.</small>
 
 <h4>※ Surpassing everything, including red and black; he is the <u>Bearer of the next generation</u></h4>
 
@@ -208,7 +208,7 @@ I want to walk down this road for a while longer. I want to get covered in mud, 
 Then I’ll grasp onto something, and become a bigger man than you’ve ever been.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=555).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=555" target="_blank">here</a>.</small>
 
 **Summary:**
 * In order to change himself, he is always stained with mud — for he is full of <u>Effort and willpower</u>
@@ -236,7 +236,7 @@ Then I’ll grasp onto something, and become a bigger man than you’ve ever bee
 I'll work hard, too. I'll do my best with all I've got, at least every once in a while.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=919).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=919" target="_blank">here</a>.</small>
 
 <h4>※ Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Mascot character-lover</u></h4>
 
@@ -246,7 +246,7 @@ I'll work hard, too. I'll do my best with all I've got, at least every once in a
 I can take these all for myself, right? Wahh, waah…! ♪
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1109).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1109" target="_blank">here</a>.</small>
 
 <h4>※ His feelings ever so changing, his heart ever so growing; he has the <u>Biggest potential to grow</u></h4>
 
@@ -258,7 +258,7 @@ We don't know what's gonna happen in the future—
 But if you steel yourself and take a leap forward, things surprisingly do turn out okay somehow.
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1308).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1308" target="_blank">here</a>.</small>
 
 **Summary:**
 * Tall, handsome, and an ennui allure on top; he is an <u>adolescent boy with a natural charm</u>
@@ -288,7 +288,7 @@ I really do love ninjas…☆
 Until that love is fully shared with everyone — I mustn't allow myself to be concealed within the shadows!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1639).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1639" target="_blank">here</a>.</small>
 
 <h4>※ Extremely attentive, and capable of calming the atmosphere; he is the <u>Cheerful balancer</u></h4>
 
@@ -300,7 +300,7 @@ If I were to overlook a wrongdoing, I'd be a failure of a hero—
 And if I were to abandon my friend in trouble, I'd be a failure of a human!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=1816).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1816" target="_blank">here</a>.</small>
 
 <h4>※ Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u></h4>
 
@@ -312,7 +312,7 @@ Everyone honed me and made me stronger.
 They trained the past, weak "me"[^1], that would only look away from reality, and indulge himself in daydreams!
 {% endbubble %}
 
-<small>You can listen to the voiced line [here](https://youtu.be/3_3V9QE9lg4?t=2027).</small>
+<small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=2027" target="_blank">here</a>.</small>
 
 **Summary:**
 * Known to excel at espionage, his admiration since a young age; <u>The way of the Ninja</u>

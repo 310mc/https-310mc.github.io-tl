@@ -199,7 +199,7 @@ I can only hope this makes us close enough for you to start calling me your frie
 
 ## Translation Note
 
-A continuation of Hinata and Midori's development can be found in [Making-100-Friends Project](/making_100_friends_project)!
+A continuation of Hinata and Midori's development can be found in <a href="/making_100_friends_project" target="_blank">Making-100-Friends Project</a>!
 
 ## Chapter Directory
 Hinata Idol Story 1<br>(Solo)|Hinata Idol Story 2<br>(Featuring Yuta)|Hinata Idol Story 3<br>(Featuring Midori)

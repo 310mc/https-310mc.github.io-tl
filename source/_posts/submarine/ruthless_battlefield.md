@@ -602,7 +602,7 @@ We’re well-acquainted with live battles, as it’s our field of expertise. The
 {% endbubble %}
 
 {% bubble Souma v3 %}
-Indeed. After all, Hasumi-dono along with the previous student council were the ones who created the *live* battle — the *DreamFes* system.
+Indeed. After all, Hasumi-dono along with the previous Student Council were the ones who created the *live* battle — the *DreamFes* system.
 
 It is a weapon we are quite familiar with utilizing.
 

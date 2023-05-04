@@ -194,7 +194,7 @@ You kept saying “pursuer”, so I thought it was way more serious, y’know…
 {% endbubble %}
 
 {% bubble Shinobu %}
-You see, the Asobi club is currently playing tag within the whole ES building.
+You see, the Asobi Club is currently playing tag within the whole ES building.
 
 We have only one rule: Play tag in a gentlemanly way, without bothering anyone…☆
 {% endbubble %}

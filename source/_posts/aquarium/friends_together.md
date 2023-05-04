@@ -789,7 +789,7 @@ If it is an escort you need, wouldn’t your favorite child… your favorite pup
 {% endbubble %}
 
 {% bubble Rei %}
-Do you mean Doggie by any chance? I have already previously told him that both UNDEAD and the Light Music club have no activities for today… I would feel a little terrible for calling him over after saying so.
+Do you mean Doggie by any chance? I have already previously told him that both UNDEAD and the Light Music Club have no activities for today… I would feel a little terrible for calling him over after saying so.
 
 That child gets displeased when you take back your words or forget what you had previously said to him.
 {% endbubble %}

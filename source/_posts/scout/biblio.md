@@ -260,7 +260,7 @@ permalink: biblio/
 {% bubble Midori %}
 zz… zz…♪
 
-…Mmm—H-Huh? Was I asleep?
+…Mmm— H-Huh? Was I asleep?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -272,7 +272,7 @@ Hwa? Aah, umm…?
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you’re still half-asleep~ Do you know where you are? Or could it be that you don’t remember my name?
+Heheh, you’re still half-asleep~ Do you know where you are? Or could it be that you don’t remember my name?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -312,7 +312,7 @@ Oh, I know, I’ll give you carrots as an apology… I also have asparagus…♪
 {% bubble Hajime %}
 Huh? Why do you carry around vegetables with you? It’d help with my food expenses though, so I would be happy to take it~♪
 
-<th>(Hehe, whenever Takamine-kun talks, he's usually mumbling like he's in a bad mood, and he's pretty big…)</th>
+<th>(Heheh, whenever Takamine-kun talks, he's usually mumbling like he's in a bad mood, and he's pretty big…)</th>
 
 <th>(I thought he was a bit of a scary person at first.)</th>
 
@@ -326,13 +326,13 @@ Huh? Why do you carry around vegetables with you? It’d help with my food expen
 {% endbubble %}
 
 {% bubble Hajime %}
-…Umm, what is it? I feel weird being stared at—you're good looking, so it strangely makes my heart beat fast.
+…Umm, what is it? I feel weird being stared at — You're good-looking, so it strangely makes my heart beat fast.
 {% endbubble %}
 
 {% bubble Midori %}
-Ah—Sorry, people tell me that often… Sometimes I get weird misunderstandings when I look at other people's bags with mascot plushies attached to them…
+Ah— Sorry, people tell me that often… Sometimes I get weird misunderstandings when I look at other people's bags with mascot plushies attached to them…
 
-Hehe… There’s no point in chit-chatting like this, so how about we go home…?
+Heheh… There’s no point in chit-chatting like this, so how about we go home…?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -394,7 +394,7 @@ Be careful, okay? It’s raining today, so the floors are easier to slip on…
 {% endbubble %}
 
 {% bubble Hajime %}
-O-okay. Ahh, I was this close to falling over… I shouldn’t be frolicking around… Ehehe, thank you for holding me back up.
+O-Okay. Ahh, I was this close to falling over… I shouldn’t be frolicking around… Ehehe, thank you for holding me back up.
 
 Takamine-kun, you really do have a heroic feel to you…♪
 {% endbubble %}
@@ -444,7 +444,7 @@ Oh! Did I make a new record again?
 {% endbubble %}
 
 {% bubble Midori %}
-Yep… You definitely passed over four meters, I think you may be a genius…
+Yep… You definitely passed over four meters; I think you may be a genius…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -460,7 +460,7 @@ Besides, this is fun… You think up some great things, Shino-kun…
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, I’m poor, so I usually play games that don't cost money.
+Heheh, I’m poor, so I usually play games that don't cost money.
 
 Like trying to make mazes in notebooks or braiding my little sister's hair~♪
 {% endbubble %}
@@ -496,11 +496,11 @@ The weather report says the rain's only going to get worse. Instead of fumbling 
 {% endbubble %}
 
 {% bubble Midori %}
-Ah—Alright, got it… Sorry…
+Ah— Alright, got it… Sorry…
 {% endbubble %}
 
 {% bubble Keito %}
-There's no need to apologize. You guys did nothing wrong… Just be more dignified—So incorrigible.
+There's no need to apologize. You guys did nothing wrong… Just be more dignified — So incorrigible.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -512,11 +512,11 @@ There's no need to apologize. You guys did nothing wrong… Just be more dignifi
 {% endbubble %}
 
 {% bubble Hajime %}
-………
+…………
 {% endbubble %}
 
 {% bubble Midori %}
-Shino-kun…? It’s okay now, the vice-president went off somewhere, so…
+Shino-kun…? It’s okay now, the vice president went off somewhere, so…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -526,7 +526,7 @@ D-Did he? I'm so glad~ I'm sorry for hiding behind your back… I don't really k
 {% bubble Midori %}
 I get it… Those people are kinda scary, aren't they…
 
-Although, when you compare that glasses-vice-president to the person who carries a sword or the karate club person, he seems weak…
+Although, when you compare that glasses-vice-president to the person who carries a sword or the Karate Club person, he seems weak…
 
 But I get nervous just remembering he’s an upperclassman or part of the Student Council…
 
@@ -580,7 +580,7 @@ Hey, let's go back Shino-kun, I have a bad feeling about this… This is scary, 
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you believe in ghosts and such, Takamine-kun?
+Heheh, you believe in ghosts and such, Takamine-kun?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -588,13 +588,13 @@ Uuu… Of course not, but it being scary or not is a different story…
 
 When I was young, I was told if I get picky about food then the Wasteful Ghost will come over, and it’s traumatized me since…
 
-My parents or brother would go overboard and start throwing rotten tomatoes at me saying "What a waaaste\~♪ What a waaaste\~♪"…… I hate it, I hate rotten tomatoes…
+My parents or brother would go overboard and start throwing rotten tomatoes at me saying "What a waaaste\~♪ What a waaaste\~♪"… I hate it, I hate rotten tomatoes…
 {% endbubble %}
 
 {% bubble Hajime %}
 Oh, I was told something like that by my parents, too. They didn't throw tomatoes at me though, that would've instead been a waste.
 
-Hehe, this must be a thing in our area. You live nearby, right?
+Heheh, this must be a thing in our area. You live nearby, right?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -624,7 +624,7 @@ You're usually nibbling on bread crusts during lunch break…
 {% bubble Hajime %}
 Oh, that would be a huge help. We're not so poor to the point of food being a problem, but since my siblings are still growing, I always prefer to use my food expenses on them instead, no matter what.
 
-Ah—I ended up chatting away… I shouldn’t be relaxing like this.
+Ah— I ended up chatting away… I shouldn’t be relaxing like this.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -644,7 +644,7 @@ Eeek!? T-There's that scream again…!
 {% endbubble %}
 
 {% bubble Hajime %}
-Hnn… W-We really weren't imagining it then. It’s still scary, but it was the right choice to check what's going on.
+Mmm… W-We really weren't imagining it then. It’s still scary, but it was the right choice to check what's going on.
 
 If there’s a scream, then it must mean someone’s in trouble, right?
 
@@ -678,7 +678,7 @@ Would you like to eat a carrot, Shino-kun…?
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you really do think of me as a real rabbit, don't you?
+Heheh, you really do think of me as a real rabbit, don't you?
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
@@ -736,7 +736,7 @@ I-I'm more or less alive~ Hello Hajime-kun, and…?
 {% bubble Midori %}
 Ah, hello… I’m Takamine, in the same class as Shino-kun…
 
-Er, Aoba-senpai, right? What are you doing over there…?
+Erm, Aoba-senpai, right? What are you doing over there…?
 
 From what I can see, it seems you got flattened down by the collapsed bookcases…?
 {% endbubble %}
@@ -806,7 +806,7 @@ Huh? In what way are you seeing me? I haven't looked at myself in the mirror wit
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe, you look cool\~ I think you look more superb without glasses\~♪
+Heheh, you look cool\~ I think you look more superb without glasses\~♪
 {% endbubble %}
 
 {% bubble Tsumugi mgn %}
@@ -816,7 +816,7 @@ But my glasses are my lucky item, so I don't usually want to take them off, you 
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe. You really like things like fortune-telling, lucky charms, and Buddhist prayers, right? Even your book cover is somewhat mandala-patterned.
+Heheh. You really like things like fortune-telling, lucky charms, and Buddhist prayers, right? Even your book cover is somewhat mandala-patterned.
 {% endbubble %}
 
 {% bubble Tsumugi mgn %}
@@ -848,7 +848,7 @@ I lost my balance on the stepladder and collapsed on the bookcase…
 
 The impact made it tip back over to me, like the bookcase was saying *"it’s my turn now"* as it toppled over me.
 
-Ahh, I really thought I was going to die… And today's been raining heavily, so everyone’s already gone home or something—No matter how many times I yelled for help no one came over.
+Ahh, I really thought I was going to die… And today's been raining heavily, so everyone’s already gone home or something — No matter how many times I yelled for help no one came over.
 
 I was this close to thinking about giving up on this world and finding happiness in the next lifetime.
 
@@ -864,9 +864,9 @@ Hey! What's all this fuss about!?
 {% bubble Tsumugi mgn %}
 Hiiahhh!?
 
-D-d-d-don't scare me like that, Keito-kun!
+D-D-D-Don't scare me like that, Keito-kun!
 
-…It *is* you, right? I can't see well so I’m not sure! You're not some thunder, right? Even though I heard an explosive rumbling sound!?
+…It *is* you, right? I can't see well so I’m not sure! You aren't some thunder, right? Even though I heard an explosive rumbling sound!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -934,7 +934,7 @@ If you don't like it, then say so. Why are you being so timid?
 {% bubble Tsumugi mgn %}
 Ahh, please spare me the lecture. I’m aware I’m hopeless, but if I’m constantly being told that I’ll definitely get mopey about it.
 
-Besides, it’s not like I don’t like it~
+Besides, it isn’t like I don’t like it~
 
 When I complained about my hair suffocating me from the humidity of the rain, he said he'd tie it up for me.
 
@@ -970,7 +970,7 @@ I think it's best to do your hair as you like though… Summer's coming soon, so
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe. Well, having long hair has its benefits too.
+Heheh. Well, having long hair has its benefits too.
 
 Whenever my sister wants to do a new hairstyle, she attempts it on my hair first.
 
@@ -1016,7 +1016,7 @@ If you're going to snarl at me then you’re on, come at me whenever.
 {% endbubble %}
 
 {% bubble Hajime %}
-………
+…………
 {% endbubble %}
 
 {% bubble Tsumugi mgn %}
@@ -1040,7 +1040,7 @@ Let me make up for it at least, or else I won't feel like I can move on.
 {% endbubble %}
 
 {% bubble Tsumugi mgn %}
-Hehe. There's a lot of implications behind your words… I need better reading comprehension for this~ You troublesome person.
+Heheh. There's a lot of implications behind your words… I need better reading comprehension for this~ You troublesome person.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1106,7 +1106,7 @@ Ghfff!??
 {% endbubble %}
 
 {% bubble Hajime %}
-Aah—I-I-I-I'm so sorry!! It landed directly on your face! Are you okay!?
+Ahh— I-I-I-I'm so sorry!! It landed directly on your face! Are you okay!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1124,9 +1124,9 @@ Wanna change places, Shino-kun…?
 {% bubble Hajime %}
 Ah, I’m fine, the bookcases around here are in a complicated layout…
 
-So no one but me can enter these cracks—or rather, reach the books we'd need.
+So no one but me can enter these cracks — or rather, reach the books we'd need.
 
-Hehe, since everyone's really well-built here.
+Heheh, since everyone's really well-built here.
 
 That must be so nice… I want to grow bigger too, but I can’t really build up the muscle.
 
@@ -1148,7 +1148,7 @@ Hey, quit blabbering about and move your hands.
 {% endbubble %}
 
 {% bubble Hajime %}
-Ahh, I'm sorry!
+Ahh, I'm so sorry!
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1172,7 +1172,7 @@ If it’s passing time you want, then that’s exactly why it's better to read s
 {% endbubble %}
 
 {% bubble Hajime %}
-Hehe. I feel like I’m holding people back and only being a bother, though.
+Heheh. I feel like I’m holding people back and only being a bother, though.
 {% endbubble %}
 
 {% bubble Tsumugi %}
@@ -1250,7 +1250,7 @@ It’s because *I* can't exorcise your darkness, since I’m a novice. I still n
 ## Bind and Unfold 7
 
 {% bubble Midori %}
-Ummmm… I have a small question; this book has a sequel, right…?
+Umm… I have a small question; this book has a sequel, right…?
 
 I really liked this story when I was young, so I wanna read it after so long…
 {% endbubble %}
@@ -1262,7 +1262,7 @@ Ahh… I'm sorry to say this, but… the author of that book passed away, so it'
 
 I read it before too; it ended right at a really good part, didn't it? I really get how you feel about wanting to know what happens next.
 
-Ah—But there's a fan work by a fan of the story who wrote their own sequel, and I know just where it is.
+Ah— But there's a fan work by a fan of the story who wrote their own sequel, and I know just where it is.
 
 I think that fan was as curious as you and ended up writing it.
 
@@ -1276,7 +1276,7 @@ I’m warning you now though, it's nothing compared to the original. Just an ama
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hehe, I thought it was really well written, though~ I liked it.
+Heheh, I thought it was really well written, though~ I liked it.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1296,7 +1296,7 @@ Don't worry about it. It has nothing to do with you, it's only a story of the pa
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hehe, you see Takamine-kun, Keito-kun may not look it, but he really likes to think up stories-
+Heheh, you see Takamine-kun, Keito-kun may not look it, but he really likes to think up stories—
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1332,7 +1332,7 @@ We're absolutely *not* friends.
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Eeh~ We're friends though, aren't we? We were both bookworms since long back, and ended up meeting each other often in the library, and that's how we ended up talking.
+Ehh~ We're friends though, aren't we? We were both bookworms since long back, and ended up meeting each other often in the library, and that's how we ended up talking.
 
 We even lent each other our favorite books and stuff.
 
@@ -1376,7 +1376,7 @@ Umm, I’ll do some work too… I look like I'm the only one who's slacking off 
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hehe, alright then, please help me out a bit. We're going to be pasting barcode labels onto old book collections.
+Heheh, alright then, please help me out a bit. We're going to be pasting barcode labels onto old book collections.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1430,7 +1430,7 @@ But since the library work is your job, even if I do make a mistake it'll be und
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Wha—You're cruel! Are you saying you don't care what happens to me!?
+Wha— You're cruel! Are you saying you don't care what happens to me!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1462,7 +1462,7 @@ You want to borrow books or materials? You've come at the right time\~ I just fi
 
 What kind of book are you looking for?
 
-—wh-AHH!?
+—Wh—AHH!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1478,11 +1478,11 @@ Do you have a *problem* with the glasses I lent you?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Nooo, that's not what I…
+Nooo, that isn't what I—…
 
 Wait, Takamine-kun, what are you doing sitting down here?
 
-If you're not feeling well, I’ll help you to the infirmary, okay?
+If you aren't feeling well, I’ll help you to the infirmary, okay?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1490,7 +1490,7 @@ Ah, no, I’m used to labor work, so I’m feeling alright, but… It looks like
 {% endbubble %}
 
 {% bubble Hajime %}
-Zzzzz……♪
+zzzzz…♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1512,7 +1512,7 @@ C'mon, Shino-kun, wake up… It's dark outside, we should be going home now…
 {% endbubble %}
 
 {% bubble Hajime %}
-Mm~ <th><em>(fumble)</em></th>…… *<th>(nibble nibble)</th>* ♪
+Mm~ <th><em>(fumble)</em></th>…… <em><th>(nibble nibble)</th></em> ♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1520,7 +1520,7 @@ Ughh, don't eat my uniform… Eh, I’m gonna keep getting bigger and need to bu
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Hehe, you two get along~ I’m jealous.
+Heheh, you two get along~ I’m jealous.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1530,7 +1530,7 @@ Hey, you've left the transfer student all alone without a follow-up, respond bac
 {% bubble Tsumugi %}
 Aahh…? I'm sorry about that, so what really brought you here… Anzu-chan?
 
-Eh—You brought back my glasses?
+Eh— You brought back my glasses?
 
 I see… Looks like stuff happened on that side. So Rei-kun lost my glasses, and tried to look for them all over school?
 
@@ -1540,7 +1540,7 @@ And as substitute, you came to bring back the glasses instead, right?
 
 It really would've been fine if you had given them to Rei-kun… But that person surprisingly gets worried over things like this, huh.
 
-Hehe, yep, I got them. It's been a while, my glasses~♪
+Heheh, yep, I got them. It's been a while, my glasses~♪
 {% endbubble %}
 
 {% bubble Keito %}

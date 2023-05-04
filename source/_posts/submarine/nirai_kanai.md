@@ -243,7 +243,7 @@ Hmm. If you require such information, I could have asked Sengoku whatever you wa
 {% endbubble %}
 
 {% bubble Keito %}
-The student council is none of your business, is it?
+The Student Council is none of your business, is it?
 {% endbubble %}
 
 {% bubble Chiaki %}

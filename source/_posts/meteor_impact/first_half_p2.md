@@ -206,9 +206,9 @@ O-Okay. It’s a short distance, so I’m fine with that. It would have been bet
 {% bubble Kuro pastinjured %}
 Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 {% endbubble %}
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 10
 
@@ -370,9 +370,9 @@ Even if I gotta crawl all the way there, I’ll still get there on time as long 
 I can do what she wants me to do, after your help. I can keep bein’ her “normal Onii-chan”… so, thanks again, Morisawa.
 {% endbubble %}
 
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 11
 
@@ -558,9 +558,9 @@ Oh no, there’s no need… I haven’t done anything worth being repaid.
 <th>(But maybe with this mystical kid—maybe if I could borrow his strength… even I could do something. He may be my transformation belt[^12].)</th>
 {% endbubble %}
 
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 12
 
@@ -718,9 +718,9 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no— i am a God
 …?
 {% endbubble %}
 
-**Co-Translated with:** [emu](https://twitter.com/sunsunrainys)</th>
+**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a></th>
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 13
 
@@ -907,7 +907,7 @@ Yes… See you tomorrow.
 <th>(Heh. Truly, thank you, Morisawa. Thanks to you*, I now know what path I must take from here.)</th>
 {% endbubble %}
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 14
 
@@ -1124,7 +1124,7 @@ I’m such a dumbass, gettin’ all soft just cuz you were a little nice to me, 
 I’m regrettin’ it all, damnit…!!
 {% endbubble %}
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 15
 
@@ -1251,7 +1251,7 @@ Morisawa. If my li’l sis gets a single scratch from this…
 You’re gonna *pay*. I’ll freakin’ kill you myself.
 {% endbubble %}
 
-**ENG Proof:** [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 16
 
@@ -1436,7 +1436,7 @@ Kanata-san being a God is just faaar too stable a fantasy that it’s kept going
 And, after a long period of preparation, this fantasy has even plotted a scheme to maintain itself.
 {% endbubble %}
 
-**ENG Proof:** [Revoltrad](https://ensemble-stars.fandom.com/wiki/User:Revoltrad), [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad" target="_blank">Revoltrad</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 17
 
@@ -1628,7 +1628,7 @@ If people stop wishing for anything… and if people lose faith in him, he’ll 
 I mean… You get what I’m saying, right? He’s a human being, after all.
 {% endbubble %}
 
-**ENG Proof:** [Revoltrad](https://ensemble-stars.fandom.com/wiki/User:Revoltrad), [SayonaraRevival](https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival)
+**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad" target="_blank">Revoltrad</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>

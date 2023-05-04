@@ -862,7 +862,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 <th>(……)</th>
 {% endbubble %}
 
-**Co-translated with:** [emu](https://twitter.com/sunsunrainys)
+**Co-translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
 
 ## Chapter 6
 

@@ -923,7 +923,7 @@ But then you pushed this whole *“watching tokusatsu shows together!”* thing 
 
 Anyways, I don’t even need you to tell me how stupid it was to think of doing this in the first place.
 
-I must’ve been out of my mind. I guess I got hasty… Y’see, the student council’s been on the receiving end of some harsh comments lately…
+I must’ve been out of my mind. I guess I got hasty… Y’see, the Student Council’s been on the receiving end of some harsh comments lately…
 
 Hasumi’s acting like everything’s okay, but he’s actually really stressed.
 

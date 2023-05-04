@@ -534,7 +534,7 @@ permalink: meteor_impact/
 <hr>
 
 {% note narration %}
-**Translator's Comment:** If you spot any mistakes, whether coding or grammatical errors, please DM me on [twitter](https://twitter.com/310mc1)!
+**Translator's Comment:** If you spot any mistakes, whether coding or grammatical errors, please DM me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!
 {% endnote %}
 
 {% note narration %}
