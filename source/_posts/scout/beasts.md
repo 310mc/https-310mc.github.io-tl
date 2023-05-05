@@ -255,6 +255,9 @@ permalink: beasts/
     </div>
 </div>
 
+## Chapter Index
+<a href="#Center-of-the-World-1">Ch 1</a> - <a href="#Center-of-the-World-2">Ch 2</a> - <a href="#Center-of-the-World-3">Ch 3</a> - <a href="#Center-of-the-World-4">Ch 4</a> - <a href="#Center-of-the-World-5">Ch 5</a> - <a href="#Center-of-the-World-6">Ch 6</a> - <a href="#Center-of-the-World-7">Ch 7</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
+
 ## Center of the World 1
 
 <div class="msr-season winter">
@@ -424,7 +427,7 @@ Mmgh… This blanket stinks like a guy…
 
 <th>(That’s exactly why people like me, who overthink things way too much, would prefer avoiding people like him…)</th>
 
-<th>(You can’t use logic to read an beast…)</th>[^1]
+<th>(You can’t use logic to read a beast…)</th>[^1]
 
 <th>(Although… He *did* get worried about me, and went all the way to bring a blanket for me, so I doubt he’s all that bad.)</th>
 
@@ -1314,7 +1317,7 @@ Wh— Don’t kneel on the ground in this dirty alleyway! You’ll get your clot
 {% endbubble %}
 
 {% bubble Tetora sad %}
-I can just clean them later! But hurting someone emotionally could ruin their whole life…!
+I can just wash them later! But hurting someone emotionally could ruin their whole life…!
 
 I’m so, so sorry! Narukami-senpai, you hated how I called you “manly,” didn’t you…?
 
@@ -1585,6 +1588,6 @@ Just like <em>her</em>. First things first: I gotta start learning to love that 
 [^1]: Originally, Ritsu says “You won’t get anywhere playing Shogi with an animal.”
 [^2]: Originally, Madara refers to his sister as a <a href="https://en.wikipedia.org/wiki/Hikikomori" target="_blank">Hikikomori</a>, which is a term to refer to people who are withdrawn from society, especially in public.
 [^3]: Okama is a Japanese derogatory term used towards effeminate men.
-[^4]: Usually I translate 女々しい *memeshii* as sensitive/soft, but considering this story is related to gender, I decided it’d be best to keep it literal (the literal meaning is effeminate/like a girl).
+[^4]: Usually I translate 女々しい <em>memeshii</em> as sensitive/soft, but considering this story is related to gender, I decided it’d be best to keep it literal (the literal meaning is effeminate/like a girl).
 [^5]: “Reserved” in Japanese is lit. “watery,” hence why Ritsu mentions that vampires aren't good with running water.
-[^6]: Tetora's name lit. means "Iron Tiger". (It's also in his solo song names, IRON HEART TIGER).
+[^6]: Tetora's name lit. means "Iron Tiger". (It's also in his solo song title, IRON HEART TIGER).

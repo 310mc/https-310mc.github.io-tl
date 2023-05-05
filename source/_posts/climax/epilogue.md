@@ -932,4 +932,4 @@ With the five of us together! We are *Ryuseitai…!*
 </div>
 
 ## Translation Notes
-[^1]: He says *boku* here for “I” instead of *sessha* (the typical way Shinobu talks as a ninja), and doesn't end his line with *de gozaru*. The same goes for the lines before and after this one.
+[^1]: He says <em>boku</em> here for “I” instead of <em>sessha</em> (the typical way Shinobu talks as a ninja), and doesn't end his line with <em>de gozaru</em>. The same goes for the lines before and after this one.

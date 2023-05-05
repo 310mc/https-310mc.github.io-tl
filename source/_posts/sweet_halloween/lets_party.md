@@ -875,7 +875,7 @@ you [should not] intrude on their festival\~ let’s [relax], and enjoy it in ou
 {% endbubble %}
 
 {% bubble Chiaki smile2 %}
-…Yeah. You’re right, I don’t need to act big like I’ve got to do everything myself, do I?
+…Yeah. You’re right, I don’t need to act big, as if I’ve got to do everything myself, do I?
 
 The kids are growing up to be strong and amazing. I really got to see and feel that from the bottom of my heart this time around.
 {% endbubble %}
@@ -975,9 +975,9 @@ T-Tomoya-kun…♪
 
 ## Translation Notes
 [^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=dZL5JPvXn7Q" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
-[^2]: Out of fear, Chiaki switches to talking more politely with: **“Takamine-kun”:** a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and **“~shite kureru?”:** a polite way to request something (“Could you please~”)
+[^2]: Out of fear, Chiaki switches to talking more politely with: <b>“Takamine-kun”:</b> a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and <b>“~shite kureru?”:</b> a polite way to request something (“Could you please~”)
 [^3]: This is <a href="https://www.google.com/search?q=%E6%AD%BB%E7%A5%9E%E5%8D%9A%E5%A3%AB&rlz=1C1CHBD_enBH755BH755&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvibHs3KbaAhXK3KQKHeqTBy0Q_AUICigB&biw=1366&bih=662" target="_blank">Doctor Shinigami</a>. He appeared in <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a>, which aired back in 1971.
-[^4]: He apologizes with *gomennasai* (polite sorry) instead of the usual way he apologizes, which is “suman” (informal sorry).
+[^4]: He apologizes with <em>gomennasai</em> (polite sorry) instead of the usual way he apologizes, which is “suman” (informal sorry).
 [^5]: The original for “Aiyah” is アチョー (Achow), and when you google it, it seems to be referencing Bruce Lee’s battle cries.
 [^6]: “I’m at a climax from start to end” is a reference from Kamen Rider Den-o.
 [^7]: “I’ll play a trick on you if you don’t give me a treat” is a common Halloween phrase in Japan.

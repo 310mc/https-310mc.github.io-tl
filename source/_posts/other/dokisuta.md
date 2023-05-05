@@ -326,4 +326,4 @@ They trained the past, weak "me"[^1], that would only look away from reality, an
 
 ## Translation Notes
 
-[^1]: He says *boku* here for “me” instead of *sessha* (the typical way Shinobu talks as a ninja).
+[^1]: He says <em>boku</em> here for “me” instead of <em>sessha</em> (the typical way Shinobu talks as a ninja).

@@ -448,7 +448,7 @@ I can’t do anything on my own! I’m too weak! I don’t have the capability t
 </div>
 
 ## Translation Notes
-[^1]: In Japanese, the word for “distant” is *mizu-kusai*, lit. “watery”.
+[^1]: In Japanese, the word for “distant” is <em>mizu-kusai</em>, lit. “watery”.
 [^2]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a> (No.1), and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a> (No.2).
-[^3]: In Japanese, they're playing shiritori. It goes: Chiaki → *seigi* (justice), Kaoru → *gingamu chekku* (gingham check), Kanata →  *kutsuu* (pain), *kurione* (clione), Chiaki →  *neko* (cat), *neko jarashi* (cat teaser), Kaoru → *shishi-odoshi*, Kanata → *shi* (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
+[^3]: In Japanese, they're playing shiritori. It goes: Chiaki → <em>seigi</em> (justice), Kaoru → <em>gingamu chekku</em> (gingham check), Kanata →  <em>kutsuu</em> (pain), <em>kurione</em> (clione), Chiaki →  <em>neko</em> (cat), <em>neko jarashi</em> (cat teaser), Kaoru → <em>shishi-odoshi</em>, Kanata → <em>shi</em> (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
 [^4]: Originally, Kaoru says that Rei's bad at kanji conversion (tapping on the kanji/katakana you want to use when typing on the keyboard), which leads to Rei converting all the characters incorrectly in the message, like so: でど万ズの子とで話がアル (it should be デッドマンズのことで話がある）

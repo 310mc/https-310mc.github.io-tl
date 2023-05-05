@@ -1495,5 +1495,5 @@ There will surely be a day when it all becomes useful. *Fu fu fu,* everything is
 [^6]: Imitation Ultras, also known as Fake Ultras, are basically villains who pretended to be Ultraman for the sake of infiltration, ruining Ultraman's reputation, or just to be as powerful as Ultraman.
 [^7]: This is a play on words. Yuzuru says ‘prickly’ here, meaning ‘ill-natured’, but it is also a reference to Ibara’s name, which means ‘thorny shrub​’.
 [^8]: Yuzuru says 袖振り合うも多生の縁, which essentially refers to someone who you meet by chance, who you feel to have had a connection with in your previous life. It’s really quite profound, considering that Yuzuru is pretty young here.
-[^9]: Ibara is quoting Publius Flavius Vegetius Renatus’ *De re militari*, Book III, here! The actual Latin is *si vis pacem para bellum*! It’s a Roman military tactics book. This book isn’t actually a scripture, but Ibara seems to consider it to be one.
+[^9]: Ibara is quoting Publius Flavius Vegetius Renatus’ <em>De re militari</em>, Book III, here! The actual Latin is <em>si vis pacem para bellum!</em> It’s a Roman military tactics book. This book isn’t actually a scripture, but Ibara seems to consider it to be one.
 [^10]: Ibara uses ‘ore’ here. Nowadays, he typically uses ‘jibun’.

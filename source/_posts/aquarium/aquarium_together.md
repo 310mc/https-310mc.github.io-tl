@@ -827,8 +827,8 @@ It is because it is midday; this is the time for vampires to sleep… Also, you 
 </div>
 
 ## Translation Notes
-[^1]: In Japanese, *su-maa-to* (smart) actually means slim/slender (hence, Souma wishing it to be simplified like its name), but Kaoru explains that it means the English meaning of “smart”, not the Japanese version. These types of words are called <em><a href="https://en.wikipedia.org/wiki/Wasei-eigo" target="_blank">wasei-eigo</a></em>.
+[^1]: In Japanese, <em>su-maa-to</em> (smart) actually means slim/slender (hence, Souma wishing it to be simplified like its name), but Kaoru explains that it means the English meaning of “smart”, not the Japanese version. These types of words are called <em><a href="https://en.wikipedia.org/wiki/Wasei-eigo" target="_blank">wasei-eigo</a></em>.
 [^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/WANTED!!!" target="_blank">WANTED!!!</a>.
 [^3]: Rei speaks in his ore-speech here.
 [^4]: This is referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Summer_Live" target="_blank">Summer Live</a>.
-[^5]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as *mura,* which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.
+[^5]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as <em>mura</em>, which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.

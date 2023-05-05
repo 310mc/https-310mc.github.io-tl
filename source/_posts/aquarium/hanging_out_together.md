@@ -762,7 +762,7 @@ Woah, woah—! Do not drag me over by the hand…
 ## Translation Notes
 [^1]: Coelacanth are an extremely old species of fish.
 [^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Kung_Fu" target="_blank">Kung Fu</a>.
-[^3]: Hinata uses *atai* (feminine pronoun for “I”).
+[^3]: Hinata uses <em>atai</em> (feminine pronoun for “I”).
 [^4]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it <a href="https://en.wikipedia.org/wiki/Hoichi_the_Earless" target="_blank">here</a>.
 [^5]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you <a href="https://twitter.com/seiginoakashi" target="_blank">Nanashi</a> for the localization!
-[^6]: Natsume calls Wataru *Shisho\~* (Master), similarly to how Sora calls Natsume *Shisho\~*. So combining both Shisho\~'s would become *Dai-shisho\~* (Grand-shisho\~).
+[^6]: Natsume calls Wataru <em>Shisho\~</em> (Master), similarly to how Sora calls Natsume <em>Shisho\~</em>. So combining both Shisho\~'s would become <em>Dai-shisho\~</em> (Grand-shisho\~).

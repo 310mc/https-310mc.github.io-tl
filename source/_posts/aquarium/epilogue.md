@@ -562,4 +562,4 @@ we will sing together! and i hope, foreeever…♪
 </div>
 
 ## Translation Notes
-[^1]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be *chikyuu*), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be “water planet.”
+[^1]: Kanata calls “planet Earth” as 水の惑星 (mizu no wakusei). This isn’t the typical way to refer to Earth in Japanese (that would be <em>chikyuu</em>), and is also part of the original Ryusei Blue line (which was revealed in a Chiaki sub story, and can also be seen in <a href="https://ensemble-stars.fandom.com/wiki/Boarding_Live" target="_blank">Boarding Live</a>). A literal translation would be “water planet.”

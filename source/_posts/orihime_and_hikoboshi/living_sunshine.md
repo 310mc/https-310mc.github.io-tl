@@ -127,7 +127,7 @@ Ahaha, but I am relieved to see them back. Is your health alright now, Taichou-d
 {% endbubble %}
 
 {% bubble Chiaki smile3 %}
-Yep! No problems whatsoever! Actually, I’d already recovered a few days ago!
+Yep! No problems whatsoever! Actually, I had already recovered a few days ago!
 
 But the doctor insisted that I rest, and refrain from making physical contact with anyone.
 
@@ -275,7 +275,7 @@ It's fine, really… Though I think I would've liked it if you told us he was do
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Ho<em>ho</em>, is that so! I was a little nervous you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
+Ho<em>ho</em>, is that so! I was a little nervous that you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
 {% endbubble %}
 
 {% bubble Midori sad %}
@@ -522,7 +522,7 @@ Ooh?
 …Um. It’s not what you think, Subaru. This was all an accident. Please believe me.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru angry2 %}
 Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 
@@ -713,8 +713,8 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 
 ## Translation Notes
 [^1]: It’s left ambiguous in the story, but Chiaki’s likely referring to something like the influenza.
-[^2]: Urashima Tarō is the protagonist of the Japanese fairytale, *The Story of Urashima Tarou*, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
-[^3]: Kanata’s line is a reference to *The Story of Urashima Tarou* which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, <a href="https://www.youtube.com/watch?v=0IuLZo3cvcs" target="_blank">he’s singing the folk song for it</a>.
+[^2]: Urashima Tarō is the protagonist of the Japanese fairytale, <em>The Story of Urashima Tarou</em>, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
+[^3]: Kanata’s line is a reference to <em>The Story of Urashima Tarou</em> which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, <a href="https://www.youtube.com/watch?v=0IuLZo3cvcs" target="_blank">he’s singing the folk song for it</a>.
 [^4]: Midori’s likely referring to <a href="https://www.yurugp.jp/jp/vote/detail.php?id=00003111" target="_blank">these mascot characters</a>. To likely avoid copyright, they switched the -kun and -chan around.
 [^5]: Tanzaku are strips of paper you write your wish on for Tanabata.
 [^6]: Check <a href="/orihime_and_hikoboshi#Translation-Notes" target="_blank">the cover</a> for extra info about Trickstar and Ryuseitai's Tanabata performances.

@@ -306,7 +306,9 @@ permalink: senpai_turned_into_a_dog/
 
 <th>(Just three more trips should probably be enough for today…)</th>
 {% endbubble %}
+
 {% img /img/es/scoutstory/zodiac/2.jpg %}
+
 {% bubble Midori %}
 <th>(…Hm? I think I hear some drumming sounds from the gym…)</th>
 
@@ -344,7 +346,7 @@ Wha—Huh? What just…? A-A dog?
 
 <th>(A dog just came right out of the uniform!?)</th>
 
-*Eeek*…! W-What’s with this dog…? Don’t come near me…
+Eeek…! W-What’s with this dog…? Don’t come near me…
 
 I’m fine with fictional mascots, but real dogs are alive and can move around—I don’t know how to deal with them…!!
 
@@ -360,7 +362,7 @@ Eeek!! I’m sorry, did I tickle you? Please don’t make a weird noise…
 
 <th>(Sengoku-kun said something like that in one of the lunchtime broadcasts…)</th>
 
-<th>(Eeee!!)</th>
+<th>(Eeep!!)</th>
 
 W-What is it, doggie…? You’ve got something in your mouth…… Are you… giving that to me…?
 
@@ -408,6 +410,7 @@ Morisawa-senpai, did you transform into a dog…?
 {% endbubble %}
 
 {% img /img/es/scoutstory/zodiac/4.jpg %}
+
 {% bubble Keito %}
 Hey! What are you doing here!?
 {% endbubble %}
@@ -433,7 +436,7 @@ Hm? Is that you, Takamine? You’re from Ryuseitai, right? What’s wrong? Why a
 {% bubble Midori %}
 U-Um… I—Uh…
 
-<th>(W-w-w-what do I do!? The Vice President is here…! I’m scared!!)</th>
+<th>(W-W-W-What do I do!? The Vice President is here…! I’m scared!!)</th>
 
 <th>(I’m pretty good about following the rules, so thankfully I don’t ever come face-to-face with him, but… He gets super angry at any first years who break the rules…)</th>
 
@@ -531,7 +534,9 @@ I’ll also ask Shinkai-senpai or Anzu-san for some help… Shinkai-senpai seems
 
 I’ll do something about this and turn you back to normal…
 {% endbubble %}
+
 {% img /img/es/scoutstory/zodiac/6.jpg %}
+
 {% bubble Midori %}
 Back to your silly, peaceful daily life…
 
@@ -649,10 +654,13 @@ No, no… There’s not really anything to thank me for…
 
 Well, whatever… I did something really embarrassing, but… it would’ve been awful if he was taken away and euthanized…
 
-In the end, nothing bad happened, and that’s what’s most important… No, actually… The most important thing is peace…♪
+In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what's number one…♪[^1]
 {% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
 {% btn /translations#Gacha-Stories,, star, Index %}
 </div>
+
+## Translation Notes
+[^1]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 event story). As an extra note, the SS story was released alongside this scout story, just a day after.

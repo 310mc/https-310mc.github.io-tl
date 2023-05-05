@@ -141,7 +141,7 @@ Why did it turn out this way between us…?
 {% endbubble %}
 
 {% bubble Midori smile %}
-Ah, I was thinking something similar just now. It’s always so nice to share something in common, no matter what it is, huh? That feeling of joy gets cut in half whenever it’s with you, though.
+Ah, I was thinking something similar just now. It’s always so nice to share something in common[^2], no matter what it is, huh? That feeling of joy gets cut in half whenever it’s with you, though.
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -491,7 +491,7 @@ It sure is… He was called over by a couple staff members for some business in 
 
 “hello, everyone~ thank you for visiting the aoumi aquarium today!”
 
-“as you may know, i am the mascot known as kanatee\~♪”[^2]
+“as you may know, i am the mascot known as kanatee\~♪”[^3]
 
 “you are not feeling blue today, are you? despite my color, i am not feeling blue at all\~ i wonder if it’s because of all the fishies? kana-kana\~♪”
 {% endbubble %}
@@ -815,7 +815,7 @@ Not to mention, he’s been in pretty low spirits during his time working with R
 
 But comparing our current era to last year, when you seniors were around, makes him so disappointed in himself.
 
-He’s also suffering from that bitter time when we got torn to shreds for taking the challenge against Crazy:B[^5] without thinking it through.
+He’s also suffering from that bitter time when we got torn to shreds for taking the challenge against Crazy:B[^4] without thinking it through.
 
 On top of that, we had a whole bunch of newbies back in spring, but they kept dropping out one after the other… ‘Cause they kept thinking the unit’s different from what they expected.
 {% endbubble %}
@@ -956,6 +956,7 @@ Every last one of you are so insistent on making everything harder on yourselves
 </div>
 
 ## Translation Notes
-[^1]: Kanata’s last name *shinkai* literally means “deep sea”.
-[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
-[^5]: A reference to what happens in the ES!! main story. A TL;DR until it's translated: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
+[^1]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
+[^2]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
+[^3]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
+[^4]: A reference to what happens in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

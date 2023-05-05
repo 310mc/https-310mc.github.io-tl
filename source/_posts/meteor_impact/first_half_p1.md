@@ -1511,9 +1511,9 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 [^2]: Othello was the previous name of Knights when Izumi and Leo were first years.
 [^3]: He says “hero” in katakana, which is the proper spelling, and from here on he’ll continue to say it in the proper spelling.
 [^4]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a>, and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a>. The two poses Chiaki is referring to can be seen <a href="https://twitter.com/ryuseitai_info/status/1123771801639825408" target="_blank">here</a>. As extra info, even Chiaki’s 2* card is a reference to <a href="https://ensemble-stars.fandom.com/wiki/%28Academy_Idol%29_Chiaki_Morisawa" target="_blank">Kamen Rider ichi-go’s pose</a>.
-[^5]: To worship in Japanese is *matsuru* (祭る), and is where the word *matsuri* (祭り) is derived from.
+[^5]: To worship in Japanese is <em>matsuru</em> (祭る), and is where the word <em>matsuri</em> (祭り) is derived from.
 [^6]: The tale of <a href="https://en.wikipedia.org/wiki/Ningyo" target="_blank">Yaobikuni</a>, about a girl who ate mermaid meat, and went on to live for 800 years.
 [^7]: 押しかけ女房, lit. a woman who intrudes a man’s home to live with him, regardless of his consent. It’s likely that Chiaki is making a joke out of what he’s doing.
 [^8]: In Japanese, he refers to him as 眼鏡くん (Megane-kun).
 [^9]: The literal translation is “you have a cute face, so I couldn’t tell,” but I added “boyish” for clarity of his joke.
-[^10]: Keito was about to refer to Chiaki with *kisama* (rude “you”), but quickly switches it to *kimi* to sound more friendly.
+[^10]: Keito was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to *kimi* to sound more friendly.

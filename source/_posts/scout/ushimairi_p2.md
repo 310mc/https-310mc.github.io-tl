@@ -825,4 +825,4 @@ This translation is **on hold**. Due to the official version having been release
 
 ## Translation Notes
 
-[^1]: The movie Trickstar and *fine* star in, in the story of the same name.
+[^1]: The movie Trickstar and <em>fine</em> star in, in the story of the same name.

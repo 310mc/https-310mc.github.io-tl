@@ -484,4 +484,4 @@ Today’s a day to reward myself! It’s fine if I do, yeah? I also need a day l
 <div toc>{% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: Mao's using the shortened form of it, *amekomi.*
+[^1]: Mao's using the shortened form of it, <em>amekomi.</em>

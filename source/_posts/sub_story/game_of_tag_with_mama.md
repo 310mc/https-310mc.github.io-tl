@@ -255,4 +255,4 @@ C’mon, c’mon! Come catch me if you can~! Hahaha! ☆
 
 ## Translation Notes
 
-[^1]: “Play Tag” is *oni gokko* in Japanese, lit. Playing Ogre. The person playing “it” is called the ogre.
+[^1]: “Play Tag” is <em>oni gokko</em> in Japanese, lit. Playing Ogre. The person playing “it” is called the ogre.

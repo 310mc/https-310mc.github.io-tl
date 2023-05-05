@@ -230,7 +230,7 @@ So’s mine! But it’s kinda darker than Nii~chan’s…?
 Wah— Hold on, please don’t pull on mine! Don’t do anything you wouldn’t want done to yourself! That isn’t very nice!
 {% endbubble %}
 
-{% bubble Tomoya angry %}
+{% bubble Tomoya glare %}
 “That isn’t very nice”? *Seriously*…?[^1]
 
 Ah! Are these our hair colors?
@@ -529,7 +529,7 @@ G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! No
 {% endbubble %}
 
 {% bubble Chiaki shocked2 %}
-W-W-W-What is it!? I’m fine! I saw some realistic ghost decorations and frea—
+W-W-W-What is it!? I’m fine! I saw some realistic ghost decorations and freake—
 {% endbubble %}
 
 {% bubble Chiaki surprised2 %}

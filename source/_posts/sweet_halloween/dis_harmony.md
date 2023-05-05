@@ -225,7 +225,7 @@ D-Don’t you think so, Tomoya-kun?
 {% endbubble %}
 
 {% bubble Tomoya sad %}
-Uh… Um, I’m not some kind of expert on what’s normal, you know…
+Uh… Um, I’m not some kind of expert on what’s normal, y'know…
 {% endbubble %}
 
 {% bubble Hajime worried %}
@@ -824,7 +824,7 @@ Uuu… But depending on the time and situation, doing things “normally” can 
 …………
 {% endbubble %}
 
-{% bubble Tomoya angry %}
+{% bubble Tomoya glare %}
 …What’re you looking at me for? Don’t look at me every time the word “normal” pops up.
 {% endbubble %}
 

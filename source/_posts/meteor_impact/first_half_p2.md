@@ -1640,6 +1640,6 @@ I mean… You get what I’m saying, right? He’s a human being, after all.
 ## Translation Notes
 [^11]: Some people have a concern that exercise can stump their physical growth, or even make them shorter.
 [^12]: A transformation belt is what a tokusatsu hero (usually a Kamen Rider) uses to transform.
-[^13]: Like the previous chapter Keito was in, he was about to refer to Chiaki with *kisama* (rude “you”), but quickly switches it to *kimi* to sound more friendly in his next line. It’s a little difficult to show the difference between the two “you”s in English, so in this chapter, I’ve added an asterisk after every line he uses (or was about to use) *kisama* in.
+[^13]: Like the previous chapter Keito was in, he was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to <em>kimi</em> to sound more friendly in his next line. It’s a little difficult to show the difference between the two “you”s in English, so in this chapter, I’ve added an asterisk after every line he uses (or was about to use) <em>kisama</em> in.
 [^14]: To clarify, the JoJo-like reference is purely coincidental; it just fit the tone Madara was going for.
-[^15]: The word used for “myths” is *shinpi* 神秘, the same word in Ryusei Blue’s catchphrase: *The blue flame is the mark of mystery (shinpi).* Its literal meaning is “unfathomable mystery.” Also, as an important side note… the first kanji means “God”.
+[^15]: The word used for “myths” is <em>shinpi</em> 神秘, the same word in Ryusei Blue’s catchphrase: <em>The blue flame is the mark of mystery (shinpi).</em> Its literal meaning is “unfathomable mystery.” Also, as an important side note… the first kanji means “God”.

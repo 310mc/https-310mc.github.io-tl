@@ -62,6 +62,10 @@ This story is connected to the card [Muscle Talk] Tetora Nagumo.
 
 <!-- more -->
 
+{% note narration %}
+**Translation Note:** The title is a reference to Precure’s opening theme song, “Together We Are Pretty Cure”.
+{% endnote %}
+
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -241,5 +245,4 @@ Yeah, we owe this bonding session all to exercise…♪
 <div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
-The title is a reference to Precure’s opening theme song, “Together We Are Pretty Cure”.
 [^1]: This is a reference to <a href="https://hyenahunt.tumblr.com/post/663687909863555072/jun-sazanami-4-feature-scout-a-detour" target="_blank">A Detour Encounter</a>.

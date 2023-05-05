@@ -312,7 +312,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 {% endbubble %}
 
 {% bubble Tetora awkward %}
-<th>(You're gonna regret it if you end up collapsin’, y’know~? But I guess it's just like us to not think about the li’l details, and instead, charge forward immediately… yeah?)</th>
+<th>(You're gonna regret it if you end up collapsin’, y’know~? But I guess it's just like us to not think about the li’l details, and charge forward immediately instead… yeah?)</th>
 
 <th>(Ahaha, “just like us”… I'm getting influenced by how Trickstar talk.)</th>
 {% endbubble %}
@@ -732,11 +732,11 @@ Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last 
 </div>
 
 ## Translation Notes
-[^1]: Chiaki says *noumen mitai na kao* (an expression like noh mask) to describe Kanata’s blank expression. The masks he’s referencing look like <a href="https://www.the-noh.com/en/world/mask.html" target="_blank">this</a> (warning: some are eerie).
-[^2]: The *ryusei* in Ryuseitai lit. means shooting star/meteor.
+[^1]: Chiaki says <em>noumen mitai na kao</em> (an expression like noh mask) to describe Kanata’s blank expression. The masks he’s referencing look like <a href="https://www.the-noh.com/en/world/mask.html" target="_blank">this</a> (warning: some are eerie).
+[^2]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor.
 [^3]: Chiaki says “Here we go” in English, written in katakana.
 [^4]: Midori literally does say “people of your species.” Considering how Midori feels about idols (and himself), I left it the same in English.
-[^5]: Subaru says *tou-san* (Dad), and Midori misunderstands it for *tousan* (Bankruptcy). I tried to give the English version a similar feel.
-[^6]: Shinobu’s name and *ninja* both share the same kanji *nin* (忍), which can mean “to endure.”
-[^7]: Mao imitates Shinobu here, and even uses *de gozaru* at the end.
-[^8]: He thanks Mao without using *de gozaru.*
+[^5]: Subaru says <em>tou-san</em> (Dad), and Midori misunderstands it for <em>tousan</em> (Bankruptcy). I tried to give the English version a similar feel.
+[^6]: Shinobu’s name and <em>ninja</em> both share the same kanji <em>nin</em> (忍), which can mean “to endure.”
+[^7]: Mao imitates Shinobu here, and even uses <em>de gozaru</em> at the end.
+[^8]: He thanks Mao without using <em>de gozaru.</em>

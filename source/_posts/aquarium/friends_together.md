@@ -852,4 +852,4 @@ After all, we, too, cannot continue wandering about in the same place endlessly.
 </div>
 
 ## Translation Notes
-[^1]: Originally, he says 雨降って地固まる *ame futte ji katamaru*, which is an idiom to mean "what doesn't kill you makes you stronger". It's also used in various tokusatsu shows.
+[^1]: Originally, he says 雨降って地固まる <em>ame futte ji katamaru</em>, which is an idiom to mean "what doesn't kill you makes you stronger". It's also used in various tokusatsu shows.

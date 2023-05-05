@@ -392,7 +392,7 @@ Thank you for always watching over me. Because you and my comrades are here for 
 {% endbubble %}
 
 ## Translation Notes
-Originally, the story title was *katsute no boku e* (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
+Originally, the story title was <em>katsute no boku e</em> (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
 
-[^1]: He refers to his past self with *boku* instead of *sessha*, the first-person pronoun Shinobu usually uses. *boku* is a common first-person pronoun for boys, but *sessha* is a first-person pronoun specifically known to be used by ninjas.
+[^1]: He refers to his past self with <em>boku</em> instead of <em>sessha</em>, the first-person pronoun Shinobu usually uses. <em>boku</em> is a common first-person pronoun for boys, but <em>sessha</em> is a first-person pronoun specifically known to be used by ninjas.
 [^2]: Tsudzura (葛籠): A traditional Japanese lacquer wicker basket made with bamboo and lined with Japanese washi paper. It comes with a lid and is shaped like a box.

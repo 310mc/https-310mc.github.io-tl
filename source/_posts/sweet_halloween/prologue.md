@@ -198,7 +198,7 @@ Ah! Being patted on the head made me remember what I wanted to say! Akehoshi-sen
 {% endbubble %}
 
 {% bubble Hajime sad4 %}
-He always says you’re suffocating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
+He always says that you’re suffocating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
 {% endbubble %}
 
 {% bubble Chiaki sigh %}
@@ -208,7 +208,7 @@ Oh… Yeah, I guess he would. That’s heart-crushing.
 {% bubble Hajime smile %}
 But whenever he talks about you, he has a really gentle look on his face…
 
-And he *always* happily ends it by saying, “Chi~chan-senpai is a hero, after all!”
+And he *always* happily ends it by saying, “Chi~chan-senpai is a *hero,* after all!”
 
 Heroes are cool, aren’t they? My little brother often watches those shows on Sunday.
 {% endbubble %}
@@ -270,5 +270,5 @@ Wah-wah— Um, please don’t pat my head so roughly~!
 
 ## Translation Notes
 
-[^1]: Here, he apologizes with *gomen* (polite sorry).
-[^2]: He switches back to *suman* (informal sorry, the usual he uses)
+[^1]: Here, he apologizes with <em>gomen</em> (polite sorry).
+[^2]: He switches back to <em>suman</em> (informal sorry, the usual he uses)

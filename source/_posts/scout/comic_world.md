@@ -1896,13 +1896,13 @@ I’ve no time to chat over manga! My hands are full just trying to live my own 
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: In Japanese, Ensemble Stars is あんさんぶるスターズ (ansanburu sutaazu), so Answer &amp; Masters is written as アンサー＆ますた～ず (Ansaa &amp; masutaazu). It sounds similar to the original, but switches the hiragana and katakana around (あんスタ for Enstars and アンすた for Ansters, both pronounced as *ansuta*). Thankfully, a similar difference is shown in English with “Ansters” (The e and a switched around). Also, the story’s title “Correct Answer and Authors” is meant to be a parallel to the name.
+[^1]: In Japanese, Ensemble Stars is あんさんぶるスターズ (ansanburu sutaazu), so Answer &amp; Masters is written as アンサー＆ますた～ず (Ansaa &amp; masutaazu). It sounds similar to the original, but switches the hiragana and katakana around (あんスタ for Enstars and アンすた for Ansters, both pronounced as <em>ansuta</em>). Thankfully, a similar difference is shown in English with “Ansters” (The e and a switched around). Also, the story’s title “Correct Answer and Authors” is meant to be a parallel to the name.
 [^2]: Aquarius speaks in kanji and hiragana, unlike Kanata. Libra speaks similarly to Keito.
-[^3]: In Japanese, *mizu mo shitataru ii otoko* means a super handsome man, but there’s also a wordplay that it’s a handsome man dripping with water.
+[^3]: In Japanese, <em>mizu mo shitataru ii otoko</em> means a super handsome man, but there’s also a wordplay that it’s a handsome man dripping with water.
 [^4]: Aquarius says 深海煉獄殺, which is romanized as “Aqua punisher”. The kanji would be deep sea depths - purgatory - murder.
 [^5]: Otaku, i.e the Japanese word equivalent to a (manga/anime/video game/etc.) nerd.
 [^6]: As in, it’s violating people’s image, especially without their consent.
 [^7]: A reference to what happened in <a href="/gang" target="_blank">Gang</a>.
 [^8]: i.e 素朴 (pure and simple), and 硬派 (having a rough feel), whether art style-wise or story writing-wise. He’s sort of vague about it, probably to give leeway to interpret it as you like.
-[^9]: Saying *itaino itaino tondeke* is what parents usually say to their kids who got hurt, typically while patting the injury or kissing it. It’s cute, so here’s a <a href="https://youtu.be/zTpHHoFZktE?t=14" target="_blank">video</a>.
+[^9]: Saying <em>itaino itaino tondeke</em> is what parents usually say to their kids who got hurt, typically while patting the injury or kissing it. It’s cute, so here’s a <a href="https://youtu.be/zTpHHoFZktE?t=14" target="_blank">video</a>.
 [^10]: To put it simply: how animals live by eating other living things, but applied to humans as well.

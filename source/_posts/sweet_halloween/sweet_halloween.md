@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Sweet Halloween"
-date: 2023-4-29 9:00:00
+date: 2017-11-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -24,7 +24,7 @@ permalink: sweet_halloween/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -118,7 +118,7 @@ permalink: sweet_halloween/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place, and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
+                    Ryuseitai, Ra*bits, MaM have all decided to work together and prepare for the Halloween Party. While they're busy at work decorating the place and practicing for the event, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…
                 </div>
                 <div class="info">
                     <div class="info-item season">

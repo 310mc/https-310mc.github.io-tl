@@ -197,4 +197,4 @@ now then, let's keep going. if you do not return home soon, the people at home w
 </div>
 
 ## Translation Notes
-[^1]: The word Kanata uses for “monster” is *kaijin* 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids (villains). You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.
+[^1]: The word Kanata uses for “monster” is <em>kaijin</em> 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids (villains). You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.

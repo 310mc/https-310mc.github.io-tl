@@ -1930,15 +1930,15 @@ EeeeeEEEEEEAAAAAAAAAAAAAAA!?
 ## Translation Notes
 [^1]: It’s very likely they’re talking about <a href="https://ensemble-stars.fandom.com/wiki/HiMERU" target="_blank">HiMERU</a>.
 [^2]: In Japan, number four on the basketball uniform signifies the captain. You can read more on the numbers <a href="https://chouseisan.com/l/post-52236/" target="_blank">here</a> (It's in Japanese).
-[^3]: Chiaki has been referring to Subaru with *kimi* up until this point, when he switched to *omae*. Both mean “you”, but *omae* is more rough and informal than *kimi*, so it gives off a much more casual or close feel. But it can also be rude to refer to someone with *omae*, since it’s typically used towards someone below you, which may be the reason behind Subaru’s reaction.
+[^3]: Chiaki has been referring to Subaru with <em>kimi</em> up until this point, when he switched to <em>omae</em>. Both mean “you”, but <em>omae</em> is more rough and informal than <em>kimi</em>, so it gives off a much more casual or close feel. But it can also be rude to refer to someone with <em>omae</em>, since it’s typically used towards someone below you, which may be the reason behind Subaru’s reaction.
 [^4]: In the original, Subaru trails off before he elaborates, so it’s unclear whether he was asking a question or stating something. He was definitely going to follow up the sentence with a verb, so it’s possible that it was “Do you know anything about my dad?” or “Did you hear about my dad?” or something similar. It’s free for interpretation.
-[^5]: As a fun fact, Chiaki uses the word *chuunibyou* here, and the gacha that came with this event was Chuunibyou.
-[^6]: Chiaki uses the word *usohappyaku* 嘘八百 to say “lies and fabrication”, which share the same kanji used in *yaobikuni* 八百比丘尼.
-[^7]: Originally, Kanata misunderstands and says *seire…i?*, as in spirit (精霊), because Shu says *seireen* for “siren”. I changed it to “psyche” to somewhat fit a similar pronunciation as “siren” in English.
+[^5]: As a fun fact, Chiaki uses the word <em>chuunibyou</em> here, and the gacha that came with this event was Chuunibyou.
+[^6]: Chiaki uses the word <em>usohappyaku</em> 嘘八百 to say “lies and fabrication”, which share the same kanji used in <em>yaobikuni</em> 八百比丘尼.
+[^7]: Originally, Kanata misunderstands and says <em>seire…i?</em>, as in spirit (精霊), because Shu says <em>seireen</em> for “siren”. I changed it to “psyche” to somewhat fit a similar pronunciation as “siren” in English.
 [^8]: Apparently, <a href="https://en.wikipedia.org/wiki/Muses" target="_blank">there was a muse that did come from the water, and sometimes they’re referred to as water nymphs</a>.
 [^9]: This is an expression to say that even scary-looking people feel compassion, as well as being a reference to Kuro’s last name, as it has the kanji for “demon” (鬼).
 [^10]: A reference to what happened in the flashback chapter in <a href="/gang/#Midnight-Gangsters-3" target="_blank">Gang</a> (Chapter 3).
-[^11]: Rogue in Japanese is *gorotsuki* ごろつき, which has various negative connotations, such as someone who loiters around with no fixed home or job of their own, or who takes advantage of people’s weak-points, or threatens others with force.
-[^12]: Souma is doing a *dogeza*.
+[^11]: Rogue in Japanese is <em>gorotsuki</em> ごろつき, which has various negative connotations, such as someone who loiters around with no fixed home or job of their own, or who takes advantage of people’s weak-points, or threatens others with force.
+[^12]: Souma is doing a <em>dogeza</em>.
 [^13]: Souma’s family name 神崎 has the kanjis “God” and “cape (on the coast)”.
-[^14]: ぶちょ～, a more drawn out way to say *buchou*, meaning “club captain”.
+[^14]: ぶちょ～, a more drawn out way to say <em>buchou</em>, meaning “club captain”.

@@ -1972,6 +1972,6 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 [^1]: This is a reference to Chapter 200 of the first main story.
 [^2]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
 [^3]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
-[^4]: Typically, *kakusu* means to conceal, but it has an archaic meaning to say “to behead”.
-[^5]: “The Dance of Divine Slicing” shares a pronunciation with the name *Kanzaki*, the *kan* in the technique being “god”, and the *zaki* being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).
-[^6]: A wordplay with his name, *shinkai*, which also means deep sea.
+[^4]: Typically, <em>kakusu</em> means to conceal, but it has an archaic meaning to say “to behead”.
+[^5]: “The Dance of Divine Slicing” shares a pronunciation with the name <em>Kanzaki</em>, the <em>kan</em> in the technique being “god”, and the <em>zaki</em> being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).
+[^6]: A wordplay with his name, <em>shinkai</em>, which also means deep sea.

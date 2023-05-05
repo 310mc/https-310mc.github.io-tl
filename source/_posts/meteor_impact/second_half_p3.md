@@ -1256,13 +1256,13 @@ Hasumi.
 {% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
-[^24]: The Little Mermaid is *ningyo hime* 人魚姫, literally “mermaid princess”.
-[^25]: Kuro refers to Keito as *obocchan* here.
+[^24]: The Little Mermaid is <em>ningyo hime</em> 人魚姫, literally “mermaid princess”.
+[^25]: Kuro refers to Keito as <em>obocchan</em> here.
 [^26]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).
 [^27]: Referring to <a href="https://en.wikipedia.org/wiki/Skanda_(Buddhism)" target="_blank">Skanda</a>, who is known to be a fast runner.
-[^28]: 海神 (Sea God) is read as *kaijin*, the same pronunciation for the word 怪人 (monster). As mentioned in a previous chapter, this is a common word in tokusatsu shows, and it refers to an antagonistic humanoid with supernatural abilities. This wordplay is why I chose to translate the live show’s name as “Battle versus the Sea God”.
+[^28]: 海神 (Sea God) is read as <em>kaijin</em>, the same pronunciation for the word 怪人 (monster). As mentioned in a previous chapter, this is a common word in tokusatsu shows, and it refers to an antagonistic humanoid with supernatural abilities. This wordplay is why I chose to translate the live show’s name as “Battle versus the Sea God”.
 [^29]: You can hear a voiced version of this line <a href="https://files.catbox.moe/9m58c7.mp3" target="_blank">here.</a>
-[^30]: As mentioned before, the *ryusei* in Ryuseitai means “meteor”, as well as “shooting star”.
+[^30]: As mentioned before, the <em>ryusei</em> in Ryuseitai means “meteor”, as well as “shooting star”.
 [^31]: In entertainment, opening acts are known to be usually done by the lowly ranks.
 [^32]: Information about Kagura <a href="https://en.wikipedia.org/wiki/Kagura" target="_blank">here</a>.
 [^33]: Keito is referring to how Buddhism views life after death.

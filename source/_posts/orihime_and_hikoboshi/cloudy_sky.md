@@ -745,4 +745,4 @@ You're feeling lonely, right? Ahaha, you really do love Buchou\~♪ You can't re
 
 [^1]: Buchou is a title that refers to the club captain.
 [^2]: “I’m at a climax from start to end” is a reference to Kamen Rider Den-o.
-[^3]: In Japanese, *atatte kudakeyou* is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.
+[^3]: In Japanese, <em>atatte kudakeyou</em> is a phrase meaning “We have nothing to lose, so we may as well try”, but I kept the phrase literal because Hokuto responds back to it literally.

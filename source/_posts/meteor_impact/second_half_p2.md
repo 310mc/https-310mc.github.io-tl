@@ -2792,11 +2792,11 @@ please Explain things to me properly! listen to what a god Tells you to do!
 
 ## Translation Notes
 [^15]: The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a>, which is business conglomerates in Japan.
-[^16]: He calls Souma a *chuunibyou*, because it has the kanji for “illnesss”.
+[^16]: He calls Souma a <em>chuunibyou</em>, because it has the kanji for “illnesss”.
 [^17]: Referring to <a href="https://en.wikipedia.org/wiki/Yama_%28Buddhism%29" target="_blank">Yama</a>.
 [^18]: “Mysterious” here is the same word used in Ryusei Blue's catchphrase 神秘(性).
-[^19]: Originally *oyabun* 親分, which can mean a father, and also an (evil) boss.
-[^20]: Monsters here is *kaijin* 怪人, a common word in tokusatsu shows. It refers to an antagonistic humanoid with supernatural abilities. This word will be elaborated in detail in the coming chapters.
-[^21]: The chapter title for the second year era is called *hero shikkaku* ヒーロー失格 in Japanese, literally “Disqualified/unsuitable as a hero”, and can be translated as “failure as a hero” (see: Kanata’s dialogue earlier in the chapter). But due to Chiaki’s epiphany here, I decided the best way to translate the title is to go with “Unqualified Hero”.
-[^22]: The *ryusei* in Ryuseitai means “meteor” (and of course, means “shooting star”).
+[^19]: Originally <em>oyabun</em> 親分, which can mean a father, and also an (evil) boss.
+[^20]: Monsters here is <em>kaijin</em> 怪人, a common word in tokusatsu shows. It refers to an antagonistic humanoid with supernatural abilities. This word will be elaborated in detail in the coming chapters.
+[^21]: The chapter title for the second year era is called <em>hero shikkaku</em> ヒーロー失格 in Japanese, literally “Disqualified/unsuitable as a hero”, and can be translated as “failure as a hero” (see: Kanata’s dialogue earlier in the chapter). But due to Chiaki’s epiphany here, I decided the best way to translate the title is to go with “Unqualified Hero”.
+[^22]: The <em>ryusei</em> in Ryuseitai means “meteor” (and of course, means “shooting star”).
 [^23]: Chiaki uses the same word that tokusatsu heroes say before transforming: <em>henshin</em> (Translated as <em>“Transform!”</em> much earlier in this story, and sometimes in other Enstars stories too.)

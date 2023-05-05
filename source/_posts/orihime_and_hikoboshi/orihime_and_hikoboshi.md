@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Orihime and Hikoboshi"
-date: 2023-4-17 9:00:00
+date: 2018-7-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -647,7 +647,7 @@ This event is heavily influenced by the concept of Chinese martial arts. Makoto 
 
 * *Taolu* is the set routines, or “forms”, of Wushu. There are routines performed bare-handed, and routines performed with weaponry.
 
-* In this case, Trickstar and Ryuseitai chose a weaponry-based *taolu*: Gunshu (long staff), and *Jianshu* (double-edged straight sword) respectively. Both of these styles consist of agile, quick movements, and require flexibility.
+* In this case, Trickstar and Ryuseitai chose a weaponry-based *taolu*: *Gunshu* (long staff), and *Jianshu* (double-edged straight sword) respectively. Both of these styles consist of agile, quick movements, and require flexibility.
 
 * Video of an athlete performing *gunshu*: <a href="https://www.youtube.com/watch?v=QqwJ8Cni-Lc" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=-HsxeMvVBms" target="_blank">No.2</a> (Both videos portray Mao and Subaru's poses) – Video of an athlete performing *jianshu*: <a href="https://www.youtube.com/watch?v=Guls7Q3EBQY" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=jOcsu3VJSrI" target="_blank">No.2</a> (second video portrays Midori's pose)
 

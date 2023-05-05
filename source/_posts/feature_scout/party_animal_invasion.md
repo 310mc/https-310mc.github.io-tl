@@ -323,5 +323,5 @@ Is “Otto~” meant to be me?
 
 ## Translation Notes
 
-[^1]: He calls Midori by this name in The Magician's Delivery too.
+[^1]: He calls Midori by this name in The Magician's Delivery, too.
 [^2]: The Wasteful Ghost was previously mentioned in <a href="/biblio" target="_blank">Biblio</a>.

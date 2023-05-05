@@ -114,8 +114,8 @@ Yeah, he wears glasses during class, too. You’re in class B, so you didn’t k
 Wow, really… Seeing a whole ‘nother side to someone is part'a what’s so greatabout sleepovers, huh… <em><th>(yawns)</th></em> ♪
 {% endbubble %}
 
-{% bubble Chiaki mgngrin %}
-Hehe, that was a big yawn just now, Nito. You can go ahead and sleep if you’re tired.
+{% bubble Chiaki mgn %}
+Heheh, that was a big yawn just now, Nito. You can go ahead and sleep if you’re tired.
 
 Since it isn’t even 10 PM yet, and the rest of us are still awake, you may have to sleep with the lights still on.
 {% endbubble %}
@@ -343,11 +343,11 @@ Wah— It really does look scary… I’m kind of okay with gory scenes, but I c
 {% endbubble %}
 
 {% bubble Midori %}
-Shino-kun, you often watch horror movies…?
+Shino-kun, do you watch horror movies often…?
 {% endbubble %}
 
 {% bubble Hajime %}
-Not that often~♪ My little brother seems to like them, so he rents a few sometimes.
+Well, not that often~♪ My little brother seems to like them, so he rents a few sometimes.
 
 He likes them, but he’s also scared of them, so he clings to me whenever we’re watching one.
 
@@ -951,7 +951,7 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 ## Translation Notes
 [^1]: The shadow Madara talks about is Jungian psychology.
 [^2]: In Japan, the season for ghost stories is typically in summer.
-[^3]: He unusually asks for permission with *dame kana*.
+[^3]: He unusually asks for permission with <em>dame kana</em>.
 [^4]: Fun fact, Swahili has similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
 [^5]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars.
 [^6]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.

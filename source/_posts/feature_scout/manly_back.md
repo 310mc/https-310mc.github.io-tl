@@ -307,4 +307,4 @@ Mhm, I’m coming, Tetora-kun!
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: Arashi says *hotto soo-ku* in katakana (An english word in Japanese characters), so Tetora, unknowing what it meant, related it to *hotto suu-pu* (hot soup).
+[^1]: Arashi says <em>hotto soo-ku</em> in katakana (An english word in Japanese characters), so Tetora, unknowing what it meant, related it to <em>hotto suu-pu</em> (hot soup).

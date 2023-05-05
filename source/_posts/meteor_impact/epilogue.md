@@ -348,5 +348,5 @@ thank you, hero…♪
 
 ## Translation Notes
 
-[^1]: Kanata originally says *densha no ko*, implying either Tetora or Shinobu go home by train.
-[^2]: Originally, Kanata says *kurou* for “struggle”, and Chiaki misunderstands it as Kuro’s name. To convey a similar feeling, Kanata says “punk” to mean “an inexperienced young person; a novice”. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
+[^1]: Kanata originally says <em>densha no ko</em>, implying either Tetora or Shinobu go home by train.
+[^2]: Originally, Kanata says <em>kurou</em> for “struggle”, and Chiaki misunderstands it as Kuro’s name. To convey a similar feeling, Kanata says “punk” to mean “an inexperienced young person; a novice”. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!

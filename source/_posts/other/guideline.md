@@ -41,7 +41,60 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 
 ## Currently Working On
 
-<big>※ Uploading the following <a href="/translations" target="_blank">translations</a> to this site:</big>
+<h2>※ Translating Ryuseitai-related stories:</h2>
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/herogame/c1.jpg"
+            alt="Hero Game"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Hero Game</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/legendaryhero/c1.jpg"
+            alt="Legendary Hero!"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Legendary Hero!</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/driftedashore/c1.jpg"
+            alt="When I Drifted Ashore"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>When I Drifted Ashore</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/studyheroes/c2.jpg"
+            alt="Study Heroes"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Study Heroes</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+</div>
+
+<h2>※ Finished uploading the following <a href="/translations" target="_blank">translations</a> to this site:</h2>
 
 <div class="stories">
     <div class="story">
