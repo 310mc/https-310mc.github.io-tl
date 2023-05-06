@@ -422,6 +422,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
     <div class="story">
         <div class="image">
             <img
+                src="/img/es/idolstory/legendaryhero/c1.jpg"
+                alt="Legendary Hero!"
+            />
+        </div>
+        <a href="/legendary_hero" class="storyName" target="_blank">
+            <span>Legendary Hero!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
                 src="/img/es/idolstory/gameoftag/c2.jpg"
                 alt="A Game of Tag with Mama"
             />
@@ -452,6 +464,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         </div>
         <a href="/crimsons_pure_heart" class="storyName" target="_blank">
             <span>The Crimson's Pure Heart</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/studyheroes/c2.jpg"
+                alt="Study Heroes"
+            />
+        </div>
+        <a href="/study_heroes" class="storyName" target="_blank">
+            <span>Study Heroes</span>
             <span class="read"></span>
         </a>
     </div>

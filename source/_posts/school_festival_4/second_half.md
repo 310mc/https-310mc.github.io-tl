@@ -85,7 +85,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
 {% bubble Chiaki %}
 The running grounds is also clear!
 
-Heheh, walkie-talkies are so convenient~♪ This is fun, it’s kinda like we’re in an undercover investigation…☆
+Heheh, walkie-talkies are so convenient~♪ This is fun, it’s kind of like we’re in an undercover investigation…☆
 {% endbubble %}
 
 {% img /img/es/eventstory/schoolfestival4/7_2.jpg %}
@@ -95,7 +95,7 @@ Yo, yo. Lady, why don’t ya come over with me a li’l?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mm—!? W-What’s wrong, Nagumo? I’m not a lady, and your face is kinda scaring me…
+Mm—!? W-What’s wrong, Nagumo? I’m not a lady, and your face is kind of scaring me…
 {% endbubble %}
 
 {% bubble Tetora %}

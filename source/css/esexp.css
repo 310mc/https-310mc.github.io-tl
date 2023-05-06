@@ -159,6 +159,9 @@
 [character="Chiaki"][smile4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile4.png");
 }
+[character="Chiaki"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_glare.png");
+}
 [character="Chiaki"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin.png");
 }
@@ -619,6 +622,12 @@
 }
 [character="Tetora"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sigh.png");
+}
+[character="Tetora"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sigh2.png");
+}
+[character="Tetora"][frustrated] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_frustrated.png");
 }
 [character="Tetora"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_surprised.png");
@@ -1153,6 +1162,29 @@
 ***/
 [character="Mayoi"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mayoi2.png");
+}
+/**
+***/
+
+/** Jin Expressions
+***/
+[character="Jin"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_awkward.png");
+}
+[character="Jin"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_frown.png");
+}
+[character="Jin"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_serious.png");
+}
+[character="Jin"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_sigh2.png");
+}
+[character="Jin"][worried2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_worried2.png");
+}
+[character="Jin"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_yare.png");
 }
 /**
 ***/
