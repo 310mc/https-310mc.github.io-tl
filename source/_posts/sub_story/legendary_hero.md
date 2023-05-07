@@ -10,14 +10,14 @@ categories:
 tags:
 - Idol Story
 - Akira
-description: "[ES!] Translation of a Chiaki sub story, featuring Midori, Tetora, and Jin. Chiaki asks Jin to give advice to the inexperience first years…"
+description: "[ES!] Translation of a Chiaki sub story, featuring Midori, Tetora, and Jin. Chiaki asks Jin to give advice to the inexperienced first years…"
 permalink: legendary_hero/
 ---
 
 ![](/img/es/idolstory/legendaryhero/c1.jpg)|![](/img/es/idolstory/legendaryhero/c2.jpg)
 :-:|:-:
 
-Chiaki asks Jin to give advice to the inexperience first years…
+Chiaki asks Jin to give advice to the inexperienced first years…
 
 This story is connected to the card [Senpai Hero] Chiaki Morisawa.
 

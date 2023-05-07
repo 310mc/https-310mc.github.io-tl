@@ -90,7 +90,7 @@ Oh, I can just go home then, right…? ♪
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-Hold it right there! I never said that we’re calling it a day, Takamine!
+Hold it right there! I never once said that we’re calling it a day, Takamine!
 {% endbubble %}
 
 {% bubble Kanata v2 %}

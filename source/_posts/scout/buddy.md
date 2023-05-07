@@ -475,7 +475,7 @@ Um, I’m not like *that* with Anzu, okay? You shouldn’t tease people when you
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha. That may be true now, but you never know what could happen later on in your life. Didn’t you say you want a cute girlfriend?
+Hahaha. That may be true now, buuut you never know what could happen later on in your life. Didn’t you say you want a cute girlfriend?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -485,7 +485,7 @@ Anyway, I have something to ask of you. Do you have the time right now?
 {% endbubble %}
 
 {% bubble Madara %}
-Yep, I’m all good. I can listen to what you have to say while I work on my motorbike, yeah? Although if it’s better that I pay full attention to you, then I’ll stop fiddling with my motorbike.
+Yep, I’m aaall good. I can listen to what you have to say while I work on my motorbike, yeah? Although if it’s better that I pay full attention to you, then I’ll stop fiddling with my motorbike.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -511,7 +511,7 @@ Yeah, you’re right, it *is* a suitable job for me. And like you said, I do lov
 
 Besides, a hero that rides a motorbike would be a Kamen Rider. But you fit Ryuseitai, or well, the Super Sentai image way more.[^2]
 
-So if you also think about it like that, you’re definitely not wrong to think I’m suitable.
+Sooo if you also think about it like that, you’re definitely not wrong to think I’m suitable.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -521,7 +521,7 @@ But still. It’s all up to you and your schedule. If you’re too busy to do it
 {% endbubble %}
 
 {% bubble Madara %}
-I don’t have a tight schedule as MaM right now, and I sure do love motorbikes.
+I don’t have a tight schedule as MaM right now, and I suuure do love motorbikes.
 
 I’d be glad to take on the job if it’s alright with you two~♪
 {% endbubble %}
@@ -545,7 +545,7 @@ So you’ll tell me when it’s time to meet up for the promotional video’s br
 
 You don’t have to thank me, Anzu-san! We’re close, aren’t we!
 
-Also, calling me “Mikejima-senpai” feels a little too formal for us, so I want you to call me “Mama”. C’mon, no need to be embarrassed about it~♪
+Alsooo, calling me “Mikejima-senpai” feels a little too formal for us, so I want you to call me “Mama”. C’mon, no need to be embarrassed about it~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -565,11 +565,11 @@ Ahaha… It’s good to keep on trying without giving up, but don’t force it o
 {% bubble Madara %}
 You overestimate me.
 
-I *could* make her indebted to me and get her to call me “Mama” as thanks, but she’s my beloved, darling daughter — I wanna hear her say it at her own will.
+I *could* make her indebted to me and get her to call me “Mama” as thanks, but she’s my beloved, darling daughter — I wanna hear her say it on her own will.
 {% endbubble %}
 
 {% bubble Chiaki %}
-…Alright, wonder what I’ll do next… Anzu can’t hang out with me either, so now what…
+…Alright, I wonder what I’ll do next… Anzu can’t hang out with me either, so now what…
 {% endbubble %}
 
 {% bubble Madara %}
@@ -581,7 +581,7 @@ Wha— Can I really?!
 {% endbubble %}
 
 {% bubble Madara %}
-You know stuff about motorbikes, right?
+You know stuff about motorbikes, riiight?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -589,7 +589,7 @@ Yeah! Not as much as you, but I do know a little!
 {% endbubble %}
 
 {% bubble Madara %}
-That’s good enough! I’m more than happy doing this work while talking to someone rather than all alone in silence~♪
+That’s good enough! I’m more than happy doing this work while talking to someone rather than aaall alone in silence~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -597,7 +597,7 @@ Really! Well, I’ve got tons of time, so I’ll do anything I can help you out 
 {% endbubble %}
 
 {% bubble Madara %}
-You’re acting pretty excited, huh? You really *were* bored.
+You’re pretty excited, huh? You really *were* bored.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -617,7 +617,7 @@ I would rather play all alone than do that!
 {% endbubble %}
 
 {% bubble Madara %}
-Hmm… Well, if that’s how you feel, then okay.
+Hmm… Weeell, if that’s how you feel, then okay.
 
 Anyways, I was just cleaning the motorbike chains, so I’d like to ask you to remove the rust from the motorbike. If there isn’t that much rust, then you could spray the corrosion inhibitor on it instead.
 {% endbubble %}
@@ -639,7 +639,7 @@ Oh? What, what? Like changing the engine oil? Or maybe the brake pad instead?
 {% bubble Madara %}
 Hahaha, you really do know a lot! I didn’t have anyone to talk to about motorbikes ever since I came back to school!
 
-But now that you’re here, I could talk about it all day~☆
+But now that you’re here, I could talk about it aaall day~☆
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -653,7 +653,7 @@ Still! If someone likes something, I’ll do whatever I can to listen closely to
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, that’s just like you! Alright, I’ll have you replace the engine oil, so you should wear the rubber gloves.
+Hahaha, that’s just like you! Alright, I’ll have you replace the engine oil, sooo you should wear the rubber gloves.
 
 Even if we can’t talk back and forth about motorbikes, we can still tinker with the motorbike together. That’s enough to make me super happy~♪
 {% endbubble %}
@@ -663,7 +663,7 @@ Even if we can’t talk back and forth about motorbikes, we can still tinker wit
 {% bubble Madara %}
 ~…♪
 
-Okay, good, good. Now you’re a real beaut\~♪[^3] Thank the heavens and the gods! You’ve helped me out so much, Chiaki-san\~♪
+Okay, good, good. Now you’re a real beaut\~♪[^3] *Thank the heavens and the gods!* You’ve helped me out sooo much, Chiaki-san\~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -675,7 +675,7 @@ I can tell you’re always riding this motorbike with great care.
 {% bubble Madara %}
 I’ve entrusted my life to this motorbike, so obviously I’d take extra care of her.
 
-I even had this baby with me overseas, so if I have to name our relationship, she’s like my buddy.
+I even had this baby with me overseas, sooo if I have to name our relationship, she’s like my buddy.
 
 You’ve got something like that too, don’t you?
 {% endbubble %}
@@ -687,7 +687,7 @@ What do you mean by “buddy”?[^4]
 {% endbubble %}
 
 {% bubble Madara %}
-The literal meaning would be “partner,” yeah? If you’ve got something you’ve loved for a long time, or something that’s always with you, then I’d say you could call it your buddy.
+The literal meaning would be “partner,” yeah? If you’ve got something you’ve loved for a long time, or something that’s always with you, theeen I’d say you could call it your buddy.
 
 As for me, I’ve loved motorbikes since I was a little kid. I used to beg my parents to buy me motorbike toys, and I’ve treasured them since.
 {% endbubble %}
@@ -701,17 +701,17 @@ I remember being super happy when I finally got the figurine I’d longed to hav
 {% endbubble %}
 
 {% bubble Madara %}
-Ahaha, that’s just like you. If you’ve loved it for that long, then it means it’s something you *truly* love.
+Ahaha, that’s just like you. If you’ve loved it for thaaat long, then it means it’s something you *truly* love.
 
-Kids tend to be interested in just about anything, but after they’ve grown older, they just end up thinking, *“Why did I even like that?”* for most of those interests.
+Kids tend to be interested in just about aaanything, but after they’ve grown older, they just end up thinking, *“Why did I even like that?”* for most of those interests.
 
 Like, Anzu-san used to love cicadas and stuff — would even try and grab one.
 
-But the other day, when I showed her a drone beetle I found, she just stared at me with this offended look.[^5]
+Buuut the other day, when I showed her a drone beetle I found, she just stared at me with this offended look.[^5]
 
 The older she grows, the less curious she gets…! A true shame!
 
-But anyway… so your buddy is your Super Sentai figurines, huh?
+But anyway… sooo your buddy is your Super Sentai figurines, huh?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -731,7 +731,7 @@ Nope. Like I said, I have way too much free time on my hands, so I’d love to t
 {% bubble Madara %}
 Ooh, that so! Sure, no problem~♪
 
-I’m always doing stuff solo, so it feels refreshing to be with someone for once.
+I’m aaalways doing stuff solo, so it feels refreshing to be with someone for once.
 
 Mhm, I guess it’s nice to have days like this every once in a while…♪
 {% endbubble %}
@@ -1123,21 +1123,21 @@ Or really, it is just like you to think that way, Taichou-dono~♪
 {% bubble Madara %}
 *The twilight has arrived!* Ahaha, it’s night time already!
 
-<th>(I didn’t have to stay in school for this long, but it took a while before I could finish up everything I was asked to do.)</th>
+<th>(I didn’t have to stay in school for this long, buuut it took a while before I could finish up everything I was asked to do.)</th>
 
 <th>(There’s students who still come to school in the summer break, so yeah… But honestly, they could’ve relaxed at home for the holidays, at least…)</th>
 
-<th>(Not that I’m one to talk. It doesn’t really suit my style to sit at home, so I’m also hanging around the school during the break.)</th>
+<th>(Not that I’m one to talk. It doesn’t really suit my style to sit at home, sooo I’m also hanging around the school during the break.)</th>
 
 …Hmm? Oh! That’s Anzu-san over there!
 
 Heeey, Anzu-san! Anzu-saaaaaaaan!
 
-Hehe, did you come rushing over here because I called for you? It’s still dark even with the street lights on, so you shouldn’t run, okay?
+Heheh, did you come rushing over here because I called for you? It’s still dark even with the street lights on, so you shouldn’t run, okay?
 
 Hahaha! I see, I see! So it was embarrassing for you!
 
-You were all the way over at the front gate, so you wouldn’t hear me unless I yelled, y’know?
+You were aaall the way over at the front gate, so you wouldn’t hear me unless I yelled, y’know?
 
 Anyways, you’re going home now, right? It’s late in the evening by now, are you going to have your parents pick you up?
 
@@ -1149,7 +1149,7 @@ Huh? How close? Well, we’re childhood friends, and have an idol-producer relat
 
 It’s alright, you can take what I said as a figure of speech. Point is, anyone would offer to walk a young girl back to her home at night.
 
-And your home is pretty far from here, and, well, there’s not as many trains at this hour, so you’ll probably reach home at midnight if you go by train.
+And your home is pretty far from here, and, well, there’s not as many trains at this hour, sooo you’ll probably reach home at midnight if you go by train.
 
 Oh, now you’re sure you want a ride home? Mhm, mhm! You should depend on your Mama like that some more~♪
 
@@ -1157,7 +1157,7 @@ Hahaha! Why’re you acting like this is your first time riding a motorbike?
 
 You don’t have to hesitate so much, just hop on! Don’t worry, she won’t hurt you~♪
 
-C’moon, wear your helmet! It may be hot, but you can’t let yourself get hurt incase an accident happens, ‘kay?
+C’mooon, wear your helmet! It may be hot, but you can’t let yourself get hurt incase an accident happens, ‘kay?
 
 The helmet’s there to protect your life.
 
@@ -1181,11 +1181,11 @@ Ahh, no, you don’t need to get off yet.
 
 Ah, so I *was* right.
 
-Long ago, when we played in the park together until late at night, I walked you back home myself, because everyone had gone home by then.
+Looong ago, when we played in the park together until late at night, I walked you back home myself, because everyone had gone home by then.
 
-Huh? You don’t remember? Well, it only happened once, really.
+Huh? You don’t remember? Weeell, it only happened once, really.
 
-We got scolded hard for playing past curfew, so maybe you erased the whole thing as a bad memory.
+We got scolded hard for playing past curfew, sooo maybe you erased the whole thing as a bad memory.
 
 Including this part, too… Oh well! It’s fine if you forgot, it wasn’t anything important.
 
@@ -1203,7 +1203,7 @@ I tried to get everyone to enjoy them with me whenever I played house, but no on
 
 Heheh, I mean, to be fair, I was playing with girls mostly, you included…
 
-And the boys were way more interested in huge monsters and spaceships, so it made sense that no one showed interest.
+And the boys were way more interested in huge monsters and spaceships, sooo it made sense that no one showed interest.
 
 Hahaha! Yep, it’s as you say! I still love motorbikes to this day~♪
 
@@ -1231,17 +1231,17 @@ Alright, bye bye~!
 {% img /img/es/scoutstory/buddy/7_1.jpg %}
 
 {% bubble Madara %}
-*Smooth sailing!* The briefing went perfectly, all that’s left is the actual photoshoot!
+*Smooth sailing!* The briefing went perfectly; all that’s left is the actual photoshoot!
 
 I’m looking forward to this even more now~♪
 
-Anzu-san, let’s do our best for the jooooooob! Let’s shake hands on it! Here, *<th>(handshakes)</th>…☆*
+Anzu-san, let’s do our best for the joooooob! Let’s shake hands on it! Here, <em><th>(handshakes)</th>…☆</em>
 
 Huh? “Thank you for driving me back home yesterday”?
 
 You told me that yesterday, y’know? You’re so polite, Anzu-san.
 
-But it’s wonderful to show your gratitude properly~♪
+Buuut it’s wonderful to show your gratitude properly~♪
 
 Besides, I’m happy that we got to talk, so—… Hmmm?
 {% endbubble %}
@@ -1327,7 +1327,7 @@ Ahh, dammit…! You just *had* to mention you were bored…!
 {% endbubble %}
 
 {% bubble Madara %}
-Ho*ho*. Chiaki-san, you said that? You couldn’t get yourself to mention it before, so what made you change your mind?
+Ho<em>ho</em>. Chiaki-san, you said that? You couldn’t get yourself to mention it before, sooo what made you change your mind?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1353,7 +1353,7 @@ Buddies…? I thought your buddy was your Sentai figurine?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Of course. But I couldn’t really limit myself to only one, or well, there’s no need to!
+Of course. But I couldn’t really limit myself to only one, or well, there was no need to!
 
 These two here, as well as my two other comrades in Ryuseitai, are all my buddies…☆
 {% endbubble %}
@@ -1407,11 +1407,11 @@ Hey, are you two listening…? Quit crawling on the ground, and just answer me, 
 {% endbubble %}
 
 {% bubble Madara %}
-Ahaha, you’re all having so much fun, huh?
+Ahaha, you’re aaall having so much fun, huh?
 
 Hmm, so there’s no need to stick to just one… Maybe I’ll go searching for a new buddy, then.
 
-Anyway, you going home now, Anzu-san? If you will, I’ll take you back home again~♪
+Anyway, are you going home now, Anzu-san? If you will, I’ll take you back home again~♪
 
 “I’ll be okay, it’s still the day time”… Oh, don’t be like that! Let me do the honor!
 
@@ -1419,7 +1419,7 @@ Huh? What’s with me all of a sudden?
 
 The producer supports the idol, and the idol lives up to their producer’s expectations by shining bright!
 
-It’s the perfect team-up! And a relationship suitable to call each other “buddy”, don’t you think? ☆
+It’s the perfect team-up! And a relationship suitable to call each other “buddy”, dooon’t you think? ☆
 
 Hahaha! She refused! But Mama will keep saying it, anyway!
 
