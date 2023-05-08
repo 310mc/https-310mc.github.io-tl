@@ -262,7 +262,7 @@ exactly~ you heard him, chiaki. let’s [keep] the [water reservoirs] for me, on
 But… that very premise for Ryuseitai has long been on the verge of collapse. Nagumo and Takamine haven’t at all been participating in our unit activities recently, for one thing.
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 They’re both absent today, too… Even though we told them beforehand that we’d have a meeting.
 {% endbubble %}
 
@@ -382,7 +382,7 @@ That’s the basic plot of the story.
 In a sense, it’s good versus evil, through and through. Showing good in a world where evil rules.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Yeah… But while the gist of the story has been decided, there seems to be yet another dispute over how it will be presented.
 
 Depending on what scenario they choose, one of them will be that the heroes become tainted with evil to the core and cause havoc and mayhem.
@@ -394,7 +394,7 @@ Then, when the heroes become fully evil, the protagonist beats them to get rid o
 they get fixed by being hit? they are like [electronics] from the olden days.
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 Hmm… In that case, the setting where the world values are inverted is no longer relevant, and it will simply be the trope of a righteous person having an “evil era”.
 {% endbubble %}
 

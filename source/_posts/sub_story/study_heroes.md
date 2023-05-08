@@ -191,7 +191,7 @@ Allergic to foreign languages…?
 Uu, I am a ninja, after all… I cannot handle such high-level English…
 {% endbubble %}
 
-{% bubble Kanata thinking %}
+{% bubble Kanata northinking %}
 oh yes, that is something a [ninja] would be [weak] at, yes~?
 {% endbubble %}
 
@@ -231,7 +231,7 @@ If only he could do that a little more with me, too… Not everyone can handle s
 by the way, what [subject] are you [good] at, midori?
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Me? Umm, I guess math…
 
 I come from a greengrocer family, so I always have to calculate stuff, even if I don’t want to…
@@ -307,7 +307,7 @@ I hate to admit it, but Morisawa-senpai’s *insanely* good at teaching…
 fufu, ever since he taught me [school subjects], he became [proficient] at [tutoring]…♪
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Ohhh, so that’s why he seems so used to it. I mean, it must be *super* difficult to teach Shinkai-senpai.
 {% endbubble %}
 

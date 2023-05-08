@@ -186,7 +186,7 @@ But the fountain belongs to the school. They don’t need your permission either
 …Hey, Kanata-kun~ Haven’t you told Moricchi about your household?
 {% endbubble %}
 
-{% bubble Kanata thinking2 %}
+{% bubble Kanata srsthinking %}
 no, not really~ chiaki is chiaki in the end, so…
 
 i do not think he would [treat] me any differently whether i explained it or not.
@@ -256,7 +256,7 @@ i will call for you even if i have no [reason] to, so… please come see me, oka
 
 {% img /img/es/eventstory/climax/bystanders2_1.jpg %}
 
-{% bubble Chiaki thinking2 %}
+{% bubble Chiaki northinking %}
 J-Ju…Justice.
 {% endbubble %}
 
@@ -264,7 +264,7 @@ J-Ju…Justice.
 Elk.
 {% endbubble %}
 
-{% bubble Kanata thinking2 %}
+{% bubble Kanata srsthinking %}
 k-…ki~…kill…?
 {% endbubble %}
 

@@ -213,7 +213,7 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori thinking2 %}
+            	{% bubble Midori srsthinking %}
 							Um, I saw someone crying, even though they're never the type to…
               {% endbubble %}
               {% bubble Midori smile %}

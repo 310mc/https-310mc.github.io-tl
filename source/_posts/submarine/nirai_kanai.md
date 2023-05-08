@@ -969,7 +969,7 @@ Huh!? This is the first time I’m hearing this, though!?
 eh? did i not Tell you about it properly?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 I mean, you *did* tell us a story before, but it all sounded like some kinda folk tale. I thought you were just quoting a bunch of tokusatsu shows or somethin’ random like that.
 {% endbubble %}
 
@@ -1447,7 +1447,7 @@ So even the stuff that perverted-looking guy talks about is suspicious too, huh�
 That’s *exactly* what I’m talking about.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Hmm… It seems that misinformation led to a series of misunderstandings and miscommunications, resulting in a strange accident…
 
 If that were all it is, we could just brush it off as a silly mistake, but something doesn't feel right. For one thing, why did the message that Sengoku sent me contain such misleading information?
@@ -1463,7 +1463,7 @@ Wait, huh? I just looked at my phone, and sure enough, it says something about S
 Ehh…? Did I truly write it like this…?
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Hmm… I hope Sengoku is simply misremembering, and that he really did just slip and write a strange message.
 
 Because if not, then this is an extremely grave situation.

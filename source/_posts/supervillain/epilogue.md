@@ -201,7 +201,7 @@ RB’s doin’ great and all, but we need to do something ‘bout Ryuseitai, don
 I’ve been doing real well so far, but everyone else seems to be in a decline as per usual…
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Hmm… Maybe we should learn from RB’s success.
 {% endbubble %}
 

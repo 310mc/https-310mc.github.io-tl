@@ -85,7 +85,7 @@ I made posters advertising the club as a friendly place to be in, and I even had
 I’ve done every single idea I could think of, and it still wasn’t enough~!
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Video… Oh yeah, we did do something like that, huh?
 
 That legendary video was super popular in the club presentation, but it still didn’t get you any new members…
@@ -183,7 +183,7 @@ Tetora-kun, Midori-kun… Thank you so much…!
     <p>Time passes…</p>
 </div>
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Ermm… So according to Isara-senpai, he’ll work it out for you somehow as long as you get at least one club member?
 {% endbubble %}
 
@@ -223,8 +223,8 @@ Sure, your club would be saved for <em>now</em>… But wouldn’t you fall into 
 Yeah, and we shouldn’t cheat the system. You might get harsher treatment for it, like stricter inspections.
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
-Mmm, I wouldn’t want that happening. I would only throw even more trouble on Isara-dono…
+{% bubble Shinobu northinking %}
+Mmm, I would not want that happening. I would only throw even more trouble on Isara-dono…
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -237,7 +237,7 @@ Yeah, so let’s just figure out a way to get you a new member!
 While I understand the solution, I’m not sure where we could even start…
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Hmm… Ah—Why not invite one of the Ryuseitai-N newbies? If they’ve joined our unit, surely they’d wanna join in on your activities, too?
 
 This doesn’t sound so hard to solve after all~♪
@@ -331,7 +331,7 @@ But I can really tell just how many times you’ve attempted to get new club mem
 Exactly… I’m at my wit’s end…
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Hmm… We’re not gonna get anywhere like this, huh? Shinobu-kun, how about you try going back to the basics?
 {% endbubble %}
 
@@ -423,7 +423,7 @@ Shinkai-senpai and Morisawa-senpai are late… Isn’t it about time for our mee
 Indeed… Did they have a job to deal with all of a sudden?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Hmm, I think they’d contact us if it was something like that, though.
 
 Midori-kun, didn’t you send them a message yesterday?
@@ -479,7 +479,7 @@ You lost your confidence by the end, Midori-kun…
 …Fifteen minutes have passed by now, and they’re still not here.
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 That’s weird… Wouldn’t you typically come over if you got a message like this? Not me, though.
 {% endbubble %}
 

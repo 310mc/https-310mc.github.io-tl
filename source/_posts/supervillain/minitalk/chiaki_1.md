@@ -190,7 +190,7 @@ Heheh, Anzu, you also seem happy after a full meal! It's really such a fortunate
             How about buying them a souvenir?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki thinking %}
+            {% bubble Chiaki srsthinking %}
             A souvenir…? But there are a few who haven't been showing up, so I don't know when I'd be able to give it to them…
 
             No…! I shouldn't give up before even trying. Thank you, Anzu! I'll try to look for something on my way back home!

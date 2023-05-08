@@ -155,7 +155,7 @@ Have you seen him anywhere?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki thinking %}
+            	{% bubble Chiaki srsthinking %}
               Ahh, honestly, I can’t take my eyes off of him for one second.
 
               Oh well, if I wait here at the corridor, we’ll surely meet each other again.
@@ -200,7 +200,7 @@ Have you seen him anywhere?
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_3.jpg %}
 
-{% bubble Chiaki thinking2 %}
+{% bubble Chiaki northinking %}
 Huh, there really are heart-shaped ornaments wherever you go…
 
 Oh right, it’s going to be white day soon. I almost forgot!

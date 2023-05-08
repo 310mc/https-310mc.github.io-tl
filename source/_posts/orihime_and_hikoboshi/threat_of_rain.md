@@ -136,7 +136,7 @@ Whaaa!? You're right! Did we get the meeting place wrong?
 Huh!? We already messed up? W-What do we do…?
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 Hmm… I know Isara-dono and Yuuki-dono's phone numbers, so I will ask one of them.
 {% endbubble %}
 
@@ -288,7 +288,7 @@ Also, who's “Sally~”? I can't tell from that nickname.
 Isn't it Isara-senpai…? Akehoshi-senpai calls him that during basketball practice…
 {% endbubble %}
 
-{% bubble Shinobu thinking2 %}
+{% bubble Shinobu srsthinking %}
 Hm, so Isara-dono will be late… That is a shame — he would have set us all at ease just by being here.
 {% endbubble %}
 
@@ -320,7 +320,7 @@ I hope we can support each other in order to do our best at the Tanabata Festiva
 Ah! And we'll introduce Sally\~ to you guys once he's here! Takamin already knows him well, though\~♪
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 Ah, no… I haven't really talked to him that much, so I don't really know him well, but… he seems like a good, kind person to me…
 
 Like, he seems to be someone I can have an actual conversation with, unlike you and Morisawa-senpai…
@@ -334,7 +334,7 @@ Whaa\~? Don't put me together with Chi\~chan-senpai! We can talk to each other p
 Ughh… I knew it, this guy’s also the pushy type…
 {% endbubble %}
 
-{% bubble Shinobu thinking2 %}
+{% bubble Shinobu srsthinking %}
 <th>(Mmm… I also know Isara-dono very well, but I suppose there is no need to point that out right now…)</th>
 
 <th>(I love Isara-dono, but I do not know how he feels about me…)</th>
@@ -526,7 +526,7 @@ Huh—? Yeah, basically… Morisawa-senpai would always show us what to do and g
 Like, it’s as if he’s just dragging us into whatever he’s planned…
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 We do throw our complaints and opinions in there sometimes, but well… I mean, we do basically end up properly performing as idols thanks to that, I guess…?
 
 So, yeah… It's always like that…
@@ -878,7 +878,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(Tetora-kun's glaring really hard at Trickstar practicing…)</th>
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 <th>(He's really hot-blooded, so… He might go pick a fight with them if we don't keep an eye on him…)</th>
 
 <th>(We'll have to stop him if that happens… Sengoku-kun's not strong enough to do it alone, so it has to be me…)</th>
@@ -902,7 +902,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(Though if you only heard them talk, it’d sound like they were just goofing around.)</th>
 {% endbubble %}
 
-{% bubble Tetora thinking2 %}
+{% bubble Tetora srsthinking %}
 <th>(No — These people are dead serious. They know their goal, and they're heading towards it as one.)</th>
 
 <th>(Everything they do leads them towards the proper path…)</th>
@@ -1126,7 +1126,7 @@ Huh—!? I didn't do that! …I think.
 
 ## Chapter 7
 
-{% bubble Subaru thinking %}
+{% bubble Subaru srsthinking %}
 Well, see… We told the kids to come back inside to watch us practice, right?
 
 But then we thought they'd get bored just doing that, so we made them practice with us.
@@ -1156,7 +1156,7 @@ How'd that happen… Uh, what’d you tell him?
 You tend to sound inconsiderate when you talk, so you probably hurt him without knowing.
 {% endbubble %}
 
-{% bubble Subaru thinking2 %}
+{% bubble Subaru northinking %}
 Huh~? Nah, I just said what’s on my mind.
 
 Like, “why can't you get this right?” and “do it properly!” and “don’t you have any motivation?”

@@ -248,7 +248,7 @@ It will affect the number of visitors if you choose not to participate, so I’d
 
 ## Chapter 2
 
-{% bubble Chiaki thinking2 %}
+{% bubble Chiaki northinking %}
 Repayment Festival… Ahh, it’s meant to be a White Day version of the Chocolat Fes we performed for Valentine’s Day, right?
 
 I heard that it’s the first DreamFes to be centered around the underclassmen.
@@ -320,7 +320,7 @@ That is what I had assumed — but perhaps I overestimated your unit.
 There is no other group that excels at livening up the crowd like yours, so it would be discouraging not to have you participate.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Mmm… Alright, I understand.
 
 I thought everything would go well if I were to leave it to them, including whether or not they should participate in the event, but…

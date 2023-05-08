@@ -212,7 +212,7 @@ Mm… Akehoshi, Isara, do you have time after this? I have something I need to a
 Huh!? Where did this come from!? Please spare me from dealing with any problems…
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Ah, no. It's just something I don’t want Takamine to hear, so we'll talk about it in a café.
 {% endbubble %}
 
@@ -354,7 +354,7 @@ Well… Isara can do anything and deal with matters pretty well no matter what, 
 I love you, so I don't really mind how you treat me, but if you treated other seniors that way, you'd get kicked out.
 {% endbubble %}
 
-{% bubble Subaru thinking %}
+{% bubble Subaru srsthinking %}
 Mm~… That’s true. We may each have seniors and juniors we talk to, but we don’t really interact with anyone as Trickstar.
 
 We aren't used to the idea of working in a senior-junior hierarchy relationship for a job.

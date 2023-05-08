@@ -488,7 +488,7 @@ three [units] together… that is a pretty large amount of [people]. hmm, will w
 
 {% img /img/es/eventstory/sweethalloween/disharmony4_1.jpg %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 ……………
 {% endbubble %}
 
@@ -496,7 +496,7 @@ three [units] together… that is a pretty large amount of [people]. hmm, will w
 Heeey, Chiaki-chin\~♪ I made enough copies of the printout for everyone\~
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 ……………
 {% endbubble %}
 
@@ -586,7 +586,7 @@ You know, there’s way less documents than I thought there’d be… I think An
 The details are written as simple as possible. It just shows that she’s been getting better at being a producer.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Yeah. Well, actually, it’s also likely because nothing’s been completely decided on yet.
 
 There was the S1 in spring, then Tanabata Festival, and now Halloween Party… As the seasons go by, the scale and amount of participants for S1 events both continue to increase.
@@ -772,7 +772,7 @@ This is a meeting of three units; you gotta be even more pumped up than usual! I
 You seem down lately, Morisawa-senpai… What’s wrong…? I mean, usually it’s depression with me, but it can’t be something like that with you, right…?
 {% endbubble %}
 
-{% bubble Shinobu thinking2 %}
+{% bubble Shinobu srsthinking %}
 Now that you mention it, Taichou-dono *does* seem quieter than usual…
 
 If your stomach hurts, then allow me to try out my sacred ninja medicine~♪

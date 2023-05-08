@@ -120,7 +120,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
             perhaps the Timing.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki thinking %}
+            {% bubble Chiaki srsthinking %}
             Hm… so what I discussed earlier was also simply just the wrong timing?
 
             But SS is an important event… We can't keep dancing around the topic, can we…?

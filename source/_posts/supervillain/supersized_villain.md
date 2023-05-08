@@ -78,7 +78,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>Later in the day. In Okinawa, within the forested area, where Crimson Production resides…</p>
 </div>
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 —Hmm… I knew it, so it really *was* that all along.
 
 It isn’t that Nagumo and Sengoku weren’t getting into contact with us. It wasn’t because of their own personal reasons.
@@ -854,7 +854,7 @@ But evil in this world doesn’t perish for good… ​​After absorbing all th
 ES exploits the profits of its dominion, and many locals don’t like that. After all, the more that the idol industry becomes favored over other businesses, the more the owners of vested interests suffer damages.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 And those who had a foothold on those interests would naturally start having complaints…
 {% endbubble %}
 
@@ -1136,7 +1136,7 @@ Apparently, it’s because the current head of Crimson Production is extremely p
 I guess he’s just being cautious after having been thoroughly beaten by Oni once before, though.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Oni, huh… Can’t we rely on people from the vigilante group? They’re in opposition to Crimson Production, right?
 {% endbubble %}
 

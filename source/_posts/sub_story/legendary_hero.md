@@ -195,7 +195,7 @@ Ehh… Sorry, but that sounds like a *huge* pain in the ass.
 Umm, may I ask somethin’? Was Sagami-sensei a hero?
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 Oh yeah, he’s a graduate of the school, isn’t he… and Ryuseitai’s history goes way back, right…
 
 Was he in Ryuseitai in the past…?
@@ -207,7 +207,7 @@ Indeed he was! Sensei was Ryusei Rainbow once upon a time! He’s the legendary 
 He also appeared in a tokusatsu show on TV! I’ll play it up on the projector for us later! ☆
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Rainbow…? That means he was seven colors at once, right?
 {% endbubble %}
 

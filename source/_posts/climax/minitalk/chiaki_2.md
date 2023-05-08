@@ -107,7 +107,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki thinking2 %}
+            	{% bubble Chiaki northinking %}
               I’ve got my start line for now.
 
               It’ll take a while before I can become a fully perfected hero.
@@ -197,7 +197,7 @@ It actually makes me look pathetic instead, doesn’t it…?
 
 {% img /img/es/eventstory/climax/minitalk_chiaki2_3.jpg %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.
 {% endbubble %}
 {% bubble Chiaki smug2 %}

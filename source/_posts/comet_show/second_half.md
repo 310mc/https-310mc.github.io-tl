@@ -376,7 +376,7 @@ I’m aware. Our decision to leave Ryuseitai has to do with that, too. There are
 Huh, is that so… And here I thought you were working yourself to the bone ‘cause you wanted that “mask” so badly.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 ………
 {% endbubble %}
 
@@ -500,7 +500,7 @@ It sure is… He was called over by a couple staff members for some business in 
 …I don’t really know much about Kanatee… What sort of character is it meant to be?
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Mmm~… It was basically just Shinkai-senpai at first, but…
 
 He wanted to make it go viral, so after brainstorming a bunch of ideas, it kinda turned into this cringey mess…

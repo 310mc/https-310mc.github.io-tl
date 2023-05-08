@@ -193,7 +193,7 @@ Are they both coming to school every day…?
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_3.jpg %}
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 Hmm~ I'm wondering what to give my classmates for White Day…
 
 I'd like to prepare something before the day comes…

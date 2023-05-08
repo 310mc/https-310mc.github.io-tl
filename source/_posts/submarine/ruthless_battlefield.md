@@ -1259,7 +1259,7 @@ That may be how <em>you</em> feel… but…
 But realistically, that’d be a bad idea. If we start working to protect the local idols, we’ll become literal “airheads” through and through.
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 Well, it depends on how much you believe in their side of the story.
 
 Because if we assume that everything they say is true, that would mean that the situation in Okinawa is more unsettling than we thought.

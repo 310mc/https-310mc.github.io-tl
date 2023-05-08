@@ -52,7 +52,7 @@ description: "[ES!!] Tetora's first Mini Talk from Supervillain. From Anzu's POV
 
 {% img /img/es/eventstory/supervillain/minitalk_tetora1_1.jpg %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 …Hmm. So this is the planning of that show Midori-kun announced in Comet Show the other day?
 
 "A blockbuster that will go down in tokusatsu history"… Sounds pretty big.

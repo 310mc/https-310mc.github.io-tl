@@ -198,7 +198,7 @@ Ahh, please don't worry about me.
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_midori2_3.jpg %}
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 Our seniors really will graduate, won't they…
 
 A lot has happened the past year…

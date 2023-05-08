@@ -237,7 +237,7 @@ I-I have to p-prepare… t-things f-for… *<th>(sobs)</th>*
 Tetora-kun, I dunno what he said, so could you translate for me?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 “Giant Baba will no longer be around, so I have to prepare offerings for him”… Maybe?
 
 Shinobu-kun… I know Giant Baba is a famous pro wrestler and all, but he retired waaay long ago.

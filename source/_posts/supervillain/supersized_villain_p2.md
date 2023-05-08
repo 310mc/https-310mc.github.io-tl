@@ -132,7 +132,7 @@ Good. …There’s still one person missing, though?
 Is “Takamine” skipping out on work?
 {% endbubble %}
 
-{% bubble Kanata thinking %}
+{% bubble Kanata northinking %}
 ah~… midori appears to be feeling [unwell].
 {% endbubble %}
 

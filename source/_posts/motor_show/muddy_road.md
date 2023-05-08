@@ -83,7 +83,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
     <p>A few days later, at night — On the way home after an all-out practice session with Ryuseitai-N…</p>
 </div>
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Huh… So *that’s* why you’ve been down lately…?
 
 'Cause our newcomers are dropping like flies…
@@ -129,7 +129,7 @@ I bet if I was cooler and actually had something going for me, then everyone wou
 I can't help feeling super disappointed in myself — I’m lacking in literally <em>everything</em>.
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Mmm… So it’s like, that type of personality is perfect as a coworker, but not so much as a boss, huh… Not that I would know.
 
 Though now that you mention it, you *do* give off the vibe of a boss people would easily underestimate.
@@ -347,7 +347,7 @@ Nah, c’mon. I mean, last year you kept going on about being depressed or wanti
 That’s the sorta unit we inherited, so it doesn’t make sense for us to throw away other kids who don’t feel like doing anything.
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Mm… Oh yeah, didn’t you also always say how things were different from what you expected last year?
 
 I think you wanted to be in Akatsuki first, right…? Didn’t you used to complain about that at first? Like, you always looked like you didn’t feel as if this was where you belong.
@@ -409,7 +409,7 @@ What’s that supposed to mean? I wanted to discuss all sortsa things with Moris
 Also, it’s just natural for sportsy peeps to greet their seniors, y’know?
 {% endbubble %}
 
-{% bubble Midori thinking %}
+{% bubble Midori northinking %}
 Ahhh… You know, it’s possible the newbies dislike that side of you…
 
 I mean, a bunch of them are more of the nerdy type who love tokusatsu shows, sooo…

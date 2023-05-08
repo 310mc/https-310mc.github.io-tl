@@ -476,7 +476,7 @@ it is because that [rogue] has always liked [old-fashioned] things, and souma li
 Makes sense, since he’s a samurai of the old ages~ Wait— Kanata-kun, you’re talking like you know all about him. Were you two *that* close?
 {% endbubble %}
 
-{% bubble Kanata thinking %}
+{% bubble Kanata northinking %}
 hm… his father is a high-ranking [police] officer, you see. so his father would often come to my [house] for [inspection].
 
 so, well… i would see him often as well. it has been like that since long ago.

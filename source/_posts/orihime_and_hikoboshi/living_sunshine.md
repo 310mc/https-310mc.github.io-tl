@@ -356,7 +356,7 @@ They're super busy setting out the bamboo for the tanzaku[^5], and making foodâ€
 It looks like they can get rewarded for it so well, they won't even need to get up onstage.
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Hm. That wouldn't be a reward in their eyes. Those kids always want to be up on the stage.
 {% endbubble %}
 

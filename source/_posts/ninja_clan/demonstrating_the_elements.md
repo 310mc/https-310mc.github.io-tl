@@ -395,7 +395,7 @@ I agree with Tetora-kun! If you’re still indecisive, you could go with the one
 What’s up, Shinobu-kun?
 {% endbubble %}
 
-{% bubble Shinobu thinking %}
+{% bubble Shinobu northinking %}
 Hmm, I felt a gaze on me again…
 {% endbubble %}
 

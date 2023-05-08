@@ -130,7 +130,7 @@ I didn’t go *that* far!?
 Ahaha. Sometimes I do wish I could be more like Chi~chan-senpai, though. But there’s just no way I could get along with anyone and everyone the same way he does.
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 I know, right… I mean, he doesn’t even mind connecting with people who don’t really fit in, like you and me…
 
 He’s basically kind to just about anyone, isn’t he…
@@ -298,7 +298,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(It was just a ridiculously cheerful atmosphere from start to end…)</th>
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 <th>(Morisawa-senpai was also laughing the whole time…)</th>
 
 <th>(I thought he was gonna make us all cry with a big speech retelling our past memories or something…)</th>
@@ -406,7 +406,7 @@ You shouldn’t stay around for so long, y’know! Go back home, brush your teet
 Ah—… Um, no, I just left my bag in the classroom, so…
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 <th>(Huh…? I guess Morisawa-senpai wasn’t crying after all…?)</th>
 
 <th>(He’s got that usual dumb-looking smile on his face… Ah wait, but there’s traces of tears around his eyes…)</th>

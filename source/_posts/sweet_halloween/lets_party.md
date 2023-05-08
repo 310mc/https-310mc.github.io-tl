@@ -266,7 +266,7 @@ Morisawa-senpai, you really are bad with monsters, huh…?
 I’m not really good with them either, but seeing someone who's more afraid than me ends up making me feel calm instead…♪
 {% endbubble %}
 
-{% bubble Tetora thinking2 %}
+{% bubble Tetora srsthinking %}
 Uu~myu… I don’t feel like there’s any reason to be afraid, though.
 
 Everyone's walking around in monster costumes, but only a few of 'em are actually realistic-looking. Most of 'em are just cute ones!
@@ -422,7 +422,7 @@ I just can’t handle eggplants and monsters, no matter what I do… My trauma f
 …? Did it become hard to handle them due to a terrible incident?
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 There was a lot of creepy-looking stuff in the early tokusatsu shows, you see…
 
 When I was a young, innocent kid, I watched those without forethought… Then I’d cry from how scary they were, and eventually it just became too much to handle.
@@ -704,7 +704,7 @@ Oh yeah, we decided on this with Anzu. We’re zombie rabbits~♪
 What’s that…? I’ve never heard of it. Are you literally just zombie rabbits?
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 Ahhh, I see now… There were zombie dogs in some of the movies we watched with everyone…
 {% endbubble %}
 
@@ -858,7 +858,7 @@ We surprisingly always balance ourselves out.
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 N-Nagumo stole my chance to say our catchphrase…
 
 Dammit, I’m so frustrated… I’m going to lose face at this point; I’ve got to prove that I can miraculously turn the tables around to my side.

@@ -63,7 +63,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% bubble Chiaki thinking %}
+{% bubble Chiaki srsthinking %}
 Hmm… I see.
 {% endbubble %}
 
@@ -275,7 +275,7 @@ Huh? Uhh, I dunno how to answer that on the spot…
 Um, I guess I think of historical plays…?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Shinobu-kun is always talking ‘bout ninjas in every single way, so I never really considered it.
 
 But I guess it’d be their history, or like, historical plays… Basically, the old stuff.

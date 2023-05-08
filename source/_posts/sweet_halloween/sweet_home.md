@@ -560,7 +560,7 @@ Mm~… Hey, is it just me, or is Morisawa-senpai acting weird lately…?
 Is he not always weird?
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 No, I meant it like… he’s not acting like himself… It’s like he’s always scared of something…
 
 He seems so nervous over everything that he's overwhelmed… He doesn’t even pester me as much as he used to…
@@ -598,13 +598,13 @@ Mm… No, I’m the one who’s sorry… I’m also shocked by my own reaction�
 But no, really… Hasn’t Morisawa-senpai been kinda off…?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Yeah, now that you mention it… He *has* been a li'l quieter than usual lately.
 
 He hasn’t been his usual positive self… I mean, he didn’t seem pumped up 'bout participating in the Halloween Party, either.
 {% endbubble %}
 
-{% bubble Midori thinking2 %}
+{% bubble Midori srsthinking %}
 You think so…? Ahh, now that I think about it, he never even mentioned it until you asked him whether we’d be joining it or not, right…?
 
 He’d usually be really excited to get things going, and start poking his nose around in everyone else’s business…
@@ -944,7 +944,7 @@ I think it’s 'cause there’s a fundamental difference between how Hajime and 
 Hey, Tetora… Am I cute?
 {% endbubble %}
 
-{% bubble Tetora thinking %}
+{% bubble Tetora northinking %}
 Hweh? Mm~… Yeah, you are. Cute enough that I forget you’re my age. You look like a li'l kid, which is normally cute.
 {% endbubble %}
 
