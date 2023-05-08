@@ -166,7 +166,7 @@ It turned out to be quite an amusing story in the end — The ever perceptive Yu
 Fufu. But it was so adorable that I couldn’t help but try to imitate it. ♪
 {% endbubble %}
 
-{% bubble Chiaki angry3 %}
+{% bubble Chiaki glare %}
 Mm. I’ll be frank with you; when you do it, it feels really suggestive and disturbing. It’s just scary.
 {% endbubble %}
 

@@ -293,7 +293,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(I made the right choice by entrusting the kids to Trickstar.)</th>
 {% endbubble %}
 
-{% bubble Chiaki smug %}
+{% bubble Chiaki snicker %}
 <th>(I felt pathetic that I couldn't do a single thing for them — I couldn't even see them or support them, but…)</th>
 
 <th>(I'm absolutely certain *you* three can go anywhere, even without me around. Of course, I still plan to stay by your sides, and watch over you as much as I can, but…)</th>

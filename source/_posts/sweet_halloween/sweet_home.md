@@ -520,7 +520,7 @@ i would not eat him, you know~ he would probably [burn] my [tongue] if i did.
 Ah, Taichou-dono is being crushed by a box of decorations… Ahaha, he is completely covered in ghosts~♪
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! Nope!
 {% endbubble %}
 

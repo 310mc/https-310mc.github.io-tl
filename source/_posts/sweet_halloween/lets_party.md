@@ -724,7 +724,7 @@ Now it yearns to see its owner again and comes back on the night of Halloween to
 Wow, that’s kinda cute… That sort of thing is just like Ra*bits…♪
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 Really? I find that super scary! Moving stuffed toys are terrifying!
 {% endbubble %}
 
@@ -880,7 +880,7 @@ you [should not] intrude on their festival\~ let’s [relax], and enjoy it in ou
 The kids are growing up to be strong and amazing. I really got to see and feel that from the bottom of my heart this time around.
 {% endbubble %}
 
-{% bubble Chiaki smug %}
+{% bubble Chiaki snicker %}
 I’m so happy, Kanata. Our dreams, our wishes keep coming true.
 
 With our comrades in Ryuseitai, even world peace is achievable! If we’re together, we could defeat all evil, and turn any ideal into a reality!

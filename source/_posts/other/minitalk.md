@@ -15,7 +15,7 @@ permalink: minitalk/
 
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
 
-Mini Talk translations by 310mc.
+<big><b>Mini Talk translations by 310mc.</b></big>
 
 <!-- more -->
 

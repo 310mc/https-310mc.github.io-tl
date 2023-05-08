@@ -255,7 +255,7 @@ And Kanata and I will be able to graduate without any worries…☆
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki smug %}
+            	{% bubble Chiaki snicker %}
               You're going to make me blush if you say that so eagerly…♪
 
               But I’m the one who’s indebted to you. I’m sure I put a lot of work on you.

@@ -90,7 +90,7 @@ It seems like there’s some kind of signal jam around the Crimson Production he
 That’s why no phone calls make it through from inside or near the building.
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 My initial guess was that Nagumo and Sengoku had their phones confiscated and then destroyed, but… It seems like it’s a lot more dangerous than I had originally anticipated.
 
 A signal-jamming generator, of all things… At this point, you may as well tell me we’re in a tokusatsu or sci-fi story. It’s even capable of finding great use as a military weapon.
@@ -640,7 +640,7 @@ Hey, Taichou, what were you just telling me oh-so-proudly earlier? “It’s our
 So I wouldn’t be wrong to assume that this means that Crimson Production is on the side of justice, would I?
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 Guhhh… This is so frustrating. There’s nothing I can even say to counter that…
 {% endbubble %}
 

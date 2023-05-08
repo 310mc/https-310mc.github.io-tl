@@ -114,7 +114,7 @@ It was still a very nice idea! I really thought you were ignoring me for a secon
 Woah, nice defense! You're not that tall, Buchou[^1], but you make up for it by being really good at jumping.
 {% endbubble %}
 
-{% bubble Chiaki smug %}
+{% bubble Chiaki snicker %}
 Heheh\~♪ Overcoming your weaknesses is what it means to be a hero\~☆
 {% endbubble %}
 

@@ -649,7 +649,7 @@ What the…!? Huh? Taichou? Shinkai-senpai?
 W-Why're you two on stage? And you’re even wearing clothes that match our outfits for Repayment Festival…!
 {% endbubble %}
 
-{% bubble Chiaki smug %}
+{% bubble Chiaki smug3 %}
 Is there any problems with that? We’re also Ryuseitai, at least for now!
 
 Heheh. Takamine said something particularly interesting, so when I asked Anzu about it…

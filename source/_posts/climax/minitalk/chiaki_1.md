@@ -100,7 +100,7 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki smug %}
+            	{% bubble Chiaki snicker %}
               So that’s it, I see, I see!
 
               But there’s no reason to feel lonely — This is no eternal parting!

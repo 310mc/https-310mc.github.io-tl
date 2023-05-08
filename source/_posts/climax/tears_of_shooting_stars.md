@@ -190,7 +190,7 @@ I often get injured during my stunt work, so I know how to treat small injuries!
 *Ugh,* you’re so loud… I’m not injured anywhere, okay… You’re all panicking <em>way</em> too much…
 {% endbubble %}
 
-{% bubble Chiaki angry3 %}
+{% bubble Chiaki glare %}
 Then why are you crying? Anzu, Sengoku, please give me a full report of what happened!
 {% endbubble %}
 

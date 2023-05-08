@@ -92,7 +92,7 @@ It’ll be fine, won’t it? Hard work should be rewarded, right? If people like
 If *you* can’t be happy, then people like me are screwed~♪
 {% endbubble %}
 
-{% bubble Chiaki angry3 %}
+{% bubble Chiaki glare %}
 What’s that supposed to mean…? What are you going to do after graduation, Hakaze? Did you actually give it any thought?
 {% endbubble %}
 

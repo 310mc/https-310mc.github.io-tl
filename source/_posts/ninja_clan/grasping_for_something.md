@@ -581,7 +581,7 @@ Why did you go with an eggplant baron!? Weren’t there plenty of other options 
 Huh? Didn’t you always say that the stronger the enemy, the better? So I chose something powerful enough for you to struggle with.
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 Gghh!? That isn’t how I expected my words to be interpreted…!
 
 But it *is* true that I struggled to hold back from blocking you on sight, even when I knew it was you behind the message…!

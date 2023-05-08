@@ -1288,7 +1288,7 @@ We can now leave our work aside, and focus on the main issue at hand!
 It’s only when it’s least necessary that he’s super fast to work…
 {% endbubble %}
 
-{% bubble Chiaki frown2 %}
+{% bubble Chiaki frustrated %}
 In fact, this is what I should’ve done yesterday! I regret not taking action earlier…! Due to my careless decisions, even Sengoku has fallen prey to them!
 {% endbubble %}
 
