@@ -63,7 +63,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="Hero Game"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="/hero_game" class="storyName" target="_blank">
         <span>Hero Game</span>
         <span class="read"></span>
     </a>
@@ -87,7 +87,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="When I Drifted Ashore"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="/when_i_drifted_ashore" class="storyName" target="_blank">
         <span>When I Drifted Ashore</span>
         <span class="read"></span>
     </a>
@@ -107,13 +107,13 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/eventstory/graduation/subaruorigcg.jpg"
-            alt="Study Heroes"
+            src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
+            alt="Graduation"
         />
     </div>
-    <a href="/study_heroes" class="storyName" target="_blank">
-        <span>Study Heroes</span>
-        <span class="read"></span>
+    <a href="" class="storyName" target="_blank">
+        <span>Graduation (Chiaki scenes only!)</span>
+        <span class="read soon"></span>
     </a>
 </div>
 </div>

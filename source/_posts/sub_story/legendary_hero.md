@@ -298,7 +298,7 @@ Ahh~… I get how Ultraman feels now. Just a few minutes is enough to drain you 
 {% endbubble %}
 
 {% note narration %}
-**Note:** This story was released on Aug 26th 2017, and was the first story to reveal Ryusei Rainbow.
+**Note:** This story was released on August 26th 2017, and was the first story to reveal Ryusei Rainbow.
 {% endnote %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
