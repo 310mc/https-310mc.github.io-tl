@@ -172,7 +172,7 @@ A-Aight!
 {% endbubble %}
 
 {% bubble Shinobu frown2 %}
-………
+…………
 {% endbubble %}
 
 {% bubble Chiaki serious %}

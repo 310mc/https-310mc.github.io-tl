@@ -12,7 +12,6 @@ tags:
 - Idol Story
 - Akira
 description: "[ES!] Translation of a Midori sub story, featuring Ryuseitai. Chiaki decides to play superheroes with everyone in Ryuseitai to better their understanding of heroes…"
-hidden: true
 permalink: hero_game/
 ---
 
@@ -330,4 +329,4 @@ Ughh, I can’t freaking take it anymore with these idiots…!
 
 ## Translation Notes
 
-[^1]: More information on <em><a href="https://en.wikipedia.org/wiki/Kata" target="_blank">kata</a></em>.
+[^1]: More information on <em>kata</em> <a href="https://en.wikipedia.org/wiki/Kata" target="_blank">here</a>.

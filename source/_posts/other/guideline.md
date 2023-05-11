@@ -59,6 +59,23 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
+            alt="Graduation"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Graduation (Chiaki scenes only!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+</div>
+
+<h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/herogame/c1.jpg"
             alt="Hero Game"
         />
@@ -104,81 +121,4 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         <span class="read"></span>
     </a>
 </div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
-            alt="Graduation"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Graduation (Chiaki scenes only!)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-</div>
-
-<h2>※ Finished uploading the following <a href="/translations" target="_blank">translations</a> to this site:</h2>
-
-<div class="stories">
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/crossroad/chiakicgframe_300px.jpg"
-                alt="Crossroad"
-            />
-        </div>
-        <a href="/crossroad" class="storyName" target="_blank">
-            <span>Crossroad (Chiaki Scenes Only!)</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
-                alt="Aquarium"
-            />
-        </div>
-        <a href="/aquarium" class="storyName" target="_blank">
-            <span>Aquarium</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
-                alt="Sweet Halloween"
-            />
-        </div>
-        <a href="/sweet_halloween" class="storyName" target="_blank">
-            <span>Sweet Halloween</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/scoutstory/beasts/tetoracgframe_300px.jpg"
-                alt="Beasts"
-            />
-        </div>
-        <a href="/beasts" class="storyName" target="_blank">
-            <span>Beasts</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe_300px.jpg"
-                alt="Orihime and Hikoboshi"
-            />
-        </div>
-        <a href="/orihime_and_hikoboshi" class="storyName" target="_blank">
-            <span>Orihime and Hikoboshi</span>
-            <span class="read"></span>
-        </a>
-    </div>
 </div>

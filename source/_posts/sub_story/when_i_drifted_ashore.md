@@ -7,14 +7,14 @@ categories:
 tags:
 - Idol Story
 - Akira
-description: "[ES!] Translation of a Kanata sub story. Kanata meets Anzu somewhere near the hospital…"
+description: "[ES!] Translation of a Kanata sub story. Kanata meets Anzu near the hospital…"
 permalink: when_i_drifted_ashore/
 ---
 
 ![](/img/es/idolstory/driftedashore/c1.jpg)|![](/img/es/idolstory/driftedashore/c2.jpg)
 :-:|:-:
 
-Kanata meets Anzu somewhere near the hospital…
+Kanata meets Anzu near the hospital…
 
 This story is connected to the card [hospitalization] Kanata Shinkai.
 

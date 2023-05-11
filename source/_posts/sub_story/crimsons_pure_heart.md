@@ -112,7 +112,7 @@ Wow, you’re awesome, Taishou! I’m in awe!
 {% endbubble %}
 
 {% bubble Kuro %}
-That isn’t why I’m here. Since you’re here, this must mean it’s classroom 1-A, right?
+That’s not why I’m here. Since you’re here, this must mean it’s classroom 1-A, right?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -192,7 +192,7 @@ U-Um… Did I ever do something to anger you?
 {% endbubble %}
 
 {% bubble Kuro %}
-…That isn’t why we’re here.
+…That’s not why we’re here.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -200,7 +200,7 @@ I-I’m so sorry. I’m being a shameless first year, aren’t I? But I really, 
 {% endbubble %}
 
 {% bubble Kuro %}
-No, really, that isn’t what I’m tryna say.
+No, really, that’s not what I’m tryna say.
 
 My bad. I look like a punk, so I must’ve given you the wrong idea.
 
@@ -286,7 +286,7 @@ It makes ya that happy to know that this Carrotian dude is popular?
 {% endbubble %}
 
 {% bubble Midori %}
-Yes. He’d been struggling for a long time as a low man — low *mascot* on the totem pole.
+Yes. He’d been struggling for a long time as a low man— low *mascot* on the totem pole.
 
 I’m from a greengrocer, so that’s another reason why I’ve been secretly cheering him on… I’m so, so happy to hear that he’s finally getting popular…♪
 {% endbubble %}
@@ -308,4 +308,4 @@ Okay, I’d be glad to…♪
 ## Translation Notes
 
 [^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Tough_Guy" target="_blank">Tough Guy</a>.
-[^2]: You can see how Carrotian looks on Kuro's <a href="https://ensemble-stars.fandom.com/wiki/%28Carrot%27s_Relations%29_Kuro_Kiryu" target="_blank">bloomed card</a>.
+[^2]: You can see how Carrotian looks on Kuro's bloomed card (see the card images at the top of this page).

@@ -103,7 +103,7 @@ Mmmrph—!?
 Shh, shhh…! Please, *please* don’t speak so loudly…!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki hidden %}
 Heeey, Takamine! Where did you go\~! Come on out wherever you are\~!
 {% endbubble %}
 
@@ -114,7 +114,7 @@ N-Neither of you tell him I’m here, please…! I’m begging you…!
 {% endbubble %}
 
 {% bubble Tomoya %}
-Phew…! Ahh geez, don’t cover my mouth outta nowhere…
+Phew…! Ahh jeez, don’t cover my mouth outta nowhere…
 
 …Wait, huh?
 {% endbubble %}
@@ -158,7 +158,7 @@ Anyway, that guy’s a third year, right? Is he chasing after you ‘cause you m
 {% endbubble %}
 
 {% bubble Midori %}
-No, he just comes over to pick me up from class every time we have club practice, which is super annoying… so I had to run away…
+No, he just comes over to pick me up from class every time we have club practice, and it’s super annoying… so I had to run away…
 
 Ughhh, it’s already bad enough that we’re in the same unit together — why does he have to pester me when it comes to the club, too… so depressing…
 {% endbubble %}
@@ -212,7 +212,7 @@ Dunno… I was told we’ll be doing something soon enough, so something should 
 
 And actually, there were way more first years at first, but they all ran away thanks to that masked freak. I’m the only one left.
 
-…Like I said, if Hokuto-senpai weren’t there, I would’ve ran away myself.
+…Like I said, if Hokuto-senpai wasn’t there, I would’ve ran away myself.
 
 That’s just how mentally tiring it is to be alone with that masked freak.
 
@@ -300,7 +300,7 @@ Break a leg, Takamine!
 {% endbubble %}
 
 {% bubble Midori %}
-Arghh, dammit— Don’t just *stand* there…!
+Arghh, dammit — Don’t just *stand* there…!
 
 I wish I never said anything if it was gonna end like this…!!
 {% endbubble %}
