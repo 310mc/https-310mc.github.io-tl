@@ -9,7 +9,7 @@ categories:
 - [Enstars, Tomoya]
 tags:
 - Idol Story
-- Kino Seitaro
+- Yuuki Yoshino
 description: "[ES!] Translation of a Midori sub story, featuring Tomoya, Hajime, and Chiaki. Tomoya and Hajime find out Midori is hiding from Chiaki to avoid something…"
 permalink: melancholic_club_activities/
 ---
@@ -40,7 +40,7 @@ This story is connected to the card [Senpai Discussion] Midori Takamine.
                     Writer
                 </div>
                 <div class="value">
-                    Kino Seitaro
+                    Yuuki Yoshino
                 </div>
             </div>
             <div class="info-item two">
