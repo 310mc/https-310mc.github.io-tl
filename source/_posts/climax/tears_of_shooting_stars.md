@@ -194,7 +194,7 @@ I often get injured during my stunt work, so I know how to treat small injuries!
 Then why are you crying? Anzu, Sengoku, please give me a full report of what happened!
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 I’m so sorry! It’s all my fault for neglecting you guys this whole time!
 
 However, I truly believed that you would be able to overcome any and all difficulties by yourselves!
@@ -300,7 +300,7 @@ I realized that I really didn't wanna let it go, either, so I came all the way t
 I thought that if we talked it through, he’d understand. No, I truly *believed* that he felt the same way.
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 But I was wrong. Y'know, I really can't do what Taichou does.
 
 I just don’t have it in me to sacrifice myself for another person's sake — especially if it meant I'd be hated and found annoying 'cuz of it.
@@ -332,7 +332,7 @@ I started to feel that tokusatsu shows were nothing but lies — that there was 
 I cursed the heroes I loved, and there were even nights when I cried myself to sleep.
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 But I still picked myself back up every time… I pushed myself to solve through each and every problem. I struggled and struggled until I could call myself a man worthy of inheriting the red color.
 
 I still don’t even know if I did everything right. There’s no hero out there who has failed as many times as I have.
@@ -376,7 +376,7 @@ Well, either way… I understand how you feel. …I won’t blame you anymore, M
 I won’t unfairly get angry, so please talk to me.
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 We're both the same age, and I don't plan to inherit Ryusei Red and Taichou's seat 'til our seniors have graduated.
 
 For now, we’re equal members of this unit, so I can’t order you around as if I know better than you.
@@ -490,7 +490,7 @@ I wish I could’ve been born to look like you! I’m sure Taichou feels the sam
 We were so envious and so captivated by you! We wanted to see you shine even more!
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 But all along, were we just pushing our own selfish wishes onto you?
 
 Was it all seriously just a huge bother to you? 'Cuz if it was, then you should’ve said so a long time ago!

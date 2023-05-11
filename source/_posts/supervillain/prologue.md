@@ -193,7 +193,7 @@ With that, we’d have hurt each other the same amount, and we can call it even.
 …Except, what I took from you doesn’t even compare with that one punch you threw on me.
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 What’s *with* you? I *just* said that I accept the situation as it is. Yet you keep persistin’ otherwise, over and over and over again—
 {% endbubble %}
 

@@ -544,7 +544,7 @@ I don't really wanna work with people like that.
 …………
 {% endbubble %}
 
-{% bubble Hokuto angry %}
+{% bubble Hokuto glare %}
 Hey! Akehoshi! Don't start scolding them! We didn’t know left from right when we were first years either, and just went with the flow.
 
 When you're still a novice, it's necessary to ask for instructions, and do exactly as you're told.
@@ -1290,7 +1290,7 @@ Isara-dono~ Over here, over here! I can see the festival~♪
 Don't pull me, Sengoku… Man, your hand is really warm… Little kids have warmer body temperature~♪
 {% endbubble %}
 
-{% bubble Shinobu angry3 %}
+{% bubble Shinobu glare %}
 I'm not a little kid! Everyone has gone ahead of us. We have to hurry over, or we will be left behind!
 {% endbubble %}
 

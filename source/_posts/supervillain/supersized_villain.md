@@ -150,7 +150,7 @@ Hah?
 At the very least, I’m glad to confirm that you’re safe. How’s Sengoku? He isn’t hurt, is he?
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 Do you even *know* what’s going on here?
 
 You’re trespassing on private property. I have the authority to detain and interrogate you.
@@ -238,7 +238,7 @@ The situation is overwhelmingly in our favor. I’d rather not waste energy grap
 
 {% img /img/es/eventstory/supervillain/supersizedvillainch2_1.jpg %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 …? Were you always *this* stupid…?
 
 If you don’t, this is what’s gonna happen.
@@ -264,7 +264,7 @@ Haha. Taken aback, are you, Taichou? I’m sure you’ve experienced a lot of fl
 Or, what? Did you really think I wouldn’t actually hit you?
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 Either way, you’re always *so* naive!
 
 You need to wake up already! You should at least know the difference between reality and fantasy!
@@ -274,7 +274,7 @@ We aren’t in a tokusatsu show here!
 I’m so *sick* and tired of being subjected to your hobbies!
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Nagumo… Guh— <th><em>(cough, cough)</em></th>…
 {% endbubble %}
 
@@ -532,7 +532,7 @@ I intentionally spoke aloud for that reason, and lied to you as if Kanata and Ta
 I was intentionally misinforming you guys.
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 Ugh, I was wondering why you were all alone when you’re such a pushover—
 
 —This guy’s a decoy! There are other guys from Ryuseitai breaking in! Don’t let them get away! Capture them all!
@@ -558,7 +558,7 @@ If we can secure it and escape safely, it’ll be our victory.
 Crimson Production would collapse and go bankrupt. And you, as an employee of this corporation, would be able to wash your hands from all the evil.
 {% endbubble %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 …And here I thought you were nothing but an idiot…
 
 So what? Sure, we’ve taken your bait, and now security at the headquarters is a little thin. And sure, maybe you’ll be able to at least get in touch with Sengoku-kun, or search the building.

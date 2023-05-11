@@ -140,7 +140,7 @@ Huh? Wait, you don’t know either? I haven’t heard from him, so I was a littl
 I really thought he would’ve told you something.
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 And I thought that he would have told <em>you</em> all about it… You didn’t hear anything either? Really…?
 
 I wonder if he’s going to be alright… He could just disappear without a trace the moment we graduate.

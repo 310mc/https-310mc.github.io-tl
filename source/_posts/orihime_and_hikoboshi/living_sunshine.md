@@ -526,7 +526,7 @@ Ooh?
 Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 
-{% bubble Hokuto angry %}
+{% bubble Hokuto glare %}
 What!? Have you gone mad, Isara!? It doesn't matter if it's you — that's still unforgivable!
 {% endbubble %}
 

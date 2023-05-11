@@ -304,7 +304,7 @@ I want you, Trickstar, to take care of my juniors in Ryuseitai for a bit.
 Hweh? What do you mean?
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Mm… You might've noticed by now, but my body hasn't been in good shape for a while… I’m going for a checkup at the doctor’s this weekend.
 {% endbubble %}
 

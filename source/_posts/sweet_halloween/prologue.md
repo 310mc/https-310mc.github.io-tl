@@ -107,7 +107,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 <th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 <th>(But…… Ahhh, I really don’t wannaa~! Eggplants and *that* are the only things my instincts can’t deal with! I can never love them…! I’m a failure of a hero!!)</th>
 
 <th>(Someone who would accept anything and everything — Who would love everything, and bring peace to the world! That’s the kind of hero I wanted to be!)</th>

@@ -146,7 +146,7 @@ Ahaha, I’m sure it means you really will live for a long time. …Alright, her
 Mhm, here you go. It’s my White Day gift to you. ♪
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Mm…? What is this, an envelope?
 {% endbubble %}
 
@@ -348,7 +348,7 @@ i am worried. shall we check how they are [doing] after this?
 Let’s wait and see. I’m also going out of my mind with worry, but…
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 From now on, they have to walk on their own feet. They can’t be spoiled by us forever.
 
 I know a hero’s role is to fearlessly rush over when your allies are in a predicament, but… From here on out, it’s going to be a little harder to do that, as well.

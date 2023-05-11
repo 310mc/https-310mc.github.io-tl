@@ -754,7 +754,7 @@ Heheh. Yeah, I do hope we'll have the spotlight all for ourselves someday.
 MaM is aaall in this, too! Hahaha, calling out our unit names one by one makes it feel like we’re in some strategy meeting! This is fun~♪
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Oh, okay… Uuu\~… Alright, I’m only a novice, but I’ll do it.
 {% endbubble %}
 

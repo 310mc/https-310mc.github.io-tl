@@ -123,7 +123,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 
 {% img /img/es/eventstory/climax/minitalk_chiaki2_2.jpg %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Mm, I can’t believe Takamine saw me that day…
 
 I’m embarrassed at how hard I tried to put up a front to be cool…

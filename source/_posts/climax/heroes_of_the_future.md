@@ -544,7 +544,7 @@ Takamine. I was a sickly child, so I've done nothing but cause trouble for my fa
 That's why I wanted to be a great idol — to earn money and make things easier for my parents.
 {% endbubble %}
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 I was a clumsy person, so there wasn't much I could get right—
 
 But I was good at singing and dancing, and people have always found me likeable for some reason…
@@ -580,7 +580,7 @@ Everyone worries about their own lives, struggling, and causing trouble to those
 
 ## Chapter 4
 
-{% bubble Chiaki sad3 %}
+{% bubble Chiaki sad4 %}
 Takamine. The reason I tried to make Ryuseitai into a great, strong unit was because…
 
 …I wanted to be able to say I was the leader of a veteran unit.

@@ -1178,7 +1178,7 @@ Okay, I’ll see you soon, Anzu-chan. I know you were just enjoying your time sh
 <th>(Are they making fun of him? Bullying him and pushing him around…?)</th>
 {% endbubble %}
 
-{% bubble Arashi angry %}
+{% bubble Arashi glare %}
 <th>(…! No, I can’t let that happen! Tetora-kun doesn’t deserve to be picked on!)</th>
 
 <th>(Because all of this is *my* fault…!)</th>

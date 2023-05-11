@@ -33,6 +33,9 @@
 [character="Midori"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frown.png");
 }
+[character="Midori"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_glare.png");
+}
 [character="Midori"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_grin.png");
 }
@@ -189,8 +192,8 @@
 [character="Chiaki"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad2.png");
 }
-[character="Chiaki"][sad3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad3.png");
+[character="Chiaki"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad4.png");
 }
 [character="Chiaki"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_serious.png");
@@ -531,8 +534,8 @@
 [character="Shinobu"][angry2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_angry2.png");
 }
-[character="Shinobu"][angry3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_angry3.png");
+[character="Shinobu"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_glare.png");
 }
 [character="Shinobu"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_curious.png");
@@ -576,9 +579,6 @@
 [character="Tetora"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_angry.png");
 }
-[character="Tetora"][angry2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_angry2.png");
-}
 [character="Tetora"][angry3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_angry3.png");
 }
@@ -617,6 +617,9 @@
 }
 [character="Tetora"][frustrated] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_frustrated.png");
+}
+[character="Tetora"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_glare.png");
 }
 [character="Tetora"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_grin.png");
@@ -754,14 +757,14 @@
 
 /** Hokuto Expressions
 ***/
-[character="Hokuto"][angry] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_angry.png");
-}
 [character="Hokuto"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_frown.png");
 }
-[character="Hokuto"][sad3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_sad3.png");
+[character="Hokuto"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_angry.png");
+}
+[character="Hokuto"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_sad4.png");
 }
 [character="Hokuto"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hokuto_serious.png");
@@ -1108,23 +1111,20 @@
 
 /** Arashi Expressions
 ***/
-[character="Arashi"][angry] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_angry.png");
-}
 [character="Arashi"][angry2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_angry2.png");
 }
 [character="Arashi"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_awkward.png");
 }
-[character="Arashi"][beastscg] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_beasts.png");
-}
 [character="Arashi"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_curious.png");
 }
 [character="Arashi"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_frown.png");
+}
+[character="Arashi"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_glare.png");
 }
 [character="Arashi"][sad] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_sad.png");
@@ -1152,6 +1152,11 @@
 }
 [character="Arashi"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_worried.png");
+}
+
+
+[character="Arashi"][beastscg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_beasts.png");
 }
 /**
 ***/

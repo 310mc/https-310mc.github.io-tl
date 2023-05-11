@@ -375,7 +375,7 @@ Gwah!? W-Why did you suddenly charge at me, my comrades!? Were you brainwashed b
 
 {% img /img/es/eventstory/climax/epilogue2_3.jpg %}
 
-{% bubble Tetora angry2 %}
+{% bubble Tetora glare %}
 What “enemy”… You’re both late! We were worried you wouldn’t even come, y'know!? Just what took you so long!?
 {% endbubble %}
 
