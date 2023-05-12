@@ -1,12 +1,13 @@
 ---
-title: "[ES!!] 8th Anniversary (Ryuseitai Only)"
-date: 2023-5-1 9:00:00
+title: "[ES!!] 8th Anniversary (In progress!)"
+date: 2023-5-12 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 tags:
+- Happy Elements K.K.
 - Extra
-description: "[ES!!] Translation of 8th Anniversary content for Ryuseitai"
-hidden: true
+description: "[ES!!] Translation of 8th Anniversary content."
 ---
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -54,46 +55,77 @@ hidden: true
 
 <!-- more -->
 
+## Anniversary Quote
 
-#### <div mt="rare"></div> 1/3
+{% img /img/es/anniversary/8th/quotetetora.jpg %}
 
-{% img /img/es/eventstory/STORYLINK/minitalk_ADD_NAME1_1.jpg %}
+{% bubble Tetora smile3 %}
+No matter how stained with mud I get, I'll continue to run down the path of hard work. Please watch over me 'til I become a great man!
+{% endbubble %}
 
-{% bubble ADDNAME %}
-sdfsf
+{% img /img/es/anniversary/8th/quotechiaki.jpg %}
+
+{% bubble Chiaki grin %}
+You can always call my name if you ever need me! I'll always come rushing for you at full speed for the sake of making you smile…☆
+{% endbubble %}
+
+<p><b>Note 1:</b> Tetora's quote appeared alongside the leaders' anniversary quotes.</p>
+<p><b>Note 2:</b> The rest of Ryuseitai will be in autumn.</p>
+
+## Ryuseitai One with One Mini Talk
+
+{% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}
+
+{% bubble Tetora v2 %}
+Ossu! Thanks for guiding us with the rehearsal, Anzu-anego!
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+We're surely going to have a wonderful performance that will make all our fans happy. I noticed how particular you were with each performance piece!
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+I am very excited to go around the venue on a gondola! Watching the audience from above is going to be a fresh feeling.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            As for the gondola…
         </div>
         <div class="minitalk-option_content">
-            {% bubble ADDNAME %}
-            sdfsf
-			{% endbubble %}
+        {% bubble Midori curious %}
+        …It's a pretty large-scale set-up, so we should manage to surprise the audience? That's true…
+        {% endbubble %}
+        {% bubble Kanata v2 %}
+        i hope we can make them happy with lots of [fanservice]~♪
+        {% endbubble %}
+        {% bubble Tetora v2 %}
+        We're gonna fill everyone in the venue with hope and energy for sure~!
+        {% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            sdfsf
+            It's the perfect use of a wide avenue.
         </div>
         <div class="minitalk-option_content">
-            {% bubble ADDNAME %}
-            sdfsf
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            sdfsf
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble ADDNAME %}
-            sdfsf
-			{% endbubble %}
+        {% bubble Chiaki grin %}
+        Yep! I'm excited just thinking of how many people will get to experience our performance.
+        {% endbubble %}
+        {% bubble Midori frown %}
+        <em>Sigh</em>… That all the more means we have even more attention on us, so we can't mess it up. I'm nervous…
+        {% endbubble %}
+        {% bubble Shinobu v2 %}
+        It is crucial that we enjoy this as ourselves, in the way that suits us best! Let's make sure to make the place exciting on the day of the event, as well!
+        {% endbubble %}
         </div>
     </div>
 </div>
 
-<div toc>{% btn /STORY_LINK,, star, Index %}</div>
+<hr>
+
+## SPP Quotes
+
+
+<div toc>{% btn /translations#Other,, star, Index %}</div>
