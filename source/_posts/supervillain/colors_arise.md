@@ -83,7 +83,7 @@ That wish of yours is an unstoppable
 Meteor that soars through the sky freely
 (Your light!)
 
-What you’ll protect
+What we’ll protect
 (Your resolve)
 All of it
 (Your courage)
@@ -118,7 +118,7 @@ Believe in that
 Various colors!
 They sound together, reverberating that they are all justice
 
-Look here, I’ll send you a signal
+Look here, If it’s a signal you need, I’ll send you one
 You’re bound to understand it, aren’t you?
 That’s right, that’s the white light that embraces the infinite colors
 We reflect one another within our eyes, those respectable hues
@@ -141,7 +141,7 @@ That’s right, this is my color, and I’ll proudly make it shine
 You can see it within your eyes, can’t you? All the hues reaching you
 That’s right, time has already been engraved
 This vow will surely signalize our future as well
-The steps we’ve taken are like shooting stars
+The steps we’ve taken are like meteors
 (We are shooting stars.)
 Now, let’s move forward
 With the ensemble formed through our resolve

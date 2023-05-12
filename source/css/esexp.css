@@ -1037,10 +1037,21 @@
 /**
 ***/
 
+/** Nagisa Expressions
+***/
+[character="Nagisa"][v2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa2.png");
+}
+/**
+***/
+
 /** Jun Expressions
 ***/
 [character="Jun"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun2.png");
+}
+[character="Jun"][v3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun3.png");
 }
 /**
 ***/
