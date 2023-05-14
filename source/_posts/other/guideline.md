@@ -41,7 +41,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 
 ## Currently Working On
 
-<h2>※ Translating Ryuseitai-related stories:</h2>
+<h2>※ Translating the following stories:</h2>
 
 <div class="stories">
 <div class="story">
@@ -65,6 +65,30 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
     </div>
     <a href="" class="storyName" target="_blank">
         <span>Graduation (Chiaki scenes only!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/ninjarain/shinobucgframe_300px.jpg"
+            alt="Shinobu FS2"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Shinobu FS2</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/scoutstory/mangaclub/maobcgframe_300px.jpg"
+            alt="Manga Club"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Manga Club</span>
         <span class="read soon"></span>
     </a>
 </div>

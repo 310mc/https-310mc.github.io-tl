@@ -474,44 +474,6 @@ hidden: true
                         </li>
                     </ul>
                 </div>
-              <!--  <div class="mini-talks">
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
             </div>
         </div>
     </div>

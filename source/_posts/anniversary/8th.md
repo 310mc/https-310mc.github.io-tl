@@ -125,7 +125,30 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
 
 <hr>
 
-## SPP Quotes
+## One with One Talk 9
 
+{% bubble Chiaki v2 %}
+Ohh!? Look, you guys! Don't you think this game suits us perfectly!?
+{% endbubble %}
+
+{% bubble Tetora curious %}
+Hm? What did you find?
+
+Erm… "T♡l♡pathy Game"?
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+It seems that you pass the round every time you make the same pose as the idol. It sounds fun!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+we all have our own personal hero [pose], so we can definitely [telepathically] match each other~
+{% endbubble %}
+
+{% bubble Midori worried %}
+Um, but that wouldn't really play by the game's rules, would it…? It's not meant to be that sorta game, right…?
+{% endbubble %}
+
+<hr>
 
 <div toc>{% btn /translations#Other,, star, Index %}</div>
