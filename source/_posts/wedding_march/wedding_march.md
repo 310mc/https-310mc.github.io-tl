@@ -215,26 +215,58 @@ hidden: true
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/kanataorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
                                     <img src="/img/es/eventstory/weddingmarch/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Prologue
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/tatsumiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Red Diamond 6
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/weddingmarch/junorigcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Red Diamond 7
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/weddingmarch/nagisaorigcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Red Diamond 10
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/weddingmarch/tatsumibcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Red Diamond 12
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/weddingmarch/nagisabcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Red Diamond 12
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/weddingmarch/junbcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Red Diamond 12
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -242,39 +274,7 @@ hidden: true
                                     <img src="/img/es/eventstory/weddingmarch/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/kanatabcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
+                                    Red Diamond 12
                                     </div>
                                 </div>
                             </div>

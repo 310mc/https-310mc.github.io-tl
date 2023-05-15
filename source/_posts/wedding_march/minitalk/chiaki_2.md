@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Wedding March!. From Anzu's 
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki1_1.jpg %}
+{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki v2 %}
 Oh! Anzu! You're at StarPro today, huh?
@@ -101,7 +101,7 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki1_2.jpg %}
+{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_2.jpg %}
 
 {% bubble Chiaki v2 %}
 Oh yeah, you're joining us for the recording at Kyoto, right?
@@ -151,6 +151,8 @@ Is there anything you'd like to see or try in the city?
 </div>
 
 #### <div mt="rare"></div> 3/3
+
+{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_3.jpg %}
 
 {% bubble Chiaki v2 %}
 Whenever I go to a different prefecture, I can't help but look for their designated hero.

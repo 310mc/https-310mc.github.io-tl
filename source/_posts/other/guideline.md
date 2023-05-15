@@ -99,7 +99,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="Wedding March!"
         />
     </div>
-    <a href="/wedding_march" class="storyName" target="_blank">
+    <a href="" class="storyName" target="_blank">
         <span>Wedding March!</span>
         <span class="read"></span>
     </a>
