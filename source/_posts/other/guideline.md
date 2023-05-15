@@ -87,7 +87,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="Manga Club"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="manga_club" class="storyName" target="_blank">
         <span>Manga Club</span>
         <span class="read soon"></span>
     </a>
@@ -99,9 +99,9 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="Wedding March!"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="wedding_march" class="storyName" target="_blank">
         <span>Wedding March!</span>
-        <span class="read"></span>
+        <span class="read soon"></span>
     </a>
 </div>
 </div>

@@ -165,7 +165,7 @@ I'd love to hear all sorts of things from the hero of Kyoto! ♪
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll try lookiing for him, too.
+          I'll try looking for him, too.
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}

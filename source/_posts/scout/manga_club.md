@@ -19,7 +19,6 @@ tags:
 - Story Index
 description: "[ES!!] The Manga Club plan to go to the MANGA EXPO event. They decide to participate in the “The Ultimate Manga Quiz Showdown”."
 permalink: manga_club/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
