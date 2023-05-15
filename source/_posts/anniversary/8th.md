@@ -125,14 +125,14 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
 
 <hr>
 
-## One with One Talk 9
+## Heart to YOU FES Talk 9
 
 {% bubble Chiaki v2 %}
 Ohh!? Look, you guys! Don't you think this game suits us perfectly!?
 {% endbubble %}
 
 {% bubble Tetora curious %}
-Hm? What did you find?
+Hm? What didja find?
 
 Erm… "T♡l♡pathy Game"?
 {% endbubble %}
@@ -142,11 +142,11 @@ It seems that you pass the round every time you make the same pose as the idol. 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-we all have our own personal hero [pose], so we can definitely [telepathically] match each other~
+we all have our own personal hero [poses], so we can definitely [telepathically] match each other~
 {% endbubble %}
 
 {% bubble Midori worried %}
-Um, but that wouldn't really play by the game's rules, would it…? It's not meant to be that sorta game, right…?
+Um, but then we wouldn't really play by the game's rules, would we…? It's not that sorta game, right…?
 {% endbubble %}
 
 <hr>

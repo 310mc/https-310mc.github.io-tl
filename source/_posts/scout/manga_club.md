@@ -445,14 +445,16 @@ hidden: true
     </div>
 </div>
 
-## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Translation-Notes">Translation Notes</a>
+<hr>
 
 {% note narration %}
 Translation in progress!
 {% endnote %}
 
 <!--
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Translation-Notes">Translation Notes</a>
+
 ## Chapter 1
 
 <div class="msr-season winter">

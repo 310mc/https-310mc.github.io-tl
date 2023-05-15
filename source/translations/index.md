@@ -694,6 +694,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/detourencounter/c1.jpg"
+            alt="A Detour Encounter"
+        />
+    </div>
+    <a href="/a_detour_encounter" class="storyName" target="_blank">
+        <span>A Detour Encounter</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/bodybuildingbros/c2.jpg"
             alt="Together, We Are the Bodybuilding Bros!"
         />

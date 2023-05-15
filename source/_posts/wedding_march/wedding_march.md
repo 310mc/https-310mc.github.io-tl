@@ -1,22 +1,23 @@
 ---
-title: "[ES!!] TBA"
-date: 2023-5-15 9:00:00
+title: "[ES!!] Wedding March! (In Progress!)"
+date: 2023-5-15 9:10:00
 categories:
 - [Enstars, ES!!]
 tags:
+- Yuumasu
 - Story Index
 description: "[ES!!] Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
-hidden: true
 permalink: wedding_march/
+hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/chiakibcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/weddingmarch/chiakibcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="/prologue">Start Reading</a></div>
+                <div class="title-area__title">Wedding March!</div>
+                <div class="title-area__subtitle">ウェディングマーチ！</div>
+                <div class="title-area__start"><a href="/wedding_march/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -36,7 +37,7 @@ permalink: wedding_march/
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            19
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -44,7 +45,7 @@ permalink: wedding_march/
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Yuumasu
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -56,6 +57,16 @@ permalink: wedding_march/
                         <a href="/categories/Enstars/Jun" character="Jun"></a>
                         <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                         <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
+                        <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                        <a href="/categories/Enstars/Shu" character="Shu"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+                        <a href="/categories/Enstars/Jin" character="Jin"></a>
+                        <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+                        <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+                        <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -94,14 +105,14 @@ permalink: wedding_march/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/junorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/weddingmarch/junorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/eventname/chiakibcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/weddingmarch/chiakibcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__title">Wedding March!</div>
+                <div class="title-area__subtitle">ウェディングマーチ</div>
                 <div class="title-area__start">
                     <a href="/prologue">Start Reading</a>
                 </div>
@@ -124,7 +135,7 @@ permalink: wedding_march/
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            19
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -132,7 +143,7 @@ permalink: wedding_march/
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Yuumasu
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -144,6 +155,16 @@ permalink: wedding_march/
                         <a href="/categories/Enstars/Jun" character="Jun"></a>
                         <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                         <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
+                        <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                        <a href="/categories/Enstars/Shu" character="Shu"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+                        <a href="/categories/Enstars/Jin" character="Jin"></a>
+                        <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+                        <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+                        <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -194,7 +215,7 @@ permalink: wedding_march/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -202,7 +223,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakiorigcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -210,7 +231,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -218,7 +239,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -226,7 +247,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -234,7 +255,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -242,7 +263,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -250,7 +271,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanatabcg.jpg">
+                                    <img src="/img/es/eventstory/weddingmarch/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -264,32 +285,16 @@ permalink: wedding_march/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
+                            <a href="" id="none">White Diamond</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
+                            <a href="" id="none">Red Diamond</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -298,8 +303,8 @@ permalink: wedding_march/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Part One</a>
+                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

@@ -71,7 +71,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/ninjarain/shinobucgframe_300px.jpg"
+            src="/img/es/idolstory/ninjarain/c1.jpg"
             alt="Shinobu FS2"
         />
     </div>
@@ -92,18 +92,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         <span class="read soon"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
-            alt="Wedding March"
+            alt="Wedding March!"
         />
     </div>
     <a href="/wedding_march" class="storyName" target="_blank">
-        <span>Wedding March</span>
+        <span>Wedding March!</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 </div>
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>

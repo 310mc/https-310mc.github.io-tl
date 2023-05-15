@@ -245,4 +245,4 @@ Yeah, we owe this bonding session all to exercise…♪
 <div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: This is a reference to <a href="https://hyenahunt.tumblr.com/post/663687909863555072/jun-sazanami-4-feature-scout-a-detour" target="_blank">A Detour Encounter</a>.
+[^1]: This is a reference to <a href="/a_detour_encounter" target="_blank">A Detour Encounter</a>.
