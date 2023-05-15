@@ -284,7 +284,7 @@ permalink: wedding_march/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="" id="none">Prologue</a>
+                            <a href="/prologue" id="none">Prologue</a>
                         </li>
                         <li>
                             <a href="" id="none">White Diamond</a>
