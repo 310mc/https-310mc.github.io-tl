@@ -165,7 +165,7 @@ hm? i am [cherished] by my family…?
 well, that is because i am a very, very important [living god].
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 fufu, more importantly… anzu-san, are you hungry?
 
 the [worshipers] brought me many [gifts]. lots of [fruit] and [sweets]…

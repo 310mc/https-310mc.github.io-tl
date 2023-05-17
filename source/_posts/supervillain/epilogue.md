@@ -133,7 +133,7 @@ I’ve been getting a lotta requests lately ‘cuz of that. I’m happy that the
 At this point, RB may be making more money than Ryuseitai itself.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Surprisingly, people like bad guys, too… Or more like, they enjoy seeing stuff ‘bout heroes who struggle between justice and evil.
 
 Like, RB’s real popular among chuunibyou kids, for one thing.[^1]
@@ -165,7 +165,7 @@ supervillains is extremely [popular], after all, even though only the first part
 Of <em>course</em> it’d be very popular. It has a lineup of all-time favorite heroes that have a massive, passionate fan base. On top of that, it’s undeniably a masterpiece with a godly script and direction.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Oh, you were alive, huh?
 {% endbubble %}
 

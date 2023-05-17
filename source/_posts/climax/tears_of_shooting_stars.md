@@ -130,7 +130,7 @@ midori\~? tetora\~? are you two alright?
 Oh! You’ve arrived, Kanata. Sorry for running off on my own.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 that is the [usual].
 {% endbubble %}
 
@@ -340,7 +340,7 @@ I still don’t even know if I did everything right. There’s no hero out there
 Anyone would have felt too disheartened to continue watching and would have changed the channel before the story could have reached its climax.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 But that’s only my story. Yours is still in the preview phase.
 
 You’ll always have a chance to recover, and your future is dazzling bright. So don’t give up, Nagumo.

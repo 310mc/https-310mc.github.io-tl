@@ -575,7 +575,7 @@ Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 <th>(Then I’ll take him to the infirmary. Hmm, what’s the fastest way to get there…?)</th>
 {% endbubble %}
 
-{% bubble Shinobu smile2 %}
+{% bubble Shinobu norsmile %}
 Isara-dono.
 
 You need not worry. I am alright.

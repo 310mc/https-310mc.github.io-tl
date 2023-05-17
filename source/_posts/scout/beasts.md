@@ -1380,7 +1380,7 @@ But even if that’s true… I won’t let it depress me. I won’t whine about 
 Anyone who can love themselves like that is charming, no matter their gender… Don’t you think so?
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 …Yeah. I think so too. I wanna be like you, Narukami-senpai.
 {% endbubble %}
 

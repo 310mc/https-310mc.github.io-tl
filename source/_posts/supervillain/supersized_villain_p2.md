@@ -266,7 +266,7 @@ It was turned into a tunnel by the looks of it, and you can get to another area 
 Maybe they used it as an evacuation spot for the actors whenever gunpowder was used during filming… I wouldn’t really know, though.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Huh, I didn’t even know that existed. A tunnel… Maybe we could use it as an escape route, as a last resort.
 {% endbubble %}
 
@@ -282,7 +282,7 @@ That would be a little too careless on their side, yeah.
 Anyway, I did as you told me to… Was that enough?
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yeah. We were all supposed to come back here to call over “Midori-kun”, who refuses to come in for work.
 
 Until we persuade him to come, we can move around freely. We can have private discussions here without being seen, since we also know where the surveillance cameras are.
@@ -290,7 +290,7 @@ Until we persuade him to come, we can move around freely. We can have private di
 They may catch on if we keep repeating this over and over again, but it should still be okay for now. Midori-kun’s famous for being the “unmotivated character”.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 Yeah. In fact, it’s really surprising that even Takamine stuck around in this dangerous place. He could’ve run back to ES as soon as he had the chance…
 
 He’s been a man with an element of surprise this time around.
@@ -501,7 +501,7 @@ Ever since I was a little kid, that feeling has never once left me.
 
 ## Chapter 12
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 I love my parents and my friends. I was surrounded by nothing but kind, wonderful people.
 
 My parents have always praised me and loved me. To this very day, they both work from morning to night, day in and day out, to earn money for my tuition and living expenses.
@@ -583,7 +583,7 @@ Even if I were to get badly hurt and fade away, I wouldn’t have regretted any 
 Nagumo…
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yeah, don’t worry. I’m no longer desperate enough to put myself through any of that.
 
 I have friends and comrades who love me. I have juniors who admire me and depend on me. I have fans who pay attention to me and want to see more of me.
@@ -737,7 +737,7 @@ Y-You disliked playing the hero of justice that much!? You could’ve told me so
 Did it <em>look</em> like we could ever mention that?
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yeah. The usual Ryuseitai that everyone loves was created by Morisawa-senpai back in his generation. He broke the old ties and swept away the horrible practices.
 
 That was how Morisawa-senpai was able to make Ryuseitai be reborn — as the ideal hero sentai, just as he wished it to be.
@@ -769,7 +769,7 @@ Or the idiot Morisawa-senpai, who tried to take in all the hatred during Comet S
 <th>(We’re such idiotic, weak, foolish, tiny beings that it’s almost absurd to call ourselves heroes.)</th>
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 <th>(But even so—)</th>
 {% endbubble %}
 
@@ -823,7 +823,7 @@ I’ll believe in that. I’ll pour all my hope into it.
 
 ## Chapter 14
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 So… I’m leaving this red uniform with you for now.
 
 This is the color <em>you</em> should be wearing.
@@ -911,7 +911,7 @@ Yeah, because having no money is the same as having no head. Though that also me
 Take Supervillains, for example. It had come to a halfway standstill due to the disputes of all parties involved, but it might start moving forward if a large amount of gasoline in the form of money is poured into it.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yeah, and it really did happen. Supervillains has regained enough vitality to hold a promotional event for the project like this.
 
 All thanks to the glorious Crimson Production, huh?
@@ -941,7 +941,7 @@ But before we let them… Before they twist the facts—
 We’ll betray Crimson Production on this very stage.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yeah, that’s the plan we settled on.
 
 We were actually spies sent by ES to investigate the evil organization, Crimson Production.
@@ -987,7 +987,7 @@ Will they really be convinced…? Isn’t it *too* aggressive?
 Like… “We tried to replicate this exact storyline in real life, too! What do you think? Isn’t it interesting?” — Wouldn’t that be a little offensive? It’s too tasteless of a joke, don’t you think…?
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 Well… We’ll just have to be patient and persistently explain to the public that we had no other choice.
 
 What’s important here is that we fulfill our duty, whether forcefully or otherwise.
@@ -1035,7 +1035,7 @@ Mhm, mhm. I barely had to do anything this time, y’know? And yet, here I am, g
 Life is so nice and easy when someone else does all the work to solve the problem without you ever lifting a finger.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 You weren’t having an easy time either, though. You’re so worn out that you have circles under your eyes, Takamine. You did your best, too. We *all* did our best.
 {% endbubble %}
 

@@ -176,7 +176,7 @@ fufufu, i could say the [same] about [you], too, rogue~♪
 I’d really like it if you could stop calling me that already… I thought we got really close to each other after spending two weeks with everyone, y'know?
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 fufufu. since you are keeping your [distance] from [us], i cannot [reach close] to you from my own position, either.
 
 even if i do want to get close, the [water tank] is in the way, you see?
@@ -294,7 +294,7 @@ It’s just gotten even worse after watching all those movies during the sleepov
 Hahaha, looks like the plan to get you used to them failed, huuuh?
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 fufu. it is not that [easy] to [overcome] your [weaknesses].
 
 unlike you, most people cannot [easily] manage to [do] things just by getting into it… mama.
@@ -874,7 +874,7 @@ although, i do suppose it is much [better] to do that than to treat everything w
 you [should not] intrude on their festival\~ let’s [relax], and enjoy it in our own way\~♪
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 …Yeah. You’re right, I don’t need to act big, as if I’ve got to do everything myself, do I?
 
 The kids are growing up to be strong and amazing. I really got to see and feel that from the bottom of my heart this time around.

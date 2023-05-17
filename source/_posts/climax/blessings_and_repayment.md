@@ -174,7 +174,7 @@ Mm. I’ll be frank with you; when you do it, it feels really suggestive and dis
 Is that so? Come now, Shinkai-kun, I’ll also give you a cookie. ♪
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 mm~ there is no [reason] for me to take it, is there?
 {% endbubble %}
 
@@ -396,7 +396,7 @@ Rather, the one I’m actually worried about is Akatsuki. Say, Shinkai-kun — K
 Did you know that he’s missing?
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 ah, yes. i came here to [ask] about that, actually. i thought the [temple guy] would know where souma is.
 {% endbubble %}
 

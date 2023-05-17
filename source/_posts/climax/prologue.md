@@ -121,7 +121,7 @@ I know it’s my own fault, but everyone’s been kinda keeping their distance f
 I mean, not even my *family* talks to me without attaching an honorific to my name.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 wouldn’t a girl gladly call you “kaoru”?
 {% endbubble %}
 

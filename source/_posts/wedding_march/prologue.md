@@ -175,6 +175,6 @@ I’ll be the one to protect Sazanami and the world’s peace…! ☆
 <!--
 <div toc>
 {% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/1,, arrow-right, Next Chapter: TBA (Chapter 9–15) %}
+{% btn /wedding_march/white_diamond,, arrow-right, Next Chapter: White Diamond %}
 </div>
 -->

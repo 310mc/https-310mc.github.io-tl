@@ -192,7 +192,7 @@ no, not really~ chiaki is chiaki in the end, so…
 i do not think he would [treat] me any differently whether i explained it or not.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 if that is the case, then i do not want to give him something so [heavy] to bear.
 
 and if he already knows but is [pretending] not to, then i prefer to [respect] that [gentle lie].
@@ -332,7 +332,7 @@ I’m kinda concerned about my juniors in UNDEAD, though…
 I feel like Sakuma-san’s bad side is coming out… Y’know, how he can be waaay too careful, and just ends up hitting a nerve instead.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 ahh… rei can be like that sometimes.
 {% endbubble %}
 
@@ -360,7 +360,7 @@ You’re such a mom, Kanata-kun.
 …Ah, sorry. Sakuma-san wants me to go see him for some reason, so I’m gonna head back to school.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 okay~ what does rei [want]?
 {% endbubble %}
 

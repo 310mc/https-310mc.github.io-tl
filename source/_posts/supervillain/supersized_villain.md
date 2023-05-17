@@ -139,7 +139,7 @@ If we don’t report, contact, or consult you, you’ll grow anxious and come to
 You’ve always been exactly like an overprotective parent.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 Nagumo… I’m so glad to see you’re doing alright.
 {% endbubble %}
 
@@ -337,7 +337,7 @@ But unlike how it was then, this time around was no accident. I hit you with ful
 Though, I was still a hero back then, and right now, I’m a villain to the very core.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 Yeah, you surprisingly suit that role as well, Nagumo.
 
 I may have been destroying your potential for the sake of my dreams all this time.
@@ -359,7 +359,7 @@ I even thought that the heroes you admired matched the ideal that I should aspir
 The ideal man among men, that I’ve been striving to become since I was a little kid.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 Ah, I see. How about now?
 
 Is there still a hero at the end of the path you’re walking?
@@ -439,7 +439,7 @@ That’s why I couldn’t complain to anyone. I just couldn't let myself whine �
 That’s why I tried to get through the days by always pretending to be an idiot who didn’t think or feel anything. I just smiled and laughed, convincing myself that I was happy.
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 And then, on that starry night — I met Kanata, who had lived a much more pitiful life than I, and had never been treated as a human being—
 
 That mask of mine, of a crudely drawn smile, was completely smashed to pieces by Kiryu and Akehoshi—
@@ -583,7 +583,7 @@ Our generation has survived the Yumenosaki War Era, days that you’ve never exp
 ………
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 I wouldn’t ever barge into a dangerous place like this without any precautions or preparation in the first place.
 
 Regardless, even if I *do* get killed or otherwise disappear, Tenshouin will make his move. I made sure those arrangements were set in place before we left.
@@ -599,7 +599,7 @@ And if the supreme Tenshouin Zaibatsu comes into play here, the fate of Crimson 
 ………
 {% endbubble %}
 
-{% bubble Chiaki smile2 %}
+{% bubble Chiaki norsmile %}
 I’ll say it a hundred times more. This time, it’s my victory — *our* victory, Nagumo.
 
 Your biggest mistake was to choose the path of evil. And typically, this isn’t something said to the loser, but—
@@ -681,7 +681,7 @@ You will need to maintain a villainous demeanor in your posture and manner of sp
 After all, while you may have been able to clear the area by telling everyone that you’ll be the one to interrogate us, we do not know when the Crimson Production staff will come back.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Okay. I’ve gotten used to speaking in this tone now, anyway. I used to talk like this when I was young, and it’s starting to come back to me.
 {% endbubble %}
 
@@ -921,7 +921,7 @@ This is all a big pain somehow, so I’m just gonna stay quiet throughout the wh
 There is some stuff I personally wanna say to Tetora-kun, though.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 *Oh?* Well, I’ll hear you out later, then.
 
 There are a couple of things I’d like to talk to you all about, as well.
@@ -973,7 +973,7 @@ Yep, everything went just as planned! Mission complete~♪
 …? Didn’t our plan fail…?
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Ah, well— Ohh, I get it now, this really *was* a success — just as he planned. Morisawa-Taichou’s goal was likely to attract the fighters in charge of security over to his side.
 
 And that’s exactly what happened — practically all of our combatants fell for the bait and charged over to him.
@@ -1015,7 +1015,7 @@ Why would you think that? I couldn’t care less about Tetora-kun, but since *Sh
 That’s why I sucked it up and did my absolute best, even though I was literally scared out of my wits.
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Heheh, the one with the biggest potential in Ryuseitai is and always has been “Takamine-kun,” huh?
 {% endbubble %}
 
@@ -1035,7 +1035,7 @@ He seemed to have noticed my message, too.
 …a message?
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 Yep. Among the many things I changed about myself, one of them is the way I speak — yet I kept calling Morisawa-Taichou by the title “Taichou”.[^4]
 
 If I really did hate ES enough to defect and become the leader of the “RB” group, then there’d be no reason for me to still call him by that title.

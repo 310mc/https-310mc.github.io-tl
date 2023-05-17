@@ -587,7 +587,7 @@ and we made it an [objective] to work hard, and not let go of the [aquarium].
 They’re softer on you than one would expect. Throwing a tantrum uuusually doesn’t get things through, y’know?
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 yes, it is because i am a very, very important [living god]. people would [yield] to me in most cases.
 
 well, it is also thanks to the [pressure] you put on them, though. in this [time period], the god’s [position] is [weak].
@@ -673,7 +673,7 @@ and actually, when i was [all alone] inside that water tank…
 i did start [thinking] about how silly i was acting, and i thought of giving up altogether…
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 but then everyone came here for me. and then you [helped] me to the best that you could.
 
 without ever [rejecting] me, you supported and aided me.

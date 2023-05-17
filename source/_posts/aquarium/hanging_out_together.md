@@ -409,7 +409,7 @@ I hate to say this, but I'm not a genius like you are, so I have to be mindful o
 That’s what you call “swimming the current of life”. You'll only make everyone's lives harder if you don't note of it, as well.
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 okay. i will not forget these [memories] with everyone… never ever.
 {% endbubble %}
 

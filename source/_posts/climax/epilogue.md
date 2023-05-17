@@ -253,7 +253,7 @@ Kanata-kuuun! Moricchi~!
 Over here, over here! C'mon, Ryusetai’s up next, y'know~♪
 {% endbubble %}
 
-{% bubble Kanata smile2 %}
+{% bubble Kanata norsmile %}
 kaoru. …your eyes seem [red]. were you crying?
 {% endbubble %}
 
@@ -499,7 +499,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(So I’m going to take risks and devote my whole self to this.)</th>
 {% endbubble %}
 
-{% bubble Tetora smile4 %}
+{% bubble Tetora norsmile %}
 <th>(I’m clumsy, so I can’t do things right at all.)</th>
 
 <th>(It won't go according to how I hope, like it did for Taichou or Taishou, or even a hero from a tokusatsu… not even like a protagonist from a story.)</th>
