@@ -291,7 +291,7 @@ Huh…!? Ninjas are off-limits for this job!?
 Uu… Forbidding my ninja-self was the last thing I expected when I mentioned that a ninja off-duty is no longer a ninja…
 {% endbubble %}
 
-{% bubble Yuta %}
+{% bubble Yuta hair %}
 Ahaha, you got it rough, huh~? I mean, ninja is the first thing that comes to mind when anyone sees you, and vice versa. It’s your very identity, isn’t it?
 {% endbubble %}
 
@@ -299,7 +299,7 @@ Ahaha, you got it rough, huh~? I mean, ninja is the first thing that comes to mi
 Indeed… But I understand where Anzu-dono is coming from.
 {% endbubble %}
 
-{% bubble Yuta %}
+{% bubble Yuta hair %}
 Hm? What do you mean?
 {% endbubble %}
 
@@ -313,7 +313,7 @@ I believe that is one of the reasons why she wants to show who I am aside from n
 So, I shall follow her wishes to the best of my ability, and seal off “ninja” from myself!
 {% endbubble %}
 
-{% bubble Yuta %}
+{% bubble Yuta hair %}
 Haha, but I feel like your loyalty is kind of on brand for a ninja…?
 
 I get it, though. It’s good to have a lot of tricks up your sleeve, while still establishing your main selling point.

@@ -52,6 +52,14 @@ description: "[ES!!] Chiaki and Jun decide to plan their own bridal project. The
 
 <!-- more -->
 
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+
+<!--<div class="msr-location">
+    <p><span><b>Location:</b> ADD</span></p>
+</div>-->
+
 {% img /img/es/eventstory/weddingmarch/prologue_1.jpg %}
 
 {% bubble Chiaki %}
@@ -63,9 +71,9 @@ This reminds me of my school days. The Track &amp; Field Club would often let me
 
 We mostly ran around the school premises, but there were times we ran up a mountain, too. It was always pretty tough, having to run along dangerous paths more suitable for wild animals…
 
-But the scenery at the top of the mountain was always worth witnessing for yourself. It’d make all my exhaustion fly away.
+But the scenery at the top of the mountain was always stunning. It’d make all of my exhaustion fly away.
 
-And it always made me feel like I accomplished something! It’s like I grew one bit stronger every time.
+But most of all, it always made me feel like I accomplished something amazing! It’s like I grew a bit stronger every time.
 
 A hero’s all about overcoming trials, after all…☆
 {% endbubble %}
@@ -73,21 +81,21 @@ A hero’s all about overcoming trials, after all…☆
 {% bubble Tatsumi %}
 —Wonderful work, Chiaki-san.
 
-They’ve finished inspecting the area, so we only need to signal that we’re ready now.
+They’ve finished inspecting the area, so we only need to inform them that we’re ready.
 
 It’s almost time… Are you mentally prepared?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yep, no problems here! I can move any time!
+Yep, no problems here! I can start any time!
 {% endbubble %}
 
 {% bubble Tatsumi %}
-I expect nothing less from you. I pray for your success… May God protect you. Amen…♪
+I expected nothing less from you. I pray for your success. May God protect you. Amen…♪
 
 All right, let’s begin.
 
-“Chiaki-san. Do you vow to pour your soul in saving your partner, in sickness and in health?”
+“Chiaki-san. Do you vow to save your partner, and pour your heart and soul, in sickness and in health?”
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -105,43 +113,43 @@ All right, let’s begin.
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>Sound of an explosion</p>
+    <p>The screen shakes with a sound of an explosion</p>
 </div>
 
 {% bubble Makoto %}
-“Hello! I’m Yuuki Makoto, acting as your sudden live host simply because I’m a member of the broadcasting committee at my school!”
+“Hello! I’m Yuuki Makoto, acting as your impromptu live host simply because I’m a member of the broadcasting committee at my school!”
 
-“And so the final game begins! Its name — ‘Obstacle Competition Course Vowing Your Life’”!
+“And so the final game begins! Its name — ‘Obstacle Course Contest: Vowing Your Life’”!
 
 “That being said, there is only one competitor! If one had to give him an opponent, it would be himself!”
 
-“Morisawa-senpai— No, allow me to call him the player! Please witness the player’s battle!”
+“Morisawa-senpai— No, let’s call him the player! Please witness the player’s battle!”
 
-“First up: ‘Life Full of Twists and Turns ☆ The 100-Meter Race!’ After that, he has to pass through three checkpoints, and slice the cake at the end point with his own hand! With that, he’ll have completed his goal!”
+“First up: ‘Life Full of Twists and Turns ☆ The 100-Meter Race’! After that, he has to pass through three checkpoints, and slice the cake at the final point! With that, he’ll have completed his goal!”
 
 “But if he doesn’t make it within the time limit—”
 
 “His partner, Sazanami-kun, will explode!”
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/prologue_2.jpg %}
-
 <div class="msr-narration">
     <p>Slides to another area…</p>
 </div>
 
+{% img /img/es/eventstory/weddingmarch/prologue_3.jpg %}
+
 {% bubble Jun v3 %}
 …Oh, Senpai started running. Looks like it’s finally begun~
 
-You’ve got this, Morisawa-senpai~ …Wait, he can’t hear me from here.
+You’ve got this, Morisawa-senpai~ …Wait, he can’t even hear me from here.
 
-Anyway, why’d you make it sound like *I’ll* explode? It’s not me who’s exploding, it’s the wedding cake next to me…
+Anyway, why’d he make it sound like *I’ll* explode? It’s not me who’s exploding, it’s the wedding cake beside me…
 
 …Well, at least we were <em>supposed</em> to have a model of one here… Also, what’s with the ticking sound behind me?
 
-Uu~ I’m tied to the pole, so I can’t check what it is…
+Uu~ I’m tied to the pillar, so I can’t check what it is…
 
-Why’s the bridal project turning out to be like *this…*?
+Why’s the bridal project turning out to be like *this~…*?
 {% endbubble %}
 
 <div class="msr-narration">
@@ -155,13 +163,13 @@ Why’s the bridal project turning out to be like *this…*?
 </div>
 
 {% bubble Chiaki %}
-Fuhahaha! The gunpowder is exploding as I keep running, just as planned!
+Fuhahaha! The gunpowder is exploding behind me as I run, just as planned!
 
-There’s a reason this film studio is so famous, after all! Their timing is perfect! It feels thrilling knowing I could be caught in one of the explosions if I’m even a second too slow!
+There’s a reason this film studio is so famous! Their timing is flawless, after all! It feels thrilling knowing I could be caught in one of the explosions if I’m even a second too slow!
 
-Wait for me, Sazanami! I’ll make sure to slice that cake with my own hand!
+Wait for me, Sazanami! I’ll make sure to slice that cake!
 
-I’ll be the one to protect Sazanami and the world’s peace…☆
+I’ll be the one to protect Sazanami and the world’s peace…! ☆
 {% endbubble %}
 
 <!--
