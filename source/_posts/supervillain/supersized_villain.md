@@ -706,7 +706,7 @@ Ehh~… I dunno what it is, but I don’t really vibe with this Tetora-kun… He
 I mean, if we weren’t in the same unit, I doubt we’d have ever spoken to each other in the first place, you feel me?
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Yeah, I know what you mean… Fate’s really a strange thing, isn’t it?
 {% endbubble %}
 

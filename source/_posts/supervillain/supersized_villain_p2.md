@@ -642,7 +642,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “ryusei black, number three! shinkai kanata!”
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 “The embodiment of the blackened earth and great nature! Ryusei Black No.4, Takamine Midori!”
 {% endbubble %}
 
@@ -718,7 +718,7 @@ yes, but~ it is surprisingly [fun] to [imitate] someone~♪
 Exactly what a “transformation” is all about.
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Well, it works as a good rehearsal for the filming of Supervillains…
 
 With the usual Ryuseitai, I don’t really get to play as a villain ‘cause Morisawa-senpai doesn’t like those roles much, so this feels new…

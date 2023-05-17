@@ -236,7 +236,7 @@ Horr—…!? Huh!? Why're you…!? It isn’t the season for ghost stories anymo
 Besides, uh, there’s no TV in the dojo! So you can’t watch a movie, right!?
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 That’s not a problem, I brought over everything we need…
 
 There was an extra monitor in the AV room, right? I got permission from Anzu-san to use it…
@@ -536,7 +536,7 @@ So there’s no reason why *you* should be the only one to get away with saying 
 U-Uuu! It hurts when you say that!
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 <em><th>(whispering)</th></em> So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
 {% endbubble %}
 

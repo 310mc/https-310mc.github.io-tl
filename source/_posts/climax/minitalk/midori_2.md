@@ -184,7 +184,7 @@ Ahh, please don't worry about me.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori smile3 %}
+            	{% bubble Midori norsmile %}
 							Yes, I have to help my family after this.
 
         Everyone in the shopping district is preparing their stalls for the day of Repayment Festival.

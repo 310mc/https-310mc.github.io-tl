@@ -824,7 +824,7 @@ Ahh, man… If only I were lazing around at home, it would’ve been way more re
 Besides, no one’ll notice shooting stars if they don’t shine when they fly by… That'd be kinda sad, and maybe lonely…
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 That’s why I’ll do my best, at least once in a while…♪
 {% endbubble %}
 

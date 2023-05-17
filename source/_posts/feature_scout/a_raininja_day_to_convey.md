@@ -151,7 +151,7 @@ I don’t think *that’s* the thing to be embarrassed about here…
 I’m very glad you asked! I will have a photo shoot for my Feature Live’s pamphlet, so I have been practicing for it!
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Ohh, so that’s why you’re taking photos and everything… The pamphlet you’re talking about is the one with a candid shot of the featured idol, right? So you’re up next, huh…
 {% endbubble %}
 
@@ -219,7 +219,7 @@ Oh, right. I wanted to let you know that Himemiya-kun wants you at the Student C
 Eh? You came all the way here just to inform me that…? I apologize for the trouble… You could have just messaged me, you know?
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Yeah, I thought of doing that at first, but I wasn’t sure if you’d see it on time, so…
 
 I figured I may as well relay it in-person since I’m heading out anyway.
@@ -385,7 +385,7 @@ Shinobu-kun?
 Ah, Midori-kun! What a lovely coincidence!
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 I just finished work, so… I came to eat a late lunch, and that’s when I spotted you. Are you also here to eat?
 {% endbubble %}
 
@@ -501,7 +501,7 @@ Also, my partners Peachy and Thunder absolutely love the rain, so I can play wit
 Hm? What’s the matter?
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Oh, nah. I was just impressed, like, “Ah, that’s Shinobu-kun for you.” The way you can always look on the bright side of things is one of your best traits. I personally could never do that…
 
 I know it’s not as straightforward as a ninja image, but how about making a pamphlet that showcases all those good traits of yours?
@@ -531,7 +531,7 @@ Indeed they are… Water-drop art can only be displayed for a mere moment… It�
 <em>Way</em> too short-lived… Paper is always gonna be the best place to draw art in the end…
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Draw them on paper again when we head home, Shinobu-kun. How about we doodle mascot characters together? I wanna see you come up with a lot of cute stuff…
 {% endbubble %}
 

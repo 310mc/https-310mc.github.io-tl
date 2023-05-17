@@ -704,7 +704,7 @@ What’s so “depressing”!? What’s making you “want to die”!? Is this r
 Promise me that. This is my wish right now, so please make it come true, Ryuseitai.
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 You’re still part of Ryuseitai, aren't you…? So will you make my wish come true, too…?
 {% endbubble %}
 

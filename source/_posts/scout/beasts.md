@@ -1542,7 +1542,7 @@ But I felt somethin’ light up in me. I know for *sure* I can become a man amon
 One day, I’ll even become a man who can proudly stand in front of Taishou and Taichou — to everyone, even the *Sun* itself!
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Huh… I don’t fully get it, but you do seem a little different lately…
 
 Our classmates have been saying the same, too…

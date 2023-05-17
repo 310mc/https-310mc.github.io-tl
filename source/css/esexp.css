@@ -45,6 +45,9 @@
 [character="Midori"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_serious.png");
 }
+[character="Midori"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_norsmile.png");
+}
 [character="Midori"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_northinking.png");
 }
@@ -92,9 +95,6 @@
 }
 [character="Midori"][smile2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile2.png");
-}
-[character="Midori"][smile3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile3.png");
 }
 [character="Midori"][smile4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile4.png");

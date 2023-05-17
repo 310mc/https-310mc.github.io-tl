@@ -176,7 +176,7 @@ Either way, thank you so much for hearing me out, Anzu-san.
             You can always rely on me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile3 %}
+            {% bubble Midori norsmile %}
             Mmm~… I feel like I've said this before but, I don't feel right to give more work to someone who's already so busy…
 
             That's why this time around, I'm just grateful to know you feel that way. I don't really like it when all I do is just depend on others, anyway.

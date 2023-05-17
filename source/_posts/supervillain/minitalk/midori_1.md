@@ -66,7 +66,7 @@ Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have somet
             What is it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile3 %}
+            {% bubble Midori norsmile %}
             I just found out there's an anime with a kinda mascot-like, soft-looking protagonist.
 
             I wanted to watch it to heal myself a little. Are you watching it too, Anzu-san? I haven't yet, so I still don't know if it's interesting or not.
@@ -90,7 +90,7 @@ Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have somet
             Do you know of any interesting media?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile3 %}
+            {% bubble Midori norsmile %}
             Hmm… I don't really watch that much stuff, honestly.
 
             Ah— This one tokusatsu movie Morisawa-senpai showed me before was pretty interesting. I watched it a long time ago though, so I don't even remember the name anymore…
@@ -152,7 +152,7 @@ What about you, Anzu-san? Do you usually watch movies?
 
 {% img /img/es/eventstory/supervillain/minitalk_midori1_3.jpg %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 You were able to rent the DVD you wanted? I'm glad…♪
 
 We spent the whole time just talking about interesting series and our recommendations, that I didn't even realize the day went by…

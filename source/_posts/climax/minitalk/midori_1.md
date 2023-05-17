@@ -99,7 +99,7 @@ I just wanna go home and relax…
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori smile3 %}
+            	{% bubble Midori norsmile %}
 							Yes. We're going to have a farewell party at the Basketball Club.
 
         We'll celebrate our upperclassmen's graduation and have fun with sweets and stuff.
@@ -122,7 +122,7 @@ I just wanna go home and relax…
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_midori1_2.jpg %}
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 Hello, Anzu-san. What're you doing here so early in the morning…?
 
 Yes, I'm helping my family with the store.
@@ -141,7 +141,7 @@ If you're looking for a particular shop, I can help you.
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori smile3 %}
+            	{% bubble Midori norsmile %}
 							You'll cook some for lunch? Ahh, you'll cook food for you at the cafeteria…
 
         You make use of that in school, huh?
@@ -150,7 +150,7 @@ If you're looking for a particular shop, I can help you.
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori smile3 %}
+            	{% bubble Midori norsmile %}
 							…You want avocadoes? Yes, we have some.
               {% endbubble %}
               {% bubble Midori frown %}
@@ -171,7 +171,7 @@ If you're looking for a particular shop, I can help you.
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori smile3 %}
+            	{% bubble Midori norsmile %}
 							Ohh, you carry some in case anyone gets injured?
 
         …It's true that there can be a few small accidents when practicing a dance routine.

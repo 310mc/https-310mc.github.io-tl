@@ -132,7 +132,7 @@ I can’t deal with arguments or fights, so I’d run away as soon as things get
 Like, I don’t even talk to any friend from junior high anymore…
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 That’s why I always thought you two had it pretty lucky… I'm kinda jealous…
 
 You should make up with him as soon as possible… It’s pretty hard to find a lifelong friend like him…
@@ -788,7 +788,7 @@ Ah, I have air fresheners. There’s one with a nice odor, one that’s odorless
 I even have an odor neutralizer perfumers use~♪
 {% endbubble %}
 
-{% bubble Midori smile3 %}
+{% bubble Midori norsmile %}
 You’ve always got a lot of useful stuff with you, Shino-kun… You’re like Doraemon…♪
 {% endbubble %}
 
