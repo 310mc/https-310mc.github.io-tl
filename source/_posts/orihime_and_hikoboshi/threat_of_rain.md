@@ -480,7 +480,7 @@ Ah! I knew such things about the event, though!
 I helped Isara-dono and Anzu-dono on the plans by gathering necessary materials for them, you see.
 {% endbubble %}
 
-{% bubble Tetora angry4 %}
+{% bubble Tetora scold %}
 Oh? Really? Then you should've told us earlier!
 {% endbubble %}
 

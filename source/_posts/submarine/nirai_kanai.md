@@ -689,7 +689,7 @@ Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^1]
 No no no, absolutely no way! “Takamine Barricade” is powerless against an opponent with an *actual weapon!*
 {% endbubble %}
 
-{% bubble Kanata angry %}
+{% bubble Kanata scold %}
 —behave.
 {% endbubble %}
 
@@ -841,7 +841,7 @@ Hmm!? Did a kaijuu appear from the ocean!? Maybe King Caesar[^2]…!? ☆
 What on earth do you see Okinawa as?
 {% endbubble %}
 
-{% bubble Kanata angry %}
+{% bubble Kanata scold %}
 repent of your Deeds! repent of your Deeds!
 {% endbubble %}
 
@@ -875,7 +875,7 @@ All the religious people in the world must’ve suffered from such a lack of sym
 Um, I wouldn’t really…
 {% endbubble %}
 
-{% bubble Kanata angry %}
+{% bubble Kanata scold %}
 say you’re Sorry! say you’re Sorry!
 {% endbubble %}
 

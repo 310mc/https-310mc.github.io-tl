@@ -277,7 +277,7 @@ Uu~… I thought Nagumo-kun would understand how I feel, so I didn’t expect hi
 Ughh… Being in the same room as this bunch will just make you go crazy…
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 Ryusei Beam! Ryusei Beam!
 {% endbubble %}
 
@@ -309,7 +309,7 @@ Even a dumb game works just fine as a time-killer…
 *T-Transform…* One sec, I’ll go change my clothes in the hallway or something…
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 Ah—! He’s trying to get away! Not on our watch! Kanata, Sengoku, block his escape!
 {% endbubble %}
 

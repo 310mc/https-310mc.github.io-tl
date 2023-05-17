@@ -906,7 +906,7 @@ That’s why I want you two to be more harsh and just punch each other.
 There’s no way I could do that to Hajime… I’d rather die.
 {% endbubble %}
 
-{% bubble Tetora angry4 %}
+{% bubble Tetora scold %}
 Then what're you gonna do!? Are you just gonna waste time being nervous around each other!? That’s so irritating!
 {% endbubble %}
 

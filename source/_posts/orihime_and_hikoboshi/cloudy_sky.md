@@ -666,7 +666,7 @@ The practice session’s starting to look super bad! I apologize for interruptin
 W-woah, don't pull me over! Tell me what's happening first!
 {% endbubble %}
 
-{% bubble Shinobu angry %}
+{% bubble Shinobu scold %}
 Uuu…!!! I am a ninja who is bad at explanations…!
 
 “One eyewitness is better than many hearsays,” so! I beg thee, lend your ear to my plea! Come see for yourself, please!

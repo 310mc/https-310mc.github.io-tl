@@ -376,7 +376,7 @@ Uuu\~! They’re all western-inspired clubs\~! Actually, don’t *these* seem li
 Ah, yeah, about that… Apparently they got preeetty popular. There’s like, more than ten people in each club.
 {% endbubble %}
 
-{% bubble Shinobu angry %}
+{% bubble Shinobu scold %}
 Why!? Reality is so cruel…!
 
 Gnngh… I’m the only one who can protect the Ninja Association… It’s being overshadowed by so many other clubs around, correct!?

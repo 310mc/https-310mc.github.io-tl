@@ -274,7 +274,7 @@ if that were to happen, the [ice] in the [north pole] and in the [south pole] wo
 and the whole world would be [submerged] in water… and then there would be [ocean] wherever you look\~♪
 {% endbubble %}
 
-{% bubble Shinobu angry %}
+{% bubble Shinobu scold %}
 Shinkai-donoo~? Please stop saying terrifying statements, and withdraw yourself from the fountain!
 
 Come on out, the meeting will start very soon\~!
@@ -762,7 +762,7 @@ Oh, okay… Uuu\~… Alright, I’m only a novice, but I’ll do it.
 …? chiaki, you do not seem [up] for this… actually, you do not look so [energetic]; are you alright?
 {% endbubble %}
 
-{% bubble Tetora angry4 %}
+{% bubble Tetora scold %}
 Oh, c’mon~! Please get a hold of yourself, Taichou!
 
 This is a meeting of three units; you gotta be even more pumped up than usual! It can easily get chaotic with this many people, y'know!

@@ -322,7 +322,7 @@ But every bit of confidence I had is completely gone now — broken and shattere
 I still don't have what it takes to be Ryusei Red.
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 That isn’t true, Nagumo.
 
 Even I failed over and over at the start. I couldn't get anything right at all — to the point where just seeing the red color made me feel sick.
@@ -518,7 +518,7 @@ They helped you so much, and you owe 'em so much, but you refuse to pay that bac
 Hey, Midori-kun… Just how long do you plan to keep being a little brat!?
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 …Stop already, Nagumo. Please don’t fight, I’m begging you.
 {% endbubble %}
 
@@ -542,7 +542,7 @@ on this [land], being unable to [walk] is the same as being unable to [live].
 looong ago, the one who told me that was you… wasn't it?
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 ………
 {% endbubble %}
 

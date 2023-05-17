@@ -326,7 +326,7 @@ N-No, it’s perfectly alright… Erm, is it just me, or have you grown up since
 Huh? You think so? Well, a *lotta* things happened the past few days, like the Dragon King Competition[^3]… I’m gonna be a second-year student soon, so I gotta grow up a li’l.
 {% endbubble %}
 
-{% bubble Shinobu angry %}
+{% bubble Shinobu scold %}
 That’s not *fair!* You dashed up the stairs to adulthood without me!
 
 I have a complex about being childish, so I’ve always wanted to achieve the look of an adult, just like you~!

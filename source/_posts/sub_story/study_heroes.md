@@ -109,7 +109,7 @@ He told me that none of you three have good grades in class.
 You guys devoted yourself so much to Ryuseitai’s activities that you began to neglect your studies, is that right?
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki scold %}
 Especially you, Nagumo! I heard that you have a red mark[^1] on almost all of your tests! It’s fine to aspire to be Red, but you can’t have that color on your grades, too!
 
 Making others worry will only affect a hero’s reputation! So we’re canceling today’s practice and holding a study session together instead!
@@ -319,7 +319,7 @@ ding…☆
 Oww!? W-Why’d you do that, Shinkai-senpai!?
 {% endbubble %}
 
-{% bubble Kanata angry %}
+{% bubble Kanata scold %}
 that is [rude] to say, tetora~ i have a [pride] of my own, too.
 {% endbubble %}
 

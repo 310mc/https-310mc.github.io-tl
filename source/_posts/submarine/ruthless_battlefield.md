@@ -365,7 +365,7 @@ you cannot eat Fish? i don’t understand! you are not the souma i know! you mus
 Hehe, characters switching places and hero imposters are mostly just common tropes in tokusatsu, though.
 {% endbubble %}
 
-{% bubble Kanata angry %}
+{% bubble Kanata scold %}
 you, temple guy! you Converted our souma to your religion, didn’t you?
 
 you gave him a taste of delicious Veggies, until his Body could no longer stand the taste of Fish…!
