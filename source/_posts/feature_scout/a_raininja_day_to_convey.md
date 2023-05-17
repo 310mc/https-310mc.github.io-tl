@@ -192,7 +192,7 @@ Well, we <em>are</em> in a generation of endless variety, so I believe that it i
 {% bubble Midori sigh %}
 How convenient… Well, if you’re fine with it then…
 
-So as anyone would expect, you’re gonna present yourself as a ninja in the pamphlet, huh?
+So, as anyone would expect… You’re gonna present yourself as a ninja in the pamphlet, huh?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -360,7 +360,7 @@ What next… Ah, I know! Like this… *<th>(scribble, scribble)</th>*
 
 Heh! ♪ I drew an adorable frog~! A ninja must always come with their trusty toad partner, after all![^1]
 
-Haa~…
+<em>Haa~…</em>
 
 Ohh! It never fails to amaze me no matter how many times I do it!
 
@@ -370,7 +370,7 @@ And it would always leave me super duper excited to blow on the glass and make t
 
 Next up~… *<th>(scribble, scribble)</th>* A ninja always comes with a shuriken! Nin-nin! ♪
 
-Haa~…
+<em>Haa~…</em>
 
 Next up— Oh, I know! I’ll draw Peachy and Thunder.[^2] The rain will suit them as a background!
 
@@ -382,7 +382,7 @@ Shinobu-kun?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Ah, Midori-kun! What a lovely coincidence!
+Ah, Midori-kun! Hello, what a lovely coincidence!
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -423,7 +423,7 @@ Of course!
 Oh yeah, did your meeting for the Feature Live go well? You were practicing really hard for it the other day, right?
 {% endbubble %}
 
-{% bubble Shinobu worried %}
+{% bubble Shinobu awkward %}
 Ah—… You ask me that <em>now</em>…?
 {% endbubble %}
 
@@ -523,7 +523,7 @@ Uu\~! Midori-kun, I am deeply touched\~! Thank you!
 I’m glad then— Ah! Oh no, the adorable frogs you drew are dripping down from the rain drops… Now they just look horrifying…
 {% endbubble %}
 
-{% bubble Shinobu worried %}
+{% bubble Shinobu awkward %}
 Indeed they are… Water-drop art can only be displayed for a mere moment… It’s truly short-lived.
 {% endbubble %}
 
