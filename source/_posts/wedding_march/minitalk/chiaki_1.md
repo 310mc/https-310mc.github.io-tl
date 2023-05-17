@@ -57,7 +57,7 @@ Anzu! You're working until late at night again, aren't you? ☆
 
 …Hm? You dropped something!
 
-This… is a marriage registration form!? You're going to get married, Anzu!?
+This… is a marriage application form!? You're going to get married, Anzu!?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -81,7 +81,7 @@ This… is a marriage registration form!? You're going to get married, Anzu!?
             {% bubble Chiaki v2 %}
             …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
 
-            Ohh! This pattern is of that mascot character Takamine's been into lately! He might be happy if you gave it to him!
+            Ohh! This pattern is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
 			{% endbubble %}
         </div>
     </div>
@@ -120,7 +120,7 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
             {% bubble Chiaki v2 %}
             Heheh, your help would always be reassuring.
 
-            However, I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
+            But I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
 			{% endbubble %}
         </div>
     </div>

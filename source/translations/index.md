@@ -763,6 +763,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories

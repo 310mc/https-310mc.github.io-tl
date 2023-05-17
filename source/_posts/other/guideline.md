@@ -71,18 +71,6 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/ninjarain/c1.jpg"
-            alt="Shinobu FS2"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Shinobu FS2</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
             src="/img/es/scoutstory/mangaclub/maobcgframe_300px.jpg"
             alt="Manga Club"
         />
@@ -109,6 +97,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="image">
         <img

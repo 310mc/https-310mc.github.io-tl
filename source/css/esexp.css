@@ -102,6 +102,12 @@
 [character="Midori"][smile5] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile5.png");
 }
+[character="Midori"][smile6] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile6.png");
+}
+[character="Midori"][smile7] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile7.png");
+}
 [character="Midori"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_srsthinking.png");
 }
@@ -506,6 +512,9 @@
 }
 [character="Shinobu"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frown2.png");
+}
+[character="Shinobu"][frustrated] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frustrated.png");
 }
 [character="Shinobu"][glare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_glare.png");
