@@ -247,9 +247,14 @@ permalink: biblio/
 
 ## Bind and Unfold 1
 
-{% note cw %}
-**Content Warning:** This story contains suicidal ideation and explicit reference to suicide in Chapter 4 and 5 respectively.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>This story contains suicidal ideation and explicit reference to suicide in Chapter 4 and 5 respectively.</p>
+</div>
+
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Classroom 1-A</span></p>
@@ -751,9 +756,10 @@ I dreaded I might die buried alive like this… Ahh, how unlucky… Is it all be
 
 ## Bind and Unfold 4
 
-{% note cw %}
-**Content Warning:** Suicidal ideation.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Suicidal ideation.</p>
+</div>
 
 {% bubble Tsumugi mgn %}
 Ahhh, you really saved me! It really is good to have kind juniors~♪
@@ -899,9 +905,10 @@ Hmph. If you have time to go to a fortune-teller or a medium for weird consultat
 
 ## Bind and Unfold 5
 
-{% note cw %}
-**Content Warning:** Explicit suicide reference.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Explicit suicide reference.</p>
+</div>
 
 {% bubble Keito %}
 I’m back. Now then, choose any glasses you like.

@@ -51,9 +51,10 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 
 <!-- more -->
 
-{% note cw %}
-**Content Warning:** Mentions of stalking
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of stalking.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Empty Classroom</span></p>

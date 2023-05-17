@@ -269,9 +269,14 @@ permalink: senpai_turned_into_a_dog/
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** This story has brief mentions of animal euthanasia in Chapter 2.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>This story has brief mentions of animal euthanasia in Chapter 2.</p>
+</div>
+
+<div class="msr-season winter">
+    <p><span><b>Season:</b> Winter</span></p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Garden Space</span></p>

@@ -50,10 +50,10 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 </div>
 
 <!-- more -->
-
-{% note cw %}
-**Content Warning:** Casual mentions of marine life euthanasia.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual mentions of marine life euthanasia.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Marine Life Clubroom</span></p>

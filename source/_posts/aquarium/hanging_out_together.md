@@ -74,9 +74,10 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** Brief mentions of seppuku.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Brief mentions of seppuku.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>

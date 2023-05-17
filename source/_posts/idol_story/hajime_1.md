@@ -49,6 +49,7 @@ description: "[ES!!] Translation of Hajime's Idol Story 1."
 </div>
 
 <!-- more -->
+
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>

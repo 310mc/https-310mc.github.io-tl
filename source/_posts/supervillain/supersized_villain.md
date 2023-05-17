@@ -68,9 +68,10 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** The following chapters contain descriptions of violence, and mentions of bullying.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapters contain descriptions of violence, and mentions of bullying.</p>
+</div>
 
 {% img /img/es/eventstory/supervillain/supersizedvillainch1_1.jpg %}
 
@@ -1156,9 +1157,10 @@ We’d need *way* more than a half-hearted effort to tear down its stronghold.
 
 ## Chapter 8
 
-{% note cw %}
-**Content Warning:** The following chapter contains mentions of murder.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains mentions of murder.</p>
+</div>
 
 {% bubble Midori worried %}
 Wait, “tear down its stronghold”…? Don’t tell me you plan to fight… You, against the *entirety* of Crimson Production?

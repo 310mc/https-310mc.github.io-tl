@@ -583,9 +583,10 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 ## Chapter 4
 
-{% note cw %}
-**Content Warning:** Emetophobia and light mentions of cannibalism ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Emetophobia and light mentions of cannibalism ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Rooftop</span></p>
@@ -1016,9 +1017,10 @@ Seems like it. It ain’t an officially recognized group in school or anythin’
 
 ## Chapter 7
 
-{% note cw %}
-**Content Warning:** Mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch7.jpg %}
 
@@ -1467,9 +1469,10 @@ Who knooows? I’m no God, I don’t know what the future holds! Haha, if you ca
 
 ## Chapter 10
 
-{% note cw %}
-**Content Warning:** Casual mentions of self-injury ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual mentions of self-injury ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Marine Life Clubroom</span></p>
@@ -1601,9 +1604,10 @@ Aha, oh how lucky I must be! I am extremely delighted to have permission to spea
 
 ## Chapter 11
 
-{% note cw %}
-**Content Warning:** Mentions of graphic self-mutilation ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of graphic self-mutilation ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch11.jpg %}
 
@@ -1745,9 +1749,10 @@ is that so… *sigh…* you people sure are Boring.
 
 ## Chapter 12
 
-{% note cw %}
-**Content Warning:** Depictions of mental breakdown ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Depictions of mental breakdown ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Fountain</span></p>

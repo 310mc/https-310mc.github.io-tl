@@ -431,9 +431,10 @@ Ahaha, why do you want to head home? It's rare that we get to talk to him these 
 
 ## Chapter 3
 
-{% note cw %}
-**Content Warning:** Casual mentions of underage drinking and alcohol.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual mentions of underage drinking and alcohol.</p>
+</div>
 
 {% img /img/es/eventstory/motorshow/p2ch3.jpg %}
 

@@ -246,9 +246,14 @@ permalink: gang/
 
 ## Midnight Gangsters 1
 
-{% note cw %}
-**Content Warning:** This story contains multiple references to war.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>This story contains multiple references to war.</p>
+</div>
+
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring</span></p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Hallway, Second Floor</span></p>

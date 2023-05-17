@@ -59,6 +59,7 @@ permalink: soleil/
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Starmony Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)</span></p>
 </div>

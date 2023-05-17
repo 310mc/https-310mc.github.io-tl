@@ -263,6 +263,10 @@ This translation is **on hold**. Due to the official version having been release
 
 ## The Cursed Ox Statue 1
 
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> StarPro Office</span></p>
 </div>

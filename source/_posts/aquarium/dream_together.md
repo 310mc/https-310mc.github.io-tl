@@ -74,9 +74,10 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** The following chapter contains sexual harassment.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains sexual harassment.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Aquarium Stage</span></p>

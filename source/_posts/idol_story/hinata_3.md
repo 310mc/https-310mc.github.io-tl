@@ -51,6 +51,7 @@ description: "[ES!!] Translation of Hinata's Idol Story 3, featuring Midori."
 </div>
 
 <!-- more -->
+
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>

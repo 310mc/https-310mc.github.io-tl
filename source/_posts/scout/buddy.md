@@ -388,6 +388,10 @@ permalink: buddy/
 
 ## Chapter 1
 
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Basketball Court</span></p>
 </div>

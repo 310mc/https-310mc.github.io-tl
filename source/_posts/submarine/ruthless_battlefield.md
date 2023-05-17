@@ -74,13 +74,17 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 
 ## Chapter 3
 
-{% note cw %}
-**Content Warning:** Emetophobia
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Emetophobia.</p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Tropical Island Sandy Beach</span></p>
 </div>
+
 {% img /img/es/eventstory/submarine/chiakiorigcg.jpg %}
+
 <div class="msr-narration">
     <p>Around an hour later…</p>
 </div>

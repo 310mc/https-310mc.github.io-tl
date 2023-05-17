@@ -391,6 +391,10 @@ permalink: comic_world/
 
 ## Correct Answer and Authors 1
 
+<div class="msr-season summer">
+    <p><span><b>Season:</b> Summer</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Dojo</span></p>
 </div>

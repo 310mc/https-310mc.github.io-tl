@@ -114,9 +114,10 @@ Ahh, I can’t take it anymore… Everything is such a damn pain… Can someone 
 
 ### With Kanata
 
-{% note cw %}
-**Content Warning:** Casual suicide and drowning mention.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual suicide and drowning mention.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Fountain</span></p>

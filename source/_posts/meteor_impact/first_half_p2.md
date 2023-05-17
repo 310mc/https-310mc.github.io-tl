@@ -69,9 +69,10 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 ## Chapter 9
 
-{% note cw %}
-**Content Warning:** Mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of violence ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Downtown</span></p>
@@ -212,9 +213,10 @@ Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 
 ## Chapter 10
 
-{% note cw %}
-**Content Warning:** Heavy mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Heavy mentions of violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch10.jpg %}
 
@@ -376,9 +378,10 @@ I can do what she wants me to do, after your help. I can keep bein’ her “nor
 
 ## Chapter 11
 
-{% note cw %}
-**Content Warning:** Mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of violence ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Front Gate</span></p>
@@ -911,9 +914,10 @@ Yes… See you tomorrow.
 
 ## Chapter 14
 
-{% note cw %}
-**Content Warning:** Heavy mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Heavy mentions of violence ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Downtown - Star Street</span></p>
@@ -1128,9 +1132,10 @@ I’m regrettin’ it all, damnit…!!
 
 ## Chapter 15
 
-{% note cw %}
-**Content Warning:** Heavy mentions of violence and death threats ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Heavy mentions of violence and death threats ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch15.jpg %}
 
@@ -1255,9 +1260,10 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 
 ## Chapter 16
 
-{% note cw %}
-**Content Warning:** Discussions of cult ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Discussions of cult ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Pool</span></p>
@@ -1440,9 +1446,10 @@ And, after a long period of preparation, this fantasy has even plotted a scheme 
 
 ## Chapter 17
 
-{% note cw %}
-**Content Warning:** Discussions of cult, and mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Discussions of cult, and mentions of violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch17.jpg %}
 

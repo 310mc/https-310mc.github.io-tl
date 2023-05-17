@@ -73,9 +73,10 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** Light-hearted PTSD mentions.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Light-hearted PTSD mentions.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Motor Show Venue</span></p>
@@ -373,9 +374,10 @@ Then you will no longer be just a sly fox borrowing a tiger's dignified presence
 
 ## Chapter 3
 
-{% note cw %}
-**Content Warning:** Obsessive behavior over a person, and mentions of sexual harrassment.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Obsessive behavior over a person, and mentions of sexual harassment.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Motor Show Stage</span></p>

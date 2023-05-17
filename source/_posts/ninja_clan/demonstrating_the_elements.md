@@ -249,9 +249,10 @@ Really\~!? I’ll think up lots and lots of ideas, then\~!
 
 ## Chapter 2
 
-{% note cw %}
-**Content Warning:** Brief mentions of stalking.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Brief mentions of stalking.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Historical Village</span></p>

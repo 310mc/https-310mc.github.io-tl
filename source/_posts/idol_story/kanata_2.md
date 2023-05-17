@@ -52,9 +52,10 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
 
 <!-- more -->
 
-{% note cw %}
-**Content Warning:** Casual suicide mention.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual suicide mention.</p>
+</div>
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

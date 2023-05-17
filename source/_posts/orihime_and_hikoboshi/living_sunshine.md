@@ -422,9 +422,10 @@ However, when it comes to the stage, I prefer to be with my comrades in Ryuseita
 
 ## Chapter 3
 
-{% note cw %}
-**Content Warning:** The following chapters contain jokes about sexual harrassment.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapters contain jokes about sexual harassment.</p>
+</div>
 
 {% img /img/es/eventstory/orihimeandhikoboshi/maoorigcg.jpg %}
 

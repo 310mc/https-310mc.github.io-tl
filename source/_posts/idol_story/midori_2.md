@@ -53,6 +53,7 @@ description: "[ES!!] Translation of Midori's Idol Story 2, featuring Shinobu and
 </div>
 
 <!-- more -->
+
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>

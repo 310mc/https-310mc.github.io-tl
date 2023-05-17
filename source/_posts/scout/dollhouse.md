@@ -396,9 +396,10 @@ permalink: dollhouse/
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** There are casual suicide mentions in this story.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>This story contains casual suicide mentions.</p>
+</div>
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
@@ -544,9 +545,10 @@ I’m on my way to you\~ I’m not sure if I’ll be able to help, but please wa
 
 ## Chapter 2
 
-{% note cw %}
-**Content Warning:** Casual drowning mention.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual drowning mention.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Forested Path</span></p>

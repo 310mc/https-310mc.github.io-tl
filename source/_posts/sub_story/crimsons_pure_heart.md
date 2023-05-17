@@ -63,9 +63,10 @@ This story is connected to the card [Carrot's Relations] Kuro Kiryu.
 
 <!-- more -->
 
-{% note cw %}
-**Content Warning:** Casual suicide and drowning mention.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual suicide and drowning mention.</p>
+</div>
 
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>

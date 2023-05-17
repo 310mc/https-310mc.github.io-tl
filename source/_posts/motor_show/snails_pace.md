@@ -69,9 +69,10 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 
 ## Chapter 1
 
-{% note cw %}
-**Content Warning:** Stalking depiction and casual suicide mention.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Stalking depiction and casual suicide mention.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Dojo</span></p>

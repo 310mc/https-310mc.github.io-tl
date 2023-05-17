@@ -249,9 +249,10 @@ Because I’m an idol! Because you let me stay as one!
 
 ## Chapter 28
 
-{% note cw %}
-**Content Warning:** Mentions of harassment ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of harassment ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> “Battle versus the Sea God” Stage</span></p>
@@ -379,9 +380,10 @@ Because I’m an idol! Because you let me stay as one!
 
 ## Chapter 29
 
-{% note cw %}
-**Content Warning:** Brief mentions of self-injury ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Brief mentions of self-injury ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch29.jpg %}
 
@@ -563,9 +565,10 @@ It’s so naive, and honestly, childish of you… I just can’t leave ya alone,
 
 ## Chapter 30
 
-{% note cw %}
-**Content Warning:** Mentions of harassment ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of harassment ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> AV Room</span></p>

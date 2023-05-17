@@ -107,12 +107,15 @@ permalink: meteor_impact/
     }
 </style>
 
-{% note cw %}
-**Content Warning:** This story deals with topics that may be upsetting for some readers. Please check the content warnings first!
-{% endnote %}
-{% note cw %}
-**Includes, but not limited to:** Major discussions of cult, depictions of harrassment, as well as heavy mentions of cannibalism, violence, bullying, and depression.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>This story deals with topics that may be upsetting for some readers.</p>
+</div>
+<div class="msr-cw">
+    <span><b>Includes, but not limited to:</b></span>
+    <p>Major discussions of cult, depictions of harassment, as well as heavy mentions of cannibalism, violence, bullying, and depression.</p>
+</div>
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/meteorimpact/kanataorigcg.jpg)"></div>

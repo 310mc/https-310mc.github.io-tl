@@ -73,9 +73,10 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 ## Chapter 13
 
-{% note cw %}
-**Content Warning:** Mentions of violence and war descriptions ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of violence and war descriptions ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Student Council Office</span></p>
@@ -235,9 +236,10 @@ Therefore, it must be us to do it. Akatsuki is in charge of the dirty work.
 
 ## Chapter 14
 
-{% note cw %}
-**Content Warning:** Verbal abuse, and mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Verbal abuse, and mentions of violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch14.jpg %}
 
@@ -438,9 +440,10 @@ Soon, they’ll think to themselves, perhaps the one saving them wasn’t Shinka
 
 ## Chapter 15
 
-{% note cw %}
-**Content Warning:** Verbal abuse, and mentions of child abuse and violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Verbal abuse, and mentions of child abuse and violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch15.jpg %}
 
@@ -618,9 +621,10 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 ## Chapter 16
 
-{% note cw %}
-**Content Warning:** Depictions of harrassment ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Depictions of harassment ahead.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Soundproof Practice Room No.2</span></p>
@@ -758,9 +762,10 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 ## Chapter 17
 
-{% note cw %}
-**Content Warning:** Mentions of graphic death ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of graphic death ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch16.jpg %}
 
@@ -952,9 +957,10 @@ It’s probably gonna be super hard to pull off, but… I’m cheering you on! A
 
 ## Chapter 18
 
-{% note cw %}
-**Content Warning:** Mentions of bullying and depression ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of bullying and depression ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch18.jpg %}
 
@@ -1170,9 +1176,10 @@ But I'm super annoyed, so let me just say this.
 
 ## Chapter 19
 
-{% note cw %}
-**Content Warning:** Depiction of depressive episode ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Depiction of depressive episode ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/chiakiorigcg.jpg %}
 
@@ -1328,9 +1335,10 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 ## Chapter 20
 
-{% note cw %}
-**Content Warning:** Mentions of drowning ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of drowning ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch20.jpg %}
 
@@ -1526,9 +1534,10 @@ it’s so hot, i feel like i could melt…
 
 ## Chapter 21
 
-{% note cw %}
-**Content Warning:** Heavy mentions of cannibalism and mutilation ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Heavy mentions of cannibalism and mutilation ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch21.jpg %}
 

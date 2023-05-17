@@ -1103,14 +1103,15 @@ So tell me, which side is the one with the dangerous ideologies? Who’s the rea
 {% endbubble %}
 
 {% bubble Shinobu sad %}
-…………
+……………
 {% endbubble %}
 
 ## Chapter 8
 
-{% note cw %}
-**Content Warning:** Casual suicide mentions.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Casual suicide mentions.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Starmony Dorm, Takamine Midori’s dorm room</span></p>

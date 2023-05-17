@@ -573,9 +573,10 @@ I want to become the dream version of myself! The cool, ideal version!
 
 ## Chapter 4
 
-{% note cw %}
-**Content Warning:** Light mentions of bullying and cannibalism ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Light mentions of bullying and cannibalism ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch4.jpg %}
 
@@ -901,9 +902,10 @@ Ahh, um! I’m not trying to criticize you or anything! I’m just worried! Ummm
 
 ## Chapter 6
 
-{% note cw %}
-**Content Warning:** Mentions of violence ahead.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of violence ahead.</p>
+</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch6.jpg %}
 

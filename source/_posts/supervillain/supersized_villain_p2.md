@@ -384,9 +384,10 @@ All in order to defeat the evil organization, Crimson Production.
 
 ## Chapter 11
 
-{% note cw %}
-**Content Warning:** The following chapters contain heavy discussion of self-loathing and self-destruction.
-{% endnote %}
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapters contain heavy discussion of self-loathing and self-destruction.</p>
+</div>
 
 {% bubble Chiaki frown %}
 You were going to cross a dangerous bridge… However, you had concluded that Crimson Production can’t be defeated unless you do so, right?
