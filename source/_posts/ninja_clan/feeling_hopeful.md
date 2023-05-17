@@ -165,7 +165,7 @@ Ermm…? I’m not necessarily a tokusatsu <em>fan</em>, though…?
 Why’s he talking like we’re part of the same group…? I mean, sure, I know a bit more about them now, but that’s about it…
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Huh!? W-What do you mean by all that…!? Didn’t we talk passionately about it in our school year together!?
 {% endbubble %}
 

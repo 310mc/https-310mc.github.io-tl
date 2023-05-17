@@ -184,7 +184,7 @@ Have you seen him anywhere?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki surprised %}
+            	{% bubble Chiaki surprised0 %}
               Hmmm? Is he looking through the window…?
 
               Oh right, you can see the fountain from that window, right? He can really be troublesome when it comes to this.

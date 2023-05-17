@@ -220,7 +220,7 @@ ufufu~…♪
 Fufufu…♪
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Woah, woah, woah! You two are scaring me! Don’t start fighting…!
 
 For goodness’ sake… Get along with each other! Don’t you know that love saves the world?

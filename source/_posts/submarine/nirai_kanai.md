@@ -1297,7 +1297,7 @@ Oh? Well, don’t you worry, Takamine! I’m *extremely* interested in you!
 That’s just creepy. Please go die.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 What else was I supposed to say here!?
 {% endbubble %}
 

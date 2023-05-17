@@ -369,7 +369,7 @@ Ryusei Kiiick~♪
 Ryusei Shuriken~☆
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Gwah!? W-Why did you suddenly charge at me, my comrades!? Were you brainwashed by the enemy!?
 {% endbubble %}
 
@@ -379,7 +379,7 @@ Gwah!? W-Why did you suddenly charge at me, my comrades!? Were you brainwashed b
 What “enemy”… You’re both late! We were worried you wouldn’t even come, y'know!? Just what took you so long!?
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Huh? Huh!? Sorry! The people in the shopping district took a liking to us somehow, and we ended up singing on an outdoor stage!
 {% endbubble %}
 
@@ -849,7 +849,7 @@ Morisawa-senpai. I’ll at least be honest with you now. I owe you a lot for thi
 You may have always been annoying, suffocating, clingy, gross, loud, unpleasant, troublesome, and really gross, but—
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 You said it twice! You said “gross”‬ twice!!
 {% endbubble %}
 

@@ -531,7 +531,7 @@ Well, that’s ‘cause there’s no way anyone would be scared of the ocean, un
 {% endbubble %}
 {% img /img/es/eventstory/cometshow/p2ch7_1.jpg %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Wha—!? W-What’s happening? That was a scream just now… right?
 {% endbubble %}
 

@@ -288,7 +288,7 @@ I’ll have to back them up in case they get into any trouble! After all, a hero
 chiaki~ so you really did show up.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Woah!? K-Kanata! Huh!? Weren’t all of Ryuseitai supposed to be on the opposite side of the venue!?
 {% endbubble %}
 
@@ -543,7 +543,7 @@ Mhm! It’s always been a hero’s duty to protect those in anguish to the very 
 …Hey, you. Don’t you *dare* think about slipping out of here all proud and happy — You’re on stage right now, so please make sure to do what you’re *supposed* to do.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 T-Takamine? What’s wrong, you seem kind of angry…? You shouldn’t kick your senior’s butt, y’know?
 {% endbubble %}
 

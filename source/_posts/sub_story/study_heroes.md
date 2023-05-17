@@ -89,7 +89,7 @@ Alright then! It’s time to work hard and practice a lot today, as well! ☆
 Oh, I can just go home then, right…? ♪
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Hold it right there! I never once said that we’re calling it a day, Takamine!
 {% endbubble %}
 
@@ -361,7 +361,7 @@ Nope, not happening! I’m so done with any sorta suffocating tutoring!
 I can just ask my friends in class to help me study, so please spare me!
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 We can’t? We really can’t!?
 {% endbubble %}
 

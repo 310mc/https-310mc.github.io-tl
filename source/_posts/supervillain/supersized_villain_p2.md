@@ -729,7 +729,7 @@ Ahh\~ It’s sooo much easier to play the villain\~ You don’t have to worry ab
 I don’t have to preach about justice or morality or whatever else I don’t even believe in.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Y-You disliked playing the hero of justice that much!? You could’ve told me so!
 {% endbubble %}
 

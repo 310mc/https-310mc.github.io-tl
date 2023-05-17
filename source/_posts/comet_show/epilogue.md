@@ -418,7 +418,7 @@ As much as it pains me, I guess we’ll just have to back him up.
 “Red! You’re gonna get fried in no time if you just stand there all alone! Get your ass over here! Do we have to tell you what to do every time!?”
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 “W-Why are you snapping at me, Green!? And watch your language! You should speak to your seniors more politely! Promise me you’ll do that, okay!?”
 {% endbubble %}
 
@@ -729,7 +729,7 @@ That’s the kind of sneaky strategy I’m going for here… He he he~♪
 hmm, i see. but you don’t have to copy after chiaki when it comes to that.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Huh!? Was I ever the type to do that sort of sneaky stuff!?
 {% endbubble %}
 

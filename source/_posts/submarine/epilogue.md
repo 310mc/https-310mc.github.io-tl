@@ -184,7 +184,7 @@ Mhm! But I think it’s pretty nice — it makes you look smarter than usual, Se
 Does that mean I usually look like a bumbling idiot!?
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Whaa…!? Don't take what I say in the wrong way! Why do you guys keep doing that these days!?
 {% endbubble %}
 

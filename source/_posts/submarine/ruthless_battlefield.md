@@ -1093,7 +1093,7 @@ You’ve already grown to be such a wonderfully big man, Nagumo. The same goes t
 Are you talking about my appearance…? You know I hate it when my height is mentioned, right…?
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Why do you snap at everything I say to you, Takamine…?
 {% endbubble %}
 

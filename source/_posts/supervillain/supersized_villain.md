@@ -629,7 +629,7 @@ our plan was a [complete failure].
 We were all captured easily…
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 You guys…!
 {% endbubble %}
 
@@ -649,7 +649,7 @@ Guhhh… This is so frustrating. There’s nothing I can even say to counter tha
 Just seeing Morisawa-senpai this frustrated brings me joy somehow.
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 W-Why, Takamine!? Why are you happy!? I don’t recall ever raising you to be such a mean-spirited boy, who would laugh at other people’s demise!
 {% endbubble %}
 

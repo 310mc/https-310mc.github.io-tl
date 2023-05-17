@@ -696,7 +696,7 @@ E-Either way, I have a bad feeling about this, so I must conceal myself at once!
     <p>At the same time…</p>
 </div>
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 S-Sengoku!? Sengoku, can you hear meee!?
 
 I lost signal… I-Is everything going to be alright…?

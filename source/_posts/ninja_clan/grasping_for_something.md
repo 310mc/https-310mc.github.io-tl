@@ -571,7 +571,7 @@ You see? I told you it’d work perfectly on them.
 Don’t look so smug about it… You wouldn’t typically understand a message like that, so make sure to type it up properly next time, ‘kay?
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Ah, wait, that reminds me! The message was one thing, but you *really* didn’t need to attach a photo of an entire box of eggplants after it!
 
 Why did you go with an eggplant baron!? Weren’t there plenty of other options among all the vegetables!?

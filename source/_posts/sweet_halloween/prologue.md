@@ -133,7 +133,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 …Hffmph!?
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Wha—!? I-I-I-I’m so sorry!![^1] Are you alright!? I’m terribly sorry for bumping into you!
 {% endbubble %}
 

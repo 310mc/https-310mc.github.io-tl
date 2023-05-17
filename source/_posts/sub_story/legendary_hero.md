@@ -133,7 +133,7 @@ I just can’t stand to do something embarrassing in the first place…
 Uu~… The green flame is the mark of compassion-something-something-Ryusei Green… Takamine Midori…
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki surprised0 %}
 Not only did you say it quickly, but you even chopped half of it off…!?
 {% endbubble %}
 
