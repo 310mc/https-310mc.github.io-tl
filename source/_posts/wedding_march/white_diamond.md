@@ -7,9 +7,11 @@ categories:
 - [Enstars, Jun]
 - [Enstars, Midori]
 - [Enstars, Eichi]
+- [Enstars, Shu]
+- [Enstars, Nagisa]
 tags:
 - Event Story
-description: "[ES!!] Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
+description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -294,7 +296,7 @@ Yep, it was Ring.A.Bell’s promotional video! ☆
 {% endbubble %}
 
 {% bubble Midori sigh4 %}
-Of <em>course</em> it was… Please don’t ever recommend it to someone ever again.
+Of <em>course</em> it was… Please never recommend it to someone ever again.
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -312,7 +314,7 @@ Why’s that!?
 {% bubble Jun v3 %}
 <th>(Ahaha, so this is how Takamine-kun’s like when Morisawa-senpai’s around, huh~)</th>
 
-<th>(He acts a lot differently from how he is in Manga Club, so it’s kinda new to me…)</th>
+<th>(He acts a lot differently from how he is in Manga Club, so it kinda feels new to me…)</th>
 {% endbubble %}
 
 <div class="msr-narration">
@@ -350,11 +352,11 @@ Huh, did we mess up somewhere…? Can you think of anything we could’ve done w
 
 While we did take a while to get into it because we felt a little embarrassed at first, the filming itself went smoothly, and we even managed to finish it earlier than expected.
 
-I also heard that the staff were delighted by our end product. Do you have any idea, Sazanami?
+I also heard that our client was delighted by our end product from the staff members. Do you have any idea, Sazanami?
 {% endbubble %}
 
 {% bubble Jun frown %}
-Nope~… Maybe they spotted a mistake in the filming after the fact?
+Nope, not a clue~… Maybe they spotted a mistake in the filming after the fact?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -376,7 +378,7 @@ Tenshouin? Were you asked to come here, too?
 {% endbubble %}
 
 {% bubble Eichi %}
-No, I’m the one who called for you two.
+No. Rather, I’m the one who called for you two.
 
 Good evening to the both of you. I apologize for asking you to come here on such short notice.
 {% endbubble %}
@@ -420,13 +422,13 @@ And I’m guessing the client contacted you ‘cause they wanna avoid any unnece
 {% endbubble %}
 
 {% bubble Eichi serious %}
-Well, I won’t say that it’s unavoidable. There’s a likely chance they’ll still publicize it as long as we ask nicely.
+Well, it isn’t necessarily unavoidable. There’s a likely chance they’ll still publicize it as long as we ask nicely.
 
 However, that is simply your own personal wish in the end. I’m sure you’re well aware that we have to always prioritize the client’s wishes, yes?
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-…Yeah. It’s just my selfish wish… I’m sure Sazanami’s right; they likely contacted us to cancel the project…
+…Yeah. It’s just my selfish wish… I’m sure Sazanami’s right; they likely contacted us to ask if we could cancel the project…
 
 But… The staff members, Sazanami… We <em>all</em> worked extremely hard, through endless trial and error, to create that PV.
 
@@ -444,11 +446,11 @@ Misunderstanding…?
 {% endbubble %}
 
 {% bubble Eichi %}
-Yes, you see — Our client isn’t thinking of taking down their project just yet. They do still plan to drop out of publicizing the PV, but—
+Yes, you see — Our client isn’t thinking of taking down the project just yet. They do still plan to drop out of publicizing the PV, but—
 
 They were quite impressed by your work, so they told me they’d like to start the project over from scratch.
 
-Personally, as the one in charge of communication between both parties, this is everything I could ever ask for. Wedding-related projects always have incredible fan reception, and they work well as advertisements.
+Personally, as the agency in charge of communication between both parties, StarPro management also believes that this is everything they could ever ask for. Wedding-related projects always have incredible fan reception, and they work well as advertisements.
 
 Right, as for the actual matter I’d like to speak about—
 {% endbubble %}
@@ -469,12 +471,12 @@ Ah, well, the preface took real long, so I’m getting a bad feeling about this�
 Don’t worry, Sazanami! It’s the usual for Tenshouin to talk for hours! ☆
 {% endbubble %}
 
-{% bubble Eichi %}
+{% bubble Eichi frown %}
 Was that supposed to be a follow-up on my behalf…? Well, I digress.
 
 Right, so the matter at hand. As I’ve said, they’ll start the project from scratch.
 
-However, the client asked that the two of you come up with ideas, instead.
+However, the client asked that the two of you come up with ideas instead.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -484,7 +486,7 @@ Us?
 {% bubble Eichi %}
 Apparently, they’re stuck in a rut right now, feeling as though they can only come up with unoriginal ideas.
 
-The PV that’s being called off also had a song that’s been heard before, outfits that’ve been seen before, and a performance that’s been shown before, so it’s only natural it ended up tossed out.
+The PV that’s going to be called off also had a song that’s been heard before, outfits that’ve been seen before, and a performance that’s been shown before, so it’s only natural it ended up tossed out.
 
 Therefore, they’d like you to come up with a project whose main selling point is that “idols thought it up” — something that you would also enjoy doing.
 
@@ -532,19 +534,19 @@ I’m looking forward to seeing a bridal project that’s just befitting of you 
 {% bubble Jun frown %}
 A bridal project that’s just befitting of us, huh…
 
-Oh yeah, didn’t we have a similar conversation during our break time in the PV filming, too~? The staff asked us what sorta wedding ceremony we’d like to have.
+Oh yeah, I had a similar conversation during our break time in the PV filming, too~ The staff asked me what sorta wedding ceremony I’d like to have.
 
 But it was so sudden, I didn’t know what to say\~ I could barely respond… I remember them just switching the topics almost instantly\~
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh yeah, that did happen, didn’t it? I’m amazed you still remember.
+Oh, you were asked something like that? I’m impressed that you still remember.
 {% endbubble %}
 
 {% bubble Jun awkward %}
 Yeah, it’s ‘cause I was thinking in my head, “Why’re you asking a <em>teenager</em>”…♪
 
-Well, they’re gonna fully back us up on this project, but…
+Well, sounds like they’re gonna fully back us up on this project, but…
 
 I don’t have a clue about weddings, so asking for us to make it unique is a pretty tough request~
 {% endbubble %}
@@ -558,7 +560,7 @@ No matter how hard life forces us into a corner, we’ll always turn the tables!
 {% endbubble %}
 
 {% bubble Jun v3 %}
-Whoa, you’re super enthusiastic~ I’m no hero, and I’m not even the type to get that fired up, but…
+Whoa, you’re super enthusiastic~ I’m no hero, and I’m not the type to get that fired up, but…
 
 Now that we’ve accepted the job, I’ll make sure to make it a success~
 {% endbubble %}
@@ -614,7 +616,7 @@ Oh, you don’t know? It’s a god-tier show, where Tatsumi-senpai responds to l
 {% endbubble %}
 
 {% bubble Tatsumi %}
-I’m not worthy to be called “god-tier,” really. I’m not omniscient like God is.
+It isn’t worthy to be called “god-tier,” really. I’m not omniscient like God is.
 {% endbubble %}
 
 {% bubble Chiaki serious %}

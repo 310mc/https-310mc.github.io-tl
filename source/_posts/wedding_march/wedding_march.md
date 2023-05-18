@@ -6,7 +6,7 @@ categories:
 tags:
 - Yuumasu
 - Story Index
-description: "[ES!!] Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
+description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 permalink: wedding_march/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -20,7 +20,7 @@ permalink: wedding_march/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    When the PV that they shot was put on hold, Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project.
+                    When the PV that they shot was called off, Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -118,7 +118,7 @@ permalink: wedding_march/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    When the PV that they shot was put on hold, Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project.<!--撮影したPVがお蔵入りとなってしまい、 自分たちでブライダル企画を立てることになった千秋とジュン。企画に協力してくれるメンバーと共に、「ブライダル修学旅行」へと向かう。-->
+                    When the PV that they shot was called off, Chiaki and Jun decide to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project.<!--撮影したPVがお蔵入りとなってしまい、 自分たちでブライダル企画を立てることになった千秋とジュン。企画に協力してくれるメンバーと共に、「ブライダル修学旅行」へと向かう。-->
                 </div>
                 <div class="info">
                     <div class="info-item season">

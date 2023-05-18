@@ -126,13 +126,13 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you have any other ideas?
+            Do you have any ideas?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            No, actually… I still can't think up anything.
+            No, actually… I still haven't thought up anything.
 
-            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the PV again and come up with some ideas before that.
+            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the project again and come up with some ideas before that.
 			{% endbubble %}
         </div>
     </div>
@@ -159,7 +159,7 @@ Oh! I got so into our conversation…
 
 It's quite late in the night by now, so take care on your way home, alright?
 
-I'll be heading back to the agency office to take my belongings.
+I'll head back to the agency office to take my belongings.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -171,7 +171,7 @@ I'll be heading back to the agency office to take my belongings.
             {% bubble Chiaki v2 %}
             Do you have something to do there, too?
 
-            Oh yeah, you're free to eat the cake in the office's fridge! I got it as a snack, but I couldn't finish it all.
+            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a snack, but I couldn't finish it all.
 			{% endbubble %}
         </div>
     </div>
@@ -195,7 +195,7 @@ I'll be heading back to the agency office to take my belongings.
             {% bubble Chiaki shocked2 %}
             …There's a rumor about a ghost appearing in the elevator?
 
-            W-Why did you tell *me* that!? I'll go to the agency through the stairs, so please come with me!
+            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
 			{% endbubble %}
         </div>
     </div>

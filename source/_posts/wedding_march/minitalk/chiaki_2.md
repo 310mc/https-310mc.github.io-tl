@@ -67,9 +67,9 @@ You're as busy as ever! If you still have time, how about resting here for a bit
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Mhm, I even have cake I got from Kanata. There are a lot of slices left, so eat as much as you like!
+            Mhm, I even have cookies I got from Kanata a moment ago. There are a lot of them left, so eat as much as you like!
 
-            He's planning to sell this in the Aoumi Aquarium soon. I tried a slice myself, and it was really tasty~♪
+            He's planning to sell this in the Aoumi Aquarium soon. I tried one myself, and it was really tasty~♪
 			{% endbubble %}
         </div>
     </div>
@@ -79,7 +79,7 @@ You're as busy as ever! If you still have time, how about resting here for a bit
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            If you're alright with canned juice, there's one here! I went to buy one for myself from the vending machine, and got lucky with the roulette, so now I have two~♪
+            Oh yeah, if you're alright with canned juice, there's one here! I went to buy one for myself from the vending machine, and got lucky with the roulette, so now I have two~♪
 
             I was hoping I could give the second one to someone, so you can have it!
 			{% endbubble %}
@@ -91,7 +91,7 @@ You're as busy as ever! If you still have time, how about resting here for a bit
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki worried %}
-            Hmm? You're opening your laptop…?
+            Hmm? Why are you opening your laptop…?
 
             Work doesn't count as resting! You have to rest when it's time to…!
 			{% endbubble %}
@@ -104,9 +104,9 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 {% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_2.jpg %}
 
 {% bubble Chiaki v2 %}
-Oh yeah, you're joining us for the recording at Kyoto, right?
+Oh yeah, you're joining us for the filming at Kyoto, right?
 
-I don't think we'll be able to be there for very long, but since it's a wonderful opportunity to see the city, let's make sure to enjoy Kyoto! ☆
+I don't think we'll be there for very long, but since it's a wonderful opportunity to see the city, let's make sure to enjoy Kyoto! ☆
 
 Is there anything you'd like to see or try in the city?
 {% endbubble %}
@@ -118,7 +118,7 @@ Is there anything you'd like to see or try in the city?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Oh yeah, last year's school trip was Kyoto, wasn't it?
+            Oh, last year's school trip was Kyoto?
 
             I hope there are other places you can visit this time around!
 			{% endbubble %}
@@ -130,9 +130,9 @@ Is there anything you'd like to see or try in the city?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Oh yeah, it's famous for that, isn't it? I'm sure there are plenty of Japanese sweets shops, so we should be able to try out matcha during our break.
+            Oh yeah, the city is famous for that, isn't it? I'm sure there are plenty of Japanese sweets shops, so we should be able to try out matcha during our break.
 
-            We need to look up all the restaurants to check out while we still can!
+            We need to look up all the shops to check out while we still can!
 			{% endbubble %}
         </div>
     </div>
@@ -142,7 +142,7 @@ Is there anything you'd like to see or try in the city?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            You're interested in maiko, huh!? I'm sure there's a place to experience how it's like as a maiko. How about you try going to one?
+            You're interested in maiko, huh? I'm sure there's a place to experience what it's like as a maiko. How about you try going to one?
 
             …Hm? You don't want to become one, you just want to learn about them? That sounds more like an interview than touring!
 			{% endbubble %}
@@ -155,11 +155,11 @@ Is there anything you'd like to see or try in the city?
 {% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_3.jpg %}
 
 {% bubble Chiaki v2 %}
-Whenever I go to a different prefecture, I can't help but look for their designated hero.
+Whenever I go to a different region, I can't help but look for their designated hero.
 
 Regional heroes are allies of justice who protect the people of their region!
 
-I'd love to hear all sorts of things from the hero of Kyoto! ♪
+I'd love to learn about all sorts of things from the hero of Kyoto! ♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -169,7 +169,7 @@ I'd love to hear all sorts of things from the hero of Kyoto! ♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Ohh, thank you, Anzu! If you ever spot him, contact me! I'll come rushing no matter what!
+            Ohh, thank you, Anzu! If you ever spot him, contact me right away! I'll come rushing no matter what!
 
             Heheh! I'm even more excited for the Kyoto trip now! ☆
 			{% endbubble %}
@@ -181,7 +181,7 @@ I'd love to hear all sorts of things from the hero of Kyoto! ♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Oh, you're interested in the regional heroes, too!? I'm so happy!
+            Oh, you're interested in the regional hero, too!? That makes me really happy!
 
             Alright, if we ever have time, let's go searching for him. I'm sure we'll find him if we both work together!
 			{% endbubble %}
@@ -193,7 +193,7 @@ I'd love to hear all sorts of things from the hero of Kyoto! ♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            I'd like to know what he does around the place, and why he became a hero, and what's his ambitions as a hero… I wouldn't even know which question to begin with!
+            I'd like to know what he typically does around the place, why he became a hero of this region, what his ambitions are as a hero, and so much more… I wouldn't even know which question to begin with!
 
             Alright, I don't want to take up all his time, so I'll compile all the questions I'd like to ask him!
 			{% endbubble %}
