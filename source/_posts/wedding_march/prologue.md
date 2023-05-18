@@ -117,7 +117,7 @@ All right, let’s begin.
 </div>
 
 {% bubble Makoto %}
-“Hello! I’m Yuuki Makoto, acting as your impromptu live host simply because I’m a member of the broadcasting committee at my school!”
+“Hello! I’m Yuuki Makoto, chosen to be your impromptu live host simply because I’m a member of the broadcasting committee at my school!”
 
 “And so the final game begins! Its name — ‘Obstacle Course Contest: Vowing Your Life’”!
 
@@ -172,9 +172,7 @@ Wait for me, Sazanami! I’ll make sure to slice that cake!
 I’ll be the one to protect Sazanami and the world’s peace…! ☆
 {% endbubble %}
 
-<!--
 <div toc>
 {% btn /wedding_march,, star, Index %}
 {% btn /wedding_march/white_diamond,, arrow-right, Next Chapter: White Diamond %}
 </div>
--->

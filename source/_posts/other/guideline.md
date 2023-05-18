@@ -88,8 +88,8 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         />
     </div>
     <a href="wedding_march" class="storyName" target="_blank">
-        <span>Wedding March!</span>
-        <span class="read soon"></span>
+        <span>Wedding March! (In Progress!)</span>
+        <span class="read"></span>
     </a>
 </div>
 </div>

@@ -248,6 +248,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+            alt="Wedding March!"
+        />
+    </div>
+    <a href="wedding_march" class="storyName" target="_blank">
+        <span>Wedding March! (In Progress!)</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Gacha Stories

@@ -979,6 +979,9 @@
 [character="Eichi"][smile2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_smile2.png");
 }
+[character="Eichi"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_frown.png");
+}
 /**
 ***/
 
@@ -1055,6 +1058,27 @@
 
 /** Jun Expressions
 ***/
+[character="Jun"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_awkward.png");
+}
+[character="Jun"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_curious.png");
+}
+[character="Jun"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_frown.png");
+}
+[character="Jun"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_serious.png");
+}
+[character="Jun"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_shocked.png");
+}
+[character="Jun"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_surprised.png");
+}
+[character="Jun"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_worried.png");
+}
 [character="Jun"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun2.png");
 }
@@ -1195,6 +1219,15 @@
 
 [character="Arashi"][beastscg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/arashi_beasts.png");
+}
+/**
+***/
+
+
+/** Tatsumi Expressions
+***/
+[character="Tatsumi"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tatsumi_curious.png");
 }
 /**
 ***/

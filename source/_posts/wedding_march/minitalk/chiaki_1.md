@@ -201,4 +201,4 @@ I'll be heading back to the agency office to take my belongings.
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Wedding-March,, star, Index %}{% btn /wedding_march/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: If I Were In Kyoto… %}</div>
+<div toc>{% btn /wedding_march,, star, Index %}{% btn /wedding_march/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: If I Were In Kyoto… %}</div>

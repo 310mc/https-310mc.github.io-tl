@@ -201,4 +201,4 @@ I'd love to hear all sorts of things from the hero of Kyoto! ♪
     </div>
 </div>
 <br>
-<div toc>{% btn /wedding_march/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Unexpected Dropped Item %}{% btn /minitalk/#Wedding-March,, star, Index %}</div>
+<div toc>{% btn /wedding_march/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Unexpected Dropped Item %}{% btn /wedding_march,, star, Index %}</div>

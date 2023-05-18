@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Wedding March! (In Progress!)"
-date: 2023-5-15 9:10:00
+date: 2023-5-23 9:00:00
 categories:
 - [Enstars, ES!!]
 tags:
@@ -113,7 +113,7 @@ permalink: wedding_march/
                 <div class="title-area__title">Wedding March!</div>
                 <div class="title-area__subtitle">ウェディングマーチ</div>
                 <div class="title-area__start">
-                    <a href="/prologue">Start Reading</a>
+                    <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
@@ -284,10 +284,10 @@ permalink: wedding_march/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="/prologue" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="" id="none">White Diamond</a>
+                            <a href="white_diamond" id="none">White Diamond</a>
                         </li>
                         <li>
                             <a href="" id="none">Red Diamond</a>
