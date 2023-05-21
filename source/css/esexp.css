@@ -783,6 +783,9 @@
 [character="Shu"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_yare.png");
 }
+[character="Shu"][v2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu2.png");
+}
 /**
 ***/
 
@@ -1075,7 +1078,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_serious.png");
 }
 [character="Nagisa"][worried] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/worried.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_worried.png");
 }
 [character="Nagisa"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa2.png");

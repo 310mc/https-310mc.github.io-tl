@@ -825,7 +825,7 @@ Mm~ That means the next person I could ask…
 I have to get myself together and greet him with a smile! Let’s just forget about the project for now.
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 —Morisawa?
 
 Why are you here? Are you traveling somewhere?
@@ -835,7 +835,7 @@ Why are you here? Are you traveling somewhere?
 Nope, I was actually waiting for your arrival. Welcome back, Itsuki! ☆
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 I don’t believe we are close like family for me to reply with “I’m home” in this situation, yet you still came to greet me?
 {% endbubble %}
 
@@ -863,7 +863,7 @@ Hmph! Look at it much more closely.
 The handkerchief I thought I lost…![^1]
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 So it really <em>was</em> yours after all.
 
 I found it in the atelier just recently. It looked to be the most typical tourist item you could find, so the moment I heard that you lost a souvenir, I made sure to bring it back with me to Japan.[^2]
@@ -902,7 +902,7 @@ Make it a reality…? Since when did you become a producer?
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Well, you see… *(explains the details)*
+Well, you see… <em><th>(explains the details)</th></em>
 {% endbubble %}
 
 <div class="msr-location">
@@ -948,9 +948,9 @@ It’s just that he’s a carefree guy who’s also real good at collecting info
 
 …Yeah, I’ll let you know if there are any updates. Aight, see ya later then~
 
-(I didn’t expect us to get Itsuki-senpai of all people on this project. Morisawa-senpai sure is something~ I gotta do my best, too.)
+<th>(I didn’t expect us to get Itsuki-senpai of all people on this project. Morisawa-senpai sure is something~ I gotta do my best, too.)</th>
 
-(Hm, I need to come up with a plan B if Yuuki-san rejects the offer, too…)
+<th>(Hm, I need to come up with a plan B if Yuuki-san rejects the offer, too…)</th>
 {% endbubble %}
 
 <div class="msr-narration">
@@ -958,11 +958,9 @@ It’s just that he’s a carefree guy who’s also real good at collecting info
 </div>
 
 {% bubble Jun v3 %}
-(Ohii-san’d be a good choice for this theme, but since he’s always trying to be the main lead, he might stand out too much… Like, to the point where he might just take the whole spotlight for himself.)
+<th>(Ohii-san’d be a good choice for this theme, but since he’s always trying to be the main lead, he might stand out too much… Like, to the point where he might just take the whole spotlight for himself.)</th>
 
-(Were this a CosPro-only job, I’d have considered him, but… Since different agencies are involved, it’d be better to move away from the best options…)
-
-(I wouldn’t have minded it if this were a job for CosPro, but… since other agencies are involved, it’d be wise to leave him out of the potential candidates/options…)
+<th>(I wouldn’t have minded it if this were a job for CosPro, but… since other agencies are involved, it’d be wise to leave him out of the potential candidates…)</th>
 
 ——Woah!? Nagi-senpai, how long have you been here!?
 {% endbubble %}
@@ -984,7 +982,7 @@ Anyway, I’m gonna get something to drink, too. I’m starting to feel thirsty 
 {% endbubble %}
 
 {% bubble Jun sad4 %}
-Gfph!? *(chokes on drink)*
+Gfph!? <em><th>(chokes on drink)</th></em>
 {% endbubble %}
 
 {% bubble Nagisa worried %}
@@ -1097,7 +1095,7 @@ But we won’t get anywhere by staying quiet. So I’ll express my gratitude as 
 First we have Itsuki Shu! He may be hard to please, but he’s a reliable person who’s always looking out for others! We were classmates back in school! ☆
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 I don’t see why you needed to mention all of that… Regardless, I’m Itsuki Shu. I’ll be working on this project with all of you.
 {% endbubble %}
 
@@ -1177,7 +1175,7 @@ Wow, really!? You did all of that without us even asking!? That’s incredible! 
 Mhm, allow me to explain! A support character is a non-combat member who supports the heroes from the back, while they’re off fighting the evil organiza—
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 That’s more than enough, Morisawa. You can continue this conversation after we’re done with the meeting.
 {% endbubble %}
 
@@ -1313,7 +1311,7 @@ Hm, hm! A “bridal field trip,” huh! It doesn’t sound bad at all!
 “Bridal field trip”… That sounds super gimmicky~
 {% endbubble %}
 
-{% bubble Shu serious %}
+{% bubble Shu v2 %}
 Indeed. It sounds cheap, unrefined, and unpolished.
 {% endbubble %}
 
