@@ -20,6 +20,8 @@ Kuro wants to learn more about a certain mascot from Midori…
 
 This story is connected to the card [Carrot's Relations] Kuro Kiryu.
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> July 26, 2019</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

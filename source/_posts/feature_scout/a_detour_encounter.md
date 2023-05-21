@@ -19,6 +19,8 @@ Jun encounters Tori and Midori at the bookstore…
 
 This story is connected to the card [Purchasing New Book] Jun Sazanami.
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> February 10, 2021</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

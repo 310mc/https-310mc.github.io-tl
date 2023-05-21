@@ -76,7 +76,7 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         />
     </div>
     <a href="manga_club" class="storyName" target="_blank">
-        <span>Manga Club</span>
+        <span>Manga Club (In Progress!)</span>
         <span class="read soon"></span>
     </a>
 </div>

@@ -13,6 +13,8 @@ description: "[ES!!] Translation of a Sora Feature Scout Story, featuring Hinata
 permalink: small_universe/
 ---
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> January 25, 2022</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

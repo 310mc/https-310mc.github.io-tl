@@ -20,10 +20,10 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Jun" character="Jun"></a>
                 <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
-                <a href="/categories/Enstars/Makoto" character="Makoto"></a>
                 <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
+                <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+                <a href="/categories/Enstars/Jun" character="Jun"></a>
                 </div>
             </div>
             <div class="info-item one">

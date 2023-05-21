@@ -58,8 +58,8 @@ permalink: wedding_march/
                         <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
                         <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                         <a href="/categories/Enstars/Shu" character="Shu"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Jin" character="Jin"></a>
                         <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
                         <a href="/categories/Enstars/Hajime" character="Hajime"></a>
@@ -111,7 +111,7 @@ permalink: wedding_march/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Wedding March!</div>
-                <div class="title-area__subtitle">ウェディングマーチ</div>
+                <div class="title-area__subtitle">ウェディングマーチ！</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -156,8 +156,8 @@ permalink: wedding_march/
                         <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
                         <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                         <a href="/categories/Enstars/Shu" character="Shu"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Makoto" character="Makoto"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Jin" character="Jin"></a>
                         <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
                         <a href="/categories/Enstars/Hajime" character="Hajime"></a>

@@ -20,6 +20,8 @@ Shinobu tries to figure out the perfect personalized outfit for himself…
 
 This story is connected to the card [Light Beaming from the Darkness] Shinobu Sengoku.
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> September 10, 2020</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

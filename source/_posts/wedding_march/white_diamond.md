@@ -25,8 +25,8 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Jun" character="Jun"></a>
-                <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                 <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+                <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
                 <a href="/categories/Enstars/Shu" character="Shu"></a>
                 <a href="/categories/Enstars/Nagisa" character="Nagisa"></a>
                 <a href="/categories/Enstars/Makoto" character="Makoto"></a>
@@ -819,7 +819,9 @@ I didn’t expect Takamine to reject me…
 I was planning under the notion that he’d accept my invitation, so this is a hard hit on me.
 
 Mm~ That means the next person I could ask…
+{% endbubble %}
 
+{% bubble Chiaki %}
 …Oh! No, no, this isn’t the time. I’m supposed to pick up a friend right now!
 
 I have to get myself together and greet him with a smile! Let’s just forget about the project for now.
@@ -877,7 +879,7 @@ I see…! So it was in your atelier all along! *That’s* why I couldn’t find 
 I’m sorry for the trouble. Let me repay you somehow — How about I carry your luggage?
 {% endbubble %}
 
-{% bubble Shu frown %}
+{% bubble Shu yare %}
 I’d rather you don’t. I have valuable items inside, so I can’t risk having them damaged.
 {% endbubble %}
 
@@ -1240,7 +1242,7 @@ Then we’ll have to do it somewhere in Japan, right? Hmm, where would be best�
 {% endbubble %}
 
 {% bubble Nagisa v2 %}
-…What about Kyoto?
+…How about Kyoto?
 {% endbubble %}
 
 {% bubble Jun curious %}
@@ -1357,4 +1359,4 @@ Translation in progress!
 [^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea's Atelier</a>.
 [^3]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
 [^4]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>.
-[^5]: A reference to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.
+[^5]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.

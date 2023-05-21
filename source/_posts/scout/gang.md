@@ -742,7 +742,7 @@ Sure, you could show it to kids who know how to control themselves… But no one
 
 If people start thinking that they’re heroes, that they’ll beat up all the evil monsters… then all I can imagine is a future where people start beating up their own friends.
 
-This ally of justice business should just be left to the police.
+This hero of justice business should just be left to the police.
 {% endbubble %}
 
 {% bubble Chiaki %}

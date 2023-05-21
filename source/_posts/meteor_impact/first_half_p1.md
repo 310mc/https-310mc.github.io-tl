@@ -82,7 +82,7 @@ Heh… The ally of justice has arrived in all his splendid glory.
 
 Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never prosper! Fuhahahaha!! ☆
 
-…………
+……………
 
 <th>(…It’s too scary! I’m trying to shake off my fear with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)</th>
 
@@ -146,11 +146,11 @@ Now I can forget all about my fears, and—
 
 U-Um, hellooo…? I-Is there someone… out there…?
 
-…………
+……………
 
 <th>(…N-No response. Of course there wouldn’t be.)</th>
 
-<th>(No one in our school is enthusiastic enough to practice past schooltime, and the teacher currently on duty isn’t that serious about their job, either.)</th>
+<th>(No one in our school is enthusiastic enough to practice past school time, and the teacher currently on duty isn’t that serious about their job, either.)</th>
 
 <th>(I specifically chose a day like this, just so I could clean the pool in secret.)</th>
 
@@ -182,7 +182,7 @@ i do not know this Word. could you teach me, please?
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}
-Huh!? Um, no… What!? W-What are you!? *I’msosorry<wbr>someonesaveme<wbr>pleasedon’tcurseme* I’m not tasty!!!
+Huh!? Um, no… What!? W-What are you!? <em>I’msosorry<wbr>someonesaveme<wbr>pleasedon’tcurseme</em> I’m not tasty!!!
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -234,11 +234,11 @@ i apologize. i am not used to having a Conversation…
 {% bubble Chiaki mgn %}
 Huh? Ahh, sorry! Did I talk too fast? I don’t have any friends, so I’m bad at it myself!
 
-Heheh. You always seemed like a distant being, so I’m happy to know we share something in common.
+Heheh. You always seemed like a distant being, so I’m happy to know that we share something in common.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-…? is that so? you are Happy we share something?
+…? is that so? you are Happy that we share something?
 
 why would you be Happy about that?
 {% endbubble %}
@@ -412,7 +412,7 @@ it was an Earnest match between the two of us~… chiaki? are you listening?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-<th>*(Humming)*</th> \~♪~♪ Oh! I found the soap! Ahaha, it’s so fancy! Alright, I may as well find a towel to wipe the dirt off!
+<th><em>(Humming)</em></th> \~♪\~♪ Oh! I found the soap! Ahaha, it’s so fancy! Alright, I may as well find a towel to wipe the dirt off!
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}
@@ -482,7 +482,7 @@ fufu. if it is what you Wish, i will not laugh.
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}
-N-no, I’d rather see you smiling than have a straight face… The sudden laughter took me by surprise, that’s all.
+N-No, I’d rather see you smiling than have a straight face… The sudden laughter took me by surprise, that’s all.
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -560,7 +560,7 @@ number… one…? i am sorry, i do not understand…
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Huh. You aren’t the type to watch TV? Then why did you want to become an idol? Is it because you watched one at a liveshow or something?
+Huh. You aren’t the type to watch TV? Then why did you want to become an idol? Is it because you watched one at a live show or something?
 
 I’ve always watched all kinds of idols perform on TV! It’s how I came to like them, and why I wanted to become one!
 

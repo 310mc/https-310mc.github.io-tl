@@ -20,6 +20,8 @@ Madara and Anzu spot Mitsuru and Hajime exercising…
 
 This story is connected to the card [Showdown with Mama] Mitsuru Tenma.
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> September 19, 2018</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">

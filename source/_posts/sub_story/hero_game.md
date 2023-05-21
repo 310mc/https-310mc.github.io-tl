@@ -22,6 +22,8 @@ Chiaki decides to play superheroes with everyone in Ryuseitai to better their un
 
 This story is connected to the card [Negligent] Midori Takamine.
 
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> August 26, 2017</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
