@@ -765,6 +765,24 @@
 [character="Shu"][distress] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_distress.png");
 }
+[character="Shu"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_frown.png");
+}
+[character="Shu"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_glare.png");
+}
+[character="Shu"][hmph] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_hmph.png");
+}
+[character="Shu"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_serious.png");
+}
+[character="Shu"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_surprised.png");
+}
+[character="Shu"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_yare.png");
+}
 /**
 ***/
 
@@ -1050,6 +1068,15 @@
 
 /** Nagisa Expressions
 ***/
+[character="Nagisa"][curious] {
+    --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_curious.png");
+}
+[character="Nagisa"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_serious.png");
+}
+[character="Nagisa"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/worried.png");
+}
 [character="Nagisa"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa2.png");
 }
@@ -1067,11 +1094,17 @@
 [character="Jun"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_frown.png");
 }
+[character="Jun"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_sad4.png");
+}
 [character="Jun"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_serious.png");
 }
 [character="Jun"][shocked] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_shocked.png");
+}
+[character="Jun"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_sigh.png");
 }
 [character="Jun"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jun_surprised.png");
