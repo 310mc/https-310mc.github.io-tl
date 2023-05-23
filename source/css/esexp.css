@@ -188,10 +188,13 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin2.png");
 }
 [character="Chiaki"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_neutral.png");
 }
 [character="Chiaki"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_norsmile.png");
+}
+[character="Chiaki"][norsmile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_norsmile2.png");
 }
 [character="Chiaki"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_northinking.png");

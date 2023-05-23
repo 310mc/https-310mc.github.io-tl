@@ -551,6 +551,8 @@ You’re right, maybe rainy days aren’t so bad after all if it means I get to 
 Right, right? You can come up with many ways to enjoy yourself, no matter the weather!
 {% endbubble %}
 
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
 ## Translation Notes
 [^1]: For more information on the relationship of toads and ninjas, see <a href="https://en.wikipedia.org/wiki/Jiraiya" target="_blank">this</a>.
 [^2]: You can see Shinobu's pet frogs in <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">this card</a>.

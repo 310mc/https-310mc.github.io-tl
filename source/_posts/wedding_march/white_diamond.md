@@ -196,7 +196,7 @@ Wh— Why’re you suddenly narrating a whole backstory… You don’t have to t
 {% bubble Chiaki v2 %}
 Don’t be like that! Plus, isn’t it good for you to learn more about other people?
 
-I first met Sazanami at Project Saga. We fought against each other at the Rebirth Live — I was in Rain-bows, and he was in Lilith.
+I first met Sazanami at Project Saga.[^1] We fought against each other at the Rebirth Live — I was in Rain-bows, and he was in Lilith.
 
 Back then, he was, how do I put it… He was pretty hostile, so I wasn’t sure how things would play out, but…
 
@@ -290,7 +290,7 @@ I see.
 
 …Ah!
 
-Don’t tell me that video is—
+Don’t tell me that video was—
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -461,7 +461,7 @@ Right, as for the actual matter I’d like to speak about—
 Matter…?
 {% endbubble %}
 
-{% bubble Eichi serious %}
+{% bubble Eichi %}
 Oh? You look quite sour all of a sudden.
 {% endbubble %}
 
@@ -712,7 +712,7 @@ This is for you! Give me your hand.
 {% bubble Midori surprised %}
 A capsule toy of a mascot character!? And a <em>super</em> rare one at that!?
 
-Why? It’s not even my birthday…
+Why, though? It’s not even my birthday…
 {% endbubble %}
 
 {% bubble Midori sigh4 %}
@@ -838,7 +838,7 @@ Nope, I was actually waiting for your arrival. Welcome back, Itsuki! ☆
 {% endbubble %}
 
 {% bubble Shu v2 %}
-I don’t believe we are close like family for me to reply with “I’m home” in this situation, yet you still came to greet me?
+I don’t believe we’re close like family for me to reply with “I’m home” in this situation, yet you still came to greet me?
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -851,7 +851,7 @@ How is this “better”? Have you not a clue how enormous an airport is?
 Nevertheless, I suppose I should thank you for making the arrangements less time-consuming. And so, take this.
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki curious %}
 A souvenir from Paris…? You wanted to give this to me?
 {% endbubble %}
 
@@ -862,15 +862,15 @@ Hmph! Look at it much more closely.
 {% bubble Chiaki shocked %}
 …Wha!? T-This is…!
 
-The handkerchief I thought I lost…![^1]
+The handkerchief I thought I lost…![^2]
 {% endbubble %}
 
 {% bubble Shu v2 %}
 So it really <em>was</em> yours after all.
 
-I found it in the atelier just recently. It looked to be the most typical tourist item you could find, so the moment I heard that you lost a souvenir, I made sure to bring it back with me to Japan.[^2]
+I found it in the atelier just recently. It looked to be the most typical tourist item you could find, so the moment I heard that you lost a souvenir, I made sure to bring it back with me to Japan.
 
-Even if my assumption was incorrect, my other likely suspects would have been Kiryu or Tsukinaga, considering it was in the atelier.
+Even if my assumption was incorrect, my other likely suspects would have been Kiryu or Tsukinaga, considering it was in the atelier.[^3]
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -900,7 +900,7 @@ Alright then, I can definitely make that a reality!
 {% endbubble %}
 
 {% bubble Shu glare %}
-Make it a reality…? Since when did you become a producer?
+Make it a reality…? Since when did *you* become a producer?
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -1150,7 +1150,7 @@ It goes without saying that two heads are better than one, so with the six of us
 {% endbubble %}
 
 {% bubble Tatsumi curious %}
-You seem to speak and act just like a hero of justice…?
+You seem to speak and act just like an “ally of justice”…?
 {% endbubble %}
 
 {% bubble Shu frown %}
@@ -1188,7 +1188,7 @@ Oh, you’re right. Alright, go ahead and continue, Yuuki.
 {% bubble Makoto %}
 O-Okay! So from my research, I found a couple of bridal projects aside from the PV you did.
 
-Among ES idols, there was the one by Ring.A.Bell[^3], and the wedding-themed song by UNDEAD[^4]… If we were to count idols outside of ES, it’d exceed more than ten different projects.
+Among ES idols, there was the one by Ring.A.Bell[^4], and the wedding-themed song by UNDEAD[^5]… If we were to count idols outside of ES, it’d exceed more than ten different projects.
 {% endbubble %}
 
 {% bubble Tatsumi %}
@@ -1216,7 +1216,7 @@ The opposite of “two people all alone” would be multiple people, and the opp
 {% endbubble %}
 
 {% bubble Jun v3 %}
-You’re talking about Bogie Time[^5], right? The six of us here aren’t a group you see every day, so I bet we could make something big again~♪
+You’re talking about Bogie Time[^6], right? The six of us here aren’t a group you see every day, so I bet we could make something big again~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1234,7 +1234,7 @@ Wha—!? How’d you know I was going to say that!? Are you a mind-reader!?
 {% endbubble %}
 
 {% bubble Makoto %}
-Since it’s a wedding, the first thing that comes to mind is Hawaii or Guam, but… While we may have a huge budget, I don’t think traveling is really an option.
+Since it’s a wedding, the first thing that comes to mind is Hawaii or Guam, but… While we may have a huge budget, I don’t think traveling overseas is really an option.
 {% endbubble %}
 
 {% bubble Jun v3 %}
@@ -1254,7 +1254,7 @@ Kyoto?
 {% endbubble %}
 
 {% bubble Jun awkward %}
-N-No, I know that~ Why’d you explain it to me like I’m a middle schooler…
+N-No, I know that~ Why’d you explain it to me like I’m a grade schooler…
 {% endbubble %}
 
 {% bubble Nagisa v2 %}
@@ -1340,7 +1340,7 @@ Hm? Why’re you tugging my sleeve, Nagi-senpai?
 {% bubble Jun v3 %}
 Ah… Yeah, let’s move on. Some of us here have work in the evening, so…
 
-Let’s focus on the meeting for now. We’ll work out the details until we finalize a project that’ll make everyone involved happy~♪
+Let’s focus on the meeting for now. We’ll work out the details ‘til we finalize a project that’ll make everyone involved happy~♪
 {% endbubble %}
 
 {% note narration %}
@@ -1355,8 +1355,9 @@ Translation in progress!
 </div>
 
 ## Translation Notes
-[^1]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu's card</a>.
-[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea's Atelier</a>.
-[^3]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
-[^4]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>.
-[^5]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.
+[^1]: A link to <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
+[^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu's card</a>.
+[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea's Atelier</a>.
+[^4]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
+[^5]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>.
+[^6]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.

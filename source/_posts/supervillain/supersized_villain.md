@@ -583,7 +583,7 @@ Our generation has survived the Yumenosaki War Era, days that you’ve never exp
 ………
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 I wouldn’t ever barge into a dangerous place like this without any precautions or preparation in the first place.
 
 Regardless, even if I *do* get killed or otherwise disappear, Tenshouin will make his move. I made sure those arrangements were set in place before we left.
@@ -599,7 +599,7 @@ And if the supreme Tenshouin Zaibatsu comes into play here, the fate of Crimson 
 ………
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 I’ll say it a hundred times more. This time, it’s my victory — *our* victory, Nagumo.
 
 Your biggest mistake was to choose the path of evil. And typically, this isn’t something said to the loser, but—
