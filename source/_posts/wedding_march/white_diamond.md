@@ -12,6 +12,7 @@ categories:
 - [Enstars, Makoto]
 tags:
 - Event Story
+- Yuumasu
 description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -1004,7 +1005,7 @@ Oh, nah. Y’see—
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>Few minutes later…</p>
+    <p>A few minutes later…</p>
 </div>
 
 {% bubble Nagisa v2 %}

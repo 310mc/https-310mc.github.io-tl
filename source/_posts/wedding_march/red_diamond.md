@@ -35,11 +35,11 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
                 <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                 <a href="/categories/Enstars/Shu" character="Shu"></a>
                 <a href="/categories/Enstars/Makoto" character="Makoto"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Jin" character="Jin"></a>
                 <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                 <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                 </div>
             </div>
@@ -257,7 +257,7 @@ Yaay~
 {% endbubble %}
 
 {% bubble YuzuruNagisa %}
-…Yaay. ♪
+…Yaay♪
 {% endbubble %}
 
 {% bubble Shu norsmile %}
@@ -273,10 +273,10 @@ Hmph! It isn’t in my character to do that.
 {% endbubble %}
 
 {% bubble Chiaki angry %}
-*Hrmph…*
+Hrmph…
 {% endbubble %}
 
-{% bubble Shu v2 %}
+{% bubble Shu frown %}
 What are you making that face for? I’m not your parent, and I’ve no interest in taking part in this foolish charade.
 {% endbubble %}
 
@@ -377,7 +377,7 @@ Okay then! We’re going to be the “Effort! Friendship! Victory! Fiery☆Hero 
 {% endbubble %}
 
 {% bubble Chiaki smile3 %}
-*Hrmph…* Alright, then I’ll make it “Fiery☆Pair”!
+Hrmph… Alright, then I’ll make it “Fiery☆Pair”!
 {% endbubble %}
 
 {% bubble Tatsumi %}
@@ -616,5 +616,5 @@ Translation in progress!
 </div>
 
 ## Translation Notes
-[^1]: fskgksg
-[^2]: gskgesokg
+[^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2.
+[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
