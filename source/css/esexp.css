@@ -777,6 +777,9 @@
 [character="Shu"][hmph] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_hmph.png");
 }
+[character="Shu"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_norsmile.png");
+}
 [character="Shu"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_serious.png");
 }
@@ -1281,6 +1284,14 @@
 
 /** Jin Expressions
 ***/
+[character="Akiomi"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_frown.png");
+}
+/**
+***/
+
+/** Jin Expressions
+***/
 [character="Jin"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/jin_awkward.png");
 }
@@ -1601,6 +1612,27 @@
   --name: "Aquarius";
   --hue: 193.8;
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
+}
+
+[character=MakotoChiaki]{
+  --color: #65ab31;
+  --hue: 94.4;
+  --name: "Makoto & Chiaki";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_makotochiaki.png")
+}
+
+[character=JunTatsumi]{
+  --color: #7ebea5;
+  --hue: 156.6;
+  --name: "Jun & Tatsumi";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_juntatsumi.png")
+}
+
+[character=YuzuruNagisa]{
+  --color: #3e62ad;
+  --hue: 220.5;
+  --name: "Yuzuru & Nagisa";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_yuzurunagisa.png")
 }
 /**
 ***/

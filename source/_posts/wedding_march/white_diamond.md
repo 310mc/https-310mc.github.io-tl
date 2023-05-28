@@ -68,7 +68,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
 <div toc>
 {% btn /wedding_march/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /wedding_march,, star, Index %}
-<!--{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}-->
+{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}
 </div>
 
 ## Chapter 1
@@ -784,7 +784,7 @@ Are you sure…?
 {% bubble Chiaki smile3 %}
 Yep! I don’t have anything I could do with it, and I’m sure the mascot character would be much happier under the hands of someone who’d adore it!
 
-Think of it as me, and take great care of it…☆
+Think of it as me, and cherish it well…☆
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -1343,15 +1343,11 @@ Ah… Yeah, let’s move on. Some of us here have work in the evening, so…
 Let’s focus on the meeting for now. We’ll work out the details ‘til we finalize a project that’ll make everyone involved happy~♪
 {% endbubble %}
 
-{% note narration %}
-Translation in progress!
-{% endnote %}
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /wedding_march/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /wedding_march,, star, Index %}
-<!--{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}-->
+{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}
 </div>
 
 ## Translation Notes

@@ -81,7 +81,7 @@ This… is a marriage application form!? You're going to get married, Anzu!?
             {% bubble Chiaki v2 %}
             …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
 
-            Ohh! This pattern is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
+            Ohh! This pattern design is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
 			{% endbubble %}
         </div>
     </div>

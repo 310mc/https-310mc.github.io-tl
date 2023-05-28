@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Wedding March! (In Progress!)"
-date: 2023-5-23 9:00:00
+date: 2023-5-29 9:00:00
 categories:
 - [Enstars, ES!!]
 tags:

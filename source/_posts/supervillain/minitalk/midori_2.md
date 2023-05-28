@@ -142,7 +142,7 @@ I know I'm being selfish. But I just mentally can't do it…
             {% bubble Midori sad %}
             Maybe it's how powerless I feel, and how it feels like all I'm doing is just throwing tantrums… Or maybe how Morisawa-senpai doesn't bother talking to his own unit members about anything… Or maybe how nothing's been working out for us…
 
-            I don't even know anymore… What's hurting me this much…?
+            I don't even know anymore… What's hurting me so much…?
 			{% endbubble %}
         </div>
     </div>

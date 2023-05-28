@@ -1024,7 +1024,7 @@ That’s ‘cause I started from rock bottom! Hmph!
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
-Haha, you’re sulking~. But honestly, I’m surprised. Morisawa-Taichou was much more thorough in his preparations than I expected, and it really helped me out.
+Haha, you’re sulking~ But honestly, I’m surprised. Morisawa-Taichou was much more thorough in his preparations than I expected, and it really helped me out.
 
 He seemed to have noticed my message, too.
 {% endbubble %}

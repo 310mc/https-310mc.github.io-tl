@@ -811,7 +811,7 @@ that’s right, it is just as chiaki [said]~ come, let’s all dance together~�
 {% endbubble %}
 
 {% bubble Tetora %}
-Ooh… It’s pretty unusual for Shinkai-senpai to start singing first. We gotta work hard just as hard, too, Midori-kun~♪
+Ooh… It’s pretty unusual for Shinkai-senpai to start singing first. We gotta work just as hard, too, Midori-kun~♪
 {% endbubble %}
 
 {% bubble Midori frown %}
