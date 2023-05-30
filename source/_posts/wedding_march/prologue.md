@@ -61,9 +61,9 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
 
-<!--<div class="msr-location">
-    <p><span><b>Location:</b> ADD</span></p>
-</div>-->
+<div class="msr-location">
+    <p><span><b>Location:</b> Tokusatsu Set Location</span></p>
+</div>
 
 {% img /img/es/eventstory/weddingmarch/prologue_1.jpg %}
 

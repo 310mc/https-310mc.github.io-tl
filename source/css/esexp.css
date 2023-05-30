@@ -783,6 +783,9 @@
 [character="Shu"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_serious.png");
 }
+[character="Shu"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_shocked.png");
+}
 [character="Shu"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shu_surprised.png");
 }
@@ -968,11 +971,31 @@
 [character="Makoto"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_awkward.png");
 }
+[character="Makoto"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_curious.png");
+}
 [character="Makoto"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_surprised.png");
 }
 [character="Makoto"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_worried.png");
+}
+/**
+***/
+
+/** Yuzuru Expressions
+***/
+[character="Yuzuru"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuzuru_awkward.png");
+}
+[character="Yuzuru"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuzuru_curious.png");
+}
+[character="Yuzuru"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuzuru_northinking.png");
+}
+[character="Yuzuru"][young] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuzuru_young.png");
 }
 /**
 ***/
@@ -1008,6 +1031,17 @@
 }
 [character="Eichi"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_frown.png");
+}
+/**
+***/
+
+/** Adonis Expressions
+***/
+[character="Adonis"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_curious.png");
+}
+[character="Adonis"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile.png");
 }
 /**
 ***/
@@ -1079,6 +1113,9 @@
 ***/
 [character="Nagisa"][curious] {
     --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_curious.png");
+}
+[character="Nagisa"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_northinking.png");
 }
 [character="Nagisa"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nagisa_serious.png");
@@ -1268,8 +1305,14 @@
 
 /** Tatsumi Expressions
 ***/
+[character="Tatsumi"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tatsumi_awkward.png");
+}
 [character="Tatsumi"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tatsumi_curious.png");
+}
+[character="Tatsumi"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tatsumi_northinking.png");
 }
 /**
 ***/
@@ -1594,10 +1637,6 @@
 ***/
 [character="Ibara"][young] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibara_young.png");
-}
-
-[character="Yuzuru"][young] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuzuru_young.png");
 }
 
 [character="Libra"] {

@@ -17,7 +17,9 @@ description: "[ES!!] Chiaki's second Mini Talk from Submarine. From multiple POV
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a> <a href="/categories/Enstars/Midori" character="Midori"></a> <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -55,17 +57,17 @@ description: "[ES!!] Chiaki's second Mini Talk from Submarine. From multiple POV
 {% img /img/es/eventstory/submarine/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki %}
-I heard the Okinawan idols are powerhouses, yet Akatsuki managed to defeat them all with ease… Unbelievable.
+I heard that the Okinawan idols are powerhouses, yet Akatsuki managed to defeat them all with ease… Unbelievable.
 
-It sounds a bit troubling somehow, but… on the bright side, no problems occurred so far.
+It sounds a bit troubling somehow, but… On the bright side, no problems occurred so far.
 
-Anyway, it's lunch time now! Takamine, make sure you should eat meat and fish too, not just vegetables~♪
+Anyway, it's lunch time now! Takamine, make sure that you eat meat and fish too, not just vegetables~♪
 {% endbubble %}
 
 <div class="minitalk" character="Midori">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sigh…
+            <em>Sigh…</em>
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
@@ -122,7 +124,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
             {% bubble Chiaki %}
             Heheh, that's wonderful!
 
-            You guys have been influencial since your days at Yumenosaki, after all! I bet you're doing great nowadays, too.
+            You guys have been influential since your days at Yumenosaki, after all! I bet you're doing great nowadays, too.
 			{% endbubble %}
         </div>
     </div>

@@ -187,7 +187,7 @@ That’s the spirit! I expect great things from you, Fushimi!
 {% endbubble %}
 
 {% bubble Tatsumi %}
-I’m sorry to have kept you all waiting, everyone. The staff members seem to have finished the preparations, so it’s time to begin the briefing.
+I’m sorry to have kept you all waiting, everyone. The staff members seem to have finished the preparations, so I believe it’s time for the briefing.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -221,7 +221,7 @@ Anzu-san, we’re entrusting you with all the behind-the-scenes arrangements.
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>Ten minutes later — They begin recording the online stream…</p>
+    <p>Ten minutes later — They begin recording the upcoming online stream…</p>
 </div>
 
 {% bubble Jin %}
@@ -229,7 +229,7 @@ Anzu-san, we’re entrusting you with all the behind-the-scenes arrangements.
 {% endbubble %}
 
 {% bubble Akiomi %}
-“Hello, I’m Kunugi Akiomi. We will be your hosts for this show. It’s a pleasure to work with all of you.”
+“Hello, I’m Kunugi Akiomi. We will be your hosts for this show. It’s a pleasure to be here.”
 
 “Now then, I believe there was already an explanation at the studio, but this show is not simply just about a short trip.”
 
@@ -483,7 +483,7 @@ What are you two doing?
 {% endbubble %}
 
 {% bubble Jun v3 %}
-Ah, Tatsumi-senpai. We were just chatting while looking at the koi carps in the pond.
+Ah, Tatsumi-senpai. We were just chatting while looking at the carps in the pond.
 {% endbubble %}
 
 {% bubble Tatsumi %}
@@ -604,6 +604,1124 @@ Mhm, I like that idea~♪
 “The short trip has only just begun. Please do enjoy watching the idols entertain themselves.”
 {% endbubble %}
 
+## Chapter 4
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Near the Togetsukyo Bridge in Arashiyama</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red4_1.jpg %}
+
+<div class="msr-narration">
+    <p>The same day…</p>
+</div>
+
+{% bubble Yuzuru %}
+The color of autumn is thriving here too, isn’t it?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Yes. It looks just like a red diamond.
+{% endbubble %}
+
+{% bubble Makoto %}
+Red diamond?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…It’s a type of diamond. There are various other kinds of red jewels, such as ruby, garnet, spinel…
+
+…But this is likely going to be our only opportunity to witness this scenery as the three of us.
+
+…So I believe that the red diamond suits this scenery the most, as it is the rarest of all diamonds.
+
+…? What’s wrong with that boat over there? Is it laying still due to the slow current of the river?
+{% endbubble %}
+
+{% bubble Makoto %}
+That’s a houseboat.[^3] The reason why it looks slow is because it’s moved by poking the bottom of the river with a bamboo pole.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…You know a lot, don’t you?
+{% endbubble %}
+
+{% bubble Makoto %}
+Ahaha, I got curious as well, so I did some quick research on my phone~♪
+
+According to the Kyoto guide site, it was a common way for aristocrats to spend their time in the olden days.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Hm. Perhaps I’d be able to know how it was for the people back then through that boat.
+
+…I’d love to ride on it, but it doesn’t seem possible with that queue.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+…Unfortunately so. I looked through the reservations online, and it seems to be fully booked.
+
+I apologize for being unable to help.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Not at all. Thank you for checking for my sake. Tourism is rather high during this time of year, so I’m sure we would have had to book days in advance.
+
+…It’s unfortunate that we can’t try one this time, but I’ll reserve my curiosity for the next opportunity.
+
+…I hope I can come here again with my unit members. I’ll have to work hard on the game segment to make that a reality.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Meanwhile, elsewhere…</p>
+</div>
+
+{% bubble Tatsumi %}
+…………
+{% endbubble %}
+
+{% bubble Shu v2 %}
+…………
+{% endbubble %}
+
+{% bubble Tatsumi awkward %}
+…I’m so sorry. With such a lovely view of autumn before us, I couldn’t help but gaze silently in awe.
+{% endbubble %}
+
+{% bubble Shu v2 %}
+You’re taking multiple photos, so it’s no surprise that you were quiet. What sort of photos did you take?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Would you like to see for yourself? Here you go.
+{% endbubble %}
+
+{% bubble Shu v2 %}
+…Hm. All of them are photographs of the scenery. Do you like taking photos of this composition?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Yes, I always take photos like this during my travels. Whenever I have the urge to preserve a spectacle, I naturally end up with photos like this.
+
+I see that for you, it’s… photographs focusing on something specific, such as a shop’s ornaments, autumn leaves, and the like — is that correct?
+
+How interesting. We’re both looking at the same thing, but end up with vastly different photos.
+{% endbubble %}
+
+{% bubble Shu v2 %}
+That would be because I took these as reference photos for my future creations.
+
+However… I should take photos of the scenery, as well. Your photographs reminded me of Kagehira.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Reminded you of Mika-san…?
+{% endbubble %}
+
+{% bubble Shu yare %}
+He sometimes sends me photographs whenever I’m living overseas, perhaps out of concern.
+
+The photos tend to be of anything he’s doing, be it his circle activities, or an outing with a friend, and so on — all the while rambling about such topics.
+
+It’s about time I also send something to him, at least every once in a while.
+
+…However, while I know this isn’t something I should say as another tourist here…
+
+I do wish this crowd could fade away somehow. They keep appearing in the photographs no matter what angle I take them in.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Hmm… If I remember clearly, our inn wasn’t that far away from here…
+
+Shu-san, how about the two of us visit this area tomorrow in the early morning?
+{% endbubble %}
+
+{% bubble Shu v2 %}
+Early morning…?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+You see, I spoke to my unit members the other day about my trip to Kyoto.
+
+While we were all excited by the thought of visiting the place together someday, Mayoi-san can’t quite handle crowds very well…
+
+He expressed that he’ll do his best to endure it, but we would never want to force him.
+
+Thus, we decided that we would visit the famous tourist spots early in the morning, and after that, explore the more obscure, quiet areas of the city.
+
+This region is filled with its own history, so there surely lies many unknown charms to it. And places with little to no people in it feels like a fun adventure of its own, don’t you think?
+{% endbubble %}
+
+{% bubble Shu norsmile %}
+I see. That isn’t such a bad idea, actually. Very well then, we’ll visit this area tomorrow morning.
+
+I believe we’ll be able to relax and explore in peace, as long as the cameras aren’t on us.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Meanwhile, elsewhere…</p>
+</div>
+
+{% bubble Jun v3 %}
+The autumn leaves are real pretty~
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Mhm! They really are pretty!
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Umm… Sorry, I’m terrible with words, so the only thing I have to say is how pretty it is…
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Me too! It’s fine if we can’t think of anything else to say! The beauty of nature is experienced through the soul, after all! ☆
+{% endbubble %}
+
+{% bubble Jun v3 %}
+That’s true. Ahaha~
+{% endbubble %}
+
+{% bubble Jun curious %}
+Anyway, is it just me, or…
+
+Are there four rowboats heading our way at full speed?
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+Mm? The guy standing in an imposing manner on the first boat seems familiar to me…
+
+Is that… Otogari?
+{% endbubble %}
+
+## Chapter 5
+
+{% bubble Akiomi %}
+“—As you may have noticed, the guest idol of the first day is Otogari-kun from UNDEAD!”
+{% endbubble %}
+
+{% bubble Adonis norsmile %}
+Hello, I’m Otogari Adonis. My partner is—
+{% endbubble %}
+
+{% bubble Makoto %}
+Me! Let’s do our best together, Otogari-kun.
+
+You really surprised me with that imposing stance, Otogari-kun. You’ve got a knack for grand appearances!
+{% endbubble %}
+
+{% bubble Adonis curious %}
+I had intended to look like a dependable ally, but maybe it looked odd…?
+{% endbubble %}
+
+{% bubble Makoto %}
+Not at all, you looked super cool. The whole place was in awe watching you.
+{% endbubble %}
+
+{% bubble Adonis norsmile %}
+Really? I’m glad to hear that.
+
+Oogami was meant to come here at first, but he had an urgent matter to deal with. That’s why I’ve come in his stead.
+
+He told me to make a “piercing impression” on everyone for his sake as well, so I asked the staff members for their help.
+
+It was a little embarrassing, but I’m happy to know that it made me stand out.
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Now that Otogari-kun has joined hands with his partner, we can begin the game segment—”
+
+“But before that, would you like to think up a pair name, Yuuki-kun? Or will you stay as ‘Yuuki &amp; Otogari Pair’?”
+{% endbubble %}
+
+{% bubble Makoto %}
+I’d like to think of something for this special occasion. Hmm, let’s see here…
+
+Let’s make it our favorite food. I personally love snacks, and Otogari-kun loves…
+{% endbubble %}
+
+{% bubble Adonis %}
+Meat.
+{% endbubble %}
+
+{% bubble Makoto %}
+Ahaha, I knew you’d say that~♪
+
+Snacks, meat… meat, snacks…
+
+Mm~… How about “Meat-snack Pair”?
+{% endbubble %}
+
+{% bubble Jun curious %}
+Mm? The heck is that…?
+{% endbubble %}
+
+{% bubble Makoto %}
+I just came up with it on the spot; it doesn’t really have a meaning. But doesn’t a meaty snack sound kind of tasty?
+{% endbubble %}
+
+{% bubble Adonis norsmile %}
+Yes, it immediately made me think of barbecue-flavored chips. “Meat-snack Pair”… Mhm, I like it.
+{% endbubble %}
+
+{% bubble Makoto %}
+I’m so glad~ Kunugi-sensei, please call us “Meat-snack Pair”! ♪
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Understood. Right then, let’s carry on.”
+
+“Today’s game will be… ‘Arashiyama Boat Quiz Rally’!”
+
+“The participants will be divided into pairs and move along the river in rowboats, crossing by relay stations at the riverbank until they reach the goal.”
+{% endbubble %}
+
+{% bubble Jin %}
+“At each relay station, you must answer the quiz correctly to advance to the next station.”
+
+“The quiz’s clue is hidden on the riverbank where the relay station is located. If you don’t know the answer, you can get off the boat and look for the clue.”
+
+“You will earn four points, three points, two points, or one point depending on the order in which you reached the goal.”
+
+“This is a game that tests both intelligence and physical strength. Even those who aren’t confident in their physical strength have a good chance to win. Break a leg out there~”
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Now, may each pair choose their preferred rowboat. We will begin as soon as everyone is settled in their positions.”
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>After a while, during the middle stage of the Arashiyama Boat Quiz Rally…</p>
+</div>
+
+{% bubble Akiomi %}
+“We’re nearing the final stage of the Arashiyama Boat Quiz Rally.”
+
+“The Meat-snack Pair is taking the lead!”
+{% endbubble %}
+
+{% bubble Makoto curious %}
+Otogari-kun, you’re the only one rowing the boat… Are you okay? Are you sure you aren’t tired?
+{% endbubble %}
+
+{% bubble Adonis norsmile %}
+I’m alright. Leave the rowing to me, while you focus on the quiz, Yuuki.
+{% endbubble %}
+
+{% bubble Jin %}
+“It looks like Otogari’s physical strength and Yuuki’s intelligence are perfectly complementing each other.”
+
+“Following closely behind is the Grapevine Pair!”
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I’ve figured out the trick to rowing efficiently. I think we’ll be able to catch up to them.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Indeed. Let’s keep up this pace and advance onwards.
+
+You did an excellent job with the previous stopover’s quiz. Even the staff were surprised that you managed such a difficult question.”
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I studied the history of Kyoto as much as I could before we came here.
+
+…I put it into practice where I least expected it to. You never know when knowledge can be useful to you.
+
+…But the opportunity to utilize it will come eventually.
+
+…I got to learn a lot about Kyoto’s traditional culture, after all. I once again feel the importance of learning.
+{% endbubble %}
+
+{% bubble Akiomi %}
+“We can see the Kazehaya &amp; Itsuki Pair behind the Grapevine Pair.”
+
+“They seem to be enjoying their time on the boat as they complete the quiz rally.”
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Shu-san, please look over that side. There’s a deer.
+{% endbubble %}
+
+{% bubble Shu norsmile %}
+Hm? …Ah, you’re right. It’s walking around in such a carefree manner.
+
+The view from the boat is spectacular, isn’t it? The colorful autumn leaves reflected on the river’s surface nearly resemble paintings on the water.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I agree. While the competition is important, it would be a shame to miss out on appreciating the scenery.
+
+And by rowing slowly, we allow the viewers to enjoy the view with us. Let’s savor this enjoyable moment at our own pace.
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Their strategy is to enjoy sightseeing while being aware of the footage the show will air. How absolutely wonderful.”
+
+“Even then, they are still in third place. It truly makes you wonder what on earth the Fiery☆Pair is doing right now…”
+{% endbubble %}
+
+{% bubble Jin %}
+“…No, seriously though, I can’t spot the Fiery☆Pair at all…? Cameraman, could you please show them on the screen?”
+
+“Ohh! There they are.”
+
+“Mm? Why’re they giving a kid a ride on their boat…?”
+{% endbubble %}
+
+{% bubble Jun v3 %}
+—Ah, I think I found someone that matches the description.
+
+There’s two people waving their hands to us; I’m guessing those are the kid’s parents?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Looks like it! The little kid’s finally smiling! ☆
+
+This is great news! You’ll get to be with your mom and dad soon!
+
+Let’s wave our hands back to show that all is well! Heeey~♪ *<th>(waves hand)</th>*
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Haha. You were really outta luck today, huh~ Getting so engrossed in picking up pebbles by the river that you ended up missing your chance to get on the ferry.
+
+But getting lost in a tourist area is no joking matter, y’know~ Make sure to stay by your mom and dad’s sides from now on, ‘kay?
+{% endbubble %}
+
+{% bubble Chiaki %}
+…You’d like to give us the pebbles you picked up?
+
+Mhm, I like the smooth texture! Thank you, I’ll keep it safe with me!
+{% endbubble %}
+
+{% bubble Jun v3 %}
+*<th>(whispering)</th>* We’re just ignoring the quiz rally, huh… We’re gonna be in last place at this rate, or worse, disqualified…
+
+But I’d be fine with that. It’d have left a real bad taste in my mouth if we left this little kid all on their own.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Yeah! We still have another game segment tomorrow, and one quiz rally won’t be enough to decide the winner.
+
+There’s no need to rush. Let’s just be proud of ourselves for protecting this kid’s smile…☆
+{% endbubble %}
+
+## Chapter 6
+
+<div class="msr-narration">
+    <p>A while later…</p>
+</div>
+
+{% bubble Akiomi %}
+“Well done, everyone.”
+
+“Now that the Arashiyama Boat Quiz Rally is over, we will be sending the guest idol Otogari-kun home, and then head towards the inn you will be staying at. However, before that—”
+
+“We will host the surprise event: ‘Confession Under the Autumn Leaves’.”
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+Confession Under the Autumn Leaves…? I don’t recall seeing that in the script…?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+I think that’s why it’s called a surprise event, since they didn’t tell us about it beforehand~
+{% endbubble %}
+
+{% bubble Jin %}
+“Yep, exactly. You’re quick to figure it out.”
+
+“For the sake of our show’s sponsor, the bridal company, we’d like to squeeze a little sweet event in between~♪”
+
+“The rules are simple: Each of you will take turns to stand in this filming spot, and make a confession of love towards the camera.”
+
+“We’ll have a vote after the show is over, and the idol who wins first place will receive a grand prize from the show~♪”
+{% endbubble %}
+
+{% bubble Akiomi %}
+“To clarify, the ‘Confession Under the Autumn Leaves’ event is separate from the points you gained in the game segment. Everyone is a rival here, including your partner.”
+
+“You only have thirty seconds. Please do ensure to seize the hearts of everyone watching through a short, love-filled confession.”
+{% endbubble %}
+
+{% bubble Jin %}
+“Alright then, whoever’s ready can go ahead and stand behind the camera~♪”
+{% endbubble %}
+
+{% bubble Shu v2 %}
+Hm… I cannot simply come up with something on the spot.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+It seems everyone needs a bit more time to think about theirs. Very well, if you’ll allow me, I will go first.
+{% endbubble %}
+
+{% bubble Jun surprised %}
+You already thought something up, Tatsumi-senpai!? That’s incredible…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu, looking at the autumn leaves sprung something to mind.
+
+…It’s this camera, yes? All right, then.
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/tatsumiorigcg.jpg %}
+
+{% bubble Tatsumi %}
+“…Every time you smile, my heart flutters like the autumn leaves before us.”
+
+“I love you. May we continue to make wonderful memories together.”
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Inn’s Hot Spring</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red6_1.jpg %}
+
+<div class="msr-narration">
+    <p>Later that evening…</p>
+</div>
+
+{% bubble Jun v3 %}
+Fhew~ Soaking in the open-air bath after dinner is real nice. The cool breeze feels good on the hot skin…♪
+
+And the cameras aren’t on us anymore, so we can finally relax a li’l~
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Indeed we can. There will be more filming to do before we sleep, so we cannot stay here for too long… But for now, let’s soothe our bodies so that we may have a good night’s sleep.
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red6_2.jpg %}
+
+{% bubble Nagisa curious %}
+…Chiaki-kun, what have you been doing for the past minute?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Ah, Ran! I’m making water guns.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Water guns?
+{% endbubble %}
+
+{% bubble Chiaki %}
+So first, you clasp your hands together, then make a gap with your thumbs, and then dip your hands in the water.
+
+Then try squeezing out the water inside your palms—
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I see. I’ll give it a try.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mm, you aren’t doing it with enough force… You have to slap your palms together like you would when clapping!
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I managed it.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Alright, you’re doing great! Keep at it!
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Fufu, I’d like to shoot it out farther.
+
+…♪
+
+…Ah—!
+{% endbubble %}
+
+{% bubble Shu shocked %}
+Guh—! Who just played a prank on me!?
+{% endbubble %}
+
+{% bubble Nagisa worried %}
+…I hadn’t intended to do that to you. I’m sorry.
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+It was me, Itsuki! I was making water guns, and accidentally shot it too far. I’m sorry.
+{% endbubble %}
+
+{% bubble Shu frown %}
+*Morisawa…* It’s disgraceful to act this way when there are people younger than you here. Show some self-control.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mhm, thanks for the advice!
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…But it was I who made the mistake. Why did you cover for me?
+{% endbubble %}
+
+{% bubble Chiaki %}
+You didn’t do anything wrong, Ran. It was my fault for not informing you how to be more attentive of your surroundings when making water guns.
+
+I feel bad that Itsuki had to go through that, but we learned a good lesson from it. Let’s enjoy making water guns without causing trouble for others~♪
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Alright, let’s.
+
+…I think it will be too early to sleep once we’re done here. Is there something people do during a field trip before they go to bed? Or do they simply just go to sleep…?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Aira-san informed me that talking about your romantic crush and pillow fighting are a staple during field trips.
+{% endbubble %}
+
+{% bubble Nagisa curious %}
+…Romantic crush…
+
+…Jun, what is a “romantic crush”?
+{% endbubble %}
+
+{% bubble Jun surprised %}
+Wha!? You’re asking *me!?*
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…In terms of words, I do know what “romantic” means, but what is “crush”?
+{% endbubble %}
+
+{% bubble Jun serious %}
+It’s the person you’re in love with, basically.[^4] I dunno why it’s something you talk about on a field trip, though…
+
+Isn’t that kinda out-of-bounds for us…? I mean, we don’t have any experience in it, and either way, we’re all idols.
+{% endbubble %}
+
+{% bubble Nagisa northinking %}
+…That’s true. I don’t have as much experience with various people as Hiyori-kun does, for example.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+…Perhaps discussing romantic tales is out of the question, but we should be able to carry out a pillow fight.
+
+We will have to ask the staff members and the inn management first, but it would surely make for an exciting watch for the viewers.
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red6_3.jpg %}
+
+{% bubble Makoto %}
+I like that idea! ♪ Let’s ask Anzu-chan as soon as we’re done soaking in the hot spring.
+
+Just to make sure; do you know what pillow fights are, Nagisa-san?
+{% endbubble %}
+
+{% bubble Nagisa curious %}
+…I assume by the name, you compete with pillows…? I don’t quite understand why you would do that, though.
+{% endbubble %}
+
+{% bubble Tatsumi curious %}
+Why, you ask…? Strangely enough, I never thought about it when I first heard of it.
+
+But now that you mention it, I’m curious to know why, too.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+People need no reason to play games, y’know! It’s simply just because the pillow is right there before them! ☆
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Mm, that doesn’t really feel like a reason…?
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Fuhaha! ☆ To be honest with you, I don’t have a clue why, either.
+
+But don’t worry about it! There are plenty of things in the world that have no actual reason why they’re the way they are.
+
+Let’s just enjoy the beauty of pillow fighting together!
+{% endbubble %}
+
+{% bubble Shu frown %}
+Hmph! I find it questionable how you simply try to power through your reasoning with mere fervor.
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red6_4.jpg %}
+
+{% bubble Tatsumi %}
+Fufu, but Nagisa-san seems satisfied with it, so all is well, no?
+{% endbubble %}
+
+{% bubble Shu frown %}
+Perhaps… In the end, it is nothing but a game for children. But I suppose it’s fine for those who are interested to do as they like.
+
+…Wait, hold on a moment — you don’t mean to say that <em>I</em> will also be participating…!?
+{% endbubble %}
+
+## Chapter 7
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Inn’s Room</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red7_1.jpg %}
+
+<div class="msr-narration">
+    <p>An hour or so later…</p>
+</div>
+
+{% bubble Akiomi %}
+“We’re sorry to have kept you all waiting. It is almost time to show the results of the first day. But before that—”
+
+“We will be having a mini segment: the pillow-fighting competition!”
+
+“The rules are as follows: Typically you have a pillow fight with two teams, but we will have four teams fighting each other at the same time.”
+
+“Each pair has their own territory, and once the game begins, they will have five pillows within their territory.”
+
+“Each round will last two minutes. You can either throw pillows into your opponent’s territory, or you can interfere with them by throwing pillows directly at them.”
+
+“After a round is over, the pair with the least amount of pillows in their territory will receive one point. After four rounds, those points will be added up to the pair’s score.”
+
+“Furthermore, every pair can utilize one futon during the game.”
+
+“Yuuki-kun is the one who thought up the rules of the game. The rules allow for some complex strategies, so please do enjoy yourselves.”
+{% endbubble %}
+
+{% bubble Chiaki %}
+Ohh! I was just thinking about how incredibly elaborate the rules were — So Yuuki came up with them, huh?
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red7_2.jpg %}
+
+{% bubble Makoto %}
+Yep! I know nobody asked me to, but I thought it’d make things more fun…♪
+{% endbubble %}
+
+{% bubble Akiomi %}
+“There will be thirty seconds to rest between each round. Do be sure to utilize that time for coming up with new strategies.”
+{% endbubble %}
+
+{% bubble Jin %}
+“Oh, and now that Otogari’s gone back home, I’m gonna pair up with Yuuki.”
+{% endbubble %}
+
+{% bubble Jin sigh2 %}
+“<em><th>(whispering)</th></em> …Unfortunately.”
+{% endbubble %}
+
+{% bubble Akiomi glare %}
+“No complaining. I will be taking care of the lengthy explanations, so please help around for this, at least.”
+
+“Right then, please relocate yourselves to your designated territory!”
+{% endbubble %}
+
+{% bubble Jun v3 %}
+I’m glad the rules are easy to understand~ Plus, these types of matches are made for me.
+
+I’m itching to put my skills to use~ Let’s make sure we win, Morisawa-senpai!
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mhm! Let’s observe our surroundings while ensuring all pillows are out of our territory!
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Is each pair ready to start?”
+
+“Right then, the first round begins… now!”
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red7_3.jpg %}
+
+{% bubble Yuzuru %}
+Ran-sama. As per our strategy, you may entrust the frontline defense to me.
+
+Please stay in the back and analyze each pair’s movements.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Okay. I’ll leave it to you, then. Good luck.
+
+…May I use my “call” right now? The rules say that you can’t make one after the results are announced.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Yes, feel free to do so.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Thank you.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Phone ringing</p>
+</div>
+
+{% bubble Nagisa v2 %}
+…Hello, Hiyori-kun?
+
+…Ah, so you’re aware of the show’s designated “call”. Yes, I’m abiding by the rules.
+
+…No, I don’t have anything I’d like to ask in particular. However—
+
+…I simply wished to let you know that I’m enjoying myself right now.
+
+…Alright, I’ll see you another time.
+
+…Good night. I hope you have a sweet dream, too.
+
+…Yuzuru-kun, I’m sorry to keep you waiting.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Um… Ran-sama? If I’m not mistaken, you made a phone call about something completely unrelated to the game…?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I did. I wanted to try using my call for the day, as well as say good night to Hiyori-kun.
+{% endbubble %}
+
+{% bubble Yuzuru awkward %}
+I-I see… I would appreciate it if you could at least save that sort of thing for later.
+
+While I’m aware that I was the one who chose to be the frontline defense, we *are* still in the middle of a match.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…From what I can tell, you haven’t been struggling at all, Yuzuru-kun.
+
+…Even now, you’re evading every pillow coming your way. I feel like we could win even if I were to go to sleep.
+
+…But it isn’t every day that we are on the same team, so it would just be sad to sleep through the game.
+
+…It’s impressive that you were able to hold your ground on your own. I will now start going on the offense.
+{% endbubble %}
+
+{% bubble Yuzuru curious %}
+Eh? But we have yet to analyze their attacks…
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Don’t worry. I observed each pair’s movements while I was on the phone. I’ve fully analyzed the situation.
+
+…It’s time to strike back.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Before Round Two…</p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red7_4.jpg %}
+
+{% bubble Shu frown %}
+…What a hyperactive game — I ended up retaliating in return. Fortunately, we managed to win the first round…
+
+Although, I don’t know if I was simply imagining things, but the Grapevine Pair suddenly gained momentum right at the last second…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Indeed they did. We managed to evade their attacks in time, but it was a very close call.
+
+……………
+
+…Shu-san, how about we go with this strategy?
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Before Round Three…</p>
+</div>
+
+{% bubble Makoto curious %}
+The Kazehaya &amp; Itsuki Pair are making really good use of the futon…
+{% endbubble %}
+
+{% bubble Jin sigh2 %}
+Yeah… Our pillows keep bouncing off and losing momentum.
+
+Man, isn’t the futon just cheating? Of <em>course</em> we’ll barely put up a fight if they stretch the thing out in front of them.
+{% endbubble %}
+
+{% bubble Makoto awkward %}
+I came up with the rules on the spot, so I guess it was bound to have a loophole to it…
+
+But I’m sure we can come up with a counterattack…! Let’s try and figure it out while fighting.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Before the last round…</p>
+</div>
+
+{% bubble Nagisa v2 %}
+…It seems that the Kazehaya &amp; Itsuki Pair lit a fire in Makoto-kun’s team. They’ve changed strategies.
+
+One team is akin to military commanders, and the other to intellectual generals. How interesting; it’s as if their personalities have taken form.
+
+…How shall we approach the final round?
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Hmm… How about we fight as we like?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…As we like…?
+{% endbubble %}
+
+{% bubble Yuzuru %}
+You see, my first experience having a pillow fight was on my school trip last year. It was the very first time I had allowed myself to <em>enjoy</em> myself, laughing endlessly… It truly was fun.[^5]
+
+I could not forget how much fun it was even once I had laid down on my futon to rest — to the point that I had overslept the following day.
+
+That is why I wish for the both of us to simply enjoy ourselves for the last round. Let us follow what our hearts say.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Then I’ll follow my heart, and aim for victory.
+
+…It’s Ibara’s influence on me, you see. I quite enjoy battle fighting…♪
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>After the last round…</p>
+</div>
+
+{% bubble Chiaki %}
+Whew, it’s over… Great job, Sazanami!
+{% endbubble %}
+
+{% bubble Jun awkward %}
+…Yeah, you too, Morisawa-senpai.
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mm? You’re laying down — Did it tire you out?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Nah, I just wanna take in the moment for a bit.
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/junorigcg.jpg %}
+
+{% bubble Jun v3 %}
+…I’ve never, ever had a pillow fight before in my whole life.
+
+I’ve seen it in manga before, so I did know about it, but…
+
+I had no idea it was <em>this</em> much fun. Haha, I had a real blast…♪
+{% endbubble %}
+
+## Chapter 8
+
+{% bubble Akiomi %}
+“—The pillow-fighting competition is over.”
+
+“It’s finally time to announce what everyone has been waiting for — the results of the first day! After calculating the points thus far—”
+
+“The team in first place is the Grapevine Pair, with five points. Congratulations!”
+{% endbubble %}
+
+{% bubble Jin awkward %}
+“Second place goes to Yuuki, with four points. Sorry, I think your old man here might’ve held you back…”
+{% endbubble %}
+
+{% bubble Akiomi %}
+“In third place is the Kazehaya &amp; Itsuki Pair, with three points, and in fourth place is the Fiery☆Pair, with two.”
+
+“Your points will carry over to the next day, and tomorrow you will be paired with someone new. You will still have many opportunities to turn the tides to your favor, so don’t give up just yet.”
+
+“I hope our dear viewers enjoyed the first day of the event. Please look forward to finding out what awaits our idols tomorrow.”
+{% endbubble %}
+
+{% bubble Jin %}
+“We’ll stop filming here for today. We’re gonna leave you guys to your own devices now, but be sure to sleep early tonight, ‘kay?”
+
+“Alright then, g’night~”
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red8_1.jpg %}
+
+<div class="msr-narration">
+    <p>After the filming…</p>
+</div>
+
+{% bubble Jun curious %}
+…………
+
+…Nagi-senpai, do you feel like you can sleep?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Why do you ask?
+{% endbubble %}
+
+{% bubble Jun serious %}
+‘Cause I thought you might not be used to sleeping ‘round a bunch of people like I am.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…I’m alright, but I may stay up for a bit longer.
+
+…I feel wide-awake after moving around so much.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+While we may have turned off the lights, it does feel a little too early to sleep. How about we chat amongst each other from our futons?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Then, how about we talk about our “romantic crush”?
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Ehh…? Just how badly do you wanna talk about crushes…?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…We were able to have a pillow fight. So I was wondering if it’s possible we could experience the other staple of field trips.
+
+…There are no cameras on us anymore, so we don’t have to restrain ourselves anymore, correct?
+{% endbubble %}
+
+{% bubble Jun frown %}
+Well, the real problem is the actual topic itself… I don’t have any experience with that sorta thing, so I don’t really have anything to share.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Alright then, let’s switch it to a different topic! Let’s talk about the hero we admire the most! ☆
+{% endbubble %}
+
+{% bubble Shu frown %}
+…Morisawa, do <em>not</em> force yourself into their conversation. Learn to read the room.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu, I don’t mind at all. By the way, which hero do you admire the most, Shu-san?
+{% endbubble %}
+
+{% bubble Shu v2 %}
+Hm… Assuming it’s fine to interpret that as the “person I admire,” I very much admire the notable artists, such as Leonardo da Vinci.
+
+Just like those prestigious creators, I, too, wish to create art that will continue to be cherished even after my death.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+I know for sure that <em>you</em> can achieve that, Itsuki!
+{% endbubble %}
+
+{% bubble Shu frown %}
+Your words truly hold no weight… How about you, Kazehaya?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Me? Well, I suppose it’s a little different from admiration, but I would say “God”.
+{% endbubble %}
+
+{% bubble Nagisa curious %}
+…Me?
+{% endbubble %}
+
+{% bubble Tatsumi curious %}
+……?
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Fufufu. It’s a “God” joke. ♪
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Nagi-senpai, that sorta joke is too advanced for people to get, so I’d say it’s best to keep it between us unit members~♪
+
+<th>(I can’t really see well in the dark, but… I bet Tatsumi-senpai was really taken aback by that… I think it’s best if I just switch topics somehow…)</th>
+
+Yuuki-saaan~ You awake?
+{% endbubble %}
+
+{% bubble Makoto %}
+Ah, yeah, I am. I didn’t know if it was okay for me to join in, so I was just listening to everyone.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Aight, so I’ll just get right to it — Who do you admire?
+{% endbubble %}
+
+{% bubble Makoto %}
+Hmm… I’d say pro gamers~
+
+Becoming a pro gamer isn’t something you can become just because you want to. Only a handful of people with natural flair and enough hard work can pass through the narrow gate of success…
+
+They make a living just through their skills, and pave their path all on their own. I think it’s amazing… What about you, Fushimi-kun?
+{% endbubble %}
+
+{% bubble Yuzuru northinking %}
+Me? Hmm…
+
+Just like Kazehaya-sama, I would say it is a little different from admiration… However, my parents are my role models.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…Ah, parents.
+
+…I, too, admire my father.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+The two of you are very fond of your family, I see. What about you, Jun-san?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Me…? Well, my parents are outta the question…
+
+I’d say Tatsumi-senpai… Ohii-san… Nagi-senpai, too… Mmm~…
+
+I can’t choose just one person, so is it alright if I just say “idols”?
+
+Aight, we’re down to the last person~! We’d love to hear your answer, Morisawa-senpai.
+{% endbubble %}
+
+{% bubble Chiaki snicker %}
+*He he he…* The hero I admire…
+
+Fwoosh—! Are the *heroes!* ☆
+{% endbubble %}
+
+{% bubble Yuzuru curious %}
+…?
+{% endbubble %}
+
+{% bubble Tatsumi northinking %}
+…?
+{% endbubble %}
+
+{% bubble Makoto curious %}
+The hero you admire… are the heroes…
+{% endbubble %}
+
+{% bubble Nagisa curious %}
+…A “hero” joke, perhaps?
+{% endbubble %}
+
+{% bubble Shu frown %}
+It’s the usual nonsense from him. Morisawa simplifies his expressions far too much.
+{% endbubble %}
+
+{% bubble Chiaki %}
+It’d take a long time to explain myself, that’s why! There are more than four hundred sentai heroes, y’know! It’s impossible to narrow it down to only one.
+
+Alright, you know what — I’ll tell you all about the history of heroes, as a bedtime story! ☆
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu, I may end up dreaming about heroes, then.
+{% endbubble %}
+
+{% bubble Shu frown %}
+Good grief… I can only hope I won’t have a nightmare.
+{% endbubble %}
+
 {% note narration %}
 Translation in progress!
 {% endnote %}
@@ -618,3 +1736,6 @@ Translation in progress!
 ## Translation Notes
 [^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2.
 [^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
+[^3]: A <em>yakatabune</em> specifically.
+[^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it's a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
+[^5]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.

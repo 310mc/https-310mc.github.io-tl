@@ -290,7 +290,7 @@ permalink: wedding_march/
                             <a href="white_diamond" id="none">White Diamond</a>
                         </li>
                         <li>
-                            <a href="" id="none">Red Diamond</a>
+                            <a href="red_diamond" id="none">Red Diamond</a>
                         </li>
                         <li>
                             <a href="" id="none">Epilogue</a>

@@ -18,7 +18,10 @@ description: "[ES!!] Chiaki's first Mini Talk from Submarine. From multiple POVs
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a> <a href="/categories/Enstars/Shinobu" character="Shinobu"></a> <a href="/categories/Enstars/Kanata" character="Kanata"></a> <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -56,7 +59,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Submarine. From multiple POVs
 {% img /img/es/eventstory/submarine/minitalk_chiaki1_1.jpg %}
 
 {% bubble Chiaki %}
-Heheh, there’s Okinawa souvenirs here!
+Heheh, there are Okinawa souvenirs here!
 
 Oh, Sengoku, they have a handful of mascots. Which do you think would suit Takamine?
 
@@ -160,7 +163,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
 {% bubble Chiaki curious %}
 Oh yeah, where'd Kanata go?
 
-He tends to go to watersides at every opportunity, so maybe he's gone to bathe in the sea?
+He tends to go to the watersides at every opportunity, so maybe he's gone to bathe in the sea?
 
 Nagumo, have you heard anything from Kanata? Or if you've seen him head off to the beach, or something of the sort.
 {% endbubble %}
