@@ -38,9 +38,9 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
                 <a href="/categories/Enstars/Jin" character="Jin"></a>
                 <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
                 <a href="/categories/Enstars/Adonis" character="Adonis"></a>
+                <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                 <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -79,7 +79,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
 <div toc>
 {% btn /wedding_march/white_diamond,, arrow-left, Previous Chapter: White Diamond %}
 {% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<!--{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
 </div>
 
 ## Chapter 1
@@ -512,7 +512,7 @@ They were hoping they could save the carp after having been abandoned without a 
 …Well? Were you able to find someone to take custody of it?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Yeah. Apparently, there’s a pond in the temple of Hasumi’s home. That’s where they got to keep it safe.
 
 Of course, if they had simply talked to Hasumi about it, they wouldn’t have needed to hold a live show, but… seeing the kids’ hard work rewarded with my own two eyes meant a lot to me.
@@ -921,7 +921,7 @@ I’m alright. Leave the rowing to me, while you focus on the quiz, Yuuki.
 {% bubble Yuzuru %}
 Indeed. Let’s keep up this pace and advance onwards.
 
-You did an excellent job with the previous stopover’s quiz. Even the staff were surprised that you managed such a difficult question.”
+You did an excellent job with the previous stopover’s quiz. Even the staff were surprised that you managed such a difficult question.
 {% endbubble %}
 
 {% bubble Nagisa v2 %}
@@ -1017,7 +1017,7 @@ There’s no need to rush. Let’s just be proud of ourselves for protecting thi
 {% bubble Akiomi %}
 “Well done, everyone.”
 
-“Now that the Arashiyama Boat Quiz Rally is over, we will be sending the guest idol Otogari-kun home, and then head towards the inn you will be staying at. However, before that—”
+“Now that the Arashiyama Boat Quiz Rally is over, we will send the guest idol Otogari-kun home, and then head towards the inn you will be staying at. However, before that—”
 
 “We will host the surprise event: ‘Confession Under the Autumn Leaves’.”
 {% endbubble %}
@@ -1160,7 +1160,7 @@ It was me, Itsuki! I was making water guns, and accidentally shot it too far. I�
 Mhm, thanks for the advice!
 {% endbubble %}
 
-{% bubble Nagisa v2 %}
+{% bubble Nagisa serious %}
 …But it was I who made the mistake. Why did you cover for me?
 {% endbubble %}
 
@@ -1190,7 +1190,7 @@ Aira-san informed me that talking about your romantic crush and pillow fighting 
 Wha!? You’re asking *me!?*
 {% endbubble %}
 
-{% bubble Nagisa v2 %}
+{% bubble Nagisa serious %}
 …In terms of words, I do know what “romantic” means, but what is “crush”?
 {% endbubble %}
 
@@ -1410,11 +1410,11 @@ Eh? But we have yet to analyze their attacks…
 …It’s time to strike back.
 {% endbubble %}
 
+{% img /img/es/eventstory/weddingmarch/red7_4.jpg %}
+
 <div class="msr-narration">
     <p>Before Round Two…</p>
 </div>
-
-{% img /img/es/eventstory/weddingmarch/red7_4.jpg %}
 
 {% bubble Shu frown %}
 …What a hyperactive game — I ended up retaliating in return. Fortunately, we managed to win the first round…
@@ -1554,7 +1554,7 @@ I had no idea it was <em>this</em> much fun. Haha, I had a real blast…♪
 …Nagi-senpai, do you feel like you can sleep?
 {% endbubble %}
 
-{% bubble Nagisa v2 %}
+{% bubble Nagisa serious %}
 …Why do you ask?
 {% endbubble %}
 
@@ -1562,7 +1562,7 @@ I had no idea it was <em>this</em> much fun. Haha, I had a real blast…♪
 ‘Cause I thought you might not be used to sleeping ‘round a bunch of people like I am.
 {% endbubble %}
 
-{% bubble Nagisa v2 %}
+{% bubble Nagisa serious %}
 …I’m alright, but I may stay up for a bit longer.
 
 …I feel wide-awake after moving around so much.
@@ -1708,8 +1708,8 @@ The hero you admire… are the heroes…
 It’s the usual nonsense from him. Morisawa simplifies his expressions far too much.
 {% endbubble %}
 
-{% bubble Chiaki %}
-It’d take a long time to explain myself, that’s why! There are more than four hundred sentai heroes, y’know! It’s impossible to narrow it down to only one.
+{% bubble Chiaki grin %}
+It’d take a long time to explain myself, that’s why! There are more than four hundred tokusatsu heroes, y’know! It’s impossible to narrow it down to only one.
 
 Alright, you know what — I’ll tell you all about the history of heroes, as a bedtime story! ☆
 {% endbubble %}
@@ -1720,6 +1720,366 @@ Fufu, I may end up dreaming about heroes, then.
 
 {% bubble Shu frown %}
 Good grief… I can only hope I won’t have a nightmare.
+{% endbubble %}
+
+## Chapter 9
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Kiyomizu Temple</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red9_1.jpg %}
+
+<div class="msr-narration">
+    <p>Next day, in the morning…</p>
+</div>
+
+{% bubble Jun curious %}
+Ooh, this is the famous waterfall, huh… Mm, it’s sorta, like…
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+It doesn’t really look like a waterfall, does it?
+{% endbubble %}
+
+{% bubble Jun %}
+Yeah, that’s exactly it. And we saw a huge one just yesterday, so I can’t help but think that…
+
+There are three streams, and each one has a different benefit, yeah?
+
+Starting from the right, it’s longevity, then a fortunate love life, and then success in studies… Obviously, I’d go with—
+{% endbubble %}
+
+{% bubble JunChiaki %}
+Longevity!
+{% endbubble %}
+
+{% bubble Jun %}
+Yep, thought you’d agree~ After all, for us idols, our body is our livelihood.
+{% endbubble %}
+
+{% bubble Chiaki smile3 %}
+The very idea of living a long life is nice, as well. I’d like to remain as an idol that is loved by others forever.
+
+Alright, it’s about time to start filming. Let’s head back to the others once we drink from the waterfall.[^]
+{% endbubble %}
+
+{% bubble Jun %}
+Gotcha~♪
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Ten minutes later, in the Kiyomizu Temple premises…</p>
+</div>
+
+{% bubble Akiomi %}
+“—Good morning, your host Kunugi is speaking. We have reserved the Kiyomizu Temple for the second day’s filming.”
+
+“Unlike the first day, we will begin with the game segment. Right then, it’s time to draw the lottery for your pairs.”
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>A few minutes later…</p>
+</div>
+
+{% bubble Jin %}
+“—Alright. I see everyone’s introduced themselves to their partner and thought up a pair name, so I’ll announce our teams of the day.”
+
+“First we have the ‘Wind Pair,’ Ran and Kazehaya.”
+{% endbubble %}
+
+{% bubble Tatsumi %}
+We came up with the name when we realized we share something in common between our names.
+{% endbubble %}
+
+{% bubble Nagisa %}
+…“Kazehaya” means “swift wind,” and “Nagi” means “calm wind”. I don’t know what wind we will discover with the two combined, but…
+
+…I hope our experience will be as fun as yesterday.
+{% endbubble %}
+
+{% bubble Jin %}
+“Next up is the ‘Classmates Pair,’ Yuuki and Fushimi.”
+{% endbubble %}
+
+{% bubble Makoto %}
+Good morning. I was paired with the guest idol yesterday, but…
+
+For today, I’m partnered with Fushimi-kun. We’re actually in the same class in school!
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Fufu. Yuuki-sama and I were also on the same school trip last year.
+
+I will do my best to make use of that experience in order to achieve victory…♪
+{% endbubble %}
+
+{% bubble Akiomi %}
+“Next… We have Morisawa-kun and Sazanami-kun, who coincidentally ended up being a pair again: ‘True☆Fiery☆Pair’.”
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Good moooorniiiing! I’m Morisawa Chiaki!
+{% endbubble %}
+
+{% bubble Jun %}
+Ooh, you’ve got loadsa energy… Good morning, I’m Sazanami Jun.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+The two of us are completely different people today! For we have been reborn as the “True☆Fiery☆Pair”!
+{% endbubble %}
+
+{% bubble Jun %}
+We’re gonna do our best to get first place, so please cheer for us~
+{% endbubble %}
+
+{% bubble Shu %}
+…Which means the guest idol shall be partnering with me.
+
+I do hope that it’s someone who suits me and my love for the arts, however…
+{% endbubble %}
+
+{% bubble Jin %}
+“Yeah, you’ll be fine. Probably. I dunno.”
+
+“Alright then, let’s call him over. Today’s guest idol is…”
+{% endbubble %}
+
+{% bubble Izumi v2 %}
+Yuuukuuun\~! Your Onii-chan is here to see you\~♪
+{% endbubble %}
+
+{% bubble Makoto surprised %}
+Whoa— Izumi-san!?
+{% endbubble %}
+
+{% bubble Izumi v2 %}
+Let’s hold hands and work hard side-by-side, together! ♪
+
+I’d do anything for you, Yuu-kun — Even if it’s jumping out of the Kiyomizu premises over and over again~!
+{% endbubble %}
+
+{% bubble Makoto worried %}
+No, no, that’s dangerous… And I’m not your partner, anyway.
+{% endbubble %}
+
+{% bubble Izumi curious %}
+…Huh?
+{% endbubble %}
+
+{% bubble Shu %}
+Your partner would be me, Sena.
+{% endbubble %}
+
+{% bubble Izumi glare %}
+Hah… Ex<em>cuse</em> me!? It was written in the project plan that I’d get paired with Yuu-kun if I were to join, so what gives!?
+
+I came <em>all</em> the way here from Florence <em>specifically</em> for those few hours I could have with Yuu-kun, y’know!?
+{% endbubble %}
+
+{% bubble Jin %}
+“I appreciate you coming over, but I’m pretty sure it only said you <em>could</em> get paired with him, not that you <em>will</em>.”
+{% endbubble %}
+
+{% bubble Izumi glare %}
+Who cares about the details!?
+
+Why am I paired with *“Shu”* and not *“Yuu”-*kun!? Sure, the names may <em>sound</em> similar, but Itsuki and Yuu-kun are like night and day, okay!?
+{% endbubble %}
+
+{% bubble Shu frown %}
+...Is there a receipt? I’d like to make a return on the guest idol.
+{% endbubble %}
+
+{% bubble Akiomi %}
+“You are not allowed to do that. Please bear with it.”
+{% endbubble %}
+
+{% bubble Shu frown %}
+<em>Sigh</em>… Unfortunately, it looks like first place will be out of reach for me.
+{% endbubble %}
+
+{% bubble Izumi glare %}
+Excuse me? Why’re you giving up already? I mean, <em>yeah</em>, I’m frustrated that I didn’t get to be paired with Yuu-kun, but—
+
+I’d <em>never</em> risk performing below par. I’m going to take this match seriously. That’s why—
+{% endbubble %}
+
+{% bubble Izumi v2 %}
+Make sure to watch me closely, Yu\~u\~kun…♪
+{% endbubble %}
+
+{% bubble Makoto awkward %}
+Ahaha… Sensei, please carry on with the explanation~
+{% endbubble %}
+
+{% bubble Akiomi %}
+“All right then. For the second day, you will take on the ‘Ema Hunt Challenge’.”
+
+“I’ll explain the rules. In this game, you will try to find picture plaques of <em>ema</em>[^] hidden within Kiyomizu Temple.”
+
+“You will first start by drawing a fortune slip. Please find the <em>ema</em> by relying on the clue written on your slip.”
+
+“Since this is a fortune-based lottery, the difficulty of the clue will vary depending on your fortune. You cannot redraw your slip, so choose carefully.”
+
+“Points will be awarded to the pair who finds the most plaques of ema within the time limit. Please try to find as many <em>ema</em> as possible.”
+
+“Right then, the Ema Hunt Challenge begins… now!”
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>A while later…</p>
+</div>
+
+{% bubble Tatsumi %}
+We’ve found four plaques of <em>ema</em>. Fufu, we’re doing extremely well.
+
+Time to draw a new fortune slip… All right, let me read it. Our fortune is the middle blessing[^]. Our clue is—
+
+“Hide and seek on the rabbits back”. Rabbit… I do feel like I saw one earlier…?
+{% endbubble %}
+
+{% bubble Nagisa %}
+…That would be the Jishu-Jinja Shrine. There was a rabbit statue there.
+
+…I remember it because it was unusually standing on only two feet. Let’s go there.[^]
+{% endbubble %}
+
+## Chapter 10
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Kyoto City Shopping District</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red10_1.jpg %}
+
+<div class="msr-narration">
+    <p>At noon, during the sightseeing segment: Kyoto City shopping district…</p>
+</div>
+
+{% bubble Jun sigh %}
+…I really was trying my hardest, but I still ended up losing…
+
+Both Morisawa-senpai and I are in last place, and that means both of us are gonna be forced into doing tomorrow’s “final redemption to turn the tables” event…
+
+Which basically means a punishment game for us, doesn’t it…? *Sigh,* just the thought of it bums me out…
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Don’t worry! I have a strategy I’ve been saving for the end. I’ll do something about all of this, so keep your chin up and smile!
+{% endbubble %}
+
+{% bubble Jun curious %}
+Mm? Strategy?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Yeah, you can look forward to seeing it tomorrow! Come on now, let’s join the others and enjoy the place! ☆
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/nagisaorigcg.jpg %}
+
+{% bubble Nagisa %}
+…Hello, Ibara? Are you in the middle of work?
+
+…I’d like to ask you something. What sort of souvenir would you wish for me to get you?
+
+…I don’t want a generic answer. I’d like to know what you personally want me to buy.
+
+…It’s a gift, after all. I’d love to get you something that would make you happy.
+
+…Okay, I’ll go with that. Good luck at work, okay?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+What did Ibara-san ask for in the end?
+{% endbubble %}
+
+{% bubble Nagisa %}
+…He said he’d like something that you can only buy in Kyoto. I believe he simply chose an answer that would satisfy me, but…
+
+…I’m happy that he took the time to think about it.
+
+…Thank you for letting me use my call.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+My pleasure. I hope you can find a suitable souvenir.
+{% endbubble %}
+
+{% bubble Nagisa northinking %}
+…Me too. Something you can only buy here… Maybe a handicraft?
+
+…Ah, they have fox masks here.
+
+…There we go. ♪ What do you think? Does it remind you of Kyoto?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+It really suits you. They appear to be hand-painted.
+{% endbubble %}
+
+{% bubble Nagisa %}
+…So it’s a one-of-a-kind. It’s also light and easy to carry… I think I’ll go with this.
+
+…I’ll buy one not only for Ibara, but for all of us in the unit. I’d like to give one to Hiyori-kun and Jun, as well.
+{% endbubble %}
+
+{% bubble Makoto %}
+Oh, a fox mask! You look so cool~♪
+
+The foxes reminded me of the <em>torii</em> gates, a famous shrine in Kyoto. And since you’ve got such a mystical feel to you, Nagisa-san, I feel like you’d fit right in with the view of the shrine.[^]
+{% endbubble %}
+
+{% bubble Shu norsmile %}
+Hm… I’m sure the <em>torii</em> gates are especially beautiful in autumn. If only we had a little more time, then maybe we could have visited them as well.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Hmm… I believe visiting hours are open twenty-four-seven, so how about we visit it at night?
+{% endbubble %}
+
+{% bubble Shu %}
+At night…? Not in the morning?
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Yes. I don’t think we will have a pillow fight tonight, and it is a little far from our inn. The best time to visit would be at night, when we have the most time to spare.
+{% endbubble %}
+
+{% bubble Jun %}
+Sounds fun~ It’s a famous shrine and all, so we’d love to join you guys, too.
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+Mm, visiting a shrine at night…?
+{% endbubble %}
+
+{% bubble Jun serious %}
+Mm? Morisawa-senpai, are you bad with scary places…?
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+N-No, not at all. The only things I’m bad with are eggplants and ghosts!
+{% endbubble %}
+
+{% bubble Shu yare %}
+Then you wouldn’t be alright with this either, would you?
+{% endbubble %}
+
+{% bubble Chiaki frustrated %}
+H-Hrmphh…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I would rather you not force yourself… However, there is no need to be afraid. There is a gate that wards off any evil spirits from the shrine.
+{% endbubble %}
+
+{% bubble Chiaki %}
+M-Mm, I see. That’s a relief to hear, then. Plus, I wouldn’t be visiting alone, anyway.
+
+It isn’t scary if we all go together! Fuhahahaha…! ☆
 {% endbubble %}
 
 {% note narration %}

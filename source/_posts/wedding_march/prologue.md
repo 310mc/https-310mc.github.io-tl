@@ -130,7 +130,7 @@ All right, let’s begin.
 
 “Morisawa-senpai— No, let’s call him the player! Please witness the player’s battle!”
 
-“First up: ‘Life Full of Twists and Turns ☆ The 100-Meter Race’! After that, he has to pass through three checkpoints, and slice the cake at the final point! With that, he’ll have completed his goal!”
+“First up: ‘Life Full of Twists and Turns ☆ The 100-Meter Race’! After that, he has to pass through three barriers, and slice the cake at the final point! With that, he’ll have completed his goal!”
 
 “But if he doesn’t make it within the time limit—”
 
