@@ -1742,7 +1742,7 @@ Ooh, this is the famous waterfall, huh… Mm, it’s sorta, like…
 It doesn’t really look like a waterfall, does it?
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 Yeah, that’s exactly it. And we saw a huge one just yesterday, so I can’t help but think that…
 
 There are three streams, and each one has a different benefit, yeah?
@@ -1754,17 +1754,17 @@ Starting from the right, it’s longevity, then a fortunate love life, and then 
 Longevity!
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 Yep, thought you’d agree~ After all, for us idols, our body is our livelihood.
 {% endbubble %}
 
 {% bubble Chiaki smile3 %}
 The very idea of living a long life is nice, as well. I’d like to remain as an idol that is loved by others forever.
 
-Alright, it’s about time to start filming. Let’s head back to the others once we drink from the waterfall.[^]
+Alright, it’s about time to start filming. Let’s head back to the others once we drink from the waterfall.[^6]
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 Gotcha~♪
 {% endbubble %}
 
@@ -1783,7 +1783,7 @@ Gotcha~♪
 </div>
 
 {% bubble Jin %}
-“—Alright. I see everyone’s introduced themselves to their partner and thought up a pair name, so I’ll announce our teams of the day.”
+“—Alright. I see everyone’s introduced themselves to their partner and thought up a pair name, so we’ll announce our teams of the day.”
 
 “First we have the ‘Wind Pair,’ Ran and Kazehaya.”
 {% endbubble %}
@@ -1792,7 +1792,7 @@ Gotcha~♪
 We came up with the name when we realized we share something in common between our names.
 {% endbubble %}
 
-{% bubble Nagisa %}
+{% bubble Nagisa v2 %}
 …“Kazehaya” means “swift wind,” and “Nagi” means “calm wind”. I don’t know what wind we will discover with the two combined, but…
 
 …I hope our experience will be as fun as yesterday.
@@ -1822,7 +1822,7 @@ I will do my best to make use of that experience in order to achieve victory…�
 Good moooorniiiing! I’m Morisawa Chiaki!
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 Ooh, you’ve got loadsa energy… Good morning, I’m Sazanami Jun.
 {% endbubble %}
 
@@ -1830,11 +1830,11 @@ Ooh, you’ve got loadsa energy… Good morning, I’m Sazanami Jun.
 The two of us are completely different people today! For we have been reborn as the “True☆Fiery☆Pair”!
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 We’re gonna do our best to get first place, so please cheer for us~
 {% endbubble %}
 
-{% bubble Shu %}
+{% bubble Shu v2 %}
 …Which means the guest idol shall be partnering with me.
 
 I do hope that it’s someone who suits me and my love for the arts, however…
@@ -1847,7 +1847,7 @@ I do hope that it’s someone who suits me and my love for the arts, however…
 {% endbubble %}
 
 {% bubble Izumi v2 %}
-Yuuukuuun\~! Your Onii-chan is here to see you\~♪
+Yuuu\~kuuun\~! Your Onii-chan is here to see you\~♪
 {% endbubble %}
 
 {% bubble Makoto surprised %}
@@ -1868,7 +1868,7 @@ No, no, that’s dangerous… And I’m not your partner, anyway.
 …Huh?
 {% endbubble %}
 
-{% bubble Shu %}
+{% bubble Shu v2 %}
 Your partner would be me, Sena.
 {% endbubble %}
 
@@ -1879,29 +1879,29 @@ I came <em>all</em> the way here from Florence <em>specifically</em> for those f
 {% endbubble %}
 
 {% bubble Jin %}
-“I appreciate you coming over, but I’m pretty sure it only said you <em>could</em> get paired with him, not that you <em>will</em>.”
+“We appreciate you coming over, but I’m pretty sure it only said you <em>could</em> get paired with him, not that you <em>will</em>.”
 {% endbubble %}
 
 {% bubble Izumi glare %}
 Who cares about the details!?
 
-Why am I paired with *“Shu”* and not *“Yuu”-*kun!? Sure, the names may <em>sound</em> similar, but Itsuki and Yuu-kun are like night and day, okay!?
+Why am I paired with *“Shu”* and not <em>“Yuu”</em>-kun!? Sure, the names may <em>sound</em> similar, but Itsuki and Yuu-kun are like night and day, okay!?
 {% endbubble %}
 
 {% bubble Shu frown %}
-...Is there a receipt? I’d like to make a return on the guest idol.
+…Is there a receipt? I’d like to make a return on the guest idol.
 {% endbubble %}
 
 {% bubble Akiomi %}
 “You are not allowed to do that. Please bear with it.”
 {% endbubble %}
 
-{% bubble Shu frown %}
+{% bubble Shu yare %}
 <em>Sigh</em>… Unfortunately, it looks like first place will be out of reach for me.
 {% endbubble %}
 
 {% bubble Izumi glare %}
-Excuse me? Why’re you giving up already? I mean, <em>yeah</em>, I’m frustrated that I didn’t get to be paired with Yuu-kun, but—
+Excuse me? Why’re you giving up already? I mean, <em>yeah</em>, it’s unfortunate that I didn’t get to be paired with Yuu-kun, but—
 
 I’d <em>never</em> risk performing below par. I’m going to take this match seriously. That’s why—
 {% endbubble %}
@@ -1917,7 +1917,7 @@ Ahaha… Sensei, please carry on with the explanation~
 {% bubble Akiomi %}
 “All right then. For the second day, you will take on the ‘Ema Hunt Challenge’.”
 
-“I’ll explain the rules. In this game, you will try to find picture plaques of <em>ema</em>[^] hidden within Kiyomizu Temple.”
+“I’ll explain the rules. In this game, you will try to find picture plaques of <em>ema</em>[^7] hidden within Kiyomizu Temple.”
 
 “You will first start by drawing a fortune slip. Please find the <em>ema</em> by relying on the clue written on your slip.”
 
@@ -1935,15 +1935,15 @@ Ahaha… Sensei, please carry on with the explanation~
 {% bubble Tatsumi %}
 We’ve found four plaques of <em>ema</em>. Fufu, we’re doing extremely well.
 
-Time to draw a new fortune slip… All right, let me read it. Our fortune is the middle blessing[^]. Our clue is—
+Time to draw a new fortune slip… All right, let me read it. Our fortune is the middle blessing. Our clue is—
 
 “Hide and seek on the rabbits back”. Rabbit… I do feel like I saw one earlier…?
 {% endbubble %}
 
-{% bubble Nagisa %}
-…That would be the Jishu-Jinja Shrine. There was a rabbit statue there.
+{% bubble Nagisa v2 %}
+…That would be the Jishu-Jinja Shrine.[^8] There was a rabbit statue there.
 
-…I remember it because it was unusually standing on only two feet. Let’s go there.[^]
+…I remember it because it was unusually standing on only two feet. Let’s go there.
 {% endbubble %}
 
 ## Chapter 10
@@ -1980,7 +1980,7 @@ Yeah, you can look forward to seeing it tomorrow! Come on now, let’s join the 
 
 {% img /img/es/eventstory/weddingmarch/nagisaorigcg.jpg %}
 
-{% bubble Nagisa %}
+{% bubble Nagisa v2 %}
 …Hello, Ibara? Are you in the middle of work?
 
 …I’d like to ask you something. What sort of souvenir would you wish for me to get you?
@@ -1996,7 +1996,7 @@ Yeah, you can look forward to seeing it tomorrow! Come on now, let’s join the 
 What did Ibara-san ask for in the end?
 {% endbubble %}
 
-{% bubble Nagisa %}
+{% bubble Nagisa v2 %}
 …He said he’d like something that you can only buy in Kyoto. I believe he simply chose an answer that would satisfy me, but…
 
 …I’m happy that he took the time to think about it.
@@ -2020,7 +2020,7 @@ My pleasure. I hope you can find a suitable souvenir.
 It really suits you. They appear to be hand-painted.
 {% endbubble %}
 
-{% bubble Nagisa %}
+{% bubble Nagisa v2 %}
 …So it’s a one-of-a-kind. It’s also light and easy to carry… I think I’ll go with this.
 
 …I’ll buy one not only for Ibara, but for all of us in the unit. I’d like to give one to Hiyori-kun and Jun, as well.
@@ -2029,7 +2029,7 @@ It really suits you. They appear to be hand-painted.
 {% bubble Makoto %}
 Oh, a fox mask! You look so cool~♪
 
-The foxes reminded me of the <em>torii</em> gates, a famous shrine in Kyoto. And since you’ve got such a mystical feel to you, Nagisa-san, I feel like you’d fit right in with the view of the shrine.[^]
+The foxes reminded me of the thousand <em>torii</em> gates, a famous shrine in Kyoto.[^9] And since you’ve got such a mystical feel to you, Nagisa-san, I feel like you’d fit right in with the view of the shrine.
 {% endbubble %}
 
 {% bubble Shu norsmile %}
@@ -2040,7 +2040,7 @@ Hm… I’m sure the <em>torii</em> gates are especially beautiful in autumn. If
 Hmm… I believe visiting hours are open twenty-four-seven, so how about we visit it at night?
 {% endbubble %}
 
-{% bubble Shu %}
+{% bubble Shu v2 %}
 At night…? Not in the morning?
 {% endbubble %}
 
@@ -2048,7 +2048,7 @@ At night…? Not in the morning?
 Yes. I don’t think we will have a pillow fight tonight, and it is a little far from our inn. The best time to visit would be at night, when we have the most time to spare.
 {% endbubble %}
 
-{% bubble Jun %}
+{% bubble Jun v3 %}
 Sounds fun~ It’s a famous shrine and all, so we’d love to join you guys, too.
 {% endbubble %}
 
@@ -2057,7 +2057,7 @@ Mm, visiting a shrine at night…?
 {% endbubble %}
 
 {% bubble Jun serious %}
-Mm? Morisawa-senpai, are you bad with scary places…?
+Mm? Morisawa-senpai, are you bad with scary stuff…?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -2099,3 +2099,7 @@ Translation in progress!
 [^3]: A <em>yakatabune</em> specifically.
 [^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it's a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
 [^5]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.
+[^6]: The <a href="https://en.japantravel.com/kyoto/otowa-waterfall/14020" target="_blank">Otowa waterfall</a> has three streams, and visitors can drink the water from one of the them for its benefit.
+[^7]: This is what an <a href="https://en.wikipedia.org/wiki/Ema_(Shinto)" target="_blank">ema</a> looks like.
+[^8]: This is <a href="https://www.jishujinja.or.jp/english/" target="_blank">the shrine</a> and its statue in question.
+[^9]: Makoto's referring to <a href="https://en.wikipedia.org/wiki/Fushimi_Inari-taisha" target="_blank">this</a> specific shrine.
