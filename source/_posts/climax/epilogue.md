@@ -552,7 +552,7 @@ We’re in the middle of our performance, y'know? Talking isn’t allowed.
 {% endbubble %}
 
 {% bubble Midori smile %}
-Ahaha, you're sounding like a leader…♪
+Ahaha, you're sounding just like a leader…♪
 {% endbubble %}
 
 {% bubble Tetora curious %}

@@ -559,7 +559,7 @@ But it isn’t impossible! We may be starting from a blank slate, but that’s e
 
 The higher the risk, the more it fires me up! We only get stronger the greater adversaries we face!
 
-No matter how hard life forces us into a corner, we’ll always turn the tables! With a huge explosion! And a grand victory! That’s what being a hero is all about!
+No matter how hard life forces us into a corner, we’ll always turn the tables in our favor! With a huge explosion! And a grand victory! That’s what being a hero is all about!
 {% endbubble %}
 
 {% bubble Jun v3 %}

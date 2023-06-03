@@ -47,18 +47,6 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/morningpractice/c2.jpg"
-            alt="Morning Practice"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Morning Practice</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
             alt="Graduation"
         />
@@ -80,6 +68,11 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         <span class="read soon"></span>
     </a>
 </div>
+</div>
+
+<h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
+
+<div class="stories">
 <div class="story">
     <div class="image">
         <img
@@ -88,15 +81,10 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
         />
     </div>
     <a href="/wedding_march" class="storyName" target="_blank">
-        <span>Wedding March! (In Progress!)</span>
+        <span>Wedding March!</span>
         <span class="read"></span>
     </a>
 </div>
-</div>
-
-<h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
-
-<div class="stories">
 <div class="story">
     <div class="image">
         <img
@@ -112,49 +100,13 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/herogame/c1.jpg"
-            alt="Hero Game"
+            src="/img/es/idolstory/morningpractice/c2.jpg"
+            alt="Morning Practice"
         />
     </div>
-    <a href="/hero_game" class="storyName" target="_blank">
-        <span>Hero Game</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/idolstory/legendaryhero/c1.jpg"
-            alt="Legendary Hero!"
-        />
-    </div>
-    <a href="/legendary_hero" class="storyName" target="_blank">
-        <span>Legendary Hero!</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/idolstory/driftedashore/c1.jpg"
-            alt="When I Drifted Ashore"
-        />
-    </div>
-    <a href="/when_i_drifted_ashore" class="storyName" target="_blank">
-        <span>When I Drifted Ashore</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/idolstory/studyheroes/c2.jpg"
-            alt="Study Heroes"
-        />
-    </div>
-    <a href="/study_heroes" class="storyName" target="_blank">
-        <span>Study Heroes</span>
-        <span class="read"></span>
+    <a href="" class="storyName" target="_blank">
+        <span>Morning Practice</span>
+        <span class="read soon"></span>
     </a>
 </div>
 </div>

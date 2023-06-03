@@ -79,7 +79,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
 <div toc>
 {% btn /wedding_march/white_diamond,, arrow-left, Previous Chapter: White Diamond %}
 {% btn /wedding_march,, star, Index %}
-<!--{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Chapter 1
@@ -2082,15 +2082,607 @@ M-Mm, I see. That’s a relief to hear, then. Plus, I wouldn’t be visiting alo
 It isn’t scary if we all go together! Fuhahahaha…! ☆
 {% endbubble %}
 
-{% note narration %}
-Translation in progress!
-{% endnote %}
+## Chapter 11
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Tokusatsu Set Location</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red11_1.jpg %}
+
+<div class="msr-narration">
+    <p>Next day, the final day of the Kyoto field trip…</p>
+</div>
+
+{% bubble Chiaki grin %}
+—Yes, thank you very much for your cooperation!
+
+Oh! I see you’ve all arrived. Heeey~!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Good morning. I wasn’t aware there was a place like this, not too far out of Kyoto.
+{% endbubble %}
+
+{% bubble Chiaki %}
+This is the private property of a film studio in Kyoto. Whenever they film a huge-scale production, they build a large open set here.
+{% endbubble %}
+
+{% bubble Jun curious %}
+Wow, their set-up is super professional, everything looks so real… Did you arrange all of this, Morisawa-senpai?
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Yep! I’m extremely knowledgeable about tokusatsu, so I made various suggestions to them beforehand.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+…? What do tokusatsu and the punishment game have to do with each other…?
+{% endbubble %}
+
+{% bubble Chiaki %}
+This isn’t a punishment game, y’know? This is a game in which only the last two ranked players, Sazanami and I, are allowed to participate! And it’s called: the “Obstacle Course Contest: Vowing Your Life”!
+
+It’s the redemption event for a final chance to turn the tables, where one player has to overcome all obstacles and rescue his partner to score one hundred thousand points! ☆
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Whaa… One hundred thousand points is a little too much, don’tcha think…?
+
+Won’t that upset the other players who worked real hard to reach first place…?
+{% endbubble %}
+
+{% bubble Shu frown %}
+Absolutely. All of our efforts the past two days would come to nothing.
+
+…What is it, little girl? You believe that our viewers are more interested in seeing various sides of us idols, rather than the sight of us competing ruthlessly?
+
+You should have mentioned that before the show started then. It’s <em>far</em> too late now.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Now, now… Had we known that the last place would have this opportunity, none of us would have taken the competition seriously.
+
+Regardless, they will only receive one hundred thousand points <em>if</em> they succeed, correct?
+{% endbubble %}
+
+{% bubble Shu frown %}
+…………
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Exactly, Itsuki! It entirely depends on one’s skills to win!
+
+Or are you going to tell me that you would have preferred to lose before even trying?
+{% endbubble %}
+
+{% bubble Shu glare %}
+Lose before even trying…? As *if!*
+{% endbubble %}
+
+{% bubble Shu yare %}
+Hmph. If you end up losing after going through all these intricate arrangements, it will truly be an embarrassment.
+
+You best work as hard as you can.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Mhm! I’ll make sure to rescue Sazanami and turn the tables to our favor!
+{% endbubble %}
+
+{% bubble Jun sigh %}
+So I really <em>am</em> gonna be the one to get rescued, huh… Is that what you meant when you said that you’ll do something about this?
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Yeah! Take it easy now, for you’ve got nothing to worry about anymore!
+
+OOOOOHH!! I’m bursting with energy! ☆ It’s time for my stretching exercises!
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Then I’ll… Mm? Nagi-senpai is gesturing at me — I think he wants to talk.
+
+…What’s up? Is there something you need from me?
+{% endbubble %}
+
+{% bubble Nagisa serious %}
+…Jun, may I tie you with rope?
+{% endbubble %}
+
+{% bubble Jun curious %}
+…Pardon?
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Ran-sama, that’s too direct to be clear, so allow me to explain it to him.
+
+As explained before, the person who will be rescued — In this case, Sazanami-sama — will be tied up to this pillar here.
+
+May you please sit here and turn your arms to the back?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Ohhh, that’s what you meant… Sure, here ya go.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Thank you very much. I will be sure to tie you up loosely, but do let me know if it hurts at any point.
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…You’re very dexterous.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+I’m a butler, after all. ♪
+{% endbubble %}
+
+{% bubble Jun curious %}
+Do butlers have to know how to tie stuff up, too…?
+{% endbubble %}
+
+{% bubble Yuzuru %}
+Fufu. Butlers must always be prepared to handle any and all matters.
+
+Sazanami-sama, can you feel a gap between your right wrist and the rope?
+
+Loosening this part will allow you to easily untie the rope. I have made sure to tie you up in a safe manner, but please use it in case of emergency.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Gotcha. I’ll only untie it if I really have to.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Flashback over. Back to the present…</p>
+</div>
+
+{% bubble Makoto %}
+“—Player Morisawa has cleared the hundred meter race with ease!”
+
+“He’s reached the first barrier! It’s time to tackle the ‘Mountain When You’re Sick’ — In other words, rock climbing!”
+
+“Ohh, look at him go~! He’s climbing up the wall like nothing!”
+
+“He cleared through the obstacle perfectly! Absolutely remarkable! ☆”
+
+“Next up, the second barrier: ‘Basketball When You’re Sound’! He has to score a three-point goal twice in a row!”
+{% endbubble %}
+
+{% bubble Shu frown %}
+…………
+
+…As you’d expect from his very own proposals, they’re all obstacle courses he’s proficient at.
+
+It would have been impossible for me to do this. Did he simply come up with obstacle courses that would only be advantageous to him?
+{% endbubble %}
+
+{% bubble Akiomi %}
+According to Morisawa-kun, he was planning to adjust the first two barriers to the idol’s capabilities.
+{% endbubble %}
+
+{% bubble Shu curious %}
+Adjust…?
+{% endbubble %}
+
+{% bubble Akiomi %}
+Indeed. Even if you were the one to take on this challenge, Itsuki-kun, it would have been obstacles you’re proficient at.
+{% endbubble %}
+
+{% bubble Jin %}
+He prepared unique obstacles for each and every idol, even though only one set of them was gonna be used. He just added more work to himself by doing all that, but…
+
+It just goes to show how thoughtful he is. He knows that it wouldn’t make anyone happy to see idols suffer, especially not their fans.
+{% endbubble %}
+
+{% bubble Shu serious %}
+…………
+{% endbubble %}
+
+{% bubble Akiomi %}
+Well, the first two barriers aside, the real challenge is the one after—
+{% endbubble %}
+
+{% bubble Makoto %}
+“He did ittt~! He scored a three-point goal <em>twice!</em>”
+
+“The last barrier is the ‘Quiz of Mutual Support’! He has to answer one question about the player Sazanami, who’s been held captive!”
+
+“While the two haven’t interacted much, they were fortunately paired together twice in a row, so they should have gotten closer by now. He’s surely able to answer this question without any difficulty!”
+
+“Alright, here it is! ‘What is Player Sazanami’s favorite food?’”
+{% endbubble %}
+
+{% bubble Chiaki surprised2 %}
+His favorite… food…!?
+{% endbubble %}
+
+{% bubble Jun worried %}
+We’ve never once talked about that before…!
+{% endbubble %}
+
+{% bubble Makoto %}
+“You’ll lose five seconds of your time if you answer incorrectly. Please answer carefully!”
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+…………
+
+…Oh, I know!
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red11_2.jpg %}
+
+<div class="msr-narration">
+    <p>Meanwhile…</p>
+</div>
+
+{% bubble Hajime %}
+Ah, Takamine-kun.
+
+Hello, it’s been a while since you joined us~♪
+{% endbubble %}
+
+{% bubble Midori idle %}
+Yeah, ‘cause I took a break from Gardenia activities last week… Hm? Where’s Kazehaya-senpai?
+{% endbubble %}
+
+{% bubble Hajime %}
+Ah, he’s—
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Phone rings</p>
+</div>
+
+{% bubble Midori idle %}
+Hold on, Morisawa-senpai’s calling me. Hello…?
+{% endbubble %}
+
+{% bubble Midori shocked %}
+W-What the… All I hear is heavy breathing… Could you not play creepy pranks on me…?
+
+…Mm, what? …Sazanami-senpai’s favorite food? Where’d this come from…?
+
+I know we’re in the same circle, but there’s no way I’d know… Do you know what it is, Shino-kun?
+{% endbubble %}
+
+{% bubble Hajime worried %}
+Um… I’m sorry, but I don’t.
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+Don’t worry about it… I just figured I’d ask… Mm~…
+
+<th>(I wanna make things even between us after he gave me that capsule toy, so… Sazami-senpai’s favorite food, huh…)</th>
+
+<th>(…Ah, maybe—)</th>
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/red11_3.jpg %}
+
+{% bubble Chiaki grin %}
+…Ohh, I see now! Thank you, Takamine!
+{% endbubble %}
+
+{% bubble Makoto %}
+“What’s this!? Player Morisawa has just used his ‘call’!”
+
+“This is completely unexpected, but it isn’t against the rules, so he’s absolutely free to make use of it!”
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Sazanami’s favorite food is…
+
+Broccoli!
+{% endbubble %}
+
+## Chapter 12
+
+{% bubble Makoto %}
+“Player Morisawa has decided on his answer: ‘Broccoli’! Player Sazanami, is this correct?”
+{% endbubble %}
+
+{% bubble Jun frustrated %}
+My favorite food is…
+
+………
+{% endbubble %}
+
+{% bubble Jun sigh %}
+…is… strawberries.
+{% endbubble %}
+
+{% bubble Chiaki surprised0 %}
+Wh—…!?
+{% endbubble %}
+
+{% bubble Makoto %}
+“Oh no… It’s incorrect! Five seconds have been shaved off the time limit!”
+
+“The gate has been opened! Player Morisawa is running straight through it~!”
+
+“Can he slice the cake and save Player Sazanami in time!? Run, run fast, Player Morisawa!”
+{% endbubble %}
+
+{% bubble Chiaki angry %}
+OOOOOHHH!!! I’m on my way, Sazanamiiiii!!!!
+{% endbubble %}
+
+{% bubble Yuzuru serious %}
+He’s running so fast that there’s a cloud of dust behind him. I do hope he can make it…
+{% endbubble %}
+
+{% bubble Nagisa serious %}
+…He might not. Not unless he keeps up the pace until the very end.
+
+…However, there is a limit to one’s stamina. With such a long distance to cover, he’s likely to lose speed at this rate.
+{% endbubble %}
+
+{% bubble Makoto %}
+“Fifty meters to go! …Thirty! …Fifteen!”
+{% endbubble %}
+
+{% bubble Chiaki angry2 %}
+OOOOHHH!! Cake Slice of PASSION!!!!
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>The screen shakes with the sound of an explosion</p>
+</div>
+
+{% bubble Makoto surprised %}
+“Woah, that explosion’s way bigger than expected…! Are Players Morisawa and Sazanami alright!?”
+
+…Um, are they really going to be okay…? The explosion should’ve come from the cake, but…
+
+Mmm~ I can’t see anything because of the smoke…
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Screen fades to another area…</p>
+</div>
+
+{% bubble Jun sad4 %}
+*<th>(cough, cough)</th>…*
+{% endbubble %}
+
+{% bubble Chiaki worried %}
+Are you alright, Sazanami? Are you injured anywhere?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Morisawa-senpai… Yeah, I’m alright.
+{% endbubble %}
+
+{% bubble Chiaki smile3 %}
+Okay, that’s good. The smoke spread everywhere… Let’s wait it out here.
+{% endbubble %}
+
+{% bubble Jun sigh %}
+Sure… The cake cream’s all over me; I feel so sticky…
+
+It exploded, so that means we failed, huh~… I’m sorry…
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mm, you didn’t do anything wrong.
+{% endbubble %}
+
+{% bubble Jun frown2 %}
+You don’t have to cover for me. It’s the truth.
+
+If you just had those five seconds — If I had just said that I like broccoli, you would’ve made it. But I…
+{% endbubble %}
+
+{% bubble Jun sad2 %}
+…………
+
+…I didn’t wanna betray anyone.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Betray…?
+{% endbubble %}
+
+{% bubble Jun serious %}
+Yeah, ‘cause you worked so hard to make this show a success all throughout our trip, Morisawa-senpai. And I didn’t wanna betray my fans either, since they know I love strawberries.
+
+I didn’t wanna confuse all the fans who support me, who even manage to remember what I <em>like</em>. I didn’t wanna lie just to win.
+
+I’d rather be covered with cream than betray all of you. I’m used to being covered with dirt, anyway.
+
+…I was prepared for any outcome, but… I didn’t think about what I’d do if <em>you</em> also suffered with me.
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Sazanami…
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Ahh, man… You should’ve just ignored me and ran for cover, y’know…♪
+{% endbubble %}
+
+{% bubble Chiaki smile4 %}
+…I refuse. I’d <em>never</em> leave you behind.
+
+Didn’t I say that I’d rescue you no matter what?
+
+Sadly, we couldn’t achieve victory, but I feel satisfied with the outcome because of you.
+
+Thank you for trusting me, Sazanami.
+{% endbubble %}
+
+{% bubble Yuzuru %}
+The smoke has finally cleared up. I can see the two of them.
+{% endbubble %}
+
+{% bubble Nagisa curious %}
+…That was quite a large explosion. So was the “Obstacle Course Contest: Vowing Your Life” a success? Or a failure?
+{% endbubble %}
+
+{% bubble Makoto curious %}
+Mm… What do we do in this situation, Sensei?
+{% endbubble %}
+
+{% bubble Akiomi %}
+…We’ve checked the camera footage. Morisawa-kun’s knife touched the cake.
+{% endbubble %}
+
+{% bubble Jin %}
+But it could still be either-or at this point, so I guess it’s on us to decide.
+{% endbubble %}
+
+{% bubble Shu serious %}
+Is it not fine to consider this a success? Look, the two of them are heading towards us.
+
+Despite being covered in dust and cream, they’re smiling, are they not?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Indeed. Life is not simply fun moments; it is full of trial and error, as well.
+
+The two of them supporting one another despite everything is just as befitting for the conclusion of this show, no?
+
+They are perfectly suitable as the winners here…♪
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Wedding March! Stage</span></p>
+</div>
+
+{% img /img/es/eventstory/weddingmarch/red12_1.jpg %}
+
+<div class="msr-narration">
+    <p>After the recording ended, in the studio of the online show…</p>
+</div>
+
+{% bubble Yuzuru %}
+—And so, the ones who conquered the game segment are—
+
+The True☆Fiery☆Pair, with one hundred thousand and three points. Congratulations. ♪
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Fuhahaha! ☆ Thank you!
+{% endbubble %}
+
+{% bubble Jun awkward %}
+Is it really okay to celebrate this…? I mean, I’m definitely happy to get first place with Morisawa-senpai, since we worked together on this since day one, but still…
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+…It’s completely alright. Look at our viewers’ comments on the screen.
+
+…They’re all talking non-stop about the cake-cutting scene. It’s quite obvious who were the stars of the show.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Now then, they’ve prepared the studio set, so it’s time to perform the live show segment.
+
+Dear viewers, please do enjoy our song with us. ♪
+{% endbubble %}
+
+{% bubble Makoto %}
+♪\~♪\~♪
+
+<th>(Walking through the <em>torii</em> gates in the middle of the night was nerve-wracking, but it was a lot of fun.)</th>
+
+<th>(And Anzu-chan was able to enjoy herself without thinking about work, so it was worth it.)</th>
+
+<th>(The shrine is famous for being a spiritual hot spot, so I’d love to go there with everyone in Mystery Researchers next time.)</th>
+{% endbubble %}
+
+{% bubble Shu norsmile %}
+♪\~♪\~♪
+
+<th>(I went through all the trouble of taking photographs for him, yet the moment he met me, he had the nerve to greet me by saying, “Nothing beats the real thing”…)</th>
+
+<th>(Well, I suppose I cannot completely disagree with that. No matter how beautiful a photo is, it can never replace the true, authentic version.)</th>
+
+<th>(That is why… Kagehira, the next time I visit Kyoto, it will be with you. Let us enjoy such genuine arts together.)</th>
+{% endbubble %}
+
+{% bubble Yuzuru %}
+♪\~♪\~♪
+
+<th>(After a year since my last pillow fight, I was able to experience one again — and it was as pleasant as ever.)</th>
+
+<th>(Now that I sleep in the same room as the young master, I would love to show him the beauty of pillow fighting…)</th>
+
+<th>(However, I will instead await the day that he learns about it from his friends, and tells me tales of his adventures…♪)</th>
+{% endbubble %}
+
+{% bubble Tatsumi %}
+♪\~♪\~♪
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/tatsumibcg.jpg %}
+
+{% bubble Tatsumi %}
+<th>(The last three days went by in a flash.)</th>
+
+<th>(There were a lot of things I learned from the city and its brimming history. It was even more fun than I had expected.)</th>
+
+<th>(Hiiro-san, Aira-san, Mayoi-san… I would like all of you to see such wonderful sceneries with me. I hope that we can visit the city together someday.)</th>
+{% endbubble %}
+
+{% bubble Nagisa v2 %}
+♪\~♪\~♪
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/nagisabcg.jpg %}
+
+{% bubble Nagisa v2 %}
+<th>(…I’m so glad Hiyori-kun and Ibara liked their souvenirs.)</th>
+
+<th>(…The fox masks were hand-painted and different from one another, so I searched endlessly for masks that resembled each of them.)</th>
+
+<th>(…Difficult as it was, I had a lot of fun choosing the perfect mask for all of my dear, precious companions.)</th>
+{% endbubble %}
+
+{% bubble Jun v3 %}
+♪\~♪\~♪
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/junbcg.jpg %}
+
+{% bubble Jun v3 %}
+<th>(Nothing about this project is what you’d expect for a bridal company… There’s not a hint of a romantic or sweet air to it.)</th>
+
+<th>(But I’d like to believe this was the best way to go about it. After all, it became a huge hit, and it’ll definitely stick in everyone’s minds.)</th>
+
+<th>(Besides, it’s not every day you get to do whatever you like for a project. And best of all, it sounds like our viewers enjoyed it all throughout.)</th>
+
+<th>(This was a success… No, a <em>huge</em> success — Right, Morisawa-senpai? ♪)</th>
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+♪\~♪\~♪
+{% endbubble %}
+
+{% img /img/es/eventstory/weddingmarch/chiakibcg.jpg %}
+
+{% bubble Chiaki smile %}
+<th>(While the project did end up becoming a full-on variety show… we were able to still set the mood of a wedding by starting the show with the PV that was originally rejected.)</th>
+
+<th>(I’m so glad we didn’t have to abandon that PV in the end. Even if the video is nothing out of the ordinary, it was still a production made with a lot of heart and soul in it.)</th>
+
+<th>(We were all able to make wonderful memories, and deepen our bonds with one another.)</th>
+
+<th>(We turned the tables in our favor! With a huge explosion! And a grand victory! And so comes the happy ending with everyone smiling…♪)</th>
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /wedding_march/white_diamond,, arrow-left, Previous Chapter: White Diamond %}
 {% btn /wedding_march,, star, Index %}
-<!--{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Translation Notes

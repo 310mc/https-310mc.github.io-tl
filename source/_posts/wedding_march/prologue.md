@@ -118,7 +118,7 @@ All right, let’s begin.
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>The screen shakes with a sound of an explosion</p>
+    <p>The screen shakes with the sound of an explosion</p>
 </div>
 
 {% bubble Makoto %}
@@ -138,7 +138,7 @@ All right, let’s begin.
 {% endbubble %}
 
 <div class="msr-narration">
-    <p>Slides to another area…</p>
+    <p>Screen fades to another area…</p>
 </div>
 
 {% img /img/es/eventstory/weddingmarch/prologue_3.jpg %}
