@@ -422,6 +422,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
     <div class="story">
         <div class="image">
             <img
+                src="/img/es/idolstory/morningpractice/c2.jpg"
+                alt="Morning Practice"
+            />
+        </div>
+        <a href="/morning_practice" class="storyName" target="_blank">
+            <span>Morning Practice</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
                 src="/img/es/idolstory/selfishnoble/c1.jpg"
                 alt="Selfish Noble"
             />

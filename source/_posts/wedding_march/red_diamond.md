@@ -985,7 +985,7 @@ Let’s wave our hands back to show that all is well! Heeey~♪ *<th>(waves hand
 {% endbubble %}
 
 {% bubble Jun v3 %}
-Haha. You were really outta luck today, huh~ Getting so engrossed in picking up pebbles by the river that you ended up missing your chance to get on the ferry.
+Haha. You were really outta luck today~ Getting so engrossed in picking up pebbles by the river that you ended up missing your chance to get on the ferry.
 
 But getting lost in a tourist area is no joking matter, y’know~ Make sure to stay by your mom and dad’s sides from now on, ‘kay?
 {% endbubble %}

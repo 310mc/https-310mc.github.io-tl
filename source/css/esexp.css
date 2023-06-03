@@ -15,6 +15,9 @@
 [character="Midori"][blush2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blush2.png");
 }
+[character="Midori"][blush3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blush3.png");
+}
 [character="Midori"][cry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_cry.png");
 }

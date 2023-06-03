@@ -104,9 +104,9 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             alt="Morning Practice"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="/morning_practice" class="storyName" target="_blank">
         <span>Morning Practice</span>
-        <span class="read soon"></span>
+        <span class="read"></span>
     </a>
 </div>
 </div>
