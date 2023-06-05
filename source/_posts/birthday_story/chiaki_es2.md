@@ -75,6 +75,8 @@ description: "[ES!!] Translation of Chiaki's birthday content from Enstars!! Era
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 ## Birthday Quote
 
 **2020**
@@ -372,7 +374,9 @@ I had a lot of fun today! Thank you, Anzu…♪
         </div>
     </div>
 </div>
+
 <hr>
+
 {% img /img/es/birthdaystory/es2/chiaki/birthdayevent.jpg %}
 
 ### Opening Speech
@@ -708,6 +712,7 @@ List of office interactions that appear when the specified character gifts a pre
 {% bubble Kanata %}
 why don’t we hug once more?
 {% endbubble %}
+
 {% bubble Chiaki %}
 Oh, yeah! Come, you can hug me anytime! ☆
 {% endbubble %}
@@ -717,6 +722,7 @@ Oh, yeah! Come, you can hug me anytime! ☆
 {% bubble Tetora %}
 I was sooo excited to celebrate your birthday!
 {% endbubble %}
+
 {% bubble Chiaki %}
 Fuhaha, I’m super happy to hear that!
 {% endbubble %}
@@ -726,6 +732,7 @@ Fuhaha, I’m super happy to hear that!
 {% bubble Midori %}
 I mean… you've done a lot for us, so…
 {% endbubble %}
+
 {% bubble Chiaki %}
 Thank you, Takamine! I wonder what's inside!?
 {% endbubble %}
@@ -735,6 +742,7 @@ Thank you, Takamine! I wonder what's inside!?
 {% bubble Shinobu %}
 I'm so happy I got to celebrate your birthday!
 {% endbubble %}
+
 {% bubble Chiaki %}
 I'm overjoyed with gratitude![^1] Thank you, Sengoku~♪
 {% endbubble %}
@@ -744,6 +752,7 @@ I'm overjoyed with gratitude![^1] Thank you, Sengoku~♪
 {% bubble Hiiro %}
 It's only natural to celebrate my senior's birthday!
 {% endbubble %}
+
 {% bubble Chiaki %}
 Wow, I didn't expect to see you on my birthday, Hero-kun!
 {% endbubble %}
@@ -753,6 +762,7 @@ Wow, I didn't expect to see you on my birthday, Hero-kun!
 {% bubble Kuro %}
 I got you a present. I'm just hopin' you like it.
 {% endbubble %}
+
 {% bubble Chiaki %}
 No need to worry! I'm happy enough to know you did that for me!
 {% endbubble %}
@@ -762,6 +772,7 @@ No need to worry! I'm happy enough to know you did that for me!
 {% bubble Subaru %}
 Let's play basketball on our next day-off!
 {% endbubble %}
+
 {% bubble Chiaki %}
 Sounds like the perfect opportunity to have fun with our circle!
 {% endbubble %}
@@ -771,6 +782,7 @@ Sounds like the perfect opportunity to have fun with our circle!
 {% bubble Adonis %}
 You're always helping me out, after all.
 {% endbubble %}
+
 {% bubble Chiaki %}
 Oh, don't sweat it! That goes for both of us, since we're roommates…☆
 {% endbubble %}
@@ -780,6 +792,7 @@ Oh, don't sweat it! That goes for both of us, since we're roommates…☆
 {% bubble Hokuto %}
 I hope we can work together again.
 {% endbubble %}
+
 {% bubble Chiaki %}
 Me too! I look forward to it!
 {% endbubble %}
@@ -789,6 +802,7 @@ Me too! I look forward to it!
 {% bubble Shu %}
 Compose yourself a little.
 {% endbubble %}
+
 {% bubble Chiaki %}
 You got it! Look at how much I've grown!
 {% endbubble %}

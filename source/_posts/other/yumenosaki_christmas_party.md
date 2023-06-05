@@ -107,7 +107,7 @@ Waah, that's sooo cute~! Let's hurry and set them up on the tree…♪
 {% endbubble %}
 
 {% bubble Tetora %}
-………
+…………
 {% endbubble %}
 
 {% img /img/es/idolstory/christmasparty/1a_2.jpg %}
@@ -125,7 +125,7 @@ Woah—! The washi tape is all over the place… How'd this happen?
 {% endbubble %}
 
 {% bubble Tetora %}
-Uu… I made my ornament round and all, but it didn't look good enough without a pattern, so I wanted to try wrapping it with something fancy. Instead, I just ended up with this mess…
+Uu… I made my ornament round and all, but it didn't look good enough without a pattern, so I wanted to try wrapping it with somethin' fancy. Instead, I just ended up with this mess…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -135,9 +135,9 @@ Hm, try not to pull out *too* much washi tape at once. You can avoid tangling it
 {% bubble Tetora %}
 Woah, you're amazing at this! But this method’s great, it looks simple enough for a clumsy guy like me~!
 
-Wrap a little bit by bit… going round and round~♪
+Wrap a li'l bit by bit… going round and round~♪
 
-I-I did it…! I was able to do something right for once~!
+I-I did it…! I was able to do somethin' right for once~!
 {% endbubble %}
 
 {% bubble Tomoya %}

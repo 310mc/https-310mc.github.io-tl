@@ -411,7 +411,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
 {% endbubble %}
 
 {% note narration %}
-**Note:** You can see this football fish strap attached to Midori's phone, even to this day! Examples are here: <a href="/img/es/eventstory/schoolfestival4/midoriorigcg.jpg" target="_blank">one</a>, <a href="/img/es/idolstory/readhandlebooks/c2.jpg" target="_blank">two</a>, <a href="/img/es/eventstory/ninjaclan/midoriorigcg.jpg" target="_blank">three</a>
+**Note:** You can see this football fish strap attached to Midori's phone, even to this day. Examples are here: <a href="/img/es/eventstory/schoolfestival4/midoriorigcg.jpg" target="_blank">one</a>, <a href="/img/es/idolstory/readhandlebooks/c2.jpg" target="_blank">two</a>, <a href="/img/es/eventstory/ninjaclan/midoriorigcg.jpg" target="_blank">three</a>
 {% endnote %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

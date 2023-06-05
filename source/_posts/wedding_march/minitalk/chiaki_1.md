@@ -171,7 +171,7 @@ I'll head back to the agency office to take my belongings.
             {% bubble Chiaki v2 %}
             Do you have something to do there, too?
 
-            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a snack, but I couldn't finish it all.
+            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a refreshment, but I couldn't finish it all.
 			{% endbubble %}
         </div>
     </div>

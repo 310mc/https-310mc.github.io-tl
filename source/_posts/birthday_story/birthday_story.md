@@ -12,18 +12,157 @@ description: "Ensemble Stars (Enstars) Birthday story translations by 310mc."
 permalink: birthday_story/
 ---
 
-Birthday story translations by 310mc.
+{% img /img/es/birthdaystory/es2/chiaki/bdaycake.png %}
+
+<big><b>Birthday story translations by 310mc.</b></big>
 
 <!-- more -->
 
-## ES!
+<link rel="stylesheet" href="/css/storylist.css">
 
-|Chiaki|Kanata|Midori|
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-[![/birthday_story/chiaki_es](https://static.wikia.nocookie.net/ensemble-stars/images/8/89/Chiaki_Morisawa_Anime_Chibi.png)](/birthday_story/chiaki_es)|[![/birthday_story/kanata_es](https://static.wikia.nocookie.net/ensemble-stars/images/d/d2/Kanata_Shinkai_Anime_Chibi.png)](/birthday_story/kanata_es)|[![/birthday_story/midori_es](https://static.wikia.nocookie.net/ensemble-stars/images/f/f4/Midori_Takamine_Anime_Chibi.png)](/birthday_story/midori_es)
+## Midori Takamine
 
-## ES!!
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/midori2019.jpg"
+            alt="2019 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2019" class="storyName" target="_blank">
+        <span>2019 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/midori2020.jpg"
+            alt="2020 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2020" class="storyName" target="_blank">
+        <span>2020 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/midori2021.jpg"
+            alt="2021 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2021" class="storyName" target="_blank">
+        <span>2021 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/midori2022.jpg"
+            alt="2022 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2022" class="storyName" target="_blank">
+        <span>2022 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/midori2023.jpg"
+            alt="2023 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2023" class="storyName" target="_blank">
+        <span>2023 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>-->
+</div>
 
-|Chiaki|Midori|
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-[![/birthday_story/chiaki_es2](https://static.wikia.nocookie.net/ensemble-stars/images/b/bb/Chiaki_Morisawa_Work_Casual_%28Spring-Summer%29_Outfit_Chibi.png)](/birthday_story/chiaki_es2)|[![/birthday_story/midori_es2](https://static.wikia.nocookie.net/ensemble-stars/images/4/40/Midori_Takamine_Work_Casual_%28Spring-Summer%29_Outfit_Chibi.png)](/birthday_story/midori_es2)|
+## Kanata Shinkai
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/kanata2019.jpg"
+            alt="2019 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/kanata/2019" class="storyName" target="_blank">
+        <span>2019 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+## Chiaki Morisawa
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/chiaki2019.jpg"
+            alt="2019 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/chiaki/2019" class="storyName" target="_blank">
+        <span>2019 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/chiaki2020.jpg"
+            alt="2020 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/chiaki/2020" class="storyName" target="_blank">
+        <span>2020 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/chiaki2021.jpg"
+            alt="2021 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/chiaki/2021" class="storyName" target="_blank">
+        <span>2021 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/chiaki2022.jpg"
+            alt="2022 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/chiaki/2022" class="storyName" target="_blank">
+        <span>2022 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/chiaki2023.jpg"
+            alt="2023 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/chiaki/2023" class="storyName" target="_blank">
+        <span>2023 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>-->
+</div>

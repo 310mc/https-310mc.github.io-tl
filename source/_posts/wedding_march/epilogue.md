@@ -80,7 +80,7 @@ Thanks for the hard work~ …Mm? I got a message from someone.
 {% bubble Jun awkward %}
 I don’t blame Takamine-kun for thinking broccoli was my fav, though~ He gives me some from time to time, y’see.[^1]
 
-I think that’s where he got the impression that I’m a broccoli type of guy. So yeah, could you let him know that he doesn’t have to worry about it?
+I think that’s where he got the impression that I’m a broccoli kind of guy. So yeah, could you let him know that he doesn’t have to worry about it?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -237,5 +237,5 @@ No, no! Please don’t say it in such a misleading wayyy~!
 </div>
 
 ## Translation Notes
-[^1]: This is a reference to the feature scout story, <a href="/a_detour_encounter" target="_blank">A Detour Encounter</a>.
-[^2]: Originally, Chiaki was going to say “I want you to make my miso soup every day”. The sentence starts with <em>ore no miso</em> (my miso), so I had to re-arrange the sentence to work similarly in English too.
+[^1]: This is a reference to the feature scout stories, <a href="/a_detour_encounter" target="_blank">A Detour Encounter</a> and <a href="/bodybuilding_bros" target="_blank">Together, We Are the Bodybuilding Bros!</a>.
+[^2]: Originally, Chiaki was going to say “I want you to make my miso soup”. The sentence starts with <em>ore no miso</em> (my miso), so I had to re-arrange the sentence to work similarly in English too.

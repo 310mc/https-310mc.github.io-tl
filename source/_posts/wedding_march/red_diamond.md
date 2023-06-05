@@ -339,7 +339,7 @@ I see that I’m partnered with Ran-sama. It is a pleasure to make your acquaint
 
 <th>(I’ve got no clue why, but I do know Ibara has some hostility with him, so… I dunno what to expect once he finds out…)</th>
 
-<th>(Oh well. I can’t be assed to think about it right now, and them’s the rules, so nothing I can do about it anyway…)</th>
+<th>(Oh well. I can’t be assed to think ‘bout it right now, and them’s the rules, so nothing I can do ‘bout it anyway…)</th>
 
 We were a pair for the PV, and a pair again here, huh\~ I’m glad to work with you, Morisawa-senpai\~♪
 {% endbubble %}
@@ -2187,7 +2187,7 @@ Then I’ll… Mm? Nagi-senpai is gesturing at me — I think he wants to talk.
 {% endbubble %}
 
 {% bubble Nagisa serious %}
-…Jun, may I tie you with rope?
+…Jun, may we tie you with rope?
 {% endbubble %}
 
 {% bubble Jun curious %}
@@ -2271,7 +2271,7 @@ Indeed. Even if you were the one to take on this challenge, Itsuki-kun, it would
 {% endbubble %}
 
 {% bubble Jin %}
-He prepared unique obstacles for each and every idol, even though only one set of them was gonna be used. He just added more work to himself by doing all that, but…
+Morisawa prepared unique obstacles for each and every idol, even though only one set of them was gonna be used. He just added more work to himself by doing all that, but…
 
 It just goes to show how thoughtful he is. He knows that it wouldn’t make anyone happy to see idols suffer, especially not their fans.
 {% endbubble %}
@@ -2367,7 +2367,7 @@ Don’t worry about it… I just figured I’d ask… Mm~…
 {% img /img/es/eventstory/weddingmarch/red11_3.jpg %}
 
 {% bubble Chiaki grin %}
-…Ohh, I see now! Thank you, Takamine!
+…Ohh, I see! Thank you, Takamine!
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -2669,7 +2669,7 @@ Dear viewers, please do enjoy our song with us. ♪
 {% img /img/es/eventstory/weddingmarch/chiakibcg.jpg %}
 
 {% bubble Chiaki smile %}
-<th>(While the project did end up becoming a full-on variety show… we were able to still set the mood of a wedding by starting the show with the PV that was originally rejected.)</th>
+<th>(While the project did end up becoming a full-on variety show… we were still able to set the mood of a wedding by starting the show with the PV that was originally rejected.)</th>
 
 <th>(I’m so glad we didn’t have to abandon that PV in the end. Even if the video is nothing out of the ordinary, it was still a production made with a lot of heart and soul in it.)</th>
 
