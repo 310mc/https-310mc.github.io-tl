@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] A Raininja Day to Convey"
-date: 2023-5-17 9:00:00
+date: 2023-5-10 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Shinobu]

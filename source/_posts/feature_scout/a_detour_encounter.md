@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] A Detour Encounter"
-date: 2023-5-11 15:00:00
+date: 2021-2-10 15:00:00
 categories:
 - [Enstars, Tori]
 - [Enstars, Jun]

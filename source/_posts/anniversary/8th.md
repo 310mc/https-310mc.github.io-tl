@@ -142,7 +142,7 @@ It seems that you pass the round every time you make the same pose as the idol. 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-we all have our own personal hero [poses], so we can definitely [telepathically] match each other~
+we all have our own personal hero [poses], so we can definitely [link] with each other~
 {% endbubble %}
 
 {% bubble Midori worried %}

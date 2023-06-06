@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Study Heroes"
-date: 2023-5-7 9:00:00
+date: 2019-10-11 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

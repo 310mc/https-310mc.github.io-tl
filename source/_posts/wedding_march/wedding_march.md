@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Wedding March!"
-date: 2023-6-3 9:05:00
+date: 2023-6-6 9:00:00
 categories:
 - [Enstars, ES!!]
 tags:

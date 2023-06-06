@@ -1,6 +1,6 @@
 ---
 title: "[ES!] When I Drifted Ashore"
-date: 2023-5-11 9:00:00
+date: 2017-8-26 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Kanata]

@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – Epilogue"
-date: 2023-6-3 9:00:00
+date: 2023-5-15 9:03:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Nagisa]

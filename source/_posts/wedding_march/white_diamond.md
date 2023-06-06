@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – White Diamond"
-date: 2023-5-18 9:00:00
+date: 2023-5-15 9:01:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Tatsumi]

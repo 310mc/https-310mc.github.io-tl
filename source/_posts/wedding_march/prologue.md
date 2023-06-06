@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – Prologue"
-date: 2023-5-15 8:55:00
+date: 2023-5-15 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Tatsumi]

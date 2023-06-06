@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Legendary Hero!"
-date: 2023-5-7 9:01:00
+date: 2017-8-26 9:01:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

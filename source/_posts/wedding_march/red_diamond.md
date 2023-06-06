@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – Red Diamond"
-date: 2023-5-28 9:00:00
+date: 2023-5-15 9:02:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Nagisa]
