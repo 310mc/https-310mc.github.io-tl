@@ -63,7 +63,7 @@ description: "[ES!!] Translation of Hinata's Idol Story 1."
 {% bubble Hinata %}
 Hmhmhm~♪
 
-Huh? Woooah— Wazzap, Producer! I hope your work has been going well! *Swish! ☆ <th>(salutes)</th>*
+Huh? Woooah— Wazzap, Producer! I hope your work has been going well! <em>Swish! ☆ <th>(salutes)</th></em>
 
 Ahaha~ Yup, I’m copying Vice Prez Saegusa from my agency!
 
@@ -85,9 +85,9 @@ We’re taking breathers whenever we need ‘em, which means our jobs are always
 
 We’re the two-in-one twin idols, Aoi Hinata and Aoi Yuuta!
 
-We’re twin stars who can breeze through the world of showbiz better than anyone else...☆
+We’re twin stars who can breeze through the world of showbiz better than anyone else…☆
 
-That’s all, folks! Whoops, I just can’t stop promoting us every chance I get~ I think it’s become a habit of mine...?
+That’s all, folks! Whoops, I just can’t stop promoting us every chance I get~ I think it’s become a habit of mine…?
 
 Hm? You thought it was great? Thankies!
 
@@ -119,17 +119,17 @@ We’ve got *loads* of people who would want us now! ‘Cause clients benefit fr
 
 Everyone’ll praise “us”! I can’t stop myself from laughing with joy, *ohohoho~♪*
 
-... In fact, I’m starting to feel like all those opening acts we did for other units last year lasted *way* too long, like a wasted detour...
+…In fact, I’m starting to feel like all those opening acts we did for other units last year lasted *way* too long, like a wasted detour…
 
-I mean, I know no sort of experience *really* goes to waste in the end, but...
+I mean, I know no sort of experience *really* goes to waste in the end, but…
 
 I wish I could’ve brought Yuuta-kun somewhere where we can shine brightest way sooner, y’know?
 
-It’s all ‘cause I kept running away... Oh, ah-- Um, it’s nothing.
+It’s all ‘cause I kept running away… Oh, ah— Um, it’s nothing.
 
 Anyway, Producer, are you free right now? If you’ve got the time, could you teach me about cooking?
 
-Oh, well, I’ve been cooking since way back, so I can pretty much make almost anything...
+Oh, well, I’ve been cooking since way back, so I can pretty much make almost anything…
 
 But I don’t really trust my sense of taste~ I’d always pretended to like the food I hated, so I’ve started to get confused between the two.
 
@@ -159,15 +159,15 @@ Oh, by the way; Yuuta-kun’s currently preparing stuff for a different job.
 
 We’ve been splitting the work between us lately, so we can really get things going for 2wink~
 
-Though that means we only get to be together when we’re on the job, which is pretty lonely...
+Though that means we only get to be together when we’re on the job, which is pretty lonely…
 
-Not only that, but God was cruel enough to put me in a different dorm room from Yuuta-kun...
+Not only that, but God was cruel enough to put me in a different dorm room from Yuuta-kun…
 
 Uuu~ I’m super deprived of love~ You gotta be nice to me, Producer♪
 
 Ahaha, thank you! So you’ll give me advice on cooking?
 
-The crybaby trick always works, you’re too easy~... Ah, um, just talkin’ to myself!
+The crybaby trick always works, you’re too easy~… Ah, um, just talkin’ to myself!
 
 Hehe, anyway, CosPro makes a clear distinction between every type of role, so~
 
@@ -177,7 +177,7 @@ But we’re called to the meetings for them, so there isn’t any loss to prepar
 
 I’m never taking detours ever again. I’m gonna rush straight in through the shortest path possible — and take Yuuta-kun up to the peak of the idol industry.
 
-No—I’ll make sure to take *“us”* there.
+No— I’ll make sure to take *“us”* there.
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-right, Hinata Idol Story 2 %}</div>

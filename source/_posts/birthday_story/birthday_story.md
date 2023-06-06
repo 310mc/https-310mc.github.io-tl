@@ -14,7 +14,7 @@ permalink: birthday_story/
 
 {% img /img/es/birthdaystory/es2/chiaki/bdaycake.png %}
 
-<big><b>Birthday story translations by 310mc.</b></big>
+<big><b>Birthday story translations by 310mc. The translations are split in their respective years, based on JPstars' release.</b></big>
 
 <!-- more -->
 
@@ -27,11 +27,11 @@ permalink: birthday_story/
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/midori2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/midori/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -92,11 +92,11 @@ permalink: birthday_story/
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/kanata2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/kanata/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -109,11 +109,11 @@ permalink: birthday_story/
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/chiaki2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/chiaki/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>

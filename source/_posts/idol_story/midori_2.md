@@ -171,7 +171,7 @@ Hmmm… Is there anyone here?
 {% endbubble %}
 
 {% bubble Midori %}
-<th>(That voice… It sounds like either Yuta-kun or Hinata-kun… I can’t move right now, so I can’t check which twin it is…)</th>
+<th>(That voice… It sounds like either Yuuta-kun or Hinata-kun… I can’t move right now, so I can’t check which twin it is…)</th>
 {% endbubble %}
 
 {% bubble Yuta %}
@@ -215,7 +215,7 @@ Well, I was only working in silence anyway, so… Don’t worry about it.
 {% bubble Shinobu %}
 I realized this once you put the tarp over me, but were you tending the plants?
 
-Yuta-kun is “it” right now, but I don’t think he will be back for a while, so I shall help you out.
+Yuuta-kun is “it” right now, but I don’t think he will be back for a while, so I shall help you out.
 
 Pretending to be a gardener to conceal myself feels spy-like~♪
 {% endbubble %}
@@ -239,7 +239,7 @@ It has all kinds of people from different units in it… It does sound sorta fun
 {% bubble Shinobu %}
 Wooah~! Are you perhaps secretly interested in joining us, Midori-kun!?
 
-Harukawa-kun, Yuta-kun, and Sazanami-dono are all in it—It’s quite fun~♪
+Harukawa-kun, Yuuta-kun, and Sazanami-dono are all in it—It’s quite fun~♪
 {% endbubble %}
 
 {% bubble Midori %}

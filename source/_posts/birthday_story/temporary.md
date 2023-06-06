@@ -28,11 +28,11 @@ hidden: true
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/shinobu2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/shinobu/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -72,7 +72,7 @@ hidden: true
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/shinobu2023.jpg"
@@ -83,7 +83,7 @@ hidden: true
         <span>2023 Birthday Content</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 </div>
 
 ## Tetora Nagumo
@@ -93,11 +93,11 @@ hidden: true
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/tetora2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/tetora/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -158,11 +158,11 @@ hidden: true
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/midori2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/midori/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -223,11 +223,11 @@ hidden: true
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/kanata2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/kanata/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>
@@ -288,11 +288,11 @@ hidden: true
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/chiaki2019.jpg"
-            alt="2019 Birthday Content"
+            alt="2016-2019 Birthday Content"
         />
     </div>
     <a href="/birthday_story/chiaki/2019" class="storyName" target="_blank">
-        <span>2019 Birthday Content</span>
+        <span>2016-2019 Birthday Content</span>
         <span class="read"></span>
     </a>
 </div>

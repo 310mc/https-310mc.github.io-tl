@@ -127,7 +127,7 @@ Oh, Subaru? You're gonna catch a cold if you sleep here, y'know~
 {% bubble Subaru %}
 Mmm…? Mmmmm…?
 
-Huh? It's Sarii\~! Goooood morning\~! ☆
+Huh? It's Sally\~! Goooood morning\~! ☆
 {% endbubble %}
 
 {% bubble Mao %}
@@ -151,7 +151,7 @@ Ahaha, so it just ended up being a good way to fall asleep for you, huh?
 {% bubble Subaru %}
 Yeah, I mean, I like basketball, but I'd rather move my body than study up on stuff. I looove playing with balls…♪
 
-Hey, Sarii~! You free right now? Let's play basketball together! I wanna play around with a ball!
+Hey, Sally~! You free right now? Let's play basketball together! I wanna play around with a ball!
 {% endbubble %}
 
 {% bubble Mao %}
@@ -169,7 +169,7 @@ Sure, sure. Haha, you were reading the magazine properly all along, weren'tcha?
 {% endbubble %}
 
 {% bubble Subaru %}
-C'mon, Sarii\~, let's goooo! Get your legs moving! The ball is waiting for us\~! ☆
+C'mon, Sally\~, let's goooo! Get your legs moving! The ball is waiting for us\~! ☆
 {% endbubble %}
 
 ### With Midori
