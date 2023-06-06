@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – Chiaki Mini Talk: If I Were In Kyoto…"
-date: 2023/5/15 7:05:00
+date: 2023/5/16 7:05:00
 categories:
 - [Enstars, Chiaki]
 tags:

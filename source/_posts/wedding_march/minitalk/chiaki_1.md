@@ -1,6 +1,6 @@
 ---
 title: "Wedding March! – Chiaki Mini Talk: Unexpected Dropped Item"
-date: 2023/5/15 7:00:00
+date: 2023/5/16 7:00:00
 categories:
 - [Enstars, Chiaki]
 tags:

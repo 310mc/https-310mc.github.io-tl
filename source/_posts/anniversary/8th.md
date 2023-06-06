@@ -134,7 +134,7 @@ Ohh!? Look, you guys! Don't you think this game suits us perfectly!?
 {% bubble Tetora curious %}
 Hm? What didja find?
 
-Erm… "T♡l♡pathy Game"?
+Erm… "Linking ♡s Game"?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
