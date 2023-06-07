@@ -1392,7 +1392,7 @@ It's 100% summer now; it's super humid even at night!
 …Isara-dono, I really respect you.
 {% endbubble %}
 
-{% bubble Mao blush %}
+{% bubble Mao blushsurprised %}
 Huh\~!? Why're you complimenting me all of a sudden!? You're making me blush\~!
 {% endbubble %}
 
@@ -1418,7 +1418,7 @@ It makes me feel like I can grow and mature more and more.
 I want to grow big, enough to reach the stars in the sky. That is what I will write for my Tanabata wish.
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 That is all! Ehehe~♪
 {% endbubble %}
 

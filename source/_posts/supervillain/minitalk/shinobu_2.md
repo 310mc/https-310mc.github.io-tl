@@ -188,7 +188,7 @@ However, I do tend to feel like going to places that are used for historical dra
             How about we go together?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu blush %}
+            {% bubble Shinobu blushjoy %}
             Are you sure…!? Then I would *love* to invite Kanzaki-dono over so that we may go to together!
 
             Please do let me know when we can go together! I'm excited already~♪

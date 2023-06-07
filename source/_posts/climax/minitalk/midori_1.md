@@ -249,7 +249,7 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
 
         Please don't pat my head out of nowhere… You surprised me, y'know?
         {% endbubble %}
-        {% bubble Midori blush %}
+        {% bubble Midori blushshy %}
         I don't dislike it, but it's kinda embarrassing, like I'm a little kid…
 				{% endbubble %}
 			</div>

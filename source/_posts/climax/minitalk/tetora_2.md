@@ -212,7 +212,7 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Tetora blush %}
+            	{% bubble Tetora blushscratch %}
 							Y-You're gonna make me blush, y'know…
 
         But I'm gonna inherit Red after Taichou graduates.

@@ -532,7 +532,7 @@ Heheh, this is a lot of fun\~ I’m starting to feel excited myself\~♪
 Oh! Took ya long enough to get your energy back. You’re so late, Taichou~♪
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 Nihihi! However, we are monsters, so we should probably not be *too* energetic.
 
 We should be more like Midori-kun; it is much more monster-like to be sluggish and droopy~♪
@@ -938,7 +938,7 @@ It’s Ryuseitai’s turn to sing right now, so you won’t look weird if you st
 Heave-ho… I’ll carry you to the pumpkin, Hajime.
 {% endbubble %}
 
-{% bubble Hajime blush %}
+{% bubble Hajime blushsurprised %}
 Wha—!? T-Tomoya-kun!? Don’t carry me!
 {% endbubble %}
 
@@ -962,7 +962,7 @@ I’m actually really happy I get to help you like this again. We’re gonna pul
 So this is my turn, basically.
 {% endbubble %}
 
-{% bubble Hajime blush2 %}
+{% bubble Hajime blushdazed %}
 T-Tomoya-kun…♪
 {% endbubble %}
 

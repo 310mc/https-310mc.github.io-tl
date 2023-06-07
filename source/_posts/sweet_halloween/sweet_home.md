@@ -202,7 +202,7 @@ Ah— It’s true, there’s something written on the tag.
 Hmm… Mm~… I can’t see it very well.
 {% endbubble %}
 
-{% bubble Tomoya blush %}
+{% bubble Tomoya blushsurprised %}
 H-Hajime! Could you please not peek? This isn’t like when we’re changing clothes — It’s just plain embarrassing! Hey—! Seriously, quit staring like that!
 {% endbubble %}
 
@@ -344,7 +344,7 @@ So this became the perfect place to sleep in.
 We may not have club activities, but we still gotta keep things clean, sooo… Taishou said he’d be super thankful if we could do it for him.
 {% endbubble %}
 
-{% bubble Tetora blush2 %}
+{% bubble Tetora blushsquint %}
 Ahhh man\~! He really is super duper cool\~!
 
 Never demanding rewards from anyone\~! I wanna be like that too! I wanna help someone and act all *“Oh, it’s no problem,”* just like him\~! ☆
@@ -750,7 +750,7 @@ Well, he seems to like animals, anyway.
 Maybe that’s why they like him back… There are times when, while we’re trying to go from one place to another, the dogs and cats come over and everyone starts petting them. We don’t get anywhere when that happens.
 {% endbubble %}
 
-{% bubble Mitsuru blush %}
+{% bubble Mitsuru blushjoy %}
 Ahaha, it’s one of the benefits of being with Tomo-chan~! ♪
 {% endbubble %}
 

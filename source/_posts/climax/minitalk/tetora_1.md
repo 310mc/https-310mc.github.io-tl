@@ -225,7 +225,7 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
 
       I didn't know what timing would be right to change how I called him at first.
         {% endbubble %}
-        {% bubble Tetora blush %}
+        {% bubble Tetora blushscratch %}
       But now that I'm calling him that… It's a li'l embarrassing somehow…♪
         {% endbubble %}
 			</div>

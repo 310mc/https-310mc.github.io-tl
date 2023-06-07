@@ -272,7 +272,7 @@ But that’s what makes it worth it to be a part of ‘em. I do feel like we go 
 I’m hoping it'll be the same this time, too, so… Let’s do our very best, Shinobu-kun.
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 Of course! Even if it’s just the two of us, we are still Ryuseitai! Let’s do our best to ensure our guests have fun~! ♪
 {% endbubble %}
 

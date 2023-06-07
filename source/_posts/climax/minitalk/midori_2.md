@@ -249,7 +249,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori blush2 %}
+            	{% bubble Midori blushscratch %}
 							Bonds…?
 
         That makes me feel a bit embarrassed somehow.

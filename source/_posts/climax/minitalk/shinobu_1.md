@@ -79,7 +79,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu blush %}
+            	{% bubble Shinobu blushjoy %}
 							R-Really? I'd love that!
 
         To be honest, I was not sure if I could accomplish this task on my own…
@@ -246,7 +246,7 @@ Anzu-dono! Please help me think of something~!
 
         Hm? Cookies mean "you're my friend"?
         {% endbubble %}
-        {% bubble Shinobu blush %}
+        {% bubble Shinobu blushjoy %}
         I-I'm so happy! Yuuta-kun is a precious friend to me, too~♪
 				{% endbubble %}
 			</div>

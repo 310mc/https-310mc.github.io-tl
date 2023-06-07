@@ -1510,7 +1510,7 @@ Huh…? Isn’t that person from Knights…? Were you on good terms with them, T
 Ahh, yeah, just recently! She’s teaching me the secrets to manliness~ I’m gonna do some training for that today, too!
 {% endbubble %}
 
-{% bubble Tetora blush %}
+{% bubble Tetora blushscratch %}
 Ehehe, Narukami-senpai’s been helping me so much…
 
 We may even end up in a magazine together! She’ll try and recommend me as the next manly candidate!

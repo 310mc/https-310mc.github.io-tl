@@ -501,7 +501,7 @@ H-Hold on, I’ll climb down right now! Just gimme a sec— Woah—!!
 <th>(—Ack!! I’m gonna crash into her!!)</th>
 {% endbubble %}
 
-{% bubble Mao blush %}
+{% bubble Mao blushsurprised %}
 …Gffh—! S-Sorry, Anzu! I’ll get off of you immediately!
 
 <th>(Woah… Was a girl’s body always this warm and soft…)</th>

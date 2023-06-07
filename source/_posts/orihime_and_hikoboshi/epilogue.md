@@ -171,7 +171,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “That is just what we wanted to hear! The stronger the light, the darker the shadow! And that is *exactly* my forte! ☆”
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 “Thank you, Isara-dono~! You were giving me a chance to say something ninja-like, right!? ♪”
 {% endbubble %}
 

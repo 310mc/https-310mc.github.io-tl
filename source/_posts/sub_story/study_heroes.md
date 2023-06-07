@@ -297,7 +297,7 @@ Correct! Mhm, mhm! You’re starting to get it, aren’t you?
 Ossu! It’s not perfect or anythin’, but I feel like I can get through math now!
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 Heh, I may be able to redeem myself on the next English test thanks to Taichou-dono!
 {% endbubble %}
 

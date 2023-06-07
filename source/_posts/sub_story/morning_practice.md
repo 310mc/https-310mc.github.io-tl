@@ -392,7 +392,7 @@ Umm… But, is it really okay for me to have it?
 yes, please take it\~♪ i have plenty in the [clubroom], so i am grateful that you are taking one\~
 {% endbubble %}
 
-{% bubble Midori blush3 %}
+{% bubble Midori blushsquint %}
 Wahh, waaahh…♪ Really!?
 
 If you’re okay with it, I’d like all of them…! They’re <em>that</em> cute…♪

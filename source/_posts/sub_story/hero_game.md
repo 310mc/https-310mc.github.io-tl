@@ -265,7 +265,7 @@ Ah! Don’t attack them directly, Nagumo! We don’t want anyone hurt!
 Gotcha! I’ll take on Sengoku-kun, so you defeat Shinkai-senpai, Taichou!
 {% endbubble %}
 
-{% bubble Tetora blush %}
+{% bubble Tetora blushscratch %}
 Hehe! ♪ To be honest, I used to play superheroes a lot when I was young.
 
 This takes me back~… I’d play with a couple’a boys back then, but I wonder what they’re doin’ now…
@@ -291,7 +291,7 @@ Ryusei Beam! Ryusei Beam!
 Ah— So *that’s* how you fight…? It really is just a game for kids…
 {% endbubble %}
 
-{% bubble Shinobu blush %}
+{% bubble Shinobu blushjoy %}
 C’mon, Midori-kun, join us! It is much more fun than you would think\~ Playing superheroes has its charm, as well\~♪
 {% endbubble %}
 

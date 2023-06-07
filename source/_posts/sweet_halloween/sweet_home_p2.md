@@ -282,7 +282,7 @@ So we’ll watch horror movies to take note of how to act more monster-like.
 Us Ra*bits do stuff like this often so we can take notes on how to do things.
 {% endbubble %}
 
-{% bubble Mitsuru blush %}
+{% bubble Mitsuru blushjoy %}
 Yeah, yeah! We watch a lotta stuff with animals in it! Not much happens in them, though, so I get sleepy watching them! ♪
 {% endbubble %}
 
