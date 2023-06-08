@@ -83,7 +83,7 @@ Where the heck did you get that idea from? You just pass the promotion exam to b
 
 Thing is, though, it's not easy beating it. I've gotta train harder and harder…
 
-Wait, how could I forget—that's *exactly* what fires you up about it! Sorry 'bout what I said earlier! I shouldn't have made it sound so easy!
+Wait, how could I forget— That's *exactly* what fires you up about it! Sorry 'bout what I said earlier! I shouldn't have made it sound so easy!
 {% endbubble %}
 
 {% bubble Midori %}

@@ -934,7 +934,7 @@ Why do I get the feeling you’ll break your promise in an instant…?
 Let’s not complicate this and just change after each other, ‘kay? We’ll be failures as heroes if we don’t make it on time for an important moment.
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki srsthinking %}
 True… But am I really going as Red again? I’ve been telling all of you over and over again that Nagumo’s the current leader of Ryuseitai…
 {% endbubble %}
 
@@ -944,7 +944,7 @@ Mmm~… I think it’s only you tokusatsu fans who waste your time caring about 
 Every last one of you are so insistent on making everything harder on yourselves with this pointless stuff — It’s all so dumb.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki curious %}
 ……?
 {% endbubble %}
 
@@ -958,5 +958,5 @@ Every last one of you are so insistent on making everything harder on yourselves
 ## Translation Notes
 [^1]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
 [^2]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
-[^3]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
+[^3]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata's birthday cake</a>.
 [^4]: A reference to what happens in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

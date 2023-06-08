@@ -250,4 +250,4 @@ i think we’ll have a lot of fun promoting the aquarium with you around, midori
 ## Translation Notes
 
 [^1]: This is the pose Kanata does <a href="https://ensemble-stars.fandom.com/wiki/(ES_Idol)_Kanata_Shinkai" target="_blank">here</a>.
-[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="https://static.wikia.nocookie.net/ensemble-stars/images/c/cf/Kanata_Shinkai_Birthday_Cake.png" target="_blank">Kanata's birthday cake</a>.
+[^2]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata's birthday cake</a>.

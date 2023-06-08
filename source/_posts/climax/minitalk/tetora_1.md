@@ -200,7 +200,9 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/climax/minitalk_tetora1_3.jpg %}
+
 {% bubble Tetora curious %}
 …Hm? Why're you staring at me? Is there somethin' on my face?
 

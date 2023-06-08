@@ -186,7 +186,7 @@ so as sad as it may be, i will have to [euthanize] half of them.
 {% endbubble %}
 
 {% bubble Kaoru surprised2 %}
-Wh—Did you just say *euthanize!?* No, don’t! They’re living creatures; you can’t just throw them away like that…!
+Wh— Did you just say *euthanize!?* No, don’t! They’re living creatures; you can’t just throw them away like that…!
 
 You say some shockingly cold-hearted things sometimes, Kanata-kun…
 {% endbubble %}
