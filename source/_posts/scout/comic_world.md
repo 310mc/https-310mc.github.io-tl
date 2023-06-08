@@ -786,7 +786,7 @@ C-Calm down, Kiryu. Your face is looking scary. We’re already trying to look f
 
 We need to find them one way or another, and express our discontent.
 
-This may just be a coincidence, but… The characters who are based on Eichi, Aoba, and those two who transferred to other schools — Tomoe and Ran… They have a lot of scenes where they fight the characters who look like the Five Oddballs.
+This may just be a coincidence, but… The characters who are based on Eichi, Aoba, and those two who transferred to other schools — Tomoe and Ran… They have a lot of scenes where they fight the characters who look like the Five Eccentrics.
 
 This particular scene is just a nonsensical battle involving superpowers, but… There’s one part in it that unfolds the same way as one of our plans did back then.
 

@@ -506,6 +506,9 @@
 [character="Shinobu"][blushshy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blushshy.png");
 }
+[character="Shinobu"][blushshy2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blushshy2.png");
+}
 [character="Shinobu"][cry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_cry.png");
 }
