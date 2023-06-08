@@ -86,6 +86,23 @@ permalink: birthday_story/
 </div>
 </div>
 
+## Tetora Nagumo
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/tetora2019.jpg"
+            alt="2016-2019 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/tetora/2019" class="storyName" target="_blank">
+        <span>2016-2019 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 ## Midori Takamine
 
 <div class="stories">
@@ -231,4 +248,8 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>-->
+</div>
+
+<div toc>
+{% btn /translations#Other-Stories,, star, Index %}
 </div>

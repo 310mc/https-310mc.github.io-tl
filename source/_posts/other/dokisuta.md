@@ -316,7 +316,7 @@ They trained the past, weak "me"[^1], that would only look away from reality, an
 
 **Summary:**
 * Known to excel at espionage, his admiration since a young age; <u>The way of the Ninja</u>
-* Extremely attentive, and capable of calming the atmosphere; he is the <u>Cheerful balancer</u>
+* Extremely attentive and capable of calming the atmosphere; he is the <u>Cheerful balancer</u>
 * Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u>
 
 <div toc>
