@@ -7,6 +7,7 @@ categories:
 tags:
 - Birthday Story
 - Happy Elements Staff
+- Yuumasu
 - Story Index
 description: "Ensemble Stars (Enstars) Birthday story translations by 310mc."
 permalink: birthday_story/

@@ -290,7 +290,7 @@ Until that love is fully shared with everyone — I mustn't allow myself to be c
 
 <small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1639" target="_blank">here</a>.</small>
 
-<h4>※ Extremely attentive, and capable of calming the atmosphere; he is the <u>Cheerful balancer</u></h4>
+<h4>※ Extremely attentive and capable of calming the atmosphere; he is the <u>Cheerful balancer</u></h4>
 
 {% img /img/es/es2mainstory/shinobubcg.jpg %}
 
