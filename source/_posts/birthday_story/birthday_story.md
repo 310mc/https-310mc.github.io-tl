@@ -250,6 +250,8 @@ permalink: birthday_story/
 </div>-->
 </div>
 
+<hr>
+
 <div toc>
 {% btn /translations#Other-Stories,, star, Index %}
 </div>

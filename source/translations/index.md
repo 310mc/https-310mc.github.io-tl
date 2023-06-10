@@ -413,6 +413,18 @@ If you need any clarification, please DM me on <a href="https://twitter.com/310m
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/mangaclub/maobcgframe_300px.jpg"
+                alt="Manga Club"
+            />
+        </div>
+        <a href="/manga_club" class="storyName" target="_blank">
+            <span>Manga Club</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 ## Idol Stories

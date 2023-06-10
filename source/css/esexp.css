@@ -503,6 +503,9 @@
 [character="Shinobu"][blushjoy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blushjoy.png");
 }
+[character="Shinobu"][blushscratch] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blushscratch.png");
+}
 [character="Shinobu"][blushshy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_blushshy.png");
 }
@@ -622,6 +625,9 @@
 }
 [character="Tetora"][blushscratch] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_blushscratch.png");
+}
+[character="Tetora"][blushshocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_blushshocked.png");
 }
 [character="Tetora"][blushsquint] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_blushsquint.png");
