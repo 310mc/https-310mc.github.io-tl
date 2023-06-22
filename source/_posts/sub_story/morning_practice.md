@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Morning Practice"
-date: 2023-6-3 9:10:00
+date: 2015-11-26 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

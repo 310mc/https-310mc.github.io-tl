@@ -1720,6 +1720,13 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_junchiaki.png")
 }
 
+[character=JunTori]{
+  --color: #f5b2b2;
+  --hue: 0;
+  --name: "Tori & Jun";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_juntori.png")
+}
+
 [character=JunTatsumi]{
   --color: #7ebea5;
   --hue: 156.6;

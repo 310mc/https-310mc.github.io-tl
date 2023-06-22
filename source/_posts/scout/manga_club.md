@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Manga Club (In Progress!)"
-date: 2023-6-10 9:00:00
+title: "[ES!!] Manga Club"
+date: 2023-6-12 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -1273,9 +1273,561 @@ Ahh, I see you all have a fire lit in your hearts now. What a relief. I ask agai
 —You’ll all participate in the Ultimate Manga Quiz Showdown, won’t you?
 {% endbubble %}
 
-{% note narration %}
-Translation in progress!
-{% endnote %}
+## Chapter 5
+
+<div class="msr-location">
+    <p><span><b>Location:</b> ES Hallway</span></p>
+</div>
+
+{% img /img/es/scoutstory/mangaclub/5_1.jpg %}
+
+{% bubble Keito %}
+I feel as though Eichi had us in the palm of his hand, but…
+
+Oh well. Now that we’re participating in the competition, we need to do our absolute best. First, we need a plan.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+That means training then, right~? Like, the test play reminded me of this, but… It’s the standard way to face hardships in a shounen manga, isn’t it?
+{% endbubble %}
+
+{% bubble Midori %}
+*Sigh…* That sorta overbearing stuff is a <em>pain</em>, though… But it’s better than going on stage without preparation and embarrassing ourselves, I guess.
+{% endbubble %}
+
+{% bubble Tori %}
+Training sounds good, but where could we do that? We need a place that has manga, right? Do you wanna do it in the dorm’s library, then? Only problem is that there’s not a lot of manga there.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Mmm… The library only has new manga series, so it won’t help us much, will it? A quiz is gonna have trivia questions from all generations.
+{% endbubble %}
+
+{% bubble Mao %}
+Then let’s do it at my house~
+{% endbubble %}
+
+{% bubble Midori %}
+Huh? Isara-senpai’s home?
+{% endbubble %}
+
+{% bubble Mao %}
+Yep. I’ve got a bunch with me, even the older ones. And my li’l sis has the shojo manga with her.
+{% endbubble %}
+
+{% bubble Tori %}
+Ohh? Sounds good to me. We could just do it at Isara-senpai’s house then.
+{% endbubble %}
+
+{% bubble Keito %}
+Is that really alright, though? Won’t we be a bother to your family?
+{% endbubble %}
+
+{% bubble Mao %}
+Ritsu would always come over and chill at my house more than anyone, so you don’t have to worry about that!
+
+But my room isn’t that big, so please bear with the tight space.
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Mao’s Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/mangaclub/5_2.jpg %}
+
+<div class="msr-narration">
+    <p>Next day…</p>
+</div>
+
+{% bubble Mao %}
+I know it’s cramped with this many people here, but still, make yourself at home.
+{% endbubble %}
+
+{% bubble Tori %}
+Sure~ Ooh, so this is your room, huh? It’s even smaller than my house’s bathtub.
+{% endbubble %}
+
+{% bubble Mao %}
+B-Bathtub!? How big is that bathtub…? Your house is seriously way too big, dude! This is what a normal house is usually like, okay?
+{% endbubble %}
+
+{% bubble Midori %}
+Ohh, you really do have a lot of manga on your bookshelf.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+As expected of Isara-san~ There’s a lot here.
+{% endbubble %}
+
+{% bubble Keito %}
+Yeah, and there are various genres to choose from, as well.
+
+However, it’s still too little for the quiz. How can we make up for that…?
+{% endbubble %}
+
+{% bubble Mao %}
+Oh, I actually have way more than this. I couldn’t fit them in my bookshelf, so I stored the rest in the closet.
+
+I’ll bring them over. Wait one second.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Jun v3 %}
+Woah… Yeah, with this many, even quiz newbies like us could stand a chance.
+{% endbubble %}
+
+{% bubble Mao %}
+Right? Let’s work through all the manga I have first, then we’ll think of other manga we could study up on if we still have time before the quiz.
+{% endbubble %}
+
+{% bubble Keito %}
+That sounds good. We can do this the same way you would with efficient studying — Let’s thoroughly read the manga, and answer questions at the end.
+
+That’s how we can learn best. I’ll prepare the questions for the quiz.
+{% endbubble %}
+
+{% bubble Mao %}
+Aaalright! Let’s do this! Let’s win the quiz championship, and get that autograph! Hip-hip-hurray~! ☆
+{% endbubble %}
+
+{% bubble JunTori %}
+Hurray~! ☆
+{% endbubble %}
+
+{% bubble Midori %}
+H-Hurray~… Uuu, please be gentle on me… I hate studying enough as it is…
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Jun v3 %}
+—Aight! I got through ‘em~
+{% endbubble %}
+
+{% bubble Tori %}
+C’mon, you gotta ask the questions *now!* I feel like I’m gonna forget all the information any second now~!
+{% endbubble %}
+
+{% bubble Mao %}
+Alright then, please lay it on us, Hasumi-senpai!
+{% endbubble %}
+
+{% bubble Keito %}
+Right, first question—
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Keito %}
+This is the last question.
+
+What is the title of the 21st volume for Pirates of Treasure?
+{% endbubble %}
+
+{% bubble Midori %}
+Ehh!? I don’t remember *that…!*
+{% endbubble %}
+
+{% bubble Tori %}
+Titlee~..!? I remember that volume, but there’s no way I’d remember a specific *title!*
+{% endbubble %}
+
+{% bubble Jun v3 %}
+I do remember seeing it, though… Umm, what was it… “Desire,” or something…?
+{% endbubble %}
+
+{% bubble Keito %}
+Unfortunately, that’s incorrect.
+{% endbubble %}
+
+{% bubble Mao %}
+I think the “Desire” title was for the 22nd volume. Hmm, what was it~… I feel like I saw it too…
+
+It had a pretty cover and everything… And considering the plot of that volume, I’m guessing it’d be… “Shangri-la”?
+{% endbubble %}
+
+{% bubble Keito %}
+You were close, but still incorrect. The correct answer is “Utopia”.
+{% endbubble %}
+
+{% bubble Mao %}
+Wha? Really?
+{% endbubble %}
+
+{% bubble Tori %}
+Gimme the 21st volume for a second… Umm, we should see the title in the table of contents, right? —Ahh, here it is.
+{% endbubble %}
+
+{% bubble Mao %}
+Lemme see — Ohh, it really does say “Utopia”.
+{% endbubble %}
+
+{% bubble Tori %}
+Gosh, this is *impossible~!* How are we supposed to remember that kinda stuff!?
+{% endbubble %}
+
+{% bubble Midori %}
+*Sigh…* This is way too tough…
+{% endbubble %}
+
+{% bubble Keito %}
+Hmm, we got through the whole quiz, but… The answer rate was about 30%. And this was just practice, too. We’re likely to only get around 17% in the actual quiz.
+
+I noticed this while we were doing the quiz, but it feels as though our accuracy lowered as we were reaching the end.
+
+Which means the information hasn’t stuck in your head. You all kept making careless mistakes, too.
+{% endbubble %}
+
+{% bubble Tori %}
+That’s not our fault! I may love manga, but there’s no way I could learn all this info in such a short amount of time…!
+{% endbubble %}
+
+{% bubble Jun v3 %}
+I think we needa think up another way to do this. Trying to master all these different genres at once doesn’t seem to be working well in our favor.
+{% endbubble %}
+
+## Chapter 6
+
+{% bubble Midori %}
+But… What are we supposed to do then…
+{% endbubble %}
+
+{% bubble Mao %}
+Mmm…
+
+<th>(Ah! Wait, that’s right… The competition’s rules had something to it—)</th>
+
+Hasumi-senpai, do you remember the quiz’s rules?
+{% endbubble %}
+
+{% bubble Keito %}
+Rules? If I recall correctly, two teams of five will compete against each other. If one member is correct, you gain one point; if all members are correct, you gain five points.
+{% endbubble %}
+
+{% bubble Mao %}
+Okay, good, I wasn’t misremembering. Right, then let’s just throw away those five points.
+{% endbubble %}
+
+{% bubble Tori %}
+*What!?* That’s so not like you. Are you saying to give up on winning?
+{% endbubble %}
+
+{% bubble Mao %}
+Nah, just hear me out for a sec.
+
+The only reason we’re trying to remember trivia about every kind of genre is ‘cause we were trying to aim for a five-member correct answer. And that’s making us not remember <em>anything</em>, right?
+
+We won’t have any chance to win then.
+
+So let’s split the workload instead. How about we all get really good at our best genre or manga, and try to get a lot of correct answers individually?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+So in other words… We should aim for solo points over five points at once?
+{% endbubble %}
+
+{% bubble Keito %}
+Oh, that would be a good plan… We could definitely work with split roles based on our speciality. It’s a much better plan than forcing ourselves to remember everything.
+{% endbubble %}
+
+{% bubble Midori %}
+It’d be way easier on me to remember stuff about what I like… so this would help me out, I think.
+{% endbubble %}
+
+{% bubble Mao %}
+Right? So it’s settled then!
+
+Let’s fill our brains up with info ‘til the day of the event! We can do this~!
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Waiting Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/mangaclub/6_1.jpg %}
+
+<div class="msr-narration">
+    <p>Day of the Manga Expo…</p>
+</div>
+
+{% bubble Keito %}
+Excuse me— Mm? All of you are here — Ah, except for Isara, it seems.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Ah, hello. Isara-san went to have a meeting about the event along with the staff.
+
+It’s a simplistic meeting, though, so he’ll be back soon enough.
+{% endbubble %}
+
+{% bubble Keito %}
+I see. We can consider ourselves all here, then. How admirable of you all — You’re early to our appointed meeting.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Well, I wasn’t sure what sorta event we’re gonna be in, so I came earlier just in case.
+{% endbubble %}
+
+{% bubble Tori %}
+I came earlier to sneak around the place and check it out~
+
+Except it’s waaay too crowded to do that in a rush… There’s lines everywhere, so I wouldn’t make it in time for the quiz if I queued up.
+{% endbubble %}
+
+{% bubble Midori %}
+Me too… I was hoping I could check out all the booths I researched. I even planned out which ones I’d go to first… I didn’t expect this to be such a large-scale event…
+{% endbubble %}
+
+{% bubble Mao %}
+Man~ It’s so crowded… You can hear the noise from backstage… Are we seriously gonna have a quiz in front of all these people?
+{% endbubble %}
+
+{% bubble Keito %}
+Hm? Hello, Isara. Good work.
+{% endbubble %}
+
+{% bubble Mao %}
+Oh! You’re here too, Hasumi-senpai. Good morning.
+
+Heeey, I got the script right here, so let’s go over it before the real thing starts.
+{% endbubble %}
+
+{% bubble Keito %}
+I asked a staff member on my way here, and the seats are apparently all sold out. There are a lot of people here just for this quiz.
+{% endbubble %}
+
+{% bubble Midori %}
+Wh—? Crap, that’s so nerve-wracking… I really thought I’d be able to check the place out, go to the quiz, and that’s that…
+{% endbubble %}
+
+{% bubble Keito %}
+There’s no need to be so nervous. You aren’t competing alone, are you? We’re all comrade-in-arms here.
+
+Also, as the one who guided all of you throughout your training, I can confidently say that you’ve all worked really hard to be capable of putting up a good fight.
+
+Now you only need to remember your training and go all out.
+{% endbubble %}
+
+{% bubble Tori %}
+We’ve come all the way here, I don’t wanna lose now! I wanna go home knowing we won big!
+{% endbubble %}
+
+{% bubble Mao %}
+Yeah! Let’s give it all we’ve got so we can head home with the big prize~!
+{% endbubble %}
+
+{% bubble JunTori %}
+Yeah~!
+{% endbubble %}
+
+{% bubble Midori %}
+Uu… I’m not good with this stuff, but I worked so hard training for this, so… I’ll do the best I can…
+{% endbubble %}
+
+{% bubble Mao %}
+Right then, it’s about time we go!
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Manga Expo Stage</span></p>
+</div>
+
+{% img /img/es/scoutstory/mangaclub/6_2.jpg %}
+
+{% bubble Mao %}
+<th>(Woah…. Hasumi-senpai wasn’t kidding, the audience is <em>huge</em>…)</th>
+
+<th>(Are the others doing okay?)</th>
+
+<th>(—Mm~ Takamine and Tori are as nervous as ever. They’re frozen in their seats.)</th>
+
+<th>(To be fair, I’m pretty nervous too…! What now… Maybe I should talk to them first?)</th>
+
+<th>(Mm? Hasumi-senpai is telling us something…?)</th>
+{% endbubble %}
+
+{% bubble Keito %}
+*<th>(whispering)</th>* We may have a large audience here, but it’s nothing compared to our audiences for our live shows. There’s no need to be so frightened.
+{% endbubble %}
+
+{% bubble Mao %}
+<th>(Ohh~! Hasumi-senpai’s amazing. He’s right, we’ve performed on stages with way bigger audiences. Yeah, that does give me some confidence that I can do this…!)</th>
+
+<th>(Takamine and Tori seem calmer now, too — We should be able to compete against the other team just fine like this.)</th>
+
+<th>(Alright, let’s get a point right from the first question!)</th>
+{% endbubble %}
+
+## Chapter 7
+
+{% bubble Jun v3 %}
+Umm, that’s… erm…
+
+Ah! Pink pickled garlic and fried chicken!
+
+—Hell yeah\~! I did it\~! I remembered it just on time!
+{% endbubble %}
+
+{% bubble Mao %}
+Nice one, Sazanami!
+
+We totally got this! We’re managing the one-point per person plan just fine! We’re able to keep up with such strong competition…!
+{% endbubble %}
+
+{% bubble Keito %}
+There’s a three-point difference between us and the other team… It’s good that we’re catching up, but we’re going to fall back at this rate.
+
+We’re on the last stage of the quiz, too. The final question could be right before us, so we may not be able to close the gap in time.
+{% endbubble %}
+
+{% bubble Mao %}
+Uu… We made it so far, but it’s still tough to try and win through the one-point per question method…
+{% endbubble %}
+
+{% bubble Tori %}
+Wah!? Oh gosh, the last question really <em>did</em> end up happening~! What’re we gonna dooo!?
+{% endbubble %}
+
+{% bubble Midori %}
+Uuu, we’re done for… How’re we supposed to close the gap with a three-point difference… There’s nothing we can do anymore, right…? We did the best we could, right…?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+—Mm? Huh? The question is—
+{% endbubble %}
+
+{% bubble Mao %}
+They asked for the title of the 21st volume of Pirates of Treasure, right?
+{% endbubble %}
+
+{% bubble Jun v3 %}
+—! That’s…! Ah, crap, I need to write it *now!*
+
+<th>(Gah, my hand is shaking. It’s so hard to write…! I’m so nervous— No, more like excited…!)</th>
+{% endbubble %}
+
+{% bubble Tori %}
+<th>(I know what you mean! Isn’t that from our first quiz!? Who would’ve thought we’d get the same question!)</th>
+{% endbubble %}
+
+{% bubble Midori %}
+<th>(Umm… Calm down, me, you know the answer. T-This is it, right…? Mhm, it should be fine…)</th>
+{% endbubble %}
+
+{% bubble Keito %}
+<th>(Heh… to think Buddha would smile upon us like this.)</th>
+
+<th>(It is said that Buddha comes to help you <em>because</em> you worked so hard. I’m sure these kids’ hard work is what made this opportunity strike.)</th>
+{% endbubble %}
+
+{% img /img/es/scoutstory/mangaclub/maoorigcg.jpg %}
+
+{% bubble Mao %}
+Alright! I wrote it! We all wrote our answers, so I’m pressing the button…!
+
+<th>(Ahaha, everyone’s looking so excited~ I get it, man! It’s a question we <em>all</em> know the answer to, after all!)</th>
+
+<th>(Right, who got the right answer—!?)</th>
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Library</span></p>
+</div>
+
+{% img /img/es/scoutstory/mangaclub/7_1.jpg %}
+
+<div class="msr-narration">
+    <p>Next day…</p>
+</div>
+
+{% bubble Tori %}
+No, no, Takamine! It’s way too far to the right!
+{% endbubble %}
+
+{% bubble Midori %}
+Huh? Then… like this…?
+{% endbubble %}
+
+{% bubble Tori %}
+No~! Now it’s way too far to the *left!*
+{% endbubble %}
+
+{% bubble Midori %}
+Whaa…? This is starting to be a pain…
+{% endbubble %}
+
+{% bubble Tori %}
+Gosh, you don’t get it! It’s gotta be centered or it won’t look as good! C’mon, go back to the right a little.
+{% endbubble %}
+
+{% bubble Midori %}
+Alright… Mm~… Like this?
+{% endbubble %}
+
+{% bubble Tori %}
+Mhm! Perfect! ♪ It’s right in the middle. Great job!
+{% endbubble %}
+
+{% bubble Midori %}
+*Sigh…* It’s finally over. It’s so depressing whenever I’m put in this position just ‘cause of my height…
+{% endbubble %}
+
+{% bubble Jun v3 %}
+We prepared the other side, too. How’s it going over on yours?
+{% endbubble %}
+
+{% bubble Mao %}
+Ohh~! It looks perfect! Wow, that’s totally Sensei’s autograph! And we won it with our very own hands!
+
+It really <em>does</em> have a different air to it when it’s in a pretty frame~ Hasumi-senpai, are you sure it’s okay for us to use one that’s so expensive-looking?
+{% endbubble %}
+
+{% bubble Keito %}
+Yeah, it was bound to just lay stored in my family’s storage. It’ll find better use residing somewhere where people can see it.
+{% endbubble %}
+
+{% bubble Jun v3 %}
+I still didn’t feel like we’d won when the quiz was over, but…
+
+Now that we’re decorating the library with it, it’s really starting to sink in\~ We really did win, huh\~?
+{% endbubble %}
+
+{% bubble Mao %}
+Yeah, I feel ya! It all starts to hit you once time passes!
+{% endbubble %}
+
+{% bubble Jun v3 %}
+Plus, we were all correct together, whereas the other team went for a solo point — so we ended up winning with a one-point difference! It felt exhilarating~
+{% endbubble %}
+
+{% bubble Tori %}
+I was shaking when the last question was something we already covered. I wanted to yell, “Hey, it’s that question we practiced!”
+{% endbubble %}
+
+{% bubble Midori %}
+Miracles really do happen, huh… But I seriously don’t think I can handle another nerve-wracking event like that ever again.
+{% endbubble %}
+
+{% bubble Keito %}
+Oh? But you managed to answer just fine. I believe you’re quite suited for quizzes.
+{% endbubble %}
+
+{% bubble Midori %}
+Huh!? No, no, it’s fine! I already forgot everything, since we were just cramming so much in a short amount of time. Also I’d just feel depressed if I had to experience that nervousness over and over again…
+{% endbubble %}
+
+{% bubble Mao %}
+Umm, <em><th>(coughs)</th></em>… Well, I’m sure we all have a million things to say, but this isn’t the right place for it, so…
+
+How about we move to the common room and talk all about it while eating snacks? Like a party to celebrate our victory…♪
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>

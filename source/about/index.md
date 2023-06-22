@@ -33,7 +33,7 @@ If you ever spot a typo, mistranslation, grammar or punctuation error in my tran
 
 Or if you spot an error (broken TL note, glitch, etc.) on the site;
 
-Please feel free to let me know by DMing me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>! I'd be happy to know of any problems in my translations or website. Thank you!
+Please feel free to let me know by messaging me on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or sending an email ( contact 310mctranslations@gmail.com )! I'd be happy to know of any problems in my translations or website. Thank you!
 
 ## Credits
 

@@ -101,6 +101,54 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/tetora2020.jpg"
+            alt="2020 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/tetora/2020" class="storyName" target="_blank">
+        <span>2020 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/tetora2021.jpg"
+            alt="2021 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/tetora/2021" class="storyName" target="_blank">
+        <span>2021 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/tetora2022.jpg"
+            alt="2022 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/tetora/2022" class="storyName" target="_blank">
+        <span>2022 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/birthdaystory/banner/tetora2023.jpg"
+            alt="2023 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/tetora/2023" class="storyName" target="_blank">
+        <span>2023 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Midori Takamine

@@ -533,13 +533,3 @@ permalink: meteor_impact/
         </div>
     </div>
 </div>
-
-<hr>
-
-{% note narration %}
-**Translator's Comment:** If you spot any mistakes, whether coding or grammatical errors, please DM me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!
-{% endnote %}
-
-{% note narration %}
-This story took a lot of emotional energy to read, translate, edit, set-up, upload, and just digest. The reason for the content warnings is that I was personally emotionally disoriented from the story contents, so I added them in hopes to alleviate the shock of this story for those who need it. Otherwise, please sit back and enjoy!
-{% endnote %}
