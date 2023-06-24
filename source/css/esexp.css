@@ -1423,6 +1423,9 @@
 [character="Nazuna"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_frown2.png");
 }
+[character="Nazuna"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_grin.png");
+}
 [character="Nazuna"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_northinking.png");
 }
@@ -1443,6 +1446,12 @@
 }
 [character="Nazuna"][sleep] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_sleep.png");
+}
+[character="Nazuna"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_smile.png");
+}
+[character="Nazuna"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_smile2.png");
 }
 [character="Nazuna"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_surprised.png");
@@ -1466,6 +1475,9 @@
 }
 [character="Mitsuru"][blushjoy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_blushjoy.png");
+}
+[character="Mitsuru"][fist] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_fist.png");
 }
 [character="Mitsuru"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_frown.png");
@@ -1547,6 +1559,9 @@
 [character="Tomoya"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_smile.png");
 }
+[character="Tomoya"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_smile2.png");
+}
 [character="Tomoya"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_surprised.png");
 }
@@ -1613,6 +1628,9 @@
 }
 [character="Hajime"][sad4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_sad4.png");
+}
+[character="Hajime"][scold] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_scold.png");
 }
 [character="Hajime"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_serious.png");
@@ -1739,6 +1757,125 @@
   --hue: 220.5;
   --name: "Yuzuru & Nagisa";
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_yuzurunagisa.png")
+}
+/**
+***/
+
+[character=Rchiaki]{
+  --color: #e60033;
+  --hue: 346.7;
+  --name: "Chiaki (Tomoya)";
+  --icon: url("https://cdn.jsdelivr.net/gh/enstars/img/icon/tomoya.png")
+}
+
+[character=Rmidori]{
+  --color: #00533f;
+  --hue: 165.5;
+  --name: "Midori (Hajime)";
+  --icon: url("https://cdn.jsdelivr.net/gh/enstars/img/icon/hajime.png")
+}
+
+[character=Rtetora]{
+  --color: #302833;
+  --hue: 283.6;
+  --name: "Tetora (Mitsuru)";
+  --light-mode: hsl(283.6, 9%, 92%) !important;
+  --dark-mode: hsl(283.6, 5%, 25%) !important;
+  --fill-mode: hsl(283.6, 5%, 45%) !important;
+  --icon: url("https://cdn.jsdelivr.net/gh/enstars/img/icon/mitsuru.png")
+}
+
+[character="Rshinobu"]{
+  --color: #ffdc00;
+  --hue: 51.8;
+  --name: "Shinobu (Nazuna)";
+  --icon: url("https://cdn.jsdelivr.net/gh/enstars/img/icon/nazuna.png")
+}
+
+[character=Rkanata]{
+  --color: #008db7;
+  --hue: 193.8;
+  --name: "Kanata (Flapjack Octopus)";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/flapjackoctopus.png")
+}
+
+
+/** Tomoya!Chiaki Expressions
+***/
+[character="Rchiaki"][fist] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_fist.png");
+}
+[character="Rchiaki"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_grin.png");
+}
+[character="Rchiaki"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_nod.png");
+}
+[character="Rchiaki"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_serious.png");
+}
+[character="Rchiaki"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_shocked.png");
+}
+/**
+**/
+
+/** Hajime!Midori Expressions
+***/
+[character="Rmidori"][blushshy] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_blushshy.png");
+}
+[character="Rmidori"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_frown.png");
+}
+[character="Rmidori"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_glare.png");
+}
+[character="Rmidori"][grinconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_grinconfident.png");
+}
+[character="Rmidori"][grinsoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_grinsoft.png");
+}
+[character="Rmidori"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_northinking.png");
+}
+[character="Rmidori"][sad2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_sad2.png");
+}
+[character="Rmidori"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_worried.png");
+}
+/**
+***/
+
+/** Mitsuru!Tetora Expressions
+***/
+[character="Rtetora"][fist] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_fist.png");
+}
+[character="Rtetora"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_smile2.png");
+}
+[character="Rtetora"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_norsmile.png");
+}
+[character="Rtetora"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_yare.png");
+}
+/**
+***/
+
+/** Nazuna!Shinobu Expressions
+***/
+[character="Rshinobu"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_grin.png");
+}
+[character="Rshinobu"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_smile.png");
+}
+[character="Rshinobu"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/nazuna_smileconfident.png");
 }
 /**
 ***/

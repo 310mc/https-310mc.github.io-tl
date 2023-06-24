@@ -260,6 +260,18 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
+            alt="Parallel World"
+        />
+    </div>
+    <a href="/parallel_world" class="storyName" target="_blank">
+        <span>Parallel World (Ryuseitai Scene ONLY!)</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Gacha Stories

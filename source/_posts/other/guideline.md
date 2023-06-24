@@ -64,6 +64,18 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
+            alt="Parallel World"
+        />
+    </div>
+    <a href="/parallel_world" class="storyName" target="_blank">
+        <span>Parallel World (Ryuseitai Scene ONLY!)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
             alt="Wedding March!"
         />
@@ -82,30 +94,6 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
     </div>
     <a href="/manga_club" class="storyName" target="_blank">
         <span>Manga Club</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/idolstory/ninjarain/c1.jpg"
-            alt="A Raininja Day to Convey"
-        />
-    </div>
-    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
-        <span>A Raininja Day to Convey</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/idolstory/morningpractice/c2.jpg"
-            alt="Morning Practice"
-        />
-    </div>
-    <a href="/morning_practice" class="storyName" target="_blank">
-        <span>Morning Practice</span>
         <span class="read"></span>
     </a>
 </div>
