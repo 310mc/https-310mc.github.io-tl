@@ -272,6 +272,18 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+            alt="Tropical"
+        />
+    </div>
+    <a href="/tropical" class="storyName" target="_blank">
+        <span>Tropical (In Progress!)</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Gacha Stories

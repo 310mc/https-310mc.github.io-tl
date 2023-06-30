@@ -153,7 +153,7 @@ Don’t call me “Nito” with Tomo-chin’s face~ You can’t break character;
 {% endbubble %}
 
 {% bubble Rtetora smile2 %}
-“That’s ‘cuz when it comes down to it, we Ryuseitai forcibly combined two different styles with each other.”
+“That’s ‘cuz in the first place, we Ryuseitai forcibly combined two separate styles with each other.”
 
 “To be honest, idols and heroes <em>seem</em> compatible, but they’re sorta a bad combo.”
 {% endbubble %}
@@ -231,7 +231,7 @@ That’s the main point of the “Parallel World” project.
 {% endbubble %}
 
 {% bubble Rchiaki %}
-“‘Parallel World’… In hero terms, that’d be like a multiverse, huh?”
+“‘Parallel World’… In hero-language, that’d be like a multiverse, huh?”
 
 “Which means there are parallel versions of Ra\*bits that went down a different path from the Ra\*bits we know.”
 
@@ -349,7 +349,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 {% endbubble %}
 
 {% bubble Rmidori frown %}
-“<em>Ughh,</em> so loud… I hate how this guy’s tokusatsu nerdy side lit back up — probably ‘cause things finally got sorted out for our unit…”
+“<em>Ughh,</em> so loud… I hate that this guy’s tokusatsu nerdy side lit back up — probably ‘cause things finally got sorted out for our unit…”
 {% endbubble %}
 
 {% bubble Tomoya awkward %}
@@ -377,7 +377,7 @@ Yeah, this is probably going to be a battle against ourselves.
 {% endnote %}
 
 {% note narration %}
-For more information about Ryuseitai's status after the story <a href="/supervillain" target="_blank">Supervillain</a>, please refer to the timeline and relationship chart from their <a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a> stream.
+For more information on Ryuseitai's status after the story <a href="/supervillain" target="_blank">Supervillain</a>, please refer to the timeline and relationship chart from their <a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a> stream.
 {% endnote %}
 
 <div toc>
@@ -388,7 +388,7 @@ For more information about Ryuseitai's status after the story <a href="/supervil
 
 [^1]: In Japanese, Tetora points out that Midori is using the first-person pronoun <em>ore</em> (for “I”) when he's acting as Hajime, when the first-person pronoun Hajime uses is <em>boku</em>.
 [^2]: This story is set after <a href="/supervillain" target="_blank">Supervillain</a>. By the end of that story, Ryuseitai decide to take turns being the leader (leader is also referred to as “Taichou”, “Captain”, or “Commander”).
-[^3]: They're in the same amusement park from the SS main story <a href="https://ensemble-stars.fandom.com/wiki/Sanctuary" target="_blank">Sanctuary</a>.
+[^3]: They're in the same amusement park from the SS main story <a href="https://tomoya.moe/tl/sanctuary" target="_blank">Sanctuary</a>.
 [^4]: The word used here for “monster villain” is <em>kaijin</em> 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids. You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.
 [^5]: More information on <a href="https://metalheroes.fandom.com/wiki/Choujinki_Metalder" target="_blank">Superhuman-Machine Metalder</a>.
 [^6]: Pronounced as <em>ee-de-a</em>.

@@ -87,7 +87,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 
 <th>(Thanks to that, now it looks like Morisawa-senpai and I are on an aquarium date for literally no reason besides us being alone together…)</th>
 
-<th>(It feels like fate itself is trying to force me in his direction and I hate it… It feels so lonely with all of us separated from each other…)</th>
+<th>(It feels like fate itself is trying to force me in his direction and I hate it… It also just feels so lonely with all of us separated from each other…)</th>
 
 <th>(Ahh, I’m really starting to feel pissed off now…)</th>
 {% endbubble %}
