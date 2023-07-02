@@ -503,3 +503,34 @@ permalink: minitalk/
 </div>
 
 <div style="margin-top:10px">{% btn /wedding_march,, star, Index %}</div>
+
+### Tropical
+
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/midoricard.jpg"
+                alt="Nervous At Work"
+            />
+        </div>
+        <a href="/tropical/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Nervous At Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/midoribcard.jpg"
+                alt="Proclaiming What I Love"
+            />
+        </div>
+        <a href="/tropical/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Proclaiming What I Love</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<div style="margin-top:10px">{% btn /tropical,, star, Index %}</div>

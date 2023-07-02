@@ -969,6 +969,18 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/songs/relaxparadise.jpg"
+            alt="RELAX PARADISE"
+        />
+    </div>
+    <a href="/RELAX_PARADISE" class="storyName" target="_blank">
+        <span>RELAX PARADISE</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other

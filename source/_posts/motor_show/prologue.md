@@ -150,7 +150,7 @@ I’ve been doing as best as I can while keeping a close eye on everything, but�
 
 Like, Ryuseitai-N’s been staggering in *every* way, and I just can’t seem to make things work in the unit… It’s been daunting on me.
 
-Then I just get more stressed about it, and start trying to make an effort out of everything, only for it to all come to waste… that’s probably why I’m this unbearably tired.
+Then I just get more stressed about it, and start trying to make an effort out of everything, only for it to all come to waste… that’s prolly why I’m this unbearably tired.
 
 Ahhh, I’m just so, so hopeless… It’s so pathetic of me. There's nothing more wasted than wasted effort.
 {% endbubble %}

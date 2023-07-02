@@ -339,7 +339,7 @@ While this isn’t a job from ES this time, it seems like we’re free to do wha
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, but even if they say we’re free to do as we like, we probably can’t do it the Ryuseitai way — by putting on a hero show, right?
+Ahaha, but even if they say we’re free to do as we like, we prolly can’t do it the Ryuseitai way — by putting on a hero show, right?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -349,7 +349,7 @@ Ah, but there *are* instances of that type of hero content, like Kamen Rider Dri
 {% bubble Tetora %}
 Ahh, now that you mention it, vehicles do come up a lot in hero sentai stuff too, don’t they?
 
-And I think Kamen Rider has practically done every genre by now, so I think we should be okay as long as we rearrange it a little…
+And I think Kamen Rider has practically done every genre by now, so I think we should be okay as long as we rearrange it a li’l…
 
 ‘Cuz that way, we could make it so that our enemy is a monster in the form of an automobile, or something.
 {% endbubble %}

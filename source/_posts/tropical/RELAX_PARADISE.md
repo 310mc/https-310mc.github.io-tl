@@ -72,9 +72,9 @@ permalink: RELAX_PARADISE/
 {% note Text Only Version %}
 Healing jungle is calling you!
 (Come on!)
-Healing jungle is calling you
+Healing jungle is calling you!
 (Come on!)
-Healing jungle is calling you
+Healing jungle is calling you!
 (Come on!)
 
 “Come on over to paradise~”
@@ -97,7 +97,7 @@ If you want to break away from stress-town
 Then join our adventure, it’s all about
 hunting for
 healing!
-We want you to also
+You, too, should
 “Relax~!”
 
 Ahh! (Ah!) Paradise (Yeah!)

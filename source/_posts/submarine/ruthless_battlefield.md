@@ -686,7 +686,7 @@ Anyway, what we're tryna say is that we don't wanna participate in fighting and 
 
 Okinawa is completely at war. We wanna put an end to it as soon as possible so that we can do our idol activities properly.
 
-…I’m aware we probably don’t have the power to stop the fighting, but still—
+…I’m aware we prolly don’t have the power to stop the fighting, but still—
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1032,7 +1032,7 @@ Hmph… We don’t have a say in anything, and you won’t listen to us even if 
 {% bubble Tetora serious %}
 Yeah, we’ll do as told, so you can order us around.
 
-We won’t complain no matter what you throw at us. That’s probably the best way to go about it, anyway.
+We won’t complain no matter what you throw at us. That’s prolly the best way to go ‘bout it, anyway.
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -1292,7 +1292,7 @@ Actually, how come you still don’t know much about idols, Midori-kun?
 {% endbubble %}
 
 {% bubble Tetora %}
-Sure, but we often meet other idols on the job site, so there’s no harm in knowing more about ‘em.
+Sure, but we often meet other idols on the job site, so there’s no harm in knowing more ‘bout ‘em.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1394,7 +1394,7 @@ All the while making excuses that there’s nothing we can do about it?
 {% endbubble %}
 
 {% bubble Tetora sad %}
-………
+…………
 {% endbubble %}
 
 {% bubble Chiaki frown %}

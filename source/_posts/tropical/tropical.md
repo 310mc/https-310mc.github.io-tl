@@ -4,11 +4,12 @@ date: 2023-7-8 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
+- [Enstars, Ryuseitai POWER UP]
 tags:
 - Kino Seitaro
+- Event Story
 - Story Index
 description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
-hidden: true
 permalink: tropical/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -18,11 +19,11 @@ permalink: tropical/
             <div class="title-area">
                 <div class="title-area__title">Tropical</div>
                 <div class="title-area__subtitle">トロピカル</div>
-                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
+                <div class="title-area__start"><a href="/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming "R2" live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…<!--『流星隊フラック』の活動が一区切りし、次のライブ『R2』に向けて新しい隊長を決めることになった『流星隊』。今回の隊長は翠が担当することに決定するが、思い入れのあるゆるキャラの活動休止が発表され…-->
+                After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…<!--『流星隊フラック』の活動が一区切りし、次のライブ『R2』に向けて新しい隊長を決めることになった『流星隊』。今回の隊長は翠が担当することに決定するが、思い入れのあるゆるキャラの活動休止が発表され…-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -30,7 +31,7 @@ permalink: tropical/
                             Season
                         </div>
                         <div class="value">
-                            Spring
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -114,12 +115,12 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                 <div class="title-area__title">Tropical</div>
                 <div class="title-area__subtitle">トロピカル</div>
                 <div class="title-area__start">
-                    <a href="TBA">Start Reading</a>
+                    <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming "R2" live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…
+                    After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -127,7 +128,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                             Season
                         </div>
                         <div class="value">
-                            Spring
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -217,7 +218,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                                     <img src="/img/es/eventstory/tropical/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Reborn! 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -225,7 +226,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                                     <img src="/img/es/eventstory/tropical/shinobuorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Reborn! 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -233,7 +234,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                                     <img src="/img/es/eventstory/tropical/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Transform! 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -457,7 +458,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
                             <a href="TBA" id="none">Reborn!</a>
@@ -475,8 +476,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/x" id="none">x</a>
-                            <a href="minitalk/x" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">Part One</a>
+                            <a href="minitalk/midori_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

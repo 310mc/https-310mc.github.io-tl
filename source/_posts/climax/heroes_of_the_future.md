@@ -127,7 +127,7 @@ Nothing’ll come outta complainin’ at this point, sooo I’m gonna brace myse
 {% bubble Tetora awkward %}
 I’m sorry, Shinobu-kun. All I’ve done is make you worry.
 
-If I was all alone in this, I probably would’ve broken down.
+If I was all alone in this, I prolly would’ve broken down.
 
 But you kept saying silly things to ease the mood, even if it was forced… You really helped me out.
 
@@ -291,7 +291,7 @@ Ryuseitai has a lotta loyal fans, and we got a pretty good score in the prelimin
 
 We should be able to perform our live in the grand auditorium.
 
-I feel a li’l bad relying on the legacy left by our seniors, but all the same… as long as we don’t make some huge mistake, we’ll probably be able to proceed to the second half.
+I feel a li’l bad relying on the legacy left by our seniors, but all the same… as long as we don’t make some huge mistake, we’ll prolly be able to proceed to the second half.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

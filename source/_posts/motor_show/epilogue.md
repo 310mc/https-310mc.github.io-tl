@@ -600,13 +600,13 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 
 <th>(But we've gotta be keepin' an eye on our audience too!)</th>
 
-<th>(Most of the visitors here are people who love cars. Actual fans of us idols are probably far and few.)</th>
+<th>(Most of the visitors here are people who love cars. Actual fans of us idols are prolly far and few.)</th>
 
 <th>(That’s why we’ve gotta make our charms shine to this new audience during this live show.)</th>
 
 <th>(Or actually, we’ve gotta perform in a way that’ll entertain *everyone* in here.)</th>
 
-<th>(That’s what I’ll be doing… ‘Cuz there’s no point in pushing my limits and trying to show off… I’m nothing but a klutz, so I’ll walk down my path in my own way.)</th>
+<th>(That’s what I’ll be doing… ‘Cuz there’s no point in pushing my limits and tryna show off… I’m nothing but a klutz, so I’ll walk down my path in my own way.)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/motorshow/ep4_1.jpg %}
@@ -620,7 +620,7 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 
 <th>(All I’ve ever done is pathetically lose my path over and over, but nobody ever blamed me — they only kept supporting me, protecting me, and cheering for me to keep going. That’s why I was able to make this much progress in my life without ever giving up.)</th>
 
-<th>(It’s all thanks to everyone that I’m here right now. At the very least, I’m gonna try to move forward little by little so that I avoid causing any delays!)</th>
+<th>(It’s all thanks to everyone that I’m here right now. At the very least, I’m gonna try to move forward li'l by li'l so that I avoid causing any delays!)</th>
 
 <th>(The black flame is the mark of effort! With every single flame absorbed within me, I’ll use them as fuel and make those flames shine!)</th>
 
@@ -668,7 +668,7 @@ Just like how I dealt with the newbies — I’m gonna rip off any signs of stub
 
 So that I *truly* become cool — and become an actual man among men, one that everyone can look up to and see as their role model.
 
-I was able to see what’s in front of me a little better by facing reality like that.
+I was able to see what’s in front of me a li’l better by facing reality like that.
 
 And what I saw was — all the newbies showing up to the venue without a single one of ‘em looking down on me or laughing at me.
 
