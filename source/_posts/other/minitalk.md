@@ -510,7 +510,7 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/tropical/midoricard.jpg"
+                src="/img/es/eventstory/tropical/midoriframe_300px.jpg"
                 alt="Nervous At Work"
             />
         </div>
@@ -522,7 +522,7 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/tropical/midoribcard.jpg"
+                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
                 alt="Proclaiming What I Love"
             />
         </div>

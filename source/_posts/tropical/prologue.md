@@ -22,9 +22,9 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
                 <div class="value">
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -72,13 +72,13 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 </div>
 
 {% bubble Tetora idle %}
-I’ve got somethin’ important to talk about with all of you.
+I’ve got somethin’ important to talk ‘bout with all’a you.
 
-We’ve gotten through all the jobs that were sent to RB, so I’d like to appoint a new commander for the upcoming R2.[^1]
+We’ve gotten through all the jobs that were sent to RB[^1], so I’d like to appoint a new commander for the upcoming R2.[^2]
 {% endbubble %}
 
 {% bubble Tetora smile %}
-I’d like the next commander to be… Midori-kun!
+I’d like the next commander[^3] to be… Midori-kun!
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -94,7 +94,7 @@ congratulations, midori~♪
 {% bubble Chiaki smile3 %}
 Mhm, and great work coming from you, Nagumo.
 
-Now that you’ve appointed a new commander, we’ll be changing from “RB” to “RG,” Ryuseitai Green.
+Now that you’ve appointed a new commander, we’ll be changing from “RB” to “RG,” Ryuseitai Green.[^4]
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -104,7 +104,7 @@ Heheh, I cannot wait to be next so that I may lead “RY”!
 {% bubble Midori frown %}
 Erm, I’m aware that we‘ve decided to take turns being the leader of Ryuseitai…
 
-I mean, the leadership stuff was the whole reason things got tense in our unit, so I’m not against it…
+I mean, the leadership stuff was the whole reason things got tense in our unit[^5], so I’m not against it…
 {% endbubble %}
 
 {% bubble Midori frustrated %}
@@ -130,7 +130,7 @@ So I dunno, making me the one to go next is just a lot on me…
 {% bubble Chiaki nod %}
 Hahaha, Takamine, you’ve got so many thoughts to share with us, y’know? I feel like that’s exactly why Nagumo chose you as the next in line.
 
-You’ve never truly had an opportunity to stand out in the center, so if anything, I think that having you as our next commander would certainly demonstrate to the world that Ryuseitai has powered up. I feel like it’s a great opportunity!
+You’ve never truly had an opportunity to stand out in the center, so if anything, I think that having you as our next commander would certainly demonstrate to the world that Ryuseitai has powered up.[^6] I feel like it’s a great opportunity!
 
 Nagumo’s vision of a hero came to life through RB. If we were to follow in his footsteps, our unique traits will be able to shine even brighter within Ryuseitai.
 
@@ -142,13 +142,13 @@ His speech sounded good ‘til he added the last bit…
 {% endbubble %}
 
 {% bubble Tetora serious %}
-Anyways, so… Midori-kun, you’d rather not take the role for now, right?
+Anyways, so… Midori-kun, you’d rather not take the position for now, right?
 {% endbubble %}
 
 {% bubble Midori sad %}
-Yeah… I know I was bound to take on the role at one point, but…
+Yeah… I know I was bound to take on the position at one point, but…
 
-There’s just no way I can be the second in line, y’know… That’s just way too much responsibility to bear after Tetora-kun… I mean, he was even the commander of Ryuseitai-N…
+There’s just no way I can be the second in line, y’know… That’s just way too much responsibility to bear after Tetora-kun… I mean, he was even the leader of Ryuseitai-N…[^7]
 {% endbubble %}
 
 {% bubble Tetora smile3 %}
@@ -183,7 +183,9 @@ Indeed! Not to mention, our fans also welcomed the new Ryuseitai image color wit
 
 {% bubble Tetora v2 %}
 Well, I think it was well-accepted partly ‘cuz RB is real different from the usual Ryuseitai. I guess it’s the charm of seein’ a different side to a unit.
+{% endbubble %}
 
+{% bubble Tetora northinking %}
 That’s why I wanted to appoint Midori-kun as the next leader, since he’s the complete opposite of me… But if he can’t do it, I guess I’ll go with someone else…?
 {% endbubble %}
 
@@ -222,7 +224,7 @@ Of course, I do think everyone here has the capability to become one themselves.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-In hindsight… When we told the public that Ryuseitai split into “M” and “N”, I should have also declared that every one of us has the ability to become a leader…
+In hindsight… When the public was informed that Ryuseitai split into “M” and “N”[^8], I should have also declared that every one of us has the ability to become a leader…
 
 But I was so caught up by the hero tradition, that I never once considered it at the time. I need to learn to do better…
 {% endbubble %}
@@ -264,7 +266,7 @@ How about we decide based on a lottery, then? It would be fair that way, and I f
 {% bubble Kanata v2 %}
 lottery~ i like that idea.
 
-i am sure that none of us would like to stop this steady flow for ryuseitai right now, so i think that each of us feels a bit [unsure] if we are suitable for the role.
+i am sure that none of us would like to stop this steady flow for ryuseitai right now, so i think that each of us feels a bit [unsure] if we are suitable for the position.
 
 so let’s decide on who is next through [lottery], and [settle] on that~♪
 {% endbubble %}
@@ -272,7 +274,7 @@ so let’s decide on who is next through [lottery], and [settle] on that~♪
 {% bubble Chiaki fist %}
 Alright then, leave it to me! I’ll use this white board we brought, and these color magnets… *<th>(Scribbles on the board)</th>*
 
-And done! I’ve set up a ladder lottery to decide who will be the next leader!
+And done! I’ve set up a ladder lottery[^9] to decide who will be the next leader!
 {% endbubble %}
 
 {% bubble Tetora idle %}
@@ -288,11 +290,11 @@ So, could I ask you to draw the lines for us after everyone’s chosen a spot in
 {% bubble Tetora fist %}
 Aight! I’ll be the one in charge of it then!
 
-So, which are you guys choosin’?
+So, which are you guys choosing?
 {% endbubble %}
 
 {% note narration %}
-Translation in progress!
+Translation is currently in progress!
 {% endnote %}
 
 <div toc>
@@ -302,4 +304,12 @@ Translation in progress!
 
 ## Translation Notes
 
-[^1]: R2 is one of the DreamFes (DLFS) lives, ranked at the second lowest (The ranking order from lowest to highest goes N1, R2, R1, SS).
+[^1]: RB refers to Ryuseitai Black, the Ryuseitai that Tetora led in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^2]: R2 is one of the DreamFes (DLFS) lives, ranked at the second lowest (The ranking order from lowest to highest goes N1, R2, R1, SS).
+[^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It's how sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably here.
+[^4]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decided that each Ryuseitai led by a different unit member will have its own name, hence Midori's becoming “Ryuseitai Green”.
+[^5]: To learn more on what happened, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^6]: As a side note, “Ryuseitai Power Up” is how the new Ryuseitai was introduced by the game, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
+[^7]: Ryuseitai-N (N = Nagumo) refers to the Ryuseitai that worked within Yumenosaki Academy, which was then disbanded by the end of summer. You can read more about them in the story <a href="/motor_show" target="_blank">Motor Show</a>.
+[^8]: This is referring to the initial decision Ryuseitai took after Chiaki and Kanata graduated and the ES agencies were established: To split between Ryuseitai-N (Yumenosaki Academy's Ryuseitai, led by Tetora), and Ryuseitai-M (StarPro's Ryuseitai, led by Chiaki).
+[^9]: A ladder lottery looks like <a href="https://en.wikipedia.org/wiki/Ghost_Leg" target="_blank">this</a>.

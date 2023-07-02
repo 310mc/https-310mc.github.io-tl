@@ -12,14 +12,14 @@ tags:
 description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
 permalink: tropical/
 ---
-<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/eventstory/tropical/midoribcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Tropical</div>
                 <div class="title-area__subtitle">トロピカル</div>
-                <div class="title-area__start"><a href="/prologue">Start Reading</a></div>
+                <div class="title-area__start"><a href="/tropical/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -57,9 +57,9 @@ permalink: tropical/
                         <div class="value">
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -75,7 +75,7 @@ permalink: tropical/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            ryuseipuka
                         </div>
                     </div>
                 </div>
