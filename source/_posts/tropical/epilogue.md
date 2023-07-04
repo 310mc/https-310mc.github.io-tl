@@ -58,6 +58,11 @@ hidden: true
 
 <!-- more -->
 
+{% note narration %}
+Translation is currently in progress!
+{% endnote %}
+
+<!--
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
@@ -81,4 +86,4 @@ hidden: true
 <div toc>
 {% btn /tropical/transform,, arrow-left, Previous Chapter: Transform! %}
 {% btn /tropical,, star, Index %}
-</div>
+</div>-->

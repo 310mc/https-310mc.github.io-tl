@@ -293,13 +293,9 @@ Aight! I’ll be the one in charge of it then!
 So, which are you guys choosing?
 {% endbubble %}
 
-{% note narration %}
-Translation is currently in progress!
-{% endnote %}
-
 <div toc>
 {% btn /tropical,, star, Index %}
-<!--{% btn /tropical/reborn,, arrow-right, Next Chapter: Reborn! %}-->
+{% btn /tropical/reborn,, arrow-right, Next Chapter: Reborn! %}
 </div>
 
 ## Translation Notes

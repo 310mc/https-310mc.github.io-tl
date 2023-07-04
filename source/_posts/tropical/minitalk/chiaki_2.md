@@ -164,7 +164,7 @@ Oh! The rest of the members are about to arrive soon.
 
 While I hadn't expected someone to spot me do my final warmups… Now that I've finished warming up, I'm in perfect shape to show off all the softness Takamine drilled into me to the maximum!
 
-It's time to let aside being cool and fiery, and instead perform in a fun, bright, and super soft way~♪
+It's time to let aside being cool and fiery, and instead perform in a fun, cheerful, and super soft way~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

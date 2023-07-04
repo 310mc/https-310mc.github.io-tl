@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Reborn!"
-date: 2023-6-30 9:00:00
+date: 2023-7-4 10:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Kino Seitaro
 description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -90,7 +89,7 @@ But well, you called us over on HoldHands, so I assume it’s somethin’ real b
 {% endbubble %}
 
 {% bubble Chiaki sad2 %}
-You see, Takamine lives right by my dorm room, and… He apparently hasn’t been showing up in his room for the past few days. I only discovered this when Tenma-kun asked me if something had happened.
+You see, Takamine lives right by my dorm room, and… He apparently hasn’t been showing up in his room for the past few days. I only discovered this when Tenma-kun[^1] asked me if something had happened.
 {% endbubble %}
 
 {% bubble Kanata curious %}
@@ -110,7 +109,7 @@ We settled on someone through lottery and everythin’, so I’d rather he does 
 {% endbubble %}
 
 {% bubble Kanata northinking %}
-i do not think we need to [worry] about that so much, though~ we casually decided on it based on [lottery], after all.
+i do not think we need to [worry] about that so much, though~ we decided on it based on a fair [lottery], after all.
 {% endbubble %}
 
 {% bubble Chiaki sad4 %}
@@ -124,10 +123,10 @@ Although… While Takamine is typically one to conserve his energy, I can only h
 {% bubble Tetora smile %}
 Ahaha, I doubt he’d go <em>that</em> far~ He’s prolly just thinkin’ of what we should do next or somethin’.
 
-Lately, Midori-kun’s been a real man ‘bout things — He does the job when it’s time to, so I’m sure he’s properly thinking stuff through!
+Lately, Midori-kun’s been a real man ‘bout things — He does the job when it’s time to, so I’m sure he’s properly thinkin’ stuff through!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata nod %}
 mhm, mhm. that is just another part of [growth]~
 
 even if it turns out midori is not suited to be the [commander], it would still have been a good [experience], and it is still better than [sticking] to the [status quo].
@@ -184,7 +183,7 @@ I can’t believe they’d announce something like that as <em>soon</em> as I be
 {% bubble Midori sad3 %}
 The “Tropical Island Troppeys” I loved for so long are going on an indefinite hiatus…? The same “Tropical Island Troppeys” that would always brighten my day with their softness…?
 
-Bearbonk, Mr. Slothy, Armajiro, Kiwi, Plateypus…[^] It’s over for me…
+Bearbonk, Mr. Slothy, Armajiro, Kiwi, Plateypus…[^2] It’s over for me…
 
 It’s already bad enough that I feel this close to collapsing from the pressure of being the leader, and now you’re telling me they’re gonna <em>disappear</em>…? What am I supposed to do with my life now…
 
@@ -202,7 +201,7 @@ Things have been changing around the shopping district since ES was established,
 
 Not to mention… Although it isn’t happening as much anymore, ‘cause my fans do usually respect my privacy, as an idol…
 
-But it <em>is</em> possible that one of my fans came over, ‘cause they might’ve known me as the “super handsome greengrocer guy”…
+But it <em>is</em> possible that one of my fans came over, ‘cause they might’ve known me as the “super handsome greengrocer guy”…[^3]
 
 Either way, the shock of losing “Tropical Island Troppeys” won’t disappear by sinking myself into depression… so maybe I’ll help out a little as a breather…
 {% endbubble %}
@@ -497,7 +496,7 @@ I’d never imagined that I’d hear about rules coming from you, Kanata, but…
 It’s almost a miracle that he remained as an idol, after all.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 But I’m sure Takamine will bring a new color into Ryuseitai eventually. I believe in him!
 {% endbubble %}
 
@@ -576,7 +575,7 @@ Heh, it’s just like the art of transformation~♪
 {% bubble Tetora v2 %}
 Art of transformation, huh… That’s a good point; Ryuseitai have been heroes of justice for a long time, but… Dependin’ on the song, we should be able to show off all sortsa versions of ourselves.
 
-I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^]
+I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^4]
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -676,7 +675,7 @@ If only I was stressed over whether I should take charge of Ryuseitai or not, th
 
 …? What’s wrong, Anzu-san?
 
-“I feel like you really <em>are</em> having trouble deciding if you should become the leader, though”…?
+“I feel like you really *are* also having trouble deciding if you should become the leader, though”…?
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -720,7 +719,7 @@ Sorry, I feel like I’m making you do so much for me…
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-You’re not bothered at all…? Mm, if that’s how you really feel, maybe I <em>should</em> ask for a little bit of your help…?
+You’re not bothered at all…? Mm, if that’s really how you feel, maybe I <em>should</em> ask for a little bit of your help…?
 
 I mean, you’re the producer who took someone as unreliable as me, and turned me into an idol who can stand proud in front of an audience.
 
@@ -844,7 +843,7 @@ I know I’m not really reliable, but I got to feel a bit more confident about i
 {% endbubble %}
 
 {% bubble Midori sad2 %}
-So, in return, I’d like to ask all of you for a favor… I want everyone to represent my ideal hero vision along with me.
+So, in return, I’d like to ask all of you for a favor… I want everyone to represent my ideal hero vision alongside me.
 
 Would you be willing to help me, no matter what that hero vision may be…?
 {% endbubble %}
@@ -857,7 +856,7 @@ Would you be willing to help me, no matter what that hero vision may be…?
 I, too, may ask everyone a similar request once it’s my turn to be commander. We all feel the same, so there is no need to hold back~♪
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 It’s not something as serious as Tetora-kun’s vision was, y’know…? Are you really sure…?
 {% endbubble %}
 
@@ -867,7 +866,7 @@ There’s no need to worry about that. You saw what we were doing earlier, didn�
 Of course, we intend to take this seriously no matter what, but that doesn’t mean Ryuseitai has to stick to <em>only</em> looking cool. Any form is the correct way to go about it, as long as it makes someone happy.
 {% endbubble %}
 
-{% bubble Kanata grin %}
+{% bubble Kanata nod %}
 i also envision something much more [cute] for [fish-themed] idols. so you are free to [suggest] anything, midori.
 
 so, what sort of ryuseitai would midori like us to be?
@@ -908,7 +907,7 @@ Do you guys know about “Tropical Island Troppeys”?
 
 You’ll find them in the documents. They’re a group of animal mascot characters who enjoy their lives on a tropical island.
 
-To be more specific, they’re actually mascot characters that existed <em>before</em> it became a trend to make the sort of mascots you see today.[^]
+To be more specific, they’re actually mascot characters that existed <em>before</em> it became a trend to make the sort of mascots you see today.[^5]
 
 But either way, they’re definitely one of the original sets of mascot characters.
 {% endbubble %}
@@ -1020,7 +1019,7 @@ It should help you get an understanding of mascots, and even soothe you with the
 
 I’m sure you’ll all come to understand the beauty of mascots once you get to know them.
 
-The new Ryuseitai that I thought up is… “Yuruseitai”…![^]
+The new Ryuseitai that I thought up is… “Yuruseitai”…![^6]
 {% endbubble %}
 
 <div toc>
@@ -1028,3 +1027,12 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^]
 {% btn /tropical,, star, Index %}
 {% btn /tropical/transform,, arrow-right, Next Chapter: Transform! %}
 </div>
+
+## Translation Notes
+
+[^1]: Mitsuru is roommates with Midori (along with Ibara and Tsumugi).
+[^2]: In Japanese, the names are as follows: Kuma-gon, Namake-san, Arumajirou, Kiwi, Kamohasshi. Because it's unclear which animal some of them are, I decided to give them an English equivalent name.
+[^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori's Idol Story 1</a>, too.
+[^4]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
+[^5]: What Midori loves is called <em>yuruchara</em> in Japanese (<em>yuru</em> meaning “loose,” but since it's a bit odd to say that in English, it has been translated to “soft”). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague.
+[^6]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Loose/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

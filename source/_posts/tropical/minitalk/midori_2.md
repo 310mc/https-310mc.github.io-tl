@@ -205,4 +205,4 @@ I've only watched performances of them, but I hope I can meet them for real one 
 
 ## Translation Notes
 
-[^1]: This is because <em>tayuu</em> has to do with kabuki theater.
+[^1]: This is because <em>tayuu</em> has to do with kabuki theater and noh plays.

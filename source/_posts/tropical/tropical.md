@@ -461,10 +461,10 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                             <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Reborn!</a>
+                            <a href="reborn" id="none">Reborn!</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Transform!</a>
+                            <a href="transform" id="none">Transform!</a>
                         </li>
                         <li>
                             <a href="TBA" id="none">Epilogue</a>
