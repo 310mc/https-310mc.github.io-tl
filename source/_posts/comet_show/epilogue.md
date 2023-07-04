@@ -85,21 +85,21 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-<th>(it looks like tetora and shinobu are in perfect shape. we haven’t had many opportunities to sing together as the five of us ever since this year started—)</th>
+<th>(it looks like tetora and shinobu are in [perfect shape]. we have not had many [opportunities] to sing together as the [five of us] ever since this year started—)</th>
 
-<th>(and i’m sure they’re emotionally struggling to stay concentrated right now, what with everything that’s been happening…)</th>
+<th>(and i am sure they are emotionally struggling to stay [concentrated] right now, what with everything that is been [happening]…)</th>
 
-<th>(but they’re performing as best as they can, without ever expressing those gloomy feelings.)</th>
+<th>(but they are performing as best as they can, without ever expressing those gloomy [feelings].)</th>
 
-<th>(you’re both shining so bright.)</th>
+<th>(you are both shining so bright.)</th>
 
 <th>(you two grew to be so strong, and became such wonderful heroes.)</th>
 
-<th>(would my life have been different if the whole of mankind was like you, too…?)</th>
+<th>(would my [life] have been different if the whole of [mankind] was like you, too…?)</th>
 
-<th>(would it have turned out differently if everyone in this world was capable of fighting against evil without ever relying on any god…?)</th>
+<th>(would it have turned out differently if everyone in this [world] was capable of fighting against [evil] without ever relying on any [god]…?)</th>
 
-<th>(………)</th>
+<th>(……………)</th>
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -115,7 +115,7 @@ You don’t have to watch over us in the back in case we need backup or anything
 {% bubble Kanata v2 %}
 of course. i can see that very clearly.
 
-to parents, their children will always be their little babies, but standing side-by-side is enough for me to tell that you’ve all grown so much.
+to parents, their children will always be their little babies, but standing side-by-side is enough for me to tell that you have all grown so much.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -127,23 +127,23 @@ Heh! I may not grow taller, but I assure you my mental fortitude has strengthene
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufu, did you learn that from mikejima or something?
+fufu, did you learn that from [mikejima] or something?
 {% endbubble %}
 
 {% img /img/es/eventstory/cometshow/ep1_1.jpg %}
 
-{% bubble Kanata v2 %}
-<th>(ah— i accidentally called him by his past name…)</th>
+{% bubble Kanata smile %}
+<th>(ah— i accidentally called him by the name i would use in [past]…)</th>
 
-<th>(say, my first hero and friend—were we able to become the heroes you used to love so much, mikejima?)</th>
+<th>(say, my first hero and friend — were we able to become the heroes you used to [love] so much, mikejima?)</th>
 
-<th>(as you can see, we’re clearly a mess right now, but…)</th>
+<th>(as you can see, we are clearly a [mess] right now, but…)</th>
 
-<th>(our children have grown so strong that i’m sure you wouldn’t ever be able to crush them, even if you tried.)</th>
+<th>(our children have grown so strong that i am sure you would not ever be able to crush them, even if you tried.)</th>
 
-<th>(that’s why i choose to be proud of them, if nothing else. these children have become such honest, good boys, despite being raised by a monster.)</th>
+<th>(that is why i choose to be proud of them, if nothing else. these children have become such honest, [good] boys, despite being raised by a [monster].)</th>
 
-<th>(that might be the biggest miracle i've ever performed in my life.)</th>
+<th>(that might be the biggest [miracle] i have ever performed in my life.)</th>
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -155,7 +155,7 @@ Haha, I’m more than glad you’re having a blast, though~!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-mhm. fufu, i’m sorry — did i weird you two out?
+mhm. fufu, i am sorry — did i weird you two out?
 {% endbubble %}
 
 {% bubble TetoraS %}
@@ -163,7 +163,7 @@ Not at all.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-okay. then let’s set myself aside for now… the ones i’m actually worried about are chiaki and midori. they really are running late, aren’t they? could something have happened?
+okay. then let’s set myself aside for now… the ones i am actually worried about are chiaki and midori. they really are running [late], aren’t they? could something have happened?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -225,9 +225,9 @@ Anyways, this is bad! It looks like something went wrong with the lighting…!
 {% bubble Kanata v2 %}
 no—
 
-this doesn’t look similar to the incident shu and his unit[^1] experienced two years ago.
+this does not look similar to the [incident] shu and his unit[^1] experienced two years ago.
 
-it’s our planetarium at work. we had one installed inside here.
+it is our [planetarium] at [work]. we had one installed inside here.
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -235,7 +235,7 @@ P-Planetarium…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes. our jellyfishies and such would look even prettier illuminating the night, so we installed one to captivate our guests.
+yes. our jellyfishies and such would look even [prettier] illuminating the [night], so we installed one to [captivate] our guests.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
@@ -243,9 +243,9 @@ T-This aquarium really does have everything, doesn’t it…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-eheh\~♪ we were financially struggling at one point[^2], so we tried a whooole lot of strategies\~ may we hope for that kind of effort to never be in vain.
+eheh\~♪ we were [financially] struggling at one point[^2], so we tried a whooole lot of strategies\~ may we hope for that kind of [effort] to never be in [vain].
 
-anyway, why *did* the planetarium turn on suddenly…?
+anyway, why *did* the [planetarium] turn on suddenly…?
 {% endbubble %}
 
 {% bubble Kaijuu %}
@@ -261,7 +261,7 @@ Woah—!? Shinobu-kun, I get being spooked, but please don’t hide inside my cl
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufu, it is disgraceful for a hero to run away with their tail between their legs~
+fufu, it is [disgraceful] for a hero to run away with their tail between their legs~
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -269,7 +269,7 @@ Y-You’re pretty calm, huh, Shinkai-senpai…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i got used to huge animals because of the aquarium, after all. why, creatures here can weigh a ton, you know?
+i got used to huge [animals] because of the [aquarium], after all. why, [creatures] here can weigh a [ton], you know?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -277,7 +277,7 @@ Creatures…? Ahh, you mean from the ocean? Like steller sea lions and walruses?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes. but it looks like what’s before us right now is actually the fire-breathing type of creature.
+yes. but it looks like what is [before] us right now is actually the [fire-breathing] type of [creature].
 {% endbubble %}
 
 ## Chapter 2
@@ -353,7 +353,7 @@ Mhm, I’m grateful for it. It feels as though my peculiar abilities are being p
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-wow, that plot has no originality to it, don’t you think?
+wow, that [plot] has no [originality] to it, don’t you think?
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -435,31 +435,31 @@ As a ninja, my duty is to support from the sidelines while everyone takes action
 {% bubble Kanata csbcg %}
 ——well then, i will join along~♪
 
-you three have become so very reliable, but that doesn’t mean that i’m no longer needed.
+you three have become so very [reliable], but that does not mean that i am no longer [needed].
 {% endbubble %}
 
 {% img /img/es/eventstory/cometshow/kanatabcg.jpg %}
 
 {% bubble Kanata csbcg %}
-in fact, now that we’ve all grown stronger, we may be able to accomplish much more valuable things than we could ever before.
+in fact, now that we have all grown stronger, we may be able to accomplish much more [valuable] things than we could ever before.
 
-no, it could go even beyond that—i feel like we could make anything happen as long as all five of us are together.
+no, it could go even beyond that — i feel like we could make anything happen as long as all five of us are together.
 
 ……i took too long to realize that.
 
 “the blue flame is the mark of mystery. i have come from the blue sea~”
 
-“and now, i’m here with all of you, living on land! ryusei blue—shinkai kanata!”
+“and now, i am here with all of you, living on this [land]! ryusei blue — shinkai kanata!”
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Oooh, that’s longer than the other two’s catchphrases. I don’t even know which one’s your original catchphrase at this point, but… I felt this version deep in my heart.
+Oooh, that’s longer than the other three’s catchphrases. I don’t even know which one’s Shinkai-senpai’s original catchphrase at this point, but… I felt this version deep in my heart.
 
 Man… I can’t even imagine how great it could’ve been if we could all live alongside one another.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
-…………
+{% bubble Kanata serious %}
+……………
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -495,7 +495,7 @@ So I’ll proudly yell my own catchphrase with my head held high!
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-… Yeah, yeah. But please stop trying to lead the team when *you’re* the one who arrived last, Senpai.
+…Yeah, yeah. But please stop trying to lead the team when *you’re* the one who arrived last, Senpai.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -515,7 +515,7 @@ W-Why are you guys being so harsh!? You keep firing off one remark after the oth
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-well, i think it’s understandable that they’d scold you a little. you showed up very, very late, chiaki… and you too, midori. did something happen?
+well, i think it is understandable that they would [scold] you a little. you showed up very, very [late], chiaki… and you too, midori. did something happen?
 
 although i knew you two would come eventually, no matter what.
 {% endbubble %}
@@ -525,7 +525,7 @@ Yeah… I’m really sorry[^4] for always being late.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no, i’d rather you were late than never arriving at all, chiaki.
+no, i would rather you were late than never arriving at all, chiaki.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -726,7 +726,7 @@ That’s the kind of sneaky strategy I’m going for here… He he he~♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hmm, i see. but you don’t have to copy after chiaki when it comes to that.
+hmm, i see. but you do not have to copy after chiaki when it comes to that.
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -858,7 +858,7 @@ You’re all way, *way* more important to me than that.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+……………
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -964,7 +964,7 @@ What’s important here isn’t the color of our clothes—It’s if you guys fe
 {% endbubble %}
 
 {% bubble Tetora sad %}
-………
+……………
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -1142,7 +1142,7 @@ If you still have the will to be the next leader by then, I would like to do an 
 {% endbubble %}
 
 {% bubble Tetora serious %}
-………
+……………
 {% endbubble %}
 
 {% bubble Chiaki sad %}
@@ -1164,11 +1164,11 @@ I swear that I will. I may be a lying paper-mache with nothing but a strong fron
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-and i can vouch for that.
+and i can [vouch] for that.
 
-chiaki may be clumsy, and takes more steps back than forward while he’s struggling through his path—
+chiaki may be clumsy, and takes more [steps] back than [forward] while he is [struggling] through his path—
 
-and he may make many mistakes, but he *always* manages to properly do things by the end.
+and he may make many [mistakes], but he *always* manages to properly do things by the end.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -1202,7 +1202,7 @@ You’re supposed to *smile* here, not apologize.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-that’s right. we’re idols, after all.
+that’s right. we are [idols], after all.
 {% endbubble %}
 
 {% bubble Midori v2 %}

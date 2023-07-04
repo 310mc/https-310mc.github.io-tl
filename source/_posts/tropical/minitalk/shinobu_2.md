@@ -1,12 +1,11 @@
 ---
 title: "Tropical – Shinobu Mini Talk: Mascot Character Training"
-date: 2023/5/16 7:05:00
+date: 2023/7/3 9:05:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu's second Mini Talk from Tropical. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,47 +53,47 @@ hidden: true
 {% img /img/es/eventstory/tropical/minitalk_shinobu2_1.jpg %}
 
 {% bubble Shinobu v2 %}
-Oh! Anzu! You're at StarPro today, huh?
+Ooh—…! Ha—…! Shutatatata…☆
 
-…Hm? You have a meeting soon, so you have to go to CosPro next?
+Mm~ I cannot do it as well as Kero-sama does after all…
 
-You're as busy as ever! If you still have time, how about resting here for a bit?
+Ah—! Anzu-dono!? Were you watching me all this time!?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Okay, I'd like to take up that offer.
+            I was here since the "Ooh—!" part.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu v2 %}
-            Mhm, I even have cookies I got from Kanata a moment ago. There are a lot of them left, so eat as much as you like!
+            {% bubble Shinobu awkward %}
+            That means you were here since the start…
 
-            He's planning to sell this in the Aoumi Aquarium soon. I tried one myself, and it was really tasty~♪
+            It is embarrassing when someone watches me train, so I would prefer it if you greet me as soon as you see me.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll go buy a drink.
+            Who is "Kero-sama"?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Oh yeah, if you're alright with canned juice, there's one here! I went to buy one for myself from the vending machine, and got lucky with the roulette, so now I have two~♪
+            Mm, so you heard me say that… I suppose I have no choice but to inform you…
 
-            I was hoping I could give the second one to someone, so you can have it!
+            Ah— It is completely alright that you heard me! I simply just wanted to act dramatic for the sake of it!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Then…
+            Were you training?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Hmm? Why are you opening your laptop…?
+            Indeed I am, although not my usual ninja training this time.
 
-            Work doesn't count as resting! You have to rest when it's time to…!
+            I am training to move as swiftly and cleanly as Kero-sama…! In other words, I am training to become Kero-sama!
 			{% endbubble %}
         </div>
     </div>
@@ -105,47 +104,47 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 {% img /img/es/eventstory/tropical/minitalk_shinobu2_2.jpg %}
 
 {% bubble Shinobu v2 %}
-Oh yeah, you're joining us for the filming at Kyoto, right?
+Kero-sama[^1] is a mascot character. Midori-kun told me all about it.
 
-I don't think we'll be there for very long, but since it's a wonderful opportunity to see the city, let's make sure to enjoy Kyoto! ☆
+It looks adorable, but it has high physical capability, and can even walk on two legs!
 
-Is there anything you'd like to see or try in the city?
+It can play basketball, baseball, ski, snowboard… Even scuba-diving is a piece of cake! It's insanely strong~!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Somewhere I haven't gone to before…
+            Doesn't sound soft at all…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu v2 %}
-            Oh, last year's school trip was Kyoto?
+            {% bubble Shinobu awkward %}
+            Good point, it isn't that soft despite being a mascot character…
 
-            I hope there are other places you can visit this time around!
+            I believe that is why Midori-kun's opinion of it is so harsh, as he says that "it feels as though they didn't try enough to make it mascot-like".
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to try matcha.
+            It's really good at sports, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Oh yeah, the city is famous for that, isn't it? I'm sure there are plenty of Japanese sweets shops, so we should be able to try out matcha during our break.
+            I have only watched videos of Kero-sama playing sports so far, so I would love to watch it do it live!
 
-            We need to look up all the shops to check out while we still can!
+            If Kero-sama ever appears in an event, I will inform you about it, Anzu-dono!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to see a maiko.
+            It's kind of similar to you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            You're interested in maiko, huh? I'm sure there's a place to experience what it's like as a maiko. How about you try going to one?
+            Huh? Kero-sama and I are similar? The way it's cute but also nimble on its feet…?
 
-            …Hm? You don't want to become one, you just want to learn about them? That sounds more like an interview than touring!
+            Ehehe, that makes me super happy to hear. Thank you~♪
 			{% endbubble %}
         </div>
     </div>
@@ -156,50 +155,54 @@ Is there anything you'd like to see or try in the city?
 {% img /img/es/eventstory/tropical/minitalk_shinobu2_3.jpg %}
 
 {% bubble Shinobu v2 %}
-Whenever I go to a different region, I can't help but look for their designated hero.
+Kero-sama is active on social media as well, and usually posts videos of it doing sports.
 
-Regional heroes are allies of justice who protect the people of their region!
+…I just sent you Kero-sama's social media account on HoldHands, so please do watch it when you have the time!
 
-I'd love to learn about all sorts of things from the hero of Kyoto! ♪
+There are so many mascot characters out there… The world of mascots is truly deep!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll try looking for him, too.
+          I can see why people get into it.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Ohh, thank you, Anzu! If you ever spot him, contact me right away! I'll come rushing no matter what!
+            Mhm, I've come to understand how Midori-kun feels a little.
 
-            Heheh! I'm even more excited for the Kyoto trip now! ☆
+            However, it cannot surpass how magnificent ninjas are…♪ Nothing can beat ninjas for me!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to meet him, too.
+            There must be a lot of competition between all the mascots.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu v2 %}
-            Oh, you're interested in the regional hero, too!? That makes me really happy!
+            {% bubble Shinobu awkward %}
+            Uu… It's just like you to make a comment like that, Anzu-dono…
 
-            Alright, if we ever have time, let's go searching for him. I'm sure we'll find him if we both work together!
+            However, you're right… With so many mascots around, there surely is just as many that do not see the light of day… They likely share quite a lot in common with idols.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What would you like to know?
+            Maybe I'll look up stuff about them, too.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            I'd like to know what he typically does around the place, why he became a hero of this region, what his ambitions are as a hero, and so much more… I wouldn't even know which question to begin with!
+            Perhaps you could ask Midori-kun to give you a mascot character study session.
 
-            Alright, I don't want to take up all his time, so I'll compile all the questions I'd like to ask him!
+            Ah, but whenever the topic is about mascots, Midori-kun tends to get ahead of himself, so I will be sure to have someone with you that can stop him before he goes too far.
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
 <div toc>{% btn /tropical/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: Peculiar Food Specialty %}{% btn /tropical,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: The sound a frog makes in Japanese is <em>kero</em>.

@@ -489,11 +489,11 @@ It sure is… He was called over by a couple staff members for some business in 
 {% bubble Kanata hidden %}
 “mm\~m\~ ahem, ahem\~♪”
 
-“hello, everyone~ thank you for visiting the aoumi aquarium today!”
+“hello, everyone~ [thank you] for visiting the [aoumi aquarium] today!”
 
-“as you may know, i am the mascot known as kanatee\~♪”[^3]
+“as you may know, i am the [mascot] known as kanatee\~♪”[^3]
 
-“you are not feeling blue today, are you? despite my color, i am not feeling blue at all\~ i wonder if it’s because of all the fishies? kana-kana\~♪”
+“you are not feeling blue today, are you? despite my color, i am not feeling blue at all\~ i wonder if it is because of all the [fishies]? kana-kana\~♪”
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -529,6 +529,7 @@ Well, that’s ‘cause there’s no way anyone would be scared of the ocean, un
 {% bubble Kanata hidden %}
 “owaaaaaaaaaaaah!?”
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/p2ch7_1.jpg %}
 
 {% bubble Chiaki surprised0 %}
@@ -536,9 +537,9 @@ Wha—!? W-What’s happening? That was a scream just now… right?
 {% endbubble %}
 
 {% bubble Kanata hidden %}
-“oh nooo! aoumi aquarium has been accused of kidnapping and abducting marine animals to make money—”
+“oh nooo! [aoumi aquarium] has been accused of [kidnapping] and [abducting] marine animals to make money—”
 
-“by none other than the ruler of the ocean — the great kaijuu! and he’s come to strike us down!”
+“by none other than the ruler of the ocean — the [great kaijuu]! and he has come to strike us down!”
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -560,9 +561,9 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
 {% endbubble %}
 
 {% bubble Kanata hidden %}
-“someone please save us! this is a predicament we’ve never seen before!”
+“someone please save us! this is a [predicament] we have never seen before!”
 
-“if the great kaijuu continues to cause any more destruction, aoumi aquarium will be doomed to perish!”
+“if the [great kaijuu] continues to cause any more destruction, [aoumi aquarium] will be doomed to perish!”
 
 “so! um, are there any heroes in the aquarium today!? someone who will protect us all!?”
 {% endbubble %}
@@ -616,7 +617,7 @@ Were we able to become the Ryuseitai our seniors hoped for in the nick of time�
 {% img /img/es/eventstory/cometshow/p2ch8_1.jpg %}
 
 {% bubble Kanata v2 %}
-heeey, you twooo~♪ i’ve made the public announcement as you told me to. was it good enough?
+heeey, you twooo~♪ i have made the [public announcement] as you told me to. was it good enough?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -624,9 +625,9 @@ Yup! We could hear it from over here too. I’m real sorry we made you do errand
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-no need to apologize. this is my aquarium after all, and i can’t let someone else make the announcement without my permission~ it only makes sense that i’m the one who does it, right?
+no need to apologize. this is my [aquarium] after all, and i cannot let someone else make the announcement without my [permission]~ it only [makes sense] that i am the one who does it, right?
 
-i changed it up a bit to sound a little more like something i’d say…. was it alright, shinobu?
+i [changed] it up a bit to sound a little more like something i would say… was it alright, shinobu?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -636,7 +637,7 @@ Your voice is so calming to hear, I couldn’t help but feel wrapped in comfort 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-you are going too far with those praises~ i am often scolded for being hard to understand, you know?
+you are going too far with those praises~ i am often [scolded] for being hard to understand, you know?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -648,11 +649,11 @@ Mhm, mhm! Surprisingly, you tend to speak in a slightly incomprehensible manner,
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-*ehe!* that is because i was once a god~♪
+*ehe!* that is because i was once a [god]~♪
 
-the more complicated words you speak, and the more convoluted they are, the more you sound like you’re saying something incredible~
+the more complicated words you speak, and the more convoluted they are, the more you sound like you are saying something incredible~
 
-people will try their best to over-interpret what i am saying, you see?
+people will try their best to [over-interpret] what i am saying, you see?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -662,9 +663,9 @@ Mm… I dunno what you’re on about, but that’s another reason why I think yo
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufu. though that comes with him being very argumentative~ much, much more than i could be.
+fufu. though that comes with him being very [argumentative]~ much, much more than i could be.
 
-that’s exactly why it’s so hard to win an argument against him. once he’s set his mind on something, he’ll refuse to budge.
+that is exactly why it is so hard to [win] an [argument] against him. once he has set his mind on something, he will refuse to [budge].
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -688,7 +689,7 @@ But I know this is such an idealistic view of things that not even the most chil
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-—is that what justice is to you?
+—is that what [justice] is to you, tetora?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -704,6 +705,7 @@ So I’ll just steadily work hard to the best of my ability ‘til the day I bec
 
 I’ll keep doing that, even after you two leave Ryuseitai.
 {% endbubble %}
+
 {% img /img/es/eventstory/cometshow/p2ch8_2.jpg %}
 
 {% bubble Shinobu v2 %}
@@ -711,7 +713,7 @@ Ah, about that… I believe that our seniors are possibly—
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-—oh! anzu-san sent me a message. chiaki and midori should be here soon.
+—oh! anzu-san sent me a [message]. chiaki and midori should be [here] soon.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -723,9 +725,9 @@ That’s why we’ve gotta make sure to entertain everyone and leave ‘em with 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes. for this is our final stage as the five of us together—
+yes. for this is our [final stage] as the five of us together—
 
-so let’s carry out our performance with a smile on our faces. this may be where it all comes to an end, but we’ll make sure that everyone thinks of it as a happy ending.
+so let’s carry out our performance with a [smile] on our faces. this may be where it all comes to an [end], but we’ll make sure that everyone thinks of it as a [happy ending].
 {% endbubble %}
 
 ## Chapter 9

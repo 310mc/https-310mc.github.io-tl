@@ -531,6 +531,54 @@ permalink: minitalk/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/shinobuframe_300px.jpg"
+                alt="Peculiar Food Specialty"
+            />
+        </div>
+        <a href="/tropical/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: Peculiar Food Specialty</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
+                alt="Mascot Character Training"
+            />
+        </div>
+        <a href="/tropical/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Mascot Character Training</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
+                alt="Favorable Work"
+            />
+        </div>
+        <a href="/tropical/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Favorable Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg"
+                alt="Final Warmup"
+            />
+        </div>
+        <a href="/tropical/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Final Warmup</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 <div style="margin-top:10px">{% btn /tropical,, star, Index %}</div>

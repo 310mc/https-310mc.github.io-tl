@@ -485,8 +485,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/shinobu_1" id="none">Part One</a>
+                            <a href="minitalk/shinobu_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -512,8 +512,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Part One</a>
+                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

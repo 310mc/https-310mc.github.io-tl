@@ -224,7 +224,7 @@ Of course, I do think everyone here has the capability to become one themselves.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-In hindsight… When the public was informed that Ryuseitai split into “M” and “N”[^8], I should have also declared that every one of us has the ability to become a leader…
+In hindsight… When the public was informed that Ryuseitai split into M and N[^8], I should have also declared that every one of us has the ability to become a leader…
 
 But I was so caught up by the hero tradition, that I never once considered it at the time. I need to learn to do better…
 {% endbubble %}
@@ -272,9 +272,9 @@ so let’s decide on who is next through [lottery], and [settle] on that~♪
 {% endbubble %}
 
 {% bubble Chiaki fist %}
-Alright then, leave it to me! I’ll use this white board we brought, and these color magnets… *<th>(Scribbles on the board)</th>*
+Alright then, leave it to me! I’ll use this white board we brought, and these color magnets…[^9] *<th>(Scribbles on the board)</th>*
 
-And done! I’ve set up a ladder lottery[^9] to decide who will be the next leader!
+And done! I’ve set up a ladder lottery[^10] to decide who will be the next leader!
 {% endbubble %}
 
 {% bubble Tetora idle %}
@@ -282,7 +282,7 @@ And done! I’ve set up a ladder lottery[^9] to decide who will be the next lead
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah, because you’ve already done a great job commanding us in RB. The rest of us should be the ones trying for the position of the next commander, right?
+Yeah, because you’ve already done a great job leading us in RB. The rest of us should be the ones trying for the position of the next commander, right?
 
 So, could I ask you to draw the lines for us after everyone’s chosen a spot in the ladder, Nagumo? That way, the next commander will inherit your resolve!
 {% endbubble %}
@@ -312,4 +312,5 @@ Translation is currently in progress!
 [^6]: As a side note, “Ryuseitai Power Up” is how the new Ryuseitai was introduced by the game, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
 [^7]: Ryuseitai-N (N = Nagumo) refers to the Ryuseitai that worked within Yumenosaki Academy, which was then disbanded by the end of summer. You can read more about them in the story <a href="/motor_show" target="_blank">Motor Show</a>.
 [^8]: This is referring to the initial decision Ryuseitai took after Chiaki and Kanata graduated and the ES agencies were established: To split between Ryuseitai-N (Yumenosaki Academy's Ryuseitai, led by Tetora), and Ryuseitai-M (StarPro's Ryuseitai, led by Chiaki).
-[^9]: A ladder lottery looks like <a href="https://en.wikipedia.org/wiki/Ghost_Leg" target="_blank">this</a>.
+[^9]: You can see the whiteboard in <a href="/img/es/eventstory/tropical/chiakicard.jpg" target="_blank">Chiaki's card</a>.
+[^10]: A ladder lottery looks like <a href="https://en.wikipedia.org/wiki/Ghost_Leg" target="_blank">this</a>.

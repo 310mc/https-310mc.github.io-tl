@@ -1,12 +1,11 @@
 ---
 title: "Tropical – Shinobu Mini Talk: Peculiar Food Specialty"
-date: 2023/5/16 7:00:00
+date: 2023/7/3 9:00:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu's first Mini Talk from Tropical. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,47 +53,47 @@ hidden: true
 {% img /img/es/eventstory/tropical/minitalk_shinobu1_1.jpg %}
 
 {% bubble Shinobu v2 %}
-Anzu! You're working until late at night again, aren't you? ☆
+Ah! Anzu-dono~! I was not aware you were in the StarPro office!
 
-…Hm? You dropped something!
+…Hmhm, so you just finished a meeting. Please do rest now!
 
-This… is a marriage application form!? You're going to get married, Anzu!?
+I just finished my job, so I came to complete a survey for a variety show I will appear in soon. I made sure to fill the survey with my answers~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh!?
+            Great job.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Oh, it came as an extra with a bridal magazine you bought as reference…?
+            Fuheh, I am sure the person who made this survey would be pleased to see that I wrote a lot~♪
 
-            It was such an unexpected thing to find on the floor, so I accidentally jumped to the wrong conclusion! I'm sorry!
+            I may even be able to seize another job through this, you never know!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            No…?
+            I'm sure the staff will be happy about that.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
+            Heh, it's always so nice to make the people you work with happy!
 
-            Ohh! This pattern design is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
+            I hope that it'll make them want to work with me again! That would truly make me happy!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's a misunderstanding!
+            Do you like filling surveys?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu v2 %}
-            Fuhahaha! ☆ I'm only joking!
+            {% bubble Shinobu awkward %}
+            Mm~ I don't particularly *love* it or anything…
 
-            There was a similar scene in a drama I played an act in, so it reminded me of it!
+            But the questions were of my interest this time, so I ended up writing a lot!
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +103,48 @@ This… is a marriage application form!? You're going to get married, Anzu!?
 
 {% img /img/es/eventstory/tropical/minitalk_shinobu1_2.jpg %}
 
-{% bubble Shinobu srsthinking %}
-Speaking of marriage… Tenshouin asked me to come see him a moment ago…
+{% bubble Shinobu v2 %}
+The upcoming show I will perform in will be about entertainers demonstrating a peculiar cuisine specialty.
 
-Then he told me that the PV for a bridal company that I shot with Sazanami got cancelled in the end.
+I will have to make the food in the studio itself, so I am a little nervous…
 
-It's a shame, but there's nothing we can do about it… The actual problem here is that we've now decided to plan a PV project from scratch. I'm not sure where to go from here…
+Ah, of course, the cuisine I will be making is hyorogan![^1]
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please let me know if you need me.
+            …Would that be considered a cuisine?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Heheh, your help would always be reassuring.
+            Of course! You have to cut the ingredients, mix them, crush them, and then roll!
 
-            But I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
+            You have to cook them on a fire before mixing them, so they're the perfect cuisine for this~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you have any ideas?
+            It suits the theme perfectly.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            No, actually… I still haven't thought up anything.
+            Heh~♪ Hyorogan isn't anything peculiar to me, but it is a peculiar cuisine to the world…
 
-            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the project again and come up with some ideas before that.
+            Thus, I hope to convey the beauty of ninjas through hyorogan!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Planning a project sounds fun, too.
+            I'm sure everyone'll be surprised.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            That's true, but the theme is bridal, y'know? I don't even know where to begin to think up ideas!
+            Hyorogan isn't very widespread, so I am sure it will have an impact on the viewers.
 
-            Oh, I know! Is it alright if I borrow your magazine later?
+            I hope this will be a wonderful opportunity to make people learn all about the beauty of hyorogan~♪
 			{% endbubble %}
         </div>
     </div>
@@ -156,50 +155,54 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
 {% img /img/es/eventstory/tropical/minitalk_shinobu1_3.jpg %}
 
 {% bubble Shinobu v2 %}
-Oh! I got so into our conversation…
+Everyone will taste-test the food made in the show…
 
-It's quite late in the night by now, so take care on your way home, alright?
+So I would like to make an especially tasty type of hyorogan this time.
 
-I'll head back to the agency office to take my belongings.
+I will borrow the dorm's kitchen for a while and practice a lot until the show!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll come with you.
+          Is there anything I can help you with?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Do you have something to do there, too?
+            Huh!? You would like to help me!? That'd be a gamechanger~!
 
-            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a refreshment, but I couldn't finish it all.
+            However, you cannot enter the dormitory… So I would like to ask you to taste-test it once I've made it!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh yeah, speaking of the agency…
+            I'm excited to watch it once it airs.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            There's a fan letter for me?
+            Now I definitely have to put my whole soul in it, then!
 
-            Alright, I'll go pick that up too! It always gives me energy to read a letter from a fan…♪
+            I will be sure to exceed your expectations, so please do watch the show until the very end!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Speaking of which…
+            Good luck.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            …There's a rumor about a ghost appearing in the elevator?
+            Mhm! I shall be sure to make the most delicious hyorogan ever!
 
-            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
+            I will be sure to save some for you, Anzu-dono, so please do try it out when you can~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
 <div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Mascot Character Training %}</div>
+
+## Translation Notes
+
+[^1]: Hyorogan is known as the ninja diet, you can read more <a href="https://en.wikipedia.org/wiki/Ninja_diet" target="_blank">here</a>.

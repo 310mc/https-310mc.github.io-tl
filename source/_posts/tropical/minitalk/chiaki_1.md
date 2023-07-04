@@ -1,12 +1,11 @@
 ---
-title: "Tropical – Chiaki Mini Talk: TBA"
-date: 2023/5/16 7:00:00
+title: "Tropical – Chiaki Mini Talk: Favorable Work"
+date: 2023/7/4 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
 description: "[ES!!] Chiaki's first Mini Talk from Tropical. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,47 +53,47 @@ hidden: true
 {% img /img/es/eventstory/tropical/minitalk_chiaki1_1.jpg %}
 
 {% bubble Chiaki v2 %}
-Anzu! You're working until late at night again, aren't you? ☆
+Oh! Anzu! Perfect timing. I'd like to give you throat lozenge!
 
-…Hm? You dropped something!
+After I finished recording a radio show, the staff handed some to me.
 
-This… is a marriage application form!? You're going to get married, Anzu!?
+You have to talk to people a lot, right? Then you should take good care of your health, including your throat!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh!?
+            Thank you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki awkward %}
-            Oh, it came as an extra with a bridal magazine you bought as reference…?
+            {% bubble Chiaki v2 %}
+            Mhm, if you'd like more, just ask! I have plenty with me!
 
-            It was such an unexpected thing to find on the floor, so I accidentally jumped to the wrong conclusion! I'm sorry!
+            They gave me more than enough, so I'm trying to share it with everyone I know!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            No…?
+            What flavor is it?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
+            The one I gave you is pineapple flavor! There's other flavors too, like strawberry, orange, grape, and so many more! ☆
 
-            Ohh! This pattern design is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
+            You're free to pick any flavor you like! You can even take as many as you like, y'know~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's a misunderstanding!
+            I already have a lot, actually…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Fuhahaha! ☆ I'm only joking!
+            Oh, really? Alright then, let's make an exchange!
 
-            There was a similar scene in a drama I played an act in, so it reminded me of it!
+            What you have is… Umeboshi flavor, huh? So you like sour candy?
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +103,48 @@ This… is a marriage application form!? You're going to get married, Anzu!?
 
 {% img /img/es/eventstory/tropical/minitalk_chiaki1_2.jpg %}
 
-{% bubble Chiaki srsthinking %}
-Speaking of marriage… Tenshouin asked me to come see him a moment ago…
+{% bubble Chiaki v2 %}
+I was recording for a radio talk about tokusatsu shows. They invite people who worked on shows to chat about it.
 
-Then he told me that the PV for a bridal company that I shot with Sazanami got cancelled in the end.
+Today's guest was the explosion-effects director, they're extremely vital to a tokusatsu show! We talked for so long, that we didn't even realize we were almost running out of time…!
 
-It's a shame, but there's nothing we can do about it… The actual problem here is that we've now decided to plan a PV project from scratch. I'm not sure where to go from here…
+Of course, we managed to make it in time in the end, but it's really hard to hold myself back whenever it's a topic I enjoy! ♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please let me know if you need me.
+            It sounds like an interesting radio.
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Heheh, your help would always be reassuring.
+            Oh, if you're interested, please give it a listen! It's broadcasting at around this hour every week.
 
-            But I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
+            We're even collecting letters from listeners, so you're free to send one of your own! ☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you have any ideas?
+            You managed to make it in time? You really are always good at your job.
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            No, actually… I still haven't thought up anything.
+            That's one of the many duties I have to fulfill, after all! I wanted to hear more from the director, but sticking to the radio's timing and setup is much more important, or all our efforts would go to waste!
 
-            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the project again and come up with some ideas before that.
+            Being a professional is all about taking responsibility when accomplishing your tasks, right?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Planning a project sounds fun, too.
+            I know what you mean.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki awkward %}
-            That's true, but the theme is bridal, y'know? I don't even know where to begin to think up ideas!
+            {% bubble Chiaki v2 %}
+            Heheh, you may be quiet sometimes, but you also have an enthusiastic spirit hidden inside of you, don't you?
 
-            Oh, I know! Is it alright if I borrow your magazine later?
+            I know you're busy, but I'd love it if we could take our time to talk to about idols sometime.
 			{% endbubble %}
         </div>
     </div>
@@ -156,50 +155,50 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
 {% img /img/es/eventstory/tropical/minitalk_chiaki1_3.jpg %}
 
 {% bubble Chiaki v2 %}
-Oh! I got so into our conversation…
+For the tokusatsu radio, they told me, "Go all out with your love for tokusatsu!"
 
-It's quite late in the night by now, so take care on your way home, alright?
+That's why they're letting me host it however I like, and it's a lot of fun.
 
-I'll head back to the agency office to take my belongings.
+I don't always get an opportunity to work this freely, so I'm really grateful to all the staff members.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll come with you.
+          You met their expectations, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Do you have something to do there, too?
+            Yeah! I got to convey to everyone what I love, and have them be excited to see more from me. It's truly a blessing.
 
-            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a refreshment, but I couldn't finish it all.
+            I have to keep working hard and growing further in order to continue meeting their expectations!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh yeah, speaking of the agency…
+            You sound happy.
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            There's a fan letter for me?
+            Yeah, I am. I'm always doing my absolute best in my work, but being able to take control of the flow really gives you the opportunity to devote your whole self into the job.
 
-            Alright, I'll go pick that up too! It always gives me energy to read a letter from a fan…♪
+            I can feel how much they cherish my work, and it makes me want to take great care while performing my job.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Speaking of which…
+            I'm so glad.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki shocked2 %}
-            …There's a rumor about a ghost appearing in the elevator?
+            {% bubble Chiaki v2 %}
+            Oh, seeing me enjoying myself at work makes you happy, huh?
 
-            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
+            That really boosts my spirit! Now I'll work even harder for the sake of making you smile!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: TBA %}</div>
+<div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Final Warmup %}</div>
