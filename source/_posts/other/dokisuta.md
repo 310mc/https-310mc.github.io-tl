@@ -242,7 +242,7 @@ I'll work hard, too. I'll do my best with all I've got, at least every once in a
 
 {% img /img/es/scoutstory/cityriders/midoriorigcg.jpg %}
 
-{% bubble Midori blushshy %}
+{% bubble Midori blushshy2 %}
 I can take these all for myself, right? Wahh, waah…! ♪
 {% endbubble %}
 

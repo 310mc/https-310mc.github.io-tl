@@ -201,7 +201,7 @@ There are so many mascot characters out there… The world of mascots is truly d
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: Peculiar Food Specialty %}{% btn /tropical,, star, Index %}</div>
+<div toc>{% btn /tropical/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: Peculiar Food Specialty %}{% btn /minitalk/#Tropical,, star, Index %}</div>
 
 ## Translation Notes
 

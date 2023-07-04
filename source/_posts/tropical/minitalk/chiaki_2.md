@@ -106,13 +106,13 @@ You don't have to look so worried, I'm alright! I was just doing a final warmup 
 {% img /img/es/eventstory/tropical/minitalk_chiaki2_2.jpg %}
 
 {% bubble Chiaki awkward %}
-I'm not that good at moving and expressing myself in soft way, it seems…
+I'm not that good at moving and expressing myself in a soft way, it seems…
 
 Takamine couldn't bear to watch my performance, so he introduced me to a mascot character that resembles me.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-It's an octopus mascot that wants to be a police officer. Despite its enthusiastic, fiery choice of words, it moves in a droopy, adorable way.
+It's an octopus mascot that wants to be a police officer. Despite its earnest, fiery choice of words, it moves in a droopy, adorable way.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -122,7 +122,7 @@ It's an octopus mascot that wants to be a police officer. Despite its enthusiast
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Really? I never noticed…
+            Really? I didn't even notice…
 
             Maybe learning from this mascot has naturally started to make me resemble it!
 			{% endbubble %}
@@ -136,7 +136,7 @@ It's an octopus mascot that wants to be a police officer. Despite its enthusiast
             {% bubble Chiaki nod %}
             Isn't it? Honestly, I didn't expect to get this attached to it, but…
 
-            Takamine introduced me to this character for my sake. Just that thought alone makes it all the more adorable to me.
+            Takamine introduced me to this character for my sake. Just that thought alone makes it look all the more adorable to me.
 			{% endbubble %}
         </div>
     </div>
@@ -149,7 +149,7 @@ It's an octopus mascot that wants to be a police officer. Despite its enthusiast
             Oh, a teacher…! I like that! I should call this character my teacher from now on!
             {% endbubble %}
             {% bubble Chiaki frown %}
-            Ah, but… Takamine might get angry at me for making up a nickname for it…
+            Ah, but… Takamine might scold me and warn me not to give it a nickname…[^1]
 			{% endbubble %}
         </div>
     </div>
@@ -162,7 +162,7 @@ It's an octopus mascot that wants to be a police officer. Despite its enthusiast
 {% bubble Chiaki fist %}
 Oh! The rest of the members are about to arrive soon.
 
-While I didn't expect you to see me do my final warmups… Now that I've finished warming up, I'm in perfect shape to show off all the softness Takamine drilled into me to the maximum!
+While I hadn't expected someone to spot me do my final warmups… Now that I've finished warming up, I'm in perfect shape to show off all the softness Takamine drilled into me to the maximum!
 
 It's time to let aside being cool and fiery, and instead perform in a fun, bright, and super soft way~♪
 {% endbubble %}
@@ -189,7 +189,7 @@ It's time to let aside being cool and fiery, and instead perform in a fun, brigh
             What—!? I got too excited because the performance is just about to start…
             {% endbubble %}
             {% bubble Chiaki nod %}
-            <th><em>(Sways back and forth)</em></th> I have to get back into soft-mode once more. Softly, sooftly~…♪
+            <th><em>(Sways back and forth)</em></th> I have to get myself back into soft-mode. Softly, sooftly~…♪
 			{% endbubble %}
         </div>
     </div>
@@ -199,12 +199,16 @@ It's time to let aside being cool and fiery, and instead perform in a fun, brigh
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Yeah, of course I will! Ah, but I can't go <em>too</em> hard, or I'll get too fired up again.
+            Yeah, of course I will! Ah, but I can't go <em>too</em> hard, or I'll become fired up again.
 
-            I'll keep my heart burning as always, but still make sure to be as soft and fluffy as possible for the whole performance~♪
+            I'll keep my heart burning as always, while still making sure to be as soft and fluffy as possible for the whole performance~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Favorable Work %}{% btn /tropical,, star, Index %}</div>
+<div toc>{% btn /tropical/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Favorable Work %}{% btn /minitalk/#Tropical,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: Random fun fact, in Enstars!! Basic, he activates a FEVER UP on this answer.

@@ -202,4 +202,4 @@ Where am I gonna have the street interview…? Ahh, I think it'll be in the neig
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/midori_2,, arrow-right, Midori Mini Talk: Proclaiming What I Love %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/midori_2,, arrow-right, Midori Mini Talk: Proclaiming What I Love %}</div>

@@ -201,7 +201,7 @@ I will borrow the dorm's kitchen for a while and practice a lot until the show!
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Mascot Character Training %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Mascot Character Training %}</div>
 
 ## Translation Notes
 

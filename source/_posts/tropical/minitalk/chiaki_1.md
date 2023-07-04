@@ -69,7 +69,7 @@ You have to talk to people a lot, right? Then you should take good care of your 
             {% bubble Chiaki v2 %}
             Mhm, if you'd like more, just ask! I have plenty with me!
 
-            They gave me more than enough, so I'm trying to share it with everyone I know!
+            They gave me more than enough, so I'm trying to share them with everyone I know!
 			{% endbubble %}
         </div>
     </div>
@@ -79,9 +79,9 @@ You have to talk to people a lot, right? Then you should take good care of your 
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            The one I gave you is pineapple flavor! There's other flavors too, like strawberry, orange, grape, and so many more! ☆
+            The one I gave you is pineapple flavor! There are other flavors too, like strawberry, orange, grape, and so many more! ☆
 
-            You're free to pick any flavor you like! You can even take as many as you like, y'know~♪
+            You're free to pick any flavor you like! You can even take as many as you like, too~♪
 			{% endbubble %}
         </div>
     </div>
@@ -106,7 +106,7 @@ You have to talk to people a lot, right? Then you should take good care of your 
 {% bubble Chiaki v2 %}
 I was recording for a radio talk about tokusatsu shows. They invite people who worked on shows to chat about it.
 
-Today's guest was the explosion-effects director, they're extremely vital to a tokusatsu show! We talked for so long, that we didn't even realize we were almost running out of time…!
+Today's guest was the explosion-effects director, an extremely vital role in a tokusatsu show! We talked for so long, that I didn't even realize we were almost running out of time…!
 
 Of course, we managed to make it in time in the end, but it's really hard to hold myself back whenever it's a topic I enjoy! ♪
 {% endbubble %}
@@ -144,7 +144,7 @@ Of course, we managed to make it in time in the end, but it's really hard to hol
             {% bubble Chiaki v2 %}
             Heheh, you may be quiet sometimes, but you also have an enthusiastic spirit hidden inside of you, don't you?
 
-            I know you're busy, but I'd love it if we could take our time to talk to about idols sometime.
+            I know you're busy, but I'd love it if we could take our time and talk to about idols sometime.
 			{% endbubble %}
         </div>
     </div>
@@ -181,7 +181,7 @@ I don't always get an opportunity to work this freely, so I'm really grateful to
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Yeah, I am. I'm always doing my absolute best in my work, but being able to take control of the flow really gives you the opportunity to devote your whole self into the job.
+            Yeah, I am. I'm always doing my absolute in all my work, but being able to take control of the flow really gives you the opportunity to devote your whole self into the job.
 
             I can feel how much they cherish my work, and it makes me want to take great care while performing my job.
 			{% endbubble %}
@@ -201,4 +201,4 @@ I don't always get an opportunity to work this freely, so I'm really grateful to
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical,, star, Index %}{% btn /tropical/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Final Warmup %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Final Warmup %}</div>

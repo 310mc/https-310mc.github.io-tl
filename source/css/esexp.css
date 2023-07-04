@@ -13,7 +13,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushscratch.png");
 }
 [character="Midori"][blushshy] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushshy.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushshy3.png");
+}
+[character="Midori"][blushshy2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushshy2.png");
 }
 [character="Midori"][blushsquint] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushsquint.png");

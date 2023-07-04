@@ -201,7 +201,7 @@ I've only watched performances of them, but I hope I can meet them for real one 
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/midori_1,, arrow-left, Midori Mini Talk: Nervous At Work %}{% btn /tropical,, star, Index %}</div>
+<div toc>{% btn /tropical/minitalk/midori_1,, arrow-left, Midori Mini Talk: Nervous At Work %}{% btn /minitalk/#Tropical,, star, Index %}</div>
 
 ## Translation Notes
 
