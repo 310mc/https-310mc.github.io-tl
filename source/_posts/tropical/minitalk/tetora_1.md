@@ -1,12 +1,11 @@
 ---
-title: "Tropical – Tetora Mini Talk: TBA"
-date: 2023/5/16 7:00:00
+title: "Tropical – Tetora Mini Talk: Studying Every Day"
+date: 2023/7/7 8:00:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
 description: "[ES!!] Tetora's first Mini Talk from Tropical. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,47 +53,49 @@ hidden: true
 {% img /img/es/eventstory/tropical/minitalk_tetora1_1.jpg %}
 
 {% bubble Tetora v2 %}
-Anzu! You're working until late at night again, aren't you? ☆
+Hello, Anzu-Anego! Thank you for all your hard work! Are you gonna eat lunch now?
 
-…Hm? You dropped something!
+The other seat is empty, so you're totally free to sit here~♪
+{% endbubble %}
 
-This… is a marriage application form!? You're going to get married, Anzu!?
+{% bubble Tetora v2 %}
+Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll put it back in.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh!?
+            What were you looking at?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
-            Oh, it came as an extra with a bridal magazine you bought as reference…?
+            {% bubble Tetora v2 %}
+            I was reading through a TV entertainer's interview.
 
-            It was such an unexpected thing to find on the floor, so I accidentally jumped to the wrong conclusion! I'm sorry!
+            There's somethin' I wanna study up on, so I was using it as reference.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            No…?
+            Yeah, that's better to do.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
+            That's true! We should focus on our food when it's time to eat, after all.
 
-            Ohh! This pattern design is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
+            We dunno who's watchin', so I wanna be careful with my manners at all times.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's a misunderstanding!
+            That's rare for you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            Fuhahaha! ☆ I'm only joking!
+            Ahaha, yep, you're right, I'm usually way more careful.
 
-            There was a similar scene in a drama I played an act in, so it reminded me of it!
+            I'm pretty hungry after finishing my work, but there was also somethin' I was real curious to look up… so I couldn't help myself.
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +105,48 @@ This… is a marriage application form!? You're going to get married, Anzu!?
 
 {% img /img/es/eventstory/tropical/minitalk_tetora1_2.jpg %}
 
-{% bubble Tetora srsthinking %}
-Speaking of marriage… Tenshouin asked me to come see him a moment ago…
+{% bubble Tetora v2 %}
+I was filming for a TV show just a second ago, and one of the entertainers was late, so it caused a bit of tension…
 
-Then he told me that the PV for a bridal company that I shot with Sazanami got cancelled in the end.
+But the host calmed the situation down in a peaceful way, and things went back to normal.
 
-It's a shame, but there's nothing we can do about it… The actual problem here is that we've now decided to plan a PV project from scratch. I'm not sure where to go from here…
+I was honestly amazed, 'cuz I could never do that. That's why I thought to learn more from 'em by checking out their interviews.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please let me know if you need me.
+            Sounds like a lovely host.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            Heheh, your help would always be reassuring.
+            At first, I thought, "is it really okay for things to be this lax with the host…?"
 
-            But I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
+            But their ability to change the atmosphere of the room in a flash was incredible. I can really learn a lot from people who've been in the show biz for a long time.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you have any ideas?
+            You're very diligent.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            No, actually… I still haven't thought up anything.
+            {% bubble Tetora norsmile %}
+            It's nothin' big really, especially compared to other people, like Morisawa-senpai.
 
-            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the project again and come up with some ideas before that.
+            I'm real clumsy, so I wanna try to absorb as much as reference points as I can.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Planning a project sounds fun, too.
+            Like a mascot character, huh?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
-            That's true, but the theme is bridal, y'know? I don't even know where to begin to think up ideas!
+            {% bubble Tetora curious %}
+            Mascot character… as in, the ones Midori-kun likes?
 
-            Oh, I know! Is it alright if I borrow your magazine later?
+            Oh yeah, since mascots also heal people in a peaceful way, right? Maybe I should learn from 'em, too.
 			{% endbubble %}
         </div>
     </div>
@@ -155,51 +156,52 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
 
 {% img /img/es/eventstory/tropical/minitalk_tetora1_3.jpg %}
 
-{% bubble Tetora v2 %}
-Oh! I got so into our conversation…
+{% bubble Tetora fist %}
+Lately, RB has been gettin' a lotta attention, so I've been getting a lot more jobs, like the one I just mentioned.
 
-It's quite late in the night by now, so take care on your way home, alright?
+I've been appearing on magazines, radios and a lot more… It's a real good reminder that each media has a different vibe to it.
 
-I'll head back to the agency office to take my belongings.
+I gotta study more and more to be capable of handling any kinda work!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll come with you.
+          Don't push yourself.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Do you have something to do there, too?
-
-            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a refreshment, but I couldn't finish it all.
+            {% bubble Tetora awkward %}
+            Ahaha… Yeah, you're right, I gotta be careful not to go too far.
+            {% endbubble %}
+            {% bubble Tetora smile %}
+            I must've made you worried a lot, haven't I? But I assure you that you don't have to worry as much anymore!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh yeah, speaking of the agency…
+            I'll help.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            There's a fan letter for me?
+            Really!? You'd be a powerhouse to have, Anego!
 
-            Alright, I'll go pick that up too! It always gives me energy to read a letter from a fan…♪
+            Ah, but… You don't just produce me, so I can't keep relyin' on ya.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Speaking of which…
+            Good luck.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora shocked2 %}
-            …There's a rumor about a ghost appearing in the elevator?
+            {% bubble Tetora v2 %}
+            …Huh, you'll give me your side dish? Thank you!
 
-            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
+            But I'm not a fan of only receiving and never giving, y'know? So if it's alright, please exchange side dishes with me!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: TBA %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: How A Mascot Feels %}</div>

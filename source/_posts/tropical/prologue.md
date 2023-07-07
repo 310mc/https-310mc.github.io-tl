@@ -194,7 +194,7 @@ I’m always prepared to take the position! ☆
 {% endbubble %}
 
 {% bubble Midori frown %}
-No, you’re better off as a regular member for a while. Do you have any idea how long you’ve been the leader…?
+No, you’re better off as a regular member for a while. Do you have any idea how long you’ve been acting as the leader…?
 {% endbubble %}
 
 {% bubble Tetora curious %}

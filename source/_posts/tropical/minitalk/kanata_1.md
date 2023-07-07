@@ -1,12 +1,11 @@
 ---
-title: "Tropical – Kanata Mini Talk: TBA"
-date: 2023/5/16 7:05:00
+title: "Tropical – Kanata Mini Talk: wonderful news"
+date: 2023/7/7 7:00:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
-hidden: true
+description: "[ES!!] Kanata's first Mini Talk from Tropical. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -51,50 +50,50 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_1.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata1_1.jpg %}
 
 {% bubble Kanata v2 %}
-Oh! Anzu! You're at StarPro today, huh?
+fufufu\~♪ hello, anzu-san\~
 
-…Hm? You have a meeting soon, so you have to go to CosPro next?
+i [seem] to be in a good mood? you figured me out~♪
 
-You're as busy as ever! If you still have time, how about resting here for a bit?
+i just finished a [photoshoot] for a magazine, and heard about [something] wonderful.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Okay, I'd like to take up that offer.
+            Is it about work?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Mhm, I even have cookies I got from Kanata a moment ago. There are a lot of them left, so eat as much as you like!
+            yes, it is about [work]~ by the way, the magazine [photoshoot] should give you a [clue].
 
-            He's planning to sell this in the Aoumi Aquarium soon. I tried one myself, and it was really tasty~♪
+            fufufu, this is fun, it is like i am giving you a [quiz]…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll go buy a drink.
+            Something wonderful?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Oh yeah, if you're alright with canned juice, there's one here! I went to buy one for myself from the vending machine, and got lucky with the roulette, so now I have two~♪
+            yes. there is nothing more wonderful to hear than [this], personally.
 
-            I was hoping I could give the second one to someone, so you can have it!
+            ufufu, i would love it if you asked me what it is…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Then…
+            Is it about Ryuseitai?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata worried %}
-            Hmm? Why are you opening your laptop…?
+            {% bubble Kanata v2 %}
+            no, it is about [me] only this time.
 
-            Work doesn't count as resting! You have to rest when it's time to…!
+            but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +101,50 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_2.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata1_2.jpg %}
 
 {% bubble Kanata v2 %}
-Oh yeah, you're joining us for the filming at Kyoto, right?
+you see, my next magazine photoshoot will be on the [beach].
 
-I don't think we'll be there for very long, but since it's a wonderful opportunity to see the city, let's make sure to enjoy Kyoto! ☆
+i will be introducing [seafood] for that [job].
 
-Is there anything you'd like to see or try in the city?
+it is the most suitable [job] for me. i was pleasantly surprised when they told me…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Somewhere I haven't gone to before…
+            It sounds like fun.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Oh, last year's school trip was Kyoto?
+            yes\~♪ i am already so excited\~
 
-            I hope there are other places you can visit this time around!
+            i will be sure to bring back tasty [fish] as a [souvenir] for you, anzu-san~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to try matcha.
+            It really does suit you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Oh yeah, the city is famous for that, isn't it? I'm sure there are plenty of Japanese sweets shops, so we should be able to try out matcha during our break.
+            showing off my [love] for ocean has [paid off], hasn't it~
 
-            We need to look up all the shops to check out while we still can!
+            fufu, i hope to [continue] to get more [jobs] to do with the ocean…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to see a maiko.
+            I hope you can dip in the ocean.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            You're interested in maiko, huh? I'm sure there's a place to experience what it's like as a maiko. How about you try going to one?
+            i wonder… it will [mainly] be about [dishes] this time, so i am not sure…
 
-            …Hm? You don't want to become one, you just want to learn about them? That sounds more like an interview than touring!
+            but i may be able to [puka puka] during my break time…♪
 			{% endbubble %}
         </div>
     </div>
@@ -153,53 +152,53 @@ Is there anything you'd like to see or try in the city?
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_3.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata1_3.jpg %}
 
 {% bubble Kanata v2 %}
-Whenever I go to a different region, I can't help but look for their designated hero.
+a [job] about something you enjoy really gets you in the [mood]~
 
-Regional heroes are allies of justice who protect the people of their region!
+i will [practice] from now on, so that i may properly express my [thoughts] once it is time.
 
-I'd love to learn about all sorts of things from the hero of Kyoto! ♪
+would you be willing to help me with improving my [food reporting] skills?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll try looking for him, too.
+          I'll book a seafood restaurant, then.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Ohh, thank you, Anzu! If you ever spot him, contact me right away! I'll come rushing no matter what!
+            thank you…♪ you are always so reliable, anzu-san.
 
-            Heheh! I'm even more excited for the Kyoto trip now! ☆
+            i am [excited] to see what sort of restaurant you will [book] for me~…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to meet him, too.
+            I'll gather more information for you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Oh, you're interested in the regional hero, too!? That makes me really happy!
+            umm… you will make a [manual] for me, in order to do a proper [food reportage]…?
 
-            Alright, if we ever have time, let's go searching for him. I'm sure we'll find him if we both work together!
+            that would be most helpful…♪ but [do not] push yourself, okay?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What would you like to know?
+            I'll find an adviser for you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            I'd like to know what he typically does around the place, why he became a hero of this region, what his ambitions are as a hero, and so much more… I wouldn't even know which question to begin with!
+            an [adviser]? so you will find someone who is good at [food reportage], yes?
 
-            Alright, I don't want to take up all his time, so I'll compile all the questions I'd like to ask him!
+            fufufu, i am excited then. i would love to say something like, "my mouth feels like the ocean~" ♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: TBA %}{% btn /minitalk/#Tropical,, star, Index %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: treasured item %}</div>

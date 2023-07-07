@@ -154,9 +154,9 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="value">
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -494,8 +494,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/kanata_1" id="none">x</a>
+                            <a href="minitalk/kanata_2" id="none">x</a>
                             </div>
                         </div>
                     </div>
@@ -503,8 +503,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/tetora_1" id="none">x</a>
+                            <a href="minitalk/tetora_2" id="none">x</a>
                             </div>
                         </div>
                     </div>

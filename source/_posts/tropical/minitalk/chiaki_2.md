@@ -136,7 +136,7 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
             {% bubble Chiaki nod %}
             Isn't it? Honestly, I didn't expect to get this attached to it, but…
 
-            Takamine introduced me to this character for my sake. Just that thought alone makes it look all the more adorable to me.
+            Takamine introduced me to this character just for my sake. Just that thought alone makes it look all the more adorable to me.
 			{% endbubble %}
         </div>
     </div>
@@ -162,7 +162,7 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
 {% bubble Chiaki fist %}
 Oh! The rest of the members are about to arrive soon.
 
-While I hadn't expected someone to spot me do my final warmups… Now that I've finished warming up, I'm in perfect shape to show off all the softness Takamine drilled into me to the maximum!
+While I hadn't expected you to spot me do my final warmups… Now that I've finished warming up, I'm in perfect shape to show off all the softness Takamine hammered into me to the maximum!
 
 It's time to let aside being cool and fiery, and instead perform in a fun, cheerful, and super soft way~♪
 {% endbubble %}

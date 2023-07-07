@@ -1,12 +1,11 @@
 ---
-title: "Tropical – Tetora Mini Talk: TBA"
-date: 2023/5/16 7:05:00
+title: "Tropical – Tetora Mini Talk: How A Mascot Feels"
+date: 2023/7/7 8:05:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
 description: "[ES!!] Tetora's second Mini Talk from Tropical. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -54,47 +53,48 @@ hidden: true
 {% img /img/es/eventstory/tropical/minitalk_tetora2_1.jpg %}
 
 {% bubble Tetora v2 %}
-Oh! Anzu! You're at StarPro today, huh?
+Anego, thanks so much for preparin' so much for us this time around!
 
-…Hm? You have a meeting soon, so you have to go to CosPro next?
+We also made sure to get ourselves ready for this live show.
 
-You're as busy as ever! If you still have time, how about resting here for a bit?
+We all got a lotta coaching from Midori-kun for the Tropical Live.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Okay, I'd like to take up that offer.
+            Sounds like it was fun.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Mhm, I even have cookies I got from Kanata a moment ago. There are a lot of them left, so eat as much as you like!
+            {% bubble Tetora awkward %}
+            It was hard more than it was fun, honestly~…
 
-            He's planning to sell this in the Aoumi Aquarium soon. I tried one myself, and it was really tasty~♪
+            Midori-kun was like a demonic drill sergeant, to the point it's almost unbelievable he's usually way more passive…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll go buy a drink.
+            What kind of coaching?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Oh yeah, if you're alright with canned juice, there's one here! I went to buy one for myself from the vending machine, and got lucky with the roulette, so now I have two~♪
-
-            I was hoping I could give the second one to someone, so you can have it!
+            {% bubble Tetora norsmile %}
+            We're gonna perform with mascots, so he taught us how to give off a more soft energy. But Morisawa-senpai and I couldn't get it down right…
+            {% endbubble %}
+            {% bubble Tetora frown %}
+            I had no idea it'd be so tough to bring out a soft atmosphere.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Then…
+            Do you know how it feels now?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora worried %}
-            Hmm? Why are you opening your laptop…?
+            {% bubble Tetora norsmile %}
+            Hmm, I've never thought 'bout how a mascot character feels, but… I think I'm startin' to get it.
 
-            Work doesn't count as resting! You have to rest when it's time to…!
+            I hold nothin' but respect for all the mascots for being able to behave in a soft, relaxed way.
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +104,48 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 
 {% img /img/es/eventstory/tropical/minitalk_tetora2_2.jpg %}
 
-{% bubble Tetora v2 %}
-Oh yeah, you're joining us for the filming at Kyoto, right?
+{% bubble Tetora norsmile %}
+Thanks to this job, I've gotten a much deeper understandin' of mascot characters.
 
-I don't think we'll be there for very long, but since it's a wonderful opportunity to see the city, let's make sure to enjoy Kyoto! ☆
+Oh yeah, I actually got curious 'bout 'em to look 'em up a li'l, and found an interesting character.
 
-Is there anything you'd like to see or try in the city?
+It's a mascot that does martial arts, so I felt a connection~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Somewhere I haven't gone to before…
+            Let's do a collaboration with it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Oh, last year's school trip was Kyoto?
+            {% bubble Tetora awkward %}
+            You mean a collab like this one? I'm sorta interested, but…
 
-            I hope there are other places you can visit this time around!
+            I don't have as much love for mascots as Midori-kun does, so I feel like it'd be rude of me.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to try matcha.
+            It has a similar air to you.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            Oh yeah, the city is famous for that, isn't it? I'm sure there are plenty of Japanese sweets shops, so we should be able to try out matcha during our break.
+            This mascot is similar to me…? Is that somethin' to be happy 'bout?
 
-            We need to look up all the shops to check out while we still can!
+            But it's a mascot that pours all its energy into working, so it's not so bad bein' compared to it~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to see a maiko.
+            What a charming character.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            You're interested in maiko, huh? I'm sure there's a place to experience what it's like as a maiko. How about you try going to one?
+            {% bubble Tetora grin %}
+            I know right!? Its charm point is how hard it works as a martial artist!
 
-            …Hm? You don't want to become one, you just want to learn about them? That sounds more like an interview than touring!
+            I couldn't watch its journey to getting the black belt without tears in my eyes, y'know…!
 			{% endbubble %}
         </div>
     </div>
@@ -156,50 +156,50 @@ Is there anything you'd like to see or try in the city?
 {% img /img/es/eventstory/tropical/minitalk_tetora2_3.jpg %}
 
 {% bubble Tetora v2 %}
-Whenever I go to a different region, I can't help but look for their designated hero.
+This outfit is meant to match with "Tropical Island Troppeys," right?
 
-Regional heroes are allies of justice who protect the people of their region!
+But it's still made to look cool, so I like it! Most importantly, Midori-kun's super happy 'bout it too.
 
-I'd love to learn about all sorts of things from the hero of Kyoto! ♪
+You made it, right, Anego? That makes me so happy~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll try looking for him, too.
+          My pleasure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Ohh, thank you, Anzu! If you ever spot him, contact me right away! I'll come rushing no matter what!
+            {% bubble Tetora fist %}
+            I can't thank ya enough, Anego. I can't wait for the performance to start!
 
-            Heheh! I'm even more excited for the Kyoto trip now! ☆
+            We're gonna do our absolute best to bring out the charms of "Tropical Island Troppeys" to the max!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to meet him, too.
+            You look cool.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Oh, you're interested in the regional hero, too!? That makes me really happy!
+            {% bubble Tetora grin2 %}
+            Really? I'm so happy to hear that from ya, Anego!
 
-            Alright, if we ever have time, let's go searching for him. I'm sure we'll find him if we both work together!
+            Now I *really* feel like we're gonna have awesome work as Yuruseitai in the future~! Please pay close attention to Ryuseitai's powered up form!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What would you like to know?
+            Next time…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            I'd like to know what he typically does around the place, why he became a hero of this region, what his ambitions are as a hero, and so much more… I wouldn't even know which question to begin with!
+            {% bubble Tetora awkward %}
+            You'll make an outfit that's much more closer to what a mascot's like? I do think that'd have an impact on the audience, but…
 
-            Alright, I don't want to take up all his time, so I'll compile all the questions I'd like to ask him!
+            Personally, I think this outfit is perfectly balanced, y'know…? Midori-kun might be happy 'bout that idea, though.
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: TBA %}{% btn /minitalk/#Tropical,, star, Index %}</div>
+<div toc>{% btn /tropical/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: Studying Every Day %}{% btn /minitalk/#Tropical,, star, Index %}</div>

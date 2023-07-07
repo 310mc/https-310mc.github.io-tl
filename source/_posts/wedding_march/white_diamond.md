@@ -161,7 +161,7 @@ Ring.A.Bell…?
 {% bubble Chiaki grin %}
 Yeah, that’s the one! I was asked to make “an expression a bridegroom would have when gazing at his beloved one” for the PV, but I struggled at first on how to go about it.
 
-When I consulted Anzu for her advice, she suggested that I take reference from the promotional video Ring.A.Bell took alongside their MV, and got me to watch it.
+When I consulted Anzu for her advice, she suggested that I take reference from the promotional video Ring.A.Bell took separate from their MV, and got me to watch it.
 
 I kept re-watching how you played your part and analyzed it as much as I could, then I applied it to my own performance, and it worked out in my favor. Thank you, Takamine!
 {% endbubble %}

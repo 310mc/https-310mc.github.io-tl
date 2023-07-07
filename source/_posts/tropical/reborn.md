@@ -89,7 +89,7 @@ But well, you called us over on HoldHands, so I assume it’s somethin’ real b
 {% endbubble %}
 
 {% bubble Chiaki sad2 %}
-You see, Takamine lives right by my dorm room, and… He apparently hasn’t been showing up in his room for the past few days. I only discovered this when Tenma-kun[^1] asked me if something had happened.
+You see, Takamine lives right by my dorm room, and… He apparently hasn’t been showing up in his room for the past few days. I only discovered this when Tenma-kun asked me if something had happened.[^1]
 {% endbubble %}
 
 {% bubble Kanata curious %}
@@ -287,7 +287,7 @@ Mhm, mhm! As a ninja, I excel at aiding my master!
 {% endbubble %}
 
 {% bubble Midori sad4 %}
-Sorry… I appreciate the offer, but that’s actually not the problem…
+Sorry… I appreciate the offer, but that actually isn’t the problem…
 {% endbubble %}
 
 {% bubble Shinobu curious %}
@@ -491,7 +491,7 @@ those who know what their [color] is would not struggle, but… that is not the 
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-I’d never imagined that I’d hear about rules coming from you, Kanata, but… Yeah, in general terms, that’s how it is.
+I’d never imagined that I’d hear about rules from you, Kanata, but… Yeah, in general terms, that’s how it is.
 
 It’s almost a miracle that he remained as an idol, after all.
 {% endbubble %}
@@ -1023,6 +1023,7 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^6]
 {% endbubble %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /tropical/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /tropical,, star, Index %}
 {% btn /tropical/transform,, arrow-right, Next Chapter: Transform! %}
@@ -1031,8 +1032,8 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^6]
 ## Translation Notes
 
 [^1]: Mitsuru is roommates with Midori (along with Ibara and Tsumugi).
-[^2]: In Japanese, the names are as follows: Kuma-gon, Namake-san, Arumajirou, Kiwi, Kamohasshi. Because it's unclear which animal some of them are, I decided to give them an English equivalent name.
+[^2]: In Japanese, the names are as follows: Kumagon, Namakesan, Arumajirou, Kiwi, Kamohasshii. Because it's unclear which animal some of them are if left in Japanese, I decided to give them an English equivalent name. All these mascots can be seen in the <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">MV</a> of this event.
 [^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori's Idol Story 1</a>, too.
 [^4]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
-[^5]: What Midori loves is called <em>yuruchara</em> in Japanese (<em>yuru</em> meaning “loose,” but since it's a bit odd to say that in English, it has been translated to “soft”). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague.
-[^6]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Loose/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).
+[^5]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “lax,” etc). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague.
+[^6]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Lax/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

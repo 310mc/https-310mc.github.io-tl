@@ -1,12 +1,11 @@
 ---
-title: "Tropical – Kanata Mini Talk: TBA"
-date: 2023/5/16 7:00:00
+title: "Tropical – Kanata Mini Talk: treasured item"
+date: 2023/7/7 7:05:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's first Mini Talk from Tropical. From Anzu's POV."
-hidden: true
+description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -51,50 +50,50 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_1.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata2_1.jpg %}
 
 {% bubble Kanata v2 %}
-Anzu! You're working until late at night again, aren't you? ☆
+what is it, anzu-san~?
 
-…Hm? You dropped something!
+[mascot character] merchandise as a [gift]? why me, and not midori…?
 
-This… is a marriage application form!? You're going to get married, Anzu!?
+ahh, i see. it is a [fish mascot]~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh!?
+            Do you like it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata awkward %}
-            Oh, it came as an extra with a bridal magazine you bought as reference…?
+            {% bubble Kanata v2 %}
+            yes~ i had no idea there was a [character] like this.
 
-            It was such an unexpected thing to find on the floor, so I accidentally jumped to the wrong conclusion! I'm sorry!
+            i will treasure this [merchandise]. thank you~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            No…?
+            Its charm point is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            …Oh, this came as an extra with a magazine? Wow, so even this sort of thing is added as an extra lately, huh?
+            {% bubble Kanata curious %}
+            oh, the other side of its [body] is [sashimi]…?
 
-            Ohh! This pattern design is of that mascot character Takamine's been into lately! He might be happy if I gave it to him!
+            what a strange [character]~ is that how it is with [mascot characters]?[^1]
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's a misunderstanding!
+            Its slogan is…
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Fuhahaha! ☆ I'm only joking!
+            "tasty, energetic [fish]"?
 
-            There was a similar scene in a drama I played an act in, so it reminded me of it!
+            so it is treated as [food], yes? now i want to learn more about it~♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +101,50 @@ This… is a marriage application form!? You're going to get married, Anzu!?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_2.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata2_2.jpg %}
 
-{% bubble Kanata srsthinking %}
-Speaking of marriage… Tenshouin asked me to come see him a moment ago…
+{% bubble Kanata smile3 %}
+since this is a mascot, i would love to show [it] to midori.
 
-Then he told me that the PV for a bridal company that I shot with Sazanami got cancelled in the end.
+he really loves [mascot characters], after all.
 
-It's a shame, but there's nothing we can do about it… The actual problem here is that we've now decided to plan a PV project from scratch. I'm not sure where to go from here…
+i am sure it is as precious to him as the [ocean] and [fish] are to me.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please let me know if you need me.
+            Actually…
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Heheh, your help would always be reassuring.
+            you gave [it] to midori, too?
 
-            But I'll juggle ideas with Sazanami first. He might have a few ideas of his own.
+            fufu, you are so quick to work, anzu-san~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you have any ideas?
+            You really care about your junior, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            No, actually… I still haven't thought up anything.
+            fufufu, it feels a bit embarrassing when you say that~
 
-            I plan to talk to Sazanami about it once I head back to the dorms. I'd like to go through all the documents for the project again and come up with some ideas before that.
+            midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Planning a project sounds fun, too.
+            Oh, then…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata awkward %}
-            That's true, but the theme is bridal, y'know? I don't even know where to begin to think up ideas!
+            {% bubble Kanata v2 %}
+            you have another [one]?
 
-            Oh, I know! Is it alright if I borrow your magazine later?
+            thank you~ i will give it to midori later…♪
 			{% endbubble %}
         </div>
     </div>
@@ -153,53 +152,57 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_3.jpg %}
+{% img /img/es/eventstory/tropical/minitalk_kanata2_3.jpg %}
 
 {% bubble Kanata v2 %}
-Oh! I got so into our conversation…
+you would like to give me something else? this is… a [pamphlet], right?
 
-It's quite late in the night by now, so take care on your way home, alright?
+ohh, there will be a [photoshoot event] for this fish, yes?
 
-I'll head back to the agency office to take my belongings.
+i finished my work, so maybe i will [go] and visit them.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll come with you.
+          Here's the map for it.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            Do you have something to do there, too?
+            waah, you are always [perfect] with your job, aren't you~?
 
-            Oh yeah, you're free to eat the cake in the office's fridge while you're there! I got it from someone as a refreshment, but I couldn't finish it all.
+            fufu, i will take a [peek] on my way [home].
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh yeah, speaking of the agency…
+            I'll prepare a camera.
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            There's a fan letter for me?
+            you will prepare a [camera] for the [photoshoot]?
 
-            Alright, I'll go pick that up too! It always gives me energy to read a letter from a fan…♪
+            then let's go together, anzu-san~
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Speaking of which…
+            Please enjoy yourself.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata shocked2 %}
-            …There's a rumor about a ghost appearing in the elevator?
+            {% bubble Kanata v2 %}
+            hm? you will not join me, anzu-san?
 
-            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
+            then i will invite someone else to come with me~
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: TBA %}</div>
+<div toc>{% btn /tropical/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: wonderful news %}{% btn /minitalk/#Tropical,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: In this case, Kanata is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.

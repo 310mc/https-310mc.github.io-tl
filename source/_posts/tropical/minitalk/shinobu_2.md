@@ -104,7 +104,7 @@ Ah—! Anzu-dono!? Were you watching me all this time!?
 {% img /img/es/eventstory/tropical/minitalk_shinobu2_2.jpg %}
 
 {% bubble Shinobu v2 %}
-Kero-sama[^1] is a mascot character. Midori-kun told me all about it.
+Kero-sama[^1] is a frog-based mascot character. Midori-kun told me all about it.
 
 It looks adorable, but it has high physical capability, and can even walk on two legs!
 
@@ -114,7 +114,7 @@ It can play basketball, baseball, ski, snowboard… Even scuba-diving is a piece
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Doesn't sound soft at all…
+            It doesn't sound soft at all…
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu awkward %}

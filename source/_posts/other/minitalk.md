@@ -558,6 +558,54 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
+                src="/img/es/eventstory/tropical/kanataframe_300px.jpg"
+                alt="wonderful news"
+            />
+        </div>
+        <a href="/tropical/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: wonderful news</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg"
+                alt="treasured item"
+            />
+        </div>
+        <a href="/tropical/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: treasured item</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/tetoraframe_300px.jpg"
+                alt="Studying Every Day"
+            />
+        </div>
+        <a href="/tropical/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Studying Every Day</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
+                alt="How A Mascot Feels"
+            />
+        </div>
+        <a href="/tropical/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: How A Mascot Feels</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
                 src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
                 alt="Favorable Work"
             />

@@ -552,7 +552,7 @@ T-Takamine? What’s wrong, you seem kind of angry…? You shouldn’t kick your
 {% endbubble %}
 
 {% bubble Kanata %}
-fufu, it is because you are always [late] to the rescue, chiaki. me and midori start getting [irritated] the more we wait for you.
+fufu, it is because you are always [late] to the rescue, chiaki. midori and i start getting [irritated] the more we wait for you.
 
 after all, we knew for a fact that you would [come] over one way or another…
 

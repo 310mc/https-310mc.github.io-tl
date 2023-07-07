@@ -84,6 +84,7 @@ Translation is currently in progress!
 {% img /img/es/eventstory/tropical/ep1.jpg %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /tropical/transform,, arrow-left, Previous Chapter: Transform! %}
 {% btn /tropical,, star, Index %}
 </div>-->

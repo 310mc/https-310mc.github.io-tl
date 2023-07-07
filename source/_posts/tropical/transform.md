@@ -63,7 +63,7 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 <div toc>
 {% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
 {% btn /tropical,, star, Index %}
-{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<!--{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
 </div>
 
 ## Chapter 1
@@ -267,7 +267,7 @@ Thank you so much for letting me know, Anzu-san.
 
 I may not be very reliable, but now I <em>have</em> to make sure to show a new image color of my own, don’t I?
 
-I can’t cower back now, or I’ll only let Ryuseitai and “Tropical Island Troppeys” down, when they put so much faith in me .
+I can’t cower back now, or I’ll only let Ryuseitai and “Tropical Island Troppeys” down, when they put so much faith in me.
 {% endbubble %}
 
 {% bubble Midori fist %}
@@ -303,11 +303,11 @@ I don’t get it, why would you feel nervous? It’s not like we’re the ones u
 {% endbubble %}
 
 {% bubble Midori worried %}
-Of <em>course</em> I’d feel nervous…! I’m gonna get to see Pop-dayuu[^2] with my own two eyes, y’know!?
+Of <em>course</em> I’d feel nervous…! I’m gonna get to see Pop-dayuu with my own two eyes, y’know!?
 {% endbubble %}
 
 {% bubble Midori smile4 %}
-Oh, just to let you know, Pop-dayuu is a musical-based mascot character — they wear a kimono and have a music symbol for a face…
+Oh, just to let you know, Pop-dayuu[^2] is a musical-based mascot character — they wear a kimono and have a music symbol for a face…
 
 And they’ve been trending on social media ‘cause they can even play the shamisen.
 {% endbubble %}
@@ -441,7 +441,7 @@ But I do sorta get what you mean ‘bout Shinkai-senpai and Shinobu-kun seemin�
 
 It’s hard to describe what it means to be soft in one word, but…
 
-What we should be going for is something like Shinkai-senpai and Shinobu-kun, who feel cheerful and soothing to look at.
+What we should be going for is something like Shinkai-senpai and Shinobu-kun, who are cheerful and soothing to look at.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -461,6 +461,7 @@ Translation is currently in progress!
 {% endnote %}
 
 <div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
 {% btn /tropical,, star, Index %}
 <!--{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
@@ -468,5 +469,5 @@ Translation is currently in progress!
 
 ## Translation Notes
 
-[^1]: As mentioned before, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they're mainly cute/soft rather than “bizarre” in their cuteness.
+[^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they're mainly cute/soft rather than “bizarre” in their cuteness.
 [^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot's name.
