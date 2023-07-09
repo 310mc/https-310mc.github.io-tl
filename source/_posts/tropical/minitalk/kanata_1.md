@@ -91,7 +91,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            no, it is about [me] only this time.
+            no, it is about only [me] this time.
 
             but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
 			{% endbubble %}
@@ -106,9 +106,9 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
 {% bubble Kanata v2 %}
 you see, my next magazine photoshoot will be on the [beach].
 
-i will be introducing [seafood] for that [job].
+my [job] will be to introduce [seafood].
 
-it is the most suitable [job] for me. i was pleasantly surprised when they told me…♪
+it is the most suitable [work] for me. i was pleasantly surprised when they told me…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -130,7 +130,7 @@ it is the most suitable [job] for me. i was pleasantly surprised when they told 
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            showing off my [love] for ocean has [paid off], hasn't it~
+            showing off my [love] for the ocean has [paid off], hasn't it~
 
             fufu, i hope to [continue] to get more [jobs] to do with the ocean…♪
 			{% endbubble %}
@@ -144,7 +144,7 @@ it is the most suitable [job] for me. i was pleasantly surprised when they told 
             {% bubble Kanata v2 %}
             i wonder… it will [mainly] be about [dishes] this time, so i am not sure…
 
-            but i may be able to [puka puka] during my break time…♪
+            but i may be able to *[puka puka]* during my break time…♪
 			{% endbubble %}
         </div>
     </div>
@@ -157,7 +157,7 @@ it is the most suitable [job] for me. i was pleasantly surprised when they told 
 {% bubble Kanata v2 %}
 a [job] about something you enjoy really gets you in the [mood]~
 
-i will [practice] from now on, so that i may properly express my [thoughts] once it is time.
+i will [practice] starting today, so that i may properly express my [thoughts] once it is time.
 
 would you be willing to help me with improving my [food reporting] skills?
 {% endbubble %}
@@ -181,9 +181,9 @@ would you be willing to help me with improving my [food reporting] skills?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            umm… you will make a [manual] for me, in order to do a proper [food reportage]…?
+            umm… you will prepare a [manual] for me, in order to do a proper [food reportage]…?
 
-            that would be most helpful…♪ but [do not] push yourself, okay?
+            that would be most helpful…♪ but [no] pushing yourself, okay?
 			{% endbubble %}
         </div>
     </div>

@@ -53,7 +53,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Tropical. From Anzu's POV."
 {% img /img/es/eventstory/tropical/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki nod %}
-<th><em>(Sways back and forth)</em></th> Sooftly, sooftly… Take it easy and relaaax~…♪
+<th><em>(sways left and right)</em></th> Sooftly, sooftly… Take it easy and relaaax~…♪
 
 Woah!? Anzu!? Don't tell me you saw me…
 {% endbubble %}
@@ -149,7 +149,7 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
             Oh, a teacher…! I like that! I should call this character my teacher from now on!
             {% endbubble %}
             {% bubble Chiaki frown %}
-            Ah, but… Takamine might scold me and warn me not to give it a nickname…[^1]
+            Ah, but… Takamine might scold me and warn me not to give it my own nickname…[^1]
 			{% endbubble %}
         </div>
     </div>
@@ -189,7 +189,7 @@ It's time to let aside being cool and fiery, and instead perform in a fun, cheer
             What—!? I got too excited because the performance is just about to start…
             {% endbubble %}
             {% bubble Chiaki nod %}
-            <th><em>(Sways back and forth)</em></th> I have to get myself back into soft-mode. Softly, sooftly~…♪
+            <th><em>(sways left and right)</em></th> I have to get myself back into soft-mode. Softly, sooftly~…♪
 			{% endbubble %}
         </div>
     </div>

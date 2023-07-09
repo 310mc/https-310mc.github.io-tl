@@ -60,6 +60,9 @@
 [character="Midori"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_serious.png");
 }
+[character="Midori"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_nod.png");
+}
 [character="Midori"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_norsmile.png");
 }
@@ -469,6 +472,9 @@
 [character="Kanata"][smile4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile4.png");
 }
+[character="Kanata"][smile5] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile5.png");
+}
 [character="Kanata"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_srsthinking.png");
 }
@@ -562,6 +568,9 @@
 }
 [character="Shinobu"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_serious.png");
+}
+[character="Shinobu"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_nod.png");
 }
 [character="Shinobu"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_norsmile.png");

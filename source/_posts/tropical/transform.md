@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Transform!"
-date: 2023-7-4 10:05:00
+date: 2023-6-30 9:10:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -63,14 +63,10 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 <div toc>
 {% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
 {% btn /tropical,, star, Index %}
-<!--{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Chapter 1
-
-<div class="msr-season spring">
-    <p><span><b>Season:</b> Spring</span></p>
-</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Meeting Room</span></p>
@@ -456,15 +452,437 @@ Right then, Takamine! What do we have to do next?
 We’d love to know more! Tell us everything about your love for mascot characters…☆
 {% endbubble %}
 
-{% note narration %}
-Translation is currently in progress!
-{% endnote %}
+## Chapter 3
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Dance Room</span></p>
+</div>
+
+{% img /img/es/eventstory/tropical/transform3.jpg %}
+
+<div class="msr-narration">
+    <p>Later, in the afternoon…</p>
+</div>
+
+{% bubble Midori fist %}
+Alright, I see we’ve all changed into our practice outfits.
+
+You’re all gonna run through my special course today. Please follow my lead, everyone…!
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+Ooh, you’ve even printed the program out for us! You’re really fired up, Midori-kun!
+{% endbubble %}
+
+{% bubble Midori smile6 %}
+Yeah. I know I’m already pushing a lot on you guys, but we can’t take it easy during practice.
+
+I’m entrusting you guys with my love for mascots, so I hope you can come to understand those feelings.
+{% endbubble %}
+
+{% bubble Kanata nod %}
+midori looks so cool~
+
+he is managing to devote himself to his [likes] wonderfully, even though it is a task that is very difficult to accomplish. human [beings] must live as part of [society], after all.
+
+i will also be sure to do the best i can.
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+Very well, we simply have to read the script on the program, correct?
+{% endbubble %}
+
+{% bubble Midori smile7 %}
+Yeah. For now, let’s all try and act as mascot characters.
+
+Our first lesson is to get a feel of what a “soft atmosphere” is like through acting.
+
+I’m gonna assign you all a “Tropical Island Troppeys” character roles, so act out the script on the file I prepared.
+
+Let’s start from Shinkai-senpai. Please act as Armajiro in a round, peaceful way…!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+okaay~ then i will become [armajiro].
+
+“round~ round~ round up all the mess…♪”[^]
+
+was that good?
+{% endbubble %}
+
+{% bubble Midori nod %}
+Mhm, it’s *perfect!* It felt so soft and fluffy! I just <em>knew</em> you’d be a master at this…♪
+
+Armajiro’s charm is being able to settle any and all troubles, and your gentle air matches it perfectly!
+
+Okay, now it’s Shinobu-kun’s turn with Kiwi.
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+Heh, I have prepared my art of transformation just for this day. Allow me to show you the fruits of my training~♪
+
+“Kyu-kyu! I’m Kiwi-kyu~☆”[^]
+{% endbubble %}
+
+{% bubble Midori nod %}
+Ooh, this is so good! You really sound mascot-like!
+
+You even mimicked the sound! You’re amazing as always, Shinobu-kun. The role suits you perfectly…♪
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+You think so? Heheh, you’re so knowledgeable about mascots, so it makes me really happy to be praised by you, Midori-kun.
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Alright, next is Tetora-kun. Get into the feeling of being soft and act as Bearbonk.
+{% endbubble %}
+
+{% bubble Tetora fist %}
+“Booonk, I’m Bearbonk-bonk…!”[^]
+{% endbubble %}
+
+{% bubble Midori worried %}
+Mm, it still feels stiff… You have to be more soft and lax…!
+{% endbubble %}
+
+{% bubble Tetora smile3 %}
+“Booonk, I’m Bearbonk-bonk!”
+{% endbubble %}
+
+{% bubble Midori sigh3 %}
+No, no, you need to loosen up your whole body…!
+{% endbubble %}
+
+{% bubble Tetora awkward %}
+Umm… Like this?
+{% endbubble %}
+
+{% bubble Midori scold %}
+You need to be <em>much</em> slower and more relaxed! You won’t be fit for the role like this, y’know…!?
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Takamine, watch my performance, too! Look, what do you think of my Plateypus form!?
+
+“I WANNA EAT SOME TASTY FOOD-PLATEY!!!”
+{% endbubble %}
+
+{% img /img/es/eventstory/tropical/midoriorigcg.jpg %}
+
+{% bubble Midori scold %}
+That’s <em>way</em> too forceful!!
+
+Are you messing around here, Morisawa-senpai!? Yelling like that is a disservice to Plateypus, you hear me!?
+{% endbubble %}
+
+{% bubble Chiaki worried %}
+Sorry, I just tried to say it in an energetic way — I didn't mean to look as though I’m messing around…
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+Midori-kun is brutally strict whenever it comes to mascots…
+{% endbubble %}
+
+{% bubble Kanata smile %}
+his love runs [deep], doesn’t it~?
+
+but to be honest, i was not doing anything particularly [different] for my performance, so maybe this all depends on the kind of [person] you are. it is likely difficult to get it right in only [one day].
+
+i do hope those two manage to express the [softness] midori wants eventually, though~?
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>A while later…</p>
+</div>
+
+{% bubble Chiaki smile3 %}
+H-How about now? That was good, wasn’t it?
+{% endbubble %}
+
+{% bubble Tetora smile3 %}
+Midori-kun, I’d like to know your thoughts, too! It was tricky on my own, but actin’ out a conversation with Morisawa-senpai made me loosen up a li’l, I think!
+{% endbubble %}
+
+{% bubble Midori sad3 %}
+U-Umm… I do think you’ve gotten better from the first take, but…
+{% endbubble %}
+
+{% bubble Tetora sigh2 %}
+…So this was a bust, too. You don’t sound satisfied at all…
+{% endbubble %}
+
+{% bubble Tetora glare %}
+Let’s beat through this, Morisawa-senpai! We’ve also got what it takes to be soft! We’ll make sure to convince Midori-kun that!
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Of course! Let’s devote ourselves to practice until we master that soft atmosphere, Nagumo!
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+You’re free to butt in if there’s anythin’ that stands out to ya, Midori-kun…!
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Yeah, sure. I’m also taking this fully seriously, so…
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+<th>(Mm~… I feel like Morisawa-senpai and Tetora-kun aren’t getting adjusted to Yuruseitai after all…)</th>
+
+<th>(But, well, it also took a while for me to get used to acting like a villain for RB, so I can’t talk like I’m any better…)</th>
+
+<th>(Maybe I need to take drastic measures to make sure our image is polished…)</th>
+{% endbubble %}
+
+{% bubble Midori frown %}
+<th>(—Wait, I’m doing it again! I’m getting pessimistic…!)</th>
+
+<th>(No, what I need to do is have faith that they’ll improve and wait patiently. That’s just one of the many duties of a leader…!)</th>
+{% endbubble %}
+
+## Chapter 4
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Midori, Mitsuru, Ibara, and Tsumugi’s room</span></p>
+</div>
+
+{% img /img/es/eventstory/tropical/transform4_1.jpg %}
+
+<div class="msr-narration">
+    <p>A few days later…</p>
+</div>
+
+{% bubble Midori sigh4 %}
+<th>(<em>Sigh</em>, school’s so tiring… Maybe it was a good thing I canceled practice for today…)</th>
+
+<th>(I feel like I’m getting tired way faster, probably ‘cause I’m leading the unit right now… I don’t have as much stamina as Morisawa-senpai, so I think I’m gonna have to take a break every few days.)</th>
+{% endbubble %}
+
+{% bubble Midori awkward %}
+<th>(…Haha, my past self would be surprised to hear me say that. I’d always want to take a break back then.)</th>
+
+<th>(But I’ve been appointed the commander now, so I can’t be saying that anymore…)</th>
+
+<th>(Yuruseitai is slowly improving, but we just need one more push…)</th>
+
+<th>(If we can properly do at least <em>one</em> performance right, it’d give me enough confidence that we can do this, but…)</th>
+{% endbubble %}
+
+{% bubble Midori frown %}
+<th>(…Ah, my work will just pile up if I sit around doing nothing.)</th>
+
+<th>(I’ll look over the outfit design Anzu-san came up with. There’s some other documents I need to check over as the leader, too, so I have to keep working.)</th>
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Sound of a door being knocked</p>
+</div>
+
+{% bubble Kanata unknown %}
+knock, knock…♪
+{% endbubble %}
+
+{% bubble Midori curious %}
+…? Who’s at the door…? I can’t tell at all from here… Maybe Saegusa-senpai?
+
+Wait no, that doesn’t make any sense, he wouldn’t knock on the door to his own room. Ah, but maybe he forgot the key…?
+
+Wait, I’m coming—
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+hello~ are you doing well, midori~?
+{% endbubble %}
+
+{% bubble Midori idle %}
+Shinkai-senpai… Did you need something from me?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+fufufu, you see, i found [something] interesting in [es].
+
+it can only be seen now or never, so i came to call you over~♪
+{% endbubble %}
+
+{% bubble Midori curious %}
+Something interesting…?
+{% endbubble %}
+
+{% bubble Midori sad3 %}
+I’m sorry, but I’ll have to pass.
+
+I’ve got a lot to do as the leader, and I don’t really have the energ—
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+how [mean] of you, midori~
+
+there is no need to be that way. come along with me~♪
+
+i am sure it will make you happy, too…♪
+{% endbubble %}
+
+{% bubble Midori worried %}
+Woah— He wrapped himself around me…!?
+
+Shinkai-senpai, you’re surprisingly strong… It’s like I’m being pressured to go…
+
+You’re not some mermaid trying to sink a boat, okay… I’ll just walk there on my own…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+then let’s go~♪
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
+
+{% img /img/es/eventstory/tropical/transform4_2.jpg %}
+
+{% bubble Midori worried %}
+Shinkai-senpai, could you please tell me what it is already?
+
+I can’t imagine what this “interesting” thing is…?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+fufufu, the truth is, i just so happened to come across it while i was on my way to eat lunch at the [staff cafeteria].
+
+it surprised me, so i would like you to think about what it could be~
+{% endbubble %}
+
+{% bubble Midori sad2 %}
+Staff cafeteria? Then why’re we going upstairs…?
+
+Mm, I don’t get it… What did you find…?
+{% endbubble %}
+
+{% bubble Kanata smile %}
+i see you are struggling~ okay, here is a [clue].
+
+a [day] off is not simply for switching off for the [day], is it?
+
+when you are awake, so are other things.
+{% endbubble %}
+
+{% bubble Midori curious %}
+A day off is not simply for switching off…? Is that some kind of pun?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+it is not a [pun]. look, we have arrived~♪
+{% endbubble %}
+
+{% bubble Midori worried %}
+A dance room…? Wait, don’t tell me—
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Dance Room</span></p>
+</div>
+
+{% img /img/es/eventstory/tropical/transform4_3.jpg %}
+
+{% bubble Chiaki frustrated %}
+Sengoku, what do I have to do in order to become a soothing presence…!?
+
+I’m not doing enough to create the atmosphere that Takamine desires! I also want to give off a gentle aura, just like you and Kanata!
+{% endbubble %}
+
+{% bubble Tetora angry %}
+Me too! Give us your honest thoughts, so that I can work hard for Yuruseitai…!
+{% endbubble %}
+
+{% bubble Shinobu northinking %}
+Mm~… Midori-kun said that you have to loosen up…
+
+Thus, I feel that the problem may lie in the two of you being <em>too</em> determined to try and act as a mascot.
+
+How about trying to soften that resolve?
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+Soften my resolve… I see, let me try doing it more casually.
+{% endbubble %}
+
+{% img /img/es/eventstory/tropical/transform4_4.jpg %}
+
+{% bubble Chiaki nod %}
+*<th>(sways left and right)</th>* …How’s this? I tried to stand in an extremely relaxed way; am I managing it?
+{% endbubble %}
+
+{% bubble Tetora awkward %}
+You’re moving more like a mollusk rather than a mascot…
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+This is a lot better already, though! I can tell you’ve loosened your muscles.
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+Oh, so I should try to move a little more like a mollusk would, huh?
+{% endbubble %}
+
+{% bubble Tetora grin2 %}
+…Like this?
+{% endbubble %}
+
+{% bubble Shinobu nod %}
+Mhm, mhm, it is perfect!
+
+Heheh, Midori-kun will definitely be surprised to see your improvement. Let’s all do our best for the sake of making Midori-kun smile!
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Hallway</span></p>
+</div>
+
+{% img /img/es/eventstory/tropical/transform4_5.jpg %}
+
+{% bubble Midori norsmile %}
+…………
+
+Wow, I had no idea that they were practicing by themselves for my sake.
+{% endbubble %}
+
+{% bubble Kanata grin %}
+fufu. apparently, the three of them are here by [chance].
+
+they happened to all be in the cafeteria at the same time, so they [talked] about practicing more on the [performance].
+
+i was also thinking of [practicing] on my [own] after i finish my [lunch], so i was [surprised] to hear they all had the same idea.
+
+*“all for one, and one for all.”*
+
+…isn’t that right, midori?
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Yeah. …It makes me happy that everyone wants to make my ideal vision come to life.
+
+I’m sure that no matter what happens, we Ryuseitai will be okay, won’t we?
+{% endbubble %}
+
+{% bubble Kanata smile5 %}
+fufu, midori is such a [worrywart]~ you immediately fall into depression if we do not hold tight to your [hand].
+
+but i can see that you finally [trust] us…♪
+
+it would be [mean] to only be watching from afar, yes? how about we join them in [practice]?
+{% endbubble %}
+
+{% bubble Midori smile4 %}
+Okay, let’s…♪
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
 {% btn /tropical,, star, Index %}
-<!--{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Translation Notes

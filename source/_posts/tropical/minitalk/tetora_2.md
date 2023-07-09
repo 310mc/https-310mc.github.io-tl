@@ -53,7 +53,7 @@ description: "[ES!!] Tetora's second Mini Talk from Tropical. From Anzu's POV."
 {% img /img/es/eventstory/tropical/minitalk_tetora2_1.jpg %}
 
 {% bubble Tetora v2 %}
-Anego, thanks so much for preparin' so much for us this time around!
+Anego, thanks so much for preparin' a lot for us this time around!
 
 We also made sure to get ourselves ready for this live show.
 
@@ -107,7 +107,7 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
 {% bubble Tetora norsmile %}
 Thanks to this job, I've gotten a much deeper understandin' of mascot characters.
 
-Oh yeah, I actually got curious 'bout 'em to look 'em up a li'l, and found an interesting character.
+Oh yeah, I actually got curious 'bout 'em and looked 'em up a li'l, and I found an interesting character.
 
 It's a mascot that does martial arts, so I felt a connection~♪
 {% endbubble %}
@@ -133,7 +133,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
             {% bubble Tetora v2 %}
             This mascot is similar to me…? Is that somethin' to be happy 'bout?
 
-            But it's a mascot that pours all its energy into working, so it's not so bad bein' compared to it~♪
+            But it's a mascot that pours all its energy into training, so it's not so bad bein' compared to it~♪
 			{% endbubble %}
         </div>
     </div>
@@ -166,7 +166,7 @@ You made it, right, Anego? That makes me so happy~♪
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          My pleasure.
+          It's my pleasure.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora fist %}

@@ -58,7 +58,7 @@ Hello, Anzu-Anego! Thank you for all your hard work! Are you gonna eat lunch now
 The other seat is empty, so you're totally free to sit here~♪
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora awkward %}
 Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll put it back in.
 {% endbubble %}
 
@@ -80,7 +80,7 @@ Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll pu
             Yeah, that's better to do.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
+            {% bubble Tetora smile %}
             That's true! We should focus on our food when it's time to eat, after all.
 
             We dunno who's watchin', so I wanna be careful with my manners at all times.
@@ -120,9 +120,9 @@ I was honestly amazed, 'cuz I could never do that. That's why I thought to learn
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            At first, I thought, "is it really okay for things to be this lax with the host…?"
+            At first, I thought, "Is it really okay for things to be this lax with the host…?"
 
-            But their ability to change the atmosphere of the room in a flash was incredible. I can really learn a lot from people who've been in the show biz for a long time.
+            But their ability to change the atmosphere of the room in a flash is incredible. I can really learn a lot from people who've been in the show biz for a long time.
 			{% endbubble %}
         </div>
     </div>
@@ -134,7 +134,7 @@ I was honestly amazed, 'cuz I could never do that. That's why I thought to learn
             {% bubble Tetora norsmile %}
             It's nothin' big really, especially compared to other people, like Morisawa-senpai.
 
-            I'm real clumsy, so I wanna try to absorb as much as reference points as I can.
+            I'm real clumsy, so I wanna try to absorb as much reference points as I can.
 			{% endbubble %}
         </div>
     </div>
@@ -174,7 +174,7 @@ I gotta study more and more to be capable of handling any kinda work!
             Ahaha… Yeah, you're right, I gotta be careful not to go too far.
             {% endbubble %}
             {% bubble Tetora smile %}
-            I must've made you worried a lot, haven't I? But I assure you that you don't have to worry as much anymore!
+            I must've made ya worry a lot, haven't I? But I assure you that you don't have to worry as much anymore!
 			{% endbubble %}
         </div>
     </div>

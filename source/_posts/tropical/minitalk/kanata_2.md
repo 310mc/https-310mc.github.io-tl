@@ -52,7 +52,7 @@ description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
 
 {% img /img/es/eventstory/tropical/minitalk_kanata2_1.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata curious %}
 what is it, anzu-san~?
 
 [mascot character] merchandise as a [gift]? why me, and not midori…?
@@ -69,7 +69,7 @@ ahh, i see. it is a [fish mascot]~♪
             {% bubble Kanata v2 %}
             yes~ i had no idea there was a [character] like this.
 
-            i will treasure this [merchandise]. thank you~♪
+            i will treasure this [item]. thank you~♪
 			{% endbubble %}
         </div>
     </div>
@@ -126,7 +126,7 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You really care about your junior, huh?
+            You really care about your juniors, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
@@ -157,9 +157,9 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 {% bubble Kanata v2 %}
 you would like to give me something else? this is… a [pamphlet], right?
 
-ohh, there will be a [photoshoot event] for this fish, yes?
+ohh, there will be a [photoshoot event] for this fishie, yes?
 
-i finished my work, so maybe i will [go] and visit them.
+i already finished my work, so maybe i will [go] and visit them.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

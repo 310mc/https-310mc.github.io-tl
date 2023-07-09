@@ -494,8 +494,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/kanata_1" id="none">x</a>
-                            <a href="minitalk/kanata_2" id="none">x</a>
+                            <a href="minitalk/kanata_1" id="none">Part One</a>
+                            <a href="minitalk/kanata_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -503,8 +503,8 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/tetora_1" id="none">x</a>
-                            <a href="minitalk/tetora_2" id="none">x</a>
+                            <a href="minitalk/tetora_1" id="none">Part One</a>
+                            <a href="minitalk/tetora_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

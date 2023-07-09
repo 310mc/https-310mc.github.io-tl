@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Reborn!"
-date: 2023-7-4 10:00:00
+date: 2023-6-30 9:05:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
@@ -493,7 +493,7 @@ those who know what their [color] is would not struggle, but… that is not the 
 {% bubble Chiaki awkward %}
 I’d never imagined that I’d hear about rules from you, Kanata, but… Yeah, in general terms, that’s how it is.
 
-It’s almost a miracle that he remained as an idol, after all.
+It’s almost a miracle that he remained as an idol with us, after all.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}

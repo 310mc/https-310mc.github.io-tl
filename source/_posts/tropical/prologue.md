@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Prologue"
-date: 2023-7-2 9:00:00
+date: 2023-6-30 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
