@@ -201,7 +201,7 @@ Ooh~… Chiaki-chin, it seemed like you’d been taking the backseat in Ryuseita
 {% endbubble %}
 
 {% bubble Rchiaki grin %}
-“That’s because I’m Taichou[^2] this time!”
+“That’s because I’m the commander[^2] this time!”
 {% endbubble %}
 
 {% bubble Nazuna curious %}

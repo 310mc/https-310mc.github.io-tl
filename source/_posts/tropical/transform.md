@@ -497,7 +497,7 @@ Yeah. For now, let’s all try and act as mascot characters.
 
 Our first lesson is to get a feel of what a “soft atmosphere” is like through acting.
 
-I’m gonna assign you all a “Tropical Island Troppeys” character roles, so act out the script on the file I prepared.
+I’m gonna assign you all a “Tropical Island Troppeys” character role, so act out the script on the file I prepared.
 
 Let’s start from Shinkai-senpai. Please act as Armajiro in a round, peaceful way…!
 {% endbubble %}
@@ -505,7 +505,7 @@ Let’s start from Shinkai-senpai. Please act as Armajiro in a round, peaceful w
 {% bubble Kanata v2 %}
 okaay~ then i will become [armajiro].
 
-“round~ round~ round up all the mess…♪”[^]
+“round~ round~ round up all the meeess…♪”[^3]
 
 was that good?
 {% endbubble %}
@@ -521,7 +521,7 @@ Okay, now it’s Shinobu-kun’s turn with Kiwi.
 {% bubble Shinobu v2 %}
 Heh, I have prepared my art of transformation just for this day. Allow me to show you the fruits of my training~♪
 
-“Kyu-kyu! I’m Kiwi-kyu~☆”[^]
+“Kyu-kyu! I’m Kiwi-kyu~☆”[^4]
 {% endbubble %}
 
 {% bubble Midori nod %}
@@ -539,7 +539,7 @@ Alright, next is Tetora-kun. Get into the feeling of being soft and act as Bearb
 {% endbubble %}
 
 {% bubble Tetora fist %}
-“Booonk, I’m Bearbonk-bonk…!”[^]
+“Booonk, I’m Bearbonk-bonk…!”[^5]
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -565,7 +565,7 @@ You need to be <em>much</em> slower and more relaxed! You won’t be fit for the
 {% bubble Chiaki grin %}
 Takamine, watch my performance, too! Look, what do you think of my Plateypus form!?
 
-“I WANNA EAT SOME TASTY FOOD-PLATEY!!!”
+“I WANNA EAT SOME TASTY FOOD-PLATEY!!!”[^6]
 {% endbubble %}
 
 {% img /img/es/eventstory/tropical/midoriorigcg.jpg %}
@@ -589,7 +589,7 @@ his love runs [deep], doesn’t it~?
 
 but to be honest, i was not doing anything particularly [different] for my performance, so maybe this all depends on the kind of [person] you are. it is likely difficult to get it right in only [one day].
 
-i do hope those two manage to express the [softness] midori wants eventually, though~?
+i do hope the two manage to express the [softness] midori wants eventually, though~?
 {% endbubble %}
 
 <div class="msr-narration">
@@ -787,7 +787,7 @@ A dance room…? Wait, don’t tell me—
 {% img /img/es/eventstory/tropical/transform4_3.jpg %}
 
 {% bubble Chiaki frustrated %}
-Sengoku, what do I have to do in order to become a soothing presence…!?
+Sengoku, what do I have to do in order to become a much more soothing presence…!?
 
 I’m not doing enough to create the atmosphere that Takamine desires! I also want to give off a gentle aura, just like you and Kanata!
 {% endbubble %}
@@ -823,7 +823,7 @@ This is a lot better already, though! I can tell you’ve loosened your muscles.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Oh, so I should try to move a little more like a mollusk would, huh?
+Oh, so I should try to move a li’l more like a mollusk would, huh?
 {% endbubble %}
 
 {% bubble Tetora grin2 %}
@@ -889,3 +889,7 @@ Okay, let’s…♪
 
 [^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they're mainly cute/soft rather than “bizarre” in their cuteness.
 [^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot's name.
+[^3]: Armajiro (<em>arumajirou</em> in Japanese) appears to speaks in a masculine-like, relaxed tone, saying <em>maaruku, maaruku, osameru zoo…♪</em> (ending speech quirk appears to be ぞお <em>zoo</em> at the end).
+[^4]: Kiwi speaks as it is written in English, and the first-person pronoun it uses is <em>boku</em>. (As a side note, Shinobu typically uses the <em>sessha</em> pronoun, and usually only uses <em>boku</em> when referring to his past, non-ninja self.)
+[^5]: Bearbonk (<em>kumagon</em> in Japanese) appears to speak in a rough/masculine-like tone, saying <em>go~n, oira wa kumagon da, gon!</em>. The first-person pronoun it uses is <em>oira</em>.
+[^6]: It's unclear what sort of tone Plateypus (<em>kamohasshii</em> in Japanese) speaks in, but the dialogue in Japanese is <em>oishii gohan ga tabetai, kamo</em>, though Chiaki adds a lot of force to it at the end. It's possible that the ending speech quirk <em>kamo</em> acts as a double wordplay with its name and the word “maybe” in Japanese (<em>kamo shirenai</em>). Unfortunately, the characters don't talk much, so it's hard to say.

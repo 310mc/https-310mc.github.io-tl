@@ -91,7 +91,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            no, it is about only [me] this time.
+            no, it is only about [me] this time.
 
             but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
 			{% endbubble %}

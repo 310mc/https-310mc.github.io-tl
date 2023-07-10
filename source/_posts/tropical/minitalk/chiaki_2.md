@@ -53,7 +53,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Tropical. From Anzu's POV."
 {% img /img/es/eventstory/tropical/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki nod %}
-<th><em>(sways left and right)</em></th> Sooftly, sooftly… Take it easy and relaaax~…♪
+<th><em>(sways left and right)</em></th> Soooftly, soooftly… Take it easy and relaaax~…♪
 
 Woah!? Anzu!? Don't tell me you saw me…
 {% endbubble %}
@@ -189,7 +189,7 @@ It's time to let aside being cool and fiery, and instead perform in a fun, cheer
             What—!? I got too excited because the performance is just about to start…
             {% endbubble %}
             {% bubble Chiaki nod %}
-            <th><em>(sways left and right)</em></th> I have to get myself back into soft-mode. Softly, sooftly~…♪
+            <th><em>(sways left and right)</em></th> I have to get myself back into soft-mode. Softly, soooftly~…♪
 			{% endbubble %}
         </div>
     </div>

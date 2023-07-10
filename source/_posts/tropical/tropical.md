@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Tropical (In Progress!)"
-date: 2023-7-8 9:00:00
+title: "[ES!!] Tropical"
+date: 2023-7-10 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
@@ -467,7 +467,7 @@ For more information on Ryuseitai's status after <a href="/supervillain" target=
                             <a href="transform" id="none">Transform!</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>

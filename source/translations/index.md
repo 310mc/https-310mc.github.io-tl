@@ -280,7 +280,7 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
         />
     </div>
     <a href="/tropical" class="storyName" target="_blank">
-        <span>Tropical (In Progress!)</span>
+        <span>Tropical</span>
         <span class="read"></span>
     </a>
 </div>
