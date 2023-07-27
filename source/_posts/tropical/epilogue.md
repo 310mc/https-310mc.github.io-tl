@@ -170,7 +170,7 @@ By the way, Takamine, I have a question…
 
 Yuruseitai seems to have kept a lot of Ryuseitai’s elements in mind, hasn’t it?
 
-I was expecting something much softer for the stage, but… was this also what you had in mind from the start?
+I was expecting something much more mascot-like for the stage, but… was this also what you had in mind from the start?
 {% endbubble %}
 
 {% bubble Midori yare %}
@@ -344,7 +344,7 @@ Ahh, I’m so depressed…
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-You seem to have surpassed your limits during Tropical Live, Takamine. But it’ll be alright! Now that you’ve conquered your duties as  commander, you can definitely do anything!
+You seem to have surpassed your limits during Tropical Live, Takamine. But it’ll be alright! Now that you’ve conquered your duties as commander, you can definitely do anything!
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -442,7 +442,7 @@ shall we take the offer? …though of course, it will be with midori as the [com
 {% bubble Midori smile6 %}
 …Okay. To be honest, I don’t know if I’m up to the standards of such a huge role, but…
 
-I’ll continue being devoted to my likes, and show the world the hero form that best defines me.
+I’ll continue devoting myself to my likes, and show the world the hero form that best defines me.
 
 After all, *I’m* the one and only commander of Yuruseitai.
 

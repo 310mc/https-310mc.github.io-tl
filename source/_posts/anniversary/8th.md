@@ -107,7 +107,7 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's the perfect use of a wide avenue.
+            It's the perfect use of a wide venue.
         </div>
         <div class="minitalk-option_content">
         {% bubble Chiaki grin %}

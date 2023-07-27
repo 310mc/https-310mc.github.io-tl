@@ -461,7 +461,7 @@ Gwaah!? Hajime-chan, don’t cling to me! It’ll be okay! Michael got himself a
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Yes, yes! I am sure that Michael-dono will not surrender to these zombies! He seems like a descendant of ninjas, after all!
+Mhm, mhm! I am sure that Michael-dono will not surrender to these zombies! He seems to be a descendant of ninjas, after all!
 {% endbubble %}
 
 {% bubble Hajime frown %}

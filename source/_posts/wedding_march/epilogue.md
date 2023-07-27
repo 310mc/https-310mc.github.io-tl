@@ -80,7 +80,7 @@ Thanks for the hard work~ …Mm? I got a message from someone.
 {% bubble Jun awkward %}
 I don’t blame Takamine-kun for thinking broccoli was my fav, though~ He gives me some from time to time, y’see.[^1]
 
-I think that’s where he got the impression that I’m a broccoli kind of guy. So yeah, could you let him know that he doesn’t have to worry about it?
+I think that’s where he got the impression that I’m a broccoli kind of guy. So yeah, could you also let him know that he doesn’t have to worry about it?
 {% endbubble %}
 
 {% bubble Chiaki %}

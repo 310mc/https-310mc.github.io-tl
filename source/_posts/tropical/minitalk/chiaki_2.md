@@ -93,7 +93,7 @@ You don't have to look so worried, I'm alright! I was just doing a final warmup 
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Yeah, I thought I may surprise you if I did that in front of you, so I came to the avenue much earlier, but…
+            Yeah, I thought I may surprise you if I did that in front of you, so I came to the venue much earlier, but…
 
             As always, you arrive ahead of time to the job, Anzu. I expect nothing less from an excellent producer!
 			{% endbubble %}

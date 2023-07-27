@@ -259,7 +259,7 @@ Don’t look around so much, it’s embarrassing… It feels like you’re stari
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-No need to be so shy! I’ve also decorated my room with all sorts of super sentai DVDs and figurines. Being passionate about your interests is a wonderful thing!
+There’s nothing to be embarrassed about! I’ve also decorated my room with all sorts of super sentai DVDs and figurines. Being passionate about your interests is a wonderful thing!
 {% endbubble %}
 
 {% bubble Midori frustrated %}
@@ -787,7 +787,7 @@ Alright, the practice room should be open to use now. We’ve played enough now;
 
 …Hm? I got a message from Anzu on Holdhands.
 
-Hmm…? “Takamine is coming soon, so please wait at the office”…?
+Hmm…? Takamine is coming soon, so we should wait at the office…?
 
 I was so engrossed in our meeting that I didn’t notice the message at all. It seems like she messaged me an hour ago, so—
 {% endbubble %}

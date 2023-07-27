@@ -252,7 +252,7 @@ Let's see… "I'm wishing you the best, Chiaki-kun"… "I love you, Chiaki-kun!"
             	{% bubble Midori %}
 							I know there's no point in me getting angry at an ad, but I'm kinda upset, like… "What the hell are you smiling over when your unit's suffering right now"…
 
-							He's supposed to be the number one person who wants to become a hero, but instead he asks to *leave* the unit? Does he ever bother to think about how *we* feel?
+							He's supposed to be the number one person who wants to be a hero, but instead he asks to *leave* the unit? Does he ever bother to think about how *we* feel?
 
 							If you're *such* a hero of justice and all, then how about you consider protecting your own comrades' feelings, huh…
 				{% endbubble %}

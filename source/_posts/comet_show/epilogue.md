@@ -325,7 +325,7 @@ Mm… There wasn’t enough time to pre-record the kaijuu’s part of the script
 
 He looked happy when he was talking about how grateful he was for the opportunity to practice his kaijuu performance, but…
 
-I bet he’d much rather become a hero… And let’s be real, a *kaijuu* role of all casting choices is the last thing his fans would consider suitable for him, sooo…
+I bet he’d much rather be a hero… And let’s be real, a *kaijuu* role of all casting choices is the last thing his fans would consider suitable for him, sooo…
 
 We need to get him out of that role already. The audience is probably freaking out over the blackout, anyway…
 
@@ -936,7 +936,7 @@ By that, I mean *you*, Nagumo. I did it precisely because I believed you were su
 {% bubble Chiaki serious %}
 No, that isn’t true. You aren’t one bit at fault here.
 
-I’m the one who made a mistake—our environment was rapidly changing due to the establishment of ES, yet I was still stubborn enough to try and stick to tradition without any prior thought.
+I’m the one who made a mistake — our environment was rapidly changing due to the establishment of ES, yet I was still stubborn enough to try and stick to tradition without any prior thought.
 
 The tradition of red inheritance doesn’t even have that long of a history. It actually started from my year.
 
@@ -948,7 +948,7 @@ I was the idiot here.
 
 I wanted to act like a hero, but in the end, it was nothing different from a foolish parent trying to make their kids follow along with their own dreams.
 
-In reality, as Takamine said, we could just wear outfits of the color we like—a color that suits who we are. And there’s nobody else in this world who’s wanted to wear the red color more than I have, ever since childhood.
+In reality, as Takamine said, we could just wear outfits of the color we like — a color that suits who we are. And there’s nobody else in this world who’s wanted to wear the red color more than I have, ever since I was young.
 
 That’s why from here on out, I’ll keep wearing the red color.
 {% endbubble %}
@@ -960,7 +960,7 @@ Then what about—…
 {% bubble Chiaki v2 %}
 You’re also free to wear the red color if you want to. And of course, you’re free to stay as black, too. You should wear the color you like.
 
-What’s important here isn’t the color of our clothes—It’s if you guys feel satisfied with yourselves enough to wear the color.
+What’s important here isn’t the color of our clothes — It’s if you guys feel satisfied with yourselves enough to wear the color.
 {% endbubble %}
 
 {% bubble Tetora sad %}
@@ -972,7 +972,7 @@ What’s important here isn’t the color of our clothes—It’s if you guys fe
 
 After all, you can’t avoid the two Ryuseitai units’ respective red colors being compared to each other.
 
-Also, while I know this is out of line to say—I’ve worked for a much, much longer time than you guys in order to become someone worthy enough to wear the red color.
+Also, while I know this is out of line to say — I’ve worked for a much, much longer time than you guys in order to become someone worthy enough to wear the red color.
 
 That’s exactly why at the moment, I’m the one people see as the more suitable member for the color. Which is only natural; we’re talking about differences in experience here.
 

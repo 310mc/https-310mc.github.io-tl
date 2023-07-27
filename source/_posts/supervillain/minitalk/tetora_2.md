@@ -118,7 +118,7 @@ Oh yeah, what did you have to do here, anyway?
             {% bubble Tetora v2 %}
             Ohh, a fan-letter for Rain-bows? Sagami-sensei's still got a buncha fans, huh?
 
-            I watched a recording of the performance, and it really surprised me to see Morisawa-senpai look so different from the usual. I didn't know he could make those expressions!
+            I watched a recording of the performance, and it really surprised me to see Morisawa-senpai look so different from the usual. I didn't know he could make those expressions![^1]
 			{% endbubble %}
         </div>
     </div>
@@ -165,7 +165,7 @@ Take care while watching over the place. Aight then, I'll see you—
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            Are these weet sheet packs? I'm not injured anywhere, though…
+            Are these wet sheet packs? I'm not injured anywhere, though…
 
             …You're giving 'em to me in case I ever end up getting hurt, 'cuz it'll help heal the wound faster? That's true. I'll take 'em, then. Thanks a bunch!
 			{% endbubble %}
@@ -177,7 +177,7 @@ Take care while watching over the place. Aight then, I'll see you—
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora awkward %}
-            Ossu! …Well, it's only me and Hiiro-kun that'll show up for circle activities today.
+            Ossu! …Well, it's only Hiiro-kun and I that'll show up for circle activities today.
 
             Our seniors didn't have the time in their schedule, sadly. Can't do much though, we're all busy with our work.
 			{% endbubble %}
@@ -198,3 +198,7 @@ Take care while watching over the place. Aight then, I'll see you—
 </div>
 <br>
 <div toc>{% btn /supervillain/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: The Planning Of That Show %}{% btn /minitalk/#Supervillain,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: This is referring to when Chiaki was in the temporary unit <a href="https://ensemble-stars.fandom.com/wiki/Rainbow" target="_blank">Rain-bows</a>.

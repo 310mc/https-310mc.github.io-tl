@@ -1015,7 +1015,7 @@ Just go play around somewhere the nicer, peaceful adults can protect ya.
 Don’t bother comin’ into the sewers here — There’s nothin’ interesting floatin’ around.
 {% endbubble %}
 
-{% img /img/es/eventstory/meteorimpact/firsthalfch6_1.jpg %}
+{% img /img/es/eventstory/meteorimpact/firsthalfch6_2.jpg %}
 
 {% bubble Chiaki mgn %}
 …………

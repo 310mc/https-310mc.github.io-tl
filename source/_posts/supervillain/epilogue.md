@@ -264,7 +264,7 @@ Aaalrighty then, let’s discuss all about it! All of us, together! Talking all 
 
 Starting with the guy who’s trying to look like he has nothing to do with this — Takamine! You’re very much involved in this, too!
 
-Let’s hear your thoughts on your ideal Ryuseitai — “Ryuseitai Green”! I want you to speak your mind without any hesitation!
+Let’s hear your thoughts on your ideal Ryuseitai — “Ryuseitai Green”![^2] I want you to speak your mind without any hesitation!
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -286,3 +286,4 @@ It really is just like us Ryuseitai to be messing around like this, right?
 
 ## Translation Notes
 [^1]: Chuunibyou are essentially kids who are really into dark, edgy things, and may even take on a persona like that.
+[^2]: If you'd like to learn more about Ryuseitai Green, please read <a href="/tropical" target="_blank">Tropical</a>, which is set after this story.
