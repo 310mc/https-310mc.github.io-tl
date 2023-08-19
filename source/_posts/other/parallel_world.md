@@ -349,7 +349,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 {% endbubble %}
 
 {% bubble Rmidori frown %}
-“<em>Ughh,</em> so loud… I hate that this guy’s tokusatsu nerdy side lit back up — probably ‘cause things finally got sorted out for our unit…”
+“<em>Ughh,</em> so annoying… I hate that this guy’s tokusatsu nerdy side lit back up — probably ‘cause things finally got sorted out for our unit…”
 {% endbubble %}
 
 {% bubble Tomoya awkward %}

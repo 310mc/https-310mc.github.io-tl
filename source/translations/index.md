@@ -835,6 +835,18 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
         <span class="read"></span>
     </a>
 </div>
+<!--<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/justthewayiam/c1.jpg"
+            alt="Just The Way I Am"
+        />
+    </div>
+    <a href="/just_the_way_i_am" class="storyName" target="_blank">
+        <span>Just The Way I Am</span>
+        <span class="read"></span>
+    </a>
+</div>-->
 </div>
 
 ## Other Stories

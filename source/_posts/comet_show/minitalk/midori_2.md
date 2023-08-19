@@ -216,7 +216,7 @@ Let's see… "I'm wishing you the best, Chiaki-kun"… "I love you, Chiaki-kun!"
 
 							I mean, I *guess* it does suit his image and all, but… since I know what he's *actually* like, I can't help but feel like everyone's being tricked…
 
-							We're talking about a guy who literally yells *"Okaa-saaaaaaaan!!!"* to the ocean, y'know…?
+							We're talking about the guy who literally yells *"Okaa-saaaaaaaan!!!"* to the ocean, y'know…?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">

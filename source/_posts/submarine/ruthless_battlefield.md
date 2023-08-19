@@ -832,7 +832,7 @@ It is a lifestyle that I am quite familiar with, as well. It reminds me of the t
 
 The way I held my chopsticks, where I placed my zabuton… There were strict rules for everything.
 
-However, if I had not followed those rules, I would not have possessed the capability to live a normal life.
+I could not live my life unless I followed those rules.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1054,7 +1054,7 @@ Though we always have one every time we work overnight for a job, I’ve lost on
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, you’re such a Hard worker, shinobu~♪
+fufufu, you are such a Hard worker, shinobu~♪
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
