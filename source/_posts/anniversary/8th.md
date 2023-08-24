@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] 8th Anniversary (In progress!)"
-date: 2023-5-12 9:00:00
+date: 2023-4-27 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

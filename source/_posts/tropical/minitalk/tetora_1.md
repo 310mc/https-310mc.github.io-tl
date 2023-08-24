@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Tetora Mini Talk: Studying Every Day"
-date: 2023/7/7 8:00:00
+date: 2023/7/1 9:02:00
 categories:
 - [Enstars, Tetora]
 tags:

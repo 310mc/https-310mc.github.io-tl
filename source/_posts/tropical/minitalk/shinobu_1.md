@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Shinobu Mini Talk: Peculiar Food Specialty"
-date: 2023/7/3 9:00:00
+date: 2023/7/1 9:06:00
 categories:
 - [Enstars, Shinobu]
 tags:

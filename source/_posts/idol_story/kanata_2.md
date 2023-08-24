@@ -67,7 +67,7 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
 
 {% img /img/es/idolstory/initial/kanata_2.jpg %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 …♪
 {% endbubble %}
 
@@ -79,7 +79,7 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
 <th>(Well, whatever… I haven’t told anyone about this, anyway. Nobody’ll realize that I’ve failed… I can move on with my life…)</th>
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 midori~
 {% endbubble %}
 
@@ -89,7 +89,7 @@ Ahhh!?
 Shinkai-senpai, since when were you here…?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 hmm, i wonder…? do you know, midori~?
 {% endbubble %}
 
@@ -99,29 +99,29 @@ Um, how should I know…? That’s why I asked you… What’re you doing here?
 Wait, you’re clearly here to take a break if you’re just resting… I’m sorry for asking the obvious…
 {% endbubble %}
 
-{% bubble Kanata %}
-i think it’s a little different from that. i’m actually waiting for miss producer to arrive.
+{% bubble Kanata v2 %}
+i think it is a little different from [that]. i am actually waiting for miss [producer] to arrive.
 
-i can’t *puka puka* here since there isn’t much water, so i was drinking the juices from the drink stand to avoid drying up.
+i cannot *puka puka* here since there is not much [water], so i was drinking [juice] from the [drink stand] to avoid drying up.
 
-i could’ve just chosen the water, but i wanted to try out the other drinks they have while i’m here.
+i could have just chosen the [water], but i wanted to try out the other [drinks] they have while i am here.
 
-i recommend the orange soda. would you like to drink one, midori?
+i recommend the [orange soda]. would you like to drink one, midori?
 {% endbubble %}
 
 {% bubble Midori %}
 Um, okay. I guess I’ll drink it… May I sit next to you? As long as I’m not in your way…
 {% endbubble %}
 
-{% bubble Kanata %}
-of course you aren’t~ you and i are a close family, right? so come sit next to me~♪
+{% bubble Kanata v2 %}
+of course you [aren’t]\~ since you and i are a close [family]. so come sit next to me\~♪
 {% endbubble %}
 
 {% bubble Midori %}
 Okay, then. *<th>(Sits down)</th>*
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 what have you been doing today, midori?
 {% endbubble %}
 
@@ -129,16 +129,16 @@ what have you been doing today, midori?
 Me? Um… Crap, I wasn’t planning on mentioning it…
 {% endbubble %}
 
-{% bubble Kanata %}
-is it a secret? now i’m even more curious.
+{% bubble Kanata v2 %}
+is it a [secret]? i am curious to hear.
 {% endbubble %}
 
 {% bubble Midori %}
 …It’s nothing big, really. Today’s my day off, so… I was exercising in the training room.
 {% endbubble %}
 
-{% bubble Kanata %}
-ah, work-outs, right? chiaki told me about it before. that’s very admirable of you, midori. good boy, gooood boy…♪
+{% bubble Kanata v2 %}
+ah, [work-outs], right? chiaki told me about it before. that is very admirable of you, midori. good boy, gooood boy…♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -153,7 +153,7 @@ That’s why I decided to work out… and I was planning on doing it starting to
 Once I actually tried it out, it was so much harder than I expected… I don’t think I can keep it up at all… I’m thinking of just quitting altogether…
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 bad boy…☆
 {% endbubble %}
 
@@ -161,14 +161,14 @@ bad boy…☆
 Oww!! Why’d you flick my forehead!?
 {% endbubble %}
 
-{% bubble Kanata %}
-midori, it’s not good to give up so easily.
+{% bubble Kanata v2 %}
+midori, it is not good to [give up] so easily.
 
-fishies all over the world have been around for four hundred million years. they did whatever they could to evolve—all for the sake of surviving in their world.
+[fishies] all over the [world] have been around for four hundred million years. they did whatever they could to [evolve]—
 
-we as humans should learn from them.
+all for the sake of surviving in their [world]. we as [humans] should learn from them.
 
-so i’d like to see you work hard for another four hundred million years, too~♪
+so i would like to see you work hard for another four hundred million years, too~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -179,7 +179,7 @@ But… you’re right. I shouldn’t quit on the very first day… I’ll try ha
 Ah, wait, that’s right! Um, Shinkai-senpai! *……puka! ☆ <th>(sideways peace)</th>*[^1]
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ummm…?
 {% endbubble %}
 
@@ -187,7 +187,7 @@ ummm…?
 Huh? Ah, um… You don’t know this? …You didn’t get what I was going for?
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 midori, do you want to *puka puka*, too~?
 {% endbubble %}
 
@@ -195,8 +195,8 @@ midori, do you want to *puka puka*, too~?
 Umm, no… I mean the aquarium. The mascot character Kanatee’s[^2] catchphrase…
 {% endbubble %}
 
-{% bubble Kanata %}
-ahhh, i remember now. you’re right, that’s their catchphrase. i’m not used to it yet, so i didn’t notice~
+{% bubble Kanata v2 %}
+ahhh, i remember now. you are right, that is its [catchphrase]. i am not used to it yet, so i did not notice~
 
 …*puka! ☆*
 {% endbubble %}
@@ -206,26 +206,26 @@ Waaaah, I got to see *“puka! ☆”* from the person himself…! It’s so muc
 
 It’s been trending on social media, so I’ve been wanting to put all my attention on Kanatee and see the real thing for myself, but…
 
-I’m insanely huge… so I’m worried I’d just get in the way of Kanatee if I went to visit them…
+I’m insanely huge… so I’m worried I’d just get in the way of Kanatee if I went to visit it…
 
-But I wanna see them so badly… Ugh, I’m so depressed… I wanna die…
+But I wanna see it so badly… Ugh, I’m so depressed… I wanna die…
 {% endbubble %}
 
-{% bubble Kanata %}
-hmm… then how about you help me with advertising for the aquarium?
+{% bubble Kanata v2 %}
+hmm… then how about you help me with [advertising] for the aquarium?
 
-kanatee’s role as a mascot is to promote aoumi aquarium, so—
+[kanatee’s] role as a [mascot] is to promote [aoumi aquarium], so—
 
-if you were to advertise with them as an idol, you wouldn’t get in their way.
+if you were to [advertise] with it as an [idol], you would not get in its way.
 {% endbubble %}
 
 {% bubble Midori %}
-Advertising… That means I’ll get to see them all I want from up close!
+Advertising… That means I’ll get to see it all I want from up close!
 
 I’ll do it. I’ll help you out in any way I can…♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 fufufu. thank you, midori~♪
 {% endbubble %}
 
@@ -234,15 +234,15 @@ No, thank <em>you</em>, Shinkai-senpai. When you didn't recognize my *puka! ☆*
 
 In the end, you never know what’ll happen until you try, right? Ahaha…♪
 
-By the way… does Kanatee have a signature? If they do, I’ll take with me a clear postcard for an autograph.
+By the way… does Kanatee have a signature? If it does, I’ll take with me a clear postcard for an autograph.
 {% endbubble %}
 
-{% bubble Kanata %}
-mmm… i never thought of a signature for them before.  …would fans of kanatee enjoy something like that?
+{% bubble Kanata v2 %}
+mmm… i never thought of a [signature] for it before.  …would [fans] of kanatee enjoy something like that?
 
-fufu, i’ll practice signing one, then.
+fufu, i will [practice] signing one, then.
 
-i think we’ll have a lot of fun promoting the aquarium with you around, midori. *puka! ☆ <th>(sideways peace)</th>*
+i think we will have a lot of fun [promoting] the aquarium with you around, midori. *puka! ☆ <th>(sideways peace)</th>*
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

@@ -1,6 +1,6 @@
 ---
 title: "[ES!] First Dreams – Hurray for a Normal Day"
-date: 2023-5-3 9:00:00
+date: 2018-12-30 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

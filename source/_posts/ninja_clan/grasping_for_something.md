@@ -512,11 +512,11 @@ Hm?
 {% img /img/es/eventstory/ninjaclan/3ch3_1.jpg %}
 
 {% bubble Chiaki v2 %}
-Heroes always arrive in the nick of time! The wind howls, the sky rages—Ryusei Red!
+Heroes always arrive in the nick of time! The wind howls, the sky rages — Ryusei Red!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-the water dances, the waves jump—ryusei blue~☆
+the water dances, the waves jump — ryusei blue~☆
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -540,7 +540,7 @@ We should definitely be doing this with the proper set-up. Sorry to ask this, bu
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, let’s do so, chiaki~ we can’t keep them waiting any longer.
+yes, let’s do so, chiaki~ we cannot keep them waiting any longer.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -620,7 +620,7 @@ Huh!? You two really *were* busy after all… I deeply apologize for asking you 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~ there’s no need to worry about that, shinobu.
+fufufu~ there is no need to worry about that, shinobu.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

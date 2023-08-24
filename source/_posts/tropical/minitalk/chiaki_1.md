@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Chiaki Mini Talk: Favorable Work"
-date: 2023/7/4 9:00:00
+date: 2023/7/1 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:

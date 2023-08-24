@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Chiaki Mini Talk: Final Warmup"
-date: 2023/7/4 9:05:00
+date: 2023/7/1 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:

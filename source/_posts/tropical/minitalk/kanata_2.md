@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Kanata Mini Talk: treasured item"
-date: 2023/7/7 7:05:00
+date: 2023/7/1 9:05:00
 categories:
 - [Enstars, Kanata]
 tags:

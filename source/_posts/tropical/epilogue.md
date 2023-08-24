@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Epilogue"
-date: 2023-7-10 8:00:00
+date: 2023-6-30 9:15:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]

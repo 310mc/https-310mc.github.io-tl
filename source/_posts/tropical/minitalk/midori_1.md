@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Midori Mini Talk: Nervous At Work"
-date: 2023/7/1 9:00:00
+date: 2023/7/1 9:08:00
 categories:
 - [Enstars, Midori]
 tags:

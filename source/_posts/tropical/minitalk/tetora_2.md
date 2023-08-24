@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Tetora Mini Talk: How A Mascot Feels"
-date: 2023/7/7 8:05:00
+date: 2023/7/1 9:03:00
 categories:
 - [Enstars, Tetora]
 tags:

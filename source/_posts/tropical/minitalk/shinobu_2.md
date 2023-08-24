@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Shinobu Mini Talk: Mascot Character Training"
-date: 2023/7/3 9:05:00
+date: 2023/7/1 9:07:00
 categories:
 - [Enstars, Shinobu]
 tags:

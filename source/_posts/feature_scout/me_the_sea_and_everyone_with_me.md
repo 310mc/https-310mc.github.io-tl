@@ -176,7 +176,7 @@ Hellooo? Shinkai-kun~?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-everyone\~ i’m over here\~♪
+everyone\~ i am over here\~♪
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -191,12 +191,12 @@ K-Kanataaaa!! What’re you doing bathing in water during the cold season!? You�
 
 {% img /img/es/idolstory/methesea/cg.jpg %}
 
-{% bubble Kanata v2 %}
-gosh, chiaki, you don’t need to panic so much all the time. please look closely—notice how there’s no water in the pool?
+{% bubble Kanata pout %}
+gosh, chiaki, you do not need to panic so much. please look closely — notice how there is no [water] in the [pool]?
 
-besides, i don’t need to fill a pool with water to bathe. there’s already a pond here.
+besides, i do not need to fill a [pool] with [water] to bathe. there is already a [pond] here.
 
-i could always go inside the pond if i ever wanted to soak in water…♪
+i could always go inside the [pond] if i ever wanted to [soak] in [water]…♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -210,13 +210,13 @@ Though, I can see balls and plushies and other stuff inside…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-well… i’ll explain that soon enough. ahem, first off…
+well… i will explain that soon enough. ahem, first off…
 
 thank you for gathering here, everyone.
 
-it took a lot of time and effort to prepare all those sequins, seashells, and fish scales on the floor, you know~ i had to go all over the place.
+it took a lot of time and effort to prepare all those [sequins], [seashells], and [fish scales] on the floor, you know~ i had to go all over the [place].
 
-and i had to do it for four people, too. it was a toughie.
+and i had to do it for [four people], too. it was a [toughie].
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -224,7 +224,7 @@ and i had to do it for four people, too. it was a toughie.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-anzu-san did a lot of work behind the scenes for me~♪
+anzu-san did a lot of work [behind] the scenes for me~♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -232,7 +232,7 @@ It was surprising to see you use sequins. Was that the Little Lady’s idea, per
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufu, bingo~ anzu-san and i were preparing a looot of stuff so that we could all do a certain thing together~
+fufu, bingo~ anzu-san and i were preparing a looot of stuff so that we could all do a [certain thing] together~
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -240,9 +240,9 @@ Certain thing…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-surprise! i’m gifting you all a ticket to participate in the fishing tournament!
+surprise! i am [gifting] you all a [ticket] to participate in the [fishing tournament]!
 
-now then, everyone, let’s fish together…♪
+now then, everyone, let’s [fish] together…♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -254,11 +254,11 @@ now then, everyone, let’s fish together…♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hmph, what’s with that look on your faces! you get to <em>fish</em>, you know? it’s lots of fun!
+hmph, what is with that [look] on your faces! you get to <em>[fish]</em>, you know? it is lots of fun!
 
-can’t you see that kanatee wants to see all of you excited to play? their round eyes are sparkling with anticipation!
+can’t you see that [kanatee] wants to see all of you excited to play? its [round] eyes are sparkling with anticipation!
 
-i’ve even prepared a prize for the winner. please play in the tournament with all your heart…♪
+i have even prepared a [prize] for the [winner]. please [play] in the tournament with all your heart…♪
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -266,11 +266,11 @@ I don’t really get what’s going on, but for the fishing tournament… Are we
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-exactly~ anzu-san and i made a lot of fishies; you can see them in the pool, right?
+exactly~ anzu-san and i made a lot of [fishies]; you can see them in the [pool], right?
 
 here we go… <th>*(gets up from the pool)*</th>
 
-anzu-san, could you pass everyone their fishing rod?
+anzu-san, could you pass everyone their [fishing rod]?
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -278,9 +278,9 @@ Woah! Since when was she holding those fishing Rods? They look Handmade…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-please use these fishing rods to catch the fishies~♪
+please use these [fishing rods] to catch the [fishies]~♪
 
-bring the fishies you catch to me. you get more points depending on the fish caught.
+bring the [fishies] you catch to me. you get more [points] depending on the fish caught.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -292,7 +292,7 @@ Hmm… What on earth is he planning…?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-ufufu, do you all have your fishing rods? then let the tournament begin…♪
+ufufu, do you all have your [fishing rods]? then let the tournament begin…♪
 {% endbubble %}
 
 ## Chapter 2
@@ -318,7 +318,7 @@ Here you go, Kanata-niisan. I caught a Clownfish.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-great job, nacchan~ you get tickets to aoumi aquarium for catching a clownfish.
+great job, nacchan~ you get [tickets] to [aoumi aquarium] for catching a clownfish.
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -330,7 +330,7 @@ Alright! I got something. I caught a starfish and coral at the same time! Isn’
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-great job to you too, kaoru~♪ i’ll gift you fresh sashimi for tonight.
+great job to you too, kaoru~♪ i will gift you fresh [sashimi] for tonight.
 {% endbubble %}
 
 {% bubble Kaoru %}
@@ -352,7 +352,7 @@ I wanted to catch the turtle, but it ended up concealing itself under the ball s
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-oh jeez, i guess i have no choice~ i’ll adjust its placement, so please give it another go.
+oh jeez, i guess i have no choice~ i will adjust its [placement], so please give it another go.
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -368,15 +368,15 @@ Yeah, I wanna catch a fish this time. I’ll try going for a big catch if possib
 
 anzu-san, what’s wrong?
 
-i look like i’m in a good mood? you’re right~ i’m so glad that everyone is having fun with what i’ve prepared for them.
+i look like i am in a [good mood]? you are right~ i am so glad that everyone is having fun with what i have prepared for them.
 
-thank you very much for helping me out with this.
+thank you very much for [helping] me out with this.
 
-it was a lot of fun drawing so many marine animals and making those fishing rods…♪
+it was a lot of fun [drawing] so many [marine animals] and making those [fishing rods]…♪
 
-so as repayment, i’d like to give you this fishing rod.
+so as [repayment], i would like to give you this [fishing rod].
 
-…you don’t recall making this one? of course not, i’m the one who made it, after all~♪
+…you do not [recall] making this one? of course not, i am the one who made [it], after all~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -396,11 +396,11 @@ You could even catch Kanatee, don’t you Think? Try aiming for the magnet on it
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~? look, rei. she’s so good at fishing…♪
+fufufu~? look, rei. she is so good at [fishing]…♪
 
-—congratulations, anzu-san. your prize for wonderfully catching kanatee is…
+—congratulations, anzu-san. your [prize] for wonderfully catching [kanatee] is…
 
-the right to think up a design for my personal outfit~♪
+the [right] to think up a design for my [personal outfit]~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -418,11 +418,11 @@ That would mean Kanata-niisan *wants* his personal outfit to be Made?
 {% bubble Kanata v2 %}
 …ehehe~♪
 
-i was waiting to see when it would be my turn even before we started preparing for the fishing tournament—
+i was [waiting] to see when it would be my turn even before we started [preparing] for the [fishing tournament]—
 
-and at one point, i heard that she was going to have time in her schedule for my outfit, so i knew i had to take the chance to plead for it before then.
+and at one point, i [heard] that she was going to have time in her [schedule] for my outfit, so i knew i had to take the chance to [plead] for it before then.
 
-after all, the rest of ryuseitai received their personal outfits~♪
+after all, the rest of ryuseitai received their [personal outfits]~♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -430,17 +430,17 @@ I did not see this coming at all, but I’m glad for you, Shinkai-kun. Little La
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes~ i’m so happy to get the okay from you…♪
+yes~ i am so happy to get the [okay] from you…♪
 
-…“you could’ve just asked me normally, though”?
+…i could have just [asked] you normally?
 
-mmm… i didn’t want you to just hear my request. i wanted to make the whole process fun before you started on it.
+mmm… i did not want you to just hear my [request]. i wanted to make the whole process fun before you started on [it].
 
-i got to see everyone smiling, and, while i felt a bit nervous, i even got to ask you to design it in a fun way.
+i got to see everyone [smiling], and, while i felt a bit nervous, i even got to [ask you] to design it in a fun way.
 
-it ended up being a good time for everyone, even more than i expected. and you were even smiling all the way… i’m so glad~♪
+it ended up being a good time for everyone, even more than i expected. and you were even [smiling] all the way… i am so glad~♪
 
-next time, if i could also have wataru, shu, and the children come over and play with a much bigger pool… i think that’ll turn out to be even more fun…♪
+next time, if i could also have wataru, shu, and the children come over and play with a much bigger [pool]… i think that will turn out to be even more fun…♪
 {% endbubble %}
 
 {% bubble Natsume %}
@@ -468,11 +468,11 @@ Hmmm… I can think of many Things, but overall I’d say the waterside comes to
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-then… how about we go to the sea?
+then… how about we go to the beach?
 
-the ocean is where things came to life, so surely ideas for my personal outfit could come to life too if we went there.
+the ocean is where [things] came to life, so surely ideas for my [personal outfit] could come to life too if we went there.
 
-come on, everyone. even anzu-san is saying that the sea is very important as part of my personal outfit~
+come on, everyone. even anzu-san is saying that the sea is very important as part of my personal [outfit]~
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -480,9 +480,9 @@ come on, everyone. even anzu-san is saying that the sea is very important as par
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~♪ then let’s tidy up and get going.
+fufufu~♪ then let’s [tidy up] and get going.
 
-let’s go search for the perfect ocean for me—
+let’s go search for the perfect [ocean] for me—
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

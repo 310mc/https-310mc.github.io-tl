@@ -269,7 +269,7 @@ Heeey, Anzu!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-we’re over here~
+we are over here~
 
 …? what’s wrong? you seem surprised.
 
@@ -283,7 +283,7 @@ You would’ve definitely taken that detour had I not found you.
 {% endbubble %}
 
 {% bubble Kanata pout %}
-hmph! you’re so boring, chiaki. anzu-san is praising me for being early for once; can’t you let me have this moment?
+hmph! you are so boring, chiaki. anzu-san is praising me for being early for once; can’t you let me have this moment?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -297,7 +297,7 @@ Mhm, I’ve heard that this is to experiment with AR live shows. I’m super exc
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-if we succeed with this experiment, we’ll be able to perform so many other things~ i’d love to have a live show within the ocean. *puka, puka~♪*
+if we succeed with this experiment, we will be able to perform so many other things~ i would love to have a live show within the ocean. *puka, puka~♪*
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -305,7 +305,7 @@ That sounds interesting! Plus, we’re a flashy action unit, so we should be com
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-hm? ahh, you’re right, anzu-san~ the three of them are late, aren’t they?
+hm? ahh, you are right, anzu-san~ the three of them are late, aren’t they?
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -533,11 +533,11 @@ Umm… do you mean like this? —Hm? Is this… a star shape?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-exactly. fufufu~ it’s like a starfish, how cute.
+exactly. fufufu~ it is like a starfish, how cute.
 
 shinobu, this is ryuseitai~ every corner represents one of your comrades.
 
-so take a deep breath and relax, relaaax~♪ remember, you won’t be standing on stage all on your own.
+so take a deep breath and relax, relaaax~♪ remember, you will not be standing on stage all on your own.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

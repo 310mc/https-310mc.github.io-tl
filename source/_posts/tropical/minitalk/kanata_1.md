@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Kanata Mini Talk: wonderful news"
-date: 2023/7/7 7:00:00
+date: 2023/7/1 9:04:00
 categories:
 - [Enstars, Kanata]
 tags:

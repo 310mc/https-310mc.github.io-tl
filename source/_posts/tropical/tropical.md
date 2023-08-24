@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Tropical"
-date: 2023-7-10 9:00:00
+date: 2023-7-8 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]

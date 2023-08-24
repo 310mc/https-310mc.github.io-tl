@@ -110,9 +110,9 @@ Yes, exactly. The reason we called you here is because we’d like you to share 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-ehh\~? we don’t need to do it this way; it’s too slow. if you so desire it, i’d make sure to do something about it for you, shinobu\~♪
+ehh\~? we do not need to do it this way; it is too slow. if you so desire it, i would make sure to do something about it for you, shinobu\~♪
 
-but please don’t hate me no matter what happens, okay…?
+but please do not hate me no matter what happens, okay…?
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -128,7 +128,7 @@ Shinkai-dono, let’s do this peacefully! Peacefully~!!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~ i’m only joking~☆ so no need to worry.
+fufufu~ i am only joking~☆ so no need to worry.
 {% endbubble %}
 
 {% bubble Shinobu frown %}

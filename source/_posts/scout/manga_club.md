@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Manga Club"
-date: 2023-6-12 9:00:00
+date: 2023-5-14 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]

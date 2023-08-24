@@ -1,6 +1,6 @@
 ---
 title: "Tropical – Midori Mini Talk: Proclaiming What I Love"
-date: 2023/7/1 9:05:00
+date: 2023/7/1 9:09:00
 categories:
 - [Enstars, Midori]
 tags:

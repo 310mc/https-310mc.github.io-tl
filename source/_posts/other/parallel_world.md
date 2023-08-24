@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Parallel World (Ryuseitai Scene ONLY!)"
-date: 2023-6-24 9:00:00
+date: 2023-6-15 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
