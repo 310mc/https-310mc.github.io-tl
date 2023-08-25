@@ -36,9 +36,18 @@ permalink: guideline/
 
 __All of the above applies ONLY to translations published on the 310mc.github.io site.__ For example, if there is a translation in here that links to a different site for a certain chapter, you must follow the terms and conditions of that translator, NOT mine.
 
-If you have any inquiries, please ask me on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a>, or send an email to 310mctranslations@gmail.com .
+If you have any inquiries, please ask me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a>, or send an email to 310mctranslations@gmail.com .
+
+## Reporting Mistakes
+
+If you ever spot a typo, mistranslation, grammar or punctuation error in my translations;
+
+Or if you spot an error (broken TL note, glitch, etc.) on the site;
+
+Please feel free to let me know by messaging me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a> or sending an email ( contact 310mctranslations@gmail.com )! I'd be happy to know of any problems in my translations or website. Thank you!
 </div>
 
+<!--
 ## Currently Working On
 
 <h2>※ Translating the following stories:</h2>
@@ -57,6 +66,7 @@ If you have any inquiries, please ask me on <a href="https://retrospring.net/@31
     </a>
 </div>
 </div>
+-->
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 

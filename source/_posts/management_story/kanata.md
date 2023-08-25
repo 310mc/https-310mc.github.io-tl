@@ -59,7 +59,7 @@ description: "[ES!] Translation of Kanata's Management Stories, featuring Tetora
 </div>
 
 {% bubble Kanata %}
-*puka, puka*…♪ the salty wind feels so nice~♪
+*puka, puka*…♪ the [salty breeze] feels so nice~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -67,7 +67,7 @@ one, two, one two…
 {% endbubble %}
 
 {% bubble Kanata %}
-oh, tetora? are you taking a walk near the beach, too?
+oh, tetora? are you taking a walk on the [beach], too?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -77,11 +77,11 @@ I'm training my body by jogging! 'Cuz working out's my hobby! Heh!
 {% endbubble %}
 
 {% bubble Kanata %}
-you're working out~? walking near the beach would be my hobby.
+you are [working out]~? walking on the [beach] would be my [hobby].
 
-it's good to work out with jogging, but how about taking it easy with a walk every once in a while?
+it's good to [work out] with jogging, but how about taking it easy with a walk every once in a while?
 
-the salty breeze feels nice, and you get to enjoy the romantic view of the sea turning red~♪
+the [salty breeze] feels nice, and you [get to] enjoy the romantic view of the [ocean] turning [red]~♪
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -91,9 +91,9 @@ You're right, it'd be a waste not to take in this view! Aighty, I'll take a walk
 {% endbubble %}
 
 {% bubble Kanata %}
-yes, that sounds good~ we still have so much more to go in our lives, after all.
+yes, that sounds good~ we still have so much more to go in our [lives], after all.
 
-there's no need to rush to the finish line, so let's take it easy~♪
+there is no need to rush to the finish line, so let's take it easy~♪
 {% endbubble %}
 
 <div toc>{% btn /management_story,, star, Index %}</div>

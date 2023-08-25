@@ -68,7 +68,7 @@ Hmm… I see.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-so you had to deal with all of that~? it must have been rough for you, shinobu.
+so you had to deal with all of that~? it must have been [rough] for you, shinobu.
 {% endbubble %}
 
 {% bubble Shinobu sad %}
@@ -96,7 +96,7 @@ We promote the Ninja Association as sincerely as possible one more time!
 {% endbubble %}
 
 {% bubble Kanata neutral %}
-mm~? what would be different about that? hasn’t shinobu been doing that all this time?
+mm~? what would be [different] about that? hasn’t shinobu been doing [that] all this time?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -110,9 +110,9 @@ Yes, exactly. The reason we called you here is because we’d like you to share 
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-ehh\~? we do not need to do it this way; it is too slow. if you so desire it, i would make sure to do something about it for you, shinobu\~♪
+ehh\~? we do not need to do it this way; it is too slow. if you so [desire] it, i would make sure to do [something] about it for you, shinobu\~♪
 
-but please do not hate me no matter what happens, okay…?
+but please do not [hate me] no matter what happens, okay…?
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -128,7 +128,7 @@ Shinkai-dono, let’s do this peacefully! Peacefully~!!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~ i am only joking~☆ so no need to worry.
+fufufu~ i am only [joking]~☆ so no need to worry.
 {% endbubble %}
 
 {% bubble Shinobu frown %}
@@ -178,7 +178,7 @@ Yeah, and if we couldn’t watch the episode in time, you’d explain what happe
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-i personally enjoy seeing chiaki having fun, so…♪
+i personally enjoy seeing chiaki having [fun], so…♪
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -252,7 +252,7 @@ Mhm, then the solution is simple. You’ll just need to show off those charms to
 {% endbubble %}
 
 {% bubble Kanata frown %}
-gosh… chiaki expresses things in such a roundabout way.
+gosh… chiaki expresses things in such a [roundabout] way.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -310,9 +310,9 @@ W-Wait a minute, you’re right…!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-ohh~ i get what chiaki was trying to say now.
+ohh~ i get what chiaki was trying to [say] now.
 
-so basically, we need to show off a ninja style that fits the modern age, yes?
+so basically, we need to [show off] a [ninja] style that fits the modern [age], yes?
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

@@ -271,9 +271,9 @@ Heeey, Anzu!
 {% bubble Kanata v2 %}
 we are over here~
 
-…? what’s wrong? you seem surprised.
+…? what’s wrong? you [seem] surprised.
 
-yes, exactly~ i was able to come on time without any detours~♪ is it really that unexpected?
+yes, exactly~ i was able to [come] on time without any [detours]~♪ is it really that [unexpected]?
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -283,7 +283,7 @@ You would’ve definitely taken that detour had I not found you.
 {% endbubble %}
 
 {% bubble Kanata pout %}
-hmph! you are so boring, chiaki. anzu-san is praising me for being early for once; can’t you let me have this moment?
+hmph! you are so [boring], chiaki. anzu-san is praising me for being early for once; can’t you let me have this [moment]?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -297,7 +297,7 @@ Mhm, I’ve heard that this is to experiment with AR live shows. I’m super exc
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-if we succeed with this experiment, we will be able to perform so many other things~ i would love to have a live show within the ocean. *puka, puka~♪*
+if we [succeed] with this experiment, we will be able to perform so many other [things]~ i would love to have a [live show] within the [ocean]. *puka, puka~♪*
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -315,7 +315,7 @@ Remember when we struggled to get him out of there after we were done with Scrol
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-oh, i remember~ there are so many of midori’s beloved mascots in there, after all.
+oh, i remember~ there are so many of midori’s [beloved mascots] in there, after all.
 {% endbubble %}
 
 <div class="msr-narration">
@@ -509,7 +509,7 @@ U-Uh-huh. Are you sure you’re okay? You’re shaking…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-shinobu, peace\~☆ come on, do it with me, peace\~☆
+shinobu, [peace]\~☆ come on, do it with me, [peace]\~☆
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -517,7 +517,7 @@ shinobu, peace\~☆ come on, do it with me, peace\~☆
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, now bring your hand down here… okay everyone, do a peace sign with me, and then connect your hands together like this.
+yes, now bring your hand down here… okay everyone, do a [peace] sign with me, and then connect your [hands] together like this.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -533,11 +533,11 @@ Umm… do you mean like this? —Hm? Is this… a star shape?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-exactly. fufufu~ it is like a starfish, how cute.
+exactly. fufufu~ it is like a [starfish], isn’t it cute?
 
-shinobu, this is ryuseitai~ every corner represents one of your comrades.
+shinobu, this is [ryuseitai]~ every corner of this [star] represents one of our [comrades].
 
-so take a deep breath and relax, relaaax~♪ remember, you will not be standing on stage all on your own.
+so take a deep breath and [relax], [relaaax]~♪ remember, you will not be standing on [stage] all on your own, okay?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -551,7 +551,7 @@ I’ll absolutely make sure to demonstrate my prowess in this live show!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, that’s the spirit~♪
+yes, that’s the [spirit]~♪
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

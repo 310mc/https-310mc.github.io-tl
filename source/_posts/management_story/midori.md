@@ -128,15 +128,15 @@ I’m so depressed… I wanna die… I’m depressed enough to try and drown mys
 {% endbubble %}
 
 {% bubble Kanata %}
-*puka, puka*…♪ oh, midori…? hello~ have you also come to bathe?
+*puka, puka*…♪ oh, midori…? hello~ have you also come to [bathe]?
 {% endbubble %}
 
 {% bubble Midori %}
-Woah—Something came out the water…! Um, Shinkai-senpai? What’re you doing in there?
+Woah— Something came out the water…! Um, Shinkai-senpai? What’re you doing in there?
 {% endbubble %}
 
 {% bubble Kanata %}
-hehehe, i’m bathing, of course~ it feels so nice to be soaked in water…♪
+fufufu, i am [bathing], of course~ it feels so [nice] to be soaked in water…♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -146,9 +146,9 @@ Um, I shouldn’t be interrupting you, so… I’m gonna leave…
 {% endbubble %}
 
 {% bubble Kanata %}
-wait a moment, midori. you’re my one hundredth guest, so.
+wait a moment, midori. you are my [one] hundredth [guest], so.
 
-as celebration, i would like to give you this macropinna plush toy~♪
+as [celebration], i would like to give you this [macropinna] plush [toy]~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -158,7 +158,7 @@ And what do you mean by one hundredth…? Were there that many depressed people 
 {% endbubble %}
 
 {% bubble Kanata %}
-i’m sorry. i’ve only been counting the people who’ve come to the fountain while i’m bathing… i don’t know if they were depressed.
+i am sorry. i have only been counting the people who have come to the fountain while i am [bathing]… i do not know if they were [depressed].
 
 never mind that. here you go~ please give them lots of love…♪
 {% endbubble %}

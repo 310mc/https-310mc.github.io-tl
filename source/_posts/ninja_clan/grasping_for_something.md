@@ -540,7 +540,7 @@ We should definitely be doing this with the proper set-up. Sorry to ask this, bu
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-yes, let’s do so, chiaki~ we cannot keep them waiting any longer.
+yes, let’s do so, chiaki~ we [cannot] keep them waiting any longer.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

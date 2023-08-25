@@ -259,7 +259,7 @@ Alright! This is a great time to invite Akehoshi and the others over, as well! F
 </div>
 
 {% bubble Chiaki %}
-Hmhmhmm…♪
+Hmhmhmm…♪ <em><th>(Humming)</th></em>
 {% endbubble %}
 
 {% bubble Kanata %}
@@ -271,7 +271,7 @@ Woah—!? You surprised me, Kanata! You're bathing in the fountain again?
 {% endbubble %}
 
 {% bubble Kanata %}
-yes~ water is my life force, after all.
+yes~ water is my [life force], after all.
 
 would you like to join me, chiaki? the water is so cold and nice~♪
 {% endbubble %}
@@ -281,7 +281,7 @@ I'm reading a book right now, so I'd rather refrain from doing so.
 {% endbubble %}
 
 {% bubble Kanata %}
-book…? what kind of book are you reading?
+[book]…? what kind of [book] are you reading?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -297,9 +297,9 @@ Why not!? Were we not brethren who share the same goal!? I believe in you, Kanat
 {% endbubble %}
 
 {% bubble Kanata %}
-i don't really know what to say to that, you know… i still don't understand heroes that well.
+i do not really know what to say to that, you know… i still do not understand heroes that well.
 
-but, i want to learn more about them. chiaki, could you read that book for me, please?
+but, i want to learn more about them. chiaki, could you read that [book] for me, please?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -307,9 +307,9 @@ I don't mind, but I may as well lend it to you. It's my own copy, so you can ret
 {% endbubble %}
 
 {% bubble Kanata %}
-um… books get drenched wet whenever i read them, so…
+um… [books] get [drenched wet] whenever i read them, so…
 
-i don't want to ruin your precious book. please do read it for me instead, chiaki.
+i do not want to [ruin] your precious [book]. please do read it for me instead, chiaki.
 {% endbubble %}
 
 {% bubble Chiaki %}
