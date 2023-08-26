@@ -336,7 +336,7 @@ I have a complex about being childish, so I’ve always wanted to achieve the lo
 Ahaha, we all walk at a different speed, y’know.
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 Ahh, you see!? You’re saying something so *mature!* It’s not fair\~! You’re getting a head start\~!
 {% endbubble %}
 

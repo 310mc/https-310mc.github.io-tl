@@ -612,7 +612,7 @@ He’d usually be really excited to get things going, and start poking his nose 
 Like, that’s how we got ourselves involved with Quarrel Festival, right…
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 Hmm… Does he not like Halloween very much? Perhaps something bad happened during last year’s Halloween Party…
 {% endbubble %}
 

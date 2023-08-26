@@ -506,7 +506,7 @@ But I’m sure Takamine will bring a new color into Ryuseitai eventually. I beli
 
 {% img /img/es/eventstory/tropical/reborn3_2.jpg %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 Midori-kun is even starting to take time away from school… It must be truly dire for him…
 
 I feel awkward barging into his home once more, but… I am a little worried about him.

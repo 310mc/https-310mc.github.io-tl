@@ -585,7 +585,7 @@ You need not worry. I am alright.
 Nope. You don't look alright one bit, that's why I’m worried about you, y’know?
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 …In just a few minutes, our time will end.
 
 I only need to endure until then, and as a ninja, I excel at that.[^6] If I say I'm okay, then it means I'm okay.

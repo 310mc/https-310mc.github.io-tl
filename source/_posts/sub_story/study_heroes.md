@@ -173,7 +173,7 @@ Right then, I’d like each of you to open the textbook of your weakest subject!
 A-Aight!
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 …………
 {% endbubble %}
 
@@ -189,7 +189,7 @@ Uuu… The very sight of it is terrifying… I am allergic to foreign languages!
 Allergic to foreign languages…?
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 Uu, I am a ninja, after all… I cannot handle such high-level English…
 {% endbubble %}
 
@@ -371,7 +371,7 @@ We can’t? We really can’t!?
 Yeah, no, I don’t wanna study with Morisawa-senpai every day, either…
 {% endbubble %}
 
-{% bubble Shinobu frown2 %}
+{% bubble Shinobu frownshake %}
 I’d rather study at home if we are at risk of missing out on practice~
 {% endbubble %}
 

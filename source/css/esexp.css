@@ -554,8 +554,8 @@
 [character="Shinobu"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frown.png");
 }
-[character="Shinobu"][frown2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frown2.png");
+[character="Shinobu"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frownshake.png");
 }
 [character="Shinobu"][frustrated] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_frustrated.png");
