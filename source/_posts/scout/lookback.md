@@ -7,7 +7,7 @@ categories:
 tags:
 - Story Index
 - Akira
-description: "[ES!!] TBA"
+description: "[ES!!] A mysterious pot placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
 permalink: test123456789/
 hidden: true
 ---
@@ -18,11 +18,11 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">STORYTITLE</div>
                 <div class="title-area__subtitle">STORYTITLE</div>
-                <div class="title-area__start"><a href="#Prologue">Start Reading</a></div>
+                <div class="title-area__start"><a href="/test123456789#Prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    海洋生物部に置かれた謎の壺から思い起こされる、在りし日の記憶。幼いころの奏汰たちが体験した『ABYSS』の謎とは――
+                    A mysterious pot placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -102,10 +102,10 @@ hidden: true
                 <div><img src="/img/es/scoutstory/heartbeatsea/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__title">STORYTITLE</div>
+                <div class="title-area__subtitle">STORYTITLE</div>
                 <div class="title-area__start">
-                    <a href="TBA">Start Reading</a>
+                    <a href="#Prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
@@ -142,11 +142,10 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Madara" character="Madara"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -231,78 +230,6 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/chiakicard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/chiakibcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/midoricard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/midoribcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
                                         <img src="/img/es/scoutstory/heartbeatsea/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
@@ -339,10 +266,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/tetoracard.jpg">
+                                        <img src="/img/es/scoutstory/heartbeatsea/madaracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/tetorabcard.jpg">
+                                        <img src="/img/es/scoutstory/heartbeatsea/madarabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -352,8 +279,8 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[] Madara Mikejima</div>
+                                    <div class="card__jp">[] 三毛縞 斑</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -375,10 +302,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/shinobucard.jpg">
+                                        <img src="/img/es/scoutstory/heartbeatsea/soumacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/shinobubcard.jpg">
+                                        <img src="/img/es/scoutstory/heartbeatsea/soumabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -388,8 +315,44 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">[] Souma Kanzaki</div>
+                                    <div class="card__jp">[] 神崎 颯馬</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--TBA--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/heartbeatsea/kaorucard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/heartbeatsea/kaorubcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[] Kaoru Hakaze</div>
+                                    <div class="card__jp">[] </div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
@@ -416,32 +379,32 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="#Prologue" id="none">Prologue</a>
                         </li>
                         <li>
                             <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
+                            <a href="#TBA" id="none">1</a>
+                            <a href="#TBA" id="none">2</a>
+                            <a href="#TBA" id="none">3</a>
+                            <a href="#TBA" id="none">4</a>
+                            <a href="#TBA" id="none">5</a>
+                            <a href="#TBA" id="none">6</a>
+                            <a href="#TBA" id="none">7</a>
                         </li>
                         <li>
                             <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
+                            <a href="#TBA" id="none">1</a>
+                            <a href="#TBA" id="none">2</a>
+                            <a href="#TBA" id="none">3</a>
+                            <a href="#TBA" id="none">4</a>
+                            <a href="#TBA" id="none">5</a>
+                            <a href="#TBA" id="none">6</a>
+                            <a href="#TBA" id="none">7</a>
+                            <a href="#TBA" id="none">8</a>
+                            <a href="#TBA" id="none">9</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="#Epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>

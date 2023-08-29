@@ -234,8 +234,7 @@ permalink: beasts/
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                    <li>                                        
-                      <li>
+                        <li>
                             <span>Center of the World</span>
                             <a href="#Center-of-the-World-1" id="none">1</a>
                             <a href="#Center-of-the-World-2" id="none">2</a>

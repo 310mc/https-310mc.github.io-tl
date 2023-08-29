@@ -47,7 +47,6 @@ Or if you spot an error (broken TL note, glitch, etc.) on the site;
 Please feel free to let me know by messaging me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a> or sending an email ( contact 310mctranslations@gmail.com )! I'd be happy to know of any problems in my translations or website. Thank you!
 </div>
 
-<!--
 ## Currently Working On
 
 <h2>※ Translating the following stories:</h2>
@@ -56,17 +55,28 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/scoutstory/heartbeatsea/kanatabcgframe_300px.jpg"
+            alt="Kanata Look Back"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Kanata Look Back</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="image">
+        <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
             alt="Graduation"
         />
     </div>
     <a href="" class="storyName" target="_blank">
-        <span>Graduation (Chiaki scenes only!)</span>
+        <span>Graduation (Chiaki scenes only!)<br>On hold</span>
         <span class="read soon"></span>
     </a>
+</div>-->
 </div>
-</div>
--->
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
