@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] STORYTITLE"
+title: "[ES!!] ABYSS"
 date: 2023-8-30 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -7,8 +7,8 @@ categories:
 tags:
 - Story Index
 - Akira
-description: "[ES!!] A mysterious pot placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
-permalink: test123456789/
+description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
+permalink: ABYSS/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,13 +16,13 @@ hidden: true
         <div class="preview-background" style="background-image: url('/img/es/scoutstory/heartbeatsea/kanatabcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">STORYTITLE</div>
-                <div class="title-area__subtitle">STORYTITLE</div>
-                <div class="title-area__start"><a href="/test123456789#Prologue">Start Reading</a></div>
+                <div class="title-area__title">ABYSS</div>
+                <div class="title-area__subtitle">ABYSS</div>
+                <div class="title-area__start"><a href="/ABYSS#Prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    A mysterious pot placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
+                    A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -30,7 +30,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Winter, present time & 13 years ago, winter.
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -38,7 +38,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            16
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -102,8 +102,8 @@ hidden: true
                 <div><img src="/img/es/scoutstory/heartbeatsea/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">STORYTITLE</div>
-                <div class="title-area__subtitle">STORYTITLE</div>
+                <div class="title-area__title">ABYSS</div>
+                <div class="title-area__subtitle">ABYSS</div>
                 <div class="title-area__start">
                     <a href="#Prologue">Start Reading</a>
                 </div>
@@ -114,55 +114,55 @@ hidden: true
                 </div>
                 <div class="info">
                     <div class="info-item season">
-                        <div class="label">
-                            Season
-                        </div>
-                        <div class="value">
-                            TBA
-                        </div>
+                    <div class="label">
+                        Season
                     </div>
-                    <div class="info-item chapters">
-                        <div class="label">
-                            Chapters
-                        </div>
-                        <div class="value">
-                            TBA
-                        </div>
+                    <div class="value">
+                        Winter, present time & 13 years ago, winter.
                     </div>
-                    <div class="info-item writer">
-                        <div class="label">
-                            Writer
-                        </div>
-                        <div class="value">
-                            TBA
-                        </div>
+                </div>
+                <div class="info-item chapters">
+                    <div class="label">
+                        Chapters
                     </div>
-                    <div class="info-item characters">
-                        <div class="label">
-                            Characters
-                        </div>
-                        <div class="value">
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Madara" character="Madara"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
-                        <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-                        </div>
+                    <div class="value">
+                        16
                     </div>
-                    <div class="info-item tl">
-                        <div class="label">
-                            Translation
-                        </div>
-                        <div class="value">
-                          <a href="/about">310mc</a>
-                        </div>
+                </div>
+                <div class="info-item writer">
+                    <div class="label">
+                        Writer
                     </div>
-                    <div class="info-item pr">
-                        <div class="label">
-                            Proofreading
-                        </div>
-                        <div class="value">
-                            TBA
-                        </div>
+                    <div class="value">
+                        Akira
+                    </div>
+                </div>
+                <div class="info-item characters">
+                    <div class="label">
+                        Characters
+                    </div>
+                    <div class="value">
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Madara" character="Madara"></a>
+                    <a href="/categories/Enstars/Souma" character="Souma"></a>
+                    <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                    </div>
+                </div>
+                <div class="info-item tl">
+                    <div class="label">
+                        Translation
+                    </div>
+                    <div class="value">
+                        <a href="/about">310mc</a>
+                    </div>
+                </div>
+                <div class="info-item pr">
+                    <div class="label">
+                        Proofreading
+                    </div>
+                    <div class="value">
+                        ryuseipuka
+                    </div>
                     </div>
                 </div>
                 <div class="extra-area">
@@ -412,3 +412,9 @@ hidden: true
         </div>
     </div>
 </div>
+
+
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
+
+## Chapter
