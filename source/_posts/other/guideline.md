@@ -55,7 +55,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/scoutstory/heartbeatsea/kanatabcgframe_300px.jpg"
+            src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
             alt="Kanata Look Back"
         />
     </div>

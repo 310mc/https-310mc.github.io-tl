@@ -8,12 +8,12 @@ tags:
 - Story Index
 - Akira
 description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
-permalink: ABYSS/
+permalink: test123456789/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/heartbeatsea/kanatabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/scoutstory/abyss/kanatabcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">ABYSS</div>
@@ -30,7 +30,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            Winter, present time & 13 years ago, winter.
+                            Present (Winter) & 13 Years Ago (Winter)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -96,10 +96,10 @@ hidden: true
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/heartbeatsea/kanataorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/abyss/kanataorigcg1.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/scoutstory/heartbeatsea/kanatabcgframe.jpg"></div>
+                <div><img src="/img/es/scoutstory/abyss/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">ABYSS</div>
@@ -110,7 +110,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -118,7 +118,7 @@ hidden: true
                         Season
                     </div>
                     <div class="value">
-                        Winter, present time & 13 years ago, winter.
+                        Present (Winter) & 13 Years Ago (Winter)
                     </div>
                 </div>
                 <div class="info-item chapters">
@@ -196,23 +196,23 @@ hidden: true
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/heartbeatsea/kanataorigcg.jpg">
+                                    <img src="/img/es/scoutstory/abyss/soumaorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    The sea of ⬛⬛, trickling down 1
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/heartbeatsea/soumaorigcg.jpg">
+                                    <img src="/img/es/scoutstory/abyss/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    The sea of ⬛⬛, trickling down 6
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/heartbeatsea/madaraorigcg.jpg">
+                                    <img src="/img/es/scoutstory/abyss/madaraorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -230,10 +230,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/kanatacard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/kanatabcard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -244,19 +244,19 @@ hidden: true
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__jp">[ひみつのうみ] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--しんかいのこどう--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--とくべつなしずく--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--たいくつなかみ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -266,10 +266,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/madaracard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/madaracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/madarabcard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/madarabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -280,19 +280,19 @@ hidden: true
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Madara Mikejima</div>
-                                    <div class="card__jp">[] 三毛縞 斑</div>
+                                    <div class="card__jp">[味方する海] 三毛縞 斑</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--満ち干く鼓動--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--輪を描く滴--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--正義の勲章--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -302,10 +302,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/soumacard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/soumacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/soumabcard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/soumabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -316,19 +316,19 @@ hidden: true
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Souma Kanzaki</div>
-                                    <div class="card__jp">[] 神崎 颯馬</div>
+                                    <div class="card__jp">[果てない海] 神崎 颯馬</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--染み渡る鼓動--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--残していく滴--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--自由な時間--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -338,10 +338,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/kaorucard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/kaorucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/heartbeatsea/kaorubcard.jpg">
+                                        <img src="/img/es/scoutstory/abyss/kaorubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -352,19 +352,19 @@ hidden: true
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Kaoru Hakaze</div>
-                                    <div class="card__jp">[] </div>
+                                    <div class="card__jp">[風そよぐ海] 羽風 薫</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--波なぞる鼓動--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--側にいる滴--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--今ある幸せ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -379,32 +379,13 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="#Prologue" id="none">Prologue</a>
+                            <a href="first_half" id="none">The sea of ⬛⬛, trickling down (Chapter 1–8)</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="#TBA" id="none">1</a>
-                            <a href="#TBA" id="none">2</a>
-                            <a href="#TBA" id="none">3</a>
-                            <a href="#TBA" id="none">4</a>
-                            <a href="#TBA" id="none">5</a>
-                            <a href="#TBA" id="none">6</a>
-                            <a href="#TBA" id="none">7</a>
+                            <a href="second_half" id="none">The sea of ⬛⬛, trickling down (Chapter 9–12)</a>
                         </li>
                         <li>
-                            <span>TBA</span>
-                            <a href="#TBA" id="none">1</a>
-                            <a href="#TBA" id="none">2</a>
-                            <a href="#TBA" id="none">3</a>
-                            <a href="#TBA" id="none">4</a>
-                            <a href="#TBA" id="none">5</a>
-                            <a href="#TBA" id="none">6</a>
-                            <a href="#TBA" id="none">7</a>
-                            <a href="#TBA" id="none">8</a>
-                            <a href="#TBA" id="none">9</a>
-                        </li>
-                        <li>
-                            <a href="#Epilogue" id="none">Epilogue</a>
+                            <a href="second_half#Epilogue-1" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -412,9 +393,3 @@ hidden: true
         </div>
     </div>
 </div>
-
-
-## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Epilogue">Epilogue</a> - <a href="#Translation-Notes">Translation Notes</a>
-
-## Chapter
