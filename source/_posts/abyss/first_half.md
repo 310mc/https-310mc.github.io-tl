@@ -1,5 +1,5 @@
 ---
-title: "ABYSS – The Sea of ⬛, Trickling Down (Chapter 1–8)"
+title: "ABYSS – The Sea Of ⬛, Trickling Down (Chapter 1–8)"
 date: 2023-9-3 9:00:00
 categories:
 - [Enstars, Madara]
@@ -61,7 +61,7 @@ hidden: true
 
 <div toc>
 {% btn /abyss,, star, Index %}
-{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea of ⬛, Trickling Down (Chapter 9–12) & Epilogue %}
+{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
 </div>
 
 ## Chapter 1
@@ -546,10 +546,222 @@ God is also weird; am I the ooonly one here who’s proper?
 I mean, I knew that already, buuut… Things really are crazy over here, huh…
 {% endbubble %}
 
+## Chapter 3
+
+{% img /img/es/scoutstory/abyss/3_1.jpg %}
+
+<div class="msr-narration">
+    <p>A few minutes later. In the mansion, at the far end of the funeral venue…</p>
+</div>
+
+{% bubble Madara kid %}
+Alright, mission start!
+
+Right, God, listen carefully. We’re now undercover agents. We’re gonna sneak in without anyone noticing us, and destroy the secret weapon the adults are hiding.
+
+I saw a movie like that once.
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+movie… i do not understand, but what is important is that mikejima seems to be having fun.
+
+kanata is having fun, too. does this mean… this is, fun?
+
+kanata feels shaky.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+That’s ‘cause God is usually holed up inside that dark liiittle den. Just being able to move your body around must feel good.
+{% endbubble %}
+
+{% bubble Kanata kidsigh2 %}
+it is tiring, though. kanata’s legs feel heavy.
+{% endbubble %}
+
+{% bubble Madara kid %}
+I’ll carry ya on my back.
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+that is most helpful. mikejima is a good kid~
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+It’s just ‘cause I’d hate to get dragged down and fail the mission after how long it took to get here. It’d be especially bad if my parents caught us. They’ll probably get super angry at me.
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+kanata apologizes for such a troublesome request, mikejima.
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+I don’t miiind. I get how you feel, aaand I’m having fun as well.
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+<th>(—The other day, “Kanata-kun’s” mom passed away — the one who was worshiped as a living god in our religion.)</th>
+
+<th>(Today is her funeral. As for me, I’m trying to get Kanata-kun to at least meet with her remains, ‘cause the pitiful Kanata-kun unfortunately couldn’t get to meet her in her final moments.)</th>
+{% endbubble %}
+
+{% bubble Madara kidsrsthinking %}
+<th>(Yeah… I’m not wrong to do this, am I? This is justice, riiight?)</th>
+
+<th>(I’m an ally of justice who saves pitiful kids.)</th>
+
+<th>(I’m <em>nothing</em> like my father and mother.)</th>
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+…mikejima?
+
+what is wrong? is kanata heavy?
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Nope, you’re suuuper light! Are you sure you’re eating enough food?
+{% endbubble %}
+
+{% bubble Kanata kid %}
+kanata is eating, but… kanata is performing shōjin kessai.[^4]
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+Shōjin-what now?
+{% endbubble %}
+
+{% bubble Kanata kid %}
+shōjin kessai.
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+Mhm, dunno it! I don’t think about things I don’t know!
+
+I’ll look it up on the net later. Anyway, the remains should be in the room right at the end of the hall.
+
+But it’s the remains of God, so there might be people patrolling the place in case someone tries to mess around.
+
+If there’s anyone like that, I’ll act as a decoy and attract their attention.
+
+That’s when you can sneak inside the room and meet with your mother, Kanata-san.[^5]
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+mm. that is most helpful, mikejima.
+
+thank you for always being kind to kanata.
+{% endbubble %}
+
+{% bubble Kanata kidsigh %}
+kanata would like to repay you, but kanata is not god yet, so kanata cannot do anything. how useless…
+{% endbubble %}
+
+{% bubble Madara kidsmug %}
+I don’t need any repayment! I’m just doing what’s natural to do as a human being! Heh~♪
+{% endbubble %}
+
+{% bubble Kanata kidnorthinking %}
+i see. this is natural for a human being.
+
+being kind to someone is natural.
+{% endbubble %}
+
+{% bubble Kanata kidsmilesoft2 %}
+then, kanata loves human beings.
+{% endbubble %}
+
+{% bubble Souma kidangry %}
+<th>(...What are those two doing? They managed to run away earlier, but I am going to get an explanation from them this time!)</th>
+
+<th>(They are sneaking about in the corners of this mansion… Are they thieves? Then I shall punish them for their misconduct! It will act as revenge for the uncouth behavior earlier, as well!)</th>
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+<th>(However… Looking at them again, they truly are strange.)</th>
+
+<th>(Especially that blue-haired child… What is that pompous attire?)</th>
+
+<th>(It does not appear to be what a regular human would wear.)</th>
+
+<th>(It is much more like that of an exorcist’s from an illustrated, fictional story; or a celestial maiden, or even a god—)</th>
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+<th>(...God? Ah, didn’t that child call oneself “God”...?)</th>
+{% endbubble %}
+
+{% bubble Kanata kid %}
+human child.
+{% endbubble %}
+
+{% bubble Souma kidshocked %}
+…!? Huh!? W-When did you appear behind me!?
+
+A blunder once again! I did not notice any presence!
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+shh~… silence. kanata does not understand much, but it seems that it will be a problem if kanata is caught right now.
+
+it is called hide-and-seek. do you understand?
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+Hide-and-seek…?
+{% endbubble %}
+
+{% bubble Kanata kidsmile2 %}
+mm. one must hide without being caught. look, this place should be good.
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+I-I must hide behind this cabinet? Even me? Why?
+
+<th>(Wait, is this child simply from the neighborhood? It seems that a hide-and-seek game is occuring—...)</th>
+
+<th>(Oh yes, didn’t I find this child concealed out of sight earlier?)</th>
+{% endbubble %}
+
+{% bubble Souma kidnorsmile %}
+<th>(That is a relief, then.)</th>
+{% endbubble %}
+
+{% bubble Souma kidfrown2 %}
+<th>(No, no, no, wait. No normal child would be casually walking around in such strange attire.)</th>
+
+<th>(There is something about this child that is not normal.)</th>
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+ah, mikejima is calling. so, kanata must go now.
+{% endbubble %}
+
+{% bubble Souma kidsurprised %}
+Ah— Wait—
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+there, there. ♪
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+…? W-Why are you patting me?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+does it no longer hurt? our mikejima was rude earlier, was he not?
+{% endbubble %}
+
+{% bubble Kanata kidsmilesoft %}
+but. please forgive mikejima.
+
+because, mikejima is always doing the right thing.
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
-{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea of ⬛, Trickling Down (Chapter 9–12) & Epilogue %}
+{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
 </div>
 
 ## Translation Notes
@@ -557,3 +769,5 @@ I mean, I knew that already, buuut… Things really are crazy over here, huh…
 [^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*dearu*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
 [^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, likely due to how short his sentences are (so there's no need to separate the words from each other). He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. In comparison, present Kanata speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
 [^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
+[^4]: TBA
+[^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
