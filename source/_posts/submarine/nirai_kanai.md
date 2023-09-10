@@ -481,7 +481,7 @@ I-I think you’d have sounded way cooler if you said that in a cool way, you kn
 {% endbubble %}
 
 {% bubble Midori worried %}
-Now Shinobu-kun’s vocabulary is reverting to six year old level… That’s basically like saying “my headache hurts”…
+Now Shinobu-kun’s vocabulary is reverting to six year old level… That’s basically like saying “my headache aches”…
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
@@ -1226,7 +1226,7 @@ In the end, we have to grit our teeth through unreasonable circumstances, knowin
 {% endbubble %}
 
 {% bubble Tetora frown %}
-That’s not something *you* should be saying, and it kinda peeves me off hearing it from you… It feels like you're just lecturing a spoiled kid who doesn't listen.
+That’s not something *you* should be saying, and it kinda peeves me hearing it from you… It feels like you're just lecturing a spoiled kid who doesn't listen.
 
 But at the same time… you’ve got a point. The worst thing you can do is to give up. Not everything’s gonna turn out the way you want it to, so you have to persevere, overcome, and move on.
 
@@ -1238,7 +1238,7 @@ It’s not “I”, it’s “we”, Tetora-kun.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Yeah! *All for one, one for all!* We, Ryuseitai, are always of one mind!
+Yeah! *All for one, and one for all!* We, Ryuseitai, are always of one mind!
 {% endbubble %}
 
 {% bubble Chiaki %}

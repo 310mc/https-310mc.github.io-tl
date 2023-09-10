@@ -199,7 +199,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/abyss/soumaorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    The sea of ⬛⬛, trickling down 1
+                                    The Sea of ⬛, Trickling Down 1
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -207,7 +207,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/abyss/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    The sea of ⬛⬛, trickling down 6
+                                    The Sea of ⬛, Trickling Down 6
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -379,10 +379,10 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="first_half" id="none">The sea of ⬛⬛, trickling down (Chapter 1–8)</a>
+                            <a href="first_half" id="none">The Sea of ⬛, Trickling Down (Chapter 1–8)</a>
                         </li>
                         <li>
-                            <a href="second_half" id="none">The sea of ⬛⬛, trickling down (Chapter 9–12)</a>
+                            <a href="second_half" id="none">The Sea of ⬛, Trickling Down (Chapter 9–12)</a>
                         </li>
                         <li>
                             <a href="second_half#Epilogue-1" id="none">Epilogue</a>

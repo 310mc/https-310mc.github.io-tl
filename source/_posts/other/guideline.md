@@ -56,11 +56,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="image">
         <img
             src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
-            alt="Kanata Look Back"
+            alt="ABYSS – Look back –"
         />
     </div>
     <a href="" class="storyName" target="_blank">
-        <span>Kanata Look Back</span>
+        <span>ABYSS – Look back –</span>
         <span class="read soon"></span>
     </a>
 </div>

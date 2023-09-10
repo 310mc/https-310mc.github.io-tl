@@ -127,7 +127,7 @@ Lately, Midori-kun’s been a real man ‘bout things — He does the job when i
 {% endbubble %}
 
 {% bubble Kanata nod %}
-mhm, mhm. that is just another part of [growth]~
+mhm, mhm. that is just another part of [growing]~
 
 even if it turns out midori is not suited to be the [commander], it would still have been a good [experience], and it is still better than [sticking] to the [status quo].
 
