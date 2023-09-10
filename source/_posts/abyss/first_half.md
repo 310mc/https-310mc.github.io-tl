@@ -247,7 +247,7 @@ Gwafuh!?
 {% endbubble %}
 
 {% bubble Madara kidsmilesoft %}
-Woooops, I got ahead of myself and punched him, but who even is this kid? Do you know, God?[^3]
+Whooops, I got ahead of myself and punched him, but who even is this kid? Do you know, God?[^3]
 {% endbubble %}
 
 {% bubble Kanata kid %}
@@ -274,6 +274,278 @@ Sooorry~ It was a liiittle tough to figure out a sneaky entry route—
 <th>(…………)</th>
 {% endbubble %}
 
+## Chapter 2
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Yumenosaki Academy’s Marine Life Club Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/2_1.jpg %}
+
+<div class="msr-narration">
+    <p>Present time. First year of ES’s establishment, early February…</p>
+</div>
+
+{% bubble Kaoru awkward %}
+Man, that was seriously a disaster, Souma-kun!
+{% endbubble %}
+
+{% bubble Souma sigh %}
+…………
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+That seriously freaked me out~ I show up to the club room after so long, and the first thing I see is you collapsed on the floor, covered in blood.
+
+I thought a murder happened here, y’know? I almost called the police.
+{% endbubble %}
+
+{% bubble Souma %}
+…You are unreasonably noisy as always, Hakaze-dono. Is there any way you could shut that mouth of yours?
+{% endbubble %}
+
+{% bubble Kaoru serious %}
+You don’t sound so good, Souma-kun. You okay? Are you anemic?
+{% endbubble %}
+
+{% bubble Souma yare %}
+I am ashamed of myself. Of all people to see me in this unsightly shape, it is Hakaze-dono…
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Aww, there’s nothing to be ashamed of, though~ It was just an accident, right?
+
+Right, what was it… You were cleaning the club room, when something like an urn fell on your head, right?
+{% endbubble %}
+
+{% bubble Souma sigh2 %}
+Mm… Truly a disaster.
+
+Even though I actually conduct myself in a proper manner every day, unlike you…
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+I’ve been taking things seriously lately, too~ Really, I mean it! I’ve been so serious that my old fans have been spreading a theory that I’ve been replaced by someone else.
+{% endbubble %}
+
+{% bubble Souma frown %}
+Hmph. You are obviously not someone else. You may have been frivolous for a long span of time, but you had virtue, as well.
+
+If they are truly spreading such rumors, then it can be assumed that they do not know you as a person.
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+Souma-kun, are you growing to understand me? *Me?*
+{% endbubble %}
+
+{% bubble Souma frown %}
+…No, I do not understand you. Not now, nor in the past.
+
+A blockhead like me, able to understand others… Something like that is but a dream.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+What’s wrong? You’re really gloomy~ There isn’t really anyone in the Marine Life Club as always, so are you feeling lonely all by yourself? Should I show up more often?
+{% endbubble %}
+
+{% bubble Souma glare %}
+That is unwarranted help. How exhausting.
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+Um, I’m just worried about you…
+{% endbubble %}
+
+{% bubble Souma frown %}
+I haven’t fallen so far down so as to need your worry.
+
+Nevertheless, Hakaze-dono, perhaps there is purpose in your arrival.
+
+Help me with tidying the club room. I was knocked unconscious by an unnecessary accident, so nothing has been cleaned up yet.
+{% endbubble %}
+
+{% bubble Kaoru yare %}
+Ehh~ What a pain…
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Souma glares</p>
+</div>
+
+{% bubble Kaoru awkward %}
+Ah, um, yes, got it, I’ll help.
+
+Don’t glare at me, it’s scary… You’ll cause misunderstandings if you do that, okay?
+{% endbubble %}
+
+{% bubble Souma %}
+I was not glaring at you. However, I could not help but stare at the urn that fell on me — I feel as though I’ve seen it before.
+
+Ahh, I remember; it was the funeral venue of that day.
+
+This urn looks exactly the same as the one in that funeral venue— No, rather, I feel that it is somewhat similar to it.
+{% endbubble %}
+
+{% bubble Kaoru shocked %}
+Ueh!? Hold on, *what!?* An urn from a funeral venue…? That means…
+{% endbubble %}
+
+{% bubble Souma %}
+Indeed, this may be a cremation urn.
+{% endbubble %}
+
+{% bubble Kaoru surprised %}
+Ueeehhh… W-Why’s there something like <em>that</em> in our club room!?
+{% endbubble %}
+
+{% bubble Souma %}
+Perhaps the previous club president, Shinkai-dono, left it behind accidentally?
+
+No, no matter how little common sense he may have, there is no way he would casually take such an important item out of his household.
+{% endbubble %}
+
+{% bubble Souma frown %}
+Mm~ What a mystery…
+
+Actually, he is the very definition of mystery to me, be it now or long ago…
+{% endbubble %}
+
+{% img /img/es/scoutstory/abyss/2_2.jpg %}
+
+{% bubble Kanata kidsleeping %}
+zz, zz…♪
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+God\~ God\~ Wake up!
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+ouh…
+
+kanata has told you before, mikejima. kanata is not god yet.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Mhm, you’re not God, you’re a little baby. Sooo why were you asleep?
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+kanata does not know why, either. kanata fell asleep without realizing.
+
+kanata is easily influenced by humans. kanata is easily dyed, like water.
+
+that is why, being by this sleeping child made kanata sleep… maybe.
+{% endbubble %}
+
+{% bubble Souma kidsleeping %}
+…………
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+Who even is he? I punched him out of reflex ‘cause he was about to touch God, buuut…
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+Well, whatever. Anyway, I got eeeverything prepared.
+
+Just like I thought, the old men are starting to talk to each other at the banquet, to decide what to do next.
+
+We might be able to sneak off to see the remains if we go now.
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+kanata can meet mother?
+{% endbubble %}
+
+{% bubble Kanata kidfrownshake %}
+ah— no. kanata must not call her by “mother”. kanata will be scolded.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+It doesn’t make sense that they get angry over that. What’s wrong with calling your mother by “mother”?
+{% endbubble %}
+
+{% bubble Kanata kidsad3 %}
+but. mother is god.
+
+……mother is god. so why did mother die?
+
+do you know, mikejima?
+
+kanata does not.
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+I dunno why, either. I’m an idiot, after aaall~
+
+I’m pretty incompetent, unlike my little sister. They always scold me while saying that.
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+always being scolded. both kanata and mikejima.
+{% endbubble %}
+
+{% bubble Madara kidsmile %}
+Mhm, that’s why we were able to become friends.
+{% endbubble %}
+
+{% bubble Souma kidfrownshake %}
+Mm… Mmm~…?
+{% endbubble %}
+
+{% bubble Madara kidshocked %}
+Uh-oooh, this kid’s about to wake up.
+{% endbubble %}
+
+{% bubble Madara kid %}
+Should I hit him agaaain? Enjoy your time in dreamlaaand~♪
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+c-cease doing anything scary. kanata shivers when seeing you hit humans.
+
+this child has not done anything wrong. you must not hit.
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+Sure, sure. As God commands~♪
+{% endbubble %}
+
+{% bubble Souma kidsurprised %}
+……Y-You two, who are you?
+{% endbubble %}
+
+{% bubble Madara kidsurprised %}
+Oh crap! Ugh, now he’s awake!
+{% endbubble %}
+
+{% bubble Souma kidglare %}
+Y-You ruffian… I will call over an adult!
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+We can’t have thaaat…
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+Fuhaha! Okay, I’ve got nooo choice! I’ll just have to keep your mouth shut — permanently~♪
+{% endbubble %}
+
+{% bubble Souma kidscold %}
+Y-You dare try to kill me!? C-Curse you, y-you barbarian!
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+The heck… He talks weird.
+
+God is also weird; am I the ooonly one here who’s proper?
+{% endbubble %}
+
+{% bubble Madara kidyare %}
+I mean, I knew that already, buuut… Things really are crazy over here, huh…
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
@@ -282,6 +554,6 @@ Sooorry~ It was a liiittle tough to figure out a sneaky entry route—
 
 ## Translation Notes
 
-[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*dearu*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe) instead of a more formal/old-fashioned way.
+[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*dearu*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
 [^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, likely due to how short his sentences are (so there's no need to separate the words from each other). He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. In comparison, present Kanata speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
-[^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence.
+[^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.

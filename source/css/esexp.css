@@ -1303,13 +1303,28 @@
 /** Souma Expressions
 ***/
 [character="Souma"][angry] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/soumapast_angry.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_angry.png");
 }
 [character="Souma"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_frown.png");
 }
+[character="Souma"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_frown2.png");
+}
+[character="Souma"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_glare.png");
+}
+[character="Souma"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_sigh.png");
+}
+[character="Souma"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_sigh2.png");
+}
 [character="Souma"][worried] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/soumapast_worried.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_worried.png");
+}
+[character="Souma"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_yare.png");
 }
 [character="Souma"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma.png");
