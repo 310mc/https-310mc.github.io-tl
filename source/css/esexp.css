@@ -1181,6 +1181,9 @@
 [character="Kaoru"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_awkward.png");
 }
+[character="Kaoru"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_curious.png");
+}
 [character="Kaoru"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_frown.png");
 }
@@ -1190,11 +1193,17 @@
 [character="Kaoru"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_idle.png");
 }
+[character="Kaoru"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_northinking.png");
+}
 [character="Kaoru"][sad] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_sad.png");
 }
 [character="Kaoru"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_serious.png");
+}
+[character="Kaoru"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_shocked.png");
 }
 [character="Kaoru"][sideeye] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_sideeye.png");
@@ -1213,6 +1222,9 @@
 }
 [character="Kaoru"][surprised2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_surprised2.png");
+}
+[character="Kaoru"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_yare.png");
 }
 [character="Kaoru"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru2.png");
@@ -1360,6 +1372,9 @@
 [character="Souma"][kidgrin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidgrin.png");
 }
+[character="Souma"][kidheh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidheh.png");
+}
 [character="Souma"][kidnorsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidnorsmile.png");
 }
@@ -1378,11 +1393,17 @@
 [character="Souma"][kidshocked] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidshocked.png");
 }
+[character="Souma"][kidsigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidsigh.png");
+}
 [character="Souma"][kidsigh2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidsigh2.png");
 }
 [character="Souma"][kidsleeping] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidsleeping.png");
+}
+[character="Souma"][kidsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidsmile.png");
 }
 [character="Souma"][kidsmilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidsmilesoft.png");

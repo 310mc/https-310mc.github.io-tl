@@ -627,7 +627,7 @@ kanata is eating, but… kanata is performing shōjin kessai.[^4]
 {% endbubble %}
 
 {% bubble Madara kidserious %}
-Shōjin-what now?
+Shojin-what now?
 {% endbubble %}
 
 {% bubble Kanata kid %}
@@ -789,7 +789,7 @@ So what are you getting at…? Is it just that you met two strange kids at someo
 Ahh, no, I forgot to mention their names, but… I believe the children I encountered were Shinkai-dono and Mikejima-dono.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru northinking %}
 Oh yeah, those two are childhood friends, aren’t they?
 {% endbubble %}
 
@@ -1120,7 +1120,7 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
 
 <th>(Mm~? What has Father been talking about for the past while?)</th>
 
-<th>(“Abisu”? What is “Abisu”?)</th>
+<th>(“Abisu”? What is “Abisu”?)[^]</th>
 
 <th>(Father and the guest keep saying that word.)</th>
 
@@ -1140,7 +1140,7 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
 
 <th>(Erm, it means “hell” in English.)</th>
 
-<th>(Or it can mean the “deep”— How do I read this kanji again? Umm, I believe I saw it in one of my books, and struggled with it even then, so I had to look it up on the dictionary as well…?)</th>
+<th>(It also means the “deep”— How do I read this kanji again? Umm, I believe I saw it in one of my books, and struggled with it even then, so I had to look it up on the dictionary as well…?)</th>
 
 <th>(Ah, that’s right! “Abyss”! <em>Abisu</em> means the “deep abyss”!)</th>[^8]
 
