@@ -1,5 +1,5 @@
 ---
-title: "ABYSS – The Sea Of ⬛, Trickling Down (Chapter 1–8)"
+title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 1–8)"
 date: 2023-9-3 9:00:00
 categories:
 - [Enstars, Madara]
@@ -671,7 +671,7 @@ then, kanata loves human beings.
 {% endbubble %}
 
 {% bubble Souma kidangry %}
-<th>(...What are those two doing? They managed to run away earlier, but I am going to get an explanation from them this time!)</th>
+<th>(…What are those two doing? They managed to run away earlier, but I am going to get an explanation from them this time!)</th>
 
 <th>(They are sneaking about in the corners of this mansion… Are they thieves? Then I shall punish them for their misconduct! It will act as revenge for the uncouth behavior earlier, as well!)</th>
 {% endbubble %}
@@ -687,7 +687,7 @@ then, kanata loves human beings.
 {% endbubble %}
 
 {% bubble Souma kidcurious %}
-<th>(...God? Ah, didn’t that child call oneself “God”...?)</th>
+<th>(…God? Ah, didn’t that child call oneself “God”…?)</th>
 {% endbubble %}
 
 {% bubble Kanata kid %}
@@ -717,7 +717,7 @@ mm. one must hide without being caught. look, this place should be good.
 {% bubble Souma kidcurious %}
 I-I must hide behind this cabinet? Even me? Why?
 
-<th>(Wait, is this child simply from the neighborhood? It seems that a hide-and-seek game is occuring—...)</th>
+<th>(Wait, is this child simply from the neighborhood? It seems that a hide-and-seek game is occuring—…)</th>
 
 <th>(Oh yes, didn’t I find this child concealed out of sight earlier?)</th>
 {% endbubble %}
@@ -758,6 +758,404 @@ but. please forgive mikejima.
 because, mikejima is always doing the right thing.
 {% endbubble %}
 
+## Chapter 4
+
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains mentions of child abuse.</p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Yumenosaki Academy’s Marine Life Club Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/4_1.jpg %}
+
+<div class="msr-narration">
+    <p>Back to the present…</p>
+</div>
+
+{% bubble Souma %}
+That is everything that I witnessed.
+{% endbubble %}
+
+{% bubble Kaoru yare %}
+Mhm. I dunno if my comprehension level’s low, or your explanation’s bad, but it doesn’t really make any sense.
+
+So what are you getting at…? Is it just that you met two strange kids at someone’s funeral long ago, or…?
+{% endbubble %}
+
+{% bubble Souma %}
+Ahh, no, I forgot to mention their names, but… I believe the children I encountered were Shinkai-dono and Mikejima-dono.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Oh yeah, those two are childhood friends, aren’t they?
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+Kanata-kun often happily talks about “Mikejima” this or “Mikejima” that, so there was a time I was kinda jealous.
+
+Not that there’s really any point to feeling jealous… I can’t win against something that’s been built up for so long.
+{% endbubble %}
+
+{% bubble Souma %}
+Indeed… I could have also been in such a position, but I would continue to only cross paths with them, you see.
+
+My family is not typically involved with Shinkai-dono’s household in the first place. Mikejima-dono’s household is full-time work, whereas we, the Kanzaki household, are much more akin to part-time work.
+{% endbubble %}
+
+{% bubble Kaoru frown %}
+I don’t really get it. You really are bad at explaining, aren’t you, Souma-kun?
+{% endbubble %}
+
+{% bubble Souma glare %}
+You’re simply slow-witted.
+
+Either way, that matters not… What is important here is the supposed “cremation urn” that hit my head.
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+Ahh, yeah. So is that really a cremation urn?
+{% endbubble %}
+
+{% bubble Souma %}
+I do not know… I mustered the courage to open the lid and check inside, but…
+
+To my surprise, it was empty. There were no ashes or remains of the departed.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Ah, really? Whew. It’s not all gross or anything, but—
+
+I seriously didn’t wanna think that we’d spent three years in this club room, without ever realizing that the remains of someone we don’t know were in here, too.
+
+But really, I just don’t get it. What <em>is</em> this urn, then?
+{% endbubble %}
+
+{% bubble Souma %}
+It’s unclear, but I believe it has some connection to Shinkai-dono’s household.
+
+Look, it has their family crest— Well, I am not sure if I can call it that, but there is a symbol carving that identifies the urn as theirs.
+
+It is considered impious for other households — or rather, for human beings — to use it.
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+You explain it like Kanata-kun isn’t a human being, huh…
+{% endbubble %}
+
+{% bubble Souma %}
+I do not know how much you know about them, but Shinkai-dono’s family is a peculiar household.
+
+And to the unusual Shinkai clan — The Kanzaki household and Mikejima-dono’s household are subordinates.
+
+I would like you to understand those relationships between us, at the very least.
+
+Shinkai-dono is like the lord, and we are like the vassals.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Mhm. We’re a pretty old household too, so I know there are some anachronic relationships like that to this day.
+{% endbubble %}
+
+{% bubble Kaoru yare %}
+We’re all modern kids, so it all sounds absurd, y’know~ But I know it holds a heavy weight to some people.
+
+So yeah, even if it’s something you can’t understand, you still gotta respect it.
+{% endbubble %}
+
+{% bubble Souma v3 %}
+That is the correct mindset to have. You have pleasant things to say sometimes, Hakaze-dono.
+{% endbubble %}
+
+{% bubble Kaoru grin %}
+Oh? Souma-kun complimented me! What a rarity, maybe it’ll even rain tomorrow?[^6]
+{% endbubble %}
+
+{% bubble Souma frown %}
+Do not make a fool of me… Regardless, this is a peculiar twist of fate.
+{% endbubble %}
+
+{% bubble Kaoru serious %}
+What do you mean? Could you not use such outdated terminology for everything?
+{% endbubble %}
+
+{% bubble Souma %}
+There was a similar uproar back then, too.
+
+A case that was supposed to contain the remains, ashes, or corpse of the deceased— was found to be empty when the lid was opened.
+
+It may be a mere coincidence, but strangely, the scenarios overlap.
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+Mm? I thought this was gonna be a locked-room murder, but it’s actually a vanishing body twist?
+{% endbubble %}
+
+{% bubble Souma curious %}
+What are you talking about?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+The drama I’m acting in is your typical mystery, so~
+{% endbubble %}
+
+{% bubble Souma v3 %}
+Fufu. It is easy to be influenced by the roles we play in our work. Whenever I work as an actor, I grow emotionally attached to the role I am playing, and become one with it.
+
+I remember a specific moment when this occurred to me, as well. Just the other day, when I returned to my family's home, I accidentally uttered a harsh line from a role I had played in a movie—
+
+And my mother and little brother were frightened of me, saying “Our eldest son became a delinquent!”
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Sounds like an interesting story, but we’re going waaay off-topic here~
+{% endbubble %}
+
+{% bubble Souma %}
+Mm, my apologies…
+
+…As I mentioned earlier, it seems that at the time, Shinkai-dono and Mikejima-dono’s aim was to visit the remains of the figure who passed away.
+{% endbubble %}
+
+{% bubble Kaoru serious %}
+But the remains they were trying to meet disappeared — is what happened?
+{% endbubble %}
+
+{% bubble Souma %}
+It seems so. When Shinkai-dono and Mikejima-dono opened the coffin and peeked in, they did not find any body laid to rest there.
+
+Naturally, everyone in the area caused a huge uproar.
+{% endbubble %}
+
+{% bubble Souma frown %}
+Because of that, not only were the two who secretly went to see the remains suspected of being the culprits who hid it— But I, also, was suspected, as I was in the vicinity.
+
+I was severely chastised and interrogated, and for a while I was even forbidden to roam about freely.
+
+And naturally, for that exact reason, I lost contact with Shinkai-dono and Mikejima-dono, whom I did not typically have much interaction with.
+{% endbubble %}
+
+{% bubble Kaoru shocked %}
+Woah, woah, wait. Isn’t that <em>way</em> too severe!? I doubt you were the culprits behind it, and even if you were, you were just *kids.*
+
+You were *chastised…*? That’s so awful. It’s way too old-fashioned.
+{% endbubble %}
+
+{% bubble Souma yare %}
+It was only as far as a spanking, though. It was the first time I saw my father with such a terrifying expression, that I have nightmares of it to this day.
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+Ahh~ The more old-fashioned a family is, the scarier the dad, right? He comes from a time when the patriarchy was strong, after all. I totally getcha, it’s the same thing in my family~
+{% endbubble %}
+
+{% bubble Souma smilesoft %}
+Fufu. Perhaps we have a few things in common, more than expected.
+
+Had I noticed sooner, we could have had some engaging topics to discuss.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+True. We probably could’ve spent our days like normal high school kids, having fun badmouthing our teachers and parents.
+{% endbubble %}
+
+{% bubble Souma glare %}
+There is not a single chance I’d ever badmouth my parents! I truly cannot get along with you after all…!
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+This kid’s real tricky…
+{% endbubble %}
+
+{% bubble Souma %}
+Well, that is of no matter right now. This is simply in defense of my father rather than a continuation of the topic, but he was furious with me for a reason.
+
+The missing remains belonged to a figure that, at the time, was worshiped as a living god for a religion.
+{% endbubble %}
+
+{% bubble Kaoru northinking %}
+Religion, huh… I did vaguely hear about how Kanata-kun’s family is something like that.
+{% endbubble %}
+
+{% bubble Souma %}
+So you only vaguely know about it? Well, it is probably not an interesting story to get deeply involved with.
+
+Regardless, since you are aware of that, I will cut the explanation short. To put it simply, it is not merely a story about how the remains disappeared.
+
+It is about how <em>God</em> disappeared. The very foundation of our hearts.
+
+It is only natural that it caused a huge uproar.
+
+And to make matters worse… Shortly after that, further strange events began to occur—
+{% endbubble %}
+
+## Chapter 5
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Kanzaki Souma Residence</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/5_1.jpg %}
+
+<div class="msr-narration">
+    <p>Flashback — Right after the funeral of Shinkai Kanata’s mother…</p>
+</div>
+
+{% bubble Souma kidserious %}
+“Written Statement of Repentance”
+
+“I, Kanzaki Souma, failed to obey my parents’ instructions, and in my profli…”
+
+P… Pr… Prof-li-ga-t…
+{% endbubble %}
+
+{% bubble Souma kidsmile %}
+Ah, “profligate”. There it is. ♪
+
+<th>(Mm, you can find anything in a dictionary.)</th>
+
+<th>(I must use the correct verbiage, or my feelings will not be properly conveyed.)</th>
+
+<th>(Perhaps it would be wise to carry a dictionary with me from now on.)</th>
+
+<th>(A dictionary in my right hand, and the katana in my left.)</th>
+
+<th>(Mhm, I would be unstoppable. ♪)</th>
+
+<th>(Though, they are both too heavy for my stature, as I am still small…)</th>
+
+<th>(And that katana — my family’s heirloom that I will one day inherit — is a heritage I can only gaze at from afar during Shinto rituals. It is forbidden to even touch it.)</th>
+{% endbubble %}
+
+{% bubble Souma kidsmilesoft %}
+<th>(However, I hope to someday become someone worthy of equipping such possessions.)</th>
+
+<th>(A reputable samurai who rightly carries a sword on his waist.)</th>
+
+<th>(And that is another reason why I must reflect on myself and train more right now.)</th>
+{% endbubble %}
+
+{% bubble Souma kidnorthinking %}
+Let’s see… “and in my profligate behavior, violated a taboo, and disgraced my family name.”
+
+“Henceforth, I swear that I will reflect upon myself and amend my behavior, so that I never make the same error again.”
+
+Mhm, it is complete. The content and brushwork are excellent — I am quite satisfied with this.
+
+Now to deliver this to Fathe—
+
+<th>(Mm? Is there a guest? Father is speaking to someone…?)</th>
+
+<th>(I mustn’t disturb them, so I shall wait a bit. I do not want to be berated again.)</th>
+
+…Oh, there is a cat in the garden.
+{% endbubble %}
+
+{% bubble Souma kidgrin %}
+What a preciously adorable calico cat.[^7]
+
+Now, now, you will not find fish here. You will need to go someplace else if you would like to hunt some.
+
+You will get severely reprimanded if you trifle with a human’s belongings~ You naughty kitty.
+
+<th>(Mm… I do not mean to eavesdrop, but Father’s voice is so loud that I can somewhat hear what they are discussing.)</th>
+{% endbubble %}
+
+{% bubble Souma kidworried %}
+<th>(…H-Hold on, my name was mentioned. How embarrassing…! Is he complaining about his inadequate son in front of the guest…?)</th>
+
+<th>(Father~! I have properly reflected on myself! I will never repeat the same mistake again!)</th>
+
+<th>(Please forgive me alrea— Mm?)</th>
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+<th>(“God”? Did you say “God,” Father?)</th>
+
+<th>(—As I understand it, the strange child I encountered at the funeral venue that day is God.)</th>
+
+<th>(That child certainly did have such an air, that the notion of it is explicable.)</th>
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+<th>(And although my household is not to do with a shrine, but rather one of samurai, it seems that we have been involved in Shinto rituals for generations.)</th>
+
+<th>(I have had the opportunity to observe many Shinto rituals myself, and I have gone through various kinds of training all for this very reason—)</th>
+
+<th>(It is all to ensure that, when the time comes, I will hold the ritual dedicated to God safely.)</th>
+
+<th>(Father has not stated any of this, but that appears to be the case.)</th>
+
+<th>(And on that day, I unknowingly encountered an eminent being whom I will eventually serve.)</th>
+
+<th>(An upper-class, superior being that is forbidden to speak to.)</th>
+{% endbubble %}
+
+{% bubble Souma kidsigh %}
+<th>(Therefore, it is only natural that I was reprimanded. Were this any generation earlier, even decapitation would be a lenient punishment — For I had done something unforgivable.)</th>
+
+<th>(I have reflected on myself properly… I swear to never defile God’s eyes ever again.)</th>
+{% endbubble %}
+
+{% bubble Souma kidsad4 %}
+<th>(Ah, but that God was wearing a blindfold of some sort, so I was likely not visible to the eye…)</th>
+
+<th>(Which feels a little lonely to think about…)</th>
+{% endbubble %}
+
+{% bubble Souma kidnorsmile %}
+<th>(God’s fingertips that touched my head that day were gentle, soft, and warm.)</th>
+
+<th>(Even when I was not aware that that being was God — I felt something sacred towards that being.)</th>
+
+<th>(Is that what God is meant to be?)</th>
+
+<th>(If so, then is it not wonderful to serve and worship God?)</th>
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+…Mm?
+
+<th>(Mm~? What has Father been talking about for the past while?)</th>
+
+<th>(“Abisu”? What is “Abisu”?)</th>
+
+<th>(Father and the guest keep saying that word.)</th>
+
+<th>(There is an extraordinary air to their conversation… It is as if they are military commanders about to head to a great battle. How magnificent.)</th>
+
+<th>(But what *is* “Abisu”? I have never heard of this word.)</th>
+{% endbubble %}
+
+{% bubble Souma kidheh %}
+<th>(Heh, however… In my hand is a dictionary!)</th>
+
+<th>(I can search for any words I do not know immediately. It is crucial that I identify everything around me that I do not know, and grow to understand all of it.)</th>
+
+<th>(A… Ab… Abisu. Abisu… Oh, there it is.)</th>
+
+<th>(Its meaning is…?)</th>
+
+<th>(Erm, it means “hell” in English.)</th>
+
+<th>(Or it can mean the “deep”— How do I read this kanji again? Umm, I believe I saw it in one of my books, and struggled with it even then, so I had to look it up on the dictionary as well…?)</th>
+
+<th>(Ah, that’s right! “Abyss”! <em>Abisu</em> means the “deep abyss”!)</th>[^8]
+
+<th>(The pitch-dark depths, extremely deep within the ocean.)</th>
+
+<th>(It also means the “deep sea”?[^9] Hmhm, how enlightening.)</th>
+{% endbubble %}
+
+## Chapter 6
+
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains mentions of child abuse.</p>
+</div>
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
@@ -767,7 +1165,11 @@ because, mikejima is always doing the right thing.
 ## Translation Notes
 
 [^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*dearu*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
-[^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, likely due to how short his sentences are (so there's no need to separate the words from each other). He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. In comparison, present Kanata speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
+[^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
 [^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
 [^4]: TBA
 [^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
+[^6]: This is said when something happening is so rare, that it might be a sign of an unlikely rain.
+[^7]: TBA
+[^8]: 深淵
+[^9]: TBA

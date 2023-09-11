@@ -1,5 +1,5 @@
 ---
-title: "ABYSS – TBA (Chapter 9–12) & Epilogue"
+title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue"
 date: 2023-9-3 9:00:00
 categories:
 - [Enstars, Madara]
@@ -60,7 +60,7 @@ hidden: true
 <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Epilogue-1">Ep 1</a> - <a href="#Epilogue-2">Ep 2</a> - <a href="#Epilogue-3">Ep 3</a> - <a href="#Epilogue-4">Ep 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
-{% btn /abyss/first_half,, arrow-left, Next Chapter: TBA (Chapter 1–8) %}
+{% btn /abyss/first_half,, arrow-left, Previous Chapter: The Sea Of ⬛ Trickling Down (Chapter 1–8) %}
 {% btn /abyss,, star, Index %}
 </div>
 
@@ -68,7 +68,7 @@ hidden: true
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /abyss/first_half,, arrow-left, Next Chapter: TBA (Chapter 1–8) %}
+{% btn /abyss/first_half,, arrow-left, Previous Chapter: The Sea Of ⬛ Trickling Down (Chapter 1–8) %}
 {% btn /abyss,, star, Index %}
 </div>
 
