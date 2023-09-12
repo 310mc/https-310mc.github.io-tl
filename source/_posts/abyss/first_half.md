@@ -1,6 +1,6 @@
 ---
 title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 1–8)"
-date: 2023-9-3 9:00:00
+date: 2023-9-12 9:05:00
 categories:
 - [Enstars, Madara]
 - [Enstars, Kanata]
@@ -10,7 +10,6 @@ tags:
 - Scout Story
 - Akira
 description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -61,7 +60,7 @@ hidden: true
 
 <div toc>
 {% btn /abyss,, star, Index %}
-{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
+<!--{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}-->
 </div>
 
 ## Chapter 1
@@ -409,6 +408,10 @@ Mm~ What a mystery…
 
 Actually, he is the very definition of mystery to me, be it now or long ago…
 {% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Funeral Venue</span></p>
+</div>
 
 {% img /img/es/scoutstory/abyss/2_2.jpg %}
 
@@ -768,8 +771,6 @@ because, mikejima is always doing the right thing.
 <div class="msr-location">
     <p><span><b>Location:</b> Yumenosaki Academy’s Marine Life Club Room</span></p>
 </div>
-
-{% img /img/es/scoutstory/abyss/4_1.jpg %}
 
 <div class="msr-narration">
     <p>Back to the present…</p>
@@ -1574,13 +1575,13 @@ mmrph… this is a serious request, you know…
 
 ## Chapter 8
 
-{% note location %}
-**Location:** Yumenosaki’s Marine Life Club Room
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Yumenosaki’s Marine Life Club Room</span></p>
+</div>
 
-{% note narration %}
-Present time…
-{% endnote %}
+<div class="msr-narration">
+    <p>Present time…</p>
+</div>
 
 {% bubble Souma shocked %}
 …!? Get down, Hakaze-dono!
@@ -1614,7 +1615,7 @@ We’re in a peaceful era of Japan, y’know~ I’m not the weird one here — i
 —Hahaha! Too bad, so sad! I couldn’t throw a surprise attack on ya!
 {% endbubble %}
 
-{% bubble Kaoru %}
+{% bubble Kaoru v2 %}
 Oh, speak of the devil; it’s Mikejima-kun!
 {% endbubble %}
 
@@ -1766,26 +1767,30 @@ The case’s gonna expire soon anyway, and it’s way too heavy a burden to carr
 That was a conspiracy created by a secret organization that existed in our religion, and that organization was called “ABYSS”.
 {% endbubble %}
 
+{% note narration %}
+Translation in progress! (8/16 Chapters)
+{% endnote %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
-{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
+<!--{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}-->
 </div>
 
 ## Translation Notes
 
-[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*de-aru*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
-[^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
+[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (<em>de-aru</em>). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like <em>kana</em> (maybe), instead of a more formal/old-fashioned way.
+[^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (<em>kanata</em> instead of his first-person pronoun in the present time, <em>boku</em>). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying <em>kudasai</em> when asking someone to do something).
 [^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
-[^4]: TBA
+[^4]: Shōjin kessai, known as a purification ritual, is to abstrain from consumption of food for the sake of purifying or clearing the soul and body.
 [^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
 [^6]: This is said when something happening is so rare, that it might be a sign of an unlikely rain.
-[^7]: TBA
-[^8]: TBA
-[^9]: 深淵
-[^10]: TBA
-[^11]: TBA
-[^12]: TBA
-[^13]: TBA
-[^14]: TBA
-[^15]: TBA
+[^7]: Calico cat is called <em>mikeneko</em> (三毛猫) in Japanese, the same kanji for <em>mike</em>-jima.
+[^8]: This is written in hiragana, implying it's a non-Japanese word (in this case, it's an English word).
+[^9]: The word here is <em>shin-en</em> (深淵), the Japanese word for abyss.
+[^10]: This is the same word as Kanata's last name, <em>shinkai</em>, which also means deep sea.
+[^11]: A shrine priest, to be exact, also known as the head/manager priest in charge of rituals (<em>guuji</em>).
+[^12]: Ebisu is the <a href="https://en.wikipedia.org/wiki/Ebisu_(mythology)" target="_blank">Japanese god of fishing</a>.
+[^13]: Also translated as “bad thing” or “villain” in other translations.
+[^14]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Myriad_of_Colors_and_Flowers" target="_blank">Myriad of Colors and Flowers</a>.
+[^15]: The word used here is <em>shin-en</em>, which was mentioned in Chapter 5.

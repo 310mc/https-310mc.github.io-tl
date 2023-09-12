@@ -1,15 +1,15 @@
 ---
-title: "[ES!!] ABYSS"
-date: 2023-8-30 9:00:00
+title: "[ES!!] ABYSS (In Progress!)"
+date: 2023-9-12 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Marine Life Club]
 tags:
 - Story Index
+- Scout Story
 - Akira
 description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
-permalink: test123456789/
-hidden: true
+permalink: abyss/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -18,7 +18,7 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">ABYSS</div>
                 <div class="title-area__subtitle">ABYSS</div>
-                <div class="title-area__start"><a href="/ABYSS#Prologue">Start Reading</a></div>
+                <div class="title-area__start"><a href="/abyss/first_half">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -105,7 +105,7 @@ hidden: true
                 <div class="title-area__title">ABYSS</div>
                 <div class="title-area__subtitle">ABYSS</div>
                 <div class="title-area__start">
-                    <a href="#Prologue">Start Reading</a>
+                    <a href="first_half">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
@@ -215,7 +215,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/abyss/madaraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    The Sea Of ⬛ Trickling Down 10
                                 </div>
                             </div>
                         </div>

@@ -56,11 +56,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="image">
         <img
             src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
-            alt="ABYSS – Look back –"
+            alt="ABYSS"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
-        <span>ABYSS – Look back –</span>
+    <a href="/abyss" class="storyName" target="_blank">
+        <span>ABYSS (In Progress!)</span>
         <span class="read soon"></span>
     </a>
 </div>
