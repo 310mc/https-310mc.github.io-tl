@@ -539,7 +539,7 @@ if you were to spoil them right now… they would surely become unable to walk b
 {% bubble Kanata smile3 %}
 on this [land], being unable to [walk] is the same as being unable to [live].
 
-looong ago, the one who told me that was you… wasn't it?
+looong ago, the one who told me that… was chiaki, wasn't it?
 {% endbubble %}
 
 {% bubble Chiaki scold %}

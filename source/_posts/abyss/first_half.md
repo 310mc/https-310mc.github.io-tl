@@ -1120,7 +1120,7 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
 
 <th>(Mm~? What has Father been talking about for the past while?)</th>
 
-<th>(“Abisu”? What is “Abisu”?)[^]</th>
+<th>(“Abisu”? What is “Abisu”?)[^8]</th>
 
 <th>(Father and the guest keep saying that word.)</th>
 
@@ -1142,11 +1142,11 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
 
 <th>(It also means the “deep”— How do I read this kanji again? Umm, I believe I saw it in one of my books, and struggled with it even then, so I had to look it up on the dictionary as well…?)</th>
 
-<th>(Ah, that’s right! “Abyss”! <em>Abisu</em> means the “deep abyss”!)</th>[^8]
+<th>(Ah, that’s right! “Abyss”! <em>Abisu</em> means the “deep abyss”!)</th>[^9]
 
 <th>(The pitch-dark depths, extremely deep within the ocean.)</th>
 
-<th>(It also means the “deep sea”?[^9] Hmhm, how enlightening.)</th>
+<th>(It also means the “deep sea”?[^10] Hmhm, how enlightening.)</th>
 {% endbubble %}
 
 ## Chapter 6
@@ -1156,6 +1156,424 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
     <p>The following chapter contains mentions of child abuse.</p>
 </div>
 
+<div class="msr-location">
+    <p><span><b>Location:</b> Abode of God</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/kanataorigcg.jpg %}
+
+<div class="msr-narration">
+    <p>At the same time, at a facility for the religious group — Known as “Abode of God”…</p>
+</div>
+
+{% bubble Kanata kidglare %}
+bored\~ bored, bored\~ boooreeed\~
+
+so bored, kanata could melt.
+
+……what is mikejma doing.
+
+god is bored, you know.
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+—Did you call for this Mikejma here, O Holy God?
+{% endbubble %}
+
+{% bubble Kanata kidsurprised %}
+wah?
+{% endbubble %}
+
+{% bubble Madara kid %}
+Just kidding. Heya, you suuure look bored, God.
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+mikejima.
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+mikejimaa~…♪
+
+—wah! unh?
+{% endbubble %}
+
+{% bubble Madara kidshocked %}
+Are you alright!? You trip a lot, God… You a little kid?
+{% endbubble %}
+
+{% bubble Kanata kidsigh %}
+uu. kanata is still not used to this place… kanata does not know where everything is, so kanata tripped and fell.
+
+it hurts… kanata hit one’s forehead. it is throbbing.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+If you’re God, then you need to bear with it.
+{% endbubble %}
+
+{% bubble Kanata kidsad4 %}
+mm… it is as mikejima says. kanata will bear with it.
+{% endbubble %}
+
+{% bubble Kanata kidsobbing %}
+*<th>(sniff, sobs)</th>*… but, it hurts… maybe bearing with it is, not possible…
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+Ahh~ You’re bleeding… Don’t move, I’ll disinfect it.
+
+I also get into fights a lot with my paren— I mean, the bad guys, and get injured. That’s why I always carry first aid with me so I can do basic treatment.
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+injured? are you alright?
+
+kanata is the one who tripped, but mikejima seems to be in pain, too.
+
+did mikejima’s father and mother scold mikejima again?
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+Ahh~ Well, yeah, they’re still nagging me about what happened the other day.
+
+Like, “why did you *ever *think it was a good idea to take the very being you’re supposed to protect outside?” and stuff.
+
+My parents were also criticized a lot by other worshipers, apparently. So basically, they’re just whining ‘cause their reputation was damaged.
+
+That’s basically what it means when you’re told to “never cause trouble for others.”
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+there, there.
+{% endbubble %}
+
+{% bubble Madara kidglare %}
+…Were you even listening to me, God?
+
+Don’t pat me. The disinfectant liquid on your hand is dripping down on me, and making my eyes sting.
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+sorry. but mikejima seemed to be suffering.
+
+do not cry… mikejima did nothing wrong.
+
+everything is kanata’s fault. because kanata wanted to meet mother.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+I’m not crying, and we didn’t even get to meet her in the end, which seeeriously sucks.
+
+Nothing went right. The entire mission was a failure.
+
+But… Why <em>did</em> the remains disappear, anyway…?
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+kanata does not know. however, the chief priest[^11] — as in, father — said it was the abyss’s doing.
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+I dunno or care if it’s Abyss or Ebisu[^12], but does it even <em>actually</em> exist in the first place?
+{% endbubble %}
+
+{% bubble Kanata kidsigh %}
+kanata does not know that, either… kanata is not god yet, so kanata does not know anything.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+Hmph… Whatever, anyway — You’re saying that I didn’t do anything wrong, but it <em>is</em> naturally my fault as well, y’know?
+
+That’s why I got reprimanded. I broke a taboo, after all.
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+taboo… why is kanata not allowed to go outside?
+
+is it because kanata could trip and get hurt? and therefore, everyone is worried for kanata?
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+It’s probably ‘cause the air of mystique would fade away. God is distant, always hidden behind the bamboo blinds, or anything similar.
+
+And ‘cause God can’t be seen, the delusions grow stronger, giving the impression that God is very sacred.
+
+Those misconceptions by the worshipers are what keeps this religion alive, that’s all.
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+That’s why you, who will eventually become God, are hidden from the world. ‘Cause if anyone were to meet you in person, they'd find out that you’re  a dumb and stupid kid, just like me.
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+dumb? stupid? what do these words mean?
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+It means pretty and cute!
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+ah, kanata understands… good, then. ehehe~♪
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+Mm~ God really is dumb… So dumb that it’s amusing.
+{% endbubble %}
+
+{% bubble Kanata kidehen %}
+praise kanata more. worship kanata more\~ ehe, ehe\~♪
+{% endbubble %}
+
+{% bubble Madara kid %}
+Haha. …Aaalright, I’m done treating ya. But as always, your hair is sooo long that it was hard to do. It’s a real hindrance~
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+mm. kanata also thinks it is a hindrance.
+
+when sleeping, kanata sometimes accidentally eats the strands, and it becomes difficult to breathe. it is a problem. kanata will die if kanata cannot breathe.
+{% endbubble %}
+
+{% bubble Madara kid %}
+I’ll cut your hair in secret eventually.
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+it is not allowed. one must not cut one’s hair. nor take off this blindfold.
+
+it is forbidden. if the taboo is broken, mikejima will be scolded again.
+
+kanata does not want mikejima to be scolded… to be hurt or sad.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+I see… Thank you.
+
+But I really just can’t leave you as you are right now, y’know~?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+kanata is satisfied. it is boring, but mikejima makes it go away.
+{% endbubble %}
+
+{% bubble Kanata kidsad4 %}
+but. that is exactly why kanata was so scared that kanata might not see mikejima ever again.
+{% endbubble %}
+
+{% bubble Madara kid %}
+You’re such a spoiled kid, God~ Do you feel lonely without me?
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+that should be obvious.
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+I see. …Buuut the thing is, it’s actually forbidden to meet with God. I sneaked out of my cram classes again to come here.
+
+I already understand every single thing from elementary school, so it’s boooring. That’s why I came over to play.
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+w-will you be alright? mikejima broke a taboo again? you will be scolded…
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+I’ll be fine as long as they don’t find out~ Hahaha!
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+when kanata becomes god, kanata will change many regulations. kanata will make sure no scolding happens, even when mikejima and kanata are getting along together.
+
+so wait a bit. it will be okay.
+
+you probably only need to be patient for a little longer.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft2 %}
+I see. Then I’ll wait without expecting too much.
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+mm. keep that expectation.
+
+it will all be okay. because god does not lie.
+{% endbubble %}
+
+{% bubble Chapter %}
+7
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+*<th>(munch, munch munch, munch munch)</th>*…♪
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+There, there, is it tasty? They juuust launched these snacks.
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+it is tasty. the things mikejima always brings are tasty, so kanata likes them.
+{% endbubble %}
+
+{% bubble Madara kid %}
+Snacks, yeah?
+
+Well, that makes sense — you’re not usually given any proper food, ‘cause you say you gotta do that shojin kessai…
+{% endbubble %}
+
+{% bubble Madara kidsmug %}
+Ah— I know what “shojin kessai” means now, ‘cause I thoroughly looked it up!
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+mm. kanata will become god. so shojin kessai is necessary.
+{% endbubble %}
+
+{% bubble Madara kid %}
+When you become God, you might not be allowed to eat snacks anymore, y’knoow?
+
+In fact, if I never snuck any snacks over here for you, I feel like God would’ve neeever gotten in contact with any snacks or entertainment.
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+mm… but, well, that is unavoidable. that is what it means to be god.
+{% endbubble %}
+
+{% bubble Madara kidyare %}
+You’re completely brainwashed…
+{% endbubble %}
+
+{% bubble Kanata kidsigh %}
+…ah, kanata finished eating it already.
+
+there are no more tasty things. sadly…
+
+mikejima. even when kanata becomes god, will mikejima still bring snacks in secret again?
+{% endbubble %}
+
+{% bubble Madara kidnorthinking %}
+Mm~ I might not be able to promise that, y’knoow? Once you become God, you’ll probably have way more security and surveillance here, so it may be a lot harder to get close to God, yeaah?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+it will be okay. because mikejima can do anything.
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+I can’t do everything, though~? I’m not God, after all.
+{% endbubble %}
+
+{% bubble Kanata kidsmilesoft %}
+even if you cannot do everything, mikejima can do so many things that kanata likes.
+
+mikejima~ do that again. the one mikejima likes.
+
+the one called ‘ally of justice’. the interesting one of singing and dancing.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+Now that he’s satisfied himself with snacks, the next thing on the list is a show, huh… What a big shot~ He’s deeefinitely a God in that regard.
+
+Also, you really like seeing me act like an ally of justice, dont’chaaa, God?
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+mm. it is fun, so kanata likes it.
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+But God, you don’t seem to really understand what an ally of justice is about, do you?
+
+Allies of justice and idols are different — They’re not typically the type to sing and dance, y’knoow?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+but, they say interesting things, and do interesting moves.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+Well, it’s true that tokusatsu allies of justice also possess the characteristics of performing those sorts of shows.
+
+After all, part of its business is to present something in a fascinating way to attract merchandise sales.
+
+But the ally of justice I yearn to become aren’t existences meant to be for entertainment… They’re allies of justice who fight against evil — who crush the strong and save the weak.
+
+<th>(……Unlike my father, who only colludes with evil while he puts on a mask of justice.)</th>
+{% endbubble %}
+
+{% bubble Kanata kidsmileconfident %}
+then, that is the same as kanata.
+
+after all, kanata’s duty is to defeat the evil things[^13], as well.
+
+kanata is also what you call an ally of justice.
+{% endbubble %}
+
+{% bubble Madara kidheh %}
+Heh! <em>You</em>, an ally of justice? When all you ever do is trip and cry?
+
+When you can’t even walk unless I hold your hand? You, who’d probably immediately die if I wasn’t there to protect you?
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+is it not okay? mikejima will also become an ally of justice someday, right?
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+if kanata were to also become ‘that’, then kanata and mikejima would aaalways be… together~♪
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+………
+
+…You’re gonna become God, aren’t you? Sooo isn’t it impossible for you to become an ally of justice in the future?
+{% endbubble %}
+
+{% bubble Kanata kidsigh %}
+ah, right. this is a problem. kanata cannot become both god and ally of justice… if only kanata could split into two.
+{% endbubble %}
+
+{% bubble Madara kid %}
+Maybe we could pluck off your legs. A body miiight grow from them! ♪
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+d-do not say something so terrifying. mikejima is mean sometimes.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+You make it sound like I’m typically kiiind~
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+mikejima <em>is</em> kind. mikejima is number one in kanata’s world.
+{% endbubble %}
+
+{% bubble Madara kidyare %}
+<em>Me</em>, number one? The world God lives in has suuuch a tiny population, huh…
+{% endbubble %}
+
+{% bubble Kanata kidsad4 %}
+mm. there are not many people in kanata’s world. kanata is rarely able to meet family, and the worshipers are always far away.
+
+that is why kanata is always lonely.
+
+hey, mikejima… do not go anywhere.
+
+stay by kanata’s side forever.
+{% endbubble %}
+
+{% bubble Madara kidgrin %}
+Sure, sure~ If that’s God’s order, then I’ll gladly abide by it~♪
+{% endbubble %}
+
+{% bubble Kanata kidglare %}
+mmrph… this is a serious request, you know…
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
@@ -1164,12 +1582,16 @@ You will get severely reprimanded if you trifle with a human’s belongings~ You
 
 ## Translation Notes
 
-[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*dearu*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
+[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (*de-aru*). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like *kana* (maybe), instead of a more formal/old-fashioned way.
 [^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (*kanata* instead of his first-person pronoun in the present time, *boku*). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying *kudasai* when asking someone to do something).
 [^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
 [^4]: TBA
 [^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
 [^6]: This is said when something happening is so rare, that it might be a sign of an unlikely rain.
 [^7]: TBA
-[^8]: 深淵
-[^9]: TBA
+[^8]: TBA
+[^9]: 深淵
+[^10]: TBA
+[^11]: TBA
+[^12]: TBA
+[^13]: TBA
