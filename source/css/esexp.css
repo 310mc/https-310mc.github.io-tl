@@ -1190,6 +1190,9 @@
 [character="Kaoru"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_frown.png");
 }
+[character="Kaoru"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_grin.png");
+}
 [character="Kaoru"][hmph] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_hmph.png");
 }
@@ -1225,6 +1228,9 @@
 }
 [character="Kaoru"][surprised2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_surprised2.png");
+}
+[character="Kaoru"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_worried.png");
 }
 [character="Kaoru"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kaoru_yare.png");
@@ -1320,6 +1326,9 @@
 [character="Souma"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_angry.png");
 }
+[character="Souma"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_curious.png");
+}
 [character="Souma"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_frown.png");
 }
@@ -1328,6 +1337,12 @@
 }
 [character="Souma"][glare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_glare.png");
+}
+[character="Souma"][scold] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_scold.png");
+}
+[character="Souma"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_shocked.png");
 }
 [character="Souma"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_sigh.png");
@@ -1872,6 +1887,9 @@
 [character="Madara"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_frown2.png");
 }
+[character="Madara"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_grin.png");
+}
 [character="Madara"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_northinking.png");
 }
@@ -1880,6 +1898,12 @@
 }
 [character="Madara"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_sigh.png");
+}
+[character="Madara"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_smilesoft.png");
+}
+[character="Madara"][smirk] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_smirk.png");
 }
 [character="Madara"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_surprised.png");

@@ -143,7 +143,13 @@ I feel as though Father forgot about my meal.
 <th>(…Is it alright to eat this without permission? Will I be reprimanded? But there is nobody around for me to get permission…?)</th>
 
 <th>(Besides… Uuu~ I am very hungry!)</th>
+{% endbubble %}
 
+<video controls>
+  <source src="/img/es/scoutstory/abyss/1_1.mp4" type="video/mp4">
+</video>
+
+{% bubble Souma kidnorsmile %}
 Thank you for the food.
 {% endbubble %}
 
@@ -157,7 +163,9 @@ Thank you for the food.
 <th>(Hurry, Souma! Ei-yah—!)</th>
 {% endbubble %}
 
-{% img /img/es/scoutstory/abyss/1_2.jpg %}
+<video controls>
+  <source src="/img/es/scoutstory/abyss/1_2.mp4" type="video/mp4">
+</video>
 
 {% bubble Kanata kidsurprised %}
 —wah, oh?
@@ -231,7 +239,9 @@ are kanata’s words hard to understand?
 K-Katana? No, you said “Kanata,” correct? Is that—…?
 {% endbubble %}
 
-{% img /img/es/scoutstory/abyss/1_3.jpg %}
+<video controls>
+  <source src="/img/es/scoutstory/abyss/1_3.mp4" type="video/mp4">
+</video>
 
 {% bubble Madara kid %}
 —Mikejima makes his arrival when you least expect it!
@@ -743,6 +753,10 @@ ah, mikejima is calling. so, kanata must go now.
 Ah— Wait—
 {% endbubble %}
 
+<video controls>
+  <source src="/img/es/scoutstory/abyss/3_2.mp4" type="video/mp4">
+</video>
+
 {% bubble Kanata kidnod %}
 there, there. ♪
 {% endbubble %}
@@ -1188,6 +1202,10 @@ wah?
 {% bubble Madara kid %}
 Just kidding. Heya, you suuure look bored, God.
 {% endbubble %}
+
+<video controls>
+  <source src="/img/es/scoutstory/abyss/6_1.mp4" type="video/mp4">
+</video>
 
 {% bubble Kanata kidcurious %}
 mikejima.
