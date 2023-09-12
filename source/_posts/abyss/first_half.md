@@ -1217,7 +1217,7 @@ mm… it is as mikejima says. kanata will bear with it.
 {% endbubble %}
 
 {% bubble Kanata kidsobbing %}
-*<th>(sniff, sobs)</th>*… but, it hurts… maybe bearing with it is, not possible…
+<em><th>(sniff, sobs)</th></em>… but, it hurts… maybe bearing with it is, not possible…
 {% endbubble %}
 
 {% bubble Madara kidawkward %}
@@ -1227,7 +1227,7 @@ I also get into fights a lot with my paren— I mean, the bad guys, and get inju
 {% endbubble %}
 
 {% bubble Kanata kidcurious %}
-injured? are you alright?
+injured? is mikejima alright?
 
 kanata is the one who tripped, but mikejima seems to be in pain, too.
 
@@ -1237,7 +1237,7 @@ did mikejima’s father and mother scold mikejima again?
 {% bubble Madara kidfrown %}
 Ahh~ Well, yeah, they’re still nagging me about what happened the other day.
 
-Like, “why did you *ever *think it was a good idea to take the very being you’re supposed to protect outside?” and stuff.
+Like, “why did you *ever* think it was a good idea to take the very being you’re supposed to protect outside?” and stuff.
 
 My parents were also criticized a lot by other worshipers, apparently. So basically, they’re just whining ‘cause their reputation was damaged.
 
@@ -1402,12 +1402,10 @@ mm. keep that expectation.
 it will all be okay. because god does not lie.
 {% endbubble %}
 
-{% bubble Chapter %}
-7
-{% endbubble %}
+## Chapter 7
 
 {% bubble Kanata kidnod %}
-*<th>(munch, munch munch, munch munch)</th>*…♪
+<em><th>(munch, munch munch, munch munch)</th></em>…♪
 {% endbubble %}
 
 {% bubble Madara kidsmilesoft %}
