@@ -1901,6 +1901,9 @@
 [character="Madara"][kidfrown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidfrown.png");
 }
+[character="Madara"][kidglare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidglare.png");
+}
 [character="Madara"][kidgrin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidgrin.png");
 }

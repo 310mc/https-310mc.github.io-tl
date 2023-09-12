@@ -1171,13 +1171,13 @@ bored\~ bored, bored\~ boooreeed\~
 
 so bored, kanata could melt.
 
-……what is mikejma doing.
+……what is mikejima doing.
 
 god is bored, you know.
 {% endbubble %}
 
 {% bubble Madara kidnorsmile %}
-—Did you call for this Mikejma here, O Holy God?
+—Did you call for this Mikejima here, O Holy God?
 {% endbubble %}
 
 {% bubble Kanata kidsurprised %}
@@ -1419,15 +1419,15 @@ it is tasty. the things mikejima always brings are tasty, so kanata likes them.
 {% bubble Madara kid %}
 Snacks, yeah?
 
-Well, that makes sense — you’re not usually given any proper food, ‘cause you say you gotta do that shojin kessai…
+Well, that makes sense — you’re not usually given any proper food, ‘cause you say you gotta do that shōjin kessai…
 {% endbubble %}
 
 {% bubble Madara kidsmug %}
-Ah— I know what “shojin kessai” means now, ‘cause I thoroughly looked it up!
+Ah— I know what “shōjin kessai” means now, ‘cause I thoroughly looked it up!
 {% endbubble %}
 
 {% bubble Kanata kidnorsmile %}
-mm. kanata will become god. so shojin kessai is necessary.
+mm. kanata will become god. so shōjin kessai is necessary.
 {% endbubble %}
 
 {% bubble Madara kid %}
@@ -1572,6 +1572,200 @@ Sure, sure~ If that’s God’s order, then I’ll gladly abide by it~♪
 mmrph… this is a serious request, you know…
 {% endbubble %}
 
+## Chapter 8
+
+{% note location %}
+**Location:** Yumenosaki’s Marine Life Club Room
+{% endnote %}
+
+{% note narration %}
+Present time…
+{% endnote %}
+
+{% bubble Souma shocked %}
+…!? Get down, Hakaze-dono!
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+Huh? Huh? Where’d this come from!?
+{% endbubble %}
+
+{% bubble Souma scold %}
+Why are you dawdling about!?
+{% endbubble %}
+
+{% bubble Kaoru surprised %}
+Woah, woah—! Don’t grab me by the neck and push me down\~! If someone saw us, they’ll mistake Souma-kyun and I as being really close, y’know!?
+{% endbubble %}
+
+{% bubble Souma glare %}
+This is <em>not</em> the time for jests! I have always despised that about you!
+{% endbubble %}
+
+{% bubble Kaoru worried %}
+Uh, of course I’m gonna feel confused if you randomly start acting like we’re in an action manga, though?
+
+We’re in a peaceful era of Japan, y’know~ I’m not the weird one here — it’s Souma-kun, ‘kay?
+{% endbubble %}
+
+{% img /img/es/scoutstory/abyss/8_1.jpg %}
+
+{% bubble Madara grin %}
+—Hahaha! Too bad, so sad! I couldn’t throw a surprise attack on ya!
+{% endbubble %}
+
+{% bubble Kaoru %}
+Oh, speak of the devil; it’s Mikejima-kun!
+{% endbubble %}
+
+{% bubble Madara grin %}
+Hahaha! I thought you were completely distracted, but you stiiill managed to pick up on the sign of bloodlust, huh?
+
+Even though when I first met you, you pathetically fainted without putting up a fight.
+
+You’ve really grown, Souma-san. Big bro’s so impressed!
+{% endbubble %}
+
+{% bubble Souma glare %}
+You are no brother of mine. I see that you say nothing but nonsense as always, Mikejima-dono. Rather, the majority of Yumenosaki alumni are like that.
+
+And what are you even here for in the first place? This is <em>our</em> Marine Life Club’s dominion!
+{% endbubble %}
+
+{% bubble Madara smilesoft %}
+Hahaha, and I see that you’re living in a historical drama, as always. That makes me laugh.
+
+Unlike me, you didn’t become disillusioned with yourself and give up — You’re stiiill properly living in the ideal dreams from your childhood.
+
+When I think of it that way, I get a little jealous.
+{% endbubble %}
+
+{% bubble Kaoru serious %}
+What’s this all about, all of the sudden…?
+{% endbubble %}
+
+{% bubble Madara %}
+Ohh, Kaoru-san’s here, too? I couldn’t see him behind Souma-san.
+
+It’s preeetty rare for graduates to meet each other in Yumenosaki~ Fate’s so interestingly strange!
+{% endbubble %}
+
+{% bubble Souma %}
+It’s unclear why, but Hakaze-dono frequently visits the club room for some reason.
+
+You should learn from him, Mikejima-dono. According to my friend, Adonisu-dono, Tenma has been feeling lonely.
+{% endbubble %}
+
+{% bubble Madara awkward %}
+Ehh, I don’t wanna be caught in something annoying <em>again</em>…[^14]
+
+I’ve already stopped trying to act like the “admirable guy who constantly makes an effort for the lonely.”
+{% endbubble %}
+
+{% bubble Madara yare %}
+Besides, I barely have any good memories of Yumenosaki, and I’d rather not even have to <em>come</em> here in the first place.
+
+But well, I can’t avoid it this time. Things would only get unnecessarily troublesome if I left it as is.
+{% endbubble %}
+
+{% bubble Souma curious %}
+……?
+{% endbubble %}
+
+{% bubble Madara serious %}
+Souma-san. Hand over that urn you’ve got in your hands.
+{% endbubble %}
+
+{% bubble Souma %}
+This urn…? What is it exactly?
+{% endbubble %}
+
+{% bubble Madara serious %}
+You don’t need to know.
+{% endbubble %}
+
+{% bubble Souma frown %}
+Hmph, you are always like this. Perhaps you feel the need to be secretive and mystique, but that attitude will only further raise suspicion.
+{% endbubble %}
+
+{% bubble Madara awkward %}
+I’m doing this out of consideration for you, though… So that you don’t get involved in some stupid mess.
+{% endbubble %}
+
+{% bubble Souma glare %}
+What a *joke!* I have been involved since the very day I was born.
+
+This urn is related to Shinkai-dono’s household, is it not? Then it should be a matter of concern to me, as well.
+
+Yet why do you always, <em>always</em> exclude me from everything?
+{% endbubble %}
+
+{% bubble Madara frown %}
+That’s ‘cause it has nothing to do with you… You Kanzaki folks have a special standpoint, independent from any hierarchy within the faith.
+
+You’re watchdogs of religion, sent by the government of those times. The remnants of samurai on standby, having been ordered to slice off God if the religion or God themself ever causes harm to the government.
+
+The reason for your existence and your household’s history is entirely different from us, the Mikejimas, who’ve been designated as the caretakers of God from the very beginning, and have been assigned this duty within the religion.
+{% endbubble %}
+
+{% bubble Madara smirk %}
+Heh, look at me, now *I’m* starting to talk in historical drama lingo~
+
+How about, instead, we talk about reality — a much more grounded topic?
+
+That urn is evidence of a crime. Kanata-san and I talked it out and agreed to hide it in this club room, way back when.
+
+We even installed an alarm system to immediately alert us if someone tried to take it out, y’see…
+
+And I happened to be nearby, so that’s why I was able to rush over here so quickly.
+{% endbubble %}
+
+{% bubble Souma curious %}
+This urn is evidence of a crime…?
+{% endbubble %}
+
+{% bubble Madara %}
+Yup, so I can’t have you get curious, and then take it to an outside police or appraiser to look into it, Souma-san.
+
+That’d only bring to light the despicable past that we worked so hard to bury, deep within the darkness — the bottom depths of the abyss.[^15]
+
+That’s why I came rushing here before it’s too late. Hahaha!
+{% endbubble %}
+
+{% bubble Souma %}
+The despicable past?
+{% endbubble %}
+
+{% bubble Madara %}
+Ah, did I pique your interest insteaaad? Curiosity kills the cat, y’knoow?
+
+Nah, actually… In your case, I feel like it’d be way easier if I just explain everything, instead of keeping it a secret—
+
+Since it’s you we’re talking about, I feel like you’d be convinced to help us with our “cover-up”.
+{% endbubble %}
+
+{% bubble Kaoru serious %}
+Cover-up? This crime stuff sounds really shady, but is it even okay for me to hear any of this? I can leave if I shouldn’t.
+{% endbubble %}
+
+{% bubble Madara %}
+Either way’s fine by me. In fact, you might empathize with the story even more than Souma-saaan.
+{% endbubble %}
+
+{% bubble Kaoru curious %}
+……?
+{% endbubble %}
+
+{% bubble Madara %}
+Y’know what, I’m in the mood. This might be a sign of something, so I’m gonna do something I don’t usually do — I’ll explain everything from top to bottom.
+
+The case’s gonna expire soon anyway, and it’s way too heavy a burden to carry all by ourselves.
+
+—Let’s start from the beginning: when God died.
+
+That was a conspiracy created by a secret organization that existed in our religion, and that organization was called “ABYSS”.
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
@@ -1593,3 +1787,5 @@ mmrph… this is a serious request, you know…
 [^11]: TBA
 [^12]: TBA
 [^13]: TBA
+[^14]: TBA
+[^15]: TBA
