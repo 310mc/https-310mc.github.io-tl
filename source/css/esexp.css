@@ -1350,6 +1350,9 @@
 [character="Souma"][sigh2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_sigh2.png");
 }
+[character="Souma"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_smilesoft.png");
+}
 [character="Souma"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_worried.png");
 }
@@ -1933,6 +1936,9 @@
 }
 [character="Madara"][kidheh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidheh.png");
+}
+[character="Madara"][kidnorthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidnorthinking.png");
 }
 [character="Madara"][kidnorsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidnorsmile.png");

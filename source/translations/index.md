@@ -457,6 +457,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
+                alt="ABYSS"
+            />
+        </div>
+        <a href="/abyss" class="storyName" target="_blank">
+            <span>ABYSS (In Progress!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 ## Idol Stories

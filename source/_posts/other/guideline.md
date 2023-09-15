@@ -64,7 +64,32 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<!--
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
+            alt="Sports Survivors"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Sports Survivors (In Progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/escapemansion/kogabcgframe_300px.jpg"
+            alt="Escape Mansion"
+        />
+    </div>
+    <a href="/" class="storyName" target="_blank">
+        <span>Escape Mansion (In Progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
     <div class="image">
         <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"

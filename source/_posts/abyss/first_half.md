@@ -268,7 +268,7 @@ and. mikejima, you are late to return.
 {% endbubble %}
 
 {% bubble Madara kid %}
-Sooorry~ It was a liiittle tough to figure out a sneaky entry route—
+Sorryyy~ It was a liiittle tough to figure out a sneaky entry route—
 {% endbubble %}
 
 {% bubble Souma kidworried %}
@@ -766,7 +766,7 @@ there, there. ♪
 {% endbubble %}
 
 {% bubble Kanata kidnorsmile %}
-does it no longer hurt? our mikejima was rude earlier, was he not?
+does it no longer hurt? our mikejima was rude earlier, yes?
 {% endbubble %}
 
 {% bubble Kanata kidsmilesoft %}
@@ -1222,7 +1222,7 @@ Are you alright!? You trip a lot, God… You a little kid?
 {% endbubble %}
 
 {% bubble Kanata kidsigh %}
-uu. kanata is still not used to this place… kanata does not know where everything is, so kanata tripped and fell.
+uu… kanata is still not used to this place… kanata does not know where everything is, so kanata tripped and fell.
 
 it hurts… kanata hit one’s forehead. it is throbbing.
 {% endbubble %}
@@ -1294,7 +1294,7 @@ kanata does not know. however, the chief priest[^11] — as in, father — said 
 {% endbubble %}
 
 {% bubble Madara kidcurious %}
-I dunno or care if it’s Abyss or Ebisu[^12], but does it even <em>actually</em> exist in the first place?
+I dunno or care if it’s ABYSS or Ebisu[^12], but does it even <em>actually</em> exist in the first place?
 {% endbubble %}
 
 {% bubble Kanata kidsigh %}
@@ -1322,7 +1322,7 @@ Those misconceptions by the worshipers are what keeps this religion alive, that�
 {% endbubble %}
 
 {% bubble Madara kidnorsmile %}
-That’s why you, who will eventually become God, are hidden from the world. ‘Cause if anyone were to meet you in person, they'd find out that you’re  a dumb and stupid kid, just like me.
+That’s why you, who will eventually become God, are hidden from the world. ‘Cause if anyone were to meet you in person, they'd find out that you’re dumb and stupid, and a kid just like me.
 {% endbubble %}
 
 {% bubble Kanata kidcurious %}
@@ -1722,7 +1722,7 @@ Yet why do you always, <em>always</em> exclude me from everything?
 {% bubble Madara frown %}
 That’s ‘cause it has nothing to do with you… You Kanzaki folks have a special standpoint, independent from any hierarchy within the faith.
 
-You’re watchdogs of religion, sent by the government of those times. The remnants of samurai on standby, having been ordered to slice off God if the religion or God themself ever causes harm to the government.
+You’re watchdogs of religion, sent by the government of those times. The remnants of samurai on standby, who were ordered to slice off God if the religion or God themself ever causes harm to the government.
 
 The reason for your existence and your household’s history is entirely different from us, the Mikejimas, who’ve been designated as the caretakers of God from the very beginning, and have been assigned this duty within the religion.
 {% endbubble %}
@@ -1797,14 +1797,14 @@ Translation in progress! (8/16 Chapters)
 
 ## Translation Notes
 
-[^1]: Young Souma speaks about the same as present Souma, in old-fashioned Japanese (<em>de-aru</em>). Unlike present Souma, sometimes he speaks a bit more child-like, such as using words like <em>kana</em> (maybe), instead of a more formal/old-fashioned way.
-[^2]: Young Kanata speaks differently from the present. While he does speak in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (<em>kanata</em> instead of his first-person pronoun in the present time, <em>boku</em>). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying <em>kudasai</em> when asking someone to do something).
-[^3]: Young Madara speaks basically the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
-[^4]: Shōjin kessai, known as a purification ritual, is to abstrain from consumption of food for the sake of purifying or clearing the soul and body.
+[^1]: Young Souma speaks around the same as present Souma, in old-fashioned Japanese (<em>de-aru</em>). Sometimes he speaks a bit more child-like than present Souma would.
+[^2]: Young Kanata speaks differently from the present. While he does talk in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (<em>kanata</em> instead of his first-person pronoun in the present time, <em>boku</em>). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying <em>kudasai</em> when asking someone to do something).
+[^3]: Young Madara speaks around the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
+[^4]: Shōjin kessai, known as a purification ritual, is to abstain from consumption of food for the sake of purifying/clearing the soul and body.
 [^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
 [^6]: This is said when something happening is so rare, that it might be a sign of an unlikely rain.
 [^7]: Calico cat is called <em>mikeneko</em> (三毛猫) in Japanese, the same kanji for <em>mike</em>-jima.
-[^8]: This is written in hiragana, implying it's a non-Japanese word (in this case, it's an English word).
+[^8]: This is literally written as *abisu*, since it's originally an English word.
 [^9]: The word here is <em>shin-en</em> (深淵), the Japanese word for abyss.
 [^10]: This is the same word as Kanata's last name, <em>shinkai</em>, which also means deep sea.
 [^11]: A shrine priest, to be exact, also known as the head/manager priest in charge of rituals (<em>guuji</em>).
