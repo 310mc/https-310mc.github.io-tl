@@ -641,9 +641,11 @@ that is why. please take it. you always wanted to Wear it, didn’t you?
 
 <th>(No! I’ve chosen to inherit the passionate spirit of justice because I *want* to!)</th>
 
-Aaalright, time to change! Urmm, how do you wear this…?
+Aaalright, time to change! Ermm, how do you wear this…?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_2.jpg %}
+
 {% bubble Kanata pastsmile %}
 shall i help you, chiaki?
 {% endbubble %}
@@ -753,7 +755,9 @@ that is why i will Go with you. it *is* my Battle, after all.
 
 and besides, i’m wearing such a cool Uniform… i don’t want to Hide without having done anything, as if i’m dead.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch31_1.jpg %}
+
 {% bubble Kanata pastfrown %}
 i wanted to get involved… even if it meant i got hurt. that is why i came out from the bottom of the Ocean.
 
@@ -769,7 +773,7 @@ ah! that’s my Line, you know!? you can’t Steal it from me~ okay, chiaki?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Ah, sorry. …… All I’ve been doing is apologizing.
+Ah, sorry. ……All I’ve been doing is apologizing.
 
 I want to change that about myself, so I’m going to thank you instead. Thank you for letting me know your true feelings.
 

@@ -946,7 +946,7 @@ Wha…?
 {% bubble Subaru %}
 You’re a hero, after all. You can’t overlook a person in trouble, right? That’s what you always say.
 
-You’re a hero of justice who crushes the strong and saves the weak, right?
+You’re an ally of justice who crushes the strong and saves the weak, right?
 
 That guy also knows that about you, doesn’t he? That’s why he kept calling your name — he probably wants your help, yeah?
 
@@ -1554,7 +1554,7 @@ it’s so hot, i feel like i could melt…
 
 <th>(Then it must be this. And if there is evil, then there might be justice, too.)</th>
 
-<th>(…Can I really become a hero of justice…?)</th>
+<th>(…Can I really become an ally of justice…?)</th>
 {% endbubble %}
 
 {% bubble Kanata pastfrown %}

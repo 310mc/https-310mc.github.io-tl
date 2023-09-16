@@ -1164,11 +1164,11 @@ Gyaa!? D-Don’t stomp your foot down! Please, it’s terrifying!
 {% bubble Kuro pastinjuredangrycg %}
 Yeah, be more terrified, cuz I’m freakin’ threatenin’ you here! I’m warnin’ you to never mess with me ever again, Morisawaaa!
 
-What’re you plannin’? What the hell did you do it for? Did you just pity me? Huh!? Is that it!? Did you like playin’ pretend as a “hero of justice”!?
+What’re you plannin’? What the hell did you do it for? Did you just pity me? Huh!? Is that it!? Did you like playin’ pretend as an “ally of justice”!?
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}
-…!? <th>*(shakes his head)*</th>
+…!? <th><em>(shakes his head)</em></th>
 {% endbubble %}
 
 {% bubble Kuro pastinjuredangrycg %}

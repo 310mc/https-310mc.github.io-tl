@@ -480,9 +480,9 @@ Also, maybe the previous captain was just being nice, but he encouraged me. His 
 
 And then he told me, “become a great hero.” He patted me on the back and head, and I guess he must’ve been weirdly energetic that day, because then, for once, he hugged me.
 
-Right at that moment, I felt like I had inherited the spirit of Ryuseitai—the very first idol unit to have been established in Yumenosaki Academy—
+Right at that moment, I felt like I had inherited the spirit of Ryuseitai — the very first idol unit to have been established in Yumenosaki Academy—
 
-Like I inherited the burning, passionate spirit of justice. … Ryuseitai is corrupted right now, no doubt about it. But the lazy members who do as they please are all third years.
+Like I inherited the burning, passionate spirit of justice. …Ryuseitai is corrupted right now, no doubt about it. But the lazy members who do as they please are all third years.
 
 Once they graduate… The next captain will be Mikejima-san, if we’re looking at who has the skills for it.
 
