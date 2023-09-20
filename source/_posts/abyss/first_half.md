@@ -1785,10 +1785,6 @@ The case’s gonna expire soon anyway, and it’s way too heavy a burden to carr
 That was a conspiracy created by a secret organization that existed in our religion, and that organization was called “ABYSS”.
 {% endbubble %}
 
-{% note narration %}
-Translation in progress! (8/16 Chapters)
-{% endnote %}
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
