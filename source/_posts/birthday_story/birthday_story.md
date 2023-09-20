@@ -332,7 +332,7 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/birthdaystory/banner/chiaki2023.jpg"
@@ -343,7 +343,7 @@ permalink: birthday_story/
         <span>2023 Birthday Content</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 </div>
 
 <hr>

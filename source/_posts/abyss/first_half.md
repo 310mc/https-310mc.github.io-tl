@@ -60,7 +60,7 @@ description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back
 
 <div toc>
 {% btn /abyss,, star, Index %}
-<!--{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}-->
+{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
 </div>
 
 ## Chapter 1
@@ -1792,7 +1792,7 @@ Translation in progress! (8/16 Chapters)
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /abyss,, star, Index %}
-<!--{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}-->
+{% btn /abyss/second_half,, arrow-right, Next Chapter: The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue %}
 </div>
 
 ## Translation Notes

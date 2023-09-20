@@ -158,7 +158,7 @@ A-Ah… It’ll take a while to explain, and it’s a bit embarrassing, so it’
 {% bubble Chiaki mgn %}
 But don’t worry about that! Run away right now!
 
-Worry not, I’m a hero of justice. I’ll make sure you can safely get away from here.
+Worry not, I’m an ally of justice. I’ll make sure you can safely get away from here.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -194,7 +194,7 @@ Oh right, is this part of your Ryuseitai activities?
 {% img /img/es/eventstory/crossroad/1_4.jpg %}
 
 {% bubble Chiaki mgn %}
-No way! A rowdy underground live house like this is very ill-fitted for the duties performed by heroes of justice.
+No way! A rowdy underground live house like this is very ill-fitted for the duties performed by allies of justice.
 
 A more ideal place would be a really tall skyscraper, or an abandoned mining cave.
 {% endbubble %}
@@ -210,7 +210,7 @@ Then they started having fun eating and drinking as they messed around and sang 
 
 But there was one problem.
 
-For some reason, Tenshouin-kun was on the floor, tied up in a corner. Obviously, as a hero of justice, I had no choice but to help him.
+For some reason, Tenshouin-kun was on the floor, tied up in a corner. Obviously, as an ally of justice, I had no choice but to help him.
 
 So I desperately tried to make negotiations with them, and they promised that, as long as I sing onstage and entertain them, they would untie Tenshouin-kun.
 
@@ -240,7 +240,7 @@ After that, I just had to buy enough time by bringing all the attention to mysel
 
 <th>(I never expected Morisawa Chiaki from Ryuseitai to be this sort of person.)</th>
 
-<th>(I thought Ryuseitai was a bunch of fools, going only by the name of “heroes of justice.”)</th>
+<th>(I thought Ryuseitai were a bunch of fools, going only by the name of “allies of justice.”)</th>
 
 <th>(But now I have to reconsider what I've known about them… It seems like only Mikejima and this guy are different from the others, though.)</th>
 
@@ -320,7 +320,7 @@ Even so, I can’t stand and watch as someone falls into danger right before my 
 {% bubble Chiaki mgn %}
 I’ve always been a coward, who looked away from the evil in this world… But I won’t run away ever again.
 
-I *will* become the hero of justice that I’ve looked up to as a kid.
+I *will* become the ally of justice that I’ve looked up to as a kid.
 
 ♪\~♪\~♪
 {% endbubble %}
@@ -490,7 +490,7 @@ Morisawa-kun, you seem like an earnest good boy~ So why are you in Ryuseitai, wh
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Its state may be like this right now, but the group upholds the image of being a hero of justice…
+Its state may be like this right now, but the group upholds the image of being an ally of justice…
 
 That's why I’d like to reform it from within, so that it can be reborn once again to live up to the ideal that comes with its image.
 {% endbubble %}
