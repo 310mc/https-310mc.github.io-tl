@@ -174,7 +174,7 @@ Maybe I’m too scared to push my likes onto others… It’s one thing if it we
 Honestly, I think this concept is different from what they’re hoping to see from Ryuseitai, and I’m scared of the possibility of us splitting apart all ‘cause of what I love…
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 it will be okay, midori.
 
 each and every one of us love ryuseitai. isn’t our love the same as yours?
@@ -866,7 +866,7 @@ Yeah. …It makes me happy that everyone wants to make my ideal vision come to l
 I’m sure that no matter what happens, we Ryuseitai will be okay, won’t we?
 {% endbubble %}
 
-{% bubble Kanata smile5 %}
+{% bubble Kanata smilesoft %}
 fufu, midori is such a [worrywart]~ you immediately fall into depression if we do not hold tight to your [hand].
 
 but i can see that you finally [trust] us…♪

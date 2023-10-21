@@ -160,7 +160,7 @@ Where shall we head to? It’s all up to you, Anzu-san! Super Express Mama No.1,
 
 {% img /img/es/eventstory/sweethalloween/letsparty1_2.jpg %}
 
-{% bubble Kanata smile4 %}
+{% bubble Kanata smileconfident %}
 hey rooogue~♪ trick or treat!
 {% endbubble %}
 
@@ -330,7 +330,7 @@ I’ve got a looot of things to do, so I’m gonna have to head off. You should 
 Right, let’s go now, Anzu-san. You’re the one managing this event, so everyone needs your help!
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 fufu, seeing him [carry] her like that really makes them look like a [parent] and their [child].
 {% endbubble %}
 

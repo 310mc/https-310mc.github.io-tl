@@ -1,6 +1,6 @@
 ---
 title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 1–8)"
-date: 2023-9-12 9:05:00
+date: 2023-8-30 9:00:00
 categories:
 - [Enstars, Madara]
 - [Enstars, Kanata]
@@ -202,7 +202,7 @@ is someone there? is it mikejima?
 {% bubble Kanata kid %}
 …mikejima.
 
-this is not… him. the smell is different.
+this is not… mikejima. the smell is different.
 
 <em><th>(licks)</th></em>… mm, the taste is different, too.
 {% endbubble %}

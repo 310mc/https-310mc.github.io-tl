@@ -155,7 +155,7 @@ Mhm… But, uh, they really <em>are</em> loud out there, huh? I feel like I can�
 Knowing the kinda person Moricchi is, parting ways must be kinda sad for him. I wonder if he’s balling his eyes out…
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 chiaki won’t cry.
 
 fufu, how about we call souma over and have our own [farewell party] for the [marine life club]?

@@ -376,7 +376,7 @@ Are we really…? Everyone here is so into this event… It's said that it has t
 Ahaha. We have to work hard, or we will be buried by everyone else~
 {% endbubble %}
 
-{% bubble Kanata smile4 %}
+{% bubble Kanata smileconfident %}
 okay, then let's do that. it will be okay, the [five of us] together are [invincible]~♪
 {% endbubble %}
 

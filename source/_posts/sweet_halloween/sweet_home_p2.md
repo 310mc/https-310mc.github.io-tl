@@ -597,7 +597,7 @@ Mm~… It’s not really about me… It feels like Morisawa-senpai gets really a
 So please don’t just disappear out of nowhere…
 {% endbubble %}
 
-{% bubble Kanata smile4 %}
+{% bubble Kanata smileconfident %}
 fufufu, that is because chiaki is more [spoiled] than you would expect.
 
 but it looks like it will be okay, since it seems like you are [protecting] him.

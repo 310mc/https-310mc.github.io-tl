@@ -536,7 +536,7 @@ they can walk on their [own], without us [carrying] them in our arms. and all we
 if you were to spoil them right now… they would surely become unable to walk by themselves [forever].
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 on this [land], being unable to [walk] is the same as being unable to [live].
 
 looong ago, the one who told me that… was chiaki, wasn't it?

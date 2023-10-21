@@ -100,7 +100,9 @@ You can’t allow such evil to take control of you! You all need to stop fightin
 
 Why do you think we have a mouth to speak, a heart to feel, and words to express ourselves with? It’s so you can talk it out with your foe and get along with one another!
 {% endbubble %}
+
 {% img /img/es/eventstory/submarine/p1ch3_1.jpg %}
+
 {% bubble Keito %}
 Morisawa.
 {% endbubble %}

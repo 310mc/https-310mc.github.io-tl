@@ -181,7 +181,7 @@ here you go, eat as much as you [like]… i will feed you, say “ahh”~♪
 is it tasty?
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 i am so glad\~ you are finally [smiling]. you are still a child who is [growing], so please eat lots and lots\~♪
 
 [food] rots faster in [summer], so i am [grateful] that you are eating the food for me before it [rots].

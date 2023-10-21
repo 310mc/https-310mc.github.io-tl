@@ -291,7 +291,7 @@ fufu, for you of all people to be pushing yourself… but thank you.
 You don’t have to thank me. You’re my friend, y’know?
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 yes. …did everything go okay with souma? i am sorry for leaving you to [deal] with everything.
 {% endbubble %}
 
@@ -689,7 +689,7 @@ that’s right, chiaki~
 if you get too involved with the aquarium’s [fish], then they, like the [children], will die by the [stress]. we should only be watching from afar.
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 fufufu, it was also rough on me to only be [watching], though.
 
 i am [relieved]. you three will be [alright] even if we are not here… you will be able to weather any [storm].

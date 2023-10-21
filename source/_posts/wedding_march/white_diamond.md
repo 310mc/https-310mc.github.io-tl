@@ -228,7 +228,7 @@ I <em>just</em> said he’s an acquaintance… Could you please <em>try</em> to 
 That’s what I understood from listening to you. Acquaintances don’t typically lend each other their belongings, y’know?
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori yare %}
 Yeah, well, that’s just how it is in the Manga Club.
 {% endbubble %}
 

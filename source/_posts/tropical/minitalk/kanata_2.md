@@ -103,7 +103,7 @@ ahh, i see. it is a [fish mascot]~♪
 
 {% img /img/es/eventstory/tropical/minitalk_kanata2_2.jpg %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 since this is a mascot, i would love to show [it] to midori.
 
 he really loves [mascot characters], after all.

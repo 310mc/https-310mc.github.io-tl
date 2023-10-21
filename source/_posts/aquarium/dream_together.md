@@ -685,7 +685,7 @@ even if it is something [embarrassing] and childishly [selfish], i will make my 
 just like what everyone else is doing.
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 because i am no longer a [god]… i was able to become the same [human being] as everyone else.
 {% endbubble %}
 

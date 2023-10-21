@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] ABYSS (In Progress!)"
-date: 2023-9-12 9:00:00
+date: 2023-9-20 10:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Marine Life Club]

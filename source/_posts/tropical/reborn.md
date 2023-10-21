@@ -312,7 +312,7 @@ We thought that you might’ve been stressed about your leadership position, so 
 Fortunately, we can be flexible with our schedule for the unit right now. Let’s group up again after you’ve taken a rest and recovered.
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 yes~ if you are hurting inside, you could try taking a [trip] to heal your [heart].
 
 gazing at the ocean will ease your sorrow. i recommend it.
@@ -748,7 +748,7 @@ Ooh, they’re all wearing a martial arts uniform with a hole on the elbow of th
 However, I apologize for saying this, but this is starting to sound like a punchline!
 {% endbubble %}
 
-{% bubble Kanata smile4 %}
+{% bubble Kanata smileconfident %}
 fufufu, i personally [like] it~
 
 i also thought up “ryusei-viperfish,” based on the [deep-sea creature]~♪

@@ -509,7 +509,7 @@ things are looking very [good] for ryuseitai right now.
 so i would feel [terrible] if that [radiance] clouds over because of me.
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 but someday… when that day comes… i will shout out “save me, hero!” from the bottom of my heart.
 
 when that happens, i am sure that chiaki would [gladly] come rushing for me.

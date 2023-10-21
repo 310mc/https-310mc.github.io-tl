@@ -203,7 +203,7 @@ Huh, I see… You cherish Moricchi a <em>lot</em>, don’t you? ♪
 {% endbubble %}
 
 {% bubble Kanata frown2 %}
-mm~… i am just protecting him, as he is still a [child]. he cannot do anything without me.
+mm~… i am just protecting him, as he is still a little [child].[^2] he cannot do anything without me.
 {% endbubble %}
 
 {% bubble Chiaki idle %}
@@ -215,10 +215,10 @@ It’s already March, so I’d like to believe you’ve decided on a career path
 {% bubble Chiaki grin %}
 But if you haven’t, then until the little guys from Ryuseitai catch up with us—
 
-How about you and I temporarily team up as a duo? Like Kamen Rider No.1 and No.2![^2] ♪
+How about you and I temporarily team up as a duo? Like Kamen Rider No.1 and No.2![^3] ♪
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 fufu. that is also a wonderful idea. i would have loved to do that…
 
 it is all going to be okay, chiaki, kaoru. i also want to continue living on the [surface] with everyone, so…
@@ -293,7 +293,7 @@ mm\~…… “d” again…? d-d-de\~…?
 {% endbubble %}
 
 {% bubble Kaoru frown %}
-Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop playing word chain?[^3] It’s really not that fun, and I just feel depressed now for some reason…
+Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop playing word chain?[^4] It’s really not that fun, and I just feel depressed now for some reason…
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -367,7 +367,7 @@ okay~ what does rei [want]?
 {% bubble Kaoru frown %}
 No clue. He sent me a message, but…
 
-He sucks at using the phone keyboard[^4], so his messages practically end up needing to be decoded, like this one — he said, “i went t talk bout dedmens”.
+He sucks at using the phone keyboard[^5], so his messages practically end up needing to be decoded, like this one — he said, “i went t talk bout dedmens”.
 
 “Dedmens”… Ahh, I think he means “Deadmanz”. I haven’t heard that name in a while. Why’s he bringing it up now, after so long…?
 {% endbubble %}
@@ -382,7 +382,7 @@ Mhm! Farewell, Hakaze! Until we meet again…☆
 Heheh… Hakaze seems a little different. He looks like he’s shining these days.
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 kaoru has always been [sparkling].
 
 …oh?
@@ -449,6 +449,7 @@ I can’t do anything on my own! I’m too weak! I don’t have the capability t
 
 ## Translation Notes
 [^1]: In Japanese, the word for “distant” is <em>mizu-kusai</em>, lit. “watery”.
-[^2]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a> (No.1), and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a> (No.2).
-[^3]: In Japanese, they're playing shiritori. It goes: Chiaki → <em>seigi</em> (justice), Kaoru → <em>gingamu chekku</em> (gingham check), Kanata →  <em>kutsuu</em> (pain), <em>kurione</em> (clione), Chiaki →  <em>neko</em> (cat), <em>neko jarashi</em> (cat teaser), Kaoru → <em>shishi-odoshi</em>, Kanata → <em>shi</em> (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
-[^4]: Originally, Kaoru says that Rei's bad at kanji conversion (tapping on the kanji/katakana you want to use when typing on the keyboard), which leads to Rei converting all the characters incorrectly in the message, like so: でど万ズの子とで話がアル (it should be デッドマンズのことで話がある）
+[^2]: The word used here, <em>okochama</em>, typically means “mentally like a child”. It's the baby-talk version of the word <em>okosama</em>.
+[^3]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a> (No.1), and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a> (No.2).
+[^4]: In Japanese, they're playing shiritori. It goes: Chiaki → <em>seigi</em> (justice), Kaoru → <em>gingamu chekku</em> (gingham check), Kanata →  <em>kutsuu</em> (pain), <em>kurione</em> (clione), Chiaki →  <em>neko</em> (cat), <em>neko jarashi</em> (cat teaser), Kaoru → <em>shishi-odoshi</em>, Kanata → <em>shi</em> (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
+[^5]: Originally, Kaoru says that Rei's bad at kanji conversion (tapping on the kanji/katakana you want to use when typing on the keyboard), which leads to Rei converting all the characters incorrectly in the message, like so: でど万ズの子とで話がアル (it should be デッドマンズのことで話がある）

@@ -283,7 +283,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 “♪\~♪\~”
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 <th>(fufu, i see that everyone is enjoying themselves~)</th>
 
 <th>(i cannot help myself from having fun now, either~♪)</th>

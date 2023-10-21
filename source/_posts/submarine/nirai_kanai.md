@@ -1212,7 +1212,7 @@ it is Normal for things other than human beings to be considered Strange, to be 
 
 even Tokusatsu shows that are meant to sing praises of Justice are like that.
 
-i was afraid that you guys would think of me as an Eerie being. that things would not be the same ever again—
+i was afraid that you would all think of me as an Eerie being. that things would not be the same ever again—
 
 but… you cannot stay the Same forever. after all, i am not the God that is depicted in Legends.
 

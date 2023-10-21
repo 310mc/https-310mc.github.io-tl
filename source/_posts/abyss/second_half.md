@@ -1,6 +1,6 @@
 ---
 title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue"
-date: 2023-9-3 9:00:00
+date: 2023-9-20 9:00:00
 categories:
 - [Enstars, Madara]
 - [Enstars, Kanata]
@@ -10,7 +10,6 @@ tags:
 - Scout Story
 - Akira
 description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -85,7 +84,7 @@ do more\~♪ do the ‘transform’ where your arms go round\~♪
 {% endbubble %}
 
 {% bubble Madara kidyare %}
-How many times are you gonna make me do this…? God’s seriously getting way too hyped up~...
+How many times are you gonna make me do this…? God’s seriously getting way too hyped up~…
 {% endbubble %}
 
 {% bubble Kanata kidgrin %}
@@ -203,7 +202,7 @@ mmghh— do not cover kanata’s mouth. it is stressful.
 {% endbubble %}
 
 {% bubble Madara kidcurious %}
-<th>(What’s with those guys? They’re a bunch of men dressed in black from top to bottom — They look just like a bunch of combatmen[^4] you’d find in a tokusatsu movie…)</th>
+<th>(What’s with those guys? They’re a bunch of men dressed in black from top to bottom — They look just like a bunch of combatants[^4] you’d find in a tokusatsu movie…)</th>
 
 <th>(Is this really real life…? Or am I starting to confuse my delusions with reality from watching too many tokusatsu shows…?)</th>
 {% endbubble %}
@@ -334,8 +333,714 @@ no. mikejima… —behind you!
 <th>(I let my guard down! I’m so stupid! I failed again! I shouldn’t have been relaxing here and chatting — if only we had run away immediately—)</th>
 {% endbubble %}
 
+## Chapter 10
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Underground Waterway</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/10_1.jpg %}
+
+{% bubble Souma kidshocked %}
+<th>(…!? Was that a scream!?)</th>
+
+<th>(This atmosphere seems unsettling…! What my father spoke about with the guest must have been true, after all!)</th>
+{% endbubble %}
+
+{% bubble Souma kidangry %}
+<th>(Those evil people from “Abisu” are trying to abduct God — the blue-haired child I encountered at the funeral venue!)</th>
+
+<th>(After kidnapping, they will attempt to enshrine that child as their object of worship for a new religious group! A new living god, for a new religion!)</th>
+
+<th>(Father spoke about such rumors! He mentioned that that is why everyone will have to be on their guard!)</th>
+
+<th>(That is why I grew worried for that child, for God—)</th>
+
+<th>(So I came all the way here, even intruding in that child’s dwelling. I heard my father reveal where it was in a conversation he was having earlier—)</th>
+
+<th>(…What am I <em>doing</em>…? I was just reprimanded earlier for acting without permission…)</th>
+
+<th>(But, this really seems to be dangerous…! It was the very first time I’d heard my father speak in such a grave tone!)</th>
+
+<th>(We are having a crisis! An enormous crisis! Thus, as a samurai, I must make sure to fulfill my duty!)</th>
+
+<th>(A samurai is one who fights for the sake of protecting those who are weak! Perhaps I would be scolded for calling God “weak,” but even so—!)</th>
+
+<th>(I <em>must</em> protect that child! That child showed concern for me and patted my head! I could never overlook such a kind child falling victim to evil people!)</th>
+
+<th>(As a samurai! No— As a human being, this is the natural thing to do!)</th>
+{% endbubble %}
+
+<video controls>
+  <source src="/img/es/scoutstory/abyss/10_2.mp4" type="video/mp4">
+</video>
+
+{% bubble Madara hidden %}
+</th> STOOOOP IIIIIT!!!!
+{% endbubble %}
+
+{% bubble Souma kidshocked %}
+<th>(…!? That voice…! I believe it came from around that corner?)</th>
+
+<th>(Let me sneak in and observe the situation without being seen… I’m nervous.)</th>
+{% endbubble %}
+
+{% bubble Madara kidangry2 %}
+Give Kanata-kun back! Give him back RIGHT NOW!!! DAMMIIITTT!!
+{% endbubble %}
+
+{% bubble Souma kidsurprised %}
+<th>(…! That’s the child I spotted at the funeral venue! He was with that God— “Kanata,” I believe? He’s the same child who was close to Kanata-sama![^5])</th>
+
+<th>(The detestable one who hit me on the head and made me faint!)</th>
+
+<th>(Mmm… He was likely fighting with “Abisu” in hopes of protecting Kanata-sama…)</th>
+
+<th>(However, they are adults… He seems to have a better build than me, but there is still no chance he could win against trained people through brute force.)</th>
+
+<th>(Unfortunately, it appears that he was beaten down, then had his hands tied to his back, and was thrown down here…)</th>
+{% endbubble %}
+
+{% bubble Souma kidfrown %}
+<th>(I will not say he got what he deserves, nor that this is his divine punishment for doing something so cruel to me.)</th>
+
+<th>(…He is surely feeling frustrated, having been unable to protect his friend.)</th>
+{% endbubble %}
+
+{% bubble Madara kidfrownshake %}
+Dammit, dammit, dammit… Damn it all!
+
+Why am I so *weak!?*
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+<th>(Hm, I don’t sense anyone else around. So this means it is right after God— after Kanata-sama was abducted.)</th>
+
+<th>(It seems the “Abisu” group left after fulfilling their duty. If that is the case, it should be fine to speak to him.)</th>
+
+Pardon me, hello.
+{% endbubble %}
+
+{% bubble Madara kidsurprised %}
+…!? Huh!? W-What!?
+{% endbubble %}
+
+{% bubble Souma kidglare %}
+Do you not remember who I am? You truly are rude. My head still aches as a result of your punch, you know?
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+Why’re you here…?
+
+No, forget that! Loosen up these ropes on my hands, now!
+{% endbubble %}
+
+{% bubble Souma kidyare %}
+I cannot stand your imperative tone, but very well. Do not move.
+
+I am still too young to be allowed to wield a katana, so I am not used to its weight.
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+……?
+{% endbubble %}
+
+{% bubble Souma kidscold %}
+Kieeeeh!
+{% endbubble %}
+
+{% bubble Madara kidsurprised %}
+…!? Ah, eep—?
+
+That was so clooose! Where’d you pull out that katana from!?
+{% endbubble %}
+
+{% bubble Souma kidsmileconfident %}
+I had it behind my back this whole time. I brought over my treasured family’s katana, as I thought I may end up in a fight.
+
+But if my father found out, I may really have to disembowel myself this time, so please do keep it a secret.
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+Well, you did help me out… But man, that katana’s insaaanely sharp. The edge only lightly grazed the ropes, but they still sliced apart easily.
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+What on earth happened? Where is God— as in, Kanata-sama?
+{% endbubble %}
+
+{% bubble Madara kidfrustrated %}
+He was kidnapped by those guys… by ABYSS. I tried my best to resist, but I was no match for them…
+
+I got tied up right after Kanata-kun, and then they carried us off like luggage… Ughh, I’m so frustrated!
+
+But I kept wriggling as best as I could, so those guys saw me as a nuisance. They just threw me here and left.
+
+From their point of view, acquiring Kanata-kun was enough for them, I bet…
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+Hm. So, where have the “Abisu” people gone?
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+The ocean. This passage leading to the “Abode of God” is connected to all sorts of places, so they headed off to the ocean, only a few minutes ago.
+{% endbubble %}
+
+{% bubble Souma kidsrsthinking %}
+Then we should be able to catch up in time.
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+Yeah. Lend me that katana; I’m gonna slice them down and annihilate every single one of them.
+{% endbubble %}
+
+{% bubble Souma kidfrown %}
+Don’t say something so disturbing… Even if we had the katana, two children have no chance of fighting against a group of adults, no?
+{% endbubble %}
+
+{% bubble Madara kidworried %}
+Then what am I supposed to *do!?* It’s all my fault that Kanata-kun—!
+{% endbubble %}
+
+{% bubble Souma kidnorsmile %}
+Calm down. Fortunately, you are not alone.
+
+With two people around, we have more options.
+
+I’ve thought of something, but are you up to the task? Ermm— Oh yes, I did not ask your name, did I?
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+I’m Mikejima Madara.
+{% endbubble %}
+
+{% bubble Souma kidsmilesoft %}
+I see. I’m Kanzaki Souma.
+
+Mikejima-dono[^6], are you, for the sake of that God—
+
+No. For the sake of a <em>friend</em>, are you willing to do anything?
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+……?
+{% endbubble %}
+
+## Chapter 11
+
+{% img /img/es/scoutstory/abyss/11_1.jpg %}
+
+<div class="msr-narration">
+    <p>Sound of the ocean</p>
+</div>
+
+{% bubble Kanata kidcurious %}
+<th>(………)</th>
+
+<th>(floating, and floating[^7].)</th>
+
+<th>(softly… swaying, and swaying.)</th>
+
+<th>(where is this?)</th>
+
+<th>(kanata has never seen this scenery before.)</th>
+
+<th>(but, it feels like a scenery kanata always sees.)</th>
+
+<th>(how strange.)</th>
+
+<th>(is this, a dream?)</th>
+
+<th>(kanata is within the water, and yet…)</th>
+{% endbubble %}
+
+{% bubble Kanata kidsmilesoft2 %}
+<th>(somehow, it feels very warm—)</th>
+{% endbubble %}
+
+<video controls>
+  <source src="/img/es/scoutstory/abyss/11_2.mp4" type="video/mp4">
+</video>
+
+{% bubble Madara kidshocked %}
+—Kanata-kun!
+{% endbubble %}
+
+{% bubble Kanata kidsurprised %}
+fwah—
+{% endbubble %}
+
+{% bubble Madara kidworried %}
+Are you alright!? Are you still conscious!? Dammit, I can’t tell what sorta expression you’re making ‘cause of that cloth hiding your face!
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+mikejima.
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+mikejima~…♪
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+There, there. It’s gonna be oookay, God. You’re safe now.
+
+I’ve come to save you.
+{% endbubble %}
+
+{% bubble Madara kidsigh %}
+…Sorry. I’m sorry for failing to protect you — for letting you suffer through something so scary…
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+no. kanata believed in mikejima. kanata knew that mikejima would definitely save kanata.
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+Haha. Even though God is meant to save people, not be saved…
+{% endbubble %}
+
+{% bubble Kanata kidfrown %}
+kanata is still not god yet—
+
+—mm, no. kanata probably cannot use that usual excuse anymore.
+
+kanata has to get it together. kanata has to work hard.
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+kanata absolutely must become god, who will save everyone.
+
+because kanata does not want to cause mikejima to make that face ever again.
+{% endbubble %}
+
+{% img /img/es/scoutstory/abyss/madaraorigcg.jpg %}
+
+{% bubble Madara kid %}
+…What sort of face do I have?
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+a horrible-looking face. it is in tatters… is mikejima alright? does it hurt?
+{% endbubble %}
+
+{% bubble Madara kidsmileconfident %}
+I’m fiiine! Injuries like these are a medal of honor for an ally of justice!
+{% endbubble %}
+
+{% bubble Kanata kidworried %}
+were you fighting again? that is not good, okay? why can you not get along with everyone…?
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+That’s ‘cause a world where eeeveryone’s happy, smiling and getting along all the time feels creepy.
+
+Keep this in mind: In our world, when there’s someone laughing, there’s someone angry. When there’s someone happy, there’s someone who wants to force them to be unhappy.
+
+I’m gonna protect you from all those evil and awful people. This time, for sure — I’m never letting you make that face ever again.
+{% endbubble %}
+
+{% bubble Kanata kidglare %}
+that is what kanata said. do not take it, mikejima. it is forbidden to copy.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+We’re similar, aren’t we? So it isn’t weird for us to think the same thing, riiight?
+{% endbubble %}
+
+{% bubble Kanata kidangry %}
+hrmph… mikejima is always arguing just for the sake of it.
+{% endbubble %}
+
+{% bubble Souma hidden %}
+—Now, now! Those afar, listen intently! Those near, come closer and watch intently![^8]
+{% endbubble %}
+
+{% bubble Kanata kidsurprised %}
+fwah!? w-what was that? that loud voice…
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Heheh. God, remember that weird kid that was at your mom’s funeral venue?
+
+He’s helping me rescue you.
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+eh? that poor child, who got hit by mikejima?
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+*That’s* how you remember him? He’s preeetty impressive, actually. Still a weird kid, but — if he weren’t here, I wouldn’t have been able to save you.
+
+Our rescue mission was simple. That kid acted as a decoy and caused a huge ruckus as much as possible. Meanwhile, I sneaked inside the ship while they’re distracted.
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+ship?
+{% endbubble %}
+
+{% bubble Madara kidyare %}
+You were this close to being carried off on a ship, y’knoow? You don’t remember?
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+oh, kanata sort of remembers floating and swaying…?
+
+kanata was scared and closed one’s eyes, so kanata is not sure.
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+Those ABYSS guys who abducted you were probably trying to escape overseas through that ship.
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+mikejima watched a movie like that before?
+{% endbubble %}
+
+{% bubble Madara kidsad4 %}
+Yeah. Buuut I can’t believe something from a movie could happen so easily in real life—
+
+Sooomething feels really unnatural about this…
+{% endbubble %}
+
+{% bubble Kanata kidserious %}
+what do you mean?
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+I learned this the hard way, but I now understand that kids can barely ever win against adults. The possibility of a clever kid outwitting the dumb adults and turning the tables to his side is impossible.
+
+Not to mention how absolutely well-trained those ABYSS guys were… They’re professionals in that line of work, I think.
+{% endbubble %}
+
+{% bubble Madara kidfrown %}
+Could a bunch of adults like that reaaally fall for a decoy plan — a diversion trick thought up by kids?
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+mm~? kanata would not know the answer…?
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Well, whatever. I was able to save you, so it’s fine. This is enough for a happy ending, so I’ll leave all the trivial questions aside.
+
+Anyway, we need to hurry and get out of here. Can you walk, God?
+{% endbubble %}
+
+{% bubble Madara kidawkward %}
+I swam through the ocean, snuck into the ship, took down some guards with a stick while they weren’t looking…
+
+Then I carried you on my back, swam back to shore and ran back here, sooo…
+
+I’m pretty exhausted after all of that. I’d be real glad if you could walk on your own feet.
+{% endbubble %}
+
+{% bubble Kanata kidfrown %}
+mm~… kanata is not good at walking, but kanata will try.
+
+to only be saved would be shameful as god, after all.
+{% endbubble %}
+
+{% bubble Madara kidsmileconfident %}
+Yeah, try your best. I’ll lend you my shoulder if you need it.
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+ah, kanata understands now. it was mikejima all along.
+{% endbubble %}
+
+{% bubble Madara kidserious %}
+? What’re you talking abooout?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+while kanata had one’s eyes closed, kanata felt something warm every once in a while. when kanata made contact with it, it gave kanata relief.
+
+kanata cannot recall it anymore, but it felt like when kanata would be cradled by mother.
+
+that was mikejima all along. you were carrying kanata on your back, so it felt warm.
+{% endbubble %}
+
+{% bubble Madara kidcurious %}
+I’m drenched wet from swimming back and forth, so I think my body is more cold than anything…
+{% endbubble %}
+
+{% bubble Kanata kidsmilesoft2 %}
+it does not matter. kanata would prefer thinking of it that way. it is much better than the thought of being touched by an unknown thing.
+{% endbubble %}
+
+## Chapter 12
+
+{% bubble Kanata kidsmileconfident %}
+more importantly, one must rush, right? there is no time to rest. you must run, mikejima. ♪
+
+mikejima is so slow! mikejima is the one who should train his legs more. ♪
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Oh? Someone’s cheeky. You seem to be doing waaay better than I expected. Great, that’s perfect! ♪
+
+I’m so relieved. Really, I mean it.
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+Mikejima-dono! Over here! Hurry!
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+ah— that poor child from that time.
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+Souma-kun, right? Did everything go okaaay?
+{% endbubble %}
+
+{% bubble Souma kidheh2 %}
+Of course! I am always prepared for anything! I am the son of samurai, strong and clever! Heh! ♪
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+…Rather, after a while of running around the area while causing a ruckus, the “Abisu” group took their leave instantly.
+
+I feared that they uncovered our strategy, so I rushed here as soon as possible.
+{% endbubble %}
+
+{% bubble Madara kidnorthinking %}
+Mm~… Something’s reeeal off about how those ABYSS guys operate…
+
+But whatever, no point in thinking about that. We need to get outta here fast, maybe even take shelter with the police.
+
+I gotta make those parents of mine work for me a little sometimes.
+{% endbubble %}
+
+{% bubble Kanata kidsad4 %}
+…………
+{% endbubble %}
+
+{% bubble Souma kidcurious %}
+…? W-What is the matter, erm, God[^9]— I mean, Kanata-sama? You look pale; are you feeling unwell by any chance?
+{% endbubble %}
+
+{% bubble Kanata kidnorsmile %}
+no, it is nothing.
+{% endbubble %}
+
+{% bubble Kanata kidnod %}
+you— erm, souma? thank you to souma, too, for saving kanata. ♪
+{% endbubble %}
+
+{% bubble Souma kidgrin %}
+Nay! To be courageous is to do what is just no matter what.[^10] I simply did what is natural to do.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+Haha. You’re exaaactly what an ally of justice is all about.
+{% endbubble %}
+
+{% bubble Kanata kidsrsthinking %}
+…………
+
+<th>(it seems that mikejima and souma have not noticed, but. somewhere far away, there are people watching over here.)</th>
+
+<th>(and those people are having a private conversation in secret.)</th>
+
+<th>(“this will do,” “it went well,” “those kids did a great job, too”—)</th>
+
+<th>(kanata recognizes those voices. mikejima’s father and mother, and kanzaki’s—)</th>
+{% endbubble %}
+
+{% bubble Kanata kidcurious %}
+<th>(what does this all mean?)</th>
+
+<th>(what was all of this about, exactly…?)</th>
+
+<th>(is this truly a ‘happy ending,’ like mikejima said?)</th>
+{% endbubble %}
+
+{% bubble Souma kidworried %}
+Kanata-sama?
+
+What is the matter? You really do look pale…
+{% endbubble %}
+
+{% bubble Madara kidnorsmile %}
+Haha, you probably already know this, but God— Kanata-kun has been living partially confined aaall his life, so his legs are weak. He’s probably tired from walking.
+{% endbubble %}
+
+{% bubble Souma kidshocked %}
+Confined!? That refers to locking someone up somewhere, right? How inhumane…!
+
+Poor Kanata-sama… You must have suffered through so much. Here, support yourself on my shoulder at least.
+{% endbubble %}
+
+{% bubble Madara kidsmilesoft %}
+That’s my duty, y’knoow?
+
+…Mm?
+{% endbubble %}
+
+{% bubble Souma kidserious %}
+What’s the matter, Mikejima-dono?
+{% endbubble %}
+
+{% bubble Madara kidnorthinking %}
+I was in such a panic for so long that I didn’t notice until now, but there’s something in Kanata-kun’s chest pocket.
+
+What is this…? An urn…?
+{% endbubble %}
+
+## Epilogue 1
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Beach</span></p>
+</div>
+
+{% img /img/es/scoutstory/abyss/ep1_1.jpg %}
+
+<div class="msr-narration">
+    <p>Present time. After Madara has collected the cremation urn (?) from the Marine Life Club room…</p>
+</div>
+
+{% bubble Kanata v2 %}
+*puka, puka~*
+
+haa~… somehow, even [soaking] in [water] feels like something i have not done in a while.
+{% endbubble %}
+
+{% bubble Madara %}
+Heeey, Kanata-saaan~♪
+
+I’m finally back! I completed the mission flaaawlessly~♪ Look, I brought back the loot in question with me right heeere!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i see~ fufufu, mikejima became a child who can do things if he tries, yes?
+{% endbubble %}
+
+{% bubble Madara yare %}
+Anyone can easily do a kid errand like this, thouuugh. I can <em>really</em> feel just how much your opinion of me’s fallen off…
+
+Even though you used to be so adorable when we were little, always acting spoiled and depending on me while calling, “Mikejima, Mikejima~♪.
+{% endbubble %}
+
+{% bubble Kanata glare %}
+no, mikejima is wrong~ it is the other way around~ <em>you</em> were the one who [prided yourself] on [taking care] of me, weren’t you?
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+that means <em>mikejima</em> is the one who acted spoiled and depended on me.
+{% endbubble %}
+
+{% bubble Madara frown %}
+<em>And</em> he’s grown a silver tongue… Reaaally ticks me off.
+{% endbubble %}
+
+{% bubble Madara smilesoft %}
+…Guess that just means we’re both no longer kids, yeaah?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes. now that i have grown a little bit [older] since then, there are some things i understand better.
+
+—[abyss] never [existed] in the first place.
+{% endbubble %}
+
+{% bubble Madara %}
+Yep. I was also always curious since then, and did some research, so I’m aware of what happened to some extent.
+
+It was confidential information for a long time, but that religious group has already disbanded, sooo yeah.
+
+Preservation of the documents also got sloppy, and the people involved stopped keeping it a secret, ‘cause they no longer need to maintain their duty to God. Only to a certain extent, though.
+
+That’s how I finally got the answer to a question I’ve had for a very long time.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes. it was all a [scheme] devised by the [adults].
+{% endbubble %}
+
+{% bubble Kanata serious %}
+—it started when god died.
+
+as in, my mother.
+{% endbubble %}
+
+{% bubble Kanata frown2 %}
+but. even that itself was a [lie], wasn’t it?
+{% endbubble %}
+
+{% bubble Madara yare %}
+Yeah, probably. Your mother faked her death, and vanished from sight. There’s no way we could chase after her, so who knows what she’s doing right nooow…
+
+Honestly, it’s impossible to say if she’s even still alive.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+she is alive. i think so. i feel it.
+
+whenever i come in contact with the [ocean], i feel mother.
+{% endbubble %}
+
+{% bubble Madara %}
+It’s rare to hear you say something so God-like, isn’t iiit?
+{% endbubble %}
+
+{% bubble Kanata glare %}
+do not poke fun at me, please. that is a bad habit of yours, mikejima.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+at that time, i was almost [kidnapped].
+
+i was tied up and unable to move, and because i had my [blindfold] on, i could not tell what was going on.
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+but when i closed my [eyes] out of fear, feeling [faint]… it was as if i was being [cradled] by someone the whooole time.
+
+that might have been my mother. that warm feeling i felt.
+{% endbubble %}
+
+{% bubble Madara northinking %}
+Yeah, that’s not impossible… Your mother officially retired from her position as God by faking her death. We don’t know the motive behind that, and it doesn’t really matter either.
+
+She might’ve grown exhausted from reigning as God when she was really a human being all the while, or something like that.
+
+There might’ve been a more incomprehensible, unrelatable reason behind it, as well.
+{% endbubble %}
+
+{% bubble Madara frown %}
+But it has nothing to do with us anymore. After all, your mother abandoned her worshipers, her religion — even her own <em>child</em> — and went off on her own somewhere.
+
+She’s not qualified to be a mother.
+
+You don’t have any obligation to call such an awful human being your “mother”.
+{% endbubble %}
+
+{% bubble Kanata awkward %}
+i think that could not be helped, though. mother was a [god] muuuch longer than i ever was.
+
+it is not her fault that she did not have enough [experience] as a human being.
+
+it does feel lonely, though. i still miss her a little to this day.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+but. i am no longer a [child] yearning for his mother. after all, i now have so many warm people around me.
+
+there is no [need] to feel lonely; not one bit.
+
+besides, my mother likely did not abandon me because she wanted to. she tried to take me away with her at first.
+
+but she changed her mind, and decided to stop trying.
+
+why do you think she made that choice, mikejima?
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! (9/16 Chapters)
+Translation in progress! (13/16 Chapters)
 {% endnote %}
 
 <div toc>
@@ -349,4 +1054,10 @@ Translation in progress! (9/16 Chapters)
 [^1]: The word for depth here is <em>fuchi</em> (淵), the same kanji used in “deep abyss” (<em>shin-en</em> 深淵)
 [^2]: “Transform” (<em>henshin</em>) is what tokusatsu heroes say before transforming into their hero form.
 [^3]: In Japanese, this can also refer to an old man/woman, and is not necessarily a family member or relative.
-[^4]: Combatmen refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the <a href="https://kamenrider.fandom.com/wiki/Shocker_Combatmen" target="_blank">Shocker Combatmen</a> from Kamen Rider.
+[^4]: Combatants refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the <a href="https://kamenrider.fandom.com/wiki/Shocker_Combatmen" target="_blank">Shocker Combatmen</a> from Kamen Rider.
+[^5]: Souma calls Kanata with “sama” to show respect to his status as a god.
+[^6]: Young Souma calls Madara by “Mikejima-dono” just like present Souma, but as a young kid the <em>dono</em> is in hiragana, whereas present Souma says <em>dono</em> with the kanji 殿.
+[^7]: He says <em>puka puka</em> in Japanese here, which can mean bubbling or floating.
+[^8]: This is a classic samurai catchphrase from the old ages, typically used in stories set in those days.
+[^9]: Here, Souma says <em>kami-sama</em>. This is different from the way Madara refers to young Kanata, which is simply </em>kami</em>.
+[^10]: This is a motto that samurais live by. The quote comes from Confucius.

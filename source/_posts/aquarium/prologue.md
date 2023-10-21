@@ -97,7 +97,7 @@ well, yes, [cleaning] up the [whole] ocean by [yourself] is definitely [impossib
 you really *would* have to rely on [everyone’s strength], or a very [strong power].
 {% endbubble %}
 
-{% bubble Kanata smile3 %}
+{% bubble Kanata smilesoft2 %}
 when i become an [adult], i will be able to use that kind of [power], too…
 
 and then i would also like to make the ocean [clean]. it would be my [repayment] to the kindness from the mother ocean.
