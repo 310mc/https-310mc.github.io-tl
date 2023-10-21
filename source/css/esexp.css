@@ -500,6 +500,9 @@
 [character="Kanata"][kid] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kid.png");
 }
+[character="Kanata"][kidangry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidangry.png");
+}
 [character="Kanata"][kidcurious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidcurious.png");
 }
@@ -526,6 +529,9 @@
 }
 [character="Kanata"][kidnorthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnorthinking.png");
+}
+[character="Kanata"][kidsrsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsrsthinking.png");
 }
 [character="Kanata"][kidsad3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsad3.png");
@@ -1408,6 +1414,9 @@
 [character="Souma"][kidheh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidheh.png");
 }
+[character="Souma"][kidheh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidheh2.png");
+}
 [character="Souma"][kidnorsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidnorsmile.png");
 }
@@ -1449,6 +1458,9 @@
 }
 [character="Souma"][kidworried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidworried.png");
+}
+[character="Souma"][kidyare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_kidyare.png");
 }
 
 [character="Souma"][pastcg] {
@@ -1943,6 +1955,9 @@
 [character="Madara"][kidfrown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidfrown.png");
 }
+[character="Madara"][kidfrownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidfrownshake.png");
+}
 [character="Madara"][kidfrustrated] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidfrustrated.png");
 }
@@ -1960,6 +1975,12 @@
 }
 [character="Madara"][kidnorsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidnorsmile.png");
+}
+[character="Madara"][kidsad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidsad4.png");
+}
+[character="Madara"][kidsigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidsigh.png");
 }
 [character="Madara"][kidserious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidserious.png");
@@ -1993,6 +2014,9 @@
 }
 [character="Madara"][kidsurprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidsurprised.png");
+}
+[character="Madara"][kidworried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidworried.png");
 }
 [character="Madara"][kidyare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_kidyare.png");

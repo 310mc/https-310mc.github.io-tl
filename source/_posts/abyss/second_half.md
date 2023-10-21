@@ -385,7 +385,7 @@ no. mikejima… —behind you!
 <th>(Let me sneak in and observe the situation without being seen… I’m nervous.)</th>
 {% endbubble %}
 
-{% bubble Madara kidangry2 %}
+{% bubble Madara kidangry %}
 Give Kanata-kun back! Give him back RIGHT NOW!!! DAMMIIITTT!!
 {% endbubble %}
 
@@ -455,7 +455,7 @@ Kieeeeh!
 That was so clooose! Where’d you pull out that katana from!?
 {% endbubble %}
 
-{% bubble Souma kidsmileconfident %}
+{% bubble Souma kidsmile %}
 I had it behind my back this whole time. I brought over my treasured family’s katana, as I thought I may end up in a fight.
 
 But if my father found out, I may really have to disembowel myself this time, so please do keep it a secret.
@@ -774,7 +774,7 @@ it does not matter. kanata would prefer thinking of it that way. it is much bett
 ## Chapter 12
 
 {% bubble Kanata kidsmileconfident %}
-more importantly, one must rush, right? there is no time to rest. you must run, mikejima. ♪
+more importantly, one must hurry, right? there is no time to rest. you must run, mikejima. ♪
 
 mikejima is so slow! mikejima is the one who should train his legs more. ♪
 {% endbubble %}
@@ -798,7 +798,7 @@ Souma-kun, right? Did everything go okaaay?
 {% endbubble %}
 
 {% bubble Souma kidheh2 %}
-Of course! I am always prepared for anything! I am the son of samurai, strong and clever! Heh! ♪
+Of course! I am always prepared for anything! I am the son of samurai, strong and clever! Heh~! ♪
 {% endbubble %}
 
 {% bubble Souma kidserious %}
@@ -1059,5 +1059,5 @@ Translation in progress! (13/16 Chapters)
 [^6]: Young Souma calls Madara by “Mikejima-dono” just like present Souma, but as a young kid the <em>dono</em> is in hiragana, whereas present Souma says <em>dono</em> with the kanji 殿.
 [^7]: He says <em>puka puka</em> in Japanese here, which can mean bubbling or floating.
 [^8]: This is a classic samurai catchphrase from the old ages, typically used in stories set in those days.
-[^9]: Here, Souma says <em>kami-sama</em>. This is different from the way Madara refers to young Kanata, which is simply </em>kami</em>.
+[^9]: Here, Souma says <em>kami-sama</em> (God). This is different from the way Madara refers to young Kanata, which is simply <em>kami</em>.
 [^10]: This is a motto that samurais live by. The quote comes from Confucius.

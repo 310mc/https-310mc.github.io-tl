@@ -1782,7 +1782,7 @@ The case’s gonna expire soon anyway, and it’s way too heavy a burden to carr
 
 —Let’s start from the beginning: when God died.
 
-That was a conspiracy created by a secret organization that existed in our religion, and that organization was called “ABYSS”.
+That was a scheme created by a secret organization that existed in our religion, and that organization was called “ABYSS”.
 {% endbubble %}
 
 <div toc>
