@@ -142,7 +142,7 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-           It's like a teacher to you, huh?
+           It's like a mascot teacher, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}

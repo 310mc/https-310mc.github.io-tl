@@ -839,7 +839,7 @@ Well, it is a toy shop, so he must have gone in to buy some? Nonetheless, I shal
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa… You don’t have to do that… I don’t wanna be near him as much as I can during summer… It’s already suffocating and tiring as it is…
+Ehh… You don’t have to do that… I don’t wanna be near him as much as I can during summer… It’s already suffocating and tiring as it is…
 {% endbubble %}
 
 {% img /img/es/scoutstory/buddy/chiakiorigcg.jpg %}

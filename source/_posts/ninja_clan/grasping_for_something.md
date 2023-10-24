@@ -262,7 +262,7 @@ I-I’m sorry ‘bout that. You desperately trynna get them to join was starting
 {% endbubble %}
 
 {% bubble Midori curious %}
-Whaa, it was *that* bad…? I guess this idea’s a bust, then.
+Ehhh, it was *that* bad…? I guess this idea’s a bust, then.
 {% endbubble %}
 
 {% bubble Tetora curious %}

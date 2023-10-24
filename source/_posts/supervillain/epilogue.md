@@ -268,7 +268,7 @@ Let’s hear your thoughts on your ideal Ryuseitai — “Ryuseitai Green”![^2
 {% endbubble %}
 
 {% bubble Midori worried %}
-Whaa…? Ughhh, this is turning out to be such a <em>pain</em>…
+Ehhh…? Ughhh, this is turning out to be such a <em>pain</em>…
 {% endbubble %}
 
 {% bubble Midori smile %}

@@ -1760,7 +1760,7 @@ No~! Now it’s way too far to the *left!*
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa…? This is starting to be a pain…
+Ehh…? This is starting to be a pain…
 {% endbubble %}
 
 {% bubble Tori %}

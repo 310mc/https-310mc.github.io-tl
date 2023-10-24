@@ -97,7 +97,7 @@ Ahaha, maybe their exhaustion has put them in a strangely hyper mood. They said 
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa? Why would they do a huge cleanup like that *again*…? Are they trying to escape into the night together…?[^1]
+Ehhh? Why would they do a huge cleanup like that *again*…? Are they trying to escape into the night together…?[^1]
 {% endbubble %}
 
 {% bubble Tetora %}

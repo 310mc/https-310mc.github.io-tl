@@ -250,7 +250,7 @@ I didn't think I needed it at first, 'cause I don't want too many people knowing
 			</div>
 			<div data-tab="1b-r" style="display: none">
             	{% bubble Midori %}
-							Whaa…? Talk to my *roommates*?
+							Ehh…? Talk to my *roommates*?
 
 							There's no way I could talk about my worries to the people who literally act as the vice-president of their agencies…
 

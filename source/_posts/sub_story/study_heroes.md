@@ -152,7 +152,7 @@ That’s how I got so good at studying! Fuhahahaha! ☆
 {% endbubble %}
 
 {% bubble Midori sigh %}
-Whaa…? I’m shocked to hear that a blockhead like him can actually study well…
+Ehhh…? I’m shocked to hear that a blockhead like him can actually study well…
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -342,7 +342,7 @@ Let’s go through more workbooks together, until all of your grades improve! We
 {% endbubble %}
 
 {% bubble Midori sigh %}
-Whaa…?
+Ehhh…?
 {% endbubble %}
 
 {% bubble Shinobu worried %}

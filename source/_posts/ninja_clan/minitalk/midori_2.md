@@ -81,7 +81,7 @@ I sent him this urgent message the other day, but he arrived late to our meeting
             {% bubble Midori smile %}
             Well, it'd definitely work as one for Morisawa-senpai.
 
-            But I heard heroes grow stronger the more powerful the adversary, so maybe he'll tear up with joy over the opportunity.<!--強い困難に立ち向かうほど成長するそうですし、むしろ泣いて喜ぶんじゃないですかね-->
+            But I heard heroes grow stronger the more powerful the adversary, so maybe he'll actually cry tears of joy over the opportunity.<!--強い困難に立ち向かうほど成長するそうですし、むしろ泣いて喜ぶんじゃないですかね-->
 			{% endbubble %}
         </div>
     </div>

@@ -1294,7 +1294,7 @@ In fact, this is what I should’ve done yesterday! I regret not taking action e
 {% endbubble %}
 
 {% bubble Midori worried %}
-Erm, he’s not dead or anything though, right? Isn’t he smiling and making a peace sign in the photo…?
+Erm, he’s not dead or anything though, right? Isn’t he smiling and doing a peace sign in the photo…?
 
 And anyway, I dunno what’s going on in Okinawa, but won’t the same happen to us if we head over there…?
 

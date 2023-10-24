@@ -407,6 +407,10 @@ Give Kanata-kun back! Give him back RIGHT NOW!!! DAMMIIITTT!!
 <th>(…He is surely feeling frustrated, having been unable to protect his friend.)</th>
 {% endbubble %}
 
+<video controls>
+  <source src="/img/es/scoutstory/abyss/10_3.mp4" type="video/mp4">
+</video>
+
 {% bubble Madara kidfrownshake %}
 Dammit, dammit, dammit… Damn it all!
 
@@ -710,7 +714,7 @@ what do you mean?
 {% endbubble %}
 
 {% bubble Madara kidserious %}
-I learned this the hard way, but I now understand that kids can barely ever win against adults. The possibility of a clever kid outwitting the dumb adults and turning the tables to his side is impossible.
+I learned this the hard way, but kids can barely ever win against adults. The possibility of a clever kid outwitting the dumb adults and turning the tables to his side is impossible.
 
 Not to mention how absolutely well-trained those ABYSS guys were… They’re professionals in that line of work, I think.
 {% endbubble %}
@@ -772,6 +776,8 @@ it does not matter. kanata would prefer thinking of it that way. it is much bett
 {% endbubble %}
 
 ## Chapter 12
+
+{% img /img/es/scoutstory/abyss/12_1.jpg %}
 
 {% bubble Kanata kidsmileconfident %}
 more importantly, one must hurry, right? there is no time to rest. you must run, mikejima. ♪
@@ -965,9 +971,7 @@ yes. it was all a [scheme] devised by the [adults].
 —it started when god died.
 
 as in, my mother.
-{% endbubble %}
 
-{% bubble Kanata frown2 %}
 but. even that itself was a [lie], wasn’t it?
 {% endbubble %}
 

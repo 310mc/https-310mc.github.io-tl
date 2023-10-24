@@ -151,7 +151,7 @@ Alright, you leave me no choice! Midori-kun, come with me!
 {% endbubble %}
 
 {% bubble Midori %}
-Whaaa…?
+Ehhhh…?
 {% endbubble %}
 
 <div class="msr-location">
@@ -281,7 +281,7 @@ Alright then, we’ll keep the compliment for when we see each other tomorrow! S
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa— You’re gonna keep at it…?
+Ehhh— You’re gonna keep at it…?
 {% endbubble %}
 
 <div class="msr-location">

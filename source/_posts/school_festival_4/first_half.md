@@ -107,7 +107,7 @@ Yeah, there were way more food stalls than I thought. What do you guys want for 
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa… So you’re just gonna ignore *my* thought…
+Ehhh… So you’re just gonna ignore *my* thought…
 
 You’re the one who was like, “When it comes to festivals, you think food stalls!”, then decided on everything on your own… and now we’re all gonna be dragged into it… How about you think about how *we* feel…
 {% endbubble %}
@@ -537,7 +537,7 @@ You too, transfer student-san! You gotta start doin’ the scene where you shake
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa… *You're* the one who went along with what she said…
+Ehhh… *You're* the one who went along with what she said…
 {% endbubble %}
 
 {% bubble Tetora %}

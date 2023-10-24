@@ -355,7 +355,7 @@ That’s all from me. Right then, it’s time to fulfill our duties…☆
 
 <th>(W-What!? Shinkai-senpai’s gone again…!)</th>
 
-<th>(Whaaa… Morisawa-senpai *just* told him off, why’s he still doing this…!?)</th>
+<th>(Ehhh… Morisawa-senpai *just* told him off, why’s he still doing this…!?)</th>
 
 <th>(H-He shouldn’t be that far… hopefully!)</th>
 

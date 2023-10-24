@@ -158,7 +158,7 @@ A sleepover party, huh? Sounds fun! Hey, Midori-kun, we should throw one, too~�
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa… Don't wanna…
+Ehhh… Don't wanna…
 {% endbubble %}
 
 {% note narration %}

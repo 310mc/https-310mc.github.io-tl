@@ -140,7 +140,7 @@ Got it! Then let’s find the time to hang out together~♪
 {% endbubble %}
 
 {% bubble Midori %}
-W-Whaaa…?
+E-Ehhh…?
 {% endbubble %}
 
 <div class="msr-location">
@@ -224,7 +224,7 @@ It’s gonna be good exercise for us. Let’s run too, Midori-kun!
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa? Are you for real?
+Ehhh? Are you for real?
 {% endbubble %}
 
 {% bubble Hinata %}

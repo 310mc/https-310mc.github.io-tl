@@ -159,7 +159,7 @@ So, Midori-kun! Come with me to the live show! Please
 {% endbubble %}
 
 {% bubble Midori %}
-Whaa…? I *just* said I'd *only* hear you out…
+Ehh…? I *just* said I'd *only* hear you out…
 {% endbubble %}
 
 {% bubble Hinata %}

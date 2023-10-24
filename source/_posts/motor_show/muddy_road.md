@@ -142,7 +142,7 @@ Uhhh, why does that not sound like a compliment at all…!? I get angry every no
 {% endbubble %}
 
 {% bubble Midori serious %}
-Whaaa… But as far as I can recall, you've only ever snapped once…
+Ehhh… But as far as I can recall, you've only ever snapped once…
 
 I know I'm kind of a pain, so… It's no surprise I get on people's nerves.
 
