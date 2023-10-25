@@ -92,7 +92,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 G’morning… What’s wrong, Mashiro-kun…? You’re sighing…
 {% endbubble %}
 
-{% bubble Midori smile2 %}
+{% bubble Midori smirk %}
 I know *exactly* how you feel… It hurts, doesn’t it? Even just breathing is horrible and tiring, isn’t it? It’s exactly the same for me…♪
 
 You know, medicine could cure the cold in your heart if you're still in the early stages…♪

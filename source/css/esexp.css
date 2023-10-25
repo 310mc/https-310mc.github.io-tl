@@ -100,7 +100,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh.png");
 }
 [character="Midori"][sigh2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh5.png");
 }
 [character="Midori"][sigh3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh3.png");
@@ -114,12 +114,6 @@
 [character="Midori"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile.png");
 }
-[character="Midori"][smile2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile2.png");
-}
-[character="Midori"][smile4] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile4.png");
-}
 [character="Midori"][smile5] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile5.png");
 }
@@ -128,6 +122,12 @@
 }
 [character="Midori"][smile7] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile7.png");
+}
+[character="Midori"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smileconfident.png");
+}
+[character="Midori"][smirk] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smirk.png");
 }
 [character="Midori"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_srsthinking.png");

@@ -205,7 +205,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 ## Chapter 2
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 “Hello, everyone! Thank you for coming to our Tropical Live!”
 
 “We Ryuseitai have powered up to a new form, where we express each of our unique selves.”

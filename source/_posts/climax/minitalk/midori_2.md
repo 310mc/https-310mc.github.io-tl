@@ -50,7 +50,9 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}
+
 {% bubble Midori sigh2 %}
 You and Sengoku-kun were way too panicked…
 
@@ -125,7 +127,9 @@ And then even brought over some troublesome people…
 </div>
 
 ## <div mt="rare"></div> 2/3
+
 {% img /img/es/eventstory/climax/minitalk_midori2_2.jpg %}
+
 {% bubble Midori idle %}
 Everyone is working hard in preparation for Repayment Festival, huh…
 
@@ -145,7 +149,7 @@ Ahh, please don't worry about me.
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori smile4 %}
+            	{% bubble Midori smileconfident %}
 							Yeah, about that…
 
         I plan to just support them as a fan this time.
@@ -197,14 +201,16 @@ Ahh, please don't worry about me.
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/climax/minitalk_midori2_3.jpg %}
+
 {% bubble Midori srsthinking %}
 Our seniors really will graduate, won't they…
 
 A lot has happened the past year…
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 But the reason we were able to remain as the five of us is also thanks to you, Anzu-san.
 {% endbubble %}
 

@@ -408,7 +408,7 @@ then let's bathe in the [water]\~♪ it will [relieve] you and make you feel ref
 Where'd you get that bucket from, Shinkai-senpai!? I see water in there — If you dump that on us, we'll *all* get sick!
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Ahaha… It's finally gone right back to the usual for us… What a relief…♪
 {% endbubble %}
 

@@ -164,7 +164,7 @@ Either way, thank you so much for hearing me out, Anzu-san.
           I'm grateful, too.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile4 %}
+            {% bubble Midori smileconfident %}
             "No matter the reason, I'm glad to see you working really hard"…? I guess so…
 
             But I feel like a part of me was saved hearing that. Alright… I'm starting to feel a lot better now, so I'll do my best at work.

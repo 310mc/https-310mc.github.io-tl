@@ -109,7 +109,7 @@ Ryuseitai is dressed in Ra\*bits uniform, and Ra\*bits is dressed in the Paralle
 {% img /img/es/eventstory/parallelworld/2.jpg %}
 
 {% bubble Hajime smile %}
-W-Wooow~…! *<th>(clap, clap, clap)</th>* ♪
+W-Wooow~…! Cclap, clap, clap ♪
 {% endbubble %}
 
 {% bubble Mitsuru grin %}

@@ -645,7 +645,7 @@ So I wouldn’t be wrong to assume that this means that Crimson Production is on
 Guhhh… This is so frustrating. There’s nothing I can even say to counter that…
 {% endbubble %}
 
-{% bubble Midori smile2 %}
+{% bubble Midori smirk %}
 Just seeing Morisawa-senpai this frustrated brings me joy somehow.
 {% endbubble %}
 

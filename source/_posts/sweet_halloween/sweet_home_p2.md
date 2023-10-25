@@ -308,7 +308,7 @@ Wawa— Morisawa-senpai, shhh\~♪ I think Nii\~chan is asleep, so please keep y
 Ah! Yeah! My bad! I-I think I’ve gotten sleepy, too! Can I go ahead and get some rest? Is it okay if I do that!?[^3]
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Oh no no… Don’t be like that\~ Let’s all watch the movie together…♪
 {% endbubble %}
 
@@ -516,7 +516,7 @@ I-It’s fine if you don’t want to, though…
 Huh…? Um…? I-It isn’t that I don’t want to…
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Heeey, Morisawa-senpai…?
 
 Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, y'know\~? ♪
@@ -526,7 +526,7 @@ Come on out from under your blankets\~ You’re being rude to the movie makers b
 No! It’s scary! I don’t wanna see any more blood and guts!
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 You always force *us* to watch hero stuff when we never even wanted to, though…?
 
 So there’s no reason why *you* should be the only one to get away with saying that, right…?

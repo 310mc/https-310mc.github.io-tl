@@ -252,7 +252,7 @@ Seriously, are you gonna be alright for this…?
 I-I-I-I’m fine! Ghosts don’t exist! They’re just something people see when they’re half asleep![^1]
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Ahaha… Morisawa-senpai’s acting just like a little kid at a haunted house…♪
 {% endbubble %}
 
@@ -276,7 +276,7 @@ Everyone's walking around in monster costumes, but only a few of 'em are actuall
 Alright! Gather over, kids! I’m giving out candy\~ Trick or Treat\~♪
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Here you go… We’re going to have a live show at the concert hall, so please come over and watch if you can…♪
 {% endbubble %}
 
@@ -398,7 +398,7 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 fufu, do not [bully] him so much, midori~♪
 {% endbubble %}
 
-{% bubble Midori smile2 %}
+{% bubble Midori smirk %}
 Mhm… But I just wanna get a tinsy bit more of my revenge for all the times he’s pestered me…♪
 {% endbubble %}
 
@@ -538,7 +538,7 @@ Nihihi! However, we are monsters, so we should probably not be *too* energetic.
 We should be more like Midori-kun; it is much more monster-like to be sluggish and droopy~♪
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Ahaha, it’s unusual for Morisawa-senpai to be useless, but I feel like I got to be useful instead…
 
 I got a lot of attention from the guests, and they kept asking me to take pictures with them…
@@ -844,7 +844,7 @@ I’m not really trying to…
 But being how I normally am seems to do the trick, so maybe I really am fit for this role…♪
 {% endbubble %}
 
-{% bubble Midori smile2 %}
+{% bubble Midori smirk %}
 If only I could always be praised for being sluggish…♪
 {% endbubble %}
 

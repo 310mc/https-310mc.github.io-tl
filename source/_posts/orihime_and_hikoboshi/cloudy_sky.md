@@ -186,7 +186,7 @@ There's nothing to bring back, though… It's been generally peaceful…
 The school felt dark and depressing back in spring, and I was stressed over how I might’ve messed up and joined the wrong school…
 {% endbubble %}
 
-{% bubble Midori smile2 %}
+{% bubble Midori smirk %}
 But lately, it’s been calm and quiet… So I’ve been pretty happy…♪
 {% endbubble %}
 

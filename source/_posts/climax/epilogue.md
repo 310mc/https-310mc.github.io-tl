@@ -361,7 +361,7 @@ Heeey, my comrades! We’re a little late, but we’re here to cheer you on! ☆
 …Ryusei Punch!
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Ryusei Kiiick~♪
 {% endbubble %}
 
@@ -875,7 +875,7 @@ Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line!
 
 {% img /img/es/eventstory/climax/midoribcg.jpg %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Shut it.
 
 The green flame is the mark of compassion—

@@ -94,7 +94,7 @@ I always knew I had different interests from Midori-kun and stuff, but it’s pr
 Mascot characters should have a surreal look to ‘em, like their design is kinda vague and incomplete… They should be fun, cheerful, and soft… That’s the path that you advocate for, right, Midori-kun?
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 No, no, that’s such a stiff way to look at it. Calling it a “path” isn’t soft and fluffy at all, y’know?
 
 Don’t try to pick up the keywords; I’d rather you feel it through your heart. You need to relax and have fun.
@@ -302,7 +302,7 @@ I don’t get it, why would you feel nervous? It’s not like we’re the ones u
 Of <em>course</em> I’d feel nervous…! I’m gonna get to see Pop-dayuu with my own two eyes, y’know!?
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Oh, just to let you know, Pop-dayuu[^2] is a musical-based mascot character — they wear a kimono and have a music symbol for a face…
 
 And they’ve been trending on social media ‘cause they can even play the shamisen.
@@ -874,7 +874,7 @@ but i can see that you finally [trust] us…♪
 it would be [mean] to only be watching from afar, yes? how about we join them in [practice]?
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Okay, let’s…♪
 {% endbubble %}
 

@@ -468,7 +468,7 @@ Your heart’s way too weak, Midori-kun… If only we could do workouts for our 
 Understood~! Midori-kun, I would like to get down from the ladder, so please move away for a moment.
 {% endbubble %}
 
-{% bubble Midori smile4 %}
+{% bubble Midori smileconfident %}
 Ahh, it’s easier if I just carry the ladder with you on it… Up you go…♪
 {% endbubble %}
 
