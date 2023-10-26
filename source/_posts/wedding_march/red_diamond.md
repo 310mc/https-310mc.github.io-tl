@@ -2294,7 +2294,7 @@ Well, the first two barriers aside, the real challenge is the one after—
 “Alright, here it is! ‘What is Player Sazanami’s favorite food?’”
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 His favorite… food…!?
 {% endbubble %}
 
@@ -2344,7 +2344,7 @@ Ah, he’s—
 Hold on, Morisawa-senpai’s calling me. Hello…?
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 W-What the… All I hear is heavy breathing… Could you not play creepy pranks on me…?
 
 …Mm, what? …Sazanami-senpai’s favorite food? Where’d this come from…?

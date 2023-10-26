@@ -192,7 +192,7 @@ I'll head back to the agency office to take my belongings.
             Speaking of which…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki shocked2 %}
+            {% bubble Chiaki horrified %}
             …There's a rumor about a ghost appearing in the elevator?
 
             W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!

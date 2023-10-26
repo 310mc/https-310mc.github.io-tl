@@ -287,7 +287,7 @@ Ryusei Beam! Ryusei Beam!
 [evil] barrier~♪
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 Ah— So *that’s* how you fight…? It really is just a game for kids…
 {% endbubble %}
 

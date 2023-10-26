@@ -206,7 +206,7 @@ Good work, Senpai~♪
 For real, good work… Gosh, Morisawa-senpai can be *such* a handful, huh…♪
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 What!? I'm the victim here, but you're talking to me like I'm the one who did something wrong!
 {% endbubble %}
 

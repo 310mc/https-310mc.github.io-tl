@@ -114,7 +114,7 @@ Wha—? Uhh, I thought you two were bad at stuff like this, sooo…?
 If you wanna be the temporary leader, then feel free, Midori-kun~♪
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 No, no, no way, nooo way… You're just fine for it…
 
 Didn’t Morisawa-senpai say something about entrusting that role to you whenever he's not around…?

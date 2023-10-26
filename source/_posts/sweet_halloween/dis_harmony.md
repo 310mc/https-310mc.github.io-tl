@@ -506,7 +506,7 @@ What’s with the grave look? Is something wrong?
 It’s not like you to make such a grim face! C’mon, cheer up~♪
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 O-Ooh!? You surprised me! Sorry, sorry! I was deep in thought and couldn’t respond in time!
 {% endbubble %}
 

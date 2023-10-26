@@ -295,7 +295,7 @@ I see now, so you’ve finally realized the joy of basketball. I’m so happy~ T
 Now then, let’s head off! Let’s enjoy a sparkling youth together! ☆
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 Eeek— Stop, don’t grab the back of my collar~! S-S-Save me, you twooo…!
 {% endbubble %}
 

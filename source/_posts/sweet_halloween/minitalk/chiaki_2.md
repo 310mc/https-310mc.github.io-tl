@@ -236,7 +236,7 @@ I hope the juniors also got to feel something through this event in their own re
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki surprised2 %}
+            	{% bubble Chiaki shocked %}
               What!? Who told you!?
 
               "chiaki was reaaally interesting this time~ puka, puka…♪"…?

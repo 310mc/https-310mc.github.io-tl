@@ -196,7 +196,7 @@ Fuhaha! I see, I see! You too are a hero who loves peace! ☆
 I feel the same way Takaminee~! We’re the same! We're two hearts beating as one! Let's keep working hard together! ☆
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 Ahh you're hot, you're insanely hot! Are you some heat power generator…!?
 {% endbubble %}
 

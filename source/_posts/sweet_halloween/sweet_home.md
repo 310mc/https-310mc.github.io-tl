@@ -528,11 +528,11 @@ G…G-Ghosts!? No, it’s fine, these are just decorations! It’s not scary! No
 …Taichou-dono?
 {% endbubble %}
 
-{% bubble Chiaki shocked2 %}
+{% bubble Chiaki horrified %}
 W-W-W-What is it!? I’m fine! I saw some realistic ghost decorations and freake—
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 No! I mean— I accidentally slipped on some decorations and fell! I wasn’t paying attention!
 {% endbubble %}
 

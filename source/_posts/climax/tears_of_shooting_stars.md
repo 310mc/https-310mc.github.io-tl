@@ -174,7 +174,7 @@ T-Taichou-dono\~? Shinkai-dono\~? I finally caught up with you!
 Both of you rushed straight to the scene before I could get to the details…
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 Sengoku! You’re here just in time — explain the situation!
 
 Hm? Even Anzu is here? Is that a first aid kit in your hand? Did you go somewhere to fetch it?

@@ -242,7 +242,7 @@ Hahaha, no need to be so shy! Aren’t we comrades who share the same spirit!?
 Everyone is waiting for you at the shop’s entrance! If you don’t come down, then we’ll all just have to come to your room, Takamine…☆
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori horrified %}
 Eeeep…!
 {% endbubble %}
 

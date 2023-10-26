@@ -233,7 +233,7 @@ But I was so caught up by the hero tradition, that I never once considered it at
 chiaki always wants to [learn] to do [better]~… it is honestly a bother.
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki shocked %}
 Wha—!? Where did I go wrong, Kanata!?
 {% endbubble %}
 
