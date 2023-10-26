@@ -45,6 +45,9 @@
 [character="Midori"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frown.png");
 }
+[character="Midori"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frownshake.png");
+}
 [character="Midori"][frustrated] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_frustrated.png");
 }
@@ -79,10 +82,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sad2.png");
 }
 [character="Midori"][sad3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sad3.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sad3_1.png");
 }
 [character="Midori"][sad4] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sad4.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sad4_1.png");
 }
 [character="Midori"][scold] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_scold.png");
@@ -102,9 +105,6 @@
 [character="Midori"][sigh2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh5.png");
 }
-[character="Midori"][sigh3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh3.png");
-}
 [character="Midori"][sigh4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sigh4.png");
 }
@@ -114,17 +114,17 @@
 [character="Midori"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile.png");
 }
-[character="Midori"][smile5] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile5.png");
-}
-[character="Midori"][smile6] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile6.png");
-}
 [character="Midori"][smile7] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile7.png");
 }
 [character="Midori"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smileconfident.png");
+}
+[character="Midori"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smilesoft.png");
+}
+[character="Midori"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smilesoft2.png");
 }
 [character="Midori"][smirk] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smirk.png");

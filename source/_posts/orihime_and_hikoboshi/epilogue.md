@@ -351,7 +351,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(I’ll crash into them if I’m not careful… This is a live showdown, so Trickstar is singing at the same time as us…)</th>
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 <th>(Ahh… This sucks, everything’s so messy…)</th>
 
 <th>(But I don’t have anywhere to hide… Everyone's focusing on me… This is why I'm scared of being onstage, it sucks… Ughh, and it's just so hot, this is seriously the worst…)</th>

@@ -374,7 +374,7 @@ That is exactly what tokusatsu shows always promise to deliver.
 <th>(…………)</th>
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 <th>(Ahh, I'm doing it again… I'm running away from something I can't stand, and making up whatever excuses I can think of… Why am I always like this…)</th>
 
 <th>(Even though it's White Day today… the day to return all the love you were given…)</th>
@@ -652,7 +652,7 @@ Yes! You're a good boy, Takamine!
 Hang in there, hero! Don't lose now, hero…!! ☆
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 Don't shout… See, now people are probably wondering what's going on and looking at us…
 
 There's gonna be rumors now… so depressing…
@@ -712,7 +712,7 @@ You’re still part of Ryuseitai, aren't you…? So will you make my wish come t
 Hm? I don't mind, tell me anything! I’ll do what I can!
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 Then please make sure you two come back to Yumenosaki later, okay?
 
 Repayment Festival is for saying thanks to our seniors, so if you’re not there, it’ll be a little awkward…

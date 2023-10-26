@@ -150,7 +150,7 @@ Morning practice… Ughhh, just the thought depresses me…
 What’s wrong, Takamine! Cheer up, Takamine…☆
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 It’s depressing enough to have to go to morning practice, I don’t need Morisawa-senpai’s loud voice to depress me further…
 
 Besides, I’m not good with mornings… Well, more like I’m not fond of working hard…
@@ -170,7 +170,7 @@ Ryusei Red! Morisawa Chiaki…!
 Alright, Takamine, you’re up next!
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 No thanks…
 {% endbubble %}
 

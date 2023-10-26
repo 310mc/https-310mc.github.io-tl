@@ -125,7 +125,7 @@ Let’s aim to be heroes, as well! Aren’t you a boy, Takamine!? You should gra
 Get yourself into the spirit like THIIIIS, and embrace everything whole! Fuhahaha! ☆
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 Could you please try to make sense when you talk…?
 
 Ughh… This is such a paaain… Why do I have to play around as a hero when I’m in high school…

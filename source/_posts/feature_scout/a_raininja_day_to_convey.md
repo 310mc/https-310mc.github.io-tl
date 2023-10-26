@@ -125,7 +125,7 @@ Ehehe. Your compliments make me happy, but I am really not doing anything partic
 *<th>(snapshot, snapshot)</th>* ♪ Oh no, no, quite the contrary! I feel my very nerves and eyeballs bursting out due to your adorable form. Ufufufufu~♪
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 …Eugh. I feel like I saw something I shouldn’t have… Maybe I’ll just go…
 {% endbubble %}
 
@@ -201,8 +201,8 @@ So, as anyone would expect… You’re gonna present yourself as a ninja in the 
 Of course I am! The way of the ninja is an inseparable path from my very life!
 {% endbubble %}
 
-{% bubble Midori smile6 %}
-Yeah, I’ll always love mascot characters, so it kinda relieves me to know you’ll also always love ninjas.
+{% bubble Midori smilesoft %}
+Yeah, I’ll always love mascot characters, so it kinda feels relieving to know you’ll also always love ninjas.
 
 I don’t think I can be of any help, but just know I’m wishing the best for you.
 {% endbubble %}
@@ -513,7 +513,7 @@ I know it’s not as straightforward as a ninja image, but how about making a pa
 My good traits…
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Yeah, I feel like you showed a lot of that just through our conversation…
 {% endbubble %}
 

@@ -366,7 +366,7 @@ Morisawa-senpai's always touchy-feely with us, so I bet he's got all kinds of ge
 Ah, no, he doesn't do that to me as much as he does to you, so I am probably okay!
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 Why's he always so clingy with me… It's seriously a huge pain…
 {% endbubble %}
 
@@ -824,7 +824,7 @@ Yeah… That was kinda scary… I always thought Akehoshi-senpai just goofs arou
 It felt more like he was looking down on us… Rather than scared, I would say I was shocked.
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 …I dunno what he couldn't stand about us, but he didn’t have to say it like that…
 {% endbubble %}
 
@@ -1176,7 +1176,7 @@ But, see… There are people out there who can't do it even if they try. Even I 
 There's no *way* these novice first years can do what you can do.
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 Exactly… *Thank* you, Isara-senpai…
 
 I… I was doing my very best… He kept on saying awful things to me, so I thought I’d make him eat his words…

@@ -83,7 +83,7 @@ heey, midori~?
 please come over here~ we can have a [quick look] at how the venue looks like~♪
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 Wow, it’s practically a full house… I can see a lot of people carrying the collab merch between us and “Tropical Island Troppeys”.
 
 Their hiatus meant no new merchandising, but thanks to this live show, they were able to make new merch to sell… Just that alone makes this project worthwhile.
@@ -99,7 +99,7 @@ everything has to come to an [end], isn’t that right?
 but that [end] is why we are here — because you love [tropical island troppeys], yes?
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 …Yeah, I do. I’m not confident enough to proudly say I created an outstanding project, but… As the leader, and as part of Ryuseitai, I’ve done everything I can to the absolute maximum.
 
 It’s kinda emotional to have your very own planned performance come to life, huh?
@@ -177,7 +177,7 @@ I was expecting something much more mascot-like for the stage, but… was this a
 Where were you looking, Morisawa-senpai? I only told you guys to relax and take it easy; I never once said anything about becoming a mascot character…?
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 We may be “Yuruseitai,” but we’re still also “Ryuseitai”.
 
 And I knew it’d be cruel to show our audience something disappointing — especially when they came for us, for Ryuseitai.
@@ -217,7 +217,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 “The residents of this tropical island — Bearbonk, Mr. Slothy, Armajiro, Kiwi, and Plateypus — are all here to dance with us!”
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 “At first, I was so shocked when I heard that they’d be taking a hiatus, that I felt too heartbroken to do anything… but that doesn’t mean that they’ll be gone forever.”
 
 “They’ll continue to enjoy their days on the tropical island, and then pop up on a whim to emotionally heal us whenever we’re sad or exhausted.”
@@ -305,7 +305,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 “…puka! ♪”[^2]
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 <th>(…Wow, everyone’s shining so bright.)</th>
 
 <th>(They’re all so cool — singing and dancing with everything they’ve got, all for the sake of my ideal vision.)</th>
@@ -439,7 +439,7 @@ it is a blessing to have new [work] come about, isn’t it~?
 shall we take the offer? …though of course, it will be with midori as the [commander]~♪
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 …Okay. To be honest, I don’t know if I’m up to the standards of such a huge role, but…
 
 I’ll continue devoting myself to my likes, and show the world the hero form that best defines me.

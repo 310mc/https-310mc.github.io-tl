@@ -666,7 +666,7 @@ But he intended to hide those tears from us to the very end!
 He wanted to say goodbye with a smile, as a hero — and to leave us with nothing but happy memories!
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 Are you insane!? That’s way too cool! What are you, some kind of saint!?
 
 And I—! I wasted an entire precious year of someone as amazing as that…!

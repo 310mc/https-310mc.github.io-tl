@@ -118,7 +118,7 @@ And then even brought over some troublesome people…
 
         I really don't ever wanna go through this again.
         {% endbubble %}
-        {% bubble Midori smile5 %}
+        {% bubble Midori smilesoft2 %}
         So I'm glad everyone came over.
 				{% endbubble %}
 			</div>
@@ -228,7 +228,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
             	{% bubble Midori worried %}
 							Whaa, *that's* what made you cry…!?
               {% endbubble %}
-              {% bubble Midori smile5 %}
+              {% bubble Midori smilesoft2 %}
         I don't want to see anyone's tears ever again.
 
         So please smile, Anzu-san…♪

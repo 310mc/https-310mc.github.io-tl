@@ -1555,7 +1555,7 @@ Huh? Really?
 I’ve started to use cute accessories from fancy shops on a daily basis, so if anything, I feel like I’ve been lookin’ much more childish lately…?
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 Ahh, yeah, you’ve been using a lot of cute stuff lately, haven’t you…
 {% endbubble %}
 

@@ -1010,7 +1010,7 @@ Besides, I’m not bold enough to try and convince people through sheer force th
 …No, I’m getting negative again. I need to get myself together…
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Anyway, that’s enough about me. I think you guys just need to start by learning more about them.
 
 I compiled a bunch of other mascot characters as well, though I chose them based purely on bias…

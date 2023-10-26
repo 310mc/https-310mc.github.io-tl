@@ -699,7 +699,7 @@ it is sad to say [goodbye], but i now look [forward] to our [next meeting] after
 *puka, puka…♪*
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 Ahaha… These two never miss a chance to take the spotlight, huh…?
 {% endbubble %}
 
@@ -853,7 +853,7 @@ You may have always been annoying, suffocating, clingy, gross, loud, unpleasant,
 You said it twice! You said “gross”‬ twice!!
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 But. I think I was also an unpleasant junior who was always lazy and kept snapping back…
 
 So, well… Let’s just call it even.

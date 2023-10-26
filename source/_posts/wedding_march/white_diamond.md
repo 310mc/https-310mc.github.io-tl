@@ -212,7 +212,7 @@ Peaceful time, huh… Yeah, I can imagine that. He’s kind to people like me, t
 Oh, you two know each other?
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 No, he’s just an acquaintance from the same Circle… Sometimes we borrow manga from each other and share our thoughts, but that’s about it.
 {% endbubble %}
 

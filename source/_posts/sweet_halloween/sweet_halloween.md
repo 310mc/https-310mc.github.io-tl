@@ -633,8 +633,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">Part One</a>
+                            <a href="minitalk/midori_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -642,13 +642,13 @@ permalink: sweet_halloween/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Part One</a>
+                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
                     <!--<div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Character</div> tomoya midori hajime chiaki
                         <div class="mt-content">
                             <div class="item">
                             <a href="NOTRANSLATION" id="none">x</a>

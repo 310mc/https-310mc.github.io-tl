@@ -78,7 +78,7 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
     <p>A while later…</p>
 </div>
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 —Alright, that’s all for the Mascot Character Course. Thank you for listening…♪
 {% endbubble %}
 
@@ -246,7 +246,7 @@ Ah, so at first, they were going to decline the offer to collab if it was just t
 But when they saw my love for mascots, and the performance of the newly formed Ryuseitai, they decided to accept the offer…? Because they felt like they may be able to breathe new air into the group…?
 {% endbubble %}
 
-{% bubble Midori smile5 %}
+{% bubble Midori smilesoft2 %}
 Wow, really…? So “Tropical Island Troppeys” wanted something new to try out, too…
 
 That makes sense — After all, their history goes way back… and they’d always be printed on all the merchandising of the company.
@@ -258,7 +258,7 @@ So they ended up handing the spotlight over to new mascot characters, and became
 That might be why they saw us Ryuseitai in a positive light — Because we weren’t afraid to take on a new look, despite being a long-established unit.
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Thank you so much for letting me know, Anzu-san.
 
 I may not be very reliable, but now I <em>have</em> to make sure to show a new image color of my own, don’t I?
@@ -318,7 +318,7 @@ I feel as though I have a lot to learn from Pop-dayuu. Ninjas are also deeply co
 Ah, um… Just to be clear, they aren’t <em>that</em> traditional. Though the vagueness of the setting is charming to me, personally…
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Anyway, we’ve come here so that you can all get a feel of what mascot characters are by bonding with them. So don’t think too hard about it, and just enjoy yourselves.
 {% endbubble %}
 
@@ -414,7 +414,7 @@ Please take a photo with me, too!
 Ehehe, thank you, Pop-dayuu! I will make sure to treasure this…☆
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Since Shinkai-senpai has a mascot-like side to him, he’s pretty photogenic here. Shinobu-kun’s smile was also really nice in his picture.
 {% endbubble %}
 
@@ -474,7 +474,7 @@ You’re all gonna run through my special course today. Please follow my lead, e
 Ooh, you’ve even printed the program out for us! You’re really fired up, Midori-kun!
 {% endbubble %}
 
-{% bubble Midori smile6 %}
+{% bubble Midori smilesoft %}
 Yeah. I know I’m already pushing a lot on you guys, but we can’t take it easy during practice.
 
 I’m entrusting you guys with my love for mascots, so I hope you can come to understand those feelings.
@@ -550,7 +550,7 @@ Mm, it still feels stiff… You have to be more soft and lax…!
 “Booonk, I’m Bearbonk-bonk!”
 {% endbubble %}
 
-{% bubble Midori sigh3 %}
+{% bubble Midori frownshake %}
 No, no, you need to loosen up your whole body…!
 {% endbubble %}
 
