@@ -376,7 +376,7 @@ Okay then! We’re going to be the “Effort! Friendship! Victory! Fiery☆Hero 
 “Hold on, that’s <em>way</em> too long… Can’t you make it something that won’t be exhausting to say?”
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Hrmph… Alright, then I’ll make it “Fiery☆Pair”!
 {% endbubble %}
 
@@ -1758,7 +1758,7 @@ Longevity!
 Yep, thought you’d agree~ After all, for us idols, our body is our livelihood.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 The very idea of living a long life is nice, as well. I’d like to remain as an idol that is loved by others forever.
 
 Alright, it’s about time to start filming. Let’s head back to the others once we drink from the waterfall.[^6]
@@ -2460,7 +2460,7 @@ Are you alright, Sazanami? Are you injured anywhere?
 Morisawa-senpai… Yeah, I’m alright.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Okay, that’s good. The smoke spread everywhere… Let’s wait it out here.
 {% endbubble %}
 
@@ -2508,7 +2508,7 @@ Sazanami…
 Ahh, man… You should’ve just ignored me and ran for cover, y’know…♪
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 …I refuse. I’d <em>never</em> leave you behind.
 
 Didn’t I say that I’d rescue you no matter what?
@@ -2662,13 +2662,13 @@ Dear viewers, please do enjoy our song with us. ♪
 <th>(This was a success… No, a <em>huge</em> success — Right, Morisawa-senpai? ♪)</th>
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 ♪\~♪\~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/weddingmarch/chiakibcg.jpg %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 <th>(While the project did end up becoming a full-on variety show… we were still able to set the mood of a wedding by starting the show with the PV that was originally rejected.)</th>
 
 <th>(I’m so glad we didn’t have to abandon that PV in the end. Even if the video is nothing out of the ordinary, it was still a production made with a lot of heart and soul in it.)</th>

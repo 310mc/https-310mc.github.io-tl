@@ -590,7 +590,7 @@ I wanted to earn points and get high marks for this unit, so that I could use it
 I kept only the good parts of Ryuseitai, and used it for my own sake.
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 But you're a considerate person, so benefiting from the unit’s value… might have felt wrong for you.
 
 But it isn't something to feel guilty about at all. That’s what units are for.
@@ -672,7 +672,7 @@ Does this guy even *know* what he’s saying…
 Well whatever, I'll go now… Is it really okay to leave the greengrocer work to you two…?
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 Yes. Actually, your family and I have already talked it over. When I explained everything, they accepted it and even supported it.
 
 Your family even apologized since they felt like they’ve given you a lot of grief. They’re good people. Cherish them well, Takamine.

@@ -421,7 +421,7 @@ And I was going to do whatever I thought was necessary to achieve that.
 As earnestly as possible, and with every ounce of effort in my body.
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 That’s exactly what makes you who you are, Nagumo. You really are an earnest and straight-forward boy.
 
 However, the plan you devised is much too dangerous for you. You’re up against a criminal organization that’s as terrifying as an actual organized crime enterprise. You’d be dead in an instant were you to fail.
@@ -693,7 +693,7 @@ He’s hiding it with makeup, though. He’s literally Ryusei Black, huh?
 You ass… Whose fault do you think that is, huh…?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Guys, let’s stop the chit-chat here.
 
 I’m not the one leading us this time around as I’m Ryusei Black No.2 in the end, and I know the commander of RB is “Nagumo-Taichou,” but — I need to remind you all that it’s a race against time now.
@@ -785,7 +785,7 @@ Once a bullied kid, who would only suffer torment from others, Morisawa-senpai t
 Because, “if there are no heroes in this world, then *I* will become the hero.”
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 <th>(Ahh… That’s right. That’s exactly what it was.)</th>
 
 <th>(That was all I ever wanted to do.)</th>
@@ -1091,7 +1091,7 @@ The very system within the world that taints ordinary people with evil.
 
 {% img /img/es/eventstory/supervillain/chiakibcg.jpg %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 And as for you — You’re trying to achieve that *exact* sort of justice by denouncing Crimson Production.
 
 You should be proud of yourself. Personally, I want to praise you for every single bit of your effort.

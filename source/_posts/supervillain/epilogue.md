@@ -161,7 +161,7 @@ It’s still written as such in our contract, so whenever Supervillains sells we
 supervillains is extremely [popular], after all, even though only the first part has been [broadcasted] so far.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Of <em>course</em> it’d be very popular. It has a lineup of all-time favorite heroes that have a massive, passionate fan base. On top of that, it’s undeniably a masterpiece with a godly script and direction.
 {% endbubble %}
 
@@ -183,7 +183,7 @@ It’s as if *I’ve* been recognized by the world, and that makes me happy.
 Thanks to all’a this, I think I’m starting to like myself a li’l more. Just a li’l bit.
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 Really? I’m so glad to hear that.
 
 You were able to find your very own happiness and purpose in life — something that wasn’t me forcing on you.

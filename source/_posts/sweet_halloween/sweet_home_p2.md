@@ -522,7 +522,7 @@ Heeey, Morisawa-senpai…?
 Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, y'know\~? ♪
 {% endbubble %}
 
-{% bubble Chiaki mgnfrown2 %}
+{% bubble Chiaki mgnfrownshake %}
 No! It’s scary! I don’t wanna see any more blood and guts!
 {% endbubble %}
 

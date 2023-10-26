@@ -660,7 +660,7 @@ Money, money, money… It’s always about money. I’m tired of it.
 I know that being an idol is work too, and we’re living in an age of capitalism, but sometimes I wish we could just do all of this through the sheer force of our hopes and dreams.
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 Ahaha, the most us seniors can do is to make sure to deal with these frustrating bits of life so that the children can continue dreaming and hoping.
 {% endbubble %}
 
@@ -816,7 +816,7 @@ Plus, we’re Ra*bits, Ryuseitai, and MaM. None of us have aaanything against ea
 We’ll succeed as long as we do it as we normally would. You don’t have to stress out over it, just enjoy yourself.
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 Uuu… But depending on the time and situation, doing things “normally” can be the hardest task…
 {% endbubble %}
 
@@ -864,7 +864,7 @@ Okaaay~ You may end up needing the toilet if you drink it too quickly, so please
 
 ## Chapter 6
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 <th><em>(Cough)</em></th>… Ahem, as I was saying, I hope that we can count on each other for this event.
 
 Hopefully, we’ll be able to get through a grand event like Halloween Party with everyone’s cooperation.

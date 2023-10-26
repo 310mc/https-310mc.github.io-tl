@@ -124,7 +124,7 @@ Mm? You look worn out… It isn’t that big of a deal, so I can just keep it fo
 No, you can tell me now… I’m curious to hear what it is, so…
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Are you sure? Don’t push yourself, okay? But alright, so, the truth is—
 
 I actually got a request from a bridal company, and accepted the job offer alongside Sazanami.
@@ -782,7 +782,7 @@ No, I’d rather you keep it with you. It’s already yours now!
 Are you sure…?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Yep! I don’t have anything I could do with it, and I’m sure the mascot character would be much happier under the hands of someone who’d adore it!
 
 Think of it as me, and cherish it well…☆

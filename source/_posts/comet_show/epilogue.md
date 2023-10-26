@@ -765,7 +765,7 @@ I’m sorry for doing it without your approval first, but you’re all used to t
 I mean, the guy used to constantly make us do hero shows out of nowhere, right?
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 …That’s true.
 
 You’ve perfectly re-enacted my way of doing things, huh? You must’ve observed my lifestyle very carefully, and did your best to understand me.
@@ -885,7 +885,7 @@ To me, you are all precious treasures that I never, ever once expected to have i
 *Ryuseitai’s* show, made just for us.
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 Yeah, to be honest, one of the things we should never do as idols is chat amongst ourselves onstage. That’s known to be a tradition in Yumenosaki, but—
 
 “Tradition can go eat shit,” huh…
@@ -1217,7 +1217,7 @@ Mhm, mhm. We’ll talk about this—no, about *everything* after our performance
 Our lives aren’t ending here, and the world isn’t ending either.
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 You’re right. Our graduation was meant to be our grand finale, but in the end, it was only just a checkpoint.
 
 We were never supposed to stop there, but despite that, we never tried to take a step forward either and ended up running in place.

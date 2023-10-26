@@ -149,7 +149,7 @@ W-Wait, Anzu!? A-Ahh, y-you suprised me…!
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki frownshake %}
+            	{% bubble Chiaki mgnfrownshake %}
               Woah, are you alright!? Did you get so surprised that you lost your footing?
 
               I'm sorry! I'm not just a failure of a hero, I'm basically a villain at this point!

@@ -132,7 +132,7 @@ Huh? But you said we do not need to worry so much about money, did you not?
 The school is covering all our expenses for us, correct?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 That’s exactly why it’d be wrong of us to make them overspend for us, right?
 
 Besides, we’ll be wearing these outfits all throughout this sleepover par— this training camp, so it’ll end up biting us in the rear if we ruin them.

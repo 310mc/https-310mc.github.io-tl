@@ -100,7 +100,7 @@ No need to act so distant with me, Nagumo! I wasn’t intending on intruding too
 The five of us together are Ryuseitai! Let’s solve our problems and worries *together!*
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 I’m so sorry! I’ve been so preoccupied with my own matters that I ended up neglecting you guys!
 
 If you’re angry, then throw your anger at me! Grab me by the collar and beat me up! It’s my well-deserved punishment…!
@@ -346,7 +346,7 @@ But that’s only my story. Yours is still in the preview phase.
 You’ll always have a chance to recover, and your future is dazzling bright. So don’t give up, Nagumo.
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 If you give up now, then everything will be all over. After I graduate… What will I be able to wake up to every Sunday?[^2]
 
 A world without heroes is the same as a world without a sun!
@@ -552,7 +552,7 @@ looong ago, the one who told me that… was chiaki, wasn't it?
 Did I really just cause you suffering throughout this whole year?
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 If so, I’m sorry. I’m so sorry. I’ll give you a proper apology, and I’ll do anything I can to make it up to you.
 
 I won't mind if you think of our meeting as nothing but an unfortunate accident and forget it ever happened.

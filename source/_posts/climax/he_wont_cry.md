@@ -394,7 +394,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 
 ## Chapter 3
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 …Hmm? Ohh, that surprised me!
 
 So it was you, Takamine! What’s up, what’s wrong!? Are you on your way home?

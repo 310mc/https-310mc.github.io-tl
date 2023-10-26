@@ -126,7 +126,7 @@ Yeah… It's really suffocating…
 Ahaha, but I am relieved to see them back. Is your health alright now, Taichou-dono?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Yep! No problems whatsoever! Actually, I had already recovered a few days ago!
 
 But the doctor insisted that I rest, and refrain from making physical contact with anyone.
@@ -210,7 +210,7 @@ For real, good work… Gosh, Morisawa-senpai can be *such* a handful, huh…♪
 What!? I'm the victim here, but you're talking to me like I'm the one who did something wrong!
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 But you're right! I should always listen to my doctor in the end!
 {% endbubble %}
 

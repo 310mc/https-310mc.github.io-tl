@@ -141,7 +141,7 @@ Ahaha! That one was really unfair~
 <th>(…!? Oh no, I don’t have much time left—!)</th>
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 I-I really like you! My miso—
 {% endbubble %}
 

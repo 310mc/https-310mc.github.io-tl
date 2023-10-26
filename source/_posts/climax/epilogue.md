@@ -883,7 +883,7 @@ The green flame is the mark of compassion—
 The great nature that grows infinitely! Ryusei Green, Takamine Midori…!
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 <th>(Takamine.)</th>
 
 <th>(Ahaha, you finally properly introduced yourself… Even though you always said it was too embarrassing and you didn’t get it… You whined that you didn't want to do it, only doing it as you pleased…)</th>
@@ -905,7 +905,7 @@ Please shine in your own way, as you always have — within the center of everyo
 I never really disliked seeing that… Morisawa-senpai.
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 I see, so that’s how it was all along… That’s good, I’m glad. Ahh, I’m just so glad.
 
 I truly feel rewarded. To be a hero means to not ask for anything in return… but if I’ve been loved and thanked, and brought a smile to someone who was crying—
@@ -915,7 +915,7 @@ Then there was value and reason to the desperate fight it took to reach here aft
 
 {% img /img/es/eventstory/climax/chiakibcg.jpg %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 Thank you.
 
 The red flame is the mark of justice! The sun of life, burning bright red!

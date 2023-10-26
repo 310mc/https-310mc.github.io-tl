@@ -118,7 +118,7 @@ You’re an honest one, aren’t you? I wouldn’t have confidential documents a
 Anyway, come on now. Isn’t it a hero’s duty to rush over to wherever he’s called? ♪
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 What is it? I’ve got a bad feeling about this… You sometimes have a mischievous look on your face, Tenshouin.
 {% endbubble %}
 

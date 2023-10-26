@@ -1251,7 +1251,7 @@ Gaaah!? Please don't hug me outta nowhere!
 Just to let you know, nothing’s been resolved, ‘kay!? I just said something nice to brighten up the mood!
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 Heheh. Still, let's start from there.
 
 We, Ryuseitai, will fight against the evil that is unreason.

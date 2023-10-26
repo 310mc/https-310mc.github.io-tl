@@ -804,7 +804,7 @@ I think it’s admirable of them. And I choose to respect their decision.
 Okay, but that doesn’t change the fact that it just means we basically lost the battle… I can’t properly express myself, but it just frustrates me somehow.
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 You see, that’s where Nagumo decided to be mature and hold back his frustration. He really didn’t have to take after me when it comes to those things, though.
 {% endbubble %}
 

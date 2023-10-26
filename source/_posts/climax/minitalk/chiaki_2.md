@@ -71,7 +71,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki smile %}
+            	{% bubble Chiaki smilesoft2 %}
               Yeah. I still have worries over the obstacles I’ll face, but I don’t plan on giving up the dream I’ve had since I was young!
 
               I’ll be glad if you could continue to support me, even after I’ve graduated…☆

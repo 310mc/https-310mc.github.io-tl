@@ -134,7 +134,7 @@ I think it’s fine to work as hard as you possibly can, though.
 …?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 While super sentai shows are said to be aimed at children, the creators behind it are always working as best as they can to make an interesting show.
 
 In fact, it’s <em>because</em> it’s intended for children that they can’t cut corners. It’s that sort of fighting spirit that drives them to perform at their best.
@@ -360,7 +360,7 @@ Takamine looks so happy today. It’s almost unbelievable he was depressed just 
 Don’t mind me, Morisawa-senpai! Just look at Pop-dayuu!
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Hahaha, you’re right. Your hero is finally here, after all — It would be rude to have my eyes elsewhere.
 
 Pop-dayuu~!! Wave at me, too! *<th>(waves)</th>*
@@ -596,7 +596,7 @@ i do hope the two manage to express the [softness] midori wants eventually, thou
     <p>A while later…</p>
 </div>
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 H-How about now? That was good, wasn’t it?
 {% endbubble %}
 

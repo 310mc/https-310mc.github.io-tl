@@ -249,7 +249,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(But I was having so much fun, I just couldn't stop myself… and I ended up getting too into it. Ahhh… Guess I’m also still just a kid.)</th>
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 <th>(It's just, everything feels so… dreamlike. I keep on wanting more and more.)</th>
 
 <th>(I never want the finale to come! Oh, stars in the night sky! O Orihime-sama, Hikoboshi-sama! Please, hear my wish!)</th>
@@ -263,7 +263,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “fufufu\~ we are [stars] swimming in the [milky way]\~ *puka puka\~♪*”
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 <th>(Heheh, Kanata looks like he's having fun… I'm glad. He would always have a blank look on his face[^1] in his home, and it was pretty scary… The only time he didn't was when he was alone with me.)</th>
 
 <th>(I'm sure he's also happy to be back on stage.)</th>

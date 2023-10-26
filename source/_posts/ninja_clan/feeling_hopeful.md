@@ -243,7 +243,7 @@ It’s because to me, the very form of ninjas and the weapons that they use are 
 They endure any and all hardships, and never reveal themselves in the front lines—They devote their all to their lord and carry out their duty to the very end! That’s what I find so cool about them!
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 Mhm, then the solution is simple. You’ll just need to show off those charms to the right people, in the right location.
 {% endbubble %}
 

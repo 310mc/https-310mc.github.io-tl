@@ -185,7 +185,7 @@ And I knew it’d be cruel to show our audience something disappointing — espe
 Of course, we’re still going for a new look we’ve never shown our fans on stage before, but it’s also important to include the main thing that defines us.
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 I see. So all along, you cherished my likes, too.
 
 I’m fired up now! I’ll do my absolute best to ensure I convey your likes to the whole venue…!
@@ -257,7 +257,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 <th>(Even when RB was booming, there were a few people who expressed thoughts like that…)</th>
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 <th>(But personally, I’m very much enjoying the current Ryuseitai.)</th>
 
 <th>(Our unit had been pushed around by problems called by adults, yet now, the four of them get to do whatever they like. How could I ever be against that? ♪)</th>

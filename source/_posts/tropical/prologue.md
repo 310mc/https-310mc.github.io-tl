@@ -91,7 +91,7 @@ clap, clap…☆ *<th>(claps)</th>*
 congratulations, midori~♪
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Mhm, and great work coming from you, Nagumo.
 
 Now that you’ve appointed a new commander, we’ll be changing from “RB” to “RG,” Ryuseitai Green.[^4]
@@ -163,7 +163,7 @@ Um, I wasn’t saying that to compliment you, though…?
 I see… I think I let myself get a little too excited. Sorry, that was hasty of me.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 I’m just so happy that Ryuseitai has turned over a new leaf. I know all the troubles we’ve gone through are my fault, but I’m just so excited about our new system.
 
 And the fact of the matter is, Nagumo’s RB created a huge buzz. Not only was it new ground for us Ryuseitai, but it garnered a great reputation and news coverage.

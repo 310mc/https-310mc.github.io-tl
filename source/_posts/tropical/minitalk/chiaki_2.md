@@ -68,7 +68,7 @@ You don't have to look so worried, I'm alright! I was just doing a final warmup 
             Final warmup…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile3 %}
+            {% bubble Chiaki smilesoft %}
             Mhm! It's hard to move softly and slowly unless you get your body used to it first.
 
             That's why I was warming up before the live show starts, so I can ensure I'm maintaining a soft-like posture.

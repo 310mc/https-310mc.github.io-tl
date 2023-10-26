@@ -248,7 +248,7 @@ It’s the air conditioning… We made sure to decorate around the vents without
 Seriously, are you gonna be alright for this…?
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 I-I-I-I’m fine! Ghosts don’t exist! They’re just something people see when they’re half asleep![^1]
 {% endbubble %}
 
@@ -284,7 +284,7 @@ Here you go… We’re going to have a live show at the concert hall, so please 
 C’mon, Taichou! You gotta give out candy and advertise! Look, even Midori-kun's working hard for once!
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 S-S-S-Sorry! But I really can’t handle scary things…!
 
 It’s just gotten even worse after watching all those movies during the sleepover party! I can’t even walk at night anymore!
@@ -462,7 +462,7 @@ Ossu! The same goes for me!
 Startin' by pumping up the place with our live show today! Nothing's impossible when we combine our powers! Let’s do this, let’s do this~!! ☆
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 Ahaha, you’re all so energetic, despite looking like monsters.
 
 That’s exactly why I’m not one bit scared of you guys…♪
@@ -490,7 +490,7 @@ Woohoo, Ra*bits\~! We apologize for taking so long to arrive. Taichou-dono kept 
 Yeah… It was seriously a pain just getting here…
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 I’m so, so sorry![^4] I haven’t been able to do anything right during this event!
 {% endbubble %}
 
@@ -660,7 +660,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 “As long as we have these talismans stuck to our forehead, we’ll be loyal servants to everything you say! So don’t be scared!”
 {% endbubble %}
 
-{% bubble Chiaki smile4 %}
+{% bubble Chiaki smileconfident %}
 “But if this talisman were to tear off… <em><th>(Sticks out tongue)</th> Bleeegh~♪</em>”
 
 “Our terrifying nature will show itself and we’ll start hunting you down~! Fuhahahaha! ☆”
@@ -708,7 +708,7 @@ What’s that…? I’ve never heard of it. Are you literally just zombie rabbit
 Ahhh, I see now… There were zombie dogs in some of the movies we watched with everyone…
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 Wha— Don’t remind me! Eeek—!! I still can’t get the image out of my head! The window…! There’s a hand on the window…!?
 {% endbubble %}
 
@@ -890,7 +890,7 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
 
 {% img /img/es/eventstory/sweethalloween/letsparty5_2.jpg %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 “♪\~♪\~♪”
 {% endbubble %}
 

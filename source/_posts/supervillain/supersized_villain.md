@@ -161,7 +161,7 @@ I’m now in a position similar to an executive staff member of Crimson Producti
 And neither ES nor Ryuseitai prohibits us from having side jobs, right?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Yeah, of course not. I see, so you got yourself a job. Mhm, that’s something to be happy about.
 {% endbubble %}
 
@@ -213,7 +213,7 @@ They have no resistance to violence. If anything, they train day and night just 
 I’m sure you’re aware that an ordinary person like you, without any superpowers, can’t win against them in a fight.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Well, I’m not much of a fighter to begin with, so I wouldn’t really be able to win in a fistfight if I were up against an adult.
 
 I did have the basics of self-defense drilled into me by Kiryu in our Circle, though.
@@ -287,7 +287,7 @@ If you stop being able to breathe properly, you won’t be able to get oxygen to
 If you still choose to resist, then I’ll have no choice but to strangle you until you lose consciousness.
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 …I only have one thing to say, Nagumo.
 {% endbubble %}
 
@@ -369,7 +369,7 @@ Is there still a hero at the end of the path you’re walking?
 I don’t know. …I’m not sure anymore.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 —Excuse me for changing the subject, but… I used to get bullied often in the past.
 {% endbubble %}
 
@@ -457,7 +457,7 @@ The Ryuseitai that I dreamed of.
 Do you think I’m going to take pity and go easy on you just because you revealed your shameful past?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Yeah, I wonder why I’m saying all of this… Mhm, you’re right, this has nothing to do with anything.
 
 But it’s something I should have told you before, and it felt like the opportunity to mention it presented itself.
@@ -519,7 +519,7 @@ A messenger is here… He says there are trespassers breaking into the headquart
 Hold on… No, don’t tell me the reason you’ve been blabbering on endlessly was to—
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Mhm, I wanted to apologize for that too. Sorry, sorry.
 
 I’ve said this many times already, but I used to be a victim of bullying. That’s why I’m pretty sensitive when it comes to malicious intent.
@@ -539,7 +539,7 @@ Ugh, I was wondering why you were all alone when you’re such a pushover—
 —This guy’s a decoy! There are other guys from Ryuseitai breaking in! Don’t let them get away! Capture them all!
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Fuhaha! It’s too late to panic now.
 
 There’s no signal in this area. None of you can use your phones either, so the only way to communicate is to send a messenger.
@@ -571,7 +571,7 @@ You’re surrounded by a group of people who aren’t afraid to use violence, an
 Are you a dumbass, or what? Did you not consider we could just kill you for making us snap? Just how much of a pacifistic idiot are you?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Don’t look down on your older brother so much, Nagumo.
 
 Our generation has survived the Yumenosaki War Era, days that you’ve never experienced. A war that was fought, full of deceit.
@@ -787,7 +787,7 @@ There have been just as many happy, grateful things that have happened to me at 
 Tetora-kun…
 {% endbubble %}
 
-{% bubble Chiaki smile %}
+{% bubble Chiaki smilesoft2 %}
 Nagumo…
 {% endbubble %}
 
@@ -1264,7 +1264,7 @@ In order to prevent such a horrible part of history from repeating itself, we *h
 You think that I’ll be impressed and agree with you if you put it that way, don’t you?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 And the matter of fact is, yes — I really am impressed. Mhm, you’ve grown up so much, Nagumo. You’re a worthy hero of justice of your own.
 
 —But unfortunately, there are four other heroes here besides you.
@@ -1316,7 +1316,7 @@ Once the direction is set in place, I’m sure things will turn out well. Everyo
 What are you even on about? You suddenly become so enthusiastic whenever it’s about tokusatsu…
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 No, I’m talking about real life.
 
 I say this to each and every one of you: I know that all this time, I’ve only been dragging you along with talks about my dreams… But from now on, let’s have a proper discussion about reality, too.

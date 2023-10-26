@@ -76,7 +76,7 @@ Wait, don't tell me you saw what I did just now…!?
             	{% bubble Chiaki grin %}
               Fuhaha! An ally of justice never feels exhaustion! Nor do they feel fear either, by the way…☆
               {% endbubble %}
-              {% bubble Chiaki surprised %}
+              {% bubble Chiaki surprised0 %}
               Eeep!? What're you holding, Anzu!? W-Wasn't that supposed to be your "hand"…!?
 
               A decoration for the Halloween Party? I see… It looks really realistic, so I mistook it for a real hand…
@@ -129,12 +129,12 @@ Wait, don't tell me you saw what I did just now…!?
 
 {% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_2.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 Trick or Treat! Any naughty kids around~!?[^1]
 
 Fuhaha! That isn't what a Jiangshi would say? Great comeback!
 
-However! In a sense, Punishment and pranks are similar! Ha ha ha! ♪
+However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -209,7 +209,9 @@ However! In a sense, Punishment and pranks are similar! Ha ha ha! ♪
 A lot happened, but the sleepover party was extremely valuable!
 
 For me, it was most especially a great opportunity to be aware of just how blessed I am to be surrounded by so many kind people!
+{% endbubble %}
 
+{% bubble Chiaki srsthinking %}
 I hope the juniors also got to feel something through this event in their own respective ways…
 {% endbubble %}
 
@@ -237,7 +239,7 @@ I hope the juniors also got to feel something through this event in their own re
             	{% bubble Chiaki surprised2 %}
               What!? Who told you!?
 
-              "chiaki was suuuper interesting this time~ puka, puka…♪"…?
+              "chiaki was reaaally interesting this time~ puka, puka…♪"…?
               {% endbubble %}
               {% bubble Chiaki frustrated %}
               That's absolutely Kanata, isn't it!? I thought you meant you heard from the juniors…? And what does he mean by "interesting," anyway!?

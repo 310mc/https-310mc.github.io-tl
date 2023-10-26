@@ -130,7 +130,7 @@ Kanata, no! You shouldn’t use slang words like that. Little kiddos will copy a
 wha~? i was simply [copying] what shinobu said, though…? so it is fine when he says it?
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Yeah, because he’s cute.
 {% endbubble %}
 
@@ -296,7 +296,7 @@ Were this the past, Morisawa-dono would drag Midori-kun over by the collar like 
 Yeah… I’m not sure I can emotionally handle that kind of thing right now.
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called “Supervillains”.
 
 Therefore, it would be against my sense of duty to leave now. And personally, I want to give it my all and see through the end, as well.
@@ -442,7 +442,7 @@ I know I sound insistent by constantly saying this, but you need to be more dili
 Ha, ha… “Taichou,” is it…
 {% endbubble %}
 
-{% bubble Chiaki smile3 %}
+{% bubble Chiaki smilesoft %}
 Hm? Don’t mumble, tell me what you want to say clearly!
 
 I’ll accept anything you tell me.
@@ -1195,7 +1195,7 @@ Wha— What is this…?
 What? What's going on here? Why’s the situation getting even *worse* before our very eyes…?
 {% endbubble %}
 
-{% bubble Chiaki sigh2 %}
+{% bubble Chiaki frownshake %}
 Naturally, we’re puzzled too! Yesterday, we had Sengoku fly to Okinawa to investigate the situation—
 
 But then he found himself in some kind of trouble, and we never heard from him again.
