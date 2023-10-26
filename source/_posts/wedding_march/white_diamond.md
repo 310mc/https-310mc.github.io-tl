@@ -860,7 +860,7 @@ A souvenir from Paris…? You wanted to give this to me?
 Hmph! Look at it much more closely.
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 …Wha!? T-This is…!
 
 The handkerchief I thought I lost…![^2]

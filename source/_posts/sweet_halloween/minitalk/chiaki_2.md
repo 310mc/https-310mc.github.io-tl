@@ -232,7 +232,7 @@ I hope the juniors also got to feel something through this event in their own re
               {% bubble Chiaki sad4 %}
               T-That's what Shino-kun said, right!? Since it mentions Akehoshi and everything! There's no way I'm wrong!
 
-              What did Akehoshi even say about me, anyway!? Does Shino-kun mean that in a good way, or in a bad way…!?
+              What did Akehoshi say about me anyway!? Does Shino-kun mean that in a good way, or in a bad way…!?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">

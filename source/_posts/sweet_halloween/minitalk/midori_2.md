@@ -103,7 +103,7 @@ Ughh, why is this school so freakishly huge…
             	{% bubble Midori sad3 %}
               <em><th>(Cough, pant)…</th></em> I'm sorry, please let me rest for a moment…
 
-              Anzu-san… You're surprisingly quick, like it's hard to catch you in time, aren't you…
+              Anzu-san… You're surprisingly quick, like, it's hard to catch you in time…
 
               Sengoku-kun got excited though, saying that you're "exactly like a ninja"…
 				{% endbubble %}
@@ -147,9 +147,9 @@ I got carried away talking a bit, but… I should go back to everyone else, too�
             	{% bubble Midori frown %}
               If possible, please make sure I don't have to use up all my energy like this time…
 
-              Though now that I think about it, sleeping over and practicing for two weeks is harsh stuff…
+              Though now that I think about it, sleeping over and practicing for two weeks is real harsh stuff…
 
-              Uu… I don't think I'll make it through unless you draw for me something, Anzu-san…
+              Uu… I don't think I'll make it through unless you draw for me, Anzu-san…
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
@@ -201,7 +201,7 @@ I got carried away talking a bit, but… I should go back to everyone else, too�
 {% bubble Midori sigh %}
 *Sigh…* Today has finally come, huh…
 
-I can't decide if the past two weeks felt long, or if they went by in a flash…
+I can't tell if the past two weeks felt long, or if they went by in a flash…
 {% endbubble %}
 
 {% bubble Midori sad4 %}

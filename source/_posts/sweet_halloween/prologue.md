@@ -165,7 +165,7 @@ I may be bothering you right now, but please, let me pick them up for you…!
 …Ehehe~♪
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Huh? Why did you laugh? Did I say something weird again!?
 {% endbubble %}
 

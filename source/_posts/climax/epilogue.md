@@ -825,7 +825,7 @@ I'm sure *you* will be able to use that strength properly.
 <th>(Heh~♪ Time to introduce myself with the loudest voice and the best smile in history!)</th>
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 The red flame is——Gwah!?
 {% endbubble %}
 

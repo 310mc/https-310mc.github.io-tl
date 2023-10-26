@@ -214,7 +214,7 @@ well, i [had] to be. chiaki was completely [useless] this time around.
 so i have to be the one to show enthusiasm, yes? supporting and helping each other is what ryuseitai is all about~♪
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Eeeek!! There’s a ghooooost!!!
 {% endbubble %}
 
@@ -238,7 +238,7 @@ T-That’s quite the detail to your costume! Did you make it yourself?
 Y-You suddenly appeared from the corner, so I thought you were a real ghost! Ahaha~♪
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 …Eeek!! Something just creeped down my back!! S-Something cold! I’m scared! It’s scary! I’m scared!!
 {% endbubble %}
 

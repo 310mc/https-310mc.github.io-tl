@@ -102,7 +102,7 @@ Long time no see, Anzu-san…♪
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Midori %}
-              Ahh… There was nothing to do, so I practiced free throws…
+              Ahh… I had nothing to do, so I practiced free throws…
 
               'Cause there was a ball here… Mm? I'm enjoying my youth?
               {% endbubble %}
@@ -159,7 +159,7 @@ But if this were the usual, Morisawa-senpai would've gladly told us lots of idea
             	{% bubble Midori smile %}
               A costumed character, maybe… A soft, droopy looking one…?
 
-              Mhm, what I truly want isn't to wear it, but to be surrounded by costumed characters.
+              Yeah, what I truly want isn't to wear it, but to be surrounded by costumed characters.
 
               Sengoku-kun is pretty tiny, so anything would suit him… Ahh, just imagining it feels like I'm in heaven…♪
 				{% endbubble %}
@@ -206,7 +206,7 @@ Anzu-san…? Are you okay? You're wobbling about…
 
 Ahh, you came here to give us our practice outfits…
 
-Please hand them over, I'll carry them. Well, I guess you're already almost here…
+Please pass them over, I'll carry them. Well, I guess you're already almost here…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -253,7 +253,7 @@ Please hand them over, I'll carry them. Well, I guess you're already almost here
             	{% bubble Midori smile %}
               My belongings…? Ahh, we're going to be sleeping over starting today, so I brought everything I need from home…
 
-              Is it a lot to carry…? It wasn't really heavy at all, actually…
+              "Is it a lot to carry"…? It wasn't really heavy at all, actually…
 
               There's a mascot cushion inside, so maybe that's why it looks so bulky…♪
 				{% endbubble %}

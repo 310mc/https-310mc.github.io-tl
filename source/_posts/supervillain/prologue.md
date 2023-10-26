@@ -73,8 +73,8 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 <th>(I accidentally hit Morisawa-senpai…!)</th>
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
-………
+{% bubble Chiaki surprised %}
+…………
 {% endbubble %}
 
 {% bubble Shinobu surprised %}

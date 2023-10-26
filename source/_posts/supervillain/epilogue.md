@@ -75,7 +75,7 @@ I have news to report to y—
 —Wait, what the—!? Eek—!
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Gwaaaaaahhh!?
 {% endbubble %}
 

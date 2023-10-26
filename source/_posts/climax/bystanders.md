@@ -158,7 +158,7 @@ I can totally see that happening~. …Even though we’d be more than happy to h
 …are you two [badmouthing] me~?
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Whoa— You scared me! What’s the matter, Kanata? Why are you crouching down? Do you have a stomachache?
 {% endbubble %}
 
@@ -392,7 +392,7 @@ kaoru has always been [sparkling].
 Taichou-dono! Shinkai-dono…!
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Sengoku? Why do you look so pale…? Did something happen!?
 {% endbubble %}
 
@@ -420,7 +420,7 @@ Don’t I tell you this all the time? Calm down. Don’t worry, it’s all going
 U-Uuu~! Taichou-dono, Shinkai-dono! I beg of you, from the bottom of my heart…!
 {% endbubble %}
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 Whoa—!? Stop, Sengoku! Don’t kneel on the ground in a public area!
 {% endbubble %}
 

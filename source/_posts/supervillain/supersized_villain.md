@@ -249,7 +249,7 @@ If you don’t, this is what’s gonna happen.
     <p><em>(Sound of a punch)</em></p>
 </div>
 
-{% bubble Chiaki shocked %}
+{% bubble Chiaki surprised %}
 —…!
 {% endbubble %}
 
