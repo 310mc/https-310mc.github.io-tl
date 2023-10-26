@@ -863,7 +863,7 @@ I’m sorry if I bothered you! I seem to have a problem with saying the first th
 {% bubble Chiaki mgnworried %}
 <th>(U-ummm…? He ignored me? Was I too irritating? No, actually… he really doesn’t seem to have the energy to talk with me…)</th>
 
-<th>(What happened…? He looks beaten-up…Was he hit by a car or something…? S-Should I call an ambulance?)</th>
+<th>(What happened…? He looks beaten-up… Was he hit by a car or something…? S-Should I call an ambulance?)</th>
 
 <th>(Or maybe I should call for Sagami-sensei through the loudspeaker… Ah but, I feel like I’d get punched if I went too far.)</th>
 
@@ -1420,7 +1420,7 @@ hm~ i am not very sure what a hero is, so i am stuck. what exactly is it?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Huh—Um, I’m not sure how to explain it off the top of my head… Well, like… It’s a cool being, who would protect everybody.
+Huh— Um, I’m not sure how to explain it off the top of my head… Well, like… It’s a cool being, who protects everybody.
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -1434,7 +1434,7 @@ No, it’s different from a God. It’s more realistic, like… Defeating villai
 {% bubble Kanata pastcurious %}
 hm~? i am unable to make a distinction between the two… to defeat Villains — is that different from Divine Punishment?
 
-this is difficult… i recall mikejima was called a hero by others… perhaps i will ask him. after all, he seems to Know many things.
+this is difficult… i recall mikejima was called a hero by others… perhaps i will ask him. after all, he Knows many things.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1448,7 +1448,7 @@ so, when he feels Irritated, he leaves to someplace Far away, as he does not wan
 
 but lately, he is probably in this Country more often. see, since i am here, after all… and mikejima’s Job is to be Useful for me.
 
-i don’t really need him to, though… for mikejima to do all the Work is so stingy of him, isn’t it? don’t you think so too?
+i do not really need him to, though… for mikejima to do all the Work is so stingy of him, isn’t it? don’t you think so too?
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}

@@ -49,7 +49,9 @@ description: "[ES!] Translation of Chiaki's second Mini Talk from Shooting Star 
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_1.jpg %}
+
 {% bubble Chiaki %}
 Mhm, mhm. I'm glad we were able to safely find the little girl's mother.
 
@@ -120,6 +122,7 @@ Now you too can become a splendid hero alongside us~♪
 </div>
 
 ## <div mt="rare"></div> 2/3
+
 {% bubble Chiaki %}
 We have some time until the Shooting Star Festival starts.
 
@@ -188,7 +191,9 @@ You’ll find the street food over there, and sweet food in the opposite directi
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_3.jpg %}
+
 {% bubble Chiaki %}
 Ta\~maya\~!
 

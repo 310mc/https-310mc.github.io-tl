@@ -136,7 +136,7 @@ Wait, huh? Umm, you two are in Ra*bits, right? Is it just the two of you here?
 {% endbubble %}
 
 {% bubble Tomoya awkward %}
-Y-Yes. Umm, are you looking for Takamine? He was here a moment ago, but left ‘cause he had something to do.
+Y-Yes. Umm, are you looking for Takamine? He was here a moment ago, but left because he had something to do.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -180,7 +180,7 @@ Oh yeah, ‘cause it’s mandatory to participate in club activities in Yumenosa
 {% bubble Hajime %}
 Oh, I see~ Personally, I joined the Tea Club because I always liked tea.
 
-I’m always feeling excited all day whenever it’s time for the club to get together~♪
+I always feel excited all day whenever it’s time for the club to get together~♪
 
 Our club president is very kind, and he’s always teaching me how to properly brew tea. He even brings over such delicious sweets…
 
@@ -272,7 +272,7 @@ I get annoyed from all his blabbering… so there was once a time when I tried s
 {% endbubble %}
 
 {% bubble Midori awkward %}
-That moment felt so exhilarating that… I *might* have found basketball fun to play…?
+That moment felt so exhilarating that… I *might* have found basketball fun to play…?[^1]
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -314,3 +314,7 @@ I wish I never said anything if it was gonna end like this…!!
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: It's likely that Midori makes the expression from his bloomed card here. The card can be seen at the top of this page; the right one being the bloomed. The live quote of the bloomed is: "That moment felt fun for me…♪"

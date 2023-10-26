@@ -1,12 +1,11 @@
 ---
 title: "Sweet Halloween – Midori Produce Course: Halloween Costume"
-date: 2017/3/1 9:03:00
+date: 2023/10/26 9:00:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!] Translation of Midori's first Produce Course from Sweet Halloween. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -272,4 +271,4 @@ Please hand them over, I'll carry them. Well, I guess you're already almost here
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Sweet-Halloween,, star, Index %}{% btn /sweet_halloween/minitalk/midori_2,, arrow-right, Midori Mini Talk: Fun Training Camp %}</div>
+<div toc>{% btn /minitalk/#Sweet-Halloween,, star, Index %}{% btn /sweet_halloween/minitalk/midori_2,, arrow-right, Midori Mini Talk: Fun Training Camp? %}</div>

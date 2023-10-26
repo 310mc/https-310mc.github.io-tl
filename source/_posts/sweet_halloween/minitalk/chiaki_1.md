@@ -1,0 +1,278 @@
+---
+title: "Sweet Halloween – Chiaki Produce Course: Anxious over…?"
+date: 2023/10/26 9:03:00
+categories:
+- [Enstars, Chiaki]
+tags:
+- Mini Talk
+description: "[ES!] Translation of Chiaki's first Produce Course from Sweet Halloween. From Anzu's POV."
+---
+<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Mini talk
+                </div>
+                <div class="value">
+								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Point of View
+                </div>
+                <div class="value">
+                    Anzu
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Story
+                </div>
+                <div class="value">
+                    <a href="/sweet_halloween">Sweet Halloween</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- more -->
+
+## <div mt="rare"></div> 1/3
+
+{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_1.jpg %}
+
+{% bubble Chiaki srsthinking %}
+…………
+
+Woah, Anzu!? S-Sorry! Are you alright!?
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+Ugh, I can't believe I got preoccupied with my thoughts and bumped into someone again…
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Your thoughts…?
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki yare %}
+              Yeah… The truth is, I have to perform as an eggplant hero in the next hero show…
+
+              Mm? How could you tell it was a lie!?
+              {% endbubble %}
+              {% bubble Chiaki grin %}
+              Fuhaha! Nothing gets past you, huh!? I expect nothing less from our producer! ☆
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki sad %}
+              No, it's nothing serious…
+
+              Hm? It's rare to see me fretting over something?
+
+              Mm~, I don't think I should be happy about that, but… still, I appreciate you worrying over me! Thank you, Anzu!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            "Again"…?
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki %}
+              Yeah, I bumped into that kid earlier…
+
+              Y'know, the first year that Akehoshi dotes on… Yeah, that's him, Shino-kun from Ra*bits!
+
+              Woah!? Why're you glaring at me!? Does this mean I'd make an enemy out of you too if I ever hurt Shino-kun!?
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki %}
+              T-The truth is… I bumped into Shino-kun here earlier, as well…
+
+              That kid is small and frail-looking, so I was worried I hurt him, but thankfully nothing happened…
+
+              W-Wait, you've got it wrong! That doesn't mean that you aren't frail, really!
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+
+## <div mt="rare"></div> 2/3
+
+{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_2.jpg %}
+
+{% bubble Chiaki mgngrin %}
+<th><em>(Humming)</em></th> Hmhmhm~♪ We worked so hard today, most especially the juniors! I need to shower them with praise later—
+{% endbubble %}
+
+{% bubble Chiaki mgnsurprised %}
+…Dwaaaaah!? T-There's something over there! There's something over theereeee~!!!
+
+W-Wait, Anzu!? A-Ahh, y-you suprised me…!
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            That surprised me…
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki frownshake %}
+              Woah, are you alright!? Did you get so surprised that you lost your footing?
+
+              I'm sorry! I'm not just a failure of a hero, I'm basically a villain at this point!
+
+              I'm painfully aware that I need to do something about this… I really, really am, but…
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki mgnawkward %}
+              Ahaha… Sorry, I accidentally yelled.
+
+              Mm? Did you just hear Nito's voice?
+              {% endbubble %}              
+              {% bubble Chiaki mgnnod %}
+              Ohh, he came rushing over here after hearing my yell, it seems! He's like a hero! ☆
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I-I'm sorry…
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki mgnfrown %}
+              I see, you brought over the laundry we left outside.
+
+              I acted so rude to you, when you were just being considerate…!
+
+              Uooh!! I'll get some fresh air at nigh— No, I mean I'll go on a fierce run on the running grounds and cool down my head!
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki mgnfrown %}
+              No, I'm the one who's sorry… I'm the one in the wrong here, I'm really sorry…
+
+              Mm? Are you asking me why I was that surprised…!?
+              {% endbubble %}
+              {% bubble Chiaki mgnblushshy %}
+              U-Um, that's because… "that" is, y'know, *that*, so… <em><th>(mumble, mumble)</th></em>
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+
+## <div mt="rare"></div> 3/3
+
+{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_3.jpg %}
+
+{% bubble Chiaki mgncurious %}
+By the way, Anzu, it's pretty late in the night… Are you sure it's alright to stay here?
+
+…Mm? Huh, wait, were you sleeping over somewhere…?
+
+I think Nagumo did mention something…?
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I'd like to spent the night.
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1a-n">Possibility 1</a></li>
+				<li><a data-tab="1a-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1a-n">
+            	{% bubble Chiaki mgn %}
+              You'd like to? If you can't find somewhere to sleep, I'll prepare one for you!
+
+              There's a chance some could toss and turn in their sleep, so I think the futon next to me is the most secure!
+
+              Hm!? You didn't mean it that way? What's wrong all of a sudden? You don't have to hold back!
+					{% endbubble %}
+			</div>
+			<div data-tab="1a-r" style="display: none">
+            	{% bubble Chiaki mgn %}
+              Ahh, so you're waiting for your parents to come pick you up.
+
+              You're dozing off… That's only natural; you've been working all day long after all.
+
+              If you can't bear with the sleepiness any longer, you're free to sleep here for a little. I'll wake you up once your parents are here…☆
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+	<div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I'll go back home.
+        </div>
+        <div class="minitalk-option_content">
+			<ul class="tabber">
+				<li class="active"><a data-tab="1b-n">Possibility 1</a></li>
+				<li><a data-tab="1b-r">Possibility 2</a></li>
+			</ul>
+			<div data-tab="1b-n">
+            	{% bubble Chiaki mgn %}
+              Huh? You'll go home now? I can't overlook such a dangerous decision!
+
+              Aalrighty, I'll walk you to your home! As long as Ryusei Red is with you, there will be no danger—
+
+              Mm? It's fine, your parents are coming over? I-I see… That's good to hear then…
+				{% endbubble %}
+			</div>
+			<div data-tab="1b-r" style="display: none">
+            	{% bubble Chiaki mgn %}
+              Ahh, right, your parents will come pick you up! Right, now I remember!
+              {% endbubble %}
+              {% bubble Chiaki mgnfrown %}
+              This is bad… I'm really just so out of it lately…
+
+              Nagumo and Takamine pointing it out isn't unusual, but now even *Sengoku* worried over me, asking if I'm alright…
+				{% endbubble %}
+			</div>
+        </div>
+    </div>
+</div>
+<br>
+<div toc>{% btn /minitalk/#Sweet-Halloween,, star, Index %}{% btn /sweet_halloween/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: The Monster Appears! %}</div>

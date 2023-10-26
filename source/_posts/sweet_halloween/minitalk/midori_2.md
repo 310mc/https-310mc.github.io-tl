@@ -1,12 +1,11 @@
 ---
 title: "Sweet Halloween – Midori Produce Course: Fun Training Camp?"
-date: 2017/3/1 9:03:00
+date: 2023/10/26 9:01:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!] Translation of Midori's second Produce Course from Sweet Halloween. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

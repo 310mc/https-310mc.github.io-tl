@@ -151,31 +151,62 @@ permalink: minitalk/
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
-                alt="Sweet Halloween: "
-            />
-        </div>
-        <a href="/sweet_halloween/minitalk/chiaki_1" class="storyName" target="_blank">
-            <span>Sweet Halloween<br><small>1: Normal Event</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
-                alt="Sweet Halloween: "
-            />
-        </div>
-        <a href="/sweet_halloween/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>Sweet Halloween<br><small>2: Normal Event</span>
-            <span class="read"></span>
-        </a>
-    </div>-->
 </div>
+
+### Sweet Halloween
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
+            alt="Anxious over…?"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/chiaki_1" class="storyName" target="_blank">
+        <span>1: Anxious over…?</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+            alt="The Monster Appears!"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/chiaki_2" class="storyName" target="_blank">
+        <span>2: The Monster Appears!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/sweethalloween/midoriframe_300px.jpg"
+            alt="Halloween Costume"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/midori_1" class="storyName" target="_blank">
+        <span>1: Halloween Costume</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/sweethalloween/midoribcgframe_300px.jpg"
+            alt="Fun Training Camp?"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/midori_2" class="storyName" target="_blank">
+        <span>2: Fun Training Camp?</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<div style="margin-top:10px">{% btn /sweet_halloween,, star, Index %}</div>
 
 <h4>Ensemble Stars!! Era</h4>
 
@@ -243,11 +274,11 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/ring/midoriframe_300px.jpg"
-                alt="Ring: Conveying My Feelings"
+                alt="Conveying My Feelings"
             />
         </div>
-        <a href="/ring/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>Ring<br><small>Conveying My Feelings</span>
+        <a href="/ring/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Conveying My Feelings</span>
             <span class="read"></span>
         </a>
     </div>
@@ -255,11 +286,11 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
-                alt="Ring: Before the Nerve-wrecking Photoshoot"
+                alt="Before the Nerve-wrecking Photoshoot"
             />
         </div>
-        <a href="/ring/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>Ring<br><small>Before the Nerve-wrecking Photoshoot</span>
+        <a href="/ring/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Before the Nerve-wrecking Photoshoot</span>
             <span class="read"></span>
         </a>
     </div>

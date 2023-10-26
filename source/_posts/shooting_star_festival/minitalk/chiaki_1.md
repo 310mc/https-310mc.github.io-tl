@@ -49,13 +49,15 @@ description: "[ES!] Translation of Chiaki's first Mini Talk from Shooting Star F
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki1_1.jpg %}
+
 {% bubble Chiaki %}
-Oh, Anzu! You’ve been here even though it’s summer holidays! Good work! ☆
+Oh, Anzu! You were here even though it’s summer holidays! Great work! ☆
 
 Hm, me? I’m about to head to the Handicraft Club.
 
-He’s not here with me, but Kanata’s going there too.
+He isn’t here with me, but Kanata’s going there too.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
