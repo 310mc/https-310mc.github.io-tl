@@ -187,7 +187,7 @@ Wait, if we’re gonna practice, that means everyone else is coming too, right�
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Yeah, that’s true! Thankfully you’re in the mood to practice now, so I will refrain from continuing our introductions!
+Yeah, you’re right! Thankfully you’re in the mood to practice now, so I will refrain from continuing our introductions!
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -330,7 +330,7 @@ midori, greet them, too\~♪ hello\~
 say it louder\~ hello\~♪
 {% endbubble %}
 
-{% bubble Midori surprised2 %}
+{% bubble Midori shocked %}
 …H-Hello…?
 {% endbubble %}
 

@@ -209,7 +209,7 @@ Peaceful time, huh… Yeah, I can imagine that. He’s kind to people like me, t
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Oh, you two know each other?
+Oh, do you two know each other?
 {% endbubble %}
 
 {% bubble Midori frownshake %}
@@ -753,7 +753,7 @@ Ahh… I suppose there’s no working around that if that’s the case…
 {% endbubble %}
 
 {% bubble Midori %}
-You’re not gonna try to persist? That’s not like you…
+You won’t try to persist? That’s not like you…
 {% endbubble %}
 
 {% bubble Chiaki %}

@@ -1,6 +1,6 @@
 ---
 title: "Shooting Star Festival – Chiaki Produce Course: The Festival's Hero"
-date: 2017-7-5 9:01:00
+date: 2017-7-1 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:

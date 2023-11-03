@@ -600,7 +600,7 @@ So please don’t just disappear out of nowhere…
 {% bubble Kanata smileconfident %}
 fufufu, that is because chiaki is more [spoiled] than you would expect.
 
-but it looks like it will be okay, since it seems like you are [protecting] him.
+but it looks like it will be okay, since it seems like midori is [protecting] him.
 {% endbubble %}
 
 {% bubble Kanata grin %}
@@ -624,7 +624,7 @@ zzz…zzz…♪
 {% img /img/es/eventstory/sweethalloween/hajimeorigcg.jpg %}
 
 {% bubble Hajime smile %}
-………
+…………
 
 …Tomoya-kun, it’s morning.
 {% endbubble %}

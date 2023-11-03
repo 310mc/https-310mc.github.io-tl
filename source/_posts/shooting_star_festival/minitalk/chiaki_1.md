@@ -1,6 +1,6 @@
 ---
 title: "Shooting Star Festival – Chiaki Produce Course: A Joint Live!"
-date: 2017-7-5 9:00:00
+date: 2017-7-1 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:

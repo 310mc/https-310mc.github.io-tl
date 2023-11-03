@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Chiaki Produce Course: The Monster Appears!"
-date: 2023/10/26 9:04:00
+date: 2017/11/1 9:03:00
 categories:
 - [Enstars, Chiaki]
 tags:
@@ -86,9 +86,9 @@ Wait, don't tell me you saw what I did just now…!?
             	{% bubble Chiaki frown %}
               Mm, I'm bad with mornings…
 
-              Every morning, I've been going for a run along with the Track and Field Club duo, but… I was this close to oversleeping today.
+              Every morning, I've been going for a run along with the Track and Field duo, but… I was this close to oversleeping today.
 
-              I can't show such a shameful side of myself to the juniors… But I feel so sleepy… <th><em>(Yawn)…</em></th>
+              I can't show such a shameful side of myself to the juniors… But I feel so sleepy… <th><em>(Yawns)…</em></th>
 				{% endbubble %}
 			</div>
         </div>
@@ -262,7 +262,7 @@ I hope the juniors also got to feel something through this event in their own re
 
               Aren't they growing to be so reliable and strong? Why, Nagumo even accompanied me to the bathroom at nigh—
 
-              Woops, haha, no, no! We just so *happened* to be going to the same place, really! Fuhahahaha…☆
+              Woops, haha, no, no! We just so *happened* to come across each other on the way there, really! Fuhahahaha…☆
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">

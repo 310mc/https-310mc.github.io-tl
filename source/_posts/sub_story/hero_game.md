@@ -211,7 +211,7 @@ I’ll show you how to do it, so watch closely! *Transform…!* ☆
 <em><th>(humming)</th></em> Hmhm\~hmhm\~♪
 {% endbubble %}
 
-{% bubble Midori surprised2 %}
+{% bubble Midori shocked %}
 Oh, so you just change normally…?
 {% endbubble %}
 

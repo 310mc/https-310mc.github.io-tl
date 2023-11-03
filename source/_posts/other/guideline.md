@@ -55,17 +55,16 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
-            alt="ABYSS"
+            src="/img/es/idolstory/aherotoo/c2.jpg"
+            alt=""
         />
     </div>
-    <a href="/abyss" class="storyName" target="_blank">
-        <span>ABYSS (In Progress!)</span>
-        <span class="read"></span>
+    <a href="" class="storyName" target="_blank">
+        <span>Chiaki-related stories</span>
+        <span class="read soon"></span>
     </a>
 </div>
-<!--
-<div class="story">
+<!--<div class="story">
     <div class="image">
         <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
@@ -106,6 +105,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
+            alt="ABYSS"
+        />
+    </div>
+    <a href="/abyss" class="storyName" target="_blank">
+        <span>ABYSS</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="image">
         <img

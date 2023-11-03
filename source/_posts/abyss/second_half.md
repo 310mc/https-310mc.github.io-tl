@@ -1,6 +1,6 @@
 ---
 title: "ABYSS – The Sea Of ⬛ Trickling Down (Chapter 9–12) & Epilogue"
-date: 2023-9-20 9:00:00
+date: 2023-8-30 9:01:00
 categories:
 - [Enstars, Madara]
 - [Enstars, Kanata]
@@ -335,6 +335,11 @@ no. mikejima… —behind you!
 
 ## Chapter 10
 
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains casual mentions of self-injury.</p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Underground Waterway</span></p>
 </div>
@@ -638,7 +643,7 @@ were you fighting again? that is not good, okay? why can you not get along with 
 {% endbubble %}
 
 {% bubble Madara kidnorsmile %}
-That’s ‘cause a world where eeeveryone’s happy, smiling and getting along all the time feels creepy.
+That’s ‘cause a world where everyone’s happy, smiling and getting along aaall the time feels creepy.
 
 Keep this in mind: In our world, when there’s someone laughing, there’s someone angry. When there’s someone happy, there’s someone who wants to force them to be unhappy.
 
@@ -928,7 +933,7 @@ i see~ fufufu, mikejima became a child who can do things if he tries, yes?
 {% bubble Madara yare %}
 Anyone can easily do a kid errand like this, thouuugh. I can <em>really</em> feel just how much your opinion of me’s fallen off…
 
-Even though you used to be so adorable when we were little, always acting spoiled and depending on me while calling, “Mikejima, Mikejima~♪.
+Even though you used to be so adorable when we were little, always acting spoiled and depending on me while calling, “Mikejima, Mikejima~♪”.
 {% endbubble %}
 
 {% bubble Kanata glare %}
@@ -1043,9 +1048,435 @@ but she changed her mind, and decided to stop trying.
 why do you think she made that choice, mikejima?
 {% endbubble %}
 
-{% note narration %}
-Translation in progress! (13/16 Chapters)
-{% endnote %}
+## Epilogue 2
+
+{% bubble Madara northinking %}
+It miiight’ve been some kinda test. She was probably trying to make sure you were capable of overcoming any sort of hardship.
+
+At the same time, she was likely trying to confirm whether or not you have someone who’d risk their life to save you.
+{% endbubble %}
+
+{% bubble Madara serious %}
+And as the result shows — though Souma-san and I made a move that was set up by the enemy — we did manage to overcome that hardship. We rescued you from the evil clutches of ABYSS.
+
+Seeing us perform that feat, your mother might’ve felt relief, thinking, “This child will surely be alright.”
+
+“You would be much happier staying in your place of belonging, instead of living a life on the run with me, with no discernable future.”
+{% endbubble %}
+
+{% bubble Madara frown %}
+That’s also a pretty selfish story in of itself, but well, it really can’t be helped. I don’t think your mother had everything her way, either.
+
+The incident likely originated from your mother, and later our parents got involved.
+{% endbubble %}
+
+{% bubble Kanata srsthinking %}
+yes, it seems so… if we were to consider what [happened] afterwards.
+{% endbubble %}
+
+{% bubble Madara serious %}
+Yeah. After that turmoil, Souma-san and I made a name for ourselves within the religion for rescuing the kidnapped Kanata-san.
+
+Thanks to that, I got to continue being your caretaker despite all my rule-breaking, and Souma-san also got entrusted with performing rituals.
+
+Alongside all this, our parents’ reputation improved, gaining them prestige, influence, and authority. Their kids gave them the leftovers of their accomplishments and they took it.
+{% endbubble %}
+
+{% bubble Madara frown %}
+No… I’m sure that was the entiiire purpose of the whole scheme.
+
+Those guys who tried to kidnap Kanata-san, too— When I investigated it, I found out they were just subordinates of my parents.
+
+It’s no <em>wonder</em> they were so well-trained and proficient.
+
+They were reaaal professionals meant for actual fights.
+
+Even during the kidnapping scare, they were only <em>pretending</em> to lose to us, despite seeing right through our naive plan.
+
+That’s what ABYSS was — The “bad guys” contrived just to be defeated by us. Their role was to be taken down.
+
+By creating an “enemy” — in this case, ABYSS — all the worshipers who were shaken by the death of their god would unite and work as one…
+
+Hmph, I feel like I’ve heard of this story before…
+
+I’m sure that even if there wasn’t a kidnapping scare, the plot would’ve still come to a close with a “and all the worshippers joined forces to defeat ABYSS~”...
+
+Even the devil himself, the enemy of mankind, is a creation of God. When you think of it that way, the story sounds extremely and pointlessly religious.
+
+At any rate, the “big baddie” of the Shinkai-san religion is ABYSS, as in “the deep sea”[^11] — They were exposing themselves all on their own with that name.
+
+Everything’s so carelessly put together… and yet, as expected of worshipers, they were deceived by it all the same.
+
+Well, anyway, in short… Every single thing was orchestrated by my parents and a few others.
+
+What brought on that farce of playing superheroes was all just a combination of various people’s agendas.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+that was mikejima’s father and mother—
+{% endbubble %}
+
+{% bubble Madara serious %}
+Yeah. And Souma-san’s father too; he likely got involved somewhere in the process.
+
+Souma-san coincidentally found out about our predicament from overhearing his father’s conversation, and even learned where the concealed Abode of God is located…
+{% endbubble %}
+
+{% bubble Madara yare %}
+Then conveniently saved us at the exact perfect time… There’s just no way that all happened by chance.
+
+I didn’t question it at the time, but in hindsight, Souma-san must’ve been guided by his father, too.
+
+He was given the hero role of saving us, and executed it without even knowing about it.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+but even so, souma could have pretended that he heard nothing, and [feigned ignorance].
+
+despite that, he [risked] himself to come and save us.
+
+he came for us, who he only met once — who were not even his friends.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+that is all because he is a [virtuous] child.
+
+both now and then, he is a gooood boy~♪
+{% endbubble %}
+
+{% bubble Madara awkward %}
+Back then, he said he was “simply doing what’s natural to do as a human being” or something of the liiike.
+
+But it’s not common to find someone who can actually carry out “what’s natural to do”.
+{% endbubble %}
+
+{% bubble Madara smilesoft %}
+That kid’s remarkable, really. Maybe it was his ignorance as a kid that made him so recklessly brave, but…
+
+Ever since then, and even now, I have always had quite a bit of respect for that kid.
+
+—The hero who saved us.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+let’s say all of that to [him]. souma is [honest], so he will surely be happy.
+{% endbubble %}
+
+{% bubble Madara frown %}
+Hell no. It frustrates me… I can’t <em>believe</em> the hatchling that fainted from my punch became a waaay more outstanding hero than me — the hero I yearn to be.
+{% endbubble %}
+
+{% bubble Kanata frown2 %}
+gosh… mikejima is the [opposite] of souma. you are not [honest] at all… you never have been — since a looong time ago.
+{% endbubble %}
+
+{% bubble Madara smileconfident %}
+Well, I diiid kinda repeat many mistakes, get beaten down by reality, and then sulked over it and became distorted all over.
+
+I can’t be a kid who dreams anymore.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+is that so… i personally still have [dreams] sometimes.
+
+[dreams] of those days.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+back then, i was [blindfolded], and i could not see much — so my [dreams] are mostly pitch dark.
+
+but i clearly remember others’ [voices] and [touch].
+
+that time — after my mother abducted me, she probably [cradled] me the whole time.
+
+while doing something [mother]-like after so long, she began to cry.
+
+it trickled down on me. something salty and warm.
+
+i do not know the reason behind those [tears]. only mother knows.
+
+maybe she was happy to be free and cradle her child… maybe she felt sorrow knowing we may have to separate.
+
+i am not sure what it could be, but i will never eeever forget it.
+
+that warmth and salty feeling.
+
+mother tasted like the [ocean].
+{% endbubble %}
+
+## Epilogue 3
+
+{% bubble Madara smilesoft %}
+Well, either way; good for you, Kanata-san. I’m not proud to say it, but I don’t have a single good memory with my mom, y’knoow?
+{% endbubble %}
+
+{% bubble Kanata yare %}
+you should try to get along with her… mikejima’s [mother] is clearly [alive], after all.
+{% endbubble %}
+
+{% bubble Madara grin %}
+Hahaha. Maybe it was a gooood thing your mother left you.
+
+Moms are only overbearing once you hit puberty. I think you would’ve toootally fought with her if she was by your side then.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes, maybe so. but i want to have had those [fights].
+
+i want to have had those normal [parent-child], [family]-like things.
+
+that is my one true [regret] — it aaalways lingered in me, that i even held onto [this].
+
+the last remaining [connection] with my mother.
+{% endbubble %}
+
+{% bubble Madara serious %}
+Ahh, that cremation urn, yeah? That was empty from the very start, right?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes. my mother only [pretended] to be [dead], so there was never a [corpse] from the very start. that of course means no [remains] nor [ashes], either.
+
+it is because the [cremation urn] was empty that i knew my mother was still [alive].
+
+this [cremation urn] was meant to be that sort of [message]. there is no deeper [meaning] to it.
+{% endbubble %}
+
+{% bubble Madara curious %}
+She disappeared on her own, but she still wanted it to be known that she’s alive?
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+yes. [mother] is alive. and she is watching over me from somewhere far away—
+
+i would like to [interpret] it in good light, for it to be that sort of [message] to me.
+{% endbubble %}
+
+{% bubble Madara smirk %}
+She might’ve just pushed the things she deemed unnecessary onto you, y’knoow? Like the position of God~ The empty cremation urn might’ve actually been that sort of message.
+{% endbubble %}
+
+{% bubble Kanata glare %}
+my [mother] is not like mikejima; she would not say something so [unkind], okay~?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Heeey, Kanata-kuun~ *<th>(waves)</th>*
+{% endbubble %}
+
+{% bubble Kanata curious %}
+kaoru.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+I knew you’d be nearby somewhere. You’ve always been the type to make others run errands without doing much yourself, yeah?
+{% endbubble %}
+
+{% bubble Kanata serious %}
+doing so is an old [custom]... but, that aside, is there [something] you needed from me?
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+Nah, it’s not a big deal or anything… See, Souma-kun’s doing a huge cleanup of the clubroom, so we should go help him out, as alumni of the Marine Life Club.
+
+The clubroom’s a mess — mostly ‘cause of all the water tanks you left behind. So you should at least tidy up that part, right?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+I know I’m late to say this, but — it’s just simple courtesy to clean up after yourself when leaving, y’know~
+
+When something meaningful is left behind somewhere, the remaining people around will start wondering if there’s some sort of message behind it.
+
+Like that “cremation urn,” yeah?
+{% endbubble %}
+
+{% bubble Kanata serious %}
+…………
+{% endbubble %}
+
+{% bubble Kaoru smile2 %}
+Heheh, I’m glad for you, Kanata-kun.
+
+I’m happy to know that your mother didn’t pass away in the end.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+…did you tell kaoru everything, mikejima?
+{% endbubble %}
+
+{% bubble Madara serious %}
+Nah. It sounded like Souma-san already told him the story to a certain extent, so I <em>did</em> fill in a bit of the rest.
+
+‘Cause if people don’t get any explanation, they might get curious and investigate.
+
+Buuut in terms of the cremation urn, I only explained that it’s one of the items related to the case.
+
+I did explain enough to hint at the truth, but the explanation got tedious halfwaaay… I mean, I personally hadn’t reached a conclusion yet, anyway.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+so in other words, kaoru [deduced] it, and reached the [truth] by himself.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+that is incredible. i expect nothing less from the son of a [scholar].[^12]
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Thanks. That’s the best compliment I could ever get.
+
+But I think Souma-kun figured out the truth, too.
+
+That kid’s grown a lot more than we thought. He may look like an idiot, but he’s always strangely been clever.
+
+I think he’s just always considerate of his seniors, so he won’t ask for more details if they don’t wanna talk about it.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+ahh, that is just like him.
+{% endbubble %}
+
+{% bubble Kanata awkward %}
+but, yes, that is true… that boy would always look at me with [sparkles] in his [eyes], both back then and now.
+
+it makes me want to look good and reliable in front of him… to [pretend] as if everything connected to my embarrassing [past] never happened.
+
+that is exactly why [once again], i asked mikejima to [collect] this [cremation urn] for me.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+I know I keep saying this, but how about doing it yourself? It’s something related to you, so why not do it without leaving it to someone else?
+{% endbubble %}
+
+## Epilogue 4
+
+{% bubble Kaoru v2 %}
+That part about you is exactly like your mom, Kanata-kun.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+…? kaoru, have you met my mother before?
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Nope, not once. I mean, it’s not like I really had any connection with you guys in the past.
+
+It’s just that I can sorta imagine what kind of person your mother was, based on the little I’ve heard. I think she was probably just like you, Kanata-kun.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+well, that is because she was raised in the same kind of [environment] as me.
+
+she was raised to live her life as a [god], not a [human].
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+And everyone couldn’t bear to see such a “pitiful person,” so they all poked their noses in to do something about it, I bet. Just like how Souma-kun and Mikejima-kun tried to support you and save you, Kanata-kun.
+
+That might be the real truth behind the whole incident. And Kanata-kun, you might’ve been tracing after your mother’s life subconsciously.
+
+After all, you also eventually quit being a “god” before I even knew it, yeah? Just like your mother did.
+
+Don’t you think your current feelings would have a lot of overlap with your mother’s feelings when she quit back then?
+
+It would’ve been so much easier to completely vanish without a single trace, without ever passing on a message. If you were to take into account how the people left behind would feel, yeah? Tidying up the aftermath is tough on them, after all.
+
+But despite that, you two made sure to leave behind something.
+
+Why do you think that is?
+{% endbubble %}
+
+{% bubble Kanata smile %}
+…ahh, i see. now i get it. thanks to kaoru, i think i finally understand my mother’s [feelings] back then.
+
+i personally love everyone.
+
+surely, my mother felt the same.
+
+so she wanted to remain somewhere within the people she loves, didn’t she?
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+that is why she left something behind. even if it is with something small — even if it makes those left behind have lingering feelings of sadness and regret.
+
+she wanted to be on their minds — to be remembered.
+
+it is because she wanted to remain in everyone’s [hearts] that she left something behind, yes?
+
+that is all there is to it.
+{% endbubble %}
+
+{% bubble Souma curious %}
+Shinkai-dono\~! Mikejima-dono\~! And Hakaze-dono, I suppose!
+{% endbubble %}
+
+{% bubble Kaoru awkward %}
+Is it just me, or am I the only one who got the “whatever” treatment?
+{% endbubble %}
+
+{% bubble Kanata smile %}
+fufu, if anything, it feels like you are getting [special treatment] from souma. it makes me feel jealous.
+{% endbubble %}
+
+{% bubble Kaoru v2 %}
+Ohh? You feel jealous of me, too? That kinda makes me happy.
+{% endbubble %}
+
+{% bubble Souma %}
+What are you discussing? Regardless, look! The sky is crying!
+
+In other words, it is raining! I believe it would be best if everyone were to take shelter from the rain in the clubroom, before all of you become drenched wet.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+i am already [drenched wet], though~?
+{% endbubble %}
+
+{% bubble Souma yare %}
+You truly are… You will only catch a cold again, Shinkai-dono. It worries me. You need to wipe your body and warm yourself up.
+
+That is another reason why taking shelter is necessary. I would be grateful if you could help clean the clubroom as well, while we’re there.
+{% endbubble %}
+
+{% bubble Madara %}
+Yup. It’s much more efficient to do things with other people’s help instead of all by yourself, after aaall.
+
+I’ll personally help you out. ‘Cause that’ll make us even for when you helped me rescue Kanata-san in the paaast.
+{% endbubble %}
+
+{% bubble Souma curious %}
+That is just like you to say, Mikejima-dono, but wouldn’t the favor given and the service received in return be unproportionate to each other…?
+{% endbubble %}
+
+{% bubble Madara grin %}
+…Hahaha! ♪
+{% endbubble %}
+
+{% bubble Kanata curious %}
+…? what is so funny, mikejima?
+{% endbubble %}
+
+{% bubble Madara smilesoft %}
+Nah, it’s probably all just a coincidence, and there are no gods or ghosts in this world, but…
+
+It’s as if your mom got worried seeing you all by yourself, so she sent rain down in hopes that everyone would mingle with you.
+
+Even though that’s entirely impossible, the thought of it made me laugh.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+fufu. yes, that’s right. mother is no longer a [god], so she cannot make [rain] fall.
+
+but. mhm, i hope that’s true.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+—thank you, mother.
+
+as you can see, i assure you that i am living quite happily.
+
+so please, don’t cry anymore.
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
@@ -1065,3 +1496,5 @@ Translation in progress! (13/16 Chapters)
 [^8]: This is a classic samurai catchphrase from the old ages, typically used in stories set in those days.
 [^9]: Here, Souma says <em>kami-sama</em> (God). This is different from the way Madara refers to young Kanata, which is simply <em>kami</em>.
 [^10]: This is a motto that samurais live by. The quote comes from Confucius.
+[^11]: As mentioned in Chapter 5, abyss can mean the deep sea, the same word as Kanata's last name.
+[^12]: Kaoru's mother was a marine biologist.

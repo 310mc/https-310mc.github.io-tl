@@ -49,7 +49,9 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Comet Show. F
 <!-- more -->
 
 ## <div mt="rare"></div> 1/3
+
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
+
 {% bubble Midori %}
 <th>(Let's search for… "Morisawa, Chiaki"…)</th>
 
@@ -120,7 +122,9 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Comet Show. F
 </div>
 
 ## <div mt="rare"></div> 2/3
+
 {% img /img/es/eventstory/cometshow/minitalk_midori2_2.jpg %}
+
 {% bubble Midori %}
 What am I doing? …Not much. I've got nothing to do right now…
 
@@ -191,7 +195,9 @@ I'd only stand out if I stuck around the shopping district, though, so… That's
 </div>
 
 ## <div mt="rare"></div> 3/3
+
 {% img /img/es/eventstory/cometshow/minitalk_midori2_3.jpg %}
+
 {% bubble Midori %}
 …Ah, please check this out. This soft drink ad just showed up on my social media feed.
 

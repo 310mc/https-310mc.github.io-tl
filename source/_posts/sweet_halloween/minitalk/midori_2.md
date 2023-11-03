@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Midori Produce Course: Fun Training Camp?"
-date: 2023/10/26 9:01:00
+date: 2017/11/1 9:01:00
 categories:
 - [Enstars, Midori]
 tags:
@@ -219,7 +219,7 @@ No, it definitely *was* long…
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori surprised2 %}
+            	{% bubble Midori shocked %}
               Huh!? What made you think that…?
               {% endbubble %}
               {% bubble Midori smileconfident %}

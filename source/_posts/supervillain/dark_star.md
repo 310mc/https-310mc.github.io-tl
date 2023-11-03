@@ -259,7 +259,7 @@ exactly~ you heard him, chiaki. let’s [keep] the [water reservoirs] for me, on
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-But… that very premise for Ryuseitai has long been on the verge of collapse. Nagumo and Takamine haven’t at all been participating in our unit activities recently, for one thing.
+But… that very premise for Ryuseitai has long been on the verge of collapse. Nagumo and Takamine haven’t been participating in our unit activities at all recently, for one thing.
 {% endbubble %}
 
 {% bubble Shinobu northinking %}
@@ -271,7 +271,7 @@ mm~ i believe midori may simply be [skipping] out on the meeting, but i do not t
 {% endbubble %}
 
 {% bubble Shinobu frown %}
-Ahh, indeed. It seems that Tetora-kun has found himself in an unforeseen position. I don’t know exactly how it happened, however.
+Ahh, indeed. It seems that Tetora-kun has found himself in an unforeseen position. I don’t know how exactly it happened, however.
 
 But even if we are physically far apart, our hearts are always one and the same. I’m certain it is. I believe in that!
 

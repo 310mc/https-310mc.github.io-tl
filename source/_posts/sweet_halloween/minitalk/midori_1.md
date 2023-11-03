@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Midori Produce Course: Halloween Costume"
-date: 2023/10/26 9:00:00
+date: 2017/11/1 9:00:00
 categories:
 - [Enstars, Midori]
 tags:
@@ -177,7 +177,7 @@ But if this were the usual, Morisawa-senpai would've gladly told us lots of idea
 			</ul>
 			<div data-tab="1b-n">
             	{% bubble Midori sigh2 %}
-              Mm~ I'm not really sure, but… Morisawa-senpai has been acting kinda strangely lately…
+              Mm~ I'm not really sure, but… Morisawa-senpai has been acting kinda strange lately…
 
               Tetora-kun and Sengoku-kun say that's the usual for him, but…
 

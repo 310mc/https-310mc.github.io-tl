@@ -465,7 +465,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/abyss" class="storyName" target="_blank">
-            <span>ABYSS (In Progress!)</span>
+            <span>ABYSS</span>
             <span class="read"></span>
         </a>
     </div>

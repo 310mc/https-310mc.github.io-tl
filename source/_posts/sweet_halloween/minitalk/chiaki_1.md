@@ -1,6 +1,6 @@
 ---
 title: "Sweet Halloween – Chiaki Produce Course: Anxious over…?"
-date: 2023/10/26 9:03:00
+date: 2017/11/1 9:02:00
 categories:
 - [Enstars, Chiaki]
 tags:
@@ -194,7 +194,7 @@ W-Wait, Anzu!? A-Ahh, y-you suprised me…!
               Mm? Are you asking me why I was that surprised…!?
               {% endbubble %}
               {% bubble Chiaki mgnblushshy %}
-              U-Um, that's because… "that" is, y'know, *that*, so… <em><th>(mumble, mumble)</th></em>
+              U-Um, that's because… "That" is, y'know, *that*, so… <em><th>(mumble, mumble)</th></em>
 				{% endbubble %}
 			</div>
         </div>
@@ -216,7 +216,7 @@ I think Nagumo did mention something…?
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'd like to spent the night.
+            I'd like to spend the night.
         </div>
         <div class="minitalk-option_content">
 			<ul class="tabber">

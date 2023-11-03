@@ -273,7 +273,7 @@ Everyone's walking around in monster costumes, but only a few of 'em are actuall
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Alright! Gather over, kids! I’m giving out candy\~ Trick or Treat\~♪
+Aight! Gather over, kids! I’m givin’ out candy\~ Trick or Treat\~♪
 {% endbubble %}
 
 {% bubble Midori smileconfident %}

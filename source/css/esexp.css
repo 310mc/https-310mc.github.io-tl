@@ -96,6 +96,9 @@
 [character="Midori"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_serious.png");
 }
+[character="Midori"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_shocked.png");
+}
 [character="Midori"][sideeye] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sideeye.png");
 }
@@ -134,9 +137,6 @@
 }
 [character="Midori"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_surprised.png");
-}
-[character="Midori"][surprised2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_surprised2.png");
 }
 [character="Midori"][sweat] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sweat.png");
@@ -1922,6 +1922,9 @@
 ***/
 [character="Madara"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_awkward.png");
+}
+[character="Madara"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_curious.png");
 }
 [character="Madara"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/madara_frown.png");
