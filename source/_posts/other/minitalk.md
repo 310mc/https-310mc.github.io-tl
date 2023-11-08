@@ -208,6 +208,37 @@ permalink: minitalk/
 
 <div style="margin-top:10px">{% btn /sweet_halloween,, star, Index %}</div>
 
+### Shooting Star Festival
+
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/orihime_and_hikoboshi/midoriframe_300px.jpg"
+                alt="Unaccustomed Situation"
+            />
+        </div>
+        <a href="/orihime_and_hikoboshi/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Unaccustomed Situation</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/orihimeandhikoboshi/midoribcgframe_300px.jpg"
+                alt="Tanabata Shooting Star"
+            />
+        </div>
+        <a href="/orihime_and_hikoboshi/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Tanabata Shooting Star</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<div style="margin-top:10px">{% btn /orihime_and_hikoboshi,, star, Index %}</div>
+
 <h4>Ensemble Stars!! Era</h4>
 
 ### Comet Show

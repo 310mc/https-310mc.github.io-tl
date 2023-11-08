@@ -210,7 +210,7 @@ Other than that, there wasn't any proof it happened… To be honest, when I woke
 
 Well, when I went downstairs to eat breakfast, my family were all sat together with plenty of praise and my favorite foods, so there was no way I could believe it was a dream at that point.
 
-My little sis even clung to me like no tomorrow, and just feeling another person's warmth --
+My little sis even clung to me like no tomorrow, and just feeling another person's warmth--
 
 I was so happy, I might've cried a bit… But keep that a secret from everyone else, alright?
 {% endbubble %}

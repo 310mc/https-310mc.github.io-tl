@@ -533,7 +533,7 @@ I’d be glad to take on the job if it’s alright with you two~♪
 ## Chapter 2
 
 {% bubble Chiaki %}
-Ohh, you’ll take it?!
+Ohh, you’ll take it!?
 
 This is great, Anzu! Mhm, mhm, I’m indebted to you for many things, so I’m happy to know I could help you out~♪
 
@@ -581,7 +581,7 @@ Chiaki-san. If you’ve got the time, could you help me maintain my motorbike?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Wha— Can I really?!
+Wha— Can I really!?
 {% endbubble %}
 
 {% bubble Madara %}
@@ -747,11 +747,11 @@ Mhm, I guess it’s nice to have days like this every once in a while…♪
 {% img /img/es/scoutstory/buddy/3_1.jpg %}
 
 <div class="msr-narration">
-    <p>Next day — Early morning</p>…
+    <p>Next day — Early morning…</p>
 </div>
 
 {% bubble Shinobu %}
-Heave-ho, heave-ho… Woah! Awawa?!
+Heave-ho, heave-ho… Woah! Awawa!?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -759,7 +759,7 @@ Y-You okay…? I’ll hold it for you if it’s too much…
 {% endbubble %}
 
 {% bubble Shinobu %}
-I-I let my guard down for a second, that’s all!
+I-I let my guard down for a moment, that’s all!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -781,7 +781,7 @@ But y’know, I was really surprised when you phone called me out of nowhere… 
 {% bubble Shinobu %}
 Ungh~ Yes, I’m bad with phone calls.
 
-Even if I had exchanged numbers with someone, I keep stressing over whether it’s okay to casually call them or not… Most times, I just do not do it in the end.
+Even if I had exchanged numbers with someone, I keep stressing over whether it’s alright to casually call them or not… Most times, I just do not do it in the end.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -795,7 +795,7 @@ Then I told you that I had work to do for my family, and so you’re helping me 
 
 If that’s what you wanted, then I feel kinda bad for making you do this with me…
 
-I could get you some juice if I ask my parents for something in return, but otherwise, it’s free of charge…
+I could get you some juice if I ask my parents for something in return, but otherwise, there’s no real payment for doing this…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -805,15 +805,15 @@ And you said that you have the physical strength due to your greengrocer work, s
 {% endbubble %}
 
 {% bubble Midori %}
-Ohh, that’s why… So you get to build stamina, and I get to do this with your help, so it’s basically hitting two birds with one stone, huh…?
+Ohh, that’s why… So you get to build stamina, and I get to finish this with your help, so it’s basically hitting two birds with one stone, huh…?
 {% endbubble %}
 
 {% bubble Shinobu %}
-Yes! Same goes for me. I’m able to not only spend time with you on our break, but also build my muscles~♪
+Indeed! The same goes for me. I’m able to not only spend time with you on our break, but also build my muscles~♪
 {% endbubble %}
 
 {% bubble Midori %}
-Heheh. Well if that’s what it is, then I guess I’ll go ahead and ask for your help…♪
+Heheh. Well if that’s what it is, then I guess I’ll gladly accept your help…♪
 {% endbubble %}
 
 ## Chapter 4
@@ -839,7 +839,7 @@ Well, it is a toy shop, so he must have gone in to buy some? Nonetheless, I shal
 {% endbubble %}
 
 {% bubble Midori %}
-Ehh… You don’t have to do that… I don’t wanna be near him as much as I can during summer… It’s already suffocating and tiring as it is…
+Ehhh… You don’t have to do that… I don’t wanna be near him as much as I can during summer… It’s already suffocating and tiring as it is…
 {% endbubble %}
 
 {% img /img/es/scoutstory/buddy/chiakiorigcg.jpg %}
@@ -849,7 +849,7 @@ Oohhh…☆ This is truly splendid!
 
 To think I could arrange this figurine in my most admired pose…! It feels too good to be true!
 
-Th…This is re-enacting *that* scene?! Truly incredible, shopkeeper! Of course you’d know all about it…! ☆
+Th…This is re-enacting *that* scene!? Truly incredible, shopkeeper! Of course you’d know all about it…! ☆
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -889,7 +889,7 @@ Ughh, as soon as I said that…… No, you’re mistaking me for someone else…
 {% endbubble %}
 
 {% bubble Chiaki %}
-Huh?! Why are you saying that?! Did you forget all about me during our break?!
+Huh!? Why are you saying that!? Did you forget all about me during our break!?
 
 Alright! Then I’ll just have to make you remember! I’m Morisawa Chiaki! I’m in the same Basketball Club as you!
 
@@ -903,7 +903,7 @@ I take back what I said, okay… so please don’t do anything that’ll attract
 {% endbubble %}
 
 {% bubble Chiaki %}
-Okay. I’m glad to know that you hadn’t forgotten me!
+Okay. I’m glad to know that you haven’t forgotten me!
 
 Are you helping your family, Takamine? And I think Sengoku’s helping, too…?
 {% endbubble %}
@@ -923,7 +923,7 @@ Ehehe…♪ But was it really okay for you to come over to us when you were havi
 {% bubble Chiaki %}
 Hm? Ahh yeah, I can talk to them anytime.
 
-Though I haven’t been there in a while, so I ended up getting really excited talking about all the new figurines!
+I haven’t been there in a while though, so I ended up getting really excited talking about all the new figurines!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -939,7 +939,7 @@ That just sounds like harassment to me, ‘kay…?
 {% endbubble %}
 
 {% bubble Shinobu %}
-C’mon, Midori-kun… Taichou-dono, do they sell ninja merchandise in there?
+Now, now, Midori-kun…… Taichou-dono, do they sell ninja merchandise in there?
 
 If so, then I might visit it after I have finished helping Midori-kun~♪
 {% endbubble %}
