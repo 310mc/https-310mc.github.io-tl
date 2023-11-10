@@ -871,11 +871,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="image">
         <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
-            alt="Dreamy Days and Hero"
+            alt="Dream Days and Hero"
         />
     </div>
     <a href="/dream_days_and_hero" class="storyName" target="_blank">
-        <span>Dreamy Days and Hero</span>
+        <span>Dream Days and Hero</span>
         <span class="read"></span>
     </a>
 </div>

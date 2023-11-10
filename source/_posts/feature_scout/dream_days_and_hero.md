@@ -170,7 +170,7 @@ Thank you, Anzu! I assure you that I’ll bring over ideas that will meet your e
 {% bubble Chiaki awkward %}
 <th>(…Wait, no. I’ve already graduated from Yumenosaki.)</th>
 
-<th>(I do sometimes visit the Basketball Club as an alumni, but I don’t think I should frequent my visits when I’m a graduate.)</th>
+<th>(I do sometimes visit the Basketball Club as an alumnus, but I don’t think I should frequent my visits when I’m a graduate.)</th>
 
 <th>(After all… My days in the club — My days in Yumenosaki Academy are already over.)</th>
 {% endbubble %}
@@ -404,7 +404,7 @@ Oh, you were reminded how we’re both in the Basketball Club? So that’s why y
 
 No, I haven’t been playing it for a while.
 
-The last time I showed up to the club as an alumni, I passed over my basketball shoes to Shiratori.
+The last time I showed up to the club as an alumnus, I passed over my basketball shoes to Shiratori.
 
 I haven’t gotten the opportunity to buy new ones… So I haven’t been visiting the Basketball Club since then.
 {% endbubble %}
@@ -416,11 +416,11 @@ Ahh~ You’re talking about that day we all turned down the offer to take your s
 {% bubble Chiaki sigh4 %}
 Yeah… I sort of saw it coming that Akehoshi and Takamine would decline, but even <em>Isara</em> forced a smile without looking me in the eye…
 
-The one and only person who accepted the offer was Shiratori. His eyes were sparkling when I passed over my shoes.
+The one and only person who accepted the offer was Shiratori. His eyes were sparkling when I passed my shoes over.
 {% endbubble %}
 
 {% bubble Chiaki smile %}
-With how happy he seemed, I’m sure it means he loves basketball <em>that</em> much! ♪
+With how happy he looked, I’m sure it means that he loves basketball <em>that</em> much! ♪
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -486,7 +486,7 @@ Mm? What do you mean? You can come hang out whenever you want, regardless of wha
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-No, I’ve already graduated from Yumenosaki. Even if I’m an alumni now, I always thought it’s best if I avoid frequenting the Basketball Club.
+No, I’ve already graduated from Yumenosaki. Even if I’m an alumnus now, I always thought it’s best if I avoid frequenting the Basketball Club.
 {% endbubble %}
 
 {% bubble Subaru northinking %}
@@ -504,7 +504,7 @@ I’m sure it’s fine! Anzu’s nodding in agreement, too! She looks like she�
 
 Ah! Y’know what, how about taking photos of you hanging out at the Basketball Club for the pamphlet? It’d be perfect!
 
-Maybe it’s not so rare to see you play sports, but isn’t it a pretty rare sight to see Chi~chan-senpai teach his juniors as an alumni?
+Maybe it’s not so rare to see you play sports, but isn’t it a pretty rare sight to see Chi~chan-senpai teach his juniors as an alumnus?
 
 Like, if I were to say it in a way you would, it’s like when past heroes appear in a tokusatsu movie and stuff!
 {% endbubble %}
@@ -514,7 +514,7 @@ Like, if I were to say it in a way you would, it’s like when past heroes appea
 {% endbubble %}
 
 {% bubble Subaru %}
-I’m sure the juniors would also feel like it’s a great opportunity to be taught by an alumni.
+I’m sure the juniors would also feel like it’s a great opportunity to be taught by an alumnus.
 
 …Knowing you, you’re probably trying to be considerate of us over at the club, but…
 
@@ -522,7 +522,7 @@ Even if you’ve graduated, nothing’ll change the fact that you were a student
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-…The truth is, I was thinking of taking a photo of myself playing in the Basketball Club as an alumni for the pamphlet.
+…The truth is, I was thinking of taking a photo of myself playing in the Basketball Club as an alumnus for the pamphlet.
 
 But as I said earlier, I’ve already graduated. I thought it isn’t necessary for me to specifically show a candid shot of me in Yumenosaki.
 
@@ -546,7 +546,7 @@ Woah, don’t hug me! And don’t just sit there and watch, Anzu, help me out he
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-Anzu! On top of the photos at my Circle, could you also take photos of me hanging out at the Basketball Club as an alumni?
+Anzu! On top of the photos at my Circle, could you also take photos of me hanging out at the Basketball Club as an alumnus?
 
 My days in Yumenosaki Academy are irreplaceable to me.[^1] It’s because I went through those days that I can work so hard as an idol right now.
 
@@ -563,4 +563,4 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 
 ## Translation Notes
 
-[^1]: As mentioned at the start, the story title refers to the "dream" in <em>yume</em>nosaki.
+[^1]: As mentioned at the start, the story title refers to the “dream” in <em>yume</em>nosaki.
