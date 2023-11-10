@@ -386,7 +386,7 @@ That is exactly what tokusatsu shows always promise to deliver.
 <th>(At the very least, I'll make sure to support them whenever I have time off from work…)</th>
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 <th>(I don't care that it won't make any difference… I love everyone, so I…)</th>
 
 <th>(I'll do it, only ‘cause I’ve always felt so bad for constantly causing trouble to my precious allies…)</th>
@@ -394,7 +394,7 @@ That is exactly what tokusatsu shows always promise to deliver.
 
 ## Chapter 3
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 D-Dad? Mom? Big bro?
 
 Is… Is it okay if I leave for a moment when I have time off from work…?

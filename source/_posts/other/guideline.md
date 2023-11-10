@@ -56,7 +56,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="image">
         <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
-            alt=""
+            alt="Chiaki-related stories"
         />
     </div>
     <a href="" class="storyName" target="_blank">
@@ -108,6 +108,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/daysandhero/c1.jpg"
+            alt="Dreamy Days and Hero"
+        />
+    </div>
+    <a href="/dream_days_and_hero" class="storyName" target="_blank">
+        <span>Dreamy Days and Hero</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
             alt="ABYSS"
         />
@@ -126,42 +138,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/tropical" class="storyName" target="_blank">
         <span>Tropical</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
-            alt="Parallel World"
-        />
-    </div>
-    <a href="/parallel_world" class="storyName" target="_blank">
-        <span>Parallel World (Ryuseitai Scene ONLY!)</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
-            alt="Wedding March!"
-        />
-    </div>
-    <a href="/wedding_march" class="storyName" target="_blank">
-        <span>Wedding March!</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/scoutstory/mangaclub/maobcgframe_300px.jpg"
-            alt="Manga Club"
-        />
-    </div>
-    <a href="/manga_club" class="storyName" target="_blank">
-        <span>Manga Club</span>
         <span class="read"></span>
     </a>
 </div>

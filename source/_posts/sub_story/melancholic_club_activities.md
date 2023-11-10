@@ -91,7 +91,7 @@ What about you, Hajime? We haven’t been walking home together lately unless we
 Heheh, the Tea Club has the day off today, so I also have free time. I’ll accompany you anywhere~♪
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 …………
 {% endbubble %}
 
@@ -225,7 +225,7 @@ But Hokuto-senpai’s always covering for me and encouraging me, and he’s so c
 The masked freak may be a weirdo, but I respect Hokuto-senpai from the bottom of my heart~♪
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Oh, *what*… You may be complaining, but you’re also enjoying your club in the end…
 
 I’m not enjoying it at all… Not my club, nor my unit, nor my school life… I’m going through the gloomiest youth…

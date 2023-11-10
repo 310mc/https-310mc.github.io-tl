@@ -208,13 +208,13 @@ permalink: minitalk/
 
 <div style="margin-top:10px">{% btn /sweet_halloween,, star, Index %}</div>
 
-### Shooting Star Festival
+### Orihime and Hikoboshi
 
 <div class="stories">
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/orihime_and_hikoboshi/midoriframe_300px.jpg"
+                src="/img/es/eventstory/orihimeandhikoboshi/midoriframe_300px.jpg"
                 alt="Unaccustomed Situation"
             />
         </div>

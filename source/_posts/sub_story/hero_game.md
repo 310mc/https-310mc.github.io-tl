@@ -273,7 +273,7 @@ This takes me back~… I’d play with a couple’a boys back then, but I wonder
 Personally, I never expected I’d do this for a job as a highschooler! ♪
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Uu~… I thought Nagumo-kun would understand how I feel, so I didn’t expect him to get so into it… Now what…
 
 Ughh… Being in the same room as this bunch will just make you go crazy…

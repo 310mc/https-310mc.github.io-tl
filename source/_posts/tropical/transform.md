@@ -604,7 +604,7 @@ H-How about now? That was good, wasn’t it?
 Midori-kun, I’d like to know your thoughts, too! It was tricky on my own, but actin’ out a conversation with Morisawa-senpai made me loosen up a li’l, I think!
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 U-Umm… I do think you’ve gotten better from the first take, but…
 {% endbubble %}
 
@@ -710,7 +710,7 @@ it can only be seen now or never, so i came to call you over~♪
 Something interesting…?
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 I’m sorry, but I’ll have to pass.
 
 I’ve got a lot to do as the leader, and I don’t really have the energ—

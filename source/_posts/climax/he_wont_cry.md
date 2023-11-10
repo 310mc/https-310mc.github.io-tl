@@ -362,7 +362,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(Why’s he crying all alone in the gym in the middle of the night…?)</th>
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 <th>(Ahhh… I feel like I saw something I shouldn’t have… I-I gotta leave before he notices me…)</th>
 
 <th>(I don’t want him pestering me like he usually does…)</th>
@@ -464,7 +464,7 @@ Fuhahaha…!! ☆
 Takamine? Heeey, what’s wrong? You look like you’re feeling down…? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 No, not really… I’m just a little tired, sleepy, and irritated…
 {% endbubble %}
 

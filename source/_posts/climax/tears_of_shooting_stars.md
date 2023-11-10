@@ -590,7 +590,7 @@ The only notable thing about me is my appearance… There’s no way anyone coul
 The only people who wouldn’t eventually leave me are my family…
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 So is it really that strange that I wanna devote myself to my family — to the greengrocer store…?
 
 Ryuseitai may be *like* a family, but you’re not actually my parents or my siblings!
@@ -676,7 +676,7 @@ I could *never* say goodbye with pride like you two!
 “I owe you a lot for this year, please leave the rest to us”? As if I even have the right to say that!
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 I can’t do it! To me, something like Repayment Festival is just—…
 
 There’s no way I could ever repay all that kindness in one day — in one “thank you” as we part ways!

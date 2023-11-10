@@ -121,7 +121,7 @@ Ah— So *that’s* Shinkai-senpai’s official catchphrase?
 
 {% img /img/es/idolstory/legendaryhero/3.jpg %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 If Shinkai-senpai’s version is okay, then can I also skip out on saying that cringey thing Morisawa-senpai came up with…?
 {% endbubble %}
 
@@ -129,7 +129,7 @@ If Shinkai-senpai’s version is okay, then can I also skip out on saying that c
 No, you have to make sure that you say it properly. Introducing oneself is crucial, Takamine. You only feel embarrassed because you keep convincing yourself that it’s embarrassing.
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 I just can’t stand to do something embarrassing in the first place…
 
 Uu~… The green flame is the mark of compassion-something-something-Ryusei Green… Takamine Midori…

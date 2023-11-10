@@ -238,7 +238,7 @@ Um, I apologize from the bottom of my heart! So please don’t hate me, okay…?
 
 {% img /img/es/idolstory/morningpractice/2.jpg %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 …………
 {% endbubble %}
 
@@ -246,7 +246,7 @@ Um, I apologize from the bottom of my heart! So please don’t hate me, okay…?
 *puka, puka…♪*
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 …………
 {% endbubble %}
 
@@ -288,7 +288,7 @@ Huh? U-Um… Okay…?
 would you like to join me, midori? it feels good to soak in the [fountain]~♪
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 I don’t think you should dip yourself in the fountain with your clothes on, y’know…? Like, um… you’ll only get them wet…
 {% endbubble %}
 
@@ -300,7 +300,7 @@ giant isopod…♪ football fish…♪ tripod fish…♪
 it does not feel lonely with all of our [ocean friends], yes…?
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 <th>(This is impossible, I can’t do it, let me go home.)</th>
 
 <th>(He’s starting to play around with some weird toys floating in the fountain, and I don’t even get what he means by “ocean friends”…)</th>
@@ -338,7 +338,7 @@ say it louder\~ hello\~♪
 good job, midori. everyone is happy that you greeted them~…
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 <th>(I knew Shinkai-senpai was strange, but I feel like he just gets more cryptic the more he talks…)</th>
 
 <th>(By “everyone,” does he mean the toys floating in the fountain? Or is it about friends only he can see…?)</th>

@@ -194,7 +194,7 @@ Thankies~! ☆ You’re a lifesaver! Let me praise you! Well done! ♪ <em><th>(
 Wawa— Don't just let go of the thing!
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 <th>(I-It's lively all of a sudden… I feel really awkward whenever it’s like this…)</th>
 {% endbubble %}
 
@@ -470,7 +470,7 @@ You never know what could come up next, so you need to check the bulletin board 
 Ack… Taichou'd always explain everything we need to know, so I didn't think of doin' that… I'm sorry, I'll do better next time.
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Yeah… I thought we could just ask about it once we were here… But, right… Morisawa-senpai's sick, so he’s not here to tell us…
 {% endbubble %}
 
@@ -864,7 +864,7 @@ And if we come up with something, we will go inform them about it.
 If they accept our idea, then we will bow our heads down in respect and ask to be permitted in their practice.
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Ehhh… But I wanna go home…
 
 Well… It *is* annoying to get told off without being able to say anything back…
@@ -1100,7 +1100,7 @@ Ahaha, that just sounds like you’re getting married to him.
 <th>(Isara-senpai’s amazing… There's no way I could do something like that… I wonder what makes him different to me…? Is it our innate qualities…?)</th>
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 <th>(I wish God gave me what he has, instead of “pretty looks”…)</th>
 
 <th>(This sucks… I'm just paper mache… I'm completely hollow inside…)</th>
@@ -1192,7 +1192,7 @@ And still he kept on talking to me like I was just messing around… All I feel 
 Huh—…? S-Sorry, Takamin! Was I putting too much pressure on you?
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Not just me… They didn't say so, but I think Tetora-kun and Sengoku-kun were having a hard time, too… We were just scolded earlier, so it was hard to complain about it…
 
 It was all too much… I’m so depressed, I just wanna die…

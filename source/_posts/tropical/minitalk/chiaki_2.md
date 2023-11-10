@@ -201,7 +201,7 @@ It's time to let aside being cool and fiery, and instead perform in a fun, cheer
             {% bubble Chiaki v2 %}
             Yeah, of course I will! Ah, but I can't go <em>too</em> hard, or I'll become fired up again.
 
-            I'll keep my heart burning as always, while still making sure to be as soft and fluffy as possible for the whole performance~♪
+            I'll keep my heart ablaze as always, while still making sure to be as soft and fluffy as possible for the whole performance~♪
 			{% endbubble %}
         </div>
     </div>

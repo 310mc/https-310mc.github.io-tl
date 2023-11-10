@@ -50,7 +50,7 @@ description: "[ES!] Translation of Midori's second Produce Course from Orihime a
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori1_1.jpg %}
+{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori2_1.jpg %}
 
 {% bubble Midori sigh %}
 *Siiighhh…* I'm already so tired from practicing, why do I have to also be at a festival…
@@ -125,7 +125,7 @@ I'm so tired… I wanna go home…
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori1_2.jpg %}
+{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori2_2.jpg %}
 
 {% bubble Midori curious %}
 Woah— I-I'm so sorry for bumping into you…
@@ -189,10 +189,10 @@ Fweh? You saw a shooting star, so you were making a wish…?
             	{% bubble Midori sigh %}
               Ahhh… Tanabata Festival… *Sigh*…… There's only a little bit left until Tanabata Festival, huh…
               {% endbubble %}
-              {% bubble Midori sad4 %}
+              {% bubble Midori sad3 %}
               Ah no, I do know that…
 
-              It's just that, every time I remember it's soon, I get depressed…
+              It's just that, every time I remember it's soon, I get super depressed…
 				{% endbubble %}
 			</div>
         </div>
@@ -202,10 +202,10 @@ Fweh? You saw a shooting star, so you were making a wish…?
 #### <div mt="rare"></div> 3/3
 
 {% note narration %}
-**Note:** The 3/3 part is on Tanbata Festival day, unlike the 1/3 and 2/3 parts.
+**Note:** The 3/3 part is on the day of Tanabata Festival, unlike the 1/3 and 2/3 parts.
 {% endnote %}
 
-{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori1_3.jpg %}
+{% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori2_3.jpg %}
 
 {% bubble Midori sigh5 %}
 Ughh… Did that guy really get sick…? He's as energetic as ever…
@@ -228,7 +228,7 @@ He even found a super sentai mask and got super excited over it… It's like he'
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori awkward %}
+            	{% bubble Midori %}
               …But Anzu-san, you don't seem to be having fun, are you…?
 
               Ahh… Since you're the one behind this event, you can't really afford to enjoy yourself right now…?

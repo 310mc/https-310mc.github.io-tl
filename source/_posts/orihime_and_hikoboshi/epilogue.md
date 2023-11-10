@@ -111,7 +111,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “and then comes\~ ryusei blue, shinkai kanata…♪”
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 “Ryusei Green, Takamine Midori… Ughh, I'm already tired just from doing the stall…”
 {% endbubble %}
 

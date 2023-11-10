@@ -367,7 +367,7 @@ I can just ask my friends in class to help me study, so please spare me!
 We can’t? We really can’t!?
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Yeah, no, I don’t wanna study with Morisawa-senpai every day, either…
 {% endbubble %}
 

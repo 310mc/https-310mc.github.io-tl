@@ -180,7 +180,7 @@ I’ll amend that… Just take me in their stead…
 I can’t believe they’d announce something like that as <em>soon</em> as I became the leader… The timing is just awful…
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 The “Tropical Island Troppeys” I loved for so long are going on an indefinite hiatus…? The same “Tropical Island Troppeys” that would always brighten my day with their softness…?
 
 Bearbonk, Mr. Slothy, Armajiro, Kiwi, Plateypus…[^2] It’s over for me…
@@ -286,7 +286,7 @@ i will also [support] you. chiaki and shinobu feel the same, too.
 Mhm, mhm! As a ninja, I excel at aiding my master!
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Sorry… I appreciate the offer, but that actually isn’t the problem…
 {% endbubble %}
 
@@ -294,7 +294,7 @@ Sorry… I appreciate the offer, but that actually isn’t the problem…
 …?
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 The truth is… I lost a precious relationship.
 
 It was a one-sided relationship to be exact, and they would always save me… so I’ve been really depressed ever since I found out they’re going on an indefinite hiatus…
@@ -690,7 +690,7 @@ I mean, if I really cared to work hard as a leader for Ryuseitai, I wouldn’t n
 I’m just cowering away in fear, aren’t I…? But I’m just so scared of losing their trust as their leader.
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 Unlike everyone in Ryuseitai, I didn’t get this far ‘cause of a strong passion to be an idol… So being a leader is just beyond me.
 
 I can’t even think of a hero image that defines me, let alone how I’d manage to convey that to them…
@@ -700,7 +700,7 @@ I can’t even think of a hero image that defines me, let alone how I’d manage
 I’ll probably feel better sooner or later, so I should get a little bit of motivation to act as the leader by then.
 {% endbubble %}
 
-{% bubble Midori sad3 %}
+{% bubble Midori sad4 %}
 “You shouldn’t let those feelings bottle up, you should talk to them about it”…?
 
 But I feel like they’ll hate me for it. We’re finally aligning with each other in Ryuseitai, so there’s no way I can just start venting all these negative thoughts—

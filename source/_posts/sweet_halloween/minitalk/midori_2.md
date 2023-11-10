@@ -100,7 +100,7 @@ Ughh, why is this school so freakishly huge…
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori sad3 %}
+            	{% bubble Midori sad4 %}
               <em><th>(Cough, pant)…</th></em> I'm sorry, please let me rest for a moment…
 
               Anzu-san… You're surprisingly quick, like, it's hard to catch you in time…
@@ -204,7 +204,7 @@ I got carried away talking a bit, but… I should go back to everyone else, too�
 I can't tell if the past two weeks felt long, or if they went by in a flash…
 {% endbubble %}
 
-{% bubble Midori sad4 %}
+{% bubble Midori sad3 %}
 No, it definitely *was* long…
 {% endbubble %}
 

@@ -206,7 +206,7 @@ Huh? Morisawa-senpai? What about him?
 {% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori1_3.jpg %}
 
 {% bubble Midori shocked %}
-<th><em>(mutter mutt)</em></th>… <th><em>(mutter mutter mutt)</em></th>… Fweh!?
+<th><em>(mutter mutter)</em></th>… <th><em>(mutter mutter mutter)</em></th>… Fweh!?
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -227,7 +227,7 @@ These mascots are going to be sold at the Tanabata Festival? Please tell me that
 			</ul>
 			<div data-tab="1a-n">
             	{% bubble Midori sigh5 %}
-              <th><em>(mutter, mutt)</em></th>… I didn't have to be told all of that… So annoying… <th><em>(mutter, mutt)</em></th>…
+              <th><em>(mutter, mutter)</em></th>… I didn't have to be told all of that… So annoying… <th><em>(mutter, mutter)</em></th>…
 
               …Ahh, sorry…
 
