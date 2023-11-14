@@ -66,7 +66,10 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 ## Chapter 1
+
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
@@ -83,7 +86,7 @@ Mmm~… What do I do now…? <em>Sigh</em>…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Midori-kun, Midori-kun! You’re sighing way more than usual! That’s the thirtieth time I heard it today.
+Midori-kun, Midori-kun! You’re sighing way more than usual! That’s the thirtieth time I’ve heard it today.
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -441,6 +444,61 @@ So, umm… Basically, I feel like what I’d like to wear is an outfit that show
 
 Will you please accept this request of mine? I’d love an outfit that lets me be in my most natural state…♪
 {% endbubble %}
+
+## Midori Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/making100friendsproject/c2.jpg"
+            alt="Making-100-Friends Project"
+        />
+    </div>
+    <a href="/making_100_friends_project" class="storyName" target="_blank">
+        <span>Making-100-Friends Project</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
+            alt="Party Animal Invasion"
+        />
+    </div>
+    <a href="/party_animal_invasion" class="storyName" target="_blank">
+        <span>Party Animal Invasion</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/stayingtrue/c1.jpg"
+            alt="Staying True To Myself"
+        />
+    </div>
+    <a href="/staying_true_to_myself" class="storyName" target="_blank">
+        <span>Staying True To Myself</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/makewordseven/c1.jpg"
+            alt="Making Our Words Even"
+        />
+    </div>
+    <a href="/making_our_words_even" class="storyName" target="_blank">
+        <span>Making Our Words Even</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

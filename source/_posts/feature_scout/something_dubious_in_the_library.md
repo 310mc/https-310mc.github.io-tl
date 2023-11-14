@@ -291,8 +291,6 @@ I wanted to show it to him since he sounded worried, but oh well. I’ll tell yo
 Thank you. I’ll tell Morisawa-senpai about it later.
 {% endbubble %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
-
 ## Chiaki Feature Scout Stories
 
 <div class="stories">
@@ -333,6 +331,10 @@ Thank you. I’ll tell Morisawa-senpai about it later.
     </a>
 </div>
 </div>
+
+<hr>
+
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 [^1]: Originally, he says ES <em>biru</em> (building) will become ES <em>debiru</em> (devil). Thank you <a href="https://twitter.com/haranami_" target="_blank">haranami</a> for the localization!

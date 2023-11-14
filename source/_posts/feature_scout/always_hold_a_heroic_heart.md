@@ -251,8 +251,6 @@ ufufu. with this, we were able to protect the [peace], right, chiaki?
 Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! ☆
 {% endbubble %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
-
 ## Chiaki Feature Scout Stories
 
 <div class="stories">
@@ -293,6 +291,10 @@ Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! �
     </a>
 </div>
 </div>
+
+<hr>
+
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 [^1]: Chiaki’s name is 千 (thousand) 秋 (autumn).

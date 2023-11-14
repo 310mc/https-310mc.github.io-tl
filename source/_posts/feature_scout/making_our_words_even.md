@@ -62,6 +62,8 @@ This story is connected to the card [Desperately Trying To Compliment] Midori Ta
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
 </div>
@@ -361,5 +363,60 @@ If I ever try changing up my hairstyle, will you share your thoughts with me aga
 {% bubble Midori %}
 Um, no… That um, really *does* sound like a pain…
 {% endbubble %}
+
+## Midori Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/making100friendsproject/c2.jpg"
+            alt="Making-100-Friends Project"
+        />
+    </div>
+    <a href="/making_100_friends_project" class="storyName" target="_blank">
+        <span>Making-100-Friends Project</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
+            alt="Party Animal Invasion"
+        />
+    </div>
+    <a href="/party_animal_invasion" class="storyName" target="_blank">
+        <span>Party Animal Invasion</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/stayingtrue/c1.jpg"
+            alt="Staying True To Myself"
+        />
+    </div>
+    <a href="/staying_true_to_myself" class="storyName" target="_blank">
+        <span>Staying True To Myself</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/makewordseven/c1.jpg"
+            alt="Making Our Words Even"
+        />
+    </div>
+    <a href="/making_our_words_even" class="storyName" target="_blank">
+        <span>Making Our Words Even</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
