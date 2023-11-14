@@ -353,7 +353,7 @@ Waah…! It’s the “Shamisen grip” hand-sign! I can’t believe they’d do
 {% endbubble %}
 
 {% bubble Chiaki nod %}
-Takamine looks so happy today. It’s almost unbelievable he was depressed just a few days ago.
+Takamine looks so happy today. It’s almost unbelievable that he was depressed just a few days ago.
 {% endbubble %}
 
 {% bubble Midori grin %}

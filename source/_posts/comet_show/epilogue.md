@@ -880,7 +880,7 @@ To me, you are all precious treasures that I never, ever once expected to have i
 {% img /img/es/eventstory/cometshow/ep5.jpg %}
 
 {% bubble Midori smile %}
-…I ended up preaching a bit. That's embarrassing… I don’t wanna keep our guests waiting, so let’s get rid of all the unnecessary stuff and start the show.
+…I ended up preaching a bit. That’s embarrassing… I don’t wanna keep our guests waiting, so let’s get rid of all the unnecessary stuff and start the show.
 
 *Ryuseitai’s* show, made just for us.
 {% endbubble %}
@@ -914,7 +914,7 @@ That’s exactly why I want to ask this one favor from you: Until the day comes 
 {% endbubble %}
 
 {% bubble Tetora serious %}
-………
+…………
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -1026,9 +1026,9 @@ Because of that, we just ended up causing a lot of confusion for everyone, and t
 
 But I’m going to put all of that to an end right here, right now.
 
-Until I build Ryuseitai a strong enough foundation to survive any hardship, I’ll be leading the unit as Ryusei Red—just like I did last year.
+Until I build Ryuseitai a strong enough foundation to survive any hardship, I’ll be leading the unit as Ryusei Red — just like I did last year.
 
-We’ll continue our activities within ES, with all five of us—only the five of us—as Ryuseitai.
+We’ll continue our activities within ES, with all five of us — only the five of us — as Ryuseitai.
 {% endbubble %}
 
 {% bubble Tetora serious %}

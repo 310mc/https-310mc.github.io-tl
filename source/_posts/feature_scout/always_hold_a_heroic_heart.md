@@ -63,6 +63,8 @@ This story is connected to the card [What Makes A Hero] Chiaki Morisawa.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -250,6 +252,47 @@ Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! �
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+
+## Chiaki Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/somethinglibrary/c1.jpg"
+            alt="Something Dubious in the Library"
+        />
+    </div>
+    <a href="/something_dubious_in_the_library/" class="storyName" target="_blank">
+        <span>Something Dubious in the Library</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/heroicheart/c1.jpg"
+            alt="Always Hold a Heroic Heart"
+        />
+    </div>
+    <a href="/always_hold_a_heroic_heart/" class="storyName" target="_blank">
+        <span>Always Hold a Heroic Heart</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/daysandhero/c1.jpg"
+            alt="Dream Days and Hero"
+        />
+    </div>
+    <a href="/dream_days_and_hero" class="storyName" target="_blank">
+        <span>Dream Days and Hero</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
 ## Translation Notes
 [^1]: Chiaki’s name is 千 (thousand) 秋 (autumn).

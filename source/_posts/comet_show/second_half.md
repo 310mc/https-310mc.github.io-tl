@@ -197,7 +197,7 @@ And that would corrupt the heroes’ form of justice.
 
 That would’ve been fine to depict if the whole point was to show the despair of justice, or to make the audience empathize with the loser for a tear-jerking death scene…
 
-However, that wasn’t the case, so you can say I botched my acting.
+However, that wasn’t the case, so you can say that I botched my acting.
 
 After all, I’m in a show that’s the same genre as the exciting and action-oriented Vampire Shogun, which also features simplistic moral lessons.
 {% endbubble %}
@@ -229,7 +229,7 @@ But their take on the show ended up sounding more like an attempt to cater to th
 {% endbubble %}
 
 {% bubble Midori serious %}
-Hmm… Fan uproars are pretty scary, huh… We got flamed in the summer ourselves, so I can't say that it has nothing to do with me…
+Hmm… Fan uproars are pretty scary, huh… We got flamed in the summer ourselves, so I can’t say that it has nothing to do with me…
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -241,7 +241,7 @@ The video tapes of it are now being sold at premium prices for its unusual take 
 {% bubble Midori sigh %}
 It sounds more like it just eventually became infamous for being bad, rather than getting re-evaluated for its writing…
 
-But it doesn't really matter if the season became a rare commodity only *after* a decade or two passed…
+But it doesn’t really matter if the season became a rare commodity only *after* a decade or two passed…
 
 I don’t care for stuff that has historical value or public appraisal. I don’t think it’s worth bothering with at all; what’s more important than that is—
 {% endbubble %}
@@ -287,7 +287,7 @@ Yeah, yeah… What? Ahhh~ Okay, I’m sorry about that, but—
 
 <th>(No— That’s exactly why we *have* to make a decision by today.)</th>
 
-<th>(I can’t just avoid thinking about these tiring topics by indulging myself in my comfort zone because I'm too afraid of pain.)</th>
+<th>(I can’t just avoid thinking about these tiring topics by indulging myself in my comfort zone because I’m too afraid of pain.)</th>
 
 <th>(That was exactly the type of people I felt so frustrated with when I was a junior.)</th>
 
@@ -321,7 +321,7 @@ I doubt you’ve done anything illegal in the first place, and we’ve grown str
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+…………
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -337,7 +337,7 @@ I just don’t want my place of belonging — the dream I’ve finally achieved 
 {% endbubble %}
 
 {% bubble Midori v2 %}
-*“Again”*? I dunno what you’re on about, but you really *are* looking down on us, aren’t you…?
+<em>“Again”?</em> I dunno what you’re on about, but you really *are* looking down on us, aren’t you…?
 
 Sure, we once resigned ourselves to just being pathetic, useless first years to you guys…
 
@@ -377,7 +377,7 @@ Huh, is that so… And here I thought you were working yourself to the bone ‘c
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
-………
+…………
 {% endbubble %}
 
 ## Chapter 7
@@ -385,15 +385,15 @@ Huh, is that so… And here I thought you were working yourself to the bone ‘c
 {% img /img/es/eventstory/cometshow/p2ch7.jpg %}
 
 {% bubble Midori smile %}
-Tetora-kun's not the only one… Shinobu-kun became part of the Student Council, and he's basically the advisor and mediator in Ryuseitai-N now, too.
+Tetora-kun’s not the only one… Shinobu-kun became part of the Student Council, and he’s basically the advisor and mediator in Ryuseitai-N now, too.
 
 He’s a master at collecting info and smoothing out issues between people. It feels like his hidden talents finally got a chance to bloom.
 
 His true powers burst forth right when the going got tough. Sounds just like a hero, right?
 
-I can’t speak for the Student Council, but Ryuseitai-N would've tripped over its own feet and disintegrated way earlier if he wasn’t around.
+I can’t speak for the Student Council, but Ryuseitai-N would’ve tripped over its own feet and disintegrated way earlier if he wasn’t around.
 
-And to add the cherry on top, he's even getting a lot of recognition as an individual, too.
+And to add the cherry on top, he’s even getting a lot of recognition as an individual, too.
 
 He’s such a shy kid, but he still managed to establish a place for himself as a one-of-a-kind ninja idol.
 
@@ -469,7 +469,7 @@ Hm? What would that be? Could it be my love or something!?
 {% endbubble %}
 
 {% bubble Midori v2 %}
-You’d push that on me even if I said I didn't want it, wouldn’t you?
+You’d push that on me even if I said I didn’t want it, wouldn’t you?
 {% endbubble %}
 
 {% bubble Kanata hidden %}
@@ -513,13 +513,13 @@ Huh, I see. I think it’s cute, though.
 {% bubble Midori smile %}
 I think so, too. We agree for once, huh, Senpai?
 
-If you just had Shinkai-senpai's voice to go off of, you might forget that he’s actually a pretty big guy who packs a punch.
+If you just had Shinkai-senpai’s voice to go off of, you might forget that he’s actually a pretty big guy who packs a punch.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-A big guy, huh? That’s true, but his most extraordinary trait is his ability to downplay his formidable appearance so that no one's afraid of him.
+A big guy, huh? That’s true, but his most extraordinary trait is his ability to downplay his formidable appearance so that no one’s afraid of him.
 
-I’d say he's like the exact opposite of a kaijuu.
+I’d say he’s like the exact opposite of a kaijuu.
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -571,7 +571,7 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
 {% img /img/es/eventstory/cometshow/midoriorigcg.jpg %}
 
 {% bubble Midori cscg %}
-—It's kinda messy, but… To put it simply, it’s our turn to shine, Senpai.
+—It’s kinda messy, but… To put it simply, it’s our turn to shine, Senpai.
 {% endbubble %}
 
 ## Chapter 8
@@ -811,7 +811,7 @@ You see, that’s where Nagumo decided to be mature and hold back his frustratio
 {% bubble Midori v2 %}
 It’s more like he’s always been that kinda guy.
 
-He’s apparently been raised with an athlete's kind of lifestyle, so I bet it stresses him out a *lot* to disobey his superiors.
+He’s apparently been raised with an athlete’s kind of lifestyle, so I bet it stresses him out a *lot* to disobey his superiors.
 
 Not to mention, he’s been in pretty low spirits during his time working with Ryuseitai-N. It’s not that he’s lost *all* heart—
 
@@ -869,7 +869,7 @@ It’s like a natural disaster — nobody could’ve predicted it. No one’s at
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-That’s true… Tenshouin made ES — a paradise for idols — in order to achieve his dreams. I'm sure he didn’t do it to hurt anyone.
+That’s true… Tenshouin made ES — a paradise for idols — in order to achieve his dreams. I’m sure he didn’t do it to hurt anyone.
 
 But unfortunately, if a humongous object like ES were to move even a small step, there would inevitably be casualties along the way.
 
@@ -960,5 +960,5 @@ Every last one of you are so insistent on making everything harder on yourselves
 ## Translation Notes
 [^1]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
 [^2]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
-[^3]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata's birthday cake</a>.
+[^3]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata’s birthday cake</a>.
 [^4]: A reference to what happens in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

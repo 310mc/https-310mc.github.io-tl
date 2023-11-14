@@ -6,10 +6,11 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]
 - [Enstars, Subaru]
+- [Enstars, Basketball Club]
 tags:
 - Idol Story
 - Suika
-description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Subaru and Kaoru. It's finally Chiaki's turn to appear in the Feature Live. In order to show a charm that fans don't know of, he..."
+description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Subaru and Kaoru. It's finally Chiaki's turn to appear in the Feature Live. In order to show a charm that fans don't know of, he…"
 permalink: dream_days_and_hero/
 ---
 
@@ -53,10 +54,10 @@ This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Proofreading
+                   Season
                 </div>
                 <div class="value">                 
-                    None
+                    Winter
                 </div>
             </div>
         </div>
@@ -65,10 +66,12 @@ This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 ## Chapter 1
 
 {% note narration %}
-**Translator's Note:** The story title "Dream days" is referring to Yumenosaki, as <em>Yume</em>nosaki means "dream".
+**Translator's Note:** The story title "Dream days" is referring to Yumenosaki Academy, as Yumenosaki means "(the school where) dreams bloom".
 {% endnote %}
 
 <div class="msr-season winter">
@@ -240,7 +243,7 @@ Not to mention, since it’s a tokusatsu show, it’s tricky to make a sequel of
 {% bubble Chiaki %}
 Yeah, that’s true. …But it isn’t all that bad when things come to an end. It’s really exciting to hear them mention how the final battle is coming soon, for one thing.
 
-And also, once one tokusatsu show ends, the next show will begin, and that means meeting with the new heroes.
+And also, once one tokusatsu show ends, the next show will begin, and that means meeting the new heroes.
 
 The heart of justice never stops beating, even after the show changes to a new one. The heroes take over that will and continue to fight on a new stage.
 
@@ -348,7 +351,7 @@ Now then, let’s take our time going to the lost child center—
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-—Heeey! Anzu, Akehoshi! Sorry to keep you two waiting! <th>(waves)</th>
+—Heeey! Anzu, Akehoshi! Sorry to keep you two waiting! <th><em>(waves)</em></th>
 {% endbubble %}
 
 {% bubble Subaru shocked %}
@@ -444,7 +447,7 @@ Uwah~ It’s been a while since I’ve seen you be overbearing… How about you 
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-That’s true, since I can’t let myself get injured with the wrong shoes. …Alright, I suppose I’ll just have to give up on matching with you…
+That’s true, since I can’t let myself get injured with the wrong shoes. …Alright, I suppose I’ll just have to give up on matching shoes with you…
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -561,6 +564,47 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
+## Chiaki Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/somethinglibrary/c1.jpg"
+            alt="Something Dubious in the Library"
+        />
+    </div>
+    <a href="/something_dubious_in_the_library/" class="storyName" target="_blank">
+        <span>Something Dubious in the Library</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/heroicheart/c1.jpg"
+            alt="Always Hold a Heroic Heart"
+        />
+    </div>
+    <a href="/always_hold_a_heroic_heart/" class="storyName" target="_blank">
+        <span>Always Hold a Heroic Heart</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/daysandhero/c1.jpg"
+            alt="Dream Days and Hero"
+        />
+    </div>
+    <a href="/dream_days_and_hero" class="storyName" target="_blank">
+        <span>Dream Days and Hero</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 ## Translation Notes
 
-[^1]: As mentioned at the start, the story title refers to the “dream” in <em>yume</em>nosaki.
+[^1]: As mentioned at the start, the story title refers to the “dream” (<em>yume</em>) in <em>yume</em>nosaki.
