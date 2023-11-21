@@ -115,7 +115,7 @@ Ah, personally, I wouldn’t run around, but… I’m glad you get me~♪
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
-Excuse meee\~... Could someone open the door\~?
+Excuse meee\~… Could someone open the door\~?
 {% endbubble %}
 
 {% bubble Midori %}

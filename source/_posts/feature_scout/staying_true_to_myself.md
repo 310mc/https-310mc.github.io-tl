@@ -98,7 +98,7 @@ We don’t mind, we simply would like to know what’s making you sigh so much.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Yup! You don’t have to think about it on your own, we can hear you out! Maybe it’s something we can help you with.
+Yup! You don’t have to think ‘bout it on your own, we can hear you out! Maybe it’s somethin’ we can help you with.
 {% endbubble %}
 
 {% bubble Midori sad %}
@@ -154,11 +154,11 @@ That said, I’m quite curious about these outfits you wouldn’t want to wear. 
 {% bubble Midori worried %}
 Maybe saying it like that is a bit off… It’s more like outfits that’d make me feel odd if I saw myself in them…?
 
-Like outfits that’re too revealing, or fancy suits that’re suffocating to wear…
+Like outfits that’re too revealing, with v-necks open all the way down to the stomach… Or fancy suits that’re suffocating to wear…
 
 Outfits that’d feel nerve-wracking ‘cause they’d be doing the talking over me, I guess… I’d hate to have that sorta thing as my personal outfit…
 
-My fans absolutely love seeing photo shoots where I’m wearing cool clothes, but…
+My fans absolutely love seeing photo shoots where I’m wearing cool clothes and praise me a lot for it, but…
 
 I always feel weird wearing them, like I’m not actually being myself…
 {% endbubble %}
@@ -166,7 +166,7 @@ I always feel weird wearing them, like I’m not actually being myself…
 {% bubble Tetora v2 %}
 Hmm, I don’t have much experience with the type of jobs you get, so I can’t say that I completely understand, buuut…
 
-What if you think about it the other way around? Like, what kinda outfits *would* you want? If it’s something you’d want, then you’d probably like wearing it, too.
+What if you think ‘bout it the other way around? Like, what kinda outfits *would* you want? If it’s somethin’ you’d want, then you’d probably like wearing it, too.
 {% endbubble %}
 
 {% bubble Midori smile %}

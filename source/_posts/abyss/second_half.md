@@ -1099,7 +1099,7 @@ By creating an “enemy” — in this case, ABYSS — all the worshipers who we
 
 Hmph, I feel like I’ve heard of this story before…
 
-I’m sure that even if there wasn’t a kidnapping scare, the plot would’ve still come to a close with a “and all the worshippers joined forces to defeat ABYSS~”...
+I’m sure that even if there wasn’t a kidnapping scare, the plot would’ve still come to a close with a “and all the worshippers joined forces to defeat ABYSS~”…
 
 Even the devil himself, the enemy of mankind, is a creation of God. When you think of it that way, the story sounds extremely and pointlessly religious.
 
@@ -1273,7 +1273,7 @@ I knew you’d be nearby somewhere. You’ve always been the type to make others
 {% endbubble %}
 
 {% bubble Kanata serious %}
-doing so is an old [custom]... but, that aside, is there [something] you needed from me?
+doing so is an old [custom]… but, that aside, is there [something] you needed from me?
 {% endbubble %}
 
 {% bubble Kaoru awkward %}

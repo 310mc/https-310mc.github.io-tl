@@ -438,7 +438,7 @@ I'd like you to answer this for me, please. …What are "idols" to you all?
 {% bubble Tetora %}
 Aight then! I’m crappy at talking, so I’ll show ya instead!
 
-We’re— No, *I’m* still inexperienced enough to trip over myself all the time, but I want you to trust and follow after me! I’ll make sure you won’t regret it!
+We’re— No, *I’m* still inexperienced enough to trip over myself all the time, but I want you to trust and follow after me! I’ll make sure that you won’t regret it!
 
 I’m gonna guide ya so well, no car crash’ll be happening anywhere near us~♪
 {% endbubble %}

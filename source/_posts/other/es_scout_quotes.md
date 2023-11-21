@@ -16,7 +16,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 俺たちは、流れ星。願いを叶えるために戦おう！
 
-**Kanata:** i’m singing “above ground”... and i foreeever will be.
+**Kanata:** i am singing [above ground]… and i aaaalways will be.
 
 ぼくは『ちじょう』で、うたってます…。ずうっと
 
@@ -28,7 +28,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 
 『好き』を共有したいから、拙者は忍んでいられない！
 
-**Tetora:** I’m gonna be *the* man among men!
+**Tetora:** I’m gonna become *the* man among men!
 
 俺は、男のなかの男になってやるッス！
 
@@ -50,7 +50,7 @@ Translation of the quotes that appear when you scout a 5* of the character in th
 アイドルなら、歌なら、一瞬で世界中に届くんだぜ！
 
 
-**Kuro:** Honestly, I was only going with things at first, but now I wanna try this idol stuff seriously, too.
+**Kuro:** Honestly, I was only goin' along with things at first, but now I wanna try this idol stuff seriously, too.
 
 正直成り行きだったが、俺も本気でアイドリをやりてぇんだ。
 

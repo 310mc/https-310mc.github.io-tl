@@ -71,9 +71,9 @@ I’ve been doing great! *Swish!☆ <th>(salutes)</th>*
 {% endbubble %}
 
 {% bubble Midori %}
-Huh? Um, well... I haven’t been doing badly, I guess...?
+Huh? Um, well… I haven’t been doing badly, I guess…?
 
-Anyway, why did you salute me...? Were you ever the type to do that...?
+Anyway, why did you salute me…? Were you ever the type to do that…?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -87,11 +87,11 @@ Some people might not like feeling as though they’re being buttered up, buuut 
 {% endbubble %}
 
 {% bubble Midori %}
-Huh... You didn’t look any different from your usual self, but you’ve actually been struggling with a bunch of things, huh...?
+Huh… You didn’t look any different from your usual self, but you’ve actually been struggling with a bunch of things, huh…?
 
-I thought CosPro was an enemy to Yumenosaki idols... Um, you’re not being bullied or anything, are you...?
+I thought CosPro was an enemy to Yumenosaki idols… Um, you’re not being bullied or anything, are you…?
 
-Umm, if you’re alright with talking to me, I could lend an ear if you need to vent...?
+Umm, if you’re alright with talking to me, I could lend an ear if you need to vent…?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -107,7 +107,7 @@ I don’t regret being in CosPro — I’m actually pretty glad about it~♪
 {% endbubble %}
 
 {% bubble Midori %}
-Huh... I would’ve totally regretted joining CosPro... I would’ve kept whining about how depressing it is, day in and out...
+Huh… I would’ve totally regretted joining CosPro… I would’ve kept whining about how depressing it is, day in and out…
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -115,9 +115,9 @@ Ahaha, you have a habit of saying that, so I doubt joining CosPro would change a
 {% endbubble %}
 
 {% bubble Midori %}
-True... It *is* pretty much becoming a thing I say all the time.
+True… It *is* pretty much becoming a thing I say all the time.
 
-I don’t even actually wanna die or anything, nor am I *that* depressed... But every time I’m feeling even a little tired or drained, I’ll start saying that I’m depressed and wanna die...
+I don’t even actually wanna die or anything, nor am I *that* depressed… But every time I’m feeling even a little tired or drained, I’ll start saying that I’m depressed and wanna die…
 
 I’m a hero though, so I gotta avoid saying depressing stuff like that.
 {% endbubble %}
@@ -129,9 +129,9 @@ You were always sooo against being called that when we were first years~ You rea
 {% endbubble %}
 
 {% bubble Midori %}
-Woah—! Don’t hug me out of nowhere, Hinata-kun...
+Woah—! Don’t hug me out of nowhere, Hinata-kun…
 
-Though I guess it’s alright since I’m not carrying any veggie boxes today, so I won’t have to worry about anything spilling out...
+Though I guess it’s alright since I’m not carrying any veggie boxes today, so I won’t have to worry about anything spilling out…
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -139,7 +139,7 @@ Sorry, sorry. Oh wait, would that mean that you bring veggies from your home to 
 {% endbubble %}
 
 {% bubble Midori %}
-Yep... We deliver to ES as well. I’m glad they buy so much from us, but it’s kind of a pain to carry...
+Yep… We deliver to ES as well. I’m glad they buy so much from us, but it’s kind of a pain to carry…
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -147,7 +147,7 @@ Then that means the vegetables at the salad bar were from you! They’re all so 
 {% endbubble %}
 
 {% bubble Midori %}
-Thank you... I’ll tell my parents you said that.
+Thank you… I’ll tell my parents you said that.
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -161,11 +161,11 @@ Okay. I think they’ll give you a discount ‘cause they’ll consider you a fr
 {% bubble Hinata %}
 Ah, I appreciate that~! I do have a small patch of veggies in the school’s garden area, but y’know, you gotta actually buy seeds to plant different kinds.
 
-Anyways... I’m guessing you’re here to eat lunch? How about we eat together while we’ve got the chance?
+Anyways… I’m guessing you’re here to eat lunch? How about we eat together while we’ve got the chance?
 {% endbubble %}
 
 {% bubble Midori %}
-Ah, sure, why not...
+Ah, sure, why not…
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -177,7 +177,7 @@ I was even thinking up ways to convince you after you’d reject me, so I just g
 {% endbubble %}
 
 {% bubble Midori %}
-I would’ve refused the offer if it was from someone I didn’t know well, but I know you, so...
+I would’ve refused the offer if it was from someone I didn’t know well, but I know you, so…
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -185,7 +185,7 @@ I see, I see! I’m so happy~ You also think of me as a friend~♪
 {% endbubble %}
 
 {% bubble Midori %}
-Um, no, you’re just someone I know...
+Um, no, you’re just someone I know…
 {% endbubble %}
 
 {% bubble Hinata %}
