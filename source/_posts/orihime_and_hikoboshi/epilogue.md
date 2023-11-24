@@ -434,7 +434,7 @@ I’m so jealous of you, Takamin. Everything I wanted in the past… You have it
 {% endbubble %}
 
 {% bubble Midori curious %}
-…………
+……………
 {% endbubble %}
 
 {% bubble Subaru %}

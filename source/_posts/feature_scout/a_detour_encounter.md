@@ -6,6 +6,7 @@ categories:
 - [Enstars, Jun]
 - [Enstars, Midori]
 - [Enstars, ES!!]
+- [Enstars, Manga Club]
 tags:
 - Idol Story
 - Yuumasu

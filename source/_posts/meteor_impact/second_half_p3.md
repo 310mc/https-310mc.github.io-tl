@@ -234,7 +234,9 @@ Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my b
 
 <th>(That’s why I don’t want you to lose, no matter what. No—If you don’t win this time, then I really won’t forgive you.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch27_3.jpg %}
+
 {% bubble Subaru pasthappy %}
 Bucho~! You asked me to cheer you on, right? Then I will! I’ll always do whatever I’m needed for!
 
