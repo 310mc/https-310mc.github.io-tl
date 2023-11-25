@@ -164,7 +164,7 @@ Reward…?
 {% endbubble %}
 
 {% bubble Ibara %}
-Yes. If you decide to participate in the workshop, I’ll give you this meal voucher that can be used in any restaurant across the country.
+Yes. If you participate in the workshop, I’ll give you this meal voucher that can be used in any restaurant across the country.
 {% endbubble %}
 
 {% bubble Niki nod %}
@@ -235,7 +235,7 @@ You’re so mean, Morisawa-kun~!
 I thought your skills were on my level, but all along, you were actually super duper good!?
 {% endbubble %}
 
-{% bubble Chiaki worried %}
+{% bubble Chiaki awkward %}
 I’m sorry. I thought you also had decided to join the workshop in hopes of improving your skills even further…
 {% endbubble %}
 

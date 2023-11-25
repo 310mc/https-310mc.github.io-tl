@@ -592,6 +592,18 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/aherotoo/c1.jpg"
+            alt="You're A Hero, Too!"
+        />
+    </div>
+    <a href="/youre_a_hero_too/" class="storyName" target="_blank">
+        <span>You're A Hero, Too!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"
         />
