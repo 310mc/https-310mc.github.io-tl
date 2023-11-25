@@ -2050,10 +2050,59 @@
 /**
 ***/
 
+/** Niki Expressions
+***/
+[character="Niki"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_awkward.png");
+}
+[character="Niki"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_curious.png");
+}
+[character="Niki"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_frown.png");
+}
+[character="Niki"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_grin.png");
+}
+[character="Niki"][idle] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_serious.png");
+}
+[character="Niki"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_nod.png");
+}
+[character="Niki"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_northinking.png");
+}
+[character="Niki"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_serious.png");
+}
+[character="Niki"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_sigh2.png");
+}
+[character="Niki"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/niki_worried.png");
+}
+/**
+***/
+
 /** Yuta Expressions
 ***/
 [character="Yuta"][hair] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuta_hair.png");
+}
+/**
+***/
+
+/** Ibara Expressions
+***/
+[character="Ibara"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibara_serious.png");
+}
+[character="Ibara"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibara_smilesoft.png");
+}
+[character="Ibara"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibara_yare.png");
 }
 /**
 ***/
