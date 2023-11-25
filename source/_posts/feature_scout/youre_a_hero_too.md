@@ -8,7 +8,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hiiro. Chiaki has thought up the ultimate outfit design. However, the design elements are difficult to reproduce as an idol outfit…"
+description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hiiro. Chiaki has come up with the ultimate outfit design. However, the design elements are difficult to reproduce as an idol outfit…"
 permalink: youre_a_hero_too/
 hidden: true
 ---
@@ -16,7 +16,7 @@ hidden: true
 ![](/img/es/idolstory/aherotoo/c1.jpg)|![](/img/es/idolstory/aherotoo/c2.jpg)
 :-:|:-:
 
-Chiaki has thought up the ultimate outfit design. However, the design elements are difficult to reproduce as an idol outfit. In order to think over once more what a hero is, he heads over to the amusement park.<!--最高の一着を考えてきた千秋。しかし、アイドルの衣装としては難しいものばかり。改めてヒーローについて考えるため、遊園地へ行くことに。-->
+Chiaki has come up with the ultimate outfit design. However, the design elements are difficult to reproduce as an idol outfit. In order to think over once more what a hero is, he heads over to the amusement park.<!--最高の一着を考えてきた千秋。しかし、アイドルの衣装としては難しいものばかり。改めてヒーローについて考えるため、遊園地へ行くことに。-->
 
 This story is connected to the card [Ray of Hope] Chiaki Morisawa.
 

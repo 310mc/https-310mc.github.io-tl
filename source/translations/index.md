@@ -879,6 +879,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/justicemealvoucher/c2.jpg"
+            alt="Meal Voucher of Justice"
+        />
+    </div>
+    <a href="/meal_voucher_of_justice" class="storyName" target="_blank">
+        <span>Meal Voucher of Justice</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories

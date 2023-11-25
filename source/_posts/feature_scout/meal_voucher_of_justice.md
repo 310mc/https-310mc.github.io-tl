@@ -65,8 +65,6 @@ This story is connected to the card [The Seasoning is One's Own Style] Niki Shii
 
 <!-- more -->
 
-## Chapter 1
-
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
 </div>
@@ -166,11 +164,11 @@ Reward…?
 {% endbubble %}
 
 {% bubble Ibara %}
-Yes. If you participate in the workshop, I’ll provide you with a meal voucher that can be used in any restaurant across the country.
+Yes. If you decide to participate in the workshop, I’ll give you this meal voucher that can be used in any restaurant across the country.
 {% endbubble %}
 
 {% bubble Niki nod %}
-A-A meal voucher…!? I want it! Gimme!
+M-Meal voucher…!? I want it! Gimme!
 {% endbubble %}
 
 {% bubble Ibara %}
@@ -198,7 +196,7 @@ Meal voucher\~♪ Free food\~♪ Hmhmhm…♪ *<th>(Humming)</th>*
 {% endbubble %}
 
 {% bubble Chiaki %}
-Mm? I didn’t know you’d join us as well, Shiina.
+Mm? I didn’t know you’d join as well, Shiina.
 {% endbubble %}
 
 {% bubble Niki %}
@@ -218,7 +216,7 @@ But since Morisawa-kun’s here, I feel relieved! It’s much more reassuring wi
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Yeah! Let’s help each other, and work hard to improve ourselves…☆
+Yeah! Let’s motivate each other, and work hard to improve ourselves…☆
 {% endbubble %}
 
 {% bubble Niki %}
