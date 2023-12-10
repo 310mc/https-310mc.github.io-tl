@@ -78,13 +78,13 @@ This story is connected to the card [One Step With A Challenge] Midori Takamine.
 {% bubble Midori %}
 Erm, so do I just cut it off from here?
 
-Guh— It needs more force. What now… It’s kinda scary, but I won’t be able to cut it at all unless I put my strength into it. Alright, here goes…
+Guh— It needs more force. What now…? It’s kinda scary, but I won’t be able to cut it at all unless I put my strength into it. Alright, here goes…
 
 Push the saw down, and pull it back as hard as possible… Woah!?
 
-Whew, it cut through… But I got surprised by the cut-off part falling to the ground.
+Whew, I managed to cut it… But I got surprised by the cut-off part falling to the ground.
 
-Huh? The edge of the cut is slanted!? *Sigh,* this is so depressing…
+Huh? The cut is slanted!? *Sigh,* this is so depressing…
 {% endbubble %}
 
 {% bubble Tori %}
@@ -128,7 +128,7 @@ Huh, I see… Why were you doing something so bothersome again, Takamine?
 {% endbubble %}
 
 {% bubble Midori %}
-You see, Shiratori-kun and Saegusa-senpai fixed my favorite stool a while ago.[^1]
+You see, Shiratori-kun and Saegusa-senpai fixed my favorite footstool a while ago.[^1]
 
 It was super worn-out, yet the two of them managed to fix it back into its cute shape as an apology for breaking it.
 
@@ -138,11 +138,11 @@ It was really inspiring to see.
 {% bubble Yuzuru %}
 *Ibara,* doing something out of good will…? No, that’s simply impossible.
 
-Takamine-sama, I believe it would be best that you don’t use that stool. We’re talking about <em>that</em> man; who knows what sort of trap he planted on it.
+Takamine-sama, I believe it would be best that you don’t use that footstool. We’re talking about <em>that</em> man; who knows what sort of trap he planted on it.
 {% endbubble %}
 
 {% bubble Midori %}
-Ehh…!? Huh, but there wasn’t anything weird at all on the stool…?
+Ehh…!? Huh, but there wasn’t anything weird at all on the footstool…?
 {% endbubble %}
 
 {% bubble Tori %}
@@ -152,11 +152,11 @@ Besides, what would Saegusa-senpai gain out of doing that to Takamine? You’re 
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Personally, I believe there’s no harm in being over-cautious with his actions, but…
+Rather, I personally believe there is no harm in being over-cautious with his actions, but…
 
 No, if that is what Young Master says, then I will consider it as me simply overthinking it.
 
-However, Takamine-sama — I suggest you check if there are any wiretaps installed in the stool, just in case.
+However, Takamine-sama — I suggest that you check if there are any wiretaps installed on the footstool, just in case.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -184,7 +184,7 @@ I’m nothing but a useless huge body that can’t even properly cut wood…
 {% endbubble %}
 
 {% bubble Tori %}
-Hold on, that’s <em>not</em> what I said!* *No need to take offense like that…
+Hold on, that’s <em>not</em> what I said! No need to take offense like that…
 {% endbubble %}
 
 {% bubble Midori %}
@@ -206,7 +206,7 @@ Mascot…? Um, where’s its face!?
 {% bubble Midori %}
 The coating peeled off… I’m also shocked that I can’t see its cute face anymore…
 
-The table’s legs are falling apart too, so it can barely stand properly… I kept going back and forth about whether I should throw it away…
+The desk’s legs are falling apart too, so it can barely stand properly… I kept going back and forth about whether I should throw it away…
 
 But I’m pretty attached to it, so I couldn’t get myself to let go of it… That’s why I wanted to try fixing it, but life’s not that easy, huh…
 {% endbubble %}
@@ -218,7 +218,7 @@ Huh, but I could’ve sworn I heard you were pretty dexterous with your hands…
 {% bubble Midori %}
 No way, I’m not dexterous at all… I just like doing little chores and stuff.
 
-I’d be up for sanding the edges of the wood, but using a saw to cut the wood is kinda scary…
+I’d be glad to sand the edges of the wood, but using a saw to cut the wood is kinda scary…
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -240,7 +240,7 @@ Thank you! That’s a huge lifesaver!
 {% endbubble %}
 
 {% bubble Tori %}
-Since you’re gonna help with repairing it, how about you also re-draw the mascot on the tabletop?
+Since you’re gonna help with repairing it, how about you also re-draw the mascot on the tabletop for him, Yuzuru?
 
 It’s kinda bothering me how it’s faceless.
 {% endbubble %}
@@ -270,7 +270,7 @@ I would feel bad to paint over its face with my art…
 {% endbubble %}
 
 {% bubble Midori %}
-Ahh, no. That image I have in my head is you filling the empty space around the mascot character with your art, Master Artist.
+Ahh, no. I was imagining it as you filling the empty space around the mascot character with your art, Master Artist.
 {% endbubble %}
 
 {% bubble Tori %}
@@ -286,7 +286,7 @@ I’m the one who wants to see this fixed, so I shouldn’t leave it all to Mast
 {% bubble Yuzuru %}
 I see, that’s what you meant. Very well, I won’t need to hold back anything.
 
-Right then, let’s start repairing, shall we? I’ll start by fixing the table’s legs.
+Right then, let’s start repairing, shall we? I’ll start by fixing the desk’s legs.
 {% endbubble %}
 
 {% bubble Tori %}
@@ -301,4 +301,4 @@ Thank you, you two. I’m also gonna work hard to bring back this mascot’s ado
 
 ## Translation Notes
 
-[^1]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Private_Room" target="_blank">Private Room</a>.
+[^1]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Private_Room" target="_blank">Private Room</a>. You can see the mentioned footstool in Ibara's CG.

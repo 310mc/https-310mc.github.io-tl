@@ -18,7 +18,7 @@ permalink: meal_voucher_of_justice/
 
 Niki will receive a meal voucher if he joins a dance workshop. He finds out Chiaki is in the workshop too, and…
 
-This story is connected to the card [The Seasoning is One's Own Style] Niki Shiina.
+This story is connected to the card [A Personal Way of Seasoning] Niki Shiina.
 
 <p style="color:blue;font-size:110%;"><b>Story Release Date:</b> November 25, 2023</p>
 
