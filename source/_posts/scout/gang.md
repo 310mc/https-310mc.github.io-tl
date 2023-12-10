@@ -664,7 +664,7 @@ Is that why you’re so angry at me?
 {% endbubble %}
 
 {% bubble Chiaki mgnserious %}
-What I’m angry about, is that you aren't taking care of yourself.
+What I’m angry about is that you aren't taking care of yourself.
 
 This issue was settled before things got worse, but… We’re idols. It doesn’t matter if what you did wasn't violent; if you let even a single rumor like that spread, then your future’s done for.
 

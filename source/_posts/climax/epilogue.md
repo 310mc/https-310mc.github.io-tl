@@ -870,7 +870,7 @@ Even if I did say it with words, you wouldn’t listen anyway…… So please wa
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line!
+Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line![^2]
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/midoribcg.jpg %}
@@ -880,7 +880,7 @@ Shut it.
 
 The green flame is the mark of compassion—
 
-The great nature that grows infinitely! Ryusei Green, Takamine Midori…!
+The great nature, growing infinitely! Ryusei Green, Takamine Midori…!
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
@@ -933,3 +933,4 @@ With the five of us together! We are *Ryuseitai…!*
 
 ## Translation Notes
 [^1]: He says <em>boku</em> here for “I” instead of <em>sessha</em> (the typical way Shinobu talks as a ninja), and doesn't end his line with <em>de gozaru</em>. The same goes for the lines before and after this one.
+[^2]: Originally, this is said with censor stars (Ku*ga), as that's how Enstars typically references copyrighted titles.

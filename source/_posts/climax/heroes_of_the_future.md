@@ -519,7 +519,7 @@ Sorry. You never react much, so I always end up thinking you couldn’t hear me 
 
 If you don't like my face being this close, then reply back. At least go “yeah” or “mhm” back.
 
-Don’t ignore me, it makes me sad.
+Don’t ignore me, it feels lonely.
 
 Don't worry, I won't say anything that'd hurt you. Though I suppose you're thinking that’s just a load of garbage, especially after all the stress that I've put you through.
 {% endbubble %}

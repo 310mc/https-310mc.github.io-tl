@@ -1103,7 +1103,7 @@ I’m sure that even if there wasn’t a kidnapping scare, the plot would’ve s
 
 Even the devil himself, the enemy of mankind, is a creation of God. When you think of it that way, the story sounds extremely and pointlessly religious.
 
-At any rate, the “big baddie” of the Shinkai-san religion is ABYSS, as in “the deep sea”[^11] — They were exposing themselves all on their own with that name.
+At any rate, the “big baddie” of the Shinkai religion is ABYSS, as in “the deep sea”[^11] — They were exposing themselves all on their own with that name.
 
 Everything’s so carelessly put together… and yet, as expected of worshipers, they were deceived by it all the same.
 
@@ -1277,9 +1277,9 @@ doing so is an old [custom]… but, that aside, is there [something] you needed 
 {% endbubble %}
 
 {% bubble Kaoru awkward %}
-Nah, it’s not a big deal or anything… See, Souma-kun’s doing a huge cleanup of the clubroom, so we should go help him out, as alumni of the Marine Life Club.
+Nah, it’s not a big deal or anything… See, Souma-kun’s doing a huge cleanup of the club room, so we should go help him out, as alumni of the Marine Life Club.
 
-The clubroom’s a mess — mostly ‘cause of all the water tanks you left behind. So you should at least tidy up that part, right?
+The club room’s a mess — mostly ‘cause of all the water tanks you left behind. So you should at least tidy up that part, right?
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
@@ -1425,7 +1425,7 @@ Ohh? You feel jealous of me, too? That kinda makes me happy.
 {% bubble Souma %}
 What are you discussing? Regardless, look! The sky is crying!
 
-In other words, it is raining! I believe it would be best if everyone were to take shelter from the rain in the clubroom, before all of you become drenched wet.
+In other words, it is raining! I believe it would be best if everyone were to take shelter from the rain in the club room, before all of you become drenched wet.
 {% endbubble %}
 
 {% bubble Kanata serious %}
@@ -1435,7 +1435,7 @@ i am already [drenched wet], though~?
 {% bubble Souma yare %}
 You truly are… You will only catch a cold again, Shinkai-dono. It worries me. You need to wipe your body and warm yourself up.
 
-That is another reason why taking shelter is necessary. I would be grateful if you could help clean the clubroom as well, while we’re there.
+That is another reason why taking shelter is necessary. I would be grateful if you could help clean the club room as well, while we’re there.
 {% endbubble %}
 
 {% bubble Madara %}

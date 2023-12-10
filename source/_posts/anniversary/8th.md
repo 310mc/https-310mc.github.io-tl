@@ -81,11 +81,11 @@ Ossu! Thanks for guiding us with the rehearsal, Anzu-anego!
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-We're surely going to have a wonderful performance that will make all our fans happy. I noticed how particular you were with each performance piece!
+We're surely going to have a wonderful performance that will make all our fans happy. I could tell how particular you were with each performance piece!
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-I am very excited to go around the venue on a gondola! Watching the audience from above is going to be a fresh feeling.
+I am very excited to go around the venue on a gondola! Watching the audience from above will feel new.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

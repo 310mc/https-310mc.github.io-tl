@@ -206,7 +206,7 @@ I had no idea someone I knew was here, so I’m happy to see ya.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Me too. I was under the impression that mostly new idols would be participating in this workshop.
+Me too. I was under the impression that mostly newcomer idols would be participating in this workshop.
 {% endbubble %}
 
 {% bubble Niki %}
@@ -246,7 +246,7 @@ Oh yeah, didn’t you learn the choreography for √AtoZ real quickly, and then 
 {% bubble Niki sigh2 %}
 If I had kept that in mind, I wouldn’t have gotten the wrong impression of you… but I completely forgot about that ‘til now!
 
-Uuu, it’s all my fault, but I still feel like I got left behind by my teammate in a marathon, who promised we’d reach the goal together…
+Uuu, it’s all my fault, but I still feel like I got left behind by my teammate in a marathon, who said we’d reach the goal together…
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -296,7 +296,7 @@ Besides, I <em>did</em> get rewarded for this. I got to support you in your grow
 {% endbubble %}
 
 {% bubble Niki northinking %}
-Justice, huh~… Aight then, I’ll also follow along with my own form of justice.
+Justice, huh~… Aight then, I’ll also follow my own form of justice.
 {% endbubble %}
 
 {% bubble Chiaki curious %}

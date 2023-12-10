@@ -1202,7 +1202,7 @@ Get *away* from that girl right this instant! Don’t you dare touch her with yo
 {% endbubble %}
 
 {% bubble Arashi sigh %}
-<th>(I’m relieved that I didn’t need to get into a fistfight with them, too… I wouldn’t have been able to, anyway — committing violence is fatal to an idol’s career.)</th>
+<th>(I’m relieved that I didn’t need to get into a fistfight with them, too… I wouldn’t have been able to, anyway — committing violence is a fatal blow to an idol’s career.)</th>
 
 <th>(I’d *much* rather settle things through vicious threats. That’s why animals usually growl at each other, after all.)</th>
 

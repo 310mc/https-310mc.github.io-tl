@@ -110,7 +110,7 @@ Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never 
 
 <th>(Sagami-sensei told me in secret that they may disband it at this point.)</th>
 
-<th>(But I can’t let that happen! I won’t let Ryuseitai end like this—Not when it has such a long and proud history!)</th>
+<th>(But I can’t let that happen! I won’t let Ryuseitai end like this — Not when it has such a long and proud history!)</th>
 
 <th>(There are still some members who never take part in any of these bad deeds, and properly work hard — like our leader, Taichou!)</th>
 
@@ -514,7 +514,7 @@ i have to Repay you somehow, since you have given me a Tribute.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Tribute? No no, no need for anything! It’s been awhile since I—no, I think this is the very first time I’ve properly helped someone, so I’m more than happy!
+Tribute? No no, no need for anything! It’s been awhile since I— No, I think this is the very first time I’ve properly helped someone, so I’m more than happy!
 
 Your smile is my reward! Heheh, that sounded a little bit like a hero~♪
 {% endbubble %}
@@ -775,7 +775,7 @@ Please excuse me!
 
 <th>(He was once part of Ryuseitai, so I thought he could help me out…)</th>
 
-<th>(He was also once the Super Idol, and he’s a teacher, too—He has the power to change things, unlike me, just another nobody.)</th>
+<th>(He was also once the Super Idol, and he’s a teacher, too — He has the power to change things, unlike me, just another nobody.)</th>
 
 <th>(He’s the only person I can count on. I hate that I’m trying to rely on others for my own benefit, though… but…)</th>
 
@@ -835,7 +835,7 @@ Glasses-boy. I ain’t showin’ up in class today, so tell the homeroom teach. 
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Ah—Yes! Understood!
+Ah— Yes! Understood!
 
 But, umm… You’re Kiryu-kun, right… You should come to class, y’know?
 {% endbubble %}
@@ -849,7 +849,7 @@ Are ya just as goodie-two-shoes as ya look?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Ah—Um, no, it’s just… I’m sorry! That was presumptuous of me!
+Ah— Um, no, it’s just… I’m sorry! That was presumptuous of me!
 
 I’m sorry if I bothered you! I seem to have a problem with saying the first thing that comes to mind…!
 {% endbubble %}
@@ -887,7 +887,7 @@ Uuu? Um, but, uh… Errmm, what did I wanna…
 
 Ah, yes! I wanted to treat your wounds! I often hurt myself by accident, so I know how to do first aid!
 
-Look—It’s only going to swell up if you don’t do anything about it! And the bed will get bloody, too! You shouldn’t bleed on it, y’know — Who do you think cleans them?
+Look— It’s only going to swell up if you don’t do anything about it! And the bed will get bloody, too! You shouldn’t bleed on it, y’know — Who do you think cleans them?
 {% endbubble %}
 
 {% bubble Kuro pastinjuredangry %}
@@ -928,7 +928,7 @@ O-Offer? What offer? I’m sorry, I don’t properly understand what you’re sa
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-Already forgettin’ what ya jus’ said? You’re givin’ me first aid, aren’t ya? Here—I’m leavin’ it to you, so do whatever ya want to.
+Already forgettin’ what ya jus’ said? You’re givin’ me first aid, aren’t ya? Here — I’m leavin’ it to you, so do whatever ya want to.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1050,7 +1050,7 @@ I’m goin’ back to sleep now, so go to class already… Honor student.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-No, hold on—I haven’t finished the treatment. I’m not one to give up halfway when doing something, so please let me finish up.
+No, hold on— I haven’t finished the treatment. I’m not one to give up halfway when doing something, so please let me finish up.
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -1132,13 +1132,13 @@ If I let that happen again… I’ll really have had no reason to ever been born
 
 <th>(Actually, I’d be reluctant to impose on him when he’s exhausted and retired, but…. There’s no one else I can rely on.)</th>
 
-<th>(Ahh… I’m so depressed, I just keep sighing. This is bad. I need to pull myself together. There’s no use worrying about it—I need to act first.)</th>
+<th>(Ahh… I’m so depressed, I just keep sighing. This is bad. I need to pull myself together. There’s no use worrying about it — I need to act first.)</th>
 
 <th>(I can only do what I can, one step at a time.)</th>
 
-<th>(It might be useless—someone like me, struggling to make something happen—but it will all add up… It *has* to be better than giving up and doing nothing.)</th>
+<th>(It might be useless — someone like me, struggling to make something happen — but it will all add up… It *has* to be better than giving up and doing nothing.)</th>
 
-<th>(That’s what I believe. That’s what I want to believe—that even I can make a change.)</th>
+<th>(That’s what I believe. That’s what I want to believe — that even I can make a change.)</th>
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -1234,7 +1234,7 @@ Well, knowing the teachers at our school, I suspect they won’t even properly e
 
 I don’t want to pretend I established it properly, only for them look into the fact that I didn’t get enough signatures to officially do so… That’s why I thought I would go through the proper procedures.
 
-I want to prove that we have obtained the approval of the students—that the students want us, the Student Council.
+I want to prove that we have obtained the approval of the students — That the students want us, the Student Council.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1242,7 +1242,7 @@ Heheh. I see that you’re a serious guy, Hasumi-kun. I don’t dislike it.
 {% endbubble %}
 
 {% bubble Keito v2 %}
-That is my strength. In any case, the Student Council is an organization that supports students—just as the name suggests. It should be helpful without getting in the way.
+That is my strength. In any case, the Student Council is an organization that supports students — Just as the name suggests. It should be helpful without getting in the way.
 
 So if you could, I’d like you to sign this, saying… “I support establishing a Student Council.”
 
@@ -1328,7 +1328,7 @@ H-Huh? W-what is this!? What just—…!?
 
 <th>(The pool is completely spotless! Like magic! Huh? How? It was filthy when I left it last night… Like it was a garbage dump!)</th>
 
-<th>(Did the janitors come over and finish the job within the day? Wait, but—Why now, all of a sudden? The academy staff had left it to rot this whole time, so…?)</th>
+<th>(Did the janitors come over and finish the job within the day? Wait, but — Why now, all of a sudden? The academy staff had left it to rot this whole time, so…?)</th>
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -1338,7 +1338,7 @@ ah, chiaki! good afternoon~♪ the weather is Good today, the perfect weather to
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Woah, you scared me—!! Shinkai-kun!? W-What are you doing!? Stop—you can’t go inside the pool with your clothes still on!
+Woah, you scared me—!! Shinkai-kun!? W-What are you doing!? Stop— You can’t go inside the pool with your clothes still on!
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -1460,7 +1460,7 @@ is that so… are the things i am saying difficult to comprehend? i am sorry, i 
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Ah, no, there’s nothing you need to apologize for—Oh.
+Ah, no, there’s nothing you need to apologize for— Oh.
 
 Sorry, seems like I’m being called over. I’ll have to go now!
 {% endbubble %}
@@ -1516,6 +1516,6 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 [^5]: To worship in Japanese is <em>matsuru</em> (祭る), and is where the word <em>matsuri</em> (祭り) is derived from.
 [^6]: The tale of <a href="https://en.wikipedia.org/wiki/Ningyo" target="_blank">Yaobikuni</a>, about a girl who ate mermaid meat, and went on to live for 800 years.
 [^7]: 押しかけ女房, lit. a woman who intrudes a man’s home to live with him, regardless of his consent. It’s likely that Chiaki is making a joke out of what he’s doing.
-[^8]: In Japanese, he refers to him as 眼鏡くん (Megane-kun).
+[^8]: In Japanese, he refers to him as <em>megane-kun</em> (眼鏡くん).
 [^9]: The literal translation is “you have a cute face, so I couldn’t tell,” but I added “boyish” for clarity of his joke.
 [^10]: Keito was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to *kimi* to sound more friendly.
