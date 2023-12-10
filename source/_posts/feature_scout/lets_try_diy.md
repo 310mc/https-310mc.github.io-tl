@@ -78,17 +78,19 @@ This story is connected to the card [One Step With A Challenge] Midori Takamine.
 {% bubble Midori %}
 Erm, so do I just cut it off from here?
 
-Guh— It needs more force. What now…? It’s kinda scary, but I won’t be able to cut it at all unless I put my strength into it. Alright, here goes…
+Guh— It needs a lot of force. What now…? It’s kinda scary, but I won’t be able to cut it at all unless I put my strength into it. Alright, here goes…
 
 Push the saw down, and pull it back as hard as possible… Woah!?
 
-Whew, I managed to cut it… But I got surprised by the cut-off part falling to the ground.
+Whew, I managed to cut it off… But it happened so fast that it surprised me.
 
 Huh? The cut is slanted!? *Sigh,* this is so depressing…
 {% endbubble %}
 
+{% img /img/es/idolstory/challengediy/2.jpg %}
+
 {% bubble Tori %}
-What’re you doing here, Takamine?
+What’re you doing over there, Takamine?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -104,13 +106,13 @@ Ahh… Don’t worry about it, it’s fine. I didn’t get injured or anything.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Thank goodness. However, I see that you’re using a saw… This may be rude of me to say, but that’s quite unexpected from you.
+Thank goodness. However, I’m surprised to see you using a saw… This may be rude of me to say, but that’s quite unexpected from you.
 
 What were you doing with it?
 {% endbubble %}
 
 {% bubble Midori %}
-I was repairing something a little, or more like, uh, what was it again… DIY?
+I was doing a bit of repairing, or more like, uh, what was it again… DIY?
 {% endbubble %}
 
 {% bubble Tori %}
@@ -124,7 +126,7 @@ It refers to repairing or building items by yourself, without the help of profes
 {% endbubble %}
 
 {% bubble Tori %}
-Huh, I see… Why were you doing something so bothersome again, Takamine?
+Huh, I see… Why were you doing something so bothersome, Takamine?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -132,21 +134,21 @@ You see, Shiratori-kun and Saegusa-senpai fixed my favorite footstool a while ag
 
 It was super worn-out, yet the two of them managed to fix it back into its cute shape as an apology for breaking it.
 
-It was really inspiring to see.
+It really inspired me, so here we are.
 {% endbubble %}
 
 {% bubble Yuzuru %}
 *Ibara,* doing something out of good will…? No, that’s simply impossible.
 
-Takamine-sama, I believe it would be best that you don’t use that footstool. We’re talking about <em>that</em> man; who knows what sort of trap he planted on it.
+Takamine-sama, it would be best that you don’t use that footstool. We’re talking about <em>that</em> man; who knows what sort of trap he planted on it.
 {% endbubble %}
 
 {% bubble Midori %}
-Ehh…!? Huh, but there wasn’t anything weird at all on the footstool…?
+Whaa…!? Huh, but there wasn’t anything weird at all on the footstool…?
 {% endbubble %}
 
 {% bubble Tori %}
-Yeah, Yuzuru. Shiratori helped him repair it too, so don’t you think you’re overthinking it?
+Yeah, Yuzuru. Takamine said that Shiratori repaired it with him, so don’t you think you’re overthinking it?
 
 Besides, what would Saegusa-senpai gain out of doing that to Takamine? You’re way too cautious!
 {% endbubble %}
@@ -174,7 +176,7 @@ Yeah, basically. I have other goods that are close to breaking, so I thought to 
 {% endbubble %}
 
 {% bubble Tori %}
-And that’s why you look like you’re about to die, ‘cause you didn’t manage to do it properly, huh.
+And that’s why you look like you’re about to die, ‘cause you weren’t able to do it properly, huh.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -206,19 +208,19 @@ Mascot…? Um, where’s its face!?
 {% bubble Midori %}
 The coating peeled off… I’m also shocked that I can’t see its cute face anymore…
 
-The desk’s legs are falling apart too, so it can barely stand properly… I kept going back and forth about whether I should throw it away…
+The desk’s legs are falling apart too, so it can barely stand properly… I kept going back and forth about whether I should throw it away or not…
 
 But I’m pretty attached to it, so I couldn’t get myself to let go of it… That’s why I wanted to try fixing it, but life’s not that easy, huh…
 {% endbubble %}
 
 {% bubble Tori %}
-Huh, but I could’ve sworn I heard you were pretty dexterous with your hands… I guess you’re not so good with handicraft?
+Huh, but I could’ve sworn I heard that you were pretty dexterous with your hands… I guess handicraft isn’t your specialty?
 {% endbubble %}
 
 {% bubble Midori %}
 No way, I’m not dexterous at all… I just like doing little chores and stuff.
 
-I’d be glad to sand the edges of the wood, but using a saw to cut the wood is kinda scary…
+I’d be glad to sand the wood, but using my strength to cut with a saw is kinda scary…
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -232,20 +234,20 @@ Huh!? Are you sure!?
 {% endbubble %}
 
 {% bubble Yuzuru %}
-A little wood-cutting wouldn’t take much of my time. If it’s causing you trouble, I could help with repairing the furniture.
+A little wood-cutting wouldn’t take much of my time. If it’s causing you trouble, I could help with repairing the furniture, as well.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori grin %}
 Thank you! That’s a huge lifesaver!
 {% endbubble %}
 
 {% bubble Tori %}
-Since you’re gonna help with repairing it, how about you also re-draw the mascot on the tabletop for him, Yuzuru?
+Since you’re gonna help with repairing it, how about you also re-draw the mascot’s face on the tabletop for him, Yuzuru?
 
 It’s kinda bothering me how it’s faceless.
 {% endbubble %}
 
-{% bubble Yuzuru %}
+{% bubble Yuzuru awkward %}
 Oh, no. I believe that is far too heavy of a burden on me…
 {% endbubble %}
 
@@ -254,13 +256,13 @@ Oh, no. I believe that is far too heavy of a burden on me…
 {% endbubble %}
 
 {% bubble Midori %}
-Master Artist Fushimi, not being good at drawing? No, no, what’re you even <em>saying</em>, Himemiya-kun!? There’s nobody more talented than Master Artist in this entire world!
+Master Artist Fushimi not being good at drawing? No, no, what’re you even <em>saying</em>, Himemiya-kun!? There’s nobody more talented than Master Artist in this entire world, y’know!?
 
-I’m fine with you drawing however much you like, as long as it means I get to see new art from the Master Artist! I’m even willing to make a whole new item for that!
+I’m fine with him drawing however much he likes, as long as it means I get to see new art from the Master Artist! I’m even willing to build a whole new item for that!
 {% endbubble %}
 
 {% bubble Tori %}
-Woah, you’re scaring me…! Don’t approach us with such a loud voice, it’s intimidating!
+Woah, you’re scaring me…! Don’t approach me with such a loud voice, it’s intimidating!
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -270,30 +272,30 @@ I would feel bad to paint over its face with my art…
 {% endbubble %}
 
 {% bubble Midori %}
-Ahh, no. I was imagining it as you filling the empty space around the mascot character with your art, Master Artist.
+Ahh, no. I was imagining it as you filling the blank space around the mascot character with your art, Master Artist.
 {% endbubble %}
 
 {% bubble Tori %}
-Hmm? Then you’re just leaving the mascot faceless?
+Hmm? Then you’re just leaving the mascot in the middle faceless?
 {% endbubble %}
 
 {% bubble Midori %}
 Nah, I’ll at least try fixing that by myself.
 
-I’m the one who wants to see this fixed, so I shouldn’t leave it all to Master Artist Fushimi.
+I’m the one who wanted to fix this, so I shouldn’t leave it all to Master Artist Fushimi.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-I see, that’s what you meant. Very well, I won’t need to hold back anything.
+I see, that’s what you meant. If that’s the case, I won’t need to hold back.
 
 Right then, let’s start repairing, shall we? I’ll start by fixing the desk’s legs.
 {% endbubble %}
 
 {% bubble Tori %}
-Then I’ll stay close and cheer for you guys. I’m kinda curious to see how the final product will turn out~♪
+Then I’ll stay close and cheer for you guys. I’m kinda interested to see how the final product will turn out~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori smileconfident %}
 Thank you, you two. I’m also gonna work hard to bring back this mascot’s adorable face…♪
 {% endbubble %}
 
