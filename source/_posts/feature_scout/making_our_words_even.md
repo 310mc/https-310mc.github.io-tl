@@ -415,6 +415,18 @@ Um, no… That um, really *does* sound like a pain…
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/challengediy/c1.jpg"
+            alt="Let's Try DIY"
+        />
+    </div>
+    <a href="/lets_try_diy" class="storyName" target="_blank">
+        <span>Let's Try DIY</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 <hr>

@@ -915,6 +915,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/backstageradio/c1.jpg"
+            alt="Backstage RADIO"
+        />
+    </div>
+    <a href="/backstage_radio" class="storyName" target="_blank">
+        <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories

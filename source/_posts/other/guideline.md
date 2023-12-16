@@ -108,6 +108,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/backstageradio/c1.jpg"
+            alt="Backstage RADIO"
+        />
+    </div>
+    <a href="/backstage_radio" class="storyName" target="_blank">
+        <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"
         />
@@ -162,18 +174,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/abyss" class="storyName" target="_blank">
         <span>ABYSS</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
-            src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
-            alt="Tropical"
-        />
-    </div>
-    <a href="/tropical" class="storyName" target="_blank">
-        <span>Tropical</span>
         <span class="read"></span>
     </a>
 </div>
