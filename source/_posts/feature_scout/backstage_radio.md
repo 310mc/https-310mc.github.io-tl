@@ -203,7 +203,7 @@ And now you’re saying “I can leave it all to you from here on out”… Wher
 {% endbubble %}
 
 {% bubble Makoto worried %}
-No, no! That’s going too far! Don’t assassinate me just because you’re a ninja…
+No, no! That’s going too far! Don’t assassinate me just because you’re a ninja~…
 {% endbubble %}
 
 {% bubble Shinobu sigh2 %}
