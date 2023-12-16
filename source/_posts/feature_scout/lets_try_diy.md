@@ -82,7 +82,7 @@ Guh— It needs a lot of force. What now…? It’s kinda scary, but I won’t b
 
 Push the saw down, and pull it back as hard as possible… Woah!?
 
-Whew, I managed to cut it off… But it happened so fast that it surprised me.
+Whew, I managed to cut it off… But it happened so suddenly that it surprised me.
 
 Huh? The cut is slanted!? *Sigh,* this is so depressing…
 {% endbubble %}
@@ -148,7 +148,7 @@ Whaa…!? Huh, but there wasn’t anything weird at all on the footstool…?
 {% endbubble %}
 
 {% bubble Tori %}
-Yeah, Yuzuru. Takamine said that Shiratori repaired it with him, so don’t you think you’re overthinking it?
+Yeah, Yuzuru. Takamine said that Shiratori repaired it with Saegusa-senpai, so don’t you think you’re overthinking it?
 
 Besides, what would Saegusa-senpai gain out of doing that to Takamine? You’re way too cautious!
 {% endbubble %}
@@ -158,7 +158,7 @@ Rather, I personally believe there is no harm in being over-cautious with his ac
 
 No, if that is what Young Master says, then I will consider it as me simply overthinking it.
 
-However, Takamine-sama — I suggest that you check if there are any wiretaps installed on the footstool, just in case.
+However, Takamine-sama — I suggest that you check if there are any listening bugs installed on the footstool, just in case.
 {% endbubble %}
 
 {% bubble Midori %}

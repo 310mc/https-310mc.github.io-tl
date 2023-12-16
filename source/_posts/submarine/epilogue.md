@@ -267,7 +267,7 @@ Ohh, you included me in the “sensitive” category, too!? I'm so glad to know 
 {% endbubble %}
 
 {% bubble Midori sideeye %}
-Hmph… You do realize we’ve known each other long enough that none of us would still think you’re a hot-headed, dumbass hero without a single thought in his head, right… We’ve all seen you read books with glasses on before you sleep…
+Hmph… You do realize that none of us would still think you’re a hot-headed, dumbass hero without a single thought in his head, right… We’ve all seen you read books with glasses on before you sleep…
 {% endbubble %}
 
 {% bubble Chiaki worried %}

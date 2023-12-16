@@ -978,7 +978,7 @@ Yeah, I feel the same way, too. … Okay, let me clean the wound — It’ll sti
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-Got it. … Sorry for makin’ you help me out, Glasses-boy.
+Got it. …Sorry for makin’ you help me out, Glasses-boy.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
