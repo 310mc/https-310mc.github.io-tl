@@ -91,7 +91,7 @@ Allow me to handle all of the preparations for this broadcast! In the meantime, 
 {% endbubble %}
 
 {% bubble Makoto %}
-Huh? Are you sure? But you’re the one who wrote the script, so I was thinking about doing the preparations at least…
+Huh? Are you sure? But you’re the one who wrote the script, so I was thinking of doing the preparations at least…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -105,7 +105,7 @@ Alright, I’m counting on you.
 {% bubble Shinobu v2 %}
 Right, first I’ll start by turning on the PC.
 
-…Alright! It’s on! Now I only need to make sure the audio plays clearly from the PC…
+…Alright! It’s on! Now I only need to make sure the audio from the PC plays clearly…
 
 Then I need to adjust the microphone’s position…
 
@@ -143,7 +143,7 @@ I feel so moved somehow… You’ve really grown wonderfully, haven’t you?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Heheh, this is your last big moment as a Broadcast Committee member, Yuuki-dono. I worked very hard for this day! ♪
+Heheh, this is your final grand moment as a Broadcast Committee member, Yuuki-dono. I worked very hard for this day! ♪
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -157,7 +157,7 @@ I had never intended to run for election, and the reason it turned out that way 
 {% endbubble %}
 
 {% bubble Makoto %}
-But you still took the initiative with the elections, so I really can’t help but think you’re amazing.
+But you still did your job for the elections, so I really can’t help but think you’re amazing.
 
 Seeing you work so hard reminds me of the first time you had to do the noon broadcast on your own.[^2]
 {% endbubble %}
@@ -169,7 +169,7 @@ If I recall correctly, I only realized that I forgot the script at home once it 
 
 Ahh, I still feel so embarrassed by such an extreme mistake…
 
-Had I done that for my election speech, I would’ve been severely reprimanded. Just the thought of it makes me shiver in anxiety…
+Had I done that for my election speech, I would’ve been severely reprimanded. Just the thought of it makes me shiver…
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -177,7 +177,7 @@ But in a way, you could say that it’s <em>because</em> you went through that e
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-That may be true. I made sure that the script was with me this time, just like I have been doing for all my broadcasts since then.
+That may be true. I made sure that the script was with me this time, just like I have been doing for all broadcasts since then.
 {% endbubble %}
 
 {% bubble Makoto %}
@@ -203,7 +203,7 @@ And now you’re saying “I can leave it all to you from here on out”… Wher
 {% endbubble %}
 
 {% bubble Makoto worried %}
-No, no! That’s going too far! Don’t assassin me just because you’re a ninja…
+No, no! That’s going too far! Don’t assassinate me just because you’re a ninja…
 {% endbubble %}
 
 {% bubble Shinobu sigh2 %}
@@ -225,7 +225,7 @@ I am aware. This is Yuuki-dono’s final noon broadcast; I don’t want it to en
 
 I would much rather we all look back on our fun memories in school, so that we’re all smiling by the end of the broadcast.
 
-That’s how I plan to fulfil today’s broadcast flawlessly!
+That’s how I plan to flawlessly fulfil today’s broadcast!
 {% endbubble %}
 
 {% bubble Makoto %}
