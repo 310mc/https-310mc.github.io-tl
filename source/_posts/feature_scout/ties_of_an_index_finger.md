@@ -181,7 +181,7 @@ Ehh~ Is that really true?
 <th>(I wasn’t really lying when I said there are no problems with my health… But should I really ignore his feelings and keep up the facade when he’s clearly worried about me…?)</th>
 {% endbubble %}
 
-{% bubble Subaru glare %}
+{% bubble Subaru angry3 %}
 *Staaare…*
 {% endbubble %}
 
@@ -302,7 +302,7 @@ Guhh…! Your words cut deep in my heart, Akehoshi…!
 {% endbubble %}
 
 {% bubble Subaru norsmile %}
-I mean, isn’t the reason why you were exhausted enough to accidentally trip was ‘cause you were working your butt off on all your jobs?
+I mean, the reason why you were exhausted enough to accidentally trip is ‘cause you were working your butt off on all your jobs, right?
 
 Well, you could just rest a little or take it easier at work to avoid exhaustion, but… I doubt that’s something Chi~chan-senpai can do.
 
@@ -312,7 +312,7 @@ After all, you’re just gonna keep working hard, aren’tcha, Chi~chan-senpai? 
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-…Proof…of my hard work.
+…Proof of…my hard work.
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}

@@ -1006,11 +1006,17 @@
 [character="Subaru"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_frown.png");
 }
+[character="Subaru"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_frownshake.png");
+}
 [character="Subaru"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_grin.png");
 }
 [character="Subaru"][happy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_happy.png");
+}
+[character="Subaru"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_norsmile.png");
 }
 [character="Subaru"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_northinking.png");
@@ -1035,6 +1041,12 @@
 }
 [character="Subaru"][sideeye] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_sideeye.png");
+}
+[character="Subaru"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_smileconfident.png");
+}
+[character="Subaru"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_smilesoft.png");
 }
 [character="Subaru"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_srsthinking.png");
