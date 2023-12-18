@@ -108,6 +108,30 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            alt="Ties of an Index Finger"
+        />
+    </div>
+    <a href="/ties_of_an_index_finger/" class="storyName" target="_blank">
+        <span>Ties of an Index Finger</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            alt="The Promise To Train"
+        />
+    </div>
+    <a href="/the_promise_to_train/" class="storyName" target="_blank">
+        <span>The Promise To Train</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/backstageradio/c1.jpg"
             alt="Backstage RADIO"
         />

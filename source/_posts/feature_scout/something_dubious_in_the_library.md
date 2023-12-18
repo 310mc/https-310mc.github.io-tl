@@ -333,6 +333,18 @@ Thank you. I’ll tell Morisawa-senpai about it later.
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            alt="Ties of an Index Finger"
+        />
+    </div>
+    <a href="/ties_of_an_index_finger/" class="storyName" target="_blank">
+        <span>Ties of an Index Finger</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"
         />
