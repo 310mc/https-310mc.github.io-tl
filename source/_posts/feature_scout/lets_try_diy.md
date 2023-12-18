@@ -65,6 +65,8 @@ This story is connected to the card [One Step With A Challenge] Midori Takamine.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>

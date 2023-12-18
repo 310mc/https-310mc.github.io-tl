@@ -65,6 +65,8 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 ## Chapter 1
 
 <div class="msr-season summer">

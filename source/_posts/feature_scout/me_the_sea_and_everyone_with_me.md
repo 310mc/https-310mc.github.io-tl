@@ -68,7 +68,10 @@ This story is connected to the card [Intertwined Sea] Kanata Shinkai.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 ## Chapter 1
+
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>

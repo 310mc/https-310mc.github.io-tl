@@ -9,7 +9,8 @@ tags:
 - Idol Story
 - Yuumasu
 description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Subaru. Chiaki wants to treat a wound without anyone noticing, but…"
-permalink: the_promise_to_train/
+permalink: ties_of_an_index_finger/
+hidden: true
 ---
 
 ![](/img/es/idolstory/tiesindexfinger/c1.jpg)|![](/img/es/idolstory/tiesindexfinger/c2.jpg)
@@ -62,6 +63,8 @@ This story is connected to the card [TBA] Chiaki Morisawa.
 </div>
 
 <!-- more -->
+
+<link rel="stylesheet" href="/css/storylist.css">
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

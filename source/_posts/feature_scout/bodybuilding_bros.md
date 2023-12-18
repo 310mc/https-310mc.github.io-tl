@@ -64,6 +64,8 @@ This story is connected to the card [Muscle Talk] Tetora Nagumo.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 {% note narration %}
 **Translation Note:** The title is a reference to Precure’s opening theme song, “Together We Are Pretty Cure”.
 {% endnote %}
