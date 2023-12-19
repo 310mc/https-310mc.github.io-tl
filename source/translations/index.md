@@ -774,6 +774,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/atyourservicemaster/c1.jpg"
+            alt="I'm At Your Service, Master!"
+        />
+    </div>
+    <a href="/at_your_service_master/" class="storyName" target="_blank">
+        <span>I'm At Your Service, Master!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/dothenorm/c2.jpg"
             alt="Do The Norm"
         />

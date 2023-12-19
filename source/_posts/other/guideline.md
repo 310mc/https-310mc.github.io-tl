@@ -64,6 +64,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/stayingtrue/c2.jpg"
+            alt="Midori-related stories"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Midori-related stories</span>
+        <span class="read soon"></span>
+    </a>
+</div>
 <!--<div class="story">
     <div class="image">
         <img
@@ -105,6 +117,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/atyourservicemaster/c1.jpg"
+            alt="I'm At Your Service, Master!"
+        />
+    </div>
+    <a href="/at_your_service_master/" class="storyName" target="_blank">
+        <span>I'm At Your Service, Master!</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="image">
         <img
@@ -168,24 +192,24 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/daysandhero/c1.jpg"
-            alt="Dream Days and Hero"
-        />
-    </div>
-    <a href="/dream_days_and_hero" class="storyName" target="_blank">
-        <span>Dream Days and Hero</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
             src="/img/es/idolstory/aherotoo/c1.jpg"
             alt="You're A Hero, Too!"
         />
     </div>
     <a href="/youre_a_hero_too/" class="storyName" target="_blank">
         <span>You're A Hero, Too!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/daysandhero/c1.jpg"
+            alt="Dream Days and Hero"
+        />
+    </div>
+    <a href="/dream_days_and_hero" class="storyName" target="_blank">
+        <span>Dream Days and Hero</span>
         <span class="read"></span>
     </a>
 </div>

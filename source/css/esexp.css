@@ -1155,6 +1155,44 @@
 /**
 ***/
 
+/** Tori Expressions
+***/
+[character="Tori"][blushjoy] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_blushjoy.png");
+}
+[character="Tori"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_curious.png");
+}
+[character="Tori"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_frown.png");
+}
+[character="Tori"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_frownshake.png");
+}
+[character="Tori"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_glare.png");
+}
+[character="Tori"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_norsmile.png");
+}
+[character="Tori"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_shocked.png");
+}
+[character="Tori"][sideeye] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_sideeye.png");
+}
+[character="Tori"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_sigh.png");
+}
+[character="Tori"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_surprised.png");
+}
+[character="Tori"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tori_yare.png");
+}
+/**
+***/
+
 /** Yuzuru Expressions
 ***/
 [character="Yuzuru"][awkward] {

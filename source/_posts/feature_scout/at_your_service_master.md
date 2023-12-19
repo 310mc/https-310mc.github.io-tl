@@ -10,7 +10,6 @@ tags:
 - Yuumasu
 description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Tori. Chiaki offers to help take care of Tori…"
 permalink: at_your_service_master/
-hidden: true
 ---
 
 ![](/img/es/idolstory/atyourservicemaster/c1.jpg)|![](/img/es/idolstory/atyourservicemaster/c2.jpg)
@@ -159,7 +158,7 @@ What a wonderful morning! This is going to be such a great day!
 {% bubble Tori %}
 zz… zz…
 
-Mm… *<th>(mumbles)</th>*… I can’t eat anymore, Eichi-samaa~…♪
+Mm… <em><th>(mumbles)</th></em>… I can’t eat anymore, Eichi-samaa~…♪
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -176,7 +175,7 @@ GOOOOOD MOOOORNIIIIING!! ☆
 GYAAAAAH!?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Mhm, it worked like a charm! Good morning, Himemiya! ☆
 {% endbubble %}
 
@@ -187,7 +186,7 @@ Uu, I was having <em>such</em> a good dream… Let me sleep more~…
 {% bubble Chiaki grin %}
 Don’t bury yourself in the blanket! Come on out, Himemiya! Let’s move our bodies to wake ourselves up!
 
-It’s time for “Unrivaled ☆ Meteorangers!”!![^2] Follow after me!
+It’s time for “The Unrivaled ☆ Meteorangers!”!![^2] Follow after me!
 {% endbubble %}
 
 <div class="msr-narration">
@@ -231,7 +230,7 @@ Alright! I’ll go prepare breakfast, then!
 {% img /img/es/idolstory/atyourservicemaster/3.jpg %}
 
 {% bubble Chiaki smile %}
-<th>(White rice, miso soup, grilled fish…♪)</th> *<th>(Humming)</th>*
+<th>(White rice, miso soup, grilled fish…♪)</th> <em>(Humming)</em>
 
 <th>(Alright, everything’s going well so far! It’s all thanks to the beginner-friendly time-saving recipe book I found yesterday! ☆)</th>
 
@@ -376,6 +375,18 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </div>
     <a href="/ties_of_an_index_finger/" class="storyName" target="_blank">
         <span>Ties of an Index Finger</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/atyourservicemaster/c1.jpg"
+            alt="I'm At Your Service, Master!"
+        />
+    </div>
+    <a href="/at_your_service_master/" class="storyName" target="_blank">
+        <span>I'm At Your Service, Master!</span>
         <span class="read"></span>
     </a>
 </div>

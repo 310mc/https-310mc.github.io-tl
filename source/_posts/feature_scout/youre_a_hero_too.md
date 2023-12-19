@@ -527,6 +527,18 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/atyourservicemaster/c1.jpg"
+            alt="I'm At Your Service, Master!"
+        />
+    </div>
+    <a href="/at_your_service_master/" class="storyName" target="_blank">
+        <span>I'm At Your Service, Master!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"
         />
