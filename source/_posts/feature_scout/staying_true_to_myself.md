@@ -276,7 +276,7 @@ I’ll search up what kinda mascots will show up for the event…♪
 {% img /img/es/idolstory/stayingtrue/5.jpg %}
 
 <div class="msr-narration">
-    <p>On the day of the exhibition</p>
+    <p>On the day of the exhibition…</p>
 </div>
 
 {% bubble Midori worried %}

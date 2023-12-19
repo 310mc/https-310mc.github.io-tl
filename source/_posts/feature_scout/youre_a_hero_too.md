@@ -51,10 +51,10 @@ This story is connected to the card [Ray of Hope] Chiaki Morisawa.
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Season
+                   Proofreading
                 </div>
                 <div class="value">                 
-                    Autumn
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -136,7 +136,7 @@ Fuhaha, there’s no need to feel sorry. I won’t lose heart to something like 
 
 Mm? I think someone’s here…
 
-Ooh, Hero-kun! Hello there! <em><th>(Waves)</th></em>
+Ooh, Hero-kun! Hello there! <em><th>(waves)</th></em>
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -402,7 +402,7 @@ You even bought me cold water… Thank you.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-…Haha, I’m so pathetic. I’m making you take care of me even nows…
+…Haha, I’m so pathetic. I’m making you take care of me even now…
 
 When this whole time, I was hoping to give *you* a chance to rest and forget about work for a while…
 {% endbubble %}
