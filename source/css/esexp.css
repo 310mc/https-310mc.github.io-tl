@@ -327,6 +327,9 @@
 [character="Chiaki"][svocg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_svocg.png");
 }
+[character="Chiaki"][herotoocg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_herotoocg.png");
+}
 
 
 [character="Chiaki"][mgn] {
