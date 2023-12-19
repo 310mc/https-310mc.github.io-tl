@@ -13,13 +13,13 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Translation of Yuzuru Feature Scout Story, featuring Keito, Aira, Hiiro, Mika, Tori, and Midori. Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…"
+description: "[ES!!] Translation of Yuzuru Feature Scout Story, featuring Keito, Aira, Hiiro, Mika, Tori, and Midori. Yuzuru struggles to draw a design for his personalized outfit, and consults Keito for his thoughts…"
 permalink: the_essence_of_a_butler/
 ---
 ![](/img/es/idolstory/essencebutler/c1.jpg)|![](/img/es/idolstory/essencebutler/c2.jpg)
 :-:|:-:
 
-Yuzuru struggles to draw a design for his personal outfit, and consults Keito for his thoughts…
+Yuzuru struggles to draw a design for his personalized outfit, and consults Keito for his thoughts…
 
 This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
 
@@ -211,7 +211,7 @@ From <em>you</em>? That’s rare. Yeah, go ahead.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Thank you very much. You see, I was approached the other day about my personal outfit.
+Thank you very much. You see, I was approached the other day about my personalized outfit.
 
 I have come up with multiple ideas for a design, but none of them feel like what I’ve truly been looking for.
 
@@ -233,7 +233,7 @@ Yes, here it is.
 {% endbubble %}
 
 {% bubble Yuzuru %}
-It’s the designs for my personal outfit.
+It’s the designs for my personalized outfit.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -301,7 +301,7 @@ It seems to have been booked while we were having our class. Let’s leave at on
 {% bubble Yuzuru %}
 Understood.  …What’s wrong, Anzu-san?
 
-Ahh, you’re curious about this illustration? To tell you the truth, I consulted Keito-sama about my personal outfit.
+Ahh, you’re curious about this illustration? To tell you the truth, I consulted Keito-sama about my personalized outfit.
 
 He then sketched the designs out for me as I explained them.
 
@@ -329,7 +329,7 @@ Please do not fret, Mizuhanome-sensei-sama. I will not speak a word of this to a
 {% bubble Keito %}
 It’s “Mizuhanome” <em>only</em>. There is *no* need for the “sensei” part.
 
-I’ll help you with designing your personal outfit as repayment for tidying up the place with me. Tell me when you’ve completed your design and I’ll draw a clean version for you.
+I’ll help you with designing your personalized outfit as repayment for tidying up the place with me. Tell me when you’ve completed your design and I’ll draw a clean version for you.
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -369,7 +369,7 @@ Why do you look as though you’ve struck gold or something? <em>Sigh</em>…
 {% img /img/es/idolstory/essencebutler/cg.jpg %}
 
 {% bubble Yuzuru %}
-<th>(I wish to serve only the very best for the Young Master too, similar to how you wish to support the many idols around you. I only hope that I manage to present those feelings into my personal outfit…)</th>
+<th>(I wish to serve only the very best for the Young Master too, similar to how you wish to support the many idols around you. I only hope that I manage to present those feelings into my personalized outfit…)</th>
 
 <th>(But I cannot seem to formulate it properly onto paper… How frustrating.)</th>
 
@@ -387,11 +387,11 @@ It’s sooo cute~! I’d love to have it! I wanna frame it on my wall…☆
 {% endbubble %}
 
 {% bubble Yuzuru %}
-Uhh, erm… These are designs for my personal outfit, so I’m afraid I can’t hand it to you.
+Uhh, erm… These are designs for my personalized outfit, so I’m afraid I can’t hand it to you.
 {% endbubble %}
 
 {% bubble Midori smile %}
-Personal outfit… So you’re gonna get an outfit based on what you drew?
+Personalized outfit… So you’re gonna get an outfit based on what you drew?
 
 I wanted a drawing from you, but that’s somehow even *more* catered to me! Oh gosh, I can’t <em>wait</em>…☆
 {% endbubble %}
@@ -399,7 +399,7 @@ I wanted a drawing from you, but that’s somehow even *more* catered to me! Oh 
 {% bubble Yuzuru %}
 Ahh, no, no. Keito-sama will make a clean copy of the design for me, so I believe that it will look entirely different in the end. I haven’t decided which to finalize, though.
 
-I have yet to find the appropriate individuality for my personal outfit. I’ve tried as best as I can, but I cannot seem to come up with something that defines me besides “a butler who supports his master”.
+I have yet to find the appropriate individuality for my personalized outfit. I’ve tried as best as I can, but I cannot seem to come up with something that defines me besides “a butler who supports his master”.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -415,7 +415,7 @@ A mascot character key strap…?
 {% bubble Midori smile %}
 This is the local mascot “Alien Tomato”.[^2] They’re a mascot born from a tomato farm, and even though being a tomato is the only thing they have going for them, they’re suuuper unique…♪
 
-So I think it’s fine if you had your personal outfit looking like a butler, Master Artist Fushimi. Your fans would probably enjoy seeing you in a formal uniform, anyway…
+So I think it’s fine if you had your personalized outfit looking like a butler, Master Artist Fushimi. Your fans would probably enjoy seeing you in a formal uniform, anyway…
 {% endbubble %}
 
 {% bubble Yuzuru %}
@@ -429,7 +429,7 @@ I no longer need this design, so you may have it if you like.
 {% bubble Midori smile %}
 Really!? Yay, yay, thank you so much! I’ll treasure it for the rest of my life…♪
 
-I’m looking forward to seeing your personal outfit, Master Artist. Oh, and—
+I’m looking forward to seeing your personalized outfit, Master Artist. Oh, and—
 
 I’d like your autograph, if that’s okay…♪
 {% endbubble %}
@@ -451,7 +451,7 @@ I’d like your autograph, if that’s okay…♪
 
 Young Master, I apologize for asking you to visit me all the way here.
 
-This is my personal outfit. I requested Anzu-san to tailor it to look similar to that of a butler’s.
+This is my personalized outfit. I requested Anzu-san to tailor it to look similar to that of a butler’s.
 
 What do you think? Am I worthy in your eyes…?
 {% endbubble %}
@@ -467,7 +467,7 @@ Something important…?
 {% bubble Tori %}
 Mhm, you didn’t get this outfit made to only show it to me, after all.
 
-A personal outfit is a one-in-a-kind outfit that is meant to reflect the idol’s views, but it’s also supposed to be a way to make your fans happy.
+A personalized outfit is a one-in-a-kind outfit that is meant to reflect the idol’s views, but it’s also supposed to be a way to make your fans happy.
 
 Your fans are looking forward to seeing you on stage with that outfit. You’ve gotta make sure to go beyond their expectations to make up for all the waiting they’ve done for you!
 

@@ -231,7 +231,7 @@ Understood! I shall pour my heart into extracting them~♪
 {% bubble Midori %}
 It’s only weeds, so I don’t think you’ll need to do that…
 
-Asobi club… If I remember clearly, you guys literally just play around together?
+Asobi club… If I remember correctly, you guys literally just play around together?
 
 It has all kinds of people from different units in it… It does sound sorta fun…
 {% endbubble %}

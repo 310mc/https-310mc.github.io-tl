@@ -97,7 +97,7 @@ fufufu, i am sorry. i also arrived here too early, so i had a lot of [free time]
 
 it is the same for tetora, yes? you are here [one hour] earlier than the meeting time.
 
-is there somethin’ you wanted to do?
+is there something you wanted to do?
 {% endbubble %}
 
 {% bubble Tetora v2 %}

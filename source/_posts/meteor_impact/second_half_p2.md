@@ -1252,7 +1252,7 @@ Ocean? What’s happening in the ocean? I have to go there? No wait, the ocean i
 
 <th>(It isn’t like I have anything else to do, so I’ll keep redialing his number on the way to the ocean!)</th>
 
-<th>(If I remember clearly, Mikejima-san is overseas right now… yet he still called for me, which must mean it’s something important.)</th>
+<th>(If I remember correctly, Mikejima-san is overseas right now… yet he still called for me, which must mean it’s something important.)</th>
 
 <th>(We aren’t so close that he would tell me anything without a proper reason.)</th>
 

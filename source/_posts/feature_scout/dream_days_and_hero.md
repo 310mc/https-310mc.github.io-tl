@@ -439,7 +439,7 @@ Chi~chan-senpai, you appear in sports variety shows often, so why not buy new ba
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-Alright then, since this is such a special occasion, maybe I should buy shoes matching with you~♪
+Alright then, since this is such a special occasion, maybe I could buy shoes matching with you~♪
 {% endbubble %}
 
 {% bubble Subaru yare %}

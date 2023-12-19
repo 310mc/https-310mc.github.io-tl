@@ -10,13 +10,13 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personal outfit that he'd like to wear."
+description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personalized outfit that he'd like to wear."
 permalink: staying_true_to_myself/
 ---
 ![](/img/es/idolstory/stayingtrue/c1.jpg)|![](/img/es/idolstory/stayingtrue/c2.jpg)
 :-:|:-:
 
-Midori feels depressed as soon as he hears it's his turn to receive a personal outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear…
+Midori feels depressed as soon as he hears it's his turn to receive a personalized outfit. Despite the pressure, he tries his best to visualize an outfit idea, but all he can think of are things he'd rather not wear…
 
 This story is connected to the card [Comfortable Staying Just As I Am] Midori Takamine.
 
@@ -102,7 +102,7 @@ Yup! You don’t have to think ‘bout it on your own, we can hear you out! Mayb
 {% endbubble %}
 
 {% bubble Midori sad %}
-Thanks… The truth is, I heard a rumor in the office that I’m the next one to get a personal outfit…
+Thanks… The truth is, I heard a rumor in the office that I’m the next one to get a personalized outfit…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -134,7 +134,7 @@ Uu—! Don’t look at me with those sparkly eyes! I didn’t actually make any 
 
 Like, I did try thinking of something, but every outfit that comes to mind is something I don’t really wanna wear…
 
-Every idea I can think of is something I’d *never* want as a personal outfit… and I got so frustrated with myself for all these disappointing ideas… and just kept getting more depressed…
+Every idea I can think of is something I’d *never* want as a personalized outfit… and I got so frustrated with myself for all these disappointing ideas… and just kept getting more depressed…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -156,7 +156,7 @@ Maybe saying it like that is a bit off… It’s more like outfits that’d make
 
 Like outfits that’re too revealing, with v-necks open all the way down to the stomach… Or fancy suits that’re suffocating to wear…
 
-Outfits that’d feel nerve-wracking ‘cause they’d be doing the talking over me, I guess… I’d hate to have that sorta thing as my personal outfit…
+Outfits that’d feel nerve-wracking ‘cause they’d be doing the talking over me, I guess… I’d hate to have that sorta thing as my personalized outfit…
 
 My fans absolutely love seeing photo shoots where I’m wearing cool clothes and praise me a lot for it, but…
 
@@ -176,7 +176,7 @@ Ah—I was hoping to buy a sweater or shirt that has a mascot character on it so
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-…That sounds more like comfy clothes for home to me. I doubt you can make use of it for your personal outfit.
+…That sounds more like comfy clothes for home to me. I doubt you can make use of it for your personalized outfit.
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -220,7 +220,7 @@ So how about you start by asking Anzu-dono if it’s true?
 
 <th>(Our eyes met—Oh no, w-what do I do…!? She immediately got up from her seat to head over this way…!)</th>
 
-<th>(Don’t tell me… She really *is* planning on talking to me about my personal outfit!?)</th>
+<th>(Don’t tell me… She really *is* planning on talking to me about my personalized outfit!?)</th>
 
 Hello, Anzu-san. Do you have something to talk to me about? Could it be my perso—
 
@@ -228,7 +228,7 @@ Huh? An event stage for a commercial products exhibition? What’s that about…
 
 …So you’re here to talk to me about that event ‘cause you’d like me to take part in it?
 
-<th>(She just wanted to talk to me about work, not my personal outfit… So it really was nothing but a rumor after all…?)</th>
+<th>(She just wanted to talk to me about work, not my personalized outfit… So it really was nothing but a rumor after all…?)</th>
 
 …Ah, sorry, did I look out of it to you…? Don’t worry, I was listening.
 
@@ -256,7 +256,7 @@ And my parents will be super happy to know I’ll be doing an advertisement for 
 {% img /img/es/idolstory/stayingtrue/4.jpg %}
 
 {% bubble Midori curious %}
-<th>(She didn’t talk to me about my personal outfit in the end. Maybe it really *was* a rumor after all.)</th>
+<th>(She didn’t talk to me about my personalized outfit in the end. Maybe it really *was* a rumor after all.)</th>
 
 <th>(But huh, doing an event on stage… I bet it’d be pretty rowdy if all five of us in Ryuseitai hosted it together…)</th>
 
@@ -420,7 +420,7 @@ Oh, the event? Everyone enjoyed it, and I got a lot of praise for it… I feel l
 
 The audience looked so happy in their seats… I feel a bit more confident with myself now, maybe…
 
-—Ahhh, that reminds me. There’s something I wanted to ask you for a while—Is it true that I’m next to get a personal outfit?
+—Ahhh, that reminds me. There’s something I wanted to ask you for a while—Is it true that I’m next to get a personalized outfit?
 
 Oh, you wanted to talk to me about that *after* the exhibition was over? <em>Sigh</em>, so that’s what it was…
 
@@ -438,7 +438,7 @@ But right now, I think I’ve got some sort of idea in my head. Could I speak to
 {% bubble Midori smile %}
 I don’t wanna look *too* cool… And by that, I mean I don’t wanna only show a cool side of me, and have everyone love me for that only… ‘Cause I’d hate to see them get disappointed the moment they see my true self.
 
-That’s why… I think I’d want people to also love me for myself… That’s what I’d like to show in my personal outfit—Something that represents <em>me</em>.
+That’s why… I think I’d want people to also love me for myself… That’s what I’d like to show in my personalized outfit—Something that represents <em>me</em>.
 
 So, umm… Basically, I feel like what I’d like to wear is an outfit that shows who I really am—
 

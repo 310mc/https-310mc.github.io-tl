@@ -109,7 +109,7 @@ Ermm, am I allowed to use one of the antiseptics laid out here…? All the equip
 Excuuuuse mee~!
 {% endbubble %}
 
-{% bubble Chiaki surprised2 %}
+{% bubble Chiaki surprised %}
 …!?
 
 <th>(Oh shoot—! I instinctively closed the curtains around the bed to hide myself…!)</th>
@@ -236,7 +236,7 @@ W-Well, that’s because…
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
-<th>(I already confessed to Akehoshi that I carelessly got injured. And he even went through the effort to treat my wound… So lying here would be—…)</th>
+<th>(I already confessed to Akehoshi that I accidentally got injured. And he even went through the effort to treat my wound… So lying here would be—…)</th>
 
 ………
 {% endbubble %}
@@ -302,7 +302,7 @@ Guhh…! Your words cut deep in my heart, Akehoshi…!
 {% endbubble %}
 
 {% bubble Subaru norsmile %}
-I mean, the reason why you were exhausted enough to accidentally trip is ‘cause you were working your butt off on all your jobs, right?
+I mean, the reason why you were exhausted enough to accidentally trip was ‘cause you were working your butt off on all your jobs, right?
 
 Well, you could just rest a little or take it easier at work to avoid exhaustion, but… I doubt that’s something Chi~chan-senpai can do.
 

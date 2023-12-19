@@ -80,17 +80,17 @@ This story is connected to the card [Ray of Hope] Chiaki Morisawa.
 {% bubble Chiaki smileconfident %}
 Bam! Thank you for waiting, Anzu! Morisawa Chiaki is here in all his glory…☆
 
-“I’m sorry to make you come all the way here”? Don’t sweat it! Aren’t we on close terms?
+“I’m sorry to make you come all the way here”? Don’t sweat it! Aren’t we on good terms?
 
-Anyhow, let’s get to the main topic. We’re here to talk about my personal outfit, right?
+Anyhow, let’s get to the main topic. We’re here to talk about my personalized outfit, right?
 
 Fuhahaha! I’m finally next! I’ve been eagerly waiting for the day when you’d call for my turn!
 {% endbubble %}
 
 {% bubble Chiaki snicker %}
-…You bet that I’d like a hero-style outfit? Heh-heh-heh… I see that you’re interested to know what design I’ve thought up.
+…You bet that I’d want an outfit in a hero-like style? Heh-heh-heh… I see that you’re interested to know what design I’ve thought up.
 
-This right here! Is the ultimate vision of my personal outfit! ☆
+This right here! — is the ultimate vision of my personalized outfit! ☆
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -100,7 +100,7 @@ This right here! Is the ultimate vision of my personal outfit! ☆
 {% bubble Chiaki smilesoft %}
 I drew the design to make it visually understandable, but… It seems as though it had the opposite effect, huh?
 
-The head piece is a helmet covering the whole face. I took visibility into account, and made the face shield bigger.
+The head piece is a helmet which covers the whole face. I took visibility into account, so I made the face shield bigger.
 
 The part dangling from the neck is a scarf. It’s two meters long. Imagining it flowing in the wind fires up my heart…♪
 {% endbubble %}
@@ -112,7 +112,7 @@ Nobody will be able to see my face with the helmet on, and the scarf might get t
 {% endbubble %}
 
 {% bubble Chiaki smile %}
-Then what about the gears attached to both arms!? They glow in seven colors to the beat of the song! ☆
+Then what about the gears attached to both arms!? They glow in seven different colors to the beat of the song! ☆
 
 …It likely won’t be possible with the budget we have? Mm~…
 {% endbubble %}
@@ -120,7 +120,7 @@ Then what about the gears attached to both arms!? They glow in seven colors to t
 {% bubble Chiaki frown %}
 <th>(Well, this puts me in a bind… I didn’t think my design would get rejected, so I’m not sure where to go from here…)</th>
 
-<th>(But I’m an idol. And as an idol producer, she has got a point with her comments.)</th>
+<th>(But I’m just an idol — and I know she, as a producer, knows what she’s talking about.)</th>
 
 <th>(I suppose I’d best follow along here…)</th>
 {% endbubble %}
@@ -150,17 +150,17 @@ Hm, were the two of you in the middle of discussing outfit designs? Is this one 
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah, no. This is meant to be my personal outfit.
+Ah, no. This is meant to be my personalized outfit.
 {% endbubble %}
 
 {% bubble Hiiro nod %}
-Ooh, your individuality shines through. It truly feels like a special outfit of its own. I’m excited to see the final version.
+Ooh, your individuality really shines through. It truly feels like a special outfit of its own. I’m excited to see the final version.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-Thank you. But this is a rejected design. I was hoping for a hero-style outfit, but I found out it isn’t suitable for an idol…
+Thank you, but this is a rejected design. I was hoping for a hero-style outfit, but I found out it isn’t suitable for an idol…
 
-It isn’t easy to come up with outfit designs. I have to applaud Anzu for having made so many outfits thus far.
+It’s not easy to come up with outfit designs. I have to applaud Anzu for having made so many outfits thus far.
 {% endbubble %}
 
 {% bubble Hiiro serious %}
@@ -182,7 +182,7 @@ Hm… Martial artists also help those who are vulnerable. Are martial artists al
 {% bubble Chiaki northinking %}
 Hmm… You <em>could</em> call that a hero, but what I’m thinking of is a little different from that.
 
-But hmm, how do I convey that to you… It’s something you have to feel, rather than think…
+But hrm, how do I convey that to you… It’s something you have to feel, rather than think about…
 
 Oh, I know! Hero-kun, why don’t you and I go to an amusement park? Seeing is believing, after all! It’ll be easier to understand if you were to see it with your own two eyes.
 {% endbubble %}
@@ -212,7 +212,7 @@ Ahh… This is your very first time coming to an amusement park, Hero-kun?
 {% endbubble %}
 
 {% bubble Hiiro %}
-Mhm. But before coming here, I asked Aira to teach me all about it. Apparently, there are various kinds of games here. I’m interested in the one where you ride a horse.
+Mhm. I asked Aira to teach me all about it before visiting, though. Apparently, there are various kinds of games here. I’m interested in the one where you ride a horse.
 
 It’s been a while since I last went horseback riding. I thought that people in the city don’t ride horses, but it seems like I was wrong!
 {% endbubble %}
@@ -290,7 +290,7 @@ Fuhahahaha! ☆ Keep at it! Defeat never suits a hero!
 {% bubble Hiiro %}
 That was really interesting! So *that’s* what it means to be a hero!
 
-A person who never loses heart no matter the hardship — Who only grows stronger for someone’ sake… I see what you mean now; a hero and martial artist may have a few differences.
+A person who never loses heart no matter the hardship — Who only grows stronger for someone else’s sake… I see what you mean now about heroes and martial artists; they may have a few differences.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -388,7 +388,7 @@ Hm… Alright then. Let’s go, Anzu-san.
 {% bubble Chiaki sigh3 %}
 …They’re gone. Whew…
 
-<th>(I may not feel well, but it’s still so pathetic of me…)</th>
+<th>(I wasn’t lying about not feeling well, but it’s still so pathetic of me to stay behind…)</th>
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -396,15 +396,15 @@ Hm… Alright then. Let’s go, Anzu-san.
 
 Anzu… Why are you here…? Where’s Hero-kun?
 
-You told him to go to the haunted house alone? …You came back because you couldn’t leave me on my own, while I seem unwell?
+You told him to go to the haunted house alone? …You came back because you couldn’t leave me on my own when I seemed unwell?
 
 You even bought me cold water… Thank you.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-…Haha, I’m so pathetic. I’m making you take care of me even in times like this…
+…Haha, I’m so pathetic. I’m making you take care of me even nows…
 
-Even though I was hoping to give you a chance to rest and forget about work for a while…
+When this whole time, I was hoping to give *you* a chance to rest and forget about work for a while…
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -434,7 +434,7 @@ You became friends with <em>ghosts</em>…!? How is that even possible…!? Actu
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-Today may be coming to an end, but dreams can be seen over and over again. You can just come here with a friend next time!
+Today may be coming to an end, but dreams can be seen over and over again. You can just come back with a friend next time!
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -450,7 +450,7 @@ Mhm, take care of yourself. Anzu and I will wait for you here.
 
 …Hey, Anzu. I know I said to forget about work today, but… Could you lend me an ear for a moment?
 
-While watching the hero show, my personal outfit came to mind.
+While watching the hero show, my personalized outfit came to mind.
 
 A hero suit may be essential for a hero, but… It’s only an outfit, not the actual essence of a hero.
 {% endbubble %}
@@ -458,19 +458,19 @@ A hero suit may be essential for a hero, but… It’s only an outfit, not the a
 {% bubble Chiaki smilesoft %}
 What matters is the beliefs that heroes are born for. The true essence of a hero is the very flesh and bones where those beliefs reside.
 
-While the personal outfit is made for the idol, it’s also to make the fans happy.
+While the personalized outfit is made for the idol, it’s also to make the fans happy.
 
-So for the sake of everyone who cheers for me as well, I’d like an outfit design full of my charm both as an idol and a hero. That’s why—
+So for the sake of everyone who cheers for me as well, I’d like an outfit design full of my charm as both an idol and a hero. That’s why—
 
 Anzu. Could you and I think up a new outfit design from scratch?
 
-I’m knowledgeable about heroes, and you’ve always watched over idols. If we were to team up, we should be able to create the perfect outfit.
+I’m knowledgeable about heroes, and you’ve always watched over idols. If we were to team up, we should be able to create an incredible outfit.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
 …Thank you. I just <em>knew</em> you’d say that.
 
-With the two of us, I’m sure the outfit will turn out perfect. Let’s work hard together, partner…♪
+With the two of us, I’m sure it will turn out perfect. Let’s work hard together, partner…♪
 {% endbubble %}
 
 ## Chiaki Feature Scout Stories

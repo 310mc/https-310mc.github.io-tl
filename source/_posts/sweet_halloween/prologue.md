@@ -152,7 +152,7 @@ Ah! It’s fine, really~ I’ll pick them up myself!
 {% bubble Chiaki %}
 I can’t let that happen! Let me pick them up, please! I won’t be able to relax otherwise!
 
-If I remember clearly, you’re Shino-kun from Ra*bits… You’re Akehoshi’s favorite kid, right?
+If I remember correctly, you’re Shino-kun from Ra*bits… You’re Akehoshi’s favorite kid, right?
 
 If he finds out that I caused trouble for you, he may not speak to me for three months! Something like that has happened before!
 

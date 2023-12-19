@@ -312,7 +312,7 @@ Hm. I’m only asking out of curiosity, but who may you be referring to?
 
 You don’t have to tell me if it’s confidential, but — I feel like I’ve heard something like this before, so I’m sort of curious.
 
-If I remember clearly, he’s a famous idol who works solo, and goes by the name Hi… Hi-something[^1], wasn’t it…?
+If I remember correctly, he’s a famous idol who works solo, and goes by the name Hi… Hi-something[^1], wasn’t it…?
 {% endbubble %}
 
 {% bubble Subaru %}

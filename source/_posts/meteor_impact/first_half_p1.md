@@ -256,7 +256,7 @@ why would you be Happy about that?
 
 <th>(Shinkai Kanata… We’re in different classes, and I’ve never talked to him until now, so I don’t know much about him, but…)</th>
 
-<th>(If I remember clearly, he passed his entrance exam with flying colors. He even ranked as high as Itsuki Shu and Hibiki Wataru for certain subjects, or possibly even higher.)</th>
+<th>(If I remember correctly, he passed his entrance exam with flying colors. He even ranked as high as Itsuki Shu and Hibiki Wataru for certain subjects, or possibly even higher.)</th>
 
 <th>(That’s only a rumor, though. The entrance exam results have never actually been shown to the public.)</th>
 
@@ -424,7 +424,7 @@ chiaki… i… really, will—…
 {% bubble Chiaki mgn %}
 Hm? Shinkai-kun, did you call for me? Just give me a second longer!
 
-If I remember clearly, there was a jersey in the room for Ryuseitai — I’ll bring one over. It’s better to have a change of clothes, so!
+If I remember correctly, there was a jersey in the room for Ryuseitai — I’ll bring one over. It’s better to have a change of clothes, so!
 
 I think that jersey was left behind by the student who quit our unit the other day, so it should be okay to use it…
 

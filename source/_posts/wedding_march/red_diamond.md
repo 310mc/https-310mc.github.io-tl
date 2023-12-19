@@ -731,7 +731,7 @@ I do wish this crowd could fade away somehow. They keep appearing in the photogr
 {% endbubble %}
 
 {% bubble Tatsumi %}
-Hmm… If I remember clearly, our inn wasn’t that far away from here…
+Hmm… If I remember correctly, our inn wasn’t that far away from here…
 
 Shu-san, how about the two of us visit this area tomorrow in the early morning?
 {% endbubble %}
