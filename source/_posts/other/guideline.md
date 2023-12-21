@@ -55,6 +55,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
+            alt="Tough Guy"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Tough Guy (In Progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
             alt="Chiaki-related stories"
         />

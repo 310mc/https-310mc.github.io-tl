@@ -83,7 +83,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                          ryuseipuka
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/toughguy/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    We, the Rough and Tough 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -219,7 +219,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/toughguy/kuroorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 1
                                     </div>
                                 </div>
                             </div>
@@ -258,3 +258,17 @@ hidden: true
 <a href="#We-the-Rough-and-Tough-1">Ch 1</a> - <a href="#We-the-Rough-and-Tough-2">Ch 2</a> - <a href="#We-the-Rough-and-Tough-3">Ch 3</a> - <a href="#We-the-Rough-and-Tough-4">Ch 4</a> - <a href="#We-the-Rough-and-Tough-5">Ch 5</a> - <a href="#We-the-Rough-and-Tough-6">Ch 6</a> - <a href="#We-the-Rough-and-Tough-7">Ch 7</a> - <a href="#We-the-Rough-and-Tough-8">Ch 8</a> - <a href="#Epilogue-1">Ep 1</a> - <a href="#Epilogue-2">Ep 2</a> - <a href="#Epilogue-3">Ep 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## We, the Rough and Tough 1
+
+{% note narration %}
+Translation In Progress!
+{% endnote %}
+
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-A</span></p>
+</div>
+
+## Translation Notes

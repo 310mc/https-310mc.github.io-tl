@@ -66,7 +66,7 @@ This story is connected to the card [Substitute Attendant] Chiaki Morisawa.
 <link rel="stylesheet" href="/css/storylist.css">
 
 {% note narration %}
-**Translation Note:** The story title is the typical phrase a servant would say, but in Japanese, it's phrased how Chiaki would say it. Instead of *go-houshi shimasu* (polite, proper way to say it), it's *go-houshi suru zo* (how Chiaki typically speaks, which is informal and masculine).
+**Translation Note:** The story title is the typical phrase a servant would say, but in Japanese, it's phrased how Chiaki would say it. Instead of *go-houshi shimasu* (polite, formal way to say it), it's *go-houshi suru zo* (how Chiaki typically speaks, which is informal and masculine).
 {% endnote %}
 
 <div class="msr-season summer">
@@ -210,7 +210,7 @@ I’m sure that got you wide awake, didn’t it? I feel exhilarated, too! ☆
 {% bubble Tori yare %}
 You’re <em>so</em> energetic, this early in the morning…
 
-Yup, I don’t feel like falling back asleep at all.
+Yup, I don’t feel like falling back to sleep at all.
 {% endbubble %}
 
 {% bubble Tori %}
@@ -269,14 +269,14 @@ Microwave oven?
 …Ah! French fries~! ♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki grin %}
 It’s hard to tell different types of potatoes from one another, but since these ones were from Takamine Greengrocer, they’re guaranteed to be excellent-quality vegetables.
 
 And vegetables are extremely high in nutritional value! Eat as much as you like!
 {% endbubble %}
 
 {% bubble Tori blushjoy %}
-Yaaay! ♪ Yuzuru would probably make a disapproving look if he hears about this, but I don’t caaare!
+Yaaay! ♪ Yuzuru would probably make a disapproving look if he hears about this, but I don’t caaare~!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}

@@ -121,7 +121,7 @@ I asked him if he’s interested, so we’ll see what happens… It’s his life
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-I see. Well, I’m sure you’ll be just fine. You’re so full of talent that I’m almost jealous.
+I see. Well, I’m sure you’ll be just fine. You’re so full of talent that I’m almost envious.
 
 I mean, if *you* won’t become an idol, who else will? Good luck out there! If you’re ever in trouble, you can always count on me.
 {% endbubble %}
@@ -313,7 +313,7 @@ Weeell… That kid seriously loathes me, soo~
 
 I figured he can’t hate me any more than he already does. That’s why I tried calling him over and over again…
 
-But he just yelled at me for being annoying, and blocked my number.
+But he just yelled at me and said, “You’re so obnoxious!”, and blocked my number.
 {% endbubble %}
 
 {% bubble Kanata v2 %}

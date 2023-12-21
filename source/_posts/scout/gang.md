@@ -179,7 +179,7 @@ permalink: gang/
                                 Scout
                             </div>
                             <div class="value">
-                                Gang
+                                Scout! Gang
                             </div>
                         </div>
                         <div class="tab-item">
