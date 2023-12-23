@@ -181,7 +181,7 @@ Ehh~ Is that really true?
 <th>(I wasn’t really lying when I said there are no problems with my health… But should I really ignore his feelings and keep up the facade when he’s clearly worried about me…?)</th>
 {% endbubble %}
 
-{% bubble Subaru angry3 %}
+{% bubble Subaru glare %}
 *Staaare…*
 {% endbubble %}
 

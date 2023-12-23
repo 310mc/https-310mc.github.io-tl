@@ -523,7 +523,7 @@ Ooh?
 …Um. It’s not what you think, Subaru. This was all an accident. Please believe me.
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru scold %}
 Hey, guys… Come over here. Sally~ pushed Anzu down.
 {% endbubble %}
 

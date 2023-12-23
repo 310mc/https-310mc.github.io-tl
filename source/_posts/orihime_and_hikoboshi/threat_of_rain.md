@@ -256,7 +256,7 @@ Alright then. Let me introduce myself again: I'm the leader of Trickstar, Hidaka
 I'm the one with the highest position here, so I'll be leading these joint practice sessions.
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru scold %}
 Huh? Whaddya mean highest position? We're equals, aren't we?
 {% endbubble %}
 
@@ -448,7 +448,7 @@ Huh? Why are you asking me?
 You're always thinking about things, unlike Akehoshi, so knowing your opinion would be handy.
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru scold %}
 Hokke~, can’t you open your mouth *once* without picking a fight with me?
 {% endbubble %}
 
@@ -506,7 +506,7 @@ Still, does that mean you haven’t decided on what you'll do for the Tanabata F
 There’s not much time left… It's too late to prepare your performance plans or outfits, even.
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru scold %}
 Seriously! What were you guys doing? Were you just sleeping?
 {% endbubble %}
 
@@ -562,7 +562,7 @@ I acted like a proper idol — 'cause I *wanted* to become one.
 Isn’t that why we're all in this school?
 {% endbubble %}
 
-{% bubble Subaru angry3 %}
+{% bubble Subaru glare %}
 But these kids don't seem that way. I can’t stand it.
 
 That's right… Takamin, you took the idol course entrance exam by accident, right?
@@ -942,7 +942,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 
 {% img /img/es/eventstory/orihimeandhikoboshi/threat5_2.jpg %}
 
-{% bubble Subaru angry3 %}
+{% bubble Subaru glare %}
 Hey, Ryuseitai kids. We're gonna get distracted if you keep staring at us.
 {% endbubble %}
 
@@ -1354,7 +1354,7 @@ Isara-dono, you—
 …Mm. Never mind, it is nothing.
 {% endbubble %}
 
-{% bubble Mao smile3 %}
+{% bubble Mao smileconfident %}
 Hmm? Oh c’mon, now you’ve got me curious\~ If you have something to say, then you gotta say it, you little rascal\~♪
 {% endbubble %}
 
@@ -1362,7 +1362,7 @@ Hmm? Oh c’mon, now you’ve got me curious\~ If you have something to say, the
 Waa~! You caught me!
 {% endbubble %}
 
-{% bubble Mao smile3 %}
+{% bubble Mao smileconfident %}
 You better start saying it, you~! I'll punish you with tickles if you don't!
 {% endbubble %}
 
@@ -1456,7 +1456,7 @@ Everyone around me is shining so brightly, after all. I gotta keep working hard 
 Isara-dono! Look, look! It's the Milky Way! We can see it even when it isn't Tanabata yet, huh?
 {% endbubble %}
 
-{% bubble Mao smile3 %}
+{% bubble Mao smileconfident %}
 Ooh, you're right! It's so pretty… Ah, that reminds me — we might have cloudy weather on the day of Tanabata Festival, so we may not be able to see it then.
 
 That's why we should admire the scenery now as much as we can.

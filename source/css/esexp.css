@@ -994,12 +994,6 @@
 [character="Subaru"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_angry.png");
 }
-[character="Subaru"][angry2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_angry2.png");
-}
-[character="Subaru"][angry3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_angry3.png");
-}
 [character="Subaru"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_awkward.png");
 }
@@ -1011,6 +1005,9 @@
 }
 [character="Subaru"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_frownshake.png");
+}
+[character="Subaru"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_glare.png");
 }
 [character="Subaru"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_grin.png");
@@ -1036,6 +1033,9 @@
 [character="Subaru"][sad4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_sad4.png");
 }
+[character="Subaru"][scold] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_scold.png");
+}
 [character="Subaru"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_serious.png");
 }
@@ -1044,6 +1044,9 @@
 }
 [character="Subaru"][sideeye] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_sideeye.png");
+}
+[character="Subaru"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_sigh.png");
 }
 [character="Subaru"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_smileconfident.png");
@@ -1103,6 +1106,9 @@
 [character="Mao"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_grin.png");
 }
+[character="Mao"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_norsmile.png");
+}
 [character="Mao"][sad] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_sad.png");
 }
@@ -1115,8 +1121,11 @@
 [character="Mao"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_sigh.png");
 }
-[character="Mao"][smile3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_smile3.png");
+[character="Mao"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_smileconfident.png");
+}
+[character="Mao"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_smilesoft2.png");
 }
 [character="Mao"][surprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_surprised.png");
@@ -1536,6 +1545,56 @@
 
 [character="Souma"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/soumapast_cg.png");
+}
+/**
+***/
+
+/** Kuro Expressions
+***/
+[character="Kuro"][angry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_angry.png");
+}
+[character="Kuro"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_curious.png");
+}
+[character="Kuro"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_frown.png");
+}
+[character="Kuro"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_glare.png");
+}
+[character="Kuro"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_grin.png");
+}
+[character="Kuro"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_norsmile.png");
+}
+[character="Kuro"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_serious.png");
+}
+[character="Kuro"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_shocked.png");
+}
+[character="Kuro"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_sigh.png");
+}
+[character="Kuro"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_smileconfident.png");
+}
+[character="Kuro"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_smilesoft.png");
+}
+[character="Kuro"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_smilesoft2.png");
+}
+[character="Kuro"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_worried.png");
+}
+[character="Kuro"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_yare.png");
+}
+[character="Kuro"][v2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro.png");
 }
 /**
 ***/

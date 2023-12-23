@@ -276,7 +276,7 @@ Okay, have you decided on what you want? I’ll call over a waiter! Excuse meee!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy2_2.jpg %}
 
-{% bubble Subaru angry3 %}
+{% bubble Subaru glare %}
 You're always so, so energetic… Seriously, what did you wanna talk about?
 {% endbubble %}
 

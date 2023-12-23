@@ -659,7 +659,7 @@ Whenever I had trouble with something, or had hit a wall, you were always there 
 It made me so happy. Something so normal, so natural and mundane… It was sparkling bright to me. I’ve never properly expressed my gratitude, so… Thank you, Isara-dono.[^8]
 {% endbubble %}
 
-{% bubble Mao smile3 %}
+{% bubble Mao smileconfident %}
 …You don't have to thank me. It really was something so normal, anyone could do it.
 
 More importantly, you need to keep yourself together. You’re starting to sound like these are your last words.
@@ -673,7 +673,7 @@ Okay. You are always carrying many burdens on your shoulders… So, in order to 
 It is a ninja's duty to come back alive! So I will do my very best! Ninjas and heroes never give up!
 {% endbubble %}
 
-{% bubble Mao smile3 %}
+{% bubble Mao smileconfident %}
 Oooh… Your stamina's at zero, y’know? You shouldn’t jump about! But man, that's still amazing. Kids sure do bounce back quickly~♪
 {% endbubble %}
 
