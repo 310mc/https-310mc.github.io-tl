@@ -1554,6 +1554,9 @@
 [character="Kuro"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_angry.png");
 }
+[character="Kuro"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_awkward.png");
+}
 [character="Kuro"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kuro_curious.png");
 }

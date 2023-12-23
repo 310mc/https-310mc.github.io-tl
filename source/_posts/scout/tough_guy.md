@@ -421,7 +421,7 @@ But Morisawa-senpai, those filming locations you go to are just for tokusatsu sh
 {% endbubble %}
 
 {% bubble Chiaki %}
-There are tokusatsu shows set in a school, too.[^]
+There are tokusatsu shows set in a school, too.
 
 But as you’ve pointed out, I’m not really sure if I can give the right advice… I may have experience as a stuntman, but I’m no actor.
 
@@ -495,13 +495,13 @@ That was so forceful, it felt like a traffic accident…! I thought I was going 
 {% endbubble %}
 
 {% bubble Kuro v2 %}
-Mm~… My bad, Morisawa. I was actin’ out one of those “cliche school drama scenes” based on Tetsu’s advice.
+Mm~… My bad, Morisawa. I was actin’ out one of those “cliche school drama” scenes based on Tetsu’s advice.
 {% endbubble %}
 
 {% img /img/es/scoutstory/toughguy/2_2.jpg %}
 
 {% bubble Tetora fist %}
-Kuuuh\~! That was awesome, Taishou![^] It was so exhilarating to watch\~!! That’s totally how it is in school dramas!
+Kuuuh\~! That was awesome, Taishou![^2] It was so exhilarating to watch\~!! That’s totally how it is in school dramas!
 
 Running with toast in your mouth while saying “I’m gonna be late~♪” is a classic trope…☆
 {% endbubble %}
@@ -535,7 +535,7 @@ Uh, no, I’m not trynna do that at all.
 {% endbubble %}
 
 {% bubble Tetora sigh2 %}
-Sorry, Taichou.[^] I tried to rake up my brain with anythin’ I know of school dramas, and give advice to Taishou…
+Sorry, Taichou.[^3] I tried to rake up my brain with anythin’ I know of school dramas, and give advice to Taishou…
 
 But I don’t watch dramas at all, so I don’t really know how it goes.
 
@@ -671,7 +671,7 @@ Mhm! I’d be glad to rely on you! Isara can do everything, after all! ☆
 {% bubble Mao frown %}
 I can’t do everything~ I’m just a little dexterous, is all…
 
-But it’s only Kiryu-senpai that’s appearing in the school drama, right? So why are you also in gakuran, Buchou?[^]
+But it’s only Kiryu-senpai that’s appearing in the school drama, right? So why are you also in gakuran, Buchou?[^4]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -707,7 +707,7 @@ I’ve been wanting to say this for a while, but could you <em>not</em> let Daik
 
 Lately I’ve been seeing other dogs on campus, maybe ‘cause they’re Daikichi’s friends or something…
 
-But it’s been a real problem for us at the Student Council; in the worst case, he might get caught and taken to the animal care center, y’know?[^]
+But it’s been a real problem for us at the Student Council; in the worst case, he might get caught and taken to the health department, y’know?[^5]
 
 Anyway, that aside… Didn’t you have something you wanted to say to Buchou?
 {% endbubble %}
@@ -905,3 +905,7 @@ Translation In Progress! 4/11 Chapters
 ## Translation Notes
 
 [^1]: Gakuran is the black-colored student uniforms that come with a high collar for boys. Information on <a href="https://en.wikipedia.org/wiki/School_uniforms_in_Japan#Gakuran" target="_blank">gakuran uniforms</a>.
+[^2]: Taishou (大将) is how Tetora calls Kuro. It means “chief” or “boss”.
+[^3]: Taichou refers to leader (sometimes translated as Captain). It literally means “Commander”.
+[^4]: Buchou refers to “club captain”.
+[^5]: For a story about this for Daikichi, see <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a>.
