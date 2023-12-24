@@ -297,6 +297,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Gacha Stories
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
+                alt="Tough Guy"
+            />
+        </div>
+        <a href="/tough_guy" class="storyName" target="_blank">
+            <span>Tough Guy</span>
+            <span class="read"></span>
+        </a>
+    </div>
     <!--<div class="story">
         <div class="image">
             <img

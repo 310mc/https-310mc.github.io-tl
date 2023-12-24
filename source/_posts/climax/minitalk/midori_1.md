@@ -229,7 +229,7 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
         I might've just been imagining it anyway…
         {% endbubble %}
         {% bubble Midori idle %}
-        …I'd rather keep this for myself for now.
+        …I'd rather keep this to myself for now.
 				{% endbubble %}
 			</div>
         </div>

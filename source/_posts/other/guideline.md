@@ -55,18 +55,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
-            alt="Tough Guy"
-        />
-    </div>
-    <a href="/tough_guy" class="storyName" target="_blank">
-        <span>Tough Guy (In Progress!)</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="image">
-        <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
             alt="Chiaki-related stories"
         />
@@ -129,6 +117,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
+            alt="Tough Guy"
+        />
+    </div>
+    <a href="/tough_guy" class="storyName" target="_blank">
+        <span>Tough Guy</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="image">
         <img

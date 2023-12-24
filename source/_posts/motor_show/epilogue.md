@@ -301,7 +301,7 @@ instead, they are working hard to do whatever they [can], as [best] as they can.
 {% endbubble %}
 
 {% bubble Chiaki %}
-I-I see… I’m glad to hear that. Actually, n[A-Za-z] — [A-Za-z] knew deep down this would happen.
+I-I see… I’m glad to hear that. Actually, no — I knew deep down this would happen.
 
 Nagumo is already a hundred times more splendid a hero than when I first became a leader.
 
@@ -309,7 +309,7 @@ He’s still inexperienced, so his earnest side wound up also being his weakness
 
 But now that he’s grown, he’ll become the hope, inspiration, and role model for any kid who’s suffering similarly within this warped society.
 
-Actually, let me amend that — he’ll become the one to rescue them. A hero's duty is to save others, but most of all — Becoming this symbol is what makes the present day Ryusei Red undoubtedly a hero.
+Actually, let me amend that: he’ll become the one to *rescue* them. A hero's duty is to save others, but most of all — Becoming this symbol is what makes the present day Ryusei Red undoubtedly a hero.
 
 I can tell that I made the right choice when I chose him to take after “red” in my place.
 {% endbubble %}
@@ -325,7 +325,7 @@ now then, with that said… let’s go join everyone else.
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Huh? Erm, bu[A-Za-z] — [A-Za-z]’m just a regular ol’ visitor, y’know!?
+Huh? Erm, but — I’m just a regular ol’ visitor, y’know!?
 
 And I just happened to end up here! I shouldn’t get in the way of their work when they’re focused, right!?
 {% endbubble %}

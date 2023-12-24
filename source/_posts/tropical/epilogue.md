@@ -260,7 +260,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 {% bubble Chiaki smilesoft2 %}
 <th>(But personally, I’m very much enjoying the current Ryuseitai.)</th>
 
-<th>(Our unit had been pushed around by problems called by adults, yet now, the four of them get to do whatever they like. How could I ever be against that? ♪)</th>
+<th>(The four of them had been pushed around by problems called by adults, yet now, all four of them get to do whatever they like. How could I ever be against that? ♪)</th>
 
 “……♪”
 {% endbubble %}

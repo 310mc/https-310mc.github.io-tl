@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Tough Guy"
-date: 2023-12-23 9:00:00
+date: 2023-12-25 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]
@@ -224,7 +224,144 @@ permalink: tough_guy/
                             </div>
                         </div>
                     </div>                
+                <div class="story-cards">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Associated Cards</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="cards">
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/toughguy/kurocard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/toughguy/kurobcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed">Keep at it, you bastard!<!--TBA--></div>
+                                            <div class="bloomed">I won't go back on my past anymore.<!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Manly Back] Kuro Kiryu</div>
+                                    <div class="card__jp">[漢の背中］鬼龍 紅郎</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Former Vestiges<!--かつての面影--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Cheering General<!--大将の応援--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/toughguy/chiakicard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/toughguy/chiakibcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed">Scars are a man's medals!<!--TBA--></div>
+                                            <div class="bloomed">Are you drenched with the sweat of youth!?<!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Fist of Youth] Chiaki Morisawa</div>
+                                    <div class="card__jp">[青春の拳］守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Ball-spinning<!--ボール回し--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Cheerleader<!--応援団長--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/toughguy/midoricard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/toughguy/midoribcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed">It's depressing from the early morning...!<!--TBA--></div>
+                                            <div class="bloomed">(If I work hard, I'll get to finish this up quickly...)<!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Morning's Cheer] Midori Takamine</div>
+                                    <div class="card__jp">[朝の発声］高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Thoughtfully Earnest<!--思惑の本気--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Huge Embarrassment<!--最大の羞恥心--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/scoutstory/toughguy/tetoracard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/scoutstory/toughguy/tetorabcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed">I'll cheer for Taishou with all I've got!<!--TBA--></div>
+                                            <div class="bloomed">I've got your back, Taishou!<!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Cheering Flag] Tetora Nagumo</div>
+                                    <div class="card__jp">[応援旗］南雲 鉄虎</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Admired Back<!--憧れの背中--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Loud Cheer<!--大きな声援--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+            </div>
                 <div class="chapter-area">
                 <div class="chapters">
                     <ul>
@@ -745,7 +882,7 @@ Mm? I don’t really mind; it isn’t like it can’t be used as a ball anymore,
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-If anything, wounds are medals! Ah, you’ve become so manly, my sweet ball! Theeere, there, there~♪
+If anything, scars are medals! Ah, you’ve become so manly, my sweet ball! Theeere, there, there~♪
 {% endbubble %}
 
 {% img /img/es/scoutstory/toughguy/chiakiorigcg.jpg %}
@@ -871,7 +1008,7 @@ I believe you two are the most suitable as judges.
 {% bubble Chiaki smileconfident %}
 Mm? What’s wrong, Isara? Why’re you staring at me?
 
-Heheh… You’ll burn if you fall for me, y’know?
+Heheh… You’ll get burnt if you fall for me, y’know?
 {% endbubble %}
 
 {% bubble Mao curious %}
@@ -966,7 +1103,7 @@ Mm. Still, wearing the uniform will surely boost your confidence while acting.
 Like when saying *“Transform!”* — Changing into the costume gets you pumped up! ☆
 {% endbubble %}
 
-{% bubble Kuro nod2 %}
+{% bubble Kuro nod %}
 Yeah? You always look like you’re enjoyin’ yourself — I’m kinda envious of ya. I’m not poking fun at you here; I’m pretty serious when I say that.
 
 Anyway, well… I’m relieved to know the gakuran suits me.
@@ -988,7 +1125,7 @@ I had no clue what a school drama’d be like… But now that I’m wearing the 
 It makes me wonder if this is a sorta youth I coulda had.
 {% endbubble %}
 
-{% bubble Kuro nod2 %}
+{% bubble Kuro nod %}
 Having a peaceful, great time with friends of common interests… That sorta thing doesn’t sound so bad, either.
 
 Anyways. The director of the school drama said I fit the image perfectly, apparently…
@@ -1327,7 +1464,7 @@ Is this a common thing in Ryuseitai or something… Well, I guess I’m not one 
 {% endbubble %}
 
 {% bubble Tetora angry %}
-Mm~ This is tricky. It’s chill for us since we aren’t actually gonna perform in the drama…
+Mm~ This is tricky. It’s chill for us since we’re not actually gonna perform in the drama…
 
 But Taisho’s got an actual acting job to do, yeah…?
 {% endbubble %}
@@ -1428,9 +1565,429 @@ But the more difficult the mission, the more it fires me up! This is starting to
 Mm~… Well, I guess everyone’s got something they’re not cut out for, don’t they?
 {% endbubble %}
 
-{% note narration %}
-Translation In Progress! 8/11 Chapters
-{% endnote %}
+## Epilogue 1
+
+<div class="msr-location">
+    <p><span><b>Location:</b> School Gate</span></p>
+</div>
+
+{% img /img/es/scoutstory/toughguy/kuroorigcg.jpg %}
+
+{% bubble Kuro angry %}
+Go\~, go\~! Let’s go\~! You’ve got this! Don’t lose now…!
+
+Keep at it, you bastard! You <em>gotta</em> win this! We’re cheering you on…!
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Good, you’re doing great, Kiryu! That’s the spirit! Keep it up! I’m cheering for you; you’ve got this, cheerleader! You’ve definitely got this…☆
+{% endbubble %}
+
+{% bubble Tetora %}
+G-Go, goo\~! Let’s gooo\~! TA-I-SHOOOO!!
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Ooh! You’ve got this too, Nagumo; keep it up! ♪ I <em>know</em> you can yell louder! Shout as loud as you can from your very gut!
+
+You can do it, you’re still so young! Always keep your head held high until your final breath…☆
+{% endbubble %}
+
+{% bubble Tetora sad2 %}
+<em><th>(Belches)</th></em> G-Guh—… S-Sorry, Taichou, I’m this close to hurling out somethin’ other than my voice from exhaustion… Could I take a break for a li’l bit…?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Mm? Alright then — you should never push yourself too hard, after all! Go and rest!
+
+Takamine ran out of gas earlier, so feel free to take a break next to him over there, while the two of you watch over our figures…☆
+{% endbubble %}
+
+{% bubble Tetora sad2 %}
+O-Ossu… If you’ll ‘scuse me, then. I’m real sorry for running outta steam…
+
+M-Midori-kuun~…? You still alive?
+{% endbubble %}
+
+{% bubble Midori sigh %}
+Barely…
+{% endbubble %}
+
+{% bubble Tetora %}
+Whew, I was worried for a sec there ‘cuz you weren’t moving at all. …How’re those two seniors so energetic~?
+{% endbubble %}
+
+{% bubble Midori frownshake %}
+I have no idea… Uuu, I’m so exhausted…
+
+We ended up practicing from the moment classes ended yesterday until the next morning, without getting any real sleep…
+
+We only had a small nap before we started practicing again… I don’t get them at all…?
+{% endbubble %}
+
+{% bubble Tetora frown %}
+Guess they plan to practice as much as they can ‘til classes start. I’ve got the stamina to keep going too, but I feel like my mental strength gave out on me.
+
+I’m so tired\~ So sleepy\~…
+{% endbubble %}
+
+{% bubble Midori frownshake %}
+Yeah… And Isara-senpai and Akehoshi-senpai went back home ‘cause they couldn’t stay around for any longer…
+
+Well, I guess someone had to escort Anzu-san back home, though…
+
+I wanted to go home with them too, but I completely missed my chance to join them…
+{% endbubble %}
+
+{% bubble Midori glare %}
+Don’t go home, Tetora-kun… I might seriously lose it if I’m left here all by myself…
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+Ossu. You don’t have to worry — If we die, we die together.
+{% endbubble %}
+
+{% bubble Tetora angry %}
+But also, we can’t just go home before our seniors do, can we? That’s how it works for us sporty guys.[^11] Ossu!
+{% endbubble %}
+
+{% bubble Midori sigh %}
+You’re so admirable, Tetora-kun…
+
+Didn’t they say we could go home…? The only reason I didn’t is ‘cause I’m too scared to walk back home at night all alone…
+{% endbubble %}
+
+{% bubble Tetora curious %}
+Isn’t your home nearby, Midori-kun? You coulda just told me, I would’ve gladly walked you home~ You don’t have to hold back from asking that sorta thing, ‘kay?
+{% endbubble %}
+
+{% bubble Tetora nod %}
+Anyway, since this is all for Taisho’s sake… It doesn’t feel like a burden at all~ I do feel a li’l bad I couldn’t be much help to him, though…♪
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+But I feel like it’s paying off… And acting is kinda fun, actually…♪
+
+Being part of Ryuseitai allows me to experience a lot of different things, huh…?
+
+I don’t ever challenge myself to try new things, so…
+{% endbubble %}
+
+{% bubble Midori smirk %}
+I think I kinda appreciate being dragged around and forced to do all sorts of things…?
+{% endbubble %}
+
+{% bubble Midori nod2 %}
+Don’t tell Morisawa-senpai, though… He’ll get way too ahead of himself…♪
+{% endbubble %}
+
+{% bubble Tetora grin2 %}
+Ahaha. I get how you feel, Midori-kun.
+
+Personally, I wasn’t real keen ‘bout joining Ryuseitai at first. I wanted to be in the same unit as Taisho, in Akatsuki.
+
+But, well… Home is where you make it, right~? ♪
+{% endbubble %}
+
+{% img /img/es/scoutstory/toughguy/ep1_1.jpg %}
+
+{% bubble Chiaki grin %}
+Nagumo! Takamine! If you have enough energy to talk, then stand back up! It’s time for our rehearsal! Aren’t you both boys!? You should yell as hard as you can to the sun!
+
+It’s a brand new daaaaaaaaaay!! ☆
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+…That guy’s for sure getting hyper from the lack of sleep. He’s attracting attention from all the students arriving at school, and it’s real embarrassing.
+{% endbubble %}
+
+{% bubble Midori frown %}
+It makes you not wanna be like that, right…
+{% endbubble %}
+
+{% bubble Midori curious %}
+Still, isn’t this a good way to practice acting, since everyone’s watching…?
+
+You don’t feel as nervous anymore when it’s only in front of people you’re close to… But for the actual shooting of the drama, you’d mostly be around strangers, yeah…?
+
+So maybe he’s trying to get Kiryu-senpai used to giving his all no matter the setting…?
+
+Morisawa-senpai does use his head a little, doesn’t he… I remember him doing something similar to me when I first joined Ryuseitai…
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+And Kiryu-senpai’s finally putting way more force into his voice, now that he’s getting accustomed to it… It’s pretty amazing… I guess he has more lung capacity ‘cause of his built body…?
+{% endbubble %}
+
+{% bubble Tetora fist %}
+Yeah, Taisho is <em>that</em> amazing.
+
+He was a li’l slow yesterday ‘cuz it was his first time acting, but now, it’s like he’s already mastered it…♪
+
+I expect nothin’ less from Taisho! I’m gonna accompany him~ Midori-kun, you come along too! ☆
+{% endbubble %}
+
+{% bubble Midori sigh2 %}
+Yeah, yeah… Don’t drag me along with you — you’re really starting to resemble Morisawa-senpai, aren’t you, Tetora-kun…?
+
+Ah\~h, man\~ What am I doing so early in the morning\~? I just <em>had</em> to join such a lousy unit, huh…?
+{% endbubble %}
+
+{% bubble Tetora nod %}
+Ahaha. Hang in there a li’l longer, Midori-kun. Taisho should perfect his cheerleader role soon enough.
+
+That’s when this stupid-looking acting practice’ll come to an end~
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+<th>(………)</th>
+
+<th>(Right, it’s only for “a little longer”.)</th>
+
+<th>(There’s not even a half year left until our seniors graduate, so… I can only do these kinds of activities with the current Ryuseitai for a little longer.)</th>
+
+<th>(While those two yell at the top of their lungs in front of the school gate, like idiots…)</th>
+
+<th>(It makes me wonder, will Tetora-kun and I also be able to become seniors powerful enough to startle our juniors?)</th>
+{% endbubble %}
+
+{% bubble Tetora %}
+What’s wrong, Midori-kun? You can keep resting if you’re still tired~♪
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Mm~. Nah, I’ll also work hard.
+{% endbubble %}
+
+{% bubble Tetora grin2 %}
+Ooh, it’s rare for you to be so motivated! It’s reassuring to see, Midori-kun! ☆
+
+Heh-heh. It’s frustrating that we’re the only ones having a rough time, so let’s drag Sengoku-kun and Shinkai-senpai into this when they show up to school~♪
+{% endbubble %}
+
+{% bubble Midori nod2 %}
+Yeah, that’s true… After all, the five of us together make Ryuseitai, right…? ♪
+{% endbubble %}
+
+## Epilogue 2
+
+{% bubble Chiaki curious %}
+Mm? Takamine, Nagumo — Both of you seem to be in a good mood, huh?
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Wonderful, just wonderful! Energy is what youngsters are supposed to have! ♪
+{% endbubble %}
+
+{% bubble Midori v2 %}
+You’re so obnoxious… You’re not young anymore, Senpai, and you’re being really overbearing, so how about you cut your energy down by half…?
+{% endbubble %}
+
+{% bubble Chiaki smug3 %}
+What did you say~!? I’m still bursting with youth and energy! Tokusatsu shows are said to be for children, but they still make me burst into tears! My heart is always like a new-born!
+
+You’re so cheeky, Takamine\~! You little rascal, you\~♪
+{% endbubble %}
+
+{% bubble Midori worried %}
+Ughh… Please stop clinging to me all casually, you’re so suffocating…
+
+Huh? There’s a girl walking towards us…?
+{% endbubble %}
+
+{% bubble Tetora northinking %}
+Mm? Do you mean Anzu-Anego?
+{% endbubble %}
+
+{% bubble Midori curious %}
+No… I think it’s a little kid…
+{% endbubble %}
+
+{% bubble Tetora %}
+Mm~? Ahh—! Isn’t that Taisho’s li’l sis?
+
+Taisho shows me photos of her all the time, so I recognize her face.
+{% endbubble %}
+
+{% bubble Kuro angry %}
+Wait, what? Ooh, it seriously is her… Why’d she come to my school?
+{% endbubble %}
+
+{% bubble Tetora %}
+Hm~ We stayed the night at school instead of going home… Maybe she was worried ‘bout Taisho?
+{% endbubble %}
+
+{% bubble Kuro v2 %}
+Huh, but I’d already contacted her in advance. She ain’t the type to get worried over her big bro not comin’ home, either.
+
+I mean, there was a time I messaged her every fifteen minutes askin’ stuff like, “Did you take a bath?”, “Did you brush your teeth?”, “Make sure you sleep early, alright?” —
+
+Only for her to reply with “You’re seriously annoying (\*\^\_\^\*)” and block me, y’know?
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+Taisho, you love your li’l sis <em>way</em> too much… I dunno, even *I’d* find that annoying.
+{% endbubble %}
+
+{% bubble Kuro angry %}
+I don’t see a problem with it… —Yo, what’s wrong? If you’re worried about me, I’m doing grea—
+{% endbubble %}
+
+{% bubble Kuro surprised %}
+…Gfuh!?
+{% endbubble %}
+
+{% bubble Tetora surprised %}
+Ooh!? She did a flying spin kick at you! She managed to hit you right on your neck, despite the size difference! That’s amazing! ☆
+
+She’s so strong! She really is Taisho’s li’l sis! I feel like I wouldn’t be able to beat her in a real fight…?
+{% endbubble %}
+
+{% bubble Kuro grin %}
+Haha. She’s a real tomboy, is why.
+
+What’s up? It’s not often for you to come all the way to my school; you got somethin’ urgent to tell me? You always seemed too reluctant to even call me on the phone, so what happened…?
+
+Huh? What’s with this big ol’ envelope?
+{% endbubble %}
+
+{% bubble Chiaki %}
+Ooh! These papers must be the script and details for the school drama you’ll be appearing in, Kiryu!
+
+Your little sister came all the way just to deliver that!? How admirable of her! There, there, there~♪
+{% endbubble %}
+
+{% bubble Kuro glare %}
+Morisawa, don’t you <em>dare</em> touch my li’l sis. I’ll kill you.
+{% endbubble %}
+
+{% bubble Chiaki surprised0 %}
+Eek— Your eyes are serious!? No, um, whenever I see kids, I can’t help myself from acting as I would while performing a hero show, so, y’know…?[^12]
+{% endbubble %}
+
+{% bubble Kuro serious %}
+Hmph. Ahh, right, I told my family that I got a request to appear in a school drama too, ‘cuz I wanted their advice a li’l.
+
+You remembered that I mentioned it, so the moment you saw these documents delivered to our home… you came here as fast as you could just to give it to me?
+{% endbubble %}
+
+{% bubble Kuro nod %}
+Thanks a bunch! You really are my pride and joy li’l sister…! Theeere, there, there~☆
+{% endbubble %}
+
+{% bubble Tetora surprised %}
+Uwah, Taisho’s saying somethin’ suuuper Taichou-like…
+{% endbubble %}
+
+{% bubble Tetora smile2 %}
+But wow, she came all the way here just to give you the documents… She’s so kind\~ Taisho’s li’l sis is as amazing as you’d expect\~♪
+{% endbubble %}
+
+## Epilogue 3
+
+{% bubble Tetora %}
+…Mm— What’s up, Taisho’s li’l sis? I’m Nagumo Tetora! I’m always under your Onii-chan’s care~♪
+{% endbubble %}
+
+{% bubble Tetora fist %}
+Mhm, your Onii-chan’s a strong, kind senior who’s adored by everyone. I respect him too! He’s the man among men that everyone admires~♪
+{% endbubble %}
+
+{% bubble Kuro surprised %}
+Gfuh—!?
+{% endbubble %}
+
+{% bubble Tetora surprised %}
+Whaa—!? Taisho got punched by his li’l sis for some reason!? She got him good! It was a perfect hit to a vital point!
+
+Did I say somethin’ to upset her…?
+{% endbubble %}
+
+{% bubble Kuro awkward %}
+Hm… She probably felt embarrassed hearin’ her big bro get complimented, I think.
+
+See, I decided to join Yumenosaki for vague reasons, just ‘cuz this girl here really admires idols.
+{% endbubble %}
+
+{% bubble Kuro sad3 %}
+I was at my wit’s end during the entrance exam prep days…
+
+A lot had happened back then, and even our mom had passed away… So I practically lost all hope, and used my own sister as an excuse to abandon everythin’ and run away.
+
+Back then, I was such an immature good-for-nothin’ who’d hurt everyone around him.
+
+So, she probably felt responsible for all’a that, thinkin’ my messed up life decisions were her fault… She doesn’t need to feel that way for even a second, but she’s got a strong sense of duty, y’see.
+{% endbubble %}
+
+{% bubble Kuro smilesoft2 %}
+I’m doing fine, so don’t worry about me. I think it’s pretty plain and clear to see that I’m havin’ a blast here. There’s no need for you to be anxious over any of this.
+
+In fact, I’m pretty grateful for you.
+
+Thanks for everything. I’m livin’ the best youth of my life in this school…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Uu, Taisho! I had no idea you thought of us— thought of the days you spent <em>with</em> us like that…! It’s an honor! I’m so moved…☆
+{% endbubble %}
+
+{% bubble Midori worried %}
+Umm… I’m <em>really</em> sorry for not reading the room, but… There’s something that’s bothering me about what’s written in the documents…?
+
+If I’m not reading wrong because I’m half-asleep, I think Kiryu-senpai’s name is next to the <em>teacher</em> role…?
+{% endbubble %}
+
+{% bubble Kuro curious %}
+…Hah?
+
+Woah, it’s true. Ah~… Right, just ‘cuz it’s a school drama doesn’t mean only kids exist in it. There’d obviously be adults, too.
+
+It finally all makes sense. I knew somethin’ was off about me bein’ casted as a student.
+
+So all along, the director requested for my appearance ‘cuz I perfectly suited the <em>teacher</em> role…?
+{% endbubble %}
+
+{% bubble Tetora surprised %}
+Eh? Ehhh~!? If Taisho’s actually playing the teacher role, then what ‘bout all the cheerleader practicing we did for hours on end since yesterday…?
+{% endbubble %}
+
+{% bubble Kuro serious %}
+It didn’t have much point to it, I guess — but it didn’t go to waste either. I feel more accustomed to getting my voice out.
+
+Ah, but, now that I read my parts, I don’t seem to talk much in my role…?
+
+Actually, I’m probably not even supposed to talk loudly at all. Seems like I can just act as my usual self for the part?
+{% endbubble %}
+
+{% bubble Kuro frown %}
+Ahh~… Uh, my bad, guys.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+No need to apologize! But I see now! Oh well, we can’t do anything about it, can we! We all make careless mistakes sometimes! Fuhahahaha! ☆
+
+We just need to pull ourselves together and do a special training course for the teacher role instead!
+
+Naturally, I’ll accompany you until the very end, Kiryu! And so will the rest of Ryuseitai, of course! Isn’t that right, my comrades…☆
+{% endbubble %}
+
+{% bubble Midori sigh %}
+Sorry, I just felt my heart shatter into a million pieces from all our wasted effort… I’m so depressed, I wanna die…
+{% endbubble %}
+
+{% bubble Tetora fist %}
+Cheer up, Midori-kun! There’s no such thing as wasted effort! Right, Taisho!?
+{% endbubble %}
+
+{% bubble Kuro norsmile %}
+Yeah, it’s as Tetsu says. But I also feel like all my energy’s out… Haha, what the <em>hell</em>. Sheesh, we look like a bunch’a idiots…♪
+{% endbubble %}
+
+{% bubble Kuro smilesoft2 %}
+On the bright side, we noticed the mistake pretty quickly.  …Thanks for bringin’ these documents to me.
+
+As you can see, I’m livin’ an insanely ridiculous life out here…♪
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
@@ -1439,12 +1996,14 @@ Translation In Progress! 8/11 Chapters
 ## Translation Notes
 
 [^1]: Gakuran is the black-colored student uniforms that come with a high collar for boys. Information on <a href="https://en.wikipedia.org/wiki/School_uniforms_in_Japan#Gakuran" target="_blank">gakuran uniforms</a>.
-[^2]: Taisho (大将) is how Tetora calls Kuro. It means “chief” or “boss”.
-[^3]: Taichou refers to leader (sometimes translated as Captain). It literally means “Commander”.
-[^4]: Buchou refers to “club captain”.
+[^2]: Taisho (<em>Taishou</em>, 大将) is how Tetora calls Kuro. It means “chief”, “boss”, “general”.
+[^3]: Taichou is a title that refers to leader (sometimes translated as Captain). It literally means “Commander”.
+[^4]: Buchou is a title to refer to “club captain”.
 [^5]: For a story about this for Daikichi, see <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a>
-[^6]: Referring to <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Ouendan</a>. An example of <a href="https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan" target="_blank">a ouendan-themed game</a> that has the characters dress similarly to this gacha's outfits (both unbloomed and bloomed).
-[^7]: Kuro is referring to things like the headbands around Chiaki and Kuro.
-[^8]: In Japanese, Tetora talks in polite speech with <em>-ssu</em>. TBA
-[^9]: In Japanese, Shinobu ends most of his sentences with <em>degozaru</em>. TBA
+[^6]: Referring to <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Ouendan</a>. This is an example of <a href="https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan" target="_blank">an ouendan-themed game</a> that has the characters dress similarly to this gacha's outfits (both unbloomed and bloomed).
+[^7]: Kuro is referring to the extra parts like the headbands around Chiaki and Kuro.
+[^8]: In Japanese, Tetora's speech quirk is ending his sentences with <em>-ssu</em>, which is typically a speech quirk for a henchman character speaking politely and with respect to his superiors. So in Japanese, he accidentally added <em>-ssu</em> to his line.
+[^9]: In Japanese, Shinobu's speech quirk is talking in a ninja-like fashion. The most notable one is ending most of his sentences with <em>de-gozaru</em>, which is typically a speech quirk used by ninja characters in stories. In Japanese, Midori points out that Shinobu accidentally says <em>de-gozaru</em> when singing.
 [^10]: Regarding <a href="https://en.wikipedia.org/wiki/Tsuki" target="_blank">Karate's straight punches</a>.
+[^11]: In Japan, sports teams have a hierarchical system, so upperclassmen are always respected no matter what.
+[^12]: Hero shows are skit-like performances aimed at children, typically consisting of a tokusatsu hero in costume fighting a villain. Chiaki enjoys holding such hero shows with Ryuseitai or by himself for kids.
