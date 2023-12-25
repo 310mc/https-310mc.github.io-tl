@@ -659,7 +659,7 @@ Here you go — “Tropical Island Troppeys” are a group of soft animals, such
 
 All they do is eat fruits from the island and relax all day, every day.
 
-They made all sorts of merchandising, even stationary and other utilities intended for kids, and I had always used them in the past.
+They made all sorts of merchandising, even stationery and other utilities intended for kids, and I had always used them in the past.
 {% endbubble %}
 
 {% bubble Midori sigh5 %}
@@ -921,7 +921,7 @@ There was a cartoon for them too, wasn’t there…? The episodes were just five
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-I know them, as well. I used to have “Tropical Island Troppeys”-themed stationary when I was young.
+I know them, as well. I used to have “Tropical Island Troppeys”-themed stationery when I was young.
 
 They were even selling merchandise of them near Midori-kun’s home. I bought a few with Tetora-kun when we came by his home.
 {% endbubble %}

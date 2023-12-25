@@ -498,7 +498,7 @@ The next job we have to do in Ryuseitai is the hero show that we regularly do at
 
 But are we doing something school-based this time…? You never mentioned this before…?
 
-If we’re gonna perform on some school campus, then a mascot character based on stationary… or something else that matches a school, might be a nice idea… Is it possible to make one, Anzu-san…?
+If we’re gonna perform on some school campus, then a mascot character based on stationery… or something else that matches a school, might be a nice idea… Is it possible to make one, Anzu-san…?
 {% endbubble %}
 
 {% bubble Midori blushsquint %}
@@ -895,7 +895,7 @@ Ahh~! Don’t touch it! I put so much effort into shining that ball sparkly clea
 It’s <em>my</em> ball. It’s up to me whether I want to touch it, hug it, or eat it! Spin, spin~♪
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Anyway, that’s why I couldn’t show up to the club today. Sorry, you two.
 
 You see, I owe Kiryu for something in the past… He has my utmost gratitude for it, so I’m really touched that he’s relying on me this time.
@@ -1359,7 +1359,7 @@ No matter! I thank you all for your valuable comments!
 You’re up next, Takamine! It’s time you try it out…☆
 {% endbubble %}
 
-{% bubble Midori shocked %}
+{% bubble Midori worried %}
 Eh? Uuu…? B-But I’m not mentally prepared…
 {% endbubble %}
 
@@ -1576,7 +1576,7 @@ Mm~… Well, I guess everyone’s got something they’re not cut out for, don�
 {% bubble Kuro angry %}
 Go\~, go\~! Let’s go\~! You’ve got this! Don’t lose now…!
 
-Keep at it, you bastard! You <em>gotta</em> win this! We’re cheering you on…!
+Keep at it, you bastard! You <em>gotta</em> win this! We’re cheerin’ you on…!
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -1851,10 +1851,10 @@ What’s up? It’s not often for you to come all the way to my school; you got 
 Huh? What’s with this big ol’ envelope?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Ooh! These papers must be the script and details for the school drama you’ll be appearing in, Kiryu!
 
-Your little sister came all the way just to deliver that!? How admirable of her! There, there, there~♪
+Your little sister came all the way just to deliver that!? How admirable of her! Theeere, there, there~♪
 {% endbubble %}
 
 {% bubble Kuro glare %}
@@ -2003,7 +2003,7 @@ As you can see, I’m livin’ an insanely ridiculous life out here…♪
 [^6]: Referring to <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Ouendan</a>. This is an example of <a href="https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan" target="_blank">an ouendan-themed game</a> that has the characters dress similarly to this gacha's outfits (both unbloomed and bloomed).
 [^7]: Kuro is referring to the extra parts like the headbands around Chiaki and Kuro.
 [^8]: In Japanese, Tetora's speech quirk is ending his sentences with <em>-ssu</em>, which is typically a speech quirk for a henchman character speaking politely and with respect to his superiors. So in Japanese, he accidentally added <em>-ssu</em> to his line.
-[^9]: In Japanese, Shinobu's speech quirk is talking in a ninja-like fashion. The most notable one is ending most of his sentences with <em>de-gozaru</em>, which is typically a speech quirk used by ninja characters in stories. In Japanese, Midori points out that Shinobu accidentally says <em>de-gozaru</em> when singing.
+[^9]: In Japanese, Shinobu's speech quirk is talking in a ninja-like fashion. The most notable one is ending most of his sentences with <em>de-gozaru</em>, which is typically a speech quirk used by ninjas in stories. In Japanese, Midori points out that Shinobu accidentally says <em>de-gozaru</em> when singing.
 [^10]: Regarding <a href="https://en.wikipedia.org/wiki/Tsuki" target="_blank">Karate's straight punches</a>.
 [^11]: In Japan, sports teams have a hierarchical system, so upperclassmen are always respected no matter what.
 [^12]: Hero shows are skit-like performances aimed at children, typically consisting of a tokusatsu hero in costume fighting a villain. Chiaki enjoys holding such hero shows with Ryuseitai or by himself for kids.
