@@ -257,7 +257,7 @@ Here, here! ♪ The real dolphin’s even softer, y'know! Dolphins raise their o
 <th>(he is still just as pushy as he has always been, though.)</th>
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 <th>(like how he was this time… i did not even ask him to, yet he came all the way over to [help] me… gosh, he is so strange.)</th>
 {% endbubble %}
 
@@ -473,7 +473,7 @@ So your most important duty in aaall of this is to meet that need. That would do
 We have long lives ahead of us, so you can take your time thinking about what to do after this.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 acting like you know any better… just how long do you plan to [meddle] with my affairs like you are my [guardian]?
 
 well… i suppose i can [understand] what you are trying to say. i am sorry that things always end up this way… mama.
@@ -499,7 +499,7 @@ He could be the most brilliant hero ever, but he would still be unable to do any
 The hardest thing for him is probably when he can only sit by and watch what happens.
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 yes, i know… i do hope for a day when i can [tell] him all about it…
 
 but it is still too difficult to do that right now. ryuseitai is finally [shining] in the [ideal] way chiaki has dreamed of.

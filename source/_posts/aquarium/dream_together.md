@@ -469,7 +469,7 @@ and since souma is a [good boy], he cannot be [cold-hearted] to someone who trea
 Ohh, I see. Mikejima-kun has peculiar taste, doesn’t he? It feels like he’s always involving himself with the strange kids.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 it is because that [rogue] has always liked [old-fashioned] things, and souma likely [excites] him for that reason.
 {% endbubble %}
 
@@ -665,7 +665,7 @@ if it were still me from the past, then after getting locked up in the [water ta
 and cooling my head down with some [thinking]… i would have just thought it did not [matter] anymore.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 my household also probably thought that by [punishing] me, i would [regret] my actions, and be a [good boy].
 
 and actually, when i was [all alone] inside that water tank…

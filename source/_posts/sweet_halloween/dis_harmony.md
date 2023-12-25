@@ -322,7 +322,7 @@ the [running grounds] is your territory [ground], and the [fountain] is my terri
 I don’t remember eeever agreeing to something like that, though? If I couldn’t come over to this side, I wouldn’t be able to reach the shoe rack ooor the school gate! I wouldn’t be able to go home!
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 then take a [detour] and go *all* the way around to avoid the [fountain].
 
 anyway, *you* would not get [injured] even if you were [barefoot], so you would not need to go all the way around just to change your [shoes].
@@ -472,7 +472,7 @@ Aaanyway, you guys are gonna be at the meeting too, so let’s all go there toge
 Although, you need to dry up first, Kanata-san. I can lend you a towel if you come with us to the clubroom~
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 mm… we are going to work [with] the rogue? it feels like it will only be a ruckus.
 
 well… i suppose that lately i do not [dislike] things being [rowdy], anyway.

@@ -363,7 +363,7 @@ I shouldn’t have tried! I should’ve just had a nice date with a girl! I wast
 Ahh, I’m so irritated! How about I pull off that stray hair of yours, huh!?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 …if you pull this off, i will [die]. please do not.
 {% endbubble %}
 
@@ -465,7 +465,7 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
 
 {% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 ahh, i thought so… hey! stop giving [food] to the [dolphins] as you please, okay?
 {% endbubble %}
 
@@ -475,7 +475,7 @@ Ooh? I was wondering who that was! So it’s you, Kanata-san! I missed youuu!
 Come, come, come! I’ll give you some of their food too~♪
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 hmm… i love [fish], but if i were to eat it [raw], it would hurt my [stomach].
 
 you need to at least prepare it and make it into [sashimi] first.

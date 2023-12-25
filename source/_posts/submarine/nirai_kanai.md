@@ -721,7 +721,7 @@ i am not a Ghost~ chiaki would Hate me if i was.
 S-Shinkai-dono——
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 souma… so it really was you. the “so” in “souma” stood for “so noisy” all along, i see.
 {% endbubble %}
 
@@ -991,7 +991,7 @@ Ah, um, okay. I guess the blame is once again on me for this too, huh.
 But this is something to do with you personally, so I can't just go around spreading stories about it on my own, can I?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 well, that is true. i was also afraid that if i told the truth, you would all hate me — that is why i could not Tell you all about it in detail.
 {% endbubble %}
 
@@ -1017,7 +1017,7 @@ Fufu, perhaps it comes from a feeling of trust that you would laugh it off and f
 Besides, you should reflect on yourself before blaming others, Shinkai. Do your Ryuseitai juniors really seem the type to become disillusioned by learning about your past?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 i do not want to be Lectured by you, but…
 
 while i understand the Feeling of only wanting to show the Best parts of yourself, and never wanting the version of you before Transformation to be seen…
@@ -1357,7 +1357,7 @@ no. what it means is that he must Kill.[^4]
 K-Ki…!?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 that is why… souma must have been Distraught, thinking that i had returned to being a God. after all, now that i am a Human being—
 
 he has been unable to carry out his Duty to “slice god into pieces”. because it is not a Human being that he should slice, but God.

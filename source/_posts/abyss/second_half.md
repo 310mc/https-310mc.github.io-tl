@@ -1166,7 +1166,7 @@ let’s say all of that to [him]. souma is [honest], so he will surely be happy.
 Hell no. It frustrates me… I can’t <em>believe</em> the hatchling that fainted from my punch became a waaay more outstanding hero than me — the hero I yearn to be.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 gosh… mikejima is the [opposite] of souma. you are not [honest] at all… you never have been — since a looong time ago.
 {% endbubble %}
 

@@ -434,10 +434,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_ehe.png");
 }
 [character="Kanata"][frown] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown.png");
-}
-[character="Kanata"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown2.png");
+}
+[character="Kanata"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frownshake.png");
 }
 [character="Kanata"][glare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_glare.png");

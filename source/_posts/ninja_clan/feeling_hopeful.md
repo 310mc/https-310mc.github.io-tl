@@ -251,7 +251,7 @@ Mhm, then the solution is simple. You’ll just need to show off those charms to
 …? What does that mean?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 gosh… chiaki expresses things in such a [roundabout] way.
 {% endbubble %}
 

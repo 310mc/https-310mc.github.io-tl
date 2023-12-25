@@ -79,7 +79,7 @@ there are [notices] about it, but there are still some [guests] with bad [manner
 and they are throwing [litter] around while visiting this neighboring [ocean], yes?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 it is absolutely inexcusable. the ocean has an [auto-purification] system, but humans dirty it [much more] than it can handle.
 
 leaving behind all these things that cannot decompose, like [plastics], [vinyls], [bottles], [toxic waste]…
@@ -137,7 +137,7 @@ chiaki told me all about them.
 well… you see, i often watch [tokusatsu shows] with everyone in ryuseitai, so i have become very [knowledgeable] of these things.
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 i find them a bit [hard] to watch, though…
 
 because, no matter what i do, i [empathize] more with the [villain]… with the [monster].[^1]
@@ -155,7 +155,7 @@ then those [monsters] would have had value in [existing], as well.
 it is a little too [rough]~ please do it a little [softer], like how a [mother] would.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 ah, no, i have not met my [mother] that often… it is simply the [image] i have of one.
 
 yes, my [mother] is very [pretty]. but she is also a little [scary].

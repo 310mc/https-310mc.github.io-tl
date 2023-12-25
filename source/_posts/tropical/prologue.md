@@ -229,7 +229,7 @@ In hindsight… When the public was informed that Ryuseitai split into M and N[^
 But I was so caught up by the hero tradition, that I never once considered it at the time. I need to learn to do better…
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 chiaki always wants to [learn] to do [better]~… it is honestly a bother.
 {% endbubble %}
 
@@ -237,7 +237,7 @@ chiaki always wants to [learn] to do [better]~… it is honestly a bother.
 Wha—!? Where did I go wrong, Kanata!?
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 do you see what i mean…?
 {% endbubble %}
 

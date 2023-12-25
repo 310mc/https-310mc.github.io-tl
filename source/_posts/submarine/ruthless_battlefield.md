@@ -571,7 +571,7 @@ fufufu, that is because everyone in ryuseitai are Good kids~♪
 Ahhh! Do not let such frustration build up inside of you, Shinkai-dono! Here, eat the seafood I cannot consume!
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 the one who is Stressing me out the most is you, souma. you traitor… you deserve death for your treachery…
 {% endbubble %}
 

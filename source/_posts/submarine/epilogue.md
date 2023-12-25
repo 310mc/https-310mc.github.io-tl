@@ -188,7 +188,7 @@ Does that mean I usually look like a bumbling idiot!?
 Whaa…!? Don't take what I say in the wrong way! Why do you guys keep doing that these days!?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 yes, it is sad, isn’t it? i do not recall having brought you up to Behave this way, you know~?
 
 but it cannot be helped. after all, this is likely to be a Rebellious phase that came a little late.

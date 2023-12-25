@@ -205,7 +205,7 @@ Wh— Why’s it turning out this way…? Please don’t fight…
 Y-Yes, exactly! Ryuseitai is already in the worst possible position as it is! If a crack opens up even between us—
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 yes… that would be the [end] of everything.
 
 the ryuseitai that we love would come to an [end] here.

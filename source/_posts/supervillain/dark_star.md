@@ -794,7 +794,7 @@ And when I talked to Tenshouin, the verified head-manager of the current StarPro
 I’ll ask Tenshouin to investigate as much as he can within his authority, and if he comes up with nothing, then it proves that there really *is* nothing to those rumors.
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 uu~… all these things about [rules] and [procedures]… it is a difficult [topic], isn’t it?
 {% endbubble %}
 
@@ -816,7 +816,7 @@ I’m not young anymore… Achieving anything through impulse alone only works u
 My point is, the online news about Nagumo leaving Ryuseitai and creating a new group called “RB” is likely a downright lie without any basis whatsoever.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 that is what is called [fake news], yes? we have been constantly suffering from such reports since [summer].
 {% endbubble %}
 
@@ -1257,7 +1257,7 @@ Well, to be more specific — with today’s technology, people can easily edit 
 Something is definitely going down in Okinawa.
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 well, we already knew since [yesterday] that something is going on there. but it sounds much more alarming than we first expected, yes?
 {% endbubble %}
 
@@ -1265,7 +1265,7 @@ well, we already knew since [yesterday] that something is going on there. but it
 Yeah. It seems that the upper management of the agency is just as perplexed about this matter, and I’ve had numerous inquiries coming in since this morning, asking us what’s going on with Ryuseitai.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata frown %}
 *we* are the ones who want to ask that, you know~?
 {% endbubble %}
 
