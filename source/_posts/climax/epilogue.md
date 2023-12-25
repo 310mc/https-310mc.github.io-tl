@@ -903,12 +903,6 @@ Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line![^2]
 
 {% img /img/es/eventstory/climax/midoribcg.jpg %}
 
-<!--<audio controls>
-  <source src="/img/es/eventstory/climax/midoribcg.ogg" type="audio/ogg">
-  <source src="/img/es/eventstory/climax/midoribcg.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>-->
-
 {% bubble Midori smileconfident %}
 Shut it.
 

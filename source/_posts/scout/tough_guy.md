@@ -1488,7 +1488,7 @@ Right, I’m gonna try actin’ now. Watch me closely and give me your thoughts.
 
 <th>(Makes me wonder if the school drama director also thought highly ‘bout this part of Taisho…♪)</th>
 
-………..
+…………
 {% endbubble %}
 
 {% bubble Tetora curious %}

@@ -284,8 +284,8 @@ permalink: senpai_turned_into_a_dog/
 
 {% img /img/es/scoutstory/zodiac/1.jpg %}
 
-{% bubble Midori %}
-<th>(*Sigh*… I’m sooo depressed… I wanna die…)</th>
+{% bubble Midori sad4 %}
+<th>(<em>Sigh…</em> I’m sooo depressed~… I wanna die…)</th>
 
 <th>(Everything feels so exhausting… Both physically and mentally… I want something soothing… Like Anzu-san’s mascot characters, or Master Artist’s drawings… Or even a calming event where you get to play with small animals…)</th>
 
@@ -294,13 +294,17 @@ permalink: senpai_turned_into_a_dog/
 <th>(They’re all just doing whatever interests them, so maybe they don’t have to worry about it so much…)</th>
 
 <th>(I still can’t completely reach that mindset… I need some kind of reward…)</th>
+{% endbubble %}
 
+{% bubble Midori frown %}
 <th>(Well… I’m starting to enjoy doing things with Ryuseitai… But it uses up all of my energy and willpower…)</th>
 
 <th>(I don’t have the motivation to do anything else afterwards… So I end up putting off all the annoying stuff I don’t wanna do by telling myself I’ll do it tomorrow…)</th>
 
 <th>(Then that day comes and I wonder why I didn’t work on it just a little bit every day… That’s the situation I’m in right now…)</th>
+{% endbubble %}
 
+{% bubble Midori sad2 %}
 <th>(Ughhh… I was supposed to carry a bunch of vegetables to the school’s cafeteria every day… But I started skipping out on it 'cause it’s such a pain, and my parents got mad at me for it…)</th>
 
 <th>(Now I have to spend half of my entire day just carrying all the boxes of vegetables that piled up…)</th>
@@ -314,7 +318,7 @@ permalink: senpai_turned_into_a_dog/
 
 {% img /img/es/scoutstory/zodiac/2.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 <th>(…Hm? I think I hear some drumming sounds from the gym…)</th>
 
 <th>(I’m pretty sure the Basketball Club has today off, though…)</th>
@@ -330,27 +334,35 @@ permalink: senpai_turned_into_a_dog/
 
 {% img /img/es/scoutstory/zodiac/3.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 <th>(Hmm…? Huh? There’s no one here…)</th>
 
 <th>(But I thought I heard some dribbling going on a second ago…)</th>
 
 <th>(Did I just imagine it…? I mean, that kinda sound lingers in your ears…)</th>
+{% endbubble %}
 
-<th>(Hrrnn… But there’s a ball and a uniform lying on the floor for some reason…)</th>
+{% bubble Midori curious %}
+<th>(Mm… But there’s a ball and a uniform lying on the floor for some reason…)</th>
 
 <th>(Someone must have been doing some solo practice ‘til a second ago…)</th>
 
-<th>(Hmmm… The number on the uniform is four… Which means this is Morisawa-senpai’s, I guess… But he’s not really the type to just go home without tidying up after himself…)</th>
+<th>(Hmm~… The number on the uniform is four…)</th>
+
+<th>(Which means this is Morisawa-senpai’s, I guess… But he’s not really the type to just go home without tidying up after himself…)</th>
 
 <th>(Maybe he just went to the bathroom…?)</th>
+{% endbubble %}
 
+{% bubble Midori surprised %}
 …Eeek!!
 
-Wha—Huh? What just…? A-A dog?
+Wha— Huh? What just…? A-A dog?
 
-<th>(A dog just came right out of the uniform!?)</th>
+<th>(A dog came right out of the uniform!?)</th>
+{% endbubble %}
 
+{% bubble Midori horrified %}
 Eeek…! W-What’s with this dog…? Don’t come near me…
 
 I’m fine with fictional mascots, but real dogs are alive and can move around—I don’t know how to deal with them…!!
@@ -358,37 +370,51 @@ I’m fine with fictional mascots, but real dogs are alive and can move around�
 Don’t mooove… Don’t get cuddly with me, I’m not your owner…
 
 <th>(What do I do now…? And whose dog *is* this… I feel like I’ve seen it before… Maybe I should check for a collar…)</th>
+{% endbubble %}
 
+{% bubble Midori worried %}
 Eeek!! I’m sorry, did I tickle you? Please don’t make a weird noise…
 
-<th>(Ughh… Now that I think about it, I’ve been seeing a lot of dogs around school…)</th>
+<th>(Uuu… Now that I think about it, I’ve been seeing a lot of dogs around school…)</th>
 
 <th>(I kinda remember an announcement saying not to feed the dogs, 'cause if it gets any worse than it already is, they’ll have to get rid of them by calling over the health department…)</th>
 
 <th>(Sengoku-kun said something like that in one of the lunchtime broadcasts…)</th>
+{% endbubble %}
 
+{% bubble Midori surprised %}
 <th>(Eeep!!)</th>
 
 W-What is it, doggie…? You’ve got something in your mouth…… Are you… giving that to me…?
+{% endbubble %}
 
-Ooooh\~ Getting a gift from a small animal makes me feel like I’m in a fairytale\~♪
+{% bubble Midori grin %}
+Oooh\~ Getting a gift from a small animal makes me feel like I’m in a fairytale\~♪
 
 Hmm… This is some student’s notebook… Their handwriting is all cluttered and doesn’t stay on the lines… Whose is this…?
+{% endbubble %}
 
-Wha—This is Morisawa-senpai’s notebook…?
+{% bubble Midori worried %}
+Wha— This is Morisawa-senpai’s notebook…?
 
-<th>(Umm, what…? Why did it give this to me… Now it’s looking at me with a straight face for some reason…)</th>
+<th>(Umm, what…? Why did it give this to me… Now it’s looking at me with a serious look on its face for some reason…)</th>
 
 <th>(I-Is it trying to tell me something…?)</th>
+{% endbubble %}
 
+{% bubble Midori awkward %}
 Ummm… Are you telling me to give this notebook to its rightful owner…?
 
-Eeek—I-I’m wrong? Don’t bark, okay…?
+Eeek— I-I’m wrong? Don’t bark, okay…?
 
 <th>(I don’t get what it’s trying to tell me… It’s starting to hit its paws on the photo of Morisawa-senpai…)</th>
+{% endbubble %}
 
+{% bubble Midori nod %}
 <th>(Yeah yeah, get ‘im\~ Punch him real good\~♪)</th>
+{% endbubble %}
 
+{% bubble Midori curious %}
 <th>(No wait, this isn’t the time… It really *is* trying to tell me something…)</th>
 
 <th>(I know stuff about plants and vegetables, but I don’t really know what an animal could be saying…)</th>
@@ -396,10 +422,12 @@ Eeek—I-I’m wrong? Don’t bark, okay…?
 
 ## Chapter 2
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 <th>(Hm… The doggie slipped into Morisawa-senpai’s uniform and started playing with the ball… Looks like it’s having fun…)</th>
+{% endbubble %}
 
-<th>(It kinda reminds me of someone I know… Wait—Could it be…?)</th>
+{% bubble Midori worried %}
+<th>(It kinda reminds me of someone I know… Wait— Could it be…?)</th>
 
 Um… I honestly doubt it, but… are you Senpai…?
 
@@ -408,7 +436,9 @@ Ahhh—! Please don’t bark! Was that a “yes”…?
 No way… That kind of magic doesn’t exist in real life… Then again, a book I borrowed from the library had a story like that…
 
 But… Ehhh…? Ughh… I guess it *could* exist…?
+{% endbubble %}
 
+{% bubble Midori curious %}
 Um… Tell me if I’m right, okay…?
 
 Morisawa-senpai, did you transform into a dog…?
@@ -420,8 +450,8 @@ Morisawa-senpai, did you transform into a dog…?
 Hey! What are you doing here!?
 {% endbubble %}
 
-{% bubble Midori %}
-—Eeeeee!?
+{% bubble Midori surprised %}
+—Fweeeh!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -430,15 +460,15 @@ There are going to be exam students here for a meeting this afternoon, so the gy
 If you’re here to help out with preparations then be my guest, but if you’re not, then leave immediately! Otherwise, you’ll only be getting in the way!
 {% endbubble %}
 
-{% bubble Midori %}
-Ah—Uuu…?
+{% bubble Midori sad4 %}
+Ah— Uuu…?
 {% endbubble %}
 
 {% bubble Keito %}
-Hm? Is that you, Takamine? You’re from Ryuseitai, right? What’s wrong? Why are you just standing there? Where’s your captain, Morisawa?
+Hm? Is that you, Takamine? You’re from Ryuseitai, right? What’s wrong? Why are you just standing there? Where’s your club captain, Morisawa?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 U-Um… I—Uh…
 
 <th>(W-W-W-What do I do!? The Vice President is here…! I’m scared!!)</th>
@@ -456,7 +486,7 @@ U-Um… I—Uh…
 …? What are you hiding in your clothes?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori horrified %}
 Huh? Uh, um, nothing…?
 
 <th>(Crap… I just stuffed doggie-senpai into my cardigan without thinking…)</th>
@@ -469,10 +499,12 @@ Umm, I ate way too much and gained weight! So, uh, my belly’s gotten bigger…
 {% bubble Keito %}
 …You’re going to get sick if you don’t take better care of your health.
 
-Well, it doesn’t matter. You’re an honest kid, and you didn’t really do anything wrong, so just put the ball back in its place along with the uniform and go home.
+Well, it doesn’t matter. You’re an honest kid, and you didn’t really do anything wrong…
+
+So just put the ball back in its place along with the uniform and go home.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori awkward %}
 Y-Yes! Understood…!
 {% endbubble %}
 
@@ -488,7 +520,7 @@ There’s a member in your club who owns a dog, right? Probably leaves him aroun
 So if you find his dog, keep it safe. Otherwise it’ll be swept away with the rest.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 <th>(Wha…? The health department is coming…? No, this is awful timing! They’ll euthanize doggie-senpai if they find him…!?)</th>
 
 <th>(That’s just too much…… I have to save him…)</th>
@@ -502,7 +534,7 @@ E-Excuse me! I’m going home now!
 Ah—Hold it! Hey!! You didn’t clean up after yourself!!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 I-I’m not the one who left them lying around…! Please excuse me, sorry!!
 {% endbubble %}
 
@@ -512,27 +544,35 @@ I-I’m not the one who left them lying around…! Please excuse me, sorry!!
 
 {% img /img/es/scoutstory/zodiac/5.jpg %}
 
-{% bubble Midori %}
-*Huff… Huff…* That was exhausting… It feels like it’s been ages since I ran that hard…
+{% bubble Midori cry3 %}
+*Huff… Huff…* That was exhausting~… It feels like it’s been ages since I ran that hard…
 
-<th>(I think I should be fine here… He wouldn’t chase after me, right…?)</th>
+<th>(I think I should be fine here… The vice president wouldn’t chase after me, right…?)</th>
+{% endbubble %}
 
-<th>(T-That was a ridiculously heroic rescue scene just now… And I didn’t even save a heroine or anything, it was just a dog… This whole situation’s so weird…… Ughhh, what am I gonna do now…?)</th>
+{% bubble Midori sigh %}
+<th>(T-That was a ridiculously heroic rescue scene just now…)</th>
+
+<th>(And I didn’t even save a heroine or anything, it was just a dog… This whole situation’s so weird…… Ughhh, what am I gonna do now…?)</th>
 
 Hm…? What’s wrong, doggie-senpai…?
 
 You sound like you’re whining… Are you… worried about me…?
+{% endbubble %}
 
+{% bubble Midori awkward %}
 You’re always like this… Even though you’re the one who should be feeling weird here, after turning… transforming…? into a dog…
 
 You’re always, always worrying and fussing over other people all the time…
+{% endbubble %}
 
+{% bubble Midori sad4 %}
 That’s why I think it’d be terrible if something bad happened to you… Um, like… I can’t put it in words well, but… It just wouldn’t be fair…
 {% endbubble %}
 
 ## Chapter 3
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 It’ll be okay… I’ll do something about this, so don’t worry… For now, I’ll keep you safe at my house until the health department’s gone…
 
 I’ll also ask Shinkai-senpai or Anzu-san for some help… Shinkai-senpai seems like he’d be pretty good with weird stuff like this…
@@ -542,19 +582,25 @@ I’ll do something about this and turn you back to normal…
 
 {% img /img/es/scoutstory/zodiac/6.jpg %}
 
-{% bubble Midori %}
+{% bubble Midori smilesoft2 %}
 Back to your silly, peaceful daily life…
 
 So don’t look so anxious… Everything will be okay… There, there…♪
+{% endbubble %}
 
-Eee—Ahaha… Please don’t lick me just 'cause you’re a dog now… The moment I remember it’s actually you in there, it starts to feel really gross…♪
+{% bubble Midori awkward %}
+Uhya— Ahaha… Please don’t lick me just 'cause you’re a dog now… The moment I remember it’s actually Morisawa-senpai in there, it starts to feel really gross…♪
+{% endbubble %}
 
-Hehe, I’m feeling hungry after running all the way here… It’s noon by now, so it’s time for some lunch anyway…
+{% bubble Midori smile %}
+Heheh, I’m feeling hungry after running all the way here… It’s noon by now, so it’s time for some lunch anyway…
 
 You’ll have eggplants for lunch, Morisawa-senpai… Just kidding~♪
 
 I’m kidding, I’m kidding… You hate eggplants, after all…
+{% endbubble %}
 
+{% bubble Midori curious %}
 <th>(…? Huh…? Doggie-senpai is happily sniffing the eggplant… and licking it…?)</th>
 
 <th>(That’s weird… He always freezes up at the sight of eggplants…)</th>
@@ -566,7 +612,7 @@ I’m kidding, I’m kidding… You hate eggplants, after all…
 Yooo, Takamin! Yahoo, yahoo, yahoo~! ☆
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori surprised %}
 Aaah!! Huh!? Akehoshi-senpai…?
 
 Welcome~ Are you here to buy something for lunch?
@@ -580,7 +626,7 @@ Ahhh, no no! Takamin, you took care of Daikichi for me, right?
 The Vice Prez said something like that at the gym!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori curious %}
 Huh…?
 {% endbubble %}
 
@@ -588,7 +634,7 @@ Huh…?
 Ah, there you are, Daikichi! Come over here\~! Your owner’s here to pick you up\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori serious %}
 Daikichi… Ahh, that was the name of your pet dog, wasn’t it…? So he’s yours, then…?
 {% endbubble %}
 
@@ -598,7 +644,7 @@ Yep! His name’s Daikichi! It’s a good name with a good omen to it!
 Wait, have you never seen him before?
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori sad4 %}
 *Sigh*… Um, so this dog really *isn’t* Morisawa-senpai…?
 {% endbubble %}
 
@@ -614,7 +660,7 @@ The place looked *really* bad, so I had to go and get the mop and dust cloth!
 By the time I got back, I heard you’d taken him away, so I had to come all the way here for him!
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 B-But he had Morisawa-senpai’s notebook and uniform for some reason…
 {% endbubble %}
 
@@ -628,11 +674,11 @@ He’s a clever dog, so he tends to bring back stuff to its owner~
 Takamin, you smell like Chi~chan-senpai, so he must’ve thought it was yours.
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori worried %}
 I smell like that guy…? N-no……
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru nod %}
 Well, don’t you? Since he’s always hugging you!
 
 A dog’s sense of smell is two million times stronger than a human’s… Wait, or was it just twenty thousand? Well, basically he can identify even the faintest smell!
@@ -642,11 +688,13 @@ Anyway! Chi~chan-senpai’s mopping up the gym right now, and I wanna go help hi
 ……Thanks for taking care of Daikichi, Takamin. Actually no, you *saved* him~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori frown %}
 No, I didn’t really do anything… I just misunderstood what was going on and started running all around for no reason…
 
 Gahh, I feel like a dumbass… This is so embarrassing, I just wanna die already…
+{% endbubble %}
 
+{% bubble Midori curious %}
 Eh, Wha—? What is it, umm… Daikichi-kun, I think? Please don’t rub against me…
 {% endbubble %}
 
@@ -654,11 +702,13 @@ Eh, Wha—? What is it, umm… Daikichi-kun, I think? Please don’t rub against
 Ahaha\~ Daikichi’s also saying thank you\~♪
 {% endbubble %}
 
-{% bubble Midori %}
+{% bubble Midori awkward %}
 No, no… There’s not really anything to thank me for…
 
 Well, whatever… I did something really embarrassing, but… it would’ve been awful if he was taken away and euthanized…
+{% endbubble %}
 
+{% bubble Midori smilesoft2 %}
 In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what's number one…♪[^1]
 {% endbubble %}
 
@@ -668,4 +718,5 @@ In the end, the most important thing is that nothing bad happened… No, actuall
 </div>
 
 ## Translation Notes
+
 [^1]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 event story). As an extra note, the SS story was released alongside this scout story, just a day after.

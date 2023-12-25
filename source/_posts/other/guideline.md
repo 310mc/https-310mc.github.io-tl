@@ -120,6 +120,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/dailylifebasketball/c2.jpg"
+            alt="Daily Life of Basketball Club"
+        />
+    </div>
+    <a href="/daily_life_of_basketball_club" class="storyName" target="_blank">
+        <span>Daily Life of Basketball Club</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
             alt="Tough Guy"
         />
