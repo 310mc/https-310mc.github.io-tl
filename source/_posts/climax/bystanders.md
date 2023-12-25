@@ -58,6 +58,12 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /climax/anxiety_and_silence,, arrow-left, Previous Chapter: Anxiety and Silence %}
+{% btn /climax,, star, Index %}
+{% btn /climax/tears_of_shooting_stars,, arrow-right, Next Chapter: Tears of Shooting Stars %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">
@@ -70,13 +76,13 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 Huh~ So you’re gonna be some sorta multi-talented entertainer after graduation, Moricchi?
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki %}
 I’m not sure what to call it exactly, but I’m mainly going to be performing idol activities. Fortunately, there are a lot of people in the industry want to get in touch with me.
 
 I’m going to be packed with work as soon as spring starts.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki grin2 %}
 But I just can’t bring myself to abandon the dream I’ve had since I was young…
 
 So I’d love to play the role of a hero in a tokusatsu show as well, and even appear in an educational program to inspire children.
@@ -86,14 +92,14 @@ Thanks to Tenshouin doing the best he can for me, I think I’ll have a good sta
 Although, I’m not yet capable of expanding myself to accomplish so much, and on top of that, to succeed in every single thing I try.
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru grin %}
 It’ll be fine, won’t it? Hard work should be rewarded, right? If people like you can’t make their dreams come true—
 
 If *you* can’t be happy, then people like me are screwed~♪
 {% endbubble %}
 
-{% bubble Chiaki glare %}
-What’s that supposed to mean…? What are you going to do after graduation, Hakaze? Did you actually give it any thought?
+{% bubble Chiaki serious %}
+What’s *that* supposed to mean…? What are you going to do after graduation, Hakaze? Did you actually give it any thought?
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
@@ -109,7 +115,7 @@ They told me that if I don’t succeed even after putting in the effort, I shoul
 
 And then, I should take over the Hakaze family business. I mean, I’m thankful that they have a backup plan prepared for me, but…
 
-I didn’t really *ask* for their help… So maybe I feel this way ‘cause I’m in a rebellious phase of some sort…?
+I didn’t really *ask* for their help… But maybe I feel this way ‘cause I’m in a rebellious phase of some sort…?
 
 I was prepared to be disowned, but it just feels like I’m getting supervised instead…
 {% endbubble %}
@@ -146,7 +152,7 @@ And I thought that he would have told <em>you</em> all about it… You didn’t 
 I wonder if he’s going to be alright… He could just disappear without a trace the moment we graduate.
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru yare %}
 I can totally see that happening~. …Even though we’d be more than happy to help if he just talked to us.
 {% endbubble %}
 
@@ -154,12 +160,12 @@ I can totally see that happening~. …Even though we’d be more than happy to h
 <em>Honestly</em>… The word “distant” was made for Kanata.[^1]
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sigh3 %}
 …are you two [badmouthing] me~?
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-Whoa— You scared me! What’s the matter, Kanata? Why are you crouching down? Do you have a stomachache?
+Whoa—!? You scared me! What’s the matter, Kanata? Why are you crouching down? Do you have a stomachache?
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
@@ -168,21 +174,21 @@ Ahh~… Since the inside of the fountain has been decorated for Repayment Festiv
 That’s why he’s gazing at the water with an annoyed look on his face, with his hand touching the surface…♪
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki fist %}
 It’s still chilly out, so I don’t think you should be soaking in the water in the first place… Okay, Kanata? If you miss moisture, we can go to a nearby bathhouse together…♪
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 i do [not] like hot [water]~…
 
 uuu~ how dare they do as they [like] to the [fountain] without *my* [permission]… this is unforgivable.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki awkward %}
 But the fountain belongs to the school. They don’t need your permission either way, do they?
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru curious %}
 …Hey, Kanata-kun~ Haven’t you told Moricchi about your household?
 {% endbubble %}
 
@@ -198,11 +204,11 @@ if that is the case, then i do not want to give him something so [heavy] to bear
 and if he already knows but is [pretending] not to, then i prefer to [respect] that [gentle lie].
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
+{% bubble Kaoru smile3 %}
 Huh, I see… You cherish Moricchi a <em>lot</em>, don’t you? ♪
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata smilesoft %}
 mm~… i am just protecting him, as he is still a little [child].[^2] he cannot do anything without me.
 {% endbubble %}
 
@@ -212,7 +218,7 @@ That’s what <em>I</em> should be saying. I was talking with Hakaze earlier abo
 It’s already March, so I’d like to believe you’ve decided on a career path by now…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But if you haven’t, then until the little guys from Ryuseitai catch up with us—
 
 How about you and I temporarily team up as a duo? Like Kamen Rider No.1 and No.2![^3] ♪
@@ -224,7 +230,9 @@ fufu. that is also a wonderful idea. i would have loved to do that…
 it is all going to be okay, chiaki, kaoru. i also want to continue living on the [surface] with everyone, so…
 
 i will make sure to get through somehow.
+{% endbubble %}
 
+{% bubble Kanata smilesoft %}
 i will fight against my unreasonable [fate], and save my [world]. i am a hero too, after all.
 {% endbubble %}
 
@@ -240,7 +248,7 @@ fufufu. the [ends of the universe] and the [bottom of the ocean] are humankind�
 You’re dodging the topic again… Call for me if you need help, Kanata. Whether it’s at the ends of the universe or at the bottom of the ocean, I’ll always come rushing to your side.
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata smileconfident %}
 okaaay~ i will gladly call for you. i have not told you this before, but…
 
 i have always been a [huge fan] of you, chiaki.
@@ -289,10 +297,10 @@ Dachshund.
 {% endbubble %}
 
 {% bubble Kanata sad %}
-mm\~…… “d” again…? d-d-de\~…?
+mm\~…… then it is “d” again…? d-d-de\~…?
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru yare %}
 Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop playing word chain?[^4] It’s really not that fun, and I just feel depressed now for some reason…
 {% endbubble %}
 
@@ -300,7 +308,7 @@ Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop play
 It’s mainly Kanata’s fault. What’s up, what’s wrong? You’ve been so gloomy the past few days! Cheer up! ☆
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata sigh3 %}
 do not make a ruckus in the [cafe]…
 
 i am a little concerned about what mr. [emperor] said. are the children really going to be alright?
@@ -346,16 +354,18 @@ It’s a frustrating but necessary process.
 
 {% bubble Chiaki frown %}
 It’s time for the parents to let go, and for the children to be independent. It’s sad and distressing, but I believe it’s our responsibility to stay put.
+{% endbubble %}
 
-Well, to tell you the truth, though… I feel like I’m about to explode, trying to hold back the urge to take care of my juniors.
+{% bubble Chiaki awkward %}
+Well, to tell you the truth, though — I feel like I’m about to explode, trying to hold back the urge to take care of my juniors…
 {% endbubble %}
 
 {% bubble Kanata angry2 %}
 chiaki, stop [tapping] your foot. don’t you know that’s shameful~?
 {% endbubble %}
 
-{% bubble Kaoru v2 %}
-You’re such a mom, Kanata-kun.
+{% bubble Kaoru nod %}
+You really are like a mom, Kanata-kun, aren’t you?
 
 …Ah, sorry. Sakuma-san wants me to go see him for some reason, so I’m gonna head back to school.
 {% endbubble %}
@@ -364,7 +374,7 @@ You’re such a mom, Kanata-kun.
 okay~ what does rei [want]?
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru yare %}
 No clue. He sent me a message, but…
 
 He sucks at using the phone keyboard[^5], so his messages practically end up needing to be decoded, like this one — he said, “i went t talk bout dedmens”.
@@ -396,9 +406,11 @@ Taichou-dono! Shinkai-dono…!
 Sengoku? Why do you look so pale…? Did something happen!?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata curious %}
 actually, shinobu… how did you know we were in this [cafe]?
+{% endbubble %}
 
+{% bubble Kanata v2 %}
 is it because you are a [ninja]? it is, isn’t it? fufufu…♪
 {% endbubble %}
 
@@ -417,7 +429,7 @@ Don’t I tell you this all the time? Calm down. Don’t worry, it’s all going
 {% endbubble %}
 
 {% bubble Shinobu cry %}
-U-Uuu~! Taichou-dono, Shinkai-dono! I beg of you, from the bottom of my heart…!
+U-Uuu~! <em><th>(sobs)</th></em> Taichou-dono, Shinkai-dono! I beg of you, from the bottom of my heart…!
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
@@ -427,7 +439,7 @@ Whoa—!? Stop, Sengoku! Don’t kneel on the ground in a public area!
 {% bubble Kanata surprised2 %}
 um, shinobu… are you alright? are you crying…?
 
-please don’t cry… everything will be okay, you are a good boy~?
+please don’t cry… everything will be okay, you are a good boy, okay~?
 {% endbubble %}
 
 {% img /img/es/eventstory/climax/shinobuorigcg.jpg %}
@@ -437,7 +449,7 @@ Uuu~… I am not a good boy at all… What I did with the best of my intentions 
 
 T-Tetora-kun and Midori-kun are fighting! No matter what Anzu-dono or I say, they won’t listen…!
 
-I can’t do anything on my own! I’m too weak! I don’t have the capability to stop them from fighting! So, please, please…! I need your help! This is the only favor I’ll ever ask from you…!
+I can’t do anything on my own! I’m too weak! I don’t have the capability to stop them from fighting! So, please, please…! I need your help! This is the only favor I’ll ever ask from you!
 {% endbubble %}
 
 <div toc>

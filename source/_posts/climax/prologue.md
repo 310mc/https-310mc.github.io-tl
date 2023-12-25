@@ -50,6 +50,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 </div>
 
 <!-- more -->
+
 <div class="msr-cw">
     <span><b>Content Warning</b></span>
     <p>Casual mentions of marine life euthanasia.</p>
@@ -62,18 +63,18 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 {% img /img/es/eventstory/climax/prologue_1.jpg %}
 
 {% bubble Kanata v2 %}
-<em><th>(Humming)</th></em> ~……♪
+<em><th>(humming)</th></em> ~……♪
 
 *puka, puka…♪*
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
-Heyaa~! I’m bored so I came over to hang out! ☆
+Heyaa~! I’m bored so I came over to hang out! ☆ <em><th>(waves)</th></em>
 
 Hm? Ohh, Kanata-kun! You look like you’re in a good mood~♪
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 heyaa~… i am not particularly in a [good] mood, kaoru.
 
 i am actually pretty [irritated]. it is very [noisy] outside.
@@ -97,7 +98,7 @@ ufufu, you started [calling] him by that name at some point. it is [wonderful] t
 Heh, if you’re so jealous, maybe I’ll start calling you “Kanacchi”~♪
 {% endbubble %}
 
-{% bubble Kanata angry2 %}
+{% bubble Kanata glare %}
 please do not joke around.
 {% endbubble %}
 
@@ -111,11 +112,11 @@ hehe… i am just joking, [kaocchi]~♪
 
 {% bubble Kaoru sigh %}
 Ehh~? Man, you’re always messing with me…
-
-I don’t really want people to get *too* friendly with me, so I’d rather you keep calling me by my first name.
 {% endbubble %}
 
 {% bubble Kaoru awkward %}
+I don’t really want people to get *too* friendly with me, and I’d rather you keep calling me by my first name.
+
 I know it’s my own fault, but everyone’s been kinda keeping their distance from me…
 
 I mean, not even my *family* talks to me without attaching an honorific to my name.
@@ -135,7 +136,9 @@ At this point, the only comfort I get is from you and Anzu-chan.
 
 {% bubble Kanata sigh %}
 eh~… that is not something i can really help with.
+{% endbubble %}
 
+{% bubble Kanata v2 %}
 if you want [emotional comfort], i recommend gazing at the [fishies] and [jellyfishies]. we call it [aquatherapy]. *puka, puka…♪*
 {% endbubble %}
 
@@ -149,26 +152,28 @@ It took all the way until graduation season, but I think I’m finally starting 
 really? it feels a little less [lonely] to have someone share the [same feelings] as me.
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru yare %}
 Mhm… But, uh, they really <em>are</em> loud out there, huh? I feel like I can’t chill out; that party is going off the *rails.*
 
-Knowing the kinda person Moricchi is, parting ways must be kinda sad for him. I wonder if he’s balling his eyes out…
+Knowing the kind of person Moricchi is, parting ways must be kinda sad for him. I wonder if he’s balling his eyes out…
 {% endbubble %}
 
 {% bubble Kanata smilesoft2 %}
 chiaki won’t cry.
+{% endbubble %}
 
+{% bubble Kanata smile %}
 fufu, how about we call souma over and have our own [farewell party] for the [marine life club]?
 
 i would like to [hand] the [fish tanks] over to souma’s care, as well.
 {% endbubble %}
 
-{% bubble Kaoru frown %}
+{% bubble Kaoru northinking %}
 Mm~… Thing is, I think he hasn’t been showing up lately…? My classmate Hasumi-kun’s been freaking out about him. I don’t think anybody knows where he is right now.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
-is that so? i wonder what is wrong… souma gets restless very easily, so it is [worrying].
+{% bubble Kanata frown %}
+really? i wonder what is wrong… souma gets restless very easily, so it is [worrying].
 {% endbubble %}
 
 {% bubble Kaoru v2 %}
@@ -199,8 +204,8 @@ it is [unnatural] for a sea creature to live on land.
 if one will only cause trouble, and only be a burden… that means it is time to say [goodbye], yes?
 {% endbubble %}
 
-{% bubble Kaoru angry %}
-No, no! It’s completely natural for us to cause trouble and burden each other! That’s how everyone lives, including you and I.
+{% bubble Kaoru v2 %}
+No, no. It’s completely natural for us to cause trouble and burden each other~ That’s how everyone lives, including you and I.
 
 If you hold yourself back from everyone, you won’t even be able to breathe.
 

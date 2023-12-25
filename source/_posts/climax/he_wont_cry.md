@@ -94,7 +94,7 @@ Then again, you’re <em>always</em> like that! Ahahahaha! ☆
 Fwah? Ohh, sorry, Akehoshi-senpai… I’m always up early, so I get sleepy by this hour…
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Oh~? Are you a li’l kid or something? Ahaha! ☆
 
 I get up early in the morning too, ‘cause I have to walk Daikichi! We’re the same, huh? Isn’t it so nice to share something in common?[^1] ♪
@@ -108,8 +108,8 @@ Even when I stay asleep, they just force me to wake up… Though I can’t sleep
 We live in the shopping district, so it’s really lively in the morning…
 {% endbubble %}
 
-{% bubble Subaru %}
-Oh yeah~ You help out at home, huh? That’s amazing! Lemme praise you! There, there, there~♪
+{% bubble Subaru grin %}
+Oh yeah\~ You help out at home, huh? That’s amazing! Lemme praise you! Theeere, there, there\~♪
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -126,7 +126,7 @@ As touchy-feely as “that”…? Ohh, do you mean Chi~chan-senpai? Aww come on,
 I didn’t go *that* far!?
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru grin %}
 Ahaha. Sometimes I do wish I could be more like Chi~chan-senpai, though. But there’s just no way I could get along with anyone and everyone the same way he does.
 {% endbubble %}
 
@@ -136,7 +136,7 @@ I know, right… I mean, he doesn’t even mind connecting with people who don�
 He’s basically kind to just about anyone, isn’t he…
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru scold %}
 Whoa, you just grouped us together, didn’t you? Into the “zero friends” group! You little rascal\~! Don’t lump me with you\~!
 {% endbubble %}
 
@@ -158,15 +158,15 @@ Maaaybe I’m a little jealous or something…♪
 Huh…? What does that mea—
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki smileconfident %}
 Akehoshi! Takamine! What’s up, what’re you guys up to!? Are you sitting around and having a nice chat!? Sounds fun! Make some space for me! ☆
 {% endbubble %}
 
 {% bubble Midori surprised %}
-Gah!? Hey, watch it… Please don’t jump on me out of nowhere… You almost broke my spine…
+Gah!? Hey, watch it…! Please don’t jump on me out of nowhere — You almost broke my spine…
 {% endbubble %}
 
-{% bubble Subaru angry2 %}
+{% bubble Subaru glare %}
 Yeah! We’re used to it by now, but you’d get arrested if you hugged a stranger out of nowhere, y’know?
 
 Officer~! This man is a pervert!
@@ -193,7 +193,7 @@ What’s that? You’re in pain, Takamine!? Alright then, let me perform the lif
 {% endbubble %}
 
 {% bubble Midori surprised %}
-Gahhh!? Get your face away from me, you weirdo! I’ll seriously call the police…!
+Gaahh!? Get your face away from me, you weirdo! I’ll seriously call the police…!
 {% endbubble %}
 
 {% bubble Subaru curious %}
@@ -355,7 +355,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 {% endbubble %}
 
 {% bubble Midori curious %}
-<th>(Huh…? Is he… crying…?)</th>
+<th>(Huh…? Is Morisawa-senpai… crying…?)</th>
 
 <th>(His shoulders are shaking… and I can hear muffled sobs, too… Huh? What’s going on…?)</th>
 
@@ -368,7 +368,9 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(I don’t want him pestering me like he usually does…)</th>
 
 <th>(It’s not very heroic of me to leave someone crying all alone, though…)</th>
+{% endbubble %}
 
+{% bubble Midori frownshake %}
 <th>(Wait, no… I may be a member of Ryuseitai, but I don’t recall ever becoming a hero…)</th>
 
 <th>(And since he always wants to look cool for some reason, I don’t think he’d want anyone to see him crying anyway…)</th>
@@ -394,9 +396,11 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 
 ## Chapter 3
 
-{% bubble Chiaki smileconfident %}
-…Hmm? Ohh, that surprised me!
+{% bubble Chiaki surprised %}
+…Hmm? Woah—! That surprised me!!
+{% endbubble %}
 
+{% bubble Chiaki smileconfident %}
 So it was you, Takamine! What’s up, what’s wrong!? Are you on your way home?
 
 You shouldn’t stay around for so long, y’know! Go back home, brush your teeth, and go to bed!
@@ -456,12 +460,14 @@ Fuhahaha…!! ☆
 <th>(Graduation is supposed to be something upsetting, so agonizingly lonely and sad…)</th>
 
 <th>(Yet… Are you really gonna try and look cool while parting ways, until the very end…?)</th>
+{% endbubble %}
 
-<th>(No… Even before all this, you’ve always been—…)</th>
+{% bubble Midori sad2 %}
+<th>(No… Even before all of this, you’ve *always* been—…)</th>
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-Takamine? Heeey, what’s wrong? You look like you’re feeling down…? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
+Takamine? Heeey, really, what’s wrong? You look like you’re feeling down…? You’re a handsome guy, so seeing you all silent and blank-faced is terrifying!
 {% endbubble %}
 
 {% bubble Midori sad3 %}
@@ -479,7 +485,7 @@ No, not really… I’m just a little tired, sleepy, and irritated…
 {% endbubble %}
 
 {% bubble Mao %}
-Heeey, Subaru! I’m guessing the farewell party’s over by now?
+Heeey, Subaru! <em><th>(waves)</th></em> I’m guessing the farewell party’s over by now?
 {% endbubble %}
 
 {% bubble Mao sigh %}
@@ -506,13 +512,13 @@ Lemme vent a little~ I have to act like the big guy now, as the next Student Cou
 So I’m always presenting myself as a proper leader and stuff when I’m at the Student Council office.
 {% endbubble %}
 
-{% bubble Mao frown %}
+{% bubble Mao yare %}
 If the boss complains, the subordinates are just gonna get anxious, right?
 
 So, I’ve been holding it back and working through everything as fast as I can, but I guess a lotta those worries started building up inside me.
 {% endbubble %}
 
-{% bubble Subaru %}
+{% bubble Subaru nod %}
 Ohh~ Seems rough for you. There, there, let me pat your head~♪
 
 Ahaha, it sounds busy at the Student Council, too. Good work out there!
@@ -528,13 +534,17 @@ Like, I wonder what Ryuseitai’s gonna do, since they won’t be able to say th
 And like, today… From what I could tell, Chi~chan-senpai and Takamin were both acting a little off.
 
 So since I was kinda worried, I tried my best to talk to them, but…
+{% endbubble %}
 
+{% bubble Subaru grin %}
 I’m just not good at that sorta stuff. I’m impressed that Chi\~chan-senpai can do it so easily. And you too, Sally\~♪
 {% endbubble %}
 
 {% bubble Mao %}
 Haha, it’s fun taking care of people. At the same time though, the more attached you get, the harder it is to say goodbye.
+{% endbubble %}
 
+{% bubble Mao awkward %}
 It gets unbearably gloomy around this time, and it sucks.
 {% endbubble %}
 
@@ -544,7 +554,7 @@ Yeah. But well, we can’t stop the clock, can we… The least we can do is part
 And to say goodbye with a smile, so that our seniors won’t have any regrets when they leave.
 {% endbubble %}
 
-{% bubble Subaru frown %}
+{% bubble Subaru smilesoft %}
 It’s pretty hard to do it right, though~ Takamin is terrible at smiling, for one thing.
 
 On the other hand, Chi~chan-senpai’s smiling a lot more than he used to last year. …Aren’t those two kiiinda similar?

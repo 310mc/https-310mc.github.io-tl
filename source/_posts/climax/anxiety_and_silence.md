@@ -54,6 +54,12 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<div toc>
+{% btn /climax/blessings_and_repayment,, arrow-left, Previous Chapter: Blessings and Repayment %}
+{% btn /climax,, star, Index %}
+{% btn /climax/bystanders,, arrow-right, Next Chapter: Bystanders %}
+</div>
+
 ## Chapter 1
 
 <div class="msr-location">
@@ -90,11 +96,13 @@ Ermm, umm… Y-You see, that was my White Day gift to you! ♪
 Please say something! Staring at me without saying a word is terrifying~!
 {% endbubble %}
 
-{% bubble Shinobu curious %}
+{% bubble Shinobu awkward %}
 Um, erm… A-As an apology, you’re welcome to tease me!
 
 You used to pinch my cheeks at random, did you not?
+{% endbubble %}
 
+{% bubble Shinobu smileconfident %}
 While you haven’t done it for a long time now, you seemed to like doing it!
 
 I was very rude to you, so I accept it as my punishment…!
@@ -107,20 +115,22 @@ Ohhh\~? You’re suddenly squishing my cheeks…!? Is this my punishment!? Is th
 
 Uuu~? It doesn’t hurt, but the way you’re just silently doing it to me is terrifying!
 
-…Sniff. Anzu-dono, now that that’s settled, I must ask… Did you have some business in Classroom 1-B?
+<em>…Sniffle.</em> Anzu-dono, now that that’s settled, I must ask… Did you have some business in Classroom 1-B?
 
 Our lessons and homeroom class both ended a moment earlier, so there is no longer anyone around.
+{% endbubble %}
 
+{% bubble Shinobu norsmile2 %}
 As I am on day duty today, I spent all my time wiping the blackboard clean.
 
 I grew hungry however, and thus snacked on a few cookies while performing my duty.
-{% endbubble %}
 
-{% bubble Shinobu sigh2 %}
 Ah, you see — today, my classmates and I had a White Day gift exchange party.
 
 However, it was very sudden, and I’m unaccustomed to friendly events—
+{% endbubble %}
 
+{% bubble Shinobu sigh2 %}
 So I felt extremely embarrassed that I hadn’t prepared anything. I ended up only being on the receiving end.
 {% endbubble %}
 
@@ -142,19 +152,21 @@ That’s wonderful, Anzu-dono, thank you for all your hard work~. Hmm, so there 
 It may have an impact on the number of visitors, so you’ve come to ask each unit how they’re doing…
 
 Ah, Isara-dono asked you to do this? Hm, hm! I understand the situation now.
-{% endbubble %}
 
-{% bubble Shinobu frown %}
 Isara-dono has been much busier these days, hasn’t he?
 
 He is now the one who must manage everything as the leader of the Student Council, starting with Repayment Festival.
+{% endbubble %}
 
+{% bubble Shinobu fist %}
 I have also been helping him out with a few trivial tasks! I owe a debt of gratitude to Isara-dono, so I would go through fire and water for him! ♪
 
-Wawa— Please don’t pat me on the head while saying, “good boy, good boy. ♪”…
+Wawa— Please don’t pat me on the head while saying, “good boy, good boy♪”~…
 
 You’ll mess up my hair~ You tend to see me as a toddler, Anzu-dono…
+{% endbubble %}
 
+{% bubble Shinobu serious %}
 Anyway, hmm… since Ryuseitai has not applied to participate in the Repayment Festival—
 
 You’ve come to us to see if we intend to participate.
@@ -170,7 +182,7 @@ I see… But if we don’t do something soon enough, it will be the day of the f
 We are late enough as it is, and may not even have enough time to practice our performance.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile2 %}
 Mm~… I am, however, fully willing to perform in the Repayment Festival.
 
 The festival seems to have a lot of weight in it, as it is intended to be a repayment to all the seniors who have helped us.
@@ -204,7 +216,9 @@ Uwaaah\~! Did I push all the wrong buttons without realizing it\~!?
 Both of them are precious allies that I fought alongside for a year. I cannot cope with the thought of them hating me…
 
 That is why I could no longer even speak to them, as I did not want them to grow annoyed with me…
+{% endbubble %}
 
+{% bubble Shinobu sad3 %}
 To be honest, I am at a loss… W-What should I do, Anzu-dono?
 {% endbubble %}
 
@@ -228,7 +242,7 @@ But Repayment Festival is in two weeks, so won’t the balloons run out of heliu
 Did someone get ahead of themselves and place them early…?
 {% endbubble %}
 
-{% bubble Shinobu awkward %}
+{% bubble Shinobu smile %}
 Fufu… I think, because the Repayment Festival is an event mainly prepared by underclassmen, everything looks so amateurish and awkward.
 
 As a DreamFes, it’s practically the same as the festival that was held the other day, Chocolat Fes.
@@ -247,9 +261,9 @@ So that is why some areas have been revised, in order to tackle those problems b
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Ehehe, it was fun making sweets with everyone in Ryuseitai. We made such a huge ruckus!
+Fufu, it was fun making sweets with everyone in Ryuseitai. We made such a huge ruckus.
 
-But as everyone expected, Tetora-kun caused a small fire in the kitchen—
+As everyone expected, Tetora-kun caused a small fire in the kitchen—
 
 And Shinkai-dono manufactured a bizarre concoction, saying that “it’s edible euglena~♪”
 
@@ -258,17 +272,21 @@ But it was still sooo much fun…♪
 
 {% bubble Shinobu sad %}
 To think that… we will never be able to have such fun as the five of us together, ever again… It makes me feel very lonely inside.
+{% endbubble %}
 
+{% bubble Shinobu awkward %}
 Hehe… I shouldn’t speak in such a somber manner, even if it’s hard to hold back because of graduation season…
 
 This is our last time together, so I would like to send off my seniors with a smile and start walking toward the future.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu fist %}
 For that reason, I would like to participate in the Repayment Festival, with a proper performance and everything.
 
 But if we continue as we are now, I have a feeling that we will wander into a dark direction… We must band together as one.
+{% endbubble %}
 
+{% bubble Shinobu smilesoft %}
 Even if we will not be able to say “The five of us are Ryuseitai”—
 
 It’ll be alright… There have been many three-man hero sentai squads in the past.
@@ -287,14 +305,14 @@ Heh! I also know a little bit more about heroes now, don’t you think? ♪
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Ah— There you are, Tetora-kun! I’m coming in, okay~…?
+Ah— There you are, Tetora-kun! <em><th>(waves)</th></em> I’m coming in, okay~…?
 
 So you really *were* in the dojo after all! Tetora-kun’s known for karate, and karate can only mean the dojo!
 
-Were you meditating[^2] again~?
+Were you meditating again~?[^2]
 {% endbubble %}
 
-{% bubble Tetora curious %}
+{% bubble Tetora norsmile %}
 Shinobu-kun.
 {% endbubble %}
 
@@ -322,7 +340,7 @@ I’m also pretty thickheaded and clumsy, so~ I couldn’t figure out the right 
 N-No, it’s perfectly alright… Erm, is it just me, or have you grown up since the last time we saw each other…?
 {% endbubble %}
 
-{% bubble Tetora sad4 %}
+{% bubble Tetora northinking %}
 Huh? You think so? Well, a *lotta* things happened the past few days, like the Dragon King Competition[^3]… I’m gonna be a second-year student soon, so I gotta grow up a li’l.
 {% endbubble %}
 
@@ -332,7 +350,7 @@ That’s not *fair!* You dashed up the stairs to adulthood without me!
 I have a complex about being childish, so I’ve always wanted to achieve the look of an adult, just like you~!
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Ahaha, we all walk at a different speed, y’know.
 {% endbubble %}
 
@@ -346,17 +364,17 @@ Ehh~? What’s wrong, Shinobu-kun…? You’re real clingy today… Didja have s
 I see that Anzu-Anego’s with you, too. Ah— Did you come to ask if we’re planning to participate in the Repayment Festival?
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu serious %}
 Whoa, you’re even getting better at guessing… For real, Tetora-kun, what happened to you?
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora smilesoft %}
 Ahaha. Well, I just thought that it’s time I graduate from being a spoiled kid.
+
+Anyways, ossu — thank you for checking on us… Anzu-Anego.
 {% endbubble %}
 
 {% bubble Tetora awkward %}
-Anyways, ossu — thank you for checking on us… Anzu-Anego.
-
 I’m sorry to say this after you came all the way here to the dojo, but… Ryuseitai isn’t in the proper condition to perform unit activities right now.
 
 We’ll have to withdraw from participating in the Repayment Festival. It’s ‘cuz of our own personal reasons, but — I’m really sorry…

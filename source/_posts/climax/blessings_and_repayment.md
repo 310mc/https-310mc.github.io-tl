@@ -92,9 +92,11 @@ Ohh, sorry! I’ll pick them up, I will! ♪
 i’ll pick them up, i will~…♪
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi curious %}
 Hm? Huh, I only called Chiaki over… I wasn’t expecting you to show up as well, Shinkai-kun. What a wonderful surprise.
+{% endbubble %}
 
+{% bubble Eichi smile %}
 Fufu, I often spot you in the fountain, so it feels out of place to see you casually walking around the school. ♪
 {% endbubble %}
 
@@ -112,7 +114,7 @@ Not at all, you’re more than welcome to join. …Come over here, both of you. 
 They may be out of order, but I avoided looking at the contents because there might’ve been some classified information!
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi grin %}
 You’re an honest one, aren’t you? I wouldn’t have confidential documents around when I’m inviting someone over, you know.
 
 Anyway, come on now. Isn’t it a hero’s duty to rush over to wherever he’s called? ♪
@@ -122,7 +124,7 @@ Anyway, come on now. Isn’t it a hero’s duty to rush over to wherever he’s 
 What is it? I’ve got a bad feeling about this… You sometimes have a mischievous look on your face, Tenshouin.
 {% endbubble %}
 
-{% bubble Eichi frown %}
+{% bubble Eichi yare %}
 There’s no need to be on your guard. I won’t harm you. I’d only tire myself if I got involved with you people, anyway…
 
 That aside — give me your hand, Chiaki.
@@ -146,11 +148,11 @@ Ahaha, I’m sure it means you really will live for a long time. …Alright, her
 Mhm, here you go. It’s my White Day gift to you. ♪
 {% endbubble %}
 
-{% bubble Chiaki sad4 %}
+{% bubble Chiaki curious %}
 Mm…? What is this, an envelope?
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi nod %}
 Yes, and some candy, too. You see, on Valentine’s Day—
 
 Our Tori, all shy and nervous, squeezed a piece of chocolate into my hand.
@@ -162,7 +164,9 @@ But I think Tori was a little too embarrassed to give the chocolate to me in fro
 That’s why he secretly made me hold it in my hand.
 
 It turned out to be quite an amusing story in the end — The ever perceptive Yuzuru noticed his act and teased him for it, and the chocolate had melted in the heat of his palm.
+{% endbubble %}
 
+{% bubble Eichi smile2 %}
 Fufu. But it was so adorable that I couldn’t help but try to imitate it. ♪
 {% endbubble %}
 
@@ -186,7 +190,7 @@ Still, it’s fine, isn’t it? I may as well give you a gift since you’re her
 We can now live in this lovely modern age, all thanks to the precious sacrifice of you Five Eccentrics. This is my way of expressing gratitude for your achievements.
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata norsmile %}
 i would much rather pour those [feelings] down the drain.
 {% endbubble %}
 
@@ -194,7 +198,7 @@ i would much rather pour those [feelings] down the drain.
 How cruel. I see you don’t like me much. Oh well, I don’t blame you.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata grin %}
 …i will also give you a [gift], mr. [emperor]. here is a fish [plush toy]. happy white day~♪
 {% endbubble %}
 
@@ -216,7 +220,7 @@ Oh, is that so? Knowing you were able to enjoy yourself means that all my hard w
 ufufu~…♪
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi grin %}
 Fufufu…♪
 {% endbubble %}
 
@@ -226,7 +230,7 @@ Woah, woah, woah! You two are scaring me! Don’t start fighting…!
 For goodness’ sake… Get along with each other! Don’t you know that love saves the world?
 {% endbubble %}
 
-{% bubble Eichi serious %}
+{% bubble Eichi %}
 It destroys it too, though. Regardless… The reason I called you here wasn’t just to give you a White Day gift, Chiaki.
 
 I simply thought to give it to you while you’re here.
@@ -278,7 +282,7 @@ I see… By the way, the envelope I just handed you has something to do with tha
 I know you wouldn’t have wanted it, but I’ve laid the groundwork for it nonetheless.
 {% endbubble %}
 
-{% bubble Eichi frown %}
+{% bubble Eichi yare %}
 The entertainment industry is not an environment where you can survive through passion alone. I’m sure you’re well aware of that, though.
 
 So, well, I made it a little easier for you to breathe.
@@ -292,7 +296,7 @@ Ah, I see… Thank you for that, then. It’s great to have friends by your side
 Friends, huh… The word still tastes a little too bitter for me.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi %}
 Anyway… As for Ryuseitai, even before the Repayment Festival… You had already set up an environment, under your principles, that allowed the first-year students to have their thoughts be heard.
 
 It was a unit where each member could assert what they wanted to do, without being restrained just because they were underclassmen.
@@ -330,7 +334,7 @@ They really haven’t done anything so far…? I see… I wonder what’s wrong 
 Those three should be fine without us now, shouldn’t they?
 {% endbubble %}
 
-{% bubble Kanata frown %}
+{% bubble Kanata frownshake %}
 mm~… chiaki, you should be more [aware] of your [importance] in their lives.
 
 to those children, it is [as if] the [sun] has gone down.
@@ -354,7 +358,7 @@ From now on, they have to walk on their own feet. They can’t be spoiled by us 
 I know a hero’s role is to fearlessly rush over when your allies are in a predicament, but… From here on out, it’s going to be a little harder to do that, as well.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki fist %}
 We just have to trust those guys and watch over them. It would be a different story if they were to ask for our help, but for now, we should do our best to leave them to their own devices.
 
 “If we call for help, they’ll surely come rushing for us”—
@@ -390,7 +394,7 @@ On the other hand, Yuzuru is fully prepared to assist Tori.
 I’m certain that my beloved <em>fine</em> will continue to be the brilliant dazzling sun at the top of Yumenosaki Academy in the next school year.
 {% endbubble %}
 
-{% bubble Eichi frown %}
+{% bubble Eichi yare %}
 Rather, the one I’m actually worried about is Akatsuki. Say, Shinkai-kun — Kanzaki-kun is in the same club as you, right?
 
 Did you know that he’s missing?
@@ -400,7 +404,7 @@ Did you know that he’s missing?
 ah, yes. i came here to [ask] about that, actually. i thought the [temple guy] would know where souma is.
 {% endbubble %}
 
-{% bubble Eichi %}
+{% bubble Eichi northinking %}
 Oh, yes, since Keito is part of Akatsuki. …I’ve been thinking about this for a while now, but you call him by a strange name, don’t you?
 {% endbubble %}
 
@@ -416,7 +420,7 @@ Ahh, so that’s why you’re so harsh with Keito…
 Regardless, I don’t think he knows where Kanzaki-kun is either. He caused a huge fuss this morning because he couldn’t get in touch with him.
 {% endbubble %}
 
-{% bubble Kanata frown2 %}
+{% bubble Kanata sigh3 %}
 i see~… there is something to worry about no matter [where] you [go]…
 
 are the [children] of yumenosaki academy really going to be okay…?
