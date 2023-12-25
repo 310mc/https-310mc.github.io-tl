@@ -120,7 +120,7 @@ We may have been working in the same unit together for a long time now, but we�
 Although… While Takamine is typically one to conserve his energy, I can only hope that he’s decided to travel about in order to train himself for the commander position.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Ahaha, I doubt he’d go <em>that</em> far~ He’s prolly just thinkin’ of what we should do next or somethin’.
 
 Lately, Midori-kun’s been a real man ‘bout things — He does the job when it’s time to, so I’m sure he’s properly thinkin’ stuff through!
@@ -516,7 +516,7 @@ I feel awkward barging into his home once more, but… I am a little worried abo
 I’m glad the teacher asked us to pass him these papers, at least. Now we have an excuse to check up on him.
 {% endbubble %}
 
-{% bubble Shinobu norsmile %}
+{% bubble Shinobu norsmile2 %}
 You’re so positive… I need to learn from you!
 
 Well, since he told us to leave him be, there is only so much we can do…
@@ -804,7 +804,7 @@ ah, midori and anzu-san. you were here all along?
 Yeah, we just arrived a moment ago. You guys looked like you were having fun, so we just watched from afar.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Ahaha, must’ve been a weird discussion to listen to. But you could’ve just come up to us, y’know?
 {% endbubble %}
 
@@ -848,7 +848,7 @@ So, in return, I’d like to ask all of you for a favor… I want everyone to re
 Would you be willing to help me, no matter what that hero vision may be…?
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 ‘Course! You’re completely free to let your own image color take form, just like I did with RB!
 {% endbubble %}
 

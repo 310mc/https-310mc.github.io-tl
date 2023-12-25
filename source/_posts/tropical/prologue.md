@@ -77,7 +77,7 @@ I’ve got somethin’ important to talk ‘bout with all’a you.
 We’ve gotten through all the jobs that were sent to RB[^1], so I’d like to appoint a new commander for the upcoming R2.[^2]
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 I’d like the next commander[^3] to be… Midori-kun!
 {% endbubble %}
 
@@ -151,7 +151,7 @@ Yeah… I know I was bound to take on the position at one point, but…
 There’s just no way I can be the second in line, y’know… That’s just way too much responsibility to bear after Tetora-kun… I mean, he was even the leader of Ryuseitai-N…[^7]
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Aw c’mon, it’s not <em>that</em> big’a deal…♪
 {% endbubble %}
 

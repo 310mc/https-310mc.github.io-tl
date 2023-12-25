@@ -559,7 +559,7 @@ That, like, if you don’t want it that badly, you should just give me your tale
 Should I say sorry…?
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 No, don’t. If you apologize, I’ll feel even more miserable about myself, and then get unreasonably upset and punch you.
 
 But in reality, the real person I want to punch is myself.
@@ -593,7 +593,7 @@ That’s why… Maybe I was just making the wrong conclusion all along, but… I
 
 {% img /img/es/eventstory/supervillain/supersizedvillainch12_3.jpg %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Morisawa-senpai. Shinkai-senpai. Midori-kun. Shinobu-kun.
 
 I love each and every one of you. I respect all of you — you never give up no matter what, and no matter how far down you are, you always crawl back up with all your effort. You’re always shining so brightly.
@@ -625,7 +625,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
     <p>A week later. Within the city, at the Supervillains promotion concert venue…</p>
 </div>
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 “The black flame is the embodiment of destruction! Burning everything before it to a crisp…!”
 
 “Ryusei Black! Nagumo Tetora!”
@@ -753,7 +753,7 @@ But… Tragedies happen even when no one is at fault. We know that all too well 
 Five people alone can’t destroy all the evil in the world.
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 We’ve been battered, defeated, and made to look pathetic by the face of reality.
 
 Who do we curse at? Crazy:B, for being the first ones to sling mud at us?
@@ -773,7 +773,7 @@ Or the idiot Morisawa-senpai, who tried to take in all the hatred during Comet S
 <th>(But even so—)</th>
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 But even so, if we give up and surrender unconditionally to evil, there will truly be no more heroes in this world.
 
 —There *were* no heroes in this world.
@@ -791,7 +791,7 @@ Because, “if there are no heroes in this world, then *I* will become the hero.
 <th>(That was all I ever wanted to do.)</th>
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 And that’s why I respect you, Morisawa-senpai. I admire you, and I love you. I have no actual capabilities and I’m terrible at producing results through my effort, so I can’t be you no matter how hard I try.
 
 I can’t become a hero that’s exactly like you.
@@ -807,7 +807,7 @@ I can’t be a replacement for the embodiment of justice — It’s impossible f
 I’ve come to understand that that’s impossible. I’ve spent this whole year having that badgered in my head.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 So I’ll leave that all to you — Morisawa-senpai.
 
 And as for me, I’ll do what only <em>I</em> can do. I’ll do it with all my might.
@@ -857,7 +857,7 @@ Besides, if I become Red, I would be going against the agency’s desire to have
 To be honest, I’m not keen on the idea at all.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 As our reward for defeating the great evil Crimson Production, we’re going to push our own will onto them. We’re going to make them agree to do what <em>we</em> want to do.
 
 —That was our plan. But honestly… Morisawa-senpai, you just want to give it back to me to be at peace, since you’re the one who took red away from me — don’t you?
@@ -867,7 +867,7 @@ As our reward for defeating the great evil Crimson Production, we’re going to 
 When you put it that way… there’s nothing I could say to refute that.
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 I know I’m repeating myself, but I’m fine with the way things are right now. I can’t say I’m satisfied, but I have no interest in wearing the red color by brute force.
 
 I want to dress in the color that best suits me.
@@ -1105,7 +1105,7 @@ You’re a splendid, cool hero — a wonderful person to look up to.
 And I can assure you that I’m not saying any of this to coddle you.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 …Ossu.
 
 Thank you, Senpai. Thank you for always watching over me and appreciating me.
@@ -1117,7 +1117,7 @@ If I set you as the pinnacle of my ideals, as my end point—
 I’ll <em>never</em> be able to surpass you.
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 This time around, I’ve walked my own path away from you. A pitch dark path[^5] that you haven’t explored yet — a path that you can’t even set foot in.
 
 —The path of evil.

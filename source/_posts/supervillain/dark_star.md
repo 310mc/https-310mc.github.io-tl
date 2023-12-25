@@ -1064,7 +1064,7 @@ You are here to save your former teammates… to protect your former subordinate
 <th>(Something is not right here. There is something very off about all of this.)</th>
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 —Oh, I have to go now. My pals are calling for me.
 {% endbubble %}
 
@@ -1074,7 +1074,7 @@ You are here to save your former teammates… to protect your former subordinate
 
 {% img /img/es/eventstory/supervillain/darkstarch7_2.jpg %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Ah, you misunderstand. The people I consider my comrades now are the guys from Crimson Production.
 
 Oh yeah, I’ll answer your question from earlier now. You asked me if I’m still a member of Ryuseitai, right, Sengoku-kun?

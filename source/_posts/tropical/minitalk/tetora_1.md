@@ -80,7 +80,7 @@ Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll pu
             Yeah, that's better to do.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smile %}
+            {% bubble Tetora smilesoft %}
             That's true! We should focus on our food when it's time to eat, after all.
 
             We dunno who's watchin', so I wanna be careful with my manners at all times.
@@ -173,7 +173,7 @@ I gotta study more and more to be capable of handling any kinda work!
             {% bubble Tetora awkward %}
             Ahaha… Yeah, you're right, I gotta be careful not to go too far.
             {% endbubble %}
-            {% bubble Tetora smile %}
+            {% bubble Tetora smilesoft %}
             I must've made ya worry a lot, haven't I? But I assure you that you don't have to worry as much anymore!
 			{% endbubble %}
         </div>

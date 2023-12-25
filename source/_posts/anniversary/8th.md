@@ -59,7 +59,7 @@ description: "[ES!!] Translation of 8th Anniversary content."
 
 {% img /img/es/anniversary/8th/quotetetora.jpg %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 No matter how stained with mud I get, I'll continue to run down the path of hard work. Please watch over me 'til I become a great man!
 {% endbubble %}
 

@@ -150,7 +150,7 @@ Oh yeah, what did you have to do here, anyway?
 
 #### <div mt="rare"></div> 3/3
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Anyway, sorry for stayin' around for so long.
 
 I've got circle activities coming up, and I promised Hiiro-kun I'd meet up with him early to clean the dojo.

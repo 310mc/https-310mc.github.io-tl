@@ -188,7 +188,7 @@ Ryuseitai-N will disband soon, but I'd like to give my juniors one last practice
             You're so kind.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora frown3 %}
+            {% bubble Tetora frownshake %}
             …I'm not kind. I'm just doin' it for my own satisfaction.
 
             Ah, sorry, I dampered the mood there. Sadly, Ryuseitai-N's just gonna have to disband either way.

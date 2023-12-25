@@ -374,7 +374,7 @@ Ahh, stop, you’re <em>way</em> too loud…!! The star of this show is Pop-dayu
 Woah, Midori-kun is dead serious…
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Aight, I’ll also be sure to cheer for ‘em without raising my voice too much.
 
 Once we figure out how mascots manage to make Midori-kun happy, we’ll be able to make use of it in our Yuruseitai performance.
@@ -546,7 +546,7 @@ Alright, next is Tetora-kun. Get into the feeling of being soft and act as Bearb
 Mm, it still feels stiff… You have to be more soft and lax…!
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 “Booonk, I’m Bearbonk-bonk!”
 {% endbubble %}
 
@@ -600,7 +600,7 @@ i do hope the two manage to express the [softness] midori wants eventually, thou
 H-How about now? That was good, wasn’t it?
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Midori-kun, I’d like to know your thoughts, too! It was tricky on my own, but actin’ out a conversation with Morisawa-senpai made me loosen up a li’l, I think!
 {% endbubble %}
 

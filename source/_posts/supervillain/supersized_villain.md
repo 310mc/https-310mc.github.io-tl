@@ -127,7 +127,7 @@ The cameras aren’t even rolling, you know. Are you in the habit of being unnec
 …Nagumo.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Heya, Taichou.
 
 I knew you’d come. I was right to lay down a trap.
@@ -259,7 +259,7 @@ If you don’t, this is what’s gonna happen.
 … … ………
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Haha. Taken aback, are you, Taichou? I’m sure you’ve experienced a lot of flashy battles in tokusatsu, but is this seriously the very first time you’ve *actually* been punched or something?
 
 Or, what? Did you really think I wouldn’t actually hit you?
@@ -291,7 +291,7 @@ If you still choose to resist, then I’ll have no choice but to strangle you un
 …I only have one thing to say, Nagumo.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Whoa, you can still talk, huh? You’ve got guts, I’ll give you that. I didn’t hold back at all with that punch.
 
 So? What is it? Is it time to hear the sore loser say his last words?
@@ -301,7 +301,7 @@ Or are you going to lecture me now? “Stop with all these cruel acts! You’re 
 
 {% img /img/es/eventstory/supervillain/supersizedvillainch2_3.jpg %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Hahaha. That would be *so* funny.
 {% endbubble %}
 
@@ -319,7 +319,7 @@ Now that you’ve been tainted with evil.
 But, yes, I’d like to be a “sore loser,” as you put it.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Fine by me. I can’t wait to see the sort of cursing a goody two-shoes boy like you can come up with.
 {% endbubble %}
 
@@ -717,7 +717,7 @@ Yeah, I know what you mean… Fate’s really a strange thing, isn’t it?
 so, in the end, what does this mean?
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 That’s a pretty vague question, huh? But I know what you’re trying to ask.
 
 To put it very briefly: I’m basically an undercover agent sent by ES.
@@ -955,7 +955,7 @@ Mhm, sorry about that. But I feel so relieved, like a weight’s fallen off my b
 I doubt I could act terrified of being trapped in an evil organization right now, even if I tried.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Well, that’s okay then, as long as you take caution. Earlier today, you reminded me once again that you’re surprisingly really good at acting, anyway.
 
 Using yourself as bait to draw us away from the building, so that the other two can break in—
@@ -1023,7 +1023,7 @@ Heheh, the one with the biggest potential in Ryuseitai is and always has been �
 That’s ‘cause I started from rock bottom! Hmph!
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Haha, you’re sulking~ But honestly, I’m surprised. Morisawa-Taichou was much more thorough in his preparations than I expected, and it really helped me out.
 
 He seemed to have noticed my message, too.
@@ -1047,7 +1047,7 @@ I didn’t get the sense that you were being sarcastic, either. Your tone indica
 On top of that, I barely felt any chest pain when you punched me. It was like a fight scene from a tokusatsu — just a punch that looks like it hit, but doesn’t actually have any force to it.
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 That’s karate’s *sundome* for ya, ossu![^5] Jokes aside, you also helped make it look real by putting on a convincing act that it hurt, Taichou.
 {% endbubble %}
 
@@ -1063,7 +1063,7 @@ I was certain that you were still one of us.
 That’s just plain incredible… I *genuinely* thought Tetora-kun did a complete 180…
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Well, they do say that to fool the enemy, you have to first fool your allies.
 
 If I don’t act convincingly enough to fool even people who know me well like Takamine-kun, I’d never be fit for undercover work.
@@ -1077,7 +1077,7 @@ I wasn’t even sure if I could fool Sengoku-kun at first when I captured him, a
 Ahaha… To be fair, my friend Yuuta-kun also suddenly changed his character the other day, so I *was* a little perplexed at first, like, “Is this a trend lately or something?”[^6]
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Still, as soon as Sengoku-kun got over the shock, he started asking me, “Why are you acting like that? I would like to know what’s going on!”
 
 He even whispered to me, “I may be able to assist you depending on what it is,” and that’s when I knew there’s no way I could fool him.
@@ -1216,7 +1216,7 @@ No, no… Don’t stay here, Tetora-kun, you should run away with us tomorrow.
 If you stick around, and they end up suspecting you as the one who let us go, won’t they do horrible things to you…?
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 I can’t do that. I refuse to leave the Anti-Stars kids all on their own here.
 {% endbubble %}
 

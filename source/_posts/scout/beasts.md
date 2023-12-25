@@ -719,7 +719,7 @@ First things first: Make yourself look as pretty and adorable as possible with a
 I’ll give you some pointers, but you should mainly choose with your own taste.
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 Huh…? Uhh… I’m sorry, but I don’t really get it! How’s this gonna help me…? I’m tryna be more manly…
 
 I won’t get anything from being cute… I’m aiming for the opposite direction, y’know?
@@ -753,7 +753,7 @@ Oh my! They’re already having a spring sale! Kyaa~! I hope I have the money!
 <th>(Uu~myu, I look stupid! It just looks like I’m tryna do some kinda act!)</th>
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 <th>(Gahh! I didn’t expect things to go like this at all…!! I really dunno what to do!!)</th>
 
 <th>(I mean… when he said that I gotta “learn the ways of a woman,” my heart started racing with all kinds’a images…)</th>
@@ -1497,7 +1497,7 @@ Maybe that’s how you can avoid pain, and maybe that’s easier for you in the 
 Tetora-kuuun~ Are you ready?
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Ah, yes! I’m coming, Narukami-senpai~♪
 {% endbubble %}
 

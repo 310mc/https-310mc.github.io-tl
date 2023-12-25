@@ -189,7 +189,7 @@ Really? I’m so glad to hear that.
 You were able to find your very own happiness and purpose in life — something that wasn’t me forcing on you.
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 It’s only ‘cuz of everyone’s support that I was able to, y’know!
 {% endbubble %}
 
@@ -247,14 +247,14 @@ I believe we have no choice but to follow suit now. Investing in growth stocks i
 I feel like there was a *ton* of luck involved with RB’s success, though… Like a lucky punch, or somethin’.
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 But… This is a hundred times better than dwelling on the past, wondering what went wrong.
 
 ‘Course, I’m totally gonna do my best to get on that bandwagon and help everyone out. I wanna know everyone’s ideal image.
 
 I wanna see the new Ryuseitai that everyone has in their minds.
 
-*All for one, one for all.*
+*All for one, and one for all.*
 
 That phrase has never changed for us — It’ll always be the perfect way to describe Ryuseitai’s principles.
 {% endbubble %}

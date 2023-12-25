@@ -466,7 +466,7 @@ So I'm guessing you guys haven’t read up on the event?
 You never know what could come up next, so you need to check the bulletin board more often, you know?
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 Ack… Taichou'd always explain everything we need to know, so I didn't think of doin' that… I'm sorry, I'll do better next time.
 {% endbubble %}
 
@@ -932,7 +932,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(But I wasn't meant to be satisfied with that — the fight had only just begun. And yet I didn't even *bother* to check our next event. I just let myself be swept along by the flow, without ever having a thought of my own…)</th>
 {% endbubble %}
 
-{% bubble Tetora frown3 %}
+{% bubble Tetora frownshake %}
 <th>(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)</th>
 {% endbubble %}
 

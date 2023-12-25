@@ -402,7 +402,7 @@ fufu, do not [bully] him so much, midori~♪
 Mhm… But I just wanna get a tinsy bit more of my revenge for all the times he’s pestered me…♪
 {% endbubble %}
 
-{% bubble Tetora smile %}
+{% bubble Tetora smilesoft %}
 Ahaha, their positions are completely switched around this time, for real… Now do you understand a li'l bit of how *we* usually feel?
 
 But personally, I’m real glad I got to know what you’re bad at, and where your weaknesses lie… I feel like I got to learn a lot more about you, Taichou.
@@ -848,7 +848,7 @@ But being how I normally am seems to do the trick, so maybe I really am fit for 
 If only I could always be praised for being sluggish…♪
 {% endbubble %}
 
-{% bubble Tetora smile3 %}
+{% bubble Tetora smileconfident %}
 Heheh, Taichou was pretty much useless this time, but Midori-kun’s been making up for it by shining way more than usual.
 
 We surprisingly always balance ourselves out.
