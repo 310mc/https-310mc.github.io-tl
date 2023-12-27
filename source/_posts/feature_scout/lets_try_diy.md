@@ -18,7 +18,7 @@ permalink: lets_try_diy/
 
 Midori tries to fix one of his precious mascot goods on his own, but…
 
-This story is connected to the card [One Step With A Challenge] Midori Takamine.
+This story is connected to the card [A Challenging Step] Midori Takamine.
 
 <p style="color:blue;font-size:110%;"><b>Story Release Date:</b> December 10, 2023</p>
 

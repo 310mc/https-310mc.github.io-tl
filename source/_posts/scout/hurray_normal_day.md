@@ -5,6 +5,7 @@ categories:
 - [Enstars, ES!]
 - [Enstars, Midori]
 - [Enstars, Mao]
+- [Enstars, Basketball Club]
 tags:
 - Scout Story
 - Akira

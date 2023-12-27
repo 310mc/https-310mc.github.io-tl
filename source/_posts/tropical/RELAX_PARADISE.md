@@ -70,6 +70,10 @@ permalink: RELAX_PARADISE/
 **Translation Note:** The word for "favorite" is <em>daisuki</em> in Japanese, which would roughly translate to "likes/loves" or "things (we) love" in the song. The "likes" is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song's lyrics.
 {% endnote %}
 
+{% note narration %}
+**Translation Note:** <em>yuru(i)</em> means “laid-back”, “soft”.
+{% endnote %}
+
 <hr>
 <hr>
 

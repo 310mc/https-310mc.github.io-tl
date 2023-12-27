@@ -69,6 +69,8 @@ This story is connected to the card [Negligent] Midori Takamine.
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/storylist.css">
+
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -326,6 +328,61 @@ I’ll go along with you guys as much as possible, so the least I ask is not to 
 
 Ughh, I can’t freaking take it anymore with these idiots…!
 {% endbubble %}
+
+## Midori Idol Stories
+
+<div class="stories">
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/birthofbasketbon/c2.jpg"
+                alt="Birth of Basketbon"
+            />
+        </div>
+        <a href="/birth_of_basketbon" class="storyName" target="_blank">
+            <span>Birth of Basketbon</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/morningpractice/c2.jpg"
+                alt="Morning Practice"
+            />
+        </div>
+        <a href="/morning_practice" class="storyName" target="_blank">
+            <span>Morning Practice</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/herogame/c1.jpg"
+                alt="Hero Game"
+            />
+        </div>
+        <a href="/hero_game" class="storyName" target="_blank">
+            <span>Hero Game</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
+                alt="Melancholic Club Activities"
+            />
+        </div>
+        <a href="/melancholic_club_activities" class="storyName" target="_blank">
+            <span>Melancholic Club Activities</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

@@ -120,6 +120,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/birthofbasketbon/c2.jpg"
+            alt="Birth of Basketbon"
+        />
+    </div>
+    <a href="/birth_of_basketbon" class="storyName" target="_blank">
+        <span>Birth of Basketbon</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/dailylifebasketball/c2.jpg"
             alt="Daily Life of Basketball Club"
         />

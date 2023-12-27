@@ -9,16 +9,16 @@ categories:
 tags:
 - Idol Story
 - Kanata Haruka
-description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Makoto. Shinobu wants to prove to Makoto that he can take care of the preparations for the Broadcast Committee…"
+description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Makoto. Shinobu wants to prove to Makoto that he can take care of the preparations for the Broadcast Committee all on his own…"
 permalink: backstage_radio/
 ---
 
 ![](/img/es/idolstory/backstageradio/c1.jpg)|![](/img/es/idolstory/backstageradio/c2.jpg)
 :-:|:-:
 
-Shinobu wants to prove to Makoto that he can take care of the preparations for the Broadcast Committee…
+Shinobu wants to prove to Makoto that he can take care of the preparations for the Broadcast Committee all on his own…
 
-This story is connected to the card [Growing ON AIR] Shinobu Sengoku.
+This story is connected to the card [Growth ON AIR] Shinobu Sengoku.
 
 <p style="color:blue;font-size:110%;"><b>Story Release Date:</b> December 10, 2023</p>
 

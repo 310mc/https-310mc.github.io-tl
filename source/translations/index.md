@@ -486,6 +486,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Idol Stories
 
 <h4>Ensemble Stars! Era</h4>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/idolstory/birthofbasketbon/c2.jpg"
+            alt="Birth of Basketbon"
+        />
+    </div>
+    <a href="/birth_of_basketbon" class="storyName" target="_blank">
+        <span>Birth of Basketbon</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="stories">
     <div class="story">
         <div class="image">

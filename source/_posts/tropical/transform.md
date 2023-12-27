@@ -543,7 +543,7 @@ Alright, next is Tetora-kun. Get into the feeling of being soft and act as Bearb
 {% endbubble %}
 
 {% bubble Midori worried %}
-Mm, it still feels stiff… You have to be more soft and lax…!
+Mm, it still feels stiff… You have to be more soft and laid-back…!
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}

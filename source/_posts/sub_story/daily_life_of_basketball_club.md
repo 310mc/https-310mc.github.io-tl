@@ -258,4 +258,4 @@ Nishishi. Keep taking those photos, Transfer student~♪
 
 ## Translation Notes
 
-[^1]: Buchou is a title to refer to “club captain”. For this line, Subaru says <em>buchou</em> for Chiaki instead of what he usually says, which is <em>senpai</em>
+[^1]: Buchou is a title to refer to “club captain”. For this line, Subaru says <em>buchou</em> for Chiaki instead of what he usually says, which is <em>senpai</em>.
