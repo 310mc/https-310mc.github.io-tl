@@ -2,6 +2,7 @@
 title: "[ES!!] Parallel World (Ryuseitai Scene ONLY!)"
 date: 2023-6-15 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Tetora]
@@ -11,7 +12,8 @@ categories:
 - [Enstars, Mitsuru]
 - [Enstars, Tomoya]
 - [Enstars, Hajime]
-- [Enstars, ES!!]
+- [Enstars, Ra*bits]
+- [Enstars, Ryuseitai]
 tags:
 - Event Story
 - Akira

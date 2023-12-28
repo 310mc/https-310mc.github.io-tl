@@ -2,12 +2,12 @@
 title: "[ES!] Crossroad (Chiaki Scenes ONLY!)"
 date: 2017-7-31 9:00:00
 categories:
+- [Enstars, ES!]
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]
 - [Enstars, Keito]
 - [Enstars, Rei]
 - [Enstars, Kuro]
-- [Enstars, ES!]
 tags:
 - Event Story
 - Akira

@@ -2,10 +2,10 @@
 title: "[ES!!] A Detour Encounter"
 date: 2021-2-10 15:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Tori]
 - [Enstars, Jun]
 - [Enstars, Midori]
-- [Enstars, ES!!]
 - [Enstars, Manga Club]
 tags:
 - Idol Story

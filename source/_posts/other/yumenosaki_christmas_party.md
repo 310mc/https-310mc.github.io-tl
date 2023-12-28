@@ -2,6 +2,7 @@
 title: "[ES!] Christmas Party in Yumenosaki Academy"
 date: 2019-12-25 2:50:00
 categories:
+- [Enstars, ES!]
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]
 - [Enstars, Shu]
@@ -14,7 +15,6 @@ categories:
 - [Enstars, Hinata]
 - [Enstars, Hajime]
 - [Enstars, Tomoya]
-- [Enstars, ES!]
 tags:
 - Idol Story
 - Yuuki Yoshino
