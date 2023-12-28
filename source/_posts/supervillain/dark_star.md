@@ -403,7 +403,7 @@ That would be visually easier to understand, after all. They’ve made an overly
 
 But… I don’t know how I feel about depicting the hero, who should be a perfectly righteous existence for children, as being tainted with evil.
 
-Of course, evil Kamen Riders, evil Ultramen, and various others alike already do exist, I’m well aware that they’re popular.
+Of course, evil Kamen Riders, evil Ultramen, and various others alike already do exist, and I’m well aware that they’re popular.
 
 But what the kids — No, what *I* want to see are cool, virtuous heroes.
 {% endbubble %}
@@ -817,7 +817,7 @@ My point is, the online news about Nagumo leaving Ryuseitai and creating a new g
 {% endbubble %}
 
 {% bubble Kanata frown %}
-that is what is called [fake news], yes? we have been constantly suffering from such reports since [summer].
+that is what is called [fake news], yes? we have been constantly suffering from such reports since the [summer].
 {% endbubble %}
 
 {% bubble Chiaki v2 %}

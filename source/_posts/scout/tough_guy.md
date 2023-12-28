@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Tough Guy"
-date: 2023-12-25 9:00:00
+date: 2015-11-15 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

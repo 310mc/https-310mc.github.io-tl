@@ -7,6 +7,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Hajime]
 - [Enstars, Tomoya]
+- [Enstars, Basketball Club]
 tags:
 - Idol Story
 - Yuuki Yoshino

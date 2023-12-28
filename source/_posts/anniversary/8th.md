@@ -3,6 +3,11 @@ title: "[ES!!] 8th Anniversary (In progress!)"
 date: 2023-4-27 9:00:00
 categories:
 - [Enstars, ES!!]
+- [Enstars, Chiaki]
+- [Enstars, Kanata]
+- [Enstars, Tetora]
+- [Enstars, Midori]
+- [Enstars, Shinobu]
 - [Enstars, Ryuseitai]
 tags:
 - Happy Elements K.K.

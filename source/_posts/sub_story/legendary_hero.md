@@ -7,6 +7,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Tetora]
 - [Enstars, Jin]
+- [Enstars, Ryuseitai]
 tags:
 - Idol Story
 - Akira

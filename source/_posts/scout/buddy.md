@@ -7,6 +7,7 @@ categories:
 - [Enstars, Midori]
 - [Enstars, Shinobu]
 - [Enstars, Madara]
+- [Enstars, Ryuseitai]
 tags:
 - Scout Story
 - Yuuki Yuushino

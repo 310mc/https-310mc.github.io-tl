@@ -10,9 +10,17 @@ tags:
 - Scout Story
 - Akira
 - Story Index
-description: "[ES!] Mao and Midori relax for a day during Basketball Club activities…"
+description: "[ES!] Mao and Midori relax for a day during the New Years break…"
 permalink: hurray_normal_day/
 ---
+
+![](/img/es/scoutstory/hurraynormal/c1.jpg)|![](/img/es/scoutstory/hurraynormal/c2.jpg)
+:-:|:-:
+
+Mao and Midori relax for a day during the New Years break…
+
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> December 30, 2018</p>
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
@@ -68,7 +76,7 @@ This story is translated by <a href="https://twitter.com/yoroshikilled" target="
     <p><span><b>Location:</b> Gymnasium</span></p>
 </div>
 
-{% img /img/es/scoutstory/hurraynormal/1_1.jpg %}
+{% img /img/es/scoutstory/hurraynormal/1.jpg %}
 
 <div class="msr-narration">
     <p>One day during New Years' vacation…</p>
@@ -84,7 +92,7 @@ This story is translated by <a href="https://twitter.com/yoroshikilled" target="
 <th>Here we go… Ahh, I was so focused on not thinking at all, I forgot the pointers I’m supposed to follow…)</th>
 {% endbubble %}
 
-{% img /img/es/scoutstory/hurraynormal/1_2.jpg %}
+{% img /img/es/scoutstory/hurraynormal/2.jpg %}
 
 {% bubble Mao %}
 He~ya ♪
@@ -103,7 +111,7 @@ Right, Happy New Year's~♪
 {% endbubble %}
 
 {% bubble Midori %}
-………
+…………
 {% endbubble %}
 
 {% bubble Mao %}

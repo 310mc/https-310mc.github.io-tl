@@ -8,6 +8,7 @@ categories:
 - [Enstars, Kanata]
 - [Enstars, Tetora]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai]
 tags:
 - Idol Story
 - Akira

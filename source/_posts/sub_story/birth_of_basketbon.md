@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Birth of Basket-bon"
-date: 2023-12-27 9:00:00
+date: 2016-5-26 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]
@@ -260,6 +260,10 @@ What, I’m really curious to hear now… Okay, I’ll do my best then…
 <th>(I’ll keep at it a little longer without giving up… Watch over me, Basket-bon…♪)</th>
 {% endbubble %}
 
+{% note narration %}
+For more Mao and Midori in the Basketball Club, please read <a href="/hurray_normal_day/" target="_blank">First Dreams – Hurray for a Normal Day</a>, set in winter time!
+{% endnote %}
+
 ## Midori Idol Stories
 
 <div class="stories">
@@ -320,4 +324,4 @@ What, I’m really curious to hear now… Okay, I’ll do my best then…
 ## Translation Notes
 
 [^1]: Basket-bon's (called <em>basukebon</em> in Japanese) first-person pronoun is <em>boku</em>, which makes it sound soft and friendly. In comparison, Mao uses the <em>ore</em> first-person pronoun, which is more masculine.
-[^2]: yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
+[^2]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.

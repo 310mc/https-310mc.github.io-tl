@@ -2,13 +2,15 @@
 title: "SS Finals – Ryuseitai's Scenes"
 date: 2021-12-31 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
-- [Enstars, Subaru]
 - [Enstars, Tetora]
 - [Enstars, Shinobu]
-- [Enstars, Hokuto]
 - [Enstars, Kanata]
+- [Enstars, Subaru]
+- [Enstars, Hokuto]
+- [Enstars, Ryuseitai]
 tags:
 - Main Story
 - Akira

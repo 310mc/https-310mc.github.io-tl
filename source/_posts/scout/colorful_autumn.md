@@ -7,6 +7,7 @@ categories:
 - [Enstars, Kanata]
 - [Enstars, Tetora]
 - [Enstars, Souma]
+- [Enstars, Ryuseitai]
 tags:
 - Scout Story
 - Yuuki Yoshino
@@ -20,9 +21,9 @@ hidden: true
         <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/NAMEbcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
+                <div class="title-area__title">Colorful Autumn</div>
+                <div class="title-area__subtitle">彩りオータム</div>
+                <div class="title-area__start"><a href="/colorful_autumn#Chapter-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -34,7 +35,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Autumn
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -42,7 +43,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            9
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -50,7 +51,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Yuuki Yoshino
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -58,11 +59,10 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -78,7 +78,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            Anonymous
                         </div>
                     </div>
                 </div>
@@ -178,10 +178,10 @@ hidden: true
                     <div class="tab-content">
                         <div class="tab-item">
                             <div class="label">
-                                Event
+                                Scout
                             </div>
                             <div class="value">
-                                TBA
+                                Scout! Colorful Autumn
                             </div>
                         </div>
                         <div class="tab-item">
@@ -189,7 +189,7 @@ hidden: true
                                 Event Duration
                             </div>
                             <div class="value">
-                                2021/5/31 (15:00 JST) - 2021/6/8 (22:00 JST)
+                                2016/10/30 (15:00 JST) - 2016/11/14 (15:00 JST)
                             </div>
                         </div>
                     </div>
@@ -203,38 +203,6 @@ hidden: true
                             <div class="gallery-item">
                                 <div class="image">
                                     <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakiorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/chiakibcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -445,19 +413,6 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
-                        </li>
-                        <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                        </li>
-                        <li>
                             <span>TBA</span>
                             <a href="TBA" id="none">1</a>
                             <a href="TBA" id="none">2</a>
@@ -468,9 +423,6 @@ hidden: true
                             <a href="TBA" id="none">7</a>
                             <a href="TBA" id="none">8</a>
                             <a href="TBA" id="none">9</a>
-                        </li>
-                        <li>
-                            <a href="TBA" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>

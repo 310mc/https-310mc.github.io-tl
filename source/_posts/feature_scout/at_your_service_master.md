@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] I'm At Your Service, Master!"
-date: 2023-12-19 9:00:00
+date: 2022-11-10 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tori]

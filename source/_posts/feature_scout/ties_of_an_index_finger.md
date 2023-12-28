@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ties of an Index Finger"
-date: 2023-12-18 9:01:00
+date: 2022-5-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Subaru]

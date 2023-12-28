@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Daily Life of Basketball Club"
-date: 2023-12-26 9:00:00
+date: 2016-1-26 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

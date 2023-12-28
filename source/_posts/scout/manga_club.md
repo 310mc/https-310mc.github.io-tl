@@ -13,6 +13,7 @@ categories:
 - [Enstars, Makoto]
 - [Enstars, Hokuto]
 - [Enstars, Jin]
+- [Enstars, Manga Club]
 tags:
 - Scout Story
 - Nishioka Maiko

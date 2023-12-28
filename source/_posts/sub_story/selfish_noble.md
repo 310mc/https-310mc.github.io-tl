@@ -5,6 +5,7 @@ categories:
 - [Enstars, Hiyori]
 - [Enstars, Jun]
 - [Enstars, ES!]
+- [Enstars, Eve]
 tags:
 - Idol Story
 - Akira

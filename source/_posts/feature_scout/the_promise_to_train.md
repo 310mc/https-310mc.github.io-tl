@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] The Promise To Train"
-date: 2023-12-18 9:00:00
+date: 2023-10-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
