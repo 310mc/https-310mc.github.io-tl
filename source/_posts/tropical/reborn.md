@@ -496,7 +496,7 @@ I’d never imagined that I’d hear about rules from you, Kanata, but… Yeah, 
 It’s almost a miracle that he remained as an idol with us, after all.
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 But I’m sure Takamine will bring a new color into Ryuseitai eventually. I believe in him!
 {% endbubble %}
 

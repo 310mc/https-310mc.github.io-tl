@@ -195,7 +195,7 @@ I often get injured during my stunt work, so I know how to treat small injuries!
 {% endbubble %}
 
 {% bubble Chiaki glare %}
-Then why’s Takamine crying!? Anzu, Sengoku, please give me a full report of what happened!
+Then why is Takamine crying!? Anzu, Sengoku, please give me a full report of what happened!
 {% endbubble %}
 
 {% bubble Chiaki sad4 %}

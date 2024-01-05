@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] TBA"
-date: 2023-12-18 9:01:00
+title: "[ES!!] How to Read Books and Handle Them"
+date: 2024-1-7 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -9,19 +9,19 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] Translation of a Midori Feature Scout story, featuring Jun. TBA…"
-permalink: midoritba2/
+description: "[ES!!] Translation of a Midori Feature Scout story, featuring Jun. Midori and Jun talk about manga together in the theatre room…"
+permalink: how_to_read_books_and_handle_them/
 hidden: true
 ---
 
-![](/img/es/idolstory/TBA/c1.jpg)|![](/img/es/idolstory/TBA/c2.jpg)
+![](/img/es/idolstory/readandhandlebooks/c1.jpg)|![](/img/es/idolstory/readandhandlebooks/c2.jpg)
 :-:|:-:
 
-TBA…
+Midori and Jun talk about manga together in the theatre room…
 
-This story is connected to the card [TBA] Midori Takamine.
+This story is connected to the card [Manga Talk] Midori Takamine.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> May 25, 2022</p>
+<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> August 25, 2022</p>
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -48,7 +48,7 @@ This story is connected to the card [TBA] Midori Takamine.
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, <a href="https://hyenahunt.tumblr.com">hyenahunt</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -72,10 +72,10 @@ This story is connected to the card [TBA] Midori Takamine.
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
+    <p><span><b>Location:</b> Theatre Room</span></p>
 </div>
 
-{% img /img/es/idolstory/TBA/1.jpg %}
+{% img /img/es/idolstory/readandhandlebooks/1.jpg %}
 
 ## Midori Feature Scout Stories
 
@@ -144,6 +144,6 @@ This story is connected to the card [TBA] Midori Takamine.
 
 <hr>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div toc>{% btn https://hyenahunt.tumblr.com,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

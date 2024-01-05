@@ -257,7 +257,7 @@ I'm not playing with him… Though I do think I should reward Sengoku sooner or 
 {% endbubble %}
 
 {% bubble Chiaki %}
-I recall him saying he’s simply returning the favor you did for him in Scroll of the Elements, so don’t worry about it.
+I recall him saying he’s simply returning the favor you did for him in Scroll of the Elements[^1], so don’t worry about it.
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -682,7 +682,7 @@ I'm goin’ nowhere! I won't budge ‘til you gimme a reason that makes sense to
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^1]
+Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^2]
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -834,7 +834,7 @@ Look over there. The hell is that…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Hmm!? Did a kaijuu appear from the ocean!? Maybe King Caesar[^2]…!? ☆
+Hmm!? Did a kaijuu appear from the ocean!? Maybe King Caesar[^3]…!? ☆
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1032,7 +1032,7 @@ Wha!? No, um, I’ve never really thought that deeply about religion, honestly�
 {% endbubble %}
 
 {% bubble Kanata serious %}
-still. everyone always avoids that Topic, don’t they? i know that we are the type of People that others would prefer avoiding.[^3]
+still. everyone always avoids that Topic, don’t they? i know that we are the type of People that others would prefer avoiding.[^4]
 
 because we are something scary, something that is unfathomable — something like a Monster.
 
@@ -1350,7 +1350,7 @@ Conceal? Do you mean manipulation and concealment of information?
 {% endbubble %}
 
 {% bubble Kanata serious %}
-no. what it means is that he must Kill.[^4]
+no. what it means is that he must Kill.[^5]
 {% endbubble %}
 
 {% bubble Midori worried %}
@@ -1604,7 +1604,7 @@ Gentlemen, feast your eyes on this!
 {% img /img/es/eventstory/submarine/soumaorigcg.jpg %}
 
 {% bubble Souma v3 %}
-This is a secret technique of the Kanzaki blade style: Dance of Divine Slicing[^5]…!
+This is a secret technique of the Kanzaki blade style: Dance of Divine Slicing[^6]…!
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1678,7 +1678,7 @@ Fine with me, though… since he’s always so overbearing… I hope his order s
 {% endbubble %}
 
 {% bubble Souma v3 %}
-Fufu, you should not utter such insincere statements such as that. Do not underestimate the power of the spoken word.
+Fufu, you should not utter such insincere statements such as that. There exists what we call the power of the spoken word.
 
 Nonetheless, though Morisawa-dono constantly needs to separate from his members, I am grateful that it allows him to take care of Kiryu-dono, as he continues to be in poor health.
 
@@ -1770,7 +1770,7 @@ It sounds profoundly deep when uttered by you, Shinkai-dono.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-that is because the Deep sea[^6] has strong Water pressure~♪
+that is because the Deep sea[^7] has strong Water pressure~♪
 
 that is why i was going to be Fine. i am used to harsh Environments.
 
@@ -1969,9 +1969,11 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 </div>
 
 ## Translation Notes
-[^1]: This is a reference to Chapter 200 of the first main story.
-[^2]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
-[^3]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
-[^4]: Typically, <em>kakusu</em> means to conceal, but it has an archaic meaning to say “to behead”.
-[^5]: “The Dance of Divine Slicing” shares a pronunciation with the name <em>Kanzaki</em>, the <em>kan</em> in the technique being “god”, and the <em>zaki</em> being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).
-[^6]: A wordplay with his name, <em>shinkai</em>, which also means deep sea.
+
+[^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Akatsuki and Ryuseitai story</a>.
+[^2]: This is a reference to Chapter 200 of the first main story.
+[^3]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
+[^4]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
+[^5]: Typically, <em>kakusu</em> means to conceal, but it has an archaic meaning to say “to behead”.
+[^6]: “The Dance of Divine Slicing” shares a pronunciation with the name <em>Kanzaki</em>, the <em>kan</em> in the technique being “god”, and the <em>zaki</em> being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).
+[^7]: A wordplay with his name, <em>shinkai</em>, which also means deep sea.

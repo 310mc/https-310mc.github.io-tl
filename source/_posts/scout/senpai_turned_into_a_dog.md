@@ -339,7 +339,7 @@ permalink: senpai_turned_into_a_dog/
 
 <th>(But I thought I heard some dribbling going on a second ago…)</th>
 
-<th>(Did I just imagine it…? I mean, that kinda sound lingers in your ears…)</th>
+<th>(Did I just imagine it…? I mean, that kind of sound lingers in your ears…)</th>
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -477,7 +477,7 @@ U-Um… I—Uh…
 
 <th>(Seeing people get angry makes me anxious…)</th>
 
-<th>(We did talk a little during Scroll of the Elements, but it’s still hard for me to interact with him…)</th>
+<th>(We did talk a little during Scroll of the Elements[^1], but it’s still hard for me to interact with him…)</th>
 
 <th>(Ughh… I gotta get out of here before something bad happens…)</th>
 {% endbubble %}
@@ -605,7 +605,7 @@ I’m kidding, I’m kidding… You hate eggplants, after all…
 
 <th>(That’s weird… He always freezes up at the sight of eggplants…)</th>
 
-<th>(Maybe turning into a dog made his taste buds change…? Hrrmmm…? I feel like I might have made a huge misunderstanding right from the start…)</th>
+<th>(Maybe turning into a dog made his taste buds change…? Hrmm…? I feel like I might have made a huge misunderstanding right from the start—…)</th>
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -709,7 +709,7 @@ Well, whatever… I did something really embarrassing, but… it would’ve been
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
-In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what's number one…♪[^1]
+In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what's number one…♪[^2]
 {% endbubble %}
 
 <div toc>
@@ -719,4 +719,5 @@ In the end, the most important thing is that nothing bad happened… No, actuall
 
 ## Translation Notes
 
-[^1]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 event story). As an extra note, the SS story was released alongside this scout story, just a day after.
+[^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Akatsuki and Ryuseitai story</a>.
+[^2]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 event story). As an extra note, the SS story was released alongside this scout story, just a day after.

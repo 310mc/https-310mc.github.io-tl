@@ -245,7 +245,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 {% img /img/es/eventstory/tropical/ep2_2.jpg %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 <th>(You did incredible work, Takamine. You truly give off the aura of a commander.)</th>
 {% endbubble %}
 

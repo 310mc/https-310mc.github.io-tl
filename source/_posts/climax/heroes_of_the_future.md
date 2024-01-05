@@ -538,7 +538,7 @@ If you don't like my face being this close, then reply back. At least go “yeah
 Don’t ignore me, it feels lonely.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Don't worry, I won't say anything that'd hurt you. Though I suppose you're thinking that’s just a load of garbage, especially after all the stress that I've put you through.
 {% endbubble %}
 
@@ -546,7 +546,7 @@ Don't worry, I won't say anything that'd hurt you. Though I suppose you're think
 ……………
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 You don't have much time. You have to go now, they're all waiting for you.
 
 …Leave this place to us.
@@ -572,7 +572,7 @@ So I felt that it might suit me to be an idol.
 I hastily decided that was the way that I should live — the thing that best fits with what I could do.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 That was the reason at first. That's how everyone is at first. People aren't always aiming to be an idol because of a big dream or ideal.
 
 That's why, Takamine, there's no need to look down on yourself.
@@ -616,7 +616,7 @@ But it isn't something to feel guilty about at all. That’s what units are for.
 It exists so that, together, we can climb up to a place we wouldn’t be able to reach on our own.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 I'm not a genius like Kanata. But thanks to Ryuseitai — Thanks to everyone, I was able to make my dream come true.
 
 I won't frown on that. I’m thankful and proud of it.

@@ -14,6 +14,7 @@ categories:
 - [Enstars, Hajime]
 - [Enstars, Ra*bits]
 - [Enstars, Ryuseitai]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Event Story
 - Akira

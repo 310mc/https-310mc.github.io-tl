@@ -5,6 +5,7 @@ categories:
 - [Enstars, ES!]
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Extra
 description: "[ES!!] Content about Ryuseitai from the Dokisuta stream."

@@ -246,7 +246,7 @@ And Kanata and I will be able to graduate without any worries…☆
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki norsmile %}
+            	{% bubble Chiaki norsmile2 %}
               Anzu, don’t look so sad.
 
               It’s a hero’s duty to make people smile, so please let me fulfill it!

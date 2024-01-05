@@ -640,6 +640,6 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 
 ## Translation Notes
 
-[^1]: They're in the same area that appeared in Scroll of the Elements.
+[^1]: They're in the same area that appeared in <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Scroll of the Elements</a>.
 [^2]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
 [^3]: This plushie appears in Midori's <a href="https://ensemble-stars.fandom.com/wiki/%28Healing_Ninja%29_Midori_Takamine" target="_blank">Scroll of the Elements card</a>.

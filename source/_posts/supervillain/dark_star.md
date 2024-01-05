@@ -762,7 +762,7 @@ Yeah, please do. There are also various rumors and speculations circulating on t
 yes~… the [internet] is so scary. i have come to understand that during the [summer].
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Yeah, but I don’t think we should stay away from it excessively like how Takamine is. It’s how you utilize the enormous power you’ve been bestowed that determines whether you’re a hero of justice or a villain.
 
 I learned that from Kamen Rider.

@@ -290,7 +290,7 @@ Until we persuade him to come, we can move around freely. We can have private di
 They may catch on if we keep repeating this over and over again, but it should still be okay for now. Midori-kun’s famous for being the “unmotivated character”.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Yeah. In fact, it’s really surprising that even Takamine stuck around in this dangerous place. He could’ve run back to ES as soon as he had the chance…
 
 He’s been a man with an element of surprise this time around.
@@ -769,7 +769,7 @@ Or the idiot Morisawa-senpai, who tried to take in all the hatred during Comet S
 <th>(We’re such idiotic, weak, foolish, tiny beings that it’s almost absurd to call ourselves heroes.)</th>
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 <th>(But even so—)</th>
 {% endbubble %}
 
@@ -987,7 +987,7 @@ Will they really be convinced…? Isn’t it *too* aggressive?
 Like… “We tried to replicate this exact storyline in real life, too! What do you think? Isn’t it interesting?” — Wouldn’t that be a little offensive? It’s too tasteless of a joke, don’t you think…?
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Well… We’ll just have to be patient and persistently explain to the public that we had no other choice.
 
 What’s important here is that we fulfill our duty, whether forcefully or otherwise.
@@ -1035,7 +1035,7 @@ Mhm, mhm. I barely had to do anything this time, y’know? And yet, here I am, g
 Life is so nice and easy when someone else does all the work to solve the problem without you ever lifting a finger.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 You weren’t having an easy time either, though. You’re so worn out that you have circles under your eyes, Takamine. You did your best, too. We *all* did our best.
 {% endbubble %}
 

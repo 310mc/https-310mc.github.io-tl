@@ -331,7 +331,7 @@ yes, we will meet again somewhere, kaoru.
 
 {% img /img/es/eventstory/climax/epilogue2_2.jpg %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Ah no, I just thought it’d be rude to interrupt. Even I read the room sometimes, Kanata.
 {% endbubble %}
 
@@ -411,7 +411,7 @@ Festival guy… Ahh, that weirdo…
 yes. that [rogue].
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Yeah, he caused me a lot of trouble when he just went and left Ryuseitai.
 
 So at the very least, before school ends, he’s helping us out right now as a former brother-in-arms who wore the same uniform.
@@ -687,7 +687,7 @@ So she said, “I ended up making outfits for all five of you\~” with her tong
 That face she made was definitely on purpose! Is she one of those cute villain ladies who appear in tokusatsu or what!?
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 In any case, there are outfits for us too, so it’d be a waste not to wear them, wouldn’t it?
 
 And besides, this may be the last chance for the five of us to be on stage together.

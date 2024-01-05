@@ -895,7 +895,7 @@ Ahh~! Don’t touch it! I put so much effort into shining that ball sparkly clea
 It’s <em>my</em> ball. It’s up to me whether I want to touch it, hug it, or eat it! Spin, spin~♪
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 Anyway, that’s why I couldn’t show up to the club today. Sorry, you two.
 
 You see, I owe Kiryu for something in the past… He has my utmost gratitude for it, so I’m really touched that he’s relying on me this time.

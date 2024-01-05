@@ -502,7 +502,7 @@ Hm? C’mon, show us.
 {% endbubble %}
 
 {% bubble Keito %}
-Hm, I should’ve brought my tablet — It would’ve been easier to show you on a bigger screen.
+Hm, I should’ve brought my tablet. It would’ve been easier to show you on a bigger screen.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -770,7 +770,7 @@ Haha… It’s a li’l creepy to think that someone’s being drawn in a manga 
 {% endbubble %}
 
 {% bubble Keito %}
-Agreed. It’s even violating people’s personal rights[^6] — some characters are depicted very negatively, which is essentially defamation.
+Agreed. It’s even violating people’s personal rights[^6]. Some characters are depicted very negatively, which is essentially defamation.
 
 For example, a character who looked like you appeared for a moment.
 
@@ -836,7 +836,7 @@ But that’s exactly why I’d rather they draw an original manga that would be 
 
 No, not only that— They deserve something better than drawing a manga created only for the sake of criticism and personal grudges towards us.
 
-There’s no denying it — the things we’ve done are unworthy of praise. Akatsuki were villains of the revolution that happened a year ago.
+There’s no denying it: the things we’ve done are unworthy of praise. Akatsuki were villains of the revolution that happened a year ago.
 
 But that story has ended.
 
@@ -852,7 +852,7 @@ I don’t want anyone digging up the past and exposing it just for the sake of c
 {% bubble Kuro %}
 Alright. Though maybe you’re just being paranoid, like you said.
 
-The artist might not have had any of those intentions — They might’ve just felt like it’d be interesting, and made the story without thinking.
+The artist might not have had any of those intentions. They might’ve just felt like it’d be interesting, and made the story without thinking.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1624,9 +1624,9 @@ If the storm had kept going like that, even I would’ve blown away.
 {% bubble Keito %}
 Hmph, there’s no reason to thank him, Kiryu.
 
-Humans can’t stop a natural phenomenon — Shinkai’s prayer has nothing to do with the weather changing.
+Humans can’t stop a natural phenomenon. Shinkai’s prayer has nothing to do with the weather changing.
 
-This isn’t some manga — You have to separate reality from wild dreams.
+This isn’t some manga. You have to separate reality from wild dreams.
 {% endbubble %}
 
 {% bubble Kuro %}

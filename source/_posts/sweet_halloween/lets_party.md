@@ -874,7 +874,7 @@ although, i do suppose it is much [better] to do that than to treat everything w
 you [should not] intrude on their festival\~ let’s [relax], and enjoy it in our own way\~♪
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 …Yeah. You’re right, I don’t need to act big, as if I’ve got to do everything myself, do I?
 
 The kids are growing up to be strong and amazing. I really got to see and feel that from the bottom of my heart this time around.

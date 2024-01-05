@@ -126,7 +126,7 @@ I’m struggling with that part, too. If we were to take it too seriously and fu
 And I tend to push myself to perform as properly as possible, which honestly doesn’t feel soft and fluffy at all…
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 I think it’s fine to work as hard as you possibly can, though.
 {% endbubble %}
 
@@ -322,7 +322,7 @@ Ah, um… Just to be clear, they aren’t <em>that</em> traditional. Though the 
 Anyway, we’ve come here so that you can all get a feel of what mascot characters are by bonding with them. So don’t think too hard about it, and just enjoy yourselves.
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 Ooh, I read the pamphlet they handed out. It sounds like Pop-dayuu came from a famous shamisen production facility, and traveled a long distance to arrive here.
 
 They host a talk show, perform live music, and then even open a photoshoot session… These sort of resemble the kinds of events you’d find at a hero show.

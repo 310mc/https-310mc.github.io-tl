@@ -323,7 +323,7 @@ After all, you’re just gonna keep working hard, aren’tcha, Chi~chan-senpai? 
 <th>(That’s why, this injury could perhaps be—)</th>
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 A man’s own medal, maybe. That’s a much cooler way to call it.
 {% endbubble %}
 

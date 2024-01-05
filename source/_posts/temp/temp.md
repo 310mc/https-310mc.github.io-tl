@@ -1,32 +1,30 @@
 ---
-title: "[ES!!] Supervillain"
-date: 2023-02-08 9:00:00
+title: "[ES!!] TBA (In Progress!)"
+date: 2024-1-23 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
+- Story Index
 - Event Story
 - Akira
-- Story Index
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
-permalink: supervillain/
+description: "[ES!!] TBA"
+permalink: temp/
+hidden: true
 ---
-
-<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/supervillain/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/kanatabcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Supervillain</div>
-                <div class="title-area__subtitle">スーパーヴィラン</div>
-                <div class="title-area__start"><a href="/supervillain/prologue">Start Reading</a></div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__start"><a href="TBA">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                <em>While one advances towards a future that cannot be foretold—<br>
-                What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -34,7 +32,7 @@ permalink: supervillain/
                             Season
                         </div>
                         <div class="value">
-                            Winter
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -42,7 +40,7 @@ permalink: supervillain/
                             Chapters
                         </div>
                         <div class="value">
-                            25
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -79,15 +77,23 @@ permalink: supervillain/
                         </div>
                         <div class="value">
                             ryuseipuka
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
 <!-- more -->
+
+{% note narration %}
+This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader. This is shown in <b><a href="/tropical" target="_blank">Tropical</a></b>, with Midori's Ryuseitai as the leader.
+{% endnote %}
+
+{% note narration %}
+For more information on Ryuseitai's status after <b><a href="/supervillain" target="_blank">Supervillain</a></b>, please refer to the timeline and relationship chart from their <b><a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a></b> stream.
+{% endnote %}
 
 <style>
     .preview-wrapper {
@@ -101,23 +107,21 @@ permalink: supervillain/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/supervillain/tetoraorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/kanataorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"></div>
+                <div><img src="/img/es/eventstory/eventname/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Supervillain</div>
-                <div class="title-area__subtitle">スーパーヴィラン</div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
                 <div class="title-area__start">
-                    <a href="prologue">Start Reading</a>
+                    <a href="TBA">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                <em>While one advances towards a future that cannot be foretold—<br>
-                What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -125,7 +129,7 @@ permalink: supervillain/
                             Season
                         </div>
                         <div class="value">
-                            Winter
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -133,7 +137,7 @@ permalink: supervillain/
                             Chapters
                         </div>
                         <div class="value">
-                            25
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -141,7 +145,7 @@ permalink: supervillain/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            TBA
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -179,19 +183,11 @@ permalink: supervillain/
                     </div>
                     <div class="tab-content">
                         <div class="tab-item">
-                          <div class="label">
-                            Associated Song
-                            </div>
-                          <div class="value">
-                            <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4">Colors Arise</a> — <a href="/colors_arise">(Song Lyrics)</a>
-                            </div>
-                        </div>
-                        <div class="tab-item">
                             <div class="label">
                                 Event
                             </div>
                             <div class="value">
-                                Colored Stars, Reborn! The Universe That Envelops Everything Whole
+                                TBA
                             </div>
                         </div>
                         <div class="tab-item">
@@ -199,7 +195,7 @@ permalink: supervillain/
                                 Event Duration
                             </div>
                             <div class="value">
-                                2023/1/31 (15:00 JST) - 2023/2/8 (22:00 JST)
+                                2024/1/15 (15:00 JST) - 2024/1/23 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -212,50 +208,50 @@ permalink: supervillain/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/tetoraorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Dark Star 4
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/shinobuorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Dark Star 6
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/chiakiorigcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Supersized Villain 2
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/shinobubcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Supersized Villain 13
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/chiakibcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/midoribcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Supersized Villain 15
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/tetorabcg.jpg">
+                                    <img src="/img/es/eventstory/eventname/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Supersized Villain 15
+                                    TBA
                                 </div>
                             </div>
                         </div>
@@ -270,33 +266,33 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">It's time for work at the evil organization.<!--悪の組織のお仕事だ--></div>
-                                            <div class="bloomed">This is the path I've decided on!<!--これが俺の決めた道ッス！--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Battle] Tetora Nagumo</div>
-                                    <div class="card__jp">[闘争アンリミテッド] 南雲 鉄虎</div>
+                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__jp">[] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">The Way to Seize the Future<!--未来の掴み方--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Universe of Justice and Evil<!--正義と悪の宇宙--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">The Answer Found On His Own<!--自身で出す答え--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -306,33 +302,33 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">What is going on here?<!--マジで何なんでござるか？--></div>
-                                            <div class="bloomed">We will always support each other!<!--支え合っていくでござる！--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Effort] Shinobu Sengoku</div>
-                                    <div class="card__jp">[奔走アンリミテッド] 仙石 忍</div>
+                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">The Way to Overcome Crisis<!--危機の乗り切り方--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Universe of Naivety and Trust<!--純真と信頼の宇宙--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Investigation Trap<!--調査先の罠--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -342,33 +338,33 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">Nagumo…<!--南雲…--></div>
-                                            <div class="bloomed"><small>We're comrades that always join forces, aren't we?</small><!--手を取り合える仲間だろう--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited United Front] Chiaki Morisawa</div>
-                                    <div class="card__jp">[共闘アンリミテッド] 守沢 千秋</div>
+                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">The Way to Live as One Dreams<!--夢見た在り方--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Universe of Ideals and Reality<!--理想と現実の宇宙	--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Down To Earth Conversation<!--迫真のやり取り--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -378,33 +374,33 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoricard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><small>Wow, you can do it easily… It's impossible for me…</small><!--よくできるよね…俺は無理…--></div>
-                                            <div class="bloomed">It's just like us to be uneven, isn't it…? ♪<!--凸凹なのが俺たちでしょ…♪--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Playing Around] Midori Takamine</div>
-                                    <div class="card__jp">[翻弄アンリミテッド] 高峯 翠</div>
+                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">The Way to Live in Reality<!--現実の生き方--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Universe of Escape and Facing Forward<!--逃避、向き合う宇宙--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Troublesome Development<!--厄介な展開--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -414,33 +410,33 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">let's do what we can.<!--できることはしましょう--></div>
-                                            <div class="bloomed">we will grow slowly but surely.<!--すこしずつせいちょうですね--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[unlimited recollection] Kanata Shinkai</div>
-                                    <div class="card__jp">[かいそうあんりみてっど] 深海 奏汰</div>
+                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">the way to understand<!--りかいのしかた--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">the universe of past and present<!--かこといまのうちゅう--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">plan taking action<!--さくせんこうどう--></div>
+                                                <div class="name"><!--TBA--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -455,65 +451,62 @@ permalink: supervillain/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="TBA" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="dark_star" id="none">Dark Star</a>                          
+                            <a href="TBA" id="none">TBA</a>
                         </li>
                         <li>
-                            <a href="supersized_villain" id="none">Supersized Villain (Chapter 1–8)</a>          
+                            <a href="TBA" id="none">TBA</a>
                         </li>
                         <li>
-                            <a href="supersized_villain_p2" id="none">Supersized Villain (Chapter 9–15)</a>          
-                        </li>
-                        <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="TBA" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
-              <div class="mini-talks">
-                    <div class="mini-talk">
-                        <div class="mt-header">Tetora Nagumo</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/tetora_1" id="none">Part 1</a>
-                            <a href="minitalk/tetora_2" id="none">Part 2</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Shinobu Sengoku</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="minitalk/shinobu_1" id="none">Part 1</a>
-                            <a href="minitalk/shinobu_2" id="none">Part 2</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part 1</a>
-                            <a href="minitalk/chiaki_2" id="none">Part 2</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Midori Takamine</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part 1</a>
-                            <a href="minitalk/midori_2" id="none">Part 2</a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="mini-talks">
                     <div class="mini-talk">
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/kanata_1" id="none">Part 1</a>
-                            <a href="minitalk/kanata_2" id="none">Part 2</a>
+                            <a href="minitalk/kanata_1" id="none">x</a>
+                            <a href="minitalk/kanata_2" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Character</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
+                            <a href="minitalk/NOTRANSLATION" id="none">x</a>
                             </div>
                         </div>
                     </div>

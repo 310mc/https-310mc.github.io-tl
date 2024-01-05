@@ -139,7 +139,7 @@ If we don’t report, contact, or consult you, you’ll grow anxious and come to
 You’ve always been exactly like an overprotective parent.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Nagumo… I’m so glad to see you’re doing alright.
 {% endbubble %}
 
@@ -337,7 +337,7 @@ But unlike how it was then, this time around was no accident. I hit you with ful
 Though, I was still a hero back then, and right now, I’m a villain to the very core.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Yeah, you surprisingly suit that role as well, Nagumo.
 
 I may have been destroying your potential for the sake of my dreams all this time.
@@ -359,7 +359,7 @@ I even thought that the heroes you admired matched the ideal that I should aspir
 The ideal man among men, that I’ve been striving to become since I was a little kid.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Ah, I see. How about now?
 
 Is there still a hero at the end of the path you’re walking?
@@ -439,7 +439,7 @@ That’s why I couldn’t complain to anyone. I just couldn't let myself whine �
 That’s why I tried to get through the days by always pretending to be an idiot who didn’t think or feel anything. I just smiled and laughed, convincing myself that I was happy.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 And then, on that starry night — I met Kanata, who had lived a much more pitiful life than I, and had never been treated as a human being—
 
 That mask of mine, of a crudely drawn smile, was completely smashed to pieces by Kiryu and Akehoshi—
@@ -583,7 +583,7 @@ Our generation has survived the Yumenosaki War Era, days that you’ve never exp
 ………
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 I wouldn’t ever barge into a dangerous place like this without any precautions or preparation in the first place.
 
 Regardless, even if I *do* get killed or otherwise disappear, Tenshouin will make his move. I made sure those arrangements were set in place before we left.
@@ -599,7 +599,7 @@ And if the supreme Tenshouin Zaibatsu comes into play here, the fate of Crimson 
 ………
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 I’ll say it a hundred times more. This time, it’s my victory — *our* victory, Nagumo.
 
 Your biggest mistake was to choose the path of evil. And typically, this isn’t something said to the loser, but—

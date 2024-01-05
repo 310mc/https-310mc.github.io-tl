@@ -2500,7 +2500,7 @@ I’d rather be covered with cream than betray all of you. I’m used to being c
 …I was prepared for any outcome, but… I didn’t think about what I’d do if <em>you</em> also suffered with me.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
+{% bubble Chiaki norsmile2 %}
 Sazanami…
 {% endbubble %}
 

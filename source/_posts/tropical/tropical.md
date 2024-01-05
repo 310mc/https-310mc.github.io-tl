@@ -4,7 +4,7 @@ date: 2023-7-8 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
-- [Enstars, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Kino Seitaro
 - Event Story
@@ -87,11 +87,11 @@ permalink: tropical/
 <!-- more -->
 
 {% note narration %}
-This story is set after <a href="/supervillain" target="_blank">Supervillain</a>. By the end of that story, Ryuseitai decide to take turns being the leader.
+This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader.
 {% endnote %}
 
 {% note narration %}
-For more information on Ryuseitai's status after <a href="/supervillain" target="_blank">Supervillain</a>, please refer to the timeline and relationship chart from their <a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a> stream.
+For more information on Ryuseitai's status after <b><a href="/supervillain" target="_blank">Supervillain</a></b>, please refer to the timeline and relationship chart from their <b><a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a></b> stream.
 {% endnote %}
 
 <style>
