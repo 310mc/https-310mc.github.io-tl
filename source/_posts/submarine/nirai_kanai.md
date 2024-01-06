@@ -981,7 +981,7 @@ Whaaa…? God? What do you mean…?
 I remember hearing you say some stuff *like* that, though… But I just thought it was another one of those “our seniors are talking about something stupid again” moments, and didn’t really listen properly.
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 gosh… this is all because chiaki always talks about Dumb stuff. you should learn to do better.
 {% endbubble %}
 
@@ -1743,7 +1743,7 @@ you two are quite Troublesome this Time around, aren’t you…?
 Indeed, and it is all a result of our orders.  …Incidentally, what order were you given, Shinkai-dono?
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 eh~? you know i cannot answer that, right?
 {% endbubble %}
 

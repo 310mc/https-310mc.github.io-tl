@@ -66,7 +66,7 @@ how about you come and [puka puka] with me, anzu-san~?
             I have work soon.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata sigh2 %}
+            {% bubble Kanata sighdrop %}
             that is a [shame]~… but it cannot be helped.
 
             i also have had so many [jobs] lately that i have to hold back from enjoying my [puka puka] time~…         

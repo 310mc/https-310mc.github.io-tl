@@ -397,7 +397,7 @@ We work as idols, after all. So at the very least, we have to properly go throug
 
 ## Chapter 3
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 *sigh…* i am not one to [think] of being an idol as [work].
 
 kaoru, you surprisingly have your [head] on your shoulders.
@@ -491,7 +491,7 @@ Buuut I don’t have a kitchen knife right now, so maaaybe I could use the dolph
 Heeey, what’s going on? Seriously… You look like you’re having fun talking to someone. Is it someone you know?
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 *sigh*… just some [rogue].
 {% endbubble %}
 
@@ -545,7 +545,7 @@ I’ll tell you now; I have permission to do this aaand I’m qualified enough f
 I can do aaany and aaall jobs swiftly. I plan to clean the water tanks next~♪
 {% endbubble %}
 
-{% bubble Kanata angry2 %}
+{% bubble Kanata angry %}
 doing such unnecessary things… no one asked for it, okay?
 
 if i were to just [restrain] myself, it would have all worked out peacefully.

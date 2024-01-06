@@ -1490,7 +1490,7 @@ you would teach me, wouldn’t you? that is what i had thought, so i had been se
 ……
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 but. i could not meet with you, and it was very— what was it… i think i felt “lonely”.
 
 i do not understand what Lonely means yet…
@@ -1508,7 +1508,7 @@ that… is really Lonely.
 —!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 wah! w-why are you Hugging me? you will get wet~ you Don’t like that, right?
 
 to you people, that is an Unpleasant feeling, right?
@@ -1522,7 +1522,7 @@ my Scales will fully peel off. that is why… um, chiaki? are you listening?
 …Yeah. I’m sorry for suddenly hugging you.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch20_2.jpg %}
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 no… i feel Warm now. it feels like the “lonely” is slowly Disappearing.
 
 i am not Good with hot things, but this does not feel Bad.
@@ -1557,7 +1557,7 @@ it’s so hot, i feel like i could melt…
 <th>(…Can I really become an ally of justice…?)</th>
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 chiaki~…?
 
 um. it is really distressing. you are putting Too much pressure — it is Painful.
@@ -1571,7 +1571,7 @@ such feelings don’t exist within the Ocean…
 No… The ocean would be much more agonizing. Humans can’t breathe underwater.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 yes, so it seems. i didn’t know that, because my household is within the Ocean, and i had not once thought of it as Agonizing.
 
 perhaps they added Air inside the Rooms…
@@ -1589,7 +1589,7 @@ but, it seems difficult. i seem to be a fishie who can’t swim.
 You aren’t a fish, y’know… and you aren’t a God, either.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …i *am* a god, though.
 
 after all, if there is no god, everyone will be in distress… i have to be a god, or else.
@@ -1599,7 +1599,7 @@ after all, if there is no god, everyone will be in distress… i have to be a go
 W-What do you mean? I mean, it’s true that the worshippers who serve you as their Living God would be in trouble without you, but otherwise…?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 no. without a god, the whole World will be in Distress.
 {% endbubble %}
 
@@ -1794,7 +1794,7 @@ i am sorry.
 Which means you aren’t the one to blame!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …? no… i am apologizing for being Inexperienced as a god, and for growing weaker…
 
 if i was a god, i would have been able to grant any Wish, right?
@@ -1902,7 +1902,7 @@ No matter how much we beg to be rescued, it would never bring about a miracle.
 If that’s what God is… then, even if it does truly exist, everything is practically the same as it’d be without its existence.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 whaa~? i am *different*! i would Save you if you tell me your wish! i would bring about Miracles, and grant wishes!
 
 that is what i have been doing all my life! that is why i am a god!
@@ -1922,7 +1922,7 @@ i will grant you that wish! right this instant!
 No… You don’t need to.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …whaaaat!?
 
 huh? why!? I don’t understand! please don't Hold back, please let me grant your wish!
@@ -1932,7 +1932,7 @@ huh? why!? I don’t understand! please don't Hold back, please let me grant you
 I refuse!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …huh? what? why? you are only Human, yet you oppose me? i’m a god, you know? you must listen to what i say!
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch22_2.jpg %}
@@ -1940,7 +1940,7 @@ I refuse!
 Never!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …w-why…? uuu, why don’t you want me to grant your wish? i don’t understaaand~!
 {% endbubble %}
 
@@ -1948,7 +1948,7 @@ Never!
 Mhm, alright! Allow me to explain! Becoming a hero is not my wish — it’s my *dream*!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 d-dream? what is that…? is it different from wishes?
 {% endbubble %}
 
@@ -1956,7 +1956,7 @@ d-dream? what is that…? is it different from wishes?
 That’s right! Listen, Shinkai-kun — You can’t make dreams come true through someone else! You have to work hard and make it come true yourself, or else there’s no point to it!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 umm… ummm…?
 {% endbubble %}
 
@@ -1966,7 +1966,7 @@ And! There’s no point in granting your parents’ or ancestors’ dreams in th
 But! Making it come true on your own is what makes a dream so sacred!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 i-is that how it is? it is difficult to understand, but i suppose there are things like that, too…?
 {% endbubble %}
 
@@ -1977,7 +1977,7 @@ i-is that how it is? it is difficult to understand, but i suppose there are thin
 Mhm! You’re always asking me questions, so it’s about time I asked you one! Shinkai-kun, what is your dream?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 u-um…? i-i don’t know how to respond to such a sudden question…?
 
 ah! i see! your wish is for me to answer that question, yes?
@@ -1989,7 +1989,7 @@ If that’s what you want to think, then sure! Does that mean granting wishes is
 Fuhaha! We’re just going back and forth with everything right now, huh!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 ummm…? i grant wishes because i am a god. i do not know if that is what you would call a Dream or not…!
 
 it is the same as Breathing and eating Food for me… can i call that my Dream?
@@ -2007,7 +2007,7 @@ It’ll make you feel like you could work as hard as you possibly can without a 
 Do you not have anything like that, Shinkai-kun?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 uhh, umm…? i’m sorry, i am still Thinking!
 {% endbubble %}
 
@@ -2015,7 +2015,7 @@ uhh, umm…? i’m sorry, i am still Thinking!
 Hm. It just occured to me, but isn’t your dream to become an idol?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 huh? is that so? why did you Think that, chiaki?
 {% endbubble %}
 
@@ -2029,7 +2029,7 @@ There's no way anyone out there would accidentally join the idol course, after a
 Why did you join the idol course? Or is this also because your peculiar household ordered you to…?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 no… i was not given any Order to do so. i am a god, you know?
 
 the likes of mere Humans could never Order me around.
@@ -2105,7 +2105,7 @@ it made me so happy… ufufu, it makes me Smile just remembering it.
 I see! Then that really must’ve been your dream. It’s because you made it come true on your own that it made you so happy.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 mm~? i don’t understand this anymore! i really can’t help but see Wishes and Dreams as the same! i cannot tell the Difference!
 
 it is Not a dream if all of it is Bestowed on you by someone, right? then, i will make a Compromise with you!
@@ -2151,7 +2151,7 @@ Then you have to become a human being that lives on the same surface as me, inst
 If it’s just you as a human being, then you’re always welcome to be my friend! Let’s become close friends that laugh, cry, and enjoy their youth together!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 mm~ gods are not up in the Heavens, but Deep within the oceans, though…
 
 well, i will think it through.
@@ -2193,7 +2193,7 @@ huh? was that mikejima’s Voice just now? or was it my imagination?
 “That’s right! You had never needed to want *‘that’*, y’know—for you see, your friend has been here from the very staaaart!!”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 u-ummm? where? show Yourself, manservant!
 {% endbubble %}
 
@@ -2229,7 +2229,7 @@ Drone…? Ahh, it’s true! It does look like some kind of machine…? I-Is it s
 Mmm… I don’t really get it, but how about we try going closer, Shinkai-kun?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 *sigh*…
 
 wa—ahhh—?
@@ -2247,7 +2247,7 @@ okaaay. thank you, chiaki.
 Oh no, no need for thanks! When one of us is in trouble, we all are! You need no reason nor reward to help a friend! Fuhahahaha!! ☆
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 acting so high and mighty for something as Simple as this… also, we are not Friends yet, okay?
 
 …you, too. when did *you* ever become my Friend, *rogue*?
@@ -2267,7 +2267,7 @@ acting so high and mighty for something as Simple as this… also, we are not Fr
 Hm? It is true that you led me here through a call, but does that mean you called Shinkai-kun over too, too…?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 no… for some reason, i am told to never Come into contact with mikejima, so…
 
 it has been a While since i Heard from him, or even his voice.
@@ -2279,7 +2279,7 @@ it has been a While since i Heard from him, or even his voice.
 “Ahhh, I wanna hug you sooo bad! I’ll at least blow kisses at you so a little bit of my love reaches you! Kiss, kiss~☆”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 just die.
 {% endbubble %}
 
@@ -2365,7 +2365,7 @@ a Meteorite is no Joke to us, you know?
 “Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and straaaight onto the earth…♪”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 <em>…<th>(glares)</th></em>
 {% endbubble %}
 
@@ -2441,7 +2441,7 @@ my… house?
 “Being in that place will only get you minced up, like your ancestors from long ago that were made into sacrifices.”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 ……
 {% endbubble %}
 
@@ -2535,7 +2535,7 @@ mikejima’s… place? is that Outside the Ocean…?
 “We’ll have a re-do with our time as idols in that agency. We’ll even get to have our whooole youth there.”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …that…
 {% endbubble %}
 
@@ -2547,7 +2547,7 @@ mikejima’s… place? is that Outside the Ocean…?
 “I may be trusting that acquaintance, but there’s still a chance they could reject us from the agency. If that happens, we’ll have nowhere left to run.”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …the fact that i Was one of the five Eccentrics… will become a Problem, won’t it…
 
 to Idols, we are the Absolute worst… we are Infamous for being Evil, aren’t we…?
@@ -2562,7 +2562,7 @@ no agency’s Manager would ever accept such an idol…
 “…I’m gonna do something about that.”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 no. that itself would be a Problem.
 
 you are not one of the five Eccentrics… you are not the least bit Tainted… you are still Clean.
@@ -2590,7 +2590,7 @@ it would only be Sad if you were turned into a Villain along with Me and lost yo
 “So! It’s peeerfectly fine if I fail to become an idol! ‘Cause I never had any interest in becoming one, anyway!”
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …liar.
 
 if that is the case. then why were There idols in the Magazines you would always bring over…?
@@ -2764,7 +2764,7 @@ Don’t worry about the details! Don’t just give up and act like you've gone c
 No! *I’ll* make you passionate! I’ll revive you myself! Not just that—Let’s live on, together! We were finally able to meet each other — I don’t want to say goodbye like this…!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …? …??
 {% endbubble %}
 
@@ -2772,7 +2772,7 @@ No! *I’ll* make you passionate! I’ll revive you myself! Not just that—Let�
 C’mon, let’s go!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 wait, wha—huh? are you serious? where are we going, chiaki~?
 
 please Explain things to me properly! listen to what a god Tells you to do!

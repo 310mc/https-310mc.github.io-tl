@@ -150,7 +150,7 @@ it is a little difficult for me, i think. how can i look [scary]?
 
 #### <div mt="rare"></div> 3/3
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 you're wondering if everyone in ryuseitai is okay…?
 
 hmm… i wonder. i have not been able to [see] tetora and midori lately.
@@ -176,7 +176,7 @@ i am not particularly [worried] about us being separated, but it is lonely not [
             It makes me feel lonely, too.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata sigh2 %}
+            {% bubble Kanata sighdrop %}
             if we ended up making you feel [lonely], anzu-san, then we will need to [reflect] on ourselves a little…
 
             after all, we are heroes. we must not make the people watching us feel [sad].

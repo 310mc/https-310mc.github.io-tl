@@ -111,11 +111,11 @@ that was when i got stung by a [man-of-war].[^1]
 mm? oh, you do not know of it? it is a [dangerous jellyfish]; quite long, too.
 {% endbubble %}
 
-{% bubble Kanata ehe %}
+{% bubble Kanata niyaclosed %}
 fufufu, it is a terrifying [jellyfish], almost as if it is an [alien] that was created to [kill] humans.
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 i let my [guard] down, thinking that it would be safe in this [season]… it was quite a [huge mistake] coming from me~
 
 fufufu, it seems that they have increased in population [massively] around the [area], likely because of the [abnormal] weather changes.
@@ -155,7 +155,7 @@ it is strange, isn’t it? fufufu, maybe i am also becoming [strange] from the [
 oh, i am so sorry. i just kept [talking] endlessly…
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 i was locked up in the [hospital room] for a long time, so i grew lonely, you see.
 
 the [man-of-war]’s poison has faded, so i am perfectly [fine] by now, but… my household is a bit [overprotective].

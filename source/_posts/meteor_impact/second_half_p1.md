@@ -816,7 +816,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 <th>(it must have been a mistake. i think he is Afraid of me, so…)</th>
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 <th>(he will probably never Talk to me ever again… i am sure you are just the same as Everyone besides the five Eccentrics—you, too, are—)</th>
 {% endbubble %}
 
@@ -1743,7 +1743,7 @@ was he Special? maybe that is why i feel so Lonely, after not being able to Spea
 Pardon? Um… I do know the word, but it is difficult to explain…
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 is that so… *sigh…* you people sure are Boring.
 {% endbubble %}
 

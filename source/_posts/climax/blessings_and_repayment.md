@@ -420,7 +420,7 @@ Ahh, so that’s why you’re so harsh with Keito…
 Regardless, I don’t think he knows where Kanzaki-kun is either. He caused a huge fuss this morning because he couldn’t get in touch with him.
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 i see~… there is something to worry about no matter [where] you [go]…
 
 are the [children] of yumenosaki academy really going to be okay…?

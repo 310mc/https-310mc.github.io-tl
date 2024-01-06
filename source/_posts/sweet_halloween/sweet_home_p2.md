@@ -242,7 +242,7 @@ That’s not a problem, I brought over everything we need…
 There was an extra monitor in the AV room, right? I got permission from Anzu-san to use it…
 {% endbubble %}
 
-{% bubble Chiaki mgncry2 %}
+{% bubble Chiaki mgncryalmost %}
 Gahhh!? You really are amazing, Takamine…! So kind and strong…!
 {% endbubble %}
 
@@ -366,7 +366,7 @@ Ah! We’ve got all the stuff we need already! Look, we bought all kinds of drin
 We’ve got a special spot right here just for you seniors, so just relax and enjoy the movie~♪
 {% endbubble %}
 
-{% bubble Chiaki mgncry2 %}
+{% bubble Chiaki mgncryalmost %}
 Gahhh!? Oh Nagumo…! You’re such a good boy…!!
 {% endbubble %}
 
@@ -400,7 +400,7 @@ Taichou-dono, your eyes are twitching, you know…?
 Okay, I’ll put the DVD in, then. This Halloween-themed movie is just what we need, so we’ll start with it~♪
 {% endbubble %}
 
-{% bubble Chiaki mgnshocked2 %}
+{% bubble Chiaki mgnhorrified %}
 Eeeek!! I heard a strange noise! Something’s making a scratching sound!!
 {% endbubble %}
 
@@ -492,7 +492,7 @@ Don’t worry, don’t worry! In fiction, the good guys almost aaalways win!
 R-Really? Can I really believe in that?
 {% endbubble %}
 
-{% bubble Chiaki mgnshocked2 %}
+{% bubble Chiaki mgnhorrified %}
 Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeee!!
 {% endbubble %}
 
@@ -540,7 +540,7 @@ U-Uuu! It hurts when you say that!
 <em><th>(whispering)</th></em> So you really *are* bad with horror, Morisawa-senpai… That’s why you don’t seem to like Halloween either, right…? Since it has lots of monsters…
 {% endbubble %}
 
-{% bubble Chiaki mgnangry %}
+{% bubble Chiaki mgnscold %}
 Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% endbubble %}
 
@@ -552,7 +552,7 @@ Then why exactly are you tugging on my sleeve and shaking in fear…?
 Wait a sec… Didn’t you yell “It’s scary!” just now…?
 {% endbubble %}
 
-{% bubble Chiaki mgnangry %}
+{% bubble Chiaki mgnscold %}
 N-N-No! You misunderstand, Takamine! *“Sca-ree”* in Swahili means “really interesting”![^4]
 {% endbubble %}
 
@@ -569,7 +569,7 @@ It’s natural to have dislikes… Just be true to yourself… Aren’t *you* th
 <!--	好き嫌いがあって当然、ありのままの自分でいい……。どんなおまえでも愛してる、みたいなこと、いつもあんたが言ってるんじゃん……-->
 {% endbubble %}
 
-{% bubble Chiaki mgnangry2 %}
+{% bubble Chiaki mgnangry %}
 …? What was that, Takamine? Sorry, I can’t hear you very well from under all the blankets!
 {% endbubble %}
 

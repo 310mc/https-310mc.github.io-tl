@@ -188,7 +188,7 @@ Erm, please don’t pat my head all of a sudden. I’d rather you do that sorta 
 Plus, this kinda stuff ain’t really worthy of praise; it’s just part of my daily routine — to the point that I don’t feel comfortable unless I do it.
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 hmph… he ran away. i wanted to do “good boy, good boy” to [tetora]… oh well.
 {% endbubble %}
 
@@ -280,7 +280,7 @@ I never said I didn’t wanna do it. Waterfall meditation is a pretty honorable 
 It’s just that doin’ it right now, when the weather is this close to being winter-levels, would just lead us to catching a cold, so I’d really rather we don’t.
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 you are right about that… i do not want you to catch a [cold], either.
 
 since this is not the right [weather] for it, i suppose we cannot do anything about it~ i will give up the idea for now.

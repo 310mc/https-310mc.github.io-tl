@@ -1167,7 +1167,7 @@ that is because someone else here is being pretty Thick-headed.
 ………
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 but… it feels Wrong to criticize only chiaki. it was just a matter of bad timing… i am sure everything was.
 {% endbubble %}
 

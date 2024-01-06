@@ -702,7 +702,7 @@ I was going to tell you to lock yourself in this room for shelter, and just wait
 Once I was done, I would have escorted you back to the beach… so that I may fulfill Mikejima-san’s request.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_3.jpg %}
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 ……
 
 …you were planning to Substitute for me…? to go Up there, and have Rocks thrown at you in my stead?
@@ -720,7 +720,7 @@ And that’s exactly why— *I’ll* become the monster subjugated in your stead
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch31.jpg %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …you want to become a hero, don’t you?
 {% endbubble %}
 
@@ -730,7 +730,7 @@ Yep. That’s what I plan on becoming. The world may see me as a monster, but I 
 I’ll become a being who can take the pain in place of the persecuted victims, and fight to protect them.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 is that what you Desire? is that your Dream…?
 
 didn’t you say that Dreams are something much more Sacred…? that is how i Understood it, but was i wrong?
@@ -760,7 +760,7 @@ and besides, i’m wearing such a cool Uniform… i don’t want to Hide without
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch31_1.jpg %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 i wanted to get involved… even if it meant i got hurt. that is why i came out from the bottom of the Ocean.
 
 i didn’t really want to go back inside… back to the Bottom, where there’s no one else — where it’s quiet, and lonely…
@@ -770,7 +770,7 @@ i didn’t really want to go back inside… back to the Bottom, where there’s 
 Is that your “wish”?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 ah! that’s my Line, you know!? you can’t Steal it from me~ okay, chiaki?
 {% endbubble %}
 

@@ -142,7 +142,7 @@ gwah~!? so i am not cute?
 Don’t ask to be called cute with a stature as huge as yours.
 {% endbubble %}
 
-{% bubble Kanata cry %}
+{% bubble Kanata cryalmost %}
 uwaahh~! shinobuu… chiaki has been so cold lately…
 {% endbubble %}
 
@@ -190,7 +190,7 @@ The show wasn’t only going to get a movie, but also have multiple other shows 
 The project’s concept was the same as those movies with all the heroes from American comic books, but instead they were trying to do a local version.
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 they were trying to catch a rare fish[^1], weren’t they?
 {% endbubble %}
 
@@ -284,7 +284,7 @@ Takamine probably doesn’t mean to run away, though.
 When all five of us gather, the atmosphere becomes uncomfortable, and he likely doesn’t like that, so he’s been avoiding it altogether.
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 ah~ yes, midori has that side to him…
 {% endbubble %}
 

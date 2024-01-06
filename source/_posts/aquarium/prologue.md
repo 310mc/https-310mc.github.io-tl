@@ -91,7 +91,7 @@ you could not ignore that, so you are [picking] up the [litter], right? that is 
 oooh. so you will just [look] around the place for now, and if it seems extremely bad, then you will [post] up a new school [part-time job] for picking up [litter].
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 well, yes, [cleaning] up the [whole] ocean by [yourself] is definitely [impossible].
 
 you really *would* have to rely on [everyone’s strength], or a very [strong power].
@@ -163,7 +163,7 @@ yes, my [mother] is very [pretty]. but she is also a little [scary].
 every time we meet, she scolds me. because i am not a [good boy] at all.
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 i do not want to be scolded, and i do not want to cause [trouble] to everyone, either… so i do want to try and become a [good boy].
 
 i do, even if it meant that i could not become a hero. i want to become a [good boy] — the kind a hero would want to rescue.

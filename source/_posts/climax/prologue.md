@@ -134,7 +134,7 @@ But lately I’ve been thinking a lot about stuff, and, well… I’ve stopped m
 At this point, the only comfort I get is from you and Anzu-chan.
 {% endbubble %}
 
-{% bubble Kanata sigh %}
+{% bubble Kanata frown %}
 eh~… that is not something i can really help with.
 {% endbubble %}
 

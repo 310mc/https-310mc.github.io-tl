@@ -380,7 +380,7 @@ it is not from a [shop]\~ i made it [myself]\~…♪
 Oh, really? That’s really impressive. You made a mascot and everything…
 {% endbubble %}
 
-{% bubble Kanata ehe %}
+{% bubble Kanata niyaclosed %}
 thank you\~♪ fufufu, this is the first time i have been complimented on them\~♪
 
 i am so glad that you love [deep-sea fish], midori. if only everyone could love them more, too~

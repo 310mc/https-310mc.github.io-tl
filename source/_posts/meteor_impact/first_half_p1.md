@@ -353,7 +353,7 @@ what is “a-kwain-tans”? is that different to Family?
 F-Family? Mikejima-kun’s part of your family!? Your brother, maybe? Ah no, you’re both the same age and you don’t look the same, so that can’t be it… right?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 hmm… i think he *wants* to become Family, but… i do not quite understand… how long will he be Playing house…?
 {% endbubble %}
 
@@ -369,7 +369,7 @@ hmm… i think he *wants* to become Family, but… i do not quite understand… 
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch3.jpg %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 just give me water already. do not make me repeat the Same thing twice. you Should listen to what a God says.
 {% endbubble %}
 
@@ -399,7 +399,7 @@ Ah, but before that! If you want to clean the dirt off of you, then you’ll nee
 I think there was some equipment near the drinking fountain…?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 mm… just do it already, please. i Cannot do anything without Water.
 
 i will dry up… without Water, it is painful…
@@ -415,7 +415,7 @@ it was an Earnest match between the two of us~… chiaki? are you listening?
 <th><em>(Humming)</em></th> \~♪\~♪ Oh! I found the soap! Ahaha, it’s so fancy! Alright, I may as well find a towel to wipe the dirt off!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 —… …hurry.
 
 chiaki… i… really, will—…
@@ -431,7 +431,7 @@ I think that jersey was left behind by the student who quit our unit the other d
 Yeah, I’ll just make sure to wash it and put it back in its place so I don’t end up stealing it.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …………
 {% endbubble %}
 
@@ -441,7 +441,7 @@ Yeah, I’ll just make sure to wash it and put it back in its place so I don’t
 W-What’s wrong!? Say something, please! The dark is terrifying! I was able to forget about all my fears because you were chatting!
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …………
 {% endbubble %}
 
@@ -449,7 +449,7 @@ W-What’s wrong!? Say something, please! The dark is terrifying! I was able to 
 Shinkai-kun? Woah— Why are you collapsed on the floor!? Is it from anemia? Did you faint!? Are you alriiiiight~!?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …chiaki, w-water…
 {% endbubble %}
 
@@ -1485,7 +1485,7 @@ Heheh, alright then, Shinkai-kun. I’m happy we got to talk. Oh, and… you cle
 Heheh, well then, I’ll see you later… Shinkai-kun, I know I keep saying this but — You shouldn’t soak yourself with water, okay? It’s still too early in the season to swim.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 hm? i am not swimming, i am just *puka puka*-ing.
 
 if only there were other Places like this around…

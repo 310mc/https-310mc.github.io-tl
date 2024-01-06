@@ -160,7 +160,7 @@ I can totally see that happening~. …Even though we’d be more than happy to h
 <em>Honestly</em>… The word “distant” was made for Kanata.[^1]
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 …are you two [badmouthing] me~?
 {% endbubble %}
 
@@ -280,7 +280,7 @@ k-…ki~…kill…?
 Kanata-kun, your word choices are messed up. All you’ve been saying is despair, madness, kill… What are you, a villain?
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 eh~… then [king crab].
 {% endbubble %}
 
@@ -308,7 +308,7 @@ Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop play
 It’s mainly Kanata’s fault. What’s up, what’s wrong? You’ve been so gloomy the past few days! Cheer up! ☆
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 do not make a ruckus in the [cafe]…
 
 i am a little concerned about what mr. [emperor] said. are the children really going to be alright?
@@ -360,7 +360,7 @@ It’s time for the parents to let go, and for the children to be independent. I
 Well, to tell you the truth, though — I feel like I’m about to explode, trying to hold back the urge to take care of my juniors…
 {% endbubble %}
 
-{% bubble Kanata angry2 %}
+{% bubble Kanata angry %}
 chiaki, stop [tapping] your foot. don’t you know that’s shameful~?
 {% endbubble %}
 
@@ -436,7 +436,7 @@ U-Uuu~! <em><th>(sobs)</th></em> Taichou-dono, Shinkai-dono! I beg of you, from 
 Whoa—!? Stop, Sengoku! Don’t kneel on the ground in a public area!
 {% endbubble %}
 
-{% bubble Kanata surprised2 %}
+{% bubble Kanata shocked %}
 um, shinobu… are you alright? are you crying…?
 
 please don’t cry… everything will be okay, you are a good boy, okay~?

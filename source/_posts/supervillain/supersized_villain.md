@@ -621,7 +621,7 @@ I choose to deliberately tell you, my immature and foolish junior, my favorite p
 I’m so sorry, Morisawa-senpai.
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 our plan was a [complete failure].
 {% endbubble %}
 

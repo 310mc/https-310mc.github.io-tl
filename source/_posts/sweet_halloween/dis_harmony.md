@@ -920,7 +920,7 @@ Starting tomorrow, the preparations for Halloween Party will commence.
 Our role is to sleep over in school and decorate the whole place through the coming nights.
 {% endbubble %}
 
-{% bubble Kanata surprised2 %}
+{% bubble Kanata shocked %}
 huh—? please wait a moment, we are going to [sleep over]?
 {% endbubble %}
 

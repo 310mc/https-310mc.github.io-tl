@@ -297,7 +297,7 @@ oh, really? well, i do suppose you would not be used to [seeing] them, since we 
 that is exactly why we [need] this [aquarium].
 {% endbubble %}
 
-{% bubble Kanata sad3 %}
+{% bubble Kanata sad4 %}
 i want to protect it. this time… i will definitely protect what is [important] to me. everything that has happened [this time] around is really [just] about [that].
 {% endbubble %}
 
@@ -515,7 +515,7 @@ But Kanata-san’s household is an unusual case, so I used eeevery card in my ha
 
 {% img /img/es/eventstory/aquarium/dream3_3.jpg %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 is it really that [unusual]…? i *did* [understand] the fact that i am [different] from others.
 
 but to me, this was always the [norm].
@@ -601,13 +601,13 @@ Mm… I do think I was a bit rash, but your wish was for this aquarium to stay a
 Then I wanna support that with all I’ve got, as your friend.
 {% endbubble %}
 
-{% bubble Kanata angry2 %}
+{% bubble Kanata angry %}
 you went too far with that [support], mama.
 
 it is the god’s [duty] to [heal] and [protect] everyone. he [cannot] cause [trouble] to them like this.
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 it is too late to say “i think i’ll quit after all” now, anyway… so i will push through with [it].
 
 i have to make sure i never say anything [selfish] ever again.
@@ -633,7 +633,7 @@ All that I ask is that you consult me about it much sooner. You are being a litt
 It takes a lot of energy to undo a problem after it has already gotten so complicated.
 {% endbubble %}
 
-{% bubble Kanata sigh2 %}
+{% bubble Kanata sighdrop %}
 i am so sorry, souma. i am sorry to you too, kaoru, and to everyone else…
 
 i have never been [selfish] before, until now. so i am not really good at it.

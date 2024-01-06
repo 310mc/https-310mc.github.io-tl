@@ -669,7 +669,7 @@ Um, okay… Are you really alright? If there’s anything I can do, please tell 
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_2.jpg %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 …hm, i see how it is now.
 
 you are being stingy, chiaki.
@@ -679,7 +679,7 @@ you are being stingy, chiaki.
 Huh!? W-What do you mean, Shinkai-kun?
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 a Hero really is a God after all, isn’t it? after all, saving people is what a God does, isn’t it?
 
 the reason why you do not Wish anything from me… is it because you are a God, too? or rather, because you want to become one?
@@ -691,7 +691,7 @@ a god can grant Wishes, but they do not Wish for anything themselves. that’s 
 No, no… I have no clue what you’re saying once again, but… I’m not a God, and I don’t want to become one, either.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 but… why, then? why won’t you Wish for anything from me? is it because you do not believe in me?
 {% endbubble %}
 
@@ -699,7 +699,7 @@ but… why, then? why won’t you Wish for anything from me? is it because you d
 No, it’s just… I don’t know you that well.
 {% endbubble %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 hmph, then just forget it. if you won’t say it Yourself, then i will have to Ask someone else.
 
 and through that, i will confirm what your Wish is, and grant it for you… will you Believe me then?
@@ -713,7 +713,7 @@ first… i will grant the Wish that involves that Large person from earlier.
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_3.jpg %}
 
-{% bubble Kanata pastfrown %}
+{% bubble Kanata pastfrownshake %}
 a “*burn*”? i will be just fine. Water can extinguish Fire. no— i am a God, so i will not get Hurt no matter what.
 {% endbubble %}
 

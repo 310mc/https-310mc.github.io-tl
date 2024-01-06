@@ -552,7 +552,7 @@ Punishment…? Just what did you do, you troublesome kid?
 I haven't heard much of what happened, but apparently it's some problem related to your household, right?
 {% endbubble %}
 
-{% bubble Kanata sigh3 %}
+{% bubble Kanata sigh %}
 yes. i kind of ended up going against my [household]… but even i did not think it would become this much of a [problem].
 
 now i am truly in trouble. but their [side] of the story is also correct, so right now we are talking it out and finding a [common ground] between us.
