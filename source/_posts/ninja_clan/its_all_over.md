@@ -119,7 +119,7 @@ Waah~! ♪ You really are reliable, Tetora-kun…
 What!?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Sorry! But yeah, for real, I doubt I can get anywhere close to saving you, so I’ll just escape on my own.
 
 We’ll both end up being defeated if I try rescuing you, so it’s better if I ensure one of us survives, right?
@@ -163,7 +163,7 @@ Ugh, I don’t want that kinda stuff… Let’s play a relaxing, cute game next�
 You get to fish with adorable villagers, exchange items with them, and craft stuff…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 But aren’t games like that fun to play even solo…?
 {% endbubble %}
 
@@ -247,7 +247,7 @@ Shinobu-kun… I know Giant Baba is a famous pro wrestler and all, but he retire
 *<th>(sobbing)</th>* Uwaaaaaaah…!!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huh!? Why’re you sobbing even harder!? Don’t tell me that was news to you!?
 {% endbubble %}
 
@@ -266,7 +266,7 @@ I really don’t think that’s what he said…
 I’m sorry that Tetora-kun’s like that…
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huh!? Why’s it my fault!? Uuu… I’m kinda confused, but I’m sorry, Shinobu-kun.
 {% endbubble %}
 

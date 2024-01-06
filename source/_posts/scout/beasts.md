@@ -353,7 +353,7 @@ It all depends on the time and place… I’m feeling lonely today, that’s all
 But I’ve got a question for you, uh… Tekko-kun, was it? You good friends with Nacchan, or something?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I’m not Tekko, I’m *“Tetora”!*
 
 Nah, I’m not~ I’m not so good with how he talks… I haven’t ever really talked to him outside of work-related stuff!
@@ -695,7 +695,7 @@ But you’ve asked me to teach you the secrets to being manly, so I’m going to
 Not that I’m really interested in this, honestly… I mean, wouldn’t you get your answer faster if you asked your Mr. “Taishou,” or your seniors from Ryuseitai about this?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Mmm… We’re reaching graduation soon, so I don’t really wanna bother my third-year seniors.
 
 Ah! That doesn’t mean I thought it’s okay to bother you instead, though!
@@ -1251,7 +1251,7 @@ Anzu-Anego told me that you were arguing with some delinquents in an alleyway…
 U-Umm, yes… But everything’s okay. I drove them all away, as you can see. I rescued the girl they were picking on, too. ♪
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Ah, I’m so glad to hear that! A <em>lady</em> shouldn’t be doing something so dangerous, okay?
 {% endbubble %}
 
@@ -1427,7 +1427,7 @@ I’m so pathetic.
     <p>A few days later…</p>
 </div>
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 ~……♪
 {% endbubble %}
 
@@ -1443,7 +1443,7 @@ Hm? You think so\~? Well, I did have a wonderful encounter the other day\~♪
 Huh? Did you get a girlfriend or something…?
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Oh, no, no! That’s far outta my league… But well, I *did* get to know a really charming lady!
 {% endbubble %}
 
@@ -1531,11 +1531,11 @@ I’ll never be able to reach the right answer by researching one side of the co
 It’s ‘cuz we have darkness that light stands out, so it’s ‘cuz women exist that I’ll be able to grasp what it means to be a man.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 …Well, I say all’a that, but even I don’t fully understand it right now.
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora grin3 %}
 But I felt somethin’ light up in me. I know for *sure* I can become a man among men if I keep at it!
 
 One day, I’ll even become a man who can proudly stand in front of Taishou and Taichou — to everyone, even the *Sun* itself!
@@ -1571,7 +1571,7 @@ But… Being good at violence, or having lots of muscles isn’t the only way to
 Being kind enough to laugh off and forgive your junior for making a dumb mistake is also a sign of strength.
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 I wanna be strong like that, too.
 
 Instead of forcibly scrapin’ off my effeminate parts, I wanna turn it into a strength like kindness — And then I’ll wrap myself in it, and grow into a great man.

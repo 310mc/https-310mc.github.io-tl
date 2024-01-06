@@ -78,7 +78,7 @@ Ossu! Nagumo Tetora at the door! I'm entering!
             Ossu!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora surprised %}
+            {% bubble Tetora surprised0 %}
             Woah, Anzu-Anego!? What're you doing here? Did you also get hurt…?
 
             …You were asked to take care of the place while Sagami-sensei is gone? Whew, I'm glad it isn't anythin' serious, then!
@@ -90,7 +90,7 @@ Ossu! Nagumo Tetora at the door! I'm entering!
             Did you get hurt?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             Huh? Is Sagami-sensei not around? I didn't hurt myself or anything, though…
 
             Morisawa-senpai got injured during practice, so I wanted to check up on him. But I guess I just missed him…
@@ -176,7 +176,7 @@ Take care while watching over the place. Aight then, I'll see you—
             Good luck!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             Ossu! …Well, it's only Hiiro-kun and I that'll show up for circle activities today.
 
             Our seniors didn't have the time in their schedule, sadly. Can't do much though, we're all busy with our work.

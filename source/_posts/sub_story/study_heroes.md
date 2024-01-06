@@ -118,7 +118,7 @@ Especially you, Nagumo! I heard that you have a red mark[^1] on almost all of yo
 Making others worry will only affect a hero’s reputation! So we’re canceling today’s practice and holding a study session together instead!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Whaa!? I’ve always been crap at studying, and my grades won’t change whether I study or not! I’m headin’ home if we’re not practicing!
 {% endbubble %}
 
@@ -250,7 +250,7 @@ there is no need to worry, midori. i also did not know anything outside of my ow
 it is only after chiaki taught me that i was able to learn so much about the [world]~♪
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 Honestly, I’m jealous enough that you even *have* a good subject, Midori-kun!
 
 I’m awful when it comes to theory stuff… I’m confident in practical subjects like P.E. and home economics, though…
@@ -264,7 +264,7 @@ What’s wrong, Nagumo? You stopped moving your hand!
 If you’re struggling on something, I’ll teach you one-to-one!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Whoa—! Don’t get near me outta nowhere! The room feels so hot now!
 {% endbubble %}
 
@@ -318,7 +318,7 @@ Ohhh, so that’s why he seems so used to it. I mean, it must be *super* difficu
 ding…☆
 {% endbubble %}
 
-{% bubble Tetora surprised2 %}
+{% bubble Tetora surprised %}
 Oww!? W-Why’d you do that, Shinkai-senpai!?
 {% endbubble %}
 
@@ -326,7 +326,7 @@ Oww!? W-Why’d you do that, Shinkai-senpai!?
 that is [rude] to say, tetora~ i have a [pride] of my own, too.
 {% endbubble %}
 
-{% bubble Tetora sigh2 %}
+{% bubble Tetora sigh %}
 I’m sorry for sayin’ that. I always speak without a second thought, and say the wrong thing…
 {% endbubble %}
 
@@ -350,7 +350,7 @@ Ehhh…?
 Are you being serious, Taichou-dono…?
 {% endbubble %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 Studying every day…? What about practice?
 {% endbubble %}
 

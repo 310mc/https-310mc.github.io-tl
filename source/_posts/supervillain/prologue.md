@@ -67,7 +67,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: Supervillains…</p>
 </div>
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 <th>(Oh no…)</th>
 
 <th>(I accidentally hit Morisawa-senpai…!)</th>
@@ -77,7 +77,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 …………
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 W-What the…?! What are you <em>doing</em>, Tetora-kun!?
 {% endbubble %}
 

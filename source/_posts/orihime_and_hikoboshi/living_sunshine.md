@@ -114,7 +114,7 @@ chiaki…! ☆ <em><th>(hugs him)</th></em>
 Kanata…! ☆ <em><th>(hugs back)</th></em>
 {% endbubble %}
 
-{% bubble Tetora shocked %}
+{% bubble Tetora horrified %}
 Sometimes you two act so close it's kinda gross…
 {% endbubble %}
 
@@ -154,7 +154,7 @@ you see, chiaki kept trying to come and see you [three], no matter how many time
 so i had no choice but to [abduct] and [confine] him.
 {% endbubble %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 Uh— Huh!? What did you just say!?
 {% endbubble %}
 
@@ -172,7 +172,7 @@ Gosh, honestly… I heard that there was a dispute in Kanata's home, so I got wo
 Then he grabbed me and locked me up there for the whole week.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh…!? W-Were you okay!?
 {% endbubble %}
 
@@ -296,7 +296,7 @@ Yeah, yeah… You really are feeling better… It’s a relief to see you back t
 Us three just can't do well without both of you here…
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 But we *did* manage to get through it by ourselves. We practiced real hard with Trickstar.
 
 In fact, you two might’ve been in the way if you were around. I kinda *wanted* you to stay away~♪
@@ -348,7 +348,7 @@ Orihime and Hikoboshi? That's definitely Tanabata-related, but it doesn't really
 where *is* trickstar right now? we would like to [thank] them for [taking care] of you three.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Ah… Anzu-san's strugglin' a lot with the preparations — there’s still some left to do even now, so I think they're helping her out.
 
 They're super busy setting out the bamboo for the tanzaku[^5], and making food…
@@ -396,7 +396,7 @@ I feel like that “annoying” bit was a little too much! Or should I say, it�
 I'll never separate myself from you guuuuuysss…!! ☆
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Gaah\~! Please don't hug me! The summer heat is like hell itself — it's so sweaty and hot\~!
 {% endbubble %}
 
@@ -404,7 +404,7 @@ Gaah\~! Please don't hug me! The summer heat is like hell itself — it's so swe
 then let's bathe in the [water]\~♪ it will [relieve] you and make you feel refreshed\~
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Where'd you get that bucket from, Shinkai-senpai!? I see water in there — If you dump that on us, we'll *all* get sick!
 {% endbubble %}
 

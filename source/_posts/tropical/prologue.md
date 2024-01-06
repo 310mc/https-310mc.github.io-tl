@@ -137,7 +137,7 @@ Nagumo’s vision of a hero came to life through RB. If we were to follow in his
 Mhm, it’ll be just like the hero alliance, the Avengers…!
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 His speech sounded good ‘til he added the last bit…
 {% endbubble %}
 

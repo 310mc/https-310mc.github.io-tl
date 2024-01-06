@@ -84,7 +84,7 @@ The worldbuilding of the new show, Supervillains, seems to have finally been set
 The decision looks to be absolutely confirmed this time for sure.
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Oh, it finally has? It has become such a sensitive case that I thought it was cursed. I never imagined it to be *this* messy when we first accepted the request to appear on the show.
 {% endbubble %}
 
@@ -204,7 +204,7 @@ Plus, it was a dream project for me, as well. A blockbuster in which superheroes
 But in the end, it’s going to be a much more scaled-down show, though not entirely far from the ideal that they had.
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Indeed. The companies that own the rights to the heroes who were scheduled to appear have been in constant dispute with each other, after all — but eventually, the plan just disintegrated.
 {% endbubble %}
 
@@ -214,7 +214,7 @@ ahaha… it is as if the [dream] had to be [adjusted] in order to fit [reality],
 no matter what, [reality] is never as [satisfactory] as a [dream].
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Indeed… In that sense, the SSVRS was a groundbreaking invention. It allows us to experience dreams as dreams.
 
 I’m sure everyone would rather have a happy and convenient dream than an uncontrollable reality.
@@ -308,7 +308,7 @@ Though, due to the show’s content being changed multiple times, all the practi
 Apparently, even the scripts that were prepared for the show have all been rejected and will be rewritten.
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 We had been rehearsing our scenes according to the script, though…
 {% endbubble %}
 
@@ -416,7 +416,7 @@ You’re having a weird tokusatsu talk again…
 It’s embarrassing being seen with you whenever you do that, so could you stop…? I’ll be mistaken for a nerd…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Eep, Midori-kun!?
 {% endbubble %}
 
@@ -494,7 +494,7 @@ You did nothing wrong. So you don’t need to fret yourself over any of this.
 There you go again; it’s ‘cause you *never* let us bear *any* of that burden that—
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 —Mm, mm!!
 {% endbubble %}
 
@@ -550,7 +550,7 @@ I know we managed to extinguish the fire by now, but once something’s been lit
 …Huh? What is this?
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Gah—! Don’t lean over me, Midori-kun! You’re crushing me~!
 {% endbubble %}
 
@@ -854,8 +854,8 @@ You really put us in a tight spot, “Sengoku-kun”.
 Trespassing on our private property, investigating the area… I can’t simply let that slide, you know? That’s why I had a subordinate restrain you.
 {% endbubble %}
 
-{% bubble Shinobu angry2 %}
-………
+{% bubble Shinobu angry %}
+…………
 {% endbubble %}
 
 {% bubble Tetora vside %}
@@ -864,7 +864,7 @@ I suppose it’d be silly to ask why you’re here, so let’s get straight to i
 You guys are a meddling lot as always.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 — Okay, seriously, who *are* you!?
 {% endbubble %}
 
@@ -872,7 +872,7 @@ You guys are a meddling lot as always.
 Hm? What do you mean?
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 What is *up* with the way you talk!? It sounds so *weird!*
 
 Where did the Tetora-kun who would always say “Uu~myu” and “Ossu!” and “‘Sup!” go!?
@@ -882,7 +882,7 @@ Where did the Tetora-kun who would always say “Uu~myu” and “Ossu!” and �
 Um, I *am* Nagumo Tetora, though? Quit yapping, it’s embarrassing.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Our Tetora-kun would *never* say that! What is going on here!? Have you been brainwashed by aliens or some kind of villainous organization!?
 
 Or has a ghost possessed you, by any chance?
@@ -1094,7 +1094,7 @@ What on earth…? You really *have* been tainted by a dangerous ideology—
 
 {% img /img/es/eventstory/supervillain/darkstarch7_3.jpg %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Haha. What dangerous ideology?
 
 We have people here who just want to live a normal, peaceful life — and then we have ES, who’s trying to force the whole world to be dyed in their color.

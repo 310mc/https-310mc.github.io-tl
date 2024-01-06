@@ -106,7 +106,7 @@ So do you, Sengoku-kun! They’re gonna be guiding us, so we gotta be polite. Ka
 Carrot-y?[^1] Wait, why're you suddenly acting as our leader, Tetora-kun?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Wha—? Uhh, I thought you two were bad at stuff like this, sooo…?
 {% endbubble %}
 
@@ -120,7 +120,7 @@ No, no, no way, nooo way… You're just fine for it…
 Didn’t Morisawa-senpai say something about entrusting that role to you whenever he's not around…?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 ……Well, he didn't actually clearly *say* that to me, though…
 {% endbubble %}
 
@@ -128,7 +128,7 @@ Didn’t Morisawa-senpai say something about entrusting that role to you wheneve
 Umm, guys… I don't see any of our Trickstar seniors here.
 {% endbubble %}
 
-{% bubble Tetora surprised2 %}
+{% bubble Tetora surprised %}
 Whaaa!? You're right! Did we get the meeting place wrong?
 {% endbubble %}
 
@@ -144,7 +144,7 @@ Hmm… I know Isara-dono and Yuuki-dono's phone numbers, so I will ask one of th
 Sengoku-kun, I thought you were like me and had no friends, but you actually know quite a few people, huh…
 {% endbubble %}
 
-{% bubble Shinobu grin %}
+{% bubble Shinobu snickerfist %}
 Nihihi, ever since I joined this school, I have gotten to know more people, and make friends~♪
 
 Ah, he picked up! Hello, Yuuki-dono? It is I, Sengoku Shinobu~!
@@ -154,7 +154,7 @@ Ah, he picked up! Hello, Yuuki-dono? It is I, Sengoku Shinobu~!
 Yes yes, hellooo~! ♪
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Nwoh!? A response from behind!? Who…!?
 {% endbubble %}
 
@@ -190,7 +190,7 @@ That’s okay, but you could've told us… It looks really heavy, so let me help
 Thankies~! ☆ You’re a lifesaver! Let me praise you! Well done! ♪ <em><th>(pat, pat)</th></em>
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Wawa— Don't just let go of the thing!
 {% endbubble %}
 
@@ -424,7 +424,7 @@ If there's anything you're struggling with in your performance, ask us about it.
 We'll guide you as best as we can, as your seniors… Heh~♪
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huh!? W-Wait, hold on! This is completely different from what we thought… Like, I feel as though we're not on the same page…?
 
 Aren't we gonna do a joint live for the event?
@@ -820,7 +820,7 @@ Wha— Yuuki, stop. Don’t do that weird “reflect light off glasses” trick.
 Yeah… That was kinda scary… I always thought Akehoshi-senpai just goofs around… I never thought he could get angry like that…
 {% endbubble %}
 
-{% bubble Shinobu sigh2 %}
+{% bubble Shinobu sightired %}
 It felt more like he was looking down on us… Rather than scared, I would say I was shocked.
 {% endbubble %}
 
@@ -946,7 +946,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 Hey, Ryuseitai kids. We're gonna get distracted if you keep staring at us.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Eeek!? A-Akehoshi-dono, I deeply apologize for not leaving as you told us to!
 {% endbubble %}
 
@@ -1086,7 +1086,7 @@ That is why… I am glad that we got scolded.
 Sengoku… You're such a good boy! I want a little brother like you~♪
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh!? I-If that is your wish, then I will become “Isara Shinobu” for you any time!
 {% endbubble %}
 
@@ -1134,7 +1134,7 @@ But then we thought they'd get bored just doing that, so we made them practice w
 I mean, they wouldn't learn anything just by watching, after all. And the kid with the bangs *really* looked like he wanted to join in with the dancing.
 {% endbubble %}
 
-{% bubble Shinobu surprised3 %}
+{% bubble Shinobu shocked %}
 Is “kid with the bangs” intended to be me? I have already introduced myself to you earlier, so please call me by name!
 {% endbubble %}
 
@@ -1328,7 +1328,7 @@ If you're curious, then go ahead and ask them, instead of talking to me.
 I gotta check up on the Student Council members that I left behind at school.
 {% endbubble %}
 
-{% bubble Shinobu smug %}
+{% bubble Shinobu niya %}
 Ninja art! Phone seizing technique~☆
 {% endbubble %}
 
@@ -1358,7 +1358,7 @@ Isara-dono, you—
 Hmm? Oh c’mon, now you’ve got me curious\~ If you have something to say, then you gotta say it, you little rascal\~♪
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Waa~! You caught me!
 {% endbubble %}
 
@@ -1366,7 +1366,7 @@ Waa~! You caught me!
 You better start saying it, you~! I'll punish you with tickles if you don't!
 {% endbubble %}
 
-{% bubble Shinobu grin %}
+{% bubble Shinobu snickerfist %}
 Eeek— Nihahaha!! ☆ I give, I give\~! Don't tickle me\~!
 {% endbubble %}
 
@@ -1384,7 +1384,7 @@ Aha— Hahaha!! ☆ S-Seriously, please, I give in! I can't breathe~!
 It's 100% summer now; it's super humid even at night!
 {% endbubble %}
 
-{% bubble Shinobu sigh2 %}
+{% bubble Shinobu sightired %}
 *Huff… Huff…* Ahh… I thought I was going to die…
 {% endbubble %}
 
@@ -1434,7 +1434,7 @@ Although, ninjas are meant to be concealed in the dark, so you may have a hard t
 That is all I wanted to say!
 {% endbubble %}
 
-{% bubble Shinobu surprised2 %}
+{% bubble Shinobu surprised %}
 I’m really sorry, it was hard to understand, wasn't it!?
 {% endbubble %}
 

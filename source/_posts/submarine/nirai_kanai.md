@@ -428,7 +428,7 @@ Well, they are useful *because* they benefit daily life. Even if I was capable o
 Ohh, the way you just casually shrugged off all those flashy ninjas that appear in manga and stuff… Sometimes you come across as calm, in a way… Or maybe it makes more sense to say that you go about things in a modern way…
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Y-You two sure are calm, huh…? Or am I just panicking way too much?
 {% endbubble %}
 
@@ -468,7 +468,7 @@ Heheh, I guess that means I've grown up a bit, too…
 Well, I do think something like a suspicious religion or whatever sounds creepy, though…
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 What was the point of saying all that, then!?
 {% endbubble %}
 
@@ -621,7 +621,7 @@ W-w-w-we don't have any authority here! But the public’s not allowed beyond th
 Such a thing means nothing to me! As Hasumi-dono would say: if the law obstructs your path, then change it! Send me the lord of the land, and I will personally force him to bend the law!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Isn’t that kinda insane!? Midori-kun, don't just stand there and watch — help us stop Kanzaki-senpai!
 {% endbubble %}
 
@@ -701,11 +701,11 @@ No no no, absolutely no way! “Takamine Barricade” is powerless against an op
 <th>(Did they plan this all along and dared to make a fool of themselves…!?)</th>
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Agh, you freaked me out!!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 You always appear so abruptly, Shinkai-dono!
 {% endbubble %}
 
@@ -961,7 +961,7 @@ And what exactly do you mean by a mishap…?
 hmm… i think everyone here knows that i am worshiped as a God in my Hometown.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh!? This is the first time I’m hearing this, though!?
 {% endbubble %}
 
@@ -1245,7 +1245,7 @@ Yeah! *All for one, and one for all!* We, Ryuseitai, are always of one mind!
 You guys…☆
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Gaaah!? Please don't hug me outta nowhere!
 
 Just to let you know, nothing’s been resolved, ‘kay!? I just said something nice to brighten up the mood!
@@ -1439,11 +1439,11 @@ Heh! My club member, Mayoi-dono, is an expert in all sorts of occult stories, so
 So even the stuff that perverted-looking guy talks about is suspicious too, huh…?
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 “Perverted-looking guy”!? M-Mayoi-dono is a good person, you know~!? Whenever I’m feeling down, he twists and turns in heavy breaths to make me laugh!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 That’s *exactly* what I’m talking about.
 {% endbubble %}
 

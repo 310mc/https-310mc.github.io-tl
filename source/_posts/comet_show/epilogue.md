@@ -204,13 +204,13 @@ I’m sure everything’ll go just fine if we do that! Even if that's just me be
 
 {% img /img/es/eventstory/cometshow/ep1_2.jpg %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 —Eeep!?
 
 W-W-What is the meaning of this!? Darkness has enveloped us all of a sudden…! C-Could this be… Tetora-kun’s superpower that only manifests when he uses 100% of his power: the Black-Out Technique…!?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huh!? That’s literally the first time I’ve ever heard of that! What do you think of me as!?
 {% endbubble %}
 
@@ -252,7 +252,7 @@ anyway, why *did* the [planetarium] turn on suddenly…?
 “ROOOOOOOOOAR!!”
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 EEEEEEK!?
 {% endbubble %}
 
@@ -302,7 +302,7 @@ You fiend! You must be a monster conjured through sorcery, aren’t you!? This i
 Huh, so this is what they mean by “showing your true nature during a predicament”… You’re really reassuring to have in times like these, Shinobu-kun…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Eeep!? M-Midori-kun…!? You arrived so late! We were so worried for you!
 {% endbubble %}
 
@@ -669,11 +669,11 @@ That’s why—
 “Hello, everyone! We, Ryuseitai, have a very important announcement to make!”
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 <th>(…!? W-What’s he doing all of a sudden!?)</th>
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 <th>(He isn’t going to tell our fans that this is the last time the five of us will perform together… is he?)</th>
 
 <th>(This is an extremely sensitive issue, so we decided that we’d announce it much more properly and carefully rather than in this improvised live show—)</th>
@@ -903,7 +903,7 @@ Then he did his best to extend his hand as far as he physically could to try and
 Nagumo.
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Ah! Yes, ossu! What’s up!? I’m honestly not keeping up with this conversation super well!
 {% endbubble %}
 
@@ -1005,7 +1005,7 @@ We just passed things on to you guys without explaining anything to them—Of co
 It’s my fault for using my hectic schedule as an excuse to delay telling the public about our situation. I’m so sorry.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Oh, we did try to explain it to our fans multiple times. But it seems like they didn’t quite grasp what was going on…
 
 Instead, we tried to explain why we’ve got two Reds around in different words, like calling the units by Ryuseitai-M and Ryuseitai-N—

@@ -279,7 +279,7 @@ I’m so *sick* and tired of being subjected to your hobbies!
 Nagumo… Guh— <th><em>(cough, cough)</em></th>…
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Ahh, sorry. I punched you in the chest — are you in pain from a bruised lung?
 
 If you stop being able to breathe properly, you won’t be able to get oxygen to your body, making it harder to move. You won’t even be able to call for help because you’re in too much pain to scream. Efficient, isn’t it?
@@ -513,7 +513,7 @@ That’s why I—
 What’s wrong, Nagumo? Is there trouble?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 A messenger is here… He says there are trespassers breaking into the headquarters building of Crimson Production as we speak.
 
 Hold on… No, don’t tell me the reason you’ve been blabbering on endlessly was to—
@@ -625,7 +625,7 @@ I’m so sorry, Morisawa-senpai.
 our plan was a [complete failure].
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 We were all captured easily…
 {% endbubble %}
 
@@ -633,7 +633,7 @@ We were all captured easily…
 You guys…!
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora grin3 %}
 Ahahahahaha!!
 
 Hey, Taichou, what were you just telling me oh-so-proudly earlier? “It’s our victory”? “Justice will always prevail”?
@@ -751,7 +751,7 @@ My initial assumption that Tetora-kun betrayed ES after being tainted by anti-ES
 The truth was actually the exact opposite; you were always on the side of justice. And as part of ES, you had sneaked into Crimson Production, which has been regarded as an evil organization… Correct?
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 Yep, yep. I had to make myself look and act like an ES-hating guy, even pierced my ear to give off more of a delinquent look. It was *super* painful.
 
 Then I gained the trust of this agency and got hired by them, and the rest was history.
@@ -767,7 +767,7 @@ That’s why acting like an ES hater came naturally to me.
 In fact, I spilled so many of my hidden complaints that I almost tricked *myself* into thinking they were my true feelings all along.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I almost became infected with the same thoughts as the anti-ES groups. Honestly, cursing people, saying how much you hate them, criticizing them… It’s all pretty fun to do.
 
 It’s a refreshing feeling.
@@ -791,7 +791,7 @@ Tetora-kun…
 Nagumo…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Haha. Maybe I tried to sound a little *too* cool there.
 
 But the reality of it all isn’t as cool as I make it sound… As I began my secret investigation, I grew to understand just how horrifying Crimson Production actually was.
@@ -903,7 +903,7 @@ And if he becomes a member — in other words, an accomplice — he won’t be a
 He-he… He flew from ES’s arms into ours in a bat of an eye. I guess a ninja’s loyalty isn’t that big of a deal in the end, huh?
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 <th>*(whispering)*</th> Meanie~… You’re the one who told me to do so.
 
 You said that, since people from Crimson Production are lurking among the local cops, it would be the end for me if I were handed over to the police.
@@ -945,7 +945,7 @@ I’ve always dreamed of sleeping in a place like this! I feel like a giant kaij
 fufufu~ there was a [movie] like that, right? the one where mr. [kaijuu] sleeps in the middle of the [street].
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 Our two seniors aren’t even *trying* to sound panicked… We just said not to talk so loudly.
 {% endbubble %}
 
@@ -1206,7 +1206,7 @@ If all goes well, Crimson Production will be destroyed.
 The evil will perish, and justice will prevail.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Haha… It’s such a plain and boring solution, unlike defeating evil monsters with cannons and giant robots and stuff.
 {% endbubble %}
 

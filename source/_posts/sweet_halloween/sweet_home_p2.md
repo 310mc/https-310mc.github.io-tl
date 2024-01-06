@@ -332,7 +332,7 @@ But, well… if we watch a few movies every night, we will probably get through 
 E-Every night? We’ll be watching horror movies every night? Will we be alright? Won’t we die?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 No one’s ever died from watching horror movies…
 
 Ah— But this one says that it’s not a movie for the weak-hearted.
@@ -448,7 +448,7 @@ Ahh, jeez… What’s this whole ruckus 'bout?
 hmm~? they are watching a [movie], i think…?
 {% endbubble %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 Ahhh!! No, don’t go in there! That door’s bad news!
 {% endbubble %}
 

@@ -792,13 +792,13 @@ Yeah, I’ve missed you guys too… I need emotional support…
 I just keep regretting every solo job I’ve taken… Ahh, I wish I could kill my past self for being so damn careless…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Ack, please don’t lose heart too, Midori-kun! The mood keeps getting heavier in here…!
 
 Both of you, lighten up! You can do anything with enough fighting spirit!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 …Heheh. Yeah, sorry, that wasn’t like me at all. Midori-kun made me realize just now that I’m not even decent at being depressed.
 {% endbubble %}
 
@@ -866,7 +866,7 @@ Wonderful, wonderful! You’re doing a great job~♪
 Uuu… Thanks, Shinobu-mama—
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Since when was I your mama!?
 {% endbubble %}
 
@@ -922,7 +922,7 @@ It’s like I can barely get my point across with her… it really makes you thi
 Uh, nobody mentioned that guy, though…? Besides, what’s dead is dead; we have to overcome our hardships on our own now.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Hold on a moment! He isn’t actually dead, y’know…!?
 {% endbubble %}
 
@@ -942,7 +942,7 @@ I always thought that Morisawa-dono would work hard as a passionate hero until h
 <em>Hmph</em>… All his “I love you”’s weren’t true after all; he’s all talk and no action…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 No way, I’m sure there’s *way* more to it than that.
 
 While I didn’t think of him as that type of person back when he was still in school, he’s actually the sort of cunning guy who's always thinking ahead.

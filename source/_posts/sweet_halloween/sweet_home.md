@@ -458,7 +458,7 @@ It’s just a local shop, so most of the customers are neighbors I’ve known si
 And even when I’m talking to neighbors, I start dying a little inside if the conversation drags on long enough…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Your heart’s way too weak, Midori-kun… If only we could do workouts for our hearts, too.
 
 …Oh! We shouldn’t be chatting, let’s get back to work~♪
@@ -472,7 +472,7 @@ Understood~! Midori-kun, I would like to get down from the ladder, so please mov
 Ahh, it’s easier if I just carry the ladder with you on it… Up you go…♪
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Eeeek!? You are managing it so easily…!? You are definitely much more powerful than you seem, Midori-kun!
 {% endbubble %}
 
@@ -498,7 +498,7 @@ Good point… I keep wanting to get the annoying stuff over with as soon as poss
 Guh— AAAAAAAAAAH!?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 …!? What’s wrong, Taichou!?
 
 I heard a large crashing sound! Are you okay!? Did somethin’ bad happen as soon as I brought it up!?
@@ -566,7 +566,7 @@ No, I meant it like… he’s not acting like himself… It’s like he’s alwa
 He seems so nervous over everything that he's overwhelmed… He doesn’t even pester me as much as he used to…
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Oh? Could it be that you’re feeling lonely\~? 'Cuz he’s not paying attention to you\~♪
 {% endbubble %}
 
@@ -574,7 +574,7 @@ Oh? Could it be that you’re feeling lonely\~? 'Cuz he’s not paying attention
 …………
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Wh—!? What are you going to do with that hammer, Midori-kun!? You could kill someone with that, you know!?
 {% endbubble %}
 
@@ -650,7 +650,7 @@ Huh—? Don’t be silly! There’s no way I could hate it!
 It’s a day for children, after all! And Ryuseitai are the children’s allies! If the children are happy, then we’ve achieved justice…!!
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 Uhh… I feel like you’re avoiding the question.
 {% endbubble %}
 
@@ -856,7 +856,7 @@ Huh? Where did this come from? Why would you think that?
 Did you hear about it from Takamine? I guess I *did* tell him about us fighting…
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Oh, so you *are* fighting! I see now\~ That’s great\~! ♪
 {% endbubble %}
 
@@ -874,7 +874,7 @@ Anyway, I mean that it's a good thing if you know why you’re fighting. It’s 
 Yeah, true… I feel like you go through that a lot, Tetora… since you’re pretty insensitive.
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Woah woah, why'd this suddenly become 'bout criticizing me…!? You’re not holding back at all, huh? The fight must be affecting ya.
 {% endbubble %}
 
@@ -882,7 +882,7 @@ Woah woah, why'd this suddenly become 'bout criticizing me…!? You’re not hol
 Ah— S-sorry… I lashed out on you.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Nah, it’s okay. I’m bothered by that part of myself, too. I don’t really like being delicate 'bout things, so I choose to be more straightforward.
 
 I know it’s important to be thoughtful to other people and try to put yourself in their shoes, and to carefully untangle the cause of the fight, but…
@@ -914,7 +914,7 @@ Then what're you gonna do!? Are you just gonna waste time being nervous around e
 C-Calm down, Tetora… Don’t make a ruckus, you’ll scare the bunnies.
 {% endbubble %}
 
-{% bubble Tetora surprised2 %}
+{% bubble Tetora surprised %}
 Oh no… Sorry. I came here to help you out, but I’m only getting in your way.
 {% endbubble %}
 

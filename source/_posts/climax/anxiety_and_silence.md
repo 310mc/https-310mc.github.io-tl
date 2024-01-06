@@ -84,7 +84,7 @@ I must prepare a gift for him as well before White D—Mmm?
 A ruffian…!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Ah— Anzu-dono!? I-I-I deeply apologize for my mistake…!
 
 I felt someone sneaking up behind me and assumed it was a ruffian — That is why I flung the cookie at you!
@@ -110,7 +110,7 @@ I was very rude to you, so I accept it as my punishment…!
 Anzu-dono? Are you alright? You don’t seem well…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Ohhh\~? You’re suddenly squishing my cheeks…!? Is this my punishment!? Is this my divine retribution\~!?
 
 Uuu~? It doesn’t hurt, but the way you’re just silently doing it to me is terrifying!
@@ -130,7 +130,7 @@ Ah, you see — today, my classmates and I had a White Day gift exchange party.
 However, it was very sudden, and I’m unaccustomed to friendly events—
 {% endbubble %}
 
-{% bubble Shinobu sigh2 %}
+{% bubble Shinobu sightired %}
 So I felt extremely embarrassed that I hadn’t prepared anything. I ended up only being on the receiving end.
 {% endbubble %}
 
@@ -192,7 +192,7 @@ And I have gained a lot all thanks to Taichou-dono and Shinkai-dono.
 I owe them more than I could ever repay. I would at least like to reassure them by showing them that we have grown up splendidly.
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 As for the other two first-year members, however… Tetora-kun and Midori-kun seem to be conflicted about Repayment Festival.
 
 It feels like a topic that must not be mentioned.
@@ -316,21 +316,21 @@ Were you meditating again~?[^2]
 Shinobu-kun.
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Ah— Sorry. Sengoku-kun, didja want somethin’ from me?
 {% endbubble %}
 
-{% bubble Shinobu surprised2 %}
+{% bubble Shinobu surprised %}
 Wh— Why did you correct yourself… You can call me “Shinobu-kun,” you know?
 {% endbubble %}
 
-{% bubble Shinobu cry2 %}
+{% bubble Shinobu cryalmost %}
 Actually, I have *always* called you by your first name, but both you and Midori-kun call me by my family name! It feels so lonely~!
 
 Do you dislike me after all? Are you keeping your distance from me~!?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Ahaha, sorry. Sengo—… Shinobu-kun, I thought maybe you don’t like it when people get close with ya.
 
 I’m also pretty thickheaded and clumsy, so~ I couldn’t figure out the right timing to change the way I call you. I’m sorry if it made you feel alienated.
@@ -358,7 +358,7 @@ Ahaha, we all walk at a different speed, y’know.
 Ahh, you see!? You’re saying something so *mature!* It’s not fair\~! You’re getting a head start\~!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Ehh~? What’s wrong, Shinobu-kun…? You’re real clingy today… Didja have somethin’ to talk to me about?
 
 I see that Anzu-Anego’s with you, too. Ah— Did you come to ask if we’re planning to participate in the Repayment Festival?
@@ -374,7 +374,7 @@ Ahaha. Well, I just thought that it’s time I graduate from being a spoiled kid
 Anyways, ossu — thank you for checking on us… Anzu-Anego.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I’m sorry to say this after you came all the way here to the dojo, but… Ryuseitai isn’t in the proper condition to perform unit activities right now.
 
 We’ll have to withdraw from participating in the Repayment Festival. It’s ‘cuz of our own personal reasons, but — I’m really sorry…

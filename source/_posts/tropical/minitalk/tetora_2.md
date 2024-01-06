@@ -66,7 +66,7 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
             Sounds like it was fun.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             It was hard more than it was fun, honestly~…
 
             Midori-kun was like a demonic drill sergeant, to the point it's almost unbelievable he's usually way more passive…
@@ -118,7 +118,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
             Let's do a collaboration with it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             You mean a collab like this one? I'm sorta interested, but…
 
             I don't have as much love for mascots as Midori-kun does, so I feel like it'd be rude of me.
@@ -142,7 +142,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
             What a charming character.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin %}
+            {% bubble Tetora grin3 %}
             I know right!? Its charm point is how hard it works as a martial artist!
 
             I couldn't watch its journey to getting the black belt without tears in my eyes, y'know…!
@@ -181,7 +181,7 @@ You made it, right, Anego? That makes me so happy~♪
             You look cool.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin2 %}
+            {% bubble Tetora grin %}
             Really? I'm so happy to hear that from ya, Anego!
 
             Now I *really* feel like we're gonna have awesome work as Yuruseitai in the future~! Please pay close attention to Ryuseitai's powered up form!
@@ -193,7 +193,7 @@ You made it, right, Anego? That makes me so happy~♪
             Next time…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             You'll make an outfit that's much more closer to what a mascot's like? I do think that'd have an impact on the audience, but…
 
             Personally, I think this outfit is perfectly balanced, y'know…? Midori-kun might be happy 'bout that idea, though.

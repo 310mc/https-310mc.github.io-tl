@@ -208,7 +208,7 @@ And now you’re saying “I can leave it all to you from here on out”… Wher
 No, no! That’s going too far! Don’t assassinate me just because you’re a ninja~…
 {% endbubble %}
 
-{% bubble Shinobu sigh2 %}
+{% bubble Shinobu sightired %}
 Uuu… Please don’t suddenly make it sound like we’re parting ways… It makes me feel so lonely, I could cry~…
 {% endbubble %}
 

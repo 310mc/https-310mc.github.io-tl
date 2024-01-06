@@ -279,7 +279,7 @@ I personally feel that this one and that one are excellent, but—
 Hm? What’s the matter? You’re making a strange face…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh…!? Ninjas are off-limits for this job!?
 {% endbubble %}
 
@@ -291,7 +291,7 @@ Huh…!? Ninjas are off-limits for this job!?
 
 {% img /img/es/idolstory/ninjarain/3.jpg %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Uu… Forbidding my ninja-self was the last thing I expected when I mentioned that a ninja off-duty is no longer a ninja…
 {% endbubble %}
 
@@ -339,7 +339,7 @@ Thank you, Yuuta-kun!
     <p>Days later…</p>
 </div>
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Mmm~… It’s still raining…
 
 Uuu… The one time I forget to check the weather forecast…! It is not my day today…
@@ -465,7 +465,7 @@ A non-ninja Shinobu-kun… Mmm…
 Honestly speaking, your ninja image is so prominent that I can’t think of anything straight away…
 {% endbubble %}
 
-{% bubble Shinobu sigh2 %}
+{% bubble Shinobu sightired %}
 Uuu… In the end, “ninja” is my only merit… *<th>(sniffs)</th>*
 {% endbubble %}
 
@@ -519,7 +519,7 @@ My good traits…
 Yeah, I feel like you showed a lot of that just through our conversation…
 {% endbubble %}
 
-{% bubble Shinobu cry2 %}
+{% bubble Shinobu cryalmost %}
 Uu\~! Midori-kun, I am deeply touched\~! Thank you!
 {% endbubble %}
 

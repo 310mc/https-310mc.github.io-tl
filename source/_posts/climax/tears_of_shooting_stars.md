@@ -90,7 +90,7 @@ We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! 
 …………
 {% endbubble %}
 
-{% bubble Tetora cry2 %}
+{% bubble Tetora cryalmost %}
 …Taichou. I’m sorry, but please stay outta this.
 {% endbubble %}
 
@@ -170,7 +170,7 @@ Or what, are you just gonna cower away and pretend nothing’s happening!? Are y
 C-Calm down already, Nagumo! Why are you so angry!? Take a deep breath!
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 T-Taichou-dono\~? Shinkai-dono\~? I finally caught up with you!
 
 Both of you rushed straight to the scene before I could get to the details…
@@ -386,7 +386,7 @@ The pain is worse than dying! It would be less painful if you just hit me instea
 I’ll take all your anxiety, your pain — everything! And then I'll toss it all into the sun, causing a huge explosion, and we'll then have our happy ending!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Haha. If I hit you for real, you’d die, Taichou.
 {% endbubble %}
 
@@ -400,7 +400,7 @@ We're both the same age, and I don't plan to inherit Ryusei Red and Taichou's se
 For now, we’re equal members of this unit, so I can’t order you around as if I know better than you.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Although, I don’t think it’s good for me to hold back like that…
 
 It’s just — I don’t have that kinda confidence in myself yet. I’m still hollow. One day, I’ll become a great man for sure—
@@ -468,7 +468,7 @@ You're always such a coward! You're just a spineless wimp!
 It’s like I’m lookin' at my old self! It irritates me so much!
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 I’m sorry, but I guess I really am angry!
 
 I just don’t have the same kind of unwavering tolerance as Taishou or Taichou!
@@ -492,7 +492,7 @@ All of your non-stop whining and complaining, day in and day out —
 I was hoping that was just you being embarrassed, that deep down it might've all meant somethin' to you!
 {% endbubble %}
 
-{% bubble Tetora angry3 %}
+{% bubble Tetora angrycloseup %}
 But if you’re telling me that all of it was just a waste, that you really meant it when you said you hated everything and wanted to die…
 
 Then *what* was Taichou’s whole year for!?

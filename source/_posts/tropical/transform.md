@@ -294,7 +294,7 @@ I’ll do my best to meet the expectations of “Tropical Island Troppeys”…�
 It’s almost time for the bonding event… I’m so nervous…!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I don’t get it, why would you feel nervous? It’s not like we’re the ones up on stage…?
 {% endbubble %}
 
@@ -370,7 +370,7 @@ Pop-dayuu~!! Wave at me, too! *<th>(waves)</th>*
 Ahh, stop, you’re <em>way</em> too loud…!! The star of this show is Pop-dayuu, y’know!?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Woah, Midori-kun is dead serious…
 {% endbubble %}
 
@@ -406,7 +406,7 @@ okay, cheese…☆
 fufufu~ this photo will surely hold a lovely [memory] for me.
 {% endbubble %}
 
-{% bubble Shinobu blushshy %}
+{% bubble Shinobu blushshysmile %}
 Please take a photo with me, too!
 {% endbubble %}
 
@@ -422,7 +422,7 @@ Since Shinkai-senpai has a mascot-like side to him, he’s pretty photogenic her
 As for the other two… Maybe you aren’t soft enough yet.
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 You <em>seriously</em> didn’t have to point it out… I’m aware we don’t look that soft.
 
 But since we’re gonna perform as Yuruseitai, I gotta do what I can to understand what it means to be soft.
@@ -554,7 +554,7 @@ Mm, it still feels stiff… You have to be more soft and laid-back…!
 No, no, you need to loosen up your whole body…!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Umm… Like this?
 {% endbubble %}
 
@@ -608,7 +608,7 @@ Midori-kun, I’d like to know your thoughts, too! It was tricky on my own, but 
 U-Umm… I do think you’ve gotten better from the first take, but…
 {% endbubble %}
 
-{% bubble Tetora sigh2 %}
+{% bubble Tetora sigh %}
 …So this was a bust, too. You don’t sound satisfied at all…
 {% endbubble %}
 
@@ -814,7 +814,7 @@ Soften my resolve… I see, let me try doing it more casually.
 *<th>(sways left and right)</th>* …How’s this? I tried to stand in an extremely relaxed way; am I managing it?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 You’re moving more like a mollusk rather than a mascot…
 {% endbubble %}
 
@@ -826,7 +826,7 @@ This is a lot better already, though! I can tell you’ve loosened your muscles.
 Oh, so I should try to move a li’l more like a mollusk would, huh?
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 …Like this?
 {% endbubble %}
 

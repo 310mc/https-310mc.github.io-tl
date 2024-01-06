@@ -80,7 +80,7 @@ This story is connected to the card [Intertwined Spare Time] Tetora Nagumo.
 ‘Suuup~!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 —Wait, I’m the only one here, so there’s no point in greetings… I arrived way earlier than our appointed meeting time.
 {% endbubble %}
 
@@ -88,7 +88,7 @@ This story is connected to the card [Intertwined Spare Time] Tetora Nagumo.
 hello, tetora. you are very [early] today, aren’t you?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Woah!? You were here, Shinkai-senpai!? You came out from under the desk all of a sudden and surprised me!
 {% endbubble %}
 
@@ -126,7 +126,7 @@ no, the other [staff] members do that. though, i would like to do it, too.
 but if i were to do those tasks, i would end up becoming the fishies’ [food].
 {% endbubble %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 H-Huhh!? What do you mean by that!?
 {% endbubble %}
 
@@ -150,7 +150,7 @@ tetora, do you dislike seaweed?
 No, I don’t dislike it or anythin’… It’s just, uh—…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 <th>(Woah, it’s been a while since I’ve been alone with Shinkai-senpai, so I almost forgot… Talking with him <em>always</em> feels like we’re on two different pages.)</th>
 
 <th>(We work together a lot in Ryuseitai, but we’re not really left alone together all that often.)</th>
@@ -182,7 +182,7 @@ Whenever I can’t go to the gym, I go for a long run outside, or do Zen meditat
 oh\~ you work so hard, tetora. that is truly wonderful, great job\~♪
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Erm, please don’t pat my head all of a sudden. I’d rather you do that sorta thing to Shinobu-kun.
 
 Plus, this kinda stuff ain’t really worthy of praise; it’s just part of my daily routine — to the point that I don’t feel comfortable unless I do it.
@@ -224,7 +224,7 @@ fufu, that sounds wonderful. i would love to do [waterfall meditation] with teto
 Ahh, I see… Waterfall meditation, hm? …Huh?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 *W-Waterfall meditation…*!?
 {% endbubble %}
 
@@ -240,7 +240,7 @@ No, no! Waterfall meditation isn’t that simple, y’know!?
 souma did it just fine, so that means we would be fine as well~[^1]
 {% endbubble %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 Kanzaki-senpai already did it before!?
 {% endbubble %}
 
@@ -256,7 +256,7 @@ there is no need to go to a [mountain]; we could simply do it in the school’s 
 we can splish, splash, and *puka, puka.* because it always has such lovely water flowing through it~♪
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Well, I’ll give ya one thing; sitting under the fountain’s water jets without a care for how the students look at us <em>would</em> prolly help build our mental strength… But I also feel like we’d lose somethin’ very crucial.
 {% endbubble %}
 
@@ -272,7 +272,7 @@ I’m pretty sure that’s only how you feel, Shinkai-senpai. If I were to do it
 …so tetora does not want to do [waterfall meditation] after all…?
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 Uu… Please don’t get disheartened all of a sudden…
 
 I never said I didn’t wanna do it. Waterfall meditation is a pretty honorable training of its own.
@@ -298,7 +298,7 @@ but if it were in [spring] or [summer] instead, would you want to do [waterfall 
 then let’s invite the rest of ryuseitai with us, and do [waterfall meditation] together. it is a [promise], tetora.
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Ossu! I’m lookin’ forward to it!
 {% endbubble %}
 
@@ -306,7 +306,7 @@ Ossu! I’m lookin’ forward to it!
 fufu, i am so excited for the day when we all gather at the school [fountain] again~♪
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 …Huh? Don’t tell me you’ve already decided that we’ll do it in the water fountain…!?
 {% endbubble %}
 

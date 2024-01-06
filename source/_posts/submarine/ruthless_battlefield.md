@@ -277,7 +277,7 @@ Heh! And I happen to be the strongest ninja in the idol industry…☆
 Haha, you Ryuseitai kiddos are as energetic as ever, huh?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 That’s my only strong point, after all! I got bucket loads of energy in me~!
 
 <th>*(Whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
@@ -295,7 +295,7 @@ That’s my only strong point, after all! I got bucket loads of energy in me~!
 Nu-uh… I refuse to let anything corrupt you… I’ll be the one to protect you, Shinobu-kun…
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Why have you been acting so odd lately, Midori-kun!?
 {% endbubble %}
 
@@ -419,7 +419,7 @@ I don’t mind. Morisawa has a tendency to see everything in a good light far mo
 You’re much better at explaining things than he is for this reason.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Ahaha… To be honest, I still freeze up a li’l when I’m talking to you, Hasumi-senpai. I always get reminded of the time I was rejected from Akatsuki…
 
 But well, the only reason I’m the one explaining things right now is ‘cuz Morisawa-senpai is helping Taishou get back to the inn, since he wasn’t feeling well.
@@ -523,7 +523,7 @@ Hmm, that is just like Morisawa-dono. He is always working hard to fulfill his d
 He is an honorable man who loves peace and cherishes people. You have truly been blessed with a wonderful predecessor, Sengoku, Nagumo.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 ………
 {% endbubble %}
 
@@ -1079,7 +1079,7 @@ I know you may have your own opinions, but I hope you will accept this fact: Ryu
 It’s more like we’ve gone back to the start… or maybe even regressed…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Mm~… I don't wanna be like this every time we see each other, so I'll just swallow my bitter feelings and accept the situation as it is for now.
 
 I feel like I'm starting over from the bottom, but that's how it always is for me, anyway.

@@ -667,11 +667,11 @@ Hey, Nagumo! What’s the meaning of this!?
 That’s the spirit! Fuhaha! That’s the way boys ought to be…☆
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Uh, no, I’m not trynna do that at all.
 {% endbubble %}
 
-{% bubble Tetora sigh2 %}
+{% bubble Tetora sigh %}
 Sorry, Taichou.[^3] I tried to rake up my brain with anythin’ I know of school dramas, and give advice to Taisho…
 
 But I don’t watch dramas at all, so I don’t really know how it goes.
@@ -1435,7 +1435,7 @@ Aight, I think I’ve memorized it! I’ll give it a shot~♪
 Hold on. You don’t need to add “‘sup” in there.[^8] Can’t you speak as you’re meant to?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Hweh? Ah—! I’m real sorry! That was unintentional; it just happened on its own!
 
 Yeah, you’re right— I shouldn’t ignore how my character is written in the script; that’d be rude to the person behind the script! I’m so sorry, Anzu-Anego!
@@ -1499,7 +1499,7 @@ Right, I’m gonna try actin’ now. Watch me closely and give me your thoughts.
 Mm? Uh, I’m actin’ right now, though… You can’t hear my lines? Maybe I gotta say ‘em louder?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huh? I didn’t hear anything… I don’t think you even acted your part, as in like, you’ve just been standing there…?
 {% endbubble %}
 
@@ -1513,7 +1513,7 @@ I gotta be fired up and let out my voice, or it won’t be heard well when we fi
 “Ossu. I’m Kiryu Kuro, the chief of the Karate Club.”
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Huhh!? I mean, yeah, Taisho’s the chief of the Karate Club, but!
 {% endbubble %}
 
@@ -1525,7 +1525,7 @@ In the script, we’re meant to be cheerleaders, right…?
 Ahh, right. Uhhh… Huh? I forgot everythin’ from the script.
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 That was too fast! You forgot <em>way</em> too fast, Taisho!?
 {% endbubble %}
 
@@ -1681,7 +1681,7 @@ I think I kinda appreciate being dragged around and forced to do all sorts of th
 Don’t tell Morisawa-senpai, though… He’ll get way too ahead of himself…♪
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Ahaha. I get how you feel, Midori-kun.
 
 Personally, I wasn’t real keen ‘bout joining Ryuseitai at first. I wanted to be in the same unit as Taisho, in Akatsuki.
@@ -1697,7 +1697,7 @@ Nagumo! Takamine! If you have enough energy to talk, then stand back up! It’s 
 It’s a brand new daaaaaaaaaay!! ☆
 {% endbubble %}
 
-{% bubble Tetora shocked %}
+{% bubble Tetora horrified %}
 …That guy’s for sure getting hyper from the lack of sleep. He’s attracting attention from all the students arriving at school, and it’s real embarrassing.
 {% endbubble %}
 
@@ -1759,7 +1759,7 @@ What’s wrong, Midori-kun? You can keep resting if you’re still tired~♪
 Mm~. Nah, I’ll also work hard.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Ooh, it’s rare for you to be so motivated! It’s reassuring to see, Midori-kun! ☆
 
 Heh-heh. It’s frustrating that we’re the only ones having a rough time, so let’s drag Sengoku-kun and Shinkai-senpai into this when they show up to school~♪
@@ -1825,7 +1825,7 @@ I mean, there was a time I messaged her every fifteen minutes askin’ stuff lik
 Only for her to reply with “You’re seriously annoying (\*\^\_\^\*)” and block me, y’know?
 {% endbubble %}
 
-{% bubble Tetora shocked %}
+{% bubble Tetora horrified %}
 Taisho, you love your li’l sis <em>way</em> too much… I dunno, even *I’d* find that annoying.
 {% endbubble %}
 
@@ -1837,7 +1837,7 @@ I don’t see a problem with it… —Yo, what’s wrong? If you’re worried ab
 …Gfuh!?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Ooh!? She did a flying spin kick at you! She managed to hit you right on your neck, despite the size difference! That’s amazing! ☆
 
 She’s so strong! She really is Taisho’s li’l sis! I feel like I wouldn’t be able to beat her in a real fight…?
@@ -1875,11 +1875,11 @@ You remembered that I mentioned it, so the moment you saw these documents delive
 Thanks a bunch! You really are my pride and joy li’l sister…! Theeere, there, there~☆
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Uwah, Taisho’s saying somethin’ suuuper Taichou-like…
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 But wow, she came all the way here just to give you the documents… She’s so kind\~ Taisho’s li’l sis is as amazing as you’d expect\~♪
 {% endbubble %}
 
@@ -1897,7 +1897,7 @@ Mhm, your Onii-chan’s a strong, kind senior who’s adored by everyone. I resp
 Gfuh—!?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Whaa—!? Taisho got punched by his li’l sis for some reason!? She got him good! It was a perfect hit to a vital point!
 
 Did I say somethin’ to upset her…?
@@ -1947,7 +1947,7 @@ It finally all makes sense. I knew somethin’ was off about me bein’ casted a
 So all along, the director requested for my appearance ‘cuz I perfectly suited the <em>teacher</em> role…?
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Eh? Ehhh~!? If Taisho’s actually playing the teacher role, then what ‘bout all the cheerleader practicing we did for hours on end since yesterday…?
 {% endbubble %}
 

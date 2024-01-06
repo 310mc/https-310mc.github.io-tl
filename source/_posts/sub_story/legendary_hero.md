@@ -100,7 +100,7 @@ The yellow flame is the mark of hope! A single miracle shining into the darkness
 Ryusei Yellow! Sengoku Shinobu…!
 {% endbubble %}
 
-{% bubble Tetora surprised2 %}
+{% bubble Tetora surprised %}
 Oh, substitutes are fine, huh? Then I’d like you to say all’a these embarrassing catchphrases instead, Taichou.
 
 Honestly, I have nights where I cringe in my bed just rememberin’ how embarrassing it is.
@@ -274,7 +274,7 @@ C’mon, guys, you should bow your head down and show your gratitude, too!
 No, actually! It’s fundamental to wave goodbye to the hero! Thank you, Sagami-sensei…☆ <em><th>(waves)</th></em>
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 <em><th>(waves)</th></em> Thank you, Sagami-sensei!
 {% endbubble %}
 

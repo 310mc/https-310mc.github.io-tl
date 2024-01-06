@@ -148,7 +148,7 @@ Alright, come on in, villains! Let’s see you try to invade planet Earth…☆
 bwahaha~ we will [take over] this [earth]~…♪
 {% endbubble %}
 
-{% bubble Shinobu grin %}
+{% bubble Shinobu snickerfist %}
 Nin-nin! ♪ Once we’ve dominated the world, all of mankind shall wear ninja garments for the rest of their lives~…!
 {% endbubble %}
 
@@ -186,7 +186,7 @@ i will start with [taking] you [down] first~♪
 take this\~ [industrial wastewater]…♪ it is time for [environmental pollution]\~…♪
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 He says it in such a chill and relaxed way, but his actions are insanely vicious…!?
 {% endbubble %}
 

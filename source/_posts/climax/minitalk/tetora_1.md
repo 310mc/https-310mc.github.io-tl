@@ -134,7 +134,7 @@ Ossu! Thank you for coming over to the dojo!
 But Taishou isn't here right now. He's busy dealing with somethin' in his unit.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 But if I'm to be honest, I wish we could've trained a bit longer before he graduates…
 {% endbubble %}
 
@@ -158,7 +158,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-          	{% bubble Tetora surprised %}
+          	{% bubble Tetora surprised0 %}
 						Whaa!? <em>You'll</em> be my sparring partner…!?
 
         You aren't a martial artist, and I could never throw a punch at a lady…
@@ -252,7 +252,7 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-        {% bubble Tetora awkward %}
+        {% bubble Tetora awkward0 %}
         Ahaha, just somehow…?
 
         But I'm happy for the compliment!
@@ -261,7 +261,7 @@ Seng—Shinobu-kun also said something like that to me. Did I really change that
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-      {% bubble Tetora surprised %}
+      {% bubble Tetora surprised0 %}
         S-Somehow…!?
 
         But to be honest, I don't think anything has changed about me.

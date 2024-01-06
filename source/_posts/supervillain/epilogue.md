@@ -67,7 +67,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>Time passes since then…</p>
 </div>
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Tetora-kun, Tetora-kun!
 
 I have news to report to y—
@@ -145,7 +145,7 @@ Ah, the demographic that likes UNDEAD and Valkyrie, correct? There is a decadent
 My beloved ninjas were originally supported by fans who like that sort of thing, and it is how ninjas survived to this very day. The inhabitants of the dark world… So cool…♪
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Ossu. It seems like RB just so happened to match that sorta public demand, since it was workin’ in that direction.
 
 Oh, and not to mention that Supervillains’s influence really did end up being crazy.
@@ -243,7 +243,7 @@ Yeah. For a long while now, Ryuseitai seemed to be stuck at a dead-end, but Nagu
 I believe we have no choice but to follow suit now. Investing in growth stocks is the basis of management.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I feel like there was a *ton* of luck involved with RB’s success, though… Like a lucky punch, or somethin’.
 {% endbubble %}
 

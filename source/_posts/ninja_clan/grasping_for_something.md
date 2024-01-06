@@ -129,7 +129,7 @@ Huh?
 Aight, change of plans! Our meeting’s gonna be about how to save the Ninja Association!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh? Huh!? A-Are you sure…!? But I’ll be taking away your time…
 {% endbubble %}
 
@@ -257,7 +257,7 @@ Huh? Why’re you making that face? Did I say something wrong?
 To make matters even worse, my desperate act to invite any of them into the club was sent in as a complaint, that Tetora-kun even had to order me to stop~!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I-I’m sorry ‘bout that. You desperately trynna get them to join was starting to freak ‘em out… I *had* to do something ‘bout it.
 {% endbubble %}
 
@@ -283,7 +283,7 @@ No, I mean Scroll of the Elements, the joint live from last year. Remember when 
 I was told that I could hand out flyers about my club, so I did as such. That’s when I received many questions and requests from people wanting to observe the club.
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Whaaa!? Why didn’t you get someone new from there, then!? That’s such a waste!
 {% endbubble %}
 
@@ -391,7 +391,7 @@ Actually, wouldn’t it be a good idea to ask our seniors for help, too? The mor
 You’re right! We’ll have more options to choose from that way.
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh!? But both of them are extremely busy… and I would only feel horrible for dragging them into my personal problem…
 {% endbubble %}
 
@@ -451,7 +451,7 @@ Basically, I said, “I, Eggplant Baron, have taken your Ryusei Yellow as hostag
 “P.S. If you truly can’t make it, then let me know, or ELSE.”
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 How will they get what’s going on like <em>that</em>!? Isn’t this basically just spam!?
 {% endbubble %}
 
@@ -549,7 +549,7 @@ Hm, good point… Right now, we should focus on talking to our juniors above all
 Alright, so! What’s wrong, Sengoku!? There’s something troubling you, right? You can consult us all you like!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Huh!? You were able to figure out why we asked you to come here through that fishy message alone!? I’m surprised.
 {% endbubble %}
 
@@ -603,7 +603,7 @@ There’s no need to hold back…♪ I’m indebted to you time and time again, 
 I-I’m not holding back anything, though…? While I’m grateful to receive a repayment gift from my junior, I quite honestly would rather you refrain from sending me a box!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Aight, aight, let’s stop here! This is just about eggplants now. We’re supposed to talk about Shinobu-kun’s concerns today!
 
 But I *am* glad to hear you understood the message, despite how fishy it sounded. I thought you’d brush it off as a prank at first.

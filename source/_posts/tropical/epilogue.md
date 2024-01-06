@@ -141,7 +141,7 @@ round\~ round\~ yes\~? ♪
 Shinkai-senpai’s already conversing so openly with them. He really is Ryuseitai’s perfect model of a mascot~
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 <em>Conversing</em>…? It just looks like a wooden plank to me, though?
 
 I can understand if this were a stuffed toy or a costumed character, but it’s kinda weird to make friendly talk with a wooden <em>plank</em>…?
@@ -233,7 +233,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 {% img /img/es/eventstory/tropical/ep2_1.jpg %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 <th>(Haha, even though he said he was real nervous to do the openin’ speech, Midori-kun’s actually managing it just fine on stage~)</th>
 
 <th>(I was already impressed that Midori-kun didn’t cower back from bein’ the leader, but for him to be <em>this</em> confident… His love for mascot characters really goes far, huh?)</th>

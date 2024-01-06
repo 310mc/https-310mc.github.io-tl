@@ -300,7 +300,7 @@ i am a [close comrade] to you\~? fufu, if that is how you [feel] about me… the
 i will stay here a little longer\~ to [show] how happy i am\~ *puka, puka\~♪*
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Wffhg!? Bffppt — A bit of water splashed into my mouth!
 
 Shinkai-dono, pleaaase\~! Don't splash around like a little child! Get out of there already\~!
@@ -346,7 +346,7 @@ Juuust kidding, I could never say that for real…… For some strange reason, S
 Sooo I end up spoiling him… Well, okay, I end up doting on him.
 {% endbubble %}
 
-{% bubble Shinobu grin %}
+{% bubble Shinobu snickerfist %}
 Nihihi, Mikejima-dono gives me ninja merchandise as a souvenir from his work overseas!
 
 I heard that lately, ninjas are getting attention overseas due to appearances in American comic books and stuff~♪
@@ -956,7 +956,7 @@ Aren’t most things easily bought from the school store? We can always rent thi
 We’re not gonna be in some faraway island, so if we had to, we could even ask a teacher to drive us to a shop for anything else we need.
 {% endbubble %}
 
-{% bubble Shinobu grin %}
+{% bubble Shinobu snickerfist %}
 Nihihi, a sleepover with everyone? That sounds like fun~♪
 {% endbubble %}
 

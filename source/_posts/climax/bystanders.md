@@ -398,7 +398,7 @@ kaoru has always been [sparkling].
 …oh?
 {% endbubble %}
 
-{% bubble Shinobu angry2 %}
+{% bubble Shinobu angry %}
 Taichou-dono! Shinkai-dono…!
 {% endbubble %}
 
@@ -414,7 +414,7 @@ actually, shinobu… how did you know we were in this [cafe]?
 is it because you are a [ninja]? it is, isn’t it? fufufu…♪
 {% endbubble %}
 
-{% bubble Shinobu surprised3 %}
+{% bubble Shinobu shocked %}
 No, I just happened to see you two through the windo—… Ah, no, I mean — Yes, of *course* it is because I’m a ninja!
 {% endbubble %}
 

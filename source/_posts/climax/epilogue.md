@@ -431,7 +431,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 
 ## Chapter 3
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 ♪\~♪\~♪
 {% endbubble %}
 
@@ -503,7 +503,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(Isn’t that so cool? I admire that ‘bout him so much.)</th>
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 <th>(I dunno if someone hollow like me… is even qualified to lead guys as cool as Shinobu-kun and Midori-kun…)</th>
 
 <th>(But I’ve been asked to take up the commander role. For the first time in my life, I’ve been tasked with something that is seen as, “something that can only be entrusted to *you,* Nagumo.”)</th>
@@ -525,7 +525,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(At the very least I, as part of Ryuseitai, will stand my ground with the legacy of my seniors.)</th>
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 <th>(Even if the only thing I can do is to stand tall. Just like what Taishou told me ‘bout how Taichou was in the past… I’ll keep fighting without giving up.)</th>
 
 <th>(Even if people laugh at me and say I’m incompetent, I’m sure at least Midori-kun and Shinobu-kun would accept me for who I am. They’ll come rushing to me, picking me back up when I’m ‘bout to fall.)</th>
@@ -547,7 +547,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>('Course, it’s still scary, but I shouldn’t run away 'cuz of that. That’s not what it means to be a hero…)</th>
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 <th>(Yeah, that’s right — *I* wanna be a hero, too!)</th>
 
 <th>(I wanna be a cool man among men. Even if it’s difficult for me right now, one day, surely…)</th>
@@ -633,7 +633,7 @@ It'd be unforgivable just to keep breathing… And then I really *would* get dep
 So please, let me be by your sides. Even if this is only a dream, I don’t wanna wake up from it yet.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Ahaha, it’s too late to be modest now after everything, Midori-kun.
 
 Have we ever once said “Don’t come with us” or “Go away” to you?
@@ -643,7 +643,7 @@ Have we ever once said “Don’t come with us” or “Go away” to you?
 Huuuh? You *did!* You told me I should’ve just disappeared, Tetora-kun!
 {% endbubble %}
 
-{% bubble Tetora surprised2 %}
+{% bubble Tetora surprised %}
 Wha—!? Sorry, I wasn’t thinking straight back then and ended up saying somethin' I didn’t mean!
 {% endbubble %}
 
@@ -665,7 +665,7 @@ hehe, that’s right~ if you were to [chatter] during [combat]… you would imme
 Yep! It’s just as Kanata said! This is extremely important, so carve it into your hearts! How long are you planning to let the filler arc run!? It’s time for you to get back on track with the live!
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Uhya…!? Huh? Taichou? Shinkai-senpai?
 
 W-Why're you two on stage? And you’re even wearing clothes that match our outfits for Repayment Festival…!
@@ -805,7 +805,7 @@ Ryusei Yellow! Sengoku Shinobu…☆
 C’mon, c’mon! You do it too, Tetora-kun, Midori-kun! ♪
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Uu~myu… I had a plan for how we were gonna do this, though… Now that everyone’s just doin' as they please, it’ll be tough to get everything back on track.
 {% endbubble %}
 

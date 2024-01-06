@@ -70,7 +70,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu angry2 %}
+            	{% bubble Shinobu angry %}
 							I'm happy you'd like to help, but…!
 
         I must work hard on my own, for the sake of maintaining the Ninja Association…!
@@ -179,7 +179,7 @@ Are they both coming to school every day…?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu surprised %}
+            	{% bubble Shinobu surprised0 %}
 							So they really haven't been showing up in school!? I wonder what happened…
 
         Huh? That was a lie?
@@ -251,7 +251,7 @@ Anzu-dono! Please help me think of something~!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu surprised %}
+            	{% bubble Shinobu surprised0 %}
 							Since it's *White* Day, perhaps marshmallows…?
 
         Huh!? Marshmallows means "I hate you"!?

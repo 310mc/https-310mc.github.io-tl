@@ -128,7 +128,7 @@ I make it a rule to sit cross-legged and meditate before every live.
 Nothing’ll come outta complainin’ at this point, sooo I’m gonna brace myself and get through this with everything I’ve got.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I’m sorry, Shinobu-kun. All I’ve done is make you worry.
 
 If I was all alone in this, I prolly would’ve broken down.
@@ -136,7 +136,7 @@ If I was all alone in this, I prolly would’ve broken down.
 But you kept saying silly things to ease the mood, even if it was forced… You really helped me out.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 Actually, no — you’ve *always* helped me out.
 
 Ninjas are meant to be the dark type, but whenever you’re around, the mood gets a lot brighter. You really are a single miracle shining into the darkness~♪
@@ -148,7 +148,7 @@ Heheh, there is no need to thank me, Tetora-kun.
 *All for one, and one for all.* That is what Ryuseitai is all about.
 {% endbubble %}
 
-{% bubble Shinobu sigh3 %}
+{% bubble Shinobu sigh %}
 But you know, it feels like, while everyone has been emotionally unstable — Or rather, while everyone's getting emotional and sentimental about the coming graduation—
 
 I’m the only one who is acting like everything is normal. I feel like I’m being heartless.
@@ -166,7 +166,7 @@ Ahaha. In sentai squads, Yellow is typically the one to liven the mood.
 But Black is the opposite and like, seems to always be putting up with heavy burdens — that sort of thing.
 {% endbubble %}
 
-{% bubble Tetora sigh3 %}
+{% bubble Tetora sightired %}
 I’m not trynna act the part, though. I really *am* feeling depressed…
 
 I said horrible things to Midori-kun. I acted unfairly, like I knew better than him.
@@ -190,13 +190,13 @@ It requires constant training. And if anyone ever laughs at you or says it was a
 Then your comrades from Ryuseitai — or at the very least *I* would praise you in awe and say, “That was totally awesome!”
 {% endbubble %}
 
-{% bubble Shinobu grin2 %}
+{% bubble Shinobu grin %}
 So hold your head high with pride and do your best with everything you have, and you will get through every hardship that comes your way.
 
 I may not be that reliable, but I will always be your ally… Future Taichou-dono.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 …Thanks, Shinobu-kun.
 {% endbubble %}
 
@@ -204,7 +204,7 @@ I may not be that reliable, but I will always be your ally… Future Taichou-don
 Heeey, you two! Can we talk for a sec? <em><th>(waves)</th></em>
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Eeek!?
 
 That surprised me—! W-wh-wh-what is it… Erm, Hakaze-dono?
@@ -326,7 +326,7 @@ I haven’t talked to him since we fought, so I know it's not good to get my hop
 I'm sure it’d be better if we just made it into a two-man performance and practiced it that way, but…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 …I’m such a wuss, aren’t I? But I don’t wanna think that Midori-kun would look away and ignore his own friends when they’re in trouble.
 
 He’s surprisingly sharp-tongued, and there are times when I do think it’s frustrating how uncooperative he can be, but…
@@ -336,7 +336,7 @@ When it comes down to it, he's a good guy — or, well, a really cool guy, y’k
 So I wanna believe in him and wait for him ‘til the very end… ‘Cuz he’s our comrade — our friend.
 {% endbubble %}
 
-{% bubble Shinobu grin2 %}
+{% bubble Shinobu grin %}
 I feel the same way, Tetora-kun.
 
 Heh~ So it’s our duty to fight with everything we have until our comrade comes back, correct?

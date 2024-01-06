@@ -221,7 +221,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu smug %}
+            	{% bubble Shinobu niya %}
 							I *am* Ryusei Yellow, after all!
 
         I am doing my best to be the positive character at all times!
@@ -250,7 +250,7 @@ But I shall make sure that I accomplish my duty as part of Ryuseitai…!
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Shinobu surprised %}
+            	{% bubble Shinobu surprised0 %}
 							W-What's the matter, Anzu-dono?
 
         You have such a suspicious-looking grin on your face!

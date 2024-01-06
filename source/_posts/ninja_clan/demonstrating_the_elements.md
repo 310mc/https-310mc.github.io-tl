@@ -466,7 +466,7 @@ Umm, Shinobu-kun? Are you okay…?
 Ahh, I think he got nervous when he realized this stage will make it or break it for the Ninja Association.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Well, I almost wanna say there’s no point in being nervous, but is he going to be okay…? We’re gonna be performing real soon.
 {% endbubble %}
 
@@ -488,7 +488,7 @@ I usually get nervous feeling everyone’s eyes on me, but knowing everyone has 
 Alright, it’s about time we head out! Are you all ready!?
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Y-Y-Y-Yes!
 {% endbubble %}
 

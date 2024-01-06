@@ -172,7 +172,7 @@ Morisawa-senpai’s strong point is that he can casually ask questions even to p
 Heheh, I don’t think we need to imitate our seniors. Our differences are what makes us special, and that’s what Ryuseitai’s all about!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 …Yeah, I can’t help but find it a bit off when Shinobu-kun speaks like a regular person.
 {% endbubble %}
 
@@ -180,7 +180,7 @@ Heheh, I don’t think we need to imitate our seniors. Our differences are what 
 Mhm! But I think it’s pretty nice — it makes you look smarter than usual, Sengoku!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Does that mean I usually look like a bumbling idiot!?
 {% endbubble %}
 
@@ -194,7 +194,7 @@ yes, it is sad, isn’t it? i do not recall having brought you up to Behave this
 but it cannot be helped. after all, this is likely to be a Rebellious phase that came a little late.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 It really annoys me when I get told that I'm going through a rebellious phase, ‘cuz it makes me feel like I’m being treated like a kid…
 
 But the very fact I feel that way is a sign that it *is* that, isn’t it?
@@ -216,7 +216,7 @@ And I’m not an infant or something… I can put up with it during the rounds j
 That thing you love? Oh, I get it now! So *that’s* why you kept your distance from me all this time, Takamine!
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 You were the one doing all the avoiding, and I think he’s talking about mascots, y’know~?
 
 By the way, I had some pretty dangerously close moments, like when we were tryna stop Kanzaki-senpai. One of my weaknesses is that my brain stops workin’ whenever I’m overstimulated.

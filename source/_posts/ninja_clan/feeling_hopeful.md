@@ -119,7 +119,7 @@ but please do not [hate me] no matter what happens, okay…?
 Um, what’s that supposed to mean!? You’re scaring me…!
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Shinkai-dono, let’s do this peacefully! Peacefully~!!
 {% endbubble %}
 

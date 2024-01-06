@@ -137,7 +137,7 @@ Though now that you mention it, you *do* give off the vibe of a boss people woul
 You don’t ever snap at anyone, so it’s like, I dunno, feels like you’d turn a blind eye to anything your subordinates do and laugh it off…
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Uhhh, why does that not sound like a compliment at all…!? I get angry every now and then too, y’know?
 {% endbubble %}
 
@@ -291,7 +291,7 @@ But in reality, all they’re allowed to do is break a sweat *preparing* stuff f
 They’ve just been practicing the basics day in and day out, and even then, they don’t get a big role in our jobs.
 {% endbubble %}
 
-{% bubble Shinobu sigh %}
+{% bubble Shinobu sighdrop %}
 Ahh… That *would* be a disappointment. Though personally, I think preparation can be quite fun once you get used to it.
 {% endbubble %}
 

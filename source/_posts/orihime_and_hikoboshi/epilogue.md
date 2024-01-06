@@ -311,7 +311,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(I guess he’d built up a lotta stress during the time he was sick, since he couldn't join in on practice.)</th>
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 <th>(You're gonna regret it if you end up collapsin’, y’know~? But I guess it's just like us to not think about the li’l details, and charge forward immediately instead… yeah?)</th>
 
 <th>(Ahaha, “just like us”… I'm getting influenced by how Trickstar talk.)</th>
@@ -549,7 +549,7 @@ They're buzzing back and forth! It’s making me more and more excited!
 Sengoku! …You okay?
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 …Hweh—!? I'm okay! I love ninjas!
 {% endbubble %}
 
@@ -575,7 +575,7 @@ Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 <th>(Then I’ll take him to the infirmary. Hmm, what’s the fastest way to get there…?)</th>
 {% endbubble %}
 
-{% bubble Shinobu norsmile2 %}
+{% bubble Shinobu norsmile %}
 Isara-dono.
 
 You need not worry. I am alright.
@@ -677,7 +677,7 @@ It is a ninja's duty to come back alive! So I will do my very best! Ninjas and h
 Oooh… Your stamina's at zero, y’know? You shouldn’t jump about! But man, that's still amazing. Kids sure do bounce back quickly~♪
 {% endbubble %}
 
-{% bubble Shinobu smug %}
+{% bubble Shinobu niya %}
 I am no kid! I am growing splendidly because of you and everyone in Ryuseitai — No, because of everyone in the whole world supporting me!
 
 I will be able to jump up even faster, and even higher!

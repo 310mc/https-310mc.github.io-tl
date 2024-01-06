@@ -754,7 +754,7 @@ fufufu, i personally [like] it~
 i also thought up “ryusei-viperfish,” based on the [deep-sea creature]~♪
 {% endbubble %}
 
-{% bubble Tetora surprised %}
+{% bubble Tetora surprised0 %}
 Nono, that looks <em>terrifying</em>…!? We’d just traumatize our fans if we showed them a fish that looks this insanely vicious…!
 {% endbubble %}
 

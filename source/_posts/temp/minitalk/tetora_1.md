@@ -59,7 +59,7 @@ Hello, Anzu-Anego! Thank you for all your hard work! Are you gonna eat lunch now
 The other seat is empty, so you're totally free to sit here~♪
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll put it back in.
 {% endbubble %}
 
@@ -171,7 +171,7 @@ I gotta study more and more to be capable of handling any kinda work!
           Don't push yourself.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward %}
+            {% bubble Tetora awkward0 %}
             Ahaha… Yeah, you're right, I gotta be careful not to go too far.
             {% endbubble %}
             {% bubble Tetora smilesoft %}

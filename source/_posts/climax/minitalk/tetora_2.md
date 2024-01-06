@@ -221,7 +221,7 @@ I'm gonna do my best in my own way, alongside Midori-kun and Shinobu-kun…!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Tetora surprised %}
+            	{% bubble Tetora surprised0 %}
 							Whaaa!? You surprised me with that name!
 
         But I've gotten a real taste of how much work it is to be "Taichou" this time around…

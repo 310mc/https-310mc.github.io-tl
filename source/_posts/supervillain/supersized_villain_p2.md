@@ -192,7 +192,7 @@ Enough with the flattery already. Let’s just go and get the job done.
 Ossu, roger that!
 {% endbubble %}
 
-{% bubble Tetora sigh %}
+{% bubble Tetora sighdrop %}
 <th>(<em>Sigh</em>… I feel like it’s way too obvious, as if they’re clearly forcing themselves to fit the role. Well, as long as nobody catches on that we’re only pretending to be evil.)</th>
 
 <th>(And anyway… I’m sure it’ll be alright.)</th>
@@ -316,7 +316,7 @@ Ah, right. Sorry about that.
 Nagumo, please don’t hesitate to order us around. We’ll follow your instructions.
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 I’m not too keen on pushing even my own seniors around, but… I have to suck it up for now. We don’t have a choice.
 {% endbubble %}
 
@@ -393,7 +393,7 @@ All in order to defeat the evil organization, Crimson Production.
 You were going to cross a dangerous bridge… However, you had concluded that Crimson Production can’t be defeated unless you do so, right?
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Maybe it was just a dumb plan thought up by an idiot… I just couldn’t think of any other way.
 
 But I think I managed to make it work pretty well, if I do say so myself.
@@ -545,7 +545,7 @@ I was already such a hollow person, so close to fading away. I couldn’t stand 
 Tetora-kun…
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Haha. That’s why I got so angry at you, Midori-kun[^3]… It’s like I could see the real me in you — my pathetic self, that I hide in the pit of my stomach.
 
 And yet, I felt like you had everything I ever wanted. You have way better looks than me, and with just a little effort, you could do anything, you know?
@@ -653,7 +653,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “Ryusei Black No.5! The embodiment of the black darkness! Sengoku Shinobu! Nin-nin…♪”
 {% endbubble %}
 
-{% bubble Tetora smug %}
+{% bubble Tetora niya %}
 “We are the embodiments of evil, who have come from the depths of the jet black darkness! We’re the unprecedented Supervillains! We are known as: RB, Ryuseitai Black!”
 
 “♪\~♪\~♪”
@@ -685,7 +685,7 @@ If the worst is happening, we’re being slandered right this second… And at <
 Ahaha. Midori-kun, your eyes are colored with dark circles.
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora grin3 %}
 He’s hiding it with makeup, though. He’s literally Ryusei Black, huh?
 {% endbubble %}
 
@@ -707,7 +707,7 @@ Ossu, we are aware.
 osu~♪
 {% endbubble %}
 
-{% bubble Tetora awkward %}
+{% bubble Tetora awkward0 %}
 Umm, you don’t have to imitate me just because you go by “Ryusei Black,” you know…?
 {% endbubble %}
 
@@ -929,7 +929,7 @@ Within Supervillains, you could have an evil organization or monster that makes 
 If you thoroughly depict them in an evil way, that impression will be imprinted on the public.
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Ahaha. And if we, RB of Crimson Production, were to defeat the evil ES in a glorious scene, it’d be foolproof.
 
 Even a kid would be able to tell who’s righteous and who’s evil — even if that was far from the truth.

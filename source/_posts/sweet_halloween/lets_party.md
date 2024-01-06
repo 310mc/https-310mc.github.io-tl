@@ -198,7 +198,7 @@ you are [excited], too, huh? you even [threw] candy at me~
 you [should not] throw food like that, okay? this is punishment for your naughtiness~♪
 {% endbubble %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Wawa—!? Please do not tickle me! I am ticklish underneath my arms!
 
 I give up, I give up!! Shinkai-donoo~! Ahahaha!! ☆
@@ -220,7 +220,7 @@ Eeeek!! There’s a ghooooost!!!
 
 {% img /img/es/eventstory/sweethalloween/letsparty1_3.jpg %}
 
-{% bubble Tetora surprised3 %}
+{% bubble Tetora shocked %}
 Eep—!! Please don’t just yell outta nowhere! You scared me!
 {% endbubble %}
 
@@ -670,7 +670,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 …Not that it really matters, but, Chiaki-chin… You say you’re zombies, but you guys are buzzing about with your backs straightened up, so it doesn’t really give me that impression.
 {% endbubble %}
 
-{% bubble Tetora smile2 %}
+{% bubble Tetora smile %}
 Ah, that’s how Jiangshi are like.
 
 They move real quickly, but 'cuz of rigor mortis, they can’t really move their joints around.
