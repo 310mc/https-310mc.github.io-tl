@@ -111,7 +111,7 @@ I'm so tired… I wanna go home…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
               Ah, yes, thank you for your hard work as well…
 
               Um, I'm happy that you're giving me juice, but… I'd rather you don't poke a juice can on me out of nowhere…
@@ -257,7 +257,7 @@ He even found a super sentai mask and got super excited over it… It's like he'
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori sigh4 %}
+            	{% bubble Midori sighdrop %}
               I don't wanna be rude to a senior, but… Are you sure you don't have bad eyes, Anzu-san…?
 
               I’m practically plummeting into depression right now… Sigh, I’m so depressed, I wanna die…

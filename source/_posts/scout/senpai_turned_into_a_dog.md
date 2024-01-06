@@ -334,7 +334,7 @@ permalink: senpai_turned_into_a_dog/
 
 {% img /img/es/scoutstory/zodiac/3.jpg %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(Hmm…? Huh? There’s no one here…)</th>
 
 <th>(But I thought I heard some dribbling going on a second ago…)</th>
@@ -372,7 +372,7 @@ Don’t mooove… Don’t get cuddly with me, I’m not your owner…
 <th>(What do I do now…? And whose dog *is* this… I feel like I’ve seen it before… Maybe I should check for a collar…)</th>
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eeek!! I’m sorry, did I tickle you? Please don’t make a weird noise…
 
 <th>(Uuu… Now that I think about it, I’ve been seeing a lot of dogs around school…)</th>
@@ -394,7 +394,7 @@ Oooh\~ Getting a gift from a small animal makes me feel like I’m in a fairytal
 Hmm… This is some student’s notebook… Their handwriting is all cluttered and doesn’t stay on the lines… Whose is this…?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wha— This is Morisawa-senpai’s notebook…?
 
 <th>(Umm, what…? Why did it give this to me… Now it’s looking at me with a serious look on its face for some reason…)</th>
@@ -426,7 +426,7 @@ Eeek— I-I’m wrong? Don’t bark, okay…?
 <th>(Hm… The doggie slipped into Morisawa-senpai’s uniform and started playing with the ball… Looks like it’s having fun…)</th>
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(It kinda reminds me of someone I know… Wait— Could it be…?)</th>
 
 Um… I honestly doubt it, but… are you Senpai…?
@@ -468,7 +468,7 @@ Ah— Uuu…?
 Hm? Is that you, Takamine? You’re from Ryuseitai, right? What’s wrong? Why are you just standing there? Where’s your club captain, Morisawa?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 U-Um… I—Uh…
 
 <th>(W-W-W-What do I do!? The Vice President is here…! I’m scared!!)</th>
@@ -534,7 +534,7 @@ E-Excuse me! I’m going home now!
 Ah—Hold it! Hey!! You didn’t clean up after yourself!!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I-I’m not the one who left them lying around…! Please excuse me, sorry!!
 {% endbubble %}
 
@@ -544,7 +544,7 @@ I-I’m not the one who left them lying around…! Please excuse me, sorry!!
 
 {% img /img/es/scoutstory/zodiac/5.jpg %}
 
-{% bubble Midori cry3 %}
+{% bubble Midori cryalmost %}
 *Huff… Huff…* That was exhausting~… It feels like it’s been ages since I ran that hard…
 
 <th>(I think I should be fine here… The vice president wouldn’t chase after me, right…?)</th>
@@ -660,7 +660,7 @@ The place looked *really* bad, so I had to go and get the mop and dust cloth!
 By the time I got back, I heard you’d taken him away, so I had to come all the way here for him!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 B-But he had Morisawa-senpai’s notebook and uniform for some reason…
 {% endbubble %}
 
@@ -674,7 +674,7 @@ He’s a clever dog, so he tends to bring back stuff to its owner~
 Takamin, you smell like Chi~chan-senpai, so he must’ve thought it was yours.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I smell like that guy…? N-no……
 {% endbubble %}
 

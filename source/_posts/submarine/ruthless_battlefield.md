@@ -283,7 +283,7 @@ That’s my only strong point, after all! I got bucket loads of energy in me~!
 <th>*(Whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everything for us involving the unit.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>*(Whispering)*</th> It’s better this way, now we can relax, at least… I don’t wanna work hard…
 {% endbubble %}
 
@@ -1403,7 +1403,7 @@ All the while making excuses that there’s nothing we can do about it?
 I honestly refuse to do that.
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 That may be how you feel… but…
 {% endbubble %}
 

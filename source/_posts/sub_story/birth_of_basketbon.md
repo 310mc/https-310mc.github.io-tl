@@ -166,7 +166,7 @@ Uu… I’m sorry I’m bad at this, it’s just that it’s <em>such</em> a pai
 I’m a member of the club too, after all~ And it’s a senior’s duty to help his juniors. ♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I’d really appreciate that… But Isara-senpai, weren’t you taking the transfer student back home…?
 {% endbubble %}
 
@@ -176,7 +176,7 @@ Ah— That’s right… Uh, what now…
 Alright, wait a little, Takamine. I’ll quickly take the transfer student back home, and then get back to you.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 No, I’d feel bad making you do that for me… I’ll be fine on my own…
 {% endbubble %}
 
@@ -192,7 +192,7 @@ Mm? You want me to hold the basketball up and read these sentences? Uh, sure, I 
 “Hello, Takamine-kun! I’m the basketball fairy, Basket-bon! ☆”[^1]
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Isara-senpai’s lost it… And here I thought you’d be the one and only senior I could actually talk to in this club…
 {% endbubble %}
 

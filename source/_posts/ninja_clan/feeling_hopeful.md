@@ -115,7 +115,7 @@ ehh\~? we do not need to do it this way; it is too slow. if you so [desire] it, 
 but please do not [hate me] no matter what happens, okay…?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, what’s that supposed to mean!? You’re scaring me…!
 {% endbubble %}
 

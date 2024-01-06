@@ -165,7 +165,7 @@ Indeed. I, of course, have been practicing in order to present an excellent pamp
 However, I came to notice a tremendously grave problem, you see…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh? “Tremendously grave problem”…? You’re scaring me… Is the job seriously <em>that</em> bad…? That means I’m gonna go through it at some point, too…
 
 Can I know what it is, to prepare me for when it’s my turn? What did you notice…?
@@ -175,7 +175,7 @@ Can I know what it is, to prepare me for when it’s my turn? What did you notic
 The fact of the matter is…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 “The fact of the matter is”…?
 {% endbubble %}
 
@@ -241,7 +241,7 @@ Ermm— Ah! He’s still taking photos of me from behind those bushes.
 Ufu, fufufufu\~♪ The ever-so-innocent Chief speaking to a classmate is just as deliciousss\~! *<th>(snapshot, snapshot)</th>* ♪
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 He really freaks me out…
 {% endbubble %}
 
@@ -431,7 +431,7 @@ Oh yeah, did your meeting for the Feature Live go well? You were practicing real
 Ah—… You ask me that <em>now</em>…?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh!? Was I not supposed to…?
 {% endbubble %}
 

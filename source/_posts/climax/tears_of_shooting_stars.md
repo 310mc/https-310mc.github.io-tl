@@ -190,7 +190,7 @@ I’ll help patch him up! Stand up, Takamine! Show me where it hurts!
 I often get injured during my stunt work, so I know how to treat small injuries!
 {% endbubble %}
 
-{% bubble Midori cry3 %}
+{% bubble Midori cryalmost %}
 *Ugh,* you’re so obnoxious… I’m not injured anywhere, okay… You’re all panicking <em>way</em> too much…
 {% endbubble %}
 
@@ -662,7 +662,7 @@ But my big brother has an *actual* dream! He wants to be a lawyer! And he studie
 He’s tried over and over to pass the exam and he’s failed every time — cried and suffered every time — yet he keeps working hard for it!
 {% endbubble %}
 
-{% bubble Midori angry2 %}
+{% bubble Midori angrycloseup %}
 I wanna support my brother! I wanna at least be able to tell him that I’ll be the one to take over the shop, so that he can keep working hard for his dream…!
 
 *That’s* why I’m helping out at the shop! Exactly *what* is wrong with that!?
@@ -680,7 +680,7 @@ But not everyone in this world is as incredible as you guys!
 Normal people have lives, too! You think they can just keep chasing after their dreams!? Because *I* can’t! Just the very thought of it is *terrifying!*
 {% endbubble %}
 
-{% bubble Midori cry3 %}
+{% bubble Midori cryalmost %}
 And yet, you go ahead and put all your hopes into someone pathetic like me!
 
 I feel like a horrible, miserable person for making Morisawa-senpai waste a whole year of his life on me!

@@ -87,7 +87,7 @@ No, dude! The bird is bad news! It’s gonna tell the demon where you’re locat
 Ah, you see!? The demon figured out where you’re hiding and is now coming for you!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 It betrayed me…!? So you were siding with the demon all along!? We were supposed to be friends, you stupid bird…!
 
 Ack, the demon’s heeere…!! I’m scared!! No, nonono! Crap, it’s gonna catch m—Eep~!!
@@ -97,7 +97,7 @@ Ack, the demon’s heeere…!! I’m scared!! No, nonono! Crap, it’s gonna cat
 Ahh, you got caught, huh…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ughhh… That’s <em>it</em>, I’m having fried chicken for dinner tonight… Also, please come save me, Tetora-kun…
 {% endbubble %}
 
@@ -115,7 +115,7 @@ Waah~! ♪ You really are reliable, Tetora-kun…
 —Hm? Ah, Midori-kun, sorry! The demon’s on a rampage right now, so I don’t think I can save you.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 What!?
 {% endbubble %}
 
@@ -125,7 +125,7 @@ Sorry! But yeah, for real, I doubt I can get anywhere close to saving you, so I�
 We’ll both end up being defeated if I try rescuing you, so it’s better if I ensure one of us survives, right?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 No, it’s <em>not</em>…! Can’t we both be defeated together?
 
 It won’t be as terrifying if we die together, so don’t you wanna go to the afterlife with me…? We’re friends, aren’t we…?
@@ -145,7 +145,7 @@ Uumyu… Maybe in reality, yeah, but this is a survival horror game, so I don’
 Hm? Uh-oh, I don’t have much time left. I really am sorry, Midori-kun, but you’re on your own! See ya!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ah! H-He really abandoned me… You traitooor~!
 
 I can’t believe I got betrayed by both the bird *and* you… I’m so depressed…
@@ -215,7 +215,7 @@ Whaaa!? H-He’s crying!? W-What’s wrong, Shinobu-kun?
 T-Tetora-kuuun… M-Midori-kuuun… W-What do I d-dooo…! Uwaaaaaaaah!!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Gweh!? Don’t tackle me head-on…
 
 Umm… *<th>(pats head)</th>* T-There, there? I dunno what happened, but don’t cry, okay…?
@@ -262,7 +262,7 @@ I really don’t think that’s what he said…
 <em><th>(sniffs)</th></em>… I-I think I’ve calmed down now…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I’m sorry that Tetora-kun’s like that…
 {% endbubble %}
 

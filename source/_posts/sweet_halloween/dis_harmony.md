@@ -92,7 +92,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 G’morning… What’s wrong, Mashiro-kun…? You’re sighing…
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 I know *exactly* how you feel… It hurts, doesn’t it? Even just breathing is horrible and tiring, isn’t it? It’s exactly the same for me…♪
 
 You know, medicine could cure the cold in your heart if you're still in the early stages…♪
@@ -778,7 +778,7 @@ Now that you mention it, Taichou-dono *does* seem quieter than usual…
 If your stomach hurts, then allow me to try out my sacred ninja medicine~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eugh… Don’t pull that out, Sengoku-kun… I can’t stand the smell…
 {% endbubble %}
 

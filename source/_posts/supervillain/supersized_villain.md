@@ -645,7 +645,7 @@ So I wouldn’t be wrong to assume that this means that Crimson Production is on
 Guhhh… This is so frustrating. There’s nothing I can even say to counter that…
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 Just seeing Morisawa-senpai this frustrated brings me joy somehow.
 {% endbubble %}
 
@@ -699,7 +699,7 @@ In Shinkai-senpai’s case, it feels as though he may have been this way for a l
 Mhm… Ehehe, Tetora-kun with a normal tone of voice has a slightly different and dangerous charm to it. I think it’s lovely!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ehh~… I dunno what it is, but I don’t really vibe with this Tetora-kun… He’s got that shallow energy of someone who I’d never be able to understand, and neither would he to me.
 {% endbubble %}
 
@@ -805,7 +805,7 @@ If things continue as they are, those kids will be charged with crimes and be pu
 I can’t allow that to happen at *any* cost. I refuse to overlook it.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Umm… Is Crimson Production seriously *that* bad of an agency…?
 {% endbubble %}
 
@@ -1162,7 +1162,7 @@ We’d need *way* more than a half-hearted effort to tear down its stronghold.
     <p>The following chapter contains mentions of murder.</p>
 </div>
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wait, “tear down its stronghold”…? Don’t tell me you plan to fight… You, against the *entirety* of Crimson Production?
 
 Why? Let’s just leave this all behind. Nothing good will come out of getting involved with something so dangerous, y’know…?
@@ -1210,7 +1210,7 @@ The evil will perish, and justice will prevail.
 Haha… It’s such a plain and boring solution, unlike defeating evil monsters with cannons and giant robots and stuff.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 No, no… Don’t stay here, Tetora-kun, you should run away with us tomorrow.
 
 If you stick around, and they end up suspecting you as the one who let us go, won’t they do horrible things to you…?
@@ -1220,7 +1220,7 @@ If you stick around, and they end up suspecting you as the one who let us go, wo
 I can’t do that. I refuse to leave the Anti-Stars kids all on their own here.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 T-Then let’s run away with them, too—
 {% endbubble %}
 

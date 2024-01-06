@@ -115,7 +115,7 @@ What about you, Anzu-san? Do you usually watch movies?
             There's a lot I've watched for reference.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori worried %}
+            {% bubble Midori worried0 %}
             That just means you're thinking about work even when you're watching movies during your free time, doesn't it…?
 
             That's a lot different from how I live life… Now I see how you're always so busy, Anzu-san…
@@ -178,7 +178,7 @@ But I feel like we got a lot out of it. We'll get to have a lot of fun watching 
             About the last one I recommended, the truth is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori worried %}
+            {% bubble Midori worried0 %}
             Huh!? It's a horror movie…!? But the cover looks so soft and fluffy…!
 
             I don't like scary stuff, but… Now I'm kinda curious to see how they turn something so soft-looking into a horror.

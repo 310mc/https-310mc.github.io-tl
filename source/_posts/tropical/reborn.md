@@ -266,7 +266,7 @@ There’s nothing to be embarrassed about! I’ve also decorated my room with al
 Don’t talk to me all high and mighty after entering my room without my permission… You’re the <em>one</em> person I don’t want coming here…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Actually, why’d you all come anyway…? I <em>seriously</em> don’t have the mental capacity to talk to anyone right now…
 {% endbubble %}
 
@@ -592,7 +592,7 @@ Until then, I will train myself to perfect the art of transformation! Nin-nin~�
 
 {% img /img/es/eventstory/tropical/reborn4.jpg %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 *Sigh…*
 
 Even when the world is filled with bright sunlight, “Tropical Island Troppeys” still won’t come back…
@@ -832,7 +832,7 @@ Well, anyway… There’s something I’d like to talk to all of you about, is t
 Go for it! If it’ll help you stand back up once more, then I’m willing to be a stepping stone or an outlet for your thoughts!
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 There’s <em>zero</em> reason to be suffocating about this… Please just listen to me normally.
 {% endbubble %}
 
@@ -856,7 +856,7 @@ Would you be willing to help me, no matter what that hero vision may be…?
 I, too, may ask everyone a similar request once it’s my turn to be commander. We all feel the same, so there is no need to hold back~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 It’s not something as serious as Tetora-kun’s vision was, y’know…? Are you really sure…?
 {% endbubble %}
 
@@ -948,7 +948,7 @@ And Mr. Slothy is so soft-looking in every way, it’s just adorable! It would t
 I couldn’t hold back the joy of making new fans for “Tropical Island Troppeys,” that I almost derailed the topic…♪
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 Anyway, despite how absolutely adorable they are, they’ve announced that they’re going to take a hiatus… and that was why I fell into a deep hole of heartbreak…
 
 It felt like I had lost a group of close friends who I thought would always stay by my side no matter what… It was so shocking to me that I couldn’t get myself to deal with anything.

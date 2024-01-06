@@ -129,7 +129,7 @@ Woah, you’re actually going for it! That’s incredible of you, Midori-kun~♪
 I’d love to know what sort of outfit you have in mind~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Uu—! Don’t look at me with those sparkly eyes! I didn’t actually make any real progress…!
 
 Like, I did try thinking of something, but every outfit that comes to mind is something I don’t really wanna wear…
@@ -151,7 +151,7 @@ We all have our own worries, you know! There’s nothing to be ashamed of.
 That said, I’m quite curious about these outfits you wouldn’t want to wear. What kind are you referring to?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Maybe saying it like that is a bit off… It’s more like outfits that’d make me feel odd if I saw myself in them…?
 
 Like outfits that’re too revealing, with v-necks open all the way down to the stomach… Or fancy suits that’re suffocating to wear…
@@ -179,7 +179,7 @@ Ah—I was hoping to buy a sweater or shirt that has a mascot character on it so
 …That sounds more like comfy clothes for home to me. I doubt you can make use of it for your personalized outfit.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 H-How could you…!? This is the answer I get for the one time I come up with an idea!?
 {% endbubble %}
 
@@ -209,7 +209,7 @@ So how about you start by asking Anzu-dono if it’s true?
 
 {% img /img/es/idolstory/stayingtrue/2.jpg %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(Shinobu-kun’s right. I’d only feel humiliated if I let a rumor make a fool of me, so I should double-check with Anzu-san first.)</th></th>
 
 <th>(I heard she’s in the StarPro office…)</th>
@@ -279,7 +279,7 @@ I’ll search up what kinda mascots will show up for the event…♪
     <p>On the day of the exhibition…</p>
 </div>
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(Nobody from Ryuseitai is showing up…)</th>
 
 <th>(None of them ever mentioned the exhibition either, and the pamphlet only had my name on it… I kinda had a small feeling about this, but—)</th>
@@ -299,7 +299,7 @@ I’ll search up what kinda mascots will show up for the event…♪
 Yoo, Takamine~? Woah, what’s wrong? Why do you look like you’re in despair?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Isara-senpai? Why’re you here?
 {% endbubble %}
 

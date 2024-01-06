@@ -403,7 +403,7 @@ I mean, I genuinely had everyone convinced that I was a complete traitor, 100% a
 After all, they would’ve killed me if they found out I was a spy. I was desperate to make this plan work.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I know I’m really late in saying this, but this isn’t even idol work anymore, is it?
 {% endbubble %}
 
@@ -555,7 +555,7 @@ I couldn’t help but think it was so unfair.
 That, like, if you don’t want it that badly, you should just give me your talent and your beautiful face.
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 Should I say sorry…?
 {% endbubble %}
 
@@ -981,7 +981,7 @@ And so, we could say that we were simply playing the role of “heroes who had b
 We shall force this into a factual truth, and convince society into accepting it.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Will they really be convinced…? Isn’t it *too* aggressive?
 
 Like… “We tried to replicate this exact storyline in real life, too! What do you think? Isn’t it interesting?” — Wouldn’t that be a little offensive? It’s too tasteless of a joke, don’t you think…?

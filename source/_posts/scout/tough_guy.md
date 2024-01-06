@@ -479,7 +479,7 @@ Ho<em>ho</em>, that’s amazing, Anzu! You’re getting good at handling Takamin
 As expected of our incredible producer! ♪
 {% endbubble %}
 
-{% bubble Midori blushshy2 %}
+{% bubble Midori blushshysmile %}
 Eheheh… Anzu-san’s really good at sewing, too… So she makes me plushies whenever she can…
 
 My bed is full of Anzu-san’s handmade plushies…♪
@@ -525,7 +525,7 @@ In that case, your thoughts on this matter may be useful…☆
 For you see, the job in question is related to appearing in a school drama! ♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh? A drama…? What’re you on about… I can’t act at all, y’know…?
 
 Plus, Sengoku-kun would probably get really flustered, so it’s not possible for us, is it…?
@@ -601,7 +601,7 @@ I see! How nice, everyone’s busying themselves with something! That’s what y
 We should go off and live our lives with full vigor too, Takamine! First things first, let’s make this mission a success! Let’s rush on over with our heads held high…☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Woah— Please don’t drag me over with you by force…
 
 I’m used to it by now, so I’m fine with it, but… It’ll be a bother to Anzu-san, y’know…?
@@ -715,7 +715,7 @@ Ah— Um, hello… I’m Takamine, from Ryuseitai…
 Nice ta meet’cha. …You’re pretty well-built. And you’re a *first year?* Huh, you do martial arts or somethin’?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, no, erm…
 {% endbubble %}
 
@@ -1165,7 +1165,7 @@ Umm… K-Kiryu-senpai, here’s the script…
 Script? That’s odd, I thought they’d said they hadn’t finished the script for the drama yet?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eek— I’m so sorry… Er, erm, umm…?
 {% endbubble %}
 
@@ -1251,7 +1251,7 @@ Plus, I’d feel at ease havin’ another person to perform with.
 You’ve got good looks, so you may just land a role, y’know?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eep—… No, um… Nobody mentioned anything about wanting to appear, so, err…?
 {% endbubble %}
 
@@ -1359,7 +1359,7 @@ No matter! I thank you all for your valuable comments!
 You’re up next, Takamine! It’s time you try it out…☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eh? Uuu…? B-But I’m not mentally prepared…
 {% endbubble %}
 
@@ -1389,7 +1389,7 @@ Why’re you cheerin’ on the cheerleader, Morisawa?
 ……Acting really is tricky to get down, huh?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 U-Uu… Yeah… And even though I know all the judges, I’m really nervous… All my lines flew out of my head…
 {% endbubble %}
 
@@ -1453,7 +1453,7 @@ I know how you feel, Nagumo. I also tend to say and do odd things without meanin
 Whenever there’s a photoshoot, I often get scolded and told, “Quit doing transformation poses! Your arms and legs are so loud!” — But it’s completely unintentional! Believe me!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 So Morisawa-senpai’s mouth isn’t the only thing that’s loud, even his arms and legs are…
 
 Doesn’t Sengoku-kun sometimes accidentally sing in a ninja-like way too, and then blush in embarrassment over it…?[^9]
@@ -1673,7 +1673,7 @@ Being part of Ryuseitai allows me to experience a lot of different things, huh�
 I don’t ever challenge myself to try new things, so…
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 I think I kinda appreciate being dragged around and forced to do all sorts of things…?
 {% endbubble %}
 
@@ -1789,7 +1789,7 @@ What did you say~!? I’m still bursting with youth and energy! Tokusatsu shows 
 You’re so cheeky, Takamine\~! You little rascal, you\~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ughh… Please stop clinging to me all casually, you’re so suffocating…
 
 Huh? There’s a girl walking towards us…?
@@ -1931,7 +1931,7 @@ Thanks for everything. I’m livin’ the best youth of my life in this school�
 Uu, Taisho! I had no idea you thought of us— thought of the days you spent <em>with</em> us like that…! It’s an honor! I’m so moved…☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Umm… I’m <em>really</em> sorry for not reading the room, but… There’s something that’s bothering me about what’s written in the documents…?
 
 If I’m not reading wrong because I’m half-asleep, I think Kiryu-senpai’s name is next to the <em>teacher</em> role…?

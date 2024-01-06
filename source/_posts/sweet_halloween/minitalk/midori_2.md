@@ -234,7 +234,7 @@ No, it definitely *was* long…
 
               We're jiangshi, so I didn't need to do any difficult moves…
               {% endbubble %}
-              {% bubble Midori smirk %}
+              {% bubble Midori snicker %}
               I asked Tetora-kun to teach me how to do Kenpo moves, and I used it on Morisawa-senpai to motivate him to work hard… That was a good time…♪
 				{% endbubble %}
 			</div>

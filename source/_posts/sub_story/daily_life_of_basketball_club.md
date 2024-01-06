@@ -100,7 +100,7 @@ Don’t run away, Akehoshi! Aren’t you a boy!? Face me head on! Strike me with
 Woah— Why’s he chasing me!? I don’t have the ball anymore! Gaaah, he’s so annoyiiing!!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Woah—
 
 I caught the ball, but what am I supposed to do with it now…?
@@ -124,7 +124,7 @@ I dunno what to do anymore… Ahh, at this point, I just wanna die holding this 
 Takamin, get out of the way\~! Chi\~chan-senpai’s chasing me with a serious look on his face for some reason\~!!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Woah—! Could you please not charge towards me…?
 {% endbubble %}
 
@@ -222,7 +222,7 @@ You can stay as the “natural airhead”~ I’ll do the thinking for all the tr
 …Woah, Takamine. It’s best you stand a little further away, y’know?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Why…?
 
 Did I do something upsetting…? <em>Sigh</em>, I wanna die…
@@ -240,7 +240,7 @@ It’s fine, she can take photos of Takamine and I as well! Let’s sell candid 
 This is the “justice” pose! This is the “courage” pose!
 {% endbubble %}
 
-{% bubble Midori cry3 %}
+{% bubble Midori cryalmost %}
 And this is the “I wanna die” pose…♪
 {% endbubble %}
 

@@ -447,7 +447,7 @@ Ahh, this is so much fun! It's awesome\~! This sort of thing has been my dream f
 Dad…! I think I’ve finally reached it…☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(B-Bleached it?[^5] What's he on about…? Ahh~!! I don't get anything anymore!!)</th>
 {% endbubble %}
 

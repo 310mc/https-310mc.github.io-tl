@@ -209,7 +209,7 @@ C-Cease this at once, Midori-kun! Don’t sour the mood after how hard Tetora-ku
 *Rin-pyou-tou-sha-kai-jin-retsu-zai-zen!*
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 What the— The heck was that? A spell to exterminate demons or something?
 {% endbubble %}
 
@@ -323,7 +323,7 @@ But it’s gotta be true somehow. I *must* be lacking in some places.
 Morisawa-senpai made sure to make both our jobs *and* our personal time together enjoyable, so I have to try harder and do the same—…
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ahhh, you’re gonna *actually* become depressed for real if you keep saying nothing but that…
 
 Man, you’re taking this so seriously… Meanwhile, I’m more than glad to know people are quitting…
@@ -359,7 +359,7 @@ What made you stop feeling that way? Maybe once you figure that out, we could fi
 GOOOOOD WORK EVERYONE!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eep!? What the— Hey, doesn't that stupidly loud voice sound way too familiar…?
 {% endbubble %}
 
@@ -373,7 +373,7 @@ I’m really sorry I can’t stay! I’ll be taking my leave now, s—
 Oh!? You guuuys…!! ☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ugh, he just *had* to notice us.
 {% endbubble %}
 
@@ -387,7 +387,7 @@ Actually, you don’t seem all that energetic, huh? What’s up!?
 Are you all feeling well? Sleeping well? Eating well? Keeping the flame of justice burning within your hearts well…!?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eugh…
 {% endbubble %}
 

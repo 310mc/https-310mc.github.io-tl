@@ -150,7 +150,7 @@ It seems that you pass the round every time you make the same pose as the idol. 
 we all have our own personal hero [poses], so we can definitely [link] with each other~
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, but then we wouldn't really play by the game's rules, would we…? It's not that sorta game, right…?
 {% endbubble %}
 

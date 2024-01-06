@@ -460,7 +460,7 @@ M-Midori-kun? How about you take a seat next to me for now? ♪
 i will go make us [tea]~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, I have a solo job coming up soon, so if you aren’t talking about anything important, then I’d be glad if you could send me the gist of it later…
 
 I just showed up as part of my duty as a unit member… I kinda wanna avoid meeting up with everyone in Ryuseitai as much as possible, but I also don’t wanna be scolded, so…
@@ -512,7 +512,7 @@ But I just can’t switch gears that easily…
 N-No, not that! Look at this news article that was posted right now…!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Shinobu-kun, you’ve been looking at your phone instead of paying attention to our important conversation…?
 {% endbubble %}
 
@@ -1183,7 +1183,7 @@ Why, of *course* we aren’t kaijuu! We’re heroes of justice! We’re trying o
 However! You have to take a look at this! This is the latest news article published online—
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Mm…?
 
 Wha— What is this…?
@@ -1293,7 +1293,7 @@ It’s only when it’s least necessary that he’s super fast to work…
 In fact, this is what I should’ve done yesterday! I regret not taking action earlier…! Due to my careless decisions, even Sengoku has fallen prey to them!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Erm, he’s not dead or anything though, right? Isn’t he smiling and doing a peace sign in the photo…?
 
 And anyway, I dunno what’s going on in Okinawa, but won’t the same happen to us if we head over there…?

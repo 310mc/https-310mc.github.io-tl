@@ -52,7 +52,7 @@ description: "[ES!!] Midori's second Mini Talk from Tropical. From Anzu's POV."
 
 {% img /img/es/eventstory/tropical/minitalk_midori2_1.jpg %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Uu, it's not here either… Where the heck did I drop it…?
 
 It wasn't in the office's hallway, nor in the TV studio… At this point, I'll have to call the police station to report a lost item…

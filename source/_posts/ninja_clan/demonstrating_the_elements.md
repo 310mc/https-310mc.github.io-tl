@@ -137,7 +137,7 @@ Hmm… Good point. How ‘bout you make the main part of the outfit more like a 
 —!! That’s a great idea! It’d look so stylish!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ehhh…? Where the heck did that advice come from…?
 
 I thought you had no interest in fashion like me…
@@ -416,7 +416,7 @@ I can understand feeling that way once or twice, but you’ve felt this way a bu
 Ahahaha, no way! Nobody would get anything out of trailing after me!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huuhh…? I don’t think that’s the problem here…
 {% endbubble %}
 

@@ -130,7 +130,7 @@ yes~♪ but ever since ensemble square was established, we also have made a lot 
 so i suppose it is Understandable to lose Trust in us.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eep—! Please don't jump into the conversation out of nowhere, Senpai!
 {% endbubble %}
 

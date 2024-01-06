@@ -1483,7 +1483,7 @@ There’s no use complaining ‘bout it. Right now, we should let our seniors kn
 Even if it’s hard to do it right, I wanna make sure I convey my feelings.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 You’re so brave, Tetora-kun… I can’t even stand the thought of it…
 {% endbubble %}
 
@@ -1515,7 +1515,7 @@ Ehehe, Narukami-senpai’s been helping me so much…
 We may even end up in a magazine together! She’ll try and recommend me as the next manly candidate!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wha—? *They’re* teaching you about *manliness?*
 
 A-Are they okay with that…? Don’t they, like, um… dislike that kinda stuff…?

@@ -62,7 +62,7 @@ hidden: true
 midori? why are you groaning?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 S-Shinkai-senpai… Umm, the truth is… I also prepared Valentine’s Day gifts for everyone…
 {% endbubble %}
 

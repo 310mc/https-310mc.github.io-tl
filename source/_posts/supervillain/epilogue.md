@@ -267,7 +267,7 @@ Starting with the guy who’s trying to look like he has nothing to do with this
 Let’s hear your thoughts on your ideal Ryuseitai — “Ryuseitai Green”![^2] I want you to speak your mind without any hesitation!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ehhh…? Ughhh, this is turning out to be such a <em>pain</em>…
 {% endbubble %}
 

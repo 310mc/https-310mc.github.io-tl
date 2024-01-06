@@ -147,7 +147,7 @@ Shinkai-senpai’s already conversing so openly with them. He really is Ryuseita
 I can understand if this were a stuffed toy or a costumed character, but it’s kinda weird to make friendly talk with a wooden <em>plank</em>…?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 You don’t get it at all… These illustrations of “Tropical Island Troppeys” were their first official designs, y’know?
 {% endbubble %}
 
@@ -391,7 +391,7 @@ one of the difficult parts of being an [idol] is that we cannot stay [soft] and 
 i really understand why you admire [mascot characters] so much, midori.
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 I know right… Why do we have to live such busy lives as part of society…?
 {% endbubble %}
 

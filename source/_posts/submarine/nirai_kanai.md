@@ -378,7 +378,7 @@ The truth is, it seems that our Kanata has been enshrined as a god by a local re
     <p>That night, in a prohibited area within Okinawa…</p>
 </div>
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 W-What’re we gonna do…?
 {% endbubble %}
 
@@ -386,7 +386,7 @@ W-What’re we gonna do…?
 What d’ya <em>think!?</em> We have to save Shinkai-senpai!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, uhhhh, <em>how</em>, exactly…? Everything’s happening so fast that I'm having a little trouble keeping up…
 
 Isn't this basically a crime? Are we sure everything’s okay? S-Should we call the police or something…?
@@ -480,7 +480,7 @@ Well, just ‘cause it's creepy doesn't mean it's okay to trample all over them�
 I-I think you’d have sounded way cooler if you said that in a cool way, you know!?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Now Shinobu-kun’s vocabulary is reverting to six year old level… That’s basically like saying “my headache aches”…
 {% endbubble %}
 
@@ -625,7 +625,7 @@ Such a thing means nothing to me! As Hasumi-dono would say: if the law obstructs
 Isn’t that kinda insane!? Midori-kun, don't just stand there and watch — help us stop Kanzaki-senpai!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Hell no… I’m terrified… I don't wanna get near someone waving around a real sword…
 {% endbubble %}
 
@@ -633,7 +633,7 @@ Hell no… I’m terrified… I don't wanna get near someone waving around a rea
 I-It’s safe to get near Kanzaki-dono! He would never do anything to hurt anyone!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Nu-uh… Just seeing him wielding that sword is terrifying; I can feel the agonizing pain inflicting on me already… How are you guys even standing near him without fear…?
 {% endbubble %}
 
@@ -645,7 +645,7 @@ I know the sort of person Kanzaki-dono is, that’s why!
 If I use my karate moves here, I could at least buy us more time, if nothing else…!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, you don't have to risk yourself over this, do you…? Just leave him be… Why do we even need to care what happens to him…?
 {% endbubble %}
 
@@ -685,7 +685,7 @@ I'm goin’ nowhere! I won't budge ‘til you gimme a reason that makes sense to
 Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^2]
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 No no no, absolutely no way! “Takamine Barricade” is powerless against an opponent with an *actual weapon!*
 {% endbubble %}
 
@@ -1163,7 +1163,7 @@ so that is the reason. it is simply much more Convenient for everyone that way.
 ………
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 ………
 {% endbubble %}
 
@@ -1275,7 +1275,7 @@ For some reason, I was given incorrect information that Kanata had been enshrine
 That misinformation was conveyed to everyone in Akatsuki from me, and so Kanzaki-kun acted rashly to hurry and confirm the truth — that's how we got here.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Hold on, why were you telling Akatsuki about private messages between us in the first place, Morisawa-senpai…?
 
 You’re not spilling info about my private life to them as well, are you…?
@@ -1353,7 +1353,7 @@ Conceal? Do you mean manipulation and concealment of information?
 no. what it means is that he must Kill.[^5]
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 K-Ki…!?
 {% endbubble %}
 
@@ -1615,7 +1615,7 @@ Ohhh~♪ That’s awesome! The fish we caught was cut apart perfectly!
 Not only that, but the sliced fish dropped on the plate in such a neat and flawless manner! It looks delicious~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, all I feel is fear watching a blade slice stuff apart this up-close… I envy you two… You’re able to enjoy this with so much innocence…
 {% endbubble %}
 
@@ -1623,7 +1623,7 @@ Um, all I feel is fear watching a blade slice stuff apart this up-close… I env
 What's the matter, Takamine? You don’t look well. Are you seasick like Kiryu?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh? Ahh, no, um, I'm always like this, though…?
 {% endbubble %}
 
@@ -1663,7 +1663,7 @@ I don't even know why us Ryuseitai and the members of Akatsuki have decided to c
 There are a few complex reasons for that, Takamine.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 W-Why’s everyone talking to me all of a sudden…? Uuu, I thought I’d finally get to spend my time in peace and quiet now that Morisawa-senpai isn’t anywhere nearby…
 {% endbubble %}
 

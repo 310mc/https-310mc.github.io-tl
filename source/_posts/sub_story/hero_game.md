@@ -152,7 +152,7 @@ bwahaha~ we will [take over] this [earth]~…♪
 Nin-nin! ♪ Once we’ve dominated the world, all of mankind shall wear ninja garments for the rest of their lives~…!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 What’s with this comedic evil organization… Actually, wait a sec— The villains are gonna be played by Sengoku-kun and Shinkai-senpai…?
 {% endbubble %}
 
@@ -240,7 +240,7 @@ I just realized this, but you expose your real name just fine, huh… Aren’t h
 C’mon, Takamine, Nagumo, you need to chang— I mean, transform, too! I’m at a disadvantage fighting all alone against two! Even I won’t be able to do much except evade their attacks!
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 Um, I’d much rather that you don’t make a mess in our classroom… W-What’re we gonna do, Nagumo-kun…?
 {% endbubble %}
 

@@ -174,7 +174,7 @@ Oh, I appreciate you telling me that!
 You’re really good at giving compliments! You’re always so harsh, so a compliment from you makes me extra happy, like I *really* did do a good job!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 What’re you talking about…? Even I give honest compliments sometimes, y’know…?
 {% endbubble %}
 

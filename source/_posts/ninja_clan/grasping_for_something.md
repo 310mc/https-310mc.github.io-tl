@@ -247,7 +247,7 @@ This doesn’t sound so hard to solve after all~♪
 ………
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh? Why’re you making that face? Did I say something wrong?
 {% endbubble %}
 
@@ -315,7 +315,7 @@ It was a desperate measure! I was hoping the old people would pass my flyer onto
 However, I sadly miscalculated the part where they would think *they’re* allowed to join the club, too.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 It’s like a telephone game gone wrong, huh…
 {% endbubble %}
 

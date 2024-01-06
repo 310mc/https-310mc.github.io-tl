@@ -180,7 +180,7 @@ If you're looking for a particular shop, I can help you.
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
 							…Huh? Are you injured somewhere?
 
         Um, it's not for you…? That's good, then…
@@ -194,7 +194,7 @@ If you're looking for a particular shop, I can help you.
 
 ## <div mt="rare"></div> 3/3
 {% img /img/es/eventstory/climax/minitalk_midori1_3.jpg %}
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ah—! I'm so sorry. I was thinking about something while walking, so I didn't notice you…
 
 I saw something I shouldn't have seen…
@@ -249,12 +249,12 @@ I dunno what I'm supposed to do in times like these… I wish I could just erase
 
         Please don't pat my head out of nowhere… You surprised me, y'know?
         {% endbubble %}
-        {% bubble Midori blushshy2 %}
+        {% bubble Midori blushshysmile %}
         I don't dislike it, but it's kinda embarrassing, like I'm a little kid…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
 							Um… Why did you reach your hand out…?
 
         Whaa!? I might be able to forget if I get hit!?

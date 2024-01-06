@@ -298,7 +298,7 @@ It’s almost time for the bonding event… I’m so nervous…!
 I don’t get it, why would you feel nervous? It’s not like we’re the ones up on stage…?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Of <em>course</em> I’d feel nervous…! I’m gonna get to see Pop-dayuu with my own two eyes, y’know!?
 {% endbubble %}
 
@@ -542,7 +542,7 @@ Alright, next is Tetora-kun. Get into the feeling of being soft and act as Bearb
 “Booonk, I’m Bearbonk-bonk…!”[^5]
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Mm, it still feels stiff… You have to be more soft and laid-back…!
 {% endbubble %}
 
@@ -654,7 +654,7 @@ Yeah, sure. I’m also taking this fully seriously, so…
     <p>A few days later…</p>
 </div>
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 <th>(<em>Sigh</em>, school’s so tiring… Maybe it was a good thing I canceled practice for today…)</th>
 
 <th>(I feel like I’m getting tired way faster, probably ‘cause I’m leading the unit right now… I don’t have as much stamina as Morisawa-senpai, so I think I’m gonna have to take a break every few days.)</th>
@@ -724,7 +724,7 @@ there is no need to be that way. come along with me~♪
 i am sure it will make you happy, too…♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Woah— He wrapped himself around me…!?
 
 Shinkai-senpai, you’re surprisingly strong… It’s like I’m being pressured to go…
@@ -742,7 +742,7 @@ then let’s go~♪
 
 {% img /img/es/eventstory/tropical/transform4_2.jpg %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Shinkai-senpai, could you please tell me what it is already?
 
 I can’t imagine what this “interesting” thing is…?
@@ -776,7 +776,7 @@ A day off is not simply for switching off…? Is that some kind of pun?
 it is not a [pun]. look, we have arrived~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 A dance room…? Wait, don’t tell me—
 {% endbubble %}
 

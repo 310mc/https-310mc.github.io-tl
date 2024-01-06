@@ -74,7 +74,7 @@ And then even brought over some troublesome people…
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
 							Ah— I'm sorry… I went too far.
 
         I can't believe I said that when you're just so worried for me…
@@ -225,7 +225,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
 							Whaa, *that's* what made you cry…!?
               {% endbubble %}
               {% bubble Midori smilesoft2 %}
@@ -235,7 +235,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori worried %}
+            	{% bubble Midori worried0 %}
 							No, no, I'm the one who's grateful.
 
         So please don't bow your head, Anzu-san…!

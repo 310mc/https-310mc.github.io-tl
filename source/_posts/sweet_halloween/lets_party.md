@@ -398,7 +398,7 @@ We made them ourselves, so I know it’s fake and all, but it’s seriously cree
 fufu, do not [bully] him so much, midori~♪
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 Mhm… But I just wanna get a tinsy bit more of my revenge for all the times he’s pestered me…♪
 {% endbubble %}
 
@@ -844,7 +844,7 @@ I’m not really trying to…
 But being how I normally am seems to do the trick, so maybe I really am fit for this role…♪
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 If only I could always be praised for being sluggish…♪
 {% endbubble %}
 

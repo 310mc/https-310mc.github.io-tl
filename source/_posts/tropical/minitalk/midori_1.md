@@ -78,7 +78,7 @@ description: "[ES!!] Midori's first Mini Talk from Tropical. From Anzu's POV."
             What's wrong?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori worried %}
+            {% bubble Midori worried0 %}
             Woah!? You always appear out of nowhere, Anzu-san…
 
             The truth is, I have to do a street interview… I'm not too used to this sort of thing, so I can't help but sigh every second I breathe…
@@ -117,7 +117,7 @@ Anzu-san, what do you make sure to do whenever you're working with someone for t
             I make sure to read the room.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori worried %}
+            {% bubble Midori worried0 %}
             Woah, that's insanely hard to do…!
 
             Can I really manage that…? I feel like my very existence would disappear if I ever tried to really read the room…
@@ -142,7 +142,7 @@ Anzu-san, what do you make sure to do whenever you're working with someone for t
             I make sure to talk to as many people as possible.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori worried %}
+            {% bubble Midori worried0 %}
             Start by learning more about the person, huh…
 
             This would be a lot easier to do if I was better at talking to people I'm meeting for the first time, but… I'll still try my best.

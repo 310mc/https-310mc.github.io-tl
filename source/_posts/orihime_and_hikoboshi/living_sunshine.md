@@ -270,7 +270,7 @@ We were told that we should do our best without relying on Taichou-dono. Thus, I
 I did so because we tend to depend on Taichou-dono, you see…
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 It's fine, really… Though I think I would've liked it if you told us he was doing okay… I couldn't really focus properly in practice from worry…
 {% endbubble %}
 

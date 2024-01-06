@@ -186,7 +186,7 @@ There's nothing to bring back, though… It's been generally peaceful…
 The school felt dark and depressing back in spring, and I was stressed over how I might’ve messed up and joined the wrong school…
 {% endbubble %}
 
-{% bubble Midori smirk %}
+{% bubble Midori snicker %}
 But lately, it’s been calm and quiet… So I’ve been pretty happy…♪
 {% endbubble %}
 
@@ -216,7 +216,7 @@ Huh!? Where did this come from!? Please spare me from dealing with any problems�
 Ah, no. It's just something I don’t want Takamine to hear, so we'll talk about it in a café.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wha…? What does that mean? Why am I being left out…?
 {% endbubble %}
 

@@ -647,7 +647,7 @@ Huuuh? You *did!* You told me I should’ve just disappeared, Tetora-kun!
 Wha—!? Sorry, I wasn’t thinking straight back then and ended up saying somethin' I didn’t mean!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 You didn’t even mean it…!? It hurt me so much, I could’ve died, y'know…!?
 {% endbubble %}
 

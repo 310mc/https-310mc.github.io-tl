@@ -102,7 +102,7 @@ That’s <em>exactly</em> why it was so painful… I’m awful at coming up with
 Heeey, Takamine! There you are! I was looking for you.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ugh—
 
 You’ve got the wrong person, I’m not Takamine Midori…
@@ -112,7 +112,7 @@ You’ve got the wrong person, I’m not Takamine Midori…
 Fuhahaha! ☆ I never once said “Midori,” and you won’t fool me with that trick!
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 Ughh… I’m tired enough as it is, why did I have to come across such an exhausting person… Did you want something from me?
 {% endbubble %}
 
@@ -286,7 +286,7 @@ Nah, that’s the exact thing I was struggling with~ I’ve never once thought a
 But thanks to the video Morisawa-senpai told me about, I got through it somehow~♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I see.
 
 …Ah!
@@ -298,7 +298,7 @@ Don’t tell me that video was—
 Yep, it was Ring.A.Bell’s promotional video! ☆
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 Of <em>course</em> it was… Please never recommend it to someone ever again.
 {% endbubble %}
 
@@ -716,7 +716,7 @@ A capsule toy of a mascot character!? And a <em>super</em> rare one at that!?
 Why, though? It’s not even my birthday…
 {% endbubble %}
 
-{% bubble Midori sigh4 %}
+{% bubble Midori sighdrop %}
 Oh, I see what this is. There’s a catch to this, isn’t there?
 {% endbubble %}
 
@@ -762,7 +762,7 @@ Well, there isn’t much we can do about that, is there? Persisting won’t chan
 It’s a shame, but I’ll try to find someone else. See you then, Takamine.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Okay… Sorry, I kinda feel bad…
 
 ……………

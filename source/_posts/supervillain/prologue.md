@@ -81,7 +81,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 W-What the…?! What are you <em>doing</em>, Tetora-kun!?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wha? Huh? I heard a really loud sound just now, what happened…!?
 
 Sorry! I can’t be bothered to practice, so I wasn’t looking! What’s going on…?
@@ -197,7 +197,7 @@ With that, we’d have hurt each other the same amount, and we can call it even.
 What’s *with* you? I *just* said that I accept the situation as it is. Yet you keep persistin’ otherwise, over and over and over again—
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Wh— Why’s it turning out this way…? Please don’t fight…
 {% endbubble %}
 

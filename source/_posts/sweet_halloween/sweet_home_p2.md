@@ -208,7 +208,7 @@ Let’s try to spend some time with them without disturbing Nito’s sleep. Gett
 My beloved comrades! What are you all doing over in that corner? Let us take part in it, too~♪
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 Eughhh, here comes the loud one…
 {% endbubble %}
 

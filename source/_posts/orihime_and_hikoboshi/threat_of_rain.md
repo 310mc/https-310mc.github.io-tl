@@ -132,7 +132,7 @@ Umm, guys… I don't see any of our Trickstar seniors here.
 Whaaa!? You're right! Did we get the meeting place wrong?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh!? We already messed up? W-What do we do…?
 {% endbubble %}
 
@@ -330,7 +330,7 @@ Like, he seems to be someone I can have an actual conversation with, unlike you 
 Whaa\~? Don't put me together with Chi\~chan-senpai! We can talk to each other properly, too! Let's get along! Handshake\~♪
 {% endbubble %}
 
-{% bubble Midori worried2 %}
+{% bubble Midori worried %}
 Ughh… I knew it, this guy’s also the pushy type…
 {% endbubble %}
 
@@ -520,7 +520,7 @@ Our joint lives have always been that way… I thought we just had to do the bes
 Hmm? Is Ryuseitai really always like that, Takamin?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Huh—? Yeah, basically… Morisawa-senpai would always show us what to do and guide us through practically everything…
 
 Like, it’s as if he’s just dragging us into whatever he’s planned…
@@ -936,7 +936,7 @@ Well… It *is* annoying to get told off without being able to say anything back
 <th>(Arghhh, I'm such an idiot! I hate myself! I wanna punch myself to the ground!)</th>
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(I-Is it really going to be okay…? Please don't make a mess, Tetora-kun… *Please*…?)</th>
 {% endbubble %}
 

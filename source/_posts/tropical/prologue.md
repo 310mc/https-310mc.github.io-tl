@@ -81,7 +81,7 @@ We’ve gotten through all the jobs that were sent to RB[^1], so I’d like to a
 I’d like the next commander[^3] to be… Midori-kun!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ehhh…? <em>Me</em>…?
 {% endbubble %}
 
@@ -155,7 +155,7 @@ There’s just no way I can be the second in line, y’know… That’s just way
 Aw c’mon, it’s not <em>that</em> big’a deal…♪
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Um, I wasn’t saying that to compliment you, though…?
 {% endbubble %}
 

@@ -122,7 +122,7 @@ You’re both so similar, it’s almost like you’re brothers…
 As touchy-feely as “that”…? Ohh, do you mean Chi~chan-senpai? Aww come on, no need to say something so vomit-inducing as that, y’know! ☆
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 I didn’t go *that* far!?
 {% endbubble %}
 
@@ -140,7 +140,7 @@ He’s basically kind to just about anyone, isn’t he…
 Whoa, you just grouped us together, didn’t you? Into the “zero friends” group! You little rascal\~! Don’t lump me with you\~!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ehhh…? First you say you’re glad we share something, now you’re annoyed we do…?
 
 I don’t get you… What did you want, anyway…?
@@ -308,7 +308,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(Well, it’s not like we’re parting by death or anything, so I guess this is how it goes…?)</th>
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(Hmm…? Wait, huh? The lights are on in the gym…?)</th>
 
 <th>(Is the club having some kind of after-party…? I bet they still don’t wanna part ways… Man, they’re so energetic…)</th>
@@ -344,7 +344,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 …………
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 <th>(…Eep!? Huh!? Morisawa-senpai!?)</th>
 
 <th>(W-Why’s he just standing in the corner, all spaced out…? I almost let out a weird sound ‘cause I thought I saw a ghost…)</th>
@@ -406,7 +406,7 @@ So it was you, Takamine! What’s up, what’s wrong!? Are you on your way home?
 You shouldn’t stay around for so long, y’know! Go back home, brush your teeth, and go to bed!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Ah—… Um, no, I just left my bag in the classroom, so…
 {% endbubble %}
 

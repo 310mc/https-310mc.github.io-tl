@@ -484,7 +484,7 @@ Parents will always see their kids as spoiled babies who can't even change their
 But don't you want to prove to them that you've become an adult despite that? Don't you want to show them how much you've grown?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Umm… What do you mean…? I don't really get what you're trying to say…
 {% endbubble %}
 

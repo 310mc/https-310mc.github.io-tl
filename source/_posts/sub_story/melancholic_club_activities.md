@@ -104,7 +104,7 @@ Woah, Takamine…!? At least say something if you’re gonna get so close to us�
 Mmmrph—!?
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Shh, shhh…! Please, *please* don’t speak so loudly…!
 {% endbubble %}
 
@@ -112,7 +112,7 @@ Shh, shhh…! Please, *please* don’t speak so loudly…!
 Heeey, Takamine! Where did you go\~! Come on out wherever you are\~!
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 Eeek!? He’s already here…!?
 
 N-Neither of you tell him I’m here, please…! I’m begging you…!
@@ -152,7 +152,7 @@ Takamine~! I’m going to make sure I find you no matter where you go! Fuhaaahah
 …Takamine-kun, he left. You can come out now.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 T-Thank you… He’s extremely insistent… I’m so grateful that you managed to make him go away…
 {% endbubble %}
 
@@ -190,7 +190,7 @@ Our club president is very kind, and he’s always teaching me how to properly b
 He’s perfect at the job — sometimes I feel like I’m being served at someone’s house.
 {% endbubble %}
 
-{% bubble Midori worried %}
+{% bubble Midori worried0 %}
 *Sigh*, I’m so jealous… Our team captain is like *that*, so… I just feel suffocated and annoyed and frustrated…
 {% endbubble %}
 
