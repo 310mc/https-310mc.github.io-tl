@@ -812,7 +812,7 @@ Wha— Yuuki, stop. Don’t do that weird “reflect light off glasses” trick.
     <p>Meanwhile, outside the dance room that Trickstar is practicing in…</p>
 </div>
 
-{% bubble Shinobu sad4 %}
+{% bubble Shinobu sad3 %}
 …We got scolded really badly.
 {% endbubble %}
 
@@ -838,7 +838,7 @@ See, I used to get scolded often for all the ninja stuff I would do…
 But ever since I came to this school, everyone has been praising and accepting me, so I ended up letting my guard down.
 {% endbubble %}
 
-{% bubble Shinobu sad3 %}
+{% bubble Shinobu sad2 %}
 I have allowed myself to relax too much… Now I have become spoiled rotten. I must learn to do better.
 {% endbubble %}
 
@@ -1396,7 +1396,7 @@ It's 100% summer now; it's super humid even at night!
 Huh\~!? Why're you complimenting me all of a sudden!? You're making me blush\~!
 {% endbubble %}
 
-{% bubble Shinobu sad2 %}
+{% bubble Shinobu sad4 %}
 …When the atmosphere became tense today, I could not do anything about it myself…
 
 All I could do was call for you with the hope that you could do something.

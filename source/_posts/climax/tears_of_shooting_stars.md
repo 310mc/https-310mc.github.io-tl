@@ -152,7 +152,7 @@ there, there. you are a good boy, so don’t cry, okay…?
 Nagumo. I don’t want to think you would, but did you hit Takamine by any chance? You shouldn’t resort to violence!
 {% endbubble %}
 
-{% bubble Tetora hmph %}
+{% bubble Tetora hmphleft %}
 Please don’t just assume things. I wouldn’t hit him. …I’d only dirty my fists if I punched a spoiled brat like him.
 {% endbubble %}
 

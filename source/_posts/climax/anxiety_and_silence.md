@@ -218,7 +218,7 @@ Both of them are precious allies that I fought alongside for a year. I cannot co
 That is why I could no longer even speak to them, as I did not want them to grow annoyed with me…
 {% endbubble %}
 
-{% bubble Shinobu sad3 %}
+{% bubble Shinobu sad2 %}
 To be honest, I am at a loss… W-What should I do, Anzu-dono?
 {% endbubble %}
 

@@ -549,7 +549,7 @@ i knew you would say that, so i have prepared sliced up Sashimi as an alternativ
 Wait a moment, please refrain from calling me a traitor, Shinkai-dono! This is an inevitable matter — I swear to you that my heart has always been one with the Marine Life Club!
 {% endbubble %}
 
-{% bubble Kanata hmph %}
+{% bubble Kanata hmphright %}
 hmph, you cannot fool me with flattery…
 {% endbubble %}
 

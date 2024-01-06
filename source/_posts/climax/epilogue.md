@@ -453,7 +453,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(Just thinking about it now makes my stomach hurt…)</th>
 {% endbubble %}
 
-{% bubble Shinobu sad2 %}
+{% bubble Shinobu sad4 %}
 <th>(And to be honest, Tetora-kun and Midori-kun have not completely made up, either.)</th>
 
 <th>(Midori-kun arrived pretty late, so we decided to leave the talking for later and just do our best for now…)</th>
@@ -461,7 +461,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(We quickly rehearsed together and rushed everything up until this point.)</th>
 {% endbubble %}
 
-{% bubble Shinobu sad4 %}
+{% bubble Shinobu sad3 %}
 <th>(With how much of a mess it has been, it is truly a miracle we managed to get past the first part…)</th>
 
 <th>(Of course, that is only how we feel about it mentally. Our actual performance has been going fine.)</th>
@@ -575,7 +575,7 @@ Do you have a complaint ‘bout that? Ah, could it be that you wanted to be the 
 You’ve always been real close with Taichou, after all… It wouldn’t be strange if you’ve been thinking of inheriting that color all along.
 {% endbubble %}
 
-{% bubble Tetora hmph %}
+{% bubble Tetora hmphleft %}
 But it’s *not* allowed. I’ve been aimin' for the red color for a long time.
 
 I’m not giving it away, not even to you.

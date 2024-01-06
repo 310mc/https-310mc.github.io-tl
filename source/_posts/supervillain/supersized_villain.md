@@ -1019,7 +1019,7 @@ That’s why I sucked it up and did my absolute best, even though I was literall
 Heheh, the one with the biggest potential in Ryuseitai is and always has been “Takamine-kun,” huh?
 {% endbubble %}
 
-{% bubble Midori hmph %}
+{% bubble Midori hmphright %}
 That’s ‘cause I started from rock bottom! Hmph!
 {% endbubble %}
 

@@ -100,7 +100,7 @@ As long as we do our best and focus, I believe that we will get through it.
 Normally, it would be all five of us performing the songs together, so… having to do all this work on our own will be tough.
 {% endbubble %}
 
-{% bubble Shinobu sad4 %}
+{% bubble Shinobu sad3 %}
 I feel like if it could have been the three of us — If Midori-kun were here — We could manage to make it look good enough…
 {% endbubble %}
 

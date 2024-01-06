@@ -521,7 +521,7 @@ So I thought maybe someone did something elsewhere.
 And that someone was you, huh? Now that I think about it, you two are childhood friends, so you’re also close, right?
 {% endbubble %}
 
-{% bubble Kanata hmph %}
+{% bubble Kanata hmphright %}
 no. *that* has [nothing] to do with [me].
 {% endbubble %}
 

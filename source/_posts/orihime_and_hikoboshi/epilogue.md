@@ -497,7 +497,7 @@ They're buzzing back and forth! It’s making me more and more excited!
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Shinobu sad4 %}
+{% bubble Shinobu sad3 %}
 …………
 {% endbubble %}
 
@@ -541,7 +541,7 @@ They're buzzing back and forth! It’s making me more and more excited!
 
 {% img /img/es/eventstory/orihimeandhikoboshi/ep4_1.jpg %}
 
-{% bubble Shinobu sad3 %}
+{% bubble Shinobu sad2 %}
 …………
 {% endbubble %}
 
@@ -563,7 +563,7 @@ And it'll be immediately obvious that something’s wrong if you get off the sta
 Guess we've got no choice. Hide yourself within my shadow, Sengoku.
 {% endbubble %}
 
-{% bubble Shinobu sad4 %}
+{% bubble Shinobu sad3 %}
 *Huff… Huff…* Uuu…
 {% endbubble %}
 

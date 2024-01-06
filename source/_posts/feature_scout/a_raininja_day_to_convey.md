@@ -443,7 +443,7 @@ Ah, no… Actually, it must be fate to meet you here, Midori-kun. I would like t
 Well, okay…
 {% endbubble %}
 
-{% bubble Shinobu sad2 %}
+{% bubble Shinobu sad4 %}
 You see…
 {% endbubble %}
 

@@ -51,7 +51,7 @@ description: "[ES!] Translation of Shinobu's second Produce Course from Climax. 
 
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_shinobu2_1.jpg %}
-{% bubble Shinobu sad2 %}
+{% bubble Shinobu sad4 %}
 Personally, I want to participate in Repayment Festival, no matter what…
 
 I want to reassure Taichou-dono and Shinkai-dono before they graduate.
@@ -150,7 +150,7 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu sad3 %}
+            	{% bubble Shinobu sad2 %}
 							My seniors were simply just too fast…?
 
         I suppose you are correct…

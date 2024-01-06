@@ -122,7 +122,7 @@ I'd do whatever I can for Isara-dono's sake! ♪
 
 ## <div mt="rare"></div> 2/3
 {% img /img/es/eventstory/climax/minitalk_shinobu1_2.jpg %}
-{% bubble Shinobu sad3 %}
+{% bubble Shinobu sad2 %}
 There hasn't been any Ryuseitai activities lately, so I haven't been seeing Tetora-kun and Midori-kun as much…
 
 Our classes are different too, so at most, we just phone call or spot each other on the corridors.
@@ -141,7 +141,7 @@ Are they both coming to school every day…?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Shinobu sad2 %}
+            	{% bubble Shinobu sad4 %}
 							Mmm… I've been avoiding doing so as my reason to see them is far too trivial, so I would only bother them…
 
         But I don't want to be incapable of talking to them ever again…!
@@ -221,7 +221,7 @@ Anzu-dono! Please help me think of something~!
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Shinobu sad2 %}
+            	{% bubble Shinobu sad4 %}
 							Hmm, would something practical work…?
 
         But I want to be sure I give them something that'll make them happy…

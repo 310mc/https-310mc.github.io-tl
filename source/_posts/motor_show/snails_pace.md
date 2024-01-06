@@ -938,7 +938,7 @@ For example, I can understand Shinkai-dono’s situation, as he has yet to finis
 I always thought that Morisawa-dono would work hard as a passionate hero until his dying breath.
 {% endbubble %}
 
-{% bubble Midori hmph %}
+{% bubble Midori hmphright %}
 <em>Hmph</em>… All his “I love you”’s weren’t true after all; he’s all talk and no action…
 {% endbubble %}
 
