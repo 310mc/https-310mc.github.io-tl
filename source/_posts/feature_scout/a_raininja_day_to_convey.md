@@ -215,7 +215,7 @@ Ehehe. Thank you, Midori-kun!
 That all being said, why did you come to see me?
 {% endbubble %}
 
-{% bubble Midori smile7 %}
+{% bubble Midori smileexplain %}
 Oh, right. I wanted to let you know that Himemiya-kun wants you at the Student Council office as soon as you’re done with your club activities.
 {% endbubble %}
 
@@ -397,7 +397,7 @@ I just finished work, so… I came to eat a late lunch, and that’s when I spot
 No, I was simply waiting for the rain to pass. I forgot to bring an umbrella, unknowing it would rain today…
 {% endbubble %}
 
-{% bubble Midori smile7 %}
+{% bubble Midori smileexplain %}
 Ohhh… Alright then, how about we head home with my umbrella after I finish eating?
 {% endbubble %}
 

@@ -86,7 +86,7 @@ This story is connected to the card [Negligent] Midori Takamine.
 Takamine! Nagumo! We’re going to play superheroes together for today! ☆
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Hah…? Where did this come from…? Are you stupid…?
 {% endbubble %}
 
@@ -202,7 +202,7 @@ how sad\~ is there no hero on this [planet]\~?
 I shall assist you! Take this—! Turn corrupt by my shurikens…☆
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 I don’t get their set-up at <em>all</em>… A ninja polluting the ocean…? They’re just weirdos doing random stuff at this point…
 {% endbubble %}
 

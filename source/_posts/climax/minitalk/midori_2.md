@@ -53,7 +53,7 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 
 {% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 You and Sengoku-kun were way too panicked…
 
 You just ran off out of nowhere.
@@ -267,7 +267,7 @@ But the reason we were able to remain as the five of us is also thanks to you, A
             	{% bubble Midori grin %}
 							Of course! They're my comrades who fought alongside me for a whole year, after all!
               {% endbubble %}
-              {% bubble Midori sigh2 %}
+              {% bubble Midori frown2 %}
         —I bet that's what Morisawa-senpai would say…
 
         Something must be wrong with me if I really imitated him of all people…

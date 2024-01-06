@@ -318,7 +318,7 @@ yes~ if you are hurting inside, you could try taking a [trip] to heal your [hear
 gazing at the ocean will ease your sorrow. i recommend it.
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 …Yeah, I’m really sorry for the misunderstanding.
 
 I’m not against being the leader of Ryuseitai or anything. It was just bad timing for me, that’s all.
@@ -340,7 +340,7 @@ take your time, okay, midori? ♪
 <th>(…They left.)</th>
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 <th>(Whew, I’m so glad they heard me out…)</th>
 
 <th>(I don’t have the mental capacity to think about work right now, so I bet I would’ve chosen all the wrong words if it turned into an argument… I’m really glad it didn’t lead to that.)</th>
@@ -662,7 +662,7 @@ All they do is eat fruits from the island and relax all day, every day.
 They made all sorts of merchandising, even stationery and other utilities intended for kids, and I had always used them in the past.
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 But ever since mascot characters became popular, they started to fade into the background ‘cause of all the new mascots…
 
 I’ve felt so much regret the past few days for never noticing in time, and for not supporting them more while I still could…
@@ -820,7 +820,7 @@ I’m sure that you just didn’t want to spoil our fun, right? You wanted to wa
 Ah— Wait! I’m sorry if I offended you!
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 You really know how to hit on someone’s nerve…
 {% endbubble %}
 
@@ -958,7 +958,7 @@ It felt like I had lost a group of close friends who I thought would always stay
 So *that’s* why you were depressed the past few days…
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Yeah… I’ve known them practically all my life, and they’d always give me relief like they were family. I could watch over them peacefully ‘cause they didn’t have much variation in merchandising, if that makes sense…
 
 But in the end, that stability is sadly what caused them to take a hiatus…
@@ -974,7 +974,7 @@ Oh, I see where you’re going with this. That’s why there are pages about our
 A mascot character sentai squad… That sounds really interesting.
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 It’s not a sentai squad, though.
 {% endbubble %}
 

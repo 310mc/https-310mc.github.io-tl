@@ -80,7 +80,7 @@ Ughh, why is this school so freakishly huge…
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               The truth is, I have a request… Ah, but before that, did you see Tetora-kun anywhere…?
 
               He said he found you, and ran off somewhere…
@@ -173,7 +173,7 @@ I got carried away talking a bit, but… I should go back to everyone else, too�
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori sigh2 %}
+            	{% bubble Midori frown2 %}
               Ahh… Did I make you worry…?
 
               I'll be fine, probably… My motivation isn't *that* low or anything.
@@ -259,7 +259,7 @@ No, it definitely *was* long…
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               Well, with the way things were this time, I *had* to work hard…
 
               But… I wish I could've worked hard without using up so much energy…

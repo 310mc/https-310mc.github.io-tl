@@ -246,7 +246,7 @@ Ah, no, I didn't mean it that way. I meant that we're pretty similar, so it feel
 Right, Midori-kun?
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Why're you asking me… Don't mind me, just keep talking on your own…
 {% endbubble %}
 
@@ -358,7 +358,7 @@ Huh? No no, I am always feeling just fine! ♪
 You sure? It's easy to get a cold nowadays, so be careful, okay…?
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Morisawa-senpai's always touchy-feely with us, so I bet he's got all kinds of germs on him…
 {% endbubble %}
 

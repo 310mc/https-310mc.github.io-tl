@@ -207,7 +207,7 @@ Fweh? You saw a shooting star, so you were making a wish…?
 
 {% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori2_3.jpg %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Ughh… Did that guy really get sick…? He's as energetic as ever…
 
 He's been going around eating food from every stall, and playing that target shooting game…
@@ -237,7 +237,7 @@ He even found a super sentai mask and got super excited over it… It's like he'
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               Um… I think it's a little misleading to say "everyone"…
 
               I'm the type to only see festivals as a pain…

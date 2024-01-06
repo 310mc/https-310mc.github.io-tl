@@ -47,7 +47,7 @@ Or if you spot an error (broken TL note, glitch, etc.) on the site;
 Please feel free to let me know by messaging me on <a href="https://twitter.com/310mc1" target="_blank">twitter</a> or sending an email ( contact 310mctranslations@gmail.com )! I'd be happy to know of any problems in my translations or website. Thank you!
 </div>
 
-## Currently Working On
+<!--## Currently Working On
 
 <h2>※ Translating the following stories:</h2>
 
@@ -76,7 +76,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="image">
         <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
@@ -111,8 +111,8 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Graduation (Chiaki scenes only!)<br>On hold</span>
         <span class="read soon"></span>
     </a>
-</div>-->
 </div>
+</div>-->
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 

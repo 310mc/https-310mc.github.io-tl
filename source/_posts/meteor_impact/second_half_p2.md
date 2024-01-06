@@ -1170,8 +1170,8 @@ But I'm super annoyed, so let me just say this.
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_5.jpg %}
 
-{% bubble Chiaki mgncry %}
-…………………… *<th>(sobs)</th>*
+{% bubble Chiaki mgnsobangle %}
+…………………… <em><th>(sobs)</th></em>
 {% endbubble %}
 
 ## Chapter 19

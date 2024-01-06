@@ -290,7 +290,7 @@ Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
 Actually, no — Let's do our absolute best together, as we always do, Ryuseitai! *All for one, one for all!*
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Yeah, yeah… You really are feeling better… It’s a relief to see you back to your usual self, alright?
 
 Us three just can't do well without both of you here…
@@ -368,7 +368,7 @@ And the same goes for us! But we can't be shoddy with our stall work! Let's work
 Ossu! 'Course! Let's pump ourselves up and do this! After all, we're the main show this time!
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Are we really…? Everyone here is so into this event… It's said that it has the most participating units ever…
 {% endbubble %}
 

@@ -202,7 +202,7 @@ No, dude, just hear me out a sec. The transfer student has something up her slee
 “Takamine-kun, thank you for always treating me with such good care-bon! I’m so happy-bon!”
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Its name is “Basket-bon”, so it ends its sentences with “bon”…? Its personality is so randomly put together…
 {% endbubble %}
 

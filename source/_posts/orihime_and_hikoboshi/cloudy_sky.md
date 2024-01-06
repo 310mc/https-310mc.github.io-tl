@@ -228,7 +228,7 @@ Hey guys, look over here~! There’s a bully in the club!
 D-Don't say it like that, it makes me seem bad! I just want to talk about something only adults should know! It isn’t for kids to hear!
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Mm… Sounds even more suspicious now… But whatever… I don't really wanna be involved in any problems anyway…
 {% endbubble %}
 

@@ -1727,7 +1727,7 @@ He was a li’l slow yesterday ‘cuz it was his first time acting, but now, it�
 I expect nothin’ less from Taisho! I’m gonna accompany him~ Midori-kun, you come along too! ☆
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Yeah, yeah… Don’t drag me along with you — you’re really starting to resemble Morisawa-senpai, aren’t you, Tetora-kun…?
 
 Ah\~h, man\~ What am I doing so early in the morning\~? I just <em>had</em> to join such a lousy unit, huh…?

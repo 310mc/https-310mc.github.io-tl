@@ -117,7 +117,7 @@ Huh? You don’t want it this way?
 Since we decided to take turns with bein’ the commander from now on, I thought it’d be good if we made it so that one leader appoints the next one.
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Um, won’t that be unfair…? It’s no different from having no place to refuse, and it’ll <em>definitely</em> lead to someone getting the leader spot more often than another.
 
 Besides, we’ve barely decided on other things we should be doing.

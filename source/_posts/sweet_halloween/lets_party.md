@@ -446,7 +446,7 @@ What! But I am completely okay with anything as long as it is ninjas! I really l
 yes, i am also [okay] with anything as long as it is [marine life]~♪
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 That’s ‘cause you two are broad-minded people who're fine with just about anything…
 
 I mean, you even accept and get along with someone like me, who’s always peevish about everything…

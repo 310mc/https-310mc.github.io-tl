@@ -210,7 +210,7 @@ But you’re not like Morisawa-senpai; you don’t yell, you’re small and cute
 C’mon, Takamine! We can’t keep everybody waiting! Let’s dash straight away! ☆
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Alright, I get it, so quit pulling me by the hand, please…
 
 Transfer student-san, are you okay…? I’m used to carrying heavy stuff ‘cause of greengrocer work, so I think I can carry you on my shoulders just fine…

@@ -78,7 +78,7 @@ Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have somet
             Is it a tokusatsu DVD?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori sigh2 %}
+            {% bubble Midori frown2 %}
             Of course not. I already get forced by Morisawa-senpai to watch a bunch of them…
 
             I don't have to go out of my way to rent them, just asking that guy would be enough… He'd probably even lend me bonus DVDs and whatnot… Not that I ever plan to borrow any tokusatsu DVD from him…
@@ -127,7 +127,7 @@ What about you, Anzu-san? Do you usually watch movies?
             Outside of work, not really.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori sigh2 %}
+            {% bubble Midori frown2 %}
             I see… Well, if you're mostly watching them for work, it makes sense you wouldn't as much in your own free time…
 
             It'd suck to have your work distract you on your days off, after all…

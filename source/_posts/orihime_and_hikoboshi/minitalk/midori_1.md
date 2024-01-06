@@ -81,7 +81,7 @@ Morisawa-senpai took him somewhere, 'cause he didn't want to talk about somethin
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               Who knows… He said it's something between adults only, and that it isn't for kids to hear…
 
               I'm only one or two years apart from my seniors, so being treated as a kid is kinda just…
@@ -127,7 +127,7 @@ Morisawa-senpai took him somewhere, 'cause he didn't want to talk about somethin
 
 {% img /img/es/eventstory/orihimeandhikoboshi/minitalk_midori1_2.jpg %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Uu~… This is why I didn't wanna do a joint practice…
 
 Ahh, Anzu-san… I'm really depressed right now, so it's best if you don't talk to me…
@@ -179,7 +179,7 @@ Huh? Morisawa-senpai? What about him?
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               It's way less noisy without him around though, so it's fine like this, isn't it…
 
               I heard from Isara-senpai that he went to the hospital…
@@ -226,7 +226,7 @@ These mascots are going to be sold at the Tanabata Festival? Please tell me that
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Midori sigh5 %}
+            	{% bubble Midori sighfrown %}
               <th><em>(mutter, mutter)</em></th>… I didn't have to be told all of that… So annoying… <th><em>(mutter, mutter)</em></th>…
 
               …Ahh, sorry…

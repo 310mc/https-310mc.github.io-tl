@@ -1091,7 +1091,7 @@ But honestly, there’s just no way I could put on an act convincing enough to d
 Fuhaha! Experience, it’s all experience! Do you even know how many years I’ve spent imitating heroes for fun?
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 He’s *too* good at it in fact, that not even society realizes Morisawa-senpai’s just an imposter acting as a hero.
 
 So they misunderstand and start unreasonably raising the bar for him — to the point that if he shows his true self now, they’ll accuse him of being a liar and a complete fraud… It’s pretty sad.

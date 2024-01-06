@@ -127,7 +127,7 @@ Long time no see, Anzu-san…♪
 
 {% img /img/es/eventstory/sweethalloween/minitalk_midori1_2.jpg %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 What is it? Ahh, you want to know if we decided on a costume…?
 
 We haven't decided on anything yet… We literally just started, if anything…
@@ -176,7 +176,7 @@ But if this were the usual, Morisawa-senpai would've gladly told us lots of idea
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Midori sigh2 %}
+            	{% bubble Midori frown2 %}
               Mm~ I'm not really sure, but… Morisawa-senpai has been acting kinda strange lately…
 
               Tetora-kun and Sengoku-kun say that's the usual for him, but…

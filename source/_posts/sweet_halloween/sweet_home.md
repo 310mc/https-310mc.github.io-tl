@@ -666,7 +666,7 @@ If we keep going at our current pace, it’ll end up looking like we were slacki
 So let’s do our best! Let's go, we can do it! Put all your energy into it! Fuhahaha!! ☆
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Mmm\~…? He really *is* acting weird… Or like, he’s trying really, *really* hard to seem as energetic as possible…
 {% endbubble %}
 

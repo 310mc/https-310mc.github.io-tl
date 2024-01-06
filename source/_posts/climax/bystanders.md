@@ -428,7 +428,7 @@ Sengoku, tell us why you’re here. You don’t seem like your usual self.
 Don’t I tell you this all the time? Calm down. Don’t worry, it’s all going to be okay.
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 U-Uuu~! <em><th>(sobs)</th></em> Taichou-dono, Shinkai-dono! I beg of you, from the bottom of my heart…!
 {% endbubble %}
 

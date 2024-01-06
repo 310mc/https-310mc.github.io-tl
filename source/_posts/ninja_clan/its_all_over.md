@@ -203,7 +203,7 @@ Oh, there he is! He’s back.
 Welcome back, Shinobu-k—
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 <em><th>(sobbing)</th></em>… uuu… sniff… <em><th>(sobs)</th></em>
 {% endbubble %}
 
@@ -211,7 +211,7 @@ Welcome back, Shinobu-k—
 Whaaa!? H-He’s crying!? W-What’s wrong, Shinobu-kun?
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 T-Tetora-kuuun… M-Midori-kuuun… W-What do I d-dooo…! Uwaaaaaaaah!!
 {% endbubble %}
 
@@ -225,7 +225,7 @@ Umm… *<th>(pats head)</th>* T-There, there? I dunno what happened, but don’t
 Uumyu… Shinobu-kun, couldja tell us why you’re crying?
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 I-It's ab-bou… h-he, <em>sniff</em>… no l-longer… <em>sniff</em>…
 
 I-I have to p-prepare… t-things f-for… *<th>(sobs)</th>*
@@ -243,7 +243,7 @@ Tetora-kun, I dunno what he said, so could you translate for me?
 Shinobu-kun… I know Giant Baba is a famous pro wrestler and all, but he retired waaay long ago.
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 *<th>(sobbing)</th>* Uwaaaaaaah…!!
 {% endbubble %}
 
@@ -258,7 +258,7 @@ I really don’t think that’s what he said…
 ## Chapter 2
 {% img /img/es/eventstory/ninjaclan/shinobuorigcg.jpg %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 <em><th>(sniffs)</th></em>… I-I think I’ve calmed down now…
 {% endbubble %}
 
@@ -390,7 +390,7 @@ S-Stop, calm down! Weren’t you supposed to be one of the few people with commo
 You’re one of the good students in this academy, so don’t say something so twisted~! Please!
 {% endbubble %}
 
-{% bubble Shinobu cry %}
+{% bubble Shinobu sobangle %}
 Uuu, <em><th>(sobs)</th></em>… B-But I… I can’t stand the thought of watching my club disappear just like that…
 {% endbubble %}
 

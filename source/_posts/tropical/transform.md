@@ -290,7 +290,7 @@ I’ll do my best to meet the expectations of “Tropical Island Troppeys”…�
     <p>A few days later, on the weekend…</p>
 </div>
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 It’s almost time for the bonding event… I’m so nervous…!
 {% endbubble %}
 
@@ -336,7 +336,7 @@ chiaki, you always conceptualize everything in [hero] terms, don’t you?
 but thinking about things in terms of your own [specialty] might make them easier to learn about.
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 Mm~ I dunno, it feels a bit off to me… I’m not really fond of comparing it to something else, ‘cause there’s a chance you’ll overlook an important aspect of mascot characters.
 {% endbubble %}
 
@@ -432,7 +432,7 @@ To be honest, I’m still not sure what we’re aiming for as Yuruseitai~…
 But I do sorta get what you mean ‘bout Shinkai-senpai and Shinobu-kun seemin’ mascot-like.
 {% endbubble %}
 
-{% bubble Midori smile7 %}
+{% bubble Midori smileexplain %}
 …Well, you can leave that part up to me. I’m not sure if my plan will work, but I <em>have</em> thought up a practice session to get ourselves to look more soft and fluffy.
 
 It’s hard to describe what it means to be soft in one word, but…
@@ -492,7 +492,7 @@ i will also be sure to do the best i can.
 Very well, we simply have to read the script on the program, correct?
 {% endbubble %}
 
-{% bubble Midori smile7 %}
+{% bubble Midori smileexplain %}
 Yeah. For now, let’s all try and act as mascot characters.
 
 Our first lesson is to get a feel of what a “soft atmosphere” is like through acting.

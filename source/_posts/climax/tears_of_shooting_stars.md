@@ -712,7 +712,7 @@ I can’t do it! To me, something like Repayment Festival is just—…
 There’s no way I could ever repay all that kindness in one day — in one “thank you” as we part ways!
 {% endbubble %}
 
-{% bubble Midori cry2 %}
+{% bubble Midori sob %}
 It’d be impossible even if I devoted my whole life to it! It’s just not possible for me, Tetora-kun!
 
 It’s just as you said… I should’ve gotten up and left much earlier…

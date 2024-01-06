@@ -138,7 +138,7 @@ I actually got a request from a bridal company, and accepted the job offer along
 That’s it! ☆
 {% endbubble %}
 
-{% bubble Midori sigh5 %}
+{% bubble Midori sighfrown %}
 <em>Wow</em>, it really wasn’t a big deal at all…
 {% endbubble %}
 

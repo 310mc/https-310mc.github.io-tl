@@ -296,7 +296,7 @@ Yeah. In fact, it’s really surprising that even Takamine stuck around in this 
 He’s been a man with an element of surprise this time around.
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 If you’re actually surprised, then that just means you never <em>once</em> understood me.
 
 Besides, we all decided that we’d stay here together. I don’t wanna be the only one who’s left out.
@@ -733,7 +733,7 @@ I don’t have to preach about justice or morality or whatever else I don’t ev
 Y-You disliked playing the hero of justice that much!? You could’ve told me so!
 {% endbubble %}
 
-{% bubble Midori sigh2 %}
+{% bubble Midori frown2 %}
 Did it <em>look</em> like we could ever mention that?
 {% endbubble %}
 
