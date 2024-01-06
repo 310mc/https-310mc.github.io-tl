@@ -1114,13 +1114,13 @@ Ah, okay. I got it, it’s fine… Sorry for hoping for something from you.
 ……
 {% endbubble %}
 
-{% bubble Subaru angry %}
+{% bubble Subaru angry0 %}
 Ahh, jeez… That ruined my mood.
 
 Sorry, I’ll just go home for today. I just remembered I didn’t feed Daikichi, so I’m sure he’s whining for me.
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_4.jpg %}
-{% bubble Subaru angry %}
+{% bubble Subaru angry0 %}
 I did something bad, I guess… But oh well, no matter what kinda bad thing I do, a hero won’t come and punish me for it, right?
 
 I know that already. Of *course* I was aware of that.
@@ -1132,7 +1132,7 @@ But it’s not like I wanted to be reminded about that fact.
 …………
 {% endbubble %}
 
-{% bubble Subaru angry %}
+{% bubble Subaru angry0 %}
 *Sigh*… In the end, you’re no different from everyone else, huh…
 
 You’re all talk but nothing else… Saying that you’re doing it for love, for dreams, for justice… But once the time comes, you just look the other way instead of seeing all the foul, terrifying stuff out there in the world.
@@ -1150,7 +1150,7 @@ I-I’m sor— It isn’t like th— No. It's as you say.
 I’m so sorry, Akehoshi.
 {% endbubble %}
 
-{% bubble Subaru angry %}
+{% bubble Subaru angry0 %}
 Nah, you don’t have to apologize.
 
 But I'm super annoyed, so let me just say this.

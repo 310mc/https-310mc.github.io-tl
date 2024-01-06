@@ -360,7 +360,7 @@ I ain’t good at usin’ my head, y’see… All I ever do up ‘til now is sol
 …………
 {% endbubble %}
 
-{% bubble Kuro pastinjuredsmile %}
+{% bubble Kuro pastinjurednorsmile %}
 …That’s the whole story, I guess. Sorry for makin’ ya listen ta all that boring stuff.
 
 I’m good from here, Morisawa. I got enough energy back ta walk on my own now.
@@ -625,7 +625,7 @@ and the same goes for the second year named “rei”… hm?
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch12_1.jpg %}
 
-{% bubble Kuro pastinjuredsmile %}
+{% bubble Kuro pastinjurednorsmile %}
 Yo, Morisawa.
 {% endbubble %}
 
@@ -645,7 +645,7 @@ But the important bit is that I was able to pick her up. Thanks, I owe ya one.
 Oh, no… I’m more than happy to know that the little I’ve done could still help you out.
 {% endbubble %}
 
-{% bubble Kuro pastinjuredsmile %}
+{% bubble Kuro pastinjurednorsmile %}
 Hmm? Don’t go and make it more complicated than ya need to. You’re supposed to just say “you’re welcome” when someone thanks you, y’know♪
 
 Well, whatever. I said what I wanted to say, so I’m goin’.

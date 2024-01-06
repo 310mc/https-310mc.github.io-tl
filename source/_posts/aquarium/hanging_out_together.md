@@ -267,7 +267,7 @@ Kanata-kun.
 yes, what is it, kaoru?
 {% endbubble %}
 
-{% bubble Kaoru angry %}
+{% bubble Kaoru glare %}
 Quit talking about weird things without a care in the world\~! You should apologize for making us all worried first\~!!
 {% endbubble %}
 
@@ -297,7 +297,7 @@ Seriously, we were all worried for you.
 Morisawa-kun, Souma-kun, Anzu-chan… and me too, of course. I sacrificed a precious holiday for you.
 {% endbubble %}
 
-{% bubble Kaoru smile %}
+{% bubble Kaoru nod2 %}
 It’s not my style to be nice and considerate whenever and wherever, y'know?
 
 So if you don’t feel even a little bad for making us all worry, then I may just get real angry.
@@ -355,7 +355,7 @@ I’m still trying to keep a sexy and wise big brother image, okay, Kanata-kun?
 kaoru… are you *really* [sexy]?
 {% endbubble %}
 
-{% bubble Kaoru hmph %}
+{% bubble Kaoru hmphright %}
 Shut up! Jeez! You’re so annoying!
 
 I shouldn’t have tried! I should’ve just had a nice date with a girl! I wasted my holiday for nothing!

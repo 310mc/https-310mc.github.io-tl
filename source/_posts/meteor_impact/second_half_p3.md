@@ -203,7 +203,7 @@ Bucho~! Sorry, I know you’re in a rush, but please answer this one question! I
 Yep! Exactly! You understood it well, Akehoshi! Well done!
 {% endbubble %}
 
-{% bubble Subaru pasthappy %}
+{% bubble Subaru happy %}
 Of *course* I would! I’ve spent time in the same Basketball Club as you!
 
 But, uh, anyway… Will you be able to win…? Can you really save him?
@@ -213,7 +213,7 @@ But, uh, anyway… Will you be able to win…? Can you really save him?
 I don’t know! Honestly, I have no confidence in how I’ll manage it!
 {% endbubble %}
 
-{% bubble Subaru pasthappy %}
+{% bubble Subaru happy %}
 What!? Then why? Because you’re a hero?
 {% endbubble %}
 
@@ -227,7 +227,7 @@ But that still doesn’t mean I should give up! I just need to put all my effort
 Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my breath, so I’d be glad if you could keep the talk short, okay!?
 {% endbubble %}
 
-{% bubble Subaru pasthappy %}
+{% bubble Subaru happy %}
 <th>(…Oh, that’s what it was. I don’t really follow, but I understand it.)</th>
 
 <th>(It was alright for me to believe in you. It was alright for me to never give up or lose hope in you… *You’re* the one who taught me that—)</th>
@@ -237,7 +237,7 @@ Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my b
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch27_3.jpg %}
 
-{% bubble Subaru pasthappy %}
+{% bubble Subaru happy %}
 Bucho~! You asked me to cheer you on, right? Then I will! I’ll always do whatever I’m needed for!
 
 Because I’m an idol! Because you let me stay as one!

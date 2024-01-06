@@ -204,7 +204,7 @@ if that is the case, then i do not want to give him something so [heavy] to bear
 and if he already knows but is [pretending] not to, then i prefer to [respect] that [gentle lie].
 {% endbubble %}
 
-{% bubble Kaoru smile3 %}
+{% bubble Kaoru smile %}
 Huh, I see… You cherish Moricchi a <em>lot</em>, don’t you? ♪
 {% endbubble %}
 
@@ -276,7 +276,7 @@ Elk.
 k-…ki~…kill…?
 {% endbubble %}
 
-{% bubble Kaoru angry %}
+{% bubble Kaoru glare %}
 Kanata-kun, your word choices are messed up. All you’ve been saying is despair, madness, kill… What are you, a villain?
 {% endbubble %}
 

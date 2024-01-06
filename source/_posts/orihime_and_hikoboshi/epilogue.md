@@ -427,7 +427,7 @@ See, when I was a first year… before I even met Trickstar, I was always by mys
 I couldn’t get close to anyone, so I just copied stuff from videos of my dad’s performances.
 {% endbubble %}
 
-{% bubble Subaru sad3 %}
+{% bubble Subaru sad_4 %}
 But… involving yourself with actual people and practicing with them is a million times more fun, and you can learn things faster, right?
 
 I’m so jealous of you, Takamin. Everything I wanted in the past… You have it all with you.

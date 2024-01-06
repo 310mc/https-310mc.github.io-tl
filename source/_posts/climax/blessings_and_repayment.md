@@ -96,7 +96,7 @@ i’ll pick them up, i will~…♪
 Hm? Huh, I only called Chiaki over… I wasn’t expecting you to show up as well, Shinkai-kun. What a wonderful surprise.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Fufu, I often spot you in the fountain, so it feels out of place to see you casually walking around the school. ♪
 {% endbubble %}
 
@@ -114,7 +114,7 @@ Not at all, you’re more than welcome to join. …Come over here, both of you. 
 They may be out of order, but I avoided looking at the contents because there might’ve been some classified information!
 {% endbubble %}
 
-{% bubble Eichi grin %}
+{% bubble Eichi nod %}
 You’re an honest one, aren’t you? I wouldn’t have confidential documents around when I’m inviting someone over, you know.
 
 Anyway, come on now. Isn’t it a hero’s duty to rush over to wherever he’s called? ♪
@@ -144,7 +144,7 @@ I mean, look at *mine* — It says that I’ve got a long life ahead of me. Palm
 Ahaha, I’m sure it means you really will live for a long time. …Alright, here’s my hand.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Mhm, here you go. It’s my White Day gift to you. ♪
 {% endbubble %}
 
@@ -166,7 +166,7 @@ That’s why he secretly made me hold it in my hand.
 It turned out to be quite an amusing story in the end — The ever perceptive Yuzuru noticed his act and teased him for it, and the chocolate had melted in the heat of his palm.
 {% endbubble %}
 
-{% bubble Eichi smile2 %}
+{% bubble Eichi snicker %}
 Fufu. But it was so adorable that I couldn’t help but try to imitate it. ♪
 {% endbubble %}
 
@@ -174,7 +174,7 @@ Fufu. But it was so adorable that I couldn’t help but try to imitate it. ♪
 Mm. I’ll be frank with you; when you do it, it feels really suggestive and disturbing. It’s just scary.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Is that so? Come now, Shinkai-kun, I’ll also give you a cookie. ♪
 {% endbubble %}
 
@@ -182,7 +182,7 @@ Is that so? Come now, Shinkai-kun, I’ll also give you a cookie. ♪
 mm~ there is no [reason] for me to take it, is there?
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi grin %}
 Since you didn’t give me any chocolate, right?
 
 Still, it’s fine, isn’t it? I may as well give you a gift since you’re here.
@@ -212,7 +212,7 @@ fufu, thanks to mr. [emperor], i was able to have an enjoyable [high school] lif
 so this is to express my [gratitude]. thank you very much~♪
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi grin %}
 Oh, is that so? Knowing you were able to enjoy yourself means that all my hard work has paid off. ♪
 {% endbubble %}
 
@@ -220,7 +220,7 @@ Oh, is that so? Knowing you were able to enjoy yourself means that all my hard w
 ufufu~…♪
 {% endbubble %}
 
-{% bubble Eichi grin %}
+{% bubble Eichi nod %}
 Fufufu…♪
 {% endbubble %}
 
@@ -244,7 +244,7 @@ I still haven’t received an application for participation from you, and from t
 I grew a little concerned, hence why I called you over to confirm your status.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Ryuseitai has grown a remarkable amount over the past year, and has made its return as a powerhouse.
 
 It will affect the number of visitors if you choose not to participate, so I’d like to at least know if you plan to or not.
@@ -374,7 +374,7 @@ fufufu, you say all that even though you want to rush to their aid as soon as po
 but [nature] is a harsh world, yes? you will simply [starve] to [death] if you cannot catch [food] on your own.
 {% endbubble %}
 
-{% bubble Eichi smile2 %}
+{% bubble Eichi snicker %}
 I agree with you there. It’s quite vexing, isn’t it? I feel like I’m watching a baby stand up for the first time.
 
 Repayment Festival is such a cruel DreamFes…♪
@@ -384,7 +384,7 @@ Repayment Festival is such a cruel DreamFes…♪
 Erm, is <em>fine</em> going to be alright…? Although, the showdown we had the other day gave me the impression that things are going okay on your side.[^1]
 {% endbubble %}
 
-{% bubble Eichi grin2 %}
+{% bubble Eichi grin %}
 Yes, I appreciate your help on that one. There are no real problems on our side, I suppose. Our strength will be more than halved when Wataru and I leave, but…
 
 Tori is growing up beautifully and powerfully.
@@ -414,7 +414,7 @@ i have had a [connection] with that [temple] from long back, after all~…
 [god] and [buddha] have always had a bad relationship since a looong time ago.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Ahh, so that’s why you’re so harsh with Keito…
 
 Regardless, I don’t think he knows where Kanzaki-kun is either. He caused a huge fuss this morning because he couldn’t get in touch with him.

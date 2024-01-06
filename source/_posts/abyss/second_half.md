@@ -1294,7 +1294,7 @@ Like that “cremation urn,” yeah?
 …………
 {% endbubble %}
 
-{% bubble Kaoru smile2 %}
+{% bubble Kaoru smilesoft2 %}
 Heheh, I’m glad for you, Kanata-kun.
 
 I’m happy to know that your mother didn’t pass away in the end.

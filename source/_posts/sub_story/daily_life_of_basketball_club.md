@@ -166,7 +166,7 @@ Who’re you calling a pervert, Akehoshi!?
 But I forgive you! If you want to know why, it’s because I love you…☆
 {% endbubble %}
 
-{% bubble Subaru hmph %}
+{% bubble Subaru hmphright %}
 I *don’t* love you, so could you not get near me please~? Shoo, shoo!
 {% endbubble %}
 

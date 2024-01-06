@@ -79,7 +79,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 
 {% img /img/es/eventstory/climax/epilogue1_1.jpg %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Anzu-chan, the moon is pretty tonight, isn’t it?
 
 Fufu, looks like it’ll be a while until the sun is up.
@@ -105,7 +105,7 @@ It did seem like a lot of hard work for you once again… You ran around doing a
 But that’s exactly why you should wake up after we’ve reached the auditorium for the second half of the festival.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Your beloved idols are all waiting to give you the gifts reserved just for you.
 
 If you sleep through that and miss it, they might be disappointed.
@@ -131,7 +131,7 @@ Hm? Hello there, Subaru-kun. What a coincidence that we meet here.
 Ah! Heya, Eichi-senpai! Good evening~☆ <em><th>(waves)</th></em>
 {% endbubble %}
 
-{% bubble Eichi angry %}
+{% bubble Eichi glare %}
 Shhh… You really don't pay attention to your surroundings, do you? Anzu-chan is sleeping, so could you stay quiet?
 {% endbubble %}
 
@@ -189,7 +189,7 @@ Hm? What is it, Subaru-kun?
 Did you have fun in the three years you were here?
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Of course. All the days I spent here were shining and glittering more than a jewel ever could.
 
 I'm sure the rest of you students will also get to enjoy a bright, youthful life, just as I did — perhaps even more than I ever did.
@@ -235,7 +235,7 @@ That’ll be our repayment to him, and today will mark the memory of that first 
 I’m pretty hyped, Eichi-senpai.
 {% endbubble %}
 
-{% bubble Eichi smile %}
+{% bubble Eichi smilesoft2 %}
 Me too, Subaru-kun. Ahh, doesn’t it make you so glad to be born?
 {% endbubble %}
 

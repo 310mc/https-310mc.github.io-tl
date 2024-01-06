@@ -343,7 +343,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 “Ahaha, why does this sound like the start of a new folktale?”
 {% endbubble %}
 
-{% bubble Rtetora norsmile %}
+{% bubble Rtetora norsmile2 %}
 “Yeah, it’s the monster returning the kind favor.”
 {% endbubble %}
 

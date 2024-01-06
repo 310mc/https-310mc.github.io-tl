@@ -596,7 +596,7 @@ I really do wanna do better this time, and I’ll never let this happen ever aga
 Please, *please* forgive us.
 {% endbubble %}
 
-{% bubble Subaru angry %}
+{% bubble Subaru angry0 %}
 …Um, bowing your head down won't change anything.
 
 Ryuseitai, you should just go home for today.
@@ -1028,13 +1028,13 @@ Oh? Is something wrong, Subaru sir?
 Why’re you suddenly speaking politely… No, it's just as you said. I agree with you.
 {% endbubble %}
 
-{% bubble Subaru sad3 %}
+{% bubble Subaru sad_4 %}
 Sorry. I was reminded of what happened in the past, and got angry.
 
 That rarely happens for me, so I didn't know how to control myself…
 {% endbubble %}
 
-{% bubble Subaru sad4 %}
+{% bubble Subaru sad3 %}
 I'm sorry for snapping at you, Ryuseitai.
 
 How we dealt with them after that was wrong, too, wasn’t it…?

@@ -353,7 +353,7 @@ I would never want you to turn out that way.
 It *could* be nice for someone to live a short but fulfilling life, and it *could* satisfy them in the end… But everyone they leave behind wouldn’t be able to handle it. So take care of your health, and live as long as you can.
 {% endbubble %}
 
-{% bubble Kaoru sad %}
+{% bubble Kaoru sad4 %}
 It’s easy to forget this when we’re all living in this peaceful country, but… People really *do* die, y'know?
 
 Don’t die on us… Okay? You’re very important to everyone, Anzu-chan.
@@ -387,7 +387,7 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! You look ad
 <th>(But y'know, I really do want good-natured people to always be smiling.)</th>
 {% endbubble %}
 
-{% bubble Kaoru smile2 %}
+{% bubble Kaoru smilesoft2 %}
 <th>(…Mom, I'll be a good kid too, so could I also smile and laugh more?)</th>
 {% endbubble %}
 

@@ -380,7 +380,7 @@ Slaaam! ☆
 Owaah!? Heeey, you shouldn’t crash into people from behind, Mitsuru-san! You might hurt someone, okaaay?
 {% endbubble %}
 
-{% bubble Mitsuru angry %}
+{% bubble Mitsuru scold %}
 Hmph~! I’m annoyed that I couldn’t keep up with you one bit! You weren’t even taking it seriously!
 
 So I’m gonna vent all my frustrations! Wham, slaaam~!! ☆

@@ -947,7 +947,7 @@ Honestly, there’s nothin’ ta get from involvin’ yourself with a punk like 
 …No, a man never goes back on his word.
 {% endbubble %}
 
-{% bubble Kuro pastinjuredsmile %}
+{% bubble Kuro pastinjurednorsmile %}
 Haha, you were “a man”? You’ve got such a cute, boyish face[^9], I couldn’t tell.
 {% endbubble %}
 

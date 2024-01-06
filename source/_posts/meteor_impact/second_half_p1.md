@@ -877,7 +877,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
     <p>Next day, after classes…</p>
 </div>
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 —And that’s all I’ve got to report. What’s your next move, Bocchan?
 {% endbubble %}
 
@@ -887,7 +887,7 @@ First, stop calling me that. You switched to a different name for a while, but n
 How incorrigible. I suppose that’s meant to be a nickname, but I just feel like you’re making a fool of me instead. I don’t particularly like it.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Haha, then what should I call ya? Vice-prez? Kei-chan?
 {% endbubble %}
 
@@ -897,7 +897,7 @@ Call me whatever you like. I’m already asking a huge favor from you for this p
 Do be aware that I’m not trying to control you, but rather trying to let you make use of the Student Council as you please.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Hmmm. And what can this newborn, shabby-lookin’ Student Council even do for me, eh?
 {% endbubble %}
 
@@ -909,7 +909,7 @@ And it’s unlikely that you will misuse what is labeled as “justice,” corre
 Or rather, I’m trying to take advantage of your good, sensible mind, and restrain your movement *because* I know you won’t misuse it.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Haha. You sure you wanna tell me all about your ulterior motives?
 {% endbubble %}
 
@@ -945,7 +945,7 @@ Yes, I have been here from the start. I believe that Kiryu-dono was aware of my 
 However, you both appeared to be speaking very earnestly about something, so I did not wish to intrude, and refrained from expressing my thoughts.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Haha, I was wonderin’ why you were ignorin’ him… So you didn’t even realize he was there, *Hasumi*?
 {% endbubble %}
 
@@ -967,7 +967,7 @@ Ahh, are you also curious about it? It didn’t seem to be a mere superstition�
 Thus, I asked Kiryu to investigate what’s been happening, as he has connections with the delinquents in this academy.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Ah, yeah. Sometimes I ask for some stuff from shady jobs, though those jobs have also become a part-time thing within school.
 
 So yeah, I’d have more connections with those shady guys than you, the goodie-two-shoes honor student.
@@ -981,7 +981,7 @@ My history with them might end up being a weak point to target for the Student C
 No, it’s alright. That would be far too unnecessary.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Haha, alright, but if that ever happens, you can throw away the punks, includin’ me.
 {% endbubble %}
 
@@ -993,7 +993,7 @@ I’m not so happy-go-lucky that I would dream of an ideal paradise where all ev
 I—*We* need you. I’ve lived all my life in an upstanding manner, and that’s exactly why I need someone like you, who can reach those places I’m not well-acquainted with, and can’t reach on my own.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 That so? Well, being needed doesn’t feel so bad. I appreciate it, makes me wanna cry a li’l bit.
 {% endbubble %}
 
@@ -1009,7 +1009,7 @@ Don’t think about it too much, it’s only small talk. That aside—You’re i
 Mm, a “worshipper”? Is this “Yaobikuni” related to a religion of some sort?
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Seems like it. It ain’t an officially recognized group in school or anythin’; it sounds like it’s some kinda network that somehow just came to be.
 {% endbubble %}
 
@@ -1056,7 +1056,7 @@ I don’t particularly like how it feels like the academy is being slowly taken 
 …Cursed cult. They’re so infuriating — Our modern society doesn’t need any religions.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Haha, you’re one to talk, Mr. “I’m the son of a temple”.
 {% endbubble %}
 
@@ -1068,7 +1068,7 @@ But, at worst, this may become a large obstruction in our path. After all, the o
 …Maybe I *should* nip the bud before it sprouts a disaster…
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 How, though? We’ve got no real authority to do that — You gonna try and change the rules to ban believin’ in religious faith in school?
 {% endbubble %}
 
@@ -1080,7 +1080,7 @@ Everyone would simply ignore them, and it would be all over for us.
 There is no point trying to provoke the worshippers without planning beforehand.
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and get this done and over with?
 
 …Nah, we can’t, can we… Nothin’s that simple.
@@ -1148,7 +1148,7 @@ Would you please entrust this “Yaobikuni” matter to me? I, Kanzaki Souma, sh
 …Entrust it to you?
 {% endbubble %}
 
-{% bubble Kuro pastsmile %}
+{% bubble Kuro pastnorsmile %}
 Oh? Got an idea or somethin’, Kanzaki?
 
 I don’t feel like there’s much anyone could do about this vague problem of ours, but — did you get a breakthrough to solvin’ it or somethin’?
