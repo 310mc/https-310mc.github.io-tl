@@ -142,7 +142,7 @@ Wait, huh? Umm, you two are in Ra*bits, right? Is it just the two of you here?
 Y-Yes. Umm, are you looking for Takamine? He was here a moment ago, but left because he had something to do.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mmm, so I missed him by a second. Alright, thank you for the information!
 
 Takamine~! I’m going to make sure I find you no matter where you go! Fuhaaahahaha!! ☆
@@ -278,7 +278,7 @@ I get annoyed from all his blabbering… so there was once a time when I tried s
 That moment felt so exhilarating that… I *might* have found basketball fun to play…?[^1]
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I see, I see! You really *were* having fun with us, then!
 {% endbubble %}
 
@@ -286,7 +286,7 @@ I see, I see! You really *were* having fun with us, then!
 Eep— M-Morisawa-senpai? W-Why’re you here…!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 A hero will always come rushing to the person who calls for him! ☆
 
 …That was only a joke — I just couldn’t find you no matter where I looked, so I tried going back to places I’ve checked before.

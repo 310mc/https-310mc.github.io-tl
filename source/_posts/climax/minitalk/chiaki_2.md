@@ -52,7 +52,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Climax. F
 
 {% img /img/es/eventstory/climax/minitalk_chiaki2_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I’m being asked to take jobs after graduation by the people I work with in the industry.
 
 Thanks to their help, I won’t have so much trouble with work for awhile.
@@ -144,7 +144,7 @@ It actually makes me look pathetic instead, doesn’t it…?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               R-Really…?
 
               I prefer to avoid showing my shameful side to the kids, but for some reason, it’s relieving hearing that from you…♪
@@ -200,7 +200,8 @@ It actually makes me look pathetic instead, doesn’t it…?
 {% bubble Chiaki srsthinking %}
 I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.
 {% endbubble %}
-{% bubble Chiaki smug2 %}
+
+{% bubble Chiaki niya %}
 But they aren’t kids anymore. I’m sure they’ll be able to take care of Ryuseitai.
 
 And Kanata and I will be able to graduate without any worries…☆
@@ -217,7 +218,7 @@ And Kanata and I will be able to graduate without any worries…☆
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               Yeah! There’s no need to worry about those three anymore! ☆
 
               Graduating and leaving your beloved kids behind really feels lonely, though…
@@ -226,7 +227,7 @@ And Kanata and I will be able to graduate without any worries…☆
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               I’m sure those three will continue to shape Ryuseitai in their own way.
 
               Kanata and I both believe in that!

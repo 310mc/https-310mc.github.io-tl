@@ -215,7 +215,7 @@ Same here! I was a li’l worried I’d stand out in a bad way.
 But since Morisawa-kun’s here, I feel relieved! It’s much more reassuring with the two of us together!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah! Let’s motivate each other, and work hard to improve ourselves…☆
 {% endbubble %}
 
@@ -263,7 +263,7 @@ Eh? Nah, it’s my own fault for not double-checking things.
 No, I won’t be able to rest with just that.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I could gain new insight by teaching you. So please let me help you!
 {% endbubble %}
 
@@ -277,7 +277,7 @@ I could gain new insight by teaching you. So please let me help you!
 Didja see that, Morisawa-kun!? I did it exactly how you taught me!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You’re incredible, Shiina! You’re definitely improving at an impressive rate!
 {% endbubble %}
 
@@ -289,7 +289,7 @@ Nahaha! It’s all thanks to you, Morisawa-kun. Thanks a lot for being patient a
 Actually… You basically helped me out ‘til it’s time to leave the dance room, even though there’s no reward for doing so… I’m real sorry for taking up your time.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t sweat it. A hero always helps someone in need, without hesitation. Deserting you when you’re in trouble would go entirely against my form of justice.
 
 Besides, I <em>did</em> get rewarded for this. I got to support you in your growth and improvement. That sense of accomplishment is a joy nothing can replace…☆
@@ -309,7 +309,7 @@ Heh-heh-heh… I’ve got a meal voucher with me here! As thanks for coaching me
 A meal after a long session of dancing is the most amazing feeling *ever!* And you gotta have fun with life. That’s my form of justice…☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I see. It’s just like you to have that mindset, Shiina.
 
 Alright then! Let’s enjoy a meal together tonight, in celebration of your growth!

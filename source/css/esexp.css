@@ -184,11 +184,14 @@
 [character="Chiaki"][angry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_angry.png");
 }
-[character="Chiaki"][angry2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_angry2.png");
+[character="Chiaki"][angrycloseup] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_angrycloseup.png");
 }
 [character="Chiaki"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_awkward.png");
+}
+[character="Chiaki"][blushsquint] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_blushsquint.png");
 }
 [character="Chiaki"][blushsurprised] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_blushsurprised.png");
@@ -196,8 +199,8 @@
 [character="Chiaki"][cry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_cry.png");
 }
-[character="Chiaki"][cry2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_cry2.png");
+[character="Chiaki"][cryalmost] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_cryalmost.png");
 }
 [character="Chiaki"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_curious.png");
@@ -218,16 +221,22 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_glare.png");
 }
 [character="Chiaki"][grin] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin4.png");
 }
 [character="Chiaki"][grin2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_grin3.png");
 }
 [character="Chiaki"][horrified] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_horrified.png");
 }
 [character="Chiaki"][idle] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_neutral.png");
+}
+[character="Chiaki"][niya] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_niya.png");
+}
+[character="Chiaki"][niyaclosed] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_niyaclosed.png");
 }
 [character="Chiaki"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_nod.png");
@@ -247,6 +256,9 @@
 [character="Chiaki"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad2.png");
 }
+[character="Chiaki"][sad3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad3.png");
+}
 [character="Chiaki"][sad4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sad4.png");
 }
@@ -257,16 +269,16 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_serious.png");
 }
 [character="Chiaki"][shocked] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_surprised2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_shocked.png");
 }
 [character="Chiaki"][sigh] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh.png");
-}
-[character="Chiaki"][sigh3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh3.png");
 }
-[character="Chiaki"][sigh4] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sigh4.png");
+[character="Chiaki"][sighdrop] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sighdrop.png");
+}
+[character="Chiaki"][sightired] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sightired.png");
 }
 [character="Chiaki"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile.png");
@@ -279,12 +291,6 @@
 }
 [character="Chiaki"][smilesoft2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smilesoft2.png");
-}
-[character="Chiaki"][smug2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smug2.png");
-}
-[character="Chiaki"][smug3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smug3.png");
 }
 [character="Chiaki"][snicker] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_snicker.png");

@@ -378,7 +378,7 @@ Like, seriously… so *what* if you’re scared of ghosts…
 If you just told us about it faster, we could’ve avoided being worried over nothing… We would’ve just thought, *“Wait, that’s it?”*, laughed it off, and called it a day…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh! So you were worried about me, Takamine! That makes me happy!
 
 I was a little nervous that you might not care about me, since you always act so harshly towards me, but in the end, you really *do* love me as a comrade! ☆
@@ -410,7 +410,7 @@ But personally, I’m real glad I got to know what you’re bad at, and where yo
 It feels like an honor to know I got to meet Morisawa Chiaki-senpai himself in the flesh, instead of the ideal hero that he came up with.
 {% endbubble %}
 
-{% bubble Chiaki sigh4 %}
+{% bubble Chiaki sighdrop %}
 Uuu… I wanted to look as cool as possible, though…
 
 I just can’t handle eggplants and monsters, no matter what I do… My trauma from when I was a kid still lingers…
@@ -552,7 +552,7 @@ Yep! It’s just a regular costume for this event, but! Whenever we shout *“Tr
 No matter how idealistic or glorified it sounds, we become capable of shouting all our ideals without shame!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That’s why I love heroes! You become able to say things you wouldn’t normally be able to say! Things you’d be too scared to say!
 
 You become able to uphold your feelings, your ideals, your dreams — and everything that you believe to be righteous!
@@ -568,7 +568,7 @@ Why’re you talking like you’re so wise… You’re looking really pathetic r
 Please get things done heroically, alright? At least before the live show ends…
 {% endbubble %}
 
-{% bubble Chiaki smug2 %}
+{% bubble Chiaki niya %}
 Alright! Leave it to me! Justice will prevail…!!
 {% endbubble %}
 
@@ -596,7 +596,7 @@ Ehehe… I love to be hospitable. Also, they told us we could get more funds if 
 I went all-out so that we could keep working a whole lot as part of Ra*bits…♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh, great job, great job! ♪ We were able to use as little of our funds as possible because of all the preparation work we’ve done, but it’d be very tough to do this for each event.
 
 We’d wear out fast if we had to keep working hard on preparation work *and* practice.
@@ -628,7 +628,7 @@ You don’t even need to tell me that, Nii\~chan! ♪ Yippee\~! I’m gonna jump
 Don’t frolic around *too* much, Mitsuru… There’s gonna be a lot of us on a pretty narrow stage, so we gotta be careful not to collide into each other.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright! Let’s start our own warm-ups, Ryuseitai! Our live show begins soon, so don’t starting losing your concentration!
 {% endbubble %}
 
@@ -638,7 +638,7 @@ Understood\~♪ Ahhh, it feels like a lot will happen tonight\~!
 
 ## Chapter 4
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “Hello, everyone\~! Trick or Treat\~♪”
 {% endbubble %}
 
@@ -740,7 +740,7 @@ But a beloved stuffed toy coming back to play with you for at least a single nig
 *My sincerest apologies!* I’m sorry for arriving so late…!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh, Mikejima-san! You’ve finally shown yourself! You were taking a while, so I was starting to worry about you.
 
 But you really are incredible; a hero really is all about arriving in the nick of time~♪
@@ -790,7 +790,7 @@ So I’m told! But even though I’m like this, I could also get along with ever
 I can’t hold back my joyyy! I’m so happy, I could soar to the ends of the universe~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 We can’t have you do that now! Let’s all enjoy this together to the very end, Mikejima-san~♪
 {% endbubble %}
 

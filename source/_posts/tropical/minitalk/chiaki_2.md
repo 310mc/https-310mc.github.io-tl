@@ -173,7 +173,7 @@ It's time to let aside being cool and fiery, and instead perform in a fun, cheer
           I'm looking forward to it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin %}
+            {% bubble Chiaki grin2 %}
             Yeah, I'm also excited for you to witness Ryuseitai under Takamine's lead!
 
             I'm sure you have a lot of work as a producer, but still, I hope you can watch over us until the very end! ☆

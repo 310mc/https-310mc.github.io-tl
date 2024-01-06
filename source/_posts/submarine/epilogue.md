@@ -212,7 +212,7 @@ Besides, my order was super simple — I just had to avoid touching *that* thing
 And I’m not an infant or something… I can put up with it during the rounds just fine…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That thing you love? Oh, I get it now! So *that’s* why you kept your distance from me all this time, Takamine!
 {% endbubble %}
 
@@ -232,7 +232,7 @@ Hmm, so… Was Tetora-kun’s order something like, “no violence during the qu
 Oh, you could tell just from what I said? — Wait, no, I almost forgot that I shouldn’t confirm anythin’.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You’re on a roll, Sengoku! You’re a paragon of intelligence! Also known as the Genius Sengoku…☆
 {% endbubble %}
 
@@ -262,7 +262,7 @@ Tetora-kun, you’re a lot more particular about things than one would expect, h
 We’re all pretty sensitive people… The only ones in our unit who’re broad-minded and chill enough to get through anything are Shinobu-kun and Shinkai-senpai… the ratio is two to three…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh, you included me in the “sensitive” category, too!? I'm so glad to know that you understand me, Takamine!
 {% endbubble %}
 

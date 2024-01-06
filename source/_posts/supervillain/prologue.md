@@ -97,7 +97,7 @@ I-I think… Tetora-kun’s punch accidentally hit Morisawa-dono for real…?
 are you alright, chiaki!? are you still [there]!?
 {% endbubble %}
 
-{% bubble Chiaki sigh %}
+{% bubble Chiaki sightired %}
 Ahh… Uunh… That really took me out…
 
 Erm, sorry Kanata, but please don’t shake me… I feel like I’ll lose consciousness for real if you continue.
@@ -109,7 +109,7 @@ I swear I’m alright.
 but—
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! Nagumo, you little clutz…☆
 {% endbubble %}
 
@@ -117,7 +117,7 @@ Fuhaha! Nagumo, you little clutz…☆
 ………
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You making a mistake in estimating distance is such a rare sight, since you’re so good at karate!
 
 No, actually, I should’ve realized that it would hit me and dodged in time!

@@ -420,7 +420,7 @@ It’s embarrassing being seen with you whenever you do that, so could you stop�
 Eep, Midori-kun!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Takamine! You little rascal~ You’re late! ♪
 {% endbubble %}
 
@@ -1143,7 +1143,7 @@ It’s a brand new day, Takamine! Goood mooorning~! ☆
 Oh… So it was just a dream all along…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh no you don’t! You shouldn’t escape reality so quickly, Takamine!
 
 Open your eyes! Look around you! The reality known as “us” has arrived! Fuhahahaha!! ☆
@@ -1175,7 +1175,7 @@ What do you want, seriously… I apologize for neglecting everyone yesterday by 
 I’m begging you, please don’t terrorize my peaceful daily life… Are you two a natural disaster or kaijuu or something?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Why, of *course* we aren’t kaijuu! We’re heroes of justice! We’re trying our hardest to be that!
 {% endbubble %}
 
@@ -1207,7 +1207,7 @@ I can’t even reach a signal, no matter how many times I phone him.
 It’s not ‘cause you were so annoying that he blocked you… right?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Nope! I think it’s only you who’d do something as cruel as that to me, Takamine!
 
 I’ll have you know, it’s a burden on me to always have to relay my messages to other people like Kanata whenever I want to contact you!
@@ -1219,7 +1219,7 @@ I’ll have you know, it’s a burden on me to always have to relay my messages 
 It’s an honor to know that I was able to become special to you, Senpai.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! I’d love it if we could become special in a more positive way! You little rascal~! ♪
 {% endbubble %}
 
@@ -1279,7 +1279,7 @@ Well, yeah, obviously… But what’re you even planning to do? You can’t get 
 You’re not gonna suggest going to Okinawa ourselves to find out, are you…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep, that is *exactly* what we’ll do! Worry not, Takamine! I’ve already contacted our agency, and any staff involved with our jobs!
 
 We can now leave our work aside, and focus on the main issue at hand!

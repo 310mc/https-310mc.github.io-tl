@@ -52,7 +52,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Climax. Fr
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Anzu! What’s up? What are you doing here?
 
 O*ho*, have you come to see the gallant figure of the basketball captain?
@@ -71,7 +71,7 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               Mhm, mhm, I understand completely. You’re embarrassed, aren’t you?
 
               …Woah!? Why’re you hitting me without saying anything!?
@@ -125,7 +125,7 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 
 {% img /img/es/eventstory/climax/minitalk_chiaki1_2.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ooh, Anzu! You're here at just the right time!
 {% endbubble %}
 
@@ -228,7 +228,7 @@ Anzu, what do you want as your white day gift?
 					{% endbubble %}
 			</div>
 			<div data-tab="1a-r" style="display: none">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               Hahaha, you really do love work, don’t you! ☆
 
               But sadly, there’s nothing I’m doing for my unit right now.

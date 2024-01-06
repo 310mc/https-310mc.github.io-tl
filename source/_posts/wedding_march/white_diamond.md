@@ -98,7 +98,7 @@ That’s <em>exactly</em> why it was so painful… I’m awful at coming up with
 *Sigh…* I just wanna go back to the dorms already and heal myself through my mascot plushies…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Heeey, Takamine! There you are! I was looking for you.
 {% endbubble %}
 
@@ -108,7 +108,7 @@ Ugh—
 You’ve got the wrong person, I’m not Takamine Midori…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahaha! ☆ I never once said “Midori,” and you won’t fool me with that trick!
 {% endbubble %}
 
@@ -134,7 +134,7 @@ I actually got a request from a bridal company, and accepted the job offer along
 …And?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That’s it! ☆
 {% endbubble %}
 
@@ -158,7 +158,7 @@ Well, you also did a bridal-related job for your shuffle unit, right? Under the 
 Ring.A.Bell…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah, that’s the one! I was asked to make “an expression a bridegroom would have when gazing at his beloved one” for the PV, but I struggled at first on how to go about it.
 
 When I consulted Anzu for her advice, she suggested that I take reference from the promotional video Ring.A.Bell took separate from their MV, and got me to watch it.
@@ -170,7 +170,7 @@ I kept re-watching how you played your part and analyzed it as much as I could, 
 How am I supposed to respond to that… And why’d Anzu-san have to go and suggest that in the first place…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 She didn’t do anything wrong, though! She only recommended the video; she never once mentioned you.
 
 I had quite a few options to reference from, but my eyes were drawn to you the most — maybe because we’re both from the same unit.
@@ -216,7 +216,7 @@ Oh, do you two know each other?
 No, he’s just an acquaintance from the same Circle… Sometimes we borrow manga from each other and share our thoughts, but that’s about it.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh, really!? You’re on close terms with Sazanami, then! ☆
 {% endbubble %}
 
@@ -232,7 +232,7 @@ That’s what I understood from listening to you. Acquaintances don’t typicall
 Yeah, well, that’s just how it is in the Manga Club.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahaha! ☆ Your dad is happy to know that your friend circle has expanded so much more since the day he met you!
 {% endbubble %}
 
@@ -250,7 +250,7 @@ Oh, it’s Takamine-kun and Morisawa-senpai! Heyaa~♪
 Ah, hello. I hope you’ve been doing well.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Sazanami! What a coincidence — We were just talking about you!
 {% endbubble %}
 
@@ -294,7 +294,7 @@ I see.
 Don’t tell me that video was—
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep, it was Ring.A.Bell’s promotional video! ☆
 {% endbubble %}
 
@@ -470,7 +470,7 @@ Oh? You look quite sour all of a sudden.
 Ah, well, the preface took real long, so I’m getting a bad feeling about this…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t worry, Sazanami! It’s the usual for Tenshouin to talk for hours! ☆
 {% endbubble %}
 
@@ -554,7 +554,7 @@ Well, sounds like they’re gonna fully back us up on this project, but…
 I don’t have a clue about weddings, so asking for us to make it unique is a pretty tough request~
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But it isn’t impossible! We may be starting from a blank slate, but that’s exactly why we have full reign to paint it with our own colors!
 
 The higher the risk, the more it fires me up! We only get stronger the greater adversaries we face!
@@ -568,7 +568,7 @@ Whoa, you’re super enthusiastic~ I’m no hero, and I’m not the type to get 
 Now that we’ve accepted the job, I’ll make sure to make it a success~
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! Let’s join forces and conquer this hardship together…☆
 {% endbubble %}
 
@@ -694,7 +694,7 @@ So let’s start by finding more people we can rely on!
     <p>Next day, at noon…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 —Found you, Takamine~! ☆
 {% endbubble %}
 
@@ -732,7 +732,7 @@ You guessed it! The truth is—
 Ah, I see… You’d like me to join the project, since I have experience with bridal work…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! We’d have a hundred men’s worth of power on our side if you were with us! You did an outstanding job in Ring.A.Bell, after all! ☆
 {% endbubble %}
 
@@ -748,7 +748,7 @@ Why not!?
 <em>Because</em> I’m a member of Ring.A.Bell. I’m under a contract where I’m not allowed to take any bridal-related jobs for the year.
 {% endbubble %}
 
-{% bubble Chiaki sigh %}
+{% bubble Chiaki sightired %}
 Ahh… I suppose there’s no working around that if that’s the case…
 {% endbubble %}
 
@@ -798,7 +798,7 @@ But… Thank you, Morisawa-senpai.
 I know I can’t collaborate with you officially, but if there’s anything else I could help you with, please let me know. I’ll try my best within my capabilities…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm, you’ve grown so much, Takamine! ☆ I’d love to ask for your help when the time comes!
 {% endbubble %}
 
@@ -834,7 +834,7 @@ I have to get myself together and greet him with a smile! Let’s just forget ab
 Why are you here? Are you traveling somewhere?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Nope, I was actually waiting for your arrival. Welcome back, Itsuki! ☆
 {% endbubble %}
 
@@ -842,7 +842,7 @@ Nope, I was actually waiting for your arrival. Welcome back, Itsuki! ☆
 I don’t believe we’re close like family for me to reply with “I’m home” in this situation, yet you still came to greet me?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You’re the one who messaged me saying you want to see me once you’re back, aren’t you? And what better way to meet you than like this, right?
 {% endbubble %}
 
@@ -904,7 +904,7 @@ Alright then, I can definitely make that a reality!
 Make it a reality…? Since when did *you* become a producer?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Well, you see… <em><th>(explains the details)</th></em>
 {% endbubble %}
 
@@ -1166,7 +1166,7 @@ Ahaha… Well, it was for a company and everything, so I think it worked just fi
 Anyway, I actually researched all the bridal-themed jobs idols have been in before, so that we can avoid doing the same ideas.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Wow, really!? You did all of that without us even asking!? That’s incredible! You’re exactly like a support character from a super sentai show! ☆
 {% endbubble %}
 
@@ -1174,7 +1174,7 @@ Wow, really!? You did all of that without us even asking!? That’s incredible! 
 …Support character?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm, allow me to explain! A support character is a non-combat member who supports the heroes from the back, while they’re off fighting the evil organiza—
 {% endbubble %}
 
@@ -1284,7 +1284,7 @@ Ahaha, sounds like the commercials did their job perfectly, huh? I personally we
 Hm? You’ve never gone on one before?
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Fuhaha! I haven’t either! Our generation wasn’t one where we could enjoy the wonders we can so easily experience now! ☆
 {% endbubble %}
 
@@ -1306,7 +1306,7 @@ I’m sure our fans would enjoy watching us having a fun trip, too.
 But most of all, we won’t end up with the same idea as other rival companies by mashing “bridal” and “field trip” together.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hm, hm! A “bridal field trip,” huh! It doesn’t sound bad at all!
 {% endbubble %}
 
@@ -1322,7 +1322,7 @@ Indeed. It sounds cheap, unrefined, and unpolished.
 T-That’s <em>seriously</em> not what I said, though…!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh, don’t be shy! If you’ve got any complaints, let’s hear them! Camaraderie is all about talking heart-to-heart — So come on, Itsuki, Sazanami!
 {% endbubble %}
 

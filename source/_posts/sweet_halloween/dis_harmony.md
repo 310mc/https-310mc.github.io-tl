@@ -1026,7 +1026,7 @@ Consult your personal feelings about it, and decide what *you* want to do. Don�
 I won’t ever say no to your choice. It’s you who should decide what to do with your life and future.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 So, what do *you* want to do? You’ve been given plenty of choices, so think closely about which route you’ll take!
 {% endbubble %}
 

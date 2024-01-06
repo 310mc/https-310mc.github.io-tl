@@ -562,7 +562,7 @@ Umm… Like this?
 You need to be <em>much</em> slower and more relaxed! You won’t be fit for the role like this, y’know…!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Takamine, watch my performance, too! Look, what do you think of my Plateypus form!?
 
 “I WANNA EAT SOME TASTY FOOD-PLATEY!!!”[^6]

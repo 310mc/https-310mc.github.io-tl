@@ -284,7 +284,7 @@ What are you making that face for? I’m not your parent, and I’ve no interest
 “Haha, looks like we can skip past loosening your nerves, huh? Okay then, it’s time to decide on your pairs.”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 *<th>(raises hand)</th>* Sagami-sensei, sir! We can’t make pairs out of seven people!
 {% endbubble %}
 
@@ -512,7 +512,7 @@ They were hoping they could save the carp after having been abandoned without a 
 …Well? Were you able to find someone to take custody of it?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah. Apparently, there’s a pond in the temple of Hasumi’s home. That’s where they got to keep it safe.
 
 Of course, if they had simply talked to Hasumi about it, they wouldn’t have needed to hold a live show, but… seeing the kids’ hard work rewarded with my own two eyes meant a lot to me.
@@ -766,7 +766,7 @@ I believe we’ll be able to relax and explore in peace, as long as the cameras 
 The autumn leaves are real pretty~
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! They really are pretty!
 {% endbubble %}
 
@@ -774,7 +774,7 @@ Mhm! They really are pretty!
 Umm… Sorry, I’m terrible with words, so the only thing I have to say is how pretty it is…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Me too! It’s fine if we can’t think of anything else to say! The beauty of nature is experienced through the soul, after all! ☆
 {% endbubble %}
 
@@ -1002,7 +1002,7 @@ Mhm, I like the smooth texture! Thank you, I’ll keep it safe with me!
 But I’d be fine with that. It’d have left a real bad taste in my mouth if we left this little kid all on their own.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah! We still have another game segment tomorrow, and one quiz rally won’t be enough to decide the winner.
 
 There’s no need to rush. Let’s just be proud of ourselves for protecting this kid’s smile…☆
@@ -1228,7 +1228,7 @@ Why, you ask…? Strangely enough, I never thought about it when I first heard o
 But now that you mention it, I’m curious to know why, too.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 People need no reason to play games, y’know! It’s simply just because the pillow is right there before them! ☆
 {% endbubble %}
 
@@ -1236,7 +1236,7 @@ People need no reason to play games, y’know! It’s simply just because the pi
 Mm, that doesn’t really feel like a reason…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! ☆ To be honest with you, I don’t have a clue why, either.
 
 But don’t worry about it! There are plenty of things in the world that have no actual reason why they’re the way they are.
@@ -1590,7 +1590,7 @@ Ehh…? Just how badly do you wanna talk about crushes…?
 Well, the real problem is the actual topic itself… I don’t have any experience with that sorta thing, so I don’t really have anything to share.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright then, let’s switch it to a different topic! Let’s talk about the hero we admire the most! ☆
 {% endbubble %}
 
@@ -1608,7 +1608,7 @@ Hm… Assuming it’s fine to interpret that as the “person I admire,” I ver
 Just like those prestigious creators, I, too, wish to create art that will continue to be cherished even after my death.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I know for sure that <em>you</em> can achieve that, Itsuki!
 {% endbubble %}
 
@@ -1708,7 +1708,7 @@ The hero you admire… are the heroes…
 It’s the usual nonsense from him. Morisawa simplifies his expressions far too much.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 It’d take a long time to explain myself, that’s why! There are more than four hundred tokusatsu heroes, y’know! It’s impossible to narrow it down to only one.
 
 Alright, you know what — I’ll tell you all about the history of heroes, as a bedtime story! ☆
@@ -1818,7 +1818,7 @@ I will do my best to make use of that experience in order to achieve victory…�
 “Next… We have Morisawa-kun and Sazanami-kun, who coincidentally ended up being a pair again: ‘True☆Fiery☆Pair’.”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Good moooorniiiing! I’m Morisawa Chiaki!
 {% endbubble %}
 
@@ -1826,7 +1826,7 @@ Good moooorniiiing! I’m Morisawa Chiaki!
 Ooh, you’ve got loadsa energy… Good morning, I’m Sazanami Jun.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 The two of us are completely different people today! For we have been reborn as the “True☆Fiery☆Pair”!
 {% endbubble %}
 
@@ -1966,7 +1966,7 @@ Both Morisawa-senpai and I are in last place, and that means both of us are gonn
 Which basically means a punishment game for us, doesn’t it…? *Sigh,* just the thought of it bums me out…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t worry! I have a strategy I’ve been saving for the end. I’ll do something about all of this, so keep your chin up and smile!
 {% endbubble %}
 
@@ -2094,7 +2094,7 @@ It isn’t scary if we all go together! Fuhahahaha…! ☆
     <p>Next day, the final day of the Kyoto field trip…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 —Yes, thank you very much for your cooperation!
 
 Oh! I see you’ve all arrived. Heeey~!
@@ -2112,7 +2112,7 @@ This is the private property of a film studio in Kyoto. Whenever they film a hug
 Wow, their set-up is super professional, everything looks so real… Did you arrange all of this, Morisawa-senpai?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! I’m extremely knowledgeable about tokusatsu, so I made various suggestions to them beforehand.
 {% endbubble %}
 
@@ -2150,7 +2150,7 @@ Regardless, they will only receive one hundred thousand points <em>if</em> they 
 …………
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Exactly, Itsuki! It entirely depends on one’s skills to win!
 
 Or are you going to tell me that you would have preferred to lose before even trying?
@@ -2166,7 +2166,7 @@ Hmph. If you end up losing after going through all these intricate arrangements,
 You best work as hard as you can.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! I’ll make sure to rescue Sazanami and turn the tables to our favor!
 {% endbubble %}
 
@@ -2174,7 +2174,7 @@ Mhm! I’ll make sure to rescue Sazanami and turn the tables to our favor!
 So I really <em>am</em> gonna be the one to get rescued, huh… Is that what you meant when you said that you’ll do something about this?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah! Take it easy now, for you’ve got nothing to worry about anymore!
 
 OOOOOHH!! I’m bursting with energy! ☆ It’s time for my stretching exercises!
@@ -2366,7 +2366,7 @@ Don’t worry about it… I just figured I’d ask… Mm~…
 
 {% img /img/es/eventstory/weddingmarch/red11_3.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 …Ohh, I see! Thank you, Takamine!
 {% endbubble %}
 
@@ -2376,7 +2376,7 @@ Don’t worry about it… I just figured I’d ask… Mm~…
 “This is completely unexpected, but it isn’t against the rules, so he’s absolutely free to make use of it!”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Sazanami’s favorite food is…
 
 Broccoli!
@@ -2428,7 +2428,7 @@ He’s running so fast that there’s a cloud of dust behind him. I do hope he c
 “Fifty meters to go! …Thirty! …Fifteen!”
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki angrycloseup %}
 OOOOHHH!! Cake Slice of PASSION!!!!
 {% endbubble %}
 
@@ -2568,7 +2568,7 @@ They are perfectly suitable as the winners here…♪
 The True☆Fiery☆Pair, with one hundred thousand and three points. Congratulations. ♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahaha! ☆ Thank you!
 {% endbubble %}
 

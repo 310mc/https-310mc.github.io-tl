@@ -174,7 +174,7 @@ Officer~! This man is a pervert!
 
 {% img /img/es/eventstory/climax/wontcry1_2.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Heh! ♪ It’s still a little chilly, so you’ll start to feel cold if you don’t move around!
 
 That’s why your senior decided to be considerate and share his warmth with you through a hug! Squeeze, squeeze~☆
@@ -188,7 +188,7 @@ I feel like it would’ve been better if we had it in a restaurant, or at least 
 Basketball courts are small anyway, so it’s really crowded and suffocating with this many people around…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What’s that? You’re in pain, Takamine!? Alright then, let me perform the lifesaving technique I learned from Kanata! I’ll give you oxygen through mouth-to-mouth…☆
 {% endbubble %}
 
@@ -200,7 +200,7 @@ Gaahh!? Get your face away from me, you weirdo! I’ll seriously call the police
 You haven’t been drinking or anything, have you, Chi~chan-senpai?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Nope! I’m underage! I think I’m just getting a little too excited!
 
 Ahh, I can’t control myself! I feel like hugging and kissing every single person I see!
@@ -210,7 +210,7 @@ Ahh, I can’t control myself! I feel like hugging and kissing every single pers
 You better cut it out soon, or I’ll tie you up with rope…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh, that sounds like the perfect hero crisis! I’m intrigued! But I’d rather you refrain from doing that for now!
 
 For you see, as a final parting, we’re having a match between the graduates and underclassmen!
@@ -234,7 +234,7 @@ Oh, sure. I’m in!
 Heh… I’m gonna give you a good beating as payback for everything you put me through the past two years… Chi\~chan-senpai\~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ooh, I’m excited to see you try! I won’t be beaten by a fledgling so easily, Akehoshi! ♪
 
 You should join us, Takamine. I’d be happy if you could at least cheer me on.
@@ -340,7 +340,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(I think I touched it a few times during my basketball activities…)</th>
 {% endbubble %}
 
-{% bubble Chiaki cry2 %}
+{% bubble Chiaki cryalmost %}
 …………
 {% endbubble %}
 
@@ -422,7 +422,7 @@ Ah—… Um, no, I just left my bag in the classroom, so…
 <th>(You’re *always* like this.)</th>
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What’s the matter? You don’t seem well! Are you sleepy? Sorry for keeping you up late for the farewell party!
 
 Ah, I remember now! Weren’t you always too scared to walk alone at night? Alrighty then, let me take you back home!
@@ -440,7 +440,7 @@ Morisawa-senpai.
 ……Is everything alright?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hm? Is what alright? I don’t know what you’re referring to, but worry not, Takamine! My engines are always at full throttle for the sake of protecting the peace of the world!
 
 Fuhahaha…!! ☆

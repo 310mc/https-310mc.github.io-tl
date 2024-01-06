@@ -87,7 +87,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
     <p>A few hours later…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “Now then! It's our turn at last!”
 
 “I'd love to start our performance with our usual catchphrases, but we’d lose out on time if we do that!”
@@ -147,7 +147,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 “so, a [happy ending] is when the animal’s [opponent] cowers in fear and [runs away]~♪”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “Oh! I see you’ve also become knowledgeable about land creatures, Kanata! Nice, absolutely wonderful! You're a studious one, aren’t you~♪”
 {% endbubble %}
 
@@ -231,7 +231,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 ## Chapter 2
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “♪\~♪\~♪”
 
 <th>(Yes! I'm in perfect shape! My body feels light thanks to all that resting! I could soar to the far ends of the sky! Fuhahaha! ♪)</th>
@@ -301,7 +301,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 <th>(The day when we say our goodbyes will surely come. But even so, I know I have nothing to worry about.)</th>
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 <th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em>[^3] ☆)</th>
 {% endbubble %}
 

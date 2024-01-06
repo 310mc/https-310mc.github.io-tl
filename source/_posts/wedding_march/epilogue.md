@@ -223,7 +223,7 @@ Ah! I think I just heard Anzu-chan calling for me! I have to go!
 Ah, he ran away!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahahaha! ☆ You aren’t going anywhere, Yuuki! Not until you give a confession of love to all of us here!
 {% endbubble %}
 

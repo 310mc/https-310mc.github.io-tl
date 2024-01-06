@@ -70,7 +70,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 
 {% img /img/es/eventstory/climax/blessings1_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Pardon my intrusion!
 {% endbubble %}
 
@@ -84,7 +84,7 @@ Mm, this is an intrusion, alright… You ought to mind your manners a little.
 Can’t you at *least* be more gentle when you open and close the door? Now all the papers are scattered on the floor from the wind pressure.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh, sorry! I’ll pick them up, I will! ♪
 {% endbubble %}
 
@@ -140,7 +140,7 @@ I’m not so weak-willed as to rely on fortune-telling. Tsumugi’s always liked
 I mean, look at *mine* — It says that I’ve got a long life ahead of me. Palm reading simply hasn’t got any credibility, has it?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ahaha, I’m sure it means you really will live for a long time. …Alright, here’s my hand.
 {% endbubble %}
 
@@ -288,7 +288,7 @@ The entertainment industry is not an environment where you can survive through p
 So, well, I made it a little easier for you to breathe.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ah, I see… Thank you for that, then. It’s great to have friends by your side, huh — Tenshouin?
 {% endbubble %}
 

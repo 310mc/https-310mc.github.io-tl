@@ -96,7 +96,7 @@ I was really looking forward to mine the moment I heard Kanata and the other mem
 You’d like to speak to me about all sorts of things, like what sort of performance I’d want, or what I’d like to show to my fans?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I’m more than glad to discuss that! Let’s work hard together on this, Anzu! Let’s make this the best Feature Live together~♪
 
 First things first, I’ve been thinking of making the stage overflow with my passionate, burning hear—…Mm?
@@ -132,7 +132,7 @@ I completely understand your thoughts of wanting to show a charm my fans haven�
 I feel the same. This is a wonderful opportunity to express a different side from my usual to my fans, so I’d love to do so.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Plus, it’s a project that <em>you</em> thought of, Anzu. And I trust you! So I can’t just let myself run away from the fear of failing!
 
 That being said, I’d like some time to think it over. …You don’t mind?
@@ -220,7 +220,7 @@ The final battle with the big bad boss — The scene where the heroes stand up a
 It’s not like me to get so emotional, but it got to me a little.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Right!? I knew you’d understand!
 {% endbubble %}
 
@@ -268,8 +268,8 @@ Ohh? Then maybe I’ll borrow it for a bit.
 But watching that movie will truly mean the end, huh~ I feel like I’ll have to make sure to enjoy it properly.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
-………….
+{% bubble Chiaki grin %}
+…………
 {% endbubble %}
 
 {% bubble Kaoru serious %}
@@ -350,7 +350,7 @@ I could’ve told you about all of this by messaging you, but on the other hand,
 Now then, let’s take our time going to the lost child center—
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 —Heeey! Anzu, Akehoshi! Sorry to keep you two waiting! <th><em>(waves)</em></th>
 {% endbubble %}
 
@@ -370,7 +370,7 @@ Mm? What’s wrong, Anzu? …“You’re the same as always”?
 Yeah, ‘cause you’re helping people out even on your day off. It’s so like you to refuse to neglect anyone in trouble the moment you spot them, Chi~chan-senpai.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Of course! There’s no day off for the ally of justice, after all~♪
 
 …Although, there isn’t anything new to acting like my usual self on my day off.
@@ -416,7 +416,7 @@ I haven’t gotten the opportunity to buy new ones… So I haven’t been visiti
 Ahh~ You’re talking about that day we all turned down the offer to take your shoes, huh?
 {% endbubble %}
 
-{% bubble Chiaki sigh4 %}
+{% bubble Chiaki sighdrop %}
 Yeah… I sort of saw it coming that Akehoshi and Takamine would decline, but even <em>Isara</em> forced a smile without looking me in the eye…
 
 The one and only person who accepted the offer was Shiratori. His eyes were sparkling when I passed my shoes over.
@@ -438,7 +438,7 @@ Chi~chan-senpai, you appear in sports variety shows often, so why not buy new ba
 …Hm. I think you might be right, Akehoshi.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright then, since this is such a special occasion, maybe I could buy shoes matching with you~♪
 {% endbubble %}
 
@@ -460,7 +460,7 @@ Excuse me; may I try these on?
   <source src="/img/es/idolstory/daysandhero/video.mp4" type="video/mp4">
 </video>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 <th>(Humming)</th> Hmhm~♪ It’s been a while since I last wore basketball shoes. This is kind of exciting!
 
 Let me tie my shoelaces, and… Mhm! My shoe size hasn’t changed much. It fits me perfectly!
@@ -540,7 +540,7 @@ But if you suddenly distance yourself from us, it’s gonna feel lonely, y’kno
 …I’m almost a graduate too. So c’mon, let’s play basketball in school at least one more time, while I’m still a student! ☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 …You’re right. Thank you, Akehoshi. I feel like I’m always saved by you~♪
 {% endbubble %}
 

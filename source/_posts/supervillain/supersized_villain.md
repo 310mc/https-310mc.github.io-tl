@@ -927,7 +927,7 @@ There is some stuff I personally wanna say to Tetora-kun, though.
 There are a couple of things I’d like to talk to you all about, as well.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hey, guys! I’ve prepared everything for us to sleep! Thankfully, Nagumo brought us food and sleeping bags, so we should be able to spend the night fairly comfortably!
 {% endbubble %}
 
@@ -935,7 +935,7 @@ Hey, guys! I’ve prepared everything for us to sleep! Thankfully, Nagumo brough
 this is so much fun, it is like having a [camp]~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah! And look, look! I think we’re in a studio for a local tokusatsu show! Their diorama is surprisingly excellently crafted!
 
 I’ve always dreamed of sleeping in a place like this! I feel like a giant kaijuu! I'm so happy!
@@ -949,7 +949,7 @@ fufufu~ there was a [movie] like that, right? the one where mr. [kaijuu] sleeps 
 Our two seniors aren’t even *trying* to sound panicked… We just said not to talk so loudly.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm, sorry about that. But I feel so relieved, like a weight’s fallen off my back.
 
 I doubt I could act terrified of being trapped in an evil organization right now, even if I tried.
@@ -965,7 +965,7 @@ The plan failed in the end, but it did make me break out in a cold sweat for a m
 To be honest, I underestimated you seniors a little too much. Your base stats are surprisingly high.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep, everything went just as planned! Mission complete~♪
 {% endbubble %}
 
@@ -1087,7 +1087,7 @@ He even whispered to me, “I may be able to assist you depending on what it is,
 But honestly, there’s just no way I could put on an act convincing enough to deceive my own friends like Morisawa-Taichou can.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! Experience, it’s all experience! Do you even know how many years I’ve spent imitating heroes for fun?
 {% endbubble %}
 
@@ -1097,7 +1097,7 @@ He’s *too* good at it in fact, that not even society realizes Morisawa-senpai�
 So they misunderstand and start unreasonably raising the bar for him — to the point that if he shows his true self now, they’ll accuse him of being a liar and a complete fraud… It’s pretty sad.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You understand me far too well, Takamine. It just goes to show how much you love me.
 {% endbubble %}
 

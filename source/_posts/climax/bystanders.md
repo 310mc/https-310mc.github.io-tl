@@ -82,7 +82,7 @@ I’m not sure what to call it exactly, but I’m mainly going to be performing 
 I’m going to be packed with work as soon as spring starts.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki grin %}
 But I just can’t bring myself to abandon the dream I’ve had since I was young…
 
 So I’d love to play the role of a hero in a tokusatsu show as well, and even appear in an educational program to inspire children.
@@ -126,7 +126,7 @@ Anyways, it’s kinda hard to do things on my own, so I’m hoping Sakuma-san co
 I asked him if he’s interested, so we’ll see what happens… It’s his life in the end. I can’t force him.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I see. Well, I’m sure you’ll be just fine. You’re so full of talent that I’m almost envious.
 
 I mean, if *you* won’t become an idol, who else will? Good luck out there! If you’re ever in trouble, you can always count on me.
@@ -218,7 +218,7 @@ That’s what <em>I</em> should be saying. I was talking with Hakaze earlier abo
 It’s already March, so I’d like to believe you’ve decided on a career path by now…
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki grin %}
 But if you haven’t, then until the little guys from Ryuseitai catch up with us—
 
 How about you and I temporarily team up as a duo? Like Kamen Rider No.1 and No.2![^3] ♪
@@ -304,7 +304,7 @@ mm\~…… then it is “d” again…? d-d-de\~…?
 Yeah, uh, why do I get the feeling you’ll say “death”…? Can we stop playing word chain?[^4] It’s really not that fun, and I just feel depressed now for some reason…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 It’s mainly Kanata’s fault. What’s up, what’s wrong? You’ve been so gloomy the past few days! Cheer up! ☆
 {% endbubble %}
 
@@ -386,7 +386,7 @@ He sucks at using the phone keyboard[^5], so his messages practically end up nee
 Oh well, the only way to find out is to ask him. See you two later then! Thanks for spending time with me, bye bye~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! Farewell, Hakaze! Until we meet again…☆
 
 Heheh… Hakaze seems a little different. He looks like he’s shining these days.

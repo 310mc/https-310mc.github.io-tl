@@ -164,7 +164,7 @@ now, now. we do not need to be formal about this, anyway. it is much more like u
 now then, chiaki. please continue what you were saying, as our [taichou].
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 **Yep! Thanks, Kanata.**
 
 Ahem.

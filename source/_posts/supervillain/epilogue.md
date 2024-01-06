@@ -87,7 +87,7 @@ Gwaaaaaahhh!?
 Waah!? A-A-A-Are you alright, Morisawa-dono!? Are you hurt anywhere!?
 {% endbubble %}
 
-{% bubble Chiaki sigh %}
+{% bubble Chiaki sightired %}
 ………
 {% endbubble %}
 
@@ -259,7 +259,7 @@ I wanna see the new Ryuseitai that everyone has in their minds.
 That phrase has never changed for us — It’ll always be the perfect way to describe Ryuseitai’s principles.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Aaalrighty then, let’s discuss all about it! All of us, together! Talking all about <em>our</em> future!
 
 Starting with the guy who’s trying to look like he has nothing to do with this — Takamine! You’re very much involved in this, too!

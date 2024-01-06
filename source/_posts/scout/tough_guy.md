@@ -421,7 +421,7 @@ My uniform in middle school was a gakuran, so I do have it at home…
 But I grew tall really quickly, so I think it’d be waaay too tight for me to wear now…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Is that so! That’s truly wonderful! Keep on growing just like that! Become a man large enough to reach the sun…☆
 {% endbubble %}
 
@@ -433,7 +433,7 @@ Umm, Morisawa-senpai… I don’t get what’s up with you, but I’m busy right
 Hm? What are you busy with!? If there’s anything I can help with, just let me know!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Aren’t we comrades in Ryuseitai, Takamine!? *All for one, and one for all!*
 
 That’s what Ryuseitai is all about! Fuhahaha!! ☆
@@ -449,7 +449,7 @@ I’m so sorry, Anzu-san… If that guy’s being a bother, I’ll tie him up, t
 Whaaa!? You’d store me away like a room heater only used in the winter!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But that’s fine with me! Being tied up and confined is exactly the sort of predicament that an ally of justice would go through…♪
 
 Anyway, so Anzu was here too, huh!? Ossu! How are you!? The seasons changing hasn’t been making you feel ill, has it!?
@@ -473,7 +473,7 @@ She’s making me mascot character designs. I’ve asked her to make a new one e
 I’m always excited to see the next design, so it’s been motivating me to work hard in my idol activities lately…♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ho<em>ho</em>, that’s amazing, Anzu! You’re getting good at handling Takamine! I really struggled to manage it, y’know!
 
 As expected of our incredible producer! ♪
@@ -485,7 +485,7 @@ Eheheh… Anzu-san’s really good at sewing, too… So she makes me plushies wh
 My bed is full of Anzu-san’s handmade plushies…♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Really!? My bed is full of tokusatsu goods! We’re so similar, Takamine!
 
 We Ryuseitai are brethren of the same soul! Fuhahaha…!! ☆
@@ -517,7 +517,7 @@ This guy is <em>such</em> a damn pain…
 Morisawa-senpai, you can’t just casually hug Anzu-san… Don’t come crying to me if you get sued for inappropriate behavior, ‘kay…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Heh-heh-heh! This is wonderful timing; I’d love to get your help as well, Anzu! You transferred here from a normal school, right?
 
 In that case, your thoughts on this matter may be useful…☆
@@ -545,7 +545,7 @@ My friend asked for advice about acting and such.
 Ahh, that’s right, you were doing stunt work… Not that I really care, but is that why you’re injured so often, Morisawa-senpai…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! Would you like to give it a try? It’s really fun! ☆
 {% endbubble %}
 
@@ -573,7 +573,7 @@ That’s why I’ve come here for you! You’re fine with it, aren’t you, Taka
 Ehhh, you’re just doing whatever you like… It sounds like a huge pain in the ass, so could I pass…?
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Fuhaha, then I’ll throw that pass back at you!
 
 If you don’t shoot, you won’t score! If you don’t score, you won’t be able to win! Whether it’s in basketball or in life! So, Takamine, it’s time! Show me your slam dunk…☆
@@ -595,7 +595,7 @@ Mm~… I think Sengoku-kun was asked by a Student Council member to do some work
 I dunno about Shinkai-senpai, but I’m guessing he’s gone to the beach again or something…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I see! How nice, everyone’s busying themselves with something! That’s what youth is all about…☆
 
 We should go off and live our lives with full vigor too, Takamine! First things first, let’s make this mission a success! Let’s rush on over with our heads held high…☆
@@ -613,7 +613,7 @@ I’m used to it by now, so I’m fine with it, but… It’ll be a bother to An
 
 {% img /img/es/scoutstory/toughguy/2_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Kiryu! I’m here! I brought over a reliable comrade! There is no need to fret…☆
 {% endbubble %}
 
@@ -661,7 +661,7 @@ H-Hold on, stop right there! Let’s talk this out! Don’t you know that violen
 Hey, Nagumo! What’s the meaning of this!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 *A-ha!* I get it now; you’re trying to get rid of me and become the commander of Ryuseitai, aren’t you!?
 
 That’s the spirit! Fuhaha! That’s the way boys ought to be…☆
@@ -679,7 +679,7 @@ But I don’t watch dramas at all, so I don’t really know how it goes.
 That’s why I took reference from the school life mangas I borrowed from the library.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ho*ho!* How admirable, Nagumo!
 
 But rather than a school drama, this is what you’d do in a mixed martial arts match! How did you manage to confuse the two for each other!? You’re such a clutz, Nagumo…☆
@@ -787,7 +787,7 @@ Ohh~ You’re going to guide Kiryu-senpai’s acting?
 It sounds like you’re doing another time-wasti— Err, I mean troublesom—… Mmm~ you’re doing another interesting thing again, huh?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That’s precisely right!
 
 When adversity stands before you, it’s inexcusable to withdraw from it because it’s “impossible”!
@@ -801,7 +801,7 @@ Ahh, I sort of get what you’re trying to say. It’s better to expand what you
 If there’s any skill you need covered, I’ll do my best to teach it as long as it’s something I can do.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! I’d be glad to rely on you! Isara can do everything, after all! ☆
 {% endbubble %}
 
@@ -881,7 +881,7 @@ I seriously don’t like the idea of paying Chi~chan-senpai any money, though.
 Mm? I don’t really mind; it isn’t like it can’t be used as a ball anymore, right?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 If anything, scars are medals! Ah, you’ve become so manly, my sweet ball! Theeere, there, there~♪
 {% endbubble %}
 
@@ -891,7 +891,7 @@ If anything, scars are medals! Ah, you’ve become so manly, my sweet ball! Thee
 Ahh~! Don’t touch it! I put so much effort into shining that ball sparkly clean! You’ll get your fingerprints all over it!
 {% endbubble %}
 
-{% bubble Chiaki smug2 %}
+{% bubble Chiaki niya %}
 It’s <em>my</em> ball. It’s up to me whether I want to touch it, hug it, or eat it! Spin, spin~♪
 {% endbubble %}
 
@@ -947,7 +947,7 @@ Wooah, Chi\~chan-senpai of all people is being considerate\~♪ Didn’t Sally\~
 What should we do?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mm, thank you. I’ve really got such wonderful juniors.
 
 Hmm, well… I also asked Anzu for help with this, but — I’d like you to judge his acting.
@@ -1053,7 +1053,7 @@ Wait, Anzu, don’t sit over there.
 You’ll get dust on yourself. I’ll mop that area for you, so wait a sec. We were sweating out here, so~ We can’t have anyone slip while acting.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ahaha. I’m the last person to say this, but — it gets pretty lively when Anzu’s here, huh?
 {% endbubble %}
 
@@ -1217,7 +1217,7 @@ O-Ossu, got it! Taisho’s words are always so profound…☆
 I’ll go slow and steady, but swift and thorough! Nagumo Tetora’s gonna head off now! ☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Take care! Watch your step so you don’t trip and fall, alright~?
 {% endbubble %}
 
@@ -1227,7 +1227,7 @@ That Nagumo… He gladly listens to everything Kiryu says, huh…
 Why does he always respond to what I tell him with an “Ehh~?”… Is there a difference in our natural virtue?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh well. That aside, let’s try to memorize the script until Nagumo’s back.
 
 There are no stage directions, so I suppose we’ll have to think up the actions on our own. Hmm, hmm~?
@@ -1329,7 +1329,7 @@ He’s already got a bit of experience in actin’, even if it’s mostly when i
 “Mm—!? Who’s there!? Blasted villain — How dare you disturb the peace of our school! I’ll be the one to take you down!”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “Woosh— *Transform!* Cheerleader Red…☆”
 {% endbubble %}
 
@@ -1353,7 +1353,7 @@ What’s the point of standing out more than the lead? You’ll be fired if you 
 Guuh—! You’re all so strict with your criticism…!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 No matter! I thank you all for your valuable comments!
 
 You’re up next, Takamine! It’s time you try it out…☆
@@ -1379,7 +1379,7 @@ Uuu, ermm… Then I guess I’ll do my best somehow…?
 You don’t sound enthusiastic at all, cheerleader!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Come on, cheerleader! You’ve got this…☆
 {% endbubble %}
 
@@ -1449,7 +1449,7 @@ Well, I don’t think you’d offend her with that small mistake. But just keep 
 I know how you feel, Nagumo. I also tend to say and do odd things without meaning to.
 {% endbubble %}
 
-{% bubble Chiaki cry2 %}
+{% bubble Chiaki cryalmost %}
 Whenever there’s a photoshoot, I often get scolded and told, “Quit doing transformation poses! Your arms and legs are so loud!” — But it’s completely unintentional! Believe me!
 {% endbubble %}
 
@@ -1553,7 +1553,7 @@ Damn, acting really is tough…
 Hm. This is a harder adversity than expected, huh…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But the more difficult the mission, the more it fires me up! This is starting to get even more fun~ Fuhahahaha! ☆
 {% endbubble %}
 
@@ -1579,7 +1579,7 @@ Go\~, go\~! Let’s go\~! You’ve got this! Don’t lose now…!
 Keep at it, you bastard! You <em>gotta</em> win this! We’re cheerin’ you on…!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Good, you’re doing great, Kiryu! That’s the spirit! Keep it up! I’m cheering for you; you’ve got this, cheerleader! You’ve definitely got this…☆
 {% endbubble %}
 
@@ -1587,7 +1587,7 @@ Good, you’re doing great, Kiryu! That’s the spirit! Keep it up! I’m cheeri
 G-Go, goo\~! Let’s gooo\~! TA-I-SHOOOO!!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ooh! You’ve got this too, Nagumo; keep it up! ♪ I <em>know</em> you can yell louder! Shout as loud as you can from your very gut!
 
 You can do it, you’re still so young! Always keep your head held high until your final breath…☆
@@ -1691,7 +1691,7 @@ But, well… Home is where you make it, right~? ♪
 
 {% img /img/es/scoutstory/toughguy/ep1_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Nagumo! Takamine! If you have enough energy to talk, then stand back up! It’s time for our rehearsal! Aren’t you both boys!? You should yell as hard as you can to the sun!
 
 It’s a brand new daaaaaaaaaay!! ☆
@@ -1775,7 +1775,7 @@ Yeah, that’s true… After all, the five of us together make Ryuseitai, right�
 Mm? Takamine, Nagumo — Both of you seem to be in a good mood, huh?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Wonderful, just wonderful! Energy is what youngsters are supposed to have! ♪
 {% endbubble %}
 
@@ -1783,7 +1783,7 @@ Wonderful, just wonderful! Energy is what youngsters are supposed to have! ♪
 You’re so obnoxious… You’re not young anymore, Senpai, and you’re being really overbearing, so how about you cut your energy down by half…?
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 What did you say~!? I’m still bursting with youth and energy! Tokusatsu shows are said to be for children, but they still make me burst into tears! My heart is always like a new-born!
 
 You’re so cheeky, Takamine\~! You little rascal, you\~♪
@@ -1963,7 +1963,7 @@ Actually, I’m probably not even supposed to talk loudly at all. Seems like I c
 Ahh~… Uh, my bad, guys.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 No need to apologize! But I see now! Oh well, we can’t do anything about it, can we! We all make careless mistakes sometimes! Fuhahahaha! ☆
 
 We just need to pull ourselves together and do a special training course for the teacher role instead!

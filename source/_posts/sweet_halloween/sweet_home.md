@@ -88,7 +88,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p>The next day…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Now then! Looks like everyone’s changed their clothes, so gather round~! ☆
 
 The meeting for Halloween Party will now commence!
@@ -350,7 +350,7 @@ Ahhh man\~! He really is super duper cool\~!
 Never demanding rewards from anyone\~! I wanna be like that too! I wanna help someone and act all *“Oh, it’s no problem,”* just like him\~! ☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep, that’s exactly what a hero is, Nagumo.
 
 …Oh, woops, we went off-topic again.
@@ -536,7 +536,7 @@ W-W-W-What is it!? I’m fine! I saw some realistic ghost decorations and freake
 No! I mean— I accidentally slipped on some decorations and fell! I wasn’t paying attention!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Gotta be careful! You guys should be more careful, too! Fuhahahaha!! ☆
 {% endbubble %}
 
@@ -544,7 +544,7 @@ Gotta be careful! You guys should be more careful, too! Fuhahahaha!! ☆
 chiaki~ you look [pale]… if you are feeling [unwell], then please leave the rest to us and take a [break], okay?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I-I’m fine, Kanata! I will never give in! I will surely get my chance to turn things around and achieve victory!
 {% endbubble %}
 
@@ -644,7 +644,7 @@ It’d just be better to ask him directly.
 Hey, Taichou~ Do you hate Halloween?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Huh—? Don’t be silly! There’s no way I could hate it!
 
 It’s a day for children, after all! And Ryuseitai are the children’s allies! If the children are happy, then we’ve achieved justice…!!
@@ -654,7 +654,7 @@ It’s a day for children, after all! And Ryuseitai are the children’s allies!
 Uhh… I feel like you’re avoiding the question.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 No matter! Let’s quit the chatter and start moving our hands!
 
 It’s no surprise that our work has been a bit slow, as it *is* the first day and we aren’t entirely used to it, but I’d like to get to a good place to stop at for the day!

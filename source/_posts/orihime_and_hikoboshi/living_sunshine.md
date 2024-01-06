@@ -90,7 +90,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
     <p>One week later, the day of Tanabata Festival…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahahahaha!
 
 Sorry for making you wait, guys! Morisawa Chiaki has been revived in all his splendid glory! ☆
@@ -110,7 +110,7 @@ Each comrade is important and irreplaceable — the five of us together are Ryus
 chiaki…! ☆ <em><th>(hugs him)</th></em>
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Kanata…! ☆ <em><th>(hugs back)</th></em>
 {% endbubble %}
 
@@ -162,7 +162,7 @@ Uh— Huh!? What did you just say!?
 i [abducted] and [confined] him~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You won’t get away with it by saying it cutely! It’s still a crime! You little rascal~! You shouldn't abduct and confine someone without consent, okay? Promise me that!
 {% endbubble %}
 
@@ -176,7 +176,7 @@ Then he grabbed me and locked me up there for the whole week.
 Huh…!? W-Were you okay!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah. I wasn't allowed to go outside, but there were no other constraints.
 
 Kanata's home is isolated — I felt like I was living the life of Urashima Tarou when he stayed in the Dragon Palace.[^2]
@@ -228,7 +228,7 @@ if you are okay with it, you could live in [my home] forever, chiaki~♪
 Ah, no… I'm from a middle class family — a luxurious life like that isn't for me. It'd just turn me rotten.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That aside! I tried to get in touch with Sengoku behind Kanata's back, and I got the gist of what's happened to you guys! You did a very good job holding yourselves up for the week!
 
 But worry not! We're here now! ☆
@@ -274,7 +274,7 @@ I did so because we tend to depend on Taichou-dono, you see…
 It's fine, really… Though I think I would've liked it if you told us he was doing okay… I couldn't really focus properly in practice from worry…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ho<em>ho</em>, is that so! I was a little nervous that you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
 {% endbubble %}
 
@@ -282,7 +282,7 @@ Ho<em>ho</em>, is that so! I was a little nervous that you might not care about 
 Will you shut up… It’s so suffocating… I wish you didn't come back until summer was over…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Heheh, that aside… After I’d recuperated, I practiced with Kanata. We should be able to perform properly in the event.
 
 Still, I’ve only just recovered. I might slip up a bit, so be easy on me!
@@ -302,7 +302,7 @@ But we *did* manage to get through it by ourselves. We practiced real hard with 
 In fact, you two might’ve been in the way if you were around. I kinda *wanted* you to stay away~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What did you just say, you little rascal\~!! I’m not giving away my chance on the stage! I've been yearning to stand on top of it this whole time, y'know\~!
 
 I'll be up there no matter what it takes! I'll shine as part of Ryuseitai!
@@ -316,7 +316,7 @@ You're the center of the show this time, so we'll do things just as you say!
 Ah, yeah. I'd love to, but we’ve been left to take care of a stall. We need to tidy it up, and then ask a vendor to take over. We can start rehearsing after that.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh, you're doing a stall again!? I feel like it's become a custom of ours now!
 
 It's just like Ryuseitai! I like it! Ahh, this brings me back… Mikejima-san used to invite me to help out in stalls pretty often last year…♪
@@ -360,7 +360,7 @@ It looks like they can get rewarded for it so well, they won't even need to get 
 Hm. That wouldn't be a reward in their eyes. Those kids always want to be up on the stage.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 And the same goes for us! But we can't be shoddy with our stall work! Let's work together and do our absolute best!
 {% endbubble %}
 
@@ -380,7 +380,7 @@ Ahaha. We have to work hard, or we will be buried by everyone else~
 okay, then let's do that. it will be okay, the [five of us] together are [invincible]~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! Well said, Kanata! We've got a new catchphrase for ourselves! I'll carve it in my heart! Fuhahahahaha!! ☆
 {% endbubble %}
 
@@ -390,7 +390,7 @@ Morisawa-senpai, you’ve been at maximum hyper for a while now…
 Not only will you drag us down if your health gets bad again, but you're also annoying when you’re like that, so please don’t go into overdrive…
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 I feel like that “annoying” bit was a little too much! Or should I say, it’s saddening! But! I’m aware! I'll never let myself get sick or collapse ever again!
 
 I'll never separate myself from you guuuuuysss…!! ☆

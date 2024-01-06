@@ -94,7 +94,7 @@ Hah…? Where did this come from…? Are you stupid…?
 Actually, Taichou, aren’t we always playing around as superheroes?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 How harsh! I had never once intended for Ryuseitai to simply be about “playing around,” y’know…?
 
 And so, in other words — we are going to play superheroes in order to become <em>true</em> heroes!
@@ -108,7 +108,7 @@ Umm…? I don’t get what he’s trying to say…? Do you understand, Nagumo-ku
 Mm~… Is it like <em>kata</em> training?[^1] Like, tryna get a feel of the movements before the actual match and stuff?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah! Something like that!
 
 You guys still don’t have enough experience or awareness as heroes, so we can’t throw you into a real battle just yet!
@@ -122,7 +122,7 @@ Mmm…? What path are we heading…?
 I know I’m the last person to say this, but weren’t we supposed to be aiming to be <em>idols</em>, not heroes…?
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Let’s aim to be heroes, as well! Aren’t you a boy, Takamine!? You should grasp onto everything you’ve ever wanted with your very own hands!
 
 Get yourself into the spirit like THIIIIS, and embrace everything whole! Fuhahaha! ☆
@@ -172,7 +172,7 @@ Hold on, did you seriously <em>just</em> call this “idiotic” by yourself…
 If you know how stupid this all is, then can we not do it…? I don’t wanna waste my energy over something so pointless… I wanna die…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Come on now, Takamine, what are you spacing out for!?
 
 Stand up, hero! For the sake of mankind’s freedom! For the sake of the Earth’s future…! ☆
@@ -206,7 +206,7 @@ I shall assist you! Take this—! Turn corrupt by my shurikens…☆
 I don’t get their set-up at <em>all</em>… A ninja polluting the ocean…? They’re just weirdos doing random stuff at this point…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Either way, it’s still a hindrance to the people! We have to stop them! It’s time to fight, Takamine!
 
 I’ll show you how to do it, so watch closely! *Transform…!* ☆
@@ -224,7 +224,7 @@ No peeking, Takamine! That’s lewd!
 
 {% img /img/es/idolstory/herogame/3.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Now then, with my transformation complete, it’s time to battle! Don’t forget your catchphrase!
 
 The red flame is the mark of justice! The sun of life, burning bright red!
@@ -236,7 +236,7 @@ Ryusei Red, Morisawa Chiaki…☆
 I just realized this, but you expose your real name just fine, huh… Aren’t heroes supposed to keep their identity a secret…? Well, not that I care much…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 C’mon, Takamine, Nagumo, you need to chang— I mean, transform, too! I’m at a disadvantage fighting all alone against two! Even I won’t be able to do much except evade their attacks!
 {% endbubble %}
 
@@ -298,7 +298,7 @@ Ah— So *that’s* how you fight…? It really is just a game for kids…
 C’mon, Midori-kun, join us! It is much more fun than you would think\~ Playing superheroes has its charm, as well\~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Exactly! Boys love heroes! And aren’t you a boy, too, Takamine!? You should have the burning spirit of a boy swirling within your heart!
 
 So come, fire it up as you please! Burn up the flame of your color…☆

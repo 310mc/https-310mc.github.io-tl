@@ -141,7 +141,7 @@ What the—!? A severed head popping out from the curtains…!?
 Wait, no — it’s just Chi\~chan-senpai. Yahoo\~, yahoo\~! ☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm, yahoo to you too…☆
 {% endbubble %}
 
@@ -189,7 +189,7 @@ Ehh~ Is that really true?
 ………
 {% endbubble %}
 
-{% bubble Chiaki sigh3 %}
+{% bubble Chiaki sigh %}
 —The truth is… I accidentally injured myself, so I came here to treat my wound.
 {% endbubble %}
 
@@ -213,7 +213,7 @@ Doesn’t change the fact it’s an injury, though. You gotta be more careful, y
 …Haha, that hurts to hear.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But worry not! No matter what, I’ll make sure to at least protect my face to the very end, for the sake of my idol profession…☆
 {% endbubble %}
 
@@ -221,7 +221,7 @@ But worry not! No matter what, I’ll make sure to at least protect my face to t
 Gosh, that’s <em>not</em> the problem here… And stop moving, I’m gonna put a band-aid on your wound.
 {% endbubble %}
 
-{% bubble Chiaki sigh3 %}
+{% bubble Chiaki sigh %}
 Mm… Sorry.
 {% endbubble %}
 
@@ -265,7 +265,7 @@ I mentioned that it happened by accident, right? That’s exactly what I mean �
 …It was only once I got injured that I finally realized, “Ahh, I really might be exhausted after all…”
 {% endbubble %}
 
-{% bubble Chiaki sigh4 %}
+{% bubble Chiaki sighdrop %}
 But there’s just no way I could admit that I was so tired from all my work that I became careless enough to injure myself.
 
 It would just be awful of me to say that — I’m so grateful for each and every job offer I’ve been receiving, after all… It would be so pathetic and disappointing coming from me.
@@ -331,7 +331,7 @@ A man’s own medal, maybe. That’s a much cooler way to call it.
 …?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Thank you, Akehoshi. Because of you, I feel a rush of joy surge through me…! ♪
 {% endbubble %}
 
@@ -339,7 +339,7 @@ Thank you, Akehoshi. Because of you, I feel a rush of joy surge through me…! �
 Woah— Hold on! Ahh~! Don’t hug me outta nowhere!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t say that~ Accept my feelings of gratitude…☆
 {% endbubble %}
 

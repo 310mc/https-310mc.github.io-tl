@@ -78,7 +78,7 @@ Ugh, I can't believe I got preoccupied with my thoughts and bumped into someone 
 
               Mm? How could you tell it was a lie!?
               {% endbubble %}
-              {% bubble Chiaki grin %}
+              {% bubble Chiaki grin2 %}
               Fuhaha! Nothing gets past you, huh!? I expect nothing less from our producer! ☆
 					{% endbubble %}
 			</div>

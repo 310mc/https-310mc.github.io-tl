@@ -129,7 +129,7 @@ Then what about the gears attached to both arms!? They glow in seven different c
 …Yeah, you’re exactly right, Anzu. I was only focused on making my ideals a reality, without considering much of anything else.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright, let’s scrap this design entirely!
 
 Fuhaha, there’s no need to feel sorry. I won’t lose heart to something like this! I’ll show you that I can come up with an even better design…☆
@@ -169,7 +169,7 @@ It’s not easy to come up with outfit designs. I have to applaud Anzu for havin
 But what <em>is</em> a hero? I asked Aira about it once, but he didn’t provide me with a clear answer.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “What is a hero,” huh? That almost sounds like a subtitle for a movie.
 
 I’ll gladly teach you! “A hero is a cool being who helps the vulnerable”…☆
@@ -265,7 +265,7 @@ C’mon, you two! Let’s cheer with the kids!
 …Mhm. Hang in there, Hero! Stand back up!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahahaha! ☆ Keep at it! Defeat never suits a hero!
 
 <th>(Oooh, the hero suit looks even cooler than it did earlier! That’s impressive… The suit could still evolve even further…!)</th>
@@ -293,7 +293,7 @@ That was really interesting! So *that’s* what it means to be a hero!
 A person who never loses heart no matter the hardship — Who only grows stronger for someone else’s sake… I see what you mean now about heroes and martial artists; they may have a few differences.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! It makes me so happy to see you learn the charm of heroes, Hero-kun!
 
 However, that was only the tip of the iceberg. The more you learn about heroes, the more you’ll grow fond of them. Their history runs deep, y’know!
@@ -333,7 +333,7 @@ I’d love to find out the reason. Anzu-san, Chiaki-senpai, let’s ride this so
     <p>A while later…</p>
 </div>
 
-{% bubble Chiaki cry2 %}
+{% bubble Chiaki cryalmost %}
 <th>(I didn’t think we’d go spinning in a teacup right after the roller coaster ride…)</th>
 
 <th>(Both Anzu and Hero-kun seem fine, so I have to act composed. Hang in there, my semicircular canals…!)</th>[^1]
@@ -385,7 +385,7 @@ Go ahead and try this one out with Anzu.
 Hm… Alright then. Let’s go, Anzu-san.
 {% endbubble %}
 
-{% bubble Chiaki sigh3 %}
+{% bubble Chiaki sigh %}
 …They’re gone. Whew…
 
 <th>(I wasn’t lying about not feeling well, but it’s still so pathetic of me to stay behind…)</th>
@@ -467,7 +467,7 @@ Anzu. Could you and I think up a new outfit design from scratch?
 I’m knowledgeable about heroes, and you’ve always watched over idols. If we were to team up, we should be able to create an incredible outfit.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 …Thank you. I just <em>knew</em> you’d say that.
 
 With the two of us, I’m sure it will turn out perfect. Let’s work hard together, partner…♪

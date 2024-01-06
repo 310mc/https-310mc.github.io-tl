@@ -412,7 +412,7 @@ Is… Is it okay if I leave for a moment when I have time off from work…?
 
 {% img /img/es/eventstory/climax/heroesofthefuture3_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Good morning!
 
 Excuse me, I’d like vegetables! Anything is fine, as long as it isn't eggplants!
@@ -430,7 +430,7 @@ Umm… Repayment Festival has already started… Are you sure it's okay not to g
 They're doing their very best to repay you, y'know…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! Of course we plan to go and support them!
 
 But before that, we're warming up, since Repayment Festival lasts for a long time! And as we were thinking of doing that, we decided to drop by here!
@@ -520,7 +520,7 @@ I'm sure there are a lot of other juniors who wanna say their thanks to you as w
 I feel really bad, making you two waste your time on me…
 {% endbubble %}
 
-{% bubble Chiaki angry2 %}
+{% bubble Chiaki angrycloseup %}
 Takamine.
 {% endbubble %}
 
@@ -666,7 +666,7 @@ But I guess I've gotten used to it… I sort of get what you're trying to say…
 I’ve been pushed all the way to this point, I’d suck way too much if I cower back and run away despite all that hard work.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yes! You're a good boy, Takamine!
 
 Hang in there, hero! Don't lose now, hero…!! ☆

@@ -109,7 +109,7 @@ It’s just — I don’t know how you’re supposed to do *anything!* When I tr
 Uu… There’s still three days left… What am I gonna <em>do</em>…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hm. I completely understand!
 
 Then how about I take care of everything for you in Fushimi’s stead…☆
@@ -119,7 +119,7 @@ Then how about I take care of everything for you in Fushimi’s stead…☆
 Morisawa-senpai taking care of everything…? Do you have experience as a servant or something?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! Not one bit, actually!
 
 But as an ally of justice, I can’t just neglect someone in a pinch!
@@ -183,7 +183,7 @@ Mhm, it worked like a charm! Good morning, Himemiya! ☆
 Uu, I was having <em>such</em> a good dream… Let me sleep more~…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t bury yourself in the blanket! Come on out, Himemiya! Let’s move our bodies to wake ourselves up!
 
 It’s time for “The Unrivaled ☆ Meteorangers!”!![^2] Follow after me!
@@ -193,7 +193,7 @@ It’s time for “The Unrivaled ☆ Meteorangers!”!![^2] Follow after me!
     <p>Four and a half minutes later…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 …~♪
 
 Incredible, Himemiya! You’re able to dance along so well just by watching me!
@@ -203,7 +203,7 @@ Incredible, Himemiya! You’re able to dance along so well just by watching me!
 *Huff, huff*… I can’t believe he made me dance a whole song…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I’m sure that got you wide awake, didn’t it? I feel exhilarated, too! ☆
 {% endbubble %}
 
@@ -219,7 +219,7 @@ I should say my thanks, at least. Thank you for waking me up, Morisawa-senpai.
 Um, I’ll go wash my face and change my clothes, so could you leave the room, please? I don’t feel comfortable doing it with someone watching.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright! I’ll go prepare breakfast, then!
 {% endbubble %}
 
@@ -269,7 +269,7 @@ Microwave oven?
 …Ah! French fries~! ♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 It’s hard to tell different types of potatoes from one another, but since these ones were from Takamine Greengrocer, they’re guaranteed to be excellent-quality vegetables.
 
 And vegetables are extremely high in nutritional value! Eat as much as you like!
@@ -279,7 +279,7 @@ And vegetables are extremely high in nutritional value! Eat as much as you like!
 Yaaay! ♪ Yuzuru would probably make a disapproving look if he hears about this, but I don’t caaare~!
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki grin %}
 I’m really glad it made you happy. It was well worth the preparation…♪
 
 Oh yeah, speaking of which — Have you finished preparing for school?
@@ -289,7 +289,7 @@ Oh yeah, speaking of which — Have you finished preparing for school?
 Mhm. Thanks to you waking me up, I was able to get everything ready without rushing.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh, that’s good to know! Make sure to take this with you, as well.
 {% endbubble %}
 
@@ -321,7 +321,7 @@ I botched up the technique, so the egg garnish is a little burnt, and the charac
 But thank you for doing all of this for my sake, Morisawa-senpai.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! You’re welcome. Eat to your heart’s content, and grow big and strong!
 
 Alright, it’s time to eat. They say that “the day only begins once you eat your breakfast”…☆

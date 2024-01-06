@@ -66,7 +66,7 @@ midori? why are you groaning?
 S-Shinkai-senpai… Umm, the truth is… I also prepared Valentine’s Day gifts for everyone…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What, really!? Even though you said you weren’t good with Valentine’s Day, you got something for us…!? I’m so happy! ☆
 {% endbubble %}
 
@@ -74,13 +74,13 @@ What, really!? Even though you said you weren’t good with Valentine’s Day, y
 What’s with that reaction, it’s so obnoxious… Could you just take it already?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Why, of course!
 {% endbubble %}
 
 {% img /img/es/eventstory/hotandelegantchocofes/ep2_1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 …Oh!? Everyone, look! My cookie is in the shape of a hero!
 
 It’d be such a waste to eat this~! Maybe I’ll preserve it in resin instead!?

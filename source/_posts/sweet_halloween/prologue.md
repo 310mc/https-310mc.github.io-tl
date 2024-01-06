@@ -97,8 +97,8 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 {% img /img/es/eventstory/sweethalloween/prologue_2.jpg %}
 
-{% bubble Chiaki sigh3 %}
-<th>(*Sigh~…*)</th>
+{% bubble Chiaki sigh %}
+<th>(<em>Sigh~…</em>)</th>
 
 <th>(What do I do? What do I do? I’m in a huge predicament.)</th>
 
@@ -125,7 +125,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 <th>(My mind knows that! But my body won’t listen! I get goosebumps just thinking about it! Ahhh, you idiot, me! You coward\~!)</th>
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 <th>(Don’t lose now, me! Go for it, me! You can do it, you can do it! Stand back up, Morisawa Chiaki…!!)</th>
 {% endbubble %}
 
@@ -187,7 +187,7 @@ Ehehe, if I’m remembering right, ginger tea is good for a cold.
 …Wait, huh? What was I talking about?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm, you have a pretty unique way of pacing the conversation! It’s super cute, there, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 
@@ -201,7 +201,7 @@ Ah! Being patted on the head made me remember what I wanted to say! Akehoshi-sen
 He always says that you’re suffocating and annoying and… Ahhh, I’m sorry, he says things that are hard to say out loud…
 {% endbubble %}
 
-{% bubble Chiaki sigh %}
+{% bubble Chiaki sightired %}
 Oh… Yeah, I guess he would. That’s heart-crushing.
 {% endbubble %}
 
@@ -213,7 +213,7 @@ And he *always* happily ends it by saying, “Chi~chan-senpai is a *hero,* after
 Heroes are cool, aren’t they? My little brother often watches those shows on Sunday.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ohh!! Really! I think I could get along well with your little brother, Shino-kun! ♪
 
 …Alright, I finished picking them up while we were talking. Were you taking these somewhere?
@@ -255,7 +255,7 @@ We have to properly support her — the important one-and-only producer in this 
 Yes, that’s what I think we should do, too~ People should help each other when in need, after all.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep, that’s correct! You have what it takes to be a hero, Shino-kun! There, there! <em><th>(pat, pat)</th></em> ♪
 {% endbubble %}
 

@@ -104,7 +104,7 @@ Okay sure, but. Could you pay attention to our captain?
 I am, though~! I’m distracting him, and then while I hide the ball behind me… I shoot a goal from the back! ♪
 {% endbubble %}
 
-{% bubble Chiaki smug2 %}
+{% bubble Chiaki niya %}
 How naïve of you, Akehoshi! I see you tried to play your trump card, but you can’t get past me like that!
 
 It was still a very nice idea! I really thought you were ignoring me for a second there…!
@@ -122,7 +122,7 @@ Heheh\~♪ Overcoming your weaknesses is what it means to be a hero\~☆
 Tch, so it didn't work. And here I thought you had finally let your guard down now that we're almost done practicing.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! I'm always at a climax from start to end![^2] I'll always be charging to the very last moment!
 
 You won't get me with surprise attacks! I'm always taking a close look at how your muscles are moving!
@@ -136,7 +136,7 @@ Uh, that’s gross… Mmm~ I mean, I can't hide how my muscles move…
 Guess I still can't score a goal on you, huh?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Of course not! I plan to be you guys' unsurpassable wall for the rest of my life!
 
 But I want you to keep trying harder and harder! And then, you’ll be able to fly higher than you could today! ☆
@@ -162,7 +162,7 @@ It was really tough… I’m glad it was approved in the end.
 Same here… I’m exhausted… I’m so tired of summer… I just wanna stay inside my room with the AC on all day…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What's up, Takamine, what's wrong!? Why are you slouching in the corner there!? Did something sad happen to you? Alright, don't worry, I’ll share my energy with you! ☆
 {% endbubble %}
 
@@ -190,7 +190,7 @@ The school felt dark and depressing back in spring, and I was stressed over how 
 But lately, it’s been calm and quiet… So I’ve been pretty happy…♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! I see, I see! You too are a hero who loves peace! ☆
 
 I feel the same way Takaminee~! We’re the same! We're two hearts beating as one! Let's keep working hard together! ☆
@@ -258,7 +258,7 @@ It’s my favorite place to eat at right now!
 You like junk food like those, don't you… You’ll get pimples if you keep eating greasy food, y’know?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! That's completely okay! It's perfect for high schoolers! Pimples are the badges of youth! ☆
 {% endbubble %}
 
@@ -270,7 +270,7 @@ Yeah, but we're idols too, so I dunno about that~ Anyway, I wanna eat dinner at 
 Right, then I’ll get a dessert. It’s pretty hot, so ice-cream sounds good right now.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Okay, have you decided on what you want? I’ll call over a waiter! Excuse meee!! ☆
 {% endbubble %}
 
@@ -292,7 +292,7 @@ Oh wait, the waiter’s here. Let's quickly order first.
 This is all over the place… Meh, guess that’s just like you, though.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ahaha, yeah, and meanwhile people like Isara are really good at efficiently getting things done! It’s impressive! I should learn from him…! Life is all about learning! ☆
 
 Alright, now that we're done with our orders, it’s time to talk about this.

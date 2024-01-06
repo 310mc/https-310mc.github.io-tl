@@ -73,7 +73,7 @@ Wait, don't tell me you saw what I did just now…!?
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               Fuhaha! An ally of justice never feels exhaustion! Nor do they feel fear either, by the way…☆
               {% endbubble %}
               {% bubble Chiaki surprised0 %}
@@ -129,7 +129,7 @@ Wait, don't tell me you saw what I did just now…!?
 
 {% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_2.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Trick or Treat! Any naughty kids around~!?[^1]
 
 Fuhaha! That isn't what a Jiangshi would say? Great comeback!
@@ -163,7 +163,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 
               Come on, give me candy already! If you don't, I'll transform into a wolf and eat up the red riding hood![^2]
               {% endbubble %}
-              {% bubble Chiaki grin %}
+              {% bubble Chiaki grin2 %}
               Fuhahaha! ☆ I'm basically abandoning the jiangshi set-up at this point, but I'm happy that we're enjoying Halloween to our heart's content!
 				{% endbubble %}
 			</div>
@@ -193,7 +193,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 
               Mm? I'm acting completely different from how I was earlier…?
               {% endbubble %}
-              {% bubble Chiaki smug3 %}
+              {% bubble Chiaki niyaclosed %}
               Ha ha ha! That was simply my disguise to keep out of the public eye! This perfect, flawless figure is the *real* me…☆
 				{% endbubble %}
 			</div>
@@ -266,7 +266,7 @@ I hope the juniors also got to feel something through this event in their own re
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki grin %}
+            	{% bubble Chiaki grin2 %}
               You're right, I hope so! No, I'll believe in it…☆
 
               Mhm, mhm. I feel like I was endlessly teased throughout the sleepover party, but I'll believe in them!

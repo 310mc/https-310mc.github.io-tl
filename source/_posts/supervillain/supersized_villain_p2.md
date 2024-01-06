@@ -80,7 +80,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 <th>(Every morning, you begin by greeting everyone energetically.)</th>
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Gooood mooorniiing!!
 
 Morisawa Chiaki from RB, ready for duty!
@@ -96,7 +96,7 @@ Good job.
 It’s good that you have energy, but your voice is a little too loud. Keep it down.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yes, sir! I’m very sorry about that! I’m still not used to working at Crimson Production!
 {% endbubble %}
 
@@ -104,7 +104,7 @@ Yes, sir! I’m very sorry about that! I’m still not used to working at Crimso
 No excuses. When you’re scolded—
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I must apologize! It’s all my fault, sir! I’m so sorry!
 {% endbubble %}
 
@@ -144,7 +144,7 @@ Indeed, he did not seem to have any energy. Maybe he caught a cold from the sudd
 That’s still inexcusable. All of you, including “Morisawa” — Follow after me. We’ll shake him out of bed.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Roger that, Taichou!
 {% endbubble %}
 
@@ -172,7 +172,7 @@ When I call for you, you must put aside your other duties and assemble before me
 You will work as RB, idols representing Crimson Production, and earn money for the agency.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yes, sir! Everything is for the sake of RB — for the glory of Ryuseitai Black!
 {% endbubble %}
 
@@ -246,7 +246,7 @@ midori\~! come on out\~!
 Your mother is crying for you!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You’re completely surrounded! There’s nowhere for you to escape! Fuhahahaha!! ☆
 {% endbubble %}
 
@@ -302,7 +302,7 @@ If you’re actually surprised, then that just means you never <em>once</em> und
 Besides, we all decided that we’d stay here together. I don’t wanna be the only one who’s left out.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah. Let’s all work together to accomplish this mission.
 {% endbubble %}
 
@@ -338,7 +338,7 @@ This is because we would’ve faced problems with procedures if we performed und
 We just went from “Ryuseitai” to “Ryuseitai Black”… I don’t feel like much has changed.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I like it, it reminds me of Kamen Rider!
 {% endbubble %}
 
@@ -631,7 +631,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “Ryusei Black! Nagumo Tetora!”
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 “The black heart is the embodiment of the wicked! Loathing all humans and all sins!”
 
 “Ryusei Black No.2, Morisawa Chiaki!”

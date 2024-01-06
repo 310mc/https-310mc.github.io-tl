@@ -70,7 +70,7 @@ No matter how stained with mud I get, I'll continue to run down the path of hard
 
 {% img /img/es/anniversary/8th/quotechiaki.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You can always call my name if you ever need me! I'll always come rushing for you at full speed for the sake of making you smile…☆
 {% endbubble %}
 
@@ -115,7 +115,7 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
             It's the perfect use of a wide venue.
         </div>
         <div class="minitalk-option_content">
-        {% bubble Chiaki grin %}
+        {% bubble Chiaki grin2 %}
         Yep! I'm excited just thinking of how many people will get to experience our performance.
         {% endbubble %}
         {% bubble Midori frown %}

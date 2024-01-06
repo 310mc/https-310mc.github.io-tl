@@ -343,7 +343,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 Ahh, I’m so depressed…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 You seem to have surpassed your limits during Tropical Live, Takamine. But it’ll be alright! Now that you’ve conquered your duties as commander, you can definitely do anything!
 {% endbubble %}
 
@@ -427,7 +427,7 @@ They went through all this effort just for us… They are truly refined~♪
 Your love got through to ‘em, huh, Midori-kun?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ooh, and there’s even a mascot company who watched our live show, and has sent a request for us to collaborate with their mascot…?
 
 This is wonderful news, Takamine. Your likes seems to have brought us new encounters~♪

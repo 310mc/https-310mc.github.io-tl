@@ -106,7 +106,7 @@ Oh, substitutes are fine, huh? Then I’d like you to say all’a these embarras
 Honestly, I have nights where I cringe in my bed just rememberin’ how embarrassing it is.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 We shouldn’t waste our breath on pointless chatter! I’ll be substituting for Kanata as well, as his whereabouts are unknown!
 
 The blue flame is the mark of mystery! The water planet[^1], shining within the universe!
@@ -140,7 +140,7 @@ Uu~… The green flame is the mark of compassion-something-something-Ryusei Gree
 Not only did you say it quickly, but you even chopped half of it off…!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 No matter! With the five of us together—! We are Ryuseitai…☆
 {% endbubble %}
 
@@ -154,7 +154,7 @@ No matter! With the five of us together—! We are Ryuseitai…☆
 W-What do you think, Sagami-sensei?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Please do let us know your thoughts! Although, I’m quite embarrassed to say that I feel like we still lack in some areas…! ♪
 {% endbubble %}
 
@@ -164,7 +164,7 @@ Well, there’s a ton I could say here…
 I *almost* wanna point out how weird it is to say “five of us” when there’s only three of you here, but — I’m an adult. I’ve no interest in being a nitpick with kids.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 How admirable, Sagami-sensei! You’re amazing as always! Always digging in to everything to its very core…☆
 {% endbubble %}
 
@@ -180,7 +180,7 @@ But I’m piled up with all sorts of work to do, from a whole array of lessons t
 Sensei’s busy, m’kay? I don’t have the time to watch over your hero-play.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Now, now, there’s no need to be that way!
 
 As the pride of Yumenosaki Academy, the legendary hero himself — please give a proper speech to the first years Ryuseitai, as they’re still inexperienced!
@@ -204,7 +204,7 @@ Oh yeah, he’s a graduate of the school, isn’t he… and Ryuseitai’s histor
 Was he in Ryuseitai in the past…?
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Indeed he was! Sensei was Ryusei Rainbow once upon a time! He’s the legendary hero!
 
 He also appeared in a tokusatsu show on TV! I’ll play it up on the projector for us later! ☆
@@ -264,7 +264,7 @@ Until you guys grow up, us grownups’ll protect the peace of the world and all 
 That’s all I’ve got. Uh, can I get back to work now? I’m gonna have a drink tonight, so I wanna get my paperwork done <em>now</em>, alright…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yes, of course! Thank you so much, Sagami-sensei! Your words are incredibly thought provoking and phenomenal!
 
 Ahh, Sensei really is the best hero ever…☆
@@ -288,7 +288,7 @@ Stooop, don’t wave at me… Now everyone’s looking over here…
 I’m enjoying my peaceful retirement, so don’t get me involved in stuff, m’kay?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! You may say that now, but you’d definitely heroically rush to our rescue if we were ever in a predicament, wouldn’t you? ♪
 {% endbubble %}
 

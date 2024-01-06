@@ -82,7 +82,7 @@ This story is connected to the card [Basketball Practice] Mao Isara.
 Alrighty, here I goo~☆
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Yeah, come on now! Bring it on, Akehoshi! Try to defeat me! Go for the shot, I’ll take on the challenge! I’ll take everything you’ve got… ☆
 {% endbubble %}
 
@@ -92,7 +92,7 @@ Uwah, he’s so obnoxious… Chi~chan-buchou’s always like this when he’s on
 It’s kinda gross, so paaass~☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Don’t run away, Akehoshi! Aren’t you a boy!? Face me head on! Strike me with everything you’ve got…☆
 {% endbubble %}
 
@@ -128,7 +128,7 @@ Takamin, get out of the way\~! Chi\~chan-senpai’s chasing me with a serious lo
 Woah—! Could you please not charge towards me…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yes, that’s it! That’s perfect, Takamine! With your tall stature, you can easily overpower the enemy team just by standing there!
 
 Absolutely wonderful! We’ll call it: “Takamine Barricade”…☆
@@ -162,7 +162,7 @@ It’s sooo obvious that Sally\~’s way more club captain-like, don’t you thi
 Who’re you calling a pervert, Akehoshi!?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But I forgive you! If you want to know why, it’s because I love you…☆
 {% endbubble %}
 
@@ -190,7 +190,7 @@ I completely forgot about that! Take a cool photo of me, okay? Sparkle~☆ *<th>
 We’re fine with it, but Makoto doesn’t really like being photographed, so make sure to be lenient on him. That being said… Can we even make money off of our photos~?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Not to worry! If there are any unsold photos, I’ll buy them all up! I’ll even decorate my whole room with your photos and admire them every day!
 {% endbubble %}
 

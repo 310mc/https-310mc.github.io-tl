@@ -1089,7 +1089,7 @@ So please, I hope that you will talk to us about everything properly, without br
 ………
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Sengoku deserves ten billion points for his deeds today.
 {% endbubble %}
 
@@ -1289,7 +1289,7 @@ Fear not, Takamine! I doubt that Akatsuki has any interest in you!
 *Hah?* I mean I *guess* that’s true, but did you have to put it that way…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Oh? Well, don’t you worry, Takamine! I’m *extremely* interested in you!
 {% endbubble %}
 

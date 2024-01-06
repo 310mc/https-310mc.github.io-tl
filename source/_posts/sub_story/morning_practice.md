@@ -80,7 +80,7 @@ This story is connected to the card [Upperclassman's Present] Midori Takamine.
 
 {% img /img/es/idolstory/morningpractice/1.jpg %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 <em><th>(Breathe in, breathe out)… (Breathe in, breathe out)</th></em>…♪
 
 Mhm, that’s Takamine’s house over there! ☆ My sixth sense tells me so…!
@@ -104,7 +104,7 @@ That’s why I’ve implemented morning practice into our program, but Takamine 
 So this is where I, the leader of Ryuseitai and captain of the Basketball Club, must come and pick him up myself!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Mhm! That’s what it means to be an upperclassman! ☆
 
 Are you watching, second-year Chiaki!? You’ve become a splendid man who picks up his junior and takes him to school~!
@@ -140,7 +140,7 @@ Oh! Takamine! You got up early today, huh!?
 Uh… Morisawa-senpai? Transfer student-san is with you, too…? What’s going on…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I only met her here by chance. That aside, Takamine! It’s morning practice, let’s go! ♪
 {% endbubble %}
 
@@ -148,7 +148,7 @@ I only met her here by chance. That aside, Takamine! It’s morning practice, le
 Morning practice… Ughhh, just the thought depresses me…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What’s wrong, Takamine! Cheer up, Takamine…☆
 {% endbubble %}
 
@@ -162,7 +162,7 @@ I mean, I only ended up in the Basketball Club ‘cause you scouted me, and it w
 Then before I knew it, I got roped into joining Ryuseitai, too… I’m so depressed…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Takamine! Did you forget that it’s called “enlisting,” not “joining”? Alright, that simply means I have to remind you…☆
 
 The red flame is the mark of justice! The sun of life, burning bright red…!
@@ -188,7 +188,7 @@ I hate attention on me, and my parents might show up if I start yelling a catchp
 Wait, if we’re gonna practice, that means everyone else is coming too, right…? Should we really be sticking around here…?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yeah, you’re right! Thankfully you’re in the mood to practice now, so I will refrain from continuing our introductions!
 {% endbubble %}
 
@@ -206,7 +206,7 @@ If it were me, I wouldn’t wanna work so hard right after transferring schools�
 But you’re not like Morisawa-senpai; you don’t yell, you’re small and cute… I feel like looking at you soothes me…♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 C’mon, Takamine! We can’t keep everybody waiting! Let’s dash straight away! ☆
 {% endbubble %}
 

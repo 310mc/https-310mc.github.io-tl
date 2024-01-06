@@ -383,7 +383,7 @@ What “enemy”… You’re both late! We were worried you wouldn’t even come
 Huh? Huh!? Sorry! The people in the shopping district took a liking to us somehow, and we ended up singing on an outdoor stage!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 The two of us sang a duet together after so long~♪
 
 Fuhaha! Worry not, Takamine! The greengrocer store is also thriving! ☆
@@ -399,7 +399,7 @@ I guess I can’t really complain though, not when you did it in my place…
 Were you able to get things done without any problems…? It does sound like it was a great success, though…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! Basically the festival guy, a former Ryuseitai member, helped us out! In the end, we gave all the work to him and rushed right over!
 {% endbubble %}
 
@@ -423,7 +423,7 @@ That aside! There are no problems over on that side, so you can enjoy yourselves
 We’ll be watching you from the audience! Watching over your very lives that inherited the heart of justice…!
 {% endbubble %}
 
-{% bubble Chiaki cry2 %}
+{% bubble Chiaki cryalmost %}
 Ahh, just seeing your majestic selves makes me feel like I'm about to burst into tears!
 
 Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your best!!
@@ -661,7 +661,7 @@ H-Heeey, you two\~? No fighting, okay\~? We’re still in the middle of our live
 hehe, that’s right~ if you were to [chatter] during [combat]… you would immediately die~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Yep! It’s just as Kanata said! This is extremely important, so carve it into your hearts! How long are you planning to let the filler arc run!? It’s time for you to get back on track with the live!
 {% endbubble %}
 
@@ -671,7 +671,7 @@ Uhya…!? Huh? Taichou? Shinkai-senpai?
 W-Why're you two on stage? And you’re even wearing clothes that match our outfits for Repayment Festival…!
 {% endbubble %}
 
-{% bubble Chiaki smug3 %}
+{% bubble Chiaki niyaclosed %}
 Is there any problems with that? We’re also Ryuseitai, at least for now!
 
 Heheh. Takamine said something particularly interesting, so when I asked Anzu about it…
@@ -751,7 +751,7 @@ But y'know, you two were meant to be our audience…
 You haven’t done any practice, right? You sure you can sing and dance alright?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha!! Don’t look down on us, Nagumo! We’re veterans holding three years of experience and hard work in the mud!
 
 It's been a while since our last transformation, but with it, we'll be able to fight on the same level as you guys!
@@ -829,7 +829,7 @@ The black flame is the mark of effort! The burning fighting spirit, stained with
 Ryusei Black! Nagumo Tetora…☆
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahaha! ☆ In my eyes, you’re already dazzling bright like the burning red sun!
 
 Protect Ryuseitai and this world’s peace… Future Taichou!
@@ -897,7 +897,7 @@ And I never gave you an answer… But now I'll answer you not with words, but wi
 Even if I did say it with words, you wouldn’t listen anyway…… So please watch my transformation closely.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line![^2]
 {% endbubble %}
 

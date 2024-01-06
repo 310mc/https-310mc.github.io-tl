@@ -134,7 +134,7 @@ Uu, I’m weak to being told that sorta stuff…
 Aight, I got it. The man known as Nagumo Tetora will do his absolute best!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 That’s the spirit, Nagumo!
 {% endbubble %}
 
@@ -146,7 +146,7 @@ But I don’t feel like we’d get anything out of studying with Morisawa-senpai
 chiaki may not seem like it, but he is actually an [honor student]~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 In fact, before we became five members in Ryuseitai, all I ever really did was study and practice, y’know?
 
 That’s how I got so good at studying! Fuhahahaha! ☆
@@ -156,7 +156,7 @@ That’s how I got so good at studying! Fuhahahaha! ☆
 Ehhh…? I’m shocked to hear that a blockhead like him can actually study well…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhaha! If it frustrates you that much, then just work harder on your own studies, Takamine!
 {% endbubble %}
 
@@ -258,7 +258,7 @@ I’m awful when it comes to theory stuff… I’m confident in practical subjec
 Uuu~! I wish I could memorize all the test answers like the Copying Toast…![^2]
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 What’s wrong, Nagumo? You stopped moving your hand!
 
 If you’re struggling on something, I’ll teach you one-to-one!
@@ -268,7 +268,7 @@ If you’re struggling on something, I’ll teach you one-to-one!
 Whoa—! Don’t get near me outta nowhere! The room feels so hot now!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Fuhahahaha! If you can’t stand the heat, then study properly! That’s how you can avoid the shame of getting failing grades!
 
 Plus, isn’t it so much manlier to face obstacles fair and square?
@@ -282,7 +282,7 @@ Guuh~! Aight then! A man’s always got to have guts!
     <p>One hour later…</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Alright then, this is our last review. Do you think you can solve question five?
 {% endbubble %}
 
@@ -290,7 +290,7 @@ Alright then, this is our last review. Do you think you can solve question five?
 Uu~myu… I think it’s three?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Correct! Mhm, mhm! You’re starting to get it, aren’t you?
 {% endbubble %}
 
@@ -334,7 +334,7 @@ I’m sorry for sayin’ that. I always speak without a second thought, and say 
 i forgive you. your [straightforward] nature is a [good part] of you~♪
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hahaha! You guys have really outdone yourself! You’re all shining so bright!
 
 I just thought of something, but… How about we have more study sessions from here on out?
@@ -354,7 +354,7 @@ Are you being serious, Taichou-dono…?
 Studying every day…? What about practice?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Practice is also important, of course! But so is our duty as students! How about we work hard on our studies first!? That way, we won’t have to worry about any failing grades while performing our idol activities!
 {% endbubble %}
 

@@ -210,7 +210,7 @@ Either way, the shock of losing “Tropical Island Troppeys” won’t disappear
     <p>Sound of a door sliding open</p>
 </div>
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Excuuuuse meeee!
 {% endbubble %}
 
@@ -236,7 +236,7 @@ Worry not, I didn’t enter without permission. Your mother allowed me in!
 M-Mom…!? Don’t let this suffocating guy in here! Think a little more about how your own son would feel…!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 Hahaha, no need to be so shy! Aren’t we comrades who share the same spirit!?
 
 Everyone is waiting for you at the shop’s entrance! If you don’t come down, then we’ll all just have to come to your room, Takamine…☆
@@ -258,7 +258,7 @@ Ooh… I feel as though there are a lot more mascot characters here than the las
 Don’t look around so much, it’s embarrassing… It feels like you’re staring straight into my soul…
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 There’s nothing to be embarrassed about! I’ve also decorated my room with all sorts of super sentai DVDs and figurines. Being passionate about your interests is a wonderful thing!
 {% endbubble %}
 
@@ -808,7 +808,7 @@ Yeah, we just arrived a moment ago. You guys looked like you were having fun, so
 Ahaha, must’ve been a weird discussion to listen to. But you could’ve just come up to us, y’know?
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 I’m sure that you just didn’t want to spoil our fun, right? You wanted to wait until we were done talking! How admirable of you, Takamine! ♪
 {% endbubble %}
 

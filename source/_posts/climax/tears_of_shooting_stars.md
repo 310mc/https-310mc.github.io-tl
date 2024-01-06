@@ -80,7 +80,7 @@ Nagumo! Takamine! What’s the matter!? What happened here!?
 Sengoku was unusually distraught, and his explanation didn’t quite make sense!
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 But there’s no need to worry anymore! Now that the burning heart Morisawa Chiaki has come to your rescue, all your troubles will be instantly shattered!
 
 We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! ☆
@@ -94,7 +94,7 @@ We’ll all have a happy ending together with smiles on our faces! Fuhahahaha!! 
 …Taichou. I’m sorry, but please stay outta this.
 {% endbubble %}
 
-{% bubble Chiaki grin %}
+{% bubble Chiaki grin2 %}
 No need to act so distant with me, Nagumo! I wasn’t intending on intruding too much, but this is an emergency, right?
 
 The five of us together are Ryuseitai! Let’s solve our problems and worries *together!*
