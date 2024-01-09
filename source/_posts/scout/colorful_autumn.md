@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Colorful Autumn"
-date: 2021-10-29 9:10:00
+date: 2024-1-11 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]
@@ -12,13 +12,13 @@ tags:
 - Scout Story
 - Yuuki Yoshino
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them."
 permalink: colorful_autumn/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/eventname/NAMEbcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/scoutstory/colorfulautumn/midoribcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Colorful Autumn</div>
@@ -27,7 +27,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -101,21 +101,21 @@ hidden: true
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/eventname/soumaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/colorfulautumn/midoriorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/eventname/kanatabcgframe.jpg"></div>
+                <div><img src="/img/es/scoutstory/colorfulautumn/midoribcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__title">Colorful Autumn</div>
+                <div class="title-area__subtitle">彩りオータム</div>
                 <div class="title-area__start">
-                    <a href="TBA">Start Reading</a>
+                    <a href="#Chapter-1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -123,7 +123,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Autumn
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +131,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            9
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -139,7 +139,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            Yuuki Yoshino
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -147,11 +147,10 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Souma" character="Souma"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -167,7 +166,7 @@ hidden: true
                             Proofreading
                         </div>
                         <div class="value">
-                            TBA
+                            Anonymous
                         </div>
                     </div>
                 </div>
@@ -186,7 +185,7 @@ hidden: true
                         </div>
                         <div class="tab-item">
                             <div class="label">
-                                Event Duration
+                                Scout Duration
                             </div>
                             <div class="value">
                                 2016/10/30 (15:00 JST) - 2016/11/14 (15:00 JST)
@@ -202,18 +201,18 @@ hidden: true
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanataorigcg.jpg">
+                                    <img src="/img/es/scoutstory/colorfulautumn/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 7
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/eventname/kanatabcg.jpg">
+                                    <img src="/img/es/scoutstory/colorfulautumn/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Chapter 8
                                 </div>
                             </div>
                         </div>
@@ -228,33 +227,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/midoricard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/midoribcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--最高だよありがとう！	--></div>
+                                            <div class="bloomed"><!--いい色に染まってきてる？--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">[Coloration Painter] Midori Takamine</div>
+                                    <div class="card__jp">[彩りペインター] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--秋色ペイント--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--新手のゆるキャラ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -264,33 +259,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/tetoracard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/tetorabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--イラストって難しいッスね…--></div>
+                                            <div class="bloomed"><!--派手に豪快に暴れるッス！--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">[Friendship Painter] Tetora Nagumo</div>
+                                    <div class="card__jp">[友情ペインター] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--豪快ペイント--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--造形センス--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -300,33 +291,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/kanatacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/kanatabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--かんばんとんとん……♪--></div>
+                                            <div class="bloomed"><!--あおいいろはうみのいろ…♪--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">[painting with everyone] Kanata Shinkai</div>
+                                    <div class="card__jp">[みんなでぺいんと] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ゆるゆるぺいんと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--かわいい『え』--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -336,69 +323,29 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/soumacard.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
+                                        <img src="/img/es/scoutstory/colorfulautumn/soumabcard.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
+                                            <div class="unbloomed"><!--手伝いなら任せよ！--></div>
+                                            <div class="bloomed"><!--絵は繊細で奥深いであるな♪--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">[Supporter Paint] Souma Kanzaki</div>
+                                    <div class="card__jp">[助太刀ペイント] 神崎 颯馬</div>
                                     <div class="skills">
                                         <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--流麗ペイント--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--部長の呼び出し--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -413,16 +360,16 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
+                            <span>Chapter Index</span>
+                            <a href="#Chapter-1" id="none">1</a>
+                            <a href="#Chapter-2" id="none">2</a>
+                            <a href="#Chapter-3" id="none">3</a>
+                            <a href="#Chapter-4" id="none">4</a>
+                            <a href="#Chapter-5" id="none">5</a>
+                            <a href="#Chapter-6" id="none">6</a>
+                            <a href="#Chapter-7" id="none">7</a>
+                            <a href="#Chapter-8" id="none">8</a>
+                            <a href="#Chapter-9" id="none">9</a>
                         </li>
                     </ul>
                 </div>
@@ -430,3 +377,25 @@ hidden: true
         </div>
     </div>
 </div>
+
+## Chapter Index
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Translation-Notes">Translation Notes</a>
+
+## Chapter 1
+
+<div class="msr-season autumn">
+    <p><span><b>Season:</b> Autumn</span></p>
+</div>
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Classroom 1-A</span></p>
+</div>
+
+{% img /img/es/scoutstory/colorfulautumn/1.jpg %}
+
+
+<div toc>
+<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
+{% btn /translations#Gacha-Stories,, star, Index %}</div>
+
+## Translation Notes

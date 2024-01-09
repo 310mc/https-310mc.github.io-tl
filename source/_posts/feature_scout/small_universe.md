@@ -1,11 +1,11 @@
 ---
-title: "[ES!!] Small Universe (1st Half Only)"
+title: "[ES!!] Small Universe (1st Half Only!)"
 date: 2022-01-25 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Hinata]
 - [Enstars, Sora]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuumasu

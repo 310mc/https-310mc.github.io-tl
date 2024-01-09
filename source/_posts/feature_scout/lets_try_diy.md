@@ -343,7 +343,7 @@ Thank you, you two. I’m also gonna work hard to bring back this mascot’s ado
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
     </div>

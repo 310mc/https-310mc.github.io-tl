@@ -2,12 +2,12 @@
 title: "[ES!!] me, the sea, and everyone with me"
 date: 2021-11-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Kanata]
 - [Enstars, Rei]
 - [Enstars, Kaoru]
 - [Enstars, Natsume]
 - [Enstars, Chiaki]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Umeda Chitose

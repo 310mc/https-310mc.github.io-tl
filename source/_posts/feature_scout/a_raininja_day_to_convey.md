@@ -7,6 +7,7 @@ categories:
 - [Enstars, Midori]
 - [Enstars, Yuta]
 - [Enstars, Mayoi]
+- [Enstars, Ninja Association]
 tags:
 - Idol Story
 - Nishioka Maiko

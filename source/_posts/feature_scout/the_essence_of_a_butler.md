@@ -2,6 +2,7 @@
 title: "[ES!!] The Essence of a Butler"
 date: 2021-11-25 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Yuzuru]
 - [Enstars, Keito]
 - [Enstars, Midori]
@@ -9,7 +10,7 @@ categories:
 - [Enstars, Hiiro]
 - [Enstars, Tori]
 - [Enstars, Aira]
-- [Enstars, ES!!]
+- [Enstars, Keito Lecture]
 tags:
 - Idol Story
 - Yuumasu

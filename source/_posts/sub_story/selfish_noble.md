@@ -2,9 +2,9 @@
 title: "[ES!] Hiyori Tomoe – Selfish Noble"
 date: 2017-07-11 9:00:00
 categories:
+- [Enstars, ES!]
 - [Enstars, Hiyori]
 - [Enstars, Jun]
-- [Enstars, ES!]
 - [Enstars, Eve]
 tags:
 - Idol Story

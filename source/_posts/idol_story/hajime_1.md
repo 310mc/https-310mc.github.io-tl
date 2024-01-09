@@ -2,8 +2,8 @@
 title: "[ES!!] Hajime Shino – Idol Story 1"
 date: 2020-03-16 9:05:00
 categories:
-- [Enstars, Hajime]
 - [Enstars, ES!!]
+- [Enstars, Hajime]
 tags:
 - Idol Story
 - Akira

@@ -2,10 +2,10 @@
 title: "[ES!!] Together, We Are the Bodybuilding Bros!"
 date: 2021-7-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Tetora]
 - [Enstars, Jun]
 - [Enstars, Midori]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Umeda Chitose

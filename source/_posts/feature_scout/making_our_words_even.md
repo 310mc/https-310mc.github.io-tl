@@ -2,9 +2,9 @@
 title: "[ES!!] Making Our Words Even"
 date: 2023-4-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Yuta]
 - [Enstars, Midori]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Umeda Chitose
@@ -406,7 +406,7 @@ Um, no… That um, really *does* sound like a pain…
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
     </div>

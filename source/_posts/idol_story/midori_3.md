@@ -2,9 +2,9 @@
 title: "[ES!!] Midori Takamine – Idol Story 3"
 date: 2020-03-16 9:03:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Hajime]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuumasu

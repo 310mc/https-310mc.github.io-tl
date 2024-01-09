@@ -2,10 +2,10 @@
 title: "[ES!!] Do The Norm"
 date: 2020-08-25 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Aira]
-- [Enstars, ES!!]
 - [Enstars, Basketball Club]
 tags:
 - Idol Story

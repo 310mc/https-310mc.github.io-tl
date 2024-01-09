@@ -2,11 +2,11 @@
 title: "[ES!!] Staying True To Myself"
 date: 2021-10-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Tetora]
 - [Enstars, Shinobu]
 - [Enstars, Mao]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Umeda Chitose
@@ -487,7 +487,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
     </div>

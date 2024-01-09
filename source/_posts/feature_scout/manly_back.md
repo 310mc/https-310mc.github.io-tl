@@ -2,6 +2,7 @@
 title: "[ES!!] Manly Back"
 date: 2023-3-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Tetora]
 - [Enstars, Arashi]
 - [Enstars, ES!!]

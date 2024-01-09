@@ -2,11 +2,11 @@
 title: "[ES!!] Party Animal Invasion"
 date: 2021-03-10 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Adonis]
 - [Enstars, Niki]
 - [Enstars, Rinne]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuumasu
@@ -99,7 +99,7 @@ This story is connected to the card [Parfait of Pure Bliss] Midori Takamine.
 H-Hello…?
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Oh, Takamine.
 {% endbubble %}
 
@@ -109,21 +109,21 @@ What’s wrong? Is there something on your mind…?
 <th>(Ah, crap—I spoke more than necessary ‘cause he seemed to be at a loss over something. I was only planning to greet him and move on with my life…)</th>
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Mm, I came here to try the new desserts they added to the menu, but I can’t decide which one to eat.
 
 I suppose I could get both, but I wouldn’t be able to savor them nearly as much with my attention split between the two.
 {% endbubble %}
 
 {% bubble Midori %}
-<th>(Whaaat, that’s *it…*?)</th>
+<th>(Whaaat, that’s <em>it…?</em>)</th>
 
 Um… Then how about we each order one? I’m actually here for a parfait, myself.
 
 And if either of us wanna try the other’s dessert, we could always share a bit…
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Does that mean you’ll eat with me? Thank you. You’re very kind, Takamine.
 {% endbubble %}
 
@@ -137,7 +137,7 @@ Welcome~!
 Oh, it’s the veggie boy and the meat boy![^1] Feel free to take a seat wherever you like~♪
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Shiina-senpai calls you the veggie boy, I see.
 {% endbubble %}
 
@@ -155,7 +155,7 @@ Everyone agreed to add your Mascot Character Parfait to the menu! You’re total
 Umm… Otogari-senpai, may I get the Mascot Character Parfait?
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Of course, go ahead. I thought the cute animal-designed ice cream was an impressive idea—
 
 But it never occurred to me that you might’ve been the one behind it. You’re incredible, Takamine.
@@ -167,7 +167,7 @@ Oh, no… I just thought of all my greatest dreams and put them together into a 
 <th>(Otogari-senpai really goes right to praising, huh… He’s so genuine about it that it makes me feel awkward…)</th>
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Shiina-senpai, I’d like the Pretty Pudding a la Mode.
 {% endbubble %}
 
@@ -229,7 +229,7 @@ Eep!? He sliced the mascot’s face in half…
 This is the most efficient way to eat it~♪ *<th>(Nom, nom)</th>*
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Shiina-senpai, your manner of eating is quite pleasing to the eye; you ate so much of it in one clean bite.
 {% endbubble %}
 
@@ -247,7 +247,7 @@ Shiina-senpai, your manner of eating is quite pleasing to the eye; you ate so mu
 <th>(I’ll eat it once the ice cream starts to melt. For now, I’ll enjoy looking at it for as long as I can…♪)</th>
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 You look really happy, Takamine.
 {% endbubble %}
 
@@ -255,7 +255,7 @@ You look really happy, Takamine.
 Huh? Y-You think so…? I love mascots, and, um… I’m sorry if you think that’s creepy.
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Not at all. It makes me happy to see someone else enjoy what they love from the bottom of their heart.
 
 Don’t mind me. Please keep enjoying yourself.
@@ -275,7 +275,7 @@ Um, I did wanna visit it, but… When I was out walking the other day, people ke
 So I’ve been trying to be careful about when I go out… It doesn’t help that those sorta places usually have lots of girls, too…
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 I know how you feel, Takamine. I have a hard time going to cute shops, myself.
 
 Though, I’m also quite interested in that bakery…
@@ -315,7 +315,7 @@ Well, if it isn’t Otto~ and Midorinrin! You two seem to be eatin’ somethin�
 Why dontcha share a bite or two with your bro here? C’mon, I’m only askin’ for a li’l…♪
 {% endbubble %}
 
-{% bubble Adonis %}
+{% bubble Adonis norsmile %}
 Is “Otto~” meant to be me?
 {% endbubble %}
 
@@ -365,7 +365,7 @@ Is “Otto~” meant to be me?
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
     </div>
@@ -406,5 +406,5 @@ Is “Otto~” meant to be me?
 
 ## Translation Notes
 
-[^1]: He calls Midori by this name in The Magician's Delivery, too.
+[^1]: He calls Midori by this name in <a href="https://bakemonoremy.dreamwidth.org/64530.html" target="_blank">The Magician's Delivery</a>, too.
 [^2]: The Wasteful Ghost was previously mentioned in <a href="/biblio" target="_blank">Biblio</a>.

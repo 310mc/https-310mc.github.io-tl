@@ -2,9 +2,9 @@
 title: "[ES!!] Hinata Aoi – Idol Story 3"
 date: 2020-03-16 9:07:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Hinata]
 - [Enstars, Midori]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuuki Yoshino

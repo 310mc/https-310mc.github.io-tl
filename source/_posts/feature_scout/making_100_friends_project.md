@@ -2,11 +2,11 @@
 title: "[ES!!] Making-100-Friends Project"
 date: 2020-06-25 9:00:00
 categories:
+- [Enstars, ES!!]
 - [Enstars, Midori]
 - [Enstars, Hinata]
 - [Enstars, Sora]
 - [Enstars, Mitsuru]
-- [Enstars, ES!!]
 tags:
 - Idol Story
 - Yuumasu
@@ -335,7 +335,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
 <div class="story">
     <div class="image">
         <img
-            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
     </div>

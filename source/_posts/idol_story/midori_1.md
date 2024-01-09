@@ -2,8 +2,8 @@
 title: "[ES!!] Midori Takamine – Idol Story 1"
 date: 2020-03-16 9:00:00
 categories:
-- [Enstars, Midori]
 - [Enstars, ES!!]
+- [Enstars, Midori]
 tags:
 - Idol Story
 - Akira
