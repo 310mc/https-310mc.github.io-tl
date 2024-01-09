@@ -161,6 +161,9 @@
 [character="Midori"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori2.png");
 }
+[character="Midori"][v3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori3.png");
+}
 
 
 [character="Midori"][swthlwocg] {
@@ -2350,6 +2353,13 @@
   --name: "Aquarius";
   --hue: 193.8;
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
+}
+
+[character=MidoriJun]{
+  --color: #192f60;
+  --hue: 221.4;
+  --name: "Midori & Jun";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_midorijun.png")
 }
 
 [character=MakotoChiaki]{

@@ -189,13 +189,13 @@ Oh, and this eggplant is for you. It's my thanks for helping me out, so please t
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You two are close, huh?
+            You're very close, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori sigh %}
-            *Huh*? Do you mean me and Morisawa-senpai?
+            *Huh?* Do you mean me and Morisawa-senpai are close?
 
-            Whaaat, no way… How did you even reach that conclusion…?[^1]
+            Whaaat, no way… What made you think we're on close terms…?[^1]
 			{% endbubble %}
         </div>
     </div>

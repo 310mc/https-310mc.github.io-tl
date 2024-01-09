@@ -79,7 +79,7 @@ Would you like to sit here for lunch?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora %}
-            Don'tchu worry 'bout it! Did you bring your own lunchbox today?
+            Don'tchu worry about it! Did you bring your own lunchbox today?
 
             I'm having the kalbi meal! I'm gonna gobble this all up and work hard on the rest of my classes~♪
 			{% endbubble %}
@@ -130,7 +130,7 @@ I get so into the game that I almost lose sleep over it.
             {% bubble Tetora %}
             That'd be awesome! Let's play together after we eat!
 
-            We'll friend each other in-game. Couldja gimme your player ID, please?
+            We'll friend each other in-game. Couldja give me your player ID, please?
 			{% endbubble %}
         </div>
     </div>

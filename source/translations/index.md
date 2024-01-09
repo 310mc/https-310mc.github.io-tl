@@ -894,6 +894,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/readhandlebooks/c2.jpg"
+            alt="How to Read Books and Handle Them"
+        />
+    </div>
+    <a href="/how_to_read_books_and_handle_them" class="storyName" target="_blank">
+        <span>How to Read Books and Handle Them</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/manlyback/c1.jpg"
             alt="Manly Back"
         />

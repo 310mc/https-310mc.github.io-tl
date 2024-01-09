@@ -487,6 +487,18 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/idolstory/readandhandlebooks/c2.jpg"
+            alt="How to Read Books and Handle Them"
+        />
+    </div>
+    <a href="/how_to_read_books_and_handle_them" class="storyName" target="_blank">
+        <span>How to Read Books and Handle Them</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
         />

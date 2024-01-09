@@ -84,7 +84,7 @@ Yeah, basically.
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-We tried to work it out on our own at first, but we couldn’t come up with anything good enough… so we decided to go back to the basics!
+We tried to work it out on our own at first, but we couldn’t come up with anythin’ good enough… so we decided to go back to the basics!
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -100,7 +100,7 @@ mm~? what would be [different] about that? hasn’t shinobu been doing [that] al
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Yeah, he didn’t make anything out of those ideas, but there’s gotta be a reason behind all that!
+Yeah, he didn’t make anythin’ out of those ideas, but there’s gotta be a reason behind all that!
 
 So we’re gonna brainstorm what went wrong, make improvements on the idea, and try it again!
 {% endbubble %}

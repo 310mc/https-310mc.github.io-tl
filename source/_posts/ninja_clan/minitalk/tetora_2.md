@@ -177,7 +177,7 @@ I know exactly how much heart and soul he put into it, so I wanna do whatever I 
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora %}
-            Oh yeaaah, something like that happened, right?
+            Oh yeaaah, somethin' like that happened, right?
 
             Midori-kun told me 'bout it. Shinobu-kun got super excited by the thought of finally finding a real ninja scroll, yeah?
 			{% endbubble %}

@@ -343,7 +343,7 @@ Alright then! I’m going to do my absolute best to make people recognize the ch
 {% endbubble %}
 
 {% bubble Tetora frown %}
-Midori-kun, it’s about time we go meet the others, y’know! We gotta get going fast!
+Midori-kun, it’s ‘bout time we go meet the others, y’know! We gotta get going fast!
 {% endbubble %}
 
 {% bubble Midori angry %}
@@ -369,7 +369,7 @@ Tetora-kun, Midori-kun, you were both here already?
 {% bubble Tetora v2 %}
 Ah, Shinobu-kun! Wassup~!
 
-Were you about to head to the meeting spot, too?
+Were you ‘bout to head to the meeting spot, too?
 
 I met Midori-kun at the entrance, so we were gonna head over together… But then he stopped in his tracks at this souvenir shop.
 {% endbubble %}
@@ -379,7 +379,7 @@ Ermm… Which one should I go with…? I can’t decide…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-How about you decide on one after we finish with our live show? You’re just gonna keep on going at this rate.
+How ‘bout you decide on one after we finish with our live show? You’re just gonna keep on going at this rate.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -409,7 +409,7 @@ Indeed. But there’s nobody around, so it must truly just be my imagination. I�
 {% endbubble %}
 
 {% bubble Tetora worried %}
-I can understand feeling that way once or twice, but you’ve felt this way a bunch of times by now… You sure it isn’t something serious? Like a stalker or something…
+I can understand feeling that way once or twice, but you’ve felt this way a bunch of times by now… You sure it isn’t somethin’ serious? Like a stalker or somethin’…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

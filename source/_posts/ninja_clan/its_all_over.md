@@ -132,7 +132,7 @@ It won’t be as terrifying if we die together, so don’t you wanna go to the a
 {% endbubble %}
 
 {% bubble Tetora worried %}
-Uhh, could you not say something straight outta a horror movie…?
+Uhh, could you not say somethin’ straight outta a horror movie…?
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -182,7 +182,7 @@ Speaking of time… It’s been a while now since Shinobu-kun got called over by
 {% endbubble %}
 
 {% bubble Tetora curious %}
-Huh, you’re right. He’d usually contact us if something came up.
+Huh, you’re right. He’d usually contact us if somethin’ came up.
 
 Hmm… How about we check how he’s doing if he doesn’t come back anytime soon?
 {% endbubble %}

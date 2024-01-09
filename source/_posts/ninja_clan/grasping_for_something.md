@@ -64,7 +64,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
 </div>
 
 {% bubble Tetora serious %}
-Uumyu… I had no idea something so serious was happening while we were just sitting here, messing around playing a game.
+Uumyu… I had no idea somethin’ so serious was happening while we were just sitting here, messing around playing a game.
 {% endbubble %}
 
 {% bubble Shinobu sad %}
@@ -144,7 +144,7 @@ Huh? What?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Dontcha remember? When you mentioned you wanted more club members, I told you that I’d do anything for you in order to make that happen, since we’re so indebted to you.[^2]
+Dontcha remember? When you mentioned you wanted more club members, I told you that I’d do anythin’ for you in order to make that happen, since we’re so indebted to you.[^2]
 
 You’re fine with that, right, Midori-kun?
 {% endbubble %}
@@ -156,11 +156,11 @@ Mhm, sure. We have time before our on-campus live show, so we don’t *have* to 
 {% img /img/es/eventstory/ninjaclan/tetoraorigcg.jpg %}
 
 {% bubble Tetora v2 %}
-Yeah, and besides! If one person can’t think up something on their own, then with three people we’ll have three heads to brainstorm with—
+Yeah, and besides! If one person can’t think up somethin’ on their own, then with three people we’ll have three heads to brainstorm with—
 
 Which means we’ll be three times smarter!
 
-We’ll be invincible together! We’ll turn as smart as a supercomputer, and come up with something good, don’tchu worry!
+We’ll be invincible together! We’ll turn as smart as a supercomputer, and come up with somethin’ good, don’tchu worry!
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -170,7 +170,7 @@ Like, are you imagining it like a handy cat robot who can do anything or somethi
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Huh? Am I wrong? I thought they were like, super duper intelligent computers or something.
+Huh? Am I wrong? I thought they were like, super duper intelligent computers or somethin’.
 
 Anyway, the details don’t matter! The point is, we’ll make it through with the three of us!
 {% endbubble %}
@@ -258,7 +258,7 @@ To make matters even worse, my desperate act to invite any of them into the club
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-I-I’m sorry ‘bout that. You desperately trynna get them to join was starting to freak ‘em out… I *had* to do something ‘bout it.
+I-I’m sorry ‘bout that. You desperately trynna get them to join was starting to freak ‘em out… I *had* to do somethin’ ‘bout it.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -342,7 +342,7 @@ Basics…?
 {% bubble Tetora v2 %}
 That's how karate practice works! Once you’re more capable of moving your body in a certain way, you start wanting to practice applying that to new martial arts, right? But you reach your limit pretty fast like that.
 
-That’s when you go back to the fundamental steps! You may notice something you weren’t able to recognize in the past!
+That’s when you go back to the fundamental steps! You may notice somethin’ you weren’t able to recognize in the past!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -424,7 +424,7 @@ Indeed… Did they have a job to deal with all of a sudden?
 {% endbubble %}
 
 {% bubble Tetora northinking %}
-Hmm, I think they’d contact us if it was something like that, though.
+Hmm, I think they’d contact us if it was somethin’ like that, though.
 
 Midori-kun, didn’t you send them a message yesterday?
 
@@ -568,7 +568,7 @@ You see? I told you it’d work perfectly on them.
 {% endbubble %}
 
 {% bubble Tetora frown %}
-Don’t look so smug about it… You wouldn’t typically understand a message like that, so make sure to type it up properly next time, ‘kay?
+Don’t look so smug ‘bout it… You wouldn’t typically understand a message like that, so make sure to type it up properly next time, ‘kay?
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -604,11 +604,11 @@ I-I’m not holding back anything, though…? While I’m grateful to receive a 
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Aight, aight, let’s stop here! This is just about eggplants now. We’re supposed to talk about Shinobu-kun’s concerns today!
+Aight, aight, let’s stop here! This is just ‘bout eggplants now. We’re supposed to talk ‘bout Shinobu-kun’s concerns today!
 
 But I *am* glad to hear you understood the message, despite how fishy it sounded. I thought you’d brush it off as a prank at first.
 
-I was actually just about to call you guys, in case you really weren’t coming.
+I was actually just ‘bout to call you guys, in case you really weren’t coming.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}

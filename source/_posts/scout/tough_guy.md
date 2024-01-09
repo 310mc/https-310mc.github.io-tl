@@ -576,7 +576,7 @@ Ehhh, you’re just doing whatever you like… It sounds like a huge pain in the
 {% bubble Chiaki niyaclosed %}
 Fuhaha, then I’ll throw that pass back at you!
 
-If you don’t shoot, you won’t score! If you don’t score, you won’t be able to win! Whether it’s in basketball or in life! So, Takamine, it’s time! Show me your slam dunk…☆
+If you don’t shoot, you won’t score! If you don’t score, you won’t win! Whether it’s in basketball or in life! So, Takamine, it’s time! Show me your slam dunk…☆
 {% endbubble %}
 
 {% bubble Midori frownshake %}
@@ -1268,7 +1268,7 @@ No— Erm, yeah, it’s exactly as Takamine said! This is so much fun; it’s li
 {% endbubble %}
 
 {% bubble Midori shocked %}
-Um, hold on… What was that about me being similar to how Morisawa-senpai used to be…? I’d like to sue for defamation based on what that means…
+Um, hold on… What was that about me being similar to how Morisawa-senpai used to be in the past…? I’d like to sue for defamation based on what that means…
 {% endbubble %}
 
 {% bubble Kuro norsmile %}
