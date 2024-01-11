@@ -577,9 +577,701 @@ But… If we end up having a lot of customers on the day of the fair, then I mig
 ‘Course! You’re my friend after all, I’d be happy to help you out~♪
 {% endbubble %}
 
-## Chapter 7
+## Chapter 2
+
+{% note location %}
+**Location:** School store
+{% endnote %}
 
 {% bubble Tetora %}
+<th>(Ugh~… I can’t see what’s in front of me ‘cuz of all the students rushing to the school’s store.)</th>
+
+<th>(I didn’t expect there to be this many people here. I underestimated the crowd during break time. I should’ve come a lot earlier…)</th>
+
+<th>(Taishou always prepares lunch for me, so I completely forgot how crowded it gets.)</th>
+
+<th>(But I can’t keep relying on Taishou! It’s time to be an adult!)</th>
+
+<th>(…Speaking of Taishou, it’s pretty rare for him to sleep in and forget to make me a lunchbox.)</th>
+
+<th>(He said something about watching a late night variety show, but I don’t really get it since I never stay up late.)</th>
+
+<th>(According to him, it’s a pretty good show, which does make me wanna watch it…)</th>
+
+<th>(But I’ve got a habit of sleeping before 11 PM, and even if I sit with my legs folded in front of the TV, I’d fall right to sleep.)</th>
+
+<th>(It’s not even good for your health anyway, so sleeping early and waking up early is definitely the best~♪)</th>
+
+<th>(Woah— I spaced out so much that the bread’s ‘bout to be sold out!)</th>
+
+<th>(The popular yakisoba bread is already sold out, huh…)</th>
+
+<th>(The cutlet curry bread is… Ooh, it’s the last one! Gonna get it before it’s gone~♪)</th>
+{% endbubble %}
+
+{% bubble Midori %}
+…………
+{% endbubble %}
+
+{% bubble Tetora %}
+Wha— Don’t just cut in! Everyone’s in a queue, so you should line u—… Wait, Midori-kun?
+{% endbubble %}
+
+{% bubble Midori %}
+I’m sorry… I’m sorry for being alive…
+{% endbubble %}
+
+{% bubble Tetora %}
+T-That’s so heavy!? Ah, uh, I didn’t mean to be so harsh, okay…?
+
+It’s also my fault for getting angry. The people behind us are also saying it’s okay to line up here! What good people~♪
+
+Are you here to buy lunch, too? It’s the same with me, I’m getting bread instead of eating from a lunchbox. Since the weather's good today, how about we eat together outside?
+
+Oh, but you mentioned something ‘bout eating that carrot dish, right?
+
+What happened to it? I know it’s weird for me to say this since I don’t like carrots, but it’s a waste to throw it away.
+{% endbubble %}
+
+{% bubble Midori %}
+Ahh… Don’t worry, I ate it… I had this extreme urge to stress eat…
+
+Uugh, I won’t make it unless I eat more… I don’t wanna face reality, I wanna run awaaaaayyyy…
+{% endbubble %}
+
+{% bubble Tetora %}
+H-Hey, don’t crush the bread! The insides are splattering everywhere! You’re gonna make the clerk mad!
+
+I dunno what happened, but don’t bottle it up; talk to me. You’ll feel better if you talk it out to someone, y’know?
+{% endbubble %}
+
+{% bubble Midori %}
+I wonder… Would venting out these feelings swirling endlessly within me really help…
+{% endbubble %}
+
+{% bubble Tetora %}
+Ooh, yeah, you’re giving off an aura that somethin’ big happened~
+
+You were fine during classes though, so what happened in the short time between then and now?
+{% endbubble %}
+
+## Chapter 3
+
+{% bubble Midori %}
+Tetora-kun, you know about it, so maybe it’s okay…
+
+I think I told you about the cooking I’ve been doing for the autumn fair, but I ended up getting even more work, and I feel at my wits end…
+
+Like, fine, there’s been a mistake with the order and now there won’t be enough signboards, but it’s not <em>my</em> responsibility…
+
+But then they told me, “Well *you’re* the one who drew the picture, so you know the design best”, and I couldn’t retort back…
+{% endbubble %}
+
+{% bubble Tetora %}
+Erm, I’m guessing you mean your parents made a mistake with the order, right? Is it possible to ask them to order more signboards?
+{% endbubble %}
+
+{% bubble Midori %}
+There’s only a few days left until the fair, so even if they did make an extra order, it wouldn’t make it in time…
+
+If it’s just drawing, I could make it in time by myself in the worst case, but I was told to make the signboards as well… They’re asking for way too much…
+{% endbubble %}
+
+{% bubble Tetora %}
+Yeah, making a signboard means it’s a job that requires strength.
+
+I bet if Taichou was here, he’d say “What worth would we be if we ignored a comrade in trouble!?”
+
+I dunno how much I can do for you, but I’ll help you out~♪
+{% endbubble %}
+
+{% bubble Midori %}
+Are you sure it’s okay…?
+
+I should be able to ask my parents for an extra reward, but it’s still gonna be a pretty small amount… so whatever I can give you is gonna be a droplet, y’know…?
+{% endbubble %}
+
+{% bubble Tetora %}
+I’m not offering to help you for money though.
+
+As a man, I can’t ignore a comrade in trouble. And Ryuseitai has nothing to do right now, so it’s just perfect timing~♪
+
+Now that that’s decided, it’s time to get to work immediately! We can make the food in the school’s kitchen.
+
+Even if I can’t buy some bread, we can make some food and eat it. It’ll be two birds with one stone~♪
+{% endbubble %}
+
+{% bubble Midori %}
+Ah, I actually need more help with working on the drawing than that…
+
+I said I could make it in time with the drawing, but that’s if I don’t sleep or take breaks at all…
+
+I cooked enough food for the fair, now what’s left is choosing which food is best to focus on… Sorry for letting you down…
+{% endbubble %}
+
+{% bubble Tetora %}
+It’s all good. It’s a shame I lost my chance to cook food, but maybe I can be of more help with the drawing.
+
+And whenever I deal with fire, everything just becomes charred black, yeah~?
+{% endbubble %}
+
+{% bubble Midori %}
+Yeah… Charred black veggies wouldn’t be good for your body…
+
+Now that you’ll be helping me, I think I’m feeling a little better…
+
+But we need to make the signboards too, so I can’t say we have enough hands for the job…
+{% endbubble %}
+
+{% bubble Tetora %}
+What about asking for Taichou, Shinkai-senpai, or even Sengoku-kun for help? The five of us together make Ryuseitai, after all. Anego’s also saying “Let me know if I can be of help”…
+
+Wait, Anego?!
+
+Hey, ‘suup~! ☆ I didn’t notice you at all, since when were you here?
+
+Only a second ago? You don’t have to apologize for listening into our conversation~
+
+You were looking for a chance to join our conversation, right? You’re always being considerate ‘bout that sorta thing~
+{% endbubble %}
+
+{% bubble Midori %}
+Anzu-san…!
+
+You really are a savior, Anzu-san! As long as the Mascot Goddess is here, we have all the hands we need…☆
+{% endbubble %}
+
+{% bubble Tetora %}
+Midori-kun, Midori-kun… If you praise Anego in a weird way she’s gonna feel awkward.
+{% endbubble %}
+
+{% bubble Midori %}
+S-Sorry, I got excited…
+
+Just the thought of having Anzu-san draw those designs made my exhaustion disappear. Uwaah uwaah, I’m sooo happy…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Uhh, Anego? Midori-kun is totally thinking that you’re gonna be helping us out…
+
+Haha, you were already thinking of doing that anyway, okay. I don’t mean this the same way Midori-kun does, but you’re definitely a savior who would reach a hand out to anyone~♪
+
+I’ll also help out as much as I can! But before that, it’s time for lunch.
+{% endbubble %}
+
+{% bubble Midori %}
+You’re the one who first suggested it, but how about we eat outside… Are you done buying your food too, Anzu-san?
+
+Then let’s go…♪
+{% endbubble %}
+
+## Chapter 4
+
+{% note location %}
+**Location:** Water fountain (Autumn)
+{% endnote %}
+
+{% bubble Tetora %}
+Hmm… Ah! There’s a free bench; I’m gonna reserve it before it’s taken~!
+{% endbubble %}
+
+{% bubble Midori %}
+Tetora-kun, you should only run after looking around you. If you end up bumping into someone, the food might get ruined…
+{% endbubble %}
+
+{% bubble Tetora %}
+Y-You’re right… My body just ended up moving without thought.
+
+There’s a lot of people here, so…
+
+I’ll carefully go to the bench without bumping into anything… Woah—
+
+Aaah! The bread fell into the fountain! It’s in a bag though, so it should still be safe…?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+sploosh…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Wha—!? Somethin’ came outta the fountain!?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+was the item you dropped [fish bait], or was it a [jellyfish plushie]?
+{% endbubble %}
+
+{% bubble Tetora %}
+Um, Shinkai-senpai? Are you bathing in the fountain again?
+
+It’s autumn now, so it’s best you stop doing that. You might really catch a cold, ‘kay?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+uu~… tetora, you have to answer the [question]. i will be sad if you [ignore] me. sob sob…
+{% endbubble %}
+
+{% bubble Tetora %}
+I-I’m real sorry! I didn’t mean to ignore it~!
+
+But I don’t even get the question. What I dropped was a bag of bread, it wasn’t bait nor a jellyfish plushie.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+tetora does not know about [aesop's fables], does he~?
+
+but, you answered [truthfully]. i will give everything including the [bag of bread] to the [honest] tetora~♪
+{% endbubble %}
+
+{% bubble Midori %}
+You’re so lucky, Tetora-kun… I could only tell it was a jellyfish when he mentioned it… Its vague, sloppy shape really soothes my heart…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Um, Shinkai-senpai. Midori-kun looks like he wants the plushie, so could I give it to him?
+
+Seeing him so happy while rubbing his cheeks on the plushie makes me feel like I shouldn’t take it away from him.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i do not mind~ i have a lot with me. anzu-san, would you like one too?
+
+no no, it is my pleasure~♪ it is [thanks] for being good friends with the [children].
+{% endbubble %}
+
+{% bubble Midori %}
+Shinkai-senpai, if you still have some time, would you like to eat with us? We bought a lot of bread, and we need more people to be able to get rid of it all…♪
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i do not like [hot food], but [bread] is [okay]. i have to eat for my [body’s] sake.
+
+but if i eat too, there will be no [bread] for midori. [children] must eat a lot, or they will not grow big, okay~?
+
+having a [small diet] is [bad].
+{% endbubble %}
+
+{% bubble Midori %}
+Ah, no, I initially bought all of this just to stress eat… I already ate enough, so no need to worry about me…
+
+Besides, I don’t wanna get any bigger than I am right now… Getting bigger height-wise is already a problem, and I wouldn’t want it to happen width-wise as well…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+[stress eating] only makes your [stress] worse~ and then you will end up eating more, only to make your [stress] even worse. it is a [vicious cycle].
+
+instead, it is better for a [child] to rely on [adults]. even [adults] rely on [others].
+
+please do not bear it by yourself and shut it [inside] your [shell].
+
+i am always here to help midori and tetora — all of you [children]…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Midori-kun, since Shinkai-senpai said all’a that, wouldn’t it be a good idea to tell him what’s going on?
+
+You said it yourself that we don’t have enough people for the signboards.
+{% endbubble %}
+
+{% bubble Midori %}
+I know, but… handling the signboards is physical work, so asking Shinkai-senpai for help with that is a little awkward…
+
+We’ll be using a hammer too, so it’s pretty dangerous…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+ehehe, please do not worry~♪ i excel in [physical work].
+{% endbubble %}
+
+{% bubble Tetora %}
+Whaa— I didn’t expect that! You don’t look fragile enough to be pushed around, but I didn’t think you’d be good at physical work.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i am the one who carried the [fish tanks] to the [marine life club]~
+
+they are [tanks] full of [fish] living inside. it would be terrible if they got [hurt], so i cannot allow [other people] to handle it…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Ooh, you have even more strength than I thought… That’s the mysterious Shinkai-senpai for you!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+ufufu, it is because getting [angry] makes me tired. i do not want to [overspend] my [energy]~
+
+hmm\~ if there are not enough [people], then maybe calling that child would be a good idea. if i were to call him, i am sure he will gladly come over…♪
+{% endbubble %}
+
+{% bubble Midori %}
+That child…? Do you mean Sengoku-kun? It’s true that he’d come if you called him over, but he isn’t fit at all for physical work…
+
+The assembly of the signboard doesn’t have to be right now, either…
+
+Besides, I don’t even have the materials yet. It’ll all be put up right on the day of the fair…
+
+What I need right now is people for the drawings, but Anzu-san is joining us for that, so I think we’ll be able to progress through a lot…
+
+Ahh, wait, I almost forgot that the design for the drawing isn’t with me right now…
+
+It’d be a huge pain to go back home for it, so I’ll just quickly draw it and have everyone use it as reference.
+
+♪\~♪\~
+
+Uh, it looks somewhat like this, do you get the feeling?
+{% endbubble %}
+
+{% bubble Tetora %}
+So a basket full of sweet potatoes and pumpkins, with chestnuts and mushrooms? They each have eyes and noses to them.
+
+There’s “Dossari-chan” written underneath the basket; is it the name of the characters?
+{% endbubble %}
+
+{% bubble Midori %}
+Yeah… I wanted to choose only one veggie, but I couldn’t… so I decided to go for a design where they’re all together…
+
+This way it looks a lot more lively and nice…♪
+
+I drew it in my notebook so it’s pretty small, but the signboards for the fair will be about half my size…
+
+First we draw the draft, and if there’s no problems with how it looks we can make it into a clean copy. That way there should hopefully be less mistakes…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+oh, so it will be a [drawing]~… souma has wonderful [handwriting], but i am not too sure about [drawing].
+
+for now, i will [call] him over and ask~
+{% endbubble %}
+
+## Chapter 5
+
+{% bubble Tetora %}
+So the person Shinkai-senpai wanted to call wasn’t Sengoku-kun, huh?
+
+I was treated to a meal by Kanzaki-senpai once, and it tasted real good.
+
+It could even match Taishou's cooking. It makes me wanna learn cooking from him.
+
+And then I’ll treat Taishou to a meal~♪
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i am sure he would teach you if you ask him.
+
+but right now we are going to work on a [drawing], not [cooking]. i will ask souma to draw as much as he can, too~
+
+of course, i will also [help] out. i am quite good at [drawing]\~ scribble scribble\~♪
+{% endbubble %}
+
+{% bubble Midori %}
+Ah, the vegetables are drawn so itty-bitty and cute…♪ It looks kinda like Shinkai-senpai’s signature — the drawing in his signature is also really cute and soothing to my heart… ♪
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+ufufu, you will make me blush with that praise. midori [excels] at praising people to show their best, yes~?
+
+let’s draw more\~ hehehe\~♪
+
+but before that, i have to call souma over~ i will message him through my [phone], although i am [worried] he will not pick it up.
+
+souma does not seem to like [digital devices].
+
+even if i [phone call] him, i will get the message “due to no battery on the other side, your call cannot reach them”, and even if it reaches him, he will close the call with a [huff].
+{% endbubble %}
+
+{% bubble Midori %}
+Anzu-san, why’re you holding your hand up…?
+
+Ahh, so you’re in the same class as Kanzaki-senpai.
+
+You’ll go to class and bring him here? Is it really okay to ask you to do something like that…?
+
+But it is true that without someone else, the burden will be too much on you… So it would really help to have one more person around…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i sent souma an [email], as well. if he reads [it], it will reduce the [time] needed to explain everything.
+
+but the [chances] of him not reading it is very [high]. he may press the wrong [button] and delete it.
+
+if that happens, i am sorry. until souma and anzu-san are here, i will take it easy and float about\~ *puka, puka\~♪*
+{% endbubble %}
+
+{% bubble Tetora %}
+Shinkai-senpai was talking so naturally that I completely forgot that he was still in the fountain. It’s ‘bout time you get outta there, y’know?
+
+Catching a cold is one thing, but it’s also reaching a point where everyone’s staring at us. Feels like the Student Council could come over anytime now.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+uu~… i wanted to [bathe] a little longer in the water…
+
+i was able to avoid letting my skin [dry] up, so i will leave it at that~♪
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Buchou-donoooo! I heard that you need me from Anzu-dono and came rushing right over!
+
+If Buchou-dono is in a predicament, I will gladly go through the fiercest of battles to aid you! What is the errand that you have for me? Please feel free to instruct me with anything!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+chooop~
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Ow!? Why did you hit my head?
+
+I made sure to make use of every second to reach here, but was I a fraction of a second too late…?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+souma, you left anzu-san behind, didn’t you? you cannot do that, okay? i will have to [punish] you at this rate.
+{% endbubble %}
+
+{% bubble Souma v2 %}
+I have no excuse as to why I left Anzu-dono behind from my hastiness.
+
+I accept any punishment you give me. I am fully prepared to commit seppuku!
+{% endbubble %}
+
+{% bubble Midori %}
+It’ll be worse if you commit seppuku here…
+
+Ah, Anzu-san. It’s a good thing you came back in time — it was about to be a bloodbath here…
+
+Shinkai-senpai, Anzu-san is back. She doesn’t seem angry, so let’s not punish Kanzaki-senpai please…
+
+If we end up finishing the drawings late ‘cause of some annoying problem, my sleep time will be reduced to nothing…
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Drawing…?
+
+Anzu-dono only told me that Buchou-dono was calling for me; could it perhaps be that you called me for assistance in creating an illustration?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+as i thought, you did not check your [email], did you, souma…
+{% endbubble %}
+
+{% bubble Souma v2 %}
+M-Mm. I left my mobile phone in my house.
+
+Hasumi-dono has repeatedly told me to bring it along with me, but I always completely forget to do so.
+
+I even forget to charge its battery often. It seems that it truly is impossible for me to deal with digital devices!
+
+That aside, I would be delighted to help if it’s alright.
+
+I do not excel at drawing, but it should still be something within my capabilities. I have to draw the picture drawn here, correct?
+{% endbubble %}
+
+{% bubble Midori %}
+Um, Kanzaki-senpai… There’s something I wanna ask you in relation to helping us out… Is that okay?
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Yes, I’m fine with any question.
+{% endbubble %}
+
+{% bubble Midori %}
+There’s gonna be an autumn fair in the shopping district… and to advertise the fair, I’d like you to work on the drawings…
+
+But we also don’t have enough people to put up the signboards, so I would like some help with that, too…
+
+Ah, I don’t have the materials for it right now though, so it’ll be done on the day of the fair.
+
+It’s rude of me to be asking so much from you though, isn’t it…
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Since the Halloween party has ended, I have free time until the next DreamFest.
+
+Buchou-dono has also requested my help, so if it’s alright I will be happy to.
+{% endbubble %}
+
+{% bubble Midori %}
+Waah, thank you so much…♪ Kanzaki-senpai is always carrying a katana, so you look like you’d be physically strong…♪
+{% endbubble %}
+
+{% bubble Souma v2 %}
+I often train with my katana, so I have quite the upper body strength — physical work should be no problem. However, we should focus on drawing the illustration right now, correct?
+{% endbubble %}
+
+{% bubble Midori %}
+Anzu-san is really good at drawing, so you can look at hers for an example…♪
+
+She’s always designing mascot character designs for me, right from scratch. She’s amazing!
+
+Anzu-san’s drawing skills are so good, that my drawing is nothing compared to hers…
+
+So please, let Anzu-san draw an example for you instead…!
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Hm. If they are masterpieces worthy of such high praise, then I would like to see them as well. Anzu-dono, will you show me some examples?
+{% endbubble %}
+
+## Chapter 6
+
+{% bubble Souma v2 %}
+You do not mind drawing an example for me, but it will not match the level of Mizuhanome-sensei’s skills? So Anzu-dono looks up to that person as a mentor…
+
+A person that even such a lady as Anzu-dono admires… They must be someone famous in this field… Can their skill rival that of Hasumi-dono, I wonder?
+
+Hm, what’s wrong? You’re coughing as if you caught a cold.
+
+Now that it’s become autumn, you must prepare for the cold.
+
+Mm? You’d like me to forget what you said about Mizuhanome-sensei? I don’t quite understand, but I can’t refuse doing so when your face is all blue like that.
+
+Alright, I understand. I’ll pretend as if I didn’t hear anything earlier.
+{% endbubble %}
+
+{% bubble Midori %}
+Anzu-san, there’s still some paper, so can you draw here too…? It’s an A4 paper, so it’s okay to make the drawing big…♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Ooh, she started to draw so quickly, like she’s used to it. I think she’s drawing based on what Midori-kun drew earlier; it looks the exact same~♪
+{% endbubble %}
+
+{% bubble Midori %}
+Anzu-san really is good at drawing, huh…♪
+
+She’s copying what I scribbled down on my notebook with perfection… You really are super talented. I hold high respect for you…♪
+
+Huh? “Is it okay if I draw it cuter”?
+
+Of course it is.
+
+I had references on how to draw cute-looking pumpkins and chestnuts, but…
+
+I had no idea how to draw the carrots and burdocks in a cuter way…
+
+Ah, you took a shot at it…? Fwaaah, it’s so cute! ☆
+
+C-Can I have this drawing!?
+
+I’m really conflicted right now between wanting the world to see this masterpiece so it becomes a big hit, and wanting to keep it in my heart forever…!
+
+That’s Anzu-san’s drawings for you.
+
+You don’t just draw them like my favorite mascot characters, but even draw them with all my preferences… You’re truly a living goddess amongst us…☆
+
+You don’t mind giving it to me, but only after we’re done? Ahh… because this drawing is a lot bigger and easier to use as reference than the notebook one, right?
+
+I’m gonna go ask a teacher for some rolled paper, so until I come back, can you guide everyone on what to do…?
+
+Crayons? Ahh, we do need crayons too, that’s true. But there’s not enough time to work on that during lunch break, so we can keep coloring after classes are over…
+
+Let’s go with that~♪
+{% endbubble %}
+
+{% bubble Tetora %}
+Anego! I tried drawing my version while copying your drawing; what’cha think?
+
+Ah, this spiky-looking thing?
+
+It’s a chestnut~ Chestnuts have burrs all ‘round ‘em, right?
+
+Anego drew a chestnut like that too, so I made one that was filled with ‘em~♪
+
+…Anego? You’re making a sour face like you drank bitter tea. People don’t even make that kinda face when eating bitter persimmons.
+
+Speaking of which, persimmon is also the taste of autumn.
+
+And a prefecture famous for producing ‘em would be Wakayama. Midori-kun told me that Wakayama even has a mascot character based on persimmons.
+
+But without the right references, I can’t draw that mascot~
+
+So instead, I’ll draw my own version of a persimmon mascot character. Scribble, scribble~♪
+
+Alright, I finished it! ☆
+
+A-Anego? You’re shaking a li’l…? Maybe it’s ‘cuz we’ve been outside in the cold air? I’ll go buy some warm drinks!
+
+Huh? You’re not shaking ‘cuz it’s cold?
+
+Well, if you say so. But if you’re not feeling well, just tell me, ‘kay?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+puka, puka…♪
+
+tetora’s [art] has a [distinct] feeling to it, doesn’t it…?
+
+even if you told me this was [persimmon], i would not be able to tell. it looks like a [strange object]~ a [mysterious life-form], hehe…♪
+
+i will draw my own version too\~ hello, [persimmon-san]\~…☆
+{% endbubble %}
+
+{% bubble Tetora %}
+Ooh, he’s way better than me. That’s so frustrating~…
+
+But since we’re working with mascot characters, somethin’ soft-looking like mine would be pretty popular. Don’t you think so too, Anego?
+
+See, her voice is shaking in approval. I’m gonna show this to Midori-kun too as a new addition to the pack. I hope he’s happy about it just like Anego~♪
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Hm, so it’s mascot characters? I do not know much about them; are characters like these popular?
+{% endbubble %}
+
+{% bubble Tetora %}
+I only know what I’ve heard from Midori-kun, but there’s even a competition to keep up the popularity amongst fans, so I’d say they’re pretty popular.
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Is that so. So far Nagumo and Buchou-dono have drawn something, but I have yet to do so. Let’s see, it’s time I draw while looking at Anzu-dono’s drawings…♪
+
+…Hm, it’s quite difficult to draw.
+
+If I draw with too much force, the softness of the mascot character is lost.
+
+But if I loosened the pressure on the paper, the lines become all jagged.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+souma, you are putting too much [pressure] on your shoulders.
+
+take a [deep breath], and imagine a [figure] drifting in the [sea]~
+{% endbubble %}
+
+{% bubble Souma v2 %}
+The sea…? So I should imagine a drowning figure of myself as I draw?
+
+It is nothing new to receive severe punishment from you, so perhaps this is a trial to test me?
+
+Is it to tell me to become a strong person who is agitated by nothing…?
+
+I will take Buchou-dono’s words to heart, and imagine myself as a drowning body…!
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+souma, calm down.
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Ow!? Buchou-dono’s chop always feels like it vibrates to the crown of my head!
+
+It seems that I was jumping to conclusions. This is another one of those situations where you mustn’t take words literally, correct?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+ufufu, it looks like you figured out the [answer] by yourself. good boy, good boy…♪
+{% endbubble %}
+
+{% bubble Souma v2 %}
+Hm, the way Buchou-dono switches between the candy and the whip is spectacular.
+
+Buchou-dono, please continue to guide me. ♪
+{% endbubble %}
+
+## Chapter 7
+
+{% bubble Tetora serious %}
 …………
 
 Ahh, sorry for spacing out. Watching Shinkai-senpai and Kanzaki-senpai talk to each other made me miss Taishou a bit.
@@ -593,11 +1285,11 @@ Ahaha, “If you don’t mind me doing it instead”…? You’re kind, Anego.
 But if you pat my head when I haven’t done anything, it’ll make me feel a li’l uneasy.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Oh? Anzu-dono and Nagumo are getting along well. That’s just wonderful. ♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 the most important thing is to get along with each other…♪ there’s even all these [vegetables] getting along, as well~
 {% endbubble %}
 
@@ -623,25 +1315,25 @@ Ooh, Kanzaki-senpai, this is your sort of art style, huh? The lines are very fir
 Instead of soft mascots, it looks more like an ink painting…♪ It feels like they could come to life at any moment, it’s pretty cool…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 I-Is that so? I’m happy to know you like it. So, is this going to be used as the clean copy?
 {% endbubble %}
 
 {% bubble Midori %}
-Mm~… it would’ve been better if it was drawn just a little cuter, though… Like Shinkai-senpai’s~♪
+Mm\~… It would’ve been better if it was drawn just a little cuter, though… Like Shinkai-senpai’s\~♪
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 I see, so like Buchou-dono’s drawing. I might not be able to copy it right, but I shall give it a shot. Buchou-dono, if you don’t mind, please guide me.
 {% endbubble %}
 
-{% bubble Kanata %}
-ufufu, of course, you can leave it to me~…♪ it is [refreshing] to teach you about things other than the [club]~
+{% bubble Kanata v2 %}
+ufufu, of course, you can leave it to me\~…♪ it is [refreshing] to teach you about things other than the [club]\~
 
 souma, follow after me.
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Of course. If that is Buchou-dono’s order, then I will risk my own life for it. I will not turn my back away from any trials and tribulations!
 {% endbubble %}
 
@@ -686,9 +1378,7 @@ You’re acting like that one time Anego wore the mascot outfit. You’re way to
 {% bubble Midori %}
 I can’t help it, I feel like I just experienced a fateful encounter… I wanna put this under my pillow and sleep with it. Give it to me, Tetora-kun~♪
 
-If that’s not okay, then let me burn it right into my retinas…! Actually no, there’s no way I’d forget something as artistic as this! I feel completely absorbed by it…☆
-
-駄目なら網膜に焼きつけるから……！　いや、これほどの芸術的な絵は一度見れば忘れられないよ、病みつきになる……☆
+If that’s not okay, then let me burn it into my retinas…! Actually no, there’s no way I’d forget something as artistically perfect as this! I feel myself completely absorbed into it…☆
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -698,7 +1388,7 @@ I never imagined you’d get <em>this</em> unbelievably happy over it, but it’
 
 But enough of that, our break is almost over after all that talking and drawing. We never really got to eat our food in the end.
 
-There’s only a li’l bit left until classes start, so I’ll eat the bread as fast as I can… *(munch, munch)* ♪
+There’s only a li’l bit left until classes start, so I’ll eat the bread as fast as I can… *<th>(munch, munch)</th>* ♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -721,8 +1411,8 @@ Ahh, yeah. Is it okay if everyone comes back here with their gym uniform…? Alr
 **Location:** In front of the water fountain (Autumn)
 {% endnote %}
 
-{% bubble Kanata %}
-*puka, puka…*♪
+{% bubble Kanata v2 %}
+*puka, puka…♪*
 
 the water has gone all [cold]~… achoo!
 {% endbubble %}
@@ -733,7 +1423,7 @@ Ahh, Shinkai-senpai’s bathing in the fountain again! I hope you’re not sneez
 We may have a break from Ryuseitai activities, but it isn’t good to let your valuable break go to waste like that!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 [tetora] really does say things [chiaki] would say, doesn’t he~?
 
 but, please do not worry…♪
@@ -767,7 +1457,7 @@ Anzu-san and Kanzaki-senpai don’t seem to be here yet… Let’s get everythin
 
 ## Chapter 8
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Kanzaki Souma has arrived!
 
 I was late because of a prolonged class I had to finish my duties for. The only redemption I could have here is to commit seppuku!
@@ -787,7 +1477,7 @@ If my seppuku would cause Anzu-dono to take her own life as well, then I would m
 Please, I humbly beg for your forgiveness…!
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 souma, raise your head.
 
 we only arrived a moment ago too~ no one is angry at you, okay?
@@ -799,7 +1489,7 @@ Yeah, we were just in the middle of getting everything ready…
 Ah— there’s paint buckets over there, so please be careful. If the paint gets on your uniform, it’ll be really tough to get rid of it…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Thank you for the warning. I see some curled up paper near the paint; could that be the rolled paper?
 {% endbubble %}
 
@@ -813,13 +1503,13 @@ I figured out the level of everyone’s art skill, so… Is it okay if Shinkai-s
 You’re both in the same club, and you both seem to have great chemistry…♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 ufufu, i am with souma again…♪ souma is a quick [learner], so we will be able to produce results.
 
 let’s cute [drawings] that are just as good as [signatures]\~ hehe\~♪
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Ooh, Buchou-dono seems to be in an excellent mood! ♪ I feel excited, as well! Let us go forth, Buchou-dono…♪
 {% endbubble %}
 
@@ -865,8 +1555,6 @@ If that’s all I gotta to make you happy again, then it’s easy-peasy stuff!
 If I draw too small, it won’t be as dynamic, but if I draw too big, it might extend outside the paper.
 
 There’s the burdocks, the sweet potatoes, and the pumpkins… Aight, I managed to draw ‘em pretty well. Oops, can’t forget the chestnuts. And now to draw the persimmons next to it, and it’ll be complete~♪
-
-ごぼう、さつまいも、かぼちゃ……よし、うまく描けたッス。おっと、栗も忘れちゃいけないッスね。柿もお隣に添えて完成ッス～♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -896,31 +1584,31 @@ So can I give these to you, Tetora-kun…?
 {% endbubble %}
 
 {% bubble Tetora %}
-‘Course, leave it to me~♪ Time to dip the brush into the paint and smear~
+‘Course, leave it to me\~♪ Time to dip the brush into the paint and color\~
 {% endbubble %}
 
 {% bubble Midori %}
-Veggies, veggies… Hmhmhmm~♪ *(Humming)*
+Veggies, veggies… Hmhmhmm~♪ *<th>(Humming)</th>*
 {% endbubble %}
 
 {% bubble Tetora %}
-(Midori-kun’s in such a good mood that he’s humming a song while painting.)
+<th>(Midori-kun’s in such a good mood that he’s humming a song while painting.)</th>
 
-(The veggies he’s painting all look bright and tasty~♪)
+<th>(The veggies he’s painting all look bright and tasty~♪)</th>
 
-(But it’s kinda surreal to see veggies with eyes and noses have a speech bubble saying “I’m tasty, eat me~♪”)
+<th>(But it’s kinda surreal to see veggies with eyes and noses have a speech bubble saying “I’m tasty, eat me~♪”)</th>
 
-(It’s a pretty unique idea to have the selling point as somethin’ like “eat me”…)
+<th>(It’s a pretty unique idea to have the selling point as somethin’ like “eat me”…)</th>
 
-(Woops, while I was spacing out, Anego finished drawing and already started a new one.)
+<th>(Woops, while I was spacing out, Anego finished drawing and already started a new one.)</th>
 
-(Is that… the persimmon mascot character I drew? I can’t tell, I need to get closer…)
+<th>(Is that… the persimmon mascot character I drew? I can’t tell, I need to get closer…)</th>
 
 Uhya—!?
 
 I tipped over the paint bucket!?
 
-Ahh, this is a disaster! The paint’s spreading all over the paper!! I have to wipe it off with a cloth… (wipe, wipe)
+Ahh, this is a disaster! The paint’s spreading all over the paper!! I have to wipe it off with a cloth… <th>(wipe, wipe)</th>
 
 Oh no, the paint I wasn’t able to clean off is just spreading even further and ruining more papers!! W-wh-what do I dooo~!?
 
@@ -945,7 +1633,7 @@ Ossu, understood! I’ll make sure not to cause you trouble this time, Anego~!
 
 ## Chapter 9
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 midori, tetora\~ we finished [drawing] on the [roll papers] and [coloring] them\~
 
 if there is anything else you [need to do], i will be glad to [help]~
@@ -957,7 +1645,7 @@ Then it’d be great if you could help with more coloring…
 Anzu-san’s drawing pretty quickly, and we don’t have enough people to finish coloring them…
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 Hm, so we must color the drawings over here? Leave it to me, I will finish them up promptly. ♪
 {% endbubble %}
 
@@ -1020,7 +1708,7 @@ And then I told them about how you all helped me… They wanna repay everyone, s
 
 They’re being such a pain about it…
 
-My mom was really obnoxiously enthusiastic about it, saying “How many are there? I’ll make enough for everyone, so bring them all over!”…
+My mom was really enthusiastic about it, saying “How many are there? I’ll make enough for everyone, so bring them all over!”, it was so obnoxious…
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1031,11 +1719,11 @@ It would still be bright right ‘bout now if we were in the summer, but the day
 I didn’t eat enough during lunch, so I’m starving. If your mom says it’s okay, then I’d love to come over~♪
 {% endbubble %}
 
-{% bubble Kanata %}
+{% bubble Kanata v2 %}
 i would like [fish]~ [fish] are food. we should eat them until only [bones] are left behind…♪
 {% endbubble %}
 
-{% bubble Souma %}
+{% bubble Souma v2 %}
 The fish that I have prepared should still be in the refrigerator of the kitchen… Wait a moment, I’ll bring it over in a cooler box!
 {% endbubble %}
 
