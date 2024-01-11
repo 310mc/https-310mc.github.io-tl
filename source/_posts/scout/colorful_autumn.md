@@ -412,7 +412,7 @@ I ended up hitting my nose real hard…! I hope it’s not turning red from a br
 {% endbubble %}
 
 {% bubble Tetora angry %}
-Midori-kuuun~? You’re worrying me now, you’re not moving an inch! You’re like a robot that’s out of battery. Seriously, what’s wrong…?
+Midori-kuuun~? You’re worrying me now, you’re not moving an inch! You’re like a robot that’s outta battery. Seriously, what’s wrong…?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -476,7 +476,7 @@ And I know veggies are good and all, but <em>that</em> many in one dish feels li
 {% endbubble %}
 
 {% bubble Tetora %}
-Ah, so the cooking’s centered around veggies, huh.
+Ah, so the cooking’s centered ‘round veggies, huh.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -516,7 +516,7 @@ I know, right… And here I thought I’d get to do nothing but laze around all 
 {% endbubble %}
 
 {% bubble Tetora %}
-Eh~? You may say that, but you seem more bored than anything when there’s nothing to do in Ryuseitai…
+Eh~? You may say that, but you seem more bored than anythin’ when there’s nothing to do in Ryuseitai…
 
 If you have free time, then shedding sweat in your club or helping out at home is the valuable way to spend it~♪
 {% endbubble %}
@@ -579,9 +579,11 @@ But… If we end up having a lot of customers on the day of the fair, then I mig
 
 ## Chapter 2
 
-{% note location %}
-**Location:** School store
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> School store</span></p>
+</div>
+
+{% img /img/es/scoutstory/colorfulautumn/2.jpg %}
 
 {% bubble Tetora %}
 <th>(Ugh~… I can’t see what’s in front of me ‘cuz of all the students rushing to the school’s store.)</th>
@@ -594,7 +596,7 @@ But… If we end up having a lot of customers on the day of the fair, then I mig
 
 <th>(…Speaking of Taishou, it’s pretty rare for him to sleep in and forget to make me a lunchbox.)</th>
 
-<th>(He said something about watching a late night variety show, but I don’t really get it since I never stay up late.)</th>
+<th>(He said something ‘bout watching a late night variety show, but I don’t really get it since I never stay up late.)</th>
 
 <th>(According to him, it’s a pretty good show, which does make me wanna watch it…)</th>
 
@@ -626,7 +628,7 @@ T-That’s so heavy!? Ah, uh, I didn’t mean to be so harsh, okay…?
 
 It’s also my fault for getting angry. The people behind us are also saying it’s okay to line up here! What good people~♪
 
-Are you here to buy lunch, too? It’s the same with me, I’m getting bread instead of eating from a lunchbox. Since the weather's good today, how about we eat together outside?
+Are you here to buy lunch, too? It’s the same with me, I’m getting bread instead of eating from a lunchbox. Since the weather's good today, how ‘bout we eat together outside?
 
 Oh, but you mentioned something ‘bout eating that carrot dish, right?
 
@@ -724,7 +726,7 @@ But we need to make the signboards too, so I can’t say we have enough hands fo
 {% endbubble %}
 
 {% bubble Tetora %}
-What about asking for Taichou, Shinkai-senpai, or even Sengoku-kun for help? The five of us together make Ryuseitai, after all. Anego’s also saying “Let me know if I can be of help”…
+What ‘bout asking for Taichou, Shinkai-senpai, or even Sengoku-kun for help? The five of us together make Ryuseitai, after all. Anego’s also saying “Let me know if I can be of help”…
 
 Wait, Anego?!
 
@@ -767,9 +769,11 @@ Then let’s go…♪
 
 ## Chapter 4
 
-{% note location %}
-**Location:** Water fountain (Autumn)
-{% endnote %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Water Fountain (Autumn)</span></p>
+</div>
+
+{% img /img/es/scoutstory/colorfulautumn/4.jpg %}
 
 {% bubble Tetora %}
 Hmm… Ah! There’s a free bench; I’m gonna reserve it before it’s taken~!
@@ -964,7 +968,7 @@ of course, i will also [help] out. i am quite good at [drawing]\~ scribble scrib
 {% endbubble %}
 
 {% bubble Midori %}
-Ah, the vegetables are drawn so itty-bitty and cute…♪ It looks kinda like Shinkai-senpai’s signature — the drawing in his signature is also really cute and soothing to my heart… ♪
+Ah, the vegetables are drawn so itty-bitty and cute…♪ It looks kinda like Shinkai-senpai’s signature — the drawing in his signature is also really cute and soothing to my heart…♪
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1212,7 +1216,7 @@ Ooh, he’s way better than me. That’s so frustrating~…
 
 But since we’re working with mascot characters, somethin’ soft-looking like mine would be pretty popular. Don’t you think so too, Anego?
 
-See, her voice is shaking in approval. I’m gonna show this to Midori-kun too as a new addition to the pack. I hope he’s happy about it just like Anego~♪
+See, her voice is shaking in approval. I’m gonna show this to Midori-kun too as a new addition to the pack. I hope he’s happy ‘bout it just like Anego~♪
 {% endbubble %}
 
 {% bubble Souma v2 %}
@@ -1308,7 +1312,7 @@ Ah, Midori-kun! You came just at the right time, we just finished drawing our ow
 {% endbubble %}
 
 {% bubble Midori %}
-Waah, this’ll be exciting… ♪ Then I’ll start from Kanzaki-senpai’s drawings…
+Waah, this’ll be exciting…♪ Then I’ll start from Kanzaki-senpai’s drawings…
 
 Ooh, Kanzaki-senpai, this is your sort of art style, huh? The lines are very firmly drawn, it’s as if it’s a clean copy rather than a draft.
 
@@ -1338,7 +1342,7 @@ Of course. If that is Buchou-dono’s order, then I will risk my own life for it
 {% endbubble %}
 
 {% bubble Tetora %}
-Midori-kun, what about mine? Anego also approved of it, so I’m pretty confident of it~♪
+Midori-kun, what ‘bout mine? Anego also approved of it, so I’m pretty confident of it~♪
 
 Anego? If you keep shaking your head like that, the blood will get to your head, y’know? You’ve been acting weird since a while ago.
 
@@ -1407,9 +1411,11 @@ Sorry Midori-kun, I know you came all the way here with the roll paper… Let’
 Ahh, yeah. Is it okay if everyone comes back here with their gym uniform…? Alright, then see you later after classes are over…♪
 {% endbubble %}
 
-{% note location %}
-**Location:** In front of the water fountain (Autumn)
-{% endnote %}
+{% img /img/es/scoutstory/colorfulautumn/8.jpg %}
+
+<div class="msr-narration">
+    <p>After classes…</p>
+</div>
 
 {% bubble Kanata v2 %}
 *puka, puka…♪*
@@ -1444,7 +1450,7 @@ Tetora-kun, you forgot the crayons… I also brought the paint… I’ll put it 
 {% endbubble %}
 
 {% bubble Tetora %}
-Crap, I forgot about that.
+Crap, I forgot ‘bout that.
 
 Midori-kun, you can carry two paint buckets in your hands so easily! That’s some physical strength you have~♪
 {% endbubble %}
@@ -1633,6 +1639,8 @@ Ossu, understood! I’ll make sure not to cause you trouble this time, Anego~!
 
 ## Chapter 9
 
+{% img /img/es/scoutstory/colorfulautumn/9.jpg %}
+
 {% bubble Kanata v2 %}
 midori, tetora\~ we finished [drawing] on the [roll papers] and [coloring] them\~
 
@@ -1654,7 +1662,7 @@ Slooowly, caaarefully… so that the paint doesn’t spill outta the line-art…
 
 I’m not really good at work that requires precision, but that’s exactly why I shouldn’t avoid doing it. Being a man among men means overcoming your weaknesses…♪
 
-Carrots… are hard for me to overcome mentally, but I’m sure there’ll be a day when I’ll be able to face them. Ossu! A heart that believes can bring about miracles~♪
+Carrots… are hard for me to overcome mentally, but I’m sure there’ll be a day when I’ll be able to face them. Ossu! A heart that believes can bring ‘bout miracles~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1708,7 +1716,7 @@ And then I told them about how you all helped me… They wanna repay everyone, s
 
 They’re being such a pain about it…
 
-My mom was really enthusiastic about it, saying “How many are there? I’ll make enough for everyone, so bring them all over!”, it was so obnoxious…
+My mom was really enthusiastic, saying “How many are there? I’ll make enough for everyone, so bring them all over!”, it was so obnoxious…
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1754,7 +1762,7 @@ Maybe they don’t think about the profit much, but the croquettes cost around 5
 {% endbubble %}
 
 {% bubble Tetora %}
-You’re in the Basketball club, so it makes sense you do that. You move around a lot during club activities, so you burn through a lot of calories and get hungry just as much, huh?
+You’re in the Basketball club, so it makes sense you do that. You move ‘round a lot during club activities, so you burn through a lotta calories and get hungry just as much, huh?
 {% endbubble %}
 
 {% bubble Midori %}
