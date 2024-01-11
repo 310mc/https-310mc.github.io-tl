@@ -309,7 +309,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
+    <div class="story">
         <div class="image">
             <img
                 src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
@@ -317,10 +317,10 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/colorful_autumn" class="storyName" target="_blank">
-            <span>Colorful Autumn (Coming Soon!)</span>
+            <span>Colorful Autumn</span>
             <span class="read"></span>
         </a>
-    </div>-->
+    </div>
     <div class="story">
         <div class="image">
             <img

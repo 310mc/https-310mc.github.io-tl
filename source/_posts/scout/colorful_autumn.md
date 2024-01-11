@@ -14,7 +14,6 @@ tags:
 - Story Index
 description: "[ES!] Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them."
 permalink: colorful_autumn/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -678,7 +677,7 @@ But then they told me, “Well *you’re* the one who drew the picture, so you k
 {% endbubble %}
 
 {% bubble Tetora %}
-Erm, I’m guessing you mean your parents made a mistake with the order, right? Is it possible to ask them to order more signboards?
+Erm, I’m guessing you mean your parents made a mistake with the order, right? Is it possible to ask ‘em to order more signboards?
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
@@ -942,7 +941,7 @@ Uh, it looks somewhat like this, do you get the feeling?
 {% endbubble %}
 
 {% bubble Tetora %}
-So a basket full of sweet potatoes and pumpkins, with chestnuts and mushrooms? They each have eyes and noses to them.
+So a basket full of sweet potatoes and pumpkins, with chestnuts and mushrooms? They each have eyes and noses to ‘em.
 
 There’s “Dossari-chan”[^2] written underneath the basket; is it the name of the characters?
 {% endbubble %}
@@ -964,6 +963,11 @@ for now, i will [call] him over and ask~
 {% endbubble %}
 
 ## Chapter 5
+
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of seppuku ahead.</p>
+</div>
 
 {% bubble Tetora %}
 So the person Shinkai-senpai wanted to call wasn’t Sengoku-kun, huh?
@@ -1445,7 +1449,7 @@ Sorry Midori-kun, I know you came all the way here with the roll paper… Let’
 Ahh, yeah. Is it okay if everyone comes back here with their gym uniform…? Alright, then see you later after classes are over…♪
 {% endbubble %}
 
-{% img /img/es/scoutstory/colorfulautumn/8.jpg %}
+{% img /img/es/scoutstory/colorfulautumn/7.jpg %}
 
 <div class="msr-narration">
     <p>After classes…</p>
@@ -1496,6 +1500,13 @@ Anzu-san and Kanzaki-senpai don’t seem to be here yet… Let’s get everythin
 {% endbubble %}
 
 ## Chapter 8
+
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>Mentions of seppuku and drowning ahead.</p>
+</div>
+
+{% img /img/es/scoutstory/colorfulautumn/8.jpg %}
 
 {% bubble Souma %}
 Kanzaki Souma has arrived!
@@ -1712,7 +1723,7 @@ Slooowly, caaarefully… so that the paint doesn’t spill outta the line-art…
 
 I’m not really good at work that requires precision, but that’s exactly why I shouldn’t avoid doing it. Being a man among men means overcoming your weaknesses…♪
 
-Carrots… are hard for me to overcome mentally, but I’m sure there’ll be a day when I’ll be able to face them. Ossu! A heart that believes can bring ‘bout miracles~♪
+Carrots… are hard for me to overcome mentally, but I’m sure there’ll be a day when I’ll be able to face ‘em. Ossu! A heart that believes can bring ‘bout miracles~♪
 {% endbubble %}
 
 {% bubble Midori smilesoft %}

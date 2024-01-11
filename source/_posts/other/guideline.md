@@ -120,6 +120,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="image">
         <img
+            src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
+            alt="Colorful Autumn"
+        />
+    </div>
+    <a href="/colorful_autumn" class="storyName" target="_blank">
+        <span>Colorful Autumn</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="image">
+        <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
         />
