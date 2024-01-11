@@ -1194,7 +1194,7 @@ You don’t just draw them like my favorite mascot characters, but even draw the
 
 You don’t mind giving it to me, but only after we’re done? Ahh… because this drawing is a lot bigger and easier to use as reference than the notebook one, right?
 
-I’m gonna go ask a teacher for some rolled paper, so until I come back, can you guide everyone on what to do…?
+I’m gonna go ask a teacher for some roll paper, so until I come back, can you guide everyone on what to do…?
 
 Crayons? Ahh, we do need crayons too, that’s true. But there’s not enough time to work on that during lunch break, so we can keep coloring after classes are over…
 
@@ -1543,7 +1543,7 @@ Ah— there’s paint buckets over there, so please be careful. If the paint get
 {% endbubble %}
 
 {% bubble Souma v3 %}
-Thank you for the warning. I see some curled up paper near the paint; could that be the rolled paper?
+Thank you for the warning. I see some curled up paper near the paint; could that be the roll paper?
 {% endbubble %}
 
 {% bubble Midori norsmile %}
