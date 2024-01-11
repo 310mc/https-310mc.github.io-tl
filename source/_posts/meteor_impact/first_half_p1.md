@@ -1130,7 +1130,7 @@ If I let that happen again… I’ll really have had no reason to ever been born
 
 <th>(Since I’m not his family or his pupil or anything; I’m just his fan.)</th>
 
-<th>(Actually, I’d be reluctant to impose on him when he’s exhausted and retired, but…. There’s no one else I can rely on.)</th>
+<th>(Actually, I’d be reluctant to impose on him when he’s exhausted and retired, but… There’s no one else I can rely on.)</th>
 
 <th>(Ahh… I’m so depressed, I just keep sighing. This is bad. I need to pull myself together. There’s no use worrying about it — I need to act first.)</th>
 
@@ -1222,7 +1222,7 @@ A Student Council…? Wait, Yumenosaki didn’t have one? Don’t schools usuall
 {% endbubble %}
 
 {% bubble Keito v2 %}
-Indeed. There seems to have existed one in the distant past, but at one point no one had inherited the position, and it eventually disappeared….
+Indeed. There seems to have existed one in the distant past, but at one point no one had inherited the position, and it eventually disappeared…
 
 And then it was kept in this strange limbo of whether or not it actually existed for the longest time.
 
@@ -1230,7 +1230,7 @@ When I asked a teacher, I was told that I essentially needed to start from scrat
 
 And when I looked into the school rules, it seemed like I needed over half the students in the school to sign the petition.
 
-Well, knowing the teachers at our school, I suspect they won’t even properly examine the conditions when we establish it, but….
+Well, knowing the teachers at our school, I suspect they won’t even properly examine the conditions when we establish it, but…
 
 I don’t want to pretend I established it properly, only for them look into the fact that I didn’t get enough signatures to officially do so… That’s why I thought I would go through the proper procedures.
 

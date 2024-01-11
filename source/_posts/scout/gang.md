@@ -416,7 +416,7 @@ Nnah~, ‘s that true? Sounds like a movie or somethin’.
 {% bubble Yuzuru %}
 Truly. However, in the case that something does happen, it would be quite grave, so precautions had to have been taken.
 
-In this peaceful country, everyone seems to have forgotten; dangerous people do not just exist in movies…. they are a part of our reality.
+In this peaceful country, everyone seems to have forgotten; dangerous people do not just exist in movies… they are a part of our reality.
 {% endbubble %}
 
 ## Midnight Gangsters 2

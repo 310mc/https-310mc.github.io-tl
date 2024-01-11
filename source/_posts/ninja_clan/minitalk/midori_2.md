@@ -144,7 +144,7 @@ I'm gonna carry this over to Starmony Dorm, so I'd like to go down to the lobby.
             {% bubble Midori %}
             Huh? Do you have something to do at the dorms?
 
-            Ohhh, you'd like to greet Trickstar after they've returned from their remote photoshoot? They must be really busy lately…
+            Ohhh, you'd like to pick up Trickstar for their remote photoshoot? They must be really busy lately…
 			{% endbubble %}
         </div>
     </div>

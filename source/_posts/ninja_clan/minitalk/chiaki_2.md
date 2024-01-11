@@ -155,7 +155,7 @@ This surely must've costed a lot of time and money to make… Did it?
 {% bubble Chiaki %}
 Alright, the performance is starting soon. But before that, I'd like to express my gratitude, Producer.
 
-Thank you so much for doing everything in your power for Sengoku's sake. Sengoku tends to repress his emotions subconsciously, likely because the time when there was nobody who accepted him for his interests, but…
+Thank you so much for doing everything in your power for Sengoku's sake. Sengoku tends to repress his emotions subconsciously, likely because there was a time when nobody accepted him for his interests, but…
 
 I can tell he's enjoying himself a lot right now. I'm so glad you were here for him.
 {% endbubble %}

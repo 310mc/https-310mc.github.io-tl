@@ -228,7 +228,7 @@ Yes, here it is.
 {% endbubble %}
 
 {% bubble Keito %}
-……..
+………
 
 …What on earth is this?
 {% endbubble %}

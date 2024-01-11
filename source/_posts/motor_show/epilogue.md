@@ -510,7 +510,7 @@ Ahh, if that is how the cookie must crumble… However, thanks to you, Chief, I 
 
 I'll be able to appear before a crowd with the others without being frightened.
 
-A thick, protective wall built with the kind bricks of love shall shield me from the ever oppressive wind…. fufufu. ♪
+A thick, protective wall built with the kind bricks of love shall shield me from the ever oppressive wind… fufufu. ♪
 {% endbubble %}
 
 {% img /img/es/eventstory/motorshow/shinobubcg.jpg %}

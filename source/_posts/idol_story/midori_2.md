@@ -75,7 +75,7 @@ Maybe I could cheer myself with a “hip-hip, hurray! ♪”……
 
 <th>(Nope, that was emptier than I thought… Seriously, what am I doing talking to myself… We’re just gardening here, y’know…)</th>
 
-<th>(No one saw me, right? If someone did I’d die from embarrassment… Gotta be quiet—just do everything quietly….)</th>
+<th>(No one saw me, right? If someone did I’d die from embarrassment… Gotta be quiet—just do everything quietly…)</th>
 
 <th>(I guess I’ll start with getting rid of weeds… Hmm, the roots seem pretty deep down… I don’t think I can pull them out that easily…)</th>
 

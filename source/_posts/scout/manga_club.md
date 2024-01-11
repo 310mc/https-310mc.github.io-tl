@@ -1643,7 +1643,7 @@ Right then, it’s about time we go!
 {% img /img/es/scoutstory/mangaclub/6_2.jpg %}
 
 {% bubble Mao %}
-<th>(Woah…. Hasumi-senpai wasn’t kidding, the audience is <em>huge</em>…)</th>
+<th>(Woah… Hasumi-senpai wasn’t kidding, the audience is <em>huge</em>…)</th>
 
 <th>(Are the others doing okay?)</th>
 

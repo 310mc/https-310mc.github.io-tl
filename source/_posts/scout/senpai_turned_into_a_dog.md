@@ -309,7 +309,7 @@ permalink: senpai_turned_into_a_dog/
 
 <th>(Now I have to spend half of my entire day just carrying all the boxes of vegetables that piled up…)</th>
 
-<th>(And it has to be on my day off, too… I was hoping I could lie around inside with the heater on all day….)</th>
+<th>(And it has to be on my day off, too… I was hoping I could lie around inside with the heater on all day…)</th>
 
 <th>(Ehhh… Complaining won’t get me anywhere, though… And if I put it off any longer, my brother might offer to do it for me… I have to get this done on my own somehow…)</th>
 
