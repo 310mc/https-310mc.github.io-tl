@@ -1511,6 +1511,12 @@
 [character="Souma"][glare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_glare.png");
 }
+[character="Souma"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_grin.png");
+}
+[character="Souma"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_nod.png");
+}
 [character="Souma"][sad2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/souma_sad2.png");
 }

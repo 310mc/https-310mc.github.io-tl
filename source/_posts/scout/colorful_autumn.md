@@ -1520,7 +1520,7 @@ It is true that you were also late, but you have a proper excuse… There’s no
 Hmm? I was late for the same reason as you, so that would mean I too have no reason to do it?
 {% endbubble %}
 
-{% bubble Souma nod %}
+{% bubble Souma grin %}
 Ahaha, you make a solid argument. ♪
 
 The lord cutting open their own stomach is an unforgivable act.
