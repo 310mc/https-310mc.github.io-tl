@@ -76,7 +76,7 @@ permalink: parallel_world/
 <!-- more -->
 
 {% note narration %}
-**Note:** This is a **partial** translation of the event story Parallel World. The story is set just after the Ryuseitai story, <a href="/supervillain" target="_blank">Supervillain</a>.
+**Note:** This is a **partial** translation of the event story Parallel World. The story is set just after the Ryuseitai story, <b><a href="/supervillain" target="_blank">Supervillain</a></b>.
 {% endnote %}
 
 {% note narration %}
@@ -376,11 +376,11 @@ Yeah, this is probably going to be a battle against ourselves.
 {% endbubble %}
 
 {% note narration %}
-**Note:** This is only a partial translation of the story. For more Ra\*bits and Ryuseitai interactions, please give <a href="/sweet_halloween" target="_blank">Sweet Halloween</a> a read as well! (Fun trivia: The high rarity cards of Sweet Halloween, Midori and Chiaki, are portraying the other half of the high rarity cards, Hajime and Tomoya.)
+**Note:** This is only a partial translation of the story. For more Ra\*bits and Ryuseitai interactions, please give <b><a href="/sweet_halloween" target="_blank">Sweet Halloween</a></b> a read as well! (Fun trivia: The high rarity cards of Sweet Halloween, Midori and Chiaki, are portraying the other half of the high rarity cards, Hajime and Tomoya.)
 {% endnote %}
 
 {% note narration %}
-For more information on Ryuseitai's status after the story <a href="/supervillain" target="_blank">Supervillain</a>, please refer to the timeline and relationship chart from their <a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a> stream.
+For more information on Ryuseitai's status after the story <b><a href="/supervillain" target="_blank">Supervillain</a></b>, please refer to the timeline and relationship chart from their <b><a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a></b> stream.
 {% endnote %}
 
 <div toc>

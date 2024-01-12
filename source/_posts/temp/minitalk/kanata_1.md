@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Kanata Mini Talk: wonderful news"
+title: "Stella Maris – Kanata Mini Talk: wonderful news"
 date: 2024/1/16 9:04:00
 categories:
 - [Enstars, Kanata]

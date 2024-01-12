@@ -1,5 +1,5 @@
 ---
-title: "[Song] TBA"
+title: "[Song] Our Stella"
 date: 2024/1/15 8:00:00
 categories:
 - [Enstars, ES!!]
@@ -10,7 +10,7 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of TBA Song Lyrics by 310mc. By Ryuseitai from the Climax Event TBA."
+description: "Translation of Our Stella Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
 permalink: songtemp/
 hidden: true
 ---
@@ -22,11 +22,11 @@ hidden: true
                     Ryuseitai
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -34,7 +34,7 @@ hidden: true
                     Associated Story
                 </div>
                 <div class="value">
-                    <a href="/TBA">TBA</a>
+                    <a href="/stella_maris">Stella Maris</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -59,13 +59,13 @@ hidden: true
 
 <!-- more -->
 
-{% img /img/es/eventstory/tropical/songcover.jpg %}
+{% img /img/es/eventstory/stellamaris/songcover.jpg %}
 
-<big><p align="center">Click <a href="TBA" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p></big>
+<big><p align="center">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p></big>
 
 <hr>
 
-<img src="/img/es/songs/TBA.png">
+<img src="/img/es/songs/ourstella.png">
 
 <hr>
 <hr>

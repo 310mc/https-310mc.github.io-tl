@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Chiaki Mini Talk: Final Warmup"
+title: "Stella Maris – Chiaki Mini Talk: Final Warmup"
 date: 2024/1/16 9:01:00
 categories:
 - [Enstars, Chiaki]

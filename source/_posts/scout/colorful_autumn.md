@@ -1394,7 +1394,7 @@ Uwaaaaah…! ☆
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
-Woah!? Midori-kun, did you just snatch the paper from my hand!? I would’ve given it to you if you just asked for it! It’s not good to take things by force!
+Woah!? Midori-kun, did you just snatch the paper from my hand!? I would’ve given it to you if you just asked for it! You shouldn’t take things by force!
 {% endbubble %}
 
 {% bubble Midori blushshocked %}
@@ -1412,7 +1412,7 @@ Thank you, Tetora-kun. I love you…!
 {% endbubble %}
 
 {% bubble Tetora sad2 %}
-Ehh? I like you too, but…? You’re acting <em>way</em> different than usual, so I don’t really know how to respond…
+Ehh? I like you too, but…? You’re acting <em>way</em> different from the usual, so I don’t really know how to respond…
 
 You’re acting like that one time Anego wore the mascot outfit. You’re *way* too hyper…!
 {% endbubble %}

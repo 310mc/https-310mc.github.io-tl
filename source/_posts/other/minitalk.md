@@ -693,18 +693,17 @@ permalink: minitalk/
 
 <div style="margin-top:10px">{% btn /tropical,, star, Index %}</div>
 
-<!--
-### TBA
+<!--### Stella Maris
 
 <div class="stories">
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/kanataframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
                 alt="planning a trip"
             />
         </div>
-        <a href="/TBA/minitalk/kanata_1" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/kanata_1" class="storyName" target="_blank">
             <span>1: planning a trip</span>
             <span class="read"></span>
         </a>
@@ -712,11 +711,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/kanatabcgframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
                 alt="sea crook"
             />
         </div>
-        <a href="/TBA/minitalk/kanata_2" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/kanata_2" class="storyName" target="_blank">
             <span>2: sea crook</span>
             <span class="read"></span>
         </a>
@@ -724,11 +723,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/tetoraframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
                 alt="The Planning Of That Show"
             />
         </div>
-        <a href="/TBA/minitalk/tetora_1" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/tetora_1" class="storyName" target="_blank">
             <span>1: The Planning Of That Show</span>
             <span class="read"></span>
         </a>
@@ -736,11 +735,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/tetorabcgframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
                 alt="Unaligned Feelings"
             />
         </div>
-        <a href="/TBA/minitalk/tetora_2" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/tetora_2" class="storyName" target="_blank">
             <span>2: Unaligned Feelings</span>
             <span class="read"></span>
         </a>
@@ -748,35 +747,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/shinobuframe_300px.jpg"
-                alt="What An Evil Ninja Is"
-            />
-        </div>
-        <a href="/TBA/minitalk/shinobu_1" class="storyName" target="_blank">
-            <span>1: What An Evil Ninja Is</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/TBA/shinobubcgframe_300px.jpg"
-                alt="Preparing For The Mission"
-            />
-        </div>
-        <a href="/TBA/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: Preparing For The Mission</span>
-            <span class="read"></span>
-        </a>
-    </div>
-    <div class="story">
-        <div class="image">
-            <img
-                src="/img/es/eventstory/TBA/chiakiframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
                 alt="Hungry Hero"
             />
         </div>
-        <a href="/TBA/minitalk/chiaki_1" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/chiaki_1" class="storyName" target="_blank">
             <span>1: Hungry Hero</span>
             <span class="read"></span>
         </a>
@@ -784,11 +759,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/chiakibcgframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
                 alt="The Path of a Hero Turning Evil"
             />
         </div>
-        <a href="/TBA/minitalk/chiaki_2" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/chiaki_2" class="storyName" target="_blank">
             <span>2: The Path of a Hero Turning Evil</span>
             <span class="read"></span>
         </a>
@@ -796,11 +771,11 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/midoriframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
                 alt="Recommendations"
             />
         </div>
-        <a href="/TBA/minitalk/midori_1" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/midori_1" class="storyName" target="_blank">
             <span>1: Recommendations</span>
             <span class="read"></span>
         </a>
@@ -808,15 +783,39 @@ permalink: minitalk/
     <div class="story">
         <div class="image">
             <img
-                src="/img/es/eventstory/TBA/midoribcgframe_300px.jpg"
+                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
                 alt="Work, work, work"
             />
         </div>
-        <a href="/TBA/minitalk/midori_2" class="storyName" target="_blank">
+        <a href="/stella_maris/minitalk/midori_2" class="storyName" target="_blank">
             <span>2: Work, work, work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
+                alt="What An Evil Ninja Is"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: What An Evil Ninja Is</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="image">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
+                alt="Preparing For The Mission"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Preparing For The Mission</span>
             <span class="read"></span>
         </a>
     </div>
 </div>
 
-<div style="margin-top:10px">{% btn /TBA,, star, Index %}</div>-->
+<div style="margin-top:10px">{% btn /stella_maris,, star, Index %}</div>-->

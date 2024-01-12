@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Kanata Mini Talk: treasured item"
+title: "Stella Maris – Kanata Mini Talk: treasured item"
 date: 2024/1/16 9:05:00
 categories:
 - [Enstars, Kanata]

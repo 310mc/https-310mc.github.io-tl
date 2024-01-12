@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Chiaki Mini Talk: Favorable Work"
+title: "Stella Maris – Chiaki Mini Talk: Favorable Work"
 date: 2024/1/16 9:00:00
 categories:
 - [Enstars, Chiaki]
