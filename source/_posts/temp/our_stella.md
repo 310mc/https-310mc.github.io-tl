@@ -69,9 +69,9 @@ permalink: our_stella/
 ## Translation Notes
 
 * The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏).
-* Alongside the above note, <em>kana(deau)</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
+* Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
 * "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.
-* The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">first solo song</a>.
+* The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his first solo song, <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">marine blue rendezvous</a>.
 
 <hr>
 <hr>
@@ -87,7 +87,7 @@ Let us hear the voice of that wishing star
 
 
 Tonight, we sing in harmony with you
-On the stella that binds the sky and sea together
+On the Stella that binds the sky and sea together
 We were within the same light from the very start
 
 
@@ -106,8 +106,8 @@ Smiles
 
 
 Tonight, we sing in harmony with you
-On the stella that binds the sky and sea together
-We are always within the same light
+On the Stella that binds the sky and sea together
+We will always be within the same light
 
 Warm courage sparkles as it flows in
 Every time we share that courage among each other
