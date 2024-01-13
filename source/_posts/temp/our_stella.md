@@ -1,6 +1,6 @@
 ---
-title: "[Song] Our Stella"
-date: 2024/1/15 8:00:00
+title: "[Song] Our Stella – bokura no stella"
+date: 2024/1/13 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -10,9 +10,8 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of Our Stella Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
-permalink: songtemp/
-hidden: true
+description: "Translation of Our Stella (bokura no stella) Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
+permalink: our_stella/
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -34,7 +33,7 @@ hidden: true
                     Associated Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    Stella Maris<!--<a href="/stella_maris">Stella Maris</a>-->
                 </div>
             </div>
             <div class="info-item two">
@@ -67,9 +66,53 @@ hidden: true
 
 <img src="/img/es/songs/ourstella.png">
 
+## Translation Notes
+
+* The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏).
+* Alongside the above note, <em>kana(deau)</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
+* "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.
+* The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">first solo song</a>.
+
 <hr>
 <hr>
 
 {% note Text Only Version %}
-TBA
+Stella x8
+
+A downpour of twinkles rain down
+Onto the surface of the ultramarine stage
+The ripples enticing our hearts
+Are the ebb and flow of our heartbeats
+Let us hear the voice of that wishing star
+
+
+Tonight, we sing in harmony with you
+On the stella that binds the sky and sea together
+We were within the same light from the very start
+
+
+Warm courage sparkles as it flows in
+Every time we share that courage among each other
+It feels as though we were always connected in this way
+Before we were even born,
+doesn’t it?
+
+
+The stars we saved and scooped up gently
+We’ll return them back to the sky
+This is a world covered with
+Hundreds of millions of
+Smiles
+
+
+Tonight, we sing in harmony with you
+On the stella that binds the sky and sea together
+We are always within the same light
+
+Warm courage sparkles as it flows in
+Every time we share that courage among each other
+We know we have always been connected in this way
+Before we were even born
+
+Stella x 8
 {% endnote %}
