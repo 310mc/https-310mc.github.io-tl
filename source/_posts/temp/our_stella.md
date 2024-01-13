@@ -62,7 +62,7 @@ permalink: our_stella/
 
 <big><p align="center">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p></big>
 
-<hr>
+## Lyrics (MV Size)
 
 <img src="/img/es/songs/ourstella.png">
 
@@ -70,13 +70,12 @@ permalink: our_stella/
 
 * The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏).
 * Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
-* "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.
+* "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save/rescue" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.
 * The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his first solo song, <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">marine blue rendezvous</a>.
 
-<hr>
-<hr>
+## Text Only Version
 
-{% note Text Only Version %}
+{% note Click for Text Only Version %}
 Stella x8
 
 A downpour of twinkles rain down
@@ -116,3 +115,8 @@ Before we were even born
 
 Stella x 8
 {% endnote %}
+
+<div toc>
+<!--{% btn /stella_maris,, star, Event Story: Stella Maris %}-->
+{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+</div>

@@ -88,7 +88,7 @@ hidden: true
 <!-- more -->
 
 {% note narration %}
-This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader. The leader rotation is shown in <b><a href="/tropical" target="_blank">Tropical</a></b>, with Midori as the leader.
+This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader. One of the leader rotations is shown in <b><a href="/tropical" target="_blank">Tropical</a></b>, with Midori as the leader.
 {% endnote %}
 
 {% note narration %}
