@@ -9,8 +9,8 @@ tags:
 - Story Index
 - Event Story
 - Akira
-description: "[ES!!] It is Kanata's turn to be the commander. The other members feel bewildered by Kanata's peculiar practice methods and by the job shrouded in mystery, until Kanata informs them something…"
-permalink: temp/
+description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then that Kanata suddenly informs them something…"
+permalink: stella_maris/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -24,7 +24,9 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    It is finally Kanata's turn to be the commander. The other members feel bewildered by Kanata's peculiar practice methods and by the job shrouded in mystery. It is then that Kanata informs them that they'll be heading towards Okinawa for a sudden commercial photoshoot…<!--ついに隊長を担当することになった奏汰。他の隊員たちは奏汰の独特な練習方法や謎に包まれた仕事内容に困惑気味。そんななか、奏汰から突如ＣＭ撮影の為に沖縄に向かうことを告げられ……-->
+                    <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
+                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and lead you.</em><br><br>
+                    It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa for a commercial photoshoot…<!--ついに隊長を担当することになった奏汰。他の隊員たちは奏汰の独特な練習方法や謎に包まれた仕事内容に困惑気味。そんななか、奏汰から突如ＣＭ撮影の為に沖縄に向かうことを告げられ……-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -121,7 +123,9 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    It is finally Kanata's turn to be the commander. The other members feel bewildered by Kanata's peculiar practice methods and by the job shrouded in mystery. It is then that Kanata informs them that they'll be heading towards Okinawa for a sudden commercial photoshoot…
+                    <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
+                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and lead you.</em><br><br>
+                    It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa for a commercial photoshoot…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -216,10 +220,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/kanataorigcg.jpg">
+                                    <img src="/img/es/eventstory/stellamaris/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Hidden Island 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -232,7 +236,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/tetoraorigcg.jpg">
+                                    <img src="/img/es/eventstory/stellamaris/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -288,19 +292,19 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__jp">[かなうゆめのすてら] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--みちびくすいへいせん--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--うみのざんきょう--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--だいじなもの--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -324,19 +328,19 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__jp">[歌う夜のステラ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--先広がる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--記憶の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--迫力の待ち人--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -360,19 +364,19 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--見つめる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--正義の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--海辺の密会--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -396,19 +400,19 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__jp">[伝う島のステラ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--向かう水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--世界の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--世間の現実--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -432,19 +436,19 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 </div>
                                 <div class="lightbox">
                                     <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__jp">[想う心のステラ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--感じる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--景色の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--予定の調整役--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -459,16 +463,13 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">TBA</a>
+                            <a href="" id="none">Hidden Island</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">TBA</a>
-                        </li>
-                        <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>

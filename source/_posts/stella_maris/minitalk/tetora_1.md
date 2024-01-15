@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Kanata Mini Talk: wonderful news"
-date: 2024/1/16 9:04:00
+title: "Stella Maris – Tetora Mini Talk: lovely present"
+date: 2024/1/16 9:00:00
 categories:
-- [Enstars, Kanata]
+- [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's first Mini Talk from Tropical. From Anzu's POV."
+description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Kanata" character="Kanata"></a>
+								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/tropical">Tropical</a>
+                    <a href="/stella_maris">Stella Maris</a>
                 </div>
             </div>
         </div>
@@ -51,9 +51,9 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata1_1.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora1_1.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Tetora v2 %}
 fufufu\~♪ hello, anzu-san\~
 
 i [seem] to be in a good mood? you figured me out~♪
@@ -67,7 +67,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
             Is it about work?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             yes, it is about [work]~ by the way, the magazine [photoshoot] should give you a [clue].
 
             fufufu, this is fun, it is like i am giving you a [quiz]…♪
@@ -79,7 +79,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
             Something wonderful?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             yes. there is nothing more wonderful to hear than [this], personally.
 
             ufufu, i would love it if you asked me what it is…♪
@@ -91,7 +91,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
             Is it about Ryuseitai?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             no, it is only about [me] this time.
 
             but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
@@ -102,9 +102,9 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata1_2.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora1_2.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Tetora v2 %}
 you see, my next magazine photoshoot will be on the [beach].
 
 my [job] will be to introduce [seafood].
@@ -118,7 +118,7 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
             It sounds like fun.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             yes\~♪ i am already so excited\~
 
             i will be sure to bring back tasty [fish] as a [souvenir] for you, anzu-san~♪
@@ -130,7 +130,7 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
             It really does suit you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             showing off my [love] for the ocean has [paid off], hasn't it~
 
             fufu, i hope to [continue] to get more [jobs] to do with the ocean…♪
@@ -142,7 +142,7 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
             I hope you can dip in the ocean.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             i wonder… it will [mainly] be about [dishes] this time, so i am not sure…
 
             but i may be able to *[puka puka]* during my break time…♪
@@ -153,9 +153,9 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata1_3.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Tetora v2 %}
 a [job] about something you enjoy really gets you in the [mood]~
 
 i will [practice] starting today, so that i may properly express my [thoughts] once it is time.
@@ -169,7 +169,7 @@ would you be willing to help me with improving my [food reporting] skills?
           I'll book a seafood restaurant, then.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             thank you…♪ you are always so reliable, anzu-san.
 
             i am [excited] to see what sort of restaurant you will [book] for me~…♪
@@ -181,7 +181,7 @@ would you be willing to help me with improving my [food reporting] skills?
             I'll gather more information for you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             umm… you will prepare a [manual] for me, in order to do a proper [food reportage]…?
 
             that would be most helpful…♪ but [no] pushing yourself, okay?
@@ -193,7 +193,7 @@ would you be willing to help me with improving my [food reporting] skills?
             I'll find an adviser for you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora v2 %}
             an [adviser]? so you will find someone who is good at [food reportage], yes?
 
             fufufu, i am excited then. i would love to say something like, "my mouth feels like the ocean~" ♪
@@ -202,4 +202,4 @@ would you be willing to help me with improving my [food reporting] skills?
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: treasured item %}</div>
+<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: rejecting [leadership] %}</div>

@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Kanata Mini Talk: treasured item"
-date: 2024/1/16 9:05:00
+title: "Stella Maris – Tetora Mini Talk: rejecting [leadership]"
+date: 2024/1/16 9:00:00
 categories:
-- [Enstars, Kanata]
+- [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
+description: "[ES!!] Tetora's second Mini Talk from Stella Maris. From Anzu's POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Kanata" character="Kanata"></a>
+								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/tropical">Tropical</a>
+                    <a href="/stella_maris">Stella Maris</a>
                 </div>
             </div>
         </div>
@@ -51,9 +51,9 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata2_1.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora2_1.jpg %}
 
-{% bubble Kanata curious %}
+{% bubble Tetora curious %}
 what is it, anzu-san~?
 
 [mascot character] merchandise as a [gift]? why me, and not midori…?
@@ -67,7 +67,7 @@ ahh, i see. it is a [fish mascot]~♪
             Do you like it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             yes~ i had no idea there was a [character] like this.
 
             i will treasure this [item]. thank you~♪
@@ -79,7 +79,7 @@ ahh, i see. it is a [fish mascot]~♪
             Its charm point is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata curious %}
+            {% bubble Tetora curious %}
             oh, the other side of its [body] is [sashimi]…?
 
             what a strange [character]~ is that how it is with [mascot characters]?[^1]
@@ -91,7 +91,7 @@ ahh, i see. it is a [fish mascot]~♪
             Its slogan is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             "tasty, energetic [fish]"?
 
             so it is treated as [food], yes? now i want to learn more about it~♪
@@ -102,9 +102,9 @@ ahh, i see. it is a [fish mascot]~♪
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata2_2.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora2_2.jpg %}
 
-{% bubble Kanata smilesoft2 %}
+{% bubble Tetora smilesoft2 %}
 since this is a mascot, i would love to show [it] to midori.
 
 he really loves [mascot characters], after all.
@@ -118,7 +118,7 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
             Actually…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             you gave [it] to midori, too?
 
             fufu, you are so quick to work, anzu-san~♪
@@ -130,7 +130,7 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
             You really care about your juniors, huh?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             fufufu, it feels a bit embarrassing when you say that~
 
             midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
@@ -142,7 +142,7 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
             Oh, then…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             you have another [one]?
 
             thank you~ i will give it to midori later…♪
@@ -153,9 +153,9 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/TBA/minitalk_kanata2_3.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_tetora2_3.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Tetora %}
 you would like to give me something else? this is… a [pamphlet], right?
 
 ohh, there will be a [photoshoot event] for this fishie, yes?
@@ -169,7 +169,7 @@ i already finished my work, so maybe i will [go] and visit them.
           Here's the map for it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             waah, you are always [perfect] with your job, aren't you~?
 
             fufu, i will take a [peek] on my way [home].
@@ -181,7 +181,7 @@ i already finished my work, so maybe i will [go] and visit them.
             I'll prepare a camera.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             you will prepare a [camera] for the [photoshoot]?
 
             then let's go together, anzu-san~
@@ -193,7 +193,7 @@ i already finished my work, so maybe i will [go] and visit them.
             Please enjoy yourself.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
+            {% bubble Tetora %}
             hm? you will not join me, anzu-san?
 
             then i will invite someone else to come with me~
@@ -202,8 +202,8 @@ i already finished my work, so maybe i will [go] and visit them.
     </div>
 </div>
 <br>
-<div toc>{% btn /tropical/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: wonderful news %}{% btn /minitalk/#Tropical,, star, Index %}</div>
+<div toc>{% btn /stella_maris/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
 
 ## Translation Notes
 
-[^1]: In this case, Kanata is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
+[^1]: In this case, Tetora is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
