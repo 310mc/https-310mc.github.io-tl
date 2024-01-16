@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Tetora Mini Talk: rejecting [leadership]"
-date: 2024/1/16 9:00:00
+date: 2024/1/16 9:07:00
 categories:
 - [Enstars, Tetora]
 tags:

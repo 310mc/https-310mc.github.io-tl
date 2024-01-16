@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Kanata Mini Talk: lovely present"
-date: 2024/1/16 9:00:00
+date: 2024/1/16 9:08:00
 categories:
 - [Enstars, Kanata]
 tags:
