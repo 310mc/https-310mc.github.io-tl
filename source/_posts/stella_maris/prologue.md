@@ -201,15 +201,15 @@ and that part is not one i am willing to [give up].
 {% bubble Chiaki grin2 %}
 Mhm! It’s wonderful to have something you aren’t willing to give up!
 
-We, the reborn Ryuseitai, will continue to cherish that aspect![^2]
+We, the reborn Ryuseitai, will continue to cherish that aspect!
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-I know I’ve explained this many times before, but — From here on, we’ll be taking turns with the commander role[^3] for every job.
+I know I’ve explained this many times before, but — From here on, we’ll be taking turns with the commander role[^2] for every job.
 
 To be more precise, for each job sent to us, the most suitable member will take up the role of the commander for the duration of it.
 
-That way, we’ll no longer be in a situation where jobs are constantly entrusted to one person, like it was to me — and it should immensely expand our range of activities in the unit.
+That way, we’ll no longer be in a situation where jobs are constantly entrusted to one person, like it was to me — and it should immensely expand our range of activities in the unit.[^3]
 {% endbubble %}
 
 {% bubble Tetora yare %}
@@ -269,7 +269,7 @@ Shinkai-senpai…
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-but. it [bothers] me to think you may see it as me [slacking off], so i will work hard as the [commander] this time.
+but. it [bothers] me to think you may see it as me [slacking off], so i will work hard as the [leader] this time.
 
 i will do everything in my power to guide everyone as ryuseitai’s [leader]!
 
@@ -277,23 +277,23 @@ now then, what are your [catchphrases] when i am [commander]~?
 {% endbubble %}
 
 {% bubble Chiaki smile %}
-The red-fleshed king! Tuna![^6]
+The red-fleshed king! Tuna!
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-Bears love us, too! Salmon![^7]
+Bears love us, too! Salmon!
 {% endbubble %}
 
 {% bubble Tetora fist %}
-We may be poisonous, but we’re tasty! Puffer fish![^8]
+We may be poisonous, but we’re tasty! Puffer fish![^6]
 {% endbubble %}
 
 {% bubble Shinobu fist %}
-In auspicious times, sea bream![^9]
+In auspicious times, sea bream![^7]
 {% endbubble %}
 
 {% bubble Kanata smileconfident %}
-and~ with enough effort, we can be eaten as *kamaboko!* mr. [shark]![^10]
+and~ with enough effort, we can be eaten as *kamaboko!*[^8] mr. [shark]!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -311,13 +311,11 @@ Kya-kya! ☆ Kya-kya! ☆
 
 ## Translation Notes
 
-[^1]: TBA
-[^2]: TBA
-[^3]: TBA
-[^4]: TBA
-[^5]: TBA
-[^6]: TBA
-[^7]: TBA
-[^8]: TBA
-[^9]: TBA
-[^10]: TBA
+[^1]: Kanata says <em>one, two, san</em>, switching from English to Japanese for the numbering.
+[^2]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It's how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
+[^3]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori's turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
+[^4]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^5]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
+[^6]: Puffer fish (<em>fugu</em>) are a delicacy in Japan, and have to be prepared thoroughly by a skilled chef to remove the toxins. TBA
+[^7]: Sea breams are significant in Japanese culture. TBA
+[^8]: Kamaboko refers to a fish paste TBA

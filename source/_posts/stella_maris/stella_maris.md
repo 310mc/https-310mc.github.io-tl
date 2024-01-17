@@ -463,10 +463,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="" id="none">Hidden Island</a>
+                            <a href="hidden_island" id="none">Hidden Island</a>
                         </li>
                         <li>
                             <a href="" id="none">Epilogue</a>
