@@ -327,7 +327,7 @@ I’m not gonna run away! It’s too late for that anyway, I can’t just quit s
 {% bubble Midori sigh %}
 I’ll go along with you guys as much as possible, so the least I ask is not to use any forceful tactics on me…!
 
-Ughh, I can’t freaking take it anymore with these idiots…!
+Ughh, I can’t freaking take it anymore with these goofy idiots…!
 {% endbubble %}
 
 ## Midori Idol Stories

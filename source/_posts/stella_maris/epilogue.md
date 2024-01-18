@@ -61,6 +61,7 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
+<!--
 <div toc>
 {% btn /stella_maris/TBA,, arrow-left, Previous Chapter: TBA %}
 {% btn /stella_maris,, star, Index %}
@@ -77,6 +78,8 @@ hidden: true
 <div class="msr-narration">
     <p>ADD…</p>
 </div>
+
+-->
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>

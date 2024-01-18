@@ -277,11 +277,11 @@ now then, what are your [catchphrases] when i am [commander]~?
 {% endbubble %}
 
 {% bubble Chiaki smile %}
-The red-fleshed king! Tuna!
+King of red meat! Tuna!
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-Bears love us, too! Salmon!
+Bears love it, too! Salmon!
 {% endbubble %}
 
 {% bubble Tetora fist %}

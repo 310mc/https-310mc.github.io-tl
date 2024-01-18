@@ -966,7 +966,7 @@ for now, i will [call] him over and ask~
 
 <div class="msr-cw">
     <span><b>Content Warning</b></span>
-    <p>Brief mentions of seppuku ahead.</p>
+    <p>Casual mentions of seppuku ahead.</p>
 </div>
 
 {% bubble Tetora %}
@@ -1503,7 +1503,7 @@ Anzu-san and Kanzaki-senpai don’t seem to be here yet… Let’s get everythin
 
 <div class="msr-cw">
     <span><b>Content Warning</b></span>
-    <p>Brief mentions of seppuku and drowning ahead.</p>
+    <p>Casual mentions of seppuku and drowning ahead.</p>
 </div>
 
 {% img /img/es/scoutstory/colorfulautumn/8.jpg %}
