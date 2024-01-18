@@ -376,7 +376,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 
 <th>“Do it properly!”</th>
 
-<th>“Don’t you have any motivation?”)</th>
+<th>“Are you really trying?”)</th>
 
 <th>(You think you're *such* a good person by saying all of that… Acting as if you’re being reasonable and helpful…)</th>
 {% endbubble %}

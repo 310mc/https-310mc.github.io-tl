@@ -291,20 +291,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__name">[dream-granting stella] Kanata Shinkai</div>
                                     <div class="card__jp">[かなうゆめのすてら] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--みちびくすいへいせん--></div>
+                                                <div class="name">guiding horizon<!--みちびくすいへいせん--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--うみのざんきょう--></div>
+                                                <div class="name">reverberation of the sea<!--うみのざんきょう--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--だいじなもの--></div>
+                                                <div class="name">precious things<!--だいじなもの--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -327,20 +327,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__name">[Stella that Sings in the Night] Tetora Nagumo</div>
                                     <div class="card__jp">[歌う夜のステラ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--先広がる水平線--></div>
+                                                <div class="name">The Horizon that Widens Ahead<!--先広がる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--記憶の残響--></div>
+                                                <div class="name">Reverberation of Memories<!--記憶の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--迫力の待ち人--></div>
+                                                <div class="name">Intimidating Person<!--迫力の待ち人--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -363,20 +363,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__name">[Stella that Sings at the Sea] Chiaki Morisawa</div>
                                     <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--見つめる水平線--></div>
+                                                <div class="name">Gazing Horizon<!--見つめる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--正義の残響--></div>
+                                                <div class="name">Reverberation of Justice<!--正義の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--海辺の密会--></div>
+                                                <div class="name">Secret Meeting at the Beach<!--海辺の密会--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -399,20 +399,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__name">[Stella that Follows the Island] Midori Takamine</div>
                                     <div class="card__jp">[伝う島のステラ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--向かう水平線--></div>
+                                                <div class="name">Facing the Horizon<!--向かう水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--世界の残響--></div>
+                                                <div class="name">Reverberation of the World<!--世界の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--世間の現実--></div>
+                                                <div class="name">Reality of Society<!--世間の現実--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -435,20 +435,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__name">[Stella with a Heart Full of Feelings] Shinobu Sengoku</div>
                                     <div class="card__jp">[想う心のステラ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--感じる水平線--></div>
+                                                <div class="name">Horizon that One Feels<!--感じる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--景色の残響--></div>
+                                                <div class="name">Reverberation of the Scenery<!--景色の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--予定の調整役--></div>
+                                                <div class="name">Schedule Organizer<!--予定の調整役--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

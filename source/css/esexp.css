@@ -117,6 +117,9 @@
 [character="Midori"][sighfrown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sighfrown.png");
 }
+[character="Midori"][sightired] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sightired.png");
+}
 [character="Midori"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile.png");
 }
@@ -218,6 +221,9 @@
 }
 [character="Chiaki"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_frown.png");
+}
+[character="Chiaki"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_frown2.png");
 }
 [character="Chiaki"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_frownshake.png");
@@ -446,8 +452,14 @@
 [character="Kanata"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_curious.png");
 }
+[character="Kanata"][fist] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_fist.png");
+}
 [character="Kanata"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown.png");
+}
+[character="Kanata"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frown2.png");
 }
 [character="Kanata"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_frownshake.png");
@@ -469,6 +481,9 @@
 }
 [character="Kanata"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_nod.png");
+}
+[character="Kanata"][nod2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_nod2.png");
 }
 [character="Kanata"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_norsmile.png");
@@ -962,7 +977,7 @@
 /**
 ***/
 
-/** Comet Show
+/** NPCs
 ***/
 [character="Kaijuu"] {
   --color:#122330;
@@ -970,6 +985,100 @@
   --light-mode:hsl(206, 15%, 84%);
   --dark-mode:hsl(206, 15%, 84%);
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hugekaijuu.png");
+}
+
+[character="Mizusaba"] {
+  --color: #E4E4F7;
+  --hue: 237.93;
+  --name: "Mizusaba";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mizusabatest.png")
+
+}
+
+[character=Konata]{
+  --color: #008db7;
+  --hue: 193.8;
+  --name: "Konata";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kid.png")
+}
+
+[character="Konata"][angry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidangry.png");
+}
+[character="Konata"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidcurious.png");
+}
+[character="Konata"][ehen] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidehen.png");
+}
+[character="Konata"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
+}
+[character="Konata"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrownshake.png");
+}
+[character="Konata"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidglare.png");
+}
+[character="Konata"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidgrin.png");
+}
+[character="Konata"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnod.png");
+}
+[character="Konata"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnorsmile.png");
+}
+[character="Konata"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnorthinking.png");
+}
+[character="Konata"][srsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsrsthinking.png");
+}
+[character="Konata"][sad3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsad3.png");
+}
+[character="Konata"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsad4.png");
+}
+[character="Konata"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidserious.png");
+}
+[character="Konata"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidshocked.png");
+}
+[character="Konata"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh.png");
+}
+[character="Konata"][sigh2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh2.png");
+}
+[character="Konata"][sleeping] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleeping.png");
+}
+[character="Konata"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile.png");
+}
+[character="Konata"][smile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile2.png");
+}
+[character="Konata"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileconfident.png");
+}
+[character="Konata"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmilesoft.png");
+}
+[character="Konata"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmilesoft2.png");
+}
+[character="Konata"][sobbing] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsobbing.png");
+}
+[character="Konata"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsurprised.png");
+}
+[character="Konata"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidworried.png");
 }
 /**
 ***/
@@ -2374,6 +2483,23 @@
   --name: "Aquarius";
   --hue: 193.8;
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
+}
+
+[character=TetoraChiaki]{
+  --color: #302833;
+  --hue: 283.6;
+  --light-mode: hsl(283.6, 9%, 92%) !important;
+  --dark-mode: hsl(283.6, 5%, 25%) !important;
+  --fill-mode: hsl(283.6, 5%, 45%);
+  --name: "Tetora & Chiaki";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_tetorachiaki.png")
+}
+
+[character=MidoriShinobu]{
+  --color: #00533f;
+  --hue: 165.5;
+  --name: "Midori & Shinobu";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_midorishinobu.png")
 }
 
 [character=MidoriJun]{

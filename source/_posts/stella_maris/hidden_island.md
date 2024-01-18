@@ -445,7 +445,7 @@ That is one of Shinkai-dono’s charms… However, I think about this a lot, but
 We’ll just have to make sure we support him then — as much as he has for us, at the very least. Ossu.
 {% endbubble %}
 
-{% bubble Midori v3 %}
+{% bubble Midori serious %}
 Yeah… Shinkai-senpai is our mascot character[^10]… We need to protect him at all costs.
 {% endbubble %}
 
@@ -502,7 +502,7 @@ Mm—? Y-You guys…!?
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-Fweh? What’s the matter all of a sudden, Morisawa-dono?
+Hweh? What’s the matter all of a sudden, Morisawa-dono?
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -522,7 +522,7 @@ ah, no— how do people [greet] each other in [okinawa] again…? Ermm, haitai~?
 {% bubble Mizusaba unknown %}
 Haitai~…♪
 
-But no worries, there’s no need to speak in Okinawan dialect with me~. We[^11] also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^12] influence.
+But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^11] influence.
 
 In fact, kids might not even understand you if you talk in Okinawan dialect~…♪
 {% endbubble %}
@@ -540,9 +540,9 @@ In fact, kids might not even understand you if you talk in Okinawan dialect~…�
 {% endbubble %}
 
 {% bubble Mizusaba unknown %}
-Oh wow? I think I’m scaring some of you…?
+Oh wow? Some of you seem scared…?
 
-Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪
+Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪[^12]
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -630,7 +630,7 @@ Thank you for the translation.
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
-If I recall correctly, the worshippers that split into their own branch a long time advanced a religion of their own in Okinawa, right?
+If I’m not mistaken, the worshippers that split into their own branch a long time ago advanced a religion of their own in Okinawa, right?
 
 But even then, those from the supporting line consider Kanata as their God as well, so—
 {% endbubble %}
@@ -670,7 +670,7 @@ You were talking about basketball?
 {% endbubble %}
 
 {% bubble Shinobu nod %}
-He’s bringing “overhaul” through “basketball”.[^21]
+He’s talking about “overhaul” through “basketball”.[^21]
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -782,18 +782,18 @@ Translation in progress! 5/XX chapters
 [^4]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
 [^5]: This is also referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
 [^6]: Kanata says “let's go” as you would in English, though it was written in hiragana in the text, implying it's said how you would in Japanese.
-[^7]: TBA
-[^8]: TBA
-[^9]: TBA
-[^10]: TBA
-[^11]: TBA
-[^12]: TBA
-[^13]: TBA https://iconduck.com/icons/114306/sharktale
-[^14]: TBA
-[^15]: TBA
-[^16]: TBA
-[^17]: TBA
-[^18]: TBA
-[^19]: TBA
-[^20]: TBA
-[^21]: TBA
+[^7]: This is how Okinawans say “Welcome”.
+[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, in Ruthless Battlefield 9</a>.
+[^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
+[^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
+[^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
+[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a formal pronoun to refer to oneself.
+[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation for a prettier visual. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
+[^15]: Mizusaba calling Kanata with “sama” implies a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
+[^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
+[^17]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine, Nirai Kanai chapters</a>.
+[^18]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji differentiating the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
+[^19]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine,</a> where Ryuseitai decides to help the locals.
+[^20]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, which occurs in Okinawa.
+[^21]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.

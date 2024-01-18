@@ -1159,13 +1159,13 @@ You tend to sound inconsiderate when you talk, so you probably hurt him without 
 {% bubble Subaru northinking %}
 Huh~? Nah, I just said what’s on my mind.
 
-Like, “why can't you get this right?” and “do it properly!” and “don’t you have any motivation?”
+Like, “why can't you get this right?” and “do it properly!” and “are you really trying?”
 {% endbubble %}
 
 {% bubble Mao shocked %}
 Holy… For an ordinary person, hearing that from a genius would hurt a *lot*.
 
-I don't think he had no motivation, y’know. I'm sure he was trying to do it properly.
+I don't think he wasn’t trying, y’know. I'm sure he was trying to do it properly.
 
 He may complain a lot, but he works hard at what he's told to.
 {% endbubble %}
