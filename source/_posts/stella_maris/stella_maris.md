@@ -199,7 +199,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 Event
                             </div>
                             <div class="value">
-                                Reverb ★ The Stella Maris Crossing Through the Horizon<!--Reverb★水平線を渡るステラマリス-->
+                                Reverb ★ The Stella Maris Across the Horizon<!--Reverb★水平線を渡るステラマリス-->
                             </div>
                         </div>
                         <div class="tab-item">
@@ -467,6 +467,9 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         </li>
                         <li>
                             <a href="hidden_island" id="none">Hidden Island</a>
+                        </li>
+                        <li>
+                            <a href="" id="none">Birthplace of Stars</a>
                         </li>
                         <li>
                             <a href="" id="none">Epilogue</a>

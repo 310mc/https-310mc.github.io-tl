@@ -285,7 +285,7 @@ Bears love it, too! Salmon!
 {% endbubble %}
 
 {% bubble Tetora fist %}
-We may be poisonous, but we’re tasty! Fugu![^6]
+We may be poisonous, but we’re tasty! Pufferfish![^6]
 {% endbubble %}
 
 {% bubble Shinobu fist %}
@@ -316,6 +316,6 @@ Kya-kya! ☆ Kya-kya! ☆
 [^3]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori's turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
 [^4]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^5]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
-[^6]: Fugu (a type of pufferfish) are a delicacy in Japan, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
+[^6]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
 [^7]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it's said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it's rotten, it's still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
 [^8]: Kamaboko is a sort of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
