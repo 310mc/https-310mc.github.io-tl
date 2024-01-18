@@ -164,7 +164,7 @@ But it seems like they're all busy, so they refused my dinner invitation…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-But Hiiro-kun's coming! He said he'll bring over Shiratori-kun too, so I plan to put my all when cooking this meal, to treat 'em good~♪.
+But Hiiro-kun's coming! He said he'll bring over Shiratori-kun too, so I plan to put my all when cooking this meal, to treat 'em good~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

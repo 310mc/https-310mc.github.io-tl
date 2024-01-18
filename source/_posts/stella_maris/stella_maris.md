@@ -490,8 +490,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="tba/tetora_1" id="none">x</a>
-                            <a href="tba/tetora_2" id="none">x</a>
+                            <a href="minitalk/tetora_1" id="none">Part One</a>
+                            <a href="minitalk/tetora_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
