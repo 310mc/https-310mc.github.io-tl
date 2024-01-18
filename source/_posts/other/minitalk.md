@@ -720,15 +720,15 @@ permalink: minitalk/
             <span class="read"></span>
         </a>
     </div>
-<!--    <div class="story">
+    <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
-                alt="The Planning Of That Show"
+                alt="Buying Ingredients for a Big Meal"
             />
         </div>
         <a href="/stella_maris/minitalk/tetora_1" class="storyName" target="_blank">
-            <span>1: The Planning Of That Show</span>
+            <span>1: Buying Ingredients for a Big Meal</span>
             <span class="read"></span>
         </a>
     </div>
@@ -736,14 +736,14 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
-                alt="Unaligned Feelings"
+                alt="Preparing in Advance for a Job"
             />
         </div>
         <a href="/stella_maris/minitalk/tetora_2" class="storyName" target="_blank">
-            <span>2: Unaligned Feelings</span>
+            <span>2: Preparing in Advance for a Job</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div><!--
     <div class="story">
         <div class="image">
             <img

@@ -1,6 +1,6 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: lovely present"
-date: 2024/1/16 9:06:00
+title: "Stella Maris – Tetora Mini Talk: Buying Ingredients for a Big Meal"
+date: 2024/1/18 9:06:00
 categories:
 - [Enstars, Tetora]
 tags:
@@ -54,47 +54,49 @@ hidden: true
 {% img /img/es/eventstory/stellamaris/minitalk_tetora1_1.jpg %}
 
 {% bubble Tetora v2 %}
-fufufu\~♪ hello, anzu-san\~
+'Suup, Anego! Are you shopping?
 
-i [seem] to be in a good mood? you figured me out~♪
+I am too, as you can see! I bought some ingredients in the area.
+{% endbubble %}
 
-i just finished a [photoshoot] for a magazine, and heard about [something] wonderful.
+{% bubble Tetora awkward0 %}
+I bought way more than I planned, 'cuz they were having a huge sale…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it about work?
+            Isn't it heavy?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            yes, it is about [work]~ by the way, the magazine [photoshoot] should give you a [clue].
+            I train a ton, so this is easy-peasy stuff for me!
 
-            fufufu, this is fun, it is like i am giving you a [quiz]…♪
+            In fact, I could even carry your stuff, too~! Please let me know if it's ever heavy on you!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Something wonderful?
+            What did you buy?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            yes. there is nothing more wonderful to hear than [this], personally.
+            Mostly veggies and seasonings I wanted to try out.
 
-            ufufu, i would love it if you asked me what it is…♪
+            Midori-kun taught me how to have an eye for the good ones, so I think I managed to buy some nice veggies! I gotta thank him again for the tip~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it about Ryuseitai?
+            Sales are so nice to have, right?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            no, it is only about [me] this time.
+            You get me, Anego…!? I'm so happy~♪
 
-            but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
+            Since it was such a huge sale, I was almost beaten by the fiery competition among a bunch'a married couples, but I managed to buy 'em in the end!
 			{% endbubble %}
         </div>
     </div>
@@ -105,47 +107,47 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
 {% img /img/es/eventstory/stellamaris/minitalk_tetora1_2.jpg %}
 
 {% bubble Tetora v2 %}
-you see, my next magazine photoshoot will be on the [beach].
+Actually, I'm gonna get a share of fresh seafood from Shinkai-senpai.
 
-my [job] will be to introduce [seafood].
+When you have high-quality ingredients, it's natural to have the urge to cook tasty food on your own!
 
-it is the most suitable [work] for me. i was pleasantly surprised when they told me…♪
+So I plan to make a full course meal with the seafood once I'm back at the dorms~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It sounds like fun.
+            Can you prepare the fish?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            yes\~♪ i am already so excited\~
+            Actually, I've never really prepared fish before…
 
-            i will be sure to bring back tasty [fish] as a [souvenir] for you, anzu-san~♪
+            But I've watched a video of it before, so I've got a pretty good gist of it! As long as I follow the instructions, I'm sure I'll manage!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It really does suit you.
+            Seafood, as in…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            showing off my [love] for the ocean has [paid off], hasn't it~
+            {% bubble Tetora northinking %}
+            Ah, I dunno what I'm gonna get from him, either.
 
-            fufu, i hope to [continue] to get more [jobs] to do with the ocean…♪
+            Shinkai-senpai said it's fish we all know and love. Since it's spring, I'm guessing it's sardine and skipjack tuna?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I hope you can dip in the ocean.
+            Cooking is fun, isn't it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            i wonder… it will [mainly] be about [dishes] this time, so i am not sure…
+            {% bubble Tetora smilesoft %}
+            Yeah~♪ I'm not really good at cooking or anything, and I'm still learning, but…
 
-            but i may be able to *[puka puka]* during my break time…♪
+            It's just so much fun, and it especially excites me to think of what to make for food.
 			{% endbubble %}
         </div>
     </div>
@@ -155,51 +157,58 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
 
 {% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
 
+{% bubble Tetora sightired %}
+Since I'm making food and everything, I wanted to treat Ryuseitai to a meal.
+
+But it seems like they're all busy, so they refused my dinner invitation…
+{% endbubble %}
+
 {% bubble Tetora v2 %}
-a [job] about something you enjoy really gets you in the [mood]~
-
-i will [practice] starting today, so that i may properly express my [thoughts] once it is time.
-
-would you be willing to help me with improving my [food reporting] skills?
+But Hiiro-kun's coming! He said he'll bring over Shiratori-kun too, so I plan to put my all when cooking this meal, to treat 'em good~♪.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll book a seafood restaurant, then.
+          I hope they enjoy it.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            thank you…♪ you are always so reliable, anzu-san.
-
-            i am [excited] to see what sort of restaurant you will [book] for me~…♪
+            Heheh. I wanna cook something that'll make those two glad they could try it.
+            {% endbubble %}
+            {% bubble Tetora awkward0 %}
+            I wanna make sure I avoid what happened in the school trip…[^1]
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll gather more information for you.
+            I'd love it if you showed me a photo.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            umm… you will prepare a [manual] for me, in order to do a proper [food reportage]…?
+            {% bubble Tetora smilesoft %}
+            If you wanna see, then I'll gladly take photos for ya~♪
 
-            that would be most helpful…♪ but [no] pushing yourself, okay?
+            If there are any leftovers, I might be able to bring some to the agency tomorrow…? That way, you can eat some too, right?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll find an adviser for you.
+            What about ALKALOID's…
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            an [adviser]? so you will find someone who is good at [food reportage], yes?
+            Ayase-senpai and Tatsumi-senpai? They both have a job today, it seems.
 
-            fufufu, i am excited then. i would love to say something like, "my mouth feels like the ocean~" ♪
+            ALKALOID's busy too, huh~ Ryuseitai won't lose to 'em!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: rejecting [leadership] %}</div>
+<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Preparing in Advance for a Job %}</div>
+
+## Translation Notes
+
+[^1]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.

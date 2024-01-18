@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Kanata Mini Talk: secrets to [leadership]"
-date: 2024/1/16 9:09:00
+date: 2024/1/18 9:09:00
 categories:
 - [Enstars, Kanata]
 tags:
@@ -204,7 +204,3 @@ may i join you? i feel like if i were to see those [two], it would soothe me…�
 </div>
 <br>
 <div toc>{% btn /stella_maris/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
-
-## Translation Notes
-
-[^1]: In this case, Kanata is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.

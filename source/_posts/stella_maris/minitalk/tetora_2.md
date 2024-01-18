@@ -1,6 +1,6 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: rejecting [leadership]"
-date: 2024/1/16 9:07:00
+title: "Stella Maris – Tetora Mini Talk: Preparing in Advance for a Job"
+date: 2024/1/18 9:07:00
 categories:
 - [Enstars, Tetora]
 tags:
@@ -53,48 +53,48 @@ hidden: true
 
 {% img /img/es/eventstory/stellamaris/minitalk_tetora2_1.jpg %}
 
-{% bubble Tetora curious %}
-what is it, anzu-san~?
+{% bubble Tetora frown %}
+Uumyu… There's still so much I dunno…
 
-[mascot character] merchandise as a [gift]? why me, and not midori…?
+Ah— Did I say that out loud!? I'm real sorry if I'm disturbing your break.
 
-ahh, i see. it is a [fish mascot]~♪
+Huh? You'll hear me out? You're really kind, Anzu-Anego.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you like it?
+            I'm a producer, after all.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            yes~ i had no idea there was a [character] like this.
+            {% bubble Tetora v2 %}
+            Still, that doesn't automatically mean it's a natural part of the job.
 
-            i will treasure this [item]. thank you~♪
+            There's no other producer out there who treats us this kindly than you, Anego. I'm always grateful to you~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its charm point is…
+            You can speak to me about anything.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora curious %}
-            oh, the other side of its [body] is [sashimi]…?
+            {% bubble Tetora v2 %}
+            Ahaha, you're always so reliable. I really respect that 'bout you.
 
-            what a strange [character]~ is that how it is with [mascot characters]?[^1]
+            Hm… Aight, I'd like it if you could hear me out a li'l.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its slogan is…
+            Are you tired?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            "tasty, energetic [fish]"?
+            {% bubble Tetora v2 %}
+            Nah, not at all! As you can see, I'm filled to the brim with energy!
 
-            so it is treated as [food], yes? now i want to learn more about it~♪
+            I'm feelin' pretty good lately, maybe 'cuz of this new exercise I added to my training regime recently. Muscles really are important to take care of…♪
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +104,50 @@ ahh, i see. it is a [fish mascot]~♪
 
 {% img /img/es/eventstory/stellamaris/minitalk_tetora2_2.jpg %}
 
-{% bubble Tetora smilesoft2 %}
-since this is a mascot, i would love to show [it] to midori.
+{% bubble Tetora v2 %}
+Truth is, I have to do a job related to a fish commercial.
 
-he really loves [mascot characters], after all.
+I thought to study up some more about fish, so I read a reference book I borrowed from Shinkai-senpai.
+{% endbubble %}
 
-i am sure it is as precious to him as the [ocean] and [fish] are to me.
+{% bubble Tetora sightired %}
+But there's just so many types of fish that I don't feel like I'll be able to learn any of 'em…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Actually…
+            You'll have to go slowly, huh?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you gave [it] to midori, too?
+            {% bubble Tetora v2 %}
+            True, studying and training aren't something you can manage through in one night.
 
-            fufu, you are so quick to work, anzu-san~♪
+            I dunno if this'll come in handy, but… I'll keep looking through the book 'til the day our job starts!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You really care about your juniors, huh?
+            How about someone teaches you?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            fufufu, it feels a bit embarrassing when you say that~
+            {% bubble Tetora awkward0 %}
+            At first, I thought to ask Shinkai-senpai teach me, but while there are times his explanations are easy to understand, there are also just as many where it's impossible to…
 
-            midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
+            So for now, I'll do my best on my own as much as I can. If I really can't manage it, I'll ask him.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh, then…
+            What about going to the aquarium?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you have another [one]?
+            {% bubble Tetora v2 %}
+            Oh yeah, maybe it'll be easier to remember if I were to see them in real life.
 
-            thank you~ i will give it to midori later…♪
+            I think I'll try and find the time to go to one! I'm so glad I asked you for advice, Anego~♪
 			{% endbubble %}
         </div>
     </div>
@@ -155,55 +157,51 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 {% img /img/es/eventstory/stellamaris/minitalk_tetora2_3.jpg %}
 
-{% bubble Tetora %}
-you would like to give me something else? this is… a [pamphlet], right?
+{% bubble Tetora v2 %}
+I've got no choice but to go step by step, and start from whatever I'm capable of. I'll also ask Shinobu-kun and Midori-kun for their advice.
 
-ohh, there will be a [photoshoot event] for this fishie, yes?
+But huh, after using my head, I'm getting the urge to move my body…
 
-i already finished my work, so maybe i will [go] and visit them.
+I wonder if the training room's free right now? If it is, I think I'll do some light training!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Here's the map for it.
+          It was free.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            waah, you are always [perfect] with your job, aren't you~?
+            {% bubble Tetora v2 %}
+            Ah, you passed by that room?
 
-            fufu, i will take a [peek] on my way [home].
+            Then I'll head over there now. Thank you for all your help, Anego!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll prepare a camera.
+            I'll prepare a towel for you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you will prepare a [camera] for the [photoshoot]?
+            {% bubble Tetora smilesoft %}
+            Huh? No, no, I'll prepare that myself. I can't keep takin' more of your time!
 
-            then let's go together, anzu-san~
+            But I appreciate the thought, Anego. You've given me the strength to work hard in my training~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please enjoy yourself.
+            I think that person was over there.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            hm? you will not join me, anzu-san?
+            {% bubble Tetora v2 %}
+            Taishou was there a moment ago!? Will I be able to see him if I run now…?
 
-            then i will invite someone else to come with me~
+            Thank you so much for letting me know! I'll head off, then!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
-
-## Translation Notes
-
-[^1]: In this case, Tetora is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
+<div toc>{% btn /stella_maris/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: Buying Ingredients for a Big Meal %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
