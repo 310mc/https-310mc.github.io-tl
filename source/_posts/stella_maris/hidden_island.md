@@ -268,7 +268,7 @@ In other words, he excels as an assistant, but the very moment Kanata is the cor
 {% bubble Tetora yare %}
 Well, I mean… We’ve got no choice but to handle it somehow. It’s pretty nerve-wracking not knowing where we’re headed, though.
 
-After all, we follow the fundamental concept of the reborn Ryuseitai, and that is: The member who takes up the commander role will be in charge of everything, and the rest of the members will follow his command.
+After all, we follow the fundamental concept of the reborn Ryuseitai, and that is: The member who takes up the commander role is in charge of everything, and the rest of the members follow his command.
 {% endbubble %}
 
 {% bubble Chiaki frownshake %}
@@ -316,7 +316,7 @@ Wouldn’t it have been nice to tell us something as important as that much earl
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Uumyu, we’re going to Okinawa…? It was fine during the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^5]
+Uumyu, we’re going to Okinawa…? It was fine durin’ the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^5]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -364,7 +364,7 @@ Are you a local now?
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-Ahaha. To be fair, all of us have a pretty deep connection to this place at this point.
+Ahaha. To be fair, all’a us have a pretty deep connection to this place at this point.
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -390,13 +390,13 @@ But I appreciate the thought, Midori-kun. It really makes me happy.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-You see, I was continuously participating in a harsh show called “2x2” up until recently[^9]… And my troublesome friend made me go through with his whims the whole time.
+You see, I was continuously participating in a harsh show called “2x2” up until recently[^9]… And my troublesome friend made me go through a lot with his whims the whole time.
 
 So a friend simply showing concern for me is enough to move my heart.
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
-Wasn’t that a 2wink program or something… Making our Shinobu-kun miserable is unforgivable…
+Wasn’t that a 2wink show or something… Making our Shinobu-kun miserable is unforgivable…
 {% endbubble %}
 
 {% bubble Shinobu sigh %}
@@ -434,11 +434,11 @@ Is it a remote island that rarely has visitors?
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Uu~myu… As usual, everything Shinkai-senpai says is too vague and floaty to really know what it is.
+Uu~myu… As usual, everythin’ Shinkai-senpai says is too vague and floaty to really know what it is.
 {% endbubble %}
 
 {% bubble Shinobu srsthinking %}
-That is one of Shinkai-dono’s charms… However, I think about this a lot, but is he truly alright carrying out his daily life activities like this…?
+While that is one of Shinkai-dono’s charms—… I think about this a lot, but is he truly alright carrying out his daily life activities like this…?
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
@@ -594,7 +594,7 @@ So to summarize — “Mizusaba”-san is a worshipper of Shinkai-senpai’s uh,
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah\~ I’m not, actually\~? We’re pretty influential in Okinawa’s main island, so we act as mediators — the bridge between the local worshippers and Kanata-sama\~…♪
+Ah\~. I’m not, actually\~? We’re pretty influential in Okinawa’s main island, so we act as mediators — the bridge between the local worshippers and Kanata-sama\~…♪
 
 The worshippers don’t get involved with other people much, after all\~. Without a point of contact, the conversation won’t get anywhere\~, such a bother, right\~…♪
 {% endbubble %}
@@ -720,7 +720,7 @@ Perhaps this is not the best expression, but it seems like at this point, he is 
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-<em>That</em> again…? I thought you stopped behaving as if you’re a God?
+<em>That</em> again…? I thought he stopped behaving as if he’s a God?
 {% endbubble %}
 
 {% bubble Kanata nod2 %}
@@ -734,7 +734,7 @@ Force of *habit…*?
 {% bubble Chiaki serious %}
 Well, either way, I’m starting to see the picture.
 
-That’s why Kanata once again got a request from the Okinawan people— or rather, from the worshippers who believe in him, right?
+That’s why Kanata once again received a request from the Okinawan people— or rather, from the worshippers who believe in him, right?
 {% endbubble %}
 
 {% bubble Midori yare %}
@@ -777,18 +777,18 @@ Translation in progress! 5/XX chapters
 ## Translation Notes
 
 [^1]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to be a spy in a criminal organization.
-[^2]: The word for “delicate” is <em>sensai</em>, the same word Midori refers to Tetora, Chiaki, and himself in Epilogue 1 of <a href="/submarine" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
+[^2]: The word for “delicate” is <em>sensai</em>, the same word Midori refers to Tetora, Chiaki, and himself in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>.
 [^4]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
-[^5]: This is also referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
+[^5]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
 [^6]: Kanata says “let's go” as you would in English, though it was written in hiragana in the text, implying it's said how you would in Japanese.
 [^7]: This is how Okinawans say “Welcome”.
-[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, in Ruthless Battlefield 9</a>.
+[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, in Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
 [^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
 [^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a formal pronoun to refer to oneself.
-[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation for a prettier visual. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so he can be identified. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
 [^15]: Mizusaba calling Kanata with “sama” implies a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
 [^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.

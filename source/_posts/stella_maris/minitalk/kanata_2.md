@@ -1,5 +1,5 @@
 ---
-title: "Stella Maris – Kanata Mini Talk: rejecting [leadership]"
+title: "Stella Maris – Kanata Mini Talk: secrets to [leadership]"
 date: 2024/1/16 9:09:00
 categories:
 - [Enstars, Kanata]
@@ -53,48 +53,48 @@ hidden: true
 
 {% img /img/es/eventstory/stellamaris/minitalk_kanata2_1.jpg %}
 
-{% bubble Kanata curious %}
-what is it, anzu-san~?
+{% bubble Kanata v2 %}
+…oh? anzu-san, hello~
 
-[mascot character] merchandise as a [gift]? why me, and not midori…?
+i was just talking to rei a moment ago. i asked him about the [secrets] to [leadership]~♪
 
-ahh, i see. it is a [fish mascot]~♪
+i will be ryuseitai's [leader] next. so i am asking people with experience in [leadership] all sorts of things…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you like it?
+            It sounds like it'll come in handy.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            yes~ i had no idea there was a [character] like this.
+            {% bubble Kanata v2 %}
+            fufu. but the conversation [derailed] at one point, and we just started [chatting]~
 
-            i will treasure this [item]. thank you~♪
+            at least now we have [properly] confirmed where we will go next for the [mystery researchers] circle. i am so excited for that day…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its charm point is…
+            It's a huge responsibility, isn't it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata curious %}
-            oh, the other side of its [body] is [sashimi]…?
+            {% bubble Kanata v2 %}
+            that may be true… but as long as i am alive, i cannot avoid [responsibilities].
 
-            what a strange [character]~ is that how it is with [mascot characters]?[^1]
+            i will do my best to find out what i can do, and do it in my own way…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its slogan is…
+            What sort of secrets?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            "tasty, energetic [fish]"?
+            {% bubble Kanata v2 %}
+            what sort of mindset to have as a [leader], [how] to [guide] anyone who will not listen to you… all kinds of things.
 
-            so it is treated as [food], yes? now i want to learn more about it~♪
+            but everyone in ryuseitai are good kids, so i do not think i will have an [opportunity] to make use of it. still, i do not [lose] out on keeping it in mind…♪
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +104,49 @@ ahh, i see. it is a [fish mascot]~♪
 
 {% img /img/es/eventstory/stellamaris/minitalk_kanata2_2.jpg %}
 
-{% bubble Kanata smilesoft2 %}
-since this is a mascot, i would love to show [it] to midori.
+{% bubble Kanata v2 %}
+ehe. i feel as though i took [one step forward] as a [leader]…♪
 
-he really loves [mascot characters], after all.
+oh yes, speaking of. anzu-san is also like a [leader] for [idols], yes?
 
-i am sure it is as precious to him as the [ocean] and [fish] are to me.
+since we are talking, i would love to hear [advice] from you, if you have any~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Actually…
+            I make sure to listen to what their thoughts.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            you gave [it] to midori, too?
+            {% bubble Kanata v2 %}
+            i see. you [ensure] that you listen to what others have to [say], don't you?
 
-            fufu, you are so quick to work, anzu-san~♪
+            chiaki is like that too, and i feel as though that sort of [leader] is very [trustworthy]. thank you for letting me know something so useful~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You really care about your juniors, huh?
+            I make sure to keep my promises.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            fufufu, it feels a bit embarrassing when you say that~
+            {% bubble Kanata v2 %}
+            that's true, it is nice when others keep a [promise], no matter how small.
 
-            midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
+            i would like to be a [leader] who keeps [promises], too. no, i will work hard to become that…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh, then…
+            I make sure to have confidence in my decisions.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            you have another [one]?
-
-            thank you~ i will give it to midori later…♪
+            {% bubble Kanata northinking %}
+            nobody will want to follow a [leader] with no [confidence]? i see, that might be true.
+            {% endbubble %}
+            {% bubble Kanata smilesoft2 %}
+            but… if there is a time you do not have [confidence] in yourself, i will not abandon you, anzu-san. please loosen yourself up a little every once in a while~♪
 			{% endbubble %}
         </div>
     </div>
@@ -155,48 +156,48 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 {% img /img/es/eventstory/stellamaris/minitalk_kanata2_3.jpg %}
 
-{% bubble Kanata %}
-you would like to give me something else? this is… a [pamphlet], right?
+{% bubble Kanata v2 %}
+i think i pushed myself to the limits, so i am exhausted now… it is time i take a [break].
 
-ohh, there will be a [photoshoot event] for this fishie, yes?
+anzu-san, you will go meet with shinobu and tetora for [something], yes?
 
-i already finished my work, so maybe i will [go] and visit them.
+may i join you? i feel like if i were to see those [two], it would soothe me…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Here's the map for it.
+          Of course.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            waah, you are always [perfect] with your job, aren't you~?
+            {% bubble Kanata v2 %}
+            thank you very much\~♪ i will make sure not to get in anyone's [way]\~
 
-            fufu, i will take a [peek] on my way [home].
+            this is a wonderful opportunity to bring some [refreshments]. may i drop by a [shop] for a moment?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll prepare a camera.
+            Let's have tea together.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            you will prepare a [camera] for the [photoshoot]?
+            {% bubble Kanata v2 %}
+            oh, you are not in a hurry to speak to them about the [job], are you? then i would love to have [tea] with everyone~♪
 
-            then let's go together, anzu-san~
+            oh yes, i found a nice restaurant that serves [simmered fish]. if you are hungry, how about we go there?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please enjoy yourself.
+            Shall we invite the other two?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata %}
-            hm? you will not join me, anzu-san?
+            {% bubble Kanata v2 %}
+            do you mean chiaki and midori? oh, i see. it is about time for their [job] to end, yes~?
 
-            then i will invite someone else to come with me~
+            okay then, i will [contact] them from my side. i hope we can all gather and talk together… ♪
 			{% endbubble %}
         </div>
     </div>

@@ -1535,7 +1535,7 @@ It’s ‘cuz we have darkness that light stands out, so it’s ‘cuz women exi
 …Well, I say all’a that, but even I don’t fully understand it right now.
 {% endbubble %}
 
-{% bubble Tetora grin3 %}
+{% bubble Tetora grin2 %}
 But I felt somethin’ light up in me. I know for *sure* I can become a man among men if I keep at it!
 
 One day, I’ll even become a man who can proudly stand in front of Taishou and Taichou — to everyone, even the *Sun* itself!

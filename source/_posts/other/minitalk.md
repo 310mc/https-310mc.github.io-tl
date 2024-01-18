@@ -693,18 +693,18 @@ permalink: minitalk/
 
 <div style="margin-top:10px">{% btn /tropical,, star, Index %}</div>
 
-<!--### Stella Maris
+### Stella Maris
 
 <div class="stories">
     <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
-                alt="planning a trip"
+                alt="lovely present"
             />
         </div>
         <a href="/stella_maris/minitalk/kanata_1" class="storyName" target="_blank">
-            <span>1: planning a trip</span>
+            <span>1: lovely present</span>
             <span class="read"></span>
         </a>
     </div>
@@ -712,15 +712,15 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
-                alt="sea crook"
+                alt="secrets to [leadership]"
             />
         </div>
         <a href="/stella_maris/minitalk/kanata_2" class="storyName" target="_blank">
-            <span>2: sea crook</span>
+            <span>2: secrets to [leadership]</span>
             <span class="read"></span>
         </a>
     </div>
-    <div class="story">
+<!--    <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
@@ -815,7 +815,7 @@ permalink: minitalk/
             <span>2: Preparing For The Mission</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div>-->
 </div>
 
-<div style="margin-top:10px">{% btn /stella_maris,, star, Index %}</div>-->
+<div style="margin-top:10px">{% btn /stella_maris,, star, Index %}</div>

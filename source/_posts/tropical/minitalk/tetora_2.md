@@ -142,7 +142,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
             What a charming character.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin3 %}
+            {% bubble Tetora grin2 %}
             I know right!? Its charm point is how hard it works as a martial artist!
 
             I couldn't watch its journey to getting the black belt without tears in my eyes, y'know…!

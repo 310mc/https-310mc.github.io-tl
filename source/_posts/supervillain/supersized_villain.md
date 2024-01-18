@@ -633,7 +633,7 @@ We were all captured easily…
 You guys…!
 {% endbubble %}
 
-{% bubble Tetora grin3 %}
+{% bubble Tetora grin2 %}
 Ahahahahaha!!
 
 Hey, Taichou, what were you just telling me oh-so-proudly earlier? “It’s our victory”? “Justice will always prevail”?

@@ -151,7 +151,7 @@ are you even *trying?*
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
-Whaa—!? I thought he looked pretty content, but he’s actually in a bad mood!?
+Huhh—!? I thought he looked pretty content, but he’s actually in a bad mood!?
 {% endbubble %}
 
 {% bubble Kanata frown %}
@@ -176,7 +176,7 @@ H-He’s genuinely angry at us…
 Erm, by the song’s concept—
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 I believe that this song was prepared for the commercial we’ll be filming for this job. The purpose is to increase seafood sales.
 
 However, right now we’re simply practicing the general feel of the song, before the actual filming for the commercial.
