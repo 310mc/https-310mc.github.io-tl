@@ -344,7 +344,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 {% endbubble %}
 
 {% bubble Rtetora norsmile2 %}
-“Yeah, it’s the monster returning the kind favor.”
+“Yeah, it’s the monster repaying the kind favor.”
 {% endbubble %}
 
 {% bubble Rchiaki nod %}

@@ -33,7 +33,7 @@ permalink: our_stella/
                     Associated Story
                 </div>
                 <div class="value">
-                    Stella Maris<!--<a href="/stella_maris">Stella Maris</a>-->
+                    <a href="/stella_maris">Stella Maris</a>
                 </div>
             </div>
             <div class="info-item two">

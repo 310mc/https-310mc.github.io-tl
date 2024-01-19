@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Stella Maris – Climax Event (In Progress!)"
-date: 2024-1-23 9:00:00
+date: 2024-1-19 10:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai]
@@ -11,9 +11,8 @@ tags:
 - Akira
 description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
 permalink: stella_maris/
-hidden: true
 ---
-<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/eventstory/stellamaris/kanatabcgframe.jpg')"></div>
         <div class="preview-box">
@@ -42,7 +41,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            30
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -63,6 +62,8 @@ hidden: true
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tori" character="Tori"></a>
+                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -141,7 +142,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            30
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -162,6 +163,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Tori" character="Tori"></a>
+                        <a href="/categories/Enstars/Eichi" character="Eichi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">

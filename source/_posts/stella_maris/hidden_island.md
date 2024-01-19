@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Hidden Island"
-date: 2024-1-15 9:01:00
+date: 2024-1-19 9:31:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -120,7 +119,7 @@ But your turn was a huge success, wasn’t it, Midori-kun?
 {% endbubble %}
 
 {% bubble Midori frownshake %}
-Only in terms of the outcome… I honestly don’t ever wanna do it again…
+Only in terms of the outcome… I honestly never wanna do it again…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -390,7 +389,7 @@ But I appreciate the thought, Midori-kun. It really makes me happy.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-You see, I was continuously participating in a harsh show called “2x2” up until recently[^9]… And my troublesome friend made me go through a lot with his whims the whole time.
+You see, I was continuously participating in a harsh show called “2x2” up until recently[^9]… And for the whole duration, my troublesome friend made me go through a lot with his whims.
 
 So a friend simply showing concern for me is enough to move my heart.
 {% endbubble %}
@@ -696,7 +695,7 @@ Please, by all means. There’ll be no end in sight if an idiot’s nonsense is 
 {% bubble Kanata smileconfident %}
 fufufu\~ i like this sort of thing too, though\~♪
 
-but yes, so. since SS, i have been occasionally performing some [activities] with the [okinawan] people.
+but yes, so. since ss, i have been occasionally performing some [activities] with the [okinawan] people.
 {% endbubble %}
 
 {% bubble Shinobu smilesoft %}
@@ -763,8 +762,352 @@ In fact, I hope that our— or rather, *Kanata’s* activities, can clear off th
 yes. [mikejima] might have a different [opinion] here, but… i have [high hopes] for something like that.
 {% endbubble %}
 
+## Chapter 5
+
+{% bubble Chiaki northinking %}
+That being said, I’m a little confused about the details again.
+
+Our job this time is filming for a commercial, right? Why did the Okinawan worshippers, of what I’ll tentatively call the Kanata Religion, request for that?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+ahh… to be more precise, the [commercial filming] is one of the [strategic steps] i will be taking to reach the [final destination].
+
+in other words, it is how i [assume] we will reach the final point—
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+……?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+mm. the [worshippers’ request] is to perform a [restoration] of their land.
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+Restoration of their land? As in, to rejuvenate the area?
+
+In that case, that’s exactly an idol’s area of expertise, which means, quite a typical job for an idol! We’re always working hard to liven up the unenergetic land and its people!
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Actually, if it needs restoration, does that mean it’s in decline right now?
+{% endbubble %}
+
+{% bubble Kanata serious %}
+hm, rather than decline… well, i think it will be very [obvious] when we arrive [there].
+
+you see, the [land] those [worshippers] live in was actually a [confined area] for a very long time.[^22]
+
+in particular, they disliked the thought of [idols] getting involved.
+{% endbubble %}
+
+{% bubble Tetora curious %}
+…? Why were they against that?
+{% endbubble %}
+
+{% bubble Kanata yare %}
+the reason is [unknown]. it seems as though something happened in the [olden days].
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+but. it appears that as the [generations] have changed, even that [land] became accepting of [idol culture].
+
+so they want to match the times, and [allow] access to their [closed land] from now on. then, they want to make the [land] be reborn as a place where everyone can live with [smiles] on their faces.
+
+that was their request.
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+I-It’s a much more large-scaled request than I expected. It’s exactly what you’d call “rejuvenating the land”, huh.
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+I really thought we were just doing a commercial filming, though…?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+we will also film a [commercial], yes\~ if we are to [advertise] the [land] and let people know “it’s not scary, it’s actually fun\~”, there will be more [residents], yes?
+
+gathering [people] and [things] is bound to lead to the [restoration].
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+That’s true… A restoration is out of the question if you don’t even have the human resources and materials for it. It would be an unreasonable request to make only one person to rehabilitate a land — It’s simply impossible for an individual to manage it alone.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+that is exactly why the [worshippers] are having trouble. they want to do something for the land, but they do not know what to do.
+
+that is why they asked for my [help].
+
+and i have been trying to do [whatever] i [can] up until now. like performing [ceremonies] and cleansing the [land].
+{% endbubble %}
+
+{% bubble Shinobu northinking %}
+Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^23]
+
+Huh, so that’s how that story links to our current situation…
+
+I recall hearing that Tori-kun’s unit plan to create an ES branch in a land that had been untouchable up until then.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes. and to match with that, we will be livening up the [land] around that branch.
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Ah, something like, “we’re making a new shinkansen train station, so let’s draw a lot of people to the market street around the station”.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+yes, something like that~♪
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+I finally understand the full story… Shinkai-senpai seriously talks in such a floaty way, that I couldn’t tell at all what he wanted to do.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+i am sorry~ when i was young, i only ever fulfilled my [role], and never really did anything that i [wanted] to do.
+
+so i do not know how to explain what i [want] to do properly.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+in the end, i simply want to make everyone [happy]. and the reason for that is because everyone made <em>me</em> [happy].
+
+in other words, i am [repaying] the [kind favor].[^24] fufufu~♪
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+How admirable! Those feelings are what matter most! The good you do for others is good you do yourself!
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+yes. that is exactly what [ryuseitai] is about — i will always believe in that.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Have you all sorted out everything~…?
+
+Because we’re about to arrive, so… start preparing your belongings to make sure you don’t forget anything, okay~?
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+Oh— We’re already there? That was faster than I thought.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+It isn’t that far from the main island, actually\~. But its existence was ignored for such a long time, that it can’t even be found on a map\~♪
+{% endbubble %}
+
+{% bubble Chiaki %}
+Hm. If it isn’t that far from Okinawa, then transportation will be easily accessible. It would genuinely be possible to liven up the place, exactly like a market street around a train station.
+
+We should be able to make something similar to local shops that Okinawa visitors can frequently come by and see.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Mhm. That would be ideal, but it might still be a little difficult at this point~…?
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+What do you mean?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+You’ll understand when you see it yourselves, but… Our destination, or rather, the island that you will be restoring—
+
+That star island, “Hoshijima”, is in immeasurable ruins.
+{% endbubble %}
+
+## Chapter 6
+
+{% img /img/es/eventstory/stellamaris/p1_6.jpg %}
+
+<div class="msr-narration">
+    <p>Several minutes later. A remote island near Okinawa’s mainland, “Hoshijima”…</p>
+</div>
+
+{% bubble Mizusaba %}
+Mensooore~♪
+
+Welcome to “Hoshijima”! The land that was once confined~♪
+
+Right now, as long as you have permission — or really, as long as *I’m* here, it’s fine to disembark the ship, so feel free to step onto this land~…♪
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+W-Woah, this is—
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+Mm… I know I shouldn’t say it this way, but the place is completely in tatters, far more than expected…
+{% endbubble %}
+
+{% bubble Midori curious %}
+T-There’s only ruins as far as the eye can see… What a crazy sight.
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+I had no idea there was an area in our country with this kinda insane landscape.
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+You could actually just turn this scenery itself into a tourist attraction… It sort of reminds me of the Gunkanjima I saw in a video before.[^25]
+{% endbubble %}
+
+{% bubble Kanata northinking %}
+which was “gunkanjima” again? is it the [island] with a lot of bunnies?
+{% endbubble %}
+
+{% bubble Chiaki %}
+I believe you’re thinking of Okunoshima, in Hiroshima.[^26] But yeah, it’s something similar to that. It’s an island that was kept hidden from the world for a long time due to various reasons.
+{% endbubble %}
+
+{% bubble Shinobu nod %}
+The sight of this scenery excites me somewhat… I’m still a boy, after all.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+I get you. I want to explore the area.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Ah\~. The buildings could fall any moment, so don’t walk wherever you like, okay\~?
+
+As you can see, the place is filled with ruins, and there aren’t any real facilities — not even a hospital\~. We can’t have you getting injured by accident\~.
+
+The main island may be nearby, but not so close that we can head back there in a flash~.
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+If the ship were to sink now, we’d end up in a typical plot for classic detective novels. Like a closed circle sort of situation.[^27]
+{% endbubble %}
+
+{% bubble Midori worried0 %}
+P-Please don’t say something so ominous… It’ll be fine, right? The ship won’t sink, right?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+No worries, no worries\~. Besides, even if it did sink, we’re in a modern age where we can just phone call for a replacement to come pick us up\~
+{% endbubble %}
+
+{% bubble Midori awkward %}
+Oh, right… Phone calls should work just fine here.
+{% endbubble %}
+
+{% bubble Shinobu frown %}
+There’s still that worrisome thought we wouldn’t be able to reach a signal… Which sort of reminds me of that time Tetora-kun turned evil. It was truly tough on me to have all signals jammed—[^28]
+{% endbubble %}
+
+{% bubble Tetora worried %}
+Urk— I was avoiding mentioning that ‘cuz I <em>knew</em> it’d sting to hear a remark…!
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Let’s stop our chatter here. We didn’t come here to enjoy sightseeing — We’re technically at work right now.
+{% endbubble %}
+
+{% bubble Chiaki norsmile2 %}
+…But, actually, that sort of thing should only be said by the current leader — Kanata.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+ah— yes, that’s right. heeey\~ you should [not] get ahead of yourselves, okay\~?
+
+we have an important [job] to do.
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+Yeah. Still, where do we even start…? Can we really restore such a ruined land like this?
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+S-Surely this is too much for only us to handle—
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Mm\~. I’m sure you’re tired from the long trip, so we’ll first head over somewhere you can drop your belongings and rest\~. This island isn’t completely uninhabited, after all\~.
+
+There’s something of a village here, where Kanata-sama’s worshippers live~.
+
+This was a confined area before, so there are no lodging facilities like a hotel, but I negotiated with them to let us rent an unoccupied home~.
+
+Also, all the folks from my group came together to clean the whole building for you… So, you should be able to sleep comfortably~.
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+T-That’s very kind of you. We really appreciate your thoughtfulness, “Mizusaba”-san.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+No need to thank me. This is my job~♪
+
+But I ask that you don’t rely on me too much.
+
+I’m also an outsider on this island, so even if I’m well known with the Okinawan locals — I haven’t actually made many connections with the people here yet.
+
+This is just hypothetically speaking, but for example, I might not be able to cover for you if they cause any harm to you. So you shouldn’t act without restraint~.
+{% endbubble %}
+
+{% bubble Tetora yare %}
+He’s talking to <em>you</em>, Morisawa-senpai. Jeez, you’re always acting like a li’l kid wherever we go, runnin’ about as soon as you can.
+{% endbubble %}
+
+{% bubble Chiaki surprised0 %}
+H-Huhh—!? Wait, I wasn’t the one doing the scolding, but the one <em>receiving</em> the scolding!?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Hehe\~. Right then, everyone, follow me\~.
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+Fufu. I know we were just scolded for acting like tourists, but it feels as though we’re on a tour, with “Mizusaba”-san as our guide.
+{% endbubble %}
+
+{% bubble Midori frownshake %}
+But if this were a tour, we would’ve been able to learn <em>something</em> about the place from a guide book or something… We don’t know a single thing about this island, and it’s seriously scary…
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+Don’t stray too far, Takamine. We may not be able to find each other again if we lose track of each other.
+
+Here; if you’re feeling anxious, big brother will gladly hold your hand~♪
+{% endbubble %}
+
+{% bubble Midori v2 %}
+*…tch…*
+{% endbubble %}
+
+{% bubble Chiaki surprised0 %}
+He clicked his tongue!? Why!? I really was trying to be considerate, though…!?
+{% endbubble %}
+
+{% bubble Tetora grin %}
+Midori-kun doesn’t wanna be treated like a li’l kid either, y’know~♪
+{% endbubble %}
+
+{% bubble Shinobu curious %}
+……………
+{% endbubble %}
+
+{% bubble Tetora serious %}
+…? What’s up, Shinobu-kun? You seem dazed…?
+
+Are you feelin’ exhausted from the long trip after all?
+{% endbubble %}
+
+{% bubble Shinobu srsthinking %}
+Ah, no… Mm~ Perhaps it’s simply my imagination…
+
+But I feel as though someone is watching us—
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 5/XX chapters
+Translation in progress! 7/30 chapters
 {% endnote %}
 
 <div toc>
@@ -777,23 +1120,30 @@ Translation in progress! 5/XX chapters
 ## Translation Notes
 
 [^1]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to be a spy in a criminal organization.
-[^2]: The word for “delicate” is <em>sensai</em>, the same word Midori refers to Tetora, Chiaki, and himself in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
+[^2]: The word for “delicate” is <em>sensai</em>, and it can also mean “sensitive”. It was mentioned in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>.
 [^4]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
 [^5]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
 [^6]: Kanata says “let's go” as you would in English, though it was written in hiragana in the text, implying it's said how you would in Japanese.
 [^7]: This is how Okinawans say “Welcome”.
-[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, in Ruthless Battlefield 8</a>.
+[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
 [^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
 [^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a formal pronoun to refer to oneself.
-[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so he can be identified. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
 [^15]: Mizusaba calling Kanata with “sama” implies a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
 [^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
 [^17]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine, Nirai Kanai chapters</a>.
-[^18]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji differentiating the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
+[^18]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
 [^19]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine,</a> where Ryuseitai decides to help the locals.
 [^20]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, which occurs in Okinawa.
 [^21]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
+[^22]: This is mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
+[^23]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
+[^24]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
+[^25]: Gunkanjima, meaning “Battleship Island”, is an abandoned island that became a tourist attraction. See more <a href="https://en.wikipedia.org/wiki/Hashima_Island" target="_blank">here</a>.
+[^26]: Okunoshima, also known as “Rabbit Island”. See more <a href="https://en.wikipedia.org/wiki/%C5%8Ckunoshima" target="_blank">here</a>.
+[^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
+[^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.

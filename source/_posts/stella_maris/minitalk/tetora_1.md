@@ -1,12 +1,11 @@
 ---
 title: "Stella Maris – Tetora Mini Talk: Buying Ingredients for a Big Meal"
-date: 2024/1/18 9:06:00
+date: 2024/1/19 9:06:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
 description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

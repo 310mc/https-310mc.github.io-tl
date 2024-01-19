@@ -1897,7 +1897,7 @@ What a mystery… Mmm…?
 {% endbubble %}
 
 {% bubble Tsumugi %}
-Me, too… There was a similar trick in the mystery novel I read…
+Me, too… There was a similar trick in the detective novel I read…
 
 If you read it diagonally… no, in the opposite direction…?
 {% endbubble %}

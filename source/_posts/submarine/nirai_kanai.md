@@ -766,7 +766,7 @@ Yeah, I heard that our family temple was like that, among others. How do you eve
 {% endbubble %}
 
 {% bubble Chiaki %}
-No, I learned about it from an old mystery novel.
+No, I learned about it from an old detective novel.
 {% endbubble %}
 
 {% bubble Keito %}

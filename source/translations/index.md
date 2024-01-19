@@ -292,6 +292,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="image">
+        <img
+            src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+            alt="Stella Maris – Climax Event"
+        />
+    </div>
+    <a href="/stella_maris" class="storyName" target="_blank">
+        <span>Stella Maris – Climax Event (In Progress!)</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Gacha Stories

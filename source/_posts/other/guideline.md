@@ -59,9 +59,9 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             alt="Stella Maris – Climax Event"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
+    <a href="/stella_maris" class="storyName" target="_blank">
         <span>Stella Maris – Climax Event (In Progress!)</span>
-        <span class="read soon"></span>
+        <span class="read"></span>
     </a>
 </div>
 <!--<div class="story">
