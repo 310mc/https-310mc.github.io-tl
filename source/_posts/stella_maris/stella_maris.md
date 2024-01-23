@@ -24,7 +24,7 @@ permalink: stella_maris/
             <div class="info-area">
                 <div class="synopsis">
                     <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
-                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and lead you.</em><br><br>
+                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and guide you.</em><br><br>
                     It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa to film a commercial…<!--ついに隊長を担当することになった奏汰。他の隊員たちは奏汰の独特な練習方法や謎に包まれた仕事内容に困惑気味。そんななか、奏汰から突如ＣＭ撮影の為に沖縄に向かうことを告げられ……-->
                 </div>
                 <div class="info">
@@ -125,7 +125,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             <div class="info-area">
                 <div class="synopsis">
                     <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
-                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and lead you.</em><br><br>
+                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and guide you.</em><br><br>
                     It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa to film a commercial…
                 </div>
                 <div class="info">
@@ -234,7 +234,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Birthplace of Stars 7
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -242,15 +242,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/chiakibcg.jpg">
-                                </div>
-                                <div class="caption">
-                                    TBA
+                                    Birthplace of Stars 10
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -258,7 +250,15 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Birthplace of Stars 12
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="/img/es/eventstory/stellamaris/chiakibcg.jpg">
+                                </div>
+                                <div class="caption">
+                                    Birthplace of Stars 14
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -266,7 +266,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Birthplace of Stars 15
                                 </div>
                             </div>
                         </div>

@@ -111,7 +111,7 @@ It sounds like you’re tellin’ that to yourself more than anyone else…?
 {% endbubble %}
 
 {% bubble Midori sad2 %}
-This is starting to make me think that the concept of changing leaders for every job really <em>is</em> impractical—… It was a tough time when it was my turn, too…
+This is starting to make me think that the concept of changing leaders for every job really <em>is</em> impractical—… It was a tough time when it was my turn, too…[^1]
 {% endbubble %}
 
 {% bubble Tetora nod %}
@@ -149,7 +149,7 @@ No, in fact— I want to make a huge comeback here from the brink of death.
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-Ossu. I split from Ryuseitai for a while, even if it was only for an infiltration mission[^1], so — I know this’ll sound weird comin’ from me, but… We all feel the exact same way.
+Ossu. I split from Ryuseitai for a while, even if it was only for an infiltration mission[^2], so — I know this’ll sound weird comin’ from me, but… We all feel the exact same way.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
@@ -199,7 +199,7 @@ M-Mm! I’ll make sure that I use the right amount!
 {% endbubble %}
 
 {% bubble Shinobu grin %}
-Fufu. Morisawa-dono, you worry about what others say about you… You are surprisingly delicate, aren’t you?[^2]
+Fufu. Morisawa-dono, you worry about what others say about you… You are surprisingly delicate, aren’t you?[^3]
 {% endbubble %}
 
 {% bubble Chiaki frustrated %}
@@ -251,7 +251,7 @@ Kanata, on the other hand, told us nothing past, “it is a fish job!”.
 {% endbubble %}
 
 {% bubble Tetora frown %}
-It feels like he’s expecting us to use our comprehension skills to understand each and every instruction, too… I definitely remember a time in Yumenosaki when Shinkai-senpai guided us as a coach, though…[^3]
+It feels like he’s expecting us to use our comprehension skills to understand each and every instruction, too… I definitely remember a time in Yumenosaki when Shinkai-senpai guided us as a coach, though…[^4]
 {% endbubble %}
 
 {% bubble Chiaki frown %}
@@ -303,7 +303,7 @@ the [commercial filming] is located in [okinawa].
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-*Okinawa!?* We did go to Okinawa for the SS qualifying round last year, but—[^4]
+*Okinawa!?* We did go to Okinawa for the SS qualifying round last year, but—[^5]
 {% endbubble %}
 
 {% bubble Kanata nod %}
@@ -315,7 +315,7 @@ Wouldn’t it have been nice to tell us something as important as that much earl
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Uumyu, we’re going to Okinawa…? It was fine durin’ the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^5]
+Uumyu, we’re going to Okinawa…? It was fine durin’ the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^6]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -327,7 +327,7 @@ Ossu. I’m clumsy like Morisawa-senpai, so I’ve got a lotta things I inadvert
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-then it is time to [depart]\~! let’s go\~♪[^6]
+then it is time to [depart]\~! let’s go\~♪[^7]
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -355,7 +355,7 @@ but this time around, there is something i am [looking forward] to.
 {% bubble Kanata v2 %}
 we have arrived~♪
 
-everyone, mensooore\~♪[^7] welcome to [okinawa]\~!
+everyone, mensooore\~♪[^8] welcome to [okinawa]\~!
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -363,7 +363,7 @@ Are you a local now?
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-Ahaha. To be fair, all’a us have a pretty deep connection to this place at this point.
+Ahaha. To be fair, all of us have a pretty deep connection to this place at this point.
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -381,7 +381,7 @@ I don’t even think the other three can be thoughtful about this sort of thing,
 {% endbubble %}
 
 {% bubble Shinobu norsmile %}
-Ah, to one’s surprise, Morisawa-dono is quite sensitive to changes in environment as well, as he was once a sickly child.[^8]
+Ah, to one’s surprise, Morisawa-dono is quite sensitive to changes in environment as well, as he was once a sickly child.[^9]
 
 In fact, he has always provided me support every time I was on the verge of falling ill.
 
@@ -389,7 +389,7 @@ But I appreciate the thought, Midori-kun. It really makes me happy.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-You see, I was continuously participating in a harsh show called “2x2” up until recently[^9]… And for the whole duration, my troublesome friend made me go through a lot with his whims.
+You see, I was continuously participating in a harsh show called “2x2” up until recently[^10]… And for the whole duration, my troublesome friend made me go through a lot with his whims.
 
 So a friend simply showing concern for me is enough to move my heart.
 {% endbubble %}
@@ -445,7 +445,7 @@ We’ll just have to make sure we support him then — as much as he has for us,
 {% endbubble %}
 
 {% bubble Midori serious %}
-Yeah… Shinkai-senpai is our mascot character[^10]… We need to protect him at all costs.
+Yeah… Shinkai-senpai is our mascot character[^11]… We need to protect him at all costs.
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -521,7 +521,7 @@ ah, no— how do people [greet] each other in [okinawa] again…? Ermm, haitai~?
 {% bubble Mizusaba unknown %}
 Haitai~…♪
 
-But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^11] influence.
+But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^12] influence.
 
 In fact, kids might not even understand you if you talk in Okinawan dialect~…♪
 {% endbubble %}
@@ -541,7 +541,7 @@ In fact, kids might not even understand you if you talk in Okinawan dialect~…�
 {% bubble Mizusaba unknown %}
 Oh wow? Some of you seem scared…?
 
-Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪[^12]
+Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪[^13]
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -549,7 +549,7 @@ yes, this is the person who will [guide] us to our job’s [location] — ermm, 
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Friends and family call me “Mizusaba”\~.[^13] I’m pretty huge, after all\~. Fufufu\~♪
+Friends and family call me “Mizusaba”\~.[^14] I’m pretty huge, after all\~. Fufufu\~♪
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -557,7 +557,7 @@ Mizusaba…?
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-it refers to the [whale sharkie]~ [okinawans] call it that.[^14]
+it refers to the [whale sharkie]~ [okinawans] call it that.[^15]
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -565,7 +565,7 @@ That’s Shinkai-senpai for you; he knows so much about fish.
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Mhm. Kanata-sama[^15] is what you’d call an erudite\~. We all respect him\~.
+Mhm. Kanata-sama[^16] is what you’d call an erudite\~. We all respect him\~.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -589,7 +589,7 @@ We can talk all we like once we’re settled~…♪
 {% bubble Tetora srsthinking %}
 Hm, hm.
 
-So to summarize — “Mizusaba”-san is a worshipper of Shinkai-senpai’s uh, religion…? The same one he mentioned before, right?
+So to summarize — Mizusaba-san is a worshipper of Shinkai-senpai’s uh, religion…? The same one he mentioned before, right?
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -599,7 +599,7 @@ The worshippers don’t get involved with other people much, after all\~. Withou
 {% endbubble %}
 
 {% bubble Tetora curious %}
-<th>(Mm~… “Mizusaba”-san may look intimidating, but he’s actually a pretty calm, kind person, huh?)</th>
+<th>(Mm~… Mizusaba-san may look intimidating, but he’s actually a pretty calm, kind person, huh?)</th>
 
 <th>(But he’s just so huge that my instincts acted up as soon as he was in close range.)</th>
 {% endbubble %}
@@ -607,13 +607,13 @@ The worshippers don’t get involved with other people much, after all\~. Withou
 {% bubble Tetora smile %}
 <th>(Heheh. I kinda recall feeling somethin’ similar with Shinkai-senpai when I first talked to him. He’s pretty big, and his voice has a peculiar frequency when he speaks, so I didn’t think he was a human being like me.)</th>
 
-<th>(He seemed more like a strange, mysterious monster at first.)</th>[^16]
+<th>(He seemed more like a strange, mysterious monster at first.)</th>[^17]
 
 <th>(That just sounds funny to me now, though — ‘Cuz Shinkai-senpai is actually harmless. I’d actually say he’s even kinder than ordinary people.)</th>
 {% endbubble %}
 
 {% bubble Chiaki northinking %}
-Hm. Speaking of which, Kanata made contact with those worshippers during the SS qualifying round, didn’t he?[^17]
+Hm. Speaking of which, Kanata made contact with those worshippers during the SS qualifying round, didn’t he?[^18]
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -621,7 +621,7 @@ yes. if we are to consider my household as the [client] fish, like a [giant mora
 {% endbubble %}
 
 {% bubble Shinobu serious %}
-Main house, primary line. Branch house, supporting line.[^18]
+Main house, primary line. Branch house, supporting line.[^19]
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -629,7 +629,7 @@ Thank you for the translation.
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
-If I’m not mistaken, the worshippers that split into their own branch a long time ago advanced a religion of their own in Okinawa, right?
+If I’m not mistaken, the worshippers that split into their own branch a very long time ago advanced a religion of their own in Okinawa, right?
 
 But even then, those from the supporting line consider Kanata as their God as well, so—
 {% endbubble %}
@@ -645,13 +645,13 @@ after all, i had [promised] them that i would [help] them if they are ever in tr
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
-During the qualifying round, the reason we managed to achieve victory in the ruthless battlefield here in Okinawa was also thanks to the cooperation and support of the locals.[^19]
+During the qualifying round, the reason we managed to achieve victory in the ruthless battlefield here in Okinawa was also thanks to the cooperation and support of the locals.[^20]
 
 We ought to repay that favor, at the very least.
 {% endbubble %}
 
 {% bubble Tetora yare %}
-Ossu. Though, thanks to that, I ended up getting dispatched as a spy after they concluded Ryuseitai likely has a lotta influence ‘round Okinawa.[^20]
+Ossu. Though, thanks to that, I ended up getting dispatched as a spy after they concluded Ryuseitai likely has a lotta influence ‘round Okinawa.[^21]
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
@@ -669,7 +669,7 @@ You were talking about basketball?
 {% endbubble %}
 
 {% bubble Shinobu nod %}
-He’s talking about “overhaul” through “basketball”.[^21]
+He’s talking about “overhaul” through “basketball”.[^22]
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -797,7 +797,7 @@ Actually, if it needs restoration, does that mean it’s in decline right now?
 {% bubble Kanata serious %}
 hm, rather than decline… well, i think it will be very [obvious] when we arrive [there].
 
-you see, the [land] those [worshippers] live in was actually a [confined area] for a very long time.[^22]
+you see, the [land] those [worshippers] live in was actually a [confined area] for a very long time.[^23]
 
 in particular, they disliked the thought of [idols] getting involved.
 {% endbubble %}
@@ -845,7 +845,7 @@ and i have been trying to do [whatever] i [can] up until now. like performing [c
 {% endbubble %}
 
 {% bubble Shinobu northinking %}
-Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^23]
+Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^24]
 
 Huh, so that’s how that story links to our current situation…
 
@@ -877,7 +877,7 @@ so i do not know how to explain what i [want] to do properly.
 {% bubble Kanata smilesoft2 %}
 in the end, i simply want to make everyone [happy]. and the reason for that is because everyone made <em>me</em> [happy].
 
-in other words, i am [repaying] the [kind favor].[^24] fufufu~♪
+in other words, i am [repaying] the [kind favor].[^25] fufufu~♪
 {% endbubble %}
 
 {% bubble Chiaki smile %}
@@ -951,19 +951,7 @@ T-There’s only ruins as far as the eye can see… What a crazy sight.
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-I had no idea there was an area in our country with this kinda insane landscape.
-{% endbubble %}
-
-{% bubble Chiaki norsmile %}
-You could actually just turn this scenery itself into a tourist attraction… It sort of reminds me of the Gunkanjima I saw in a video before.[^25]
-{% endbubble %}
-
-{% bubble Kanata northinking %}
-which was “gunkanjima” again? is it the [island] with a lot of bunnies?
-{% endbubble %}
-
-{% bubble Chiaki %}
-I believe you’re thinking of Okunoshima, in Hiroshima.[^26] But yeah, it’s something similar to that. It’s an island that was kept hidden from the world for a long time due to various reasons.
+I had no idea there was an area in our country with such an unbelievable landscape.[^26]
 {% endbubble %}
 
 {% bubble Shinobu nod %}
@@ -991,7 +979,7 @@ P-Please don’t say something so ominous… It’ll be fine, right? The ship wo
 {% endbubble %}
 
 {% bubble Mizusaba %}
-No worries, no worries\~. Besides, even if it did sink, we’re in a modern age where we can just phone call for a replacement to come pick us up\~
+No worries, no worries\~. Besides, even if it did sink, we’re in a modern age where we can just phone call for a replacement to come pick us up\~.
 {% endbubble %}
 
 {% bubble Midori awkward %}
@@ -1039,7 +1027,7 @@ Also, all the folks from my group came together to clean the whole building for 
 {% endbubble %}
 
 {% bubble Chiaki smile %}
-T-That’s very kind of you. We really appreciate your thoughtfulness, “Mizusaba”-san.
+T-That’s very kind of you. We really appreciate your thoughtfulness, Mizusaba-san.
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -1065,7 +1053,7 @@ Hehe\~. Right then, everyone, follow me\~.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Fufu. I know we were just scolded for acting like tourists, but it feels as though we’re on a tour, with “Mizusaba”-san as our guide.
+Fufu. I know we were just scolded for acting like tourists, but it feels as though we’re on a tour, with Mizusaba-san as our guide.
 {% endbubble %}
 
 {% bubble Midori frownshake %}
@@ -1106,8 +1094,314 @@ Ah, no… Mm~ Perhaps it’s simply my imagination…
 But I feel as though someone is watching us—
 {% endbubble %}
 
+## Chapter 7
+
+{% img /img/es/eventstory/stellamaris/p1_7.jpg %}
+
+<div class="msr-narration">
+    <p>Several minutes later. At the lodging accommodation for Ryuseitai — An unoccupied house in the outskirts of Hoshjima Village…</p>
+</div>
+
+{% bubble Mizusaba %}
+Right, we’ve arrived~♪
+
+For the time being, you’ll all be living here until you’ve finished the first few steps of your job~.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Thank you for guiding us, Mizusaba-san. Ahh, we can finally take a breather.
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+Ahaha. Not only did we need to travel for a long time, but we were also completely thrown into an unknown environment, so… I strangely feel exhausted after such a stressful journey.
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+But this is a surprisingly decent-looking building… We should actually be able to rest here for real…
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+Right~? I was worried about where we were headed at first, as we had only come across ruins on our way.
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+It seems like the village in the center of this island is generally livable, even if the buildings are old.
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+Yeah, they did mention that it was just a confined area, not a deserted island.
+{% endbubble %}
+
+{% bubble Midori curious %}
+Honestly, I don’t really know what confined areas actually are, but they’re basically places that are off-limits, right…? So why are people living here in the first place…?
+{% endbubble %}
+
+{% bubble Chiaki northinking %}
+I’m not sure if saying “the island’s native people” is the right wording here, but I assume the residents are an exception?
+{% endbubble %}
+
+{% bubble Tetora curious %}
+I wonder what sorta people live here, on an island full’a ruins…?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+They’re pretty ordinary people, really — It’s just that they believe in a unique religion\~. They also had connections with the main island back when Hoshijima was still confined\~.
+
+My grandpa was the point of contact back then, and he’d sometimes ship any basic needs over by boat~.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+That makes sense; it doesn’t seem possible at all to live here without someone supplying the bare necessities. On our way here, I saw a minimal amount of farm fields.
+
+Even if they caught fish for food, it still didn’t seem enough to stay self-sufficient.
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Despite that, the buildings in the village look legit and clean.
+
+They still have to buy basic supplies too, though, so it really makes me wonder how the people of this island make money here…
+{% endbubble %}
+
+{% bubble Chiaki frustrated %}
+For that, since they’re worshippers of the tentatively named Kanata Religion, they collect donations—
+{% endbubble %}
+
+{% bubble Tetora yare %}
+I’m trying to say that those worshippers don’t seem to have any money, either.
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+mm. it seems that a [long time] ago, they formed a [contract] with a [higher-up]—
+
+which allowed them to be under a [system] that periodically provides them [money].
+
+that appears to be why the people on this [island] can live fairly [comfortably] without a job.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+but, it is a little bit of an [unhealthy] lifestyle, so to speak…
+
+after all, if you are to count on someone else for [money], then you will be [wiped out] as soon as that person has a [change of heart].
+
+so in hopes of avoiding a money drought, we need to help these people be capable of earning [money] on their own.
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+And that’s another reason why we need to rejuvenate the land, correct? They’ve been living on that sort of financial benefit for a long time, so it’s likely that none of them know how to do business and such.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes. even if we were to call over [tourists] to visit, no profit will be made without any [shops] set up.
+
+and it is not like we can live here forever, either, yes?
+
+we need to arrange an [environment] where the people here can live [independently] without us.
+{% endbubble %}
+
+{% bubble Midori curious %}
+Shinkai-senpai is talking about a super serious topic…
+{% endbubble %}
+
+{% bubble Kanata glare %}
+i am <em>always</em> [serious], though~?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Everyone\~? I prepared tea and confections for you, so feel free to help yourselves\~♪
+{% endbubble %}
+
+{% bubble Chiaki shocked %}
+Ahh—! I’m so sorry! Forgive me for not helping out…!
+{% endbubble %}
+
+{% bubble Mizusaba %}
+No worries, no worries. The guests should just make themselves at home~♪
+
+I’ll prepare a proper meal for all of you, as well\~. I’m sure you’re starving by now, right? I’ll treat you all to local cuisine\~.
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+Okay! I’m so sorry for the trouble, we’re in your care today! C’mon everyone! You should show your respect, too!
+{% endbubble %}
+
+{% bubble Tetora grin %}
+Ossu! Thank you very much! We’re in your care today…!
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Yes, yes, so you are~…♪
+{% endbubble %}
+
+{% bubble Chiaki v2 %}
+…Mizusaba-san is surprisingly a kind person, isn’t he?
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Right? Not gonna lie though, I did freak out at first ‘cause he looked so intimidating.
+{% endbubble %}
+
+{% bubble Tetora curious %}
+It’s ‘cuz of his height… Man, I’m jealous. What do I gotta eat to grow that big?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+would tetora like to grow big, too~?
+{% endbubble %}
+
+{% bubble Tetora v2 %}
+Ossu, bigger means stronger.
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+Well, we are still in our growth period, so I have hopes that we will grow bigger eventually…
+{% endbubble %}
+
+{% bubble Shinobu sightired %}
+Uuu~ I’ve practically given up on trying to grow taller, though…
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Don’t give up, Sengoku! Your dream will come true!
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+I’d rather you never grow bigger, Shinobu-kun… The smaller, the cuter…♪
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+Yuuta-kun said the same thing to me… But I’m not some kind of pet, you know~?
+{% endbubble %}
+
+## Chapter 8
+
+{% bubble Chiaki norsmile %}
+Heheh. As nice as it is to chat, let’s discuss what we’ll do from here on out while we have the time. We wouldn’t want the day to end as nothing but a sightseeing tour.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+that sort of thing should actually be said by <em>me</em>, the leader, don’t you think?
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+Mm. Sorry, I’m meddling too much.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+no, no, i appreciate the help while i am still getting used to these things.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+mm, alright. let’s see… …what should we do? what are we supposed to do here?
+{% endbubble %}
+
+{% bubble Tetora worried %}
+Why do you sound so unreliable!? You’re the commander this time, Shinkai-senpai, so you gotta be the one to decide what we do to <em>some</em> extent, y’know~?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes… erm, our [goal]— or rather, the [request] we received is to [restore] this [land].
+{% endbubble %}
+
+{% bubble Chiaki %}
+In other words, to rejuvenate the area. We’ll turn this peculiar island into a place that can support itself and develop.
+{% endbubble %}
+
+{% bubble Shinobu curious %}
+Erm. This has been on my mind for a while, but — What exactly do you mean when you say “to restore”?
+{% endbubble %}
+
+{% bubble Kanata serious %}
+…? what do you mean?
+{% endbubble %}
+
+{% bubble Shinobu northinking %}
+Restoration indicates bringing life to a land that was once developed but had turned to ruins, correct?
+
+For example, the restoration of a land struck by disaster and such…
+
+Therefore, does that mean that this land was also once a developed area?
+{% endbubble %}
+
+{% bubble Shinobu frown %}
+Ah, erm, but perhaps there was no deeper meaning in phrasing the request in that way…?
+
+Still, as someone who works as the secretary of the Student Council, I am extremely mindful of the use of such words.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Sorry to cut into your conversation, but yes, that’s what restoration means here~.
+
+I heard from my grandpa that in the olden days, this land was pretty well-developed, for reasons such as being located near the main island of Okinawa~♪
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+That does make sense. In fact, a location being near to the mainland is a major factor in its development.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Mhm\~. You saw ruins everywhere, right\~? But it’s not like they always looked like that from the start\~.
+{% endbubble %}
+
+{% bubble Tetora serious %}
+So those ruins are relics of the time from when this island was prosperous?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Yep. They’re not historic ruins, but <em>abandoned</em> ruins.
+
+Which means they’re buildings that began to break down after people stopped occupying them~. This island was once destroyed, and had deteriorated since then.
+
+So your job is to bring back the radiance of such an unfortunate island~.
+
+Nyahaha, this is a job that was meant for us locals, though\~. But since it’s such a complicated land, we need help from people outside the prefecture, too\~.
+
+Especially Kanata-sama’s help. The people of this island are religious worshippers, so they likely won’t listen to anyone but Kanata-sama~.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+w-what a heavy responsibility on me.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+On the contrary, I think they’ll take everything Kanata-sama says seriously, like it’s said by an oracle from God—
+
+So if you guide them efficiently, the islanders are bound to unite as one and do their best for you~.
+{% endbubble %}
+
+{% bubble Kanata frownshake %}
+it became an even heavier responsibility…
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+It’ll be alright, Kanata. We’ll all think about what to do together!
+{% endbubble %}
+
+{% bubble Tetora fist %}
+Ossu, *all for one!* That’s what Ryuseitai’s all about!
+{% endbubble %}
+
+{% bubble Midori sightired %}
+Mm~… But I really do feel like restoring a whole island is way too massive of a job for us to handle…
+
+I guess there’s nothing we can do about that, though, right… After all, Shinkai-senpai’s the commander this time, and this is the job he’s brought for us.
+{% endbubble %}
+
+{% bubble Shinobu smilesoft %}
+Mhm. Until this job is sorted out, the only thing we can do is devote our body and soul to our leader’s commands.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+y-yes. please and thank you. i will do my best as well, really.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Mhm, do your best\~. That’s why you should start by filling yourself up with a nice, tasty meal\~.
+
+It’s as they say, you can’t fight on an empty stomach\~. Make sure to eat well and get enough nutrition, or you won’t be able to handle taking care of anyone\~♪
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 7/30 chapters
+Translation in progress! 9/30 chapters
 {% endnote %}
 
 <div toc>
@@ -1119,31 +1413,31 @@ Translation in progress! 7/30 chapters
 
 ## Translation Notes
 
-[^1]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to be a spy in a criminal organization.
-[^2]: The word for “delicate” is <em>sensai</em>, and it can also mean “sensitive”. It was mentioned in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
-[^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>.
-[^4]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
-[^5]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
-[^6]: Kanata says “let's go” as you would in English, though it was written in hiragana in the text, implying it's said how you would in Japanese.
-[^7]: This is how Okinawans say “Welcome”.
-[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
-[^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
-[^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
-[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a formal pronoun to refer to oneself.
-[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
-[^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
-[^15]: Mizusaba calling Kanata with “sama” implies a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
-[^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
-[^17]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine, Nirai Kanai chapters</a>.
-[^18]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
-[^19]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine,</a> where Ryuseitai decides to help the locals.
-[^20]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, which occurs in Okinawa.
-[^21]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
-[^22]: This is mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
-[^23]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
-[^24]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
-[^25]: Gunkanjima, meaning “Battleship Island”, is an abandoned island that became a tourist attraction. See more <a href="https://en.wikipedia.org/wiki/Hashima_Island" target="_blank">here</a>.
-[^26]: Okunoshima, also known as “Rabbit Island”. See more <a href="https://en.wikipedia.org/wiki/%C5%8Ckunoshima" target="_blank">here</a>.
+[^1]: Referring to <a href="/tropical" target="_blank">Tropical</a>.
+[^2]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to be a spy in a criminal organization.
+[^3]: The word for “delicate” is <em>sensai</em>, and it can also mean “sensitive”. It was mentioned in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
+[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>.
+[^5]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
+[^6]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
+[^7]: Kanata says “let's go” as you would in English, but written in hiragana in the text, as that's how Kanata speaks.
+[^8]: This is how Okinawans say “Welcome”.
+[^9]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
+[^10]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
+[^11]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
+[^12]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
+[^13]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a slightly old-fashioned, formal pronoun to refer to oneself.
+[^14]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^15]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
+[^16]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
+[^17]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
+[^18]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine, Nirai Kanai chapters</a>.
+[^19]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
+[^20]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine,</a> where Ryuseitai decides to help the locals.
+[^21]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, which occurs in Okinawa.
+[^22]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
+[^23]: This was mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
+[^24]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
+[^25]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
+[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game right now, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Chapter-6" target="_blank">go here</a>.
 [^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
