@@ -791,16 +791,16 @@ permalink: minitalk/
             <span>2: Sudden Departure</span>
             <span class="read"></span>
         </a>
-    </div><!--
+    </div>
     <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
-                alt="What An Evil Ninja Is"
+                alt="An Energizing Time"
             />
         </div>
         <a href="/stella_maris/minitalk/shinobu_1" class="storyName" target="_blank">
-            <span>1: What An Evil Ninja Is</span>
+            <span>1: An Energizing Time</span>
             <span class="read"></span>
         </a>
     </div>
@@ -808,14 +808,14 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
-                alt="Preparing For The Mission"
+                alt="Okinawa Souvenir"
             />
         </div>
         <a href="/stella_maris/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: Preparing For The Mission</span>
+            <span>2: Okinawa Souvenir</span>
             <span class="read"></span>
         </a>
-    </div>-->
+    </div>
 </div>
 
 <div style="margin-top:10px">{% btn /stella_maris,, star, Index %}</div>

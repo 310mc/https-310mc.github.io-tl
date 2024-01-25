@@ -58,7 +58,7 @@ Mmm~… It's just not going well…
 Kiryu looked to be busy, so I only borrowed a sewing kit… But with how difficult it's been, I feel like I should've just asked him to fix it up for me another day.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki grin2 %}
 No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll be able to accomplish anything!
 {% endbubble %}
 

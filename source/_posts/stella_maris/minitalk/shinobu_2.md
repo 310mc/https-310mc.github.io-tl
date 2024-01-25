@@ -1,12 +1,11 @@
 ---
-title: "Stella Maris – Shinobu Mini Talk: rejecting [leadership]"
+title: "Stella Maris – Shinobu Mini Talk: Okinawa Souvenir"
 date: 2024/1/25 9:01:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu's second Mini Talk from Stella Maris. From Anzu's POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -53,48 +52,51 @@ hidden: true
 
 {% img /img/es/eventstory/stellamaris/minitalk_shinobu2_1.jpg %}
 
-{% bubble Shinobu curious %}
-what is it, anzu-san~?
+{% bubble Shinobu smilesoft %}
+I'm so happy I could meet Anzu-dono as soon as I entered ES~♪
 
-[mascot character] merchandise as a [gift]? why me, and not midori…?
+It really makes me feel like I've truly returned home~
+{% endbubble %}
 
-ahh, i see. it is a [fish mascot]~♪
+{% bubble Shinobu awkward %}
+You see, our work at Okinawa was pretty tough this time, so…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you like it?
+            Welcome back.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            yes~ i had no idea there was a [character] like this.
-
-            i will treasure this [item]. thank you~♪
+            {% bubble Shinobu grin %}
+            I'm home, Anzu-dono!
+            {% endbubble %}
+            {% bubble Shinobu blushshy %}
+            …Ehehe, I feel a little embarrassed somehow.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its charm point is…
+            I heard about it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu curious %}
-            oh, the other side of its [body] is [sashimi]…?
+            {% bubble Shinobu smilesoft %}
+            Ahh, you heard all about it from Morisawa-dono?
 
-            what a strange [character]~ is that how it is with [mascot characters]?[^1]
+            But when we could have fun, it was truly fun. Our work was quite fulfilling, too.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its slogan is…
+            Did you get to enjoy yourself after work?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            "tasty, energetic [fish]"?
+            {% bubble Shinobu smile %}
+            Indeed. We were able to take it easy this time, much more than the last time we were there.
 
-            so it is treated as [food], yes? now i want to learn more about it~♪
+            We went to souvenir shops too, so I feel quite satisfied~♪
 			{% endbubble %}
         </div>
     </div>
@@ -104,48 +106,48 @@ ahh, i see. it is a [fish mascot]~♪
 
 {% img /img/es/eventstory/stellamaris/minitalk_shinobu2_2.jpg %}
 
-{% bubble Shinobu smilesoft2 %}
-since this is a mascot, i would love to show [it] to midori.
+{% bubble Shinobu smile %}
+I bought souvenirs for all my friends, and Anzu-dono too.
 
-he really loves [mascot characters], after all.
+I ended up buying quite a lot of things. Sweets, key holders, and other miscellaneous items…
 
-i am sure it is as precious to him as the [ocean] and [fish] are to me.
+Ah— My gift to you is a beauty facemask. ♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Actually…
+            Thank you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            you gave [it] to midori, too?
+            {% bubble Shinobu grin %}
+            Heheh. I'm sure you will be surprised to see what's inside. For you see, it's a facemask with a Shisa face printed on it!
 
-            fufu, you are so quick to work, anzu-san~♪
+            Actually, everyone in Ryuseitai tried one, and it was quite interesting. So I decided to buy one for you, too~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You really care about your juniors, huh?
+            I didn't expect that…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            fufufu, it feels a bit embarrassing when you say that~
+            {% bubble Shinobu norsmile %}
+            W-Was it a surprising choice coming from me…? I actually couldn't decide what would be good at first, and asked Isara-dono for help.
 
-            midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
+            He told me that you'd likely enjoy facemasks or something soothing, so that's how I ended up with this gift.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh, then…
+            I'll use it every day.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            you have another [one]?
+            {% bubble Shinobu nod %}
+            Fufu, it was worth the time and effort to find the right gift for you.
 
-            thank you~ i will give it to midori later…♪
+            I'm sure your skin will look soft and smooth with this, Anzu-dono~♪
 			{% endbubble %}
         </div>
     </div>
@@ -155,55 +157,51 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 {% img /img/es/eventstory/stellamaris/minitalk_shinobu2_3.jpg %}
 
-{% bubble Shinobu %}
-you would like to give me something else? this is… a [pamphlet], right?
+{% bubble Shinobu smile %}
+I'm so glad you liked your souvenir, Anzu-dono…♪
 
-ohh, there will be a [photoshoot event] for this fishie, yes?
+Right then, I should go and hand over the other souvenirs to everyone else.
 
-i already finished my work, so maybe i will [go] and visit them.
+That being said, where *should* I go next?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Here's the map for it.
+          The dance room…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            waah, you are always [perfect] with your job, aren't you~?
+            {% bubble Shinobu norsmile %}
+            Yuuta-kun was there? Then I'll head over there.
 
-            fufu, i will take a [peek] on my way [home].
+            My souvenir for Yuuta-kun is actually something he requested me to buy… It is quite a large amount, so I'd like to give it to him as soon as possible.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll prepare a camera.
+            The training room…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            you will prepare a [camera] for the [photoshoot]?
+            {% bubble Shinobu grin %}
+            Mikejima-dono was there!? This is perfect timing, then!
 
-            then let's go together, anzu-san~
+            Mikejima-dono always gives me ninja merchandise, so I bought him plenty of souvenirs as repayment. Thank you for informing me~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please enjoy yourself.
+            Cafe COCHI…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu %}
-            hm? you will not join me, anzu-san?
+            {% bubble Shinobu smilesoft %}
+            Hm, hm. Everyone in ALKALOID had tea there…
 
-            then i will invite someone else to come with me~
+            I already passed over ALKALOID's gifts to Mayoi-dono. For some reason, he came to see me at the airport, so he was the first person I met once I returned here.
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
-
-## Translation Notes
-
-[^1]: In this case, Shinobu is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
+<div toc>{% btn /stella_maris/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: An Energizing Time %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>

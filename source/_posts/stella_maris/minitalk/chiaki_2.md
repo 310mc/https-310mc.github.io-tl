@@ -66,7 +66,7 @@ Us Ryuseitai had been practicing for a commercial, and had even gone to Okinawa.
             How was it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
+            {% bubble Chiaki grin %}
             I don't think I'll have enough time to mention everything that had happened in Okinawa, but…
 
             It made me happy that I could accomplish what Kanata wanted to do. I've had my fair share of struggles in Okinawa before, but this time around, I made a lot of lovely memories!
@@ -157,7 +157,7 @@ My arms and face sting a little.
 {% img /img/es/eventstory/stellamaris/minitalk_chiaki2_3.jpg %}
 
 {% bubble Chiaki %}
-Oh yeah, I bought some souvenirs. At first, I had told my unit mates that we aren't here for a fun sightseeing trip, but everyone looked like they wanted to buy something in the end.
+Oh yeah, I bought some souvenirs. At first, I had told my unitmates that we aren't here for a fun sightseeing trip, but everyone looked like they wanted to buy something in the end.
 
 So to advertise the souvenir ships in the market street, we bought all kinds of Okinawa souvenirs. I got something for you, too~♪
 

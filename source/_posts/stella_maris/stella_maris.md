@@ -501,8 +501,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="tba/chiaki_1" id="none">x</a>
-                            <a href="tba/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="none">Part One</a>
+                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -510,8 +510,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="tba/midori_1" id="none">x</a>
-                            <a href="tba/midori_2" id="none">x</a>
+                            <a href="minitalk/midori_1" id="none">Part One</a>
+                            <a href="minitalk/midori_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -519,8 +519,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="tba/shinobu_1" id="none">x</a>
-                            <a href="tba/shinobu_2" id="none">x</a>
+                            <a href="minitalk/shinobu_1" id="none">Part One</a>
+                            <a href="minitalk/shinobu_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>
