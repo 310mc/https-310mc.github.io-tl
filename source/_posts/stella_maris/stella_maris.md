@@ -3,7 +3,6 @@ title: "[ES!!] Stella Maris – Climax Event (In Progress!)"
 date: 2024-1-19 10:00:00
 categories:
 - [Enstars, ES!!]
-- [Enstars, Ryuseitai]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Story Index

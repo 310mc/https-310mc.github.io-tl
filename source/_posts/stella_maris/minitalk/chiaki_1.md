@@ -1,12 +1,11 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: lovely present"
-date: 2024/1/16 9:06:00
+title: "Stella Maris – Chiaki Mini Talk: Torn Tracksuit"
+date: 2024/1/25 9:04:00
 categories:
-- [Enstars, Tetora]
+- [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV."
-hidden: true
+description: "[ES!!] Chiaki's first Mini Talk from Stella Maris. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -16,7 +15,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -51,50 +50,53 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_1.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_1.jpg %}
 
-{% bubble Tetora v2 %}
-fufufu\~♪ hello, anzu-san\~
+{% bubble Chiaki frown %}
+Mmm~… It's just not going well…
 
-i [seem] to be in a good mood? you figured me out~♪
+Kiryu looked to be busy, so I only borrowed a sewing kit… But with how difficult it's been, I feel like I should've just asked him to fix it up for me another day.
+{% endbubble %}
 
-i just finished a [photoshoot] for a magazine, and heard about [something] wonderful.
+{% bubble Chiaki v2 %}
+No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll be able to accomplish anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it about work?
+            What's wrong?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            yes, it is about [work]~ by the way, the magazine [photoshoot] should give you a [clue].
-
-            fufufu, this is fun, it is like i am giving you a [quiz]…♪
+            {% bubble Chiaki %}
+            Ooh, Anzu! I was practicing some dance lessons, when the knee area of my tracksuit pants got torn.
+            {% endbubble %}
+            {% bubble Chiaki sightired %}
+            I'm trying to stitch it back together on my own, but it's pretty difficult…
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Something wonderful?
+            What are you sewing?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            yes. there is nothing more wonderful to hear than [this], personally.
+            {% bubble Chiaki surprised %}
+            Dowah!? You showed up behind me, that I almost thought it was a ghost!
 
-            ufufu, i would love it if you asked me what it is…♪
+            …Ah, no, I'm sorry too. I was so focused on fixing my tracksuit pants that I didn't even notice you calling for me.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it about Ryuseitai?
+            You seem to be struggling.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            no, it is only about [me] this time.
+            {% bubble Chiaki awkward %}
+            Anzu… As you can see, the stitch is all over the place…
 
-            but our [work] in ryuseitai has been going well, so maybe that is another reason for my [good mood]~?
+            Unsurprisingly, I don't have enough experience to stitch something up as well as you and Kiryu can.
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +104,51 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_2.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_2.jpg %}
 
-{% bubble Tetora v2 %}
-you see, my next magazine photoshoot will be on the [beach].
+{% bubble Chiaki %}
+Mm? You'll stitch up my tracksuit for me?
 
-my [job] will be to introduce [seafood].
+That'd help me immensely! I wasn't getting anywhere doing it on my own…!
 
-it is the most suitable [work] for me. i was pleasantly surprised when they told me…♪
+But… That means I'll have nothing to do. Hm, is there anything I could help you with?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It sounds like fun.
+            Could you buy me some fabric?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            yes\~♪ i am already so excited\~
+            {% bubble Chiaki %}
+            I see, since a huge chunk of it got ripped, you'll need fabric of the same color, right?
 
-            i will be sure to bring back tasty [fish] as a [souvenir] for you, anzu-san~♪
+            I'll go buy some for you right away! You wait here with a cup of tea, if you like!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It really does suit you.
+            Please cheer for me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            showing off my [love] for the ocean has [paid off], hasn't it~
-
-            fufu, i hope to [continue] to get more [jobs] to do with the ocean…♪
+            {% bubble Chiaki fist %}
+            Mhm! That's my area of expertise! ☆ You've got this, Anzu, you can do it!
+            {% endbubble %}
+            {% bubble Chiaki awkward %}
+            …Oh! I was a little too loud there. This is a public space, so I'll make sure to keep it down.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I hope you can dip in the ocean.
+            Mm~…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            i wonder… it will [mainly] be about [dishes] this time, so i am not sure…
+            {% bubble Chiaki %}
+            You can't think of anything…? But I'd feel bad if I did nothing but watch as you work…
 
-            but i may be able to *[puka puka]* during my break time…♪
+            Alright, I'll go buy juice and something sweet in the meantime. Let me know if there's anything you want in particular~♪
 			{% endbubble %}
         </div>
     </div>
@@ -153,53 +156,53 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_3.jpg %}
 
-{% bubble Tetora v2 %}
-a [job] about something you enjoy really gets you in the [mood]~
+{% bubble Chiaki %}
+Oh— You're already done? You're incredible as always, Anzu!
 
-i will [practice] starting today, so that i may properly express my [thoughts] once it is time.
+You'd like me to do a final check-up, in case there are any other problems? Honestly, I don't feel like there's any problem as long as the hole is stitched up, but… Hmm, let's see…?
 
-would you be willing to help me with improving my [food reporting] skills?
+Ohhh…! It's so neatly done, I can't even tell *where* the rip was in the first place! You're amazing, Anzu…☆
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'll book a seafood restaurant, then.
+          I'm so glad.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            thank you…♪ you are always so reliable, anzu-san.
+            {% bubble Chiaki %}
+            You really helped me out so much! Tenshouin passed by a while back, and told me to simply buy a new one, but… I'd rather get it stitched back up to wear it again.
 
-            i am [excited] to see what sort of restaurant you will [book] for me~…♪
+            I can now practice a lot in this tracksuit again. It's all thanks to you, thank you!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll gather more information for you.
+            Not as good as Kiryu-senpai…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            umm… you will prepare a [manual] for me, in order to do a proper [food reportage]…?
+            {% bubble Chiaki %}
+            Oh yeah, the person who taught you how to sew was Kiryu, right? It's wonderful to aim to be like your mentor, but there's no harm in being prideful of your skill.
 
-            that would be most helpful…♪ but [no] pushing yourself, okay?
+            I think it's good to be more confident in your own skills…! ☆ Be proud that you perfectly stitched up these pants!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll find an adviser for you.
+            Please let me know if your clothes rip again.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            an [adviser]? so you will find someone who is good at [food reportage], yes?
+            {% bubble Chiaki %}
+            Thank you, Anzu! You're so reliable, like a true hero!
 
-            fufufu, i am excited then. i would love to say something like, "my mouth feels like the ocean~" ♪
+            I'm no match for your sewing skills, but still — if you're ever in trouble, call for me. I'll always come rushing to you! ☆
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: rejecting [leadership] %}</div>
+<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Returning From Work %}</div>

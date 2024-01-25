@@ -1,12 +1,11 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: rejecting [leadership]"
-date: 2024/1/16 9:07:00
+title: "Stella Maris – Chiaki Mini Talk: Returning From Work"
+date: 2024/1/25 9:05:00
 categories:
-- [Enstars, Tetora]
+- [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!!] Tetora's second Mini Talk from Stella Maris. From Anzu's POV."
-hidden: true
+description: "[ES!!] Chiaki's second Mini Talk from Stella Maris. From Anzu's POV."
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -16,7 +15,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -51,50 +50,50 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_1.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_1.jpg %}
 
-{% bubble Tetora curious %}
-what is it, anzu-san~?
+{% bubble Chiaki %}
+I feel like it's been a while since you and I ate together in the cafeteria!
 
-[mascot character] merchandise as a [gift]? why me, and not midori…?
+Ahh, that's true, we haven't been seeing each other as of late…
 
-ahh, i see. it is a [fish mascot]~♪
+Us Ryuseitai had been practicing for a commercial, and had even gone to Okinawa.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Do you like it?
+            How was it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            yes~ i had no idea there was a [character] like this.
+            {% bubble Chiaki grin2 %}
+            I don't think I'll have enough time to mention everything that had happened in Okinawa, but…
 
-            i will treasure this [item]. thank you~♪
+            It made me happy that I could accomplish what Kanata wanted to do. I've had my fair share of struggles in Okinawa before, but this time around, I made a lot of lovely memories!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its charm point is…
+            Did you have fun?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora curious %}
-            oh, the other side of its [body] is [sashimi]…?
+            {% bubble Chiaki smilesoft %}
+            Yeah. I believe it was a great experience for us in Ryuseitai.
 
-            what a strange [character]~ is that how it is with [mascot characters]?[^1]
+            I'll tell you all about it at a later date, alongside a report of our job. I'd like you to watch our footage, too.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Its slogan is…
+            Oh yeah…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            "tasty, energetic [fish]"?
+            {% bubble Chiaki %}
+            Yep, exactly. The commander of Ryuseitai this time was Kanata. He's the one who got a job for us at Okinawa.
 
-            so it is treated as [food], yes? now i want to learn more about it~♪
+            To be honest, I wasn't sure how it would turn out at first… But Kanata did his job properly as the leader!
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +101,52 @@ ahh, i see. it is a [fish mascot]~♪
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_2.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_2.jpg %}
 
-{% bubble Tetora smilesoft2 %}
-since this is a mascot, i would love to show [it] to midori.
+{% bubble Chiaki northinking %}
+Okinawa was pretty hot even in this period of time. I got a sunburn from it.
+{% endbubble %}
 
-he really loves [mascot characters], after all.
+{% bubble Chiaki awkward %}
+It's still spring, so I got careless and forgot to bring sunscreen with me…
 
-i am sure it is as precious to him as the [ocean] and [fish] are to me.
+My arms and face sting a little.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Actually…
+            Please cool your skin properly.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you gave [it] to midori, too?
+            {% bubble Chiaki %}
+            Hm, hm. When you're sunburnt, it's as if you've got a light burn, so cooling the skin helps…?
 
-            fufu, you are so quick to work, anzu-san~♪
+            Alright. When I get back to the dorms, I'll cool my skin with a cold wet towel!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You really care about your juniors, huh?
+            How about cucumbers…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            fufufu, it feels a bit embarrassing when you say that~
+            {% bubble Chiaki %}
+            Oh yeah, I heard sliced cucumbers are good for the skin when you're sunburnt… But does it actually work?
 
-            midori also gives me [fish merchandise], so that means he cares about me as his [senior]…♪
+            Well, I won't know unless I try. I'll give it a shot.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh, then…
+            You shouldn't let your guard down like that.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you have another [one]?
+            {% bubble Chiaki sighdrop %}
+            Mm. Sena scolded me yesterday, too… He told me that sunscreen should be applied throughout the whole year, not just summer.
 
-            thank you~ i will give it to midori later…♪
+            Sena gave me sunscreen he always recommends to use, so I'm planning to apply it every day from now on.
 			{% endbubble %}
         </div>
     </div>
@@ -153,57 +154,53 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_3.jpg %}
+{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_3.jpg %}
 
-{% bubble Tetora %}
-you would like to give me something else? this is… a [pamphlet], right?
+{% bubble Chiaki %}
+Oh yeah, I bought some souvenirs. At first, I had told my unit mates that we aren't here for a fun sightseeing trip, but everyone looked like they wanted to buy something in the end.
 
-ohh, there will be a [photoshoot event] for this fishie, yes?
+So to advertise the souvenir ships in the market street, we bought all kinds of Okinawa souvenirs. I got something for you, too~♪
 
-i already finished my work, so maybe i will [go] and visit them.
+I left them all in the agency office, so could I give it to you at a later time?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Here's the map for it.
+          Thank you very much!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            waah, you are always [perfect] with your job, aren't you~?
+            {% bubble Chiaki smilesoft %}
+            Heheh, you don't even know what the souvenir yet, yet you're this happy?
 
-            fufu, i will take a [peek] on my way [home].
+            Ah, don't worry, I didn't buy anything strange. I'm sure you'll love it! ☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll prepare a camera.
+            I'll go there for it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            you will prepare a [camera] for the [photoshoot]?
+            {% bubble Chiaki %}
+            But don't you have work after this? In that case, let me be the one to pass it to you.
 
-            then let's go together, anzu-san~
+            I'm only going to go home after this, so don't worry, there's no need to hold back!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please enjoy yourself.
+            What kind of souvenir?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora %}
-            hm? you will not join me, anzu-san?
+            {% bubble Chiaki %}
+            It's a small Shisa ornament! Apparently, it's good fortune to place it in your home as a guardian deity.
 
-            then i will invite someone else to come with me~
+            By the way, I bought myself one, too. I placed it right next to my hero figurines in my dorm room~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
-
-## Translation Notes
-
-[^1]: In this case, Tetora is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
+<div toc>{% btn /stella_maris/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Torn Tracksuit %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>

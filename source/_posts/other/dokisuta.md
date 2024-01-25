@@ -4,7 +4,6 @@ date: 2023-4-19 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, ES!!]
-- [Enstars, Ryuseitai]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Extra

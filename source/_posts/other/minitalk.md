@@ -743,16 +743,16 @@ permalink: minitalk/
             <span>2: Preparing in Advance for a Job</span>
             <span class="read"></span>
         </a>
-    </div><!--
+    </div>
     <div class="story">
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
-                alt="Hungry Hero"
+                alt="Torn Tracksuit"
             />
         </div>
         <a href="/stella_maris/minitalk/chiaki_1" class="storyName" target="_blank">
-            <span>1: Hungry Hero</span>
+            <span>1: Torn Tracksuit</span>
             <span class="read"></span>
         </a>
     </div>
@@ -760,11 +760,11 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
-                alt="The Path of a Hero Turning Evil"
+                alt="Returning From Work"
             />
         </div>
         <a href="/stella_maris/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: The Path of a Hero Turning Evil</span>
+            <span>2: Returning From Work</span>
             <span class="read"></span>
         </a>
     </div>
@@ -772,11 +772,11 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
-                alt="Recommendations"
+                alt="Encounter at the Cafeteria"
             />
         </div>
         <a href="/stella_maris/minitalk/midori_1" class="storyName" target="_blank">
-            <span>1: Recommendations</span>
+            <span>1: Encounter at the Cafeteria</span>
             <span class="read"></span>
         </a>
     </div>
@@ -784,14 +784,14 @@ permalink: minitalk/
         <div class="image">
             <img
                 src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
-                alt="Work, work, work"
+                alt="Sudden Departure"
             />
         </div>
         <a href="/stella_maris/minitalk/midori_2" class="storyName" target="_blank">
-            <span>2: Work, work, work</span>
+            <span>2: Sudden Departure</span>
             <span class="read"></span>
         </a>
-    </div>
+    </div><!--
     <div class="story">
         <div class="image">
             <img

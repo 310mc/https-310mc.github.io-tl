@@ -3,7 +3,6 @@ title: "[ES!!] Supervillain"
 date: 2023-02-08 9:00:00
 categories:
 - [Enstars, ES!!]
-- [Enstars, Ryuseitai]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Event Story

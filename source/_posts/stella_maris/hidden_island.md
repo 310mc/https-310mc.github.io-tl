@@ -709,7 +709,7 @@ Mhm! Letting Sengoku take care of everything will guarantee us no problems!
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-I would rather you don’t rely on me so much for that~… I’m quite feeble, so it may eventually crush me.
+I would rather you don’t rely on me so much for that~… I’m quite feeble, so it will eventually crush me.
 {% endbubble %}
 
 {% bubble Shinobu srsthinking %}
@@ -1275,7 +1275,7 @@ Yuuta-kun said the same thing to me… But I’m not some kind of pet, you know~
 ## Chapter 8
 
 {% bubble Chiaki norsmile %}
-Heheh. As nice as it is to chat, let’s discuss what we’ll do from here on out while we have the time. We wouldn’t want the day to end as nothing but a sightseeing tour.
+Heheh. As nice as it is to chat, let’s discuss what we’ll do from here on out while we have the time. We wouldn’t want the day to end as nothing but a sightseeing trip.
 {% endbubble %}
 
 {% bubble Kanata frown %}
