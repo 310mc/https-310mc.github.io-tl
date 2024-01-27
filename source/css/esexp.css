@@ -563,9 +563,6 @@
 [character="Kanata"][kidcurious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidcurious.png");
 }
-[character="Kanata"][kidehen] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidehen.png");
-}
 [character="Kanata"][kidfrown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
 }
@@ -587,6 +584,9 @@
 [character="Kanata"][kidnorthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnorthinking.png");
 }
+[character="Kanata"][kidniyaclosed] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidniyaclosed.png");
+}
 [character="Kanata"][kidsrsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsrsthinking.png");
 }
@@ -605,8 +605,8 @@
 [character="Kanata"][kidsigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh.png");
 }
-[character="Kanata"][kidsigh2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh2.png");
+[character="Kanata"][kidsighdrop] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsighdrop.png");
 }
 [character="Kanata"][kidsleeping] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleeping.png");
@@ -614,8 +614,8 @@
 [character="Kanata"][kidsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile.png");
 }
-[character="Kanata"][kidsmile2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile2.png");
+[character="Kanata"][kidsmileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
 }
 [character="Kanata"][kidsmileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileconfident.png");
@@ -995,6 +995,23 @@
 
 }
 
+[character=UnKonata]{
+  --color: #008db7;
+  --hue: 193.8;
+  --name: "???";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kid.png")
+}
+
+[character="UnKonata"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
+}
+[character="UnKonata"][frown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown2.png");
+}
+[character="UnKonata"][hmphright] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidhmphright.png");
+}
+
 [character=Konata]{
   --color: #008db7;
   --hue: 193.8;
@@ -1008,10 +1025,10 @@
 [character="Konata"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidcurious.png");
 }
-[character="Konata"][ehen] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidehen.png");
-}
 [character="Konata"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
+}
+[character="Konata"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
 }
 [character="Konata"][frownshake] {
@@ -1022,6 +1039,12 @@
 }
 [character="Konata"][grin] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidgrin.png");
+}
+[character="Konata"][hmphright] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidhmphright.png");
+}
+[character="Konata"][niyaclosed] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidniyaclosed.png");
 }
 [character="Konata"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidnod.png");
@@ -1050,8 +1073,8 @@
 [character="Konata"][sigh] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh.png");
 }
-[character="Konata"][sigh2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsigh2.png");
+[character="Konata"][sighdrop] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsighdrop.png");
 }
 [character="Konata"][sleeping] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleeping.png");
@@ -1059,8 +1082,8 @@
 [character="Konata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile.png");
 }
-[character="Konata"][smile2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile2.png");
+[character="Konata"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
 }
 [character="Konata"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileconfident.png");

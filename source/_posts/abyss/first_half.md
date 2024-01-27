@@ -587,7 +587,7 @@ kanata feels shaky.
 That’s ‘cause God is usually holed up inside that dark liiittle den. Just being able to move your body around must feel good.
 {% endbubble %}
 
-{% bubble Kanata kidsigh2 %}
+{% bubble Kanata kidsighdrop %}
 it is tiring, though. kanata’s legs feel heavy.
 {% endbubble %}
 
@@ -723,7 +723,7 @@ it is called hide-and-seek. do you understand?
 Hide-and-seek…?
 {% endbubble %}
 
-{% bubble Kanata kidsmile2 %}
+{% bubble Kanata kidsmileexplain %}
 mm. one must hide without being caught. look, this place should be good.
 {% endbubble %}
 
@@ -1341,7 +1341,7 @@ ah, kanata understands… good, then. ehehe~♪
 Mm~ God really is dumb… So dumb that it’s amusing.
 {% endbubble %}
 
-{% bubble Kanata kidehen %}
+{% bubble Kanata kidniyaclosed %}
 praise kanata more. worship kanata more\~ ehe, ehe\~♪
 {% endbubble %}
 

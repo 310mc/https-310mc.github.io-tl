@@ -1400,8 +1400,220 @@ Mhm, do your best\~. That’s why you should start by filling yourself up with a
 It’s as they say, you can’t fight on an empty stomach\~. Make sure to eat well and get enough nutrition, or you won’t be able to handle taking care of anyone\~♪
 {% endbubble %}
 
+## Chapter 9
+
+{% img /img/es/eventstory/stellamaris/p1_9.jpg %}
+
+<div class="msr-narration">
+    <p>A few hours later. In the main temple of Hoshijima Village…</p>
+</div>
+
+{% bubble Tetora frustrated %}
+<th>(I-I’m so nervous~!)</th>
+
+<th>(Before deciding our next move, we thought it’d be best to first hear what this land — what the Hoshijima people — have in mind.)</th>
+
+<th>(And I agree that that’s the right choice here; we <em>should</em> first confirm what the residents of this island wanna do.)</th>
+{% endbubble %}
+
+{% bubble Tetora frown %}
+<th>(We could transform this place however we like without asking ‘em first, but… If the people living here won’t welcome it, then it’ll have been pointless.)</th>
+
+<th>(It’s unreasonable to impose our own ideas on ‘em without a care for their perspective. Especially since we’re completely fed up with that sorta thing from the bottom of our hearts.)</th>
+{% endbubble %}
+
+{% bubble Tetora serious %}
+<th>(I don’t think it’s right for us to do the same thing to ‘em that our agency did to us. It’s plain irritating when someone says, “I did it with the best intentions” without any regard for how you feel ‘bout it.)</th>[^29]
+
+<th>(If possible, we wanna restore this land in the way the islanders want.)</th>
+
+<th>(‘Cuz that’s how we also wanted to transform Ryuseitai, as best as possible.)</th>
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+tetora.
+{% endbubble %}
+
+{% bubble Tetora surprised0 %}
+Hahyu—!? Wh-wh-what is it, Shinkai-senpai!? Is there an enemy invasion!?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+there are no [enemies] here~ you are too nervous.
+
+it seems that i am [bad] at [explanations], so for [negotiations] with the other party, as well as [reporting] back the news to everyone—
+
+i can only rely on tetora, as you are capable of [explaining] things properly.
+
+so please stay [focused]. i am worried about you; you seem [distracted] somehow.
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+O-Ossu! I’ll do my absolute best to meet your expectations, Senp— I mean, Taichou!
+{% endbubble %}
+
+{% bubble Kanata northinking %}
+but, why is it tetora?
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+Huh!? A-Am I not good enough!?
+{% endbubble %}
+
+{% bubble Kanata srsthinking %}
+mm~… once it was decided we could meet with the [island’s higher-up], they told us only one person was permitted to [accompany] me.
+
+because it would only stress them to have [so many strangers] barging in.
+
+the people of this [island] have been confined in their village for a long time, so they appear to be relatively afraid of [others]… that cannot be [helped], though.
+{% endbubble %}
+
+{% bubble Tetora frown %}
+Ossu. If I were to put it in a negative light, it’s sorta exclusionary in a way.
+
+It’s prolly like those closed-off villagers you often see in movies, who hate outsiders. So just in case, we can’t risk the unlikely scenario of ‘em attacking Shinkai-Taichou.
+
+And ‘cuz I’m the most skilled in combat among the five of us, I’m accompanying Taichou as the bodyguard.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+i do not think anything [violent] will happen, though… what i am [expecting] from tetora for this occasion is not [violence], but [the art] of [conversation].
+
+after all, if they were to actually see us as [enemies], we would not be able to [get anywhere] with our job… so please behave in a [friendly manner].
+{% endbubble %}
+
+{% bubble Tetora frown %}
+Uu~myu… It’s true that negotiation is the main goal here, yeah. In that case, Shinobu-kun should’ve joined you instead of me, honestly.
+{% endbubble %}
+
+{% bubble Kanata smile %}
+it will be alright. tetora can also do it as long as he tries. during the [commotion] we had a while back, you did your very best at that [crimson]-something, yes?
+
+you managed it wonderfully, as the [executive staff] of the [evil organization].
+
+that is not something that an [idiot] can do. only a [clever person] capable of [negotiations] would be able to accomplish that.
+
+you are growing incredibly much more than [you] think, tetora.
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+…Ossu. Thank you, that’s very kind of you to say.
+
+Yeah, true. I personally think back on that time like it’s my dark past, but… Through a change of positions, I managed to accomplish somethin’ I’d never been able to do before.
+
+That experience’ll surely come in use too, right?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+yes. that is what i am [expecting].
+
+…oh, i see the other party has [arrived].
+{% endbubble %}
+
+{% bubble Tetora glare %}
+<th>(……! They’re making their appearance at last…! Uuu, I don’t feel mentally prepared for it at all, but—!)</th>
+
+<th>(This isn’t a karate match — Reality never waits for you to prep yourself first!)</th>
+
+<th>(Even in an unstable and shaky situation, I gotta do everythin’ in my power to stand my ground and do my best!)</th>
+{% endbubble %}
+
+{% bubble Tetora frustrated %}
+<th>(The black flame is the mark of effort…!)</th>
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+<th>(fufu. tetora is always such a [hard worker]~ i truly do believe that part of you is [admirable].)</th>
+{% endbubble %}
+
+{% bubble Kanata frown %}
+<th>(as for me, i am just [not there] at all~… i really am trying my best to do this [seriously], but i always end up being so floaty…)</th>
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p1_9_2.jpg %}
+
+{% bubble UnKonata %}
+Please excuse me.
+
+You suddenly called for me… But what on earth could this be for, Kanata-sama?
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+<th>(…? Huh?)</th>
+
+<th>(This kid…? This tiny li’l kid… is the higher-up who represents Hoshijima?)</th>
+
+<th>(Wait— Doesn’t he kinda look like someone…?)</th>
+{% endbubble %}
+
+{% bubble UnKonata frown2 %}
+As long as you do what you must, I don’t see a reason to report it to me.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+we need you and your people’s [cooperation] so that we can achieve that goal. not only that — it is necessary that we learn about your [prospects].
+{% endbubble %}
+
+{% bubble UnKonata frown %}
+Prospects? We simply want to continue living, even after God’s influence has vanished.
+
+Any method will do. Survival takes precedence above all.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+you are as [stiff] as ever~ i think you would be much [cuter] if you behaved more like a [child], you know?
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+come on, kona-chan\~ smile, smile\~♪
+{% endbubble %}
+
+{% bubble UnKonata hmphright %}
+Please do <em>not</em> call me “Kona-chan”.
+{% endbubble %}
+
+{% bubble Kanata worried %}
+uu~ but if i call you by your [real name], it will be easy to mix up with mine.
+{% endbubble %}
+
+{% bubble Konata frown %}
+Hmph. I suppose it is true that the “Kona” in “Konata” and “Kana” sound similar to the ear.[^30]
+{% endbubble %}
+
+{% bubble Tetora curious %}
+Konata…?
+{% endbubble %}
+
+{% bubble Konata %}
+Yes…? Indeed, my name is Minase Konata, the lord of this island.[^31]
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Minase… Not “Shinkai”?
+{% endbubble %}
+
+{% bubble Konata curious %}
+…? Whatever do you mean?
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+Ah, well, you’re like the splitting image of Shinkai-Taichou, so I figured you might be his sibling or relative.
+{% endbubble %}
+
+{% bubble Kanata smile %}
+yes, kona-chan is my adorable [little brother]~♪
+{% endbubble %}
+
+{% bubble Konata glare %}
+That isn’t true. You and I are complete strangers who have nothing to do with each other.
+{% endbubble %}
+
+{% bubble Tetora curious %}
+……?
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 9/30 chapters
+Translation in progress! 10/30 chapters
 {% endnote %}
 
 <div toc>
@@ -1441,3 +1653,6 @@ Translation in progress! 9/30 chapters
 [^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game right now, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Chapter-6" target="_blank">go here</a>.
 [^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^29]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, although he shares the same 2D model as young Kanata, he has no voice clips when speaking.
+[^31]: The kanji for <em>minase</em> is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
