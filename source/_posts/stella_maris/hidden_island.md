@@ -1612,8 +1612,328 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 ……?
 {% endbubble %}
 
+## Chapter 10
+
+{% img /img/es/eventstory/stellamaris/p1_10.jpg %}
+
+<div class="msr-narration">
+    <p>That night, at the lodging accommodation for Ryuseitai…</p>
+</div>
+
+{% bubble Shinobu curious %}
+Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^32]
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it all originates from when he was a pirate who ran rampage across the island.
+
+He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
+
+Ani-sama is his successor\~, he’s called “The second generation of the Okinawa Oni”\~♪
+
+He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
+
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Ani-sama about it\~.
+
+He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
+
+But technically, if it were possible, we probably could have entrusted this job to Ani-sama instead of you guys~.
+
+Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+If I may interject — with the exception of Kanata, we aren’t experts in religion, either.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^33] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+{% endbubble %}
+
+{% bubble Midori frown %}
+Mm~… And likewise, we’re not really experts in rejuvenating land, either.
+
+Shouldn’t something as large-scale as that be a job for <em>fine</em> instead of us, if we’re sticking to our agency…?
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+Actually, it seems that they’re taking a move right now, too.
+
+Sengoku mentioned Himemiya earlier, so I contacted Tenshouin — Apparently, <em>fine</em> is also working on something in Okinawa at the moment.
+
+Tenshouin told me, “depending on the circumstances, we may be able to join forces with you, so feel free to rely on us if anything happens.”
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+It makes me happy to see his compassion for friendship, but… why is it that I get strangely anxious when he’s being kind…
+{% endbubble %}
+
+{% bubble Shinobu northinking %}
+Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
+
+Though, it’s more so a project to build an amusement park…[^34]
+
+However, it seems that there is no land available in the mainland to build such a park, so they are instead aiming for Hoshijima.
+{% endbubble %}
+
+{% bubble Chiaki norsmile2 %}
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^35]
+
+While building the park, they may remove all the unusable ruins, too.
+
+Although, that on its own is a pretty rare sight to see, and therefore perfectly suits being a tourist attraction.
+{% endbubble %}
+
+{% bubble Midori frown2 %}
+It’s way too dangerous to be a tourist spot… We can still see them all the way from here, and the crumbling exterior is clearly peeling off just from the strong wind.
+
+It’d be dangerous for anyone to get close… I think we’re better off having all of them demolished.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Mm… It reminds me of what I heard about Gunkanjima. For similar reasons, it had been off-limits to the public because it was too dangerous.
+
+It may be best to take the predictable path, and build an amusement park that can make an infinite amount of money.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.
+
+If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^36] It’s necessary to take these things into account.
+
+Rather than to forcibly turn such a danger zone into a tourist attraction, it may be best to take the predictable path, and rebuild the area into an amusement park that can make an infinite amount of money.
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+Those abandoned buildings don’t seem to be old enough to carry any cultural heritage either… It looks like any regular ghost town you’d find around the world.
+{% endbubble %}
+
+{% bubble Chiaki yare %}
+Well, whatever we’ll do with those ruins depends on what sort of agreement Kanata and Nagumo reach with the islanders.
+
+They may tell us not to tamper with those buildings in any way.
+{% endbubble %}
+
+{% bubble Midori frown %}
+Oh yeah, I’m pretty curious what’s going on over there… I wonder if they’re doing okay… I hope they didn’t get dragged into some questionable ceremony by the religious people…
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+That’s just prejudiced thinking, Midori-kun~ As mentioned before, they simply believe in a different religion — they are still human beings just like us.
+
+I’m sure nothing inconceivable is happening to them at all!
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+i am back~♪
+{% endbubble %}
+
+{% bubble Chiaki %}
+Oh, as soon as we mentioned them—
+
+Welcome back, Kanata! Thanks for your hard work, and great job to Nagumo, too!
+
+How was it? What did the islanders say?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes, so. they were quite [unfriendly], but they [appeared] to be [accepting] of anything we plan to do~ or rather, they are indifferent either way.
+
+that is how little they are willing to [cooperate] with us. it seems, though, that they will not [oppose] our decisions, either.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+which is a good thing. it would have been a problem if they [forbade] all our choices after specifically [requesting] for our help.
+{% endbubble %}
+
+## Chapter 11
+
+{% img /img/es/eventstory/stellamaris/p1_11.jpg %}
+
+{% bubble Konata frown %}
+While it is true that we have been confined for a long time, we don’t lack basic common sense.
+
+I would appreciate it if you do not make light of us.
+{% endbubble %}
+
+{% bubble Chiaki shocked %}
+…?
+
+K-Kanata, who is this child…? Wait, don’t tell me—… Did you give birth to this kid!?
+{% endbubble %}
+
+{% bubble Kanata yare %}
+i cannot give birth, you know? i am a [guy]. i am not [saint mary]~?
+{% endbubble %}
+
+{% bubble Chiaki horrified %}
+T-Then did you split apart and multiply in number!?
+{% endbubble %}
+
+{% bubble Shinobu surprised0 %}
+What!? This turn of events is a lot more inconceivable than I ever could’ve imagined…!?
+{% endbubble %}
+
+{% bubble Kanata glare %}
+i cannot multiply, either~? what do you think of me as?
+{% endbubble %}
+
+{% bubble Konata %}
+Hello, everyone. It’s nice to meet you.
+
+I’ve heard about all of you from Kanata-sama. You are Kanata-sama’s allies, who have come to aid us and our island — Known as Ryuseitai, correct?
+
+As the lord of Hoshijima, I, Minase Konata, would like to express my deepest gratitude.
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+K-Konata? Is that his name because he’s a tiny Kanata?[^37]
+{% endbubble %}
+
+{% bubble Shinobu curious %}
+Are their names not simply “Konata” for “over here” and “Kanata” for “far away”…?[^38]
+{% endbubble %}
+
+{% bubble Chiaki worried %}
+Their names are really similar, though… Eh? Eh? Are they siblings?
+{% endbubble %}
+
+{% bubble Tetora frown %}
+I‘ve asked that question already.
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+Ah— Tetora-kun, welcome back to you, too~…
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Ossu. Mm, so, this kid is apparently somethin’ like a relative to Shinkai-Taichou.
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+What do you mean by “something like a relative”…?
+{% endbubble %}
+
+{% bubble Tetora yare %}
+Uu~myu… As always, everything Shinkai-Taichou says is too floaty to understand, and Konata-kun keeps denying any blood relations with him for some reason.
+
+Honestly, I’ve still got no clue what sorta relationship this kid has with Shinkai-Taichou.
+{% endbubble %}
+
+{% bubble Konata frownshake %}
+As I have stated already, we are complete strangers.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+The resemblance is far too much for that to be possible… But alright, it seems like they have deep circumstances of their own, so I won’t ask for details.
+{% endbubble %}
+
+{% bubble Konata %}
+I appreciate it. Erm, you’re the leader of Ryuseitai, correct?
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+No, Kanata’s the leader this time.
+{% endbubble %}
+
+{% bubble Konata curious %}
+“This time”? I don’t quite understand, but am I correct to consider this person the leader then?
+{% endbubble %}
+
+{% bubble Kanata niyaclosed %}
+ehe\~ ehe\~♪
+{% endbubble %}
+
+{% bubble Konata glare %}
+What are you acting so proud for? I didn’t compliment you in any way.
+{% endbubble %}
+
+{% bubble Kanata grin %}
+onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^39] i was [forbidden] from doing so up until now.
+{% endbubble %}
+
+{% bubble Konata yare %}
+That is because my existence was meant to be concealed. Nonetheless, since the main house of the religion had been abolished… It should be alright to show my appearance at the very least.
+
+After all, our island must lift its isolation policy, and open itself up to the outside world moving forward.
+
+I cannot be the only one who confines himself far from the public’s eye.
+
+Even if I were chosen simply due to blood relations, I am still the lord of this island in the end.
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+W-What a responsible kid… Incredible. I could barely speak this eloquently when I was around his age.
+{% endbubble %}
+
+{% bubble Midori serious %}
+Erm… Konata-kun— Konata-chan…?[^40] How old are you?
+{% endbubble %}
+
+{% bubble Konata norsmile %}
+I will become ten years old this year. My growth has been relatively slow for my age, as I had been living a poor lifestyle.
+{% endbubble %}
+
+{% bubble Midori curious %}
+Ah, if that’s the case… I think there can be kids like this at that age? Probably?
+{% endbubble %}
+
+{% bubble Tetora smileexplain %}
+He may look like a preschooler… But he’s actually much more intelligent than he seems. He clearly understood our side of the story, and took our thoughts to heart.
+
+Apparently, the islanders will abide by Konata-kun’s wishes, so as long as Konata-kun says it’s okay, then we’re all good to go.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+That’s immensely helpful. Now we don’t have to worry about the possibility of the islanders strongly opposing us, leaving us unable to accomplish anything.
+
+But still, this just leads us back to the matter of: What are we going to do next? How are we going to restore this island?
+{% endbubble %}
+
+{% bubble Konata %}
+For that, we have something of our own in mind, as well.
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+That’d be great, then. I know we shouldn’t be saying this upfront, but we seriously haven’t thought up a single thing—
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+Indeed. When we were practicing the “fish song”, we never even expected this to happen.
+{% endbubble %}
+
+{% bubble Midori yare %}
+Seriously… It was just supposed to be a simple commercial filming…
+{% endbubble %}
+
+{% bubble Konata frown %}
+I’m very sorry about that. Kanata-sama is always short on words.
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+[talking] a lot is not very [god]-like, after all~♪
+{% endbubble %}
+
+{% bubble Konata frown2 %}
+You aren’t a God anymore, are you?
+{% endbubble %}
+
+{% bubble Konata %}
+Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^41], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
+
+After such arrangements, it has been decided that a branch of the so-called “ES” will be built on this land.
+
+When that happens, it inevitably means that this land will be dyed in the colors of idols.
+
+However, we have not come in contact with idol culture for eons. It had been taboo to do so within this land.
+
+Because of that, we don’t exactly know what an idol is.
+
+That is why, I implore all of you — Please teach us what “idols” are.
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 10/30 chapters
+Translation in progress! 12/30 chapters
 {% endnote %}
 
 <div toc>
@@ -1650,9 +1970,19 @@ Translation in progress! 10/30 chapters
 [^23]: This was mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
 [^24]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
 [^25]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
-[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game right now, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Chapter-6" target="_blank">go here</a>.
+[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game right now, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
 [^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^29]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
-[^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, although he shares the same 2D model as young Kanata, he has no voice clips when speaking.
+[^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
 [^31]: The kanji for <em>minase</em> is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^32]: TBA
+[^33]: TBA
+[^34]: TBA
+[^35]: TBA
+[^36]: TBA
+[^37]: TBA
+[^38]: TBA
+[^39]: TBA
+[^40]: TBA
+[^41]: TBA 

@@ -57,11 +57,13 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 
 <!-- more -->
 
-## Chapter 6
+## Disclaimer
 
-{% note narration %}
-This story has two chapters with adjusted scenes (Hidden Island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game right now. The version below follows the story before it was adjusted.
-{% endnote %}
+<big>This story has two chapters with adjusted scenes (Hidden Island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game right now. The version below follows the story before it was adjusted.</big>
+
+<big>Click the following to jump to the chapter → Go to <a href="#Chapter-6"><b>Chapter 6</b></a> — Go to <a href="#Chapter-10"><b>Chapter 10</b></a></big>
+
+## Chapter 6
 
 {% img /img/es/eventstory/stellamaris/p1_6.jpg %}
 
@@ -101,7 +103,7 @@ You could actually just turn this scenery itself into a tourist attraction… It
 which was “gunkanjima” again? is it the [island] with a lot of bunnies?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki smileexplain %}
 I believe you’re thinking of Okunoshima, in Hiroshima.[^2] But yeah, it’s something similar to that. It’s an island that was kept hidden from the world for a long time due to various reasons.
 {% endbubble %}
 
@@ -246,6 +248,14 @@ But I feel as though someone is watching us—
 {% endbubble %}
 
 <big>Click <b><a href="/stella_maris/hidden_island#Chapter-6" target="_blank">here</a></b> to go back to the main translation.</big>
+
+<!--
+
+## Chapter 10
+
+<big>Click <b><a href="/stella_maris/hidden_island#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
+
+-->
 
 ## Translation Notes
 

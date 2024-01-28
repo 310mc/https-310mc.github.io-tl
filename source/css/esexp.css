@@ -297,6 +297,9 @@
 [character="Chiaki"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile.png");
 }
+[character="Chiaki"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smileexplain.png");
+}
 [character="Chiaki"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smileconfident.png");
 }
@@ -566,6 +569,9 @@
 [character="Kanata"][kidfrown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
 }
+[character="Kanata"][kidfrown2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown2.png");
+}
 [character="Kanata"][kidfrownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrownshake.png");
 }
@@ -634,6 +640,9 @@
 }
 [character="Kanata"][kidworried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidworried.png");
+}
+[character="Kanata"][kidyare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidyare.png");
 }
 
 
@@ -916,6 +925,9 @@
 [character="Tetora"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smile.png");
 }
+[character="Tetora"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smileexplain.png");
+}
 [character="Tetora"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smileconfident.png");
 }
@@ -1029,7 +1041,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
 }
 [character="Konata"][frown2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrown2.png");
 }
 [character="Konata"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidfrownshake.png");
@@ -1102,6 +1114,9 @@
 }
 [character="Konata"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidworried.png");
+}
+[character="Konata"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidyare.png");
 }
 /**
 ***/
