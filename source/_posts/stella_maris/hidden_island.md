@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Hidden Island"
-date: 2024-1-19 9:31:00
+date: 2024-1-28 9:31:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -1691,15 +1691,9 @@ It’d be dangerous for anyone to get close… I think we’re better off having
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Mm… It reminds me of what I heard about Gunkanjima. For similar reasons, it had been off-limits to the public because it was too dangerous.
+Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^36]
 
-It may be best to take the predictable path, and build an amusement park that can make an infinite amount of money.
-{% endbubble %}
-
-{% bubble Chiaki serious %}
-Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.
-
-If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^36] It’s necessary to take these things into account.
+If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^37] It’s necessary to take these things into account.
 
 Rather than to forcibly turn such a danger zone into a tourist attraction, it may be best to take the predictable path, and rebuild the area into an amusement park that can make an infinite amount of money.
 {% endbubble %}
@@ -1787,11 +1781,11 @@ As the lord of Hoshijima, I, Minase Konata, would like to express my deepest gra
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-K-Konata? Is that his name because he’s a tiny Kanata?[^37]
+K-Konata? Is that his name because he’s a tiny Kanata?[^38]
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-Are their names not simply “Konata” for “over here” and “Kanata” for “far away”…?[^38]
+Is it not simply <em>konata</em> for “here” and <em>kanata</em> for “there”…?[^39]
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -1849,7 +1843,7 @@ What are you acting so proud for? I didn’t compliment you in any way.
 {% endbubble %}
 
 {% bubble Kanata grin %}
-onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^39] i was [forbidden] from doing so up until now.
+onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^40] i was [forbidden] from doing so up until now.
 {% endbubble %}
 
 {% bubble Konata yare %}
@@ -1857,17 +1851,17 @@ That is because my existence was meant to be concealed. Nonetheless, since the m
 
 After all, our island must lift its isolation policy, and open itself up to the outside world moving forward.
 
-I cannot be the only one who confines himself far from the public’s eye.
+I cannot be the only one who confines oneself far from the public’s eye.
 
 Even if I were chosen simply due to blood relations, I am still the lord of this island in the end.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-W-What a responsible kid… Incredible. I could barely speak this eloquently when I was around his age.
+W-What a responsible kid… Incredible. I could <em>barely</em> speak this eloquently when I was around his age.
 {% endbubble %}
 
 {% bubble Midori serious %}
-Erm… Konata-kun— Konata-chan…?[^40] How old are you?
+Erm… Konata-kun— Konata-chan…?[^41] How old are you?
 {% endbubble %}
 
 {% bubble Konata norsmile %}
@@ -1919,7 +1913,7 @@ You aren’t a God anymore, are you?
 {% endbubble %}
 
 {% bubble Konata %}
-Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^41], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
+Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^42], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
 
 After such arrangements, it has been decided that a branch of the so-called “ES” will be built on this land.
 
@@ -1970,19 +1964,20 @@ Translation in progress! 12/30 chapters
 [^23]: This was mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
 [^24]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
 [^25]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
-[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game right now, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
+[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
 [^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^29]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
-[^31]: The kanji for <em>minase</em> is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
-[^32]: TBA
-[^33]: TBA
-[^34]: TBA
-[^35]: TBA
-[^36]: TBA
-[^37]: TBA
-[^38]: TBA
-[^39]: TBA
-[^40]: TBA
-[^41]: TBA 
+[^31]: "Konata" is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^32]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^33]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
+[^34]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
+[^35]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^36]: This scene was adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
+[^37]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
+[^38]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a "tiny" Kanata.
+[^39]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata's first name is in full hiragana (no kanji), whereas the kanji in Kanata's name (奏汰) is homophonous with 彼方 (far away).
+[^40]: Onii-chan, as in “big brother”.
+[^41]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
+[^42]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.

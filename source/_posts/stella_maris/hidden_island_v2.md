@@ -59,7 +59,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 
 ## Disclaimer
 
-<big>This story has two chapters with adjusted scenes (Hidden Island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game right now. The version below follows the story before it was adjusted.</big>
+<big>This story has two chapters with adjusted scenes (Hidden Island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game. The version below follows the story before it was adjusted.</big>
 
 <big>Click the following to jump to the chapter → Go to <a href="#Chapter-6"><b>Chapter 6</b></a> — Go to <a href="#Chapter-10"><b>Chapter 10</b></a></big>
 
@@ -249,13 +249,133 @@ But I feel as though someone is watching us—
 
 <big>Click <b><a href="/stella_maris/hidden_island#Chapter-6" target="_blank">here</a></b> to go back to the main translation.</big>
 
-<!--
-
 ## Chapter 10
 
-<big>Click <b><a href="/stella_maris/hidden_island#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
+{% img /img/es/eventstory/stellamaris/p1_10.jpg %}
 
--->
+<div class="msr-narration">
+    <p>That night, at the lodging accommodation for Ryuseitai…</p>
+</div>
+
+{% bubble Shinobu curious %}
+Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^5]
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it all originates from when he was a pirate who ran rampage across the island.
+
+He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
+
+Ani-sama is his successor\~, he’s called “The second generation of the Okinawa Oni”\~♪
+
+He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
+
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Ani-sama about it\~.
+
+He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
+
+But technically, if it were possible, we probably could have entrusted this job to Ani-sama instead of you guys~.
+
+Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+If I may interject — with the exception of Kanata, we aren’t experts in religion, either.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^6] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+{% endbubble %}
+
+{% bubble Midori frown %}
+Mm~… And likewise, we’re not really experts in rejuvenating land, either.
+
+Shouldn’t something as large-scale as that be a job for <em>fine</em> instead of us, if we’re sticking to our agency…?
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+Actually, it seems that they’re taking a move right now, too.
+
+Sengoku mentioned Himemiya earlier, so I contacted Tenshouin — Apparently, <em>fine</em> is also working on something in Okinawa at the moment.
+
+Tenshouin told me, “depending on the circumstances, we may be able to join forces with you, so feel free to rely on us if anything happens.”
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+It makes me happy to see his compassion for friendship, but… why is it that I get strangely anxious when he’s being kind…
+{% endbubble %}
+
+{% bubble Shinobu northinking %}
+Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
+
+Though, it’s more so a project to build an amusement park…[^7]
+
+However, it seems that there is no land available in the mainland to build such a park, so they are instead aiming for Hoshijima.
+{% endbubble %}
+
+{% bubble Chiaki norsmile2 %}
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^8]
+
+While building the park, they may remove all the unusable ruins, too.
+
+Although, that on its own is a pretty rare sight to see, and therefore perfectly suits being a tourist attraction.
+{% endbubble %}
+
+{% bubble Midori frown2 %}
+It’s way too dangerous to be a tourist spot… We can still see them all the way from here, and the crumbling exterior is clearly peeling off just from the strong wind.
+
+It’d be dangerous for anyone to get close… I think we’re better off having all of them demolished.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Mm… It reminds me of what I heard about Gunkanjima. For similar reasons, it had been off-limits to the public because it was too dangerous.
+
+It may be best to take the predictable path, and build an amusement park that can make an infinite amount of money.
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+Those abandoned buildings don’t seem to be old enough to carry any cultural heritage either… It looks like any regular ghost town you’d find around the world.
+{% endbubble %}
+
+{% bubble Chiaki yare %}
+Well, whatever we’ll do with those ruins depends on what sort of agreement Kanata and Nagumo reach with the islanders.
+
+They may tell us not to tamper with those buildings in any way.
+{% endbubble %}
+
+{% bubble Midori frown %}
+Oh yeah, I’m pretty curious what’s going on over there… I wonder if they’re doing okay… I hope they didn’t get dragged into some questionable ceremony by the religious people…
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+That’s just prejudiced thinking, Midori-kun~ As mentioned before, they simply believe in a different religion — they are still human beings just like us.
+
+I’m sure nothing inconceivable is happening to them at all!
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+i am back~♪
+{% endbubble %}
+
+{% bubble Chiaki %}
+Oh, as soon as we mentioned them—
+
+Welcome back, Kanata! Thanks for your hard work, and great job to Nagumo, too!
+
+How was it? What did the islanders say?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes, so. they were quite [unfriendly], but they [appeared] to be [accepting] of anything we plan to do~ or rather, they are indifferent either way.
+
+that is how little they are willing to [cooperate] with us. it seems, though, that they will not [oppose] our decisions, either.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+which is a good thing. it would have been a problem if they [forbade] all our choices after specifically [requesting] for our help.
+{% endbubble %}
+
+<big>Click <b><a href="/stella_maris/hidden_island#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
 
 ## Translation Notes
 
@@ -263,3 +383,7 @@ But I feel as though someone is watching us—
 [^2]: Okunoshima, also known as “Rabbit Island”. See more <a href="https://en.wikipedia.org/wiki/%C5%8Ckunoshima" target="_blank">here</a>.
 [^3]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^5]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^6]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
+[^7]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
+[^8]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
