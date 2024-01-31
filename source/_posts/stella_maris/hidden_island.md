@@ -827,7 +827,7 @@ I really thought we were just doing a commercial filming, though…?
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
-we will also film a [commercial], yes\~ if we are to [advertise] the [land] and let people know “it’s not scary, it’s actually fun\~”, there will be more [residents], yes?
+we will also film a [commercial], yes\~ if we [advertise] the [land] and let people know “it’s not scary, it’s actually fun\~”, there will be more [residents], yes?
 
 gathering [people] and [things] is bound to lead to the [restoration].
 {% endbubble %}
@@ -1167,7 +1167,7 @@ For that, since they’re worshippers of the tentatively named Kanata Religion, 
 {% endbubble %}
 
 {% bubble Tetora yare %}
-I’m trying to say that those worshippers don’t seem to have any money, either.
+I’m tryna say that those worshippers don’t seem to have any money, either.
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -1191,7 +1191,7 @@ And that’s another reason why we need to rejuvenate the land, correct? They’
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
-yes. even if we were to call over [tourists] to visit, no profit will be made without any [shops] set up.
+yes. even if we call over [tourists] to visit, no profit will be made without any [shops] set up.
 
 and it is not like we can live here forever, either, yes?
 
@@ -1597,7 +1597,7 @@ Minase… Not “Shinkai”?
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Ah, well, you’re like the splitting image of Shinkai-Taichou, so I figured you might be his sibling or relative.
+Ah, well, you’re like the splitting image of Shinkai-Taichou, so I was wondering if you might be his sibling or relative.
 {% endbubble %}
 
 {% bubble Kanata smile %}
@@ -1751,7 +1751,7 @@ I would appreciate it if you do not make light of us.
 {% endbubble %}
 
 {% bubble Chiaki shocked %}
-…?
+……?
 
 K-Kanata, who is this child…? Wait, don’t tell me—… Did you give birth to this kid!?
 {% endbubble %}
@@ -1969,14 +1969,14 @@ Translation in progress! 12/30 chapters
 [^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^29]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
-[^31]: "Konata" is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^31]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
 [^32]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^33]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
 [^34]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
 [^35]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
-[^36]: This scene was adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
+[^36]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
 [^37]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
-[^38]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a "tiny" Kanata.
+[^38]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a “tiny” Kanata.
 [^39]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata's first name is in full hiragana (no kanji), whereas the kanji in Kanata's name (奏汰) is homophonous with 彼方 (far away).
 [^40]: Onii-chan, as in “big brother”.
 [^41]: For young children, “-kun” is usually used for boys, and “-chan” for girls.

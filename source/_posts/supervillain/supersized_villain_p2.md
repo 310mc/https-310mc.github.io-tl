@@ -733,8 +733,8 @@ I don’t have to preach about justice or morality or whatever else I don’t ev
 Y-You disliked playing the hero of justice that much!? You could’ve told me so!
 {% endbubble %}
 
-{% bubble Midori frown2 %}
-Did it <em>look</em> like we could ever mention that?
+{% bubble Midori sighfrown %}
+Did it <em>look</em> like I could ever mention that?
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
