@@ -948,7 +948,7 @@ Honestly, there’s nothin’ ta get from involvin’ yourself with a punk like 
 {% endbubble %}
 
 {% bubble Kuro pastinjurednorsmile %}
-Haha, you were “a man”? You’ve got such a cute, boyish face[^9], I couldn’t tell.
+Haha, you were “a man”? You’ve got such a cute face, I couldn’t tell.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1486,7 +1486,7 @@ Heheh, well then, I’ll see you later… Shinkai-kun, I know I keep saying this
 {% endbubble %}
 
 {% bubble Kanata pastfrownshake %}
-hm? i am not swimming, i am just *puka puka*-ing.
+hm? i am not swimming, i am just <em>puka puka</em>-ing.
 
 if only there were other Places like this around…
 
@@ -1517,5 +1517,4 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 [^6]: The tale of <a href="https://en.wikipedia.org/wiki/Ningyo" target="_blank">Yaobikuni</a>, about a girl who ate mermaid meat, and went on to live for 800 years.
 [^7]: 押しかけ女房, lit. a woman who intrudes a man’s home to live with him, regardless of his consent. It’s likely that Chiaki is making a joke out of what he’s doing.
 [^8]: In Japanese, he refers to him as <em>megane-kun</em> (眼鏡くん).
-[^9]: The literal translation is “you have a cute face, so I couldn’t tell,” but I added “boyish” for clarity of his joke.
 [^10]: Keito was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to *kimi* to sound more friendly.

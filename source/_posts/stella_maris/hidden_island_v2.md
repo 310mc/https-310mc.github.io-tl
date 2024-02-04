@@ -1,5 +1,5 @@
 ---
-title: "Stella Maris – Hidden Island ‼️ OLD VERSION ‼️"
+title: "Stella Maris – hidden island ‼️ OLD VERSION ‼️"
 date: 2024-1-18 9:31:00
 categories:
 - [Enstars, Midori]
@@ -59,7 +59,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 
 ## Disclaimer
 
-<big>This story has two chapters with adjusted scenes (Hidden Island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game. The version below follows the story before it was adjusted.</big>
+<big>This story has two chapters with adjusted scenes (hidden island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game. The version below follows the story before it was adjusted.</big>
 
 <big>Click the following to jump to the chapter → Go to <a href="#Chapter-6"><b>Chapter 6</b></a> — Go to <a href="#Chapter-10"><b>Chapter 10</b></a></big>
 

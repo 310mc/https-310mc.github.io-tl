@@ -1353,8 +1353,8 @@ Let’s focus on the meeting for now. We’ll work out the details ‘til we fin
 
 ## Translation Notes
 [^1]: A link to <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
-[^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu's card</a>.
-[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea's Atelier</a>.
+[^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu’s card</a>.
+[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea’s Atelier</a>.
 [^4]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
 [^5]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>.
 [^6]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.

@@ -2689,9 +2689,9 @@ Dear viewers, please do enjoy our song with us. ♪
 [^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2.
 [^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
 [^3]: A <em>yakatabune</em> specifically.
-[^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it's a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
+[^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it’s a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
 [^5]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.
 [^6]: The <a href="https://en.japantravel.com/kyoto/otowa-waterfall/14020" target="_blank">Otowa waterfall</a> has three streams, and visitors can drink the water from one of the them for its benefit.
 [^7]: This is what an <a href="https://en.wikipedia.org/wiki/Ema_(Shinto)" target="_blank">ema</a> looks like.
 [^8]: This is <a href="https://www.jishujinja.or.jp/english/" target="_blank">the shrine</a> and its statue in question.
-[^9]: Makoto's referring to <a href="https://en.wikipedia.org/wiki/Fushimi_Inari-taisha" target="_blank">this</a> specific shrine.
+[^9]: Makoto’s referring to <a href="https://en.wikipedia.org/wiki/Fushimi_Inari-taisha" target="_blank">this</a> specific shrine.

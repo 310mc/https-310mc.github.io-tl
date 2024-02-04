@@ -305,7 +305,7 @@ Kya-kya! ☆ Kya-kya! ☆
 
 <div toc>
 {% btn /stella_maris,, star, Index %}
-{% btn /stella_maris/hidden_island,, arrow-right, Next Chapter: Hidden Island %}
+{% btn /stella_maris/hidden_island,, arrow-right, Next Chapter: hidden island %}
 </div>
 
 ## Translation Notes

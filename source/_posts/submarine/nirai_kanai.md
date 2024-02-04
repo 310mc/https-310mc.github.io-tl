@@ -77,7 +77,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter 3
 
 {% note narration %}
-**Chapter Translation Note:** Nirai-Kanai is Okinawan for “The paradise across the ocean” or “The paradise on the bottom of the ocean”, i.e. the land of the gods. One way to put it in Japanese is *umi no kanata*, so on top of everything else, it's also a wordplay with Kanata's name.
+**Chapter Translation Note:** Nirai-Kanai is Okinawan for “The paradise across the ocean” or “The paradise on the bottom of the ocean”, i.e. the land of the gods. One way to put it in Japanese is *umi no kanata*, so on top of everything else, it’s also a wordplay with Kanata’s name.
 {% endnote %}
 
 {% img /img/es/eventstory/submarine/p2ch3_1.jpg %}
@@ -107,7 +107,7 @@ You ruffian—!
 {% endbubble %}
 
 {% bubble Kuro %}
-Woah! Don't make any sudden big moves. And don’t cause a ruckus in the restaurant.
+Woah! Don’t make any sudden big moves. And don’t cause a ruckus in the restaurant.
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -135,7 +135,7 @@ Don’t answer him like that. Morisawa is apparently into playing ninja right no
 {% endbubble %}
 
 {% bubble Chiaki %}
-Indeed! Since I'm currently in a position similar to one, I thought I'd act the part! Plus, I hope to bond more with Sengoku by doing this, since he loves ninjas!
+Indeed! Since I’m currently in a position similar to one, I thought I’d act the part! Plus, I hope to bond more with Sengoku by doing this, since he loves ninjas!
 
 That’s why…! You may call me “Ninja-man” instead of “Morisawa Chiaki from Ryuseitai”…☆
 {% endbubble %}
@@ -151,11 +151,11 @@ Besides, what’re you even doin’ here? I heard rumors that Ryuseitai’s been
 {% endbubble %}
 
 {% bubble Chiaki %}
-Correct! That's what happens when you answer the call for help! We, Ryuseitai, will always fight for the sake of those oppressed!
+Correct! That’s what happens when you answer the call for help! We, Ryuseitai, will always fight for the sake of those oppressed!
 
-…Fortunately, ES idols are still mainly focused on gobbling up each other at the moment, and don't seem to have time to mess with local idols.
+…Fortunately, ES idols are still mainly focused on gobbling up each other at the moment, and don’t seem to have time to mess with local idols.
 
-We're taking advantage of this opportunity to run away and hide, while steadily earning SSL$ through peaceful improv live shows and the like.
+We’re taking advantage of this opportunity to run away and hide, while steadily earning SSL$ through peaceful improv live shows and the like.
 
 We’re getting pretty favorable responses with our performances, likely because the people who came to Okinawa for the shows were also starting to get tired of the endless war. It goes to show that people *do* prefer peace over war!
 {% endbubble %}
@@ -199,7 +199,7 @@ Oh, no. I was thinking that the way you spoke was just like Hasumi — Something
 {% bubble Keito %}
 Do *not* look at me like that.
 
-Wait, no — It's your choice whether you look at me or not. I won’t be ordering you to do anything, Kanzaki.
+Wait, no — It’s your choice whether you look at me or not. I won’t be ordering you to do anything, Kanzaki.
 {% endbubble %}
 
 {% bubble Souma frown %}
@@ -207,7 +207,7 @@ You are *extremely* difficult to speak to right now, Hasumi-dono.
 {% endbubble %}
 
 {% bubble Kuro %}
-Man, makes you wonder how many times a day Hasumi typically orders around Kanzaki. You guys may be comfortable with it, but from an outside perspective, it's pretty bizarre.
+Man, makes you wonder how many times a day Hasumi typically orders around Kanzaki. You guys may be comfortable with it, but from an outside perspective, it’s pretty bizarre.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -253,7 +253,7 @@ Thanks for playing with my junior, Hasumi.
 {% endbubble %}
 
 {% bubble Keito %}
-I'm not playing with him… Though I do think I should reward Sengoku sooner or later for acting as my subordinate.
+I’m not playing with him… Though I do think I should reward Sengoku sooner or later for acting as my subordinate.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -281,13 +281,13 @@ I would be able to grasp the intentions of the four major agencies and guess the
 
 But right now, how do I put it… It’s an incoherent mess. I feel as if I’m being placed in the hands of some god or other and manipulated as a convenient pawn, instead of a human being.
 
-Maybe it’s all in my head, but nonetheless, I don't trust ES as a whole. That’s why I wanted to avoid using HoldHands as much as possible, since it’s run by them.
+Maybe it’s all in my head, but nonetheless, I don’t trust ES as a whole. That’s why I wanted to avoid using HoldHands as much as possible, since it’s run by them.
 
 If they wanted to, they could look into the conversations going on in the app.
 {% endbubble %}
 
 {% bubble Chiaki %}
-That's why we’re exchanging information face to face like this.
+That’s why we’re exchanging information face to face like this.
 
 As mentioned multiple times before, I can go out on my own on a regular basis without raising any suspicions.
 {% endbubble %}
@@ -315,17 +315,17 @@ As a matter of fact, now that Hasumi-dono is no longer giving me orders, I have 
 {% endbubble %}
 
 {% bubble Kuro %}
-Thanks to that, though, we discovered Kanzaki's unexpected talent.
+Thanks to that, though, we discovered Kanzaki’s unexpected talent.
 {% endbubble %}
 
 {% bubble Chiaki sad %}
 Hmm, well… Maybe that kind of thing is more your unit’s style.
 
-…In our case, it didn't work.
+…In our case, it didn’t work.
 
-“Don't do everything for them, but keep your distance and watch over them. By doing so, we can encourage them to grow and become independent.”
+“Don’t do everything for them, but keep your distance and watch over them. By doing so, we can encourage them to grow and become independent.”
 
-That's what I wanted to do, and to some extent it worked. But before that theory and those efforts bore fruit, it all went back to the way it was.
+That’s what I wanted to do, and to some extent it worked. But before that theory and those efforts bore fruit, it all went back to the way it was.
 
 What exactly went wrong with us…? Was it bad luck, the times, or was it just—
 {% endbubble %}
@@ -353,7 +353,7 @@ Though, you have been acting and behaving indiscreetly this whole time, so it is
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-No, really, it's a pretty bad situation. It’s so bad that it doesn’t feel real — it’s hard to even talk about it with a straight face.
+No, really, it’s a pretty bad situation. It’s so bad that it doesn’t feel real — it’s hard to even talk about it with a straight face.
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -387,9 +387,9 @@ What d’ya <em>think!?</em> We have to save Shinkai-senpai!
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Um, uhhhh, <em>how</em>, exactly…? Everything’s happening so fast that I'm having a little trouble keeping up…
+Um, uhhhh, <em>how</em>, exactly…? Everything’s happening so fast that I’m having a little trouble keeping up…
 
-Isn't this basically a crime? Are we sure everything’s okay? S-Should we call the police or something…?
+Isn’t this basically a crime? Are we sure everything’s okay? S-Should we call the police or something…?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -405,7 +405,7 @@ Tetora-kun, your wording sounds like something a six year old kid would say.
 {% endbubble %}
 
 {% bubble Tetora worried %}
-Ughhh~!! I can't think straight when nothing makes sense!
+Ughhh~!! I can’t think straight when nothing makes sense!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -437,7 +437,7 @@ Nah, it’s just, it doesn’t really feel real to me somehow…
 {% endbubble %}
 
 {% bubble Shinobu serious %}
-To be honest, it isn't something to panic about when you think about it calmly.
+To be honest, it isn’t something to panic about when you think about it calmly.
 
 The local religious group, I assume…? Simply offered a meeting with Shinkai-dono, and he agreed to it. That is all there is to it, that we know of.
 
@@ -445,7 +445,7 @@ The people he is meeting are religious people, but they aren’t evil spirits of
 {% endbubble %}
 
 {% bubble Tetora frown %}
-But I'm still worried! It's a religion I've *never* heard of! They were wearing strange clothes and saying a lotta words I dunno~!
+But I’m still worried! It’s a religion I’ve *never* heard of! They were wearing strange clothes and saying a lotta words I dunno~!
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -455,7 +455,7 @@ Heheh. But we also wear hero outfits and have long conversations about tokusatsu
 {% bubble Midori %}
 Yeah, we shouldn’t be prejudiced against them… I dunno about you, Tetora-kun, but Shinobu-kun and I have been hurt before by people staring at us like we’re weirdos.
 
-I don't think it's right to disregard every single thing about someone when you don't even know anything about them…
+I don’t think it’s right to disregard every single thing about someone when you don’t even know anything about them…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -463,7 +463,7 @@ Oh, how surprising! Midori-kun’s opinion is so mature!
 {% endbubble %}
 
 {% bubble Midori %}
-Heheh, I guess that means I've grown up a bit, too…
+Heheh, I guess that means I’ve grown up a bit, too…
 
 Well, I do think something like a suspicious religion or whatever sounds creepy, though…
 {% endbubble %}
@@ -473,7 +473,7 @@ What was the point of saying all that, then!?
 {% endbubble %}
 
 {% bubble Midori %}
-Well, just ‘cause it's creepy doesn't mean it's okay to trample all over them… I think… Maybe.
+Well, just ‘cause it’s creepy doesn’t mean it’s okay to trample all over them… I think… Maybe.
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -495,9 +495,9 @@ I mean, I don’t blame us — Everything happened outta nowhere.
 {% bubble Midori %}
 No, actually, Shinkai-senpai was acting a bit suspiciously…
 
-It just wasn't as noticeable since Morisawa-senpai looked way more suspicious with all his constant disappearing every so often.
+It just wasn’t as noticeable since Morisawa-senpai looked way more suspicious with all his constant disappearing every so often.
 
-I think Shinkai-senpai was talking to those strange religious people in secret after every live show we've been doing…
+I think Shinkai-senpai was talking to those strange religious people in secret after every live show we’ve been doing…
 
 The religious people seemed to be related to the local idols we were running around with…
 
@@ -505,7 +505,7 @@ I thought they were just wearing what looked like Okinawan folk clothing… like
 {% endbubble %}
 
 {% bubble Tetora %}
-Midori-kun, you’re surprisingly attentive to your surroundings, aren't you?
+Midori-kun, you’re surprisingly attentive to your surroundings, aren’t you?
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -519,11 +519,11 @@ You didn’t need to mention it if it was going to depress you…
 {% endbubble %}
 
 {% bubble Tetora angry %}
-Anyway! There's no point in chatting about random stuff! I wanna go and save Shinkai-senpai right now, but what do you guys think?
+Anyway! There’s no point in chatting about random stuff! I wanna go and save Shinkai-senpai right now, but what do you guys think?
 {% endbubble %}
 
 {% bubble Midori %}
-I think I'd like to wait and see what’ll happen… Shinkai-senpai said something like, “be good boys and wait until I’m done talking to them”…
+I think I’d like to wait and see what’ll happen… Shinkai-senpai said something like, “be good boys and wait until I’m done talking to them”…
 
 And nothing bad has ever happened by following his instructions, soo…
 
@@ -537,7 +537,7 @@ I getcha, but… They’re just treating us like kids again and leaving us outta
 {% endbubble %}
 
 {% bubble Midori %}
-Yeah, but we snapped at them ‘cause of that, so I'd like to think that our seniors won't continue to do it over and over again…
+Yeah, but we snapped at them ‘cause of that, so I’d like to think that our seniors won’t continue to do it over and over again…
 
 But who knows… They’re just the overprotective type in general, after all…
 {% endbubble %}
@@ -561,7 +561,7 @@ He’s simply the right person to consult with for this situation, that is all. 
 {% endbubble %}
 
 {% bubble Tetora %}
-*All for one, one for all!* —right?
+*All for one, and one for all!* —right?
 
 Everything we’ve been through since spring has taken a huge toll on us, but I wanna believe that those fundamental parts of our unit haven’t changed.
 {% endbubble %}
@@ -576,7 +576,7 @@ Everything we’ve been through since spring has taken a huge toll on us, but I 
 {% bubble Kanata %}
 ……
 
-<th>(…? it is kind of noisy Out there, isn't it~?)</th>
+<th>(…? it is kind of noisy Out there, isn’t it~?)</th>
 
 <th>(you should not do that~ you cannot make a Ruckus around a Sacred place—)</th>
 
@@ -614,7 +614,7 @@ Ahh! Move at once, you scoundrels! By what authority do you stand in my way!?
 {% endbubble %}
 
 {% bubble Tetora worried %}
-W-w-w-we don't have any authority here! But the public’s not allowed beyond that point — it says so in the guidebook!
+W-w-w-we don’t have any authority here! But the public’s not allowed beyond that point — it says so in the guidebook!
 {% endbubble %}
 
 {% bubble Souma %}
@@ -622,11 +622,11 @@ Such a thing means nothing to me! As Hasumi-dono would say: if the law obstructs
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
-Isn’t that kinda insane!? Midori-kun, don't just stand there and watch — help us stop Kanzaki-senpai!
+Isn’t that kinda insane!? Midori-kun, don’t just stand there and watch — help us stop Kanzaki-senpai!
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Hell no… I’m terrified… I don't wanna get near someone waving around a real sword…
+Hell no… I’m terrified… I don’t wanna get near someone waving around a real sword…
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
@@ -646,7 +646,7 @@ If I use my karate moves here, I could at least buy us more time, if nothing els
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Um, you don't have to risk yourself over this, do you…? Just leave him be… Why do we even need to care what happens to him…?
+Um, you don’t have to risk yourself over this, do you…? Just leave him be… Why do we even need to care what happens to him…?
 {% endbubble %}
 
 {% bubble Souma %}
@@ -660,7 +660,7 @@ Ah! He *does* know my name…♪
 {% bubble Shinobu %}
 Of course! Kanzaki-dono is an upperclassman worthy of respect! He’s kindhearted to those younger than him, and he’s always looking out for us!
 
-That's exactly why I can’t just stand by and watch such a wonderful person go astray right before me!
+That’s exactly why I can’t just stand by and watch such a wonderful person go astray right before me!
 {% endbubble %}
 
 {% bubble Tetora angry %}
@@ -678,11 +678,11 @@ Ahh, enough! Begone at once! I have no time to dabble with you!
 {% endbubble %}
 
 {% bubble Tetora angry %}
-I'm goin’ nowhere! I won't budge ‘til you gimme a reason that makes sense to me!
+I’m goin’ nowhere! I won’t budge ‘til you gimme a reason that makes sense to me!
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Come on, Midori-kun! It's time for the specialty you demonstrated in MDM![^2]
+Come on, Midori-kun! It’s time for the specialty you demonstrated in MDM![^2]
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -750,7 +750,7 @@ hawa…?
 </div>
 
 {% bubble Keito %}
-*Huff, huff*…! W-We've finally made it!
+*Huff, huff…!* W-We’ve finally made it!
 
 Ugh, Kanzaki took off so suddenly that I didn’t even have time to react — And why to this remote island, anyway!? I’m glad I had him install a GPS app just in case any of us got lost, because it would be a disaster if we got separated during this trip!
 {% endbubble %}
@@ -800,7 +800,7 @@ Kiryu, let me support you by the shoulder. Good grief, you’re always so reckle
 {% endbubble %}
 
 {% bubble Kuro %}
-Whenever I'm in bad shape, Hasumi gets unbearably gentle — it creeps me out.
+Whenever I’m in bad shape, Hasumi gets unbearably gentle — it creeps me out.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -816,7 +816,7 @@ No way he doesn’t, dude… What are you, a teenager who gets embarrassed by pe
 {% endbubble %}
 
 {% bubble Keito %}
-He isn't family. I’m simply subjected to the misfortune of being stuck in an undesirable yet inseparable relationship.
+He isn’t family. I’m simply subjected to the misfortune of being stuck in an undesirable yet inseparable relationship.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -866,9 +866,9 @@ What the hell, is this some kinda religious ceremony or somethin’…?
 {% endbubble %}
 
 {% bubble Chiaki %}
-It isn’t right to conclude that something you don't know must be “related to religion”, without ever trying to deepen your understanding of it, Kiryu!
+It isn’t right to conclude that something you don’t know must be “related to religion”, without ever trying to deepen your understanding of it, Kiryu!
 
-All the religious people in the world must’ve suffered from such a lack of sympathy, you know! Don't you agree, Hasumi!?
+All the religious people in the world must’ve suffered from such a lack of sympathy, you know! Don’t you agree, Hasumi!?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -884,7 +884,7 @@ I’m sorry! I’m sorry!
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-Ah! Morisawa-dono, Hasumi-dono, and Kiryu-dono! You’ve all finally arrived! Please explain to us what's going on here~!
+Ah! Morisawa-dono, Hasumi-dono, and Kiryu-dono! You’ve all finally arrived! Please explain to us what’s going on here~!
 {% endbubble %}
 
 {% bubble Keito %}
@@ -892,7 +892,7 @@ I wouldn’t know, either. We aren’t divine beings who know everything happeni
 {% endbubble %}
 
 {% bubble Chiaki %}
-I'd rather ask you guys the same question: What’s happening here…?
+I’d rather ask you guys the same question: What’s happening here…?
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -900,7 +900,7 @@ W-We really don’t have a clue! Kanzaki-senpai appeared outta nowhere, and then
 {% endbubble %}
 
 {% bubble Kuro %}
-Calm down, Tetsu. You're a mess when you try to think in words, so take a deep breath and just move your body. It’ll work out better for you that way.
+Calm down, Tetsu. You’re a mess when you try to think in words, so take a deep breath and just move your body. It’ll work out better for you that way.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -922,7 +922,7 @@ You’re not wrong, but I’m shocked that you’d word it that way, Tetora-kun�
 {% endbubble %}
 
 {% bubble Tetora worried %}
-N-No one is saying anything bad about you, Midori-kun! If anything, *I'm* the idiot!
+N-No one is saying anything bad about you, Midori-kun! If anything, *I’m* the idiot!
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -988,7 +988,7 @@ gosh… this is all because chiaki always talks about Dumb stuff. you should lea
 {% bubble Chiaki awkward %}
 Ah, um, okay. I guess the blame is once again on me for this too, huh.
 
-But this is something to do with you personally, so I can't just go around spreading stories about it on my own, can I?
+But this is something to do with you personally, so I can’t just go around spreading stories about it on my own, can I?
 {% endbubble %}
 
 {% bubble Kanata frownshake %}
@@ -1000,13 +1000,13 @@ W-We wouldn’t hate you, I promise!
 {% endbubble %}
 
 {% bubble Midori serious %}
-Yeah… Morisawa-senpai sometimes makes me wanna hit him for legit reasons, and I don't think it would emotionally hurt me if I did, but…
+Yeah… Morisawa-senpai sometimes makes me wanna hit him for legit reasons, and I don’t think it would emotionally hurt me if I did, but…
 
 I feel like if I ever did something that makes Shinkai-senpai sad, I’d probably regret it for the rest of my life…
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-Don't you think the difference in treatment is just awful, Akatsuki?
+Don’t you think the difference in treatment is just awful, Akatsuki?
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -1226,11 +1226,11 @@ In the end, we have to grit our teeth through unreasonable circumstances, knowin
 {% endbubble %}
 
 {% bubble Tetora frown %}
-That’s not something *you* should be saying, and it kinda peeves me hearing it from you… It feels like you're just lecturing a spoiled kid who doesn't listen.
+That’s not something *you* should be saying, and it kinda peeves me hearing it from you… It feels like you’re just lecturing a spoiled kid who doesn’t listen.
 
 But at the same time… you’ve got a point. The worst thing you can do is to give up. Not everything’s gonna turn out the way you want it to, so you have to persevere, overcome, and move on.
 
-It's tricky to do so right away, but that's also what I wanna do. Ossu!
+It’s tricky to do so right away, but that’s also what I wanna do. Ossu!
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -1246,13 +1246,13 @@ You guys…☆
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
-Gaaah!? Please don't hug me outta nowhere!
+Gaaah!? Please don’t hug me outta nowhere!
 
 Just to let you know, nothing’s been resolved, ‘kay!? I just said something nice to brighten up the mood!
 {% endbubble %}
 
 {% bubble Chiaki smilesoft2 %}
-Heheh. Still, let's start from there.
+Heheh. Still, let’s start from there.
 
 We, Ryuseitai, will fight against the evil that is unreason.
 
@@ -1272,7 +1272,7 @@ I don’t think it was caused by you, though. There seems to have been some sort
 
 For some reason, I was given incorrect information that Kanata had been enshrined as a god by a local Okinawan religious group.
 
-That misinformation was conveyed to everyone in Akatsuki from me, and so Kanzaki-kun acted rashly to hurry and confirm the truth — that's how we got here.
+That misinformation was conveyed to everyone in Akatsuki from me, and so Kanzaki-kun acted rashly to hurry and confirm the truth — that’s how we got here.
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -1398,7 +1398,7 @@ i can’t help but think he is just so, so, soooooo adorable…♪
 {% endbubble %}
 
 {% bubble Tetora %}
-Hmm… It’s always hard to understand Shinkai-senpai whenever he speaks in long sentences, ‘cuz it's hard to pick up what he’s saying…
+Hmm… It’s always hard to understand Shinkai-senpai whenever he speaks in long sentences, ‘cuz it’s hard to pick up what he’s saying…
 
 But in short, the incident today was just an unfortunate mishap, yeah? Kanzaki-senpai believed in the weird info he was given, and went a li’l nuts.
 {% endbubble %}
@@ -1450,7 +1450,7 @@ That’s *exactly* what I’m talking about.
 {% bubble Chiaki srsthinking %}
 Hmm… It seems that misinformation led to a series of misunderstandings and miscommunications, resulting in a strange accident…
 
-If that were all it is, we could just brush it off as a silly mistake, but something doesn't feel right. For one thing, why did the message that Sengoku sent me contain such misleading information?
+If that were all it is, we could just brush it off as a silly mistake, but something doesn’t feel right. For one thing, why did the message that Sengoku sent me contain such misleading information?
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -1480,7 +1480,7 @@ Only ES is able to do that, as they’re the ones in charge of supplying the pho
 
 On top of that, the rewritten content was precisely the kind of thing that would cause Kanzaki-kun to act recklessly.
 
-In other words… It's possible that someone in the upper management of ES, who knows us well and can even interfere with messages in HoldHands, attacked us with malicious intent.
+In other words… It’s possible that someone in the upper management of ES, who knows us well and can even interfere with messages in HoldHands, attacked us with malicious intent.
 {% endbubble %}
 
 {% bubble Kanata curious %}
@@ -1512,13 +1512,13 @@ We are idols affiliated with ES. If that ES has bared its fangs toward us with m
 {% bubble Chiaki %}
 —Mhm. Yeah, that’s why everything will be alright, Mikejima-san. It was all just an accident caused by an unfortunate misunderstanding.
 
-I’m still concerned about where the misinformation came from, but we're taking the proper precautions.
+I’m still concerned about where the misinformation came from, but we’re taking the proper precautions.
 
-Yep, I borrowed a phone from a local who should be out of ES's reach.
+Yep, I borrowed a phone from a local who should be out of ES’s reach.
 
 I’m also using a secure line to make the call with your mother’s help. I doubt even a powerhouse such as ES could interfere through this many safety measures.
 
-They might be able to listen in, but they can't alter the audio. I hope so, at least. Your mother said something similar, too.
+They might be able to listen in, but they can’t alter the audio. I hope so, at least. Your mother said something similar, too.
 
 Huh? Why do I know your mother’s contact information? Oh! I was simply approached by her a long while back, when I was browsing around in a bookstore.
 
@@ -1584,13 +1584,13 @@ Haha, some things are harder to say in person. Cut us some slack, will ya?
 {% bubble Chiaki %}
 That’s so complicated… But I guess that’s just how guys are…
 
-Anyway, it’s true that it’s a bad look for me to be on the phone while working. I've told you everything you need to know, so let's end the call here.
+Anyway, it’s true that it’s a bad look for me to be on the phone while working. I’ve told you everything you need to know, so let’s end the call here.
 
 Mhm, mhm… I don’t know where you are nor what you’re doing right now, but I wish you the best of luck. We’re always cheering for you!
 
-Yeah, we'll also do our best in our silly little “Ryuseitai VS Akatsuki” fishing showdown~♪
+Yeah, we’ll also do our best in our silly little “Ryuseitai VS Akatsuki” fishing showdown~♪
 
-Huh? “Why’re you guys partaking in a dumb showdown like that”? I think it's nice and peaceful, though!
+Huh? “Why’re you guys partaking in a dumb showdown like that”? I think it’s nice and peaceful, though!
 
 And that means — we ended up with this decision *because* everyone preferred peace over war.
 {% endbubble %}
@@ -1620,11 +1620,11 @@ Um, all I feel is fear watching a blade slice stuff apart this up-close… I env
 {% endbubble %}
 
 {% bubble Keito %}
-What's the matter, Takamine? You don’t look well. Are you seasick like Kiryu?
+What’s the matter, Takamine? You don’t look well. Are you seasick like Kiryu?
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Huh? Ahh, no, um, I'm always like this, though…?
+Huh? Ahh, no, um, I’m always like this, though…?
 {% endbubble %}
 
 {% bubble Keito %}
@@ -1656,7 +1656,7 @@ even so, i have been with All of you for a looong time, so i can at least percei
 {% bubble Midori sigh %}
 Um, okay… I still dunno anything about you though, Shinkai-senpai…
 
-I don't even know why us Ryuseitai and the members of Akatsuki have decided to compete through fishing…
+I don’t even know why us Ryuseitai and the members of Akatsuki have decided to compete through fishing…
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -1756,7 +1756,7 @@ yes. at the very least, i will let you Know that i am fulfilling my Order so far
 {% endbubble %}
 
 {% bubble Keito %}
-I'm not particularly worried. When it comes down to it, you’re simply another unit among many, and in SS, we’re rivals competing for the top spot.
+I’m not particularly worried. When it comes down to it, you’re simply another unit among many, and in SS, we’re rivals competing for the top spot.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1794,7 +1794,7 @@ We were supposed to continuously prey on other *units* through *live* battles.
 {% bubble Keito %}
 Yeah, and for every victory, we can loot all the SSL$ that belonged to our opponents.
 
-I don't know how it is in other areas, but that’s the rule here in Okinawa.
+I don’t know how it is in other areas, but that’s the rule here in Okinawa.
 {% endbubble %}
 
 {% bubble Kanata worried %}
@@ -1824,7 +1824,7 @@ But thankfully, the losers of the live battle don’t lose their qualification t
 {% endbubble %}
 
 {% bubble Souma v3 %}
-However, it is still a long, rigorous road. I cannot speak for the energetic and hopelessly optimistic adolescents, but our agency's veterans do not have the fighting spirit.
+However, it is still a long, rigorous road. I cannot speak for the energetic and hopelessly optimistic adolescents, but our agency’s veterans do not have the fighting spirit.
 
 That is precisely why everyone was hastily repeatedly performing *live* battles.
 
@@ -1844,11 +1844,11 @@ Also, because there was the possibility that Eichi would die if it dragged on fo
 {% bubble Kanata smile %}
 please do not mention Old stories of the War days at every opportunity you get. they are Stories that do not make anyone Happy.
 
-instead of lamenting about the Past, let's think about the Future. after all, we can make That shine with our Efforts.
+instead of lamenting about the Past, let’s think about the Future. after all, we can make That shine with our Efforts.
 {% endbubble %}
 
 {% bubble Keito %}
-I suppose we see things with a different perspective, then. If we don't learn from the past and its history, we’re doomed to repeat the same tragedy.
+I suppose we see things with a different perspective, then. If we don’t learn from the past and its history, we’re doomed to repeat the same tragedy.
 {% endbubble %}
 
 {% bubble Kanata smile %}

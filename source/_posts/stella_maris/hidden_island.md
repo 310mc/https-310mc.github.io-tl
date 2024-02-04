@@ -1,5 +1,5 @@
 ---
-title: "Stella Maris – Hidden Island"
+title: "Stella Maris – hidden island"
 date: 2024-1-28 9:31:00
 categories:
 - [Enstars, Midori]
@@ -63,10 +63,14 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 <div toc>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/TBA,, arrow-right, Next Chapter: TBA %}-->
+{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
 </div>
 
 ## Chapter 1
+
+{% note narration %}
+**Chapter TL Note:** The chapter title “hidden island” is written in hiragana only, so I've written the title in lowercase letters, similar to how Kanata's speech quirk (speaks in hiragana only) is written in my translations.
+{% endnote %}
 
 <div class="msr-location">
     <p><span><b>Location:</b> Vocal Room (ES Building)</span></p>
@@ -173,7 +177,7 @@ I think it’s pretty freaking bad.
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Ah— Shinobu-kun, you thought so, too? I felt the same way, but I just couldn’t get myself to say anything about it when Shinkai-senpai looked <em>so</em> happy…!
+Ah— Shinobu-kun, you thought so, too? I felt the same way, but I just couldn’t get myself to say anything about it when Shinkai-senpai looked like he was having <em>so</em> much fun…!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -1934,7 +1938,7 @@ Translation in progress! 12/30 chapters
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/TBA,, arrow-right, Next Chapter: TBA %}-->
+{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
 </div>
 
 ## Translation Notes

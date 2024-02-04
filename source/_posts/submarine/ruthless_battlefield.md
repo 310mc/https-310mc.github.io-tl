@@ -266,7 +266,7 @@ Your soul is so pure, Shinobu-kun… I hope you stay that way forever…
 {% endbubble %}
 
 {% bubble Tetora %}
-Ossu, he sure is. Shinobu-kun really holds Ryuseitai’s moral values, and he's the hope of ES.
+Ossu, he sure is. Shinobu-kun really holds Ryuseitai’s moral values, and he’s the hope of ES.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -512,7 +512,7 @@ Although, Ryuseitai is predominantly more soft-hearted compared to Akatsuki — 
 {% bubble Tetora %}
 Mm~ Thing is, Yumenosaki was like that too, so we <em>are</em> familiar with it.
 
-But Morisaw—<em>Taichou</em> doesn't like seeing people crush each other, so he wants to put an end to those conflicts.
+But Morisaw—<em>Taichou</em> doesn’t like seeing people crush each other, so he wants to put an end to those conflicts.
 
 He’s the current leader of Ryuseitai, so we’ve been basically running around with him and telling everyone to stop fighting.
 {% endbubble %}
@@ -644,9 +644,9 @@ It’s mostly just tourists and not much of anyone else…
 {% endbubble %}
 
 {% bubble Tetora %}
-It’s like, they’re here to cheer for the qualifying rounds, but also go sightseeing while they’re at it. I guess the locals wouldn't say no to more tourists in the area, but, man…
+It’s like, they’re here to cheer for the qualifying rounds, but also go sightseeing while they’re at it. I guess the locals wouldn’t say no to more tourists in the area, but, man…
 
-Being surrounded in every corner and having my pictures taken by ‘em makes me feel like I'm some kinda exotic Okinawan animal.
+Being surrounded in every corner and having my pictures taken by ‘em makes me feel like I’m some kinda exotic Okinawan animal.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -666,13 +666,13 @@ According to the information we’ve received, Okinawa is a ruthless battlefield
 {% bubble Shinobu %}
 I’m not sure how credible that information is, though. It’s merely information we received beforehand from ES through HoldHands.
 
-We won't know how true that really is until we properly confirm it with our own two eyes.
+We won’t know how true that really is until we properly confirm it with our own two eyes.
 
 For now, it appears to me that ES is trying to manipulate us by deliberately twisting the information they provide us.
 {% endbubble %}
 
 {% bubble Keito %}
-Huh, I suppose I should have expected as much insight from Nito's assistant. So you know a thing or two on how to utilize information?
+Huh, I suppose I should have expected as much insight from Nito’s assistant. So you know a thing or two on how to utilize information?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -684,7 +684,7 @@ I’ve been wondering this for a long while now, but is the Broadcasting Committ
 {% endbubble %}
 
 {% bubble Tetora %}
-Anyway, what we're tryna say is that we don't wanna participate in fighting and crushing each other.
+Anyway, what we’re tryna say is that we don’t wanna participate in fighting and crushing each other.
 
 Okinawa is completely at war. We wanna put an end to it as soon as possible so that we can do our idol activities properly.
 
@@ -704,7 +704,7 @@ Ah, you guys wouldn’t know, would you? Well, it *was* from before your time.
 
 That having been said, the scale of the battle, the people involved, and everything else — all of it is much different from the Battle versus the Sea God[^3], and neither do I think another miracle could come about like it did then.
 
-And we aren’t so wishy-washy as to wait idly, hoping for a miracle to happen. We're going to intervene in the war circulating in this region, and win every battle until we come out victorious in the qualifying rounds.
+And we aren’t so wishy-washy as to wait idly, hoping for a miracle to happen. We’re going to intervene in the war circulating in this region, and win every battle until we come out victorious in the qualifying rounds.
 {% endbubble %}
 
 {% bubble Kanata serious %}

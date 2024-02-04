@@ -85,7 +85,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 {% endbubble %}
 
 {% bubble Chiaki %}
-“Fuhahaha! Thanks for coming to see our Ryuseitai and Akatsuki live show today! We're extremely happy to see you all…☆”
+“Fuhahaha! Thanks for coming to see our Ryuseitai and Akatsuki live show today! We’re extremely happy to see you all…☆”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -99,7 +99,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 {% endbubble %}
 
 {% bubble Midori %}
-Yeah… This is the exact opposite of what they said we’d do… Also, I can’t tell if “mensooore” is being used correctly; I can't trust anything Morisawa-senpai says—
+Yeah… This is the exact opposite of what they said we’d do… Also, I can’t tell if “mensooore” is being used correctly; I can’t trust anything Morisawa-senpai says—
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -111,7 +111,7 @@ I’m not a ninja…
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha. Why's all this talk taking me back to the old days? Shinobu-kun speaking normally ‘cuz of his order sounds so weird, though.
+Ahaha. Why’s all this talk taking me back to the old days? Shinobu-kun speaking normally ‘cuz of his order sounds so weird, though.
 
 Anyways, apparently it’s fine ‘cuz it’s a joint live performance, and not a live battle.
 
@@ -131,7 +131,7 @@ so i suppose it is Understandable to lose Trust in us.
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Eep—! Please don't jump into the conversation out of nowhere, Senpai!
+Eep—! Please don’t jump into the conversation out of nowhere, Senpai!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -185,7 +185,7 @@ Does that mean I usually look like a bumbling idiot!?
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
-Whaa…!? Don't take what I say in the wrong way! Why do you guys keep doing that these days!?
+Whaa…!? Don’t take what I say in the wrong way! Why do you guys keep doing that these days!?
 {% endbubble %}
 
 {% bubble Kanata frownshake %}
@@ -195,7 +195,7 @@ but it cannot be helped. after all, this is likely to be a Rebellious phase that
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-It really annoys me when I get told that I'm going through a rebellious phase, ‘cuz it makes me feel like I’m being treated like a kid…
+It really annoys me when I get told that I’m going through a rebellious phase, ‘cuz it makes me feel like I’m being treated like a kid…
 
 But the very fact I feel that way is a sign that it *is* that, isn’t it?
 {% endbubble %}
@@ -205,7 +205,7 @@ But the very fact I feel that way is a sign that it *is* that, isn’t it?
 {% bubble Midori %}
 Yeah… But please don’t worry, we don’t plan on going against ES’s orders on top of that…
 
-Just ‘cause I can’t stand the higher-ups doesn’t mean I'm gonna disobey them and risk getting told something stupid again, like to revert Ryuseitai back to its original shape…
+Just ‘cause I can’t stand the higher-ups doesn’t mean I’m gonna disobey them and risk getting told something stupid again, like to revert Ryuseitai back to its original shape…
 
 Besides, my order was super simple — I just had to avoid touching *that* thing I love during the qualifying rounds…
 
@@ -243,7 +243,7 @@ I’d rather not be called by something that sounds like it came from a dictiona
 {% bubble Midori %}
 Yeah, I get you… Whenever we have a sleepover, Tetora-kun always works out at every opportunity, and it’s really overbearing…
 
-That's why I thought for sure his order was “no working out”.
+That’s why I thought for sure his order was “no working out”.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -263,7 +263,7 @@ We’re all pretty sensitive people… The only ones in our unit who’re broad-
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Ohh, you included me in the “sensitive” category, too!? I'm so glad to know that you understand me, Takamine!
+Ohh, you included me in the “sensitive” category, too!? I’m so glad to know that you understand me, Takamine!
 {% endbubble %}
 
 {% bubble Midori sideeye %}
@@ -303,7 +303,7 @@ If they take any longer, we’ll end up stealing the limelight!
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-“Awawa, your microphone is on, Tetora-kun! We’ll get flamed online again if you throw careless remarks like that! Don't get involved with Morisawa-senpai! Just keep your eyes only on me!”[^2]
+“Awawa, your microphone is on, Tetora-kun! We’ll get flamed online again if you throw careless remarks like that! Don’t get involved with Morisawa-senpai! Just keep your eyes only on me!”[^2]
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -335,7 +335,7 @@ If they take any longer, we’ll end up stealing the limelight!
 
 <th>(…I want to do the same — Let’s start from there.)</th>
 
-<th>(We aren’t back to square one, and we haven't lost anything, either… We’ll go back to our baseline, and build up from scratch.)</th>
+<th>(We aren’t back to square one, and we haven’t lost anything, either… We’ll go back to our baseline, and build up from scratch.)</th>
 
 <th>(I’m good at that sort of thing, and I already know that everyone in Ryuseitai will work hard alongside me.)</th>
 {% endbubble %}

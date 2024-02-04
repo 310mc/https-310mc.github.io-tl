@@ -120,6 +120,12 @@
 [character="Midori"][sightired] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sightired.png");
 }
+[character="Midori"][sleep] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sleep.png");
+}
+[character="Midori"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_sleepsmile.png");
+}
 [character="Midori"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_smile.png");
 }
@@ -158,6 +164,9 @@
 }
 [character="Midori"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_yare.png");
+}
+[character="Midori"][yawn] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_yawn.png");
 }
 
 
@@ -294,14 +303,20 @@
 [character="Chiaki"][sightired] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sightired.png");
 }
+[character="Chiaki"][sleep] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sleep.png");
+}
+[character="Chiaki"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sleepsmile.png");
+}
 [character="Chiaki"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smile.png");
 }
-[character="Chiaki"][smileexplain] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smileexplain.png");
-}
 [character="Chiaki"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smileconfident.png");
+}
+[character="Chiaki"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smileexplain.png");
 }
 [character="Chiaki"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_smilesoft.png");
@@ -330,6 +345,8 @@
 [character="Chiaki"][yawn] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_yawn.png");
 }
+
+
 [character="Chiaki"][v2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki2.png");
 }
@@ -524,11 +541,20 @@
 [character="Kanata"][sighdrop] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sighdrop.png");
 }
+[character="Kanata"][sleep] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sleep.png");
+}
+[character="Kanata"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sleepsmile.png");
+}
 [character="Kanata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smile.png");
 }
 [character="Kanata"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smileconfident.png");
+}
+[character="Kanata"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smileexplain.png");
 }
 [character="Kanata"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smilesoft.png");
@@ -550,6 +576,9 @@
 }
 [character="Kanata"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_yare.png");
+}
+[character="Kanata"][yawn] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_yawn.png");
 }
 
 
@@ -614,17 +643,17 @@
 [character="Kanata"][kidsighdrop] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsighdrop.png");
 }
-[character="Kanata"][kidsleeping] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleeping.png");
+[character="Kanata"][kidsleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleepsmile.png");
 }
 [character="Kanata"][kidsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile.png");
 }
-[character="Kanata"][kidsmileexplain] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
-}
 [character="Kanata"][kidsmileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileconfident.png");
+}
+[character="Kanata"][kidsmileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
 }
 [character="Kanata"][kidsmilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmilesoft.png");
@@ -645,12 +674,6 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidyare.png");
 }
 
-
-[character="Kanata"][csbcg] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_csbcg.png");
-}
-
-
 [character="Kanata"][past] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast.png");
 }
@@ -664,6 +687,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast_smile.png");
 }
 
+
+[character="Kanata"][csbcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_csbcg.png");
+}
 
 [character="Kanata"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast_cg.png");
@@ -764,11 +791,20 @@
 [character="Shinobu"][sightired] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_sightired.png");
 }
+[character="Shinobu"][sleep] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_sleep.png");
+}
+[character="Shinobu"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_sleepsmile.png");
+}
 [character="Shinobu"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_smile.png");
 }
 [character="Shinobu"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_smileconfident.png");
+}
+[character="Shinobu"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_smileexplain.png");
 }
 [character="Shinobu"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_smilesoft.png");
@@ -793,6 +829,12 @@
 }
 [character="Shinobu"][worried] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_worried.png");
+}
+[character="Shinobu"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_yare.png");
+}
+[character="Shinobu"][yawn] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_yawn.png");
 }
 
 
@@ -922,14 +964,20 @@
 [character="Tetora"][sleep] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sleep.png");
 }
+[character="Tetora"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sleepsmile.png");
+}
+[character="Tetora"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_sleepsmile.png");
+}
 [character="Tetora"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smile.png");
 }
-[character="Tetora"][smileexplain] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smileexplain.png");
-}
 [character="Tetora"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smileconfident.png");
+}
+[character="Tetora"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smileexplain.png");
 }
 [character="Tetora"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_smilesoft.png");
@@ -957,6 +1005,9 @@
 }
 [character="Tetora"][yare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_yare.png");
+}
+[character="Tetora"][yawn] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_yawn.png");
 }
 
 
@@ -1004,7 +1055,6 @@
   --hue: 237.93;
   --name: "Mizusaba";
   --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mizusabatest.png")
-
 }
 
 [character=UnKonata]{
@@ -1088,17 +1138,17 @@
 [character="Konata"][sighdrop] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsighdrop.png");
 }
-[character="Konata"][sleeping] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleeping.png");
+[character="Konata"][sleepsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsleepsmile.png");
 }
 [character="Konata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmile.png");
 }
-[character="Konata"][smileexplain] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
-}
 [character="Konata"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileconfident.png");
+}
+[character="Konata"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmileexplain.png");
 }
 [character="Konata"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidsmilesoft.png");

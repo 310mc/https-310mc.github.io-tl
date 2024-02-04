@@ -577,7 +577,7 @@ Are you messing around here, Morisawa-senpai!? Yelling like that is a disservice
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Sorry, I just tried to say it in an energetic way — I didn't mean to look as though I’m messing around…
+Sorry, I just tried to say it in an energetic way — I didn’t mean to look as though I’m messing around…
 {% endbubble %}
 
 {% bubble Shinobu awkward %}

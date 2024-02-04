@@ -215,7 +215,7 @@ Huh…?
 {% endbubble %}
 
 {% bubble Kuro %}
-Y’see, it’s a li’l hard to talk about this in front of Tetsu. He admires my masculinity, so it’ll hit me hard if he thinks I'm an obsessive or even overly affectionate big brother.
+Y’see, it’s a li’l hard to talk about this in front of Tetsu. He admires my masculinity, so it’ll hit me hard if he thinks I’m an obsessive or even overly affectionate big brother.
 
 …I think you saw her last time, but I have a li’l sis, y’see. She told me that there’s a certain mascot that’s been popular around her school lately.
 

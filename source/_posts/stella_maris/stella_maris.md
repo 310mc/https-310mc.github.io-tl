@@ -225,7 +225,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Hidden Island 3
+                                    hidden island 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -233,7 +233,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/chiakiorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Birthplace of Stars 7
+                                    birthplace of stars 7
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -241,7 +241,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/kanataorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Birthplace of Stars 10
+                                    birthplace of stars 10
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -249,7 +249,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/tetorabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Birthplace of Stars 12
+                                    birthplace of stars 12
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -257,7 +257,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/chiakibcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Birthplace of Stars 14
+                                    birthplace of stars 14
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -265,7 +265,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="/img/es/eventstory/stellamaris/kanatabcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Birthplace of Stars 15
+                                    birthplace of stars 15
                                 </div>
                             </div>
                         </div>
@@ -468,10 +468,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="hidden_island" id="none">Hidden Island</a>
+                            <a href="hidden_island" id="none">hidden island</a>
                         </li>
                         <li>
-                            <a href="" id="none">Birthplace of Stars</a>
+                            <a href="" id="none">birthplace of stars</a>
                         </li>
                         <li>
                             <a href="" id="none">Epilogue</a>

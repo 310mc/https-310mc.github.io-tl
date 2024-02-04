@@ -1,5 +1,5 @@
 ---
-title: "Stella Maris – TBA"
+title: "Stella Maris – birthplace of stars"
 date: 2024-1-15 9:01:00
 categories:
 - [Enstars, Midori]
@@ -62,12 +62,16 @@ hidden: true
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
-{% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: Hidden Island %}
+{% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: hidden island %}
 {% btn /stella_maris,, star, Index %}
 {% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Chapter 1
+
+{% note narration %}
+**Chapter TL Note:** The chapter title “birthplace of stars” is written in hiragana only, so I've written the title in lowercase letters, similar to how Kanata's speech quirk (speaks in hiragana only) is written in my translations.
+{% endnote %}
 
 {% img /img/es/eventstory/stellamaris/p2_1.jpg %}
 
@@ -77,7 +81,7 @@ hidden: true
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: Hidden Island %}
+{% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: hidden island %}
 {% btn /stella_maris,, star, Index %}
 {% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>

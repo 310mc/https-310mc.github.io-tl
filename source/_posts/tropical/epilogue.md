@@ -458,4 +458,4 @@ After all, *I’m* the one and only commander of Yuruseitai.
 ## Translation Notes
 
 [^1]: Uchiwa fans look like <a href="https://simple.wikipedia.org/wiki/Uchiwa" target="_blank">this</a>.
-[^2]: It's possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee's. You can read more about Kanatee in Kanata's Idol Story 1 and 2.
+[^2]: It’s possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee’s. You can read more about Kanatee in Kanata’s Idol Story 1 and 2.

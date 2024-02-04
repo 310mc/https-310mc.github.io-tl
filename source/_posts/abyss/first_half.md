@@ -425,7 +425,7 @@ Actually, he is the very definition of mystery to me, be it now or long ago…
 
 {% img /img/es/scoutstory/abyss/2_2.jpg %}
 
-{% bubble Kanata kidsleeping %}
+{% bubble Kanata kidsleepsmile %}
 zz, zz…♪
 {% endbubble %}
 

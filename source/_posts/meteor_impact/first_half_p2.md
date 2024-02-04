@@ -87,7 +87,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% bubble Chiaki mgn %}
 <th>(I don’t believe it!)</th>
 
-<th>(It’s like I’m in a dream! Everything’s suddenly heading in a better direction…! … is how it feels. But this isn’t a dream, right? It isn’t some joke, right…? This is completely real, right!?)</th>
+<th>(It’s like I’m in a dream! Everything’s suddenly heading in a better direction…! …is how it feels. But this isn’t a dream, right? It isn’t some joke, right…? This is completely real, right!?)</th>
 
 <th>(Mhm! It hurts when I pinch my cheek! So this is real~!! He he he…♪)</th>
 
@@ -1648,5 +1648,5 @@ I mean… You get what I’m saying, right? He’s a human being, after all.
 [^11]: Some people have a concern that exercise can stump their physical growth, or even make them shorter.
 [^12]: A transformation belt is what a tokusatsu hero (usually a Kamen Rider) uses to transform.
 [^13]: Like the previous chapter Keito was in, he was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to <em>kimi</em> to sound more friendly in his next line. It’s a little difficult to show the difference between the two “you”s in English, so in this chapter, I’ve added an asterisk after every line he uses (or was about to use) <em>kisama</em> in.
-[^14]: To clarify, the JoJo-like reference is purely coincidental; it just fit the tone Madara was going for.
+[^14]: To clarify, the JoJo-like reference is purely coincidental and not in the original text; it just fit the tone Madara was going for.
 [^15]: The word used for “myths” is <em>shinpi</em> 神秘, the same word in Ryusei Blue’s catchphrase: <em>The blue flame is the mark of mystery (shinpi).</em> Its literal meaning is “unfathomable mystery.” Also, as an important side note… the first kanji means “God”.
