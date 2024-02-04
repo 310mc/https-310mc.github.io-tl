@@ -307,9 +307,7 @@ The project isn’t going well? That can’t be true, can it? I mean, you’ve b
 
 {% bubble Eichi frown %}
 Anyone can do this much, you know. All you have to do is buy the land and hire construction workers.
-{% endbubble %}
 
-{% bubble Eichi serious %}
 However, our final objective is to take control over Hoshijima — the land that was once confined away from the idol industry for a long time.
 {% endbubble %}
 
@@ -329,7 +327,7 @@ Mm… Anyway, Eichi-sama’s kinda expressing it in poor taste as always, but ba
 Mm? Mmm…? It’s hard to understand what you’re saying when you use such complicated words…?
 {% endbubble %}
 
-{% bubble Eichi norsmile %}
+{% bubble Eichi %}
 Ah, you see, Tori sometimes talks about difficult topics he hears from me without properly digesting it first. Although, it’s adorably charming in its own right, like a child imitating how his parent talks.
 {% endbubble %}
 
@@ -507,7 +505,7 @@ Or are you just here to eat now that it’s lunchtime?
 Then I’ll cook you the best meal yet~. Truth be told, I’m usually working here as a chef—
 {% endbubble %}
 
-{% bubble Chiaki smileconfident %}
+{% bubble Chiaki %}
 Ahh, we would love that. We need to first nourish ourselves and get our blood pumping in our heads.
 {% endbubble %}
 
@@ -572,7 +570,7 @@ He’d listen with so much interest\~, so that might’ve made him get attached 
 {% endbubble %}
 
 {% bubble Kanata nod %}
-hm, hm. so, similar to what [mikejima] was to me in the past?[^5] it is hard <em>not</em> to [love] someone like that, yes?
+hm, hm. so, similar to what [mikejima] was to me in the past? it is hard <em>not</em> to [love] someone like that, yes?[^5]
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -587,9 +585,7 @@ Mhm? Mhm… Well, I already intend to do that~?
 
 {% bubble Konata glare %}
 Please don’t spout unnecessary things to him, Kanata-sama.
-{% endbubble %}
 
-{% bubble Konata %}
 There is no need to pay any attention to what this person is saying, okay, Mizusaba-san?
 {% endbubble %}
 
@@ -665,7 +661,7 @@ This case can be assumed to be an outrageous act that overturns previous convent
 For example, there’s also the possibility that a devotee of that so-called God sabotaged their work out of anger, thinking “how dare you all defy God’s wishes!”
 {% endbubble %}
 
-{% bubble Shinobu serious %}
+{% bubble Shinobu idle %}
 So there is even the possibility that a saboteur…? of some sort? blended in with the group of workers. I see…
 {% endbubble %}
 
@@ -887,7 +883,7 @@ in my [area], they [look down] on those people for their [heresy], but…
 who could really say which are the [true worshippers] between the two?
 {% endbubble %}
 
-{% bubble Midori v3 %}
+{% bubble Midori idle %}
 I don’t really know much about religion, but… From Konata-kun’s standpoint, I’m guessing he’d wanna stop living a lifestyle so heavily absorbed by religion?
 {% endbubble %}
 
@@ -903,7 +899,7 @@ Don’t call me by “-sama”… Master Artist calls me by that too, but I’m 
 However, I ought to show respect to my elders.
 {% endbubble %}
 
-{% bubble Chiaki nod %}
+{% bubble Chiaki grin2 %}
 How admirable! Takamine, you should learn from him! I want you to show me more respect!
 {% endbubble %}
 
@@ -911,7 +907,7 @@ How admirable! Takamine, you should learn from him! I want you to show me more r
 When have you <em>ever</em> done something respectable, huh?
 {% endbubble %}
 
-{% bubble Midori serious %}
+{% bubble Midori idle %}
 ……Anyway, um, I don’t really understand complicated topics, but…
 
 I was just thinking that if I were in Konata-kun’s shoes, I feel like I’d hate that sorta lifestyle…
@@ -1169,4 +1165,4 @@ Translation in progress! 18/30 chapters
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
 [^4]: The time-point Eichi is referring to is March, as that's the last month of a year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translaton.
 [^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, a story about Kanata's childhood.
-[^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor.
+[^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
