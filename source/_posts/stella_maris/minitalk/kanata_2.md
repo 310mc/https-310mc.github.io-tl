@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Kanata Mini Talk: secrets to [leadership]"
-date: 2024/1/19 9:09:00
+date: 2024/1/16 9:09:00
 categories:
 - [Enstars, Kanata]
 tags:

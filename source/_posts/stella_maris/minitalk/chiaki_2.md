@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Chiaki Mini Talk: Returning From Work"
-date: 2024/1/25 9:05:00
+date: 2024/1/16 9:05:00
 categories:
 - [Enstars, Chiaki]
 tags:

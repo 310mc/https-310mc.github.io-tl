@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Shinobu Mini Talk: An Energizing Time"
-date: 2024/1/25 9:00:00
+date: 2024/1/16 9:00:00
 categories:
 - [Enstars, Shinobu]
 tags:

@@ -63,7 +63,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 <div toc>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}-->
+{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
 </div>
 
 ## Chapter 1
@@ -1934,7 +1934,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}-->
+{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
 </div>
 
 ## Translation Notes
@@ -1948,7 +1948,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^7]: Kanata says “let's go” as you would in English, but written in hiragana in the text, as that's how Kanata speaks.
 [^8]: This is how Okinawans say “Welcome”.
 [^9]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
-[^10]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>.
+[^10]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^11]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
 [^12]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
 [^13]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a slightly old-fashioned, formal pronoun to refer to oneself.

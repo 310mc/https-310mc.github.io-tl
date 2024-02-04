@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Chiaki Mini Talk: Torn Tracksuit"
-date: 2024/1/25 9:04:00
+date: 2024/1/16 9:04:00
 categories:
 - [Enstars, Chiaki]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Midori Mini Talk: Sudden Departure"
-date: 2024/1/25 9:03:00
+date: 2024/1/16 9:03:00
 categories:
 - [Enstars, Midori]
 tags:

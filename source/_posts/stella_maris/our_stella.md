@@ -1,6 +1,6 @@
 ---
 title: "[Song] Our Stella – bokura no stella"
-date: 2024/1/13 9:00:00
+date: 2024/1/15 8:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]

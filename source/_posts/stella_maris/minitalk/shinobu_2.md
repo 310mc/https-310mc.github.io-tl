@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Shinobu Mini Talk: Okinawa Souvenir"
-date: 2024/1/25 9:01:00
+date: 2024/1/16 9:01:00
 categories:
 - [Enstars, Shinobu]
 tags:

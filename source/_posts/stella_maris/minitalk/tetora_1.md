@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Tetora Mini Talk: Buying Ingredients for a Big Meal"
-date: 2024/1/19 9:06:00
+date: 2024/1/16 9:06:00
 categories:
 - [Enstars, Tetora]
 tags:

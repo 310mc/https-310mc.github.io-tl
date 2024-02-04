@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Midori Mini Talk: Encounter at the Cafeteria"
-date: 2024/1/25 9:02:00
+date: 2024/1/16 9:02:00
 categories:
 - [Enstars, Midori]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Prologue"
-date: 2024-1-19 9:30:00
+date: 2024-1-15 9:00:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

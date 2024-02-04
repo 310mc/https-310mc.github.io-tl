@@ -63,7 +63,7 @@ hidden: true
 
 <!--
 <div toc>
-{% btn /stella_maris/TBA,, arrow-left, Previous Chapter: TBA %}
+{% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
 {% btn /stella_maris,, star, Index %}
 </div>
 
@@ -83,7 +83,7 @@ hidden: true
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /stella_maris/TBA,, arrow-left, Previous Chapter: TBA %}
+{% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
 {% btn /stella_maris,, star, Index %}
 </div>
 

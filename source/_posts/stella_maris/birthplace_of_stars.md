@@ -13,7 +13,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -28,8 +27,8 @@ hidden: true
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Eichi" character="Eichi"></a>
                 <a href="/categories/Enstars/Tori" character="Tori"></a>
+                <a href="/categories/Enstars/Eichi" character="Eichi"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -505,7 +504,7 @@ Or are you just here to eat now that it’s lunchtime?
 Then I’ll cook you the best meal yet~. Truth be told, I’m usually working here as a chef—
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Ahh, we would love that. We need to first nourish ourselves and get our blood pumping in our heads.
 {% endbubble %}
 
@@ -541,7 +540,7 @@ please do not frighten my [little brother] so much, mizusaba-san.
 I didn’t mean to do that at all, though\~. Sorry, okay? It’s just a joke, really\~?
 {% endbubble %}
 
-{% bubble Konata sighfrown %}
+{% bubble Konata frown %}
 No, I’m aware you mean no harm. As someone from the mainland, you have no obligation to be concerned with our affairs…
 
 Yet here you are, involving yourself— No, <em>cooperating</em> with us. It’s unthinkable that I’d ever see that as a burden, when I should be showing you gratitude.
@@ -621,6 +620,8 @@ I know Okinawans aren’t bothered by trivial things, but it’s still garnering
 ahh, kona-chan is wearing these [clothes], after all~ he will naturally stand out.
 {% endbubble %}
 
+{% img /img/es/eventstory/stellamaris/p2_4.jpg %}
+
 {% bubble Konata curious %}
 …Is my attire strange? Now that you mention it, my attire isn’t different from Mizusaba-san alone — It’s quite different from people outside the island in general, isn’t it?
 {% endbubble %}
@@ -661,7 +662,7 @@ This case can be assumed to be an outrageous act that overturns previous convent
 For example, there’s also the possibility that a devotee of that so-called God sabotaged their work out of anger, thinking “how dare you all defy God’s wishes!”
 {% endbubble %}
 
-{% bubble Shinobu idle %}
+{% bubble Shinobu serious %}
 So there is even the possibility that a saboteur…? of some sort? blended in with the group of workers. I see…
 {% endbubble %}
 
@@ -675,8 +676,8 @@ Though you’ll typically find a scene where the locals vehemently protest again
 We can’t allow that sort of expectation and general opinion to cloud our judgement.
 {% endbubble %}
 
-{% bubble Shinobu serious %}
-Mhm… It really is as Morisawa-dono says.
+{% bubble Shinobu idle %}
+Mm… It really is as Morisawa-dono says.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -783,7 +784,7 @@ Nyahaha! Nyahahaha! ☆ That was awesome~! The way you wiggled your hips really 
 If that is the case, then I, at the very least, would like to accept that.
 {% endbubble %}
 
-{% bubble Konata sighfrown %}
+{% bubble Konata frown %}
 On our island, Hoshijima… Time has stopped. Long long ago, it had been cursed by a preposterous figure that you referred to as God—
 
 And eventually froze until it was unable to move any longer. Now, it’s a land akin to a corpse.
@@ -863,7 +864,7 @@ Hm… I see how the worshippers of the tentatively named Kanata Religion migrate
 But why did they even run away to Okinawa in the first place?
 {% endbubble %}
 
-{% bubble Kanata sighfrown %}
+{% bubble Kanata frown %}
 that, i do not know~ that is also a story from [long past]. but rather than ran away, it seems like they had a [dispute] and [broke off].
 
 it seems that, the people who [migrated] to [okinawa] were much more [devoted] to the [religion] than the people of my [area].
@@ -908,7 +909,7 @@ When have you <em>ever</em> done something respectable, huh?
 {% endbubble %}
 
 {% bubble Midori idle %}
-……Anyway, um, I don’t really understand complicated topics, but…
+…Anyway, um, I don’t really understand complicated topics, but…
 
 I was just thinking that if I were in Konata-kun’s shoes, I feel like I’d hate that sorta lifestyle…
 
@@ -1138,7 +1139,7 @@ Yes. While they and I may not share the same opinion in this matter, the worship
 {% endbubble %}
 
 {% bubble Konata %}
-That is exactly why — I want to avoid the impending fate of doom for the islanders.
+That is exactly why I want to avoid the impending fate of doom for the islanders.
 
 For that purpose, please lend me your strength and wisdom, Ryuseitai.
 
@@ -1163,6 +1164,6 @@ Translation in progress! 18/30 chapters
 [^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translaton.
 [^2]: Suica card is Japan's smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
-[^4]: The time-point Eichi is referring to is March, as that's the last month of a year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translaton.
+[^4]: The time-point Eichi is referring to is March, as that's the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>.
 [^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, a story about Kanata's childhood.
 [^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
