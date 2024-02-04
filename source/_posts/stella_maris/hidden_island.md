@@ -635,7 +635,7 @@ Thank you for the translation.
 {% bubble Chiaki srsthinking %}
 If I’m not mistaken, the worshippers that split into their own branch a very long time ago advanced a religion of their own in Okinawa, right?
 
-But even then, those from the supporting line consider Kanata as their God as well, so—
+But even then, those from the supporting line consider Kanata as their god as well, so—
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -719,11 +719,11 @@ I would rather you don’t rely on me so much for that~… I’m quite feeble, s
 {% bubble Shinobu srsthinking %}
 In any case, after having performed various activities, Shinkai-dono has gained a reputation within Okinawa.
 
-Perhaps this is not the best expression, but it seems like at this point, he is almost treated as a God here.
+Perhaps this is not the best expression, but it seems like at this point, he is almost treated as a god here.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-<em>That</em> again…? I thought he stopped behaving as if he’s a God?
+<em>That</em> again…? I thought he stopped behaving as if he’s a god?
 {% endbubble %}
 
 {% bubble Kanata nod2 %}
@@ -1367,7 +1367,7 @@ w-what a heavy responsibility on me.
 {% endbubble %}
 
 {% bubble Mizusaba %}
-On the contrary, I think they’ll take everything Kanata-sama says seriously, like it’s said by an oracle from God—
+On the contrary, I think they’ll take everything Kanata-sama says seriously, like it’s said by an oracle from god—
 
 So if you guide them efficiently, the islanders are bound to unite as one and do their best for you~.
 {% endbubble %}
@@ -1913,7 +1913,7 @@ I’m very sorry about that. Kanata-sama is always short on words.
 {% endbubble %}
 
 {% bubble Konata frown2 %}
-You aren’t a God anymore, are you?
+You aren’t a god anymore, are you?
 {% endbubble %}
 
 {% bubble Konata %}
@@ -1929,10 +1929,6 @@ Because of that, we don’t exactly know what an idol is.
 
 That is why, I implore all of you — Please teach us what “idols” are.
 {% endbubble %}
-
-{% note narration %}
-Translation in progress! 12/30 chapters
-{% endnote %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
