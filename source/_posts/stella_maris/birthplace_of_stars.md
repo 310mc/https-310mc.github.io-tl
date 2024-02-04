@@ -591,10 +591,6 @@ Please don’t spout unnecessary things to him, Kanata-sama.
 
 {% bubble Konata %}
 There is no need to pay any attention to what this person is saying, okay, Mizusaba-san?
-
-余計なことを『みずさば』さんに吹きこまないでください、奏汰さま
-
-このひとの言うことは気にしなくていいですからね、『みずさば』さん
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -654,7 +650,7 @@ I don’t want to treat them as the culprits… However, that island is closed o
 {% endbubble %}
 
 {% bubble Konata sad %}
-………….
+…………
 {% endbubble %}
 
 {% bubble Tetora northinking %}
@@ -736,23 +732,23 @@ we want you\~ to\~ eat\~ us\~…♪
 {% endbubble %}
 
 {% bubble Kanata niyaclosed %}
-……♪ *(making an extremely smug expression)*
+……♪ *<th>(making an extremely smug expression)</th>*
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
-*(whispering)* Hey, can I ask…? How did we get ourselves into this ridiculously goofy situation…?
+*<th>(whispering)</th>* Hey, can I ask…? How did we get ourselves into this ridiculously goofy situation…?
 {% endbubble %}
 
 {% bubble Tetora serious %}
-*(whispering)* Since we’re still digestin’ our meals, we figured we’d show Konata-kun an idol performance while we can.
+*<th>(whispering)</th>* Since we’re still digestin’ our meals, we figured we’d show Konata-kun an idol performance while we can.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-*(whispering)* Yeah. All he’s been doing is listening to complicated discussions; we hadn’t been able to show Konata-kun what he actually wanted to see.
+*<th>(whispering)</th>* Yeah. All he’s been doing is listening to complicated discussions; we hadn’t been able to show Konata-kun what he actually wanted to see.
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-*(whispering)* But are we sure that <em>this</em> is what we should show Konata-dono? Will it be alright…? Surely he’ll be dumbfounded—
+*<th>(whispering)</th>* But are we sure that <em>this</em> is what we should show Konata-dono? Will it be alright…? Surely he’ll be dumbfounded—
 {% endbubble %}
 
 {% bubble Konata smileconfident %}

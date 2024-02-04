@@ -1235,7 +1235,7 @@ If you’re God, then you need to bear with it.
 mm… it is as mikejima says. kanata will bear with it.
 {% endbubble %}
 
-{% bubble Kanata kidsobbing %}
+{% bubble Kanata kidsob %}
 <em><th>(sniff, sobs)</th></em>… but, it hurts… maybe bearing with it is, not possible…
 {% endbubble %}
 
