@@ -235,7 +235,7 @@ Ohh, they’ve decorated this area for Repayment Festival already~♪
 
 It really does look like another version of Chocolat Fes.
 
-They changed the colors of the heart-shaped balloons~ The blue and white base color give a mystical[^1] vibe~♪
+They changed the colors of the heart-shaped balloons~ The blue and white base color give a mystical vibe~♪[^1]
 
 But Repayment Festival is in two weeks, so won’t the balloons run out of helium by the time of the event…?
 
@@ -388,6 +388,6 @@ We’ll have to withdraw from participating in the Repayment Festival. It’s �
 </div>
 
 ## Translation Notes
-[^1]: The word he uses is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
+[^1]: The word Shinobu uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
 [^2]: Specifically, <em>zen</em> meditation, that involves sitting cross-legged. Tetora does this pose in his <a href="https://ensemble-stars.fandom.com/wiki/%28Black_Santa%29_Tetora_Nagumo" target="_blank">Christmas Live</a> card.
 [^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/The_Four_Beasts_of_Fistfighting" target="_blank">The Four Beasts of Fistfighting</a>.

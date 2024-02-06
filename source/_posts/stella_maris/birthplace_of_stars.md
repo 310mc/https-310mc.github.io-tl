@@ -1543,7 +1543,7 @@ but. i had [forgotten] all of that at some point.
 
 i forcibly [sealed] away all those warm [memories]—
 
-and [turned into] a dummy who did not know nor understand anything.
+and turned into a [dummy] who did not know nor understand anything.
 {% endbubble %}
 
 {% bubble Kanata sad3 %}
@@ -1565,7 +1565,7 @@ a [sin] is a [sin].
 {% endbubble %}
 
 {% bubble Kanata frown %}
-mikejima was threatened to pay for [them] with his [life]. and he may be [strong], but he was not [invincible].
+mikejima was threatened to pay for [them] with his [life]. and he may have been [strong], but he was not [invincible].
 
 that is why i [feigned] ignorance and [pretended] not to know him.
 
@@ -1774,8 +1774,380 @@ please do watch over me as my hero [senpai], chiaki. and if i manage to do it pr
 pat my head and say i did great, like you always would. ♪
 {% endbubble %}
 
+## Chapter 11
+
+{% img /img/es/eventstory/stellamaris/p2_11.jpg %}
+
+<div class="msr-narration">
+    <p>One week later. On the stage Kanata planned for the sake of solving the situation — Right before the Stella Maris performance…</p>
+</div>
+
+<div class="msr-narration">
+    <p>In the coastline of Hoshijima, inside the mysterious “building” that has been embellished ever-so curiously…</p>
+</div>
+
+{% bubble Kanata fist %}
+traaansform~☆
+
+okay, has everyone completed their [transformation]? are you [fully] prepared~?
+
+then we will start [right away], okay~? it is time for [fish ryuseitai]’s fun [stage] — [stella maris]…☆
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p2_11_2.jpg %}
+
+{% bubble Chiaki norsmile2 %}
+……………
+{% endbubble %}
+
+{% bubble Tetora curious %}
+……………
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p2_11_3.jpg %}
+
+{% bubble Midori sighdrop %}
+……………
+{% endbubble %}
+
+{% bubble Shinobu idle %}
+……………
+{% endbubble %}
+
+{% bubble Kanata curious %}
+oh? i do not see any real [response]… are you alright~? do you [understand] what we will be [doing] from here on out?
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+Ossu, we’re good there. It’s just that Shinkai-senpai is unusually over-excited, so we were kinda surprised in a way.
+{% endbubble %}
+
+{% bubble Midori frown %}
+Right…? We’ve got enough of that from Morisawa-senpai, y’know… I’d prefer it if Shinkai-senpai always stays as the healing presence, being floaty and taking it easy…
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+I thought it was absolutely wonderful, Kanata! You’re the commander this time, after all! You should have the vigor to lead everyone without hesitation!
+{% endbubble %}
+
+{% bubble Shinobu v2 %}
+I completely agree~! Today, Shinkai-dono— <em>No</em>, Shinkai *Taichou-dono* is as reliable as Morisawa-dono during our Yumenosaki days, or perhaps even more than that…☆
+{% endbubble %}
+
+{% bubble Midori sightired %}
+Well, looks like it made a great impression on the positive team, but what do you think, Tetora-kun?
+{% endbubble %}
+
+{% bubble Tetora shocked %}
+Huh!? You’re assignin’ me into the negative team!?
+{% endbubble %}
+
+{% bubble Midori worried0 %}
+At times like this, you always join me in throwing complaints, don’t you…
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+That’s only before the actual performance. The moment we’re up on stage, I intend to take things seriously and do my ultimate best. But ‘course, the same goes for Midori-kun, right~♪
+{% endbubble %}
+
+{% bubble Midori sigh %}
+Yeah… I can’t really run away anywhere once I’m on stage, after all… I’ve got no choice but to buckle down and do my best…
+
+Plus, I <em>do</em> wanna be of use to Shinkai-senpai for this job, and it’s not like I have no motivation to work hard…
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+good boy\~♪ we will do our best [together]\~!
+
+let’s [say] it together now~ *puka, puka…♪ <th>(sways left and right)</th>*
+{% endbubble %}
+
+{% bubble Shinobu smilesoft %}
+Ahaha. For better or worse, Shinkai Taichou-dono’s Ryuseitai is rather peculiar.
+{% endbubble %}
+
+{% bubble Midori awkward %}
+I know, right~… That’s the one thing that never changed until the very end…
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+Ossu, yeah. It really is for better or worse.
+{% endbubble %}
+
+{% bubble Kanata curious %}
+oh\~? do you have any [complaints] about that\~?
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+No… When I was made to take the commander role, everyone also gave their absolute best from start to end.
+
+It’s now my turn to do the same, right? Mhm, probably….
+{% endbubble %}
+
+{% bubble Chiaki smilesoft2 %}
+Fufu.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+However, while I’d rather not say something so negative and pessimistic right before our stage… will this really be alright as is?
+
+Will the people of Hoshijima really agree to our side of the story? Mm, before that, will they even lend us their ears…?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+that will simply [depend] on us, yes?
+
+we will [perform] as best as we can, and grab everyone’s [attention] with our song and dance. that is our [field of expertise], yes?
+
+if we make them watch us while thinking “eh, what’s going on?” by causing a ruckus and doing whatever ridiculous thing we have in mind, we will have [succeeded greatly].
+
+no, in fact… we will not get [anywhere] with them unless we gather their [attention] in that way.
+
+before we can convince them to [agree] to our [side], we must first have them hear what we have to [say].
+{% endbubble %}
+
+{% bubble Tetora smileconfident %}
+Ossu. We’ve worked so hard together for a whole week for that purpose. We followed Shinkai-senpai’s bizarre guidance, all for the sake of creating the ideal stage of his dreams.
+{% endbubble %}
+
+{% bubble Midori frustrated %}
+I’m so sick of fish… I’m so sick of fish…
+{% endbubble %}
+
+{% bubble Shinobu surprised0 %}
+Ah— Midori-kun is reliving his trauma again!?
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+Are you alright, Takamine!? Look, here are some vegetables! Fresh, spring vegetables…!
+{% endbubble %}
+
+{% bubble Midori worried %}
+Uu, uu— Vegetables? Not fish…?
+{% endbubble %}
+
+{% bubble Tetora grin %}
+Ahaha, I don’t blame him for feelin’ traumatized. I mean, we got thrown in a water tank full’a fish so that “we learn how it feels to be a fish”.
+{% endbubble %}
+
+{% bubble Tetora sightired %}
+It was real rough on me, too. Fish’s eyes are so devoid of life and terrifying, aren’t they…
+{% endbubble %}
+
+{% bubble Shinobu sighdrop %}
+Personally, the absolute roughest part was once again not knowing why on earth we were being made to do all this.
+{% endbubble %}
+
+{% bubble Chiaki sighfrown %}
+Yeah, that’s because while I could see some slight improvement in Kanata’s leadership, his explanations remained as lacking as ever.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+gosh, everyone just keeps having [complaints]~?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+the reason is obviously for the sake of our [performance]. i thought it would be unnecessary to [explain] something as obvious as this, but—
+
+every single thing we did was for the sake of our typical, usual fun [stage].
+
+let’s [solve] everything with “that”, the same way we always do.
+
+that is our very own [finishing move]~♪
+{% endbubble %}
+
+## Chapter 12
+
+{% bubble Kanata smileconfident %}
+—right then.
+
+it is [fun] to have a chat, but we cannot keep having [fun] by ourselves forever.
+
+we are [idols], after all.
+
+and kona-chan, with such pure [feelings], said that [idols] are [interesting] people, didn’t he?
+
+we [cannot] save the [world] and [mankind] like the heroes in [tokusatsu shows].
+
+[human beings] are probably incapable of doing something a [god] could do.
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+but. we are capable of making this [world] we [exist] within into a more [glittering place], even if only a liiittle bit.
+
+we can surely turn it into an amusing, happy, sparkling [world].
+
+let’s become [stars] that light up the [world] just like that.
+{% endbubble %}
+
+{% bubble Tetora smile %}
+Ossu. I always feel like Shinkai-Taichou’s words are floaty and demand reading comprehension, but…
+
+This time around, it was super easy to understand what you said.
+
+That’s the ideal vision of Ryuseitai that you’re aiming for, right, Shinkai-Taichou?
+{% endbubble %}
+
+{% bubble Kanata fist %}
+yes. that is what [fish ryuseitai], the unit that i [lead], is all about!
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Just to be clear, it’s officially written as “Ryuseitai-C” in the documents.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+chiaki is <em>so</em> [particular] sometimes.
+{% endbubble %}
+
+{% bubble Midori curious %}
+Mm? Why was it “C” again…? Wouldn’t it be “B” for “Blue”…?
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+Yeah, but Shinkai-Taichou said it’d be the exact same as Ryuseitai Black’s “Ryuseitai-B”, the unit that I lead. So he let me have the name when it was my turn as the commander.
+
+He said it’d be confusing if we had the same acronyms, so he’s fine with being “C” for “Cobalt Blue” — and that he’s actually happy with that name, ‘cuz it’s way closer to the color of the ocean.
+
+Thinkin’ about it, Shinkai-Taichou has always handed over a lotta different things to us juniors in particular, huh?
+
+Like, he’d always prioritize what we wanna do over what he wants to do—
+{% endbubble %}
+
+{% bubble Kanata smile %}
+fufufu. you make it sound like i am a [saint], but i simply just did not have any particular [desires] of my own, you know?
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/tetorabcg.jpg %}
+
+{% bubble Tetora stellabcg %}
+Still, I always felt so grateful for it.
+
+That’s why this time around, I wanna support what you wanna do as the leader, Shinkai-Taichou![^13] No, not just that — I wanna reach that goal together!
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Yeah, with full force! Our feelings are one, Kanata!
+{% endbubble %}
+
+{% bubble Kanata nod2 %}
+yes. that is the one thing i will always, aaalways believe in.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Sound of footsteps</p>
+</div>
+
+{% bubble Shinobu grin %}
+Shinkai-dono~! I believe the preparations for <em>that</em> “performance” are ready! *<th>(waves)</th>*
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+yes, thank you for the [report]. our [ninja] is outstanding, isn’t he\~? good boy, good boy\~♪
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+fufu. if everything is [ready], then it is time to begin, in a relaxing, carefree way.
+
+let’s all do it together now — those interesting things.
+
+“—everyone from [hoshijima]~! ♪” *<th>(waves)</th>*
+
+“hello there! this is [god] speaking~☆”
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p2_12.jpg %}
+
+<div class="msr-narration">
+    <p>At the same time. In the ES Okinawa branch, while watching the mysterious Stella Maris performance…</p>
+</div>
+
+{% bubble Eichi snicker %}
+…Pfft. ♪
+{% endbubble %}
+
+{% bubble Eichi awkward %}
+I-I didn’t once expect to hear him say that, and out of <em>nowhere</em> at that. This is exactly why Ryuseitai’s performances are so interesting, but watching them is quite bad for the heart, isn’t it?
+
+I heard that there are a lot of elderly people with weak hearts in Hoshijima, so perhaps it would be safer to avoid shocking turns of events, no?
+{% endbubble %}
+
+{% bubble Tori curious %}
+Honestly, I’m also just confused like, “Huh, why’s he saying that all of a sudden?”
+
+But the Hoshijima residents are basically worshippers of some religion, right?
+
+So I guess he thought it’d be most effective to call himself “god” so that it reaches their hearts…?
+{% endbubble %}
+
+{% bubble Eichi smile %}
+My, and he seemed so fed up with the god occupation, too. Does this mean you can act this role as well if necessary, Shinkai-kun?
+
+During the subjugation of the Five Eccentrics in Yumenosaki Academy, the person who took care of the showdown against Shinkai-kun was also someone closely tied to religion — Keito, the son of a temple.[^14]
+
+So, as someone who didn’t fight him directly, I haven’t truly experienced just how ghastly and intimidating Shinkai-kun can be.
+
+That being said, I do remember quite well the eerie atmosphere that surrounded the events related to the Yaobikuni during the War Days.
+
+It was beyond human comprehension, so I can’t properly explain what it was like.
+
+I also never saw the incident itself. However, I remember well the astonished look on Keito’s face after he had clashed with Shinkai-kun — As if he had witnessed something “completely out of this world”.
+
+In order to stir a change in Hoshijima, where time has stopped for eons, perhaps what is necessary here isn’t a realistic power like money or authority… But a paranormal, mystical power similarly to that event.[^15]
+{% endbubble %}
+
+{% bubble Eichi smilesoft %}
+Right then. Now, is it truly possible for a conceptual being such as a non-existant god to respond to realistic issues that affect the daily lives of many human beings?
+
+It’s time for the “living god” to show us what he’s capable of. Ahh, how thrilling.
+{% endbubble %}
+
+{% bubble Tori worried %}
+Uh, I feel super nervous from worry, though…
+
+Are we sure it’s going to go okay? Restoring a ruined island is a pretty serious topic; can that airheaded unit Ryuseitai really make this work?
+{% endbubble %}
+
+{% bubble Eichi smileconfident %}
+Who knows? Fufu, in fact, this is the perfect moment to say “Only God knows”. ♪
+
+They aren’t fictional heroes who can always overcome any huge predicament without exception, so they can’t avoid worrying those watching over them…
+
+But for some strange reason, I hold an illogical conviction that, as long as it’s them, they’ll be able to solve any problem that comes their way.
+{% endbubble %}
+
+{% bubble Eichi smilesoft2 %}
+I’m envious of you, Chiaki. You must’ve felt a similar kind of deep emotion whenever you’d watch your heroes in action on the television, ever since your early days of childhood.
+
+The same can be said about the people of Hoshijima, but… The lives of people with something they can believe in no matter what must be so warm and relieving, beyond my very imagination.
+
+I mean this without any sarcasm whatsoever, but — I truly feel just a tiny bit envious of that.
+{% endbubble %}
+
+{% bubble Tori norsmile %}
+…I also have that, y’know. Something I can believe in no matter what.
+{% endbubble %}
+
+{% bubble Eichi %}
+Oh? I had no idea you were a religious person.
+{% endbubble %}
+
+{% bubble Tori frown %}
+If you’re playing dumb, then you’re just being mean, Eichi-sama…
+{% endbubble %}
+
+{% bubble Tori smilesoft %}
+But, well, it’s not just me. I think everyone lives their lives believing in something.
+
+Be it a hero, a god… or maybe even an idol that represents your ideal self—
+
+I’m sure the lives of people who’ve found that sparkling something are filled with happiness, aren’t they?
+
+And I bet those Ryuseitai guys are trying to be “exactly that”, yeah? Well, not that I’d know what idiots are up to~
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 22/30 chapters
+Translation in progress! 24/30 chapters
 {% endnote %}
 
 <div toc>
@@ -1799,3 +2171,6 @@ Translation in progress! 22/30 chapters
 [^10]: Eichi and Chiaki were revealed to have met in a hospital when they were young in <a href="https://hyenahunt.tumblr.com/post/736331182543896576/saga-rivals-12" target="_blank">Saga</a>. <a href="https://ensemble-stars.fandom.com/wiki/Saga" target="_blank">Wiki Link</a>.
 [^11]: The following two chapters refer back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
 [^12]: Something to mention about Kanata and the word “hero”: Kanata always talks in full hiragana (he turns katakana words to deformed hiragana spelling). The only word he always says in the correct way it’s spelt is “hero” (ヒーロー, in katakana).
+[^13]: The word Tetora uses for “leader” is <em>hatagashira</em> (旗頭), which is also a word related to an Okinawan festive event.
+[^14]: These lines of dialogue are referring to the events that happened in <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the story that shows how Kanata was subjugated as an Eccentric.
+[^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
