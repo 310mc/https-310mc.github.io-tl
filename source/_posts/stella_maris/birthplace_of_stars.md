@@ -373,7 +373,7 @@ Perhaps if I obtained that hidden treasure, my idol industry would develop in ab
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-The idol industry isn’t your private property, though… But, well, I understand what you’re trying to say.
+The idol industry isn’t your personal property, though… But, well, I understand what you’re trying to say.
 
 I was wondering why ES would go through so much effort to put their hands on an isolated island nobody knows about, that isn’t even on a map…
 
@@ -411,7 +411,7 @@ That’s why, since this boy here also wanted it this way — I’ve entrusted e
 {% endbubble %}
 
 {% bubble Tori sad2 %}
-Mhm… But as I mentioned earlier, it isn’t going really well so far, and it’s making me feel pathetic.
+Mhm… But as I mentioned earlier, it’s not going really well so far, and it’s making me feel pathetic.
 {% endbubble %}
 
 {% bubble Eichi %}
@@ -427,7 +427,7 @@ At the very least, they didn’t show any opposition towards us. Surely this wou
 {% bubble Eichi serious %}
 Are you sure that’s really true?
 
-I don’t know who you met and talked to, but I don’t see how it’s possible for there to be absolutely no opposition whatsoever.
+I don’t know who you met and what you talked about, but I don’t see how it’s possible for there to be absolutely no opposition whatsoever.
 
 As a matter of fact, the model of the amusement park we had built at the end of last year in Hoshijima, the ATLANTIS[^4] — It was recently destroyed by someone.
 
@@ -465,7 +465,7 @@ Because even if we bulldozed through this with the power of authority and money,
 {% endbubble %}
 
 {% bubble Eichi awkward %}
-That hurts to hear. It’s easier that way, though, so I can’t help but choose that method almost every time… It settles everything much quicker, too.
+That stings to hear. It’s easier that way, though, so I can’t help but choose that method almost every time… It settles everything much quicker, too.
 
 However, Tori seems to prefer not choosing such a violent method.
 
@@ -479,7 +479,7 @@ Even if it means transforming that peaceful island into hell, I <em>will</em> ac
 {% endbubble %}
 
 {% bubble Eichi smile %}
-If that sounds detestable to you, then it’s time to brace yourself and take on this challenge with all your might.
+If that sounds detestable to you, then it’s time to brace yourselves and take on this challenge with all your might.
 
 Despite everything, I’m expecting a lot from you Ryuseitai.
 {% endbubble %}
@@ -569,7 +569,7 @@ He’d listen with so much interest\~, so that might’ve made him get attached 
 {% endbubble %}
 
 {% bubble Kanata nod %}
-hm, hm. so, similar to what [mikejima] was to me in the past? it is hard <em>not</em> to [love] someone like that, yes?[^5]
+hm, hm. so, similar to what [mikejima] was to me in the past? it is hard <em>not</em> to really [like] someone like that, yes?[^5]
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -647,7 +647,7 @@ I don’t want to treat them as the culprits… However, that island is closed o
 {% endbubble %}
 
 {% bubble Konata sad %}
-…………
+……………
 {% endbubble %}
 
 {% bubble Tetora northinking %}
@@ -835,9 +835,9 @@ The religion from Shinkai-dono’s household has to do with meteorites?
 {% endbubble %}
 
 {% bubble Kanata smileexplain %}
-yes~ we [purify] the [evil things] that were assumed to have spilled out from the [meteorites], and heal those who become [ill] from it.
+yes~ we [purify] the [evil things] that were assumed to have spilled out from the [meteorite], and heal those who become [ill] from it.
 
-we were [used] for those acts, and so eventually became worshipped as [gods] for it. that was how it all [began].
+we were [used] for those acts, and so eventually became worshipped as [gods] for it. that was how it all [began].[^6]
 
 there are several [theories] to it, though~ it is a [pretty old] story, and it has not been [recorded] in any actual [texts].
 {% endbubble %}
@@ -857,7 +857,7 @@ there is a large, [definitive gap] between those two existences.
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-Hm… I see how the worshippers of the tentatively named Kanata Religion migrated to the island. I believe they sensed a similar scent in Hoshijima to their birthplace.
+Hm… I see how the worshippers of the tentatively named Kanata Religion migrated to the island. I believe they sensed a similar scent in Hoshijima to their hometown.
 {% endbubble %}
 
 {% bubble Tetora srsthinking %}
@@ -897,7 +897,7 @@ Don’t call me by “-sama”… Master Artist calls me by that too, but I’m 
 {% endbubble %}
 
 {% bubble Konata %}
-However, I ought to show respect to my elders.
+However, I must show respect to my elders.
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -1017,7 +1017,7 @@ It’s as Kanata says. You aren’t in the wrong at all, Konata-kun.
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-Ossu. We’re shooting stars.[^6] It’s our duty to make dreams come true.
+Ossu. We’re shooting stars.[^7] It’s our duty to make dreams come true.
 
 That dream of yours deserves to be acknowledged. And we’d like you to let us help make that dream into a reality, Konata-kun.
 {% endbubble %}
@@ -1148,8 +1148,634 @@ If there is anything that I can do, I will gladly do so.
 So please, I beg you — Please save us.
 {% endbubble %}
 
+## Chapter 7
+
+{% img /img/es/eventstory/stellamaris/p2_7.jpg %}
+
+<div class="msr-narration">
+    <p>That night. At a beach near the ES Okinawa branch…</p>
+</div>
+
+{% bubble Eichi smile %}
+—Hello there, Chiaki.
+
+Fufu. Meeting each other in secret on a beach at night makes me feel like we’re doing something unthinkable, don’t you agree?
+
+Why, Shinkai-kun might get angry at you for being a cheater.
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/chiakiorigcg.jpg %}
+
+{% bubble Chiaki stellaocg %}
+Kanata wouldn’t get angry over something like that. That aside, the ocean breeze isn’t too good for your health, is it? Let’s make this discussion brief.
+{% endbubble %}
+
+{% bubble Eichi smile %}
+Your thoughtfulness is appreciated. Sorry, I simply can’t set aside the suspicion that ES could be spying on us if we spoke through HoldHands.
+
+So we have no choice but to talk about important matters face-to-face. Somewhere outside of ES, where there are no surveillance cameras.
+{% endbubble %}
+
+{% bubble Chiaki stellaocg %}
+Thank you; you’re always helping me out.
+{% endbubble %}
+
+{% bubble Eichi %}
+That feeling is mutual, “Ally of justice”-kun.
+
+In any case, about your inquiry — Actually, our investigation has led us to find that it was a group of Hoshijima residents that interfered with the amusement park’s construction.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+Ahh, so that’s where the bad prediction came true, huh…
+{% endbubble %}
+
+{% bubble Eichi serious %}
+Mm. Still, this may make things a little more complicated, but… It’s possible that there is a mastermind who incited the islanders to commit such an outrageous act.
+
+That’s exactly why we’re letting the culprits go scot-free without arresting them. It’s to lure out the mastermind behind the incident and identify who they are.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+Mastermind…?
+{% endbubble %}
+
+{% bubble Eichi yare %}
+Why are you looking at me with so much distrust? If I were the mastermind, do you really think I would so stupidly and honestly tell you that one exists?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+On the contrary, it’s possible you intentionally told me the truth so that I would think that way.
+{% endbubble %}
+
+{% bubble Eichi frown %}
+It makes me sad to know even <em>you</em> would suspect me. I truly do mean it when I say this.
+{% endbubble %}
+
+{% bubble Eichi serious %}
+However. I don’t know if you can believe my words, but… It really has nothing to do with me this time.
+
+I’ve left all the handling of the amusement park ATLANTIS to Tori, after all.
+
+Even I wouldn’t behave in a way that would pointlessly distress that adorable boy.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Well, I’ll trust you on that. You’re capable of utilizing anything when it comes to attaining your goals, no matter who’s involved—
+
+But objectively speaking, there’s no point in interfering with the park’s construction and the island’s restoration. You gain nothing out of it.
+
+That’s why you aren’t the culprit. You aren’t the mastermind pulling the strings from behind.
+{% endbubble %}
+
+{% bubble Eichi smile %}
+Thank you. If only everyone would consider everything logically like you do. People believe far too much in tales of the occult, like intuition, sixth sense, or even spirits, don’t you think?
+
+It’s truly laughable how many people fall for religions like that.
+{% endbubble %}
+
+{% bubble Eichi awkward %}
+In any case — Ah, that was the second time now. I should refrain from saying that. Recently, Yuzuru started to meaninglessly count each time I say “in any case”, so I can’t help but pay mind to that.[^8]
+{% endbubble %}
+
+{% bubble Chiaki yare %}
+Everyone has their favorite phrase to say, don’t they? Those who ridicule that are the ones who are vulgar.
+{% endbubble %}
+
+{% bubble Eichi %}
+Mm. Right, as for the other inquiry—
+
+You asked me why Hoshijima was a confined land, yes?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah. We’re going to intervene in the inner workings of the island, and bring about change from within. For that reason, it’s essential that we know what sort of history Hoshijima has first.
+
+I doubt the islanders would want to have everything repainted by outsiders who barely understand anything about them.
+
+So first, I’d like to thoroughly learn everything there is to know about Hoshijima and its islanders.
+
+Even if I reach out my hand to try and save them — if my eyes are closed, I’d only needlessly hurt the other party.
+{% endbubble %}
+
+{% bubble Eichi %}
+It’s just like you to think that way, Chiaki, but I’m a bit surprised.
+
+Personally, I thought you were going to ask me who Minase Konata, Hoshijima’s leader, was, and what relationship he has with Shinkai-kun.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+It’s probably a complicated familial situation.
+
+I’m not part of Kanata’s family. I have no right to delve deep into those matters.
+{% endbubble %}
+
+{% bubble Eichi norsmile %}
+I think Shinkai-kun would be sad if he heard that. But I digress; this doesn’t really have anything to do with the matter at hand.
+
+To be fair, even I can barely grasp their family affairs. I wouldn’t have been able to answer that question anyway… So you’ve saved me the trouble by not asking it.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Yeah, I figured. Just to let you know, though, I’m also immensely curious about it.
+
+But Kanata always has such a gentle look on his face when speaking to Konata-kun. Surely that means their relationship is nothing to worry about.
+
+Which is why there’s no need for me to intrude in any way. If Kanata is happy and satisfied, then that’s enough for me.
+{% endbubble %}
+
+## Chapter 8
+
+{% bubble Eichi smile %}
+Fufu. It’s fun having a chat with you, but it’s time we carry on with the main topic.
+
+The reason Hoshijima was a confined land is because it was where God was born and raised — his hometown.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+“Godfather”’s hometown, is it?
+{% endbubble %}
+
+{% bubble Eichi %}
+Yes. By the way, I don’t know how much you know already, but “Godfather” had been substituted throughout his long period of activity.
+
+In the end, in place of the God who disdained everything and went into retirement, it seems that a figure known as “Priest” took on his role.
+
+Hoshijima is the hometown of the God that took over — The “Priest”.
+{% endbubble %}
+
+{% bubble Chiaki sighfrown %}
+“Priest”… I heard he was subdued in SS, but his name still lingers, huh…
+{% endbubble %}
+
+{% bubble Eichi serious %}
+That’s how mighty and powerful his existence was; even rotting won’t be enough to make him vanish. His last few days may have been miserable, but he was an influential figure who seized control over the entire industry.
+
+When the Priest was still nothing but a loyal subject to God, God made his hometown prosper as a reward for his loyalty.
+
+Due to that, and perhaps in contribution to being so near to the mainland, as well — Hoshijima received its first and last prosperity.
+
+Those buildings across the island that became nothing but ruins — They were built during that time.
+
+However, the very moment he stole the position of God by substituting for him, the Priest had a complete change in demeanor.
+
+He tried to eradicate his own footsteps as thoroughly as possible, so that nobody could ever learn of his true identity.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+I see. That’s why the Priest’s birthplace, Hoshijima, was erased even from maps, and turned into a confined land that nobody was allowed to be involved with—
+
+Leading to its existence being hidden and entirely forgotten.
+{% endbubble %}
+
+{% bubble Eichi %}
+And that brings us to today. Perhaps the Priest cherished his hometown, because the residents are provided the bare necessities without compensation to this day. That was also under the Priest’s suggestion, you see.
+
+If he truly wanted to erase all traces of himself, he should’ve slaughtered all the residents and demolished the buildings until the island was reduced to an empty plot of land. That’s how he could <em>actually</em> erase this place from the world.
+
+It would’ve been much simpler.
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+You say such terrifying things… I’m actually a little relieved to hear that. It’s almost as if even the Priest, who’s always seen as an ominous ghost, had a humane heart.
+
+That he also had enough humanity in him to cherish his hometown.
+{% endbubble %}
+
+{% bubble Eichi yare %}
+Although, I can’t really sympathize nor show compassion to those feelings, really. It only makes me wonder why he didn’t express such kindness to his biological children.[^9]
+
+He wasn’t the one who went through the pains of giving birth to them, so perhaps he doesn’t think of them as part of him — and that’s why he couldn’t cherish and love them properly.
+{% endbubble %}
+
+{% bubble Eichi norsmile %}
+Well, either way, I’ll utilize whatever I can. By overturning the Priest’s trivial fixations, we can make the era that God constructed come to an end.
+
+We can prove that we’re free from God now, and proclaim it to the world. This is an absolutely necessary process to welcome the new age.
+
+Once the curtains have closed on God’s era, the era of human beings will begin.
+
+—Our era.
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Mm… You in particular seem on the verge of detaching yourself from this world like a god, and it worries me… But this is your dream, isn’t it?
+
+In that case, I’ll support you. You’re my friend, after all.
+{% endbubble %}
+
+{% bubble Eichi %}
+Thank you. Then as repayment, what say I support your dream? As long as it doesn’t come in the way of my overly-ambitious dreams, of course.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+You won’t have to worry about that. I have a small favor to ask you, but—
+
+I guarantee you that “it” will definitely not get in the way of your goals.
+{% endbubble %}
+
+{% bubble Eichi smile %}
+Oh? I would’ve scoffed if anyone else said that to me, but for some strange reason, I feel I can trust those words when it comes from you — Chiaki.
+
+Fufu. How nostalgic. Didn’t we also huddle close and speak of our dreams back when we were children in the hospital?[^10]
+
+Time had passed since then, and our innocent selves have changed so much that we no longer have any traces of our former selves—
+
+But just look at us now. To this very day, the stars in the sky and our dreams are shining without a single stain on them.
+{% endbubble %}
+
+## Chapter 9
+
+{% img /img/es/eventstory/stellamaris/p2_9.jpg %}
+
+<div class="msr-narration">
+    <p>Nearly an hour later. In tonight’s lodging accommodation for Ryuseitai — the ryokan managed by the ES Okinawa branch…</p>
+</div>
+
+{% bubble Chiaki smile %}
+<th>(Quietly, quietly…)</th>
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+<th>(Uh-oh… I wound up talking with Tenshouin for such a long time that time passed right by before I knew it.)</th>
+
+<th>(There’s something we need to do in the mainland starting tomorrow, so we’re staying over in a ryokan instead of going back to Hoshijima—)</th>
+
+<th>(But I almost headed to the port instead because I had forgotten about that, so I ended up returning back here much later than intended.)</th>
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+<th>(Right. I told them all to sleep before me, but is everyone really resting without staying up?)</th>
+
+<th>(We’re probably going to get extremely busy starting tomorrow. They’ll have to rest well tonight, or they’ll only collapse midway.)</th>
+{% endbubble %}
+
+{% bubble Chiaki yoshi %}
+<th>(Mhm. Nagumo, sound asleep\~ Sengoku, sound asleep\~)</th>
+{% endbubble %}
+
+{% bubble TetoraShinobuSleep %}
+zzz… zzz…♪ *<th>(Tetora snoring)</th>*
+{% endbubble %}
+
+{% bubble Midori sleepsmile %}
+zzz… zzz…♪
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+<th>(And Takamine, sound asleep~ Whew, I’m so glad they’re all sleeping nice and peacefully.)</th>
+{% endbubble %}
+
+{% bubble Midori frownshake %}
+Just die.
+{% endbubble %}
+
+{% bubble Chiaki surprised %}
+—……!?
+{% endbubble %}
+
+{% bubble Midori sleepsmile %}
+Mngh… <em><th>(mumble, mumble)</th></em>… Fools who defy mascots will face the death penalty~… zzz…♪
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+<th>(Whew. He was just sleep talking.)</th>
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p2_9_2.jpg %}
+
+{% bubble Kanata norsmile %}
+welcome back, chiaki.
+{% endbubble %}
+
+{% bubble Chiaki surprised %}
+……!?
+{% endbubble %}
+
+{% bubble Kanata worried %}
+ah, i am sorry. did i surprise you?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+You’re still awake, Kanata? Didn’t I say you could rest before me?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+if i fell asleep too, who would [open] the door for chiaki once he is back~?
+
+we cannot keep the door [unlocked] now, can we?
+
+even if this is a very [well-secured ryokan], there are [bad guys] everywhere.
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+Ahh, yeah… I could’ve taken the key with me and unlocked the door by myself, but that means you guys wouldn’t have been able to leave while I’m gone.
+
+I also didn’t want the kids to know I’d be taking a walk outside in the middle of the night.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+right~ you are always pretending to be so [well-behaved]~
+
+yet you forbid the [children] from going out, while you [play around] and enjoy a [nightlife] of your own. how cruel.
+{% endbubble %}
+
+{% bubble Chiaki worried %}
+I-I wasn’t playing around either, though?
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+i know that~ thank you for your [hard work] as always, hero.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+…Kanata.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+yes? what is it, chiaki?
+{% endbubble %}
+
+{% bubble Chiaki frownshake %}
+……— ……Never mind, it’s nothing.
+{% endbubble %}
+
+{% bubble Kanata yare %}
+what… now i am curious. if there is something you want to say, please say it clearly, okay?
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+if it is chiaki, i will not get angry no matter what you say. i will show [mercy] in a [god]-like fashion, and [chop] you down in a composed manner.
+{% endbubble %}
+
+{% bubble Chiaki surprised0 %}
+So you aren’t going to forgive me!?
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+fufufu~ since when did you start to [delude] yourself into thinking [god] is kind?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+I’ve said this many times before, but… You aren’t a god anymore, are you?
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+yes. you were the one who made me [human], chiaki.[^11]
+
+when i first [met] you—
+
+there was nothing inside me. not a single thing except my [god] self.
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+……………
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+at one point, there was a kind person, mikejima, who provided me with many things.
+
+[tattered] and injured everywhere, he would carry those things all the way to me.
+{% endbubble %}
+
+{% bubble Kanata frownshake %}
+but. i had [forgotten] all of that at some point.
+
+i forcibly [sealed] away all those warm [memories]—
+
+and [turned into] a dummy who did not know nor understand anything.
+{% endbubble %}
+
+{% bubble Kanata sad3 %}
+but i had to. if i did not do so, mikejima would die.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+……………
+{% endbubble %}
+
+{% bubble Kanata sighfrown %}
+he broke the [rules] for my sake over and over again. he repeatedly committed many [sins] by breaking the [taboo].
+
+all for me, for someone like *me.*
+
+to be specific, they were deeds that were considered to be [sins] within my [religion]… to the ordinary person, those acts would not matter, but…
+
+a [sin] is a [sin].
+{% endbubble %}
+
+{% bubble Kanata frown %}
+mikejima was threatened to pay for [them] with his [life]. and he may be [strong], but he was not [invincible].
+
+that is why i [feigned] ignorance and [pretended] not to know him.
+
+i did anything i could to keep him away from me. even the reason he was driven to a [far away country] was because i wanted it.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+……………
+{% endbubble %}
+
+{% bubble Kanata sad %}
+i claimed that i [loathed] him—
+
+that i did not want to see his face anymore—
+
+that i wanted him to stay far away from me—
+
+i [insisted on] it over and over again, until i even made <em>myself</em> [believe] that it is true.
+{% endbubble %}
+
+## Chapter 10
+
+{% bubble Kanata serious %}
+and then—
+
+there was not a single thing that surrounded the empty, hollow me anymore.
+
+it was during that state that i [met] you, chiaki.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+and then, it was you who provided that empty me—
+
+with everything.
+
+you were probably [unaware] of it… but you [reenacted] what were my [happiest memories] when i was a child—
+
+with those [ceremonies], you recovered my [heart].
+
+you brought back everything that i definitely had inside of me a long time ago.
+
+things that were meant to be precious to me.
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/kanataorigcg.jpg %}
+
+{% bubble Kanata smilesoft2 %}
+after that — my [precious things] rapidly increased in number. a hundred, thousand times more than the amount i had when i was young.
+
+honestly, i cannot even hold them all anymore at this point, chiaki.
+
+thank you.
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+There’s no need to thank me.
+
+I only did what is natural to do as a hero— No, as a human being.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+It’s <em>me</em> who should say that to you, Kanata. Thank you for making me into the hero of my dreams.
+{% endbubble %}
+
+{% bubble Kanata grin %}
+yes. we are both grateful to each other, isn’t that right?
+
+ahaha. it is so [late] to [discuss] all of this, huh~
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+You felt like talking about it now, didn’t you? And that’s fine by me, I’ll tag along.
+
+You’ve been flowing along with whatever I wanted to do for so long, after all. It’s now my turn to do the same.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+this is what <em>i</em> want to do as well, chiaki.
+{% endbubble %}
+
+{% bubble Kanata frownshake %}
+but i feel [anxious].
+
+all my [life], i never did what i wanted to do. i beared with it, feigned ignorance, and kept everything at a distance—
+
+that i no longer even know what i [love].
+
+that is why. when i became the [commander] and was told to do what i like, i was [not really sure] what to do, to be honest.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+but you know, while i was [fooling about] with everyone in the same way we always do, i came to understand it.
+
+you see, chiaki, i want to become a hero.[^12]
+
+when i was young, the hero to me was mikejima.
+
+then, as if by [fate], we encountered one another, and my hero became you.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+but. you wanted me to become a hero too, didn’t you? i still remember. i have not forgotten.
+
+i will never forget ever again.
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+we were a hero sentai of only two.
+
+now we have more [members] in our squad, but… you had wanted that from me since that time, yes?
+
+i know i am late to do this, but i will fulfill that desire of yours.
+
+not because i am a [god], but because i am a [human being]. my [human] self wants to do this.
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+first, i will save kona-chan, who looks exactly like my young self. i will become that child’s hero.
+
+with mikejima and chiaki as my [role models]—
+
+i will make sure to save him, as much as i have been saved, at least.
+{% endbubble %}
+
+{% bubble Kanata smile %}
+i am not doing this because he is my [little brother]. it is because he is seeking [help] the [same] way my young self had.
+
+so i, as a hero, will save that child.
+
+that is what i want to do.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Um, I’m not sure if this is alright to ask, but about that boy — Is Konata-kun really your younger brother, Kanata?
+{% endbubble %}
+
+{% bubble Kanata srsthinking %}
+to tell you the truth, i am not sure at all~… there was news of [mother] being in [okinawa], specifically in [hoshijima]—
+
+which i had only vaguely [overheard] during the [ss qualifying round].
+
+but i assume that since [mother] had [nowhere] to go, not only was the [okinawan] group that [branched off] from the main house a good [hiding spot] for her—
+
+but [hoshijima] itself as well, since it was a [confined land].
+{% endbubble %}
+
+{% bubble Kanata serious %}
+so, once various things had [settled], i had a lot of things to [think over] recently—
+
+and so, i tried to go and meet [mother].
+
+i had considered that [she] likely wanted to just be left alone, and did not even want to [see] me of all people—
+
+even so, i wanted to have a [glance] at her while she is still alive.
+{% endbubble %}
+
+{% bubble Kanata sighfrown %}
+but… mother’s [mental state] had become so [ambiguous], that [she] could not even tell i was her [child]—
+
+and that was when i saw him — kona-chan, next to [mother].
+
+a mysterious [child] who looked exactly like my younger self.
+{% endbubble %}
+
+{% bubble Kanata frown %}
+i do not truly know what he is.
+
+for a moment, i thought of something [silly], as if mother brought him to life with her [god] powers.
+
+that perhaps she also missed her [child] so much that she brought about a [miracle].
+{% endbubble %}
+
+{% bubble Kanata idle %}
+but of course, thinking about it with more sense — the fact that he has the [exact same] face as me means it is likely that mother birthed a new [child] here.
+
+but i do not know the [real truth]. the people of that [island] are from the same [religion] as me, so their [roots] are the same—
+
+it is also possible that through very faint [blood] relations, we just so happened to have resembling [faces].
+
+i will not know the [truth] until [mother] comes back to her [senses].
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+but you know, i do not really care either way. i do not even mind if we are [complete strangers].
+
+that child is asking for [help].
+
+and so, i will do [whatever i can] to save him.
+
+in the far future, maybe that child will then [save] someone else… that is how a person’s [kindness] is bound to be inherited from one to another.
+
+that is the [beauty] of being a human being.
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+you were the one who taught me that, chiaki. no, in fact, in order to [prove] that—
+
+and in order to [flaunt] all the things i have [obtained] despite having once been an empty person, to show how amazing they are—
+
+i will [transform] from here onwards.
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+please do watch over me as my hero [senpai], chiaki. and if i manage to do it properly, then please praise me.
+
+pat my head and say i did great, like you always would. ♪
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! 18/30 chapters
+Translation in progress! 22/30 chapters
 {% endnote %}
 
 <div toc>
@@ -1161,9 +1787,15 @@ Translation in progress! 18/30 chapters
 
 ## Translation Notes
 
-[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translaton.
+[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^2]: Suica card is Japan's smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
 [^4]: The time-point Eichi is referring to is March, as that's the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>.
-[^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, a story about Kanata's childhood.
-[^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
+[^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^6]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
+[^7]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
+[^8]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”.
+[^9]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Hitsugi_Kurone" target="_blank">Hitsugi Kurone and NEGI</a>.
+[^10]: Eichi and Chiaki were revealed to have met in a hospital when they were young in <a href="https://hyenahunt.tumblr.com/post/736331182543896576/saga-rivals-12" target="_blank">Saga</a>. <a href="https://ensemble-stars.fandom.com/wiki/Saga" target="_blank">Wiki Link</a>.
+[^11]: The following two chapters refers back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^12]: Something to mention about Kanata and the word “hero”: Kanata always talks in full hiragana (he turns katakana words to deformed hiragana spelling). The only word he always says in the correct way it’s spelt is “hero” (ヒーロー, in katakana).

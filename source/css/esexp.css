@@ -300,6 +300,9 @@
 [character="Chiaki"][sighdrop] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sighdrop.png");
 }
+[character="Chiaki"][sighfrown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sighfrown.png");
+}
 [character="Chiaki"][sightired] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_sightired.png");
 }
@@ -375,6 +378,9 @@
 }
 [character="Chiaki"][herotoocg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_herotoocg.png");
+}
+[character="Chiaki"][stellaocg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_stellaocg.png");
 }
 
 
@@ -524,7 +530,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sad2.png");
 }
 [character="Kanata"][sad3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sad3.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sad.png");
 }
 [character="Kanata"][sad4] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_sad4.png");
@@ -1033,15 +1039,6 @@
 }
 [character="Tetora"][svbcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_svbcg.png");
-}
-
-
-[character=TetoraS]{
-  --color:#302833;
-  --name: "Tetora & Shinobu";
-  --light-mode:hsl(284, 9%, 94%);
-  --dark-mode:hsl(284, 5%, 24%);
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_shinobu.png")
 }
 /**
 ***/
@@ -1570,6 +1567,9 @@
 }
 [character="Eichi"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_smile.png");
+}
+[character="Eichi"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_smileconfident.png");
 }
 [character="Eichi"][smilesoft2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_smilesoft2.png");
@@ -2628,6 +2628,22 @@
   --name: "Aquarius";
   --hue: 193.8;
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/aquarius.png");
+}
+
+[character=TetoraS]{
+  --color:#302833;
+  --name: "Tetora & Shinobu";
+  --light-mode:hsl(284, 9%, 94%);
+  --dark-mode:hsl(284, 5%, 24%);
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_shinobu.png")
+}
+
+[character=TetoraShinobuSleep]{
+  --color:#302833;
+  --name: "Tetora & Shinobu";
+  --light-mode:hsl(284, 9%, 94%);
+  --dark-mode:hsl(284, 5%, 24%);
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_tetorashinobusleep.png")
 }
 
 [character=TetoraChiaki]{
