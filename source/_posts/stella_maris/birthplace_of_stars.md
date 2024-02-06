@@ -1041,7 +1041,7 @@ is mother doing well?
 {% endbubble %}
 
 {% bubble Konata norsmile %}
-Eh? Yes, as you know, after living under such harsh conditions for half her life, she’s been in an awfully unstable mental state, so it’s unclear… Well, she’s been like that for a long time.
+Eh? Yes, as you know, after living under such harsh conditions for half her life, she’s been in an awfully unstable, ambiguous mental state… Well, she’s been like that for a long time.
 
 Her physical health is perfectly fine, however. She always treats me so kindly.
 {% endbubble %}
@@ -1375,7 +1375,7 @@ I guarantee you that “it” will definitely not get in the way of your goals.
 {% endbubble %}
 
 {% bubble Eichi smile %}
-Oh? I would’ve scoffed if anyone else said that to me, but for some strange reason, I feel I can trust those words when it comes from you — Chiaki.
+Oh? I would’ve scoffed if anyone else said that to me, but for some strange reason, I can trust those words when it comes from you — Chiaki.
 
 Fufu. How nostalgic. Didn’t we also huddle close and speak of our dreams back when we were children in the hospital?[^10]
 
@@ -1410,7 +1410,7 @@ But just look at us now. To this very day, the stars in the sky and our dreams a
 <th>(We’re probably going to get extremely busy starting tomorrow. They’ll have to rest well tonight, or they’ll only collapse midway.)</th>
 {% endbubble %}
 
-{% bubble Chiaki yoshi %}
+{% bubble Chiaki nod %}
 <th>(Mhm. Nagumo, sound asleep\~ Sengoku, sound asleep\~)</th>
 {% endbubble %}
 
@@ -1612,7 +1612,7 @@ things that were meant to be precious to me.
 
 {% img /img/es/eventstory/stellamaris/kanataorigcg.jpg %}
 
-{% bubble Kanata smilesoft2 %}
+{% bubble Kanata stellaocg %}
 after that — my [precious things] rapidly increased in number. a hundred, thousand times more than the amount i had when i was young.
 
 honestly, i cannot even hold them all anymore at this point, chiaki.
@@ -1797,5 +1797,5 @@ Translation in progress! 22/30 chapters
 [^8]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”.
 [^9]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Hitsugi_Kurone" target="_blank">Hitsugi Kurone and NEGI</a>.
 [^10]: Eichi and Chiaki were revealed to have met in a hospital when they were young in <a href="https://hyenahunt.tumblr.com/post/736331182543896576/saga-rivals-12" target="_blank">Saga</a>. <a href="https://ensemble-stars.fandom.com/wiki/Saga" target="_blank">Wiki Link</a>.
-[^11]: The following two chapters refers back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^11]: The following two chapters refer back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
 [^12]: Something to mention about Kanata and the word “hero”: Kanata always talks in full hiragana (he turns katakana words to deformed hiragana spelling). The only word he always says in the correct way it’s spelt is “hero” (ヒーロー, in katakana).

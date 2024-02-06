@@ -703,6 +703,9 @@
 [character="Kanata"][csbcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_csbcg.png");
 }
+[character="Kanata"][stellaocg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_stellaocg.png");
+}
 
 [character="Kanata"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast_cg.png");
