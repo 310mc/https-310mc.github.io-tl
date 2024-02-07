@@ -125,7 +125,7 @@ ES’s morphing into an evil organization hasn’t stopped at all, huh.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-It would’ve been much simpler if ES was merely an evil organization, though. We would’ve only needed to thwart their over-ambitious goals.
+It would’ve been much simpler if ES was merely an evil organization, though. We would’ve only needed to thwart their overly-ambitious goals.
 
 However, to us idols who profit greatly the more ES flourishes, that’s entirely unfeasible.
 
@@ -689,7 +689,7 @@ I’m a guy you can always rely on! But of course, this job is focused around Ka
 {% endbubble %}
 
 {% bubble Kanata smileconfident %}
-no, no. you are just the [right person] for this [job]. we can achieve so much by covering for each other’s [shortcomings], yes?
+no, no. you are just the [right person] for the [job]. we can achieve so much by covering for each other’s [shortcomings], yes?
 
 as long as we do that, we will never lose to anyone.
 
@@ -1786,7 +1786,7 @@ pat my head and say i did great, like you always would. ♪
     <p>In the coastline of Hoshijima, inside the mysterious “building” that has been embellished ever-so curiously…</p>
 </div>
 
-{% bubble Kanata fist %}
+{% bubble Kanata grin %}
 traaansform~☆
 
 okay, has everyone completed their [transformation]? are you [fully] prepared~?
@@ -2063,7 +2063,7 @@ let’s all do it together now — those interesting things.
 </div>
 
 {% bubble Eichi snicker %}
-…Pfft. ♪
+……Pfft. ♪
 {% endbubble %}
 
 {% bubble Eichi awkward %}
@@ -2089,7 +2089,7 @@ So, as someone who didn’t fight him directly, I haven’t truly experienced ju
 
 That being said, I do remember quite well the eerie atmosphere that surrounded the events related to the Yaobikuni during the War Days.
 
-It was beyond human comprehension, so I can’t properly explain what it was like.
+It was beyond human comprehension, and I can’t properly explain what it was like.
 
 I also never saw the incident itself. However, I remember well the astonished look on Keito’s face after he had clashed with Shinkai-kun — As if he had witnessed something “completely out of this world”.
 
@@ -2111,7 +2111,7 @@ Are we sure it’s going to go okay? Restoring a ruined island is a pretty serio
 {% bubble Eichi smileconfident %}
 Who knows? Fufu, in fact, this is the perfect moment to say “Only God knows”. ♪
 
-They aren’t fictional heroes who can always overcome any huge predicament without exception, so they can’t avoid worrying those watching over them…
+They aren’t fictional heroes who can always overcome any huge predicament without exception, and so they can’t avoid worrying those watching over them…
 
 But for some strange reason, I hold an illogical conviction that, as long as it’s them, they’ll be able to solve any problem that comes their way.
 {% endbubble %}
@@ -2143,11 +2143,325 @@ Be it a hero, a god… or maybe even an idol that represents your ideal self—
 
 I’m sure the lives of people who’ve found that sparkling something are filled with happiness, aren’t they?
 
-And I bet those Ryuseitai guys are trying to be “exactly that”, yeah? Well, not that I’d know what idiots are up to~
+And I bet those Ryuseitai guys are trying to become “exactly that”, yeah? Well, not that I’d know what a bunch of idiots are up to~
+{% endbubble %}
+
+## Chapter 13
+
+{% img /img/es/eventstory/stellamaris/p2_13.jpg %}
+
+{% bubble Konata smile %}
+……♪
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Nyahaha\~ You look like you’re having fun too, Konata-sama\~?
+{% endbubble %}
+
+{% bubble Konata norsmile %}
+Yes, I am. Ever since I encountered everyone from Ryuseitai, all I’ve been experiencing are enjoyable things.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Mhm, mhm. I thought it was a one-time joke, but they’re really doing those fish-like movements even on stage\~. It’s such a delight to see\~♪
+{% endbubble %}
+
+{% bubble Konata nod2 %}
+Indeed. It sort of makes you want to copy their movements, doesn’t it? All wiggly and wobbly~…♪
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Cuuute\~♪ How about you copy after Kanata-sama and become an idol too, Konata-sama\~? I’m sure you’d get raving reviews for being so adorable\~?
+{% endbubble %}
+
+{% bubble Konata norsmile %}
+I do somewhat admire what they do as well, but… I have a duty to lead all the people of Hoshijima.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+That’s not a responsibility to throw on a kid, though\~? My grandpa likes to lead people, so why not leave that job to elders with free time like him\~?
+
+Plus, in reality, Konata-sama is just a symbol of the island; the actual management is done by the adults, right?
+{% endbubble %}
+
+{% bubble Konata frown %}
+Yes. That is why even if I proclaim myself as a higher-up of the island and act important, the fact of the matter is that I have no authority whatsoever.
+
+Of course, everyone respects me. However, for any major decisions that could change the state of the island, it is necessary to obtain approval from the adults, not me.
+
+Even if I were accepting of change, that would simply just be my own personal feelings on the matter when it all comes down to it.
+
+Having gatherings to play childish games will not be enough to alter the entire island.[^16]
+
+I am a child, so such games can still fool me — but the same can’t be said for adults, correct?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+I wonder\~? The people acting like grown-ups, including me — We’re all just kids assuming the role of an adult\~?
+
+So I bet adults would genuinely be amazed if they witnessed something awesome, just like kids~.
+
+They’ll be so surprised and moved, that it’ll make them smile~♪
+
+Really, it’s just that adults have lived for a long time and have seen a lot of amazing things countless times, so their senses just grew numb over time, yeah~?
+{% endbubble %}
+
+{% bubble Konata %}
+Indeed, Mizusaba-san gives the impression of someone who would remain composed no matter the situation, unlike me.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Oh\~? Why does it feel like you’re casually treating me like an old and slow person whose senses have completely died\~? Despite how I seem, I’m actually underage, y’know\~?
+{% endbubble %}
+
+{% bubble Konata smileconfident %}
+Ah, really? You seem so mature, perhaps because of your huge size. You’re so young, yet you’re working already — That’s admirable!
+{% endbubble %}
+
+{% bubble Mizusaba %}
+You could say the same about Ryuseitai~. Well, following up what you said with that makes it sound like I’m indirectly complimenting myself…
+
+But still, it’s admirable that they feel the urge to do something for someone else’s sake despite their young age~♪
+
+They’re incredible people to respect~♪
+{% endbubble %}
+
+{% bubble Konata norsmile %}
+Yes. I would like to become like that, as well.
+
+A respectable human being, just like them.
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>The screen shakes</p>
+</div>
+
+{% bubble Konata surprised %}
+…W-Woah? The area shook slightly just now, didn’t it? This means that Ryuseitai’s stage has truly begun at last, right?
+{% endbubble %}
+
+{% bubble Mizusaba %}
+Be careful not to trip on yourself, okay\~. I’ll lift you up\~, Konata-sama.
+{% endbubble %}
+
+{% bubble Konata sad2 %}
+Mmrph… I cannot stand how I can only ever be protected. I want to become an adult already.
+{% endbubble %}
+
+{% bubble Mizusaba %}
+No need to be in a rush\~, we have to take it nice and slow… Okay\~? ♪ Doesn’t matter if it’s human or fish, any living being has to go through that, y’know\~?
+
+Even the whale shark “Mizusaba” wasn’t huge from the start\~. When I was younger, I’d always rely on Grandpa and Ani-sama\~.
+{% endbubble %}
+
+{% bubble Konata %}
+Mm… The way you and I look right now is surely the same relationship that Hoshijima and the Okinawa mainland have.
+
+Being spoiled and pampered while carried by a large being—
+{% endbubble %}
+
+{% bubble Konata smilesoft %}
+However, we <em>will</em> change. It might be hard to do so immediately… But still, that is why you don’t need to carry me like this.
+
+Mizusaba-san is huge, so I cannot see in front of me when you carry me.
+
+But you see, I would like to witness it all.
+
+The scenery of Hoshijima as it changes—
+
+The very way that the world we live in changes form entirely.
+{% endbubble %}
+
+## Chapter 14
+
+{% img /img/es/eventstory/stellamaris/p2_14.jpg %}
+
+{% bubble Kanata smile %}
+“♪\~♪\~♪”
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+“~…♪”
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+T-This is an even more peculiar atmosphere than I had imagined.
+{% endbubble %}
+
+{% bubble Midori idle %}
+Yeah… Though, I think as part of Shinkai-senpai’s plan, he asked Konata-kun to help him call over all the people across the island to join this “stage” as guests.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Mm. It seems that as per our plan, they’ve gathered to the stage in curiosity, wondering what’s going on, but—
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+Such a large number of people have gathered here, yet I hear none of the cheers from earlier… What on earth is with this awfully somber atmosphere?
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+Yeah, right…? It’s completely different from our usual audience… But I guess with commanders changing every time, so would the unit’s direction, and that means the type of audience, too…
+{% endbubble %}
+
+{% bubble Tetora serious %}
+The atmosphere becoming <em>this</em> bizarrely supernatural is unheard-of for our stages, isn’t it?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah. Although, Kanata deliberately prepared a bright song and performance, as he predicted it’d be a problem if the atmosphere becomes too grim.
+
+On the other hand, the air of our performance and the supernatural atmosphere are a bad combination — it’s created a bizarre ambience here.
+{% endbubble %}
+
+{% bubble Midori worried %}
+It’s reaching a point where it feels too unbearable to be onstage, though…?
+{% endbubble %}
+
+{% bubble Kanata scold %}
+hey\~! [focus], please! i do understand how you all feel, okay\~?
+
+i also did not [expect] it to get this [solemn]. maybe i should not have introduced myself as [god] after all~?
+{% endbubble %}
+
+{% bubble Kanata idle %}
+i did mention before that the people of [hoshijima] are much more [devoted] to the religion than the people of my [area] are, after all.
+
+so since this is “god’s stage”, they are watching us extremely [seriously].
+{% endbubble %}
+
+{% bubble Shinobu frown %}
+Well, despite how it may feel, I do understand that it was necessary for Shinkai-dono to refer to himself as “god” in order to have the islanders earnestly hear us out.
+{% endbubble %}
+
+{% bubble Tetora worried %}
+But it <em>seriously</em> feels like we’re in some kinda religious ritual, y’know…? We’re just casually singing ‘bout fishes onstage, so the contrast is crazy!
+{% endbubble %}
+
+{% bubble Chiaki norsmile2 %}
+This island <em>did</em> have zero connections to idol culture for a very long time, so I don’t even think the islanders themselves know how they’re supposed to behave here.
+
+I don’t believe that they are put off by our stage or think it’s boring or anything. Mm, hopefully.
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+True, looking at their expressions, they seem to be enjoying themselves.
+{% endbubble %}
+
+{% bubble Shinobu smile %}
+Mhm. It’s simply that the way they’re reacting is weak. Otherwise, they seem to be responding with a fair amount of joy in their own way.
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Fufu. Now that I think about it, it’s rare for us to perform in front of an audience like this.
+
+Typically, our main audience are kiddos who love heroes, particularly back during our Yumenosaki days.
+
+To those kids, tokusatsu shows are something that naturally exists. They would know the gist of it even if we didn’t explain it to them.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+However, idols and heroes are something completely unknown to the people of this island, right?
+
+Human beings have always feared the dark since ancient times. The unknown is terrifying.
+
+Just as we feel reluctant towards a religion we don’t know well—
+
+The people of Hoshijima see what is common sense to <em>us</em> as the terrifying unknown.
+{% endbubble %}
+
+{% bubble Kanata serious %}
+yes. that is also likely why they [opposed] the [restoration] of [hoshijima], even though it [benefits] them, too.
+{% endbubble %}
+
+{% bubble Tetora serious %}
+Yeah, they were against the construction of an amusement park in Hoshijima, and hindered its progress, right?
+{% endbubble %}
+
+{% bubble Kanata frown %}
+yes. while of course, it is a [wrongful deed] where they had gone a little [too far], and should be tried under [law]…
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+There’s marginal space to take the circumstances into account. Having the urge to get rid of terrifying things from your sight is a natural instinct found not only in mankind, but among living things as a whole.
+
+No… It’s a natural instinct to try and remove any foreign material that could destroy this peaceful world.
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/chiakibcg.jpg %}
+
+{% bubble Chiaki stellabcg %}
+To the people of Hoshijima, we— <em>ES</em> itself was the evil organization, the monster villain, the kaijuu.
+
+I doubt that the radical people of Hoshijima wanted to cause actual harm.
+
+On the contrary, they were trying to stand strong and fight against that kaijuu, all for the sake of protecting their beloved world.
+
+That’s exactly why — If they were to learn that the kaijuu has a heart of its own, that it’s possible to get along if they were to talk it out… They would surely stop their attacks.
+
+Even tokusatsu heroes don’t ever one-sidedly eradicate evil without question.
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+It’s overbearing how Senpai compares everything to tokusatsu… But, well, I get what you’re trying to say.
+{% endbubble %}
+
+{% bubble Tetora smileconfident %}
+Ossu. We also wanted to get along as much as possible. We wanted to come to understand the situation and accept the changes.
+
+Rather than forcing change on us by getting invaded and trampled on, we wanted to walk down the path side-by-side together.
+
+Not just that… We wanted to build a happy future together.
+{% endbubble %}
+
+{% bubble Tetora norsmile2 %}
+All the things ES didn’t do for us, we’d like to do ‘em for the people of Hoshijima. Abused kids don’t always turn into abusers themselves.
+
+In fact… If we become respectable parents without ever warping or corrupting despite everything — only then would it truly be our victory.
+{% endbubble %}
+
+{% bubble Midori smile %}
+I don’t think life is all about wins and losses, but I sorta get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a miserable person, either…
+
+If I can live my life straightforwardly, then that’s always gonna be the best option, right?
+{% endbubble %}
+
+{% bubble Shinobu fist %}
+Mhm! Let’s live our lives with pride, now and forever!
+{% endbubble %}
+
+{% bubble Kanata grin %}
+fufufu~ you have all grown up to be so [splendid], haven’t you?
+
+doesn’t it make you feel proud as well, chiaki~♪
+{% endbubble %}
+
+{% bubble Chiaki cryalmost %}
+Sorry, can I cry a little bit?[^17]
+{% endbubble %}
+
+{% bubble Kanata grin %}
+no, you cannot~ we should keep [smiling] until our performance ends, right?
+
+that is what ryuseitai is all about.
+{% endbubble %}
+
+{% bubble Kanata smileexplain %}
+“—hello, everyone.”
+
+“people of [hoshijima], please look around you.”
+
+“we are grateful that you have all given your [attention] to our [stage], but it seems, as well, that there is something you all have not noticed yet—”
+
+“this is no longer the [hoshijima] that you all know.”
+{% endbubble %}
+
+{% bubble Kanata smileconfident %}
+“the [building] we have asked you to gather in is not actually a [building]; it was a [ship] all along!”
 {% endbubble %}
 
 {% note narration %}
-Translation in progress! 24/30 chapters
+Translation in progress! 26/30 chapters
 {% endnote %}
 
 <div toc>
@@ -2174,3 +2488,5 @@ Translation in progress! 24/30 chapters
 [^13]: The word Tetora uses for “leader” is <em>hatagashira</em> (旗頭), which is also a word related to an Okinawan festive event.
 [^14]: These lines of dialogue are referring to the events that happened in <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the story that shows how Kanata was subjugated as an Eccentric.
 [^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
+[^16]: The word used here for “childish” is <em>kodomo-damashi</em>, lit. things that can only deceive children. It's a word sometimes used in Enstars stories in reference to tokusatsu shows (typically translated to “kiddie stuff” or something similar).
+[^17]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.

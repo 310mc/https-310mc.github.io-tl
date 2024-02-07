@@ -557,7 +557,7 @@ Uuu~… It’s a li’l frustrating to think that we’ll have to depend on him 
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-He’s simply the right person to consult with for this situation, that is all. What someone else is unable to do, someone else will do. That is how a hero sentai accomplishes everything and ultimately wins.
+He’s simply the right person to consult with for this situation, that is all. What someone is unable to do, someone else will do. That is how a hero sentai accomplishes everything and ultimately wins.
 {% endbubble %}
 
 {% bubble Tetora %}

@@ -296,7 +296,7 @@ and~ with enough effort, we can be eaten as *kamaboko!*[^8] mr. [shark]!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-With the five of us together! We are “Fish Ryuseitai”!
+With the five of us together! We are “fish Ryuseitai”!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
