@@ -11,7 +11,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -482,7 +481,11 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 <big>Thank you for reading Ryuseitai's Climax Event! Please scroll down or click <a href="#Story-Highlights-Text" target="_blank">here</a> for the text version!</big>
 
+<big>Please take a look at the song lyrics for this event too, <a href="/our_stella" target="_blank">Our Stella</a>.</big>
+
 {% img /img/es/eventstory/stella_maris/storyhighlights.png %}
+
+<big><a href="/img/es/eventstory/stella_maris/storyhighlights.png" target="_blank">Full view here.</a></big>
 
 ### Story Highlights Text
 
@@ -499,6 +502,8 @@ Kanata was once an empty person after becoming a god, and Chiaki was the one who
 It may be scary to dive into an unfamiliar world. However, they will stand on the same footing as you to see your perspective, stretch out their hands, and while a little forceful, they will give you the courage to take a step forward. They will show you the radiance of many stars, and walk down the path with you. That is who Ryuseitai is right now.
 
 It’s exactly because they’ve obtained the sparkling stars that they once wished for from the bottom of the ocean, that they will continue to bring courage and smiles to others.
+
+<hr>
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>

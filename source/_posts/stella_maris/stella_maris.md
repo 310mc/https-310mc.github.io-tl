@@ -474,10 +474,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="birthplace_of_stars" id="none">birthplace of stars</a>
                         </li>
                         <li>
-                            <a href="" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                         <li>
-                            <a href="" id="none">Story Highlights</a>
+                            <a href="epilogue#Story-Highlights" id="none">Story Highlights</a>
                         </li>
                     </ul>
                 </div>
