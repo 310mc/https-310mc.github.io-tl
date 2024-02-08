@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Epilogue"
-date: 2024-1-15 9:01:00
+date: 2024-2-8 9:01:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -59,7 +59,7 @@ hidden: true
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#TBA">TBA</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <!--
 <div toc>
@@ -78,6 +78,14 @@ hidden: true
 <div class="msr-narration">
     <p>ADD…</p>
 </div>
+
+## Story Highlights
+
+<big>Thank you for reading Ryuseitai's Climax Event! Please scroll down for the text version!</big>
+
+{% img /img/es/eventstory/stella_maris/storyhighlights.jpg %}
+
+### Text Version
 
 -->
 

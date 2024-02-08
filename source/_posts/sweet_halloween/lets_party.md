@@ -429,7 +429,7 @@ When I was a young, innocent kid, I watched those without forethought… Then I�
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-Uuu… Doctor Shinigami[^3] is super scary… The air he gives off feels so intense that it’s just terrifying.
+Uuu… Doctor Shinigami is super scary… The air he gives off feels so intense that it’s just terrifying.[^3]
 {% endbubble %}
 
 {% bubble Midori awkward %}

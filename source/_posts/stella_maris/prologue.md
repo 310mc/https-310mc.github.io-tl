@@ -232,7 +232,7 @@ Ossu. Except, while Midori-kun, Shinobu-kun, and I got to experience being the c
 {% endbubble %}
 
 {% bubble Kanata scold %}
-hey~! you should call me “taichou”[^5] right now!
+hey~! you should call me “taichou” right now![^5]
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
@@ -296,7 +296,7 @@ and~ with enough effort, we can be eaten as *kamaboko!*[^8] mr. [shark]!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-With the five of us together! We are “fish Ryuseitai”!
+With the five of us together! We are “fish Ryuseitai”![^9]
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -317,4 +317,5 @@ Kya-kya! ☆ Kya-kya! ☆
 [^5]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
 [^6]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
 [^7]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it's said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it's rotten, it's still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
-[^8]: Kamaboko is a sort of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
+[^8]: Kamaboko is a kind of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
+[^9]: The “fish” in fish Ryuseitai is in hiragana, and “Ryuseitai” remains in kanji. Kanata talks only in hiragana, so to match that, I kept the word in hiragana as well. Together, the name lit. means “fish shooting star/meteor squad”.

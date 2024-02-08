@@ -433,7 +433,7 @@ I see that you’re drawing something with your finger…?
 {% bubble Kanata v2 %}
 fufufu\~ are you that curious to know what i am up to, chiaki\~?
 
-you see, i was thinking about what i will do when i become the commander of ryuseitai.
+you see, i was thinking about what i will do when i become the commander of ryuseitai.[^4]
 {% endbubble %}
 
 {% bubble Chiaki nod %}
@@ -575,7 +575,7 @@ Heh, it’s just like the art of transformation~♪
 {% bubble Tetora v2 %}
 Art of transformation, huh… That’s a good point; Ryuseitai have been heroes of justice for a long time, but… Dependin’ on the song, we should be able to show off all sortsa versions of ourselves.
 
-I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^4]
+I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^5]
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -907,7 +907,7 @@ Do you guys know about “Tropical Island Troppeys”?
 
 You’ll find them in the documents. They’re a group of animal mascot characters who enjoy their lives on a tropical island.
 
-To be more specific, they’re actually mascot characters that existed <em>before</em> it became a trend to make the sort of mascots you see today.[^5]
+To be more specific, they’re actually mascot characters that existed <em>before</em> it became a trend to make the sort of mascots you see today.[^6]
 
 But either way, they’re definitely one of the original sets of mascot characters.
 {% endbubble %}
@@ -1019,7 +1019,7 @@ It should help you get an understanding of mascots, and even soothe you with the
 
 I’m sure you’ll all come to understand the beauty of mascots once you get to know them.
 
-The new Ryuseitai that I thought up is… “Yuruseitai”…![^6]
+The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 {% endbubble %}
 
 <div toc>
@@ -1034,6 +1034,7 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^6]
 [^1]: Mitsuru is roommates with Midori (along with Ibara and Tsumugi).
 [^2]: In Japanese, the names are as follows: Kumagon, Namakesan, Arumajirou, Kiwi, Kamohasshii. Because it's unclear which animal some of them are if left in Japanese, I decided to give them an English equivalent name. All these mascots can be seen in the <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">MV</a> of this event.
 [^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori's Idol Story 1</a>, too.
-[^4]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
-[^5]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
-[^6]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Laid-back/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).
+[^4]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
+[^5]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
+[^6]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
+[^7]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Laid-back/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

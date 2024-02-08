@@ -102,9 +102,9 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 
 <th>(What do I do? What do I do? I’m in a huge predicament.)</th>
 
-<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, gosh, I knew this already, but… this wouldn't go like a tokusatsu show would, huh!?)</th>
+<th>(Think, Morisawa Chiaki! Think of a way to break out of this dilemma! Ahhh, gosh, I knew this already, but… this wouldn’t go like a tokusatsu show would, huh!?)</th>
 
-<th>(This isn't something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
+<th>(This isn’t something I could settle by doing a grand transformation sequence and defeating the evil, huh!? Yep, not happening! Think more realistically!)</th>
 {% endbubble %}
 
 {% bubble Chiaki sad4 %}
@@ -142,7 +142,7 @@ O-Ow… I’m alright~! I’m so sorry, I was also walking with my head in the c
 {% endbubble %}
 
 {% bubble Chiaki %}
-No, no, it's my bad![^2] The papers you were holding flew everywhere because of me — Hold on, I’ll pick them all up for you!
+No, no, it’s my bad![^2] The papers you were holding flew everywhere because of me — Hold on, I’ll pick them all up for you!
 {% endbubble %}
 
 {% bubble Hajime worried %}

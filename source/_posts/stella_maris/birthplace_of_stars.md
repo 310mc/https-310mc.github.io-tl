@@ -219,7 +219,7 @@ in other words, its [current state] would become [clear] to him.
 {% endbubble %}
 
 {% bubble Tetora northinking %}
-Makes sense, ‘cuz in reality, society’s understanding of idols is being rapidly repainted thanks to ES. The way idols were seen in the past isn’t relevant anymore.
+Makes sense, ‘cuz in reality, society’s understanding of idols is bein’ rapidly repainted thanks to ES. The way idols were seen in the past isn’t relevant anymore.
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -283,7 +283,7 @@ W-Why, Tenshouin!? Do you hate me!?
 {% endbubble %}
 
 {% bubble Eichi frown2 %}
-Well, if I had the choice between “like” and “dislike”, I’d choose the latter… And as it gets hotter here, I think I’ll grow to dislike you even more.
+Well, if I had the choice between “like” and “dislike”, I’d choose the latter… And as it gets hotter here, I think I’ll grow to despise you even more.
 {% endbubble %}
 
 {% bubble Tori scold %}
@@ -1981,7 +1981,7 @@ let’s become [stars] that light up the [world] just like that.
 {% endbubble %}
 
 {% bubble Tetora smile %}
-Ossu. I always feel like Shinkai-Taichou’s words are floaty and demand reading comprehension, but…
+Ossu. I always feel like Shinkai-Taichou’s words are floaty and demand comprehension skills, but…
 
 This time around, it was super easy to understand what you said.
 
@@ -2023,7 +2023,7 @@ fufufu. you make it sound like i am a [saint], but i simply just did not have an
 {% bubble Tetora stellabcg %}
 Still, I always felt so grateful for it.
 
-That’s why this time around, I wanna support what you wanna do as the leader, Shinkai-Taichou![^13] No, not just that — I wanna reach that goal together!
+That’s why this time around, I wanna support what you wanna do as the leader, Shinkai-Taichou! No, not just that — I wanna reach that goal together![^13]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -2417,11 +2417,11 @@ Not just that… We wanted to build a happy future together.
 {% bubble Tetora norsmile2 %}
 All the things ES didn’t do for us, we’d like to do ‘em for the people of Hoshijima. Abused kids don’t always turn into abusers themselves.
 
-In fact… If we become respectable parents without ever warping or corrupting despite everything — only then would it truly be our victory.
+In fact… If we become respectable parents without ever warping or corrupting despite everythin’ — only then would it truly be our victory.
 {% endbubble %}
 
 {% bubble Midori smile %}
-I don’t think life is all about wins and losses, but I sorta get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a miserable person, either…
+I don’t think life is all about wins and losses, but I somehow get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a miserable person, either…
 
 If I can live my life straightforwardly, then that’s always gonna be the best option, right?
 {% endbubble %}

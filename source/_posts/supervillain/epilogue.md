@@ -286,4 +286,4 @@ It really is just like us Ryuseitai to be messing around like this, right?
 
 ## Translation Notes
 [^1]: Chuunibyou are essentially kids who are really into dark, edgy things, and may even take on a persona like that.
-[^2]: If you'd like to learn more about Ryuseitai Green, please read <a href="/tropical" target="_blank">Tropical</a>, which is set after this story.
+[^2]: If you’d like to learn more about Ryuseitai Green, please read <a href="/tropical" target="_blank">Tropical</a>, which is set after this story.

@@ -104,7 +104,7 @@ Heheh, I cannot wait to be next so that I may lead “RY”!
 {% bubble Midori frown %}
 Erm, I’m aware that we‘ve decided to take turns being the leader of Ryuseitai…
 
-I mean, the leadership stuff was the whole reason things got tense in our unit[^5], so I’m not against it…
+I mean, the leadership stuff was the whole reason things got tense in our unit, so I’m not against it…[^5]
 {% endbubble %}
 
 {% bubble Midori frustrated %}
@@ -274,7 +274,7 @@ so let’s decide on who is next through [lottery], and [settle] on that~♪
 {% bubble Chiaki fist %}
 Alright then, leave it to me! I’ll use this white board we brought, and these color magnets…[^9] *<th>(Scribbles on the board)</th>*
 
-And done! I’ve set up a ladder lottery[^10] to decide who will be the next leader!
+And done! I’ve set up a ladder lottery to decide who will be the next leader![^10]
 {% endbubble %}
 
 {% bubble Tetora idle %}

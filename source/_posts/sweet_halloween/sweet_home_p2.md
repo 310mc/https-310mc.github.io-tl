@@ -111,7 +111,7 @@ Yeah, he wears glasses during class, too. You’re in class B, so you didn’t k
 {% endbubble %}
 
 {% bubble Nazuna yawn %}
-Wow, really… Seeing a whole ‘nother side to someone is part'a what’s so greatabout sleepovers, huh… <em><th>(yawns)</th></em> ♪
+Wow, really… Seeing a whole ‘nother side to someone is part’a what’s so greatabout sleepovers, huh… <em><th>(yawns)</th></em> ♪
 {% endbubble %}
 
 {% bubble Chiaki mgn %}

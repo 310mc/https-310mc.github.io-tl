@@ -101,7 +101,7 @@ Ehhh? Why would they do a huge cleanup like that *again*…? Are they trying to 
 {% endbubble %}
 
 {% bubble Tetora %}
-Actually, hold on! You two were being so reserved about this! You could’ve told us from the start — We could’ve helped you out!
+Actually, hold on! You two were being so reserved about this! You could’ve told us from the start — We would’ve helped you out!
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/prologue_1.jpg %}
@@ -161,7 +161,7 @@ However, please do not make light of us, Taichou-dono. We did not work hard just
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ohh, is that so…♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all for the sake of justice, didn’t you!?
+Ohh, is that so…♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all in the name of justice, didn’t you!?
 {% endbubble %}
 
 {% bubble Shinobu %}

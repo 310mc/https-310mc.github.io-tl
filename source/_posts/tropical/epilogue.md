@@ -290,7 +290,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 <th>(we went through many [ups] and [downs] until we completely changed [form] in ryuseitai, but… those [hardships] are what strengthened everyone.)</th>
 
-<th>(i am excited for the day that i am [commander], but i am even more excited to see everyone’s [growth].)</th>
+<th>(i am excited for the day that i am [commander], but i am even more excited to see everyone’s [growth].)</th>[^2]
 {% endbubble %}
 
 {% img /img/es/eventstory/tropical/kanatabcg.jpg %}
@@ -302,7 +302,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 “tropical island troppeys, i will also heal everyone alongside you~♪”
 
-“…puka! ♪”[^2]
+“…puka! ♪”[^3]
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
@@ -458,4 +458,5 @@ After all, *I’m* the one and only commander of Yuruseitai.
 ## Translation Notes
 
 [^1]: Uchiwa fans look like <a href="https://simple.wikipedia.org/wiki/Uchiwa" target="_blank">this</a>.
-[^2]: It’s possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee’s. You can read more about Kanatee in Kanata’s Idol Story 1 and 2.
+[^2]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
+[^3]: It’s possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee’s. You can read more about Kanatee in Kanata’s Idol Story 1 and 2.

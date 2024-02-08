@@ -1192,7 +1192,7 @@ Wha— What is this…?
 
 “The mystery deepens! Ryuseitai, the unit that was said to be the oldest powerhouse in Yumenosaki Academy, is unable to stop its impending disintegration” — Mmm~?
 
-What? What's going on here? Why’s the situation getting even *worse* before our very eyes…?
+What? What’s going on here? Why’s the situation getting even *worse* before our very eyes…?
 {% endbubble %}
 
 {% bubble Chiaki frownshake %}
@@ -1332,8 +1332,8 @@ We *have* to solve this unprecedented problem.
 
 ## Translation Notes
 
-[^1]: This is originally referring to an idiom that goes, “you won't find a loach under the willow”, meaning just because you were lucky to succeed once, doesn't mean you'll succeed again with the same method.
+[^1]: This is originally referring to an idiom that goes, “you won’t find a loach under the willow”, meaning just because you were lucky to succeed once, doesn’t mean you’ll succeed again with the same method.
 [^2]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”.
-[^3]: Tetora speaks differently starting from here, and will continue to do so for the majority of this story. He doesn't use his typical “Ossu”, and “~ssu” ending speech quirk. He instead talks more plainly, without any particular speech quirk.
+[^3]: Tetora speaks differently starting from here, and will continue to do so for the majority of this story. He doesn’t use his typical “Ossu”, and “~ssu” ending speech quirk. He instead talks more plainly, without any particular speech quirk.
 [^4]: “Oni” means demon or ogre.
 [^5]: Gorgom is a fictional criminal group from Kamen Rider Black. For more information, go <a href="https://kamenrider.fandom.com/wiki/Gorgom" target="_blank">here</a>.

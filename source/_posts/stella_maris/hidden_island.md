@@ -203,7 +203,7 @@ M-Mm! I’ll make sure that I use the right amount!
 {% endbubble %}
 
 {% bubble Shinobu grin %}
-Fufu. Morisawa-dono, you worry about what others say about you… You are surprisingly delicate, aren’t you?[^3]
+Fufu. Morisawa-dono, what people say to you weighs on your mind… You are surprisingly delicate, aren’t you?[^3]
 {% endbubble %}
 
 {% bubble Chiaki frustrated %}
@@ -393,7 +393,7 @@ But I appreciate the thought, Midori-kun. It really makes me happy.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-You see, I was continuously participating in a harsh show called “2x2” up until recently[^10]… And for the whole duration, my troublesome friend made me go through a lot with his whims.
+You see, I was continuously participating in a harsh show called “2x2” up until recently… And for the whole duration, my troublesome friend made me go through a lot with his whims.[^10]
 
 So a friend simply showing concern for me is enough to move my heart.
 {% endbubble %}
@@ -569,11 +569,11 @@ That’s Shinkai-senpai for you; he knows so much about fish.
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Mhm. Kanata-sama[^16] is what you’d call an erudite\~. We all respect him\~.
+Mhm. Kanata-sama is what you’d call an erudite\~. We all respect him\~.
 {% endbubble %}
 
 {% bubble Midori curious %}
-Kanata-“sama”…?
+Kanata-“sama”…?[^16]
 {% endbubble %}
 
 {% bubble Mizusaba %}
