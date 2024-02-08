@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – hidden island"
-date: 2024-1-28 9:31:00
+date: 2024-1-15 9:01:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

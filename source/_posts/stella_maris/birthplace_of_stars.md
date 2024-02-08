@@ -2575,7 +2575,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 {% endbubble %}
 
 {% bubble Kanata smile %}
-“that is why <em>i</em> will take it upon me to [declare] this to all of you. in this world, there are as many ‘correct ways’ to do something as the stars in the sky—”
+“that is why i will take it upon me to [declare] this to all of you. in this world, there are as many ‘correct ways’ to do something as the stars in the sky—”
 
 “and within those many different ways, you are free to choose what you [believe] is the ‘correct’ thing to do.”
 
