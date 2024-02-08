@@ -59,19 +59,14 @@ hidden: true
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#TBA">TBA</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Story-Highlights">Story Highlights</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<!--
 <div toc>
 {% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
 {% btn /stella_maris,, star, Index %}
 </div>
 
 ## Chapter 1
-
-<div class="msr-location">
-    <p><span><b>Location:</b> ADD</span></p>
-</div>
 
 {% img /img/es/eventstory/stella_maris/ep1.jpg %}
 
@@ -87,12 +82,8 @@ hidden: true
 
 ### Text Version
 
--->
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
 {% btn /stella_maris,, star, Index %}
 </div>
-
-## Translation Notes

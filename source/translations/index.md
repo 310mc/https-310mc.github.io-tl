@@ -300,7 +300,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/stella_maris" class="storyName" target="_blank">
-        <span>Stella Maris – Climax Event (In Progress!)</span>
+        <span>Stella Maris – Climax Event</span>
         <span class="read"></span>
     </a>
 </div>

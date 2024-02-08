@@ -67,7 +67,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 <div toc>
 {% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: hidden island %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Chapter 1
@@ -2460,15 +2460,155 @@ that is what ryuseitai is all about.
 “the [building] we have asked you to gather in is not actually a [building]; it was a [ship] all along!”
 {% endbubble %}
 
-{% note narration %}
-Translation in progress! 26/30 chapters
-{% endnote %}
+## Chapter 15
+
+{% img /img/es/eventstory/stellamaris/p2_15.jpg %}
+
+{% bubble Eichi %}
+Fufu. “Stella Maris”, was it? It’s a perfectly fitting name here.
+
+It’s the given name of the Holy Mother, the goddess who protects people on voyage — the star that guides those navigating in pitch darkness with uncertainty.[^18]
+
+Guided by that star, the people of Hoshijima found their way to an unknown world.
+
+Since they had been confined to their land for such a long time, it must feel like they time traveled to the future, doesn’t it? My, I truly cannot help but worry for the elderly’s faint hearts. ♪
+{% endbubble %}
+
+{% bubble Tori curious %}
+But why did Ryuseitai do that? Why’d they transport everyone to the mainland on a ship…?
+
+We told them that we’ll help them out however we can, so we requested an influential person to get them a ship for this stage…
+
+But it’s a little too large-scaled for a simple performance, isn’t it?
+{% endbubble %}
+
+{% bubble Eichi %}
+Investment-wise, it’s pretty cheap in the long run, no? If all goes as planned, and the people of Hoshijima become enthusiastic for the restoration of the island—
+
+Then there’ll still be a huge surplus in their budget, especially compared to having the construction work be put on pause due to continuous interference. It’s necessary expenses, essentially.
+
+But of course, in the case that the residents *don’t* change their mind, then it means they threw all their money down the drain for a foolish plan.
+{% endbubble %}
+
+{% bubble Eichi smile %}
+Now then. He’s just performed a phenomenal miracle — In a god-like fashion, he’s taking the people on a journey across time and space…
+
+But what was the true significance to that act in the end? I’ve already figured it out, but can <em>you</em> tell, Tori? ♪
+{% endbubble %}
+
+{% bubble Tori smilesoft %}
+Well, I can totally tell that you’re acting super excited like a little kid, Eichi-sama. You surprisingly like flashy stuff, after all~ You must feel so envious of Ryuseitai right now, right? ♪
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Meanwhile, at the Stella Maris stage…</p>
+</div>
+
+{% bubble Kanata smileconfident %}
+“♪\~♪\~♪”
+{% endbubble %}
+
+{% bubble Mizusaba %}
+<th>(Mhm, mhm. Looks like everything’s going well so far\~. Everyone in Ryuseitai is sparkling just like the stars you see above the ocean at midnight\~♪)</th>
+
+<th>(Nyahaha. This gigantic ship my grandpa took out from his warehouse — The “Mizusaba”, from his pirate days… I’m so glad to see that it’s moving just fine~.)</th>[^19]
+
+<th>(The “Mizusaba” is a ship that was modified to store whatever loot a pirate got his hands on — So it’s got a massive amount of space, unlike most typical ships.)</th>
+
+<th>(It was originally used for wrongdoings, but now, it’s being used in the name of justice. It makes me so emotional somehow~♪)</th>
+
+<th>(Nyahaha. In the end, I couldn’t do anything but prepare them meals, but seeing the ship with the same name as me playing such an active part… I just feel so, sooo glad.)</th>
+
+<th>(I’m a dunce who’s got nothing but a massive body, and I couldn’t do anything right when I was young… But right now, I feel like I’m also being of use to everyone. Thank you, “Mizusaba”.)</th>
+
+<th>(Thank you to all of you too, Ryuseitai. Because of you, me, Konata-sama… Each and every one of us is having such a wonderful time here~.)</th>
+
+<th>(We’re so blessed to have met everyone, aren’t we~? ♪)</th>
+
+<th>(~……♪)</th>
+{% endbubble %}
+
+{% bubble Kanata grin %}
+“fufufu, surpriiise~♪”
+
+“you are all coming to the [okinawa mainland] with us.”
+
+“i am sure this is a [world] none of you know, as you had been in [hoshijima] for a long, long time.”
+
+“please look [out] the [window]. there are many things that you do not know scattered about, yes?”
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+“things you do not know must be scary, correct?”
+
+“but you see, it is not scary at all. over here, there are a lot of [convenient] things, and [interesting] things too.”
+
+“there must be people among you that do not want those things — who feel plenty [satisfied] with how it is right now, right?”
+
+“we will not [force] those people in any way.”
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+“but… if you show even a little bit of [curiosity], then please try to pick something of interest and get a feel of it.”
+
+“or at the very least, please do not get in the [way] of the people who are interested in experiencing it.”
+
+“kona-chan — my adorable [little brother] has been trying to experience ‘those things’ with [sparkles] in his eyes.”
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/p2_15_2.jpg %}
+
+{% bubble Konata norsmile %}
+……………
+{% endbubble %}
+
+{% bubble Kanata norsmile %}
+“please, at the very least, let those people enjoy themselves without [denying] them. i do understand that you may feel worried or anxious, though, of course.”
+
+“but in this world, there is not only one ‘correct way’ to do things.”
+
+“in our [religion], [god] was the one who decided what is the ‘correct’ thing to do.”
+
+“what is ‘right’ to do, what is ‘wrong’ to do — [god] decided those things time and time again.”
+
+“it is us gods who decided it all.”
+{% endbubble %}
+
+{% bubble Kanata smile %}
+“that is why <em>i</em> will take it upon me to [declare] this to all of you. in this world, there are as many ‘correct ways’ to do something as the stars in the sky—”
+
+“and within those many different ways, you are free to choose what you [believe] is the ‘correct’ thing to do.”
+
+“no one will [forbid] any of it. no one will [command] you to do anything.”
+
+“i would like all of you to think about it, and then to freely choose whatever you like. what you think is correct — what you believe is your [form] of [justice].”
+
+“of course, even if you are interested in choosing something, it is [difficult] to know what is what. that is why we will [introduce] you to each of them, one by one.”
+
+“first, we would like you to learn about us — about [idols].”
+
+“so please watch us, and learn who we are.”
+{% endbubble %}
+
+{% img /img/es/eventstory/stellamaris/kanatabcg.jpg %}
+
+{% bubble Kanata stellabcg %}
+“come on now\~♪ it is not dangerous\~, it is not scary\~ it will be alright\~ no matter what happens, we <em>will</em> protect you, okay?”
+
+“so please be at [ease] and simply enjoy yourselves~”
+
+“no… let’s all live our lives together in an amusing way.”
+
+“within this interesting [world] full of things to love…♪”
+
+“♪\~♪\~♪”
+{% endbubble %}
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /stella_maris/hidden_island,, arrow-left, Previous Chapter: hidden island %}
 {% btn /stella_maris,, star, Index %}
-<!--{% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}-->
+{% btn /stella_maris/epilogue,, arrow-right, Next Chapter: Epilogue %}
 </div>
 
 ## Translation Notes
@@ -2490,3 +2630,5 @@ Translation in progress! 26/30 chapters
 [^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
 [^16]: The word used here for “childish” is <em>kodomo-damashi</em>, lit. things that can only deceive children. It's a word sometimes used in Enstars stories in reference to tokusatsu shows (typically translated to “kiddie stuff” or something similar).
 [^17]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.
+[^18]: Stella Maris means “star of the sea”. It's also another name for the star Polaris, a guiding star. Read more: <a href="https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea" target="_blank">Star of the Sea</a> — <a href="https://en.wikipedia.org/wiki/Polaris" target="_blank">Polaris</a>.
+[^19]: In Japanese, the ship is called <em>Mizusaba-gou</em>. The <em>gou</em> is a suffix attached to ship names.

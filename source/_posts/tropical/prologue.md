@@ -215,16 +215,16 @@ Me? Mm… Indeed, I would not. I would rather await my turn as the commander. It
 Yeah, well, that very same rank has unfortunately been turned into a rotation-based system…
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile %}
 No, that just means that it has that much significance.
 
 The commander position isn’t something to push on someone for no discernable reason.
 
-Of course, I do think everyone here has the capability to become one themselves.
+But of course, I do think everyone here has the capability to become one themselves.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-In hindsight… When the public was informed that Ryuseitai split into M and N[^8], I should have also declared that every one of us has the ability to become a leader…
+In hindsight… When the public was informed that Ryuseitai split into M and N[^8], I should have also declared that every one of us has the capability to become a leader…
 
 But I was so caught up by the hero tradition, that I never once considered it at the time. I need to learn to do better…
 {% endbubble %}

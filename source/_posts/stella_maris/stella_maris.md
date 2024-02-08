@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Stella Maris – Climax Event (In Progress!)"
+title: "[ES!!] Stella Maris – Climax Event"
 date: 2024-2-9 10:00:00
 categories:
 - [Enstars, ES!!]
@@ -475,6 +475,9 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         </li>
                         <li>
                             <a href="" id="none">Epilogue</a>
+                        </li>
+                        <li>
+                            <a href="" id="none">Story Highlights</a>
                         </li>
                     </ul>
                 </div>

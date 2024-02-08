@@ -207,7 +207,7 @@ Its name is “Basket-bon”, so it ends its sentences with “bon”…? Its pe
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-But… It’s kinda got a yuru-chara[^2] air to it somehow…♪
+But… It’s kinda got a yuruchara[^2] air to it somehow…♪
 {% endbubble %}
 
 {% bubble Mao %}
@@ -221,7 +221,7 @@ This feels like a roundabout way to do it, but it might be effective on him. Umm
 {% endbubble %}
 
 {% bubble Midori nod2 %}
-Its backstory is way too complex and wild… Ahh~ It’s so yuru-chara-like…♪
+Its backstory is way too complex and wild… Ahh~ It’s so yuruchara-like…♪
 {% endbubble %}
 
 {% bubble Mao surprised2 %}
@@ -253,7 +253,7 @@ What, I’m really curious to hear now… Okay, I’ll do my best then…
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-<th>(The transfer student remembered that I like yuru-chara…)</th>
+<th>(The transfer student remembered that I like yuruchara…)</th>
 
 <th>(And Isara-senpai helped me out so naturally… Everyone’s so kind here…)</th>
 
@@ -324,4 +324,4 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
 ## Translation Notes
 
 [^1]: Basket-bon's (called <em>basukebon</em> in Japanese) first-person pronoun is <em>boku</em>, which makes it sound soft and friendly. In comparison, Mao uses the <em>ore</em> first-person pronoun, which is more masculine.
-[^2]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
+[^2]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.

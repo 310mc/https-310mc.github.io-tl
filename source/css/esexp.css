@@ -709,6 +709,9 @@
 [character="Kanata"][stellaocg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_stellaocg.png");
 }
+[character="Kanata"][stellabcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_stellabcg.png");
+}
 
 [character="Kanata"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast_cg.png");
