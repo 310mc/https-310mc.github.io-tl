@@ -13,6 +13,9 @@ tags:
 description: "Translation of Our Stella (bokura no stella) Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
 permalink: our_stella/
 ---
+
+{% img /img/es/songs/ourstella.jpg %}
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
@@ -60,16 +63,19 @@ permalink: our_stella/
 
 <link rel="stylesheet" href="/css/lyrics.css">
 
+## Index
+<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
+## MV Size
+
 {% img /img/es/eventstory/stellamaris/songcover.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-## Lyrics (MV Size)
-
 <table class="lyrics">
   <tr>
-  <td class="timestamp name"></td>
-  <td class="timestamp"><span class="timestamp">0:00</span></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:00</span></td>
   </tr>
   <tr>
     <td class="name"></td>
@@ -100,8 +106,8 @@ permalink: our_stella/
     <td>Let us hear the voice of that wishing star</td>
   </tr>
   <tr>
-  <td class="timestamp name"></td>
-  <td class="timestamp"><span class="timestamp">0:43</span></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:43</span></td>
   </tr>
   <tr>
     <td class="name"></td>
@@ -112,24 +118,24 @@ permalink: our_stella/
     <td>We were within the same light from the very start</td>
   </tr>
   <tr>
-  <td class="timestamp name"></td>
-  <td class="timestamp"><span class="timestamp">1:00</span></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:00</span></td>
   </tr>
   <tr>
-  <td class="name"></td>
-  <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>It feels as though we were always connected in this way</td>
+    <td class="name"></td>
+    <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>It feels as though we were always connected in this way</td>
   </tr>
   <tr>
-  <td class="name"><span class="kanata">Kanata</span></td>
-  <td>Before we were even born,</td>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Before we were even born,</td>
   </tr>
   <tr>
-  <td class="name"></td>
-  <td>doesn’t it?</td>
+    <td class="name"></td>
+    <td>doesn’t it?</td>
   </tr>
   <tr>
-  <td class="timestamp name"></td>
-  <td class="timestamp"><span class="timestamp">1:19</span></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:19</span></td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -152,8 +158,8 @@ permalink: our_stella/
     <td>Smiles</td>
   </tr>
   <tr>
-  <td class="timestamp name"><br></td>
-  <td class="timestamp"><span class="timestamp">1:37</span></td>
+    <td class="timestamp name"><br></td>
+    <td class="timestamp"><span class="timestamp">1:37</span></td>
   </tr>
   <tr>
     <td class="name"></td>
@@ -164,16 +170,16 @@ permalink: our_stella/
     <td>We will always be within the same light</td>
   </tr>
   <tr>
-  <td><br></td>
-  <td><br></td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>We know we have always been connected in this way<br>Before we were even born</td>
   </tr>
   <tr>
-  <td><br></td>
-  <td><br></td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>

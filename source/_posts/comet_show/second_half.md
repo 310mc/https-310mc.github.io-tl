@@ -671,7 +671,7 @@ that is exactly why it is so hard to [win] an [argument] against him. once he ha
 {% bubble Tetora v2 %}
 I don’t plan on arguing with him, so it’s fine. I don’t get anything outta doing that, anyway…
 
-I think there was a time when heroes fighting among each other was a whole thing in movies and stuff, but I don’t really like that kind of stuff.
+I think there was a time when heroes fighting among each other was a whole thing in movies and stuff, but I don’t really like that kinda stuff.
 
 Maybe my mindset is just old-fashioned and unrealistic, though…
 

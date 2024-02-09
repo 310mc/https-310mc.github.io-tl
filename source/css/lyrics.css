@@ -2,7 +2,6 @@ table.lyrics {
   border: 0px;
   width: 100%;
   font-size: 17px;
-  background: transparent;
 }
 
 table.lyrics th,
@@ -10,6 +9,7 @@ table.lyrics td {
   border: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
+  background-color: #F7F8F7;
 }
 
 table.lyrics td.name {

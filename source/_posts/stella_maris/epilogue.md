@@ -448,7 +448,7 @@ Do you bear a grudge against Mother after all? Is that why you don’t want to s
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-well, i cannot deny i [feel] something like that… i <em>am</em> a [human being] as well, after all.
+well, i cannot deny that i [feel] something like that… i <em>am</em> a [human being] as well, after all.
 
 i felt lonely after she left me behind, so i would like to make a few [complaints].
 
