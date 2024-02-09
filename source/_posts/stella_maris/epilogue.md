@@ -82,7 +82,7 @@ everyone, thank you very much for your hard work~♪
 {% bubble Chiaki norsmile2 %}
 You, too, Kanata. We sang and danced the whole time while we were going to the mainland and then back to Hoshijima, after all.
 
-Setting aside Nagumo and I, who train on a daily basis, it isn’t surprising if it was rough on everyone else.
+Setting aside Nagumo and I, who train on a regular basis, it isn’t surprising if it was rough on everyone else.
 {% endbubble %}
 
 {% bubble Shinobu smileconfident %}
@@ -122,7 +122,7 @@ No one’s saying they’re against it, though~?
 {% endbubble %}
 
 {% bubble Tetora smile %}
-Ossu. Yeah, it’s tiring, but it’s the kind of satisfying exhaustion I feel after doing karate trainin’ for a long time.
+Ossu. Yeah, it’s tiring, but it’s the kind of satisfying exhaustion I feel after doin’ karate training for a long time.
 
 I actually feel like I got to experience somethin’ real great~♪
 {% endbubble %}
@@ -208,7 +208,7 @@ That’s always how tokusatsu teaches us all the important things to know.
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-yes. but as i had been told several times [this time] around, it is difficult to understand when you [speak] in a [floaty], [vague] way—
+yes. but as i had been told several times [this time] around, it is difficult to understand when i [speak] in a [floaty], [vague] way—
 
 so we had a [briefing] after the [stage] to explain it more [concretely].
 
@@ -340,7 +340,7 @@ I believe there exists a restoration— No, an expansion even <em>further</em> t
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-yes. even this [island], that had [meteorites] fall down on its surface many times over, was able to [prosper] at one point.
+yes. even this [island], that had [meteorites] fall down on its surface many times over, was able to [prosper] gloriously at one point.
 
 as long as the people desire it, they can [restore] their island as many times as they like.
 
@@ -432,7 +432,7 @@ If you’d like, how about you meet with Mother before returning to the mainland
 
 She may tell you about who I am, or other things you’d like to know.
 
-I don’t know if this works as a repayment to Kanata-sama, but I’m sure Mother would be happy to see that her child grew up to be a wonderful person.
+I don’t know if this works as repayment to Kanata-sama, but I’m sure Mother would be happy to see that her child grew up to be a wonderful person.
 {% endbubble %}
 
 {% bubble Kanata norsmile2 %}
@@ -462,7 +462,7 @@ but… i feel like if i met mother now, she will just apologize to me… she may
 {% endbubble %}
 
 {% bubble Kanata smile %}
-…no. that is actually why i <em>should</em> see her after all.
+…no. that is actually why i <em>will</em> see her after all.
 
 it will not really act as a [reward] for me, honestly… but i would like to give her [peace] of [mind] by showing her who i am right now.
 
@@ -479,13 +479,13 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 ## Story Highlights
 
-<big>Thank you for reading Ryuseitai's Climax Event! Please scroll down or click <a href="#Story-Highlights-Text" target="_blank">here</a> for the text version!</big>
+<big>Thank you for reading Ryuseitai's Climax Event! Please scroll down or click <a href="#Story-Highlights-Text">here</a> for the text version!</big>
 
 <big>Please take a look at the song lyrics for this event too, <a href="/our_stella" target="_blank">Our Stella</a>.</big>
 
-{% img /img/es/eventstory/stella_maris/storyhighlights.png %}
+{% img /img/es/eventstory/stellamaris/storyhighlights.png %}
 
-<big><a href="/img/es/eventstory/stella_maris/storyhighlights.png" target="_blank">Full view here.</a></big>
+<big><a href="/img/es/eventstory/stellamaris/storyhighlights.png" target="_blank">Full view here.</a></big>
 
 ### Story Highlights Text
 

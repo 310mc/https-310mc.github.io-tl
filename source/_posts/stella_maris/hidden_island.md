@@ -319,7 +319,7 @@ Wouldn’t it have been nice to tell us something as important as that much earl
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Uumyu, we’re going to Okinawa…? It was fine durin’ the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^6]
+Uumyu, we’re going to Okinawa…? It was fine durin’ the SS qualifying round and all, but it’s tricky for me to show my face now, when I’ve had connections to Crimson Production before.[^2]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -331,7 +331,7 @@ Ossu. I’m clumsy like Morisawa-senpai, so I’ve got a lotta things I inadvert
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-then it is time to [depart]\~! let’s go\~♪[^7]
+then it is time to [depart]\~! let’s go\~♪[^6]
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -359,7 +359,7 @@ but this time around, there is something i am [looking forward] to.
 {% bubble Kanata v2 %}
 we have arrived~♪
 
-everyone, mensooore\~♪[^8] welcome to [okinawa]\~!
+everyone, mensooore\~♪[^7] welcome to [okinawa]\~!
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -385,7 +385,7 @@ I don’t even think the other three can be thoughtful about this sort of thing,
 {% endbubble %}
 
 {% bubble Shinobu norsmile %}
-Ah, to one’s surprise, Morisawa-dono is quite sensitive to changes in environment as well, as he was once a sickly child.[^9]
+Ah, to one’s surprise, Morisawa-dono is quite sensitive to changes in environment as well, as he was once a sickly child.[^8]
 
 In fact, he has always provided me support every time I was on the verge of falling ill.
 
@@ -393,7 +393,7 @@ But I appreciate the thought, Midori-kun. It really makes me happy.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-You see, I was continuously participating in a harsh show called “2x2” up until recently… And for the whole duration, my troublesome friend made me go through a lot with his whims.[^10]
+You see, I was continuously participating in a harsh show called “2x2” up until recently… And for the whole duration, my troublesome friend made me go through a lot with his whims.[^9]
 
 So a friend simply showing concern for me is enough to move my heart.
 {% endbubble %}
@@ -449,7 +449,7 @@ We’ll just have to make sure we support him then — as much as he has for us,
 {% endbubble %}
 
 {% bubble Midori serious %}
-Yeah… Shinkai-senpai is our mascot character[^11]… We need to protect him at all costs.
+Yeah… Shinkai-senpai is our mascot character[^10]… We need to protect him at all costs.
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -525,7 +525,7 @@ ah, no— how do people [greet] each other in [okinawa] again…? Ermm, haitai~?
 {% bubble Mizusaba unknown %}
 Haitai~…♪
 
-But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^12] influence.
+But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^11] influence.
 
 In fact, kids might not even understand you if you talk in Okinawan dialect~…♪
 {% endbubble %}
@@ -545,7 +545,7 @@ In fact, kids might not even understand you if you talk in Okinawan dialect~…�
 {% bubble Mizusaba unknown %}
 Oh wow? Some of you seem scared…?
 
-Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪[^13]
+Sorry\~. I’m not scary, really\~. I won’t eat you up\~…♪[^12]
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -553,7 +553,7 @@ yes, this is the person who will [guide] us to our job’s [location] — ermm, 
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Friends and family call me “Mizusaba”\~.[^14] I’m pretty huge, after all\~. Fufufu\~♪
+Friends and family call me “Mizusaba”\~.[^13] I’m pretty huge, after all\~. Fufufu\~♪
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -561,7 +561,7 @@ Mizusaba…?
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-it refers to the [whale sharkie]~ [okinawans] call it that.[^15]
+it refers to the [whale sharkie]~ [okinawans] call it that.[^14]
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -573,7 +573,7 @@ Mhm. Kanata-sama is what you’d call an erudite\~. We all respect him\~.
 {% endbubble %}
 
 {% bubble Midori curious %}
-Kanata-“sama”…?[^16]
+Kanata-“sama”…?[^15]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -611,13 +611,13 @@ The worshippers don’t get involved with other people much, after all\~. Withou
 {% bubble Tetora smile %}
 <th>(Heheh. I kinda recall feeling somethin’ similar with Shinkai-senpai when I first talked to him. He’s pretty big, and his voice has a peculiar frequency when he speaks, so I didn’t think he was a human being like me.)</th>
 
-<th>(He seemed more like a strange, mysterious monster at first.)</th>[^17]
+<th>(He seemed more like a strange, mysterious monster at first.)</th>[^16]
 
 <th>(That just sounds funny to me now, though — ‘Cuz Shinkai-senpai is actually harmless. I’d actually say he’s even kinder than ordinary people.)</th>
 {% endbubble %}
 
 {% bubble Chiaki northinking %}
-Hm. Speaking of which, Kanata made contact with those worshippers during the SS qualifying round, didn’t he?[^18]
+Hm. Speaking of which, Kanata made contact with those worshippers during the SS qualifying round, didn’t he?[^5]
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -625,7 +625,7 @@ yes. if we are to consider my household as the [client] fish, like a [giant mora
 {% endbubble %}
 
 {% bubble Shinobu serious %}
-Main house, primary line. Branch house, supporting line.[^19]
+Main house, primary line. Branch house, supporting line.[^17]
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -649,13 +649,13 @@ after all, i had [promised] them that i would [help] them if they are ever in tr
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
-During the qualifying round, the reason we managed to achieve victory in the ruthless battlefield here in Okinawa was also thanks to the cooperation and support of the locals.[^20]
+During the qualifying round, the reason we managed to achieve victory in the ruthless battlefield here in Okinawa was also thanks to the cooperation and support of the locals.[^5]
 
 We ought to repay that favor, at the very least.
 {% endbubble %}
 
 {% bubble Tetora yare %}
-Ossu. Though, thanks to that, I ended up getting dispatched as a spy after they concluded Ryuseitai likely has a lotta influence ‘round Okinawa.[^21]
+Ossu. Though, thanks to that, I ended up getting dispatched as a spy after they concluded Ryuseitai likely has a lotta influence ‘round Okinawa.[^2]
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
@@ -673,7 +673,7 @@ You were talking about basketball?
 {% endbubble %}
 
 {% bubble Shinobu nod %}
-He’s talking about “overhaul” through “basketball”.[^22]
+He’s talking about “overhaul” through “basketball”.[^18]
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -801,7 +801,7 @@ Actually, if it needs restoration, does that mean it’s in decline right now?
 {% bubble Kanata serious %}
 hm, rather than decline… well, i think it will be very [obvious] when we arrive [there].
 
-you see, the [land] those [worshippers] live in was actually a [confined area] for a very long time.[^23]
+you see, the [land] those [worshippers] live in was actually a [confined area] for a very long time.[^5]
 
 in particular, they disliked the thought of [idols] getting involved.
 {% endbubble %}
@@ -849,7 +849,7 @@ and i have been trying to do [whatever] i [can] up until now. like performing [c
 {% endbubble %}
 
 {% bubble Shinobu northinking %}
-Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^24]
+Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^19]
 
 Huh, so that’s how that story links to our current situation…
 
@@ -881,7 +881,7 @@ so i do not know how to explain what i [want] to do properly.
 {% bubble Kanata smilesoft2 %}
 in the end, i simply want to make everyone [happy]. and the reason for that is because everyone made <em>me</em> [happy].
 
-in other words, i am [repaying] the [kind favor].[^25] fufufu~♪
+in other words, i am [repaying] the [kind favor].[^20] fufufu~♪
 {% endbubble %}
 
 {% bubble Chiaki smile %}
@@ -955,7 +955,7 @@ T-There’s only ruins as far as the eye can see… What a crazy sight.
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-I had no idea there was an area in our country with such an unbelievable landscape.[^26]
+I had no idea there was an area in our country with such an unbelievable landscape.[^21]
 {% endbubble %}
 
 {% bubble Shinobu nod %}
@@ -975,7 +975,7 @@ The main island may be nearby, but not so close that we can head back there in a
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-If the ship were to sink now, we’d end up in a typical plot for classic detective novels. Like a closed circle sort of situation.[^27]
+If the ship were to sink now, we’d end up in a typical plot for classic detective novels. Like a closed circle sort of situation.[^22]
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -991,7 +991,7 @@ Oh, right… Phone calls should work just fine here.
 {% endbubble %}
 
 {% bubble Shinobu frown %}
-There’s still that worrisome thought we wouldn’t be able to reach a signal… Which sort of reminds me of that time Tetora-kun turned evil. It was truly tough on me to have all signals jammed—[^28]
+There’s still that worrisome thought we wouldn’t be able to reach a signal… Which sort of reminds me of that time Tetora-kun turned evil. It was truly tough on me to have all signals jammed—[^2]
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -1427,7 +1427,7 @@ It’s as they say, you can’t fight on an empty stomach\~. Make sure to eat we
 {% endbubble %}
 
 {% bubble Tetora serious %}
-<th>(I don’t think it’s right for us to do the same thing to ‘em that our agency did to us. It’s plain irritating when someone says, “I did it with the best intentions” without any regard for how you feel ‘bout it.)</th>[^29]
+<th>(I don’t think it’s right for us to do the same thing to ‘em that our agency did to us. It’s plain irritating when someone says, “I did it with the best intentions” without any regard for how you feel ‘bout it.)</th>[^23]
 
 <th>(If possible, we wanna restore this land in the way the islanders want.)</th>
 
@@ -1581,7 +1581,7 @@ uu~ but if i call you by your [real name], it will be easy to mix up with mine.
 {% endbubble %}
 
 {% bubble Konata frown %}
-Hmph. I suppose it is true that the “Kona” in “Konata” and “Kana” sound similar to the ear.[^30]
+Hmph. I suppose it is true that the “Kona” in “Konata” and “Kana” sound similar to the ear.[^24]
 {% endbubble %}
 
 {% bubble Tetora curious %}
@@ -1589,7 +1589,7 @@ Konata…?
 {% endbubble %}
 
 {% bubble Konata %}
-Yes…? Indeed, my name is Minase Konata, the lord of this island.[^31]
+Yes…? Indeed, my name is Minase Konata, the lord of this island.[^25]
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -1625,7 +1625,7 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^32]
+Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^26]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -1651,7 +1651,7 @@ If I may interject — with the exception of Kanata, we aren’t experts in reli
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^33] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^27] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -1675,13 +1675,13 @@ It makes me happy to see his compassion for friendship, but… why is it that I 
 {% bubble Shinobu northinking %}
 Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
 
-Though, it’s more so a project to build an amusement park…[^34]
+Though, it’s more so a project to build an amusement park…[^28]
 
 However, it seems that there is no land available in the mainland to build such a park, so they are instead aiming for Hoshijima.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^35]
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^29]
 
 While building the park, they may remove all the unusable ruins, too.
 
@@ -1695,9 +1695,9 @@ It’d be dangerous for anyone to get close… I think we’re better off having
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^36]
+Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^26]
 
-If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^37] It’s necessary to take these things into account.
+If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^30] It’s necessary to take these things into account.
 
 Rather than to forcibly turn such a danger zone into a tourist attraction, it may be best to take the predictable path, and rebuild the area into an amusement park that can make an infinite amount of money.
 {% endbubble %}
@@ -1785,11 +1785,11 @@ As the lord of Hoshijima, I, Minase Konata, would like to express my deepest gra
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-K-Konata? Is that his name because he’s a tiny Kanata?[^38]
+K-Konata? Is that his name because he’s a tiny Kanata?[^31]
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-Is it not simply <em>konata</em> for “here” and <em>kanata</em> for “there”…?[^39]
+Is it not simply <em>konata</em> for “here” and <em>kanata</em> for “there”…?[^32]
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -1847,7 +1847,7 @@ What are you acting so proud for? I didn’t compliment you in any way.
 {% endbubble %}
 
 {% bubble Kanata grin %}
-onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^40] i was [forbidden] from doing so up until now.
+onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^33] i was [forbidden] from doing so up until now.
 {% endbubble %}
 
 {% bubble Konata yare %}
@@ -1865,7 +1865,7 @@ W-What a responsible kid… Incredible. I could <em>barely</em> speak this eloqu
 {% endbubble %}
 
 {% bubble Midori serious %}
-Erm… Konata-kun— Konata-chan…?[^41] How old are you?
+Erm… Konata-kun— Konata-chan…?[^34] How old are you?
 {% endbubble %}
 
 {% bubble Konata norsmile %}
@@ -1917,7 +1917,7 @@ You aren’t a god anymore, are you?
 {% endbubble %}
 
 {% bubble Konata %}
-Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^42], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
+Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^35], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
 
 After such arrangements, it has been decided that a branch of the so-called “ES” will be built on this land.
 
@@ -1939,45 +1939,38 @@ That is why, I implore all of you — Please teach us what “idols” are.
 
 ## Translation Notes
 
-[^1]: Referring to <a href="/tropical" target="_blank">Tropical</a>.
-[^2]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to be a spy in a criminal organization.
+[^1]: Referring to <a href="/tropical" target="_blank">Tropical</a>, the story about Midori's Ryuseitai.
+[^2]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization. The story happens in Okinawa.
 [^3]: The word for “delicate” is <em>sensai</em>, and it can also mean “sensitive”. It was mentioned in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
-[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>.
-[^5]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
-[^6]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, the agency that Tetora was a spy in for a while.
-[^7]: Kanata says “let's go” as you would in English, but written in hiragana in the text, as that's how Kanata speaks.
-[^8]: This is how Okinawans say “Welcome”.
-[^9]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
-[^10]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
-[^11]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^12]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
-[^13]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a slightly old-fashioned, formal pronoun to refer to oneself.
-[^14]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
-[^15]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
-[^16]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
-[^17]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
-[^18]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine, Nirai Kanai chapters</a>.
-[^19]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
-[^20]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine,</a> where Ryuseitai decides to help the locals.
-[^21]: Referring to <a href="/supervillain" target="_blank">Supervillain</a>, which occurs in Okinawa.
-[^22]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
-[^23]: This was mentioned in Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>.
-[^24]: The cleansing ceremony was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
-[^25]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
-[^26]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
-[^27]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
-[^28]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^29]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
-[^30]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
-[^31]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
-[^32]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^33]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
-[^34]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
-[^35]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
-[^36]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
-[^37]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
-[^38]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a “tiny” Kanata.
-[^39]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata's first name is in full hiragana (no kanji), whereas the kanji in Kanata's name (奏汰) is homophonous with 彼方 (far away).
-[^40]: Onii-chan, as in “big brother”.
-[^41]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
-[^42]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.
+[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>, a story that happens during their Yumenosaki days together.
+[^5]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>. Submarine covers various aspects mentioned in this story.
+[^6]: Kanata says “let's go” as you would in English, but written in hiragana in the text, as that's how Kanata speaks.
+[^7]: This is how Okinawans say “Welcome”.
+[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
+[^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
+[^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
+[^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
+[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a slightly old-fashioned, formal pronoun to refer to oneself.
+[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
+[^15]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
+[^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
+[^17]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
+[^18]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
+[^19]: The cleansing ceremony was mentioned in the epilogues of <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
+[^20]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
+[^21]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
+[^22]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
+[^23]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^24]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
+[^25]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^26]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^27]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
+[^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
+[^29]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^30]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
+[^31]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a “tiny” Kanata.
+[^32]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata's first name is in full hiragana (no kanji), whereas the kanji in Kanata's name (奏汰) is homophonous with 彼方 (far away).
+[^33]: Onii-chan, as in “big brother”.
+[^34]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
+[^35]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.

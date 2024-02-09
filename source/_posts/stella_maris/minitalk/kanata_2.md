@@ -196,7 +196,7 @@ may i join you? i feel like if i were to see those [two], it would soothe me…�
             {% bubble Kanata v2 %}
             do you mean chiaki and midori? oh, i see. it is about time for their [job] to end, yes~?
 
-            okay then, i will [contact] them from my side. i hope we can all gather and talk together… ♪
+            okay then, i will [contact] them from my side. i hope we can all gather and talk together…♪
 			{% endbubble %}
         </div>
     </div>

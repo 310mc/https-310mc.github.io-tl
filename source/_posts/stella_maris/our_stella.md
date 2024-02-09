@@ -58,65 +58,140 @@ permalink: our_stella/
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/lyrics.css">
+
 {% img /img/es/eventstory/stellamaris/songcover.jpg %}
 
-<big><p align="center">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p></big>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
 ## Lyrics (MV Size)
 
-<img src="/img/es/songs/ourstella.png">
+<table class="lyrics">
+  <tr>
+  <td class="timestamp name"></td>
+  <td class="timestamp"><span class="timestamp">0:00</span></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>stella, stella… x4</td>
+  </tr>
+  <tr>
+  <td><br></td>
+  <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>A downpour of twinkles rain down</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Onto the surface of the ultramarine stage</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>The ripples enticing our hearts</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Are the ebb and flow of our heartbeats</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Let us hear the voice of that wishing star</td>
+  </tr>
+  <tr>
+  <td class="timestamp name"></td>
+  <td class="timestamp"><span class="timestamp">0:43</span></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Tonight, we sing in harmony with you[^1]<br>On the Stella that binds the sky and sea together[^2]</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
+    <td>We were within the same light from the very start</td>
+  </tr>
+  <tr>
+  <td class="timestamp name"></td>
+  <td class="timestamp"><span class="timestamp">1:00</span></td>
+  </tr>
+  <tr>
+  <td class="name"></td>
+  <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>It feels as though we were always connected in this way</td>
+  </tr>
+  <tr>
+  <td class="name"><span class="kanata">Kanata</span></td>
+  <td>Before we were even born,</td>
+  </tr>
+  <tr>
+  <td class="name"></td>
+  <td>doesn’t it?</td>
+  </tr>
+  <tr>
+  <td class="timestamp name"></td>
+  <td class="timestamp"><span class="timestamp">1:19</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>The stars we saved and scooped up gently[^3]</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We’ll return them back to the sky</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>This is a world covered with</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
+    <td>Hundreds of millions of</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
+    <td>Smiles</td>
+  </tr>
+  <tr>
+  <td class="timestamp name"><br></td>
+  <td class="timestamp"><span class="timestamp">1:37</span></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Tonight, we sing in harmony with you<br>On the Stella that binds the sky and sea together</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We will always be within the same light</td>
+  </tr>
+  <tr>
+  <td><br></td>
+  <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>We know we have always been connected in this way<br>Before we were even born</td>
+  </tr>
+  <tr>
+  <td><br></td>
+  <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>stella, stella… x4</td>
+  </tr>
+</table>
+
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+
+<div toc>
+{% btn /stella_maris,, star, Event Story: Stella Maris %}
+{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+</div>
 
 ## Translation Notes
 
-* The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏).
-* Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
-* "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save/rescue" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.
-* The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his first solo song, <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">marine blue rendezvous</a>.
+"Stella" means star. The event story title, "Stella Maris", means "star of the sea".
 
-## Text Only Version
-
-{% note Click for Text Only Version %}
-Stella x8
-
-A downpour of twinkles rain down
-Onto the surface of the ultramarine stage
-The ripples enticing our hearts
-Are the ebb and flow of our heartbeats
-Let us hear the voice of that wishing star
-
-
-Tonight, we sing in harmony with you
-On the Stella that binds the sky and sea together
-We were within the same light from the very start
-
-
-Warm courage sparkles as it flows in
-Every time we share that courage among each other
-It feels as though we were always connected in this way
-Before we were even born,
-doesn’t it?
-
-
-The stars we saved and scooped up gently
-We’ll return them back to the sky
-This is a world covered with
-Hundreds of millions of
-Smiles
-
-
-Tonight, we sing in harmony with you
-On the Stella that binds the sky and sea together
-We will always be within the same light
-
-Warm courage sparkles as it flows in
-Every time we share that courage among each other
-We know we have always been connected in this way
-Before we were even born
-
-Stella x 8
-{% endnote %}
-
-<div toc>
-<!--{% btn /stella_maris,, star, Event Story: Stella Maris %}-->
-{% btn /translations/#Song-Lyrics,, circle, Song Index %}
-</div>
+[^1]: The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏). Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
+[^2]: The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his first solo song, <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">marine blue rendezvous</a>.
+[^3]: "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save/rescue" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.

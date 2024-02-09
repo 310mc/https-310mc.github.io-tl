@@ -1,0 +1,48 @@
+table.lyrics {
+  border: 0px;
+  width: 100%;
+  font-size: 17px;
+  background: transparent;
+}
+
+table.lyrics th,
+table.lyrics td {
+  border: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+table.lyrics td.name {
+  text-align: right;
+  width: 35%;
+  vertical-align: top;
+}
+
+table.lyrics td.timestamp {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+table.lyrics .midori {
+  color: #00533f;
+}
+
+table.lyrics .tetora {
+  color: #302833;
+}
+
+table.lyrics .shinobu {
+  color: #cf7e37;
+}
+
+table.lyrics .chiaki {
+  color: #e60033;
+}
+
+table.lyrics .kanata {
+  color: #008db7;
+}
+
+table.lyrics .timestamp {
+  color: #828282;
+}

@@ -1613,7 +1613,7 @@ things that were meant to be precious to me.
 {% img /img/es/eventstory/stellamaris/kanataorigcg.jpg %}
 
 {% bubble Kanata stellaocg %}
-after that — my [precious things] rapidly increased in number. a hundred, thousand times more than the amount i had when i was young.
+after that, my [precious things] rapidly increased in number. a hundred, thousand times more than the amount i had when i was young.
 
 honestly, i cannot even hold them all anymore at this point, chiaki.
 
@@ -1703,11 +1703,11 @@ Um, I’m not sure if this is alright to ask, but about that boy — Is Konata-k
 {% endbubble %}
 
 {% bubble Kanata srsthinking %}
-to tell you the truth, i am not sure at all~… there was news of [mother] being in [okinawa], specifically in [hoshijima]—
+to tell you the truth, i am not sure at all~… there was news of my [mother] being in [okinawa], specifically in [hoshijima]—
 
 which i had only vaguely [overheard] during the [ss qualifying round].
 
-but i assume that since [mother] had [nowhere] to go, not only was the [okinawan] group that [branched off] from the main house a good [hiding spot] for her—
+but i assume that since my [mother] had [nowhere] to go, not only was the [okinawan] group that [branched off] from the main house a good [hiding spot] for her—
 
 but [hoshijima] itself as well, since it was a [confined land].
 {% endbubble %}
@@ -1715,7 +1715,7 @@ but [hoshijima] itself as well, since it was a [confined land].
 {% bubble Kanata serious %}
 so, once various things had [settled], i had a lot of things to [think over] recently—
 
-and so, i tried to go and meet [mother].
+and so, i tried to go and meet my [mother].
 
 i had considered that [she] likely wanted to just be left alone, and did not even want to [see] me of all people—
 
@@ -1739,13 +1739,13 @@ that perhaps she also missed her [child] so much that she brought about a [mirac
 {% endbubble %}
 
 {% bubble Kanata idle %}
-but of course, thinking about it with more sense — the fact that he has the [exact same] face as me means it is likely that mother birthed a new [child] here.
+but of course, thinking about it with more sense — the fact that he has the [exact same] face as me means it is likely that my mother birthed a new [child] here.
 
 but i do not know the [real truth]. the people of that [island] are from the same [religion] as me, so their [roots] are the same—
 
 it is also possible that through very faint [blood] relations, we just so happened to have resembling [faces].
 
-i will not know the [truth] until [mother] comes back to her [senses].
+i will not know the [truth] until my [mother] comes back to her [senses].
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -1881,7 +1881,7 @@ oh\~? do you have any [complaints] about that\~?
 {% bubble Midori norsmile %}
 No… When I was made to take the commander role, everyone also gave their absolute best from start to end.
 
-It’s now my turn to do the same, right? Mhm, probably….
+It’s now my turn to do the same, right? Mhm, probably…
 {% endbubble %}
 
 {% bubble Chiaki smilesoft2 %}
@@ -1983,7 +1983,7 @@ let’s become [stars] that light up the [world] just like that.
 {% bubble Tetora smile %}
 Ossu. I always feel like Shinkai-Taichou’s words are floaty and demand comprehension skills, but…
 
-This time around, it was super easy to understand what you said.
+This time ‘round, it was super easy to understand what you said.
 
 That’s the ideal vision of Ryuseitai that you’re aiming for, right, Shinkai-Taichou?
 {% endbubble %}
@@ -2023,7 +2023,7 @@ fufufu. you make it sound like i am a [saint], but i simply just did not have an
 {% bubble Tetora stellabcg %}
 Still, I always felt so grateful for it.
 
-That’s why this time around, I wanna support what you wanna do as the leader, Shinkai-Taichou! No, not just that — I wanna reach that goal together![^13]
+That’s why this time ‘round, I wanna support what you wanna do as the leader, Shinkai-Taichou! No, not just that — I wanna reach that goal together![^13]
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -2437,7 +2437,7 @@ doesn’t it make you feel proud as well, chiaki~♪
 {% endbubble %}
 
 {% bubble Chiaki cryalmost %}
-Sorry, can I cry a little bit?[^17]
+Sorry, can I cry a bit?[^17]
 {% endbubble %}
 
 {% bubble Kanata grin %}
@@ -2467,7 +2467,7 @@ that is what ryuseitai is all about.
 {% bubble Eichi %}
 Fufu. “Stella Maris”, was it? It’s a perfectly fitting name here.
 
-It’s the given name of the Holy Mother, the goddess who protects people on voyage — the star that guides those navigating in pitch darkness with uncertainty.[^18]
+It’s the given name of Saint Mary, the goddess who protects people on voyage — the star that guides those navigating in pitch darkness with uncertainty.[^18]
 
 Guided by that star, the people of Hoshijima found their way to an unknown world.
 
@@ -2483,7 +2483,7 @@ But it’s a little too large-scaled for a simple performance, isn’t it?
 {% endbubble %}
 
 {% bubble Eichi %}
-Investment-wise, it’s pretty cheap in the long run, no? If all goes as planned, and the people of Hoshijima become enthusiastic for the restoration of the island—
+Investment-wise, it’s pretty cheap in the long run, no? If all goes according to plan, and the people of Hoshijima become enthusiastic for the restoration of the island—
 
 Then there’ll still be a huge surplus in their budget, especially compared to having the construction work be put on pause due to continuous interference. It’s necessary expenses, essentially.
 
@@ -2509,7 +2509,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 {% endbubble %}
 
 {% bubble Mizusaba %}
-<th>(Mhm, mhm. Looks like everything’s going well so far\~. Everyone in Ryuseitai is sparkling just like the stars you see above the ocean at midnight\~♪)</th>
+<th>(Mhm, mhm. Looks like everything’s going well so far\~. Everyone in Ryuseitai is sparkling just like the stars you see above the ocean in the night\~♪)</th>
 
 <th>(Nyahaha. This gigantic ship my grandpa took out from his warehouse — The “Mizusaba”, from his pirate days… I’m so glad to see that it’s moving just fine~.)</th>[^19]
 
@@ -2569,7 +2569,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 
 “in our [religion], [god] was the one who decided what is the ‘correct’ thing to do.”
 
-“what is ‘right’ to do, what is ‘wrong’ to do — [god] decided those things time and time again.”
+“what is ‘right’, what is ‘wrong’ — [god] decided those things time and time again.”
 
 “it is us gods who decided it all.”
 {% endbubble %}
@@ -2577,7 +2577,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 {% bubble Kanata smile %}
 “that is why i will take it upon me to [declare] this to all of you. in this world, there are as many ‘correct ways’ to do something as the stars in the sky—”
 
-“and within those many different ways, you are free to choose what you [believe] is the ‘correct’ thing to do.”
+“and within those many different ways, you are free to choose what you [believe] is ‘correct’.”
 
 “no one will [forbid] any of it. no one will [command] you to do anything.”
 
@@ -2630,5 +2630,5 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 [^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
 [^16]: The word used here for “childish” is <em>kodomo-damashi</em>, lit. things that can only deceive children. It's a word sometimes used in Enstars stories in reference to tokusatsu shows (typically translated to “kiddie stuff” or something similar).
 [^17]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.
-[^18]: Stella Maris means “star of the sea”. It's also another name for the star Polaris, a guiding star. Read more: <a href="https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea" target="_blank">Star of the Sea</a> — <a href="https://en.wikipedia.org/wiki/Polaris" target="_blank">Polaris</a>.
+[^18]: In Japanese, the Virgin Mary is called <em>seibo(-sama)</em>, lit. “holy mother”. Stella Maris, on the other hand, means “star of the sea”. It's also another name for the star Polaris, a guiding star. Read more: <a href="https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea" target="_blank">Star of the Sea</a> — <a href="https://en.wikipedia.org/wiki/Polaris" target="_blank">Polaris</a>.
 [^19]: In Japanese, the ship is called <em>Mizusaba-gou</em>. The <em>gou</em> is a suffix attached to ship names.
