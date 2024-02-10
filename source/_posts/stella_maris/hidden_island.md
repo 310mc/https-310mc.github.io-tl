@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
+description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -69,7 +69,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 ## Chapter 1
 
 {% note narration %}
-**Chapter TL Note:** The chapter title “hidden island” is written in hiragana only, so I've written the title in lowercase letters, similar to how Kanata's speech quirk (speaks in hiragana only) is written in my translations.
+**Chapter TL Note:** The chapter title “hidden island” is written in hiragana only, so I’ve written the title in lowercase letters, similar to how Kanata’s speech quirk (speaks in hiragana only) is written in my translations.
 {% endnote %}
 
 <div class="msr-location">
@@ -1939,38 +1939,38 @@ That is why, I implore all of you — Please teach us what “idols” are.
 
 ## Translation Notes
 
-[^1]: Referring to <a href="/tropical" target="_blank">Tropical</a>, the story about Midori's Ryuseitai.
+[^1]: Referring to <a href="/tropical" target="_blank">Tropical</a>, the story about Midori’s Ryuseitai.
 [^2]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization. The story happens in Okinawa.
 [^3]: The word for “delicate” is <em>sensai</em>, and it can also mean “sensitive”. It was mentioned in Epilogue 1 of <a href="/submarine/epilogue/#Chapter-1" target="_blank">Submarine</a> (Translated as “sensitive” in that story).
 [^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>, a story that happens during their Yumenosaki days together.
-[^5]: Referring to Ryuseitai and Akatsuki's SS story, <a href="/submarine" target="_blank">Submarine</a>. Submarine covers various aspects mentioned in this story.
-[^6]: Kanata says “let's go” as you would in English, but written in hiragana in the text, as that's how Kanata speaks.
+[^5]: Referring to Ryuseitai and Akatsuki’s SS story, <a href="/submarine" target="_blank">Submarine</a>. Submarine covers various aspects mentioned in this story.
+[^6]: Kanata says “let’s go” as you would in English, but written in hiragana in the text, as that’s how Kanata speaks.
 [^7]: This is how Okinawans say “Welcome”.
 [^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
-[^9]: Referring to 2wink's Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
-[^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori's favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
+[^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
+[^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
 [^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
-[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It's a slightly old-fashioned, formal pronoun to refer to oneself.
-[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I've decided to use a shark icon for the translation, so that he's identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
+[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It’s a slightly old-fashioned, formal pronoun to refer to oneself.
+[^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I’ve decided to use a shark icon for the translation, so that he’s identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
 [^15]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
 [^16]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
 [^17]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader ryuseipuka for coming up with the English localization!
 [^18]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.
-[^19]: The cleansing ceremony was mentioned in the epilogues of <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
-[^20]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits' Climax event).
-[^21]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you'd like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
+[^19]: The cleansing ceremony was mentioned in the epilogues of <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>. Specifically, this sort of ceremony is to ask permission from the god of the land to do construction in the area, and praying everything goes well with the construction. Read more <a href="https://tinytotintokyo.com/jichinsai-%E5%9C%B0%E9%8E%AE%E7%A5%AD-a-shinto-ceremony-for-building-a-house-in-japan" target="_blank">here</a>.
+[^20]: This expression was also mentioned in the chapter that Ryuseitai appeared <a href="/parallel_world" target="_blank">in Parallel World</a> (Ra\*bits’ Climax event).
+[^21]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you’d like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
 [^22]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^23]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^24]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
-[^25]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan's best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^25]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan’s best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
 [^26]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^27]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
-[^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event.
-[^29]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I'm not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
+[^29]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
 [^30]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
-[^31]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he's a “tiny” Kanata.
-[^32]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata's first name is in full hiragana (no kanji), whereas the kanji in Kanata's name (奏汰) is homophonous with 彼方 (far away).
+[^31]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he’s a “tiny” Kanata.
+[^32]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata’s first name is in full hiragana (no kanji), whereas the kanji in Kanata’s name (奏汰) is homophonous with 彼方 (far away).
 [^33]: Onii-chan, as in “big brother”.
 [^34]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
-[^35]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine's</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.
+[^35]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.

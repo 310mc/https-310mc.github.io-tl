@@ -330,7 +330,7 @@ I’m sorry, Nagumo.
 {% bubble Tetora curious %}
 …? Why are you apologizing?
 
-Haha. We've had this same exchange before, haven’t we?
+Haha. We’ve had this same exchange before, haven’t we?
 
 But unlike how it was then, this time around was no accident. I hit you with full ill-intent.
 
@@ -426,11 +426,11 @@ Of course, there are a lot of people in the world who are much worse off than I 
 
 There were even people like that in the very same school. I may have been bullied, but it was nothing compared to what the Five Eccentrics were subjected to.
 
-That’s why I couldn’t complain to anyone. I just couldn't let myself whine — about how hard it was, about how much I couldn’t stand it anymore — as if I was some sort of wuss.
+That’s why I couldn’t complain to anyone. I just couldn’t let myself whine — about how hard it was, about how much I couldn’t stand it anymore — as if I was some sort of wuss.
 {% endbubble %}
 
 {% bubble Tetora idle %}
-………
+……………
 {% endbubble %}
 
 ## Chapter 3
@@ -564,7 +564,7 @@ Crimson Production would collapse and go bankrupt. And you, as an employee of th
 
 So what? Sure, we’ve taken your bait, and now security at the headquarters is a little thin. And sure, maybe you’ll be able to at least get in touch with Sengoku-kun, or search the building.
 
-But that doesn't change your situation.
+But that doesn’t change your situation.
 
 You’re surrounded by a group of people who aren’t afraid to use violence, and you’ve clearly provoked them — by declaring war.
 
@@ -938,7 +938,7 @@ this is so much fun, it is like having a [camp]~♪
 {% bubble Chiaki grin2 %}
 Yeah! And look, look! I think we’re in a studio for a local tokusatsu show! Their diorama is surprisingly excellently crafted!
 
-I’ve always dreamed of sleeping in a place like this! I feel like a giant kaijuu! I'm so happy!
+I’ve always dreamed of sleeping in a place like this! I feel like a giant kaijuu! I’m so happy!
 {% endbubble %}
 
 {% bubble Kanata v2 %}

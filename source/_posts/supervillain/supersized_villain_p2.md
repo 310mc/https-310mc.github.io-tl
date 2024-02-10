@@ -574,7 +574,7 @@ It’s a common enough saying that it could’ve come from anyone, but, even the
 
 That way, I could grow, even if only a little.
 
-This wasn’t out of a need to do a noble self-sacrifice, like Morisawa-senpai mentioned. I'm able to cross as many dangerous bridges as I want *because* I hate myself and don’t see myself as anything worthwhile.
+This wasn’t out of a need to do a noble self-sacrifice, like Morisawa-senpai mentioned. I’m able to cross as many dangerous bridges as I want *because* I hate myself and don’t see myself as anything worthwhile.
 
 Even if I were to get badly hurt and fade away, I wouldn’t have regretted any of it for even a second. It would’ve felt refreshing, even.
 {% endbubble %}
@@ -796,7 +796,7 @@ And that’s why I respect you, Morisawa-senpai. I admire you, and I love you. I
 
 I can’t become a hero that’s exactly like you.
 
-—That's why I’m fine with being Black.
+—That’s why I’m fine with being Black.
 
 I *want* to be Black.
 {% endbubble %}
@@ -1160,5 +1160,5 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
 [^1]: In Japan, sports teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
 [^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.
 [^3]: This is referring to <a href="/climax" target="_blank">Climax</a>, the chapters Tears of Shooting Stars.
-[^4]: Tokusatsu shows are categorized by which era they were released in. <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa era</a> covers all series from around 1971-1994, then comes all the series of <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei era</a> from around 2000-2019, and now it's Reiwa era.
+[^4]: Tokusatsu shows are categorized by which era they were released in. <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa era</a> covers all series from around 1971-1994, then comes all the series of <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei era</a> from around 2000-2019, and now it’s Reiwa era.
 [^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “<em>Dark</em> Star”.

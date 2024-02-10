@@ -268,7 +268,7 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/birthofbasketbon/c2.jpg"
                 alt="Birth of Basketbon"
@@ -280,7 +280,7 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/morningpractice/c2.jpg"
                 alt="Morning Practice"
@@ -292,7 +292,7 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/herogame/c1.jpg"
                 alt="Hero Game"
@@ -304,7 +304,7 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"
@@ -323,5 +323,5 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
 
 ## Translation Notes
 
-[^1]: Basket-bon's (called <em>basukebon</em> in Japanese) first-person pronoun is <em>boku</em>, which makes it sound soft and friendly. In comparison, Mao uses the <em>ore</em> first-person pronoun, which is more masculine.
+[^1]: Basket-bon’s (called <em>basukebon</em> in Japanese) first-person pronoun is <em>boku</em>, which makes it sound soft and friendly. In comparison, Mao uses the <em>ore</em> first-person pronoun, which is more masculine.
 [^2]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.

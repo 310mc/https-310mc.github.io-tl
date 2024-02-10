@@ -55,7 +55,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
             alt="Chiaki-related stories"
@@ -67,7 +67,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c2.jpg"
             alt="Midori-related stories"
@@ -79,7 +79,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
             alt="Sports Survivors"
@@ -91,7 +91,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/escapemansion/kogabcgframe_300px.jpg"
             alt="Escape Mansion"
@@ -103,7 +103,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
             alt="Graduation"
@@ -122,7 +122,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
             alt="Stella Maris – Climax Event"
@@ -134,7 +134,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
             alt="Colorful Autumn"

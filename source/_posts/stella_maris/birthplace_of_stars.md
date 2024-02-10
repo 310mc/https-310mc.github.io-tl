@@ -12,7 +12,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
+description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -73,7 +73,7 @@ description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The o
 ## Chapter 1
 
 {% note narration %}
-**Chapter TL Note:** The chapter title “birthplace of stars” is written in hiragana only, so I've written the title in lowercase letters, similar to how Kanata's speech quirk (speaks in hiragana only) is written in my translations.
+**Chapter TL Note:** The chapter title “birthplace of stars” is written in hiragana only, so I’ve written the title in lowercase letters, similar to how Kanata’s speech quirk (speaks in hiragana only) is written in my translations.
 {% endnote %}
 
 {% img /img/es/eventstory/stellamaris/p2_1.jpg %}
@@ -2614,21 +2614,21 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 ## Translation Notes
 
 [^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-[^2]: Suica card is Japan's smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
+[^2]: Suica card is Japan’s smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
-[^4]: The time-point Eichi is referring to is March, as that's the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>.
-[^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^4]: The time-point Eichi is referring to is March, as that’s the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>.
+[^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.
 [^6]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
 [^7]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
-[^8]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine's</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”.
+[^8]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”.
 [^9]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Hitsugi_Kurone" target="_blank">Hitsugi Kurone and NEGI</a>.
 [^10]: Eichi and Chiaki were revealed to have met in a hospital when they were young in <a href="https://hyenahunt.tumblr.com/post/736331182543896576/saga-rivals-12" target="_blank">Saga</a>. <a href="https://ensemble-stars.fandom.com/wiki/Saga" target="_blank">Wiki Link</a>.
-[^11]: The following two chapters refer back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^11]: The following two chapters refer back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.
 [^12]: Something to mention about Kanata and the word “hero”: Kanata always talks in full hiragana (he turns katakana words to deformed hiragana spelling). The only word he always says in the correct way it’s spelt is “hero” (ヒーロー, in katakana).
 [^13]: The word Tetora uses for “leader” is <em>hatagashira</em> (旗頭), which is also a word related to an Okinawan festive event.
 [^14]: These lines of dialogue are referring to the events that happened in <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the story that shows how Kanata was subjugated as an Eccentric.
-[^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue's catchphrase, “mark of mystery” <em>shinpi</em>.
-[^16]: The word used here for “childish” is <em>kodomo-damashi</em>, lit. things that can only deceive children. It's a word sometimes used in Enstars stories in reference to tokusatsu shows (typically translated to “kiddie stuff” or something similar).
-[^17]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.
-[^18]: In Japanese, the Virgin Mary is called <em>seibo(-sama)</em>, lit. “holy mother”. Stella Maris, on the other hand, means “star of the sea”. It's also another name for the star Polaris, a guiding star. Read more: <a href="https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea" target="_blank">Star of the Sea</a> — <a href="https://en.wikipedia.org/wiki/Polaris" target="_blank">Polaris</a>.
+[^15]: The word Eichi uses for “mystical” is <em>shinpi-teki</em>, which is the same word used in Ryusei Blue’s catchphrase, “mark of mystery” <em>shinpi</em>.
+[^16]: The word used here for “childish” is <em>kodomo-damashi</em>, lit. things that can only deceive children. It’s a word sometimes used in Enstars stories in reference to tokusatsu shows (typically translated to “kiddie stuff” or something similar).
+[^17]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he’s more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.
+[^18]: In Japanese, the Virgin Mary is called <em>seibo(-sama)</em>, lit. “holy mother”. Stella Maris, on the other hand, means “star of the sea”. It’s also another name for the star Polaris, a guiding star. Read more: <a href="https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea" target="_blank">Star of the Sea</a> — <a href="https://en.wikipedia.org/wiki/Polaris" target="_blank">Polaris</a>.
 [^19]: In Japanese, the ship is called <em>Mizusaba-gou</em>. The <em>gou</em> is a suffix attached to ship names.

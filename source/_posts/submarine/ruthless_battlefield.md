@@ -922,7 +922,7 @@ But if I’m bein’ real with ya… It's tough having to lie even to your own b
 {% endbubble %}
 
 {% bubble Chiaki sad %}
-………
+…………
 {% endbubble %}
 
 {% bubble Kuro %}

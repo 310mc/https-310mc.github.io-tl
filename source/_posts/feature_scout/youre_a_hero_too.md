@@ -477,7 +477,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/somethinglibrary/c1.jpg"
             alt="Something Dubious in the Library"
@@ -489,7 +489,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/heroicheart/c1.jpg"
             alt="Always Hold a Heroic Heart"
@@ -501,7 +501,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c1.jpg"
             alt="You're A Hero, Too!"
@@ -513,7 +513,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/tiesindexfinger/c1.jpg"
             alt="Ties of an Index Finger"
@@ -525,7 +525,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/atyourservicemaster/c1.jpg"
             alt="I'm At Your Service, Master!"
@@ -537,7 +537,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"

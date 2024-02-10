@@ -368,7 +368,7 @@ Um, no… That um, really *does* sound like a pain…
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
@@ -380,7 +380,7 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
@@ -392,7 +392,7 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
@@ -404,7 +404,7 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
@@ -416,7 +416,7 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
@@ -428,7 +428,7 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"

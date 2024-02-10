@@ -25,7 +25,7 @@ permalink: minitalk/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/climax/tetoraframe_300px.jpg"
             alt="As The Future Commander"
@@ -37,7 +37,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/climax/tetorabcgframe_300px.jpg"
             alt="Fruits Of One's Efforts"
@@ -49,7 +49,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/climax/shinobuframe_300px.jpg"
             alt="Endurance Of A Shy Person"
@@ -61,7 +61,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/climax/shinobubcgframe_300px.jpg"
             alt="Guiding Them To Hope"
@@ -73,7 +73,7 @@ permalink: minitalk/
     </a>
 </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/climax/chiakiframe_300px.jpg"
                 alt="Tough Being a Parent"
@@ -85,7 +85,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
                 alt="Justice Will Prevail"
@@ -97,7 +97,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/climax/midoriframe_300px.jpg"
                 alt="Novice Hero"
@@ -109,7 +109,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
                 alt="Path To Compassion"
@@ -128,7 +128,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/shootingstarfestival/chiakiframe_300px.jpg"
                 alt="A Joint Live!"
@@ -140,7 +140,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/shootingstarfestival/chiakibcgframe_300px.jpg"
                 alt="The Festival's Hero"
@@ -157,7 +157,7 @@ permalink: minitalk/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
             alt="Anxious over…?"
@@ -169,7 +169,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
             alt="The Monster Appears!"
@@ -181,7 +181,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/sweethalloween/midoriframe_300px.jpg"
             alt="Halloween Costume"
@@ -193,7 +193,7 @@ permalink: minitalk/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/sweethalloween/midoribcgframe_300px.jpg"
             alt="Fun Training Camp?"
@@ -212,7 +212,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/orihimeandhikoboshi/midoriframe_300px.jpg"
                 alt="Unaccustomed Situation"
@@ -224,7 +224,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/orihimeandhikoboshi/midoribcgframe_300px.jpg"
                 alt="Tanabata Shooting Star"
@@ -245,7 +245,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
                 alt="Worrisome Days"
@@ -257,7 +257,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
                 alt="Topics About That Guy"
@@ -276,7 +276,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/submarine/chiakiframe_300px.jpg"
                 alt="Okinawa Red!"
@@ -288,7 +288,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg"
                 alt="Troubled Hero"
@@ -302,7 +302,7 @@ permalink: minitalk/
 </div>
     <!--
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ring/midoriframe_300px.jpg"
                 alt="Conveying My Feelings"
@@ -314,7 +314,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
                 alt="Before the Nerve-wrecking Photoshoot"
@@ -333,7 +333,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/midoriframe_300px.jpg"
                 alt="Relaxing Gameplay"
@@ -345,7 +345,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
                 alt="Eeeggy-eggy-eggyplant"
@@ -357,7 +357,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/tetoraframe_300px.jpg"
                 alt="Thrilling Gameplay"
@@ -369,7 +369,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
                 alt="I Don't Get It"
@@ -381,7 +381,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/chiakiframe_300px.jpg"
                 alt="An Invasion from a Formidable Enemy"
@@ -393,7 +393,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
                 alt="Sightseeing the Historical Village"
@@ -412,7 +412,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg"
                 alt="The Planning Of That Show"
@@ -424,7 +424,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
                 alt="Unaligned Feelings"
@@ -436,7 +436,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg"
                 alt="What An Evil Ninja Is"
@@ -448,7 +448,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg"
                 alt="Preparing For The Mission"
@@ -460,7 +460,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg"
                 alt="Hungry Hero"
@@ -472,7 +472,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg"
                 alt="The Path of a Hero Turning Evil"
@@ -484,7 +484,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/midoriframe_300px.jpg"
                 alt="Recommendations"
@@ -496,7 +496,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg"
                 alt="Work, work, work"
@@ -508,7 +508,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/kanataframe_300px.jpg"
                 alt="planning a trip"
@@ -520,7 +520,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg"
                 alt="sea crook"
@@ -539,7 +539,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/weddingmarch/chiakiframe_300px.jpg"
                 alt="Unexpected Dropped Item"
@@ -551,7 +551,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
                 alt="If I Were In Kyoto…"
@@ -570,7 +570,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/midoriframe_300px.jpg"
                 alt="Nervous At Work"
@@ -582,7 +582,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
                 alt="Proclaiming What I Love"
@@ -594,7 +594,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/shinobuframe_300px.jpg"
                 alt="Peculiar Food Specialty"
@@ -606,7 +606,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
                 alt="Mascot Character Training"
@@ -618,7 +618,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/kanataframe_300px.jpg"
                 alt="wonderful news"
@@ -630,7 +630,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg"
                 alt="treasured item"
@@ -642,7 +642,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/tetoraframe_300px.jpg"
                 alt="Studying Every Day"
@@ -654,7 +654,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
                 alt="How A Mascot Feels"
@@ -666,7 +666,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
                 alt="Favorable Work"
@@ -678,7 +678,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg"
                 alt="Final Warmup"
@@ -697,7 +697,7 @@ permalink: minitalk/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
                 alt="lovely present"
@@ -709,7 +709,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
                 alt="secrets to [leadership]"
@@ -721,7 +721,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
                 alt="Buying Ingredients for a Big Meal"
@@ -733,7 +733,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
                 alt="Preparing in Advance for a Job"
@@ -745,7 +745,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
                 alt="Torn Tracksuit"
@@ -757,7 +757,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
                 alt="Returning From Work"
@@ -769,7 +769,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
                 alt="Encounter at the Cafeteria"
@@ -781,7 +781,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
                 alt="Sudden Departure"
@@ -793,7 +793,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
                 alt="An Energizing Time"
@@ -805,7 +805,7 @@ permalink: minitalk/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
                 alt="Okinawa Souvenir"

@@ -25,7 +25,7 @@ permalink: birthday_story/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/shinobu2019.jpg"
             alt="2016-2019 Birthday Content"
@@ -37,7 +37,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/shinobu2020.jpg"
             alt="2020 Birthday Content"
@@ -49,7 +49,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/shinobu2021.jpg"
             alt="2021 Birthday Content"
@@ -61,7 +61,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/shinobu2022.jpg"
             alt="2022 Birthday Content"
@@ -73,7 +73,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/shinobu2023.jpg"
             alt="2023 Birthday Content"
@@ -90,7 +90,7 @@ permalink: birthday_story/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/tetora2019.jpg"
             alt="2016-2019 Birthday Content"
@@ -102,7 +102,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/tetora2020.jpg"
             alt="2020 Birthday Content"
@@ -114,7 +114,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/tetora2021.jpg"
             alt="2021 Birthday Content"
@@ -126,7 +126,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/tetora2022.jpg"
             alt="2022 Birthday Content"
@@ -138,7 +138,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/tetora2023.jpg"
             alt="2023 Birthday Content"
@@ -155,7 +155,7 @@ permalink: birthday_story/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/midori2019.jpg"
             alt="2016-2019 Birthday Content"
@@ -167,7 +167,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/midori2020.jpg"
             alt="2020 Birthday Content"
@@ -179,7 +179,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/midori2021.jpg"
             alt="2021 Birthday Content"
@@ -191,7 +191,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/midori2022.jpg"
             alt="2022 Birthday Content"
@@ -203,7 +203,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/midori2023.jpg"
             alt="2023 Birthday Content"
@@ -220,7 +220,7 @@ permalink: birthday_story/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/kanata2019.jpg"
             alt="2016-2019 Birthday Content"
@@ -232,7 +232,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/kanata2020.jpg"
             alt="2020 Birthday Content"
@@ -244,7 +244,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/kanata2021.jpg"
             alt="2021 Birthday Content"
@@ -256,7 +256,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/kanata2022.jpg"
             alt="2022 Birthday Content"
@@ -268,7 +268,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/kanata2023.jpg"
             alt="2023 Birthday Content"
@@ -285,7 +285,7 @@ permalink: birthday_story/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/chiaki2019.jpg"
             alt="2016-2019 Birthday Content"
@@ -297,7 +297,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/chiaki2020.jpg"
             alt="2020 Birthday Content"
@@ -309,7 +309,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/chiaki2021.jpg"
             alt="2021 Birthday Content"
@@ -321,7 +321,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/chiaki2022.jpg"
             alt="2022 Birthday Content"
@@ -333,7 +333,7 @@ permalink: birthday_story/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/birthdaystory/banner/chiaki2023.jpg"
             alt="2023 Birthday Content"

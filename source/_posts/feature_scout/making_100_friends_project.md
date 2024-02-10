@@ -297,7 +297,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
@@ -309,7 +309,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
@@ -321,7 +321,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
@@ -333,7 +333,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
@@ -345,7 +345,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
@@ -357,7 +357,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"

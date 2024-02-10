@@ -61,8 +61,6 @@ permalink: our_stella/
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/lyrics.css">
-
 ## Index
 <p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
@@ -198,6 +196,6 @@ permalink: our_stella/
 
 "Stella" means star. The event story title, "Stella Maris", means "star of the sea".
 
-[^1]: The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata's name (奏). Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
+[^1]: The word translated as "sing" is <em>kanade(ru)</em> in Japanese. The word shares the same kanji in Kanata’s name (奏). Alongside the above note, <em>kanadeau</em> (sing in harmony) can possibly be interpreted as a wordplay of "sing" and "encounter" (<em>deau</em> 出会う).
 [^2]: The horizon, where the sea and sky meet, is a common theme for Kanata, as seen in his first solo song, <a href="https://ensemble-stars.fandom.com/wiki/Marine_Blue_Rendezvous_(Lyrics)" target="_blank">marine blue rendezvous</a>.
 [^3]: "Saved and scooped up" comes from the wordplay for <em>sukuu</em> すくう, which can be read as both "save/rescue" and "scoop". Kanata sings a similar line like this in <a href="https://ensemble-stars.fandom.com/wiki/Ryusei_Hanabi_(Lyrics)" target="_blank">Ryusei Hanabi</a>.

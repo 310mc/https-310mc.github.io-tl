@@ -20,11 +20,11 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -302,11 +302,11 @@ So, which are you guys choosing?
 
 [^1]: RB refers to Ryuseitai Black, the Ryuseitai that Tetora led in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^2]: R2 is one of the DreamFes (DLFS) lives, ranked at the second lowest (The ranking order from lowest to highest goes N1, R2, R1, SS).
-[^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It's how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
-[^4]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decided that each Ryuseitai led by a different unit member will have its own name, hence Midori's becoming “Ryuseitai Green”.
+[^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
+[^4]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decided that each Ryuseitai led by a different unit member will have its own name, hence Midori’s becoming “Ryuseitai Green”.
 [^5]: To learn more about what happened, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^6]: As a side note, “Ryuseitai Power Up” is how the new Ryuseitai was introduced by the game, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
 [^7]: Ryuseitai-N (N = Nagumo) refers to the Ryuseitai that worked within Yumenosaki Academy, which was then disbanded by the end of summer. You can read more about them in the story <a href="/motor_show" target="_blank">Motor Show</a>.
-[^8]: This is referring to the initial decision Ryuseitai took after Chiaki and Kanata graduated and the ES agencies were established: To split between Ryuseitai-N (Yumenosaki Academy's Ryuseitai, led by Tetora), and Ryuseitai-M (StarPro's Ryuseitai, led by Chiaki).
-[^9]: You can see the whiteboard in <a href="/img/es/eventstory/tropical/chiakicard.jpg" target="_blank">Chiaki's card</a>.
+[^8]: This is referring to the initial decision Ryuseitai took after Chiaki and Kanata graduated and the ES agencies were established: To split between Ryuseitai-N (Yumenosaki Academy’s Ryuseitai, led by Tetora), and Ryuseitai-M (StarPro’s Ryuseitai, led by Chiaki).
+[^9]: You can see the whiteboard in <a href="/img/es/eventstory/tropical/chiakicard.jpg" target="_blank">Chiaki’s card</a>.
 [^10]: A ladder lottery looks like <a href="https://en.wikipedia.org/wiki/Ghost_Leg" target="_blank">this</a>.

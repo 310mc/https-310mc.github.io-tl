@@ -1,5 +1,5 @@
 ---
-title: "[ES!] The Crimson's Pure Heart"
+title: "[ES!] The Crimson’s Pure Heart"
 date: 2019-7-26 9:00:00
 categories:
 - [Enstars, ES!]
@@ -18,7 +18,7 @@ permalink: crimsons_pure_heart/
 
 Kuro wants to learn more about a certain mascot from Midori…
 
-This story is connected to the card [Carrot's Relations] Kuro Kiryu.
+This story is connected to the card [Carrot’s Relations] Kuro Kiryu.
 
 <p style="color:blue;font-size:110%;"><b>Story Release Date:</b> July 26, 2019</p>
 
@@ -311,4 +311,4 @@ Okay, I’d be glad to…♪
 ## Translation Notes
 
 [^1]: A reference to <a href="/tough_guy/" target="_blank">Tough Guy</a>.
-[^2]: You can see how Carrotian looks on Kuro's bloomed card (see the card images at the top of this page).
+[^2]: You can see how Carrotian looks on Kuro’s bloomed card (see the card images at the top of this page).

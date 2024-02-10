@@ -20,11 +20,11 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -887,9 +887,9 @@ Okay, let’s…♪
 
 ## Translation Notes
 
-[^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they're mainly cute/soft rather than “bizarre” in their cuteness.
-[^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot's name.
+[^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they’re mainly cute/soft rather than “bizarre” in their cuteness.
+[^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot’s name.
 [^3]: Armajiro (<em>arumajirou</em> in Japanese) appears to speaks in a masculine-like, relaxed tone, saying <em>maaruku, maaruku, osameru zoo…♪</em> (ending speech quirk appears to be ぞお <em>zoo</em> at the end).
 [^4]: Kiwi speaks as it is written in English, and the first-person pronoun it uses is <em>boku</em>. (As a side note, Shinobu typically uses the <em>sessha</em> pronoun, and usually only uses <em>boku</em> when referring to his past, non-ninja self.)
 [^5]: Bearbonk (<em>kumagon</em> in Japanese) appears to speak in a rough/masculine-like tone, saying <em>go~n, oira wa kumagon da, gon!</em>. The first-person pronoun it uses is <em>oira</em>.
-[^6]: It's unclear what sort of tone Plateypus (<em>kamohasshii</em> in Japanese) speaks in, but the dialogue in Japanese is <em>oishii gohan ga tabetai, kamo</em>, though Chiaki adds a lot of force to it at the end. It's possible that the ending speech quirk <em>kamo</em> acts as a double wordplay with its name and the word “maybe” in Japanese (<em>kamo shirenai</em>). Unfortunately, the characters don't talk much, so it's hard to say.
+[^6]: It’s unclear what sort of tone Plateypus (<em>kamohasshii</em> in Japanese) speaks in, but the dialogue in Japanese is <em>oishii gohan ga tabetai, kamo</em>, though Chiaki adds a lot of force to it at the end. It’s possible that the ending speech quirk <em>kamo</em> acts as a double wordplay with its name and the word “maybe” in Japanese (<em>kamo shirenai</em>). Unfortunately, the characters don’t talk much, so it’s hard to say.

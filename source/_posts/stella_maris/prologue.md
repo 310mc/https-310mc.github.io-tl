@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
+description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -311,11 +311,11 @@ Kya-kya! ☆ Kya-kya! ☆
 ## Translation Notes
 
 [^1]: Kanata says <em>one, two, san</em>, switching from English to Japanese for the numbering.
-[^2]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It's how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
-[^3]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori's turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
+[^2]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
+[^3]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori’s turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
 [^4]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^5]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
 [^6]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
-[^7]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it's said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it's rotten, it's still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
+[^7]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it’s said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it’s rotten, it’s still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
 [^8]: Kamaboko is a kind of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
 [^9]: The “fish” in fish Ryuseitai is in hiragana, and “Ryuseitai” remains in kanji. Kanata talks only in hiragana, so to match that, I kept the word in hiragana as well. Together, the name lit. means “fish shooting star/meteor squad”.

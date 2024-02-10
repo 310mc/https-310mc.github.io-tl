@@ -20,11 +20,11 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -1032,9 +1032,9 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 ## Translation Notes
 
 [^1]: Mitsuru is roommates with Midori (along with Ibara and Tsumugi).
-[^2]: In Japanese, the names are as follows: Kumagon, Namakesan, Arumajirou, Kiwi, Kamohasshii. Because it's unclear which animal some of them are if left in Japanese, I decided to give them an English equivalent name. All these mascots can be seen in the <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">MV</a> of this event.
-[^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori's Idol Story 1</a>, too.
+[^2]: In Japanese, the names are as follows: Kumagon, Namakesan, Arumajirou, Kiwi, Kamohasshii. Because it’s unclear which animal some of them are if left in Japanese, I decided to give them an English equivalent name. All these mascots can be seen in the <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">MV</a> of this event.
+[^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori’s Idol Story 1</a>, too.
 [^4]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
 [^5]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
-[^6]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>'s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
+[^6]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>’s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
 [^7]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Laid-back/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

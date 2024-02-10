@@ -331,7 +331,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/somethinglibrary/c1.jpg"
             alt="Something Dubious in the Library"
@@ -343,7 +343,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/heroicheart/c1.jpg"
             alt="Always Hold a Heroic Heart"
@@ -355,7 +355,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c1.jpg"
             alt="You're A Hero, Too!"
@@ -367,7 +367,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/tiesindexfinger/c1.jpg"
             alt="Ties of an Index Finger"
@@ -379,7 +379,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/atyourservicemaster/c1.jpg"
             alt="I'm At Your Service, Master!"
@@ -391,7 +391,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"

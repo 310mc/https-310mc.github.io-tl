@@ -320,7 +320,7 @@ I wish I never said anything if it was gonna end like this…!!
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/birthofbasketbon/c2.jpg"
                 alt="Birth of Basketbon"
@@ -332,7 +332,7 @@ I wish I never said anything if it was gonna end like this…!!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/morningpractice/c2.jpg"
                 alt="Morning Practice"
@@ -344,7 +344,7 @@ I wish I never said anything if it was gonna end like this…!!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/herogame/c1.jpg"
                 alt="Hero Game"
@@ -356,7 +356,7 @@ I wish I never said anything if it was gonna end like this…!!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"

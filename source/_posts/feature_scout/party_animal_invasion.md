@@ -327,7 +327,7 @@ Is “Otto~” meant to be me?
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
@@ -339,7 +339,7 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
@@ -351,7 +351,7 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
@@ -363,7 +363,7 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
@@ -375,7 +375,7 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
@@ -387,7 +387,7 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"

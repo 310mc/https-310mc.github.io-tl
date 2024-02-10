@@ -420,7 +420,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/birthofbasketbon/c2.jpg"
                 alt="Birth of Basketbon"
@@ -432,7 +432,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/morningpractice/c2.jpg"
                 alt="Morning Practice"
@@ -444,7 +444,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/herogame/c1.jpg"
                 alt="Hero Game"
@@ -456,7 +456,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"

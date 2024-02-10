@@ -24,9 +24,9 @@ permalink: RELAX_PARADISE/
                     Ryuseitai
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
@@ -60,8 +60,6 @@ permalink: RELAX_PARADISE/
 </div>
 
 <!-- more -->
-
-<link rel="stylesheet" href="/css/lyrics.css">
 
 ## Index
 <p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
@@ -408,6 +406,6 @@ permalink: RELAX_PARADISE/
 
 ## Translation Notes
 
-* The word for "favorite" is <em>daisuki</em> in Japanese, which would roughly translate to "likes/loves" or "things (we) love" in the song. The "likes" is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song's lyrics.
+* The word for "favorite" is <em>daisuki</em> in Japanese, which would roughly translate to "likes/loves" or "things (we) love" in the song. The "likes" is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song’s lyrics.
 
 * The word <em>yuru(i)</em> means “laid-back”, “soft”.

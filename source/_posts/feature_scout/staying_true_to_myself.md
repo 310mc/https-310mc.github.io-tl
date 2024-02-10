@@ -449,7 +449,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
@@ -461,7 +461,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
@@ -473,7 +473,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
@@ -485,7 +485,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
@@ -497,7 +497,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
@@ -509,7 +509,7 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"

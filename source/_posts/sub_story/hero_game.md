@@ -334,7 +334,7 @@ Ughh, I can’t freaking take it anymore with these goofy idiots…!
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/birthofbasketbon/c2.jpg"
                 alt="Birth of Basketbon"
@@ -346,7 +346,7 @@ Ughh, I can’t freaking take it anymore with these goofy idiots…!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/morningpractice/c2.jpg"
                 alt="Morning Practice"
@@ -358,7 +358,7 @@ Ughh, I can’t freaking take it anymore with these goofy idiots…!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/herogame/c1.jpg"
                 alt="Hero Game"
@@ -370,7 +370,7 @@ Ughh, I can’t freaking take it anymore with these goofy idiots…!
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"

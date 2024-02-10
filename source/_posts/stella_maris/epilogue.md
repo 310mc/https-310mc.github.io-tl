@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] It is Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods, but then Kanata suddenly informs them about something…"
+description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -479,7 +479,7 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 ## Story Highlights
 
-<big>Thank you for reading Ryuseitai's Climax Event! Please scroll down or click <a href="#Story-Highlights-Text">here</a> for the text version!</big>
+<big>Thank you for reading Ryuseitai’s Climax Event! Please scroll down or click <a href="#Story-Highlights-Text">here</a> for the text version!</big>
 
 <big>Please take a look at the song lyrics for this event too, <a href="/our_stella" target="_blank">Our Stella</a>.</big>
 
@@ -513,4 +513,4 @@ It’s exactly because they’ve obtained the sparkling stars that they once wis
 
 ## Translation Notes
 
-[^1]: This scene, as well as the rest of the chapters, have many moments that reference <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata's childhood.
+[^1]: This scene, as well as the rest of the chapters, have many moments that reference <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.

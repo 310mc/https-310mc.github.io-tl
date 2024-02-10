@@ -67,7 +67,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/es2mainstory/firstmainstorybanner.jpg"
             alt="1st Main Story"
@@ -79,7 +79,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/es2mainstory/ssfinalsbanner.jpg"
             alt="SS Finals"
@@ -96,7 +96,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
                 alt="Climax"
@@ -108,7 +108,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
                 alt="Aquarium"
@@ -120,7 +120,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
                 alt="Sweet Halloween"
@@ -132,7 +132,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/schoolfestival4/tetorabcgframe_300px.jpg"
                 alt="School Festival 4"
@@ -144,7 +144,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/orihimeandhikoboshi/shinobubcgframe_300px.jpg"
                 alt="Orihime and Hikoboshi"
@@ -156,7 +156,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/meteorimpact/chiakibcgframe_300px.jpg"
                 alt="Meteor Impact"
@@ -168,7 +168,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/eventstory/crossroad/chiakicgframe_300px.jpg"
                 alt="Crossroad"
@@ -185,7 +185,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg"
             alt="Motor Show"
@@ -197,7 +197,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg"
             alt="Comet Show"
@@ -209,7 +209,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg"
             alt="Submarine"
@@ -221,7 +221,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
             alt="Ring"
@@ -233,7 +233,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/ninjaclan/shinobubcgframe_300px.jpg"
             alt="Ninja Clan"
@@ -245,7 +245,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
             alt="Supervillain"
@@ -257,7 +257,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
             alt="Wedding March!"
@@ -269,7 +269,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
             alt="Parallel World"
@@ -281,7 +281,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
             alt="Tropical"
@@ -293,7 +293,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
             alt="Stella Maris – Climax Event"
@@ -310,7 +310,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/toughguy/kurobcgframe_300px.jpg"
                 alt="Tough Guy"
@@ -322,7 +322,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
                 alt="Colorful Autumn"
@@ -334,7 +334,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/biblio/tsumugibcgframe_300px.jpg"
                 alt="Biblio"
@@ -346,7 +346,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/zodiac/midoribcgframe_300px.jpg"
                 alt="Zodiac"
@@ -358,7 +358,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/beasts/tetoracgframe_300px.jpg"
                 alt="Beasts"
@@ -370,7 +370,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/gang/yuzurubcgframe_300px.jpg"
                 alt="Gang"
@@ -382,7 +382,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/comicworld/keitobcgframe_300px.jpg"
                 alt="Comic World"
@@ -394,7 +394,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/buddy/chiakibcgframe_300px.jpg"
                 alt="Buddy"
@@ -410,7 +410,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars!! Era</h4>
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/dollhouse/midoribcgframe_300px.jpg"
                 alt="Dollhouse"
@@ -422,7 +422,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <!--<div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe_300px.jpg"
                 alt="Flowers of the Wasteland"
@@ -434,7 +434,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>-->
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/ushimairip2/yuzurubcgframe_300px.jpg"
                 alt="Ushimairi, Part Two"
@@ -446,7 +446,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <!--<div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/roaringseamarina/izumibcgframe_300px.jpg"
                 alt="Roaring Sea Marina"
@@ -458,7 +458,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>-->
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/soleil/mitsurubcgframe_300px.jpg"
                 alt="Soleil"
@@ -470,7 +470,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/mangaclub/maobcgframe_300px.jpg"
                 alt="Manga Club"
@@ -482,7 +482,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/abyss/kanatabcgframe_300px.jpg"
                 alt="ABYSS"
@@ -500,7 +500,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/birthofbasketbon/c2.jpg"
                 alt="Birth of Basketbon"
@@ -512,7 +512,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/morningpractice/c2.jpg"
                 alt="Morning Practice"
@@ -524,7 +524,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/dailylifebasketball/c2.jpg"
                 alt="Daily Life of Basketball Club"
@@ -536,7 +536,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/selfishnoble/c1.jpg"
                 alt="Selfish Noble"
@@ -548,7 +548,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/herogame/c1.jpg"
                 alt="Hero Game"
@@ -560,7 +560,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/legendaryhero/c1.jpg"
                 alt="Legendary Hero!"
@@ -572,7 +572,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/driftedashore/c1.jpg"
                 alt="When I Drifted Ashore"
@@ -584,7 +584,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/gameoftag/c2.jpg"
                 alt="A Game of Tag with Mama"
@@ -596,7 +596,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/melancholicclubactivities/c2.jpg"
                 alt="Melancholic Club Activities"
@@ -608,7 +608,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/crimsonspureheart/c2.jpg"
                 alt="The Crimson's Pure Heart"
@@ -620,7 +620,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/idolstory/studyheroes/c2.jpg"
                 alt="Study Heroes"
@@ -636,7 +636,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars!! Era</h4>
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/midoriidolstory1.jpg"
             alt="Midori Takamine Idol Story 1"
@@ -648,7 +648,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/midoriidolstory2.jpg"
             alt="Midori Takamine Idol Story 2"
@@ -660,7 +660,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/midoriidolstory3.jpg"
             alt="Midori Takamine Idol Story 3"
@@ -672,7 +672,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/chiakiidolstory1.jpg"
             alt="Chiaki Morisawa Idol Story 1"
@@ -684,7 +684,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/hinataidolstory1.jpg"
             alt="Hinata Aoi Idol Story 1"
@@ -696,7 +696,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/hinataidolstory3.jpg"
             alt="Hinata Aoi Idol Story 3"
@@ -708,7 +708,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/hajimeidolstory1.jpg"
             alt="Hajime Shino Idol Story 1"
@@ -720,7 +720,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/banner/kanataidolstory2.jpg"
             alt="Kanata Shinkai Idol Story 2"
@@ -736,7 +736,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Feature Scout Stories</h4>
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/making100friendsproject/c2.jpg"
             alt="Making-100-Friends Project"
@@ -748,7 +748,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/partyanimalinvasion/c1.jpg"
             alt="Party Animal Invasion"
@@ -760,7 +760,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
             alt="Staying True To Myself"
@@ -772,7 +772,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/somethinglibrary/c1.jpg"
             alt="Something Dubious in the Library"
@@ -784,7 +784,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/heroicheart/c1.jpg"
             alt="Always Hold a Heroic Heart"
@@ -796,7 +796,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c1.jpg"
             alt="You're A Hero, Too!"
@@ -808,7 +808,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/tiesindexfinger/c1.jpg"
             alt="Ties of an Index Finger"
@@ -820,7 +820,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/atyourservicemaster/c1.jpg"
             alt="I'm At Your Service, Master!"
@@ -832,7 +832,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/dothenorm/c2.jpg"
             alt="Do The Norm"
@@ -844,7 +844,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/dearmeninja/c1.jpg"
             alt="Dear me, Before I Became a Ninja"
@@ -856,7 +856,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/detourencounter/c1.jpg"
             alt="A Detour Encounter"
@@ -868,7 +868,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/bodybuildingbros/c2.jpg"
             alt="Together, We Are the Bodybuilding Bros!"
@@ -880,7 +880,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/methesea/c1.jpg"
             alt="me, the sea, and everyone with me"
@@ -892,7 +892,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/essencebutler/c1.jpg"
             alt="The Essence of a Butler"
@@ -904,7 +904,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/readhandlebooks/c2.jpg"
             alt="How to Read Books and Handle Them"
@@ -916,7 +916,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/manlyback/c1.jpg"
             alt="Manly Back"
@@ -928,7 +928,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/makewordseven/c1.jpg"
             alt="Making Our Words Even"
@@ -940,7 +940,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/ninjarain/c1.jpg"
             alt="A Raininja Day to Convey"
@@ -952,7 +952,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <!--<div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/justthewayiam/c1.jpg"
             alt="Just The Way I Am"
@@ -964,7 +964,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>-->
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/trainingpromise/c1.jpg"
             alt="The Promise To Train"
@@ -976,7 +976,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/daysandhero/c1.jpg"
             alt="Dream Days and Hero"
@@ -988,7 +988,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/justicemealvoucher/c2.jpg"
             alt="Meal Voucher of Justice"
@@ -1000,7 +1000,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/challengediy/c1.jpg"
             alt="Let's Try DIY"
@@ -1012,7 +1012,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/backstageradio/c1.jpg"
             alt="Backstage RADIO"
@@ -1028,7 +1028,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Other Stories
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/banner/minitalkbanner.jpg"
             alt="Mini Talks"
@@ -1040,7 +1040,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/manageconvo/coverv2_300px.jpg"
             alt="Management Story"
@@ -1052,7 +1052,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/banner/midoribday2018.gif"
             alt="Birthday Story"
@@ -1064,7 +1064,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/idolstory/christmasparty/banner_300px.jpg"
             alt="Yumenosaki Christmas Party"
@@ -1082,7 +1082,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
                 alt="SUPER NOVA REVOLU5TAR"
@@ -1094,7 +1094,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
                 alt="GROWING STARRY DAYS"
@@ -1106,7 +1106,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
                 alt="Meteor Scramble☆RYUSEITAI"
@@ -1122,7 +1122,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h4>Ensemble Stars!! Era</h4>
 <div class="stories">
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/songs/dateplanatoz.jpg"
             alt="Date Plan A to Z"
@@ -1134,7 +1134,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/songs/aislebewithyou.jpg"
                 alt="Aisle, be with you"
@@ -1146,7 +1146,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/songs/colorsarise.jpg"
             alt="Colors Arise"
@@ -1158,7 +1158,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/songs/relaxparadise.jpg"
             alt="RELAX PARADISE"
@@ -1170,7 +1170,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </a>
 </div>
 <div class="story">
-    <div class="image">
+    <div class="thumbimage">
         <img
             src="/img/es/songs/ourstella.jpg"
             alt="our stella – bokura no stella"
@@ -1189,7 +1189,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/songs/ryuseitaialbum_300px.jpg"
                 alt="Ryuseitai Album Messages"
@@ -1201,7 +1201,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/banner/esscoutquotes_300px.jpg"
                 alt="ES! 5* Scout Quotes"
@@ -1218,7 +1218,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="/img/es/dokisuta/cover.jpg"
                 alt="Dokisuta Ryuseitai"
@@ -1234,7 +1234,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <!--## Helios Rising Heroes
 <div class="stories">
     <div class="story">
-        <div class="image">
+        <div class="thumbimage">
             <img
                 src="https://euni2319.files.wordpress.com/2020/08/efz0v4fxoauzvtk.png"
                 alt="Midsummer Survival Island"
