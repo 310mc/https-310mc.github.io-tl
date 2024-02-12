@@ -619,3 +619,104 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/climax/tetoraframe_300px.jpg"
+            alt="As The Future Commander"
+        />
+    </div>
+    <a href="/climax/minitalk/tetora_1" class="storyName" target="_blank">
+        <span>1: As The Future Commander</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/climax/tetorabcgframe_300px.jpg"
+            alt="Fruits Of One's Efforts"
+        />
+    </div>
+    <a href="/climax/minitalk/tetora_2" class="storyName" target="_blank">
+        <span>2: Fruits Of One's Efforts</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/climax/shinobuframe_300px.jpg"
+            alt="Endurance Of A Shy Person"
+        />
+    </div>
+    <a href="/climax/minitalk/shinobu_1" class="storyName" target="_blank">
+        <span>1: Endurance Of A Shy Person</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/climax/shinobubcgframe_300px.jpg"
+            alt="Guiding Them To Hope"
+        />
+    </div>
+    <a href="/climax/minitalk/shinobu_2" class="storyName" target="_blank">
+        <span>2: Guiding Them To Hope</span>
+        <span class="read"></span>
+    </a>
+</div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/climax/chiakiframe_300px.jpg"
+                alt="Tough Being a Parent"
+            />
+        </div>
+        <a href="/climax/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Tough Being a Parent</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
+                alt="Justice Will Prevail"
+            />
+        </div>
+        <a href="/climax/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Justice Will Prevail</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/climax/midoriframe_300px.jpg"
+                alt="Novice Hero"
+            />
+        </div>
+        <a href="/climax/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Novice Hero</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
+                alt="Path To Compassion"
+            />
+        </div>
+        <a href="/climax/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Path To Compassion</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

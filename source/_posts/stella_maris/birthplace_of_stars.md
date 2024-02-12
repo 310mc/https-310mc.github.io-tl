@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – birthplace of stars"
-date: 2024-2-4 9:01:00
+date: 2024-1-15 9:03:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -2421,7 +2421,7 @@ In fact… If we become respectable parents without ever warping or corrupting d
 {% endbubble %}
 
 {% bubble Midori smile %}
-I don’t think life is all about wins and losses, but I somehow get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a miserable person, either…
+I don’t think life is all about wins and losses, but I somehow get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a bitter person, either…
 
 If I can live my life straightforwardly, then that’s always gonna be the best option, right?
 {% endbubble %}

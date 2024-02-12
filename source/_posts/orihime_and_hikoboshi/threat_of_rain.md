@@ -1028,7 +1028,7 @@ Oh? Is something wrong, Subaru sir?
 Why’re you suddenly speaking politely… No, it's just as you said. I agree with you.
 {% endbubble %}
 
-{% bubble Subaru sad_4 %}
+{% bubble Subaru sad4 %}
 Sorry. I was reminded of what happened in the past, and got angry.
 
 That rarely happens for me, so I didn't know how to control myself…

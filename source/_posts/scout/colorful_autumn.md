@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Colorful Autumn"
-date: 2024-1-11 9:00:00
+date: 2016-10-30 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

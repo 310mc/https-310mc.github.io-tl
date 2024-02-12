@@ -399,6 +399,49 @@ permalink: RELAX_PARADISE/
 
 <p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
 
+## Ryuseitai Songs Directory
+
+<div class="stories">
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/colorsarise.jpg"
+              alt="Colors Arise"
+          />
+      </div>
+      <a href="/colors_arise" class="storyName" target="_blank">
+          <span>Colors Arise</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/relaxparadise.jpg"
+              alt="RELAX PARADISE"
+          />
+      </div>
+      <a href="/RELAX_PARADISE" class="storyName" target="_blank">
+          <span>RELAX PARADISE</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/ourstella.jpg"
+              alt="our stella – bokura no stella"
+          />
+      </div>
+      <a href="/our_stella" class="storyName" target="_blank">
+          <span>our stella – bokura no stella</span>
+          <span class="read"></span>
+      </a>
+  </div>
+</div>
+
+<hr>
+
 <div toc>
 {% btn /tropical,, star, Event Story: Tropical %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

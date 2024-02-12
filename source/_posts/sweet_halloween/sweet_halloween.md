@@ -670,3 +670,56 @@ permalink: sweet_halloween/
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
+            alt="Anxious over…?"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/chiaki_1" class="storyName" target="_blank">
+        <span>1: Anxious over…?</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+            alt="The Monster Appears!"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/chiaki_2" class="storyName" target="_blank">
+        <span>2: The Monster Appears!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/sweethalloween/midoriframe_300px.jpg"
+            alt="Halloween Costume"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/midori_1" class="storyName" target="_blank">
+        <span>1: Halloween Costume</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/sweethalloween/midoribcgframe_300px.jpg"
+            alt="Fun Training Camp?"
+        />
+    </div>
+    <a href="/sweet_halloween/minitalk/midori_2" class="storyName" target="_blank">
+        <span>2: Fun Training Camp?</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>

@@ -522,3 +522,80 @@ permalink: ninja_clan/
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/midoriframe_300px.jpg"
+                alt="Relaxing Gameplay"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Relaxing Gameplay</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
+                alt="Eeeggy-eggy-eggyplant"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Eeeggy-eggy-eggyplant</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/tetoraframe_300px.jpg"
+                alt="Thrilling Gameplay"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Thrilling Gameplay</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
+                alt="I Don't Get It"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: I Don't Get It</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/chiakiframe_300px.jpg"
+                alt="An Invasion from a Formidable Enemy"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: An Invasion from a Formidable Enemy</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
+                alt="Sightseeing the Historical Village"
+            />
+        </div>
+        <a href="/ninja_clan/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Sightseeing the Historical Village</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

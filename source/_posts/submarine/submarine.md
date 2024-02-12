@@ -363,3 +363,32 @@ permalink: submarine/
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/submarine/chiakiframe_300px.jpg"
+                alt="Okinawa Red!"
+            />
+        </div>
+        <a href="/submarine/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Okinawa Red!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg"
+                alt="Troubled Hero"
+            />
+        </div>
+        <a href="/submarine/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Troubled Hero</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

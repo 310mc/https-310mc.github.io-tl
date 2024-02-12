@@ -269,10 +269,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -282,7 +282,7 @@ permalink: supervillain/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Battle] Tetora Nagumo</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[Unlimited Battle] Tetora Nagumo</div>
                                     <div class="card__jp">[闘争アンリミテッド] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
@@ -305,10 +305,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -318,7 +318,7 @@ permalink: supervillain/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Effort] Shinobu Sengoku</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Unlimited Effort] Shinobu Sengoku</div>
                                     <div class="card__jp">[奔走アンリミテッド] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
@@ -341,10 +341,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -354,7 +354,7 @@ permalink: supervillain/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited United Front] Chiaki Morisawa</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Unlimited United Front] Chiaki Morisawa</div>
                                     <div class="card__jp">[共闘アンリミテッド] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
@@ -377,10 +377,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoricard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/midoriframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -390,7 +390,7 @@ permalink: supervillain/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Unlimited Playing Around] Midori Takamine</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Unlimited Playing Around] Midori Takamine</div>
                                     <div class="card__jp">[翻弄アンリミテッド] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
@@ -413,10 +413,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/kanataframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -426,7 +426,7 @@ permalink: supervillain/
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[unlimited recollection] Kanata Shinkai</div>
+                                    <div class="card__name">⭐⭐⭐<br>[unlimited recollection] Kanata Shinkai</div>
                                     <div class="card__jp">[かいそうあんりみてっど] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
@@ -519,5 +519,130 @@ permalink: supervillain/
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg"
+                alt="The Planning Of That Show"
+            />
+        </div>
+        <a href="/supervillain/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: The Planning Of That Show</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+                alt="Unaligned Feelings"
+            />
+        </div>
+        <a href="/supervillain/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: Unaligned Feelings</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg"
+                alt="What An Evil Ninja Is"
+            />
+        </div>
+        <a href="/supervillain/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: What An Evil Ninja Is</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg"
+                alt="Preparing For The Mission"
+            />
+        </div>
+        <a href="/supervillain/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Preparing For The Mission</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg"
+                alt="Hungry Hero"
+            />
+        </div>
+        <a href="/supervillain/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Hungry Hero</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg"
+                alt="The Path of a Hero Turning Evil"
+            />
+        </div>
+        <a href="/supervillain/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: The Path of a Hero Turning Evil</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/midoriframe_300px.jpg"
+                alt="Recommendations"
+            />
+        </div>
+        <a href="/supervillain/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Recommendations</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg"
+                alt="Work, work, work"
+            />
+        </div>
+        <a href="/supervillain/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Work, work, work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/kanataframe_300px.jpg"
+                alt="planning a trip"
+            />
+        </div>
+        <a href="/supervillain/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: planning a trip</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg"
+                alt="sea crook"
+            />
+        </div>
+        <a href="/supervillain/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: sea crook</span>
+            <span class="read"></span>
+        </a>
     </div>
 </div>

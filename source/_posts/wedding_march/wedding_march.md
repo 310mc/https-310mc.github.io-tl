@@ -339,3 +339,32 @@ permalink: wedding_march/
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/weddingmarch/chiakiframe_300px.jpg"
+                alt="Unexpected Dropped Item"
+            />
+        </div>
+        <a href="/wedding_march/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Unexpected Dropped Item</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+                alt="If I Were In Kyoto…"
+            />
+        </div>
+        <a href="/wedding_march/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: If I Were In Kyoto…</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

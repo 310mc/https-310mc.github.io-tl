@@ -529,3 +529,32 @@ permalink: comet_show/
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
+                alt="Worrisome Days"
+            />
+        </div>
+        <a href="/comet_show/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Worrisome Days</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
+                alt="Topics About That Guy"
+            />
+        </div>
+        <a href="/comet_show/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Topics About That Guy</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

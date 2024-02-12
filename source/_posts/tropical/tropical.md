@@ -272,10 +272,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/midoricard.jpg">
+                                        <img src="/img/es/eventstory/tropical/midoriframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -285,7 +285,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[] Midori Takamine</div>
                                     <div class="card__jp">[] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
@@ -308,10 +308,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/tropical/kanataframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -321,7 +321,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[] Kanata Shinkai</div>
                                     <div class="card__jp">[] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
@@ -344,10 +344,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/tropical/shinobuframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -357,7 +357,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[] Shinobu Sengoku</div>
                                     <div class="card__jp">[] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
@@ -380,10 +380,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/tropical/tetoraframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -393,7 +393,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__name">⭐⭐⭐<br>[] Tetora Nagumo</div>
                                     <div class="card__jp">[] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
@@ -416,10 +416,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/tropical/chiakiframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -429,7 +429,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__name">⭐⭐⭐<br>[] Chiaki Morisawa</div>
                                     <div class="card__jp">[] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
@@ -519,5 +519,130 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/midoriframe_300px.jpg"
+                alt="Nervous At Work"
+            />
+        </div>
+        <a href="/tropical/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Nervous At Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+                alt="Proclaiming What I Love"
+            />
+        </div>
+        <a href="/tropical/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Proclaiming What I Love</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/shinobuframe_300px.jpg"
+                alt="Peculiar Food Specialty"
+            />
+        </div>
+        <a href="/tropical/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: Peculiar Food Specialty</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
+                alt="Mascot Character Training"
+            />
+        </div>
+        <a href="/tropical/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Mascot Character Training</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/kanataframe_300px.jpg"
+                alt="wonderful news"
+            />
+        </div>
+        <a href="/tropical/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: wonderful news</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg"
+                alt="treasured item"
+            />
+        </div>
+        <a href="/tropical/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: treasured item</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/tetoraframe_300px.jpg"
+                alt="Studying Every Day"
+            />
+        </div>
+        <a href="/tropical/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Studying Every Day</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
+                alt="How A Mascot Feels"
+            />
+        </div>
+        <a href="/tropical/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: How A Mascot Feels</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
+                alt="Favorable Work"
+            />
+        </div>
+        <a href="/tropical/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Favorable Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg"
+                alt="Final Warmup"
+            />
+        </div>
+        <a href="/tropical/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Final Warmup</span>
+            <span class="read"></span>
+        </a>
     </div>
 </div>

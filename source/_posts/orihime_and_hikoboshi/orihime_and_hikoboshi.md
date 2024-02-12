@@ -652,3 +652,32 @@ This event is heavily influenced by the concept of Chinese martial arts. Makoto 
 * Video of an athlete performing *gunshu*: <a href="https://www.youtube.com/watch?v=QqwJ8Cni-Lc" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=-HsxeMvVBms" target="_blank">No.2</a> (Both videos portray Mao and Subaru's poses) – Video of an athlete performing *jianshu*: <a href="https://www.youtube.com/watch?v=Guls7Q3EBQY" target="_blank">No.1</a> - <a href="https://www.youtube.com/watch?v=jOcsu3VJSrI" target="_blank">No.2</a> (second video portrays Midori's pose)
 
 * Shinobu’s pose is the <a href="https://www.google.com/search?q=flying+kung+fu+kick&sxsrf=APwXEdfCYOXkdgZMG1202pt-xJUPHDyTzg:1681747015624&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKjt_ro7H-AhX-87sIHT5LBf4Q_AUoAXoECAEQAw&biw=675&bih=640" target="_blank">flying kung fu kick</a> (a kick Bruce Lee often does). Kenpo, the martial arts Tetora adds to Ryuseitai's performance, also has this kicking style.
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/orihimeandhikoboshi/midoriframe_300px.jpg"
+                alt="Unaccustomed Situation"
+            />
+        </div>
+        <a href="/orihime_and_hikoboshi/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Unaccustomed Situation</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/orihimeandhikoboshi/midoribcgframe_300px.jpg"
+                alt="Tanabata Shooting Star"
+            />
+        </div>
+        <a href="/orihime_and_hikoboshi/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Tanabata Shooting Star</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>

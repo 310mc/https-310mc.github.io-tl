@@ -77,7 +77,7 @@
    }
 
    .storyName .read:not(.soon):hover {
-       color: #f1c755;
+       color: #31C790;
    }
    @media only screen and (max-width: 600px) {
     .stories {

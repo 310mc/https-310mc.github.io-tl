@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] How to Read Books and Handle Them"
-date: 2024-1-9 9:00:00
+date: 2022-8-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]

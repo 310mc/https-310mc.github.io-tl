@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Stella Maris – Climax Event"
-date: 2024-2-9 10:00:00
+date: 2024-1-23 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
@@ -280,10 +280,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -293,7 +293,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[dream-granting stella] Kanata Shinkai</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[dream-granting stella] Kanata Shinkai</div>
                                     <div class="card__jp">[かなうゆめのすてら] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
@@ -316,10 +316,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -329,7 +329,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Stella that Sings in the Night] Tetora Nagumo</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella that Sings in the Night] Tetora Nagumo</div>
                                     <div class="card__jp">[歌う夜のステラ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
@@ -352,10 +352,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -365,7 +365,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Stella that Sings at the Sea] Chiaki Morisawa</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella that Sings at the Sea] Chiaki Morisawa</div>
                                     <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
@@ -388,10 +388,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/midoricard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -401,7 +401,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Stella that Follows the Island] Midori Takamine</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Stella that Follows the Island] Midori Takamine</div>
                                     <div class="card__jp">[伝う島のステラ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
@@ -424,10 +424,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -437,7 +437,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Stella with a Heart Full of Feelings] Shinobu Sengoku</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Stella with a Heart Full of Feelings] Shinobu Sengoku</div>
                                     <div class="card__jp">[想う心のステラ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
@@ -530,5 +530,130 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+## Mini Talks
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
+                alt="lovely present"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: lovely present</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                alt="secrets to [leadership]"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: secrets to [leadership]</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
+                alt="Buying Ingredients for a Big Meal"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Buying Ingredients for a Big Meal</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
+                alt="Preparing in Advance for a Job"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: Preparing in Advance for a Job</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
+                alt="Torn Tracksuit"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Torn Tracksuit</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
+                alt="Returning From Work"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Returning From Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
+                alt="Encounter at the Cafeteria"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Encounter at the Cafeteria</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
+                alt="Sudden Departure"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Sudden Departure</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
+                alt="An Energizing Time"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: An Energizing Time</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
+                alt="Okinawa Souvenir"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Okinawa Souvenir</span>
+            <span class="read"></span>
+        </a>
     </div>
 </div>

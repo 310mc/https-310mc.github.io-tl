@@ -257,7 +257,7 @@ permalink: colors_arise/
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">These lyrics were for the MV. Please check below for the full lyrics!</p>
+<p style="text-align:center;font-size:22px;">These lyrics are for the MV. Please check below for the full lyrics!</p>
 
 ## Full Lyrics
 
@@ -559,6 +559,49 @@ permalink: colors_arise/
     <td>Because we have to be heroes!</td>
   </tr>
 </table>
+
+## Ryuseitai Songs Directory
+
+<div class="stories">
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/colorsarise.jpg"
+              alt="Colors Arise"
+          />
+      </div>
+      <a href="/colors_arise" class="storyName" target="_blank">
+          <span>Colors Arise</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/relaxparadise.jpg"
+              alt="RELAX PARADISE"
+          />
+      </div>
+      <a href="/RELAX_PARADISE" class="storyName" target="_blank">
+          <span>RELAX PARADISE</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/ourstella.jpg"
+              alt="our stella – bokura no stella"
+          />
+      </div>
+      <a href="/our_stella" class="storyName" target="_blank">
+          <span>our stella – bokura no stella</span>
+          <span class="read"></span>
+      </a>
+  </div>
+</div>
+
+<hr>
 
 <div toc>
 {% btn /supervillain,, star, Event Story: Supervillain %}
