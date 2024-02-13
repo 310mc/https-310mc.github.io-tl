@@ -75,7 +75,7 @@ I have news to report to y—
 —Wait, what the—!? Eek—!
 {% endbubble %}
 
-{% bubble Chiaki surprised %}
+{% bubble Chiaki horrified %}
 Gwaaaaaahhh!?
 {% endbubble %}
 
@@ -88,7 +88,7 @@ Waah!? A-A-A-Are you alright, Morisawa-dono!? Are you hurt anywhere!?
 {% endbubble %}
 
 {% bubble Chiaki sightired %}
-………
+……………
 {% endbubble %}
 
 {% bubble Tetora worried %}
@@ -103,7 +103,7 @@ It is already bad enough that there are rumors that Ryuseitai no longer have a g
 They keep saying that the Ryuseitai that used to always get along with each other is only in the past now.
 {% endbubble %}
 
-{% bubble Midori frown %}
+{% bubble Midori sighfrown %}
 Can we really do anything about that, though…? There are some dedicated fans who keep up with any and all information on us, but…
 
 There are some who’re just picking up whatever information they find, and now think that Tetora-kun and Shinobu-kun have left Ryuseitai to become part of RB—
@@ -113,13 +113,15 @@ Or that Ryuseitai disbanded and became a different unit for Crimson Production�
 There are some people out there who only have access to that kinda information, and misinterpret it as a fact.
 {% endbubble %}
 
-{% bubble Shinobu frown %}
+{% bubble Shinobu yare %}
 That truly is misinformation… I mean, we have returned back to being Ryuseitai of ES by now.
 
 Alas, there are quite a number of people who have misunderstood that about us, as they did not follow up with all the information at hand.
 
 And likely because of that, we have been receiving some petitions saying, “Please go back to the original Ryuseitai, when everyone would get along with each other!”
+{% endbubble %}
 
+{% bubble Shinobu idle %}
 On the other hand, we also receive requests for RB from companies that appear to be anti-ES. In fact, that is the very request that I, for some odd reason, have received this time.
 {% endbubble %}
 
@@ -129,7 +131,7 @@ It’s ‘cuz ES’s really hated by people… That’s why RB keeps gettin’ r
 I’ve been getting a lotta requests lately ‘cuz of that. I’m happy that they want me, but I feel like I’m deceiving everyone, and it pains me inside…
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smilesoft %}
 At this point, RB may be making more money than Ryuseitai itself.
 {% endbubble %}
 
@@ -139,7 +141,7 @@ Surprisingly, people like bad guys, too… Or more like, they enjoy seeing stuff
 Like, RB’s real popular among chuunibyou kids, for one thing.[^1]
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu grin %}
 Ah, the demographic that likes UNDEAD and Valkyrie, correct? There is a decadent, dark charm to them, and there are groups of people who seek those themes.
 
 My beloved ninjas were originally supported by fans who like that sort of thing, and it is how ninjas survived to this very day. The inhabitants of the dark world… So cool…♪
@@ -157,7 +159,7 @@ That’s also why we now perform under the name “RB” instead of “Ryuseitai
 It’s still written as such in our contract, so whenever Supervillains sells well or becomes a topic, RB’s fame grows, too.
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata norsmile2 %}
 supervillains is extremely [popular], after all, even though only the first part has been [broadcasted] so far.
 {% endbubble %}
 
@@ -169,13 +171,13 @@ Of <em>course</em> it’d be very popular. It has a lineup of all-time favorite 
 Oh, you were alive, huh?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile %}
 As <em>if</em> I’d die. I did warm ups during our rehearsal, but it’s also because you’ve become completely steady with your moves, Nagumo.
 
 You make your attacks appear to be dynamic, but still never actually hit the target — your <em>sundome</em> is perfect.
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora grin %}
 Ossu! I’m grateful to hear that. Honestly, I <em>am</em> a li’l confused by all’a this, but I’m super happy that RB is getting more and more recognition, and even sellin’ well.
 
 It’s as if *I’ve* been recognized by the world, and that makes me happy.
@@ -201,15 +203,15 @@ RB’s doin’ great and all, but we need to do something ‘bout Ryuseitai, don
 I’ve been doing real well so far, but everyone else seems to be in a decline as per usual…
 {% endbubble %}
 
-{% bubble Chiaki srsthinking %}
+{% bubble Chiaki northinking %}
 Hmm… Maybe we should learn from RB’s success.
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora idle %}
 What d’ya mean?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile %}
 Up until now, Ryuseitai had been aiming for my ideal image — an accurate representation of a hero sentai that loves justice and achieves justice, but…
 
 As for RB, which has Nagumo as the commander — it’s been attracting a lot of attention by showing a “dark charm” that we wouldn’t have gotten a chance to express if we stuck to the same conventions, right?
@@ -221,23 +223,25 @@ That’s exactly why, Kanata, Takamine, Sengoku — How about each of you try to
 You mean… by following Tetora-kun as an example?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileexplain %}
 Yep. For example, how about we make a unit like “RY” — as in, Ryuseitai Yellow — with Sengoku as the commander…
 
 And then do activities that we don’t usually do?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata nod %}
 oh, i see\~ shinobu is cute, so maybe it would be a good idea to aim for a super adorable [unit]\~♪
 {% endbubble %}
 
 {% bubble Shinobu curious %}
 Like Ra*bits? Ah, but I am not seeking out cuteness, personally.
+{% endbubble %}
 
+{% bubble Shinobu smile %}
 However, it is an interesting idea. The thought excites me!
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile2 %}
 Yeah. For a long while now, Ryuseitai seemed to be stuck at a dead-end, but Nagumo’s RB breathed life back into us.
 
 I believe we have no choice but to follow suit now. Investing in growth stocks is the basis of management.
@@ -285,5 +289,6 @@ It really is just like us Ryuseitai to be messing around like this, right?
 </div>
 
 ## Translation Notes
+
 [^1]: Chuunibyou are essentially kids who are really into dark, edgy things, and may even take on a persona like that.
 [^2]: If you’d like to learn more about Ryuseitai Green, please read <a href="/tropical" target="_blank">Tropical</a>, which is set after this story.

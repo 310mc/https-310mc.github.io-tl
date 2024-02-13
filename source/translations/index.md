@@ -405,6 +405,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/scoutstory/hurraynormal/maobcgframe_300px.jpg"
+                alt="First Dreams – Hurray for a Normal Day"
+            />
+        </div>
+        <a href="/hurray_normal_day" class="storyName" target="_blank">
+            <span>First Dreams – Hurray for a Normal Day (by Peace)</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 <h4>Ensemble Stars!! Era</h4>

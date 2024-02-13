@@ -74,13 +74,13 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>Next morning. In the agency office of Crimson Production’s headquarters…</p>
 </div>
 
-{% bubble Tetora idle %}
+{% bubble Tetora serious %}
 <th>(The evil organization starts their morning early.)</th>
 
 <th>(Every morning, you begin by greeting everyone energetically.)</th>
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki grin %}
 Gooood mooorniiing!!
 
 Morisawa Chiaki from RB, ready for duty!
@@ -100,11 +100,11 @@ It’s good that you have energy, but your voice is a little too loud. Keep it d
 Yes, sir! I’m very sorry about that! I’m still not used to working at Crimson Production!
 {% endbubble %}
 
-{% bubble Tetora frown2 %}
+{% bubble Tetora yare %}
 No excuses. When you’re scolded—
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki nod %}
 I must apologize! It’s all my fault, sir! I’m so sorry!
 {% endbubble %}
 
@@ -119,14 +119,14 @@ I must apologize! It’s all my fault, sir! I’m so sorry!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-good mooorning~!
+good mooorning~! <em><th>(waves)</th></em>
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smileconfident %}
 Shinkai Kanata and Sengoku Shinobu from RB, reporting for duty!
 {% endbubble %}
 
-{% bubble Tetora idle %}
+{% bubble Tetora serious %}
 Good. …There’s still one person missing, though?
 
 Is “Takamine” skipping out on work?
@@ -136,19 +136,19 @@ Is “Takamine” skipping out on work?
 ah~… midori appears to be feeling [unwell].
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu serious %}
 Indeed, he did not seem to have any energy. Maybe he caught a cold from the sudden change in environment?
 {% endbubble %}
 
-{% bubble Tetora frown %}
-That’s still inexcusable. All of you, including “Morisawa” — Follow after me. We’ll shake him out of bed.
+{% bubble Tetora sighfrown %}
+That’s still inexcusable. All of you, including “Morisawa” — Follow after me. We’ll shake Takamine out of bed.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki fist %}
 Roger that, Taichou!
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu nod %}
 As you command, O magnificent RB-Taichou!
 {% endbubble %}
 
@@ -160,7 +160,9 @@ We don’t have enough hands in Crimson Production as it is, do you understand?
 You lot are just replacements to fill our shortage in staff. You’ll be dispatched to your respective departments according to my instruction.
 
 There, you’ll be performing minor chores for us.
+{% endbubble %}
 
+{% bubble Tetora idle %}
 <th>(…And this is how they’ll be able to go in and out of various departments and explore the inner workings of Crimson Production in greater depth and detail. Since the work will be divided between the five of us, our investigation will advance at rapid speed.)</th>
 
 <th>(We’ll be able to gather assets to attack Crimson Production far more sharply and effectively.)</th>
@@ -172,33 +174,37 @@ When I call for you, you must put aside your other duties and assemble before me
 You will work as RB, idols representing Crimson Production, and earn money for the agency.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki nod %}
 Yes, sir! Everything is for the sake of RB — for the glory of Ryuseitai Black!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata grin %}
 for [crimson production]!
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smilesoft %}
 For our magnificent Nagumo Tetora-Taichou!
 {% endbubble %}
 
-{% bubble Tetora frown2 %}
+{% bubble Tetora yare %}
 Enough with the flattery already. Let’s just go and get the job done.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu fist %}
 Ossu, roger that!
 {% endbubble %}
 
-{% bubble Tetora sighdrop %}
+{% bubble Tetora sightired %}
 <th>(<em>Sigh</em>… I feel like it’s way too obvious, as if they’re clearly forcing themselves to fit the role. Well, as long as nobody catches on that we’re only pretending to be evil.)</th>
+{% endbubble %}
 
+{% bubble Tetora norsmile2 %}
 <th>(And anyway… I’m sure it’ll be alright.)</th>
 
 <th>(Surprisingly, nobody really cares much about what’s going on with other people.)</th>
+{% endbubble %}
 
+{% bubble Tetora idle %}
 <th>(I can’t speak for the fans who have been following us for a long time and paying attention to every detail…)</th>
 
 <th>(But when it comes to the people here in Crimson Production — people who’ve become obsessed with anti-ES ideology…)</th>
@@ -209,8 +215,10 @@ Ossu, roger that!
 
 <th>(The only thing that matters to them is that we betrayed ES and switched over to Crimson Production.)</th>
 
-<th>(Which means, to them, that we’re on their side.)</th>
+<th>(Which means the fact that to them, we’re on their side.)</th>
+{% endbubble %}
 
+{% bubble Tetora frown %}
 <th>(The people here are short-sighted. They color-code the world according to whether they’re friend or foe, and assume that allies are good and enemies are evil.)</th>
 
 <th>(…I used to live with a worldview as simple as that practically all my life, so to some extent, I can read the feelings and thoughts of these types of people. I can’t say I’m proud of that, though…)</th>
@@ -220,7 +228,9 @@ Ossu, roger that!
 <th>(It honestly sounds too unlikely for it to be possible. We’re one of the main earners in ES, after all. It wouldn’t be weird to think, “How could such an important group of people turn on their previous company just like that?”)</th>
 
 <th>(So I’m sure some of them will start to suspect us.)</th>
+{% endbubble %}
 
+{% bubble Tetora serious %}
 <th>(But there’s already Anti-Stars and I as legitimate proof that this is possible… and all of us were able to gain the trust of the Crimson Production staff over time.)</th>
 
 <th>(So now, if I can succeed in leading the Ryuseitai members properly, they should also be able to blend in with Crimson Production.)</th>
@@ -238,11 +248,11 @@ Ossu, roger that!
     <p>A few minutes later. Within the Crimson Production building, at the film studio…</p>
 </div>
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smileconfident %}
 midori\~! come on out\~!
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smilesoft %}
 Your mother is crying for you!
 {% endbubble %}
 
@@ -270,7 +280,7 @@ Maybe they used it as an evacuation spot for the actors whenever gunpowder was u
 Huh, I didn’t even know that existed. A tunnel… Maybe we could use it as an escape route, as a last resort.
 {% endbubble %}
 
-{% bubble Midori idle %}
+{% bubble Midori srsthinking %}
 Nah, I doubt this would connect all the way to the outside… They wouldn’t choose this place for our confinement if that was possible.
 {% endbubble %}
 
@@ -296,23 +306,25 @@ Yeah. In fact, it’s really surprising that even Takamine stuck around in this 
 He’s been a man with an element of surprise this time around.
 {% endbubble %}
 
-{% bubble Midori frown2 %}
+{% bubble Midori frown %}
 If you’re actually surprised, then that just means you never <em>once</em> understood me.
 
 Besides, we all decided that we’d stay here together. I don’t wanna be the only one who’s left out.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki grin %}
 Yeah. Let’s all work together to accomplish this mission.
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata norsmile %}
 chiaki~ you are not [allowed] to make any [orders]. tetora is the [taichou] right now.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
 Ah, right. Sorry about that.
+{% endbubble %}
 
+{% bubble Chiaki smilesoft %}
 Nagumo, please don’t hesitate to order us around. We’ll follow your instructions.
 {% endbubble %}
 
@@ -338,13 +350,15 @@ This is because we would’ve faced problems with procedures if we performed und
 We just went from “Ryuseitai” to “Ryuseitai Black”… I don’t feel like much has changed.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki fist %}
 I like it, it reminds me of Kamen Rider!
 {% endbubble %}
 
 {% bubble Tetora frown %}
 I’m aware it’s a cheap name. I didn’t have the time to come up with something good, let alone the reason or need for it.
+{% endbubble %}
 
+{% bubble Tetora idle %}
 …I just badly wanted everyone to know how terrible the situation is.
 
 Crimson Production is more or less an entertainment company, so on the front, it’s also involved in the production of programs and such.
@@ -358,11 +372,13 @@ Ah, I get it now. The base of Crimson Production — as in, the headquarters bui
 Letters and other forms of communication can easily be censored, and Okinawa is too far from ES for you to rush back here to relay information through normal methods.
 {% endbubble %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora sighfrown %}
 Yeah, exactly. I didn’t have the means to inform anyone what was happening.
 
 So I went on their program as an idol. That was the only way I could tell everyone what was going on.
+{% endbubble %}
 
+{% bubble Tetora serious %}
 If I made a questionable statement there, like saying that I’m leaving Ryuseitai, it would definitely become a topic of conversation. If it becomes a topic, all of you would then be able to get the information.
 
 “A member of the powerhouse ‘Ryuseitai’ parted from ES.”
@@ -395,7 +411,9 @@ You were going to cross a dangerous bridge… However, you had concluded that Cr
 
 {% bubble Tetora awkward0 %}
 Maybe it was just a dumb plan thought up by an idiot… I just couldn’t think of any other way.
+{% endbubble %}
 
+{% bubble Tetora norsmile %}
 But I think I managed to make it work pretty well, if I do say so myself.
 
 I mean, I genuinely had everyone convinced that I was a complete traitor, 100% anti-ES. I was careful not to let anyone know my true intentions.
@@ -411,7 +429,9 @@ I know I’m really late in saying this, but this isn’t even idol work anymore
 Yeah, it really isn’t. I don’t think ES expected me to get this deeply involved, either.
 
 I’m sure they thought I’d just gather the information they needed and get myself out of here.
+{% endbubble %}
 
+{% bubble Tetora sighfrown %}
 But… I couldn’t abandon my old comrades, Anti-Stars, who were suffering in this place.
 
 So I started thinking of ways to save those kids. I knew that in order to do that, I needed to expose the dark side of Crimson Production and have them shut down.
@@ -423,7 +443,9 @@ As earnestly as possible, and with every ounce of effort in my body.
 
 {% bubble Chiaki smilesoft2 %}
 That’s exactly what makes you who you are, Nagumo. You really are an earnest and straight-forward boy.
+{% endbubble %}
 
+{% bubble Chiaki idle %}
 However, the plan you devised is much too dangerous for you. You’re up against a criminal organization that’s as terrifying as an actual organized crime enterprise. You’d be dead in an instant were you to fail.
 
 We cherish you as much as you cherish your own comrades, including those in Anti-Stars.
@@ -453,13 +475,15 @@ I had no capability of doing anything, and the harder I tried, the more I failed
 I love cooking, and I’ve been working hard on my cooking skills for a long time, but I’m sure you all know what the food I make is like.
 
 I’m even aware that on the school trip, everyone put up with my food and forced themselves to eat it.[^2]
+{% endbubble %}
 
+{% bubble Tetora awkward0 %}
 They ate every bit of it for my sake, with smiles on their faces, even though I’m sure it tasted awful…
 
 But I was really, genuinely trying to make it taste good.
 {% endbubble %}
 
-{% bubble Tetora sad %}
+{% bubble Tetora sad3 %}
 That’s always how it’s been for me, for every single thing. I just couldn’t get anything right. It didn’t matter how hard I tried, it would all go to waste in the end. I wouldn’t get any proper results, so I’d just give up and let it go half-way in.
 
 I just kept doing that, over and over again. Everyone around me, even my parents, probably thought I was nothing but a spineless kid with no real ambition.
@@ -484,16 +508,18 @@ My parents were relieved to see me try, and praised me a lot for it — Just lik
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+……………
 {% endbubble %}
 
-{% bubble Tetora sad3 %}
+{% bubble Tetora frownshake %}
 I’m *not* amazing, not even close. I’m just stuck in the same spot. Everyone would always praise me, but I was the only one who could tell it wasn’t ever true.
 
 I was the only person I couldn’t fool.
 
 I’m hollow inside with only a polished surface, and everyone around me saw that surface and praised me for “doing my best” and for being “a good boy”.
+{% endbubble %}
 
+{% bubble Tetora sad4 %}
 All the while… Deep inside, the real me would stare at my fake self with cold, dead eyes.
 
 Ever since I was a little kid, that feeling has never once left me.
@@ -505,7 +531,9 @@ Ever since I was a little kid, that feeling has never once left me.
 I love my parents and my friends. I was surrounded by nothing but kind, wonderful people.
 
 My parents have always praised me and loved me. To this very day, they both work from morning to night, day in and day out, to earn money for my tuition and living expenses.
+{% endbubble %}
 
+{% bubble Tetora awkward0 %}
 Like me, they aren’t very good at what they do, and they don’t seem to make much money, no matter how hard they try.
 
 Even so, they listened to my desires and allowed me to enroll at Yumenosaki. They paid the high entrance fee and provided me with everything I needed.
@@ -515,7 +543,9 @@ Even so, they listened to my desires and allowed me to enroll at Yumenosaki. The
 The reason I decided to go to Yumenosaki was because I was passionate about idols at that time.
 
 But, even then… It’s only because, during the time I was half-heartedly trying various things and not accomplishing anything, becoming an idol happened to be what I was aiming for at that moment.
+{% endbubble %}
 
+{% bubble Tetora frown %}
 And what made me stick to that goal was because a friend told me something like, “You have good looks, Tetora. Why don’t you become an idol?”
 
 He was just saying something that fit the mood at the time, and I ended up hopping on the thought, as well.
@@ -531,7 +561,9 @@ I really hate myself. So if those around me don’t love me, don’t care for me
 I despise myself — so if everyone around me gives up on me, I’ll no longer be loved by anyone.
 
 And if nobody loves you… what’s even the point in living?
+{% endbubble %}
 
+{% bubble Tetora sad4 %}
 I was terrified of that happening to me.
 
 To become someone unneeded, unloved, unseen by everyone—
@@ -561,11 +593,15 @@ Should I say sorry…?
 
 {% bubble Tetora frownshake %}
 No, don’t. If you apologize, I’ll feel even more miserable about myself, and then get unreasonably upset and punch you.
+{% endbubble %}
 
+{% bubble Tetora sad2 %}
 But in reality, the real person I want to punch is myself.
 
 For never being able to grow up — for always being such an uncool person.
+{% endbubble %}
 
+{% bubble Tetora idle %}
 To be honest, karate used to be a force of habit for me once upon a time, but the sensei who taught me gave me a bit of his word of wisdom. He told me that learning martial arts is not for the purpose of beating up a loathsome enemy.
 
 He said it’s for personal growth.
@@ -573,8 +609,10 @@ He said it’s for personal growth.
 It’s a common enough saying that it could’ve come from anyone, but, even then… I intend to aim my well-trained fists inwards, and beat up my weak self.
 
 That way, I could grow, even if only a little.
+{% endbubble %}
 
-This wasn’t out of a need to do a noble self-sacrifice, like Morisawa-senpai mentioned. I’m able to cross as many dangerous bridges as I want *because* I hate myself and don’t see myself as anything worthwhile.
+{% bubble Tetora frown %}
+This wasn’t out of a need to do a noble self-sacrifice, like Morisawa-senpai mentioned. I’m able to cross as many dangerous bridges as I want *because* I loathe myself and don’t see myself as anything worthwhile.
 
 Even if I were to get badly hurt and fade away, I wouldn’t have regretted any of it for even a second. It would’ve felt refreshing, even.
 {% endbubble %}
@@ -591,8 +629,6 @@ I have friends and comrades who love me. I have juniors who admire me and depend
 That’s why… Maybe I was just making the wrong conclusion all along, but… I now believe that even *I’m* worth something.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch12_3.jpg %}
-
 {% bubble Tetora smilesoft %}
 Morisawa-senpai. Shinkai-senpai. Midori-kun. Shinobu-kun.
 
@@ -603,13 +639,17 @@ You, who are all so dazzling like that, recognize me as an equal comrade, that I
 I can feel that way about myself now, from the bottom of my heart.
 
 Thanks to you guys, I’ve come to like myself a little bit.
+{% endbubble %}
 
+{% bubble Tetora smileconfident %}
 But… I want to grow to love myself more and more.
 
 I want to make an actual effort to do so.
 
 When I was all alone, I would just settle with pretending to work hard.
+{% endbubble %}
 
+{% bubble Tetora norsmile %}
 But if everyone lends me their support, I feel like I can succeed for real this time.
 
 That’s why… Please, Ryuseitai — believe in me for just this moment, and entrust your lives to me.
@@ -625,7 +665,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
     <p>A week later. Within the city, at the Supervillains promotion concert venue…</p>
 </div>
 
-{% bubble Tetora smileconfident %}
+{% bubble Tetora smileexplain %}
 “The black flame is the embodiment of destruction! Burning everything before it to a crisp…!”
 
 “Ryusei Black! Nagumo Tetora!”
@@ -643,7 +683,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “ryusei black, number three! shinkai kanata!”
 {% endbubble %}
 
-{% bubble Midori norsmile %}
+{% bubble Midori norsmile2 %}
 “The embodiment of the blackened earth and great nature! Ryusei Black No.4, Takamine Midori!”
 {% endbubble %}
 
@@ -659,7 +699,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sighdrop %}
 …<em>Sigh</em>… We finally made it.
 
 I’ve reached my limit. I’m so exhausted. I’m tired of pretending to be a bad guy, I’m tired of working with corrupted people.
@@ -681,11 +721,11 @@ I’m terrified… I’m so scared of how the public will react… I haven’t b
 If the worst is happening, we’re being slandered right this second… And at <em>best</em>, our fans are definitely baffled… I’m sure they’re talking about how nobody ever wanted to see Ryuseitai fall into the hands of evil or something—
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu nod %}
 Ahaha. Midori-kun, your eyes are colored with dark circles.
 {% endbubble %}
 
-{% bubble Tetora grin2 %}
+{% bubble Tetora grin %}
 He’s hiding it with makeup, though. He’s literally Ryusei Black, huh?
 {% endbubble %}
 
@@ -699,11 +739,11 @@ Guys, let’s stop the chit-chat here.
 I’m not the one leading us this time around as I’m Ryusei Black No.2 in the end, and I know the commander of RB is “Nagumo-Taichou,” but — I need to remind you all that it’s a race against time now.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 Ossu, we are aware.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata nod %}
 osu~♪
 {% endbubble %}
 
@@ -711,17 +751,19 @@ osu~♪
 Umm, you don’t have to imitate me just because you go by “Ryusei Black,” you know…?
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata grin %}
 yes, but~ it is surprisingly [fun] to [imitate] someone~♪
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smileconfident %}
 Exactly what a “transformation” is all about.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
 Well, it works as a good rehearsal for the filming of Supervillains…
+{% endbubble %}
 
+{% bubble Midori nod2 %}
 With the usual Ryuseitai, I don’t really get to play as a villain ‘cause Morisawa-senpai doesn’t like those roles much, so this feels new…
 
 Ahh\~ It’s sooo much easier to play the villain\~ You don’t have to worry about all kinds of things\~…♪
@@ -729,7 +771,7 @@ Ahh\~ It’s sooo much easier to play the villain\~ You don’t have to worry ab
 I don’t have to preach about justice or morality or whatever else I don’t even believe in.
 {% endbubble %}
 
-{% bubble Chiaki surprised0 %}
+{% bubble Chiaki shocked %}
 Y-You disliked playing the hero of justice that much!? You could’ve told me so!
 {% endbubble %}
 
@@ -737,7 +779,7 @@ Y-You disliked playing the hero of justice that much!? You could’ve told me so
 Did it <em>look</em> like I could ever mention that?
 {% endbubble %}
 
-{% bubble Tetora norsmile %}
+{% bubble Tetora norsmile2 %}
 Yeah. The usual Ryuseitai that everyone loves was created by Morisawa-senpai back in his generation. He broke the old ties and swept away the horrible practices.
 
 That was how Morisawa-senpai was able to make Ryuseitai be reborn — as the ideal hero sentai, just as he wished it to be.
@@ -769,7 +811,7 @@ Or the idiot Morisawa-senpai, who tried to take in all the hatred during Comet S
 <th>(We’re such idiotic, weak, foolish, tiny beings that it’s almost absurd to call ourselves heroes.)</th>
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 <th>(But even so—)</th>
 {% endbubble %}
 
@@ -807,7 +849,7 @@ I can’t be a replacement for the embodiment of justice — It’s impossible f
 I’ve come to understand that that’s impossible. I’ve spent this whole year having that badgered in my head.
 {% endbubble %}
 
-{% bubble Tetora smilesoft %}
+{% bubble Tetora smileexplain %}
 So I’ll leave that all to you — Morisawa-senpai.
 
 And as for me, I’ll do what only <em>I</em> can do. I’ll do it with all my might.
@@ -815,7 +857,9 @@ And as for me, I’ll do what only <em>I</em> can do. I’ll do it with all my m
 I may end up just spinning my wheels all over again and getting nothing out of it, but—
 
 That’s still *way* better than hiding behind your back and being protected by you all the time.
+{% endbubble %}
 
+{% bubble Tetora smilesoft2 %}
 If I keep walking without ever stopping, I’m sure I’ll reach somewhere.
 
 I’ll believe in that. I’ll pour all my hope into it.
@@ -833,7 +877,7 @@ This is the color <em>you</em> should be wearing.
 That makes me happy to hear, but… Are you sure, Nagumo-Taichou? That would ruin our plans, wouldn’t it?
 {% endbubble %}
 
-{% bubble Tetora serious %}
+{% bubble Tetora idle %}
 Yeah, I know. Originally, we were going to do something like a long-delayed “Ryusei Red Inheritance Ceremony” here. For real this time, in a super flashy way.
 
 Our justice-loving fans would call out to us, who have been drenched in evil.
@@ -849,7 +893,7 @@ I would then inherit red from Morisawa-senpai, and Morisawa-senpai would put on 
 Yeah. We were supposed to have done this kind of ceremony much, much earlier, truthfully.
 {% endbubble %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora yare %}
 Yeah, because it feels way too late now… It’s too shamelessly obvious, and even once I go back to the side of justice, I’d *still* rather keep my color black.
 
 Besides, if I become Red, I would be going against the agency’s desire to have Ryuseitai return to the old formation, with Morisawa-senpai as Red.
@@ -878,10 +922,10 @@ Ignoring my wishes and forcing me to wear clothes I don’t even want to wear is
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-………
+……………
 {% endbubble %}
 
-{% bubble Tetora serious %}
+{% bubble Tetora idle %}
 Please, let me do what I want to do now. I’m happy that you feel that way, and I’m grateful for it — but right now, it’s just getting in my way.
 
 Within Crimson Production, we succeeded in being obedient members of their community. We were then recognized, appreciated and promoted.
@@ -905,7 +949,7 @@ They even became one of the biggest investors for the blockbuster Supervillains,
 Money may not be able to solve everything in the world, but there are a lot of problems that <em>can</em> be solved with money.
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah, because having no money is the same as having no head. Though that also means that as long as you have a head, you can survive.
 
 Take Supervillains, for example. It had come to a halfway standstill due to the disputes of all parties involved, but it might start moving forward if a large amount of gasoline in the form of money is poured into it.
@@ -935,13 +979,13 @@ Ahaha. And if we, RB of Crimson Production, were to defeat the evil ES in a glor
 Even a kid would be able to tell who’s righteous and who’s evil — even if that was far from the truth.
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 But before we let them… Before they twist the facts—
 
 We’ll betray Crimson Production on this very stage.
 {% endbubble %}
 
-{% bubble Tetora norsmile %}
+{% bubble Tetora norsmile2 %}
 Yeah, that’s the plan we settled on.
 
 We were actually spies sent by ES to investigate the evil organization, Crimson Production.
@@ -959,7 +1003,7 @@ Yeah. Tenshouin and the rest of the staff have already heard of the news, and ar
 I expect that he’ll assist us as we make our move. After all, if we can bring down the anti-ES organization Crimson Production, it’d be beneficial to him as well.
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata smilesoft %}
 that is [relieving], then. i cannot help but find it a bit [frustrating] to be helped by that person, but…
 
 on the other hand, we can have him [atone] for the horrible things he has done to the [five eccentrics] through this.
@@ -967,7 +1011,7 @@ on the other hand, we can have him [atone] for the horrible things he has done t
 
 ## Chapter 15
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smilesoft %}
 Conveniently, the story in Supervillains and our current situation coincide perfectly.
 
 The heroes of justice turn evil—
@@ -975,7 +1019,9 @@ The heroes of justice turn evil—
 But in the end, those evil-tainted heroes awaken to justice once more.
 
 Evil becomes justice, villains become heroes, RB becomes Ryuseitai—
+{% endbubble %}
 
+{% bubble Shinobu smileexplain %}
 And so, we could say that we were simply playing the role of “heroes who had been tainted with evil” in real life, in line with the base setting of Supervillains.
 
 We shall force this into a factual truth, and convince society into accepting it.
@@ -987,7 +1033,7 @@ Will they really be convinced…? Isn’t it *too* aggressive?
 Like… “We tried to replicate this exact storyline in real life, too! What do you think? Isn’t it interesting?” — Wouldn’t that be a little offensive? It’s too tasteless of a joke, don’t you think…?
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 Well… We’ll just have to be patient and persistently explain to the public that we had no other choice.
 
 What’s important here is that we fulfill our duty, whether forcefully or otherwise.
@@ -1025,7 +1071,7 @@ And everyone will live happily ever after……
 your [face] does not seem to reflect that thought, does it?
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile2 %}
 I think you played an incredible role in this whole plan, Tetora-kun. I don’t think the problem would have been solved without you. You should be proud of your achievements and efforts.
 {% endbubble %}
 
@@ -1035,7 +1081,7 @@ Mhm, mhm. I barely had to do anything this time, y’know? And yet, here I am, g
 Life is so nice and easy when someone else does all the work to solve the problem without you ever lifting a finger.
 {% endbubble %}
 
-{% bubble Chiaki norsmile2 %}
+{% bubble Chiaki norsmile %}
 You weren’t having an easy time either, though. You’re so worn out that you have circles under your eyes, Takamine. You did your best, too. We *all* did our best.
 {% endbubble %}
 
@@ -1075,13 +1121,15 @@ So is it really okay to crush all those people under the name of justice for our
 I don’t know… I can’t tell anymore.
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 You’re a little off the mark there, Nagumo.
 
 While I may have spoken critically of the former members of Ryuseitai, I’m aware that they weren’t really evil people.
 
 They were just ordinary people, who wanted to play around and enjoy themselves. They liked fun and despised hardship.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 However… The environment — the organization they’re in — turns such ordinary people into evil.
 
 What we need to defeat, or simply improve, is the environment itself.
@@ -1094,7 +1142,7 @@ The very system within the world that taints ordinary people with evil.
 {% bubble Chiaki smilesoft2 %}
 And as for you — You’re trying to achieve that *exact* sort of justice by denouncing Crimson Production.
 
-You should be proud of yourself. Personally, I want to praise you for every single bit of your effort.
+You should be proud of yourself. Personally, I also want to praise you for every single bit of your effort.
 
 You did incredible work, Nagumo Tetora.
 
@@ -1105,11 +1153,13 @@ You’re a splendid, cool hero — a wonderful person to look up to.
 And I can assure you that I’m not saying any of this to coddle you.
 {% endbubble %}
 
-{% bubble Tetora smilesoft %}
+{% bubble Tetora norsmile2 %}
 …Ossu.
 
 Thank you, Senpai. Thank you for always watching over me and appreciating me.
+{% endbubble %}
 
+{% bubble Tetora smilesoft %}
 But… That’s exactly why I can’t be your successor right now. I’m not able to take over your position and wear the red uniform.
 
 If I set you as the pinnacle of my ideals, as my end point—
@@ -1123,7 +1173,9 @@ This time around, I’ve walked my own path away from you. A pitch dark path[^5]
 —The path of evil.
 
 And that’s where I finally felt something change in me — I saw the possibility that I could surpass you and become greater than you.
+{% endbubble %}
 
+{% bubble Tetora norsmile %}
 I may even be able to defeat enemies that the kind and gentle you never could. I may even be able to save *you* when you’re in trouble.
 
 I may be able to defeat something that hurts you, agonizes you, and makes you sad.
@@ -1157,8 +1209,9 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
 </div>
 
 ## Translation Notes
+
 [^1]: In Japan, sports teams have a hierarchical system. For example, you should never criticize your seniors or even the best players of the team.
-[^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^3]: This is referring to <a href="/climax" target="_blank">Climax</a>, the chapters Tears of Shooting Stars.
 [^4]: Tokusatsu shows are categorized by which era they were released in. <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa era</a> covers all series from around 1971-1994, then comes all the series of <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei era</a> from around 2000-2019, and now it’s Reiwa era.
 [^5]: In Japanese, the adjective here (pitch dark) is the exact same adjective used for the first half of this story, “<em>Dark</em> Star”.

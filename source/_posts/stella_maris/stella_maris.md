@@ -471,7 +471,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="hidden_island" id="none">hidden island</a>
                         </li>
                         <li>
-                            <a href="birthplace_of_stars" id="none">birthplace of stars</a>
+                            <a href="birthplace_of_stars_p1" id="none">birthplace of stars (Chapter 1–6)</a>
+                        </li>
+                        <li>
+                            <a href="birthplace_of_stars_p2" id="none">birthplace of stars (Chapter 7–15)</a>
                         </li>
                         <li>
                             <a href="epilogue" id="none">Epilogue</a>

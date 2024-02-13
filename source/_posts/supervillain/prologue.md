@@ -74,7 +74,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-…………
+……………
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}
@@ -93,7 +93,7 @@ U-Umm…? We were rehearsing the battle scene, when suddenly Morisawa-dono got b
 I-I think… Tetora-kun’s punch accidentally hit Morisawa-dono for real…?
 {% endbubble %}
 
-{% bubble Kanata worried %}
+{% bubble Kanata shocked %}
 are you alright, chiaki!? are you still [there]!?
 {% endbubble %}
 
@@ -113,8 +113,8 @@ but—
 Fuhaha! Nagumo, you little clutz…☆
 {% endbubble %}
 
-{% bubble Tetora sad %}
-………
+{% bubble Tetora sad3 %}
+……………
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -131,13 +131,17 @@ Why ar—
 
 {% bubble Chiaki v2 %}
 Nagumo, I don’t blame you for this, but you haven’t been getting much sleep lately, have you? I can see you’ve got dark eyebags.
+{% endbubble %}
 
+{% bubble Chiaki fist %}
 Exactly befitting of Ryusei Bla— Ah, um, anyway, you should take good care of yourself!
 
 Trying to go about one’s day without proper sleep can lead to unexpected accidents like this one, you know!
 
 The same goes to the rest of you; you have to be careful! Is that clear, Kanata, Sengoku, Takamine!?
+{% endbubble %}
 
+{% bubble Chiaki smilesoft %}
 That’s all for now! We don’t seem to be on the same footing today, so let’s call it a day and continue our rehearsal on a later date!
 
 Farewell then! I’m off! I’ll head to the doctor’s office to have myself examined, just in case the hit did something to my body!
@@ -147,18 +151,20 @@ But before I go, I just want to say: don’t fret over it, Nagumo. I’ll be fin
 Injuries can occur even in pro-wrestling, where a script is always prepared. It’s the same when rehearsing and acting for tokusatsu shows. After all, even if it’s a play, you’re still fighting with your actual body.
 
 You did nothing wrong, Nagumo.
+{% endbubble %}
 
+{% bubble Chiaki awkward %}
 Rather, and I say this again, I’m sorry I couldn’t foresee the accident to avoid it in time.
 {% endbubble %}
 
-{% bubble Tetora sad2 %}
+{% bubble Tetora sad4 %}
 Why—… are you apologizing…
 
 That was obviously all my fault. I’m the *only* one who made a mistake here. Actually… not just this, but everythin’ else, too.
 
 The reason Ryuseitai got into this unnatural state—
 
-Is all ’cuz I was weak, isn’t it? It’s all on me.
+Is all ’cuz I was weak, isn’t it? Everything single thing’s all on me.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
@@ -179,7 +185,7 @@ I’m horrible for doing that. I shouldn’t ever be forgiven.
 I betrayed your trust, trampled on your dreams and efforts, and hurt you.
 {% endbubble %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora frownshake %}
 I’m not a single bit hurt from that, though. It’s true that I was disappointed that I had to step down as the leader, but…
 
 That was all ‘cuz I wasn’t good enough. If this outcome’s what the higher-ups and society want, then there’s not much I can do ‘bout it.
@@ -197,7 +203,7 @@ With that, we’d have hurt each other the same amount, and we can call it even.
 What’s *with* you? I *just* said that I accept the situation as it is. Yet you keep persistin’ otherwise, over and over and over again—
 {% endbubble %}
 
-{% bubble Midori worried0 %}
+{% bubble Midori shocked %}
 Wh— Why’s it turning out this way…? Please don’t fight…
 {% endbubble %}
 
@@ -205,7 +211,7 @@ Wh— Why’s it turning out this way…? Please don’t fight…
 Y-Yes, exactly! Ryuseitai is already in the worst possible position as it is! If a crack opens up even between us—
 {% endbubble %}
 
-{% bubble Kanata frownshake %}
+{% bubble Kanata frown %}
 yes… that would be the [end] of everything.
 
 the ryuseitai that we love would come to an [end] here.

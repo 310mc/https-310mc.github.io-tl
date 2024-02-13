@@ -477,7 +477,7 @@ Mhm, mhm, so you’ll rest as much as you can, and come back as soon as possible
 
 No one wants to catch a cold, so make sure it's only after you're back in perfect shape, okay?
 
-Oh— Right, right. We kept on trying to find Shinkai-senpai, but we’ve never managed to spot him.
+Oh— Right, right. We kept on trying to find Shinkai-senpai, but we never managed to spot him.
 
 We can’t contact him, either — not even Anzu knows his phone number.
 

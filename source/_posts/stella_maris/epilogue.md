@@ -356,7 +356,7 @@ or, well… maybe that was a little too haughty of me to say. fufu, even though 
 {% bubble Chiaki norsmile %}
 I keep saying this, but I think that was unavoidable — necessary, even. In fact, we wouldn’t have been able to accomplish this mission if Kanata wasn’t our commander.
 
-You did incredible work, Kanata.
+You were incredible, Kanata.
 {% endbubble %}
 
 {% bubble Kanata grin %}

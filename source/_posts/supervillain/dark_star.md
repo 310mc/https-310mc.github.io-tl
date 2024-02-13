@@ -78,17 +78,17 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>Half a year later. Middle of March, in ES’s first year of establishment…</p>
 </div>
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smile %}
 The worldbuilding of the new show, Supervillains, seems to have finally been set in stone!
 
 The decision looks to be absolutely confirmed this time for sure.
 {% endbubble %}
 
-{% bubble Shinobu sighdrop %}
+{% bubble Shinobu sightired %}
 Oh, it finally has? It has become such a sensitive case that I thought it was cursed. I never imagined it to be *this* messy when we first accepted the request to appear on the show.
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki sighfrown %}
 Yeah. The show had changed directors, scriptwriters, and various other staff members multiple times, and each time it happened, the content was fundamentally changed, too.
 
 The one thing that was admirable about it was its ambition to make a blockbuster that would go down in the history of the tokusatsu world, and that did make me have very high hopes for it…
@@ -106,8 +106,8 @@ Nonetheless, this blockbuster in which various famous heroes, whether local or o
 Am I right to assume that the title of said project has been confirmed to be “Supervillains”?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
-Yup! At first, even the title kept changing, from “Comet-something” to “Superhero-something” to some other variations.
+{% bubble Chiaki norsmile %}
+Yep. At first, even the title kept changing, from “Comet-something” to “Superhero-something” to some other variations.
 
 But they finally removed the “tentative” disclaimer from the title in the documents.
 
@@ -122,7 +122,7 @@ There is not much time left until its release in spring, yet the title is only j
 yes~ it is freaking nuts~♪
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Kanata, no! You shouldn’t use slang words like that. Little kiddos will copy after you.
 {% endbubble %}
 
@@ -138,7 +138,7 @@ Yeah, because he’s cute.
 gwah~!? so i am not cute?
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki yare %}
 Don’t ask to be called cute with a stature as huge as yours.
 {% endbubble %}
 
@@ -146,7 +146,7 @@ Don’t ask to be called cute with a stature as huge as yours.
 uwaahh~! shinobuu… chiaki has been so cold lately…
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu grin %}
 There, there~ Don’t cry, Shinkai-dono. Don’t you worry, you’re adorable!
 {% endbubble %}
 
@@ -166,7 +166,9 @@ I’m certain that deep down, he also thinks that you are the cutest in the whol
 
 {% bubble Chiaki awkward %}
 ……<th><em>(Pats Kanata’s head for now)</em></th>
+{% endbubble %}
 
+{% bubble Chiaki norsmile2 %}
 Right, so. We went extremely off-topic for a moment, but — Supervillains will feature all of Japan’s world-famous tokusatsu heroes.
 
 That was part of the original plan, at least.
@@ -174,11 +176,11 @@ That was part of the original plan, at least.
 The characters that were going to appear were not only life-size transformable heroes, but also giant robots, monsters, and even comic book characters that were to have their first adaptation.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 It’s like every fan’s dream: an all-star tokusatsu show.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileexplain %}
 That’s what it was first advertised as.
 
 There have been collaboration projects in the past with certain sets of heroes, but it was just for a one-time-only celebratory movie.
@@ -214,23 +216,23 @@ ahaha… it is as if the [dream] had to be [adjusted] in order to fit [reality],
 no matter what, [reality] is never as [satisfactory] as a [dream].
 {% endbubble %}
 
-{% bubble Shinobu sighdrop %}
-Indeed… In that sense, the SSVRS was a groundbreaking invention. It allows us to experience dreams as dreams.
+{% bubble Shinobu frown2 %}
+Indeed~… In that sense, the SSVRS was a groundbreaking invention. It allows us to experience dreams as dreams.
 
 I’m sure everyone would rather have a happy and convenient dream than an uncontrollable reality.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileconfident %}
 But it’s the special effects of tokusatsu that turn a dream into a reality. Isn’t that right, Sengoku?
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 That is indeed true. I, too, had my dream become a reality for the first time thanks to that, but mostly because of Ryuseitai.
 
 And that would be — by becoming a true ninja.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata norsmile %}
 by turning your [dream] into a [reality], yes? that is something chiaki has been doing since long ago.
 
 if there are no heroes in this world, then *we* will become the heroes.
@@ -244,25 +246,27 @@ Yeah… While we do tend to get beat up in the face of reality… That’s the s
 That’s exactly why we’re the one group that can’t, at any cost, abandon Supervillains, as it also has been suffering countless injuries in the face of reality.
 
 This is a matter of our identity.
+{% endbubble %}
 
+{% bubble Chiaki sighfrown %}
 Or no, rather, it’s mine. I can’t force you guys to go along with my selfish desires…
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 I always think this, but you truly do not have to be so reserved, Morisawa-dono.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smilesoft %}
 exactly~ you heard him, chiaki. let’s [keep] the [water reservoirs] for me, only~♪
 
-*all for one, one for all—*
+*all for one, and one for all—*
 {% endbubble %}
 
 {% bubble Chiaki frown %}
 But… that very premise for Ryuseitai has long been on the verge of collapse. Nagumo and Takamine haven’t been participating in our unit activities at all recently, for one thing.
 {% endbubble %}
 
-{% bubble Shinobu northinking %}
+{% bubble Shinobu srsthinking %}
 They’re both absent today, too… Even though we told them beforehand that we’d have a meeting.
 {% endbubble %}
 
@@ -270,16 +274,18 @@ They’re both absent today, too… Even though we told them beforehand that we�
 mm~ i believe midori may simply be [skipping] out on the meeting, but i do not think there is [much] we can do about tetora, is there? after all, things are like *that* for him right now.
 {% endbubble %}
 
-{% bubble Shinobu frown %}
+{% bubble Shinobu serious %}
 Ahh, indeed. It seems that Tetora-kun has found himself in an unforeseen position. I don’t know how exactly it happened, however.
+{% endbubble %}
 
+{% bubble Shinobu norsmile %}
 But even if we are physically far apart, our hearts are always one and the same. I’m certain it is. I believe in that!
 
 Although, it seems like Midori-kun mainly cannot stand to participate in any Ryuseitai activities, and thus has been running away from them…
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-Takamine probably doesn’t mean to run away, though.
+Takamine likely doesn’t mean to run away either, though.
 
 When all five of us gather, the atmosphere becomes uncomfortable, and he likely doesn’t like that, so he’s been avoiding it altogether.
 {% endbubble %}
@@ -288,7 +294,7 @@ When all five of us gather, the atmosphere becomes uncomfortable, and he likely 
 ah~ yes, midori has that side to him…
 {% endbubble %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad2 %}
 Were this the past, Morisawa-dono would drag Midori-kun over by the collar like he always would, regardless of Midori-kun’s grumbling, but…
 {% endbubble %}
 
@@ -308,11 +314,11 @@ Though, due to the show’s content being changed multiple times, all the practi
 Apparently, even the scripts that were prepared for the show have all been rejected and will be rewritten.
 {% endbubble %}
 
-{% bubble Shinobu sighdrop %}
+{% bubble Shinobu sightired %}
 We had been rehearsing our scenes according to the script, though…
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah… That’s unfortunately going to have been a waste of our time, since it looks like they’re going to reassign the cast and all.
 
 We’re contractually obligated to perform at some point, but I still don’t know what kind of roles we’ll be cast in yet.
@@ -326,11 +332,11 @@ I would like to be casted as a ninja.
 i love [fish]~♪
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile2 %}
 Mhm, I’ve already made our wishes known to them. So… I’d like to think that it’s unlikely that we’ll be given an unreasonable role.
 {% endbubble %}
 
-{% bubble Chiaki sad %}
+{% bubble Chiaki sad4 %}
 But the content is… Well, I’m a little anxious about it, to say the least.
 
 There’s a chance our character titles in the show won’t be “heroes”.
@@ -338,7 +344,7 @@ There’s a chance our character titles in the show won’t be “heroes”.
 It means that we might be cast in a role that wouldn’t reflect well on us, the idol-hero unit.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu serious %}
 To be honest, I feel as though only you are particular about that, Morisawa-dono. Regardless… Erm, does that mean that we might end up playing villains depending on how the script turns out?
 {% endbubble %}
 
@@ -360,11 +366,11 @@ The world within Supervillains is ruled by evil. In there, justice becomes evil 
 The heroes in the story are predestined to be hunted as evil in that world.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smileconfident %}
 Ah, that actually sounds interesting! Wow, so it involves people who are meant to be righteous heroes, but are actually considered villains in that world…
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileexplain %}
 Yep. For us viewers who are outside of that world, the tokusatsu heroes are obviously the ones who are on the side of justice.
 
 But in the story, they are treated as evil.
@@ -378,7 +384,7 @@ The protagonist then helps other heroes who are being hunted as evil in other ar
 That’s the basic plot of the story.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu nod %}
 In a sense, it’s good versus evil, through and through. Showing good in a world where evil rules.
 {% endbubble %}
 
@@ -398,9 +404,11 @@ they get fixed by being hit? they are like [electronics] from the olden days.
 Hmm… In that case, the setting where the world values are inverted is no longer relevant, and it will simply be the trope of a righteous person having an “evil era”.
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki serious %}
 That would be visually easier to understand, after all. They’ve made an overly-optimistic calculation that figurines and toys for the “Villain Version” might also sell.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 But… I don’t know how I feel about depicting the hero, who should be a perfectly righteous existence for children, as being tainted with evil.
 
 Of course, evil Kamen Riders, evil Ultramen, and various others alike already do exist, and I’m well aware that they’re popular.
@@ -410,7 +418,7 @@ But what the kids — No, what *I* want to see are cool, virtuous heroes.
 
 ## Chapter 3
 
-{% bubble Midori v2 %}
+{% bubble Midori sighfrown %}
 You’re having a weird tokusatsu talk again…
 
 It’s embarrassing being seen with you whenever you do that, so could you stop…? I’ll be mistaken for a nerd…
@@ -424,7 +432,7 @@ Eep, Midori-kun!?
 Takamine! You little rascal~ You’re late! ♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata norsmile %}
 fufu, you have not been [showing] up lately, so we have been [worried] about you, you know?
 {% endbubble %}
 
@@ -434,11 +442,11 @@ I’m sorry Shinkai-senpai, sorry Shinobu-kun… I couldn’t stand to read mess
 I got the courage to check just a moment ago, and rushed here as soon as I found out it’s a meeting… <em>Sigh</em>, I broke a sweat for no reason…
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileconfident %}
 I know I sound insistent by constantly saying this, but you need to be more diligent about checking business-related messages! Promise your Taichou[^2] that you’ll do that!
 {% endbubble %}
 
-{% bubble Midori sad %}
+{% bubble Midori sad2 %}
 Ha, ha… “Taichou,” is it…
 {% endbubble %}
 
@@ -448,15 +456,15 @@ Hm? Don’t mumble, tell me what you want to say clearly!
 I’ll accept anything you tell me.
 {% endbubble %}
 
-{% bubble Midori v2 %}
+{% bubble Midori glare %}
 Hmph… Maybe *you’d* be fine with it, but as for the insect crashing into you—
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu grin %}
 M-Midori-kun? How about you take a seat next to me for now? ♪
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata norsmile2 %}
 i will go make us [tea]~♪
 {% endbubble %}
 
@@ -474,7 +482,7 @@ midori, it sounds like your [schedule] has been tightly packed lately, hasn’t 
 Yeah… It’s good to keep yourself busy, but are you alright? You’ll hurt yourself if you keep on working nonstop, y’know? Are you sure you aren’t overdoing it?
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori frownshake %}
 No… I think I’m closer to breaking down emotionally rather than physically, so I’ve been keeping myself busy to get my mind off things…
 
 I know it makes no sense… I don’t get myself, either… I mean, *I’m* the one who wanted it to be this way.
@@ -498,9 +506,11 @@ There you go again; it’s ‘cause you *never* let us bear *any* of that burden
 —Mm, mm!!
 {% endbubble %}
 
-{% bubble Midori sad %}
+{% bubble Midori awkward %}
 Ah, sorry, it got tense again… It’s really painful to see, right…
+{% endbubble %}
 
+{% bubble Midori sad3 %}
 I’m not a kid, so I know that…
 
 I know that nobody’s in the wrong, nobody’s at fault… I know that we just need to suck it up and accept the situation, and keep on going with our heads held high…
@@ -522,11 +532,11 @@ N-No, no, of course I was listening! But you see, I asked Yuuki-dono to install 
 So I now have a way to automatically compile all information about Ryuseitai on the internet, from all sorts of places.
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sightired %}
 You can check that kinda stuff just fine, huh… I could never… any post I read on social media ends up stuck in my head for days, whether it’s a compliment or slander…
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smug %}
 Heh! It is a ninja’s duty to excel at intellectual gathering!
 {% endbubble %}
 
@@ -534,43 +544,49 @@ Heh! It is a ninja’s duty to excel at intellectual gathering!
 you just keep being more and more [reliable] lately, shinobu~ good boy, good boy~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch3_1.jpg %}
-
-{% bubble Shinobu v2 %}
+{% bubble Shinobu blushscratch %}
 Ehehe~
+{% endbubble %}
 
+{% bubble Shinobu surprised %}
 …Wait, this isn’t the time! You have to look at this!
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori idle %}
 What…? Is it more flaming ‘cause of the slander from Crazy:B…?
+{% endbubble %}
 
+{% bubble Midori frown %}
 I know we managed to extinguish the fire by now, but once something’s been lit up, it’s easy for it to burst into flames again… They really did the worst damage to us in summer.
 
-…Huh? What is this?
+……Huh? What is this?
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}
 Gah—! Don’t lean over me, Midori-kun! You’re crushing me~!
 {% endbubble %}
 
-{% bubble Midori sad %}
+{% bubble Midori sad2 %}
 Sorry, I’ll look at it on my phone… Ahh, wait, I muted words like “Ryuseitai” and “Takamine Midori”—…
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu norsmile %}
 T-Then let us read it together! Look, this is from a pretty huge news site, and I believe it should be relatively trustworthy—
 {% endbubble %}
 
 {% bubble Chiaki curious %}
 I’ll look at it from my phone. Let’s see here…
+{% endbubble %}
 
+{% bubble Chiaki surprised0 %}
 What the…!? What is this…!?
 
 “Is Nagumo Tetora leaving Ryuseitai at long last!?” Leaving? What’s this about? Did anyone hear about this?
 
 “After Nagumo leaves, he plans to become the leader of the new group, RB (Ryuseitai Black?)”
+{% endbubble %}
 
+{% bubble Chiaki horrified %}
 ——What!? Whaaat!? What on <em>earth</em>…!? I haven’t heard anything about this…!
 {% endbubble %}
 
@@ -601,7 +617,7 @@ Yeah. For the time being, I’ll leave it to the B squad of the battle branch to
 {% bubble Tetora vside %}
 I know. We’ll also settle our matters as fast as possible, and then return to the headquarters building. We’ll discuss countermeasures against the mysterious intruder after that.
 
-——Right then, time for another fun day of work at the evil organization.
+——Right then, time for another fun day of work at the “evil organization”.
 {% endbubble %}
 
 {% img /img/es/eventstory/supervillain/darkstarch4_2.jpg %}
@@ -610,11 +626,13 @@ I know. We’ll also settle our matters as fast as possible, and then return to 
     <p>Next morning. Near the whereabouts of Crimson Production’s headquarters…</p>
 </div>
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smileconfident %}
 Hello, Taichou-dono? This is Sengoku Shinobu speaking, over.
 
 As per our plan, I have reached the area of the company that Tetora-kun was dispatched to, which is called, erm… Right, the Crimson Production headquarters.
+{% endbubble %}
 
+{% bubble Shinobu worried %}
 T-The air it emits is so grandiose that it is a little scary… A modern-looking building stands alone in the middle of a primeval forest, as if it were nothing more than a picturesque view.
 
 There are no signs of dwelling anywhere nearby; only a majestically vast wilderness that stretches on.
@@ -622,27 +640,33 @@ There are no signs of dwelling anywhere nearby; only a majestically vast wildern
 Around the building is some sort of training ground… This may sound like an exaggeration, but it sort of looks like a military facility.
 
 Ah, yes, I am aware of that. I have not forgotten that there are US military bases in Okinawa, so I will be extra careful not to trend anywhere close to them and risk myself.
+{% endbubble %}
 
+{% bubble Shinobu smilesoft %}
 There is no need to worry. When we were in Okinawa for the SS qualifying rounds, I had already mastered the geography and other various details about the region.
 
 Indeed, I will not take any chances. I shall simply observe the situation, as we will be conducting a thorough investigation tomorrow.
 {% endbubble %}
 
-{% bubble Shinobu serious %}
+{% bubble Shinobu idle %}
 Yes… This would have been easier if we managed to make contact with Tetora-kun through HoldHands or something, but we have not gotten any response for some reason.
 
 Ah, no, actually… I can see a glimpse of someone who looks like Tetora-kun through the window of the building, and he seems to be doing rather well.
 
 For some reason, he is leaning back on his chair with his legs propped up on an expensive-looking desk—
+{% endbubble %}
 
+{% bubble Shinobu curious %}
 Is that really Tetora-kun…? He seems unusually different somehow…
 
 Mhm. Regardless, I can assure you that Tetora-kun is alive and well. Although, I don’t know why he’s refusing all contact with us.
 
 It does not help that we have no knowledge of Tetora-kun’s current situation, either.
 
-I tried to gather some information about Crimson Production from locals on the way, but it appears that there is not much information known to anybody here, either.
+I tried to gather some information about this so-called “Crimson Production” from locals on the way, but it appears that there is not much information known to anybody here, either.
+{% endbubble %}
 
+{% bubble Shinobu srsthinking %}
 Apparently, it used to be a well-established entertainment agency in Okinawa, but there has been little to no activity in recent years.
 
 Indeed, it is as you say — Despite this, they have built a new building, and the land around here is apparently all owned by Crimson Production.
@@ -652,7 +676,7 @@ Mhm, mhm… I truly do wonder where they acquired the money to buy such extravag
 There is definitely something going on here, Taichou-dono.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smile %}
 Oh, yes, of course. I am but a humble ninja idol, not a detective or police officer. I assure you that I will not do anything that could stir up problems for myself.
 
 For the time being, it’s more than enough if we can simply confirm Tetora-kun’s current status.
@@ -662,7 +686,9 @@ Hm? No, no, please leave this all to me!
 As we know, Midori-kun is taking on more personal work than he should, but you and Shinkai-dono have a lot of work to do as well, correct?
 
 There is no need for you to cancel your schedule and come all the way to Okinawa. Is that not the agreement we had in yesterday’s discussion?
+{% endbubble %}
 
+{% bubble Shinobu smileexplain %}
 Mhm, mhm. It seems that the upperclassmen at Yumenosaki Academy are in dispute these days, as it is graduation season.
 
 However, I still have one more year to go as a highschooler, so my yearmates and I are practically left out of the loop regarding all of that.
@@ -672,13 +698,13 @@ I have got the time to spare for all of this. That’s why you need not worry, I
 Hmm? What about my work as a Student Council member? Ohhh~ Yes, well, we’re stuck in one place right now, so even then, I have a lot of availab—
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch4_5.jpg %}
-
-{% bubble Shinobu worried %}
+{% bubble Shinobu curious %}
 Hmm?
 
 Huh? Oh no, erm, it’s just that I thought I saw something move in the bushes…?
+{% endbubble %}
 
+{% bubble Shinobu worried %}
 A-A wild animal, perhaps? Or is it a security guard…?
 
 E-Either way, I have a bad feeling about this, so I must conceal myself at once! Yes, I’ll provide you a full report later — For now, I will excuse myself!
@@ -686,18 +712,14 @@ E-Either way, I have a bad feeling about this, so I must conceal myself at once!
 
 ## Chapter 5
 
-<div class="msr-location">
-    <p><span><b>Location:</b> Near the ES building, inside ESTele’s studio</span></p>
-</div>
-
 {% img /img/es/eventstory/supervillain/darkstarch5_1.jpg %}
 
 <div class="msr-narration">
-    <p>At the same time…</p>
+    <p>At the same time — Near the ES building, inside ESTele’s studio…</p>
 </div>
 
-{% bubble Chiaki surprised0 %}
-S-Sengoku!? Sengoku, can you hear meee!?
+{% bubble Chiaki shocked %}
+S-Sengoku!? Sengoku, can you hear meee~!?
 
 I lost signal… I-Is everything going to be alright…?
 {% endbubble %}
@@ -713,8 +735,10 @@ No, we’ve all made our decision yesterday. We said that we’d leave it all to
 
 And that we’ll do our best with our regular duties in Ryuseitai, while Sengoku is investigating what’s happening over on the other side.
 
-I’m concerned about Nagumo, but we can’t afford to take a loss in our work. That would only worry the fans and the involved staff even more.
+I’m concerned about what’s happening with Nagumo, but we can’t afford to take a loss in our work. That would only worry the fans and the involved staff even more.
+{% endbubble %}
 
+{% bubble Chiaki sighdrop %}
 Unlike the heroes on TV, we can’t live our lives fighting all the time… That’s always the harsh reality about life, huh…
 {% endbubble %}
 
@@ -722,35 +746,35 @@ Unlike the heroes on TV, we can’t live our lives fighting all the time… That
 yes… but still, we will do what we can.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile %}
 Yup. Of course, we’ll ensure full backup for Sengoku while doing our job. I would like to think that even though we’re physically far apart, our hearts are always one and the same.
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki sighfrown %}
 Takamine is still prioritizing his personal work as we speak, though…
+
+But, well… I suppose he can’t boycott the work he had already agreed to do, so there isn’t much we can do about it.
 {% endbubble %}
 
-{% bubble Chiaki serious %}
-But, well… I suppose he can’t boycott the work he had already agreed to do, so there isn’t much we can do about it.
-
-Takamine used to have no motivation, but now he works hard on his jobs no matter the reason. Personally, I refuse to oppose that.
+{% bubble Chiaki idle %}
+Takamine used to have no motivation, but now he works hard on his jobs no matter the reason. Personally, I don’t want to oppose that.
 
 The one who kept telling him to do his best, and to keep going is me, after all.
 
 I refuse to become a two-faced person who changes what they say depending on the time and place.
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata smileconfident %}
 fufu~ that would not be cool to do after all, right?
 {% endbubble %}
 
-{% bubble Chiaki idle %}
+{% bubble Chiaki serious %}
 Yeah… Anyway, we have a scene to shoot, but I’d like to support Sengoku by gathering information in between.
 
 In the meantime, I’m trying to contact the ever-knowledgeable Tenshouin on HoldHands to see if he knows anything. I’ll try other people, as well.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smilesoft %}
 me too, i will ask [rei] if he knows something, since he is always so well-informed on everything.
 {% endbubble %}
 
@@ -770,7 +794,7 @@ I learned that from Kamen Rider.
 Tokusatsu shows taught me everything important in life.
 {% endbubble %}
 
-{% bubble Kanata sad %}
+{% bubble Kanata sad2 %}
 …is tetora really going to [leave] ryuseitai entirely…?
 {% endbubble %}
 
@@ -778,7 +802,7 @@ Tokusatsu shows taught me everything important in life.
 That’s what the rumors say, but I don’t think so.
 {% endbubble %}
 
-{% bubble Kanata curious %}
+{% bubble Kanata idle %}
 what makes you [say] that?
 {% endbubble %}
 
@@ -800,7 +824,9 @@ uu~… all these things about [rules] and [procedures]… it is a difficult [top
 
 {% bubble Chiaki frown %}
 Human society is a complex and tiresome place, Kanata. No matter where you go, you’ll find documents, documents, and more documents.
+{% endbubble %}
 
+{% bubble Chiaki norsmile %}
 That being said, I think it’s much more peaceful and upscale than a society where everything is decided only by feelings and impulse.
 
 There isn’t any way to confirm how someone else is feeling or thinking, but with documents, you can.
@@ -812,7 +838,9 @@ even though chiaki is exactly the [type] to act only through [impulse]…
 
 {% bubble Chiaki awkward %}
 I’m not young anymore… Achieving anything through impulse alone only works until elementary school.
+{% endbubble %}
 
+{% bubble Chiaki idle %}
 My point is, the online news about Nagumo leaving Ryuseitai and creating a new group called “RB” is likely a downright lie without any basis whatsoever.
 {% endbubble %}
 
@@ -820,19 +848,21 @@ My point is, the online news about Nagumo leaving Ryuseitai and creating a new g
 that is what is called [fake news], yes? we have been constantly suffering from such reports since the [summer].
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile2 %}
 No, let’s instead look on the bright side here and think, “After facing such hardships during the summer, we can now use those experiences to benefit ourselves.” None of the things we went through, and none of our effort, will be in vain. They never are, nor will they ever be.
+{% endbubble %}
 
+{% bubble Chiaki idle %}
 Anyway, the question here is, how did this news come about?
 
 How will the public react to it? And how should we deal with it?
 {% endbubble %}
 
-{% bubble Kanata smile %}
+{% bubble Kanata norsmile %}
 in a similar way to “we have [trouble], a [monster] has appeared,” yes?
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah. Everything in life would’ve been so much easier if we could’ve simply assumed that “it’s all Gorgom’s doing!”[^5], but—
 
 Just as there are no heroes in this reality, there are no purely evil monsters or villainous organizations, either.
@@ -855,17 +885,17 @@ Trespassing on our private property, investigating the area… I can’t simply 
 {% endbubble %}
 
 {% bubble Shinobu angry %}
-…………
+……………
 {% endbubble %}
 
-{% bubble Tetora vside %}
+{% bubble Tetora yare %}
 I suppose it’d be silly to ask why you’re here, so let’s get straight to it — Is it because you were worried for me?
 
 You guys are a meddling lot as always.
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}
-— Okay, seriously, who *are* you!?
+—Okay, seriously, who *are* you!?
 {% endbubble %}
 
 {% bubble Tetora vside %}
@@ -878,12 +908,12 @@ What is *up* with the way you talk!? It sounds so *weird!*
 Where did the Tetora-kun who would always say “Uu~myu” and “Ossu!” and “‘Sup!” go!?
 {% endbubble %}
 
-{% bubble Tetora vside %}
+{% bubble Tetora frown %}
 Um, I *am* Nagumo Tetora, though? Quit yapping, it’s embarrassing.
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}
-Our Tetora-kun would *never* say that! What is going on here!? Have you been brainwashed by aliens or some kind of villainous organization!?
+Our Tetora-kun would *never* say that! What is going on here!? Have you been brainwashed by aliens or some kind of evil organization!?
 
 Or has a ghost possessed you, by any chance?
 
@@ -912,7 +942,7 @@ When it comes down to it, Ryuseitai was still my old home. I don’t really want
 
 {% img /img/es/eventstory/supervillain/shinobuorigcg.jpg %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad4 %}
 <th>(Ughh… Seriously, what is going on here…? What is happening in Okinawa…!?)</th>
 
 <th>(The deadly war that was the SS is already over, so peace should have returned here…)</th>
@@ -928,7 +958,9 @@ When it comes down to it, Ryuseitai was still my old home. I don’t really want
 <th>(However, I heard that the construction of the branch in Okinawa was not able to commence due to the strong opposition of the local people.)</th>
 
 <th>(Even now in Okinawa, the local idols are doing quite well, it seems. But that is exactly why—)</th>
+{% endbubble %}
 
+{% bubble Shinobu serious %}
 —Tetora-kun.
 {% endbubble %}
 
@@ -936,22 +968,20 @@ When it comes down to it, Ryuseitai was still my old home. I don’t really want
 Mm, what is it? Do you need the bathroom or something?
 {% endbubble %}
 
-{% bubble Shinobu serious %}
+{% bubble Shinobu idle %}
 Ah, no, I’m alright. Tetora-kun, I have one question I would like you to answer, at the very least.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch6_3.jpg %}
-
-{% bubble Tetora vside %}
+{% bubble Tetora yare %}
 And what would that be? I guess I’ll answer it if I can.
 {% endbubble %}
 
-{% bubble Shinobu serious %}
+{% bubble Shinobu idle %}
 Tetora-kun, are you still a member of Ryuseitai?
 {% endbubble %}
 
-{% bubble Tetora vside %}
-………
+{% bubble Tetora serious %}
+……………
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -960,7 +990,7 @@ There has been strange news spreading that you will quit the unit and make your 
 I have come here to ascertain the truth behind those rumors. We have been anxious to know, as we could not get in contact with you for some reason.
 {% endbubble %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora sighfrown %}
 …You *do* know my situation, right?
 
 When it was decided that we would return to the previous formation, with Morisawa-senpai in the center of Ryuseitai—
@@ -970,11 +1000,11 @@ All the new members the three of us had inducted into this unit and fostered on 
 Some then made their own units, some are still in the process of finding their position, and some… simply got sick of it all, and quit being an idol altogether.
 {% endbubble %}
 
-{% bubble Shinobu sad %}
-………
+{% bubble Shinobu sad3 %}
+……………
 {% endbubble %}
 
-{% bubble Tetora vside %}
+{% bubble Tetora idle %}
 And most of the members who split from the unit — or in other words, those who were to inherit the blood of Ryuseitai — created a group known as “Anti-Stars”.
 
 The ones that gathered to this unit were some of the wilder troublemakers of Ryuseitai-N, the group that I was a leader of.
@@ -982,7 +1012,9 @@ The ones that gathered to this unit were some of the wilder troublemakers of Ryu
 I’m sure you can tell from the meaning behind the name, “to deny the stars” — Anti-Stars have a grudge against Ryuseitai.
 
 They loathe us. It’s only natural, and we have no choice but to accept their hatred.
+{% endbubble %}
 
+{% bubble Tetora frown %}
 We did horrible, awful things to those kids.
 
 We gave them so much hope, only to waste time within their precious youth that they have but one chance to experience… and then, we mercilessly threw them away, leaving them empty-handed.
@@ -1022,10 +1054,8 @@ ES is trying to subdue anti-ES organizations such as Crimson Production by offer
 It’s easier to silence them with money and the like than to start an all-out war.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch7_1.jpg %}
-
-{% bubble Tetora vside %}
-As the guy who once led Ryuseitai-N, I was the perfect choice for the job of placating Crimson Production, since it has many former members of that unit.
+{% bubble Tetora frown %}
+And as the guy who once led Ryuseitai-N, I was the perfect choice for the job of placating Crimson Production, since it has many former members of that unit.
 
 And some of the former Ryuseitai-N kids actually *wanted* me to come over, anyway.
 
@@ -1034,9 +1064,13 @@ They asked me to save them. Crimson Production is an anti-ES group, after all. T
 With such a distressing situation they’ve found themselves in, they can’t seem to do their practice sessions or work properly, either. And so, they asked me for advice on what they should do.
 
 Even though I no longer have any authority, nor am I even a leader anymore, they came to <em>me</em>.
+{% endbubble %}
 
+{% bubble Tetora frownshake %}
 I can’t just ignore their pleas, you know? I didn’t even once think, “You all betrayed ES, and now you’re asking *this* from me?”
+{% endbubble %}
 
+{% bubble Tetora idle %}
 If they’re in trouble — if they call for my help, I’ll drop everything and come rushing for their sake.
 
 That’s the least I can do for them, if nothing else.  …Do you have any problems with that, Sengoku-kun?
@@ -1046,8 +1080,10 @@ That’s the least I can do for them, if nothing else.  …Do you have any probl
 For now, I would simply like you to cease speaking to me like we’re strangers, including that strange tone of yours… Anyway, erm, is that why you came to Okinawa, Tetora-kun?
 
 You are here to save your former teammates… to protect your former subordinates once and for all, whom you once failed to protect and caused to suffer horribly.
+{% endbubble %}
 
-<th>(Hmm… Did he slowly get dyed by those ideas the more he came into contact with these kids, who have been entrenched in anti-ES ideology…?)</th>
+{% bubble Shinobu srsthinking %}
+<th>(Mm~… Did he slowly get dyed by those ideas the more he came into contact with these kids, who have been entrenched in anti-ES ideology…?)</th>
 
 <th>(Is that why his persona has changed so drastically?)</th>
 
@@ -1056,7 +1092,9 @@ You are here to save your former teammates… to protect your former subordinate
 <th>(I do not think he should absorb dangerous ideas as well and make them his own, to the point that he is entirely tainted by them.)</th>
 
 <th>(Has he truly become a villain — an enemy of ES by being stained with anti-ES ideology?)</th>
+{% endbubble %}
 
+{% bubble Shinobu frown %}
 <th>(No, that cannot be… He isn’t a character from a comic book or something…)</th>
 
 <th>(Is it even possible for a person to change so easily, in the same vein as a hero of justice who has been brainwashed and turned evil…?)</th>
@@ -1064,7 +1102,7 @@ You are here to save your former teammates… to protect your former subordinate
 <th>(Something is not right here. There is something very off about all of this.)</th>
 {% endbubble %}
 
-{% bubble Tetora smilesoft %}
+{% bubble Tetora norsmile %}
 —Oh, I have to go now. My pals are calling for me.
 {% endbubble %}
 
@@ -1072,9 +1110,7 @@ You are here to save your former teammates… to protect your former subordinate
 …? Could it be — Have Shinkai-dono and the other members arrived?
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch7_2.jpg %}
-
-{% bubble Tetora smilesoft %}
+{% bubble Tetora smileexplain %}
 Ah, you misunderstand. The people I consider my comrades now are the guys from Crimson Production.
 
 Oh yeah, I’ll answer your question from earlier now. You asked me if I’m still a member of Ryuseitai, right, Sengoku-kun?
@@ -1082,7 +1118,9 @@ Oh yeah, I’ll answer your question from earlier now. You asked me if I’m sti
 On paper, that would of course be “yes”. I haven’t submitted a unit withdrawal form yet, nor my resignation from ES to the office.
 
 I’m still Nagumo Tetora, Ryuseitai’s Ryusei Black.
+{% endbubble %}
 
+{% bubble Tetora vside %}
 But, hmm… If I were to put aside what the documents say for a moment, and only consider the emotional aspect of that statement — I don’t know how true that really is.
 
 I don’t think I can say that I’m on your side now.
@@ -1092,8 +1130,6 @@ I don’t think I can say that I’m on your side now.
 What on earth…? You really *have* been tainted by a dangerous ideology—
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch7_3.jpg %}
-
 {% bubble Tetora smile %}
 Haha. What dangerous ideology?
 
@@ -1102,7 +1138,7 @@ We have people here who just want to live a normal, peaceful life — and then w
 So tell me, which side is the one with the dangerous ideologies? Who’s the real villain here, hmm?
 {% endbubble %}
 
-{% bubble Shinobu sad %}
+{% bubble Shinobu sad2 %}
 ……………
 {% endbubble %}
 
@@ -1135,11 +1171,11 @@ So tell me, which side is the one with the dangerous ideologies? Who’s the rea
 emergency\~! emergency\~!
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileconfident %}
 It’s a brand new day, Takamine! Goood mooorning~! ☆
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sightired %}
 Oh… So it was just a dream all along…
 {% endbubble %}
 
@@ -1157,11 +1193,11 @@ Not only Morisawa-senpai, but even Shinkai-senpai… Unlike that guy over there,
 
 {% img /img/es/eventstory/supervillain/darkstarch8_2.jpg %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata niyaclosed %}
 yes! of course i am not! it is also completely [normal] to *puka puka* in the [fountain]! that is how an ordinary person [behaves]!
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sighdrop %}
 Oh, right, our unit’s just full of airheads…
 {% endbubble %}
 
@@ -1169,7 +1205,7 @@ Oh, right, our unit’s just full of airheads…
 Yup! Now that you’ve come to accept that, get up, Takamine! We’ve got trouble!
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sighfrown %}
 What do you want, seriously… I apologize for neglecting everyone yesterday by prioritizing my own personal work, okay?
 
 I’m begging you, please don’t terrorize my peaceful daily life… Are you two a natural disaster or kaijuu or something?
@@ -1213,8 +1249,6 @@ Nope! I think it’s only you who’d do something as cruel as that to me, Takam
 I’ll have you know, it’s a burden on me to always have to relay my messages to other people like Kanata whenever I want to contact you!
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch8_4.jpg %}
-
 {% bubble Midori idle %}
 It’s an honor to know that I was able to become special to you, Senpai.
 {% endbubble %}
@@ -1235,13 +1269,13 @@ But I mean… This is just fake news, isn’t it?
 A lot has happened, so I guess it kinda makes sense in Tetora-kun’s case, but… Shinobu-kun would never abandon Ryuseitai under any circumstances, so…
 {% endbubble %}
 
-{% bubble Midori sad %}
+{% bubble Midori sad2 %}
 Actually, you could probably say that if even *Shinobu-kun* of all people gave up on Ryuseitai, then we really *are* done for.
 
 It’ll mean we’ve become the absolute worst group in the world, that even Shinobu-kun, who finds good in everything, can’t find any good in us at all.
 {% endbubble %}
 
-{% bubble Chiaki frown %}
+{% bubble Chiaki srsthinking %}
 Yeah… It’s hard for me to believe, too. But you’ll find a picture of Nagumo and Sengoku shoulder-to-shoulder in this article, smiling and posing together.
 
 They’re both wearing idol costumes from Crimson Production, the agency that Nagumo was transferred to.
@@ -1249,7 +1283,9 @@ They’re both wearing idol costumes from Crimson Production, the agency that Na
 If one were to say that this is proof that the two have left Ryuseitai and belong to a new group, it would be hard to deny that statement.
 
 Or rather, that’s what the article is trying to make you think.
+{% endbubble %}
 
+{% bubble Chiaki frown %}
 While the interview in the article could be easily faked, a photo like this can’t.
 
 Well, to be more specific — with today’s technology, people can easily edit two different photos together, but I don’t understand why they would do such a thing.
@@ -1261,7 +1297,7 @@ Something is definitely going down in Okinawa.
 well, we already knew since [yesterday] that something is going on there. but it sounds much more alarming than we first expected, yes?
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah. It seems that the upper management of the agency is just as perplexed about this matter, and I’ve had numerous inquiries coming in since this morning, asking us what’s going on with Ryuseitai.
 {% endbubble %}
 
@@ -1269,12 +1305,12 @@ Yeah. It seems that the upper management of the agency is just as perplexed abou
 *we* are the ones who want to ask that, you know~?
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah, seriously. Regardless, I’m sure even you understand that we can’t just stand around and do nothing, right, Takamine?
 {% endbubble %}
 
 {% bubble Midori idle %}
-Well, yeah, obviously… But what’re you even planning to do? You can’t get contact with either of them, right?
+Well, yeah, obviously… But what’re we even planning to do? You can’t get contact with either of them, right?
 
 You’re not gonna suggest going to Okinawa ourselves to find out, are you…?
 {% endbubble %}
@@ -1285,7 +1321,7 @@ Yep, that is *exactly* what we’ll do! Worry not, Takamine! I’ve already cont
 We can now leave our work aside, and focus on the main issue at hand!
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sighdrop %}
 It’s only when it’s least necessary that he’s super fast to work…
 {% endbubble %}
 
@@ -1295,7 +1331,9 @@ In fact, this is what I should’ve done yesterday! I regret not taking action e
 
 {% bubble Midori worried0 %}
 Erm, he’s not dead or anything though, right? Isn’t he smiling and doing a peace sign in the photo…?
+{% endbubble %}
 
+{% bubble Midori srsthinking %}
 And anyway, I dunno what’s going on in Okinawa, but won’t the same happen to us if we head over there…?
 
 Won’t we also look like we ended up quitting Ryuseitai…?
@@ -1307,11 +1345,11 @@ That’s definitely a possibility. But just in case, I asked Tenshouin to offici
 StarPro should protect their own agency’s idols, at least from time to time.
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata smileconfident %}
 fufu. mr. [emperor] is a [nuisance] when he turns against you, but he is very reliable when he is your [ally], isn’t he?
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Yeah. Although, we shouldn’t assume that he’s completely on our side.
 
 He’d probably cut us off just as easily if it’s in the best interest of the whole agency.
