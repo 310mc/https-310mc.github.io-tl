@@ -389,7 +389,7 @@ Because I’m an idol! Because you let me stay as one!
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch29.jpg %}
 
-{% bubble Souma angry %}
+{% bubble Souma angry0 %}
 Compose yourself, Hasumi-dono!
 {% endbubble %}
 
@@ -401,7 +401,7 @@ K-Kanzaki? What’re you doing here!?
 I thought I made it very clear you’re banished from Akatsuki…!
 {% endbubble %}
 
-{% bubble Souma angry %}
+{% bubble Souma angry0 %}
 Indeed you did. I have no right to be standing on this stage; I am akin to a ruffian running amok.
 
 I have been exiled from Akatsuki… Therefore, I have come here to speak as myself, bearing the family name that I have inherited from my ancestors.
@@ -417,7 +417,7 @@ I know not what has intoxicated you, but watching your staggering, nearly inebri
 —!
 {% endbubble %}
 
-{% bubble Souma angry %}
+{% bubble Souma angry0 %}
 I may have lost the right to call myself a member of Akatsuki, but I am still an “ai-dol”!
 
 I am one of you, as well as your long standing foe! O travellers of the same path of dreams! I shan’t let either of you negate that about me, no matter how much love and respect I hold for you two!
@@ -461,7 +461,7 @@ I understand how it feels to be a parent who gets taught by their own child. It 
 Kanzaki.
 {% endbubble %}
 
-{% bubble Souma angry %}
+{% bubble Souma angry0 %}
 Is there a *problem*? I spoke what was on my mind, and I refuse to apologize for anything! I am far beyond furious right now, I feel as though my beloved katana has been smeared with filth!
 {% endbubble %}
 

@@ -327,7 +327,7 @@ Aww, there’s nothing to be ashamed of, though~ It was just an accident, right?
 Right, what was it… You were cleaning the club room, when something like an urn fell on your head, right?
 {% endbubble %}
 
-{% bubble Souma sigh2 %}
+{% bubble Souma sighdrop %}
 Mm… Truly a disaster.
 
 Even though I actually conduct myself in a proper manner every day, unlike you…

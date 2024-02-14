@@ -56,12 +56,12 @@ permalink: submarine/
                         </div>
                         <div class="value">
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Keito" character="Keito"></a>
                         <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
                         </div>
@@ -149,12 +149,12 @@ permalink: submarine/
                         </div>
                         <div class="value">
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Souma" character="Souma"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Keito" character="Keito"></a>
                         <a href="/categories/Enstars/Gatekeeper" character="Gatekeeper"></a>
                         </div>
@@ -271,7 +271,304 @@ permalink: submarine/
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
+                <div class="story-cards">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Associated Cards</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="cards">
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/kanataframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[submarine and god] Kanata Shinkai</div>
+                                    <div class="card__jp">[さぶまりんとかみさま] 深海 奏汰</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--うみのちから--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--どうくつのおく--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--きづかいとせいちょう--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/soumaframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/soumabcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[Submarine and Duty] Souma Kanzaki</div>
+                                    <div class="card__jp">[サブマリンとお役目] 神崎 颯馬</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海より与えられし使命--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--命令リクエスト--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--船上の板前--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/chiakiframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Submarine and Distance] Chiaki Morisawa</div>
+                                    <div class="card__jp">[サブマリンと距離] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海で変わったあの日--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--間諜役ヒーロー--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--登場時の口上--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/kuroframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/kurobcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Submarine and Shipwreck] Kuro Kiryu</div>
+                                    <div class="card__jp">[サブマリンと海難] 鬼龍 紅郎</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海に揺られ抗う--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--舵取りストッパー--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--海と船酔い--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/tetoraframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/tetorabcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐<br>[The Curved Submarine] Tetora Nagumo</div>
+                                    <div class="card__jp">[湾曲サブマリン] 南雲 鉄虎</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海と男と少年--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--気持ちの整理--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--現状と相談--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/midoriframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/midoribcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐<br>[The Stuck Submarine] Midori Takamine</div>
+                                    <div class="card__jp">[滞留サブマリン] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海と憂鬱潮風--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--選択の結果--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--濁りの境界--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/shinobuframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/shinobubcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐<br>[The Wading Submarine] Shinobu Sengoku</div>
+                                    <div class="card__jp">[瀬踏みサブマリン] 仙石 忍</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海と冷静な見解--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--共通の話題--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--情報収集の技--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/eventstory/submarine/keitoframe_300px.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/eventstory/submarine/keitobcgframe_300px.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">⭐⭐⭐<br>[The Guided Submarine] Keito Hasumi</div>
+                                    <div class="card__jp">[受命サブマリン] 蓮巳 敬人</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="center">
+                                                <div class="name"><!--海と真相解明--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="live">
+                                                <div class="name"><!--水面下の行動--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name"><!--言えないこと--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="chapter-area">
                 <div class="chapters">
@@ -280,36 +577,10 @@ permalink: submarine/
                             <a href="https://verdantgrove.dreamwidth.org/7838.html" id="none">Prologue</a>
                         </li>
                         <li>
-                            <span>Ruthless Battlefield, Okinawa</span>
-                            <a href="https://verdantgrove.dreamwidth.org/13777.html" id="none">1</a>
-                            <a href="https://verdantgrove.dreamwidth.org/14046.html" id="none">2</a>
-                            <a href="ruthless_battlefield/#Chapter-3" id="none">3</a>
-                            <a href="ruthless_battlefield/#Chapter-4" id="none">4</a>
-                            <a href="ruthless_battlefield/#Chapter-5" id="none">5</a>
-                            <a href="ruthless_battlefield/#Chapter-6" id="none">6</a>
-                            <a href="ruthless_battlefield/#Chapter-7" id="none">7</a>
-                            <a href="ruthless_battlefield/#Chapter-8" id="none">8</a>
-                            <a href="ruthless_battlefield/#Chapter-9" id="none">9</a>
-                            <a href="ruthless_battlefield/#Chapter-10" id="none">10</a>
-                            <a href="https://verdantgrove.dreamwidth.org/15809.html" id="none">11</a>
-                            <a href="https://verdantgrove.dreamwidth.org/15894.html" id="none">12</a>
+                            <a href="ruthless_battlefield" id="none">Ruthless Battlefield, Okinawa</a>
                         </li>
                         <li>
-                            <span>Nirai-Kanai</span>
-                            <a href="https://verdantgrove.dreamwidth.org/16284.html" id="none">1</a>
-                            <a href="https://verdantgrove.dreamwidth.org/16854.html" id="none">2</a>
-                            <a href="nirai_kanai/#Chapter-3" id="none">3</a>
-                            <a href="nirai_kanai/#Chapter-4" id="none">4</a>
-                            <a href="nirai_kanai/#Chapter-5" id="none">5</a>
-                            <a href="nirai_kanai/#Chapter-6" id="none">6</a>
-                            <a href="nirai_kanai/#Chapter-7" id="none">7</a>
-                            <a href="nirai_kanai/#Chapter-8" id="none">8</a>
-                            <a href="nirai_kanai/#Chapter-9" id="none">9</a>
-                            <a href="nirai_kanai/#Chapter-10" id="none">10</a>
-                            <a href="https://verdantgrove.dreamwidth.org/17542.html" id="none">11</a>
-                            <a href="nirai_kanai/#Chapter-12" id="none">12</a>
-                            <a href="nirai_kanai/#Chapter-13" id="none">13</a>
-                            <a href="nirai_kanai/#Chapter-14" id="none">14</a>
+                            <a href="nirai_kanai" id="none">Nirai-Kanai</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
@@ -326,8 +597,8 @@ permalink: submarine/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Okinawa Red!</a>
-                            <a href="minitalk/chiaki_2" id="none">Troubled Hero</a>
+                            <a href="minitalk/chiaki_1" id="none">Part One</a>
+                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
                             </div>
                         </div>
                     </div>

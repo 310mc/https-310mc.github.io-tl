@@ -290,7 +290,7 @@ permalink: comet_show/
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">How to Interact with One Another<!--付きあい方--></div>
+                                                <div class="name">The Way to Interact with One Another<!--付きあい方--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

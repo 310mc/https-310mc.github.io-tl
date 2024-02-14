@@ -559,7 +559,7 @@ erm… i wanted to ask, mizusaba-san. what sort of [relationship] do you have wi
 {% bubble Mizusaba %}
 Mm? Mm~, friends, I guess?
 
-Ever since my grandpa’s back got worse, I’ve taken on the job of transporting supplies to Hoshijima~.
+Ever since my grandpa strained his back, I’ve taken on the job of transporting supplies to Hoshijima~.
 
 That’s part of why I’m the one taking care of you folks, because I’m kinda the one responsible for Hoshijima nowadays~.
 

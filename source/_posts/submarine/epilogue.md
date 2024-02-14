@@ -23,14 +23,14 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                     Characters
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Souma" character="Souma"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Kuro" character="Kuro"></a>
-                <a href="/categories/Enstars/Keito" character="Keito"></a>
-                <a href="/categories/Enstars/Souma" character="Souma"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Keito" character="Keito"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -282,7 +282,7 @@ If they take any longer, we’ll end up stealing the limelight!
 
 ## Chapter 2
 
-<a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank"><img src="/img/es/eventstory/submarine/epch2.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank"><img src="/img/es/eventstory/submarine/chakatsukionly.jpg" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank">Click here to read Epilogue 2!</a>**
 
@@ -360,4 +360,4 @@ If they take any longer, we’ll end up stealing the limelight!
 ## Translation Notes
 [^1]: “Mensoore” is an Okinawan greeting.
 [^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses <em>boku</em> here instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself).
-[^3]: A reference to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.
+[^3]: Referring to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.
