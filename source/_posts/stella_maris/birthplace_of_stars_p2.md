@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – birthplace of stars (Chapter 7–15)"
-date: 2024-1-15 9:03:00
+date: 2024-1-15 9:04:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

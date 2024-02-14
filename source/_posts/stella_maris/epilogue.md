@@ -1,6 +1,6 @@
 ---
 title: "Stella Maris – Epilogue"
-date: 2024-1-15 9:04:00
+date: 2024-1-15 9:05:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

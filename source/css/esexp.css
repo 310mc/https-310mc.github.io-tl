@@ -580,6 +580,9 @@
 [character="Kanata"][smilesoft2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smilesoft2.png");
 }
+[character="Kanata"][smug] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_smug.png");
+}
 [character="Kanata"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_srsthinking.png");
 }

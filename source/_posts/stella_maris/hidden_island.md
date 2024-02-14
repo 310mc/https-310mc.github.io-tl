@@ -193,7 +193,7 @@ That’s so mean!? Eh? Eh!? Takamine keeps criticizing me for stinking of sweat,
 {% endbubble %}
 
 {% bubble Tetora frown %}
-It’s the amount of deodorant you use — it’s <em>way</em> too much. Everythin’ is so extreme and excessive with you.
+It’s the amount of deodorant you use — it’s <em>way</em> too much. Everything’s so extreme and excessive with you.
 
 Deodorants are supposed to suppress the smell of sweat, not to numb other people’s senses, ‘kay?
 {% endbubble %}

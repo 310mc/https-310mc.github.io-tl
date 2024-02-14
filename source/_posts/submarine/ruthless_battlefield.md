@@ -13,7 +13,7 @@ categories:
 tags:
 - Main Story
 - Akira
-description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki's cooperation…"
+description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki’s cooperation…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -392,7 +392,7 @@ Ahh, please do not make such a somber face! This is simply an unavoidable matter
 {% endbubble %}
 
 {% bubble Keito %}
-Did we come all the way here to Okinawa to watch a pseudo-lover's quarrel happen before our very eyes?
+Did we come all the way here to Okinawa to watch a pseudo-lover’s quarrel happen before our very eyes?
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -758,7 +758,7 @@ But I can’t tell if it’s ‘cause of his order, or if he’s just being his 
 {% bubble Keito %}
 Hmm, is he acting in an unsettling manner by any chance…? Morisawa left to help Kiryu get settled in the ryokan, since he looked to be in a serious state of health—
 
-But if he's attempting to do something terrible in accordance with his order, it might have been a mistake to entrust Kiryu to him.
+But if he’s attempting to do something terrible in accordance with his order, it might have been a mistake to entrust Kiryu to him.
 
 I was naive to think that Morisawa would never do anything malicious…
 {% endbubble %}
@@ -778,7 +778,7 @@ Oh? That does sound suspicious indeed. So *that’s* why Morisawa was the only o
 {% endbubble %}
 
 {% bubble Tetora serious %}
-Ossu. He only does it at very specific intervals, though, so it's not like it's interfering with Ryuseitai’s schedule or anything.
+Ossu. He only does it at very specific intervals, though, so it’s not like it’s interfering with Ryuseitai’s schedule or anything.
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -788,9 +788,9 @@ Regardless, we’re forbidden from speaking about the contents of our orders, so
 {% endbubble %}
 
 {% bubble Keito %}
-Hmm, that's another nuisance about these orders. As an outsider, it’s impossible to judge whether someone’s actions are because of their order or not.
+Hmm, that’s another nuisance about these orders. As an outsider, it’s impossible to judge whether someone’s actions are because of their order or not.
 
-In this case, we can more or less agree that Morisawa is likely acting this way because of his order, since this isn’t how he usually acts. There’s also no way he's trying to imitate Mikejima, who always chooses to act alone.
+In this case, we can more or less agree that Morisawa is likely acting this way because of his order, since this isn’t how he usually acts. There’s also no way he’s trying to imitate Mikejima, who always chooses to act alone.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -798,7 +798,7 @@ He gets lonely easily, after all… He’d much rather spend time being close wi
 {% endbubble %}
 
 {% bubble Tetora serious %}
-…Anyway, the point is, Taichou keeps periodically leaving now and then, so I'm sort of acting as the leader during those times.
+…Anyway, the point is, Taichou keeps periodically leaving now and then, so I’m sort of acting as the leader during those times.
 
 I find that pretty cruel to do to me, though…
 {% endbubble %}
@@ -806,7 +806,7 @@ I find that pretty cruel to do to me, though…
 {% bubble Keito %}
 Well, I understand you’re in a complicated position… but Kanzaki is also acting as the leader of Akatsuki for now, and will be the one to decide on what Akatsuki should do during the qualifying rounds.
 
-If you don't mind, I'd like you to give him some advice as someone with experience, Nagumo.
+If you don’t mind, I’d like you to give him some advice as someone with experience, Nagumo.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -826,7 +826,7 @@ Order <em>this</em>, order <em>that</em>… I’m getting so sick of it. We soun
 {% endbubble %}
 
 {% bubble Shinobu %}
-Truthfully, I don't actually dislike it that much. I feel like a ninja, whose destiny is to live by a code. It’s like a game with its own set of rules.
+Truthfully, I don’t actually dislike it that much. I feel like a ninja, whose destiny is to live by a code. It’s like a game with its own set of rules.
 {% endbubble %}
 
 {% bubble Souma v3 %}
@@ -884,7 +884,7 @@ Achoo! Aah-choo…!
 {% endbubble %}
 
 {% bubble Kuro %}
-Woah woah, you alright there, Morisawa? What's with you sneezin’ all cutely? You sound like you’re the one who needs nursin’ right now.
+Woah woah, you alright there, Morisawa? What’s with you sneezin’ all cutely? You sound like you’re the one who needs nursin’ right now.
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -898,7 +898,7 @@ Is that a dig at me for being too weak to even sit up?
 {% bubble Chiaki worried %}
 Oh, no no, I didn’t mean it that way at all…!
 
-I’ve heard before that you can’t handle vehicles, but it really was no joke, was it? I'm honestly a little shaken — I've never seen you looking this weak before.
+I’ve heard before that you can’t handle vehicles, but it really was no joke, was it? I’m honestly a little shaken — I’ve never seen you looking this weak before.
 
 To me, you’ve always been such a reliable and strong guy.
 {% endbubble %}
@@ -914,11 +914,11 @@ That’s because you really *<em>are</em>* strong. Even during the days of The W
 {% endbubble %}
 
 {% bubble Kuro %}
-That's you, man. You never once showed weakness to others back then. Actually, you’re still like that even now, ain'tcha?
+That’s you, man. You never once showed weakness to others back then. Actually, you’re still like that even now, ain’tcha?
 
 I get how Itsuki feels nowadays. Showing weakness gives people the chance to take the advantage over you to crush you… Just the thought of that scares us, so we choose to put up a strong front and stand our ground.
 
-But if I’m bein’ real with ya… It's tough having to lie even to your own buddies, don’tcha think?
+But if I’m bein’ real with ya… It’s tough having to lie even to your own buddies, don’tcha think?
 {% endbubble %}
 
 {% bubble Chiaki sad %}
@@ -928,13 +928,13 @@ But if I’m bein’ real with ya… It's tough having to lie even to your own b
 {% bubble Kuro %}
 Woops, sorry for whinin’ outta nowhere. It’s hard to stop your mind from wandering when you’re not feelin’ well.
 
-I'm sure I'll get better after a good night's sleep, so you don’t have to stay and take care of me. You should go back to your pals.
+I’m sure I’ll get better after a good night’s sleep, so you don’t have to stay and take care of me. You should go back to your pals.
 
 I heard a bit while we got here, but isn’t the situation in Okinawa lookin’ pretty serious?
 
-You’re gonna regret it for the rest of your life if someone you care about gets hurt while you're separated from ‘em.
+You’re gonna regret it for the rest of your life if someone you care about gets hurt while you’re separated from ‘em.
 
-Take it from me, dude… I still feel an ache inside me whenever I watch TV shows that talk about moms. That's why I get so angry whenever I see Mikejima, honestly.
+Take it from me, dude… I still feel an ache inside me whenever I watch TV shows that talk about moms. That’s why I get so angry whenever I see Mikejima, honestly.
 
 He always makes me think, “Quit dancin’ on people’s trauma with that damn smile on your face!”
 {% endbubble %}
@@ -948,7 +948,7 @@ Who knows… He could also hate his mom so much that he chose to chase after an 
 
 Ideals are called ideals ‘cause they’re outta our reach, and he’s walking on the path of hell by tryin’ so hard to get close. I could say the same thing about you, too.
 
-“The heroes of justice”, was it? Honestly, I don't really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
+“The heroes of justice”, was it? Honestly, I don’t really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
 
 They beat us down, deny us, and force us to reflect and reform. It’s pretty shitty of ‘em to do.
 {% endbubble %}
@@ -962,11 +962,11 @@ Only ‘cause it’s you, I’d never let folks like Hasumi or Tetsu see me like
 
 Actually, that was the start of our relationship, wasn’t it—“Glasses boy”.[^4]
 
-I know I already apologized a buncha times, but I gotta say it again — I'm sorry about what I did back then. My dumbass self got mad at you ‘cause of blind-sighted suspicion, and I said a lotta terrible things to you…
+I know I already apologized a buncha times, but I gotta say it again — I’m sorry about what I did back then. My dumbass self got mad at you ‘cause of blind-sighted suspicion, and I said a lotta terrible things to you…
 {% endbubble %}
 
 {% bubble Chiaki %}
-I've also said this many times, but you don’t have to apologize. I was only dreaming at the time, and you gave me a good shaking and dragged me back down to reality.
+I’ve also said this many times, but you don’t have to apologize. I was only dreaming at the time, and you gave me a good shaking and dragged me back down to reality.
 
 Thank you, “Kiryu-kun”.
 {% endbubble %}
@@ -996,15 +996,15 @@ Hmm…? He says, “Yo, we’ve got an emergency, Taichou!”
 {% bubble Kuro %}
 Oh yeah, Tetsu talks like that even on HoldHands, huh?
 
-On the other hand, you’ve got Kanzaki who’s so polite and respectful with all his pretty words, you'd think he’s the daughter of a wealthy family, or somethin’.
+On the other hand, you’ve got Kanzaki who’s so polite and respectful with all his pretty words, you’d think he’s the daughter of a wealthy family, or somethin’.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Yeah, all of our kids value their individuality. That's the kind of unit that we are.
+Yeah, all of our kids value their individuality. That’s the kind of unit that we are.
 
-But to get back on topic — It sounds like we've got a real crisis on our hands, Kiryu.
+But to get back on topic — It sounds like we’ve got a real crisis on our hands, Kiryu.
 
-It seems that our unit members were asked by the local Okinawan idols to come to the rescue. They're asking us to protect them from the ES idols’ tyranny.
+It seems that our unit members were asked by the local Okinawan idols to come to the rescue. They’re asking us to protect them from the ES idols’ tyranny.
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -1042,7 +1042,7 @@ Yeah, yeah… That’s how it always ends up for us, so you don’t have to pret
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-I-I don’t approve of that attitude you two are taking! You cold-hearted modern kids! Let's be cooperative! Cooperation is important!
+I-I don’t approve of that attitude you two are taking! You cold-hearted modern kids! Let’s be cooperative! Cooperation is important!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1066,7 +1066,7 @@ Hard work may be Tetora-kun’s thing, but nobody ever said I can’t do the sam
 {% bubble Chiaki sad %}
 How odd… Were we always this disconnected from each other…? Who made Ryuseitai like this…?
 
-It hasn't been that long since our Comet Show performance, so I understand that it’s difficult to switch gears right away—
+It hasn’t been that long since our Comet Show performance, so I understand that it’s difficult to switch gears right away—
 
 And while I understand this is all the result of my decision, based on what the world desired and what the agency ordered of us — I also do know we can’t go back to the bright and joyful days of our past anytime soon.
 
@@ -1080,11 +1080,11 @@ It’s more like we’ve gone back to the start… or maybe even regressed…
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Mm~… I don't wanna be like this every time we see each other, so I'll just swallow my bitter feelings and accept the situation as it is for now.
+Mm~… I don’t wanna be like this every time we see each other, so I’ll just swallow my bitter feelings and accept the situation as it is for now.
 
-I feel like I'm starting over from the bottom, but that's how it always is for me, anyway.
+I feel like I’m starting over from the bottom, but that’s how it always is for me, anyway.
 
-I’m gonna work hard from the ground up again and become a big man that everyone in the world and the agency'll recognize. Ossu.
+I’m gonna work hard from the ground up again and become a big man that everyone in the world and the agency’ll recognize. Ossu.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -1126,7 +1126,7 @@ well, we will leave it at that. let’s instead focus on what we need to talk ab
 {% endbubble %}
 
 {% bubble Tetora frown %}
-I really wish you would stop disappearing on a regular basis; it's causing us trouble and making us worried. But I’m guessing it’s your order, right?
+I really wish you would stop disappearing on a regular basis; it’s causing us trouble and making us worried. But I’m guessing it’s your order, right?
 
 Something like, “You are not allowed to be with the members of Ryuseitai for more than a certain amount of time.”
 {% endbubble %}
@@ -1136,7 +1136,7 @@ Even if that’s the order, I can’t confirm it. We’re forbidden to, after al
 {% endbubble %}
 
 {% bubble Tetora serious %}
-Ossu, that’s true. And I guess I can't go around bending and breaking rules like Crazy:B, since I’m a hero of justice and all.
+Ossu, that’s true. And I guess I can’t go around bending and breaking rules like Crazy:B, since I’m a hero of justice and all.
 
 Then again, I never get rewarded for being a good kid anyway, so I don’t really see the point…
 {% endbubble %}
@@ -1156,7 +1156,7 @@ Then again, I never get rewarded for being a good kid anyway, so I don’t reall
 {% endbubble %}
 
 {% bubble Chiaki %}
-That would be nice, thank you. You've become very considerate, Kanata.
+That would be nice, thank you. You’ve become very considerate, Kanata.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1204,7 +1204,7 @@ Now, now! We don’t want another venting session!
 {% bubble Chiaki %}
 Heheh, but to be fair, the current situation feels like it’s been giving us a handful of headaches.
 
-I only got the report after the fact, so I don't know what sort of conversation actually took place, but as I understand it, the Okinawan idols asked for our help, right?
+I only got the report after the fact, so I don’t know what sort of conversation actually took place, but as I understand it, the Okinawan idols asked for our help, right?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1276,7 +1276,7 @@ Thus, ES had sent some of the most distinguished power idols in order to compete
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-That’s true. We don't know any of them except for Akatsuki, but—
+That’s true. We don’t know any of them except for Akatsuki, but—
 
 The top picks from the renowned CosPro, and the veterans from RythLink, were sent over to this area.
 {% endbubble %}
@@ -1290,7 +1290,7 @@ Actually, how come you still don’t know much about idols, Midori-kun?
 {% endbubble %}
 
 {% bubble Midori %}
-‘Cause I don’t have any interest in them… We're not competing on how many idols we know, are we?
+‘Cause I don’t have any interest in them… We’re not competing on how many idols we know, are we?
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -1304,9 +1304,9 @@ Indeed. Also, I think that people will have a good impression of someone who kno
 {% bubble Midori sigh %}
 That’s a lie… It freaks me out when strangers know stuff about me…
 
-It's so stressful to be approached by strangers whenever you're shopping in town, and then forced to give them fanservice…
+It’s so stressful to be approached by strangers whenever you’re shopping in town, and then forced to give them fanservice…
 
-It's tough to be expected to act like an idol twenty-four-seven, for the rest of your existence…
+It’s tough to be expected to act like an idol twenty-four-seven, for the rest of your existence…
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -1314,7 +1314,7 @@ While l do understand how you feel, that is a tricky mindset to have as an idol.
 {% endbubble %}
 
 {% bubble Midori sad %}
-Yeah, but I'm doing my best… ‘Cause if I'm even a little curt with my fans, they’ll write stuff on the internet like, “Takamine acted shitty to me.”
+Yeah, but I’m doing my best… ‘Cause if I’m even a little curt with my fans, they’ll write stuff on the internet like, “Takamine acted shitty to me.”
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
@@ -1330,7 +1330,7 @@ You’ll be able to do your work just fine if you only scroll through that.
 {% bubble Midori sad %}
 But I’m too curious not to… Especially since Ryuseitai has been in a bad shape since the summer…
 
-I can't say a word unless I know how it’ll be received by the public…
+I can’t say a word unless I know how it’ll be received by the public…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1360,13 +1360,13 @@ And in order to relieve their frustration and anger, they even tried to pick a f
 {% endbubble %}
 
 {% bubble Midori %}
-Yeah… I think we're in a decent place in StarPro, but I guess we look like a weak unit compared to the well-known veterans and stuff…
+Yeah… I think we’re in a decent place in StarPro, but I guess we look like a weak unit compared to the well-known veterans and stuff…
 {% endbubble %}
 
 {% bubble Shinobu %}
 To be honest, we have not made any remarkable achievements since ES was established. Akatsuki is in the same position as us, too.
 
-Compared to other shining idols, we’re hidden in the background. It isn't a surprise that our name has barely reached the farther prefectures in our country, like here.
+Compared to other shining idols, we’re hidden in the background. It isn’t a surprise that our name has barely reached the farther prefectures in our country, like here.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1384,7 +1384,7 @@ Only “true idols” were successful enough to make their names known through o
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Those “true idols” are the ones invading and preying on Okinawa. I don't know what ES hopes to achieve with this plan, but…
+Those “true idols” are the ones invading and preying on Okinawa. I don’t know what ES hopes to achieve with this plan, but…
 
 What should we, the “colorful comedy band”, do in such a situation?
 
