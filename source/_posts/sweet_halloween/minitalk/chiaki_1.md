@@ -103,20 +103,22 @@ Ugh, I can't believe I got preoccupied with my thoughts and bumped into someone 
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki smileconfident %}
               Yeah, I bumped into that kid earlier…
 
               Y'know, the first year that Akehoshi dotes on… Yeah, that's him, Shino-kun from Ra*bits!
-
+              {% endbubble %}
+              {% bubble Chiaki surprised0 %}
               Woah!? Why're you glaring at me!? Does this mean I'd make an enemy out of you too if I ever hurt Shino-kun!?
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki sighfrown %}
               T-The truth is… I bumped into Shino-kun here earlier, as well…
 
               That kid is small and frail-looking, so I was worried I hurt him, but thankfully nothing happened…
-
+              {% endbubble %}
+              {% bubble Chiaki shocked %}
               W-Wait, you've got it wrong! That doesn't mean that you aren't frail, really!
 				{% endbubble %}
 			</div>

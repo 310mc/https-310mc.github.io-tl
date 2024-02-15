@@ -148,7 +148,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 				<li><a data-tab="1a-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1a-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki nod %}
               Ooh, that was sudden! I see, so you're also enjoying Halloween?
               {% endbubble %}
               {% bubble Chiaki surprised0 %}
@@ -179,7 +179,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki grin %}
               I troubled you and the juniors a lot this time around, after all.
 
               But I'll be at the top of the world once I'm on stage! I'll redeem my damaged honor in one swipe!
@@ -188,7 +188,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 				{% endbubble %}
 			</div>
 			<div data-tab="1b-r" style="display: none">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki norsmile %}
               Yeah, I'm in perfect shape! There's only a little bit more until the live show, after all!
 
               Mm? I'm acting completely different from how I was earlier…?
@@ -205,7 +205,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 
 {% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_3.jpg %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile %}
 A lot happened, but the sleepover party was extremely valuable!
 
 For me, it was most especially a great opportunity to be aware of just how blessed I am to be surrounded by so many kind people!
@@ -257,11 +257,12 @@ I hope the juniors also got to feel something through this event in their own re
 				<li><a data-tab="1b-r">Possibility 2</a></li>
 			</ul>
 			<div data-tab="1b-n">
-            	{% bubble Chiaki %}
+            	{% bubble Chiaki norsmile2 %}
               Oh! Do you also feel their growth too, Anzu?
 
               Aren't they growing to be so reliable and strong? Why, Nagumo even accompanied me to the bathroom at nigh—
-
+              {% endbubble %}
+              {% bubble Chiaki grin2 %}
               Woops, haha, no, no! We just so *happened* to come across each other on the way there, really! Fuhahahaha…☆
 				{% endbubble %}
 			</div>

@@ -66,7 +66,7 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

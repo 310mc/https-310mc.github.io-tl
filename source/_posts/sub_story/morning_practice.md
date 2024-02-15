@@ -66,7 +66,7 @@ This story is connected to the card [Upperclassman's Present] Midori Takamine.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

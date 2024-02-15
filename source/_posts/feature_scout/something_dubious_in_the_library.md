@@ -65,7 +65,7 @@ This story is connected to the card [Untitled Book] Chiaki Morisawa.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

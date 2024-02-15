@@ -62,7 +62,7 @@ This story is connected to the card [Desperately Trying To Compliment] Midori Ta
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>

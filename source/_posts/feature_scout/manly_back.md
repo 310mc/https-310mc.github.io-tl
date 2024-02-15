@@ -63,7 +63,7 @@ This story is connected to the card [What I Like] Tetora Nagumo.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>

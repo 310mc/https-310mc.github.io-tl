@@ -64,7 +64,7 @@ This story is connected to the card [Basket-bon] Midori Takamine.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>

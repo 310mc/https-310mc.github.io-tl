@@ -63,7 +63,7 @@ This story is connected to the card [What Makes A Hero] Chiaki Morisawa.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

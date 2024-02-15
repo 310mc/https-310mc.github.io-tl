@@ -68,7 +68,7 @@ This story is connected to the card [The Melody Of Rain Patters] Shinobu Sengoku
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

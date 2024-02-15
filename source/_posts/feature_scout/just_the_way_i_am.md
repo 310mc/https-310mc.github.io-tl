@@ -66,7 +66,7 @@ This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

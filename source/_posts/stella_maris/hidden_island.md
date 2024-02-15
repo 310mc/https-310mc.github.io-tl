@@ -63,7 +63,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 <div toc>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
+{% btn /stella_maris/birthplace_of_stars_p1,, arrow-right, Next Chapter: birthplace of stars (Chapter 1–6) %}
 </div>
 
 ## Chapter 1
@@ -1934,7 +1934,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /stella_maris/prologue,, arrow-left, Previous Chapter: Prologue %}
 {% btn /stella_maris,, star, Index %}
-{% btn /stella_maris/birthplace_of_stars,, arrow-right, Next Chapter: birthplace of stars %}
+{% btn /stella_maris/birthplace_of_stars_p1,, arrow-right, Next Chapter: birthplace of stars (Chapter 1–6) %}
 </div>
 
 ## Translation Notes

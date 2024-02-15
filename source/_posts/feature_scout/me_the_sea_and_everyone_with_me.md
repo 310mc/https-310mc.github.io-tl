@@ -68,7 +68,7 @@ This story is connected to the card [Intertwined Sea] Kanata Shinkai.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

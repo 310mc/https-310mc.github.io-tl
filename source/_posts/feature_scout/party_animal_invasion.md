@@ -66,7 +66,7 @@ This story is connected to the card [Parfait of Pure Bliss] Midori Takamine.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

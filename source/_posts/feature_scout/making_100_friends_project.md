@@ -66,7 +66,7 @@ This story is connected to the card [Bonds That Can Be Called Friendship] Midori
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>

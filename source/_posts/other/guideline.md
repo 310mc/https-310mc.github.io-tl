@@ -5,7 +5,7 @@ description: "Translation Guidelines for 310mc's translations."
 permalink: guideline/
 ---
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <style>
 .intro {

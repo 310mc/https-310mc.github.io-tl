@@ -66,7 +66,7 @@ This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

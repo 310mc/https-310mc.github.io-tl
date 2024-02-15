@@ -63,7 +63,7 @@ This story is connected to the card [Ray of Hope] Chiaki Morisawa.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Chapter 1
 

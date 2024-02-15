@@ -63,7 +63,7 @@ This story is connected to the card [Substitute Attendant] Chiaki Morisawa.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 {% note narration %}
 **Translation Note:** The story title is the typical phrase a servant would say, but in Japanese, it's phrased how Chiaki would say it. Instead of *go-houshi shimasu* (polite, formal way to say it), it's *go-houshi suru zo* (how Chiaki typically speaks, which is informal and masculine).

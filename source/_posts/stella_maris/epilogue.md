@@ -61,7 +61,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Story-Highlights">Story Highlights</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
-{% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
+{% btn /stella_maris/birthplace_of_stars_p2,, arrow-left, Previous Chapter: birthplace of stars (Chapter 7–15) %}
 {% btn /stella_maris,, star, Index %}
 </div>
 
@@ -507,7 +507,7 @@ It’s exactly because they’ve obtained the sparkling stars that they once wis
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /stella_maris/birthplace_of_stars,, arrow-left, Previous Chapter: birthplace of stars %}
+{% btn /stella_maris/birthplace_of_stars_p2,, arrow-left, Previous Chapter: birthplace of stars (Chapter 7–15) %}
 {% btn /stella_maris,, star, Index %}
 </div>
 

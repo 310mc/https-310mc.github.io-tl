@@ -3,7 +3,7 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Translation Usage
 

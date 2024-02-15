@@ -11,8 +11,6 @@ description: "Ensemble Stars (Enstars) Mini Talks story translations by 310mc."
 permalink: minitalk/
 ---
 
-<link rel="stylesheet" href="/css/storylist.css">
-
 {% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
 
 <big><b>Mini Talk translations by 310mc.</b></big>
@@ -238,6 +236,35 @@ permalink: minitalk/
 </div>
 
 <div style="margin-top:10px">{% btn /orihime_and_hikoboshi,, star, Index %}</div>
+
+### Rainbow
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/rainbow/chiakiframe_300px.jpg"
+                alt="Snoring"
+            />
+        </div>
+        <a href="/rainbow/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Snoring</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/rainbow/chiakibcgframe_300px.jpg"
+                alt="Injury and Infirmary"
+            />
+        </div>
+        <a href="/rainbow/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Injury and Infirmary</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
 
 <h4>Ensemble Stars!! Era</h4>
 

@@ -19,7 +19,7 @@ permalink: birthday_story/
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 ## Shinobu Sengoku
 

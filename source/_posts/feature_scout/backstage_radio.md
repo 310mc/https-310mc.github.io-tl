@@ -64,7 +64,7 @@ This story is connected to the card [Growth ON AIR] Shinobu Sengoku.
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/storylist.css">
+
 
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>

@@ -365,5 +365,5 @@ If they take any longer, we’ll end up stealing the limelight!
 
 ## Translation Notes
 [^1]: “Mensoore” is an Okinawan greeting.
-[^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses <em>boku</em> here instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself).
+[^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses the first-person pronoun <em>boku</em> here, instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself).
 [^3]: Referring to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.
