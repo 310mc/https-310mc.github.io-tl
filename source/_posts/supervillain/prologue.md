@@ -170,7 +170,7 @@ Is all ’cuz I was weak, isn’t it? Everything single thing’s all on me.
 {% bubble Chiaki serious %}
 No, that isn’t true at all. As I said on stage at Comet Show, I take full responsibility.
 
-I was naive in my foresight. Because of that, I failed to give everyone the future they wanted. I couldn’t even push the agency, the higher-ups’ demands, out of our way.
+I was naïve in my foresight. Because of that, I failed to give everyone the future they wanted. I couldn’t even push the agency, the higher-ups’ demands, out of our way.
 
 I’m the one at fault, and I’m also the one who’s weak.
 

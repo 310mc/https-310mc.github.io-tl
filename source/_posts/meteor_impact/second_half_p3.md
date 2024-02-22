@@ -560,7 +560,7 @@ Even the part about you that rambles on and on about borin’ logical stuff, but
 {% endbubble %}
 {% img /img/es/eventstory/meteorimpact/kurobcg.jpg %}
 {% bubble Kuro pastbcg %}
-It’s so naive, and honestly, childish of you… I just can’t leave ya alone, can I? ♪
+It’s so naïve, and honestly, childish of you… I just can’t leave ya alone, can I? ♪
 
 “♪\~♪~♪”
 {% endbubble %}

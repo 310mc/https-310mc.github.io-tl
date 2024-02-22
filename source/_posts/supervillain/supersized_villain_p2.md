@@ -772,7 +772,7 @@ I don’t have to preach about justice or morality or whatever else I don’t ev
 {% endbubble %}
 
 {% bubble Chiaki shocked %}
-Y-You disliked playing the hero of justice that much!? You could’ve told me so!
+Y-You disliked playing the ally of justice that much!? You could’ve told me so!
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
@@ -992,7 +992,7 @@ We were actually spies sent by ES to investigate the evil organization, Crimson 
 
 The way we acted like traitors to ES, behaved like villains, and called ourselves RB — That was all part of an act.
 
-We have always been Morisawa-senpai’s favorite heroes of justice, and had never been tainted by evil.
+We have always been Morisawa-senpai’s favorite allies of justice, and had never been tainted by evil.
 
 We’re going to make a big announcement to state that, in a safe place far from Okinawa. At the same time, we’re going to present the evidence we’ve gathered and denounce Crimson Production as an evil organization.
 {% endbubble %}
@@ -1014,7 +1014,7 @@ on the other hand, we can have him [atone] for the horrible things he has done t
 {% bubble Shinobu smilesoft %}
 Conveniently, the story in Supervillains and our current situation coincide perfectly.
 
-The heroes of justice turn evil—
+The allies of justice turn evil—
 
 But in the end, those evil-tainted heroes awaken to justice once more.
 
@@ -1086,7 +1086,7 @@ You weren’t having an easy time either, though. You’re so worn out that you 
 {% endbubble %}
 
 {% bubble Tetora sad %}
-Mmm~… But I feel like I’m a little too naive after all…
+Mmm~… But I feel like I’m a little too naïve after all…
 
 I feel like no matter how hard I try to stick to my guns, I’ll always be a halfwit who can’t be fully dyed by either evil or justice.
 

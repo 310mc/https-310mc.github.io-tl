@@ -327,7 +327,7 @@ permalink: supervillain/
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Universe of Naivety and Trust<!--純真と信頼の宇宙--></div>
+                                                <div class="name">The Universe of Naïvety and Trust<!--純真と信頼の宇宙--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">

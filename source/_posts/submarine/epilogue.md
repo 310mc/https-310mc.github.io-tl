@@ -327,7 +327,7 @@ If they take any longer, we’ll end up stealing the limelight!
 {% bubble Keito sighdrop %}
 “Guh… I know there’s nothing I can do about it, but nobody is listening to me this time around. It feels so lonely.”
 
-“No, I should reflect on myself for being so naive in thinking that you guys would always listen to me.”
+“No, I should reflect on myself for being so naïve in thinking that you guys would always listen to me.”
 
 “I was completely ignorant to the stress you must have felt all this time, due to how I would always do as I lik—”
 {% endbubble %}

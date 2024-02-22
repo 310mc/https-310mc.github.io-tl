@@ -787,7 +787,7 @@ yes~… the [internet] is so scary. i have come to understand that during the [s
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Yeah, but I don’t think we should stay away from it excessively like how Takamine is. It’s how you utilize the enormous power you’ve been bestowed that determines whether you’re a hero of justice or a villain.
+Yeah, but I don’t think we should stay away from it excessively like how Takamine is. It’s how you utilize the enormous power you’ve been bestowed that determines whether you’re an ally of justice or a villain.
 
 I learned that from Kamen Rider.
 
@@ -1097,7 +1097,7 @@ You are here to save your former teammates… to protect your former subordinate
 {% bubble Shinobu frown %}
 <th>(No, that cannot be… He isn’t a character from a comic book or something…)</th>
 
-<th>(Is it even possible for a person to change so easily, in the same vein as a hero of justice who has been brainwashed and turned evil…?)</th>
+<th>(Is it even possible for a person to change so easily, in the same vein as an ally of justice who has been brainwashed and turned evil…?)</th>
 
 <th>(Something is not right here. There is something very off about all of this.)</th>
 {% endbubble %}
@@ -1212,7 +1212,7 @@ I’m begging you, please don’t terrorize my peaceful daily life… Are you tw
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Why, of *course* we aren’t kaijuu! We’re heroes of justice! We’re trying our hardest to be that!
+Why, of *course* we aren’t kaijuu! We’re allies of justice! We’re trying our hardest to be that!
 {% endbubble %}
 
 {% bubble Chiaki worried %}

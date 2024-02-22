@@ -59,7 +59,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Submarine. From multiple POVs
 {% img /img/es/eventstory/submarine/minitalk_chiaki1_1.jpg %}
 
 {% bubble Chiaki %}
-Heheh, there are Okinawa souvenirs here!
+Heheh, there are Okinawan souvenirs here!
 
 Oh, Sengoku, they have a handful of mascots. Which do you think would suit Takamine?
 

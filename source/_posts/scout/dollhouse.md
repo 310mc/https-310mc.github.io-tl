@@ -647,7 +647,7 @@ T-Thank ya kindly\~! Yer like my savior\~!
 
 Ah— But yer part of Ryuseitai, so I reckon ‘s completely natural for ya ta help people out… Was that rude fer me ta say?
 
-Yer just what ya’d expect from a hero of justice~♪
+Yer just what ya’d expect from an ally of justice~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1555,7 +1555,7 @@ I have no idea!
 
 But my guess would be that he was trying to say “staple”!
 
-The superhero staples are the basic foundation for all heroes of justice! Examples of them would be the storylines of Anpanman, Goranger, and Ultraman!
+The superhero staples are the basic foundation for all allies of justice! Examples of them would be the storylines of Anpanman, Goranger, and Ultraman!
 
 Ahh, but lately, tokusatsu shows are really starting to stray from those elements…
 

@@ -227,7 +227,7 @@ I am aware. This is Yuuki-dono’s final noon broadcast; I don’t want it to en
 
 I would much rather we all look back on our fun memories in school, so that we’re all smiling by the end of the broadcast.
 
-That’s how I plan to flawlessly fulfil today’s broadcast!
+That’s how I plan to flawlessly fulfill today’s broadcast!
 {% endbubble %}
 
 {% bubble Makoto %}

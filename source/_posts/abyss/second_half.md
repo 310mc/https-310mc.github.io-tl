@@ -1091,7 +1091,7 @@ It’s no <em>wonder</em> they were so well-trained and proficient.
 
 They were reaaal professionals meant for actual fights.
 
-Even during the kidnapping scare, they were only <em>pretending</em> to lose to us, despite seeing right through our naive plan.
+Even during the kidnapping scare, they were only <em>pretending</em> to lose to us, despite seeing right through our naïve plan.
 
 That’s what ABYSS was — The “bad guys” contrived just to be defeated by us. Their role was to be taken down.
 

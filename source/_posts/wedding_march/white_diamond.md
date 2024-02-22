@@ -703,7 +703,7 @@ What do you want, Morisawa-senpai… If it’s something pointless like the othe
 {% endbubble %}
 
 {% bubble Chiaki %}
-What an elaborate punishment! It sounds exactly like the sort of predicament a hero of justice could find himself in.
+What an elaborate punishment! It sounds exactly like the sort of predicament an ally of justice could find himself in.
 
 However, worry not! I have a proper reason why I wanted to see you.
 

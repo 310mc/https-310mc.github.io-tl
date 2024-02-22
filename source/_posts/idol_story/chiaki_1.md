@@ -111,7 +111,7 @@ Won’t your parents be worried about you if you’re still outside this late?
 
 However, fear not! I could never let a woman walk on her own at night.
 
-As the hero of justice who represents ES, I shall take you back home!
+As the ally of justice who represents ES, I shall take you back home!
 
 Huh!? Why are you refusing!? That only makes me sad! I don’t plan to do anything suspicious to you, I can promise you that! Please trust me!
 
@@ -123,7 +123,7 @@ Oh, so *that’s* what it was! Fuhaha, I must still be half-asleep—I completel
 
 Ohh, would you look at that! It opened immediately with the key card! Thank you, you really saved me there!
 
-Though the hero of justice shouldn’t be the one getting saved here, fuhahaha!!
+Though the ally of justice shouldn’t be the one getting saved here, fuhahaha!!
 
 Huh? “Are you really okay”? Why are you worried about me? I mean, I do think I’ve been having a lot of these slip ups lately, probably due to being so busy…
 
@@ -147,7 +147,7 @@ Hehe, for some reason, I can’t help but tell you everything… Nevertheless, i
 
 And then once you’re at home, take a bath, brush your teeth, prepare yourself for tomorrow’s plans, and go straight to bed! Promise me you will!
 
-Now then, let’s head off, Producer! *Here we goooo*![^2]
+Now then, let’s head off, Producer! <em>Here we goooo!</em>[^2]
 
 …Gah—!?
 
@@ -157,7 +157,7 @@ Hehe, you’re the same? Yeah, I’m sure you are. I think you were taking a res
 
 Just don’t overdo it, okay? Though I’m not one to talk…
 
-But I’ll be fine, I’m used to hardships! If you’re ever in trouble, just call for me! The hero of justice shall come running for you! Fuhahaha!! ☆
+But I’ll be fine, I’m used to hardships! If you’re ever in trouble, just call for me! The ally of justice shall come running for you! Fuhahaha!! ☆
 {% endbubble %}
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

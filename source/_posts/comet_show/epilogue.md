@@ -793,7 +793,7 @@ Yeah, I learned this trick from you, Senpai. I’ve grown up enough to understan
 {% endbubble %}
 
 {% bubble Midori grin %}
-“We’ll do our absolute best for the show — As Ryuseitai, and as the heroes of justice that everyone loves and dreams of.”
+“We’ll do our absolute best for the show — As Ryuseitai, and as the allies of justice that everyone loves and dreams of.”
 
 “We’ll make sure to meet your expectations, and make you smile the moment you see us on screen.”
 
@@ -865,7 +865,7 @@ Erm, I don’t really have an answer to that…
 {% endbubble %}
 
 {% bubble Tetora idle %}
-It’s ‘cuz we’re the heroes of justice. It’s not in our blood to come up with schemes to deceive and betray people while we snicker at them from above.
+It’s ‘cuz we’re the allies of justice. It’s not in our blood to come up with schemes to deceive and betray people while we snicker at them from above.
 
 No matter how painful or horrible the situation is, we gotta keep on smiling—
 {% endbubble %}

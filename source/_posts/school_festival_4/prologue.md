@@ -164,7 +164,7 @@ I kinda overheard Hasumi talking 'bout it… I thought I could help out a little
 
 That’s when I thought maybe you guys could help out instead.
 
-Ryuseitai's 'bout being heroes of justice, so a duty to maintain public order would suit you all perfectly, yeah?
+Ryuseitai's 'bout being allies of justice, so a duty to maintain public order would suit you all perfectly, yeah?
 
 But, well… This isn't your problem to deal with. Hopefully they'll find people for the job, so forget what I just said.
 {% endbubble %}

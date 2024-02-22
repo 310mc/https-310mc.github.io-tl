@@ -219,7 +219,7 @@ Don’t call me by the name of a stinky fruit in a whisper! That’s bullying! T
 {% endbubble %}
 
 {% bubble Midori serious %}
-Durians are also delicious fruits, though… They’re the king of fruits…
+Durians are also delicious fruits, y’know… It’s the king of fruits…
 {% endbubble %}
 
 {% bubble Chiaki smile %}

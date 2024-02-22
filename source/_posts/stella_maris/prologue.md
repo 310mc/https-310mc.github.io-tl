@@ -212,7 +212,7 @@ That way, we’ll no longer be in a situation where jobs are constantly entruste
 {% endbubble %}
 
 {% bubble Tetora yare %}
-But in terms of the agency, they seem to want Morisawa-senpai to constantly be the leader, though. They want us to only perform “hero of justice”-type activities like we used to in Yumenosaki.
+But in terms of the agency, they seem to want Morisawa-senpai to constantly be the leader, though. They want us to only perform “ally of justice”-type activities like we used to in Yumenosaki.
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}

@@ -323,7 +323,7 @@ But just look at us now. To this very day, the stars in the sky and our dreams a
 
 <th>(There’s something we need to do in the mainland starting tomorrow, so we’re staying over in a ryokan instead of going back to Hoshijima—)</th>
 
-<th>(But I almost headed to the port instead because I had forgotten about that, so I ended up returning back here much later than intended.)</th>
+<th>(But I accidentally almost headed to the port instead because I had forgotten about that, so I ended up returning back here much later than intended.)</th>
 {% endbubble %}
 
 {% bubble Chiaki curious %}

@@ -53,7 +53,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Rainbow. F
 {% img /img/es/eventstory/rainbow/minitalk_chiaki1_1.jpg %}
 
 {% bubble Chiaki v2 %}
-Ooh, Transfer student! What's wrong, what's up? Do you have business with Sagami-sensei?
+Ooh, Transfer student! What's up, what's wrong? Do you have business with Sagami-sensei?
 
 He just left his seat to go buy some alcohol.
 {% endbubble %}
@@ -161,7 +161,7 @@ Just shout "Please save me, Hero!", and I'll come rushing for you no matter wher
             	{% bubble Chiaki curious %}
               Hm, then I'll call over Sagami-sensei—… Huh? They're for me?
 
-              Ohh, you didn't see me in my classroom, but my classmate told you I'd be here when you asked about my whereabouts?
+              Ohh, you didn't see me in my classroom, but a classmate told you I'd be here when you asked about my whereabouts?
               {% endbubble %}              
               {% bubble Chiaki nod %}
               I see, I see! Sorry for taking up your time, Transfer student!
@@ -206,11 +206,11 @@ Just shout "Please save me, Hero!", and I'll come rushing for you no matter wher
 {% img /img/es/eventstory/rainbow/minitalk_chiaki1_3.jpg %}
 
 {% bubble Chiaki sleep %}
-<em><th>(Snores)</th></em>…
+<em><th>(Snores)</th></em>…♪
 {% endbubble %}
 
 {% bubble Chiaki yawn %}
-Mm? Why is Transfer student in my home…?
+Mm? Why is the transfer student in my home…?
 {% endbubble %}
 
 {% bubble Chiaki surprised %}

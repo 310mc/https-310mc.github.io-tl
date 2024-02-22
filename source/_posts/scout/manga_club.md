@@ -1011,7 +1011,7 @@ Radiographer…? I mean, that’s definitely impressive, but… It’s not the f
 {% endbubble %}
 
 {% bubble Tori %}
-You’re so naive, Takamine! What if I had to perform a surgery!? I’d have to look at <em>blood</em>, y’know! That’s terrifying! I’d faint if I had to do that!
+You’re so naïve, Takamine! What if I had to perform a surgery!? I’d have to look at <em>blood</em>, y’know! That’s terrifying! I’d faint if I had to do that!
 {% endbubble %}
 
 {% bubble Midori %}

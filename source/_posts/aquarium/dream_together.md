@@ -488,7 +488,7 @@ we would [play] together while the adults [talked] to each other, since we were 
 {% bubble Kaoru %}
 Ahh, that’s right, Mikejima-kun’s parents are police officers.
 
-I could tell he has influential power, but wow… your own parents being part of the police force already makes you sound like a hero of justice.
+I could tell he has influential power, but wow… your own parents being part of the police force already makes you sound like an ally of justice.
 {% endbubble %}
 
 {% bubble Madara %}

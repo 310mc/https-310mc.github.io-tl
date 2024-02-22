@@ -156,11 +156,11 @@ We’ve defeated all the idols that were foolish enough to challenge us.
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
-Woah, that quickly!? Incredible! I see your procedures are as precise and swift as usual! But if possible, I would have rather you waited for the heroes of justice to come to the rescue, y’know!?
+Woah, that quickly!? Incredible! I see your procedures are as precise and swift as usual! But if possible, I would have rather you waited for the allies of justice to come to the rescue, y’know!?
 {% endbubble %}
 
 {% bubble Keito frown %}
-We don’t need your assistance. We aren’t weaklings who’d fall prey to evil, and neither are we in a position capable of asking for help from “heroes of justice”.
+We don’t need your assistance. We aren’t weaklings who’d fall prey to evil, and neither are we in a position capable of asking for help from “allies of justice”.
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -168,7 +168,7 @@ No, you’re mistaken! Mutual understanding is all you need for your friendship 
 {% endbubble %}
 
 {% bubble Keito frown2 %}
-Hmph, that is simply how *you* feel. It’s because you always take action based on your own feelings that it’s impossible for me to trust you so-called “heroes of justice”.
+Hmph, that is simply how *you* feel. It’s because you always take action based on your own feelings that it’s impossible for me to trust you so-called “allies of justice”.
 
 You all judge others based on emotions alone — Who do you think you are? A god?[^1]
 {% endbubble %}
@@ -624,7 +624,7 @@ Uuu… I cannot say you’re wrong about that, but…
 {% endbubble %}
 
 {% bubble Keito yare %}
-I suppose “heroes of justice” have always been known for this kind of thing since the olden times, but to be frank, you’re nothing but a bunch of rebels sacrificing yourselves to your own feelings rather than the rules of society.
+I suppose “allies of justice” have always been known for this kind of thing since the olden times, but to be frank, you’re nothing but a bunch of rebels sacrificing yourselves to your own feelings rather than the rules of society.
 {% endbubble %}
 
 {% bubble Keito serious %}
@@ -790,7 +790,7 @@ Hmm, is he acting in an unsettling manner by any chance…? Morisawa left to hel
 
 But if he’s attempting to do something terrible in accordance with his order, it might have been a mistake to entrust Kiryu to him.
 
-I was naive to think that Morisawa would never do anything malicious…
+I was naïve to think that Morisawa would never do anything malicious…
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -990,7 +990,7 @@ Who knows… He could also hate his mom so much that he chose to chase after an 
 
 Ideals are called ideals ‘cause they’re outta our reach, and he’s walking on the path of hell by tryin’ so hard to get close. I could say the same thing about you, too.
 
-“The heroes of justice”, was it? Honestly, I don’t really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
+“The allies of justice”, was it? Honestly, I don’t really like ‘em much, ‘cause delinquents like me are usually the ones who get blasted off in tokusatsu shows.
 
 They beat us down, deny us, and force us to reflect and reform. It’s pretty shitty of ‘em to do.
 {% endbubble %}
@@ -1002,7 +1002,7 @@ Heheh… You tend to complain when you’re feeling weak, huh?
 {% bubble Kuro norsmile %}
 Only ‘cause it’s you, I’d never let folks like Hasumi or Tetsu see me like this. I showed you an ugly side of me during The War, after all.
 
-Actually, that was the start of our relationship, wasn’t it— “Glasses boy”.[^3]
+Actually, that was the start of our relationship, wasn’t it— “Megane-kun”.[^3]
 {% endbubble %}
 
 {% bubble Kuro sighdrop %}
@@ -1188,7 +1188,7 @@ Even if that’s the order, I can’t confirm it. We’re forbidden to, after al
 {% endbubble %}
 
 {% bubble Tetora serious %}
-Ossu, that’s true. And I guess I can’t go around bending and breaking rules like Crazy:B, since I’m a hero of justice and all.
+Ossu, that’s true. And I guess I can’t go around bending and breaking rules like Crazy:B, since I’m an ally of justice and all.
 {% endbubble %}
 
 {% bubble Tetora sighfrown %}

@@ -78,7 +78,7 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 弱さも悩みもあるけど　強くあろうとする意思
 -->
 
-<h4>※ Held up as his ideal, his aspiration since a young age: <u>The hero of justice</u></h4>
+<h4>※ Held up as his ideal, his aspiration since a young age: <u>The ally of justice</u></h4>
 
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 
@@ -111,7 +111,7 @@ We’ll start over and assemble everything all over again. What we want to prote
 <small>You can listen to the voiced line <a href="https://youtu.be/n7ySxYtmWRE?t=839" target="_blank">here</a>.</small>
 
 **Summary:**
-* Held up as his ideal, his aspiration since a young age: <u>The hero of justice</u>
+* Held up as his ideal, his aspiration since a young age: <u>The ally of justice</u>
 * All for one, one for all; he is <u>passionate and empathetic</u>
 * While he may be just a regular young man with his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u>
 

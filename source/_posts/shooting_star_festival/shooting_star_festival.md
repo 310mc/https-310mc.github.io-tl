@@ -1,5 +1,5 @@
 ---
-title: "[ES!] Shooting Star Festival"
+title: "[ES!] Shooting Star Festival (No Translation)"
 date: 2017-7-10 9:10:00
 categories:
 - [Enstars, ES!]

@@ -469,7 +469,7 @@ That stings to hear. It’s easier that way, though, so I can’t help but choos
 
 However, Tori seems to prefer not choosing such a violent method.
 
-It’s quite a naive, idealistic mindset, but — This project is centered around Tori, so his wishes will be prioritized above all.
+It’s quite a naïve, idealistic mindset, but — This project is centered around Tori, so his wishes will take precedence above all.
 {% endbubble %}
 
 {% bubble Eichi serious %}
@@ -481,7 +481,7 @@ Even if it means transforming that peaceful island into hell, I <em>will</em> ac
 {% bubble Eichi smile %}
 If that sounds detestable to you, then it’s time to brace yourselves and take on this challenge with all your might.
 
-Despite everything, I’m expecting a lot from you Ryuseitai.
+Despite everything, I’m expecting a lot from you, Ryuseitai.
 {% endbubble %}
 
 {% img /img/es/eventstory/stellamaris/p2_3.jpg %}

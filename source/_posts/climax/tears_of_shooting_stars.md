@@ -109,13 +109,13 @@ But please, end the fighting with that! What’s the use in fighting amongst you
 {% endbubble %}
 
 {% bubble Tetora sad3 %}
-See, it’s ‘cuz you’re *so* naive that—… No, now’s not the time to be blamin’ you.
+See, it’s ‘cuz you’re *so* naïve that—… No, now’s not the time to be blamin’ you.
 
 It’s seriously none of your business, so could you please stay out of it?
 {% endbubble %}
 
 {% bubble Tetora yare %}
-Nobody ever asked you to get involved. I know that’s what a hero of justice is all ‘bout, but I’d appreciate it if you refrained from butting in this once.
+Nobody ever asked you to get involved. I know that’s what an ally of justice is all ‘bout, but I’d appreciate it if you refrained from butting in this once.
 
 Within school, not being able to read the room is equivalent to evil, y’know?
 {% endbubble %}

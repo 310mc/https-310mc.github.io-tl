@@ -105,7 +105,7 @@ Ryuseitai is dressed in Ra\*bits uniform, and Ra\*bits is dressed in the Paralle
 {% endbubble %}
 
 {% bubble Rtetora fist %}
-“We are—! The Lovely☆Cute Heroes of Justice: Ra*bits!”
+“We are—! The Lovely☆Cute Allies of Justice: Ra*bits!”
 {% endbubble %}
 
 {% img /img/es/eventstory/parallelworld/2.jpg %}

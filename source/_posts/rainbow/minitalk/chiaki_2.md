@@ -53,7 +53,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Rainbow. 
 {% img /img/es/eventstory/rainbow/minitalk_chiaki2_1.jpg %}
 
 {% bubble Chiaki grin %}
-Heey, Transfer student! Mm? Ahh, no, I didn't have anything to speak to you about!
+Heeey, Transfer student! Mm? Ahh, no, I didn't have anything to speak to you about!
 
 I happened to see you while walking, so I felt like calling out to you.
 {% endbubble %}
@@ -162,7 +162,7 @@ Heh! Why would I hide my injury, when it's *Sagami-sensei* who treated it!?
 			</div>
 			<div data-tab="1a-r" style="display: none">
             	{% bubble Chiaki awkward %}
-              Well, I got hurt, so of course it hurts.
+              Well, I got injured, so of course it hurts.
               {% endbubble %}
               {% bubble Chiaki norsmile %}
               Mm? Ahh, yeah, I work as a stuntman!
@@ -275,7 +275,7 @@ Let me take you to the infirmary to have you treated! Hop on my back!
               Mm~… Transfer student, can you stand?
               {% endbubble %}
               {% bubble Chiaki smile %}
-              Good, good. It seems you can stand just fine, so you don't have to worry. I won't make you get on my back.
+              Good, good. It seems you can stand just fine. You don't have to worry, I won't make you get on my back.
 
               But well, let's at least go to the infirmary just in case, okay?
 				{% endbubble %}

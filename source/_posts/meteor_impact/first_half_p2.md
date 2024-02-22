@@ -221,7 +221,7 @@ Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 {% img /img/es/eventstory/meteorimpact/firsthalfch10.jpg %}
 
 {% bubble Kuro pastinjured %}
-Thanks, Glasses-boy. I only called to ya cuz I got nothin’ to lose anymore, so I might as well call for help — I didn’t expect ya to actually come to my aid.
+Thanks, Megane-kun. I only called to ya cuz I got nothin’ to lose anymore, so I might as well call for help — I didn’t expect ya to actually come to my aid.
 
 Guess you can find someone ta help no matter where, huh… Woah—
 {% endbubble %}
@@ -259,7 +259,7 @@ I know it must be annoying that I keep asking this, but I’d really like a prop
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-Stop. Don’t you dare report this to the police, Glasses-boy.
+Stop. Don’t you dare report this to the police, Megane-kun.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}

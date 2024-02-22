@@ -270,7 +270,7 @@ Or, what? Did you really think I wouldn’t actually hit you?
 {% endbubble %}
 
 {% bubble Tetora glare %}
-Either way, you’re always *so* naive!
+Either way, you’re always *so* naïve!
 
 You need to wake up already! You should at least know the difference between reality and fantasy!
 
@@ -900,7 +900,7 @@ Crimson Production is also an evil that doesn’t hesitate to commit heinous cri
 {% endbubble %}
 
 {% bubble Tetora frown %}
-The events happening in Okinawa right now aren’t some exciting fictional tales, of a hero of justice defeating evil.
+The events happening in Okinawa right now aren’t some exciting fictional tales, of an ally of justice defeating evil.
 
 It’s a real battle between evil and evil, doing all they can to devour and crush each other.
 {% endbubble %}
@@ -1319,7 +1319,7 @@ You think that I’ll be impressed and agree with you if you put it that way, do
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-And the matter of fact is, yes — I really am impressed. Mhm, you’ve grown up so much, Nagumo. You’re a worthy hero of justice of your own.
+And the matter of fact is, yes — I really am impressed. Mhm, you’ve grown up so much, Nagumo. You’re a worthy ally of justice of your own.
 
 —But unfortunately, there are four other heroes here besides you.
 {% endbubble %}

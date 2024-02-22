@@ -726,7 +726,7 @@ But the real Kanata-san is a pure and kind creature. I don't ever want him to li
 {% endbubble %}
 
 {% bubble Rei %}
-Ooh… That is just what I expect to hear from the former Ryusei Purple. You speak like a hero of justice.
+Ooh… That is just what I expect to hear from the former Ryusei Purple. You speak like an ally of justice.
 {% endbubble %}
 
 {% bubble Madara %}

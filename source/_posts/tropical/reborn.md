@@ -573,7 +573,7 @@ Heh, it’s just like the art of transformation~♪
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Art of transformation, huh… That’s a good point; Ryuseitai have been heroes of justice for a long time, but… Dependin’ on the song, we should be able to show off all sortsa versions of ourselves.
+Art of transformation, huh… That’s a good point; Ryuseitai have been allies of justice for a long time, but… Dependin’ on the song, we should be able to show off all sortsa versions of ourselves.
 
 I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^5]
 {% endbubble %}

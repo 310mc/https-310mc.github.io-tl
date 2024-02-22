@@ -396,7 +396,7 @@ Huh!? But both of them are extremely busy… and I would only feel horrible for 
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-What’re you talking about? They may be idols, but their real job is to be the heroes of justice!
+What’re you talking about? They may be idols, but their real job is to be the allies of justice!
 {% endbubble %}
 
 {% bubble Midori smile %}

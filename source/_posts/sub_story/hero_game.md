@@ -179,7 +179,7 @@ Stand up, hero! For the sake of mankind’s freedom! For the sake of the Earth�
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu, chiaki— i mean, you over there! you must be the [boss] of the [heroes of justice], right~?
+fufufu, chiaki— i mean, you over there! you must be the [boss] of the [allies of justice], right~?
 
 i will start with [taking] you [down] first~♪
 

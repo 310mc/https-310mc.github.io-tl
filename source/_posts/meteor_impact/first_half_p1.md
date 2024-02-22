@@ -821,7 +821,7 @@ H-How did you know that…? Ah! Is it from my necktie?
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-*Huh*? We’re in the same class, Glasses-boy.[^8] It ain’t everyday ya find a guy who actually goes to class, so I know who you are.
+*Huh*? We’re in the same class, Megane-kun.[^8] It ain’t everyday ya find a guy who actually goes to class, so I know who you are.
 
 I’unno your name, though. Ain’t like I ever pop in class, so.
 
@@ -831,7 +831,7 @@ I ain’t gonna hurt ya or somethin’. I don’t ever lay a finger on good peop
 
 Ahh~… Sheesh, I can finally rest.
 
-Glasses-boy. I ain’t showin’ up in class today, so tell the homeroom teach. Not like they ever check anyway, but just in case.
+Megane-kun. I ain’t showin’ up in class today, so tell the homeroom teach. Not like they ever check anyway, but just in case.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -978,7 +978,7 @@ Yeah, I feel the same way, too. … Okay, let me clean the wound — It’ll sti
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
-Got it. …Sorry for makin’ you help me out, Glasses-boy.
+Got it. …Sorry for makin’ you help me out, Megane-kun.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1144,7 +1144,7 @@ If I let that happen again… I’ll really have had no reason to ever been born
 {% bubble Keito v2 %}
 Hey.
 
-You there… I mean, excuse me, could we speak?[^10]
+You there… I mean, excuse me, could we speak?[^9]
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1516,5 +1516,5 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 [^5]: To worship in Japanese is <em>matsuru</em> (祭る), and is where the word <em>matsuri</em> (祭り) is derived from.
 [^6]: The tale of <a href="https://en.wikipedia.org/wiki/Ningyo" target="_blank">Yaobikuni</a>, about a girl who ate mermaid meat, and went on to live for 800 years.
 [^7]: 押しかけ女房, lit. a woman who intrudes a man’s home to live with him, regardless of his consent. It’s likely that Chiaki is making a joke out of what he’s doing.
-[^8]: In Japanese, he refers to him as <em>megane-kun</em> (眼鏡くん).
-[^10]: Keito was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to *kimi* to sound more friendly.
+[^8]: Literally means "Glasses + -kun (boy)".
+[^9]: Keito was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to *kimi* to sound more friendly.
