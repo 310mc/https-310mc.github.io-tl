@@ -1661,7 +1661,7 @@ Um, wouldn’t it just be easier to talk to each other directly at this point…
 {% endbubble %}
 
 {% bubble Kuro smile %}
-Haha, some things are harder to say in person. Cut us some slack, will ya?
+Haha, some things are harder to say directly. Cut us some slack, will ya?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}

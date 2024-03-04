@@ -1,0 +1,67 @@
+.darkmode--activated .icon {
+  filter: brightness(0.85) contrast(0.9);
+}
+
+.darkmode--activated .msr-line p {
+  background: var(--dark-mode, #0e0e0e);
+  color: #eee;
+}
+.darkmode--activated .msr-line p:first-child::before {
+  background: var(--dark-mode, #0e0e0e);
+}
+.darkmode--activated[unknown] .msr-line p {
+  background: #0e0e0e;
+}
+.darkmode--activated[unknown] .msr-line p:first-child::before {
+  background: #0e0e0e;
+}
+.darkmode--activated .thought {
+  color: #d4d4fa;
+}
+
+.darkmode--activated .msr-season.winter {
+  border-color: rgba(137,180,250,.2);
+  background: rgba(137,180,250,.2);
+}
+.darkmode--activated .msr-season.spring {
+  border-color: rgba(245,194,231,.2);
+  background: rgba(245,194,231,.2);
+}
+.darkmode--activated .msr-season.summer {
+  border-color: rgba(137,220,235,.2);
+  background: rgba(137,220,235,.2);
+}
+.darkmode--activated .msr-season.fall,
+.darkmode--activated .msr-season.autumn {
+  border-color: hsla(23,92%,75%,.2);
+  background: hsla(23,92%,75%,.2);
+}
+
+.darkmode--activated .msr-narration::before {
+  border-bottom: solid var(--msr-marker-lineColor, #555) 1px;
+}
+
+.darkmode--activated .story-box,
+.darkmode--activated .lightbox-content {
+  background: var(--content-bg-color);
+}
+
+.darkmode--activated .label {
+  color: #CCCCCC;
+}
+
+.darkmode--activated a:link {
+  color: #F0C0C0;
+}
+
+.darkmode--activated a:visited {
+  color: #F0C0C0;
+}
+
+.darkmode--activated a:hover {
+  color: #E66B6B;
+}
+
+.darkmode--activated a:active {
+  color: #A3D69D;
+}

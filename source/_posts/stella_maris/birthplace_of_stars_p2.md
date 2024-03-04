@@ -833,7 +833,7 @@ Ossu. We’ve worked so hard together for a whole week for that purpose. We foll
 {% endbubble %}
 
 {% bubble Midori frustrated %}
-I’m so sick of fish… I’m so sick of fish…
+No more fish… No more fish…
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}

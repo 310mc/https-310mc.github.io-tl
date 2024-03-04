@@ -1224,7 +1224,7 @@ Take care! Watch your step so you don’t trip and fall, alright~?
 {% bubble Chiaki frown %}
 That Nagumo… He gladly listens to everything Kiryu says, huh…
 
-Why does he always respond to what I tell him with an “Ehh~?”… Is there a difference in our natural virtue?
+Why does he always respond to what I tell him with an “Ehh~?”… Is it a matter of difference in our core nature?
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}

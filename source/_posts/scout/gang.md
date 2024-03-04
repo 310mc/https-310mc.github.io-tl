@@ -818,21 +818,21 @@ Whaa…? How many episodes are left? Aren’t we still at the prologue…?
 
 …Morisawa. I just got a message from my dad, he asked me to come back home ‘cause he can’t make dinner on his own.
 
-Sounds like there’s no food, so I gotta buy some groceries first. I wanna feed my sis proper food, so I’m gonna head home now.
+I know they could just buy convenience store or eat outside, but I wanna feed my sis proper food, so I’m gonna head home to go cook for her.
 {% endbubble %}
 
 {% bubble Chiaki %}
 Hm? Oh, then let’s go home together! Give me one moment—All these DVDs are mine, so I have to take them back home with me!
 
-If it’s alright with you, please help me put everything back in my bag! I’ll help you out with your shopping in exchange!
+If it’s alright with you, please help me put everything back in my bag! I’ll help you out with shopping for ingredients in exchange!
 
-Takamine—I mean, one of my unit’s newcomers is from a greengrocer family, so he knows where the good shops are! I’ll ask him right now!
+Takamine—I mean, one of my unit’s newcomers is the son of a greengrocer, so he knows where the good shops are! I’ll ask him right now!
 {% endbubble %}
 
 {% bubble Kuro %}
-Don’t, it’s the middle of the night. Let’s go quick, it’s getting really, really late. I’m making my sis wait for me on an empty stomach.
+It’s the middle of the night; you’ll only be a bother. We gotta hurry, it’s getting real late. I’m making my sis wait for me on an empty stomach.
 
-…Hmm?
+…Mm?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -840,7 +840,7 @@ What’s wrong, Kiryuu? You’re wrinkling your eyebrows again!
 {% endbubble %}
 
 {% bubble Kuro %}
-Ahh, I think it’s becoming a habit of mine… Idols should always be smiling, or it’s just no good, ain’t it…?
+Ahh, I think it’s becomin’ a habit of mine… Idols should always be smiling, or it’s just no good, ain’t it…?
 
 <th>(…But what *is* this presence I’m sensing? It gives off a real intimidating aura… I’m actually getting goosebumps.</th>
 
@@ -848,7 +848,7 @@ Ahh, I think it’s becoming a habit of mine… Idols should always be smiling, 
 
 <th>But when it’s the real deal—When it’s guys who fight for a living… that’s when you’re never sure if you’ll win or not.</th>
 
-<th>I really *was* stupid for thinking I could get rid of this terrorist problem.</th>
+<th>I really *am* stupid for thinking I could get rid of this terrorist problem.</th>
 
 <th>But… If we’re talking about something valuable about me… The only thing that comes to mind is my experience in these things, and the ability to fight.</th>
 
@@ -896,7 +896,7 @@ A-Alright. Yeah, that’d be nice.
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha, you’re a hero, aren’t ya? Say a cool catchphrase, or somethin’.
+Haha, you’re a hero, aren’tcha? Say a cool catchphrase, or somethin’.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -930,7 +930,7 @@ Anyways, I don’t even need you to tell me how stupid it was to think of doing 
 
 I must’ve been out of my mind. I guess I got hasty… Y’see, the Student Council’s been on the receiving end of some harsh comments lately…
 
-Hasumi’s acting like everything’s okay, but he’s actually really stressed.
+Hasumi’s acting like everything’s okay, but he’s actually real stressed.
 
 Even innocent ol’ Kanzaki’s been feeling dejected about this.
 
@@ -942,13 +942,13 @@ But that was reckless and idiotic of me.
 {% endbubble %}
 
 {% bubble Chiaki %}
-You’re a hero in my eyes. You’re always saving me.
+You’re a hero in my eyes, Kiryuu. You’re always saving me.
 
-Isn’t it enough that I see you that way?
+Is it not enough that I see you that way?
 {% endbubble %}
 
 {% bubble Kuro %}
-Yeah, I suppose it is. I’m such a lucky guy… I should be satisfied with just that, shouldn’t I?
+Nah? Not at all, I’m such a lucky guy… I should be satisfied with just that, shouldn’t I?
 
 Let’s go home, Morisawa.
 

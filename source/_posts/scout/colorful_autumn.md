@@ -1599,7 +1599,7 @@ I just misspoke earlier, ‘kay? You’re not like Taichou at all, so come on, c
 {% endbubble %}
 
 {% bubble Midori frownshake %}
-I’m too depressed to cheer up… But if Tetora-kun draws while cheering me on, I might get back my motivation…♪
+I’m too depressed to cheer up… But if Tetora-kun draws to cheer me on, I might get back my motivation…♪
 {% endbubble %}
 
 {% img /img/es/scoutstory/colorfulautumn/tetoraorigcg.jpg %}
@@ -1613,7 +1613,7 @@ If I draw too small, it won’t be as dynamic, but if I draw too big, it might e
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-There’s the burdocks, the sweet potatoes, and the pumpkins… Aight, I managed to draw ‘em pretty well. Oops, can’t forget the chestnuts. And now to draw the persimmons next to it, and it’ll be complete~♪
+There’s the burdock, the sweet potato, and the pumpkin… Aight, I managed to draw ‘em pretty well. Oops, can’t forget the chestnut. And now to draw the persimmon next to it, and it’ll be complete~♪
 {% endbubble %}
 
 {% bubble Midori blushsquint %}

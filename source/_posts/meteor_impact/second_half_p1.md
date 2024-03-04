@@ -410,7 +410,7 @@ Let’s check if it’s safe! Right’s all clear! Left’s all clear! All is cl
 {% endbubble %}
 
 {% bubble Subaru %}
-Umm~… You don’t have to walk me back home, y’know. I told you before — My house isn’t that far away.
+Umm~… You don’t have to walk me back home, y’know. I told you before; my house is pretty nearby.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -438,7 +438,9 @@ Mhm, I will\~! It’s dangerous to walk at night, so we’ll go home together\~!
 {% bubble Subaru %}
 I didn’t say you could do *that*! Stay, stay! You’re so overbearing, oh my *God*…!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch3_1.jpg %}
+
 {% bubble Subaru sad %}
 …Senpai, did you…
 

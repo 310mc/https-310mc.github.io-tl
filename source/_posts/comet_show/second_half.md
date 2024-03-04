@@ -921,7 +921,7 @@ So that’s how it works… …I suppose I could now perfect my kaijuu act with 
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-I don’t think that role suits you, though.
+I don’t think that role fits you at all, though.
 
 —You’re much more suited to be *this*, aren’t you?
 {% endbubble %}
