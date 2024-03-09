@@ -8,6 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
 description: "Translation of Colors Arise Song Lyrics by 310mc. By Ryuseitai from the Unit Event Supervillain."
@@ -257,7 +258,7 @@ permalink: colors_arise/
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">These lyrics are for the MV. Please check below for the full lyrics!</p>
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
 
@@ -591,11 +592,11 @@ permalink: colors_arise/
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="our stella – bokura no stella"
+              alt="Our Stella – Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>our stella – bokura no stella</span>
+          <span>Our Stella – Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>

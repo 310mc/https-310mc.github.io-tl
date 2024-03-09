@@ -377,7 +377,7 @@ Next up~… *<th>(scribble, scribble)</th>* A ninja always comes with a shuriken
 
 <em>Haa~…</em>
 
-Next up— Oh, I know! I’ll draw Peachy and Thunder.[^2] The rain will suit them as a background!
+Next up— Oh, I know! I’ll draw Momocchi and Thunder.[^2] The rain will suit them as a background!
 
 First you draw this… then this… and done! ♪
 {% endbubble %}
@@ -411,7 +411,7 @@ By the way, what’re those frogs on the window? Did you draw them?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Indeed I did. I was a little bored, so I drew my partners, Peachy and Thunder.
+Indeed I did. I was a little bored, so I drew my partners, Momocchi and Thunder.
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -495,7 +495,7 @@ There are certain types of training you can only do during the rain, and you can
 
 Not to mention how nice the weather feels the next day. It makes it worthwhile.
 
-Also, my partners Peachy and Thunder absolutely love the rain, so I can play with them outside on those days!
+Also, my partners Momocchi and Thunder absolutely love the rain, so I can play with them outside on those days!
 {% endbubble %}
 
 {% bubble Midori serious %}

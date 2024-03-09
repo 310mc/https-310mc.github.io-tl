@@ -112,7 +112,7 @@ Mhm, it’s so cute. Shinobu-kun, can I tear that part out and have it for mysel
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Oh! You like my partners Peachy and Thunder? Then allow me to draw you something more refined instead of this simple sketch later!
+Oh! You like my partners Momocchi and Thunder? Then allow me to draw you something more refined instead of this simple sketch later!
 {% endbubble %}
 
 {% bubble Midori smile %}

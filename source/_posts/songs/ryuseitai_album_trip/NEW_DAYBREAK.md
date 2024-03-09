@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
 description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
@@ -54,7 +54,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka (coming soon!)
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
 <table class="lyrics">
   <tr>
@@ -259,7 +259,7 @@ hidden: true
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">These lyrics are for the MV. Please check below for the full lyrics!</p>
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
 
@@ -595,11 +595,11 @@ hidden: true
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="our stella – bokura no stella"
+              alt="Our Stella – Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>our stella – bokura no stella</span>
+          <span>Our Stella – Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>

@@ -1,5 +1,5 @@
 ---
-title: "[Song] Our Stella – bokura no stella"
+title: "[Song] Our Stella – Bokura no Stella"
 date: 2024/1/15 8:00:00
 categories:
 - [Enstars, ES!!]
@@ -10,7 +10,7 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of Our Stella (bokura no stella) Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
+description: "Translation of Our Stella (Bokura no Stella) Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
 permalink: our_stella_old/
 hidden: true
 ---

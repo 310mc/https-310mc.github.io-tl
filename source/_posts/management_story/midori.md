@@ -314,7 +314,7 @@ I could see the small ones being cute, but there's no way I can handle the big o
 {% bubble Shinobu %}
 Hehe, it simply takes time getting used to\~! You'll find that the bigger ones are just as cute\~♪
 
-Look at this photo, Midori-kun! These two here are Peachy and Thunder~♪ Aren't they adorable?
+Look at this photo, Midori-kun! These two here are Momocchi and Thunder~♪ Aren't they adorable?
 {% endbubble %}
 
 {% bubble Midori %}

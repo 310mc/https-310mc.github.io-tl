@@ -49,12 +49,22 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 ## Currently Working On
 
-<!--
-
 <h2>※ Translating the following stories:</h2>
 
 <div class="stories">
 <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/songs/ryuseitaialbumtrip_300px.jpg"
+            alt="Ryuseitai Album TRIP"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Ryuseitai Album TRIP (Songs + Campaign)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<!--<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
@@ -113,10 +123,9 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Graduation (Chiaki scenes only!)<br>On hold</span>
         <span class="read soon"></span>
     </a>
-</div>
+</div>-->
 </div>
 
--->
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 

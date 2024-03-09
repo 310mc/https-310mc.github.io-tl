@@ -1,12 +1,12 @@
 ---
-title: "[Song] happy drops"
+title: "[Song] happy drops (Kanata Solo)"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Kanata]
 tags:
 - Song Lyrics
-description: "Translation of happy drops Song Lyrics by 310mc. By Kanata from the Ryuseitai Album TRIP."
+description: "Translation of happy drops (Kanata Solo) Song Lyrics by 310mc. By Kanata from the Ryuseitai Album TRIP."
 permalink: happy_drops/
 hidden: true
 ---
@@ -120,11 +120,11 @@ hidden: true
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="our stella – bokura no stella"
+              alt="Our Stella – Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>our stella – bokura no stella</span>
+          <span>Our Stella – Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>

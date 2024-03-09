@@ -8,6 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
 description: "Translation of RELAX PARADISE Song Lyrics by 310mc. By Ryuseitai from the Unit Event Tropical."
@@ -121,7 +122,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"></td>
-    <td class="lyrics">(yu~ru~ru~)</td>
+    <td class="lyrics">(yu~ru~ru~)[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
@@ -221,7 +222,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"></td>
-    <td class="lyrics">That’s right! (Oh!) We call that “favorite”! (Yeah!)<br>It’s time to go searching for yours (With me!)</td>
+    <td class="lyrics">That’s right! (Oh!) We call that “favorite”![^2] (Yeah!)<br>It’s time to go searching for yours (With me!)</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -261,7 +262,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td class="lyrics">“In this jungle, where all our favorite things are gathered,</td>
+    <td class="lyrics">“In this jungle, where all our favorite things are gathered,[^2]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -305,7 +306,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td class="lyrics">“One day, I encountered my “favorite” thing!”</td>
+    <td class="lyrics">“One day, I encountered my “favorite” thing!”[^2]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -430,11 +431,11 @@ permalink: RELAX_PARADISE/
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="our stella – bokura no stella"
+              alt="Our Stella – Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>our stella – bokura no stella</span>
+          <span>Our Stella – Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>
@@ -449,6 +450,5 @@ permalink: RELAX_PARADISE/
 
 ## Translation Notes
 
-* The word for "favorite" is <em>daisuki</em> in Japanese, which would roughly translate to "likes/loves" or "things (we) love" in the song. The "likes" is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song’s lyrics.
-
-* The word <em>yuru(i)</em> means “laid-back”, “soft”.
+[^1]: The word <em>yuru(i)</em> means “laid-back”, “soft”.
+[^2]: The word for "favorite" is <em>daisuki</em> in Japanese, which would roughly translate to "likes/loves" or "things (we) love" in the song. The "likes" is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song’s lyrics.

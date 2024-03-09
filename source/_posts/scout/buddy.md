@@ -337,7 +337,7 @@ permalink: buddy/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">This is Peachy and Thunder!<!--TBA--></div>
+                                            <div class="unbloomed">This is Momocchi and Thunder!<!--TBA--></div>
                                             <div class="bloomed">I will slip into darkness, and fulfill my mission.<!--TBA--></div>
                                         </div>
                                     </div>
@@ -1016,7 +1016,7 @@ Ughhh… you see? Now this whole thing’s turned into a huge bother…
 {% endbubble %}
 
 {% bubble Shinobu %}
-My buddy… That would be Peachy and Thunder~♪
+My buddy… That would be Momocchi and Thunder~♪
 
 A<em>hem.</em> I know exactly what Midori-kun will say!
 {% endbubble %}
@@ -1052,7 +1052,7 @@ Fuhahaha, how harsh! I can feel hurt too, y’know! I’d rather you choose your
 
 Besides, it isn’t just the two of us. Anyone would get excited while talking about something they love!
 
-Don’t you also get that way whenever you mention Peachy and Thunder, Sengoku?
+Don’t you also get that way whenever you mention Momocchi and Thunder, Sengoku?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -1070,7 +1070,7 @@ It’s okay, you can set it down… My arms have gone numb from holding them for
 {% bubble Shinobu %}
 Very well. I shall place it in a corner, far from any likely harm.
 
-Right, this would be my cute, adorable Peachy and Thunder~♪
+Right, this would be my cute, adorable Momocchi and Thunder~♪
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1082,11 +1082,11 @@ Their skin patterns are different. Which one is which?
 {% endbubble %}
 
 {% bubble Shinobu %}
-The one without patterns is Peachy, and the one with is Thunder~♪[^8]
+The one without patterns is Momocchi, and the one with is Thunder~♪[^8]
 
 …I just realized something; are you supposed to have only one partner?
 
-Uuu~ But I could never choose between Peachy and Thunder!
+Uuu~ But I could never choose between Momocchi and Thunder!
 
 Ahhh!! This is a major problem~!!
 {% endbubble %}
@@ -1288,15 +1288,15 @@ Heheh, you’re like a little kid, Chiaki-san. But why’re doing that?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Heh! We’re collecting food for Peachy and Thunder!
+Heh! We’re collecting food for Momocchi and Thunder!
 {% endbubble %}
 
 {% bubble Madara %}
-Peachy and Thunder…? Those sound like names for an Iga ninja…?
+Momocchi and Thunder…? Those sound like names for an Iga ninja…?
 {% endbubble %}
 
 {% bubble Shinobu %}
-That’s right! How incredible, Mikejima-dono! Yes, Peachy and Thunder are the names of my frogs~♪
+That’s right! How incredible, Mikejima-dono! Yes, Momocchi and Thunder are the names of my frogs~♪
 {% endbubble %}
 
 {% bubble Madara %}

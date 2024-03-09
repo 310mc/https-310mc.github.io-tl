@@ -1185,11 +1185,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="thumbimage">
         <img
             src="/img/es/songs/ourstella.jpg"
-            alt="our stella – bokura no stella"
+            alt="Our Stella – Bokura no Stella"
         />
     </div>
     <a href="/our_stella" class="storyName" target="_blank">
-        <span>our stella – bokura no stella</span>
+        <span>Our Stella – Bokura no Stella</span>
         <span class="read"></span>
     </a>
 </div>

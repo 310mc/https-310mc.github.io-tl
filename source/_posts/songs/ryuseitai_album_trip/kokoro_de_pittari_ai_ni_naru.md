@@ -1,12 +1,12 @@
 ---
-title: "[Song] TBA (Kokoro de Pittari Ai ni Naru)"
+title: "[Song] Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
 tags:
 - Song Lyrics
-description: "Translation of TBA (Kokoro de Pittari Ai ni Naru) Song Lyrics by 310mc. By Chiaki from the Ryuseitai Album TRIP."
+description: "Translation of Kokoro de Pittari Ai ni Naru (Chiaki Solo) Song Lyrics by 310mc. By Chiaki from the Ryuseitai Album TRIP."
 permalink: kokoro_de_pittari_ai_ni_naru/
 hidden: true
 ---
@@ -120,11 +120,11 @@ hidden: true
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="our stella – bokura no stella"
+              alt="Our Stella – Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>our stella – bokura no stella</span>
+          <span>Our Stella – Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>
