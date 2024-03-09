@@ -356,9 +356,31 @@ hidden: true
 
 ## Album Voice Lines
 
-{% img /img/es/ryuseitaialbumtrip/loginbonus.jpg %}
+{% img /img/es/ryuseitaialbumtrip/login1.jpg %}
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> for the voice lines!</p>
+{% img /img/es/ryuseitaialbumtrip/login2.jpg %}
+
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> to listen to the voice lines!</p>
+
+{% bubble Tetora smilesoft %}
+Each and every once of us had a different path. All those differences are an irreplacement memory, all residing in our songs.
+{% endbubble %}
+
+{% bubble Midori smile %}
+I hope someone out there listens to our songs and feels courageous, more stronger through it.
+{% endbubble %}
+
+{% bubble Shinobu smile %}
+When I’m with everyone, I truly feel as though many worlds open before us!
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+This is an album that shows a new charm to Ryuseitai. I want you to listen to this and feel us by your side.
+{% endbubble %}
+
+{% bubble Kanata smile %}
+let’s move forward in this world ahead of us, together~
+{% endbubble %}
 
 ## Album Track (Song Translation)
 
@@ -537,9 +559,7 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/tripchibi1.jpg %}
 
-<p style="text-align:center;font-size:22px;">It's time for the Album Commemoration Live! Join Ryuseitai's journey through their songs!</p>
-
-<p style="text-align:center;">This translation follows how the campaign is experienced in-game.</p>
+<p style="text-align:center;font-size:22px;">It’s time for the Album Commemoration Live! Join Ryuseitai’s journey through their songs!</p>
 
 ### MC 1
 
@@ -642,11 +662,11 @@ hidden: true
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/dearmeninja/c2.jpg"
-            alt="Stella Maris – Climax Event"
+            alt="Dear Me, Before I Became a Ninja"
         />
     </div>
-    <a href="/stella_maris" class="storyName" target="_blank">
-        <span>Read Shinobu's FS1 here!</span>
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
+        <span>Read Shinobu’s FS1 here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -660,6 +680,21 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/mc4.jpg %}
 
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/aherotoo/c2.jpg"
+            alt="You're a Hero, Too!"
+        />
+    </div>
+    <a href="/youre_a_hero_too" class="storyName" target="_blank">
+        <span>Read Chiaki’s FS1 here!</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 ### MC 5
 
 {% img /img/es/ryuseitaialbumtrip/mc5.jpg %}
@@ -667,6 +702,21 @@ hidden: true
 ### MC 6
 
 {% img /img/es/ryuseitaialbumtrip/mc6.jpg %}
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c2.jpg"
+            alt="ADDLINK"
+        />
+    </div>
+    <a href="ADDLINK" class="storyName" target="_blank">
+        <span>Read Tetora’s FS1 here!</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
 
 ### MC 7
 
@@ -676,6 +726,21 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/mc8.jpg %}
 
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/stayingtrue/c2.jpg"
+            alt="Staying True To Myself"
+        />
+    </div>
+    <a href="/staying_true_to_myself" class="storyName" target="_blank">
+        <span>Read Midori’s FS1 here!</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 ### MC 9
 
 {% img /img/es/ryuseitaialbumtrip/mc9.jpg %}
@@ -684,9 +749,26 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
 
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/methesea/c2.jpg"
+            alt="me, the sea, and everyone with me"
+        />
+    </div>
+    <a href="/me_the_sea_and_everyone_with_me" class="storyName" target="_blank">
+        <span>Read Kanata’s FS1 here!</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 ### MC 11
 
 {% img /img/es/ryuseitaialbumtrip/mc11.jpg %}
+
+{% img /img/es/ryuseitaialbumtrip/mc11_2.jpg %}
 
 ### MC 12
 
@@ -702,6 +784,8 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/tripchibi2.jpg %}
 
-<p style="text-align:center;font-size:22px;">Hope you enjoyed the trip with Ryuseitai!</p>
+<p style="text-align:center;font-size:22px;">That’s all! Hope you enjoyed the trip with Ryuseitai!</p>
 
 <div toc>{% btn /translations#Other,, star, Index %}</div>
+
+## Translation Notes 
