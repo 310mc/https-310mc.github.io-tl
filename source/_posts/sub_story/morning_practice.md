@@ -19,7 +19,7 @@ permalink: morning_practice/
 
 Chiaki picks up Midori to take him to morning practice…
 
-This story is connected to the card [Upperclassman's Present] Midori Takamine.
+This story is connected to the card [Upperclassman’s Present] Midori Takamine.
 
 <p style="color:blue;font-size:110%;"><b>Story Release Date:</b> November 26, 2015</p>
 
@@ -413,7 +413,7 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
 {% endbubble %}
 
 {% note narration %}
-**Note:** You can see this football fish strap attached to Midori's phone, even to this day. Examples are here: <a href="/img/es/eventstory/schoolfestival4/midoriorigcg.jpg" target="_blank">one</a>, <a href="/img/es/idolstory/readhandlebooks/c2.jpg" target="_blank">two</a>, <a href="/img/es/eventstory/ninjaclan/midoriorigcg.jpg" target="_blank">three</a>
+**Note:** You can see this football fish strap attached to Midori’s phone, even to this day. Examples are here: <a href="/img/es/eventstory/schoolfestival4/midoriorigcg.jpg" target="_blank">one</a>, <a href="/img/es/idolstory/readhandlebooks/c2.jpg" target="_blank">two</a>, <a href="/img/es/eventstory/ninjaclan/midoriorigcg.jpg" target="_blank">three</a>
 {% endnote %}
 
 ## Midori Idol Stories

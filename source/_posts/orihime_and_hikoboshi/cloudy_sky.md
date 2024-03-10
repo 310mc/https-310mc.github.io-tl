@@ -221,7 +221,7 @@ Wha…? What does that mean? Why am I being left out…?
 {% endbubble %}
 
 {% bubble Subaru %}
-Hey guys, look over here~! There’s a bully in the club!
+Hey guys, look over here~! There’s bullying happening in the Basketball Club!
 {% endbubble %}
 
 {% bubble Chiaki worried %}

@@ -1496,5 +1496,5 @@ so please, don’t cry anymore.
 [^8]: This is a classic samurai catchphrase from the old ages, typically used in stories set in those days.
 [^9]: Here, Souma says <em>kami-sama</em> (God). This is different from the way Madara refers to young Kanata, which is simply <em>kami</em>.
 [^10]: This is a motto that samurais live by. The quote comes from Confucius.
-[^11]: As mentioned in Chapter 5, abyss can mean the deep sea, the same word as Kanata's last name.
-[^12]: Kaoru's mother was a marine biologist.
+[^11]: As mentioned in Chapter 5, abyss can mean the deep sea, the same word as Kanata’s last name.
+[^12]: Kaoru’s mother was a marine biologist.

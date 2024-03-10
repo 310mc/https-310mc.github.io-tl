@@ -78,7 +78,11 @@ permalink: our_stella/
   </tr>
   <tr>
     <td class="name"></td>
-    <td>stella, stella… x4</td>
+    <td>
+    <em>stella, stella…</em>
+    <br>
+    <em>stella, stella…</em>
+    </td>
   </tr>
   <tr>
   <td><br></td>
@@ -99,6 +103,10 @@ permalink: our_stella/
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
     <td>Are the ebb and flow of our heartbeats</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -182,7 +190,11 @@ permalink: our_stella/
   </tr>
   <tr>
     <td class="name"></td>
-    <td>stella, stella… x4</td>
+    <td>
+    <em>stella, stella…</em>
+    <br>
+    <em>stella, stella…</em>
+    </td>
   </tr>
 </table>
 

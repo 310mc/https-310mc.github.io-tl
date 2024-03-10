@@ -375,4 +375,4 @@ I wish I never said anything if it was gonna end like this…!!
 
 ## Translation Notes
 
-[^1]: It's likely that Midori makes the expression from his bloomed card here. The card can be seen at the top of this page; the right one being the bloomed. The live quote of the bloomed is: "That moment felt fun for me…♪"
+[^1]: It’s likely that Midori makes the expression from his bloomed card here. The card can be seen at the top of this page; the right one being the bloomed. The live quote of the bloomed is: "That moment felt fun for me…♪"

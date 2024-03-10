@@ -919,7 +919,7 @@ The drama I’m acting in is your typical mystery, so~
 {% bubble Souma v3 %}
 Fufu. It is easy to be influenced by the roles we play in our work. Whenever I work as an actor, I grow emotionally attached to the role I am playing, and become one with it.
 
-I remember a specific moment when this occurred to me, as well. Just the other day, when I returned to my family's home, I accidentally uttered a harsh line from a role I had played in a movie—
+I remember a specific moment when this occurred to me, as well. Just the other day, when I returned to my family’s home, I accidentally uttered a harsh line from a role I had played in a movie—
 
 And my mother and little brother were frightened of me, saying “Our eldest son became a delinquent!”
 {% endbubble %}
@@ -1322,7 +1322,7 @@ Those misconceptions by the worshipers are what keeps this religion alive, that�
 {% endbubble %}
 
 {% bubble Madara kidnorsmile %}
-That’s why you, who will eventually become God, are hidden from the world. ‘Cause if anyone were to meet you in person, they'd find out that you’re dumb and stupid, and a kid just like me.
+That’s why you, who will eventually become God, are hidden from the world. ‘Cause if anyone were to meet you in person, they’d find out that you’re dumb and stupid, and a kid just like me.
 {% endbubble %}
 
 {% bubble Kanata kidcurious %}
@@ -1797,12 +1797,12 @@ That was a scheme created by a secret organization that existed in our religion,
 [^2]: Young Kanata speaks differently from the present. While he does talk in hiragana only, there are no quotation marks around any of his words, possibly due to how short his sentences are. He also refers to himself in third-person (<em>kanata</em> instead of his first-person pronoun in the present time, <em>boku</em>). Last but not least, he speaks in old-fashioned Japanese, as well as using an imperative, commanding tone, akin to a high-being ordering those below him. Present Kanata, in comparison, speaks in polite speech, including his requests (always saying <em>kudasai</em> when asking someone to do something).
 [^3]: Young Madara speaks around the same as present Madara, with his elongated vowels at the end of the sentence. Sometimes he speaks a bit more child-like than present Madara would.
 [^4]: Shōjin kessai, known as a purification ritual, is to abstain from consumption of food for the sake of purifying/clearing the soul and body.
-[^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I'll stick to the original script as is.
+[^5]: This “Kanata-san” may or may not be a mistake, as young Madara has only been calling Kanata by “God” up until now (and “Kanata-kun” only in his head). For now I’ll stick to the original script as is.
 [^6]: This is said when something happening is so rare, that it might be a sign of an unlikely rain.
 [^7]: Calico cat is called <em>mikeneko</em> (三毛猫) in Japanese, the same kanji for <em>mike</em>-jima.
-[^8]: This is literally written as *abisu*, since it's originally an English word.
+[^8]: This is literally written as *abisu*, since it’s originally an English word.
 [^9]: The word here is <em>shin-en</em> (深淵), the Japanese word for abyss.
-[^10]: This is the same word as Kanata's last name, <em>shinkai</em>, which also means deep sea.
+[^10]: This is the same word as Kanata’s last name, <em>shinkai</em>, which also means deep sea.
 [^11]: A shrine priest, to be exact, also known as the head/manager priest in charge of rituals (<em>guuji</em>).
 [^12]: Ebisu is the <a href="https://en.wikipedia.org/wiki/Ebisu_(mythology)" target="_blank">Japanese god of fishing</a>.
 [^13]: Also translated as “bad thing” or “villain” in other translations.

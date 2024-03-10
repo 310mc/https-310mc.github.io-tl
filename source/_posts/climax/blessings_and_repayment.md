@@ -8,7 +8,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
+description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there’s a problem…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -57,7 +57,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 <div toc>
-{% btn /climax/he_wont_cry,, arrow-left, Previous Chapter: He Won't Cry %}
+{% btn /climax/he_wont_cry,, arrow-left, Previous Chapter: He Won’t Cry %}
 {% btn /climax,, star, Index %}
 {% btn /climax/anxiety_and_silence,, arrow-right, Next Chapter: Anxiety and Silence %}
 </div>
@@ -428,7 +428,7 @@ are the [children] of yumenosaki academy really going to be okay…?
 
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /climax/he_wont_cry,, arrow-left, Previous Chapter: He Won't Cry %}
+{% btn /climax/he_wont_cry,, arrow-left, Previous Chapter: He Won’t Cry %}
 {% btn /climax,, star, Index %}
 {% btn /climax/anxiety_and_silence,, arrow-right, Next Chapter: Anxiety and Silence %}
 </div>

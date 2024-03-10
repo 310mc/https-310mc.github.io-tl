@@ -12,14 +12,14 @@ categories:
 tags:
 - Idol Story
 - Kino Seitaro
-description: "[ES!] Translation of a Chiaki sub story, featuring Ryuseitai. Chiaki decides to hold a study session with Ryuseitai to improve the first years' grades…"
+description: "[ES!] Translation of a Chiaki sub story, featuring Ryuseitai. Chiaki decides to hold a study session with Ryuseitai to improve the first years’ grades…"
 permalink: study_heroes/
 ---
 
 ![](/img/es/idolstory/studyheroes/c1.jpg)|![](/img/es/idolstory/studyheroes/c2.jpg)
 :-:|:-:
 
-Chiaki decides to hold a study session with Ryuseitai to improve the first years' grades…
+Chiaki decides to hold a study session with Ryuseitai to improve the first years’ grades…
 
 This story is connected to the card [Study Session] Chiaki Morisawa.
 

@@ -200,4 +200,4 @@ i want to play with everyone in the [ocean] this year, too.
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
-[^1]: This is a <a href="https://en.wikipedia.org/wiki/Portuguese_man_o%27_war" target="_blank">Portuguese man o' war</a>.
+[^1]: This is a <a href="https://en.wikipedia.org/wiki/Portuguese_man_o%27_war" target="_blank">Portuguese man o’ war</a>.

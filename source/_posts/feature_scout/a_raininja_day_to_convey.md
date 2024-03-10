@@ -11,14 +11,14 @@ categories:
 tags:
 - Idol Story
 - Nishioka Maiko
-description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Midori, Mayoi, and Yuta. Shinobu wants to make an excellent pamphlet, but believes a ninja can't show himself off-duty…"
+description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Midori, Mayoi, and Yuta. Shinobu wants to make an excellent pamphlet, but believes a ninja can’t show himself off-duty…"
 permalink: a_raininja_day_to_convey/
 ---
 
 ![](/img/es/idolstory/ninjarain/c1.jpg)|![](/img/es/idolstory/ninjarain/c2.jpg)
 :-:|:-:
 
-Shinobu wants to make an excellent pamphlet, but he believes a ninja can't show himself off-duty…
+Shinobu wants to make an excellent pamphlet, but he believes a ninja can’t show himself off-duty…
 
 This story is connected to the card [The Melody Of Rain Patters] Shinobu Sengoku.
 
@@ -558,4 +558,4 @@ Right, right? You can come up with many ways to enjoy yourself, no matter the we
 
 ## Translation Notes
 [^1]: For more information on the relationship of toads and ninjas, see <a href="https://en.wikipedia.org/wiki/Jiraiya" target="_blank">this</a>.
-[^2]: You can see Shinobu's pet frogs in <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">this card</a>.
+[^2]: You can see Shinobu’s pet frogs in <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">this card</a>.

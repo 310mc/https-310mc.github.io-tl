@@ -10,13 +10,318 @@ description: "Ryuseitai Album Commentary Translation from Ensemble Stars!"
 permalink: ryuseitai_album/
 ---
 
-{% img /img/es/songs/ryuseitaialbum_500px.jpg %}
-
-Translation of various content for the Ryuseitai Album. (Comments, etc…)
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+    <div class="grid-wrapper">
+        <div class="preview-background" style="background-image: url('/img/es/ryuseitaialbum/frame.jpg')"></div>
+        <div class="preview-box">
+            <div class="title-area">
+                <div class="title-area__title">Ryuseitai Album</div>
+                <div class="title-area__start">
+                    <a href="/ryuseitai_album">Start Reading</a>
+                </div>
+            </div>
+            <div class="info-area">
+                <div class="info">
+                    <div class="info-item characters">
+                        <div class="label">
+                            Characters
+                        </div>
+                        <div class="value">
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        </div>
+                    </div>
+                    <div class="info-item tl">
+                        <div class="label">
+                            Translation
+                        </div>
+                        <div class="value">
+                          <a href="/about">310mc</a>
+                        </div>
+                    </div>
+                    <div class="info-item pr">
+                        <div class="label">
+                            Proofreading
+                        </div>
+                        <div class="value">
+                            Anonymous
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- more -->
 
-## Ryuseitai Album Countdown
+<style>
+    .preview-wrapper {
+        display: none;
+    }
+    @media (max-width: 567px) {
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+</style>
+<div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+    <div class="grid-wrapper">
+        <div class="story-background" style="background: top/cover url(/img/es/ryuseitaialbum/cover.jpg)"></div>
+        <div class="story-box">
+            <div class="story-cover">
+                <div><img src="/img/es/ryuseitaialbum/frame.jpg"></div>
+            </div>
+            <div class="title-area">
+                <div class="title-area__title">Ryuseitai Album</div>
+                <div class="title-area__start">
+                    <a href="#Album-Countdown">Start Reading</a>
+                </div>
+            </div>
+            <div class="info-area">
+                <div class="info">
+                    <div class="info-item characters">
+                        <div class="label">
+                            Characters
+                        </div>
+                        <div class="value">
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        </div>
+                    </div>
+                    <div class="info-item tl">
+                        <div class="label">
+                            Translation
+                        </div>
+                        <div class="value">
+                          <a href="/about">310mc</a>
+                        </div>
+                    </div>
+                    <div class="info-item pr">
+                        <div class="label">
+                            Proofreading
+                        </div>
+                        <div class="value">
+                            Anonymous
+                        </div>
+                    </div>
+                </div>
+                <div class="extra-area">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Extra Information</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-item">
+                            <div class="label">
+                                Campaign
+                            </div>
+                            <div class="value">
+                                Ryuseitai Album Campaign
+                            </div>
+                        </div>
+                        <div class="tab-item">
+                            <div class="label">
+                                Campaign Duration
+                            </div>
+                            <div class="value">
+                                2018/3/8 (15:00 JST) - 2018/4/25 (15:00 JST)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="story-cards">
+                    <div class="tab-header">
+                        <div class="tab-header__name">Associated Cards</div>
+                    </div>
+                    <div class="tab-content">
+                        <div class="cards">
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/ryuseitaialbum/chiakicard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/ryuseitaialbum/chiakibcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--応援してくれてありがとう！--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Burning Shooting Star] Chiaki Morisawa</div>
+                                    <div class="card__jp">[燃える流れ星] 守沢 千秋</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Unlimited Passion<!--無限の情熱--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Warm Gratitude<!--あったかい感謝--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/ryuseitaialbum/tetoracard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/ryuseitaialbum/tetorabcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--いつも見てくれてありがとう！--></div>
+                                            <div class="bloomed"><!--これからも応えるッス！--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Spirited Shooting Star] Tetora Nagumo</div>
+                                    <div class="card__jp">[気合いの流れ星] 南雲 鉄虎</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Unlimited Power<!--無限の力--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Straight-forward Gratitude<!--真っ直ぐな感謝--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/ryuseitaialbum/midoricard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/ryuseitaialbum/midoribcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--勇気をくれてありがとう！--></div>
+                                            <div class="bloomed"><!--TBA--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Positive Shooting Star] Midori Takamine</div>
+                                    <div class="card__jp">[前向きな流れ星] 高峯 翠</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Unlimited Potential<!--無限の可能性--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Dazzling Gratitude<!--眩しい感謝--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/ryuseitaialbum/shinobucard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/ryuseitaialbum/shinobubcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--呼んでくれてありがとう！--></div>
+                                            <div class="bloomed"><!--誰かを救ってみせるでござる！--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[Visible Shooting Star] Shinobu Sengoku</div>
+                                    <div class="card__jp">[忍ばない流れ星] 仙石 忍</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">Unlimited Hope<!--無限の希望--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">Pure Gratitude<!--無邪気な感謝--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cards-item">
+                                <div class="image">
+                                    <div class="single unbloomed">
+                                        <img src="/img/es/ryuseitaialbum/kanatacard.jpg">
+                                    </div>
+                                    <div class="single bloomed">
+                                        <img src="/img/es/ryuseitaialbum/kanatabcard.jpg">
+                                    </div>
+                                    <div class="quotes__wrapper">
+                                        <div class="quotes">
+                                            <div class="unbloomed"><!--ちからをくれてありがとう…♪--></div>
+                                            <div class="bloomed"><!--これからもそばにいますよ♪--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="lightbox">
+                                    <div class="card__name">[floating shooting star] Kanata Shinkai</div>
+                                    <div class="card__jp">[うかぶながれぼし] 深海 奏汰</div>
+                                    <div class="skills">
+                                        <ul>
+                                            <li id="live">
+                                                <div class="name">unlimited love<!--むげんのあい--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                            <li id="lesson">
+                                                <div class="name">kind gratitude<!--やさしいかんしゃ--></div>
+                                                <div class="desc"></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="chapter-area">
+                <div class="chapters">
+                    <ul>
+                        <li>
+                            <a href="#Album-Countdown" id="none">Album Countdown</a>
+                        </li>
+                        <li>
+                            <a href="#CD-Comments" id="none">CD Comments</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+## Album Countdown
 
 Ryuseitai’s comments during the Ryuseitai Album countdown.
 
@@ -180,6 +485,31 @@ I hope our voices reach you! And if they do, then please cheer for us as loud as
 **That’s all from us! These were our thoughts on the album’s release day!**
 
 **Please keep supporting Ryuseitai~! ☆**
+{% endbubble %}
+
+## CD Comments
+
+{% img /img/es/ryuseitaialbum/cd.jpg %}
+
+
+{% bubble Chiaki %}
+It's packed with passionate songs! ☆
+{% endbubble %}
+
+{% bubble Kanata %}
+thank you for all the support~♪
+{% endbubble %}
+
+{% bubble Tetora %}
+I’m so glad we got to make 'em all into an album!
+{% endbubble %}
+
+{% bubble Midori %}
+Maybe you'll find a song you like…?
+{% endbubble %}
+
+{% bubble Shinobu %}
+Please listen to it on repeat! ☆ (shuriken)
 {% endbubble %}
 
 <div toc>{% btn /translations#Other,, star, Index %}</div>

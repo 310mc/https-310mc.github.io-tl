@@ -339,10 +339,10 @@ hidden: true
                             <a href="#Album-Voice-Lines" id="none">Album Voice Lines</a>
                         </li>
                         <li>
-                            <a href="#album-track-song-translation" id="none">Album Song Translations</a>
+                            <a href="#Album-Track-Song-Translation" id="none">Album Song Translations</a>
                         </li>
                         <li>
-                            <a href="#album-commemoration-live" id="none">Album Commemoration Live</a>
+                            <a href="#Album-Commemoration-Live" id="none">Album Commemoration Live</a>
                         </li>
                     </ul>
                 </div>
@@ -350,9 +350,6 @@ hidden: true
         </div>
     </div>
 </div>
-
-
-<!-- more -->
 
 ## Album Voice Lines
 

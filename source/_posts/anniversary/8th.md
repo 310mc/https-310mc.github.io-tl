@@ -75,7 +75,7 @@ You can always call my name if you ever need me! I'll always come rushing for yo
 {% endbubble %}
 
 <p><b>Note 1:</b> Tetora's quote appeared alongside the leaders' anniversary quotes.</p>
-<p><b>Note 2:</b> The rest of Ryuseitai will be in autumn.</p>
+<p><b>Note 2:</b> Rest of Ryuseitai will be added soon!</p>
 
 ## Ryuseitai One with One Mini Talk
 
