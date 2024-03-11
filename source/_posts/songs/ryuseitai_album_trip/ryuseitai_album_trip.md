@@ -355,24 +355,24 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/login1.jpg %}
 
-{% img /img/es/ryuseitaialbumtrip/login2.jpg %}
+<img src="/img/es/ryuseitaialbumtrip/login2.jpg" height="410">
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> to listen to the voice lines!</p>
 
 {% bubble Tetora smilesoft %}
-Each and every once of us had a different path. All those differences are an irreplacement memory, all residing in our songs.
+Each and every once of us had a different path. All those differences are an irreplacement memory, all residing in our songs!
 {% endbubble %}
 
 {% bubble Midori smile %}
-I hope someone out there listens to our songs and feels courageous, more stronger through it.
+I hope someone out there listens to our songs and feels courageous, more stronger through it…
 {% endbubble %}
 
-{% bubble Shinobu smile %}
+{% bubble Shinobu nod %}
 When I’m with everyone, I truly feel as though many worlds open before us!
 {% endbubble %}
 
-{% bubble Chiaki smile %}
-This is an album that shows a new charm to Ryuseitai. I want you to listen to this and feel us by your side.
+{% bubble Chiaki smileexplain %}
+This album shows a new charm to Ryuseitai. I'd like you to listen to our songs and feel us by your side!
 {% endbubble %}
 
 {% bubble Kanata smile %}
@@ -562,6 +562,10 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc1.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a> ♫</p>
+</div>
+
 {% bubble Kanata v2 %}
 “hello, we are ryuseitai!” *(waves)*
 
@@ -569,7 +573,7 @@ let’s move forward in this world ahead of us, together~
 {% endbubble %}
 
 {% bubble Tetora smileexplain %}
-“The first song we performed is <a href="/NEW_DAYBREAK" target="_blank">‘NEW DAYBREAK’</a>, our new song for the album.”
+“The first song we performed is ‘NEW DAYBREAK’, our new song for the album.”
 
 “The song’s themes are friendship, bonds, and courage. It’s exactly fitting for us, right?”
 {% endbubble %}
@@ -609,6 +613,10 @@ let’s move forward in this world ahead of us, together~
 ### MC 2
 
 {% img /img/es/ryuseitaialbumtrip/mc2.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">Nekketsu ☆ Ryusei Ninpouchou</a> ♫</p>
+</div>
 
 {% bubble Midori norsmile %}
 “That was ‘Nekketsu ☆ Ryusei Ninpouchou’. Umm…”
@@ -673,9 +681,17 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc3.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/seisei_doudou_ouenka" target="_blank">Seisei Doudou Ouenka!</a> ♫</p>
+</div>
+
 ### MC 4
 
 {% img /img/es/ryuseitaialbumtrip/mc4.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">Suisei HALATION</a> ♫</p>
+</div>
 
 <div class="stories">
 <div class="story">
@@ -696,9 +712,17 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc5.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/kokoro_de_pittari_ai_ni_naru" target="_blank">Kokoro de Pittari Ai ni Naru</a> ♫</p>
+</div>
+
 ### MC 6
 
 {% img /img/es/ryuseitaialbumtrip/mc6.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/colors_arise" target="_blank">Colors Arise</a> ♫</p>
+</div>
 
 <div class="stories">
 <div class="story">
@@ -719,9 +743,17 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc7.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/unmei_power_energy" target="_blank">Unmei Power Energy!</a> ♫</p>
+</div>
+
 ### MC 8
 
 {% img /img/es/ryuseitaialbumtrip/mc8.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> ♫</p>
+</div>
 
 <div class="stories">
 <div class="story">
@@ -742,9 +774,17 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc9.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/green_to_the_sky" target="_blank">Green to the sky</a> ♫</p>
+</div>
+
 ### MC 10
 
 {% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/our_stella" target="_blank">Bokura no Stella</a> ♫</p>
+</div>
 
 <div class="stories">
 <div class="story">
@@ -765,19 +805,35 @@ let’s move forward in this world ahead of us, together~
 
 {% img /img/es/ryuseitaialbumtrip/mc11.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/happy_drops" target="_blank">happy drops</a> ♫</p>
+</div>
+
 {% img /img/es/ryuseitaialbumtrip/mc11_2.jpg %}
 
 ### MC 12
 
 {% img /img/es/ryuseitaialbumtrip/mc12.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
+</div>
+
 ### MC 13
 
 {% img /img/es/ryuseitaialbumtrip/mc13.jpg %}
 
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">One with One</a> ♫</p>
+</div>
+
 ### MC 14
 
 {% img /img/es/ryuseitaialbumtrip/mc14.jpg %}
+
+<div class="msr-narration">
+    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">BRAND NEW STARS!!</a> ♫</p>
+</div>
 
 {% img /img/es/ryuseitaialbumtrip/tripchibi2.jpg %}
 
