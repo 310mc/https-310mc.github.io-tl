@@ -7,6 +7,8 @@ categories:
 - [Enstars, Tetora]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Yuta]
+- [Enstars, Hinata]
 tags:
 - Event Story
 - Akira
@@ -21,11 +23,13 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Yuta" character="Yuta"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 </div>
             </div>
             <div class="info-item one">

@@ -2,11 +2,7 @@
 title: "Christmas Live – Prologue"
 date: 2024-1-15 9:00:00
 categories:
-- [Enstars, Midori]
-- [Enstars, Chiaki]
-- [Enstars, Tetora]
-- [Enstars, Kanata]
-- [Enstars, Shinobu]
+- [Enstars, Yuzuru]
 tags:
 - Event Story
 - Akira
@@ -21,11 +17,7 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                 </div>
             </div>
             <div class="info-item one">

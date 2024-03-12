@@ -45,7 +45,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka (coming soon!)
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -60,13 +60,7 @@ hidden: true
   <tr>
     <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      Oh, yeah
     </td>
   </tr>
   <tr>
@@ -76,13 +70,123 @@ hidden: true
   <tr>
     <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      On your way home, heavy on your feet
+      <br>
+      Could you try imagining something for me?
+      <br>
+      Imagine something you love
+      <br>
+      That gently holds your burden for you
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      The thing that gives you the strength to take another step forward
+      <br>
+      That came to your mind right now
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      Tightly close to your heart, love is formed
+      <br>
+      No matter how simplistic it is
+      <br>
+      Tightly close to your heart, love is formed
+      <br>
+      Only for you, Smile again
+      <br>
+      A kind, gentle energy
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      Whenever you remember me
+      <br>
+      I’d be happy to know if the me in your mind/me you recall is energetic
+      <br>
+      Because even that slightly forced positivity
+      <br>
+      Is a part of me that I want you to be pulled by
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      Ahh, that is also something that brings me happiness
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td class="name"></td>
+    <td>
+      It slowly seeps into our hearts
+      <br>
+      Let’s charge up to the brim with many smiles
+      <br>
+      It slowly seeps into our hearts
+      <br>
+      Only for us, Smile again
+      <br>
+      Thank you for today, too
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td class="name"></td>
+    <td>
+      If you feel tired, then stop in your tracks
+      <br>
+      Look, even in the shortcuts and sideways
+      <br>
+      That speck of star illuminating you has been watching over you
+      <br>
+      Now, take all of this strength
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td class="name"></td>
+    <td>
+      Tightly close to your heart, love is formed
+      <br>
+      No matter how simplistic it is
+      <br>
+      Tightly close to your heart, love is formed
+      <br>
+      Only for you, Smile again
+      <br>
+      A kind, gentle energy
+      <br>
+      Within my heart, I’m always thinking of you
     </td>
   </tr>
 </table>

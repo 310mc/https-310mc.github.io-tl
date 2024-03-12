@@ -45,7 +45,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka (coming soon!)
+                    ryuseipuka
                 </div>
             </div>
         </div>
@@ -60,13 +60,11 @@ hidden: true
   <tr>
     <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      “You won’t be able to see anything if you walk with your head down”
+      <br>
+      You’re the one that taught me that
+      <br>
+      Like a strong wind sweeping up my front bangs
     </td>
   </tr>
   <tr>
@@ -76,13 +74,127 @@ hidden: true
   <tr>
     <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      Through the bustling hours, never leaving me alone
+      <br>
+      I was even able to find all the precious things I hadn’t noticed before
+      <br>
+      By straightening my back and looking ahead
+      <br>
+      “The sky has expanded.”
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      Whenever I’m lost and don’t know where I am anymore
+      <br>
+      “I’m lost in the moment.”
+      <br>
+      That’s when I hear a voice saying, “I’m right here”
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      It’s because you’re always watching over me in that way
+      <br>
+      That I can continue believing
+      <br>
+      In the precious value of feeling love for something that never changes
+      <br>
+      That’s why, so that you know that I’m also here — no matter how far I am
+      <br>
+      I'll try reaching out my hand as high up as I possibly can so that you can find me
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      Though I know for sure that we all have our own reason to keep on living
+      <br>
+      When someone affirms mine, it makes me infinitely grow
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      All kinds of people are everywhere, whether left or right
+      <br>
+      It’s normal that we’d all be different, right?
+      <br>
+      An identical day has never once existed, even up to this very day
+      <br>
+      “Everything is changing.”
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      I always wondered, “What’s something that never changes?”
+      <br>
+      “What remains the same?”
+      <br>
+      Up until I realized that what never fades is the feeling of love
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      You would always watch over me just like this
+      <br>
+      That’s how I was able to eventually grow stronger
+      <br>
+      I’m able to stand without wavering, in a world that’s constantly spinning
+      <br>
+      That’s why I want to work hard to deliver compassion
+      <br>
+      To those feelings that cheer for my loves
+      <br>
+      It’s the energy that turns hearts to infinite bounds
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+      That’s why, even if each day is only a little more than the last
+      <br>
+      I want us to keep delivering those feelings of love to one another
+      <br>
+      And so that you know that I’m also here — no matter how far I am
+      <br>
+      I'll try reaching out my hand as high up as I possibly can so that you can find me
+      <br>
+      I’m green tree to the sky… to the sky!
+      <br>
+      I want you to find me!
     </td>
   </tr>
 </table>

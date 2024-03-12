@@ -45,7 +45,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka (coming soon!)
+                    ryuseipuka
                 </div>
             </div>
         </div>
