@@ -1,5 +1,5 @@
 ---
-title: "[Song] NEW DAYBREAK"
+title: "[Song] Nekketsu ☆ Ryusei Ninpouchou"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -8,11 +8,10 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
-permalink: NEW_DAYBREAK/
+description: "Translation of Nekketsu ☆ Ryusei Ninpouchou Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+permalink: nekketsu_ryusei_ninpouchou/
 hidden: true
 ---
 
@@ -26,19 +25,19 @@ hidden: true
                     Ryuseitai
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
 								<a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated Album
+                    Associated Story
                 </div>
                 <div class="value">
-                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a>
+                    <a href="/ninja_clan">Ninja Clan</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -68,7 +67,7 @@ hidden: true
 
 ## MV Size
 
-{% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
+{% img /img/es/eventstory/ninjaclan/songcover.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Ryuseitai Album Commentary"
+title: "[ES!] Ryuseitai Album Commentary"
 date: 2018-3-7 9:00:00
 categories:
 - [Enstars, ES!]

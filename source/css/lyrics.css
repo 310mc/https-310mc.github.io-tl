@@ -5,6 +5,10 @@ table.lyrics {
   font-family: Verdana;
 }
 
+table.solo {
+  text-align: center;
+}
+
 table.lyrics th,
 table.lyrics td {
   border: 0px;

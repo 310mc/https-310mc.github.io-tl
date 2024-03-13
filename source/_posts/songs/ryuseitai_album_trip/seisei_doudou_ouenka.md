@@ -1,12 +1,12 @@
 ---
-title: "[Song] TBA (Seisei Doudou Ouenka!)"
+title: "[Song] Seisei Doudou Ouenka! – TBA!"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of TBA (Seisei Doudou Ouenka!) Song Lyrics by 310mc. By Tetora from the Shinobu Album TRIP."
+description: "Translation of Seisei Doudou Ouenka! – TBA! (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Shinobu Album TRIP."
 permalink: seisei_doudou_ouenka/
 hidden: true
 ---

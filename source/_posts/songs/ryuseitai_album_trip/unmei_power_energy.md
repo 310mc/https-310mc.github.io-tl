@@ -1,12 +1,12 @@
 ---
-title: "[Song] Fateful Power Energy! (Unmei Power Energy!)"
+title: "[Song] Unmei Power Energy! – Fateful Power Energy!"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
 tags:
 - Song Lyrics
-description: "Translation of Fateful Power Energy! (Unmei Power Energy!) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
+description: "Translation of Unmei Power Energy! – Fateful Power Energy! (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
 permalink: unmei_power_energy/
 hidden: true
 ---

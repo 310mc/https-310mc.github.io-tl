@@ -1,5 +1,5 @@
 ---
-title: "Ryuseitai Album TRIP"
+title: "[ES!!] Ryuseitai Album TRIP"
 date: 2024-3-9 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -12,7 +12,7 @@ categories:
 tags:
 - Extra
 - Happy Elements Staff
-description: "Ryuseitai Album Trip Translation from Ensemble Stars!!"
+description: "Ryuseitai Album TRIP Translation from Ensemble Stars!!"
 permalink: ryuseitai_album_trip/
 hidden: true
 ---
@@ -164,20 +164,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
+                                    <div class="card__name">[Meteor That Commits to Oneself] Tetora Nagumo</div>
                                     <div class="card__jp">[己を貫くメテオ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--好きこそ最強--></div>
+                                                <div class="name">Love is Truly the Strongest<!--好きこそ最強--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--目覚める朝に歌う--></div>
+                                                <div class="name">Singing in the Awakening Morning<!--目覚める朝に歌う--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--流星隊の意思色--></div>
+                                                <div class="name">Ryuseitai’s Color of Determination<!--流星隊の意思色--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -200,20 +200,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
+                                    <div class="card__name">[Meteor That Takes It Easy] Midori Takamine</div>
                                     <div class="card__jp">[緩やかなメテオ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--ずっと好き--></div>
+                                                <div class="name">Will Always Love<!--ずっと好き--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--自意識の情熱--></div>
+                                                <div class="name">The Passion Within His Conscious<!--自意識の情熱--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--流星隊の自由色--></div>
+                                                <div class="name">Ryuseitai’s Color of Freedom<!--流星隊の自由色--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -236,20 +236,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
+                                    <div class="card__name">[Meteor With an Honest Heart] Shinobu Sengoku</div>
                                     <div class="card__jp">[素直な心のメテオ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--好きを共有--></div>
+                                                <div class="name">Sharing the Love<!--好きを共有--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--理想の果ての光--></div>
+                                                <div class="name">The Light at the Very Ends of His Ideal<!--理想の果ての光--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--流星隊の希望色--></div>
+                                                <div class="name">Ryuseitai’s Color of Hope<!--流星隊の希望色--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -272,20 +272,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
+                                    <div class="card__name">[Meteor That Burns Passionately] Chiaki Morisawa</div>
                                     <div class="card__jp">[熱く燃えるメテオ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--好きをチャージ--></div>
+                                                <div class="name">Charge Up Love<!--好きをチャージ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--運命と生きる--></div>
+                                                <div class="name">Living Alongside Fate<!--運命と生きる--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--流星隊の情熱色--></div>
+                                                <div class="name">Ryuseitai’s Color of Passion<!--流星隊の情熱色--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -308,20 +308,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
+                                    <div class="card__name">[Meteor That Nurtures] Kanata Shinkai</div>
                                     <div class="card__jp">[はぐくむめてお] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--すきにひたる--></div>
+                                                <div class="name">Submerged in the Love<!--すきにひたる--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--じぶんらしさのゆうき--></div>
+                                                <div class="name">The Courage of Individuality<!--じぶんらしさのゆうき--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--りゅうせいたいのゆめいろ--></div>
+                                                <div class="name">Ryuseitai’s Color of Dreams<!--りゅうせいたいのゆめいろ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -372,11 +372,11 @@ When I’m with everyone, I truly feel as though many worlds open before us!
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-This album shows a new charm to Ryuseitai. I'd like you to listen to our songs and feel us by your side!
+This album shows a new charm to Ryuseitai. I’d like you to listen to our songs and feel us by your side!
 {% endbubble %}
 
-{% bubble Kanata smile %}
-let’s move forward in this world ahead of us, together~
+{% bubble Kanata grin %}
+let’s move forward in this world ahead of us, [all] together~♪
 {% endbubble %}
 
 ## Album Track (Song Translation)
@@ -566,50 +566,6 @@ let’s move forward in this world ahead of us, together~
     <p style="font-size:20px;">♫ Now playing: <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a> ♫</p>
 </div>
 
-{% bubble Kanata v2 %}
-“hello, we are ryuseitai!” *(waves)*
-
-“thank you so much for coming to watch our [album commemoration live]…♪
-{% endbubble %}
-
-{% bubble Tetora smileexplain %}
-“The first song we performed is ‘NEW DAYBREAK’, our new song for the album.”
-
-“The song’s themes are friendship, bonds, and courage. It’s exactly fitting for us, right?”
-{% endbubble %}
-
-{% bubble Chiaki nod %}
-“Mhm! It’s an incredible song with the best, most passionate lyrics and melody/tune! It’s even got a close resemblance to the tokusatsu shows on a Sunday morning!”
-
-“If we could, I’d love to sing it another ten more times…!”
-{% endbubble %}
-
-{% bubble Midori yare %}
-“*Ten…?* We don’t have the time for that, so please go to a karaoke after this live show or something.”
-{% endbubble %}
-
-{% bubble Chiaki grin %}
-“Ooh, that’s a great idea! Alright, we’re having our closing party (for the live) at a karaoke, then! ☆”
-{% endbubble %}
-
-{% bubble Midori frownshake %}
-“Ehhh, that’d be such a pain, it’d just exhaust me further… Please just go on your own, or at least without me.”
-{% endbubble %}
-
-{% bubble Shinobu worried %}
-“Come on now, Midori-kun! The five of us together are Ryuseitai, so you can’t be absent from it!”
-{% endbubble %}
-
-{% bubble Shinobu smileconfident %}
-“More importantly, our live show has only just begun! It’s prohibited to discuss anything to do with the closing curtains.”
-
-“Now then, let’s fire up the place and entertain all our fans~♪”
-{% endbubble %}
-
-{% bubble Shinobu fist %}
-“Our next song is ‘Nekketsu ☆ Ryusei Ninpouchou’! Feast your eyes on the cutting-edge of digital ninjas…☆”
-{% endbubble %}
-
 ### MC 2
 
 {% img /img/es/ryuseitaialbumtrip/mc2.jpg %}
@@ -617,50 +573,6 @@ let’s move forward in this world ahead of us, together~
 <div class="msr-narration">
     <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">Nekketsu ☆ Ryusei Ninpouchou</a> ♫</p>
 </div>
-
-{% bubble Midori norsmile %}
-“That was ‘Nekketsu ☆ Ryusei Ninpouchou’. Umm…”
-
-“I’ll be at the corner of the stage, so good luck with the rest, okay?”
-{% endbubble %}
-
-{% bubble Tetora fist %}
-“We’re not letting ya get away~ Shinobu-kun and I will hold you on each side!:
-{% endbubble %}
-
-{% bubble Shinobu grin %}
-“Mhm! You’re going to be positioned in the center, Midori-kun!”
-{% endbubble %}
-
-{% bubble Midori worried0 %}
-“Uuu, they’re making me stand in the middle…”
-
-“Ermm… Shinobu-kun, talk about something related to ninjas, c’mon…”
-{% endbubble %}
-
-{% bubble Tetora awkward0 %}
-“Ahaha. You’re starting up the conversation so awkwardly, Midori-kun.”
-{% endbubble %}
-
-{% bubble Midori frown %}
-“I can’t help it, okay… I’m not good at this sorta stuff…”
-
-“And besides, a lot <em>did</em> happen to Shinobu-kun, right? Like the Ninja Association and stuff.”
-{% endbubble %}
-
-{% bubble Shinobu smilesoft %}
-“Ahaha. The tale would be too long, and might end up as a tearjerker, so I shall leave it for another time—”
-
-“However, I learned a lot through the Ninja Clan live show, where we performed ‘Nekketsu ☆ Ryusei Ninpouchou’.”
-
-“I understood the importance of having the courage to persist and express your ‘likes’ to the very end, and the beauty of having comrades who will accept your ‘likes’.”
-{% endbubble %}
-
-{% bubble Shinobu smileconfident %}
-“That is why I, too, will support everyone’s ‘likes’!”
-
-“I’d love you all to accept my very own cheering to you, ‘Seisei Doudou Ouenka!’”
-{% endbubble %}
 
 <div class="stories">
 <div class="story">
@@ -698,7 +610,7 @@ let’s move forward in this world ahead of us, together~
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
-            alt="You're a Hero, Too!"
+            alt="You’re a Hero, Too!"
         />
     </div>
     <a href="/youre_a_hero_too" class="storyName" target="_blank">

@@ -372,11 +372,11 @@ All the anxiety and suffocation I felt deep inside started to fade away, bit by 
 
 And at first, I didn’t get why the world around me was starting to gain color… nor why my life was starting to change every passing day… But I feel like I understand why now.
 
-It’s because every day, you would give me something new to love… with each day being a little more than the last…
+It’s because every day, you would give me something new to ‘love’… with each day being a little more than the last…
 
 When we were happy, we’d laugh together; when we were sad, we’d cry together… When things were rough, we’d work it out together, and when we were having fun, you’d hold my hand—
 
-It’s through those moments that you gave me something new to love…
+It’s through those moments that you gave me something new to ‘love’…
 
 That’s why I’ve grown to love myself, just a little bit.
 

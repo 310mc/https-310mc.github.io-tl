@@ -1,5 +1,5 @@
 ---
-title: "[Song] NEW DAYBREAK"
+title: "[Song] Heart Heat Beat"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -8,11 +8,10 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
-permalink: NEW_DAYBREAK/
+description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+permalink: meteor_scramble/
 hidden: true
 ---
 
@@ -26,11 +25,11 @@ hidden: true
                     Ryuseitai
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
 								<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">

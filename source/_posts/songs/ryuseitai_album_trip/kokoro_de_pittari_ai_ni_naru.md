@@ -54,13 +54,17 @@ hidden: true
 
 <!-- more -->
 
+## Index
+<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
 ## Full Lyrics
 
-<table class="lyrics">
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+
+<table class="lyrics solo">
   <tr>
-    <td class="name"></td>
     <td>
-      Oh, yeah
+      <em>Oh, yeah</em>
     </td>
   </tr>
   <tr>
@@ -68,7 +72,6 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
       On your way home, heavy on your feet
       <br>
@@ -84,7 +87,6 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
       The thing that gives you the strength to take another step forward
       <br>
@@ -96,15 +98,14 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
-      Tightly close to your heart, love is formed
+      Tightly close within our hearts, love is formed[^1]
       <br>
-      No matter how simplistic it is
+      No matter how simplistic it is[^2]
       <br>
-      Tightly close to your heart, love is formed
+      Tightly close within our hearts, love is formed
       <br>
-      Only for you, Smile again
+      <em>Only for you, Smile again</em>
       <br>
       A kind, gentle energy
     </td>
@@ -114,11 +115,10 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
       Whenever you remember me
       <br>
-      I’d be happy to know if the me in your mind/me you recall is energetic
+      I’d be happy to know if the me in your mind is energetic
       <br>
       Because even that slightly forced positivity
       <br>
@@ -130,7 +130,6 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
       Ahh, that is also something that brings me happiness
     </td>
@@ -140,7 +139,6 @@ hidden: true
     <td><br></td>
   </tr>
    <tr>
-    <td class="name"></td>
     <td>
       It slowly seeps into our hearts
       <br>
@@ -148,7 +146,7 @@ hidden: true
       <br>
       It slowly seeps into our hearts
       <br>
-      Only for us, Smile again
+      <em>Only for us, Smile again</em>
       <br>
       Thank you for today, too
     </td>
@@ -158,7 +156,6 @@ hidden: true
     <td><br></td>
   </tr>
    <tr>
-    <td class="name"></td>
     <td>
       If you feel tired, then stop in your tracks
       <br>
@@ -174,15 +171,14 @@ hidden: true
     <td><br></td>
   </tr>
    <tr>
-    <td class="name"></td>
     <td>
-      Tightly close to your heart, love is formed
+      Tightly close within our hearts, love is formed
       <br>
       No matter how simplistic it is
       <br>
-      Tightly close to your heart, love is formed
+      Tightly close within our hearts, love is formed
       <br>
-      Only for you, Smile again
+      <em>Only for you, Smile again</em>
       <br>
       A kind, gentle energy
       <br>
@@ -240,3 +236,20 @@ hidden: true
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
+
+## Translation Notes 
+
+<em>kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
+
+- <em>kokoro de:</em> lit. with heart. There is no given possessive pronoun, so it could be “our hearts”, “your heart”, or “my heart”. <em>de</em> could be “with”, “within”, or even “by”.
+
+- <em>pittari:</em> lit. precisely fits (into something), perfectly suits (something), or comes into contact with something very tightly, without any gaps or spaces. This is usually used as an adjective or adverb (along with a verb, such as “fit into”). In this case, no verb is used in the song’s title. 
+
+- <em>ai ni naru:</em> lit. to become love, to be made up of love, to transform into love, etc… There are many ways “naru” can be translated, and it all depends on its usage in a sentence. <em>ai</em> is lit. love, and does not necessarily refer to romantic love.
+
+With all of this combined including the full lyrics, I decided to lean towards the image of “Coming into contact within the (persona’s) heart very tightly. In doing so, love is formed”. I wanted to focus on how Chiaki wishes to be by the persona’s side on an emotional level, i.e. emotionally nestling close to someone who feels tired after a long day, and being by their side via the heart rather than through physical contact.
+
+As an extra note, Japanese fans are also not too sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning, but for now, please feel free to interpret it however you deem fitting for the song’s message!
+
+[^1]: I recommend reading the <a href="#Translation-Notes">translation notes</a> for a full explanation of what these lyrics mean.
+[^2]: “Simplistic” here is <em>sasayaka</em> (lit. modest, meagre), which also refers to something that doesn’t have much to it except for its form. It’s a word that can be used to humble oneself like “It’s a simple present,” etc.
