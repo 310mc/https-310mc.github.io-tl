@@ -72,259 +72,151 @@ hidden: true
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:00</span></td>
-  </tr>
-  <tr>
     <td class="name"></td>
     <td>
-    While wrapped up in the rising hope within the awakening morning
+    In ancient times, within the far ends of the galaxy — five colored stars were born
     <br>
-    I’ll sing with you[^1]
-    <br>
-    <em>Daybreak</em>
+    With bonds bearing our destiny, we soar across the universe
     </td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>While grasping tightly onto a tiny conscious of myself[^2]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:40</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>The radiance, the burning passion</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Is undoubtedly here</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:52</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Within the dark dead of the night</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Where no stars are visible</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Are dazzlingly beautiful shooting stars</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:05</span></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There’s no telling how many times we gained courage from them</td>
+    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
   </tr>
   <tr>
     <td class="name"></td>
-    <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
+    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>So for all that love you constantly showed me</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let’s sing, <em>New Daybreak</em></td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:34</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>My wish to answer your feelings gets stronger, <em>ah</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
-    <td>Because I’m always receiving reassuring strength from you</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>We chanced upon one another through our own individual fates[^6]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Our lights</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Were drawn to each other</td>
-  </tr>
-  <tr>
-    <td class="name"></span></td>
-    <td>There was always meaning to that</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:57</span></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>
-    The calling voice, the never-fading stars, <em>ah</em>
-    <br>
-    There’s no telling how many times we gained courage from them
-    <br>
-    While time passes and everything shifts, our bonds remain unchanging
-    <br>
-    So for all that love you constantly showed me
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td>A halation for encounters</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
+    <td>Now, to all the stars being born</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>So let’s sing,</td>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Let’s sing; “you’re already one of us”</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>We’ll convey that to you</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    <em>New Daybreak</em>
+    Go forth! We will never, never stop in our tracks
     <br>
-    <em>Daybreak</em>
+    Tearing through the darkness
+    <br>
+    We’ll fire off a powerful, powerful light
+    <br>
+    Just like a comet
     </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Today, too, a new radiance protects the Earth</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>“The space kaijuu’s shown itself!”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>“But, it’ll be alright…”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>“As long as we’re here!”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>“there is no need to hesitate”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>“For the heart of justice always resides right here within us!”</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Go forth!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>We will never, never stop in our tracks</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Tearing through the darkness</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We’ll fire off a powerful, powerful light</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Just like a comet</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Today, too, a new radiance protects the Earth</td>
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
     <td class="name"></td>
     <td>
-    While wrapped up in the rising hope within the awakening morning
+    In ancient times, within the far ends of the galaxy — five colored stars were born
     <br>
-    I’ll sing with you[^1]
-    <br>
-    <em>Daybreak</em>
+    With bonds bearing our destiny, we soar across the universe
     </td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>While grasping tightly onto a tiny conscious of myself[^2]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>The radiance, the burning passion</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Is undoubtedly here</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Within the dark dead of the night</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Where no stars are visible</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Are dazzlingly beautiful shooting stars</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
-  </tr>
-  <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There’s no telling how many times we gained courage from them</td>
+    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
   </tr>
   <tr>
     <td class="name"></td>
-    <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>So for all that love you constantly showed me</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let’s sing, <em>New Daybreak</em></td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>What’s visible to the eyes isn’t all there is</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Yet I still exist, here in this place</td>
+    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
   </tr>
   <tr>
     <td><br></td>
@@ -332,99 +224,171 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You repeatedly appreciate my individuality[^5]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>There’s a life force within it</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>That we fire up together, reverberate together</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
-    <td>“I want us to reflect that</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span></td>
-    <td>into each other’s eyes”</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>
-    My heart yells out
-    <br>
-    As the shooting star that intersects with you — Now, let’s sing
-    </td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>My wish to answer your feelings gets stronger, <em>ah</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
-    <td>Because I’m always receiving reassuring strength from you</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>We chanced upon one another through our own individual fates[^6]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Our lights</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Were drawn to each other</td>
-  </tr>
-  <tr>
-    <td class="name"></span></td>
-    <td>There was always meaning to that</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>
-    The calling voice, the never-fading stars, <em>ah</em>
-    <br>
-    There’s no telling how many times we gained courage from them
-    <br>
-    While time passes and everything shifts, our bonds remain unchanging
-    <br>
-    So for all that love you constantly showed me
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td>A halation for encounters</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
+    <td>Now, to all the stars being born</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>So let’s sing,</td>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Let’s sing; “you’re already one of us”</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>We’ll convey that to you</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    <em>New Daybreak</em>
+    Go forth! We will never, never stop in our tracks
     <br>
-    <em>Daybreak</em>
+    Tearing through the darkness
+    <br>
+    We’ll fire off a powerful, powerful light
+    <br>
+    Just like a comet
     </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Today, too, a new radiance protects the Earth</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>“The space kaijuu’s shown itself!”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>“But, it’ll be alright…”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>“As long as we’re here!”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>“there is no need to hesitate”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>“For the heart of justice always resides right here within us!”</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>If you’re bound to the past that keeps repeating itself</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>Then let’s remember</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>The courage</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>To strip off those hesitations</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We filled our energy for tomorrow</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>With hope alone</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Because that’s how we powered through such straightforward days back then</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>An explosion for the sake of survival</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>There is no need to fear</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Let’s sing, until the universe expands</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Beyond any limitation</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Go forth! We will never let go of our passionate, passionate enthusiasm as we head forward<br>No matter, no matter what happens, never stop moving</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td>Within the future where we’ve overcome our obstacles, we’ll be able to smile again</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Go forth!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>We will never, never stop in our tracks</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Tearing through the darkness</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We’ll fire off a powerful, powerful light</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Just like a comet</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Today, too, a new radiance protects the Earth</td>
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 
@@ -578,19 +542,8 @@ hidden: true
 <hr>
 
 <div toc>
-{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
+{% btn /comet_show,, star, Event Story: Comet Show %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 
 ## Translation Notes
-
-NEW DAYBREAK has no first-person pronouns, so they don’t mention “I” or “we” in the lyrics. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I have chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
-
-That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The shooting star intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
-
-[^1]: Tetora's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^2]: Midori's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^3]: Shinobu's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^4]: TBA
-[^5]: Kanata's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^6]: Chiaki's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.

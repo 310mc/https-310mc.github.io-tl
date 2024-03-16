@@ -59,7 +59,7 @@ hidden: true
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics solo">
   <tr>
@@ -204,7 +204,7 @@ hidden: true
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 

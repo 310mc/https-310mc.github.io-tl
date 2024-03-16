@@ -72,7 +72,7 @@ permalink: RELAX_PARADISE/
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -419,11 +419,11 @@ permalink: RELAX_PARADISE/
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -852,7 +852,7 @@ permalink: RELAX_PARADISE/
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 

@@ -360,23 +360,23 @@ hidden: true
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> to listen to the voice lines!</p>
 
 {% bubble Tetora smilesoft %}
-Each and every once of us had a different path. All those differences are an irreplacement memory, all residing in our songs!
+Each and every one of us had a different path. Each of those differences are irreplaceable memories, all residing in our songs!
 {% endbubble %}
 
 {% bubble Midori smile %}
-I hope someone out there listens to our songs and feels courageous, more stronger through it…
+I hope someone out there listens to our songs and feels a sense of courage and strength through them…
 {% endbubble %}
 
 {% bubble Shinobu nod %}
-When I’m with everyone, I truly feel as though many worlds open before us!
+When I’m with everyone, I truly feel as though many new worlds open up before us!
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-This album shows a new charm to Ryuseitai. I’d like you to listen to our songs and feel us by your side!
+This album will surely convey a new charm of Ryuseitai to everyone. I’d like you to listen to our songs and feel us by your side!
 {% endbubble %}
 
 {% bubble Kanata grin %}
-let’s move forward in this world ahead of us, [all] together~♪
+for this world ahead of us as well, let’s move forward with [all] of us together~♪
 {% endbubble %}
 
 ## Album Track (Song Translation)

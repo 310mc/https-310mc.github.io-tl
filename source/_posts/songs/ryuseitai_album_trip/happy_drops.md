@@ -178,7 +178,7 @@ hidden: true
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 

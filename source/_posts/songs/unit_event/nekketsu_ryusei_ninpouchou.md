@@ -68,11 +68,13 @@ hidden: true
 
 ## MV Size
 
+<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll</h4>
+
 {% img /img/es/eventstory/ninjaclan/songcover.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -82,11 +84,11 @@ hidden: true
   <tr>
     <td class="name"></td>
     <td>
-    While wrapped up in the rising hope within the awakening morning
+    <b>ATTENTION</b>
     <br>
-    I’ll sing with you[^1]
+    “It’s time to activate AR Mode!”
     <br>
-    <em>Daybreak</em>
+    “Please press the switch on the left side of your goggles.”
     </td>
   </tr>
   <tr>
@@ -94,148 +96,15 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>While grasping tightly onto a tiny conscious of myself[^2]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:40</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>The radiance, the burning passion</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Is undoubtedly here</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:52</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Within the dark dead of the night</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Where no stars are visible</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Are dazzlingly beautiful shooting stars</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:05</span></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There’s no telling how many times we gained courage from them</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>So for all that love you constantly showed me</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let’s sing, <em>New Daybreak</em></td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:34</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>My wish to answer your feelings gets stronger, <em>ah</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
-    <td>Because I’m always receiving reassuring strength from you</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>We chanced upon one another through our own individual fates[^6]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Our lights</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Were drawn to each other</td>
-  </tr>
-  <tr>
-    <td class="name"></span></td>
-    <td>There was always meaning to that</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:57</span></td>
-  </tr>
-  <tr>
     <td class="name"></td>
     <td>
-    The calling voice, the never-fading stars, <em>ah</em>
-    <br>
-    There’s no telling how many times we gained courage from them
-    <br>
-    While time passes and everything shifts, our bonds remain unchanging
-    <br>
-    So for all that love you constantly showed me
+    “Loading…”
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:20</span></td>
   </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>So let’s sing,</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>
-    <em>New Daybreak</em>
-    <br>
-    <em>Daybreak</em>
-    </td>
-  </tr>
-</table>
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
-
-<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
-
-## Full Lyrics
-
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
-
-<table class="lyrics">
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
     <td>To the west, to the east!</td>
@@ -246,7 +115,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>Overly-caring and sympathetic, blades at the ready for the cinematic fight</td>
+    <td>Overly-caring and sympathetic, blades at the ready for the cinematic fight[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -261,8 +130,8 @@ hidden: true
     </td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:36</span></td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
@@ -270,7 +139,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>But we’ll simply swoosh-swoosh the carnage in between</td>
+    <td>But we’ll simply swoosh-swoosh the carnage in between[^2]</td>
   </tr>
   <tr>
     <td class="name"></td>
@@ -312,19 +181,179 @@ hidden: true
     <td>
     So watch closely!
     <br>
-    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might[^3]
+    <br>
+    We are the warriors of justice who protect peace
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>This heroic, daring spirit is not simply for show</td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:25</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>With our exchanged vow, (vow)[^10]</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>And our built bonds, (bonds)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td>We’ll continue to stay by each other’s sides forever, (perpetuity)</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>With our powers combined</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    Yo—!
+    Now, we depart!
+    <br>
+    Aiyah, it’s time for punishment! Being driven to a corner means nothing to us
+    <br>
+    We’ll simply cut through the enemies in succession
+    <br>
+    So watch closely!
+    </td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:58</span></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
+    <br>
+    This heroic, daring spirit is not simply for show, yo—![^4]
     <br>
     We are Ryuseitai ☆
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>A huge victory for justice!</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Nin-nin![^6]
+    <br>
+    Yo—![^5] Nin-nin!
+    </td>
+  </tr>
+</table>
+
+<p style="text-align:center;font-size:22px;">This song has a lot of meaning to it. Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+
+## Full Lyrics
+
+<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+
+<table class="lyrics">
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>To the west, to the east!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>To the south, to the north!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Overly-caring and sympathetic, blades at the ready for the cinematic fight[^1]</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>We save the weak and crush the strong</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    As the shooting stars that soar across the galaxy
+    <br>
+    <em>Uh, yeah</em>
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Truth and lies stand back-to-back amidst the chaotic world</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>But we’ll simply swoosh-swoosh the carnage in between[^2]</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    We are warriors gathered in the name of justice
+    <br>
+    Abiding by the faith concealed in our hearts
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Nay, we’ve always been aware that we are meddlesome</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Despite that, we refuse to hesitate</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Now, we depart!
+    <br>
+    Aiyah, it’s time for punishment! Being driven to a corner means nothing to us</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
+    <td>We’ll simply cut through the enemies in succession</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    So watch closely!
+    <br>
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might[^3]
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>This heroic, daring spirit is not simply for show[^4]</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Yo—![^5]
+    <br>
+    We are Ryuseitai ☆
+    <br>
+    Nin-nin![^6]
+    <br>
+    Yo—! Nin-nin!
     </td>
   </tr>
   <tr>
@@ -333,7 +362,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>Whether a thousand miles or ten thousand more, we’ll rush over in one leap</td>
+    <td>Whether a thousand ri or ten thousand more, we’ll rush over in one leap[^7]</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -364,7 +393,7 @@ hidden: true
     <td>
     Step aside!
     <br>
-    Aiyah, how exhilarating! With seven transformations across five, that makes us thirty-five times the power
+    Aiyah, how exhilarating! Seven transformations across five is thirty-five times the power[^8]
     </td>
   </tr>
   <tr>
@@ -376,7 +405,7 @@ hidden: true
     <td>
     We rush to the scene!
     <br>
-    Nimble ☆ Cloning Shooting Star — Rushing up and down, throwing all around
+    Nimble ☆ Cloning Meteor — Rushing up and down, throwing all around[^9]
     <br>
     We are the warriors of justice who protect peace
     </td>
@@ -387,7 +416,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>With our exchanged vow,</td>
+    <td>With our exchanged vow,[^10]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -395,7 +424,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We’ll continue to stay by each other’s sides,</td>
+    <td>We’ll continue to stay by each other’s sides forever,</td>
   </tr>
   <tr>
     <td class="name"></td>
@@ -427,11 +456,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"></td>
-    <td>Nin-nin!</td>
+    <td>
+    Nin-nin!
+    <br>
+    Yo—! Nin-nin!
+    </td>
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes">translation notes</a> for more details!</p>
+<p style="text-align:center;font-size:22px;">This song has a lot of meaning to it. Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 
@@ -585,19 +618,23 @@ hidden: true
 <hr>
 
 <div toc>
-{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
+{% btn /ninja_clan,, star, Event Story: Ninja Clan %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 
 ## Translation Notes
 
-NEW DAYBREAK has no first-person pronouns, so they don’t mention “I” or “we” in the lyrics. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I have chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
+<em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Shooting Star Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typicall see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
 
-That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The shooting star intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
+The MV is digital technology mixed with the world of ninjas. It’s recommended to read <a href="/ninja_clan" target="_blank">the story</a> to learn more about this combination!
 
-[^1]: Tetora's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^2]: Midori's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^3]: Shinobu's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^4]: TBA
-[^5]: Kanata's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^6]: Chiaki's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^1]: The original is <em>chanbara</em>, which refers to samurai movies and their fight scenes. This song has various references to terms related to period dramas and the like, please see the <a href="#Translation-Notes">translation notes</a> for more information!
+[^2]: The “swoosh-swoosh” is <em>shushushu</em> in Japanese, the SFX for throwing shuriken.
+[^3]: “Passed down for generations” is lit. inherited within a household. It likely refers to how ninjas operated in the Sengoku era, such as <a href="https://en.wikipedia.org/wiki/Hattori_Hanz%C5%8D" target="_blank">Hattori Hanzō</a>, who once served the Tokugawa clan in his lifetime. Shinobu also often references this figure as his inspiration for ninja training. Also, it gives the imagery of Ryuseitai working together as a household/clan.
+[^4]: Here, they sing in a ninja-like fashion, using <em>(ja) gozara nu</em>. <em>(de) gozaru</em> is a common sentence ender spoken by ninja characters in media, and Shinobu speaks in it as well.
+[^5]: This <em>yo</em> is the typical Japanese yell you’d hear in kabuki theater.
+[^6]: Nin-nin is a phrase Shinobu often says while doing his typical ninja moves.
+[^7]: The <em>ri</em> is an old Japanese measurement unit of distance.
+[^8]: “Seven transformations” refers to <em>shichihenge</em> (七変化). Seen in kabuki theater, it’s when an entertainer dances while quickly changing their clothes seven times. The “five”, of course, refers to the five members of Ryuseitai.
+[^9]: The original is <em>gittan battan midare uchi</em>, lit. seesaw motion, throwing at random. The <em>gittan battan</em> gives the imagery of the shooting stars moving up and down, and the <em>midare uchi</em> gives the imagery of shurikens being thrown all over the place. Befitting of the ninja technique used here, “Cloning Meteor”.
+[^10]: In the <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">MV</a>, a Japanese word lights up behind them as they sing these three lines. The Japanese word seen in the MV is written in brackets.
