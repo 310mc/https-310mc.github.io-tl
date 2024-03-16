@@ -1,12 +1,12 @@
 ---
-title: "[Song] Seisei Doudou Ouenka! – TBA!"
+title: "[Song] Seisei Doudou Ouenka! – The Seisei Doudou Cheer Song!"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of Seisei Doudou Ouenka! – TBA! (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Shinobu Album TRIP."
+description: "Translation of Seisei Doudou Ouenka! – The Seisei Doudou Cheer Song! (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Shinobu Album TRIP."
 permalink: seisei_doudou_ouenka/
 hidden: true
 ---
@@ -54,19 +54,17 @@ hidden: true
 
 <!-- more -->
 
+## Index
+<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
 ## Full Lyrics
 
-<table class="lyrics">
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+
+<table class="lyrics solo">
   <tr>
-    <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
     </td>
   </tr>
   <tr>
@@ -74,15 +72,134 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      You have one, don’t you? Something you can proudly boast about and love more than anyone else
+      <br>
+      Teach me all the treasured secrets and intel only you know!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now
+      <br>
+      And I know that you truly, truly can’t hold back those feelings of love, so
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      You’re free to insist on it as honestly and boldly as you like
+      <br>
+      Teach those people who say “it doesn’t suit you,” “it’s weird”
+      <br>
+      How to walk down that ‘path’ in a fun way!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      There’s no need to worry over what makes you different from others
+      <br>
+      That part of you defines all the love stuffed inside you
+      <br>
+      Just sound an SOS, and I’ll leap to you with an ‘oh-yes!’ to let it out for you
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      There’s no such thing as needing a qualification to say you love what you love
+      <br>
+      You’re worried about the stares? Pardon me! Pardon me!
+      <br>
+      I’ve been supporting you from the shadows all this time
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      Let’s walk down the same ‘path’ in a pure, correct way
+      <br>
+      Let’s teach each other the rare quality of something called “unusual,” “strange”
+      <br>
+      It’ll lead us to more happiness, until that happiness spreads everywhere
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      C’mon, let’s shout it out loud, c’mon, let’s shout your favorite out loud
+      <br>
+      Don’t you think it’s too unlikely that nobody would ever notice it?
+      <br>
+      Yes, yes, being understood for those things always feels the best!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      The sky is far higher, the sea much more deeper than you’d ever expect
+      <br>
+      That’s why I’m sure you’re bound to find it
+      <br>
+      <em>Let’s go the ‘route’! Go the ‘route’! ‘Faraway’!</em>[^]
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      You know, anyone is free to say it as honestly and boldly as they like
+      <br>
+      Every bit of those feelings you kept hidden will only make your love expand further
+      <br>
+      That’s why the world may just be more vast than you’d expect
+      <br>
+      You’ll be able to communicate with someone about what you love
+      <br>
+      The two of us were able to encounter one another, after all
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+   <tr>
+    <td>
+      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
     </td>
   </tr>
 </table>
@@ -136,3 +253,5 @@ hidden: true
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
+
+## Translation Notes

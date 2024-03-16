@@ -54,19 +54,17 @@ hidden: true
 
 <!-- more -->
 
+## Index
+<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
 ## Full Lyrics
 
-<table class="lyrics">
+<table class="lyrics solo">
   <tr>
-    <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      the drops of [happy] kindness
+      <br>
+      are gathering up to the brim in our hearts throughout our [days]
     </td>
   </tr>
   <tr>
@@ -74,15 +72,108 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      all sorts of things happen in our life, like the different kinds of weathers of the sky
+      <br>
+      so it’s often that we feel our throat dry up in thirst
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      even when the [flask] of your heart is completely see-through
+      <br>
+      those casual [meddlings] will fill the [bottle] up once more
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      every time we encounter the smiles of so many people
+      <br>
+      it becomes stuffed to the brim with drops of [happy] kindness
+      <br>
+      those feelings of love make the whole world sparkle ☆ (sparkle ☆)
+      <br>
+      doesn’t that make you feel like you’re wrapped up in a big wave of [happiness]?
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      the people swimming about however they like all seem to be having fun, right?
+      <br>
+      it may be a bit scary at first, but try diving in with all your [excitement]
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      it is not just right or left, but up and down too — your type of [joy] is all up to you
+      <br>
+      so let’s make a place together where you can always be submerged in that [joy]
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      like raindrops gathering, enough to create an ocean
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      the drops of [happy] kindness are gathering to the very brim
+      <br>
+      every time you give me that smile ♪ (smile ♪) that soothes me
+      <br>
+      i want you to know it makes me feel as though i can freely go anywhere i like
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      even the [flask] in your heart that was once empty
+      <br>
+      is something i want to make overflow
+      <br>
+      until those tiny bits of happiness eventually gather to fill up the whole [world]
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      the drops of [happy] kindness
+      <br>
+      let’s go and gather them up to the very brim
+      <br>
+      so that i am able to give you a lovely smile ♪ (smile ♪) that can soothe you
+      <br>
+      i’d like you to submerge in the feeling that you can freely go anywhere you like
     </td>
   </tr>
 </table>
@@ -136,3 +227,5 @@ hidden: true
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
+
+## Translation Notes 

@@ -1,5 +1,5 @@
 ---
-title: "[Song] Suisei HALATION "
+title: "[Song] Suisei HALATION – Comet HALATION"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -8,15 +8,15 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Suisei HALATION (Comet HALATION) Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Suisei HALATION – Comet HALATION Song Lyrics by 310mc. By Ryuseitai from the Unit Event Comet Show."
 permalink: suisei_HALATION/
 hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
+{% img /img/es/songs/suiseihalation.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">

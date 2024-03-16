@@ -142,7 +142,7 @@ hidden: true
     <td>
       It slowly seeps into our hearts
       <br>
-      Let’s charge up to the brim with many smiles
+      Let’s charge up with a whole bunch of smiles
       <br>
       It slowly seeps into our hearts
       <br>
@@ -251,5 +251,5 @@ With all of this combined including the full lyrics, I decided to lean towards t
 
 As an extra note, Japanese fans are also not too sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning, but for now, please feel free to interpret it however you deem fitting for the song’s message!
 
-[^1]: I recommend reading the <a href="#Translation-Notes">translation notes</a> for a full explanation of what these lyrics mean.
+[^1]: I recommend reading the <a href="#Translation-Notes">translation notes</a> for a complete explanation of what these lyrics mean.
 [^2]: “Simplistic” here is <em>sasayaka</em> (lit. modest, meagre), which also refers to something that doesn’t have much to it except for its form. It’s a word that can be used to humble oneself like “It’s a simple present,” etc.

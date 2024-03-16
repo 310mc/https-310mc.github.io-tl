@@ -1,6 +1,6 @@
 ---
 title: "[Song] Aisle, be with you"
-date: 2021/6/16 9:00:00
+date: 2021/6/15 8:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Mao]
@@ -21,8 +21,8 @@ permalink: aisle_be_with_you/
                     Ring.A.Bell
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-								<a href="/categories/Enstars/Mao" character="Mao"></a>
+				<a href="/categories/Enstars/Midori" character="Midori"></a>
+				<a href="/categories/Enstars/Mao" character="Mao"></a>
                 <a href="/categories/Enstars/Eichi" character="Eichi"></a>
                 <a href="/categories/Enstars/Keito" character="Keito"></a>
                 <a href="/categories/Enstars/Leo" character="Leo"></a>

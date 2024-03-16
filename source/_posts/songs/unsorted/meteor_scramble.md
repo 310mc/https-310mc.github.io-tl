@@ -2,12 +2,13 @@
 title: "[Song] Heart Heat Beat"
 date: 2023/3/6 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, ES!]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
 description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
@@ -34,10 +35,10 @@ hidden: true
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated Album
+                    Associated CD
                 </div>
                 <div class="value">
-                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a>
+                    Anime ED CD TBA
                 </div>
             </div>
             <div class="info-item two">

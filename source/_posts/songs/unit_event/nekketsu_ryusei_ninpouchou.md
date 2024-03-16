@@ -1,5 +1,5 @@
 ---
-title: "[Song] Nekketsu ☆ Ryusei Ninpouchou"
+title: "[Song] Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -8,14 +8,15 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Nekketsu ☆ Ryusei Ninpouchou Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll Song Lyrics by 310mc. By Ryuseitai from the Unit Event Ninja Clan."
 permalink: nekketsu_ryusei_ninpouchou/
 hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
+{% img /img/es/songs/nekketsuryuseininpouchou_300px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -236,125 +237,27 @@ hidden: true
 
 <table class="lyrics">
   <tr>
-    <td class="name"></td>
-    <td>
-    While wrapped up in the rising hope within the awakening morning
-    <br>
-    I’ll sing with you[^1]
-    <br>
-    <em>Daybreak</em>
-    </td>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>To the west, to the east!</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>To the south, to the north!</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>While grasping tightly onto a tiny conscious of myself[^2]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
+    <td>Overly-caring and sympathetic, blades at the ready for the cinematic fight</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>The radiance, the burning passion</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Is undoubtedly here</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Within the dark dead of the night</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Where no stars are visible</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Are dazzlingly beautiful shooting stars</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There’s no telling how many times we gained courage from them</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>So for all that love you constantly showed me</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let’s sing, <em>New Daybreak</em></td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>What’s visible to the eyes isn’t all there is</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Yet I still exist, here in this place</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You repeatedly appreciate my individuality[^5]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>There’s a life force within it</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>That we fire up together, reverberate together</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
-    <td>“I want us to reflect that</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span></td>
-    <td>into each other’s eyes”</td>
+    <td>We save the weak and crush the strong</td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    My heart yells out
+    As the shooting stars that soar across the galaxy
     <br>
-    As the shooting star that intersects with you — Now, let’s sing
+    <em>Uh, yeah</em>
     </td>
   </tr>
   <tr>
@@ -362,64 +265,169 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>My wish to answer your feelings gets stronger, <em>ah</em></td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Truth and lies stand back-to-back amidst the chaotic world</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>But we’ll simply swoosh-swoosh the carnage in between</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    We are warriors gathered in the name of justice
+    <br>
+    Abiding by the faith concealed in our hearts
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Nay, we’ve always been aware that we are meddlesome</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Despite that, we refuse to hesitate</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Now, we depart!
+    <br>
+    Aiyah, it’s time for punishment! Being driven to a corner means nothing to us</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
-    <td>Because I’m always receiving reassuring strength from you</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>We chanced upon one another through our own individual fates[^6]</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Our lights</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Were drawn to each other</td>
-  </tr>
-  <tr>
-    <td class="name"></span></td>
-    <td>There was always meaning to that</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
+    <td>We’ll simply cut through the enemies in succession</td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    The calling voice, the never-fading stars, <em>ah</em>
+    So watch closely!
     <br>
-    There’s no telling how many times we gained courage from them
-    <br>
-    While time passes and everything shifts, our bonds remain unchanging
-    <br>
-    So for all that love you constantly showed me
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>This heroic, daring spirit is not simply for show</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Yo—!
+    <br>
+    We are Ryuseitai ☆
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Whether a thousand miles or ten thousand more, we’ll rush over in one leap</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Even to the very ends of the far universe</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
+    <td>For the sake of those who believe in us</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>So let’s sing,</td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Today is another day</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Where we’re at full power</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"></td>
     <td>
-    <em>New Daybreak</em>
+    Step aside!
     <br>
-    <em>Daybreak</em>
+    Aiyah, how exhilarating! With seven transformations across five, that makes us thirty-five times the power
     </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>This unorthodox path’s just fine for us — We’ll show you how impressive it is</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    We rush to the scene!
+    <br>
+    Nimble ☆ Cloning Shooting Star — Rushing up and down, throwing all around
+    <br>
+    We are the warriors of justice who protect peace
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>With our exchanged vow,</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>And our built bonds,</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td>We’ll continue to stay by each other’s sides,</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>With our powers combined</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>
+    Now, we depart!
+    <br>
+    Aiyah, it’s time for punishment! Being driven to a corner means nothing to us
+    <br>
+    We’ll simply cut through the enemies in succession, so watch closely!
+    <br>
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
+    <br>
+    This heroic, daring spirit is not simply for show, yo—!
+    <br>
+    We are Ryuseitai ☆
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>A huge victory for justice!</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Nin-nin!</td>
   </tr>
 </table>
 

@@ -8,6 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
 description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
@@ -15,7 +16,7 @@ permalink: heart_heat_beat/
 hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
+{% img /img/es/songs/heartheatbeat_300px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -37,7 +38,7 @@ hidden: true
                     Associated Album
                 </div>
                 <div class="value">
-                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a>
+                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a> (Originally released with TBA)
                 </div>
             </div>
             <div class="info-item two">

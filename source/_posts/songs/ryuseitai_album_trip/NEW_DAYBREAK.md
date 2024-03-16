@@ -107,7 +107,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
+    <td>It’s because I went through such reckless days that I was able to reach this point</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -588,9 +588,9 @@ NEW DAYBREAK has no first-person pronouns, so they don’t mention “I” or �
 
 That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The shooting star intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
 
-[^1]: Tetora's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^2]: Midori's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^3]: Shinobu's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^1]: Tetora’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^2]: Midori’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^3]: Shinobu’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^4]: TBA
-[^5]: Kanata's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^6]: Chiaki's album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^5]: Kanata’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^6]: Chiaki’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.

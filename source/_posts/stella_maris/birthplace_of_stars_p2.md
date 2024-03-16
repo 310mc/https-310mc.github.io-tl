@@ -81,7 +81,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 {% bubble Eichi smile %}
 —Hello there, Chiaki.
 
-Fufu. Meeting each other in secret on a beach at night makes me feel like we’re doing something unthinkable, don’t you agree?
+Fufu. Meeting each other in secret on a beach at night makes me feel like we’re doing something naughty, don’t you agree?
 
 Why, Shinkai-kun might get angry at you for being a cheater.
 {% endbubble %}
@@ -299,7 +299,7 @@ I guarantee you that “it” will definitely not get in the way of your goals.
 {% bubble Eichi smile %}
 Oh? I would’ve scoffed if anyone else said that to me, but for some strange reason, I can trust those words when it comes from you — Chiaki.
 
-Fufu. How nostalgic. Didn’t we also huddle close and speak of our dreams back when we were children in the hospital?[^3]
+Fufu. How nostalgic. Didn’t we also huddle close and speak of our dreams like this back when we were children in the hospital?[^3]
 
 Time had passed since then, and our innocent selves have changed so much that we no longer have any traces of our former selves—
 

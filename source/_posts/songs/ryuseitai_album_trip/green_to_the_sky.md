@@ -111,7 +111,7 @@ hidden: true
       <br>
       That’s why, so that you know that I’m also here — no matter how far I am
       <br>
-      I'll try reaching out my hand as high up as I possibly can so that you can find me
+      I’ll try reaching out my hand as high up as I possibly can so that you can find me
     </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ hidden: true
       <br>
       And so that you know that I’m also here — no matter how far I am
       <br>
-      I'll try reaching out my hand as high up as I possibly can so that you can find me
+      I’ll try reaching out my hand as high up as I possibly can so that you can find me
       <br>
       <em>I’m green tree to the sky… to the sky!</em>
       <br>
@@ -245,7 +245,7 @@ hidden: true
 
 ## Translation Notes 
 
-[^1]: This references Midori's Ryusei Green catchphrase, which goes like so: “The green flame is the mark of compassion—The great nature, growing infinitely! Ryusei Green, Takamine Midori…!”
-[^2]: The word for “dear likes” is <em>daisuki</em>. This is the same word used in his center song, <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a>. It can also be translated as “favorite”, “likes/loves”, and “things (I) love”. “Likes” is a theme discussed in Midori's center event where he acts as the leader, <a href="/tropical" target="_blank">Tropical</a>.
+[^1]: This references Midori’s Ryusei Green catchphrase, which goes like so: “The green flame is the mark of compassion—The great nature, growing infinitely! Ryusei Green, Takamine Midori…!”
+[^2]: The word for “dear likes” is <em>daisuki</em>. This is the same word used in his center song, <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a>. It can also be translated as “favorite”, “likes/loves”, and “things (I) love”. “Likes” is a theme discussed in Midori’s center event where he acts as the leader, <a href="/tropical" target="_blank">Tropical</a>.
 [^3]: These lyrics are very similar to what he says in his confession in <a href="/ring#Translation" target="_blank">Ring</a>. To be more specific, in both the confession and the lyrics, he says <em>kinou yori (mo) kyou, kyou yori (mo) ashita, sukoshi zutsu</em>, lit. “today more than yesterday, tomorrow more than today, little by little”. 
 [^4]: In the original lyrics, <em>suki</em> is in brackets, unlike the other instances he says the word in the song. The same can be seen in his confession in <a href="/ring#Translation" target="_blank">Ring</a>.

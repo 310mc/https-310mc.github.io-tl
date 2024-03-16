@@ -1,12 +1,12 @@
 ---
-title: "[Song] Unmei Power Energy! – Fateful Power Energy!"
+title: "[Song] Unmei Power Energy! – Fate Power Energy!"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
 tags:
 - Song Lyrics
-description: "Translation of Unmei Power Energy! – Fateful Power Energy! (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
+description: "Translation of Unmei Power Energy! – Fate Power Energy! (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
 permalink: unmei_power_energy/
 hidden: true
 ---
@@ -54,19 +54,30 @@ hidden: true
 
 <!-- more -->
 
+## Index
+<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
 ## Full Lyrics
 
-<table class="lyrics">
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicates the lyrics sung in English.</p>
+
+<table class="lyrics solo">
   <tr>
-    <td class="name"></td>
+    <td><em>Wo-oh wo-oh wo-oh…</em></td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      Fate that’s straightforward enough to immediately click in your mind
+      <br>
+      Is not the only kind of fate that exists
+      <br>
+      I’ve somehow started to understand what that means now
+      <br>
+      All my emotions gradually piled up until it finally hit me
     </td>
   </tr>
   <tr>
@@ -74,16 +85,121 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
     <td>
-    Colors Arise!
-    <br>
-    Now, I’ll raise up a blinding beam of light
-    <br>
-    That’s right, I’ll proudly
-    <br>
-    make my own light shine!
+      It undoubtedly transformed into something ‘special’ since last year
+      <br>
+      Transcending logic itself, what I simply ‘liked’ back then
+      <br>
+      Now yells out from the very core of my heart
     </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      Passionately, passionately invigorated
+      <br>
+      That’s the energy that the power of fate gives me
+      <br>
+      As tears sparkle down, and I become smeared with mud
+      <br>
+      I strive to live through today
+      <br>
+      For my ‘like’ is the strongest there ever was!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td><em>Wo-oh wo-oh wo-oh…</em></td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      The future can only be made through the prolonging of the present
+      <br>
+      I know that fully well
+      <br>
+      I’ll straighten my posture upright
+      <br>
+      So that my enthusiasm to work hard gets the perfect score
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      This encounter brought forth something ‘special’ that I’m eager to challenge with all my might
+      <br>
+      All that gentle strength, all those feelings directed at me
+      <br>
+      I’ll be sure to take every single ounce of them with me
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      At this place where your ‘like’ overlaps with mine
+      <br>
+      This energy inflames the power of fate
+      <br>
+      As the first star of the evening shines a sparkling smile
+      <br>
+      I’ll sear today into my mind
+      <br>
+      While honing the strongest ‘like’ to the very extreme!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      Passionately, passionately invigorated
+      <br>
+      That’s the energy that the power of fate gives me
+      <br>
+      As tears sparkle down, and I become smeared with mud
+      <br>
+      I strive to live through today
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      At this place where your ‘like’ overlaps with mine
+      <br>
+      This energy inflames the power of fate
+      <br>
+      Alongside the first star of the evening that shines a sparkling smile
+      <br>
+      I embark into tomorrow
+      <br>
+      For my ‘like’ is the strongest there ever was!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td><em>Wo-oh wo-oh wo-oh…</em></td>
   </tr>
 </table>
 
