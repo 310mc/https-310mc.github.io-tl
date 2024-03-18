@@ -68,11 +68,13 @@ hidden: true
 
 ## MV Size
 
+<h4 style="text-align:center;">NEW DAYBREAK</h4>
+
 {% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -80,7 +82,7 @@ hidden: true
     <td class="timestamp"><span class="timestamp">0:00</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     While wrapped up in the rising hope within the awakening morning
     <br>
@@ -134,7 +136,7 @@ hidden: true
     <td>The feelings you gave me[^4]</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Are dazzlingly beautiful shooting stars</td>
   </tr>
   <tr>
@@ -142,7 +144,7 @@ hidden: true
     <td class="timestamp"><span class="timestamp">1:05</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
   </tr>
   <tr>
@@ -150,7 +152,7 @@ hidden: true
     <td>There’s no telling how many times we gained courage from them</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
   </tr>
   <tr>
@@ -158,7 +160,7 @@ hidden: true
     <td>So for all that love you constantly showed me</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Let’s sing, <em>New Daybreak</em></td>
   </tr>
   <tr>
@@ -194,7 +196,7 @@ hidden: true
     <td class="timestamp"><span class="timestamp">1:57</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     The calling voice, the never-fading stars, <em>ah</em>
     <br>
@@ -218,7 +220,7 @@ hidden: true
     <td>So let’s sing,</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>New Daybreak</em>
     <br>
@@ -233,11 +235,13 @@ hidden: true
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<h4 style="text-align:center;">NEW DAYBREAK</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     While wrapped up in the rising hope within the awakening morning
     <br>
@@ -287,7 +291,7 @@ hidden: true
     <td>The feelings you gave me[^4]</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Are dazzlingly beautiful shooting stars</td>
   </tr>
   <tr>
@@ -295,7 +299,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>The calling voice, the never-fading stars, <em>ah</em></em></td>
   </tr>
   <tr>
@@ -303,7 +307,7 @@ hidden: true
     <td>There’s no telling how many times we gained courage from them</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>While time passes and everything shifts, our bonds remain unchanging</em></td>
   </tr>
   <tr>
@@ -311,7 +315,7 @@ hidden: true
     <td>So for all that love you constantly showed me</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Let’s sing, <em>New Daybreak</em></td>
   </tr>
   <tr>
@@ -351,7 +355,7 @@ hidden: true
     <td>into each other’s eyes”</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     My heart yells out
     <br>
@@ -391,7 +395,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     The calling voice, the never-fading stars, <em>ah</em>
     <br>
@@ -415,7 +419,7 @@ hidden: true
     <td>So let’s sing,</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>New Daybreak</em>
     <br>
@@ -591,6 +595,6 @@ That being said, the “you” in “I’ll sing with you,” “The feelings yo
 [^1]: Tetora’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^2]: Midori’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^3]: Shinobu’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^4]: TBA
+[^4]: Here, feelings can be both “desires” and “feelings”.
 [^5]: Kanata’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^6]: Chiaki’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.

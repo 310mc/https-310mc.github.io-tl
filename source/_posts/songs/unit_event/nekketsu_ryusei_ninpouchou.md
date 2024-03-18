@@ -72,7 +72,7 @@ hidden: true
 
 {% img /img/es/eventstory/ninjaclan/songcover.jpg %}
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=LtvUxVxEqPU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
 <p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
@@ -82,7 +82,7 @@ hidden: true
     <td class="timestamp"><span class="timestamp">0:00</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <b>ATTENTION</b>
     <br>
@@ -96,7 +96,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     “Loading…”
     </td>
@@ -122,7 +122,7 @@ hidden: true
     <td>We save the weak and crush the strong</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     As the shooting stars that soar across the galaxy
     <br>
@@ -142,7 +142,7 @@ hidden: true
     <td>But we’ll simply swoosh-swoosh the carnage in between[^2]</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     We are warriors gathered in the name of justice
     <br>
@@ -166,7 +166,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Now, we depart!
     <br>
@@ -177,7 +177,7 @@ hidden: true
     <td>We’ll simply cut through the enemies in succession</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     So watch closely!
     <br>
@@ -203,7 +203,7 @@ hidden: true
     <td>We’ll continue to stay by each other’s sides forever, (perpetuity)</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>With our powers combined</td>
   </tr>
   <tr>
@@ -211,7 +211,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Now, we depart!
     <br>
@@ -227,7 +227,7 @@ hidden: true
     <td class="timestamp"><span class="timestamp">1:58</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
     <br>
@@ -241,7 +241,7 @@ hidden: true
     <td>A huge victory for justice!</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Nin-nin![^6]
     <br>
@@ -278,7 +278,7 @@ hidden: true
     <td>We save the weak and crush the strong</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     As the shooting stars that soar across the galaxy
     <br>
@@ -298,7 +298,7 @@ hidden: true
     <td>But we’ll simply swoosh-swoosh the carnage in between[^2]</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     We are warriors gathered in the name of justice
     <br>
@@ -322,7 +322,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Now, we depart!
     <br>
@@ -333,7 +333,7 @@ hidden: true
     <td>We’ll simply cut through the enemies in succession</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     So watch closely!
     <br>
@@ -345,7 +345,7 @@ hidden: true
     <td>This heroic, daring spirit is not simply for show[^4]</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Yo—![^5]
     <br>
@@ -381,7 +381,7 @@ hidden: true
     <td>Today is another day</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Where we’re at full power</td>
   </tr>
   <tr>
@@ -389,7 +389,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Step aside!
     <br>
@@ -401,7 +401,7 @@ hidden: true
     <td>This unorthodox path’s just fine for us — We’ll show you how impressive it is</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     We rush to the scene!
     <br>
@@ -427,7 +427,7 @@ hidden: true
     <td>We’ll continue to stay by each other’s sides forever,</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>With our powers combined</td>
   </tr>
   <tr>
@@ -435,7 +435,7 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Now, we depart!
     <br>
@@ -455,7 +455,7 @@ hidden: true
     <td>A huge victory for justice!</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Nin-nin!
     <br>

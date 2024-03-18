@@ -17,8 +17,8 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
-								<a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
                 </div>
             </div>
             <div class="info-item one">

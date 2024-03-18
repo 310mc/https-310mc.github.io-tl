@@ -1,35 +1,44 @@
 ---
-title: "[Song] Seisei Doudou Ouenka! – Seisei Doudou Cheer Song!"
+title: "[Song] Heart Heat Beat"
 date: 2023/3/6 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, ES!]
+- [Enstars, Tetora]
+- [Enstars, Midori]
+- [Enstars, Chiaki]
+- [Enstars, Kanata]
 - [Enstars, Shinobu]
+- [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Seisei Doudou Ouenka! – Seisei Doudou Cheer Song! (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Shinobu Album TRIP."
-permalink: seisei_doudou_ouenka/
+description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+permalink: goshoku_no_shooting_star/
 hidden: true
 ---
 
-{% img /img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg %}
+{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    Singer
+                    Ryuseitai
                 </div>
                 <div class="value">
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+								<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated Album
+                    Associated CD
                 </div>
                 <div class="value">
-                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a>
+                    Anime ED CD TBA
                 </div>
             </div>
             <div class="info-item two">
@@ -37,7 +46,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, Funimation Official Lyrics
                 </div>
             </div>
             <div class="info-item three">
@@ -55,154 +64,192 @@ hidden: true
 <!-- more -->
 
 ## Index
-<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+<p style="font-size:22px;"><a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
 ## Full Lyrics
 
-<h4 style="text-align:center;">Seisei Doudou Ouenka! – Seisei Doudou Cheer Song!</h4>
+<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
-<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
-
-<table class="lyrics solo">
+<table class="lyrics">
   <tr>
+    <td class="name"></td>
     <td>
-      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
+      Call us anytime with a voice that reaches to the other side of a dream
+      <br>
+      Let's rush over, RYUSEITAI! Meteor scramble☆
     </td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>If you keep on giving up</td>
   </tr>
   <tr>
-    <td>
-      You have one, don’t you? Something you can proudly boast about and love more than anyone else
-      <br>
-      Teach me all the treasured secrets and intel only you know!
-    </td>
+    <td class="name"></td>
+    <td>(NO MORE)</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>You can't go the distances you want to go</td>
   </tr>
   <tr>
-    <td>
-      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now
-      <br>
-      And I know that you truly, truly can’t hold back those feelings of love, so
-    </td>
+    <td class="name"></td>
+    <td>We'll give you the courage</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"></td>
+    <td>(GO FORWARD)</td>
   </tr>
   <tr>
-    <td>
-      You’re free to insist on it as honestly and boldly as you like
-      <br>
-      Teach those people who say “it doesn’t suit you,” “it’s weird”
-      <br>
-      How to walk down that ‘path’ in a fun way!
-    </td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>To face your troubles head-on</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Come, LET ME DREAM</td>
   </tr>
   <tr>
-    <td>
-      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
-    </td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>We'll become as passionate as</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>The gazes</td>
   </tr>
   <tr>
-    <td>
-      There’s no need to worry over what makes you different from others
-      <br>
-      That part of you defines all the love stuffed inside you
-      <br>
-      Just sound an SOS, and I’ll leap to you with an ‘oh-yes!’ to let it out for you
-    </td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>you've given us</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td>
-      There’s no such thing as needing a qualification to say you love what you love
-      <br>
-      You’re worried about the stares? Pardon me! Pardon me!
-      <br>
-      I’ve been supporting you from the shadows all this time
-    </td>
+    <td class="name"></td>
+    <td>I'm sure the sun will rise to protect our dreams</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td>
-      Let’s walk down the same ‘path’ in a pure, correct way
-      <br>
-      Let’s teach each other the rare quality of something called “unusual,” “strange”
-      <br>
-      It’ll lead us to more happiness, until that happiness spreads everywhere
-    </td>
+    <td class="name"></td>
+    <td>We'll turn even sparkles into power and evolve</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td>
-      C’mon, let’s shout it out loud, c’mon, let’s shout your favorite out loud
-      <br>
-      Don’t you think it’s too unlikely that nobody would ever notice it?
-      <br>
-      Yes, yes, being understood for those things always feels the best!
-    </td>
+    <td class="name"></td>
+    <td>Pass the clouds and fly to the heights where thousands of voices are</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td>
-      The sky is far higher, the sea much more deeper than you’d ever expect
-      <br>
-      That’s why I’m sure you’re bound to find it
-      <br>
-      <em>Let’s go the ‘route’! Go the ‘route’! ‘Faraway’!</em>[^]
-    </td>
+    <td class="name"></td>
+    <td>Rain down, RYUSEITAI! Meteor scramble☆</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-   <tr>
-    <td>
-      You know, anyone is free to say it as honestly and boldly as they like
-      <br>
-      Every bit of those feelings you kept hidden will only make your love expand further
-      <br>
-      That’s why the world may just be more vast than you’d expect
-      <br>
-      You’ll be able to communicate with someone about what you love
-      <br>
-      The two of us were able to encounter one another, after all
-    </td>
+    <td class="name"></td>
+    <td>Today, too, HERE WE GO!!!!!</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>We began to run toward hope</td>
   </tr>
-   <tr>
-    <td>
-      Go for it! Go for it! Go for it! Go—! Go! Go! Go for it! Go for it! Go for it!
-    </td>
+  <tr>
+    <td class="name"></td>
+    <td>(WAY TO GO)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>And like the soothing wind</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Blowing on those hard working backs</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>(MELODY)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>We’ll always be by your side</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>A mysterious energy</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>Called “Trust”</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Is what puts passion</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Into justice</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>When your dreams are in a pinch, we’ll be sure to come rescue you</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Please believe in us, don’t look back, just wait for us</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>There’s no such thing as a never-ending night</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>morning will surely come</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>So let’s go there, RYUSEITAI! Meteor scramble☆</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Today, too, HERE WE GO!!!!!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>This moment</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Will continue on to the future</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>It is the start</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Of our episode</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>That’s why</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>Today, too</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>In your sky</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>The sun will rise</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Let’s turn even sparkles into power and rush out</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Call us anytime with a voice that reaches to the other side of a dream</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>Let's rush over, RYUSEITAI! Meteor scramble☆</td>
+  </tr>
+  <tr>
+    <td class="name"></td>
+    <td>We’re everyone’s heroes!!!!!</td>
   </tr>
 </table>
 

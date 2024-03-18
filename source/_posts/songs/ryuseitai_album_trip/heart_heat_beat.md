@@ -1,5 +1,5 @@
 ---
-title: "[Song] Suisei HALATION – Comet HALATION"
+title: "[Song] Heart Heat Beat"
 date: 2023/3/6 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -11,12 +11,12 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Suisei HALATION – Comet HALATION Song Lyrics by 310mc. By Ryuseitai from the Unit Event Comet Show."
-permalink: suisei_HALATION/
+description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+permalink: heart_heat_beat/
 hidden: true
 ---
 
-{% img /img/es/songs/suiseihalation.jpg %}
+{% img /img/es/songs/heartheatbeat_300px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -27,18 +27,18 @@ hidden: true
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+								<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated Story
+                    Associated Album
                 </div>
                 <div class="value">
-                    <a href="/comet_show">Comet Show</a>
+                    <a href="/ryuseitai_album_trip">Ryuseitai Album TRIP</a> (Initially released with <a href="https://ensemble-stars.fandom.com/wiki/RYUSEITAI_%22Nekketsu%E2%98%86Ryusei_Ninpouchou%22_ES_Idol_Song_Season_2">RYUSEITAI ES Idol Song Season 2</a>)
                 </div>
             </div>
             <div class="info-item two">
@@ -64,279 +64,236 @@ hidden: true
 <!-- more -->
 
 ## Index
-<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
-
-## MV Size
-
-<h4 style="text-align:center;">Suisei HALATION – Comet HALATION</h4>
-
-{% img /img/es/eventstory/cometshow/songcover.jpg %}
-
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
-
-<table class="lyrics">
-  <tr>
-    <td class="name">All</td>
-    <td>
-    In ancient times, within the far ends of the galaxy — five colored stars were born
-    <br>
-    With bonds bearing our destiny, we soar across the universe
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A halation for encounters</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Now, to all the stars being born</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing; “you’re already one of us”</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll convey that to you</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>
-    Go forth! We will never, never stop in our tracks
-    <br>
-    Tearing through the darkness
-    <br>
-    We’ll fire off a powerful, powerful light
-    <br>
-    Just like a comet
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>“The space kaijuu’s shown itself!”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>“But, it’ll be alright…”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>“As long as we’re here!”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>“there is no need to hesitate”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>“For the heart of justice always resides right here within us!”</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Go forth!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>We will never, never stop in our tracks</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Tearing through the darkness</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>We’ll fire off a powerful, powerful light</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Just like a comet</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
-  </tr>
-</table>
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
-
-<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
 ## Full Lyrics
 
-<h4 style="text-align:center;">Suisei HALATION – Comet HALATION</h4>
+<h4 style="text-align:center;">Heart Heat Beat</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
     <td class="name">All</td>
+    <td>“Take another step further”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>You felt as though someone just told you that, right?</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>From the very moment you were born</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’ve always been pounding out</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>The cheers</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>That beat</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>In your chest</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>I know how it feels; you can’t help but hesitate, right?</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Anyone would get scared here, it’s always like that at the start</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>But you know, even then — we have to make a choice</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>It’s by going through those experiences over and over that we can grow further</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>When asked where the heart lies</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Click on the chest!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Everyone points to their chest, right?</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Feel your soul!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>That’s right, no matter the time</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Your true voice inside</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Is something I can always feel — you can tell, right?</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>That’s why...!</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’m always transmitting it to you! It flows through your whole body!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="tetora">Tetora</span></td>
+    <td>The energy of your passionately hot blood stream, I’ll pour my feelings into it</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>“Let’s take another step forward” — If that’s the reason I exist</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>Then I’ll sing to you, so that I light up a fire in your tiny courage</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’m pounding out the cheers that beat in your chest</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>How do you feel? You must be nervous</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>But that feeling is your pulse cheering for you to go for the challenge</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>It’s not just anxiety; it also happens when you’re full of anticipation</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Or when you’ve accomplished something, your tempo rises up</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Even when you feel like you’re close to giving up</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Click on the chest!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>I’ll never ever stop beating</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Feel your soul!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Because you see, no matter the moment</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>I know you’re always doing your best</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Even your emotions are yelling that out</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>That’s why…!</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’m always transmitting you passion! It flows through your whole body!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="midori">Midori</span></td>
+    <td>This energy can change tomorrow, so I’ll go along with the rhythm</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>“Another step further, as far as you can” — It’s all so that I’m able to deliver those words to you</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>When you’ve raised up the flame of your ignited courage</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
     <td>
-    In ancient times, within the far ends of the galaxy — five colored stars were born
+    I’ll be pounding out the cheers that beat in your chest
     <br>
-    With bonds bearing our destiny, we soar across the universe
+    <em>(Heart Beat! Click on the chest! Heart Beat! Click on the chest!)</em>
+    <br>
+    <em>(Heart Beat! Click on the chest! Heart Beat! Feel your soul!)</em>
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A halation for encounters</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Now, to all the stars being born</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing; “you’re already one of us”</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll convey that to you</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>
-    Go forth! We will never, never stop in our tracks
-    <br>
-    Tearing through the darkness
-    <br>
-    We’ll fire off a powerful, powerful light
-    <br>
-    Just like a comet
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
-  </tr>
-  <tr>
     <td><br></td>
     <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>“The space kaijuu’s shown itself!”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>“But, it’ll be alright…”</td>
+    <td>To match the <em>beat</em> your <em>heart</em> is pounding</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>“As long as we’re here!”</td>
+    <td>Place the dream you wish to see here</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Click on the chest!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>It’ll then turn your whole life into song</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>“there is no need to hesitate”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>“For the heart of justice always resides right here within us!”</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>If you’re bound to the past that keeps repeating itself</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Then let’s remember</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>The courage</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>To strip off those hesitations</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>We filled our energy for tomorrow</td>
+    <td>As for ‘me’, I’ll always be by your side, so[^]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>With hope alone</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Because that’s how we powered through such straightforward days back then</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>An explosion for the sake of survival</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>There is no need to fear</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing, until the universe expands</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Beyond any limitation</td>
+    <td>Let’s go!</td>
   </tr>
   <tr>
     <td><br></td>
@@ -344,47 +301,31 @@ hidden: true
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Go forth! We will never let go of our passionate, passionate enthusiasm as we head forward<br>No matter, no matter what happens, never stop moving</td>
+    <td>I’m always transmitting it to you! It flows through your whole body!</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
-    <td>Within the future where we’ve overcome our obstacles, we’ll be able to smile again</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Hold onto that belief to the very end — in this place where stars are born</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Go forth!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>We will never, never stop in our tracks</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Tearing through the darkness</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>We’ll fire off a powerful, powerful light</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Just like a comet</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="shinobu">Shinobu</span></td>
+    <td>The energy of your passionately hot blood stream, I’ll pour my feelings in it</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
+    <td>“Take another step forward” — I’ll always convey that to you</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
+    <td>From the very moment you were born, I’ve always been by your side</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>And pounding out the cheers</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>That beat</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>In your chest</td>
   </tr>
 </table>
 
@@ -542,7 +483,7 @@ hidden: true
 <hr>
 
 <div toc>
-{% btn /comet_show,, star, Event Story: Comet Show %}
+{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 

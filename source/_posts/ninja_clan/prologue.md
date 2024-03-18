@@ -17,8 +17,8 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-								<a href="/categories/Enstars/Mao" character="Mao"></a>
+					<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+					<a href="/categories/Enstars/Mao" character="Mao"></a>
                 </div>
             </div>
             <div class="info-item one">

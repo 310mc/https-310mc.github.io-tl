@@ -67,9 +67,13 @@ permalink: colors_arise/
 
 ## MV Size
 
+<h4 style="text-align:center;">Colors Arise</h4>
+
 {% img /img/es/eventstory/supervillain/songcover.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -77,7 +81,7 @@ permalink: colors_arise/
     <td class="timestamp"><span class="timestamp">0:00</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, I’ll raise up a blinding beam of light</td>
   </tr>
   <tr>
@@ -113,7 +117,7 @@ permalink: colors_arise/
     <td>Pierce through gravity itself</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(Let’s fire the heart!)</td>
   </tr>
   <tr>
@@ -141,7 +145,7 @@ permalink: colors_arise/
     <td>Meteor that soars through the sky freely</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(Your light!)</td>
   </tr>
   <tr>
@@ -165,7 +169,7 @@ permalink: colors_arise/
     <td>(Your courage)</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Your soul! Your heart!</td>
   </tr>
   <tr>
@@ -177,7 +181,7 @@ permalink: colors_arise/
     <td class="timestamp"><span class="timestamp">0:55</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, we realize — there isn’t only one, is there?<br>That’s right,</td>
   </tr>
   <tr>
@@ -185,7 +189,7 @@ permalink: colors_arise/
     <td>within the jet black that embraces</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>the infinite colors<br>Look, we can see in our eyes — the hue that adorns you<br>That’s right, we don’t need a reason<br>Because we’ve now stacked our resolve onto each other</td>
   </tr>
   <tr>
@@ -193,7 +197,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(We’re fighting for justice.)<br>(Let’s go ahead! Let’s go ahead!)</td>
   </tr>
   <tr>
@@ -221,7 +225,7 @@ permalink: colors_arise/
     <td>I want to protect mine</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>That is why justice has color</td>
   </tr>
   <tr>
@@ -229,7 +233,7 @@ permalink: colors_arise/
     <td class="timestamp"><span class="timestamp">1:59</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, I’ll raise it up, this belongs to nobody but me<br>That’s right, this is my color, and I’ll proudly make it shine<br>You can see it within your eyes, can’t you? All the hues reaching you</td>
   </tr>
   <tr>
@@ -249,7 +253,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Signalize our own light!</td>
   </tr>
   <tr>
@@ -262,9 +266,13 @@ permalink: colors_arise/
 
 ## Full Lyrics
 
+<h4 style="text-align:center;">Colors Arise</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+
 <table class="lyrics">
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, I’ll raise up a blinding beam of light</td>
   </tr>
   <tr>
@@ -300,7 +308,7 @@ permalink: colors_arise/
     <td>Pierce through gravity itself</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(Let’s fire the heart!)</td>
   </tr>
   <tr>
@@ -328,7 +336,7 @@ permalink: colors_arise/
     <td>Meteor that soars through the sky freely</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(Your light!)</td>
   </tr>
   <tr>
@@ -352,7 +360,7 @@ permalink: colors_arise/
     <td>(Your courage)</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Your soul! Your heart!</td>
   </tr>
   <tr>
@@ -364,7 +372,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, we realize — there isn’t only one, is there?<br>That’s right,</td>
   </tr>
   <tr>
@@ -372,7 +380,7 @@ permalink: colors_arise/
     <td>within the jet black that embraces</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>the infinite colors<br>Look, we can see in our eyes — the hue that adorns you</td>
   </tr>
   <tr>
@@ -384,7 +392,7 @@ permalink: colors_arise/
     <td>That hesitation and vow of ours</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Will surely signalize our own light!</td>
   </tr>
   <tr>
@@ -416,7 +424,7 @@ permalink: colors_arise/
     <td>Who wait for rescue</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(Reach for your hand!)</td>
   </tr>
   <tr>
@@ -432,7 +440,7 @@ permalink: colors_arise/
     <td>But the strength to overcome it</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Are meteors that can shoot out their own radiance together<br>(Your light!)</td>
   </tr>
   <tr>
@@ -456,7 +464,7 @@ permalink: colors_arise/
     <td>(Those different feelings)</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Various colors!</td>
   </tr>
   <tr>
@@ -468,7 +476,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Look, if it’s a signal you need, I’ll send you one<br>You’re bound to understand it, aren’t you?<br>That’s right, that’s the white light that embraces the infinite colors<br>We reflect one another within our eyes, those respectable hues<br>That’s right, we don’t need a reason<br>Because we’ve now stacked our resolve onto each other</td>
   </tr>
   <tr>
@@ -476,7 +484,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(We’re fighting for justice.)<br>(Let’s go ahead! Let’s go ahead!)</td>
   </tr>
   <tr>
@@ -504,7 +512,7 @@ permalink: colors_arise/
     <td>I want to protect mine</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>That is why justice has color</td>
   </tr>
   <tr>
@@ -512,7 +520,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Colors Arise!<br>Now, I’ll raise it up, this belongs to nobody but me<br>That’s right, this is my color, and I’ll proudly make it shine<br>You can see it within your eyes, can’t you? All the hues reaching you</td>
   </tr>
   <tr>
@@ -536,7 +544,7 @@ permalink: colors_arise/
     <td>The steps we’ve taken are like meteors</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>(We are shooting stars.)</td>
   </tr>
   <tr>
@@ -552,7 +560,7 @@ permalink: colors_arise/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Signalize our own light!</td>
   </tr>
   <tr>

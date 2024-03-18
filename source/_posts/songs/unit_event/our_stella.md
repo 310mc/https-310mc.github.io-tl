@@ -67,11 +67,13 @@ permalink: our_stella/
 
 ## MV Size
 
+<h4 style="text-align:center;">Bokura no Stella – Our Stella</h4>
+
 {% img /img/es/eventstory/stellamaris/songcover.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -79,7 +81,7 @@ permalink: our_stella/
     <td class="timestamp"><span class="timestamp">0:00</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>stella, stella…</em>
     <br>
@@ -119,7 +121,7 @@ permalink: our_stella/
     <td class="timestamp"><span class="timestamp">0:43</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Tonight, we sing in harmony with you[^1]<br>On the Stella that binds the sky and sea together[^2]</td>
   </tr>
   <tr>
@@ -131,7 +133,7 @@ permalink: our_stella/
     <td class="timestamp"><span class="timestamp">1:00</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>It feels as though we were always connected in this way</td>
   </tr>
   <tr>
@@ -139,7 +141,7 @@ permalink: our_stella/
     <td>Before we were even born,</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>doesn’t it?</td>
   </tr>
   <tr>
@@ -155,7 +157,7 @@ permalink: our_stella/
     <td>We’ll return them back to the sky</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>This is a world covered with</td>
   </tr>
   <tr>
@@ -171,7 +173,7 @@ permalink: our_stella/
     <td class="timestamp"><span class="timestamp">1:37</span></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Tonight, we sing in harmony with you<br>On the Stella that binds the sky and sea together</td>
   </tr>
   <tr>
@@ -183,7 +185,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>We know we have always been connected in this way<br>Before we were even born</td>
   </tr>
   <tr>
@@ -191,7 +193,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>stella, stella…</em>
     <br>
@@ -206,11 +208,13 @@ permalink: our_stella/
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<h4 style="text-align:center;">Bokura no Stella – Our Stella</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>stella, stella…</em>
     <br>
@@ -250,7 +254,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Tonight, we sing in harmony with you[^1]<br>On the Stella that binds the sky and sea together[^2]</td>
   </tr>
   <tr>
@@ -258,7 +262,7 @@ permalink: our_stella/
     <td>We were within the same light from the very start</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>It feels as though we were always connected in this way</td>
   </tr>
   <tr>
@@ -266,7 +270,7 @@ permalink: our_stella/
     <td>Before we were even born,</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>doesn’t it?</td>
   </tr>
   <tr>
@@ -294,7 +298,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Aiming for the future filled with every one of our feelings</td>
   </tr>
   <tr>
@@ -302,7 +306,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>A long time ago, a gentle, kind miracle occurred within this place</td>
   </tr>
   <tr>
@@ -310,7 +314,7 @@ permalink: our_stella/
     <td>Even now, we are within the same prayer</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     Swaying as it flows through, is every beautiful part of our peaceful present
     <br>
@@ -330,7 +334,7 @@ permalink: our_stella/
     <td>We’ll return them back to the sky</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>This is a world covered with</td>
   </tr>
   <tr>
@@ -346,7 +350,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Tonight, we sing in harmony with you<br>On the Stella that binds the sky and sea together</td>
   </tr>
   <tr>
@@ -354,7 +358,7 @@ permalink: our_stella/
     <td>We will always be within the same light</td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>Warm courage sparkles as it flows in<br>Every time we share that courage among each other<br>We know we have always been connected in this way<br>Before we were even born</td>
   </tr>
   <tr>
@@ -362,7 +366,7 @@ permalink: our_stella/
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
+    <td class="name">All</td>
     <td>
     <em>stella, stella…</em>
     <br>
@@ -371,7 +375,7 @@ permalink: our_stella/
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 

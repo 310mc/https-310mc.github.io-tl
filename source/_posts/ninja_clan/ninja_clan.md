@@ -57,8 +57,8 @@ permalink: ninja_clan/
                         <div class="value">
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Mao" character="Mao"></a>
                         <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
@@ -146,8 +146,8 @@ permalink: ninja_clan/
                         <div class="value">
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Midori" character="Midori"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Mao" character="Mao"></a>
                         <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
@@ -393,7 +393,7 @@ permalink: ninja_clan/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Child-friendly Jutsu<!--ちびっこ向けの術--></div>
+                                                <div class="name">Kiddie-friendly Jutsu<!--ちびっこ向けの術--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">

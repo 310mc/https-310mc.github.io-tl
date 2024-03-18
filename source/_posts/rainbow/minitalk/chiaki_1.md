@@ -15,7 +15,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Rainbow. F
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
