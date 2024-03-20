@@ -624,7 +624,7 @@ hidden: true
 
 ## Translation Notes
 
-<em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Shooting Star Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typicall see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
+<em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Shooting Star Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typically see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
 
 The MV is digital technology mixed with the world of ninjas. It’s recommended to read <a href="/ninja_clan" target="_blank">the story</a> to learn more about this combination!
 

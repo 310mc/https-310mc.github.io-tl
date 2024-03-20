@@ -824,7 +824,7 @@ I’m gonna shine bright like the sun. Today, tomorrow, and forever onward. I’
 
 But just for today, I’ll respect that our seniors are here, and introduce myself like this:
 
-The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth!
+The black flame is the mark of effort! The burning fighting spirit, stained with mud!
 
 Ryusei Black! Nagumo Tetora…☆
 {% endbubble %}

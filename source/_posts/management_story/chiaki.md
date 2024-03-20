@@ -123,7 +123,7 @@ The red flame is the mark of justice! The sun of life, burning bright red! Ryuse
 
 You say yours too, Nagumo! …Ah! Did you forget it by any chance? Alright then, I’ll say it right now, so make sure to remember it!
 
-The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black! Nagumo Tetora…!
+The black flame is the mark of effort! The burning fighting spirit, stained with mud! Ryusei Black! Nagumo Tetora…!
 {% endbubble %}
 
 {% bubble Tetora %}

@@ -339,3 +339,6 @@ hidden: true
 </div>
 
 ## Translation Notes 
+
+[^1]: Here, Kanata says <em>mune</em> (lit. chest) for “heart”.
+[^2]: Sparkle ☆ is a classic Kanata phrase, typically said in his Ryusei Blue catchphrase. Even Kana-tee, the Aoumi Aquarium, has this catchphrase (with a pose for it).

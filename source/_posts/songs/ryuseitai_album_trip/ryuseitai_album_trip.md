@@ -3,7 +3,7 @@ title: "[ES!!] Ryuseitai Album TRIP"
 date: 2024-3-9 9:00:00
 categories:
 - [Enstars, ES!!]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -164,7 +164,7 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteor That Commits to Oneself] Tetora Nagumo</div>
+                                    <div class="card__name">[Meteor Who Commits to Oneself] Tetora Nagumo</div>
                                     <div class="card__jp">[己を貫くメテオ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
@@ -236,7 +236,7 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteor With an Honest Heart] Shinobu Sengoku</div>
+                                    <div class="card__name">[Meteor of an Open Heart] Shinobu Sengoku</div>
                                     <div class="card__jp">[素直な心のメテオ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
@@ -308,20 +308,20 @@ hidden: true
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteor That Nurtures] Kanata Shinkai</div>
+                                    <div class="card__name">[meteor that nurtures] Kanata Shinkai</div>
                                     <div class="card__jp">[はぐくむめてお] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Submerged in the Love<!--すきにひたる--></div>
+                                                <div class="name">submerged in the love<!--すきにひたる--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Courage of Individuality<!--じぶんらしさのゆうき--></div>
+                                                <div class="name">the courage of individuality<!--じぶんらしさのゆうき--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Ryuseitai’s Color of Dreams<!--りゅうせいたいのゆめいろ--></div>
+                                                <div class="name">ryuseitai’s color of dreams<!--りゅうせいたいのゆめいろ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -531,12 +531,12 @@ hidden: true
 
 {% img /img/es/ryuseitaialbumtrip/login1.jpg %}
 
-<img src="/img/es/ryuseitaialbumtrip/login2.jpg" height="410">
+{% img /img/es/ryuseitaialbumtrip/login1.png %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> to listen to the voice lines!</p>
 
 {% bubble Tetora smilesoft %}
-Each and every one of us had a different path. Each of those differences are irreplaceable memories, all residing in our songs!
+Each and every one of us took a different path. Each of those differences are irreplaceable memories, all residing in our songs!
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -548,7 +548,7 @@ When I’m with everyone, I truly feel as though many new worlds open up before 
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-This album will surely convey a new charm of Ryuseitai to everyone. I’d like you to listen to our songs and feel us by your side!
+This album will surely convey a new charm of Ryuseitai to everyone! I’d like you to listen to our songs and feel us by your side!
 {% endbubble %}
 
 {% bubble Kanata grin %}
@@ -570,7 +570,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 </div>
 
 {% bubble Kanata v2 %}
-“hello, we are ryuseitai!” *(waves)*
+“hello, we are ryuseitai!” *<th>(waves)</th>*
 
 “thank you very much for coming to watch our [album commemoration live]…♪”
 {% endbubble %}
@@ -596,7 +596,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori frownshake %}
-“Ehhh, that’d be such a pain, it’d just exhaust me further… Please just go on your own, or at least without me.”
+“Ehhh, that’s such a pain, it’d just exhaust me further… Please just go on your own, or at least without me.”
 {% endbubble %}
 
 {% bubble Shinobu worried %}
@@ -662,7 +662,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Shinobu smileconfident %}
 “That is why I, too, will support everyone’s ‘likes’!”
 
-“I’d love you all to accept my very own cheering to you, ‘Seisei Doudou Ouenka!’”
+“I’d love you all to accept my very own cheering to you, ‘Seisei Doudou Ouenka!’.”
 {% endbubble %}
 
 <div class="stories">
@@ -689,7 +689,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 </div>
 
 {% bubble Shinobu smileconfident %}
-“Thank you for listening to my solo, ‘Seisei Doudou Ouenka!’”
+“Thank you for listening to my solo, ‘Seisei Doudou Ouenka!’.”
 
 “Allow me to do a light introduction of myself! I’m Sengoku Shinobu!”
 
@@ -757,7 +757,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
-(Uu, I don’t wanna say it… But even our audience is doing a weird “bibibi” chant, too…)
+<th>(Uu, I don’t wanna say it… But even our audience is doing a weird “bibibi” chant, too…)</th>
 {% endbubble %}
 
 {% bubble Midori blushfrustrated %}
@@ -848,7 +848,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Shinobu smilesoft %}
 “It’s like the proverb, ‘different strokes for different folks’. We’re five different people bearing five different colors.”
 
-“*All for one, and one for all!*”
+“<em>All for one, and one for all!</em>”
 
 “We’ll continue to support each other and overcome any and all hardships together, as we always have.”
 {% endbubble %}
@@ -907,7 +907,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “This stage is what we ended up with, after sharing our opinions on what to do and what not to do.”
 
-“We discussed everything together, like the set list, the MC talks, the performance plan… Our live show is packed full with what makes us Ryuseitai, so I hope you enjoy yourselves to the very end! ☆”
+“We discussed everythin’ together, like the set list, the MC talks, the performance plan… Our live show’s packed full with what makes us Ryuseitai, so I hope you enjoy yourselves to the very end! ☆”
 {% endbubble %}
 
 {% bubble Tetora smileexplain %}
@@ -929,6 +929,58 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 <div class="msr-narration">
     <p style="font-size:20px;">♫ Now playing: <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> ♫</p>
 </div>
+
+{% bubble Midori smileexplain %}
+“That was ‘RELAX PARADISE’, brought to you by Ryuseitai and ‘Tropical Troppeys’.”
+{% endbubble %}
+
+{% bubble Midori sightired %}
+“Guhh, I’m so frustrated…”
+{% endbubble %}
+
+{% bubble Shinobu worried %}
+“What’s wrong, Midori-kun? Did you make a mistake in the choreography?”
+{% endbubble %}
+
+{% bubble Midori frownshake %}
+“No… At the start of the live show, Morisawa-senpai said that he wants to ‘sing this song another ten more times’, right?”
+
+“I got so baffled by that, like, ‘The hell is this guy on about?’, but… I just thought the <em>exact</em> same thing right now.”
+{% endbubble %}
+
+{% bubble Midori sad2 %}
+“I won’t actually ask for that many times, really… I just wanna dance with ‘Tropical Troppeys’ at least another nine more times…”
+{% endbubble %}
+
+{% bubble Shinobu awkward %}
+“Ermm… That isn’t really any different from ten times, you know~…?”
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+“human beings live their lives while [influencing] one another.”
+
+“you are also gradually resembling chiaki, aren’t you, midori?”
+{% endbubble %}
+
+{% bubble Midori sigh %}
+“Please don’t say something like that, it’s upsetting… <em>Sigh</em>, I can’t <em>believe</em> I’m becoming similar to that guy… This must be a nightmare…”
+{% endbubble %}
+
+{% bubble Kanata worried %}
+“midori~ we are still in the middle of the [live show], so [no sighing], okay?”
+{% endbubble %}
+
+{% bubble Shinobu smileconfident %}
+“Indeed! Next up is Midori-kun’s solo song, so it’s time to cheer up!”
+{% endbubble %}
+
+{% bubble Midori awkward %}
+“Yeah, I know. I’m dreading standing all alone on stage, though…”
+{% endbubble %}
+
+{% bubble Midori norsmile %}
+“If it’s alright, please listen to the next song… This is Takamine Midori’s ‘Green to the sky’.”
+{% endbubble %}
 
 <div class="stories">
 <div class="story">
@@ -953,6 +1005,46 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <p style="font-size:20px;">♫ Now playing: <a href="/green_to_the_sky" target="_blank">Green to the sky</a> ♫</p>
 </div>
 
+{% bubble Midori smile %}
+“This was Takamine Midori, singing ‘Green to the sky’…”
+
+“…Um. For the time being, I’ll introduce myself.”
+
+“I’m Takamine Midori. My hobby is collecting mascot character merchandise, my speciality is handstands, and…”
+{% endbubble %}
+
+{% bubble Midori frown %}
+“……Mm, that’s all I’ve got.”
+
+“…Up until this point, I’d somehow manage to make it through by leaving it up to everyone, like Morisawa-senpai…”
+
+“But from now on, we’ll be taking turns being the leader, so I’ve got to get used to doing MC segments.”
+{% endbubble %}
+
+{% bubble Midori sighdrop %}
+“I was able to get through the Tropical Live ‘cause it was a collaboration with ‘Tropical Troppeys’, but…”
+
+“I’m worried if I’ll actually be able to manage that again in the future…”
+{% endbubble %}
+
+{% bubble Midori northinking %}
+“Wait, then again… Ryuseitai powered up to be a unit that expresses each member’s own individuality, so…”
+
+“If I get to express my ‘likes’ next time too, I might be able to enjoy myself again…?”
+{% endbubble %}
+
+{% bubble Midori grin %}
+“I’ll be waiting for the next mascot character request~…♪”
+
+“…Mm? It looks like everything’s ready for the next segment of the live show.”
+{% endbubble %}
+
+{% bubble Midori smilesoft %}
+“It was nerve-wracking on my own, but I’m really glad I managed to pass the time until the next performance just fine.”
+
+“Right then, please listen to our next song: ‘Bokura no Stella’.”
+{% endbubble %}
+
 ### MC 10
 
 {% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
@@ -960,6 +1052,54 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 <div class="msr-narration">
     <p style="font-size:20px;">♫ Now playing: <a href="/our_stella" target="_blank">Bokura no Stella</a> ♫</p>
 </div>
+
+{% bubble Chiaki smileconfident %}
+“That was ‘Bokura no Stella’, brought to you by Ryuseitai! Thank you for listening! ☆”
+{% endbubble %}
+
+{% bubble Kanata worried %}
+“hrmph… saying it like [that] does not feel quite right, does it~?”
+{% endbubble %}
+
+{% bubble Kanata grin %}
+“let’s say ‘ryuseitai’ and ‘fishies’, okay?”
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+“Oh! You’re right, fish are a vital part to this song.”
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+“Let me announce that once more: that was ‘Bokura no Stella’, brought to you by Ryuseitai and the fish.”
+{% endbubble %}
+
+{% bubble Tetora curious %}
+“Shinkai-senpai, are you copying Midori-kun’s MC with that fish bit?”
+{% endbubble %}
+
+{% bubble Kanata nod %}
+“yes\~ i am [imitating] midori\~♪”
+
+“just like the [living creatures] coexisting in the ocean, we [evolve] by [influencing] each other.”
+
+“i wonder what sort of [evolution] the [powered-up] ryuseitai will achieve? isn’t the future so exciting…♪”
+{% endbubble %}
+
+{% bubble Tetora smilesoft %}
+“Yeah, it is. We can’t predict the future, not even what’ll happen just an hour or two later. And we may be a unit with many shameful mistakes—”
+
+“But we’ve got a proper track record of making it through in the end, after all our struggles. That’s why, I’m not worried at all.”
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+“Yeah. Just like today’s live show — As long as we combine our powers, we’ll surely be able to accomplish anything!”
+
+“Next up on the list is Kanata’s solo song.”
+{% endbubble %}
+
+{% bubble Kanata grin %}
+“yes\~ it is called ‘happy drops’. have a listen\~…♪”
+{% endbubble %}
 
 <div class="stories">
 <div class="story">
@@ -984,31 +1124,187 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <p style="font-size:20px;">♫ Now playing: <a href="/happy_drops" target="_blank">happy drops</a> ♫</p>
 </div>
 
+{% bubble Kanata v2 %}
+“hello, i am shinkai kanata. *puka, puka*…♪”
+
+“that was ‘happy drops’. which [solo song] did you like, everyone?”
+
+“…fufu, i like them [all], too~. i could never pick just one.”
+
+“we are all different, and we are all wonderful. that is what makes us ryuseitai…☆”
+
+“oh? chiaki is here with everyone else. that means…”
+
+“is it time for the [final spurt]?”
+{% endbubble %}
+
 {% img /img/es/ryuseitaialbumtrip/mc11_2.jpg %}
+
+{% bubble Chiaki fist %}
+“Yep! The live show’s about to reach its climax! Let’s burn our hearts a bright red, and give it everything we’ve got!”
+{% endbubble %}
+
+{% bubble Tetora smileconfident %}
+“We’ll be singing two songs in a row now! We’ll first start with this song—”
+{% endbubble %}
+
+{% bubble Kanata grin %}
+“even fishies are alive~♪”
+{% endbubble %}
+
+{% bubble Midori nod2 %}
+“Even fishies are alive~♪”
+{% endbubble %}
+
+{% bubble Shinobu shocked %}
+“Mm!? The “fish song” is not part of our set list, you know?”
+
+“Not to mention Midori-kun joining along with the song…”
+{% endbubble %}
+
+{% bubble Midori frown %}
+“I just did it by reflex… Uu, I think it’s completely ingrained into my mind at this point…”[^5]
+{% endbubble %}
+
+{% bubble Tetora awkward0 %}
+“Ahaha, my condolences to you… Right, let’s get back on track—”
+{% endbubble %}
+
+{% bubble Tetora fist %}
+“We’ll first start with this song! ‘Meteor Scramble ☆ Ryuseitai!’.”
+{% endbubble %}
 
 ### MC 12
 
 {% img /img/es/ryuseitaialbumtrip/mc12.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
+    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/Tenka_Muteki%E2%98%86Meteorangers!_(Lyrics)" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
 </div>
+
+{% bubble Chiaki smileconfident %}
+“That was ‘Tenka Muteki ☆ Meteorangers!’.”
+{% endbubble %}
+
+{% bubble Shinobu norsmile2 %}
+“This brings our Ryuseitai commemoration live show to an end!”
+{% endbubble %}
+
+{% bubble Kanata smilesoft %}
+“our songs are always the type to [cheer] you up.”
+
+“please stay [smiling] every day by listening to our [album] on repeat.”
+{% endbubble %}
+
+{% bubble Midori srsthinking %}
+“I gotta at least do the final greeting properly, right… Umm…”
+{% endbubble %}
+
+{% bubble Midori smile %}
+“Thank you for always supporting us.”
+
+“I know this is cliché to say, but we hope for your continued support from here on out, too.”
+{% endbubble %}
+
+{% bubble Tetora grin %}
+“Aight then, we look forward to seeing you the next time! ☆” *<th>(waves)</th>*
+{% endbubble %}
 
 ### MC 13
 
 {% img /img/es/ryuseitaialbumtrip/mc13.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">One with One</a> ♫</p>
+    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/One_with_One_(RYUSEITAI_ver.)_(Lyrics)" target="_blank">One with One</a> ♫</p>
 </div>
+
+{% bubble Shinobu worried %}
+“Midori-kun, why are you hiding behind my back?”
+{% endbubble %}
+
+{% bubble Tetora curious %}
+“Woah, he really is doin’ just that. But ‘cuz of the height difference, he’s not hidden at all.”
+{% endbubble %}
+
+{% bubble Midori blushshy %}
+“I completely forgot about the encore earlier, and greeted everyone like it was our final segment… Uuu, I’m so embarrassed…”
+{% endbubble %}
+
+{% bubble Kanata grin %}
+“fufu, it will be okay, midori.”
+
+“that earnest, [absent-minded] side of you is another one of your wonderful, [unique traits].”
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+“Plus, what you said wasn’t incorrect. Encores originally exist to respond to all the fans’ desires.”
+
+“And it’s because our fans wanted more from us that we came back to the stage once again.”
+
+“Everyone, thank you so much for such a grand encore call!” *<th>(waves)</th>*
+
+“We’ll end it with this song! ‘BRAND NEW STARS!!’.”
+{% endbubble %}
 
 ### MC 14
 
 {% img /img/es/ryuseitaialbumtrip/mc14.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/LINK" target="_blank">BRAND NEW STARS!!</a> ♫</p>
+    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/BRAND_NEW_STARS!!_(RYUSEITAI_Ver.)_(Lyrics)" target="_blank">BRAND NEW STARS!!</a> ♫</p>
 </div>
+
+{% bubble Kanata grin %}
+“thank you very much for coming to ryuseitai’s [commemoration live]~♪”
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+“It’s thanks to all of you that we got to have the best time of our lives. We got so much energy and courage from everyone! ☆”
+{% endbubble %}
+
+{% bubble Shinobu nod %}
+“We shall seal away all of the memories we made today into our hearts, and grow even stronger!”
+
+“Ryuseitai’s tale will only continue from here…♪”
+{% endbubble %}
+
+{% bubble Midori smilesoft %}
+“See you all another day.”
+{% endbubble %}
+
+{% bubble Tetora idle %}
+“Mm? That’s all, Midori-kun?”
+{% endbubble %}
+
+{% bubble Midori awkward %}
+“Yeah. I already said what I wanted to say earlier…”
+{% endbubble %}
+
+{% bubble Tetora norsmile %}
+“Aight, then I’ll do the final greeting with Midori-kun’s feelings in mind, too.”
+
+“Everyone~! Thank you so much for livening up the stage ‘til the very, very end! ☆” *<th>(waves)</th>*
+{% endbubble %}
+
+{% bubble Tetora surprised %}
+“Woah, there’s a kid crying.”
+{% endbubble %}
+
+{% bubble Kanata smilesoft2 %}
+“now, now… please show us a beautiful [smile], okay?”
+{% endbubble %}
+
+{% bubble Tetora worried %}
+“This isn’t our final parting or anythin’, so don’t be sad, okay?”
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+“Exactly! Tears don’t suit you!”
+
+“We’re heroes, and it’s our duty to make everyone smile. We’ll come back again, we promise you that.”
+
+“Farewell, until the next time we meet! See you then…☆” *<th>(waves)</th>*
+{% endbubble %}
 
 {% img /img/es/ryuseitaialbumtrip/tripchibi2.jpg %}
 
@@ -1022,7 +1318,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 ## Translation Notes 
 
 [^1]: This tale is shown in <a href="/ninja_clan" target="_blank">Ninja Clan</a>, the story connected to this song.
-[^2]: The “likes/loves” mentioned refers to the thing(s) they love. In Japanese, the word is <em>suki</em> or <em>daisuki</em>. Ryuseitai's “likes” is a running theme in their story, songs, as well as their solo songs. In particular, <a href="/tropical" target="_blank">Tropical</a> and its song <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> discuss it.
+[^2]: The “likes/loves” mentioned refers to the thing(s) they love. In Japanese, the word is <em>suki</em> or <em>daisuki</em>. Ryuseitai’s “likes” is a running theme in their story, songs, as well as their solo songs. In particular, <a href="/tropical" target="_blank">Tropical</a> and its song <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> discuss it.
 [^3]: This is a reference to the main story, when Chiaki and Kanata fire off a Ryuseitai move.
 [^4]: These are the mascot characters that appeared in <a href="/tropical" target="_blank">Tropical</a>.
 [^5]: The fish song is performed in <a href="/stella_maris" target="_blank">Stella Maris</a>, and Midori goes through quite the experience while practicing. Please give the story a read to find out what happens!

@@ -3,7 +3,7 @@ title: "[ES!!] Tropical"
 date: 2023-7-8 9:00:00
 categories:
 - [Enstars, ES!!]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 tags:
 - Kino Seitaro
 - Event Story

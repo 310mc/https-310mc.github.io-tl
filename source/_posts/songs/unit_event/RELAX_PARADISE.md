@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 tags:
 - Song Lyrics
 description: "Translation of RELAX PARADISE Song Lyrics by 310mc. By Ryuseitai from the Unit Event Tropical."
@@ -395,11 +395,11 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td class="lyrics">Jungle~~~~~! (Roaaar~)</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td class="lyrics"><em>(Welcome Paradise!)</em></td>
+    <td class="lyrics">
+    Jungle~~~~~! (Roaaar~)
+    <br>
+    <em>(Welcome Paradise!)</em>
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -885,11 +885,11 @@ permalink: RELAX_PARADISE/
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="Our Stella – Bokura no Stella"
+              alt="Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>Our Stella – Bokura no Stella</span>
+          <span>Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>

@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 tags:
 - Song Lyrics
 description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
@@ -84,7 +84,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    While wrapped up in the rising hope within the awakening morning
+    While wrapped up in the rising hope, awoken to the morning
     <br>
     I’ll sing with you[^1]
     <br>
@@ -101,7 +101,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
+    <td>I kept aiming towards the very ends of the ideal I refused to abandon[^3]</td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -109,7 +109,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such reckless days that I was able to reach this point</td>
+    <td>It’s because I worked so desperately hard during those days that I was finally able to reach this point[^4]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -133,11 +133,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
+    <td>The feelings you gave me[^5]</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Are dazzlingly beautiful shooting stars</td>
+    <td>Are dazzlingly beautiful meteors</td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -209,11 +209,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td>We’ll raise our voice</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
+    <td>From where we stand here</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
@@ -243,7 +243,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    While wrapped up in the rising hope within the awakening morning
+    While wrapped up in the rising hope, awoken to the morning
     <br>
     I’ll sing with you[^1]
     <br>
@@ -260,7 +260,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>I kept heading towards the very ends of the ideal I refused to abandon[^3]</td>
+    <td>I kept aiming towards the very ends of the ideal I refused to abandon[^3]</td>
   </tr>
   <tr>
     <td><br></td>
@@ -268,7 +268,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>It’s because I went through such frantic days that I was able to reach this point</td>
+    <td>It’s because I worked so desperately hard during those days that I was finally able to reach this point[^4]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -288,11 +288,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The feelings you gave me[^4]</td>
+    <td>The feelings you gave me[^5]</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Are dazzlingly beautiful shooting stars</td>
+    <td>Are dazzlingly beautiful meteors</td>
   </tr>
   <tr>
     <td><br></td>
@@ -336,7 +336,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You repeatedly appreciate my individuality[^5]</td>
+    <td>You repeatedly appreciate my individuality[^6]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
@@ -359,7 +359,7 @@ hidden: true
     <td>
     My heart yells out
     <br>
-    As the shooting star that intersects with you — Now, let’s sing
+    As the meteor that intersects with you — Now, let’s sing
     </td>
   </tr>
   <tr>
@@ -376,7 +376,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>We chanced upon one another through our own individual fates[^6]</td>
+    <td>We chanced upon one another through our own individual fates[^7]</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
@@ -408,11 +408,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>I’ll raise my voice</td>
+    <td>We’ll raise our voice</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>From where I stand here</td>
+    <td>From where we stand here</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
@@ -588,13 +588,14 @@ hidden: true
 
 ## Translation Notes
 
-NEW DAYBREAK has no first-person pronouns, so they don’t mention “I” or “we” in the lyrics. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I have chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
+NEW DAYBREAK has no first-person pronouns in the lyrics, so they don’t mention any “I” or “we”. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I’ve chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
 
-That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The shooting star intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
+That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The meteor intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
 
 [^1]: Tetora’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^2]: Midori’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^3]: Shinobu’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^4]: Here, feelings can be both “desires” and “feelings”.
-[^5]: Kanata’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
-[^6]: Chiaki’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^4]: Here, the word for “worked so desperately hard” is <em>gamushara</em>, which is to focus on one objective with such extreme enthusiasm that you practically ignore everything else to reach it. Another way to put it is “reckless” or “frantic”. It’s a word that commonly appears in Ryuseitai songs as it fits their storyline and journey.
+[^5]: Here, feelings can be both “desires” and “feelings”.
+[^6]: Kanata’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
+[^7]: Chiaki’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.

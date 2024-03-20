@@ -87,7 +87,7 @@ Ryusei Red! Morisawa Chiaki…!
 {% img /img/es/idolstory/legendaryhero/2.jpg %}
 
 {% bubble Tetora v2 %}
-The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth!
+The black flame is the mark of effort! The burning fighting spirit, stained with mud!
 
 Ryusei Black! Nagumo Tetora…!
 {% endbubble %}

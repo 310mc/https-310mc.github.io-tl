@@ -142,7 +142,7 @@ Midori-kun!
 {% endbubble %}
 
 {% bubble Tetora %}
-“The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth! Ryusei Black, Nagumo Tetora…! ☆”
+“The black flame is the mark of effort! The burning fighting spirit, stained with mud! Ryusei Black, Nagumo Tetora…! ☆”
 {% endbubble %}
 
 {% bubble Shinobu %}

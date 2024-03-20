@@ -1185,7 +1185,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="thumbimage">
         <img
             src="/img/es/songs/ourstella.jpg"
-            alt="Our Stella – Bokura no Stella"
+            alt="Bokura no Stella"
         />
     </div>
     <a href="/our_stella" class="storyName" target="_blank">

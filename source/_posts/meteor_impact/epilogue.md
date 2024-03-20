@@ -73,7 +73,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% bubble Kanata %}
 chiaki~♪
 
-i Sent the children back home. i only went up to the station[^1] for the Train, though.
+i Sent the children back home. i only went up to the station for the Train, though.[^1]
 
 i’ve completed my mission! will you praise me, chiaki? ♪
 

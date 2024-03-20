@@ -78,7 +78,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    In ancient times, within the far ends of the galaxy — five colored stars were born
+    In ancient times, at the far ends of the galaxy — five colored stars were born
     <br>
     With bonds bearing our destiny, we soar across the universe
     </td>
@@ -193,8 +193,6 @@ hidden: true
   </tr>
 </table>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
-
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
@@ -205,7 +203,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    In ancient times, within the far ends of the galaxy — five colored stars were born
+    In ancient times, at the far ends of the galaxy — five colored stars were born
     <br>
     With bonds bearing our destiny, we soar across the universe
     </td>
@@ -292,11 +290,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>If you’re bound to the past that keeps repeating itself</td>
+    <td>If you find yourself bound to the past that keeps repeating itself</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Then let’s remember</td>
+    <td>Then let’s recall</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
@@ -387,8 +385,6 @@ hidden: true
     <td>Today, too, a new radiance protects the Earth</td>
   </tr>
 </table>
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 
@@ -545,5 +541,3 @@ hidden: true
 {% btn /comet_show,, star, Event Story: Comet Show %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
-
-## Translation Notes

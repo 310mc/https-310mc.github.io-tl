@@ -86,7 +86,7 @@ hidden: true
   </tr>
   <tr>
     <td>
-      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now
+      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now[^]
       <br>
       And I know that you truly, truly can’t hold back those feelings of love, so
     </td>
@@ -123,7 +123,7 @@ hidden: true
       <br>
       That part of you defines all the love stuffed inside you
       <br>
-      Just sound an SOS, and I’ll leap to you with an ‘oh-yes!’ to let it out for you
+      Just sound out an SOS and I’ll leap over to pull you out of your distress[^1]
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ hidden: true
   </tr>
    <tr>
     <td>
-      Let’s walk down the same ‘path’ in a pure, correct way
+      Let’s walk down the same ‘path’ in a pure, correct way[^2]
       <br>
       Let’s teach each other the rare quality of something called “unusual,” “strange”
       <br>
@@ -175,7 +175,7 @@ hidden: true
       <br>
       That’s why I’m sure you’re bound to find it
       <br>
-      <em>Let’s go the ‘route’! Go the ‘route’! ‘Faraway’!</em>[^]
+      <em>Let’s go the ‘route’! Go the ‘route’! ‘Faraway’!</em>[^3]
     </td>
   </tr>
   <tr>
@@ -365,3 +365,18 @@ hidden: true
 </div>
 
 ## Translation Notes
+
+The song title Seisei Doudou Ouenka! (Seisei Doudou Cheer song!) is made up of wordplays. <em>Seisei doudou</em> (正々堂々) means honest and bold. The title, however, uses different kanji for each part. 
+
+- 清 <em>sei:</em> Pure
+- 正 <em>sei:</em> Correct
+- 同 <em>dou:</em> Same
+- 道 <em>dou:</em> Path
+
+As for <em>ouenka</em> (cheer song), this typically refers to the songs a Japanese cheer squad would sing. Similar to blaaaah tough guy
+
+Shinobu doesn’t use his typical speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, ADDNAME, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-pronoun for a boy).
+
+[^1]: Originally, Shinobu rhymes “SOS” with “oh-hisse” (pronounced oo-es), the French version of “heave-ho”. I decided to make it rhyme with “distress” in my translation. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
+[^2]: This line references his song title, “Seisei Doudou”. Please check the translation notes for more information!
+[^3]: These English lyrics sounds as if Shinobu is saying “gozaru” when singing!

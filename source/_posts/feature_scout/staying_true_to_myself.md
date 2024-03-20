@@ -13,6 +13,7 @@ tags:
 description: "[ES!!] Translation of a Midori Feature Scout Story, featuring Tetora, Shinobu, and Mao. Midori struggles to come up with a personalized outfit that he'd like to wear."
 permalink: staying_true_to_myself/
 ---
+
 ![](/img/es/idolstory/stayingtrue/c1.jpg)|![](/img/es/idolstory/stayingtrue/c2.jpg)
 :-:|:-:
 
@@ -176,7 +177,7 @@ Ah—I was hoping to buy a sweater or shirt that has a mascot character on it so
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-…That sounds more like comfy clothes for home to me. I doubt you can make use of it for your personalized outfit.
+…That sounds more like comfy clothes for home to me. I doubt you could make use of it for your personalized outfit.
 {% endbubble %}
 
 {% bubble Midori worried0 %}
@@ -188,11 +189,11 @@ Now, now, settle down… I was thinking to myself, but…
 {% endbubble %}
 
 {% bubble Midori curious %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

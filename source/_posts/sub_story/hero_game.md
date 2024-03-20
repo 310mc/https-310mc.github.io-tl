@@ -255,7 +255,7 @@ Whaa, when did he change his clothes…?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Ossu! The black flame is the mark of effort! The burning fighting spirit, stained with the soil of the earth!
+Ossu! The black flame is the mark of effort! The burning fighting spirit, stained with mud!
 
 Ryusei Black, Nagumo Tetora…! It just so happens that the Karate Club has the day off today, so for my training, I’mma go all out in this instead~♪
 {% endbubble %}

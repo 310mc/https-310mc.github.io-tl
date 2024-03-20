@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 tags:
 - Song Lyrics
 description: "Translation of Colors Arise Song Lyrics by 310mc. By Ryuseitai from the Unit Event Supervillain."
@@ -63,7 +63,7 @@ permalink: colors_arise/
 <!-- more -->
 
 ## Index
-<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a>
+<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
 ## MV Size
 
@@ -71,7 +71,7 @@ permalink: colors_arise/
 
 {% img /img/es/eventstory/supervillain/songcover.jpg %}
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4" target="_blank">here</a> for the video! Follow along the timestamps written in the translation! Ryuseitai Power Up MV version <a href="https://www.youtube.com/watch?v=20Jg0tt1pL8" target="_blank">here</a>!</p>
 
 <p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
@@ -82,15 +82,21 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, I’ll raise up a blinding beam of light</td>
+    <td>
+    <em>Colors Arise!</em> Now, I’ll raise up a blinding beam of light
+    </td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td>That’s right, I’ll proudly</td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
+    <td>That’s right, I’ll</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
+    <td>proudly</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>make my own light shine!</td>
+    <td>shine <em>my own light!</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -118,7 +124,7 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(Let’s fire the heart!)</td>
+    <td><em>(Let’s fire the heart!)</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -133,7 +139,7 @@ permalink: colors_arise/
     <td>The mistakes</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>Will be different in each route</td>
   </tr>
   <tr>
@@ -141,12 +147,12 @@ permalink: colors_arise/
     <td>That wish of yours is an unstoppable</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span> & <span class="tetora">Tetora</span></td>
-    <td>Meteor that soars through the sky freely</td>
-  </tr>
-  <tr>
     <td class="name">All</td>
-    <td>(Your light!)</td>
+    <td>
+    Meteor that soars through the sky freely
+    <br>
+    <em>(Your Light!)</em>
+    </td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -169,8 +175,12 @@ permalink: colors_arise/
     <td>(Your courage)</td>
   </tr>
   <tr>
-    <td class="name">All</td>
-    <td>Your soul! Your heart!</td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
+    <td><em>Your Soul!</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
+    <td><em>Your Heart!</em></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -182,7 +192,11 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, we realize — there isn’t only one, is there?<br>That’s right,</td>
+    <td>
+    <em>Colors Arise!</em> Now, we realize — there isn’t only one, is there?
+    <br>
+    That’s right,
+    </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -190,7 +204,15 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>the infinite colors<br>Look, we can see in our eyes — the hue that adorns you<br>That’s right, we don’t need a reason<br>Because we’ve now stacked our resolve onto each other</td>
+    <td>
+    the infinite colors
+    <br>
+    Look, we can see in <em>our eyes</em> — the hue that adorns you
+    <br>
+    That’s right, we don’t need a reason
+    <br>
+    Now that we’ve met and stacked our resolve onto one another[^1]
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -198,7 +220,11 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(We’re fighting for justice.)<br>(Let’s go ahead! Let’s go ahead!)</td>
+    <td>
+    <em>(We’re fighting for justice.)</em>
+    <br>
+    <em>(Let’s go ahead! Let’s go ahead!)</em>
+    </td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -234,7 +260,13 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, I’ll raise it up, this belongs to nobody but me<br>That’s right, this is my color, and I’ll proudly make it shine<br>You can see it within your eyes, can’t you? All the hues reaching you</td>
+    <td>
+    <em>Colors Arise!</em> Now, I’ll raise it up, this belongs to nobody but me
+    <br>
+    That’s right, I’ll proudly shine <em>my color</em>
+    <br>
+    You can see it within <em>your eyes</em>, can’t you? All the hues reaching you
+    </td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -245,20 +277,16 @@ permalink: colors_arise/
     <td>Now, let’s move forward</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td>With the ensemble formed through our resolve</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
     <td class="name">All</td>
-    <td>Signalize our own light!</td>
+    <td>
+    With the ensemble formed through our resolve,
+    <br>
+    We’ll <em>signalize our own light!</em>
+    </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Because we have to be heroes!</td>
+    <td><em>Because we have to be heroes!</em></td>
   </tr>
 </table>
 
@@ -273,15 +301,21 @@ permalink: colors_arise/
 <table class="lyrics">
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, I’ll raise up a blinding beam of light</td>
+    <td>
+    <em>Colors Arise!</em> Now, I’ll raise up a blinding beam of light
+    </td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td>That’s right, I’ll proudly</td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
+    <td>That’s right, I’ll</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
+    <td>proudly</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>make my own light shine!</td>
+    <td>shine <em>my own light!</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -309,7 +343,7 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(Let’s fire the heart!)</td>
+    <td><em>(Let’s fire the heart!)</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -324,7 +358,7 @@ permalink: colors_arise/
     <td>The mistakes</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>Will be different in each route</td>
   </tr>
   <tr>
@@ -332,12 +366,12 @@ permalink: colors_arise/
     <td>That wish of yours is an unstoppable</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span> & <span class="tetora">Tetora</span></td>
-    <td>Meteor that soars through the sky freely</td>
-  </tr>
-  <tr>
     <td class="name">All</td>
-    <td>(Your light!)</td>
+    <td>
+    Meteor that soars through the sky freely
+    <br>
+    <em>(Your Light!)</em>
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -360,8 +394,12 @@ permalink: colors_arise/
     <td>(Your courage)</td>
   </tr>
   <tr>
-    <td class="name">All</td>
-    <td>Your soul! Your heart!</td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
+    <td><em>Your Soul!</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
+    <td><em>Your Heart!</em></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -373,7 +411,11 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, we realize — there isn’t only one, is there?<br>That’s right,</td>
+    <td>
+    <em>Colors Arise!</em> Now, we realize — there isn’t only one, is there?
+    <br>
+    That’s right,
+    </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -381,10 +423,14 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>the infinite colors<br>Look, we can see in our eyes — the hue that adorns you</td>
+    <td>
+    the infinite colors
+    <br>
+    Look, we can see in <em>our eyes</em> — the hue that adorns you
+    </td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td>That’s right, time has already been engraved</td>
   </tr>
   <tr>
@@ -393,7 +439,7 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Will surely signalize our own light!</td>
+    <td>Will surely <em>signalize our own light!</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -416,16 +462,16 @@ permalink: colors_arise/
     <td>Reach forth!</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Stretch out our hands to those</td>
+    <td class="name">All</td>
+    <td>To those who wait for rescue</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Who wait for rescue</td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>We’ll stretch out our hands to them</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(Reach for your hand!)</td>
+    <td><em>(Reach for your hand!)</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -436,12 +482,16 @@ permalink: colors_arise/
     <td>There may be a boundary where trying to surpass it seems futile</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="tetora">Tetora</span> & <span class="kanata">Kanata</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
     <td>But the strength to overcome it</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Are meteors that can shoot out their own radiance together<br>(Your light!)</td>
+    <td>
+    Are meteors that can shoot out their own radiance together
+    <br>
+    <em>(Your Light!)</em>
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -465,7 +515,7 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Various colors!</td>
+    <td><em>Various colors!</em></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -477,7 +527,19 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Look, if it’s a signal you need, I’ll send you one<br>You’re bound to understand it, aren’t you?<br>That’s right, that’s the white light that embraces the infinite colors<br>We reflect one another within our eyes, those respectable hues<br>That’s right, we don’t need a reason<br>Because we’ve now stacked our resolve onto each other</td>
+    <td>
+    Look, if it’s a signal you need, I’ll send you one
+    <br>
+    You’re bound to understand it, aren’t you?
+    <br>
+    That’s right, that’s the white light that embraces the infinite colors
+    <br>
+    We reflect one another within <em>our eyes</em>, those respectable hues
+    <br>
+    That’s right, we don’t need a reason
+    <br>
+    Now that we’ve met and stacked our resolve onto one another[^1]
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -485,7 +547,11 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(We’re fighting for justice.)<br>(Let’s go ahead! Let’s go ahead!)</td>
+    <td>
+    <em>(We’re fighting for justice.)</em>
+    <br>
+    <em>(Let’s go ahead! Let’s go ahead!)</em>
+    </td>
   </tr>
   <tr>
     <td><br></td>
@@ -521,10 +587,16 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Colors Arise!<br>Now, I’ll raise it up, this belongs to nobody but me<br>That’s right, this is my color, and I’ll proudly make it shine<br>You can see it within your eyes, can’t you? All the hues reaching you</td>
+    <td>
+    <em>Colors Arise!</em> Now, I’ll raise it up, this belongs to nobody but me
+    <br>
+    That’s right, I’ll proudly shine <em>my color</em>
+    <br>
+    You can see it within <em>your eyes</em>, can’t you? All the hues reaching you
+    </td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>That’s right, time has already been engraved</td>
   </tr>
   <tr>
@@ -532,7 +604,7 @@ permalink: colors_arise/
     <td>This vow will surely</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>signalize</td>
   </tr>
   <tr>
@@ -545,29 +617,27 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>(We are shooting stars.)</td>
+    <td><em>(We are shooting stars.)</em></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
     <td>Now, let’s move forward</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
-    <td>With the ensemble formed through our resolve</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
     <td class="name">All</td>
-    <td>Signalize our own light!</td>
+    <td>
+    With the ensemble formed through our resolve,
+    <br>
+    We’ll <em>signalize our own light!</em>
+    </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Because we have to be heroes!</td>
+    <td><em>Because we have to be heroes!</em></td>
   </tr>
 </table>
+
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 
@@ -600,11 +670,11 @@ permalink: colors_arise/
       <div class="thumbimage">
           <img
               src="/img/es/songs/ourstella.jpg"
-              alt="Our Stella – Bokura no Stella"
+              alt="Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
-          <span>Our Stella – Bokura no Stella</span>
+          <span>Bokura no Stella</span>
           <span class="read"></span>
       </a>
   </div>
@@ -616,3 +686,13 @@ permalink: colors_arise/
 {% btn /supervillain,, star, Event Story: Supervillain %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
+
+## Translation Notes 
+
+This song is the first song to introduce Ryuseitai Power Up, i.e. switching from their previous logo to the new logo and new unit formation, as seen in the MV. Shortly after this song and its event, Ryuseitai’s new unit system was introduced (all leaders). In this case, this is Tetora’s song as the leader. <a href="/supervillain" target="_blank">Supervillain</a> details how these changes begin to happen!
+
+“Ryuseitai Power Up” is how the new Ryuseitai was introduced by the game, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
+
+For more information on Ryuseitai’s status, please refer to the timeline and relationship chart from their <a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a> stream!
+
+[^1]: In Japanese, they say <em>kasane aeta</em> (stack + each other), which typically means “(mutually) stack on each other.” But in this case, the kanji used for <em>aeta</em> is “meet”, adding an extra meaning on top.

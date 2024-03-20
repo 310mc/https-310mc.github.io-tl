@@ -362,3 +362,11 @@ hidden: true
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
+
+## Translation Notes 
+
+[^1]: Tetora doesn’t use his typical speech quirk ending <em>ssu</em> in his second solo. This is unlike his first solo, IRON HEART TIGER, which had many lyrics where he sings in his usual speech quirk. Tetora speaking in a more plain manner without his <em>ssu</em> speech quirk can be seen in his 5* unit event, Supervillain. https://ensemble-stars.fandom.com/wiki/IRON_HEART_TIGER!_(Lyrics)
+[^2]: Tetora sings about <em>suki</em> (with brackets around the word), lit. “likes”. Ryuseitai’s “likes” is a running theme in their solo songs, as part of showing their unique individual traits.
+*fix midori’s too
+[^3]: “Power of fate” is originally just “fate power” in Japanese, like the solo’s title. It could also be read as "fate-power", "fate(ful) power", or "fate’s power".
+[^4]: "Smeared with mud" is a common phrase for Tetora, as well as a reference to his Ryusei Black catchphrase: “The black flame is the mark of effort! The burning fighting spirit, stained with mud!”

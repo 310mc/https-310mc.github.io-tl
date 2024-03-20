@@ -13,7 +13,7 @@ categories:
 - [Enstars, Tomoya]
 - [Enstars, Hajime]
 - [Enstars, Ra*bits]
-- [Enstars, Ryuseitai, Ryuseitai POWER UP]
+- [Enstars, Ryuseitai, Ryuseitai Power Up]
 tags:
 - Event Story
 - Akira
@@ -233,7 +233,7 @@ That’s the main point of the “Parallel World” project.
 {% endbubble %}
 
 {% bubble Rchiaki %}
-“‘Parallel World’… In hero-language, that’d be like a multiverse, huh?”
+“‘Parallel World’… In the Heronese language, that’d be like a multiverse, huh?”
 
 “Which means there are parallel versions of Ra\*bits that went down a different path from the Ra\*bits we know.”
 
