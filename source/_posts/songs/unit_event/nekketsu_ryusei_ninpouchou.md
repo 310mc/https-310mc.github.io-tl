@@ -135,7 +135,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Truth and lies stand back-to-back amidst the chaotic world</td>
+    <td>Truths and lies stand back-to-back amidst the chaotic world</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
@@ -181,7 +181,7 @@ hidden: true
     <td>
     So watch closely!
     <br>
-    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might[^3]
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our desperate might[^3]
     <br>
     We are the warriors of justice who protect peace
     </td>
@@ -204,7 +204,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>With our powers combined</td>
+    <td>While combining our powers</td>
   </tr>
   <tr>
     <td><br></td>
@@ -229,7 +229,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our desperate might
     <br>
     This heroic, daring spirit is not simply for show, yo—![^4]
     <br>
@@ -291,7 +291,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Truth and lies stand back-to-back amidst the chaotic world</td>
+    <td>Truths and lies stand back-to-back amidst the chaotic world</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
@@ -337,7 +337,7 @@ hidden: true
     <td>
     So watch closely!
     <br>
-    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might[^3]
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our desperate might[^3]
     </td>
   </tr>
   <tr>
@@ -398,7 +398,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>This unorthodox path’s just fine for us — We’ll show you how impressive it is</td>
+    <td>This unorthodox path’s just fine for us — We’ll show you what we’ve got</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -428,7 +428,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>With our powers combined</td>
+    <td>While combining our powers</td>
   </tr>
   <tr>
     <td><br></td>
@@ -443,7 +443,7 @@ hidden: true
     <br>
     We’ll simply cut through the enemies in succession, so watch closely!
     <br>
-    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our reckless might
+    Sparkle ☆ The Zealous Ninja Arts, passed down for generations — displayed with all our desperate might
     <br>
     This heroic, daring spirit is not simply for show, yo—!
     <br>

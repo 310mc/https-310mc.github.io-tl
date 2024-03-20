@@ -290,6 +290,8 @@ permalink: colors_arise/
   </tr>
 </table>
 
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
@@ -467,7 +469,7 @@ permalink: colors_arise/
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>We’ll stretch out our hands to them</td>
+    <td>We’ll stretch out our hand to them</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -528,9 +530,7 @@ permalink: colors_arise/
   <tr>
     <td class="name">All</td>
     <td>
-    Look, if it’s a signal you need, I’ll send you one
-    <br>
-    You’re bound to understand it, aren’t you?
+    Look, if it’s a signal you need, I’ll send you one — You’re bound to understand it, aren’t you?
     <br>
     That’s right, that’s the white light that embraces the infinite colors
     <br>
