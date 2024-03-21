@@ -1,6 +1,6 @@
 ---
 title: "Rainbow – Chiaki Produce Course: Injury and Infirmary"
-date: 2024/2/15 9:01:00
+date: 2018/10/1 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:

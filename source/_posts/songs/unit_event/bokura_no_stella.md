@@ -12,7 +12,7 @@ categories:
 tags:
 - Song Lyrics
 description: "Translation of Bokura no Stella – Our Stella Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."
-permalink: our_stella/
+permalink: bokura_no_stella/
 ---
 
 {% img /img/es/songs/ourstella.jpg %}
@@ -447,7 +447,7 @@ permalink: our_stella/
               alt="Bokura no Stella"
           />
       </div>
-      <a href="/our_stella" class="storyName" target="_blank">
+      <a href="/bokura_no_stella" class="storyName" target="_blank">
           <span>Bokura no Stella</span>
           <span class="read"></span>
       </a>

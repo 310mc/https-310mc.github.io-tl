@@ -11,7 +11,7 @@ categories:
 tags:
 - Idol Story
 - Umeda Chitose
-description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Hinata, Tomoya, Mitsuru, and Hiiro. Hinata and the others catch news of Tetora’s personalized outfit. They ask him what he’d like for the design, but all he can say is a “cool-looking outfit”…"
+description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Hinata, Tomoya, Mitsuru, and Hiiro. Hinata and the others ask Tetora what he’d like for his personalized outfit, but all he can say is something “cool-looking”…"
 permalink: someday_on_the_path_to_my_ideal/
 ---
 

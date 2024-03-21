@@ -101,9 +101,9 @@ But the thawed snow that overcame the cold harsh winter makes the vegetables tas
 
 And it packs them full of nutrients, as if it's saying, “We hope you can endure this looong, tough season.”
 
-Eating these spring vegetables that have worked their hardest to grow almost makes me feel like I’m doing something wrong, and my heart races… Hehe, I’m just joking~♪
+Eating these spring vegetables that have worked their hardest to grow almost makes me feel like I’m doing something wrong, and my heart races… Heheh, I’m just joking~♪
 
-……
+…………
 
 Umm, I can’t just keep chatting away like this, so please let me start talking about something a little more serious. This might just be a misunderstanding, so it’s a little hard to ask…
 
@@ -115,13 +115,13 @@ But lately, I feel like I’ve mostly been doing individual work as myself, rath
 
 Or rather, I’ve been getting a lot of jobs that only request me…
 
-Recently, all I’ve been doing is appear in TV shows, especially with that pretty girl idol from my agency, since I’ve interacted with him before.
+Recently, all I’ve been doing is appear in TV shows, especially with that pretty girl idol from my agency, since I’ve interacted with them before.
 
-Ah… As you know, he may be called a “pretty girl idol”, but he’s actually a guy.
+Ah… As you know, they may be called a “pretty girl idol”, but they’re actually a guy.
 
-It seems like he’s always looking out for me for some reason, and that alone makes me happy, but…
+It seems like they’re always looking out for me for some reason, and that alone makes me happy, but…
 
-I’ve been getting influenced by his image, so lately I think I’m also being recognized as someone who has feminine looks…
+I’ve been getting influenced by their image, so lately I think I’m also being recognized as someone who has feminine looks…
 
 Even magazines have been writing about us, saying: “The hot new topic! The prettiest sisters in the male idol industry!”
 
@@ -131,7 +131,7 @@ But I’m not a pretty girl, so I feel as though I’m deceiving the whole world
 
 Also, if I’m advertised in that sort of way— Although I can’t say much about Tomoya-kun, since he’s had to dress up as a girl for Drama Club performances…
 
-Mitsuru-kun might feel restricted, and well — He may not be able to properly make the most of his strengths, even though he’s becoming so much cooler recently.
+Mitsuru-kun might feel restricted, and well… He may not be able to properly make the most of his strengths, even though he’s becoming so much cooler recently.
 
 And this kind of development will also make it harder for Ni~chan to return to us, since I think he’s always disliked being called cute.
 

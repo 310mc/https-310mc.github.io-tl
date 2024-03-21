@@ -481,7 +481,7 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 <big>Thank you for reading Ryuseitai’s Climax Event! Please scroll down or click <a href="#Story-Highlights-Text">here</a> for the text version!</big>
 
-<big>Please take a look at the song lyrics for this event too, <a href="/our_stella" target="_blank">Our Stella</a>.</big>
+<big>Please take a look at the song lyrics for this event too, <a href="/bokura_no_stella" target="_blank">Bokura no Stella — Our Stella</a>.</big>
 
 {% img /img/es/eventstory/stellamaris/storyhighlights.png %}
 

@@ -447,7 +447,7 @@ permalink: ryuseitai_album_trip/
               alt="Bokura no Stella"
           />
       </div>
-      <a href="/our_stella" class="storyName" target="_blank">
+      <a href="/bokura_no_stella" class="storyName" target="_blank">
           <span>08. Bokura no Stella</span>
           <span class="read"></span>
       </a>
@@ -1045,7 +1045,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:18px;">♫ Now playing: <a href="/our_stella" target="_blank">Bokura no Stella</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/bokura_no_stella" target="_blank">Bokura no Stella</a> ♫</p>
 </div>
 
 {% bubble Chiaki smileconfident %}

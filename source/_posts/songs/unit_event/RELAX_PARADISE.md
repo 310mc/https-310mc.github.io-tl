@@ -920,7 +920,7 @@ permalink: RELAX_PARADISE/
               alt="Bokura no Stella"
           />
       </div>
-      <a href="/our_stella" class="storyName" target="_blank">
+      <a href="/bokura_no_stella" class="storyName" target="_blank">
           <span>Bokura no Stella</span>
           <span class="read"></span>
       </a>

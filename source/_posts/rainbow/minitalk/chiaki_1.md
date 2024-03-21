@@ -1,6 +1,6 @@
 ---
 title: "Rainbow – Chiaki Produce Course: Snoring"
-date: 2024/2/16 9:00:00
+date: 2018/10/1 9:00:00
 categories:
 - [Enstars, Chiaki]
 tags:

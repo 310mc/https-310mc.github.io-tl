@@ -499,7 +499,7 @@ permalink: NEW_DAYBREAK/
               alt="Bokura no Stella"
           />
       </div>
-      <a href="/our_stella" class="storyName" target="_blank">
+      <a href="/bokura_no_stella" class="storyName" target="_blank">
           <span>Bokura no Stella</span>
           <span class="read"></span>
       </a>
@@ -591,7 +591,7 @@ permalink: NEW_DAYBREAK/
 
 <b>(2.)</b> The “you” in “I’ll sing with you,” “The feelings you gave me,” and “The meteor intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
 
-<b>(3.)</b> This song is sung under the all-leaders Ryuseitai formation. In other words, there is no designated one leader for NEW DAYBREAK.
+<b>(3.)</b> This song is sung under the all-leaders Ryuseitai formation. In this case, there is no designated one leader for NEW DAYBREAK.
 
 [^1]: Tetora’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^2]: Midori’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
