@@ -180,7 +180,7 @@ permalink: ninja_clan/
                                 Associated Song
                             </div>
                             <div class="value">
-                                <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU">Zealous ☆ Shooting Star Ninja Scroll</a> — <a href="SONGLYRICS">(Song Lyrics)</a>
+                                <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU">Nekketsu ☆ Ryusei Ninpouchou</a> — <a href="/nekketsu_ryusei_ninpouchou">(Song Lyrics)</a>
                             </div>
                         </div>
                         <div class="tab-item">

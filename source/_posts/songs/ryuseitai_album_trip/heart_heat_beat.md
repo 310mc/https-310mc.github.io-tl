@@ -90,11 +90,11 @@ hidden: true
     <td>I’ve always been pounding out</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
     <td>The cheers</td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="tetora">Tetora</span></td>
     <td>That beat</td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>Or when you’ve accomplished something, your tempo rises up</td>
+    <td>Or when you’ve accomplished something; your tempo rises up</td>
   </tr>
   <tr>
     <td><br></td>
@@ -289,7 +289,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>As for ‘me’, I’ll always be by your side, so[^]</td>
+    <td>As for ‘me’, I’ll always be by your side, so[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -488,3 +488,7 @@ hidden: true
 </div>
 
 ## Translation Notes
+
+Heart Heat Beat is a song about the actual heart inside our body. Ryuseitai is the “heart” persona, singing to the listener, hence the use of “I” only, instead of “we”.
+
+[^1]: The first-person pronoun in quotations is <em>boku</em> (the only line that has a first-person pronoun in the Japanese lyrics). It suits Kanata to sing it, as he’s the one in Ryuseitai who refers to himself with <em>boku</em>.

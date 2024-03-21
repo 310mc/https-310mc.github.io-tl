@@ -64,7 +64,7 @@ hidden: true
 <table class="lyrics solo">
   <tr>
     <td>
-      the drops of [happy] kindness
+      lots and lots of drops of [happy] kindness
       <br>
       are gathering up to the brim in our hearts throughout our [days]
     </td>
@@ -98,10 +98,17 @@ hidden: true
   <tr>
     <td>
       every time we encounter the smiles of so many people
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+      it becomes stuffed to the brim with lots and lots drops of [happy] kindness
       <br>
-      it becomes stuffed to the brim with drops of [happy] kindness
-      <br>
-      those feelings of love make the whole world sparkle ☆ (sparkle ☆)
+      those feelings of love make the whole world sparkle ☆ (sparkle ☆)[^1]
       <br>
       doesn’t that make you feel like you’re wrapped up in a big wave of [happiness]?
     </td>
@@ -143,7 +150,7 @@ hidden: true
   </tr>
   <tr>
     <td>
-      the drops of [happy] kindness are gathering to the very brim
+      lots and lots of the drops of [happy] kindness are gathering to the very brim
       <br>
       every time you give me that smile ♪ (smile ♪) that soothes me
       <br>
@@ -158,7 +165,7 @@ hidden: true
     <td>
       even the [flask] in your heart that was once empty
       <br>
-      is something i want to make overflow
+      i want to make it overflow lots and lots
       <br>
       until those tiny bits of happiness eventually gather to fill up the whole [world]
     </td>
@@ -171,7 +178,7 @@ hidden: true
     <td>
       the drops of [happy] kindness
       <br>
-      let’s go and gather them up to the very brim
+      let’s go and gather lots and lots of them to the very brim
       <br>
       so that i am able to give you a lovely smile ♪ (smile ♪) that can soothe you
       <br>
@@ -338,7 +345,6 @@ hidden: true
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 
-## Translation Notes 
+## Translation Notes
 
-[^1]: Here, Kanata says <em>mune</em> (lit. chest) for “heart”.
-[^2]: Sparkle ☆ is a classic Kanata phrase, typically said in his Ryusei Blue catchphrase. Even Kana-tee, the Aoumi Aquarium, has this catchphrase (with a pose for it).
+[^1]: “Sparkle ☆” is a classic Kanata phrase, typically said in his Ryusei Blue catchphrase: ryusei blue, shinkai kanata…☆ <em>(sparkle)</em>

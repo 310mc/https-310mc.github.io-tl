@@ -16,7 +16,7 @@ permalink: suisei_HALATION/
 hidden: true
 ---
 
-{% img /img/es/songs/suiseihalation.jpg %}
+{% img /img/es/songs/suiseihalation_300px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -76,12 +76,20 @@ hidden: true
 
 <table class="lyrics">
   <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:18</span></td>
+  </tr>
+  <tr>
     <td class="name">All</td>
     <td>
     In ancient times, at the far ends of the galaxy — five colored stars were born
     <br>
     With bonds bearing our destiny, we soar across the universe
     </td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:30</span></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -112,8 +120,8 @@ hidden: true
     <td>We’ll convey that to you</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:54</span></td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -126,6 +134,10 @@ hidden: true
     <br>
     Just like a comet
     </td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:09</span></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -160,8 +172,8 @@ hidden: true
     <td>“For the heart of justice always resides right here within us!”</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:32</span></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>

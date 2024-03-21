@@ -19,7 +19,7 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>                
+				<a href="/categories/Enstars/Midori" character="Midori"></a>                
                 </div>
             </div>
             <div class="info-item one">
@@ -172,11 +172,11 @@ so i would like to see you work hard for another four hundred million years, too
 {% endbubble %}
 
 {% bubble Midori %}
-Four hundred <em>million</em>…? That’s insanely long…
+Four hundred million…? That’s insanely long…
 
 But… you’re right. I shouldn’t quit on the very first day… I’ll try harder for a bit longer. Thank you, Shinkai-senpai.
 
-Ah, wait, that’s right! Um, Shinkai-senpai! *……puka! ☆ <th>(sideways peace)</th>*[^1]
+Ah, wait, that’s right! Um, Shinkai-senpai! <em>……puka! ☆ <th>(sideways peace)</th></em>[^1]
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -192,13 +192,13 @@ midori, do you want to *puka puka*, too~?
 {% endbubble %}
 
 {% bubble Midori %}
-Umm, no… I mean the aquarium. The mascot character Kanatee’s[^2] catchphrase…
+Umm, no… I mean the aquarium. The mascot character Kanatee’s catchphrase…[^2]
 {% endbubble %}
 
 {% bubble Kanata v2 %}
 ahhh, i remember now. you are right, that is its [catchphrase]. i am not used to it yet, so i did not notice~
 
-…*puka! ☆*
+<em>…puka! ☆</em>
 {% endbubble %}
 
 {% bubble Midori %}
@@ -238,7 +238,7 @@ By the way… does Kanatee have a signature? If it does, I’ll take with me a c
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-mmm… i never thought of a [signature] for it before.  …would [fans] of kanatee enjoy something like that?
+mm~… i never thought of a [signature] for it before.  …would [fans] of kanatee enjoy something like that?
 
 fufu, i will [practice] signing one, then.
 

@@ -75,7 +75,7 @@ hidden: true
   </tr>
   <tr>
     <td>
-      You have one, don’t you? Something you can proudly boast about and love more than anyone else
+      You have one, don’t you? Something you can proudly boast about, that you love more than anyone else
       <br>
       Teach me all the treasured secrets and intel only you know!
     </td>
@@ -86,7 +86,7 @@ hidden: true
   </tr>
   <tr>
     <td>
-      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now[^]
+      You gathered every bit of your love while staying hidden, so your heart is bound to be full of it by now
       <br>
       And I know that you truly, truly can’t hold back those feelings of love, so
     </td>
@@ -145,7 +145,7 @@ hidden: true
   </tr>
    <tr>
     <td>
-      Let’s walk down the same ‘path’ in a pure, correct way[^2]
+      Let’s walk down the same ‘path’ in a pure, right way[^2]
       <br>
       Let’s teach each other the rare quality of something called “unusual,” “strange”
       <br>
@@ -171,7 +171,7 @@ hidden: true
   </tr>
    <tr>
     <td>
-      The sky is far higher, the sea much more deeper than you’d ever expect
+      The sky is far higher, the sea much more endlessly deeper than you’d expect
       <br>
       That’s why I’m sure you’re bound to find it
       <br>
@@ -366,17 +366,19 @@ hidden: true
 
 ## Translation Notes
 
-The song title Seisei Doudou Ouenka! (Seisei Doudou Cheer song!) is made up of wordplays. <em>Seisei doudou</em> (正々堂々) means honest and bold. The title, however, uses different kanji for each part. 
+<b>(1.)</b> The song title <em>Seisei Doudou Ouenka!</em> (Seisei Doudou Cheer Song!) is made up of wordplays. <em>seisei</em> means “accurate/punctual”, and doudou</em> can mean many things such as “boldly” “majestic”. Together, <em>seisei doudou</em> (正々堂々) means “fair and square”. But the song title uses different kanji for each part.
 
-- 清 <em>sei:</em> Pure
-- 正 <em>sei:</em> Correct
+- 清 <em>sei:</em> Pure/Noble
+- 正 <em>sei:</em> Correct/Right
 - 同 <em>dou:</em> Same
-- 道 <em>dou:</em> Path
+- 道 <em>dou:</em> Path (This word, when read as <em>michi</em>, is the same word that appears in his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>)
 
-As for <em>ouenka</em> (cheer song), this typically refers to the songs a Japanese cheer squad would sing. Similar to blaaaah tough guy
+When Shinobu sings <em>seisei doudou</em>, the lyrics transcribe the word with its typical spelling. But he does reference the wordplay in the line “Let’s walk down the same ‘path’ in a pure, right way”.
 
-Shinobu doesn’t use his typical speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, ADDNAME, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-pronoun for a boy).
+As for <em>ouenka</em> (cheer song), this typically refers to the songs a <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Japanese cheer squad</a> would sing.
+
+<b>(2.)</b> Shinobu doesn’t use his typical ninja-like speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de-gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-pronoun for a boy). See Shinobu’s <a href="/dear_me_before_i_became_a_ninja" target="_blank">FS1</a> story for a brief understanding.
 
 [^1]: Originally, Shinobu rhymes “SOS” with “oh-hisse” (pronounced oo-es), the French version of “heave-ho”. I decided to make it rhyme with “distress” in my translation. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
-[^2]: This line references his song title, “Seisei Doudou”. Please check the translation notes for more information!
-[^3]: These English lyrics sounds as if Shinobu is saying “gozaru” when singing!
+[^2]: This line references his song title, “Seisei Doudou”. Please check the <a href="#Translation-Notes">translation notes</a> for more information!
+[^3]: These English lyrics sound as if Shinobu is saying “gozaru” when singing!

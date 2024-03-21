@@ -177,7 +177,7 @@ permalink: comet_show/
                                 Associated Song
                             </div>
                             <div class="value">
-                                <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs">Comet Halation</a> — <a href="https://ensemble-stars.fandom.com/wiki/Suisei_HALATION_(Lyrics)#English">(Song Lyrics)</a>
+                                <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs">Suisei HALATION</a> — <a href="/suisei_HALATION">(Song Lyrics)</a>
                             </div>
                         </div>
                         <div class="tab-item">

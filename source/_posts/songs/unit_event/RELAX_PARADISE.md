@@ -134,7 +134,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">(yu~ru~ru~)</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">The carefree-looking</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">Animals <em>spoke to me!</em></td>
   </tr>
   <tr>
-    <td class="name">All</td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics"><em>(Hi!)</em></td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">“no need to look so depressed”</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“let’s take it easy together~”</td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td class="lyrics">healing!</td>
+    <td class="lyrics">healing</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -244,7 +244,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics"><em>(Heal!)</em></td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">Where we’re headed</td>
   </tr>
   <tr>
@@ -312,7 +312,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">To our hearts</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“One day, I encountered my ‘favorite’ thing!”[^2]</td>
   </tr>
   <tr>
@@ -320,7 +320,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">That’s why—</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“Come on over to paradise, let’s go together~!”</td>
   </tr>
   <tr>
@@ -342,7 +342,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">The design</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">and balance</td>
   </tr>
   <tr>
@@ -366,7 +366,7 @@ permalink: RELAX_PARADISE/
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">Our feelings</td>
   </tr>
   <tr>
@@ -382,7 +382,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics"><em>(Our minds!)</em></td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">And support each other’s hearts</td>
   </tr>
   <tr>
@@ -396,9 +396,9 @@ permalink: RELAX_PARADISE/
   <tr>
     <td class="name">All</td>
     <td class="lyrics">
-    Jungle~~~~~! (Roaaar~)
+    Jungle~! (Roaaar~~~~~!)
     <br>
-    <em>(Welcome Paradise!)</em>
+    <em>(Welcome! Paradise!)</em>
     </td>
   </tr>
   <tr>
@@ -481,7 +481,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">(yu~ru~ru~)</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">The carefree-looking</td>
   </tr>
   <tr>
@@ -493,7 +493,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">Animals <em>spoke to me!</em></td>
   </tr>
   <tr>
-    <td class="name">All</td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics"><em>(Hi!)</em></td>
   </tr>
   <tr>
@@ -509,12 +509,8 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">“no need to look so depressed”</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“let’s take it easy together~”</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
@@ -530,7 +526,7 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td class="lyrics">healing!</td>
+    <td class="lyrics">healing</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
@@ -591,7 +587,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics"><em>(Heal!)</em></td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">Where we’re headed</td>
   </tr>
   <tr>
@@ -627,7 +623,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">Everything’s connected to all kinds of people… That’s why—”</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">You’re definitely bound to discover your paradise, too!</td>
   </tr>
   <tr>
@@ -745,7 +741,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">To our hearts</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“One day, I encountered my ‘favorite’ thing!”[^2]</td>
   </tr>
   <tr>
@@ -753,7 +749,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">That’s why—</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">“Come on over to paradise, let’s go together~!”</td>
   </tr>
   <tr>
@@ -775,7 +771,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics">The design</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">and balance</td>
   </tr>
   <tr>
@@ -799,7 +795,7 @@ permalink: RELAX_PARADISE/
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">Our feelings</td>
   </tr>
   <tr>
@@ -815,7 +811,7 @@ permalink: RELAX_PARADISE/
     <td class="lyrics"><em>(Our minds!)</em></td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td class="lyrics">And support each other’s hearts</td>
   </tr>
   <tr>
@@ -829,9 +825,9 @@ permalink: RELAX_PARADISE/
   <tr>
     <td class="name">All</td>
     <td class="lyrics">
-    Jungle~~~~~! (Roaaar~)
+    Jungle~! (Roaaar~~~~~!)
     <br>
-    <em>(Welcome Paradise!)</em>
+    <em>(Welcome! Paradise!)</em>
     </td>
   </tr>
   <tr>

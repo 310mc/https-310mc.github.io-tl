@@ -403,11 +403,11 @@ fufufu~? look, rei. she is so good at [fishing]…♪
 
 —congratulations, anzu-san. your [prize] for wonderfully catching [kanatee] is…
 
-the [right] to think up a design for my [personal outfit]~♪
+the [right] to think up a design for my [personalized outfit]~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-Personal outfit?
+personalized outfit?
 
 What do you mean by “right”? Anzu is usually the one to make them in the first place, isn’t she?
 {% endbubble %}
@@ -415,7 +415,7 @@ What do you mean by “right”? Anzu is usually the one to make them in the fir
 {% bubble Natsume %}
 Hm, if he went through all the effort to have her catch a huge one just to gift her the Right…
 
-That would mean Kanata-niisan *wants* his personal outfit to be Made?
+That would mean Kanata-niisan *wants* his personalized outfit to be Made?
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -425,7 +425,7 @@ i was [waiting] to see when it would be my turn even before we started [preparin
 
 and at one point, i [heard] that she was going to have time in her [schedule] for my outfit, so i knew i had to take the chance to [plead] for it before then.
 
-after all, the rest of ryuseitai received their [personal outfits]~♪
+after all, the rest of ryuseitai received their [personalized outfits]~♪
 {% endbubble %}
 
 {% bubble Rei %}
@@ -473,7 +473,7 @@ Hmmm… I can think of many Things, but overall I’d say the waterside comes to
 {% bubble Kanata v2 %}
 then… how about we go to the beach?
 
-the ocean is where [things] came to life, so surely ideas for my [personal outfit] could come to life too if we went there.
+the ocean is where [things] came to life, so surely ideas for my [personalized outfit] could come to life too if we went there.
 
 come on, everyone. even anzu-san is saying that the sea is very important as part of my personal [outfit]~
 {% endbubble %}

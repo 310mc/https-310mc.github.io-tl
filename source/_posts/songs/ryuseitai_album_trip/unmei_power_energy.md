@@ -90,7 +90,7 @@ hidden: true
     <td>
       It undoubtedly transformed into something ‘special’ since last year
       <br>
-      Transcending logic itself, what I simply ‘liked’ back then
+      Transcending logic itself, what I simply ‘liked’ back then[^1]
       <br>
       Now yells out from the very core of my heart
     </td>
@@ -103,13 +103,13 @@ hidden: true
     <td>
       Passionately, passionately invigorated
       <br>
-      That’s the energy that the power of fate gives me
+      That’s the energy that the power of fate gives me[^2]
       <br>
-      As tears sparkle down, and I become smeared with mud
+      As tears sparkle down, and I become smeared with mud[^3]
       <br>
       I strive to live through today
       <br>
-      For my ‘like’ is the strongest there ever was!
+      For my ‘like’ is the strongest there ever was![^1]
     </td>
   </tr>
   <tr>
@@ -159,9 +159,9 @@ hidden: true
       <br>
       As the first star of the evening shines a sparkling smile
       <br>
-      I’ll sear today into my mind
+      While searing today into my mind
       <br>
-      While honing the strongest ‘like’ to the very extreme!
+      I’ll hone the strongest ‘like’ to the very extreme!
     </td>
   </tr>
   <tr>
@@ -365,8 +365,8 @@ hidden: true
 
 ## Translation Notes 
 
-[^1]: Tetora doesn’t use his typical speech quirk ending <em>ssu</em> in his second solo. This is unlike his first solo, IRON HEART TIGER, which had many lyrics where he sings in his usual speech quirk. Tetora speaking in a more plain manner without his <em>ssu</em> speech quirk can be seen in his 5* unit event, Supervillain. https://ensemble-stars.fandom.com/wiki/IRON_HEART_TIGER!_(Lyrics)
-[^2]: Tetora sings about <em>suki</em> (with brackets around the word), lit. “likes”. Ryuseitai’s “likes” is a running theme in their solo songs, as part of showing their unique individual traits.
-*fix midori’s too
-[^3]: “Power of fate” is originally just “fate power” in Japanese, like the solo’s title. It could also be read as "fate-power", "fate(ful) power", or "fate’s power".
-[^4]: "Smeared with mud" is a common phrase for Tetora, as well as a reference to his Ryusei Black catchphrase: “The black flame is the mark of effort! The burning fighting spirit, stained with mud!”
+Tetora doesn’t use his typical speech quirk ending <em>ssu</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/IRON_HEART_TIGER!_(Lyrics)" target="_blank">IRON HEART TIGER</a>, which had many lyrics where he sings in his usual speech quirk. Tetora speaking in a more plain manner without his <em>ssu</em> speech quirk can be seen in his 5* unit event, <a href="/supervillain" target="_blank">Supervillain</a>.
+
+[^1]: Tetora sings about <em>suki</em> (with brackets around the word), lit. “likes”. “Likes” (i.e. Things they love) is a running theme in Ryuseitai’s solo songs.
+[^2]: “Power of fate” is originally just “fate power” in Japanese, like the solo’s title. It could also be read as "fate-power", "fate(ful) power", or "fate’s power" depending on the interpretation.
+[^3]: “Smeared with mud” is a common phrase for Tetora, as well as a reference to his Ryusei Black catchphrase: “The black flame is the mark of effort! The burning fighting spirit, stained with mud!”
