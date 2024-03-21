@@ -6,7 +6,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Extra
-description: "Ryuseitai Album Commentary Translation from Ensemble Stars!"
+description: "Ryuseitai Album Commentary Translation from Ensemble Stars! by 310mc"
 permalink: ryuseitai_album/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "[Song] Green to the sky (Midori Solo)"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 9:07:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -8,7 +8,6 @@ tags:
 - Song Lyrics
 description: "Translation of Green to the sky (Midori Solo) Song Lyrics by 310mc. By Midori from the Ryuseitai Album TRIP."
 permalink: green_to_the_sky/
-hidden: true
 ---
 
 {% img /img/es/ryuseitaialbumtrip/midorisolo_300px.jpg %}

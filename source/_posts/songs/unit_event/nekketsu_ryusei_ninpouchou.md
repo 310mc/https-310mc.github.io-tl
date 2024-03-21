@@ -1,6 +1,6 @@
 ---
 title: "[Song] Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 8:04:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -13,7 +13,6 @@ tags:
 - Song Lyrics
 description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll Song Lyrics by 310mc. By Ryuseitai from the Unit Event Ninja Clan."
 permalink: nekketsu_ryusei_ninpouchou/
-hidden: true
 ---
 
 {% img /img/es/songs/nekketsuryuseininpouchou_300px.jpg %}

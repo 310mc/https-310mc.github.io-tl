@@ -1,6 +1,6 @@
 ---
 title: "[Song] Unmei Power Energy! – Fate Power Energy!"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 9:03:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -8,7 +8,6 @@ tags:
 - Song Lyrics
 description: "Translation of Unmei Power Energy! – Fate Power Energy! (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
 permalink: unmei_power_energy/
-hidden: true
 ---
 
 {% img /img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg %}

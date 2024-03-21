@@ -856,7 +856,43 @@ permalink: RELAX_PARADISE/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/colorsarise.jpg"
+              src="/img/es/songs/suiseihalation_300px.jpg"
+              alt="Suisei HALATION"
+          />
+      </div>
+      <a href="/suisei_HALATION" class="storyName" target="_blank">
+          <span>Suisei HALATION</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
+              alt="Nekketsu ☆ Ryusei Ninpouchou"
+          />
+      </div>
+      <a href="/nekketsu_ryusei_ninpouchou" class="storyName" target="_blank">
+          <span>Nekketsu ☆ Ryusei Ninpouchou</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/heartheatbeat_300px.jpg"
+              alt="Heart Heat Beat"
+          />
+      </div>
+      <a href="/heart_heat_beat" class="storyName" target="_blank">
+          <span>Heart Heat Beat</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/songs/colorsarise_300px.jpg"
               alt="Colors Arise"
           />
       </div>
@@ -868,7 +904,7 @@ permalink: RELAX_PARADISE/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/relaxparadise.jpg"
+              src="/img/es/songs/relaxparadise_300px.jpg"
               alt="RELAX PARADISE"
           />
       </div>
@@ -880,12 +916,84 @@ permalink: RELAX_PARADISE/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/ourstella.jpg"
+              src="/img/es/songs/bokuranostella_300px.jpg"
               alt="Bokura no Stella"
           />
       </div>
       <a href="/our_stella" class="storyName" target="_blank">
           <span>Bokura no Stella</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+              alt="NEW DAYBREAK"
+          />
+      </div>
+      <a href="/NEW_DAYBREAK" class="storyName" target="_blank">
+          <span>NEW DAYBREAK</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
+              alt="Unmei Power Energy! (Tetora Solo)"
+          />
+      </div>
+      <a href="/unmei_power_energy" class="storyName" target="_blank">
+          <span>Unmei Power Energy!</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
+              alt="Green to the sky (Midori Solo)"
+          />
+      </div>
+      <a href="/green_to_the_sky" class="storyName" target="_blank">
+          <span>Green to the sky</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
+              alt="Seisei Doudou Ouenka! (Shinobu Solo)"
+          />
+      </div>
+      <a href="/seisei_doudou_ouenka" class="storyName" target="_blank">
+          <span>Seisei Doudou Ouenka!</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
+              alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
+          />
+      </div>
+      <a href="/kokoro_de_pittari_ai_ni_naru" class="storyName" target="_blank">
+          <span>Kokoro de Pittari Ai ni Naru</span>
+          <span class="read"></span>
+      </a>
+  </div>
+  <div class="story">
+      <div class="thumbimage">
+          <img
+              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
+              alt="happy drops (Kanata Solo)"
+          />
+      </div>
+      <a href="/happy_drops" class="storyName" target="_blank">
+          <span>happy drops</span>
           <span class="read"></span>
       </a>
   </div>

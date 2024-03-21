@@ -55,18 +55,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/songs/ryuseitaialbumtrip_300px.jpg"
-            alt="Ryuseitai Album TRIP"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Ryuseitai Album TRIP (Songs + Campaign)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<!--<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
             alt="Chiaki-related stories"
         />
@@ -88,7 +76,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
-<div class="story">
+<!--<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
@@ -130,6 +118,30 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcoverframe.jpg"
+            alt="Ryuseitai Album TRIP"
+        />
+    </div>
+    <a href="/ryuseitai_album_trip" class="storyName" target="_blank">
+        <span>Ryuseitai Album TRIP Campaign</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Someday, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Someday, On The Path To My Ideal</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

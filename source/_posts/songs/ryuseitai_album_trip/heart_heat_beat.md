@@ -1,6 +1,6 @@
 ---
 title: "[Song] Heart Heat Beat"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 8:01:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -13,7 +13,6 @@ tags:
 - Song Lyrics
 description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
 permalink: heart_heat_beat/
-hidden: true
 ---
 
 {% img /img/es/songs/heartheatbeat_300px.jpg %}

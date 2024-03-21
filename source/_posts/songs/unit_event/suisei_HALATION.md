@@ -1,6 +1,6 @@
 ---
 title: "[Song] Suisei HALATION – Comet HALATION"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 8:03:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -13,7 +13,6 @@ tags:
 - Song Lyrics
 description: "Translation of Suisei HALATION – Comet HALATION Song Lyrics by 310mc. By Ryuseitai from the Unit Event Comet Show."
 permalink: suisei_HALATION/
-hidden: true
 ---
 
 {% img /img/es/songs/suiseihalation_300px.jpg %}

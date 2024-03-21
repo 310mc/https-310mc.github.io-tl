@@ -1,6 +1,6 @@
 ---
 title: "[Song] Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 9:05:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -8,7 +8,6 @@ tags:
 - Song Lyrics
 description: "Translation of Kokoro de Pittari Ai ni Naru (Chiaki Solo) Song Lyrics by 310mc. By Chiaki from the Ryuseitai Album TRIP."
 permalink: kokoro_de_pittari_ai_ni_naru/
-hidden: true
 ---
 
 {% img /img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg %}
@@ -349,7 +348,7 @@ hidden: true
 
 ## Translation Notes 
 
-<em>kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
+<b>(1.)</b> <em>kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
 
 - <em>kokoro de:</em> lit. with heart. There is no given possessive pronoun, so it could be “our hearts”, “your heart”, or “my heart”. <em>de</em> could be “with”, “within”, or even “by”.
 
@@ -359,7 +358,9 @@ hidden: true
 
 With all of this combined including the full lyrics, I decided to lean towards the image of “Coming into contact within the (persona’s) heart very tightly. In doing so, love is formed”. I wanted to focus on how Chiaki wishes to be by the persona’s side on an emotional level, i.e. emotionally nestling close to someone who feels tired after a long day, and being by their side via the heart rather than through physical contact.
 
-As an extra note, Japanese fans are also not too sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning, but for now, please feel free to interpret it however you deem fitting for the song’s message!
+<b>(2.)</b> Chiaki briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-5" target="_blank">Album Commemoration Live</a>, MC 5.
+
+<b>(3.)</b> As an extra note, Japanese fans are also not too sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning, but for now, please feel free to interpret it however you deem fitting for the song’s message!
 
 [^1]: I recommend reading the <a href="#Translation-Notes">translation notes</a> for a complete explanation of what these lyrics mean.
 [^2]: “Simplistic” here is <em>sasayaka</em> (lit. modest, meagre), which also refers to something that doesn’t have much to it except for its form. It’s a word that can be used to humble oneself like “It’s a simple present,” etc.

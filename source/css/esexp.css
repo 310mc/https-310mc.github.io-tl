@@ -9,6 +9,9 @@
 [character="Midori"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_awkward.png");
 }
+[character="Midori"][blushfrustrated] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushfrustrated.png");
+}
 [character="Midori"][blushjoy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_blushjoy.png");
 }
@@ -2827,6 +2830,13 @@
   --fill-mode: hsl(283.6, 5%, 45%);
   --name: "Tetora & Chiaki";
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_tetorachiaki.png")
+}
+
+[character=KanataChiakiWorried]{
+  --color: #e60033;
+  --hue: 346.7;
+  --name: "Chiaki & Kanata";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_kanatachiakiworried.png")
 }
 
 [character=MidoriShinobu]{

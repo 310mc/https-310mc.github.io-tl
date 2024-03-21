@@ -1,6 +1,6 @@
 ---
 title: "[Song] NEW DAYBREAK"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 9:01:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -13,7 +13,6 @@ tags:
 - Song Lyrics
 description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
 permalink: NEW_DAYBREAK/
-hidden: true
 ---
 
 {% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}

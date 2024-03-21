@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ryuseitai Album TRIP"
-date: 2024-3-9 9:00:00
+date: 2024-3-21 9:15:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai, Ryuseitai Power Up]
@@ -12,9 +12,8 @@ categories:
 tags:
 - Extra
 - Happy Elements Staff
-description: "Ryuseitai Album TRIP Translation from Ensemble Stars!!"
+description: "Ryuseitai Album TRIP Translation from Ensemble Stars!! by 310mc"
 permalink: ryuseitai_album_trip/
-hidden: true
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -606,7 +605,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Shinobu smileconfident %}
 “More importantly, our live show has only just begun! It’s prohibited to discuss anything to do with the closing curtains this early on.”
 
-“Now then, let’s fire up the place and entertain all our fans~♪”
+“Come on now, let’s fire up the place and entertain all our fans~♪”
 {% endbubble %}
 
 {% bubble Shinobu fist %}
@@ -662,7 +661,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Shinobu smileconfident %}
 “That is why I, too, will support everyone’s ‘likes’!”
 
-“I’d love you all to accept my very own cheering to you, ‘Seisei Doudou Ouenka!’.”
+“I’d love you all to accept my very own cheering to you, ‘Seisei Doudou Ouenka!’”
 {% endbubble %}
 
 <div class="stories">
@@ -689,9 +688,9 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 </div>
 
 {% bubble Shinobu smileconfident %}
-“Thank you for listening to my solo, ‘Seisei Doudou Ouenka!’.”
+“Thank you for listening to my solo, ‘Seisei Doudou Ouenka!’”
 
-“Allow me to do a light introduction of myself! I’m Sengoku Shinobu!”
+“Allow me to do a brief introduction of myself! I’m Sengoku Shinobu!”
 
 “My specialty is jumping through rings of fire! As you already know, my favorite thing is ninjas!”
 
@@ -729,11 +728,11 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Midori norsmile %}
 “…Shinobu-kun talked about ninjas just a while back, didn’t he…”
 
-“But ‘Suisei HALATION’ is also a song packed with all of Morisawa-senpai’s ‘likes’, right?”
+“But ‘Suisei HALATION’ is also a song packed with all of Morisawa-senpai’s ‘likes’, right?”[^2]
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-“Mhm! A showdown with a space kaijuu gets me extremely excited!”
+“Mhm! A showdown with a space kaijuu gets me extremely excited every time!”
 {% endbubble %}
 
 {% bubble Chiaki smug %}
@@ -748,12 +747,8 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 “…………”
 {% endbubble %}
 
-{% bubble Chiaki worried %}
-“Takamine~?”
-{% endbubble %}
-
-{% bubble Kanata frownshake %}
-“midori~?”
+{% bubble KanataChiakiWorried %}
+“Takamine (midori)~?”
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -771,7 +766,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Chiaki fist %}
-“Yeah! We’re all different, and we’re all wonderful! From here on out as well, let’s always hold our own star close to our heart, and shine together! ☆”
+“Yeah! We’re all different, and we’re all wonderful! From here on out too, let’s always hold our own star close to our heart, and shine together! ☆”
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
@@ -802,7 +797,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 </div>
 
 {% bubble Chiaki grin %}
-“Hello, I’m the burning heart Morisawa Chiaki!”
+“Hello, I’m the burning heart Morisawa Chiaki!” *<th>(waves)</th>*
 
 “Did you enjoy ‘Kokoro de Pittari Ai ni Naru’, everyone?”
 
@@ -818,7 +813,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “My unit members — as well as myself, of course — have moments when they worry or feel down, too.”
 
-“But as long as we havee the smiles of everyone cheering for us, we can strike back, no matter how dark the road ahead of us is.”
+“But as long as we have the smiles of everyone cheering for us, we can strike back, no matter how dark the road ahead of us is.”
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -840,31 +835,31 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-“We first performed this song at the advertisement live show for Supervillains. Once that was done, Ryuseitai went through a power up—”
+“We first performed this song at the advertisement live show for Supervillains. Once that was done, Ryuseitai went through a power up—”[^6]
 
-“Where we then decided to all be the leaders in our unit, and perform activities that make the best use of our unique, individual traits.”
+“Where we then decided to all be the leaders of our unit, and perform activities that make the best use of our unique, individual traits.”
 {% endbubble %}
 
 {% bubble Shinobu smilesoft %}
 “It’s like the proverb, ‘different strokes for different folks’. We’re five different people bearing five different colors.”
 
-“<em>All for one, and one for all!</em>”
+<em>“All for one, and one for all!”</em>
 
 “We’ll continue to support each other and overcome any and all hardships together, as we always have.”
 {% endbubble %}
 
 {% bubble Tetora nod %}
-“Please keep supporting us Ryuseitai! Look forward to our next big show…☆”
+“Please continue to support us Ryuseitai! Look forward to our next big show…☆”
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
 “…Wait, I accidentally made it sound like this is our last greeting on stage, didn’t I?”
 {% endbubble %}
 
-{% bubble Tetora grin %}
+{% bubble Tetora fist %}
 “We’ve still got more to go for our live show, so please try to follow along!”
 
-“Next up is my solo song, ‘Unmei Power Energy!”. Please accept all my energy and efforts…☆”
+“Next up is my solo song, ‘Unmei Power Energy!” Please accept all my energy and efforts…☆”
 {% endbubble %}
 
 <div class="stories">
@@ -872,10 +867,10 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/idealpath/c2.jpg"
-            alt="ADDLINK"
+            alt="Someday, On The Path To My Ideal"
         />
     </div>
-    <a href="ADDLINK" class="storyName" target="_blank">
+    <a href="/someday_on_the_path_to_my_ideal/" class="storyName" target="_blank">
         <span>Read Tetora’s FS1 here!</span>
         <span class="read"></span>
     </a>
@@ -903,7 +898,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-“We’re all leaders for our own kind of Ryuseitai. But for this live show, we actually decided on the content together.”
+“Although we’re all leaders for our own kind of Ryuseitai, for this live show, we actually decided on the content together.”
 
 “This stage is what we ended up with, after sharing our opinions on what to do and what not to do.”
 
@@ -1018,7 +1013,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “…Up until this point, I’d somehow manage to make it through by leaving it up to everyone, like Morisawa-senpai…”
 
-“But from now on, we’ll be taking turns being the leader, so I’ve got to get used to doing MC segments.”
+“But from now on, we’ll be taking turns being the leader, so I’ve got to get used to doing MC segments, don’t I…”
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -1034,7 +1029,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori grin %}
-“I’ll be waiting for the next mascot character request~…♪”
+“I’ll be waiting for the next mascot character request~…♪” *<th>(waves)</th>*
 
 “…Mm? It looks like everything’s ready for the next segment of the live show.”
 {% endbubble %}
@@ -1098,7 +1093,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Kanata grin %}
-“yes\~ it is called ‘happy drops’. have a listen\~…♪”
+“yes\~ it is called ‘happy drops’. please have a listen\~…♪”
 {% endbubble %}
 
 <div class="stories">
@@ -1171,7 +1166,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Tetora fist %}
-“We’ll first start with this song! ‘Meteor Scramble ☆ Ryuseitai!’.”
+“We’ll first start with this song! ‘Meteor Scramble ☆ Ryuseitai!’”
 {% endbubble %}
 
 ### MC 12
@@ -1183,11 +1178,11 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 </div>
 
 {% bubble Chiaki smileconfident %}
-“That was ‘Tenka Muteki ☆ Meteorangers!’.”
+“That was ‘Tenka Muteki ☆ Meteorangers!’”
 {% endbubble %}
 
 {% bubble Shinobu norsmile2 %}
-“This brings our Ryuseitai commemoration live show to an end!”
+“This brings our Ryuseitai commemoration live show to an end.”
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -1243,7 +1238,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “Everyone, thank you so much for such a grand encore call!” *<th>(waves)</th>*
 
-“We’ll end it with this song! ‘BRAND NEW STARS!!’.”
+“We’ll end it with this song! ‘BRAND NEW STARS!!’”
 {% endbubble %}
 
 ### MC 14
@@ -1269,7 +1264,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
-“See you all another day.”
+“See you all another day, everyone.”
 {% endbubble %}
 
 {% bubble Tetora idle %}
@@ -1295,13 +1290,13 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Tetora worried %}
-“This isn’t our final parting or anythin’, so don’t be sad, okay?”
+“This isn’t our final parting or anythin’, so please don’t be sad.”
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
 “Exactly! Tears don’t suit you!”
 
-“We’re heroes, and it’s our duty to make everyone smile. We’ll come back again, we promise you that.”
+“We’re heroes, and it’s a hero’s duty to make everyone smile. We’ll come back again, we promise you that.”
 
 “Farewell, until the next time we meet! See you then…☆” *<th>(waves)</th>*
 {% endbubble %}
@@ -1318,7 +1313,8 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 ## Translation Notes 
 
 [^1]: This tale is shown in <a href="/ninja_clan" target="_blank">Ninja Clan</a>, the story connected to this song.
-[^2]: The “likes/loves” mentioned refers to the thing(s) they love. In Japanese, the word is <em>suki</em> or <em>daisuki</em>. Ryuseitai’s “likes” is a running theme in their story, songs, as well as their solo songs. In particular, <a href="/tropical" target="_blank">Tropical</a> and its song <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> discuss it.
+[^2]: The “likes/loves” mentioned with quotation marks refers to the thing(s) they love. In Japanese, the word is <em>suki</em> or <em>daisuki</em>. Ryuseitai’s “likes” is a running theme in their story, songs, as well as their solo songs. In particular, <a href="/tropical" target="_blank">Tropical</a> and its song <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> discuss it.
 [^3]: This is a reference to the main story, when Chiaki and Kanata fire off a Ryuseitai move.
 [^4]: These are the mascot characters that appeared in <a href="/tropical" target="_blank">Tropical</a>.
 [^5]: The fish song is performed in <a href="/stella_maris" target="_blank">Stella Maris</a>, and Midori goes through quite the experience while practicing. Please give the story a read to find out what happens!
+[^6]: After the event “Universe” (i.e. <a href="/supervillain" target="_blank">Supervillain</a>) ended, “Ryuseitai Power Up”, the all-leaders Ryuseitai, was introduced. You can see their introduction video <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">here</a>, and compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.

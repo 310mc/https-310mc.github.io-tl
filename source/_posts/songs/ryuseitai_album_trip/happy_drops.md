@@ -1,6 +1,6 @@
 ---
 title: "[Song] happy drops (Kanata Solo)"
-date: 2023/3/6 9:00:00
+date: 2024/3/21 9:06:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Kanata]
@@ -8,7 +8,6 @@ tags:
 - Song Lyrics
 description: "Translation of happy drops (Kanata Solo) Song Lyrics by 310mc. By Kanata from the Ryuseitai Album TRIP."
 permalink: happy_drops/
-hidden: true
 ---
 
 {% img /img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg %}
