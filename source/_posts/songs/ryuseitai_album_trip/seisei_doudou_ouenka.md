@@ -378,11 +378,11 @@ He references the wordplay in the line “Let’s walk down the same ‘path’ 
 
 As for <em>ouenka</em> (cheer song), this typically refers to the songs a <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Japanese cheer squad</a> would sing.
 
-<b>(2.)</b> Shinobu doesn’t use his typical ninja-like speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de-gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-person pronoun for a boy). See Shinobu’s <a href="/dear_me_before_i_became_a_ninja" target="_blank">FS1</a> story for a brief look into this part of Shinobu.
+<b>(2.)</b> Shinobu doesn’t use his typical ninja-like speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>, which contained lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de-gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-person pronoun for a boy). See Shinobu’s <a href="/dear_me_before_i_became_a_ninja" target="_blank">FS1</a> story for a brief look into this part of Shinobu.
 
 <b>(3.)</b> Shinobu briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-2" target="_blank">Album Commemoration Live</a>, MC 2 and 3.
 
-[^1]: Originally, Shinobu rhymes “SOS” with “oh-hisse” (pronounced oo-es), the French version of “heave-ho”. I decided to make it rhyme with “distress” in my translation. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
+[^1]: Originally, Shinobu rhymes “SOS” with “oh-hisse” (pronounced oh-es), the French version of “heave-ho”. I decided to make it rhyme with “distress” in my translation. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
 [^2]: This line references his song title, “Seisei Doudou”. Please check the <a href="#Translation-Notes">translation notes</a> for more information!
 [^3]: These English lyrics sound as if Shinobu is saying “gozaru” when singing!
 [^4]: Shinobu uses the first-person pronoun <em>bokura</em>. This is unlike his first solo, where he only uses the ninja-like first-person pronoun <em>sessha</em>. Please check the <a href="#Translation-Notes">translation notes</a> for more information!

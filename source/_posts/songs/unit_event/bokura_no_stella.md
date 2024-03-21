@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai Power Up]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
 description: "Translation of Bokura no Stella – Our Stella Song Lyrics by 310mc. By Ryuseitai from the Climax Event Stella Maris."

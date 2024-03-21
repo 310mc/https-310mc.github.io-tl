@@ -78,7 +78,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>You felt as though someone just told you that, right?</td>
+    <td>You felt as though someone just told you that, didn’t you?</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -150,11 +150,11 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Is something I can always feel — you can tell, right?</td>
+    <td>Is something I can always feel — I’m sure you can tell</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>That’s why...!</td>
+    <td>That’s why!</td>
   </tr>
   <tr>
     <td><br></td>
@@ -234,7 +234,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>That’s why…!</td>
+    <td>That’s why!</td>
   </tr>
   <tr>
     <td><br></td>

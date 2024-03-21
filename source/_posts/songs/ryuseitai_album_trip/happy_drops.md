@@ -129,7 +129,7 @@ permalink: happy_drops/
   </tr>
   <tr>
     <td>
-      it is not just right or left, but up and down too — your type of [joy] is all up to you
+      it is not just right and left, but up and down too — your type of [joy] is all up to you
       <br>
       so let’s make a place together where you can always be submerged in that [joy]
     </td>
@@ -162,7 +162,7 @@ permalink: happy_drops/
   </tr>
   <tr>
     <td>
-      even the [flask] in your heart that was once empty
+      even your heart’s [flask] that was once empty
       <br>
       i want to make it overflow lots and lots
       <br>

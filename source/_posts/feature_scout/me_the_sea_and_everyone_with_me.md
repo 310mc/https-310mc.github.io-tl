@@ -407,7 +407,7 @@ the [right] to think up a design for my [personalized outfit]~♪
 {% endbubble %}
 
 {% bubble Chiaki %}
-personalized outfit?
+Personalized outfit?
 
 What do you mean by “right”? Anzu is usually the one to make them in the first place, isn’t she?
 {% endbubble %}

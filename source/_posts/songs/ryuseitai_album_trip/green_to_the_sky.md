@@ -110,7 +110,7 @@ permalink: green_to_the_sky/
       <br>
       In the precious value of feeling love for something that never changes
       <br>
-      That’s why, so that you know that I’m also here — no matter how far I am
+      That’s why, so that you know that I’m also here — no matter how far away I am
       <br>
       I’ll try reaching out my hand as high up as I possibly can so that you can find me
     </td>
@@ -170,7 +170,7 @@ permalink: green_to_the_sky/
       <br>
       To those feelings that cheer for my dear likes[^2]
       <br>
-      It’s the energy that turns hearts into infinite bounds
+      It’s the energy that makes hearts have infinite bounds
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ permalink: green_to_the_sky/
       <br>
       I want us to keep delivering those feelings of ‘love’ to one another[^4]
       <br>
-      And so that you know that I’m also here — no matter how far I am
+      And so that you know that I’m also here — no matter how far away I am
       <br>
       I’ll try reaching out my hand as high up as I possibly can so that you can find me
       <br>

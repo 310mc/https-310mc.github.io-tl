@@ -422,7 +422,7 @@ I’ve also been waiting forever for it to be released!
 
 Have you checked when the store opens? And you’ve got your wallet with you too, right?
 
-<big><b>Then let’s go[^1] to the CD store together right away! ☆</b></big>
+<big><b>Then let’s go to the CD store together right away![^1] ☆</b></big>
 
 Oh, wait! I have to talk about my thoughts on the album first!
 

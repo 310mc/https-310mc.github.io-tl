@@ -55,7 +55,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <li><a href="#Event-Stories">Event Story</a></li>
 <li><a href="#Gacha-Stories">Gacha / Scout Story</a></li>
 <li><a href="#Idol-Stories">Idol / Feature Scout Story</a></li>
-<li><a href="#Mini-Talks">Mini Talk</a></li>
 <li><a href="#Other-Stories">Other Story (Mini Talk, Management Story, Birthday Story)</a></li>
 <li><a href="#Song-Lyrics">Song Lyrics</a></li>
 <li><a href="#Other">Other</a></li>

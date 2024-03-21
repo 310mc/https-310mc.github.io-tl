@@ -139,7 +139,7 @@ permalink: unmei_power_energy/
   </tr>
   <tr>
     <td>
-      This encounter brought forth something ‘special’ that I’m eager to challenge with all my might
+      All the encounters, brought forth by the ‘special’ things that I’m eager to challenge with all my might
       <br>
       All that gentle strength, all those feelings directed at me
       <br>
@@ -192,7 +192,7 @@ permalink: unmei_power_energy/
       <br>
       I embark into tomorrow
       <br>
-      For my ‘like’ is the strongest there ever was!
+      For my ‘like’ is the strongest there ever was![^4]
     </td>
   </tr>
   <tr>
@@ -369,3 +369,4 @@ Tetora doesn’t use his typical speech quirk ending <em>ssu</em> in his second 
 [^1]: Tetora sings about <em>suki</em> (with brackets around the word), lit. “likes”. “Likes” (i.e. Things they love) is a running theme in Ryuseitai’s solo songs.
 [^2]: “Power of fate” is originally just “fate power” in Japanese, like the solo’s title. It could also be read as "fate-power", "fate(ful) power", or "fate’s power" depending on the interpretation.
 [^3]: “Smeared with mud” is a common phrase for Tetora, as well as a reference to his Ryusei Black catchphrase: “The black flame is the mark of effort! The burning fighting spirit, stained with mud!”
+[^4]: The lyrics <em>suki koso saikyou</em> is lit. “like is truly the strongest”. There is no possessive pronoun indicated in Japanese, so it can also be interpreted to be about any ‘like’ in general.

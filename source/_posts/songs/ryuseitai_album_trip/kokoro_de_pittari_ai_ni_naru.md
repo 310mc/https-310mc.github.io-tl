@@ -348,7 +348,7 @@ permalink: kokoro_de_pittari_ai_ni_naru/
 
 ## Translation Notes 
 
-<b>(1.)</b> <em>kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
+<b>(1.)</b> <em>Kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
 
 - <em>kokoro de:</em> lit. with heart. There is no given possessive pronoun, so it could be “our hearts”, “your heart”, or “my heart”. <em>de</em> could be “with”, “within”, or even “by”.
 
@@ -356,11 +356,11 @@ permalink: kokoro_de_pittari_ai_ni_naru/
 
 - <em>ai ni naru:</em> lit. to become love, to be made up of love, to transform into love, etc… There are many ways “naru” can be translated, and it all depends on its usage in a sentence. <em>ai</em> is lit. love, and does not necessarily refer to romantic love.
 
-With all of this combined including the full lyrics, I decided to lean towards the image of “Coming into contact within the (persona’s) heart very tightly. In doing so, love is formed”. I wanted to focus on how Chiaki wishes to be by the persona’s side on an emotional level, i.e. emotionally nestling close to someone who feels tired after a long day, and being by their side via the heart rather than through physical contact.
+With all of this combined including the full lyrics, I decided to lean towards the image of “Coming into contact within/inside the (listener’s) heart very tightly. In doing so, love is formed”. I wanted to focus on how Chiaki wishes to be by the listener’s side on an emotional level, i.e. emotionally nestling close to someone who feels tired after a long day, and being by their side via the heart rather than through physical contact.
 
-<b>(2.)</b> Chiaki briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-5" target="_blank">Album Commemoration Live</a>, MC 5.
+<b>(2.)</b> Japanese fans are also not 100% sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning. Either way, please feel free to interpret it however you deem fitting for the song’s message!
 
-<b>(3.)</b> As an extra note, Japanese fans are also not too sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning, but for now, please feel free to interpret it however you deem fitting for the song’s message!
+<b>(3.)</b> Chiaki also briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-5" target="_blank">Album Commemoration Live</a>, MC 5.
 
 [^1]: I recommend reading the <a href="#Translation-Notes">translation notes</a> for a complete explanation of what these lyrics mean.
 [^2]: “Simplistic” here is <em>sasayaka</em> (lit. modest, meagre), which also refers to something that doesn’t have much to it except for its form. It’s a word that can be used to humble oneself like “It’s a simple present,” etc.

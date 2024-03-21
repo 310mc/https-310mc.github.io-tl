@@ -8,7 +8,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
-- [Enstars, Ryuseitai, Ryuseitai Power Up]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
 description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
@@ -203,7 +203,7 @@ permalink: NEW_DAYBREAK/
     <br>
     While time passes and everything shifts, our bonds remain unchanging
     <br>
-    So for all that love you constantly showed me
+    So for all that love you constantly showed us
     </td>
   </tr>
   <tr>
@@ -402,7 +402,7 @@ permalink: NEW_DAYBREAK/
     <br>
     While time passes and everything shifts, our bonds remain unchanging
     <br>
-    So for all that love you constantly showed me
+    So for all that love you constantly showed us
     </td>
   </tr>
   <tr>
