@@ -488,6 +488,6 @@ permalink: heart_heat_beat/
 
 ## Translation Notes
 
-Heart Heat Beat is a song about the actual heart inside our body. Ryuseitai is the “heart” persona, singing to the listener, hence the use of “I” only, instead of “we”.
+Heart Heat Beat is a song about the actual heart inside our body. Ryuseitai takes on the “heart” persona, singing to the listener. This is why the singular pronoun of “I” is used instead of the plural “we”.
 
-[^1]: The first-person pronoun in quotations is <em>boku</em> (the only line that has a first-person pronoun in the Japanese lyrics). It suits Kanata to sing it, as he’s the one in Ryuseitai who refers to himself with <em>boku</em>.
+[^1]: The first-person pronoun in quotations is <em>boku</em>. It’s the only line in the song that has a first-person pronoun in the Japanese lyrics. As Kanata is the one in Ryuseitai who refers to himself with <em>boku</em>, it suits him to sing this line.

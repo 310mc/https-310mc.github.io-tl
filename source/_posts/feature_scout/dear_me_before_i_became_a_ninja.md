@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Dear Me, Before I Became a Ninja"
+title: "[ES!!] Dear ‘Me’, Before I Became a Ninja"
 date: 2020-9-10 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -178,13 +178,13 @@ R-really? I did not realize I was doing that… Uuu, so embarrassing~
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, you’re just that happy 'bout it, so it makes sense. It’s your very own outfit, after all!
+Ahaha, you’re just that happy ‘bout it, so it makes sense. It’s your very own outfit, after all!
 
 There’s a ton of idols in here, so it doesn’t really hit home when the topic of “personalized outfits” comes up, but…
 
 Now that you, a member of Ryuseitai, have been chosen as the next idol, it’s finally hittin’ me that this really is happening. I’m excited for the day I’m chosen to be up next! ☆
 
-Speaking of, what’s yours gonna be like? I’m guessing something ninja-like?
+Speaking of, what’s yours gonna be like? I’m guessing somethin’ ninja-like?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -206,7 +206,7 @@ Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a moment, Tetora-
 {% endbubble %}
 
 {% bubble Tetora %}
-…Shinobu-kun, what’s wrong? Your face is all puckered, like the time you ate something sour, y’know?
+…Shinobu-kun, what’s wrong? Your face is all puckered, like the time you ate somethin’ sour, y’know?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -282,7 +282,7 @@ Mm—! I can feel a presence…!
 {% endbubble %}
 
 {% bubble Tsukasa %}
-Goodness' sake… Neglecting to return a book is so ill-mannered. And it just *had* to be under my name, too…
+Goodness’ sake… Neglecting to return a book is so ill-mannered. And it just *had* to be under my name, too…
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -396,7 +396,8 @@ Thank you for always watching over me. Because you and my comrades are here for 
 {% endbubble %}
 
 ## Translation Notes
+
 Originally, the story title was <em>katsute no boku e</em> (かつての『ぼく』へ), lit. “To who I once was”. However, to convey the significance of the pronoun used, we chose to translate it like this. Explanation is in the translation note below:
 
-[^1]: He refers to his past self with <em>boku</em> instead of <em>sessha</em>, the first-person pronoun Shinobu usually uses. <em>boku</em> is a common first-person pronoun for boys, but <em>sessha</em> is a first-person pronoun specifically known to be used by ninjas.
+[^1]: He refers to his past self with <em>boku</em> instead of <em>sessha</em>, the first-person pronoun Shinobu usually uses. <em>boku</em> is a common first-person pronoun for boys, but <em>sessha</em> is a first-person pronoun specifically known to be used by ninjas. Please check the <a href="#Translation-Notes">translation notes</a> for more information!
 [^2]: Tsudzura (葛籠): A traditional Japanese lacquer wicker basket made with bamboo and lined with Japanese washi paper. It comes with a lid and is shaped like a box.

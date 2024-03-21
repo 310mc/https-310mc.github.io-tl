@@ -859,11 +859,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/dearmeninja/c1.jpg"
-            alt="Dear me, Before I Became a Ninja"
+            alt="Dear ‘Me’, Before I Became a Ninja"
         />
     </div>
     <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
-        <span>Dear me, Before I Became a Ninja</span>
+        <span>Dear ‘Me’, Before I Became a Ninja</span>
         <span class="read"></span>
     </a>
 </div>

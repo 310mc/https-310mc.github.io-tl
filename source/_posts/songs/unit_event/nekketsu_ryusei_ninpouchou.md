@@ -1,5 +1,5 @@
 ---
-title: "[Song] Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll"
+title: "[Song] Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll"
 date: 2024/3/21 8:04:00
 categories:
 - [Enstars, ES!!]
@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll Song Lyrics by 310mc. By Ryuseitai from the Unit Event Ninja Clan."
+description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll Song Lyrics by 310mc. By Ryuseitai from the Unit Event Ninja Clan."
 permalink: nekketsu_ryusei_ninpouchou/
 ---
 
@@ -67,7 +67,7 @@ permalink: nekketsu_ryusei_ninpouchou/
 
 ## MV Size
 
-<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll</h4>
+<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll</h4>
 
 {% img /img/es/eventstory/ninjaclan/songcover.jpg %}
 
@@ -255,7 +255,7 @@ permalink: nekketsu_ryusei_ninpouchou/
 
 ## Full Lyrics
 
-<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Shooting Star Ninja Art Scroll</h4>
+<h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll</h4>
 
 <p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
@@ -623,7 +623,7 @@ permalink: nekketsu_ryusei_ninpouchou/
 
 ## Translation Notes
 
-<em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Shooting Star Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typically see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
+<em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Meteor Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typically see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
 
 The MV is digital technology mixed with the world of ninjas. It’s recommended to read <a href="/ninja_clan" target="_blank">the story</a> to learn more about this combination!
 

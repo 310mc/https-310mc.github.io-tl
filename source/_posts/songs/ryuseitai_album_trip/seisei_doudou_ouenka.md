@@ -96,7 +96,7 @@ permalink: seisei_doudou_ouenka/
   </tr>
   <tr>
     <td>
-      You’re free to insist on it as honestly and boldly as you like
+      You can insist on it as honestly and boldly as you like
       <br>
       Teach those people who say “it doesn’t suit you,” “it’s weird”
       <br>
@@ -183,7 +183,7 @@ permalink: seisei_doudou_ouenka/
   </tr>
    <tr>
     <td>
-      You know, anyone is free to say it as honestly and boldly as they like
+      You know, anyone can say it as honestly and boldly as they like
       <br>
       Every bit of those feelings you kept hidden will only make your love expand further
       <br>
@@ -191,7 +191,7 @@ permalink: seisei_doudou_ouenka/
       <br>
       You’ll be able to communicate with someone about what you love
       <br>
-      The two of us were able to encounter one another, after all
+      We were able to encounter one another, after all[^4]
     </td>
   </tr>
   <tr>
@@ -365,21 +365,24 @@ permalink: seisei_doudou_ouenka/
 
 ## Translation Notes
 
-<b>(1.)</b> The song title <em>Seisei Doudou Ouenka!</em> (Seisei Doudou Cheer Song!) is made up of wordplays. <em>seisei</em> means “accurate/punctual”, and doudou</em> can mean many things such as “boldly” “majestic”. Together, <em>seisei doudou</em> (正々堂々) means “fair and square”. But the song title uses different kanji for each part.
+<b>(1.)</b> The song title <em>Seisei Doudou Ouenka!</em> (Seisei Doudou Cheer Song!) is made up of wordplays. <em>seisei</em> means “accurate/punctual”, and doudou</em> can mean many things such as “boldly” “majestic”. Together, <em>seisei doudou</em> (正々堂々) means “fair and square”. When Shinobu sings <em>seisei doudou</em>, the lyrics transcribe the word with its typical spelling. I chose to translate it as “honestly and boldly”, but there are many ways to interpret it.
+
+The song title, however uses different kanji for each part:
 
 - 清 <em>sei:</em> Pure/Noble
 - 正 <em>sei:</em> Correct/Right
 - 同 <em>dou:</em> Same
-- 道 <em>dou:</em> Path (This word, when read as <em>michi</em>, is the same word that appears in his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>)
+- 道 <em>dou:</em> Path (This kanji, when read as <em>michi</em>, is the same one that appears in his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>)
 
-When Shinobu sings <em>seisei doudou</em>, the lyrics transcribe the word with its typical spelling. But he does reference the wordplay in the line “Let’s walk down the same ‘path’ in a pure, right way”.
+He references the wordplay in the line “Let’s walk down the same ‘path’ in a pure, right way”.
 
 As for <em>ouenka</em> (cheer song), this typically refers to the songs a <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Japanese cheer squad</a> would sing.
 
-<b>(2.)</b> Shinobu doesn’t use his typical ninja-like speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de-gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-pronoun for a boy). See Shinobu’s <a href="/dear_me_before_i_became_a_ninja" target="_blank">FS1</a> story for a brief understanding.
+<b>(2.)</b> Shinobu doesn’t use his typical ninja-like speech quirk ending <em>de-gozaru</em> in his second solo. This is unlike his first solo, <a href="https://ensemble-stars.fandom.com/wiki/Shippuu_Jinrai_Shinobi_Michi_(Lyrics)" target="_blank">Shippuu Jinrai Shinobi Michi</a>, which had many lyrics where he sings in his usual speech quirk. In stories, when Shinobu doesn’t speak with <em>de-gozaru</em>, it typically relates to his non-ninja, <em>boku</em> self (typical first-person pronoun for a boy). See Shinobu’s <a href="/dear_me_before_i_became_a_ninja" target="_blank">FS1</a> story for a brief look into this part of Shinobu.
 
 <b>(3.)</b> Shinobu briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-2" target="_blank">Album Commemoration Live</a>, MC 2 and 3.
 
 [^1]: Originally, Shinobu rhymes “SOS” with “oh-hisse” (pronounced oo-es), the French version of “heave-ho”. I decided to make it rhyme with “distress” in my translation. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
 [^2]: This line references his song title, “Seisei Doudou”. Please check the <a href="#Translation-Notes">translation notes</a> for more information!
 [^3]: These English lyrics sound as if Shinobu is saying “gozaru” when singing!
+[^4]: Shinobu uses the first-person pronoun <em>bokura</em>. This is unlike his first solo, where he only uses the ninja-like first-person pronoun <em>sessha</em>. Please check the <a href="#Translation-Notes">translation notes</a> for more information!

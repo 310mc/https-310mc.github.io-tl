@@ -565,7 +565,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc1.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a> ♫</p>
 </div>
 
 {% bubble Kanata v2 %}
@@ -617,7 +617,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc2.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/nekketsu_ryusei_ninpouchou" target="_blank">Nekketsu ☆ Ryusei Ninpouchou</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/nekketsu_ryusei_ninpouchou" target="_blank">Nekketsu ☆ Ryusei Ninpouchou</a> ♫</p>
 </div>
 
 {% bubble Midori norsmile %}
@@ -669,11 +669,11 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/dearmeninja/c2.jpg"
-            alt="Dear Me, Before I Became a Ninja"
+            alt="Dear ‘Me’, Before I Became a Ninja"
         />
     </div>
     <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
-        <span>Read Shinobu’s FS1 here!</span>
+        <span>Read Shinobu’s FS1 story here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -684,13 +684,13 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc3.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/seisei_doudou_ouenka" target="_blank">Seisei Doudou Ouenka!</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/seisei_doudou_ouenka" target="_blank">Seisei Doudou Ouenka!</a> ♫</p>
 </div>
 
 {% bubble Shinobu smileconfident %}
 “Thank you for listening to my solo, ‘Seisei Doudou Ouenka!’”
 
-“Allow me to do a brief introduction of myself! I’m Sengoku Shinobu!”
+“Allow me to introduce myself, even if briefly! I’m Sengoku Shinobu!”
 
 “My specialty is jumping through rings of fire! As you already know, my favorite thing is ninjas!”
 
@@ -718,7 +718,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc4.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/suisei_HALATION" target="_blank">Suisei HALATION</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/suisei_HALATION" target="_blank">Suisei HALATION</a> ♫</p>
 </div>
 
 {% bubble Chiaki smileconfident %}
@@ -782,7 +782,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
         />
     </div>
     <a href="/youre_a_hero_too" class="storyName" target="_blank">
-        <span>Read Chiaki’s FS1 here!</span>
+        <span>Read Chiaki’s FS1 story here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -793,7 +793,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc5.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/kokoro_de_pittari_ai_ni_naru" target="_blank">Kokoro de Pittari Ai ni Naru</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/kokoro_de_pittari_ai_ni_naru" target="_blank">Kokoro de Pittari Ai ni Naru</a> ♫</p>
 </div>
 
 {% bubble Chiaki grin %}
@@ -827,7 +827,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc6.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/colors_arise" target="_blank">Colors Arise</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/colors_arise" target="_blank">Colors Arise</a> ♫</p>
 </div>
 
 {% bubble Tetora smileconfident %}
@@ -871,7 +871,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal/" class="storyName" target="_blank">
-        <span>Read Tetora’s FS1 here!</span>
+        <span>Read Tetora’s FS1 story here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -882,7 +882,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc7.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/unmei_power_energy" target="_blank">Unmei Power Energy!</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/unmei_power_energy" target="_blank">Unmei Power Energy!</a> ♫</p>
 </div>
 
 {% bubble Tetora fist %}
@@ -922,7 +922,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc8.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> ♫</p>
 </div>
 
 {% bubble Midori smileexplain %}
@@ -986,7 +986,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
         />
     </div>
     <a href="/staying_true_to_myself" class="storyName" target="_blank">
-        <span>Read Midori’s FS1 here!</span>
+        <span>Read Midori’s FS1 story here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -997,7 +997,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc9.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/green_to_the_sky" target="_blank">Green to the sky</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/green_to_the_sky" target="_blank">Green to the sky</a> ♫</p>
 </div>
 
 {% bubble Midori smile %}
@@ -1045,7 +1045,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/our_stella" target="_blank">Bokura no Stella</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/our_stella" target="_blank">Bokura no Stella</a> ♫</p>
 </div>
 
 {% bubble Chiaki smileconfident %}
@@ -1105,7 +1105,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
         />
     </div>
     <a href="/me_the_sea_and_everyone_with_me" class="storyName" target="_blank">
-        <span>Read Kanata’s FS1 here!</span>
+        <span>Read Kanata’s FS1 story here!</span>
         <span class="read"></span>
     </a>
 </div>
@@ -1116,7 +1116,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc11.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="/happy_drops" target="_blank">happy drops</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="/happy_drops" target="_blank">happy drops</a> ♫</p>
 </div>
 
 {% bubble Kanata v2 %}
@@ -1174,7 +1174,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc12.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/Tenka_Muteki%E2%98%86Meteorangers!_(Lyrics)" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/Tenka_Muteki%E2%98%86Meteorangers!_(Lyrics)" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
 </div>
 
 {% bubble Chiaki smileconfident %}
@@ -1210,7 +1210,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc13.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/One_with_One_(RYUSEITAI_ver.)_(Lyrics)" target="_blank">One with One</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/One_with_One_(RYUSEITAI_ver.)_(Lyrics)" target="_blank">One with One</a> ♫</p>
 </div>
 
 {% bubble Shinobu worried %}
@@ -1246,7 +1246,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% img /img/es/ryuseitaialbumtrip/mc14.jpg %}
 
 <div class="msr-narration">
-    <p style="font-size:20px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/BRAND_NEW_STARS!!_(RYUSEITAI_Ver.)_(Lyrics)" target="_blank">BRAND NEW STARS!!</a> ♫</p>
+    <p style="font-size:18px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/BRAND_NEW_STARS!!_(RYUSEITAI_Ver.)_(Lyrics)" target="_blank">BRAND NEW STARS!!</a> ♫</p>
 </div>
 
 {% bubble Kanata grin %}

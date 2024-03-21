@@ -587,9 +587,11 @@ permalink: NEW_DAYBREAK/
 
 ## Translation Notes
 
-NEW DAYBREAK has no first-person pronouns in the lyrics, so they don’t mention any “I” or “we”. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I’ve chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
+<b>(1.)</b> NEW DAYBREAK has no first-person pronouns in the lyrics, so they don’t mention any “I” or “we”. Because of this, the “I” and “we” used in the translation is interchangeable depending on the person’s interpretation. I’ve chosen to mix between the two as Ryuseitai’s development is a lot about five individuals with different backgrounds uniting as one.
 
-That being said, the “you” in “I’ll sing with you,” “The feelings you gave me,” and “The meteor intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
+<b>(2.)</b> The “you” in “I’ll sing with you,” “The feelings you gave me,” and “The meteor intersects with you” is clearly mentioned in the song with <em>kimi</em> (a second-person pronoun).
+
+<b>(3.)</b> This song is sung under the all-leaders Ryuseitai formation. In other words, there is no designated one leader for NEW DAYBREAK.
 
 [^1]: Tetora’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
 [^2]: Midori’s album card references this line, check the <a href="/ryuseitai_album_trip" target="_blank">Associated Cards</a> for more details.
