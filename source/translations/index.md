@@ -881,24 +881,24 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/bodybuildingbros/c2.jpg"
-            alt="Together, We Are the Bodybuilding Bros!"
-        />
-    </div>
-    <a href="/bodybuilding_bros" class="storyName" target="_blank">
-        <span>Together, We Are the Bodybuilding Bros!</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/idolstory/idealpath/c1.jpg"
             alt="Someday, On The Path To My Ideal"
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
         <span>Someday, On The Path To My Ideal</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/bodybuildingbros/c2.jpg"
+            alt="Together, We Are the Bodybuilding Bros!"
+        />
+    </div>
+    <a href="/bodybuilding_bros" class="storyName" target="_blank">
+        <span>Together, We Are the Bodybuilding Bros!</span>
         <span class="read"></span>
     </a>
 </div>

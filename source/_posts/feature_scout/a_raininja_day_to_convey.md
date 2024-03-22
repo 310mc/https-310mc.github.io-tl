@@ -554,6 +554,49 @@ You’re right, maybe rainy days aren’t so bad after all if it means I get to 
 Right, right? You can come up with many ways to enjoy yourself, no matter the weather!
 {% endbubble %}
 
+## Shinobu Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/dearmeninja/c1.jpg"
+            alt="Dear ‘Me’, Before I Became a Ninja"
+        />
+    </div>
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
+        <span>Dear ‘Me’, Before I Became a Ninja</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/backstageradio/c1.jpg"
+            alt="Backstage RADIO"
+        />
+    </div>
+    <a href="/backstage_radio" class="storyName" target="_blank">
+        <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

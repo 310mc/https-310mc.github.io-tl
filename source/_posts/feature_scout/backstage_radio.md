@@ -250,9 +250,52 @@ Roger that! We shall start with the greeting and title call first. Right then, I
 “As an appetizer to further enjoy your lunch break with color and delight — We present to you the Yumenosaki Academy☆Youth RADIO! Let’s begin~☆”
 {% endbubble %}
 
+## Shinobu Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/dearmeninja/c1.jpg"
+            alt="Dear ‘Me’, Before I Became a Ninja"
+        />
+    </div>
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
+        <span>Dear ‘Me’, Before I Became a Ninja</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/backstageradio/c1.jpg"
+            alt="Backstage RADIO"
+        />
+    </div>
+    <a href="/backstage_radio" class="storyName" target="_blank">
+        <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 
 [^1]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Graduation" target="_blank">Graduation</a> and <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>. Shinobu is one of the candidates in the Student Council elections.
-[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Youth_RADIO" target="_blank">Youth RADIO</a>.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Youth_RADIO" target="_blank">Youth RADIO</a>.

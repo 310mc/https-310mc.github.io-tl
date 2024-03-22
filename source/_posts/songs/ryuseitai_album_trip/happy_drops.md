@@ -105,7 +105,7 @@ permalink: happy_drops/
   </tr>
   <tr>
     <td>
-      it becomes stuffed to the brim with lots and lots drops of [happy] kindness
+      it becomes stuffed to the brim with lots and lots of drops of [happy] kindness
       <br>
       those feelings of love make the whole world sparkle ☆ (sparkle ☆)[^1]
       <br>
@@ -149,7 +149,7 @@ permalink: happy_drops/
   </tr>
   <tr>
     <td>
-      lots and lots of the drops of [happy] kindness are gathering to the very brim
+      lots and lots of drops of [happy] kindness are gathering to the very brim
       <br>
       every time you give me that smile ♪ (smile ♪) that soothes me
       <br>

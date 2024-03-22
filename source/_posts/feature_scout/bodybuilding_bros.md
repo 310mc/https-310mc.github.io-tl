@@ -246,6 +246,73 @@ Yeah, we owe this bonding session all to exercise…♪
 <th>(Ughhh… Now I don’t want him getting any more buff than he already is. From now on he's not getting any broccoli or avocado from *me*…!)</th>
 {% endbubble %}
 
+## Tetora Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Someday, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Someday, On The Path To My Ideal</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/bodybuildingbros/c2.jpg"
+            alt="Together, We Are the Bodybuilding Bros!"
+        />
+    </div>
+    <a href="/bodybuilding_bros" class="storyName" target="_blank">
+        <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/manlyback/c1.jpg"
+            alt="Manly Back"
+        />
+    </div>
+    <a href="/manly_back" class="storyName" target="_blank">
+        <span>Manly Back</span>
+        <span class="read"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/justthewayiam/c1.jpg"
+            alt="Just The Way I Am"
+        />
+    </div>
+    <a href="/just_the_way_i_am" class="storyName" target="_blank">
+        <span>Just The Way I Am</span>
+        <span class="read"></span>
+    </a>
+</div>-->
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            alt="The Promise To Train"
+        />
+    </div>
+    <a href="/the_promise_to_train/" class="storyName" target="_blank">
+        <span>The Promise To Train</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

@@ -365,7 +365,7 @@ permalink: seisei_doudou_ouenka/
 
 ## Translation Notes
 
-<b>(1.)</b> The song title <em>Seisei Doudou Ouenka!</em> (Seisei Doudou Cheer Song!) is made up of wordplays. <em>seisei</em> means “accurate/punctual”, and doudou</em> can mean many things such as “boldly” “majestic”. Together, <em>seisei doudou</em> (正々堂々) means “fair and square”. When Shinobu sings <em>seisei doudou</em>, the lyrics transcribe the word with its typical spelling. I chose to translate it as “honestly and boldly”, but there are many ways to interpret it.
+<b>(1.)</b> The song title <em>Seisei Doudou Ouenka!</em> (Seisei Doudou Cheer Song!) is made up of wordplays. <em>seisei</em> means “accurate/punctual”, and <em>doudou</em> can mean many things such as “boldly” “majestic”. Together, <em>seisei doudou</em> (正々堂々) means “fair and square”. When Shinobu sings <em>seisei doudou</em>, the lyrics transcribe the word with its typical spelling. I chose to translate it as “honestly and boldly”, but there are many ways to interpret it.
 
 The song title, however uses different kanji for each part:
 

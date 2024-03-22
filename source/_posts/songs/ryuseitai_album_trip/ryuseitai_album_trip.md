@@ -859,7 +859,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Tetora fist %}
 “We’ve still got more to go for our live show, so please try to follow along!”
 
-“Next up is my solo song, ‘Unmei Power Energy!” Please accept all my energy and efforts…☆”
+“Next up is my solo song, ‘Unmei Power Energy!’ Please accept all my energy and efforts…☆”
 {% endbubble %}
 
 <div class="stories">

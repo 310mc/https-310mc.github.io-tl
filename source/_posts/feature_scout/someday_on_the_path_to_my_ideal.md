@@ -404,7 +404,7 @@ In order to do that… My only choice is to work hard, hone myself, and focus my
 {% endbubble %}
 
 {% bubble Hinata serious %}
-…………
+……………
 {% endbubble %}
 
 {% bubble Tetora idle %}
@@ -496,6 +496,73 @@ All sortsa things happen in my life every day, but… I’ll make sure I become 
 
 I’ll let my personalized outfit influence me to continue becoming a great man. So please, keep watching over me…!
 {% endbubble %}
+
+## Tetora Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Someday, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Someday, On The Path To My Ideal</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/bodybuildingbros/c2.jpg"
+            alt="Together, We Are the Bodybuilding Bros!"
+        />
+    </div>
+    <a href="/bodybuilding_bros" class="storyName" target="_blank">
+        <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/manlyback/c1.jpg"
+            alt="Manly Back"
+        />
+    </div>
+    <a href="/manly_back" class="storyName" target="_blank">
+        <span>Manly Back</span>
+        <span class="read"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/justthewayiam/c1.jpg"
+            alt="Just The Way I Am"
+        />
+    </div>
+    <a href="/just_the_way_i_am" class="storyName" target="_blank">
+        <span>Just The Way I Am</span>
+        <span class="read"></span>
+    </a>
+</div>-->
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            alt="The Promise To Train"
+        />
+    </div>
+    <a href="/the_promise_to_train/" class="storyName" target="_blank">
+        <span>The Promise To Train</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

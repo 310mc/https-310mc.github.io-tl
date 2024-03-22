@@ -9,7 +9,7 @@ categories:
 tags:
 - Idol Story
 - Yuumasu
-description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tsukasa and Tetora. Shinobu tries to figure out the perfect personalized outfit for himself…"
+description: "[ES!!] Translation of a Shinobu Feature Scout story, featuring Tetora and Tsukasa. Shinobu tries to figure out the perfect personalized outfit for himself…"
 permalink: dear_me_before_i_became_a_ninja/
 ---
 
@@ -31,8 +31,8 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
                 </div>
                 <div class="value">
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Tsukasa" character="Tsukasa"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Tsukasa" character="Tsukasa"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -420,6 +420,51 @@ So everyone can see how I daringly chase after my own dreams—!
 
 Thank you for always watching over me. Because you and my comrades are here for me, I am able to truly live my life…♪
 {% endbubble %}
+
+## Shinobu Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/dearmeninja/c1.jpg"
+            alt="Dear ‘Me’, Before I Became a Ninja"
+        />
+    </div>
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
+        <span>Dear ‘Me’, Before I Became a Ninja</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/backstageradio/c1.jpg"
+            alt="Backstage RADIO"
+        />
+    </div>
+    <a href="/backstage_radio" class="storyName" target="_blank">
+        <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 
