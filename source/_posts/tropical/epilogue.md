@@ -84,19 +84,19 @@ please come over here~ we can have a [quick look] at how the venue looks like~�
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
-Wow, it’s practically a full house… I can see a lot of people carrying the collab merch between us and “Tropical Island Troppeys”.
+Wow, it’s practically a full house… I can see a lot of people carrying the collab merch between us and ‘Tropical Troppeys’.
 
 Their hiatus meant no new merchandising, but thanks to this live show, they were able to make new merch to sell… Just that alone makes this project worthwhile.
 
 …Ah! That person is holding a super rare uchiwa fan…![^1] Those were only given out during the screening premiere of the cartoon…!
 
-I wonder if this means there are “Tropical Island Troppeys” fans in the audience, too… Were they also sad when they first heard about the hiatus…?
+I wonder if this means there are ‘Tropical Troppeys’ fans in the audience, too… Were they also sad when they first heard about the hiatus…?
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
 everything has to come to an [end], isn’t that right?
 
-but that [end] is why we are here — because you love [tropical island troppeys], yes?
+but that [end] is why we are here — because you love [tropical troppeys], yes?
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
@@ -126,7 +126,7 @@ Ah, I’m fine. I just thought I should thank her later for coming up with this 
 
 ‘Cause she led me all the way here, after I was so heartbroken by the hiatus announcement.
 
-Anyway, I see we’re all here. We’re gonna do a joint live with “Tropical Island Troppeys”.
+Anyway, I see we’re all here. We’re gonna do a joint live with ‘Tropical Troppeys’.
 
 Working together with the mascots I used to adore as a kid is like a dream come true to me.
 {% endbubble %}
@@ -148,7 +148,7 @@ I can understand if this were a stuffed toy or a costumed character, but it’s 
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-You don’t get it at all… These illustrations of “Tropical Island Troppeys” were their first official designs, y’know?
+You don’t get it at all… These illustrations of ‘Tropical Troppeys’ were their first official designs, y’know?
 {% endbubble %}
 
 {% bubble Midori fist %}
@@ -156,7 +156,7 @@ Plushies and stuff are cute too, but using the original designs really suits thi
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-“Tropical Island Troppeys” truly have a deep history… There is still quite a lot we could learn about them, isn’t there?
+‘Tropical Troppeys’ truly have a deep history… There is still quite a lot we could learn about them, isn’t there?
 
 But I’m certain that there is a deeper meaning to our encounter with them. I will try to learn more about mascot characters through this job.
 {% endbubble %}
@@ -196,7 +196,7 @@ Ahaha. Sure, but if you start to stiffen up again, I’ll get angry, okay…? �
 
 …Ah, it’s about time for our performance.
 
-We have special guests with us today, so we need to make sure all the “Tropical Island Troppeys” fans enjoy our performance, too.
+We have special guests with us today, so we need to make sure all the ‘Tropical Troppeys’ fans enjoy our performance, too.
 
 But all of you went along with all my unreasonable demands, so I’m sure we’ll do just fine.
 
@@ -212,7 +212,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 “Last time, we were RB, led by Tetora-kun — This time, we’re Yuruseitai, led by me.”
 
-“What’s more, we won’t be performing alone — Our friends from ‘Tropical Island Troppeys’ have rushed to join our side!”
+“What’s more, we won’t be performing alone — Our friends from ‘Tropical Troppeys’ have rushed to join our side!”
 
 “The residents of this tropical island — Bearbonk, Mr. Slothy, Armajiro, Kiwi, and Plateypus — are all here to dance with us!”
 {% endbubble %}
@@ -222,7 +222,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 “They’ll continue to enjoy their days on the tropical island, and then pop up on a whim to emotionally heal us whenever we’re sad or exhausted.”
 
-“Those were always the sort of warm memories — the warm light that ‘Tropical Island Troppeys’ had given our hearts.”
+“Those were always the sort of warm memories — the warm light that ‘Tropical Troppeys’ had given our hearts.”
 
 “That’s why we Ryuseitai asked them to perform with us, so that we can repay their kindness.”
 
@@ -272,7 +272,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 {% img /img/es/eventstory/tropical/shinobubcg.jpg %}
 
 {% bubble Shinobu v2 %}
-<th>(The fans are all enjoying our collaboration with “Tropical Island Troppeys”.)</th>
+<th>(The fans are all enjoying our collaboration with ‘Tropical Troppeys’.)</th>
 
 <th>(First RB, and now Yuruseitai — My comrades are all beaming out a beautiful radiance. That makes me unbelievably happy.)</th>
 
@@ -300,7 +300,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 
 <th>(let’s continue to go forward as [best] as we [can], with anticipation of what is to come. because this is the dawn of a new ryuseitai…☆)</th>
 
-“tropical island troppeys, i will also heal everyone alongside you~♪”
+“tropical troppeys, i will also heal everyone alongside you~♪”
 
 “…puka! ♪”[^3]
 {% endbubble %}
@@ -412,7 +412,7 @@ Hm? That’s exactly what you came to speak to me about?
 {% endbubble %}
 
 {% bubble Midori blushshocked %}
-A letter… Wait— Is this from “Tropical Island Troppeys”…!?
+A letter… Wait— Is this from ‘Tropical Troppeys’…!?
 
 Wow, are you serious…? They wrote a message with an illustration just for <em>me</em>…?
 {% endbubble %}

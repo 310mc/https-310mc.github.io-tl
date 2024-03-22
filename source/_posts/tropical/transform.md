@@ -101,7 +101,7 @@ Don’t try to pick up the keywords; I’d rather you feel it through your heart
 
 Ah, to be clear, what you just mentioned is pretty much the general definition of mascot characters, and I personally really like the sloppy-looking mascots, but…
 
-The “Tropical Island Troppeys” characters we’ll be collaborating with are <em>only</em> soft and cute, so that might make things easier for you guys.[^1]
+The ‘Tropical Troppeys’ characters we’ll be collaborating with are <em>only</em> soft and cute, so that might make things easier for you guys.[^1]
 {% endbubble %}
 
 {% bubble Tetora frustrated %}
@@ -201,7 +201,7 @@ Anzu-san? What’re you doing here so late at night…?
 {% endbubble %}
 
 {% bubble Midori blushshocked %}
-Huh!? “Tropical Island Troppeys” agreed to collab with us…!?
+Huh!? ‘Tropical Troppeys’ agreed to collab with us…!?
 
 They’ll perform with us in the live show!? Ahh, I’m so glad…!
 {% endbubble %}
@@ -237,7 +237,7 @@ Ugh, I can’t stand myself… I just wanna disappear…
 {% endbubble %}
 
 {% bubble Midori curious %}
-…Huh? The company behind “Tropical Island Troppeys” were super happy?
+…Huh? The company behind ‘Tropical Troppeys’ were super happy?
 
 Why’s that? I didn’t even do anything… *They’re* the ones who’ve always given <em>me</em> so much comfort.
 
@@ -247,7 +247,7 @@ But when they saw my love for mascots, and the performance of the newly formed R
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
-Wow, really…? So “Tropical Island Troppeys” wanted something new to try out, too…
+Wow, really…? So ‘Tropical Troppeys’ wanted something new to try out, too…
 
 That makes sense — After all, their history goes way back… and they’d always be printed on all the merchandising of the company.
 
@@ -263,7 +263,7 @@ Thank you so much for letting me know, Anzu-san.
 
 I may not be very reliable, but now I <em>have</em> to make sure to show a new image color of my own, don’t I?
 
-I can’t cower back now, or I’ll only let Ryuseitai and “Tropical Island Troppeys” down, when they put so much faith in me.
+I can’t cower back now, or I’ll only let Ryuseitai and ‘Tropical Troppeys’ down, when they put so much faith in me.
 {% endbubble %}
 
 {% bubble Midori fist %}
@@ -275,7 +275,7 @@ Heheh, there’s been so much happening that I’m not used to, so I kept switch
 
 But thanks to you, Anzu-san, I feel like I finally blew all of that anxiety away.
 
-I’ll do my best to meet the expectations of “Tropical Island Troppeys”…♪
+I’ll do my best to meet the expectations of ‘Tropical Troppeys’…♪
 {% endbubble %}
 
 ## Chapter 2
@@ -497,7 +497,7 @@ Yeah. For now, let’s all try and act as mascot characters.
 
 Our first lesson is to get a feel of what a “soft atmosphere” is like through acting.
 
-I’m gonna assign you all a “Tropical Island Troppeys” character role, so act out the script on the file I prepared.
+I’m gonna assign you all a ‘Tropical Troppeys’ character role, so act out the script on the file I prepared.
 
 Let’s start from Shinkai-senpai. Please act as Armajiro in a round, peaceful way…!
 {% endbubble %}
@@ -887,7 +887,7 @@ Okay, let’s…♪
 
 ## Translation Notes
 
-[^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Island Troppeys are not <em>yuruchara</em> designs, they’re mainly cute/soft rather than “bizarre” in their cuteness.
+[^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Troppeys are not <em>yuruchara</em> designs, they’re mainly cute/soft rather than “bizarre” in their cuteness.
 [^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot’s name.
 [^3]: Armajiro (<em>arumajirou</em> in Japanese) appears to speaks in a masculine-like, relaxed tone, saying <em>maaruku, maaruku, osameru zoo…♪</em> (ending speech quirk appears to be ぞお <em>zoo</em> at the end).
 [^4]: Kiwi speaks as it is written in English, and the first-person pronoun it uses is <em>boku</em>. (As a side note, Shinobu typically uses the <em>sessha</em> pronoun, and usually only uses <em>boku</em> when referring to his past, non-ninja self.)

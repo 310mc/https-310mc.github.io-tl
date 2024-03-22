@@ -79,7 +79,7 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
 
 {% img /img/es/idolstory/dearmeninja/1.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 <th>(Shu-tatatata… I’ve made it~♪)</th>
 
 <th>(It seems like Anzu-dono’s not here yet. There’s still some time before we have to meet, so I will wait for her on the bench.)</th>
@@ -90,8 +90,10 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
 
 <th>(I’m really looking forward to seeing how it will turn out!)</th>
 
-Ah, it’s Anzu-dono! Heeey, Anzu-dono\~☆ I’m over here\~
+Ah, it’s Anzu-dono! Heeey, Anzu-dono\~☆ I’m over here\~ <em><th>(waves)</th></em>
+{% endbubble %}
 
+{% bubble Shinobu smile %}
 Come, come, sit next to me! …Oh, no, I also just got here.
 
 The weather today is really nice, I should have brought my lunchbox with me. It would have felt like a picnic since we’re in the Floating Gar—
@@ -100,7 +102,7 @@ Ah, forgive me. I strayed off topic.
 
 We are going to talk about my personalized outfit, right? I assure you that I did *not* forget!
 
-But I do not know how the procedure works. If it’s alright, would you please teach me~?
+However, I do not know how the procedure works. If it’s alright, would you please teach me~?
 
 …Wow, you even prepared a design idea notebook for me?
 
@@ -111,7 +113,7 @@ Okay! I will take a look right away. Let’s see…♪
     <p>10 minutes later…</p>
 </div>
 
-{% bubble Shinobu %}
+{% bubble Shinobu smileconfident %}
 Hmm~, all of these design ideas can be summed up with one word: brilliant!
 
 To think you had this much data on ninjas… Are you perhaps a ninja lover as well, Anzu-dono?
@@ -123,18 +125,24 @@ Mhm, I agree. I also think the ninja motifs are great. You sure understand me we
 I cannot wait for the finished product. I’m excited to see what kind of ninja attire it will turn out to be♪
 
 …Huh? You want *my* opinion…?
+{% endbubble %}
 
+{% bubble Shinobu frown %}
 I would not know what to add to this, though. All of your design suggestions were very detailed and perfect already, so—
 
 It isn’t perfect since you have yet to implement my request into the design, you say? I see… Hmmm~…
 
 I wish for the outfit to be like a ninja, so I do not have any other desires beyond that… Hmmm, it is hard to give you an immediate answer.
+{% endbubble %}
 
+{% bubble Shinobu curious %}
 …You want me to carefully think about it with the rough sketch you plan to make?
+{% endbubble %}
 
+{% bubble Shinobu fist %}
 Understood! It’ll be easier for me to visualize what I want if I have a drawing, so that would be very helpful.
 
-I’m looking forward to the rough sketch~. Well then, Anzu-dono, I shall leave it to you!
+I’m looking forward to the rough sketch~ Well then, Anzu-dono, I shall leave it to you!
 {% endbubble %}
 
 <div class="msr-location">
@@ -147,37 +155,37 @@ I’m looking forward to the rough sketch~. Well then, Anzu-dono, I shall leave 
     <p>Hours later…</p>
 </div>
 
-{% bubble Shinobu %}
+{% bubble Shinobu grin %}
 Hmhmhm\~♪ My own\~ personalized outfit\~♪ Hmhmhm\~♪
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora norsmile %}
 You sound like you’re in a good mood, huh~? Hope you don’t mind me sittin’ here.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu grin %}
 Be my guest~♪ Are you also having a late lunch, Tetora-kun?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smilesoft %}
 Yep. I just got here a second ago since my job starts in the evening.
 
 Anyway, are you next in line to get a personalized outfit?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu surprised0 %}
 Ehhh!? How did you know!? I have not told anyone yet…
 {% endbubble %}
 
-{% bubble Tetora %}
-You said it yourself— Or well, you were humming a song, y’know? Going all, “my own~ personalized outfit~♪”.
+{% bubble Tetora curious %}
+You said it yourself… Or more like, you were humming a song, y’know? Going all, “my own~ personalized outfit~♪”.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 R-really? I did not realize I was doing that… Uuu, so embarrassing~
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora smile %}
 Ahaha, you’re just that happy ‘bout it, so it makes sense. It’s your very own outfit, after all!
 
 There’s a ton of idols in here, so it doesn’t really hit home when the topic of “personalized outfits” comes up, but…
@@ -187,17 +195,17 @@ Now that you, a member of Ryuseitai, have been chosen as the next idol, it’s f
 Speaking of, what’s yours gonna be like? I’m guessing somethin’ ninja-like?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu v2 %}
 Yes! Actually—
 
 Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a moment, Tetora-kun.
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora norsmile %}
 ‘Kay. Don’t mind me, I’ll just be chowing down.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu srsthinking %}
 <th>(She sent over the finished rough sketch already… Even though we only just talked about it this very morning.)</th>
 
 <th>(It’s a splendid ninja attire design that suits me well. I feel like this is good enough, and there’s no point in me pondering anymore about it.)</th>
@@ -205,23 +213,23 @@ Oh! I got a message from Anzu-dono on HoldHands. Excuse me for a moment, Tetora-
 <th>(However, Anzu-dono sought out my opinion. I wonder if it will trouble her instead if I say *nothing* at all…?)</th>
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora serious %}
 …Shinobu-kun, what’s wrong? Your face is all puckered, like the time you ate somethin’ sour, y’know?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu idle %}
 The truth is, I received a rough sketch of my personalized outfit from Anzu-dono, and it looks like this—
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora grin %}
 Ohhh~ The design isn’t *just* ninja-themed, it’s even showing off what makes you *you*. You can really tell this is one of Anzu-Anego’s designs!
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu curious %}
 What makes me, *me*?
 {% endbubble %}
 
-{% bubble Tetora %}
+{% bubble Tetora grin %}
 Yup! You may be small in size, but your relentless mentality is why you’re so manly and cool.
 
 This outfit really highlights your fortitude to never give in no matter what happens.
@@ -229,18 +237,20 @@ This outfit really highlights your fortitude to never give in no matter what hap
 And that fortitude reminds me of the time you jumped through a ring of fire; that was *so* awesome!
 {% endbubble %}
 
-{% bubble Shinobu %}
-Hehehe, you’re going to make me blush~. You really do pay close attention to me, don’t you? ♪
+{% bubble Shinobu smileconfident %}
+Heheh, you’re going to make me blush~ You pay close attention to me, don’t you? ♪
 
 <th>(It is not just Tetora-kun, but Anzu-dono as well… Here, I have many comrades who pay close attention to me and accept me for who I am.)</th>
 
-<th>(Every day is a blessing — I want to tell that to my past self[^1], who was all alone…)</th>
+<th>(Every day is a blessing — I want to tell that to my ‘past self’[^1], who was all alone…)</th>
+{% endbubble %}
 
-<th>(I want to tell him that it’s okay to love what you love. Because people who will accept that about you are definitely out there in the world.)</th>
+{% bubble Shinobu smilesoft2 %}
+<th>(I want to tell him that it’s okay to keep loving what you love. Because people who will accept that about you are definitely out there in the world.)</th>
 
 <th>(Because a place where you can voice that love of yours so loudly is out there, too.)</th>
 
-<th>(I am proof of that. Because I refused to abandon my dreams, this Sengoku Shinobu is able to stand here right now.)</th>
+<th>(I am now proof of that. Because I refused to abandon my dreams, this Sengoku Shinobu is able to stand here right now.)</th>
 
 <th>(If I can convey that to the people who are like my past self by wearing this ninja attire—)</th>
 
@@ -255,19 +265,23 @@ Hehehe, you’re going to make me blush~. You really do pay close attention to m
 
 {% img /img/es/idolstory/dearmeninja/3.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu norsmile %}
 Hmm. As I expected; nobody is around when it is this late at night.
 
 I won’t be in anyone’s way if I do it here. After all, it’d be inexcusable to scatter things around in the room and make a mess this late.
 
 Heave-ho… Alright then, it’s time to open this wicker box[^2] of memories~♪
+{% endbubble %}
 
+{% bubble Shinobu smile %}
 Nihihi. These photos and handmade picture scrolls really bring me back. I did not have a master or any ninja companions, so I had to learn everything through imitation at first.
 
 I would constantly practice throwing origami shuriken at the tree every day, even though they can’t pierce into anything at all…
 
 And the very first item I bought with my own money is this shuriken toy — the thing that started everything.
+{% endbubble %}
 
+{% bubble Shinobu shocked %}
 Mm—! I can feel a presence…!
 {% endbubble %}
 
@@ -275,41 +289,45 @@ Mm—! I can feel a presence…!
     <p>Fades to black for a moment…</p>
 </div>
 
-{% bubble Shinobu %}
+{% bubble Shinobu frown %}
 <th>(Phew, that was close. To think that someone would come here during this time of the night…)</th>
 
 <th>(Ah, wait! I ended up hiding myself with the Camouflage Jutsu out of habit…! Even though I have nothing to feel guilty about…!)</th>
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa yare %}
 Goodness’ sake… Neglecting to return a book is so ill-mannered. And it just *had* to be under my name, too…
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu srsthinking %}
 <th>(This voice sounds like Suou-kun. Hmm, I see — it seems like he’s here to return a book.)</th>
 
 <th>(I feel awkward staying hidden, but this does not seem to be the right mood for a conversation, so I’ll stay still and wait until he leaves.)</th>
+{% endbubble %}
 
+{% bubble Shinobu surprised %}
 <th>(…Wahhh!? Oh no, I left my box on the floor! If he discovers it, he’ll immediately find it suspicious. I must quickly retrieve it—)</th>
 
 <th>(Slowly reach out your hand… Little by little…)</th>
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa curious %}
 Oh? There’s a strange box here—
+{% endbubble %}
 
+{% bubble Tsukasa surprised %}
 Eeep! A hand came out of the bookshelf— Don’t tell me it’s a ghost…!?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu worried %}
 Ahh~! It is not a ghost, it’s me!
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa serious %}
 S-Shinobu-kun? What are you doing here…?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu awkward %}
 That wicker box is filled with my treasured items, and just as I was reminiscing about the memories of my past…
 
 I was surprised by your approaching presence and hid myself out of habit. I apologize for startling you~
@@ -319,41 +337,43 @@ I was surprised by your approaching presence and hid myself out of habit. I apol
 Oh, so that’s what this box was. This origami shuriken that fell down — is this one of your treasured items, as well?
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu nod %}
 That’s right. It’s the first shuriken I ever made! Thank you for picking it up for me, Suou-kun.
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa grin %}
 You’re welcome. You’ve always had dexterous hands, I see.
 {% endbubble %}
 
-{% bubble Shinobu %}
-Back in those days, I had no choice but to make them myself\~. So most of the things in this box are handmade\~♪
+{% bubble Shinobu smilesoft %}
+Back in those days, I had no choice but to make them myself\~ So most of the things in this box are handmade\~♪
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa smile %}
 Marvelous! There are so many ninja-related items in here… I can tell that you truly do not give up when it comes to the values you have, as well as where you individuality is concerned — How splendid. ♪
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu curious %}
 Me? Splendid?
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa norsmile %}
 Yes, very much so. People always keep their interests and ambitions deep within their heart.
 
 However, not everyone can make their dream come true. It is not uncommon for people to give up halfway.
+{% endbubble %}
 
+{% bubble Tsukasa smilesoft2 %}
 Yet you were able to continue staying the way you wished to be. Your level of persistence is not of the ordinary.
 {% endbubble %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smileconfident %}
 For me, *being* a ninja is not painful. But I’m very happy to hear such praises.
 
 However, I’m still not fully-fledged yet. I will continue to work hard at my training as a ninja~!
 {% endbubble %}
 
-{% bubble Tsukasa %}
+{% bubble Tsukasa smile %}
 Fufu, that’s the spirit~♪
 
 Ahh, but please do refrain from startling people like you did earlier.
@@ -369,7 +389,7 @@ Ahh, but please do refrain from startling people like you did earlier.
     <p>The next day…</p>
 </div>
 
-{% bubble Shinobu %}
+{% bubble Shinobu norsmile %}
 Anzu-dono, I apologize for asking you to come here so suddenly. But I have something that I *really* want to give you…
 
 Since you’re making my personalized outfit for me, I want you to accept this!
@@ -377,19 +397,25 @@ Since you’re making my personalized outfit for me, I want you to accept this!
 
 {% img /img/es/idolstory/dearmeninja/cg.jpg %}
 
-{% bubble Shinobu %}
+{% bubble Shinobu smileconfident %}
 This plastic shuriken clearly looks like a toy and has scratches all over, but it is also the *very* first item I bought with my own pocket money — it is my dearest treasure.
 
 This simple toy is proof of how that tiny first-step I took in the past has helped to make me the ninja I am now.
+{% endbubble %}
 
+{% bubble Shinobu smilesoft %}
 I’m still inexperienced, so this might be an aspiration beyond my capabilities right now—
 
 But I want to become a heroic ninja — one that can be the “light of hope” to people who have things they love, yet who are afraid of turning that love into a dream they can hold.
+{% endbubble %}
 
+{% bubble Shinobu fist %}
 That’s why I want to add a large shuriken like this one to the design you made, Anzu-dono! So that all of those people can easily spot it!
 
 So everyone can see how I daringly chase after my own dreams—!
+{% endbubble %}
 
+{% bubble Shinobu smile %}
 …Ehehe. I knew you would say that. I’m counting on you, Anzu-dono~♪
 
 Thank you for always watching over me. Because you and my comrades are here for me, I am able to truly live my life…♪

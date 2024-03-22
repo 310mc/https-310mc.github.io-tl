@@ -181,7 +181,7 @@ I can’t believe they’d announce something like that as <em>soon</em> as I be
 {% endbubble %}
 
 {% bubble Midori sad4 %}
-The “Tropical Island Troppeys” I loved for so long are going on an indefinite hiatus…? The same “Tropical Island Troppeys” that would always brighten my day with their softness…?
+The ‘Tropical Troppeys’ I loved for so long are going on an indefinite hiatus…? The same ‘Tropical Troppeys’ that would always brighten my day with their softness…?
 
 Bearbonk, Mr. Slothy, Armajiro, Kiwi, Plateypus…[^2] It’s over for me…
 
@@ -203,7 +203,7 @@ Not to mention… Although it isn’t happening as much anymore, ‘cause my fan
 
 But it <em>is</em> possible that one of my fans came over, ‘cause they might’ve known me as the “super handsome greengrocer guy”…[^3]
 
-Either way, the shock of losing “Tropical Island Troppeys” won’t disappear by sinking myself into depression… so maybe I’ll help out a little as a breather…
+Either way, the shock of losing ‘Tropical Troppeys’ won’t disappear by sinking myself into depression… so maybe I’ll help out a little as a breather…
 {% endbubble %}
 
 <div class="msr-narration">
@@ -349,7 +349,7 @@ take your time, okay, midori? ♪
 {% bubble Midori sad2 %}
 <th>(But man, what am I supposed to <em>do</em>… Out of all the timings, I can’t believe <em>this</em> is when I end up being the leader of Ryuseitai… I’m really dumb out of luck.)</th>
 
-<th>(*Sigh…* Why did “Tropical Island Troppeys” have to take a hiatus…?)</th>
+<th>(*Sigh…* Why did ‘Tropical Troppeys’ have to take a hiatus…?)</th>
 
 <th>(Ughh, this is all my fault for never noticing…)</th>
 
@@ -553,7 +553,7 @@ There’s a toy store across the street — They may have some mascot merchandis
 {% bubble Shinobu v2 %}
 Look, look! This is such a good bargain~♪
 
-Heheh~ “Tropical Island Troppeys” bring back so many memories for me!
+Heheh~ ‘Tropical Troppeys’ bring back so many memories for me!
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -595,7 +595,7 @@ Until then, I will train myself to perfect the art of transformation! Nin-nin~�
 {% bubble Midori sighdrop %}
 *Sigh…*
 
-Even when the world is filled with bright sunlight, “Tropical Island Troppeys” still won’t come back…
+Even when the world is filled with bright sunlight, ‘Tropical Troppeys’ still won’t come back…
 
 I feel like there’s an empty hole in my heart… And staying in my room only started to make me imagine all my <em>other</em> beloved mascot characters disappearing, which just made me feel even more depressed…
 
@@ -651,11 +651,11 @@ You’re fine with that, too…?
 {% bubble Midori serious %}
 …Yeah, alright, I don’t think you’d laugh at me if I vented to you, Anzu-san.
 
-The truth is, “Tropical Island Troppeys” is going to take a hiatus.
+The truth is, ‘Tropical Troppeys’ is going to take a hiatus.
 
 Ah, I’m sure that didn’t make any sense to you. Let me just show you on my phone.
 
-Here you go — “Tropical Island Troppeys” are a group of soft animals, such as a sloth, kiwi, bear, armadillo… And they all spend their days having fun on a tropical island.
+Here you go — ‘Tropical Troppeys’ are a group of soft animals, such as a sloth, kiwi, bear, armadillo… And they all spend their days having fun on a tropical island.
 
 All they do is eat fruits from the island and relax all day, every day.
 
@@ -903,7 +903,7 @@ Hmm…?
 ## Chapter 6
 
 {% bubble Midori norsmile %}
-Do you guys know about “Tropical Island Troppeys”?
+Do you guys know about ‘Tropical Troppeys’?
 
 You’ll find them in the documents. They’re a group of animal mascot characters who enjoy their lives on a tropical island.
 
@@ -913,7 +913,7 @@ But either way, they’re definitely one of the original sets of mascot characte
 {% endbubble %}
 
 {% bubble Chiaki northinking %}
-“Tropical Island Troppeys”?
+‘Tropical Troppeys’?
 
 They’re a group of characters aimed at children, and have been active for a long time, right? I do recall seeing them in commercial breaks whenever I was watching super sentai shows.
 
@@ -921,7 +921,7 @@ There was a cartoon for them too, wasn’t there…? The episodes were just five
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-I know them, as well. I used to have “Tropical Island Troppeys”-themed stationery when I was young.
+I know them, as well. I used to have ‘Tropical Troppeys’-themed stationery when I was young.
 
 They were even selling merchandise of them near Midori-kun’s home. I bought a few with Tetora-kun when we came by his home.
 {% endbubble %}
@@ -945,7 +945,7 @@ And Mr. Slothy is so soft-looking in every way, it’s just adorable! It would t
 {% bubble Midori awkward %}
 …I need to finish talking about the project? Ahh, I’m sorry, Anzu-san!
 
-I couldn’t hold back the joy of making new fans for “Tropical Island Troppeys,” that I almost derailed the topic…♪
+I couldn’t hold back the joy of making new fans for “Tropical Troppeys,” that I almost derailed the topic…♪
 {% endbubble %}
 
 {% bubble Midori sighdrop %}

@@ -156,7 +156,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
 {% img /img/es/eventstory/tropical/minitalk_tetora2_3.jpg %}
 
 {% bubble Tetora v2 %}
-This outfit is meant to match with "Tropical Island Troppeys," right?
+This outfit is meant to match with "Tropical Troppeys," right?
 
 But it's still made to look cool, so I like it! Most importantly, Midori-kun's super happy 'bout it too.
 
@@ -172,7 +172,7 @@ You made it, right, Anego? That makes me so happy~♪
             {% bubble Tetora fist %}
             I can't thank ya enough, Anego. I can't wait for the performance to start!
 
-            We're gonna do our absolute best to bring out the charms of "Tropical Island Troppeys" to the max!
+            We're gonna do our absolute best to bring out the charms of ‘Tropical Troppeys’ to the max!
 			{% endbubble %}
         </div>
     </div>

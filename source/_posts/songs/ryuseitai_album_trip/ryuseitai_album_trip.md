@@ -532,7 +532,7 @@ permalink: ryuseitai_album_trip/
 
 {% img /img/es/ryuseitaialbumtrip/login1.png %}
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=p0w40JqBhts" target="_blank">here</a> to listen to the voice lines!</p>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=k6Rd7B3CF1Y" target="_blank">here</a> to listen to the voice lines!</p>
 
 {% bubble Tetora smilesoft %}
 Each and every one of us took a different path. Each of those differences are irreplaceable memories, all residing in our songs!
@@ -726,7 +726,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-“…Shinobu-kun talked about ninjas just a while back, didn’t he…”
+“…Shinobu-kun talked about ninjas just a while ago, didn’t he…”
 
 “But ‘Suisei HALATION’ is also a song packed with all of Morisawa-senpai’s ‘likes’, right?”[^2]
 {% endbubble %}
@@ -809,7 +809,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “Whenever something like that happens to you, I’d like you to remember me.”
 
-“I’ll show you my energetic self anytime; that’ll surely make you smile and laugh with me!”
+“I’ll show you my energetic self anytime; it’ll surely make you smile and laugh with me!”
 
 “My unit members — as well as myself, of course — have moments when they worry or feel down, too.”
 
@@ -940,7 +940,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% bubble Midori frownshake %}
 “No… At the start of the live show, Morisawa-senpai said that he wants to ‘sing this song another ten more times’, right?”
 
-“I got so baffled by that, like, ‘The hell is this guy on about?’, but… I just thought the <em>exact</em> same thing right now.”
+“I got so baffled by that, like, ‘The hell is this guy saying?’, but… I just thought the <em>exact</em> same thing right now.”
 {% endbubble %}
 
 {% bubble Midori sad2 %}
@@ -958,7 +958,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori sigh %}
-“Please don’t say something like that, it’s upsetting… <em>Sigh</em>, I can’t <em>believe</em> I’m becoming similar to that guy… This must be a nightmare…”
+“Please don’t say something like that, it’s upsetting… <em>Sigh</em>, me, becoming similar to <em>that</em> guy… This must be a nightmare…”
 {% endbubble %}
 
 {% bubble Kanata worried %}

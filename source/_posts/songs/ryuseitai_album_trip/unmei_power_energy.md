@@ -158,7 +158,7 @@ permalink: unmei_power_energy/
       <br>
       As the first star of the evening shines a sparkling smile
       <br>
-      While searing today into my mind
+      While searing today into my mind,
       <br>
       I’ll hone the strongest ‘like’ to the very extreme!
     </td>
