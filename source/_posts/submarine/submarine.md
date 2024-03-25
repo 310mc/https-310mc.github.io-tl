@@ -79,7 +79,7 @@ permalink: submarine/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@ permalink: submarine/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://verdantgrove.dreamwidth.org">verdantgrove</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>
                         </div>
                     </div>
                 </div>

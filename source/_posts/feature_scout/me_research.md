@@ -8,7 +8,7 @@ categories:
 - [Enstars, Souma]
 tags:
 - Idol Story
-- TBA
+- Umeda Chitose
 description: "[ES!!] Translation of a Kanata Feature Scout story, featuring Tetora and Souma. TBA…"
 permalink: me_research/
 hidden: true
@@ -18,6 +18,8 @@ hidden: true
 :-:|:-:
 
 TBA…
+
+パンフレットの撮影で行きたい場所などを考えていた奏汰。ふと自分の好きなものばかりになってしまい、逆転して考えてみようと試みる。
 
 This story is connected to the card [TBA] Kanata Shinkai.
 
@@ -41,7 +43,7 @@ This story is connected to the card [TBA] Kanata Shinkai.
                     Writer
                 </div>
                 <div class="value">
-                    TBA
+                    Umeda Chitose
                 </div>
             </div>
             <div class="info-item two">
@@ -57,7 +59,7 @@ This story is connected to the card [TBA] Kanata Shinkai.
                    Proofreading
                 </div>
                 <div class="value">                 
-                    ryuseipuka
+                    <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                 </div>
             </div>
         </div>
@@ -65,8 +67,6 @@ This story is connected to the card [TBA] Kanata Shinkai.
 </div>
 
 <!-- more -->
-
-
 
 ## Chapter 1
 

@@ -79,7 +79,7 @@ permalink: climax/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, ryuseipuka
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, ryuseipuka
+                            <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="https://twitter.com/splafyoon">spoon</a>, <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>

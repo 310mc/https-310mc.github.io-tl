@@ -53,7 +53,7 @@ permalink: ryuseitai_album_trip/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ permalink: ryuseitai_album_trip/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>
@@ -710,7 +710,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “I assure you that I will always be by your side…♪”
 
-“Up next is a song that will cheer you up! It’s time for ‘Suisei HALATION’…☆”
+“Up next is an energetic song that will cheer you up! It’s time for ‘Suisei HALATION’…☆”
 {% endbubble %}
 
 ### MC 4

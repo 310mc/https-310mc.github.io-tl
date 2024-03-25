@@ -78,7 +78,7 @@ permalink: beasts/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka, Shie, Anonymous
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>, Shie, Anonymous
                         </div>
                     </div>
                 </div>
@@ -165,7 +165,7 @@ permalink: beasts/
                             Proofreading
                         </div>
                         <div class="value">
-                            ryuseipuka, Shie, Anonymous
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>, Shie, Anonymous
                         </div>
                     </div>
                 </div>

@@ -44,7 +44,7 @@ permalink: unmei_power_energy/
                    Proofreading
                 </div>
                 <div class="value">
-                    ryuseipuka
+                    <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                 </div>
             </div>
         </div>
