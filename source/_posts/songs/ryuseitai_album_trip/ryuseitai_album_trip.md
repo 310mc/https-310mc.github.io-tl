@@ -867,7 +867,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/idealpath/c2.jpg"
-            alt="Someday, On The Path To My Ideal"
+            alt="Some Day, On The Path To My Ideal"
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal/" class="storyName" target="_blank">

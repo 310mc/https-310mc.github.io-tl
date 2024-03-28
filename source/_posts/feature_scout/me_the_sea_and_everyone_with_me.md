@@ -488,4 +488,35 @@ fufufu~♪ then let’s [tidy up] and get going.
 let’s go search for the perfect [ocean] for me—
 {% endbubble %}
 
+## Kanata Feature Scout Stories
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/methesea/c1.jpg"
+            alt="me, the sea, and everyone with me"
+        />
+    </div>
+    <a href="/me_the_sea_and_everyone_with_me" class="storyName" target="_blank">
+        <span>me, the sea, and everyone with me</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/meresearch/c1.jpg"
+            alt="me research"
+        />
+    </div>
+    <a href="/me_research" class="storyName" target="_blank">
+        <span>me research</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

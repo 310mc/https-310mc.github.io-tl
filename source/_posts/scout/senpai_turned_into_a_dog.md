@@ -220,7 +220,7 @@ permalink: senpai_turned_into_a_dog/
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">I'm sorry, please excuse me...!<!--TBA--></div>
+                                            <div class="unbloomed">I’m sorry, please excuse me...!<!--TBA--></div>
                                             <div class="bloomed">So I dig like a doggy here?<!--ここ掘れワンワンって感じ？--></div>
                                         </div>
                                     </div>
@@ -305,7 +305,7 @@ permalink: senpai_turned_into_a_dog/
 {% endbubble %}
 
 {% bubble Midori sad2 %}
-<th>(Ughhh… I was supposed to carry a bunch of vegetables to the school’s cafeteria every day… But I started skipping out on it 'cause it’s such a pain, and my parents got mad at me for it…)</th>
+<th>(Ughhh… I was supposed to carry a bunch of vegetables to the school’s cafeteria every day… But I started skipping out on it ‘cause it’s such a pain, and my parents got mad at me for it…)</th>
 
 <th>(Now I have to spend half of my entire day just carrying all the boxes of vegetables that piled up…)</th>
 
@@ -377,7 +377,7 @@ Eeek!! I’m sorry, did I tickle you? Please don’t make a weird noise…
 
 <th>(Uuu… Now that I think about it, I’ve been seeing a lot of dogs around school…)</th>
 
-<th>(I kinda remember an announcement saying not to feed the dogs, 'cause if it gets any worse than it already is, they’ll have to get rid of them by calling over the health department…)</th>
+<th>(I kinda remember an announcement saying not to feed the dogs, ‘cause if it gets any worse than it already is, they’ll have to get rid of them by calling over the health department…)</th>
 
 <th>(Sengoku-kun said something like that in one of the lunchtime broadcasts…)</th>
 {% endbubble %}
@@ -589,7 +589,7 @@ So don’t look so anxious… Everything will be okay… There, there…♪
 {% endbubble %}
 
 {% bubble Midori awkward %}
-Uhya— Ahaha… Please don’t lick me just 'cause you’re a dog now… The moment I remember it’s actually Morisawa-senpai in there, it starts to feel really gross…♪
+Uhya— Ahaha… Please don’t lick me just ‘cause you’re a dog now… The moment I remember it’s actually Morisawa-senpai in there, it starts to feel really gross…♪
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -709,7 +709,7 @@ Well, whatever… I did something really embarrassing, but… it would’ve been
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
-In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what's number one…♪[^2]
+In the end, the most important thing is that nothing bad happened… No, actually… *Peace* is what’s number one…♪[^2]
 {% endbubble %}
 
 <div toc>

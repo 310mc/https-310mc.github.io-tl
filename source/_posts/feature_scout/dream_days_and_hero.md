@@ -435,7 +435,7 @@ Chi~chan-senpai, you appear in sports variety shows often, so why not buy new ba
 {% endbubble %}
 
 {% bubble Chiaki %}
-…Hm. I think you might be right, Akehoshi.
+…Hm. You’re right, Akehoshi, that might be a good idea.
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -461,7 +461,7 @@ Excuse me; may I try these on?
 </video>
 
 {% bubble Chiaki grin2 %}
-<th>(Humming)</th> Hmhm~♪ It’s been a while since I last wore basketball shoes. This is kind of exciting!
+<th><em>(Humming)</em></th> Hmhm~♪ It’s been a while since I last wore basketball shoes. This is kind of exciting!
 
 Let me tie my shoelaces, and… Mhm! My shoe size hasn’t changed much. It fits me perfectly!
 
@@ -480,7 +480,7 @@ Alright, I’m going with this! —Or well, I’d like to say that, but there’
 Yeah, why not, they’re pretty good! Now you can come over and play in the Basketball Club again!
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile %}
 Mm, that’s true. …If that’s what you say, Akehoshi, then I’ll be sure to show up again.
 {% endbubble %}
 

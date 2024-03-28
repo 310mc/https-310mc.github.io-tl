@@ -317,11 +317,11 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Someday, On The Path To My Ideal"
+            alt="Some Day, On The Path To My Ideal"
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Someday, On The Path To My Ideal</span>
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>

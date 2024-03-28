@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Someday, On The Path To My Ideal"
-date: 2024-3-21 9:00:00
+title: "[ES!!] Some Day, On The Path To My Ideal"
+date: 2021-9-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -504,11 +504,11 @@ I’ll let my personalized outfit influence me to continue becoming a great man.
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Someday, On The Path To My Ideal"
+            alt="Some Day, On The Path To My Ideal"
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Someday, On The Path To My Ideal</span>
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>

@@ -284,7 +284,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>It’ll then turn your whole life into song</td>
+    <td>Your whole life will then turn into a song</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>

@@ -882,11 +882,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Someday, On The Path To My Ideal"
+            alt="Some Day, On The Path To My Ideal"
         />
     </div>
     <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Someday, On The Path To My Ideal</span>
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>
@@ -923,6 +923,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/the_essence_of_a_butler" class="storyName" target="_blank">
         <span>The Essence of a Butler</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/meresearch/c1.jpg"
+            alt="me research"
+        />
+    </div>
+    <a href="/me_research" class="storyName" target="_blank">
+        <span>me research</span>
         <span class="read"></span>
     </a>
 </div>
