@@ -316,24 +316,24 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Some Day, On The Path To My Ideal"
-        />
-    </div>
-    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Some Day, On The Path To My Ideal</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/idolstory/bodybuildingbros/c2.jpg"
             alt="Together, We Are the Bodybuilding Bros!"
         />
     </div>
     <a href="/bodybuilding_bros" class="storyName" target="_blank">
         <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Some Day, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>
@@ -352,12 +352,12 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
 <!--<div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/justthewayiam/c1.jpg"
-            alt="Just The Way I Am"
+            src="/img/es/idolstory/asiam/c1.jpg"
+            alt="As I Am"
         />
     </div>
-    <a href="/just_the_way_i_am" class="storyName" target="_blank">
-        <span>Just The Way I Am</span>
+    <a href="/as_i_am" class="storyName" target="_blank">
+        <span>As I Am</span>
         <span class="read"></span>
     </a>
 </div>-->

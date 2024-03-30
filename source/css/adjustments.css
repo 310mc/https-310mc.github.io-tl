@@ -1,0 +1,29 @@
+/** For Card Details
+***/
+.noBorder {
+    border:none !important;
+}
+
+.carddata {
+    text-align:center;
+    font-size:17px;
+}
+/** End Card Details
+***/
+
+
+/** For Idol Story Details
+***/
+.storydata {
+    text-align:center;
+    font-size:110%;
+}
+
+.releasedate {
+    color:blue;
+    text-align:center;
+    font-size:110%;
+}
+/** End Idol Story Details
+***/
+

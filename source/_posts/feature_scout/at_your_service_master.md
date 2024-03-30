@@ -402,6 +402,18 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/misshapenmasterpiece/c2.jpg"
+            alt="Misshapen Masterpiece"
+        />
+   </div>
+    <a href="/misshapen_masterpiece" class="storyName" target="_blank">
+        <span>Misshapen Masterpiece</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 <hr>

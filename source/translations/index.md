@@ -881,24 +881,24 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Some Day, On The Path To My Ideal"
-        />
-    </div>
-    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Some Day, On The Path To My Ideal</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/idolstory/bodybuildingbros/c2.jpg"
             alt="Together, We Are the Bodybuilding Bros!"
         />
     </div>
     <a href="/bodybuilding_bros" class="storyName" target="_blank">
         <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Some Day, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>
@@ -989,12 +989,12 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <!--<div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/justthewayiam/c1.jpg"
-            alt="Just The Way I Am"
+            src="/img/es/idolstory/asiam/c1.jpg"
+            alt="As I Am"
         />
     </div>
-    <a href="/just_the_way_i_am" class="storyName" target="_blank">
-        <span>Just The Way I Am</span>
+    <a href="/as_i_am" class="storyName" target="_blank">
+        <span>As I Am</span>
         <span class="read"></span>
     </a>
 </div>-->
@@ -1055,6 +1055,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/backstage_radio" class="storyName" target="_blank">
         <span>Backstage RADIO</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/misshapenmasterpiece/c2.jpg"
+            alt="Misshapen Masterpiece"
+        />
+   </div>
+    <a href="/misshapen_masterpiece" class="storyName" target="_blank">
+        <span>Misshapen Masterpiece</span>
         <span class="read"></span>
     </a>
 </div>

@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Just The Way I Am"
-date: 2023-8-10 9:00:00
+title: "[ES!!] As I Am"
+date: 2024-3-29 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -9,15 +9,15 @@ categories:
 tags:
 - Idol Story
 - Haruka Kanata
-description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Hinata and HiMERU. Tetora receives news from the producer that his Feature Live will be held soon. He ponders once more what sort of live show he wants to make…"
-permalink: just_the_way_i_am/
+description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Hinata and HiMERU. Tetora receives news from the producer that his Feature Live will be held soon. He ponders once more about what sort of live show he wants to make…"
+permalink: as_i_am/
 hidden: true
 ---
 
-![](/img/es/idolstory/justthewayiam/c1.jpg)|![](/img/es/idolstory/justthewayiam/c2.jpg)
+![](/img/es/idolstory/asiam/c1.jpg)|![](/img/es/idolstory/asiam/c2.jpg)
 :-:|:-:
 
-Tetora receives news from the producer that his Feature Live will be held soon. He ponders once more what sort of live show he wants to make…
+Tetora receives news from the producer that his Feature Live will be held soon. He ponders once more about what sort of live show he wants to make…
 
 This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
 
@@ -66,8 +66,6 @@ This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 <div class="msr-season winter">
@@ -78,27 +76,15 @@ This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
     <p><span><b>Location:</b> Garden Terrace</span></p>
 </div>
 
-{% img /img/es/idolstory/justthewayiam/1.jpg %}
+{% img /img/es/idolstory/asiam/1.jpg %}
 
 <video controls>
-  <source src="/img/es/idolstory/justthewayiam/video.mp4" type="video/mp4">
+  <source src="/img/es/idolstory/asiam/video.mp4" type="video/mp4">
 </video>
 
 ## Tetora Feature Scout Stories
 
 <div class="stories">
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Some Day, On The Path To My Ideal"
-        />
-    </div>
-    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Some Day, On The Path To My Ideal</span>
-        <span class="read"></span>
-    </a>
-</div>
 <div class="story">
     <div class="thumbimage">
         <img
@@ -108,6 +94,18 @@ This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
     </div>
     <a href="/bodybuilding_bros" class="storyName" target="_blank">
         <span>Together, We Are the Bodybuilding Bros!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Some Day, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Some Day, On The Path To My Ideal</span>
         <span class="read"></span>
     </a>
 </div>
@@ -126,12 +124,12 @@ This story is connected to the card [The Other Side of the Goal] Tetora Nagumo.
 <!--<div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/justthewayiam/c1.jpg"
-            alt="Just The Way I Am"
+            src="/img/es/idolstory/asiam/c1.jpg"
+            alt="As I Am"
         />
     </div>
-    <a href="/just_the_way_i_am" class="storyName" target="_blank">
-        <span>Just The Way I Am</span>
+    <a href="/as_i_am" class="storyName" target="_blank">
+        <span>As I Am</span>
         <span class="read"></span>
     </a>
 </div>-->

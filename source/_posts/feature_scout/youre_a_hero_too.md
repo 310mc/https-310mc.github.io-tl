@@ -548,6 +548,18 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/misshapenmasterpiece/c2.jpg"
+            alt="Misshapen Masterpiece"
+        />
+   </div>
+    <a href="/misshapen_masterpiece" class="storyName" target="_blank">
+        <span>Misshapen Masterpiece</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 <hr>
