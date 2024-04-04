@@ -171,7 +171,7 @@ By the way, it isn’t everyday that you both are here, is it…? We just starte
 {% endbubble %}
 
 {% bubble Kuro norsmile %}
-Can’t speak for Li’l miss, since she just became a workin’ adult, but things are still the same as always for me.
+Can’t speak for Li’l miss, since she just became a workin’ adult, but nothin’ really changed much for me as of yet.
 
 But either way, it’s more like I hang out here ‘cause I get so busy, really. The room’s in the ES building, so we can freely pass by here anytime, yeah?
 
@@ -209,7 +209,7 @@ Is that an outfit for Akatsuki? Though the style is pretty western…
 {% bubble Kuro %}
 Nah, it’s for a different unit in Rhythm Link.
 
-I sometimes get requests from the agency, probably ‘cause the big-shots recognize my skills now. I accept a few of ‘em here and there, as long as it doesn’t make me neglect my idol activities.
+I sometimes get commissions from the agency, probably ‘cause the big-shots recognize my skills now. I accept a few of ‘em here and there, as long as it doesn’t make me neglect my idol activities.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -223,7 +223,7 @@ Oh c’mon, this ain’t new for me. I’ve been doin’ this since my Yumenosak
 {% bubble Chiaki smilesoft %}
 Yeah, I do. That’s why I’m so impressed by your skill all over again.
 
-Even when you’re busy, you make time for other units. You really are a hero, Kiryu! ☆
+Even when you’re busy, you make time for other units. You really *are* a hero, Kiryu! ☆
 {% endbubble %}
 
 {% bubble Kuro awkward %}
@@ -233,7 +233,7 @@ Right, right… You’re gonna make me feel embarrassed, so leave it at that, wi
 {% bubble Chiaki srsthinking %}
 Mm. …If only I had the talent for sewing like Anzu and Kiryu, too.
 
-Then I would’ve been able to contribute to Ryuseitai’s activities in this department, too…
+Then I would’ve been able to contribute to Ryuseitai’s activities in this department, as well…
 {% endbubble %}
 
 {% bubble Kuro norsmile %}
@@ -313,7 +313,7 @@ My skill is no match for you two, but I managed to even stitch up my name “Chi
 {% endbubble %}
 
 {% bubble Chiaki grin %}
-And I’m already growing so attached to it, since I even made it from scratch! ☆
+And I’m already growing so attached to it, since I also made it from scratch! ☆
 
 The most important thing is to build experience… As part of my practice, I’ll also make handkerchiefs as presents for everyone in Ryuseitai.
 

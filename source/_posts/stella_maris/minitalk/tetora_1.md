@@ -157,9 +157,9 @@ So I plan to make a full course meal with the seafood once I'm back at the dorms
 {% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
 
 {% bubble Tetora sightired %}
-Since I'm making food and everything, I wanted to treat Ryuseitai to a meal.
+Since I'm making a whole meal and everything, I wanted to treat Ryuseitai to a meal, too.
 
-But it seems like they're all busy, so they refused my dinner invitation…
+But it seems like they're all busy, so they turned down my dinner invitation…
 {% endbubble %}
 
 {% bubble Tetora v2 %}

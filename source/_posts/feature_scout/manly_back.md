@@ -54,7 +54,7 @@ This story is connected to the card [What I Like] Tetora Nagumo.
                    Season
                 </div>
                 <div class="value">
-                    Winter (After <a href="/supervillain">Supervillain</a>)
+                    Winter
                 </div>
             </div>
         </div>
@@ -62,8 +62,6 @@ This story is connected to the card [What I Like] Tetora Nagumo.
 </div>
 
 <!-- more -->
-
-
 
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
@@ -92,7 +90,7 @@ Ossu! That’s what I thought too, but I managed to get it done way earlier than
 {% bubble Arashi %}
 Ahh, I see. Well, I’m glad you were able to finish up work without any probl—
 
-Kyaah!
+Kyaaah!
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -170,7 +168,7 @@ I know a great store we can go to, so would you like to check it out?
 {% endbubble %}
 
 {% bubble Tetora %}
-Wha— Really!? If it’s something *you’d* recommend, then ‘course I’d love to!
+Wha— Really!? If it’s somethin’ *you’d* recommend, then ‘course I’d love to!
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -231,14 +229,14 @@ Alright, I’m waiting~ I’ll go check out the clothes store on the other side,
     <p><span><b>Location:</b> Train Station</span></p>
 </div>
 
+{% img /img/es/idolstory/manlyback/3.jpg %}
+
 {% bubble Arashi %}
 I’m so glad you managed to find something you like.
 {% endbubble %}
 
-{% img /img/es/idolstory/manlyback/3.jpg %}
-
 {% bubble Tetora %}
-Ossu! I expect nothing less from a shop recommended by you, Narukami-senpai. They had a lotta great, cool styles!
+Ossu! I expect nothin’ less from a shop recommended by you, Narukami-senpai. They had a lotta great, cool styles!
 
 I’ll check it out again sometime. Thank you so much!
 {% endbubble %}

@@ -23,7 +23,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+				<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
@@ -776,7 +776,7 @@ The truth was actually the exact opposite; you were always on the side of justic
 {% endbubble %}
 
 {% bubble Tetora sighdrop %}
-Yep, yep. I had to make myself look and act like an ES-hating guy, even pierced my ear to give off more of a delinquent look. It was *super* painful.
+Yep, yep. In order to achieve that, I made myself look and act like an extreme ES-hating guy, changed my character to seem more like a delinquent, and even pierced my ear. It was *super* painful.
 {% endbubble %}
 
 {% bubble Tetora serious %}

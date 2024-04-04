@@ -69,7 +69,7 @@ No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll b
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
-            Ooh, Anzu! I was practicing some dance lessons, when the knee area of my tracksuit pants got torn.
+            Ooh, Anzu! I was doing some dance lessons, when the knee area of my tracksuit pants got torn.
             {% endbubble %}
             {% bubble Chiaki sightired %}
             I'm trying to stitch it back together on my own, but it's pretty difficult…
@@ -161,7 +161,7 @@ But… That means I'll have nothing to do. Hm, is there anything I could help yo
 {% bubble Chiaki %}
 Oh— You're already done? You're incredible as always, Anzu!
 
-You'd like me to do a final check-up, in case there are any other problems? Honestly, I don't feel like there's any problem as long as the hole is stitched up, but… Hmm, let's see…?
+You'd like me to do a final check-up, in case there are any other problems? Honestly, I don't feel like there's any problem as long as the hole is patched up, but… Hmm, let's see…?
 
 Ohhh…! It's so neatly done, I can't even tell *where* the rip was in the first place! You're amazing, Anzu…☆
 {% endbubble %}
@@ -181,7 +181,7 @@ Ohhh…! It's so neatly done, I can't even tell *where* the rip was in the first
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Not as good as Kiryu-senpai…
+            I'm not as good as Kiryu-senpai…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
