@@ -108,11 +108,11 @@ You don't have to look so worried, I'm alright! I was just doing a final warmup 
 {% bubble Chiaki awkward %}
 I'm not that good at moving and expressing myself in a soft way, it seems…
 
-Takamine couldn't bear to watch my performance, so he introduced me to a mascot character that resembles me.
+Takamine couldn't bear to watch my performance, so he introduced me to a yuruchara that resembles me.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-It's an octopus mascot that wants to be a police officer. Despite its earnest, fiery choice of words, it moves in a droopy, adorable way.
+It's an octopus yuruchara that wants to be a police officer. Despite its earnest, fiery choice of words, it moves in a droopy, adorable way.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -124,7 +124,7 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
             {% bubble Chiaki v2 %}
             Really? I didn't even notice…
 
-            Maybe learning from this mascot has naturally started to make me resemble it!
+            Maybe learning from this yuruchara has naturally started to make me resemble it!
 			{% endbubble %}
         </div>
     </div>
@@ -136,17 +136,17 @@ It's an octopus mascot that wants to be a police officer. Despite its earnest, f
             {% bubble Chiaki nod %}
             Isn't it? Honestly, I didn't expect to get this attached to it, but…
 
-            Takamine introduced me to this character just for my sake. Just that thought alone makes it look all the more adorable to me.
+            Takamine introduced me to this yuruchara just for my sake. Just that thought alone makes it look all the more adorable to me.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-           It's like a mascot teacher, huh?
+           It's like a yuruchara teacher, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Oh, a teacher…! I like that! I should call this character my teacher from now on!
+            Oh, a teacher…! I like that! I should call this yuruchara my teacher from now on!
             {% endbubble %}
             {% bubble Chiaki frown %}
             Ah, but… Takamine might scold me and warn me not to give it my own nickname…[^1]

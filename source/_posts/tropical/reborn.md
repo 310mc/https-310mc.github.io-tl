@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Kino Seitaro
-description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
+description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the yurucharas that hold a special place in his heart are going on hiatus…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -251,7 +251,7 @@ Eeeep…!
 {% bubble Shinobu curious %}
 It has been a while since I’ve been in Midori-kun’s room.
 
-Ooh… I feel as though there are a lot more mascot characters here than the last time I visited…
+Ooh… I feel as though there are a lot more yurucharas here than the last time I visited…
 {% endbubble %}
 
 {% bubble Midori blushshy %}
@@ -545,22 +545,22 @@ Either way, it appears this is as much as we can do. We can only wait for Midori
 {% bubble Shinobu v2 %}
 …Ah, I know! Since we’re already here, what say we buy something for him to celebrate his return?
 
-There’s a toy store across the street — They may have some mascot merchandise~♪
+There’s a toy store across the street — They may have some yuruchara merchandise~♪
 {% endbubble %}
 
 {% img /img/es/eventstory/tropical/shinobuorigcg.jpg %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu grin %}
 Look, look! This is such a good bargain~♪
 
 Heheh~ ‘Tropical Troppeys’ bring back so many memories for me!
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Ooh, there are mascots here, too… I always pass by this street, but I never noticed.
+Ooh, there are yurucharas here, too… I always pass by this street, but I never noticed.
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smile %}
 It is surprisingly easy to overlook things outside of our interest!
 
 Personally, I did not quite comprehend your vision of a “man among men” until we performed as RB.
@@ -572,13 +572,13 @@ I am sure that the more versions of Ryuseitai we experience, the more we will ex
 Heh, it’s just like the art of transformation~♪
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora northinking %}
 Art of transformation, huh… That’s a good point; Ryuseitai have been allies of justice for a long time, but… Dependin’ on the song, we should be able to show off all sortsa versions of ourselves.
 
 I’m real excited to see your Ryuseitai, Shinobu-kun. I feel like we’ll get to see somethin’ even more amazing than the Ninja Clan performance we did in the past![^5]
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu smileconfident %}
 Heheh, I will be sure to prepare my most ideal form for that day!
 
 Until then, I will train myself to perfect the art of transformation! Nin-nin~♪
@@ -597,7 +597,7 @@ Until then, I will train myself to perfect the art of transformation! Nin-nin~�
 
 Even when the world is filled with bright sunlight, ‘Tropical Troppeys’ still won’t come back…
 
-I feel like there’s an empty hole in my heart… And staying in my room only started to make me imagine all my <em>other</em> beloved mascot characters disappearing, which just made me feel even more depressed…
+I feel like there’s an empty hole in my heart… And staying in my room only started to make me imagine all my <em>other</em> beloved yurucharas disappearing, which just made me feel even more depressed…
 
 I went out ‘cause I couldn’t take it anymore, but… I dunno what to even <em>do</em>…
 
@@ -663,7 +663,7 @@ They made all sorts of merchandising, even stationery and other utilities intend
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
-But ever since mascot characters became popular, they started to fade into the background ‘cause of all the new mascots…
+But ever since yurucharas became popular, they started to fade into the background ‘cause of all the new yuruchara mascots…[^6]
 
 I’ve felt so much regret the past few days for never noticing in time, and for not supporting them more while I still could…
 
@@ -685,7 +685,7 @@ But honestly… I can’t deny it.
 
 So yeah, basically. I just don’t think it makes <em>any</em> sense for someone like me, who only has the capacity to think about himself, to be Ryuseitai’s <em>leader</em>…
 
-I mean, if I really cared to work hard as a leader for Ryuseitai, I wouldn’t need to take a break from work just ‘cause of my mascot characters…
+I mean, if I really cared to work hard as a leader for Ryuseitai, I wouldn’t need to take a break from work just ‘cause of my yurucharas…
 
 I’m just cowering away in fear, aren’t I…? But I’m just so scared of losing their trust as their leader.
 {% endbubble %}
@@ -887,13 +887,13 @@ Ah, I got it! We will protect nature… as RG!
 {% endbubble %}
 
 {% bubble Midori yare %}
-That unit name isn’t soft at <em>all</em>, so we’re not going with it.
+That unit name doesn’t sound soft at <em>all</em>, so we’re not going with it.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
 And we can’t do something as impressive as protecting nature, anyway…
 
-But it should be okay to have a form of justice that’s all about loving mascot characters, right? Because that’s the sort of Ryuseitai I thought up for us.
+But it should be okay to have a form of justice that’s all about loving yurucharas, right? Because that’s the sort of Ryuseitai I thought up for us.
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -905,9 +905,9 @@ Hmm…?
 {% bubble Midori norsmile %}
 Do you guys know about ‘Tropical Troppeys’?
 
-You’ll find them in the documents. They’re a group of animal mascot characters who enjoy their lives on a tropical island.
+You’ll find them in the documents. They’re a group of animal yurucharas who enjoy their lives on a tropical island.
 
-To be more specific, they’re actually mascot characters that existed <em>before</em> it became a trend to make the sort of mascots you see today.[^6]
+To be more specific, they’re actually “mascot characters” that existed <em>before</em> the yurucharas you see today became a trend.[^6]
 
 But either way, they’re definitely one of the original sets of mascot characters.
 {% endbubble %}
@@ -927,7 +927,7 @@ They were even selling merchandise of them near Midori-kun’s home. I bought a 
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Oh yeah, I remember now! So those guys are the same mascots that Midori-kun’s talkin’ ‘bout, huh?
+Oh yeah, I remember now! So those guys are the same yurucharas that Midori-kun’s talkin’ ‘bout, huh?
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
@@ -971,7 +971,7 @@ That’s why I wanted to try and do something for them, and had Anzu-san help me
 {% bubble Chiaki v2 %}
 Oh, I see where you’re going with this. That’s why there are pages about our unit in the planning; it was to send it to the company.
 
-A mascot character sentai squad… That sounds really interesting.
+A yuruchara sentai squad… That sounds really interesting.
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
@@ -979,7 +979,7 @@ It’s not a sentai squad, though.
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Heheh, while it may not be sentai-related, it is still a form of heroism. A hero that cherishes the love of mascot characters suits you, Midori-kun. It’s really cool!
+Heheh, while it may not be sentai-related, it is still a form of heroism. A hero that cherishes the love of yurucharas suits you, Midori-kun. It’s really cool!
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -987,19 +987,19 @@ Yeah, I think it’s pretty neat, too. The whole thing screams “Midori-kun”.
 {% endbubble %}
 
 {% bubble Tetora northinking %}
-The only thing is, I don’t feel like I have a good grasp on <em>what</em> that vision looks like…? I don’t really know much ‘bout mascot characters, so the most I can understand is what you compiled in this plannin’…
+The only thing is, I don’t feel like I have a good grasp on <em>what</em> that vision looks like…? I don’t really know much ‘bout yuruchara, so the most I can understand is what you compiled in this plannin’…
 
-For RB, it was basically the opposite of Ryuseitai’s image, so we made ourselves look more like villains… But what would we need to do for a mascot-themed image?
+For RB, it was basically the opposite of Ryuseitai’s image, so we made ourselves look more like villains… But what would we need to do for a yuruchara-themed image?
 {% endbubble %}
 
 {% bubble Midori norsmile %}
 Ah, for that… I’m not too confident in my plan, but… I did compile some stuff in the documents.
 
-I didn’t have enough time to write up everything, but I’m in the middle of thinking up how to do a collaboration between us and the mascots.
+I didn’t have enough time to write up everything, but I’m in the middle of thinking up how to do a collaboration between us and the yurucharas.
 {% endbubble %}
 
 {% bubble Kanata nod %}
-you thought [very carefully] about this, yes? as expected from the [mascot character] lover~
+you thought [very carefully] about this, yes? as expected from the [yuruchara] lover~
 {% endbubble %}
 
 {% bubble Midori awkward %}
@@ -1013,11 +1013,11 @@ Besides, I’m not bold enough to try and convince people through sheer force th
 {% bubble Midori smilesoft %}
 Anyway, that’s enough about me. I think you guys just need to start by learning more about them.
 
-I compiled a bunch of other mascot characters as well, though I chose them based purely on bias…
+I compiled a bunch of other yurucharas as well, though I chose them based purely on bias…
 
-It should help you get an understanding of mascots, and even soothe you with their softness.
+It should help you get an understanding of yurucharas, and even soothe you with their relaxing softness.
 
-I’m sure you’ll all come to understand the beauty of mascots once you get to know them.
+I’m sure you’ll all come to understand the beauty of yurucharas once you get to know them.
 
 The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 {% endbubble %}
@@ -1036,5 +1036,5 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 [^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori’s Idol Story 1</a>, too.
 [^4]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
 [^5]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
-[^6]: What Midori loves (and is currently trending) is called <em>yuruchara</em> in Japanese (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>’s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
+[^6]: What Midori loves is <em>yuruchara</em> (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>’s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
 [^7]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Laid-back/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

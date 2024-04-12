@@ -8,7 +8,7 @@ tags:
 - Kino Seitaro
 - Event Story
 - Story Index
-description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
+description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the yurucharas that hold a special place in his heart are going on hiatus…"
 permalink: tropical/
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -22,7 +22,7 @@ permalink: tropical/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…<!--『流星隊フラック』の活動が一区切りし、次のライブ『R2』に向けて新しい隊長を決めることになった『流星隊』。今回の隊長は翠が担当することに決定するが、思い入れのあるゆるキャラの活動休止が発表され…-->
+                After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the yurucharas that hold a special place in Midori's heart are going on hiatus…<!--『流星隊フラック』の活動が一区切りし、次のライブ『R2』に向けて新しい隊長を決めることになった『流星隊』。今回の隊長は翠が担当することに決定するが、思い入れのあるゆるキャラの活動休止が発表され…-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -119,7 +119,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the mascot characters that hold a special place in Midori's heart are going on hiatus…
+                    After Ryuseitai Black's activities came to an end, Ryuseitai decides on a new commander for their upcoming R2 live show. Midori is chosen to be the commander this time, however, it is then announced that the yurucharas that hold a special place in Midori's heart are going on hiatus…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -565,11 +565,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
-                alt="Mascot Character Training"
+                alt="Yuruchara Training"
             />
         </div>
         <a href="/tropical/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: Mascot Character Training</span>
+            <span>2: Yuruchara Training</span>
             <span class="read"></span>
         </a>
     </div>
@@ -613,11 +613,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
-                alt="How A Mascot Feels"
+                alt="How A Yuruchara Feels"
             />
         </div>
         <a href="/tropical/minitalk/tetora_2" class="storyName" target="_blank">
-            <span>2: How A Mascot Feels</span>
+            <span>2: How A Yuruchara Feels</span>
             <span class="read"></span>
         </a>
     </div>

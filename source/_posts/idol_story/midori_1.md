@@ -65,7 +65,7 @@ Hellooo… This is the greengrocer, I hope you’ve all been doing well~…
 
 <th>(Huh…? There’s nobody around… Maybe I was a little too early… But I’d be late to school if I didn’t come here at around this hour…)</th>
 
-<th>(Well, there’s nobody to scold me for being late, anyway…)</th>
+<th>(Well, not that there’s anyone to scold me for being late, anyway…)</th>
 
 <th>(*Sigh*… I can already imagine my next report card mentioning something about my lifestyle not being proper enough lately…)</th>
 

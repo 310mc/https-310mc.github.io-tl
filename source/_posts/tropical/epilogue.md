@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Kino Seitaro
-description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
+description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the yurucharas that hold a special place in his heart are going on hiatus…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -128,7 +128,7 @@ Ah, I’m fine. I just thought I should thank her later for coming up with this 
 
 Anyway, I see we’re all here. We’re gonna do a joint live with ‘Tropical Troppeys’.
 
-Working together with the mascots I used to adore as a kid is like a dream come true to me.
+Working together with the yurucharas I used to adore as a kid is like a dream come true to me.
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -138,7 +138,7 @@ round\~ round\~ yes\~? ♪
 {% endbubble %}
 
 {% bubble Midori nod %}
-Shinkai-senpai’s already conversing so openly with them. He really is Ryuseitai’s perfect model of a mascot~
+Shinkai-senpai’s already conversing so openly with them. He really is Ryuseitai’s perfect model of a yuruchara~
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
@@ -158,7 +158,7 @@ Plushies and stuff are cute too, but using the original designs really suits thi
 {% bubble Shinobu curious %}
 ‘Tropical Troppeys’ truly have a deep history… There is still quite a lot we could learn about them, isn’t there?
 
-But I’m certain that there is a deeper meaning to our encounter with them. I will try to learn more about mascot characters through this job.
+But I’m certain that there is a deeper meaning to our encounter with them. I will try to learn more about yuruchara through this job.
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
@@ -170,15 +170,15 @@ By the way, Takamine, I have a question…
 
 Yuruseitai seems to have kept a lot of Ryuseitai’s elements in mind, hasn’t it?
 
-I was expecting something much more mascot-like for the stage, but… was this also what you had in mind from the start?
+I was expecting something much more soft and relaxing for the stage, but… was this also what you had in mind from the start?
 {% endbubble %}
 
 {% bubble Midori yare %}
-Where were you looking, Morisawa-senpai? I only told you guys to relax and take it easy; I never once said anything about becoming a mascot character…?
+Where were you looking, Morisawa-senpai? I only told you guys to relax and take it easy; I never once said anything about becoming a yuruchara…?
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
-We may be “Yuruseitai,” but we’re still also “Ryuseitai”.
+We may be “Yuruseitai”, but we’re still also “Ryuseitai”.
 
 And I knew it’d be cruel to show our audience something disappointing — especially when they came for us, for Ryuseitai.
 
@@ -200,7 +200,7 @@ We have special guests with us today, so we need to make sure all the ‘Tropica
 
 But all of you went along with all my unreasonable demands, so I’m sure we’ll do just fine.
 
-Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, exciting way!
+Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerful, exciting way!
 {% endbubble %}
 
 ## Chapter 2
@@ -236,7 +236,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 {% bubble Tetora smile %}
 <th>(Haha, even though he said he was real nervous to do the openin’ speech, Midori-kun’s actually managing it just fine on stage~)</th>
 
-<th>(I was already impressed that Midori-kun didn’t cower back from bein’ the leader, but for him to be <em>this</em> confident… His love for mascot characters really goes far, huh?)</th>
+<th>(I was already impressed that Midori-kun didn’t cower back from bein’ the leader, but for him to be <em>this</em> confident… His love for yuruchara really goes far, huh?)</th>
 
 <th>(Let’s dance together, Bearbonk. We gotta follow after Midori-kun…♪)</th>
 
@@ -250,7 +250,7 @@ Let’s all enjoy ourselves until the very last minute — In a soft, cheerful, 
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-<th>(But… Haha, it’s sort of a bizarre sight to dance alongside mascot characters.)</th>
+<th>(But… Haha, it’s sort of a bizarre sight to dance alongside yurucharas.)</th>
 
 <th>(There are likely some fans who’re confused by how different this atmosphere is from the Ryuseitai that was led by me.)</th>
 
@@ -388,7 +388,7 @@ Thanks, Shinobu-kun. Your kindness warms my heart…♪
 {% bubble Kanata northinking %}
 one of the difficult parts of being an [idol] is that we cannot stay [soft] and [relaxed] forever, yes~?
 
-i really understand why you admire [mascot characters] so much, midori.
+i really understand why you admire [yuruchara] so much, midori.
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
@@ -428,7 +428,7 @@ Your love got through to ‘em, huh, Midori-kun?
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Ooh, and there’s even a mascot company who watched our live show, and has sent a request for us to collaborate with their mascot…?
+Ooh, and there’s even a yuruchara company who watched our live show, and has sent a request for us to collaborate with their yuruchara…?
 
 This is wonderful news, Takamine. Your likes seems to have brought us new encounters~♪
 {% endbubble %}

@@ -1,6 +1,6 @@
 ---
 title: "[Song] Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll"
-date: 2024/3/21 8:04:00
+date: 2021/11/30 8:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -626,6 +626,8 @@ permalink: nekketsu_ryusei_ninpouchou/
 <em>Nekketsu ☆ Ryusei Ninpouchou</em> (lit. Zealous ☆ Meteor Ninja Art Scroll) is a classic Ryuseitai-esque song, but sung with a multitude of ninja elements. This includes terms you’d typically see in <a href="https://en.wikipedia.org/wiki/Jidaigeki" target="_blank">Japanese period dramas</a>, and anything else that gives the imagery of ninjas and the world they live in. The ninja art scroll from the song title would look something like this scroll in <a href="https://ensemble-stars.fandom.com/wiki/(Sealed_Night_Raid)_Shinobu_Sengoku" target="_blank">Chuunibyou Shinobu’s card</a>.
 
 The MV is digital technology mixed with the world of ninjas. It’s recommended to read <a href="/ninja_clan" target="_blank">the story</a> to learn more about this combination!
+
+**Fun Fact!** The full version of the song was released on February 2, 2022. Two in Japanese is <em>ni</em>, and can work as a wordplay for <em>nin</em>. In other words, the release date (2/2/2022) was on a <em>nin-nin</em> day!
 
 [^1]: The original is <em>chanbara</em>, which refers to samurai movies and their fight scenes. This song has various references to terms related to period dramas and the like, please see the <a href="#Translation-Notes">translation notes</a> for more information!
 [^2]: The “swoosh-swoosh” is <em>shushushu</em> in Japanese, the SFX for throwing shuriken.

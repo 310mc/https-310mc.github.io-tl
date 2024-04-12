@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Kino Seitaro
-description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the mascot characters that hold a special place in his heart are going on hiatus…"
+description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the yurucharas that hold a special place in his heart are going on hiatus…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -79,7 +79,7 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 </div>
 
 {% bubble Midori smilesoft %}
-—Alright, that’s all for the Mascot Character Course. Thank you for listening…♪
+—Alright, that’s all for the Yuruchara Course. Thank you for listening…♪
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -91,17 +91,17 @@ They’ve got cartoons all over the country, huh~? I had no idea.
 
 I always knew I had different interests from Midori-kun and stuff, but it’s pretty hard to wrap my head ‘round everythin’ now that I’m learning all ‘bout it.
 
-Mascot characters should have a surreal look to ‘em, like their design is kinda vague and incomplete… They should be fun, cheerful, and soft… That’s the path that you advocate for, right, Midori-kun?
+Yurucharas should have a surreal look to ‘em, like their design is kinda vague and incomplete… They should be fun, cheerful, and relaxed… That’s the path that you advocate for, right, Midori-kun?
 {% endbubble %}
 
 {% bubble Midori smileconfident %}
-No, no, that’s such a stiff way to look at it. Calling it a “path” isn’t soft and fluffy at all, y’know?
+No, no, that’s such a stiff way to look at it. Calling it a “path” isn’t soft and relaxed at all, y’know?
 
 Don’t try to pick up the keywords; I’d rather you feel it through your heart. You need to relax and have fun.
 
-Ah, to be clear, what you just mentioned is pretty much the general definition of mascot characters, and I personally really like the sloppy-looking mascots, but…
+Ah, to be clear, what you just mentioned is pretty much the general definition of yuruchara, and I’m personally captivated by sloppy-looking yurucharas, but…
 
-The ‘Tropical Troppeys’ characters we’ll be collaborating with are <em>only</em> soft and cute, so that might make things easier for you guys.[^1]
+The ‘Tropical Troppeys’ characters we’ll be collaborating with are <em>only</em> relaxed and cute, so that might make things easier for you guys.[^1]
 {% endbubble %}
 
 {% bubble Tetora frustrated %}
@@ -113,7 +113,7 @@ But I’m real glad you gave an outline of everythin’ in a single 2-hour cours
 {% endbubble %}
 
 {% bubble Kanata smile %}
-yes~ i am also [new] to mascot characters, but it was easy to understand.
+yes~ i am also [new] to yuruchara, but it was easy to understand.
 
 it seems like it will be tricky to convey it as ryuseitai, but i would like to do my best and try.
 {% endbubble %}
@@ -121,9 +121,9 @@ it seems like it will be tricky to convey it as ryuseitai, but i would like to d
 {% bubble Midori frown %}
 Yeah, that’s the actual problem…
 
-I’m struggling with that part, too. If we were to take it too seriously and fully go for a mascot-like energy — I feel like it would actually just ruin the fluffy atmosphere…
+I’m struggling with that part, too. If we were to take it too seriously and fully go for a yuruchara-like energy — I feel like it would actually just ruin that relaxed atmosphere…
 
-And I tend to push myself to perform as properly as possible, which honestly doesn’t feel soft and fluffy at all…
+And I tend to push myself to perform as properly as possible, which honestly doesn’t feel soft and relaxed at all…
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
@@ -139,11 +139,11 @@ While super sentai shows are said to be aimed at children, the creators behind i
 
 In fact, it’s <em>because</em> it’s intended for children that they can’t cut corners. It’s that sort of fighting spirit that drives them to perform at their best.
 
-So I think it’s perfectly fine for you to perform as hard as you possibly can, as a mascot character.
+So I think it’s perfectly fine for you to perform as hard as you possibly can, as a yuruchara.
 {% endbubble %}
 
 {% bubble Midori glare %}
-Um, mascots and sentai heroes are entirely different things, though…?
+Um, yurucharas and sentai heroes are entirely different things, though…?
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -219,7 +219,7 @@ Ah, that reminds me — I have something I’d like to speak to you about, is th
 {% endbubble %}
 
 {% bubble Midori srsthinking %}
-Everyone in Ryuseitai is doing the best they can to understand my love for mascot characters.
+Everyone in Ryuseitai is doing the best they can to understand my love for yuruchara.
 
 But I can’t help but worry if I’m actually properly taking on the responsibilities of a leader…
 
@@ -243,7 +243,7 @@ Why’s that? I didn’t even do anything… *They’re* the ones who’ve alway
 
 Ah, so at first, they were going to decline the offer to collab if it was just to take advantage of the fact that they’re going on hiatus…?
 
-But when they saw my love for mascots, and the performance of the newly formed Ryuseitai, they decided to accept the offer…? Because they felt like they may be able to breathe new air into the group…?
+But when they saw my love for yuruchara, and the performance of the newly formed Ryuseitai, they decided to accept the offer…? Because they felt like they may be able to breathe new air into the group…?
 {% endbubble %}
 
 {% bubble Midori smilesoft2 %}
@@ -253,7 +253,7 @@ That makes sense — After all, their history goes way back… and they’d alwa
 
 They were cherished by their company, but at the same time, it meant they didn’t do any collaborations with other mascots or events.
 
-So they ended up handing the spotlight over to new mascot characters, and became one with the past.
+So they ended up handing the spotlight over to new yurucharas, and became one with the past.
 
 That might be why they saw us Ryuseitai in a positive light — Because we weren’t afraid to take on a new look, despite being a long-established unit.
 {% endbubble %}
@@ -269,7 +269,7 @@ I can’t cower back now, or I’ll only let Ryuseitai and ‘Tropical Troppeys�
 {% bubble Midori fist %}
 Alright! I’m going to keep at it with the plan I had in mind!
 
-First, I’ll have all of them meet a mascot. I’ll also give them pointers on how to act like a mascot character — maybe even watch a puppet show that uses plush toys…!
+First, I’ll have all of them meet a yuruchara. I’ll also give them pointers on how to act like one — maybe even watch a puppet show that uses plush toys…!
 
 Heheh, there’s been so much happening that I’m not used to, so I kept switching between motivation and depression… It was almost like I was on an emotional rollercoaster ride.
 
@@ -303,13 +303,13 @@ Of <em>course</em> I’d feel nervous…! I’m gonna get to see Pop-dayuu with 
 {% endbubble %}
 
 {% bubble Midori smileconfident %}
-Oh, just to let you know, Pop-dayuu[^2] is a musical-based mascot character — they wear a kimono and have a music symbol for a face…
+Oh, just to let you know, Pop-dayuu is a musical-based yuruchara — they wear a kimono and have a music symbol for a face…[^2]
 
 And they’ve been trending on social media ‘cause they can even play the shamisen.
 {% endbubble %}
 
 {% bubble Shinobu smile %}
-Heheh, Midori-kun gets so talkative whenever the topic is about mascots. I can tell just how much you love them!
+Heheh, Midori-kun gets so talkative whenever the topic is about yuruchara. I can tell just how much you love them!
 
 I feel as though I have a lot to learn from Pop-dayuu. Ninjas are also deeply connected with Japanese culture, after all…♪
 {% endbubble %}
@@ -319,7 +319,7 @@ Ah, um… Just to be clear, they aren’t <em>that</em> traditional. Though the 
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
-Anyway, we’ve come here so that you can all get a feel of what mascot characters are by bonding with them. So don’t think too hard about it, and just enjoy yourselves.
+Anyway, we’ve come here so that you can all get a feel of what yurucharas are by bonding with them. So don’t think too hard about it, and just enjoy yourselves.
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
@@ -337,13 +337,13 @@ but thinking about things in terms of your own [specialty] might make them easie
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
-Mm~ I dunno, it feels a bit off to me… I’m not really fond of comparing it to something else, ‘cause there’s a chance you’ll overlook an important aspect of mascot characters.
+Mm~ I dunno, it feels a bit off to me… I’m not really fond of comparing it to something else, ‘cause there’s a chance you’ll overlook an important aspect of yuruchara.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
 But, well, I won’t stop you either, so please just enjoy Pop-dayuu’s performance.
 
-Mascot characters are sooo much cuter when you watch them live, instead of just studying about them all day…♪
+Yurucharas are sooo much cuter when you watch them live, instead of just studying about them all day…♪
 
 Ah, they’re here! Pop-dayuu~ Wave over here! *<th>(waves)</th>*
 {% endbubble %}
@@ -377,7 +377,7 @@ Woah, Midori-kun is dead serious…
 {% bubble Tetora smileconfident %}
 Aight, I’ll also be sure to cheer for ‘em without raising my voice too much.
 
-Once we figure out how mascots manage to make Midori-kun happy, we’ll be able to make use of it in our Yuruseitai performance.
+Once we figure out how yurucharas manage to make Midori-kun happy, we’ll be able to make use of it in our Yuruseitai performance.
 
 I’m excited to see your top-class shamisen performance, Pop-dayuu…☆
 {% endbubble %}
@@ -399,7 +399,7 @@ ooh, [pop-dayuu] is waving at us to come.
 
 i often open photoshoot [events] for a [costumed] character in [aoumi aquarium], but…
 
-having a photoshoot with a [mascot character] i do not know is refreshing to me.
+having a photoshoot with a [yuruchara] i do not know is refreshing to me.
 
 okay, cheese…☆
 
@@ -415,7 +415,7 @@ Ehehe, thank you, Pop-dayuu! I will make sure to treasure this…☆
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
-Since Shinkai-senpai has a mascot-like side to him, he’s pretty photogenic here. Shinobu-kun’s smile was also really nice in his picture.
+Since Shinkai-senpai has a yuruchara-like side to him, he’s pretty photogenic here. Shinobu-kun’s smile was also really nice in his picture.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -429,11 +429,11 @@ But since we’re gonna perform as Yuruseitai, I gotta do what I can to understa
 
 To be honest, I’m still not sure what we’re aiming for as Yuruseitai~…
 
-But I do sorta get what you mean ‘bout Shinkai-senpai and Shinobu-kun seemin’ mascot-like.
+But I do sorta get what you mean ‘bout Shinkai-senpai and Shinobu-kun seemin’ yuruchara-like.
 {% endbubble %}
 
 {% bubble Midori smileexplain %}
-…Well, you can leave that part up to me. I’m not sure if my plan will work, but I <em>have</em> thought up a practice session to get ourselves to look more soft and fluffy.
+…Well, you can leave that part up to me. I’m not sure if my plan will work, but I <em>have</em> thought up a practice session to get ourselves to look more soft and relaxed.
 
 It’s hard to describe what it means to be soft in one word, but…
 
@@ -443,13 +443,13 @@ What we should be going for is something like Shinkai-senpai and Shinobu-kun, wh
 {% bubble Chiaki v2 %}
 Cheerful and soothing… Mhm, I see what you’re trying to say.
 
-I’m so glad we came to this bonding event. We not only got to see a mascot character live, but we even had an opportunity to discuss what to do for Yuruseitai.
+I’m so glad we came to this bonding event. We not only got to see a yuruchara live, but we even had an opportunity to discuss what to do for Yuruseitai.
 {% endbubble %}
 
 {% bubble Chiaki fist %}
 Right then, Takamine! What do we have to do next?
 
-We’d love to know more! Tell us everything about your love for mascot characters…☆
+We’d love to know more! Tell us everything about your love for yurucharas…☆
 {% endbubble %}
 
 ## Chapter 3
@@ -477,7 +477,7 @@ Ooh, you’ve even printed the program out for us! You’re really fired up, Mid
 {% bubble Midori smilesoft %}
 Yeah. I know I’m already pushing a lot on you guys, but we can’t take it easy during practice.
 
-I’m entrusting you guys with my love for mascots, so I hope you can come to understand those feelings.
+I’m entrusting you guys with my love for yuruchara, so I hope you can come to understand those feelings.
 {% endbubble %}
 
 {% bubble Kanata nod %}
@@ -493,9 +493,9 @@ Very well, we simply have to read the script on the program, correct?
 {% endbubble %}
 
 {% bubble Midori smileexplain %}
-Yeah. For now, let’s all try and act as mascot characters.
+Yeah. For now, let’s all try and act as yurucharas.
 
-Our first lesson is to get a feel of what a “soft atmosphere” is like through acting.
+Our first lesson is to get a feel of what a “relaxed atmosphere” is like through acting.
 
 I’m gonna assign you all a ‘Tropical Troppeys’ character role, so act out the script on the file I prepared.
 
@@ -511,7 +511,7 @@ was that good?
 {% endbubble %}
 
 {% bubble Midori nod %}
-Mhm, it’s *perfect!* It felt so soft and fluffy! I just <em>knew</em> you’d be a master at this…♪
+Mhm, it’s *perfect!* It felt so soft and relaxed! I just <em>knew</em> you’d be a master at this…♪
 
 Armajiro’s charm is being able to settle any and all troubles, and your gentle air matches it perfectly!
 
@@ -525,13 +525,13 @@ Heh, I have prepared my art of transformation just for this day. Allow me to sho
 {% endbubble %}
 
 {% bubble Midori nod %}
-Ooh, this is so good! You really sound mascot-like!
+Ooh, this is so good! You really sound yuruchara-like!
 
 You even mimicked the sound! You’re amazing as always, Shinobu-kun. The role suits you perfectly…♪
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-You think so? Heheh, you’re so knowledgeable about mascots, so it makes me really happy to be praised by you, Midori-kun.
+You think so? Heheh, you’re so knowledgeable about yurucharas, so it makes me really happy to be praised by you, Midori-kun.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -581,7 +581,7 @@ Sorry, I just tried to say it in an energetic way — I didn’t mean to look as
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-Midori-kun is brutally strict whenever it comes to mascots…
+Midori-kun is brutally strict whenever it comes to yurucharas…
 {% endbubble %}
 
 {% bubble Kanata smile %}
@@ -617,7 +617,7 @@ Let’s beat through this, Morisawa-senpai! We’ve also got what it takes to be
 {% endbubble %}
 
 {% bubble Chiaki fist %}
-Of course! Let’s devote ourselves to practice until we master that soft atmosphere, Nagumo!
+Of course! Let’s devote ourselves to practice until we master that relaxed atmosphere, Nagumo!
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -799,7 +799,7 @@ Me too! Give us your honest thoughts, so that I can work hard for Yuruseitai…!
 {% bubble Shinobu northinking %}
 Mm~… Midori-kun said that you have to loosen up…
 
-Thus, I feel that the problem may lie in the two of you being <em>too</em> determined to try and act as a mascot.
+Thus, I feel that the problem may lie in the two of you being <em>too</em> determined to try and act as a yuruchara.
 
 How about trying to soften that resolve?
 {% endbubble %}
@@ -815,7 +815,7 @@ Soften my resolve… I see, let me try doing it more casually.
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-You’re moving more like a mollusk rather than a mascot…
+You’re moving more like a mollusk rather than a yuruchara…
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -888,7 +888,7 @@ Okay, let’s…♪
 ## Translation Notes
 
 [^1]: As mentioned in the previous chapter, <em>yuruchara</em> typically have bizarre designs. But since Tropical Troppeys are not <em>yuruchara</em> designs, they’re mainly cute/soft rather than “bizarre” in their cuteness.
-[^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this mascot’s name.
+[^2]: Pop and <em>tayuu</em> (Refers to an entertainer in kabuki theater and noh plays) were combined together for this yuruchara’s name.
 [^3]: Armajiro (<em>arumajirou</em> in Japanese) appears to speaks in a masculine-like, relaxed tone, saying <em>maaruku, maaruku, osameru zoo…♪</em> (ending speech quirk appears to be ぞお <em>zoo</em> at the end).
 [^4]: Kiwi speaks as it is written in English, and the first-person pronoun it uses is <em>boku</em>. (As a side note, Shinobu typically uses the <em>sessha</em> pronoun, and usually only uses <em>boku</em> when referring to his past, non-ninja self.)
 [^5]: Bearbonk (<em>kumagon</em> in Japanese) appears to speak in a rough/masculine-like tone, saying <em>go~n, oira wa kumagon da, gon!</em>. The first-person pronoun it uses is <em>oira</em>.

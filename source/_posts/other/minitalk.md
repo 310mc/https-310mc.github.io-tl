@@ -636,11 +636,11 @@ permalink: minitalk/
         <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
-                alt="Mascot Character Training"
+                alt="Yuruchara Training"
             />
         </div>
         <a href="/tropical/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: Mascot Character Training</span>
+            <span>2: Yuruchara Training</span>
             <span class="read"></span>
         </a>
     </div>
@@ -684,11 +684,11 @@ permalink: minitalk/
         <div class="thumbimage">
             <img
                 src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
-                alt="How A Mascot Feels"
+                alt="How A Yuruchara Feels"
             />
         </div>
         <a href="/tropical/minitalk/tetora_2" class="storyName" target="_blank">
-            <span>2: How A Mascot Feels</span>
+            <span>2: How A Yuruchara Feels</span>
             <span class="read"></span>
         </a>
     </div>

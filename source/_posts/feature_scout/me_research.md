@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] me research"
-date: 2024-3-28 9:00:00
+date: 2022-6-25 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]

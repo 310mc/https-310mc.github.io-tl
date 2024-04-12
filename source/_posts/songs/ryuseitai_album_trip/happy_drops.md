@@ -1,6 +1,6 @@
 ---
 title: "[Song] happy drops (Kanata Solo)"
-date: 2024/3/21 9:06:00
+date: 2024/3/6 9:05:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Kanata]

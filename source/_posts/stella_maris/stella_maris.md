@@ -365,7 +365,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella that Sings at the Sea] Chiaki Morisawa</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella of the Wishing Sea] Chiaki Morisawa</div>
                                     <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>

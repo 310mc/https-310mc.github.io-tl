@@ -88,6 +88,10 @@ permalink: ninja_clan/
 
 <!-- more -->
 
+{% note narration %}
+This story is related to <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank"><b>Scroll of the Elements</b></a>, a Ryuseitai and Akatsuki event about ninjas and samurais!
+{% endnote %}
+
 <style>
     .preview-wrapper {
         display: none;

@@ -1,6 +1,6 @@
 ---
 title: "[Song] Suisei HALATION – Comet HALATION"
-date: 2024/3/21 8:03:00
+date: 2020/12/31 8:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]

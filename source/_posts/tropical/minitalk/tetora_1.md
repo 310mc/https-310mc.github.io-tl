@@ -140,13 +140,13 @@ I was honestly amazed, 'cuz I could never do that. That's why I thought to learn
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Like a mascot character, huh?
+            Like a yuruchara, huh?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora curious %}
-            Mascot character… as in, the ones Midori-kun likes?
+            Yuruchara… as in, the ones Midori-kun likes?
 
-            Oh yeah, since mascots also heal people in a peaceful way, right? Maybe I should learn from 'em, too.
+            Oh yeah, since yurucharas also heal people in a peaceful way, right? Maybe I should learn from 'em, too.
 			{% endbubble %}
         </div>
     </div>
@@ -204,4 +204,4 @@ I gotta study more and more to be capable of handling any kinda work!
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: How A Mascot Feels %}</div>
+<div toc>{% btn /minitalk/#Tropical,, star, Index %}{% btn /tropical/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: How A Yuruchara Feels %}</div>

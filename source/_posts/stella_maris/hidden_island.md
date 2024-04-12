@@ -159,7 +159,7 @@ Ossu. I split from Ryuseitai for a while, even if it was only for an infiltratio
 {% bubble Chiaki norsmile2 %}
 We should avoid rushing at all costs, though. Let’s regain our radiance, slowly but surely.
 
-We aren’t in a tokusatsu show with a running time of thirty minutes per episode only.
+We aren’t in a tokusatsu show with a running time of only thirty minutes per episode.
 
 It’s impossible to solve every little thing and reach a happy ending in one single shot, like turning the tables with a new form change or secret weapon.
 
@@ -1949,7 +1949,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^11]: Ani-sama, lit. “Elder brother” with “sama”, a polite honorific used for names.
+[^11]: Ani-sama, lit. “Older brother” with “sama”, a polite honorific used for names.
 [^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It’s a slightly old-fashioned, formal pronoun to refer to oneself.
 [^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I’ve decided to use a shark icon for the translation, so that he’s identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.

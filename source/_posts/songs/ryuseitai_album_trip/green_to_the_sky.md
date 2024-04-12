@@ -1,6 +1,6 @@
 ---
 title: "[Song] Green to the sky (Midori Solo)"
-date: 2024/3/21 9:07:00
+date: 2024/3/6 9:08:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]

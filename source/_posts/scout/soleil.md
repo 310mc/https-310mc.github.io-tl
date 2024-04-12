@@ -21,8 +21,8 @@ permalink: soleil/
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+					<a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+					<a href="/categories/Enstars/Midori" character="Midori"></a>
 		            <a href="/categories/Enstars/Tsumugi" character="Tsumugi"></a>
                 </div>
             </div>

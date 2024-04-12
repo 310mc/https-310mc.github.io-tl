@@ -23,7 +23,7 @@ permalink: parallel_world/
 
 {% img /img/es/eventstory/parallelworld/1.jpg %}
 
-<big>Translation of Ryuseitai's scene from the Ra*bits Climax event story Parallel World.
+<big>Translation of Ryuseitai's scene from the Ra*bits Climax event story Parallel World.</big>
 
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -135,7 +135,7 @@ Don’t call me “Nito” with Tomo-chin’s face~ You can’t break character;
 {% endbubble %}
 
 {% bubble Rmidori frown %}
-“Yeah… That’s super important. It’s the same with mascots; if it feels like there’s a human being inside the costume, it spoils the whole fun for everyone…”
+“Yeah… That’s super important. It’s the same with yuruchara; if it feels like there’s a human being inside the costume, it spoils the whole fun for everyone…”[^1]
 {% endbubble %}
 
 {% bubble Rtetora fist %}
@@ -161,11 +161,11 @@ Don’t call me “Nito” with Tomo-chin’s face~ You can’t break character;
 {% endbubble %}
 
 {% bubble Rmidori glare %}
-“Beep, beep, this is the Mascot Character Police. We are currently Ra*bits, so I believe calling ourselves by the unit name ‘Ryusei-whatever’ is an issue.”
+“Beep, beep, this is the Yuruchara Police. We are currently Ra*bits, so I believe calling ourselves by the unit name ‘Ryusei-whatever’ is an issue.”
 {% endbubble %}
 
 {% bubble Rtetora yare %}
-“Aren’t <em>you</em> also talking in a not-so-Hajime-kun way with his face, Midori-kun?”[^1]
+“Aren’t <em>you</em> also talking in a not-so-Hajime-kun way with his face, Midori-kun?”[^2]
 {% endbubble %}
 
 {% bubble Rmidori sad2 %}
@@ -203,7 +203,7 @@ Ooh~… Chiaki-chin, it seemed like you’d been taking the backseat in Ryuseita
 {% endbubble %}
 
 {% bubble Rchiaki grin %}
-“That’s because I’m the commander[^2] this time!”
+“That’s because I’m the commander this time!”[^3]
 {% endbubble %}
 
 {% bubble Nazuna curious %}
@@ -293,7 +293,7 @@ Yes, to both us and the visitors, all the other idols look exactly like us.
 {% endbubble %}
 
 {% bubble Tomoya %}
-That’s the plan, after all. This sorta technology is the norm in the SANCTUARY.[^3] Visitors are under that sort of “mechanical spell”.
+That’s the plan, after all. This sorta technology is the norm in the SANCTUARY.[^4] Visitors are under that sort of “mechanical spell”.
 
 Everyone is dreaming while still being in reality.
 {% endbubble %}
@@ -321,7 +321,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 {% endbubble %}
 
 {% bubble Rchiaki shocked %}
-“Ah—! Kanata, no! You lost in rock-paper-scissors and ended up with the role of the monster villain[^4], remember!? Ra*bits is a group of four, so we can’t be ‘the five of us’!”
+“Ah—! Kanata, no! You lost in rock-paper-scissors and ended up with the role of the monster villain[^5], remember!? Ra*bits is a group of four, so we can’t be ‘the five of us’!”
 {% endbubble %}
 
 {% bubble Rkanata %}
@@ -347,7 +347,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 {% endbubble %}
 
 {% bubble Rchiaki nod %}
-“Do you mean Metalder!? Is this like another episodic story from Superhuman-Machine Metalder!?”[^5]
+“Do you mean Metalder!? Is this like another episodic story from Superhuman-Machine Metalder!?”[^6]
 {% endbubble %}
 
 {% bubble Rmidori frown %}
@@ -367,7 +367,7 @@ Mhm! It’s time to overthrow “Bishojo-senpai”~! Hip-hip-hurray! ☆
 {% endbubble %}
 
 {% bubble Hajime awkward %}
-W-We aren’t fighting against Idea-sama[^6], you know~…? I really don’t think you should pick fights whenever you can, Mitsuru-kun…
+W-We aren’t fighting against Idea-sama, you know~…?[^7] I really don’t think you should pick fights whenever you can, Mitsuru-kun…
 {% endbubble %}
 
 {% bubble Tomoya smile2 %}
@@ -388,9 +388,10 @@ For more information on Ryuseitai's status after the story <b><a href="/supervil
 
 ## Translation Notes
 
-[^1]: In Japanese, Tetora points out that Midori is using the first-person pronoun <em>ore</em> (for “I”) when he's acting as Hajime, when the first-person pronoun Hajime uses is <em>boku</em>.
-[^2]: This story is set after <a href="/supervillain" target="_blank">Supervillain</a>. By the end of that story, Ryuseitai decide to take turns being the leader (leader is also referred to as “Taichou”, “Captain”, or “Commander”).
-[^3]: They're in the same amusement park from the SS main story <a href="https://tomoya.moe/tl/sanctuary" target="_blank">Sanctuary</a>.
-[^4]: The word used here for “monster villain” is <em>kaijin</em> 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids. You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.
-[^5]: More information on <a href="https://metalheroes.fandom.com/wiki/Choujinki_Metalder" target="_blank">Superhuman-Machine Metalder</a>.
-[^6]: Pronounced as <em>ee-de-a</em>.
+[^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
+[^2]: In Japanese, Tetora points out that Midori is using the first-person pronoun <em>ore</em> (for “I”) when he's acting as Hajime, when the first-person pronoun Hajime uses is <em>boku</em>.
+[^3]: This story is set after <a href="/supervillain" target="_blank">Supervillain</a>. By the end of that story, Ryuseitai decide to take turns being the leader (leader is also referred to as “Taichou”, “Captain”, or “Commander”).
+[^4]: They're in the same amusement park from the SS main story <a href="https://tomoya.moe/tl/sanctuary" target="_blank">Sanctuary</a>.
+[^5]: The word used here for “monster villain” is <em>kaijin</em> 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids. You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.
+[^6]: More information on <a href="https://metalheroes.fandom.com/wiki/Choujinki_Metalder" target="_blank">Superhuman-Machine Metalder</a>.
+[^7]: Pronounced as <em>ee-de-a</em>.

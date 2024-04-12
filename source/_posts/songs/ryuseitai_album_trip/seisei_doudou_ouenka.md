@@ -1,6 +1,6 @@
 ---
 title: "[Song] Seisei Doudou Ouenka! – Seisei Doudou Cheer Song!"
-date: 2024/3/21 9:02:00
+date: 2024/3/6 9:07:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Shinobu]

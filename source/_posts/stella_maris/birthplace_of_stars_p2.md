@@ -357,7 +357,7 @@ Just die.
 {% endbubble %}
 
 {% bubble Midori sleepsmile %}
-Mngh… <em><th>(mumble, mumble)</th></em>… Fools who defy mascots will face the death penalty~… zzz…♪
+Mngh… <em><th>(mumble, mumble)</th></em>… Fools who defy yuruchara will face the death penalty~… zzz…♪
 {% endbubble %}
 
 {% bubble Chiaki awkward %}

@@ -79,7 +79,7 @@ Woah—! Anzu-san…!? Please don't scare me like that…!
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori smile %}
-            Ahh! Yes, that mascot character keychain is mine!
+            Ahh! Yes, that yuruchara keychain is mine!
 
             I don't know what I would've done if I didn't manage to find it… Thank you so much…♪
 			{% endbubble %}
@@ -104,7 +104,7 @@ Woah—! Anzu-san…!? Please don't scare me like that…!
 {% img /img/es/eventstory/tropical/minitalk_midori2_2.jpg %}
 
 {% bubble Midori norsmile %}
-Are you also interested in this mascot character, Anzu-san?
+Are you also interested in this yuruchara, Anzu-san?
 
 Pop-dayuu's getting a lot of attention on social media~♪ I've been watching their videos lately myself.
 
@@ -120,7 +120,7 @@ I just got recently got me this keychain, so I'm really glad you found it, Anzu-
             {% bubble Midori smile %}
             It goes to show how important it is to let people know what your favorite things are.
 
-            It's 'cause you were aware that I like mascots that you thought to pick it up, so… I'll keep declaring my love for mascots to people…
+            It's 'cause you were aware that I like yurucharas that you thought to pick it up, so… I'll keep declaring my love for yuruchara to people…
 			{% endbubble %}
         </div>
     </div>
@@ -142,9 +142,9 @@ I just got recently got me this keychain, so I'm really glad you found it, Anzu-
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori smile %}
-            It was a mascot character, so you thought it might belong to me?
+            It was a yuruchara, so you thought it might belong to me?
 
-            Heheh, you were 100% correct. I'm so glad I always tell people how much I love mascots…♪
+            Heheh, you were 100% correct. I'm so glad I always tell people how much I love yurucharas…♪
 			{% endbubble %}
         </div>
     </div>
@@ -155,9 +155,9 @@ I just got recently got me this keychain, so I'm really glad you found it, Anzu-
 {% img /img/es/eventstory/tropical/minitalk_midori2_3.jpg %}
 
 {% bubble Midori norsmile %}
-This mascot has been trending on social media lately…
+This yuruchara has been trending on social media lately…
 
-Their name is "Pop-dayuu"; their face is a music symbol.[^1]
+Their name is "Pop-dayuu", and their face is a music symbol.[^1]
 
 I've only watched performances of them, but I hope I can meet them for real one day…
 {% endbubble %}
@@ -193,7 +193,7 @@ I've only watched performances of them, but I hope I can meet them for real one 
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori curious %}
-            Really…? I feel like the cuteness this mascot has is different from Shinpai-senpai's soothing air…
+            Really…? I feel like the cuteness this yuruchara has is different from Shinpai-senpai's soothing air…
 
             But I guess the soft expression is sooort of similar to him…?
 			{% endbubble %}

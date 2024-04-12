@@ -1,6 +1,6 @@
 ---
 title: "[Song] Unmei Power Energy! – Fate Power Energy!"
-date: 2024/3/21 9:03:00
+date: 2024/3/6 9:09:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]

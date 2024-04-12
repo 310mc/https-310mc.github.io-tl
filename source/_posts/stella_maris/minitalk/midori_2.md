@@ -106,7 +106,7 @@ I don't hate going out on trips, but I'm a little anxious about a bunch of thing
 {% bubble Midori norsmile %}
 Oh yeah. Since I'm going to Okinawa and all, is there any souvenir you'd like?
 
-I'm going to buy a lot of the region's mascot character merchandise, so I can split the share with you too, Anzu-san~♪
+I'm going to buy a lot of the region's yuruchara merchandise, so I can split the share with you too, Anzu-san~♪
 
 If there's anything else you'd like, please let me know. Ahh, but I can't really buy anything too expensive…
 {% endbubble %}

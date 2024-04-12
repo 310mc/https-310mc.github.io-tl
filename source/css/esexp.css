@@ -2878,6 +2878,10 @@
 
 /** Yuta Expressions
 ***/
+/**
+[character="Yuta"] {
+  --name: "Yuuta";
+}***/
 [character="Yuta"][hair] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/yuta_hair.png");
 }

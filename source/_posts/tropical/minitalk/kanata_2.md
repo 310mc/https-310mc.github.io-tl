@@ -55,9 +55,9 @@ description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
 {% bubble Kanata curious %}
 what is it, anzu-san~?
 
-[mascot character] merchandise as a [gift]? why me, and not midori…?
+[yuruchara] merchandise as a [gift]? why me, and not midori…?
 
-ahh, i see. it is a [fish mascot]~♪
+ahh, i see. it is a [fish yuruchara]~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -81,7 +81,7 @@ ahh, i see. it is a [fish mascot]~♪
             {% bubble Kanata curious %}
             oh, the other side of its [body] is [sashimi]…?
 
-            what a strange [character]~ is that how it is with [mascot characters]?[^1]
+            what a strange [character]~ is that how it is with [yuruchara]?[^1]
 			{% endbubble %}
         </div>
     </div>
@@ -104,9 +104,9 @@ ahh, i see. it is a [fish mascot]~♪
 {% img /img/es/eventstory/tropical/minitalk_kanata2_2.jpg %}
 
 {% bubble Kanata smilesoft2 %}
-since this is a mascot, i would love to show [it] to midori.
+since this is a yuruchara, i would love to show [it] to midori.
 
-he really loves [mascot characters], after all.
+he really loves [yurucharas], after all.
 
 i am sure it is as precious to him as the [ocean] and [fish] are to me.
 {% endbubble %}
@@ -205,4 +205,4 @@ i already finished my work, so maybe i will [go] and visit them.
 
 ## Translation Notes
 
-[^1]: In this case, Kanata is referring to <em>yuruchara</em>, the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.
+[^1]: In this case, Kanata is referring to the bizarre-cute mascots that Midori loves, and that his Ryuseitai (known as Yuruseitai) is about.

@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ryuseitai Album TRIP"
-date: 2024-3-21 9:15:00
+date: 2024-3-6 10:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
@@ -1005,7 +1005,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 “…Um. For the time being, I’ll introduce myself.”
 
-“I’m Takamine Midori. My hobby is collecting mascot character merchandise, my speciality is handstands, and…”
+“I’m Takamine Midori. My hobby is collecting yuruchara merchandise, my speciality is handstands, and…”
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -1029,7 +1029,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Midori grin %}
-“I’ll be waiting for the next mascot character request~…♪” *<th>(waves)</th>*
+“I’ll be waiting for the next yuruchara request~…♪” *<th>(waves)</th>*
 
 “…Mm? It looks like everything’s ready for the next segment of the live show.”
 {% endbubble %}

@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Tetora Mini Talk: How A Mascot Feels"
+title: "Tropical – Tetora Mini Talk: How A Yuruchara Feels"
 date: 2023/7/1 9:03:00
 categories:
 - [Enstars, Tetora]
@@ -79,7 +79,7 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora norsmile %}
-            We're gonna perform with mascots, so he taught us how to give off a more soft energy. But Morisawa-senpai and I couldn't get it down right…
+            We're gonna perform with yurucharas, so he taught us how to give off a more soft energy. But Morisawa-senpai and I couldn't get it down right…
             {% endbubble %}
             {% bubble Tetora frown %}
             I had no idea it'd be so tough to bring out a soft atmosphere.
@@ -92,9 +92,9 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora norsmile %}
-            Hmm, I've never thought 'bout how a mascot character feels, but… I think I'm startin' to get it.
+            Hmm, I've never thought 'bout how a yuruchara feels, but… I think I'm startin' to get it.
 
-            I hold nothin' but respect for all the mascots for being able to behave in a soft, relaxed way.
+            I hold nothin' but respect for all the yurucharas for being able to behave in a soft, relaxed way.
 			{% endbubble %}
         </div>
     </div>
@@ -105,11 +105,11 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
 {% img /img/es/eventstory/tropical/minitalk_tetora2_2.jpg %}
 
 {% bubble Tetora norsmile %}
-Thanks to this job, I've gotten a much deeper understandin' of mascot characters.
+Thanks to this job, I've gotten a much deeper understandin' of yurucharas.
 
 Oh yeah, I actually got curious 'bout 'em and looked 'em up a li'l, and I found an interesting character.
 
-It's a mascot that does martial arts, so I felt a connection~♪
+It's a yuruchara that does martial arts, so I felt a connection~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -121,7 +121,7 @@ It's a mascot that does martial arts, so I felt a connection~♪
             {% bubble Tetora awkward0 %}
             You mean a collab like this one? I'm sorta interested, but…
 
-            I don't have as much love for mascots as Midori-kun does, so I feel like it'd be rude of me.
+            I don't have as much love for yuruchara as Midori-kun does, so I feel like it'd be rude of me.
 			{% endbubble %}
         </div>
     </div>
@@ -131,9 +131,9 @@ It's a mascot that does martial arts, so I felt a connection~♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            This mascot is similar to me…? Is that somethin' to be happy 'bout?
+            This yuruchara is similar to me…? Is that somethin' to be happy 'bout?
 
-            But it's a mascot that pours all its energy into training, so it's not so bad bein' compared to it~♪
+            But it's a yuruchara that pours all its energy into training, so it's not so bad bein' compared to it~♪
 			{% endbubble %}
         </div>
     </div>
@@ -194,7 +194,7 @@ You made it, right, Anego? That makes me so happy~♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora awkward0 %}
-            You'll make an outfit that's much more closer to what a mascot's like? I do think that'd have an impact on the audience, but…
+            You'll make an outfit that's much more closer to what a yuruchara's like? I do think that'd have an impact on the audience, but…
 
             Personally, I think this outfit is perfectly balanced, y'know…? Midori-kun might be happy 'bout that idea, though.
 			{% endbubble %}

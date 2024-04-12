@@ -1,5 +1,5 @@
 ---
-title: "Tropical – Shinobu Mini Talk: Mascot Character Training"
+title: "Tropical – Shinobu Mini Talk: Yuruchara Training"
 date: 2023/7/1 9:07:00
 categories:
 - [Enstars, Shinobu]
@@ -104,7 +104,7 @@ Ah—! Anzu-dono!? Were you watching me all this time!?
 {% img /img/es/eventstory/tropical/minitalk_shinobu2_2.jpg %}
 
 {% bubble Shinobu v2 %}
-Kero-sama[^1] is a frog-based mascot character. Midori-kun told me all about it.
+Kero-sama[^1] is a frog-based yuruchara. Midori-kun told me all about it.
 
 It looks adorable, but it has high physical capability, and can even walk on two legs!
 
@@ -118,9 +118,9 @@ It can play basketball, baseball, ski, snowboard… Even scuba-diving is a piece
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu awkward %}
-            Good point, it isn't that soft despite being a mascot character…
+            Good point, it isn't that soft despite being a yuruchara…
 
-            I believe that is why Midori-kun's opinion of it is so harsh, as he says that "it feels as though they didn't try enough to make it mascot-like".
+            I believe that is why Midori-kun's opinion of it is so harsh, as he says that "it feels as though they didn't try enough to make it yuruchara-like".
 			{% endbubble %}
         </div>
     </div>
@@ -159,7 +159,7 @@ Kero-sama is active on social media as well, and usually posts videos of it doin
 
 …I just sent you Kero-sama's social media account on HoldHands, so please do watch it when you have the time!
 
-There are so many mascot characters out there… The world of mascots is truly deep!
+There are so many yurucharas out there… The world of yuruchara is truly deep!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -177,13 +177,13 @@ There are so many mascot characters out there… The world of mascots is truly d
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            There must be a lot of competition between all the mascots.
+            There must be a lot of competition between all the yurucharas.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu awkward %}
             Uu… It's just like you to make a comment like that, Anzu-dono…
 
-            However, you're right… With so many mascots around, there surely is just as many that do not see the light of day… They likely share quite a lot in common with idols.
+            However, you're right… With so many yurucharas around, there surely is just as many that do not see the light of day… They likely share quite a lot in common with idols.
 			{% endbubble %}
         </div>
     </div>
@@ -193,9 +193,9 @@ There are so many mascot characters out there… The world of mascots is truly d
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu v2 %}
-            Perhaps you could ask Midori-kun to give you a mascot character study session.
+            Perhaps you could ask Midori-kun to give you a yuruchara study session.
 
-            Ah, but whenever the topic is about mascots, Midori-kun tends to get ahead of himself, so I will be sure to have someone with you that can stop him before he goes too far.
+            Ah, but whenever the topic is about yuruchara, Midori-kun tends to get ahead of himself, so I will be sure to have someone with you that can stop him before he goes too far.
 			{% endbubble %}
         </div>
     </div>

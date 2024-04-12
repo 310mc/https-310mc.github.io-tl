@@ -172,7 +172,7 @@ Where am I gonna have the street interview…? Ahh, I think it'll be in the neig
             {% bubble Midori norsmile %}
             Oh, they have a well-established sweets store, huh? I'd like to go there.
 
-            The characters on the packages have a similar vibe to mascot characters, so…♪
+            The characters on the packages have a similar vibe to yuruchara, so…♪
 			{% endbubble %}
         </div>
     </div>

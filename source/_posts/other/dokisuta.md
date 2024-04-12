@@ -238,7 +238,7 @@ I'll work hard, too. I'll do my best with all I've got, at least every once in a
 
 <small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=919" target="_blank">here</a>.</small>
 
-<h4>※ Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Mascot character-lover</u></h4>
+<h4>※ Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Yuruchara-lover</u></h4>[^1]
 
 {% img /img/es/scoutstory/cityriders/midoriorigcg.jpg %}
 
@@ -262,7 +262,7 @@ But if you steel yourself and take a leap forward, things surprisingly do turn o
 
 **Summary:**
 * Tall, handsome, and an ennui allure on top; he is an <u>adolescent boy with a natural charm</u>
-* Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Mascot character-lover</u>
+* Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Yuruchara-lover</u>
 * His feelings ever so changing, his heart ever so growing; he has the <u>Biggest potential to grow</u>
 
 ## Shinobu's Charm Points
@@ -309,7 +309,7 @@ And if I were to abandon my friend in trouble, I'd be a failure of a human!
 {% bubble Shinobu v2 %}
 Everyone honed me and made me stronger.
 
-They trained the past, weak "me"[^1], that would only look away from reality, and indulge himself in daydreams!
+They trained the past, weak "me"[^2], that would only look away from reality, and indulge himself in daydreams!
 {% endbubble %}
 
 <small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=2027" target="_blank">here</a>.</small>
@@ -326,4 +326,5 @@ They trained the past, weak "me"[^1], that would only look away from reality, an
 
 ## Translation Notes
 
-[^1]: He says <em>boku</em> here for “me” instead of <em>sessha</em> (the typical way Shinobu talks as a ninja).
+[^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
+[^2]: He says <em>boku</em> here for “me” instead of <em>sessha</em> (the typical way Shinobu talks as a ninja).
