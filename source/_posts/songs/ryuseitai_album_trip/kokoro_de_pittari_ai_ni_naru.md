@@ -1,6 +1,6 @@
 ---
 title: "[Song] Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
-date: 2024/3/21 9:05:00
+date: 2024/3/6 9:06:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -158,11 +158,9 @@ permalink: kokoro_de_pittari_ai_ni_naru/
   </tr>
    <tr>
     <td>
-      If you feel tired, then stop in your tracks
+      If you feel tired, then take a moment of pause, even if you’re taking a shortcut or sideway
       <br>
-      Look, even in the shortcuts and sideways
-      <br>
-      That speck of star illuminating you has been watching over you
+      Look, the specks of stars illuminating you have been watching over you
       <br>
       Now, take all of this strength
     </td>
