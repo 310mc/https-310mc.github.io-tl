@@ -346,7 +346,7 @@ Mhm, I’m coming, Tetora-kun!
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/asiam/c1.jpg"
@@ -357,7 +357,7 @@ Mhm, I’m coming, Tetora-kun!
         <span>As I Am</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

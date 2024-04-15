@@ -285,7 +285,7 @@ Yeah, we owe this bonding session all to exercise…♪
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/asiam/c1.jpg"
@@ -296,7 +296,7 @@ Yeah, we owe this bonding session all to exercise…♪
         <span>As I Am</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

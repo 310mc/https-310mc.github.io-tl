@@ -23,7 +23,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+				<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>

@@ -12,7 +12,7 @@ tags:
 - Scout Story
 - Kino Seitaro
 - Story Index
-description: "[ES!!] Rei shows Midori a painting that is said to “make one drop dead upon gazing at it three times”. It depicts the sandbank that resides in ES, so they try to get to the bottom of the mystery…"
+description: "[ES!!] Rei shows Midori a painting that is said to “make one drop dead upon gazing at it three times”. It depicts the sandbank in ES, so they try to get to the bottom of the mystery…"
 permalink: exhibition_in_a_blink/
 hidden: true
 ---
@@ -410,12 +410,14 @@ hidden: true
     <p>One day in early March…</p>
 </div>
 
-{% bubble Midori frown %}
+{% bubble Midori sighfrown %}
 Whew. It’s finally over…
 
-The photoshoot dragged on for so long… I just couldn’t draw out the right nuance for the photos… or more like, my synergy with the photographer wasn’t great…
+The photoshoot dragged on for so long… I just couldn’t draw out the right nuance for the photos... or more like, my synergy with the photographer wasn’t great…
+{% endbubble %}
 
-But now I have the rest of today and tomorrow off… Things have been so hectic lately, so I’m glad I can finally take it easy while hugging all my yuruchara plushies…♪
+{% bubble Midori smile %}
+But now I have the rest of today and tomorrow off… Things have been so hectic lately, so I’m glad I can finally take it easy while hugging all my yuruchara plushies…♪[^1]
 {% endbubble %}
 
 {% bubble Rei srsthinking %}
@@ -447,7 +449,7 @@ It must be some sort of fate that we met each other here… This is perfect timi
 {% bubble Midori worried0 %}
 Ehh… Why me…?
 
-I remember you doing this back during Music Festa too, but you always talk to me at the exact moment that I *don’t* want to be perceived…[^1]
+I remember you doing this back during Music Festa too, but you always talk to me at the exact moment that I *don’t* want to be perceived…[^2]
 {% endbubble %}
 
 {% bubble Rei grin %}
@@ -546,7 +548,7 @@ Nobody cared to clear my troubles, so this is my means of venting my frustration
 Peek, peek *(Peeks his head in and out from the back of the frame)*
 {% endbubble %}
 
-{% bubble Midori frown %}
+{% bubble Midori sighfrown %}
 (What an actual pest…)
 {% endbubble %}
 
@@ -578,4 +580,7 @@ The owner of this “makes one drop dead upon gazing at it three times” painti
 
 ## Translation Notes
 
-[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Music_Festa" target="_blank">Music Festa</a>. Midori, Rei, Izumi and Yuzuru were in the same team together as “Rei-chan Team”.
+[^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Music_Festa" target="_blank">Music Festa</a>. Midori, Rei, Izumi and Yuzuru performed in the same team together as “Rei-chan Team”.
+[^3]: 春一番
+[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a> from Rei's Yumenosaki days as a 3rd year.

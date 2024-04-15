@@ -79,18 +79,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <!--<div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/asiam/c1.jpg"
-            alt="As I Am"
-        />
-    </div>
-    <a href="/as_i_am" class="storyName" target="_blank">
-        <span>As I Am</span>
-        <span class="read"></span>
-    </a>
-</div>-->
-<!--<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
             alt="Sports Survivors"
         />
@@ -130,6 +118,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/asiam/c1.jpg"
+            alt="As I Am"
+        />
+    </div>
+    <a href="/as_i_am" class="storyName" target="_blank">
+        <span>As I Am</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

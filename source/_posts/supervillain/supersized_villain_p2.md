@@ -23,7 +23,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+				<a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
@@ -834,9 +834,9 @@ Because, “if there are no heroes in this world, then *I* will become the hero.
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}
-And that’s why I respect you, Morisawa-senpai. I admire you, and I love you. I have no actual capabilities and I’m terrible at producing results through my effort, so I can’t be you no matter how hard I try.
+And that’s why I respect Morisawa-senpai. I admire him, and I love him. I have no actual capabilities and I’m terrible at producing results through my effort, so I can’t be him no matter how hard I try.
 
-I can’t become a hero that’s exactly like you.
+I can’t become a hero that’s exactly like him.
 
 —That’s why I’m fine with being Black.
 

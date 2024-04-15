@@ -28,8 +28,8 @@ This story is connected to the card [Desperately Trying To Compliment] Midori Ta
                     Characters
                 </div>
                 <div class="value">
-		            <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Yuuta" character="Yuta"></a>
+		        <a href="/categories/Enstars/Midori" character="Midori"></a>
+                <a href="/categories/Enstars/Yuta" character="Yuta"></a>
                 </div>
             </div>
             <div class="info-item one">

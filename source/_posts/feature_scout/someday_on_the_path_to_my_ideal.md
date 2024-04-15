@@ -536,7 +536,7 @@ I’ll let my personalized outfit influence me to continue becoming a great man.
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/asiam/c1.jpg"
@@ -547,7 +547,7 @@ I’ll let my personalized outfit influence me to continue becoming a great man.
         <span>As I Am</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

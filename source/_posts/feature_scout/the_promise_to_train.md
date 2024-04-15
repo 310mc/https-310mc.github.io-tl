@@ -349,7 +349,7 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/asiam/c1.jpg"
@@ -360,7 +360,7 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
         <span>As I Am</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

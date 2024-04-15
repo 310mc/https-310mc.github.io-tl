@@ -986,7 +986,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/asiam/c1.jpg"
@@ -997,7 +997,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>As I Am</span>
         <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

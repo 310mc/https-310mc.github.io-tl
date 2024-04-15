@@ -910,6 +910,9 @@
 [character="Tetora"][angrycloseup] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_angrycloseup.png");
 }
+[character="Tetora"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_awkward0.png");
+}
 [character="Tetora"][awkward0] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_awkward0.png");
 }
@@ -969,6 +972,9 @@
 }
 [character="Tetora"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_nod.png");
+}
+[character="Tetora"][nod2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_nod2.png");
 }
 [character="Tetora"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_norsmile.png");
@@ -2802,6 +2808,26 @@
 /**
 ***/
 
+/** HiMERU Expressions
+***/
+[character="HiMERU"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/himeru_frown.png");
+}
+[character="HiMERU"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/himeru_norsmile.png");
+}
+[character="HiMERU"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/himeru_serious.png");
+}
+[character="HiMERU"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/himeru_smilesoft2.png");
+}
+[character="HiMERU"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/himeru_yare.png");
+}
+/**
+***/
+
 /** Hinata Expressions
 ***/
 [character="Hinata"][angry] {
@@ -2860,6 +2886,9 @@
 }
 [character="Hinata"][smile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smile.png");
+}
+[character="Hinata"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smileconfident.png");
 }
 [character="Hinata"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smilesoft.png");

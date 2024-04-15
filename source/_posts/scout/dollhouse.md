@@ -478,7 +478,7 @@ Alright, what should I do now? I’ve got some free time, so… hmm…
 
 <th>(I’ve got dance practice to go to later, and I was planning to head to it after I was done delivering—)</th>
 
-Ah! Actually, I may as well go to Season Avenue while I can and look around for some new mascot character goods…♪
+Ah! Actually, I may as well go to Season Avenue while I can and look around for some new yuruchara merchandise…♪
 
 <th>(—Ahh, never mind. I just realized none of the shops are even open at this hour…)</th>
 
@@ -1021,7 +1021,7 @@ Mm? Mmm? Huh!?
 {% bubble Midori %}
 …? Kagehira-senpai, why’re you patting yourself all over?
 
-You look like the penguin-mascot character “Pen-tagon”, it’s kinda cute…♪
+You look like the penguin-yuruchara “Pen-tagon”, it’s kinda cute…♪
 {% endbubble %}
 
 {% bubble Mika %}
@@ -1213,7 +1213,7 @@ Midori-kun, ya listenin’? ‘s lonely when I’m just talking t’myself, y’
 {% bubble Midori %}
 Uwaaaaaah…♪ It’s the legendary “Niku-nikumatan☆”[^5] stage set~…♪
 
-It was a show where you did stretching exercises with this bear mascot who loves building muscle—
+It was a show where you did stretching exercises with this bear yuruchara who loves building muscle—
 
 But Niku-nikumatan☆ immediately pulled a muscle on the first episode, and it was never aired ever again! It’s like the show was just a dream! Uwaaaah…! I can’t believe it’s right before my very eyes~☆
 {% endbubble %}
@@ -1273,7 +1273,7 @@ When I was a kid, I used ta dream of stuff like, “if I could be as small as a 
 {% endbubble %}
 
 {% bubble Midori %}
-Hehe, I used to think about being super tiny, too. I wanted to nap on the belly of a fluffy mascot character…♪
+Hehe, I used to think about being super tiny, too. I wanted to nap on the belly of a fluffy yuruchara…♪
 
 But in the end, I just got bigger and bigger… *Sigh,* so depressing…
 
@@ -2109,7 +2109,7 @@ Yeah, you’re right. That’s enough darkness for one day. Let’s go somewhere
 [^2]: Trivia note: Cafe COCHI, Cafe Cinnamon, and the staff cafeteria are all in ES.
 [^3]: A reference to <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac - Senpai Turned into a Dog!?</a>
 [^4]: This is <a href="https://www.sylvanianfamilies.com/en-uk/" target="_blank">Sylvanian Families</a>.
-[^5]: This mascot's name is a wordplay between <em>niku</em> (meat) and <em>kuma</em> (bear).
+[^5]: This yuruchara's name is a wordplay between <em>niku</em> (meat) and <em>kuma</em> (bear).
 [^6]: The <a href="https://www.youtube.com/watch?v=w14xl5NbKL0" target="_blank">nursery rhyme</a> he’s referring to.
 [^7]: Originally, Midori only manages to send a message to Chiaki saying <em>Kagehira-senpai to oodo—</em> (The word cut off here is <em>oodougu souko</em> 大道具倉庫, for “set piece storehouse”.), but his phone died before he could finish typing the word. Chiaki misunderstood it as <em>oudou</em> 王道, hence why Tsumugi corrects his interpretation.
 [^8]: A reference to what happens in the first main story. A TL;DR: Rinne falsely accuses Ryuseitai of being fake, lying, hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

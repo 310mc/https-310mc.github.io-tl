@@ -17,7 +17,7 @@ permalink: misshapen_masterpiece/
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    <p class="carddata">[Making Progress With a Needle] Chiaki Morisawa</p>
+                    <p class="carddata">[A Stitch Forward] Chiaki Morisawa</p>
                 </div>
                 <div class="value">
                 <table>
