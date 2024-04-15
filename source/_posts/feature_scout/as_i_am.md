@@ -649,5 +649,5 @@ Aight then, Anzu-anego. I’m all yours for the photoshooting, we can start anyt
 
 ## Translation Notes
 
-[^1]: Referring to Tetora's first Feature Scout story, <a href="someday_on_the_path_to_my_ideal" target="_blank">Some Day, On The Path To My Ideal</a>.
+[^1]: Referring to Tetora's first Feature Scout story, <a href="/someday_on_the_path_to_my_ideal" target="_blank">Some Day, On The Path To My Ideal</a>.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Sports_Festival" target="_blank">Sports Festival</a>.

@@ -1643,6 +1643,99 @@
 /**
 ***/
 
+/** Rei Expressions
+***/
+[character="Rei"][angry] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_angry.png");
+}
+[character="Rei"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_awkward.png");
+}
+[character="Rei"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_curious.png");
+}
+[character="Rei"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_frown.png");
+}
+[character="Rei"][glare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_glare.png");
+}
+[character="Rei"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_grin.png");
+}
+[character="Rei"][hmphright] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_hmphright.png");
+}
+[character="Rei"][idle] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_idle.png");
+}
+[character="Rei"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_nod.png");
+}
+[character="Rei"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_northinking.png");
+}
+[character="Rei"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_sad4.png");
+}
+[character="Rei"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_serious.png");
+}
+[character="Rei"][shocked] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_shocked.png");
+}
+[character="Rei"][sideeye] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_sideeye.png");
+}
+[character="Rei"][sigh] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_sigh.png");
+}
+[character="Rei"][sightired] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_sightired.png");
+}
+[character="Rei"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_smile.png");
+}
+[character="Rei"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_smileconfident.png");
+}
+[character="Rei"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_smilesoft.png");
+}
+[character="Rei"][snicker] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_snicker.png");
+}
+[character="Rei"][srsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_srsthinking.png");
+}
+[character="Rei"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_nod.png");
+}
+[character="Rei"][nod2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_nod2.png");
+}
+[character="Rei"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_smilesoft2.png");
+}
+[character="Rei"][smile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_smile3.png");
+}
+[character="Rei"][surprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_surprised.png");
+}
+[character="Rei"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_worried.png");
+}
+[character="Rei"][yare] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_yare.png");
+}
+
+[character="Rei"][ore] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_ore.png");
+}
+/**
+***/
+
 /** Adonis Expressions
 ***/
 [character="Adonis"][curious] {
@@ -1730,13 +1823,6 @@
 /**
 ***/
 
-/** Rei Expressions
-***/
-[character="Rei"][ore] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_ore.png");
-}
-/**
-***/
 
 /** Nagisa Expressions
 ***/

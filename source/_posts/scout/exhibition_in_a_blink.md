@@ -14,7 +14,6 @@ tags:
 - Story Index
 description: "[ES!!] Rei shows Midori a painting that is said to “make one drop dead upon gazing at it three times”. It depicts the sandbank in ES, so they try to get to the bottom of the mystery…"
 permalink: exhibition_in_a_blink/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
@@ -427,9 +426,9 @@ Hm. This painting is truly riddled with many mysteries…
 {% endbubble %}
 
 {% bubble Midori curious %}
-(Huh? That’s Sakuma-senpai… What’s he doing with that picture frame?)
+<th>(Huh? That’s Sakuma-senpai… What’s he doing with that picture frame?)</th>
 
-(Eh, not that it matters much to me… It’d only be a pain if he starts up a conversation, so I’ll just hurry back to my room and relax with my phone.)
+<th>(Eh, not that it matters much to me… It’d only be a pain if he starts up a conversation, so I’ll just hurry back to my room and relax with my phone.)</th>
 {% endbubble %}
 
 {% bubble Rei %}
@@ -545,19 +544,19 @@ Nobody cared to clear my troubles, so this is my means of venting my frustration
 {% endbubble %}
 
 {% bubble Rei smileconfident %}
-Peek, peek *(Peeks his head in and out from the back of the frame)*
+Peek, peek *<th>(Peeks his head in and out from the back of the frame)</th>*
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
-(What an actual pest…)
+<th>(What an actual pest…)</th>
 {% endbubble %}
 
 {% bubble Midori srsthinking %}
-(Uuu, I really just can’t handle talking with people I don’t know well…)
+<th>(Uuu, I really just can’t handle talking with people I don’t know well…)</th>
 
-(I’m better at talking to people than I used to be, but it still wears me out… I wanna muster the courage to turn down his request…)
+<th>(I’m better at talking to people than I used to be, but it still wears me out… I wanna muster the courage to turn down his request…)</th>
 
-(But… what if people really <em>will</em> die if they look at that painting three times…?)
+<th>(But… what if people really <em>will</em> die if they look at that painting three times…?)</th>
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -582,5 +581,5 @@ The owner of this “makes one drop dead upon gazing at it three times” painti
 
 [^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Music_Festa" target="_blank">Music Festa</a>. Midori, Rei, Izumi and Yuzuru performed in the same team together as “Rei-chan Team”.
-[^3]: 春一番
+[^3]: This refers to <em>haru ichiban</em>; when strong wind blows from the warm south for the first time as the season changes from winter to spring.
 [^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a> from Rei's Yumenosaki days as a 3rd year.
