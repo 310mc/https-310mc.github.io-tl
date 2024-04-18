@@ -10,7 +10,7 @@ categories:
 - [Enstars, Shinobu]
 - [Enstars, Ryuseitai]
 tags:
-- Happy Elements K.K.
+- Happy Elements Staff
 - Extra
 description: "[ES!!] Translation of 8th Anniversary content."
 ---

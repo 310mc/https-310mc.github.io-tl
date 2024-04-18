@@ -188,7 +188,7 @@ permalink: NEW_DAYBREAK/
   </tr>
   <tr>
     <td class="name"></span></td>
-    <td>There was always meaning to that</td>
+    <td>There is meaning to that</td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
