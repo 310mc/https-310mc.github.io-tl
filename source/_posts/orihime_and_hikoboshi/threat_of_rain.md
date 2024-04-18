@@ -1116,7 +1116,7 @@ You guys told me that Ryuseitai is currently watching and learning from Tricksta
 If that’s all you’re doing, then why're you hunched over there? Did someone tell you something mean?
 {% endbubble %}
 
-{% bubble Mao angry2 %}
+{% bubble Mao glare %}
 For goodness’ sake… He may look strong 'cause of his build, but he's pretty timid. You can't bully him, Subaru… Got it?
 {% endbubble %}
 
@@ -1162,7 +1162,7 @@ Huh~? Nah, I just said what’s on my mind.
 Like, “why can't you get this right?” and “do it properly!” and “are you really trying?”
 {% endbubble %}
 
-{% bubble Mao shocked %}
+{% bubble Mao horrified %}
 Holy… For an ordinary person, hearing that from a genius would hurt a *lot*.
 
 I don't think he wasn’t trying, y’know. I'm sure he was trying to do it properly.
@@ -1332,7 +1332,7 @@ I gotta check up on the Student Council members that I left behind at school.
 Ninja art! Phone seizing technique~☆
 {% endbubble %}
 
-{% bubble Mao surprised2 %}
+{% bubble Mao shocked %}
 Ah— Hey! Give it back!
 
 Why're you acting like this all of a sudden? You're usually a well-behaved kid…

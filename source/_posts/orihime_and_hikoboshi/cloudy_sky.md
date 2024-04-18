@@ -96,7 +96,7 @@ Hey, hey Sally~ If you don’t plan on drinking that, then give it to me! I'm fe
 
 {% img /img/es/eventstory/orihimeandhikoboshi/cloudy1_2.jpg %}
 
-{% bubble Mao angry2 %}
+{% bubble Mao glare %}
 Okay sure, but. Could you pay attention to our captain?
 {% endbubble %}
 
@@ -328,7 +328,7 @@ I believe that we'll keep going higher and higher, so I couldn’t possibly let 
 Other units have been getting more active too, so any careless step could put us behind.
 {% endbubble %}
 
-{% bubble Mao frown2 %}
+{% bubble Mao sighfrown %}
 Ahh, we're going through the same thing… If we stop even for a moment, we'll be buried.
 {% endbubble %}
 
@@ -708,7 +708,7 @@ Woah! W-What's wrong, Takamine? Why're you hunched over in the corner there…?
 <em><th>(mutter)</th></em> Why me… Why’d he have to go and tell me that… So annoying… This is why I didn't want this… <em><th>(mutter, mutter)</th></em>
 {% endbubble %}
 
-{% bubble Mao shocked %}
+{% bubble Mao horrified %}
 <th>(H-He's mumbling something! It's freaking me out!)</th>
 {% endbubble %}
 

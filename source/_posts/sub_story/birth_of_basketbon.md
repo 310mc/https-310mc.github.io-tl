@@ -224,7 +224,7 @@ This feels like a roundabout way to do it, but it might be effective on him. Umm
 Its backstory is way too complex and wild… Ahh~ It’s so yuruchara-like…♪
 {% endbubble %}
 
-{% bubble Mao surprised2 %}
+{% bubble Mao shocked %}
 Ermm… “My powers can’t manifest when my body is dirty-bon. At this rate, our world will be destroyed by baseball and soccer-bon…!”
 {% endbubble %}
 

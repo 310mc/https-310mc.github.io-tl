@@ -581,7 +581,7 @@ Isara-dono.
 You need not worry. I am alright.
 {% endbubble %}
 
-{% bubble Mao angry2 %}
+{% bubble Mao glare %}
 Nope. You don't look alright one bit, that's why I’m worried about you, y’know?
 {% endbubble %}
 

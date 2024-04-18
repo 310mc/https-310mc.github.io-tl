@@ -839,7 +839,7 @@ Sorry, sorry! I saw something sparkling outside the gym, so I wanted to go pick 
 But Daikichi got to it before me — and you just can’t win against a dog in a race, yeah~?
 {% endbubble %}
 
-{% bubble Mao surprised2 %}
+{% bubble Mao shocked %}
 I’ve been wanting to say this for a while, but could you <em>not</em> let Daikichi run around the school? Make sure to give him a collar and keep him at home~
 
 Lately I’ve been seeing other dogs on campus, maybe ‘cause they’re Daikichi’s friends or something…

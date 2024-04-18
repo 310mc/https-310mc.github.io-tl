@@ -517,7 +517,7 @@ Yooo, Sally~! You done with your work? Ryuseitai asked us if we could rehearse w
 Ooh?
 {% endbubble %}
 
-{% bubble Mao surprised2 %}
+{% bubble Mao shocked %}
 ……………
 
 …Um. It’s not what you think, Subaru. This was all an accident. Please believe me.
@@ -547,7 +547,7 @@ C’mon, Anzu! Don't laugh! Tell them the truth!!
 
 ## Chapter 4
 
-{% bubble Mao frown2 %}
+{% bubble Mao sighfrown %}
 Um, I'll get off of you now, so… A-Are you hurt anywhere?
 
 …I’m begging you! Please don't sue me!
@@ -633,7 +633,7 @@ Isara-dono~! I mean— Everyone from Trickstar! We have acquired a place for our
 …Wait! Isara-dono and Anzu-dono are having a moment again! I apologize for being a ninja who just cannot read the mood! I will take my leave right away~!
 {% endbubble %}
 
-{% bubble Mao surprised2 %}
+{% bubble Mao shocked %}
 Wait, wait! You’re misunderstanding again! We were just bonding as friends, y’know…!?
 {% endbubble %}
 
