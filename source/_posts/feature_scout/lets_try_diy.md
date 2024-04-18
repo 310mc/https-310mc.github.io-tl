@@ -40,7 +40,7 @@ This story is connected to the card [A Challenging Step] Midori Takamine.
                     Writer
                 </div>
                 <div class="value">
-                    Kanata Haruka
+                    <a href="/tags/Kanata-Haruka/">Kanata Haruka</a>
                 </div>
             </div>
             <div class="info-item two">

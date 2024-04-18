@@ -27,7 +27,7 @@ description: "[ES!!] Translation of Hinata's Idol Story 3, featuring Midori."
                     Writer
                 </div>
                 <div class="value">
-                    Yuuki Yoshino
+                    <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                 </div>
             </div>
             <div class="info-item two">

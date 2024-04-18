@@ -58,7 +58,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            Yuumasu
+                            <a href="/tags/Yuumasu/">Yuumasu</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -151,7 +151,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            Yuumasu
+                            <a href="/tags/Yuumasu/">Yuumasu</a>
                         </div>
                     </div>
                     <div class="info-item characters">

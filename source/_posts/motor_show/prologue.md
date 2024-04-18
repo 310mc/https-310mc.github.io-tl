@@ -26,7 +26,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

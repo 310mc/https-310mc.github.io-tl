@@ -40,7 +40,7 @@ This story is connected to the card [singing with the fishes] Kanata Shinkai.
                     Writer
                 </div>
                 <div class="value">
-                    Umeda Chitose
+                    <a href="/tags/Umeda-Chitose/">Umeda Chitose</a>
                 </div>
             </div>
             <div class="info-item two">

@@ -38,7 +38,7 @@ This story is connected to the card [What Makes A Hero] Chiaki Morisawa.
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

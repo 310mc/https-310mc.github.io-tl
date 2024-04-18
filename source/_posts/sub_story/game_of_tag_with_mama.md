@@ -40,7 +40,7 @@ This story is connected to the card [Showdown with Mama] Mitsuru Tenma.
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

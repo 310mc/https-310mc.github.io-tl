@@ -48,7 +48,7 @@ This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

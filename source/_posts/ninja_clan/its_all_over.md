@@ -30,7 +30,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Writer
                 </div>
                 <div class="value">
-                    Nishioka Maiko
+                    <a href="/tags/Nishioka-Maiko/">Nishioka Maiko</a>
                 </div>
             </div>
             <div class="info-item two">

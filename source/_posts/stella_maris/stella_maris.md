@@ -48,7 +48,7 @@ permalink: stella_maris/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -149,7 +149,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">

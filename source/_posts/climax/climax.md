@@ -47,7 +47,7 @@ permalink: climax/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -142,7 +142,7 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">

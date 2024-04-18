@@ -41,7 +41,7 @@ This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
                     Writer
                 </div>
                 <div class="value">
-                    Suika
+                    <a href="/tags/Suika/">Suika</a>
                 </div>
             </div>
             <div class="info-item two">

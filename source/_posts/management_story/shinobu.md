@@ -29,7 +29,7 @@ description: "[ES!] Translation of Shinobu's Management Stories, featuring Mao a
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements K.K.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
                 </div>
             </div>
             <div class="info-item two">

@@ -32,7 +32,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

@@ -14,7 +14,7 @@ categories:
 tags:
 - Story Index
 - Scout Story
-- Kino Seitarou
+- Kino Seitaro
 description: "[ES!!] TBA"
 permalink: flowers_of_the_wasteland/
 hidden: true
@@ -55,7 +55,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitarou
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -144,7 +144,7 @@ hidden: true
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitarou
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">

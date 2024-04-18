@@ -46,7 +46,7 @@ permalink: school_festival_4/
                             Writer
                         </div>
                         <div class="value">
-                            Yuuki Yoshino
+                            <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -140,7 +140,7 @@ permalink: school_festival_4/
                             Writer
                         </div>
                         <div class="value">
-                            Yuuki Yoshino
+                            <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                         </div>
                     </div>
                     <div class="info-item characters">

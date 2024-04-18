@@ -29,7 +29,7 @@ description: "[ES!!] Translation of Midori's Idol Story 2, featuring Shinobu and
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

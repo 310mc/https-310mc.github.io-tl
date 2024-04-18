@@ -46,7 +46,7 @@ permalink: tropical/
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -143,7 +143,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">

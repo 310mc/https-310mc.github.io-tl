@@ -38,7 +38,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

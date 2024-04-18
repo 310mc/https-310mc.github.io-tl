@@ -45,7 +45,7 @@ This story is connected to the card [Study Session] Chiaki Morisawa.
                     Writer
                 </div>
                 <div class="value">
-                    Kino Seitaro
+                    <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                 </div>
             </div>
             <div class="info-item two">

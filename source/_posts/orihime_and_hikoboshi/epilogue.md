@@ -42,7 +42,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

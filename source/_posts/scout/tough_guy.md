@@ -53,7 +53,7 @@ permalink: tough_guy/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -143,7 +143,7 @@ permalink: tough_guy/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">

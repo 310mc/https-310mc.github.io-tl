@@ -42,7 +42,7 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
                     Writer
                 </div>
                 <div class="value">
-                    Umeda Chitose
+                    <a href="/tags/Umeda-Chitose/">Umeda Chitose</a>
                 </div>
             </div>
             <div class="info-item two">

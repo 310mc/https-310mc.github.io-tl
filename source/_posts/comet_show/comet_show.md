@@ -46,7 +46,7 @@ permalink: comet_show/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -135,7 +135,7 @@ permalink: comet_show/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">

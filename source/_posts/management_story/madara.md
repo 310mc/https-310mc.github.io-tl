@@ -29,7 +29,7 @@ description: "[ES!] Translation of Madara's Management Stories, featuring Mitsur
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements K.K.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
                 </div>
             </div>
             <div class="info-item two">

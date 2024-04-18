@@ -1,6 +1,6 @@
 ---
 title: "[Song] NEW DAYBREAK"
-date: 2024/3/21 9:01:00
+date: 2024/3/6 9:10:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -335,7 +335,7 @@ permalink: NEW_DAYBREAK/
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You repeatedly appreciate my individuality[^6]</td>
+    <td>This place repeatedly recognizes my individuality[^6]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
@@ -343,7 +343,7 @@ permalink: NEW_DAYBREAK/
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>That we fire up together, reverberate together</td>
+    <td>That we fire up for one another, reverberate between each other</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
@@ -387,7 +387,7 @@ permalink: NEW_DAYBREAK/
   </tr>
   <tr>
     <td class="name"></span></td>
-    <td>There was always meaning to that</td>
+    <td>There is meaning to that</td>
   </tr>
   <tr>
     <td><br></td>

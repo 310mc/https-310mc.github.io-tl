@@ -48,7 +48,7 @@ permalink: shooting_star_festival/
                             Writer
                         </div>
                         <div class="value">
-                            Yuuki Yoshino
+                            <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -138,7 +138,7 @@ permalink: shooting_star_festival/
                             Writer
                         </div>
                         <div class="value">
-                            Yuuki Yoshino
+                            <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                         </div>
                     </div>
                     <div class="info-item characters">

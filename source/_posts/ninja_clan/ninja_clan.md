@@ -47,7 +47,7 @@ permalink: ninja_clan/
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko<br>(with Akira)
+                            <a href="/tags/Nishioka-Maiko/">Nishioka Maiko</a><br>(with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -140,7 +140,7 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko<br>(with Akira)
+                            <a href="/tags/Nishioka-Maiko/">Nishioka Maiko</a><br>(with Akira)
                         </div>
                     </div>
                     <div class="info-item characters">

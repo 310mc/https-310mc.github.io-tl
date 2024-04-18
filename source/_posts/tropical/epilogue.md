@@ -32,7 +32,7 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
                     Writer
                 </div>
                 <div class="value">
-                    Kino Seitaro
+                    <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                 </div>
             </div>
             <div class="info-item two">

@@ -35,7 +35,7 @@ description: "[ES!!] Translation of 8th Anniversary content."
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements K.K.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
                 </div>
             </div>
             <div class="info-item two">

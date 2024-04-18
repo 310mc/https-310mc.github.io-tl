@@ -40,7 +40,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

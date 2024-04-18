@@ -44,7 +44,7 @@ This story is connected to the card [Growing Young Tiger] Tetora Nagumo.
                     Writer
                 </div>
                 <div class="value">
-                    Umeda Chitose
+                    <a href="/tags/Umeda-Chitose/">Umeda Chitose</a>
                 </div>
             </div>
             <div class="info-item two">

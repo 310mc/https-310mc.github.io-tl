@@ -25,7 +25,7 @@ description: "[ES!!] Translation of Hajime's Idol Story 1."
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

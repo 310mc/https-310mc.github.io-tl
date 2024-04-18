@@ -35,7 +35,7 @@ hidden: true
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements Staff
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
                 </div>
             </div>
             <div class="info-item two">

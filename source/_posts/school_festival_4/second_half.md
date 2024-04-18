@@ -40,7 +40,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
                     Writer
                 </div>
                 <div class="value">
-                    Yuuki Yoshino
+                    <a href="/tags/Yuuki-Yoshino/">Yuuki Yoshino</a>
                 </div>
             </div>
             <div class="info-item two">

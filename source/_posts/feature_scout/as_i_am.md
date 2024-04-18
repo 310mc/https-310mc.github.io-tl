@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] As I Am"
-date: 2024-4-15 9:00:00
+date: 2023-8-10 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Tetora]
@@ -79,7 +79,7 @@ permalink: as_i_am/
                     Writer
                 </div>
                 <div class="value">
-                    Kanata Haruka
+                    <a href="/tags/Kanata-Haruka/">Kanata Haruka</a>
                 </div>
             </div>
             <div class="info-item two">

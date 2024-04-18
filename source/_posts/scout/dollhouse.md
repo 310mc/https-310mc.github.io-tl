@@ -49,7 +49,7 @@ permalink: dollhouse/
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko
+                            <a href="/tags/Nishioka-Maiko/">Nishioka Maiko</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -137,7 +137,7 @@ permalink: dollhouse/
                             Writer
                         </div>
                         <div class="value">
-                            Nishioka Maiko
+                            <a href="/tags/Nishioka-Maiko/">Nishioka Maiko</a>
                         </div>
                     </div>
                     <div class="info-item characters">

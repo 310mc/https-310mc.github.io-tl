@@ -60,7 +60,7 @@ This translation is **on hold**. Due to the official version having been release
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -151,7 +151,7 @@ This translation is **on hold**. Due to the official version having been release
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">

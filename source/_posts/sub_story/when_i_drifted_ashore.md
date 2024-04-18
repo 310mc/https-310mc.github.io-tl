@@ -36,7 +36,7 @@ This story is connected to the card [hospitalization] Kanata Shinkai.
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

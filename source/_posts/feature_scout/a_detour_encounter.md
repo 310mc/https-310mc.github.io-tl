@@ -40,7 +40,7 @@ This story is connected to the card [Purchasing New Book] Jun Sazanami.
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

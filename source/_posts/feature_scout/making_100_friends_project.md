@@ -41,7 +41,7 @@ This story is connected to the card [Bonds That Can Be Called Friendship] Midori
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

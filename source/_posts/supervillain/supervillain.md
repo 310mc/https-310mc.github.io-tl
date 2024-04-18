@@ -49,7 +49,7 @@ permalink: supervillain/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -140,7 +140,7 @@ permalink: supervillain/
                             Writer
                         </div>
                         <div class="value">
-                            Akira
+                            <a href="/tags/Akira/">Akira</a>
                         </div>
                     </div>
                     <div class="info-item characters">

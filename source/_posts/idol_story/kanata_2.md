@@ -27,7 +27,7 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
                     Writer
                 </div>
                 <div class="value">
-                    Yuumasu
+                    <a href="/tags/Yuumasu/">Yuumasu</a>
                 </div>
             </div>
             <div class="info-item two">

@@ -37,7 +37,7 @@ description: "[ES!] Translation of Chiaki's Management Stories, featuring Kaoru,
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements K.K.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
                 </div>
             </div>
             <div class="info-item two">

@@ -27,7 +27,7 @@ description: "[ES!] Translation of Kuro's Management Stories, featuring Chiaki."
                     Writer
                 </div>
                 <div class="value">
-                    Happy Elements K.K.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
                 </div>
             </div>
             <div class="info-item two">

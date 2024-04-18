@@ -43,7 +43,7 @@ This story is connected to the card [Basketball Practice] Mao Isara.
                     Writer
                 </div>
                 <div class="value">
-                    Akira
+                    <a href="/tags/Akira/">Akira</a>
                 </div>
             </div>
             <div class="info-item two">

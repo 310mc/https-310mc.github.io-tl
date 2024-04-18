@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Exhibition In A Blink Of An Eye"
+title: "[ES!!] Exhibition In A Blink Of An Eye (In progress!)"
 date: 2024-4-15 10:00:00
 categories:
 - [Enstars, ES!!]
@@ -15,7 +15,7 @@ tags:
 description: "[ES!!] Rei shows Midori a painting that is said to “make one drop dead upon gazing at it three times”. It depicts the sandbank in ES, so they try to get to the bottom of the mystery…"
 permalink: exhibition_in_a_blink/
 ---
-<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="preview-background" style="background-image: url('/img/es/scoutstory/blinkexhibition/reibcgframe.jpg')"></div>
         <div class="preview-box">
@@ -50,7 +50,7 @@ permalink: exhibition_in_a_blink/
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -138,7 +138,7 @@ permalink: exhibition_in_a_blink/
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
