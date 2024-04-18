@@ -55,6 +55,30 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
+            alt="Exhibition In A Blink Of An Eye"
+        />
+    </div>
+    <a href="/exhibition_in_a_blink" class="storyName" target="_blank">
+        <span>Exhibition In A Blink Of An Eye (In progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+            alt="Christmas Live"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Christmas Live (In progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<!--<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/idolstory/aherotoo/c2.jpg"
             alt="Chiaki-related stories"
         />
@@ -76,7 +100,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
-<!--<div class="story">
+<div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"

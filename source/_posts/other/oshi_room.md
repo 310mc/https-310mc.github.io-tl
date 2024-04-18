@@ -43,7 +43,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, <a href="https://citrinesea.github.io/">citrinesea</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -51,7 +51,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
+                    <a href="https://citrinesea.github.io/">citrinesea</a>, <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                 </div>
             </div>
         </div>
@@ -60,4 +60,11 @@ hidden: true
 
 <!-- more -->
 
-TBA
+TBAff
+
+<!DOCTYPE html>
+<html>
+<div><audio controls style="display:block;" src="/img/es/eventstory/climax/midoribcg.mp3"></audio></div>
+
+<audio controls style="width: 400px; display:block;" src="/img/es/eventstory/climax/midoribcg.ogg"></audio>
+</html>

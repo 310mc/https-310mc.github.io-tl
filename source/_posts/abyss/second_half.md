@@ -1473,7 +1473,7 @@ but. mhm, i hope that’s true.
 {% bubble Kanata smilesoft2 %}
 —thank you, mother.
 
-as you can see, i assure you that i am living quite happily.
+as you can see, i can assure you that i am living quite happily.
 
 so please, don’t cry anymore.
 {% endbubble %}

@@ -205,7 +205,7 @@ How about asking the show’s staff to stream a video for you? We can record one
 Sounds good~ I’ll record it.
 {% endbubble %}
 
-{% bubble Makoto agape %}
+{% bubble Makoto horrified %}
 F-Fushimi-kun…? And even Sazanami-kun, too…!?
 {% endbubble %}
 

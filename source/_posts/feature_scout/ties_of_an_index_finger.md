@@ -298,7 +298,7 @@ It’s the way you <em>think</em> that you’re uncool that I find waaay more un
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Guhh…! Your words cut deep in my heart, Akehoshi…!
+Guhh…! Your words cut deep into my heart, Akehoshi…!
 {% endbubble %}
 
 {% bubble Subaru norsmile %}

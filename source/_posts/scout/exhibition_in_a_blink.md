@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Exhibition In A Blink Of The Eye"
-date: 2024-4-10 9:00:00
+title: "[ES!!] Exhibition In A Blink Of An Eye"
+date: 2024-4-15 10:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -20,7 +20,7 @@ permalink: exhibition_in_a_blink/
         <div class="preview-background" style="background-image: url('/img/es/scoutstory/blinkexhibition/reibcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Exhibition In A Blink Of The Eye</div>
+                <div class="title-area__title">Exhibition In A Blink Of An Eye</div>
                 <div class="title-area__subtitle">瞬ぎと展覧会</div>
                 <div class="title-area__start"><a href="/exhibition_in_a_blink#Portrait-Shrouded-In-Mystery-1">Start Reading</a></div>
             </div>
@@ -106,7 +106,7 @@ permalink: exhibition_in_a_blink/
                 <div><img src="/img/es/scoutstory/blinkexhibition/reibcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Exhibition In A Blink Of The Eye</div>
+                <div class="title-area__title">Exhibition In A Blink Of An Eye</div>
                 <div class="title-area__subtitle">瞬ぎと展覧会</div>
                 <div class="title-area__start">
                     <a href="#Portrait-Shrouded-In-Mystery-1">Start Reading</a>
@@ -179,7 +179,7 @@ permalink: exhibition_in_a_blink/
                                 Scout
                             </div>
                             <div class="value">
-                                Scout! Exhibition In A Blink Of The Eye
+                                Scout! Exhibition In A Blink Of An Eye
                             </div>
                         </div>
                         <div class="tab-item">
@@ -412,7 +412,7 @@ permalink: exhibition_in_a_blink/
 {% bubble Midori sighfrown %}
 Whew. It’s finally over…
 
-The photoshoot dragged on for so long… I just couldn’t draw out the right nuance for the photos... or more like, my synergy with the photographer wasn’t great…
+The photoshoot dragged on for so long… I just couldn’t draw out the right nuance for the photos… or more like, my synergy with the photographer wasn’t great…
 {% endbubble %}
 
 {% bubble Midori smile %}
@@ -466,7 +466,7 @@ Nevertheless, this is the painting I was looking at. It is excellently crafted, 
 {% bubble Midori sightired %}
 <em>And</em> he’s not listening to me…
 
-Umm, it’s a painting of a woman smiling in a beautiful landscape…? It looks like a regular painting to me, but is there actually something wrong with it?
+Umm, it’s a painting of a woman smiling in a beautiful landscape…? It looks like a regular painting to me, but is there something up with it?
 {% endbubble %}
 
 {% bubble Rei smilesoft %}
@@ -573,6 +573,408 @@ Right then, let us conduct our investigation as part of the Mystery Researchers 
 The owner of this “makes one drop dead upon gazing at it three times” painting — Also known as the “Mysterious Portrait” — will surely be overjoyed to hear this, too. ♪
 {% endbubble %}
 
+## Portrait Shrouded in Mystery 2
+
+{% img /img/es/scoutstory/blinkexhibition/2.jpg %}
+
+{% bubble Midori surprised %}
+Whaa!? It was all a lie when you said that people die after looking at this painting three times…!?
+{% endbubble %}
+
+{% bubble Rei %}
+Indeed it was. If that was <em>truly</em> the case, we would have corpses lying around everywhere.
+
+There lies a mystical air within this painting that is past its prime— So in that sense, it wouldn’t be surprising to learn if it had exaggerated rumors surrounding it.
+
+However, it was all said in jest. I have gazed at this artwork many times by now.
+{% endbubble %}
+
+{% bubble Midori sigh %}
+Ah, I see… <em>Sigh</em>… I got all anxious over nothing…
+
+But why would you even do that…? Was there really any need to try and scare people with that joke?
+{% endbubble %}
+
+{% bubble Rei grin %}
+Everyone sees themselves as pitiful, no? I was trying to attract people’s interest to this painting by deliberately alluding to a dangerous mystery that could cause harm.
+
+I am also weak to sunlight, and investigating all on my own would be extremely difficult to accomplish.
+
+That is why I thought of finding a kind-hearted ally to assist me… And that’s when you showed yourself, Takamine-kun. ♪
+{% endbubble %}
+
+{% bubble Midori sad2 %}
+This is so depressing… *That’s* why I was forced to do this…?
+{% endbubble %}
+
+{% bubble Rei smile %}
+But it piqued your interest, did it not? Here, take another look at this painting that will <em>not</em> make you drop dead even if you’ve gazed at it three times — Sear it into your eyes. ♪
+{% endbubble %}
+
+{% bubble Midori frown %}
+Please stop that already. Even if the rumor was just a joke, I don’t really wanna look at it so much…
+{% endbubble %}
+
+{% bubble Midori curious %}
+Anyway, Sakuma-senpai. Where are we even headed…?
+
+You said we’d go on an investigation in ES, so does that mean you’ve got a hunch who you could ask?
+{% endbubble %}
+
+{% bubble Rei %}
+Mm. Regarding that… I had been waiting for a response back from a few colleagues while I was gazing at the painting in the Starmony Dorm. There is someone I’ve contacted that is currently investigating the painting over at the Information Room.
+{% endbubble %}
+
+{% bubble Midori shocked %}
+Whaa…? So you’ve got other allies?
+
+Then couldn’t you have just left me be…?
+{% endbubble %}
+
+{% bubble Rei %}
+Come now, what harm is there in having more helping hands? I also have my own life to deal with, and I can’t afford to fixate on this painting all day.
+{% endbubble %}
+
+{% bubble Midori curious %}
+Um, I’ve also got my own life to deal with…?
+{% endbubble %}
+
+{% bubble Rei smile %}
+You certainly do. That is exactly why I’ve requested your help during your time off.
+{% endbubble %}
+
+{% bubble Midori awkward %}
+Uh, right.
+{% endbubble %}
+
+{% bubble Midori sighdrop %}
+(He’s moving onto the next topic like nothing’s wrong… So basically, I don’t have any rights to refuse…)
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Information Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/blinkexhibition/3.jpg %}
+
+{% bubble Rei %}
+Yuuki-kun. Have you finished investigating?
+{% endbubble %}
+
+{% bubble Makoto %}
+Hello, I hope you’ve been doing well, Sakuma-senpai! Yeah, I’m almost done.
+
+…Huh, Takamine-kun? Why are you just standing there at the door, looking so frustrated?
+{% endbubble %}
+
+{% bubble Midori frown %}
+Don’t mind me, please carry on… I was just suddenly dragged into this…
+{% endbubble %}
+
+{% bubble Makoto %}
+Ah, yeah, Sakuma-senpai sometimes does things out of left field, doesn’t he?
+
+But he doesn’t do it to be mean; it’s actually done with good intentions, so it’s something to be grateful for.
+
+So maybe there’s a deeper reason why he asked you to help him out with this, Takamine-kun.
+
+When I did intensive training under UNDEAD‘s guidance, they made me go bungee jumping, and it was a rough time for me then, too… But it’s still a good memory for me to this day, I think.
+{% endbubble %}
+
+{% bubble Makoto awkward %}
+…Actually, can I really say that… it was a good memory…?
+{% endbubble %}
+
+{% img /img/es/scoutstory/blinkexhibition/midoriorigcg.jpg %}
+
+{% bubble Midori sighfrown %}
+Please don’t start questioning your own words…
+
+Anyway, I’m at least aware Sakuma-senpai isn’t a bad person…
+
+But it tires me out to be suddenly dragged around from place to place, and I’m getting mentally worn out from the stress of trying to communicate…
+{% endbubble %}
+
+{% bubble Makoto nod %}
+Ah! I feel you so bad~ Our MP drains the longer we spend time with other people, right?
+
+But don’t worry. I was also curious about this painting, so I’ve already done some research. I think that if all goes well, you’ll be released from this investigation soon too, Takamine-kun.
+
+Sakuma-senpai, could I start by asking you to look at the printout I gave you?
+{% endbubble %}
+
+{% bubble Rei %}
+Hm… This is an archive of the public national exhibitions. This painting… I see, the painting style here is similar to our ‘Mysterious Portrait’, isn’t it?
+
+This would mean that this artist is the one behind the painting in question, correct?
+{% endbubble %}
+
+{% bubble Makoto %}
+Yep. I had to really dig deep for info since there’s no digital data of the painting. I used the date written on the back of the frame as a clue, and looked through that year’s public exhibitions.
+
+I had to go to a huge library, so it was rough rummaging through all the illustrated books they had… But I managed to find the person who created the painting in the end.
+{% endbubble %}
+
+{% bubble Midori v3 %}
+But just because the painting style is the same doesn’t necessarily mean that it’s the same person behind it, does it?
+
+Artists tend to take in a pupil… So it’s possible that this painting was drawn by someone who copied the mentor’s style.
+{% endbubble %}
+
+{% bubble Makoto %}
+Mhm, I was wondering about that too. But the signatures on the two paintings are the same, so I don’t think we’re off the mark here.
+{% endbubble %}
+
+{% bubble Rei %}
+Hm. Indeed, there’s a signature drawn on the edge of the frame. Takamine-kun, see for yourself, too.
+{% endbubble %}
+
+{% bubble Midori sightired %}
+Uu… I know I won’t die by looking at it three times, but it still makes me nervous…
+
+But… You’re right, the signature seems to be the same as the one on the painting Yuuki-senpai printed out…?
+{% endbubble %}
+
+{% bubble Rei smile %}
+You have my gratitude, Yuuki-kun. Thanks to you, we should be able to reach the truth much faster than expected.
+
+Right then, allow me to contact the artist…♪
+{% endbubble %}
+
+{% bubble Makoto shocked %}
+Ah— I tried contacting him already. There’s just one problem—
+
+It seems like the artist’s an old man, and he’s currently in the hospital.
+{% endbubble %}
+
+{% bubble Rei curious %}
+In the hospital…?
+{% endbubble %}
+
+{% bubble Makoto serious %}
+Yes. I tried contacting him by finding his phone number in a telephone directory… And a family member picked up the phone, saying that he’s currently in the hospital and can’t allow any visitors at the moment.
+
+The exhibition his painting was displayed at also happened a few decades ago, so he must be really old by now.
+{% endbubble %}
+
+{% bubble Rei srsthinking %}
+What a strange coincidence… Now that you’ve said that, it feels as though this painting intentionally beckoned us, in hopes of making us meet the artist.
+
+Perhaps that is also why I showed extraordinary interest in this painting. As if an unseen force was at work—
+{% endbubble %}
+
+{% bubble Midori worried0 %}
+Guh— He’s saying something occultish again… I’m not buying it this time, okay…!?
+{% endbubble %}
+
+{% bubble Rei snicker %}
+Kukuku. Takamine-kun’s such a worrywart. ♪
+{% endbubble %}
+
+{% bubble Rei %}
+Regardless, I will try to contact his family myself.
+
+As the one entrusted with this painting, punishment would befall me if I do not take on that task at the very least.
+{% endbubble %}
+
+## Portrait Shrouded In Mystery 3
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Yumenosaki Academy Corridor</span></p>
+</div>
+
+{% img /img/es/scoutstory/blinkexhibition/4.jpg %}
+
+<div class="msr-narration">
+    <p>Two days later, in the morning…</p>
+</div>
+
+{% bubble Midori smile %}
+(Ahh, I’m sooo glad I got to relax all day yesterday…♪ I feel healed from all the exhaustion…♪)
+
+(But huh, so what was the truth behind that painting in the end…?)
+
+(The conclusion was sort of a let down… Like, I didn’t really get to find out a clear answer.)
+{% endbubble %}
+
+{% bubble Midori frustrated %}
+(That sort of thing… just bothers me…!)
+{% endbubble %}
+
+{% bubble Mao smilesoft %}
+Ooh, Takamine, what’s wrong? You’re holding your head like you’re stressed out~
+
+Did you forget something? If it’s something I’ve got, I can lend it to you~♪
+{% endbubble %}
+
+{% bubble Midori v3 %}
+Ah, Isara-senpai… Nah, I didn’t forget anything.
+
+Sakuma-senpai showed me a weird painting the other day, and now I feel like I’ve left something unfinished…
+{% endbubble %}
+
+{% bubble Mao curious %}
+Weird painting…?
+{% endbubble %}
+
+{% bubble Makoto %}
+Ahaha, you’re still thinking about it too, Takamine-kun?
+
+I feel you~ I wanted to know how that painting came about, so I dug around the net after our conversation the other day.
+{% endbubble %}
+
+{% bubble Midori v3 %}
+Ah, you were here too, Yuuki-senpai… Did you come to school with Isara-senpai?
+{% endbubble %}
+
+{% bubble Mao %}
+Yup. Subaru and Hokuto aren’t around today ‘cause they’ve got their own solo work to do~
+
+Anyway, tell me more about that painting! It’s unusual to see Takamine and Makoto talking to each other about something, and I’m getting curious about it myself~♪
+{% endbubble %}
+
+{% bubble Midori v3 %}
+Hah… It’s nothing special, really. But if you don’t mind me explaining it, I’ll do so…
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Midori v3 %}
+—So, yeah, the artist in question is apparently an old man in the hospital right now.
+{% endbubble %}
+
+{% bubble Mao northinking %}
+Huh… A painting that has ES’s sandbank painted in the corner of the background…?
+
+Yeah, I’m wondering about the story behind that now, too. Us idols don’t know anything about that land before ES was built—
+
+This is like doing some social studies or something, huh? Like a lesson where we learn about our region.
+{% endbubble %}
+
+{% bubble Makoto %}
+Yeah, I accepted Sakuma-senpai’s request for a similar reason. Researching about all of this really satisfies my curiosity.
+{% endbubble %}
+
+{% bubble Midori v3 %}
+Obviously, since we’re talking about a very far past, the land in the painting looks completely different compared to how we know it, now that ES has been built on it…
+
+So it makes me want to learn a lot about what the area was like before ES came around.
+{% endbubble %}
+
+{% bubble Makoto curious %}
+Are you sure that’s okay with you? Or are you just following along with our excitement…?
+
+It sounded like you were forced to tag along with Sakuma-senpai two days ago, so you don’t have to force yourself to be part of this, okay?
+{% endbubble %}
+
+{% bubble Midori serious %}
+No, I was also just really tired back then, ‘cause I had just finished work…
+
+Besides, if Isara-senpai and Yuuki-senpai are here, I think it will soften the load on me when talking with Sakuma-senpai…?
+{% endbubble %}
+
+{% bubble Mao smilesoft %}
+Haha, what’s that supposed to mean? ♪ Are we the cushioning~?
+{% endbubble %}
+
+{% bubble Makoto smile %}
+Cushioning! I like that! ♪ Let’s also be the lubricating oil while we’re at it! ♪
+{% endbubble %}
+
+{% bubble Mao smileconfident %}
+Right, it’s settled then. After class, I’ll join you guys, then we’ll go and ask Sakuma-senpai about what happened afterwards.
+
+Until then, make sure to do your best in class, Takamine. ♪
+{% endbubble %}
+
+<div class="msr-location">
+    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+</div>
+
+{% img /img/es/scoutstory/blinkexhibition/5.jpg %}
+
+{% bubble Mao %}
+—And that’s how I ended up joining you guys.
+{% endbubble %}
+
+{% bubble Rei grin %}
+Kukuku. I’m delighted to know that Isara-kun is also interested in this painting. ♪
+
+Take a close look. This is the painting that is said to “make one drop dead upon gazing at it three times”. ♪
+{% endbubble %}
+
+{% bubble Mao awkward %}
+Ah~ I’m sorry… I already heard about that being a lie.
+{% endbubble %}
+
+{% bubble Rei surprised %}
+What…!?
+{% endbubble %}
+
+{% bubble Rei sightired %}
+Ah, a pity… I wanted to see you tremble in fear over a curse.
+{% endbubble %}
+
+{% bubble Mao serious %}
+Why would you try to do something strange like that anyway? Did you really want to scare me that much?
+{% endbubble %}
+
+{% bubble Rei %}
+Indeed I did. It would be in poor taste to only frighten Takamine-kun, and I wanted to see how you’d react, as well.
+
+And if you are the type to show interest in curses, then I could invite you to be a new member of the Mystery Researchers Club.
+
+Well, no matter. You’d like to know what happened to this painting, correct?
+{% endbubble %}
+
+{% bubble Rei yare %}
+I called the artist’s family afterwards, but it seems that they do not want any strangers visiting him while he is in poor health.
+
+Even a request to hear my part of the story was promptly declined.
+
+With how they spoke, they might have assumed me to be a distant relative who is attempting to take part of his inheritance.
+{% endbubble %}
+
+{% bubble Mao northinking %}
+True, to an outsider, you’d definitely be seen as someone aiming for his inheritance.
+
+If I got a phone call telling me that they have an old painting and want me to hear them out, I’d be on my guard too.
+{% endbubble %}
+
+{% bubble Rei serious %}
+Mm. Indeed so.
+
+At any rate, since neither the artist in question nor his family will hear us out, we likely have no choice but to investigate the surrounding area.
+
+I am the first person to suggest this investigation, so I plan to take responsibility and will conduct one tomorrow, too. If the three of you are interested, I would be most grateful if you would assist me.
+{% endbubble %}
+
+{% bubble Mao smile %}
+Of course. I finished passing on everything to the Student Council, so I’ve got a bit of free time. This whole thing’s actually perfect timing for me, if anything.
+{% endbubble %}
+
+{% bubble Makoto norsmile %}
+I’ll also help out. Having a mystery presented to me without finding out the truth… just doesn’t feel satisfying to me.
+
+Right, Takamine-kun?
+{% endbubble %}
+
+{% bubble Midori norsmile2 %}
+Yeah. I’ve come this far already, so leaving the rest up to my seniors doesn’t feel right.
+
+Plus, I’m now even more curious to learn the truth behind this painting, so…
+
+I’ll help out if it’s for a short while.
+{% endbubble %}
+
+{% bubble Rei smilesoft %}
+Then it’s settled. Tomorrow, we will split in pairs and conduct a survey on anyone concerned with the artist, as well as investigate the region.
+
+We shall decide the pairs through a drawn lottery. How does that sound, gentlemen?
+{% endbubble %}
+
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
@@ -581,5 +983,3 @@ The owner of this “makes one drop dead upon gazing at it three times” painti
 
 [^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Music_Festa" target="_blank">Music Festa</a>. Midori, Rei, Izumi and Yuzuru performed in the same team together as “Rei-chan Team”.
-[^3]: This refers to <em>haru ichiban</em>; when strong wind blows from the warm south for the first time as the season changes from winter to spring.
-[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a> from Rei's Yumenosaki days as a 3rd year.
