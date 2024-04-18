@@ -19,8 +19,6 @@ permalink: birthday_story/
 
 <!-- more -->
 
-
-
 ## Shinobu Sengoku
 
 <div class="stories">

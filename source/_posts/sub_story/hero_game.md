@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Hero Game"
-date: 2017-8-26 9:01:00
+date: 2017-8-26 9:02:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Midori]

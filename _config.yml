@@ -125,6 +125,7 @@ marked:
 symbols_count_time:
   symbols: true
   time: true
+  wpm: 200
 
 all_minifier: true
 

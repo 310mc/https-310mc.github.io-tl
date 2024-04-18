@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Exhibition In A Blink Of An Eye (In progress!)"
-date: 2024-4-15 10:00:00
+date: 2024-4-15 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -648,7 +648,7 @@ Uh, right.
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
-(He’s moving onto the next topic like nothing’s wrong… So basically, I don’t have any rights to refuse…)
+<th>(He’s moving onto the next topic like nothing’s wrong… So basically, I don’t have any right to refuse…)</th>
 {% endbubble %}
 
 <div class="msr-location">
@@ -678,7 +678,7 @@ But he doesn’t do it to be mean; it’s actually done with good intentions, so
 
 So maybe there’s a deeper reason why he asked you to help him out with this, Takamine-kun.
 
-When I did intensive training under UNDEAD‘s guidance, they made me go bungee jumping, and it was a rough time for me then, too… But it’s still a good memory for me to this day, I think.
+When I did intensive training under UNDEAD‘s guidance, they made me go bungee jumping, and it was a rough time for me then, too… But it’s still a good memory for me to this day, I think.[^3]
 {% endbubble %}
 
 {% bubble Makoto awkward %}
@@ -690,7 +690,7 @@ When I did intensive training under UNDEAD‘s guidance, they made me go bungee 
 {% bubble Midori sighfrown %}
 Please don’t start questioning your own words…
 
-Anyway, I’m at least aware Sakuma-senpai isn’t a bad person…
+Anyway, I’m aware that Sakuma-senpai isn’t a bad person or anything…
 
 But it tires me out to be suddenly dragged around from place to place, and I’m getting mentally worn out from the stress of trying to communicate…
 {% endbubble %}
@@ -790,15 +790,15 @@ As the one entrusted with this painting, punishment would befall me if I do not 
 </div>
 
 {% bubble Midori smile %}
-(Ahh, I’m sooo glad I got to relax all day yesterday…♪ I feel healed from all the exhaustion…♪)
+<th>(Ahh, I’m sooo glad I got to relax all day yesterday…♪ I feel healed from all the exhaustion…♪)</th>
 
-(But huh, so what was the truth behind that painting in the end…?)
+<th>(But huh, so what was the truth behind that painting in the end…?)</th>
 
-(The conclusion was sort of a let down… Like, I didn’t really get to find out a clear answer.)
+<th>(The conclusion was sort of a let down… Like, I didn’t really get to find out a clear answer.)</th>
 {% endbubble %}
 
 {% bubble Midori frustrated %}
-(That sort of thing… just bothers me…!)
+<th>(That sort of thing… just bothers me…!)</th>
 {% endbubble %}
 
 {% bubble Mao smilesoft %}
@@ -869,7 +869,7 @@ Are you sure that’s okay with you? Or are you just following along with our ex
 It sounded like you were forced to tag along with Sakuma-senpai two days ago, so you don’t have to force yourself to be part of this, okay?
 {% endbubble %}
 
-{% bubble Midori serious %}
+{% bubble Midori v3 %}
 No, I was also just really tired back then, ‘cause I had just finished work…
 
 Besides, if Isara-senpai and Yuuki-senpai are here, I think it will soften the load on me when talking with Sakuma-senpai…?
@@ -983,3 +983,4 @@ We shall decide the pairs through a drawn lottery. How does that sound, gentleme
 
 [^1]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Music_Festa" target="_blank">Music Festa</a>. Midori, Rei, Izumi and Yuzuru performed in the same team together as “Rei-chan Team”.
+[^3]: Referring to the first Main Story in ! Era, in the <a href="https://ensemble-stars.fandom.com/wiki/Rebellion" target="_blank">Rebellion chapters</a>.

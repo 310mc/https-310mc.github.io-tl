@@ -280,10 +280,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/chiakicard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/chiakiframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/chiakibcard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/chiakibcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -316,10 +316,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/midoricard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/midoriframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/midoribcard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/midoribcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -352,10 +352,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/kanatacard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/kanataframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/kanatabcard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/kanatabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -388,10 +388,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/tetoracard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/tetoraframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/tetorabcard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -424,10 +424,10 @@ hidden: true
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/shinobucard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/shinobuframe_300px.jpg">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/shinobubcard.jpg">
+                                        <img src="/img/es/eventstory/christmaslive/shinobubcgframe_300px.jpg">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">

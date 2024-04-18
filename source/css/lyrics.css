@@ -27,12 +27,16 @@ table.lyrics td.timestamp {
   padding-bottom: 7px;
 }
 
-table.lyrics .midori {
-  color: #00533f;
+table.lyrics .timestamp {
+  color: #828282;
 }
 
 table.lyrics .tetora {
   color: #302833;
+}
+
+table.lyrics .midori {
+  color: #00533f;
 }
 
 table.lyrics .shinobu {
@@ -45,8 +49,4 @@ table.lyrics .chiaki {
 
 table.lyrics .kanata {
   color: #008db7;
-}
-
-table.lyrics .timestamp {
-  color: #828282;
 }

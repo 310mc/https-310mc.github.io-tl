@@ -389,7 +389,6 @@ permalink: tough_guy/
     </div>
 </div>
 
-
 ## Chapter Index
 <a href="#We-the-Rough-and-Tough-1">Ch 1</a> - <a href="#We-the-Rough-and-Tough-2">Ch 2</a> - <a href="#We-the-Rough-and-Tough-3">Ch 3</a> - <a href="#We-the-Rough-and-Tough-4">Ch 4</a> - <a href="#We-the-Rough-and-Tough-5">Ch 5</a> - <a href="#We-the-Rough-and-Tough-6">Ch 6</a> - <a href="#We-the-Rough-and-Tough-7">Ch 7</a> - <a href="#We-the-Rough-and-Tough-8">Ch 8</a> - <a href="#Epilogue-1">Ep 1</a> - <a href="#Epilogue-2">Ep 2</a> - <a href="#Epilogue-3">Ep 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
