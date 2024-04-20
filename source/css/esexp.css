@@ -1104,6 +1104,10 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hugekaijuu.png");
 }
 
+[character="ElderlyArtist"] {
+  --name: "Artist";
+}
+
 [character="Mizusaba"] {
   --color: #E4E4F7;
   --hue: 237.93;
@@ -1432,6 +1436,9 @@
 [character="Mao"][horrified] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_horrified.png");
 }
+[character="Mao"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_grin.png");
+}
 [character="Mao"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mao_norsmile.png");
 }
@@ -1493,6 +1500,9 @@
 [character="Makoto"][curious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_curious.png");
 }
+[character="Makoto"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_grin.png");
+}
 [character="Makoto"][horrified] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_horrified.png");
 }
@@ -1501,6 +1511,9 @@
 }
 [character="Makoto"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_norsmile.png");
+}
+[character="Makoto"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_northinking.png");
 }
 [character="Makoto"][serious] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/makoto_serious.png");
@@ -1692,6 +1705,9 @@
 }
 [character="Rei"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_nod.png");
+}
+[character="Rei"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_norsmile.png");
 }
 [character="Rei"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/rei_northinking.png");

@@ -449,7 +449,7 @@ Oh! Did I make a new record again?
 {% endbubble %}
 
 {% bubble Midori %}
-Yep… You definitely passed over four meters; I think you may be a genius…
+Yep… You definitely passed over four meters; I think you may have a natural talent for this…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -551,7 +551,7 @@ Ooh, I’m envious of you being the "Onii-chan"… I’m sure you have a warm fa
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
-AAHHHHHHHHHHHHHHH!!??
+AAHHHHHHHHHHHHHHH!?!?
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -633,7 +633,7 @@ Ah— I ended up chatting away… I shouldn’t be relaxing like this.
 {% endbubble %}
 
 {% bubble Midori %}
-I ended up doing the same too… It's easy to talk to you, so it just happened on it’s own…
+I ended up doing the same too… It's easy to talk to you, so it just happened on its own…
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -641,7 +641,7 @@ Really? That's the first time I’ve been told that\~ Since I’m bad at talking
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}
-AGHHHHHHHH!!??
+AGHHHHHHHH!?!?
 {% endbubble %}
 
 {% bubble Midori %}

@@ -56,7 +56,7 @@ permalink: misshapen_masterpiece/
     </div>
 </div>
 
-<p class="storydata">Chiaki’s tracksuit got torn again in a different area. He goes to get it fixed up by Anzu, only to find Kiryu in the room too…</p>
+<p class="storydata">Chiaki’s tracksuit got torn again in a different area. He goes to get it fixed up by the producer, only to find Kiryu in the room too…</p>
 
 <p class="releasedate"><b>Story Release Date:</b> March 30, 2024</p>
 
