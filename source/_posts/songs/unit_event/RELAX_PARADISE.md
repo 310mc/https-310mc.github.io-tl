@@ -1008,5 +1008,5 @@ permalink: RELAX_PARADISE/
 
 ## Translation Notes
 
-[^1]: The word <em>yuru(i)</em> means “laid-back”, “relaxed”, “soft”.
+[^1]: The word <em>yuru(i)</em> means “laid-back”, “relaxed”, “loose”, “soft”.
 [^2]: The word for “favorite” is <em>daisuki</em> in Japanese, which would roughly translate to “likes/loves” or "things (we) love". The “likes” is a common theme in the story itself, so please give <a href="/tropical" target="_blank">the story</a> a read for a better understanding of this song’s lyrics.

@@ -324,11 +324,11 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
-            alt="Staying True To Myself"
+            alt="True To Myself, Staying The Way I Am"
         />
     </div>
     <a href="/staying_true_to_myself" class="storyName" target="_blank">
-        <span>Staying True To Myself</span>
+        <span>True To Myself, Staying The Way I Am</span>
         <span class="read"></span>
     </a>
 </div>
@@ -365,6 +365,18 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </div>
     <a href="/lets_try_diy" class="storyName" target="_blank">
         <span>Let's Try DIY</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            alt="True To Myself, Taking A Step Forward"
+        />
+    </div>
+    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
+        <span>True To Myself, Taking A Step Forward</span>
         <span class="read"></span>
     </a>
 </div>

@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Exhibition In A Blink Of An Eye (In progress!)"
-date: 2024-4-15 9:00:00
+title: "[ES!!] Exhibition In A Blink Of An Eye"
+date: 2024-4-20 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
@@ -570,7 +570,7 @@ Ooh, I’m pleased to know you’re willing to accompany me, Takamine-kun. ♪
 
 Right then, let us conduct our investigation as part of the Mystery Researchers Club.
 
-The owner of this “makes one drop dead upon gazing at it three times” painting — Also known as the “Mysterious Portrait” — will surely be overjoyed to hear this, too. ♪
+The owner of this “makes one drop dead upon gazing at it three times” painting — Also known as the ‘Mysterious Portrait’ — will surely be overjoyed to hear this, too. ♪
 {% endbubble %}
 
 ## Portrait Shrouded In Mystery 2
@@ -769,9 +769,7 @@ Guh— He’s saying something occultish again… I’m not buying it this time,
 
 {% bubble Rei snicker %}
 Kukuku. Takamine-kun’s such a worrywart. ♪
-{% endbubble %}
 
-{% bubble Rei %}
 Regardless, I will try to contact his family myself.
 
 As the one entrusted with this painting, punishment would befall me if I do not take on that task at the very least.
@@ -848,7 +846,7 @@ Hah… It’s nothing special, really. But if you don’t mind me explaining it,
 {% bubble Mao northinking %}
 Huh… A painting that has ES’s sandbank painted in the corner of the background…?
 
-Yeah, I’m wondering about the story behind the artwork now, too. Us idols don’t know anything about that land before ES was built—
+Yeah, I’m wondering about the story behind the artwork now, too. Us idols don’t know anything about that land before ES was built.
 
 This is like doing some social studies or something, huh? Like a lesson where we learn about our region.
 {% endbubble %}
@@ -1182,7 +1180,7 @@ Sounds like it was fun over on your side, which I think is good to hear…
 {% endbubble %}
 
 {% bubble Makoto curious %}
-By the way, where’s Sakuma-senpai right now? He said to meet in front of the hospital, so is he resting in the shade nearby…?
+By the way, where’s Sakuma-senpai right now? He said to meet in front of the hospital, so is he resting in a nearby shade…?
 {% endbubble %}
 
 {% bubble Midori v3 %}
@@ -1232,7 +1230,7 @@ Huh? Are you talking to me…?
 {% endbubble %}
 
 {% bubble Midori serious %}
-Ah, no. We were just helping out Sakuma-senpai. Please thank him instead of us.
+Ah, no. We were just helping out Sakuma-senpai. Please thank him instead of me.
 {% endbubble %}
 
 {% bubble Makoto smilesoft %}
@@ -1334,7 +1332,7 @@ This person…?
 {% endbubble %}
 
 {% bubble ElderlyArtist %}
-Yes. If you look at her expression… Well, I think you may have already guessed the reason, Sakuma-kun.
+Yes. Judging by your expression, Sakuma-kun… I think you may have already guessed the reason.
 {% endbubble %}
 
 {% bubble Rei %}
@@ -1404,7 +1402,7 @@ And so, with this, the ‘Mysterious Portrait’ case is solved. ♪
 {% endbubble %}
 
 {% bubble Midori norsmile2 %}
-Ah, Isara-senpai, Yuuki-senpai. Thank you for your hard work the other day…
+Ah, Isara-senpai, Yuuki-senpai. Hello, thank you for your hard work the other day…
 {% endbubble %}
 
 {% bubble Mao grin %}
@@ -1422,7 +1420,7 @@ But still, the truth behind the ‘Mysterious Portrait’ was a surprise to hear
 {% endbubble %}
 
 {% bubble Mao nod %}
-Yeah, it reminded me how social etiquette really <em>was</em> different depending on the era. It all felt so dramatic to learn, like a manga.
+Yeah, it reminded me how the norm really <em>was</em> different depending on the era. It all felt so dramatic to learn, like a manga.
 
 But now the mystery’s solved. Isn’t that great to hear, Takamine~? ♪
 {% endbubble %}
@@ -1596,6 +1594,6 @@ As your first job after being discharged from the hospital, I would be extremely
 [^3]: Referring to the first Main Story in ! Era, in the <a href="https://ensemble-stars.fandom.com/wiki/Rebellion" target="_blank">Rebellion chapters</a>.
 [^4]: This refers to <em>haru ichiban</em>; when strong wind blows from the warm south for the first time as the season changes from winter to spring.
 [^5]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a> from Rei’s Yumenosaki days as a third year.
-[^6]: Rei switches to speaking in polite Japanese speech (keigo) to the artist. You can learn more about this side of Rei in <a href="https://ensemble-stars.fandom.com/wiki/Resurrection_Sunday" target="_blank">Resurrection Sunday</a> (Chapter name Reincarnation 8), where he is shown to switch between speech patterns depending on the people he's with. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^6]: Rei switches to speaking in polite Japanese speech (keigo) to the artist. You can learn more about this side of Rei in <a href="https://ensemble-stars.fandom.com/wiki/Resurrection_Sunday" target="_blank">Resurrection Sunday</a> (Specifically <a href="https://mandytl.dreamwidth.org/12139.html" target="_blank">Reincarnation 8</a>), where he is shown to switch between speech patterns in different settings.
 [^7]: Rei switches back to his usual old-man speech quirk, where he uses <em>wagahai</em> as his first-person pronoun.
-[^8]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Seasons_of_Love" target="_blank">Seasons of Love</a>.
+[^8]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Seasons_of_Love" target="_blank">Four Seasons of Love</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

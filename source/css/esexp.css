@@ -2576,6 +2576,12 @@
 [character="Mitsuru"][frown2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_frown2.png");
 }
+[character="Mitsuru"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_grin.png");
+}
+[character="Mitsuru"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_nod.png");
+}
 [character="Mitsuru"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_northinking.png");
 }

@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Staying True To Myself"
+title: "[ES!!] True To Myself, Staying The Way I Am"
 date: 2021-10-10 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -31,10 +31,10 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-								<a href="/categories/Enstars/Chiaki" character="Tetora"></a>
-								<a href="/categories/Enstars/Aira" character="Shinobu"></a>
-								<a href="/categories/Enstars/Aira" character="Mao"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Mao" character="Mao"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -66,8 +66,6 @@ This story is connected to the card [Comfortable Staying Just As I Am] Midori Ta
 </div>
 
 <!-- more -->
-
-
 
 ## Chapter 1
 
@@ -173,7 +171,7 @@ What if you think ‘bout it the other way around? Like, what kinda outfits *wou
 {% bubble Midori smile %}
 Outfits I’d want…?
 
-Ah—I was hoping to buy a sweater or shirt that has a mascot character on it sometime soon…♪
+Ah—I was hoping to buy a sweater or shirt that has a yuruchara on it sometime soon…♪
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -233,7 +231,7 @@ Huh? An event stage for a commercial products exhibition? What’s that about…
 
 …Ah, sorry, did I look out of it to you…? Don’t worry, I was listening.
 
-You said it’s an autumn commercial products exhibition, right? They’re gonna be selling veggies, fruits, and other specialties with a bunch of local mascot characters around.
+You said it’s an autumn commercial products exhibition, right? They’re gonna be selling veggies, fruits, and other specialties with a bunch of local yurucharas around.
 
 What would you like me to do in that exhibition? You said something about a stage…
 {% endbubble %}
@@ -241,11 +239,11 @@ What would you like me to do in that exhibition? You said something about a stag
 {% img /img/es/idolstory/stayingtrue/3.jpg %}
 
 {% bubble Midori smile %}
-Huh!? I’ll be the host for a mascot character event…!?
+Huh!? I’ll be the host for a yuruchara event…!?
 
-—I’ll gladly do it! Anything to be near so many mascots!
+—I’ll gladly do it! I’m willing to do anything to be near so many yurucharas!
 
-I’ve been needing emotional healing for some time ‘cause I’ve been a bit depressed lately, and nothing could make me happier than getting my healing through mascots.
+I’ve been needing emotional healing for some time ‘cause I’ve been a bit depressed lately, and nothing could make me happier than getting my healing through yurucharas.
 
 And my parents will be super happy to know I’ll be doing an advertisement for veggies and fruits. I’m looking forward to the exhibition…♪
 {% endbubble %}
@@ -263,9 +261,9 @@ And my parents will be super happy to know I’ll be doing an advertisement for 
 
 <th>(…Wait a sec, isn’t it kinda strange that only I got to hear about this? Is she gonna tell the rest of them later…?)</th>
 
-Ah, whatever. It sounds like I’m guaranteed to at least be around all sorts of mascots, sooo…
+Ah, whatever. It sounds like I’m guaranteed to at least be around all sorts of yurucharas, sooo…
 
-I’ll search up what kinda mascots will show up for the event…♪
+I’ll search up what kinda yurucharas will show up for the event…♪
 {% endbubble %}
 
 ## Chapter 2
@@ -307,9 +305,9 @@ Isara-senpai? Why’re you here?
 {% bubble Mao %}
 Didn’tcha hear from Anzu? I’m gonna be taking part in the talk show for the exhibition.
 
-You’re part of the mascot character event, right? Let’s do our best to hype this place up~♪
+You’re part of the yuruchara event, right? Let’s do our best to hype this place up~♪
 
-Haha, I can’t believe you’d get to be a *host* of all things~ But it *is* true that you love mascots, so I bet you can talk a lot about th—
+Haha, I can’t believe you’d get to be a *host* of all things~ But it *is* true that you love yuruchara, so I bet you can talk a lot about th—
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -331,7 +329,7 @@ I’m tryna say that I’m looking forward to your event, y’know! Here, you ca
 {% bubble Midori smile %}
 T-That’s…!
 
-The key strap of the local mascot that’s gonna show up in this exhibition—Alien Tomato…!?
+The key strap of the local yuruchara that’s gonna show up in this exhibition—Alien Tomato…!?
 
 Their name comes from their aggressive personality—for some reason they’ve chosen to invade all tomato-haters in hopes of making all of mankind love tomatoes—
 
@@ -341,7 +339,7 @@ Despite that, their face looks sooo lifeless and relatable, and the contrast is 
 {% bubble Mao %}
 A staff member gave it to me. Apparently it’s a limited merch from this exhibition. I took it with me ‘cause I figured you’d love it~♪
 
-Also, you may have been nervous earlier, but you managed to talk to me all about this mascot at rapid speed, so I think you’ll be fine.
+Also, you may have been nervous earlier, but you managed to talk to me all about this yuruchara at rapid speed, so I think you’ll be fine.
 {% endbubble %}
 
 {% bubble Midori curious %}
@@ -349,7 +347,7 @@ Huh? What do you mean…?
 {% endbubble %}
 
 {% bubble Mao %}
-When you know a lot about something, it means you can talk a whole lot about it, right? And besides, you’ll be able to manage this through your love for mascots alone!
+When you know a lot about something, it means you can talk a whole lot about it, right? And besides, you’ll be able to manage this through your love for yuruchara alone!
 
 I’m cheering you on, so break a leg out there, Takamine~♪
 {% endbubble %}
@@ -371,13 +369,13 @@ Feels like you’re just throwing anything at me to cheer me up… But thank you
 
 “Hello, everyone…! I’m Takamine Midori, also known as Ryusei Green from Ryuseitai.”
 
-“My teammates aren’t with me right now, so I’m feeling pretty nervous on my own here, but… I hope to make the place exciting with all the mascots here.”
+“My teammates aren’t with me right now, so I’m feeling pretty nervous on my own, but… I hope to make the place exciting with all the yurucharas here.”
 
-“Alright, let’s start by introducing the mascots. First we have Alien Tomato, who—”
+“Alright, let’s start by introducing the characters. First we have Alien Tomato, who—”
 
 <th>(Umm… Am I managing it okay…? I’m slipping up a bit here and there, but I’m talking just fine, right…?)</th>
 
-<th>(I’m so glad I researched the mascots beforehand. Looking up about them made me love all of them, so I should be able to talk about their charms…!)</th>
+<th>(I’m so glad I researched the characters beforehand. Looking up about them made me love all of them, so I should be able to talk about their charms…!)</th>
 
 <th>(And the audience is—)</th>
 
@@ -405,7 +403,7 @@ Ah…
 
 <th>(…Mhm, I’ll do my best here. I wanna make this a fun event, as best as I can.)</th>
 
-“Next up is… a mascot I’ve always loved, so I was super excited to meet them today. It’s Carrotian[^1]…♪”
+“Next up is… a yuruchara I’ve always loved, so I was super excited to meet them today. It’s Carrotian…♪”[^1]
 {% endbubble %}
 
 <div class="msr-location">
@@ -477,11 +475,11 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
-            alt="Staying True To Myself"
+            alt="True To Myself, Staying The Way I Am"
         />
     </div>
     <a href="/staying_true_to_myself" class="storyName" target="_blank">
-        <span>Staying True To Myself</span>
+        <span>True To Myself, Staying The Way I Am</span>
         <span class="read"></span>
     </a>
 </div>
@@ -521,6 +519,18 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            alt="True To Myself, Taking A Step Forward"
+        />
+    </div>
+    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
+        <span>True To Myself, Taking A Step Forward</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 <hr>
@@ -528,4 +538,5 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
+
 [^1]: Carrotian is mentioned in The Crimson’s Pure Heart, <a href="/crimsons_pure_heart" target="_blank">a Kuro sub story</a>.

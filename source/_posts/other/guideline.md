@@ -55,12 +55,12 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
-            alt="Exhibition In A Blink Of An Eye"
+            src="/img/es/idolstory/truetomyselfstepforward/c2.jpg"
+            alt="Midori FS2"
         />
     </div>
-    <a href="/exhibition_in_a_blink" class="storyName" target="_blank">
-        <span>Exhibition In A Blink Of An Eye (In progress!)</span>
+    <a href="" class="storyName" target="_blank">
+        <span>Midori FS2</span>
         <span class="read soon"></span>
     </a>
 </div>
@@ -73,6 +73,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="" class="storyName" target="_blank">
         <span>Christmas Live (In progress!)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/scoutstory/cityriders/hiyoribcgframe_300px.jpg"
+            alt="Whimsical City Rider"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>Whimsical City Rider (In progress!)</span>
         <span class="read soon"></span>
     </a>
 </div>
@@ -142,6 +154,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
+            alt="Exhibition In A Blink Of An Eye"
+        />
+    </div>
+    <a href="/exhibition_in_a_blink" class="storyName" target="_blank">
+        <span>Exhibition In A Blink Of An Eye</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

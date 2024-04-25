@@ -191,7 +191,7 @@ I’ll pay you, of course. I know I’m asking for a lot, but could you fix it b
 {% endbubble %}
 
 {% bubble Shu %}
-Raise your head. You’d probably remain here until I say yes, and that would cause me far more trouble. I will agree only this once.
+Raise your head. You’ll probably remain here until I say yes, and that would cause me far more trouble. I will agree only this once.
 {% endbubble %}
 
 {% bubble Chiaki %}

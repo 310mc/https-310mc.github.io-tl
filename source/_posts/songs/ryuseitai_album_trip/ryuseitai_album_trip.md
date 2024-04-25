@@ -982,7 +982,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c2.jpg"
-            alt="Staying True To Myself"
+            alt="True To Myself, Staying The Way I Am"
         />
     </div>
     <a href="/staying_true_to_myself" class="storyName" target="_blank">

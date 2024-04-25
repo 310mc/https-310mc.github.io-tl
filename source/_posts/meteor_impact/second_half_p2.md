@@ -1061,7 +1061,7 @@ I mean, look at me! I can’t do *anything*! You asked me what I’ll do for him
 
 I don’t even have a clue where to start! I bet it would just go to waste even if I did try!
 
-Look at this! This is the toy figurine of the very first hero I admired!
+Look at this! This is the toy figure of the very first hero I admired!
 
 I'd carry him with me all the time, just like a charm! Knowing a hero was here, right by my side, gave me peace of mind!
 
@@ -1075,7 +1075,7 @@ But the hero never, ever came to save me!
 {% endbubble %}
 
 {% bubble Chiaki mgnsad %}
-It hurt so much to be ignored and made fun of by the guys who were supposed to be my comrades! One time, they saw my toy figurine and tore it apart, mocking me the whole time!
+It hurt so much to be ignored and made fun of by the guys who were supposed to be my comrades! One time, they saw my toy figure and tore it apart, mocking me the whole time!
 
 It made me feel horrible! But I held it in and laughed it off!
 

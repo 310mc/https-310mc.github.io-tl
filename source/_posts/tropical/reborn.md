@@ -259,7 +259,7 @@ Don’t look around so much, it’s embarrassing… It feels like you’re stari
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-There’s nothing to be embarrassed about! I’ve also decorated my room with all sorts of super sentai DVDs and figurines. Being passionate about your interests is a wonderful thing!
+There’s nothing to be embarrassed about! I’ve also decorated my room with all sorts of super sentai DVDs and toy figures. Being passionate about your interests is a wonderful thing!
 {% endbubble %}
 
 {% bubble Midori frustrated %}

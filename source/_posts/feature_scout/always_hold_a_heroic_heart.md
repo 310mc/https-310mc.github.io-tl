@@ -152,7 +152,7 @@ I’ll make a secret base over here. You’re free to *puka puka* as much as you
 {% endbubble %}
 
 {% bubble Chiaki v2 %}
-Oh no, it’s going to be for these villain toy figurines. I used to make secret bases in the park’s sandbox when I was young.
+Oh no, it’s going to be for these villain toy figures. I used to make secret bases in the park’s sandbox when I was young.
 
 But back then I’d make them for heroes, not villains. Anyway, it’s alright to play around like a kid every once in a while, don’t you think?
 {% endbubble %}

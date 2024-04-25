@@ -504,6 +504,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
+            alt="Exhibition In A Blink Of An Eye"
+        />
+    </div>
+    <a href="/exhibition_in_a_blink" class="storyName" target="_blank">
+        <span>Exhibition In A Blink Of An Eye</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Idol Stories
@@ -774,11 +786,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="thumbimage">
         <img
             src="/img/es/idolstory/stayingtrue/c1.jpg"
-            alt="Staying True To Myself"
+            alt="True To Myself, Staying The Way I Am"
         />
     </div>
     <a href="/staying_true_to_myself" class="storyName" target="_blank">
-        <span>Staying True To Myself</span>
+        <span>True To Myself, Staying The Way I Am</span>
         <span class="read"></span>
     </a>
 </div>

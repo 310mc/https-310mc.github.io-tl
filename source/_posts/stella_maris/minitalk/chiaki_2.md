@@ -197,7 +197,7 @@ I left them all in the agency office, so could I give it to you at a later time?
             {% bubble Chiaki %}
             It's a small Shisa ornament! Apparently, it's good fortune to place it in your home as a guardian deity.
 
-            By the way, I bought myself one, too. I placed it right next to my hero figurines in my dorm room~♪
+            By the way, I bought myself one, too. I placed it right next to my hero toy figures in my dorm room~♪
 			{% endbubble %}
         </div>
     </div>

@@ -11,6 +11,7 @@ categories:
 - [Enstars, Hinata]
 - [Enstars, Yuta]
 - [Enstars, Eichi]
+- [Enstars, Old fine]
 tags:
 - Story Index
 - Scout Story
@@ -267,7 +268,7 @@ hidden: true
 {% img /img/es/scoutstory/flowersofthewasteland/1.jpg %}
 
 <div class="msr-narration">
-    <p>The last week of May, a few days after Conquest…[^]</p>
+    <p>The last week of May, a few days after Conquest…[^1]</p>
 </div>
 
 {% bubble Hinata %}
@@ -579,7 +580,7 @@ For real~. But as it stands, we really *can’t* show up much.
 {% endbubble %}
 
 {% bubble Midori %}
-Something about how you guys used up a ton of money in BIGBANG, and now have to work hard to compensate for it…?[^]
+Something about how you guys used up a ton of money in BIGBANG, and now have to work hard to compensate for it…?[^2]
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -1271,7 +1272,7 @@ We started training for the SS right before we could do a DreamFes in the school
 
 We talked about if we could maybe do something in autumn instead, right?
 
-Speaking of, we did a live with Adam around that time last year, didn’t we? The Autumn Live, right?[^]
+Speaking of, we did a live with Adam around that time last year, didn’t we? The Autumn Live, right?[^3]
 
 But since our battle at the SS, we haven’t really had much to do with each other, huh?
 
@@ -1603,7 +1604,7 @@ Ummm…? What do you mean?
 {% endbubble %}
 
 {% bubble Midori %}
-Battle…? You’re not talking about the revolution Trickstar did last year, right…?[^]
+Battle…? You’re not talking about the revolution Trickstar did last year, right…?[^4]
 {% endbubble %}
 
 {% bubble Nagisa %}
@@ -1806,9 +1807,3 @@ And yet the person most aware of the fact that such a dream is nothing more than
 [^2]: TBA
 [^3]: TBA
 [^4]: TBA
-[^5]: TBA
-[^6]: TBA
-[^7]: TBA
-[^8]: TBA
-[^9]: TBA
-[^10]: TBA
