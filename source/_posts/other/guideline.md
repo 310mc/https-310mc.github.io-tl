@@ -55,18 +55,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c2.jpg"
-            alt="Midori FS2"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Midori FS2</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
             alt="Christmas Live"
         />
@@ -157,6 +145,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            alt="True To Myself, Taking A Step Forward"
+        />
+    </div>
+    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
+        <span>True To Myself, Taking A Step Forward</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
             alt="Exhibition In A Blink Of An Eye"
         />
@@ -235,18 +235,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/stella_maris" class="storyName" target="_blank">
         <span>Stella Maris – Climax Event</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/scoutstory/colorfulautumn/midoribcgframe_300px.jpg"
-            alt="Colorful Autumn"
-        />
-    </div>
-    <a href="/colorful_autumn" class="storyName" target="_blank">
-        <span>Colorful Autumn</span>
         <span class="read"></span>
     </a>
 </div>

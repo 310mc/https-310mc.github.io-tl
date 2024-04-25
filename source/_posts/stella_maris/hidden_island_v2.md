@@ -384,6 +384,6 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^3]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^5]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^6]: Chiaki was speaking in polite Japanese speech (keigo) when with Mizusaba.
+[^6]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
 [^7]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
 [^8]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

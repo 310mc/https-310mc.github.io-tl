@@ -1082,9 +1082,22 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            alt="True To Myself, Taking A Step Forward"
+        />
+    </div>
+    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
+        <span>True To Myself, Taking A Step Forward</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Other Stories
+
 <div class="stories">
 <div class="story">
     <div class="thumbimage">

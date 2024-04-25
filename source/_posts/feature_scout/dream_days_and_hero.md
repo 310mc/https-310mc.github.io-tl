@@ -103,7 +103,7 @@ First things first, I’ve been thinking of making the stage overflow with my pa
 
 We’ll need to make a pamphlet for the Feature Live?
 
-Don’t worry, I heard about that too. If I recall correctly, the pamphlet will have a candid shot of the idol, right?
+Don’t worry, I’ve heard about that too. If I recall correctly, the pamphlet will have a candid shot of the idol, right?
 
 …I see. So the photo’s purpose is to show a charm that fans haven’t seen before from their favorite idol?
 {% endbubble %}
@@ -127,13 +127,13 @@ I looked like I was about to get worried over it too, so you wanted to clarify t
 {% bubble Chiaki smilesoft %}
 I understand your reasoning. But there’s nothing to fret over, Anzu.
 
-I completely understand your thoughts of wanting to show a charm my fans haven’t seen before.
+I completely understand your feelings of wanting to show a charm my fans haven’t seen before.
 
 I feel the same. This is a wonderful opportunity to express a different side from my usual to my fans, so I’d love to do so.
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Plus, it’s a project that <em>you</em> thought of, Anzu. And I trust you! So I can’t just let myself run away from the fear of failing!
+Plus, it’s a project that <em>you</em> came up with, Anzu. And I trust you! So I can’t just let myself run away from the fear of failing!
 
 That being said, I’d like some time to think it over. …You don’t mind?
 
@@ -151,7 +151,7 @@ Thank you, Anzu! I assure you that I’ll bring over ideas that will meet your e
 
 <th>(I re-watched a few of my favorite tokusatsu shows to get some sort of reference, but…)</th>
 
-<th>(In the end I just got absorbed in the shows until it became this hour…)</th>
+<th>(In the end, I just got absorbed in the shows until it became this hour…)</th>
 {% endbubble %}
 
 {% bubble Chiaki northinking %}
@@ -162,7 +162,7 @@ Thank you, Anzu! I assure you that I’ll bring over ideas that will meet your e
 <th>(Even during my school days in Yumenosaki, my days were filled to the brim with my hero interests.)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile %}
 <th>(…No, wait. I was also part of the Basketball Club! That doesn’t have any direct relation to heroes, so maybe it can count as a “day off from work” for me?)</th>
 
 <th>(Plus, it’s because of those days I spent with my comrades in school, that I’m now able to thrive as an idol.)</th>
@@ -178,10 +178,10 @@ Thank you, Anzu! I assure you that I’ll bring over ideas that will meet your e
 <th>(After all… My days in the club — My days in Yumenosaki Academy are already over.)</th>
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile2 %}
 <th>(…I’ll think up another candid shot I could do. I have to, for the sake of such a special live show.)</th>
 
-<th>(The Feature Live, huh… It’s going to be a stage just for me. It’s a special occasion to perform live all on my own, so I’d love to see all my fans coming to watch me with smiles on their faces.)</th>
+<th>(The Feature Live, huh… It’s going to be a stage just for me. It’s a special occasion to perform live all on my own, so I’d love to see all my fans who’ve come to watch me with smiles on their faces.)</th>
 {% endbubble %}
 
 {% bubble Chiaki curious %}
@@ -434,7 +434,7 @@ Mm? You look as though you have mixed feelings, Anzu…?
 Chi~chan-senpai, you appear in sports variety shows often, so why not buy new basketball shoes now while you have the chance?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki norsmile %}
 …Hm. You’re right, Akehoshi, that might be a good idea.
 {% endbubble %}
 
@@ -527,7 +527,7 @@ Even if you’ve graduated, nothing’ll change the fact that you were a student
 {% bubble Chiaki awkward %}
 …The truth is, I was thinking of taking a photo of myself playing in the Basketball Club as an alumni for the pamphlet.
 
-But as I said earlier, I’ve already graduated. I thought it isn’t necessary for me to specifically show a candid shot of me in Yumenosaki.
+But as I said earlier, I’ve already graduated. I thought it wasn’t necessary for me to specifically show a candid shot of me in Yumenosaki.
 
 Even though it’s as you say, Akehoshi… Even if I’ve graduated, it doesn’t change the fact that I was a student of the school.
 {% endbubble %}
@@ -646,6 +646,131 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
    </div>
     <a href="/misshapen_masterpiece" class="storyName" target="_blank">
         <span>Misshapen Masterpiece</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+## Ryuseitai 5* Feature Scout Stories 
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/dearmeninja/c1.jpg"
+            alt="Dear ‘Me’, Before I Became a Ninja"
+        />
+    </div>
+    <a href="/dear_me_before_i_became_a_ninja" class="storyName" target="_blank">
+        <span>Dear ‘Me’, Before I Became a Ninja</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/aherotoo/c1.jpg"
+            alt="You're A Hero, Too!"
+        />
+    </div>
+    <a href="/youre_a_hero_too/" class="storyName" target="_blank">
+        <span>You're A Hero, Too!</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/idealpath/c1.jpg"
+            alt="Some Day, On The Path To My Ideal"
+        />
+    </div>
+    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
+        <span>Some Day, On The Path To My Ideal</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/stayingtrue/c1.jpg"
+            alt="True To Myself, Staying The Way I Am"
+        />
+    </div>
+    <a href="/staying_true_to_myself" class="storyName" target="_blank">
+        <span>True To Myself, Staying The Way I Am</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/methesea/c1.jpg"
+            alt="me, the sea, and everyone with me"
+        />
+    </div>
+    <a href="/me_the_sea_and_everyone_with_me" class="storyName" target="_blank">
+        <span>me, the sea, and everyone with me</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/meresearch/c1.jpg"
+            alt="me research"
+        />
+    </div>
+    <a href="/me_research" class="storyName" target="_blank">
+        <span>me research</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/ninjarain/c1.jpg"
+            alt="A Raininja Day to Convey"
+        />
+    </div>
+    <a href="/a_raininja_day_to_convey" class="storyName" target="_blank">
+        <span>A Raininja Day to Convey</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/asiam/c1.jpg"
+            alt="As I Am"
+        />
+    </div>
+    <a href="/as_i_am" class="storyName" target="_blank">
+        <span>As I Am</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/daysandhero/c1.jpg"
+            alt="Dream Days and Hero"
+        />
+    </div>
+    <a href="/dream_days_and_hero" class="storyName" target="_blank">
+        <span>Dream Days and Hero</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            alt="True To Myself, Taking A Step Forward"
+        />
+    </div>
+    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
+        <span>True To Myself, Taking A Step Forward</span>
         <span class="read"></span>
     </a>
 </div>

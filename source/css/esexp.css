@@ -2567,6 +2567,9 @@
 [character="Mitsuru"][blushjoy] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_blushjoy.png");
 }
+[character="Mitsuru"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_curious.png");
+}
 [character="Mitsuru"][fist] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_fist.png");
 }
