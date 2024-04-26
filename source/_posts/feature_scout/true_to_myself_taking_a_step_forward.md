@@ -174,9 +174,7 @@ Ah, there isn’t only one plan here. …Does that mean you’ve already thought
 <th>(Mm, no. Let me just focus on reading the plan details for now. I might find something I’d like to do through them.)</th>
 
 This is… a performance stage based on yuruchara?[^1]
-{% endbubble %}
 
-{% bubble Midori awkward %}
 <th>(Oh yeah, didn’t I get to participate in an event that had yuruchara in it a while back…?)</th>[^2]
 
 <th>(I was on edge about possibly being next for the personalized outfit back then, too…)</th>
@@ -249,7 +247,7 @@ Okay then, I’ll think about what to do with my solo live until our next meetin
 {% img /img/es/idolstory/truetomyselfstepforward/2.jpg %}
 
 <div class="msr-narration">
-    <p>A few days later…</p>
+    <p>Several days later…</p>
 </div>
 
 {% bubble Midori v3 %}
@@ -485,7 +483,7 @@ Wouldn’t it be way better to talk to them by pho—
 {% bubble Midori sightired %}
 …And he’s gone. We don’t even know if they’re in the dorms…
 
-Wasn’t this supposed to be an operation to blow away my worries? I can’t believe he’d just leave me here… I’m so depressed…
+Wasn’t this supposed to be an operation to blow away my worries? I can’t believe he’d just leave me here… This is so depressing…
 
 Ah, no. I’m just talking to myself; you don’t have to worry, Auntie.
 {% endbubble %}
