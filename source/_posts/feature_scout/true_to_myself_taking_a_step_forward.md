@@ -447,7 +447,7 @@ So, like… I’d rather you don’t expect much from me, I guess…
 {% endbubble %}
 
 {% bubble Midori curious %}
-…You’re happy enough just seeing me working hard as an idol?
+…You’re happy enough just seeing me work hard as an idol?
 
 Huh… really?
 {% endbubble %}
@@ -543,7 +543,7 @@ Huh? Because Morisawa-senpai was worried about me?
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Yeah. See, I heard that you’ve been worried over something, Takamine.
+Yeah. See, I heard through the grapevine that you’ve been worried over something, Takamine.
 
 I wanted to get in touch with you, but I couldn’t find the right time to meet up and talk… And when I tried calling you, you wouldn’t pick up…
 {% endbubble %}
@@ -635,7 +635,7 @@ But even then, all the people who cheer and support you…
 
 I’m sure that they understand that you’re doing the best you possibly can to perform on stage, even though you’re feeling anxious inside.
 
-Your courage to stand on stage and perform with all your might will definitely reach every one of them, Takamine.
+Your courage to stand on stage and perform with all your might will definitely reach every one of them.
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}

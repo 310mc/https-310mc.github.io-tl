@@ -713,7 +713,7 @@ Mhm! Letting Sengoku take care of everything will guarantee us no problems!
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-I would rather you don’t rely on me so much for that~… I’m quite feeble, so it will eventually crush me.
+I would rather you don’t rely on me so much for that~… I’m quite feeble, so I will eventually collapse.
 {% endbubble %}
 
 {% bubble Shinobu srsthinking %}

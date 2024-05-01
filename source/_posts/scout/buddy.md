@@ -698,11 +698,11 @@ As for me, I’ve loved motorbikes since I was a little kid. I used to beg my pa
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah! That’d be my Super Sentai figurines, then! I’ve loved Sentai stuff since I was young, and used to asked my parents to buy me one.
+Ah! That’d be my Super Sentai action figures, then! I’ve loved Sentai stuff since I was young, and used to asked my parents to buy me one.
 
-I’d massage their shoulders, help them out with things, and do lots more. I’d get one point for each good deed, and once it reached ten points, they would buy me a figurine.
+I’d massage their shoulders, help them out with things, and do lots more. I’d get one point for each good deed, and once it reached ten points, they would buy me an action figure.
 
-I remember being super happy when I finally got the figurine I’d longed to have — I couldn’t even sleep that night…♪
+I remember being super happy when I finally got the figure I’d longed to have — I couldn’t even sleep that night…♪
 {% endbubble %}
 
 {% bubble Madara %}
@@ -716,7 +716,7 @@ Buuut the other day, when I showed her a drone beetle I found, she just stared a
 
 The older she grows, the less curious she gets…! A true shame!
 
-But anyway… sooo your buddy is your Super Sentai figurines, huh?
+But anyway… sooo your buddy is your Super Sentai figures, huh?
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -848,13 +848,13 @@ Ehhh… You don’t have to do that… I don’t wanna be near him as much as I 
 {% bubble Chiaki %}
 Oohhh…☆ This is truly splendid!
 
-To think I could arrange this figurine in my most admired pose…! It feels too good to be true!
+To think I could arrange this action figure in my most admired pose…! It feels too good to be true!
 
 Th…This is re-enacting *that* scene!? Truly incredible, shopkeeper! Of course you’d know all about it…! ☆
 {% endbubble %}
 
 {% bubble Shinobu %}
-Hmm… It seems like he is speaking to the shop clerk about Sentai figurines.
+Hmm… It seems like he is speaking to the shop clerk about Sentai figures.
 
 He looks like he is enjoying himself, so I might end up interrupting his conversation if I greet him…?
 {% endbubble %}
@@ -924,7 +924,7 @@ Ehehe…♪ But was it really okay for you to come over to us when you were havi
 {% bubble Chiaki %}
 Hm? Ahh yeah, I can talk to them anytime.
 
-I haven’t been there in a while though, so I ended up getting really excited talking about all the new figurines!
+I haven’t been there in a while though, so I ended up getting really excited talking about all the new figures!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -948,7 +948,7 @@ If so, then I might visit it after I have finished helping Midori-kun~♪
 {% bubble Chiaki %}
 Hmm… You’re going to have to ask the shopkeeper that.
 
-A lot seems to have changed since I last been here — There are all kinds of figurines in there now.
+A lot seems to have changed since I last been here — There are all kinds of toy figures in there now.
 
 It made me realize how much I’ve missed out from not visiting just because I was “busy,” honestly!
 {% endbubble %}
@@ -974,7 +974,7 @@ Buddy…? What are you talking about?
 {% endbubble %}
 
 {% bubble Chiaki %}
-Heheh! I’m talking about the Sentai figurine I’ve treasured for years! It’s exactly what I’d call my buddy, my *partner!* ☆
+Heheh! I’m talking about the Sentai action figure I’ve treasured for years! It’s exactly what I’d call my buddy, my *partner!* ☆
 
 I showed it to the shopkeeper, and they praised me for keeping it in such great shape!
 
@@ -986,7 +986,7 @@ Um, I’m not really interested…
 {% endbubble %}
 
 {% bubble Chiaki %}
-Oh, don’t be like that! I’m sure you two will learn the beauty of Sentai figurines after a thorough look at my buddy!
+Oh, don’t be like that! I’m sure you two will learn the beauty of Sentai figures after a thorough look at my buddy!
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1094,7 +1094,7 @@ Ahhh!! This is a major problem~!!
 {% bubble Chiaki %}
 Hm… I don’t think you have to choose between them.
 
-I did say this Sentai figurine’s my buddy, but I actually have so many more figurines at home, and, well…
+I did say this Sentai action figure’s my buddy, but I actually have so many more figures at home, and, well…
 
 If I was asked to choose between all of them, I’d be at a loss!
 
@@ -1354,7 +1354,7 @@ Yeah! There was no reason to hold back — After all, they’re my *buddies!*
 {% endbubble %}
 
 {% bubble Madara %}
-Buddies…? I thought your buddy was your Sentai figurine?
+Buddies…? I thought your buddy was your Sentai action figure?
 {% endbubble %}
 
 {% bubble Chiaki %}

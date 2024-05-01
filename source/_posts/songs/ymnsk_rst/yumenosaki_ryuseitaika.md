@@ -12,7 +12,7 @@ categories:
 tags:
 - Song Lyrics
 description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
-permalink: tenka_muteki_meteoranger/
+permalink: yumenosaki_ryuseitaika/
 hidden: true
 ---
 
@@ -64,26 +64,11 @@ hidden: true
 <!-- more -->
 
 ## Index
-<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
-
-## MV Size
-
-{% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
-
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=_WgnJr86g8s" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
-
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
-
-
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
-
-<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+<p style="font-size:22px;"><a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
 ## Full Lyrics
 
 <p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
-
 
 <table class="lyrics">
   <tr>

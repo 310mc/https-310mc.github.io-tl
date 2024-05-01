@@ -3274,3 +3274,94 @@
 }
 /**
 ***/
+
+/** Fuyume Expressions
+***/
+[character=Fuyume]{
+  --color: #CCADD9;
+  --hue: 282;
+  --name: "Fuyume";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume.png");
+  --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_charahead.png")
+}
+
+[character="Fuyume"][awkward] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_awkward.png");
+}
+[character="Fuyume"][cryalmost] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_cryalmost.png");
+}
+[character="Fuyume"][curious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_curious.png");
+}
+[character="Fuyume"][frown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_frown.png");
+}
+[character="Fuyume"][frownshake] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_frownshake.png");
+}
+[character="Fuyume"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_grin.png");
+}
+[character="Fuyume"][hmphleft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_hmphleft.png");
+}
+[character="Fuyume"][lookingup] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_lookingup.png");
+}
+[character="Fuyume"][nod] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_nod.png");
+}
+[character="Fuyume"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_norsmile.png");
+}
+[character="Fuyume"][norsmile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_norsmile2.png");
+}
+[character="Fuyume"][northinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_northinking.png");
+}
+[character="Fuyume"][sad] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_sad.png");
+}
+[character="Fuyume"][sad2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_sad2.png");
+}
+[character="Fuyume"][sad3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_sad3.png");
+}
+[character="Fuyume"][sad4] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_sad4.png");
+}
+[character="Fuyume"][saddroop] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_saddroop.png");
+}
+[character="Fuyume"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_serious.png");
+}
+[character="Fuyume"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_smilesoft.png");
+}
+[character="Fuyume"][smilesoft2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_smilesoft2.png");
+}
+[character="Fuyume"][srsthinking] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_srsthinking.png");
+}
+[character="Fuyume"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_worried.png");
+}
+/**
+***/
+
+/** Ibuki Expressions
+***/
+[character=Ibuki]{
+  --color: #66BBCC;
+  --hue: 190;
+  --name: "Ibuki";
+  --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki.png");
+  --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_charahead.png")
+}
+/**
+***/

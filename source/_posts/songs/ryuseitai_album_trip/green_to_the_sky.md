@@ -67,7 +67,7 @@ permalink: green_to_the_sky/
     <td>
       “You won’t be able to see anything if you walk with your head down”
       <br>
-      You’re the one that taught me that
+      You’re the one who taught me that
       <br>
       Like a strong wind sweeping up my front bangs
     </td>

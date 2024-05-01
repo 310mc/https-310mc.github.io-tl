@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Exhibition In A Blink Of An Eye"
-date: 2024-4-20 9:00:00
+date: 2024-3-14 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Midori]
