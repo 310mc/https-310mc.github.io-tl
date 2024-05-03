@@ -1,15 +1,20 @@
 ---
-title: "[ES!!] Taki Ibuki – Idol Story 1"
-date: 2020-03-16 9:00:00
+title: "[ES!!] Taki Ibuki – Idol Story 2"
+date: 2024-05-2 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ibuki]
+- [Enstars, Hiiro]
+- [Enstars, Tetora]
 tags:
 - Idol Story
 - Akira
-description: "[ES!!] Translation of Ibuki's Idol Story 1."
+description: "[ES!!] Translation of Ibuki's Idol Story 2, featuring Tetora and Hiiro."
 hidden: true
 ---
+
+{% img /img/es/idolstory/initial/ibuki_2.jpg %}
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
@@ -19,6 +24,8 @@ hidden: true
                 </div>
                 <div class="value">
 					<a href="/categories/Enstars/Ibuki" character="Ibuki"></a>
+					<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+					<a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -59,8 +66,19 @@ hidden: true
     <p><span><b>Location:</b> TBA</span></p>
 </div>
 
-{% img /img/es/idolstory/initial/ibuki_1.jpg %}
+{% img /img/es/idolstory/initial/ibuki_2_1.jpg %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/ibuki_2,, arrow-right, Ibuki Idol Story 2 %}</div>
+<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
+
+[^1]: TBA
+[^2]: TBA
+[^3]: TBA
+[^4]: TBA
+[^5]: TBA
+[^6]: TBA
+[^7]: TBA
+[^8]: TBA
+[^9]: TBA
+[^10]: TBA

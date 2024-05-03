@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Taki Ibuki – Idol Story 1"
-date: 2020-03-16 9:00:00
+date: 2024-05-2 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ibuki]
@@ -10,6 +10,9 @@ tags:
 description: "[ES!!] Translation of Ibuki's Idol Story 1."
 hidden: true
 ---
+
+{% img /img/es/idolstory/initial/ibuki_1.jpg %}
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
@@ -56,10 +59,18 @@ hidden: true
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
+    <p><span><b>Location:</b> In front of ES building</span></p>
 </div>
 
-{% img /img/es/idolstory/initial/ibuki_1.jpg %}
+{% note narration %}
+This story is <b>fully voiced</b>. Click the YouTube video to listen while reading!
+{% endnote %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8-NuGN-4Ag?si=pPxrLzzqnxzn8vOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="msr-narration">
+    <p>2nd year of ES’s establishment…</p>
+</div>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/ibuki_2,, arrow-right, Ibuki Idol Story 2 %}</div>
 

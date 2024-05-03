@@ -423,7 +423,7 @@ You’re someone indispensable to me.
 
 {% img /img/es/idolstory/aherotoo/6.jpg %}
 
-{% bubble Hiiro sigh2 %}
+{% bubble Hiiro sighdrop %}
 …Sigh. It’s already time to leave. I suppose I have to wake up from my dream at one point.
 
 I’ll miss everyone. What a shame that I have to leave as soon as I became friends with all the ghosts in the haunted house…

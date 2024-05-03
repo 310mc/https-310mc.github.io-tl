@@ -3,8 +3,6 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
-
-
 ## Translation Usage
 
 <style>
@@ -709,6 +707,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="/img/es/idolstory/banner/kanataidolstory2.jpg"
+            alt="Kanata Shinkai Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/kanata_2" class="storyName" target="_blank">
+        <span>Kanata Shinkai Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/idolstory/banner/hinataidolstory1.jpg"
             alt="Hinata Aoi Idol Story 1"
         />
@@ -745,12 +755,12 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/banner/kanataidolstory2.jpg"
-            alt="Kanata Shinkai Idol Story 2"
+            src="/img/es/idolstory/banner/fuyumeidolstory2.jpg"
+            alt="Fuyume Hanamura Idol Story 2"
         />
     </div>
-    <a href="/idol_story/kanata_2" class="storyName" target="_blank">
-        <span>Kanata Shinkai Idol Story 2</span>
+    <a href="/idol_story/fuyume_2" class="storyName" target="_blank">
+        <span>Fuyume Hanamura Idol Story 2</span>
         <span class="read"></span>
     </a>
 </div>
