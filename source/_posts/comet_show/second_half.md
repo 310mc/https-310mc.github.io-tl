@@ -97,7 +97,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% bubble Chiaki grin %}
 Look, Takamine! They’re selling plushies of some deep-sea creatures! I have no idea what they’re meant to be!
 
-You love these kinds of soft-looking creatures, right!? Alrighty then, your dad will buy it for you to commemorate us spending time together in the aquarium today!
+You love these kinds of soft and shapeless creatures, right!?[^1] Alrighty then, your dad will buy it for you to commemorate us spending time together in the aquarium today!
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -127,7 +127,7 @@ Do you seriously not have any other way to compliment people…?
 
 And for the record, being compared to some mysterious deep-sea creature doesn’t make me happy at all, ‘kay…?
 
-But I *could* feel a little happy if you compared it to Shinkai-senpai instead.[^1]
+But I *could* feel a little happy if you compared it to Shinkai-senpai instead.[^2]
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -147,7 +147,7 @@ Why did it turn out this way between us…?
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-Ah, I was thinking something similar just now. It’s always so nice to share something in common[^2], no matter what it is, huh? That feeling of joy gets cut in half whenever it’s with you, though—
+Ah, I was thinking something similar just now. It’s always so nice to share something in common, no matter what it is, huh?[^3] That feeling of joy gets cut in half whenever it’s with you, though—
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -447,7 +447,7 @@ He’s our role model and our guide. He’s much more suited for that job than K
 {% bubble Midori yare %}
 Please say all of that to him instead…
 
-I’m the worst out of the flock, so I guess that’s why you kept supporting me the most, like during Repayment Festival—[^3]
+I’m the worst out of the flock, so I guess that’s why you kept supporting me the most, like during Repayment Festival—[^4]
 
 But Shinobu-kun and Tetora-kun both probably went through a similar life to mine; I’m sure they barely got any praise from anyone in the past.
 
@@ -517,7 +517,7 @@ It sure is… He was called over by a couple staff members for some business in 
 
 “hello, everyone~ [thank you] for visiting the [aoumi aquarium] today!”
 
-“as you may know, i am the [mascot] known as kanatee\~♪”[^4]
+“as you may know, i am the [mascot] known as kanatee\~♪”[^5]
 
 “you are not feeling blue today, are you? despite my color, i am not feeling blue at all\~ i wonder if it is because of all the [fishies]? kana-kana\~♪”
 {% endbubble %}
@@ -625,7 +625,7 @@ Everyone from Ryuseitai-N also came over to assist us the best they can, saying 
 {% endbubble %}
 
 {% bubble Tetora norsmile2 %}
-I’m real grateful to everyone. We’re named after the shooting stars who grant people’s wishes, but we keep having *our* wishes granted by others instead.[^5]
+I’m real grateful to everyone. We’re named after the shooting stars who grant people’s wishes, but we keep having *our* wishes granted by others instead.[^6]
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
@@ -859,7 +859,7 @@ Not to mention, he’s been in pretty low spirits during his time working with R
 
 But comparing our current era to last year, when you seniors were around, makes him so disappointed in himself.
 
-He’s also suffering from that bitter time when we got torn to shreds for taking the challenge against Crazy:B[^6] without thinking it through.
+He’s also suffering from that bitter time when we got torn to shreds for taking the challenge against Crazy:B[^7] without thinking it through.
 
 On top of that, we had a whole bunch of newbies back in spring, but they kept dropping out one after the other… ‘Cause they kept thinking the unit’s different from what they expected.
 {% endbubble %}
@@ -1004,9 +1004,10 @@ Every last one of you are so insistent on making everything harder on yourselves
 </div>
 
 ## Translation Notes
-[^1]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
-[^2]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
-[^3]: Referring to <a href="/climax" target="_blank">Climax</a>, Ryuseitai's Repayment Festival (graduation) story.
-[^4]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata’s birthday cake</a>.
-[^5]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
-[^6]: Referring to what happened in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
+[^1]: Chiaki is referring to <em>yuruchara</em>, Midori’s favorite kind of mascots, that tend to have sloppy-looking designs.
+[^2]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
+[^3]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
+[^4]: Referring to <a href="/climax" target="_blank">Climax</a>, Ryuseitai's Repayment Festival (graduation) story.
+[^5]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata’s birthday cake</a>.
+[^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
+[^7]: Referring to what happened in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.

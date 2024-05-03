@@ -405,7 +405,7 @@ Hmm… In that case, the setting where the world values are inverted is no longe
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-That would be visually easier to understand, after all. They’ve made an overly-optimistic calculation that figurines and toys for the “Villain Version” might also sell.
+That would be visually easier to understand, after all. They’ve made an overly-optimistic calculation that action figures and toys for the “Villain Version” might also sell.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
@@ -1176,11 +1176,11 @@ It’s a brand new day, Takamine! Goood mooorning~! ☆
 {% endbubble %}
 
 {% bubble Midori sightired %}
-Oh… So it was just a dream all along…
+Oh… I’m in a dream, huh…
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Oh no you don’t! You shouldn’t escape reality so quickly, Takamine!
+Now, now, you shouldn’t escape reality so quickly, Takamine!
 
 Open your eyes! Look around you! The reality known as “us” has arrived! Fuhahahaha!! ☆
 {% endbubble %}
@@ -1190,8 +1190,6 @@ What do you want so early in the morning…?
 
 Not only Morisawa-senpai, but even Shinkai-senpai… Unlike that guy over there, you aren’t the kind of insane person who would attack someone in their sleep, right?
 {% endbubble %}
-
-{% img /img/es/eventstory/supervillain/darkstarch8_2.jpg %}
 
 {% bubble Kanata niyaclosed %}
 yes! of course i am not! it is also completely [normal] to *puka puka* in the [fountain]! that is how an ordinary person [behaves]!
@@ -1306,7 +1304,7 @@ Yeah. It seems that the upper management of the agency is just as perplexed abou
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-Yeah, seriously. Regardless, I’m sure even you understand that we can’t just stand around and do nothing, right, Takamine?
+Yeah, seriously. Regardless, I’m sure you also understand that we can’t just stand around and do nothing, right, Takamine?
 {% endbubble %}
 
 {% bubble Midori idle %}
@@ -1373,5 +1371,5 @@ We *have* to solve this unprecedented problem.
 [^1]: This is originally referring to an idiom that goes, “you won’t find a loach under the willow”, meaning just because you were lucky to succeed once, doesn’t mean you’ll succeed again with the same method.
 [^2]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”.
 [^3]: Tetora speaks differently starting from here, and will continue to do so for the majority of this story. He doesn’t use his typical “Ossu”, and “~ssu” ending speech quirk. He instead talks more plainly, without any particular speech quirk.
-[^4]: “Oni” means demon or ogre.
+[^4]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>.
 [^5]: Gorgom is a fictional criminal group from Kamen Rider Black. For more information, go <a href="https://kamenrider.fandom.com/wiki/Gorgom" target="_blank">here</a>.
