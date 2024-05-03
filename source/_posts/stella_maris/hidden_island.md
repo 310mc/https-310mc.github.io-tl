@@ -525,7 +525,7 @@ ah, no— how do people [greet] each other in [okinawa] again…? Ermm, haitai~?
 {% bubble Mizusaba unknown %}
 Haitai~…♪
 
-But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Ani-sama’s”[^11] influence.
+But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Nii-sama’s”[^11] influence.
 
 In fact, kids might not even understand you if you talk in Okinawan dialect~…♪
 {% endbubble %}
@@ -1625,7 +1625,7 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^26]
+Huh~… So the person that Mizusaba-san calls “Nii-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^26]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -1633,15 +1633,15 @@ Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it 
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Ani-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
+Nii-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-sama was like everyone’s big brother in a sense, so I call him “Nii-sama”\~.
 
-I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Ani-sama about it\~.
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-sama about it\~.
 
 He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
 
-But technically, if it were possible, we probably could have entrusted this job to Ani-sama instead of you guys~.
+But technically, if it were possible, we probably could have entrusted this job to Nii-sama instead of you guys~.
 
 Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
 {% endbubble %}
@@ -1949,7 +1949,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^11]: Ani-sama, lit. “Older brother” with “sama”, a polite honorific used for names.
+[^11]: Nii-sama, lit. “Older brother” with “sama”, a polite honorific used for names.
 [^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It’s a slightly old-fashioned, formal pronoun to refer to oneself.
 [^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I’ve decided to use a shark icon for the translation, so that he’s identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.

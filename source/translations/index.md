@@ -755,6 +755,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="/img/es/idolstory/banner/ibukiidolstory2.jpg"
+            alt="Ibuki Taki Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/ibuki_2" class="storyName" target="_blank">
+        <span>Ibuki Taki Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/idolstory/banner/fuyumeidolstory2.jpg"
             alt="Fuyume Hanamura Idol Story 2"
         />
@@ -1408,6 +1420,30 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="stories">
     <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/banner/8thanniversary.jpg"
+            alt="8th Anniversary (Ryuseitai)"
+        />
+    </div>
+    <a href="/anniversary/8th" class="storyName" target="_blank">
+        <span>8th Anniversary Ryuseitai (In progress!)</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/banner/9thanniversary.jpg"
+            alt="9th Anniversary (Ryuseitai)"
+        />
+    </div>
+    <a href="/anniversary/9th" class="storyName" target="_blank">
+        <span>9th Anniversary Ryuseitai</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <div class="story">
         <div class="thumbimage">
             <img
                 src="/img/es/dokisuta/cover.jpg"
@@ -1430,7 +1466,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Ryuseitai Album TRIP Campaign</span>
         <span class="read"></span>
     </a>
-</div>
+    </div>
 </div>
 
 <!--## Helios Rising Heroes

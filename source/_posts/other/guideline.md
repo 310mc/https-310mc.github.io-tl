@@ -5,8 +5,6 @@ description: "Translation Guidelines for 310mc's translations."
 permalink: guideline/
 ---
 
-
-
 <style>
 .intro {
   font-size:16px;
@@ -76,6 +74,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
+<div class="story">
+<div class="thumbimage">
+    <img
+        src="/img/banner/9thanniversary_300px.jpg"
+        alt="9th Anniversary (Ryuseitai)"
+    />
+</div>
+<a href="/anniversary/9th" class="storyName" target="_blank">
+    <span>9th Anniversary Ryuseitai</span>
+    <span class="read"></span>
+</a>
+</div>
 <!--<div class="story">
     <div class="thumbimage">
         <img
@@ -142,6 +152,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/ibukiidolstory2.jpg"
+            alt="Ibuki Taki Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/ibuki_2" class="storyName" target="_blank">
+        <span>Ibuki Taki Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

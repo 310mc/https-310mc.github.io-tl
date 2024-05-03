@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Taki Ibuki – Idol Story 1"
+title: "[ES!!] Ibuki Taki – Idol Story 1"
 date: 2024-05-2 9:00:00
 categories:
 - [Enstars, ES!!]
@@ -75,19 +75,3 @@ This story is <b>fully voiced</b>. Click the YouTube video to listen while readi
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/ibuki_2,, arrow-right, Ibuki Idol Story 2 %}</div>
 
 ## Translation Notes
-
-[^1]: TBA
-[^2]: TBA
-[^3]: TBA
-[^4]: TBA
-[^5]: TBA
-[^6]: TBA
-[^7]: TBA
-[^8]: TBA
-[^9]: TBA
-[^10]: TBA
-[^11]: TBA
-[^12]: TBA
-[^13]: TBA
-[^14]: TBA
-[^15]: TBA

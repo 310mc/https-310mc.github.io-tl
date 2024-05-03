@@ -415,7 +415,7 @@ Ehhh…?
 
 ## Translation Notes
 
-[^1]: In the second year of ES’s establishment, Midori is a third year in Yumenosaki, which means he’s 17 years old.
+[^1]: At the start of the second year of ES’s establishment, Midori is a third year in Yumenosaki, which means he’s 17 years old (and he becomes 18 on his birthday).
 [^2]: Originally, Midori says “If I were to put it in older terms, a <em>denpa-kei</em>?” More on <a href="https://en.wikipedia.org/wiki/Denpa" target="_blank">denpa-kei</a> here. As Midori states in the Japanese text, it’s a pretty old-fashioned term.
 [^3]: Midori says cosplayer in hiragana instead of katakana (the correct way to spell cosplayer), implying he isn’t very familiar with the term.
 [^4]: “Yume” means dream, so it’s a wordplay of his nickname and the word “dream”.

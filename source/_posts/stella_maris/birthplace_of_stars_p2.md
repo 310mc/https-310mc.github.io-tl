@@ -1173,7 +1173,7 @@ Mmrph… I cannot stand how I can only ever be protected. I want to become an ad
 {% bubble Mizusaba %}
 No need to be in a rush\~, we have to take it nice and slow… Okay\~? ♪ Doesn’t matter if it’s human or fish, any living being has to go through that, y’know\~?
 
-Even the whale shark “Mizusaba” wasn’t huge from the start\~. When I was younger, I’d always rely on Grandpa and Ani-sama\~.
+Even the whale shark “Mizusaba” wasn’t huge from the start\~. When I was younger, I’d always rely on Grandpa and Nii-sama\~.
 {% endbubble %}
 
 {% bubble Konata %}

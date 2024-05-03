@@ -15,6 +15,8 @@ tags:
 description: "[ES!!] Translation of 8th Anniversary content."
 ---
 
+{% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}
+
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
         <div class="info">
@@ -23,11 +25,11 @@ description: "[ES!!] Translation of 8th Anniversary content."
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                <a href="/categories/Enstars/Midori" character="Midori"></a>
                 <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -35,7 +37,7 @@ description: "[ES!!] Translation of 8th Anniversary content."
                     Writer
                 </div>
                 <div class="value">
-                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -60,7 +62,7 @@ description: "[ES!!] Translation of 8th Anniversary content."
 
 <!-- more -->
 
-## Anniversary Quote
+## Anniversary Quotes
 
 {% img /img/es/anniversary/8th/quotetetora.jpg %}
 
@@ -70,26 +72,43 @@ No matter how stained with mud I get, I'll continue to run down the path of hard
 
 {% img /img/es/anniversary/8th/quotechiaki.jpg %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki fist %}
 You can always call my name if you ever need me! I'll always come rushing for you at full speed for the sake of making you smile…☆
 {% endbubble %}
 
-<p><b>Note 1:</b> Tetora's quote appeared alongside the leaders' anniversary quotes.</p>
-<p><b>Note 2:</b> Rest of Ryuseitai will be added soon!</p>
+{% img /img/es/anniversary/8th/quotemidori.jpg %}
+
+{% bubble Midori smilesoft2 %}
+It’s because you support me that I’m able to work hard as an idol and hero. Please stay by my side forever…♪
+{% endbubble %}
+
+{% img /img/es/anniversary/8th/quoteshinobu.jpg %}
+
+{% bubble Shinobu nod %}
+I wonder what lies ahead in the path you and I will walk through together? Let's go and find out together, Producer-dono~♪
+{% endbubble %}
+
+{% img /img/es/anniversary/8th/quotekanata.jpg %}
+
+{% bubble Kanata grin %}
+let's move towards the [future] together. i am also your hero, after all…♪
+{% endbubble %}
+
+<big><b>Note:</b> Tetora's quote appeared alongside the leaders' anniversary quotes.</big>
 
 ## Ryuseitai One with One Mini Talk
 
 {% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora grin %}
 Ossu! Thanks for guiding us with the rehearsal, Anzu-anego!
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smilesoft %}
 We're surely going to have a wonderful performance that will make all our fans happy. I could tell how particular you were with each performance piece!
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu nod %}
 I am very excited to go around the venue on a gondola! Watching the audience from above will feel new.
 {% endbubble %}
 
@@ -102,10 +121,10 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
         {% bubble Midori curious %}
         …It's a pretty large-scale set-up, so we should manage to surprise the audience? That's true…
         {% endbubble %}
-        {% bubble Kanata v2 %}
+        {% bubble Kanata nod2 %}
         i hope we can make them happy with lots of [fanservice]~♪
         {% endbubble %}
-        {% bubble Tetora v2 %}
+        {% bubble Tetora fist %}
         We're gonna fill everyone in the venue with hope and energy for sure~!
         {% endbubble %}
         </div>
@@ -115,13 +134,13 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
             It's the perfect use of a wide venue.
         </div>
         <div class="minitalk-option_content">
-        {% bubble Chiaki grin2 %}
-        Yep! I'm excited just thinking of how many people will get to experience our performance.
+        {% bubble Chiaki fist %}
+        Yep! I'm excited just thinking about how many people will get to experience our performance.
         {% endbubble %}
-        {% bubble Midori frown %}
+        {% bubble Midori sighfrown %}
         <em>Sigh</em>… That all the more means we have even more attention on us, so we can't mess it up. I'm nervous…
         {% endbubble %}
-        {% bubble Shinobu v2 %}
+        {% bubble Shinobu smileconfident %}
         It is crucial that we enjoy this as ourselves, in the way that suits us best! Let's make sure to make the place exciting on the day of the event, as well!
         {% endbubble %}
         </div>
@@ -132,27 +151,56 @@ I am very excited to go around the venue on a gondola! Watching the audience fro
 
 ## Heart to YOU FES Talk 9
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileconfident %}
 Ohh!? Look, you guys! Don't you think this game suits us perfectly!?
 {% endbubble %}
 
 {% bubble Tetora curious %}
 Hm? What didja find?
 
-Erm… "Linking ♡s Game"?
+Erm… “Linking ♡s Game”?
 {% endbubble %}
 
-{% bubble Shinobu v2 %}
+{% bubble Shinobu nod %}
 It seems that you pass the round every time you make the same pose as the idol. It sounds fun!
 {% endbubble %}
 
-{% bubble Kanata v2 %}
+{% bubble Kanata nod2 %}
 we all have our own personal hero [poses], so we can definitely [link] with each other~
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-Um, but then we wouldn't really play by the game's rules, would we…? It's not that sorta game, right…?
+Um, but then we wouldn't really be playing by the game's rules, would we…? It's not that sorta game, right…?
 {% endbubble %}
+
+## Directory
+
+<div class="stories">
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/banner/8thanniversary.jpg"
+            alt="8th Anniversary (Ryuseitai)"
+        />
+    </div>
+    <a href="/anniversary/8th" class="storyName" target="_blank">
+        <span>8th Anniversary Ryuseitai (In progress!)</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/banner/9thanniversary.jpg"
+            alt="9th Anniversary (Ryuseitai)"
+        />
+    </div>
+    <a href="/anniversary/9th" class="storyName" target="_blank">
+        <span>9th Anniversary Ryuseitai</span>
+        <span class="read"></span>
+    </a>
+    </div>
+</div>
 
 <hr>
 

@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] Taki Ibuki – Idol Story 2"
-date: 2024-05-2 9:00:00
+title: "[ES!!] Ibuki Taki – Idol Story 2"
+date: 2024-05-3 9:01:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ibuki]
@@ -10,7 +10,6 @@ tags:
 - Idol Story
 - Akira
 description: "[ES!!] Translation of Ibuki’s Idol Story 2, featuring Tetora and Hiiro."
-hidden: true
 ---
 
 {% img /img/es/idolstory/initial/ibuki_2.jpg %}
@@ -59,7 +58,11 @@ hidden: true
 <!-- more -->
 
 {% note narration %}
-This story heavily references <b><a href="/supervillain" target="_blank">Supervillain</a></b>. I recommend reading the story if there is any confusion. 
+This story heavily references <b><a href="/supervillain" target="_blank">Supervillain</a></b>. I recommend reading the story if you’d like to know more.
+{% endnote %}
+
+{% note narration %}
+You can see Ibuki Taki’s profile on the <a href="https://ensemble-stars.fandom.com/wiki/Ibuki_Taki" target="_blank">Wiki</a>.
 {% endnote %}
 
 <div class="msr-season spring">
@@ -406,14 +409,14 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 
 ## Translation Notes
 
-[^1]: In the second year of ES’s establishment, Tetora and Hiiro are thirds year in Yumenosaki, which means they’re 17 years old.
+[^1]: At the start of the second year of ES’s establishment, Tetora and Hiiro are third years in Yumenosaki.
 [^2]: They’re singing Tetora’s second solo, <a href="/unmei_power_energy" target="_blank">Unmei Power Energy!</a>.
 [^3]: “Taishou” refers to Kuro, meaning “chief”, “boss”.
 [^4]: “Buchou” means club captain/president.
 [^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. The Oni that Ibuki is referring to was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^6]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization, and then eventually took down the corporation. The story happens in Okinawa. For more information on what Tetora’s talking about, I recommend reading the story.
+[^6]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization, and then eventually took down the corporation. The story happens in Okinawa. For more information on what Tetora’s talking about, I recommend reading <a href="/supervillain" target="_blank">the story</a>.
 [^7]: Ibuki’s grandpa was talked about in <a href="/stella_maris/hidden_island/#Chapter-10" target="_blank">Stella Maris</a>, hidden island 10. In the same chapter, there is information about Ibuki, so I recommend reading it.
-[^8]: A link to Nice Arneb Thunder’s <a href="https://ensemble-stars.fandom.com/wiki/Nice_Arneb_Thunder" target="_blank">wiki profile</a>. 
+[^8]: A link to Nice Arneb Thunder’s <a href="https://ensemble-stars.fandom.com/wiki/Nice_Arneb_Thunder" target="_blank">Wiki profile</a>. 
 [^9]: Sata andagi is Okinawan food that are sweet deep-fried buns. More information <a href="https://en.wikipedia.org/wiki/Sata_andagi" target="_blank">here</a>.
 [^10]: In this line and the next one, Ibuki doesn’t speak in his typical speech quirk, instead speaking more plainly.
 [^11]: Ibuki is referring to what typically happens to ogres in Japanese folklores. Ogres are exterminated by the folk hero, like in the <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">Legend of Momotarō</a>.

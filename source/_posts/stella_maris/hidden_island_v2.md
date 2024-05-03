@@ -258,7 +258,7 @@ But I feel as though someone is watching us—
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
+Huh~… So the person that Mizusaba-san calls “Nii-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -266,15 +266,15 @@ Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it 
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Ani-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
+Nii-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-sama was like everyone’s big brother in a sense, so I call him “Nii-sama”\~.
 
-I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Ani-sama about it\~.
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-sama about it\~.
 
 He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
 
-But technically, if it were possible, we probably could have entrusted this job to Ani-sama instead of you guys~.
+But technically, if it were possible, we probably could have entrusted this job to Nii-sama instead of you guys~.
 
 Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
 {% endbubble %}
