@@ -1625,7 +1625,7 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^26]
+Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^26]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -1633,7 +1633,7 @@ Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it 
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Ani-sama is his successor\~, he’s called “The second generation of the Okinawa Oni”\~♪
+Ani-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
 He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
 
@@ -1964,7 +1964,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^23]: This is referring to the events that happened to Ryuseitai throughout the previous year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^24]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
 [^25]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan’s best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
-[^26]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^26]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^27]: Chiaki was speaking in polite Japanese (keigo) to Mizusaba.
 [^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
 [^29]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

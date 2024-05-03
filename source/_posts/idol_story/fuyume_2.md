@@ -8,7 +8,7 @@ categories:
 tags:
 - Idol Story
 - Akira
-description: "[ES!!] Translation of Fuyume's Idol Story 2, featuring Midori."
+description: "[ES!!] Translation of Fuyume’s Idol Story 2, featuring Midori."
 ---
 
 {% img /img/es/idolstory/initial/fuyume_2.jpg %}
@@ -70,7 +70,7 @@ You can see Fuyume Hanamura’s profile on the <a href="https://ensemble-stars.f
 {% img /img/es/idolstory/initial/fuyume_2_1.jpg %}
 
 <div class="msr-narration">
-    <p>2nd year of ES’s establishment…[^]</p>
+    <p>2nd year of ES’s establishment…[^1]</p>
 </div>
 
 {% bubble Fuyume serious %}

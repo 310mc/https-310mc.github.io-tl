@@ -152,7 +152,7 @@ Like, Ryuseitai-N’s been staggering in *every* way, and I just can’t seem to
 
 Then I just get more stressed about it, and start trying to make an effort out of everything, only for it to all come to waste… that’s prolly why I’m this unbearably tired.
 
-Ahhh, I’m just so, so hopeless… It’s so pathetic of me. There's nothing more wasted than wasted effort.
+Ahhh, I’m just so, so hopeless… It’s so pathetic of me. There’s nothing more wasted than wasted effort.
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -191,10 +191,10 @@ On the other hand, I *do* feel as though all our efforts would be in vain if we 
 Ahaha, things aren’t going well for the both of us, huh…♪
 {% endbubble %}
 
-<div toc>{% btn /motor_show,, star, Index %}{% btn /motor_show/snails_pace,, arrow-right, Next Chapter: Progress at a Snail's Pace %}</div>
+<div toc>{% btn /motor_show,, star, Index %}{% btn /motor_show/snails_pace,, arrow-right, Next Chapter: Progress at a Snail’s Pace %}</div>
 
 ## Translation Notes
-[^1]: “Taishou” here refers to Kuro. Tetora calls him by this title out of respect. It means “chief”.
+[^1]: “Taishou” here refers to Kuro. Tetora calls him by this title out of respect. It means “chief”, “boss”.
 [^2]: Hiiro originally says <em>gunpai</em>, a fan used in sumo wrestling matches to determine the winner.
 [^3]: “Buchou” means club captain/president.
-[^4]: Ryuseitai-M = Morisawa, the unit under StarPro. Ryuseitai-N = Nagumo, the unit within Yumenosaki.
+[^4]: Ryuseitai-M = Morisawa, the unit under Starmaker Production. Ryuseitai-N = Nagumo, the unit within Yumenosaki.

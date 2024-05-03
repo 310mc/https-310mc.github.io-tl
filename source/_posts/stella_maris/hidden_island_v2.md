@@ -258,7 +258,7 @@ But I feel as though someone is watching us—
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa Oni” that I’ve heard about a few times?[^5]
+Huh~… So the person that Mizusaba-san calls “Ani-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -266,7 +266,7 @@ Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it 
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Ani-sama is his successor\~, he’s called “The second generation of the Okinawa Oni”\~♪
+Ani-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
 He was truly respected\~. Actually, I’m the older one between us\~, but Ani-sama was like everyone’s big brother in a sense, so I call him “Ani-sama”\~.
 
@@ -383,7 +383,7 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^2]: Okunoshima, also known as “Rabbit Island”. See more <a href="https://en.wikipedia.org/wiki/%C5%8Ckunoshima" target="_blank">here</a>.
 [^3]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^5]: “Oni” means demon or ogre. Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^6]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
 [^7]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
 [^8]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
