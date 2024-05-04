@@ -420,5 +420,5 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 [^9]: Sata andagi is Okinawan food that are sweet deep-fried buns. More information <a href="https://en.wikipedia.org/wiki/Sata_andagi" target="_blank">here</a>.
 [^10]: In this line and the next one, Ibuki doesn’t speak in his typical speech quirk, instead speaking more plainly.
 [^11]: Ibuki is referring to what typically happens to ogres in Japanese folklores. Ogres are exterminated by the folk hero, like in the <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">Legend of Momotarō</a>.
-[^12]: In the Legend of Momotarō, Momotarō has to go to Onigashima, the Demon Island, to defeat the ogres. More information <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">here</a>.
+[^12]: In the Legend of Momotarō, Momotarō has to go to Onigashima, the Ogre Island, to defeat the ogres. More information <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">here</a>.
 [^13]: Hiiro says <em>toorima</em>, lit. demon who brings misfortune to people it passes by. It can also mean a slasher that attacks people at random.
