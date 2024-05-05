@@ -80,7 +80,7 @@ everyone, thank you very much for your hard work~♪
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-You, too, Kanata. We sang and danced the whole time while we were going to the mainland and then back to Hoshijima, after all.
+You, too, Kanata. We sang and danced the whole time while we were going to the main island and then back to Hoshijima, after all.
 
 Setting aside Nagumo and I, who train on a regular basis, it isn’t surprising if it was rough on everyone else.
 {% endbubble %}
@@ -270,7 +270,7 @@ But the only thing we can actually do in reality is make plain and boring, mud-s
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
-Yeah. We even went all the way to the mainland, where an ES branch was established, and then made sure to have a proper, realistic talk about finances.
+Yeah. We even went all the way to the main island, where an ES branch was established, and then made sure to have a proper, realistic talk about finances.
 
 Those sorts of discussions are best done directly, after all.
 {% endbubble %}
@@ -428,7 +428,7 @@ Mm~ I am still a little against that, or rather, embarrassed by the thought… W
 {% bubble Konata serious %}
 However, Mother is family to Kanata-sama, right?
 
-If you’d like, how about you meet with Mother before returning to the mainland? I believe her mental state has stabilized a fair amount now, so you may be able to have a proper conversation with her.
+If you’d like, how about you meet with Mother before returning to the Japan mainland? I believe her mental state has stabilized a fair amount now, so you may be able to have a proper conversation with her.
 
 She may tell you about who I am, or other things you’d like to know.
 
@@ -493,7 +493,7 @@ This event story is about Kanata becoming a hero.
 
 The story illustrates Kanata’s first job as the commander of the reborn Ryuseitai.
 
-Under Kanata’s leadership, everyone in Ryuseitai headed over to Okinawa, not knowing anything about the details of their job aside from the fact that it involves a commercial filming. This job was actually just the groundwork to Kanata’s actual goal; the real job was to restore a decaying island known as “Hoshijima”. The sealed-off island, Hoshijima, forbade the existence of idols, and had restricted contact with the Okinawa mainland. That is when the lord of the island, Minase Konata — a boy who looks exactly like Kanata did when he was young — wished for a foundation where the islanders can survive even after their financial aid came to an end. Because the island had many believers of the religion that once worshiped Kanata as a god, they expected the work to be smooth sailing. However, they then find out that there were islanders who opposed the development of the land…
+Under Kanata’s leadership, everyone in Ryuseitai headed over to Okinawa, not knowing anything about the details of their job aside from the fact that it involves a commercial filming. This job was actually just the groundwork to Kanata’s actual goal; the real job was to restore a decaying island known as “Hoshijima”. The sealed-off island, Hoshijima, forbade the existence of idols, and had restricted contact with the Okinawa main island. That is when the lord of the island, Minase Konata — a boy who looks exactly like Kanata did when he was young — wished for a foundation where the islanders can survive even after their financial aid came to an end. Because the island had many believers of the religion that once worshiped Kanata as a god, they expected the work to be smooth sailing. However, they then find out that there were islanders who opposed the development of the land…
 
 This is the first time Kanata acts as the commander. Though Kanata would struggle to express what his objectives are and what he wants to do, his Ryuseitai comrades were by his side to make up for what he lacks. Each member has their own strength… Tetora, who is a hard worker with excellent negotiation skills. Midori, who senses and understands the emotions within people’s hearts. Shinobu, who collects information in advance and shares it with the rest. Chiaki, who guides all of them in unison. With everyone grown enough to nestle close and support one another, they help Kanata achieve what he wants to do.
 

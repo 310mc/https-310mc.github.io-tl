@@ -523,11 +523,11 @@ ah, no— how do people [greet] each other in [okinawa] again…? Ermm, haitai~?
 {% endbubble %}
 
 {% bubble Mizusaba unknown %}
-Haitai~…♪
+Haitai~…♪[^36]
 
-But no worries, there’s no need to speak in Okinawan dialect with me~. We also like to use the mainland’s language thanks to our westernized “Nii-sama’s”[^11] influence.
+But no worries, there’s no need to speak in Okinawan dialect with me\~. We also like to use the mainland’s language thanks to our westernized “Nii-nii’s” influence.[^11]
 
-In fact, kids might not even understand you if you talk in Okinawan dialect~…♪
+In fact, kids might not even understand you if you talk in Okinawan dialect\~…♪
 {% endbubble %}
 
 {% img /img/es/eventstory/stellamaris/tetoraorigcg.jpg %}
@@ -573,7 +573,7 @@ Mhm. Kanata-sama is what you’d call an erudite\~. We all respect him\~.
 {% endbubble %}
 
 {% bubble Midori curious %}
-Kanata-“sama”…?[^15]
+Kanata-…“sama”…?[^15]
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -597,7 +597,7 @@ So to summarize — Mizusaba-san is a worshipper of Shinkai-senpai’s uh, relig
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah\~. I’m not, actually\~? We’re pretty influential in Okinawa’s main island, so we act as mediators — the bridge between the local worshippers and Kanata-sama\~…♪
+Ah\~, I’m not, actually\~? We’re pretty influential in Okinawa’s main island, so we act as mediators[^40] — the bridge between the local worshippers and Kanata-sama\~…♪
 
 The worshippers don’t get involved with other people much, after all\~. Without a point of contact, the conversation won’t get anywhere\~, such a bother, right\~…♪
 {% endbubble %}
@@ -921,7 +921,7 @@ What do you mean?
 {% endbubble %}
 
 {% bubble Mizusaba %}
-You’ll understand when you see it yourselves, but… Our destination, or rather, the island that you will be restoring—
+You’ll understand when you see it yourselves, but… Our destination, or rather, the island that you will be restoring—[^37]
 
 That star island, “Hoshijima”, is in immeasurable ruins.
 {% endbubble %}
@@ -931,7 +931,7 @@ That star island, “Hoshijima”, is in immeasurable ruins.
 {% img /img/es/eventstory/stellamaris/p1_6.jpg %}
 
 <div class="msr-narration">
-    <p>Several minutes later. A remote island near Okinawa’s mainland, “Hoshijima”…</p>
+    <p>Several minutes later. A remote island near Okinawa’s main island, “Hoshijima”…</p>
 </div>
 
 {% bubble Mizusaba %}
@@ -1151,7 +1151,7 @@ I wonder what sorta people live here, on an island full’a ruins…?
 {% bubble Mizusaba %}
 They’re pretty ordinary people, really — It’s just that they believe in a unique religion\~. They also had connections with the main island back when Hoshijima was still confined\~.
 
-My grandpa was the point of contact back then, and he’d sometimes ship any basic needs over by boat~.
+My grampa was the point of contact back then, and he’d sometimes ship any basic needs over by boat~.
 {% endbubble %}
 
 {% bubble Chiaki frown %}
@@ -1335,11 +1335,11 @@ Still, as someone who works as the secretary of the Student Council, I am extrem
 {% bubble Mizusaba %}
 Sorry to cut into your conversation, but yes, that’s what restoration means here~.
 
-I heard from my grandpa that in the olden days, this land was pretty well-developed, for reasons such as being located near the main island of Okinawa~♪
+I heard from my grampa that in the olden days, this land was pretty well-developed, for reasons such as being located near the main island of Okinawa~♪
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
-That does make sense. In fact, a location being near to the mainland is a major factor in its development.
+That does make sense. In fact, a location being near to the main island is a major factor in its development.
 {% endbubble %}
 
 {% bubble Mizusaba %}
@@ -1625,23 +1625,23 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Nii-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^26]
+Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^26]
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it all originates from when he was a pirate who ran rampage across the island.
+Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^38] Apparently, it all originates from when he was a pirate who ran rampage across the island.
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Nii-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
+Nii-nii is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Nii-sama was like everyone’s big brother in a sense, so I call him “Nii-sama”\~.
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^39]
 
-I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-sama about it\~.
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-nii about it\~.
 
 He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
 
-But technically, if it were possible, we probably could have entrusted this job to Nii-sama instead of you guys~.
+But technically, if it were possible, we probably could have entrusted this job to Nii-nii instead of you guys~.
 
 Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
 {% endbubble %}
@@ -1677,7 +1677,7 @@ Yes, since they apparently plan to build an ES branch of some sort in Okinawa. T
 
 Though, it’s more so a project to build an amusement park…[^28]
 
-However, it seems that there is no land available in the mainland to build such a park, so they are instead aiming for Hoshijima.
+However, it seems that there is no land available in the main island to build such a park, so they are instead aiming for Hoshijima.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
@@ -1695,7 +1695,7 @@ It’d be dangerous for anyone to get close… I think we’re better off having
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^26]
+Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^21]
 
 If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^30] It’s necessary to take these things into account.
 
@@ -1949,8 +1949,8 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^11]: Nii-sama, lit. “Older brother” with “sama”, a polite honorific used for names.
-[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It’s a slightly old-fashioned, formal pronoun to refer to oneself.
+[^11]: Okinawa is a prefecture in Japan, but it’s also its own island far away from the rest of Japan, so Okinawans refer to the rest of Japan as “mainland” (In this case, mainland’s language is referring to standard Japanese). Okinawans also have their own history and culture separate from the Japan mainland. Read more <a href="https://en.wikipedia.org/wiki/Okinawa_Prefecture" target="_blank">here</a>.
+[^12]: Mizusaba uses the 吾 (wa~) first-person pronoun to refer to himself. It’s a slightly old-fashioned, formal pronoun to refer to oneself. He also speaks with a lot of tildes (~), and usually ends his sentences with <em>sa~</em> (an Okinawan dialect).
 [^13]: Mizusaba has no character model in the story. Since his name originates from a shark, I’ve decided to use a shark icon for the translation, so that he’s identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^14]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
 [^15]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
@@ -1974,3 +1974,8 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^33]: Onii-chan, as in “big brother”.
 [^34]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
 [^35]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.
+[^36]: “Haitai” is how Okinawan women say “hello”, whereas “haisai” is how Okinawan men say it. “Haitai” sounds softer between the two.
+[^37]: Mizusaba says 汝 (na~) when saying “you”, which is an old-fashioned second-person pronoun.
+[^38]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
+[^39]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to his grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
+[^40]: Okinawa prefecture consists of a huge island and many small islands surrounding it. The huge island is referred to as “(Okinawa) main island”.

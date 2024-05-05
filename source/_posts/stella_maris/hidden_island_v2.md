@@ -68,7 +68,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 {% img /img/es/eventstory/stellamaris/p1_6.jpg %}
 
 <div class="msr-narration">
-    <p>Several minutes later. A remote island near Okinawa’s mainland, “Hoshijima”…</p>
+    <p>Several minutes later. A remote island near Okinawa’s main island, “Hoshijima”…</p>
 </div>
 
 {% bubble Mizusaba %}
@@ -258,23 +258,23 @@ But I feel as though someone is watching us—
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Nii-sama” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
+Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Yep\~. Well, “Oni” in Okinawa would be my grandpa, though\~. Apparently, it all originates from when he was a pirate who ran rampage across the island.
+Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^6] Apparently, it all originates from when he was a pirate who ran rampage across the island.
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
-Nii-sama is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
+Nii-nii is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Nii-sama was like everyone’s big brother in a sense, so I call him “Nii-sama”\~.
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^7]
 
-I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-sama about it\~.
+I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-nii about it\~.
 
 He’s gone to the US now, and nobody can reach him, so there’s not much anyone can do there.
 
-But technically, if it were possible, we probably could have entrusted this job to Nii-sama instead of you guys~.
+But technically, if it were possible, we probably could have entrusted this job to Nii-nii instead of you guys~.
 
 Ah, actually, though — This request involves religion, so maybe it wouldn’t have been a job for him? Huh, I wonder…?
 {% endbubble %}
@@ -284,7 +284,7 @@ If I may interject — with the exception of Kanata, we aren’t experts in reli
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^6] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^8] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -308,13 +308,13 @@ It makes me happy to see his compassion for friendship, but… why is it that I 
 {% bubble Shinobu northinking %}
 Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
 
-Though, it’s more so a project to build an amusement park…[^7]
+Though, it’s more so a project to build an amusement park…[^9]
 
-However, it seems that there is no land available in the mainland to build such a park, so they are instead aiming for Hoshijima.
+However, it seems that there is no land available in the main island to build such a park, so they are instead aiming for Hoshijima.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^8]
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^10]
 
 While building the park, they may remove all the unusable ruins, too.
 
@@ -384,6 +384,8 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^3]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^6]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
-[^7]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
-[^8]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^6]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
+[^7]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to his grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
+[^8]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
+[^9]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
+[^10]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

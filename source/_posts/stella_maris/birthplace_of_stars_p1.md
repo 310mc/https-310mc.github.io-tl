@@ -79,7 +79,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 {% img /img/es/eventstory/stellamaris/p2_1.jpg %}
 
 <div class="msr-narration">
-    <p>Next day. Okinawa mainland, at the ES Okinawa branch…</p>
+    <p>Next day. Okinawa main island, at the ES Okinawa branch…</p>
 </div>
 
 {% bubble Tetora curious %}
@@ -301,7 +301,7 @@ Sorry. Our project’s not really going so well, so I guess I was a little on ed
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-The project isn’t going well? That can’t be true, can it? I mean, you’ve built some kind of ES branch on the mainland—
+The project isn’t going well? That can’t be true, can it? I mean, you’ve built some kind of ES branch on Okinawa’s main island—
 {% endbubble %}
 
 {% bubble Eichi frown %}
@@ -541,7 +541,7 @@ I didn’t mean to do that at all, though\~. Sorry, okay? It’s just a joke, re
 {% endbubble %}
 
 {% bubble Konata frown %}
-No, I’m aware you mean no harm. As someone from the mainland, you have no obligation to be concerned with our affairs…
+No, I’m aware you mean no harm. As someone from the main island, you have no obligation to be concerned with our affairs…
 
 Yet here you are, involving yourself— No, <em>cooperating</em> with us. It’s unthinkable that I’d ever see that as a burden, when I should be showing you gratitude.
 {% endbubble %}
@@ -559,7 +559,7 @@ erm… i wanted to ask, mizusaba-san. what sort of [relationship] do you have wi
 {% bubble Mizusaba %}
 Mm? Mm~, friends, I guess?
 
-Ever since my grandpa strained his back, I’ve taken on the job of transporting supplies to Hoshijima~.
+Ever since my grampa strained his back, I’ve taken on the job of transporting supplies to Hoshijima~.
 
 That’s part of why I’m the one taking care of you folks, because I’m kinda the one responsible for Hoshijima nowadays~.
 
@@ -601,7 +601,7 @@ ah— i am so sorry, i got too deep into our conversation.
 {% endbubble %}
 
 {% bubble Mizusaba %}
-No worries at all~. Stuff like this gets harder to say if you lose your chance to say it.
+No worries at all~.[^6] Stuff like this gets harder to say if you lose your chance to say it.
 
 It’s best to talk about important matters as soon as possible, rather than later~… No matter what.
 {% endbubble %}
@@ -837,7 +837,7 @@ The religion from Shinkai-dono’s household has to do with meteorites?
 {% bubble Kanata smileexplain %}
 yes~ we [purify] the [evil things] that were assumed to have spilled out from the [meteorite], and heal those who become [ill] from it.
 
-we were [used] for those acts, and so eventually became worshipped as [gods] for it. that was how it all [began].[^6]
+we were [used] for those acts, and so eventually became worshipped as [gods] for it. that was how it all [began].[^7]
 
 there are several [theories] to it, though~ it is a [pretty old] story, and it has not been [recorded] in any actual [texts].
 {% endbubble %}
@@ -1017,7 +1017,7 @@ It’s as Kanata says. You aren’t in the wrong at all, Konata-kun.
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
-Ossu. We’re shooting stars.[^7] It’s our duty to make dreams come true.
+Ossu. We’re shooting stars.[^8] It’s our duty to make dreams come true.
 
 That dream of yours deserves to be acknowledged. And we’d like you to let us help make that dream into a reality, Konata-kun.
 {% endbubble %}
@@ -1162,5 +1162,6 @@ So please, I beg you — Please save us.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
 [^4]: The time-point Eichi is referring to is March, as that’s the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>.
 [^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.
-[^6]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
-[^7]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
+[^6]: Mizusaba says <em>nankurunai sa</em>, which is an Okinawan saying that means “as long as you do the right thing, things will work out somehow”.
+[^7]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
+[^8]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.

@@ -155,6 +155,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="/img/es/idolstory/banner/ibukiidolstory1.jpg"
+            alt="Ibuki Taki Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/ibuki_1" class="storyName" target="_blank">
+        <span>Ibuki Taki Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/idolstory/banner/ibukiidolstory2.jpg"
             alt="Ibuki Taki Idol Story 2"
         />

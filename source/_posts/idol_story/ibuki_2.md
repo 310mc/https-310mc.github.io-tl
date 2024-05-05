@@ -80,7 +80,7 @@ You can see Ibuki Taki’s profile on the <a href="https://ensemble-stars.fandom
 </div>
 
 {% bubble Tetora smileconfident %}
-Wo-oh, wo-oh~♪
+<em>Wo-oh, wo-oh~♪</em>
 {% endbubble %}
 
 {% bubble Hiiro nod %}
@@ -88,11 +88,11 @@ We’ve got this~! Karate Club!
 {% endbubble %}
 
 {% bubble Tetora grin %}
-Passionately, passionately invigorated~♪
+<em>Passionately, passionately invigorated~♪</em>
 {% endbubble %}
 
 {% bubble Hiiro nod %}
-That’s the energy that the power of fate gives me~♪
+<em>That’s the energy that the power of fate gives me~♪</em>
 {% endbubble %}
 
 {% bubble Tetora sighfrown %}
@@ -164,7 +164,7 @@ Don’t “mhm” me. I’m not complimenting you. I know I shouldn’t be the o
 {% bubble Ibuki grin %}
 Well, that’s ‘cause it’s our first time meeting each other~. Nyahaha.
 
-I’m Taki Ibuki, born in Okinawa, and raised in the US.
+I’m Taki Ibuki, born in Okinawa, and grew up in the US.
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -194,7 +194,7 @@ I did hear ‘bout the vigilante group’s boss being a man called “Oni”. I 
 {% endbubble %}
 
 {% bubble Ibuki smilesoft %}
-Well, it wasn’t just me, my whole family was called “Oni”, you see\~. The Oni that people feared the most is likely not me, but my grandpa\~.[^7]
+Well, it wasn’t just me, my whole family was called “Oni”, you see\~. The Oni that people feared the most is likely not me, but my grampa\~.[^7]
 
 Also, I wasn’t thinking of taking revenge or anything\~. That’s too old-fashioned for modern times, and it’s apparently forbidden by law nowadays\~.
 {% endbubble %}
@@ -220,7 +220,7 @@ You shouldn’t think of yourselves as the standard for everything~, Mr. Japanes
 {% bubble Ibuki nod %}
 Ah\~, sorry for getting in your way\~. It’s a bad habit of mine\~. I somehow can’t help but try to have my own way with everything.
 
-I can’t really read the room, see? Nyahahaha.
+I can’t really read the room, y’see? Nyahahaha.
 {% endbubble %}
 
 {% bubble Tetora glare %}
@@ -386,7 +386,7 @@ So bye-byeee~…♪ *<th>(waves)</th>*
 {% endbubble %}
 
 {% bubble Ibuki grin %}
-Nyahaha\~. Japan’s number one Momotarou-san; if you wanna exterminate me, then you gotta cross the sea until you reach Onigashima island\~♪[^12]
+Nyahaha\~. Japan’s number one Momotarō-san; if you wanna exterminate me, then you gotta cross the sea until you reach Onigashima island\~♪[^12]
 {% endbubble %}
 
 {% bubble Hiiro serious %}
@@ -405,7 +405,38 @@ A demon who attacks anyone he passes by, maybe…?[^13] I’m not quite sure, bu
 It appears that a pretty troublesome person has got their eyes on you, Buchou.
 {% endbubble %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+## Ibuki Story Directory 
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/ibukiidolstory1.jpg"
+            alt="Ibuki Taki Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/ibuki_1" class="storyName" target="_blank">
+        <span>Ibuki Taki Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/ibukiidolstory2.jpg"
+            alt="Ibuki Taki Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/ibuki_2" class="storyName" target="_blank">
+        <span>Ibuki Taki Idol Story 2</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
+<div toc>{% btn /idol_story/ibuki_1,, arrow-left, Ibuki Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
 

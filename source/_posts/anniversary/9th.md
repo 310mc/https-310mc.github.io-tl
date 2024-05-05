@@ -87,7 +87,7 @@ So about the new song we'll perform at the anniversary live; the lyrics are just
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-Huh? Is it not the “the more passionate we get” part? I also heard Morisawa-dono talk about the lyrics before, so~…?
+Huh? Is it not the “the more passionate we become” part? I also heard Morisawa-dono talk about the lyrics before, so~…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

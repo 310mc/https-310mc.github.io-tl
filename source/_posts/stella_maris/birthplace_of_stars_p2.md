@@ -235,7 +235,7 @@ That’s how mighty and powerful his existence was; even rotting won’t be enou
 
 When the Priest was still nothing but a loyal subject to God, God made his hometown prosper as a reward for his loyalty.
 
-Due to that, and perhaps in contribution to being so near to the mainland, as well — Hoshijima received its first and last prosperity.
+Due to that, and perhaps in contribution to being so near to Okinawa’s main island, as well — Hoshijima received its first and last prosperity.
 
 Those buildings across the island that became nothing but ruins — They were built during that time.
 
@@ -321,7 +321,7 @@ But just look at us now. To this very day, the stars in the sky and our dreams a
 {% bubble Chiaki awkward %}
 <th>(Uh-oh… I wound up talking with Tenshouin for such a long time that time passed right by before I knew it.)</th>
 
-<th>(There’s something we need to do in the mainland starting tomorrow, so we’re staying over in a ryokan instead of going back to Hoshijima—)</th>
+<th>(There’s something we need to do in the main island starting tomorrow, so we’re staying over in a ryokan instead of going back to Hoshijima—)</th>
 
 <th>(But I accidentally almost headed to the port instead because I had forgotten about that, so I ended up returning back here much later than intended.)</th>
 {% endbubble %}
@@ -1101,7 +1101,7 @@ I do somewhat admire what they do as well, but… I have a duty to lead all the 
 {% endbubble %}
 
 {% bubble Mizusaba %}
-That’s not a responsibility to throw on a kid, though\~? My grandpa likes to lead people, so why not leave that job to elders with free time like him\~?
+That’s not a responsibility to throw on a kid, though\~? My grampa likes to lead people, so why not leave that job to elders with free time like him\~?
 
 Plus, in reality, Konata-sama is just a symbol of the island; the actual management is done by the adults, right?
 {% endbubble %}
@@ -1173,11 +1173,11 @@ Mmrph… I cannot stand how I can only ever be protected. I want to become an ad
 {% bubble Mizusaba %}
 No need to be in a rush\~, we have to take it nice and slow… Okay\~? ♪ Doesn’t matter if it’s human or fish, any living being has to go through that, y’know\~?
 
-Even the whale shark “Mizusaba” wasn’t huge from the start\~. When I was younger, I’d always rely on Grandpa and Nii-sama\~.
+Even the whale shark “Mizusaba” wasn’t huge from the start\~. When I was younger, I’d always rely on Grampa and Nii-nii\~.
 {% endbubble %}
 
 {% bubble Konata %}
-Mm… The way you and I look right now is surely the same relationship that Hoshijima and the Okinawa mainland have.
+Mm… The way you and I look right now is surely the same relationship that Hoshijima and the Okinawa main island have.
 
 Being spoiled and pampered while carried by a large being—
 {% endbubble %}
@@ -1397,7 +1397,7 @@ Since they had been confined to their land for such a long time, it must feel li
 {% endbubble %}
 
 {% bubble Tori curious %}
-But why did Ryuseitai do that? Why’d they transport everyone to the mainland on a ship…?
+But why did Ryuseitai do that? Why’d they transport everyone to Okinawa’s main island on a ship…?
 
 We told them that we’ll help them out however we can, so we requested an influential person to get them a ship for this stage…
 
@@ -1433,7 +1433,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 {% bubble Mizusaba %}
 <th>(Mhm, mhm. Looks like everything’s going well so far\~. Everyone in Ryuseitai is sparkling just like the stars you see above the ocean in the night\~♪)</th>
 
-<th>(Nyahaha. This gigantic ship my grandpa took out from his warehouse — The “Mizusaba”, from his pirate days… I’m so glad to see that it’s moving just fine~.)</th>[^12]
+<th>(Nyahaha. This gigantic ship my grampa took out from his warehouse — The “Mizusaba”, from his pirate days… I’m so glad to see that it’s moving just fine~.)</th>[^12]
 
 <th>(The “Mizusaba” is a ship that was modified to store whatever loot a pirate got his hands on — So it’s got a massive amount of space, unlike most typical ships.)</th>
 
@@ -1453,7 +1453,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 {% bubble Kanata grin %}
 “fufufu, surpriiise~♪”
 
-“you are all coming to the [okinawa mainland] with us.”
+“you are all coming to the [okinawa’s main island] with us.”
 
 “i am sure this is a [world] none of you know, as you had been in [hoshijima] for a long, long time.”
 
