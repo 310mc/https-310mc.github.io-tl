@@ -835,7 +835,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-“We first performed this song at the advertisement live show for Supervillains. Once that was done, Ryuseitai went through a power up—”[^6]
+“We first performed this song at the advertisement live show for ‘Supervillains’. Once that was done, Ryuseitai went through a power up—”[^6]
 
 “Where we then decided to all be the leaders of our unit, and perform activities that make the best use of our unique, individual traits.”
 {% endbubble %}

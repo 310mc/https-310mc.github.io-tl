@@ -346,7 +346,7 @@ permalink: kokoro_de_pittari_ai_ni_naru/
 
 ## Translation Notes 
 
-<b>(1.)</b> <em>Kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. I’d like to break down what each part literally means:
+<b>(1.)</b> <em>Kokoro de pittari ai ni naru</em> is a figurative song title, translated as “Tightly close within our hearts, love is formed” in my translation. It can also be rearranged to say “Form love tightly close within our hearts”. I’d like to break down what each part literally means:
 
 - <em>kokoro de:</em> lit. with heart. There is no given possessive pronoun, so it could be “our hearts”, “your heart”, or “my heart”. <em>de</em> could be “with”, “within”, or even “by”.
 
@@ -356,7 +356,7 @@ permalink: kokoro_de_pittari_ai_ni_naru/
 
 With all of this combined including the full lyrics, I decided to lean towards the image of “Coming into contact within/inside the (listener’s) heart very tightly. In doing so, love is formed”. I wanted to focus on how Chiaki wishes to be by the listener’s side on an emotional level, i.e. emotionally nestling close to someone who feels tired after a long day, and being by their side via the heart rather than through physical contact.
 
-<b>(2.)</b> Japanese fans are also not 100% sure what exactly the song title means, and mainly explain their image of it through “vibes”. Hopefully, we can eventually get an explanation of the title’s meaning. Either way, please feel free to interpret it however you deem fitting for the song’s message!
+<b>(2.)</b> Japanese fans are also not 100% sure what exactly the song title means, and mainly explain their image of it through “vibes”. <s>Hopefully, we can eventually get an explanation of the title’s meaning.</s> <b>2024/4/28 EDIT:</b> The lyricist talked about the song’s title in a music stream, saying that listening to it would make you feel, “Ah~ Kokoro de pittaru ai ni naru~” without much explanation beyond that. Nonetheless, please feel free to interpret it however you deem fitting for the song’s message! 
 
 <b>(3.)</b> Chiaki also briefly talks about his solo in the <a href="/ryuseitai_album_trip/#MC-5" target="_blank">Album Commemoration Live</a>, MC 5.
 

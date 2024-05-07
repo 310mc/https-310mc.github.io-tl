@@ -79,7 +79,7 @@ I wanted to let you know about it, since you've advised me a lot throughout the 
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
-            Oh! I almost forgot to *actually* say it. The title is — "Supervillains"!
+            Oh! I almost forgot to *actually* say it. The title is — ‘Supervillains’!
 
             The documents they showed me finally removed the "tentative" disclaimer from the title. The moment I saw that, I felt emotional, like "ah, at last!"
 			{% endbubble %}

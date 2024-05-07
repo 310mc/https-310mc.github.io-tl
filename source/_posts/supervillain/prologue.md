@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -64,7 +64,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 {% img /img/es/eventstory/supervillain/prologue_1.jpg %}
 
 <div class="msr-narration">
-    <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: Supervillains…</p>
+    <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: ‘Supervillains’…</p>
 </div>
 
 {% bubble Tetora surprised0 %}

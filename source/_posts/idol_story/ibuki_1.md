@@ -108,7 +108,7 @@ Right, see ya, Mr. Security Guard.[^8] Good luck; make sure to do your best at w
 
 Nyahaha… Nee-nee, are you okay~?[^9]
 
-Sorry\~, I almost slipped on the bear’s blood I left over there\~.
+Sorry\~, it looks like you almost slipped on the bear’s blood I left over there\~.
 
 You have to be careful\~. Well, I shouldn’t be the one to say that, huh\~? Nyahahaha\~♪
 

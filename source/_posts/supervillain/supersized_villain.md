@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -1192,7 +1192,7 @@ They have no chance of opposing Crimson Production with the way they are right n
 {% bubble Tetora frown %}
 But it’s not even that anymore. Right now, Crimson Production is swelling with power by winning over everyone, including the locals who hate ES, and conspiring with them.
 
-At this point, even the former vigilantes from Oni have joined them.
+At this point, many of the former vigilantes from Oni have also joined them.
 
 In other words… Crimson Production, once hated and defeated as an evil force in Okinawa, is now seen as justice within the region.
 
@@ -1329,7 +1329,7 @@ What do you mean…?
 {% endbubble %}
 
 {% bubble Chiaki smileexplain %}
-It’s the same concept as Supervillains. Although, saying that wouldn’t make enough sense to you, since you’ve had signals cut off for so long, and have been completely isolated from the rest of the world in terms of information.
+It’s the same concept as ‘Supervillains’. Although, saying that wouldn’t make enough sense to you, since you’ve had signals cut off for so long, and have been completely isolated from the rest of the world in terms of information.
 
 To put short, in a blockbuster or a crossover with multiple heroes, it’s necessary to unite the justice of all the heroes who appear in the story.
 
@@ -1341,13 +1341,13 @@ Well, yeah, that’s how it is. That’s why it’s so difficult to make those s
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-Haha… Indeed, thanks to that, even the blockbuster Supervillains has reached a deadlock.
+Haha… Indeed, thanks to that, even the blockbuster ‘Supervillains’ has reached a deadlock.
 {% endbubble %}
 
 {% bubble Tetora idle %}
 Oh, I didn’t know… I’ve been so busy with my own work that I haven’t had the chance to catch up on everything.
 
-Is everything going to be okay? Supervillains is referring to the blockbuster that we’re going to be a part of, right?
+Is everything going to be okay? ‘Supervillains’ is referring to the blockbuster that we’re going to be a part of, right?
 
 I saw in the newspaper that they finally announced the title, but…?
 

@@ -190,11 +190,11 @@ But in that corporation, there were also a lotta people who once belonged to a v
 
 Are you by any chance here to take revenge on their behalf or somethin’?
 
-I did hear ‘bout the vigilante group’s boss being a man called “Oni”. I didn’t think he’d be a young boy, though.
+I did hear ‘bout the vigilante group’s boss being a man who was called “Oni”. I didn’t think he’d be a young boy, though.
 {% endbubble %}
 
 {% bubble Ibuki smilesoft %}
-Well, it wasn’t just me, my whole family was called “Oni”, you see\~. The Oni that people feared the most is likely not me, but my grampa\~.[^7]
+Well, that’s ‘cause it wasn’t just me, my whole family was called “Oni”\~. The Oni that people feared the most is likely not me, but my grampa\~.[^7]
 
 Also, I wasn’t thinking of taking revenge or anything\~. That’s too old-fashioned for modern times, and it’s apparently forbidden by law nowadays\~.
 {% endbubble %}

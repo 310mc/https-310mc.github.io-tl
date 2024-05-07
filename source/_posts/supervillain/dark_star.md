@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -79,7 +79,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 </div>
 
 {% bubble Chiaki smile %}
-The worldbuilding of the new show, Supervillains, seems to have finally been set in stone!
+The worldbuilding of the new show, ‘Supervillains’, seems to have finally been set in stone!
 
 The decision looks to be absolutely confirmed this time for sure.
 {% endbubble %}
@@ -103,7 +103,7 @@ Haha… I knew from the very beginning that there would be some trouble with the
 
 Nonetheless, this blockbuster in which various famous heroes, whether local or overseas, gather to fight…
 
-Am I right to assume that the title of said project has been confirmed to be “Supervillains”?
+Am I right to assume that the title of said project has been confirmed to be ‘Supervillains’?
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
@@ -169,7 +169,7 @@ I’m certain that deep down, he also thinks that you are the cutest in the whol
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Right, so. We went extremely off-topic for a moment, but — Supervillains will feature all of Japan’s world-famous tokusatsu heroes.
+Right, so. We went extremely off-topic for a moment, but — ‘Supervillains’ will feature all of Japan’s world-famous tokusatsu heroes.
 
 That was part of the original plan, at least.
 
@@ -243,7 +243,7 @@ if there are no heroes in this world, then *we* will become the heroes.
 {% bubble Chiaki serious %}
 Yeah… While we do tend to get beat up in the face of reality… That’s the sort of ambition we, Ryuseitai, are working under.
 
-That’s exactly why we’re the one group that can’t, at any cost, abandon Supervillains, as it also has been suffering countless injuries in the face of reality.
+That’s exactly why we’re the one group that can’t, at any cost, abandon ‘Supervillains’, as it also has been suffering countless injuries in the face of reality.
 
 This is a matter of our identity.
 {% endbubble %}
@@ -303,7 +303,7 @@ Yeah… I’m not sure I can emotionally handle that kind of thing right now.
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called “Supervillains”.
+Anyway, during the time Comet Show happened, we agreed to appear in the tokusatsu show that is now called ‘Supervillains’.
 
 Therefore, it would be against my sense of duty to leave now. And personally, I want to give it my all and see through the end, as well.
 
@@ -349,7 +349,7 @@ To be honest, I feel as though only you are particular about that, Morisawa-dono
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-About that… All the heroes in Supervillains are actually supposed to be villains in the story.
+About that… All the heroes in ‘Supervillains’ are actually supposed to be villains in the story.
 {% endbubble %}
 
 {% bubble Kanata curious %}
@@ -361,7 +361,7 @@ I haven’t properly examined all the documentation on its worldbuilding to full
 
 But I heard that justice and evil are reversed in the story’s world, due to some sort of final boss that appears in the story.
 
-The world within Supervillains is ruled by evil. In there, justice becomes evil and evil becomes justice.
+The world within ‘Supervillains’ is ruled by evil. In there, justice becomes evil and evil becomes justice.
 
 The heroes in the story are predestined to be hunted as evil in that world.
 {% endbubble %}
@@ -375,7 +375,7 @@ Yep. For us viewers who are outside of that world, the tokusatsu heroes are obvi
 
 But in the story, they are treated as evil.
 
-Normally, when a hero appears, the general public applauds them, but in the world of Supervillains, they scream in fear.
+Normally, when a hero appears, the general public applauds them, but in the world of ‘Supervillains’, they scream in fear.
 
 The protagonist of the story will be the very first hero in a world where values have been overturned, when they realize that something is wrong about their world.
 
@@ -601,11 +601,11 @@ What the…!? What is this…!?
 {% bubble Tetora vside %}
 —An intruder?[^3]
 
-Is it another one of those random local punks causing a ruckus around the area again? Like those Oni descendants[^4] or something—
+Is it another one of those random local punks causing a ruckus around the area again? Like that descendant of Oni or something—[^4]
 
-No? They’ve been relatively quiet since their boss left for the US? I hear there’s still some guys left over around here, though?
+No? They’ve been relatively quiet since their boss left for the US? But there’s been talk that there’s still some guys left over around here?
 
-There have been rumors that they’re regaining power, while the local powerhouses have been flattened across the board in SS—
+There’s also rumors that they’re regaining power, while the local powerhouses have been flattened across the board in SS—
 
 Hmmm… Well, even if they’re just a bunch of troublemakers, we should be on the lookout just in case.
 

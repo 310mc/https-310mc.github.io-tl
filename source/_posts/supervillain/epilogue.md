@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -150,17 +150,17 @@ My beloved ninjas were originally supported by fans who like that sort of thing,
 {% bubble Tetora smile %}
 Ossu. It seems like RB just so happened to match that sorta public demand, since it was workin’ in that direction.
 
-Oh, and not to mention that Supervillains’s influence really did end up being crazy.
+Oh, and not to mention that ‘Supervillains’ influence really did end up being crazy.
 
-We appeared in a promotional event for Supervillains the other day, for the purpose of denouncing Crimson Production.
+We appeared in a promotional event for ‘Supervillains’ the other day, for the purpose of denouncing Crimson Production.
 
-That’s also why we now perform under the name “RB” instead of “Ryuseitai” in Supervillains’ production, as well.
+That’s also why we now perform under the name “RB” instead of “Ryuseitai” in ‘Supervillains’ production, as well.
 
-It’s still written as such in our contract, so whenever Supervillains sells well or becomes a topic, RB’s fame grows, too.
+It’s still written as such in our contract, so whenever ‘Supervillains’ sells well or becomes a topic, RB’s fame grows, too.
 {% endbubble %}
 
 {% bubble Kanata norsmile2 %}
-supervillains is extremely [popular], after all, even though only the first part has been [broadcasted] so far.
+‘Supervillains’ is extremely [popular], after all, even though only the first part has been [broadcasted] so far.
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}

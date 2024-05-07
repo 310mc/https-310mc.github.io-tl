@@ -10,7 +10,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
 <div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
     <div class="info-area">
@@ -662,7 +662,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 {% img /img/es/eventstory/supervillain/supersizedvillainch13_1.jpg %}
 
 <div class="msr-narration">
-    <p>A week later. Within the city, at the Supervillains promotion concert venue…</p>
+    <p>A week later. Within the city, at the ‘Supervillains’ promotion concert venue…</p>
 </div>
 
 {% bubble Tetora smileexplain %}
@@ -694,7 +694,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 {% endbubble %}
 
 {% bubble Tetora niya %}
-“We are the embodiments of evil, who have come from the depths of the jet black darkness! We’re the unprecedented Supervillains! We are known as: RB, Ryuseitai Black!”
+“We are the embodiments of evil, who have come from the depths of the jet black darkness! We’re the unprecedented ‘Supervillains’! We are known as: RB, Ryuseitai Black!”
 
 “♪\~♪\~♪”
 {% endbubble %}
@@ -760,7 +760,7 @@ Exactly what a “transformation” is all about.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-Well, it works as a good rehearsal for the filming of Supervillains…
+Well, it works as a good rehearsal for the filming of ‘Supervillains’…
 {% endbubble %}
 
 {% bubble Midori nod2 %}
@@ -944,7 +944,7 @@ That’s what Crimson Production concluded, and that’s why they’re backing u
 
 They decided that this would be their shining moment, and invested all their money into us so that we may do what we want.
 
-They even became one of the biggest investors for the blockbuster Supervillains, which was in a deadlock prior to this.
+They even became one of the biggest investors for the blockbuster ‘Supervillains’, which was in a deadlock prior to this.
 
 Money may not be able to solve everything in the world, but there are a lot of problems that <em>can</em> be solved with money.
 {% endbubble %}
@@ -952,23 +952,23 @@ Money may not be able to solve everything in the world, but there are a lot of p
 {% bubble Chiaki idle %}
 Yeah, because having no money is the same as having no head. Though that also means that as long as you have a head, you can survive.
 
-Take Supervillains, for example. It had come to a halfway standstill due to the disputes of all parties involved, but it might start moving forward if a large amount of gasoline in the form of money is poured into it.
+Take ‘Supervillains’, for example. It had come to a halfway standstill due to the disputes of all parties involved, but it might start moving forward if a large amount of gasoline in the form of money is poured into it.
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
-Yeah, and it really did happen. Supervillains has regained enough vitality to hold a promotional event for the project like this.
+Yeah, and it really did happen. ‘Supervillains’ has regained enough vitality to hold a promotional event for the project like this.
 
 All thanks to the glorious Crimson Production, huh?
 {% endbubble %}
 
 {% bubble Chiaki idle %}
-Yeah, Crimson Production likely intends to use Supervillains itself as propaganda to crush ES.
+Yeah, Crimson Production likely intends to use ‘Supervillains’ itself as propaganda to crush ES.
 
 We should never underestimate fictional works. The influence of creative work on reality is massive.
 
 This is referring to the Showa era[^4], but… There was once a scary-looking actor who played the villain in a tokusatsu show, and he spoke about personal anecdotes where he made children cry even when he was simply walking around town.
 
-Within Supervillains, you could have an evil organization or monster that makes you think, “This is clearly meant to be ES.”
+Within ‘Supervillains’, you could have an evil organization or monster that makes you think, “This is clearly meant to be ES.”
 
 If you thoroughly depict them in an evil way, that impression will be imprinted on the public.
 {% endbubble %}
@@ -1012,7 +1012,7 @@ on the other hand, we can have him [atone] for the horrible things he has done t
 ## Chapter 15
 
 {% bubble Shinobu smilesoft %}
-Conveniently, the story in Supervillains and our current situation coincide perfectly.
+Conveniently, the story in ‘Supervillains’ and our current situation coincide perfectly.
 
 The allies of justice turn evil—
 
@@ -1022,7 +1022,7 @@ Evil becomes justice, villains become heroes, RB becomes Ryuseitai—
 {% endbubble %}
 
 {% bubble Shinobu smileexplain %}
-And so, we could say that we were simply playing the role of “heroes who had been tainted with evil” in real life, in line with the base setting of Supervillains.
+And so, we could say that we were simply playing the role of “heroes who had been tainted with evil” in real life, in line with the base setting of ‘Supervillains’.
 
 We shall force this into a factual truth, and convince society into accepting it.
 {% endbubble %}

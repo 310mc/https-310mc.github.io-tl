@@ -8,7 +8,7 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later…"
+description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 permalink: supervillain/
 ---
 
@@ -25,7 +25,7 @@ permalink: supervillain/
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -116,7 +116,7 @@ permalink: supervillain/
                 <div class="synopsis">
                 <em>While one advances towards a future that cannot be foretold—<br>
                 What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
-                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, Supervillains, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
+                Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
                     <div class="info-item season">
