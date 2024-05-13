@@ -11,7 +11,7 @@ tags:
 - Akira
 description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -462,6 +462,6 @@ I can’t do anything on my own! I’m too weak! I don’t have the capability t
 ## Translation Notes
 [^1]: In Japanese, the word for “distant” is <em>mizu-kusai</em>, lit. “watery”.
 [^2]: The word used here, <em>okochama</em>, typically means “mentally like a child”. It's the baby-talk version of the word <em>okosama</em>.
-[^3]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a> (No.1), and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a> (No.2).
+[^3]: Referring to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a> (No.1), and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a> (No.2).
 [^4]: In Japanese, they're playing shiritori. It goes: Chiaki → <em>seigi</em> (justice), Kaoru → <em>gingamu chekku</em> (gingham check), Kanata →  <em>kutsuu</em> (pain), <em>kurione</em> (clione), Chiaki →  <em>neko</em> (cat), <em>neko jarashi</em> (cat teaser), Kaoru → <em>shishi-odoshi</em>, Kanata → <em>shi</em> (which can mean “death”). Since Kaoru's word choices were uncommon, Chiaki's were basic, and Kanata's were negative, I tried to make it similar in the English version.
 [^5]: Originally, Kaoru says that Rei's bad at kanji conversion (tapping on the kanji/katakana you want to use when typing on the keyboard), which leads to Rei converting all the characters incorrectly in the message, like so: でど万ズの子とで話がアル (it should be デッドマンズのことで話がある）

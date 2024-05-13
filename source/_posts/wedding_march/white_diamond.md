@@ -15,7 +15,7 @@ tags:
 - Yuumasu
 description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1354,7 +1354,7 @@ Let’s focus on the meeting for now. We’ll work out the details ‘til we fin
 ## Translation Notes
 [^1]: A link to <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
 [^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu’s card</a>.
-[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea’s Atelier</a>.
-[^4]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
-[^5]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>.
+[^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea’s Atelier</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
+[^5]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^6]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.

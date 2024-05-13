@@ -465,19 +465,19 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="TBA" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Dot to Dot</a>
+                            <a href="TBA" id="">Dot to Dot</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Line to Line</a>
+                            <a href="TBA" id="">Line to Line</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Star Chart</a>
+                            <a href="TBA" id="">Star Chart</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="TBA" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -486,8 +486,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -495,8 +495,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -504,8 +504,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -513,8 +513,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

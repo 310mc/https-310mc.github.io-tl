@@ -12,7 +12,7 @@ tags:
 - Akira
 description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -849,7 +849,7 @@ and i have been trying to do [whatever] i [can] up until now. like performing [c
 {% endbubble %}
 
 {% bubble Shinobu northinking %}
-Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous school year.[^19]
+Ahh, yes. Apparently, a cleansing ceremony to prepare for construction was performed. I heard something like that at the end of the previous fiscal year.[^19]
 
 Huh, so that’s how that story links to our current situation…
 
@@ -1966,7 +1966,7 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^25]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan’s best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
 [^26]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^27]: Chiaki was speaking in polite Japanese (keigo) to Mizusaba.
-[^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
+[^28]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^29]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
 [^30]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
 [^31]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he’s a “tiny” Kanata.

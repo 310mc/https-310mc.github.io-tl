@@ -20,9 +20,9 @@ Shinobu wants to prove to Makoto that he can take care of the preparations for t
 
 This story is connected to the card [Growth ON AIR] Shinobu Sengoku.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> December 10, 2023</p>
+<p class="releasedate"><b>Story Release Date:</b> December 10, 2023</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -297,5 +297,5 @@ Roger that! We shall start with the greeting and title call first. Right then, I
 
 ## Translation Notes
 
-[^1]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Graduation" target="_blank">Graduation</a> and <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>. Shinobu is one of the candidates in the Student Council elections.
+[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Graduation" target="_blank">Graduation</a> and <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>. Shinobu is one of the candidates in the Student Council elections. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Youth_RADIO" target="_blank">Youth RADIO</a>.

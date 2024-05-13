@@ -223,15 +223,15 @@ permalink: gang/
                     <ul>
                         <li>
                             <span>Midnight Gangsters</span>
-                            <a href="#Midnight-Gangsters-1" id="none">1</a>
-                            <a href="#Midnight-Gangsters-2" id="none">2</a>
-                            <a href="#Midnight-Gangsters-3" id="none">3</a>
-                            <a href="#Midnight-Gangsters-4" id="none">4</a>
-                            <a href="#Midnight-Gangsters-5" id="none">5</a>
-                            <a href="#Midnight-Gangsters-6" id="none">6</a>
+                            <a href="#Midnight-Gangsters-1" id="">1</a>
+                            <a href="#Midnight-Gangsters-2" id="">2</a>
+                            <a href="#Midnight-Gangsters-3" id="">3</a>
+                            <a href="#Midnight-Gangsters-4" id="">4</a>
+                            <a href="#Midnight-Gangsters-5" id="">5</a>
+                            <a href="#Midnight-Gangsters-6" id="">6</a>
                         </li>
                         <li>
-                            <a href="#Epilogue" id="none">Epilogue</a>
+                            <a href="#Epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>

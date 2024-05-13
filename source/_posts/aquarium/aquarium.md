@@ -289,22 +289,22 @@ permalink: aquarium/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="aquarium_together" id="none">Going to the Aquarium Together</a>
+                            <a href="aquarium_together" id="">Going to the Aquarium Together</a>
                         </li>
                         <li>
-                            <a href="friends_together" id="none">Inviting Friends Together</a>
+                            <a href="friends_together" id="">Inviting Friends Together</a>
                         </li>
                         <li>
-                            <a href="hanging_out_together" id="none">Hanging Out Together</a>
+                            <a href="hanging_out_together" id="">Hanging Out Together</a>
                         </li>
                         <li>
-                            <a href="dream_together" id="none">What Dream Shall We Be Seeing Together</a>
+                            <a href="dream_together" id="">What Dream Shall We Be Seeing Together</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -313,8 +313,8 @@ permalink: aquarium/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -322,8 +322,8 @@ permalink: aquarium/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -331,8 +331,8 @@ permalink: aquarium/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -340,8 +340,8 @@ permalink: aquarium/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

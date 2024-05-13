@@ -17,7 +17,7 @@ description: "[ES!!] Translation of 9th Anniversary content."
 
 {% img /img/es/anniversary/9th/minitalk_ryuseitai1_1.jpg %}
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -72,6 +72,28 @@ I'll prove to all of ya that I'm number one! Try and come at me however you like
 
 {% bubble Tetora v2 %}
 Then I'll be the one take you on in a match as a challenger, Oogami-senpai! Let's clash head-on with everythin’ we've got~!
+{% endbubble %}
+
+{% img /img/es/anniversary/9th/kanatalogin.jpg %}
+
+{% bubble Keito %}
+Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
+{% endbubble %}
+
+{% bubble Kanata v2 %}
+i am not [spacing out]…? i was <em>puka puka</em>-ing to the sway of all the [penlights]~♪
+{% endbubble %}
+
+Keito & Kanata translation by <a href="https://citrinesea.github.io/main-sections/translations/other/9thanni.html" target="_blank">citrinesea</a>, proofreading by <a href="/about">310mc</a>.
+
+{% img /img/es/anniversary/9th/shinobulogin.jpg %}
+
+{% bubble Tori %}
+Ehehe, I spotted a whole bunch of *fine* fans on my way to the stage~♪
+{% endbubble %}
+
+{% bubble Shinobu smilesoft %}
+Ryuseitai shall not be beaten when it comes to that! ♪ I also caught sight of people holding an uchiwa fan of me![^1]
 {% endbubble %}
 
 ## LIMIT BREAK DREAMERS Ryuseitai Mini Talk
@@ -163,3 +185,7 @@ Huh? Is it not the “the more passionate we become” part? I also heard Morisa
 <hr>
 
 <div toc>{% btn /translations#Other,, star, Index %}</div>
+
+## Translation Notes
+
+[^1]: Uchiwa fans look like <a href="https://simple.wikipedia.org/wiki/Uchiwa" target="_blank">this</a>.

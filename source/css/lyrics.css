@@ -27,26 +27,36 @@ table.lyrics td.timestamp {
   padding-bottom: 7px;
 }
 
-table.lyrics .timestamp {
+.timestamp {
   color: #828282;
 }
 
-table.lyrics .tetora {
+.tetora {
   color: #302833;
 }
 
-table.lyrics .midori {
+.midori {
   color: #00533f;
 }
 
-table.lyrics .shinobu {
+.shinobu {
   color: #cf7e37;
 }
 
-table.lyrics .chiaki {
+.chiaki {
   color: #e60033;
 }
 
-table.lyrics .kanata {
+.kanata {
   color: #008db7;
+}
+
+@media (prefers-color-scheme: dark) {
+  .tetora {
+    color: #bba2c4;
+  }
+
+  .midori {
+    color: #0D9C79;
+  }
 }

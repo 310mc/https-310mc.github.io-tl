@@ -574,21 +574,21 @@ permalink: submarine/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="https://verdantgrove.dreamwidth.org/7838.html" id="none">Prologue</a>
+                            <a href="https://verdantgrove.dreamwidth.org/7838.html" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="ruthless_battlefield" id="none">Ruthless Battlefield, Okinawa</a>
+                            <a href="ruthless_battlefield" id="">Ruthless Battlefield, Okinawa</a>
                         </li>
                         <li>
-                            <a href="nirai_kanai" id="none">Nirai-Kanai</a>
+                            <a href="nirai_kanai" id="">Nirai-Kanai</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
-                            <a href="epilogue/#Chapter-1" id="none">1</a>
-                            <a href="https://verdantgrove.dreamwidth.org/17804.html" id="none">2</a>
-                            <a href="epilogue/#Chapter-3" id="none">3</a>
-                            <a href="https://verdantgrove.dreamwidth.org/18180.html" id="none">4</a>
-                            <a href="https://verdantgrove.dreamwidth.org/18520.html" id="none">5</a>
+                            <a href="epilogue/#Chapter-1" id="">1</a>
+                            <a href="https://verdantgrove.dreamwidth.org/17804.html" id="">2</a>
+                            <a href="epilogue/#Chapter-3" id="">3</a>
+                            <a href="https://verdantgrove.dreamwidth.org/18180.html" id="">4</a>
+                            <a href="https://verdantgrove.dreamwidth.org/18520.html" id="">5</a>
                         </li>
                     </ul>
                 </div>
@@ -597,8 +597,8 @@ permalink: submarine/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -606,8 +606,8 @@ permalink: submarine/
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -615,8 +615,8 @@ permalink: submarine/
                         <div class="mt-header">Souma Kanzaki</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -624,8 +624,8 @@ permalink: submarine/
                         <div class="mt-header">Kuro Kiryu</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->

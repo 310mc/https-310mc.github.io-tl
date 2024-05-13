@@ -360,15 +360,15 @@ permalink: colorful_autumn/
                     <ul>
                         <li>
                             <span>Chapter Index</span>
-                            <a href="#Chapter-1" id="none">1</a>
-                            <a href="#Chapter-2" id="none">2</a>
-                            <a href="#Chapter-3" id="none">3</a>
-                            <a href="#Chapter-4" id="none">4</a>
-                            <a href="#Chapter-5" id="none">5</a>
-                            <a href="#Chapter-6" id="none">6</a>
-                            <a href="#Chapter-7" id="none">7</a>
-                            <a href="#Chapter-8" id="none">8</a>
-                            <a href="#Chapter-9" id="none">9</a>
+                            <a href="#Chapter-1" id="">1</a>
+                            <a href="#Chapter-2" id="">2</a>
+                            <a href="#Chapter-3" id="">3</a>
+                            <a href="#Chapter-4" id="">4</a>
+                            <a href="#Chapter-5" id="">5</a>
+                            <a href="#Chapter-6" id="">6</a>
+                            <a href="#Chapter-7" id="">7</a>
+                            <a href="#Chapter-8" id="">8</a>
+                            <a href="#Chapter-9" id="">9</a>
                         </li>
                     </ul>
                 </div>

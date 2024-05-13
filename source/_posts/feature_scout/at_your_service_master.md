@@ -19,9 +19,9 @@ Chiaki offers to help take care of Tori…
 
 This story is connected to the card [Substitute Attendant] Chiaki Morisawa.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> November 10, 2022</p>
+<p class="releasedate"><b>Story Release Date:</b> November 10, 2022</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -422,6 +422,6 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
 
 ## Translation Notes
 
-[^1]: This is a reference to <a href="https://hyenahunt.tumblr.com/post/682703030969319424/saga-release-7" target="_blank">Saga</a>.
+[^1]: Referring to <a href="https://hyenahunt.tumblr.com/post/682703030969319424/saga-release-7" target="_blank">Saga</a>.
 [^2]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Tenka_Muteki%E2%98%86Meteorangers!_(Song)" target="_blank">this Ryuseitai song</a>.
 [^3]: Chara-ben are <a href="https://en.wikipedia.org/wiki/Kyaraben" target="_blank">lunchboxes with meals shaped to look cute</a>, and are typically made for kids.

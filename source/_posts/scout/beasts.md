@@ -236,16 +236,16 @@ permalink: beasts/
                     <ul>
                         <li>
                             <span>Center of the World</span>
-                            <a href="#Center-of-the-World-1" id="none">1</a>
-                            <a href="#Center-of-the-World-2" id="none">2</a>
-                            <a href="#Center-of-the-World-3" id="none">3</a>
-                            <a href="#Center-of-the-World-4" id="none">4</a>
-                            <a href="#Center-of-the-World-5" id="none">5</a>
-                            <a href="#Center-of-the-World-6" id="none">6</a>
-                            <a href="#Center-of-the-World-7" id="none">7</a>
+                            <a href="#Center-of-the-World-1" id="">1</a>
+                            <a href="#Center-of-the-World-2" id="">2</a>
+                            <a href="#Center-of-the-World-3" id="">3</a>
+                            <a href="#Center-of-the-World-4" id="">4</a>
+                            <a href="#Center-of-the-World-5" id="">5</a>
+                            <a href="#Center-of-the-World-6" id="">6</a>
+                            <a href="#Center-of-the-World-7" id="">7</a>
                         </li>
                         <li>
-                            <a href="#Epilogue" id="none">Epilogue</a>
+                            <a href="#Epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>              

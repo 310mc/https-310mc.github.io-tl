@@ -11,7 +11,7 @@ tags:
 - Akira
 description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -827,8 +827,9 @@ It is because it is midday; this is the time for vampires to sleep… Also, you 
 </div>
 
 ## Translation Notes
+
 [^1]: In Japanese, <em>su-maa-to</em> (smart) actually means slim/slender (hence, Souma wishing it to be simplified like its name), but Kaoru explains that it means the English meaning of “smart”, not the Japanese version. These types of words are called <em><a href="https://en.wikipedia.org/wiki/Wasei-eigo" target="_blank">wasei-eigo</a></em>.
-[^2]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/WANTED!!!" target="_blank">WANTED!!!</a>.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/WANTED!!!" target="_blank">WANTED!!!</a>.
 [^3]: Rei speaks in his ore-speech here.
-[^4]: This is referring to what happened in <a href="https://kotofucius.github.io/2017/kiseki1-summer-live/" target="_blank">Summer Live</a>.
+[^4]: Referring to what happened in <a href="https://kotofucius.github.io/2017/kiseki1-summer-live/" target="_blank">Summer Live</a>.
 [^5]: 斑 (Madara) means “spots/speckles.” 斑 can also be read as <em>mura</em>, which means “capricious/fickle.” Rei made a double word play on Madara’s name with the same kanji.

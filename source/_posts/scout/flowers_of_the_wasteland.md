@@ -233,17 +233,17 @@ hidden: true
                     <ul>
                         <li>
                             <span>Remains of a Dream</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
+                            <a href="TBA" id="">1</a>
+                            <a href="TBA" id="">2</a>
+                            <a href="TBA" id="">3</a>
+                            <a href="TBA" id="">4</a>
+                            <a href="TBA" id="">5</a>
+                            <a href="TBA" id="">6</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
+                            <a href="TBA" id="">1</a>
+                            <a href="TBA" id="">2</a>
                         </li>
                     </ul>
                 </div>

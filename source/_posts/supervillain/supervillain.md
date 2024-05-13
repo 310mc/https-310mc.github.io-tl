@@ -454,19 +454,19 @@ permalink: supervillain/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="dark_star" id="none">Dark Star</a>                          
+                            <a href="dark_star" id="">Dark Star</a>                          
                         </li>
                         <li>
-                            <a href="supersized_villain" id="none">Supersized Villain (Chapter 1–8)</a>          
+                            <a href="supersized_villain" id="">Supersized Villain (Chapter 1–8)</a>          
                         </li>
                         <li>
-                            <a href="supersized_villain_p2" id="none">Supersized Villain (Chapter 9–15)</a>          
+                            <a href="supersized_villain_p2" id="">Supersized Villain (Chapter 9–15)</a>          
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -475,8 +475,8 @@ permalink: supervillain/
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/tetora_1" id="none">Part 1</a>
-                            <a href="minitalk/tetora_2" id="none">Part 2</a>
+                            <a href="minitalk/tetora_1" id="">Part 1</a>
+                            <a href="minitalk/tetora_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -484,8 +484,8 @@ permalink: supervillain/
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="none">Part 1</a>
-                            <a href="minitalk/shinobu_2" id="none">Part 2</a>
+                            <a href="minitalk/shinobu_1" id="">Part 1</a>
+                            <a href="minitalk/shinobu_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -493,8 +493,8 @@ permalink: supervillain/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part 1</a>
-                            <a href="minitalk/chiaki_2" id="none">Part 2</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -502,8 +502,8 @@ permalink: supervillain/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part 1</a>
-                            <a href="minitalk/midori_2" id="none">Part 2</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -511,8 +511,8 @@ permalink: supervillain/
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/kanata_1" id="none">Part 1</a>
-                            <a href="minitalk/kanata_2" id="none">Part 2</a>
+                            <a href="minitalk/kanata_1" id="">Part 1</a>
+                            <a href="minitalk/kanata_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

@@ -12,7 +12,7 @@ description: "[ES!!] Translation of Ibuki’s Idol Story 1."
 
 {% img /img/es/idolstory/initial/ibuki_1.jpg %}
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -55,6 +55,10 @@ description: "[ES!!] Translation of Ibuki’s Idol Story 1."
 
 {% note narration %}
 You can see Ibuki Taki’s profile on the <a href="https://ensemble-stars.fandom.com/wiki/Ibuki_Taki" target="_blank">Wiki</a>.
+{% endnote %}
+
+{% note narration %}
+To learn more about Ibuki and Okinawa, I recommend reading the following stories: <b><a href="/submarine" target="_blank">Submarine</a></b> (the start of the storyline), <b><a href="/supervillain" target="_blank">Supervillain</a></b> (has a few mentions), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (dives deep into Okinawa)
 {% endnote %}
 
 <div class="msr-season spring">
@@ -167,7 +171,11 @@ Though I may have been called “Oni”, I would never carry out something as in
 I hope to make your acquaintance, Anzu nee-nee. ♪
 {% endbubble %}
 
-## Ibuki Story Directory 
+{% note narration %}
+To learn more about Ibuki and Okinawa, I recommend reading the following stories: <b><a href="/submarine" target="_blank">Submarine</a></b> (the start of the storyline), <b><a href="/supervillain" target="_blank">Supervillain</a></b> (has a few mentions), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (dives deep into Okinawa)
+{% endnote %}
+
+## Story Directory 
 
 <div class="stories">
 <div class="story">

@@ -290,16 +290,16 @@ permalink: motor_show/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="snails_pace" id="none">Progress at a Snail's Pace</a>
+                            <a href="snails_pace" id="">Progress at a Snail's Pace</a>
                         </li>
                         <li>
-                            <a href="muddy_road" id="none">Muddy Road</a>
+                            <a href="muddy_road" id="">Muddy Road</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -308,8 +308,8 @@ permalink: motor_show/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -317,8 +317,8 @@ permalink: motor_show/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -326,8 +326,8 @@ permalink: motor_show/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -335,8 +335,8 @@ permalink: motor_show/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

@@ -22,9 +22,9 @@ Hinata and the others catch news of Tetora’s personalized outfit. They ask him
 
 This story is connected to the card [Growing Young Tiger] Tetora Nagumo.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> September 25, 2021</p>
+<p class="releasedate"><b>Story Release Date:</b> September 25, 2021</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">

@@ -21,9 +21,9 @@ It's finally Chiaki's turn to appear in the Feature Live. In order to show a cha
 
 This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> November 10, 2023</p>
+<p class="releasedate"><b>Story Release Date:</b> November 10, 2023</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">

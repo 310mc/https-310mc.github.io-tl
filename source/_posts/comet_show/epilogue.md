@@ -13,7 +13,7 @@ tags:
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -775,7 +775,7 @@ That’s the kind of sneaky strategy I’m going for here… He he he~♪
 {% endbubble %}
 
 {% bubble Kanata norsmile %}
-hmm, i see. but you do not have to copy after chiaki when it comes to that.
+hmm, i see. but you do not have to copy after chiaki when it comes to that, too.
 {% endbubble %}
 
 {% bubble Chiaki shocked %}
@@ -1325,7 +1325,8 @@ No matter what the future has in store for us, and even if we can only stay this
 </div>
 
 ## Translation Notes
+
 [^1]: This is referencing <a href="https://ensemble-stars.fandom.com/wiki/Reminiscence_%EF%BC%8A_Marionette" target="_blank">Marionette</a>, a reminiscence story about Valkyrie’s past.
-[^2]: A reference to Summer Snow, where Kanata had to come up with a marketing strategy to make his aquarium flourish.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Summer_Snow" target="_blank">Summer Snow</a>, where Kanata had to come up with a marketing strategy to make his aquarium flourish. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^3]: The Kamen Rider series are categorized into Japan's time periods. The <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Showa_Series" target="_blank">Showa series</a> is considered the first era of the series (1971-1994), with <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider_Series/Heisei_Series" target="_blank">Heisei</a> (2000-2019) coming right after it.
 [^4]: Chiaki says <em>gomen</em> here, a more polite/softer way to say "sorry" compared to <em>suman</em> (the usual way Chiaki apologizes). Chiaki tends to do this more often when he's more weak-hearted, such as in <a href="/sweet_halloween" target="_blank">Sweet Halloween</a>.

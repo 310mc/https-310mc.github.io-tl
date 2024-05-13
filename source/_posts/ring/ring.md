@@ -289,24 +289,24 @@ permalink: ring/
             <div class="chapter-area">
                 <div class="chapters">
                     <ul>
-                        <a href="#Translation" id="none">Translation</a>
+                        <a href="#Translation" id="">Translation</a>
                         <!--<li>
-                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="">x</a>
                         </li>
                         <li>
                             <span>Take me on</span>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
-                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
+                            <a href="TBA" id="">x</a>
                         </li>                        
                         <li>
-                            <a href="TBA" id="none">x</a>
+                            <a href="TBA" id="">x</a>
                         </li>-->
                     </ul>
                 </div>
@@ -315,8 +315,8 @@ permalink: ring/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="none">x</a>
-                            <a href="minitalk/midori_2" id="none">x</a>
+                            <a href="minitalk/midori_1" id="">x</a>
+                            <a href="minitalk/midori_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -324,8 +324,8 @@ permalink: ring/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -333,8 +333,8 @@ permalink: ring/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -342,8 +342,8 @@ permalink: ring/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

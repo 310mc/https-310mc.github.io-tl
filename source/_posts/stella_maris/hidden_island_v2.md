@@ -12,7 +12,7 @@ tags:
 - Akira
 description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -387,5 +387,5 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^6]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
 [^7]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to his grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
 [^8]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
-[^9]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event.
+[^9]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^10]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

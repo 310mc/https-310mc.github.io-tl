@@ -12,7 +12,7 @@ tags:
 - Kino Seitaro
 description: "[ES!!] After Midori was chosen to be the commander this time, it is announced that the yurucharas that hold a special place in his heart are going on hiatus…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1035,6 +1035,6 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 [^2]: In Japanese, the names are as follows: Kumagon, Namakesan, Arumajirou, Kiwi, Kamohasshii. Because it’s unclear which animal some of them are if left in Japanese, I decided to give them an English equivalent name. All these mascots can be seen in the <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM" target="_blank">MV</a> of this event.
 [^3]: This title is mentioned in <a href="/idol_story/midori_1" target="_blank">Midori’s Idol Story 1</a>, too.
 [^4]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
-[^5]: A reference to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
+[^5]: Referring to the event story <a href="/ninja_clan" target="_blank">Ninja Clan</a>.
 [^6]: What Midori loves is <em>yuruchara</em> (<em>yuru</em> means “loose,” “soft,” “laid-back,” etc). <em>Yuruchara</em>’s defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… And Midori personally loves the designs that are most odd-looking and vague. For more information please see <a href="https://en.wikipedia.org/wiki/Yuru-chara" target="_blank">this</a>.
 [^7]: The <em>yuru</em> comes from <em>yuruchara</em>, the bizarre-looking mascots that Midori loves so much. <em>Yuru</em> was combined with <em>seitai</em>, which can be translated to “Soft/Laid-back/Mascot Star Squad” (depending on how you want to interpret the word <em>yuru</em> here).

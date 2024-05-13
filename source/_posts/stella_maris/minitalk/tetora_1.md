@@ -7,7 +7,7 @@ tags:
 - Mini Talk
 description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -210,4 +210,4 @@ But Hiiro-kun's coming! He said he'll bring over Shiratori-kun too, so I plan to
 
 ## Translation Notes
 
-[^1]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>.
+[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

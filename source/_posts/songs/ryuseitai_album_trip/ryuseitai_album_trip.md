@@ -335,13 +335,13 @@ permalink: ryuseitai_album_trip/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="#Album-Track-Song-Translation" id="none">Album Song Translations</a>
+                            <a href="#Album-Track-Song-Translation" id="">Album Song Translations</a>
                         </li>
                         <li>
-                            <a href="#Album-Voice-Lines" id="none">Album Voice Lines</a>
+                            <a href="#Album-Voice-Lines" id="">Album Voice Lines</a>
                         </li>
                         <li>
-                            <a href="#Album-Commemoration-Live" id="none">Album Commemoration Live</a>
+                            <a href="#Album-Commemoration-Live" id="">Album Commemoration Live</a>
                         </li>
                     </ul>
                 </div>
@@ -1314,7 +1314,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 [^1]: This tale is shown in <a href="/ninja_clan" target="_blank">Ninja Clan</a>, the story connected to this song.
 [^2]: The “likes/loves” mentioned with quotation marks refers to the thing(s) they love. In Japanese, the word is <em>suki</em> or <em>daisuki</em>. Ryuseitai’s “likes” is a running theme in their story, songs, as well as their solo songs. In particular, <a href="/tropical" target="_blank">Tropical</a> and its song <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> discuss it.
-[^3]: This is a reference to the main story, when Chiaki and Kanata fire off a Ryuseitai move.
+[^3]: Referring to the main story, when Chiaki and Kanata fire off a Ryuseitai move.
 [^4]: These are the mascot characters that appeared in <a href="/tropical" target="_blank">Tropical</a>.
 [^5]: The fish song is performed in <a href="/stella_maris" target="_blank">Stella Maris</a>, and Midori goes through quite the experience while practicing. Please give the story a read to find out what happens!
 [^6]: After the event “Universe” (i.e. <a href="/supervillain" target="_blank">Supervillain</a>) ended, “Ryuseitai Power Up”, the all-leaders Ryuseitai, was introduced. You can see their introduction video <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">here</a>, and compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.

@@ -12,7 +12,7 @@ tags:
 - Akira
 description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back and leave all the decision-making to their juniors, only to then find out that there's a problem…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -740,6 +740,7 @@ It’s just impossible for me… I don’t have the right… I’m sorry, I’m 
 </div>
 
 ## Translation Notes
+
 [^1]: This is in reference to how you must behave in a dojo, starting with respect (bowing) and ending it with respect.
 [^2]: Tokusatsu shows air every Sunday morning.
-[^3]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Colorful_Autumn" target="_blank">Colorful Autumn</a>.
+[^3]: Referring to <a href="/colorful_autumn" target="_blank">Colorful Autumn</a>.

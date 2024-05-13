@@ -14,7 +14,7 @@ tags:
 - Akira
 description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -429,7 +429,7 @@ Are you sure that’s really true?
 
 I don’t know who you met and what you talked about, but I don’t see how it’s possible for there to be absolutely no opposition whatsoever.
 
-As a matter of fact, the model of the amusement park we had built at the end of last year in Hoshijima, the ATLANTIS[^4] — It was recently destroyed by someone.
+As a matter of fact, the model of the amusement park we had built at the end of last fiscal year in Hoshijima, the ATLANTIS[^4] — It was recently destroyed by someone.
 
 Along with a threat to never dare touch their land again.
 {% endbubble %}
@@ -1160,7 +1160,7 @@ So please, I beg you — Please save us.
 [^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^2]: Suica card is Japan’s smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
-[^4]: The time-point Eichi is referring to is March, as that’s the last month of the year (The year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>.
+[^4]: The time-point Eichi is referring to is March, as that’s the last month of the fiscal year (The fiscal year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.
 [^6]: Mizusaba says <em>nankurunai sa</em>, which is an Okinawan saying that means “as long as you do the right thing, things will work out somehow”.
 [^7]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.

@@ -309,10 +309,10 @@ permalink: ryuseitai_album/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="#Album-Countdown" id="none">Album Countdown</a>
+                            <a href="#Album-Countdown" id="">Album Countdown</a>
                         </li>
                         <li>
-                            <a href="#CD-Comments" id="none">CD Comments</a>
+                            <a href="#CD-Comments" id="">CD Comments</a>
                         </li>
                     </ul>
                 </div>

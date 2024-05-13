@@ -250,13 +250,13 @@ permalink: senpai_turned_into_a_dog/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="#Chapter-1" id="none">Chapter 1</a>
+                            <a href="#Chapter-1" id="">Chapter 1</a>
                         </li>
                         <li>
-                            <a href="#Chapter-2" id="none">Chapter 2</a>
+                            <a href="#Chapter-2" id="">Chapter 2</a>
                         </li>
                         <li>
-                            <a href="#Chapter-3" id="none">Chapter 3</a>
+                            <a href="#Chapter-3" id="">Chapter 3</a>
                         </li>                        
                     </ul>
                 </div>

@@ -375,14 +375,14 @@ permalink: dollhouse/
                     <ul>
                       <li>
                         <span>Chapter Index</span>
-                        <a href="#Chapter-1" id="none">1</a>
-                        <a href="#Chapter-2" id="none">2</a>
-                        <a href="#Chapter-3" id="none">3</a>
-                        <a href="#Chapter-4" id="none">4</a>
-                        <a href="#Chapter-5" id="none">5</a>
-                        <a href="#Chapter-6" id="none">6</a>
-                        <a href="#Chapter-7" id="none">7</a>
-                        <a href="#Chapter-8" id="none">8</a>
+                        <a href="#Chapter-1" id="">1</a>
+                        <a href="#Chapter-2" id="">2</a>
+                        <a href="#Chapter-3" id="">3</a>
+                        <a href="#Chapter-4" id="">4</a>
+                        <a href="#Chapter-5" id="">5</a>
+                        <a href="#Chapter-6" id="">6</a>
+                        <a href="#Chapter-7" id="">7</a>
+                        <a href="#Chapter-8" id="">8</a>
                       </li>
                     </ul>
                 </div>
@@ -2105,13 +2105,14 @@ Yeah, you’re right. That’s enough darkness for one day. Let’s go somewhere
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
+
 [^1]: A teishoku place is essentially a restaurant that serves specific set meals. They’re very similar to bentos, and the staff cafeteria in ES has a similar system as well.
 [^2]: Trivia note: Cafe COCHI, Cafe Cinnamon, and the staff cafeteria are all in ES.
-[^3]: A reference to <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac - Senpai Turned into a Dog!?</a>
+[^3]: Referring to <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac - Senpai Turned into a Dog!?</a>
 [^4]: This is <a href="https://www.sylvanianfamilies.com/en-uk/" target="_blank">Sylvanian Families</a>.
 [^5]: This yuruchara's name is a wordplay between <em>niku</em> (meat) and <em>kuma</em> (bear).
 [^6]: The <a href="https://www.youtube.com/watch?v=w14xl5NbKL0" target="_blank">nursery rhyme</a> he’s referring to.
 [^7]: Originally, Midori only manages to send a message to Chiaki saying <em>Kagehira-senpai to oodo—</em> (The word cut off here is <em>oodougu souko</em> 大道具倉庫, for “set piece storehouse”.), but his phone died before he could finish typing the word. Chiaki misunderstood it as <em>oudou</em> 王道, hence why Tsumugi corrects his interpretation.
-[^8]: A reference to what happens in the first main story. A TL;DR: Rinne falsely accuses Ryuseitai of being fake, lying, hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
-[^9]: A reference to Epilogue 4 of <a href="/motor_show/epilogue/#Chapter-4" target="_blank">Motor Show</a>.
+[^8]: Referring to what happens in the first main story. A TL;DR: Rinne falsely accuses Ryuseitai of being fake, lying, hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
+[^9]: Referring to Epilogue 4 of <a href="/motor_show/epilogue/#Chapter-4" target="_blank">Motor Show</a>.
 [^10]: As explained in Chapter 6, originally the word that cuts off midway is <em>oodougu souko</em> (Set piece storehouse). So Tsumugi figured out that Midori was trying to mention a specific location.

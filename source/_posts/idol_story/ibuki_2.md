@@ -14,7 +14,7 @@ description: "[ES!!] Translation of Ibuki’s Idol Story 2, featuring Tetora and
 
 {% img /img/es/idolstory/initial/ibuki_2.jpg %}
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -450,6 +450,6 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 [^8]: A link to Nice Arneb Thunder’s <a href="https://ensemble-stars.fandom.com/wiki/Nice_Arneb_Thunder" target="_blank">Wiki profile</a>. 
 [^9]: Sata andagi is Okinawan food that are sweet deep-fried buns. More information <a href="https://en.wikipedia.org/wiki/Sata_andagi" target="_blank">here</a>.
 [^10]: In this line and the next one, Ibuki doesn’t speak in his typical speech quirk, instead speaking more plainly.
-[^11]: Ibuki is referring to what typically happens to ogres in Japanese folklores. Ogres are exterminated by the folk hero, like in the <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">Legend of Momotarō</a>.
-[^12]: In the Legend of Momotarō, Momotarō has to go to Onigashima, the Ogre Island, to defeat the ogres. More information <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">here</a>.
+[^11]: Ibuki is referring to what typically happens to onis in Japanese folklores. The oni is exterminated by the folk hero, like in the <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">Legend of Momotarō</a>.
+[^12]: In the Legend of Momotarō, Momotarō has to go to Onigashima, the Ogre/Oni Island, to defeat the oni. More information <a href="https://en.wikipedia.org/wiki/Momotar%C5%8D" target="_blank">here</a>.
 [^13]: Hiiro says <em>toorima</em>, lit. demon who brings misfortune to people it passes by. It can also mean a slasher that attacks people at random.

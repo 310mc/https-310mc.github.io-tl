@@ -14,7 +14,7 @@ tags:
 - Akira
 description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -971,7 +971,8 @@ But… I really dunno what I gotta do to become an adult…
 {% btn /motor_show/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /motor_show,, star, Index %}{% btn /motor_show/muddy_road,, arrow-right, Next Chapter: Muddy Road %}</div>
 
 ## Translation Notes
+
 [^5]: This is about <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">Kumite</a>, a karate term.
 [^6]: This is referring to <a href="https://en.wikipedia.org/wiki/Amaterasu" target="_blank">Amaterasu</a> is the goddess of the sun in Japanese mythology.
 [^7]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
-[^8]: A reference to Strawberry Colored Holiday.
+[^8]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Strawberry_Colored_Holiday" target="_blank">Strawberry Colored Holiday</a>.

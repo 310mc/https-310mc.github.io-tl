@@ -12,7 +12,7 @@ tags:
 - Akira
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1004,6 +1004,7 @@ Every last one of you are so insistent on making everything harder on yourselves
 </div>
 
 ## Translation Notes
+
 [^1]: Chiaki is referring to <em>yuruchara</em>, Midori’s favorite kind of mascots, that tend to have sloppy-looking designs.
 [^2]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
 [^3]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.

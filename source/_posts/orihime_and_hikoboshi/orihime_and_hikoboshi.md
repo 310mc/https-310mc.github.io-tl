@@ -578,19 +578,19 @@ permalink: orihime_and_hikoboshi/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="cloudy_sky" id="none">Cloudy Sky</a>
+                            <a href="cloudy_sky" id="">Cloudy Sky</a>
                         </li>
                         <li>
-                            <a href="threat_of_rain" id="none">Threat of Rain</a>
+                            <a href="threat_of_rain" id="">Threat of Rain</a>
                         </li>
                         <li>
-                            <a href="living_sunshine" id="none">Living Sunshine</a>
+                            <a href="living_sunshine" id="">Living Sunshine</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -599,8 +599,8 @@ permalink: orihime_and_hikoboshi/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part One</a>
-                            <a href="minitalk/midori_2" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -608,8 +608,8 @@ permalink: orihime_and_hikoboshi/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -617,8 +617,8 @@ permalink: orihime_and_hikoboshi/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -626,8 +626,8 @@ permalink: orihime_and_hikoboshi/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

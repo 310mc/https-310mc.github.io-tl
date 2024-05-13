@@ -379,13 +379,13 @@ permalink: abyss/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="first_half" id="none">The Sea Of ⬛ Trickling Down (Chapter 1–8)</a>
+                            <a href="first_half" id="">The Sea Of ⬛ Trickling Down (Chapter 1–8)</a>
                         </li>
                         <li>
-                            <a href="second_half" id="none">The Sea Of ⬛ Trickling Down (Chapter 9–12)</a>
+                            <a href="second_half" id="">The Sea Of ⬛ Trickling Down (Chapter 9–12)</a>
                         </li>
                         <li>
-                            <a href="second_half#Epilogue-1" id="none">Epilogue</a>
+                            <a href="second_half#Epilogue-1" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>

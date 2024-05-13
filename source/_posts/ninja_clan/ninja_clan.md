@@ -456,22 +456,22 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="its_all_over" id="none">It's All Over</a>
+                            <a href="its_all_over" id="">It's All Over</a>
                         </li>
                         <li>
-                            <a href="grasping_for_something" id="none">Grasping for Something</a>
+                            <a href="grasping_for_something" id="">Grasping for Something</a>
                         </li>
                         <li>
-                            <a href="feeling_hopeful" id="none">Feeling Hopeful</a>
+                            <a href="feeling_hopeful" id="">Feeling Hopeful</a>
                         </li>
                         <li>
-                            <a href="demonstrating_the_elements" id="none">Demonstrating the Elements</a>
+                            <a href="demonstrating_the_elements" id="">Demonstrating the Elements</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>  
@@ -480,8 +480,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->
@@ -489,8 +489,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/tetora_1" id="none">Thrilling Gameplay</a>
-                            <a href="minitalk/tetora_2" id="none">I Don't Get It</a>
+                            <a href="minitalk/tetora_1" id="">Thrilling Gameplay</a>
+                            <a href="minitalk/tetora_2" id="">I Don't Get It</a>
                             </div>
                         </div>
                     </div>
@@ -498,8 +498,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">Relaxing Gameplay</a>
-                            <a href="minitalk/midori_2" id="none">Eeeggy-eggy-eggyplant</a>                            
+                            <a href="minitalk/midori_1" id="">Relaxing Gameplay</a>
+                            <a href="minitalk/midori_2" id="">Eeeggy-eggy-eggyplant</a>                            
                             </div>
                         </div>
                     </div>
@@ -507,8 +507,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">An Invasion from a Formidable Enemy</a>
-                            <a href="minitalk/chiaki_2" id="none">Sightseeing the Historical Village</a>
+                            <a href="minitalk/chiaki_1" id="">An Invasion from a Formidable Enemy</a>
+                            <a href="minitalk/chiaki_2" id="">Sightseeing the Historical Village</a>
                             </div>
                         </div>
                     </div>
@@ -516,8 +516,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->

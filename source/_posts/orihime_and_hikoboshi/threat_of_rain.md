@@ -14,7 +14,7 @@ tags:
 - Akira
 description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable. However, Subaru becomes upset with the first years for not knowing what to do…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1474,8 +1474,9 @@ If we were to gather together, I'm sure *we* could become a shining, sparkling M
 </div>
 
 ## Translation Notes
+
 [^1]: Tetora says the word <em>budou</em> for Karate, and Midori misunderstands it as <em>budou</em> for grapes, hence why he responds back in confusion. I tried to give the English version a similar feel.
-[^2]: Subaru’s “intestines” line is a reference to what he said in <a href="https://ensemble-stars.fandom.com/wiki/Rocket_Start" target="_blank">Rocket Start</a> - Set Theory 5.
+[^2]: Subaru’s “intestines” line is referring to what he said in <a href="https://ensemble-stars.fandom.com/wiki/Rocket_Start" target="_blank">Rocket Start</a> - Set Theory 5. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^3]: Check <a href="/orihime_and_hikoboshi#Translation-Notes" target="_blank">the cover</a> for extra info about Trickstar and Ryuseitai's Tanabata performances.
-[^4]: In Japan, there is a work culture to have “drinking get-togethers,” which is basically a way to get to know each other. You can be peer pressured into doing it, even if you aren't interested, usually for the sake of keeping your position at work.
+[^4]: In Japan, there is a work culture to have “drinking get-togethers”, which is basically a way to get to know each other. You can be peer pressured into doing it, even if you aren't interested, usually for the sake of keeping your position at work.
 [^5]: “Ryuseitai” lit. means shooting star/meteor squad, and the <em>sei</em> in Ryuseitai means “star”.

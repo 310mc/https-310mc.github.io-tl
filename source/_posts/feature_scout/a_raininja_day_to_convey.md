@@ -22,9 +22,9 @@ Shinobu wants to make an excellent pamphlet, but he believes a ninja can’t sho
 
 This story is connected to the card [The Melody Of Rain Patters] Shinobu Sengoku.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> May 10, 2023</p>
+<p class="releasedate"><b>Story Release Date:</b> May 10, 2023</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -725,5 +725,6 @@ Right, right? You can come up with many ways to enjoy yourself, no matter the we
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes
+
 [^1]: For more information on the relationship of toads and ninjas, see <a href="https://en.wikipedia.org/wiki/Jiraiya" target="_blank">this</a>.
 [^2]: You can see Shinobu’s pet frogs in <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">this card</a>.

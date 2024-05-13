@@ -16,7 +16,7 @@ tags:
 - Akira
 description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N leader, Shinobu finds a job for them to do. They need one more unit for the job, and ask ALKALOID for help…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -977,6 +977,6 @@ Ossu! Guess I gotta show off a more senior side of myself, huh? I’ll do what I
 {% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
-[^9]: A reference to <a href="/climax" target="_blank">Climax</a>.
+[^9]: Referring to <a href="/climax" target="_blank">Climax</a>.
 [^10]: Kuji is a series of hand signs ninjas tend to do. Here is an article on <a href="https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/" target="_blank">kuji</a>.
 [^11]: MDM happens at the end of August. It's shown in the first main story of ES!! era.

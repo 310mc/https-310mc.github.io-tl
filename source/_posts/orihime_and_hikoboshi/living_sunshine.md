@@ -16,7 +16,7 @@ tags:
 - Akira
 description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai first years due to Chiaki and Kanata being unavailable. However, Subaru becomes upset with the first years for not knowing what to do…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -713,6 +713,7 @@ Yes! Let us both! As two units that bear stars in our names, we shall become the
 </div>
 
 ## Translation Notes
+
 [^1]: It’s left ambiguous in the story, but Chiaki’s likely referring to something like the influenza.
 [^2]: Urashima Tarō is the protagonist of the Japanese fairytale, <em>The Story of Urashima Tarou</em>, who was a fisherman that was rewarded for rescuing a turtle by being carried back to the Dragon Palace (Ryūgū-jō) which lies beneath the sea.
 [^3]: Kanata’s line is a reference to <em>The Story of Urashima Tarou</em> which goes, “The red bream, the flounder, the sole, the cuttlefish, and all the chief vassals of the Dragon King of the Sea now came out with courtly bows to welcome the stranger.” In this case, <a href="https://www.youtube.com/watch?v=0IuLZo3cvcs" target="_blank">he’s singing the folk song for it</a>.

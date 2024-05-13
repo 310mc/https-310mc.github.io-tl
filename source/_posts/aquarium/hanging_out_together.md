@@ -15,7 +15,7 @@ tags:
 - Akira
 description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses that excuse to go on a date with the transfer student, only to end up at the aquarium together with Souma."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -761,9 +761,10 @@ Woah, woah—! Do not drag me over by the hand…
 </div>
 
 ## Translation Notes
+
 [^1]: Coelacanth are an extremely old species of fish.
-[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Kung_Fu" target="_blank">Kung Fu</a>.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Kung_Fu" target="_blank">Kung Fu</a>.
 [^3]: Hinata uses <em>atai</em> (feminine pronoun for “I”).
 [^4]: Hoichi the Earless had his whole body painted with kanji to protect him from ghosts. You can read about it <a href="https://en.wikipedia.org/wiki/Hoichi_the_Earless" target="_blank">here</a>.
 [^5]: Rei says 人手 (hitode) for helping hand, which sounds like 海星 (hitode) for starfish, so Sora makes a pun with the two words. Thank you <a href="https://twitter.com/seiginoakashi" target="_blank">Nanashi</a> for the localization!
-[^6]: Natsume calls Wataru <em>Shisho\~</em> (Master), similarly to how Sora calls Natsume <em>Shisho\~</em>. So combining both Shisho\~'s would become <em>Dai-shisho\~</em> (Grand-shisho\~).
+[^6]: Natsume calls Wataru <em>Shisho~</em> (Master), similarly to how Sora calls Natsume <em>Shisho~</em>. So combining both Shisho~'s would become <em>Dai-shisho~</em> (Grand-shisho~).

@@ -11,7 +11,7 @@ tags:
 - Yuumasu
 description: "[ES!!] Translation of Midori's Idol Story 2, featuring Shinobu and Yuta."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -254,10 +254,47 @@ Oh, alright. That’s a bit of a shame~
 If you ever felt like joining, please do inform me. The club will always be happy to welcome you~♪
 {% endbubble %}
 
+## Story Directory
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory1.jpg"
+            alt="Midori Takamine Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/midori_1" class="storyName" target="_blank">
+        <span>Midori Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory2.jpg"
+            alt="Midori Takamine Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/midori_2" class="storyName" target="_blank">
+        <span>Midori Idol Story 2 (With Shinobu, Yuta)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory3.jpg"
+            alt="Midori Takamine Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/midori_3" class="storyName" target="_blank">
+        <span>Midori Idol Story 3 (With Hajime)</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>
-
-## Chapter Directory
-
-|Midori Idol Story 1<br>(Solo)|Midori Idol Story 2<br>(Featuring Shinobu, Yuta)|Midori Idol Story 3<br>(Featuring Hajime)
-| :-----------: | :-----------: | :-----------: |
-[![/idol_story/midori_1](/img/es/idolstory/banner/midoriidolstory1.jpg)](/idol_story/midori_1)|[![/idol_story/midori_2](/img/es/idolstory/banner/midoriidolstory2.jpg)](/idol_story/midori_2)|[![/idol_story/midori_3](/img/es/idolstory/banner/midoriidolstory3.jpg)](/idol_story/midori_3)

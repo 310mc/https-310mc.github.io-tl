@@ -278,16 +278,16 @@ permalink: school_festival_4/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="first_half" id="none">Chapter 1–6</a>
+                            <a href="first_half" id="">Chapter 1–6</a>
                         </li>
                         <li>
-                            <a href="second_half" id="none">Chapter 7–11</a>
+                            <a href="second_half" id="">Chapter 7–11</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -296,8 +296,8 @@ permalink: school_festival_4/
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -305,8 +305,8 @@ permalink: school_festival_4/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -314,8 +314,8 @@ permalink: school_festival_4/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -323,8 +323,8 @@ permalink: school_festival_4/
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

@@ -12,7 +12,7 @@ tags:
 - Yuumasu
 description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">

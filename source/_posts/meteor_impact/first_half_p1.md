@@ -12,7 +12,7 @@ tags:
 description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy known to be a god. This is their story."
 ---
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1509,10 +1509,11 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 </div>
 
 ## Translation Notes
+
 [^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=dZL5JPvXn7Q" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
 [^2]: Othello was the previous name of Knights when Izumi and Leo were first years.
 [^3]: He says “hero” in katakana, which is the proper spelling, and from here on he’ll continue to say it in the proper spelling.
-[^4]: This is a reference to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a>, and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a>. The two poses Chiaki is referring to can be seen <a href="https://twitter.com/ryuseitai_info/status/1123771801639825408" target="_blank">here</a>. As extra info, even Chiaki’s 2* card is a reference to <a href="https://ensemble-stars.fandom.com/wiki/%28Academy_Idol%29_Chiaki_Morisawa" target="_blank">Kamen Rider ichi-go’s pose</a>.
+[^4]: Referring to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a>, and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a>. The two poses Chiaki is referring to can be seen <a href="https://twitter.com/ryuseitai_info/status/1123771801639825408" target="_blank">here</a>. As extra info, even Chiaki’s 2* card is a reference to <a href="https://ensemble-stars.fandom.com/wiki/%28Academy_Idol%29_Chiaki_Morisawa" target="_blank">Kamen Rider ichi-go’s pose</a>.
 [^5]: To worship in Japanese is <em>matsuru</em> (祭る), and is where the word <em>matsuri</em> (祭り) is derived from.
 [^6]: The tale of <a href="https://en.wikipedia.org/wiki/Ningyo" target="_blank">Yaobikuni</a>, about a girl who ate mermaid meat, and went on to live for 800 years.
 [^7]: 押しかけ女房, lit. a woman who intrudes a man’s home to live with him, regardless of his consent. It’s likely that Chiaki is making a joke out of what he’s doing.

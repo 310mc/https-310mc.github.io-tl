@@ -449,32 +449,32 @@ permalink: comet_show/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue" id="none">Prologue</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue" id="">Prologue</a>
                         </li>
                         <li>
                             <span>Plans for the End</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663184107699863552/plans-for-the-end-chapter-1" id="none">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185039143600128/plans-for-the-end-chapter-2" id="none">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185928811151360/plans-for-the-end-chapter-3" id="none">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663186562975203328/plans-for-the-end-chapter-4" id="none">4</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663194572342624256/plans-for-the-end-chapter-5" id="none">5</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663195397702942720/plans-for-the-end-chapter-6" id="none">6</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663196016849338368/plans-for-the-end-chapter-7" id="none">7</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663184107699863552/plans-for-the-end-chapter-1" id="">1</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663185039143600128/plans-for-the-end-chapter-2" id="">2</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663185928811151360/plans-for-the-end-chapter-3" id="">3</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663186562975203328/plans-for-the-end-chapter-4" id="">4</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663194572342624256/plans-for-the-end-chapter-5" id="">5</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663195397702942720/plans-for-the-end-chapter-6" id="">6</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663196016849338368/plans-for-the-end-chapter-7" id="">7</a>
                         </li>
                         <li>
                             <span>Week-end at the Aquarium</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663197640818933760/week-end-at-the-aquarium-chapter-1" id="none">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="none">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="none">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="none">4</a>
-                            <a href="/comet_show/second_half#Chapter-5" id="none">5</a>
-                            <a href="/comet_show/second_half#Chapter-6" id="none">6</a>
-                            <a href="/comet_show/second_half#Chapter-7" id="none">7</a>
-                            <a href="/comet_show/second_half#Chapter-8" id="none">8</a>
-                            <a href="/comet_show/second_half#Chapter-9" id="none">9</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663197640818933760/week-end-at-the-aquarium-chapter-1" id="">1</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="">2</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="">3</a>
+                            <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="">4</a>
+                            <a href="/comet_show/second_half#Chapter-5" id="">5</a>
+                            <a href="/comet_show/second_half#Chapter-6" id="">6</a>
+                            <a href="/comet_show/second_half#Chapter-7" id="">7</a>
+                            <a href="/comet_show/second_half#Chapter-8" id="">8</a>
+                            <a href="/comet_show/second_half#Chapter-9" id="">9</a>
                         </li>
                         <li>
-                            <a href="/comet_show/epilogue" id="none">Epilogue</a>
+                            <a href="/comet_show/epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -483,8 +483,8 @@ permalink: comet_show/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -492,8 +492,8 @@ permalink: comet_show/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part One</a>
-                            <a href="minitalk/midori_2" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -501,8 +501,8 @@ permalink: comet_show/
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -510,8 +510,8 @@ permalink: comet_show/
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -519,8 +519,8 @@ permalink: comet_show/
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->

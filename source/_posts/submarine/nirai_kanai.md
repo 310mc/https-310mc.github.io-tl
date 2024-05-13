@@ -16,7 +16,7 @@ tags:
 - Akira
 description: "[ES!!] When the local idols in Okinawa show their determination to fight, Ryuseitai attempts to devise a plan to break free from the conflict along with Akatsuki’s cooperation…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -2068,7 +2068,7 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 ## Translation Notes
 
 [^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Akatsuki and Ryuseitai story</a>.
-[^2]: This is a reference to Chapter 200 of the first main story.
+[^2]: Referring to Chapter 200 of the first main story.
 [^3]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
 [^4]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
 [^5]: Typically, <em>kakusu</em> means to conceal, but it has an archaic meaning to say “to behead”.

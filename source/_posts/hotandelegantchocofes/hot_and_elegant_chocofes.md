@@ -443,32 +443,32 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="TBA" id="">Prologue</a>
                         </li>
                         <li>
                             <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
+                            <a href="TBA" id="">1</a>
+                            <a href="TBA" id="">2</a>
+                            <a href="TBA" id="">3</a>
+                            <a href="TBA" id="">4</a>
+                            <a href="TBA" id="">5</a>
+                            <a href="TBA" id="">6</a>
+                            <a href="TBA" id="">7</a>
                         </li>
                         <li>
                             <span>TBA</span>
-                            <a href="TBA" id="none">1</a>
-                            <a href="TBA" id="none">2</a>
-                            <a href="TBA" id="none">3</a>
-                            <a href="TBA" id="none">4</a>
-                            <a href="TBA" id="none">5</a>
-                            <a href="TBA" id="none">6</a>
-                            <a href="TBA" id="none">7</a>
-                            <a href="TBA" id="none">8</a>
-                            <a href="TBA" id="none">9</a>
+                            <a href="TBA" id="">1</a>
+                            <a href="TBA" id="">2</a>
+                            <a href="TBA" id="">3</a>
+                            <a href="TBA" id="">4</a>
+                            <a href="TBA" id="">5</a>
+                            <a href="TBA" id="">6</a>
+                            <a href="TBA" id="">7</a>
+                            <a href="TBA" id="">8</a>
+                            <a href="TBA" id="">9</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="TBA" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -477,8 +477,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">x</a>
-                            <a href="minitalk/chiaki_2" id="none">x</a>
+                            <a href="minitalk/chiaki_1" id="">x</a>
+                            <a href="minitalk/chiaki_2" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -486,8 +486,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -495,8 +495,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -504,8 +504,8 @@ hidden: true
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>

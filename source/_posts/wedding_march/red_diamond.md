@@ -20,7 +20,7 @@ tags:
 - Yuumasu
 description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -2686,11 +2686,11 @@ Dear viewers, please do enjoy our song with us. ♪
 </div>
 
 ## Translation Notes
-[^1]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2.
-[^2]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
+[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
 [^3]: A <em>yakatabune</em> specifically.
 [^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it’s a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
-[^5]: A reference to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.
+[^5]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.
 [^6]: The <a href="https://en.japantravel.com/kyoto/otowa-waterfall/14020" target="_blank">Otowa waterfall</a> has three streams, and visitors can drink the water from one of the them for its benefit.
 [^7]: This is what an <a href="https://en.wikipedia.org/wiki/Ema_(Shinto)" target="_blank">ema</a> looks like.
 [^8]: This is <a href="https://www.jishujinja.or.jp/english/" target="_blank">the shrine</a> and its statue in question.

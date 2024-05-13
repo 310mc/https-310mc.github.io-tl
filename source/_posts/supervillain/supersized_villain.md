@@ -12,7 +12,7 @@ tags:
 - Akira
 description: "[ES!!] After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1391,4 +1391,4 @@ Let’s also assemble a happy ending for our reality — an ending that everyone
 [^3]: In Japanese, the word he says is <em>hangure</em>, which are groups in Japan that commit crimes, but are not affiliated with any crime syndicates (yakuza, for example).
 [^4]: As mentioned earlier, <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”. It’s also the title Tetora would call Chiaki by a year ago, when Chiaki was still in high school.
 [^5]: Tetora temporarily switches to his typical speech quirk here as part of the light joke. Also, <em>sundome</em> is a type of karate where you have to stop before you hit the target.
-[^6]: This is a reference to the story <a href="https://ensemble-stars.fandom.com/wiki/MIRAGE" target="_blank">MIRAGE</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^6]: Referring to the story <a href="https://ensemble-stars.fandom.com/wiki/MIRAGE" target="_blank">MIRAGE</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

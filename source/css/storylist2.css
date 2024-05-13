@@ -16,6 +16,18 @@
     color: white;
 }
 
+.stories a:visited {
+    color: white;
+}
+
+.stories a:link {
+    color: white;
+}
+
+.stories  a:active {
+    color: white;
+}
+
 .story:hover img {
     transform: scale(1.05);
 }
@@ -50,7 +62,9 @@
     left: 0;
     transition: 0.2s ease;
     transform: translate(0, 2.3em);
+    border-width: 0;
 }
+
 .storyName .read {
        margin-top: 0.25em;
        font-size: 0.85em;

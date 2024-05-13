@@ -609,22 +609,22 @@ permalink: sweet_halloween/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="dis_harmony" id="none">dis harmony</a>
+                            <a href="dis_harmony" id="">dis harmony</a>
                         </li>
                         <li>
-                            <a href="sweet_home" id="none">sweet home<br>(Chapter 1–6)</a>
+                            <a href="sweet_home" id="">sweet home<br>(Chapter 1–6)</a>
                         </li>                        
                         <li>
-                            <a href="sweet_home_p2" id="none">sweet home<br>(Chapter 7–11)</a>
+                            <a href="sweet_home_p2" id="">sweet home<br>(Chapter 7–11)</a>
                         </li>
                         <li>
-                            <a href="lets_party" id="none">let's party!</a>
+                            <a href="lets_party" id="">let's party!</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -633,8 +633,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part One</a>
-                            <a href="minitalk/midori_2" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -642,8 +642,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -651,8 +651,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Character</div> tomoya midori hajime chiaki
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -660,8 +660,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->

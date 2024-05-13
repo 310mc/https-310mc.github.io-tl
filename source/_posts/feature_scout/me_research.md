@@ -20,9 +20,9 @@ Kanata thought up places he’d like to have the photoshooting for the pamphlet.
 
 This story is connected to the card [singing with the fishes] Kanata Shinkai.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> June 25, 2022</p>
+<p class="releasedate"><b>Story Release Date:</b> June 25, 2022</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -651,5 +651,5 @@ i am curious to see what sort of me you will discover, anzu-san. fufu, how excit
 
 ## Translation Notes
 
-[^1]: In Japanese, Souma says foreign words (that are spelled in katakana) in hiragana, to show his unfamiliarity with the words. I've italicized these words in the translation.
-[^2]: Referring to Kanata's shuffle unit story, <a href="https://ensemble-stars.fandom.com/wiki/Princess_Kaguya" target="_blank">Princess Kaguya</a>.
+[^1]: In Japanese, Souma says foreign words (that are spelled in katakana) in hiragana, to show his unfamiliarity with the words. I’ve italicized these words in the translation.
+[^2]: Referring to Kanata's shuffle unit story, <a href="https://ensemble-stars.fandom.com/wiki/Princess_Kaguya" target="_blank">Princess Kaguya</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

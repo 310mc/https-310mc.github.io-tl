@@ -367,20 +367,20 @@ permalink: tough_guy/
                     <ul>
                         <li>
                             <span>We, the Rough and Tough</span>
-                            <a href="#We-the-Rough-and-Tough-1" id="none">1</a>
-                            <a href="#We-the-Rough-and-Tough-2" id="none">2</a>
-                            <a href="#We-the-Rough-and-Tough-3" id="none">3</a>
-                            <a href="#We-the-Rough-and-Tough-4" id="none">4</a>
-                            <a href="#We-the-Rough-and-Tough-5" id="none">5</a>
-                            <a href="#We-the-Rough-and-Tough-6" id="none">6</a>
-                            <a href="#We-the-Rough-and-Tough-7" id="none">7</a>
-                            <a href="#We-the-Rough-and-Tough-8" id="none">8</a>
+                            <a href="#We-the-Rough-and-Tough-1" id="">1</a>
+                            <a href="#We-the-Rough-and-Tough-2" id="">2</a>
+                            <a href="#We-the-Rough-and-Tough-3" id="">3</a>
+                            <a href="#We-the-Rough-and-Tough-4" id="">4</a>
+                            <a href="#We-the-Rough-and-Tough-5" id="">5</a>
+                            <a href="#We-the-Rough-and-Tough-6" id="">6</a>
+                            <a href="#We-the-Rough-and-Tough-7" id="">7</a>
+                            <a href="#We-the-Rough-and-Tough-8" id="">8</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
-                            <a href="#Epilogue-1" id="none">1</a>
-                            <a href="#Epilogue-2" id="none">2</a>
-                            <a href="#Epilogue-3" id="none">3</a>
+                            <a href="#Epilogue-1" id="">1</a>
+                            <a href="#Epilogue-2" id="">2</a>
+                            <a href="#Epilogue-3" id="">3</a>
                         </li>
                     </ul>
                 </div>

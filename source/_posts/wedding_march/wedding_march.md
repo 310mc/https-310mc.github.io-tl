@@ -284,16 +284,16 @@ permalink: wedding_march/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="white_diamond" id="none">White Diamond</a>
+                            <a href="white_diamond" id="">White Diamond</a>
                         </li>
                         <li>
-                            <a href="red_diamond" id="none">Red Diamond</a>
+                            <a href="red_diamond" id="">Red Diamond</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -302,8 +302,8 @@ permalink: wedding_march/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -311,8 +311,8 @@ permalink: wedding_march/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -320,8 +320,8 @@ permalink: wedding_march/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>
@@ -329,8 +329,8 @@ permalink: wedding_march/
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="none">x</a>
-                            <a href="NOTRANSLATION" id="none">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="NOTRANSLATION" id="">x</a>
                             </div>
                         </div>
                     </div>-->

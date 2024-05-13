@@ -368,14 +368,14 @@ permalink: buddy/
                     <ul>
                         <li>
                             <span>Chapter Index</span>
-                            <a href="#Chapter-1" id="none">1</a>
-                            <a href="#Chapter-2" id="none">2</a>
-                            <a href="#Chapter-3" id="none">3</a>
-                            <a href="#Chapter-4" id="none">4</a>
-                            <a href="#Chapter-5" id="none">5</a>
-                            <a href="#Chapter-6" id="none">6</a>
-                            <a href="#Chapter-7" id="none">7</a>
-                            <a href="#Chapter-8" id="none">8</a>
+                            <a href="#Chapter-1" id="">1</a>
+                            <a href="#Chapter-2" id="">2</a>
+                            <a href="#Chapter-3" id="">3</a>
+                            <a href="#Chapter-4" id="">4</a>
+                            <a href="#Chapter-5" id="">5</a>
+                            <a href="#Chapter-6" id="">6</a>
+                            <a href="#Chapter-7" id="">7</a>
+                            <a href="#Chapter-8" id="">8</a>
                         </li>
                     </ul>
                 </div>
@@ -1438,11 +1438,12 @@ Now, come on! Let me take you back home today, Anzu-san~♪ Accept me as your bu
 {% btn /translations#Gacha-Stories,, star, Index %}</div>
 
 ## Translation Notes
+
 [^1]: Three-pointer is a shot done outside the three-point line in court.
 [^2]: Kamen Rider heroes typically work alone, whereas Super Sentai heroes (obviously) work as a team.
 [^3]: He says <em>beppin</em> (beautiful lady) to describe his motorbike, so I made him refer to it with she/her.
-[^4]: “Buddy” is in katakana (so basically, in English), which is likely why Chiaki couldn’t tell what Madara meant at first.
+[^4]: “Buddy” is in katakana (so basically, the English word spelled in katakana), which is likely why Chiaki couldn’t tell what Madara meant at first.
 [^5]: He literally says: I showed it to her while saying “Look, look! It’s a drone beetle~♪”. I couldn’t put it in the translation without it being awkward, so I figured I could note it down here since it’s cute.
-[^6]: A reference to the mascot character that appears in <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a>. It’s also in his <a href="https://ensemble-stars.fandom.com/wiki/%28The_Heart%27s_Partner%29_Midori_Takamine" target="_blank">card</a> for this gacha story.
+[^6]: Referring to the mascot character that appears in <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a>. It’s also in his <a href="https://ensemble-stars.fandom.com/wiki/%28The_Heart%27s_Partner%29_Midori_Takamine" target="_blank">card</a> for this gacha story.
 [^7]: In Japanese, <em>kero</em> is the sound a frog makes, so the mascot character’s name is based on that.
 [^8]: You can see Shinobu holding his frogs in his <a href="https://ensemble-stars.fandom.com/wiki/%28Precious_Partner%29_Shinobu_Sengoku" target="_blank">card</a>.

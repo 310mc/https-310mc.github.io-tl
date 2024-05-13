@@ -1,12 +1,22 @@
+@import url('https://rsms.me/inter/inter.css');
+
 /** For Card Details
 ***/
 .noBorder {
     border:none !important;
 }
 
+.noBorder img {
+    border-radius: 8px;
+}
+
 .carddata {
     text-align:center;
     font-size:17px;
+}
+
+.single img {
+    border-radius: 6px;
 }
 /** End Card Details
 ***/
@@ -26,4 +36,20 @@
 }
 /** End Idol Story Details
 ***/
+
+/** red/blue colors
+***/
+.bluecolor {
+    color: blue;
+}
+
+.redcolor {
+    color: red;
+}
+/** End red/blue colors
+***/
+
+body {
+    --msr-icon-size: 67px;
+  }
 

@@ -14,7 +14,7 @@ tags:
 - Yuumasu
 description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They head off to have a “Bridal Field Trip” along with people willing to help them with the project."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -237,5 +237,6 @@ No, no! Please don’t say it in such a misleading wayyy~!
 </div>
 
 ## Translation Notes
-[^1]: This is a reference to the feature scout stories, <a href="/a_detour_encounter" target="_blank">A Detour Encounter</a> and <a href="/bodybuilding_bros" target="_blank">Together, We Are the Bodybuilding Bros!</a>.
+
+[^1]: Referring to the feature scout stories, <a href="/a_detour_encounter" target="_blank">A Detour Encounter</a> and <a href="/bodybuilding_bros" target="_blank">Together, We Are the Bodybuilding Bros!</a>.
 [^2]: Originally, Chiaki was going to say “I want you to make my miso soup”. The sentence starts with <em>ore no miso</em> (my miso), so I had to re-arrange the sentence to work similarly in English too.

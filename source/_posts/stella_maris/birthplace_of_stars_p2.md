@@ -14,7 +14,7 @@ tags:
 - Akira
 description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The other members are bewildered by Kanata’s peculiar practice methods, but then Kanata suddenly informs them about something…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -1535,7 +1535,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 
 ## Translation Notes
 
-[^1]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”.
+[^1]: Referring to what happened in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>, Atlantis. This phrase can also be translated as “anyway”, “anyhow”, “at any rate”. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Hitsugi_Kurone" target="_blank">Hitsugi Kurone and NEGI</a>.
 [^3]: Eichi and Chiaki were revealed to have met in a hospital when they were young in <a href="https://hyenahunt.tumblr.com/post/736331182543896576/saga-rivals-12" target="_blank">Saga</a>. <a href="https://ensemble-stars.fandom.com/wiki/Saga" target="_blank">Wiki Link</a>.
 [^4]: The following two chapters refer back to events from <a href="/meteor_impact" target="_blank">Meteor Impact</a>, the first time Kanata and Chiaki met, as well as <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.

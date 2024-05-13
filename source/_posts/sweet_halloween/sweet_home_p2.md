@@ -17,7 +17,7 @@ tags:
 - Akira
 description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween Party, it seems that Hajime and Tomoya are awkward around each other, and Chiaki is terrified of something…"
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -949,9 +949,10 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 </div>
 
 ## Translation Notes
+
 [^1]: The shadow Madara talks about is <a href="https://www.orionphilosophy.com/stoic-blog/the-shadow-carl-jung" target="_blank">Jungian psychology </a>. It's a pretty interesting topic relevant to this story and the characters involved.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: He unusually asks for permission with <em>dame kana</em>.
 [^4]: Fun fact, Swahili has similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
 [^5]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars to make it easier to visualize.
-[^6]: This is a reference to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.
+[^6]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.

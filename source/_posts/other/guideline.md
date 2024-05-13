@@ -13,7 +13,7 @@ permalink: guideline/
 
 <div class="intro">
 <p><b>These are my personal preferences. Other translators may differ from the following, so please respect each of their wishes.</b></p>
-<p style="color:blue"><b>I permit:</b></p>
+<p class="bluecolor"><b>I permit:</b></p>
 
 ※ Taking screenshots of my translations. You don't have to credit me unless you prefer to.
 ※ Re-translating my translations into a different language. I'd love it if you could give me a heads up in an email ( contact 310mctranslations@gmail.com ), though!
@@ -26,7 +26,7 @@ permalink: guideline/
 3. Changing nicknames/namings for consistency/preference
 4. Adjusting grammar or punctuation for clarification
 
-<p style="color:red"><b>I do not permit:</b></p>
+<p class="redcolor"><b>I do not permit:</b></p>
 
 ※ I do __NOT__ permit changing the original intent/script of my translations in any way. That would simply be a mistranslation of the original text, and I don't approve of that. __This includes using inspect tool to change the script of the translation and then taking a screenshot of it.__
 

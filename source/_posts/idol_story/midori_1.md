@@ -9,7 +9,7 @@ tags:
 - Akira
 description: "[ES!!] Translation of Midori's Idol Story 1."
 ---
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -77,7 +77,7 @@ You surprised me… Hello, good morning, Miss Producer…
 
 I’m sorry, I was in your way by standing at the door, wasn’t I…
 
-I’ll move right away… Huff—Ahh, so heavy!
+I’ll move right away… Huff— Ahh, so heavy!
 
 I haven’t bothered with my body beyond whatever nature gave me, but maybe I should start working out along with Tetora-kun and the others…
 
@@ -91,7 +91,7 @@ I mean, I appreciate the cafeteria for buying so many, but carrying them is a ma
 
 And then I feel extremely exhausted straight from the morning, and start yawning all day… Well, okay, I was always the type to do that, but…
 
-Ahhh, jeez… This is too draining, ugh—I don’t wanna do this anymore… I’m so depressed, I wanna die…
+Ahhh, jeez… This is too draining, ugh— I don’t wanna do this anymore… I’m so depressed, I wanna die…
 
 Woah—! Ahh no, you don’t have to help me carry these…
 
@@ -109,7 +109,7 @@ Huh, I see… So it’s part of the Producer Course’s curriculum to adjust cla
 
 Your course sorta sounds like a pain…
 
-Well, I guess it’s harsh in the Idol Course, too—We have to study during the day, and then go to work after classes…
+Well, I guess it’s harsh in the Idol Course, too — We have to study during the day, and then go to work after classes…
 
 Huh, I guess it’s rough all around… I only joined the Idol Course by accident, but…
 
@@ -153,15 +153,15 @@ It’s only a coincidence I became an idol, too… And I only became a hero beca
 
 That’s why… I feel like I haven’t really been walking with my own feet…
 
-I’m just in the same place as I was when I was first born—within a cabbage.
+I’m just in the same place as I was when I was first born — within a cabbage.
 
-Ah—No, it’s not that I think babies are born from cabbages…
+Ah— No, it’s not that I think babies are born from cabbages…
 
 My parents tricked me into thinking that when I was young, but I know better now, really…
 
-Uh—I suppose this isn’t the topic to talk to with a woman, or it’d just be inappropriate… Uuu~ I’m sorry.
+Uh— I suppose this isn’t the topic to talk to with a woman, or it’d just be inappropriate… Uuu~ I’m sorry.
 
-Actually, I’m also sorry for complaining this much… I’m a second year now—a senior, so I’ve gotta pull myself together…
+Actually, I’m also sorry for complaining this much… I’m a second year now — a senior, so I’ve gotta pull myself together…
 
 *<th>(Breathe in, breathe out)</th>*
 
@@ -171,15 +171,52 @@ Actually, I’m also sorry for complaining this much… I’m a second year now�
 
 Ahaha… I feel better whenever I say this, like I’ve really transformed into a hero…
 
-The real me has no proper footing, and is super uncool, but… I hope I could grow infinitely, just like my catch phrase—even if it’ll take a while…
+The real me has no proper footing, and is super uncool, but… I hope I could grow infinitely, just like my catchphrase — even if it’ll take a while…
 
 And that’s how I’ll be doing my best, so… Please do support me, Miss Producer…♪
 {% endbubble %}
 
+## Story Directory
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory1.jpg"
+            alt="Midori Takamine Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/midori_1" class="storyName" target="_blank">
+        <span>Midori Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory2.jpg"
+            alt="Midori Takamine Idol Story 2"
+        />
+    </div>
+    <a href="/idol_story/midori_2" class="storyName" target="_blank">
+        <span>Midori Idol Story 2 (With Shinobu, Yuta)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/midoriidolstory3.jpg"
+            alt="Midori Takamine Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/midori_3" class="storyName" target="_blank">
+        <span>Midori Idol Story 3 (With Hajime)</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
+<hr>
+
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_2,, arrow-right, Midori Idol Story 2 %}</div>
-
-## Chapter Directory
-
-|Midori Idol Story 1<br>(Solo)|Midori Idol Story 2<br>(Featuring Shinobu, Yuta)|Midori Idol Story 3<br>(Featuring Hajime)
-| :-----------: | :-----------: | :-----------: |
-[![/idol_story/midori_1](/img/es/idolstory/banner/midoriidolstory1.jpg)](/idol_story/midori_1)|[![/idol_story/midori_2](/img/es/idolstory/banner/midoriidolstory2.jpg)](/idol_story/midori_2)|[![/idol_story/midori_3](/img/es/idolstory/banner/midoriidolstory3.jpg)](/idol_story/midori_3)

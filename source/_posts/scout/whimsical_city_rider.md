@@ -394,12 +394,12 @@ hidden: true
                     <ul>
                         <li>
                             <span>Cycling Road</span>
-                            <a href="#Cycling-Road-1" id="none">1</a>
-                            <a href="#Cycling-Road-2" id="none">2</a>
-                            <a href="#Cycling-Road-3" id="none">3</a>
-                            <a href="#Cycling-Road-4" id="none">4</a>
-                            <a href="#Cycling-Road-5" id="none">5</a>
-                            <a href="#Cycling-Road-6" id="none">6</a>
+                            <a href="#Cycling-Road-1" id="">1</a>
+                            <a href="#Cycling-Road-2" id="">2</a>
+                            <a href="#Cycling-Road-3" id="">3</a>
+                            <a href="#Cycling-Road-4" id="">4</a>
+                            <a href="#Cycling-Road-5" id="">5</a>
+                            <a href="#Cycling-Road-6" id="">6</a>
                         </li>
                     </ul>
                 </div>

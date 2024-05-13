@@ -24,9 +24,9 @@ Yuzuru struggles to draw a design for his personalized outfit, and consults Keit
 
 This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
 
-<p style="color:blue;font-size:110%;"><b>Story Release Date:</b> November 25, 2021</p>
+<p class="releasedate"><b>Story Release Date:</b> November 25, 2021</p>
 
-<div class="three-wrapper" style="--storyColor:#965e7d;--storyColor-rgb:150,94,125;--storyColor-h:326.8;--storyColor-s: 23%;--storyColor-l:47.8%;">
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
             <div class="info-item characters">
@@ -487,5 +487,5 @@ For your sake, and for my fans as well—I will pour my heart and soul, and cont
 
 ## Translation Notes
 
-[^1]: A reference to Toyland. You can see an example of his art <a href="https://ensemble-stars.fandom.com/wiki/%28Tin_Soldier%29_Yuzuru_Fushimi" target="_blank">here</a>.
+[^1]: Referring to Toyland. You can see an example of his art <a href="https://ensemble-stars.fandom.com/wiki/%28Tin_Soldier%29_Yuzuru_Fushimi" target="_blank">here</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation of Toyland.
 [^2]: He first mentions this mascot in <a href="/staying_true_to_myself" target="_blank">True To Myself, Staying The Way I Am</a>.

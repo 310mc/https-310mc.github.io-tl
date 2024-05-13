@@ -1099,8 +1099,6 @@
 [character="Kaijuu"] {
   --color:#122330;
   --name: "Great Kaijuu";
-  --light-mode:hsl(206, 15%, 84%);
-  --dark-mode:hsl(206, 15%, 84%);
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hugekaijuu.png");
 }
 
@@ -3294,7 +3292,6 @@
 ***/
 
 /** Fuyume Expressions
-***/
 [character=Fuyume]{
   --color: #CCADD9;
   --hue: 282;
@@ -3302,7 +3299,7 @@
   --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume.png");
   --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_charahead.png")
 }
-
+***/
 [character="Fuyume"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/fuyume_awkward.png");
 }
@@ -3373,7 +3370,6 @@
 ***/
 
 /** Ibuki Expressions
-***/
 [character=Ibuki]{
   --color: #66BBCC;
   --hue: 190;
@@ -3381,7 +3377,7 @@
   --icon: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki.png");
   --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_charahead.png")
 }
-
+***/
 [character="Ibuki"][awkward] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/ibuki_awkward.png");
 }

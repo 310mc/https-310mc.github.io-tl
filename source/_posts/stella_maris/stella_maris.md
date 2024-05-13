@@ -22,8 +22,8 @@ permalink: stella_maris/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
-                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and guide you.</em><br><br>
+                    <em>When you're <span class="midori"><b>anxious</b></span> and unable to see the <span class="tetora"><b>future</b></span> of your path,<br>
+                    We want to be the <span class="shinobu"><b>light</b></span> that can pull <span class="chiaki"><b>your</b></span> <span class="kanata"><b>hand</b></span> and guide you.</em><br><br>
                     It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa to film a commercial…<!--ついに隊長を担当することになった奏汰。他の隊員たちは奏汰の独特な練習方法や謎に包まれた仕事内容に困惑気味。そんななか、奏汰から突如ＣＭ撮影の為に沖縄に向かうことを告げられ……-->
                 </div>
                 <div class="info">
@@ -123,8 +123,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    <em>When you're <font color="#00533F"><b>anxious</b></font color> and unable to see the <font color="#302833"><b>future</b></font color> of your path,<br>
-                    We want to be the <font color="#FFDC00"><b>light</b></font color> that can pull <font color="#E60033"><b>your</b></font color> <font color="#008DB7"><b>hand</b></font color> and guide you.</em><br><br>
+                    <em>When you're <span class="midori"><b>anxious</b></span> and unable to see the <span class="tetora"><b>future</b></span> of your path,<br>
+                    We want to be the <span class="shinobu"><b>light</b></span> that can pull <span class="chiaki"><b>your</b></span> <span class="kanata"><b>hand</b></span> and guide you.</em><br><br>
                     It is finally Kanata's turn to be the commander of Ryuseitai. The other members are bewildered by Kanata's peculiar practice methods and the job description shrouded in mystery. It is then that Kanata suddenly informs them that they'll be heading to Okinawa to film a commercial…
                 </div>
                 <div class="info">
@@ -465,22 +465,22 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="hidden_island" id="none">hidden island</a>
+                            <a href="hidden_island" id="">hidden island</a>
                         </li>
                         <li>
-                            <a href="birthplace_of_stars_p1" id="none">birthplace of stars (Chapter 1–6)</a>
+                            <a href="birthplace_of_stars_p1" id="">birthplace of stars (Chapter 1–6)</a>
                         </li>
                         <li>
-                            <a href="birthplace_of_stars_p2" id="none">birthplace of stars (Chapter 7–15)</a>
+                            <a href="birthplace_of_stars_p2" id="">birthplace of stars (Chapter 7–15)</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                         <li>
-                            <a href="epilogue#Story-Highlights" id="none">Story Highlights</a>
+                            <a href="epilogue#Story-Highlights" id="">Story Highlights</a>
                         </li>
                     </ul>
                 </div>
@@ -489,8 +489,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/kanata_1" id="none">Part One</a>
-                            <a href="minitalk/kanata_2" id="none">Part Two</a>
+                            <a href="minitalk/kanata_1" id="">Part One</a>
+                            <a href="minitalk/kanata_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -498,8 +498,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/tetora_1" id="none">Part One</a>
-                            <a href="minitalk/tetora_2" id="none">Part Two</a>
+                            <a href="minitalk/tetora_1" id="">Part One</a>
+                            <a href="minitalk/tetora_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -507,8 +507,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -516,8 +516,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part One</a>
-                            <a href="minitalk/midori_2" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -525,8 +525,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="none">Part One</a>
-                            <a href="minitalk/shinobu_2" id="none">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part One</a>
+                            <a href="minitalk/shinobu_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>

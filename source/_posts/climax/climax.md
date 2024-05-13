@@ -552,28 +552,28 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="he_wont_cry" id="none">He Won't Cry</a>
+                            <a href="he_wont_cry" id="">He Won't Cry</a>
                         </li>
                         <li>
-                            <a href="blessings_and_repayment" id="none">Blessings and Repayment</a>
+                            <a href="blessings_and_repayment" id="">Blessings and Repayment</a>
                         </li>
                         <li>
-                            <a href="anxiety_and_silence" id="none">Anxiety and Silence</a>
+                            <a href="anxiety_and_silence" id="">Anxiety and Silence</a>
                         </li>
                         <li>
-                            <a href="bystanders" id="none">Bystanders</a>
+                            <a href="bystanders" id="">Bystanders</a>
                         </li>
                         <li>
-                            <a href="tears_of_shooting_stars" id="none">Tears of Shooting Stars</a>
+                            <a href="tears_of_shooting_stars" id="">Tears of Shooting Stars</a>
                         </li>
                         <li>
-                            <a href="heroes_of_the_future" id="none">Heroes of the Future</a>
+                            <a href="heroes_of_the_future" id="">Heroes of the Future</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -582,8 +582,8 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/tetora_1" id="none">Part One</a>
-                            <a href="minitalk/tetora_2" id="none">Part Two</a>
+                            <a href="minitalk/tetora_1" id="">Part One</a>
+                            <a href="minitalk/tetora_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -591,8 +591,8 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="none">Part One</a>
-                            <a href="minitalk/shinobu_2" id="none">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part One</a>
+                            <a href="minitalk/shinobu_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -600,8 +600,8 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="none">Part One</a>
-                            <a href="minitalk/chiaki_2" id="none">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -609,8 +609,8 @@ This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="none">Part One</a>
-                            <a href="minitalk/midori_2" id="none">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
