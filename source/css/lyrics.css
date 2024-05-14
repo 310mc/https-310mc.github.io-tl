@@ -51,12 +51,28 @@ table.lyrics td.timestamp {
   color: #008db7;
 }
 
+.mao {
+  color: #E25285;
+}
+
+.leo {
+  color: #FF6857;
+}
+
+.eichi {
+  color: #EEB442;
+}
+
+.keito {
+  color: #008100;
+}
+
 @media (prefers-color-scheme: dark) {
   .tetora {
     color: #bba2c4;
   }
 
   .midori {
-    color: #0D9C79;
+    color: #0d9c7d;
   }
 }

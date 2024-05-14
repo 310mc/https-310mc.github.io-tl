@@ -465,19 +465,19 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="">Prologue</a>
+                            <a href="TBA" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="">Dot to Dot</a>
+                            <a href="TBA" id="none">Dot to Dot</a>
                         </li>
                         <li>
-                            <a href="TBA" id="">Line to Line</a>
+                            <a href="TBA" id="none">Line to Line</a>
                         </li>
                         <li>
-                            <a href="TBA" id="">Star Chart</a>
+                            <a href="TBA" id="none">Star Chart</a>
                         </li>
                         <li>
-                            <a href="TBA" id="">Epilogue</a>
+                            <a href="TBA" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>

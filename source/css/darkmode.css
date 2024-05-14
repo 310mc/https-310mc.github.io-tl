@@ -1,5 +1,6 @@
 @media (prefers-color-scheme: dark) {
 
+  /** General things across the site **/
   td, th {
     border: none;
     border-bottom: none;
@@ -13,8 +14,32 @@
     opacity: 1.0;
   }
 
+  a:link,
+  a:visited {
+    color: #F0C0C0;
+  }
+
+  a:hover {
+    color: #E66B6B;
+  }
+
+  a:active {
+    color: #A3D69D;
+  }
+
+  .chapter-area a:link,
+  .chapter-area a:visited {
+    color: #8dceaa
+  }
+
+  .post-body h1, .post-body h2 {
+    border-bottom: 1px solid hsl(0, 0%, 80%, 0.5);
+  }
+  /** General things END **/
+
+  /** Chat format **/
   .msr-icon {
-    filter: brightness(0.95) contrast(0.9);
+    filter: brightness(0.9) contrast(0.9);
   }
 
   .msr-line p,
@@ -22,17 +47,25 @@
       background: var(--dark-mode, #505050);
   }
 
-  .minitalk-option_header {
-    background: var(--dark-mode, #505050);
-    color: #d1d1d1;
-  }
-
   .msr-line p {
-      color: #d1d1d1;
+      color: #d4d4d4;
   }
 
   .thought {
     color: #8f8fcc;
+  }
+
+  [unknown] .msr-line p {
+    background: #505050;
+  }
+  
+  [unknown] .msr-line p:first-child::before {
+    background: #505050;
+  }
+
+  .minitalk-option_header {
+    background: var(--dark-mode, #505050);
+    color: #d1d1d1;
   }
 
   a.msr-fn-inline {
@@ -44,40 +77,10 @@
     color: #6e6e6e;
   }
 
-  [unknown] .msr-line p {
-    background: #505050;
-  }
-  
-  [unknown] .msr-line p:first-child::before {
-    background: #505050;
-  }
-
   .msr-narration::before {
     border-bottom: solid var(--msr-marker-lineColor, #555) 1px;
   }
-
-  .story-box,
-  .lightbox-content,
-  .preview-box {
-    background: var(--content-bg-color);
-  }
-
-  .story-wrapper .tab-content>.tab-item:not(:first-child),
-  .chapter-area>.mini-talks {
-    border-top: 1px solid hsl(0, 0%, 80%, 0.5);
-  }
-
-  .skills li::before {
-    color: #fff;
-    background-color: #2d3870;
-  }
-
-  /**
-  .story-box #none {
-    background: #37423C;
-  }
-  **/
-
+  
   .msr-season.winter {
     border-color: rgba(137,180,250,.2);
     background: rgba(137,180,250,.2);
@@ -104,28 +107,6 @@
     background: #85153B;
     border: solid 1px #C01245;
   }
-  
-  a:link,
-  a:visited {
-    color: #F0C0C0;
-  }
-
-  a:hover {
-    color: #E66B6B;
-  }
-
-  a:active {
-    color: #A3D69D;
-  }
-
-  .chapter-area a:link,
-  .chapter-area a:visited {
-    color: #8dceaa
-  }
-
-  .post-body h1, .post-body h2 {
-    border-bottom: 1px solid hsl(0, 0%, 80%, 0.5);
-}
 
   .post-body .note.narration {
     background: #6f42c1;
@@ -139,8 +120,15 @@
     color: #e2e6ff;
   }
 
+  .post-body .note.cw {
+    background: #a94442;
+    border-color: #df5c5a;
+    color: #f2e0e0;
+  }
+
   .post-body .note.narration a:not(.btn),
-  .post-body .note.location a:not(.btn) {
+  .post-body .note.location a:not(.btn),
+  .post-body .note.cw a:not(.btn) {
     border-bottom-color: #ffffff;
     color: #ffffff;
   }
@@ -152,7 +140,42 @@
   .post-body .value a:hover {
     color: #E66B6B;
   }
+  /** Chat format END **/
 
+  /** Cover format **/
+  .story-box,
+  .lightbox-content,
+  .preview-box {
+    background: var(--content-bg-color);
+  }
+
+  .story-wrapper .tab-content>.tab-item:not(:first-child),
+  .chapter-area>.mini-talks {
+    border-top: 1px solid hsl(0, 0%, 80%, 0.5);
+  }
+
+  .skills li::before {
+    color: #fff;
+    background-color: #2d3870;
+  }
+
+  .story-box #none {
+    background: #4a4d4b;
+  }
+  /** Cover format END **/
+
+  /** /history format  **/
+  .posts-collapse .post-content::before {
+    background: #3f3f3f;
+  }
+
+  .posts-collapse .post-content .post-header::before {
+    background: #272727;
+    border: 1px solid #838383;
+  }
+  /** /history format END **/
+  
+  /** Adjustments Dark mode **/
   .releasedate,
   .bluecolor {
     color:#7e7eeb;
@@ -161,4 +184,5 @@
   .redcolor {
     color:#E66B6B;
   }
+  /** Adjustments Dark mode END **/
 }
