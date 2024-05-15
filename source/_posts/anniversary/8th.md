@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] 8th Anniversary (In progress!)"
-date: 2023-4-27 9:00:00
+date: 2023-4-28 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -12,7 +12,7 @@ categories:
 tags:
 - Happy Elements Staff
 - Extra
-description: "[ES!!] Translation of 8th Anniversary content."
+description: "[ES!!] Translation of 8th Anniversary Ryuseitai content."
 ---
 
 {% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}

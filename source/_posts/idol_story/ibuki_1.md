@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Ibuki Taki – Idol Story 1"
-date: 2024-05-5 9:00:00
+date: 2024-04-28 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Ibuki]

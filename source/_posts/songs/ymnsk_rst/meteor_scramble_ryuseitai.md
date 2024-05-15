@@ -68,13 +68,13 @@ hidden: true
 
 ## MV Size
 
-{% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
+<h4 style="text-align:center;">Meteor Scramble ☆ Ryuseitai!</h4>
 
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=_WgnJr86g8s" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+{% img /img/es/songs/meteorscrambleryuseitaisongcover.jpg %}
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=4SOK8YoAmv0" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
-
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
@@ -82,7 +82,9 @@ hidden: true
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<h4 style="text-align:center;">Meteor Scramble ☆ Ryuseitai!</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -283,159 +285,8 @@ hidden: true
 
 <p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
-## Ryuseitai Songs Directory
-
-<div class="stories">
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/suiseihalation_300px.jpg"
-              alt="Suisei HALATION"
-          />
-      </div>
-      <a href="/suisei_HALATION" class="storyName" target="_blank">
-          <span>Suisei HALATION</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
-              alt="Nekketsu ☆ Ryusei Ninpouchou"
-          />
-      </div>
-      <a href="/nekketsu_ryusei_ninpouchou" class="storyName" target="_blank">
-          <span>Nekketsu ☆ Ryusei Ninpouchou</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/heartheatbeat_300px.jpg"
-              alt="Heart Heat Beat"
-          />
-      </div>
-      <a href="/heart_heat_beat" class="storyName" target="_blank">
-          <span>Heart Heat Beat</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/colorsarise_300px.jpg"
-              alt="Colors Arise"
-          />
-      </div>
-      <a href="/colors_arise" class="storyName" target="_blank">
-          <span>Colors Arise</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/relaxparadise_300px.jpg"
-              alt="RELAX PARADISE"
-          />
-      </div>
-      <a href="/RELAX_PARADISE" class="storyName" target="_blank">
-          <span>RELAX PARADISE</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/bokuranostella_300px.jpg"
-              alt="Bokura no Stella"
-          />
-      </div>
-      <a href="/bokura_no_stella" class="storyName" target="_blank">
-          <span>Bokura no Stella</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
-              alt="NEW DAYBREAK"
-          />
-      </div>
-      <a href="/NEW_DAYBREAK" class="storyName" target="_blank">
-          <span>NEW DAYBREAK</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
-              alt="Unmei Power Energy! (Tetora Solo)"
-          />
-      </div>
-      <a href="/unmei_power_energy" class="storyName" target="_blank">
-          <span>Unmei Power Energy!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
-              alt="Green to the sky (Midori Solo)"
-          />
-      </div>
-      <a href="/green_to_the_sky" class="storyName" target="_blank">
-          <span>Green to the sky</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
-              alt="Seisei Doudou Ouenka! (Shinobu Solo)"
-          />
-      </div>
-      <a href="/seisei_doudou_ouenka" class="storyName" target="_blank">
-          <span>Seisei Doudou Ouenka!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
-              alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
-          />
-      </div>
-      <a href="/kokoro_de_pittari_ai_ni_naru" class="storyName" target="_blank">
-          <span>Kokoro de Pittari Ai ni Naru</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
-              alt="happy drops (Kanata Solo)"
-          />
-      </div>
-      <a href="/happy_drops" class="storyName" target="_blank">
-          <span>happy drops</span>
-          <span class="read"></span>
-      </a>
-  </div>
-</div>
-
-<hr>
-
 <div toc>
-{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
+<!--{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}-->
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 

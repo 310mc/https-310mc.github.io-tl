@@ -15,7 +15,7 @@ description: "Translation of Bokura no Stella – Our Stella Song Lyrics by 310m
 permalink: bokura_no_stella/
 ---
 
-{% img /img/es/songs/ourstella.jpg %}
+{% img /img/es/songs/bokuranostella_300px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">

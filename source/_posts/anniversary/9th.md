@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] 9th Anniversary"
-date: 2024-5-3 9:00:00
+date: 2024-04-28 10:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Chiaki]
@@ -12,7 +12,7 @@ categories:
 tags:
 - Happy Elements Staff
 - Extra
-description: "[ES!!] Translation of 9th Anniversary content."
+description: "[ES!!] Translation of 9th Anniversary Ryuseitai content."
 ---
 
 {% img /img/es/anniversary/9th/minitalk_ryuseitai1_1.jpg %}

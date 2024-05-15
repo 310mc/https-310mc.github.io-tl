@@ -1,5 +1,5 @@
 ---
-title: "[Song] Unmei Power Energy! – Fate Power Energy!"
+title: "[Song] Unmei Power Energy! – Fate Power Energy! (Tetora Solo)"
 date: 2024/3/6 9:09:00
 categories:
 - [Enstars, ES!!]

@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Fuyume Hanamura – Idol Story 2"
-date: 2024-05-1 9:00:00
+date: 2024-04-28 9:03:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Fuyume]

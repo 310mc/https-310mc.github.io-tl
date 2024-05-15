@@ -224,7 +224,7 @@ permalink: aisle_be_with_you/
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="mao">Mao</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="mao">Mao</span></td>
     <td>
       Must be love, right?
     </td>
@@ -467,7 +467,7 @@ permalink: aisle_be_with_you/
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="mao">Mao</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="mao">Mao</span></td>
     <td>
       Must be love, right?
     </td>
