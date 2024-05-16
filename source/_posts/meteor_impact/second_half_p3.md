@@ -152,7 +152,7 @@ so. this is the Usual for me, and it is comforting.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying you like a princess is just perfect for that role…☆[^24]
+I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying you like a princess is just perfect for that role…☆[^1]
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -446,13 +446,13 @@ You ain’t gonna start actin’ indifferent after bein’ criticized that hard 
 
 He’s pickin’ a fight, so let’s accept his challenge.
 
-‘Course, we’ll be the losers here if we lose ourselves to anger and start throwin’ punches — and “he hit me first” ain’t gonna cut it as an excuse. But a nerdy young master[^25] like yourself would know that much at least, right?
+‘Course, we’ll be the losers here if we lose ourselves to anger and start throwin’ punches — and “he hit me first” ain’t gonna cut it as an excuse. But a nerdy young master like yourself would know that much at least, right?[^2]
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
 …Of course I do.
 
-He’s right on one part: I was caught in a delusion. I couldn’t effectively wave off the *klesha*[^26] plaguing my mind, when I’m meant to perform here on stage…
+He’s right on one part: I was caught in a delusion. I couldn’t effectively wave off the *klesha* plaguing my mind, when I’m meant to perform here on stage…[^3]
 
 It doesn’t matter how bizarre or unimaginable this situation is, the guests are still our guests. It’s our duty to ensure our guests are satisfied.
 
@@ -522,7 +522,7 @@ It has nothing to do with what my ancestors say! I simply wish to sing as part o
 
 You both appear weak and pale at the moment for some reason, and so I shall be your right-hand blade, much like a final trump card!
 
-Wait just a moment! Nay, not even that — for I, Kanzaki Souma, shall hurry back as I were Skanda himself![^27] Fuhahahaha…! ☆
+Wait just a moment! Nay, not even that — for I, Kanzaki Souma, shall hurry back as I were Skanda himself![^4] Fuhahahaha…! ☆
 {% endbubble %}
 
 {% bubble Kuro pastbcg %}
@@ -585,7 +585,7 @@ Let’s hurry, Shinkai-kun! There was a huge commotion near the auditorium, I th
 
 <th>(Now they’re doing a special version of that for defeating their most powerful enemy, the Five Eccentrics.)</th>
 
-<th>(“Sea God”… At first glance, it looks like the most suitable name for Shinkai-kun, but you can also read it as “monster”.[^28] I feel like that was what Akatsuki, the Student Council force, was aiming for…)</th>
+<th>(“Sea God”… At first glance, it looks like the most suitable name for Shinkai-kun, but you can also read it as “monster”.[^5] I feel like that was what Akatsuki, the Student Council force, was aiming for…)</th>
 
 <th>(Shinkai-kun isn’t even a God, let alone a monster… I don’t quite like the naming, but for now, I need to—)</th>
 {% endbubble %}
@@ -947,7 +947,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 {% img /img/es/eventstory/meteorimpact/chiakibcg.jpg %}
 
 {% bubble Chiaki mibcg %}
-HOLD IT RIGHT THEEEERE!!![^29]
+HOLD IT RIGHT THEEEERE!!![^6]
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
@@ -1053,7 +1053,7 @@ i’ll accomplish my Duty when the time comes. i will be the one to protect you 
 
 “I want you to know: a star *will* shoot across the sky at that moment!”
 
-“*We* are shooting stars![^30] Even if you wish upon us, it might not necessarily be granted!”
+“*We* are shooting stars![^7] Even if you wish upon us, it might not necessarily be granted!”
 
 “We’re still too weak and inexperienced! We only have a few people with us who share the same ambition!”
 
@@ -1131,7 +1131,7 @@ Hasumi.
 
 <th>(I’ll change it so that the units with the highest track record in DreamFes will perform first.)</th>
 
-<th>(We don’t mesh well with the concept of an opening act[^31], but… I’ll be able to move the game pieces forward on the board however I see fit.)</th>
+<th>(We don’t mesh well with the concept of an opening act, but… I’ll be able to move the game pieces forward on the board however I see fit.)</th>[^8]
 
 “Ryuseitai has hardly done any activities, and thus, is much lower than us Akatsuki. In other words, your turn has already ended.”
 
@@ -1215,7 +1215,7 @@ Hasumi.
 
 <th>(As soon as the audience heard him, they fell in a trance, despite having been dyed in malice—)</th>
 
-<th>(Their expressions became akin to a youth of their age — as if a curse has been purified through a *kagura*[^32] performance.)</th>
+<th>(Their expressions became akin to a youth of their age — as if a curse has been purified through a *kagura* performance.)</th>[^9]
 
 <th>(Could it be… *that*? I contemplated the truth of the legend for a long time, only to conclude it was nothing but a fairytale…)</th>
 
@@ -1239,7 +1239,7 @@ Hasumi.
 {% endbubble %}
 
 {% bubble Keito v2 cg %}
-“That’s right. While you do become a spirit once you die[^33]… your soul won’t be able to move on in peace if you leave behind regrets. Do everything you can while you’re still alive.”
+“That’s right. While you do become a spirit once you die…[^10] your soul won’t be able to move on in peace if you leave behind regrets. Do everything you can while you’re still alive.”
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1265,13 +1265,13 @@ Hasumi.
 {% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
 
 ## Translation Notes
-[^24]: The Little Mermaid is <em>ningyo hime</em> 人魚姫, literally “mermaid princess”.
-[^25]: Kuro refers to Keito as <em>obocchan</em> here.
-[^26]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).
-[^27]: Referring to <a href="https://en.wikipedia.org/wiki/Skanda_(Buddhism)" target="_blank">Skanda</a>, who is known to be a fast runner.
-[^28]: 海神 (Sea God) is read as <em>kaijin</em>, the same pronunciation for the word 怪人 (monster). As mentioned in a previous chapter, this is a common word in tokusatsu shows, and it refers to an antagonistic humanoid with supernatural abilities. This wordplay is why I chose to translate the live show’s name as “Battle versus the Sea God”.
-[^29]: You can hear a voiced version of this line <a href="https://files.catbox.moe/9m58c7.mp3" target="_blank">here.</a>
-[^30]: As mentioned before, the <em>ryusei</em> in Ryuseitai means “meteor”, as well as “shooting star”.
-[^31]: In entertainment, opening acts are known to be usually done by the lowly ranks.
-[^32]: Information about Kagura <a href="https://en.wikipedia.org/wiki/Kagura" target="_blank">here</a>.
-[^33]: Keito is referring to how Buddhism views life after death.
+[^1]: The Little Mermaid is <em>ningyo hime</em> 人魚姫, literally “mermaid princess”.
+[^2]: Kuro refers to Keito as <em>obocchan</em> here.
+[^3]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).
+[^4]: Referring to <a href="https://en.wikipedia.org/wiki/Skanda_(Buddhism)" target="_blank">Skanda</a>, who is known to be a fast runner.
+[^5]: 海神 (Sea God) is read as <em>kaijin</em>, the same pronunciation for the word 怪人 (monster). As mentioned in a previous chapter, this is a common word in tokusatsu shows, and it refers to an antagonistic humanoid with supernatural abilities. This wordplay is why I chose to translate the live show’s name as “Battle versus the Sea God”.
+[^6]: You can hear a voiced version of this line <a href="https://files.catbox.moe/9m58c7.mp3" target="_blank">here.</a>
+[^7]: As mentioned before, the <em>ryusei</em> in Ryuseitai means “meteor”, as well as “shooting star”.
+[^8]: In entertainment, opening acts are known to be usually done by the lowly ranks.
+[^9]: Information about Kagura <a href="https://en.wikipedia.org/wiki/Kagura" target="_blank">here</a>.
+[^10]: Keito is referring to how Buddhism views life after death.

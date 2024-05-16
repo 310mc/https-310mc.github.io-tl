@@ -47,7 +47,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, with co-translators <a href="https://twitter.com/sunsunrainys">emu</a> and haranami
+                    <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in Ch5 only, <a href="/about">310mc</a> & haranami in Ch6&7 only
                 </div>
             </div>
             <div class="info-item three">
@@ -312,7 +312,7 @@ Hm. I’m only asking out of curiosity, but who may you be referring to?
 
 You don’t have to tell me if it’s confidential, but — I feel like I’ve heard something like this before, so I’m sort of curious.
 
-If I remember correctly, he’s a famous idol who works solo, and goes by the name Hi… Hi-something[^1], wasn’t it…?
+If I remember correctly, he’s a famous idol who works solo, and goes by the name Hi… Hi-something, wasn’t it…?[^1]
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -418,7 +418,7 @@ No! Let me walk you back home, please! I’ve yearned to do something like this 
 {% endbubble %}
 
 {% bubble Subaru %}
-*Huh*? You were talking to me much more politely just a second ago; why’d you suddenly start being more casual?[^3]
+*Huh?* You were talking to me much more politely just a second ago; why’d you suddenly start being more casual?[^3]
 
 Don’t start shortening the distance between us for no reason~ It’s *way* too friendly, like you think you’re above me or something — It annoys me!
 {% endbubble %}
@@ -444,7 +444,7 @@ I didn’t say you could do *that*! Stay, stay! You’re so overbearing, oh my *
 {% bubble Subaru sad %}
 …Senpai, did you…
 
-About me—no, about my dad[^4], you—…
+About me— no, about my dad, you—…[^4]
 
 No, never mind.
 {% endbubble %}
@@ -659,7 +659,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 <th>(I should still go talk to him — I can ask him everything I want to know… Mikejima-san may get angry at me for this, but I want to do it.)</th>
 
-<th>(That kid granted my wishes, like a shooting star. It was all nothing but lies and fabrication[^6] done by his worshippers, but…)</th>
+<th>(That kid granted my wishes, like a shooting star. It was all nothing but lies and fabrication done by his worshippers, but…)</th>[^6]
 
 <th>(I still would like to repay his kindness. If he’s suffering from something, then I want to save him.)</th>
 
@@ -865,8 +865,6 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 <th>(……)</th>
 {% endbubble %}
 
-**Co-translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
 ## Chapter 6
 
 <div class="msr-location">
@@ -1000,7 +998,7 @@ That so? Well, being needed doesn’t feel so bad. I appreciate it, makes me wan
 {% endbubble %}
 
 {% bubble Souma v2 %}
-Fufu, so even demons[^9] shed tears. Though, I do admit that your discussion right now was a little too difficult for me to comprehend.
+Fufu, so even demons shed tears.[^9] Though, I do admit that your discussion right now was a little too difficult for me to comprehend.
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -1014,8 +1012,6 @@ Mm, a “worshipper”? Is this “Yaobikuni” related to a religion of some so
 {% bubble Kuro pastnorsmile %}
 Seems like it. It ain’t an officially recognized group in school or anythin’; it sounds like it’s some kinda network that somehow just came to be.
 {% endbubble %}
-
-**Co-translated with:** haranami
 
 ## Chapter 7
 
@@ -1113,7 +1109,7 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 
 <th>(I was so angry at myself, I felt so pathetic—I needed a way to vent it all out, badly.)</th>
 
-<th>(But even that was stupid of me to do. Morisawa got angry at me[^10], tellin’ me how I’m an “absolute idiot”…)</th>
+<th>(But even that was stupid of me to do. Morisawa got angry at me, tellin’ me how I’m an “absolute idiot”…)</th>[^10]
 
 <th>(Ahh, I really am an absolute freakin’ idiot. I can’t even retaliate… But I just dunno any other way to deal with things like this. What was I supposed to do, ma?)</th>
 
@@ -1173,7 +1169,6 @@ I know the person called Shinkai Kanata.
 
 I hold a different perspective than the one you two hold, and therefore I may be able to solve the issue… that is what I am thinking. According to all of our ancestors, a thief is required to catch a thief, correct?
 {% endbubble %}
-**Co-translated with:** haranami
 
 ## Chapter 8
 
@@ -1240,7 +1235,9 @@ I hold a different perspective than the one you two hold, and therefore I may be
 
 <th>(…He hasn’t even done anything wrong. All he’s been doing is granting “wishes”…)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch8_1.jpg %}
+
 {% bubble Madara %}
 Heeeey! Chiaki-saaaan!
 {% endbubble %}
@@ -1402,7 +1399,9 @@ I’ve been telling every single person who finds out about him not to wish for 
 
 They’re probably seeing it as me trying to kill off the God that has maintained their faith for so long.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch9_1.jpg %}
+
 {% bubble Madara %}
 Even Kanata-san told me off, y’know? He called me a traitor. An unfaithful, vulgar rogue.[^11]
 {% endbubble %}
@@ -1670,7 +1669,7 @@ did you simply want to Greet me? or do you have a Wish in mind?
 {% bubble Souma v2 %}
 Nay. I cannot speak for other people, but it would be absurd of us to pray to God. It is not permissible.
 
-That is why, at the very least — I choose to aid God’s conduct, as part of the Kanzaki clan. Typically, our role is exactly as our family name stands: To conceal God[^13] during a time of perplexity—
+That is why, at the very least — I choose to aid God’s conduct, as part of the Kanzaki clan. Typically, our role is exactly as our family name stands: To conceal God during a time of perplexity—[^13]
 
 However, from what I have heard, you seem to be accomplishing your role without any waver.
 
@@ -1935,6 +1934,7 @@ EeeeeEEEEEEAAAAAAAAAAAAAAA!?
 </div>
 
 ## Translation Notes
+
 [^1]: It’s very likely that they’re talking about <a href="https://ensemble-stars.fandom.com/wiki/HiMERU" target="_blank">HiMERU</a>.
 [^2]: In Japan, number four on the basketball uniform signifies the captain. You can read more on the numbers <a href="https://chouseisan.com/l/post-52236/" target="_blank">here</a> (It's in Japanese).
 [^3]: Chiaki has been referring to Subaru with <em>kimi</em> up until this point, when he switched to <em>omae</em>. Both mean “you”, but <em>omae</em> is more rough and informal than <em>kimi</em>, so it gives off a much more casual or close feel. But it can also be rude to refer to someone with <em>omae</em>, since it’s typically used towards someone below you, which may be the reason behind Subaru’s reaction.

@@ -460,11 +460,11 @@ I interpret this song as the essence of Ryuseitai during their Yumenosaki days, 
 
 - The song heavily references their Ryusei catchphrases, which Chiaki came up with at the start of his 3rd year as part of bringing his ideal image of 5-membered Ryuseitai to life. (A story that briefly covers this is <a href="/legendary_hero" target="_blank">Legendary Hero!</a>).
 
-- It's the only Ryuseitai song to have group lines between Ryuseitai seniors and Ryuseitai juniors <em>only</em> (Other songs mix them up between senior and juniors or other variations).
+- It's the only Ryuseitai song to have group lines split between the Ryuseitai seniors pair and Ryuseitai juniors group <em>only</em> (Other songs mix them up between senior and juniors or other variations).
 
 [^1]: In the song, they sing <em>yume no saki</em> (beyond the dreams), which is homophonous with Yumenosaki Academy (夢ノ咲). The academy’s name lit. means “(the school where) dreams bloom”.
 [^2]: This line has Chiaki’s name hidden within it, see bolded: <em>ichi i<b>chi aki</b>ramete-cha</em>.
-[^3]: This line has Kanata’s name hidden within it, see bolded: <em>negau <b>kanata</b> e</em>.
+[^3]: This line has Kanata’s name hidden within it, see bolded: <em>negau <b>kanata</b> e</em>. It also has the word “wish”, which relates back to Kanata’s backstory (Read more about it in <a href="/meteor_impact" target="_blank">Meteor Impact</a>).
 [^4]: This line has Tetora’s name hidden within it, see bolded: <em>tachi mukat<b>te tora</b>buru o</em>.
 [^5]: This line has Midori’s name hidden within it, see bolded: <em>saa, LET <b>ME DREA</b>M</em>.
 [^6]: This line has Shinobu’s name hidden within it, see bolded: <em>manaza<b>shi nobu</b>n</em>.

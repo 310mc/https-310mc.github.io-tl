@@ -246,7 +246,7 @@ Therefore, it must be us to do it. Akatsuki is in charge of the dirty work.
 {% bubble Keito v2 %}
 Religious faith has no shape or form — That’s exactly why we can’t use realistic measures to compensate for it with something like money.
 
-Eichi is the son of the Tenshouin Zaibatsu[^15], and so, he’s extremely capable with such pragmatic situations—
+Eichi is the son of the Tenshouin Zaibatsu, and so, he’s extremely capable with such pragmatic situations—[^1]
 
 However, we’re dealing with a formless, ghostly concept here— There aren’t many feasible ways to approach this matter. The one who’s suitable to face things like this is me, since I’m the son of a temple.
 
@@ -302,7 +302,7 @@ But I won’t blame you. You see, it’s only natural for it to be this way — 
 
 You did the best you could to pretend to be a samurai who holds himself proudly, and let yourself indulge in the selfish desire to feel honorable.
 
-It’s just like measles — You simply have one of those illnesses[^16] one suffers through during puberty. There’s no point blaming the ill, *I’m* the fool here for believing that you were a real samurai.
+It’s just like measles — You simply have one of those illnesses one suffers through during puberty.[^2] There’s no point blaming the ill, *I’m* the fool here for believing that you were a real samurai.
 {% endbubble %}
 
 {% bubble Souma worried %}
@@ -335,7 +335,7 @@ You fabricated your report on the Yaobikuni, didn’t you?
 {% bubble Keito v2 %}
 You asked me to leave it to you, so I complied. And yet, this is how you repay me, Kanzaki.
 
-Your report was well-written, but nobody could ever fool me *or* the King of Hell.[^17]
+Your report was well-written, but nobody could ever fool me *or* the King of Hell.[^3]
 
 He’ll pull your tongue out for being a liar.
 
@@ -431,7 +431,7 @@ I can only hope this would eventually make them believe that Shinkai Kanata is n
 
 Though in reality, there obviously hasn't been any dealings between us and Shinkai.
 
-But you see, he maintains his faith through being mysterious.[^18] There’s never a *logical* explanation provided to how he grants wishes.
+But you see, he maintains his faith through being mysterious.[^4] There’s never a *logical* explanation provided to how he grants wishes.
 
 That’s why his worshippers will try to find their *own* explanation. As soon as a single doubt appears in their mind, more will follow after, and then it will be our victory.
 
@@ -566,7 +566,7 @@ Of course not. This is just my own selfish ego — You could say it’s the same
 {% endbubble %}
 
 {% bubble Kuro past %}
-Haha, woah. You’re pretty dark, aintcha, daddy-o.[^19]
+Haha, woah. You’re pretty dark, aintcha, daddy-o.[^5]
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -678,7 +678,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(Yet, despite all this, the bullying never stops. Why? Because they don’t think they’re doing anything wrong.)</th>
 
-<th>(They’re doing this under the impression that they’re cheering for the heroes, and together they beat down the bad guys and monsters[^20] that must be loathed.)</th>
+<th>(They’re doing this under the impression that they’re cheering for the heroes, and together they beat down the bad guys and monsters that must be loathed.)</th>[^6]
 
 <th>(They think it’s fine to crush them — that, by hurling them off into the hemisphere and letting them explode into nothingness, they’re making the world one bit cleaner…)</th>
 
@@ -1863,7 +1863,7 @@ But he couldn’t accomplish it, so he failed… He was completely defeated by s
 
 <th>(I know the whole truth now.)</th>
 
-<th>(And I’m sure there isn’t a single qualification required to become a God *or* a hero.)</th>[^21]
+<th>(And I’m sure there isn’t a single qualification required to become a God *or* a hero.)</th>[^7]
 
 <th>(It doesn’t matter what anyone says, as long as someone—No, as long as *you* yourself believe that—)</th>
 
@@ -2362,7 +2362,7 @@ a Meteorite is no Joke to us, you know?
 {% endbubble %}
 
 {% bubble Madara hidden %}
-“Hahaha! Within Ryuseitai is a meteor![^22] So I made a hoax about a meteorite crashing down from the sky and straaaight onto the earth…♪”
+“Hahaha! Within Ryuseitai is a meteor![^8] So I made a hoax about a meteorite crashing down from the sky and straaaight onto the earth…♪”
 {% endbubble %}
 
 {% bubble Kanata pastfrownshake %}
@@ -2621,7 +2621,7 @@ there was no chance someone like me could ever be capable of becoming Something 
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-…Like a transformation[^23], huh.
+…Like a transformation, huh.[^9]
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -2800,12 +2800,13 @@ please Explain things to me properly! listen to what a god Tells you to do!
 </div>
 
 ## Translation Notes
-[^15]: The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a>, which is business conglomerates in Japan.
-[^16]: He calls Souma a <em>chuunibyou</em>, because it has the kanji for “illnesss”.
-[^17]: Referring to <a href="https://en.wikipedia.org/wiki/Yama_%28Buddhism%29" target="_blank">Yama</a>.
-[^18]: “Mysterious” here is the same word used in Ryusei Blue's catchphrase 神秘(性).
-[^19]: Originally <em>oyabun</em> 親分, which can mean a father, and also an (evil) boss.
-[^20]: Monsters here is <em>kaijin</em> 怪人, a common word in tokusatsu shows. It refers to an antagonistic humanoid with supernatural abilities. This word will be elaborated in detail in the coming chapters.
-[^21]: The chapter title for the second year era is called <em>hero shikkaku</em> ヒーロー失格 in Japanese, literally “Disqualified/unsuitable as a hero”, and can be translated as “failure as a hero” (see: Kanata’s dialogue earlier in the chapter). But due to Chiaki’s epiphany here, I decided the best way to translate the title is to go with “Unqualified Hero”.
-[^22]: The <em>ryusei</em> in Ryuseitai means “meteor” (and of course, means “shooting star”).
-[^23]: Chiaki uses the same word that tokusatsu heroes say before transforming: <em>henshin</em> (Translated as <em>“Transform!”</em> much earlier in this story, and sometimes in other Enstars stories too.)
+
+[^1]: The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a>, which is business conglomerates in Japan.
+[^2]: He calls Souma a <em>chuunibyou</em>, because it has the kanji for “illnesss”.
+[^3]: Referring to <a href="https://en.wikipedia.org/wiki/Yama_%28Buddhism%29" target="_blank">Yama</a>.
+[^4]: “Mysterious” here is the same word used in Ryusei Blue's catchphrase 神秘(性).
+[^5]: Originally <em>oyabun</em> (親分), which can mean a father, and also an (evil) boss.
+[^6]: Monsters here is <em>kaijin</em> 怪人, a common word in tokusatsu shows. It refers to an antagonistic humanoid with supernatural abilities. This word will be elaborated in detail in the coming chapters.
+[^7]: The chapter title for the second year era is called <em>hero shikkaku</em> ヒーロー失格 in Japanese, literally “Disqualified/unsuitable as a hero”, and can be translated as “failure as a hero” (see: Kanata’s dialogue earlier in the chapter). But due to Chiaki’s epiphany here, I decided the best way to translate the title is to go with “Unqualified Hero”.
+[^8]: The <em>ryusei</em> in Ryuseitai means “meteor” (and of course, means “shooting star”).
+[^9]: Chiaki uses the same word that tokusatsu heroes say before transforming: <em>henshin</em> (Translated as <em>“Transform!”</em> much earlier in this story, and sometimes in other Enstars stories too.)

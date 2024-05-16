@@ -257,4 +257,5 @@ once upon a time… a Meteorite fell down in some place—
 </div>
 
 ## Translation Notes
+
 [^1]: If you’re curious, in the original he’s singing <a href="https://www.youtube.com/watch?v=DNJToo_GXKo" target="_blank">this lullaby</a>.

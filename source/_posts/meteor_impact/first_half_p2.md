@@ -41,7 +41,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, with a co-translator <a href="https://twitter.com/sunsunrainys">emu</a>
+                    <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in Ch9-12 only
                 </div>
             </div>
             <div class="info-item three">
@@ -49,7 +49,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                    Proofreading
                 </div>
                 <div class="value">
-                    See end of chapter
+                    <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival">SayonaraRevival</a> and <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in Ch17-18 only
                 </div>
             </div>
         </div>
@@ -207,9 +207,6 @@ O-Okay. It’s a short distance, so I’m fine with that. It would have been bet
 {% bubble Kuro pastinjured %}
 Haha, relax, won’t ya? Won’t be askin’ ya to do anythin’ impossible.
 {% endbubble %}
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 10
 
@@ -235,7 +232,7 @@ Thanks. … You seem weak an’ all, but you’re actually more well built than 
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Yes! I’ve been working out! I used to be against working out[^11], since I was afraid I wouldn’t grow any taller, but—
+Yes! I’ve been working out! I used to be against working out, since I was afraid I wouldn’t grow any taller, but—[^1]
 
 Oh, I’m in the Basketball Club, so! That’s why it’s better if I could grow taller!
 
@@ -371,10 +368,6 @@ Even if I gotta crawl all the way there, I’ll still get there on time as long 
 
 I can do what she wants me to do, after your help. I can keep bein’ her “normal Onii-chan”… so, thanks again, Morisawa.
 {% endbubble %}
-
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 11
 
@@ -558,12 +551,8 @@ Oh no, there’s no need… I haven’t done anything worth being repaid.
 
 <th>(—Actually, wait. This may be my chance. I’m powerless and can’t make any impact on this world…)</th>
 
-<th>(But maybe with this mystical kid—maybe if I could borrow his strength… even I could do something. He may be my transformation belt[^12].)</th>
+<th>(But maybe with this mystical kid—maybe if I could borrow his strength… even I could do something. He may be my transformation belt.)</th>[^2]
 {% endbubble %}
-
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 12
 
@@ -721,10 +710,6 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no— i am a God
 …?
 {% endbubble %}
 
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a></th>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 ## Chapter 13
 
 <div class="msr-location">
@@ -805,7 +790,7 @@ Is that so. Mhm, well then, I’m glad I was helpful.
 {% endbubble %}
 
 {% bubble Keito v2 %}
-Indeed. Truthfully, I wasn’t expecting much from you[^13], but—
+Indeed. Truthfully, I wasn’t expecting much from you, but—[^3]
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -909,8 +894,6 @@ Yes… See you tomorrow.
 
 <th>(Heh. Truly, thank you, Morisawa. Thanks to you*, I now know what path I must take from here.)</th>
 {% endbubble %}
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 14
 
@@ -1128,8 +1111,6 @@ I’m such a dumbass, gettin’ all soft just cuz you were a little nice to me, 
 I’m regrettin’ it all, damnit…!!
 {% endbubble %}
 
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 ## Chapter 15
 
 <div class="msr-cw">
@@ -1256,8 +1237,6 @@ Morisawa. If my li’l sis gets a single scratch from this…
 You’re gonna *pay*. I’ll freakin’ kill you myself.
 {% endbubble %}
 
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 ## Chapter 16
 
 <div class="msr-cw">
@@ -1323,7 +1302,7 @@ Shinkai-kun! Where are you!? Please respond! Please, if you’re out there…!
 {% endbubble %}
 
 {% bubble Madara %}
-Goootcha! Too bad, so sad, don’t get mad! You thought it was Kanata-san, but it was I! Madara-san![^14] ♪
+Goootcha! Too bad, so sad, don’t get mad! You thought it was Kanata-san, but it was I! Madara-san![^4] ♪
 {% endbubble %}
 
 {% bubble Chiaki mgnworried worried %}
@@ -1403,7 +1382,7 @@ You’re just an ordinary kid, so you gotta live your ordinary life, right?
 
 You don’t have the time to look around for a God, so lemme make your life easier~♪
 
-Right then. Let me be honest with you—There are no such things as “myths”[^15] in this world.
+Right then. Let me be honest with you—There are no such things as “myths” in this world.[^5]
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}
@@ -1441,8 +1420,6 @@ Kanata-san being a God is just faaar too stable a fantasy that it’s kept going
 
 And, after a long period of preparation, this fantasy has even plotted a scheme to maintain itself.
 {% endbubble %}
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad" target="_blank">Revoltrad</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 17
 
@@ -1635,8 +1612,6 @@ If people stop wishing for anything… and if people lose faith in him, he’ll 
 I mean… You get what I’m saying, right? He’s a human being, after all.
 {% endbubble %}
 
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad" target="_blank">Revoltrad</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /meteor_impact/first_half_p1,, arrow-left, Previous Chapter: Two Years Ago: Not Quite A Hero (Chapter 1-8) %}
@@ -1645,8 +1620,9 @@ I mean… You get what I’m saying, right? He’s a human being, after all.
 </div>
 
 ## Translation Notes
-[^11]: Some people have a concern that exercise can stump their physical growth, or even make them shorter.
-[^12]: A transformation belt is what a tokusatsu hero (usually a Kamen Rider) uses to transform.
-[^13]: Like the previous chapter Keito was in, he was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to <em>kimi</em> to sound more friendly in his next line. It’s a little difficult to show the difference between the two “you”s in English, so in this chapter, I’ve added an asterisk after every line he uses (or was about to use) <em>kisama</em> in.
-[^14]: To clarify, the JoJo-like reference is purely coincidental and not in the original text; it just fit the tone Madara was going for.
-[^15]: The word used for “myths” is <em>shinpi</em> 神秘, the same word in Ryusei Blue’s catchphrase: <em>The blue flame is the mark of mystery (shinpi).</em> Its literal meaning is “unfathomable mystery.” Also, as an important side note… the first kanji means “God”.
+
+[^1]: Some people have a concern that exercise can stump their physical growth, or even make them shorter.
+[^2]: A transformation belt is what a tokusatsu hero (usually a Kamen Rider) uses to transform.
+[^3]: Like the previous chapter Keito was in, he was about to refer to Chiaki with <em>kisama</em> (rude “you”), but quickly switches it to <em>kimi</em> to sound more friendly in his next line. It’s a little difficult to show the difference between the two “you”s in English, so in this chapter, I’ve added an asterisk after every line he uses (or was about to use) <em>kisama</em> in.
+[^4]: To clarify, the JoJo-like reference is purely coincidental and not in the original text; it just fit the tone Madara was going for.
+[^5]: The word used for “myths” is <em>shinpi</em> 神秘, the same word in Ryusei Blue’s catchphrase: <em>The blue flame is the mark of mystery (shinpi).</em> Its literal meaning is “unfathomable mystery.” Also, as an important side note… the first kanji means “God”.

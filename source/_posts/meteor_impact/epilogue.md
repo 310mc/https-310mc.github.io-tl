@@ -344,7 +344,10 @@ you are the one who taught me this.
 thank you, hero…♪
 {% endbubble %}
 
-<div toc>{% btn /meteor_impact/second_half_p3,, arrow-left, Next Chapter: One Year Ago: Unqualified Hero (Chapter 27-33) %}{% btn /meteor_impact,, star, Index %}</div>
+<div toc>
+{% btn /meteor_impact/second_half_p3,, arrow-left, Next Chapter: One Year Ago: Unqualified Hero (Chapter 27-33) %}
+{% btn /meteor_impact,, star, Index %}
+</div>
 
 ## Translation Notes
 

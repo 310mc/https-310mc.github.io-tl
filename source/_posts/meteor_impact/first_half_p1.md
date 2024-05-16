@@ -39,7 +39,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, with a co-translator <a href="https://twitter.com/sunsunrainys">emu</a>
+                    <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in Ch6&8 only
                 </div>
             </div>
             <div class="info-item three">
@@ -47,7 +47,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                    Proofreading
                 </div>
                 <div class="value">
-                    See end of chapter
+                    <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Ch1-4 only
                 </div>
             </div>
         </div>
@@ -199,8 +199,6 @@ salty.
 i know! you are from the Sea as well, yes…? ♪
 {% endbubble %}
 
-**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
-
 ## Chapter 2
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch2.jpg %}
@@ -330,7 +328,7 @@ Ahh, no… That last question was a bit too difficult for me, but I can answer y
 
 My name is Morisawa Chiaki. I’m a first year like you, and I’m currently in a unit called Ryuseitai. I’m still in the lower ranks, though.
 
-Ryuseitai doesn’t have as much influential power as Othello[^2], but it does have a lot of members. It’s split between two squads: the first squad is always performing onstage and brimming with glory, while the second squad supports them.
+Ryuseitai doesn’t have as much influential power as Othello, but it does have a lot of members.[^2] It’s split between two squads: the first squad is always performing onstage and brimming with glory, while the second squad supports them.
 
 I’m in the second squad, and I’m meant to do the trivial tasks. And honestly, it’s only natural that I was placed in it; I’m a newcomer. I could never allow myself to take a senior position.
 {% endbubble %}
@@ -362,8 +360,6 @@ hmm… i think he *wants* to become Family, but… i do not quite understand… 
 {% bubble Chiaki mgn %}
 …?
 {% endbubble %}
-
-**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 3
 
@@ -520,7 +516,7 @@ Your smile is my reward! Heheh, that sounded a little bit like a hero~♪
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-“hero”[^3]… what exactly is that? you said you want to Become that, yes?
+“hero”…[^3] what exactly is that? you said you want to Become that, yes?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -552,7 +548,7 @@ Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, a
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Yes! Like this, and like this! This is No.1’s transformation[^4] pose, and this is No.2’s! ☆
+Yes! Like this, and like this! This is No.1’s transformation pose, and this is No.2’s! ☆[^4]
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
@@ -568,8 +564,6 @@ Becoming a hero is hard when reality is the way it is, but I could become an ido
 
 I want to become the dream version of myself! The cool, ideal version!
 {% endbubble %}
-
-**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
 
 ## Chapter 4
 
@@ -603,7 +597,7 @@ The others, especially the second squad, just rely on those members, and play ar
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-hm. is it a bad thing to Play around? both Playing and Singing[^5] are a splendid way to worship, though…?
+hm. is it a bad thing to Play around? both Playing and Singing are a splendid way to worship, though…?[^5]
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -754,8 +748,6 @@ please leave everything to me. i will grant your Wish. will that be a sufficient
 …?
 {% endbubble %}
 
-**ENG Proof:** Shie, <a href="https://twitter.com/goldgust" target="_blank">Gold</a>
-
 ## Chapter 5
 
 <div class="msr-location">
@@ -787,7 +779,7 @@ Please excuse me!
 
 <th>(I’d like him to do me a favor, after all — This is me paying in advance for it.)</th>
 
-<th>(Heheh… I’m almost acting like a woman[^7] invading a guy’s life~♪)</th>
+<th>(Heheh… I’m almost acting like a woman invading a guy’s life~♪)</th>[^7]
 
 <th>(Riiight then! I’ll start with the floor, since it should be fine for me to clean i—)</th>
 {% endbubble %}
@@ -897,8 +889,6 @@ Look— It’s only going to swell up if you don’t do anything about it! And t
 {% bubble Chiaki mgn %}
 Ahh, um! I’m not trying to criticize you or anything! I’m just worried! Ummm… You’re a strong guy, so it’s probably presumptuous of someone like me to be worried about you, but…!
 {% endbubble %}
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 6
 
@@ -1099,10 +1089,6 @@ If I let that happen again… I’ll really have had no reason to ever been born
 …?
 {% endbubble %}
 
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 ## Chapter 7
 
 <div class="msr-location">
@@ -1282,8 +1268,6 @@ Please lend me your support for my dream. If even just one person sympathizes wi
 
 Please believe in me. I will be the one to change Yumenosaki Academy.
 {% endbubble %}
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
 
 ## Chapter 8
 
@@ -1497,10 +1481,6 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 …?
 {% endbubble %}
 
-**Co-Translated with:** <a href="https://twitter.com/sunsunrainys" target="_blank">emu</a>
-
-**ENG Proof:** <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival" target="_blank">SayonaraRevival</a>
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
 {% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}
@@ -1510,7 +1490,7 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 
 ## Translation Notes
 
-[^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=dZL5JPvXn7Q" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
+[^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=lQK7kjMmTqg" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
 [^2]: Othello was the previous name of Knights when Izumi and Leo were first years.
 [^3]: He says “hero” in katakana, which is the proper spelling, and from here on he’ll continue to say it in the proper spelling.
 [^4]: Referring to the first <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a> series, where the first rider was called <a href="https://kamenrider.fandom.com/wiki/Takeshi_Hongo" target="_blank">Kamen Rider ichi-go</a>, and the second <a href="https://kamenrider.fandom.com/wiki/Hayato_Ichimonji" target="_blank">Kamen Rider ni-go</a>. The two poses Chiaki is referring to can be seen <a href="https://twitter.com/ryuseitai_info/status/1123771801639825408" target="_blank">here</a>. As extra info, even Chiaki’s 2* card is a reference to <a href="https://ensemble-stars.fandom.com/wiki/%28Academy_Idol%29_Chiaki_Morisawa" target="_blank">Kamen Rider ichi-go’s pose</a>.
