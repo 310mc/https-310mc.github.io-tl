@@ -180,10 +180,45 @@ I’m never taking detours ever again. I’m gonna rush straight in through the
 No— I’ll make sure to take *“us”* there.
 {% endbubble %}
 
+## Story Directory
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory1.jpg"
+            alt="Hinata Aoi Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/hinata_1" class="storyName" target="_blank">
+        <span>Hinata Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory2.jpg"
+            alt="Hinata Aoi Idol Story 2"
+        />
+    </div>
+    <a href="https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2" class="storyName" target="_blank">
+        <span>Hinata Idol Story 2 (With Yuta)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory3.jpg"
+            alt="Hinata Aoi Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/hinata_3" class="storyName" target="_blank">
+        <span>Hinata Idol Story 3 (With Midori)</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-right, Hinata Idol Story 2 %}</div>
-
-## Chapter Directory
-
-Hinata Idol Story 1<br>(Solo)|Hinata Idol Story 2<br>(Featuring Yuta)|Hinata Idol Story 3<br>(Featuring Midori)
-:-:|:-:|:-:
-[![/idol_story/hinata_1](/img/es/idolstory/banner/hinataidolstory1.jpg)](/idol_story/hinata_1)|[![https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2](/img/es/idolstory/banner/hinataidolstory2.jpg)](https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2)|[![/idol_story/hinata_3](/img/es/idolstory/banner/hinataidolstory3.jpg)](/idol_story/hinata_3)

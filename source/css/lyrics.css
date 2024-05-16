@@ -51,20 +51,36 @@ table.lyrics td.timestamp {
   color: #008db7;
 }
 
+.eichi {
+  color: #EEB442;
+}
+
 .mao {
   color: #E25285;
+}
+
+.niki {
+  color: #507EA4;
+}
+
+.kaoru {
+  color: #AA9255;
+}
+
+.keito {
+  color: #008100;
+}
+
+.mitsuru {
+  color: #D2691E;
 }
 
 .leo {
   color: #FF6857;
 }
 
-.eichi {
-  color: #EEB442;
-}
-
-.keito {
-  color: #008100;
+.natsume {
+  color: #E04343;
 }
 
 @media (prefers-color-scheme: dark) {

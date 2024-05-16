@@ -217,6 +217,4 @@ And that’s how I’ll be doing my best, so… Please do support me, Miss Produ
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_2,, arrow-right, Midori Idol Story 2 %}</div>

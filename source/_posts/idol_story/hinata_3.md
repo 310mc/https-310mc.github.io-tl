@@ -196,13 +196,49 @@ Let’s talk about all kindsa things while we eat! Like our interests and hobbie
 I can only hope this makes us close enough for you to start calling me your friend~♪
 {% endbubble %}
 
+## Story Directory
+
+<div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory1.jpg"
+            alt="Hinata Aoi Idol Story 1"
+        />
+    </div>
+    <a href="/idol_story/hinata_1" class="storyName" target="_blank">
+        <span>Hinata Idol Story 1</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory2.jpg"
+            alt="Hinata Aoi Idol Story 2"
+        />
+    </div>
+    <a href="https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2" class="storyName" target="_blank">
+        <span>Hinata Idol Story 2 (With Yuta)</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/hinataidolstory3.jpg"
+            alt="Hinata Aoi Idol Story 3"
+        />
+    </div>
+    <a href="/idol_story/hinata_3" class="storyName" target="_blank">
+        <span>Hinata Idol Story 3 (With Midori)</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+
 <div toc>{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-left, Hinata Idol Story 2 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Note
 
 A continuation of Hinata and Midori's development can be found in <a href="/making_100_friends_project" target="_blank">Making-100-Friends Project</a>!
-
-## Chapter Directory
-Hinata Idol Story 1<br>(Solo)|Hinata Idol Story 2<br>(Featuring Yuta)|Hinata Idol Story 3<br>(Featuring Midori)
-:-:|:-:|:-:
-[![/idol_story/hinata_1](/img/es/idolstory/banner/hinataidolstory1.jpg)](/idol_story/hinata_1)|[![https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2](/img/es/idolstory/banner/hinataidolstory2.jpg)](https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2)|[![/idol_story/hinata_3](/img/es/idolstory/banner/hinataidolstory3.jpg)](/idol_story/hinata_3)
