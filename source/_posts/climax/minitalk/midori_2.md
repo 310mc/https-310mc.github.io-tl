@@ -47,8 +47,6 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 </div>
 
 <!-- more -->
-
-
 ## <div mt="rare"></div> 1/3
 
 {% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}

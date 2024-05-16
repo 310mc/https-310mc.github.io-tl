@@ -66,8 +66,6 @@ This story is connected to the card [Bonds That Can Be Called Friendship] Midori
 
 <!-- more -->
 
-
-
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -381,7 +379,5 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

@@ -546,8 +546,6 @@ permalink: suisei_HALATION/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /comet_show,, star, Event Story: Comet Show %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

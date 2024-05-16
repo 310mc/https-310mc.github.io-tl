@@ -345,8 +345,6 @@ permalink: green_to_the_sky/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

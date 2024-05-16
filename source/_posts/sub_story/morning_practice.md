@@ -66,8 +66,6 @@ This story is connected to the card [Upperclassman’s Present] Midori Takamine.
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 <div class="msr-season spring">
@@ -468,8 +466,6 @@ I’d love to get along with you as fellow lovers of mascot characters…♪
         </a>
     </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

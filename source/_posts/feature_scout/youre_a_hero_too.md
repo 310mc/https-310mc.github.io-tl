@@ -63,8 +63,6 @@ This story is connected to the card [Ray of Hope] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 <div class="msr-season autumn">
@@ -686,8 +684,6 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

@@ -65,8 +65,6 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 <div class="msr-season summer">
@@ -586,8 +584,6 @@ Thank you for always watching over me. Because you and my comrades are here for 
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

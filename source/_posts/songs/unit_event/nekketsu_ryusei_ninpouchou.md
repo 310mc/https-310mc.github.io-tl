@@ -614,8 +614,6 @@ permalink: nekketsu_ryusei_ninpouchou/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /ninja_clan,, star, Event Story: Ninja Clan %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

@@ -62,8 +62,6 @@ This story is connected to the card [Desperately Trying To Compliment] Midori Ta
 
 <!-- more -->
 
-
-
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
 </div>
@@ -452,7 +450,5 @@ Um, no… That um, really *does* sound like a pain…
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

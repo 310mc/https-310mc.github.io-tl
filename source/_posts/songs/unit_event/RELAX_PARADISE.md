@@ -999,8 +999,6 @@ permalink: RELAX_PARADISE/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /tropical,, star, Event Story: Tropical %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

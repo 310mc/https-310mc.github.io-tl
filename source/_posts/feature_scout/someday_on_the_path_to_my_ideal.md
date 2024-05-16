@@ -687,8 +687,6 @@ I’ll let my personalized outfit influence me to continue becoming a great man.
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

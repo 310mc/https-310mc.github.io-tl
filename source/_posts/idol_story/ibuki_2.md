@@ -434,8 +434,6 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /idol_story/ibuki_1,, arrow-left, Ibuki Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

@@ -68,8 +68,6 @@ This story is connected to the card [Intertwined Sea] Kanata Shinkai.
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 <div class="msr-season autumn">
@@ -641,7 +639,5 @@ let’s go search for the perfect [ocean] for me—
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>

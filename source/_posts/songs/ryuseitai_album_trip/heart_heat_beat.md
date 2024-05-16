@@ -479,8 +479,6 @@ permalink: heart_heat_beat/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

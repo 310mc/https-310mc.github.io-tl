@@ -68,8 +68,6 @@ This story is connected to the card [Senpai Discussion] Midori Takamine.
 
 <!-- more -->
 
-
-
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -368,8 +366,6 @@ I wish I never said anything if it was gonna end like this…!!
         </a>
     </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

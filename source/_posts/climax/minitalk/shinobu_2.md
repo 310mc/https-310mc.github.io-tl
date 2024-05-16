@@ -47,8 +47,6 @@ description: "[ES!] Translation of Shinobu's second Produce Course from Climax. 
 </div>
 
 <!-- more -->
-
-
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_shinobu2_1.jpg %}
 {% bubble Shinobu sad4 %}

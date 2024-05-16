@@ -182,8 +182,6 @@ Huh? Is it not the “the more passionate we become” part? I also heard Morisa
     </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Other,, star, Index %}</div>
 
 ## Translation Notes

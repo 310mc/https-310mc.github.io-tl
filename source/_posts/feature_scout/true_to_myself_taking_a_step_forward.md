@@ -884,8 +884,6 @@ All for the sake of that future… the one where I make everyone smile by singin
 </div>
 </div>
 
-<hr>
-
 <div toc>
 <div style="margin-bottom:5px">{% btn #Card,, arrow-up, Back to Top %}</div>{% btn /translations#Idol-Stories,, star, Index %}
 </div>

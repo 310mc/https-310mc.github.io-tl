@@ -645,8 +645,6 @@ i am curious to see what sort of me you will discover, anzu-san. fufu, how excit
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

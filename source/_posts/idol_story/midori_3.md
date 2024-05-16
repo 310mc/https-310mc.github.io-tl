@@ -277,6 +277,4 @@ So, I think my current size is just fine…♪
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /idol_story/midori_2,, arrow-left, Midori Idol Story 2 %}{% btn /translations#Idol-Stories,, star, Index %}</div>

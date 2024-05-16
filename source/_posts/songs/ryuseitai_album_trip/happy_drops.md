@@ -337,8 +337,6 @@ permalink: happy_drops/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

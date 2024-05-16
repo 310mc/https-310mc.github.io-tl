@@ -66,8 +66,6 @@ This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 ## Chapter 1
 
 {% note narration %}
@@ -775,8 +773,6 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

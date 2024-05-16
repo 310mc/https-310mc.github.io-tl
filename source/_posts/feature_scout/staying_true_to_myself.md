@@ -658,8 +658,6 @@ Will you please accept this request of mine? I’d love an outfit that lets me b
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

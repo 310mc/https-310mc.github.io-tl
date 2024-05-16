@@ -47,8 +47,6 @@ description: "[ES!] Translation of Tetora's second Produce Course from Climax. F
 </div>
 
 <!-- more -->
-
-
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_tetora2_1.jpg %}
 {% bubble Tetora sad %}

@@ -66,8 +66,6 @@ This story is connected to the card [Parfait of Pure Bliss] Midori Takamine.
 
 <!-- more -->
 
-
-
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -411,8 +409,6 @@ Is “Otto~” meant to be me?
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

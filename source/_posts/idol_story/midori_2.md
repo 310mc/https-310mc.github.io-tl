@@ -295,6 +295,4 @@ If you ever felt like joining, please do inform me. The club will always be happ
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>

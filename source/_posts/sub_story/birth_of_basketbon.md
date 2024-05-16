@@ -317,8 +317,6 @@ For more Mao and Midori in the Basketball Club, please read <a href="/hurray_nor
     </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

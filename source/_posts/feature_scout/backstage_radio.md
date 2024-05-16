@@ -64,8 +64,6 @@ This story is connected to the card [Growth ON AIR] Shinobu Sengoku.
 
 <!-- more -->
 
-
-
 <div class="msr-season winter">
     <p><span><b>Season:</b> Winter</span></p>
 </div>
@@ -290,8 +288,6 @@ Roger that! We shall start with the greeting and title call first. Right then, I
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

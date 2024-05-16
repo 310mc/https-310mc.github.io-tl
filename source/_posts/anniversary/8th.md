@@ -202,6 +202,4 @@ Um, but then we wouldn't really be playing by the game's rules, would we…? It'
     </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Other,, star, Index %}</div>

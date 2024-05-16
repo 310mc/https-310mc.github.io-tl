@@ -720,8 +720,6 @@ Right, right? You can come up with many ways to enjoy yourself, no matter the we
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

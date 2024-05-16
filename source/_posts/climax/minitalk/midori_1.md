@@ -47,8 +47,6 @@ description: "[ES!] Translation of Midori's first Produce Course from Climax. Fr
 </div>
 
 <!-- more -->
-
-
 ## <div mt="rare"></div> 1/3
 {% img /img/es/eventstory/climax/minitalk_midori1_1.jpg %}
 {% bubble Midori sigh %}

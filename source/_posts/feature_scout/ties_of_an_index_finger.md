@@ -63,8 +63,6 @@ This story is connected to the card [Naming the Injury] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -441,8 +439,6 @@ Gah, don’t squeeze me so tightly!
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

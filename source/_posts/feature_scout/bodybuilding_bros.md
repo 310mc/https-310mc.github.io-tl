@@ -309,8 +309,6 @@ Yeah, we owe this bonding session all to exercise…♪
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn https://hyenahunt.tumblr.com/post/663690842981154816/tetora-nagumo-3-feature-scout-together-we-are,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

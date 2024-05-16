@@ -788,8 +788,6 @@ permalink: colors_arise/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /supervillain,, star, Event Story: Supervillain %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

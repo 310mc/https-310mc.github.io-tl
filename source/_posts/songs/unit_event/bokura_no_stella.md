@@ -526,8 +526,6 @@ permalink: bokura_no_stella/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /stella_maris,, star, Event Story: Stella Maris %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

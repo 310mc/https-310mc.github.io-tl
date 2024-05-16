@@ -70,8 +70,6 @@ This story is connected to the card [Negligent] Midori Takamine.
 
 <!-- more -->
 
-
-
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -382,8 +380,6 @@ Ughh, I can’t freaking take it anymore with these goofy idiots…!
         </a>
     </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

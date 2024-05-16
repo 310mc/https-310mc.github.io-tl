@@ -356,8 +356,6 @@ permalink: seisei_doudou_ouenka/
   </div>
 </div>
 
-<hr>
-
 <div toc>
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}

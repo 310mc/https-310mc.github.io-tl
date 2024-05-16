@@ -768,8 +768,6 @@ Aight then, Anzu-anego. I’m all yours for the photoshooting, we can start anyt
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
 ## Translation Notes

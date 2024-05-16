@@ -65,8 +65,6 @@ This story is connected to the card [Untitled Book] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -379,8 +377,6 @@ Thank you. I’ll tell Morisawa-senpai about it later.
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

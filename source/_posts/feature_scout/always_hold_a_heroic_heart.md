@@ -63,8 +63,6 @@ This story is connected to the card [What Makes A Hero] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -339,8 +337,6 @@ Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! â
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

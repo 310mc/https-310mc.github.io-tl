@@ -63,8 +63,6 @@ This story is connected to the card [Substitute Attendant] Chiaki Morisawa.
 
 <!-- more -->
 
-
-
 {% note narration %}
 **Translation Note:** The story title is the typical phrase a servant would say, but in Japanese, it's phrased how Chiaki would say it. Instead of *go-houshi shimasu* (polite, formal way to say it), it's *go-houshi suru zo* (how Chiaki typically speaks, which is informal and masculine).
 {% endnote %}
@@ -415,8 +413,6 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

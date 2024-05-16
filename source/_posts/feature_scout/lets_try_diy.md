@@ -65,8 +65,6 @@ This story is connected to the card [A Challenging Step] Midori Takamine.
 
 <!-- more -->
 
-
-
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
@@ -389,8 +387,6 @@ Thank you, you two. I’m also gonna work hard to bring back this mascot’s ado
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 

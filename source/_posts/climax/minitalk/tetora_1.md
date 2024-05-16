@@ -47,8 +47,6 @@ description: "[ES!] Translation of Tetora's first Produce Course from Climax. Fr
 </div>
 
 <!-- more -->
-
-
 ## <div mt="rare"></div> 1/3
 
 {% img /img/es/eventstory/climax/minitalk_tetora1_1.jpg %}

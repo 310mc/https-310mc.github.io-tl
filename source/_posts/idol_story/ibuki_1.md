@@ -204,8 +204,6 @@ To learn more about Ibuki and Okinawa, I recommend reading the following stories
 </div>
 </div>
 
-<hr>
-
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/ibuki_2,, arrow-right, Ibuki Idol Story 2 %}</div>
 
 ## Translation Notes

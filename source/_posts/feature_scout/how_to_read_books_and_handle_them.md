@@ -64,8 +64,6 @@ This story is connected to the card [Manga Talk] Midori Takamine.
 
 <!-- more -->
 
-
-
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
@@ -426,7 +424,5 @@ Well, there’s an interesting manga I read recently—…
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn https://hyenahunt.tumblr.com,, circle, Tumblr Version %}{% btn /translations#Idol-Stories,, star, Index %}</div>

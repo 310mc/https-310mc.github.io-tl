@@ -64,8 +64,6 @@ This story is connected to the card [Intertwined Spare Time] Tetora Nagumo.
 
 <!-- more -->
 
-
-
 <div class="msr-season autumn">
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
@@ -374,8 +372,6 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
     </a>
 </div>
 </div>
-
-<hr>
 
 <div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
 
