@@ -10,7 +10,7 @@ categories:
 - [Enstars, Leo]
 tags:
 - Song Lyrics
-description: "Translation of Aisle, be with you Song Lyrics by 310mc. By Ring.A.Bell from the Shuffle Event Ring."
+description: "Translation of Aisle, be with you Song Lyrics by 310mc. Sung by Ring.A.Bell from the Shuffle Event Ring."
 permalink: aisle_be_with_you/
 ---
 
@@ -24,11 +24,11 @@ permalink: aisle_be_with_you/
                     Ring.A.Bell
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Midori" character="Midori"></a>
-				<a href="/categories/Enstars/Mao" character="Mao"></a>
-                <a href="/categories/Enstars/Eichi" character="Eichi"></a>
-                <a href="/categories/Enstars/Keito" character="Keito"></a>
-                <a href="/categories/Enstars/Leo" character="Leo"></a>
+                  <a href="/categories/Enstars/Midori" character="Midori"></a>
+                  <a href="/categories/Enstars/Mao" character="Mao"></a>
+                  <a href="/categories/Enstars/Eichi" character="Eichi"></a>
+                  <a href="/categories/Enstars/Keito" character="Keito"></a>
+                  <a href="/categories/Enstars/Leo" character="Leo"></a>
                 </div>
             </div>
             <div class="info-item one">

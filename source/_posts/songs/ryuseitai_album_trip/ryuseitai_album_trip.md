@@ -12,7 +12,7 @@ categories:
 tags:
 - Extra
 - Happy Elements Staff
-description: "Ryuseitai Album TRIP Translation from Ensemble Stars!! by 310mc"
+description: "Ryuseitai Album TRIP Translation from Ensemble Stars!! by 310mc."
 permalink: ryuseitai_album_trip/
 ---
 

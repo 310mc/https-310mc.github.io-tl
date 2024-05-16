@@ -6,7 +6,7 @@ categories:
 - [Enstars, Tetora]
 tags:
 - Song Lyrics
-description: "Translation of Unmei Power Energy! – Fate Power Energy! (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album TRIP."
+description: "Translation of Unmei Power Energy! – Fate Power Energy! (Tetora Solo) Song Lyrics by 310mc. Sung by Tetora from the Ryuseitai Album TRIP."
 permalink: unmei_power_energy/
 ---
 

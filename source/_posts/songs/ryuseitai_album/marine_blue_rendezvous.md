@@ -6,7 +6,7 @@ categories:
 - [Enstars, Kanata]
 tags:
 - Song Lyrics
-description: "Translation of TBA – TBA (Kanata Solo) Song Lyrics by 310mc. By Kanata from the Ryuseitai Album."
+description: "Translation of TBA – TBA (Kanata Solo) Song Lyrics by 310mc. Sung by Kanata from the Ryuseitai Album."
 permalink: marine_blue_rendezvous/
 hidden: true
 ---

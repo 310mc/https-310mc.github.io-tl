@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of Colors Arise Song Lyrics by 310mc. By Ryuseitai from the Unit Event Supervillain."
+description: "Translation of Colors Arise Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event Supervillain."
 permalink: colors_arise/
 ---
 

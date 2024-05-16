@@ -6,7 +6,7 @@ categories:
 - [Enstars, Kanata]
 tags:
 - Song Lyrics
-description: "Translation of happy drops (Kanata Solo) Song Lyrics by 310mc. By Kanata from the Ryuseitai Album TRIP."
+description: "Translation of happy drops (Kanata Solo) Song Lyrics by 310mc. Sung by Kanata from the Ryuseitai Album TRIP."
 permalink: happy_drops/
 ---
 

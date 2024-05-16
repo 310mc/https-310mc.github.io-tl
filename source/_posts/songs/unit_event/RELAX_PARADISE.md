@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of RELAX PARADISE Song Lyrics by 310mc. By Ryuseitai from the Unit Event Tropical."
+description: "Translation of RELAX PARADISE Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event Tropical."
 permalink: RELAX_PARADISE/
 ---
 

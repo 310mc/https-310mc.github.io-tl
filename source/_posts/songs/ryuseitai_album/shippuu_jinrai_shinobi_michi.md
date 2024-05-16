@@ -6,7 +6,7 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of TBA – TBA (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Ryuseitai Album."
+description: "Translation of TBA – TBA (Shinobu Solo) Song Lyrics by 310mc. Sung by Shinobu from the Ryuseitai Album."
 permalink: shippuu_jinrai_shinobi_michi/
 hidden: true
 ---

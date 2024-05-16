@@ -6,7 +6,7 @@ categories:
 - [Enstars, Tetora]
 tags:
 - Song Lyrics
-description: "Translation of TBA – TBA (Tetora Solo) Song Lyrics by 310mc. By Tetora from the Ryuseitai Album."
+description: "Translation of TBA – TBA (Tetora Solo) Song Lyrics by 310mc. Sung by Tetora from the Ryuseitai Album."
 permalink: IRON_HEART_TIGER/
 hidden: true
 ---

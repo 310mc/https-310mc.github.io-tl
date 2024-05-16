@@ -1,6 +1,6 @@
 ---
 title: "[Song] Heart Heat Beat"
-date: 2023/3/6 9:00:00
+date: 2024/3/6 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Heart Heat Beat Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album TRIP."
 permalink: ryusei_hanabi/
 hidden: true
 ---
@@ -35,10 +35,10 @@ hidden: true
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated CD
+                    Associated Story
                 </div>
                 <div class="value">
-                    Anime ED CD TBA
+                    <!--<a href="/shooting_star_festival">Shooting Star Festival</a>--><a href="https://ensemble-stars.fandom.com/wiki/Shooting_Star_Festival" target="_blank">Shooting Star Festival</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -46,7 +46,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, Funimation Official Lyrics
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">

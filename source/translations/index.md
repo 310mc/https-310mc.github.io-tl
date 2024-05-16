@@ -1194,7 +1194,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
                 alt="SUPER NOVA REVOLU5TAR"
             />
         </div>
-        <a href="https://ensemble-stars.fandom.com/wiki/SUPER_NOVA_REVOLU5TAR_%28Lyrics%29" class="storyName" target="_blank">
+        <a href="/SUPER_NOVA_REVOLU5TAR" class="storyName" target="_blank">
             <span>SUPER NOVA REVOLU5TAR</span>
             <span class="read"></span>
         </a>
@@ -1206,7 +1206,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
                 alt="GROWING STARRY DAYS"
             />
         </div>
-        <a href="https://ensemble-stars.fandom.com/wiki/GROWING_STARRY_DAYS_%28Lyrics%29" class="storyName" target="_blank">
+        <a href="/GROWING_STARRY_DAYS" class="storyName" target="_blank">
             <span>GROWING STARRY DAYS</span>
             <span class="read"></span>
         </a>
@@ -1215,11 +1215,11 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <div class="thumbimage">
             <img
                 src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
-                alt="Meteor Scramble☆RYUSEITAI"
+                alt="Meteor Scramble ☆ Ryuseitai!"
             />
         </div>
-        <a href="https://ensemble-stars.fandom.com/wiki/Meteor_Scramble%E2%98%86RYUSEITAI_%28Lyrics%29" class="storyName" target="_blank">
-            <span>Meteor Scramble☆<wbr>RYUSEITAI</span>
+        <a href="/meteor_scramble_ryuseitai" class="storyName" target="_blank">
+            <span>Meteor Scramble ☆ Ryuseitai!</span>
             <span class="read"></span>
         </a>
     </div>

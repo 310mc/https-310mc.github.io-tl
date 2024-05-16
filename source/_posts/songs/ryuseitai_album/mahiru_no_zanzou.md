@@ -6,7 +6,7 @@ categories:
 - [Enstars, Midori]
 tags:
 - Song Lyrics
-description: "Translation of TBA – TBA (Midori Solo) Song Lyrics by 310mc. By Midori from the Ryuseitai Album."
+description: "Translation of TBA – TBA (Midori Solo) Song Lyrics by 310mc. Sung by Midori from the Ryuseitai Album."
 permalink: mahiru_no_zanzou/
 hidden: true
 ---

@@ -6,7 +6,7 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Song Lyrics
-description: "Translation of Seisei Doudou Ouenka! – Seisei Doudou Cheer Song! (Shinobu Solo) Song Lyrics by 310mc. By Shinobu from the Shinobu Album TRIP."
+description: "Translation of Seisei Doudou Ouenka! – Seisei Doudou Cheer Song! (Shinobu Solo) Song Lyrics by 310mc. Sung by Shinobu from the Shinobu Album TRIP."
 permalink: seisei_doudou_ouenka/
 ---
 

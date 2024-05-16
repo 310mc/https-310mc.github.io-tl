@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Suisei HALATION – Comet HALATION Song Lyrics by 310mc. By Ryuseitai from the Unit Event Comet Show."
+description: "Translation of Suisei HALATION – Comet HALATION Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event Comet Show."
 permalink: suisei_HALATION/
 ---
 

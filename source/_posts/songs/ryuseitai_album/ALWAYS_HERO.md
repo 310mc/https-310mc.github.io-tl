@@ -6,7 +6,7 @@ categories:
 - [Enstars, Chiaki]
 tags:
 - Song Lyrics
-description: "Translation of TBA – TBA (Chiaki Solo) Song Lyrics by 310mc. By Chiaki from the Ryuseitai Album."
+description: "Translation of TBA – TBA (Chiaki Solo) Song Lyrics by 310mc. Sung by Chiaki from the Ryuseitai Album."
 permalink: ALWAYS_HERO/
 hidden: true
 ---

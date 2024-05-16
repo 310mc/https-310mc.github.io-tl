@@ -6,7 +6,7 @@ categories:
 - [Enstars, Chiaki]
 tags:
 - Song Lyrics
-description: "Translation of Kokoro de Pittari Ai ni Naru (Chiaki Solo) Song Lyrics by 310mc. By Chiaki from the Ryuseitai Album TRIP."
+description: "Translation of Kokoro de Pittari Ai ni Naru (Chiaki Solo) Song Lyrics by 310mc. Sung by Chiaki from the Ryuseitai Album TRIP."
 permalink: kokoro_de_pittari_ai_ni_naru/
 ---
 

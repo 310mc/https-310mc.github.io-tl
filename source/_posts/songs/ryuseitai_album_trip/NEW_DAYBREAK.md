@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of NEW DAYBREAK Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album TRIP."
 permalink: NEW_DAYBREAK/
 ---
 
@@ -577,8 +577,6 @@ permalink: NEW_DAYBREAK/
       </a>
   </div>
 </div>
-
-<hr>
 
 <div toc>
 {% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}

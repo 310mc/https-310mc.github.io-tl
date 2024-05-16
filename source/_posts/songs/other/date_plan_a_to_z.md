@@ -1,17 +1,16 @@
 ---
 title: "[Song] Date Plan A to Z"
-date: 2023/3/6 9:00:00
+date: 2024/3/6 9:00:00
 categories:
-- [Enstars, ES!]
-- [Enstars, Tetora]
-- [Enstars, Midori]
+- [Enstars, ES!!]
+- [Enstars, Kaoru]
+- [Enstars, Niki]
 - [Enstars, Chiaki]
-- [Enstars, Kanata]
-- [Enstars, Shinobu]
-- [Enstars, Ryuseitai]
+- [Enstars, Natsume]
+- [Enstars, Mitsuru]
 tags:
 - Song Lyrics
-description: "Translation of Date Plan A to Z Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Date Plan A to Z Song Lyrics by 310mc. Sung by TBA from the Shuffle Event TBA."
 permalink: date_plan_a_to_z/
 hidden: true
 ---
@@ -26,19 +25,19 @@ hidden: true
                     Ryuseitai
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                  <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                  <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                  <a href="/categories/Enstars/Natsume" character="Natsume"></a>
+                  <a href="/categories/Enstars/Niki" character="Niki"></a>
+                  <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated CD
+                    Associated Story
                 </div>
                 <div class="value">
-                    Anime ED CD TBA
+                    Date Plan
                 </div>
             </div>
             <div class="info-item two">
@@ -46,7 +45,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, Funimation Official Lyrics
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -66,364 +65,129 @@ hidden: true
 ## Index
 <p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
 
-## MV Size
 
-{% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
-
-<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=_WgnJr86g8s" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
-
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
-
-
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
-
-<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
-
-## Full Lyrics
-
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
-
-
-<table class="lyrics">
-  <tr>
-    <td class="name"></td>
-    <td>
-      Call us anytime with a voice that reaches to the other side of a dream
-      <br>
-      Let's rush over, RYUSEITAI! Meteor scramble☆
-    </td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>If you keep on giving up</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(NO MORE)</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You can't go the distances you want to go</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>We'll give you the courage</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(GO FORWARD)</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>To face your troubles head-on</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Come, LET ME DREAM</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We'll become as passionate as</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>The gazes</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>you've given us</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>I'm sure the sun will rise to protect our dreams</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>We'll turn even sparkles into power and evolve</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Pass the clouds and fly to the heights where thousands of voices are</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Rain down, RYUSEITAI! Meteor scramble☆</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Today, too, HERE WE GO!!!!!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>We began to run toward hope</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(WAY TO GO)</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>And like the soothing wind</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Blowing on those hard working backs</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(MELODY)</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We’ll always be by your side</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A mysterious energy</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Called “Trust”</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Is what puts passion</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Into justice</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>When your dreams are in a pinch, we’ll be sure to come rescue you</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Please believe in us, don’t look back, just wait for us</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>There’s no such thing as a never-ending night</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>morning will surely come</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>So let’s go there, RYUSEITAI! Meteor scramble☆</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Today, too, HERE WE GO!!!!!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>This moment</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Will continue on to the future</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>It is the start</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Of our episode</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>That’s why</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Today, too</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>In your sky</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>The sun will rise</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let’s turn even sparkles into power and rush out</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Call us anytime with a voice that reaches to the other side of a dream</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Let's rush over, RYUSEITAI! Meteor scramble☆</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>We’re everyone’s heroes!!!!!</td>
-  </tr>
-</table>
-
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
-
-## Ryuseitai Songs Directory
-
-<div class="stories">
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/suiseihalation_300px.jpg"
-              alt="Suisei HALATION"
-          />
-      </div>
-      <a href="/suisei_HALATION" class="storyName" target="_blank">
-          <span>Suisei HALATION</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
-              alt="Nekketsu ☆ Ryusei Ninpouchou"
-          />
-      </div>
-      <a href="/nekketsu_ryusei_ninpouchou" class="storyName" target="_blank">
-          <span>Nekketsu ☆ Ryusei Ninpouchou</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/heartheatbeat_300px.jpg"
-              alt="Heart Heat Beat"
-          />
-      </div>
-      <a href="/heart_heat_beat" class="storyName" target="_blank">
-          <span>Heart Heat Beat</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/colorsarise_300px.jpg"
-              alt="Colors Arise"
-          />
-      </div>
-      <a href="/colors_arise" class="storyName" target="_blank">
-          <span>Colors Arise</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/relaxparadise_300px.jpg"
-              alt="RELAX PARADISE"
-          />
-      </div>
-      <a href="/RELAX_PARADISE" class="storyName" target="_blank">
-          <span>RELAX PARADISE</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/bokuranostella_300px.jpg"
-              alt="Bokura no Stella"
-          />
-      </div>
-      <a href="/bokura_no_stella" class="storyName" target="_blank">
-          <span>Bokura no Stella</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
-              alt="NEW DAYBREAK"
-          />
-      </div>
-      <a href="/NEW_DAYBREAK" class="storyName" target="_blank">
-          <span>NEW DAYBREAK</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
-              alt="Unmei Power Energy! (Tetora Solo)"
-          />
-      </div>
-      <a href="/unmei_power_energy" class="storyName" target="_blank">
-          <span>Unmei Power Energy!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
-              alt="Green to the sky (Midori Solo)"
-          />
-      </div>
-      <a href="/green_to_the_sky" class="storyName" target="_blank">
-          <span>Green to the sky</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
-              alt="Seisei Doudou Ouenka! (Shinobu Solo)"
-          />
-      </div>
-      <a href="/seisei_doudou_ouenka" class="storyName" target="_blank">
-          <span>Seisei Doudou Ouenka!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
-              alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
-          />
-      </div>
-      <a href="/kokoro_de_pittari_ai_ni_naru" class="storyName" target="_blank">
-          <span>Kokoro de Pittari Ai ni Naru</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
-              alt="happy drops (Kanata Solo)"
-          />
-      </div>
-      <a href="/happy_drops" class="storyName" target="_blank">
-          <span>happy drops</span>
-          <span class="read"></span>
-      </a>
-  </div>
-</div>
-
-<hr>
 
 <div toc>
-{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
+<!--{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}-->
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 
 ## Translation Notes
+
+<table class="lyrics">
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:00</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kaoru">Kaoru</span></td>
+    <td>Counting the seconds down on my hand, only a little bit left</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>My heart’s tick-tocking at the pressing closeness</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="natsume">Natsume</span> & <span class="mitsuru">Mitsuru</span> & <span class="niki">Niki</span></td>
+    <td>One last check on how I look through the window display<br>Today’s the awaited first date<br><em>Ah ah</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="mitsuru">Mitsuru</span></td>
+    <td>Plan A, I take a bolder step forward</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="niki">Niki</span></td>
+    <td>No, Plan B, I act like always</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="natsume">Natsume</span></td>
+    <td>I don't wanna make a single mistake</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kaoru">Kaoru</span></td>
+    <td>On the day I can have your smile all to myself</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Thinking of how I should say “Good morning”, what expression to put on<br>There’s so many simulations overlapping in my head</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>But there’s no point, as soon as I see you<br>My heart is thumping at max volume<br>All the topics I prepared<br>Fly out of me in confusion, all my words come out broken, <em>Ah</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kaoru">Kaoru</span></td>
+    <td>Plan C, let me take the lead</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Plan D, feeling like giving it up as soon as it starts</td>
+  </tr>
+  <tr>
+  <td class="timestamp name"></td>
+  <td class="timestamp"><span class="timestamp">0:00</span></td>
+</tr>
+<tr>
+  <td class="name"><span class="kaoru">Kaoru</span></td>
+  <td>Counting the seconds down on my hand, today’s the day</td>
+</tr>
+<tr>
+  <td class="name"><span class="chiaki">Chiaki</span></td>
+  <td>My heart’s racing at the pressing closeness</td>
+</tr>
+<tr>
+  <td class="name"><span class="niki">Niki</span> & <span class="natsume">Natsume</span> & <span class="mitsuru">Mitsuru</span></td>
+  <td>Compared to any of these topics I prepared<br>This convo is so much more lively, and that's all the proof I need</td>
+</tr>
+<tr>
+  <td class="name">All</td>
+  <td>The day went by so fast; Hey, how was it?<br>Is it okay if I ask you out again some day?<br>Seeing the distance between us, reflected on the window display<br>I think we’ve gotten closer than we were this morning, <em>Ah</em><br>So much to be excited for, from A to Z</td>
+</tr>
+</table>
+
+Kaoru: Counting the seconds down on my hand, only a little bit left
+Chiaki: My heart’s tick-tocking at the pressing closeness
+Natsume & Mitsuru & Niki: One last check on how I look through the window display
+Natsume & Mitsuru & Niki: Today’s the awaited first date
+All: Ah ah
+
+Mitsuru: Plan A, I take a bolder step forward
+Niki: No, Plan B, I act like always
+Natsume: I don't wanna make a single mistake
+Kaoru: On the day I can have your smile all to myself
+Chiaki: Thinking of how I should say “Good morning”, what expression to put on
+Kaoru & Chiaki: There’s so many simulations overlapping in my head
+
+All: But there’s no point, as soon as I see you
+All: My heart is thumping at max volume
+All: All the topics I prepared
+All: Fly out of me in confusion, all my words come out broken, Ah
+
+Kaoru: Plan C, let me take the lead
+Chiaki: Plan D, feeling like giving it up as soon as it starts
+Natsume & Niki: I can’t keep a cool front, it’s so pathetic
+Mitsuru: But I’ve no time to mope about that
+All: I gotta make you enjoy this
+Natsume: What kind of date should I make this?
+Mitsuru & Niki: It’s all so bad, just so bad, I’m so sorry
+
+All: But I think we’re keeping a convo better than before
+All: My heart’s pounding, heart rate rising
+All: I see us two through the window display, looking stylish
+All: We look so different from the usual, it makes me so happy, Ah
+
+All: My Girl
+All: Even if you get tired of me, please don’t start hating me
+All: My Girl
+All: I’m sorry, but I’m super duper enjoying this
+
+Chiaki: Counting the seconds down on my hand, today’s the day
+Kaoru: My heart’s racing at the pressing closeness
+Niki: Compared to any of these topics I prepared
+Natsume & Mitsuru: This convo is so much more lively, and that's all the proof I need
+
+All: The day went by so fast; Hey, how was it?
+All: Is it okay if I ask you out again some day?
+All: Seeing the distance between us, reflected on the window display
+All: I think we’ve gotten closer than we were this morning, Ah
+All: So much to be excited for, from A to Z

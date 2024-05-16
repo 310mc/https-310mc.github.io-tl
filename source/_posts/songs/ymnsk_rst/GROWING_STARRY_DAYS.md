@@ -1,6 +1,6 @@
 ---
 title: "[Song] GROWING STARRY DAYS"
-date: 2024/3/6 9:10:00
+date: 2024/5/16 9:01:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -11,12 +11,11 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of GROWING STARRY DAYS Song Lyrics by 310mc. By Ryuseitai from the TBA."
+description: "Translation of GROWING STARRY DAYS Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album (Initially release in the Vol.1 RYUSEITAI 3 CD)."
 permalink: GROWING_STARRY_DAYS/
-hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg %}
+{% img /img/es/songs/ryuseitaiunitsong3rdcd_500px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -38,7 +37,7 @@ hidden: true
                     Associated Album
                 </div>
                 <div class="value">
-                    <a href="/ryuseitai_album">Ryuseitai Album</a> (Initially released with <a href="https://ensemble-stars.fandom.com/wiki/RYUSEITAI_%22Nekketsu%E2%98%86Ryusei_Ninpouchou%22_ES_Idol_Song_Season_2">RYUSEITAI ES Idol Song Season 2</a>)
+                    <a href="/ryuseitai_album">Ryuseitai Album</a> (Initially released with <a href="https://ensemble-stars.fandom.com/wiki/Vol.1_%22RYUSEITAI%22_3">Vol.1 "RYUSEITAI" 3</a>)
                 </div>
             </div>
             <div class="info-item two">
@@ -46,7 +45,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about">310mc</a>, <a href="https://twitter.com/seiginoakashi">Nanashi</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -54,7 +53,7 @@ hidden: true
                    Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>
+                    <a href="https://twitter.com/seiginoakashi">Nanashi</a>, <a href="/about">310mc</a>
                 </div>
             </div>
         </div>
@@ -70,13 +69,126 @@ hidden: true
 
 <h4 style="text-align:center;">GROWING STARRY DAYS</h4>
 
-{% img /img/es/songs/growingstarrydayssongcover.jpg %}
+{% img /img/es/songs/songcover/growingstarrydays.jpg %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=8k_3inSsL08" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
 <p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
-<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+<table class="lyrics">
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:16</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Whenever conversations get conflicted</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>We get gloomy and excited</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Because the days</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>We’ve dashed through together</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>Are extremely lively</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:30</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>On this hectic day that goes by in a flash</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We naturally give it our all</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span></td>
+    <td>After all, we have comrades</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Who always stand by</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Our passionate dreams</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:42</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>We may have unbalanced silhouettes</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="tetora">Tetora</span></td>
+    <td>And our strides may be off sync</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>But we began to feel</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>A certainty that exists nowhere else</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:01</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>We may be mismatched</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>But still</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>We can always</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Rely on each other</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>We’ll pull each other up and shine</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>
+    Right now, we are the twinkling of clumsy stars
+    <br>
+    We can get stronger every time we collide
+    <br>
+    When we look back, solid bonds sparkle in orbit
+    <br>
+    These are irreplaceable <em>Growing Days</em>
+    <br>
+    <em>Growing Stars</em>
+    <br>
+    <em>Growing Dreams</em>
+    </td>
+  </tr>
+</table>
 
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
@@ -97,19 +209,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>Because the days    </td>
+    <td>Because the days</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>We dashed through together</td>
+    <td>We’ve dashed through together</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
     <td>Are extremely lively</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
@@ -121,15 +229,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span></td>
-    <td>We have friends who</td>
+    <td>After all, we have comrades</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>Always stand by</td>
+    <td>Who always stand by</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Our passionate dreams, after all</td>
+    <td>Our passionate dreams</td>
   </tr>
   <tr>
     <td><br></td>
@@ -168,7 +276,7 @@ hidden: true
     <td>
     When we look back, solid bonds sparkle in orbit
     <br>
-    These are irreplaceable growing days
+    These are irreplaceable <em>Growing Days</em>
     </td>
   </tr>
   <tr>
@@ -196,10 +304,6 @@ hidden: true
     <td>Gentle shapes</td>
   </tr>
   <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
     <td>I know you believe in me</td>
   </tr>
@@ -213,11 +317,11 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Courage bloom,</td>
+    <td>Our courage bloom to be unwavering,</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>To face our dreams head on</td>
+    <td>So that we face our dreams head on</td>
   </tr>
   <tr>
     <td><br></td>
@@ -233,15 +337,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We met each other on this path</td>
+    <td>We encountered one another in the midst of our paths</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>But to call it destiny,</td>
+    <td>But to call it destiny,[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>Is still kind of embarrassing</td>
+    <td>Is still a little embarrassing</td>
   </tr>
   <tr>
     <td><br></td>
@@ -253,14 +357,14 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>So we can shine on the whole galaxy</td>
+    <td>So that we can shine on the whole galaxy</td>
   </tr>
   <tr>
     <td class="name">All</td>
     <td>
     From here on and forever, we’ll move straight forward as ourselves,
     <br>
-    As <em>growing stars</em>
+    As <em>Growing Stars</em>
     </td>
   </tr>
   <tr>
@@ -300,20 +404,63 @@ hidden: true
     <br>
     When we look back, solid bonds sparkle in orbit
     <br>
-    These are irreplaceable growing days
+    These are irreplaceable <em>Growing Days</em>
     <br>
-    Growing stars
+    <em>Growing Stars</em>
     <br>
-    Growing dreams
+    <em>Growing Dreams</em>
     </td>
   </tr>
 </table>
 
 <p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
+## Ryuseitai Songs Directory
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                alt="SUPER NOVA REVOLU5TAR"
+            />
+        </div>
+        <a href="/SUPER_NOVA_REVOLU5TAR" class="storyName" target="_blank">
+            <span>SUPER NOVA REVOLU5TAR</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                alt="GROWING STARRY DAYS"
+            />
+        </div>
+        <a href="/GROWING_STARRY_DAYS" class="storyName" target="_blank">
+            <span>GROWING STARRY DAYS</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
+                alt="Meteor Scramble ☆ Ryuseitai!"
+            />
+        </div>
+        <a href="/meteor_scramble_ryuseitai" class="storyName" target="_blank">
+            <span>Meteor Scramble ☆ Ryuseitai!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
 <div toc>
-<!--{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}-->
+{% btn /ryuseitai_album,, star, Ryuseitai Album %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
 
 ## Translation Notes
+
+[^1]: “Destiny” here is <em>unmei</em>, which can also be translated as “fate”. But to differentiate it from the line “twist of fate” (lit. inevitability), I went with “destiny”.

@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Heart Heat Beat Song Lyrics by 310mc. By Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Heart Heat Beat Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album TRIP."
 permalink: heart_heat_beat/
 ---
 

@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll Song Lyrics by 310mc. By Ryuseitai from the Unit Event Ninja Clan."
+description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event Ninja Clan."
 permalink: nekketsu_ryusei_ninpouchou/
 ---
 

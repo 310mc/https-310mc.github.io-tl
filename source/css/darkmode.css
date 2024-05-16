@@ -39,7 +39,7 @@
 
   /** Chat format **/
   .msr-icon {
-    filter: brightness(0.9) contrast(0.9);
+    filter: brightness(0.95) contrast(0.95);
   }
 
   .msr-line p,

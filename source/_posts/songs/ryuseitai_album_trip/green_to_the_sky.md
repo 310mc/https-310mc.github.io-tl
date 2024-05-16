@@ -6,7 +6,7 @@ categories:
 - [Enstars, Midori]
 tags:
 - Song Lyrics
-description: "Translation of Green to the sky (Midori Solo) Song Lyrics by 310mc. By Midori from the Ryuseitai Album TRIP."
+description: "Translation of Green to the sky (Midori Solo) Song Lyrics by 310mc. Sung by Midori from the Ryuseitai Album TRIP."
 permalink: green_to_the_sky/
 ---
 
