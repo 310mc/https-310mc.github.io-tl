@@ -5,30 +5,16 @@ description: A list of translations by 310mc. You will find Enstars / Ensemble S
 
 ## Translation Usage
 
-<style>
-.intro {
-  font-size:16px;
-}
-
-.list li {
-    margin-bottom: 8px;
-}
-
-.list2 li {
-    margin: 2px;
-}
-</style>
-
 <div class="intro">
 <p class="bluecolor"><big><b>I permit:</b></big></p>
 
 <ul class="list">
-<li>Taking screenshots of my translations. Crediting me is optional; please look at "Credits" for my preferred credits.</li>
+<li>Taking screenshots of my translations. Crediting me is optional; please see "Preferred Credits".</li>
 <li>Re-translating my translations to a different language; I only ask that you <b>link my translation</b> somewhere in your translation. I'd also love it if you could give me a heads up in an email (310mctranslations@gmail.com) or <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!</li>
-<li>Using my translations for videos, or for recorded stories (such as a fully voiced chapter). I only ask that you <b>add credits somewhere in the video or description</b>, see "Credits" for my preferred credits. I'd also love it if you could give me a heads up in an email (310mctranslations@gmail.com) or <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!</li>
-<li>Linking my translations in story directories, etc. This means that you're free to copy the URL of a translation and link it on a page. Please look at "Credits" for my preferred credits. <b>Please note that some translations may be on hold indefinitely.</b></li>
+<li>Using my translations for videos, or for recorded stories (such as a fully voiced chapter). I only ask that you <b>add credits somewhere in the video or description</b>, please see "Preferred Credits". I'd also love it if you could give me a heads up in an email (310mctranslations@gmail.com) or <a href="https://twitter.com/310mc1" target="_blank">twitter</a>!</li>
+<li>Linking my translations in story directories, etc. This means that you're free to copy the URL of a translation and link it on a page. Please see "Preferred Credits".</li>
 <li>Using my <b>non-story</b> translations (ex. song lyrics, card quotes, skill names, etc…) on the Enstars Wiki.</li>
-<li>Using my translations in quotebots, fanworks, story analysis, etc. Crediting me is optional; please look at "Credits" for my preferred credits.</li>
+<li>Using my translations in quotebots, fanworks, story analysis, etc. Crediting me is optional; please see "Preferred Credits".</li>
 <li>Adjusting my translations in quotebots/fanworks/etc. for any of the following reasons:
 <ol class="list2">
 <li>Changing the speech quirk for consistency/preference</li>

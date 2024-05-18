@@ -152,7 +152,7 @@ It looks like it’s Yume’s turn.
 {% endbubble %}
 
 {% bubble Fuyume grin %}
-Fu-fu-fu. Yume will do his very best.
+Fu-fu-fu. Yume will do Yume’s very best.
 
 Yume will gladly invite everyone into Yume’s world today, too.[^4]
 {% endbubble %}
@@ -236,7 +236,7 @@ I-If you mix all those random things together, you won’t be able to bear the t
 {% endbubble %}
 
 {% bubble Fuyume hmphleft %}
-Yume <em>can</em> drink it. Yume <em>will</em> drink it. He wants to experience Esu’s tale for himself.
+Yume <em>can</em> drink it. Yume <em>will</em> drink it. Yume wants to experience Esu’s tale first-hand.
 
 Time to drink. <em><th>(Gulp, gulp)</th></em>…
 
@@ -266,7 +266,7 @@ Huh, what? I don’t get how we got to an apology…?
 {% endbubble %}
 
 {% bubble Fuyume sad3 %}
-Yume did it again. He acted selfish. Because of that, this job isn’t going well, and even Midori-sama got scolded.
+Yume did it again. Yume acted selfish. Because of that, this job isn’t going well, and even Midori-sama got scolded.
 
 That’s why, sorry.
 {% endbubble %}
@@ -278,7 +278,7 @@ I failed you as a senior, didn’t I…
 {% endbubble %}
 
 {% bubble Fuyume frownshake %}
-It’s fine. Yume believes that, when there’s something he can’t stand — then no matter what Midori-sama could’ve said to him, Yume would’ve felt irritated and ignored Midori-sama.
+It’s fine. Yume believes that, when there’s something Yume can’t stand — then no matter what Midori-sama could’ve said, Yume would’ve felt irritated and ignored Midori-sama.
 
 Yume has always been like this. Always selfish. That’s the only part about Yume that’s like a princess.
 {% endbubble %}
@@ -290,7 +290,7 @@ They handed out their business card and acted like they were the professional on
 
 Even though a photography session is Yume’s very own world…
 
-That frustrated and sickened Yume so much, he could never forget it. When he saw that person’s face again, Yume exploded.
+That frustrated and sickened Yume so much, Yume could never forget it. When Yume saw that person’s face again, Yume exploded.
 {% endbubble %}
 
 {% bubble Fuyume worried %}
@@ -298,7 +298,7 @@ Yume couldn’t stand the thought of being projected in that person’s eyes, be
 
 The truth is, Yume never wanted to trouble Midori-sama.
 
-Yume wanted to get along with you… He wanted to talk to you, but it felt embarrassing and nerve-wracking… Yume didn’t know what to do.
+Yume wanted to get along with you… Yume wanted to talk to you, but it felt embarrassing and nerve-wracking… Yume didn’t know what to do.
 
 Midori-sama looked like he was in a bad mood, after all. It was very clearly a “don’t talk to me” vibe.
 {% endbubble %}
@@ -382,7 +382,7 @@ Fufufu. Thank you, Midori-sama.
 {% endbubble %}
 
 {% bubble Fuyume norsmile2 %}
-You know, Yume wants to show off his world to everyone.
+You know, Yume wants to show off Yume’s world to everyone.
 
 And, you recognized that “that” world exists.
 
@@ -390,7 +390,7 @@ That’s why Yume’s happy. So, thank you.
 {% endbubble %}
 
 {% bubble Fuyume grin %}
-Fufufufu. Yume kiiind of feels motivated now~ Yume will mend his ways and do his very best. Yume <em>will</em> make sure this job is a success.
+Fufufufu. Yume kiiind of feels motivated now~ Yume will mend Yume’s ways and work as best as possible. Yume <em>will</em> make sure this job is a success.
 {% endbubble %}
 
 {% bubble Midori awkward %}

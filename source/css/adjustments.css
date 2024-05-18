@@ -1,5 +1,21 @@
 @import url('https://rsms.me/inter/inter.css');
 
+/** For posts
+***/
+.intro {
+  font-size:16px;
+}
+
+.list li {
+    margin-bottom: 8px;
+}
+
+.list2 li {
+    margin: 2px;
+}
+/** End posts
+***/
+
 /** For Card Details
 ***/
 .noBorder {
@@ -49,7 +65,12 @@
 /** End red/blue colors
 ***/
 
+/** Chat format
+***/
 body {
     --msr-icon-size: 67px;
   }
+/** End Chat format
+***/
+
 

@@ -77,7 +77,7 @@ permalink: meteor_impact/
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about">310mc (Main Translator)</a>, with co-translators <a href="https://twitter.com/sunsunrainys">emu</a> and haranami
+                            <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in P1Ch6 & 8-12 + P2Ch5 only, <a href="/about">310mc</a> & haranami in P2Ch6&7 only
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -85,7 +85,7 @@ permalink: meteor_impact/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival">SayonaraRevival (Main Proofreader)</a>, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a>, <a href="https://twitter.com/goldgust">Goldgust</a>, Shie, <a href="https://twitter.com/seiginoakashi">Nanashi</a>
+                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@ permalink: meteor_impact/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>, <a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
+                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
                         </div>
                     </div>
                 </div>

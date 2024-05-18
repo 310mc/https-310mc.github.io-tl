@@ -96,6 +96,16 @@ Ehehe, I spotted a whole bunch of *fine* fans on my way to the stage~♪
 Ryuseitai shall not be beaten when it comes to that! ♪ I also caught sight of people holding an uchiwa fan of me![^1]
 {% endbubble %}
 
+{% img /img/es/anniversary/9th/midorilogin.jpg %}
+
+{% bubble Midori sighfrown %}
+It feels like everyone’s fighting like cats and dogs in today’s live show… Uuu, I just feel like going home at this point…
+{% endbubble %}
+
+{% bubble Kanna frown %}
+I feel the same way. How very, very bothersome, truly… I’m relieved to know there’s someone else who thought similarly.
+{% endbubble %}
+
 ## LIMIT BREAK DREAMERS Ryuseitai Mini Talk
 
 {% img /img/es/anniversary/9th/minitalk_ryuseitai1_1.jpg %}

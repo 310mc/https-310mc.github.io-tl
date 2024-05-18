@@ -62,9 +62,31 @@ hidden: true
 
 TBAff
 
-<!DOCTYPE html>
-<html>
-<div><audio controls style="display:block;" src="/img/es/eventstory/climax/midoribcg.mp3"></audio></div>
+<style>
+    @media only screen and (max-width: 800px) {
+  #audiodisappear {
+    display: none;
+  }
+}
+</style>
 
-<audio controls style="width: 400px; display:block;" src="/img/es/eventstory/climax/midoribcg.ogg"></audio>
-</html>
+<div><audio controls preload>
+    <source src="/img/es/eventstory/climax/midoribcg.ogg" type="audio/ogg" />
+    <source src="/img/es/eventstory/climax/midoribcg.mp3" type="audio/mpeg" />
+</audio></div>
+
+<hr>
+
+<div><audio controls="" style="display:block;" src="https://files.catbox.moe/3exu04.mp3"></audio></div>
+
+<hr>
+
+<audio controls="" style="display:block;" src="https://files.catbox.moe/9m58c7.mp3"></audio>
+
+<hr>
+
+<div id="audiodisappear"><audio controls="" style="width: 400px; display:block;" src="/img/es/eventstory/climax/midoribcg.ogg"></audio></div>
+
+<hr>
+
+<audio controls="" style="width: 175px;display:block;" src="/img/es/eventstory/climax/midoribcg.mp3"></audio>

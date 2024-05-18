@@ -621,13 +621,13 @@ permalink: SUPER_NOVA_REVOLU5TAR/
 
 ## Translation Notes
 
-[^1]: Ryuseitai Green’s catchphrase is “The green flame is the mark of compassion”. Compassion is <em>jiai</em> (慈愛) in Japanese, which has the kanji for “love” (愛).
+[^1]: Ryusei Green’s catchphrase is “The green flame is the mark of compassion”. Compassion is <em>jiai</em> (慈愛) in Japanese, which has the kanji for “love” (愛).
 [^2]: Chiaki sings <em>mamoritai</em> for “protect”, referencing his last name that uses the same kanji, <em>morisawa</em> (守沢).
 [^3]: Here, they sing <em>bakutan</em> (爆誕) for “burst through”, “detonate”. This is the same word found in Supernova’s event title, which is lit. “Bursting Into Existence (爆誕) ☆ The Sparkling Five-Colored Supernova”
 [^4]: In these lyrics, the Ryuseitai seniors and juniors sing a part one after the other. They sing in this order: “(of) justice” “dazzling” “radiance” “towards tomorrow”.
 [^5]: Midori sings <em>takami e</em> 高みへ for “greater heights”, referencing his last name that uses the same kanji, <em>takamine</em> (高峯).
-[^6]: Tetora and Shinobu <em>koutetsu no ishi</em> (鋼鉄の意志) for “iron will”. “Iron” references Tetora’s name that uses the same kanji (鉄虎), and <em>ishi</em> is homophonous with 石 (ishi), the kanji found in Shinobu’s last name, <em>sengoku</em> (仙石).
-[^7]: Kanata sing <em>fukai fukai</em> for “deep, deep”, referencing his last name that uses the same kanji, <em>shinkai</em> (深海).
+[^6]: Tetora and Shinobu sing <em>koutetsu no ishi</em> (鋼鉄の意志) for “iron will”. “Iron” references Tetora’s name that uses the same kanji (鉄虎), and <em>ishi</em> is homophonous with 石 (ishi), the kanji found in Shinobu’s last name, <em>sengoku</em> (仙石).
+[^7]: Kanata sings <em>fukai fukai</em> for “deep, deep”, referencing his last name that uses the same kanji, <em>shinkai</em> (深海).
 [^8]: Ryusei Yellow’s catchphrase is “The yellow flame is the mark of hope”.
 [^9]: This part of the song references the event story Supernova. Particularly this Chiaki line, which was said at the end of his speech in Supernova, just before the epilogue.
 [^10]: Ryuseitai sing out the mark of their Ryusei flames, all of which are a different form of justice.

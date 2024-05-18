@@ -244,11 +244,11 @@ This translation is **on hold**. Due to the official version having been release
                             <a href="#The-Cursed-Ox-Statue-1" id="">1</a>
                             <a href="#The-Cursed-Ox-Statue-2" id="">2</a>
                             <a href="#The-Cursed-Ox-Statue-3" id="">3</a>
-                            <a href="#The-Cursed-Ox-Statue-4" id="">x</a>
-                            <a href="#The-Cursed-Ox-Statue-5" id="">x</a>
-                            <a href="#The-Cursed-Ox-Statue-6" id="">x</a>
-                            <a href="#The-Cursed-Ox-Statue-7" id="">x</a>
-                            <a href="#The-Cursed-Ox-Statue-8" id="">x</a>
+                            <a href="#The-Cursed-Ox-Statue-4" id="none">x</a>
+                            <a href="#The-Cursed-Ox-Statue-5" id="none">x</a>
+                            <a href="#The-Cursed-Ox-Statue-6" id="none">x</a>
+                            <a href="#The-Cursed-Ox-Statue-7" id="none">x</a>
+                            <a href="#The-Cursed-Ox-Statue-8" id="none">x</a>
                         </li>
                     </ul>
                 </div>

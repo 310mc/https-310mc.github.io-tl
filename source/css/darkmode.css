@@ -7,7 +7,7 @@
   }
   
   img {
-    opacity: 0.9;
+    opacity: 0.95;
   }
 
   img:hover {
@@ -39,7 +39,7 @@
 
   /** Chat format **/
   .msr-icon {
-    filter: brightness(0.95) contrast(0.95);
+    filter: brightness(0.96) contrast(0.96);
   }
 
   .msr-line p,
@@ -52,7 +52,7 @@
   }
 
   .thought {
-    color: #8f8fcc;
+    color: #aaa0e5;
   }
 
   [unknown] .msr-line p {

@@ -456,23 +456,23 @@ permalink: meteor_scramble_ryuseitai/
 
 I interpret this song as the essence of Ryuseitai during their Yumenosaki days, considering the wordplay with Yumenosaki Academy’s name. Other interesting things to note are:
 
-- When singing the line that has their name hidden in it, the order goes in the same lineup as Yumenosaki Ryuseitai (Chiaki, Kanata, Tetora, Midori, Shinobu).
+- When singing the line that has their name hidden in it, the order goes in the same lineup as Ryuseitai in Yumenosaki days (Chiaki, Kanata, Tetora, Midori, Shinobu).
 
-- The song heavily references their Ryusei catchphrases, which Chiaki came up with at the start of his 3rd year as part of bringing his ideal image of 5-membered Ryuseitai to life. (A story that briefly covers this is <a href="/legendary_hero" target="_blank">Legendary Hero!</a>).
+- The song heavily references their Ryusei catchphrases, which Chiaki came up with at the start of his 3rd year as part of bringing his ideal image of 5-members Ryuseitai to life. (A story that briefly covers this is <a href="/legendary_hero" target="_blank">Legendary Hero!</a>).
 
 - It's the only Ryuseitai song to have group lines split between the Ryuseitai seniors pair and Ryuseitai juniors group <em>only</em> (Other songs mix them up between senior and juniors or other variations).
 
 [^1]: In the song, they sing <em>yume no saki</em> (beyond the dreams), which is homophonous with Yumenosaki Academy (夢ノ咲). The academy’s name lit. means “(the school where) dreams bloom”.
-[^2]: This line has Chiaki’s name hidden within it, see bolded: <em>ichi i<b>chi aki</b>ramete-cha</em>.
-[^3]: This line has Kanata’s name hidden within it, see bolded: <em>negau <b>kanata</b> e</em>. It also has the word “wish”, which relates back to Kanata’s backstory (Read more about it in <a href="/meteor_impact" target="_blank">Meteor Impact</a>).
-[^4]: This line has Tetora’s name hidden within it, see bolded: <em>tachi mukat<b>te tora</b>buru o</em>.
-[^5]: This line has Midori’s name hidden within it, see bolded: <em>saa, LET <b>ME DREA</b>M</em>.
-[^6]: This line has Shinobu’s name hidden within it, see bolded: <em>manaza<b>shi nobu</b>n</em>.
+[^2]: This line has Chiaki’s name hidden in it, see bolded: <em>ichi i<b>chi aki</b>ramete-cha</em>.
+[^3]: This line has Kanata’s name hidden in it, see bolded: <em>negau <b>kanata</b> e</em>. It also has the word “wish”, which relates back to Kanata’s backstory (Read more about it in <a href="/meteor_impact" target="_blank">Meteor Impact</a>).
+[^4]: This line has Tetora’s name hidden in it, see bolded: <em>tachi mukat<b>te tora</b>buru o</em>.
+[^5]: This line has Midori’s name hidden in it, see bolded: <em>saa, LET <b>ME DREA</b>M</em>.
+[^6]: This line has Shinobu’s name hidden in it, see bolded: <em>manaza<b>shi nobu</b>n</em>.
 [^7]: As an interesting note, Kanata tends to talk about “evolution” a lot because of marine biology, such as in his <a href="/idol_story/kanata_2" target="_blank">idol story with Midori</a>.
-[^8]: This line references kanjis from their names. Cloud (<em>kumo</em>) = Same kanji as the one in <em>nagumo</em> (南雲), heights (<em>takami</em>) = Same kanji as the one in <em>takamine</em> (高峯), Thousand (<em>sen</em>) = Same kanji as the one in <em>chiaki</em> (千秋), as well as being homophonous with the <em>sen</em> from <em>sengoku</em>.
-[^9]: Kanata’s center song in !! Era, <a href="/bokura_no_stella" target="_blank">Bokura no Stella</a>, has similar lyrics to this song. Such as “rain down”, as well as <em>ikusen</em> (thousands) in this song, while his center song has <em>ikuoku</em> (hundreds of millions).
+[^8]: This line references kanji from their names. Cloud (<em>kumo</em>) → Same kanji as the one in <em>nagumo</em> (南雲), heights (<em>takami</em>) → Same kanji as the one in <em>takamine</em> (高峯), thousand (<em>sen</em>) → Same kanji as the one in <em>chiaki</em> (千秋), as well as being homophonous with the <em>sen</em> from <em>sengoku</em>.
+[^9]: Kanata’s center song in !! Era, <a href="/bokura_no_stella" target="_blank">Bokura no Stella</a>, has some lyrics similar to this song. Such as “rain down”, as well as <em>ikusen</em> (thousands), while his center song has <em>ikuoku</em> (hundreds of millions).
 [^10]: Ryusei Yellow’s catchphrase is “The yellow flame is the mark of hope”.
-[^11]: Midori’s Ryusei Green catchphrase during his time as a 1st year was “The green flame is the mark of compassion, soothing everyone with yuruchara and such”.
+[^11]: Midori’s Ryusei Green catchphrase when he was a 1st year was “The green flame is the mark of compassion, soothing everyone with yuruchara and such”.
 [^12]: Ryusei Black’s catchphrase is “The black flame is the mark of effort (hard work)”.
 [^13]: Ryusei Blue’s catchphrase is “The blue flame is the mark of mystery”.
 [^14]: Ryusei Red’s catchphrase is “The red flame is the mark of justice, the sun of life, burning bright red”.
