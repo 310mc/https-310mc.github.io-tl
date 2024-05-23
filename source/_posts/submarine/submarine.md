@@ -583,12 +583,7 @@ permalink: submarine/
                             <a href="nirai_kanai" id="">Nirai-Kanai</a>
                         </li>
                         <li>
-                            <span>Epilogue</span>
-                            <a href="epilogue/#Chapter-1" id="">1</a>
-                            <a href="https://verdantgrove.dreamwidth.org/17804.html" id="">2</a>
-                            <a href="epilogue/#Chapter-3" id="">3</a>
-                            <a href="https://verdantgrove.dreamwidth.org/18180.html" id="">4</a>
-                            <a href="https://verdantgrove.dreamwidth.org/18520.html" id="">5</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>

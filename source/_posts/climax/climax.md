@@ -91,7 +91,7 @@ permalink: climax/
 <!-- more -->
 
 {% note narration %}
-This story is **fully voiced** on the Ensemble Stars!! Basic game. It is recommended to listen to it while reading the story!
+This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recommended to listen to it while reading the story!
 {% endnote %}
 
 <style>

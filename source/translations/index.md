@@ -1187,6 +1187,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Song Lyrics
 
 <h4>Ensemble Stars! Era</h4>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+            alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+        />
+    </div>
+    <a href="/goshoku_no_shooting_star" class="storyName" target="_blank">
+        <span>Goshoku no Shooting ☆ Star!!!!!</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="stories">
     <div class="story">
         <div class="thumbimage">

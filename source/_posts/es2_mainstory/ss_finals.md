@@ -64,6 +64,10 @@ permalink: ss_finals/
 
 <!-- more -->
 
+{% note narration %}
+The ES!! Main story is fully voiced in-game.
+{% endnote %}
+
 {% bubble Subaru %}
 ——Ryuseitai!
 {% endbubble %}

@@ -12,7 +12,6 @@ tags:
 - Akira
 description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
 ---
-
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
@@ -21,11 +20,11 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-								<a href="/categories/Enstars/Kanata" character="Kanata"></a>
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
-								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -46,7 +45,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Proofreading
+                    Proofreading
                 </div>
                 <div class="value">
                     <a href="https://honeyspades.tumblr.com">honeyspades</a>, <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>

@@ -1,6 +1,6 @@
 ---
 title: "[Song] SUPER NOVA REVOLU5TAR"
-date: 2024/5/16 9:00:00
+date: 2017/8/9 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -576,6 +576,18 @@ permalink: SUPER_NOVA_REVOLU5TAR/
 ## Ryuseitai Songs Directory
 
 <div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+                alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+            />
+        </div>
+        <a href="/goshoku_no_shooting_star" class="storyName" target="_blank">
+            <span>Goshoku no Shooting ☆ Star!!!!!</span>
+            <span class="read"></span>
+        </a>
+    </div>
     <div class="story">
         <div class="thumbimage">
             <img

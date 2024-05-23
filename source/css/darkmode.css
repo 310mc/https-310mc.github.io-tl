@@ -184,5 +184,9 @@
   .redcolor {
     color:#E66B6B;
   }
+
+  .toolbar a {
+    color: #F0C0C0;
+  }
   /** Adjustments Dark mode END **/
 }

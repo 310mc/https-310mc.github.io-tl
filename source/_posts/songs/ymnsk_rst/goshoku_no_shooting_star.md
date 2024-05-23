@@ -1,6 +1,6 @@
 ---
-title: "[Song] Heart Heat Beat"
-date: 2024/3/6 9:00:00
+title: "[Song] Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+date: 2016/11/23 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -11,12 +11,11 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of Heart Heat Beat Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album TRIP."
+description: "Translation of Goshoku no Shooting ☆ Star!!!!! Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album (Initially released with Unit Song CD 2 Vol.5 RYUSEITAI)."
 permalink: goshoku_no_shooting_star/
-hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
+{% img /img/es/songs/ryuseitaiunitsong2ndcd_500px.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -35,10 +34,10 @@ hidden: true
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Associated CD
+                    Associated Album
                 </div>
                 <div class="value">
-                    Anime ED CD TBA
+                    <a href="/ryuseitai_album">Ryuseitai Album</a> (Initially released with <a href="https://ensemble-stars.fandom.com/wiki/Vol.5_%22RYUSEITAI%22_2">Unit Song CD 2 Vol.5 RYUSEITAI</a>)
                 </div>
             </div>
             <div class="info-item two">
@@ -46,7 +45,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>, Funimation Official Lyrics
+                    <a href="/about">310mc</a>
                 </div>
             </div>
             <div class="info-item three">
@@ -64,192 +63,276 @@ hidden: true
 <!-- more -->
 
 ## Index
-<p style="font-size:22px;"><a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+<!--<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - --><a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
+<!--
+## MV Size
+
+<h4 style="text-align:center;">Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!</h4>
+
+{% img /img/es/songs/songcover/goshokunoshootingstar.jpg %}
+
+<p style="text-align:center;font-size:22px;">Click <a href="LINK" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+-->
 
 ## Full Lyrics
 
-<p style="text-align:center;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+<h4 style="text-align:center;">Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
-    <td class="name"></td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Speaking with our fists (Black flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Kicking away the darkness (Yellow flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>An unyielding strength we each possess</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>With every injury we sustain (Green flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Our bonds solidify (Blue flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td>As we repel, we are further drawn to each other</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
     <td>
-      Call us anytime with a voice that reaches to the other side of a dream
-      <br>
-      Let's rush over, RYUSEITAI! Meteor scramble☆
+    Burning a bright red, the sun of life
+    <br>
+    Shines upon our future
+    <br>
+    Blazing passionately, the red flame!
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>If you keep on giving up</td>
+    <td class="name"><span class="all">All</span></td>
+    <td>The five colors now become one…</td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>(NO MORE)</td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>You can't go the distances you want to go</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>We'll give you the courage</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(GO FORWARD)</td>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> Shine bright!
+    <br>
+    Justice is—
+    </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>To face your troubles head-on</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Come, LET ME DREAM</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We'll become as passionate as</td>
+    <td>To see the truth</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>The gazes</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>you've given us</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>I'm sure the sun will rise to protect our dreams</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>We'll turn even sparkles into power and evolve</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Pass the clouds and fly to the heights where thousands of voices are</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Rain down, RYUSEITAI! Meteor scramble☆</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Today, too, HERE WE GO!!!!!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>We began to run toward hope</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(WAY TO GO)</td>
+    <td>And believe in it</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>And like the soothing wind</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Blowing on those hard working backs</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>(MELODY)</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We’ll always be by your side</td>
+    <td>To put your life on the line</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A mysterious energy</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Called “Trust”</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Is what puts passion</td>
+    <td>And protect others until the very end</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Into justice</td>
+    <td>No matter how smeared in mud you become</td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>When your dreams are in a pinch, we’ll be sure to come rescue you</td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>Please believe in us, don’t look back, just wait for us</td>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> In an instant
+    <br>
+    Burn incessantly, (Sparkling bright) This tenacious spirit
+    </td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>There’s no such thing as a never-ending night</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>morning will surely come</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>So let’s go there, RYUSEITAI! Meteor scramble☆</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>Today, too, HERE WE GO!!!!!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>This moment</td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Will continue on to the future</td>
+    <td>No fatal injury can stop us (Black flame)</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>It is the start</td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>We’ll simply revive once more (Yellow flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td>The yellow lightning against the black night sky</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>Of our episode</td>
-  </tr>
-  <tr>
-    <td class="name"></td>
-    <td>That’s why</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Today, too</td>
+    <td>To fight means (Green flame)</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>In your sky</td>
+    <td>To protect until the very end (Blue flame)</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td>On the surface of the green and blue Earth</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>The sun will rise</td>
+    <td>
+    Like the sun, like the flame
+    <br>
+    Burning passionately, more and more
+    <br>
+    We were called here in the name of justice
+    </td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>Let’s turn even sparkles into power and rush out</td>
+    <td class="name"><span class="all">All</span></td>
+    <td>The five life forces become one…</td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>Call us anytime with a voice that reaches to the other side of a dream</td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>Let's rush over, RYUSEITAI! Meteor scramble☆</td>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> Let’s vow
+    <br>
+    To protect what we must—
+    </td>
   </tr>
   <tr>
-    <td class="name"></td>
-    <td>We’re everyone’s heroes!!!!!</td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Our cherished ones</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Our comrades</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Our faithful hearts</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>Our loving feelings</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>No matter how torn-apart our bodies become</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> O, five-colored shooting star
+    <br>
+    (To the night sky) Now, fire off your light
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    Our hardships, our pain
+    <br>
+    Under the name of hope
+    <br>
+    We’ll be able to share all of it between us
+    <br>
+    Absolutely! Absolutely! Absolutely!
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> Shine bright!
+    <br>
+    Justice is—
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>To see the truth</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>And believe in it</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>To put your life on the line</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>And protect others until the very end</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>No matter how smeared in mud you become</td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="all">All</span></td>
+    <td>
+    <em>Shooting Star! Shooting Star!</em> In an instant
+    <br>
+    Burn incessantly, (Sparkling bright) This tenacious spirit
+    <br>
+    Fire off your light
+    </td>
   </tr>
 </table>
 
@@ -258,155 +341,57 @@ hidden: true
 ## Ryuseitai Songs Directory
 
 <div class="stories">
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/suiseihalation_300px.jpg"
-              alt="Suisei HALATION"
-          />
-      </div>
-      <a href="/suisei_HALATION" class="storyName" target="_blank">
-          <span>Suisei HALATION</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
-              alt="Nekketsu ☆ Ryusei Ninpouchou"
-          />
-      </div>
-      <a href="/nekketsu_ryusei_ninpouchou" class="storyName" target="_blank">
-          <span>Nekketsu ☆ Ryusei Ninpouchou</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/heartheatbeat_300px.jpg"
-              alt="Heart Heat Beat"
-          />
-      </div>
-      <a href="/heart_heat_beat" class="storyName" target="_blank">
-          <span>Heart Heat Beat</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/colorsarise_300px.jpg"
-              alt="Colors Arise"
-          />
-      </div>
-      <a href="/colors_arise" class="storyName" target="_blank">
-          <span>Colors Arise</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/relaxparadise_300px.jpg"
-              alt="RELAX PARADISE"
-          />
-      </div>
-      <a href="/RELAX_PARADISE" class="storyName" target="_blank">
-          <span>RELAX PARADISE</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/songs/bokuranostella_300px.jpg"
-              alt="Bokura no Stella"
-          />
-      </div>
-      <a href="/bokura_no_stella" class="storyName" target="_blank">
-          <span>Bokura no Stella</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
-              alt="NEW DAYBREAK"
-          />
-      </div>
-      <a href="/NEW_DAYBREAK" class="storyName" target="_blank">
-          <span>NEW DAYBREAK</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
-              alt="Unmei Power Energy! (Tetora Solo)"
-          />
-      </div>
-      <a href="/unmei_power_energy" class="storyName" target="_blank">
-          <span>Unmei Power Energy!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
-              alt="Green to the sky (Midori Solo)"
-          />
-      </div>
-      <a href="/green_to_the_sky" class="storyName" target="_blank">
-          <span>Green to the sky</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
-              alt="Seisei Doudou Ouenka! (Shinobu Solo)"
-          />
-      </div>
-      <a href="/seisei_doudou_ouenka" class="storyName" target="_blank">
-          <span>Seisei Doudou Ouenka!</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
-              alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
-          />
-      </div>
-      <a href="/kokoro_de_pittari_ai_ni_naru" class="storyName" target="_blank">
-          <span>Kokoro de Pittari Ai ni Naru</span>
-          <span class="read"></span>
-      </a>
-  </div>
-  <div class="story">
-      <div class="thumbimage">
-          <img
-              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
-              alt="happy drops (Kanata Solo)"
-          />
-      </div>
-      <a href="/happy_drops" class="storyName" target="_blank">
-          <span>happy drops</span>
-          <span class="read"></span>
-      </a>
-  </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+                alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+            />
+        </div>
+        <a href="/goshoku_no_shooting_star" class="storyName" target="_blank">
+            <span>Goshoku no Shooting ☆ Star!!!!!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                alt="SUPER NOVA REVOLU5TAR"
+            />
+        </div>
+        <a href="/SUPER_NOVA_REVOLU5TAR" class="storyName" target="_blank">
+            <span>SUPER NOVA REVOLU5TAR</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                alt="GROWING STARRY DAYS"
+            />
+        </div>
+        <a href="/GROWING_STARRY_DAYS" class="storyName" target="_blank">
+            <span>GROWING STARRY DAYS</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
+                alt="Meteor Scramble ☆ Ryuseitai!"
+            />
+        </div>
+        <a href="/meteor_scramble_ryuseitai" class="storyName" target="_blank">
+            <span>Meteor Scramble ☆ Ryuseitai!</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 <div toc>
-{% btn /ryuseitai_album_trip,, star, Ryuseitai Album TRIP %}
+{% btn /ryuseitai_album,, star, Ryuseitai Album %}
 {% btn /translations/#Song-Lyrics,, circle, Song Index %}
 </div>
-
-## Translation Notes

@@ -304,7 +304,7 @@ Haha, why you little… *You’re* the one who went changin’ the subject first
 
 Well, whatever. Sure, guess I’ll give ya the rundown of what’s goin’ down… I still don’t wanna give ya any trouble, but you *have* been helpin’ me out, so. Can’t keep pretendin’ we’re strangers anymore, ‘specially now that I know your name.
 
-…I’ve been a shitty delinquent for a real long time now. Used to do so much dumb shit, and makin’ my family cry over it.
+…I’ve been a shitty delinquent for a real long time now. Used to do so much dumb shit, and make my family cry over it.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}

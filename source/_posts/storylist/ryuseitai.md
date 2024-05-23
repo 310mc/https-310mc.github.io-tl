@@ -16,7 +16,7 @@ description: "Ryuseitai Story List with recommended stories to read."
 
 ## Introduction
 
-Hi! In here you'll find a list of Ryuseitai stories to get you started on reading them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
+Hi! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
 
 <ul class="list">
 <li>The most typical way to read Enstars stories is through release order. This is the general way fans experience or have experienced the storyline. Release order would mean starting from 2015 stories and then going up the years.</li>
@@ -65,7 +65,8 @@ Notes:
 
 <ul class="list">
 <li><strong><a href="/climax" target="_blank">Climax</a></strong>
-<ul class="list2"><li>For Tetora, bonus stories to read are <u>The Four Beasts of Fistfighting</u> and <a href="/beasts" target="_blank">Beasts</a>!</li></ul></li>
+<ul class="list2"><li>For Midori, bonus stories to read are <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a> and <a href="/hurray_normal_day" target="_blank">First Dreams – Hurray for a Normal Day</a>!</li>
+<li>For Tetora, bonus stories to read are <u>The Four Beasts of Fistfighting</u> and <a href="/beasts" target="_blank">Beasts</a>!</li></ul></li>
 <li><strong>Sparkly First Years</strong> → Only has Shinobu, Midori, and Chiaki.</li>
 <li>Purple Wisterias of May → Only has Chiaki, Shinobu, and Kanata.<ul class="list2"><li>For Kanata, bonus story to read is <a href="/aquarium" target="_blank">Aquarium</a>!</ul></li></li>
 <li>Shooting Star Festival</li>
@@ -115,7 +116,7 @@ Notes:
 <li><a href="/parallel_world" target="_blank">Parallel World</a> → Ryuseitai appear in only one chapter, and the link is a translation of only that chapter.</li>
 <li><strong><a href="/tropical" target="_blank">Tropical</a></strong></li>
 <li><strong><a href="/stella_maris" target="_blank">Stella Maris</a></strong>
-<ul class="list2"><li>For Kanata, bonus story to read is <a href="/ABYSS" target="_blank">ABYSS</a>!</li>
+<ul class="list2"><li>For Kanata, bonus story to read is <a href="/abyss" target="_blank">ABYSS</a>!</li>
 <li>For Shinobu, bonus stories are <u>Atlantis</u> and <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>!</li></ul></li>
 </ul>
 

@@ -25,11 +25,11 @@ description: "[ES!!] Translation of 9th Anniversary Ryuseitai content."
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -50,10 +50,10 @@ description: "[ES!!] Translation of 9th Anniversary Ryuseitai content."
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Proofreading
+                    Anniversary
                 </div>
                 <div class="value">
-                  None
+                    9th
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@ description: "[ES!!] Translation of 9th Anniversary Ryuseitai content."
 
 <!-- more -->
 
-## Anniversary Quotes (In progress!)
+## Anniversary Quotes
 
 {% img /img/es/anniversary/9th/tetoralogin.jpg %}
 
@@ -104,6 +104,16 @@ It feels like everyone’s fighting like cats and dogs in today’s live show…
 
 {% bubble Kanna frown %}
 I feel the same way. How very, very bothersome, truly… I’m relieved to know there’s someone else who thought similarly.
+{% endbubble %}
+
+{% img /img/es/anniversary/9th/chiakilogin.jpg %}
+
+{% bubble Chiaki curious %}
+Amagi-senpai, I'm struggling with how to go about the last part of the song… May I ask you for some pointers on how to do dynamic moves?
+{% endbubble %}
+
+{% bubble Rinne %}
+Why're you asking me… Meh, sure, why not. It's tricky to explain with words, so I'll show ya how it's done later~♪
 {% endbubble %}
 
 ## LIMIT BREAK DREAMERS Ryuseitai Mini Talk

@@ -1,6 +1,6 @@
 ---
 title: "[Song] GROWING STARRY DAYS"
-date: 2024/5/16 9:01:00
+date: 2017/8/9 9:01:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Song Lyrics
-description: "Translation of GROWING STARRY DAYS Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album (Initially release in the Vol.1 RYUSEITAI 3 CD)."
+description: "Translation of GROWING STARRY DAYS Song Lyrics by 310mc. Sung by Ryuseitai from the Ryuseitai Album (Initially released with Vol.1 RYUSEITAI 3 CD)."
 permalink: GROWING_STARRY_DAYS/
 ---
 
@@ -418,6 +418,18 @@ permalink: GROWING_STARRY_DAYS/
 ## Ryuseitai Songs Directory
 
 <div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+                alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+            />
+        </div>
+        <a href="/goshoku_no_shooting_star" class="storyName" target="_blank">
+            <span>Goshoku no Shooting ☆ Star!!!!!</span>
+            <span class="read"></span>
+        </a>
+    </div>
     <div class="story">
         <div class="thumbimage">
             <img

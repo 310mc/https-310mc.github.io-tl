@@ -84,7 +84,8 @@ creative_commons:
 menu:
   home: / || fa fa-home
   about: about || fa fa-user
-  Translations: translations || fas fa-book
+  translations: translations || fas fa-book
+  ryuseitai story list: storylist\ryuseitai || fa fa-star
   categories: categories || fa fa-folder-open
   tags: tags || fa fa-tags
   archives: history || fa fa-history

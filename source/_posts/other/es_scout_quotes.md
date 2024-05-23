@@ -1,6 +1,6 @@
 ---
 title: "[ES!] 5* Scout Quotes"
-date: 2017-08-09 9:00:00
+date: 2017-08-09 8:00:00
 categories:
 - [Enstars, ES!]
 tags:

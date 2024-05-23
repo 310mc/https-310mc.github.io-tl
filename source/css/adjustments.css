@@ -46,7 +46,7 @@
 }
 
 .releasedate {
-    color:blue;
+    color: blue;
     text-align:center;
     font-size:110%;
 }
@@ -68,9 +68,138 @@
 /** Chat format
 ***/
 body {
-    --msr-icon-size: 67px;
+    --msr-icon-size: 65px;
   }
 /** End Chat format
 ***/
 
+/** Navigation Bar 
+**/
+.navigation {
+    display: flex;
+    position: sticky;
+    bottom: 0px;
+    background: var(--content-bg-color);
+    justify-content: center;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+    z-index: 9999;
+}
 
+.navigation img {
+    margin-bottom: 0px;
+    width: 50px;
+}
+
+.navigation a {
+    border-bottom: none;
+}
+
+.navigation i {
+    margin: 0px;
+    padding: 10px;
+}
+
+.navigation .top-arrow {
+    right: 0px;
+    position: absolute;
+}
+
+.navigation .home-button {
+    left: 0px;
+    position: absolute;
+}
+/** Navigation Bar End 
+**/
+
+
+/** Navigation2 Bar 
+**/
+.navigation2 {
+    display: grid;
+    position: sticky;
+    bottom: 0px;
+    background: var(--content-bg-color);
+    justify-content: center;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+    z-index: 9999;
+}
+
+.navigation2 img {
+    margin-bottom: 0px;
+    width: 50px;
+}
+
+.navigation2 a {
+    border-bottom: none;
+}
+
+.navigation2 i {
+    margin: 0px;
+    padding: 10px;
+}
+
+.navigation2 .top-arrow {
+    right: 0px;
+    position: absolute;
+}
+
+.navigation2 .home-button {
+    left: 0px;
+    position: absolute;
+}
+
+.toolbar-wrapper.showSlider .slider-container {
+    transform: translateY(calc(100% - 70px));
+}
+
+.toolbar { 
+    gap:8px;
+}
+
+.toolbar a {
+    color: var(--link-color);
+    padding: 0px;
+}
+
+.toolbar-wrapper {
+    position: static;
+    margin-bottom: 0px;
+    filter: none;
+}
+
+.slider-container {
+    background: var(--content-bg-color);
+}
+
+.slider {
+    background: #a8a8a8;
+}
+
+.toolbar {
+    background: var(--content-bg-color);
+}
+/** Navigation2 Bar End 
+**/
+
+/**
+::-webkit-scrollbar {
+width: 9px;
+}
+
+::-webkit-scrollbar-track {
+background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+background: #888;
+height: 6rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: #555;
+}
+
+html { scroll-behavior: smooth; }
+**/

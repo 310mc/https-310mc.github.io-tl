@@ -1,6 +1,6 @@
 ---
 title: "[Song] Meteor Scramble ☆ Ryuseitai!"
-date: 2024/5/16 9:02:00
+date: 2019/11/27 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Tetora]
@@ -413,6 +413,18 @@ permalink: meteor_scramble_ryuseitai/
     <div class="story">
         <div class="thumbimage">
             <img
+                src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+                alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
+            />
+        </div>
+        <a href="/goshoku_no_shooting_star" class="storyName" target="_blank">
+            <span>Goshoku no Shooting ☆ Star!!!!!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
                 src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
                 alt="SUPER NOVA REVOLU5TAR"
             />
@@ -460,7 +472,7 @@ I interpret this song as the essence of Ryuseitai during their Yumenosaki days, 
 
 - The song heavily references their Ryusei catchphrases, which Chiaki came up with at the start of his 3rd year as part of bringing his ideal image of 5-members Ryuseitai to life. (A story that briefly covers this is <a href="/legendary_hero" target="_blank">Legendary Hero!</a>).
 
-- It's the only Ryuseitai song to have group lines split between the Ryuseitai seniors pair and Ryuseitai juniors group <em>only</em> (Other songs mix them up between senior and juniors or other variations).
+- It's the only Ryuseitai song to have group lines split between the Ryuseitai seniors pair and Ryuseitai juniors group <em>only</em> (Other songs mix them up between seniors and juniors or other variations).
 
 [^1]: In the song, they sing <em>yume no saki</em> (beyond the dreams), which is homophonous with Yumenosaki Academy (夢ノ咲). The academy’s name lit. means “(the school where) dreams bloom”.
 [^2]: This line has Chiaki’s name hidden in it, see bolded: <em>ichi i<b>chi aki</b>ramete-cha</em>.
