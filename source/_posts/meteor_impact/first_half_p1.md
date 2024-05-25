@@ -328,9 +328,9 @@ Ahh, no… That last question was a bit too difficult for me, but I can answer y
 
 My name is Morisawa Chiaki. I’m a first year like you, and I’m currently in a unit called Ryuseitai. I’m still in the lower ranks, though.
 
-Ryuseitai doesn’t have as much influential power as Othello, but it does have a lot of members.[^2] It’s split between two squads: the first squad is always performing onstage and brimming with glory, while the second squad supports them.
+Ryuseitai doesn’t have as much influential power as Othello, but it does have a lot of members.[^2] It’s split between two squads: the first squad always gains the glory by being onstage, while the second squad supports them.
 
-I’m in the second squad, and I’m meant to do the trivial tasks. And honestly, it’s only natural that I was placed in it; I’m a newcomer. I could never allow myself to take a senior position.
+I’m in the second squad, and I’m meant to do the trivial tasks. And honestly, it’s only natural that I was placed in it; I’m a newcomer. I could never allow myself to push aside my seniors and take their position.
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}

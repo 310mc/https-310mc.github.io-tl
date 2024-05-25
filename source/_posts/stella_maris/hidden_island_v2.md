@@ -59,7 +59,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 ## Disclaimer
 
-<big>This story has two chapters with adjusted scenes (hidden island 6 and 10). The <a href="/stella_maris/hidden_island" target="_blank">main translation</a> follows the story as it currently is in-game. The version below follows the story before it was adjusted.</big>
+<big>This story has two chapters with adjusted scenes (hidden island 6 and 10). The <a href="/stella_maris/hidden_island_p2" target="_blank">main translation</a> follows the story as it currently is in-game. The version below follows the story before it was adjusted.</big>
 
 <big>Click the following to jump to the chapter → Go to <a href="#Chapter-6"><b>Chapter 6</b></a> — Go to <a href="#Chapter-10"><b>Chapter 10</b></a></big>
 
@@ -194,7 +194,7 @@ This is just hypothetically speaking, but for example, I might not be able to co
 {% endbubble %}
 
 {% bubble Tetora yare %}
-He’s talking to <em>you</em>, Morisawa-senpai. Jeez, you’re always acting like a li’l kid wherever we go, runnin’ about as soon as you can.
+They’re talking to <em>you</em>, Morisawa-senpai. Jeez, you’re always acting like a li’l kid wherever we go, runnin’ about as soon as you can.
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -247,7 +247,7 @@ Ah, no… Mm~ Perhaps it’s simply my imagination…
 But I feel as though someone is watching us—
 {% endbubble %}
 
-<big>Click <b><a href="/stella_maris/hidden_island#Chapter-6" target="_blank">here</a></b> to go back to the main translation.</big>
+<big>Click <b><a href="/stella_maris/hidden_island_p2#Chapter-6" target="_blank">here</a></b> to go back to the main translation.</big>
 
 ## Chapter 10
 
@@ -375,7 +375,7 @@ that is how little they are willing to [cooperate] with us. it seems, though, th
 which is a good thing. it would have been a problem if they [forbade] all our choices after specifically [requesting] for our help.
 {% endbubble %}
 
-<big>Click <b><a href="/stella_maris/hidden_island#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
+<big>Click <b><a href="/stella_maris/hidden_island_p2#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
 
 ## Translation Notes
 
@@ -385,7 +385,7 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^6]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
-[^7]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to his grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
+[^7]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to their grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
 [^8]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
 [^9]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^10]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

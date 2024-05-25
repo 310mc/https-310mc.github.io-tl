@@ -60,11 +60,6 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Story-Highlights">Story Highlights</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /stella_maris/birthplace_of_stars_p2,, arrow-left, Previous Chapter: birthplace of stars (Chapter 7–15) %}
-{% btn /stella_maris,, star, Index %}
-</div>
-
 ## Chapter 1
 
 {% img /img/es/eventstory/stellamaris/ep1.jpg %}
@@ -503,12 +498,23 @@ It may be scary to dive into an unfamiliar world. However, they will stand on th
 
 It’s exactly because they’ve obtained the sparkling stars that they once wished for from the bottom of the ocean, that they will continue to bring courage and smiles to others.
 
-<hr>
-
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /stella_maris/birthplace_of_stars_p2,, arrow-left, Previous Chapter: birthplace of stars (Chapter 7–15) %}
-{% btn /stella_maris,, star, Index %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/stella_maris/birthplace_of_stars_p2" title="Previous Chapter: birthplace of stars (Chapter 7–15)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

@@ -75,18 +75,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span class="read soon"></span>
     </a>
 </div>
-<div class="story">
-<div class="thumbimage">
-    <img
-        src="/img/banner/9thanniversary_300px.jpg"
-        alt="9th Anniversary (Ryuseitai)"
-    />
-</div>
-<a href="/anniversary/9th" class="storyName" target="_blank">
-    <span>9th Anniversary Ryuseitai</span>
-    <span class="read"></span>
-</a>
-</div>
 <!--<div class="story">
     <div class="thumbimage">
         <img
@@ -126,18 +114,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/escapemansion/kogabcgframe_300px.jpg"
-            alt="Escape Mansion"
-        />
-    </div>
-    <a href="/" class="storyName" target="_blank">
-        <span>Escape Mansion (In Progress!)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
             alt="Graduation"
         />
@@ -153,6 +129,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+<div class="thumbimage">
+    <img
+        src="/img/banner/9thanniversary_300px.jpg"
+        alt="9th Anniversary (Ryuseitai)"
+    />
+</div>
+<a href="/anniversary/9th" class="storyName" target="_blank">
+    <span>9th Anniversary Ryuseitai</span>
+    <span class="read"></span>
+</a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img
@@ -198,90 +186,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     </div>
     <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
         <span>True To Myself, Taking A Step Forward</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
-            alt="Exhibition In A Blink Of An Eye"
-        />
-    </div>
-    <a href="/exhibition_in_a_blink" class="storyName" target="_blank">
-        <span>Exhibition In A Blink Of An Eye</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/asiam/c1.jpg"
-            alt="As I Am"
-        />
-    </div>
-    <a href="/as_i_am" class="storyName" target="_blank">
-        <span>As I Am</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/misshapenmasterpiece/c2.jpg"
-            alt="Misshapen Masterpiece"
-        />
-   </div>
-    <a href="/misshapen_masterpiece" class="storyName" target="_blank">
-        <span>Misshapen Masterpiece</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcoverframe.jpg"
-            alt="Ryuseitai Album TRIP"
-        />
-    </div>
-    <a href="/ryuseitai_album_trip" class="storyName" target="_blank">
-        <span>Ryuseitai Album TRIP Campaign</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/meresearch/c1.jpg"
-            alt="me research"
-        />
-    </div>
-    <a href="/me_research" class="storyName" target="_blank">
-        <span>me research</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/idealpath/c1.jpg"
-            alt="Some Day, On The Path To My Ideal"
-        />
-    </div>
-    <a href="/someday_on_the_path_to_my_ideal" class="storyName" target="_blank">
-        <span>Some Day, On The Path To My Ideal</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
-            alt="Stella Maris – Climax Event"
-        />
-    </div>
-    <a href="/stella_maris" class="storyName" target="_blank">
-        <span>Stella Maris – Climax Event</span>
         <span class="read"></span>
     </a>
 </div>

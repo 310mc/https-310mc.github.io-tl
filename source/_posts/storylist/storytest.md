@@ -1,6 +1,6 @@
 ---
 title: "Ryuseitai Story List"
-date: 2015-4-28 9:00:00
+date: 2015-4-10 9:00:00
 categories:
 - [Uncategorized]
 tags:
@@ -9,8 +9,11 @@ description: "Ryuseitai Story List with recommended stories to read."
 hidden: true
 ---
 
+<img src="/img/banner/about.jpg" width="100%" height="100%" class="preview-image">
+
 <!-- more -->
 
+<section>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="{favicon}">
 <meta name="description" content="{MetaDescription}"/>
@@ -55,6 +58,10 @@ e.preventDefault();
 </script>
 
 <style>
+    .preview-image {
+        display: none;
+    }
+
     .filters-list {
     width: 100%;
     position: sticky;
@@ -79,10 +86,19 @@ e.preventDefault();
         font-weight: 700;
         text-transform: uppercase;
     }
+
+    .selected {
+        font-weight: 700;
+    }
 </style>
+</section>
+
+<div style="display:flex;">
+<img src="/img/banner/about.jpg" width="50%" height="50%">
+<img src="/img/banner/about.jpg" width="50%" height="50%">
+</div>
 
 <div id="Index" style="font-size:16px;margin:0rem 1rem;">
-<img src="/img/banner/about.jpg" width="100%" height="100%">
 Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
 <ul class="list">
 <li>This list is sorted in <b>release order</b>. For a chronological order of Ryuseitai's stories, <a href="https://citrinesea.github.io/main-sections/essays/timeline.html" target="_blank">please see this list</a> by citrinesea (it also lists Akatsuki's!), or <a href="https://ensemble-stars.fandom.com/wiki/Story/Chronological_Story_Order_(!)" target="_blank">the timeline on the Wiki</a>!</li>
@@ -98,7 +114,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     <li><a href="#" data-filter-value=".unit-only">Unit stories</a></li>
     <li><a href="#" data-filter-value=".non-unit">Non-Unit stories</a></li>
 </ul>
-<ul class="filter option-set exclusive" data-filter-group="characters">
+<ul class="filter option-set" data-filter-group="characters">
     <li class="filters-title">Character Appearance</li>
     <li><a href="#" data-filter-value="" class="selected">All</a></li>
     <li><a href="#" data-filter-value=".tetora1">Tetora</a></li>
@@ -106,7 +122,6 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     <li><a href="#" data-filter-value=".shinobu1">Shinobu</a></li>
     <li><a href="#" data-filter-value=".chiaki1">Chiaki</a></li>
     <li><a href="#" data-filter-value=".kanata1">Kanata</a></li>
-    <!--<li>Character tags can be combined. Ex. Choosing Chiaki and Tetora will show stories they both appear in.</li>-->
 </ul>
 </div>
 

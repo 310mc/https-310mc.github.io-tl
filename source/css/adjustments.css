@@ -180,10 +180,9 @@ body {
 .toolbar {
     background: var(--content-bg-color);
 }
-/** Navigation2 Bar End 
-**/
+/** Navigation2 Bar End **/
 
-/**
+/** Scroll Wheel**/
 ::-webkit-scrollbar {
 width: 9px;
 }
@@ -200,6 +199,4 @@ height: 6rem;
 ::-webkit-scrollbar-thumb:hover {
 background: #555;
 }
-
-html { scroll-behavior: smooth; }
-**/
+/** Scroll Wheel End **/

@@ -57,6 +57,8 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 <!-- more -->
 
+<div id="Chapter-Index"></div>
+
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -198,17 +200,17 @@ and that part is not one i am willing to [give up].
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Mhm! It’s wonderful to have something you aren’t willing to give up!
+Mhm! It’s wonderful to have something you aren’t willing to give up![^2]
 
 We, the reborn Ryuseitai, will continue to cherish that aspect!
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-I know I’ve explained this many times before, but — From here on, we’ll be taking turns with the commander role[^2] for every job.
+I know I’ve explained this many times before, but — From here on, we’ll be taking turns with the commander role for every job.[^3]
 
 To be more precise, for each job sent to us, the most suitable member will take up the role of the commander for the duration of it.
 
-That way, we’ll no longer be in a situation where jobs are constantly entrusted to one person, like it was to me — and it should immensely expand our range of activities in the unit.[^3]
+That way, we’ll no longer be in a situation where jobs are constantly entrusted to one person, like it was to me — and it should immensely expand our range of activities in the unit.[^4]
 {% endbubble %}
 
 {% bubble Tetora yare %}
@@ -216,7 +218,7 @@ But in terms of the agency, they seem to want Morisawa-senpai to constantly be t
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-Yeah. But after going through many ups and downs, we decided to oppose the agency’s policy.[^4]
+Yeah. But after going through many ups and downs, we decided to oppose the agency’s policy.[^5]
 
 It’s pointless if only I ever get to make my dreams come true. No, not just that — I had never intended to make Ryuseitai into a tool— into nothing but a scapegoat for my own personal dreams.
 
@@ -232,7 +234,7 @@ Ossu. Except, while Midori-kun, Shinobu-kun, and I got to experience being the c
 {% endbubble %}
 
 {% bubble Kanata scold %}
-hey~! you should call me “taichou” right now![^5]
+hey~! you should call me “taichou” right now![^6]
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
@@ -284,38 +286,53 @@ Bears love it, too! Salmon!
 {% endbubble %}
 
 {% bubble Tetora fist %}
-We may be poisonous, but we’re tasty! Pufferfish![^6]
+We may be poisonous, but we’re tasty! Pufferfish![^7]
 {% endbubble %}
 
 {% bubble Shinobu fist %}
-In auspicious times, sea bream![^7]
+In auspicious times, sea bream![^8]
 {% endbubble %}
 
 {% bubble Kanata smileconfident %}
-and~ with enough effort, we can be eaten as *kamaboko!*[^8] mr. [shark]!
+and~ with enough effort, we can be eaten as *kamaboko!*[^9] mr. [shark]!
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-With the five of us together! We are “fish Ryuseitai”![^9]
+With the five of us together! We are “fish Ryuseitai”![^10]
 {% endbubble %}
 
 {% bubble Kanata v2 %}
 Kya-kya! ☆ Kya-kya! ☆
 {% endbubble %}
 
-<div toc>
-{% btn /stella_maris,, star, Index %}
-{% btn /stella_maris/hidden_island,, arrow-right, Next Chapter: hidden island %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/stella_maris/hidden_island" title="Next Chapter: hidden island"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
 
 [^1]: Kanata says <em>one, two, san</em>, switching from English to Japanese for the numbering.
-[^2]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
-[^3]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori’s turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
-[^4]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^5]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
-[^6]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
-[^7]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it’s said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it’s rotten, it’s still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
-[^8]: Kamaboko is a kind of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
-[^9]: The “fish” in fish Ryuseitai is in hiragana, and “Ryuseitai” remains in kanji. Kanata talks only in hiragana, so to match that, I kept the word in hiragana as well. Together, the name lit. means “fish shooting star/meteor squad”.
+[^2]: Originally, Kanata and Chiaki say <em>yuzurenai</em>, lit. "refuse to yield". It's a word that sometimes appears in Ryuseitai's songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="https://ensemble-stars.fandom.com/wiki/Goshoku_no_Shooting%E2%98%86Star!!!!!_(Lyrics)" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength each of us possess).
+[^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
+[^4]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori’s turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
+[^5]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^6]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
+[^7]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
+[^8]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it’s said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it’s rotten, it’s still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
+[^9]: Kamaboko is a kind of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
+[^10]: The “fish” in fish Ryuseitai is in hiragana, and “Ryuseitai” remains in kanji. Kanata talks only in hiragana, so to match that, I kept the word in hiragana as well. Together, the name lit. means “fish shooting star/meteor squad”.
