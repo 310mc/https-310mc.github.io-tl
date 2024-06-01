@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Christmas Live"
-date: 2021-10-29 9:10:00
+date: 2024-6-10 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]
@@ -9,7 +9,7 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] TBA"
+description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…"
 permalink: christmas_live/
 hidden: true
 ---
@@ -24,7 +24,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    The academy is faced with Christmas' biggest event, StarFes. While preparations are moving along, Hinata and Yuta's hearts seem to be wavering in different directions…
+                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -116,7 +116,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    The academy is faced with Christmas' biggest event, StarFes. While preparations are moving along, Hinata and Yuta's hearts seem to be wavering in different directions…
+                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -266,195 +266,6 @@ hidden: true
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="story-cards">
-                    <div class="tab-header">
-                        <div class="tab-header__name">Associated Cards</div>
-                    </div>
-                    <div class="tab-content">
-                        <div class="cards">
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/chiakiframe_300px.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/chiakibcgframe_300px.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/midoriframe_300px.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/midoribcgframe_300px.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/kanataframe_300px.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/kanatabcgframe_300px.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/tetoraframe_300px.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/christmaslive/shinobuframe_300px.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/christmaslive/shinobubcgframe_300px.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
                         </div>

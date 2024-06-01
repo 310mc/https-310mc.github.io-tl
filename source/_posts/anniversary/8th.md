@@ -50,10 +50,10 @@ description: "[ES!!] Translation of 8th Anniversary Ryuseitai content."
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Proofreading
+                   Anniversary
                 </div>
                 <div class="value">
-                  None
+                  8th
                 </div>
             </div>
         </div>

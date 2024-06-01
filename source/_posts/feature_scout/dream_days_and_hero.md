@@ -14,12 +14,53 @@ description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Suba
 permalink: dream_days_and_hero/
 ---
 
-![](/img/es/idolstory/daysandhero/c1.jpg)|![](/img/es/idolstory/daysandhero/c2.jpg)
-:-:|:-:
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    <p class="carddata" id="Card">[Heart Adorned with Color] Chiaki Morisawa</p>
+                </div>
+                <div class="value">
+                <table>
+                <tr>
+                    <th class="noBorder"><img src="/img/es/idolstory/daysandhero/cg.jpg"></th>
+                </tr>
+                <tr>
+                    <th class="noBorder" style="text-align:center;font-size:16px;">Outfit name: “Color your heart”. A personalized outfit made for Chiaki. A design visualizing a passionately hot, straight-forward heart.</th>
+                </tr>
+                </table>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Center Skill
+                </div>
+                <div class="value">
+                    Emitted Brilliance<!--放つ光彩-->
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Live Skill
+                </div>
+                <div class="value">
+                    The Essence of Justice<!--正義の真髄-->
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Support Skill
+                </div>
+                <div class="value">                 
+                    Favorite Shoes<!--お気に入りの一足-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-It's finally Chiaki's turn to appear in the Feature Live. In order to show a charm that fans don't know of, he ponders once more over how he thinks and feels during live shows.
-
-This story is connected to the card [Heart Adorned with Color] Chiaki Morisawa.
+<p class="storydata">It's finally Chiaki's turn to appear in the Feature Live. In order to show a charm that fans don't know of, he ponders once more over how he thinks and feels during live shows.</p>
 
 <p class="releasedate"><b>Story Release Date:</b> November 10, 2023</p>
 
@@ -559,6 +600,8 @@ I’d love for my fans to know a little more about that precious place for me…
 
 I’m going to make sure to deliver the best performance to my fans, in a way that my current self is perfectly capable of~♪
 {% endbubble %}
+
+<p style="text-align:center;font-size:22px;"><b>Click <a href="#Card">here</a> for Midori’s FS2 card and outfit details!</b></p>
 
 ## Chiaki Feature Scout Stories
 

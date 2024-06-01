@@ -200,13 +200,13 @@ Midori-sama.
 {% endbubble %}
 
 {% bubble Midori surprised %}
-Huh? Um, what is i—… Wait, “Midori-sama”?
+Huh? Um, what is i—… Wait, “Midori-sama”?[^5]
 {% endbubble %}
 
 {% bubble Fuyume grin %}
 Yume saw you, right there in a magazine. Yume thought, “so beautiful”, “just like a prince”. Fufu.
 
-So, it’s “Midori-sama”. Because of <em>oujisama</em> — A prince.[^5] Fufufu.
+So, it’s “Midori-sama”. Because of <em>oujisama</em> — A prince.[^6] Fufufu.
 
 Of course, Yume only has one prince, so you aren’t qualified to be called that—
 
@@ -256,7 +256,7 @@ Come on, spit it out in this paper cup.
 {% bubble Fuyume saddroop %}
 Uuu. Yume is still a novice.
 
-Yume is still, too far from the ideal princess.[^6]
+Yume is still, too far from the ideal princess.[^7]
 
 —Sorry, Midori-sama.
 {% endbubble %}
@@ -419,5 +419,6 @@ Ehhh…?
 [^2]: Originally, Midori says “If I were to put it in older terms, a <em>denpa-kei</em>?” More on <a href="https://en.wikipedia.org/wiki/Denpa" target="_blank">denpa-kei</a> here. As Midori states in the Japanese text, it’s a pretty old-fashioned term.
 [^3]: Midori says cosplayer in hiragana instead of katakana (the correct way to spell cosplayer), implying he isn’t very familiar with the term.
 [^4]: “Yume” means dream, so it’s a wordplay of his nickname and the word “dream”.
-[^5]: “Ouji” means prince, and “-sama” is a polite honorific attached to the word. In fairytales, you typically see the prince referred to as <em>oujisama</em>.
-[^6]: Originally, Fuyume says <em>ohimesama</em> for “princess”, which matches with <em>oujisama</em> (prince). In fairytales, you typically see the princess referred to as <em>ohimesama</em>.
+[^5]: Midori has been called “Midori-sama” by another kid too, in <a href="/stella_maris" target="_blank">Stella Maris</a>, <em>birthplace of stars</em> Chapter 5.
+[^6]: “Ouji” means prince, and “-sama” is a polite honorific attached to the word. In fairytales, you typically see the prince referred to as <em>oujisama</em>.
+[^7]: Originally, Fuyume says <em>ohimesama</em> for “princess”, which matches with <em>oujisama</em> (prince). In fairytales, you typically see the princess referred to as <em>ohimesama</em>.

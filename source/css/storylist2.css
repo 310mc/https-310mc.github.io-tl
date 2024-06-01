@@ -1,12 +1,14 @@
 .stories {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
     gap: 0.5em;
-    margin-bottom: 20px;
+    margin-bottom: 0.9rem;
 }
+
 .stories * {
      box-sizing: border-box;
 }
+
 .story {
     position: relative;
     border-radius: 0.25em;
@@ -32,15 +34,19 @@
 .story:hover img {
     transform: scale(1.05);
 }
+
 .story:hover .storyName {
     transform: translate(0, 0);
 }
+
 .story:hover .storyName .read {
     transform: translate(0, 0);
 }
+
 .storyName {
     transform: translate(0, 0);
 }
+
 .thumbimage img {
     width: 100%;
     height: 100%;
@@ -48,6 +54,7 @@
     transition: 0.2s ease;
     margin: 0 !important;
 }
+
 .storyName {
     font-size: 0.9em;
     font-weight: 700;
@@ -79,6 +86,7 @@
        transition: 0.2s ease;
        transform: translate(0, 1em);
    }
+
    .storyName .read:before {
        content: "Read";
    }
@@ -94,8 +102,41 @@
    .storyName .read:not(.soon):hover {
        color: #31C790;
    }
+   
    @media only screen and (max-width: 600px) {
     .stories {
         grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
     }
 }
+
+/** For Songs **/
+.storybox {
+    height: 20rem;
+    overflow: auto;
+    margin-bottom: 0.9rem;
+    box-sizing: border-box;
+    border: 1px solid rgba(90, 193, 137, 0.5);
+    padding: 0.6rem;
+    border-radius: 5px;
+}
+
+.storytext {
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+}
+  
+.storybox .stories {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    margin-bottom: 0;
+}
+
+.storybox .storyName {
+    font-size: .8em;
+}
+
+.storybox .storyheader {
+    margin: 0.3rem 0;
+    padding: 0;
+}
+/** For Songs end **/

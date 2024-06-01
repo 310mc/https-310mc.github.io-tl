@@ -12,7 +12,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] TBA"
+description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -65,12 +65,6 @@ hidden: true
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /christmas_live/line_to_line,, arrow-left, Previous Chapter: Line to Line %}
-{% btn /christmas_live,, star, Index %}
-{% btn /christmas_live/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -79,11 +73,24 @@ hidden: true
 
 {% img /img/es/eventstory/christmaslive/p1_1.jpg %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /christmas_live/line_to_line,, arrow-left, Previous Chapter: Line to Line %}
-{% btn /christmas_live,, star, Index %}
-{% btn /christmas_live/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/christmas_live/line_to_line" title="Previous Chapter: Line to Line"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/christmas_live/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

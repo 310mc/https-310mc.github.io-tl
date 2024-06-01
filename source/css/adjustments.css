@@ -1,7 +1,41 @@
 @import url('https://rsms.me/inter/inter.css');
 
-/** For posts
-***/
+/** For site in general **/
+.main-inner {
+    width: calc(100% - 400px);
+    margin-right: 6rem;
+}
+
+.header {
+    margin-left: 4.1rem;
+}
+
+.post-body { 
+    padding: 0rem 0.5rem;
+}
+
+@media (max-width: 991px) {
+    .header {
+        margin-left: 0;
+    }
+
+    .main-inner {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .post-body {
+        padding: 0;
+    }
+}
+
+td, th {
+    border: none;
+    border-bottom: none;
+  }
+/** For site End **/
+
+/** For posts ***/
 .intro {
   font-size:16px;
 }
@@ -13,11 +47,9 @@
 .list2 li {
     margin: 2px;
 }
-/** End posts
-***/
+/** End posts ***/
 
-/** For Card Details
-***/
+/** For Card Details ***/
 .noBorder {
     border:none !important;
 }
@@ -34,12 +66,10 @@
 .single img {
     border-radius: 6px;
 }
-/** End Card Details
-***/
+/** Card Details End ***/
 
 
-/** For Idol Story Details
-***/
+/** For Idol Story Details ***/
 .storydata {
     text-align:center;
     font-size:110%;
@@ -50,11 +80,9 @@
     text-align:center;
     font-size:110%;
 }
-/** End Idol Story Details
-***/
+/** Idol Story Details End ***/
 
-/** red/blue colors
-***/
+/** Red/blue colors ***/
 .bluecolor {
     color: blue;
 }
@@ -62,19 +90,15 @@
 .redcolor {
     color: red;
 }
-/** End red/blue colors
-***/
+/** End red/blue colors ***/
 
-/** Chat format
-***/
+/** Chat format ***/
 body {
     --msr-icon-size: 65px;
   }
-/** End Chat format
-***/
+/** End Chat format ***/
 
-/** Navigation Bar 
-**/
+/** Navigation Bar **/
 .navigation {
     display: flex;
     position: sticky;
@@ -109,12 +133,10 @@ body {
     left: 0px;
     position: absolute;
 }
-/** Navigation Bar End 
-**/
+/** Navigation Bar End **/
 
 
-/** Navigation2 Bar 
-**/
+/** Navigation2 Bar **/
 .navigation2 {
     display: grid;
     position: sticky;

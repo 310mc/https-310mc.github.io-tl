@@ -1996,7 +1996,7 @@ As you can see, I’m livin’ an insanely ridiculous life out here…♪
 
 [^1]: Gakuran is the black-colored student uniforms that come with a high collar for boys. Information on <a href="https://en.wikipedia.org/wiki/School_uniforms_in_Japan#Gakuran" target="_blank">gakuran uniforms</a>.
 [^2]: Taisho (<em>Taishou</em>, 大将) is how Tetora calls Kuro. It means “chief”, “boss”, “general”.
-[^3]: Taichou is a title that refers to leader (sometimes translated as Captain). It literally means “Commander”.
+[^3]: Taichou is a title that refers to the leader (sometimes translated as Captain). It literally means “Commander”.
 [^4]: Buchou is a title to refer to “club captain”.
 [^5]: For a story about this for Daikichi, see <a href="/senpai_turned_into_a_dog" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a>
 [^6]: Referring to <a href="https://en.wikipedia.org/wiki/%C5%8Cendan" target="_blank">Ouendan</a>. This is an example of <a href="https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan" target="_blank">an ouendan-themed game</a> that has the characters dress similarly to this gacha's outfits (both unbloomed and bloomed).

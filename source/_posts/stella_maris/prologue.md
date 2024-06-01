@@ -327,7 +327,7 @@ Kya-kya! ☆ Kya-kya! ☆
 ## Translation Notes
 
 [^1]: Kanata says <em>one, two, san</em>, switching from English to Japanese for the numbering.
-[^2]: Originally, Kanata and Chiaki say <em>yuzurenai</em>, lit. "refuse to yield". It's a word that sometimes appears in Ryuseitai's songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="https://ensemble-stars.fandom.com/wiki/Goshoku_no_Shooting%E2%98%86Star!!!!!_(Lyrics)" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength each of us possess).
+[^2]: Originally, Kanata and Chiaki say <em>yuzurenai</em>, lit. "refuse to yield". It's a word that sometimes appears in Ryuseitai's songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="/goshoku_no_shooting_star" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength we each possess).
 [^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
 [^4]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori’s turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
 [^5]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.

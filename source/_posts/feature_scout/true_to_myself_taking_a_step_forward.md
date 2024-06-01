@@ -18,7 +18,7 @@ permalink: true_to_myself_taking_a_step_forward/
         <div class="info">
             <div class="info-item characters">
                 <div class="label">
-                    <p class="carddata" id="Card">[My Own Found Individuality] Midori Takamine</p>
+                    <p class="carddata" id="Card">[Found Individuality] Midori Takamine</p>
                 </div>
                 <div class="value">
                 <table>

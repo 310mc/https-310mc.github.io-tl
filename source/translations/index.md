@@ -1187,7 +1187,8 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Song Lyrics
 
 <h4>Ensemble Stars! Era</h4>
-<div class="story">
+<div class="stories">
+    <div class="story">
     <div class="thumbimage">
         <img
             src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
@@ -1198,8 +1199,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Goshoku no Shooting ☆ Star!!!!!</span>
         <span class="read"></span>
     </a>
-</div>
-<div class="stories">
+    </div>
     <div class="story">
         <div class="thumbimage">
             <img
