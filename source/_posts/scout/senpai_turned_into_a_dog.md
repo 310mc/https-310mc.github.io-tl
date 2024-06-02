@@ -712,9 +712,21 @@ Well, whatever… I did something really embarrassing, but… it would’ve been
 In the end, the number one important thing is that nothing bad happened… No, actually… *Peace* is what’s number one…♪[^2]
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
-{% btn /translations#Gacha-Stories,, star, Index %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#Chapter-1" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

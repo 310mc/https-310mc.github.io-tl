@@ -544,9 +544,10 @@ permalink: goshoku_no_shooting_star/
   </div>
 </article>
 
-<div toc>
-{% btn /ryuseitai_album,, star, Ryuseitai Album %}
-{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+<div class="navigation2">
+  <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+  <a target="_blank" href="/ryuseitai_album" title="Index"><i class="fa fa-star"></i></a>
+  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes 

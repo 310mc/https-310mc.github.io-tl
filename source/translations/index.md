@@ -431,7 +431,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
+    <div class="story">
         <div class="thumbimage">
             <img
                 src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe_300px.jpg"
@@ -439,10 +439,10 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/flowers_of_the_wasteland" class="storyName" target="_blank">
-            <span>Flowers of the Wasteland (Coming Soon!)</span>
+            <span>Flowers of the Wasteland</span>
             <span class="read"></span>
         </a>
-    </div>-->
+    </div>
     <div class="story">
         <div class="thumbimage">
             <img
@@ -1509,5 +1509,8 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
 </div>-->
-<br>
-<div style="margin-bottom:5px">{% btn #Translation-Usage,, arrow-up, Back to Top %}</div>
+
+<div class="navigation2">
+    <a target="_blank" href="/" title="Home"><i class="fa fa-home"></i></a>
+    <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+</div>

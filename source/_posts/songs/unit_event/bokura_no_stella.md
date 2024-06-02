@@ -581,9 +581,10 @@ permalink: bokura_no_stella/
   </div>
 </article>
 
-<div toc>
-{% btn /stella_maris,, star, Event Story: Stella Maris %}
-{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+<div class="navigation2">
+  <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+  <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes

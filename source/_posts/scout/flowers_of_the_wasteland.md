@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Flowers of the Wasteland"
-date: 2024-4-10 9:00:00
+date: 2024-6-2 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Nagisa]
@@ -16,9 +16,8 @@ tags:
 - Story Index
 - Scout Story
 - Kino Seitaro
-description: "[ES!!] TBA"
+description: "[ES!!] Nagisa visits the academy he used to attend, Yumenosaki Academy. There, he meets the Basketball Club members during their club activities…"
 permalink: flowers_of_the_wasteland/
-hidden: true
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -28,11 +27,11 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">Flowers of the Wasteland</div>
                 <div class="title-area__subtitle">荒野の花</div>
-                <div class="title-area__start"><a href="/flowers_of_the_wasteland#Chapter-1">Start Reading</a></div>
+                <div class="title-area__start"><a href="/flowers_of_the_wasteland#Remains-of-a-Dream-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Nagisa visits the academy he used to attend, Yumenosaki Academy. There, he meets the Basketball Club members during their club activities. They mingle for a while, but Nagisa's objective lies elsewhere…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -117,11 +116,11 @@ hidden: true
             <div class="title-area">
                 <div class="title-area__title">Flowers of the Wasteland</div>
                 <div class="title-area__subtitle">荒野の花</div>
-                <div class="title-area__start"><a href="#Chapter-1">Start Reading</a></div>
+                <div class="title-area__start"><a href="#Remains-of-a-Dream-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Nagisa visits the academy he used to attend, Yumenosaki Academy. There, he meets the Basketball Club members during their club activities. They mingle for a while, but Nagisa's objective lies elsewhere…<!--かつて通っていた夢ノ咲学院を訪れた凪砂。そこで会ったのは部活動中のバスケットボール部。交歓するが凪砂の目的は他にあり…-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -213,7 +212,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/flowersofthewasteland/nagisaorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Remains of a Dream 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -221,7 +220,7 @@ hidden: true
                                     <img src="/img/es/scoutstory/flowersofthewasteland/subaruorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 1
                                 </div>
                             </div>
                         </div>
@@ -233,17 +232,17 @@ hidden: true
                     <ul>
                         <li>
                             <span>Remains of a Dream</span>
-                            <a href="TBA" id="">1</a>
-                            <a href="TBA" id="">2</a>
-                            <a href="TBA" id="">3</a>
-                            <a href="TBA" id="">4</a>
-                            <a href="TBA" id="">5</a>
-                            <a href="TBA" id="">6</a>
+                            <a href="#Remains-of-a-Dream-1" id="">1</a>
+                            <a href="#Remains-of-a-Dream-2" id="">2</a>
+                            <a href="#Remains-of-a-Dream-3" id="">3</a>
+                            <a href="#Remains-of-a-Dream-4" id="">4</a>
+                            <a href="#Remains-of-a-Dream-5" id="">5</a>
+                            <a href="#Remains-of-a-Dream-6" id="">6</a>
                         </li>
                         <li>
                             <span>Epilogue</span>
-                            <a href="TBA" id="">1</a>
-                            <a href="TBA" id="">2</a>
+                            <a href="#Epilogue-1" id="">1</a>
+                            <a href="#Epilogue-2" id="">2</a>
                         </li>
                     </ul>
                 </div>
@@ -253,9 +252,13 @@ hidden: true
 </div>
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Epilogue-1">Ep 1</a> - <a href="#Epilogue-2">Ep 2</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Remains-of-a-Dream-1">Ch 1</a> - <a href="#Remains-of-a-Dream-2">Ch 2</a> - <a href="#Remains-of-a-Dream-3">Ch 3</a> - <a href="#Remains-of-a-Dream-4">Ch 4</a> - <a href="#Remains-of-a-Dream-5">Ch 5</a> - <a href="#Remains-of-a-Dream-6">Ch 6</a> - <a href="#Epilogue-1">Ep 1</a> - <a href="#Epilogue-2">Ep 2</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-## Chapter 1
+## Remains of a Dream 1
+
+{% note narration %}
+**Note:** This story is set in spring, which is before Aira joined the Basketball Club.
+{% endnote %}
 
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
@@ -441,13 +444,13 @@ Yup, yup, I agree! Since this is an important matter that’s related to our con
 If this turns out to be the worst case scenario, we’ve gotta seize our chance, okay~? Our strength is having that kinda nimbleness, after all ♪
 {% endbubble %}
 
-## Chapter 2
+## Remains of a Dream 2
 
 <div class="msr-location">
     <p><span><b>Location:</b> School Gate</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/2.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/3.jpg %}
 
 {% bubble Nagisa %}
 …We’ve arrived, Anzu-san.
@@ -489,7 +492,7 @@ If this turns out to be the worst case scenario, we’ve gotta seize our chance,
     <p><span><b>Location:</b> Gymnasium</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/2_2.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/4.jpg %}
 
 {% bubble Subaru %}
 Here, here! Pass it here!
@@ -498,13 +501,13 @@ Hey hey, gimme the ball! Sally~, I wanna play more ☆
 {% endbubble %}
 
 {% bubble Mao %}
-Alright, alright, I’m passing~ ☆
+Alright, alright, I’m passing~☆
 {% endbubble %}
 
 {% bubble Subaru %}
 Oooh, atta boy Sally~! There’s not a single pass you can’t do, Archmage of the Court!
 
-… Hold up, you didn’t pass to me?
+…Hold up, you didn’t pass to me?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -559,6 +562,8 @@ Yeah, it’s bow wowzers!
 It’s one *man* team, not a one *dog* team! …Yeah, why did I even try to reply to that.
 {% endbubble %}
 
+{% img /img/es/scoutstory/flowersofthewasteland/5.jpg %}
+
 {% bubble Midori %}
 Isara-senpai, sorry for saying this right after you said you had hopes in me, but… this practice game’s tired me out — Could I take a rest…?
 
@@ -607,8 +612,6 @@ Um, Isara-senpai. Your phone’s been ringing for a while now, y’know…?
 Oh? I was so busy talking, I didn’t even notice. Thanks~♪
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/2_3.jpg %}
-
 {% bubble Mao %}
 I wonder who it is… Is it about a job?
 
@@ -641,9 +644,9 @@ What kinda guy is he gonna be…? I really hope he’s not scary…
 …………
 {% endbubble %}
 
-## Chapter 3
+## Remains of a Dream 3
 
-{% img /img/es/scoutstory/flowersofthewasteland/3.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/6.jpg %}
 
 {% bubble Nagisa %}
 …………
@@ -911,9 +914,7 @@ Ahaha… Maybe Nagisa-san’s got a knack for basketball?
 Nah, can’t be. If that were true, it’d really knock me down~.
 {% endbubble %}
 
-## Chapter 4
-
-{% img /img/es/scoutstory/flowersofthewasteland/4.jpg %}
+## Remains of a Dream 4
 
 <div class="msr-narration">
     <p>An hour later…</p>
@@ -922,7 +923,7 @@ Nah, can’t be. If that were true, it’d really knock me down~.
 {% bubble Mao %}
 Alright, we’ll end shooting practice around here. Let’s take a short break.
 
-<th>(… Phew. It’s been so long since I actually acted as Captain, I almost forgot what to do. There’s way too many things I gotta do as one… but looks I’ll be making it through somehow.)</th>
+<th>(…Phew. It’s been so long since I actually acted as Captain, I almost forgot what to do. There’s way too many things I gotta do as one… but looks I’ll be making it through somehow.)</th>
 
 <th>(Now, let’s see. What’s goin’ on at the other side of the court?)</th>
 
@@ -1107,13 +1108,13 @@ Or maybe it’s something to do with idols… An old outfit of *fine*’s maybe?
 …?
 {% endbubble %}
 
-## Chapter 5
+## Remains of a Dream 5
 
 <div class="msr-location">
     <p><span><b>Location:</b> Records Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/5.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/7.jpg %}
 
 {% bubble Subaru %}
 Here’s the Record Room, Nagisa-san!
@@ -1253,9 +1254,7 @@ Since we don’t get to do this often, how about we have a little fun? The first
 …Even though, considering the scale of history, we may merely be tiny, brief, single-volumed stories.
 {% endbubble %}
 
-## Chapter 6
-
-{% img /img/es/scoutstory/flowersofthewasteland/6.jpg %}
+## Remains of a Dream 6
 
 <div class="msr-narration">
     <p>A few minutes later…</p>
@@ -1311,11 +1310,7 @@ Fufu. I think you mentioned before that Dad’s performances live on within you.
 Ahaha. If that’s true, then I’m happy…♪
 
 But I still can't really, *fully* believe this is happening.
-{% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/6_2.jpg %}
-
-{% bubble Subaru %}
 Like, how am I actually getting to talk about Dad like this when he just… *vanished*?
 
 Ah, uh– S-Sorry, I think I’ve got something in my eye!
@@ -1384,7 +1379,7 @@ Ahaha. It’s way too embarrassing to be called that, you knooow?
 
 Thanks, Nagisa-san.
 
-… Huh? What’s up, Anzu?
+…Huh? What’s up, Anzu?
 
 You found the documents about the old *fine* that we were looking for? Ahh, so it was in the very back of the boxes… What was it doing lying back there?
 {% endbubble %}
@@ -1433,7 +1428,7 @@ Ahaha, of course it was Blue-senpai who did!
     <p><span><b>Location:</b> In front of the fountain at Yumenosaki Academy</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/ep1.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/8.jpg %}
 
 {% bubble Mao %}
 Man, it’s been *way* too long since I got to have fun with the club~! Every part of my body hurts. ♪
@@ -1446,7 +1441,7 @@ I’m so depressed…
 {% endbubble %}
 
 {% bubble Mao %}
-… Takamine?
+…Takamine?
 {% endbubble %}
 
 {% bubble Midori %}
@@ -1494,6 +1489,8 @@ Also, Anzu and Nagisa-san said they wanted to go home with us too.
 
 Right, Nagisa-san?
 {% endbubble %}
+
+{% img /img/es/scoutstory/flowersofthewasteland/9.jpg %}
 
 {% bubble Nagisa %}
 …………
@@ -1669,7 +1666,7 @@ Well well? What was it? Tell me~?
 
 ## Epilogue 2
 
-{% img /img/es/scoutstory/flowersofthewasteland/ep2.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/10.jpg %}
 
 <div class="msr-narration">
     <p>Autumn, the past…</p>
@@ -1686,6 +1683,8 @@ Well well? What was it? Tell me~?
 
 …Hm? Someone’s heading this way?
 {% endbubble %}
+
+{% img /img/es/scoutstory/flowersofthewasteland/11.jpg %}
 
 {% bubble Eichi %}
 …………
@@ -1723,8 +1722,6 @@ Even so, I’d be so happy if a miracle occurred and we could walk together once
 And yet the person most aware of the fact that such a dream is nothing more than a futile wish is none other than me, myself.
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/ep2_2.jpg %}
-
 {% bubble Eichi %}
 …Goodbye. Hiyori-kun, Nagisa-kun.
 {% endbubble %}
@@ -1747,7 +1744,11 @@ And yet the person most aware of the fact that such a dream is nothing more than
 …At that time, I recall sitting in front of the fountain.
 
 …I’ll go. To see the me of the past.
+{% endbubble %}
 
+{% img /img/es/scoutstory/flowersofthewasteland/12.jpg %}
+
+{% bubble Nagisa past %}
 …I don’t know. I’ve gotten tired. Of even breathing.
 
 …A place where idols. Could be happy.
@@ -1765,7 +1766,7 @@ And yet the person most aware of the fact that such a dream is nothing more than
 …But even so. I tried to be good. I truly did.
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/ep2_3.jpg %}
+{% img /img/es/scoutstory/flowersofthewasteland/13.jpg %}
 
 {% bubble Nagisa %}
 …………
@@ -1793,17 +1794,30 @@ And yet the person most aware of the fact that such a dream is nothing more than
 …Beautiful, vibrant flowers that make everyone who gaze upon them smile.
 
 …Yes, such wonderful flowers are blooming.
-{% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/ep2_4.jpg %}
-
-{% bubble Nagisa %}
 …You worked hard, didn’t you? It’s alright, you don’t need to suffer anymore.
 {% endbubble %}
 
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
+
 ## Translation Notes 
 
-[^1]: TBA
-[^2]: TBA
-[^3]: TBA
-[^4]: TBA
+[^1]: Referring to Eden's unit story, <a href="https://hyenahunt.tumblr.com/post/662315764868677632/translation-discord-internal-conquest" target="_blank">Conquest</a>.
+[^2]: Referring to Trickstar's unit story, <a href="https://yoroshikilled.dreamwidth.org/13789.html" target="_blank">BIGBANG</a>.
+[^3]: Referring to Adam and Trickstar's event story, <a href="https://kotofucius.github.io/2017/kiseki2-revenge-match/" target="_blank">Autumn Live (Revenge Match)</a>.
+[^4]: Referring to the very first main story in ! Era, when Trickstar revolutionized Yumenosaki Academy. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/Story/Main_Storyline_(!)" target="_blank">here</a>.

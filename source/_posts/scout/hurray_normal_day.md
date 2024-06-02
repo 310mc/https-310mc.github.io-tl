@@ -490,7 +490,22 @@ Yeah, let's do it. I'll just take it easy today, read plenty of manga and eat as
 Today’s a day to reward myself! It’s fine if I do, yeah? I also need a day like this sometimes…♪
 {% endbubble %}
 
-<div toc>{% btn /translations#Gacha-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#Chapter-1" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 [^1]: Mao's using the shortened form of it, <em>amekomi.</em>

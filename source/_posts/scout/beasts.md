@@ -1579,9 +1579,22 @@ Instead of forcibly scrapin’ off my effeminate parts, I wanna turn it into a s
 Just like <em>her</em>. First things first: I gotta start learning to love that side of myself~♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /translations#Gacha-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 [^1]: Originally, Ritsu says “You won’t get anywhere playing Shogi with an animal.”

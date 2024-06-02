@@ -372,6 +372,7 @@ permalink: date_plan_a_to_z/
   </tr>
 </table>
 
-<div toc>
-{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+<div class="navigation2">
+  <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

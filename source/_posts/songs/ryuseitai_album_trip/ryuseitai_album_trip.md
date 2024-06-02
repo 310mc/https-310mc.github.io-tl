@@ -1305,9 +1305,9 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 <p style="text-align:center;font-size:22px;">That’s all! Hope you enjoyed the trip with Ryuseitai!</p>
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Index,, arrow-up, Back to Top %}</div>
-{% btn /translations#Other,, star, Index %}
+<div class="navigation2">
+  <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes 

@@ -699,7 +699,8 @@ permalink: aisle_be_with_you/
 
 <!--<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>-->
 
-<div toc>
-{% btn /ring,, star, Ring %}
-{% btn /translations/#Song-Lyrics,, circle, Song Index %}
+<div class="navigation2">
+  <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+  <a target="_blank" href="/ring" title="Index"><i class="fa fa-star"></i></a>
+  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
