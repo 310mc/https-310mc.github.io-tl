@@ -14,6 +14,16 @@ hidden: true
 <!-- more -->
 
 <section>
+<!-- 
+    - page 'decay' by skye southcodes.tumblr.com
+    - modify as you please but please do not touch the credit
+    - any errors? need help? have questions? let me know!
+    southcodes.tumblr.com/inbox
+    - normalize css by https://github.com/necolas
+    - fonts by google
+    - icon font by https://fontawesome.com/
+    - slide in by https://stackoverflow.com/a/62432099
+ -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="{favicon}">
 <meta name="description" content="{MetaDescription}"/>
@@ -89,6 +99,7 @@ e.preventDefault();
 
     .selected {
         font-weight: 700;
+        color: #E66B6B;
     }
 </style>
 </section>
@@ -102,8 +113,8 @@ e.preventDefault();
 Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
 <ul class="list">
 <li>This list is sorted in <b>release order</b>. For a chronological order of Ryuseitai's stories, <a href="https://citrinesea.github.io/main-sections/essays/timeline.html" target="_blank">please see this list</a> by citrinesea (it also lists Akatsuki's!), or <a href="https://ensemble-stars.fandom.com/wiki/Story/Chronological_Story_Order_(!)" target="_blank">the timeline on the Wiki</a>!</li>
-<li>For a <b>text-based Ryuseitai story list</b>, please see <a href="/storylist/ryuseitai" target="_blank">here</a>! Text version still includes story recommendations!</li>
-<li>This is not an exhaustive list and could still be further improved. I'll continue to update and add more stories! Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://x.com/310mc1" target="_blank">Twitter</a>.</li>
+<li>For a <b>text-based Ryuseitai story list</b>, please see <a href="/storylist/ryuseitai" target="_blank">here</a>! Text version still includes recommendations!</li>
+<li>Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>.</li>
 </ul></div>
 
 <div class="filters-list">
@@ -128,18 +139,18 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
 <section id="container">
 <main id="mainbox">
 <!-- box start -->
-<section class="fanfic-box midori1 recommended">
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
     <article class="upper-section">
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/Reverb%E2%98%85Stella_Maris_Crossing_the_Sea%27s_Horizon_Banner.png"  class="fanfic-image">
+        </figure>
         <article class="title-top">
             <!-- fanfic title -->
             <div class="title">
-                <a target="_blank" href="">Climax</a>
+                <a target="_blank" href="">Hero Show</a>
             </div>
         </article>
-        <figure class="fanfic-image">
-            <!-- fanfic image -->
-            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
-        </figure>
         <article class="title-author">
             <!-- fanfic author -->
             <div class="author">Event Story - 23 Chapters</div>
@@ -149,9 +160,9 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
         <!-- ship -->
         <div class="ship"><div class="characters">
                 <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
                     <span class="charhead" character="Kanata"></span>
                     <span class="charhead" character="Tetora"></span>
-                    <span class="charhead" character="Chiaki"></span>
                     <span class="charhead" character="Midori"></span>
                     <span class="charhead" character="Shinobu"></span>
                 </div>
@@ -159,7 +170,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.            
+        PLACEHOLDER TEXT, TO BE ADDED!!         
     </article>
     <article class="fanfic-links">
         <!-- fic links -->
@@ -174,7 +185,605 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
 <!-- box end -->
 
 <!-- box start -->
-<section class="fanfic-box chiaki1 recommended">
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Pirate Festival</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Morning Practice</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Tough Guy</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Crash Course</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Christmas Live</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Strawberry Colored Holiday</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Triumph of the Emperor</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Hello Kitty Collab</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Supernova</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Beach Match</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Scroll of the Elements</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Holiday Party</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">The Four Beasts of Fistfighting</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
     <article class="upper-section">
         <article class="title-top">
             <!-- fanfic title -->
@@ -195,14 +804,9 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
         <!-- ship -->
         <div class="ship"><div class="characters">
                 <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
                     <span class="charhead" character="Kanata"></span>
                     <span class="charhead" character="Tetora"></span>
-                    <span class="charhead" character="Chiaki"></span>
-                    <span class="charhead" character="Midori"></span>
-                    <span class="charhead" character="Shinobu"></span>
-                    <span class="charhead" character="Kanata"></span>
-                    <span class="charhead" character="Tetora"></span>
-                    <span class="charhead" character="Chiaki"></span>
                     <span class="charhead" character="Midori"></span>
                     <span class="charhead" character="Shinobu"></span>
                 </div>
@@ -210,7 +814,1203 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.            
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Sparkly First Years</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Purple Wisterias of May</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Shooting Star Festival</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Crossroad</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Hero Game</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Legendary Hero!</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Aquarium</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Sweet Halloween</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Zodiac – Senpai Turned Into A Dog!?</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Beasts</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Boarding Live</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">2018 April Fools Story</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Gang</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">School Festival 4</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Orihime and Hikoboshi</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Buddy</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Comic World</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Rainbow</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">First Dreams – Hurray for a Normal Day!</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Saga</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Hot & Elegant Chocolat Fes</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Meteor Impact</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Toryumon</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Study Heroes</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box tetora1 midori1 shinobu1 chiaki1 kanata1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Management Stories</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
+    </article>
+    <article class="fanfic-links">
+        <!-- fic links -->
+        start reading <a href="/climax" target="_blank">here <i class="fa fa-arrow-right"></i></a>
+    </article>
+    <article class="fanfic-info">
+        <!-- details -->
+        <li><b>season:</b> ! era, spring</li>
+        <li><b>release date:</b> 2017/4/14</li>
+    </article>
+</section>
+<!-- box end -->
+
+<!-- box start -->
+<section class="fanfic-box chiaki1 kanata1 tetora1 recommended">
+    <article class="upper-section">
+        <article class="title-top">
+            <!-- fanfic title -->
+            <div class="title">
+                <a target="_blank" href="">Climax</a>
+            </div>
+        </article>
+        <figure class="fanfic-image">
+            <!-- fanfic image -->
+            <img src="https://static.wikia.nocookie.net/ensemble-stars/images/6/66/Baton_Pass%21_Repayment_Festival_of_Tears_and_Bonds_Banner.png"  class="fanfic-image">
+        </figure>
+        <article class="title-author">
+            <!-- fanfic author -->
+            <div class="author">Event Story - 23 Chapters</div>
+        </article>
+    </article>    
+    <article class="ship-and-fandom">
+        <!-- ship -->
+        <div class="ship"><div class="characters">
+                <div class="value">
+                    <span class="charhead" character="Chiaki"></span>
+                    <span class="charhead" character="Kanata"></span>
+                    <span class="charhead" character="Tetora"></span>
+                    <span class="charhead" character="Midori"></span>
+                    <span class="charhead" character="Shinobu"></span>
+                </div>
+            </div></div>
+    </article>
+    <article class="fanfic-summary">
+        <!-- fanfic summary -->
+        PLACEHOLDER TEXT, TO BE ADDED!!         
     </article>
     <article class="fanfic-links">
         <!-- fic links -->
@@ -253,7 +2053,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.            
+        PLACEHOLDER TEXT, TO BE ADDED!!         
     </article>
     <article class="fanfic-links">
         <!-- fic links -->
@@ -299,7 +2099,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors. If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors. If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors. If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.              
+        PLACEHOLDER TEXT, TO BE ADDED!!           
     </article>
     <article class="fanfic-links">
         <!-- fic links -->
@@ -345,7 +2145,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.            
+        PLACEHOLDER TEXT, TO BE ADDED!!         
     </article>
     <article class="fanfic-links">
         <!-- fic links -->
@@ -391,7 +2191,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
     </article>
     <article class="fanfic-summary">
         <!-- fanfic summary -->
-        If you'd like to know how Chiaki scouted Midori to the unit and club, this story covers it a little, as it's set in the early spring timeline of their high school. The story isn't focused on Ryuseitai, but it's nonetheless a cute story that shows Chiaki's enthusiasm to guide his juniors.            
+        PLACEHOLDER TEXT, TO BE ADDED!!         
     </article>
     <article class="fanfic-links">
         <!-- fic links -->

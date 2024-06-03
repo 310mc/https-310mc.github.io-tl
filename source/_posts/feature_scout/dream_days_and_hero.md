@@ -601,7 +601,7 @@ I’d love for my fans to know a little more about that precious place for me…
 I’m going to make sure to deliver the best performance to my fans, in a way that my current self is perfectly capable of~♪
 {% endbubble %}
 
-<p style="text-align:center;font-size:22px;"><b>Click <a href="#Card">here</a> for Midori’s FS2 card and outfit details!</b></p>
+<p style="text-align:center;font-size:22px;"><b>Click <a href="#Card">here</a> for Chiaki’s FS2 card and outfit details!</b></p>
 
 ## Chiaki Feature Scout Stories
 
@@ -817,7 +817,9 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 </div>
 </div>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div toc>
+<div style="margin-bottom:5px">{% btn #Card,, arrow-up, Back to Top %}</div>{% btn /translations#Idol-Stories,, star, Index %}
+</div>
 
 ## Translation Notes
 
