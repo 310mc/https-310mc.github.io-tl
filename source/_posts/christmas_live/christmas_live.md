@@ -9,7 +9,7 @@ tags:
 - Event Story
 - Akira
 - Story Index
-description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…"
+description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
 permalink: christmas_live/
 hidden: true
 ---
@@ -24,7 +24,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…
+                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -116,7 +116,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…
+                    While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…
                 </div>
                 <div class="info">
                     <div class="info-item season">

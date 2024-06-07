@@ -12,7 +12,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…"
+description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -67,6 +67,10 @@ hidden: true
 
 ## Chapter 1
 
+<div class="msr-season winter">
+    <p><span><b>Season:</b> Winter</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Classroom 1-B</span></p>
 </div>
@@ -76,7 +80,7 @@ hidden: true
 {% bubble Shinobu grin %}
 <th>(Hmhmhm~♪)</th>
 
-<th>(Just a few more nights~ and it’s Chri~st~mas~♪)</th>[^1]
+<th>(Just a few more nights\~ and it’s Chri\~st\~mas\~♪)</th>[^1]
 {% endbubble %}
 
 {% bubble Shinobu niyaclosed %}
@@ -116,7 +120,7 @@ hidden: true
 {% endbubble %}
 
 {% bubble Shinobu sad3 %}
-<th>(Maybe I'll call Isara-dono on my phone… Wait, no, he is probably busy with Student Council work right now.)</th>
+<th>(Maybe I’ll call Isara-dono on my phone… Wait, no, he is probably busy with Student Council work right now.)</th>
 
 <th>(Perhaps I’ll try visiting him under the pretext of helping him out with work… But would that just bother him instead? Urmm~?)</th>
 {% endbubble %}
@@ -177,7 +181,7 @@ Are you perhaps going to hold a Christmas party? Are you trying to find the righ
 
 {% img /img/es/eventstory/christmaslive/yutaorigcg.jpg %}
 
-{% bubble Yuta %}
+{% bubble Yuta srsthinking %}
 Hm~. Well, Aniki goes all out and makes a super huge cake every year for no good reason.
 
 ‘Cause you know, he’s got a sweet tooth. What one likes, one will do best, and so that guy’s great at making stuff like sweets.
@@ -495,7 +499,7 @@ Bear with it, okay~, you’ll hurt your muscles if you move! Alright, there we g
 Ahh, whew… You really saved me there, ossu. I’ll be absolutely sure to repay the favor—You have Nagumo Tetora’s word on it!
 {% endbubble %}
 
-{% bubble Hinata norsmile %}
+{% bubble Hinata %}
 Right. So, is Kiryu-senpai here? I need him for something real quick, so~…
 {% endbubble %}
 
@@ -540,16 +544,16 @@ Heh, Taisho always keeps his promises! Umm, where were they again…? Ahh, it wa
 {% endbubble %}
 
 {% bubble Hinata smile %}
-Thankies! Huh, what’re all these doing in here? I only requested an outfit for myself, but there's one, two, three… A whole buncha them in here?
+Thankies! Huh, what’re all these doing in here? I only requested an outfit for myself, but there’s one, two, three… A whole buncha them in here?
 {% endbubble %}
 
-{% bubble Tetora nod %}
+{% bubble Tetora %}
 Ahaha, apparently he got really into it and made way too much.
 
 ‘Cuz Taisho’s brakes just stop working the moment he gets absorbed into sewing.
 {% endbubble %}
 
-{% bubble Hinata norsmile %}
+{% bubble Hinata %}
 Gotcha~. But us 2wink are still pretty small, I’m not sure if we’ll be able to afford all of these outfits.
 {% endbubble %}
 
@@ -579,7 +583,7 @@ That’s why, I thought maybe it’s best I don’t wear my 2wink outfit.
 I could have just gone with the academy’s shared uniform, but~… It’s Christmas season, so I went with Santa-san! ♪
 {% endbubble %}
 
-{% bubble Tetora norsmile %}
+{% bubble Tetora %}
 Huh, that’s unusual for 2wink; you’re pretty much always doin’ activities as the two of you together.
 {% endbubble %}
 
@@ -589,17 +593,17 @@ No, not really, these days…
 Yuuta-kun’s in his rebellious period, so I guess you can say we’re respecting each other’s autonomy~. It’s lonely, but I gotta get used to working separately…
 {% endbubble %}
 
-{% bubble Hinata norsmile %}
+{% bubble Hinata %}
 Whoops, but yeah—I gotta do my part-time job of bringing in customers, so I gotta go, ‘kay?
 {% endbubble %}
 
-{% bubble Tetora norsmile %}
+{% bubble Tetora %}
 Ah—I’ll help ya out with that job, if you don’t mind. I don’t need any pay; everything’s an experience, and I’ve got the free time now…
 
 And for some reason, I feel like I can’t leave you on your own, Hinata-kun.
 {% endbubble %}
 
-{% bubble Hinata norsmile %}
+{% bubble Hinata %}
 Huh, is that how you see it~? Well, I suppose that’ll help, hm? We <em>are</em> short-staffed, and I’ll make sure you get paid, so come on with! ♪
 {% endbubble %}
 
@@ -663,7 +667,7 @@ please be at [ease], chiaki. i will not die. i will simply [return] to the ocean
 He’s speaking in delirium!? His body temperature has dropped down so much that he’s slowly losing consciousness! I can tell!
 {% endbubble %}
 
-{% bubble Chiaki nod %}
+{% bubble Chiaki grin2 %}
 Aaalright, let me give you some warmth! I’ll rub this dry towel on you! Don’t give up on living, my dear friend…![^11]
 {% endbubble %}
 
@@ -711,7 +715,7 @@ Um, Morisawa-senpai. Shinkai-senpai’s words are making even less sense than us
 
 {% img /img/es/eventstory/christmaslive/chiakiorigcg.jpg %}
 
-{% bubble Chiaki xmascg %}
+{% bubble Chiaki v2 %}
 Don’t point fingers at your senior, Takamine.
 
 Mm~ During the cold season, Kanata can’t really bathe in water much. The stress must have been building up in him… He’s clearly out of sorts right now.
@@ -861,24 +865,14 @@ That’s what Ryuseitai’s all about, right? You’ve said it so many times tha
 
 ## Translation Notes
 
-[^1]: Shinobu is singing a different variation of the song *mou ikutsu neru to oshougatsu* (Just a few more nights, and it's New Years). Read more <a href="https://maki.typepad.com/justhungry/2009/12/how-many-nights-until-new-years-oshougatsu-.html" target="_blank">here</a>, with the lyrics.
-
+[^1]: Shinobu is singing a different variation of the song <em>mou ikutsu neru to oshougatsu</em> (Just a few more nights, and it’s New Years). Read more <a href="https://maki.typepad.com/justhungry/2009/12/how-many-nights-until-new-years-oshougatsu-.html" target="_blank">here</a>, with the lyrics.
 [^2]: Hattori Hanzō was a famous ninja in the Sengoku era. Read more <a href="https://en.wikipedia.org/wiki/Hattori_Hanz%C5%8D" target="_blank">here</a>.
-
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a>, which happened in summer.
-
 [^4]: Another story that shows another winter day of Midori skipping out on carrying produce boxes is <a href="/senpai_turned_into_a_dog/" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a>
-
 [^5]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
-
 [^6]: I wasn’t able to convey it clearly in English, but Hinata is mimicking Bruce Lee’s signature cry here, so it’s likely he’s doing a Bruce Lee jumping kick as well. (TL note from Mika Enstars)
-
 [^7]: One of the <em>zen</em> meditation postures require you to sit in lotus position, as shown in Tetora’s CG.
-
 [^8]: Taisho (<em>Taishou</em>, 大将) is how Tetora calls Kuro. It means “chief”, “boss”, “general”.
-
 [^9]: Taichou is a title that refers to the leader (sometimes translated as Captain). It literally means “Commander”.
-
 [^10]: Although slightly vague and indirect, there is an interesting correlation between what Kanata says in this story, and what he says in his 2nd year about his mother and the ocean (shown in <a href="https://twilightmalachite.tumblr.com/post/719181423390621697/altered-heaven-and-hell-13" target="_blank">this chapter from Altered</a>).
-
 [^11]: Chiaki has said “Don’t give up on living” to Kanata back in their 2nd year too, in Meteor Impact (<a href="/meteor_impact/second_half_p2/" target="_blank">Unqualified Hero - Chapter 20</a>). In general, this chapter has a handful of lines that are referenced in Meteor Impact!

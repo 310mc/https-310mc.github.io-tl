@@ -33,6 +33,10 @@ td, th {
     border: none;
     border-bottom: none;
   }
+
+.back-to-top.back-to-top-on {
+    bottom: 50px;
+}
 /** For site End **/
 
 /** For posts ***/
@@ -94,7 +98,7 @@ td, th {
 
 /** Chat format ***/
 body {
-    --msr-icon-size: 65px;
+    --msr-icon-size: 69px;
   }
 /** End Chat format ***/
 
@@ -124,9 +128,13 @@ body {
     padding: 10px;
 }
 
-.navigation .top-arrow {
+/*.navigation .top-arrow {
     right: 0px;
     position: absolute;
+}*/
+
+.navigation2 .top-arrow {
+    display: none;
 }
 
 .navigation .home-button {
@@ -162,9 +170,13 @@ body {
     padding: 10px;
 }
 
-.navigation2 .top-arrow {
+/*.navigation2 .top-arrow {
     right: 0px;
     position: absolute;
+}*/
+
+.navigation2 .top-arrow {
+    display: none;
 }
 
 .navigation2 .home-button {

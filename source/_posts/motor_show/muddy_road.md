@@ -186,7 +186,7 @@ Ahaha, haven’t heard *that* in a while.
 {% bubble Tetora %}
 Ossu, it’s ‘cuz we haven’t been working as part of Ryuseitai-M for a while now…
 
-I’ve just been wearing the red outfit this whole time, when I don’t even suit the size yet.
+I’ve just been wearing the Red outfit this whole time, when I don’t even suit the size yet.
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -232,7 +232,7 @@ And now that they’ve left, they’re not part of Ryuseitai-N anymore. You'll w
 {% bubble Tetora sad %}
 Uumyu… But it's not that I’m depressed or anything.
 
-It’s just that I have to think these things through — I’m the leader after all, the very same guy who inherited the red color from Morisawa-senpai.
+It’s just that I have to think these things through — I’m the leader after all, the very same guy who inherited the Red position from Morisawa-senpai.
 
 Also, if I don’t figure out why everyone’s leaving and think up a solution for it, it’s just gonna keep happening over and over again.
 

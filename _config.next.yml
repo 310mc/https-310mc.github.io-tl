@@ -97,7 +97,7 @@ menu:
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
-  badges: false
+  badges: true
 
 
 # ---------------------------------------------------------------
@@ -168,7 +168,7 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://example.com
+  # Enstars Translation Masterlist: https://enstarsmasterlist.github.io/scoutevent
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -209,7 +209,7 @@ footer:
   copyright: 310mc
 
   # Powered by Hexo & NexT
-  powered: false
+  powered: true
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
@@ -250,6 +250,11 @@ symbols_count_time:
   separated_meta: true
   item_text_post: true
   item_text_total: true
+  symbols: true
+  time: true
+  total_time: true
+  total_symbols: true
+  awl: 4
   wpm: 200
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
@@ -299,7 +304,7 @@ post_edit:
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
-post_navigation: false
+post_navigation: left
 
 
 # ---------------------------------------------------------------
@@ -375,7 +380,7 @@ codeblock:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: true
+  sidebar: false
   # Scroll percent label in b2t button.
   scrollpercent: true
 
@@ -392,9 +397,9 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
-  color: "#222"
+  color: "#00533F"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
   # If manual, only save it by clicking the bookmark-icon.
   save: auto
@@ -745,7 +750,7 @@ local_search:
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
   # Show top n results per article, show all results by setting to -1
-  top_n_per_article: 2
+  top_n_per_article: 1
   # Unescape html strings to the readable one.
   unescape: false
   # Preload the search data when the page loads.

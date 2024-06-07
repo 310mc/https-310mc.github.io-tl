@@ -12,7 +12,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta's hearts don't seem to be aligning with each other…"
+description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -66,6 +66,10 @@ hidden: true
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 1
+
+<div class="msr-season winter">
+    <p><span><b>Season:</b> Winter</span></p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Downtown</span></p>
@@ -185,7 +189,7 @@ Keep your spirits up, Shinobu-kun. I’m sorry, I feel like I’m making you wal
 If that’s what you prefer, Yuuta-kun, then it’s alright with me. I’m simply here to accompany you, so~?
 {% endbubble %}
 
-{% bubble Yuta grin %}
+{% bubble Yuta %}
 Oh, right. Do you wanna get dinner somewhere, then? I’ll treat ya to somethin’ for helping me look for work, okay~, how ‘bout it?
 {% endbubble %}
 
@@ -220,7 +224,7 @@ Hwaah~, the two of you have such a wondrous connection as twins… I’m a littl
 {% endbubble %}
 
 {% bubble Yuta sighfrown %}
-Hm… It’s just that we've always been together growing up, so we just kinda understand one another.
+Hm… It’s just that we’ve always been together growing up, so we just kinda understand one another.
 
 It’s not like some supernatural telepathy or anything, you know? Sooner or later, we won’t know what the other’s thinking anymore.
 
@@ -301,7 +305,7 @@ Uhyah—!? Yuuta-kun, you’ll get hurt if you run here! Some parts of the road 
 <th>(I cannot allow myself to fall behind and lose! Nin-nin…♪)</th>
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora %}
 Woah—? Someone’s rushing over toward us, Hinata-kun.
 {% endbubble %}
 
@@ -309,7 +313,7 @@ Woah—? Someone’s rushing over toward us, Hinata-kun.
 Huh, what’s going on? Are we gettin’ robbed? Beat ‘em up, Tetsu-kun! ♪
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora %}
 Nah, I can’t beat that guy up… It’s your li’l brother, y’know?
 {% endbubble %}
 
@@ -341,7 +345,7 @@ Then quit doing things that can be misunderstood every single <em>time</em>! If 
 No, umm? You’re wrong, this doesn’t count as cheating! I’m serious!
 {% endbubble %}
 
-{% bubble Tetora v2 %}
+{% bubble Tetora %}
 Calm down a li’l, ermm, the Yuuta-kun twi—Yuuta-kun.
 
 You can’t just yell at someone without hearing ‘em out first. You gotta listen to what your big bro has to say too, ‘kay~?
@@ -365,8 +369,10 @@ O-Owh… It is because I can’t handle crowds… T-Tetora-kun, wh-what’re you
 
 {% bubble Tetora curious %}
 How come you’re stammering like that?
+{% endbubble %}
 
-I bet it’s ‘cuz it’s too cold to talk properly, isn’t it~? Ahaha~ Lemme go getcha some hot coffee. ♪
+{% bubble Tetora grin2 %}
+I bet it’s ‘cuz it’s too cold to talk properly, isn’t it\~? Ahaha\~ Lemme go getcha some hot coffee. ♪
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
@@ -683,13 +689,8 @@ o holy night… the stars are brightly shining… twinkle, twinkle~♪[^6]
 ## Translation Notes
 
 [^1]: StarFes is a Yumenosaki Academy DreamFes that happens on Christmas, while SS is a huge-scaled event that happens at the end of the year, with units representing their respective school/agency participating. Trickstar acts as the Yumenosaki Academy’s representative in SS.
-
-[^2]: Takoyaki (lit. fried octopus) are ball-shaped and cooked in molded pans, and typically are filled with minced octopus and other ingredients. They're typically served in plates of 4-8, so they're very splittable.
-
+[^2]: Takoyaki (lit. fried octopus) are ball-shaped and cooked in molded pans, and typically are filled with minced octopus and other ingredients. They’re typically served in plates of 4-8, so they’re very splittable.
 [^3]: In Japanese, the name is <em>ibu-ibu-raibu</em>, each word ending with <em>bu</em>, hence Shinobu’s comment on it.
-
 [^4]: This is referring to Valkyrie. You can learn more about this in Star Festival, Holy Knights 2 and 3. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-
 [^5]: Chiaki says something similar to Tetora a year later, in <a href="/motor_show/epilogue/" target="_blank">Motor Show, Epilogue 3</a>.
-
 [^6]: He’s singing the lyrics from <em>kiyoshi kono yoru</em>, also known as Silent Night.

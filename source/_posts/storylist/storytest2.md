@@ -117,7 +117,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
             Climax
         </div>
         <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translaton by 310mc</div></a>
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
         </article>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -168,7 +168,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
 <section class="fanfic-box recommended">
     <article class="upper-section">
     <figure class="fanfic-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/Reverb%E2%98%85Stella_Maris_Crossing_the_Sea%27s_Horizon_Banner.png"  class="fanfic-image">
+        <img src="/img/banner/about.jpg"  class="fanfic-image">
     </figure>
     </article>
     <article class="second-section">
@@ -176,7 +176,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
             Exhibition In A Blink of An Eye
         </div>
         <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading<br>(Translaton by 310mc)</div></a>
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
         </article>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -239,6 +239,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
         </div>
     </div>
     <article class="story-summary">
+        <div class="label">About this story</div>
         PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!!
     </article>
 </section>
@@ -254,7 +255,66 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
             Exhibition In A Blink of An Eye
         </div>
         <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">(Translaton by 310mc)</div></a>
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
+        </article>
+    </article>
+    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        Winter
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                    Release Date
+                    </div>
+                    <div class="value">                 
+                        2023/2/12
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">About this story</div>
+        PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!!
+    </article>
+</section>
+
+<section class="fanfic-box recommended">
+    <article class="upper-section">
+    <figure class="fanfic-image">
+        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/Reverb%E2%98%85Stella_Maris_Crossing_the_Sea%27s_Horizon_Banner.png"  class="fanfic-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Exhibition In A Blink of An Eye
+        </div>
+        <article class="read-button">
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
         </article>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -297,6 +357,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
         </div>
     </div>
     <article class="story-summary">
+        <div class="label">About this story</div>
         PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!!
     </article>
 </section>
@@ -312,7 +373,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
             Exhibition In A Blink of An Eye
         </div>
         <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading<br>(Translaton by 310mc)</div></a>
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
         </article>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -355,6 +416,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
         </div>
     </div>
     <article class="story-summary">
+        <div class="label">About this story</div>
         PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!!
     </article>
 </section>
@@ -370,65 +432,7 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
             Exhibition In A Blink of An Eye
         </div>
         <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading<br>(Translaton by 310mc)</div></a>
-        </article>
-    </article>
-    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
-        <div class="info-area">
-            <div class="info">
-                <div class="info-item characters">
-                    <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
-                    </div>
-                </div>
-                <div class="info-item one">
-                    <div class="label">
-                        Chapters
-                    </div>
-                    <div class="value">
-                        8
-                    </div>
-                </div>
-                <div class="info-item two">
-                    <div class="label">
-                        Season
-                    </div>
-                    <div class="value">
-                        Winter
-                    </div>
-                </div>
-                <div class="info-item three">
-                    <div class="label">
-                    Release Date
-                    </div>
-                    <div class="value">                 
-                        2023/2/12
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <article class="story-summary">
-        PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!! PLACEHOLDER TEXT, TO BE ADDED!!
-    </article>
-</section>
-
-<section class="fanfic-box recommended">
-    <article class="upper-section">
-    <figure class="fanfic-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/5b/Reverb%E2%98%85Stella_Maris_Crossing_the_Sea%27s_Horizon_Banner.png"  class="fanfic-image">
-    </figure>
-    </article>
-    <article class="second-section">
-        <div class="title">
-            Exhibition In A Blink of An Eye
-        </div>
-        <article class="read-button">
-            <a target="_blank" href=""><div>Start Reading<br>(Translaton by 310mc)</div></a>
+            <a target="_blank" href=""><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
         </article>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -479,7 +483,6 @@ Welcome to the Ryuseitai story list! In here you'll find a list of Ryuseitai sto
 
 <div class="navigation2">
 <a href="/" title="Home" target="_blank"><i class="fa fa-home"></i></a>
-<a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 <div title="Code Credits! Thank you!" style="position:fixed;bottom:3rem;right:2rem;font-size:.85rem"><a target="_blank" href="https://southcodes.tumblr.com/">SC</a></div>
