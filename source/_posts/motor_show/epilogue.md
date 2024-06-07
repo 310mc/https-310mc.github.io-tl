@@ -450,7 +450,7 @@ Mhm, how wonderful! I’m so proud of you, Nagumo! You've truly become the kind 
 {% bubble Tetora %}
 Holy—! Man, it sure doesn’t suit you to wear a color that isn’t red, Morisawa-senpai…
 
-But I guess it’d be too weird to have two reds on stage, so we’ve just gotta make do with this.
+But I guess it’d be too weird to have two Reds on stage, so we’ve just gotta make do with this.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -458,11 +458,11 @@ Yep. Red may be the color of the leader, but that doesn’t mean the other color
 
 The most important thing is to harmonize several colors together — though I know I don’t need to tell you that.
 
-Besides, there are times when red is a heavy burden on me, too.
+Besides, there are times when the red color is a heavy burden on me, too.
 
 That’s just one of the reasons why I’m happy to get a chance to don a different color, even if it’s only for a brief moment — and I get to do so right now because this performance is led by Ryuseitai-N.
 
-Thank you, Nagumo, for growing up to be such a reliable man that I can entrust red to.
+Thank you for growing up to be such a reliable man that I can entrust red to, Nagumo.
 {% endbubble %}
 
 {% bubble Tetora %}

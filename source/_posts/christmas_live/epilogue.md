@@ -47,7 +47,7 @@ hidden: true
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about">310mc</a>
+                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
                 </div>
             </div>
             <div class="info-item three">
@@ -70,10 +70,14 @@ hidden: true
 ## Chapter 1
 
 <div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
+    <p><span><b>Location:</b> Park’s Live Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/ep1.jpg %}
+{% img /img/es/eventstory/christmaslive/tetorabcg.jpg %}
+
+## Chapter 2
+
+{% img /img/es/eventstory/christmaslive/epilogue.jpg %}
 
 <div class="navigation2">
     <div class="toolbar-wrapper">
@@ -89,7 +93,6 @@ hidden: true
                 </a>
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

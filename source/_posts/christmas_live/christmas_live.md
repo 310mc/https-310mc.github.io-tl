@@ -71,7 +71,7 @@ hidden: true
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                          <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -163,7 +163,7 @@ hidden: true
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                          <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -276,19 +276,19 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="TBA" id="none">Prologue</a>
+                            <a href="prologue" id="none">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Dot to Dot</a>
+                            <a href="dot_to_dot" id="none">Dot to Dot</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Line to Line</a>
+                            <a href="line_to_line" id="none">Line to Line</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Star Chart</a>
+                            <a href="star_chart" id="none">Star Chart</a>
                         </li>
                         <li>
-                            <a href="TBA" id="none">Epilogue</a>
+                            <a href="epilogue" id="none">Epilogue</a>
                         </li>
                     </ul>
                 </div>
