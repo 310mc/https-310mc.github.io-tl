@@ -11,11 +11,10 @@ tags:
 - Story Index
 description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
 permalink: christmas_live/
-hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/christmaslive/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('/img/es/eventstory/christmaslive/midoribcgframe.jpg')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Christmas Live</div>
@@ -276,19 +275,25 @@ hidden: true
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="prologue" id="none">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="dot_to_dot" id="none">Dot to Dot</a>
+                            <a href="dot_to_dot" id="">Dot to Dot</a>
                         </li>
                         <li>
-                            <a href="line_to_line" id="none">Line to Line</a>
+                            <a href="line_to_line" id="">Line to Line</a>
                         </li>
                         <li>
-                            <a href="star_chart" id="none">Star Chart</a>
+                            <a href="star_chart" id="">Star Chart</a>
                         </li>
                         <li>
-                            <a href="epilogue" id="none">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
+                        </li>
+                        <li>
+                            <strong>Mika Enstars Translation Directory ↓</strong>
+                        </li>
+                        <li>
+                            <a href="" id="">Click here!</a>
                         </li>
                     </ul>
                 </div>
@@ -334,3 +339,107 @@ hidden: true
         </div>
     </div>
 </div>
+
+## Mini Talks
+
+<div class="stories">
+<!--
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/tetoraframe_300px.jpg"
+                alt="Before Christmas Eve"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Before Christmas Eve</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+                alt="Difficult Trial"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: Difficult Trial</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/midoriframe_300px.jpg"
+                alt="On My Mind…"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: On My Mind…</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/midoribcgframe_300px.jpg"
+                alt="Melancholic Live"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Melancholic Live</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/chiakiframe_300px.jpg"
+                alt="Winter Needs Warmth"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Winter Needs Warmth</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/chiakibcgframe_300px.jpg"
+                alt="Junior of Concern"
+            />
+        </div>
+        <a href="/christmas_live/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Junior of Concern</span>
+            <span class="read"></span>
+        </a>
+    </div>
+-->
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/yutaframe_300px.jpg"
+                alt="Christmas Business"
+            />
+        </div>
+        <a href="" class="storyName" target="_blank">
+            <span>1: Christmas Business</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/yutabcgframe_300px.jpg"
+                alt="Brotherly Quarrel"
+            />
+        </div>
+        <a href="" class="storyName" target="_blank">
+            <span>2: Brotherly Quarrel</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+

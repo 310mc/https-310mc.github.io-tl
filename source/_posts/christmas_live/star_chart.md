@@ -1,6 +1,6 @@
 ---
 title: "Christmas Live – Star Chart"
-date: 2024-1-15 9:01:00
+date: 2015-12-15 9:03:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -13,7 +13,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -97,7 +96,7 @@ You’re always hiding yourself behind our backs, but you should put more effort
 
 {% img /img/es/eventstory/christmaslive/starchart1-2.jpg %}
 
-{% bubble Shinobu surprised %}
+{% bubble Shinobu surprised0 %}
 Wha—Eeep! No—You lose if you stand out as a ninja, like, erm…!?
 
 It’s the same with Santa-san! If he’s caught by an occupant in their home while delivering presents, he’ll be mistaken for a robber, so…!
@@ -328,6 +327,11 @@ Mhm! The passionate bloodstream of my younger self is flowing back into me! Let�
 {% endbubble %}
 
 ## Chapter 3
+
+<div class="msr-cw">
+    <span><b>Content Warning</b></span>
+    <p>The following chapter contains references to suicide.</p>
+</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Downtown</span></p>
@@ -650,6 +654,7 @@ But that’s why I’ll do the best I can to become the most beautiful “me” 
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
             <a href="/christmas_live/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
@@ -657,7 +662,7 @@ But that’s why I’ll do the best I can to become the most beautiful “me” 
 ## Translation Notes
 
 [^1]: This is referring to Shu.
-[^2]: He says soulmate, and in Japanese, this can be used to refer to someone who walks down the same path of fate/goals as you, or to someone you have deep connections with from a previous life. As an interesting note, Ryuseitai sings lyrics similar to this concept in one of their songs, <a href="/bokura_no_stella/" target="_blank">Bokura no Stella</a> (set 1 year and a half after this story).
+[^2]: Shinobu says “soulmate” (<em>sourumeito</em>) here when specifying the kind of companion (<em>nakama</em>) Midori is. In Japanese, soulmate is literally soul (<em>tamashii</em>) + companion/comrade (<em>nakama</em>), used to refer to someone who walks down the same path of fate/goals as you, or to someone you have deep connections with from a previous life. As an interesting note, Ryuseitai sings lyrics similar to this concept in one of their songs, <a href="/bokura_no_stella/" target="_blank">Bokura no Stella</a> (set 1 year and a half after this story).
 [^3]: He’s referencing a classic Kaoru line, seen in <a href="https://ensemble-stars.fandom.com/wiki/Melody_in_the_Dark_(Lyrics)" target="_blank">Melody in the Dark</a>.
 [^4]: “Taiikukai-kei” is a word used to describe those who are part of a sports club. <em>Taiikukai-kei</em> is also used to refer to a trope of that demographic; they are typically associated with the following characteristics: 1) “when there is a will, there is a way” belief, 2) highly values a hierarchical system (ex. respecting/obeying superiors), 3) highly values teamwork and proper etiquette when greeting others. There are also more characteristics that are very fitting for Tetora’s character. Read more <a href="https://ja.wikipedia.org/wiki/%E4%BD%93%E8%82%B2%E4%BC%9A%E7%B3%BB">here</a> (JP wiki).
 [^5]: The chapter names of Yuuta’s Scout Story, <a href="https://twilightmalachite.tumblr.com/mirage">MIRAGE</a>, reference this line nearly seven years later; “The Most Beautiful Mirror in the World”.

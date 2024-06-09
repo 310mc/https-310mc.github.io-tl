@@ -54,12 +54,12 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
-            alt="Christmas Live"
+            src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
+            alt="Sports Survivors"
         />
     </div>
     <a href="" class="storyName" target="_blank">
-        <span>Christmas Live (In progress!)</span>
+        <span>Sports Survivors (In Progress!)</span>
         <span class="read soon"></span>
     </a>
 </div>
@@ -102,18 +102,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
-            alt="Sports Survivors"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Sports Survivors (In Progress!)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/eventstory/graduation/subarucgframe_300px.jpg"
             alt="Graduation"
         />
@@ -129,6 +117,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+            alt="Christmas Live"
+        />
+    </div>
+    <a href="/christmas_live" class="storyName" target="_blank">
+        <span>Christmas Live</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
 <div class="thumbimage">
     <img

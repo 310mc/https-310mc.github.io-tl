@@ -1,13 +1,12 @@
 ---
 title: "Christmas Live – Prologue"
-date: 2024-1-15 9:00:00
+date: 2015-12-15 9:00:00
 categories:
 - [Enstars, Yuzuru]
 tags:
 - Event Story
 - Akira
 description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -55,7 +54,7 @@ hidden: true
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Corridors</span></p>
+    <p><span><b>Location:</b> Yumenosaki Academy Corridors</span></p>
 </div>
 
 {% img /img/es/eventstory/christmaslive/prologue.jpg %}
@@ -204,6 +203,7 @@ It is a delight simply to wander around with all the beautiful lights put up eve
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
             <a href="/christmas_live/dot_to_dot" title="Next Chapter: Dot to Dot"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Christmas Live – Dot to Dot"
-date: 2024-1-15 9:01:00
+date: 2015-12-15 9:01:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -13,7 +13,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -116,7 +115,7 @@ hidden: true
 
 <th>(I’m aware that ninjas live by concealing themselves without uttering a word, though…)</th>
 
-<th>(……I’m really starting to feel sad. It <em>is</em> getting chilly out lately~ They say that “cold” and “lonely” go hand-in-hand during these times.)</th>
+<th>(……I’m really starting to feel sad now. It <em>is</em> getting chilly out lately~ They say that “cold” and “lonely” go hand-in-hand during these times.)</th>
 {% endbubble %}
 
 {% bubble Shinobu sad3 %}
@@ -659,7 +658,7 @@ Kanataaaaa!! Don’t diiieeeeeeeeeee!!!
 Don’t leave me behind! Didn’t we make a vow on that day, on that hill under the setting sun!? We vowed to inherit everyone’s dreams—Ryuseitai’s spirit of justice together…!
 {% endbubble %}
 
-{% bubble Kanata nod %}
+{% bubble Kanata v2 %}
 please be at [ease], chiaki. i will not die. i will simply [return] to the ocean… ufufufufu~♪[^10]
 {% endbubble %}
 
@@ -859,6 +858,7 @@ That’s what Ryuseitai’s all about, right? You’ve said it so many times tha
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
             <a href="/christmas_live/line_to_line" title="Next Chapter: Line to Line"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
@@ -869,7 +869,7 @@ That’s what Ryuseitai’s all about, right? You’ve said it so many times tha
 [^2]: Hattori Hanzō was a famous ninja in the Sengoku era. Read more <a href="https://en.wikipedia.org/wiki/Hattori_Hanz%C5%8D" target="_blank">here</a>.
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Pirate_Festival" target="_blank">Pirate Festival</a>, which happened in summer.
 [^4]: Another story that shows another winter day of Midori skipping out on carrying produce boxes is <a href="/senpai_turned_into_a_dog/" target="_blank">Zodiac – Senpai Turned Into A Dog!?</a>
-[^5]: Yuruchara, <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are mascot characters, their defining features are that they have very peculiar designs, ranging from bizarre-cute to adorkable, as well as being used all across Japan for PR purposes, in companies, prefectures, etc… For more information please see <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">this</a>.
+[^5]: Yuruchara; <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are a type of mascot characters, with their defining feature being that they have very peculiar designs, ranging from bizarre-cute to adorkable. They are well-known for being used all across Japan for PR purposes for companies, prefectures, etc… For more information read more <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">here</a>.
 [^6]: I wasn’t able to convey it clearly in English, but Hinata is mimicking Bruce Lee’s signature cry here, so it’s likely he’s doing a Bruce Lee jumping kick as well. (TL note from Mika Enstars)
 [^7]: One of the <em>zen</em> meditation postures require you to sit in lotus position, as shown in Tetora’s CG.
 [^8]: Taisho (<em>Taishou</em>, 大将) is how Tetora calls Kuro. It means “chief”, “boss”, “general”.

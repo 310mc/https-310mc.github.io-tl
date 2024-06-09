@@ -88,6 +88,8 @@ permalink: supervillain/
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/removewidth.css">
+
 <style>
     .preview-wrapper {
         display: none;

@@ -3,35 +3,7 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
-<style>
-.main-inner {
-    width: calc(100% - 242px);
-    margin-right: initial;
-}
-
-.header {
-    margin-left: initial;
-}
-
-.post-body { 
-    padding: initial;
-}
-
-@media (max-width: 991px) {
-    .header {
-        margin-left: 0;
-    }
-
-    .main-inner {
-        width: 100%;
-        margin-right: 0;
-    }
-
-    .post-body {
-        padding: 0;
-    }
-}
-</style>
+<link rel="stylesheet" href="/css/removewidth.css">
 
 ## Translation Usage
 
@@ -123,6 +95,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 ## Event Stories
 <h4>Ensemble Stars! Era</h4>
 <div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+                alt="Christmas Live"
+            />
+        </div>
+        <a href="/christmas_live" class="storyName" target="_blank">
+            <span>Christmas Live</span>
+            <span class="read"></span>
+        </a>
+    </div>
     <div class="story">
         <div class="thumbimage">
             <img

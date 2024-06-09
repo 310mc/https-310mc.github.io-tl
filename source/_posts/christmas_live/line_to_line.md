@@ -1,6 +1,6 @@
 ---
 title: "Christmas Live – Line to Line"
-date: 2024-1-15 9:01:00
+date: 2015-12-15 9:02:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -13,7 +13,6 @@ tags:
 - Event Story
 - Akira
 description: "[ES!] While all the units in the academy make preparations for the coming massive Christmas event, “StarFes”, Hinata and Yuuta’s hearts don’t seem to be aligning with each other…"
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -478,7 +477,7 @@ In that case, I leave this all to you, Anzu. We’ve got our own side of things 
 {% endbubble %}
 
 {% bubble Shinobu v2 %}
-Taichou-dono~ What exactly is this “Eve’s Eve Live”?[^3] The name has an oddly nice ring to it~…?
+Taichou-dono~ What exactly is this “Eve’s Eve Live”? The name has an oddly nice ring to it~…?[^3]
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -505,7 +504,7 @@ The goal is to attract an audience and promote StarFes.
 Hmm~ So it’s like an opening act for StarFes? By the way, are we Ryuseitai not participating in StarFes itself?
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Ah, no, all units are meant to perform there. So of course, that means we’ll also participate.
 
 But the main performers will be a different unit, and for the most part, we plan to put on our usual performance there.
@@ -527,7 +526,7 @@ Ahh, then I’d like to skip out on this… It’s cold anyway, I wanna go home 
 C’mon, don’t say that! You’ll join us too, Midori-kun. The five of us together are Ryuseitai! We’ve even got just the right outfits for this, too~♪
 {% endbubble %}
 
-{% bubble Chiaki %}
+{% bubble Chiaki v2 %}
 Ooh, what’re those costumes? Eve’s Eve Live was a sudden job, so I didn’t really have the time to prepare everything.
 
 I was actually planning to perform with our usual Ryuseitai uniforms, but this might change things…?
@@ -682,6 +681,7 @@ o holy night… the stars are brightly shining… twinkle, twinkle~♪[^6]
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
             <a href="/christmas_live/star_chart" title="Next Chapter: Star Chart"><i class="fa fa-arrow-right"></i></a>
+            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
