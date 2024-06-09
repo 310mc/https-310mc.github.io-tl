@@ -436,7 +436,7 @@ Thank you for all of that, Anzu…☆
 
 Alright, let’s hear why you’ve called me over! I’m ready for anything, like hanging out together thanks to the free time we’ve got~♪
 
-Hmhmm… A new motorbike promotional vieo is going to be released?
+Hmhmm… A new motorbike promotional video is going to be released?
 
 You want me to accept a solo job, instead of doing it as part of Ryuseitai's activities…
 
@@ -698,7 +698,7 @@ As for me, I’ve loved motorbikes since I was a little kid. I used to beg my pa
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ah! That’d be my Super Sentai action figures, then! I’ve loved Sentai stuff since I was young, and used to asked my parents to buy me one.
+Ah! That’d be my Super Sentai action figures, then! I’ve loved Sentai stuff since I was young, and used to ask my parents to buy me one.
 
 I’d massage their shoulders, help them out with things, and do lots more. I’d get one point for each good deed, and once it reached ten points, they would buy me an action figure.
 

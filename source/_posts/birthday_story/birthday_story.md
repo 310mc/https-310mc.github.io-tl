@@ -82,6 +82,18 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/birthdaystory/banner/shinobu2024.jpg"
+            alt="2024 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/shinobu/2024" class="storyName" target="_blank">
+        <span>2024 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Tetora Nagumo

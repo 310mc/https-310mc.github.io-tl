@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Flowers of the Wasteland"
-date: 2024-6-2 9:00:00
+date: 2020-8-30 9:00:00
 categories:
 - [Enstars, ES!!]
 - [Enstars, Nagisa]
@@ -257,7 +257,7 @@ permalink: flowers_of_the_wasteland/
 ## Remains of a Dream 1
 
 {% note narration %}
-**Note:** This story is set in spring, which is before Aira joined the Basketball Club.
+**Note:** This story is set in spring, before Aira joined the Basketball Club.
 {% endnote %}
 
 <div class="msr-season spring">

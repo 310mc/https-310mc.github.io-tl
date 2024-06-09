@@ -3,6 +3,36 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
+<style>
+.main-inner {
+    width: calc(100% - 242px);
+    margin-right: initial;
+}
+
+.header {
+    margin-left: initial;
+}
+
+.post-body { 
+    padding: initial;
+}
+
+@media (max-width: 991px) {
+    .header {
+        margin-left: 0;
+    }
+
+    .main-inner {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .post-body {
+        padding: 0;
+    }
+}
+</style>
+
 ## Translation Usage
 
 <div class="intro">
@@ -1512,4 +1542,5 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="navigation2">
     <a target="_blank" href="/" title="Home"><i class="fa fa-home"></i></a>
+    <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
