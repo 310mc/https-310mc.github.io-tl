@@ -124,11 +124,11 @@ And then that sun comes around and tells you something like, “you can shine br
 It’s hard not to feel angry, or rather, pathetic. You understand, don’t you, Tetora-kun?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/epilogue.jpg %}
-
 {% bubble Tetora %}
 Ooh, Yuuta-kun! The outfit suits you perfectly~♪
 {% endbubble %}
+
+{% img /img/es/eventstory/christmaslive/epilogue.jpg %}
 
 {% bubble Yuta yare %}
 That’s ‘cause it was tailored to fit Aniki exactly. So it fits me perfectly as well. At least for now, as frustrating as that is.
@@ -268,7 +268,7 @@ Umm… Perhaps I am growing fatigued, or does that Christmas tree look like a pe
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-That’s because it <em>is</em> a person! It’s our promising star of Ryuseitai, Takamine Midori! He’s got a great physique <em>and</em> he’s outfitted in green, so he’s the perfect fit for a Christmas tree, don’t you think?
+That’s because it <em>is</em> a person! It’s our promising star of Ryuseitai, Takamine Midori! He’s got a great physique <em>and</em> he’s outfitted in green, so he’s the perfect fit for a Christmas tree, don’t you think? ♪
 {% endbubble %}
 
 {% bubble Yuzuru nod2 %}

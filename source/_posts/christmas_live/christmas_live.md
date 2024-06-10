@@ -89,6 +89,8 @@ permalink: christmas_live/
 
 <!-- more -->
 
+<link rel="stylesheet" href="/css/removewidth.css">
+
 <style>
     .preview-wrapper {
         display: none;
@@ -293,7 +295,7 @@ permalink: christmas_live/
                             <strong>Mika Enstars Translation Directory ↓</strong>
                         </li>
                         <li>
-                            <a href="" id="">Click here!</a>
+                            <a href="https://twilightmalachite.tumblr.com/christmaslive" id="" target="_blank">Click here!</a>
                         </li>
                     </ul>
                 </div>
@@ -340,10 +342,10 @@ permalink: christmas_live/
     </div>
 </div>
 
+<!--
 ## Mini Talks
 
 <div class="stories">
-<!--
     <div class="story">
         <div class="thumbimage">
             <img
@@ -416,7 +418,6 @@ permalink: christmas_live/
             <span class="read"></span>
         </a>
     </div>
--->
     <div class="story">
         <div class="thumbimage">
             <img
@@ -442,4 +443,4 @@ permalink: christmas_live/
         </a>
     </div>
 </div>
-
+-->

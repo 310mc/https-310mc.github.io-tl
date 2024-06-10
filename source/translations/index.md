@@ -74,7 +74,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/es2_mainstory/ch123_124" class="storyName" target="_blank">
-        <span>1st Main Story</span>
+        <span>1st Main Story (Incomplete)</span>
         <span class="read"></span>
     </a>
 </div>
@@ -86,7 +86,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/ss_finals" class="storyName" target="_blank">
-        <span>SS Finals (In Progress!)</span>
+        <span>SS Finals (Incomplete)</span>
         <span class="read"></span>
     </a>
 </div>

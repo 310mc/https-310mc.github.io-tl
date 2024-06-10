@@ -32,7 +32,7 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
+                    <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (Yuzuru) 
                 </div>
             </div>
             <div class="info-item three">
