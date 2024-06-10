@@ -31,6 +31,11 @@ body {
     background: var(--content-bg-color);
 }
 
+/* remove bookmark */
+.book-mark-link {
+    display: none;
+}
+
 /* scrollbar */
 ::-webkit-scrollbar-thumb:vertical {border-left:5px solid #ccc;}
 ::-webkit-scrollbar {width:4px}
@@ -65,13 +70,12 @@ hr {border:0;border-top:1px solid var(--borders);margin:0;}
     /**margin-left: 8rem;*/
 }
 
-.fanfic-box {
+.storylist-box {
     width: calc(38% - 10rem);
-    /*background: #fff;*/
     border-radius: 0.4rem;
-    /**border: 1px solid rgba(90, 193, 137, 0.5);**/
     margin: 1.5rem 2rem;
-    height: 26rem;
+    /*height: 26rem; for when there's desc*/
+    height: 20rem;
     overflow: auto;
     font-size: 14px;
 }
@@ -81,16 +85,17 @@ hr {border:0;border-top:1px solid var(--borders);margin:0;}
     justify-content: center;
 }/* this may be useless*/
 
-/*figure.fanfic-image {   
+/*figure.storylist-image {   
     height: 5.5rem;
 }*/
 
-figure.fanfic-image {
+figure.storylist-image {
+    border-radius: 5px;
     max-height: 6rem;
     margin-inline: 1rem;
 }
 
-img.fanfic-image {
+img.storylist-image {
     width:100%;
     height:100%;
     object-fit: contain;
@@ -108,7 +113,7 @@ img.fanfic-image {
     border: 2px solid rgba(90, 193, 137, 0.2);
 }
 
-.recommended .second-section .title::before {
+.ryuseitai1 .second-section .title::before {
     content: '\f005';
     font-family: 'Font Awesome 5 Free';
     margin-right: .3rem;
@@ -127,14 +132,12 @@ img.fanfic-image {
     text-wrap: wrap;
 }
 
-.second-section .read-button {
+/*.second-section .read-button {
     font-size: 1em;
     background: #149245;
-    /*margin-right: 1rem;*/
     padding: .5em 1.25em;
     border-radius: .25em;
     text-align: center;
-    /*border: 1px solid #149245;*/
     flex-grow: 1;
     transition: all 0.4s;
     font-weight: 700;
@@ -142,15 +145,26 @@ img.fanfic-image {
 
 .second-section .read-button:hover {
     background: rgb(90, 193, 137);
-    /*border: 1px solid #149245;*/
+    transition: all 0.4s;
+}*/
+
+.second-section a {
+    font-size: 1em;
+    background: #149245;
+    padding: .7em 1.25em .5rem;
+    border-radius: .25em;
+    text-align: center;
+    flex-grow: 1;
+    transition: all 0.4s;
+    font-weight: 700;
+    color: #fff;
+    border-bottom: none;
+}
+
+.second-section a:hover {
+    background: rgb(90, 193, 137);
     transition: all 0.4s;
 }
-
-.second-section .read-button a {
-    color: #fff;
-}
-
-/*remove buttn and put styling in a. padding: .7em 1.25em .5rem;*/
 
 .tl-credit {   
     font-size: .8em;
@@ -227,13 +241,13 @@ img.fanfic-image {
 /* for filters */
 .filters-list {
     width: 100%;
-    position: sticky;
-    top: 0px;
-    background: var(--content-bg-color);
-    z-index: 990;
+    /*background: var(--content-bg-color);*/
+    background: #24004D;
+    color: #fff;
+    border-radius: 5px;
     padding: 0.01rem 0rem;
     padding-right: 1rem;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .filters-list li {
@@ -243,6 +257,7 @@ img.fanfic-image {
 
 .filters-list li a {
     margin: 0 5px;
+    color: #fff;
     border-bottom: none;
 }
 
@@ -262,9 +277,14 @@ img.fanfic-image {
     text-decoration: none; 
 }
 
+.filters-list .star-color {
+    color: #fcee21;
+}
+
 .filters-title {
     font-weight: 700;
     text-transform: uppercase;
+    margin-right: 1rem;
 }
 
 .selected {
@@ -285,14 +305,16 @@ img.fanfic-image {
         box-sizing: border-box;
     }
 
-    .fanfic-box {
+    .storylist-box {
         width: calc(102% - 3rem);
         padding: 0;
-        margin: 1.5rem 0rem;
-        height: 26rem;
+        /*margin: 1.5rem 0rem;*/
+        margin: 0;
+        height: 23rem;
+        overflow: hidden;
     }
 
-    /*figure.fanfic-image {
+    /*figure.storylist-image {
         width: 10rem;
         height: 4rem;
     }*/
@@ -305,13 +327,13 @@ img.fanfic-image {
         margin-left:0;
     }
 
-    .fanfic-box {
+    .storylist-box {
         margin: 1.5rem 1rem;
         padding: 0;
         width: calc(50% - 4rem);
     }
 /**
-    figure.fanfic-image {
+    figure.storylist-image {
         width: 13rem;
         height: 5rem;
     }
@@ -320,7 +342,7 @@ img.fanfic-image {
 
 @media only screen and (min-width:2001px) and (max-width:99999999999px) {
 
-    .fanfic-box {
+    .storylist-box {
         width: calc(33% - 8rem);
         margin: 1.5rem 2rem;
         flex-grow: 1;
@@ -329,7 +351,7 @@ img.fanfic-image {
 }
 
 @media (prefers-color-scheme: dark) {
-    .recommended .second-section .title::before {
+    .ryuseitai1 .second-section .title::before {
     color: #fcee21;
   }
 }
