@@ -63,19 +63,21 @@ hr {border:0;border-top:1px solid var(--borders);margin:0;}
 }**/
 
 #mainbox {
-    width: calc(100vw - 0.1rem);
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    /**margin-left: 8rem;*/
+    /*width: calc(100vw - 0.1rem);*/
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto 25px;
 }
 
 .storylist-box {
-    width: calc(38% - 10rem);
+    width: calc(45% - 10rem);
     border-radius: 0.4rem;
-    margin: 1.5rem 2rem;
+    margin-top: 1.2rem;
+    /*margin: 1.5rem 2rem;*/
     /*height: 26rem; for when there's desc*/
-    height: 26rem;
+    height: 30rem;
+    max-height: 40rem;
+    max-width: 400px;
     overflow: auto;
     font-size: 14px;
 }
@@ -147,6 +149,17 @@ img.storylist-image {
     transition: all 0.4s;
 }*/
 
+.second-section .no-tl {
+    font-size: .9em;
+    background: #828f87;
+    padding: .7em 1.25em .5rem;
+    border-radius: .25em;
+    text-align: center;
+    flex-shrink: 4;
+    transition: all 0.4s;
+    color: #fff;
+}
+
 .second-section a {
     font-size: 1em;
     background: #149245;
@@ -177,11 +190,11 @@ img.storylist-image {
 
 .story-summary {
     border-radius: 5px;
-    height: 7rem;
+    /*height: 12rem;
+    max-height: 15rem;*/
     margin: 0 1rem;
     border: 2px solid rgba(90, 193, 137, 0.2);
     padding: 5px 10px;
-    overflow: auto;
 }
 
 .story-summary .label {
@@ -198,21 +211,24 @@ ul.key-points {
 .key-points li {
     padding-bottom: 0.1rem;
     font-size: 1.1em;
-}
-
-.key-points li::marker {
-    content: '';
+    list-style-type: none;
 }
 
 .key-points .spoiler-text {
     background: #3a3144;
     color: #3a3144;
     border-radius: 2px;
+    transition: all 0.3s;
 }
 
 .key-points .spoiler-text:hover {
     background: none;
     color: var(--text-color);
+    transition: all 0.3s;
+}
+
+.key-points .shinobu {
+    color: #ffc814;
 }
 
 /* For character appearances */
@@ -261,6 +277,23 @@ ul.key-points {
     --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinoburecc.png")
 }
 
+.ryuseitai-color {
+    color: #ff8910;
+}
+
+.three-wrapper .info-item.one {
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+}
+
+.three-wrapper .info-item.two {
+    grid-column: 2 / 5;
+}
+
+.three-wrapper .info-item.three {
+    display: none;
+}
+
 /* for filters */
 .filters-list {
     width: 100%;
@@ -284,19 +317,20 @@ ul.key-points {
 }
 
 .filters-list li a:link {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .filters-list li a:visited {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .filters-list li a:hover {
-    text-decoration: none; 
+    text-decoration: none;
+    color: #828f87;
 }
 
 .filters-list li a:active {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .filters-list .star-color {
@@ -320,14 +354,27 @@ ul.key-points {
     #mainbox {
         padding: 3rem 0;
         box-sizing: border-box;
+        width: 100%;
+        display: block;
     }
 
     .storylist-box {
-        width: calc(102% - 3rem);
+        width: 100%;
         padding: 0;
-        margin: 1.5rem 0rem;
+        margin: 0;
+        margin-bottom: 1rem;
         height: auto;
+        min-height: 25rem;
+        max-height: 1500px;
         overflow: hidden;
+    }
+
+    .filters-list li a:hover {
+        color: none;
+    }
+
+    .list {
+        padding-left: 1.1rem;
     }
 }
 
@@ -338,9 +385,13 @@ ul.key-points {
     }
 
     .storylist-box {
-        margin: 1.5rem 1rem;
+        /*margin: 1.5rem 1rem;*/
         padding: 0;
         width: calc(50% - 4rem);
+    }
+
+    .filters-list li a:hover {
+        color: none;
     }
 }
 
