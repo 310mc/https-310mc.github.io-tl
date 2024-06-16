@@ -74,9 +74,7 @@ hr {border:0;border-top:1px solid var(--borders);margin:0;}
     border-radius: 0.4rem;
     margin-top: 1.2rem;
     /*margin: 1.5rem 2rem;*/
-    /*height: 26rem; for when there's desc*/
-    height: 30rem;
-    max-height: 40rem;
+    height: 34rem;
     max-width: 400px;
     overflow: auto;
     font-size: 14px;
@@ -363,10 +361,13 @@ ul.key-points {
         padding: 0;
         margin: 0;
         margin-bottom: 1rem;
-        height: auto;
-        min-height: 25rem;
-        max-height: 1500px;
+        height: 37rem;
         overflow: hidden;
+    }
+
+    .story-summary {
+        height: 15rem;
+        overflow: auto;
     }
 
     .filters-list li a:hover {
@@ -385,9 +386,8 @@ ul.key-points {
     }
 
     .storylist-box {
-        /*margin: 1.5rem 1rem;*/
         padding: 0;
-        width: calc(50% - 4rem);
+        width: 100%;
     }
 
     .filters-list li a:hover {
@@ -399,7 +399,7 @@ ul.key-points {
 
     .storylist-box {
         width: calc(33% - 8rem);
-        margin: 1.5rem 2rem;
+        /*margin: 1.5rem 2rem;*/
         flex-grow: 1;
     }
     

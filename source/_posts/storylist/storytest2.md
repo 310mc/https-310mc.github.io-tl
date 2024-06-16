@@ -83,15 +83,15 @@ e.preventDefault();
 -->
 
 <section style="font-size:16px;">
-<strong>Welcome</strong> to the Ryuseitai story list! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
+<em>Welcome</em> to the Ryuseitai story reading list! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or to check what you haven't read so far). I'll start by explaining a few things.
 <ul class="list">
-<li>Stories are picked based on story and character relevance. To see a full list of every character appearance, please use the filters in the translation masterlist: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
-<ul class="list2"><li>Some stories have been omitted until there's an accessible translation.</li>
+<li>Stories are picked based on story and character relevance. For a full list of every character appearance, please use the filters in the translation masterlist instead: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
+<ul class="list2"><li>Some stories have been temporarily omitted until there's an accessible translation.</li>
 <li>For stories with a long list of character appearances, they have been shortened to only the ones that interact with a Ryuseitai member.</ul>
 </li>
-<li>This list is sorted in <b>release order</b>. For a chronological order of Ryuseitai's stories, <a href="https://citrinesea.github.io/main-sections/essays/timeline.html" target="_blank">please see this list</a> by citrinesea (it also lists Akatsuki's!), or <a href="https://ensemble-stars.fandom.com/wiki/Story/Chronological_Story_Order_(!)" target="_blank">the timeline on the Wiki</a>!</li>
-<li>For a <b>text-only Ryuseitai story list</b>, please see <a href="/storylist/ryuseitai" target="_blank">here</a>!</li>
-<li>Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>. Feedback is always welcome!</li>
+<li>This list is sorted in <strong>release order</strong>. For a chronological order of Ryuseitai's stories, <a href="https://citrinesea.github.io/main-sections/essays/timeline.html" target="_blank">please see this list</a> by citrinesea, or <a href="https://ensemble-stars.fandom.com/wiki/Story/Chronological_Story_Order_(!)" target="_blank">the timeline on the Wiki</a>!</li>
+<li>For a condensed, <strong>text-only</strong> Ryuseitai story list, please see <a href="/storylist/ryuseitai" target="_blank">here</a>!</li>
+<li><strong>Stories are still being added and updated with information!</strong> Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>. Feedback is always welcome!</li>
 </ul>
 
 <div id="Index" class="filters-list">
@@ -178,6 +178,7 @@ e.preventDefault();
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Ryuseitai's very first story of the game</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> How Ryuseitai is like before they get to debut in a large-scaled performance (usually doing volunteers or hero shows)</li>
         <li><i class="fa-solid fa-star chiaki"></i> Explores Chiaki's feelings and desires about Ryuseitai</li>
         <li><i class="fa-solid fa-star tetora"></i> Explores Tetora's feelings about Ryuseitai in the early days</li>
         <li><i class="fa-solid fa-star chiaki"></i> First story to show how easily sick Chiaki gets</li>
@@ -220,7 +221,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        15
                     </div>
                 </div>
                 <div class="info-item two">
@@ -257,7 +258,7 @@ e.preventDefault();
 <section class="storylist-box light-read midori1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/morningpractice.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/morningpractice.jpg"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -281,7 +282,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        2
                     </div>
                 </div>
                 <div class="info-item two">
@@ -402,6 +403,9 @@ e.preventDefault();
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Yuzuru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -409,7 +413,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        16
                     </div>
                 </div>
                 <div class="info-item two">
@@ -471,7 +475,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        10
                     </div>
                 </div>
                 <div class="info-item two">
@@ -596,7 +600,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        3
                     </div>
                 </div>
                 <div class="info-item two">
@@ -650,6 +654,9 @@ e.preventDefault();
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Eichi"></span>
+                        <span class="charhead" character="Yuzuru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -657,7 +664,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        18
                     </div>
                 </div>
                 <div class="info-item two">
@@ -695,6 +702,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
+<!--
 <section class="storylist-box light-read unstarred unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
@@ -717,6 +725,9 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Rei"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -724,7 +735,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        14
                     </div>
                 </div>
                 <div class="info-item two">
@@ -756,7 +767,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 shinobu1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/scrolloftheelements.png"  class="storylist-image">
@@ -778,6 +789,9 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Keito"></span>
+                        <span class="charhead" character="Kuro"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -785,7 +799,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        16
                     </div>
                 </div>
                 <div class="info-item two">
@@ -822,7 +836,8 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<!--
+<section class="storylist-box light-read unstarred unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/holidayparty.png"  class="storylist-image">
@@ -884,7 +899,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box tetora1 non-unit">
+<section class="storylist-box lore-focused tetora1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/fourbeastsoffistfighting.png"  class="storylist-image">
@@ -902,6 +917,10 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Koga"></span>
+                        <span class="charhead" character="Keito"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -909,7 +928,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        10
                     </div>
                 </div>
                 <div class="info-item two">
@@ -942,7 +961,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 chiaki1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/climax.png"  class="storylist-image">
@@ -964,6 +983,10 @@ e.preventDefault();
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Eichi"></span>
+                        <span class="charhead" character="Kaoru"></span>
+                        <span class="charhead" character="Subaru"></span>
+                        <span class="charhead" character="Mao"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -971,7 +994,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        23
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1004,7 +1027,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 non-unit">
+<section class="storylist-box lore-focused ryuseitai1 shinobu1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/sparklyfirstyears.png"  class="storylist-image">
@@ -1024,6 +1047,8 @@ e.preventDefault();
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Hinata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1031,7 +1056,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        9
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1064,7 +1089,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box lore-focused shinobu1 chiaki1 kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/purplewisteria.png"  class="storylist-image">
@@ -1084,6 +1109,11 @@ e.preventDefault();
                         <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="KanataRecc"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Mitsuru"></span>
+                        <span class="charhead" character="Adonis"></span>
+                        <span class="charhead" character="Arashi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1091,7 +1121,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        20
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1124,7 +1154,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read tetora1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/shootingstarfestival.png"  class="storylist-image">
@@ -1146,6 +1176,9 @@ e.preventDefault();
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Mika"></span>
+                        <span class="charhead" character="Shu"></span>
+                        <span class="charhead" character="Kuro"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1153,7 +1186,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        15
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1186,7 +1219,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box lore-focused chiaki1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/crossroad.png"  class="storylist-image">
@@ -1204,6 +1237,10 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Keito"></span>
+                        <span class="charhead" character="Rei"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Kaoru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1211,7 +1248,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        TBA FOR CROSSROAD
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1244,7 +1281,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 midori1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/herogame.png"  class="storylist-image">
@@ -1273,7 +1310,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1306,7 +1343,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only chiaki1">
+<section class="storylist-box lore-focused chiaki1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/legendaryhero.png"  class="storylist-image">
@@ -1326,6 +1363,7 @@ e.preventDefault();
                         <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Jin"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1333,7 +1371,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1366,7 +1404,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/aquarium.png"  class="storylist-image">
@@ -1384,6 +1422,13 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="Kaoru"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Rei"></span>
+                        <span class="charhead" character="Wataru"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Sora"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1391,7 +1436,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        22
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1424,7 +1469,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused ryuseitai1 midori1 chiaki1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/sweethalloween.png"  class="storylist-image">
@@ -1446,6 +1491,11 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Tomoya"></span>
+                        <span class="charhead" character="Hajime"></span>
+                        <span class="charhead" character="Mitsuru"></span>
+                        <span class="charhead" character="Nazuna"></span>
+                        <span class="charhead" character="Madara"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1453,7 +1503,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        24
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1486,7 +1536,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read midori1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/zodiac.png"  class="storylist-image">
@@ -1504,6 +1554,8 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="Subaru"></span>
+                        <span class="charhead" character="Keito"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1511,7 +1563,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        3
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1544,7 +1596,72 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred unit-only">
+    <article class="upper-section">
+    <figure class="storylist-image">
+        <img src="/img/es/storylist/banner/boardinglive.png"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Boarding Live
+        </div>
+        <a target="_blank" href="https://otori.neocities.org/tls/enstars/directory"><div>Start Reading</div><div class="tl-credit">Translation by Bella</div></a>
+    </article>
+    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Tsukasa"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        14
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        ! Era, Winter
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
+        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
+<section class="storylist-box lore-focused tetora1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/beasts.png"  class="storylist-image">
@@ -1563,6 +1680,9 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Arashi"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Ritsu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1570,7 +1690,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        8
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1603,72 +1723,10 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read unstarred unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/boardinglive.png"  class="storylist-image">
-    </figure>
-    </article>
-    <article class="second-section">
-        <div class="title">
-            Boarding Live
-        </div>
-        <a target="_blank" href="https://otori.neocities.org/tls/enstars/directory"><div>Start Reading</div><div class="tl-credit">Translation by Bella</div></a>
-    </article>
-    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
-        <div class="info-area">
-            <div class="info">
-                <div class="info-item characters">
-                    <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
-                    </div>
-                </div>
-                <div class="info-item one">
-                    <div class="label">
-                        Chapters
-                    </div>
-                    <div class="value">
-                        TBA
-                    </div>
-                </div>
-                <div class="info-item two">
-                    <div class="label">
-                        Season
-                    </div>
-                    <div class="value">
-                        ! Era, Winter
-                    </div>
-                </div>
-                <div class="info-item three">
-                    <div class="label">
-                        Release Date
-                    </div>
-                    <div class="value">                 
-                        TBA
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <article class="story-summary">
-        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
-        <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
-        </ul>
-    </article>
-</section>
-<!-- story box end -->
-
-<!-- story box start -->
-<section class="storylist-box unit-only">
-    <article class="upper-section">
-    <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/aprilfools2018.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/aprilfools2018.jpg"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -1687,6 +1745,11 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Mao"></span>
+                        <span class="charhead" character="Tori"></span>
+                        <span class="charhead" character="Eichi"></span>
+                        <span class="charhead" character="Wataru"></span>
+                        <span class="charhead" character="Keito"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1727,7 +1790,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box lore-focused chiaki1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/gang.png"  class="storylist-image">
@@ -1745,6 +1808,9 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Yuzuru"></span>
+                        <span class="charhead" character="Mika"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1785,7 +1851,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read unstarred unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/schoolfestival.png"  class="storylist-image">
@@ -1807,6 +1873,9 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Tomoya"></span>
+                        <span class="charhead" character="Wataru"></span>
+                        <span class="charhead" character="Sora"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1814,7 +1883,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        14
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1847,7 +1916,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 shinobu1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/orihimeandhikoboshi.png"  class="storylist-image">
@@ -1869,6 +1938,11 @@ e.preventDefault();
                         <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Mao"></span>
+                        <span class="charhead" character="Subaru"></span>
+                        <span class="charhead" character="Hokuto"></span>
+                        <span class="charhead" character="Makoto"></span>
+                        <span class="charhead" character="Wataru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1876,7 +1950,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        21
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1909,67 +1983,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
-    <article class="upper-section">
-    <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/buddy.png"  class="storylist-image">
-    </figure>
-    </article>
-    <article class="second-section">
-        <div class="title">
-            Buddy
-        </div>
-        <a target="_blank" href="/buddy"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
-    </article>
-    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
-        <div class="info-area">
-            <div class="info">
-                <div class="info-item characters">
-                    <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
-                    </div>
-                </div>
-                <div class="info-item one">
-                    <div class="label">
-                        Chapters
-                    </div>
-                    <div class="value">
-                        TBA
-                    </div>
-                </div>
-                <div class="info-item two">
-                    <div class="label">
-                        Season
-                    </div>
-                    <div class="value">
-                        ! Era, Summer
-                    </div>
-                </div>
-                <div class="info-item three">
-                    <div class="label">
-                        Release Date
-                    </div>
-                    <div class="value">                 
-                        TBA
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <article class="story-summary">
-        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
-        <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
-        </ul>
-    </article>
-</section>
-<!-- story box end -->
-
-<!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/comicworld.png"  class="storylist-image">
@@ -1997,7 +2011,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        9
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2030,7 +2044,68 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box light-read unstarred non-unit">
+    <article class="upper-section">
+    <figure class="storylist-image">
+        <img src="/img/es/storylist/banner/buddy.png"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Buddy
+        </div>
+        <a target="_blank" href="/buddy"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
+    </article>
+    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Madara"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        ! Era, Summer
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
+        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
+<section class="storylist-box lore-focused chiaki1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/rainbow.png"  class="storylist-image">
@@ -2048,6 +2123,11 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Jin"></span>
+                        <span class="charhead" character="Hokuto"></span>
+                        <span class="charhead" character="Tori"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Akiomi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2055,7 +2135,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        51 TBA
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2088,7 +2168,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read midori1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/firstdreams.png"  class="storylist-image">
@@ -2106,6 +2186,7 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="Mao"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2113,7 +2194,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        2
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2146,7 +2227,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box lore-focused chiaki1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/saga.png"  class="storylist-image">
@@ -2164,6 +2245,13 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Hokuto"></span>
+                        <span class="charhead" character="Tori"></span>
+                        <span class="charhead" character="Jin"></span>
+                        <span class="charhead" character="Seiya"></span>
+                        <span class="charhead" character="Hiyori"></span>
+                        <span class="charhead" character="Jun"></span>
+                        <span class="charhead" character="Eichi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2204,7 +2292,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read midori1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/chocofes.png"  class="storylist-image">
@@ -2226,6 +2314,9 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Shu"></span>
+                        <span class="charhead" character="Mika"></span>
+                        <span class="charhead" character="Subaru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2233,7 +2324,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        15
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2266,7 +2357,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused ryuseitai1 chiaki1 kanata1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/meteorimpact.png"  class="storylist-image">
@@ -2288,6 +2379,12 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Keito"></span>
+                        <span class="charhead" character="Shu"></span>
+                        <span class="charhead" character="Subaru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2295,7 +2392,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        54
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2328,7 +2425,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read kanata1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/toryumon.png"  class="storylist-image">
@@ -2357,7 +2454,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        8
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2390,7 +2487,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/studyheroes.png"  class="storylist-image">
@@ -2419,7 +2516,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2452,7 +2549,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read ryuseitai1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/managementstories.png"  class="storylist-image">
@@ -2481,7 +2578,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        Several 1-chaptered stories
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2507,14 +2604,14 @@ e.preventDefault();
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> A look into how Ryuseitai interacted with each other in the early days</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Recommended because early Spring timeline is rare yet important!</li>
         </ul>
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/idolstory123.png"  class="storylist-image">
@@ -2543,7 +2640,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        Ten 1-chaptered stories
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2576,7 +2673,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 non-unit">
+<section class="storylist-box lore-focused ryuseitai1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/mainstoryes2.png"  class="storylist-image">
@@ -2638,7 +2735,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/motorshow.png"  class="storylist-image">
@@ -2671,7 +2768,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        15
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2704,10 +2801,10 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/schrmonster.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2723,6 +2820,7 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Wataru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2730,7 +2828,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2763,10 +2861,10 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/emergencysecretmission.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2790,7 +2888,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2823,10 +2921,10 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/alwaysholdaheroicheart.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2849,7 +2947,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2882,7 +2980,70 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused tetora1 non-unit">
+    <article class="upper-section">
+    <figure class="storylist-image">
+        <img src="/img/es/storylist/banner/centurywars.png"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Turn of the Century Wars
+        </div>
+        <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent"><div>Start Reading</div><div class="tl-credit">Translation on the masterlist</div></a>
+    </article>
+    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Koga"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Sora"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        !! Era Year 1, Summer
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
+        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
+<section class="storylist-box lore-focused ryuseitai1 midori1 chiaki1 kanata1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/cometshow.png"  class="storylist-image">
@@ -2911,7 +3072,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        23
                     </div>
                 </div>
                 <div class="info-item two">
@@ -2944,67 +3105,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
-    <article class="upper-section">
-    <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/centurywars.png"  class="storylist-image">
-    </figure>
-    </article>
-    <article class="second-section">
-        <div class="title">
-            Turn of the Century Wars
-        </div>
-        <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent"><div>Start Reading</div><div class="tl-credit">Translation on the masterlist</div></a>
-    </article>
-    <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
-        <div class="info-area">
-            <div class="info">
-                <div class="info-item characters">
-                    <div class="value">
-                        <span class="charhead" character="TetoraRecc"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
-                    </div>
-                </div>
-                <div class="info-item one">
-                    <div class="label">
-                        Chapters
-                    </div>
-                    <div class="value">
-                        TBA
-                    </div>
-                </div>
-                <div class="info-item two">
-                    <div class="label">
-                        Season
-                    </div>
-                    <div class="value">
-                        !! Era Year 1, Summer
-                    </div>
-                </div>
-                <div class="info-item three">
-                    <div class="label">
-                        Release Date
-                    </div>
-                    <div class="value">                 
-                        TBA
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <article class="story-summary">
-        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
-        <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
-        </ul>
-    </article>
-</section>
-<!-- story box end -->
-
-<!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused ryuseitai1 chiaki1 kanata1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/submarine.png"  class="storylist-image">
@@ -3026,6 +3127,9 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Kuro"></span>
+                        <span class="charhead" character="Keito"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3033,7 +3137,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        32
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3066,7 +3170,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit chiaki1">
+<section class="storylist-box light-read tetora1 midori1 shinobu1 chiaki1 kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
@@ -3095,7 +3199,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        Ten 2-chaptered stories
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3128,7 +3232,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read shinobu1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ninjaclan.png"  class="storylist-image">
@@ -3150,6 +3254,8 @@ e.preventDefault();
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Mao"></span>
+                        <span class="charhead" character="Mayoi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3157,7 +3263,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        12
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3190,7 +3296,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ssfinals.png"  class="storylist-image">
@@ -3252,7 +3358,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/myriad.png"  class="storylist-image">
@@ -3270,6 +3376,9 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Mitsuru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3277,7 +3386,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        12
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3310,7 +3419,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused shinobu1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/mirage.png"  class="storylist-image">
@@ -3328,6 +3437,9 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Koga"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3335,7 +3447,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        10
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3368,7 +3480,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/highandlow.png"  class="storylist-image">
@@ -3428,7 +3540,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 shinobu1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/blackjack.png"  class="storylist-image">
@@ -3572,6 +3684,15 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="Natsume"></span>
+                        <span class="charhead" character="Rei"></span>
+                        <span class="charhead" character="Shu"></span>
+                        <span class="charhead" character="Wataru"></span>
+                        <span class="charhead" character="Eichi"></span>
+                        <span class="charhead" character="Hiyori"></span>
+                        <span class="charhead" character="Nagisa"></span>
+                        <span class="charhead" character="Tsumugi"></span>
+                        <span class="charhead" character="Akiomi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3579,7 +3700,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        47 (Only appears in 10 chapters)
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3612,7 +3733,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/weddingmarch.png"  class="storylist-image">
@@ -3638,7 +3759,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        19
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3671,7 +3792,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/parallelworld.png"  class="storylist-image">
@@ -3693,6 +3814,10 @@ e.preventDefault();
                         <span class="charhead" character="Shinobu"></span>
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="Tomoya"></span>
+                        <span class="charhead" character="Hajime"></span>
+                        <span class="charhead" character="Mitsuru"></span>
+                        <span class="charhead" character="Nazuna"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3700,7 +3825,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3725,7 +3850,7 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> A first, brief look into the potential of all-leaders Ryuseitai</li>
         <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
         </ul>
     </article>
@@ -3733,7 +3858,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box light-read ryuseitai1 midori1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/tropical.png"  class="storylist-image">
@@ -3762,7 +3887,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        14
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3795,7 +3920,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused shinobu1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/atlantis.png"  class="storylist-image">
@@ -3853,7 +3978,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused kanata1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/abyss.png"  class="storylist-image">
@@ -3871,6 +3996,9 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="Madara"></span>
+                        <span class="charhead" character="Souma"></span>
+                        <span class="charhead" character="Kaoru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3878,7 +4006,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        16
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3911,7 +4039,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused shinobu1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/2x2.png"  class="storylist-image">
@@ -3929,6 +4057,9 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Yuta"></span>
+                        <span class="charhead" character="Hinata"></span>
+                        <span class="charhead" character="Nagisa"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3969,10 +4100,10 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/promisetotrain.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3995,7 +4126,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        1
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4028,7 +4159,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only chiaki1">
+<section class="storylist-box lore-focused ryuseitai1 tetora1 chiaki1 kanata1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/stellamaris.png"  class="storylist-image">
@@ -4050,6 +4181,8 @@ e.preventDefault();
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                         <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Eichi"></span>
+                        <span class="charhead" character="Tori"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4057,7 +4190,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        30
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4090,7 +4223,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read tetora1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/dragonshead.png"  class="storylist-image">
@@ -4108,6 +4241,7 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="Kuro"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4115,7 +4249,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        12
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4148,7 +4282,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
@@ -4177,7 +4311,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        Several short stories
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4210,7 +4344,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box lore-focused light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
@@ -4239,7 +4373,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        Several short stories
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4272,7 +4406,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box lore-focused ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/dokisutaryuseitai.png"  class="storylist-image">
@@ -4301,7 +4435,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        None
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4334,7 +4468,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box light-read ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ryuseitaialbumtrip.png"  class="storylist-image">
@@ -4363,7 +4497,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        None
                     </div>
                 </div>
                 <div class="info-item two">
@@ -4396,7 +4530,7 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box light-read unstarred non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/oshiroom.png"  class="storylist-image">
@@ -4425,7 +4559,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA
+                        None
                     </div>
                 </div>
                 <div class="info-item two">
