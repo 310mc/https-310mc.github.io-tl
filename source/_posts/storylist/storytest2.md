@@ -91,15 +91,21 @@ e.preventDefault();
 </ul></div>
 
 <div class="filters-list">
-<ul class="filter option-set" data-filter-group="recommended">
-    <li class="filters-title"><i class="fa fa-star star-color"></i> Recommended For</li>
+<ul class="filter option-set exclusive" data-filter-group="weight">
+    <li class="filters-title">I want to read...</li>
     <li><a href="#" data-filter-value="" class="selected">All</a></li>
-    <li><a href="#" data-filter-value=".ryuseitai1">Ryuseitai</a></li>
-    <li><a href="#" data-filter-value=".tetora1">Tetora</a></li>
-    <li><a href="#" data-filter-value=".midori1">Midori</a></li>
-    <li><a href="#" data-filter-value=".shinobu1">Shinobu</a></li>
-    <li><a href="#" data-filter-value=".chiaki1">Chiaki</a></li>
-    <li><a href="#" data-filter-value=".kanata1">Kanata</a></li>
+    <li><a href="#" data-filter-value=".lore">Lore Focused</a></li>
+    <li><a href="#" data-filter-value=".light">Light Read</a></li>
+</ul>
+<ul class="filter option-set" data-filter-group="recommended">
+    <li class="filters-title">Recommended For...</li>
+    <li><a href="#" data-filter-value="" class="selected">All</a></li>
+    <li><a href="#" data-filter-value=".ryuseitai1"><i class="fa-solid fa-star star-color"></i> Ryuseitai</a></li>
+    <li><a href="#" data-filter-value=".tetora1"><i class="fa-solid fa-star" style="color:#bba2c4;"></i> </i>Tetora</a></li>
+    <li><a href="#" data-filter-value=".midori1"><i class="fa-solid fa-star" style="color:#0d9c7d;"></i> Midori</a></li>
+    <li><a href="#" data-filter-value=".shinobu1"><i class="fa-solid fa-star" style="color:#fcee21;"></i> Shinobu</a></li>
+    <li><a href="#" data-filter-value=".chiaki1"><i class="fa-solid fa-star" style="color:#BD1F20;"></i> Chiaki</a></li>
+    <li><a href="#" data-filter-value=".kanata1"><i class="fa-solid fa-star" style="color:#008db7;"></i> Kanata</a></li>
 </ul>
 <ul class="filter option-set exclusive" data-filter-group="story">
     <li class="filters-title">Story Type</li>
@@ -120,10 +126,10 @@ e.preventDefault();
 
 <section id="mainbox" class="grid">
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/heroshow.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -137,7 +143,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
@@ -172,8 +178,11 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
-        TBA
+        <div class="label">Key Points</div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
+        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        </ul>
     </article>
 </section>
 <!-- story box end -->
@@ -182,7 +191,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/piratefestival.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -231,7 +240,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -241,14 +250,14 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/morningpractice.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Morning Practice
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -257,9 +266,7 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -290,7 +297,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -300,14 +307,14 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/toughguy.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Tough Guy
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -315,10 +322,8 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -349,7 +354,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -359,7 +364,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/crashcourse.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -373,11 +378,8 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -408,33 +410,33 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/christmaslive.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Christmas Live
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc & Mika Enstars</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
@@ -467,17 +469,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1">
+<section class="storylist-box ryuseitai1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/strawberrycoloredholiday.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -491,11 +493,8 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -526,7 +525,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -536,7 +535,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/triumphoftheemperor.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -585,7 +584,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -595,7 +594,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/hellokittycollab.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -644,17 +643,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/supernova.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -668,11 +667,11 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -703,7 +702,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -713,7 +712,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/beachmatch.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -762,7 +761,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -772,14 +771,14 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/scrolloftheelements.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Scroll of the Elements
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by citrinesea</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -790,7 +789,7 @@ e.preventDefault();
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -821,7 +820,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -831,7 +830,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/holidayparty.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -880,7 +879,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -890,7 +889,7 @@ e.preventDefault();
 <section class="storylist-box tetora1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/fourbeastsoffistfighting.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -904,11 +903,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -939,34 +934,34 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/climax.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Climax
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -998,7 +993,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1008,7 +1003,7 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/sparklyfirstyears.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -1023,10 +1018,8 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1057,17 +1050,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/purplewisteria.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -1081,11 +1074,9 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1116,7 +1107,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1126,7 +1117,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/shootingstarfestival.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -1142,7 +1133,7 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
@@ -1175,35 +1166,31 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/crossroad.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Crossroad
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1234,7 +1221,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1244,14 +1231,14 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/herogame.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Hero Game
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -1261,7 +1248,7 @@ e.preventDefault();
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -1293,35 +1280,33 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box unit-only">
+<section class="storylist-box unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/legendaryhero.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Legendary Hero!
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1352,7 +1337,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1362,25 +1347,21 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/aquarium.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Aquarium
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1411,34 +1392,34 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/sweethalloween.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Sweet Halloween
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -1470,7 +1451,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1480,25 +1461,21 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/zodiac.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Zodiac – Senpai Turned Into A Dog!?
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1529,7 +1506,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1539,25 +1516,22 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/beasts.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Beasts
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1588,7 +1562,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1598,14 +1572,14 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/boardinglive.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Boarding Live
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by Bella</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -1647,7 +1621,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1657,7 +1631,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/aprilfools2018.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -1706,35 +1680,31 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/gang.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Gang
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by harmonyleaf & 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1765,7 +1735,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1775,14 +1745,14 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/schoolfestival.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             School Festival 4
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -1824,7 +1794,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1834,14 +1804,14 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/orihimeandhikoboshi.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Orihime and Hikoboshi
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -1850,9 +1820,9 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1883,7 +1853,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1893,14 +1863,14 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/buddy.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Buddy
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -1908,8 +1878,6 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
@@ -1942,7 +1910,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -1952,25 +1920,21 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/comicworld.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Comic World
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2001,17 +1965,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/rainbow.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2025,11 +1989,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2060,7 +2020,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2070,25 +2030,21 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/firstdreams.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             First Dreams – Hurray for a Normal Day!
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by Peace</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2119,17 +2075,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/saga.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2143,11 +2099,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2178,7 +2130,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2188,7 +2140,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/chocofes.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2205,7 +2157,7 @@ e.preventDefault();
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -2237,32 +2189,32 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/meteorimpact.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Meteor Impact
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
@@ -2296,7 +2248,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2306,7 +2258,7 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/toryumon.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2321,7 +2273,7 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
@@ -2355,7 +2307,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2365,14 +2317,14 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/studyheroes.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Study Heroes
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -2414,7 +2366,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2424,14 +2376,14 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/managementstories.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Management Stories
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc & citrinesea</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -2473,7 +2425,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2483,7 +2435,7 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/idolstory123.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2532,17 +2484,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1">
+<section class="storylist-box ryuseitai1 non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/mainstoryes2.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2591,7 +2543,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2601,14 +2553,14 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/motorshow.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Motor Show
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc & Peace & Whisper</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -2617,7 +2569,7 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
@@ -2650,7 +2602,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2660,7 +2612,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2674,11 +2626,8 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2709,7 +2658,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2719,7 +2668,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2735,8 +2684,6 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -2768,7 +2715,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2778,14 +2725,14 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Always Hold a Heroic Heart
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc & TsubasaFL</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -2794,9 +2741,6 @@ e.preventDefault();
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -2827,34 +2771,34 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/cometshow.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Comet Show
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                         <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -2886,7 +2830,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -2896,7 +2840,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/centurywars.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -2910,9 +2854,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
@@ -2945,32 +2887,32 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/submarine.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Submarine
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
@@ -3004,35 +2946,35 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Ryuseitai Feature Scout 5* Stories
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3063,7 +3005,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3073,14 +3015,14 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/ninjaclan.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Ninja Clan
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -3091,7 +3033,7 @@ e.preventDefault();
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3122,7 +3064,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3132,7 +3074,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/ssfinals.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3181,7 +3123,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3191,7 +3133,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/myriad.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3205,11 +3147,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3240,7 +3178,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3250,7 +3188,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/mirage.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3264,11 +3202,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3299,7 +3233,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3309,7 +3243,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/highandlow.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3323,10 +3257,8 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="MidoriRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -3358,7 +3290,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3368,12 +3300,12 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/blackjack.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
-            Blackjack
+            Black Jack
         </div>
         <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
     </article>
@@ -3382,11 +3314,8 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3417,35 +3346,35 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/supervillain.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Supervillain
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3476,17 +3405,17 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box non-unit">
+<section class="storylist-box non-unit chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/graduation.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3500,10 +3429,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                         <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
@@ -3535,7 +3461,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3545,7 +3471,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/altered.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3559,11 +3485,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3594,7 +3516,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3604,14 +3526,14 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/weddingmarch.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Wedding March
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -3619,10 +3541,7 @@ e.preventDefault();
                 <div class="info-item characters">
                     <div class="value">
                         <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3653,7 +3572,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3663,25 +3582,25 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/parallelworld.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Parallel World
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3712,7 +3631,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3722,25 +3641,25 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/tropical.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Tropical
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="Shinobu"></span>
                         <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3771,7 +3690,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3781,7 +3700,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/atlantis.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3795,11 +3714,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3830,7 +3745,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3840,25 +3755,21 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/abyss.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             ABYSS
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="KanataRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3889,7 +3800,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3899,7 +3810,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/2x2.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -3913,11 +3824,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ShinobuRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -3948,7 +3855,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -3958,25 +3865,22 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             The Promise To Train
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
                         <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4007,35 +3911,35 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
 <!-- story box end -->
 
 <!-- story box start -->
-<section class="storylist-box ryuseitai1 unit-only">
+<section class="storylist-box ryuseitai1 unit-only chiaki1">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/stellamaris.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Stella Maris
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="KanataRecc"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="ChiakiRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4066,7 +3970,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4076,7 +3980,7 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/dragonshead.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -4090,11 +3994,7 @@ e.preventDefault();
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
-                        <span class="charhead" character="Tetora"></span>
-                        <span class="charhead" character="Midori"></span>
-                        <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="TetoraRecc"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4125,7 +4025,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4135,25 +4035,25 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Birthday Stories
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4184,7 +4084,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4194,25 +4094,25 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Mini Talks
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4243,7 +4143,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4253,25 +4153,25 @@ e.preventDefault();
 <section class="storylist-box ryuseitai1 unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/dokisutaryuseitai.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Dokisuta Ryuseitai
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4302,7 +4202,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4312,25 +4212,25 @@ e.preventDefault();
 <section class="storylist-box unit-only">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/ryuseitaialbumtrip.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Ryuseitai Album TRIP
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4361,7 +4261,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4371,25 +4271,25 @@ e.preventDefault();
 <section class="storylist-box non-unit">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/oshiroom.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
             Oshi Room
         </div>
-        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">TBA</div></a>
+        <a target="_blank" href="TBA"><div>Start Reading</div><div class="tl-credit">Translation by 310mc & citrinesea</div></a>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
             <div class="info">
                 <div class="info-item characters">
                     <div class="value">
-                        <span class="charhead" character="Chiaki"></span>
-                        <span class="charhead" character="Kanata"></span>
                         <span class="charhead" character="Tetora"></span>
                         <span class="charhead" character="Midori"></span>
                         <span class="charhead" character="Shinobu"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Kanata"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -4420,7 +4320,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>
@@ -4430,7 +4330,7 @@ e.preventDefault();
 <section class="storylist-box">
     <article class="upper-section">
     <figure class="storylist-image">
-        <img src="https://static.wikia.nocookie.net/ensemble-stars/images/d/d9/Hero_Show_Banner.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -4479,7 +4379,7 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">About this story</div>
+        <div class="label">Key Points</div>
         TBA
     </article>
 </section>

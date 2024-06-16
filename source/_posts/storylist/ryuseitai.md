@@ -45,7 +45,7 @@ Notes:
 <li>Pirate Festival</li>
 <li><a href="/morning_practice" target="_blank">Morning Practice</a> → Only has Midori, Chiaki and Kanata.</li>
 <li><a href="/tough_guy" target="_blank">Tough Guy</a> → Only has Chiaki, Midori and Tetora.</li>
-<li><strong>Christmas Live</strong>
+<li><strong><a href="/christmas_live" target="_blank">Christmas Live</a></strong>
 <ul class="list2"><li>For Shinobu and Kanata, bonus story to read is <u>Crash Course</u>!</li></ul></li>
 </ul>
 
@@ -111,7 +111,7 @@ Notes:
 <li>SS Finals → Ryuseitai isn't in all the chapters but their scenes are good!</li>
 <li><strong><a href="/supervillain" target="_blank">Supervillain</a></strong>
 <ul class="list2"><li>For Tetora and Midori, bonus story to read is <u>High and Low!</u></li>
-<li>For Tetora and Shinobu, bonus story is <u>Blackjack!</u></li>
+<li>For Tetora and Shinobu, bonus story is <u>Black Jack!</u></li>
 <li>And for Tetora only, bonus story is <u>Dragon's Head!</u></li></ul></li>
 <li><a href="/parallel_world" target="_blank">Parallel World</a> → Ryuseitai appear in only one chapter, and the link is a translation of only that chapter.</li>
 <li><strong><a href="/tropical" target="_blank">Tropical</a></strong></li>

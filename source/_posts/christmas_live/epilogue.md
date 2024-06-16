@@ -23,14 +23,14 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Yuta" character="Yuta"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Hinata" character="Hinata"></a>
-                <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Yuta" character="Yuta"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hinata" character="Hinata"></a>
+                    <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -205,7 +205,7 @@ It may appear as if you don’t think about these things in advance, I see that 
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-Woah—!? You scared me…! Ermm, you’re Fushimi from <em>fine</em>, right? I-I’ll have you know, this live show has been formally authorized…!
+Woah—!? You surprised me…! Ermm, you’re Fushimi from <em>fine</em>, right? I-I’ll have you know, this live show has been formally authorized…!
 {% endbubble %}
 
 {% bubble Yuzuru snicker %}

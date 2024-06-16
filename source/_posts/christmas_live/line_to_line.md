@@ -22,13 +22,13 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Yuta" character="Yuta"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Hinata" character="Hinata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Yuta" character="Yuta"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -44,7 +44,7 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
+                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink) 
                 </div>
             </div>
             <div class="info-item three">
@@ -375,7 +375,7 @@ I bet it’s ‘cuz it’s too cold to talk properly, isn’t it\~? Ahaha\~ Lemm
 {% endbubble %}
 
 {% bubble Shinobu surprised %}
-Ah, no! Leave that aside for now—Yuuta-kun’s strangling Hinata-kun, please stop him! I won’t be able to hold him back on his own with my strength, so…!?
+Ah, no! Leave that aside for now—Yuuta-kun’s strangling Hinata-kun, please stop him! I won’t be able to hold him back with my strength, so…!?
 {% endbubble %}
 
 {% bubble Tetora angry %}

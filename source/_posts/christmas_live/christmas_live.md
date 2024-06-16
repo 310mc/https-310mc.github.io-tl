@@ -1,6 +1,6 @@
 ---
 title: "[ES!] Christmas Live"
-date: 2024-6-10 9:00:00
+date: 2015-12-25 9:00:00
 categories:
 - [Enstars, ES!]
 - [Enstars, Ryuseitai]

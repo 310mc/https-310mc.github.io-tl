@@ -1617,7 +1617,7 @@ Your parents seem to miss you and worry about you.
 
 Even your sister regularly asks me if you’re doing alright.
 
-Huh? Well, I often talk with your sister on a tokusatsu fan site, so that’s how I know… She seems to be a fan of the villains in the shows, both monsters and bad guys alike.
+Huh? Well, I often talk with your sister on a tokusatsu fan site, so that’s how I know… She seems to be a fan of the villains in the shows, both kaijuu and bad guys alike.
 {% endbubble %}
 
 {% bubble Kuro serious %}

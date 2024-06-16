@@ -22,13 +22,13 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Yuta" character="Yuta"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Hinata" character="Hinata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Yuta" character="Yuta"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -44,7 +44,7 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Translation
                 </div>
                 <div class="value">
-                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink & Yuzuru) 
+                    <a href="/about" target="_blank">310mc</a> (Ryuseitai), <a href="https://twilightmalachite.tumblr.com/" target="_blank">Mika Enstars</a> (2wink) 
                 </div>
             </div>
             <div class="info-item three">
@@ -620,7 +620,7 @@ Isn’t that terribly cruel of you to do? You’re doing something horrible for 
 
 Don’t forget that. Think about how I feel, being left behind all the time!
 
-I love the “us” of those days as much, if not more than, you do, Aniki.
+I love the “us” of those days as much as — if not more than — you do, Aniki.
 
 And I love you, but the you I love is distorting and changing for <em>my</em> sake.
 

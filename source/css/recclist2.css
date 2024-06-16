@@ -75,7 +75,7 @@ hr {border:0;border-top:1px solid var(--borders);margin:0;}
     border-radius: 0.4rem;
     margin: 1.5rem 2rem;
     /*height: 26rem; for when there's desc*/
-    height: 20rem;
+    height: 26rem;
     overflow: auto;
     font-size: 14px;
 }
@@ -126,7 +126,6 @@ img.storylist-image {
     font-weight: 700;
     width: 50%;
     padding-right: .7rem;
-    /*padding: .5rem .7rem .5rem 0;*/
     margin: auto 0 auto 1rem;
     text-align: center;
     text-wrap: wrap;
@@ -183,13 +182,37 @@ img.storylist-image {
     border: 2px solid rgba(90, 193, 137, 0.2);
     padding: 5px 10px;
     overflow: auto;
-    display: none;
 }
 
 .story-summary .label {
     padding: 0;
     font-weight: 700;
     font-size: 1em;
+}
+
+ul.key-points {
+    padding: 0;
+    margin: .1rem 0;
+}
+
+.key-points li {
+    padding-bottom: 0.1rem;
+    font-size: 1.1em;
+}
+
+.key-points li::marker {
+    content: '';
+}
+
+.key-points .spoiler-text {
+    background: #3a3144;
+    color: #3a3144;
+    border-radius: 2px;
+}
+
+.key-points .spoiler-text:hover {
+    background: none;
+    color: var(--text-color);
 }
 
 /* For character appearances */
@@ -241,7 +264,6 @@ img.storylist-image {
 /* for filters */
 .filters-list {
     width: 100%;
-    /*background: var(--content-bg-color);*/
     background: #24004D;
     color: #fff;
     border-radius: 5px;
@@ -278,7 +300,7 @@ img.storylist-image {
 }
 
 .filters-list .star-color {
-    color: #fcee21;
+    color: #ff8910;
 }
 
 .filters-title {
@@ -289,16 +311,11 @@ img.storylist-image {
 
 .selected {
     font-weight: 700;
-    /*color: #E66B6B;*/
     border-bottom: 2px solid var(--link-color) !important;
 }
 
 /* medias */
 @media only screen and (min-width:0px) and (max-width:650px) {
-
-    /*#mainbox {
-        margin-left: 2.2rem;
-    }*/
 
     #mainbox {
         padding: 3rem 0;
@@ -308,22 +325,15 @@ img.storylist-image {
     .storylist-box {
         width: calc(102% - 3rem);
         padding: 0;
-        /*margin: 1.5rem 0rem;*/
-        margin: 0;
-        height: 23rem;
+        margin: 1.5rem 0rem;
+        height: auto;
         overflow: hidden;
     }
-
-    /*figure.storylist-image {
-        width: 10rem;
-        height: 4rem;
-    }*/
 }
 
 @media only screen and (min-width:651px) and (max-width:1300px) {
 
     #mainbox {
-        /**margin-left: 2rem;**/
         margin-left:0;
     }
 
@@ -332,12 +342,6 @@ img.storylist-image {
         padding: 0;
         width: calc(50% - 4rem);
     }
-/**
-    figure.storylist-image {
-        width: 13rem;
-        height: 5rem;
-    }
-**/
 }
 
 @media only screen and (min-width:2001px) and (max-width:99999999999px) {
@@ -351,7 +355,17 @@ img.storylist-image {
 }
 
 @media (prefers-color-scheme: dark) {
-    .ryuseitai1 .second-section .title::before {
-    color: #fcee21;
-  }
+    /*.ryuseitai1 .second-section .title::before {
+        color: #fcee21;
+    }*/
+
+    .filters-list {
+        background: #1b181d;
+        color: #fff;
+    }
+
+    .key-points .spoiler-text {
+        background: #736f77;
+        color: #736f77;
+    }
 }

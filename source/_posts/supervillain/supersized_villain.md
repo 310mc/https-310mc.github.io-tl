@@ -622,7 +622,7 @@ And if the supreme Tenshouin Zaibatsu comes into play here, the fate of Crimson 
 {% bubble Chiaki norsmile %}
 I’ll say it a hundred times more. This time, it’s my victory — *our* victory, Nagumo.
 
-Your biggest mistake was to choose the path of evil. And typically, this isn’t something said to the loser, but—
+Your biggest mistake was to choose the path of evil. And though typically, there are no words to say to the loser—
 
 I choose to deliberately tell you, my immature and foolish junior, my favorite phrase:
 
@@ -1060,7 +1060,7 @@ That’s ‘cause I started from rock bottom! Hmph!
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}
-Haha, you’re sulking~ But honestly, I’m surprised. Morisawa-Taichou was much more thorough in his preparations than I expected, and it really helped me out.
+Haha, he’s sulking~ But honestly, I’m surprised. Morisawa-Taichou was much more thorough in his preparations than I expected, and it really helped me out.
 
 He seemed to have noticed my message, too.
 {% endbubble %}

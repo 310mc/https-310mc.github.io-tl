@@ -80,7 +80,7 @@ You can see Ibuki Taki’s profile on the <a href="https://ensemble-stars.fandom
 </div>
 
 {% bubble Tetora smileconfident %}
-<em>Wo-oh, wo-oh~♪</em>
+One-two, one-two~♪
 {% endbubble %}
 
 {% bubble Hiiro nod %}

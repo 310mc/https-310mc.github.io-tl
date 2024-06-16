@@ -16,7 +16,7 @@ description: "[ES!] While all the units in the academy make preparations for the
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                    <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
                 </div>
             </div>
             <div class="info-item one">
