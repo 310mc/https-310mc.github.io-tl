@@ -35,7 +35,7 @@ hidden: true
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 <script src="https://static.tumblr.com/p0knose/FpAp5c11c/magnusthemes.combofilters.js"></script>
 <script>
-$(document).ready(function() {var $container = $("#mainbox"); // the container with all the elements to filter inside
+$(document).ready(function() {var $container = $(".storylist-grid"); // the container with all the elements to filter inside
 var filters = {}; //should be outside the scope of the filtering function
 /* --- read the documentation on isotope.metafizzy.co for more options --- */
 var $grid = $container.isotope({
@@ -105,7 +105,7 @@ e.preventDefault();
     <li class="filters-title">Recommended For...</li>
     <li><a href="#" data-filter-value="" class="selected">All</a></li>
     <li><a href="#" data-filter-value=".ryuseitai1"><i class="fa-solid fa-star star-color"></i> Ryuseitai</a></li>
-    <li><a href="#" data-filter-value=".tetora1"><i class="fa-solid fa-star" style="color:#bba2c4;"></i> </i>Tetora</a></li>
+    <li><a href="#" data-filter-value=".tetora1"><i class="fa-solid fa-star" style="color:#8B838E;"></i> </i>Tetora</a></li>
     <li><a href="#" data-filter-value=".midori1"><i class="fa-solid fa-star" style="color:#0d9c7d;"></i> Midori</a></li>
     <li><a href="#" data-filter-value=".shinobu1"><i class="fa-solid fa-star" style="color:#fcee21;"></i> Shinobu</a></li>
     <li><a href="#" data-filter-value=".chiaki1"><i class="fa-solid fa-star" style="color:#BD1F20;"></i> Chiaki</a></li>
@@ -121,10 +121,10 @@ e.preventDefault();
 </div>
 </section>
 
-<section id="mainbox" class="grid">
+<section class="storylist-grid">
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 chiaki1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/heroshow.png"  class="storylist-image">
     </figure>
@@ -189,7 +189,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read midori1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/piratefestival.png"  class="storylist-image">
     </figure>
@@ -256,7 +256,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read midori1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/morningpractice.jpg"  class="storylist-image">
     </figure>
@@ -317,7 +317,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/toughguy.png"  class="storylist-image">
     </figure>
@@ -382,7 +382,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 unit-only chiaki1">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/christmaslive.png"  class="storylist-image">
     </figure>
@@ -448,7 +448,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 shinobu1 midori1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/strawberrycoloredholiday.png"  class="storylist-image">
     </figure>
@@ -510,7 +510,7 @@ e.preventDefault();
 <!-- story box start -->
 <!--
 <section class="storylist-box unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/triumphoftheemperor.png"  class="storylist-image">
     </figure>
@@ -571,8 +571,9 @@ e.preventDefault();
 <!-- story box end -->
 
 <!-- story box start -->
+<!--
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/hellokittycollab.png"  class="storylist-image">
     </figure>
@@ -633,7 +634,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 shinobu1 chiaki1 kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/supernova.png"  class="storylist-image">
     </figure>
@@ -704,7 +705,7 @@ e.preventDefault();
 <!-- story box start -->
 <!--
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/beachmatch.png"  class="storylist-image">
     </figure>
@@ -768,7 +769,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 shinobu1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/scrolloftheelements.png"  class="storylist-image">
     </figure>
@@ -838,7 +839,7 @@ e.preventDefault();
 <!-- story box start -->
 <!--
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/holidayparty.png"  class="storylist-image">
     </figure>
@@ -900,7 +901,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused tetora1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/fourbeastsoffistfighting.png"  class="storylist-image">
     </figure>
@@ -962,7 +963,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 chiaki1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/climax.png"  class="storylist-image">
     </figure>
@@ -1028,7 +1029,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 shinobu1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/sparklyfirstyears.png"  class="storylist-image">
     </figure>
@@ -1090,7 +1091,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused shinobu1 chiaki1 kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/purplewisteria.png"  class="storylist-image">
     </figure>
@@ -1155,7 +1156,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read tetora1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/shootingstarfestival.png"  class="storylist-image">
     </figure>
@@ -1220,7 +1221,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused chiaki1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/crossroad.png"  class="storylist-image">
     </figure>
@@ -1282,7 +1283,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 midori1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/herogame.png"  class="storylist-image">
     </figure>
@@ -1344,7 +1345,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused chiaki1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/legendaryhero.png"  class="storylist-image">
     </figure>
@@ -1405,7 +1406,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/aquarium.png"  class="storylist-image">
     </figure>
@@ -1470,7 +1471,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 midori1 chiaki1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/sweethalloween.png"  class="storylist-image">
     </figure>
@@ -1537,7 +1538,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read midori1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/zodiac.png"  class="storylist-image">
     </figure>
@@ -1597,7 +1598,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/boardinglive.png"  class="storylist-image">
     </figure>
@@ -1662,7 +1663,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused tetora1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/beasts.png"  class="storylist-image">
     </figure>
@@ -1724,7 +1725,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/aprilfools2018.jpg"  class="storylist-image">
     </figure>
@@ -1791,7 +1792,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused chiaki1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/gang.png"  class="storylist-image">
     </figure>
@@ -1852,7 +1853,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/schoolfestival.png"  class="storylist-image">
     </figure>
@@ -1917,7 +1918,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 shinobu1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/orihimeandhikoboshi.png"  class="storylist-image">
     </figure>
@@ -1984,7 +1985,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/comicworld.png"  class="storylist-image">
     </figure>
@@ -2045,7 +2046,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/buddy.png"  class="storylist-image">
     </figure>
@@ -2106,7 +2107,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused chiaki1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/rainbow.png"  class="storylist-image">
     </figure>
@@ -2169,7 +2170,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read midori1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/firstdreams.png"  class="storylist-image">
     </figure>
@@ -2228,7 +2229,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused chiaki1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/saga.png"  class="storylist-image">
     </figure>
@@ -2293,7 +2294,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read midori1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/chocofes.png"  class="storylist-image">
     </figure>
@@ -2358,7 +2359,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 chiaki1 kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/meteorimpact.png"  class="storylist-image">
     </figure>
@@ -2426,7 +2427,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/toryumon.png"  class="storylist-image">
     </figure>
@@ -2488,7 +2489,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read ryuseitai1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/studyheroes.png"  class="storylist-image">
     </figure>
@@ -2550,7 +2551,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read ryuseitai1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/managementstories.png"  class="storylist-image">
     </figure>
@@ -2612,7 +2613,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/idolstory123.png"  class="storylist-image">
     </figure>
@@ -2674,7 +2675,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/mainstoryes2.png"  class="storylist-image">
     </figure>
@@ -2736,7 +2737,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/motorshow.png"  class="storylist-image">
     </figure>
@@ -2802,7 +2803,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/schrmonster.png"  class="storylist-image">
     </figure>
@@ -2862,7 +2863,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/emergencysecretmission.png"  class="storylist-image">
     </figure>
@@ -2922,7 +2923,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/alwaysholdaheroicheart.png"  class="storylist-image">
     </figure>
@@ -2981,7 +2982,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused tetora1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/centurywars.png"  class="storylist-image">
     </figure>
@@ -3044,7 +3045,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 midori1 chiaki1 kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/cometshow.png"  class="storylist-image">
     </figure>
@@ -3106,7 +3107,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 chiaki1 kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/submarine.png"  class="storylist-image">
     </figure>
@@ -3171,7 +3172,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read tetora1 midori1 shinobu1 chiaki1 kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
@@ -3233,7 +3234,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read shinobu1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ninjaclan.png"  class="storylist-image">
     </figure>
@@ -3297,7 +3298,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ssfinals.png"  class="storylist-image">
     </figure>
@@ -3359,7 +3360,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/myriad.png"  class="storylist-image">
     </figure>
@@ -3420,7 +3421,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused shinobu1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/mirage.png"  class="storylist-image">
     </figure>
@@ -3481,7 +3482,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 midori1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/highandlow.png"  class="storylist-image">
     </figure>
@@ -3541,7 +3542,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 shinobu1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/blackjack.png"  class="storylist-image">
     </figure>
@@ -3600,7 +3601,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 shinobu1 chiaki1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/supervillain.png"  class="storylist-image">
     </figure>
@@ -3667,7 +3668,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/altered.png"  class="storylist-image">
     </figure>
@@ -3700,7 +3701,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        47 (Only appears in 10 chapters)
+                        47 (Appears in 10 chapters)
                     </div>
                 </div>
                 <div class="info-item two">
@@ -3734,14 +3735,14 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/weddingmarch.png"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
         <div class="title">
-            Wedding March
+            Wedding March!
         </div>
         <a target="_blank" href="/wedding_march"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
     </article>
@@ -3793,7 +3794,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read ryuseitai1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/parallelworld.png"  class="storylist-image">
     </figure>
@@ -3859,7 +3860,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read ryuseitai1 midori1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/tropical.png"  class="storylist-image">
     </figure>
@@ -3921,7 +3922,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused shinobu1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/atlantis.png"  class="storylist-image">
     </figure>
@@ -3979,7 +3980,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused kanata1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/abyss.png"  class="storylist-image">
     </figure>
@@ -4040,7 +4041,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused shinobu1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/2x2.png"  class="storylist-image">
     </figure>
@@ -4101,7 +4102,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/promisetotrain.png"  class="storylist-image">
     </figure>
@@ -4160,7 +4161,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 tetora1 chiaki1 kanata1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/stellamaris.png"  class="storylist-image">
     </figure>
@@ -4224,7 +4225,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read tetora1 non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/dragonshead.png"  class="storylist-image">
     </figure>
@@ -4283,9 +4284,9 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/testing.jpg"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -4345,9 +4346,9 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
-        <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
+        <img src="/img/es/storylist/banner/testing1.jpg"  class="storylist-image">
     </figure>
     </article>
     <article class="second-section">
@@ -4407,7 +4408,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box lore-focused ryuseitai1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/dokisutaryuseitai.png"  class="storylist-image">
     </figure>
@@ -4469,7 +4470,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read ryuseitai1 unit-only">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/ryuseitaialbumtrip.png"  class="storylist-image">
     </figure>
@@ -4531,7 +4532,7 @@ e.preventDefault();
 
 <!-- story box start -->
 <section class="storylist-box light-read unstarred non-unit">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/oshiroom.png"  class="storylist-image">
     </figure>
@@ -4594,7 +4595,7 @@ e.preventDefault();
 <!-- story box start -->
 <!--
 <section class="storylist-box">
-    <article class="upper-section">
+    <article class="top-section">
     <figure class="storylist-image">
         <img src="/img/es/storylist/banner/TBA.png"  class="storylist-image">
     </figure>
@@ -4661,4 +4662,4 @@ e.preventDefault();
 <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
-<div title="Code Credits! Thank you!" style="position:fixed;bottom:3rem;right:2rem;font-size:.85rem"><a target="_blank" href="https://southcodes.tumblr.com/">SC</a></div>
+<!--<div title="Code Credits! Thank you!" style="position:fixed;bottom:3rem;right:2rem;font-size:.85rem"><a target="_blank" href="https://southcodes.tumblr.com/">SC</a></div>-->

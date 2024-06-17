@@ -196,7 +196,7 @@ I <em>knew</em> it. You suddenly went quiet, after all~ I figured something was 
 {% endbubble %}
 
 {% bubble Subaru %}
-I’m guessing your left hand’s what got hurt? Show me, I’ll treat your wound as thanks for finding the nail clipper for me.
+I’m guessing it’s your left hand? Show me, I’ll treat your wound as thanks for finding the nail clipper for me.
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -226,7 +226,7 @@ Mm… Sorry.
 {% bubble Subaru curious %}
 I was expecting a pretty big wound, since you were hiding it and everything.
 
-Other than your index finger, you’ve just got a little scratch on your hand. So why did you hide such a small injury?
+Apart from your index finger, you’ve just got a little scratch on your hand. So why did you hide such a small injury?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
