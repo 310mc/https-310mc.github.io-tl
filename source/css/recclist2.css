@@ -43,8 +43,7 @@ body {
 ::-webkit-scrollbar {
     width: 4px;
 }
- 
-/* idk lets find out */
+
 * {box-sizing:  border-box;}
 
 /* boxes */
@@ -58,7 +57,7 @@ body {
     min-width: 33%;
     border-radius: 0.4rem;
     margin-top: 1.2rem;
-    height: 35rem;
+    height: 37rem;
     max-width: 400px;
     overflow: auto;
     font-size: 14px;
@@ -112,22 +111,6 @@ img.storylist-image {
     text-wrap: wrap;
 }
 
-/*.second-section .read-button {
-    font-size: 1em;
-    background: #149245;
-    padding: .5em 1.25em;
-    border-radius: .25em;
-    text-align: center;
-    flex-grow: 1;
-    transition: all 0.4s;
-    font-weight: 700;
-}
-
-.second-section .read-button:hover {
-    background: rgb(90, 193, 137);
-    transition: all 0.4s;
-}*/
-
 .second-section .no-tl {
     font-size: .9em;
     background: #828f87;
@@ -157,6 +140,22 @@ img.storylist-image {
     transition: all 0.4s;
 }
 
+a.unstyled {
+    background: none;
+    padding: 0;
+    color: #000000;
+    font-weight: 500;
+    border-radius: 0;
+    border-bottom: 1px solid #000;
+}
+
+a.unstyled:hover {
+    transition: all 0.4s;
+    background: none;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
 .tl-credit {   
     font-size: .8em;
     font-style: italic;
@@ -169,17 +168,17 @@ img.storylist-image {
 
 .story-summary {
     border-radius: 5px;
-    /*height: 12rem;
-    max-height: 15rem;*/
     margin: 0 1rem;
-    border: 2px solid rgba(90, 193, 137, 0.2);
+    border: 2px solid rgba(90, 193, 137, .5);
     padding: 5px 10px;
+    /*box-shadow: 0px 0px 6px 2px rgb(90, 193, 137, .5);*/
 }
 
 .story-summary .label {
     padding: 0;
     font-weight: 700;
-    font-size: 1em;
+    font-size: 1.2em;
+    text-align: center;
 }
 
 ul.key-points {
@@ -328,22 +327,21 @@ ul.key-points {
 
 .selected {
     font-weight: 700;
-    border-bottom: 2px solid var(--link-color) !important;
-}
+    border-bottom: 2px solid #fff !important;
+}   
 
 /* medias */
 @media only screen and (max-width:650px) {
 
-    #mainbox {
+    .storylist-grid {
         padding: 3rem 0;
         box-sizing: border-box;
         width: 100%;
-        display: block;
+        display: inline-block;
     }
 
     .storylist-box {
         width: 100%;
-        padding: 0;
         margin: 0;
         margin-bottom: 1rem;
         height: 40rem;
@@ -358,14 +356,15 @@ ul.key-points {
     .list {
         padding-left: 1.1rem;
     }
+
 }
 
 @media only screen and (min-width:651px) and (max-width:800px) {
 
     .storylist-box {
-        padding: 0;
-        width: 48%;
+        width: 49%;
     }
+
 }
 
 @media only screen and (max-width:1300px) {
@@ -373,6 +372,7 @@ ul.key-points {
     .filters-list li a:hover {
         color: none;
     }
+
 }
 
 @media only screen and (min-width:2001px) and (max-width:99999999999px) {
@@ -384,6 +384,7 @@ ul.key-points {
 }
 
 @media (prefers-color-scheme: dark) {
+
     .filters-list {
         background: #1b181d;
         color: #fff;
@@ -393,4 +394,5 @@ ul.key-points {
         background: #736f77;
         color: #736f77;
     }
+
 }

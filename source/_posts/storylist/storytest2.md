@@ -5,7 +5,7 @@ categories:
 - [Uncategorized]
 tags:
 - Not Translation
-description: "Ryuseitai Story List with recommended stories to read."
+description: "Ryuseitai Story Reading List with recommended stories to read."
 hidden: true
 ---
 
@@ -14,21 +14,10 @@ hidden: true
 <!-- more -->
 
 <section>
-<!-- 
-    - page 'decay' by skye southcodes.tumblr.com
-    - modify as you please but please do not touch the credit
-    - any errors? need help? have questions? let me know!
-    southcodes.tumblr.com/inbox
-    - normalize css by https://github.com/necolas
-    - fonts by google
-    - icon font by https://fontawesome.com/
-    - slide in by https://stackoverflow.com/a/62432099
-    - filter js by https://magnusthemes.tumblr.com
+<!--
+    * icons by https://fontawesome.com/
+    * filter js by https://magnusthemes.tumblr.com
  -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
-<link href="https://necolas.github.io/normalize.css/7.0.0/normalize.css" rel="stylesheet">
 <link rel="stylesheet" href="/css/recclist2.css">
 <script src="https://kit.fontawesome.com/0993e30c04.js" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -96,13 +85,13 @@ e.preventDefault();
 
 <div id="Index" class="filters-list">
 <ul class="filter option-set exclusive" data-filter-group="weight">
-    <li class="filters-title">I want to read...</li>
+    <li class="filters-title">I want to read…</li>
     <li><a href="#" data-filter-value="" class="selected">All</a></li>
     <li><a href="#" data-filter-value=".lore-focused">Lore Focused</a></li>
     <li><a href="#" data-filter-value=".light-read">Light Read</a></li>
 </ul>
 <ul class="filter option-set" data-filter-group="recommended">
-    <li class="filters-title">Recommended For...</li>
+    <li class="filters-title">Recommended For…</li>
     <li><a href="#" data-filter-value="" class="selected">All</a></li>
     <li><a href="#" data-filter-value=".ryuseitai1"><i class="fa-solid fa-star star-color"></i> Ryuseitai</a></li>
     <li><a href="#" data-filter-value=".tetora1"><i class="fa-solid fa-star" style="color:#8B838E;"></i> </i>Tetora</a></li>
@@ -178,7 +167,7 @@ e.preventDefault();
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Ryuseitai's very first story of the game</li>
-        <li><i class="fa-solid fa-star ryuseitai-color"></i> How Ryuseitai is like before they get to debut in a large-scaled performance (usually doing volunteers or hero shows)</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> First look into how Ryuseitai is like before they debut in a large-scaled performance (ex. learning about heroes or performing hero shows)</li>
         <li><i class="fa-solid fa-star chiaki"></i> Explores Chiaki's feelings and desires about Ryuseitai</li>
         <li><i class="fa-solid fa-star tetora"></i> Explores Tetora's feelings about Ryuseitai in the early days</li>
         <li><i class="fa-solid fa-star chiaki"></i> First story to show how easily sick Chiaki gets</li>
@@ -214,6 +203,8 @@ e.preventDefault();
                         <span class="charhead" character="Kaoru"></span>
                         <span class="charhead" character="Adonis"></span>
                         <span class="charhead" character="Koga"></span>
+                        <span class="charhead" character="Izumi"></span>
+                        <span class="charhead" character="Arashi"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -249,6 +240,7 @@ e.preventDefault();
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Ryuseitai's first event story</li>
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Briefly establishes a relationship between UNDEAD and Ryuseitai</li>
         <li><i class="fa-solid fa-star midori"></i> Shows a motivated and hardworking Midori in the early days</li>
+        <li><i class="fa-solid fa-star tetora"></i> First look into Tetora's potential as a leader when Chiaki isn't around</li>
         </ul>
     </article>
 </section>
@@ -691,7 +683,7 @@ e.preventDefault();
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;">Scroll for full list!</span></div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> The live show to kickstart Ryuseitai as idols and heroes</li>
-        <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores each unit member's feelings as part of Ryuseitai, their desires, hopes, prospects, etc...</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores each unit member's feelings as part of Ryuseitai, their desires, hopes, prospects, etc…</li>
         <li><i class="fa-solid fa-star kanata"></i> First look into Kanata's motivations as part of Ryuseitai</li>
         <li><i class="fa-solid fa-star midori"></i> Explores Midori's feelings about accidentally becoming an idol</li>
         <li><i class="fa-solid fa-star tetora"></i> The moment Tetora starts to reflect on his initial feelings towards Ryuseitai and warm up to them</li>
@@ -910,7 +902,7 @@ e.preventDefault();
         <div class="title">
             The Four Beasts of Fistfighting
         </div>
-        <div class="no-tl">Translation only found on Wayback<div class="tl-credit">(Translator has given permission)</div></div>
+        <div class="no-tl">Translation on Wayback<div class="tl-credit"><a href="https://healingbonds.dreamwidth.org/98674.html" class="unstyled">Translator has given permission</a></div></div>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -3655,8 +3647,8 @@ e.preventDefault();
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;">Scroll for full list!</span></div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> The story to resolve Ryuseitai's tension and complications across the first !! Era year, as well as start a whole new era for them (New unit formation)</li>
-        <li><i class="fa-solid fa-star tetora"></i> Deep dive into Tetora's character, his fears, wishes to grow stronger, backstory, determination as a hero, etc...</li>
-        <li><i class="fa-solid fa-star tetora"></i> All of Tetora's efforts coming to fruition, like his former Ryuseitai-N juniors asking for his help, Tetora confidently acting as a leader and executing his own plan, etc...</li>
+        <li><i class="fa-solid fa-star tetora"></i> Deep dive into Tetora's character, his fears, wishes to grow stronger, backstory, determination as a hero, etc…</li>
+        <li><i class="fa-solid fa-star tetora"></i> All of Tetora's efforts coming to fruition, like his former Ryuseitai-N juniors asking for his help, Tetora confidently acting as a leader and executing his own plan, etc…</li>
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores Ryuseitai's rebellion against their agency, as well as how they resolve to survive as part of ES.</li>
         <li><i class="fa-solid fa-star chiaki"></i> Chiaki opening up to Tetora and telling him about his past in Ryuseitai</li>
         <li><i class="fa-solid fa-star shinobu"></i> Shinobu's ninja expertise coming into use for a real life situation</li>
@@ -4661,5 +4653,3 @@ e.preventDefault();
 <a href="/" title="Home" target="_blank"><i class="fa fa-home"></i></a>
 <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
-
-<!--<div title="Code Credits! Thank you!" style="position:fixed;bottom:3rem;right:2rem;font-size:.85rem"><a target="_blank" href="https://southcodes.tumblr.com/">SC</a></div>-->
