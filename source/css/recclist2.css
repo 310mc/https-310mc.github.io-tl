@@ -109,6 +109,7 @@ img.storylist-image {
     margin: auto 0 auto 1rem;
     text-align: center;
     text-wrap: wrap;
+    color: rgb(68, 99, 80);
 }
 
 .second-section .no-tl {
@@ -162,6 +163,10 @@ a.unstyled:hover {
     font-weight: normal;
 }
 
+.story-summary .tl-credit {
+    text-align: center;
+}
+
 .three-wrapper {
     margin-bottom: 7px;
 }
@@ -190,19 +195,6 @@ ul.key-points {
     padding-bottom: 0.1rem;
     font-size: 1.1em;
     list-style-type: none;
-}
-
-.key-points .spoiler-text {
-    background: #3a3144;
-    color: #3a3144;
-    border-radius: 2px;
-    transition: all 0.3s;
-}
-
-.key-points .spoiler-text:hover {
-    background: none;
-    color: var(--text-color);
-    transition: all 0.3s;
 }
 
 .key-points .shinobu {
@@ -343,6 +335,7 @@ ul.key-points {
     .storylist-box {
         width: 100%;
         margin: 0;
+        min-width: 100%;
         margin-bottom: 1rem;
         height: 40rem;
         overflow: hidden;
@@ -375,7 +368,7 @@ ul.key-points {
 
 }
 
-@media only screen and (min-width:2001px) and (max-width:99999999999px) {
+@media only screen and (min-width:1850px) {
 
     .storylist-box {
         min-width: 24%;
@@ -390,9 +383,8 @@ ul.key-points {
         color: #fff;
     }
 
-    .key-points .spoiler-text {
-        background: #736f77;
-        color: #736f77;
+    .second-section .title {
+        color: #9dbe9d;
     }
 
 }

@@ -188,5 +188,10 @@
   .toolbar a {
     color: #F0C0C0;
   }
+
+  .spoiler-text {
+    background: #736f77;
+    color: #736f77;
+  }
   /** Adjustments Dark mode END **/
 }

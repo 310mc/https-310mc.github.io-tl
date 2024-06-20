@@ -74,7 +74,7 @@ e.preventDefault();
 <section style="font-size:16px;">
 <em>Welcome</em> to the Ryuseitai story reading list! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or to check what you haven't read so far). I'll start by explaining a few things.
 <ul class="list">
-<li>Stories are picked based on story and character relevance. For a full list of every character appearance, please use the filters in the translation masterlist instead: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
+<li>Stories are picked based on lore and character relevance. For a full list of every character appearance, please use the filters in the translation masterlist instead: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
 <ul class="list2"><li>Some stories have been temporarily omitted until there's an accessible translation.</li>
 <li>For stories with a long list of character appearances, they have been shortened to only the ones that interact with a Ryuseitai member.</ul>
 </li>
@@ -363,10 +363,10 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star chiaki"></i> Establishes Chiaki and Kuro's relationship</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Establishes Chiaki and Kuro's relationship and hints at their history</li>
         <li><i class="fa-solid fa-star chiaki"></i> First hint that Midori is similar to how Chiaki was in the past</li>
-        <li><i class="fa-solid fa-star tetora"></i> Expresses how Tetora warms up to Ryuseitai eventually</li>
-        <li><i class="fa-solid fa-star midori"></i> Midori's resolve to work hard</li>
+        <li><i class="fa-solid fa-star tetora"></i> Shows how Tetora warms up to Ryuseitai eventually</li>
+        <li><i class="fa-solid fa-star midori"></i> Shows Midori's resolve to work hard</li>
         </ul>
     </article>
 </section>
@@ -430,6 +430,8 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Ryuseitai helping people and other units (2wink in this case)</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Establishes 2wink and Ryuseitai's relationship</li>
         <li><i class="fa-solid fa-star tetora"></i> Highlights Tetora's strengths as a hero and a person</li>
         <li><i class="fa-solid fa-star chiaki"></i> Explores Chiaki and Tetora's relationship, especially in regards to the Red position</li>
         <li><i class="fa-solid fa-star shinobu"></i> Showcases Shinobu and Yuuta's friendship. Read Crash Course for how they became friends!</li>
@@ -495,6 +497,7 @@ e.preventDefault();
         <li><i class="fa-solid fa-star ryuseitai-color"></i> First look into Ryuseitai's future post-graduation, such as Tetora being the leader now. (Note: This story was written before Enstars decided to create the agencies)</li>
         <li><i class="fa-solid fa-star shinobu"></i> Explores Shinobu's resolve and determination as a hero</li>
         <li><i class="fa-solid fa-star midori"></i> How Midori switches from "Sengoku-kun" to "Shinobu-kun"</li>
+        <li><i class="fa-solid fa-star midori"></i> Story is related to a strawberry-picking job, which becomes relevant in later stories</li>
     </article>
 </section>
 <!-- story box end -->
@@ -680,7 +683,8 @@ e.preventDefault();
         </div>
     </div>
     <article class="story-summary">
-        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;">Scroll for full list!</span></div>
+        <div class="label">Key Points</div>
+        <div class="tl-credit">Scroll for full list!</div>
         <ul class="key-points">
         <li><i class="fa-solid fa-star ryuseitai-color"></i> The live show to kickstart Ryuseitai as idols and heroes</li>
         <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores each unit member's feelings as part of Ryuseitai, their desires, hopes, prospects, etc…</li>
@@ -817,7 +821,7 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star shinobu"></i> Spotlight on Shinobu and the ninja association through a ninja-themed performance.</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Spotlight on Shinobu and the ninja association through a ninja-themed performance</li>
         <li><i class="fa-solid fa-star shinobu"></i> Exploration of Shinobu's feelings as part of Ryuseitai, his gratitude towards them</li>
         <li><i class="fa-solid fa-star shinobu"></i> Hints about Shinobu's loneliness before meeting Ryuseitai</li>
         <li><i class="fa-solid fa-star kanata"></i> Hints about Keito and Kanata's relationship as a Student Council member and an Eccentric</li>
@@ -902,7 +906,7 @@ e.preventDefault();
         <div class="title">
             The Four Beasts of Fistfighting
         </div>
-        <div class="no-tl">Translation on Wayback<div class="tl-credit"><a href="https://healingbonds.dreamwidth.org/98674.html" class="unstyled">Translator has given permission</a></div></div>
+        <div class="no-tl">Translation on Wayback<div class="tl-credit"><a target="_blank" href="https://healingbonds.dreamwidth.org/98674.html" class="unstyled">Translator has given permission</a></div></div>
     </article>
     <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
         <div class="info-area">
@@ -946,8 +950,10 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star tetora"></i> Explores Kuro and Tetora's relationship, especially as part of the Karate Club</li>
+        <li><i class="fa-solid fa-star tetora"></i> Gives more information on how Tetora was scouted to Ryuseitai</li>
+        <li><i class="fa-solid fa-star tetora"></i> Acts as a repayment story from Tetora to Kuro before graduation</li>
+        <li><i class="fa-solid fa-star tetora"></i> Shows Tetora's growth since he first entered Yumenosaki</li>
         </ul>
     </article>
 </section>
@@ -1012,8 +1018,16 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Ryuseitai's Repayment Festival, i.e. story related to the 3rd years' graduation</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores the changes in dynamic that Ryuseitai will go through by having two members graduate, such as juniors needing to be independant and make decisions on their own</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Acts as a foundation for future stories set in !! Era</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Explores the confusing feelings each member has knowing their daily life as they know it is coming to an end and changing with graduation</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Shows a huge clash between various Ryuseitai members, and how they navigate clashing with one another because of differences</li>
+        <li><i class="fa-solid fa-star midori"></i> An in-depth look into Midori as a character, his fears, lack of motivation up until this point, as well as his relationship with his family</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Hints at Chiaki's vulnerabilities and how he's affected by loneliness</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Explores Midori and Chiaki's relationship, and how much influence Chiaki has had in Midori's life</li>
+        <li><i class="fa-solid fa-star tetora"></i> Exemplifies how different Tetora is from Chiaki, and hints that he'll be a different type of leader from him</li>
+        <li><i class="fa-solid fa-star tetora"></i> A look into Tetora's insecurities and perceived weaknesses, and how he navigates them</li>
         </ul>
     </article>
 </section>
@@ -1074,8 +1088,10 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> A story set extremely early into the year, explaining how Chiaki scouted the Ryuseitai juniors</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> A look into Chiaki's relationship with Shinobu and Midori</li>
+        <li><i class="fa-solid fa-star shinobu"></i> How Shinobu forms the ninja association</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Shows how Shinobu navigates as a socially anxious person</li>
         </ul>
     </article>
 </section>
@@ -1139,8 +1155,11 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star kanata"></i> Brief hints of Kanata's vulnerabilities</li>
+        <li><i class="fa-solid fa-star kanata"></i> Establishes Madara and Kanata's relationship</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Establishes Madara's relationship with Chiaki and Shinobu</li>
+        <li><i class="fa-solid fa-star kanata"></i> Explores Kanata's relationship with Shinobu and Chiaki in the early days of the timeline</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Explores Shinobu and Chiaki's relationship, and Shinobu's loyalty to Ryuseitai</li>
         </ul>
     </article>
 </section>
@@ -1204,8 +1223,7 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star tetora"></i> A look into Tetora leading a performance for Ryuseitai</li>
         </ul>
     </article>
 </section>
@@ -1241,7 +1259,7 @@ e.preventDefault();
                         Chapters
                     </div>
                     <div class="value">
-                        TBA FOR CROSSROAD
+                        ~4-5 chapters
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1266,8 +1284,8 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star chiaki"></i> First reveal that Chiaki wears glasses</li>
+        <li><i class="fa-solid fa-star chiaki"></i> A look into Kuro and Chiaki's relationship in the past</li>
         </ul>
     </article>
 </section>
@@ -1328,8 +1346,9 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> A look into Ryuseitai in the early days</li>
+        <li><i class="fa-solid fa-star midori"></i> Midori trying to understand and make sense of Ryuseitai</li>
+        <li><i class="fa-solid fa-star tetora"></i> Shows Tetora's feelings towards how Ryuseitai operates</li>
         </ul>
     </article>
 </section>
@@ -1389,8 +1408,8 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> A brief history of Ryuseitai as a unit</li>
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> The first reveal that Jin was involved in Ryuseitai during his school days</li>
         </ul>
     </article>
 </section>
@@ -1454,8 +1473,9 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star kanata"></i> Explores Kanata's distance from others, his feelings of TBA</li>
+        <li><i class="fa-solid fa-star kanata"></i> Explores Kanata's relationship with Kaoru, Souma, and Madara</li>
+        <li><i class="fa-solid fa-star kanata"></i> The first reveal that Kanata is a living god to his household is in ADDLINK, and this story further explores that relationship between Kanata and his household</li>
         </ul>
     </article>
 </section>
@@ -4651,5 +4671,5 @@ e.preventDefault();
 
 <div class="navigation2">
 <a href="/" title="Home" target="_blank"><i class="fa fa-home"></i></a>
-<a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+<a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

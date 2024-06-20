@@ -51,6 +51,19 @@ td, th {
 .list2 li {
     margin: 2px;
 }
+
+.spoiler-text {
+    background: #3a3144;
+    color: #3a3144;
+    border-radius: 2px;
+    transition: all 0.3s;
+}
+
+.spoiler-text:hover {
+    background: none;
+    color: var(--text-color);
+    transition: all 0.3s;
+}
 /** End posts ***/
 
 /** For Card Details ***/
