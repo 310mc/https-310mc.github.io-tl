@@ -2,7 +2,7 @@
 title: "[ES!!] Exhibition In A Blink Of An Eye"
 date: 2024-3-14 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Rei]
 - [Enstars, Mao]
@@ -1595,7 +1595,7 @@ As your first job after being discharged from the hospital, I would be extremely
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

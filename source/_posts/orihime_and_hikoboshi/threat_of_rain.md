@@ -64,12 +64,6 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /orihime_and_hikoboshi/cloudy_sky,, arrow-left, Previous Chapter: Cloudy Sky %}
-{% btn /orihime_and_hikoboshi,, star, Index %}
-{% btn /orihime_and_hikoboshi/living_sunshine,, arrow-right, Next Chapter: Living Sunshine %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1466,11 +1460,24 @@ Actually, y'know what — Both “Trickstar” and “Ryuseitai” have the word
 If we were to gather together, I'm sure *we* could become a shining, sparkling Milky Way.
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /orihime_and_hikoboshi/cloudy_sky,, arrow-left, Previous Chapter: Cloudy Sky %}
-{% btn /orihime_and_hikoboshi,, star, Index %}
-{% btn /orihime_and_hikoboshi/living_sunshine,, arrow-right, Next Chapter: Living Sunshine %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/orihime_and_hikoboshi/cloudy_sky" title="Previous Chapter: Cloudy Sky"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/orihime_and_hikoboshi" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/orihime_and_hikoboshi/living_sunshine" title="Next Chapter: Living Sunshine"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

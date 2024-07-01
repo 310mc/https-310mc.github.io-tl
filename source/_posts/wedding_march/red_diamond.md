@@ -76,12 +76,6 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /wedding_march/white_diamond,, arrow-left, Previous Chapter: White Diamond %}
-{% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1073,7 +1067,7 @@ Fufu, looking at the autumn leaves sprung something to mind.
 {% bubble Tatsumi %}
 “…Every time you smile, my heart flutters like the autumn leaves before us.”
 
-“I love you. May we continue to make wonderful memories together.”
+“I love you dearly. May we continue to make wonderful memories together.”
 {% endbubble %}
 
 <div class="msr-location">
@@ -2678,14 +2672,28 @@ Dear viewers, please do enjoy our song with us. ♪
 <th>(We turned the tables in our favor! With a huge explosion! And a grand victory! And so comes the happy ending with everyone smiling…♪)</th>
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /wedding_march/white_diamond,, arrow-left, Previous Chapter: White Diamond %}
-{% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wedding_march/white_diamond" title="Previous Chapter: White Diamond"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wedding_march/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Fruitful_OCTOBER" target="_blank">Fruitful OCTOBER</a>, Chapter 2. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^2]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Toryumon" target="_blank">Toryumon</a>.
 [^3]: A <em>yakatabune</em> specifically.

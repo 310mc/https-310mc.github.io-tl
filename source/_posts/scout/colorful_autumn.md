@@ -2,7 +2,7 @@
 title: "[ES!] Colorful Autumn"
 date: 2016-10-30 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Midori]
 - [Enstars, Kanata]
 - [Enstars, Tetora]
@@ -1872,7 +1872,7 @@ Please eat as much as you like, and enjoy yourselves…♪
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

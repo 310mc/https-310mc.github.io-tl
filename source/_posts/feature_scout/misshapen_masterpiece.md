@@ -2,7 +2,7 @@
 title: "[ES!!] Misshapen Masterpiece"
 date: 2024-3-30 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Chiaki]
 - [Enstars, Kuro]
 tags:
@@ -56,20 +56,28 @@ permalink: misshapen_masterpiece/
     </div>
 </div>
 
-<p class="storydata">Chiaki’s tracksuit got torn again in a different area. He goes to get it fixed up by the producer, only to find Kiryu in the room too…</p>
-
-<p class="releasedate"><b>Story Release Date:</b> March 30, 2024</p>
+{% note narration %}
+Chiaki’s tracksuit got torn again in a different area. He goes to get it fixed up by the producer, only to find Kiryu in the room too…
+{% endnote %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
         <div class="info">
-            <div class="info-item characters">
+            <div class="info-item characters idol-story">
                 <div class="label">
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kuro" character="Kuro"></a>
+                </div>
+            </div>
+            <div class="info-item characters story-release-date">
+                <div class="label">
+                    Story Release Date
+                </div>
+                <div class="value">
+                    March 30, 2024
                 </div>
             </div>
             <div class="info-item one">
@@ -409,7 +417,22 @@ I can already picture the smiles on their faces! Fuhahahaha…! ☆
 </div>
 </div>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 

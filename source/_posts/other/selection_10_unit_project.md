@@ -10,10 +10,12 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 tags:
-description: "[ES!!] Translation of the "Particular point of interest" and "Image of oneself" for Ryuseitai, from the Selection 10 Unit Project."
+- Extra
+description: "[ES!!] Translation of the “Particular Point of Interest” and “Image of Oneself” for Ryuseitai, from the Selection 10 Unit Project."
 permalink: selection_10_unit_project/
-hidden: true
 ---
+
+{% img /img/es/extra/selection10unitproject.jpg %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -32,10 +34,10 @@ hidden: true
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Writer
+                    Content
                 </div>
                 <div class="value">
-                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
+                    Extra
                 </div>
             </div>
             <div class="info-item two">
@@ -62,13 +64,55 @@ hidden: true
 
 ## Introduction
 
-In celebration of the 10th anniversary, producers can vote an idol to appear in upcoming new songs. During this voting campaign, producers get to hear a comment from the idols about two topics. The first one is "Particular point of interest" (What the idol is particular about during performances), and the second one is "Image of oneself" (How the idol is perceived by others). This translation will contain the comments from Ryuseitai!
+In celebration of the 10th anniversary, producers can vote an idol to appear in upcoming new songs. To help with deciding who to vote for each song, producers receive a comment from the idols about two topics.
 
-For a full explanation of this campaign, please see <a href="https://ensemble-stars.fandom.com/wiki/Selection_10_Unit_Project" target="_blank">here</a>.
+The first one is “Particular point of interest” (What the idol is particular about during performances), and the second one is “Image of oneself” (How the idol is perceived by others). This translation will contain the comments from Ryuseitai!
+
+For a full explanation of this campaign, please see <a href="https://ensemble-stars.fandom.com/wiki/Selection_10_Unit_Project" target="_blank">the Wiki</a>.
 
 ## Particular Point of Interest
 
+{% bubble Tetora fist %}
+I’m always aimin’ as best as I can for a stage that leaves an impact on everyone watching, be it through a flashy performance or anythin’ similar!
+{% endbubble %}
+
+{% bubble Midori northinking %}
+I think when I’m on stage, I try to perform while looking into the audience’s eyes, in hopes of sticking in someone’s heart…?
+{% endbubble %}
+
+{% bubble Shinobu smilesoft %}
+Why, of course I’m particular when it comes to my performances! I’m currently challenging myself to perform difficult moves that make full use of my nimble body~♪
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+In order to bring smiles to everyone’s faces, I have to start with myself first! I always make sure I don’t forget to smile, no matter the time or place!
+{% endbubble %}
+
+{% bubble Kanata smile %}
+i will do my best to deliver my [feelings] to someone’s [heart] out there, with the [power] of song~♪
+{% endbubble %}
+
 ## Image of Oneself
+
+{% bubble Tetora smilesoft %}
+Lately, I’ve been gettin’ a lot more comments from all sortsa people telling me that I’m cool. …It kinda makes me blush a li’l!
+{% endbubble %}
+
+{% bubble Midori curious %}
+Image of myself…? I get a lot of letters saying that I’m a “tall ikemen”, so maybe that’s the sort of impression my fans have of me…?[^1]
+{% endbubble %}
+
+{% bubble Shinobu fist %}
+When it comes to me, it is of course going to be “ninja”! ♪ I intend to captivate everyone with magnificent ninjutsu, presented in swift, agile moves!
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Hm, in a handshake event the other day, a little young fan told me that I’m a bright guy who gives them lots of energy. I hope other people think of me that way; it’d make me happy!
+{% endbubble %}
+
+{% bubble Kanata nod %}
+ufufu, i am often told by everyone that i have a [soothing presence]\~♪ anzu-san and i are the same, don’t you think\~?
+{% endbubble %}
 
 <div class="navigation2">
     <div class="toolbar-wrapper">
@@ -86,3 +130,7 @@ For a full explanation of this campaign, please see <a href="https://ensemble-st
         </div>
     </div>
 </div>
+
+## Translation Notes 
+
+[^1]: “Ikemen” refers to an attractive guy.

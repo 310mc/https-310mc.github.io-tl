@@ -2,7 +2,8 @@
 title: "[ES!!] Comet Show"
 date: 2021-01-08 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Ryuseitai]
 tags:
 - Event Story
@@ -95,6 +96,9 @@ permalink: comet_show/
         }
     }
 </style>
+
+<link rel="stylesheet" href="/temp/css/removewidth.css">
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/cometshow/chiakiorigcg1.jpg)"></div>

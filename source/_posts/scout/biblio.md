@@ -2,7 +2,7 @@
 title: "[ES!] Biblio"
 date: 2017-6-14 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Tsumugi]
 - [Enstars, Keito]
 - [Enstars, Hajime]
@@ -1590,12 +1590,13 @@ I look forward to things like that and hope that they'll be that way, and so… 
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Specifically, a monk who practices austerity to the point of death and mummification.
 [^2]: Keito doesn’t use any pronouns when talking about the fan work author until he says this line. But in English I needed to add a pronoun and went with “they”.
 [^3]: i.e two heads are better than one.

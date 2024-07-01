@@ -2,7 +2,9 @@
 title: "[ES!] Gang"
 date: 2018-4-14 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
+- [Enstars, 1. Era, Yumenosaki Era, Reminiscence Past]
+- [Enstars, 1. Era, Childhood Days]
 - [Enstars, Yuzuru]
 - [Enstars, Chiaki]
 - [Enstars, Kuro]
@@ -1499,12 +1501,13 @@ There will surely be a day when it all becomes useful. *Fu fu fu,* everything is
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Mika says 塵も積もれば何とやらやろ here, which is supposed to be the idiom 塵も積もれば山となる (“even a pile of trash becomes a mountain, if you keep piling it up”). Either he decided to cut it off, because he figured that Yuzuru knows the rest, or he simply forgot how the idiom is supposed to end.
 [^2]: Yuzuru uses 俺 (‘ore’) here, instead of his usual わたくし (‘watakushi’) for his pronoun. It’s a lot rougher and more boyish than what he typically uses—‘watakushi’ is quite formal, like the rest of Yuzuru’s current speech style. I believe he is trying to distance himself from his position as a butler, and fit in more with the atmosphere of the military camp. Also, while current Ibara speaks in formal speech, young Ibara speaks in typical casual speech here. He also uses 'ore', similarly to young Yuzuru.
 [^3]: This is the only moment Ibara speaks in formal speech, as it was his attempt to deceive Yuzuru into thinking he completed his squats.

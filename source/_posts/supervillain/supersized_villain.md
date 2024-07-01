@@ -60,12 +60,6 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
-{% btn /supervillain,, star, Index %}
-{% btn /supervillain/supersized_villain_p2,, arrow-right, Next Chapter: Supersized Villain (Chapter 9–15) %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-cw">
@@ -1378,14 +1372,28 @@ I say this to each and every one of you: I know that all this time, I’ve only 
 Let’s also assemble a happy ending for our reality — an ending that everyone wants to see.
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /supervillain/dark_star,, arrow-left, Previous Chapter: Dark Star %}
-{% btn /supervillain,, star, Index %}
-{% btn /supervillain/supersized_villain_p2,, arrow-right, Next Chapter: Supersized Villain (Chapter 9–15) %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/supervillain/dark_star" title="Previous Chapter: Dark Star"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/supervillain/supersized_villain_p2" title="Next Chapter: Supersized Villain (Chapter 9–15)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Combatants refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the <a href="https://kamenrider.fandom.com/wiki/Shocker_Combatmen" target="_blank">Shocker Combatmen</a> from Kamen Rider.
 [^2]: The following scene refers back to <a href="/meteor_impact" target="_blank">Meteor Impact</a>.
 [^3]: In Japanese, the word he says is <em>hangure</em>, which are groups in Japan that commit crimes, but are not affiliated with any crime syndicates (yakuza, for example).

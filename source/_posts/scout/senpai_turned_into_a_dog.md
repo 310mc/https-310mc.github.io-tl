@@ -2,7 +2,7 @@
 title: "[ES!] Zodiac – Senpai Turned Into A Dog!?"
 date: 2017-12-30 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Midori]
 - [Enstars, Keito]
 - [Enstars, Subaru]
@@ -724,7 +724,7 @@ In the end, the number one important thing is that nothing bad happened… No, a
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-1" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

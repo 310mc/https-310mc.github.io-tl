@@ -2,7 +2,7 @@
 title: "[ES!!] Midori Takamine – Idol Story 1"
 date: 2020-03-16 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 tags:
 - Idol Story

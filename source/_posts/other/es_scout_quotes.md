@@ -2,7 +2,7 @@
 title: "[ES!] 5* Scout Quotes"
 date: 2017-08-09 8:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 description: "[ES!] Ensemble Stars (Enstars) translation of the quotes that appear when you scout a 5* of the character."
 permalink: es_scout_quotes/

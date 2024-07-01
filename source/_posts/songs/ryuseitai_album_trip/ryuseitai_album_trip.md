@@ -2,7 +2,7 @@
 title: "[ES!!] Ryuseitai Album TRIP"
 date: 2024-3-6 10:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 - [Enstars, Tetora]
 - [Enstars, Midori]
@@ -74,6 +74,7 @@ permalink: ryuseitai_album_trip/
         }
     }
 </style>
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcover.jpg)"></div>
@@ -1307,7 +1308,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes 

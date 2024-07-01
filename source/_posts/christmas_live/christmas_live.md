@@ -2,7 +2,7 @@
 title: "[ES!] Christmas Live"
 date: 2015-12-25 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Ryuseitai]
 - [Enstars, 2wink]
 tags:
@@ -89,8 +89,6 @@ permalink: christmas_live/
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/removewidth.css">
-
 <style>
     .preview-wrapper {
         display: none;
@@ -101,6 +99,9 @@ permalink: christmas_live/
         }
     }
 </style>
+
+<link rel="stylesheet" href="/temp/css/removewidth.css">
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/christmaslive/yutaorigcg.jpg)"></div>

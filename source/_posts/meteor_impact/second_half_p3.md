@@ -63,12 +63,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-27">Ch 27</a> - <a href="#Chapter-28">Ch 28</a> - <a href="#Chapter-29">Ch 29</a> - <a href="#Chapter-30">Ch 30</a> - <a href="#Chapter-31">Ch 31</a> - <a href="#Chapter-32">Ch 32</a> - <a href="#Chapter-33">Ch 33</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 27
 
 <div class="msr-location">
@@ -291,7 +285,9 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(That’s why I’ve chosen to make it an S2 — a live show limited within the school premises. I did the bare minimum of advertisement for the performance, and I even chose to hold it during night-time, an inconvenient timing for students.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_1.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(I also set the tickets to an expensive price, and announced that the regulations to obtain one would be strict.)</th>
 
@@ -305,7 +301,9 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(It was impossible to get rid of their religious faith entirely, and they aren’t the type that can switch to worship a different God. That’s why it was an extra step I *had* to be sure that we completed.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_2.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(*Hah*. I must say, this is truly horrible of us. The DreamFes seems to be fair on first glance, as long as victory is declared based upon the number of votes…)</th>
 
@@ -333,7 +331,9 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(I did assume this would eventually happen, but… this change is much too drastic.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_3.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(All of you students, allow me to ask: Why have you gone this berserk?)</th>
 
@@ -367,7 +367,9 @@ Because I’m an idol! Because you let me stay as one!
 
 <th>(Those dyed in evil would lash out at each other in a fit of rage and begin to hurt one another until they fall to ruin.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch28_4.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(Isn’t this unsettling haze swirling around us that very same thing…!?)</th>
 
@@ -558,7 +560,9 @@ But y’know, I don’t dislike that about you.
 
 Even the part about you that rambles on and on about borin’ logical stuff, but as soon as somethin’ makes ya happy, it all just blows away from you.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/kurobcg.jpg %}
+
 {% bubble Kuro pastbcg %}
 It’s so naïve, and honestly, childish of you… I just can’t leave ya alone, can I? ♪
 
@@ -613,7 +617,9 @@ i see. i’m glad\~ i am very Good at Finding things. i am a god, after all~♪
 {% bubble Kanata pastsmile %}
 you would like Red, yes? i think it’s This one, here you go~♪
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_1.jpg %}
+
 {% bubble Chiaki mgnserious %}
 Yeah…… Shinkai-kun, I have a question.
 
@@ -701,9 +707,11 @@ I was going to tell you to lock yourself in this room for shelter, and just wait
 
 Once I was done, I would have escorted you back to the beach… so that I may fulfill Mikejima-san’s request.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch30_3.jpg %}
+
 {% bubble Kanata pastfrownshake %}
-……
+…………
 
 …you were planning to Substitute for me…? to go Up there, and have Rocks thrown at you in my stead?
 
@@ -1260,11 +1268,28 @@ Hasumi.
 “~…♪”
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/second_half_p2,, arrow-left, Previous Chapter: Unqualified Hero (Chapter 13-26) %}{% btn /meteor_impact,, star, Index %}{% btn /meteor_impact/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/meteor_impact/second_half_p2" title="Previous Chapter: Unqualified Hero (Chapter 13-26)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/meteor_impact/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: The Little Mermaid is <em>ningyo hime</em> 人魚姫, literally “mermaid princess”.
 [^2]: Kuro refers to Keito as <em>obocchan</em> here.
 [^3]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).

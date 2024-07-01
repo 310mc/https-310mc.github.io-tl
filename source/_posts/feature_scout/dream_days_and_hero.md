@@ -2,7 +2,7 @@
 title: "[ES!!] Dream Days and Hero"
 date: 2023-11-10 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Chiaki]
 - [Enstars, Kaoru]
 - [Enstars, Subaru]

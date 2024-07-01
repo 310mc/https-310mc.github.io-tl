@@ -2,7 +2,7 @@
 title: "[ES!!] Hinata Aoi – Idol Story 3"
 date: 2020-03-16 9:07:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Hinata]
 - [Enstars, Midori]
 tags:

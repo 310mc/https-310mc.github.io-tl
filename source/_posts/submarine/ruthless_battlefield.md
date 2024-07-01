@@ -66,12 +66,6 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-10">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn https://verdantgrove.dreamwidth.org/7838.html,, arrow-left, Previous Chapter: Prologue %}
-{% btn /submarine,, star, Index %}
-{% btn /submarine/nirai_kanai,, arrow-right, Next Chapter: Nirai-Kanai %}
-</div>
-
 ## Chapter 1
 
 <a href="https://verdantgrove.dreamwidth.org/13777.html" target="_blank"><img src="/img/es/eventstory/submarine/chsoumakeito.jpg" style="width:100%;height:100%;"></a>
@@ -1501,11 +1495,24 @@ That sort of wishy-washy stance is not the hero I’ve aspired to be since I was
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/15894.html" target="_blank">Click here to read Chapter 12!</a>**
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn https://verdantgrove.dreamwidth.org/7838.html,, arrow-left, Previous Chapter: Prologue %}
-{% btn /submarine,, star, Index %}
-{% btn /submarine/nirai_kanai,, arrow-right, Next Chapter: Nirai-Kanai %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="https://verdantgrove.dreamwidth.org/7838.html" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/submarine" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/submarine/nirai_kanai" title="Next Chapter: Nirai-Kanai"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

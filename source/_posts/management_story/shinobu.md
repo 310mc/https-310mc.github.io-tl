@@ -5,7 +5,7 @@ categories:
 - [Enstars, Shinobu]
 - [Enstars, Midori]
 - [Enstars, Mao]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff
@@ -19,9 +19,9 @@ description: "[ES!] Translation of Shinobu's Management Stories, featuring Mao a
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Mao" character="Mao"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Mao" character="Mao"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -67,11 +67,11 @@ I lost all hope and cried when I saw that it was out of stock… but when I chec
 
 I just knew I had to buy it immediately, and spent all my pocket money to obtain it!
 
-Now I'll have to survive with only scraps of food to get through the month, but I have no regrets! As soon as I see this shuriken, I’m the happiest I’ve ever been~♪
+Now I'll have to survive with only scraps of Hyorogan food to get through the month, but I have no regrets! As soon as I see this shuriken, I’m the happiest I’ve ever been~♪
 {% endbubble %}
 
 {% bubble Mao %}
-Ahh, yeah. I get that you’re super happy, but… could you move away from me a bit?
+Ahh, yeah. I get that you’re super happy, but… could you move away from my stomach a bit?
 
 The pressure’s getting kinda painful. You suddenly jumped on me, so I couldn’t prepare myself to catch you.
 {% endbubble %}
@@ -95,7 +95,7 @@ Whaa…? That sounds really fishy… You alright? You sure you aren’t being co
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ahaha, I’ll be fine~ I would know if it was a fake, even if the item was said to be genuine.
+Ahaha, I’ll be fine~ If the item was said to be authentic, even I would know it’s a scam.
 
 But it matters not if it’s fake or replica — I can love anything that is ninja-related~♪
 {% endbubble %}
@@ -119,7 +119,7 @@ Oh no no, I'm the one who's thankful that you gave me this mission.
 
 We don't have unit activities today, and I had a lot of spare time, to be honest…
 
-I'm excellent at finding items, so please do ask for my help again if you ever need it~♪
+I excel at finding items, so please do ask for my help again if you ever need it~♪
 
 However… What sort of basketball practice would cause you to launch the ball all the way over here?
 {% endbubble %}
@@ -127,7 +127,7 @@ However… What sort of basketball practice would cause you to launch the ball a
 {% bubble Midori %}
 That’s what *I* wanna know… I was told we’d have practice in the basketball court today, so I begrudgingly headed over there…
 
-Then Morisawa-senpai apparently shot the ball outside the court… Jeez, we’re not playing soccer here…
+Only to hear that Morisawa-senpai apparently shot the ball outside the court… Jeez, we’re not playing soccer here…
 {% endbubble %}
 
 {% bubble Shinobu %}

@@ -2,7 +2,7 @@
 title: "[ES!] First Dreams – Hurray for a Normal Day"
 date: 2018-12-30 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Midori]
 - [Enstars, Mao]
 - [Enstars, Basketball Club]
@@ -502,10 +502,11 @@ Today’s a day to reward myself! It’s fine if I do, yeah? I also need a day l
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-1" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Mao's using the shortened form of it, <em>amekomi.</em>

@@ -2,7 +2,7 @@
 title: "[ES!!] 8th Anniversary (In progress!)"
 date: 2023-4-28 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Tetora]
@@ -202,4 +202,19 @@ Um, but then we wouldn't really be playing by the game's rules, would we…? It'
     </div>
 </div>
 
-<div toc>{% btn /translations#Other,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

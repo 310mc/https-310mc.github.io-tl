@@ -2,7 +2,7 @@
 title: "[Song] Meteor Scramble ☆ Ryuseitai!"
 date: 2019/11/27 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -613,7 +613,7 @@ permalink: meteor_scramble_ryuseitai/
 
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes

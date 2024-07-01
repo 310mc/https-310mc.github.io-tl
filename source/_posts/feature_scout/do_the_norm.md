@@ -2,7 +2,7 @@
 title: "[ES!!] Do The Norm"
 date: 2020-08-25 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Aira]
@@ -299,8 +299,24 @@ Ughh, Shiratori-kun, don’t drag me with you… And Morisawa-senpai, you’re j
 <th>(Not to mention, how super duper rare it is to see Takamine-senpai in his school uniform next to Morisawa-senpai! Hehehe~ I made another wonderful memory to remember~♪)</th>
 {% endbubble %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: Aira is roommates with Rei and Eichi post-main story, so that might be the reason why.
 [^2]: Ryuseitai-M = Morisawa, the unit under StarPro. Ryuseitai-N = Nagumo, the unit within Yumenosaki.

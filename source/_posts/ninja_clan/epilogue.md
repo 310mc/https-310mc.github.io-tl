@@ -238,7 +238,25 @@ Of course! It’s very nice to meet you, Ayase-dono! I hope we can get along!
 I welcome you to the Ninja Association!
 {% endbubble %}
 
-<div toc>{% btn /ninja_clan/demonstrating_the_elements,, arrow-left, Previous Chapter: Demonstrating the Elements %}{% btn /ninja_clan,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/ninja_clan/demonstrating_the_elements" title="Previous Chapter: Demonstrating the Elements"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: MDM happens at the end of August and is shown in the first main story of ES!! era. During Ryuseitai's performance, there was a scene of Mayoi spotting Shinobu performing. You'll find it in part 5, chapter name Hostage.

@@ -2,7 +2,7 @@
 title: "[Song] SUPER NOVA REVOLU5TAR"
 date: 2017/8/9 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -780,12 +780,12 @@ permalink: SUPER_NOVA_REVOLU5TAR/
 <!--<div class="navigation2">
   <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
   <a target="_blank" href="/supernova" title="Index"><i class="fa fa-star"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>-->
 
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes

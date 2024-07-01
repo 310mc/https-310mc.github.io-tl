@@ -66,12 +66,6 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /aquarium/aquarium_together,, arrow-left, Previous Chapter: Going to the Aquarium Together %}
-{% btn /aquarium,, star, Index %}
-{% btn /aquarium/hanging_out_together,, arrow-right, Next Chapter: Hanging Out Together %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -844,12 +838,26 @@ Only then can we call it quits. The chain of hatred will be broken, and we may m
 After all, we, too, cannot continue wandering about in the same place endlessly.
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /aquarium/aquarium_together,, arrow-left, Previous Chapter: Going to the Aquarium Together %}
-{% btn /aquarium,, star, Index %}
-{% btn /aquarium/hanging_out_together,, arrow-right, Next Chapter: Hanging Out Together %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/aquarium/aquarium_together" title="Previous Chapter: Going to the Aquarium Together"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/aquarium/hanging_out_together" title="Next Chapter: Hanging Out Together"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Originally, he says 雨降って地固まる <em>ame futte ji katamaru</em>, which is an idiom to mean "what doesn't kill you makes you stronger". It's also used in various tokusatsu shows.

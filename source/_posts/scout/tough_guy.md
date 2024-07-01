@@ -2,7 +2,7 @@
 title: "[ES!] Tough Guy"
 date: 2015-11-15 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Tetora]
@@ -2000,7 +2000,7 @@ As you can see, I’m livin’ an insanely ridiculous life out here…♪
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

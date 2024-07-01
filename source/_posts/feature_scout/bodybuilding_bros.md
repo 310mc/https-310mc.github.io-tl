@@ -2,7 +2,7 @@
 title: "[ES!!] Together, We Are the Bodybuilding Bros!"
 date: 2021-7-10 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Tetora]
 - [Enstars, Jun]
 - [Enstars, Midori]

@@ -5,7 +5,7 @@ categories:
 - [Enstars, Madara]
 - [Enstars, Mitsuru]
 - [Enstars, Chiaki]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff

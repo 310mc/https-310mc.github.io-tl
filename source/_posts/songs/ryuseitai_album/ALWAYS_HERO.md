@@ -2,7 +2,7 @@
 title: "[Song] TBA – TBA"
 date: 2024/3/21 9:03:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Chiaki]
 tags:
 - Song Lyrics

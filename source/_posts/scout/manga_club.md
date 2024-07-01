@@ -2,7 +2,7 @@
 title: "[ES!!] Manga Club"
 date: 2023-5-14 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Jun]
 - [Enstars, Mao]
@@ -1842,12 +1842,13 @@ How about we move to the common room and talk all about it while eating snacks? 
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Unfortunately, I wasn't sure which manga some of them were referencing, so I'll only note the ones that I'm sure of.
 [^2]: This is referencing Chiikawa.
 [^3]: This is possibly referencing Shingeki no Kyojin (Attack on Titan).

@@ -60,11 +60,6 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a>
 
-<div toc>
-{% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}
-{% btn /comet_show,, star, Index %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -102,7 +97,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% endbubble %}
 
 {% bubble Kanata smilesoft2 %}
-<th>(……………)</th>
+<th>(…………)</th>
 {% endbubble %}
 
 {% bubble Tetora idle %}
@@ -480,7 +475,7 @@ Man… I can’t even imagine how great it could’ve been if we could all live 
 {% endbubble %}
 
 {% bubble Kanata serious %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -848,7 +843,7 @@ I just can’t stand the thought of this being our last time together.
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -918,7 +913,7 @@ You’re all way, *way* more important to me than that.
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Midori idle %}
@@ -978,7 +973,7 @@ That’s exactly why I want to ask this one favor from you: Until the day comes 
 {% endbubble %}
 
 {% bubble Tetora serious %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Chiaki idle %}
@@ -1028,7 +1023,7 @@ What’s important here isn’t the color of our clothes — It’s if you guys 
 {% endbubble %}
 
 {% bubble Tetora sad2 %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Chiaki idle %}
@@ -1222,7 +1217,7 @@ If you still have the will to be the next leader by then, I would like to do an 
 {% endbubble %}
 
 {% bubble Tetora serious %}
-……………
+…………
 {% endbubble %}
 
 {% bubble Chiaki idle %}
@@ -1317,10 +1312,23 @@ No matter what the future has in store for us, and even if we can only stay this
 “♪\~♪\~♪”
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /comet_show/second_half,, arrow-left, Previous Chapter: Week-end at the Aquarium %}
-{% btn /comet_show,, star, Index %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/comet_show/second_half" title="Previous Chapter: Week-end at the Aquarium"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/comet_show" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

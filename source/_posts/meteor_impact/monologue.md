@@ -250,10 +250,24 @@ but please, do listen. please, know and understand — about the hero who saved 
 once upon a time… a Meteorite fell down in some place—
 {% endbubble %}
 
-<div toc>
-{% btn /meteor_impact/first_half_p2,, arrow-left, Previous Chapter: Meteor Impact - Two Years Ago: Not Quite A Hero %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/second_half_p1,, arrow-right, Next Chapter: One Year Ago: Unqualified Hero (Chapter 1-12) %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/meteor_impact/first_half_p2" title="Previous Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/meteor_impact/second_half_p1" title="Next Chapter: One Year Ago: Unqualified Hero (Chapter 1-12)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

@@ -377,6 +377,25 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 
 <big>Click <b><a href="/stella_maris/hidden_island_p2#Chapter-10" target="_blank">here</a></b> to go back to the main translation.</big>
 
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/stella_maris/hidden_island_p2" title="Next Chapter: hidden island (Chapter 6–11)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
+
 ## Translation Notes
 
 [^1]: Gunkanjima, meaning “Battleship Island”, is an abandoned island that became a tourist attraction. See more <a href="https://en.wikipedia.org/wiki/Hashima_Island" target="_blank">here</a>.

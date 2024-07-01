@@ -321,6 +321,22 @@ Yep, exactly! Ah—but we still need to make sure we appeal the charm correctly.
 That’s how you’ll see a glimmer of light at the end of the tunnel!
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
-{% btn /ninja_clan/grasping_for_something,, arrow-left, Previous Chapter: Grasping for Something %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/demonstrating_the_elements,, arrow-right, Next Chapter: Demonstrating the Elements %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/ninja_clan/grasping_for_something" title="Previous Chapter: Grasping for Something"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/ninja_clan/demonstrating_the_elements" title="Next Chapter: Demonstrating the Elements"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

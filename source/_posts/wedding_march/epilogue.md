@@ -142,7 +142,7 @@ Ahaha! That one was really unfair~
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-I-I really like you! My miso—
+I-I love you! My miso—
 {% endbubble %}
 
 {% img /img/es/eventstory/weddingmarch/ep_3.jpg %}
@@ -231,9 +231,23 @@ Fuhahahaha! ☆ You aren’t going anywhere, Yuuki! Not until you give a confess
 No, no! Please don’t say it in such a misleading wayyy~!
 {% endbubble %}
 
-<div toc>
-{% btn /wedding_march/red_diamond,, arrow-left, Previous Chapter: Red Diamond %}
-{% btn /wedding_march,, star, Index %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wedding_march/red_diamond" title="Previous Chapter: Red Diamond"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

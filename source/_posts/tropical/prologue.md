@@ -293,9 +293,23 @@ Aight! I’ll be the one in charge of it then!
 So, which are you guys choosing?
 {% endbubble %}
 
-<div toc>
-{% btn /tropical,, star, Index %}
-{% btn /tropical/reborn,, arrow-right, Next Chapter: Reborn! %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/tropical/reborn" title="Next Chapter: Reborn!"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

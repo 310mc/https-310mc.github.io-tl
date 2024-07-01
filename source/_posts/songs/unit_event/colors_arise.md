@@ -2,7 +2,8 @@
 title: "[Song] Colors Arise"
 date: 2023/1/31 8:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -846,7 +847,7 @@ permalink: colors_arise/
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
   <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes 

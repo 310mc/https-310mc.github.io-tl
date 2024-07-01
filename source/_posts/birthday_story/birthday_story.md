@@ -2,8 +2,8 @@
 title: "Birthday Story Directory"
 date: 2021/9/20 9:00:00
 categories:
-- [Enstars, ES!]
-- [Enstars, ES!!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
+- [Enstars, 1. Era, ES Era, Year 1]
 tags:
 - Birthday Story
 - Happy Elements Staff

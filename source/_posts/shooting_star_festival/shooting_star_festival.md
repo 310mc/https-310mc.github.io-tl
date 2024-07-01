@@ -2,7 +2,7 @@
 title: "[ES!] Shooting Star Festival (No Translation)"
 date: 2017-7-10 9:10:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Ryuseitai]
 - [Enstars, Valkyrie]
 tags:
@@ -100,6 +100,9 @@ permalink: shooting_star_festival/
         }
     }
 </style>
+
+<link rel="stylesheet" href="/temp/css/removewidth.css">
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/shootingstarfestival/shuorigcg.jpg)"></div>

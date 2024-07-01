@@ -2,7 +2,7 @@
 title: "[Song] RELAX PARADISE"
 date: 2023/6/30 8:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -175,11 +175,11 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td class="lyrics">Then join our adventure, it’s all about</td>
+    <td class="lyrics">Then let's go on a relaxing adventure where we</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td class="lyrics">hunting for</td>
+    <td class="lyrics">hunt for</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -518,11 +518,11 @@ permalink: RELAX_PARADISE/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td class="lyrics">Then join our adventure, it’s all about</td>
+    <td class="lyrics">Then let's go on a relaxing adventure where we</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td class="lyrics">hunting for</td>
+    <td class="lyrics">hunt for</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -1057,7 +1057,7 @@ permalink: RELAX_PARADISE/
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
   <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes

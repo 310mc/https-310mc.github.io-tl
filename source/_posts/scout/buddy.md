@@ -2,7 +2,7 @@
 title: "[ES!] Buddy"
 date: 2018-7-30 9:0:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Chiaki]
 - [Enstars, Midori]
 - [Enstars, Shinobu]
@@ -1445,7 +1445,7 @@ Now, come on! Let me take you back home today, Anzu-san~♪ Accept me as your bu
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

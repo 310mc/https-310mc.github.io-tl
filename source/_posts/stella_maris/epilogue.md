@@ -512,7 +512,7 @@ It’s exactly because they’ve obtained the sparkling stars that they once wis
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

@@ -9,7 +9,7 @@ categories:
 - [Enstars, Shinobu]
 - [Enstars, Kanata]
 - [Enstars, Yuta]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff

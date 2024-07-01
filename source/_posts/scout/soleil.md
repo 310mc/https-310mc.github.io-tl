@@ -2,7 +2,7 @@
 title: "[ES!!] Soleil (Chapter 1 Only!)"
 date: 2021-10-30 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Mitsuru]
 - [Enstars, Tsumugi]

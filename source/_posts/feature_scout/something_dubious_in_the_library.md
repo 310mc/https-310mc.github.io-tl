@@ -2,7 +2,7 @@
 title: "[ES!!] Something Dubious in the Library"
 date: 2020-10-25 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Chiaki]
 - [Enstars, Hajime]
 - [Enstars, Tsumugi]
@@ -378,7 +378,23 @@ Thank you. I’ll tell Morisawa-senpai about it later.
 </div>
 </div>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: Originally, he says ES <em>biru</em> (building) will become ES <em>debiru</em> (devil). Thank you <a href="https://twitter.com/haranami_" target="_blank">haranami</a> for the localization!

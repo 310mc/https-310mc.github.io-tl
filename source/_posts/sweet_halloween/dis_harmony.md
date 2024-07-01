@@ -70,12 +70,6 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /sweet_halloween/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /sweet_halloween,, star, Index %}
-{% btn /sweet_halloween/sweet_home,, arrow-right, Next Chapter: sweet home %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1030,11 +1024,24 @@ I won’t ever say no to your choice. It’s you who should decide what to do wi
 So, what do *you* want to do? You’ve been given plenty of choices, so think closely about which route you’ll take!
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /sweet_halloween/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /sweet_halloween,, star, Index %}
-{% btn /sweet_halloween/sweet_home,, arrow-right, Next Chapter: sweet home %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/sweet_halloween/prologue" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/sweet_halloween/sweet_home" title="Next Chapter: sweet home (Chapter 1–6)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

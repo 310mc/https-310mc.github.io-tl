@@ -18,7 +18,7 @@ hidden: true
     * icons by https://fontawesome.com/
     * filter js by https://magnusthemes.tumblr.com
  -->
-<link rel="stylesheet" href="/css/recclist2.css">
+<link rel="stylesheet" href="/temp/css/recclist2.css">
 <script src="https://kit.fontawesome.com/0993e30c04.js" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
@@ -1666,8 +1666,8 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star chiaki"></i> Chiaki being an attentive senior to a non-Ryuseitai junior, Hinata</li>
+        <li><i class="fa-solid fa-star midori"></i> The story has a voice clip for one of Midori's Ryusei Green catchphrase variations</li>
         </ul>
     </article>
 </section>
@@ -1795,8 +1795,10 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Fun "fictional" story where Ryuseitai are actual Meteor Rangers in outer space, protecting the peace of the galaxy!</li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Heroes VS Villains story between Ryuseitai VS Student Council (+ Wataru)</li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Also has a retro shoot 'em up mini-game in Enstars Basic</span></li>
+        <li><i class="fa-solid fa-star chiaki"></i> Eichi helping Chiaki making one of his dreams come true</li>
         </ul>
     </article>
 </section>
@@ -1824,6 +1826,7 @@ e.preventDefault();
                         <span class="charhead" character="Kuro"></span>
                         <span class="charhead" character="Yuzuru"></span>
                         <span class="charhead" character="Mika"></span>
+                        <span class="charhead" character="Ibara"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1856,8 +1859,9 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star chiaki"></i> Explores Chiaki and Kuro's relationship in their 2nd year and present year</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Gives more insight on Chiaki's time when he was bullied, and how Kuro tried to help him</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Shows Chiaki's tokusatsu nerdy side and pragmatic outlook within the same chapters</li>
         </ul>
     </article>
 </section>
@@ -1889,6 +1893,7 @@ e.preventDefault();
                         <span class="charhead" character="Tomoya"></span>
                         <span class="charhead" character="Wataru"></span>
                         <span class="charhead" character="Sora"></span>
+                        <span class="charhead" character="Kaoru"></span>
                     </div>
                 </div>
                 <div class="info-item one">
@@ -1921,8 +1926,8 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> The ONLY event story Ryuseitai has that's set in Spring (early days)</li>
+        <li><i class="fa-solid fa-star tetora"></i> Shows how Tetora ADJUST</li>
         </ul>
     </article>
 </section>
@@ -1988,8 +1993,13 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Junior-focused story, where they are guided by Trickstar instead</li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Juniors have an eye-opening experience about their dependance, and how that leads them to develop their own independancy</li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> Explores Ryuseitai member's feelings as part of the unit and how they're warming up to their place</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Displays Shinobu's strengths as a ninja and Ryuseitai member</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Explores Shinobu and Mao's relationship</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Establishes Midori and Subaru's relationship</li>
+        <li><i class="fa-solid fa-star shinobu"></i> Displays Shinobu's strengths as a ninja and Ryuseitai member</li>
         </ul>
     </article>
 </section>
@@ -2049,8 +2059,10 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star kanata"></i> Showcases what being a hero means to Kanata during his early days as a third year</li>
+        <li><i class="fa-solid fa-star kanata"></i> Explores Keito and Kanata's relationship in relation to the War</li>
+        <li><i class="fa-solid fa-star kanata"></i> A display of Kanata's mindset and philosophy about the world, and how he wishes to repay kindness with kindness</li>
+        <li><i class="fa-solid fa-star kanata"></i> Rare Kanata interactions with Kuro and Ritsu</li>
         </ul>
     </article>
 </section>
@@ -2110,8 +2122,9 @@ e.preventDefault();
     <article class="story-summary">
         <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
         <ul class="key-points">
-        <li><i class="fa-solid fa-star tetora"></i> test TBA</li>
-        <li><i class="fa-solid fa-star chiaki"></i> test test <span class="spoiler-text">hellooo</span></li>
+        <li><i class="fa-solid fa-star ryuseitai"></i> A light-hearted, silly story of some Ryuseitai members during summer break</li>
+        <li><i class="fa-solid fa-star chiaki"></i> Chiaki learning that he can spend his time with his Ryuseitai juniors if he wants to</li>
+        <li><i class="fa-solid fa-star chiaki"></i> A little bit of Chiaki's family mentioned</li>
         </ul>
     </article>
 </section>

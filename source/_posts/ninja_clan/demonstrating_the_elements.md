@@ -634,9 +634,25 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 “Do any of you wish to join me in being a ninja~!? Please come on over to the Ninja Association at Yumenosaki Academy for more information!”
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-1,, arrow-up, Back to Top %}</div>
-{% btn /ninja_clan/feeling_hopeful,, arrow-left, Previous Chapter: Feeling Hopeful %}{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/ninja_clan/feeling_hopeful" title="Previous Chapter: Feeling Hopeful"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/ninja_clan/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 

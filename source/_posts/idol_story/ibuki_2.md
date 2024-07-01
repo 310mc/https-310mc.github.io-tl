@@ -2,7 +2,7 @@
 title: "[ES!!] Ibuki Taki – Idol Story 2"
 date: 2024-04-28 9:01:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ibuki]
 - [Enstars, Hiiro]
 - [Enstars, Tetora]

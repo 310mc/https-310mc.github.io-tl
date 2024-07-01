@@ -2,7 +2,7 @@
 title: "[ES!!] Kanata Shinkai – Idol Story 2"
 date: 2020-03-16 9:10:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Kanata]
 tags:
@@ -245,7 +245,22 @@ fufu, i will [practice] signing one, then.
 i think we will have a lot of fun [promoting] the aquarium with you around, midori. *puka! ☆ <th>(sideways peace)</th>*
 {% endbubble %}
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 

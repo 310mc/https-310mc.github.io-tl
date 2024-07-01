@@ -66,12 +66,6 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /wedding_march/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1344,14 +1338,28 @@ Ah… Yeah, let’s move on. Some of us here have work in the evening, so…
 Let’s focus on the meeting for now. We’ll work out the details ‘til we finalize a project that’ll make everyone involved happy~♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /wedding_march/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /wedding_march,, star, Index %}
-{% btn /wedding_march/red_diamond,, arrow-right, Next Chapter: Red Diamond %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wedding_march/prologue" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wedding_march/red_diamond" title="Next Chapter: Red Diamond"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: A link to <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
 [^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu’s card</a>.
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea’s Atelier</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

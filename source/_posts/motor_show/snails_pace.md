@@ -64,9 +64,6 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a>
 
-<div toc>
-{% btn /motor_show/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /motor_show,, star, Index %}{% btn /motor_show/muddy_road,, arrow-right, Next Chapter: Muddy Road %}</div>
-
 ## Chapter 1
 
 <div class="msr-cw">
@@ -95,7 +92,7 @@ Ossu! Ossuossu—oooossu! OOOOOOOOO—SSU!
 {% endbubble %}
 
 {% bubble Hiiro %}
-…Buchou, you speak too much while you’re doing a set of <em>kumite</em>[^5], don’t you think…?
+…Buchou, you speak too much while you’re doing a set of <em>kumite</em>[^1], don’t you think…?
 
 It’s too dangerous to speak right now; we’re both moving rather intensely. You’ll accidentally bite your tongue if you get hit on the jaw, you know?
 {% endbubble %}
@@ -131,7 +128,7 @@ Like, you seem to have done a type of combat sport I’ve never heard of before 
 {% endbubble %}
 
 {% bubble Hiiro %}
-Yes, it was called the *Fist of Amaterasu Oomikami*.[^6]
+Yes, it was called the *Fist of Amaterasu Oomikami*.[^2]
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -183,7 +180,7 @@ Eeek!?
 {% endbubble %}
 
 {% bubble Shinobu %}
-Huh?! Don’t speak of something so terrifying! Taichou-dono[^7] would faint if he heard you!
+Huh?! Don’t speak of something so terrifying! Taichou-dono would faint if he heard you![^3]
 
 Ah— I meant <em>Morisawa</em>-dono when I said that!
 
@@ -893,7 +890,7 @@ What’re you referring to by “a kid’s dream”?
 {% bubble Shinobu %}
 Ahhh, from what I know, the person who’s been giving him a lot of jobs lately is a multi-millionaire’s daughter.
 
-Apparently, she fell in love at first sight when Midori-kun and I had the job that introduced strawberry picking[^8] to people—
+Apparently, she fell in love at first sight when Midori-kun and I had the job that introduced strawberry picking to people—[^4]
 {% endbubble %}
 
 {% bubble Midori sigh %}
@@ -966,13 +963,29 @@ But… I really dunno what I gotta do to become an adult…
 ………
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /motor_show/prologue,, arrow-left, Previous Chapter: Prologue %}{% btn /motor_show,, star, Index %}{% btn /motor_show/muddy_road,, arrow-right, Next Chapter: Muddy Road %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/motor_show/prologue" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/motor_show/muddy_road" title="Next Chapter: Muddy Road"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 
-[^5]: This is about <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">Kumite</a>, a karate term.
-[^6]: This is referring to <a href="https://en.wikipedia.org/wiki/Amaterasu" target="_blank">Amaterasu</a> is the goddess of the sun in Japanese mythology.
-[^7]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
-[^8]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Strawberry_Colored_Holiday" target="_blank">Strawberry Colored Holiday</a>.
+[^1]: This is about <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">Kumite</a>, a karate term.
+[^2]: This is referring to <a href="https://en.wikipedia.org/wiki/Amaterasu" target="_blank">Amaterasu</a> is the goddess of the sun in Japanese mythology.
+[^3]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
+[^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Strawberry_Colored_Holiday" target="_blank">Strawberry Colored Holiday</a>.

@@ -2,10 +2,10 @@
 title: "[ES!!] Manly Back"
 date: 2023-3-10 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Tetora]
 - [Enstars, Arashi]
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 tags:
 - Idol Story
 - Nishioka Maiko
@@ -278,7 +278,7 @@ But in the end, I just wanna give somethin’ that’d make the person happy! So
 {% endbubble %}
 
 {% bubble Arashi %}
-…You’re incredible, Tetora-kun.
+…You’re pretty impressive, aren’t you, Tetora-kun.
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -372,7 +372,22 @@ Mhm, I’m coming, Tetora-kun!
 </div>
 </div>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 

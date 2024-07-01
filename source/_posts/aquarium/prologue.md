@@ -191,10 +191,25 @@ please take it. it is your [reward] for being a hard worker.
 now then, let's keep going. if you do not return home soon, the people at home will [worry] for you… anzu-san.
 {% endbubble %}
 
-<div toc>
-{% btn /aquarium,, star, Index %}
-{% btn /aquarium/aquarium_together,, arrow-right, Next Chapter: Going to the Aquarium Together %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/aquarium/aquarium_together" title="Next Chapter: Going to the Aquarium Together"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: The word Kanata uses for “monster” is <em>kaijin</em> 怪人, which is also a term in tokusatsu to refer to characters who are antagonistic humanoids (villains). You can find more info <a href="https://kaijin.fandom.com/wiki/Kaijin_Wikia" target="_blank">here</a>.

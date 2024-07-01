@@ -70,12 +70,6 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /sweet_halloween/sweet_home_p2,, arrow-left, Previous Chapter: sweet home (Chapter 7–11) %}
-{% btn /sweet_halloween,, star, Index %}
-{% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -966,14 +960,28 @@ So this is my turn, basically.
 T-Tomoya-kun…♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /sweet_halloween/sweet_home_p2,, arrow-left, Previous Chapter: sweet home (Chapter 7–11) %}
-{% btn /sweet_halloween,, star, Index %}
-{% btn /sweet_halloween/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/sweet_halloween/sweet_home_p2" title="Previous Chapter: sweet home (Chapter 7–11)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/sweet_halloween/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=lQK7kjMmTqg" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
 [^2]: Out of fear, Chiaki switches to talking more politely with: <b>“Takamine-kun”:</b> a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and <b>“~shite kureru?”:</b> a polite way to request something (“Could you please~”)
 [^3]: This is <a href="https://kamenrider.fandom.com/wiki/Dr._Shinigami" target="_blank">Doctor Shinigami</a>. He appeared in <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a>, which aired back in 1971.

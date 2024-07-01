@@ -3,7 +3,7 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
-<link rel="stylesheet" href="/css/removewidth.css">
+<link rel="stylesheet" href="/temp/css/removewidth.css">
 
 ## Translation Usage
 
@@ -1526,5 +1526,5 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 <div class="navigation2">
     <a target="_blank" href="/" title="Home"><i class="fa fa-home"></i></a>
-    <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+    <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

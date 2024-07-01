@@ -2,8 +2,9 @@
 title: "Mini Talks Directory"
 date: 2023/3/5 9:00:00
 categories:
-- [Enstars, ES!]
-- [Enstars, ES!!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
+- [Enstars, 1. Era, ES Era, Year 1]
+- [Enstars, 1. Era, ES Era, Year 2]
 tags:
 - Mini Talk
 - Story Index

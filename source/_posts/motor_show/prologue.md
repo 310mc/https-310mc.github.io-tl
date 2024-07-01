@@ -191,9 +191,27 @@ On the other hand, I *do* feel as though all our efforts would be in vain if we 
 Ahaha, things aren’t going well for the both of us, huh…♪
 {% endbubble %}
 
-<div toc>{% btn /motor_show,, star, Index %}{% btn /motor_show/snails_pace,, arrow-right, Next Chapter: Progress at a Snail’s Pace %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/motor_show/snails_pace" title="Next Chapter: Progress at a Snail’s Pace"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: “Taishou” here refers to Kuro. Tetora calls him by this title out of respect. It means “chief”, “boss”.
 [^2]: Hiiro originally says <em>gunpai</em>, a fan used in sumo wrestling matches to determine the winner.
 [^3]: “Buchou” means club captain/president.

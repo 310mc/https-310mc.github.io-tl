@@ -2,7 +2,8 @@
 title: "[ES!] Meteor Impact"
 date: 2019-04-10 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
+- [Enstars, 1. Era, Yumenosaki Era, Reminiscence Past]
 - [Enstars, Five Eccentrics]
 - [Enstars, Ryuseitai]
 - [Enstars, Akatsuki]
@@ -77,7 +78,7 @@ permalink: meteor_impact/
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in P1Ch6 & 8-12 + P2Ch5 only, <a href="/about">310mc</a> & haranami in P2Ch6&7 only
+                            <a href="/about"><b>310mc (Main translator of the story)</b></a><br><a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in P1Ch6 & 8-12 + P2Ch5 only, <a href="/about">310mc</a> & haranami in P2Ch6&7 only
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -85,7 +86,7 @@ permalink: meteor_impact/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
+                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a><br><a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
                         </div>
                     </div>
                 </div>
@@ -106,6 +107,7 @@ permalink: meteor_impact/
         }
     }
 </style>
+<link rel="stylesheet" href="/temp/css/removewidth.css">
 
 <div class="msr-cw">
     <span><b>Content Warning</b></span>
@@ -180,7 +182,7 @@ permalink: meteor_impact/
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about"><b>310mc (Main translator of the story)</b></a>. <a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in P1Ch6 & 8-12 + P2Ch5 only, <a href="/about">310mc</a> & haranami in P2Ch6&7 only
+                            <a href="/about"><b>310mc (Main translator of the story)</b></a><br><a href="/about">310mc</a> & <a href="https://twitter.com/sunsunrainys">emu</a> in P1Ch6 & 8-12 + P2Ch5 only, <a href="/about">310mc</a> & haranami in P2Ch6&7 only
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -188,7 +190,7 @@ permalink: meteor_impact/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a>. <a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
+                            <a href="https://ensemble-stars.fandom.com/wiki/User:SayonaraRevival"><b>SayonaraRevival (Main proofreader of the story)</b></a><br><a href="https://twitter.com/seiginoakashi">Nanashi</a> in Prologue only, <a href="https://twitter.com/goldgust">Goldgust</a> & Shie in Prologue + P1Ch1-4 only, <a href="https://ensemble-stars.fandom.com/wiki/User:Revoltrad">Revoltrad</a> in P1Ch17-18 only
                         </div>
                     </div>
                 </div>
@@ -283,195 +285,6 @@ permalink: meteor_impact/
                                 </div>
                                 <div class="caption">
                                   Unqualified Hero 33
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="story-cards">
-                    <div class="tab-header">
-                        <div class="tab-header__name">Associated Cards</div>
-                    </div>
-                    <div class="tab-content">
-                        <div class="cards">
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakicard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/chiakibcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/midoricard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/midoribcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatacard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/kanatabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/tetoracard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/tetorabcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="cards-item">
-                                <div class="image">
-                                    <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobucard.jpg">
-                                    </div>
-                                    <div class="single bloomed">
-                                        <img src="/img/es/eventstory/eventname/shinobubcard.jpg">
-                                    </div>
-                                    <div class="quotes__wrapper">
-                                        <div class="quotes">
-                                            <div class="unbloomed"><!--TBA--></div>
-                                            <div class="bloomed"><!--TBA--></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="lightbox">
-                                    <div class="card__name">[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
-                                    <div class="skills">
-                                        <ul>
-                                            <li id="center">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="live">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                            <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
-                                                <div class="desc"></div>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
                         </div>

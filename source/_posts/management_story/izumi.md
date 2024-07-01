@@ -4,7 +4,7 @@ date: 2019-10-26 9:10:00
 categories:
 - [Enstars, Izumi]
 - [Enstars, Chiaki]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff
@@ -18,8 +18,8 @@ description: "[ES!] Translation of Izumi's Management Stories, featuring Chiaki.
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Izumi" character="Izumi"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Izumi" character="Izumi"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">

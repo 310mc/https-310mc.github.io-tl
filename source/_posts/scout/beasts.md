@@ -2,7 +2,7 @@
 title: "[ES!] Beasts"
 date: 2018-3-14 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Arashi]
 - [Enstars, Tetora]
 - [Enstars, Midori]
@@ -1591,12 +1591,13 @@ Just like <em>her</em>. First things first: I gotta start learning to love that 
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
 
 ## Translation Notes
+
 [^1]: Originally, Ritsu says “You won’t get anywhere playing Shogi with an animal.”
 [^2]: Originally, Madara refers to his sister as a <a href="https://en.wikipedia.org/wiki/Hikikomori" target="_blank">Hikikomori</a>, which is a term to refer to people who are withdrawn from society, especially in public.
 [^3]: Okama is a Japanese derogatory term used towards effeminate men.

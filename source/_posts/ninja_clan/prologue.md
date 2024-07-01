@@ -183,7 +183,25 @@ O-Oh… Alright, thank you, Sengoku. I-I’ll bite the bullet, then.
 Aaack!? He fainteeeddd!? G-Get a hold of yourself, Sengokuuu!!!
 {% endbubble %}
 
-<div toc>{% btn /ninja_clan,, star, Index %}{% btn /ninja_clan/its_all_over,, arrow-right, Next Chapter: It's All Over %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/ninja_clan/its_all_over" title="Next Chapter: It's All Over"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: Shinobu is the treasurer of the current Student Council.

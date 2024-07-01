@@ -57,8 +57,6 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 <!-- more -->
 
-<div id="Chapter-Index"></div>
-
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -319,7 +317,7 @@ Kya-kya! ☆ Kya-kya! ☆
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
             <a href="/stella_maris/hidden_island" title="Next Chapter: hidden island"><i class="fa fa-arrow-right"></i></a>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

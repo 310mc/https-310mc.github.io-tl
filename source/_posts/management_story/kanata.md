@@ -4,7 +4,7 @@ date: 2019-10-26 9:10:00
 categories:
 - [Enstars, Kanata]
 - [Enstars, Tetora]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff

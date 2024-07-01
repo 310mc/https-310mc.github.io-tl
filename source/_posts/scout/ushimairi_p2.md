@@ -2,7 +2,7 @@
 title: "[ES!!] Ushimairi, Part Two (On Hold)"
 date: 2021-1-14 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, ALKALOID]
 - [Enstars, Yuzuru]
 - [Enstars, Chiaki]
@@ -835,7 +835,7 @@ This translation is **on hold**. Due to the official version having been release
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

@@ -66,12 +66,6 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /submarine/nirai_kanai,, arrow-left, Previous Chapter: Nirai-Kanai %}
-{% btn /submarine,, star, Index %}
-{% btn https://verdantgrove.dreamwidth.org/18078.html,, arrow-right, Next Chapter: Epilogue 3 %}
-</div>
-
 ## Chapter 1
 
 {% img /img/es/eventstory/submarine/epch1_1.jpg %}
@@ -356,14 +350,28 @@ If they take any longer, we’ll end up stealing the limelight!
 “♪\~♪\~♪”
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /submarine/nirai_kanai,, arrow-left, Previous Chapter: Nirai-Kanai %}
-{% btn /submarine,, star, Index %}
-{% btn https://verdantgrove.dreamwidth.org/18078.html,, arrow-right, Next Chapter: Epilogue 3 %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/submarine/nirai_kanai" title="Previous Chapter: Nirai-Kanai"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/submarine" title="Index"><i class="fa fa-star"></i></a>
+            <a href="https://verdantgrove.dreamwidth.org/18078.html" title="Next Chapter: Epilogue 3"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes
+
 [^1]: “Mensoore” is an Okinawan greeting.
 [^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses the first-person pronoun <em>boku</em> here, instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself).
 [^3]: Referring to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.

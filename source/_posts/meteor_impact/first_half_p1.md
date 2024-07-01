@@ -59,12 +59,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1481,11 +1475,24 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
 …?
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/first_half_p2,, arrow-right, Next Chapter: Two Years Ago: Not Quite A Hero (Chapter 9-17) %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/meteor_impact/prologue" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/meteor_impact/first_half_p2" title="Next Chapter: Not Quite A Hero (Chapter 9-17)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

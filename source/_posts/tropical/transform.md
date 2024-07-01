@@ -60,12 +60,6 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
-{% btn /tropical,, star, Index %}
-{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -878,11 +872,24 @@ it would be [mean] to only be watching from afar, yes? how about we join them in
 Okay, let’s…♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /tropical/reborn,, arrow-left, Previous Chapter: Reborn! %}
-{% btn /tropical,, star, Index %}
-{% btn /tropical/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/tropical/reborn" title="Previous Chapter: Reborn!"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/tropical/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

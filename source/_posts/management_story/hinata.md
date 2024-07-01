@@ -5,7 +5,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Hinata]
 - [Enstars, Midori]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff

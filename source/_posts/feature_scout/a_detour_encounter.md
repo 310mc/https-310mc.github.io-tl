@@ -2,7 +2,7 @@
 title: "[ES!!] A Detour Encounter"
 date: 2021-2-10 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Tori]
 - [Enstars, Jun]
 - [Enstars, Midori]

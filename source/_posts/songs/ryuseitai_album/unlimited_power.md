@@ -2,7 +2,7 @@
 title: "[Song] Unlimited☆Power!!!!!"
 date: 2024/3/6 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Tetora]
 - [Enstars, Midori]
 - [Enstars, Chiaki]

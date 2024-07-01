@@ -2,7 +2,7 @@
 title: "[ES!!] True To Myself, Taking A Step Forward"
 date: 2024-4-25 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Midori]
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]

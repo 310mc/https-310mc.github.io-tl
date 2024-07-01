@@ -2,7 +2,8 @@
 title: "[ES!!] Supervillain"
 date: 2023-02-08 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Event Story
@@ -88,8 +89,6 @@ permalink: supervillain/
 
 <!-- more -->
 
-<link rel="stylesheet" href="/css/removewidth.css">
-
 <style>
     .preview-wrapper {
         display: none;
@@ -100,6 +99,9 @@ permalink: supervillain/
         }
     }
 </style>
+
+<link rel="stylesheet" href="/temp/css/removewidth.css">
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/supervillain/tetoraorigcg.jpg)"></div>

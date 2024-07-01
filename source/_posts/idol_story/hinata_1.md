@@ -2,7 +2,7 @@
 title: "[ES!!] Hinata Aoi – Idol Story 1"
 date: 2020-03-16 9:06:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Hinata]
 tags:
 - Idol Story

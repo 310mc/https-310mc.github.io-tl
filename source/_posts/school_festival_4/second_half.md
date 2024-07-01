@@ -68,12 +68,6 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
 ## Chapter Index
 <a href="#Chapter-7">Ch 7</a> - <a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a>
 
-<div toc>
-{% btn /school_festival_4/first_half,, arrow-left, Previous Chapter: Chapter 1-6 %}
-{% btn /school_festival_4,, star, Index %}
-{% btn /school_festival_4/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 7
 
 <div class="msr-location">
@@ -810,9 +804,22 @@ Uumyu… I have a bad feeling 'bout this. I hope nothing bad happens…
 For now, let’s rush over to where we promised to meet Midori-kun and the transfer student!
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /school_festival_4/first_half,, arrow-left, Previous Chapter: Chapter 1-6 %}
-{% btn /school_festival_4,, star, Index %}
-{% btn /school_festival_4/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/school_festival_4/first_half" title="Previous Chapter: Chapter 1-6"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/school_festival_4" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/school_festival_4/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>

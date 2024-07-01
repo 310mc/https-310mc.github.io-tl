@@ -858,7 +858,7 @@ That’s what Ryuseitai’s all about, right? You’ve said it so many times tha
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
             <a href="/christmas_live/line_to_line" title="Next Chapter: Line to Line"><i class="fa fa-arrow-right"></i></a>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

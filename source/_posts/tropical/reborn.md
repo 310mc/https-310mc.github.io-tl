@@ -60,12 +60,6 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /tropical/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /tropical,, star, Index %}
-{% btn /tropical/transform,, arrow-right, Next Chapter: Transform! %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -1022,11 +1016,24 @@ I’m sure you’ll all come to understand the beauty of yurucharas once you get
 The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /tropical/prologue,, arrow-left, Previous Chapter: Prologue %}
-{% btn /tropical,, star, Index %}
-{% btn /tropical/transform,, arrow-right, Next Chapter: Transform! %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/tropical/prologue" title="Previous Chapter: Prologue"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/tropical/transform" title="Next Chapter: Transform!"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

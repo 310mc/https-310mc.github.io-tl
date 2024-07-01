@@ -2,7 +2,7 @@
 title: "[ES!!] Parallel World (Ryuseitai Scene ONLY!)"
 date: 2023-6-15 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 - [Enstars, Tetora]
@@ -382,8 +382,21 @@ Yeah, this is probably going to be a battle against ourselves.
 For more information on Ryuseitai's status after the story <b><a href="/supervillain" target="_blank">Supervillain</a></b>, please refer to the timeline and relationship chart from their <b><a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a></b> stream.
 {% endnote %}
 
-<div toc>
-{% btn /translations#Event-Stories,, star, Index %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

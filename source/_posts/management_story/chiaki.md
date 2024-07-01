@@ -9,7 +9,7 @@ categories:
 - [Enstars, Shu]
 - [Enstars, Kanata]
 - [Enstars, Keito]
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 tags:
 - Management Story
 - Happy Elements Staff

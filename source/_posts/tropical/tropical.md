@@ -2,7 +2,7 @@
 title: "[ES!!] Tropical"
 date: 2023-7-8 9:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Kino Seitaro
@@ -103,6 +103,9 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         }
     }
 </style>
+
+<link rel="stylesheet" href="/temp/css/removewidth.css">
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/eventstory/tropical/midoriorigcg.jpg)"></div>

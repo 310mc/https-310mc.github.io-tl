@@ -1535,7 +1535,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
             <a href="/stella_maris/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
-            <a href="#Chapter-Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>

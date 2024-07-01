@@ -62,12 +62,6 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a>
 
-<div toc>
-{% btn /climax/tears_of_shooting_stars,, arrow-left, Previous Chapter: Tears of Shooting Stars %}
-{% btn /climax,, star, Index %}
-{% btn /climax/epilogue,, arrow-right, Next Chapter: Epilogue %}
-</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -754,11 +748,24 @@ Yes… That's all the more reason why you *have* to come to the stage…
 It’s something even Anzu-san would enjoy; an unbelievable unfolding of events straight from a tokusatsu awaits you…♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /climax/tears_of_shooting_stars,, arrow-left, Previous Chapter: Tears of Shooting Stars %}
-{% btn /climax,, star, Index %}
-{% btn /climax/epilogue,, arrow-right, Next Chapter: Epilogue %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/climax/tears_of_shooting_stars" title="Previous Chapter: Tears of Shooting Stars"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/climax" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/climax/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

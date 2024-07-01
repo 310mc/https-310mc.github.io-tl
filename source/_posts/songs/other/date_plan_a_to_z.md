@@ -2,7 +2,7 @@
 title: "[Song] Date Plan A to Z"
 date: 2020/4/15 8:00:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Kaoru]
 - [Enstars, Niki]
 - [Enstars, Chiaki]
@@ -374,5 +374,5 @@ permalink: date_plan_a_to_z/
 
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

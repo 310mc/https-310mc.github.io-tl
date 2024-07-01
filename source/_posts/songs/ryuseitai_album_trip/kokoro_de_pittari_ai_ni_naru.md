@@ -2,7 +2,7 @@
 title: "[Song] Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
 date: 2024/3/6 9:06:00
 categories:
-- [Enstars, ES!!]
+- [Enstars, 1. Era, ES Era, Year 1]
 - [Enstars, Chiaki]
 tags:
 - Song Lyrics
@@ -395,7 +395,7 @@ permalink: kokoro_de_pittari_ai_ni_naru/
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
   <a target="_blank" href="/ryuseitai_album_trip" title="Index"><i class="fa fa-star"></i></a>
-  <a href="#Index" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+  <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
 
 ## Translation Notes 

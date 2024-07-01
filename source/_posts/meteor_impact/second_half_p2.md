@@ -65,12 +65,6 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 ## Chapter Index
 <a href="#Chapter-13">Ch 13</a> - <a href="#Chapter-14">Ch 14</a> - <a href="#Chapter-15">Ch 15</a> - <a href="#Chapter-16">Ch 16</a> - <a href="#Chapter-17">Ch 17</a> - <a href="#Chapter-18">Ch 18</a> - <a href="#Chapter-19">Ch 19</a> - <a href="#Chapter-20">Ch 20</a> - <a href="#Chapter-21">Ch 21</a> - <a href="#Chapter-22">Ch 22</a> - <a href="#Chapter-23">Ch 23</a> - <a href="#Chapter-24">Ch 24</a> - <a href="#Chapter-25">Ch 25</a> - <a href="#Chapter-26">Ch 26</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-<div toc>
-{% btn /meteor_impact/second_half_p1,, arrow-left, Unqualified Hero (Chapter 1-12) %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/second_half_p3,, arrow-right, Next Chapter: Unqualified Hero (Chapter 27-33) %}
-</div>
-
 ## Chapter 13
 
 <div class="msr-cw">
@@ -2777,14 +2771,16 @@ wait, wha—huh? are you serious? where are we going, chiaki~?
 
 please Explain things to me properly! listen to what a god Tells you to do!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch26_sc.jpg %}
+
 {% bubble Madara pastbcg %}
 “Hahaha! ♪ I don’t really get what’s going on, but I’m kiiinda jealous… Holding hands and dashing across the beach—this really is what youth’s all about!”
 
 “I’m aaall the way across the ocean, but I’ll still cheer you for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
 {% endbubble %}
-{% img /img/es/eventstory/meteorimpact/madarabcg.jpg %}
 
+{% img /img/es/eventstory/meteorimpact/madarabcg.jpg %}
 
 {% bubble Madara pastbcg %}
 “I’ll sing that song to cheer you guys on—after all, I *am* wearing the uniform, and I *am* acting as an idol! I only hope that it’ll push you both one step further, even if juuust a little…!”
@@ -2792,11 +2788,24 @@ please Explain things to me properly! listen to what a god Tells you to do!
 “♪\~♪~♪”
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /meteor_impact/second_half_p1,, arrow-left, Unqualified Hero (Chapter 1-12) %}
-{% btn /meteor_impact,, star, Index %}
-{% btn /meteor_impact/second_half_p3,, arrow-right, Next Chapter: Unqualified Hero (Chapter 27-33) %}
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/meteor_impact/second_half_p1" title="Previous Chapter: Unqualified Hero (Chapter 1-12)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/meteor_impact/second_half_p3" title="Next Chapter: Unqualified Hero (Chapter 27-33)"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
 </div>
 
 ## Translation Notes

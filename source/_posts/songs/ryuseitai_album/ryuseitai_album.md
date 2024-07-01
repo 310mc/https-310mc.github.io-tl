@@ -2,7 +2,7 @@
 title: "[ES!] Ryuseitai Album Commentary"
 date: 2018-3-7 9:00:00
 categories:
-- [Enstars, ES!]
+- [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Ryuseitai]
 tags:
 - Extra
@@ -68,6 +68,7 @@ permalink: ryuseitai_album/
         }
     }
 </style>
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(/img/es/ryuseitaialbum/cover.jpg)"></div>
@@ -512,7 +513,23 @@ Maybe you'll find a song you like…?
 Please listen to it on repeat! ☆ (shuriken)
 {% endbubble %}
 
-<div toc>{% btn /translations#Other,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
+
 [^1]: Chiaki says “let's go” in English, written in katakana.

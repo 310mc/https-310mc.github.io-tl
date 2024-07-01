@@ -68,9 +68,6 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
 ## Chapter Index
 <a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a>
 
-<div toc>
-{% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
-
 ## Chapter 1
 
 <div class="msr-location">
@@ -162,7 +159,7 @@ But we didn’t *have* time back then… You could say it went kinda like a sudd
 {% endbubble %}
 
 {% bubble Shinobu %}
-Ahhh… So *that’s* what you two are talking about. Repayment Festival, right?[^9]
+Ahhh… So *that’s* what you two are talking about. Repayment Festival, right?[^1]
 
 It all went well in the end, but we certainly experienced some harrowing moments…
 
@@ -214,7 +211,7 @@ What the— The heck was that? A spell to exterminate demons or something?
 {% endbubble %}
 
 {% bubble Shinobu %}
-It’s called <em>kuji</em>~[^10] Since ninjas recite it so often for some reason, it’s quite well-known to me!
+It’s called <em>kuji</em>~[^2] Since ninjas recite it so often for some reason, it’s quite well-known to me!
 {% endbubble %}
 
 {% bubble Midori serious %}
@@ -459,7 +456,7 @@ We haven’t seen each other in a long while, so it’d be a great opportunity t
 {% endbubble %}
 
 {% bubble Tetora %}
-Erm, it hasn’t been *that* long… Didn’t we perform together during MDM?[^11]
+Erm, it hasn’t been *that* long… Didn’t we perform together during MDM?[^3]
 
 But I guess we didn’t really get any opportunities to sit down and chat back then…
 
@@ -972,11 +969,28 @@ I still don't completely understand what exactly an idol <em>is</em>, so I would
 Ossu! Guess I gotta show off a more senior side of myself, huh? I’ll do what I can~♪
 {% endbubble %}
 
-<div toc>
-<div style="margin-bottom:5px">{% btn #Chapter-Index,, arrow-up, Back to Top %}</div>
-{% btn /motor_show/snails_pace,, arrow-left, Previous Chapter: Progress at a Snail's Pace %}{% btn /motor_show,, star, Index %}{% btn /motor_show/epilogue,, arrow-right, Next Chapter: Epilogue %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/motor_show/snails_pace" title="Previous Chapter: Progress at a Snail's Pace"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/motor_show/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
-[^9]: Referring to <a href="/climax" target="_blank">Climax</a>.
-[^10]: Kuji is a series of hand signs ninjas tend to do. Here is an article on <a href="https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/" target="_blank">kuji</a>.
-[^11]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
+
+[^1]: Referring to <a href="/climax" target="_blank">Climax</a>.
+[^2]: Kuji is a series of hand signs ninjas tend to do. Here is an article on <a href="https://www.wayofninja.com/science-behind-kuji-kiri-aka-ninja-hand-signs/" target="_blank">kuji</a>.
+[^3]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
