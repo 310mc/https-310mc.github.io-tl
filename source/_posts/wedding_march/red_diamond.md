@@ -2468,7 +2468,7 @@ It exploded, so that means we failed, huh~… I’m sorry…
 Mm, you didn’t do anything wrong.
 {% endbubble %}
 
-{% bubble Jun frown2 %}
+{% bubble Jun frownshake %}
 You don’t have to cover for me. It’s the truth.
 
 If you just had those five seconds — If I had just said that I like broccoli, you would’ve made it. But I…

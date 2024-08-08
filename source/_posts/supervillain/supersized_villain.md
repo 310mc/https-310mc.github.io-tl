@@ -972,7 +972,7 @@ I’ve always dreamed of sleeping in a place like this! I feel like a giant kaij
 {% endbubble %}
 
 {% bubble Kanata v2 %}
-fufufu~ there was a [movie] like that, right? the one where mr. [kaijuu] sleeps in the middle of the [street].
+fufufu~ there was a [movie] like that, right? the one where mr. [kaijuu] sleeps in the middle of the [street].[^4]
 {% endbubble %}
 
 {% bubble Tetora sightired %}
@@ -1066,7 +1066,7 @@ He seemed to have noticed my message, too.
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
-Yep. Among the many things I changed about myself, one of them is the way I speak — yet I kept calling Morisawa-Taichou by the title “Taichou”.[^4]
+Yep. Among the many things I changed about myself, one of them is the way I speak — yet I kept calling Morisawa-Taichou by the title “Taichou”.[^5]
 
 If I really did hate ES enough to defect and become the leader of the “RB” group, then there’d be no reason for me to still call him by that title.
 {% endbubble %}
@@ -1078,7 +1078,7 @@ On top of that, I barely felt any chest pain when you punched me. It was like a 
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}
-That’s karate’s *sundome* for ya, ossu![^5] Jokes aside, you also helped make it look real by putting on a convincing act that it hurt, Taichou.
+That’s karate’s *sundome* for ya, ossu![^6] Jokes aside, you also helped make it look real by putting on a convincing act that it hurt, Taichou.
 {% endbubble %}
 
 {% bubble Chiaki norsmile %}
@@ -1106,7 +1106,7 @@ I wasn’t even sure if I could fool Sengoku-kun at first when I captured him, a
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-Ahaha… To be fair, my friend Yuuta-kun also suddenly changed his character the other day, so I *was* a little perplexed at first, like, “Is this a trend lately or something?”[^6]
+Ahaha… To be fair, my friend Yuuta-kun also suddenly changed his character the other day, so I *was* a little perplexed at first, like, “Is this a trend lately or something?”[^7]
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
@@ -1397,6 +1397,7 @@ Let’s also assemble a happy ending for our reality — an ending that everyone
 [^1]: Combatants refer to the troopers of an antagonist group in a tokusatsu show, and are typically low-level. An example would be the <a href="https://kamenrider.fandom.com/wiki/Shocker_Combatmen" target="_blank">Shocker Combatmen</a> from Kamen Rider.
 [^2]: The following scene refers back to <a href="/meteor_impact" target="_blank">Meteor Impact</a>.
 [^3]: In Japanese, the word he says is <em>hangure</em>, which are groups in Japan that commit crimes, but are not affiliated with any crime syndicates (yakuza, for example).
-[^4]: As mentioned earlier, <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”. It’s also the title Tetora would call Chiaki by a year ago, when Chiaki was still in high school.
-[^5]: Tetora temporarily switches to his typical speech quirk here as part of the light joke. Also, <em>sundome</em> is a type of karate where you have to stop before you hit the target.
-[^6]: Referring to the story <a href="https://ensemble-stars.fandom.com/wiki/MIRAGE" target="_blank">MIRAGE</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^4]: This is likely a reference to the <a href="https://godzilla.fandom.com/wiki/Godzilla_(2014_film)" target="_blank">Godzilla</a> movie in 2014, where Godzilla sleeps in the middle of the city. Thank you to <a href="https://twitter.com/xvxaerial/status/1810474067209904433" target="_blank">BlueBoundary</a> for their tokusatsu reference document!
+[^5]: As mentioned earlier, <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”. It’s also the title Tetora would call Chiaki by a year ago, when Chiaki was still in high school.
+[^6]: Tetora temporarily switches to his typical speech quirk here as part of the light joke. Also, <em>sundome</em> is a type of karate where you have to stop before you hit the target.
+[^7]: Referring to the story <a href="https://ensemble-stars.fandom.com/wiki/MIRAGE" target="_blank">MIRAGE</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

@@ -103,7 +103,7 @@ permalink: wedding_march/
     }
 </style>
 
-<link rel="stylesheet" href="/temp/css/removewidth.css">
+<link rel="stylesheet" href="/cssfolder/removewidth.css">
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">

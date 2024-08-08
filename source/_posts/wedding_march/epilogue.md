@@ -138,7 +138,7 @@ Ahaha! That one was really unfair~
 
 …………
 
-<th>(…!? Oh no, I don’t have much time left—!)</th>
+<th>(…!? Shoot, I don’t have much time left—!)</th>
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}

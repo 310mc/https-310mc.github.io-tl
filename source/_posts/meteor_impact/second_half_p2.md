@@ -1188,9 +1188,9 @@ But I'm super annoyed, so let me just say this.
 
 <th>(I’ve been whining to myself in my head how depressed I felt, but I think I’m feeling the real thing this time…)</th>
 
-<th>(I never wanted to know how true darkness feels…)</th>
+<th>(I never, ever wanted to know how true darkness feels…)</th>
 
-<th>(I can’t even move my fingers… I have no will to continue living…)</th>
+<th>(I can’t even move my fingers… I have no willpower to continue living…)</th>
 
 <th>(…No, I can’t. I can’t be sucked into this dark hole.)</th>
 

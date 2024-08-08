@@ -809,7 +809,7 @@ Don’t worry about the rage and hostility they might sling at you — I’ll ta
 
 It makes me so happy to be able to do something heroic like that.
 
-Let’s go, Shinkai-kun. From here on out, we’re our very own superhero squad!
+Let’s go, Shinkai-kun. From here on out, the two of us are our very own superhero sentai squad!
 {% endbubble %}
 
 {% bubble Kanata pastsmile %}

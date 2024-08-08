@@ -430,15 +430,15 @@ Mhm, I will\~! It’s dangerous to walk at night, so we’ll go home together\~!
 {% endbubble %}
 
 {% bubble Subaru %}
-I didn’t say you could do *that*! Stay, stay! You’re so overbearing, oh my *God*…!
+I didn’t say you could do *that*! Stay, stay! You’re so overbearing, *seriously…!*
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch3_1.jpg %}
 
-{% bubble Subaru sad %}
+{% bubble Subaru sad4 %}
 …Senpai, did you…
 
-About me— no, about my dad, you—…[^4]
+About me— No, about my dad, you—…[^4]
 
 No, never mind.
 {% endbubble %}
@@ -456,15 +456,15 @@ Mm~ Shouldn’t you say that to the juniors in your unit, instead?
 {% bubble Chiaki mgn %}
 Ah, no… No first years joined our unit this year.
 
-Ryuseitai has a long history, and thanks to its old-fashioned camaraderie, the unit became a bit reclusive.
+Ryuseitai’s become a bit reclusive for some time now because of the unit’s long history and outdated ties.
 
 And, well, it’s gotten even worse this year.
 
-The new captain is the type to be satisfied by just having fun with like-minded people. He hasn’t bothered to scout new members, and even drives away anyone he can’t stand.
+The new captain is the type to be satisfied by just having fun with like-minded people. Not only does he not scout new members, but he even drives away anyone he can’t stand.
 {% endbubble %}
 
 {% bubble Subaru %}
-Woah! What kinda hell is that…!? It doesn’t suit you at all! Why’re you sticking around in a place like that? There’s no way you agree with that, right?
+Woah! What kinda hell is that…!? It doesn’t suit you at all! Why’re you sticking around in a place like that? There’s no way you agree with that, right, Senpai?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -482,9 +482,9 @@ Like I inherited the burning, passionate spirit of justice. …Ryuseitai is corr
 
 Once they graduate… The next captain will be Mikejima-san, if we’re looking at who has the skills for it.
 
-I don’t really understand him very well, and he’s kind of terrifying, but he does his job well, has a good reputation overseas, and has a record of his accomplishments.
+I don’t really understand him very well, and he’s kind of terrifying, but he does his job well, has a good reputation overseas, and has a record of accomplishments.
 
-We’ll make him the next captain, and then we’ll do as best as we can to support him, and… If we work hard, I’m sure Ryuseitai will be reborn. Next year’s when the real game begins—no, that’s when it’ll be our turn!
+We’ll make him the next captain, and then I’ll support him to the maximum limit if possible, and… If we work hard, I’m sure Ryuseitai will be reborn. Next year is when the real game begins— No, that’s when it’ll be *our* turn!
 
 That’s what I believe in. There’s hope for the future, so I can bear with anything that comes my way!
 {% endbubble %}
@@ -496,7 +496,7 @@ I mean, all I hear about Ryuseitai is bad news. If things don’t go well, the s
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Don’t say such terrifying things… It’ll be just fine. No—I’ll make sure that doesn’t happen. I promise you: I *will* protect Ryuseitai.
+Don’t say such terrifying things… It’ll be just fine. No— I’ll make *sure* that doesn’t happen. I promise you: I *will* protect Ryuseitai.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -581,7 +581,7 @@ People talking about how it’s totally true that that “Shin kai ka na ta” g
 
 <div class="msr-cw">
     <span><b>Content Warning</b></span>
-    <p>Emetophobia and light mentions of cannibalism ahead.</p>
+    <p>Brief mentions of emetophobia and cannibalism ahead.</p>
 </div>
 
 <div class="msr-location">
@@ -749,7 +749,7 @@ Especially you—You act so high and mighty.
 
 Usually, it is that nagging Wataru and Rei that make idle talk, so the two of us rarely ever speak one on one, like we are doing right now.
 
-But everytime you speak, you start spouting things about being a God, that you grant wishes, or what-have-you… Who do you think you are? Do you think you’re a savior of some sort—that you have been dispatched by the high heavens to rescue all living things?
+But every time you speak, you start spouting things about being a God, that you grant wishes, or what-have-you… Who do you think you are? Do you think you’re a savior of some sort—that you have been dispatched by the high heavens to rescue all living things?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -761,7 +761,7 @@ because i am a God, i grant Wishes! shu, what is your Wish?
 {% bubble Shu %}
 …You really aren’t listening to me at all, are you?
 
-You’ll grant my wish? *Ha*! Don’t make me laugh! That’s something one only says to those they think are below them. Are you trying to say that you are *above* me?
+You’ll grant my wish? *Ha!* Don’t make me laugh! That’s something one only says to those they think are below them. Are you trying to say that you are *above* me?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -769,7 +769,7 @@ hm~? are Humans not generally Below me? which is why i can watch over them from 
 {% endbubble %}
 
 {% bubble Shu %}
-…I will skip past the nerve you hit just now — I simply pity you at this point. I will make this very clear to you: I do not plan to have faith in anyone but myself.
+…Forget being irritated — I simply pity you at this point. I will make this very clear to you: I do not plan to have faith in anyone but myself.
 
 I suppose if I *must* specify something, then I do have a longing towards muses.
 
@@ -795,7 +795,7 @@ i am… not a Monster, you know…?
 {% endbubble %}
 
 {% bubble Kanata past %}
-okay. you are Unexpectedly kiー
+okay. you are Surprisingly kiー
 
 …hm?
 {% endbubble %}
@@ -962,13 +962,13 @@ Thus, I asked Kiryu to investigate what’s been happening, as he has connection
 {% endbubble %}
 
 {% bubble Kuro pastnorsmile %}
-Ah, yeah. Sometimes I ask for some stuff from shady jobs, though those jobs have also become a part-time thing within school.
+Ah, yeah. I’m a regular customer for some shady jobs, though those jobs have become a school part-time thing now.
 
-So yeah, I’d have more connections with those shady guys than you, the goodie-two-shoes honor student.
+So yeah, I have more connections with those shady guys than Hasumi, the goodie-two-shoes honor student.
 
 …If Akatsuki and the Student Council are meant to be “justice,” then should I cut my ties with those guys?
 
-My history with them might end up being a weak point to target for the Student Council, y’know?
+My history with them might end up bein’ a weak point to target for the Student Council, y’know?
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -976,7 +976,7 @@ No, it’s alright. That would be far too unnecessary.
 {% endbubble %}
 
 {% bubble Kuro pastnorsmile %}
-Haha, alright, but if that ever happens, you can throw away the punks, includin’ me.
+Haha, aight, but if that ever happens, you can throw away the punks, includin’ me.
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -1079,7 +1079,7 @@ That’s gonna be annoyin’, then… Can’t we just beat up the bad guy and ge
 {% endbubble %}
 
 {% bubble Keito v2 %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Kuro past %}
@@ -1173,7 +1173,7 @@ I hold a different perspective than the one you two hold, and therefore I may be
 {% img /img/es/eventstory/meteorimpact/secondhalfch8.jpg %}
 
 {% bubble Chiaki mgnserious %}
-<th>(……)</th>
+<th>(…………)</th>
 
 <th>(My worst nightmare came true. Those “Yaobikuni” people really are what I vaguely assumed them to be.)</th>
 
@@ -1251,17 +1251,17 @@ Ermm… You’re noisy and massive, so it isn’t strange to feel pressured by y
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha! Isn’t it obvious!? I’m running a roasted onigiri stall! I’m using a special secret soy sauce for it, and it’s suuuper tasty! Wanna buy one?
+Hahaha! Isn’t it obvious!? I’m running a grilled onigiri stall! I’m using a special secret soy sauce for it, and it’s suuuper tasty! Wanna buy one?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Why roasted onigiri…? I don’t understand, but I’m a little hungry right now, so I’ll have one.
+Why grilled onigiri…? I don’t understand, but I’m a little hungry right now, so I’ll have one.
 {% endbubble %}
 
 {% bubble Madara %}
 Thank you, come again! I was feeling a liiittle lonely, y’know! I think everyone’s weirded out by a random stall right at the front gate or something, ‘cause they’ve been ignoring me entirely!
 
-Roasted onigiri is so tasty, though~ I guess youngsters these days prefer hamburgers and stuff?
+Grilled onigiri is so tasty, though~ I guess youngsters these days prefer hamburgers and stuff?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1273,7 +1273,7 @@ Seeeriously? But it’s been Japan’s version of fast food for centuries now! E
 
 Oh well, guess no one’s familiar with that nowadays. I gotta keep up with the modern times, too—especially now that we’ve become westernized since the Meiji era.
 
-But aaanyway… I didn’t have any customers up until now, so I didn’t bother making any roasted onigiri yet… You’ll have to wait some time for yours.
+But aaanyway… I didn’t have any customers up until now, so I didn’t bother making any grilled onigiri yet… You’ll have to wait some time for yours.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1283,7 +1283,7 @@ I have time to spare, so I can wait as long as it takes.
 {% endbubble %}
 
 {% bubble Madara %}
-Oh? Alright then… How about we chat a little until it’s done roasting?
+Oh? Alright then… How about we chat a little until it’s done grilling?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1297,11 +1297,13 @@ We don’t know who could be watching us right now, so keep acting like you’re
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-A-Alright. Yaaay~ I’m sooo excited for my roasted onigiri…♪
+A-Alright. Yaaay~ I’m sooo excited for my grilled onigiri…♪
 
 *<th>(whispering)</th>* …Were you waiting for me, Mikejima-san? Did you have something you wanted to tell me? Is that why you brought over this authentic food stall—
 {% endbubble %}
+
 ## Chapter 9
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch9.jpg %}
 
 {% bubble Madara %}
@@ -1321,7 +1323,7 @@ I’m not gonna take back those words. Actually, I wanted to further state how y
 {% endbubble %}
 
 {% bubble Chiaki mgnserious %}
-……
+…………
 {% endbubble %}
 
 {% bubble Madara %}
@@ -1419,7 +1421,9 @@ And maybe I just wanna tear apart that fake charade, and laugh at them and their
 
 That’s who I really am, Chiaki-san—a cruel, unfair guy.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch9_2.jpg %}
+
 {% bubble Chiaki mgnserious %}
 Even so. There’s no such thing as a clean person — everyone holds a dirty, awful part of them inside.
 
@@ -1443,7 +1447,7 @@ But since you’re a strange kid, there miiight be something special only you ca
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha! Back to our main topic! Look, the roasted onigiri is ready, have a bite! I’m sure you’ve been waiting…☆
+Hahaha! Back to our main topic! Look, the grilled onigiri is ready, have a bite! I’m sure you’ve been waiting…☆
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
