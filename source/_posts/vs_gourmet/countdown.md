@@ -1,6 +1,6 @@
 ---
-title: "VS GOURMET – Prologue"
-date: 2024-6-30 9:00:00
+title: "VS★GOURMET – Introduction & Countdown"
+date: 2024-8-7 8:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]
@@ -12,8 +12,7 @@ categories:
 tags:
 - Main Story
 - Akira
-description: "[ES!!] TBA"
-hidden: true
+description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki and Mitsuru are placed in Gourmet District and given their own restaurant in order to take on the ‘Restaurant Management Competition’…"
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -29,15 +28,14 @@ hidden: true
                     <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
                     <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
                     <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
-                    <a href="/categories/Enstars/Nice" character="Nice"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Writer
+                    Story
                 </div>
                 <div class="value">
-                    <a href="/tags/Akira/">Akira</a>
+                    <a href="/vs_gourmet">VS★GOURMET</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -62,19 +60,131 @@ hidden: true
 
 <!-- more -->
 
-<div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES's Establishment)</span></p>
-</div>
+*Compilation of profile Sheet and PR Videos coming soon!*
 
-<div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
-</div>
+<!--
 
-{% img TBA %}
+## Profile Sheets & PR Videos
 
-<div class="msr-narration">
-    <p>2nd year of ES’s establishment — In May…</p>
-</div>
+<big><b><a href="/vs_gourmet/profile" target="_blank">Click here for the PR videos and profile sheets!</a></b></big>
+
+-->
+
+## Audition Introduction Lines
+
+The audition introduction lines from each participant. These came with a voiced line that can be heard in the idol room.
+
+{% bubble Mayoi smile %}
+M-My name is Ayase Mayoi…! For every bit of courage you’ve given me to step forth on this sparkling stage, I’ll work hard to the best of my abilityyy!
+{% endbubble %}
+
+{% bubble Ritsu %}
+<em>Yaawns</em>… Ah, is it my turn? I’m Sakuma Ritsu from Knights. I think I might just take it reaaal easy and do whatever I can~…
+{% endbubble %}
+
+{% bubble Raika smilesoft %}
+My name is Hojo Raika. I love singin’ and it’s what I’m good at, but I’m a halfwit at practically everythin’ else — But, but! I’ll do the best that I can with everythin’ I’ve got!
+{% endbubble %}
+
+{% bubble Hiyori smug %}
+Obviously you would all know <em>me</em>, Tomoe Hiyori! I’ll make sure to have happiness and love delivered to everyone’s doorstep across the whole world! That’s what we call the finest weather…☆
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+I’m the burning heart Morisawa Chiaki! In this venue, I’m going to demonstrate everything I’ve cultivated up to this point! Let’s go: Effort, Friendship, Victory!
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+The super star, Tenma Mitsuru, is here\~! I’ll deliver my songs to eeeveryone across the whole entire world! I’m aiming for the gold medal, so I’m gonna dash, dash, daaash\~!!
+{% endbubble %}
+
+## Countdown Message
+
+<big>**Note:** Before the tour event began on June 30 2024, there was a countdown message per day at 12 AM Japan time.</big>
+
+### 28th June
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_WKfB66b3b8638Nl4.webp?timestamp=1723054185579 %}
+
+{% bubble Mayoi norsmile %}
+H-Hello… I’m Ayase Mayoi, a participant of ‘THUNDERBOLT CHALLENGE 4piece’…!
+{% endbubble %}
+
+{% bubble Ritsu smilesoft %}
+I’m Sakuma Ritsu, a participant just like him~ Fufu, we got placed in Gourmet District, the second venue of 4piece.
+
+This audition is an individual contest, actually~ Apparently, you can be part of the ‘Dream Unit’ if you get selected.
+{% endbubble %}
+
+{% bubble Mayoi curious %}
+That being said, this venue… seems to have been constructed to appear as if it’s a town, but what on earth will we be made to do here?
+{% endbubble %}
+
+{% bubble Ritsu smileconfident %}
+Fufu, there’s no need to worry about the details, not one bit…♪ I’ll be waiting for all the cheers from you princesses, okay?
+{% endbubble %}
+
+{% bubble Mayoi smile %}
+The broadcast will begin the day after tomorrow at 3 o’clock. I hope you don’t miss out on the program…♪
+{% endbubble %}
+
+### 29th June
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_FD6pK66b3b863U55.webp?timestamp=1723054185598 %}
+
+{% bubble Hiyori grin %}
+Everyone across the world! Tomoe Hiyori from Eden shall make the announcement for 4piece, on the eve of the broadcast…☆
+
+Come on now, don’t withdraw yourself! You should advertise the program as well, you know! There’s no need to hold back. ♪
+{% endbubble %}
+
+{% bubble Raika smile %}
+Ermm, hello! I’m Hojo Raika, and I’ll be participatin’ in 4piece! I’ll do my absolute best…!
+{% endbubble %}
+
+{% bubble Raika awkward %}
+The only thing I’m good at is singing though, so I don’t have a single clue what I should be doin’…!
+{% endbubble %}
+
+{% bubble Hiyori smilesoft %}
+Raika-kun, you’re an idol fledgling, correct? Be at ease, for you have <em>me</em> as a spectacular model to learn from right next to you!
+{% endbubble %}
+
+{% bubble Raika nod %}
+Uhyaa, such reassurin’ words! Thank ya so much, I feel revved up somehow…♪
+{% endbubble %}
+
+{% bubble Hiyori grin %}
+To our viewers, I’d love for you all to keep your eyes on us and sear our marvelous efforts into your mind. Look forward to tomorrow’s broadcast, won’t you? ♪
+{% endbubble %}
+
+### 30th June (Day of the event)
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_VGknG66b3b8c85x5.webp?timestamp=1723054281946 %}
+
+{% bubble Chiaki smileconfident %}
+Hello! Today’s the long awaited broadcast for 4piece! This announcement is brought to you by Morisawa Chiaki from Ryuseitai, and—
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+Tenma Mitsuru from Ra*bits! *<th>(waves)</th>* Are you all free at 3 o’clock today~!?
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+Fuhaha! My heart’s pounding just knowing the broadcast will start soon! I want to know what lies within Gourmet District already!
+{% endbubble %}
+
+{% bubble Mitsuru surprised %}
+Are we gonna compete to see who can eat lots of food or something!? But I just ate bread a second ago…!
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+I’ve got no clue what’s going to happen! We’ll just have to do our absolute best with the help of everyone’s support…!
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+Mhm! Everyone watching from your TV, make sure to keep your eyes on us at 4piece! It’s a promise between you and me! ☆
+{% endbubble %}
 
 <div class="navigation2">
     <div class="toolbar-wrapper">
@@ -89,10 +199,8 @@ hidden: true
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/1" title="Next Chapter: TBA"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/prologue" title="Next Chapter: Prologue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
-
-## Translation Notes

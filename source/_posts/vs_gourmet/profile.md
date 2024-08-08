@@ -1,6 +1,6 @@
 ---
-title: "VS GOURMET – TBA"
-date: 2024-6-30 9:01:00
+title: "VS★GOURMET – Audition Profile & PR Videos"
+date: 2024-6-30 9:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]
@@ -12,7 +12,7 @@ categories:
 tags:
 - Main Story
 - Akira
-description: "[ES!!] TBA"
+description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki and Mitsuru are placed in Gourmet District and given their own restaurant in order to take on the ‘Restaurant Management Competition’…"
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -29,15 +29,14 @@ hidden: true
                     <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
                     <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
                     <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
-                    <a href="/categories/Enstars/Nice" character="Nice"></a>
                 </div>
             </div>
             <div class="info-item one">
                 <div class="label">
-                    Writer
+                    Story
                 </div>
                 <div class="value">
-                    <a href="/tags/Akira/">Akira</a>
+                    <a href="/vs_gourmet">VS★GOURMET</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -62,24 +61,18 @@ hidden: true
 
 <!-- more -->
 
-## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Translation-Notes">Translation Notes</a>
+## Index
+<a href="#Introduction-Cards">Introduction Cards</a> - <a href="#PR-Videos">PR Videos</a> - <a href="#Audition-Introduction-Lines">Audition Introduction Lines</a> - <a href="#Countdown-Message">Countdown Message</a>
 
-## Chapter 1
+## Introduction Cards
 
-<div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES's Establishment)</span></p>
-</div>
+add images here
 
-<div class="msr-location">
-    <p><span><b>Location:</b> TBA</span></p>
-</div>
+## PR Videos
 
-{% img TBA %}
+https://www.youtube.com/watch?v=FJK2Fb4qryc&list=PL5wEQ3YUNbnDTxgtPXQcB_WrC65-O5fsx
 
-<div class="msr-narration">
-    <p>2nd year of ES’s establishment — In May…</p>
-</div>
+**See a full playlist of the videos here!** It includes solo camera for each participant and their self-introduction videos.
 
 <div class="navigation2">
     <div class="toolbar-wrapper">
@@ -88,17 +81,14 @@ hidden: true
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/vs_gourmet/prologue" title="Previous Chapter: TBA"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/2" title="Next Chapter: TBA"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/prologue" title="Next Chapter: Prologue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
-
-## Translation Notes

@@ -6,6 +6,8 @@ categories:
 tags:
 - Mini Talk
 description: "[ES!!] Chiaki’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
+hidden: true
+permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">

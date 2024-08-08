@@ -3,7 +3,7 @@ title: Ensemble Stars Translation Masterlist
 description: A list of translations by 310mc. You will find Enstars / Ensemble Stars translations in this blog site.
 ---
 
-<link rel="stylesheet" href="/temp/css/removewidth.css">
+<link rel="stylesheet" href="/cssfolder/removewidth.css">
 
 ## Translation Usage
 
@@ -188,6 +188,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </div>
         <a href="/crossroad" class="storyName" target="_blank">
             <span>Crossroad (Chiaki Scenes Only!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://i.ibb.co/WB2vhm8/chiakibcgframe-300px.jpg"
+                alt="VS★GOURMET"
+            />
+        </div>
+        <a href="/vs_gourmet" class="storyName" target="_blank">
+            <span>VS★GOURMET (In Progress!)</span>
             <span class="read"></span>
         </a>
     </div>

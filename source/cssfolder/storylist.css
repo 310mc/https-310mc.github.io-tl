@@ -94,10 +94,11 @@
    .storyName .read.soon {
        opacity: 0.5;
        pointer-events: none;
-       &:before {
-           content: "Soon!";
-       }
    }
+
+   .storyName .read.soon::before {
+        content: "Soon!";
+    }
 
    .storyName .read:not(.soon):hover {
        color: #31C790;
