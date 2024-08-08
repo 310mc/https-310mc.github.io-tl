@@ -233,7 +233,7 @@ Mhm. In retrospect, everything changed thanks to their revolution.
 
 We’re now in a world where effort pays off. And we even have more good-natured, talented allies with the same ambition.
 
-We were finally able to get five members, just like a typical superhero squad — so knowing we’re going to have to graduate soon feels lonely, but…
+We were finally able to get five members, just like a typical superhero sentai squad — so knowing we’re going to have to graduate soon feels lonely, but…
 
 As long as we don’t give up on our dreams, surely we’ll be able to come across each other anytime.
 

@@ -406,7 +406,7 @@ I’m as much of an athlete as you! I’ll prove it with another showdown, c’m
 There’s a meeting coming up pretty soon, remember? I’m gonna keep carrying you like this, so let’s go there together, alriiight? We can have a showdown next time.
 {% endbubble %}
 
-{% bubble Mitsuru frown2 %}
+{% bubble Mitsuru frownshake %}
 Uuu~! That’s what you say now, but you’re just gonna go overseas and you won’t be back for forever!
 {% endbubble %}
 
@@ -734,7 +734,7 @@ Yeah, me too. Personally, I adjust to things better when Nii~chan’s leading us
 Ra*bits has been led by other units many times before.
 {% endbubble %}
 
-{% bubble Mitsuru frown2 %}
+{% bubble Mitsuru frownshake %}
 Mmm\~… It’s so annoying that we’re always being carried around by other people! We’re awesome, too!
 
 But if Nii~chan is okay with it, then I guess I’ll go along with it, too…

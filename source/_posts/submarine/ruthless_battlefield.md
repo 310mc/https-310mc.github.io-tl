@@ -724,7 +724,7 @@ Hm? What was that about Shinkai-dono?
 {% endbubble %}
 
 {% bubble Keito yare %}
-Ah, you guys wouldn’t know, would you? Well, it *was* from before your time. Well, the scale of the battle, the people involved, and everything else — it’s all different from the Battle versus the Sea God[^3], and neither do I think another miracle could come about like it did then.
+Ah, you guys don’t know? It *was* from before your time. That all being said, the scale of the battle, the people involved, and everything else — it’s all different from the Battle versus the Sea God[^3], and I doubt another miracle could come about like it did then.
 {% endbubble %}
 
 {% bubble Keito serious %}

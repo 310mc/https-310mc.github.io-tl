@@ -16,7 +16,7 @@ hidden: true
     * icons by https://fontawesome.com/
     * filter js by https://magnusthemes.tumblr.com
  -->
-<link rel="stylesheet" href="/temp/css/recclist3.css">
+<link rel="stylesheet" href="/cssfolder/recclist3.css">
 <script src="https://kit.fontawesome.com/0993e30c04.js" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>

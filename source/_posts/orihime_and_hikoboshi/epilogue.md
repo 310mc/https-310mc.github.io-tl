@@ -297,7 +297,7 @@ description: "[ES!] Trickstar have been entrusted to take care of the Ryuseitai 
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-<th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em>[^3] ☆)</th>
+<th>(Let's go anywhere, all the way, Ryuseitai! <em>Here we goooo~!!</em> ☆)</th>[^3]
 {% endbubble %}
 
 {% bubble Tetora curious %}

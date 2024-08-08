@@ -836,9 +836,11 @@ Heheh, Midori-kun will definitely be surprised to see your improvement. Let’s 
 
 {% img /img/es/eventstory/tropical/transform4_5.jpg %}
 
-{% bubble Midori norsmile %}
+{% bubble Midori curious %}
 …………
+{% endbubble %}
 
+{% bubble Midori norsmile %}
 Wow, I had no idea that they were practicing by themselves for my sake.
 {% endbubble %}
 

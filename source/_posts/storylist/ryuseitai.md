@@ -35,7 +35,7 @@ Notes:
 <li>A lot of non-Ryuseitai stories cover a decent chunk of their individual development and character as well. I'll add these as bonus stories, for people who want more to read.</li>
 <li>Some stories will have translation links in the list. If a listed story doesn't have a link, please check the translation masterlist here: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
 <ul><li>If a translation can't be found in the above masterlist, try searching online with keywords such as "Enstars translation (story name)".</li></ul></li>
-<li>This is not an exhaustive list and could still be further improved. I'll continue to update and add more stories! Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://x.com/310mc1" target="_blank">Twitter</a>.</li>
+<li>This is not an exhaustive list and could still be further improved. I'll continue to update and add more stories! Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>.</li>
 </ul>
 
 ### 2015 Stories
@@ -155,4 +155,4 @@ Notes:
 
 Please don't forget to check the translation masterlist if there is no provided translation link: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
 
-Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://x.com/310mc1" target="_blank">Twitter</a>! Happy reading!
+Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>! Happy reading!

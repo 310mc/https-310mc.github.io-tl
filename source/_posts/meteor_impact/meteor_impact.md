@@ -107,7 +107,7 @@ permalink: meteor_impact/
         }
     }
 </style>
-<link rel="stylesheet" href="/temp/css/removewidth.css">
+<link rel="stylesheet" href="/cssfolder/removewidth.css">
 
 <div class="msr-cw">
     <span><b>Content Warning</b></span>

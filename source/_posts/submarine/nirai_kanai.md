@@ -1719,7 +1719,7 @@ Huh? Uh, yes? That’s true…?
 {% endbubble %}
 
 {% bubble Midori northinking %}
-<th>(I had no idea that Hasumi-senpai can be as persistent as Morisawa-senpai… We barely had anything to do with Akatsuki outside of Scroll of the Elements, so—)</th>
+<th>(I had no idea that Hasumi-senpai can be as persistent as Morisawa-senpai… We barely had anything to do with Akatsuki outside of Scroll of the Elements, so—)</th>[^1]
 {% endbubble %}
 
 {% bubble Kanata v2 %}

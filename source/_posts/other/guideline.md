@@ -51,19 +51,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Translating the following stories:</h2>
 
 <div class="stories">
-<!--
 <div class="story">
     <div class="thumbimage">
         <img
             src="https://i.ibb.co/WB2vhm8/chiakibcgframe-300px.jpg"
-            alt="VS GOURMET"
+            alt="VS★GOURMET"
         />
     </div>
-    <a href="" class="storyName" target="_blank">
-        <span>VS GOURMET (In Progress!)</span>
-        <span class="read soon"></span>
+    <a href="/vs_gourmet" class="storyName" target="_blank">
+        <span>VS★GOURMET (In Progress!)</span>
+        <span class="read"></span>
     </a>
-</div>-->
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

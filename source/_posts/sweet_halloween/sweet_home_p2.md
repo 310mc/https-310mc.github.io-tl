@@ -494,7 +494,7 @@ Ahhh… Uh…Oh no—Eeeeeek!! He really did dieeeeeeeee!!
 Ah…! Ahhhh!? Noooooooo!!
 {% endbubble %}
 
-{% bubble Mitsuru frown2 %}
+{% bubble Mitsuru frownshake %}
 H-Hajime-cha… I can’t breathe—It hurts…
 {% endbubble %}
 
@@ -959,7 +959,7 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 
 [^1]: The shadow Madara talks about is <a href="https://www.orionphilosophy.com/stoic-blog/the-shadow-carl-jung" target="_blank">Jungian psychology </a>. It's a pretty interesting topic relevant to this story and the characters involved.
 [^2]: In Japan, the season for ghost stories is typically in summer.
-[^3]: He unusually asks for permission with <em>dame kana</em>.
+[^3]: Chiaki unusually asks for permission with <em>dame kana</em>.
 [^4]: Fun fact, Swahili has similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.
 [^5]: Originally, Hajime says that he can’t do <a href="https://www.sakaagari-kotsu.com/practice/maemawari-ori.html" target="_blank">this</a> (that other people can normally do), as it's common for Japanese kids to do it. But since that’s not really common in western culture, I changed it to swinging on monkey bars to make it easier to visualize.
 [^6]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Crash_Course" target="_blank">Crash Course</a>.

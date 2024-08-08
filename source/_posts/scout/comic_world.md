@@ -1234,7 +1234,7 @@ is it not [like] me to act this way? i do not know myself… what do you think, 
 {% bubble Keito %}
 Don’t ask me such a difficult question. “Like oneself” and “like a human” aren’t things you can calculate. They’re vague concepts.
 
-The majority of the world — in other words, oneself — will have to go through conflict after conflict until you find an answer that satisfies you.
+The majority of the world — in other words, oneself — will have to go through conflict after conflict until they find an answer that satisfies them.
 {% endbubble %}
 
 {% bubble Ritsu %}

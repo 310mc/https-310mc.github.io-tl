@@ -154,7 +154,7 @@ Don’t call me “Nito” with Tomo-chin’s face~ You can’t break character;
 “When a more orthodox idol unit like Ra*bits do hero-like moves, it feels extremely out of place, doesn’t it?”
 {% endbubble %}
 
-{% bubble Rtetora smile2 %}
+{% bubble Rtetora smilesoft %}
 “That’s ‘cuz in the first place, we Ryuseitai forcibly combined two separate styles with each other.”
 
 “To be honest, idols and heroes <em>seem</em> compatible, but they’re sorta a bad combo.”

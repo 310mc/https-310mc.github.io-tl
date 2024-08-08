@@ -480,7 +480,9 @@ Yeah, it’s kind of embarrassing… But in that sense, it’s incredible how yo
 
 {% bubble Midori frown %}
 You say that like it’s a good thing… I just find acting a pain to do… There was nothing I wanted so badly that I’d go through the effort of doing that.
+{% endbubble %}
 
+{% bubble Midori idle %}
 But things are different now. I have something I want — something I wanna get no matter *what* it takes.
 {% endbubble %}
 

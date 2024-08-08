@@ -357,7 +357,7 @@ everyone, mensooore\~♪[^7] welcome to [okinawa]\~!
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-Are you a local now?
+What, are you a local now?
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}

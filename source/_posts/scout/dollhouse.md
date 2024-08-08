@@ -538,9 +538,9 @@ Hm? I heard a voice from afar… They sounded panicked, maybe I should go help�
 
 ……Ah! I’m not supposed to be thinking to myself right now—
 
-Um, okay. *The green flame is the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!* — Alright then.
+Mm. *The green flame is the mark of compassion! The great nature, growing infinitely! Ryusei Green, Takamine Midori!* —Alright.
 
-I’m on my way to you\~ I’m not sure if I’ll be able to help, but please wait a little longer, okay\~?
+I’m on my way to you\~ I don’t know if I’m reliable enough to help, but please wait a little longer, okay\~?
 {% endbubble %}
 
 ## Chapter 2
