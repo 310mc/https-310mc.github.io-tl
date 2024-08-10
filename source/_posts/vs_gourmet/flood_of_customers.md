@@ -990,7 +990,7 @@ But I think I get why it’d go viral. I mean, this song just stays stuck in you
 {% endbubble %}
 
 {% bubble Midori frown %}
-But it’s like, “what’s the point of going viral through something like thisl”… This is an <em>audition</em>, so he needs to go viral through the meals being judged.
+But it’s like, “what’s the point of going viral through something like this”… This is an <em>audition</em>, so he needs to go viral through the meals being judged.
 
 Well, I can’t say it’s not like Morisawa-senpai to end up like this, though…
 {% endbubble %}
@@ -1549,7 +1549,7 @@ Translation in progress! Currently 22 out of 29 chapters are completed! 7 left!
 [^6]: The phone blocking and Kanata acting as a mediator has been mentioned before in <a href="/supervillain/dark_star" target="_blank">Supervillain, Dark Star 8</a>.
 [^7]: Midori looking up Chiaki's name online has been mentioned before in <a href="/comet_show" target="_blank">Comet Show, Plans for the End 4</a>. See his <a href="/comet_show/minitalk/midori_2/" target="_blank">Comet Show 2nd Mini Talk</a> for more about this as well.
 [^8]: Tsundere is a term for a character that starts out with a harsh personality, but eventually warms up to people. The word is two words combined together; <em>tsun(tsun)</em> for “blunt/cold/aloof” and <em>dere(dere)</em> for “lovey-dovey/infatuated manner”. Read more about tsundere <a href="https://en.wikipedia.org/wiki/Tsundere" target="_blank">here</a> and <a href="https://the-dere-types.fandom.com/wiki/Tsundere" target="_blank">here</a>.
-[^9]: Gymanstic formations is human bodies posing next to each other in order to create art (shapes, formations, etc…). <a href="https://en.wikipedia.org/wiki/Gymnastic_formation" target="_blank">Read more here</a>.
+[^9]: Gymnastic formations is human bodies posing next to each other in order to create art (shapes, formations, etc…). <a href="https://en.wikipedia.org/wiki/Gymnastic_formation" target="_blank">Read more here</a>.
 [^10]: When different mecha robots combine together to make one ultimate mecha robot. It also comes with a very strong finishing move that isn’t possible unless combined. It can be found in Super Sentai shows and Gundam series.
 [^11]: Hiyori says “pizza” like how you would in Italian.
 [^12]: Ritsu is likely referring to Chiaki’s time as the Ryuseitai leader back in Chiaki’s third year of Yumenosaki.
