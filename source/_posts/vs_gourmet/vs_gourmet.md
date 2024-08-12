@@ -617,31 +617,31 @@ permalink: vs_gourmet/
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
-                alt="TBA"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_W5b669f7c74XOMT3.webp?timestamp=1721728123067"
+                alt="Reminded Of Its Taste"
             />
         </div>
         <a href="/vs_gourmet/minitalk/mitsuru_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Reminded Of Its Taste</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
-                alt="TBA"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_669f7c74sqThFyO0.webp?timestamp=1721728123180"
+                alt="Restless Night"
             />
         </div>
         <a href="/vs_gourmet/minitalk/mitsuru_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Restless Night</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_nEUlQ669f7c74k35.webp?timestamp=1721728121640"
                 alt="TBA"
             />
         </div>
@@ -653,7 +653,7 @@ permalink: vs_gourmet/
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6oUe669f7c74DLK4.webp?timestamp=1721728122372"
                 alt="TBA"
             />
         </div>
@@ -665,24 +665,24 @@ permalink: vs_gourmet/
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
-                alt="TBA"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_669f7c741oxukzn0.webp?timestamp=1721728124478"
+                alt="Blessings of Food"
             />
         </div>
         <a href="/vs_gourmet/minitalk/raika_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Blessings of Food</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src=""
-                alt="TBA"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_iGMPZ669f7c74zi5.webp?timestamp=1721728122360"
+                alt="Peculiar Recipe"
             />
         </div>
         <a href="/vs_gourmet/minitalk/raika_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Peculiar Recipe</span>
             <span class="read"></span>
         </a>
     </div>

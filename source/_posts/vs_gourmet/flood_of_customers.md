@@ -1705,10 +1705,6 @@ We’re companions, but we’re also rivals… That sort of thing is important. 
 Thank you, Tenma-kun. I’m in your care until the very end…♪
 {% endbubble %}
 
-{% note narration %}
-Translation in progress! Currently 23 out of 29 chapters are completed! 6 left!
-{% endnote %}
-
 <div class="navigation2">
     <div class="toolbar-wrapper">
         <div class="slider-container">

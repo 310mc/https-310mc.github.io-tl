@@ -179,7 +179,7 @@ This is not our first meeting, though, Hojo-kun… Didn’t we meet at ES?
 {% endbubble %}
 
 {% bubble Raika northinking %}
-…?
+……?
 {% endbubble %}
 
 {% bubble Akiomi serious %}
@@ -193,7 +193,7 @@ I work in the neutral organization in ES, called “P-Association”. I act as a
 {% endbubble %}
 
 {% bubble Mitsuru takenaback %}
-Geh—!? So we did get caught! And I really thought we managed to get away with it too…!
+Geh—!? So we *did* get caught! And I really thought we managed to get away with it too…!
 {% endbubble %}
 
 {% bubble Raika worried %}
@@ -441,7 +441,7 @@ A hero abandons no one. As long as you ask for it, they’ll come rushing to you
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_POyLLrG66ba6c167.webp?timestamp=1723493404147 %}
 
 {% bubble Mitsuru grin %}
-Chia-chan-senpai, I hope it went well! You must’ve been hard at work~! *(Waves)*
+Chia-chan-senpai, I hope it went well! You must’ve been hard at work~! *<th>(waves)</th>*
 {% endbubble %}
 
 {% bubble Raika smile %}
@@ -461,7 +461,7 @@ Today’s efforts won’t go to waste. It’ll surely act as a step forward to v
 {% bubble Nice %}
 “Fufu. The bloodthirsty atmosphere that overwhelmed the venue up until yesterday has brightened up a lot throughout today.”
 
-“Absolutely Nice*,* indeed! By the looks of it, I think we won’t have to worry about disappointing our special customers when we welcome them on the final day…♪”
+“Absolutely Nice, indeed! By the looks of it, I think we won’t have to worry about disappointing our special customers when we welcome them on the final day…♪”
 {% endbubble %}
 
 {% bubble Ritsu curious %}
@@ -476,7 +476,9 @@ Who’re these ‘special customers’ for the final day…?
 “And the two people who seized the reins of this contest from day one to day five were Tomoe-kun and Sakuma-kun.”
 
 “Tomoe-kun’s pride and true overwhelming marketing power, Sakuma-kun’s distinct characteristics in his creative meals — as well as the rational management tactics that they both share — allowed no other participant a chance to catch up.”
+{% endbubble %}
 
+{% bubble Nice winknice %}
 “First, allow me to bestow upon you two a Nice for dominating Gourmet District consistently through the use of your strengths.”
 {% endbubble %}
 
@@ -610,6 +612,302 @@ But, well, I’m in that sort of mood right now too, so — I’ll accept this a
 Yeah! Let’s fight with all our might on the final day of 4piece…☆
 {% endbubble %}
 
+## Chapter 11
+
+<div class="msr-narration">
+    <p>Next day. The final day of 4piece, Gourmet District…</p>
+</div>
+
+{% bubble Mayoi shocked %}
+I-Incredible. Even before the gates open, I can hear a commotion, like one before a live show…!
+
+Just as I heard from Chiaki-san at the hotel yesterday, it seems that our fans truly have come to the venue.
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uf66ba850cIJWMc2.webp?timestamp=1723499794837 %}
+
+{% bubble Raika worried %}
+Uu~? Mayomayo Onii-san, may I ask if I’m wearin’ this outfit properly?
+
+It feels so jumbled up, and I’m anxious about whether I really am puttin’ it on right…!
+{% endbubble %}
+
+{% bubble Mayoi smile %}
+Ufufu…♪ It looks absolutely adorable on you, Raika-san!
+
+Ahh, but let me tighten the strings on your chest a little bit more…♪
+{% endbubble %}
+
+{% bubble Raika grin %}
+Thank ya very much…♪ Ehihi, I’m so blessed to have the opportunity to wear such a fancy outfit…♪
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Oh! That’s Ayase, isn’t it!? You’ve finally come back from the fields!
+{% endbubble %}
+
+{% bubble Mayoi awkward %}
+Indeed. It’s the final day, so I’ve also been driven out of the fields…
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+Mayo-chan-senpai, welcome back\~! I was waiting for you\~!
+{% endbubble %}
+
+{% bubble Mayoi grin %}
+Someone, waiting for the return of the likes of me…! I’m so deeply moved with emotionnnn…! I thought my existence had been erased entirely from people’s memories at this point…!
+{% endbubble %}
+
+{% bubble Mitsuru scold %}
+It’s true that I tend to forget stuff, but I’m not stupid enough to even forget Mayo-chan-senpai, y’know! Hmph, hmph!
+{% endbubble %}
+
+{% bubble Mayoi worried %}
+Ahh, no, I didn’t mean it that way—
+{% endbubble %}
+
+{% bubble Hiyori smilesoft %}
+Fufu. Even on the final day, the air all of you bring out doesn’t change, does it? I’ve grown used to it by now, but… Let’s end this properly, at least for the last day, shall we?
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5V66ba850c8Lmsv2.webp?timestamp=1723499795017 %}
+
+{% bubble Ritsu norsmile %}
+So I just peeked at the outside from the avenue, and a pretty massive amount of customers are here.
+
+There were so many that I don’t even know if they’ll all fit inside Gourmet District.
+
+It was hard to tell as a participant, but it looks like this show’s been garnering a ton of attention even from the general public~
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Ooh, so you’re telling me that <em>that</em> many customers are anticipating our cooking and performances…
+
+We’ll have to meet all their expectations to best of our ability today…☆
+{% endbubble %}
+
+{% bubble Ritsu smile %}
+Well, I think most of them are anticipating what we’ve got to offer, yeah…
+
+But on the other hand, it looks like there’s a group of fans outside who’re excited over some strange dance.
+{% endbubble %}
+
+{% bubble Mitsuru curious %}
+Strange dance? Was someone dancing in the venue? But I don’t remember seeing that…
+{% endbubble %}
+
+{% bubble Ritsu northinking %}
+They called it the “Vegetable Dance” or something… I couldn’t really pick up the lyrics, though.
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+Vegetable Dance…?
+{% endbubble %}
+
+{% bubble Mayoi idle %}
+Is that perhaps the dance we did in the fields…?
+{% endbubble %}
+
+{% bubble Raika grin %}
+Ehihi. I can sing the Vegetable Dance song even now, actually…♪
+
+Crispy lettuce and bright red tomatoes~♪
+{% endbubble %}
+
+{% bubble Ritsu v2 %}
+Yep, that’s the one. The song’s way too same-y that it’s almost baffling…
+{% endbubble %}
+
+{% bubble Ritsu yare %}
+I kept hearing it on repeat, so it’s now weirdly stuck in my head too.
+{% endbubble %}
+
+{% bubble Chiaki sightired %}
+Don’t tell me that… the activities in the fields were also closely filmed and broadcasted in the program…?
+{% endbubble %}
+
+{% bubble Mayoi sighfrown %}
+Uu… That is the only possible conclusion here, yes…
+{% endbubble %}
+
+{% bubble Mayoi srsthinking %}
+…………
+{% endbubble %}
+
+{% bubble Mayoi horrified %}
+Which means, every action I took in the fields was also broadcasteddddd!?
+
+Such a disgraceful sight being exposed on national television—… I-It’s too awfuuuullll!!
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Sound of a thud</p>
+</div>
+
+{% bubble Raika surprised %}
+Uwoahh, Mayomayo Onii-san! Please get a hold of yourself…!?
+{% endbubble %}
+
+{% bubble Nice %}
+“—Everyone from the second venue, Gourmet District! The time for the screening has come!”
+
+“Fufu. The fans are outside the venue now, and their voices brimming with anticipation can be heard even from here…♪”
+
+“Now then. It’s time to announce the final meal theme of the day.”
+
+“The final theme is — ‘Freestyle’!”
+
+“With your own methods to maximize your charm, go and grab both your fans’ hearts and appetites!”
+
+“This will be the very final round. Make sure to pour your utmost efforts without any regret!”
+
+“Right, let the screening begin!”
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66ba850cdDAf04g0.webp?timestamp=1723499794624 %}
+
+{% bubble Mitsuru blushjoy %}
+Kyaho\~y! ☆ If it’s fine to make anything, then I’m gonna make bread\~!
+{% endbubble %}
+
+{% bubble Raika grin %}
+I’ll also accompany you, Mitsuru-oniisan! Woosh…♪
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Sound of footsteps</p>
+</div>
+
+{% bubble Chiaki surprised %}
+Woah!? Those two are impressive as always. A flying start from the get-go…☆
+{% endbubble %}
+
+{% bubble Ritsu v2 %}
+Ohh? If anything goes, then I guess I’ll make a dessert, since I’m best at that.
+
+Not only are there are a lot of female customers, but Knights’ forte will always be making sweets, so~ I have to deliver a sweet dream to all the princesses…♪
+{% endbubble %}
+
+{% bubble Hiyori smilesoft %}
+Since they came all the way here just to see me, I have to make sure I serve them the absolute highest quality of food…♪
+
+Chiaki-kun, I’m not planning on losing to you, got it…?
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Yeah! I don’t plan on losing to you either! I’m going to monopolize all the hearts of the fans who’ve come to see us, just you wait!
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Ritsu smileexplain %}
+Sorry I kept you waiting; here you go. It’s Sakuma Ritsu’s special deluxe: fruity wobbly dessert~...♪
+
+As I said during the audition — It may look pretty peculiar on the outside, but the taste is a one-of-a-kind, so try it out~♪
+
+In fact, I could even feed you with an “Aahn~”, if you want…? Ahaha, that was just a joke…♪
+
+I’ve got a lot of customers queuing up, so that’s it for the fanservice. Thanks for visiting today, I really appreciate it.
+
+To everyone lining up for my sweets, I’m really sorry that I’m taking so long to serve you~ I still have a whole lot of dessert left, so wait a bit, okay…?
+
+<th>(Looks like they’re spreading pictures of my dessert on social media, just as I had planned.)</th>
+{% endbubble %}
+
+{% bubble Ritsu smilesoft2 %}
+<th>(It seems like there’s even a crowd of people who came over after getting drawn in by how unusual my food looks, so…)</th>
+
+<th>(My restaurant’s flourishing all thanks to that.)</th>
+{% endbubble %}
+
+{% bubble Ritsu frown %}
+<th>(The only thing is, I think I kinda messed up with the dessert I chose to make…)</th>
+
+<th>(This kind of sweet takes quite a bit of time to finish making. I end up taking a long time to serve food because of it, and so my ratio of customers being served isn’t really good either.)</th>
+{% endbubble %}
+
+{% bubble Ritsu smilesoft %}
+<th>(But well, at this point, I don’t think I really care about profit anymore.)</th>
+
+<th>(After all, I get to watch everyone enjoy eating my sweets from closeby. Just that alone is plenty enough to fill me up…♪)</th>
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pi6669f7c74eAGm3.webp?timestamp=1721728122677 %}
+
+{% bubble Raika grmtbcg %}
+“♪\~♪\~♪”
+
+<th>(This is amazin’. Such a huge number of people are listenin’ to my song…!)</th>
+
+<th>(Ehihi. I’m so happy somehow. Every time I sing, my heart gets all warm and fuzzy…)</th>
+
+<th>(I never felt this way when I was singin’ on the streets… What makes it so different right now…?)</th>
+
+<th>(Difficult things like that are beyond my understandin’. That’s why, I’ll just keep singin’ while enjoying this pleasant feelin’…♪)</th>
+
+<th>(If I keep doin’ that, I’m sure Mitsuru-oniisan’s bread will also get sold in loads…♪)</th>
+{% endbubble %}
+
+{% bubble Mitsuru nod %}
+Amazing, amazing! Thanks to Raika-chan’s singing, so many people are coming to my restaurant!
+
+I shouldn’t stay still either! Time to dash, dash, daaash…!
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_raD0669f7c74YjO4.webp?timestamp=1721728122791 %}
+
+{% bubble Mitsuru grmtbcg %}
+Sorry to keep you all waiting!
+
+Here you go, my special deluxe sandwich~!
+
+So, is it tasty? Ahaha, I’m so glad to hear it~!
+
+Mm, mhm, mhm? You came to the venue today to cheer me on?
+
+Wow, so you found out about this audition program thanks to my commercial!
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+Wahaha~ I’m suuuper happy to hear that! This is the best audition ever, like I said in the commercial! ☆
+
+Since you’re here, make sure to enjoy the other restaurant’s food too! See ya~!
+
+<th>(Ehehe. I’m really sooo happy that lots of customers came to the venue!)</th>
+
+<th>(After all, this many people being here means that’s just how much attention the audition got, right?)</th>
+{% endbubble %}
+
+{% bubble Mitsuru nod2 %}
+I always wanted to hype this audition up with all I’ve got! I’m so glad it was a success!
+{% endbubble %}
+
+{% bubble Mitsuru sighfrown %}
+To be honest, the stuff this audition’s asking for is pretty tricky. I thought even I’d be able to manage it if it was the typical screening for singing and dancing.
+
+I dunno about the customers watching the program, but ever since the meals of the day thing started, the air felt so heavy with so many gloomy faces around, and, like…
+
+I don’t blame the idols for worrying and grumbling when they started to feel like it’s similar to an exam! But also, if it’s like that, it won’t be any fun at all!
+
+Of course, I could just think about how to make it fun for myself, but it’s still gonna be boring if I’m the <em>only</em> one who finds it fun!
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+That’s why for the rest of this, I wanna make sure everyone who came here enjoys themselves—
+
+And then, for everyone watching, I wanna make this into a program they’ll be glad they watched until the very end…!
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+When I get to see everyone’s smiles, I’m able to work hard forever~♪
+{% endbubble %}
+
+{% note narration %}
+Translation in progress! Currently 27 out of 29 chapters are completed! 2 left!
+{% endnote %}
+
 <div class="navigation2">
     <div class="toolbar-wrapper">
         <div class="slider-container">
@@ -632,7 +930,7 @@ Yeah! Let’s fight with all our might on the final day of 4piece…☆
 
 ## Translation Notes
 
-[^1]: Chiaki calls Akiomi “<em>megane</em>” (glasses). Chiaki has said something like this before to Akiomi, in an old exchange from the first main story, in 2015. Chiaki yells at Akiomi <em>urusai zo megane</em> (Shut up, glasses). <a href="https://twitter.com/310mc1/status/1728536868759740711" target="_blank">Here’s a short translation of the exchange</a>. 
+[^1]: Chiaki calls Akiomi “<em>megane</em>” (glasses). Chiaki has said something like this before to Akiomi, in an old exchange from the first main story, in 2015-16. Chiaki yells at Akiomi <em>urusai zo megane</em> (Shut up, glasses). <a href="https://twitter.com/310mc1/status/1728536868759740711" target="_blank">Here’s a short translation of the exchange</a>. 
 [^2]: In Mitsuru’s first year, Akiomi would scold Mitsuru for various things like his running around, and then Mitsuru attempts to run away from him, and so on and so forth.
 [^3]: The explanation in question is when Nice-P was speaking to the participants before Mitsuru and Raika arrived. He introduced the judges to everyone during that time. The full scene is shown in VS★PRINCESS, but was cut short in this story.
 [^4]: Referring to VS★PRINCESS, when Nice-P has a heartfelt talk with Esu that motivates him to give the audition another shot.

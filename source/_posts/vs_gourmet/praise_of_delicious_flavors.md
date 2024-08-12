@@ -535,13 +535,13 @@ Mm~… Though, if you two are satisfied with that, then I don’t intend to make
 {% endbubble %}
 
 {% bubble Ritsu smilesoft %}
-Great. Well, rest at ease — You can just think of Mayomayo and I as the “enjoying ourselves group”.[^16]
+Great. Well, rest at ease — You can just think of Mayomayo and I as the ‘enjoying ourselves group’.[^16]
 
 But since I don’t want to deal with any suffocating and tiring things either, I’ll work just enough so Su~chan doesn’t get angry at me later.[^7]
 {% endbubble %}
 
 {% bubble Ritsu nod %}
-And so, Mayomayo — Let’s do our best together as the “enjoying ourselves group”~♪
+And so, Mayomayo — Let’s do our best together as the ‘enjoying ourselves group’~♪
 {% endbubble %}
 
 {% bubble Mayoi shocked %}

@@ -4068,6 +4068,11 @@
 [character="Mitsuru"][yawn] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_yawn.png");
 }
+
+
+[character="Mitsuru"][grmtbcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/mitsuru_grmtbcg.png");
+}
 /**
 ***/
 
@@ -5356,6 +5361,9 @@
 
 [character="Raika"][grmtcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/raika_grmtcg.png");
+}
+[character="Raika"][grmtbcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/raika_grmtbcg.png");
 }
 /**
 ***/
