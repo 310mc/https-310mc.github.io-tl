@@ -1,11 +1,11 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: In Order To Represent Myself"
+title: "VS★GOURMET – Hiyori Mini Talk: Waiting Until "
 date: 2024/8/6 9:05:00
 categories:
-- [Enstars, Chiaki]
+- [Enstars, Hiyori]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
+description: "[ES!!] Hiyori’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
 hidden: true
 permalink: test1/
 ---
@@ -17,7 +17,7 @@ permalink: test1/
                     Mini talk
                 </div>
                 <div class="value">
-					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -52,15 +52,15 @@ permalink: test1/
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fJbh566b91fa8oi5.webp?timestamp=1723408308687 %}
 
-{% bubble Chiaki norsmile3 %}
+{% bubble Hiyori norsmile3 %}
 Oh! Anzu. What’s up, do you have something to do at the agency?
 
 —It’s with me? Wait, what you’re holding…
 {% endbubble %}
 
-{% bubble Chiaki smilesoft %}
+{% bubble Hiyori smilesoft %}
 Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
@@ -70,7 +70,7 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
             Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile %}
+            {% bubble Hiyori smile %}
             Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
             I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
@@ -84,7 +84,7 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
             Waiting…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
+            {% bubble Hiyori smileconfident %}
             Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
 
             I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
@@ -97,13 +97,13 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DgeYaS66b91fa866.webp?timestamp=1723408315254 %}
 
-{% bubble Chiaki srsthinking %}
+{% bubble Hiyori srsthinking %}
 Mm~… What’s this “my hashtag” part?
 {% endbubble %}
 
-{% bubble Chiaki curious %}
+{% bubble Hiyori curious %}
 …“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
 
 A hashtag that expresses who I am… What do you think that would be, Anzu?
@@ -115,10 +115,10 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
             That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki northinking %}
+            {% bubble Hiyori northinking %}
             Hm, I thought for sure you’d have a great idea in mind, though…
             {% endbubble %}
-            {% bubble Chiaki smile %}
+            {% bubble Hiyori smile %}
             But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
 
             I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
@@ -130,7 +130,7 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
             This is quite difficult, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
+            {% bubble Hiyori smilesoft %}
             Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
 
             I’ll ask the other participants what they wrote for theirs later.
@@ -143,9 +143,9 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_rFs5XE66b91fa866.webp?timestamp=1723408308611 %}
 
-{% bubble Chiaki smileconfident %}
+{% bubble Hiyori smileconfident %}
 …Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
 Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
@@ -159,12 +159,12 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
           Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki norsmile2 %}
+            {% bubble Hiyori norsmile2 %}
             There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
             I don’t know what awaits us over there, but…
             {% endbubble %}
-            {% bubble Chiaki fist %}
+            {% bubble Hiyori fist %}
             For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
@@ -174,7 +174,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
             Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileexplain %}
+            {% bubble Hiyori smileexplain %}
             Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
             I’ll give the rest of the questions a proper thought until the deadline.
@@ -192,7 +192,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_1" title="Chiaki Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/vs_gourmet/minitalk/hiyori_1" title="Hiyori Mini Talk: Delicious Arrival"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

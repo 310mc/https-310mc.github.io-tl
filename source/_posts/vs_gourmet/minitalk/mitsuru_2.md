@@ -1,13 +1,12 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: In Order To Represent Myself"
+title: "VS★GOURMET – Mitsuru Mini Talk: Restless Night"
 date: 2024/8/6 9:05:00
 categories:
-- [Enstars, Chiaki]
+- [Enstars, Mitsuru]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
+description: "[ES!!] Mitsuru’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
 hidden: true
-permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -17,7 +16,7 @@ permalink: test1/
                     Mini talk
                 </div>
                 <div class="value">
-					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -52,44 +51,45 @@ permalink: test1/
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_XKTrvj66b91fa8f6.webp?timestamp=1723408309429 %}
 
-{% bubble Chiaki norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
+{% bubble Mitsuru curious %}
+Ah, Ne~chan. You've got work this late at night?
 {% endbubble %}
 
-{% bubble Chiaki smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Mitsuru norsmile %}
+I was just about to head home. It got late by the time I finished practicing…
+
+Thinking about tomorrow makes me kinda restless. I can't get myself to stay still.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            It's an audition, after all.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Mitsuru smilesoft %}
+            Mhm. I'm half-excited, half-nervous…!
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+            I got called by Ni~chan earlier to have a strategy meeting, and in the end I decided the only choice I have is to do my best in my own way.
 
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            I just gotta challenge myself as a member of Ra*bits!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            Tomorrow…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Mitsuru grin %}
+            Yup, the audition's gonna start!
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            Just thinking about that makes me wanna run out immediately…! But I'll keep that feeling for tomorrow.
+            {% endbubble %}
+            {% bubble Mitsuru grin %}
+            That's why I gotta eat dinner early and sleep as much as possible!
 			{% endbubble %}
         </div>
     </div>
@@ -97,45 +97,45 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_x66b920abFRmOIr1.webp?timestamp=1723408559707 %}
 
-{% bubble Chiaki srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Mitsuru curious %}
+Ne~chan, what sorta work were you doing?
+
+…It's a secret? Ah, is it like, the "must remain confidential" kind?
 {% endbubble %}
 
-{% bubble Chiaki curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Mitsuru sighfrown %}
+I also get a lotta things at work that I have to keep a secret. I can't even tell my family, so it kinda makes me restless.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            Can't do anything about it, right?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
-            {% endbubble %}
-            {% bubble Chiaki smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Mitsuru smile %}
+            Mhm! It's a crucial promise to make when having a job!
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            If info leaked to the public before the announcement, everyone would just feel let down after all the preparation they've done.
+
+            The same can be said about our fans, too. So I'll keep my mouth zipped at all times~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            About your family…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            {% bubble Mitsuru smilesoft %}
+            They know I'm participating in the audition! I've also done loads of filming, and they saw that too~♪
 
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            I got a lot of support from everyone at school too, so I wanna do my best.
+            {% endbubble %}
+            {% bubble Mitsuru fist %}
+            And also, I want to be thought of as an amazing senior by my juniors…☆
 			{% endbubble %}
         </div>
     </div>
@@ -143,43 +143,42 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SM3lUc66b9202aX6.webp?timestamp=1723408430330 %}
 
-{% bubble Chiaki smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Mitsuru smileconfident %}
+Heave-ho. Okay, I'll have to go now, but do you still have work at ES, Ne~chan?
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+—This was the last of it? That's great to hear!
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+Then let's go home together, Ne\~chan\~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          Did you have dinner?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Mitsuru grin %}
+            Nope, I was practicing, so not yet~… I was thinking of stopping by a convenience store before going home.
 
-            I don’t know what awaits us over there, but…
-            {% endbubble %}
-            {% bubble Chiaki fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            If I buy onigiri at the convenience store now, I'll get a yuruchara sticker, the thing Midori-chan loves most~♪
+
+            He said he wanted to collect them all, so I'm helping him out.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            I'm hungry…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Mitsuru smile %}
+            You're feeling hungry too, Ne~chan? I was thinking of eating something before heading home, too.
 
-            I’ll give the rest of the questions a proper thought until the deadline.
+            I think Shiina-senpai might still be at Cinnamon at this hour?
 
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            Let's drop by the cafe together~♪ I'm sure he'd make us some real good food!
 			{% endbubble %}
         </div>
     </div>
@@ -192,7 +191,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_1" title="Chiaki Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/vs_gourmet/minitalk/mitsuru_1" title="Mitsuru Mini Talk: Reminded Of Its Taste"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

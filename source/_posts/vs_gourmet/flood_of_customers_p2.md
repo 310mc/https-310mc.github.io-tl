@@ -1,0 +1,640 @@
+---
+title: "VS★GOURMET – Flood of Customers (Chapter 8–12)"
+date: 2024-8-12 9:05:00
+categories:
+- [Enstars, Chiaki]
+- [Enstars, Mitsuru]
+- [Enstars, Raika]
+- [Enstars, Hiyori]
+- [Enstars, Ritsu]
+- [Enstars, Mayoi]
+- [Enstars, Nice]
+- [Enstars, Akiomi]
+tags:
+- Main Story
+- Akira
+description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki and Mitsuru are placed in Gourmet District and given their own restaurant in order to take on the ‘Restaurant Management Competition’…"
+---
+<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+    <div class="info-area">
+        <div class="info">
+            <div class="info-item characters">
+                <div class="label">
+                    Characters
+                </div>
+                <div class="value">
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                    <a href="/categories/Enstars/Raika" character="Raika"></a>
+                    <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
+                    <a href="/categories/Enstars/Ritsu" character="Ritsu"></a>
+                    <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
+                    <a href="/categories/Enstars/Nice" character="Nice"></a>
+                    <a href="/categories/Enstars/Akiomi" character="Akiomi"></a>
+                </div>
+            </div>
+            <div class="info-item one">
+                <div class="label">
+                    Writer
+                </div>
+                <div class="value">
+                    <a href="/tags/Akira/">Akira</a>
+                </div>
+            </div>
+            <div class="info-item two">
+                <div class="label">
+                    Translation
+                </div>
+                <div class="value">
+                    <a href="/about">310mc</a>
+                </div>
+            </div>
+            <div class="info-item three">
+                <div class="label">
+                   Proofreading
+                </div>
+                <div class="value">
+                    <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- more -->
+
+## Chapter Index
+<a href="#Chapter-8">Ch 8</a> - <a href="#Chapter-9">Ch 9</a> - <a href="#Chapter-10">Ch 10</a> - <a href="#Chapter-11">Ch 11</a> - <a href="#Chapter-12">Ch 12</a> - <a href="#Translation-Notes">Translation Notes</a>
+
+## Chapter 8
+
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (2nd year of ES’s Establishment)</span></p>
+</div>
+
+<div class="msr-narration">
+    <p>Several minutes later. At Chiaki and Mitsuru’s restaurant…</p>
+</div>
+
+{% bubble Chiaki srsthinking %}
+<th>(While I got to swear my pledge with a lot of enthusiasm… There’s only a little bit of time remaining.)</th>
+
+<th>(I have to give some real thought about what I could do to advance rapidly in the ranks tonight.)</th>
+
+…………
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fZN5Fy66ba587eP6.webp?timestamp=1723488387397 %}
+
+{% bubble Akiomi idle %}
+Despite the bold declaration of battle, you’ve got a long face, haven’t you, Morisawa-kun?
+{% endbubble %}
+
+{% bubble Chiaki surprised %}
+Whoa, glasses— I mean, Kunugi-sensei!?[^1] W-Welcome!
+{% endbubble %}
+
+{% bubble Mitsuru %}
+It’s a huge surprise to see Kunugi-sense~! What’re you here for?
+{% endbubble %}
+
+{% bubble Akiomi frown %}
+What sort of question is that… I am one of the judges; naturally I would be observing the participants’ restaurants, no?
+{% endbubble %}
+
+{% bubble Akiomi idle %}
+Let’s get to business; could I have the most popular pizza at your restaurant?
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+Ooh, then we recommend the vegetable-filled salad and teriyaki chicken half-&amp;-half pizza…!
+{% endbubble %}
+
+{% bubble Akiomi %}
+I’ll have that then.
+
+Hm. Your disadvantageous experience of being ‘sent to the fields’… It seems to me that you’ve made that into your strength.
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Yes, sir! I harvested these vegetables with all my might, so I wanted to make sure our customers enjoy eating them…
+{% endbubble %}
+
+{% bubble Akiomi norsmile %}
+Your management policy to work laboriously in a steady manner… I must say, I hold quite a favorable impression towards it.
+
+On top of that, you never give up no matter the situation — Surely that charm of yours is getting across to the other judges.
+
+You are not mistaken in your hard work. Be more confident in yourself.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+…Um—
+{% endbubble %}
+
+{% bubble Raika sigh %}
+Uheeh~…! Mitsuru-oniisan, may you please share with me somethin’ to drink?
+{% endbubble %}
+
+{% bubble Mitsuru idle %}
+Huh, Raika-chan? What’s wrong?
+{% endbubble %}
+
+{% bubble Raika sad2 %}
+My throat feels parched after singin’ so much, but the kitchen is packed right now…! Please allow me a chance to rest a little…!
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+Thanks for your hard work! I got something prepped here, so go ahead and drink it! Make sure to take a nice break~♪
+{% endbubble %}
+
+{% bubble Raika grin %}
+Uhyaa…! Thank ya very much, Mitsuru-oniisan!
+
+Ahh, the water’s soooo tasty…♪
+{% endbubble %}
+
+{% bubble Akiomi norsmile2 %}
+…Fufu. Tenma-kun’s eye for his surroundings has considerably improved after so much fostering.
+
+It’s almost hard to believe that you’re such a problem child at school.[^2] It could simply be that I haven’t seen you interacting with juniors that many times, but…
+
+Your endeavor to also properly support those younger than you as the student in the highest grade is simply wonderful.
+{% endbubble %}
+
+{% bubble Mitsuru surprised %}
+Uwah—! Kunugi-sensee is being so kind that it’s gross somehow! Did you eat something weird at some point…?
+{% endbubble %}
+
+{% bubble Akiomi frown %}
+…I take back what I said. It seems you’ve still got a lot of room for improvement on how to behave around your superiors.
+{% endbubble %}
+
+{% bubble Raika curious %}
+Erm. May I ask who this person is? Is he an acquaintance of yours, Oniisans?
+{% endbubble %}
+
+{% bubble Akiomi serious %}
+This is not our first meeting, though, Hojo-kun… Didn’t we meet at ES?
+{% endbubble %}
+
+{% bubble Raika northinking %}
+…?
+{% endbubble %}
+
+{% bubble Akiomi serious %}
+Well, no matter. I’m a teacher at Yumenosaki Academy, the same school Tenma-kun goes to. My name is Kunugi Akiomi.
+
+I work in the neutral organization in ES, called “P-Association”. I act as a judge in 4piece, but… Nice-kun has already introduced that to you all, no?[^3]
+{% endbubble %}
+
+{% bubble Akiomi glare %}
+…Oh, now I remember. Tenma-kun and Hojo-kun; the two of you were late on the first day, weren’t you.
+{% endbubble %}
+
+{% bubble Mitsuru takenaback %}
+Geh—!? So we did get caught! And I really thought we managed to get away with it too…!
+{% endbubble %}
+
+{% bubble Raika worried %}
+It’s my fault that Mitsuru-oniisan was late! So if ya blame Mitsuru-oniisan, I’ll take the punishment instead…!
+{% endbubble %}
+
+{% bubble Akiomi frown %}
+Setting Hojo-kun aside… Tenma-kun, you mustn’t forget that as long as you’re part of 4piece, you’re acknowledged as a student of Yumenosaki Academy by those around you as well.
+{% endbubble %}
+
+{% bubble Mitsuru sighdrop %}
+Uuu… I’m gonna run away in secret once 4piece is over. I can definitely get away ‘cuz it’s me…!
+{% endbubble %}
+
+{% bubble Raika fist %}
+I’ll look for a means of escape, so please allow me to help you. I’ll come up with a plan on what to do after you escape!
+{% endbubble %}
+
+{% bubble Akiomi sighfrown %}
+Please don’t work out a plan of escape right in front of me. Good grief…
+{% endbubble %}
+
+{% bubble Akiomi serious %}
+In any case, if I were to evaluate you from the time the screening began until now — Then I believe that Morisawa-kun, Tenma-kun, and Hojo-kun have all been doing very well.
+
+—However, that much is not powerful enough to turn the tables. Surely, you are all aware of this.
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+Yes… I’m aware that that’s exactly why we need some sort of strategy, but…
+{% endbubble %}
+
+{% bubble Akiomi norsmile %}
+I act as a judge here, so I’m not in a position where I can poke my nose in and give advice, but… Well, this much should be permissible.
+
+It appears Nice-kun’s also said a few words that lit a fire in a participant outside of the screening, anyway.[^4]
+
+—Take a closer look at your surroundings.
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+Surroundings… As in, the other participating idols…?
+{% endbubble %}
+
+{% bubble Mitsuru smileconfident %}
+Ah! I was thinking the same too! It’s like, the atmosphere doesn’t feel so good ‘cuz it’s like everyone’s just given up on the contest.
+
+There are some idols that pledged their vows after Chia-chan-senpai, but I still saw plenty of others without any motivation!
+{% endbubble %}
+
+{% bubble Akiomi norsmile2 %}
+Fufu, impressive as always. So you noticed already.
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+We’d definitely have a much more interesting program if everyone thought to take the challenge against Hiyori-senpai and Ritsu-chan-senpai, just like Chia-chan-senpai did!
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+That’s true, but… Can we truly re-invigorate the spirits of those idols who’ve already lost heart…?
+
+Also, to be frank, making profit in our own restaurant comes first and foremost. I doubt I’d be able to catch up with the top rankers unless I do that, after all.
+{% endbubble %}
+
+{% bubble Akiomi idle %}
+…You must come up with a method that makes you ‘profit’ by helping them.
+{% endbubble %}
+
+{% bubble Chiaki curious %}
+Making profit by helping them…?
+{% endbubble %}
+
+{% bubble Akiomi smilesoft %}
+Although, Morisawa-kun, you admire heroes of justice — So perhaps you subconsciously perceive helping others as ‘an act of service without pay’.
+
+Right. That’s enough meddling from me. That aside, will the pizza be done soon?
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Ah, yes. Please wait, it’ll be ready in just a moment.
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+—Thank you for waiting! It’s hot, so please be careful!
+{% endbubble %}
+
+{% bubble Akiomi norsmile2 %}
+Thank you very much. Right, let’s have a bite while it’s piping hot.
+{% endbubble %}
+
+{% bubble Akiomi smileconfident %}
+Hm… This is delicious; the vegetables and cheese perfectly complement each other.
+
+Perhaps I’ll have half of it as takeout for the judges. I’m sure they’ll also say it’s delicious…♪
+{% endbubble %}
+
+## Chapter 9
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tHh3D4T66ba60447.webp?timestamp=1723490378643 %}
+
+<div class="msr-narration">
+    <p>Fifth day of the screening, at night. Chiaki and Mitsuru’s room…</p>
+</div>
+
+{% bubble Mitsuru yawn %}
+<em>Yaaawn</em>…♪ Today was tiring too~
+{% endbubble %}
+
+{% bubble Mitsuru sightired %}
+But even after all that, we still couldn’t catch up with Hiyori-senpai and Ritsu-chan-senpai.
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Yeah. However, our names being listed in the top ranks means we still have a chance of recovery.
+
+If we want to catch up with those two… Then we need to make profit through a strategy they can’t copy.
+{% endbubble %}
+
+{% bubble Mitsuru worried %}
+Mm~… But what are we supposed to do to make that work?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+The hint is likely hidden within Kunugi-sensei’s words.
+
+Actually, I think it’s exactly as he meant it.
+{% endbubble %}
+
+{% bubble Mitsuru curious %}
+What do you mean by “exactly as he meant it”?
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+The strategy is to be a helping hero for other restaurants.
+
+In actuality, by cooperating in the same restaurant with Tenma-kun for a whole day, I got to appreciate the blessings of having more manpower.
+
+Because you were in charge of serving the tables for our restaurant, I got to focus on my performance and cooking.
+
+Thanks to that, I managed to excel at my duty perfectly — Or rather, I truly felt like I managed to do what I <em>wanted</em> to do to some extent.
+{% endbubble %}
+
+{% bubble Mitsuru nod %}
+It was a huge help for me, too! All I had to do was deliver the meals with all my power, so today was super easy on me!
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+I’m sure the same goes for the other participants. There’s no doubt that there are people who’d like to focus on advertising, as well as people who want to focus on cooking.
+
+Everyone’s bound to have their own thing they’d like to do. Just like the current Ryuseitai—
+{% endbubble %}
+
+{% bubble Mitsuru northinking %}
+Um, if I remember correctly, the current Ryuseitai changes leaders depending on the work, right?[^5]
+{% endbubble %}
+
+{% bubble Chiaki norsmile2 %}
+Yeah. If it’s a ninja-related job, then Sengoku would be leader, and if it’s a cooking show that uses vegetables, then Takamine would be leader.[^6]
+
+Everyone’s bound to have a desire to shine in their area of expertise in that same fashion.
+
+Yet, people have to do <em>everything</em> here, from cooking to serving customers — so they’re unable to accomplish the things they actually want to do to a satisfying degree.
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+That’s why I’m thinking of becoming a helping hero for those idols struggling to make progress.
+
+A plan like that is surely something that the two reigning control over the top, Sakuma and Tomoe, wouldn’t be able to imitate — Or more precisely, it isn’t a method they’d go with.
+{% endbubble %}
+
+{% bubble Mitsuru curious %}
+But how will you make ‘profit’ from that, Chia-chan-senpai? You can’t get money just by helping people, so…?
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+Yeah, that’s true. That’s why in exchange for helping out at their restaurant, I’ll ask for a tiny tip.
+{% endbubble %}
+
+{% bubble Mitsuru idle %}
+A tip…?
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+In short, I’ll have them employ me at their restaurant. I’ll be a hire-by-the-day helping hero!
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+…I don’t know if this plan will actually work. If everyone continues to be demoralized and fails to stand back up, I’ll likely crumble alongside them.
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+But we shouldn’t forget that every one of these idols has the guts to at least take on the challenge of this audition.
+
+I believe that as long as they see there’s a chance to stand back up, they’ll face forward and keep their chin up once more!
+
+A hero abandons no one. As long as you ask for it, they’ll come rushing to you no matter when and give you courage, right?
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rd66ba6044sIo1a2.webp?timestamp=1723490378907 %}
+
+<div class="msr-narration">
+    <p>Sixth day of 4piece, at midday. As they announce the day’s meal…</p>
+</div>
+
+{% bubble Akiomi idle %}
+“—The sixth day of Gourmet District’s screening is about to begin. There are only two days left of the screening, today included.”
+
+“For tomorrow, the final day’s screening… there will be something special for it, so after today’s results announcement, we will have Nice-kun announce the news, as well as the meal theme of the day.”
+{% endbubble %}
+
+{% bubble Akiomi smileexplain %}
+“Right, it’s time to announce today’s meal. Today’s meal will be—”
+
+“‘Noodles’. Let’s begin with the purchasing of ingredients.”
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+<th>(—Purchasing, huh. Even the intense scramble for ingredients from the early days has become so sluggish now.)</th>
+
+<th>(The motivated idols have gone off to get their ingredients, but there are also some who are just walking slowly towards it.)</th>
+
+<th>(I’d also like to rush and buy my own ingredients, but… The person I should be calling out to right now is this participant here, whose head is hanging low.)</th>
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+<th>(Alright! Time to set the plan in motion…!)</th>
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+—Hey there! Would you like a helping hand?
+{% endbubble %}
+
+## Chapter 10
+
+<div class="msr-narration">
+    <p>Several hours later. After the screening of the sixth day…</p>
+</div>
+
+{% bubble Nice smilesoft %}
+“Thank you for your hard work, everyone. I got to savor all your delicious meals today, too.”
+
+“I hope to see Nice meals again tomorrow. I’d love you all to satisfy my heart and taste buds!”
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_POyLLrG66ba6c167.webp?timestamp=1723493404147 %}
+
+{% bubble Mitsuru grin %}
+Chia-chan-senpai, I hope it went well! You must’ve been hard at work~! *(Waves)*
+{% endbubble %}
+
+{% bubble Raika smile %}
+Chiaki-oniisan looked super busy today, after all!
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Ahh, Tenma-kun, Hojo-kun, I hope it all went well for you both, too!
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+And also, to everyone who fought together with me; thank you for your hard work!
+
+Today’s efforts won’t go to waste. It’ll surely act as a step forward to victory tomorrow. Let’s keep up this pace and do our best on the final day, too…!
+{% endbubble %}
+
+{% bubble Nice %}
+“Fufu. The bloodthirsty atmosphere that overwhelmed the venue up until yesterday has brightened up a lot throughout today.”
+
+“Absolutely Nice*,* indeed! By the looks of it, I think we won’t have to worry about disappointing our special customers when we welcome them on the final day…♪”
+{% endbubble %}
+
+{% bubble Ritsu curious %}
+Who’re these ‘special customers’ for the final day…?
+{% endbubble %}
+
+{% bubble Nice %}
+“Fufu. I’ll save the fun for the end. For now, let’s look back on the battle in Gourmet District thus far.”
+
+“Gourmet District’s screening is as follows — A ‘Restaurant Management Competition’, where the one who obtains the most profit wins.”
+
+“And the two people who seized the reins of this contest from day one to day five were Tomoe-kun and Sakuma-kun.”
+
+“Tomoe-kun’s pride and true overwhelming marketing power, Sakuma-kun’s distinct characteristics in his creative meals — as well as the rational management tactics that they both share — allowed no other participant a chance to catch up.”
+
+“First, allow me to bestow upon you two a Nice for dominating Gourmet District consistently through the use of your strengths.”
+{% endbubble %}
+
+{% bubble Hiyori nod %}
+Mhm, mhm, a well-deserved appraisal!
+{% endbubble %}
+
+{% bubble Ritsu smilesoft %}
+It doesn’t feel bad to get praised…♪
+{% endbubble %}
+
+{% bubble Nice %}
+“However, while Tomoe-kun and Sakuma-kun stand out conspicuously, there are still plenty of other idols that we mustn’t forget exist.”
+
+“They, too, are key figures who’ve dominated the flow <em>outside</em> of Gourmet District, you know…?”
+{% endbubble %}
+
+{% bubble Hiyori curious %}
+…? What do you mean by outside of Gourmet District?
+{% endbubble %}
+
+{% bubble Nice %}
+“Fufu. This audition you are all participating in is no mere audition.”
+
+“The 4piece audition is a highly popular program, making real waves on TV right now.”
+
+“The sixth day’s screening will also be edited after this, and broadcasted as soon as possible, just like the other days were. All your endeavors have been reaching the fans at practically real-time.”
+
+“And in order to support all of you and your efforts, tomorrow’s Gourmet District will be prospering like never seen before!”
+
+“For the seventh day’s screening, the ones you will be serving are not gourmands. It shall be all your fans, who will come to cheer for you!”
+{% endbubble %}
+
+{% bubble Ritsu v2 %}
+Ohh? So the special customers are the fans of all of us idols.
+{% endbubble %}
+
+{% bubble Chiaki nod %}
+Oohh…! I never imagined that they’d come to visit Gourmet District…! I’ll have to pour all the more efforts into serving and entertaining them…☆
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+Mhm! If all our fans are coming over to hang out, then I gotta make this place even more super duper hype and fun!
+{% endbubble %}
+
+{% bubble Hiyori smileconfident %}
+Fufu. This is a fairly advantageous situation for me.
+
+If you’ll be inviting fans from the outside, then that means performing as an idol will be a lot more essential than cooking for the final day.
+
+And if so, then my victory is all the more guaranteed!
+{% endbubble %}
+
+{% bubble Ritsu northinking %}
+Yeah, as Hiyohiyo says, the idols who’ve always been well-known will likely have an even bigger advantage, huh…
+{% endbubble %}
+
+{% bubble Nice %}
+“Fufu. I can see that you’re all already racking your brains for a strategy for the final day.”
+
+“Tomorrow, all your fans who have been looking forward to meeting you will likely crowd the venue. We estimate an unparalleled amount of customers compared to the gourmands we’ve had up to now.”
+
+“Gourmet District is a straightforward ‘profit’ contest. Unlike Prince Castle, your ‘competition score’ will also have a massive gap depending on your profits.”
+
+“While Tomoe-kun and Sakuma-kun are tremendously in the lead right now, who knows what will happen in tomorrow’s results?”
+
+“In the final screening of Gourmet District, how will you all approach servicing your fans? How will you make profit out of it? A dramatic turning of tables is still plausible!”
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+…That seems to be the end of the details for the final day.
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+All our fans will be our customers… What a happy surprise! ☆
+
+I’m gonna entertain every one of my fans by dashing with all my might again tomorrow~!
+{% endbubble %}
+
+{% bubble Hiyori niya %}
+Sorry, but I don’t plan on giving you a chance to turn the tables, you know?
+
+Nice-P may have mentioned a dramatic turning of tables or what-have-you, but… I’ll have you know, I excel <em>most</em> at delivering love to all my fans.
+{% endbubble %}
+
+{% bubble Hiyori smile %}
+This match is mine already…♪ Ahh, such fine weather!
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+You seem to be even more enthusiastic than ever, Tomoe.
+
+But we still don’t know the outcome of this contest. I don’t plan on taking back what I said yesterday!
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tlK66ba6c16xfq73.webp?timestamp=1723493404114 %}
+
+{% bubble Chiaki fist %}
+I <em>will</em> win against you. Let’s make it a fight none of us will regret tomorrow! Tomoe, Sakuma, Tenma-kun!
+{% endbubble %}
+
+{% bubble Hiyori curious %}
+…Mm? Why are you suddenly thrusting your fist out?
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+C’mon, this is the sort of thing you do when faced with a decisive battle! We’ll bump fists and vow to exert our wholehearted efforts!
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+Ah! I do that a lot in my club, too! Of course I’ll vow to exert my wholehearted efforts!
+{% endbubble %}
+
+{% bubble Ritsu norsmile2 %}
+Well, I suppose I don’t mind joining along if it’s something as simple as that?
+{% endbubble %}
+
+{% bubble Chiaki nod %}
+Thank you, you two! C’mon, Tomoe, join us!
+{% endbubble %}
+
+{% bubble Hiyori yare %}
+<em>Sigh</em>… I’m glad Jun-kun isn’t closeby. If he was here right now, this would’ve surely turned into another suffocating moment.
+{% endbubble %}
+
+{% bubble Hiyori smilesoft %}
+But, well, I’m in that sort of mood right now too, so — I’ll accept this and vow to exert my wholehearted efforts…♪
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Yeah! Let’s fight with all our might on the final day of 4piece…☆
+{% endbubble %}
+
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/vs_gourmet/flood_of_customers" title="Previous Chapter: Flood of Customers (Chapter 1–7)"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/vs_gourmet/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
+
+## Translation Notes
+
+[^1]: Chiaki calls Akiomi “<em>megane</em>” (glasses). Chiaki has said something like this before to Akiomi, in an old exchange from the first main story, in 2015. Chiaki yells at Akiomi <em>urusai zo megane</em> (Shut up, glasses). <a href="https://twitter.com/310mc1/status/1728536868759740711" target="_blank">Here’s a short translation of the exchange</a>. 
+[^2]: In Mitsuru’s first year, Akiomi would scold Mitsuru for various things like his running around, and then Mitsuru attempts to run away from him, and so on and so forth.
+[^3]: The explanation in question is when Nice-P was speaking to the participants before Mitsuru and Raika arrived. He introduced the judges to everyone during that time. The full scene is shown in VS★PRINCESS, but was cut short in this story.
+[^4]: Referring to VS★PRINCESS, when Nice-P has a heartfelt talk with Esu that motivates him to give the audition another shot.
+[^5]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decide to take turns being the leader (Happens <em>just</em> before the 2nd year of ES’s establishment). One of the leader rotations is shown in <a href="/tropical" target="_blank">Tropical</a>, with Midori as the leader, and another leader rotation is shown in <a href="/stella_maris" target="_blank">Stella Maris</a>, with Kanata as the leader. As for Chiaki’s leader rotation, it happens in <a href="/parallel_world" target="_blank">Parallel World</a>.
+[^6]: Upon becoming a unit of all leaders, Ryuseitai’s unit slogan changed from “Heroes Burning With Passion☆” to “Heroes Who Shine Their Own Individuality☆” to reflect the change in direction.

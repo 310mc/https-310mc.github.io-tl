@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] VS★GOURMET (In Progress!)"
-date: 2024-8-8 9:00:00
+date: 2024-8-13 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 tags:
@@ -621,7 +621,7 @@ permalink: vs_gourmet/
                 alt="TBA"
             />
         </div>
-        <a href="/vs_gourmet/minitalk/chiaki_1" class="storyName" target="_blank">
+        <a href="/vs_gourmet/minitalk/mitsuru_1" class="storyName" target="_blank">
             <span>1: TBA</span>
             <span class="read"></span>
         </a>
@@ -633,7 +633,55 @@ permalink: vs_gourmet/
                 alt="TBA"
             />
         </div>
-        <a href="/vs_gourmet/minitalk/chiaki_2" class="storyName" target="_blank">
+        <a href="/vs_gourmet/minitalk/mitsuru_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src=""
+                alt="TBA"
+            />
+        </div>
+        <a href="/vs_gourmet/minitalk/hiyori_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src=""
+                alt="TBA"
+            />
+        </div>
+        <a href="/vs_gourmet/minitalk/hiyori_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src=""
+                alt="TBA"
+            />
+        </div>
+        <a href="/vs_gourmet/minitalk/raika_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src=""
+                alt="TBA"
+            />
+        </div>
+        <a href="/vs_gourmet/minitalk/raika_2" class="storyName" target="_blank">
             <span>2: TBA</span>
             <span class="read"></span>
         </a>

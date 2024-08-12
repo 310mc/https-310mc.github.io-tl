@@ -3763,13 +3763,37 @@
 /**
 ***/
 
-/** Jin Expressions
+/** Akiomi Expressions
 ***/
 [character="Akiomi"][frown] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_frown.png");
 }
 [character="Akiomi"][glare] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_glare.png");
+}
+[character="Akiomi"][idle] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_idle.png");
+}
+[character="Akiomi"][norsmile] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_norsmile.png");
+}
+[character="Akiomi"][norsmile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_norsmile2.png");
+}
+[character="Akiomi"][serious] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_serious.png");
+}
+[character="Akiomi"][sighfrown] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_sighfrown.png");
+}
+[character="Akiomi"][smileconfident] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_smileconfident.png");
+}
+[character="Akiomi"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_smileexplain.png");
+}
+[character="Akiomi"][smilesoft] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/akiomi_smilesoft.png");
 }
 /**
 ***/
@@ -4431,6 +4455,9 @@
 [character="Hinata"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_norsmile.png");
 }
+[character="Hinata"][norsmile2] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_norsmile.png");
+}
 [character="Hinata"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_northinking.png");
 }
@@ -4464,8 +4491,14 @@
 [character="Hinata"][smileconfident] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smileconfident.png");
 }
+[character="Hinata"][smileexplain] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smileexplain.png");
+}
 [character="Hinata"][smilesoft] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_smilesoft.png");
+}
+[character="Hinata"][snicker] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_snicker.png");
 }
 [character="Hinata"][srsthinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hinata_srsthinking.png");

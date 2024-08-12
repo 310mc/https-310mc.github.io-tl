@@ -1,13 +1,12 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: Undecided Menu"
+title: "VS★GOURMET – Raika Mini Talk: Blessings of Food"
 date: 2024/8/6 9:04:00
 categories:
-- [Enstars, Chiaki]
+- [Enstars, Raika]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
+description: "[ES!!] Raika’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
 hidden: true
-permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -17,7 +16,7 @@ permalink: test1/
                     Mini talk
                 </div>
                 <div class="value">
-					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Raika" character="Raika"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -52,42 +51,44 @@ permalink: test1/
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_L66b91fa86oIqmg1.webp?timestamp=1723408313705 %}
 
-{% bubble Chiaki grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Raika grin %}
+♪\~♪\~♪
 
-If you’re alright with it, how about you share a table with me! ☆
+Ehihi. Onee-san, treatin’ me to food… I’m such a fortunate person…♪
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+Do ya always bless idols with food, Onee-san?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            Not at all.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
+            {% bubble Raika surprised %}
+            Then am I special…? Uhyaa, I’ll keep it a secret to everyone!
+            {% endbubble %}
+            {% bubble Raika smile %}
+            But, but! I’ve also slowly started to do idol work. Next time, it’ll be my turn to repay Onee-san.
 
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            Please think about what you’d like to eat from now, if that’s alright…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            “Bless”…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Raika curious %}
+            Huh? Did I say somethin’ odd in any way?
+            {% endbubble %}
+            {% bubble Raika smile %}
+            Mrm~… I’m tryin’ to match my way of speakin’ to everyone else, but… It’s quite difficult.
 
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            Is there perhaps some sort of textbook for this…?
 			{% endbubble %}
         </div>
     </div>
@@ -95,45 +96,45 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b91fa8r2S316Z0.webp?timestamp=1723408311379 %}
 
-{% bubble Chiaki srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
+{% bubble Raika smilesoft %}
+Speakin’ of which, there isn’t just food I’ve never seen before here, but drinks too…!
 
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+May I order this “craft cola”?
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Raika fist %}
+I can’t imagine what sort of drink it is through the name alone, but… I’ll try it out as a challenge!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            It’s delicious.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Raika grin %}
+            Ehihi. I’m excited to see what it tastes like…♪
 
-            You still have time, so feel free to ponder however much you like…☆
+            What will ya have, Onee-san?
 
-            While you decide, I’ll think about what I’ll have for dessert!
+            “Lemon squash”? Heh-heeh~, I’m so curious about that one too!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            It’s got a unique taste.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
-
-            …Huh? There’s eggplants in it?
+            {% bubble Raika curious %}
+            Mm~? By unique, do ya mean it’s salty despite bein’ a drink or somethin’…?
             {% endbubble %}
-            {% bubble Chiaki sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Raika smile %}
+            Not like that? That’s a relief, then…!
+
+            If it’s tasty, then I’m thinkin’ of tellin’ Nice-sama about it too…♪
 			{% endbubble %}
         </div>
     </div>
@@ -141,43 +142,47 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Xqa166b92074MlI4.webp?timestamp=1723408504287 %}
 
-{% bubble Chiaki grin %}
-—Thanks for the wonderful meal!
+{% bubble Raika curious %}
+Anzu-oneesan, ya produce idols, yes?
+{% endbubble %}
 
-So after this, I’m thinking of having a dance practice session.
+{% bubble Raika sad2 %}
+Uu, may you please teach me the fundamentals of dancin’…?
 
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+There is so much I don’t understand, even when I go to a lesson practice for it. I beg of ya, please help me…!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            Which parts are hard to understand?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin %}
-            Ooh, I appreciate it!
+            {% bubble Raika sightired %}
+            The terminology is so difficult… I’m strugglin’ to memorize what each word means.
 
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            It’s the first time I hear about stuff like “formation” and “unison”.[^1]
+            {% endbubble %}
+            {% bubble Raika grin %}
+            …You’ll teach me one by one? Ehihi, ya really are a goddess, Onee-san~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            You’ll get a hang of it soon enough.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% bubble Raika awkward %}
+            I keep gettin’ scolded, so… But, but! I’m willin’ to try!
             {% endbubble %}
-            {% bubble Chiaki smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
-
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            {% bubble Raika curious %}
+            —What is this? A list of vocabulary Onee-san made…?
+            {% endbubble %}
+            {% bubble Raika smile %}
+            Is it really okay to have this!? I shall do my very best to memorize the words with this list!
 			{% endbubble %}
         </div>
     </div>
@@ -196,8 +201,12 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/minitalk/raika_2" title="Raika Mini Talk: Peculiar Recipe"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
+
+## Translation Notes
+
+[^1]: These words are in katakana, i.e. foreign words, hence why Raika struggles to memorize them.

@@ -607,7 +607,7 @@ Ritsu-san’s pressure has suddenly become extremely strong for some reason…! 
 {% bubble Ritsu yare %}
 It’s not <em>that</em> strong now, is it?
 
-Well, see, it’s ‘cause I may or may not have my own thoughts about Hiyohiyo regarding Anija…?
+Well, see, it’s ‘cause I may or may not have my own thoughts about Hiyohiyo related to Anija…?
 {% endbubble %}
 
 {% bubble Ritsu norsmile2 %}
@@ -1085,7 +1085,7 @@ Ooh, me, me! Nice-P, can you hear me~?
 
 “And to all of you who are capable of bringing forth such a pleasant air, this ‘contest’ will be most suitable to you.”
 
-“In the second venue, Gourmet District, you will be judged based on a ‘Restaurant Management Contest’!”
+“In the second venue, Gourmet District, you will be judged based on a ‘Restaurant Management Competition’!”
 {% endbubble %}
 
 {% bubble Chiaki hidden %}
@@ -1569,6 +1569,6 @@ Wha—
 [^25]: Ritsu’s word-combination and wordplay is a lot more clever in Japanese. Vampire is <em>kyuuketsu-ki</em>; combined with <em>kikku</em> (kick), you get <em>kyuuketsu-kikku</em>. Meanwhile, Chiaki loves puns and finishing moves!
 [^26]: Tokusatsu (meaning “special effects”) is a genre of live-action film or TV drama that makes heavy use of special effects, for ex. Kamen Rider, Super Sentai series, etc… <a href="https://tokusatsu.fandom.com/wiki/Tokusatsu" target="_blank">Read more here</a>. Chiaki really loves tokusatsu shows and one of his hobbies is watching them.
 [^27]: Chiaki switches from his usual way of speaking to speak in polite language (keigo) with Nice-P.
-[^28]: Ritsu’s cooking is known to look strange yet taste incredible. Ritsu also loves cooking them. See the CGs and stories of <a href="https://ensemble-stars.fandom.com/wiki/Sweets" target="_blank">Sweets</a> and <a href="https://ensemble-stars.fandom.com/wiki/Dark_Night_Halloween" target="_blank">Dark Night Halloween</a>. It’s mentioned or shown in a few other stories too, like Horror Night Halloween, Sweets Hunt, his birthday stories, and more. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for translations.
+[^28]: Ritsu’s cooking is known to look strange yet taste incredible. Ritsu also loves cooking them. See the CGs and stories of <a href="https://ensemble-stars.fandom.com/wiki/Sweets" target="_blank">Sweets</a> and <a href="https://ensemble-stars.fandom.com/wiki/Dark_Night_Halloween" target="_blank">Dark Night Halloween</a>. It’s mentioned or shown in a few other stories too, like Horror Night Halloween, Sweet Hunt, his birthday stories, and more. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for translations.
 [^29]: Dogeza (Prostrating oneself) is a Japanese form of etiquette, where the person kneels on the ground and bows to prostrate oneself while touching one’s head to the floor. It’s used to express one’s deepest apologies to someone or when wanting a favor from someone. <a href="https://en.wikipedia.org/wiki/Dogeza" target="_blank">Read more here</a>. In this case, Raika does a version where he jumps before prostrating on the ground.
 [^30]: This is referring to <a href="https://tomoya.moe/tl/dead_end_land" target="_blank">Dead End Land</a>. Mayoi, Shinobu, Tomoya and Wataru helped out at a cafe.

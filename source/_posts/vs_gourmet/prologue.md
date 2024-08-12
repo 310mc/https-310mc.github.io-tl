@@ -319,6 +319,6 @@ I absolutely want to repay ya for the debt I owe ya…!
 
 ## Translation Notes
 
-[^1]: Raika uses <em>setsu</em> (拙) as his first-person pronoun. He speaks in a very old speech pattern from the Edo period (<em>de-yansu</em>). People who spoke this way were of the ordinary, lower class. It’s a polite way of speaking, but it’s also overly humble; the speaker puts themselves down while respecting others. Please check <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">this masterlist</a> for a translation of Raika’s Idol Story 1 & 2.
+[^1]: Raika uses <em>setsu</em> (拙) as his first-person pronoun. He speaks in a very old speech pattern from the Edo period (<em>de-yansu, de-gozee-yasu, shi-yasu</em>). People who spoke this way were of the ordinary working class. It’s a polite way of speaking, but it’s also overly humble; the speaker puts themselves down while respecting others. His first-person pronoun also gives that same over-humble impression. Please check <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">this masterlist</a> for a translation of Raika’s Idol Story 1 & 2.
 [^2]: Anpan is bread roll filled with red bean paste. <a href="https://en.wikipedia.org/wiki/Anpan" target="_blank">Read more here</a>.
 [^3]: Onii-san is “big brother”. Other than its usage within family, it’s also used to show respect towards a stranger or an older person. It can also be used to refer to someone who feels like or is regarded as an older brother figure.

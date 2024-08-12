@@ -1,13 +1,12 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: In Order To Represent Myself"
+title: "VS★GOURMET – Raika Mini Talk: Peculiar Recipe"
 date: 2024/8/6 9:05:00
 categories:
-- [Enstars, Chiaki]
+- [Enstars, Raika]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
+description: "[ES!!] Raika’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
 hidden: true
-permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -17,7 +16,7 @@ permalink: test1/
                     Mini talk
                 </div>
                 <div class="value">
-					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Raika" character="Raika"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -52,44 +51,45 @@ permalink: test1/
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_VG866b92139uc863.webp?timestamp=1723408699981 %}
 
-{% bubble Chiaki norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
+{% bubble Raika curious %}
+Umm, Anzu-oneesan. You look sad; what’s wrong…?
 {% endbubble %}
 
-{% bubble Chiaki smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Raika surprised %}
+…It’s about the food I made!? Ehhh, is there some problem with it…!?
+
+I tried to make it as best as I could, while rememberin’ all the food I’ve eaten so far…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            How did you make it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Raika norsmile %}
+            So I added rice to the pot, then poured a lot of tap water…
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            Then I boiled it well until the rice turned to a mush. The more water ya add, the more portion it’s got, so… And then, um, erm…
+            {% endbubble %}
+            {% bubble Raika northinking %}
+            Seasoning? But I believe the taste of the rice will be slightly enjoyable to eat as is…?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            What’s in it…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Raika smileconfident %}
+            Ehihi, I grinded and mixed my favorite foods~♪
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
+            There were a lot of vegetables, so I went with onions and spinach… I put ingredients that are nutritional in the grindin’ bowl.
 
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            I only used one type of vegetable for the one I ate before, so this one should definitely be much tastier…♪
 			{% endbubble %}
         </div>
     </div>
@@ -97,45 +97,44 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_q2LJ4666b91fa8s6.webp?timestamp=1723408318830 %}
 
-{% bubble Chiaki srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Raika awkward %}
+That all bein’ said… The "scramble for ingredients" had a lot of pressure in it, didn’t it…
+
+All the idols were so eager… I truly felt the pressure.
 {% endbubble %}
 
-{% bubble Chiaki curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Raika norsmile %}
+If Ritsu-sama hadn’t held my hand… I would’ve definitely been sucked into the crowd.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            So you got help, huh?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
-            {% endbubble %}
-            {% bubble Chiaki smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Raika grin %}
+            Ehihi. Ritsu-sama’s such a kind person…♪
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            It’s not just him, everyone I met today… They were all so kind to me to such an incredible level.
+
+            That’s why I’ll try to find somethin’ I can do for everyone’s sake, as well. It’s an idol’s duty to take action for the sake of others, correct?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            It must’ve been rough.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            {% bubble Raika smilesoft %}
+            Thanks to that, I was also able to obtain ingredients…♪
 
-            I’ll ask the other participants what they wrote for theirs later.
+            Ritsu-sama bought so many ingredients I’ve never seen before! It was stuff I couldn’t figure out how you’d even use.
 
-            Who knows, I might be able to use it as reference!
+            I also want to try Ritsu-sama’s food…♪
 			{% endbubble %}
         </div>
     </div>
@@ -143,43 +142,46 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dcZp66b921392fD4.webp?timestamp=1723408700812 %}
 
-{% bubble Chiaki smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Raika norsmile %}
+Onee-san, are ya goin’ to other restaurants after this?
+{% endbubble %}
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+{% bubble Raika nod %}
+You’re not sure where to go next? I know how ya feel…!
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+There were so many tasty-lookin’ meals in the kitchen, and I can smell all kinds of different food even when queuin’ up…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          Good luck after this, too.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Raika fist %}
+            Yes! I’ll do my best!
 
-            I don’t know what awaits us over there, but…
+            …Um, Onee-san. You don’t seem to have finished the food; are you sure you want me to take away the plate?
             {% endbubble %}
-            {% bubble Chiaki fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Raika surprised %}
+            …You have a stomachache? Uhee, please get well soon!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            It’s hard to decide, right?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Raika smilesoft %}
+            If I have time as well, I’d love to try out all the food here~♪
 
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            But, but! Managin’ my restaurant comes first, correct?
+            {% endbubble %}
+            {% bubble Raika fist %}
+            I feel like I could lose to the tasty smell any moment, but… I’ll be sure to get through the first day!
 			{% endbubble %}
         </div>
     </div>
@@ -192,7 +194,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_1" title="Chiaki Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/vs_gourmet/minitalk/raika_1" title="Raika Mini Talk: Blesss of Food"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

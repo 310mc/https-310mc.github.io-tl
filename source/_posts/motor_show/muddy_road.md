@@ -203,7 +203,7 @@ Actually, even if that *was* their plan, then we’re gonna inherit Ryuseitai an
 {% bubble Shinobu %}
 C-Cease this at once, Midori-kun! Don’t sour the mood after how hard Tetora-kun tried to perk himself back up!
 
-*Rin-pyou-tou-sha-kai-jin-retsu-zai-zen!*
+*Rin-hyou-tou-sha-kai-jin-retsu-zai-zen!*
 {% endbubble %}
 
 {% bubble Midori worried0 %}

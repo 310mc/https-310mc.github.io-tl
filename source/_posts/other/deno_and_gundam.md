@@ -35,7 +35,7 @@ ul {
 
 <link rel="stylesheet" href="/cssfolder/removewidth.css">
 
-*Big thank you to <a href="https://twitter.com/xvxaerial/status/1810474067209904433" target="_blank">BlueBoundary</a> for fact-checking and supplementing with more information!* Please check out the link for BlueBoundary’s document compiling tokusatsu references in Enstars!
+*Big thank you to <a href="https://twitter.com/xvxaerial/status/1810474067209904433" target="_blank">xvxaerial</a> for fact-checking and supplementing with more information!* Please check out the link for xvxaerial’s document compiling tokusatsu references in Enstars!
 
 ## Context
 
@@ -211,7 +211,7 @@ Kamen Rider Den-O is often referenced in Ryuseitai stories! Chiaki usually refer
 
 * Chiaki has referenced <a href="https://kamenrider.fandom.com/wiki/Momotaros" target="_blank">Momotaro’s</a> (red Imagin) catchphrases: <em>ore sanjou!</em> (I have arrived!) and <em>ore wa saisho kara saigo made kuraimakkusu da ze</em> (I’m at a climax from start to end)
 * Tetora has referenced <a href="https://kamenrider.fandom.com/wiki/Ryutaros" target="_blank">Ryutaros’</a> (purple Imagin) catchphrase: <em>omae taosu kedo ii? kotae wa kiitenai!</em> (Mind if I defeat you? Not that I’ll listen to your answer!)
-* I recommend checking <a href="https://twitter.com/xvxaerial/status/1810474067209904433" target="_blank">BlueBoundary</a>’s compilation for more references!
+* I recommend checking <a href="https://twitter.com/xvxaerial/status/1810474067209904433" target="_blank">xvxaerial</a>’s compilation for more references!
 * **If you’re a RyuseitaiP, I recommend watching Kamen Rider Den-O.** Not only is it referenced in Ryuseitai stories, but the storyline is fun and newbie-friendly to people new to tokusatsu shows!
 
 <br>

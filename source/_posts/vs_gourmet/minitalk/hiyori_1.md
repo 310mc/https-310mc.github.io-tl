@@ -1,11 +1,11 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: Undecided Menu"
+title: "VS★GOURMET – Hiyori Mini Talk: Delicious Arrival"
 date: 2024/8/6 9:04:00
 categories:
-- [Enstars, Chiaki]
+- [Enstars, Hiyori]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
+description: "[ES!!] Hiyori’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
 hidden: true
 permalink: test1/
 ---
@@ -17,7 +17,7 @@ permalink: test1/
                     Mini talk
                 </div>
                 <div class="value">
-					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -52,42 +52,48 @@ permalink: test1/
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_p66b91fa8zfwGmT1.webp?timestamp=1723408309534 %}
 
-{% bubble Chiaki grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Hiyori curious %}
+Hey, Anzu-chan. Are we not at the photoshoot location yet?
+{% endbubble %}
 
-If you’re alright with it, how about you share a table with me! ☆
+{% bubble Hiyori yare %}
+While I'm aware there's nothing we could do about me attending late, I'm grown quite fed up of this silence!
+{% endbubble %}
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+{% bubble Hiyori smilesoft %}
+Don't you have any interesting stories to share? For my sake, since I'm so bored...ongaku
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            I'm so sorry...
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
+            {% bubble Hiyori frown %}
+            You can't think of anything? Ehh~ You've really got nothing?
+            {% endbubble %}
+            {% bubble Hiyori norsmile %}
+            It can be about what's been happening lately, or something that made you happy... Anything, really.
 
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            Even if it wasn't that interesting, it could still act as a way to kill time, no?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            I wonder...
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Hiyori sighfrown %}
+            Gosh, I can't believe you have nothing!
 
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            ==A topic from me? Hm, I can't decide what to start with, but...
+            {% endbubble %}
+            {% bubble Hiyori srsthinking %}
+            ...I almost thought of one that might be interesting, but on second thought, maybe not.
 			{% endbubble %}
         </div>
     </div>
@@ -95,25 +101,19 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_IE766b91fa8wNOl3.webp?timestamp=1723408309597 %}
 
-{% bubble Chiaki srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
-
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
-{% endbubble %}
-
-{% bubble Chiaki norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Hiyori norsmile %}
+So, 
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            That's true.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
+            {% bubble Hiyori grin2 %}
             There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
             You still have time, so feel free to ponder however much you like…☆
@@ -127,12 +127,12 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
             The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smile %}
+            {% bubble Hiyori smile %}
             Ohh, how healthy! Maybe I’ll go with that, too.
 
             …Huh? There’s eggplants in it?
             {% endbubble %}
-            {% bubble Chiaki sighfrown %}
+            {% bubble Hiyori sighfrown %}
             Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
@@ -141,9 +141,9 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QrB66b91fa8g6MV3.webp?timestamp=1723408308798 %}
 
-{% bubble Chiaki grin %}
+{% bubble Hiyori grin %}
 —Thanks for the wonderful meal!
 
 So after this, I’m thinking of having a dance practice session.
@@ -157,7 +157,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
             Sure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin %}
+            {% bubble Hiyori grin %}
             Ooh, I appreciate it!
 
             I’ve been challenging myself to do pretty advanced choreography lately.
@@ -171,10 +171,10 @@ There’s something about it I’ve been struggling with a little… Could I ask
             Please leave it to me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
+            {% bubble Hiyori grin2 %}
             Fuhaha, how reassuring! I expect nothing less from you, Anzu!
             {% endbubble %}
-            {% bubble Chiaki smileexplain %}
+            {% bubble Hiyori smileexplain %}
             Oh yeah, you’ve been working independently this year, right?
 
             If so, then how about us Ryuseitai also request work from you more and more…!
@@ -196,7 +196,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/minitalk/hiyori_2" title="Hiyori Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -284,7 +284,7 @@ I was just ‘bout to ask if anybody’s in here, but then I spotted you from un
 {% endbubble %}
 
 {% bubble Ritsu %}
-It’s not <em>Sakuma</em>-senpai, it’s <em>Ritsu</em>­-senpai. You have to get it down right.
+It’s <em>Ritsu</em>­-senpai, <em>not</em> Sakuma-senpai. You have to get it down right.
 
 I still feel a little cold… Like I’ll really start feeling lonely if I put this round table away… It’ll make me realize how we’re going to say our goodbyes to each other soon enough.
 

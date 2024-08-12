@@ -60,7 +60,7 @@ description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki an
 
 <!-- more -->
 
-*Compilation of profile Sheet and PR Videos coming soon!*
+*Compilation of Profile Sheet and PR Videos coming soon!*
 
 <!--
 

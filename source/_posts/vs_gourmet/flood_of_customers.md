@@ -1515,8 +1515,198 @@ I don’t care what tactic is used. If you follow my plan, one of you should be 
 ……?
 {% endbubble %}
 
+## Chapter 7
+
+{% bubble Chiaki idle %}
+Hold on, Sakuma. Could I hear your plan first?
+{% endbubble %}
+
+{% bubble Ritsu smileexplain %}
+Hm, well… The typical strategies are to tamper with the food, or spread bad rumors… There’s all sorts of methods.
+
+Since Hiyohiyo seems pretty clever despite how he may look… Isn’t it just fitting to pull a sly move on him?
+{% endbubble %}
+
+{% bubble Chiaki srsthinking %}
+…………
+{% endbubble %}
+
+{% bubble Chiaki sighfrown %}
+<th>(That’s definitely one way to extend the gap with Tomoe as it currently stands. If I accept Sakuma’s offer, it could work.)</th>
+
+<th>(But is that sort of thing really what I wanted to do in this audition…?)</th>
+
+<th>(No, the form of myself I actually want to show is—)</th>
+{% endbubble %}
+
+{% bubble Chiaki serious %}
+I’m sorry to say this after your kind offer, but… I can’t go along with it, Sakuma.
+
+Even if I came out on top through unfair acts — it wouldn’t be a result of my true capabilities.
+
+I’ve decided to always remain honest and straightforward no matter what. Whether it be towards myself, towards my comrades, or towards my rivals… Those feelings of mine will never change.
+
+That’s why — Even if it leads me to losing in this audition, I would rather overcome this situation my way, through my own means.
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+Mhm. Same goes for me! I’m gonna hype up 4piece in the sportsmanship way until the very end; fair and square!
+
+Ritsu-chan-senpai, you mentioned that I’ve been trying to hype up the program, but… That doesn’t mean I’ve been cutting corners with the contest, y’know?
+
+I’ve grown lots and lots too! I’ll prove to you that I’m not just a cute li’l bunny forever!
+{% endbubble %}
+
+{% bubble Ritsu frown2 %}
+…Ah~ah. Guess it won’t go in my favor after all, huh.
+
+I thought my burdens would lessen if I got lucky and enticed you simpletons, y’know~?
+{% endbubble %}
+
+{% bubble Ritsu smile %}
+But if you’re really all that earnest about it, then it’s time I obediently withdraw…♪
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+No, I’m not going to let you do that!
+{% endbubble %}
+
+{% bubble Ritsu curious %}
+Eh…? Huh, what do you mean?
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Tenma-kun! I’ll carry Sakuma on my back to the center of the venue, so you go and look for Tomoe!
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+Ooh, I dunno what’s going on, but gotcha! I’ll go fetch Hiyori-senpai!
+{% endbubble %}
+
+{% bubble Ritsu curious %}
+Huh? Huh…?
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+Come on now, Sakuma! You can’t tell me this is how it ends for you, right? Don’t you know, the contest is still underway…☆
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Several minutes later. In the center of Gourmet District…</p>
+</div>
+
+{% bubble Chiaki grin2 %}
+“Everyone in the venueeeee! And, all the idols participating in the Gourmet District audition! Listen closely!”
+
+“First, the idol in the lead right now: Eden’s Tomoe Hiyori!”
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K66ba512adJ2vj81.webp?timestamp=1723486508199 %}
+
+{% bubble Hiyori glare %}
+“…Chiaki-kun. What on earth are you trying to pull? Do you intend to hinder my performance?”
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+“And! Knights’ Sakuma Ritsu, who’s chasing after the top ranker Tomoe Hiyori!”
+
+“Both of you, appear before me! C’mon, c’mon, you have to hurry…☆”
+{% endbubble %}
+
+{% bubble Ritsu sightired %}
+“Ahh, jeez, don’t yell… You were loud the whole time you were carrying me too, I feel like I’m gonna lose my hearing at this point…”
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+“Whoops, sorry! Then I’ll keep it short!”
+
+“Let me start by introducing myself. The red flame is the mark of justice! The sun of life, burning bright red!”
+
+“Ryusei Red, Morisawa Chiaki…! I’m in your caaaare!”
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+“—I vow to you. No matter how much the gap widens, I will <em>never</em> give up until the very last end!”
+
+“In the name of Ryuseitai, I swear to stand victorious against you two!”
+{% endbubble %}
+
+{% bubble Hiyori smile %}
+“…Wow, that zeal sure came as a surprise, hm? But you know, I don’t dislike that impulsive side of you…♪”
+
+“Very well then, Chiaki-kun. A contest like that… I, Tomoe Hiyori, shall take up the gauntlet!”
+
+“If Chiaki-kun is the burning bright red sun, then I’m the brilliantly shining blessed sun…♪ Even if you burn out, <em>my</em> glimmer is eternal!”
+{% endbubble %}
+
+{% bubble Chiaki %}
+“Sakuma. You’ll also clash against me with all your might in this contest, won’t you?”
+{% endbubble %}
+
+{% bubble Ritsu awkward %}
+“Uwah, there’s no way I can back out of this now, huh. But then again, if I <em>do</em> back out here, it’ll affect my honor as a knight…”
+{% endbubble %}
+
+{% bubble Chiaki grin2 %}
+“Fuhahahaha! Yeah, that’s <em>exactly</em> what Knights is all about! ☆ And there’s actually one more idol I want to offer a match with.”
+
+“—Come on over, Ra*bits’ Tenma Mitsuru! Thank you for fighting alongside me today! However, from tomorrow onwards, we’ll be rivals who’ll clash against one another!”
+{% endbubble %}
+
+{% bubble Mitsuru fist %}
+“I also had loads of fun managing a restaurant together! Next time we meet, I’ll take up your challenge as a rival!”
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+“There is something I got to truly feel and understand through all our fights so far: Our very conviction is essential to achieve victory…!”
+
+“The persistence to carry out your desires, pushing straight-ahead — That might have been the sort of resolve that I lacked.”
+
+“There’s only a little bit left of this 4piece audition! Let’s clash against each other with all our might, fair and square until the very end, so we leave no regrets behind!”
+
+“I’m sure the other idols feel the same, don’t you? Come, I’d love you to come on stage and express your desires to your heart’s content!”
+
+“I welcome you all to clash against me, as well…☆”
+{% endbubble %}
+
+<div class="msr-narration">
+    <p>Time passes…</p>
+</div>
+
+{% bubble Mitsuru grin %}
+Ahaha, that was so much fun! Hiyori-senpai and Ritsu-chan-senpai kept getting so many declarations of battle from other idols!
+
+It’s a pretty rare sight to see those two so overwhelmed~♪
+
+That being said — Chia-chan-senpai, you were so cool! I’ll also work hard as a rival from tomorrow onwards~♪
+{% endbubble %}
+
+{% bubble Chiaki frown %}
+Tenma-kun… You joined hands with me as a comrade, yet I went ahead and betrayed that with a surprise attack.
+
+I think that today’s sales… should all go to you, Tenma-kun. Since technically speaking, you had no obligation to rescue me, who dropped considerably in the ranking, right?
+{% endbubble %}
+
+{% bubble Mitsuru norsmile %}
+Mm, no. We made these sales together. So we should split them evenly!
+
+I wasn’t really making a huge profit all the time either… I could’ve ended up being sent to the fields at any point.
+
+Plus, I had sooo much fun managing a restaurant with you, Chia-chan-senpai!
+{% endbubble %}
+
+{% bubble Mitsuru grin %}
+And I didn’t tag team with you out of pity, either. It was ‘cuz I thought I’d get to have fun if I worked with you!
+
+We’re companions, but we’re also rivals… That sort of thing is important. That’s why, let’s think of it as: Today is today! Tomorrow is tomorrow! Let’s make sure to get through today first!
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Thank you, Tenma-kun. I’m in your care until the very end…♪
+{% endbubble %}
+
 {% note narration %}
-Translation in progress! Currently 22 out of 29 chapters are completed! 7 left!
+Translation in progress! Currently 23 out of 29 chapters are completed! 6 left!
 {% endnote %}
 
 <div class="navigation2">
@@ -1547,7 +1737,7 @@ Translation in progress! Currently 22 out of 29 chapters are completed! 7 left!
 [^4]: This is referring to Kamen Rider Den-O, a tokusatsu series. Although Chiaki’s plan seems out of the ordinary, the reference is extremely appropriate here, because Den-O involves the main character getting possessed by outer beings in order to transform into a powerful Kamen Rider. For a full in-depth explanation of this reference, please read <a href="/deno_and_gundam" target="_blank">this post I made that breaks down Chiaki’s plan</a>.
 [^5]: In Japanese, Chiaki yells <em>ore ga takamine da</em> at the very end. This is extremely similar to a very famous quote in Mobile Suit Gundam 00, where the main character states <em>ore ga gundam da</em> (I am Gundam). For a full in-depth explanation of this reference, including why Midori says “It’s not even Den-O”, please read <a href="/deno_and_gundam" target="_blank">this post I made that compares the Den-O and Gundam reference</a>.
 [^6]: The phone blocking and Kanata acting as a mediator has been mentioned before in <a href="/supervillain/dark_star" target="_blank">Supervillain, Dark Star 8</a>.
-[^7]: Midori looking up Chiaki's name online has been mentioned before in <a href="/comet_show" target="_blank">Comet Show, Plans for the End 4</a>. See his <a href="/comet_show/minitalk/midori_2/" target="_blank">Comet Show 2nd Mini Talk</a> for more about this as well.
+[^7]: Midori looking up Chiaki’s name online has been mentioned before in <a href="/comet_show" target="_blank">Comet Show, Plans for the End 4</a>. See his <a href="/comet_show/minitalk/midori_2/" target="_blank">Comet Show 2nd Mini Talk</a> for more about this as well.
 [^8]: Tsundere is a term for a character that starts out with a harsh personality, but eventually warms up to people. The word is two words combined together; <em>tsun(tsun)</em> for “blunt/cold/aloof” and <em>dere(dere)</em> for “lovey-dovey/infatuated manner”. Read more about tsundere <a href="https://en.wikipedia.org/wiki/Tsundere" target="_blank">here</a> and <a href="https://the-dere-types.fandom.com/wiki/Tsundere" target="_blank">here</a>.
 [^9]: Gymnastic formations is human bodies posing next to each other in order to create art (shapes, formations, etc…). <a href="https://en.wikipedia.org/wiki/Gymnastic_formation" target="_blank">Read more here</a>.
 [^10]: When different mecha robots combine together to make one ultimate mecha robot. It also comes with a very strong finishing move that isn’t possible unless combined. It can be found in Super Sentai shows and Gundam series.

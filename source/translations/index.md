@@ -122,6 +122,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
+                src="/img/es/eventstory/crossroad/chiakicgframe_300px.jpg"
+                alt="Crossroad"
+            />
+        </div>
+        <a href="/crossroad" class="storyName" target="_blank">
+            <span>Crossroad (Chiaki Scenes Only!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
                 src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
                 alt="Aquarium"
             />
@@ -179,15 +191,128 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
+</div>
+
+<h4>Ensemble Stars!! Era</h4>
+
+<div class="stories">
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/crossroad/chiakicgframe_300px.jpg"
-                alt="Crossroad"
+                src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg"
+                alt="Motor Show"
             />
         </div>
-        <a href="/crossroad" class="storyName" target="_blank">
-            <span>Crossroad (Chiaki Scenes Only!)</span>
+        <a href="/motor_show" class="storyName" target="_blank">
+            <span>Motor Show</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg"
+                alt="Comet Show"
+            />
+        </div>
+        <a href="/comet_show" class="storyName" target="_blank">
+            <span>Comet Show</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg"
+                alt="Submarine"
+            />
+        </div>
+        <a href="/submarine" class="storyName" target="_blank">
+            <span>Submarine</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
+                alt="Ring"
+            />
+        </div>
+        <a href="/ring" class="storyName" target="_blank">
+            <span>Ring (Partial Translation)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/ninjaclan/shinobubcgframe_300px.jpg"
+                alt="Ninja Clan"
+            />
+        </div>
+        <a href="/ninja_clan" class="storyName" target="_blank">
+            <span>Ninja Clan</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+                alt="Supervillain"
+            />
+        </div>
+        <a href="/supervillain" class="storyName" target="_blank">
+            <span>Supervillain</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+                alt="Wedding March!"
+            />
+        </div>
+        <a href="/wedding_march" class="storyName" target="_blank">
+            <span>Wedding March!</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
+                alt="Parallel World"
+            />
+        </div>
+        <a href="/parallel_world" class="storyName" target="_blank">
+            <span>Parallel World (Ryuseitai Scene ONLY!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+                alt="Tropical"
+            />
+        </div>
+        <a href="/tropical" class="storyName" target="_blank">
+            <span>Tropical</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                alt="Stella Maris – Climax Event"
+            />
+        </div>
+        <a href="/stella_maris" class="storyName" target="_blank">
+            <span>Stella Maris – Climax Event</span>
             <span class="read"></span>
         </a>
     </div>
@@ -203,131 +328,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
-</div>
-
-<h4>Ensemble Stars!! Era</h4>
-
-<div class="stories">
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg"
-            alt="Motor Show"
-        />
-    </div>
-    <a href="/motor_show" class="storyName" target="_blank">
-        <span>Motor Show</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg"
-            alt="Comet Show"
-        />
-    </div>
-    <a href="/comet_show" class="storyName" target="_blank">
-        <span>Comet Show</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg"
-            alt="Submarine"
-        />
-    </div>
-    <a href="/submarine" class="storyName" target="_blank">
-        <span>Submarine</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
-            alt="Ring"
-        />
-    </div>
-    <a href="/ring" class="storyName" target="_blank">
-        <span>Ring (Partial Translation)</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/ninjaclan/shinobubcgframe_300px.jpg"
-            alt="Ninja Clan"
-        />
-    </div>
-    <a href="/ninja_clan" class="storyName" target="_blank">
-        <span>Ninja Clan</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
-            alt="Supervillain"
-        />
-    </div>
-    <a href="/supervillain" class="storyName" target="_blank">
-        <span>Supervillain</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
-            alt="Wedding March!"
-        />
-    </div>
-    <a href="/wedding_march" class="storyName" target="_blank">
-        <span>Wedding March!</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
-            alt="Parallel World"
-        />
-    </div>
-    <a href="/parallel_world" class="storyName" target="_blank">
-        <span>Parallel World (Ryuseitai Scene ONLY!)</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
-            alt="Tropical"
-        />
-    </div>
-    <a href="/tropical" class="storyName" target="_blank">
-        <span>Tropical</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
-            alt="Stella Maris – Climax Event"
-        />
-    </div>
-    <a href="/stella_maris" class="storyName" target="_blank">
-        <span>Stella Maris – Climax Event</span>
-        <span class="read"></span>
-    </a>
-</div>
 </div>
 
 ## Gacha Stories
@@ -1478,7 +1478,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/anniversary/8th" class="storyName" target="_blank">
-        <span>8th Anniversary Ryuseitai (In progress!)</span>
+        <span>8th Anniversary Ryuseitai (Incomplete)</span>
         <span class="read"></span>
     </a>
     </div>
