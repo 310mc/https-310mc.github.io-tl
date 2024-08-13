@@ -613,7 +613,6 @@ permalink: vs_gourmet/
             <span class="read"></span>
         </a>
     </div>
-<!--
     <div class="story">
         <div class="thumbimage">
             <img
@@ -642,11 +641,11 @@ permalink: vs_gourmet/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_nEUlQ669f7c74k35.webp?timestamp=1721728121640"
-                alt="TBA"
+                alt="Delicious Arrival"
             />
         </div>
         <a href="/vs_gourmet/minitalk/hiyori_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Delicious Arrival</span>
             <span class="read"></span>
         </a>
     </div>
@@ -654,11 +653,11 @@ permalink: vs_gourmet/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_6oUe669f7c74DLK4.webp?timestamp=1721728122372"
-                alt="TBA"
+                alt="Waiting Until He’s Changed Clothes"
             />
         </div>
         <a href="/vs_gourmet/minitalk/hiyori_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Waiting Until He’s Changed Clothes</span>
             <span class="read"></span>
         </a>
     </div>
@@ -686,5 +685,4 @@ permalink: vs_gourmet/
             <span class="read"></span>
         </a>
     </div>
--->
 </div>

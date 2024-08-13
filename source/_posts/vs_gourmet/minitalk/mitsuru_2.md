@@ -6,7 +6,6 @@ categories:
 tags:
 - Mini Talk
 description: "[ES!!] Mitsuru’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -132,10 +131,10 @@ I also get a lotta things at work that I have to keep a secret. I can't even tel
             {% bubble Mitsuru smilesoft %}
             They know I'm participating in the audition! I've also done loads of filming, and they saw that too~♪
 
-            I got a lot of support from everyone at school too, so I wanna do my best.
+            I got a lotta support from everyone at school too, so I wanna do my best.
             {% endbubble %}
             {% bubble Mitsuru fist %}
-            And also, I want to be thought of as an amazing senior by my juniors…☆
+            And also, I wanna be thought of as an amazing senior by my juniors…☆
 			{% endbubble %}
         </div>
     </div>

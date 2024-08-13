@@ -1,5 +1,5 @@
 ---
-title: "VS★GOURMET – Audition Profile & PR Videos"
+title: "VS★GOURMET – Audition Profile and PR Videos"
 date: 2024-6-30 9:00:00
 categories:
 - [Enstars, Chiaki]
@@ -62,17 +62,65 @@ hidden: true
 <!-- more -->
 
 ## Index
-<a href="#Introduction-Cards">Introduction Cards</a> - <a href="#PR-Videos">PR Videos</a> - <a href="#Audition-Introduction-Lines">Audition Introduction Lines</a> - <a href="#Countdown-Message">Countdown Message</a>
+<a href="#Profile-Card">Profile Card</a> - <a href="#PR-Video">PR Video</a> - <a href="#Solo-Camera">Solo Camera</a>
 
-## Introduction Cards
+## Profile Card
 
 add images here
 
-## PR Videos
+## PR Video
 
-https://www.youtube.com/watch?v=FJK2Fb4qryc&list=PL5wEQ3YUNbnDTxgtPXQcB_WrC65-O5fsx
+<big><a href="https://www.youtube.com/watch?v=FJK2Fb4qryc&list=PL5wEQ3YUNbnDTxgtPXQcB_WrC65-O5fsx" target="_blank"><b>See a full playlist of the videos here!</b></a> It includes solo camera for each participant and their self-introduction videos. But you can also scroll for all the videos and a translation!</big>
 
-**See a full playlist of the videos here!** It includes solo camera for each participant and their self-introduction videos.
+### Chiaki Morisawa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ekZYKI7UoQ?si=oO-jne-BRoVyBMoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Mitsuru Tenma
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmEykmpg4_c?si=bn0JpJ322dDIbJ5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Hiyori Tomoe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qcc0jwRC_KI?si=YM3aR5gsnm_ODZw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Raika Hojo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8bGAnHFByg?si=v_hnrKQ-9ZRqLME4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Ritsu Sakuma
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CHN6jXPhtic?si=fEUF72FSOVVfPRmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Mayoi Ayase
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTuch8cIpTA?si=njbCmtnyVDFwQ14G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Solo Camera
+
+### Chiaki Morisawa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-vXqO3hE5vo?si=tdIIVv700Ja82Iil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Mitsuru Tenma
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HvkEG4iRp_s?si=Xk-ZZDLx2cgfx-L5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Hiyori Tomoe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YsaxX3M_BF4?si=MrdA3ynIyYeOyuw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Raika Hojo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6z6EObZMzmk?si=zEoAdomdw3aKB2kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Ritsu Sakuma
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSDIw5lyqT0?si=QinwkcedHrGN6adu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Mayoi Ayase
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OvRlCYo_CqQ?si=DUyXhdA9hPxShxL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="navigation2">
     <div class="toolbar-wrapper">

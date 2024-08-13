@@ -1,13 +1,11 @@
 ---
-title: "VS★GOURMET – Hiyori Mini Talk: Waiting Until "
+title: "VS★GOURMET – Hiyori Mini Talk: Waiting Until He’s Changed Clothes"
 date: 2024/8/6 9:05:00
 categories:
 - [Enstars, Hiyori]
 tags:
 - Mini Talk
 description: "[ES!!] Hiyori’s second Mini Talk from VS★GOURMET. From Anzu’s POV."
-hidden: true
-permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -54,42 +52,46 @@ permalink: test1/
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_fJbh566b91fa8oi5.webp?timestamp=1723408308687 %}
 
-{% bubble Hiyori norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
+{% bubble Hiyori norsmile2 %}
+Oh, Anzu-chan. What are you doing here, might I ask?
 {% endbubble %}
 
-{% bubble Hiyori smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Hiyori frown %}
+I’m waiting for Jun-kun to finish changing his clothes. Gosh, he is *so* slow at it…!
+{% endbubble %}
+
+{% bubble Hiyori curious %}
+…You’re a judge? Eh, you’ve also taken on the role of judge, Anzu-chan? Really?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            Yes, really.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Hiyori frown2 %}
+            Hmm…? I wish you told me that *much* earlier…
+            {% endbubble %}
+            {% bubble Hiyori norsmile %}
+            It had to be kept a secret until the day of the audition? I see, that makes sense.
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            You can’t afford to show bias towards ES idols either, and it might be a harsh job on you, won’t it?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            The details will be announced later…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Hiyori curious %}
+            It was just announced on the home page a moment ago…? Huh, I had no idea, as they had confiscated our phones.
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            So it was written that they’ve scheduled an introduction for the judges later?
+            {% endbubble %}
+            {% bubble Hiyori snicker %}
+            Fufu. There will surely be many idols who’ll be surprised to see Anzu-chan as a judge. This will be fun to witness…♪
 			{% endbubble %}
         </div>
     </div>
@@ -99,43 +101,44 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_DgeYaS66b91fa866.webp?timestamp=1723408315254 %}
 
-{% bubble Hiyori srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Hiyori norsmile %}
+From Eden, only three of us are participating in 4piece: Me, Jun-kun, and Ibara.
+
+Nagisa-kun has other things he must attend to… so he’ll be in the sidelines supporting us.
 {% endbubble %}
 
-{% bubble Hiyori curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Hiyori northinking %}
+Ibara? I wouldn’t know where he is. He should be here somewhere, no?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            Did you come here together with…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
-            {% endbubble %}
-            {% bubble Hiyori smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Hiyori norsmile2 %}
+            Mhm. I came here together with Jun-kun.
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            I didn’t spot Ibara anywhere during our departure, though… Perhaps he had some work to do until the very last moment.
+            {% endbubble %}
+            {% bubble Hiyori smileexplain %}
+            If you have something to speak to him about, how about contacting him? If he still hasn’t arrived to the venue, it should still be possible to get in contact by phone.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            So he isn’t here with you, right?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            {% bubble Hiyori frown %}
+            Jun-kun offered Ibara to go together, but he declined, saying he has business.
 
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            Good grief… Since it’s Ibara we’re talking about, I can’t help but think he’s scheming something.
+            {% endbubble %}
+            {% bubble Hiyori nod %}
+            If he ever seems to be conspiring something, I’ll make sure to punish him, so don’t you worry!
 			{% endbubble %}
         </div>
     </div>
@@ -145,41 +148,44 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_rFs5XE66b91fa866.webp?timestamp=1723408308611 %}
 
-{% bubble Hiyori smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Hiyori srsthinking %}
+…Actually, isn’t Jun-kun taking a little *too* long to change his clothes?
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+He’s typically much quicker to change than me… So he might’ve been caught by someone.
+{% endbubble %}
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+{% bubble Hiyori norsmile %}
+He might be in trouble somehow, so I’ll go check out how he’s doing in the dressing room, okay?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          If anything happens…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Hiyori norsmile %}
+            “I’ll be right here, so please call for me”? Oh no, I think it’s best that you head along now.
 
-            I don’t know what awaits us over there, but…
+            If in the slight chance that some problem occurs, I’ll speak to the staff walking around here.
             {% endbubble %}
-            {% bubble Hiyori fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Hiyori smileexplain %}
+            You should prioritize preparing for the screening and ensuring everything is in order, no?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            Will he be alright?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Hiyori norsmile2 %}
+            As long as some big guy isn’t picking a fight with him, I don’t think there’s anything to worry about.
 
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            If you’re really that worried, I’ll find the time to report back to you, so you’re free to go to the judges’ seat, Anzu-chan!
+            {% endbubble %}
+            {% bubble Hiyori smileconfident %}
+            Alright then, I’ll see you later…♪ Make sure to provide me a proper evaluation on my radiance!
 			{% endbubble %}
         </div>
     </div>

@@ -6,8 +6,6 @@ categories:
 tags:
 - Mini Talk
 description: "[ES!!] Hiyori’s first Mini Talk from VS★GOURMET. From Anzu’s POV."
-hidden: true
-permalink: test1/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -55,45 +53,45 @@ permalink: test1/
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_p66b91fa8zfwGmT1.webp?timestamp=1723408309534 %}
 
 {% bubble Hiyori curious %}
-Hey, Anzu-chan. Are we not at the photoshoot location yet?
+Hey, Anzu-chan. Have we still not arrived at our job location?
 {% endbubble %}
 
 {% bubble Hiyori yare %}
-While I'm aware there's nothing we could do about me attending late, I'm grown quite fed up of this silence!
+While I’m aware there’s nothing we could do about me attending much later than the rest, I’ve grown quite fed up of this silence!
 {% endbubble %}
 
 {% bubble Hiyori smilesoft %}
-Don't you have any interesting stories to share? For my sake, since I'm so bored...ongaku
+Don’t you have any interesting stories to share? For my sake, since I’m so bored…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'm so sorry...
+            I’m so sorry…
         </div>
         <div class="minitalk-option_content">
             {% bubble Hiyori frown %}
-            You can't think of anything? Ehh~ You've really got nothing?
+            You can’t think of anything? Ehh~ Do you truly have nothing?
             {% endbubble %}
             {% bubble Hiyori norsmile %}
-            It can be about what's been happening lately, or something that made you happy... Anything, really.
+            It can be about what’s been happening lately, or something that made you happy… Anything, really.
 
-            Even if it wasn't that interesting, it could still act as a way to kill time, no?
+            Even if it wasn’t that interesting, it could still act as a way to kill time, no?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I wonder...
+            I wonder…
         </div>
         <div class="minitalk-option_content">
             {% bubble Hiyori sighfrown %}
-            Gosh, I can't believe you have nothing!
+            Gosh, I can’t believe that you’ve got nothing!
 
-            ==A topic from me? Hm, I can't decide what to start with, but...
+            —A topic from me? Hm, I can’t decide what to start with, but…
             {% endbubble %}
             {% bubble Hiyori srsthinking %}
-            ...I almost thought of one that might be interesting, but on second thought, maybe not.
+            …I almost thought of one that might be interesting, but on second thought, maybe not.
 			{% endbubble %}
         </div>
     </div>
@@ -104,36 +102,43 @@ Don't you have any interesting stories to share? For my sake, since I'm so bored
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_IE766b91fa8wNOl3.webp?timestamp=1723408309597 %}
 
 {% bubble Hiyori norsmile %}
-So, 
+So, today’s work is exploring a harbor city, yes?
+
+The other Eden members are having a meal in the cafeteria around this hour, and I’ll be joining them afterwards…
+{% endbubble %}
+
+{% bubble Hiyori northinking %}
+Although, I think I’ll be able to meet up with them at the cafeteria if we keep up this pace…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That's true.
+            That’s true…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Hiyori grin %}
+            My previous job finished much earlier than planned, so we’re moving along much faster than I thought we would.
 
-            You still have time, so feel free to ponder however much you like…☆
-
-            While you decide, I’ll think about what I’ll have for dessert!
+            And luckily, the roads look to be empty, too…♪
+            {% endbubble %}
+            {% bubble Hiyori smilesoft %}
+            Wouldn’t it be a nice idea to surprise them with our arrival? They’ll surely love it!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            We can’t be too sure, can we?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
+            {% bubble Hiyori norsmile2 %}
+            I think we’ll be able to arrive there earlier than planned, but… Well, there could be traffic ahead of us, too.
 
-            …Huh? There’s eggplants in it?
+            Plan A will be moving according to plan, but for plan B, I’ll prepare a surprise on how I’ll join them after they leave the cafeteria!
             {% endbubble %}
-            {% bubble Hiyori sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Hiyori nod %}
+            Not only will Eden members love it, but so will our viewers; I’m sure of it! That would be the finest weather…♪
 			{% endbubble %}
         </div>
     </div>
@@ -143,41 +148,44 @@ So,
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_QrB66b91fa8g6MV3.webp?timestamp=1723408308798 %}
 
-{% bubble Hiyori grin %}
-—Thanks for the wonderful meal!
+{% bubble Hiyori norsmile2 %}
+Ah, I almost forgot that I had something to give you, Anzu-chan.
+{% endbubble %}
 
-So after this, I’m thinking of having a dance practice session.
+{% bubble Hiyori smileexplain %}
+Here you go; I kindly bought you something to drink when we stopped at a rest area a while earler.
 
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+You haven’t had anything to drink, correct? You shouldn’t forget to hydrate yourself, you know.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            Thank you very much…!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori grin %}
-            Ooh, I appreciate it!
+            {% bubble Hiyori norsmile %}
+            I was also feeling thirsty, so I figured I could buy you one too while I’m at it.
+            {% endbubble %}
+            {% bubble Hiyori northinking %}
+            Speaking of which, that rest area was quite spacious, wasn’t it?
 
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            There was a shop with a long queue, too… I wonder what it had for sale?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            I’ll have it now, thank you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Hiyori grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% bubble Hiyori nod %}
+            Mhm, mhm! Drink it up while being grateful for my kindness~♪
             {% endbubble %}
-            {% bubble Hiyori smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
+            {% bubble Hiyori smilesoft %}
+            You originally had something for me prepared, yet forgot to prepare your own… That’s just like you, Anzu-chan.
 
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            However, while I appreciate your desires to look after idols, I’d love you to look after yourself, as well.
 			{% endbubble %}
         </div>
     </div>
@@ -196,7 +204,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/minitalk/hiyori_2" title="Hiyori Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/minitalk/hiyori_2" title="Hiyori Mini Talk: Waiting Until He’s Changed Clothes"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

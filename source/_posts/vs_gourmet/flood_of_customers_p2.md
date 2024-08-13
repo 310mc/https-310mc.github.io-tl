@@ -867,7 +867,7 @@ So, is it tasty? Ahaha, I’m so glad to hear it~!
 
 Mm, mhm, mhm? You came to the venue today to cheer me on?
 
-Wow, so you found out about this audition program thanks to my commercial!
+Wow, so you also found out about this audition program ‘cuz of my commercial!
 {% endbubble %}
 
 {% bubble Mitsuru grin %}
@@ -935,4 +935,4 @@ Translation in progress! Currently 27 out of 29 chapters are completed! 2 left!
 [^3]: The explanation in question is when Nice-P was speaking to the participants before Mitsuru and Raika arrived. He introduced the judges to everyone during that time. The full scene is shown in VS★PRINCESS, but was cut short in this story.
 [^4]: Referring to VS★PRINCESS, when Nice-P has a heartfelt talk with Esu that motivates him to give the audition another shot.
 [^5]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decide to take turns being the leader (Happens <em>just</em> before the 2nd year of ES’s establishment). One of the leader rotations is shown in <a href="/tropical" target="_blank">Tropical</a>, with Midori as the leader, and another leader rotation is shown in <a href="/stella_maris" target="_blank">Stella Maris</a>, with Kanata as the leader. As for Chiaki’s leader rotation, it happens in <a href="/parallel_world" target="_blank">Parallel World</a>.
-[^6]: Upon becoming a unit of all leaders, Ryuseitai’s unit slogan changed from “Heroes Burning With Passion☆” to “Heroes Who Shine Their Own Individuality☆” to reflect the change in direction.
+[^6]: Upon becoming a unit of all leaders, Ryuseitai’s unit title changed from “Heroes Burning With Passion☆” to “Heroes Who Shine Their Own Individuality☆” to reflect the change in direction.
