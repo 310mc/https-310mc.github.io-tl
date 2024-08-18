@@ -957,7 +957,7 @@ S-Sorry. It seems I was still a little unprepared. Please give me a bit of time�
 {% endbubble %}
 
 {% bubble Chiaki frustrated %}
-<th><em>(Whispering)</em></th> I’m Takamine…I’m Takamine…!
+<th><em>(whispering)</em></th> I’m Takamine…I’m Takamine…!
 {% endbubble %}
 
 {% bubble Chiaki fist %}

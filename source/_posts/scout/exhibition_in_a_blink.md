@@ -1526,7 +1526,7 @@ I appreciate hearing such kind words. It makes me feel blessed to be an idol.
 {% endbubble %}
 
 {% bubble Midori srsthinking %}
-*<th>(Whispering)</th>* “Past self”… I feel like he’s glorifying it a bit…
+*<th>(whispering)</th>* “Past self”… I feel like he’s glorifying it a bit…
 {% endbubble %}
 
 {% bubble ElderlyArtist %}

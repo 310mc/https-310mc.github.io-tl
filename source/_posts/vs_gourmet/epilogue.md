@@ -150,7 +150,7 @@ Now then. Next up is the ‘individual score’ review.
 
 Throughout Gourmet District’s screening, many idols truly displayed a battle that used their own ‘individuality’ and ‘values’ as weapons.
 
-I ask you all once more.[^1] In Gourmet District, were there any idols you particularly thought had a special, unique charm to them?
+I ask you all once more. In Gourmet District, were there any idols you particularly thought had a special, unique charm to them?
 {% endbubble %}
 
 {% bubble Jin norsmile %}
@@ -315,7 +315,3 @@ Original post can be found <a href="https://x.com/TC_4piece/status/1810660174308
         </div>
     </div>
 </div>
-
-## Translation Notes
-
-[^1]: Nice-P asked them the same question in the first audition story, VS★PRINCESS.

@@ -296,11 +296,11 @@ That’s my only strong point, after all! I got bucket loads of energy in me~!
 {% endbubble %}
 
 {% bubble Tetora yare %}
-<th>*(Whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everythin’ for us involving the unit.
+<th>*(whispering)*</th> ……It’s only ‘cuz Morisawa-senpai returned back to being the leader again, so we’ve got a lotta time to spare now that he takes care of everythin’ for us involving the unit.
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-<th>*(Whispering)*</th> It’s better this way, now we can relax, at least… I don’t wanna work hard…
+<th>*(whispering)*</th> It’s better this way, now we can relax, at least… I don’t wanna work hard…
 {% endbubble %}
 
 {% bubble Shinobu grin %}

@@ -1631,7 +1631,7 @@ Huh? Me too?
 
 “Raika-chan’s super good at singing. He can pull customers over just by singing…!”
 
-*<th>(Whispering)</th>* C’mon, Raika-chan! Sing!
+*<th>(whispering)</th>* C’mon, Raika-chan! Sing!
 {% endbubble %}
 
 {% bubble Raika smile %}
