@@ -1965,7 +1965,7 @@ T-This is all just a lie, right…?
 [^13]: Nice-P sometimes uses English words, written in roman letters. I kept the word as is and added italics to indicate which ones are said in English in the original text.
 [^14]: For curry bread, <a href="https://en.wikipedia.org/wiki/Curry_bread" target="_blank">see here for more</a>.
 [^15]: If you’d like another story where Mitsuru’s creativity is explored, check out Tsukimi live! Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-[^16]: Nice says <em>kimitachi</em> for “all of you”. This is likely about the Ra*bits members only.
+[^16]: Nice says <em>kimitachi</em> for “all of you”. This is about the Ra*bits members only.
 [^17]: Punishment game, <em>batsu geemu</em>, is a punishment given to the loser of a contest or game. It’s pretty common in variety shows.
 [^18]: Raika says “tom yum goong” in hiragana instead of katakana, implying unfamiliarity with the word.
 [^19]: Mitsuru says “tom yum goong” in hiragana instead of katakana, implying unfamiliarity with the word. He also got the pronunciation wrong.

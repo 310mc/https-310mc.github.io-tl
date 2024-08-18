@@ -585,7 +585,7 @@ hm, that is ryuseitai…?
 {% bubble Chiaki mgn %}
 Yep! Oh, though… I don’t know if you know this, but at the moment, Ryuseitai is pretty far from being “heroic.” I mean, they’re still only halfway there when it comes to behaving like idols!
 
-The captain, Mikejima-kun, and some others have been properly acting as idols, but…
+The captain and Mikejima-kun have been properly acting as idols, but…
 
 The others, especially the second squad, just rely on those members, and play around as they like.
 {% endbubble %}

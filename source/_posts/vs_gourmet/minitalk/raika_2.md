@@ -165,7 +165,7 @@ There were so many tasty-lookin’ meals in the kitchen, and I can smell all kin
             …Um, Onee-san. You don’t seem to have finished the food; are you sure you want me to take away the plate?
             {% endbubble %}
             {% bubble Raika surprised %}
-            …You have a stomachache? Uhee, please get well soon!
+            …You have a stomachache? Uheeh, please get well soon!
 			{% endbubble %}
         </div>
     </div>

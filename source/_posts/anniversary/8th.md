@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] 8th Anniversary (In progress!)"
+title: "[ES!!] 8th Anniversary"
 date: 2023-4-28 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 1]
@@ -184,7 +184,7 @@ Um, but then we wouldn't really be playing by the game's rules, would we…? It'
         />
     </div>
     <a href="/anniversary/8th" class="storyName" target="_blank">
-        <span>8th Anniversary Ryuseitai (In progress!)</span>
+        <span>8th Anniversary Ryuseitai</span>
         <span class="read"></span>
     </a>
     </div>

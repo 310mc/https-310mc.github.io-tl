@@ -59,7 +59,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/vs_gourmet" class="storyName" target="_blank">
-        <span>VS★GOURMET (In Progress!)</span>
+        <span>VS★GOURMET</span>
         <span class="read"></span>
     </a>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "VS★GOURMET – Introduction & Countdown"
+title: "VS★GOURMET – Introduction and Countdown"
 date: 2024-8-7 8:00:00
 categories:
 - [Enstars, Chiaki]
@@ -60,15 +60,9 @@ description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki an
 
 <!-- more -->
 
-*Compilation of Profile Sheet and PR Videos coming soon!*
+## Profile Cards and PR Videos
 
-<!--
-
-## Profile Sheets & PR Videos
-
-<big><b><a href="/vs_gourmet/profile" target="_blank">Click here for the PR videos and profile sheets!</a></b></big>
-
--->
+<big><b><a href="/vs_gourmet/profile" target="_blank">Click here for the PR videos and profile cards!</a></b></big>
 
 ## Audition Introduction Lines
 

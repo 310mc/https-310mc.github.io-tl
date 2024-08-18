@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] VS★GOURMET (In Progress!)"
-date: 2024-8-13 9:00:00
+title: "[ES!!] VS★GOURMET"
+date: 2024-8-19 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 tags:
@@ -521,7 +521,10 @@ permalink: vs_gourmet/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="countdown">Countdown</a>
+                            <a href="profile">Profile Cards and PR Videos</a>
+                        </li>
+                        <li>
+                            <a href="countdown">Introduction and Countdown</a>
                         </li>
                         <li>
                             <a href="prologue">Prologue</a>
@@ -543,44 +546,44 @@ permalink: vs_gourmet/
                         </li>
                     </ul>
                 </div>
-              <!--  <div class="mini-talks">
+                <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1">x</a>
-                            <a href="minitalk/chiaki_2">x</a>
+                            <a href="minitalk/chiaki_1">Part One</a>
+                            <a href="minitalk/chiaki_2">Part Two</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Mitsuru Tenma</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION">x</a>
-                            <a href="NOTRANSLATION">x</a>
+                            <a href="minitalk/mitsuru_1">Part One</a>
+                            <a href="minitalk/mitsuru_2">Part Two</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Hiyori Tomoe</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION">x</a>
-                            <a href="NOTRANSLATION">x</a>
+                            <a href="minitalk/hiyori_1">Part One</a>
+                            <a href="minitalk/hiyori_2">Part Two</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Character</div>
+                        <div class="mt-header">Raika Hojo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION">x</a>
-                            <a href="NOTRANSLATION">x</a>
+                            <a href="minitalk/raika_1">Part One</a>
+                            <a href="minitalk/raika_2">Part Two</a>
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
     </div>

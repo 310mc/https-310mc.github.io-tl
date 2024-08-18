@@ -76,7 +76,7 @@ I’m waiting for Jun-kun to finish changing his clothes. Gosh, he is *so* slow 
             {% bubble Hiyori norsmile %}
             It had to be kept a secret until the day of the audition? I see, that makes sense.
 
-            You can’t afford to show bias towards ES idols either, and it might be a harsh job on you, won’t it?
+            You can’t afford to show bias towards ES idols either, and it would be a harsh job on you, wouldn’t it?
 			{% endbubble %}
         </div>
     </div>

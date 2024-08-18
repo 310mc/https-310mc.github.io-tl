@@ -983,7 +983,7 @@ T-Tomoya-kun…♪
 ## Translation Notes
 
 [^1]: Chiaki is referencing <a href="https://www.youtube.com/watch?v=lQK7kjMmTqg" target="_blank">this</a> children’s song. The English lyrics can be found <a href="http://kimonobeat.tumblr.com/post/153209333239/hirota-mieko-lyrics-obake-nante-nai-sa" target="_blank">here</a>.
-[^2]: Out of fear, Chiaki switches to talking more politely with: <b>“Takamine-kun”:</b> a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and <b>“~shite kureru?”:</b> a polite way to request something (“Could you please~”)
+[^2]: Out of fear, Chiaki switches to talking more politely with: <b>“Takamine-kun”:</b> a bit more respectful or softer way to refer to someone, especially compared to the usual way he refers to most people (without any honorifics), and <b>“~shite kureru?”:</b> a polite way to request something (“Could you please~”).
 [^3]: This is <a href="https://kamenrider.fandom.com/wiki/Dr._Shinigami" target="_blank">Doctor Shinigami</a>. He appeared in <a href="https://kamenrider.fandom.com/wiki/Kamen_Rider" target="_blank">Kamen Rider</a>, which aired back in 1971.
 [^4]: He apologizes with <em>gomennasai</em> (polite sorry) instead of the usual way he apologizes, which is “suman” (informal sorry).
 [^5]: The original for “Hiyah” is アチョー (Achow), referencing Bruce Lee’s battle cries.

@@ -803,7 +803,7 @@ Yeah! I don’t plan on losing to you either! I’m going to monopolize all the 
 </div>
 
 {% bubble Ritsu smileexplain %}
-Sorry I kept you waiting; here you go. It’s Sakuma Ritsu’s special deluxe: fruity wobbly dessert~...♪
+Sorry I kept you waiting; here you go. It’s Sakuma Ritsu’s special deluxe: fruity wobbly dessert~…♪
 
 As I said during the audition — It may look pretty peculiar on the outside, but the taste is a one-of-a-kind, so try it out~♪
 
@@ -904,9 +904,237 @@ And then, for everyone watching, I wanna make this into a program they’ll be g
 When I get to see everyone’s smiles, I’m able to work hard forever~♪
 {% endbubble %}
 
-{% note narration %}
-Translation in progress! Currently 27 out of 29 chapters are completed! 2 left!
-{% endnote %}
+## Chapter 12
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zl669f7c74NGPqe2.webp?timestamp=1721728123072 %}
+
+{% bubble Hiyori grmtbcg %}
+—Hello everyone! Thank you for coming to my restaurant today; I’m very grateful to see you here!
+
+To all of you who took the time out of your day to come to this venue, I shall personally provide you special service…♪
+{% endbubble %}
+
+{% bubble Hiyori smilesoft %}
+I’ve purchased many high quality ingredients today, you see! My food has to be luxuriously gorgeous so that I may properly deliver my love to all of you!
+
+Come, come, eat all you want…♪
+{% endbubble %}
+
+{% bubble Hiyori grin %}
+There’s no need to hold back. I’d be overjoyed if you would accept my love to your heart’s content. That would be such fine weather…☆
+
+Fufu. What an extravagant day today, full of happiness!
+
+My fans, I promise you that I’ll satisfy every one of your hearts with my food, filled to the brim with my love and affection…♪ That would truly be the finest weather…♪
+
+<th>(If it’s for their sakes, I wouldn’t mind my pockets of money running dry.)</th>
+
+<th>(After all, profit practically means nothing to me compared to the blessing of spreading joy and happiness to all my fans. ♪)</th>
+{% endbubble %}
+
+{% bubble Hiyori norsmile2 %}
+<th>(—That being said. Today’s leading role doesn’t seem to be me in any way.)</th>
+
+<th>(Most of the fans crowding this venue have their sights on <em>him</em>, after all…?)</th>
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2bB669f7a29J3nW3.webp?timestamp=1721727536035 %}
+
+{% bubble Chiaki grmtbcg %}
+—Bam…! The burning heart Morisawa Chiaki has finally arrived…☆
+
+Thanks for coming to my restaurant today, everyone! My menu for today is exactly what you’ve all been hoping for — Chinese food packed full of vegetables!
+
+I especially recommend the—…
+{% endbubble %}
+
+{% bubble Chiaki takenaback %}
+Uuu…
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+S-Sorry. It seems I was still a little unprepared. Please give me a bit of time…!
+{% endbubble %}
+
+{% bubble Chiaki frustrated %}
+<th><em>(Whispering)</em></th> I’m Takamine…I’m Takamine…!
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Alright, transformation complete! ☆[^7]
+
+Today’s special is mapo eggplant![^8]
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+Oh, what’s up, what’s wrong? I hear a call for the Vegetable Dance from all sides!
+
+Alright, I’ve got no choice. In that case, let’s dance to the song together, everyone…!
+
+Come on, all together now — It’s time for the Vegetable Dance! Let’s go! ☆
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+“Crispy lettuce and bright red tomatoes~♪”
+
+<th>(The Vegetable Dance was made up on the spur of the moment in the fields, so I never imagined it would be a record-breaking, massive hit outside…)</th>
+
+<th>(It wasn’t even the tiniest bit of my intention to do that, but… Thanks to it, my restaurant is flourishing immensely.)</th>
+
+<th>(To the point that there’s even people who came all the way to this venue just because they “want to eat my eggplant”!)</th>
+{% endbubble %}
+
+{% bubble Chiaki sightired %}
+But why <em>only</em> the eggplant…! Shoot! As you’d expect from my arch-enemy! It torments me until the very end…!
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5pQT866c26aabqG5.webp?timestamp=1724017329534 %}
+
+{% bubble Mayoi norsmile %}
+Heave-ho… Chiaki-san, I brought over an additional batch of vegetables.
+{% endbubble %}
+
+{% bubble Chiaki grin %}
+Ooh! Thank you, Ayase! Because of your help, I’ve been having a much easier time!
+{% endbubble %}
+
+{% bubble Mayoi smile %}
+No, no. If the vegetables I harvested have been coming to good use, then there’s nothing that could make me happier.
+
+Besides, I wanted to express my gratitude to Chiaki-san for helping me on the first day…
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+No, it’s me who’s been immensely helped by *you!*
+
+Plus, you don’t need to thank me for something as simple as that, y’know? I did it because I <em>wanted</em> to do it, after all!
+{% endbubble %}
+
+{% bubble Mayoi smilesoft2 %}
+Ufufu…♪ I just knew you’d say that, Chiaki-san.
+
+If that’s the case, then the reason I’m helping you right now is also simply because I wanted to do it, you know…♪
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Haha, I can’t really say anything further if that’s your comeback, huh?
+
+But you know, it isn’t good to devote yourself solely to working behind-the-scenes. Aren’t you also participating in this audition, Ayase?
+{% endbubble %}
+
+{% bubble Mayoi curious %}
+Pardon? What do you mean by that—…?
+{% endbubble %}
+
+{% bubble Chiaki smileexplain %}
+—Everyone! A special guest has arrived! Would you believe it!? It’s Ayase Mayoi, the one who granted me the opportunity to overcome eggplants back in the fields!
+{% endbubble %}
+
+{% bubble Mayoi surprised %}
+Eeek!? W-W-W-What are you doing, Chiaki-san!? I can’t do something so sudden…!?
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+A huge crowd of fans came rushing to this venue, y’know? So naturally, there’s bound to be Ayase’s fans mixed in there, too!
+
+A big moment like this doesn’t come by often! We’ve got to show all your incredible efforts to everyone…!
+{% endbubble %}
+
+{% bubble Mayoi norsmile2 %}
+Chiaki-san…
+
+You truly are bright just like the sun, aren’t you? You’re a passionate person who provides sunlight indiscriminately, even to a social outcast like myself.[^9]
+{% endbubble %}
+
+{% bubble Mayoi smilesoft2 %}
+On top of the shock of being separated from Hiiro-san, the audition ended without me participating properly, but… I truly feel glad to have been a part of it.
+
+After all, I was able to discover a new side of myself that enjoys field work — and spend my time with everyone…
+
+Those are irreplaceable experiences I would have never been able to savor if I were not here…♪
+
+“♪\~♪\~♪”
+{% endbubble %}
+
+{% bubble Chiaki smile %}
+Haha, I expect nothing less from Ayase, the inventor of the Vegetable Dance!
+
+Alright. While Ayase dances to the song, I’ll prepare the food—
+{% endbubble %}
+
+{% bubble Chiaki shocked %}
+Whaaat—!? We’re all out of eggplants!?
+
+I thought we had such an aggravati— Abundantly large amount of them, how could they run out this fast…!?
+{% endbubble %}
+
+{% bubble Mayoi norsmile %}
+Ah, you’re right. I’ll arrange an addition immediately.
+{% endbubble %}
+
+{% bubble Chiaki awkward %}
+Thank you! I never imagined the eggplants would be <em>this</em> popular…! It’s absolutely unbelievable*…*!
+{% endbubble %}
+
+{% bubble Chiaki smileconfident %}
+Mm? Anzu, you also came to see how it’s going!? Welcome!
+
+Fufu, things are extremely lively here, unlike that other time, right? It’s so much fun, I don’t even know what to do with myself!
+
+…Everyone in Ryuseitai was also promoting me on social media each in their own way?
+{% endbubble %}
+
+{% bubble Chiaki smilesoft2 %}
+So that’s how it was… I did think it was a little odd how successful my restaurant got through the Vegetable Dance alone.
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+Nagumo, Sengoku, Takamine, Kanata! The four of you were aiding me from the shadows all this time, weren’t you!?
+
+I’m so deeply moved! Friendship and hard work truly never betray me…☆
+
+All that’s left to perfect this is to seize victory. With how things are going, turning the tables shouldn’t be hard at all!
+{% endbubble %}
+
+{% bubble Hiyori norsmile %}
+Chiaki-kun. You seem to be in very good shape, don’t you?
+{% endbubble %}
+
+{% bubble Chiaki idle %}
+Tomoe? Why would you be here…?
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_998TU66c26aabaj5.webp?timestamp=1724017329544 %}
+
+{% bubble Hiyori smilesoft %}
+Fufu. It looks like your restaurant is flourishing the most out of everyone today, no?
+
+Surrounded by so many fans, supported by everyone in your unit…
+
+You may be the most loved idol in this venue today.
+
+I admit it, Chiaki-kun. That’s exactly what makes you worthy to be my rival…☆
+{% endbubble %}
+
+{% bubble Hiyori smileconfident %}
+However, I won’t let you take first place just like that!
+
+“♪\~♪\~♪”
+{% endbubble %}
+
+{% bubble Chiaki surprised %}
+Tomoe…! Are you planning to invite all the fans I can’t serve in time to your restaurant!?
+{% endbubble %}
+
+{% bubble Chiaki norsmile %}
+<th>(He’s a cunning guy. But that just shows how much Tomoe seriously intends to win, as well.)</th>
+{% endbubble %}
+
+{% bubble Chiaki fist %}
+I’ll take on that challenge…! I’ll be the one to seize victory in 4piece!
+
+“♪\~♪\~♪”
+{% endbubble %}
 
 <div class="navigation2">
     <div class="toolbar-wrapper">
@@ -936,3 +1164,6 @@ Translation in progress! Currently 27 out of 29 chapters are completed! 2 left!
 [^4]: Referring to VS★PRINCESS, when Nice-P has a heartfelt talk with Esu that motivates him to give the audition another shot.
 [^5]: By the end of <a href="/supervillain" target="_blank">Supervillain</a>, Ryuseitai decide to take turns being the leader (Happens <em>just</em> before the 2nd year of ES’s establishment). One of the leader rotations is shown in <a href="/tropical" target="_blank">Tropical</a>, with Midori as the leader, and another leader rotation is shown in <a href="/stella_maris" target="_blank">Stella Maris</a>, with Kanata as the leader. As for Chiaki’s leader rotation, it happens in <a href="/parallel_world" target="_blank">Parallel World</a>.
 [^6]: Upon becoming a unit of all leaders, Ryuseitai’s unit title changed from “Heroes Burning With Passion☆” to “Heroes Who Shine Their Own Individuality☆” to reflect the change in direction.
+[^7]: As shown in <a href="/vs_gourmet/flood_of_customers_p2" target="_blank">Flood of Customers 3</a>, Chiaki transforms into Midori to overcome eggplants. An explanation of why this works for Chiaki can be found in <a href="/deno_and_gundam" target="_blank">this translation note I wrote</a>.
+[^8]: Usually prepared as mapo tofu (see <a href="https://en.wikipedia.org/wiki/Mapo_tofu" target="_blank">here</a>), but there is a mapo eggplant variant as well, see a recipe <a href="https://food52.com/recipes/87978-mapo-eggplant-recipe" target="_blank">here</a>.
+[^9]: As an interesting note, “social outcast” in Japanese is <em>hikagemono</em> (日陰者), lit. shade/shadow person. It refers to a person who hides or is hidden from the world, or someone who's unable to step out into society.

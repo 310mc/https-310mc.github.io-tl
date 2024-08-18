@@ -936,11 +936,11 @@ Of course he would! Takamine is *incredible!* He’s a perceptive boy who can se
 I have to thank you! For appreciating Takamine’s wonderful trait…!
 {% endbubble %}
 
-{% bubble Midori v2 %}
+{% bubble Midori glare %}
 Why are <em>you</em> so proud of that.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki fist %}
 *I* raised Takamine!
 {% endbubble %}
 

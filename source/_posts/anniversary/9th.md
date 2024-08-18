@@ -184,7 +184,7 @@ Huh? Is it not the “the more passionate we become” part? I also heard Morisa
         />
     </div>
     <a href="/anniversary/8th" class="storyName" target="_blank">
-        <span>8th Anniversary Ryuseitai (In progress!)</span>
+        <span>8th Anniversary Ryuseitai</span>
         <span class="read"></span>
     </a>
     </div>
