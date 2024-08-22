@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Hiyori Mini Talk: Waiting Until He’s Changed Clothes"
-date: 2024/8/6 9:05:00
+date: 2024/7/1 9:03:00
 categories:
 - [Enstars, Hiyori]
 tags:

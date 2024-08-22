@@ -434,7 +434,23 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 </div>
 </div>
 
-<div toc>{% btn /idol_story/ibuki_1,, arrow-left, Ibuki Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/idol_story/ibuki_1" title="Previous Story: Ibuki Idol Story 1"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
 ## Translation Notes
 

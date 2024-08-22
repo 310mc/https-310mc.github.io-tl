@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Flood of Customers (Chapter 8–12)"
-date: 2024-8-12 9:05:00
+date: 2024-6-30 9:05:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]
@@ -979,7 +979,7 @@ Come on, all together now — It’s time for the Vegetable Dance! Let’s go! �
 
 <th>(The Vegetable Dance was made up on the spur of the moment in the fields, so I never imagined it would be a record-breaking, massive hit outside…)</th>
 
-<th>(It wasn’t even the tiniest bit of my intention to do that, but… Thanks to it, my restaurant is flourishing immensely.)</th>
+<th>(It wasn't my intention in the slightest, not even the tiniest bit, but… Thanks to it, my restaurant is flourishing immensely.)</th>
 
 <th>(To the point that there’s even people who came all the way to this venue just because they “want to eat my eggplant”!)</th>
 {% endbubble %}

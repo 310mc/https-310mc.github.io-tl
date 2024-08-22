@@ -385,7 +385,7 @@ I was a little nervous that you might not care about me, since you always act so
 {% bubble Chiaki horrified %}
 Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?[^2]
 
-We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
+We made them ourselves, so I know it’s fake and all, but it’s *seriously* creepy-looking…!
 {% endbubble %}
 
 {% bubble Kanata v2 %}

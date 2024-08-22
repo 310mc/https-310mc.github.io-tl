@@ -957,7 +957,7 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
 
 ## Translation Notes
 
-[^1]: The shadow Madara talks about is <a href="https://www.orionphilosophy.com/stoic-blog/the-shadow-carl-jung" target="_blank">Jungian psychology </a>. It's a pretty interesting topic relevant to this story and the characters involved.
+[^1]: The shadow Madara talks about is <a href="https://www.orionphilosophy.com/stoic-blog/the-shadow-carl-jung" target="_blank">Jungian psychology</a>. It's a pretty interesting topic relevant to this story and the characters involved.
 [^2]: In Japan, the season for ghost stories is typically in summer.
 [^3]: Chiaki unusually asks for permission with <em>dame kana</em>.
 [^4]: Fun fact, Swahili has similar pronunciation to Japanese, hence why Chiaki chose it as his excuse.

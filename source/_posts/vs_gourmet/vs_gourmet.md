@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] VS★GOURMET"
-date: 2024-8-19 9:00:00
+date: 2024/7/8 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 tags:

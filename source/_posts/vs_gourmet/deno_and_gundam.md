@@ -1,6 +1,6 @@
 ---
 title: "[TRANSLATION NOTE] Kamen Rider Den-O and Gundam 00 Explanation"
-date: 2024-8-8 8:00:00
+date: 2024-7-1 10:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Midori]

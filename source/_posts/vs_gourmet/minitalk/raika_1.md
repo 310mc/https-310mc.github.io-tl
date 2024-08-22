@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Raika Mini Talk: Blessings of Food"
-date: 2024/8/6 9:04:00
+date: 2024/7/1 9:00:00
 categories:
 - [Enstars, Raika]
 tags:

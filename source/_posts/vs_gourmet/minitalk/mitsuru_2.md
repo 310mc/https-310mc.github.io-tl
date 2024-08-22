@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Mitsuru Mini Talk: Restless Night"
-date: 2024/8/6 9:05:00
+date: 2024/7/1 9:05:00
 categories:
 - [Enstars, Mitsuru]
 tags:

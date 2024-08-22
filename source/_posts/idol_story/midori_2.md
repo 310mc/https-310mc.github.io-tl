@@ -295,4 +295,21 @@ If you ever felt like joining, please do inform me. The club will always be happ
 </div>
 </div>
 
-<div toc>{% btn /idol_story/midori_1,, arrow-left, Midori Idol Story 1 %}{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_3,, arrow-right, Midori Idol Story 3 %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/idol_story/midori_1" title="Previous Story: Midori Idol Story 1"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="/idol_story/midori_3" title="Next Story: Midori Idol Story 3"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

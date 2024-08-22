@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Introduction and Countdown"
-date: 2024-8-7 8:00:00
+date: 2024-6-30 8:00:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]

@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Flood of Customers (Chapter 1–7)"
-date: 2024-8-7 9:04:00
+date: 2024-6-30 9:04:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]

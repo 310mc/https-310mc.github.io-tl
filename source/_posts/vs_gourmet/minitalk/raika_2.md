@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Raika Mini Talk: Peculiar Recipe"
-date: 2024/8/6 9:05:00
+date: 2024/7/1 9:01:00
 categories:
 - [Enstars, Raika]
 tags:

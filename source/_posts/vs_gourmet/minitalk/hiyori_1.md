@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Hiyori Mini Talk: Delicious Arrival"
-date: 2024/8/6 9:04:00
+date: 2024/7/1 9:02:00
 categories:
 - [Enstars, Hiyori]
 tags:

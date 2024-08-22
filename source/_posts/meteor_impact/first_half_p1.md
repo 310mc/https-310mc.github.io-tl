@@ -78,7 +78,7 @@ Now, let’s begin our Super Hero Time! As long as I’m here, evil shall never 
 
 ……………
 
-<th>(…It’s too scary! I’m trying to shake off my fear with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)</th>
+<th>(…It’s too scary! I’m trying so hard to encourage myself with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)</th>
 
 <th>(Uuu… Just the thought of the school at the dead of the night is terrifying enough…)</th>
 

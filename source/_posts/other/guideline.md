@@ -54,18 +54,6 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="https://i.ibb.co/WB2vhm8/chiakibcgframe-300px.jpg"
-            alt="VS★GOURMET"
-        />
-    </div>
-    <a href="/vs_gourmet" class="storyName" target="_blank">
-        <span>VS★GOURMET</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
             alt="Sports Survivors"
         />
@@ -129,6 +117,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://i.ibb.co/WB2vhm8/chiakibcgframe-300px.jpg"
+            alt="VS★GOURMET"
+        />
+    </div>
+    <a href="/vs_gourmet" class="storyName" target="_blank">
+        <span>VS★GOURMET</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img

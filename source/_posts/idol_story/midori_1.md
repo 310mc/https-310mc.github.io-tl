@@ -167,11 +167,11 @@ Uh— I suppose this isn’t the topic to talk to with a woman, or it’d just b
 
 Actually, I’m also sorry for complaining this much… I’m a second year now — a senior, so I’ve gotta pull myself together…
 
-*<th>(Breathe in, breathe out)</th>*
+<em><th>(Breathe in, breathe out)</th></em>…
 
-*The green flame is the mark of compassion!*
+*“The green flame is the mark of compassion!”*
 
-*The great nature, growing infinitely! Ryusei Green, Takamine Midori!*
+*“The great nature, growing infinitely! Ryusei Green, Takamine Midori!”*[^1]
 
 Ahaha… I feel better whenever I say this, like I’ve really transformed into a hero…
 
@@ -221,4 +221,24 @@ And that’s how I’ll be doing my best, so… Please do support me, Miss Produ
 </div>
 </div>
 
-<div toc>{% btn /translations#Idol-Stories,, star, Index %}{% btn /idol_story/midori_2,, arrow-right, Midori Idol Story 2 %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="/idol_story/midori_2" title="Next Story: Midori Idol Story 2"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
+
+## Translation Notes 
+
+[^1]: Idol Story 1 is fully voiced. Midori says his catchphrase here in a quiet voice, as if talking to himself. This is different from how he says it in <a href="/climax" target="_blank">Climax</a> (also a voiced story). In Climax Epilogue 5, he proclaims it confidently and loudly.

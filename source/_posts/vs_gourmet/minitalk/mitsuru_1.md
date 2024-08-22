@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Mitsuru Mini Talk: Reminded Of Its Taste"
-date: 2024/8/6 9:04:00
+date: 2024/7/1 9:04:00
 categories:
 - [Enstars, Mitsuru]
 tags:

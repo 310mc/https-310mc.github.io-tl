@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Praise of Delicious Flavors (Chapter 8–15)"
-date: 2024-8-7 9:03:00
+date: 2024-6-30 9:03:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]
@@ -1527,7 +1527,7 @@ T-Thank you very much! I hope to see you again tomorrow!
 {% endbubble %}
 
 {% bubble Chiaki sighfrown %}
-<th>(I kept straying off course, and the result was this nasty taste. Even my customers make a questionable look and leave as soon as they have one bite of my dish.)</th>
+<th>(I kept straying off course, and the result was this nasty taste. Even my customers make a questionable look and leave as soon as they have one sip of my dish.)</th>
 
 I feel bad doing this on behalf of the producers of these ingredients, but I can’t really serve this soup anymore, can I…
 {% endbubble %}

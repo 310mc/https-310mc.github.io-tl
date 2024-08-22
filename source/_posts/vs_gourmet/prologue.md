@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Prologue"
-date: 2024-8-7 9:01:00
+date: 2024-6-30 9:01:00
 categories:
 - [Enstars, Mitsuru]
 - [Enstars, Raika]

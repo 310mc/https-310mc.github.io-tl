@@ -63,7 +63,7 @@ description: "[ES!!] Translation of Hinata's Idol Story 3, featuring Midori."
 {% img /img/es/idolstory/initial/hinata_3.jpg %}
 
 {% bubble Hinata %}
-Time for a fun, fun lunch break~ hmhmhm~♪
+Time for a fun, fun lunch break~ hmhmhm~♪ *<th>(humming)</th>*
 
 Huh? Oh! It’s Midori-kun! Yoohoo yoohoo, how’ve you been~?
 
@@ -196,6 +196,10 @@ Let’s talk about all kindsa things while we eat! Like our interests and hobbie
 I can only hope this makes us close enough for you to start calling me your friend~♪
 {% endbubble %}
 
+{% note narration %}
+A continuation of Hinata and Midori's development can be found in <a href="/making_100_friends_project" target="_blank">Making-100-Friends Project</a>!
+{% endnote %}
+
 ## Story Directory
 
 <div class="stories">
@@ -237,8 +241,21 @@ I can only hope this makes us close enough for you to start calling me your frie
 </div>
 </div>
 
-<div toc>{% btn https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2,, arrow-left, Hinata Idol Story 2 %}{% btn /translations#Idol-Stories,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="https://twilightmalachite.tumblr.com/post/660166948342087680/hinata-aoi-idol-story-2" title="Previous Story: Hinata Idol Story 2"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
 
-## Translation Note
-
-A continuation of Hinata and Midori's development can be found in <a href="/making_100_friends_project" target="_blank">Making-100-Friends Project</a>!

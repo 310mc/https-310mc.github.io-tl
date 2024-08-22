@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Praise of Delicious Flavors (Chapter 1–7)"
-date: 2024-8-7 9:02:00
+date: 2024-6-30 9:02:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]

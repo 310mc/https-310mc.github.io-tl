@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Profile Cards and PR Videos"
-date: 2024-6-30 9:00:00
+date: 2024-6-30 8:01:00
 categories:
 - [Enstars, Chiaki]
 - [Enstars, Mitsuru]

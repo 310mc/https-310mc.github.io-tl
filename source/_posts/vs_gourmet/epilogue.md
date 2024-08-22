@@ -1,6 +1,6 @@
 ---
 title: "VS★GOURMET – Epilogue"
-date: 2024-8-14 9:06:00
+date: 2024-6-30 9:06:00
 categories:
 - [Enstars, Seiya]
 - [Enstars, Jin]
@@ -69,7 +69,7 @@ description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki an
 Great work. We’ve also finished seeing off all the fans~
 {% endbubble %}
 
-{% bubble Nice %}
+{% bubble Nice smilesoft %}
 Now then. Let’s get straight to it — It’s time to assess the second venue, Gourmet District.
 
 Just like the first venue, Prince Castle, I’d like to start by grading the ‘competition score’.
