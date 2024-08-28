@@ -1929,7 +1929,9 @@ I refuse!
 {% bubble Kanata pastfrownshake %}
 …huh? what? why? you are only Human, yet you oppose me? i’m a god, you know? you must listen to what i say!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch22_2.jpg %}
+
 {% bubble Chiaki mgn %}
 Never!
 {% endbubble %}
@@ -1939,7 +1941,7 @@ Never!
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Mhm, alright! Allow me to explain! Becoming a hero is not my wish — it’s my *dream*!
+Mhm, alright! Allow me to explain! Becoming a hero is not my wish — it’s my *dream!*
 {% endbubble %}
 
 {% bubble Kanata pastfrownshake %}
@@ -1965,6 +1967,7 @@ i-is that how it is? it is difficult to understand, but i suppose there are thin
 {% endbubble %}
 
 ## Chapter 23
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch23.jpg %}
 
 {% bubble Chiaki mgn %}
@@ -2162,7 +2165,9 @@ ah! did you just say “Pray”? i see, so that is your Wish…☆
 {% bubble Chiaki mgn %}
 Ooh!? But that’s only a figure of speech! Making friends isn’t my wish *nor* my dream! My dream is—
 {% endbubble %}
+
 ## Chapter 24
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch24.jpg %}
 
 {% bubble Madara hidden %}

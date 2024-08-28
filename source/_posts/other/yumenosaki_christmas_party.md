@@ -39,7 +39,7 @@ permalink: yumenosaki_christmas_party/
                 <a href="/categories/Enstars/Keito" character="Keito"></a>
                 <a href="/categories/Enstars/Izumi" character="Izumi"></a>
                 <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+				<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
             </div>

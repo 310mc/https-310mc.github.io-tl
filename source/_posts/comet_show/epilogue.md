@@ -641,7 +641,7 @@ I’m sorry, Tetora-kun, Shinobu-kun. I’m the only one who hasn’t changed si
 {% endbubble %}
 
 {% bubble Shinobu worried %}
-That isn’t true, Midori-kun. You’re the one getting the most recognition through your modeling and other solo work.
+That isn’t true, Midori-kun. You’re the one getting the most recognition through your gravure modeling and other solo work.
 
 Anyone who knows you could guess how much you dislike that line of work, but you still worked as hard as you could, and your efforts paid off. That isn’t something just anyone can do — You are incredible, Midori-kun.
 {% endbubble %}

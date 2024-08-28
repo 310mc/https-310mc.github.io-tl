@@ -236,6 +236,18 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_cT366cf54f94fDN3.webp?timestamp=1724863739856"
+            alt="2024 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/midori/2024" class="storyName" target="_blank">
+        <span>2024 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Kanata Shinkai

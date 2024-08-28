@@ -93,10 +93,10 @@ That’s <em>exactly</em> why it was so painful… I’m awful at coming up with
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Heeey, Takamine! There you are! I was looking for you.
+<em><th>(waves)</th></em> Heeey, Takamine! There you are! I was looking for you.
 {% endbubble %}
 
-{% bubble Midori worried0 %}
+{% bubble Midori takenaback %}
 Ugh—
 
 You’ve got the wrong person, I’m not Takamine Midori…
@@ -110,7 +110,7 @@ Fuhahaha! ☆ I never once said “Midori,” and you won’t fool me with that 
 Ughh… I’m tired enough as it is, why did I have to come across such an exhausting person… Did you want something from me?
 {% endbubble %}
 
-{% bubble Chiaki serious %}
+{% bubble Chiaki idle %}
 Mm? You look worn out… It isn’t that big of a deal, so I can just keep it for another day.
 {% endbubble %}
 
@@ -136,7 +136,7 @@ That’s it! ☆
 <em>Wow</em>, it really wasn’t a big deal at all…
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileconfident %}
 That’s why I said so earlier!
 {% endbubble %}
 
@@ -144,7 +144,7 @@ That’s why I said so earlier!
 I didn’t think it was gonna be <em>that</em> stupid… Why’d you come all the way to tell me, anyway?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki norsmile %}
 Well, you also did a bridal-related job for your shuffle unit, right? Under the unit name of, ermm…
 {% endbubble %}
 
@@ -152,7 +152,7 @@ Well, you also did a bridal-related job for your shuffle unit, right? Under the 
 Ring.A.Bell…?
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki nod %}
 Yeah, that’s the one! I was asked to make “an expression a bridegroom would have when gazing at his beloved one” for the PV, but I struggled at first on how to go about it.
 
 When I consulted Anzu for her advice, she suggested that I take reference from the promotional video Ring.A.Bell took separate from their MV, and got me to watch it.
@@ -160,15 +160,17 @@ When I consulted Anzu for her advice, she suggested that I take reference from t
 I kept re-watching how you played your part and analyzed it as much as I could, then I applied it to my own performance, and it worked out in my favor. Thank you, Takamine!
 {% endbubble %}
 
-{% bubble Midori sigh %}
+{% bubble Midori sightired %}
 How am I supposed to respond to that… And why’d Anzu-san have to go and suggest that in the first place…
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
+{% bubble Chiaki norsmile2 %}
 She didn’t do anything wrong, though! She only recommended the video; she never once mentioned you.
 
 I had quite a few options to reference from, but my eyes were drawn to you the most — maybe because we’re both from the same unit.
+{% endbubble %}
 
+{% bubble Chiaki grin2 %}
 That’s just proof that your aura and charm are skyrocketing! You should be proud of yourself!
 {% endbubble %}
 
@@ -188,7 +190,7 @@ Hmm, well… The first time I met him was when—
 Wh— Why’re you suddenly narrating a whole backstory… You don’t have to tell me if it’s gonna take forever.
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smile %}
 Don’t be like that! Plus, isn’t it good for you to learn more about other people?
 
 I first met Sazanami at Project Saga.[^1] We fought against each other at the Rebirth Live — I was in Rain-bows, and he was in Lilith.
@@ -198,7 +200,7 @@ Back then, he was, how do I put it… He was pretty hostile, so I wasn’t sure 
 After working with him again, I’ve come to learn that he’s an honest, friendly guy. He was really frank with me from the moment we started our filming, and we had a peaceful time working together.
 {% endbubble %}
 
-{% bubble Midori serious %}
+{% bubble Midori idle %}
 Peaceful time, huh… Yeah, I can imagine that. He’s kind to people like me, too, so…
 {% endbubble %}
 
@@ -218,11 +220,11 @@ Oh, really!? You’re on close terms with Sazanami, then! ☆
 I <em>just</em> said he’s an acquaintance… Could you please <em>try</em> to listen to what I’m saying?
 {% endbubble %}
 
-{% bubble Chiaki v2 %}
+{% bubble Chiaki smileexplain %}
 That’s what I understood from listening to you. Acquaintances don’t typically lend each other their belongings, y’know?
 {% endbubble %}
 
-{% bubble Midori yare %}
+{% bubble Midori frown2 %}
 Yeah, well, that’s just how it is in the Manga Club.
 {% endbubble %}
 
