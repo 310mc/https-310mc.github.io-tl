@@ -307,11 +307,11 @@ Ahaha… I don’t really get what’s going on, but we’re already having a hu
 
 Are we really going to be alright…? I’m getting a little worried… But we won’t get anywhere if we keep chatting, so it’s about time we start our program.
 
-We'll start by hanging up decorations in the hallways while it's still daytime, since it’d be a waste of electricity to have to keep the lights on in order to work at night.
+We’ll start by hanging up decorations in the hallways while it’s still daytime, since it’d be a waste of electricity to have to keep the lights on in order to work at night.
 {% endbubble %}
 
 {% bubble Nazuna %}
-You're right about that. For practicing, we’d only need to use the lights in one room.
+You’re right about that. For practicing, we’d only need to use the lights in one room.
 {% endbubble %}
 
 {% bubble Chiaki %}
@@ -377,7 +377,7 @@ Ra*bits doesn’t seem like they’d be good at manual labor, so with Mikejima-s
 {% bubble Nazuna %}
 Ahaha, it’s true that we’re not the best at manual labor, but we do a lot of part-time jobs at school, so we’re pretty good at decorating stuff.
 
-Don’t look down on us just 'cause we’re small~!
+Don’t look down on us just ‘cause we’re small~!
 
 But it’s all good! Anyway, we really aren’t gonna get anywhere if we keep talking, so let’s get to work. Let’s do our very best, you guys~♪
 {% endbubble %}
@@ -389,7 +389,7 @@ Of course, Nii~chan…♪
 {% bubble Chiaki %}
 Well, we’ve got a lot of work ahead of us, so let’s take it slow and steady, and do our best. There really isn’t any reason to push ourselves, and if we really need to, we could always ask for more helping hands later.
 
-We don't have to try and do everything all by ourselves. *All for one, one for all!*
+We don’t have to try and do everything all by ourselves. *All for one, one for all!*
 {% endbubble %}
 
 {% bubble Madara %}
@@ -443,7 +443,7 @@ Ughh… Just thinking about it makes me depressed…
 {% endbubble %}
 
 {% bubble Tetora %}
-Whaa~? Aren’t you used to customers 'cuz of the greengrocer shop?
+Whaa~? Aren’t you used to customers ‘cuz of the greengrocer shop?
 {% endbubble %}
 
 {% bubble Midori sad3 %}
@@ -481,7 +481,7 @@ It’d be really bad if that happened, so don’t do anything reckless just to g
 
 We’ll all regret it if one of us gets hurt and has to sit out on the day of the event…
 
-I wanna be able to say *“The five of us together are Ryuseitai!”* during the actual live show, y'know…
+I wanna be able to say *“The five of us together are Ryuseitai!”* during the actual live show, y’know…
 {% endbubble %}
 
 {% bubble Midori sad2 %}
@@ -557,11 +557,11 @@ Is he not always weird?
 {% bubble Midori srsthinking %}
 No, I meant it like… he’s not acting like himself… It’s like he’s always scared of something…
 
-He seems so nervous over everything that he's overwhelmed… He doesn’t even pester me as much as he used to…
+He seems so nervous over everything that he’s overwhelmed… He doesn’t even pester me as much as he used to…
 {% endbubble %}
 
 {% bubble Tetora grin %}
-Oh? Could it be that you’re feeling lonely\~? 'Cuz he’s not paying attention to you\~♪
+Oh? Could it be that you’re feeling lonely\~? ‘Cuz he’s not paying attention to you\~♪
 {% endbubble %}
 
 {% bubble Midori angry %}
@@ -593,9 +593,9 @@ But no, really… Hasn’t Morisawa-senpai been kinda off…?
 {% endbubble %}
 
 {% bubble Tetora northinking %}
-Yeah, now that you mention it… He *has* been a li'l quieter than usual lately.
+Yeah, now that you mention it… He *has* been a li’l quieter than usual lately.
 
-He hasn’t been his usual positive self… I mean, he didn’t seem pumped up 'bout participating in the Halloween Party, either.
+He hasn’t been his usual positive self… I mean, he didn’t seem pumped up ‘bout participating in the Halloween Party, either.
 {% endbubble %}
 
 {% bubble Midori srsthinking %}
@@ -627,7 +627,7 @@ It felt really closed off from the world…
 {% endbubble %}
 
 {% bubble Tetora yare %}
-Hmm… No one ever tells us 'bout what happened in the past even when we ask…
+Hmm… No one ever tells us ‘bout what happened in the past even when we ask…
 
 There’s only so much we can assume, too.
 
@@ -657,7 +657,7 @@ I’ve been keeping in contact with the others every once in a while, and it see
 
 If we keep going at our current pace, it’ll end up looking like we were slacking off!
 
-So let’s do our best! Let's go, we can do it! Put all your energy into it! Fuhahaha!! ☆
+So let’s do our best! Let’s go, we can do it! Put all your energy into it! Fuhahaha!! ☆
 {% endbubble %}
 
 {% bubble Midori frown2 %}
@@ -677,7 +677,7 @@ I’ll make you all something to rejuvenate your bodies and relieve your exhaust
 {% endbubble %}
 
 {% bubble Nazuna %}
-Ahaha, I’m excited. I’ve heard about what a pro you are at cooking, Madara-chin. This is really helping me out~ 'Cause I don’t really cook much.
+Ahaha, I’m excited. I’ve heard about what a pro you are at cooking, Madara-chin. This is really helping me out~ ‘Cause I don’t really cook much.
 {% endbubble %}
 
 {% bubble Hajime %}
@@ -727,7 +727,7 @@ Buuut aren’t we missing someone? I don’t see Tomoya-san anywhere; where’s 
 {% endbubble %}
 
 {% bubble Nazuna serious %}
-He’s not a baby, y'know… And anyway, Tomo-chin said it’s his turn to feed the animals at the animal shed, so he’s over there.
+He’s not a baby, y’know… And anyway, Tomo-chin said it’s his turn to feed the animals at the animal shed, so he’s over there.
 
 Each club take turns feeding them, and right now it’s the Drama Club’s turn.
 {% endbubble %}
@@ -787,7 +787,7 @@ I’ll be going now. I’ll come back to help with the cooking as soon as I can,
 
 <th>(Ra*bits is finally doing incredibly well… It’s almost unbelievable that we first started out as a jumbled mess…)</th>
 
-<th>(We *absolutely* can't just let everything fall apart now.)</th>
+<th>(We *absolutely* can’t just let everything fall apart now.)</th>
 {% endbubble %}
 
 {% bubble Tomoya %}
@@ -854,14 +854,14 @@ Did you hear about it from Takamine? I guess I *did* tell him about us fighting�
 Oh, so you *are* fighting! I see now\~ That’s great\~! ♪
 {% endbubble %}
 
-{% bubble Tomoya frown2 %}
+{% bubble Tomoya frownshake %}
 No, it isn’t!! Hajime is my oasis~! My heart’s going insane just knowing I can’t talk to him normally!
 {% endbubble %}
 
 {% bubble Tetora %}
 Why don’t ya just say that to him, then?
 
-Anyway, I mean that it's a good thing if you know why you’re fighting. It’s way more stressful when things start getting worse and you don’t even know why.
+Anyway, I mean that it’s a good thing if you know why you’re fighting. It’s way more stressful when things start getting worse and you don’t even know why.
 {% endbubble %}
 
 {% bubble Tomoya frown %}
@@ -869,7 +869,7 @@ Yeah, true… I feel like you go through that a lot, Tetora… since you’re pr
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
-Woah woah, why'd this suddenly become 'bout criticizing me…!? You’re not holding back at all, huh? The fight must be affecting ya.
+Woah woah, why’d this suddenly become ‘bout criticizing me…!? You’re not holding back at all, huh? The fight must be affecting ya.
 {% endbubble %}
 
 {% bubble Tomoya sad4 %}
@@ -877,7 +877,7 @@ Ah— S-sorry… I lashed out on you.
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
-Nah, it’s okay. I’m bothered by that part of myself, too. I don’t really like being delicate 'bout things, so I choose to be more straightforward.
+Nah, it’s okay. I’m bothered by that part of myself, too. I don’t really like being delicate ‘bout things, so I choose to be more straightforward.
 
 I know it’s important to be thoughtful to other people and try to put yourself in their shoes, and to carefully untangle the cause of the fight, but…
 {% endbubble %}
@@ -885,9 +885,9 @@ I know it’s important to be thoughtful to other people and try to put yourself
 {% bubble Tetora sad2 %}
 Uuu~… That kinda stuff just irritates me.
 
-But… While it might feel like a relief to let everything out, you'll just end up hurting that person’s feelings.
+But… While it might feel like a relief to let everything out, you’ll just end up hurting that person’s feelings.
 
-So it’s important to be more careful with the people who're gonna be in your life for a long time, right?
+So it’s important to be more careful with the people who’re gonna be in your life for a long time, right?
 {% endbubble %}
 
 {% bubble Tetora frown %}
@@ -901,7 +901,7 @@ There’s no way I could do that to Hajime… I’d rather die.
 {% endbubble %}
 
 {% bubble Tetora scold %}
-Then what're you gonna do!? Are you just gonna waste time being nervous around each other!? That’s so irritating!
+Then what’re you gonna do!? Are you just gonna waste time being nervous around each other!? That’s so irritating!
 {% endbubble %}
 
 {% bubble Tomoya worried2 %}
@@ -927,7 +927,7 @@ Yeah… Sorry. But, like… this problem’s pretty serious.
 
 I feel like we’ll just end up getting in a fight all over again, even if we tried to apologize and call it a day.
 
-I think it’s 'cause there’s a fundamental difference between how Hajime and I think.
+I think it’s ‘cause there’s a fundamental difference between how Hajime and I think.
 {% endbubble %}
 
 {% bubble Tetora curious %}
@@ -939,7 +939,7 @@ Hey, Tetora… Am I cute?
 {% endbubble %}
 
 {% bubble Tetora northinking %}
-Hweh? Mm~… Yeah, you are. Cute enough that I forget you’re my age. You look like a li'l kid, which is normally cute.
+Hweh? Mm~… Yeah, you are. Cute enough that I forget you’re my age. You look like a li’l kid, which is normally cute.
 {% endbubble %}
 
 {% bubble Tomoya sad4 %}
@@ -965,101 +965,105 @@ This is the best I can do…!! I’m copying this bunny next to me!
 {% bubble Tetora %}
 Oh yeah, mimicking an animal’s movement makes sense. That’s the secret behind Kenpo.[^2]
 
-I’ve practiced that plenty of times to grow stronger. Like the Monkey Fist style or the Praying Mantis Fist style~♪
+I’ve also practiced that sometimes to grow even stronger\~ Like the Monkey Fist style or the Praying Mantis Fist style\~♪
 {% endbubble %}
 
 {% bubble Tomoya worried %}
-Yeah, I don’t really know much about Kenpo, but we often practice copying the kinds of things cute girls or animals do.
+Yeah, I don’t really know much about Kenpo, but we often have practice sessions where we copy the kinds of things cute girls or animals do.
 
-Ra*bits is all about being cute idols, after all.
+Ra*bits aims to be cute idols, after all.
+{% endbubble %}
 
+{% bubble Tomoya frown %}
 But I just can’t seem to get used to it…
 
-Lately, I haven’t been able to keep up with anything. It made me start feeling pathetic and unsatisfied with myself, and then to top it all off, I even ended up fighting with Hajime…
+Especially lately, there’s a whole bunch of things I can’t keep up with. It made me start feeling pathetic and unsatisfied with myself, and then to top it all off, I even ended up fighting with Hajime…
 {% endbubble %}
 
 {% bubble Tomoya sad4 %}
 I’ve always wanted to become like the idols I loved — It’s why I came to Yumenosaki. And, well, I *did* get to become an idol.
 
-I got to be a little popular as part of Ra*bits…
+I also got to be a little popular as part of Ra*bits…
 
-So my dream did come true. I'm not supposed to feel unsatisfied like this.
+My dream *did* come true. So I’m not supposed to feel unsatisfied like this.
 {% endbubble %}
 
-{% bubble Tomoya frown2 %}
+{% bubble Tomoya frownshake %}
 But… I didn’t necessarily wanna become a *cute* idol.
 
 I know I’m being selfish… I mean, with the kinds of magazines and companies we get requests from…
 
-We're only going to become more and more specialized in being the perfect ideal of “cute.”
+We’re only going to become more and more specialized in being the perfect ideal of “cute.”
+{% endbubble %}
 
+{% bubble Tomoya sad2 %}
 And if we keep going in that direction, the result will be… *this.* Look at my phone for a bit, Tetora.
 {% endbubble %}
 
 {% bubble Tetora curious %}
-Hmm? What’s this really pink-ish website…?
+Hmm? What’s this really pink-colored website…?
 {% endbubble %}
 
 {% bubble Tomoya sigh %}
-There’s an expert, I guess you could call him… He's like a senior to us. He's an idol who specializes in being cute, so we often take reference from him.
+There’s this pioneer, I guess you could call him… He specializes in being cute, and we often take reference from him. He’s an idol who’s like a senior to us.[^3]
 
 You can pretty much always find him in the same magazine.
 
-But just look at the photos on the site. He's just a girl at this point…
+But just look at the photos on the site. He’s just a girl at this point…
 {% endbubble %}
 
 {% bubble Tomoya sad %}
-He's actually really amazing. He's put in so much hard work and training, even physically remodeled himself to fit perfectly into this specialty, and it's really respectable, but…
+He’s actually an amazing, respectable person. There’s rumors that he’s put in so much hard work and training, even physically remodeled himself to fit perfectly into this specialty…
 
-Sometimes we meet him in real life, and when I realize I may have to put that much work in as well… I start to get scared. I know I’m being pathetic…
+But when I heard about that, and realized that’s how far you’d have to go… I started to get a little scared. I know I’m being pathetic…
 
-It just became natural for him to cross-dress, and as long as the outfit’s cute, he'd wear all kinds of things, from baby outfits to animal costumes…
+It just became natural for him to cross-dress, and as long as the outfit’s cute, he’d wear all kinds of things, from baby outfits to animal costumes…
 
-And every single time he does anything, he makes sure it's as cute as it gets.
+And every single time he does anything, he makes sure it’s as cute as it gets.
 
-He's completely gotten rid of everything else to become fully specialized in being cute. It’s what he had to do to get by in the industry, and he's now succeeding 'cause of it.
+He’s completely gotten rid of everything else to become fully specialized in being “cute”. But to be fair, that’s one of the strategies to survive in the industry, and he’s now succeeding ‘cause of it.
 
-That's also the methodology that pretty girl idols have set for this sorta industry.
+That’s also the exact methodology that pretty girl idols have established for this sorta industry.
 
-We can follow in his footsteps and copy what he does, and it’ll take us relatively far.
+Just by following in his footsteps and copying what he does, I think it’ll take us relatively far.
 {% endbubble %}
 
 {% bubble Tomoya serious %}
-We're still inexperienced, and our one big selling point is the “cute” quality we have… so making use of it is the right choice.
+We’re still inexperienced, and our one big selling point is the “cute” quality we have… so making use of it is the right choice.
 
 It’s the path Nii~chan showed us, when none of us could get anywhere.
 
-On one hand, you have me, and then you also have Mitsuru, who’s boyish-looking… But then, Nii~chan and Hajime tend to be even cuter than girls sometimes. They have the qualities and talent for this.
+On one hand, you have me, and you also have Mitsuru, who’s pretty boyish-looking… But then, Nii~chan and Hajime tend to be even cuter than girls sometimes. They have the qualities and talent for this.
 
 But… what about me?
 
-I get so anxious and worried, like “Is this really what I dreamed to be? Am I really the idol I always aspired to become? …Is it really okay for things to be this way?”
+I get so anxious and worried, like “Is this really what I dreamed to be? Is this the kind of idol I always aspired to become? …Is it really okay for things to be this way?”
 
-I'm always so confused, but… Hajime's been really into this stuff lately. He keeps picking up more and more cutesy things—
+I’m always so lost, but… For some reason, Hajime’s been really fired up lately, and keeps picking up more and more cutesy things—
 
-And… he's always achieving those cute jobs perfectly.
+And… he’s always achieving those cute jobs perfectly.
 
-So he gives me an innocent smile and goes, “If I can do it, then so can you, Tomoya-kun!”, without any ill intention in his heart…
+Then he gives me an innocent smile and goes, “If I can do it, then so can you, Tomoya-kun!”, without any ill intention in his heart…
 {% endbubble %}
 
 {% bubble Tomoya frown %}
-Like, hold on, Hajime… I'm still thinking… Don't rush me. Don't pull me by the hand. I'm not like you…
+Like, hold on, Hajime… I’m still thinking… Don’t rush me. Don’t pull me by the hand. I’m not like you…
 
-Hajime’s really cute. He’s the cutest being in the entire galaxy. But it's just so easy to see him as some plain, shy kid that no one noticed how cute he really is until now.
+Hajime’s really cute. He’s the cutest being in the entire galaxy… But it’s just so easy to see him as some plain, shy kid that no one noticed how cute he really is until now.
 
 And in Yumenosaki, his talent finally bloomed. He found a way to make the absolute best use of his qualities…
 
-That’s where I feel like the two of us are different.
+But that’s where I feel like the two of us are different.
 {% endbubble %}
 
 {% bubble Tomoya sad %}
-I don't really know how to say it, but like, it feels like we're a little off. Like something's just not right.
+I don’t really know how to say it, but like, it feels like we’re a little off. Like something’s just not right.
 
-We’ve been walking this path together, and I’ve always tried to lead him wherever we go…
+We’ve been walking this path together, and it’s always been me who tries to lead him wherever we go…
 
-But then we came to Yumenosaki, and now I feel like he’s gonna let go of me and leave me behind all of a sudden.
+But now that we’ve gotten to this point, I feel like he’s gonna let go of me and leave me behind all of a sudden.
 
-It scares me. He may be a bit of a dummy, but I'm just someone who's normal in every way… yet despite that, I still took him by the hand…
+It scares me. He’s a bit of a dummy sometimes, and I’m just someone who’s ‘normal’ in every way… yet despite that, I still took him by the hand…
 
 And then I got all cocky about how I was guiding him around, and let it boost my ego.
 
@@ -1068,32 +1072,32 @@ But if I can’t keep up with him anymore… if I get abandoned and left behind 
 I wouldn’t have a single good thing left to say about myself.
 {% endbubble %}
 
-{% bubble Tomoya frown2 %}
-That's why I *should* try as hard as I can to master cuteness like Hajime…
+{% bubble Tomoya frownshake %}
+That’s why I *should* try as hard as I can to master cuteness like Hajime…
 
-But I really don’t feel like it’s for me.
+But I can’t help but feel something off about that direction for me.
 
-I spent so much time fretting over it and going around in circles… That Hajime got tired of waiting for me and we ended up fighting… And now we're just dwelling on this whole thing and not making up.
+I spent so much time fretting over it and going around in circles… That Hajime got tired of waiting for me and we ended up fighting… And now we’re just dwelling on this whole thing and not making up.
 {% endbubble %}
 
 {% bubble Tomoya sigh %}
-I'm just being an idiot, aren't I…? But I really just don’t know what to do…
+I’m just being an idiot, aren’t I…? But I really just don’t know what to do…
 
 I guess the best thing I can do is just tell Hajime how I really feel and make up with him, but…
 
-Hajime did nothing wrong. It’s all me and my own issues.
+Hajime did nothing wrong. It’s all me and my own issues…
 {% endbubble %}
 
 {% bubble Tomoya sad2 %}
-There’s nothing he should be stressing about at all…
+There’s nothing he should be stressing or feeling hurt about at all…
 
-He's really determined for once, but I just feel like I'm burdening him.
+He’s really determined for once, but I just feel like I’m burdening him and ruining the mood…
 
-He’s doing the things he wants to do with everything he’s got, but I feel like I'm just being dead weight…
+He’s doing the things he wants to do with everything he’s got, but I feel like I’m just being dead weight.
 
-I’m scared. I alone want to be his ally, forever and ever. I don’t want to make him cry. I don't ever want to cast a shadow over that gentle smile of his.
+I’m scared. I alone want to be his ally, forever and ever. I don’t want to make him cry. I don’t ever want to cast a shadow over that gentle smile of his, nor be the cause of it.
 
-Yet right now, I’m the reason why he’s depressed. All 'cause I don’t have the talent for this… all 'cause I'm not determined enough.
+Yet right now, I’m the reason why he’s depressed. All ‘cause I don’t have the talent or capability for this… all ‘cause I’m not determined enough.
 {% endbubble %}
 
 {% bubble Tomoya sad3 %}
@@ -1128,3 +1132,4 @@ It frustrates me… I feel so pathetic… I’m not even some *normal* kid at th
 
 [^1]: Hajime’s tone here sounds like parental scolding, hence Tomoya’s retort.
 [^2]: Kenpo is a Japanese martial arts.
+[^3]: The pioneer Tomoya is talking about is mentioned in Romantic Comedy as well. They make their appearance in Parallel World, a story set one year and a half after Sweet Halloween (The story also discusses the the topic of “cute” for Ra*bits). Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

@@ -913,7 +913,7 @@ I couldn’t really make up my mind on what I should’ve done about our problem
 I really can’t stand how slow I am… I want to properly fight you the next time around.
 {% endbubble %}
 
-{% bubble Tomoya frown2 %}
+{% bubble Tomoya frownshake %}
 I don’t even *wanna* fight… I seriously didn’t know what I’d do if you hated me… I mean, there’d be no point to living if you did!
 {% endbubble %}
 
