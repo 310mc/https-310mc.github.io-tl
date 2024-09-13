@@ -1,11 +1,11 @@
 ---
-title: "Ryuseitai Timeline In Chronological Order"
+title: "Possible Translation Directory"
 date: 2015-4-10 9:00:00
 categories:
 - [Uncategorized]
 tags:
 - Not Translation
-description: "Ryuseitai Timeline in chronological order with stories to read."
+description: "Possible Translation Directory"
 hidden: true
 ---
 

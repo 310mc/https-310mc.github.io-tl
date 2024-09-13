@@ -59,7 +59,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="" class="storyName" target="_blank">
-        <span>Sports Survivors (In Progress!)</span>
+        <span>Sports Survivors (In Progress! 2/6 Chapters)</span>
         <span class="read soon"></span>
     </a>
 </div>
@@ -71,7 +71,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="" class="storyName" target="_blank">
-        <span>Whimsical City Rider (In progress!)</span>
+        <span>Whimsical City Rider (In progress! 4/6 Chapters)</span>
         <span class="read soon"></span>
     </a>
 </div>
@@ -113,6 +113,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 </div>-->
 </div>
 
+<strong>Note:</strong> Progressing slowly on Sports Survivors and Whimsical City Rider. They will be completed before the end of 2024.
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 

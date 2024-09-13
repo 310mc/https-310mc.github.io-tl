@@ -197,7 +197,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Associated Song
                             </div>
                           <div class="value">
-                            <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg">Bokura No Stella</a> — <a href="/bokura_no_stella">(Song Lyrics)</a>
+                            <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg">Bokura No Stella</a> — <a href="/bokura_no_stella">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">

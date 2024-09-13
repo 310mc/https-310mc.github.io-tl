@@ -191,7 +191,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             Associated Song
                         </div>
                         <div class="value">
-                            <a href="https://www.youtube.com/watch?v=EebaqB7tse0">Unlimited☆Power!!!!!</a> — <a href="https://ensemble-stars.fandom.com/wiki/Unlimited%E2%98%86Power!!!!!_(Lyrics)">(Song Lyrics)</a>
+                            <a href="https://www.youtube.com/watch?v=EebaqB7tse0">Unlimited☆Power!!!!!</a> — <a href="https://ensemble-stars.fandom.com/wiki/Unlimited%E2%98%86Power!!!!!_(Lyrics)">Read Song Lyrics Here!</a>
                         </div>
                     </div>
                         <div class="tab-item">

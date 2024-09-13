@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Selection 10 Unit Project Comments (Ryuseitai only!)"
+title: "[ES!!] Selection 10 Unit Project Comments (Ryuseitai ONLY!)"
 date: 2024-6-22 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]

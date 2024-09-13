@@ -72,6 +72,7 @@ permalink: yumenosaki_christmas_party/
 </div>
 
 <!-- more -->
+
 ### 1-A's Christmas Party, Part 1
 
 <div class="msr-location">

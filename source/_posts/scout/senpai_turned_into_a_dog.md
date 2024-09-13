@@ -732,4 +732,4 @@ In the end, the number one important thing is that nothing bad happened… No, a
 ## Translation Notes
 
 [^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Akatsuki and Ryuseitai story</a>.
-[^2]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 kiseki series, main story). As an extra note, the SS story was released alongside this scout story, just a day after. You can read SS <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">here</a> (Chiaki appears in Effort 12 and 13).
+[^2]: “Peace is number one” is a phrase Chiaki has said before in both Supernova and SS (2018 kiseki series, main story). As an extra note, the SS story was released alongside this scout story, just a day after. You can read SS <a href="https://kotofucius.github.io/2018/kiseki3-ss/" target="_blank">here</a> (Chiaki appears in Effort 12 and 13).

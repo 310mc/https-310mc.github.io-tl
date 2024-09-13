@@ -133,7 +133,7 @@ Uu—! Don’t look at me with those sparkly eyes! I didn’t actually make any 
 
 Like, I did try thinking of something, but every outfit that comes to mind is something I don’t really wanna wear…
 
-Every idea I can think of is something I’d *never* want as a personalized outfit… and I got so frustrated with myself for all these disappointing ideas… and just kept getting more depressed…
+Every idea I can think of is something I’d *never* want as a personalized outfit… and I got so frustrated with myself for all these disappointing ideas… then just kept getting more depressed…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -157,13 +157,13 @@ Like outfits that’re too revealing, with v-necks open all the way down to the 
 
 Outfits that’d feel nerve-wracking ‘cause they’d be doing the talking over me, I guess… I’d hate to have that sorta thing as my personalized outfit…
 
-My fans absolutely love seeing photo shoots where I’m wearing cool clothes and praise me a lot for it, but…
+My fans absolutely love seeing photoshoots where I’m wearing cool-looking clothes and praise me a lot for it, but…
 
 I always feel weird wearing them, like I’m not actually being myself…
 {% endbubble %}
 
 {% bubble Tetora v2 %}
-Hmm, I don’t have much experience with the type of jobs you get, so I can’t say that I completely understand, buuut…
+Hmm, I don’t have much experience with the type’a jobs you get, so I can’t say that I completely understand, buuut…
 
 What if you think ‘bout it the other way around? Like, what kinda outfits *would* you want? If it’s somethin’ you’d want, then you’d probably like wearing it, too.
 {% endbubble %}
@@ -179,7 +179,7 @@ Ah—I was hoping to buy a sweater or shirt that has a yuruchara on it sometime 
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-H-How could you…!? This is the answer I get for the one time I come up with an idea!?
+H-How could you…!? This is the answer I get for the *one* idea I come up with!?
 {% endbubble %}
 
 {% bubble Shinobu v2 %}

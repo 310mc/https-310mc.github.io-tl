@@ -187,7 +187,7 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                                 Associated Song
                             </div>
                             <div class="value">
-                                <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU">Nekketsu ☆ Ryusei Ninpouchou</a> — <a href="/nekketsu_ryusei_ninpouchou">(Song Lyrics)</a>
+                                <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU">Nekketsu ☆ Ryusei Ninpouchou</a> — <a href="/nekketsu_ryusei_ninpouchou">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">

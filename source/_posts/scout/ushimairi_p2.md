@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Ushimairi, Part Two (On Hold)"
+title: "[ES!!] Ushimairi, Part Two (Chapter 1-3 Only)"
 date: 2021-1-14 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 1]
@@ -22,7 +22,7 @@ permalink: ushimairi_p2/
 ---
 
 {% note narration %}
-This translation is **on hold**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
+This is a **partial translation**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
 {% endnote %}
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -820,7 +820,7 @@ Was there any particular motive to put the statue here, I wonder…?
 {% endbubble %}
 
 {% note narration %}
-This translation is **on hold**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
+This is a **partial translation**. Due to the official version having been released, it is not guaranteed that the fan translation will be completed.
 {% endnote %}
 
 <div class="navigation2">
@@ -842,4 +842,4 @@ This translation is **on hold**. Due to the official version having been release
 
 ## Translation Notes
 
-[^1]: The movie Trickstar and <em>fine</em> star in, in the story of the same name.
+[^1]: The movie Trickstar and <em>fine</em> star in, in the story of the same name. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.

@@ -313,6 +313,18 @@ permalink: birthday_story/
         <span class="read"></span>
     </a>
 </div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_JM7wzz66d0b19996.webp?timestamp=1724952991315"
+            alt="2024 Birthday Content"
+        />
+    </div>
+    <a href="/birthday_story/kanata/2024" class="storyName" target="_blank">
+        <span>2024 Birthday Content</span>
+        <span class="read"></span>
+    </a>
+</div>
 </div>
 
 ## Chiaki Morisawa

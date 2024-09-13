@@ -175,7 +175,7 @@ permalink: ring/
                               Associated Song
                           </div>
                           <div class="value">
-                              <a href="https://www.youtube.com/watch?v=ISLUkpKUCGg">Aisle, be with you</a> — <a href="/aisle_be_with_you">(Song Lyrics)</a>
+                              <a href="https://www.youtube.com/watch?v=ISLUkpKUCGg">Aisle, be with you</a> — <a href="/aisle_be_with_you">Read Song Lyrics Here!</a>
                           </div>
                       </div>
                         <div class="tab-item">

@@ -151,7 +151,7 @@ Eep—Spare me! Gosh, that’s very insensitive of you, you know…!?
 {% endbubble %}
 
 {% bubble Yuta surprised %}
-I’m being intensitive!? I-I’m sorry?
+I’m being insensitive!? I-I’m sorry?
 {% endbubble %}
 
 {% bubble Shinobu angry %}
