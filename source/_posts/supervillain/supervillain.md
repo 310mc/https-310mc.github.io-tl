@@ -186,7 +186,7 @@ permalink: supervillain/
                             Associated Song
                             </div>
                           <div class="value">
-                            <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4">Colors Arise</a> — <a href="/colors_arise">(Song Lyrics)</a>
+                            <a href="https://www.youtube.com/watch?v=lEKV8kzVp-4">Colors Arise</a> — <a href="/colors_arise">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">

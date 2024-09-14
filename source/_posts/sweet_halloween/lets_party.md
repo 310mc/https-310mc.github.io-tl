@@ -358,6 +358,8 @@ She’s going to need her own handlers she can call over whenever they’re need
 He was looking out towards her future, preparing the necessary steps to reach it, and then guiding her over to it… Mikejima-san really is incredible.
 {% endbubble %}
 
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Fcg976l66e563357.webp?timestamp=1726309180481 %}
+
 {% bubble Shinobu v2 %}
 Heheh, the more I hear about him, the more awesome he sounds.
 
@@ -409,8 +411,6 @@ Uuu… I wanted to look as cool as possible, though…
 
 I just can’t handle eggplants and monsters, no matter what I do… My trauma from when I was a kid still lingers…
 {% endbubble %}
-
-{% img /img/es/eventstory/sweethalloween/letsparty2_2.jpg %}
 
 {% bubble Shinobu curious %}
 …? Did it become hard to handle them due to a terrible incident?

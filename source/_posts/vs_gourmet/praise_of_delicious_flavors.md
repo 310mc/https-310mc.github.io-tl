@@ -103,7 +103,7 @@ Don’t you guys think so too?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-<th>(Oh, whoops… I accidentally spoke with the usual Ryuseitai energy. That’s right — 4piece is an individual contest, so nobody’s here with me.)</th>
+<th>(Oh, whoops… I accidentally spoke with the usual Ryuseitai energy. That’s right — 4piece is an individual competition, so nobody’s here with me.)</th>
 {% endbubble %}
 
 {% bubble Chiaki frownshake %}
@@ -133,7 +133,7 @@ It’ll be an inconvenience if standing beside you makes people think we’re th
 {% bubble Jun awkward %}
 Ahh, sorry ‘bout that. I felt overwhelmed by the size of this venue…
 
-Like, woah, we’re gonna have an individual contest here…
+Like, woah, we’re gonna have an individual competition here…
 {% endbubble %}
 
 {% bubble Hiyori smile %}
@@ -271,7 +271,7 @@ Mm? Was there a problem with that?
 {% endbubble %}
 
 {% bubble Hiyori yare %}
-4piece is an individual contest, you see. If we get along the same way you do in Yumenosaki, it’ll be much harder to compete, no?
+4piece is an individual competition, you see. If we get along the same way you do in Yumenosaki, it’ll be much harder to compete, no?
 {% endbubble %}
 
 {% bubble Chiaki fist %}
@@ -629,7 +629,7 @@ Look over there! A gigantic screen popped out from the building’s rooftop!
 {% bubble Nice smilesoft %}
 “Ahh, there’s a lump in my throat! Looks like even *I’m* feeling a little nervous here!”
 
-“My pulse rate is going up! My whole body is shivering at the very hint of a magnificent story beginning!”
+“My pulse rate is going up! My whole body is trembling at the very hint of a magnificent tale beginning!”
 {% endbubble %}
 
 {% bubble Ritsu surprised %}

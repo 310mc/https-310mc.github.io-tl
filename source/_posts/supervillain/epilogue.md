@@ -188,7 +188,7 @@ Thanks to all’a this, I think I’m starting to like myself a li’l more. Jus
 {% bubble Chiaki smilesoft2 %}
 Really? I’m so glad to hear that.
 
-You were able to find your very own happiness and purpose in life — something that wasn’t me forcing on you.
+You were able to find your very own happiness and purpose in life — something that wasn’t me forcing it on you.
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}

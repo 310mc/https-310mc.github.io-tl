@@ -164,7 +164,7 @@ That was obviously all my fault. I’m the *only* one who made a mistake here. A
 
 The reason Ryuseitai got into this unnatural state—
 
-Is all ’cuz I was weak, isn’t it? Everything single thing’s all on me.
+Is all ’cuz I was weak, isn’t it? Every single thing’s all on me.
 {% endbubble %}
 
 {% bubble Chiaki serious %}

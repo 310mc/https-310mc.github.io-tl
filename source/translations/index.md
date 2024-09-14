@@ -74,7 +74,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/es2_mainstory/ch123_124" class="storyName" target="_blank">
-        <span>1st Main Story (Incomplete)</span>
+        <span>1st Main Story (Ch123 + Ch124)</span>
         <span class="read"></span>
     </a>
 </div>
@@ -86,7 +86,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/ss_finals" class="storyName" target="_blank">
-        <span>SS Finals (Incomplete)</span>
+        <span>SS Finals (One Chapter Only)</span>
         <span class="read"></span>
     </a>
 </div>
@@ -324,7 +324,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/vs_gourmet" class="storyName" target="_blank">
-            <span>VS★GOURMET (In Progress!)</span>
+            <span>VS★GOURMET</span>
             <span class="read"></span>
         </a>
     </div>
@@ -477,7 +477,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/ushimairi_p2" class="storyName" target="_blank">
-            <span>Ushimairi, Part Two (Dropped)</span>
+            <span>Ushimairi, Part Two (Chapter 1-3 Only)</span>
             <span class="read"></span>
         </a>
     </div>
@@ -1478,7 +1478,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         />
     </div>
     <a href="/anniversary/8th" class="storyName" target="_blank">
-        <span>8th Anniversary Ryuseitai (Incomplete)</span>
+        <span>8th Anniversary Ryuseitai</span>
         <span class="read"></span>
     </a>
     </div>

@@ -124,7 +124,7 @@ Translation was done and handwritten by <a href="https://x.com/enstarsENG/status
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmEykmpg4_c?si=bn0JpJ322dDIbJ5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% bubble Mitsuru %}
-UOOOHH! I’m Tenma Mitsuru! I’m Ra*bits super star~!
+UOOOHH! I’m Tenma Mitsuru! I’m Ra*bits’ super star~!
 
 Umm, umm…!! What should I say here~!?
 {% endbubble %}

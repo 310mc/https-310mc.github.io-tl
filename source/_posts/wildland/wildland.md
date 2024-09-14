@@ -1,29 +1,29 @@
 ---
-title: "[ES!!] Comet Show"
-date: 2021-01-08 9:00:00
+title: "[ES!!] TBA (In Progress!)"
+date: 2024-1-23 9:00:00
 categories:
-- [Enstars, 1. Era, ES Era, Year 1]
-- [Enstars, 1. Era, Yumenosaki Era, Present Days]
-- [Enstars, Ryuseitai]
+- [Enstars, 1. Era, ES Era, Year 2]
+- [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
+- Story Index
 - Event Story
 - Akira
-- Story Index
-description: "[ES!!] Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. However, Chiaki and Kanata declare to leave the unit instead…"
-permalink: comet_show/
+description: "[ES!!] TBA"
+permalink: wildland/
+hidden: true
 ---
-<div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
+<div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/cometshow/chiakibcg.jpg')"></div>
+        <div class="preview-background" style="background-image: url('TBA')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
-                <div class="title-area__start"><a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a></div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__start"><a href="/stella_maris/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -31,7 +31,7 @@ permalink: comet_show/
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -39,7 +39,7 @@ permalink: comet_show/
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -47,7 +47,7 @@ permalink: comet_show/
                             Writer
                         </div>
                         <div class="value">
-                            <a href="/tags/Akira/">Akira</a>
+                            Happy Elements
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -55,10 +55,10 @@ permalink: comet_show/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
@@ -67,7 +67,7 @@ permalink: comet_show/
                             Translation
                         </div>
                         <div class="value">
-                            <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -75,7 +75,7 @@ permalink: comet_show/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>
@@ -85,6 +85,14 @@ permalink: comet_show/
 </div>
 
 <!-- more -->
+
+{% note narration %}
+This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader. Some leader rotations are shown in <b><a href="/tropical" target="_blank">Tropical</a></b> (Midori as the leader), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (Kanata as the leader).
+{% endnote %}
+
+{% note narration %}
+For more information on Ryuseitai's status after <b><a href="/supervillain" target="_blank">Supervillain</a></b>, please refer to the timeline and relationship chart from their <b><a href="/dokisuta_ryuseitai" target="_blank">Dokisuta</a></b> stream.
+{% endnote %}
 
 <style>
     .preview-wrapper {
@@ -101,21 +109,21 @@ permalink: comet_show/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/cometshow/chiakiorigcg1.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(/img/es/eventstory/stellamaris/kanataorigcg.jpg)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"></div>
+                <div><img src="/img/es/eventstory/stellamaris/kanatabcgframe.jpg"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
+                <div class="title-area__title">TBA</div>
+                <div class="title-area__subtitle">TBA</div>
                 <div class="title-area__start">
-                    <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a>
+                    <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai receives an order from their agency to combine Ryuseitai-M and Ryuseitai-N into one unit with other sub-units. At that moment, however, Chiaki and Kanata declare to leave the unit instead…
+                    TBA
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -123,7 +131,7 @@ permalink: comet_show/
                             Season
                         </div>
                         <div class="value">
-                            Summer
+                            Spring (2nd year of ES's Establishment)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +139,7 @@ permalink: comet_show/
                             Chapters
                         </div>
                         <div class="value">
-                            23
+                            TBA
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -139,7 +147,7 @@ permalink: comet_show/
                             Writer
                         </div>
                         <div class="value">
-                            <a href="/tags/Akira/">Akira</a>
+                            Happy Elements
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -147,10 +155,10 @@ permalink: comet_show/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                        <a href="/categories/Enstars/Midori" character="Midori"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
@@ -159,7 +167,7 @@ permalink: comet_show/
                             Translation
                         </div>
                         <div class="value">
-                          <a href="https://moricchiichan.tumblr.com/">moricchiichan</a>, <a href="/about">310mc</a>
+                          <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -167,7 +175,7 @@ permalink: comet_show/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://honeyspades.tumblr.com">honeyspades</a>, TsubasaFL, Gelyan
+                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
                         </div>
                     </div>
                 </div>
@@ -177,11 +185,11 @@ permalink: comet_show/
                     </div>
                     <div class="tab-content">
                         <div class="tab-item">
-                            <div class="label">
-                                Associated Song
+                          <div class="label">
+                            Associated Song
                             </div>
-                            <div class="value">
-                                <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs">Suisei HALATION</a> — <a href="/suisei_HALATION">Read Song Lyrics Here!</a>
+                          <div class="value">
+                            <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc">WILDLAND SURVIVOR</a> — <a href="/WILDLAND_SURVIVOR">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">
@@ -189,7 +197,7 @@ permalink: comet_show/
                                 Event
                             </div>
                             <div class="value">
-                                Transform! The Comet Show Connecting the Stars
+                                Driving At Full Speed ◆ Chase Chesire in WILDLAND<!--激走◆チェイス・チェシャ in WILDLAND-->
                             </div>
                         </div>
                         <div class="tab-item">
@@ -197,7 +205,7 @@ permalink: comet_show/
                                 Event Duration
                             </div>
                             <div class="value">
-                                2020/12/31 (15:00 JST) - 2021/1/8 (22:00 JST)
+                                2024/9/15 (15:00 JST) - 2024/9/23 (22:00 JST)
                             </div>
                         </div>
                     </div>
@@ -210,50 +218,50 @@ permalink: comet_show/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanataorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Plans for the End 1
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakiorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Week-end at the Aquarium 3
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoriorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Week-end at the Aquarium 7
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakibcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoribcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanatabcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
-                                    Epilogue 2
+                                    TBA
                                 </div>
                             </div>
                         </div>
@@ -268,33 +276,33 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakicard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakibcard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">I'll share my powah with you!<!--俺のパゥアを分けてやろうっ！--></div>
-                                            <div class="bloomed">The warrior of justice takes the stage!<!--正義の戦士は立ち上がる！--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and Red Resolve] Chiaki Morisawa</div>
-                                    <div class="card__jp">[流星と赤き決意] 守沢 千秋</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[dream-granting stella] Kanata Shinkai</div>
+                                    <div class="card__jp">[かなうゆめのすてら] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Clumsy Comet<!--不器用コメット--></div>
+                                                <div class="name">guiding horizon<!--みちびくすいへいせん--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">In Order to Protect the Five of Them<!--五人を守るため--></div>
+                                                <div class="name">reverberation of the sea<!--うみのざんきょう--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">The Way to Interact with One Another<!--付きあい方--></div>
+                                                <div class="name">precious things<!--だいじなもの--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -304,33 +312,33 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoricard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoribcard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">It's our turn to shine, Senpai.<!--俺たちの出番ですよ、先輩--></div>
-                                            <div class="bloomed">Guess we'll back him up.<!--援護してあげよっか--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and My True Feelings] Midori Takamine</div>
-                                    <div class="card__jp">[流星と己の本音] 高峯 翠</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella that Sings in the Night] Tetora Nagumo</div>
+                                    <div class="card__jp">[歌う夜のステラ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Selfish Comet<!--我が侭コメット--></div>
+                                                <div class="name">The Horizon that Widens Ahead<!--先広がる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Everything the Five of them Did Together<!--五人でやってきたこと--></div>
+                                                <div class="name">Reverberation of Memories<!--記憶の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Being Honest<!--打ち明け話--></div>
+                                                <div class="name">Intimidating Person<!--迫力の待ち人--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -340,33 +348,33 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatacard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatabcard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">splish, splosh~♪<!--ちゃっぷちゃっぷ♪--></div>
-                                            <div class="bloomed">i feel like we could do anything~<!--なんだってできるきがします--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[meteors and teammates] Kanata Shinkai</div>
-                                    <div class="card__jp">[りゅうせいとみんな] 深海 奏汰</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella of the Wishing Sea] Chiaki Morisawa</div>
+                                    <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">soft comet<!--ゆるいこめっと--></div>
+                                                <div class="name">Gazing Horizon<!--見つめる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">family of five<!--ごにんのかぞく--></div>
+                                                <div class="name">Reverberation of Justice<!--正義の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">a walk at the beach<!--うみべのさんぽ--></div>
+                                                <div class="name">Secret Meeting at the Beach<!--海辺の密会--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -376,33 +384,33 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetoracard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetorabcard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">Creature...? Like, ones from the ocean?<!--怪獣…？海獣ッスか？--></div>
-                                            <div class="bloomed">I'll work hard 'til I finally grasp it.<!--掴み取れるように努力をしてるッス--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and the Color I Started With] Tetora Nagumo</div>
-                                    <div class="card__jp">[流星と最初の色] 南雲 鉄虎</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Stella that Follows the Island] Midori Takamine</div>
+                                    <div class="card__jp">[伝う島のステラ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Steady Comet<!--実直コメット--></div>
+                                                <div class="name">Facing the Horizon<!--向かう水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">The Five of Them Together<!--五人でいること--></div>
+                                                <div class="name">Reverberation of the World<!--世界の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Being Empty Handed, and those Feelings<!--徒手空拳と気持ち--></div>
+                                                <div class="name">Reality of Society<!--世間の現実--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -412,33 +420,33 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobucard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobubcard.jpg">
+                                        <img src="TBA">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed">I get to make use of my abilities!<!--持ち味や技能を活かすでござるよ--></div>
-                                            <div class="bloomed">We should stay close no matter what.<!--いつでも仲良しがいいでござる--></div>
+                                            <div class="unbloomed"><!--TBA--></div>
+                                            <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">[Meteors and What I Can Do] Shinobu Sengoku</div>
-                                    <div class="card__jp">[流星とできること] 仙石 忍</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Stella with a Heart Full of Feelings] Shinobu Sengoku</div>
+                                    <div class="card__jp">[想う心のステラ] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Alleviating Comet<!--緩衝コメット--></div>
+                                                <div class="name">Horizon that One Feels<!--感じる水平線--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Wishing for the Five of Them<!--五人に望むこと--></div>
+                                                <div class="name">Reverberation of the Scenery<!--景色の残響--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">The Narrator<!--ナレーション役--></div>
+                                                <div class="name">Schedule Organizer<!--予定の調整役--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -453,60 +461,23 @@ permalink: comet_show/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue" id="">Prologue</a>
+                            <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <span>Plans for the End</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663184107699863552/plans-for-the-end-chapter-1" id="">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185039143600128/plans-for-the-end-chapter-2" id="">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663185928811151360/plans-for-the-end-chapter-3" id="">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663186562975203328/plans-for-the-end-chapter-4" id="">4</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663194572342624256/plans-for-the-end-chapter-5" id="">5</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663195397702942720/plans-for-the-end-chapter-6" id="">6</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663196016849338368/plans-for-the-end-chapter-7" id="">7</a>
+                            <a href="TBA" id="">TBA</a>
                         </li>
                         <li>
-                            <span>Week-end at the Aquarium</span>
-                            <a href="https://moricchiichan.tumblr.com/post/663197640818933760/week-end-at-the-aquarium-chapter-1" id="">1</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198051895279616/week-end-at-the-aquarium-chapter-2" id="">2</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663198589672112128/week-end-at-the-aquarium-chapter-3" id="">3</a>
-                            <a href="https://moricchiichan.tumblr.com/post/663199290261438464/week-end-at-the-aquarium-chapter-4" id="">4</a>
-                            <a href="/comet_show/second_half#Chapter-5" id="">5</a>
-                            <a href="/comet_show/second_half#Chapter-6" id="">6</a>
-                            <a href="/comet_show/second_half#Chapter-7" id="">7</a>
-                            <a href="/comet_show/second_half#Chapter-8" id="">8</a>
-                            <a href="/comet_show/second_half#Chapter-9" id="">9</a>
-                        </li>
-                        <li>
-                            <a href="/comet_show/epilogue" id="">Epilogue</a>
+                            <a href="epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
                 <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/chiaki_1" id="">x</a>
-                            <a href="minitalk/chiaki_2" id="">x</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
-                        <div class="mt-header">Midori Takamine</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--<div class="mini-talk">
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="">x</a>
-                            <a href="NOTRANSLATION" id="">x</a>
+                        <div class="item">
+                            <a href="minitalk/kanata_1" id="">Part One</a>
+                            <a href="minitalk/kanata_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -514,8 +485,26 @@ permalink: comet_show/
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="">x</a>
-                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="minitalk/tetora_1" id="">Part One</a>
+                            <a href="minitalk/tetora_2" id="">Part Two</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Chiaki Morisawa</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Midori Takamine</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/midori_1" id="">Part One</a>
+                            <a href="minitalk/midori_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -523,11 +512,11 @@ permalink: comet_show/
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="NOTRANSLATION" id="">x</a>
-                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="minitalk/shinobu_1" id="">Part One</a>
+                            <a href="minitalk/shinobu_2" id="">Part Two</a>
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                 </div>
             </div>
         </div>
@@ -540,24 +529,120 @@ permalink: comet_show/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
-                alt="Worrisome Days"
+                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
+                alt="lovely present"
             />
         </div>
-        <a href="/comet_show/minitalk/midori_1" class="storyName" target="_blank">
-            <span>1: Worrisome Days</span>
+        <a href="/stella_maris/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: lovely present</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
-                alt="Topics About That Guy"
+                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                alt="secrets to [leadership]"
             />
         </div>
-        <a href="/comet_show/minitalk/midori_2" class="storyName" target="_blank">
-            <span>2: Topics About That Guy</span>
+        <a href="/stella_maris/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: secrets to [leadership]</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
+                alt="Buying Ingredients for a Big Meal"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Buying Ingredients for a Big Meal</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
+                alt="Preparing in Advance for a Job"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: Preparing in Advance for a Job</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
+                alt="Torn Tracksuit"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Torn Tracksuit</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
+                alt="Returning From Work"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Returning From Work</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
+                alt="Encounter at the Cafeteria"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Encounter at the Cafeteria</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
+                alt="Sudden Departure"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Sudden Departure</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
+                alt="An Energizing Time"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: An Energizing Time</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
+                alt="Okinawa Souvenir"
+            />
+        </div>
+        <a href="/stella_maris/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Okinawa Souvenir</span>
             <span class="read"></span>
         </a>
     </div>

@@ -107,7 +107,7 @@ H-Hello… I’m Ayase Mayoi, a participant of ‘THUNDERBOLT CHALLENGE 4piece�
 {% bubble Ritsu smilesoft %}
 I’m Sakuma Ritsu, a participant just like him~ Fufu, we got placed in Gourmet District, the second venue of 4piece.
 
-This audition is an individual contest, actually~ Apparently, you can be part of the ‘Dream Unit’ if you get selected.
+This audition is an individual competition, actually~ Apparently, you can be part of the ‘Dream Unit’ if you get selected.
 {% endbubble %}
 
 {% bubble Mayoi curious %}

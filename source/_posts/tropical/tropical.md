@@ -188,7 +188,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Associated Song
                             </div>
                           <div class="value">
-                            <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM">RELAX PARADISE</a> — <a href="/RELAX_PARADISE">(Song Lyrics)</a>
+                            <a href="https://www.youtube.com/watch?v=nwJ7qtWlNgM">RELAX PARADISE</a> — <a href="/RELAX_PARADISE">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">

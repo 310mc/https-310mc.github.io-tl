@@ -189,7 +189,7 @@ I’ll totally make it the best bakery on the planet! One that’s completely ma
 {% endbubble %}
 
 {% bubble Chiaki surprised %}
-There was someone even wilder than Ayase…!?
+There was someone even crazier than Ayase…!?
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
@@ -285,7 +285,7 @@ Umm… If I may ask, is it wrong to get along? That’s how I heard it, but…
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-Nope, not one bit! It’s true that 4piece is an individual contest, but there’s no way there’s anything wrong with helping one another, right?
+Nope, not one bit! It’s true that 4piece is an individual competition, but there’s no way there’s anything wrong with helping one another, right?
 
 That was likely Tomoe’s own way of giving a firm pep talk. Although, his wording was pretty harsh…
 
@@ -961,7 +961,7 @@ Yaaay! ♪ Food with Chiaki-oniisan~♪
 
 Ehihi. Just today alone, I encountered so many kind people.
 
-4piece is an individual contest, right? So even though I’m supposed to be everyone’s opponent… When I was in trouble, ya saved me without ever abandonin’ me.
+4piece is an individual competition, right? So even though I’m supposed to be everyone’s opponent… When I was in trouble, ya saved me without ever abandonin’ me.
 
 I’m so fortunate to have this! I’ll never, ever forget these kind favors from all of ya, Onii-sans…!
 {% endbubble %}
@@ -969,7 +969,7 @@ I’m so fortunate to have this! I’ll never, ever forget these kind favors fro
 {% bubble Chiaki %}
 I appreciate your feelings, Hojo-kun, but you don’t need to keep thanking us, y’know?
 
-While it’s true that the audition is an individual contest, don’t you know we’re all one and same here, as companions from ES? ☆
+While it’s true that the audition is an individual competition, don’t you know we’re all one and same here, as companions from ES? ☆
 {% endbubble %}
 
 {% bubble Mitsuru %}
