@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: Preparing in Advance for a Job"
-date: 2024/1/16 9:07:00
+title: "WILDLAND – Tetora Mini Talk: In Order To Represent Myself"
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Tetora's second Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Tetora’s second Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+					<a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,44 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
 
-{% bubble Tetora frown %}
-Uumyu… There's still so much I dunno…
+{% bubble Tetora norsmile3 %}
+Oh! Anzu. What’s up, do you have something to do at the agency?
 
-Ah— Did I say that out loud!? I'm real sorry if I'm disturbing your break.
+—It’s with me? Wait, what you’re holding…
+{% endbubble %}
 
-Huh? You'll hear me out? You're really kind, Anzu-Anego.
+{% bubble Tetora smilesoft %}
+Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'm a producer, after all.
+            Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Still, that doesn't automatically mean it's a natural part of the job.
+            {% bubble Tetora smile %}
+            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
-            There's no other producer out there who treats us this kindly than you, Anego. I'm always grateful to you~♪
+            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+
+            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You can speak to me about anything.
+            Waiting…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Ahaha, you're always so reliable. I really respect that 'bout you.
+            {% bubble Tetora smileconfident %}
+            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
 
-            Hm… Aight, I'd like it if you could hear me out a li'l.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Are you tired?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Nah, not at all! As you can see, I'm filled to the brim with energy!
+            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
 
-            I'm feelin' pretty good lately, maybe 'cuz of this new exercise I added to my training regime recently. Muscles really are important to take care of…♪
+            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,52 +96,45 @@ Huh? You'll hear me out? You're really kind, Anzu-Anego.
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
 
-{% bubble Tetora v2 %}
-Truth is, I have to do a job related to a fish commercial.
-
-I thought to study up some more about fish, so I read a reference book I borrowed from Shinkai-senpai.
+{% bubble Tetora srsthinking %}
+Mm~… What’s this “my hashtag” part?
 {% endbubble %}
 
-{% bubble Tetora sightired %}
-But there's just so many types of fish that I don't feel like I'll be able to learn any of 'em…
+{% bubble Tetora curious %}
+…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
+
+A hashtag that expresses who I am… What do you think that would be, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You'll have to go slowly, huh?
+            That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            True, studying and training aren't something you can manage through in one night.
+            {% bubble Tetora northinking %}
+            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% endbubble %}
+            {% bubble Tetora smile %}
+            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
 
-            I dunno if this'll come in handy, but… I'll keep looking through the book 'til the day our job starts!
+            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            How about someone teaches you?
+            This is quite difficult, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora awkward0 %}
-            At first, I thought to ask Shinkai-senpai teach me, but while there are times his explanations are easy to understand, there are also just as many where it's impossible to…
+            {% bubble Tetora smilesoft %}
+            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
 
-            So for now, I'll do my best on my own as much as I can. If I really can't manage it, I'll ask him.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            What about going to the aquarium?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Oh yeah, maybe it'll be easier to remember if I were to see them in real life.
+            I’ll ask the other participants what they wrote for theirs later.
 
-            I think I'll try and find the time to go to one! I'm so glad I asked you for advice, Anego~♪
+            Who knows, I might be able to use it as reference!
 			{% endbubble %}
         </div>
     </div>
@@ -155,53 +142,63 @@ But there's just so many types of fish that I don't feel like I'll be able to le
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
 
-{% bubble Tetora v2 %}
-I've got no choice but to go step by step, and start from whatever I'm capable of. I'll also ask Shinobu-kun and Midori-kun for their advice.
+{% bubble Tetora smileconfident %}
+…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
-But huh, after using my head, I'm getting the urge to move my body…
+Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
 
-I wonder if the training room's free right now? If it is, I think I'll do some light training!
+But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          It was free.
+          Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Ah, you passed by that room?
+            {% bubble Tetora norsmile2 %}
+            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
-            Then I'll head over there now. Thank you for all your help, Anego!
+            I don’t know what awaits us over there, but…
+            {% endbubble %}
+            {% bubble Tetora fist %}
+            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll prepare a towel for you.
+            Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smilesoft %}
-            Huh? No, no, I'll prepare that myself. I can't keep takin' more of your time!
+            {% bubble Tetora smileexplain %}
+            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
-            But I appreciate the thought, Anego. You've given me the strength to work hard in my training~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I think that person was over there.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Taishou was there a moment ago!? Will I be able to see him if I run now…?
+            I’ll give the rest of the questions a proper thought until the deadline.
 
-            Thank you so much for letting me know! I'll head off, then!
+            I assure you I won’t forget to submit it, so you can rest at ease there~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/tetora_1,, arrow-left, Tetora Mini Talk: Buying Ingredients for a Big Meal %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wildland/minitalk/tetora_1" title="Tetora Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Chiaki Mini Talk: Returning From Work"
-date: 2024/1/16 9:05:00
+title: "WILDLAND – Chiaki Mini Talk: In Order To Represent Myself"
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki's second Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Chiaki’s second Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,44 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
 
-{% bubble Chiaki %}
-I feel like it's been a while since you and I ate together in the cafeteria!
+{% bubble Chiaki norsmile3 %}
+Oh! Anzu. What’s up, do you have something to do at the agency?
 
-Ahh, that's true, we haven't been seeing each other as of late…
+—It’s with me? Wait, what you’re holding…
+{% endbubble %}
 
-Us Ryuseitai had been practicing for a commercial, and had even gone to Okinawa.
+{% bubble Chiaki smilesoft %}
+Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            How was it?
+            Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin %}
-            I don't think I'll have enough time to mention everything that had happened in Okinawa, but…
+            {% bubble Chiaki smile %}
+            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
-            It made me happy that I could accomplish what Kanata wanted to do. I've had my fair share of struggles in Okinawa before, but this time around, I made a lot of lovely memories!
+            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+
+            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Did you have fun?
+            Waiting…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            Yeah. I believe it was a great experience for us in Ryuseitai.
+            {% bubble Chiaki smileconfident %}
+            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
 
-            I'll tell you all about it at a later date, alongside a report of our job. I'd like you to watch our footage, too.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Oh yeah…
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Yep, exactly. The commander of Ryuseitai this time was Kanata. He's the one who got a job for us at Okinawa.
+            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
 
-            To be honest, I wasn't sure how it would turn out at first… But Kanata did his job properly as the leader!
+            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,52 +96,45 @@ Us Ryuseitai had been practicing for a commercial, and had even gone to Okinawa.
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
 
-{% bubble Chiaki northinking %}
-Okinawa was pretty hot even in this period of time. I got a sunburn from it.
+{% bubble Chiaki srsthinking %}
+Mm~… What’s this “my hashtag” part?
 {% endbubble %}
 
-{% bubble Chiaki awkward %}
-It's still spring, so I got careless and forgot to bring sunscreen with me…
+{% bubble Chiaki curious %}
+…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
 
-My arms and face sting a little.
+A hashtag that expresses who I am… What do you think that would be, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please cool your skin properly.
+            That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Hm, hm. When you're sunburnt, it's as if you've got a light burn, so cooling the skin helps…?
+            {% bubble Chiaki northinking %}
+            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% endbubble %}
+            {% bubble Chiaki smile %}
+            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
 
-            Alright. When I get back to the dorms, I'll cool my skin with a cold wet towel!
+            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            How about cucumbers…?
+            This is quite difficult, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Oh yeah, I heard sliced cucumbers are good for the skin when you're sunburnt… But does it actually work?
+            {% bubble Chiaki smilesoft %}
+            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
 
-            Well, I won't know unless I try. I'll give it a shot.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            You shouldn't let your guard down like that.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki sighdrop %}
-            Mm. Sena scolded me yesterday, too… He told me that sunscreen should be applied throughout the whole year, not just summer.
+            I’ll ask the other participants what they wrote for theirs later.
 
-            Sena gave me sunscreen he always recommends to use, so I'm planning to apply it every day from now on.
+            Who knows, I might be able to use it as reference!
 			{% endbubble %}
         </div>
     </div>
@@ -155,53 +142,63 @@ My arms and face sting a little.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
 
-{% bubble Chiaki %}
-Oh yeah, I bought some souvenirs. At first, I had told my unitmates that we aren't here for a fun sightseeing trip, but everyone looked like they wanted to buy something in the end.
+{% bubble Chiaki smileconfident %}
+…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
-So to advertise the souvenir ships in the market street, we bought all kinds of Okinawa souvenirs. I got something for you, too~♪
+Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
 
-I left them all in the agency office, so could I give it to you at a later time?
+But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Thank you very much!
+          Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            Heheh, you don't even know what the souvenir yet, yet you're this happy?
+            {% bubble Chiaki norsmile2 %}
+            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
-            Ah, don't worry, I didn't buy anything strange. I'm sure you'll love it! ☆
+            I don’t know what awaits us over there, but…
+            {% endbubble %}
+            {% bubble Chiaki fist %}
+            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll go there for it.
+            Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            But don't you have work after this? In that case, let me be the one to pass it to you.
+            {% bubble Chiaki smileexplain %}
+            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
-            I'm only going to go home after this, so don't worry, there's no need to hold back!
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            What kind of souvenir?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            It's a small Shisa ornament! Apparently, it's good fortune to place it in your home as a guardian deity.
+            I’ll give the rest of the questions a proper thought until the deadline.
 
-            By the way, I bought myself one, too. I placed it right next to my hero toy figures in my dorm room~♪
+            I assure you I won’t forget to submit it, so you can rest at ease there~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/chiaki_1,, arrow-left, Chiaki Mini Talk: Torn Tracksuit %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wildland/minitalk/chiaki_1" title="Chiaki Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

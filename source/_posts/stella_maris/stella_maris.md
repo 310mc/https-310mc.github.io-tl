@@ -346,7 +346,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Intimidating Person<!--迫力の待ち人--></div>
+                                                <div class="name">Waiting for an Intimidating Person<!--迫力の待ち人--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

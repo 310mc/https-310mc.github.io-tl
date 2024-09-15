@@ -1,5 +1,5 @@
 ---
-title: "TBA – Epilogue"
+title: "WILDLAND – Epilogue"
 date: 2024-1-15 9:05:00
 categories:
 - [Enstars, Midori]
@@ -20,11 +20,11 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -75,13 +75,13 @@ hidden: true
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/stella_maris/birthplace_of_stars_p2" title="Previous Chapter: birthplace of stars (Chapter 7–15)"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/birthplace_of_stars_p2" title="Previous Chapter: birthplace of stars (Chapter 7–15)"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

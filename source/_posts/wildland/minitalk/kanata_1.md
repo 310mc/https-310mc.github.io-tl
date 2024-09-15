@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Kanata Mini Talk: lovely present"
-date: 2024/1/16 9:08:00
+title: "WILDLAND – Kanata Mini Talk: Undecided Menu"
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's first Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Kanata’s first Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Kanata" character="Kanata"></a>
+					<a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,42 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
 
-{% bubble Kanata v2 %}
-anzu-san, what perfect timing~♪ do you have some [time] right now?
+{% bubble Kanata grin2 %}
+Heeey, Anzu! Are you going to have lunch now?
 
-you see, i have a [gift] for you.
+If you’re alright with it, how about you share a table with me! ☆
 
-here you go~♪ it is a [pearl accessory]…♪
+You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Are you sure I can have this…?
+            Is it really okay?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            yes. i do not have any [use] for it personally, so i would love you to take it~♪
+            {% bubble Kanata smileconfident %}
+            Yeah. I was actually hoping I could get to have a chat with someone.
 
-            while they are [real pearls], it is not that [high-grade], so there is no need to hold back, okay?
+            You can consider being my conversation partner as payment. You’ve got some time now, right?
+
+            You’re free until the evening? Then let’s go search for a seat at once! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's so pretty.
+            I could never…!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            fufu~♪ it is not that big, but it is very shiny and pretty, isn't it?
+            {% bubble Kanata smilesoft %}
+            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
 
-            i knew you would understand the beauty of these [pearls], anzu-san~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Are they real pearls?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            yes. they are authentic [pearls], taken from [akoya pearl oysters].
+            I was hoping to repay you for that. So there’s no need to hold back!
 
-            you can find such beautiful [jewels] from [shellfish]\~ isn't the [ocean] so wonderful\~?
+            Fufu, then let’s sit here. Now we just need to order something!
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +94,45 @@ here you go~♪ it is a [pearl accessory]…♪
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
 
-{% bubble Kanata v2 %}
-the other day, i visited another [aquarium], as i thought it would be good to learn more about [rival] businesses.
+{% bubble Kanata srsthinking %}
+There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
 
-kaoru was with me, and that was when he and i tried out [fetching pearls] together, because he was interested to try.
+Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% endbubble %}
 
-the [accessory gift] i gave you is made with the [pearls] i retrieved then.
+{% bubble Kanata norsmile %}
+What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You can even make them into an accessory, huh?
+            It’s hard to decide, isn’t it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            yes. it would be a [waste] to simply keep the [pearls] after retrieving them~
+            {% bubble Kanata grin2 %}
+            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
-            it seems like you can make them into [key straps] too, not just [accessories]. while they may be a [rival] business, i do think they came up with a nice [idea]…♪
+            You still have time, so feel free to ponder however much you like…☆
+
+            While you decide, I’ll think about what I’ll have for dessert!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You were with Hakaze-senpai?
+            The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            yes. he looked to have the free time, so i took him along with me~♪
+            {% bubble Kanata smile %}
+            Ohh, how healthy! Maybe I’ll go with that, too.
 
-            oh yes, i think kaoru wanted to give what he made to [someone]. i wonder who he was planning to give it to?
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            It sounds difficult.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            not at all, it was pretty [simple]. you only need to open the [shells] with a [knife].
-
-            if you are ever interested, anzu-san, i will take you to the [aquarium]…♪
+            …Huh? There’s eggplants in it?
+            {% endbubble %}
+            {% bubble Kanata sighfrown %}
+            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
     </div>
@@ -153,55 +140,63 @@ the [accessory gift] i gave you is made with the [pearls] i retrieved then.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
 
-{% bubble Kanata v2 %}
-right, i was able to give you the gift, so i should go to where everyone is now.
+{% bubble Kanata grin %}
+—Thanks for the wonderful meal!
 
-ufufu, you see, i made [key straps] for everyone in [oceans] and [ryuseitai]~♪
-{% endbubble %}
+So after this, I’m thinking of having a dance practice session.
 
-{% bubble Kanata northinking %}
-the straps are all matching… i can only hope it makes them happy…?
+There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'm sure they will.
+            Sure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            fufu, anzu-san is kind, isn't she~? good girl, good girl…♪
+            {% bubble Kanata grin %}
+            Ooh, I appreciate it!
 
-            you made me happy, before i could make everyone else happy~
+            I’ve been challenging myself to do pretty advanced choreography lately.
+
+            I feel that with your advice, I’ll be able to improve and grow all the more…☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Are they all the same?
+            Please leave it to me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            you noticed, huh? the truth is, i had the [design] changed a bit for [ryuseitai] and [oceans].
+            {% bubble Kanata grin2 %}
+            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% endbubble %}
+            {% bubble Kanata smileexplain %}
+            Oh yeah, you’ve been working independently this year, right?
 
-            look, ryuseitai's straps have a [starry pattern], yes? well, the ones for oceans have a [fish pattern]…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            That's a lot of them.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            picking up [pearls] is so much fun, that i ended up retrieving a lot.
-
-            but because of that, i was able to make [straps] for everyone. i am so excited to give it to them~
+            If so, then how about us Ryuseitai also request work from you more and more…!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/kanata_2,, arrow-right, Kanata Mini Talk: secrets to [leadership] %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/minitalk/kanata_2" title="Kanata Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

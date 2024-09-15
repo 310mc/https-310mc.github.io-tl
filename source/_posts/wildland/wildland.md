@@ -1,25 +1,25 @@
 ---
-title: "[ES!!] TBA (In Progress!)"
-date: 2024-1-23 9:00:00
+title: "[ES!!] WILDLAND (In Progress!)"
+date: 2024-9-23 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Story Index
 - Event Story
-- Akira
+- Unspecified Writer
 description: "[ES!!] TBA"
 permalink: wildland/
 hidden: true
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('TBA')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_kFOH66e72235alc4.webp?timestamp=1726423613120')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="/stella_maris/prologue">Start Reading</a></div>
+                <div class="title-area__title">WILDLAND</div>
+                <div class="title-area__subtitle">Full Speed ◆ Chase Chesire in WILDLAND</div>
+                <div class="title-area__start"><a href="/wildland/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
@@ -31,7 +31,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            2nd year of ES's Establishment — Spring, Summer
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -55,11 +55,11 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -87,7 +87,7 @@ hidden: true
 <!-- more -->
 
 {% note narration %}
-This story is set after <b><a href="/supervillain" target="_blank">Supervillain</a></b>. By the end of that story, Ryuseitai decide to take turns being the leader. Some leader rotations are shown in <b><a href="/tropical" target="_blank">Tropical</a></b> (Midori as the leader), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (Kanata as the leader).
+By the end of <b><a href="/supervillain" target="_blank">Supervillain</a></b>, Ryuseitai decide to be reborn as a unit that takes turns being the leader depending on the job. Some leader rotations are: <b><a href="/tropical" target="_blank">Tropical</a></b> (Midori as the leader), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (Kanata as the leader).
 {% endnote %}
 
 {% note narration %}
@@ -109,14 +109,14 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/stellamaris/kanataorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_ebPcu66e72235qM5.webp?timestamp=1726423612123)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/stellamaris/kanatabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_kFOH66e72235alc4.webp?timestamp=1726423613120"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__title">WILDLAND</div>
+                <div class="title-area__subtitle">Full Speed ◆ Chase Chesire in WILDLAND</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -131,7 +131,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            2nd year of ES's Establishment — Spring, Summer
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -155,11 +155,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -167,7 +167,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                            <a href="/about">310mc</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -197,7 +197,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 Event
                             </div>
                             <div class="value">
-                                Driving At Full Speed ◆ Chase Chesire in WILDLAND<!--激走◆チェイス・チェシャ in WILDLAND-->
+                                Full Speed ◆ Chase Chesire in WILDLAND<!--激走◆チェイス・チェシャ in WILDLAND-->
                             </div>
                         </div>
                         <div class="tab-item">
@@ -218,7 +218,15 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="TBA">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ebPcu66e72235qM5.webp?timestamp=1726423612123">
+                                </div>
+                                <div class="caption">
+                                    Prologue
+                                </div>
+                            </div>
+                            <div class="gallery-item">
+                                <div class="image">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JjyLF66e722352s5.webp?timestamp=1726423612363">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -226,7 +234,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="TBA">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_K32Wm66e72235Rf5.webp?timestamp=1726423611821">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -234,7 +242,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="TBA">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_16m66e72235E3tz3.webp?timestamp=1726423613306">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -242,7 +250,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="TBA">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vaRAJb66e72235r6.webp?timestamp=1726423612562">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -250,15 +258,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="TBA">
-                                </div>
-                                <div class="caption">
-                                    TBA
-                                </div>
-                            </div>
-                            <div class="gallery-item">
-                                <div class="image">
-                                    <img src="TBA">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_66e722355LL811G0.webp?timestamp=1726423613007">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -276,10 +276,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_oE66e72235BsrSb2.webp?timestamp=1726423611216">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kFOH66e72235alc4.webp?timestamp=1726423613120">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -289,20 +289,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[dream-granting stella] Kanata Shinkai</div>
-                                    <div class="card__jp">[かなうゆめのすてら] 深海 奏汰</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[Wild Brave] Tetora Nagumo</div>
+                                    <div class="card__jp">[ワイルド・ブレイブ] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">guiding horizon<!--みちびくすいへいせん--></div>
+                                                <div class="name">Full Speed Passion<!--激走パッション--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">reverberation of the sea<!--うみのざんきょう--></div>
+                                                <div class="name">Chase Wish<!--チェイスウィッシュ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">precious things<!--だいじなもの--></div>
+                                                <div class="name">The Man Within The Wild Land<!--荒野のなかの男--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -312,10 +312,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ur7dv66e72235AS5.webp?timestamp=1726423610977">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_4Z66e72235QXemr2.webp?timestamp=1726423611373">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -325,20 +325,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella that Sings in the Night] Tetora Nagumo</div>
-                                    <div class="card__jp">[歌う夜のステラ] 南雲 鉄虎</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Wild Road] Shinobu Sengoku</div>
+                                    <div class="card__jp">[ワイルド・ロード] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">The Horizon that Widens Ahead<!--先広がる水平線--></div>
+                                                <div class="name">Full Speed Cheers<!--激走チアーズ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Reverberation of Memories<!--記憶の残響--></div>
+                                                <div class="name">Chase Dream<!--チェイスドリーム--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Intimidating Person<!--迫力の待ち人--></div>
+                                                <div class="name">Supporting Fist<!--支える拳--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -348,10 +348,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_YtlqfC66e72235M6.webp?timestamp=1726423611093">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Bs14466e72235WH5.webp?timestamp=1726423611695">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -361,20 +361,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐<br>[Stella of the Wishing Sea] Chiaki Morisawa</div>
-                                    <div class="card__jp">[願う海のステラ] 守沢 千秋</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[wild coach] Kanata Shinkai</div>
+                                    <div class="card__jp">[わいるど・こーち] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Gazing Horizon<!--見つめる水平線--></div>
+                                                <div class="name">full speed approach<!--げきそうあぷろーち--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Reverberation of Justice<!--正義の残響--></div>
+                                                <div class="name">chase happiness<!--ちぇいすはぴねす--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Secret Meeting at the Beach<!--海辺の密会--></div>
+                                                <div class="name">burning fish<!--もえるさかな--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -384,10 +384,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_66e72235jo3JaKz0.webp?timestamp=1726423611341">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_go0HMa66e72235r6.webp?timestamp=1726423611209">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -397,20 +397,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐<br>[Stella that Follows the Island] Midori Takamine</div>
-                                    <div class="card__jp">[伝う島のステラ] 高峯 翠</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Wild Move] Midori Takamine</div>
+                                    <div class="card__jp">[ワイルド・ムーブ] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Facing the Horizon<!--向かう水平線--></div>
+                                                <div class="name">Going at Full Speed<!--激走ゴーイング--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Reverberation of the World<!--世界の残響--></div>
+                                                <div class="name">Chase Reason<!--チェイスリーズン--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Reality of Society<!--世間の現実--></div>
+                                                <div class="name">Dangerous Situation<!--危険な状況--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -420,10 +420,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_XalO5av66e722357.webp?timestamp=1726423611236">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="TBA">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_0xa66e72235PTgw3.webp?timestamp=1726423611357">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -433,20 +433,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐<br>[Stella with a Heart Full of Feelings] Shinobu Sengoku</div>
-                                    <div class="card__jp">[想う心のステラ] 仙石 忍</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Wild Drive] Chiaki Morisawa</div>
+                                    <div class="card__jp">[ワイルド・ドライブ] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name">Horizon that One Feels<!--感じる水平線--></div>
+                                                <div class="name">Driving at Full Speed Technique<!--激走テクニック--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name">Reverberation of the Scenery<!--景色の残響--></div>
+                                                <div class="name">Chase Impulse<!--チェイスインパルス--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name">Schedule Organizer<!--予定の調整役--></div>
+                                                <div class="name">Meeting the Hero<!--見参ヒーロー--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -473,29 +473,29 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                 </div>
                 <div class="mini-talks">
                     <div class="mini-talk">
-                        <div class="mt-header">Kanata Shinkai</div>
-                        <div class="mt-content">
-                        <div class="item">
-                            <a href="minitalk/kanata_1" id="">Part One</a>
-                            <a href="minitalk/kanata_2" id="">Part Two</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="mini-talk">
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
-                            <div class="item">
+                        <div class="item">
                             <a href="minitalk/tetora_1" id="">Part One</a>
                             <a href="minitalk/tetora_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Chiaki Morisawa</div>
+                        <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part One</a>
+                            <a href="minitalk/shinobu_2" id="">Part Two</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mini-talk">
+                        <div class="mt-header">Kanata Shinkai</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="minitalk/kanata_1" id="">Part One</a>
+                            <a href="minitalk/kanata_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -509,11 +509,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         </div>
                     </div>
                     <div class="mini-talk">
-                        <div class="mt-header">Shinobu Sengoku</div>
+                        <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="">Part One</a>
-                            <a href="minitalk/shinobu_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part One</a>
+                            <a href="minitalk/chiaki_2" id="">Part Two</a>
                             </div>
                         </div>
                     </div>
@@ -529,120 +529,120 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
-                alt="lovely present"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_oE66e72235BsrSb2.webp?timestamp=1726423611216"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/kanata_1" class="storyName" target="_blank">
-            <span>1: lovely present</span>
+        <a href="/wildland/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
-                alt="secrets to [leadership]"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/kanata_2" class="storyName" target="_blank">
-            <span>2: secrets to [leadership]</span>
+        <a href="/wildland/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
-                alt="Buying Ingredients for a Big Meal"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ur7dv66e72235AS5.webp?timestamp=1726423610977"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/tetora_1" class="storyName" target="_blank">
-            <span>1: Buying Ingredients for a Big Meal</span>
+        <a href="/wildland/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
-                alt="Preparing in Advance for a Job"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_4Z66e72235QXemr2.webp?timestamp=1726423611373"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/tetora_2" class="storyName" target="_blank">
-            <span>2: Preparing in Advance for a Job</span>
+        <a href="/wildland/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
-                alt="Torn Tracksuit"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_YtlqfC66e72235M6.webp?timestamp=1726423611093"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/chiaki_1" class="storyName" target="_blank">
-            <span>1: Torn Tracksuit</span>
+        <a href="/wildland/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
-                alt="Returning From Work"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Bs14466e72235WH5.webp?timestamp=1726423611695"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: Returning From Work</span>
+        <a href="/wildland/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
-                alt="Encounter at the Cafeteria"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_66e72235jo3JaKz0.webp?timestamp=1726423611341"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/midori_1" class="storyName" target="_blank">
-            <span>1: Encounter at the Cafeteria</span>
+        <a href="/wildland/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
-                alt="Sudden Departure"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_go0HMa66e72235r6.webp?timestamp=1726423611209"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/midori_2" class="storyName" target="_blank">
-            <span>2: Sudden Departure</span>
+        <a href="/wildland/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
-                alt="An Energizing Time"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_XalO5av66e722357.webp?timestamp=1726423611236"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/shinobu_1" class="storyName" target="_blank">
-            <span>1: An Energizing Time</span>
+        <a href="/wildland/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: TBA</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
-                alt="Okinawa Souvenir"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_0xa66e72235PTgw3.webp?timestamp=1726423611357"
+                alt="TBA"
             />
         </div>
-        <a href="/stella_maris/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: Okinawa Souvenir</span>
+        <a href="/wildland/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: TBA</span>
             <span class="read"></span>
         </a>
     </div>

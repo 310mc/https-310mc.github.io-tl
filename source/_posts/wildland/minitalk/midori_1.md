@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Midori Mini Talk: Encounter at the Cafeteria"
-date: 2024/1/16 9:02:00
+title: "WILDLAND – Midori Mini Talk: Undecided Menu"
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
-description: "[ES!!] Midori's first Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Midori’s first Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+					<a href="/categories/Enstars/Midori" character="Midori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,42 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
 
-{% bubble Midori norsmile %}
-Ah, Anzu-san. Are you going to have lunch now?
+{% bubble Midori grin2 %}
+Heeey, Anzu! Are you going to have lunch now?
 
-I just arrived, too… I was just wondering what to eat, so I've been looking at the menu board.
+If you’re alright with it, how about you share a table with me! ☆
 
-Anzu-san, have you already decided?
+You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            One of the daily set meals, maybe.
+            Is it really okay?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Ahh, the set meal with lots of spring veggies, right? I was just thinking that one looks tasty.
+            {% bubble Midori smileconfident %}
+            Yeah. I was actually hoping I could get to have a chat with someone.
 
-            I think I'll have the same, then… It sounds like it'll be a healthy meal.
+            You can consider being my conversation partner as payment. You’ve got some time now, right?
+
+            You’re free until the evening? Then let’s go search for a seat at once! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'll have what I always eat.
+            I could never…!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Ah, there's a meal you always have, huh? I get you. I tend to have the same food every time, too…
+            {% bubble Midori smilesoft %}
+            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
 
-            It's much more comforting to just eat the meal you know is tasty, instead of a new one you've never tried yet.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I haven't yet.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori sigh %}
-            Me too. I tend to decide something while lining up in the queue, but…
+            I was hoping to repay you for that. So there’s no need to hold back!
 
-            In the end, I don't choose anything in time, then go into a panic and choose something I don't actually like much… I'm betting the same will happen today.
+            Fufu, then let’s sit here. Now we just need to order something!
 			{% endbubble %}
         </div>
     </div>
@@ -102,51 +94,45 @@ Anzu-san, have you already decided?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
 
-{% bubble Midori sighdrop %}
-Woah— I'm so sorry! A huge queue came up while we were chatting…!
+{% bubble Midori srsthinking %}
+There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
 
-*Sigh…* We should have lined up before talking, right… I wasted your time…
+Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% endbubble %}
 
-I'm so sorry for taking away your precious lunchbreak like this.
+{% bubble Midori norsmile %}
+What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's not a big deal.
+            It’s hard to decide, isn’t it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori v3 %}
-            Really? You seem so busy lately, so I thought I did something bad…
+            {% bubble Midori grin2 %}
+            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
-            I know this is odd coming from me, but please make sure to rest whenever you can. Your health is important…
+            You still have time, so feel free to ponder however much you like…☆
+
+            While you decide, I’ll think about what I’ll have for dessert!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            We should be able to talk more.
+            The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori awkward %}
-            Uwaah, you're *way* too kind… You're trying to be considerate so that I don't get depressed, right…?
+            {% bubble Midori smile %}
+            Ohh, how healthy! Maybe I’ll go with that, too.
+
+            …Huh? There’s eggplants in it?
             {% endbubble %}
-            {% bubble Midori norsmile %}
-            Thank you. I don't really have anything interesting to say, but if you're alright with talking to me, I'd be glad to have a chat.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Don't be so down about it.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori awkward %}
-            I'm sorry for worrying you… Ah, all I've been doing is apologizing.
-
-            I seriously need to fix this negative side of me… I went up a school year by now, so I gotta get myself together…
+            {% bubble Midori sighfrown %}
+            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
     </div>
@@ -154,53 +140,63 @@ I'm so sorry for taking away your precious lunchbreak like this.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
 
-{% bubble Midori norsmile %}
-We finally have our food. Alright, I'll go eat over on that seat.
+{% bubble Midori grin %}
+—Thanks for the wonderful meal!
 
-…Huh? Am I keeping someone waiting? No, I was just planning to eat on my own…
+So after this, I’m thinking of having a dance practice session.
 
-You'd like to eat together? I'm fine with it, but are you sure…?
+There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          It'd be a nice opportunity to do so.
+            Sure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            I see… True, I do feel like I haven't been able to talk to you much lately, Anzu-san.
+            {% bubble Midori grin %}
+            Ooh, I appreciate it!
 
-            It's nice talking to you, so I'll be taking you up on that offer.
+            I’ve been challenging myself to do pretty advanced choreography lately.
+
+            I feel that with your advice, I’ll be able to improve and grow all the more…☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            There's some things I'd like to talk to you about, so…
+            Please leave it to me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Ahh, is there something you wanna speak to me about? Okay, I'd love to help.
+            {% bubble Midori grin2 %}
+            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% endbubble %}
+            {% bubble Midori smileexplain %}
+            Oh yeah, you’ve been working independently this year, right?
 
-            You're always helping me after all, Anzu-san. I don't know if I can be much help, but I'd like to repay the favor.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Would you prefer being alone…?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori worried0 %}
-            Ahh, no, no! It's not that I don't want to be with you…!
-
-            If anything, I'm happy you invited me of all people to eat together. If it's not a bother, I'd like to eat with you.
+            If so, then how about us Ryuseitai also request work from you more and more…!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/midori_2,, arrow-right, Midori Mini Talk: Sudden Departure %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/minitalk/midori_2" title="Midori Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Midori Mini Talk: Sudden Departure"
-date: 2024/1/16 9:03:00
+title: "WILDLAND – Midori Mini Talk: In Order To Represent Myself"
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
-description: "[ES!!] Midori's second Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Midori’s second Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+					<a href="/categories/Enstars/Midori" character="Midori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,44 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
 
-{% bubble Midori sightired %}
-Ah, Anzu-san. The truth is, I'm going to Okinawa with everyone in Ryuseitai tomorrow.
+{% bubble Midori norsmile3 %}
+Oh! Anzu. What’s up, do you have something to do at the agency?
 
-Shinkai-senpai suddenly mentioned it… It was such a surprise.
+—It’s with me? Wait, what you’re holding…
+{% endbubble %}
 
-I don't hate going out on trips, but I'm a little anxious about a bunch of things…
+{% bubble Midori smilesoft %}
+Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            You'll have to hurry and pack now, huh?
+            Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Yeah. I'm planning to take a lot of change of clothes, and a bunch of other stuff.
+            {% bubble Midori smile %}
+            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
-            But well, I'll be with everyone in Ryuseitai. Even if a problem happens, I think it'll work out just fine.
+            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+
+            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I understand.
+            Waiting…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smilesoft %}
-            Huh, even you get anxious, Anzu-san…?
+            {% bubble Midori smileconfident %}
+            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
 
-            I'm happy you sympathize with me. I feel a little less anxious now…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Good luck.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori sigh %}
-            Yes… I was filled with worry in practice today, not knowing how it'll end up…
+            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
 
-            I'm a little more anxious than the time I was the commander. But well, this is Shinkai-senpai we're talking about, so it should end up alright by the end…
+            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +96,45 @@ I don't hate going out on trips, but I'm a little anxious about a bunch of thing
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
 
-{% bubble Midori norsmile %}
-Oh yeah. Since I'm going to Okinawa and all, is there any souvenir you'd like?
+{% bubble Midori srsthinking %}
+Mm~… What’s this “my hashtag” part?
+{% endbubble %}
 
-I'm going to buy a lot of the region's yuruchara merchandise, so I can split the share with you too, Anzu-san~♪
+{% bubble Midori curious %}
+…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
 
-If there's anything else you'd like, please let me know. Ahh, but I can't really buy anything too expensive…
+A hashtag that expresses who I am… What do you think that would be, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Their usual sweets.
+            That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Sweets… Sata andagi is famous over there, aren't they? Alright, I'll buy that for you.
+            {% bubble Midori northinking %}
+            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% endbubble %}
+            {% bubble Midori smile %}
+            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
 
-            I think there's a lot of flavors for it, so please let me know if there's any specific flavor you prefer.
+            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Something that can last.
+            This is quite difficult, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori curious %}
-            Ahh, something like a key holder would be nice, then? But I'm not sure if I can buy one that you'll like…
+            {% bubble Midori smilesoft %}
+            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
 
-            If it's alright, could I send you photos of some options? I'd like to know your thoughts on what to get you.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Tell me about the trip later.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Huh? Are you sure you don't want some kind of actual souvenir? Well, if you're fine with that…
+            I’ll ask the other participants what they wrote for theirs later.
 
-            Alright, I'll be sure to make a lot of fun memories then.
+            Who knows, I might be able to use it as reference!
 			{% endbubble %}
         </div>
     </div>
@@ -153,53 +142,63 @@ If there's anything else you'd like, please let me know. Ahh, but I can't really
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
 
-{% bubble Midori norsmile %}
-Whew… Talking to you has made me feel excited for my trip to Okinawa~♪
+{% bubble Midori smileconfident %}
+…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
-I wonder if it's because you look so happy while listening to me…?
+Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
 
-I'll be far from ES, so I don't think we'll be able to see each other for a while… But I'll do my best with everyone and come back.
+But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Take care.
+          Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Yes, of course. You too, Anzu-san, please take care of your health.
+            {% bubble Midori norsmile2 %}
+            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
-            I'm sure we'll both have it rough with our work for a while, but I'm looking forward to the next time we can meet without any worries…♪
+            I don’t know what awaits us over there, but…
+            {% endbubble %}
+            {% bubble Midori fist %}
+            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'm cheering for you.
+            Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smileconfident %}
-            Thank you. Please pray that our job goes well, it'd make me happy.
+            {% bubble Midori smileexplain %}
+            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
-            Knowing your cheering for us will make my depressing mood go away, too.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Contact me anytime.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Midori norsmile %}
-            Are you sure? I'll contact you straightaway if I'm ever in trouble.
+            I’ll give the rest of the questions a proper thought until the deadline.
 
-            Okay then, I'll message you on HoldHands if anything happens. I'll head off now.
+            I assure you I won’t forget to submit it, so you can rest at ease there~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/midori_1,, arrow-left, Midori Mini Talk: Encounter at the Cafeteria %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wildland/minitalk/midori_1" title="Midori Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

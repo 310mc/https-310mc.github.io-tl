@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Shinobu Mini Talk: Okinawa Souvenir"
-date: 2024/1/16 9:01:00
+title: "WILDLAND – Shinobu Mini Talk: In Order To Represent Myself"
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
-description: "[ES!!] Shinobu's second Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Shinobu’s second Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+					<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,53 +51,44 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
 
-{% bubble Shinobu smilesoft %}
-I'm so happy I could meet Anzu-dono as soon as I entered ES~♪
+{% bubble Shinobu norsmile3 %}
+Oh! Anzu. What’s up, do you have something to do at the agency?
 
-It really makes me feel like I've truly returned home~
+—It’s with me? Wait, what you’re holding…
 {% endbubble %}
 
-{% bubble Shinobu awkward %}
-You see, our work at Okinawa was pretty tough this time, so…
+{% bubble Shinobu smilesoft %}
+Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Welcome back.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu grin %}
-            I'm home, Anzu-dono!
-            {% endbubble %}
-            {% bubble Shinobu blushshy %}
-            …Ehehe, I feel a little embarrassed somehow.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I heard about it.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            Ahh, you heard all about it from Morisawa-dono?
-
-            But when we could have fun, it was truly fun. Our work was quite fulfilling, too.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Did you get to enjoy yourself after work?
+            Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smile %}
-            Indeed. We were able to take it easy this time, much more than the last time we were there.
+            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
-            We went to souvenir shops too, so I feel quite satisfied~♪
+            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+
+            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Waiting…?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Shinobu smileconfident %}
+            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+
+            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
+
+            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
 			{% endbubble %}
         </div>
     </div>
@@ -105,50 +96,45 @@ You see, our work at Okinawa was pretty tough this time, so…
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
 
-{% bubble Shinobu smile %}
-I bought souvenirs for all my friends, and Anzu-dono too.
+{% bubble Shinobu srsthinking %}
+Mm~… What’s this “my hashtag” part?
+{% endbubble %}
 
-I ended up buying quite a lot of things. Sweets, key holders, and other miscellaneous items…
+{% bubble Shinobu curious %}
+…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
 
-Ah— My gift to you is a beauty facemask. ♪
+A hashtag that expresses who I am… What do you think that would be, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Thank you.
+            That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu grin %}
-            Heheh. I'm sure you will be surprised to see what's inside. For you see, it's a facemask with a Shisa face printed on it!
+            {% bubble Shinobu northinking %}
+            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% endbubble %}
+            {% bubble Shinobu smile %}
+            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
 
-            Actually, everyone in Ryuseitai tried one, and it was quite interesting. So I decided to buy one for you, too~♪
+            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I didn't expect that…
+            This is quite difficult, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu norsmile %}
-            W-Was it a surprising choice coming from me…? I actually couldn't decide what would be good at first, and asked Isara-dono for help.
+            {% bubble Shinobu smilesoft %}
+            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
 
-            He told me that you'd likely enjoy facemasks or something soothing, so that's how I ended up with this gift.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I'll use it every day.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu nod %}
-            Fufu, it was worth the time and effort to find the right gift for you.
+            I’ll ask the other participants what they wrote for theirs later.
 
-            I'm sure your skin will look soft and smooth with this, Anzu-dono~♪
+            Who knows, I might be able to use it as reference!
 			{% endbubble %}
         </div>
     </div>
@@ -156,53 +142,63 @@ Ah— My gift to you is a beauty facemask. ♪
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
 
-{% bubble Shinobu smile %}
-I'm so glad you liked your souvenir, Anzu-dono…♪
+{% bubble Shinobu smileconfident %}
+…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
-Right then, I should go and hand over the other souvenirs to everyone else.
+Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
 
-That being said, where *should* I go next?
+But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          The dance room…
+          Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu norsmile %}
-            Yuuta-kun was there? Then I'll head over there.
+            {% bubble Shinobu norsmile2 %}
+            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
-            My souvenir for Yuuta-kun is actually something he requested me to buy… It is quite a large amount, so I'd like to give it to him as soon as possible.
+            I don’t know what awaits us over there, but…
+            {% endbubble %}
+            {% bubble Shinobu fist %}
+            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The training room…
+            Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu grin %}
-            Mikejima-dono was there!? This is perfect timing, then!
+            {% bubble Shinobu smileexplain %}
+            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
-            Mikejima-dono always gives me ninja merchandise, so I bought him plenty of souvenirs as repayment. Thank you for informing me~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Cafe COCHI…
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            Hm, hm. Everyone in ALKALOID had tea there…
+            I’ll give the rest of the questions a proper thought until the deadline.
 
-            I already passed over ALKALOID's gifts to Mayoi-dono. For some reason, he came to see me at the airport, so he was the first person I met once I returned here.
+            I assure you I won’t forget to submit it, so you can rest at ease there~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/shinobu_1,, arrow-left, Shinobu Mini Talk: An Energizing Time %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wildland/minitalk/shinobu_1" title="Shinobu Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

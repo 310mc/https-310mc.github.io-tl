@@ -1,5 +1,5 @@
 ---
-title: "TBA – Prologue"
+title: "WILDLAND – Prologue"
 date: 2024-1-15 9:00:00
 categories:
 - [Enstars, Midori]
@@ -20,11 +20,11 @@ hidden: true
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -84,8 +84,8 @@ hidden: true
                     <span class="material-icons-round" title="Text Size">format_size</span>
                 </a>
             </div>
-            <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/stella_maris/hidden_island" title="Next Chapter: hidden island"><i class="fa fa-arrow-right"></i></a>
+            <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/hidden_island" title="Next Chapter: hidden island"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

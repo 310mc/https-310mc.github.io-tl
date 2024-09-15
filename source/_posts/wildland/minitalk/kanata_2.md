@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Kanata Mini Talk: secrets to [leadership]"
-date: 2024/1/16 9:09:00
+title: "WILDLAND – Kanata Mini Talk: In Order To Represent Myself"
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
-description: "[ES!!] Kanata's second Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Kanata’s second Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Kanata" character="Kanata"></a>
+					<a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,44 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
 
-{% bubble Kanata v2 %}
-…oh? anzu-san, hello~
+{% bubble Kanata norsmile3 %}
+Oh! Anzu. What’s up, do you have something to do at the agency?
 
-i was just talking to rei a moment ago. i asked him about the [secrets] to [leadership]~♪
+—It’s with me? Wait, what you’re holding…
+{% endbubble %}
 
-i will be ryuseitai's [leader] next. so i am asking people with experience in [leadership] all sorts of things…♪
+{% bubble Kanata smilesoft %}
+Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It sounds like it'll come in handy.
+            Huh? You knew about it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            fufu. but the conversation [derailed] at one point, and we just started [chatting]~
+            {% bubble Kanata smile %}
+            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
 
-            at least now we have [properly] confirmed where we will go next for the [mystery researchers] circle. i am so excited for that day…♪
+            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
+
+            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It's a huge responsibility, isn't it?
+            Waiting…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            that may be true… but as long as i am alive, i cannot avoid [responsibilities].
+            {% bubble Kanata smileconfident %}
+            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
 
-            i will do my best to find out what i can do, and do it in my own way…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            What sort of secrets?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            what sort of mindset to have as a [leader], [how] to [guide] anyone who will not listen to you… all kinds of things.
+            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
 
-            but everyone in ryuseitai are good kids, so i do not think i will have an [opportunity] to make use of it. still, i do not [lose] out on keeping it in mind…♪
+            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,51 +96,45 @@ i will be ryuseitai's [leader] next. so i am asking people with experience in [l
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
 
-{% bubble Kanata v2 %}
-ehe. i feel as though i took [one step forward] as a [leader]…♪
+{% bubble Kanata srsthinking %}
+Mm~… What’s this “my hashtag” part?
+{% endbubble %}
 
-oh yes, speaking of. anzu-san is also like a [leader] for [idols], yes?
+{% bubble Kanata curious %}
+…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
 
-since we are talking, i would love to hear [advice] from you, if you have any~♪
+A hashtag that expresses who I am… What do you think that would be, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I make sure to listen to what their thoughts.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            i see. you [ensure] that you listen to what others have to [say], don't you?
-
-            chiaki is like that too, and i feel as though that sort of [leader] is very [trustworthy]. thank you for letting me know something so useful~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I make sure to keep my promises.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            that's true, it is nice when others keep a [promise], no matter how small.
-
-            i would like to be a [leader] who keeps [promises], too. no, i will work hard to become that…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I make sure to have confidence in my decisions.
+            That’s a sudden question…
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata northinking %}
-            nobody will want to follow a [leader] with no [confidence]? i see, that might be true.
+            Hm, I thought for sure you’d have a great idea in mind, though…
             {% endbubble %}
-            {% bubble Kanata smilesoft2 %}
-            but… if there is a time you do not have [confidence] in yourself, i will not abandon you, anzu-san. please loosen yourself up a little every once in a while~♪
+            {% bubble Kanata smile %}
+            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+
+            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            This is quite difficult, isn’t it?
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Kanata smilesoft %}
+            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+
+            I’ll ask the other participants what they wrote for theirs later.
+
+            Who knows, I might be able to use it as reference!
 			{% endbubble %}
         </div>
     </div>
@@ -154,53 +142,63 @@ since we are talking, i would love to hear [advice] from you, if you have any~�
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
 
-{% bubble Kanata v2 %}
-i think i pushed myself to the limits, so i am exhausted now… it is time i take a [break].
+{% bubble Kanata smileconfident %}
+…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
 
-anzu-san, you will go meet with shinobu and tetora for [something], yes?
+Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
 
-may i join you? i feel like if i were to see those [two], it would soothe me…♪
+But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Of course.
+          Yes, definitely.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            thank you very much\~♪ i will make sure not to get in anyone's [way]\~
+            {% bubble Kanata norsmile2 %}
+            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
 
-            this is a wonderful opportunity to bring some [refreshments]. may i drop by a [shop] for a moment?
+            I don’t know what awaits us over there, but…
+            {% endbubble %}
+            {% bubble Kanata fist %}
+            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Let's have tea together.
+            Once you’re done writing…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            oh, you are not in a hurry to speak to them about the [job], are you? then i would love to have [tea] with everyone~♪
+            {% bubble Kanata smileexplain %}
+            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
 
-            oh yes, i found a nice restaurant that serves [simmered fish]. if you are hungry, how about we go there?
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Shall we invite the other two?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Kanata v2 %}
-            do you mean chiaki and midori? oh, i see. it is about time for their [job] to end, yes~?
+            I’ll give the rest of the questions a proper thought until the deadline.
 
-            okay then, i will [contact] them from my side. i hope we can all gather and talk together…♪
+            I assure you I won’t forget to submit it, so you can rest at ease there~♪
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /stella_maris/minitalk/kanata_1,, arrow-left, Kanata Mini Talk: lovely present %}{% btn /minitalk/#Stella-Maris,, star, Index %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <a href="/wildland/minitalk/kanata_1" title="Kanata Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Tetora Mini Talk: Buying Ingredients for a Big Meal"
-date: 2024/1/16 9:06:00
+title: "WILDLAND – Tetora Mini Talk: Undecided Menu"
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
-description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Tetora’s first Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
+					<a href="/categories/Enstars/Tetora" character="Tetora"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,52 +51,42 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
 
-{% bubble Tetora v2 %}
-'Suup, Anego! Are you shopping?
+{% bubble Tetora grin2 %}
+Heeey, Anzu! Are you going to have lunch now?
 
-I am too, as you can see! I bought some ingredients in the area.
-{% endbubble %}
+If you’re alright with it, how about you share a table with me! ☆
 
-{% bubble Tetora awkward0 %}
-I bought way more than I planned, 'cuz they were having a huge sale…
+You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Isn't it heavy?
+            Is it really okay?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            I train a ton, so this is easy-peasy stuff for me!
+            {% bubble Tetora smileconfident %}
+            Yeah. I was actually hoping I could get to have a chat with someone.
 
-            In fact, I could even carry your stuff, too~! Please let me know if it's ever heavy on you!
+            You can consider being my conversation partner as payment. You’ve got some time now, right?
+
+            You’re free until the evening? Then let’s go search for a seat at once! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What did you buy?
+            I could never…!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Mostly veggies and seasonings I wanted to try out.
+            {% bubble Tetora smilesoft %}
+            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
 
-            Midori-kun taught me how to have an eye for the good ones, so I think I managed to buy some nice veggies! I gotta thank him again for the tip~♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Sales are so nice to have, right?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            You get me, Anego…!? I'm so happy~♪
+            I was hoping to repay you for that. So there’s no need to hold back!
 
-            Since it was such a huge sale, I was almost beaten by the fiery competition among a bunch'a married couples, but I managed to buy 'em in the end!
+            Fufu, then let’s sit here. Now we just need to order something!
 			{% endbubble %}
         </div>
     </div>
@@ -104,50 +94,45 @@ I bought way more than I planned, 'cuz they were having a huge sale…
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
 
-{% bubble Tetora v2 %}
-Actually, I'm gonna get a share of fresh seafood from Shinkai-senpai.
+{% bubble Tetora srsthinking %}
+There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
 
-When you have high-quality ingredients, it's natural to have the urge to cook tasty food on your own!
+Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% endbubble %}
 
-So I plan to make a full course meal with the seafood once I'm back at the dorms~♪
+{% bubble Tetora norsmile %}
+What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Can you prepare the fish?
+            It’s hard to decide, isn’t it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Actually, I've never really prepared fish before…
+            {% bubble Tetora grin2 %}
+            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
-            But I've watched a video of it before, so I've got a pretty good gist of it! As long as I follow the instructions, I'm sure I'll manage!
+            You still have time, so feel free to ponder however much you like…☆
+
+            While you decide, I’ll think about what I’ll have for dessert!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Seafood, as in…
+            The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora northinking %}
-            Ah, I dunno what I'm gonna get from him, either.
+            {% bubble Tetora smile %}
+            Ohh, how healthy! Maybe I’ll go with that, too.
 
-            Shinkai-senpai said it's fish we all know and love. Since it's spring, I'm guessing it's sardine and skipjack tuna?
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Cooking is fun, isn't it?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora smilesoft %}
-            Yeah~♪ I'm not really good at cooking or anything, and I'm still learning, but…
-
-            It's just so much fun, and it especially excites me to think of what to make for food.
+            …Huh? There’s eggplants in it?
+            {% endbubble %}
+            {% bubble Tetora sighfrown %}
+            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
     </div>
@@ -155,60 +140,63 @@ So I plan to make a full course meal with the seafood once I'm back at the dorms
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
 
-{% bubble Tetora sightired %}
-Since I'm making a whole meal and everything, I wanted to treat Ryuseitai to a meal, too.
+{% bubble Tetora grin %}
+—Thanks for the wonderful meal!
 
-But it seems like they're all busy, so they turned down my dinner invitation…
-{% endbubble %}
+So after this, I’m thinking of having a dance practice session.
 
-{% bubble Tetora v2 %}
-But Hiiro-kun's coming! He said he'll bring over Shiratori-kun too, so I plan to put my all when cooking this meal, to treat 'em good~♪
+There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I hope they enjoy it.
+            Sure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Heheh. I wanna cook something that'll make those two glad they could try it.
+            {% bubble Tetora grin %}
+            Ooh, I appreciate it!
+
+            I’ve been challenging myself to do pretty advanced choreography lately.
+
+            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+			{% endbubble %}
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Please leave it to me.
+        </div>
+        <div class="minitalk-option_content">
+            {% bubble Tetora grin2 %}
+            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
             {% endbubble %}
-            {% bubble Tetora awkward0 %}
-            I wanna make sure I avoid what happened in the school trip…[^1]
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I'd love it if you showed me a photo.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora smilesoft %}
-            If you wanna see, then I'll gladly take photos for ya~♪
+            {% bubble Tetora smileexplain %}
+            Oh yeah, you’ve been working independently this year, right?
 
-            If there are any leftovers, I might be able to bring some to the agency tomorrow…? That way, you can eat some too, right?
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            What about ALKALOID's…
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Tetora v2 %}
-            Ayase-senpai and Tatsumi-senpai? They both have a job today, it seems.
-
-            ALKALOID's busy too, huh~ Ryuseitai won't lose to 'em!
+            If so, then how about us Ryuseitai also request work from you more and more…!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/tetora_2,, arrow-right, Tetora Mini Talk: Preparing in Advance for a Job %}</div>
-
-## Translation Notes
-
-[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/minitalk/tetora_2" title="Tetora Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

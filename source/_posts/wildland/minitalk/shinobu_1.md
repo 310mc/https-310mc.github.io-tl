@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Shinobu Mini Talk: An Energizing Time"
-date: 2024/1/16 9:00:00
+title: "WILDLAND – Shinobu Mini Talk: Undecided Menu"
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
-description: "[ES!!] Shinobu's first Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Shinobu’s first Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+					<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,50 +51,42 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
 
-{% bubble Shinobu smilesoft %}
-Anzu-dono, here you go. It's cold tea~♪
+{% bubble Shinobu grin2 %}
+Heeey, Anzu! Are you going to have lunch now?
 
-There is no need to thank me. The tea itself is my repayment to you.
+If you’re alright with it, how about you share a table with me! ☆
 
-Since you accepted my invitation to have a chat, it's only natural I would do this much for you~♪
+You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What about you?
+            Is it really okay?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            Fufu, I bought some for myself too, so don't worry~♪
+            {% bubble Shinobu smileconfident %}
+            Yeah. I was actually hoping I could get to have a chat with someone.
 
-            I bought a small one, so it's in my pocket right now.
+            You can consider being my conversation partner as payment. You’ve got some time now, right?
+
+            You’re free until the evening? Then let’s go search for a seat at once! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            We're both busy, aren't we?
+            I could never…!
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smilesoft %}
-            Ah, I suppose it is true that I have also been hard at work with classes and the Student Council at school…
+            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
 
-            I guess you could say that, yes. The two of us are busy, but we can relax and talk to each other right now.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Do you have something to ask me about?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            No, no. I've been busy lately, so I simply wanted to take it easy and talk to someone.
+            I was hoping to repay you for that. So there’s no need to hold back!
 
-            It's no serious matter, so you can rest at ease.
+            Fufu, then let’s sit here. Now we just need to order something!
 			{% endbubble %}
         </div>
     </div>
@@ -102,50 +94,45 @@ Since you accepted my invitation to have a chat, it's only natural I would do th
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
 
-{% bubble Shinobu smilesoft %}
-The flowers of the flowerbed at school bloomed beautifully just like these flowers here.
+{% bubble Shinobu srsthinking %}
+There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
 
-The other day, Shino-dono was watering the plants by himself here, so I helped him out.
+Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% endbubble %}
 
-He taught me so many different flower names…♪
+{% bubble Shinobu norsmile %}
+What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Such as?
+            It’s hard to decide, isn’t it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            If I recall correctly, the first one he told me about was snapdragons.
+            {% bubble Shinobu grin2 %}
+            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
-            The flower looks like a goldfish's mouth, and even the way it swims, so that is how it got its name.[^1]
+            You still have time, so feel free to ponder however much you like…☆
+
+            While you decide, I’ll think about what I’ll have for dessert!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That's wonderful.
+            The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu norsmile %}
-            Heh, I now not only know more about the names of flowers, but their meanings, too!
+            {% bubble Shinobu smile %}
+            Ohh, how healthy! Maybe I’ll go with that, too.
 
-            I'd love to send a mature gift to someone one day… One that involves picking out flowers by their meaning.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I'd love to see.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            Your wish is my command! ♪ They were very pretty, so I took a few photos.
-
-            Here it is! If it's alright, I could send them to you in HoldHands; how about it?
+            …Huh? There’s eggplants in it?
+            {% endbubble %}
+            {% bubble Shinobu sighfrown %}
+            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
     </div>
@@ -153,59 +140,63 @@ He taught me so many different flower names…♪
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
 
-{% bubble Shinobu smilesoft %}
-I was a little tired, but after talking to you, I feel much more energized!
+{% bubble Shinobu grin %}
+—Thanks for the wonderful meal!
 
-It really is important to have leisure time like this.
+So after this, I’m thinking of having a dance practice session.
 
-Anzu-dono, if you ever feel tired too, or if you'd like to talk to someone, please feel free to call for me anytime.
+There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Alright, I'll do so.
+            Sure.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu grin %}
-            Heheh. I'm so happy to know you'll rely on me, Anzu-dono~♪
+            Ooh, I appreciate it!
 
-            I'll be sure to show up at your doorstep in a flash!
+            I’ve been challenging myself to do pretty advanced choreography lately.
+
+            I feel that with your advice, I’ll be able to improve and grow all the more…☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I feel energized, too.
+            Please leave it to me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu blushjoy %}
-            Yaay! ♪ You're someone I'm indebted to, and I always want to make people like that be in a great mood!
-
-            The fact that I was able to help energize you makes me super happy…♪
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I don't have to use the request box?
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Shinobu fist %}
-            Of course not! If you were to personally call for me, I would be able to come rushing to your aid immediately!
+            {% bubble Shinobu grin2 %}
+            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
             {% endbubble %}
-            {% bubble Shinobu blushscratch %}
-            …Ehehe. Perhaps I shouldn't mention this myself, but what I just said sounds a little like Morisawa-dono.
+            {% bubble Shinobu smileexplain %}
+            Oh yeah, you’ve been working independently this year, right?
+
+            If so, then how about us Ryuseitai also request work from you more and more…!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/shinobu_2,, arrow-right, Shinobu Mini Talk: Okinawa Souvenir %}</div>
-
-
-## Translation Notes
-
-[^1]: In Japanese, snapdragons are <em>kingyosou</em>, as in goldfish plant.
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/minitalk/shinobu_2" title="Shinobu Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

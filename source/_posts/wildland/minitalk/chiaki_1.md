@@ -1,11 +1,11 @@
 ---
-title: "Stella Maris – Chiaki Mini Talk: Torn Tracksuit"
-date: 2024/1/16 9:04:00
+title: "WILDLAND – Chiaki Mini Talk: Undecided Menu"
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
-description: "[ES!!] Chiaki's first Mini Talk from Stella Maris. From Anzu's POV."
+description: "[ES!!] Chiaki’s first Mini Talk from WILDLAND. From Anzu’s POV."
 hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -16,7 +16,7 @@ hidden: true
                     Mini talk
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+					<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -40,7 +40,7 @@ hidden: true
                    Story
                 </div>
                 <div class="value">
-                    <a href="/stella_maris">Stella Maris</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
         </div>
@@ -51,53 +51,42 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_1.jpg %}
-
-{% bubble Chiaki frown %}
-Mmm~… It's just not going well…
-
-Kiryu looked to be busy, so I only borrowed a sewing kit… But with how difficult it's been, I feel like I should've just asked him to fix it up for me another day.
-{% endbubble %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
 
 {% bubble Chiaki grin2 %}
-No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll be able to accomplish anything!
+Heeey, Anzu! Are you going to have lunch now?
+
+If you’re alright with it, how about you share a table with me! ☆
+
+You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What's wrong?
+            Is it really okay?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Ooh, Anzu! I was doing some dance lessons, when the knee area of my tracksuit pants got torn.
-            {% endbubble %}
-            {% bubble Chiaki sightired %}
-            I'm trying to stitch it back together on my own, but it's pretty difficult…
+            {% bubble Chiaki smileconfident %}
+            Yeah. I was actually hoping I could get to have a chat with someone.
+
+            You can consider being my conversation partner as payment. You’ve got some time now, right?
+
+            You’re free until the evening? Then let’s go search for a seat at once! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            What are you sewing?
+            I could never…!
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki surprised %}
-            Dowah!? You showed up behind me, that I almost thought it was a ghost!
+            {% bubble Chiaki smilesoft %}
+            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
 
-            …Ah, no, I'm sorry too. I was so focused on fixing my tracksuit pants that I didn't even notice you calling for me.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            You seem to be struggling.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki awkward %}
-            Anzu… As you can see, the stitch is all over the place…
+            I was hoping to repay you for that. So there’s no need to hold back!
 
-            Unsurprisingly, I don't have enough experience to stitch something up as well as you and Kiryu can.
+            Fufu, then let’s sit here. Now we just need to order something!
 			{% endbubble %}
         </div>
     </div>
@@ -105,51 +94,45 @@ No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll b
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
 
-{% bubble Chiaki %}
-Mm? You'll stitch up my tracksuit for me?
+{% bubble Chiaki srsthinking %}
+There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
 
-That'd help me immensely! I wasn't getting anywhere doing it on my own…!
+Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% endbubble %}
 
-But… That means I'll have nothing to do. Hm, is there anything I could help you with?
+{% bubble Chiaki norsmile %}
+What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Could you buy me some fabric?
+            It’s hard to decide, isn’t it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            I see, since a huge chunk of it got ripped, you'll need fabric of the same color, right?
+            {% bubble Chiaki grin2 %}
+            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
-            I'll go buy some for you right away! You wait here with a cup of tea, if you like!
+            You still have time, so feel free to ponder however much you like…☆
+
+            While you decide, I’ll think about what I’ll have for dessert!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please cheer for me.
+            The stir-fried vegetables meal…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki fist %}
-            Mhm! That's my area of expertise! ☆ You've got this, Anzu, you can do it!
+            {% bubble Chiaki smile %}
+            Ohh, how healthy! Maybe I’ll go with that, too.
+
+            …Huh? There’s eggplants in it?
             {% endbubble %}
-            {% bubble Chiaki awkward %}
-            …Oh! I was a little too loud there. This is a public space, so I'll make sure to keep it down.
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Mm~…
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            You can't think of anything…? But I'd feel bad if I did nothing but watch as you work…
-
-            Alright, I'll go buy juice and something sweet in the meantime. Let me know if there's anything you want in particular~♪
+            {% bubble Chiaki sighfrown %}
+            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
 			{% endbubble %}
         </div>
     </div>
@@ -157,53 +140,63 @@ But… That means I'll have nothing to do. Hm, is there anything I could help yo
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
 
-{% bubble Chiaki %}
-Oh— You're already done? You're incredible as always, Anzu!
+{% bubble Chiaki grin %}
+—Thanks for the wonderful meal!
 
-You'd like me to do a final check-up, in case there are any other problems? Honestly, I don't feel like there's any problem as long as the hole is patched up, but… Hmm, let's see…?
+So after this, I’m thinking of having a dance practice session.
 
-Ohhh…! It's so neatly done, I can't even tell *where* the rip was in the first place! You're amazing, Anzu…☆
+There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          I'm so glad.
+            Sure.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            You really helped me out so much! Tenshouin passed by a while back, and told me to simply buy a new one, but… I'd rather get it stitched back up to wear it again.
+            {% bubble Chiaki grin %}
+            Ooh, I appreciate it!
 
-            I can now practice a lot in this tracksuit again. It's all thanks to you, thank you!
+            I’ve been challenging myself to do pretty advanced choreography lately.
+
+            I feel that with your advice, I’ll be able to improve and grow all the more…☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I'm not as good as Kiryu-senpai…
+            Please leave it to me.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Oh yeah, the person who taught you how to sew was Kiryu, right? It's wonderful to aim to be like your mentor, but there's no harm in being prideful of your skill.
+            {% bubble Chiaki grin2 %}
+            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% endbubble %}
+            {% bubble Chiaki smileexplain %}
+            Oh yeah, you’ve been working independently this year, right?
 
-            I think it's good to be more confident in your own skills…! ☆ Be proud that you perfectly stitched up these pants!
-			{% endbubble %}
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Please let me know if your clothes rip again.
-        </div>
-        <div class="minitalk-option_content">
-            {% bubble Chiaki %}
-            Thank you, Anzu! You're so reliable, like a true hero!
-
-            I'm no match for your sewing skills, but still — if you're ever in trouble, call for me. I'll always come rushing to you! ☆
+            If so, then how about us Ryuseitai also request work from you more and more…!
 			{% endbubble %}
         </div>
     </div>
 </div>
 <br>
-<div toc>{% btn /minitalk/#Stella-Maris,, star, Index %}{% btn /stella_maris/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: Returning From Work %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wildland/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>
