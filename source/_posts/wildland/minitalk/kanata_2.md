@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Kanata Mini Talk: In Order To Represent Myself"
+title: "WILDLAND – Kanata Mini Talk: boasting one’s strength"
 date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Kanata]
@@ -51,44 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YPna4466febf13S6.webp?timestamp=1727971098655 %}
 
-{% bubble Kanata norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
+{% bubble Kanata smileconfident %}
+ufufu~♪ anzu-san, i will carry your [luggage] if you like; how about it?
 
-—It’s with me? Wait, what you’re holding…
+i got complimented by a [little child] that i am [very strong], so i am in a good mood.
 {% endbubble %}
 
-{% bubble Kanata smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Kanata grin %}
+look, i can easily carry this much [with ease]…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            You got complimented?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Kanata norsmile2 %}
+            yes. when i was walking down the street, there was a [little kid] struggling to carry a large package. 
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            they could have gotten hurt, so i carried it for them instead.
+            {% endbubble %}
+            {% bubble Kanata nod %}
+            then they told me, "amazing, you’re so strong!" with such a happy look on their face…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            You really are strong, aren’t you?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Kanata smile %}
+            fufu, now you will compliment me too, anzu-san? thank you very much.
+            {% endbubble %}
+            {% bubble Kanata smilesoft2 %}
+            i was never particularly prideful about being [strong], but…
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            when i helped the [little child] carry their package, they looked so happy complimenting me, so i could not help but feel so happy as well.
 			{% endbubble %}
         </div>
     </div>
@@ -96,45 +98,47 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YkEA66febf13l094.webp?timestamp=1727971099137 %}
 
-{% bubble Kanata srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Kanata norsmile3 %}
+i do not particularly do any [strength training], but maybe it would be nice to try it out together with chiaki and tetora next time, yes~?
+
+if i could build even more [muscle] than how i am now, i might be able to lift anzu-san up and [dance] with you just like that.
 {% endbubble %}
 
-{% bubble Kanata curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Kanata smilesoft %}
+actually, i might be able to do that right now. what do you think, shall we give it a shot?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            I’m sorry, I’d rather not.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% bubble Kanata sighfrown %}
+            is that so? i thought it would be fun to do, so that is a shame…
             {% endbubble %}
-            {% bubble Kanata smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Kanata awkward %}
+            ah, but if i [made] a [mistake], it would cause even more trouble.
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            so even if i do build more [muscle] eventually, it is probably best i do not go ahead with this idea, wouldn’t it?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            How about trying it on someone else?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
-
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            {% bubble Kanata smileconfident %}
+            fufu, someone else, you say? who do you think would be good?
+            {% endbubble %}
+            {% bubble Kanata northinking %}
+            i feel like midori and tetora would be against it, but shinobu might hop on the idea, maybe~?
+            {% endbubble %}
+            {% bubble Kanata smile %}
+            i think people like rei or wataru, or even kaoru, would be willing to try it out…♪
 			{% endbubble %}
         </div>
     </div>
@@ -142,43 +146,46 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_nyVR5vm66febf137.webp?timestamp=1727971098512 %}
 
 {% bubble Kanata smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+i am in a good mood, so i would like to tell other people what happened, too.
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+if i remember correctly, chiaki and kaoru have the [day off] today, so… i will ask them if i can see them for a little while.
+{% endbubble %}
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+{% bubble Kanata smilesoft %}
+they said it is [okay]\~ we will eat [fish] while [chatting] together\~
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          Will you do it at the dorms?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Kanata norsmile3 %}
+            yes. if we have our chat at the dorms, other people could [join] us, too.
 
-            I don’t know what awaits us over there, but…
+            and there is a lot of [fish] in the [fridge], so we will cook with that…
             {% endbubble %}
-            {% bubble Kanata fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Kanata grin %}
+            fufu, i think it will be a very [fulfilling day], don’t you think?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            Will you do it at a restaurant?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Kanata norsmile %}
+            ah, that’s right. if we go to a restaurant, we would not need to prepare any [cutlery] nor [ingredients], right~?
 
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            also, if we do it at a [restaurant] instead of the [dorms], then anzu-san can also [join in]. if it is alright, would you like to join us~?
+            {% endbubble %}
+            {% bubble Kanata smile %}
+            ufufu~♪ then today, let’s all [dress nicely] and have a fun [banquet] with fish~♪
 			{% endbubble %}
         </div>
     </div>
@@ -191,7 +198,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/kanata_1" title="Kanata Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/kanata_1" title="Kanata Mini Talk: fish [paintings]"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

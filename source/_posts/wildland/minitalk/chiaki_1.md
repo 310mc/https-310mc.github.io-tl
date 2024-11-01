@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Chiaki Mini Talk: Undecided Menu"
+title: "WILDLAND – Chiaki Mini Talk: Playing With Cats"
 date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Chiaki]
@@ -51,42 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_s7A66febf130UHq3.webp?timestamp=1727971099403 %}
 
-{% bubble Chiaki grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Chiaki smileconfident %}
+Anzu, look over here! There’s an adorable cat.
 
-If you’re alright with it, how about you share a table with me! ☆
+It doesn’t run away even when I get close to it, and it sits still and lets me pet it!
+{% endbubble %}
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+{% bubble Chiaki nod %}
+Like this, there, there… <th><em>(pat, pat)</em></th> ♪ What a good kitty.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            What a friendly cat.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
+            {% bubble Chiaki smile %}
+            Yeah. It isn’t afraid of people at all — if anything, it looks so happy with all the petting.
 
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            My tired mind feels healed from all the exhausting work…♪
+            {% endbubble %}
+            {% bubble Chiaki northinking %}
+            Considering its behavior, maybe this cat is being taken care of as a pet somewhere?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            It’s cute, isn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Chiaki grin %}
+            Mhm, it’s so tiny and just adorable!
+            {% endbubble %}
+            {% bubble Chiaki smileexplain %}
+            Also, when I pet it like this, the cat seems to look as though its smiling. Look…♪
 
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            Fufu, isn’t it so cute?
 			{% endbubble %}
         </div>
     </div>
@@ -94,45 +98,49 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66febf13bTL7cui0.webp?timestamp=1727971098679 %}
 
-{% bubble Chiaki srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
-
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% bubble Chiaki norsmile2 %}
+Anzu, you may not believe me when I say this, but this cat can speak human language.
 {% endbubble %}
 
-{% bubble Chiaki norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Chiaki curious %}
+Just before you came, it was trying its best to talk to me… Mm?
+{% endbubble %}
+
+{% bubble Chiaki smilesoft %}
+…Like now, didn’t it just talk!? Did you hear it, Anzu?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            Could it be…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Chiaki fist %}
+            Yeah. There’s no doubt about it; it definitely said “Good morning”!
 
-            You still have time, so feel free to ponder however much you like…☆
-
-            While you decide, I’ll think about what I’ll have for dessert!
+            Since you also heard it, then it must mean I didn’t mishear.
+            {% endbubble %}
+            {% bubble Chiaki northinking %}
+            Can it say any other words too, I wonder…?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            I feel like it’s just the usual meowing…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
-
-            …Huh? There’s eggplants in it?
+            No way, you can’t tell me that! Here, listen more closely!
             {% endbubble %}
-            {% bubble Chiaki sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Chiaki serious %}
+            …………
+            {% endbubble %}
+            {% bubble Chiaki srsthinking %}
+            That’s strange. I definitely heard it say “Good morning” just a moment ago…
 			{% endbubble %}
         </div>
     </div>
@@ -140,43 +148,49 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QZ66febf13Khwni2.webp?timestamp=1727971099342 %}
 
-{% bubble Chiaki grin %}
-—Thanks for the wonderful meal!
+{% bubble Chiaki norsmile %}
+…Anzu, have you noticed? It seems like there’s another cat that’s a little farther from here, and it’s staring at us.
+{% endbubble %}
 
-So after this, I’m thinking of having a dance practice session.
+{% bubble Chiaki curious %}
+Is it curious about what’s going on here? But it might be too nervous to get closer…
+{% endbubble %}
 
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+{% bubble Chiaki smile %}
+Alright then, that means we should go and greet it ourselves! Let’s go, Anzu!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            You’ll scare it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin %}
-            Ooh, I appreciate it!
-
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            {% bubble Chiaki surprised %}
+            Ah—…! It ran away because of my voice just now.
+            {% endbubble %}
+            {% bubble Chiaki frustrated %}
+            I accidentally scared it away, just like you said would happen, Anzu… That was awful of me.
+            {% endbubble %}
+            {% bubble Chiaki sighdrop %}
+            Will I get to see it if I come by this pathway again…? If I ever do, I want to apologize for what I did today.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            We have to be careful at times like this…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
-            {% endbubble %}
-            {% bubble Chiaki smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
+            {% bubble Chiaki srsthinking %}
+            Mm, you’re right; we have to take careful action, or we’ll just frighten it.
 
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            Mm~ This somehow feels similar to the feeling I get when I strike up a conversation with Takamine.
+            {% endbubble %}
+            {% bubble Chiaki awkward %}
+            Er, actually, he’ll just get angry with me if I group him with a cat. Anzu, please keep what I just said a secret!
 			{% endbubble %}
         </div>
     </div>
@@ -195,7 +209,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/minitalk/chiaki_2" title="Chiaki Mini Talk: Wild-like Behavior"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -252,7 +252,7 @@ permalink: date_plan_a_to_z/
     <td>Thinking of what expression to put on when I say “Good morning”</td>
   </tr>
   <tr>
-    <td class="name"><span class="Kaoru">Kaoru</span> & <span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="kaoru">Kaoru</span> & <span class="chiaki">Chiaki</span></td>
     <td>There’s so many simulations overlapping in my head</td>
   </tr>
   <tr>

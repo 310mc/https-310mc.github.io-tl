@@ -695,7 +695,7 @@ Gahh, I feel like a dumbass… This is so embarrassing, I just wanna die already
 {% endbubble %}
 
 {% bubble Midori curious %}
-Eh, Wha—? What is it, umm… Daikichi-kun, I think? Please don’t rub against me…
+Eh, wha—? What is it, umm… Daikichi-kun, I think? Please don’t rub against me…
 {% endbubble %}
 
 {% bubble Subaru %}

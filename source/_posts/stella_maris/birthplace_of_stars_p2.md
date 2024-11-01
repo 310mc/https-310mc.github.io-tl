@@ -1331,7 +1331,7 @@ Not just that… We wanted to build a happy future together.
 {% endbubble %}
 
 {% bubble Tetora norsmile2 %}
-All the things ES didn’t do for us, we’d like to do ‘em for the people of Hoshijima. Abused kids don’t always turn into abusers themselves.
+All the things ES didn’t do for us, we’d like to do ‘em for the people of Hoshijima. Abused kids don’t always turn into abusive parents themselves.
 
 In fact… If we become respectable parents without ever warping or corrupting despite everythin’ — only then would it truly be our victory.
 {% endbubble %}
@@ -1339,7 +1339,7 @@ In fact… If we become respectable parents without ever warping or corrupting d
 {% bubble Midori smile %}
 I don’t think life is all about wins and losses, but I somehow get what Tetora-kun’s saying, too… Yeah, it’s not like I wanna become a bitter person, either…
 
-If I can live my life straightforwardly, then that’s always gonna be the best option, right?
+If I can live my life straightforwardly, then that’s always gonna be the better option, right?
 {% endbubble %}
 
 {% bubble Shinobu fist %}

@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Kanata Mini Talk: Undecided Menu"
+title: "WILDLAND – Kanata Mini Talk: fish [paintings]"
 date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Kanata]
@@ -51,42 +51,47 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pEB66febf13iZiB3.webp?timestamp=1727971099311 %}
 
-{% bubble Kanata grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Kanata v2 %}
+whew, what a big, big catch…♪
+{% endbubble %}
 
-If you’re alright with it, how about you share a table with me! ☆
+{% bubble Kanata smileconfident %}
+anzu-san, hello\~ what a [coincidence] meeting you here\~
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+ah, i was not at the [aquarium] before this. i had just come back from an [art museum], actually.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            That’s unusual.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
-
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            {% bubble Kanata northinking %}
+            mm~ true, i think i go to the [aquarium] much more than an [art museum], don’t i?
+            {% endbubble %}
+            {% bubble Kanata norsmile %}
+            but even i enjoy admiring the [arts] every once in a while.
+            {% endbubble %}
+            {% bubble Kanata nod2 %}
+            fufu, it sounds a little [cool] if i say it like that, right~?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            What’s that package?
         </div>
         <div class="minitalk-option_content">
+            {% bubble Kanata smileexplain %}
+            this is a [collection] of [pictures] i bought at the [art museum]~
+
+            all the [paintings] in the [art museum] are in this [book].
+            {% endbubble %}
             {% bubble Kanata smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
-
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            in other words, i can [enjoy] the [art museum] even after i have returned home…♪
 			{% endbubble %}
         </div>
     </div>
@@ -94,45 +99,46 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dsq66febf13Wgwr3.webp?timestamp=1727971099063 %}
 
-{% bubble Kanata srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
+{% bubble Kanata norsmile2 %}
+there was someone we [worked with] at a ryuseitai job before, and they were the ones who told me about this [exhibition] happening today.
 
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+it is an [exhibition] with [fish paintings] from all over the world!
 {% endbubble %}
 
-{% bubble Kanata norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Kanata v2 %}
+even though it was an [art museum], it felt as though i was in an [aquarium]…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            So that’s why you went to it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Kanata smile %}
+            fufu, you look like you understand why i was there now.
 
-            You still have time, so feel free to ponder however much you like…☆
-
-            While you decide, I’ll think about what I’ll have for dessert!
+            all the [paintings] were charming in their own way, and i could feel the love for [fish] in them.
+            {% endbubble %}
+            {% bubble Kanata northinking %}
+            it makes me want to draw something once i get home. i wonder what sort of [fish painting] i should go with…?
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            Was there any painting you enjoyed the most?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
+            {% bubble Kanata smileconfident %}
+            yes, of course there was.
 
-            …Huh? There’s eggplants in it?
+            it was the [painting] of a [large sharkie] swimming happily with [small fishies].
             {% endbubble %}
-            {% bubble Kanata sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Kanata smileexplain %}
+            there was [merchandise] for it too, so i bought some [postcards]. i will give one to you, anzu-san.
 			{% endbubble %}
         </div>
     </div>
@@ -140,43 +146,48 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_P66febf13IxpTTa1.webp?timestamp=1727971099573 %}
 
-{% bubble Kanata grin %}
-—Thanks for the wonderful meal!
+{% bubble Kanata norsmile3 %}
+i would like to go to the art museum again while they are [having] this particular exhibition.
 
-So after this, I’m thinking of having a dance practice session.
+since it is only around for a limited time, i will invite someone to come with me next time around.
+{% endbubble %}
 
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+{% bubble Kanata smileexplain %}
+maybe kaoru would be interested to join. would you like to as well, anzu-san?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            I’m interested.
         </div>
         <div class="minitalk-option_content">
+            {% bubble Kanata smileconfident %}
+            wah, i am so glad. then it is settled, right~?
+            {% endbubble %}
+            {% bubble Kanata curious %}
+            but anzu-san, i did not expect you to be interested in [fish paintings].
+            {% endbubble %}
             {% bubble Kanata grin %}
-            Ooh, I appreciate it!
-
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            ah, you try your best to look at various things for the sake of work, too? good girl, good girl~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            Maybe there’s…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Kanata grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% bubble Kanata curious %}
+            there might be other people interested, so you will see who else might want to [join]?
             {% endbubble %}
-            {% bubble Kanata smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
-
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            {% bubble Kanata norsmile %}
+            then i will leave it to you~ it would be a lot more fun to go with everyone instead of just enjoying it all by myself, after all.
+            {% endbubble %}
+            {% bubble Kanata smile %}
+            would chiaki and souma come, too? fufu, i am already so [excited] to find out.
 			{% endbubble %}
         </div>
     </div>
@@ -195,7 +206,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/minitalk/kanata_2" title="Kanata Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/minitalk/kanata_2" title="Kanata Mini Talk: boasting one’s strength"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

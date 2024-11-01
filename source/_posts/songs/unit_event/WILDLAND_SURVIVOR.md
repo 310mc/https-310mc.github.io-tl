@@ -11,12 +11,12 @@ categories:
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Song Lyrics
-description: "Translation of WILDLAND SURVIVOR Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event TBA."
+description: "Translation of WILDLAND SURVIVOR Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event WILDLAND."
 permalink: TESTING123456/
 hidden: true
 ---
 
-{% img  %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -38,7 +38,7 @@ hidden: true
                     Associated Story
                 </div>
                 <div class="value">
-                    <a href="/TBA">TBA</a>
+                    <a href="/wildland">WILDLAND</a>
                 </div>
             </div>
             <div class="info-item two">
@@ -70,140 +70,9 @@ hidden: true
 
 <h4 style="text-align:center;">WILDLAND SURVIVOR</h4>
 
-{% img  %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_TzbkyyE66ff05057.webp?timestamp=1727989003941 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
-
-<table class="lyrics">
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:18</span></td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>
-    In ancient times, at the far ends of the galaxy — five colored stars were born
-    <br>
-    With bonds bearing our destiny, we soar across the universe
-    </td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:30</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A halation for encounters</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>Now, to all the stars being born</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing; “you’re already one of us”</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>We’ll convey that to you</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">0:54</span></td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>
-    Go forth! We will never, never stop in our tracks
-    <br>
-    Tearing through the darkness
-    <br>
-    We’ll fire off a powerful, powerful light
-    <br>
-    Just like a comet
-    </td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:09</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
-  </tr>
-  <tr>
-    <td><br></td>
-    <td><br></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>“The space kaijuu’s shown itself!”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>“But, it’ll be alright…”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>“As long as we’re here!”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>“there is no need to hesitate”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>“For the heart of justice always resides right here within us!”</td>
-  </tr>
-  <tr>
-    <td class="timestamp name"></td>
-    <td class="timestamp"><span class="timestamp">1:32</span></td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Go forth!</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>We will never, never stop in our tracks</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>Tearing through the darkness</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>We’ll fire off a powerful, powerful light</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Just like a comet</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
-  </tr>
-  <tr>
-    <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
-  </tr>
-</table>
 
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
@@ -213,36 +82,40 @@ hidden: true
 
 <table class="lyrics">
   <tr>
-    <td class="name">All</td>
-    <td>
-    In ancient times, at the far ends of the galaxy — five colored stars were born
-    <br>
-    With bonds bearing our destiny, we soar across the universe
-    </td>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>The sky, akin to a sinking world</td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
     <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
   </tr>
   <tr>
-    <td class="name">All</td>
-    <td>We’ll head towards it, while guided by the justice embraced within our hearts</td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
+    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>The sky, akin to a sinking world</td>
   </tr>
   <tr>
     <td><br></td>
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
     <td>A halation for encounters</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
     <td>Now, to all the stars being born</td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
     <td>Let’s sing; “you’re already one of us”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
+    <td>We’ll convey that to you</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -258,14 +131,14 @@ hidden: true
     Go forth! We will never, never stop in our tracks
     <br>
     Tearing through the darkness
-    <br>
-    We’ll fire off a powerful, powerful light
-    <br>
-    Just like a comet
     </td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
     <td>No matter how many times we burn out, we’ll be reborn once more</td>
   </tr>
   <tr>
@@ -277,23 +150,19 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>“The space kaijuu’s shown itself!”</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span></td>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
     <td>“But, it’ll be alright…”</td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="tetora">Tetora</span></td>
     <td>“As long as we’re here!”</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
-    <td>“there is no need to hesitate”</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name">All</td>
     <td>“For the heart of justice always resides right here within us!”</td>
   </tr>
   <tr>
@@ -301,47 +170,43 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
     <td>If you find yourself bound to the past that keeps repeating itself</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
     <td>Then let’s recall</td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="midori">Midori</span></td>
     <td>The courage</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
+    <td class="name"><span class="kanata">Kanata</span></td>
     <td>To strip off those hesitations</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
+    <td class="name">All</td>
     <td>We filled our energy for tomorrow</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span></td>
-    <td>With hope alone</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Because that’s how we powered through such straightforward days back then</td>
-  </tr>
-  <tr>
     <td><br></td>
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
-    <td>An explosion for the sake of survival</td>
+    <td class="name">All</td>
+    <td>
+    An explosion for the sake of survival
+    <br>
+    TBA
+    </td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td class="name"><span class="Tetora">Tetora</span> & <span class="Midori">Midori</span> & <span class="Kanata">Kanata</span></td>
     <td>There is no need to fear</td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name"><span class="Shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
     <td>Let’s sing, until the universe expands</td>
   </tr>
   <tr>
@@ -353,12 +218,24 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name">All</td>
+    <td class="name"><span class="midori">Midori</span></td>
     <td>Go forth! We will never let go of our passionate, passionate enthusiasm as we head forward<br>No matter, no matter what happens, never stop moving</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
+    <td class="name"><span class="Shinobu">Shinobu</span></td>
     <td>Within the future where we’ve overcome our obstacles, we’ll be able to smile again</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Chiaki">Chiaki</span></td>
+    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Kanata">Kanata</span></td>
+    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Tetora">Tetora</span></td>
+    <td>Hold onto that belief to the very end — in this place where stars are born</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -369,32 +246,38 @@ hidden: true
     <td><br></td>
   </tr>
   <tr>
-    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td class="name">All</td>
     <td>Go forth!</td>
   </tr>
   <tr>
-    <td class="name"><span class="midori">Midori</span></td>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
     <td>We will never, never stop in our tracks</td>
   </tr>
   <tr>
-    <td class="name"><span class="tetora">Tetora</span></td>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
     <td>Tearing through the darkness</td>
   </tr>
   <tr>
-    <td class="name"><span class="kanata">Kanata</span></td>
+    <td class="name">All</td>
     <td>We’ll fire off a powerful, powerful light</td>
   </tr>
   <tr>
-    <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>Just like a comet</td>
-  </tr>
-  <tr>
-    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span> & <span class="midori">Midori</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+    <td><br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
+    <td>
+    Just like a comet
+    <br>
+    TBA
+    <br>
+    TBA
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>No matter how many times we burn out, we’ll be reborn once more</td>
   </tr>
 </table>
 
@@ -602,7 +485,7 @@ hidden: true
     <div class="story">
         <div class="thumbimage">
             <img
-                src="TBA"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179"
                 alt="WILDLAND SURVIVOR"
             />
         </div>
@@ -616,6 +499,12 @@ hidden: true
 
 <div class="navigation2">
   <a target="_blank" href="/translations/#Index" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-  <a target="_blank" href="/comet_show" title="Index"><i class="fa fa-star"></i></a>
+  <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
   <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>
+
+## Translation Notes
+
+[^1]: This is a wordplay of a common expression that goes <em>michi naki michi</em>, 道なき道, meaning “pathless path”. In this case, the second <em>michi</em> is written as 未知, meaning “unknown”.
+[^2]: supervillain tl note??? i think
+[^3]: the word used here is <em>tadori tsuku</em>

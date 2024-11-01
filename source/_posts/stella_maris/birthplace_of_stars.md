@@ -481,7 +481,7 @@ Despite everything, I’m expecting a lot from you, Ryuseitai.
 {% img /img/es/eventstory/stellamaris/p2_3.jpg %}
 
 <div class="msr-narration">
-    <p>Around an hour later. At a restaurant near the ES Okinawa branch building…</p>
+    <p>Nearly an hour later. At a restaurant near the ES Okinawa branch building…</p>
 </div>
 
 {% bubble Chiaki srsthinking %}

@@ -10,7 +10,7 @@ categories:
 - [Enstars, Chiaki]
 - [Enstars, Kanata]
 tags:
-- Extra
+- Special Story
 description: "[ES!!] Translation of the “Particular Point of Interest” and “Image of Oneself” for Ryuseitai, from the Selection 10 Unit Project."
 permalink: selection_10_unit_project/
 ---

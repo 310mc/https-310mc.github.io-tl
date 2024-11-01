@@ -8,7 +8,7 @@ tags:
 - Story Index
 - Event Story
 - Unspecified Writer
-description: "[ES!!] TBA"
+description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice In Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
 permalink: wildland/
 hidden: true
 ---
@@ -23,7 +23,7 @@ hidden: true
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice In Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -31,7 +31,7 @@ hidden: true
                             Season
                         </div>
                         <div class="value">
-                            2nd year of ES's Establishment — Spring, Summer
+                            2nd year of ES's Establishment — Spring (May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -39,7 +39,7 @@ hidden: true
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            13
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -123,7 +123,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                   Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice In Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.<!-- 『不思議の国のアリス』からインスピレーションを得た大規模イベント【ワイルドランド】に抜擢された『流星隊』。秩序を失い荒廃したワイルドな世界観を表現するため、隊長を務める鉄虎は四苦八苦する。-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -131,7 +131,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            2nd year of ES's Establishment — Spring, Summer
+                            2nd year of ES's Establishment — Spring (May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -139,7 +139,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            13
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -229,7 +229,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JjyLF66e722352s5.webp?timestamp=1726423612363">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    The Tiger Searches Around 4
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -237,7 +237,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_K32Wm66e72235Rf5.webp?timestamp=1726423611821">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Potential and Guiding Star 2
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -245,7 +245,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_16m66e72235E3tz3.webp?timestamp=1726423613306">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 1
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -253,7 +253,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vaRAJb66e72235r6.webp?timestamp=1726423612562">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 1
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -261,7 +261,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_66e722355LL811G0.webp?timestamp=1726423613007">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Epilogue 1
                                 </div>
                             </div>
                         </div>
@@ -279,7 +279,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                         <img src="https://f005.backblazeb2.com/file/reitoouji/ro_oE66e72235BsrSb2.webp?timestamp=1726423611216">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kFOH66e72235alc4.webp?timestamp=1726423613120">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -464,7 +464,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="TBA" id="">TBA</a>
+                            <a href="first_half" id="">The Tiger Searches Around</a>
+                        </li>
+                        <li>
+                            <a href="second_half" id="">Potential and Guiding Star</a>
                         </li>
                         <li>
                             <a href="epilogue" id="">Epilogue</a>
@@ -530,11 +533,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_oE66e72235BsrSb2.webp?timestamp=1726423611216"
-                alt="TBA"
+                alt="Generosity In Everyday Life"
             />
         </div>
         <a href="/wildland/minitalk/tetora_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Generosity In Everyday Life</span>
             <span class="read"></span>
         </a>
     </div>
@@ -542,11 +545,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381"
-                alt="TBA"
+                alt="Stylish Sports Equipment"
             />
         </div>
         <a href="/wildland/minitalk/tetora_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Stylish Sports Equipment</span>
             <span class="read"></span>
         </a>
     </div>
@@ -554,11 +557,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_Ur7dv66e72235AS5.webp?timestamp=1726423610977"
-                alt="TBA"
+                alt="A Challenge to Draw a Manga"
             />
         </div>
         <a href="/wildland/minitalk/shinobu_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: A Challenge to Draw a Manga</span>
             <span class="read"></span>
         </a>
     </div>
@@ -566,11 +569,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_4Z66e72235QXemr2.webp?timestamp=1726423611373"
-                alt="TBA"
+                alt="Bouldering Skills"
             />
         </div>
         <a href="/wildland/minitalk/shinobu_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Bouldering Skills</span>
             <span class="read"></span>
         </a>
     </div>
@@ -578,11 +581,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_YtlqfC66e72235M6.webp?timestamp=1726423611093"
-                alt="TBA"
+                alt="fish [drawing]"
             />
         </div>
         <a href="/wildland/minitalk/kanata_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: fish [paintings]</span>
             <span class="read"></span>
         </a>
     </div>
@@ -590,11 +593,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_Bs14466e72235WH5.webp?timestamp=1726423611695"
-                alt="TBA"
+                alt="boasting one's strength"
             />
         </div>
         <a href="/wildland/minitalk/kanata_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: boasting one's strength</span>
             <span class="read"></span>
         </a>
     </div>
@@ -602,11 +605,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_66e72235jo3JaKz0.webp?timestamp=1726423611341"
-                alt="TBA"
+                alt="Surprising Dropped Item"
             />
         </div>
         <a href="/wildland/minitalk/midori_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Surprising Dropped Item</span>
             <span class="read"></span>
         </a>
     </div>
@@ -614,11 +617,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_go0HMa66e72235r6.webp?timestamp=1726423611209"
-                alt="TBA"
+                alt="Peculiar Illustration"
             />
         </div>
         <a href="/wildland/minitalk/midori_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Peculiar Illustration</span>
             <span class="read"></span>
         </a>
     </div>
@@ -626,11 +629,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_XalO5av66e722357.webp?timestamp=1726423611236"
-                alt="TBA"
+                alt="Playing With Cats"
             />
         </div>
         <a href="/wildland/minitalk/chiaki_1" class="storyName" target="_blank">
-            <span>1: TBA</span>
+            <span>1: Playing With Cats</span>
             <span class="read"></span>
         </a>
     </div>
@@ -638,11 +641,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_0xa66e72235PTgw3.webp?timestamp=1726423611357"
-                alt="TBA"
+                alt="Wild-like Behavior"
             />
         </div>
         <a href="/wildland/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: TBA</span>
+            <span>2: Wild-like Behavior</span>
             <span class="read"></span>
         </a>
     </div>

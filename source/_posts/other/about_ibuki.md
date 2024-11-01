@@ -88,6 +88,9 @@ For this reason, **this post may get edited once we get full confirmation in the
 
 <h2 id="q1" class="FAQ-question">Q. Which stories contain hints of Ibuki and his family?</h2>
 <div class="FAQ-answer">
+
+<big>For a bitesized explanation about the Okinawa storyline through visual images, <a href="https://x.com/citrinesea/status/1841982360457302358" target="_blank">see this post</a>!</big>
+<br>
 The stories are:
 
 * <b>Submarine (May 2021 Story):</b> Ryuseitai and Akatsuki’s SS Qualifying Round story. Started the Okinawa story arc for Ryuseitai by establishing connections. Doesn’t contain any Ibuki information, and rather acts as a means to establish the Okinawa-related storyline. Contains one tiny hint of Ibuki’s grandfather in <a href="/submarine/ruthless_battlefield/" target="_blank">Ruthless Battlefield, Okinawa 4</a>.

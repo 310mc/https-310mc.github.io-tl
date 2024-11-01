@@ -254,23 +254,23 @@ body {
 
 
 /** Character colors **/
-.tetora {
+.tetora, .Tetora {
     color: #302833;
   }
   
-  .midori {
+  .midori, .Midori {
     color: #00533f;
   }
   
-  .shinobu {
+  .shinobu, .Shinobu {
     color: #cf7e37;
   }
   
-  .chiaki {
+  .chiaki, .Chiaki {
     color: #BD1F20;
   }
   
-  .kanata {
+  .kanata, .Kanata {
     color: #008db7;
   }
   

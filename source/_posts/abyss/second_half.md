@@ -1194,7 +1194,7 @@ maybe she was happy to be free and cradle her child… maybe she felt sorrow kno
 
 i am not sure what it could be, but i will never eeever forget it.
 
-that warmth and salty feeling.
+that warmth, and that salty feeling.
 
 mother tasted like the [ocean].
 {% endbubble %}

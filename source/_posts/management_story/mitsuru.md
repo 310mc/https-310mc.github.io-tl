@@ -52,7 +52,7 @@ description: "[ES!] Translation of Mitsuru's Management Stories, featuring Madar
 
 <!-- more -->
 
-### With Mitsuru
+### With Madara
 
 <div class="msr-location">
     <p><span><b>Location:</b> Running Grounds</span></p>

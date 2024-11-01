@@ -949,7 +949,7 @@ That star island, “Hoshijima”, is in immeasurable ruins.
 [^5]: Referring to Ryuseitai and Akatsuki’s SS story, <a href="/submarine" target="_blank">Submarine</a>. Submarine covers various aspects mentioned in this story.
 [^6]: Kanata says “let’s go” as you would in English, but written in hiragana in the text, as that’s how Kanata speaks.
 [^7]: This is how Okinawans say “Welcome”.
-[^8]: Chiaki has mentioned this before in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
+[^8]: Chiaki has mentioned this before to Kuro in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
 [^11]: “Haitai” is how Okinawan women say “hello”, whereas “haisai” is how Okinawan men say it. “Haitai” sounds softer between the two.

@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai]
 tags:
 - Happy Elements Staff
-- Extra
+- Special Story
 description: "[ES!!] Translation of 8th Anniversary Ryuseitai content."
 ---
 

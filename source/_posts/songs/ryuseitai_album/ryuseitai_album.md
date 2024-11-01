@@ -5,7 +5,8 @@ categories:
 - [Enstars, 1. Era, Yumenosaki Era, Present Days]
 - [Enstars, Ryuseitai]
 tags:
-- Extra
+- Special Story
+- Happy Elements Staff
 description: "Ryuseitai Album Commentary Translation from Ensemble Stars! by 310mc."
 permalink: ryuseitai_album/
 ---

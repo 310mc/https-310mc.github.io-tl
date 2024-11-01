@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Tetora Mini Talk: Undecided Menu"
+title: "WILDLAND – Tetora Mini Talk: Generosity In Everyday Life"
 date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Tetora]
@@ -51,42 +51,43 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NDt66febf138yCI3.webp?timestamp=1727971099727 %}
 
-{% bubble Tetora grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Tetora norsmile %}
+—No, you don’t need’a thank me at all! Okay, see ya!
 
-If you’re alright with it, how about you share a table with me! ☆
+Ah— Anego! Fancy meetin’ you at the train station.
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+What was that just now? I gave my seat to someone at the train, and they were thankin’ me for it.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            I expect nothing less from you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
+            {% bubble Tetora grin %}
+            When an injured person is right before your eyes, it’s only natural to give your seat to ‘em!
 
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
+            But seeing other people ‘round me also offer their seat made me kinda happy~♪
 
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            It goes to show that everyone holds a heroic heart in ‘em, no matter the person!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            Here, sweets for you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Tetora curious %}
+            You’re giving this to me? It’s my reward…?
+			{% endbubble %}
+            {% bubble Tetora smileconfident %}
+            Hehe, gettin’ praise from you makes me happy, Anego! But I didn’t do anythin’ worthy of a reward, y’know?
 
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            Just the thought makes me feel real energetic. Thank you very much!
 			{% endbubble %}
         </div>
     </div>
@@ -94,45 +95,46 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_TXOHg66febf13Wm5.webp?timestamp=1727971099606 %}
 
-{% bubble Tetora srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
+{% bubble Tetora northinking %}
+The way to give your seat to someone on a train can be pretty tricky, huh?
 
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+Even I end up thinking stuff like, "Will they think I’m treating ‘em like an eldery? Won’t it be rude?"
 {% endbubble %}
 
-{% bubble Tetora norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Tetora awkward %}
+Like, Midori-kun especially gets real worried ‘bout that sort of thing, it seems. I think it’s fine if he thinks about things a li’l more casually, though…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            I kinda get it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Tetora curious %}
+            Ah, are you also the type to worry a lot ‘bout this, Anego?
 
-            You still have time, so feel free to ponder however much you like…☆
-
-            While you decide, I’ll think about what I’ll have for dessert!
+            The more you can put yourself in the shoes of another person and imagine how they feel, the more you’re likely to worry over this stuff, huh~?
+            {% endbubble %}
+            {% bubble Tetora norsmile %}
+            On that point, someone like Isara-senpai seems like the type who’d be real good at handling these sorta situations.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            It’d be nice to call out to them casually, wouldn’t it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
+            {% bubble Tetora norsmile2 %}
+            Ah— Are you the type who likes to casually call out to the person?
 
-            …Huh? There’s eggplants in it?
+            Yeah, there’s a chance that the person’s strugglin’, so it’s better to call out immediately, right?
             {% endbubble %}
-            {% bubble Tetora sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Tetora smilesoft %}
+            I’ll try tellin’ Midori-kun the same thing next time. If I tell him that it’s your words, it’ll definitely get through to him~♪
 			{% endbubble %}
         </div>
     </div>
@@ -140,43 +142,46 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_9j66febf13azovw2.webp?timestamp=1727971099362 %}
+
+{% bubble Tetora smileexplain %}
+Ah, right! There’s apparently a fair for overseas ingredients at a building near the station.
+
+Aniki told me ‘bout it when I met him at the dorms.[^1] I’m pretty interested, so I’m plannin’ to take a look before I head back to the dorms.
+{% endbubble %}
 
 {% bubble Tetora grin %}
-—Thanks for the wonderful meal!
-
-So after this, I’m thinking of having a dance practice session.
-
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+You came here for the fair, Anego? Then I’d love to go together with ya~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            What will you buy?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin %}
-            Ooh, I appreciate it!
+            {% bubble Tetora smileconfident %}
+            I haven’t decided on anythin’ specific, actually. I’m just thinkin’ of looking ‘round and picking stuff that way.
+            {% endbubble %}
+            {% bubble Tetora fist %}
+            But I always get the urge to buy unusual ingredients or seasonings when I see ‘em, so I made sure to set a budget for myself!
 
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            This way, I should be able to buy the right things without wasting money!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            I wonder what sort of ingredients they have.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
-            {% endbubble %}
-            {% bubble Tetora smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
+            {% bubble Tetora smilesoft %}
+            Aniki let me see what he bought, and there really is all sortsa things there!
 
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            There was a vegetable called "ghost plant", a sweetener called "palm sugar"…
+            {% endbubble %}
+            {% bubble Tetora nod %}
+            Japanese ingredients are great, of course, but it’s fun to look at ingredients you don’t usually see, too~♪
 			{% endbubble %}
         </div>
     </div>
@@ -195,8 +200,12 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/minitalk/tetora_2" title="Tetora Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/minitalk/tetora_2" title="Tetora Mini Talk: Stylish Sports Equipment"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
 </div>
+
+## Translation Notes
+
+[^1]: Aniki is referring to Niki Shiina.

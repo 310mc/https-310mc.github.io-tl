@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Chiaki Mini Talk: In Order To Represent Myself"
+title: "WILDLAND – Chiaki Mini Talk: Wild-like Behavior"
 date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Chiaki]
@@ -51,44 +51,47 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0DE66febf13vtOu3.webp?timestamp=1727971098981 %}
 
-{% bubble Chiaki norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
+{% bubble Chiaki norsmile2 %}
+The other day, I went out to eat grilled meat with my roommates.
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+We all found the food tasty and ate it wholeheartedly, but Otogari in particular was incredible.
+
+He kept gobbling up plates of meat one after the other. He got through a bunch of plates in no time…☆
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            It must’ve been a wonderful manner of eating.
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            Yeah, that must’ve been exactly what people mean by “great manner of eating”!
+            {% endbubble %}
+            {% bubble Chiaki nod2 %}
+            It was to the point that it felt refreshing just watching him, so Yuuki even took a video.
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            He might’ve put it up on social media. I’ll try to look for it!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            The bill…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
-
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            Mm? Haha, don’t worry about that. We went to an all-you-can eat grilled meat buffet!
+            {% endbubble %}
+            {% bubble Chiaki curious %}
+            If that’s how much he loves meat, then as a senior, I wish I treated him to high-quality food…
+            {% endbubble %}
+            {% bubble Chiaki grin %}
+            But I’m sure Sakuma or Hakaze will make that come true for him. They’re his seniors from his unit, after all! ☆
 			{% endbubble %}
         </div>
     </div>
@@ -96,45 +99,45 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zF66febf136t9N02.webp?timestamp=1727971099376 %}
 
-{% bubble Chiaki srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Chiaki fist %}
+After we finished our meal, we went to a nearby park to help digest our food.
+
+It was night-time, so there weren’t any kids around. It was a lot of fun to let myself relive my childhood and play around!
 {% endbubble %}
 
-{% bubble Chiaki curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Chiaki grin %}
+The way Otogari moved in the park was also incredible! For a moment, I thought to myself, “this must be what you call being wild!”
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            Incredible, as in…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% bubble Chiaki fist %}
+            He was like a first-rate stuntman. His movements were so skillful and sharp!
             {% endbubble %}
-            {% bubble Chiaki smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Chiaki smilesoft %}
+            I was aware of Otogari’s physical ability through Sports Survivors, but I felt impressed by it once more.
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            As Ryusei Red, I can’t allow myself to fall back either…☆
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            It sounded like fun.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            {% bubble Chiaki smileconfident %}
+            Yeah, it was a lot of fun! Yuuki was a bit taken aback at first, but he started to enjoy himself too as he kept playing more.
 
-            I’ll ask the other participants what they wrote for theirs later.
+            We’re all busy, so we can’t go that often, but I’d still like to go there again sometime.
 
-            Who knows, I might be able to use it as reference!
+            It sounds like fun to go there with everyone in Ryuseitai, too. I’m sure Sengoku would gladly join me~♪
 			{% endbubble %}
         </div>
     </div>
@@ -142,43 +145,45 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_XDW4A66febf13JQ5.webp?timestamp=1727971099181 %}
 
-{% bubble Chiaki smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Chiaki norsmile %}
+Becoming a working member of society means also having ways to play as a working adult, but playing around like when you were young every once in a while is nice, too.[^1]
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+Plus, it feels nice to move your body as much as you like~♪
+{% endbubble %}
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+{% bubble Chiaki curious %}
+Speaking of which, Anzu… What sort of games did you play when you were young?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          Talking about things…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            I see! It’s hard to run out of topics when talking with friends, right?
 
-            I don’t know what awaits us over there, but…
+            I wonder if it gets lively between girls when the conversation is about things like fashion, too…?
             {% endbubble %}
-            {% bubble Chiaki fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Chiaki smilesoft %}
+            Ah, just imagining Anzu talking to her friends as a kid feels heartwarming to me…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            I used to play tag.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Chiaki smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Chiaki smile %}
+            Play tag? That’s a simple game, but it’s also the most exciting!
 
-            I’ll give the rest of the questions a proper thought until the deadline.
+            Do you prefer to be “it”? Or do you prefer to be the one who runs away?
 
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            The latter, huh? You’re pretty nimble, so it must be tough to catch you!
 			{% endbubble %}
         </div>
     </div>
@@ -191,7 +196,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/chiaki_1" title="Chiaki Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/chiaki_1" title="Chiaki Mini Talk: Playing With Cats"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>
@@ -202,3 +207,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
     </div>
 </div>
+
+## Translation Notes
+
+[^1]: Chiaki did play around like a kid in a different story too; his FS1 4* story, <a href="/always_hold_a_heroic_heart" target="_blank">Always Hold a Heroic Heart</a>.

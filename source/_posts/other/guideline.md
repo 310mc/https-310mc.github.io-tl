@@ -54,6 +54,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381"
+            alt="WILDLAND"
+        />
+    </div>
+    <a href="" class="storyName" target="_blank">
+        <span>WILDLAND (In Progress! 13/13 Chapters, Uploading Soon)</span>
+        <span class="read soon"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
             src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
             alt="Sports Survivors"
         />

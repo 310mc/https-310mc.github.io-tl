@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Midori Mini Talk: Undecided Menu"
+title: "WILDLAND – Midori Mini Talk: Surprising Dropped Item"
 date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Midori]
@@ -51,42 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RPx3YP66febf13f6.webp?timestamp=1727971099308 %}
 
-{% bubble Midori grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Midori curious %}
+Anzu-san, hello. Erm, are you trying to fix that shelf…?
+{% endbubble %}
 
-If you’re alright with it, how about you share a table with me! ☆
+{% bubble Midori serious %}
+You’re doing it by yourself because you’re the first to notice it? You could’ve just left it to a handyman, since it isn’t your own belonging to tend to…
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+It seems like a lot of work, so if you’re alright with it, I’ll help you out.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            I think I’ll manage it somehow.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
-
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            {% bubble Midori shocked %}
+            It doesn’t look that way to me at all, though…? You clearly looked to be struggling, y’know…?
+            {% endbubble %}
+            {% bubble Midori sighfrown %}
+            Ah, I’m sorry for talking so arrogantly. I’m not even skilled at this myself…
+            {% endbubble %}
+            {% bubble Midori norsmile %}
+            But I’ve got the free time right now, so you don’t have to hold back at all.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            Maybe I’ll take up on that offer…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Midori norsmile3 %}
+            Alright. Which part do you want to fix?
 
-            I was hoping to repay you for that. So there’s no need to hold back!
+            Ah, this part is pretty shaky, huh.
 
-            Fufu, then let’s sit here. Now we just need to order something!
+            I think I should be able to fix something this simple. Please wait a moment.
 			{% endbubble %}
         </div>
     </div>
@@ -94,45 +98,45 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dBfz66febf13TWZ4.webp?timestamp=1727971099126 %}
 
-{% bubble Midori srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
+{% bubble Midori smileexplain %}
+…There we go. I think I managed to fix the shaky part back in place.
 
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+But I’m no professional, so if it looks badly unsteady again, please ask for a handyman, okay?
 {% endbubble %}
 
-{% bubble Midori norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Midori smilesoft %}
+It’s perfect? I’m glad to hear it, then…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            Do you have any tips and tricks?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            {% bubble Midori norsmile %}
+            No, not anything in particular… It’s just that I don’t dislike doing DIY stuff.
 
-            You still have time, so feel free to ponder however much you like…☆
+            You’re pretty dexterious, Anzu-san, so once you get used to it, I’m sure you could do it even better than I ever have.
 
-            While you decide, I’ll think about what I’ll have for dessert!
+            Ah, let me send you a DIY site I use a lot.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            Do you do this sort of thing often?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
+            {% bubble Midori norsmile %}
+            Yeah, lately at least. I fixed something up at my dorm room just the other day.
 
-            …Huh? There’s eggplants in it?
+            One of Aoba-senpai’s furniture broke, and he seemed to be in a lot of trouble over it, so I helped him out.
             {% endbubble %}
-            {% bubble Midori sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Midori smile %}
+            Tenma-kun joined in to help us too, so we got it fixed up pretty quickly. I was really glad we got it done without any problems.
 			{% endbubble %}
         </div>
     </div>
@@ -140,43 +144,48 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4vSHk66febf13jo5.webp?timestamp=1727971099136 %}
 
-{% bubble Midori grin %}
-—Thanks for the wonderful meal!
+{% bubble Midori curious %}
+Something fell off the edge of the shelf… Maybe something that was stuck on the shelf fell off while we were fixing it?
+{% endbubble %}
 
-So after this, I’m thinking of having a dance practice session.
+{% bubble Midori surprised %}
+…I-Isn’t this a sticker of ’Tropical Troppeys’!?
 
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+And it’s a *super* rare one at that! Only *five* of these were ever made…! It’s not as sticky anymore, but I want it so bad…!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            I think it’s fine if you have it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori grin %}
-            Ooh, I appreciate it!
-
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            {% bubble Midori shocked %}
+            Are you sure!? But it’s a super valuable premium sticker, y’know…?
+            {% endbubble %}
+            {% bubble Midori norsmile %}
+            You’re right, to someone who isn’t interested in this sort of thing, they wouldn’t see any value in it, so… This might just get thrown away if nobody takes it.
+            {% endbubble %}
+            {% bubble Midori smile %}
+            In that case, I’d be glad to have it. Thank you so much…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            Why was it here…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% bubble Midori northinking %}
+            It really is strange. Maybe someone who isn’t that interested in yuruchara got a hold of it by coincidence, and then stuck it on the edge of the shelf?
             {% endbubble %}
-            {% bubble Midori smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
-
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            {% bubble Midori curious %}
+            Either way, it doesn’t seem like it was treasured much, so is it alright if I have it?
+            {% endbubble %}
+            {% bubble Midori grin %}
+            Thank you so much…♪ I’ll clean this little one up by myself and treasure it for life, I assure you that.
 			{% endbubble %}
         </div>
     </div>
@@ -195,7 +204,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/minitalk/midori_2" title="Midori Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/minitalk/midori_2" title="Midori Mini Talk: Peculiar Illustration"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

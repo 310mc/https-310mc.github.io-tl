@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Shinobu Mini Talk: In Order To Represent Myself"
+title: "WILDLAND – Shinobu Mini Talk: Bouldering Skills"
 date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Shinobu]
@@ -51,44 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3lKi66febf13KEI4.webp?timestamp=1727971102957 %}
 
-{% bubble Shinobu norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
+{% bubble Shinobu smileconfident %}
+Ah, there’s an outdoors bouldering area for children!
 
-—It’s with me? Wait, what you’re holding…
+Anzu-dono, have you ever tried bouldering before?
 {% endbubble %}
 
-{% bubble Shinobu smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Shinobu grin %}
+I went to a bouldering place with Morisawa-dono and Tetora-kun just a little while ago. It was a lot of fun!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            It seems hard.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Shinobu smileexplain %}
+            If you try the beginner’s course, I think you would be able to climb up with relative ease.
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            I excel at wall-climbing, while Morisawa-dono and Tetora-kun are used to moving their bodies a lot, so we took on an advanced course.
+            {% endbubble %}
+            {% bubble Shinobu smilesoft %}
+            The more difficult it is, the more exhilirating it feels when you complete the climb~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            I feel like you’d all be good at it.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Shinobu smile %}
+            Ahaha. As you thought, we were all able to climb up the rocks easily.
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            It was a lot of fun, so I also invited Midori-kun and Shinkai-dono to come with us next time, but…
+            {% endbubble %}
+            {% bubble Shinobu awkward %}
+            Midori-kun wouldn’t look me in the eye after that, and Shinkai-dono went off to soak in water, so I didn’t get a good response from either of them…
 			{% endbubble %}
         </div>
     </div>
@@ -96,45 +98,47 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_oGR94G66febf13y6.webp?timestamp=1727971099811 %}
 
-{% bubble Shinobu srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Shinobu smile %}
+Morisawa-dono, Tetora-kun and I all managed to climb with ease, so the staff praised us for our skills.
+
+They even invited us to join a small upcoming competition.
 {% endbubble %}
 
-{% bubble Shinobu curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Shinobu northinking %}
+We declined because we already have a job then, but… I’d love to participate in one someday.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            Shall I come up with a proposal for it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% bubble Shinobu curious %}
+            You’ll make a program proposal where we challenge ourselves to a bouldering competition…?
             {% endbubble %}
-            {% bubble Shinobu smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
-
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            {% bubble Shinobu worried %}
+            No, no, you don’t have to go that far! My skills aren’t up to par to have a whole program made for it…
+            {% endbubble %}
+            {% bubble Shinobu fist %}
+            But it does sound like fun. If I improve a little more, I’d like to challenge myself with that sort of program, as well!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            I’ll come cheer for you when that happens.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            {% bubble Shinobu smileconfident %}
+            You’d come watch the competition too, Anzu-dono? That makes me happy!
 
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            If I ever appear in a competition, I’d like Mayoi-dono and Isara-dono to watch it, too~
+            {% endbubble %}
+            {% bubble Shinobu grin %}
+            Haha, that’s just my own daydreams, though. Just imagining it is fun enough for me…♪
 			{% endbubble %}
         </div>
     </div>
@@ -142,43 +146,46 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SpfK66febf13tMI4.webp?timestamp=1727971099485 %}
 
-{% bubble Shinobu smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Shinobu curious %}
+Huh? That child… It seems they’re struggling to climb up the rocks.
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+A staff member is helping them, but it seems to me that they can’t get a grasp of the feeling exactly.
+{% endbubble %}
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+{% bubble Shinobu northinking %}
+I had also gotten stuck in a similar spot once upon a time. I might be able to be of help somehow…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          How about talking to them?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Shinobu srsthinking %}
+            Mm~ I’m not so sure about walking over and talking to them when there’s a professional staff member around…
 
-            I don’t know what awaits us over there, but…
+            This is a bit troubling… Hm, I wonder if it’d be alright to at least cheer the child on?
             {% endbubble %}
-            {% bubble Shinobu fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Shinobu smile %}
+            I’ll head on over! Thank you, Anzu-dono!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            Would you like to go there together?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Shinobu curious %}
+            You’ll come with me to where the child is at?
+            {% endbubble %}
+            {% bubble Shinobu smilesoft %}
+            Fufu, you’re so reliable, Anzu-dono. I’d certainly love you to come with me.
 
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            I’ll try to chip in a word or two without disturbing the staff member…!
 			{% endbubble %}
         </div>
     </div>
@@ -191,7 +198,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/shinobu_1" title="Shinobu Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/shinobu_1" title="Shinobu Mini Talk: A Challenge to Draw a Manga"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Tetora Mini Talk: In Order To Represent Myself"
+title: "WILDLAND – Tetora Mini Talk: Stylish Sports Equipment"
 date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Tetora]
@@ -51,44 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_r7uv66febf133tX4.webp?timestamp=1727971099339 %}
 
-{% bubble Tetora norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
+{% bubble Tetora nod %}
+Hehe. It’s as you said, Anego — The design on those trousers are pretty nice too!
 {% endbubble %}
 
-{% bubble Tetora smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+{% bubble Tetora smileconfident %}
+A junior from Karate Club told me about this sports equipment site. They sell a lotta good products, huh~
+
+It doesn’t take long to use up sports stuff, so the more good shops and sites I can check through, the better~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            This T-shirt might suit you.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
-
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            {% bubble Tetora norsmile2 %}
+            This black T-shirt, huh? It works ‘cuz it’s black, and not to mention, looks pretty stylish too.
+            {% endbubble %}
+            {% bubble Tetora fist %}
+            Aight, I’m gonna buy this T-shirt!
+            {% endbubble %}
+            {% bubble Tetora grin %}
+            It’s something *Anego* recommends, so ‘course it’s gonna be good. I trust your choices~♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            How about this towel?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Tetora smilesoft %}
+            Ahh, the towel with a yuruchara printed on it, right?
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
+            It’s cute, but I think Midori-kun would like that sorta design more.
 
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            While I’m orderin’ other stuff, I’ll order this for him too. And then I’ll give it to Midori-kun as a present next time I see him!
 			{% endbubble %}
         </div>
     </div>
@@ -96,45 +98,46 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RA7Pv66febf13nR5.webp?timestamp=1727971098085 %}
 
-{% bubble Tetora srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Tetora norsmile2 %}
+On my next day off, I’m plannin’ on checking out a physical store with Hiiro-kun.
+
+When I told Narukami-senpai and HiMERU-san ‘bout it, they told me that if I send ‘em a photo, they’ll check if it’s a stylish look or not.
 {% endbubble %}
 
-{% bubble Tetora curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Tetora awkward %}
+But to be honest, I’m not that concerned ‘bout whether or not my sports clothes look stylish…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            Sounds like it’ll be informative.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
+            {% bubble Tetora srsthinking %}
+            Oh yeah, it’s actually a luxury that I can get advice from those two, since they’re pretty fashionable.
+
+            Uu~myu. I don’t wanna take up their time, so I didn’t plan on contacting ‘em, but…
             {% endbubble %}
             {% bubble Tetora smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
-
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            Aight, I think I’ll rely on ‘em a li’l after all!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            Daily efforts are important, after all.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
+            As in, building up on your hard work every day is important, whether for karate or fashion, right?
 
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            There’s no harm in being fashionable as someone who does work that involves being in front of others, and it’s a great opportunity to get advice ‘bout it.
+            {% endbubble %}
+            {% bubble Tetora smileconfident %}
+            If I get to buy somethin’ good, I’ll be sure to show ya too, Anego~♪
 			{% endbubble %}
         </div>
     </div>
@@ -142,43 +145,46 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LmjEeD66febf13c6.webp?timestamp=1727971099135 %}
 
-{% bubble Tetora smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Tetora curious %}
+Ah— Shinobu-kun messaged me…? I’ll have to excuse myself a li’l.
+{% endbubble %}
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+{% bubble Tetora norsmile %}
+Aight, it was just a reminder that Ryuseitai’s having a gathering soon.
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+We’ve all been busy lately, after all. So it looks like he went through the effort of sending me a reminder!
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+            Take this before you go.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            {% bubble Tetora curious %}
+            This is… a box of cakes?
 
-            I don’t know what awaits us over there, but…
+            Another staff member bought it as an apology, but nobody is using it now? You sure it’s alright I take this…?
             {% endbubble %}
-            {% bubble Tetora fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Tetora grin %}
+            Got it! Then I’d be glad to take it! I’ll happily eat it along with everyone in Ryuseitai!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            What are you gathering for?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Tetora smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
+            {% bubble Tetora smile %}
+            Ah, we’re gonna have lunch together today!
 
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            Morisawa-senpai found a tasty restaurant, so he invited us to join him ’cuz he wanted to go with everyone.
+            {% endbubble %}
+            {% bubble Tetora fist %}
+            That’s why I skipped breakfast today, so I could enjoy my meal even more! I’m lookin’ forward to it!
 			{% endbubble %}
         </div>
     </div>
@@ -191,7 +197,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/tetora_1" title="Tetora Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/tetora_1" title="Tetora Mini Talk: Generosity In Everyday Life"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

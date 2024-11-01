@@ -104,7 +104,7 @@ permalink: suisei_HALATION/
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>A halation for encounters</td>
+    <td>A halation for the sake of encounters</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>

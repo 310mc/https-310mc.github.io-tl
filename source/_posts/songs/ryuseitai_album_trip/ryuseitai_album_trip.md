@@ -10,7 +10,7 @@ categories:
 - [Enstars, Kanata]
 - [Enstars, Shinobu]
 tags:
-- Extra
+- Special Story
 - Happy Elements Staff
 description: "Ryuseitai Album TRIP Translation from Ensemble Stars!! by 310mc."
 permalink: ryuseitai_album_trip/

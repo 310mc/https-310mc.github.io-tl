@@ -592,6 +592,9 @@
 [character="Kanata"][norsmile2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_norsmile.png");
 }
+[character="Kanata"][norsmile3] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_norsmile.png");
+}
 [character="Kanata"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_northinking.png");
 }
@@ -1206,6 +1209,10 @@
 
 [character="ElderlyArtist"] {
   --name: "Artist";
+}
+
+[character="Junior"] {
+  --name: "Junior";
 }
 
 [character="Mizusaba"] {

@@ -112,7 +112,7 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
+            There’s an abundance of choices in the staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
 
             You still have time, so feel free to ponder however much you like…☆
 

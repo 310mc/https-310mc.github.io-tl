@@ -92,7 +92,7 @@ Ossu! Ossuossu—oooossu! OOOOOOOOO—SSU!
 {% endbubble %}
 
 {% bubble Hiiro %}
-…Buchou, you speak too much while you’re doing a set of <em>kumite</em>[^1], don’t you think…?
+…Buchou, you speak too much while doing a set of <em>kumite</em>[^1], don’t you think…?
 
 It’s too dangerous to speak right now; we’re both moving rather intensely. You’ll accidentally bite your tongue if you get hit on the jaw, you know?
 {% endbubble %}
@@ -985,7 +985,7 @@ But… I really dunno what I gotta do to become an adult…
 
 ## Translation Notes
 
-[^1]: This is about <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">Kumite</a>, a karate term.
+[^1]: Kumite is one of the ways to train in karate, involving sparring with someone else. Read more <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">here</a>.
 [^2]: This is referring to <a href="https://en.wikipedia.org/wiki/Amaterasu" target="_blank">Amaterasu</a> is the goddess of the sun in Japanese mythology.
-[^3]: “Taichou” refers to leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
+[^3]: “Taichou” refers to the leader (sometimes translated as Captain). It literally means “Commander”. Since the word in English gets mixed easily with (Club) Captain, I've decided to keep it in Japanese.
 [^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Strawberry_Colored_Holiday" target="_blank">Strawberry Colored Holiday</a>.

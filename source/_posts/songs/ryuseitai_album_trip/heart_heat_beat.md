@@ -63,7 +63,200 @@ permalink: heart_heat_beat/
 <!-- more -->
 
 ## Index
-<a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+<p style="font-size:22px;"><a href="#MV-Size">MV Size Lyrics</a> - <a href="#Full-Lyrics">Full Size Lyrics</a> - <a href="#Translation-Notes">Translation Notes</a></p>
+
+## MV Size
+
+<h4 style="text-align:center;">Heart Heat Beat</h4>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_EML0Miy670589eb7.webp?timestamp=1728416241237 %}
+
+<p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=2Wzc_xVC6Gw" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+
+<table class="lyrics">
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:00</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>“Take one more step forward”</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>You felt as though someone just told you that, didn’t you?</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>From the very moment you were born</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’ve always been pounding out</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>The cheers</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>That beat</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>In your chest</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:23</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>I know how it feels; you can’t help but hesitate, right?</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Anyone would get scared here, it’s always like that at the start</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>But you know, even then — we have to just go for it</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>It’s by going through those experiences over and over that we can grow further</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:45</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>When asked where the heart lies</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Click on the chest!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Everyone points to their chest, right?</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Feel your soul!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>That’s right, no matter the time</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Your true voice inside</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Is something I can always feel — I’m sure you can tell</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>That’s why!</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:09</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’m always transmitting it to you! It flows through your whole body!</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="tetora">Tetora</span></td>
+    <td>The energy of your passionately hot blood stream, I’ll pour my feelings into it</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>“Let’s take one more step forward” — If that’s the reason I exist</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>Then I’ll sing to you, so that I light up a fire in your tiny courage</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>I’m pounding out the cheers that beat in your chest</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:34</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>
+    <em>(Heart Beat! Click on the chest! Heart Beat! Click on the chest!)</em>
+    <br>
+    <em>(Heart Beat! Click on the chest! Heart Beat! Feel your soul!)</em>
+    </td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:43</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>To match the <em>beat</em> your <em>heart</em> is pounding</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span></td>
+    <td>Place the dream you wish to see here</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td><em>(Heart Beat! Click on the chest!)</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span></td>
+    <td>Your whole life will then turn into a song</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span></td>
+    <td>As for ‘me’, I’ll always be by your side, so[^1]</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>Let’s go!</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">2:08</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>“Take one more step forward” — I’ll always convey that to you</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
+    <td>From the very moment you were born, I’ve always been by your side</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>And pounding out the cheers</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>That beat</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>In your chest</td>
+  </tr>
+</table>
+
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
 
@@ -74,7 +267,7 @@ permalink: heart_heat_beat/
 <table class="lyrics">
   <tr>
     <td class="name">All</td>
-    <td>“Take another step further”</td>
+    <td>“Take one more step forward”</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -114,7 +307,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>But you know, even then — we have to make a choice</td>
+    <td>But you know, even then — we have to just go for it</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -170,7 +363,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>“Let’s take another step forward” — If that’s the reason I exist</td>
+    <td>“Let’s take one more step forward” — If that’s the reason I exist</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -190,7 +383,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>But that feeling is your pulse cheering for you to go for the challenge</td>
+    <td>But that’s your pulse cheering for you to go for the challenge</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
@@ -246,11 +439,11 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="midori">Midori</span></td>
-    <td>This energy can change tomorrow, so I’ll go along with the rhythm</td>
+    <td>This energy can change tomorrow, so I’ll ride along the rhythm</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>“Another step further, as far as you can” — It’s all so that I’m able to deliver those words to you</td>
+    <td>“One more step, as far as you can” — It’s all so that I’m able to deliver those words to you</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span> & <span class="shinobu">Shinobu</span></td>
@@ -308,7 +501,7 @@ permalink: heart_heat_beat/
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>“Take another step forward” — I’ll always convey that to you</td>
+    <td>“Take one more step forward” — I’ll always convey that to you</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span> & <span class="tetora">Tetora</span> & <span class="midori">Midori</span></td>
@@ -543,5 +736,11 @@ permalink: heart_heat_beat/
 ## Translation Notes
 
 Heart Heat Beat is a song about the actual heart inside our body. Ryuseitai takes on the “heart” persona, singing to the listener. This is why the singular pronoun of “I” is used instead of the plural “we”.
+
+<a target="_blank" href="https://x.com/y_matwee/status/1843801363551269013">Comment from the lyricist, Matsui Youhei:</a>
+
+> Ryuseitai’s Heart Heat Beat MV released! The composition and arrangement are by Yamamoto Reiji-san!
+
+> Their charm lies in each of them having their own unique individualities, and in this song, there’s Chiaki’s passionate zeal, Kanata’s gentle kindness, Tetora’s striving efforts, Shinobu’s bold courage, and Midori’s healing comfort… We depicted an encouraging song sung by the heart flowing through one’s whole body; as a hybrid that mixes each of their growths. Ryuseitai will always be in our “heart”, and I’m super happy that the choreography of a song I love is also a hybrid of cute and cool!
 
 [^1]: The first-person pronoun in quotations is <em>boku</em>. It’s the only line in the song that has a first-person pronoun in the Japanese lyrics. As Kanata is the one in Ryuseitai who refers to himself with <em>boku</em>, it suits him to sing this line.

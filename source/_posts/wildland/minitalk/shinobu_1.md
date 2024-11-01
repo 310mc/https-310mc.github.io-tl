@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Shinobu Mini Talk: Undecided Menu"
+title: "WILDLAND – Shinobu Mini Talk: A Challenge to Draw a Manga"
 date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Shinobu]
@@ -51,42 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_h66b38f8cEP1NfB1.webp?timestamp=1723043731099 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHyqw66febf13GU5.webp?timestamp=1727971098610 %}
 
-{% bubble Shinobu grin2 %}
-Heeey, Anzu! Are you going to have lunch now?
+{% bubble Shinobu curious %}
+I’ll replace this panel with a new drawing… like this?
+{% endbubble %}
 
-If you’re alright with it, how about you share a table with me! ☆
+{% bubble Shinobu nod %}
+Ooh! Now that looks a lot more like it! Thank you, Anzu-dono!
 
-You see! I actually got extra salary for helping out with something. So food’s on me; feel free to order anything!
+By making a poster with a yonkoma manga, there will surely be more students who’ll find interest in the Ninja Association! ♪ 
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Is it really okay?
+            It looks really good, after all.
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smileconfident %}
-            Yeah. I was actually hoping I could get to have a chat with someone.
+            The reason for that is all thanks to you, Anzu-dono.
 
-            You can consider being my conversation partner as payment. You’ve got some time now, right?
-
-            You’re free until the evening? Then let’s go search for a seat at once! ♪
+            While I do enjoy reading manga, I’m completely unfamiliar with drawing one.
+            {% endbubble %}
+            {% bubble Shinobu grin %}
+            I’m so glad I had someone to give me just the advice I needed!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I could never…!
+            I’m sure you’ll get more people interested.
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu smilesoft %}
-            I’m always indebted to you, y’know? Didn’t you bring refreshments to where I had work the other day?
+            {% bubble Shinobu norsmile %}
+            You believe so too, Anzu-dono?
 
-            I was hoping to repay you for that. So there’s no need to hold back!
-
-            Fufu, then let’s sit here. Now we just need to order something!
+            I don’t necessarily want special attention over this, but wanting to share the things that you do with others is just another part of human nature in the end.
+            {% endbubble %}
+            {% bubble Shinobu smile %}
+            With this manga, I’m sure that will become a reality…♪
 			{% endbubble %}
         </div>
     </div>
@@ -94,45 +98,47 @@ You see! I actually got extra salary for helping out with something. So food’s
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cwgn9Ezx0.webp?timestamp=1723043731013 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7I66febf13O9b4I2.webp?timestamp=1727971099518 %}
 
-{% bubble Shinobu srsthinking %}
-There’s hamburger steak meal, curry rice… Mm~ it’s hard to decide what to eat…!
-
-Kanata said we’ll go eat seafood tonight, so… Maybe I’ll go for a classic deep fried meal?
+{% bubble Shinobu smileexplain %}
+It was actually Isara-dono’s idea to try adding a manga to the poster.
 {% endbubble %}
 
-{% bubble Shinobu norsmile %}
-What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in both of our orders through my Holdhands account!
+{% bubble Shinobu awkward %}
+After receiving such an incredible idea, I felt like I *had* to make use of it, but… Just drawing a yonkoma manga alone almost is a painstaking task, huh~?
+
+I have so much more respect for all the professional manga artists out there now.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’s hard to decide, isn’t it.
+            In that case…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu grin2 %}
-            There’s an abundance of choices in staff cafeteria’s menu, and its tastiness is on par with famous restaurants, so I completely understand how you feel…!
-
-            You still have time, so feel free to ponder however much you like…☆
-
-            While you decide, I’ll think about what I’ll have for dessert!
+            {% bubble Shinobu norsmile2 %}
+            Ahh, if I asked someone who draws manga how its like, I might be able to learn even more.
+            {% endbubble %}
+            {% bubble Shinobu curious %}
+            That being said, I don’t believe there’s anyone I know like that…
+            {% endbubble %}
+            {% bubble Shinobu grin %}
+            You’ll introduce me to someone, Anzu-dono? That would be a massive help! ♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            The stir-fried vegetables meal…
+            The pros are just incredible, aren’t they?
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smile %}
-            Ohh, how healthy! Maybe I’ll go with that, too.
+            They are! They think up everything on their own, from story to the art itself.
 
-            …Huh? There’s eggplants in it?
+            It’s something they wouldn’t be able to accomplish unless they’re someone with a lot of passion and skill.
             {% endbubble %}
-            {% bubble Shinobu sighfrown %}
-            Ahh! If you hadn’t told me that, I would’ve ended up ordering without realizing! Eggplants are the one thing I physically can’t handle!
+            {% bubble Shinobu northinking %}
+            For someone skillful, Mayoi-dono also fits the bill… Perhaps he would surprisingly be able to draw one?
 			{% endbubble %}
         </div>
     </div>
@@ -140,43 +146,51 @@ What will you go with, Anzu? Tell me when you’ve decided, and I’ll put in bo
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_SHI66b38f8cdVhE3.webp?timestamp=1723043731126 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_BW166febf13Hz8H3.webp?timestamp=1727971099453 %}
 
-{% bubble Shinobu grin %}
-—Thanks for the wonderful meal!
-
-So after this, I’m thinking of having a dance practice session.
-
-There’s something about it I’ve been struggling with a little… Could I ask you to take a look at it?
+{% bubble Shinobu curious %}
+You’re suggesting that I upload the manga I drew on social media…?
 {% endbubble %}
+
+{% bubble Shinobu awkward %}
+No, no. It’s merely an amateur’s work, and it’s too embarrassing to upload it~
+{% endbubble %}
+
+{% bubble Shinobu smile %}
+But I did go through all ths effort, so I’ll start by sending it to everyone in Ryuseitai first. Here goes!
+{% endbubble %}
+
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Sure.
+            Did anyone respond?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu grin %}
-            Ooh, I appreciate it!
-
-            I’ve been challenging myself to do pretty advanced choreography lately.
-
-            I feel that with your advice, I’ll be able to improve and grow all the more…☆
+            {% bubble Shinobu smilesoft %}
+            Ah, Midori-kun responded.
+            {% endbubble %}
+            {% bubble Shinobu curious %}
+            “It looks like a yuruchara, so cute”… Huh, I was going for a cool-looking ninja, though…
+            {% endbubble %}
+            {% bubble Shinobu fist %}
+            But I’d rather hear that than someone not liking it, so I’m happy. I’ll thank Midori-kun for the compliment!
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Please leave it to me.
+            Did they all see it?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Shinobu grin2 %}
-            Fuhaha, how reassuring! I expect nothing less from you, Anzu!
+            {% bubble Shinobu nod %}
+            Ah, everyone responded. I’m so happy to see so many positive reactions~♪
             {% endbubble %}
-            {% bubble Shinobu smileexplain %}
-            Oh yeah, you’ve been working independently this year, right?
-
-            If so, then how about us Ryuseitai also request work from you more and more…!
+            {% bubble Shinobu norsmile2 %}
+            Shinkai-dono in particular enjoyed it quite a lot, it seems. “the fish on the right edge is lovely”…
+            {% endbubble %}
+            {% bubble Shinobu northinking %}
+            This was supposed to be a shuriken, but… Now that he mentions it, it does sort of look like a fish too, huh?
 			{% endbubble %}
         </div>
     </div>
@@ -195,7 +209,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/wildland#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/minitalk/shinobu_2" title="Shinobu Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/minitalk/shinobu_2" title="Shinobu Mini Talk: Bouldering Skills"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

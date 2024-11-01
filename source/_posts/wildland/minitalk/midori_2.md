@@ -1,5 +1,5 @@
 ---
-title: "WILDLAND – Midori Mini Talk: In Order To Represent Myself"
+title: "WILDLAND – Midori Mini Talk: Peculiar Illustration"
 date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Midori]
@@ -51,44 +51,46 @@ hidden: true
 
 #### <div mt="rare"></div> 1/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8c5zHExUN0.webp?timestamp=1723043730974 %}
-
-{% bubble Midori norsmile3 %}
-Oh! Anzu. What’s up, do you have something to do at the agency?
-
-—It’s with me? Wait, what you’re holding…
-{% endbubble %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Qghk66febf13uKY4.webp?timestamp=1727971098456 %}
 
 {% bubble Midori smilesoft %}
-Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
+Haah, this soft, loose-looking energy is just perfect…
+{% endbubble %}
+
+{% bubble Midori smileconfident %}
+Ah, Anzu-san! Could you take a look at this?
+
+Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Huh? You knew about it?
+            Is it a drawing of a human…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smile %}
-            Yeah, I actually saw Akehoshi fill in his sheet at the agency desk, so…
+            {% bubble Midori smileexplain %}
+            You’re on the mark, but you’re looking at it from the opposite angle. This is the correct way to look at it.
+            {% endbubble %}
+            {% bubble Midori nod %}
+            The more I look at it, the more there is to enjoy about it… It’s such a soothing drawing to look at, don’t you think?
 
-            I just knew it meant I’d have to fill in my own. It’s hard to decide what to write!
-
-            Let’s see… I have to write my name first, huh? They say a person’s handwriting shows who they are inside, so I’ll be sure to fill it in properly~♪
+            Ahh~ This must be what you call a "God-given talent". This is the one time I want to express my gratitude to God…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Waiting…?
+            Is it a drawing of an alien…?
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smileconfident %}
-            Fufu, I met Isara at the corridors, and he told me that we have to write a self-PR for the audition.
+            {% bubble Midori northinking %}
+            It isn’t, but maybe you could think of it that way depending on how you look at it…?
+            {% endbubble %}
+            {% bubble Midori smile %}
+            Every time I look at it from a different angle, it shows me a different expression. This must be the so-called wonderous drawings, right?
 
-            I was waiting impatiently for the request to come to me next. Right, time to think about what I’ll write…
-
-            If I recall correctly, we have to choose a photo too, right? I can’t decide which to go with at all…♪
+            Anzu-san, thank you for giving me such a beautiful way to look at this~♪
 			{% endbubble %}
         </div>
     </div>
@@ -96,45 +98,47 @@ Ooh, it’s my profile sheet for the audition…! I’ve been waiting for this!
 
 #### <div mt="rare"></div> 2/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZU8Q66b38f8cmSI4.webp?timestamp=1723043730975 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z5nx3T66febf13N6.webp?timestamp=1727971098659 %}
 
-{% bubble Midori srsthinking %}
-Mm~… What’s this “my hashtag” part?
+{% bubble Midori norsmile2 %}
+When I was looking through the Alice in Wonderland storybook at the resting room, Master Artist Fushimi happened to pass by and greet me.
+
+At that moment, I felt like seeing Master Artist Fushimi’s version of Alice in Wonderland…
 {% endbubble %}
 
-{% bubble Midori curious %}
-…“What sort of tags would you use on yourself”? Hm. Hero is a given for me, but I’d like to go with something more intricate.
-
-A hashtag that expresses who I am… What do you think that would be, Anzu?
+{% bubble Midori grin %}
+So I asked him out of the blue, and he agreed to draw me something if I promise to keep it short. I’m so happy…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            That’s a sudden question…
+            The one drawn in the corner is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori northinking %}
-            Hm, I thought for sure you’d have a great idea in mind, though…
-            {% endbubble %}
-            {% bubble Midori smile %}
-            But this is a project specifically to convey who I am to the fans directly, so I should give it a proper thought and decide under my own will.
+            {% bubble Midori smileconfident %}
+            Ah, you’re even looking at the corners, huh…? ♪ This is the Cheshire Cat.
 
-            I’ll keep thinking about it a little more! Look forward to seeing my answers~♪ 
+            Its grinning face looks so loose and adorable, it’s the *best*…
+            {% endbubble %}
+            {% bubble Midori smilesoft %}
+            Oh, I know. I’ll take a photo of it and set it as my phone’s wallpaper. I’ll get to be filled with happiness every time I open my phone now…♪
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            This is quite difficult, isn’t it?
+            The one drawn at the bottom is…
         </div>
         <div class="minitalk-option_content">
-            {% bubble Midori smilesoft %}
-            Haha, it’s hard to think up anything when you’re suddenly asked, right? I feel the same!
-
-            I’ll ask the other participants what they wrote for theirs later.
-
-            Who knows, I might be able to use it as reference!
+            {% bubble Midori smileexplain %}
+            Look at this part more closely. Do you see the clock?
+            {% endbubble %}
+            {% bubble Midori norsmile %}
+            Yes, it’s the white rabbit. It looks so unique with its surprisingly long ears.
+            {% endbubble %}
+            {% bubble Midori northinking %}
+            If it actually existed in real life, I’d gladly adore it every day with hugs… Maybe I’ll commission to get it made…?
 			{% endbubble %}
         </div>
     </div>
@@ -142,43 +146,49 @@ A hashtag that expresses who I am… What do you think that would be, Anzu?
 
 #### <div mt="rare"></div> 3/3
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_66b38f8cZ9P5mhs0.webp?timestamp=1723043730934 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Xhkfv66febf13qT5.webp?timestamp=1727971098578 %}
 
-{% bubble Midori smileconfident %}
-…Alright. Not including the parts I want to think about thoroughly, I’ve filled in most of the areas.
+{% bubble Midori norsmile %}
+I need to prepare the perfect picture frame to put this drawing in.
+{% endbubble %}
 
-Although, I feel a little embarrassed knowing a handwritten message will be shown to the public…
+{% bubble Midori northinking %}
+Maybe I’ll go check out a shop and buy one while on my way home. Was there an art supplies store nearby…?
+{% endbubble %}
 
-But I hope all my fans will be happy to see it. I can’t wait for when they publicize the sheets…♪
+{% bubble Midori curious %}
+Huh? There’s a spare frame in the ES storehouse? But wouldn’t it be wrong of me to have it…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          Yes, definitely.
+          They were planning to dispose of it, so…
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile2 %}
-            There’s still a few days left until the audition, so I’ll have to make sure I’m fully prepared until then.
+            They’re acquiring a storehouse area, so they’re planning to collect everything and dispose of them, huh…
 
-            I don’t know what awaits us over there, but…
+            If it’s going to just get thrown away, then punishment won’t fall on me for taking it, right…?
             {% endbubble %}
-            {% bubble Midori fist %}
-            For the sake of my comrades and my fans supporting me, I just have to do everything within my power to the best of my capabilities!
+            {% bubble Midori smileconfident %}
+            Alright then, may you give it to me at a later time? I’ll then be sure to fit this drawing in perfectly.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Once you’re done writing…
+            I think it would perfectly suit this drawing.
         </div>
         <div class="minitalk-option_content">
+            {% bubble Midori norsmile3 %}
+            Huh, well if you say it so confidently, then it must be true…?
+            {% endbubble %}
+            {% bubble Midori smilesoft %}
+            A picture frame that perfectly suits this drawing, huh… I wonder how it looks like? I hope it has some cute decorations…♪
+            {% endbubble %}
             {% bubble Midori smileexplain %}
-            Ah, yeah! You’ll compile all of the sheets from the agency and send it to the audition’s management team, right?
-
-            I’ll give the rest of the questions a proper thought until the deadline.
-
-            I assure you I won’t forget to submit it, so you can rest at ease there~♪
+            Since you’re going to go through all this effort for me, may I see it first? If I like it, I’ll be glad to take it.
 			{% endbubble %}
         </div>
     </div>
@@ -191,7 +201,7 @@ But I hope all my fans will be happy to see it. I can’t wait for when they pub
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/midori_1" title="Midori Mini Talk: Undecided Menu"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/midori_1" title="Midori Mini Talk: Surprising Dropped Item"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

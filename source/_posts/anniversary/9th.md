@@ -11,7 +11,7 @@ categories:
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
 tags:
 - Happy Elements Staff
-- Extra
+- Special Story
 description: "[ES!!] Translation of 9th Anniversary Ryuseitai content."
 ---
 
