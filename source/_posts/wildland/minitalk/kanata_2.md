@@ -185,7 +185,7 @@ they said it is [okay]\~ we will eat [fish] while [chatting] together\~
             also, if we do it at a [restaurant] instead of the [dorms], then anzu-san can also [join in]. if it is alright, would you like to join us~?
             {% endbubble %}
             {% bubble Kanata smile %}
-            ufufu~♪ then today, let’s all [dress nicely] and have a fun [banquet] with fish~♪
+            ufufu\~♪ then today, let’s all [dress nicely] and have a fun [banquet] with fish\~♪
 			{% endbubble %}
         </div>
     </div>

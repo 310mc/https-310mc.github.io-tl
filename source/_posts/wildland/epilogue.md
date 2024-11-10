@@ -9,8 +9,9 @@ categories:
 - [Enstars, Shinobu]
 tags:
 - Event Story
-description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice In Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
+description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice in Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
 hidden: true
+permalink: wildland/4/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -85,7 +86,7 @@ hidden: true
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/second_half" title="Previous Chapter: Potential and Guiding Star"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/second_half" title="Previous Chapter: Possibility and Guiding Star"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

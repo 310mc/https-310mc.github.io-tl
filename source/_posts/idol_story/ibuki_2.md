@@ -270,7 +270,7 @@ Alright, never mind then! Can’t do anything about that, right\~? When in Rome,
 {% endbubble %}
 
 {% bubble Ibuki smileconfident %}
-It’s just ‘cause I’m not seeking value from physical strength only\~. You said that you’re an idol, and idols shouldn’t engage in any violence— but I’m also an idol who got scouted by Yoshihide the other day\~.
+It’s just ‘cause I’m not seeking value from physical strength only\~. You said that you’re an idol, and idols engaging in any violence is a no-go — but I’m also an idol who got scouted by Yoshihide the other day\~.
 
 So you and I will have a match as idols~♪
 {% endbubble %}

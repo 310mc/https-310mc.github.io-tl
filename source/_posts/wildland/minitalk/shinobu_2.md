@@ -54,7 +54,7 @@ hidden: true
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_3lKi66febf13KEI4.webp?timestamp=1727971102957 %}
 
 {% bubble Shinobu smileconfident %}
-Ah, there’s an outdoors bouldering area for children!
+Ah, they are having an outdoors bouldering course designed for children!
 
 Anzu-dono, have you ever tried bouldering before?
 {% endbubble %}
@@ -87,10 +87,10 @@ I went to a bouldering place with Morisawa-dono and Tetora-kun just a little whi
             {% bubble Shinobu smile %}
             Ahaha. As you thought, we were all able to climb up the rocks easily.
 
-            It was a lot of fun, so I also invited Midori-kun and Shinkai-dono to come with us next time, but…
+            It was a lot of fun, so I also invited Midori-kun and Shinkai-dono to come with us next time.
             {% endbubble %}
             {% bubble Shinobu awkward %}
-            Midori-kun wouldn’t look me in the eye after that, and Shinkai-dono went off to soak in water, so I didn’t get a good response from either of them…
+            But… Midori-kun wouldn’t look me in the eye when I asked, and Shinkai-dono went off to soak in water, so I didn’t get a good response from either of them…
 			{% endbubble %}
         </div>
     </div>
@@ -101,7 +101,7 @@ I went to a bouldering place with Morisawa-dono and Tetora-kun just a little whi
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_oGR94G66febf13y6.webp?timestamp=1727971099811 %}
 
 {% bubble Shinobu smile %}
-Morisawa-dono, Tetora-kun and I all managed to climb with ease, so the staff praised us for our skills.
+Morisawa-dono, Tetora-kun and I all managed to climb up with ease, so the staff praised us for our skills.
 
 They even invited us to join a small upcoming competition.
 {% endbubble %}
@@ -170,7 +170,7 @@ I had also gotten stuck in a similar spot once upon a time. I might be able to b
             This is a bit troubling… Hm, I wonder if it’d be alright to at least cheer the child on?
             {% endbubble %}
             {% bubble Shinobu smile %}
-            I’ll head on over! Thank you, Anzu-dono!
+            I’ll head on over! You have my gratitude, Anzu-dono!
 			{% endbubble %}
         </div>
     </div>

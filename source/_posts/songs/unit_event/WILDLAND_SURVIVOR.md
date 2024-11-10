@@ -74,11 +74,152 @@ hidden: true
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
+
+<table class="lyrics">
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:12</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>The sky, akin to a sinking world</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
+    <td>Glaring at that sky — this is the page that marks the beginning</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
+    <td>Within the eyes that glimmer in the darkness, you</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td>Have a shadow that almost seems to recoil — stealthily shutting it back in <em>Ah,</em></td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:29</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
+    <td>Driven by an unexplainable urge</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
+    <td>The only thing you’re aware of is that you’ve no choice but to make a choice</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
+    <td>Correctness doesn’t exist</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
+    <td>What exists is the pathless path of the unknown[^1]</td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>The moment you take the first step, you set off on a journey</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">0:44</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>
+    <em>Into the WILDLAND</em>
+    <br>
+    The scorching hot desire lies in wait for you
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>While achieving our dream, we become aware of it</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>Grabbing hold of our ego that has just awoken <em>Ah,</em></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>We will survive</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:19</span></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="midori">Midori</span></td>
+    <td>This is <em>WILDLAND</em></td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Shinobu">Shinobu</span></td>
+    <td>The scorching hot desire</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Chiaki">Chiaki</span></td>
+    <td>Lies in wait for you</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Kanata">Kanata</span></td>
+    <td>While achieving our dream, we become aware of it</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="Tetora">Tetora</span></td>
+    <td>Grabbing hold of our ego that has just awoken <em>Ah,</em></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>We will survive</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:38</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>Not even the common sense you believed in will protect you here</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
+    <td>While seeking out our dream, we chase after it</td>
+  </tr>
+  <tr>
+    <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
+    <td>Even if it’s stolen from us, we will never give up <em>Ah,</em></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>We will fight</td>
+  </tr>
+  <tr>
+    <td class="timestamp name"></td>
+    <td class="timestamp"><span class="timestamp">1:54</span></td>
+  </tr>
+  <tr>
+    <td class="name">All</td>
+    <td>
+    <em>(Be the WILDLAND SURVIVOR…)</em>
+    <br>
+    In order to survive
+    <br>
+    Keep on moving forward
+    </td>
+  </tr>
+  <tr>
+    <td class="name"><span class="tetora">Tetora</span></td>
+    <td><em>Let’s be alive! Let’s be alive!</em></td>
+  </tr>
+</table>
+
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
 
 <h4 style="text-align:center;">WILDLAND SURVIVOR</h4>
+
+<p style="text-align:center;font-size:15px;"><b>Note:</b> <em>Italics</em> indicate the lyrics sung in English.</p>
 
 <table class="lyrics">
   <tr>
@@ -87,15 +228,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="kanata">Kanata</span></td>
-    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
+    <td>Glaring at that sky — this is the page that marks the beginning</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
-    <td>There lies a place we will reach someday, after transcending the turbulence of time and space</td>
+    <td>Within the eyes that glimmer in the darkness, you</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>The sky, akin to a sinking world</td>
+    <td>Have a shadow that almost seems to recoil — stealthily shutting it back in <em>Ah,</em></td>
   </tr>
   <tr>
     <td><br></td>
@@ -103,23 +244,23 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="chiaki">Chiaki</span></td>
-    <td>A halation for encounters</td>
+    <td>Driven by an unexplainable urge</td>
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>Now, to all the stars being born</td>
+    <td>The only thing you’re aware of is that you’ve no choice but to make a choice</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing; “you’re already one of us”</td>
+    <td>Correctness doesn’t exist</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>We’ll convey that to you</td>
+    <td>What exists is the pathless path of the unknown[^1]</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>We’ll convey that to you</td>
+    <td>The moment you take the first step, you set off on a journey</td>
   </tr>
   <tr>
     <td><br></td>
@@ -128,22 +269,22 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    Go forth! We will never, never stop in our tracks
+    <em>Into the WILDLAND</em>
     <br>
-    Tearing through the darkness
+    The scorching hot desire lies in wait for you
     </td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+    <td>While achieving our dream, we become aware of it</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+    <td>Grabbing hold of our ego that has just awoken <em>Ah,</em></td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Today, too, a new radiance protects the Earth</td>
+    <td>We will survive</td>
   </tr>
   <tr>
     <td><br></td>
@@ -151,19 +292,19 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>“The space kaijuu’s shown itself!”</td>
+    <td>The moment you think you’re lost, then you’ll always find some way</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>“But, it’ll be alright…”</td>
+    <td>To blame it on someone else, won’t you?</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>“As long as we’re here!”</td>
+    <td>If guidance is what you want, then try taking our hand</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>“For the heart of justice always resides right here within us!”</td>
+    <td>You may then run off whenever you like</td>
   </tr>
   <tr>
     <td><br></td>
@@ -171,23 +312,23 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>If you find yourself bound to the past that keeps repeating itself</td>
+    <td>When you’re anxious over the unforeseeable future, you feel paralyzed[^2]</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
-    <td>Then let’s recall</td>
+    <td>But there’s no need to fear that at all</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>The courage</td>
+    <td>That’s right, until you finally reach it[^3]</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
-    <td>To strip off those hesitations</td>
+    <td>Through this unknown path, you simply</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>We filled our energy for tomorrow</td>
+    <td>Just have to devote yourself to moving forward</td>
   </tr>
   <tr>
     <td><br></td>
@@ -196,22 +337,22 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    An explosion for the sake of survival
+    This is <em>WILDLAND</em>
     <br>
-    TBA
+    Not even the common sense you believed in will protect you here
     </td>
   </tr>
   <tr>
     <td class="name"><span class="Tetora">Tetora</span> & <span class="Midori">Midori</span> & <span class="Kanata">Kanata</span></td>
-    <td>There is no need to fear</td>
+    <td>While seeking out our dream, we chase after it</td>
   </tr>
   <tr>
     <td class="name"><span class="Shinobu">Shinobu</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Let’s sing, until the universe expands</td>
+    <td>Even if it’s stolen from us, we will never give up <em>Ah,</em></td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Beyond any limitation</td>
+    <td>We will fight</td>
   </tr>
   <tr>
     <td><br></td>
@@ -219,27 +360,27 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>Go forth! We will never let go of our passionate, passionate enthusiasm as we head forward<br>No matter, no matter what happens, never stop moving</td>
+    <td>This is <em>WILDLAND</em></td>
   </tr>
   <tr>
     <td class="name"><span class="Shinobu">Shinobu</span></td>
-    <td>Within the future where we’ve overcome our obstacles, we’ll be able to smile again</td>
+    <td>The scorching hot desire</td>
   </tr>
   <tr>
     <td class="name"><span class="Chiaki">Chiaki</span></td>
-    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+    <td>Lies in wait for you</td>
   </tr>
   <tr>
     <td class="name"><span class="Kanata">Kanata</span></td>
-    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+    <td>While achieving our dream, we become aware of it</td>
   </tr>
   <tr>
     <td class="name"><span class="Tetora">Tetora</span></td>
-    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+    <td>Grabbing hold of our ego that has just awoken <em>Ah,</em></td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Hold onto that belief to the very end — in this place where stars are born</td>
+    <td>We will survive</td>
   </tr>
   <tr>
     <td><br></td>
@@ -247,19 +388,19 @@ hidden: true
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>Go forth!</td>
+    <td>Not even the common sense you believed in will protect you here</td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
-    <td>We will never, never stop in our tracks</td>
+    <td>While seeking out our dream, we chase after it</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>Tearing through the darkness</td>
+    <td>Even if it’s stolen from us, we will never give up <em>Ah,</em></td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>We’ll fire off a powerful, powerful light</td>
+    <td>We will fight</td>
   </tr>
   <tr>
     <td><br></td>
@@ -268,16 +409,16 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    Just like a comet
+    <em>(Be the WILDLAND SURVIVOR…)</em>
     <br>
-    TBA
+    In order to survive
     <br>
-    TBA
+    Keep on moving forward
     </td>
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>No matter how many times we burn out, we’ll be reborn once more</td>
+    <td><em>Let’s be alive! Let’s be alive!</em></td>
   </tr>
 </table>
 

@@ -8,7 +8,7 @@ tags:
 - Story Index
 - Event Story
 - Unspecified Writer
-description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice In Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
+description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice in Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
 permalink: wildland/
 hidden: true
 ---
@@ -18,12 +18,12 @@ hidden: true
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">WILDLAND</div>
-                <div class="title-area__subtitle">Full Speed ◆ Chase Chesire in WILDLAND</div>
+                <div class="title-area__subtitle">Full Speed ◆ Chase Cheshire in WILDLAND</div>
                 <div class="title-area__start"><a href="/wildland/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice In Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.
+                    Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice in Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -116,14 +116,14 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
             </div>
             <div class="title-area">
                 <div class="title-area__title">WILDLAND</div>
-                <div class="title-area__subtitle">Full Speed ◆ Chase Chesire in WILDLAND</div>
+                <div class="title-area__subtitle">Full Speed ◆ Chase Cheshire in WILDLAND</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                   Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice In Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.<!-- 『不思議の国のアリス』からインスピレーションを得た大規模イベント【ワイルドランド】に抜擢された『流星隊』。秩序を失い荒廃したワイルドな世界観を表現するため、隊長を務める鉄虎は四苦八苦する。-->
+                   Ryuseitai is selected to take part in ‘WILDLAND’, a large-scale event inspired by Alice in Wonderland. As the commander, Tetora thoroughly struggles to figure out how to present the image of a desolate, wild world that has lost all order.<!-- 『不思議の国のアリス』からインスピレーションを得た大規模イベント【ワイルドランド】に抜擢された『流星隊』。秩序を失い荒廃したワイルドな世界観を表現するため、隊長を務める鉄虎は四苦八苦する。-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -197,7 +197,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                 Event
                             </div>
                             <div class="value">
-                                Full Speed ◆ Chase Chesire in WILDLAND<!--激走◆チェイス・チェシャ in WILDLAND-->
+                                Full Speed ◆ Chase Cheshire in WILDLAND<!--激走◆チェイス・チェシャ in WILDLAND-->
                             </div>
                         </div>
                         <div class="tab-item">
@@ -237,7 +237,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_K32Wm66e72235Rf5.webp?timestamp=1726423611821">
                                 </div>
                                 <div class="caption">
-                                    Potential and Guiding Star 2
+                                    Possibility and Guiding Star 2
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -467,7 +467,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="first_half" id="">The Tiger Searches Around</a>
                         </li>
                         <li>
-                            <a href="second_half" id="">Potential and Guiding Star</a>
+                            <a href="second_half" id="">Possibility and Guiding Star</a>
                         </li>
                         <li>
                             <a href="epilogue" id="">Epilogue</a>

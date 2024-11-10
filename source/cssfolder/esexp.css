@@ -67,7 +67,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_horrified.png");
 }
 [character="Midori"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_idle.png");
 }
 [character="Midori"][nod] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_nod.png");
@@ -286,7 +286,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_horrified.png");
 }
 [character="Chiaki"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_neutral.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_idle.png");
 }
 [character="Chiaki"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiaki_niya.png");
@@ -575,7 +575,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_hmphright.png");
 }
 [character="Kanata"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_idle.png");
 }
 [character="Kanata"][niyaclosed] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_niyaclosed.png");
@@ -867,7 +867,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_horrified.png");
 }
 [character="Shinobu"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_idle.png");
 }
 [character="Shinobu"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_niya.png");
@@ -1070,7 +1070,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_horrified.png");
 }
 [character="Tetora"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_serious.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_idle.png");
 }
 [character="Tetora"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_niya.png");

@@ -133,7 +133,7 @@ I have so much more respect for all the professional manga artists out there now
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smile %}
-            They are! They think up everything on their own, from story to the art itself.
+            They certainly are! They think up everything on their own, from story to the art itself.
 
             It’s something they wouldn’t be able to accomplish unless they’re someone with a lot of passion and skill.
             {% endbubble %}
@@ -187,7 +187,7 @@ But I did go through all ths effort, so I’ll start by sending it to everyone i
             Ah, everyone responded. I’m so happy to see so many positive reactions~♪
             {% endbubble %}
             {% bubble Shinobu norsmile2 %}
-            Shinkai-dono in particular enjoyed it quite a lot, it seems. “the fish on the right edge is lovely”…
+            Shinkai-dono in particular enjoyed it quite a lot, it seems. “The fish on the right edge is lovely”…
             {% endbubble %}
             {% bubble Shinobu northinking %}
             This was supposed to be a shuriken, but… Now that he mentions it, it does sort of look like a fish too, huh?

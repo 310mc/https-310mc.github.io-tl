@@ -828,7 +828,7 @@ I thought we’d already made our national debut as idols a long time ago, thoug
 {% endbubble %}
 
 {% bubble Midori sightired %}
-He really only ever does unnecessary things. Now I’ll have <em>more</em> things on me to deal with…
+He really only ever does unnecessary things. Now I’ll have <em>more</em> things to deal with…
 {% endbubble %}
 
 {% bubble Shinobu idle %}
@@ -870,7 +870,7 @@ Tattsun-senpai, c’mon, hurry~! The audition program’s already starting!
 {% endbubble %}
 
 {% bubble Aira frownshake %}
-Gosh, why is it that today of all days is when our meeting takes forever to end?
+Gosh, why is it that today of all days is when our meeting takes *forever* to end?
 {% endbubble %}
 
 {% bubble Shinobu norsmile %}

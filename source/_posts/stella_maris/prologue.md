@@ -228,7 +228,7 @@ yees~ it is my turn to be [happy] this time~♪
 {% endbubble %}
 
 {% bubble Tetora serious %}
-Ossu. Except, while Midori-kun, Shinobu-kun, and I got to experience being the commander lots’a times already, Shinkai-senpai was the only one who stubbornly didn’t take on the role ‘til now.
+Ossu. Except, while Midori-kun, Shinobu-kun, and I got to experience being the commander lots’a times already, Shinkai-senpai was the only one who stubbornly didn’t take on the role ‘til now—
 {% endbubble %}
 
 {% bubble Kanata scold %}
@@ -325,12 +325,12 @@ Kya-kya! ☆ Kya-kya! ☆
 ## Translation Notes
 
 [^1]: Kanata says <em>one, two, san</em>, switching from English to Japanese for the numbering.
-[^2]: Originally, Kanata and Chiaki say <em>yuzurenai</em>, lit. "refuse to yield". It's a word that sometimes appears in Ryuseitai's songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="/goshoku_no_shooting_star" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength we each possess).
-[^3]: For clarification, “commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words almost interchangeably in the story.
+[^2]: Originally, Kanata and Chiaki say <em>yuzurenai</em>, lit. “refuse to yield”. It's a word that sometimes appears in Ryuseitai's songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="/goshoku_no_shooting_star" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength we each possess).
+[^3]: “Commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words interchangeably in the story.
 [^4]: For further context, please see <a href="/supervillain" target="_blank">Supervillain</a>, which showed Tetora as the leader. By the end of that story, Ryuseitai decides to take turns being the leader. You can also see Midori’s turn as the leader in <a href="/tropical" target="_blank">Tropical</a>.
 [^5]: This is shown in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^6]: The title <em>taichou</em> refers to leader (sometimes translated as Captain). It literally means “Commander”.
 [^7]: Pufferfish are a delicacy in Japan called <em>fugu</em>, and have to be prepared thoroughly by a qualified chef to remove the toxins. See <a href="https://savorjapan.com/contents/more-to-savor/eating-fugu-the-deadly-and-delicious-japanese-pufferfish/" target="_blank">here</a>.
-[^8]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it’s said to be a fish for festivities. One interesting note is that it has a common saying related to it: "Even if it’s rotten, it’s still sea bream", due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
+[^8]: Sea bream (<em>tai</em>) are significant in Japanese culture, and it’s said to be a fish for festivities. One interesting note is that it has a common saying related to it: “Even if it’s rotten, it’s still sea bream”, due to its high value even if it spoils, and also because the fish stays fresh much longer than other fishes. Read more <a href="https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202305/202305_01_en.html" target="_blank">here</a>.
 [^9]: Kamaboko is a kind of fish cake, made with pureed fish meat. See <a href="https://en.wikipedia.org/wiki/Kamaboko" target="_blank">here</a>.
 [^10]: The “fish” in fish Ryuseitai is in hiragana, and “Ryuseitai” remains in kanji. Kanata talks only in hiragana, so to match that, I kept the word in hiragana as well. Together, the name lit. means “fish shooting star/meteor squad”.

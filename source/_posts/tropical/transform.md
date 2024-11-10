@@ -284,7 +284,7 @@ I’ll do my best to meet the expectations of ‘Tropical Troppeys’…♪
     <p>A few days later, on the weekend…</p>
 </div>
 
-{% bubble Midori sighfrown %}
+{% bubble Midori frownshake %}
 It’s almost time for the bonding event… I’m so nervous…!
 {% endbubble %}
 

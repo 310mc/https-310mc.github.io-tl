@@ -75,7 +75,7 @@ Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
             {% bubble Midori nod %}
             The more I look at it, the more there is to enjoy about it… It’s such a soothing drawing to look at, don’t you think?
 
-            Ahh~ This must be what you call a "God-given talent". This is the one time I want to express my gratitude to God…♪
+            Ahh~ This must be what you call a “God-given talent”. This is the one time I want to express my gratitude to God…♪
 			{% endbubble %}
         </div>
     </div>
@@ -101,13 +101,13 @@ Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_z5nx3T66febf13N6.webp?timestamp=1727971098659 %}
 
 {% bubble Midori norsmile2 %}
-When I was looking through the Alice in Wonderland storybook at the resting room, Master Artist Fushimi happened to pass by and greet me.
+When I was looking through storybook of Alice in Wonderland at the resting room, Master Artist Fushimi happened to pass by and greet me.
 
 At that moment, I felt like seeing Master Artist Fushimi’s version of Alice in Wonderland…
 {% endbubble %}
 
 {% bubble Midori grin %}
-So I asked him out of the blue, and he agreed to draw me something if I promise to keep it short. I’m so happy…♪
+So I asked him out of the blue, and he agreed to draw me something if I promised to keep it short. I’m so happy…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -138,7 +138,7 @@ So I asked him out of the blue, and he agreed to draw me something if I promise 
             Yes, it’s the white rabbit. It looks so unique with its surprisingly long ears.
             {% endbubble %}
             {% bubble Midori northinking %}
-            If it actually existed in real life, I’d gladly adore it every day with hugs… Maybe I’ll commission to get it made…?
+            If it actually existed in real life, I’d gladly adore it every day with hugs… Maybe I’ll commission someone to get it made…?
 			{% endbubble %}
         </div>
     </div>

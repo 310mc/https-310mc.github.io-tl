@@ -119,9 +119,9 @@ It’s perfect? I’m glad to hear it, then…♪
             {% bubble Midori norsmile %}
             No, not anything in particular… It’s just that I don’t dislike doing DIY stuff.
 
-            You’re pretty dexterious, Anzu-san, so once you get used to it, I’m sure you could do it even better than I ever have.
+            You’re pretty dexterious, Anzu-san, so once you get used to it, I’m sure you could do it even better than I ever could.
 
-            Ah, let me send you a DIY site I use a lot.
+            Ah, let me send you a DIY site I go to often.
 			{% endbubble %}
         </div>
     </div>
@@ -136,7 +136,7 @@ It’s perfect? I’m glad to hear it, then…♪
             One of Aoba-senpai’s furniture broke, and he seemed to be in a lot of trouble over it, so I helped him out.
             {% endbubble %}
             {% bubble Midori smile %}
-            Tenma-kun joined in to help us too, so we got it fixed up pretty quickly. I was really glad we got it done without any problems.
+            Tenma-kun joined in to help too, so we got it fixed up pretty quickly. I was really glad we got it done without any problems.
 			{% endbubble %}
         </div>
     </div>
@@ -151,7 +151,7 @@ Something fell off the edge of the shelf… Maybe something that was stuck on th
 {% endbubble %}
 
 {% bubble Midori surprised %}
-…I-Isn’t this a sticker of ’Tropical Troppeys’!?
+…I-Isn’t this a sticker of ’Tropical Troppeys’!?[^1]
 
 And it’s a *super* rare one at that! Only *five* of these were ever made…! It’s not as sticky anymore, but I want it so bad…!
 {% endbubble %}
@@ -166,7 +166,7 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
             Are you sure!? But it’s a super valuable premium sticker, y’know…?
             {% endbubble %}
             {% bubble Midori norsmile %}
-            You’re right, to someone who isn’t interested in this sort of thing, they wouldn’t see any value in it, so… This might just get thrown away if nobody takes it.
+            Ah, you’re right, to someone who isn’t interested in this sort of thing, they wouldn’t see any value in it, so… This might just get thrown away if nobody takes it.
             {% endbubble %}
             {% bubble Midori smile %}
             In that case, I’d be glad to have it. Thank you so much…♪
@@ -185,7 +185,7 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
             Either way, it doesn’t seem like it was treasured much, so is it alright if I have it?
             {% endbubble %}
             {% bubble Midori grin %}
-            Thank you so much…♪ I’ll clean this little one up by myself and treasure it for life, I assure you that.
+            Thank you so much…♪ I’ll clean this little guy up by myself and treasure it for life, I assure you that.
 			{% endbubble %}
         </div>
     </div>
@@ -209,3 +209,5 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
         </div>
     </div>
 </div>
+
+[^1]: These are the mascots that played a big role in Midori’s center event where he acts as the leader, <a href="/tropical" target="_blank">Tropical</a>.
