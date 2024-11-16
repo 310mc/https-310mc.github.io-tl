@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Kanata Mini Talk: boasting one’s strength"
-date: 2024/9/16 9:07:00
+date: 2024/11/14 9:06:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
 description: "[ES!!] Kanata’s second Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -90,7 +89,7 @@ look, i can easily carry this much [with ease]…♪
             {% bubble Kanata smilesoft2 %}
             i was never particularly prideful about being [strong], but…
 
-            when i helped the [little child] carry their package, they looked so happy complimenting me, so i could not help but feel so happy as well.
+            when i helped the [little child] carry their package, they looked so happy complimenting me, so i could not help but feel happy as well.
 			{% endbubble %}
         </div>
     </div>
@@ -101,13 +100,13 @@ look, i can easily carry this much [with ease]…♪
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_YkEA66febf13l094.webp?timestamp=1727971099137 %}
 
 {% bubble Kanata norsmile3 %}
-i do not particularly do any [strength training], but maybe it would be nice to try it out together with chiaki and tetora next time, yes~?
+i do not do any [strength training] in particular, but maybe it would be nice to try it out together with chiaki and tetora next time, don’t you think~?
 
-if i could build even more [muscle] than how i am now, i might be able to lift anzu-san up and [dance] with you just like that.
+if i could build even more [muscle] than what i have right now, i might be able to lift anzu-san up and even [dance] with her just like that.
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
-actually, i might be able to do that right now. what do you think, shall we give it a shot?
+actually, i might be able to do that now, too. what do you think, shall we give it a shot?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -120,7 +119,7 @@ actually, i might be able to do that right now. what do you think, shall we give
             is that so? i thought it would be fun to do, so that is a shame…
             {% endbubble %}
             {% bubble Kanata awkward %}
-            ah, but if i [made] a [mistake], it would cause even more trouble.
+            ah, but if i [made] a [mistake], it would cause more problems.
 
             so even if i do build more [muscle] eventually, it is probably best i do not go ahead with this idea, wouldn’t it?
 			{% endbubble %}
@@ -132,13 +131,13 @@ actually, i might be able to do that right now. what do you think, shall we give
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata smileconfident %}
-            fufu, someone else, you say? who do you think would be good?
+            fufu, someone else, you say? i wonder who would be good?
             {% endbubble %}
             {% bubble Kanata northinking %}
-            i feel like midori and tetora would be against it, but shinobu might hop on the idea, maybe~?
+            i could see midori and tetora being against it, but shinobu would hop on the idea, maybe~?
             {% endbubble %}
             {% bubble Kanata smile %}
-            i think people like rei or wataru, or even kaoru, would be willing to try it out…♪
+            i feel like people like rei or wataru, or even kaoru, would be willing to try it out…♪
 			{% endbubble %}
         </div>
     </div>
@@ -165,9 +164,9 @@ they said it is [okay]\~ we will eat [fish] while [chatting] together\~
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata norsmile3 %}
-            yes. if we have our chat at the dorms, other people could [join] us, too.
+            yes. if we chat at the dorms, others could [join] us, too.
 
-            and there is a lot of [fish] in the [fridge], so we will cook with that…
+            and there is a lot of [fish] in the [fridge], so we can cook with that…
             {% endbubble %}
             {% bubble Kanata grin %}
             fufu, i think it will be a very [fulfilling day], don’t you think?

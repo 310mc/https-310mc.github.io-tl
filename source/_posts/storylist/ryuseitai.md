@@ -119,6 +119,7 @@ Notes:
 <ul class="list2"><li>For Kanata, bonus story to read is <a href="/abyss" target="_blank">ABYSS</a>!</li>
 <li>For Shinobu, bonus stories are <u>Atlantis</u> and <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>!</li></ul></li>
 <li><strong><a href="/vs_gourmet" target="_blank">VS★GOURMET</a></strong> → Mainly focuses on Chiaki, but the rest of Ryuseitai also appear and hold a very crucial role in Chiaki's activities!</li>
+<li><strong><a href="/wildland" target="_blank">WILDLAND</a></strong></li>
 </ul>
 
 ### Feature Scouts (!! Era)

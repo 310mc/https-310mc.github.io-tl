@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Midori Mini Talk: Surprising Dropped Item"
-date: 2024/9/16 9:06:00
+date: 2024/11/14 9:03:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!!] Midori’s first Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -73,16 +72,16 @@ It seems like a lot of work, so if you’re alright with it, I’ll help you out
             It doesn’t look that way to me at all, though…? You clearly looked to be struggling, y’know…?
             {% endbubble %}
             {% bubble Midori sighfrown %}
-            Ah, I’m sorry for talking so arrogantly. I’m not even skilled at this myself…
+            Ah, I’m sorry for how arrogant I sounded. I’m not even skilled at this myself…
             {% endbubble %}
             {% bubble Midori norsmile %}
-            But I’ve got the free time right now, so you don’t have to hold back at all.
+            But I’ve got the free time right now, so you don’t have to hold back, really.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Maybe I’ll take up on that offer…
+            Maybe I’ll take you up on that offer…
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile3 %}
@@ -103,11 +102,11 @@ It seems like a lot of work, so if you’re alright with it, I’ll help you out
 {% bubble Midori smileexplain %}
 …There we go. I think I managed to fix the shaky part back in place.
 
-But I’m no professional, so if it looks badly unsteady again, please ask for a handyman, okay?
+But I’m no professional, so if it’s looking bad again, please ask for a handyman, okay?
 {% endbubble %}
 
 {% bubble Midori smilesoft %}
-It’s perfect? I’m glad to hear it, then…♪
+It’s perfect? I’m glad then…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -117,11 +116,11 @@ It’s perfect? I’m glad to hear it, then…♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile %}
-            No, not anything in particular… It’s just that I don’t dislike doing DIY stuff.
+            No, nothing in particular… It’s just that I don’t dislike doing DIY stuff.
 
             You’re pretty dexterious, Anzu-san, so once you get used to it, I’m sure you could do it even better than I ever could.
 
-            Ah, let me send you a DIY site I go to often.
+            Ah, let me send you the DIY site I usually look through.
 			{% endbubble %}
         </div>
     </div>
@@ -131,12 +130,12 @@ It’s perfect? I’m glad to hear it, then…♪
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile %}
-            Yeah, lately at least. I fixed something up at my dorm room just the other day.
+            Yeah, lately at least.[^1] I fixed something up at my dorm room just the other day.
 
             One of Aoba-senpai’s furniture broke, and he seemed to be in a lot of trouble over it, so I helped him out.
             {% endbubble %}
             {% bubble Midori smile %}
-            Tenma-kun joined in to help too, so we got it fixed up pretty quickly. I was really glad we got it done without any problems.
+            Tenma-kun joined in to help too, so it got fixed up pretty quickly. I was really glad we got it done without any problems.
 			{% endbubble %}
         </div>
     </div>
@@ -147,11 +146,11 @@ It’s perfect? I’m glad to hear it, then…♪
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_4vSHk66febf13jo5.webp?timestamp=1727971099136 %}
 
 {% bubble Midori curious %}
-Something fell off the edge of the shelf… Maybe something that was stuck on the shelf fell off while we were fixing it?
+Something fell off the edge of the shelf… Maybe something that was stuck on the shelf fell out while we were fixing it?
 {% endbubble %}
 
 {% bubble Midori surprised %}
-…I-Isn’t this a sticker of ’Tropical Troppeys’!?[^1]
+…T-This is a sticker of ‘Tropical Troppeys’!?[^2]
 
 And it’s a *super* rare one at that! Only *five* of these were ever made…! It’s not as sticky anymore, but I want it so bad…!
 {% endbubble %}
@@ -175,17 +174,17 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Why was it here…?
+            Why is it here…?
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori northinking %}
-            It really is strange. Maybe someone who isn’t that interested in yuruchara got a hold of it by coincidence, and then stuck it on the edge of the shelf?
+            Yeah, it really is strange. Maybe someone who isn’t that interested in yuruchara happened to get a hold of it, and then stuck it on the edge of the shelf?
             {% endbubble %}
             {% bubble Midori curious %}
             Either way, it doesn’t seem like it was treasured much, so is it alright if I have it?
             {% endbubble %}
             {% bubble Midori grin %}
-            Thank you so much…♪ I’ll clean this little guy up by myself and treasure it for life, I assure you that.
+            Thank you so much…♪ I’ll tidy up this little guy up all by myself and treasure it for life, I assure you that.
 			{% endbubble %}
         </div>
     </div>
@@ -210,4 +209,5 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
     </div>
 </div>
 
-[^1]: These are the mascots that played a big role in Midori’s center event where he acts as the leader, <a href="/tropical" target="_blank">Tropical</a>.
+[^1]: There’s a story about Midori and DIY, called <a href="/lets_try_diy" target="_blank">Let’s Try DIY</a>.
+[^2]: These are the mascots that played a big role in Midori’s center event where he acts as the leader, <a href="/tropical" target="_blank">Tropical</a>.

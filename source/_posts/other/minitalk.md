@@ -950,3 +950,130 @@ permalink: minitalk/
 </div>
 
 <div style="margin-top:10px">{% btn /vs_gourmet,, star, Index %}</div>
+
+### WILDLAND
+
+<div class="stories">
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_oE66e72235BsrSb2.webp?timestamp=1726423611216"
+                alt="Generosity In Everyday Life"
+            />
+        </div>
+        <a href="/wildland/minitalk/tetora_1" class="storyName" target="_blank">
+            <span>1: Generosity In Everyday Life</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381"
+                alt="Stylish Sports Equipment"
+            />
+        </div>
+        <a href="/wildland/minitalk/tetora_2" class="storyName" target="_blank">
+            <span>2: Stylish Sports Equipment</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ur7dv66e72235AS5.webp?timestamp=1726423610977"
+                alt="Challenge to Draw a Comic"
+            />
+        </div>
+        <a href="/wildland/minitalk/shinobu_1" class="storyName" target="_blank">
+            <span>1: Challenge to Draw a Comic</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_4Z66e72235QXemr2.webp?timestamp=1726423611373"
+                alt="Bouldering Skills"
+            />
+        </div>
+        <a href="/wildland/minitalk/shinobu_2" class="storyName" target="_blank">
+            <span>2: Bouldering Skills</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_YtlqfC66e72235M6.webp?timestamp=1726423611093"
+                alt="fish [drawing]"
+            />
+        </div>
+        <a href="/wildland/minitalk/kanata_1" class="storyName" target="_blank">
+            <span>1: fish [paintings]</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Bs14466e72235WH5.webp?timestamp=1726423611695"
+                alt="boasting one's strength"
+            />
+        </div>
+        <a href="/wildland/minitalk/kanata_2" class="storyName" target="_blank">
+            <span>2: boasting one's strength</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_66e72235jo3JaKz0.webp?timestamp=1726423611341"
+                alt="Surprising Dropped Item"
+            />
+        </div>
+        <a href="/wildland/minitalk/midori_1" class="storyName" target="_blank">
+            <span>1: Surprising Dropped Item</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_go0HMa66e72235r6.webp?timestamp=1726423611209"
+                alt="Peculiar Illustration"
+            />
+        </div>
+        <a href="/wildland/minitalk/midori_2" class="storyName" target="_blank">
+            <span>2: Peculiar Illustration</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_XalO5av66e722357.webp?timestamp=1726423611236"
+                alt="Playing With Cats"
+            />
+        </div>
+        <a href="/wildland/minitalk/chiaki_1" class="storyName" target="_blank">
+            <span>1: Playing With Cats</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_0xa66e72235PTgw3.webp?timestamp=1726423611357"
+                alt="Wild-like Behavior"
+            />
+        </div>
+        <a href="/wildland/minitalk/chiaki_2" class="storyName" target="_blank">
+            <span>2: Wild-like Behavior</span>
+            <span class="read"></span>
+        </a>
+    </div>
+</div>
+
+<div style="margin-top:10px">{% btn /wildland,, star, Index %}</div>

@@ -1,6 +1,6 @@
 ---
-title: "WILDLAND – The Tiger Searches Around"
-date: 2024-9-15 9:01:00
+title: "WILDLAND – The Tiger Feels Around and Searches"
+date: 2024/11/15 9:01:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]
@@ -10,8 +10,6 @@ categories:
 tags:
 - Event Story
 description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice in Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
-hidden: true
-permalink: wildland/2/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -348,7 +346,7 @@ Yeah, agreed. Is there anyone who’d like to be the commander?
 {% endbubble %}
 
 {% bubble Midori frown2 %}
-Well, that’s to be expected. None of us have ever really shown an interest in Alice in Wonderland before, so.
+Well, that’s to be expected. I don’t recall any of us showing an interest in Alice in Wonderland before, so.
 {% endbubble %}
 
 {% bubble Tetora awkward %}
@@ -1274,7 +1272,7 @@ Midori-kun. I’d have liked it if you stated that as strongly as Shinobu-kun di
 {% endbubble %}
 
 {% bubble Midori sad2 %}
-No, I can’t just irresponsibly say that I can do it… It’s genuinely super challenging.
+No, I can’t just be irresponsible and say that I can do it… It’s genuinely super challenging.
 {% endbubble %}
 
 {% bubble Midori norsmile2 %}
@@ -1289,7 +1287,7 @@ But… Since the two of you are determined, I’ll try my best, too… You tagge
 *<th>(Whispering)</th>* Shinkai-dono is smiling again.
 {% endbubble %}
 
-{% bubble Midori frown %}
+{% bubble Midori frownshake %}
 *<th>(Whispering)</th>* What <em>is</em> it… Now it’s just kinda scary.
 {% endbubble %}
 
@@ -1338,21 +1336,21 @@ Ossu! Personally, the part that’s been on my mind is here durin’ the B-melod
 [^1]: Water manjuu are made with kudzu starch and bracken starch, and looks like <a href="https://japanese-products.blog/2020/05/09/mizu-manju/" target="_blank">this</a>.
 [^2]: Kudzu noodles, <em>kuzukiri</em>, are clear transparent noodles made from kudzu starch. It looks like <a href="https://sakura.co/blog/arrowroot-noodles-everything-you-need-to-know" target="_blank">this</a>.
 [^3]: “Commander” (<em>taichou</em> in Japanese) refers to the leader. It’s how hero sentai squads typically refer to their leader, hence why Ryuseitai does it as well. Both leader and commander refer to the same position, and they use the two words interchangeably in the story.
-[^4]: Referring to Ra*bits and ALKALOID’s event stories for UNDERLAND. tls blah TBA
-[^5]: for UNDERLAND, units had to apply for the role they wanted, and then go through a screening blah blah. explained in alkaloid’s event. maybe ra*bits too TBA
+[^4]: Referring to Ra✽bits and ALKALOID’s event stories for UNDERLAND; Ra✽bits’ <a href="https://enstarsmasterlist.github.io/scoutevent#Black%20Bunny" target="_blank">Black Bunny</a>, ALKALOID’s <a href="https://enstarsmasterlist.github.io/scoutevent#Playing%20Cards" target="_blank">Playing Cards</a>.
+[^5]: For UNDERLAND, units had to apply for the role they wanted, and then go through a screening to get chosen.
 [^6]: Supervillains is the blockbuster tokusatsu show that Ryuseitai performs in, broadcasted in the spring of ES2 era. It’s a crossover of many heroes, with a setting related to “heroes dyed in evil”. It’s discussed a lot in the story <a href="/supervillain" target="_blank">Supervillain</a>, and a basic summary can be found in the <a href="/supervillain/epilogue" target="_blank">epilogue</a>.
 [^7]: Upon becoming a unit of all leaders, Ryuseitai’s unit title changed from “Heroes Burning With Passion☆” to “Heroes Who Shine Their Own Individuality☆” to reflect the change in direction.
-[^8]: RB (Ryuseitai Black) was shown in <a href="/supervillain" target="_blank">Supervillain</a> (the story that launches this new Ryuseitai system thanks to Tetora), and Yuruseitai was shown in <a href="/tropical" target="_blank">Tropical</a> (the story that explores the system through Midori’s leadership).
+[^8]: RB (Ryuseitai Black) was shown in <a href="/supervillain" target="_blank">Supervillain</a> (the story that launches the new Ryuseitai direction thanks to Tetora), and Yuruseitai was shown in <a href="/tropical" target="_blank">Tropical</a> (the story that explores the new direction through Midori’s leadership).
 [^9]: As a side note, “Ryuseitai Power Up” is how the all-leaders Ryuseitai was introduced by the game after the “Universe” (<a href="/supervillain" target="_blank">Supervillain</a>) event ended, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
 [^10]: As of 2024, we haven’t gotten a story showing Shinobu as the leader yet, only mentions that he has been one. Such as in the prologue of <a href="/stella_maris/prologue" target="_blank">Stella Maris</a>, when Tetora mentions all the juniors got to be the leader before Kanata’s turn as one. Here, Shinobu is referring to his leadership for a project after the events of Stella Maris.
 [^11]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Dramatica_ACT_3:_%22Karafuru%22_Wonderful!" target="_blank">Dramatica Act 3, "Karafuru" Wonderful!</a>. Shinobu played the role of the Dormouse.
 [^12]: Midori says <em>raijingu</em> (ライジング), which typically means “rising” (or “power up”). But it seems there have been some Japanese people who grew up <a href="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11210601296" target="_blank">mistaking the word to mean “lightning”</a> instead, as they have phonetic similarities (<em>raijingu, raitoningu</em>) and would also typically see it used with lightning imagery, such as with <a href="https://www.youtube.com/watch?v=VGNP9k2cF-g" target="_blank">Kamen Rider Kuuga’s Rising Form</a>. It’s unclear if the writer themself also mistook <em>raijingu</em> to mean lightning, or an intended reference. (I found it interesting enough to share!)
-[^13]: Chiaki doesn’t just make Ryuseitai’s name known; he ends up trending on social media during the audition because of a certain stunt he pulls off, and because of Ryuseitai promoting him! Please read <a href="/vs_gourmet" target="_blank">VS★GOURMET</a> to find out more!
+[^13]: Spoiler alert; Chiaki doesn’t just make Ryuseitai’s name known, he ends up trending on social media during the audition because of a certain stunt he pulls off, and because of Ryuseitai promoting him! Please read <a href="/vs_gourmet" target="_blank">VS★GOURMET</a> to find out more!
 [^14]: Known as <em>katon</em> in Japanese, it’s one of the ninja arts of escape. In the case of the fire-escape jutsu, the ninja uses gunpowder or setting straw on fire to distract the enemy and escape. In fictional stories, <em>katon</em> ninja arts are instead reimagined as manipulating fire to attack enemies.
-[^15]: <a href="https://en.wikipedia.org/wiki/Fist_of_the_North_Star" target="_blank">Fist of the North Star</a> is a manga set in a post-apocalyptic world, TBA. It’s where the famous <a href="https://www.youtube.com/watch?v=dNQs_Bef_V8" target="_blank"><em>omae wa mou shindeiru</em></a> quote comes from.
-[^16]: In the story, all three of them make cute munching sounds for these dialogues.
-[^17]: The word “apocalyptic” is <em>seikimatsu</em> (世紀末), lit. end of the century. For stories, it usually describes apocalyptic or post-apocalyptic settings. The word is also in Tetora’s first !! Era gacha, <a href="https://ensemble-stars.fandom.com/wiki/War_at_the_End_of_Century" target="_blank">End of the Century War</a>, and what’s more, even his gacha embodies an <a href="https://ensemble-stars.fandom.com/wiki/(Survival_and_Bravery)_Tetora_Nagumo" target="_blank">apocalyptic, survival theme</a>!
+[^15]: <a href="https://en.wikipedia.org/wiki/Fist_of_the_North_Star" target="_blank">Fist of the North Star</a> is a manga set in a post-apocalyptic world, after a nuclear war turned Earth into a wasteland without any order. It’s where the famous <a href="https://www.youtube.com/watch?v=dNQs_Bef_V8" target="_blank"><em>omae wa mou shindeiru</em></a> quote comes from.
+[^16]: In the story, all three of them make cute munching sounds for these lines.
+[^17]: The word “apocalyptic” is <em>seikimatsu</em> (世紀末), lit. end of the century. For fictional stories, it usually describes apocalyptic/post-apocalyptic settings. The word is also in Tetora’s first !! Era gacha, <a href="https://ensemble-stars.fandom.com/wiki/War_at_the_End_of_Century" target="_blank">End of the Century War</a>, and what’s more, even that gacha embodies an <a href="https://ensemble-stars.fandom.com/wiki/(Survival_and_Bravery)_Tetora_Nagumo" target="_blank">apocalyptic, survival theme</a>!
 [^18]: The full song Shinobu is referring to can be found in <a href="/vs_gourmet/flood_of_customers" target="_blank">VS★GOURMET, Flood of Customers, Chapter 3</a>, sung by Mayoi, Raika, and Chiaki. Ryuseitai react to the song in the following chapter.
-[^19]: In the audition Chiaki participates in, <a href="/vs_gourmet" target="_blank">VS★GOURMET</a>, Chiaki gets the idea to make Midori possess him in order to overcome eggplants, all thanks to a song Mayoi and Raika sing together. This moment ends up being broadcasted on prime-time television. It happens in <a href="/vs_gourmet/flood_of_customers" target="_blank">Flood of Customers, Chapter 3 & 4</a>.
-[^20]: The hook usually refers to the catchiest part of the song. In the case of <a href="/WILDLAND_SURVIVOR" target="_blank">WILDLAND SURVIVOR</a>, it could be the TBA
-[^21]: B-melody usually refers to the second verse of a song. In the case of <a href="/WILDLAND_SURVIVOR" target="_blank">WILDLAND SURVIVOR</a>, it could be the TBA
+[^19]: In the audition Chiaki participates in, <a href="/vs_gourmet" target="_blank">VS★GOURMET</a>, Chiaki gets the idea to make Midori possess him in order to overcome eggplants, all thanks to a song Mayoi and Raika sing together (the same one Shinobu and Kanata sing in this chapter). That moment ends up being broadcasted on prime-time television. It happens in <a href="/vs_gourmet/flood_of_customers" target="_blank">Flood of Customers, Chapter 3 & 4</a>.
+[^20]: The hook usually refers to the catchiest part of the song. In the case of <a href="/WILDLAND_SURVIVOR" target="_blank">WILDLAND SURVIVOR</a>, it’s likely the chorus. This is my own interpretation, but I think Tetora may be referring to the high kick in the MV.
+[^21]: B-melody usually refers to the second verse of a song. In the case of <a href="/WILDLAND_SURVIVOR" target="_blank">WILDLAND SURVIVOR</a>, it’s likely the parts just before the chorus.

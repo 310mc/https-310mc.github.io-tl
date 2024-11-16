@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Tetora Mini Talk: Generosity In Everyday Life"
-date: 2024/9/16 9:06:00
+date: 2024/11/14 9:09:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
 description: "[ES!!] Tetora’s first Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -56,23 +55,23 @@ hidden: true
 {% bubble Tetora norsmile %}
 —No, you don’t need’a thank me at all! Okay, see ya!
 
-Ah— Anego! Fancy meetin’ you at the train station.
+Ah— Anego! Fancy meeting ya at the train station.
 
-What was that just now? I gave my seat to someone at the train, and they were thankin’ me for it.
+Ah, you’re wonderin’ what that was about just now? I gave my seat to someone at the train, and they were thankin’ me for it.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I expect nothing less from you.
+            You really are amazing.
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora grin %}
             When an injured person is right before your eyes, it’s only natural to give your seat to ‘em!
 
-            But seeing other people ‘round me also offer their seat made me kinda happy~♪
+            But seeing other people ‘round me also try to offer their seat made me kinda happy~♪
 
-            It goes to show that everyone holds a heroic heart in ‘em, no matter the person!
+            It just goes to show that everyone holds a heroic heart in ‘em, no matter the person!
 			{% endbubble %}
         </div>
     </div>
@@ -87,7 +86,7 @@ What was that just now? I gave my seat to someone at the train, and they were th
             {% bubble Tetora smileconfident %}
             Hehe, gettin’ praise from you makes me happy, Anego! But I didn’t do anythin’ worthy of a reward, y’know?
 
-            Just the thought makes me feel real energetic. Thank you very much!
+            Your feelings alone brightened my day by a lot. Thank you very much!
 			{% endbubble %}
         </div>
     </div>
@@ -104,7 +103,7 @@ Even I end up thinking stuff like, "Will they think I’m treating ‘em like an
 {% endbubble %}
 
 {% bubble Tetora awkward %}
-Like, Midori-kun especially gets real worried ‘bout that sort of thing, it seems. I think it’s fine if he thinks about things a li’l more casually, though…
+Like, Midori-kun especially gets real worried ‘bout that sort of thing, it seems. I think it’s fine if he thinks ‘bout things a li’l more casually, though…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -114,9 +113,9 @@ Like, Midori-kun especially gets real worried ‘bout that sort of thing, it see
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora curious %}
-            Ah, are you also the type to worry a lot ‘bout this, Anego?
+            Ah, are you also the type to worry a bunch ‘bout this, Anego?
 
-            The more you can put yourself in the shoes of another person and imagine how they feel, the more you’re likely to worry over this stuff, huh~?
+            When you’re the type of person who puts themself in another person’s shoes and imagines how they feel, you’re more likely to worry over this stuff, huh~?
             {% endbubble %}
             {% bubble Tetora norsmile %}
             On that point, someone like Isara-senpai seems like the type who’d be real good at handling these sorta situations.
@@ -125,7 +124,7 @@ Like, Midori-kun especially gets real worried ‘bout that sort of thing, it see
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            It’d be nice to call out to them casually, wouldn’t it?
+            Casually calling out to them is the way to go, isn’t it?
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora norsmile2 %}
@@ -145,7 +144,7 @@ Like, Midori-kun especially gets real worried ‘bout that sort of thing, it see
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_9j66febf13azovw2.webp?timestamp=1727971099362 %}
 
 {% bubble Tetora smileexplain %}
-Ah, right! There’s apparently a fair for overseas ingredients at a building near the station.
+Ah, right! There’s apparently an overseas ingredients fair at a building near the station.
 
 Aniki told me ‘bout it when I met him at the dorms.[^1] I’m pretty interested, so I’m plannin’ to take a look before I head back to the dorms.
 {% endbubble %}
@@ -164,7 +163,7 @@ You came here for the fair, Anego? Then I’d love to go together with ya~♪
             I haven’t decided on anythin’ specific, actually. I’m just thinkin’ of looking ‘round and picking stuff that way.
             {% endbubble %}
             {% bubble Tetora fist %}
-            But I always get the urge to buy unusual ingredients or seasonings when I see ‘em, so I made sure to set a budget for myself!
+            But since I always get the urge to buy unusual ingredients or seasonings when I see ‘em, I made sure to set a budget for myself!
 
             This way, I should be able to buy the right things without wasting money!
 			{% endbubble %}
@@ -178,10 +177,10 @@ You came here for the fair, Anego? Then I’d love to go together with ya~♪
             {% bubble Tetora smilesoft %}
             Aniki let me see what he bought, and there really is all sortsa things there!
 
-            There was a vegetable called "ghost plant", a sweetener called "palm sugar"…
+            There’s a vegetable called “ghost plant”, a sweetener called “palm sugar”…
             {% endbubble %}
             {% bubble Tetora nod %}
-            Japanese ingredients are great, of course, but it’s fun to look at ingredients you don’t usually see, too~♪
+            Japanese ingredients are great of course, but it’s fun to look at ingredients you don’t usually see, too~♪
 			{% endbubble %}
         </div>
     </div>

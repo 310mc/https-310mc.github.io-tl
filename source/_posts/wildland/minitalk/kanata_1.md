@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Kanata Mini Talk: fish [paintings]"
-date: 2024/9/16 9:06:00
+date: 2024/11/14 9:05:00
 categories:
 - [Enstars, Kanata]
 tags:
 - Mini Talk
 description: "[ES!!] Kanata’s first Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -91,7 +90,7 @@ ah, i was not at the [aquarium] before this. i had just come back from an [art m
             all the [paintings] in the [art museum] are in this [book].
             {% endbubble %}
             {% bubble Kanata smilesoft %}
-            in other words, i can [enjoy] the [art museum] even after i have returned home…♪
+            in other words, i can [enjoy] the [art museum] even after i return home…♪
 			{% endbubble %}
         </div>
     </div>
@@ -102,9 +101,9 @@ ah, i was not at the [aquarium] before this. i had just come back from an [art m
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_dsq66febf13Wgwr3.webp?timestamp=1727971099063 %}
 
 {% bubble Kanata norsmile2 %}
-there was someone we [worked with] at a ryuseitai job before, and they were the ones who told me about this [exhibition] happening today.
+a while ago, we ryuseitai [worked with] someone for a job, and they were the one who told me about this [exhibition] happening today.
 
-it is an [exhibition] with [fish paintings] from all over the world!
+it is an [exhibition] with [fish paintings] from all over the world~
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -118,9 +117,9 @@ even though it was an [art museum], it felt as though i was in an [aquarium]…�
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata smile %}
-            fufu, you look like you understand why i was there now.
+            fufu, you look like you finally get why i was there now.
 
-            all the [paintings] were charming in their own way, and i could feel the love for [fish] in them.
+            all the [paintings] were charming in their own way, and i could feel the love for [fish] in each of them.
             {% endbubble %}
             {% bubble Kanata northinking %}
             it makes me want to draw something once i get home. i wonder what sort of [fish painting] i should go with…?
@@ -133,7 +132,7 @@ even though it was an [art museum], it felt as though i was in an [aquarium]…�
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata smileconfident %}
-            yes, of course there was.
+            yes, of course.
 
             it was the [painting] of a [large sharkie] swimming happily with [small fishies].
             {% endbubble %}
@@ -177,7 +176,7 @@ maybe kaoru would be interested to join. would you like to as well, anzu-san?
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Maybe there’s…
+            How about maybe…
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata curious %}

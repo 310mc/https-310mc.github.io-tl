@@ -1,14 +1,13 @@
 ---
 title: "WILDLAND – Prologue"
-date: 2024-9-15 9:00:00
+date: 2024/11/15 9:00:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Hiiro]
 - [Enstars, Tetora]
 tags:
 - Event Story
-description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice In Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
-hidden: true
+description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice in Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -70,11 +69,11 @@ Whoa—…!
 {% bubble Tetora frownshake %}
 <th>(The wind’s super strong… I’m real glad Shinobu-kun firmly secured me in place.)</th>
 
-<th>(I’m well-aware I’m doing somethin’ crazy right now… But I’ve already made my decision.)</th>
+<th>(I’m well-aware I’m doing somethin’ crazy right now… But I’ve already made up my mind.)</th>
 {% endbubble %}
 
 {% bubble Midori worried %}
-Tetora-kun, I really think we should drop this idea! You don’t need to push yourself this much, seriously!
+Tetora-kun, I really think we should give up on that plan! You don’t need to push yourself this much, seriously!
 {% endbubble %}
 
 {% bubble Tetora angry %}
@@ -156,7 +155,7 @@ Maybe it’s just my imagination, but that boy over there seems to want to speak
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
-That boy…? Ahh, He’s a first year kid that joined the club this year.
+That boy…? Ahh, he’s a first year kid that joined the club this year.
 {% endbubble %}
 
 {% bubble Hiiro norsmile %}
@@ -288,7 +287,7 @@ It’s true.
 {% endbubble %}
 
 {% bubble Tetora frown %}
-There’s a senior in Akatsuki that I admire, but I ended up failing the unit’s entrance exam, as embarrassing as it is to admit.[^5]
+There’s a senior in Akatsuki that I admire, but I ended up failing the unit’s entrance exam, as embarrassing as it is to admit.
 {% endbubble %}
 
 {% bubble Junior %}
@@ -348,11 +347,11 @@ Ah— W-Wait…!
 
 <th>(But the reality wasn’t like that at <em>all</em>…)</th>
 
-<th>(It was a unit that did nothin’ but play superheroes — to the point that I believed, “there has gotta be a much more suitable place for me than here”…)</th>[^6]
+<th>(It was a unit that did nothin’ but play superheroes — to the point that I believed, “there has gotta be a much more suitable place for me than here”…)</th>[^5]
 {% endbubble %}
 
 {% bubble Tetora serious %}
-<th>(…But as I kept doin’ activities in the unit, I learned ‘bout Morisawa-senpai’s desires, and felt somethin’ shining within the unit called “Ryuseitai”… I really mean that.)</th>[^7]
+<th>(…But as I kept doin’ activities in the unit, I learned ‘bout Morisawa-senpai’s desires, and felt somethin’ shining within the unit called “Ryuseitai”… I really mean that.)</th>[^6]
 
 <th>(A unit I didn’t wanna be in… Maybe he’s kinda got a point sayin’ that, but—)</th>
 {% endbubble %}
@@ -378,7 +377,7 @@ Buchou? What’s wrong?
                 </a>
             </div>
             <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/wildland/hidden_island" title="Next Chapter: The Tiger Searches Around"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/first_half" title="Next Chapter: The Tiger Feels Around and Searches"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
@@ -388,8 +387,7 @@ Buchou? What’s wrong?
 
 [^1]: Kumite is one of the ways to train in karate, involving sparring with someone else. Read more <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">here</a>.
 [^2]: “Buchou” means club captain/president.
-[^3]: Referring to Hiiro’s first encounter with an idol, and how much it meant to him. This is explored in the first !! Era main story, as well as Matrix. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^3]: Referring to Hiiro’s first encounter with an idol, and how much it meant to him. This is explored in the first !! Era main story, as well as Matrix. For translations: Main story <a href="https://mainstoryarchive.tumblr.com/post/759278638269169664/translation-main-story-archive-masterlist" target="_blank">here</a>, Matrix <a href="https://toujokaname.tumblr.com/post/750764512860422144/matrix" target="_blank">here</a>.
 [^4]: Referring to the events that took place across the first year of !! Era (ES1) for Ryuseitai; the agency ordered them to disband Ryuseitai-N. For a summary, please <a href="/dokisuta_ryuseitai" target="_blank">see the Ryuseitai timeline provided by the Dokisuta stream</a>. To learn more about what happened, please read the ES1 Ryuseitai stories, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
-[^5]: There’s a senior in Akatsuki that I admire, but I ended up failing the unit’s entrance exam, as embarrassing as it is to admit. ADD
-[^6]: Referring to Hero Show, when Tetora fled out of the room after getting tired of Ryuseitai’s activities. Hero Show is set in the early days of Ryuseitai’s Yumenosaki days, when they would mainly play superheroes or do hero shows. Another example of this is in Hero Game.
-[^7]: Referring to Supernova, the performance that kickstarted Ryuseitai from doing nothing but hero shows, to being proper hero idols who TBA.
+[^5]: Referring to Hero Show, when Tetora fled out of the room after getting tired of Ryuseitai’s activities. Hero Show is set in the early days of Ryuseitai’s Yumenosaki days, when they would mainly play superheroes or do hero shows as part of their activities. Another example of this is in <a href="/hero_game" target="_blank">Hero Game</a>.
+[^6]: Referring to Supernova, the performance that kickstarted Ryuseitai from only doing hero shows, to being proper hero idols and getting proper idol work.

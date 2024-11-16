@@ -559,7 +559,7 @@ U-Understooddd…!
 {% bubble Chiaki curious %}
 The inside of the dome is practically an alternate world.
 
-I heard that all participants were split between four venues: the “Prince Castle”, “Gourmet District”, “Soukei Pagoda”[^17], and the “Arena”…
+I heard that all participants were split between four venues: the “Prince Castle”, “Gourmet District”, “Twin Rooster Pagoda”, and the “Arena”…
 
 So there’s a castle, district, pagoda… and is that other dome-looking building the arena? I never imagined they’d construct it to actually <em>look</em> like an arena, not just be one in name…
 {% endbubble %}
@@ -647,7 +647,7 @@ I dunno if he’s putting on a persona or what, but he must be completely out of
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-What, like the Joker?[^18]
+What, like the Joker?[^17]
 {% endbubble %}
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_4qS5ZO66b280e2u6.webp?timestamp=1722974442114 %}
@@ -689,7 +689,7 @@ Yeah, ‘cuz without rules, we’d be able to do whatever we want. So I think th
 {% endbubble %}
 
 {% bubble Raika worried %}
-What’ll happen if I break the rules? Please don’t tell me that I’ll be in the reflection room without food for the whole day!?[^19]
+What’ll happen if I break the rules? Please don’t tell me that I’ll be in the reflection room without food for the whole day!?[^18]
 
 Wait, now that I think about it, the info on my clothes really resembles the same I had at the “facility”…
 {% endbubble %}
@@ -701,7 +701,7 @@ Is that why they put info on your clothes, so that anyone could know your name�
 {% endbubble %}
 
 {% bubble Raika nod %}
-Aye.[^20] But I wasn’t called by my name “Hojo Raika” — I was called by a number!
+Aye.[^19] But I wasn’t called by my name “Hojo Raika” — I was called by a number!
 {% endbubble %}
 
 {% bubble Mitsuru surprised %}
@@ -851,7 +851,7 @@ Senior elder? Do you mean your grandpa?
 {% endbubble %}
 
 {% bubble Raika grin %}
-Ehihi. The senior elder is Sakuma Jii-sama; he’s like a representative of the family~♪[^21]
+Ehihi. The senior elder is Sakuma Jii-sama; he’s like a representative of the family~♪[^20]
 
 Right then, I’ll go greet him. Please do follow me, Mitsuru-oniisan~♪
 
@@ -885,13 +885,13 @@ I’m kidding, I’m kidding. It’s a Ritsu joke~♪
 
 Tsk-tsk, Moririn, Ho~chan; if you lose heart over something as simple as this, you won’t survive in the industry, y’know?
 
-I never expected to meet Ho~chan at 4piece, but I still remember Anija telling me to take care of you.[^22]
+I never expected to meet Ho~chan at 4piece, but I still remember Anija telling me to take care of you.[^21]
 {% endbubble %}
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_u7bcf66b280e2dN5.webp?timestamp=1722974441040 %}
 
 {% bubble Mayoi worried %}
-If he has relations with that Sakuma—…san, does that mean he comes from a prestigious household?[^23]
+If he has relations with that Sakuma—…san, does that mean he comes from a prestigious household?[^22]
 {% endbubble %}
 
 {% bubble Ritsu v2 %}
@@ -911,7 +911,7 @@ Heheeh~ I’m nothing but a measly li’l boy, so there’s nothing to worry abo
 {% endbubble %}
 
 {% bubble Raika curious %}
-…By the way, Mayomayo Onii-san?[^24] May I ask why you’re pattin’ my head?
+…By the way, Mayomayo Onii-san?[^23] May I ask why you’re pattin’ my head?
 {% endbubble %}
 
 {% bubble Mayoi snicker %}
@@ -931,7 +931,7 @@ Ohph!? I’m so sorry, I’m so sorry! Please don’t kick me in the shin, I was
 {% endbubble %}
 
 {% bubble Chiaki nod %}
-Oh—! Is that Sakuma’s exclusive finishing move, made by combining “Vampire” and “Kick”!?[^25]
+Oh—! Is that Sakuma’s exclusive finishing move, made by combining “Vampire” and “Kick”!?[^24]
 {% endbubble %}
 
 {% bubble Ritsu v2 %}
@@ -1053,7 +1053,7 @@ Mhm! I’m Tenma Mitsuru, Ra*bits’ proud and mighty super star! I’m gonna fi
 {% bubble Chiaki fist %}
 Ooh! So the screening in the second venue is going to start at long last. What sort of trials await us in this Gourmet District!?
 
-Mm! That sounded just like the preview of the next tokusatsu episode…☆[^26]
+Mm! That sounded just like the preview of the next tokusatsu episode…☆[^25]
 {% endbubble %}
 
 {% bubble Nice smilesoft %}
@@ -1061,7 +1061,7 @@ Mm! That sounded just like the preview of the next tokusatsu episode…☆[^26]
 {% endbubble %}
 
 {% bubble Chiaki hidden %}
-Ah! Our conversation can be heard from here!? I’m terribly sorry for interrupting![^27]
+Ah! Our conversation can be heard from here!? I’m terribly sorry for interrupting![^26]
 {% endbubble %}
 
 {% bubble Nice %}
@@ -1117,7 +1117,7 @@ Ah, so cooking’s your specialty, Ritsu-san? I had no idea.
 {% endbubble %}
 
 {% bubble Chiaki smileconfident %}
-Sena’s shared with me sweets Sakuma has made before. They may have a peculiar appearance, but they were extremely delicious.[^28]
+Sena’s shared with me sweets Sakuma has made before. They may have a peculiar appearance, but they were extremely delicious.[^27]
 {% endbubble %}
 
 {% bubble Ritsu smile %}
@@ -1155,7 +1155,7 @@ Indeed so. Let’s properly apologize to Mitsuru-san for stealing his bread, sha
 {% endbubble %}
 
 {% bubble Raika sightired %}
-I’ve been saved so many times by Mitsuru-oniisan, yet I go ahead and do this! I’m so terribly sorry! *<th>(Jumping dogeza)</th>*[^29]
+I’ve been saved so many times by Mitsuru-oniisan, yet I go ahead and do this! I’m so terribly sorry! *<th>(Jumping dogeza)</th>*[^28]
 {% endbubble %}
 
 {% bubble Mitsuru worried %}
@@ -1203,7 +1203,7 @@ If we have to do everything all by ourselves, wouldn’t it be a hefty task…?
 {% endbubble %}
 
 {% bubble Mayoi srsthinking %}
-Even the restaurant I had the honor of assisting a long time ago had a lot more staff members, you know…?[^30]
+Even the restaurant I had the honor of assisting a long time ago had a lot more staff members, you know…?[^29]
 
 Not to mention, our phones were confiscated before we arrived at the venue. How are we to manage a restaurant without even a recipe at hand…
 {% endbubble %}
@@ -1558,17 +1558,16 @@ Wha—
 [^14]: Natto beans are fermented soybeans. <a href="https://en.wikipedia.org/wiki/Natt%C5%8D" target="_blank">Read more here</a>.
 [^15]: In Japanese, Ritsu says <em>kinen juken</em> (記念受験), which are entrance exams you take without a care if you’ll pass the exam or not.
 [^16]: Ritsu says <em>enjoy-zei</em> (エンジョイ勢), a term used for people who consider it more important to enjoy a game as it is instead of aiming for high scores and wins. The opposite would be <em>gachi-zei</em>, people who consider winning and high scores most important.
-[^17]: Soukei Pagoda is 双鶏塔, lit. twin chicken tower. As of this moment, it’s unclear what <em>soukei</em> is referring to until the third audition story comes out. I’ll update this translation note then!
-[^18]: A reference to the supervillain <a href="https://en.wikipedia.org/wiki/Joker_(character)" target="_blank">Joker</a>. Originally, this is censored in Japanese to avoid copyright.
-[^19]: Reflection room is <em>hansei shitsu</em> (反省室), lit. reflecting-on-behavior room, or showing-remorse room.
-[^20]: Since Raika speaks in a very old-fashioned speech pattern from the Edo period, he also says <em>hei</em> (へい), an affirmative sound servants and merchants would use back in the day.
-[^21]: Jii-sama is 爺様 (Old man/Grandfather + polite honorific).
-[^22]: Raika first meets Ritsu in his Idol Story 2. The story talks more about the relationship between the Hojo family and Sakuma family. Please check <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">this masterlist</a> for a translation.
-[^23]: Mayoi jolts whenever he hears “Sakuma”, as he used to hear terrifying stories about the family. This is mentioned in the first !! Era Main story, Chapter 31.
-[^24]: As mentioned in the prologue, Onii-san is “big brother”. Other than its usage within family, it’s also used to show respect towards a stranger or an older person. In this case, Raika refers to Mayoi as <em>mayomayo <u>no</u> oniisan</em>, which is lit. as if he’s saying "the Mayomayo Onii-san".
-[^25]: Ritsu’s word-combination and wordplay is a lot more clever in Japanese. Vampire is <em>kyuuketsu-ki</em>; combined with <em>kikku</em> (kick), you get <em>kyuuketsu-kikku</em>. Meanwhile, Chiaki loves puns and finishing moves!
-[^26]: Tokusatsu (meaning “special effects”) is a genre of live-action film or TV drama that makes heavy use of special effects, for ex. Kamen Rider, Super Sentai series, etc… <a href="https://tokusatsu.fandom.com/wiki/Tokusatsu" target="_blank">Read more here</a>. Chiaki really loves tokusatsu shows and one of his hobbies is watching them.
-[^27]: Chiaki switches from his usual way of speaking to speak in polite language (keigo) with Nice-P.
-[^28]: Ritsu’s cooking is known to look strange yet taste incredible. Ritsu also loves cooking them. See the CGs and stories of <a href="https://ensemble-stars.fandom.com/wiki/Sweets" target="_blank">Sweets</a> and <a href="https://ensemble-stars.fandom.com/wiki/Dark_Night_Halloween" target="_blank">Dark Night Halloween</a>. It’s mentioned or shown in a few other stories too, like Horror Night Halloween, Sweet Hunt, his birthday stories, and more. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for translations.
-[^29]: Dogeza (Prostrating oneself) is a Japanese form of etiquette, where the person kneels on the ground and bows to prostrate oneself while touching one’s head to the floor. It’s used to express one’s deepest apologies to someone or when wanting a favor from someone. <a href="https://en.wikipedia.org/wiki/Dogeza" target="_blank">Read more here</a>. In this case, Raika does a version where he jumps before prostrating on the ground.
-[^30]: This is referring to <a href="https://tomoya.moe/tl/dead_end_land" target="_blank">Dead End Land</a>. Mayoi, Shinobu, Tomoya and Wataru helped out at a cafe.
+[^17]: A reference to the supervillain <a href="https://en.wikipedia.org/wiki/Joker_(character)" target="_blank">Joker</a>. Originally, this is censored in Japanese to avoid copyright.
+[^18]: Reflection room is <em>hansei shitsu</em> (反省室), lit. reflecting-on-behavior room, or showing-remorse room.
+[^19]: Since Raika speaks in a very old-fashioned speech pattern from the Edo period, he also says <em>hei</em> (へい), an affirmative sound servants and merchants would use back in the day.
+[^20]: Jii-sama is 爺様 (Old man/Grandfather + polite honorific).
+[^21]: Raika first meets Ritsu in his Idol Story 2. The story talks more about the relationship between the Hojo family and Sakuma family. Please check <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">this masterlist</a> for a translation.
+[^22]: Mayoi jolts whenever he hears “Sakuma”, as he used to hear terrifying stories about the family. This is mentioned in the first !! Era Main story, Chapter 31.
+[^23]: As mentioned in the prologue, Onii-san is “big brother”. Other than its usage within family, it’s also used to show respect towards a stranger or an older person. In this case, Raika refers to Mayoi as <em>mayomayo <u>no</u> oniisan</em>, which is lit. as if he’s saying "the Mayomayo Onii-san".
+[^24]: Ritsu’s word-combination and wordplay is a lot more clever in Japanese. Vampire is <em>kyuuketsu-ki</em>; combined with <em>kikku</em> (kick), you get <em>kyuuketsu-kikku</em>. Meanwhile, Chiaki loves puns and finishing moves!
+[^25]: Tokusatsu (meaning “special effects”) is a genre of live-action film or TV drama that makes heavy use of special effects, for ex. Kamen Rider, Super Sentai series, etc… <a href="https://tokusatsu.fandom.com/wiki/Tokusatsu" target="_blank">Read more here</a>. Chiaki really loves tokusatsu shows and one of his hobbies is watching them.
+[^26]: Chiaki switches from his usual way of speaking to speak in polite language (keigo) with Nice-P.
+[^27]: Ritsu’s cooking is known to look strange yet taste incredible. Ritsu also loves cooking them. See the CGs and stories of <a href="https://ensemble-stars.fandom.com/wiki/Sweets" target="_blank">Sweets</a> and <a href="https://ensemble-stars.fandom.com/wiki/Dark_Night_Halloween" target="_blank">Dark Night Halloween</a>. It’s mentioned or shown in a few other stories too, like Horror Night Halloween, Sweet Hunt, his birthday stories, and more. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for translations.
+[^28]: Dogeza (Prostrating oneself) is a Japanese form of etiquette, where the person kneels on the ground and bows to prostrate oneself while touching one’s head to the floor. It’s used to express one’s deepest apologies to someone or when wanting a favor from someone. <a href="https://en.wikipedia.org/wiki/Dogeza" target="_blank">Read more here</a>. In this case, Raika does a version where he jumps before prostrating on the ground.
+[^29]: This is referring to <a href="https://tomoya.moe/tl/dead_end_land" target="_blank">Dead End Land</a>. Mayoi, Shinobu, Tomoya and Wataru helped out at a cafe.

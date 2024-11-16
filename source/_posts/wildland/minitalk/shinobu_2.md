@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Shinobu Mini Talk: Bouldering Skills"
-date: 2024/9/16 9:07:00
+date: 2024/11/14 9:08:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu’s second Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -138,7 +137,7 @@ We declined because we already have a job then, but… I’d love to participate
             If I ever appear in a competition, I’d like Mayoi-dono and Isara-dono to watch it, too~
             {% endbubble %}
             {% bubble Shinobu grin %}
-            Haha, that’s just my own daydreams, though. Just imagining it is fun enough for me…♪
+            Haha, that’s just my own daydreams, though. Just imagining it is enough excitement for me…♪
 			{% endbubble %}
         </div>
     </div>
@@ -149,13 +148,13 @@ We declined because we already have a job then, but… I’d love to participate
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_SpfK66febf13tMI4.webp?timestamp=1727971099485 %}
 
 {% bubble Shinobu curious %}
-Huh? That child… It seems they’re struggling to climb up the rocks.
+Huh? That child… It seems they’re struggling to climb up the wall.
 
 A staff member is helping them, but it seems to me that they can’t get a grasp of the feeling exactly.
 {% endbubble %}
 
 {% bubble Shinobu northinking %}
-I had also gotten stuck in a similar spot once upon a time. I might be able to be of help somehow…
+I had also gotten stuck in a similar spot once upon a time. I might be able to assist them somehow…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -198,7 +197,7 @@ I had also gotten stuck in a similar spot once upon a time. I might be able to b
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/minitalk/shinobu_1" title="Shinobu Mini Talk: A Challenge to Draw a Manga"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/minitalk/shinobu_1" title="Shinobu Mini Talk: Challenge to Draw a Comic"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>

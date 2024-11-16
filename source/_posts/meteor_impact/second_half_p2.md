@@ -2782,7 +2782,7 @@ please Explain things to me properly! listen to what a god Tells you to do!
 {% bubble Madara pastbcg %}
 “Hahaha! ♪ I don’t really get what’s going on, but I’m kiiinda jealous… Holding hands and dashing across the beach—this really is what youth’s all about!”
 
-“I’m aaall the way across the ocean, but I’ll still cheer you for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
+“I’m aaall the way across the ocean, but I’ll still cheer for you two! There’s a song that has been carried from generation to generation in Ryuseitai—that’s perfect for this moment!”
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/madarabcg.jpg %}
@@ -2790,7 +2790,7 @@ please Explain things to me properly! listen to what a god Tells you to do!
 {% bubble Madara pastbcg %}
 “I’ll sing that song to cheer you guys on—after all, I *am* wearing the uniform, and I *am* acting as an idol! I only hope that it’ll push you both one step further, even if juuust a little…!”
 
-“♪\~♪~♪”
+“♪\~♪\~♪”
 {% endbubble %}
 
 <div class="navigation2">

@@ -1,6 +1,6 @@
 ---
 title: "[Song] WILDLAND SURVIVOR"
-date: 2024/9/15 8:00:00
+date: 2024/11/16 8:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Tetora]
@@ -12,8 +12,7 @@ categories:
 tags:
 - Song Lyrics
 description: "Translation of WILDLAND SURVIVOR Song Lyrics by 310mc. Sung by Ryuseitai from the Unit Event WILDLAND."
-permalink: TESTING123456/
-hidden: true
+permalink: WILDLAND_SURVIVOR/
 ---
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179 %}
@@ -70,7 +69,7 @@ hidden: true
 
 <h4 style="text-align:center;">WILDLAND SURVIVOR</h4>
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_TzbkyyE66ff05057.webp?timestamp=1727989003941 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Gu673742a6iodAF2.webp?timestamp=1731674792099 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 
@@ -111,15 +110,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Correctness doesn’t exist</td>
+    <td>There’s no such thing as “right”[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>What exists is the pathless path of the unknown[^1]</td>
+    <td>There is only the pathless path of the unknown[^2]</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>The moment you take the first step, you set off on a journey</td>
+    <td>The moment you take the first step, you set off on the journey</td>
   </tr>
   <tr>
     <td class="timestamp name"></td>
@@ -213,6 +212,8 @@ hidden: true
   </tr>
 </table>
 
+<p style="text-align:center;font-size:22px;">This song has a lot of meaning to it. Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
+
 <p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
 
 ## Full Lyrics
@@ -252,15 +253,15 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span> & <span class="chiaki">Chiaki</span></td>
-    <td>Correctness doesn’t exist</td>
+    <td>There’s no such thing as “right”[^1]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span> & <span class="kanata">Kanata</span></td>
-    <td>What exists is the pathless path of the unknown[^1]</td>
+    <td>There is only the pathless path of the unknown[^2]</td>
   </tr>
   <tr>
     <td class="name">All</td>
-    <td>The moment you take the first step, you set off on a journey</td>
+    <td>The moment you take the first step, you set off on the journey</td>
   </tr>
   <tr>
     <td><br></td>
@@ -292,7 +293,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span> & <span class="kanata">Kanata</span></td>
-    <td>The moment you think you’re lost, then you’ll always find some way</td>
+    <td>The moment you think you’re lost, you’ll always find some way[^3]</td>
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span> & <span class="shinobu">Shinobu</span></td>
@@ -300,7 +301,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="tetora">Tetora</span></td>
-    <td>If guidance is what you want, then try taking our hand</td>
+    <td>If guidance is what you want, take our hand</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -312,7 +313,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="shinobu">Shinobu</span></td>
-    <td>When you’re anxious over the unforeseeable future, you feel paralyzed[^2]</td>
+    <td>When you feel anxious over the unforeseeable future, you become paralyzed[^4]</td>
   </tr>
   <tr>
     <td class="name"><span class="chiaki">Chiaki</span></td>
@@ -320,7 +321,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="midori">Midori</span></td>
-    <td>That’s right, until you finally reach it[^3]</td>
+    <td>That’s right, until you finally reach it[^5]</td>
   </tr>
   <tr>
     <td class="name"><span class="kanata">Kanata</span></td>
@@ -421,6 +422,8 @@ hidden: true
     <td><em>Let’s be alive! Let’s be alive!</em></td>
   </tr>
 </table>
+
+<p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
 ## Ryuseitai Songs Directory
 
@@ -646,6 +649,18 @@ hidden: true
 
 ## Translation Notes
 
-[^1]: This is a wordplay of a common expression that goes <em>michi naki michi</em>, 道なき道, meaning “pathless path”. In this case, the second <em>michi</em> is written as 未知, meaning “unknown”.
-[^2]: supervillain tl note??? i think
-[^3]: the word used here is <em>tadori tsuku</em>
+<b>(1.)</b> WILDLAND SURVIVOR is based on Alice in Wonderland but with a twist; it's set in a desolate wasteland without any order. Watch the <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc" target="_blank">MV</a> or read the <a href="/wildland" target="_blank">story</a> to learn more!
+
+<b>(2.)</b> Ryuseitai takes the role of the Cheshire Cat, singing to Alice and anyone else who wandered into WILDLAND. Because of this, the lyrics have a much more mature feeling to them than typical Ryuseitai songs, likely to match the Cheshire Cat and its role: the guide who knows more than Alice, and who has been loitering around the world for far longer.
+
+<b>(3.)</b> Some examples of this mature feeling can be seen in the commands Ryuseitai gives to Alice; they use an imperative tone like <em>te-goran</em> in “take our hand” (how a superior/older person would speak to a junior/younger person), or right at the end with “Keep on moving forward” (said in a commanding tone like a leader).
+
+<b>(4.)</b> In the <a href="/wildland" target="_blank">story</a>, Ryuseitai also discusses the themes and concept behind the song and its stage. Tetora in particular talks about it a lot, especially in <a href="/wildland/epilogue" target="_blank">Epilogue 1</a>, and I recommend reading it!
+
+<b>(5.)</b> This is my own personal interpretation, but the imagery in the MV (Chiaki and Kanata showing you the way underneath the moonlight, Tetora being the center and leader for the event, etc.) perfectly fit the journeys that each Ryuseitai member took since ! Era all the way until the end of !! Era ES1. Not only did Chiaki and Kanata go through many hardships in their 2nd year (as shown in <a href="/meteor_impact" target="_blank">Meteor Impact</a>), but so did Tetora, Shinobu, and Midori in their 2nd year too (shown in !! Era ES1 stories). Not to mention their efforts together during their Yumenosaki days (! Era stories). All five of them grew stronger through all these hardships and united as a unit better than ever, and they learned how to face against the harsh reality for the sake of their ideals and wants. So to me, it feels as though this song is Ryuseitai, as the experienced Cheshire Cat, guiding the listeners to go on their own unknown, but exciting world. Tetora talks about his own experiences to his junior in <a href="/wildland/epilogue" target="_blank">Epilogue 2</a> as well, and I recommend reading it!
+
+[^1]: The word for “right” is <em>tadashisa</em> (正しさ). It can refer to many things, like the right thing, the appropriate actions or words to take, and it can also refer to justice or morality.
+[^2]: This is a wordplay of a common expression that goes <em>michi naki michi</em> (道なき道), meaning “pathless path”. In this song, the second <em>michi</em> is written as 未知 instead, meaning “unknown”.
+[^3]: The word for “lost” here is <em>mayoi-go</em> (迷い子), lit. “lost child”, and refers to when someone’s lost their way. Usually said as <em>maigo</em>, the word is commonly used for children, but adults can use it too, though it may be interpreted as self-deprecating or childish.
+[^4]: “Unforeseeable future” is a wording also found in the premise of Tetora’s first center event, <a href="/supervillain" target="_blank">Supervillain</a>; “When one advances towards the unforeseeable future—”
+[^5]: The word used here is <em>tadori tsuku</em>, used to express finally reaching a destination after going through hardships. It was also used in <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a>, and is generally a word befitting of Ryuseitai's journey.

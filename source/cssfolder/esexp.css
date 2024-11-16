@@ -793,6 +793,9 @@
 [character="Kanata"][stellabcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_stellabcg.png");
 }
+[character="Kanata"][wldbcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_wldbcg.png");
+}
 
 [character="Kanata"][pastcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast_cg.png");
@@ -1002,6 +1005,9 @@
 [character="Shinobu"][orihimebcg] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_orihimebcg.png");
 }
+[character="Shinobu"][wldbcg] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinobu_wldbcg.png");
+}
 /**
 ***/
 
@@ -1029,6 +1035,9 @@
 }
 [character="Tetora"][blushsquint] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_blushsquint.png");
+}
+[character="Tetora"][blushsurprised] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_blushsurprised.png");
 }
 [character="Tetora"][cry] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetora_cry.png");

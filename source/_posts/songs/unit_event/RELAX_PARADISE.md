@@ -421,6 +421,8 @@ permalink: RELAX_PARADISE/
 
 <p style="text-align:center;font-size:22px;">Please check the <a href="#Translation-Notes"><b>translation notes</b></a> for more details!</p>
 
+<p style="text-align:center;font-size:22px;">These lyrics are for the <b>MV</b>. Please look below for the <b>full lyrics!</b></p>
+
 ## Full Lyrics
 
 <h4 style="text-align:center;">RELAX PARADISE</h4>
@@ -1048,6 +1050,18 @@ permalink: RELAX_PARADISE/
         </div>
         <a href="/happy_drops" class="storyName" target="_blank">
             <span>happy drops</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179"
+                alt="WILDLAND SURVIVOR"
+            />
+        </div>
+        <a href="/WILDLAND_SURVIVOR" class="storyName" target="_blank">
+            <span>WILDLAND SURVIVOR</span>
             <span class="read"></span>
         </a>
     </div>

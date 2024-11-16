@@ -170,7 +170,7 @@ He might be in trouble somehow, so I’ll go check out how he’s doing in the d
             If in the slight chance that some problem occurs, I’ll speak to the staff walking around here.
             {% endbubble %}
             {% bubble Hiyori smileexplain %}
-            You should prioritize preparing for the screening and ensuring everything is in order, no?
+            You should prioritize preparing for the judging and ensuring everything is in order, no?
 			{% endbubble %}
         </div>
     </div>

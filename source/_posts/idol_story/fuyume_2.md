@@ -334,9 +334,9 @@ Don’t wanna apologize.
 {% endbubble %}
 
 {% bubble Midori awkward %}
-Uwah—… Yeah, I get it. Alright, if you want, I could ask if they’d remove the staff member you said you hate from this job.
+Uwah—… Yeah, I get it. Alright, if you want, I could ask if they could remove the staff member you said you hate from this job.
 
-We have the right to make those sorta requests, at least. We don’t have to do a job we don’t want to do.
+We have the right to make those sort of requests, at least. We don’t have to do a job we don’t want to do.
 {% endbubble %}
 
 {% bubble Fuyume curious %}

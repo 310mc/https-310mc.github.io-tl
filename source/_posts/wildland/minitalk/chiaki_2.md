@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Chiaki Mini Talk: Wild-like Behavior"
-date: 2024/9/16 9:07:00
+date: 2024/11/14 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:
 - Mini Talk
 description: "[ES!!] Chiaki’s second Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">

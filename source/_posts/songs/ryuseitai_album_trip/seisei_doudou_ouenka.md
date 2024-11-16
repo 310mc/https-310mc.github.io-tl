@@ -408,6 +408,18 @@ permalink: seisei_doudou_ouenka/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179"
+                alt="WILDLAND SURVIVOR"
+            />
+        </div>
+        <a href="/WILDLAND_SURVIVOR" class="storyName" target="_blank">
+            <span>WILDLAND SURVIVOR</span>
+            <span class="read"></span>
+        </a>
+    </div>
   </div>
 </article>
 

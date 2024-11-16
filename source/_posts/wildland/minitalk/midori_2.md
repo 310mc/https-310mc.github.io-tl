@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Midori Mini Talk: Peculiar Illustration"
-date: 2024/9/16 9:07:00
+date: 2024/11/14 9:04:00
 categories:
 - [Enstars, Midori]
 tags:
 - Mini Talk
 description: "[ES!!] Midori’s second Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -54,7 +53,7 @@ hidden: true
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_Qghk66febf13uKY4.webp?timestamp=1727971098456 %}
 
 {% bubble Midori smilesoft %}
-Haah, this soft, loose-looking energy is just perfect…
+Haah, this loose-looking energy is just perfect…
 {% endbubble %}
 
 {% bubble Midori smileconfident %}
@@ -88,9 +87,9 @@ Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
             It isn’t, but maybe you could think of it that way depending on how you look at it…?
             {% endbubble %}
             {% bubble Midori smile %}
-            Every time I look at it from a different angle, it shows me a different expression. This must be the so-called wonderous drawings, right?
+            Every time I look at it from a different angle, it shows me a different expression. This must mean it’s one of illustration masterpieces, right?
 
-            Anzu-san, thank you for giving me such a beautiful way to look at this~♪
+            Anzu-san, thank you for giving me such a beautiful realization about it~♪
 			{% endbubble %}
         </div>
     </div>
@@ -101,9 +100,9 @@ Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_z5nx3T66febf13N6.webp?timestamp=1727971098659 %}
 
 {% bubble Midori norsmile2 %}
-When I was looking through storybook of Alice in Wonderland at the resting room, Master Artist Fushimi happened to pass by and greet me.
+When I was looking through the storybook of Alice in Wonderland at the resting room, Master Artist Fushimi happened to pass by and greet me.
 
-At that moment, I felt like seeing Master Artist Fushimi’s version of Alice in Wonderland…
+At that moment, I felt like seeing Master Artist Fushimi’s depiction of Alice in Wonderland…
 {% endbubble %}
 
 {% bubble Midori grin %}
@@ -117,12 +116,12 @@ So I asked him out of the blue, and he agreed to draw me something if I promised
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori smileconfident %}
-            Ah, you’re even looking at the corners, huh…? ♪ This is the Cheshire Cat.
+            Ah, good to know you’re even looking at the corners…♪ This is the Cheshire Cat.
 
             Its grinning face looks so loose and adorable, it’s the *best*…
             {% endbubble %}
             {% bubble Midori smilesoft %}
-            Oh, I know. I’ll take a photo of it and set it as my phone’s wallpaper. I’ll get to be filled with happiness every time I open my phone now…♪
+            Oh, I know. I’ll take a photo of it and set it as my phone’s wallpaper. It’ll fill me with happiness every time I open my phone…♪
 			{% endbubble %}
         </div>
     </div>
@@ -132,13 +131,13 @@ So I asked him out of the blue, and he agreed to draw me something if I promised
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori smileexplain %}
-            Look at this part more closely. Do you see the clock?
+            Look at this part more closely. Do you see the watch?
             {% endbubble %}
             {% bubble Midori norsmile %}
             Yes, it’s the white rabbit. It looks so unique with its surprisingly long ears.
             {% endbubble %}
             {% bubble Midori northinking %}
-            If it actually existed in real life, I’d gladly adore it every day with hugs… Maybe I’ll commission someone to get it made…?
+            If it actually existed in real life, I’d gladly adore it every day with hugs… Maybe I’ll have a manufacturer make one…?
 			{% endbubble %}
         </div>
     </div>
@@ -157,38 +156,38 @@ Maybe I’ll go check out a shop and buy one while on my way home. Was there an 
 {% endbubble %}
 
 {% bubble Midori curious %}
-Huh? There’s a spare frame in the ES storehouse? But wouldn’t it be wrong of me to have it…?
+Huh? There’s a spare frame in the ES warehouse? But wouldn’t it be wrong of me to have it…?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-          They were planning to dispose of it, so…
+          It was going to be disposed of, so…
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile2 %}
-            They’re acquiring a storehouse area, so they’re planning to collect everything and dispose of them, huh…
+            It was taking up space in the warehouse, so they were planning to collect everything and dispose of it, huh…
 
-            If it’s going to just get thrown away, then punishment won’t fall on me for taking it, right…?
+            If it’s just going to get thrown away, then punishment won’t fall on me for taking it, right…?
             {% endbubble %}
             {% bubble Midori smileconfident %}
-            Alright then, may you give it to me at a later time? I’ll then be sure to fit this drawing in perfectly.
+            Alright then, may I have it later? Once I do, I’ll be sure to fit this drawing in perfectly.
 			{% endbubble %}
         </div>
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            I think it would perfectly suit this drawing.
+            I think it would suit this drawing perfectly.
         </div>
         <div class="minitalk-option_content">
             {% bubble Midori norsmile3 %}
             Huh, well if you say it so confidently, then it must be true…?
             {% endbubble %}
             {% bubble Midori smilesoft %}
-            A picture frame that perfectly suits this drawing, huh… I wonder how it looks like? I hope it has some cute decorations…♪
+            A picture frame that suits this drawing perfectly, huh… I wonder what it looks like? I hope it has some cute decorations…♪
             {% endbubble %}
             {% bubble Midori smileexplain %}
-            Since you’re going to go through all this effort for me, may I see it first? If I like it, I’ll be glad to take it.
+            Since you might go through all this effort for me, may I see it first? If I like it, I’d be glad to take it.
 			{% endbubble %}
         </div>
     </div>

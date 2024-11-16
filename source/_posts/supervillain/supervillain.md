@@ -24,8 +24,8 @@ permalink: supervillain/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                <em>While one advances towards a future that cannot be foretold—<br>
-                What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
+                <em>When one advances towards the unforeseeable future—<br>
+                Is the necessary answer to their inner self ‘justice’, or ‘evil’?<br>
                 Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">
@@ -118,8 +118,8 @@ permalink: supervillain/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                <em>While one advances towards a future that cannot be foretold—<br>
-                What is the answer necessary for their inner self? Is it evil, or is it justice?<br>
+                <em>When one advances towards the unforeseeable future—<br>
+                Is the necessary answer to their inner self ‘justice’, or ‘evil’?<br>
                 Or perhaps… both?</em><br><br>After an accident occurred during their rehearsal for the upcoming spring show, ‘Supervillains’, a rift arose within Ryuseitai. Half a year later, news spreads that Tetora will leave the unit and act as the leader for a new group…!?
                 </div>
                 <div class="info">

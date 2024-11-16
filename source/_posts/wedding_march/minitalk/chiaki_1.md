@@ -177,7 +177,7 @@ I'll head back to the agency office to take my belongings.
     </div>
     <div class="minitalk-option">
         <div class="minitalk-option_header">
-            Oh yeah, speaking of the agency…
+            Oh yeah, speaking of the office…
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki v2 %}
@@ -195,7 +195,7 @@ I'll head back to the agency office to take my belongings.
             {% bubble Chiaki horrified %}
             …There's a rumor about a ghost appearing in the elevator?
 
-            W-Why did you tell me that!? I'll go to the agency through the stairs, so please come with me!
+            W-Why did you tell me that!? I'll go to the office through the stairs, so please come with me!
 			{% endbubble %}
         </div>
     </div>

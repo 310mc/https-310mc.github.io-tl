@@ -1,12 +1,11 @@
 ---
 title: "WILDLAND – Tetora Mini Talk: Stylish Sports Equipment"
-date: 2024/9/16 9:07:00
+date: 2024/11/14 9:10:00
 categories:
 - [Enstars, Tetora]
 tags:
 - Mini Talk
 description: "[ES!!] Tetora’s second Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -58,9 +57,9 @@ Hehe. It’s as you said, Anego — The design on those trousers are pretty nice
 {% endbubble %}
 
 {% bubble Tetora smileconfident %}
-A junior from Karate Club told me about this sports equipment site. They sell a lotta good products, huh~
+A junior from the Karate Club told me ‘bout this sports equipment site. They sell a lotta good products, huh~
 
-It doesn’t take long to use up sports stuff, so the more good shops and sites I can check through, the better~♪
+Sports stuff quickly wear out, so the more good shops and sites I can look through, the better~♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -70,13 +69,13 @@ It doesn’t take long to use up sports stuff, so the more good shops and sites 
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora norsmile2 %}
-            This black T-shirt, huh? It works ‘cuz it’s black, and not to mention, looks pretty stylish too.
+            The black T-shirt, huh? Yeah, it’s nice ‘cuz it’s black, and looks pretty stylish at that too.
             {% endbubble %}
             {% bubble Tetora fist %}
             Aight, I’m gonna buy this T-shirt!
             {% endbubble %}
             {% bubble Tetora grin %}
-            It’s something *Anego* recommends, so ‘course it’s gonna be good. I trust your choices~♪
+            ‘Course it’s gonna be good, it’s something *Anego* recommends! I trust your choices~♪
 			{% endbubble %}
         </div>
     </div>
@@ -90,7 +89,7 @@ It doesn’t take long to use up sports stuff, so the more good shops and sites 
 
             It’s cute, but I think Midori-kun would like that sorta design more.
 
-            While I’m orderin’ other stuff, I’ll order this for him too. And then I’ll give it to Midori-kun as a present next time I see him!
+            I’ll order this for him while I’m orderin’ other stuff, too. And then I’ll give it to Midori-kun as a present the next time I see him!
 			{% endbubble %}
         </div>
     </div>
@@ -103,7 +102,7 @@ It doesn’t take long to use up sports stuff, so the more good shops and sites 
 {% bubble Tetora norsmile2 %}
 On my next day off, I’m plannin’ on checking out a physical store with Hiiro-kun.
 
-When I told Narukami-senpai and HiMERU-san ‘bout it, they told me that if I send ‘em a photo, they’ll check if it’s a stylish look or not.
+When I told Narukami-senpai and HiMERU-san ‘bout it, they told me that if I send ‘em a photo, they’ll check if it looks stylish or not.
 {% endbubble %}
 
 {% bubble Tetora awkward %}
@@ -117,12 +116,12 @@ But to be honest, I’m not that concerned ‘bout whether or not my sports clot
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora srsthinking %}
-            Oh yeah, it’s actually a luxury that I can get advice from those two, since they’re pretty fashionable.
+            True, it’s a luxury that I can get advice from ‘em, since they’re both fashionable people.
 
-            Uu~myu. I don’t wanna take up their time, so I didn’t plan on contacting ‘em, but…
+            Uu~myu. I didn’t wanna take up their time, so I didn’t plan on contacting ‘em, but…
             {% endbubble %}
             {% bubble Tetora smile %}
-            Aight, I think I’ll rely on ‘em a li’l after all!
+            Aight, I think I’ll rely on ‘em just a li’l after all!
 			{% endbubble %}
         </div>
     </div>
@@ -134,7 +133,7 @@ But to be honest, I’m not that concerned ‘bout whether or not my sports clot
             {% bubble Tetora smilesoft %}
             As in, building up on your hard work every day is important, whether for karate or fashion, right?
 
-            There’s no harm in being fashionable as someone who does work that involves being in front of others, and it’s a great opportunity to get advice ‘bout it.
+            There’s no harm in being fashionable as someone who works a job that involves being in public, and it’s a great opportunity to get advice ‘bout it, so I’ll ask ‘em.
             {% endbubble %}
             {% bubble Tetora smileconfident %}
             If I get to buy somethin’ good, I’ll be sure to show ya too, Anego~♪
@@ -148,7 +147,7 @@ But to be honest, I’m not that concerned ‘bout whether or not my sports clot
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_LmjEeD66febf13c6.webp?timestamp=1727971099135 %}
 
 {% bubble Tetora curious %}
-Ah— Shinobu-kun messaged me…? I’ll have to excuse myself a li’l.
+Ah— Shinobu-kun messaged me…? I’ll have to excuse myself for a moment.
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
@@ -164,9 +163,9 @@ We’ve all been busy lately, after all. So it looks like he went through the ef
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora curious %}
-            This is… a box of cakes?
+            This is… a box of sweets?
 
-            Another staff member bought it as an apology, but nobody is using it now? You sure it’s alright I take this…?
+            A staff member bought it as an apology, but nobody is using the box now? You sure it’s alright I take this…?
             {% endbubble %}
             {% bubble Tetora grin %}
             Got it! Then I’d be glad to take it! I’ll happily eat it along with everyone in Ryuseitai!
@@ -179,9 +178,9 @@ We’ve all been busy lately, after all. So it looks like he went through the ef
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora smile %}
-            Ah, we’re gonna have lunch together today!
+            Ah, we’re gonna go have lunch together today!
 
-            Morisawa-senpai found a tasty restaurant, so he invited us to join him ’cuz he wanted to go with everyone.
+            Morisawa-senpai found a restaurant with tasty food, so he invited us to join him ‘cuz he wanted to go with everyone.
             {% endbubble %}
             {% bubble Tetora fist %}
             That’s why I skipped breakfast today, so I could enjoy my meal even more! I’m lookin’ forward to it!

@@ -1,12 +1,11 @@
 ---
-title: "WILDLAND – Shinobu Mini Talk: A Challenge to Draw a Manga"
-date: 2024/9/16 9:06:00
+title: "WILDLAND – Shinobu Mini Talk: Challenge to Draw a Comic"
+date: 2024/11/14 9:07:00
 categories:
 - [Enstars, Shinobu]
 tags:
 - Mini Talk
 description: "[ES!!] Shinobu’s first Mini Talk from WILDLAND. From Anzu’s POV."
-hidden: true
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -58,9 +57,9 @@ I’ll replace this panel with a new drawing… like this?
 {% endbubble %}
 
 {% bubble Shinobu nod %}
-Ooh! Now that looks a lot more like it! Thank you, Anzu-dono!
+Ooh! Now that looks a lot more like it! You have my gratitude, Anzu-dono!
 
-By making a poster with a yonkoma manga, there will surely be more students who’ll find interest in the Ninja Association! ♪ 
+By making a poster with a yonkoma comic strip, there will surely be more students who’ll find interest in the Ninja Association! ♪ 
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -87,10 +86,10 @@ By making a poster with a yonkoma manga, there will surely be more students who�
             {% bubble Shinobu norsmile %}
             You believe so too, Anzu-dono?
 
-            I don’t necessarily want special attention over this, but wanting to share the things that you do with others is just another part of human nature in the end.
+            I don’t necessarily want special attention over this, but in the end, wanting to share the things that you do with others is just another part of human nature.
             {% endbubble %}
             {% bubble Shinobu smile %}
-            With this manga, I’m sure that will become a reality…♪
+            With this comic, I’m sure that will become a reality…♪
 			{% endbubble %}
         </div>
     </div>
@@ -101,13 +100,13 @@ By making a poster with a yonkoma manga, there will surely be more students who�
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_7I66febf13O9b4I2.webp?timestamp=1727971099518 %}
 
 {% bubble Shinobu smileexplain %}
-It was actually Isara-dono’s idea to try adding a manga to the poster.
+It was actually Isara-dono’s idea to try adding a comic strip in the poster.
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-After receiving such an incredible idea, I felt like I *had* to make use of it, but… Just drawing a yonkoma manga alone almost is a painstaking task, huh~?
+After receiving such an incredible idea, I felt like I *had* to make use of it, but… Just drawing a yonkoma comic alone is a painstaking task, huh~?
 
-I have so much more respect for all the professional manga artists out there now.
+I have even more respect for all the professional manga artists out there now.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
@@ -117,13 +116,13 @@ I have so much more respect for all the professional manga artists out there now
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu norsmile2 %}
-            Ahh, if I asked someone who draws manga how its like, I might be able to learn even more.
+            Ahh, if I asked someone who draws manga how its like, I might be able to learn even more indeed.
             {% endbubble %}
             {% bubble Shinobu curious %}
             That being said, I don’t believe there’s anyone I know like that…
             {% endbubble %}
             {% bubble Shinobu grin %}
-            You’ll introduce me to someone, Anzu-dono? That would be a massive help! ♪
+            You’ll introduce me to someone, Anzu-dono? That would be a great help! ♪
 			{% endbubble %}
         </div>
     </div>
@@ -133,7 +132,7 @@ I have so much more respect for all the professional manga artists out there now
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu smile %}
-            They certainly are! They think up everything on their own, from story to the art itself.
+            They certainly are! They think up everything on their own, from the story to the art itself.
 
             It’s something they wouldn’t be able to accomplish unless they’re someone with a lot of passion and skill.
             {% endbubble %}
@@ -149,7 +148,7 @@ I have so much more respect for all the professional manga artists out there now
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_BW166febf13Hz8H3.webp?timestamp=1727971099453 %}
 
 {% bubble Shinobu curious %}
-You’re suggesting that I upload the manga I drew on social media…?
+You’re suggesting that I upload the comic strip I drew on social media…?
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
@@ -184,13 +183,13 @@ But I did go through all ths effort, so I’ll start by sending it to everyone i
         </div>
         <div class="minitalk-option_content">
             {% bubble Shinobu nod %}
-            Ah, everyone responded. I’m so happy to see so many positive reactions~♪
+            Ah, everyone responded. I’m delighted to see so many positive reactions~♪
             {% endbubble %}
             {% bubble Shinobu norsmile2 %}
             Shinkai-dono in particular enjoyed it quite a lot, it seems. “The fish on the right edge is lovely”…
             {% endbubble %}
             {% bubble Shinobu northinking %}
-            This was supposed to be a shuriken, but… Now that he mentions it, it does sort of look like a fish too, huh?
+            This was supposed to be a shuriken, but… Now that he mentions it, it does sort of look like a fish too, doesn’t it?
 			{% endbubble %}
         </div>
     </div>

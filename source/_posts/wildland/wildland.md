@@ -1,6 +1,6 @@
 ---
-title: "[ES!!] WILDLAND (In Progress!)"
-date: 2024-9-23 9:00:00
+title: "[ES!!] WILDLAND"
+date: 2024/11/16 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]
@@ -10,11 +10,10 @@ tags:
 - Unspecified Writer
 description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an event inspired by Alice in Wonderland. As the commander, Tetora struggles to figure out how to present WILDLAND’s image…"
 permalink: wildland/
-hidden: true
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_kFOH66e72235alc4.webp?timestamp=1726423613120')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_hqQRYE6737a0f3c6.webp?timestamp=1731698935956')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">WILDLAND</div>
@@ -60,6 +59,7 @@ hidden: true
                             <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                             <a href="/categories/Enstars/Midori" character="Midori"></a>
                             <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -160,6 +160,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                             <a href="/categories/Enstars/Midori" character="Midori"></a>
                             <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -189,7 +190,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Associated Song
                             </div>
                           <div class="value">
-                            <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc">WILDLAND SURVIVOR</a> — <a href="/WILDLAND_SURVIVOR">Read Song Lyrics Here!</a>
+                            <a href="https://www.youtube.com/watch?v=4kjR1jNWwnc" target="_blank">WILDLAND SURVIVOR</a> — <a href="/WILDLAND_SURVIVOR" target="_blank">Read Song Lyrics Here!</a>
                             </div>
                         </div>
                         <div class="tab-item">
@@ -229,7 +230,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JjyLF66e722352s5.webp?timestamp=1726423612363">
                                 </div>
                                 <div class="caption">
-                                    The Tiger Searches Around 4
+                                    The Tiger Feels Around and Searches 4
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -464,7 +465,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="first_half" id="">The Tiger Searches Around</a>
+                            <a href="first_half" id="">The Tiger Feels Around and Searches</a>
                         </li>
                         <li>
                             <a href="second_half" id="">Possibility and Guiding Star</a>
@@ -557,11 +558,11 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_Ur7dv66e72235AS5.webp?timestamp=1726423610977"
-                alt="A Challenge to Draw a Manga"
+                alt="Challenge to Draw a Comic"
             />
         </div>
         <a href="/wildland/minitalk/shinobu_1" class="storyName" target="_blank">
-            <span>1: A Challenge to Draw a Manga</span>
+            <span>1: Challenge to Draw a Comic</span>
             <span class="read"></span>
         </a>
     </div>

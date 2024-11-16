@@ -270,7 +270,7 @@ For the ‘individual score’ grading, just like the first venue, I’d like ea
 {% bubble Nice smileconfident %}
 Now then, if we’ve finished the scoring, then it’s time we head to the next final screening.
 
-The participants of the third venue, Soukei Pagoda, await us!
+The participants of the third venue, Twin Rooster Pagoda, await us!
 
 Ahh, how I would love every one of you to show us your radiance more closely…
 
@@ -279,13 +279,13 @@ There is no need to fear. You only need to demonstrate your abilities as your tr
 For you see, all I want to do is deliver that brilliance of yours to the whole entire world…♪
 {% endbubble %}
 
-## Screening Results
+## Judging Results
 
 *The top 4 people selected for the “Nice Dream Unit” will be...!*
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ojy66bbd5cbOu9h3.webp?timestamp=1723586004169 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_71a67326ddex9SI3.webp?timestamp=1731358181177 %}
 
-<a href="https://f005.backblazeb2.com/file/reitoouji/ro_Ojy66bbd5cbOu9h3.webp?timestamp=1723586004169" target="_blank">Full view of picture here.</a>
+<a href="https://f005.backblazeb2.com/file/reitoouji/ro_71a67326ddex9SI3.webp?timestamp=1731358181177" target="_blank">Full view of picture here.</a>
 
 <big><b>Note, Gourmet District scoring is as follows:</b></big>
 

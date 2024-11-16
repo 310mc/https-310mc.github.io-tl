@@ -45,6 +45,12 @@ body {
     --msr-icon-size: 69px;
   }
 /** End Chat format ***/
+
+/** For Story Cover Format ***/
+.preview-wrapper .title-area__subtitle {
+    line-height: 1.15;
+}
+/** End Story Cover Format ***/
 /** END ADJUSTMENTS FOR OTHER CODE **/
 
 
