@@ -2816,7 +2816,7 @@ please Explain things to me properly! listen to what a god Tells you to do!
 ## Translation Notes
 
 [^1]: The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a>, which is business conglomerates in Japan.
-[^2]: He calls Souma a <em>chuunibyou</em>, because it has the kanji for “illnesss”.
+[^2]: He calls Souma a <em>chuunibyou</em>, because it has the kanji for “illness”.
 [^3]: Referring to <a href="https://en.wikipedia.org/wiki/Yama_%28Buddhism%29" target="_blank">Yama</a>.
 [^4]: “Mysterious” here is the same word used in Ryusei Blue's catchphrase 神秘(性).
 [^5]: Originally <em>oyabun</em> (親分), which can mean a father, and also an (evil) boss.

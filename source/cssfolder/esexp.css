@@ -770,6 +770,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanata_kidyare.png");
 }
 
+
 [character="Kanata"][past] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatapast.png");
 }
@@ -4750,6 +4751,19 @@
   --hue: 346.7;
   --name: "Chiaki & Kanata";
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_kanatachiakiworried.png")
+}
+
+[character=KanataChiaki]{
+  --color: #e60033;
+  --hue: 346.7;
+  --name: "Chiaki & Kanata";
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_kanatachiakiworried.png")
+}
+[character="KanataChiaki"][worried] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_kanatachiakiworried.png")
+}
+[character="KanataChiaki"][grin] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/d_kanatachiakigrin.png")
 }
 
 [character=MidoriShinobu]{

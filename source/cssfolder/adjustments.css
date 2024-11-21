@@ -280,35 +280,47 @@ body {
     color: #008db7;
   }
   
-  .eichi {
+  .eichi, .Eichi {
     color: #EEB442;
   }
   
-  .mao {
+  .hokuto, .Hokuto {
+    color: #0068B7;
+  }
+  
+  .mao, .Mao {
     color: #E25285;
   }
   
-  .niki {
+  .niki, .Niki {
     color: #507EA4;
   }
   
-  .kaoru {
+  .rei, .Rei {
+    color: #47266E;
+  }
+  
+  .kaoru, .Kaoru {
     color: #AA9255;
   }
   
-  .keito {
+  .keito, .Keito {
     color: #008100;
   }
   
-  .mitsuru {
+  .souma, .Souma {
+    color: #615eb6;
+  }
+  
+  .mitsuru, .Mitsuru {
     color: #D2691E;
   }
   
-  .leo {
+  .leo, .Leo {
     color: #FF6857;
   }
   
-  .natsume {
+  .natsume, .Natsume {
     color: #E04343;
   }
 /** Character colors **/
