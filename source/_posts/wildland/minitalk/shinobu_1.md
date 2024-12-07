@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Shinobu Mini Talk: Challenge to Draw a Comic"
-date: 2024/11/14 9:07:00
+date: 2024/9/16 9:07:00
 categories:
 - [Enstars, Shinobu]
 tags:

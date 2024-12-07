@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Prologue"
-date: 2024/11/15 9:00:00
+date: 2024/9/15 9:00:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Hiiro]

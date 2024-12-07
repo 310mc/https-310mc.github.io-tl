@@ -1,6 +1,6 @@
 ---
 title: "[Song] WILDLAND SURVIVOR"
-date: 2024/11/16 8:00:00
+date: 2024/9/15 8:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Tetora]

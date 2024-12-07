@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Kanata Mini Talk: boasting one’s strength"
-date: 2024/11/14 9:06:00
+date: 2024/9/16 9:06:00
 categories:
 - [Enstars, Kanata]
 tags:

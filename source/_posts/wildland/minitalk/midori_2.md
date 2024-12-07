@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Midori Mini Talk: Peculiar Illustration"
-date: 2024/11/14 9:04:00
+date: 2024/9/16 9:04:00
 categories:
 - [Enstars, Midori]
 tags:

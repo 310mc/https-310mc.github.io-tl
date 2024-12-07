@@ -9,14 +9,14 @@ categories:
 tags:
 - Idol Story
 - Kino Seitaro
-description: "[ES!] Translation of a Kuro sub story, featuring Midori and Tetora. Kuro wants to learn more about a certain mascot from Midori…"
+description: "[ES!] Translation of a Kuro sub story, featuring Midori and Tetora. Kuro wants to learn more about a certain yuruchara from Midori…"
 permalink: crimsons_pure_heart/
 ---
 
 ![](/img/es/idolstory/crimsonspureheart/c1.jpg)|![](/img/es/idolstory/crimsonspureheart/c2.jpg)
 :-:|:-:
 
-Kuro wants to learn more about a certain mascot from Midori…
+Kuro wants to learn more about a certain yuruchara from Midori…
 
 This story is connected to the card [Carrot’s Relations] Kuro Kiryu.
 
@@ -89,7 +89,7 @@ Basketball…? Nono, I refuse…!
 
 I’d rather stay in this air-conditioned room than suffer outside in the heat… And if I play basketball, I won’t be able to escape being reminded of how suffocating Morisawa-senpai is.
 
-I wanna soothe myself with mascot characters during my break time, at least…
+I wanna soothe myself with yuruchara during my break time, at least…
 {% endbubble %}
 
 {% bubble Tetora %}
@@ -149,7 +149,7 @@ Are you gonna invite him to the Karate Club? But he’s already in the Basketbal
 {% endbubble %}
 
 {% bubble Midori %}
-Uuu… Am I gonna be tied up and thrown into the ocean…? I’d rather die than be tortured alive… I wanna die…
+Uuu… Am I going to be tied up and thrown into the ocean…? I’d rather die than be tortured alive… I wanna die…
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -207,7 +207,7 @@ No, really, that’s not what I’m tryna say.
 
 My bad. I look like a punk, so I must’ve given you the wrong idea.
 
-Takamine. I heard you know a lot about mascot characters. Tell me a thing or two about ‘em.
+Takamine. I heard you know a lot ‘bout yuruchara. Tell me a thing or two about ‘em.[^2]
 {% endbubble %}
 
 {% bubble Midori %}
@@ -217,7 +217,7 @@ Huh…?
 {% bubble Kuro %}
 Y’see, it’s a li’l hard to talk about this in front of Tetsu. He admires my masculinity, so it’ll hit me hard if he thinks I’m an obsessive or even overly affectionate big brother.
 
-…I think you saw her last time, but I have a li’l sis, y’see. She told me that there’s a certain mascot that’s been popular around her school lately.
+…I think you saw her last time, but I have a li’l sis, y’see. She told me that there’s a certain yuruchara that’s been popular around her school lately.
 
 But I dunno a single thing ‘bout what’s trendin’ these days, so she snapped at me, tellin’ me I’m ignorant. She’s right though, I’m such a shameful big bro.
 {% endbubble %}
@@ -227,7 +227,7 @@ Kiryu-senpai…
 {% endbubble %}
 
 {% bubble Kuro %}
-That’s when I remembered Tetsu tellin’ me that you know a lot ‘bout mascot characters.
+That’s when I remembered Tetsu tellin’ me that you know a lot ‘bout yuruchara.
 
 I know this is sudden, but if it’s alright with ya, couldja tell me a li’l about ‘em? Please, I’m *beggin’* ya here.
 {% endbubble %}
@@ -237,17 +237,17 @@ P-Please stop! You don’t have to bow…!
 {% endbubble %}
 
 {% bubble Kuro %}
-Nah, I gotta, or I won’t feel right about asking you for this.
+Nah, I gotta, or I won’t feel right ‘bout asking you for this.
 
-…Or what? You think it’s weird that a punk-lookin’ tough guy like me wants to know more about mascots?
+…Or what? You think it’s weird that a punk-lookin’ tough guy like me wants to know more about yuruchara?
 {% endbubble %}
 
 {% bubble Midori %}
-N-No. I’m pretty timid despite my height, so people often tell me that I’m different from what they expected…
+N-No. I’m a timid person with a height like this, so people often say that I’m different from what they expected…
 
-Also, mascots are loved by everyone, regardless of gender. I refuse to let anyone make fun of a guy for liking them.
+Also, yuruchara are loved by everyone, regardless of gender. I refuse to excuse anyone who makes fun of a guy for liking them.
 
-I could teach you anything if it’s gonna be about mascot characters. But I always ramble on for days about them, so… Are you sure you wanna know…?
+I could teach you anything if it’s going to be about yuruchara. But I always ramble on for days about them, so… Are you sure you want to know…?
 {% endbubble %}
 
 {% bubble Kuro %}
@@ -257,11 +257,11 @@ Yup, that’s just what I wanted. You’re free to ramble for the rest of our lu
 {% bubble Midori %}
 O-Okay then…
 
-Ummm… What type of mascot is popular in your sister’s school…?
+Ummm… Which character is popular in your sister’s school…?
 {% endbubble %}
 
 {% bubble Kuro %}
-Ahh, I think it looks like this plushie here. You really can’t tell whether it’s meant to be an alien or a veggie, huh…[^2]
+Ahh, I think it looks like this plushie here. You really can’t tell whether it’s meant to be an alien or a veggie, huh…[^3]
 {% endbubble %}
 
 {% bubble Midori %}
@@ -271,7 +271,7 @@ Wha— You mean Carrotian!? Wait, isn’t this handmade?
 {% bubble Kuro %}
 Yeah. Made it by watchin’ how plushies are made. I was gonna give it to ya as thanks.
 
-Tell me if it looks too shabby or nothin’ like the mascot. Sewin’ up a plushie requires a different method from outfits, y’see.
+Tell me if it looks too shabby or nothin’ like the character. Sewin’ up a plushie requires a different method from outfits, y’see.
 {% endbubble %}
 
 {% bubble Midori %}
@@ -289,15 +289,15 @@ It makes ya that happy to know that this Carrotian dude is popular?
 {% endbubble %}
 
 {% bubble Midori %}
-Yes. He’d been struggling for a long time as a low man— low *mascot* on the totem pole.
+Yes. He’d been struggling for a long time as a low man— low *yuruchara* on the totem pole.
 
 I’m from a greengrocer, so that’s another reason why I’ve been secretly cheering him on… I’m so, so happy to hear that he’s finally getting popular…♪
 {% endbubble %}
 
 {% bubble Kuro %}
-Haha, low man on the totem pole? He sounds like one of us idols~♪
+Haha, low on the totem pole? He sounds like one of us idols~♪
 
-But it sounds like I could get to know him better than I thought. I feel like I get why he’s trendin’ now — and why mascots are a thing.
+But it sounds like I could get to know him better than I thought. I feel like I get why he’s trendin’ now — and why yuruchara are a thing.
 
 Aight then, how about you start tellin’ me his story from the time he was at the bottom?
 {% endbubble %}
@@ -326,4 +326,5 @@ Okay, I’d be glad to…♪
 ## Translation Notes
 
 [^1]: Referring to <a href="/tough_guy/" target="_blank">Tough Guy</a>.
-[^2]: You can see how Carrotian looks on Kuro’s bloomed card (see the card images at the top of this page).
+[^2]: Yuruchara; <em>yuru</em> meaning “loose,” “soft,” “laid-back,” + the word “character”. <em>Yuruchara</em> are a type of mascot characters, with their defining feature being that they have very peculiar designs, ranging from bizarre-cute to adorkable. They’re well-known for being used all across Japan for PR purposes for companies, prefectures, etc… For more information read more <a href="https://en.wikipedia.org/wiki/yuruchara" target="_blank">here</a>.
+[^3]: You can see how Carrotian looks on Kuro’s bloomed card (see the card images at the top of this page).

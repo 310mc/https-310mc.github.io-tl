@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Shinobu Mini Talk: Bouldering Skills"
-date: 2024/11/14 9:08:00
+date: 2024/9/16 9:08:00
 categories:
 - [Enstars, Shinobu]
 tags:

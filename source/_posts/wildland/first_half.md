@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – The Tiger Feels Around and Searches"
-date: 2024/11/15 9:01:00
+date: 2024/9/15 9:01:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

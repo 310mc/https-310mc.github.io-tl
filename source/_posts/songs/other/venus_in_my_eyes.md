@@ -1,6 +1,6 @@
 ---
 title: "[Song] Venus in my eyes ~Tonight, I won’t let go~"
-date: 2020/4/15 8:00:00
+date: 2024/10/29 8:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Hokuto]
@@ -12,7 +12,6 @@ tags:
 - Song Lyrics
 description: "Translation of Venus in my eyes ~Tonight, I won’t let go~ Song Lyrics by 310mc. Sung by Hokuto, Midori, Rei, Kaoru, and Souma."
 permalink: venus_in_my_eyes/
-hidden: true
 ---
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_7673f1342AovCFj1.webp?timestamp=1732186947859 %}
@@ -86,7 +85,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="Kaoru">Kaoru</span> & <span class="Souma">Souma</span></td>
-    <td>I hope to reflect that answer in those sorrowful eyes of yours</td>
+    <td>I hope to reflect that answer in those sorrowful eyes</td>
   </tr>
   <tr>
     <td><br></td>
@@ -130,7 +129,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="Rei">Rei</span> & <span class="Kaoru">Kaoru</span></td>
-    <td>I won’t let you go — I’ve made up my mind</td>
+    <td>I won’t let go of you — I’ve made up my mind</td>
   </tr>
   <tr>
     <td class="name"><span class="Hokuto">Hokuto</span> & <span class="Midori">Midori</span> & <span class="Souma">Souma</span></td>
@@ -251,7 +250,7 @@ hidden: true
   <tr>
     <td class="name">All</td>
     <td>
-    I want to keep you locked you in these eyes of mine, making myself even forget to blink
+    I want to keep you locked in these eyes of mine, making myself even forget to blink
     <br>
     Burning alight until it can never fade away
     </td>
@@ -294,7 +293,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="Hokuto">Hokuto</span></td>
-    <td>“Prepare yourself — Because I’m going to make you my fate”[^1]</td>
+    <td>“Prepare yourself, because I’m going to make you my fate”[^1]</td>
   </tr>
   <tr>
     <td><br></td>
@@ -318,7 +317,7 @@ hidden: true
   </tr>
   <tr>
     <td class="name"><span class="Hokuto">Hokuto</span></td>
-    <td>For you are a beloved radiance[^3]</td>
+    <td>For you are the beloved radiance[^3]</td>
   </tr>
   <tr>
     <td class="name">All</td>
@@ -357,11 +356,11 @@ hidden: true
 
 > While writing the lyrics, I was especially particular about the straightforward depiction of eyes that seem to gaze straight at you, the lyrics distribution, and the dialogue parts that I don’t usually get to write in unit songs, and I thought over passion, possessiveness, allure, protection, heaviness… Just all sorts of things while writing!
 
-<b>(1.)</b> <i>Translator’s note:</i> The persona of this song uses <em>ore</em> (for “I”) and <em>omae</em> (for “you”), and both pronouns give a masculine and rough feeling to the persona and the song. <em>Omae</em> is only used five times, and all have been marked.
+<!--<b>(1.)</b> <i>Translator’s note:</i> The persona of this song uses <em>ore</em> (for “I”) and <em>omae</em> (for “you”), and both pronouns give a masculine and rough feeling to the persona and the song. <em>Omae</em> is only used five times, and all have been marked.-->
 
-<b>(2.)</b> In their dialogue parts (the ones between quotation marks), Rei, Hokuto, and Souma use <em>omae</em> for “you”. It’s not unusual for Hokuto to use <em>omae</em>, but it is for Souma, who typically speaks in formal Japanese, as well as Rei, who speaks like an “old man”. Ore-rei (Pre-3rd year Rei) used to use <em>omae</em>, though.
+<b>(1.)</b> In their dialogue parts (the ones between quotation marks), Rei, Hokuto, and Souma use <em>omae</em> for “you”. It’s not unusual for Hokuto to use <em>omae</em>, but it is for Souma, who typically speaks in formal Japanese, as well as Rei, who speaks like an “old man”. Ore-rei (Pre-3rd year Rei) used to use <em>omae</em>, though.
 
-<b>(3.)</b> On the other hand, Midori and Kaoru have no <em>omae</em> in their dialogue; the “you” is implied without being stated. 
+<b>(2.)</b> On the other hand, Midori and Kaoru have no <em>omae</em> in their dialogue; the “you” is implied without being stated. 
 
 [^1]: Here, the lyrics use <em>omae</em> for “you”. <em>Omae</em> gives a masculine and rough feel, fitting of the mature and passionate love the singers have. See the <a href="#Translation-Notes">translation notes</a> for more information.
 [^2]: Rouge refers to the cosmetic red blusher or lipstick.

@@ -1145,7 +1145,7 @@ I wouldn't say you're that small, though… Aren't you the most well-built out o
 {% endbubble %}
 
 {% bubble Hajime %}
-No no, my family's surprisingly tall, so I'm the second shortest.
+No, no~ Everyone’s surprisingly tall in the unit, so I'm the second shortest.
 
 And if I get bigger I think I wouldn't be as cute…? It wouldn’t be Ra*bits-like…? That's what I think at least, but we're all in our growing periods, so…♪
 {% endbubble %}

@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Midori Mini Talk: Surprising Dropped Item"
-date: 2024/11/14 9:03:00
+date: 2024/9/16 9:03:00
 categories:
 - [Enstars, Midori]
 tags:

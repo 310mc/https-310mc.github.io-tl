@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] WILDLAND"
-date: 2024/11/16 9:00:00
+date: 2024/9/23 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
 - [Enstars, Ryuseitai, Ryuseitai POWER UP]

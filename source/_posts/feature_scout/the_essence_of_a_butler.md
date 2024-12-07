@@ -34,13 +34,13 @@ This story is connected to the card [Devoted Valet] Yuzuru Fushimi.
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
-								<a href="/categories/Enstars/Keito" character="Keito"></a>
-                <a href="/categories/Enstars/Midori" character="Hiiro"></a>
-                <a href="/categories/Enstars/Midori" character="Aira"></a>
-                <a href="/categories/Enstars/Midori" character="Mika"></a>
-                <a href="/categories/Enstars/Midori" character="Tori"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Yuzuru" character="Yuzuru"></a>
+                    <a href="/categories/Enstars/Keito" character="Keito"></a>
+                    <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
+                    <a href="/categories/Enstars/Aira" character="Aira"></a>
+                    <a href="/categories/Enstars/Mika" character="Mika"></a>
+                    <a href="/categories/Enstars/Tori" character="Tori"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -410,11 +410,11 @@ I feel like it’s sometimes more overbearing to look at a design if it has a bu
 {% endbubble %}
 
 {% bubble Yuzuru %}
-A mascot character key strap…?
+A yuruchara key strap…?
 {% endbubble %}
 
 {% bubble Midori smile %}
-This is the local mascot “Alien Tomato”.[^2] They’re a mascot born from a tomato farm, and even though being a tomato is the only thing they have going for them, they’re suuuper unique…♪
+This is the local yuruchara “Alien Tomato”.[^2] They’re a yuruchara born from a tomato farm, and even though being a tomato is the only thing they have going for them, they’re suuuper unique…♪
 
 So I think it’s fine if you had your personalized outfit looking like a butler, Master Artist Fushimi. Your fans would probably enjoy seeing you in a formal uniform, anyway…
 {% endbubble %}
@@ -503,4 +503,4 @@ For your sake, and for my fans as well—I will pour my heart and soul, and cont
 ## Translation Notes
 
 [^1]: Referring to Toyland. You can see an example of his art <a href="https://ensemble-stars.fandom.com/wiki/%28Tin_Soldier%29_Yuzuru_Fushimi" target="_blank">here</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation of Toyland.
-[^2]: He first mentions this mascot in <a href="/staying_true_to_myself" target="_blank">True To Myself, Staying The Way I Am</a>.
+[^2]: He first mentions this yuruchara in <a href="/staying_true_to_myself" target="_blank">True To Myself, Staying The Way I Am</a>.

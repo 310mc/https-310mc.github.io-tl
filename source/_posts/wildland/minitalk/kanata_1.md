@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Kanata Mini Talk: fish [paintings]"
-date: 2024/11/14 9:05:00
+date: 2024/9/16 9:05:00
 categories:
 - [Enstars, Kanata]
 tags:

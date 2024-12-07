@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Possibility and Guiding Star"
-date: 2024/11/15 9:02:00
+date: 2024/9/15 9:02:00
 categories:
 - [Enstars, Midori]
 - [Enstars, Chiaki]

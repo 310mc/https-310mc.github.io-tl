@@ -1,6 +1,6 @@
 ---
 title: "WILDLAND – Chiaki Mini Talk: Wild-like Behavior"
-date: 2024/11/14 9:01:00
+date: 2024/9/16 9:01:00
 categories:
 - [Enstars, Chiaki]
 tags:

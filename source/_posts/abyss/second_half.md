@@ -1024,7 +1024,7 @@ You don’t have any obligation to call such an awful human being your “mother
 {% endbubble %}
 
 {% bubble Kanata awkward %}
-i think that could not be helped, though. mother was a [god] muuuch longer than i ever was.
+i think there was no helping that, though. mother was a [god] muuuch longer than i ever was.
 
 it is not her fault that she did not have enough [experience] as a human being.
 
@@ -1060,7 +1060,7 @@ Seeing us perform that feat, your mother might’ve felt relief, thinking, “Th
 {% endbubble %}
 
 {% bubble Madara frown %}
-That’s also a pretty selfish story in of itself, but well, it really can’t be helped. I don’t think your mother had everything her way, either.
+That’s also a pretty selfish story in of itself, but well, there wasn’t really any way to prevent that. I don’t think your mother had everything her way, either.
 
 The incident likely originated from your mother, and later our parents got involved.
 {% endbubble %}
