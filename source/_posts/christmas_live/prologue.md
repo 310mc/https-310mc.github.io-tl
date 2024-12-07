@@ -57,7 +57,7 @@ description: "[ES!] While all the units in the academy make preparations for the
     <p><span><b>Location:</b> Yumenosaki Academy Corridors</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_cNGG567546441w55.webp?timestamp=1733583944842 %}
 
 {% bubble Yuzuru sighfrown %}
 …<em>Sigh</em>. I’m sorry, could you please repeat yourself?

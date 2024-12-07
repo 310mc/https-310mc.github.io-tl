@@ -14,7 +14,7 @@ permalink: christmas_live/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/christmaslive/midoribcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_yGQD6xZ675464417.webp?timestamp=1733583947756')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Christmas Live</div>
@@ -104,10 +104,10 @@ permalink: christmas_live/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/christmaslive/yutaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_vj67546441hn4Kh2.webp?timestamp=1733583946880)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/christmaslive/tetorabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_QwnxJh67546441s6.webp?timestamp=1733583948001"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Christmas Live</div>
@@ -208,7 +208,7 @@ permalink: christmas_live/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/yutaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vj67546441hn4Kh2.webp?timestamp=1733583946880">
                                 </div>
                                 <div class="caption">
                                     Dot to Dot 1
@@ -216,7 +216,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vo3NJN67546441y6.webp?timestamp=1733583947551">
                                 </div>
                                 <div class="caption">
                                     Dot to Dot 2
@@ -224,7 +224,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_xUBS0E6754644166.webp?timestamp=1733583944939">
                                 </div>
                                 <div class="caption">
                                     Dot to Dot 3
@@ -232,7 +232,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Iy67546441VhBvT2.webp?timestamp=1733583950286">
                                 </div>
                                 <div class="caption">
                                     Dot to Dot 5
@@ -240,7 +240,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Rpm67546441SYIM3.webp?timestamp=1733583949071">
                                 </div>
                                 <div class="caption">
                                     Star Chart 2
@@ -248,7 +248,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67546441BtGNCbJ0.webp?timestamp=1733583947147">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -256,7 +256,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/yutabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kpwc67546441NBM4.webp?timestamp=1733583949731">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -264,7 +264,7 @@ permalink: christmas_live/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/christmaslive/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_a67546441Cywy0k1.webp?timestamp=1733583947303">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -350,7 +350,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/tetoraframe_300px.jpg"
+                src=""
                 alt="Before Christmas Eve"
             />
         </div>
@@ -362,7 +362,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+                src=""
                 alt="Difficult Trial"
             />
         </div>
@@ -374,7 +374,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/midoriframe_300px.jpg"
+                src=""
                 alt="On My Mind…"
             />
         </div>
@@ -386,7 +386,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/midoribcgframe_300px.jpg"
+                src=""
                 alt="Melancholic Live"
             />
         </div>
@@ -398,7 +398,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/chiakiframe_300px.jpg"
+                src=""
                 alt="Winter Needs Warmth"
             />
         </div>
@@ -410,7 +410,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/chiakibcgframe_300px.jpg"
+                src=""
                 alt="Junior of Concern"
             />
         </div>
@@ -422,7 +422,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/yutaframe_300px.jpg"
+                src=""
                 alt="Christmas Business"
             />
         </div>
@@ -434,7 +434,7 @@ permalink: christmas_live/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/yutabcgframe_300px.jpg"
+                src=""
                 alt="Brotherly Quarrel"
             />
         </div>

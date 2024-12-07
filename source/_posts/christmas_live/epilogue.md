@@ -76,7 +76,7 @@ description: "[ES!] While all the units in the academy make preparations for the
     <p><span><b>Location:</b> Park’s Live Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67546441BtGNCbJ0.webp?timestamp=1733583947147 %}
 
 {% bubble Tetora fist %}
 Alright, everyone! There’s not much time left ‘til the Eve’s Eve Live is over!
@@ -128,7 +128,7 @@ It’s hard not to feel angry, or rather, pathetic. You understand, don’t you,
 Ooh, Yuuta-kun! The outfit suits you perfectly~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/epilogue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_o94qiVK675464417.webp?timestamp=1733583947862 %}
 
 {% bubble Yuta yare %}
 That’s ‘cause it was tailored to fit Aniki exactly. So it fits me perfectly as well. At least for now, as frustrating as that is.
@@ -138,7 +138,7 @@ That’s ‘cause it was tailored to fit Aniki exactly. So it fits me perfectly 
 Well *I’m* happy that we can still wear the same outfits… We’ll get to make even more memories this year as just the two of us, right? ♪
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/yutabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_kpwc67546441NBM4.webp?timestamp=1733583949731 %}
 
 {% bubble Yuta smileconfident %}
 It’s no longer just you and I, Aniki. Come on, things aren’t the same as “back then” when we were on the streets, shivering in the cold. We’re surrounded by the many, many stars of Ryuseitai.
@@ -239,7 +239,7 @@ If you turn your hobbies into a job, then you won’t have any refuge… However
     <p>The following chapter contains a brief mention of hanging.</p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/epilogue2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_c67546441taYhog1.webp?timestamp=1733583947496 %}
 
 {% bubble Yuzuru %}
 Hm. So Anzu-san is decorating the Christmas tree…
@@ -247,7 +247,7 @@ Hm. So Anzu-san is decorating the Christmas tree…
 Ah, there it is. So there’s a Christmas tree atop the stage?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_a67546441Cywy0k1.webp?timestamp=1733583947303 %}
 
 {% bubble Midori sad3 %}
 Ughh… Today’s seriously just not my day… I’m so depressed, I wanna die…

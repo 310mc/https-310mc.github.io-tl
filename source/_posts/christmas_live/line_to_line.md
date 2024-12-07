@@ -74,7 +74,7 @@ description: "[ES!] While all the units in the academy make preparations for the
     <p><span><b>Location:</b> Downtown</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/line1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_yqhrR67546441eN5.webp?timestamp=1733583946388 %}
 
 {% bubble Yuta frown %}
 <th>(Hmm… Guess it’s a no-go after all. Anzu-san isn’t picking up the phone.)</th>
@@ -254,7 +254,7 @@ My soul nearly left my body there, you know~! You were talking to me just a mome
 Huh? What do you mean by that… Wait, you’re right, that <em>is</em> Aniki over there, across the street!
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/line2-1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bDXx67546441si04.webp?timestamp=1733583948040 %}
 
 {% bubble Hinata grin %}
 ~……♪
@@ -274,7 +274,7 @@ W-What are you doing, Aniki? And what’s with that outfit? Is it Santa-san…? 
 <th>(But I think he’ll get angry if I say that; I shall keep my mouth zipped here. I’m the kind of kid who can read the room.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/line2-2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_867546441CIYN4d1.webp?timestamp=1733583946565 %}
 
 {% bubble Tetora fist %}
 ~……♪
@@ -434,7 +434,7 @@ It’s almost Christmas, so don’t go doing somethin’ as stupid as getting al
     <p><span><b>Location:</b> Park’s Live Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/line3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lCzM67546441o5l4.webp?timestamp=1733583947158 %}
 
 {% bubble Hinata sad %}
 …………

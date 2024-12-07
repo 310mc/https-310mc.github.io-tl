@@ -74,7 +74,7 @@ description: "[ES!] While all the units in the academy make preparations for the
     <p><span><b>Location:</b> Classroom 1-B</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/dot1-1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OB67546441RUarI2.webp?timestamp=1733583947108 %}
 
 {% bubble Shinobu grin %}
 <th>(Hmhmhm~♪)</th>
@@ -130,7 +130,7 @@ description: "[ES!] While all the units in the academy make preparations for the
 S-Something just fell down! This is… hmm, a talisman?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/dot1-2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QUFHDz9675464417.webp?timestamp=1733583945497 %}
 
 {% bubble Yuta %}
 Oh, sorry. Do you mind picking up that flier for me, Shinobu-kun?
@@ -178,7 +178,7 @@ I’m not sure I understand that logic… That being said, why <em>have</em> you
 Are you perhaps going to hold a Christmas party? Are you trying to find the right cake to buy?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/yutaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vj67546441hn4Kh2.webp?timestamp=1733583946880 %}
 
 {% bubble Yuta srsthinking %}
 Hm~. Well, Aniki goes all out and makes a super huge cake every year for no good reason.
@@ -244,7 +244,7 @@ I’d like to increase 2wink’s market value, though… Maybe I’ll ask Anzu-s
     <p><span><b>Location:</b> Garden Space</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/dot2-1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hYYgd67546441c35.webp?timestamp=1733583947526 %}
 
 {% bubble Midori frownshake %}
 <em>Sigh</em>, it’s so damn cold… I’m so depressed, I wanna die…
@@ -252,7 +252,7 @@ I’d like to increase 2wink’s market value, though… Maybe I’ll ask Anzu-s
 I seriously miss Morisawa-senpai right now for some reason… I wonder if that heater is walking around somewhere nearby…?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vo3NJN67546441y6.webp?timestamp=1733583947551 %}
 
 {% bubble Midori shocked %}
 W-Woah—!?
@@ -354,7 +354,7 @@ Heheh. Anzu-san, you’re fine with accepting even the ones that are damaged and
 Mm…? What’re you looking at, Anzu-san…?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/dot2-2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_quLCpn67546441t6.webp?timestamp=1733583946820 %}
 
 {% bubble Kanata sleep %}
 …………
@@ -390,7 +390,7 @@ Shinkai-senpai~!! Are you alriiiighttt…!?
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/dot3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_S675464413CkqNQ1.webp?timestamp=1733583946714 %}
 
 {% bubble Hinata grin %}
 ‘Scuse me~!
@@ -404,7 +404,7 @@ You’re probably busy though, aren’t you, Kiryu-senpai~?
 Theeen I’ll just call off my request for the outfit, so you don’t have to worry about… Oh?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_xUBS0E6754644166.webp?timestamp=1733583944939 %}
 
 {% bubble Tetora sleep %}
 …………
@@ -526,7 +526,7 @@ I’ve had enough of bein’ that “klutzy kid” to everyone.
 
 ## Chapter 4
 
-{% img /img/es/eventstory/christmaslive/dot4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iMpcdq6754644126.webp?timestamp=1733583946808 %}
 
 {% bubble Tetora %}
 Anyway, I’ve got a message for you from Taisho, Hinata-kun. The outfit you requested is done.
@@ -650,7 +650,7 @@ Well, aside from asking ‘em if they can help, maybe I’ll at least try to con
     <p><span><b>Location:</b> Gym</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/dot5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mVB5xFt675464417.webp?timestamp=1733583946162 %}
 
 {% bubble Chiaki cryalmost %}
 Kanataaaaa!! Don’t diiieeeeeeeeeee!!!
@@ -712,7 +712,7 @@ but i am not good with [soup]. hot [water] is not suitable to live in, after all
 Um, Morisawa-senpai. Shinkai-senpai’s words are making even less sense than usual… What is this person even saying…?
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Iy67546441VhBvT2.webp?timestamp=1733583950286 %}
 
 {% bubble Chiaki v2 %}
 Don’t point fingers at your senior, Takamine.

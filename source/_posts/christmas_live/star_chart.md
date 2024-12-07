@@ -74,7 +74,7 @@ description: "[ES!] While all the units in the academy make preparations for the
     <p><span><b>Location:</b> Park’s Live Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/starchart1-1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_TtIR67546441MIJ4.webp?timestamp=1733583947086 %}
 
 {% bubble Chiaki grin2 %}
 To everyone passing by! Merry Christmas! ☆
@@ -94,7 +94,7 @@ Come on, Sengoku! You introduce yourself too! You can use mine as an example to 
 You’re always hiding yourself behind our backs, but you should put more effort into standing out in the crowd, as well!
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/starchart1-2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LD67546441YVj8E2.webp?timestamp=1733583948105 %}
 
 {% bubble Shinobu surprised0 %}
 Wha—Eeep! No—You lose if you stand out as a ninja, like, erm…!?
@@ -120,7 +120,7 @@ Yellow Santa will spread brilliance just like the illumination that paints the s
 We appreciate your cheers! Thank you for the applause…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/starchart1-3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ioVuZzS675464417.webp?timestamp=1733583947122 %}
 
 {% bubble Kanata v2 %}
 ufufu. the [illuminations] are so [pretty], aren’t they~♪
@@ -134,7 +134,7 @@ Mm? It’s starting to snow! This isn’t good!
 While it’s wonderful to have a white Christmas… There’s no roof over this stage, so we could slip if enough snow piles up.
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/starchart1-4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67546441VUEt8zz0.webp?timestamp=1733583948179 %}
 
 {% bubble Midori frownshake %}
 Mm~ Judging by how the clouds are moving… We’ll be done with our live show by the time it starts to snow that heavily, I think…?
@@ -316,7 +316,7 @@ Well, it’s alright, though… It’s time! Let’s start the Eve’s Eve Live!
 okaaay\~ everyone\~ merry christmaaas\~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rpm67546441SYIM3.webp?timestamp=1733583949071 %}
 
 {% bubble Kanata v2 %}
 it has been a while since the last time we [sang] as just the two of us, hasn’t it\~… chiaki\~♪
@@ -337,7 +337,7 @@ Mhm! The passionate bloodstream of my younger self is flowing back into me! Let�
     <p><span><b>Location:</b> Downtown</span></p>
 </div>
 
-{% img /img/es/eventstory/christmaslive/starchart3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_BIVx67546441pDZ4.webp?timestamp=1733583947430 %}
 
 {% bubble Hinata curious %}
 <th>(Ohh…?)</th>
@@ -557,7 +557,7 @@ Even if you’re twins, even if you’re family—Your feelings won’t reach th
 …And so, with that said—I’ll be the referee, so you two should go ahead and punch each other with everythin’ you’ve got~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/christmaslive/starchart4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W267546441r3vnN2.webp?timestamp=1733583946700 %}
 
 {% bubble Hinata surprised %}
 What?! There’s no way I can hit Yuuta-kun; he’s my treasure!

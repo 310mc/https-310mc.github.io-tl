@@ -13,7 +13,7 @@ description: "[ES!!] Content about Ryuseitai from the Dokisuta stream."
 permalink: dokisuta_ryuseitai/
 ---
 
-{% img /img/es/dokisuta/cover_500px.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_M67546279ywRRD61.webp?timestamp=1733583489497 %}
 
 Translation of various content from the Dokisuta stream for Ryuseitai. (Relationship Charts, character's charm points, etc...)
 
@@ -27,45 +27,45 @@ Translation of various content from the Dokisuta stream for Ryuseitai. (Relation
 
 ## Ryuseitai Timeline
 
-{% img /img/es/dokisuta/ryuseitai_timeline.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jyML7x67546279O6.webp?timestamp=1733583491917 %}
 
-<big><a href="/img/es/dokisuta/ryuseitai_timeline.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_jyML7x67546279O6.webp?timestamp=1733583491917" target="_blank">Full view here.</a></big>
 
 ## Ryuseitai Relationship Chart
 
-{% img /img/es/dokisuta/ryuseitai_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_675462799nDyU4L0.webp?timestamp=1733583492358 %}
 
-<big><a href="/img/es/dokisuta/ryuseitai_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_675462799nDyU4L0.webp?timestamp=1733583492358" target="_blank">Full view here.</a></big>
 
 ## Chiaki Relationship Chart
 
-{% img /img/es/dokisuta/chiaki_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lRi67546279KBKJ3.webp?timestamp=1733583493503 %}
 
-<big><a href="/img/es/dokisuta/chiaki_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_lRi67546279KBKJ3.webp?timestamp=1733583493503" target="_blank">Full view here.</a></big>
 
 ## Kanata Relationship Chart
 
-{% img /img/es/dokisuta/kanata_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W767546279WY9oo2.webp?timestamp=1733583497621 %}
 
-<big><a href="/img/es/dokisuta/kanata_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_W767546279WY9oo2.webp?timestamp=1733583497621" target="_blank">Full view here.</a></big>
 
 ## Tetora Relationship Chart
 
-{% img /img/es/dokisuta/tetora_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67546279EHVnekw0.webp?timestamp=1733583497393 %}
 
-<big><a href="/img/es/dokisuta/tetora_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_67546279EHVnekw0.webp?timestamp=1733583497393" target="_blank">Full view here.</a></big>
 
 ## Midori Relationship Chart
 
-{% img /img/es/dokisuta/midori_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67546279jXbl7l50.webp?timestamp=1733583495135 %}
 
-<big><a href="/img/es/dokisuta/midori_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_67546279jXbl7l50.webp?timestamp=1733583495135" target="_blank">Full view here.</a></big>
 
 ## Shinobu Relationship Chart
 
-{% img /img/es/dokisuta/shinobu_relationship_chart.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_t6fnts8675462797.webp?timestamp=1733583495366 %}
 
-<big><a href="/img/es/dokisuta/shinobu_relationship_chart.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_t6fnts8675462797.webp?timestamp=1733583495366" target="_blank">Full view here.</a></big>
 
 ## Chiaki's Charm Points
 

@@ -145,7 +145,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_8w867546441Wkfr3.webp?timestamp=1733583945159"
             alt="Christmas Live"
         />
     </div>
