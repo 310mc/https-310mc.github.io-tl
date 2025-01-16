@@ -11,7 +11,7 @@ permalink: shippuu_jinrai_shinobi_michi/
 hidden: true
 ---
 
-{% img /img/es/ryuseitaialbum/tetorasolo_300px.jpg %}
+{% img  %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">

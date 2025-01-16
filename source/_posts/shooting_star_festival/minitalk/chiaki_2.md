@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's second Mini Talk from Shooting Star 
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4pFW6757106b2WD4.webp?timestamp=1733759087046 %}
 
 {% bubble Chiaki %}
 Mhm, mhm. I'm glad we were able to safely find the little girl's mother.
@@ -192,7 +192,7 @@ You’ll find the street food over there, and sweet food in the opposite directi
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_86757106bEdazHk1.webp?timestamp=1733759090050 %}
 
 {% bubble Chiaki %}
 Ta\~maya\~!

@@ -13,7 +13,7 @@ description: "[ES!!] Translation of a Tetora Feature Scout story, featuring Kana
 permalink: the_promise_to_train/
 ---
 
-![](/img/es/idolstory/trainingpromise/c1.jpg)|![](/img/es/idolstory/trainingpromise/c2.jpg)
+![](https://f005.backblazeb2.com/file/reitoouji/ro_oof5675b15c731U4.webp?timestamp=1734022604970)|![](https://f005.backblazeb2.com/file/reitoouji/ro_01675b15c7EM63V2.webp?timestamp=1734022604877)
 :-:|:-:
 
 Tetora wants to train before the Ryuseitai meeting starts, only to find Kanata in the meeting room too…
@@ -72,7 +72,7 @@ This story is connected to the card [Intertwined Spare Time] Tetora Nagumo.
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/trainingpromise/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_G675b15c7KrZ2yY1.webp?timestamp=1734022605359 %}
 
 {% bubble Tetora v2 %}
 ‘Suuup~!
@@ -362,7 +362,7 @@ fufu, i am so excited for the day when we all gather at the school [fountain] ag
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_oof5675b15c731U4.webp?timestamp=1734022604970"
             alt="The Promise To Train"
         />
     </div>

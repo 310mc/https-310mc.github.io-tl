@@ -55,7 +55,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_80867709898sYXq3.webp?timestamp=1735432358086 %}
 
 <div class="msr-narration">
     <p>Just after summer holidays, during the evening…</p>
@@ -204,6 +204,15 @@ Ahaha, things aren’t going well for the both of us, huh…♪
                 </a>
             </div>
             <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/motor_show/snails_pace">Progress at a Snail's Pace</a>
+                    <a href="/motor_show/muddy_road">Muddy Road</a>
+                    <a href="/motor_show/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/motor_show/snails_pace" title="Next Chapter: Progress at a Snail’s Pace"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

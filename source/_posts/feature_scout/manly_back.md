@@ -361,7 +361,7 @@ Mhm, I’m coming, Tetora-kun!
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_oof5675b15c731U4.webp?timestamp=1734022604970"
             alt="The Promise To Train"
         />
     </div>

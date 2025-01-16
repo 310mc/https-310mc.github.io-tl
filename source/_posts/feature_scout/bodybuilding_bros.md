@@ -161,7 +161,7 @@ On that note… What do you do when someone says you stink of sweat?
 {% bubble Jun v2 %}
 Hmm, well… Back when I lived with Ohii-san in the Reimei dorms, I mostly waved it off, really.
 
-But after moving to Starmony Dorm, my roomie's never really complained… So now I actually *do* try to be considerate and make sure to shower and all?
+But after moving to Seisoukan Dorm, my roomie's never really complained… So now I actually *do* try to be considerate and make sure to shower and all?
 {% endbubble %}
 
 {% bubble Tetora v2 %}
@@ -298,7 +298,7 @@ Yeah, we owe this bonding session all to exercise…♪
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_oof5675b15c731U4.webp?timestamp=1734022604970"
             alt="The Promise To Train"
         />
     </div>

@@ -17,7 +17,7 @@ description: "[ES!!] Translation of Midori's Idol Story 1."
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
+					<a href="/categories/Enstars/Midori" character="Midori"></a>
                 </div>
             </div>
             <div class="info-item one">

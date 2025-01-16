@@ -66,7 +66,7 @@ Mao and Midori relax for a day during the New Years break…
 ## Chapter 1
 
 {% note narration %}
-This story is translated by <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a>. I am hosting the translation for them. For their translation terms, please read <a href="https://yoroshikilled.dreamwidth.org/18198.html" target="_blank">this</a>.
+This story is translated by <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a>. I am hosting the translation in their stead. For their translation terms, please read <a href="https://yoroshikilled.dreamwidth.org/18198.html" target="_blank">this</a>.
 {% endnote %}
 
 <div class="msr-season winter">
@@ -155,7 +155,7 @@ Ahaha… I don't really get it, but that sounds pretty tiring…
 
 You start to really miss your family when you’re away from them, but being near them 24/7 starts to get annoying, too, doesn’t it…
 
-I wish I could let the New Year pass like anyone else, but I got tired of my parents bossing me around about preparations and such--
+I wish I could let the New Year pass like anyone else, but I got tired of my parents bossing me around about preparations and such—
 
 So, after carrying over the vegetables to the school cafeteria like I always do, I came here to get a ball in my hands instead of going home…
 
@@ -219,7 +219,7 @@ Other than that, there wasn't any proof it happened… To be honest, when I woke
 
 Well, when I went downstairs to eat breakfast, my family were all sat together with plenty of praise and my favorite foods, so there was no way I could believe it was a dream at that point.
 
-My little sis even clung to me like no tomorrow, and just feeling another person's warmth--
+My little sis even clung to me like no tomorrow, and just feeling another person's warmth—
 
 I was so happy, I might've cried a bit… But keep that a secret from everyone else, alright?
 {% endbubble %}
@@ -231,9 +231,9 @@ I was so happy, I might've cried a bit… But keep that a secret from everyone e
 </div>
 
 {% bubble Mao %}
-Alright, here we go--
+Alright, here we go—
 
-Woah--! Was the gym’s heater always this heavy? Man, you're not even breaking a sweat carrying this thing, huh?
+Woah—! Was the gym’s heater always this heavy? Man, you're not even breaking a sweat carrying this thing, huh?
 
 Yo, you “kind and strong guy”~♪
 {% endbubble %}
@@ -473,7 +473,7 @@ I feel enlightened.
 {% bubble Mao %}
 Stop, it's embarrassing if you take me too seriously. Sorry if I sounded arrogant, I guess I got a little carried away after winning the SS…
 
-I’m getting too ahead of myself, when we’ve only just started with the main show--or rather, the battle.
+I’m getting too ahead of myself, when we’ve only just started with the main show—or rather, the battle.
 {% endbubble %}
 
 {% bubble Midori %}

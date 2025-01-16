@@ -18,7 +18,7 @@ permalink: ninja_clan/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ninja Clan</div>
-                <div class="title-area__subtitle">忍者団</div>
+                <div class="title-area__subtitle">In a Pinch!? ☆ Slice It In Half! Ninja Clan</div>
                 <div class="title-area__start"><a href="ninja_clan/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -89,7 +89,7 @@ permalink: ninja_clan/
 <!-- more -->
 
 {% note narration %}
-This story is related to <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank"><b>Scroll of the Elements</b></a>, a Ryuseitai and Akatsuki event about ninjas and samurais!
+This story is related to <a href="https://citrinesea.github.io/translation/scroll_of_the_elements/" target="_blank"><b>Scroll of the Elements</b></a>, a Ryuseitai and Akatsuki event about ninjas and samurais!
 {% endnote %}
 
 <style>
@@ -114,7 +114,7 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ninja Clan</div>
-                <div class="title-area__subtitle">忍者団</div>
+                <div class="title-area__subtitle">In a Pinch!? ☆ Slice It In Half! Ninja Clan</div>
                 <div class="title-area__start"><a href="prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -195,7 +195,7 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                                 Event
                             </div>
                             <div class="value">
-                                In a Pinch!? ☆ Pierce It In Half! Ninja Clan
+                                In a Pinch!? ☆ Slice It In Half! Ninja Clan
                             </div>
                         </div>
                         <div class="tab-item">
@@ -492,8 +492,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/tetora_1" id="">Thrilling Gameplay</a>
-                            <a href="minitalk/tetora_2" id="">I Don't Get It</a>
+                            <a href="minitalk/tetora_1" id="">Part 1</a>
+                            <a href="minitalk/tetora_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -501,8 +501,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="">Relaxing Gameplay</a>
-                            <a href="minitalk/midori_2" id="">Eeeggy-eggy-eggyplant</a>                            
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>                            
                             </div>
                         </div>
                     </div>
@@ -510,8 +510,8 @@ This story is related to <a href="https://citrinesea.github.io/main-sections/tra
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">An Invasion from a Formidable Enemy</a>
-                            <a href="minitalk/chiaki_2" id="">Sightseeing the Historical Village</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

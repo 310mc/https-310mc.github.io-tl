@@ -17,7 +17,7 @@ permalink: exhibition_in_a_blink/
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/blinkexhibition/reibcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_guLk6R67671989B6.webp?timestamp=1734810000910')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Exhibition In A Blink Of An Eye</div>
@@ -100,10 +100,10 @@ permalink: exhibition_in_a_blink/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/blinkexhibition/reiorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_Kmd67671989RK8p3.webp?timestamp=1734810000949)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/scoutstory/blinkexhibition/reibcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_guLk6R67671989B6.webp?timestamp=1734810000910"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Exhibition In A Blink Of An Eye</div>
@@ -200,7 +200,7 @@ permalink: exhibition_in_a_blink/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/blinkexhibition/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6V67671989GvfTP2.webp?timestamp=1734810000110">
                                 </div>
                                 <div class="caption">
                                     Portrait Shrouded In Mystery 2
@@ -208,7 +208,7 @@ permalink: exhibition_in_a_blink/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/blinkexhibition/reiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Kmd67671989RK8p3.webp?timestamp=1734810000949">
                                 </div>
                                 <div class="caption">
                                     Portrait Shrouded In Mystery 4
@@ -226,10 +226,10 @@ permalink: exhibition_in_a_blink/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/reiframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_7s67671989hnd6l2.webp?timestamp=1734809997849">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jY676719895rCIR2.webp?timestamp=1734809998875">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -262,10 +262,10 @@ permalink: exhibition_in_a_blink/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/midoriframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_seJhWs5676719897.webp?timestamp=1734809996571">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/midoribcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67671989ufAwLXw0.webp?timestamp=1734809998330">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -298,10 +298,10 @@ permalink: exhibition_in_a_blink/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/makotoframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_X67671989sJvd1n1.webp?timestamp=1734809998281">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/makotobcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_pyWD67671989jNE4.webp?timestamp=1734809999296">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -334,10 +334,10 @@ permalink: exhibition_in_a_blink/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/maoframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_c067671989ZppW12.webp?timestamp=1734809997183">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/scoutstory/blinkexhibition/maobcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67671989uBqn6mw0.webp?timestamp=1734809999211">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -400,10 +400,10 @@ permalink: exhibition_in_a_blink/
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/blinkexhibition/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Pj0167671989ULK4.webp?timestamp=1734810000806 %}
 
 <div class="msr-narration">
     <p>One day in early March…</p>
@@ -492,7 +492,7 @@ It’s such a beautiful painting; I simply could not help myself…♪
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-*I’m* the one who’s going to need help, at this rate!?
+*I’m* the one who’s going to need help at this rate, though!?
 
 And why do you even have a painting like that, anyway… That’s way too disturbing…
 {% endbubble %}
@@ -532,11 +532,11 @@ Of course nobody would… If you suddenly show them a painting that’ll make th
 {% endbubble %}
 
 {% bubble Rei yare %}
-I suppose I have no choice now… I’ll have to display this painting in the Starmony Dorm.
+I suppose I have no choice now… I’ll have to display this painting in the Seisoukan Dorm.
 {% endbubble %}
 
 {% bubble Midori shocked %}
-No, no! Why do you wanna show it so badly!? If you do that, not only will I die, but the entirety of Starmony Dorm will be annihilated…!?
+No, no! Why do you wanna show it so badly!? If you do that, not only will I die, but the entirety of Seisoukan Dorm will be annihilated…!?
 {% endbubble %}
 
 {% bubble Rei sightired %}
@@ -575,7 +575,7 @@ The owner of this “makes one drop dead upon gazing at it three times” painti
 
 ## Portrait Shrouded In Mystery 2
 
-{% img /img/es/scoutstory/blinkexhibition/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mQwc67671989gpJ4.webp?timestamp=1734809998892 %}
 
 {% bubble Midori surprised %}
 Whaa!? It was all a lie when you said that people die after looking at this painting three times…!?
@@ -622,7 +622,7 @@ You said we’d go on an investigation in ES, so does that mean you’ve got a h
 {% endbubble %}
 
 {% bubble Rei %}
-Mm. Regarding that… I had been waiting for a response back from a few colleagues while I was gazing at the painting in the Starmony Dorm. There is someone I’ve contacted that is currently investigating the painting over at the Information Room.
+Mm. Regarding that… I had been waiting for a response back from a few colleagues while I was gazing at the painting in the Seisoukan Dorm. There is someone I’ve contacted that is currently investigating the painting over at the Information Room.
 {% endbubble %}
 
 {% bubble Midori shocked %}
@@ -655,7 +655,7 @@ Uh, right.
     <p><span><b>Location:</b> Information Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/blinkexhibition/3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_i67671989OAnTpm1.webp?timestamp=1734809999714 %}
 
 {% bubble Rei %}
 Yuuki-kun. Have you finished investigating?
@@ -685,7 +685,7 @@ When I did intensive training under UNDEAD‘s guidance, they made me go bungee 
 …Actually, can I really say that… it was a good memory…?
 {% endbubble %}
 
-{% img /img/es/scoutstory/blinkexhibition/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6V67671989GvfTP2.webp?timestamp=1734810000110 %}
 
 {% bubble Midori sighfrown %}
 Please don’t start questioning your own words…
@@ -781,7 +781,7 @@ As the one entrusted with this painting, punishment would befall me if I do not 
     <p><span><b>Location:</b> Yumenosaki Academy Corridor</span></p>
 </div>
 
-{% img /img/es/scoutstory/blinkexhibition/4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vvbJS67671989wu5.webp?timestamp=1734810000697 %}
 
 <div class="msr-narration">
     <p>Two days later, in the morning…</p>
@@ -888,10 +888,10 @@ Until then, make sure to do your best in class, Takamine. ♪
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/blinkexhibition/5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ooMR67671989RTp4.webp?timestamp=1734810001264 %}
 
 {% bubble Mao %}
 —And that’s how I ended up joining you guys.
@@ -975,7 +975,7 @@ We shall decide the pairs through a drawn lottery. How does that sound, gentleme
 
 ## Portrait Shrouded In Mystery 4
 
-{% img /img/es/scoutstory/blinkexhibition/6.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ktGy67671989Nrg4.webp?timestamp=1734810000738 %}
 
 <div class="msr-narration">
     <p>Next day, in the afternoon…</p>
@@ -1045,7 +1045,7 @@ Not at all. I was simply surprised by such a novel response. I mean it in a good
 It’s understandable. You would not know much about me, after all.
 {% endbubble %}
 
-{% img /img/es/scoutstory/blinkexhibition/reiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Kmd67671989RK8p3.webp?timestamp=1734810000949 %}
 
 {% bubble Rei smile %}
 When we worked together once upon a time, we were mostly performing in separate areas… And you were also desperately doing your best during that time, so you likely hadn’t noticed then…[^2]
@@ -1141,7 +1141,7 @@ I’m glad to know you’ve recovered. Okay then, let’s climb up the hill whil
 
 ## Portrait Shrouded In Mystery 5
 
-{% img /img/es/scoutstory/blinkexhibition/7.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W6Ns67671989OBr4.webp?timestamp=1734809999976 %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -1207,7 +1207,7 @@ Now then. The elderly gentleman is looking forward to our visit. Let’s not hav
 This is it, huh… We’ll finally get to learn the story behind the ‘Mysterious Portrait’…
 {% endbubble %}
 
-{% img /img/es/scoutstory/blinkexhibition/8.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_q67671989AQ5xfo1.webp?timestamp=1734810001536 %}
 
 {% bubble Rei norsmile %}
 Please excuse us.
@@ -1375,7 +1375,7 @@ And so, with this, the ‘Mysterious Portrait’ case is solved. ♪
 
 ## Portrait Shrouded In Mystery 6
 
-{% img /img/es/scoutstory/blinkexhibition/9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_La67671989ceNo82.webp?timestamp=1734810000327 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>

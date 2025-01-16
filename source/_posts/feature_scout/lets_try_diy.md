@@ -70,7 +70,7 @@ This story is connected to the card [A Challenging Step] Midori Takamine.
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Courtyard</span></p>
 </div>
 
 {% img /img/es/idolstory/challengediy/1.jpg %}
@@ -377,7 +377,7 @@ Thank you, you two. I’m also gonna work hard to bring back this mascot’s ado
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

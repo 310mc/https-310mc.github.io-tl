@@ -23,7 +23,7 @@ permalink: true_to_myself_taking_a_step_forward/
                 <div class="value">
                 <table>
                 <tr>
-                    <th class="noBorder"><img src="/img/es/idolstory/truetomyselfstepforward/cg.jpg"></th>
+                    <th class="noBorder"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_TmUL675ac72bhqC4.webp?timestamp=1734002481233"></th>
                 </tr>
                 <tr>
                     <th class="noBorder" style="text-align:center;font-size:16px;">Outfit name: “Fluorite”. A personalized outfit made for Midori. A design with a slightly more mature look.</th>
@@ -122,7 +122,7 @@ permalink: true_to_myself_taking_a_step_forward/
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/idolstory/truetomyselfstepforward/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_qw675ac72bVcWfz2.webp?timestamp=1734002481616 %}
 
 {% bubble Midori curious %}
 Ah, Anzu-san. Hello, I hope you’re doing well… I’m so sorry for making you wait.
@@ -244,7 +244,7 @@ Okay then, I’ll think about what to do with my solo live until our next meetin
     <p><span><b>Location:</b> Shopping District</span></p>
 </div>
 
-{% img /img/es/idolstory/truetomyselfstepforward/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LvLP675ac72bUwO4.webp?timestamp=1734002481974 %}
 
 <div class="msr-narration">
     <p>Several days later…</p>
@@ -394,7 +394,7 @@ Yaaay! I get to go with Midori-chan to the candy store~☆
 
 ## Chapter 2
 
-{% img /img/es/idolstory/truetomyselfstepforward/3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_675ac72bxiMaYKs0.webp?timestamp=1734002481699 %}
 
 {% bubble Mitsuru grin %}
 We’re at the candy store\~! Oh man, I don’t even know what to buy\~!
@@ -471,7 +471,7 @@ Do you mean Himemiya-kun and Suou-kun…?
 {% bubble Mitsuru fist %}
 Auntie, do you wanna see them? Then I’ll dash off to call them over!
 
-It’s time to dash-dash to the Starmony Dorm~!
+It’s time to dash-dash to the Seisoukan Dorm~!
 {% endbubble %}
 
 {% bubble Midori surprised %}
@@ -516,7 +516,7 @@ Yes! If there’s anything I can help with, please let me know! Takamine’s mot
 Uwah—… I thought I heard a suffocating voice…
 {% endbubble %}
 
-{% img /img/es/idolstory/truetomyselfstepforward/4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JC675ac72bofPyf2.webp?timestamp=1734002481978 %}
 
 {% bubble Chiaki smileconfident %}
 Ooh, Takamine! You’re back!
@@ -748,7 +748,7 @@ All for the sake of that future… the one where I make everyone smile by singin
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>
@@ -777,7 +777,7 @@ All for the sake of that future… the one where I make everyone smile by singin
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You’re A Hero, Too!"
         />
     </div>
@@ -873,7 +873,7 @@ All for the sake of that future… the one where I make everyone smile by singin
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

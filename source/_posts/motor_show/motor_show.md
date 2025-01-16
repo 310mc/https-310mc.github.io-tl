@@ -14,11 +14,11 @@ permalink: motor_show/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/motorshow/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_lT67709a61azvSe2.webp?timestamp=1735432807481')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Motor Show</div>
-                <div class="title-area__subtitle">モーターショー</div>
+                <div class="title-area__subtitle">Intersecting／Motor Show</div>
                 <div class="title-area__start"><a href="/motor_show/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -105,14 +105,14 @@ permalink: motor_show/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/motorshow/hiiroorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_JZKTaW67709898P6.webp?timestamp=1735432366418)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/motorshow/tetorabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_lT67709a61azvSe2.webp?timestamp=1735432807481"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Motor Show</div>
-                <div class="title-area__subtitle">モーターショー</div>
+                <div class="title-area__subtitle">Intersecting／Motor Show</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -223,7 +223,7 @@ permalink: motor_show/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/hiiroorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JZKTaW67709898P6.webp?timestamp=1735432366418">
                                 </div>
                                 <div class="caption">
                                     Progress at a Snail's Pace 1
@@ -231,7 +231,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_IImQpKr67709a617.webp?timestamp=1735432806563">
                                 </div>
                                 <div class="caption">
                                     Progress at a Snail's Pace 1
@@ -239,7 +239,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/shinobuorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_36n67709a614bbt3.webp?timestamp=1735432806618">
                                 </div>
                                 <div class="caption">
                                     Progress at a Snail's Pace 1
@@ -247,7 +247,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/mayoiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_RP9h67709898xHd4.webp?timestamp=1735432366704">
                                 </div>
                                 <div class="caption">
                                     Progress at a Snail's Pace 1
@@ -255,7 +255,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/mayoibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_V677098989de85r1.webp?timestamp=1735432366711">
                                 </div>
                                 <div class="caption">
                                     Epilogue 3
@@ -263,7 +263,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/shinobubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_E68cP267709a61M6.webp?timestamp=1735432807310">
                                 </div>
                                 <div class="caption">
                                     Epilogue 3
@@ -271,7 +271,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/hiirobcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Zv7t67709898jRQ4.webp?timestamp=1735432366808">
                                 </div>
                                 <div class="caption">
                                     Epilogue 4
@@ -279,7 +279,7 @@ permalink: motor_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/motorshow/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6jD67709a61ANps3.webp?timestamp=1735432806964">
                                 </div>
                                 <div class="caption">
                                     Epilogue 4

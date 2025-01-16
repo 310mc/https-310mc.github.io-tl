@@ -1,6 +1,6 @@
 ---
 title: "[ES!!] Spring Bed"
-date: 2024-6-10 9:00:00
+date: 2021-3-14 9:00:00
 categories:
 - [Enstars, Subaru]
 - [Enstars, Tetora]
@@ -11,22 +11,21 @@ tags:
 - Kino Seitaro
 - Scout Story
 - Story Index
-description: "[ES!!] TBA"
-hidden: true
+description: "[ES!!] Subaru visits the producer, who's currently at the hospital. There, he finds nemophilia flowers, and learns that they hold profound meaning…"
 permalink: spring_bed/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/springbed/TBAbcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_Ursg6782385eiXF4.webp?timestamp=1736587365214')"></div>
         <div class="preview-box">
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
-                <div class="title-area__start"><a href="/spring_bed#TBA">Start Reading</a></div>
+                <div class="title-area__title">Spring Bed</div>
+                <div class="title-area__subtitle">Spring Flower Bed</div>
+                <div class="title-area__start"><a href="/spring_bed#Meaning-Of-That-Flower-1">Start Reading</a></div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Subaru visits the producer, who's currently at the hospital. There, he finds nemophilia flowers. He learns that its flower language holds profound meaning, but the reason behind it is a secret…
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -50,7 +49,7 @@ permalink: spring_bed/
                             Writer
                         </div>
                         <div class="value">
-                            Kino Seitaro
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -58,11 +57,11 @@ permalink: spring_bed/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Subaru" character="Subaru"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-                        <a href="/categories/Enstars/Natsume" character="Natsume"></a>
-                        <a href="/categories/Enstars/Jin" character="Jin"></a>
+                            <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                            <a href="/categories/Enstars/Natsume" character="Natsume"></a>
+                            <a href="/categories/Enstars/Jin" character="Jin"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -70,7 +69,7 @@ permalink: spring_bed/
                             Translation
                         </div>
                         <div class="value">
-                            <a href="/about">310mc</a>
+                            <a href="https://twitter.com/yoroshikilled">Peace</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -78,7 +77,7 @@ permalink: spring_bed/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
+                            <a href="/about">310mc</a>, <a href="https://twitter.com/natsubanekou">En</a>, <a href="https://twitter.com/vespertinerose">Bella</a>
                         </div>
                     </div>
                 </div>
@@ -101,21 +100,21 @@ permalink: spring_bed/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/springbed/TBAorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_u6782385eoFBz7A1.webp?timestamp=1736587364778)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/scoutstory/springbed/TBAbcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ursg6782385eiXF4.webp?timestamp=1736587365214"></div>
             </div>
             <div class="title-area">
-                <div class="title-area__title">TBA</div>
-                <div class="title-area__subtitle">TBA</div>
+                <div class="title-area__title">Spring Bed</div>
+                <div class="title-area__subtitle">Spring Flower Bed</div>
                 <div class="title-area__start">
-                    <a href="#TBA">Start Reading</a>
+                    <a href="#Meaning-Of-That-Flower-1">Start Reading</a>
                 </div>
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    TBA
+                    Subaru visits the producer, who's currently at the hospital. There, he finds nemophilia flowers. He learns that its flower language holds profound meaning, but the reason behind it is a secret…<!--病院にいる『プロデューサー』を見舞いに来たスバル。そこで見つけたネモフィラの花。意味深な花言葉を教えてもらうが、理由は秘密で…-->
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -123,7 +122,7 @@ permalink: spring_bed/
                             Season
                         </div>
                         <div class="value">
-                            TBA
+                            Spring
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +130,7 @@ permalink: spring_bed/
                             Chapters
                         </div>
                         <div class="value">
-                            TBA
+                            8
                         </div>
                     </div>
                     <div class="info-item writer">
@@ -139,7 +138,7 @@ permalink: spring_bed/
                             Writer
                         </div>
                         <div class="value">
-                            TBA
+                            <a href="/tags/Kino-Seitaro/">Kino Seitaro</a>
                         </div>
                     </div>
                     <div class="info-item characters">
@@ -147,11 +146,11 @@ permalink: spring_bed/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Subaru" character="Subaru"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                            <a href="/categories/Enstars/Natsume" character="Natsume"></a>
+                            <a href="/categories/Enstars/Jin" character="Jin"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -159,7 +158,7 @@ permalink: spring_bed/
                             Translation
                         </div>
                         <div class="value">
-                          <a href="/about">310mc</a>
+                            <a href="https://twitter.com/yoroshikilled">Peace</a>
                         </div>
                     </div>
                     <div class="info-item pr">
@@ -167,7 +166,7 @@ permalink: spring_bed/
                             Proofreading
                         </div>
                         <div class="value">
-                            <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
+                            <a href="/about">310mc</a>, <a href="https://twitter.com/natsubanekou">En</a>, <a href="https://twitter.com/vespertinerose">Bella</a>
                         </div>
                     </div>
                 </div>
@@ -181,7 +180,7 @@ permalink: spring_bed/
                                 Scout
                             </div>
                             <div class="value">
-                                TBA
+                                Scout! Spring Bed
                             </div>
                         </div>
                         <div class="tab-item">
@@ -189,7 +188,7 @@ permalink: spring_bed/
                                 Scout Duration
                             </div>
                             <div class="value">
-                                2021/5/31 (15:00 JST) - 2021/6/8 (15:00 JST)
+                                2021/3/14 (15:00 JST) - 2021/3/30 (15:00 JST)
                             </div>
                         </div>
                     </div>
@@ -202,18 +201,18 @@ permalink: spring_bed/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/springbed/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_u6782385eoFBz7A1.webp?timestamp=1736587364778">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Meaning Of That Flower 1
                                 </div>
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/springbed/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_bcZTo6782385eIe5.webp?timestamp=1736587364482">
                                 </div>
                                 <div class="caption">
-                                    TBA
+                                    Meaning Of That Flower 4
                                 </div>
                             </div>
                         </div>
@@ -224,15 +223,17 @@ permalink: spring_bed/
                 <div class="chapters">
                     <ul>
                         <li>
-                            <span>TBA</span>
-                            <a href="#TBA-1" id="none">1</a>
-                            <a href="#TBA-2" id="none">2</a>
-                            <a href="#TBA-3" id="none">3</a>
-                            <a href="#TBA-4" id="none">4</a>
-                            <a href="#TBA-5" id="none">5</a>
-                            <a href="#TBA-6" id="none">6</a>
-                            <a href="#TBA-7" id="none">7</a>
-                            <a href="#TBA-8" id="none">8</a>
+                            <span>Meaning Of That Flower</span>
+                            <a href="#Meaning-Of-That-Flower-1" id="">1</a>
+                            <a href="#Meaning-Of-That-Flower-2" id="">2</a>
+                            <a href="#Meaning-Of-That-Flower-3" id="">3</a>
+                            <a href="#Meaning-Of-That-Flower-4" id="">4</a>
+                            <a href="#Meaning-Of-That-Flower-5" id="">5</a>
+                            <a href="#Meaning-Of-That-Flower-6" id="">6</a>
+                            <a href="#Meaning-Of-That-Flower-7" id="">7</a>
+                        </li>
+                        <li>
+                            <a href="#Epilogue" id="">Epilogue</a>
                         </li>
                     </ul>
                 </div>
@@ -242,9 +243,13 @@ permalink: spring_bed/
 </div>
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Chapter-5">Ch 5</a> - <a href="#Chapter-6">Ch 6</a> - <a href="#Chapter-7">Ch 7</a> - <a href="#Epilogue">Ep</a> - <a href="#Translation-Notes">Translation Notes</a>
+<a href="#Meaning-Of-That-Flower-1">Ch 1</a> - <a href="#Meaning-Of-That-Flower-2">Ch 2</a> - <a href="#Meaning-Of-That-Flower-3">Ch 3</a> - <a href="#Meaning-Of-That-Flower-4">Ch 4</a> - <a href="#Meaning-Of-That-Flower-5">Ch 5</a> - <a href="#Meaning-Of-That-Flower-6">Ch 6</a> - <a href="#Meaning-Of-That-Flower-7">Ch 7</a> - <a href="#Epilogue">Ep</a> - <a href="#Translation-Notes">Translation Notes</a>
 
-## Chapter 1
+## Meaning Of That Flower 1
+
+{% note narration %}
+This story is translated by <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a>. I am hosting the translation in their stead. For their translation terms, please read <a href="https://yoroshikilled.dreamwidth.org/18198.html" target="_blank">this</a>.
+{% endnote %}
 
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
@@ -254,9 +259,21 @@ permalink: spring_bed/
     <p><span><b>Location:</b> Private Hospital Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/springbed/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Fn67823ed4SSBXx2.webp?timestamp=1736589018027 %}
 
-{% img Subaru Akehoshi CG.png %}
+<div class="msr-narration">
+    <p>Spring. A while after BIGBANG was held…</p>
+</div>
+
+{% bubble Subaru %}
+Anzu! I heard you suddenly got sent into the hospital, are you okay?
+
+Are you feeling ill? Or are you injured anywhere? You're not in critical danger, right…?
+
+…Huh? It's just a cold? So Eichi-senpai got worried and told you to rest for a few days in your own private room?
+{% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_u6782385eoFBz7A1.webp?timestamp=1736587364778 %}
 
 {% bubble Subaru %}
 Ahhh, that's a relief… Jeez, you really had me worried there, y'know?
@@ -318,11 +335,11 @@ I'll check on you later, Anzu! Make sure you eat tons and sleep a lot during you
 Trickstar's running right beside you in the same race, so let's take on some work together sometime! ♪
 {% endbubble %}
 
-{% img Spring Bed 1-2.png %}
-
 <div class="msr-location">
     <p><span><b>Location:</b> Outside the Hospital</span></p>
 </div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_9ThiLt67823ed4K6.webp?timestamp=1736589018656 %}
 
 {% bubble Subaru %}
 …………
@@ -332,16 +349,10 @@ Man, I'm glad Anzu's safe and sound.
 But still… "I forgive you" — what the hell’s *that* supposed to mean?
 {% endbubble %}
 
-## Chapter 2
-
-{% img Spring Bed 2-1.png %}
-
-<div class="msr-location">
-    <p><span><b>Location:</b> Outside the Hospital</span></p>
-</div>
+## Meaning Of That Flower 2
 
 {% bubble Subaru %}
-<th>(Mmmm, I really can't get it out of my head.)</th>
+<th>(Mmm, I really can't get it out of my head.)</th>
 
 <th>(Anzu seemed different than usual too, like she was lost in thought…)</th>
 
@@ -354,10 +365,10 @@ But still… "I forgive you" — what the hell’s *that* supposed to mean?
 <th>(There's no point in worrying about this on my own, right? I'll just try thinking of something else.)</th>
 {% endbubble %}
 
-{% img Spring Bed 2-2.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_aG67823ed4EGkPe2.webp?timestamp=1736589018754 %}
 
 {% bubble Tetora %}
-Man, I really feel like I messed up with that gift I got her now…
+Man, I really feel like I messed up with that gift I got her just now…
 
 I thought it was fine when I was first rushin' over after hearin' that she was gettin' put in the hospital…
 
@@ -447,13 +458,13 @@ You an' him are pretty close, aren'tcha Akehoshi-senpai? Why don'tcha ask him if
 {% bubble Subaru %}
 That's right! If Shinonon's the one who gave them to her, then it'll be easy askin'. ♪
 
-Alright, let's go! I'll let Shinonon know we're headin' his way through WholeHands!
+Alright, let's go! I'll let Shinonon know we're headin' his way through HoldHands!
 {% endbubble %}
 
 {% bubble Tetora %}
 Hold on, I'm goin' too?!
 
-I mean, if you just ask him through WholeHands, then there's no point in meeting up with him, right…?
+I mean, if you just ask him through HoldHands, then there's no point in meeting up with him, right…?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -484,13 +495,13 @@ Yeah, yeah! Standin' by his friends is what a real man does!
 To Shinonon we go go go! The mystery of this flower meaning thing's about to be cracked wiiide open…☆
 {% endbubble %}
 
-## Chapter 3
-
-{% img Spring Bed 3 - 1.png %}
+## Meaning Of That Flower 3
 
 <div class="msr-location">
     <p><span><b>Location:</b> Floating Garden</span></p>
 </div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3P67823ed4CFG6G2.webp?timestamp=1736589018955 %}
 
 {% bubble Hajime %}
 Hmm\~mm\~mm ♪
@@ -501,7 +512,7 @@ Teehee. The weather certainly is nice today, isn't it? Mr. Sun's shining so warm
 
 <th>(…Heehee. I've been able to do so many fun things ever since ES was built.)</th>
 
-<th>(At first, when I heard it being called "an establishment for idols, )by idols," I thought it would be the same as any other business building, cold and distant…)</th>
+<th>(At first, when I heard it being called "an establishment for idols, by idols," I thought it would be the same as any other business building, cold and distant…)</th>
 
 <th>(But this place really does have Eichi-onii-chan's mark all over it. It's got such a warm, natural feel to it with its lawns and tree-lined streets…)</th>
 
@@ -509,8 +520,6 @@ Teehee. The weather certainly is nice today, isn't it? Mr. Sun's shining so warm
 
 There you go. Ah, and the watering can's empty too; I'll fill it up, and then I'll do those flowers next–
 {% endbubble %}
-
-{% img Spring Bed 3 - 2.png %}
 
 {% bubble Subaru %}
 Heeeey, Shinonon~! ♪
@@ -549,7 +558,7 @@ Oh, hello to you too, Tetora-kun.
 
 Ahaha, I'm sorry, Akehoshi-senpai and I were absorbed in our own world.
 
-I heard a little bit about it from his message through WholeHands, but you two wanted to know the meaning of the flowers that Anzu-san received, right?
+I heard a little bit about it from his message through HoldHands, but you two wanted to know the meaning of the flowers that Anzu-san received, right?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -663,17 +672,17 @@ Okay!
 {% endbubble %}
 
 {% bubble Tetora %}
-Roger that!
+Oo~ssu, roger that!
 {% endbubble %}
-
-{% img Spring Bed 3 - 3.png %}
 
 <div class="msr-location">
     <p><span><b>Location:</b> Private Hospital Room</span></p>
 </div>
 
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Lify67823ed4Vsz4.webp?timestamp=1736589018494 %}
+
 <div class="msr-narration">
-    <p>Meanwhile, in the Producer</p>
+    <p>Meanwhile, in the Producer’s hospital room…</p>
 </div>
 
 {% bubble Natsume %}
@@ -690,13 +699,13 @@ I happened to catch wind of it through my information netWORK, you SEE.
 "I forgive you" – What that flower truly MEANS, and why you would receive IT.
 {% endbubble %}
 
-## Chapter 4
-
-{% img Spring Bed 4 - 1.png %}
+## Meaning Of That Flower 4
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Fountain</span></p>
+    <p><span><b>Location:</b> In front of the Yumenosaki Academy Fountain</span></p>
 </div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_B67823ed4ToEEIg1.webp?timestamp=1736589018462 %}
 
 <div class="msr-narration">
     <p>The following day, after school…</p>
@@ -726,8 +735,6 @@ It's totally frustrating, like I'm being put on hold for sooomething or other…
 Wish Tetora and Shinonon would get here already. How am I gonna kill my boredom *now*~?
 {% endbubble %}
 
-{% img Spring Bed 4 - 2.png %}
-
 {% bubble Tetora %}
 — Oh, didja need to ask me somethin'?
 
@@ -745,20 +752,22 @@ I wonder who? From the color of their tie, some first year…
 
 Uh, hold what you think justice is in your heart and strive to practice every day, I guess~?
 
-Ahaha. You're not sure what "justice" is? I'm still in the middle of figurin' that out myself, but first thing's first is that you've gotta put your best foot forward.
+Ahaha. You're not sure what “justice” is? I'm still in the middle of figurin' that out myself, but first thing's first is that you've gotta put your best foot forward.
 
 Yeah, yeah! There's like, a huge gap between you and the upperclassmen you admire, right? That's how it was for me and Akatsuki, too.
 {% endbubble %}
 
-{% img Tetora Nagumo CG.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bcZTo6782385eIe5.webp?timestamp=1736587364482 %}
 
 {% bubble Tetora %}
-If you joined up with Ryuseitai because you admired them, then your first step's to build your strength.
+If you joined Ryuseitai 'cause you admired them, then your first step's to build your strength.
 
 Face whatever wickedness head-on, and work hard without pushin' yourself too much.
 
-That's it! If you've got any more questions, just throw 'em my way! See ya tomorrow~♪
+Ossu, that's all! If you've got any more questions, just throw 'em my way! See ya tomorrow~♪
 {% endbubble %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lBKPaJ67823ed4U6.webp?timestamp=1736589021762 %}
 
 {% bubble Subaru %}
 You've got yourself an admirer, huh?
@@ -785,7 +794,7 @@ Right? Besides, *I'm* the one askin' *you* to make time in your day to meet me h
 {% endbubble %}
 
 {% bubble Tetora %}
-Ahaha, I feel a little better hearin' you say that. ♪
+Ahaha, I feel a li’l better hearin' you say that. ♪
 
 Though I'm so used to sports etiquette that it's pretty hard for me to slide into somethin' more casual.
 {% endbubble %}
@@ -799,8 +808,6 @@ If you gave it a shot, I bet it'd be a funny, manly man sort of vibe!
 {% bubble Tetora %}
 What, there's no *way* I could do somethin' like that! I wouldn’t dream of doin’ it!
 {% endbubble %}
-
-{% img Spring Bed 4 - 3.png %}
 
 {% bubble Hajime %}
 Sorry I'm late, you two. What were you talking about?
@@ -834,11 +841,11 @@ Anyway, we didn't come here just to chitchat, right~? Let's check out the flower
 That's right. I couldn't bring myself to ask Anzu-san about the situation in depth when I went to visit yesterday, so they might really be our best bet to figure out what's going on.
 {% endbubble %}
 
-{% img Spring Bed 4 - 4.png %}
-
 <div class="msr-location">
     <p><span><b>Location:</b> Garden Terrace</span></p>
 </div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RH6WH67823ed4Uy5.webp?timestamp=1736589019110 %}
 
 {% bubble Subaru %}
 Nn~. How about you, Shinonon? Anything on your end?
@@ -857,10 +864,10 @@ Like… Maybe Akehoshi-senpai's gut is off…?
 {% bubble Subaru %}
 Maybe…
 
-Anzu's secret might not even be that big of a deal? Maybe she just felt kinda awkward about somethi--
+Anzu's secret might not even be that big of a deal? Maybe she just felt kinda awkward about somethi—
 {% endbubble %}
 
-{% img Spring Bed 4 - 5.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZpB9v678934c5nY5.webp?timestamp=1737045194254 %}
 
 {% bubble Jin %}
 Oh? What're you three up to~?
@@ -900,13 +907,13 @@ Anzu's been worshipped as a Goddess up 'til now, but she ain't gotta carry the w
 As the school doctor, I can't be more relieved. ♪
 {% endbubble %}
 
-## Chapter 5
-
-{% img Spring Bed 5 - 1.png %}
+## Meaning Of That Flower 5
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Hall Courtyard</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Courtyard</span></p>
 </div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6AiAgK67823ed4Q6.webp?timestamp=1736589018614 %}
 
 {% bubble Subaru %}
 <th>(…Mmm. In the end, the truth is still shrouded in darkness.)</th>
@@ -918,19 +925,13 @@ As the school doctor, I can't be more relieved. ♪
 <th>(It feels like… Maybe the miracles that happened last year were the only thing that brought me and Anzu together.)</th>
 
 …But it's pointless to think about it, I guess. A lot really has changed since last year… For the both of us.
-{% endbubble %}
 
-{% img Spring Bed 5 - 2.png %}
-
-{% bubble Subaru %}
 …………
 
 Welp, no point in dilly-dallyin' here! I'm gonna take Daikichi on a walk.
 
 He's rounder than a rolly-polly these days~. Maybe I'm not exercising him enough?
 {% endbubble %}
-
-{% img Spring Bed 5 - 3.png %}
 
 {% bubble Natsume %}
 Fufu. How surprising to see *you* of all people suffering from a bout of enNUI.
@@ -1062,8 +1063,6 @@ Also, I have a soft spot for the Little Kitten. If she wants to keep such things
 Even I am not so heartless that I would hold something over her head for my own GAIN. That is a mark of how much I owe to HER.
 {% endbubble %}
 
-{% img Spring Bed 5 - 4.png %}
-
 {% bubble Natsume %}
 And that is WHY, Baru-kun… I'm SORRY, but there is nothing else I can do for YOU.
 
@@ -1098,13 +1097,13 @@ YES. Just as you think of her as special to YOU, she too thinks of you in the sa
 That too is FATE. Though, it’s quite an envious fate to beHOLD— Isn’t IT?
 {% endbubble %}
 
-## Chapter 6
+## Meaning Of That Flower 6
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Halls Common Area</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Area</span></p>
 </div>
 
-{% img Spring Bed 6.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67823ed4B7eCK5I0.webp?timestamp=1736589018343 %}
 
 {% bubble Hajime %}
 Nemophila… La… Lavatera.
@@ -1302,13 +1301,13 @@ Thanks. I'll go and visit Anzu tomorrow.
 To apologize to her, and… to talk to her, too.
 {% endbubble %}
 
-## Chapter 7
+## Meaning Of That Flower 7
 
 <div class="msr-location">
     <p><span><b>Location:</b> Private Hospital Room</span></p>
 </div>
 
-{% img Spring Bed 7 - 1.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Lify67823ed4Vsz4.webp?timestamp=1736589018494 %}
 
 {% bubble Natsume %}
 Hello THERE, Little Kitten. How are you feeLING?
@@ -1334,14 +1333,10 @@ You might have been saved if you HAD, in this situaTION, a name that was reverED
 You are like any other nameless ProduCER, and it is due to the pride you have in yourself that gave those around you the wrong IDEA.
 
 You are LUCKY, Little Kitten, that that girl changed her ways once you became hospitaLIZED… but if things continued to worSEN, the teachers may have had to interVENE, you KNOW?
-{% endbubble %}
 
-{% img Spring Bed 7 - 2.png %}
-
-{% bubble Natsume %}
 《Please, treasure yourself more.》
 
-..I'm sorRY. I hadn't meant to criticize you SO.
+…I'm sorRY. I didn't meant to criticize you SO.
 
 HowEVER, seeing your self-sacrifice reminded me of something long AGO.
 
@@ -1402,8 +1397,6 @@ As well as the mystery of the nemophila flower’s meanING.
 See you later, Natsume.
 {% endbubble %}
 
-{% img Spring Bed 7 - 3.png %}
-
 {% bubble Subaru %}
 Alrighty then, I'm up to bat! Let's get ourselves all caught up. We haven't really been able to talk lately, huh? About what's going on with us lately, or what kinda plans we've got coming up… Any of it.
 
@@ -1428,10 +1421,10 @@ All the time we've spent together, the trust we built up 'til now — that stuff
     <p><span><b>Location:</b> Outside of the Hospital</span></p>
 </div>
 
-{% img Spring Bed 8 - 1.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_VmD67823ed4ikno3.webp?timestamp=1736589018377 %}
 
 <div class="msr-narration">
-    <p>The next day, when Anzu</p>
+    <p>The next day, when Anzu gets discharged from the hospital…</p>
 </div>
 
 {% bubble Subaru %}
@@ -1604,11 +1597,7 @@ Accepting change, but still not forgetting what you hold dear — even if you un
 Yeah, it is. It's like… Even if a new season brings new flowers that bloom, the feeling of seeing beautiful flowers never fades. ♪
 
 Hey, Anzu. Even if our positions might be different now, our bond won't ever change, you know?
-{% endbubble %}
 
-{% img Spring Bed 8 - 2.png %}
-
-{% bubble Subaru %}
 That's why we could face each other this time, too.
 
 …Heheh. Alrighty, let's get to celebrating!
@@ -1641,5 +1630,5 @@ Sound good to you, Anzu? ♪
 
 ## Translation Notes
 
-[^1]: They're adorable little bottles popular in Japan. More info [https://sendai-experience.com/en/ex/22 here].
-[^2]: This is a reference to Buddhist forgiveness, which in essence boils down to one forgiving another so that they may move on from their current situation; the student in question doesn't want to be trapped by her feelings of jealousy and anger anymore, and therefore forgives Anzu for making her feel that way. It's not a method those in the western world are familiar with, which is why it might come off oddly for Anzu to accept the girl's forgiveness in lieu of an actual apology for what happened, but this is in accordance with what cultures that practice Buddhism are familiar with. More information on forgiveness in Buddhism can be found [https://jackkornfield.com/the-practice-of-forgiveness/ here].
+[^1]: They're adorable little bottles popular in Japan. More info <a href="https://sendai-experience.com/en/ex/22" target="_blank">here</a>.
+[^2]: This is a reference to Buddhist forgiveness, which in essence boils down to one forgiving another so that they may move on from their current situation; the student in question doesn't want to be trapped by her feelings of jealousy and anger anymore, and therefore forgives Anzu for making her feel that way. It's not a method those in the western world are familiar with, which is why it might come off oddly for Anzu to accept the girl's forgiveness in lieu of an actual apology for what happened, but this is in accordance with what cultures that practice Buddhism are familiar with. More information on forgiveness in Buddhism can be found <a href="https://jackkornfield.com/the-practice-of-forgiveness/" target="_blank">here</a>.

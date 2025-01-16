@@ -70,6 +70,10 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 **Chapter TL Note:** The chapter title “birthplace of stars” is written in hiragana only, so I’ve written the title in lowercase letters, similar to how Kanata’s speech quirk (speaks in hiragana only) is written in my translations.
 {% endnote %}
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
 {% img /img/es/eventstory/stellamaris/p2_1.jpg %}
 
 <div class="msr-narration">
@@ -595,7 +599,7 @@ ah— i am so sorry, i got too deep into our conversation.
 {% endbubble %}
 
 {% bubble Mizusaba %}
-No worries at all~.[^6] Stuff like this gets harder to say if you lose your chance to say it.
+Nankurunaisa~.[^6] Stuff like this gets harder to say if you lose your chance to say it.
 
 It’s best to talk about important matters as soon as possible, rather than later~… No matter what.
 {% endbubble %}
@@ -1156,6 +1160,19 @@ So please, I beg you — Please save us.
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/stella_maris/prologue">Prologue</a>
+                    <a href="/stella_maris/hidden_island">hidden island Ch1–5</a>
+                    <a href="/stella_maris/hidden_island_p2">hidden island Ch6–11</a>
+                    <div>birthplace of stars Ch1–6</div>
+                    <a href="/stella_maris/birthplace_of_stars_p2">birthplace of stars Ch7–15</a>
+                    <a href="/stella_maris/epilogue">Epilogue</a>
+                    <a href="/stella_maris/epilogue#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/stella_maris/birthplace_of_stars_p2" title="Next Chapter: birthplace of stars (Chapter 7–15)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -1164,11 +1181,11 @@ So please, I beg you — Please save us.
 
 ## Translation Notes
 
-[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^1]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/High_and_Low" target="_blank">High and Low</a>, that was set in Australia. Translation can be found <a href="https://enstarsmasterlist.github.io/scoutevent#High-and-Low" target="_blank">in this masterlist</a>.
 [^2]: Suica card is Japan’s smart card, used as a fare card for trains. See more <a href="https://en.wikipedia.org/wiki/Suica" target="_blank">here</a>.
 [^3]: Kamegorou is this <a href="https://ensemble-stars.fandom.com/wiki/(Paradise_of_the_Sea)_Souma_Kanzaki" target="_blank">pond turtle</a>, raised in the Marine Life Club.
-[^4]: The time-point Eichi is referring to is March, as that’s the last month of the fiscal year (The fiscal year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^4]: The time-point Eichi is referring to is March, as that’s the last month of the fiscal year (The fiscal year refreshes in April). ATLANTIS is referring to the amusement park from <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank"><em>fine’s</em> Climax event</a>. Translation can be found <a href="https://enstarsmasterlist.github.io/scoutevent#Atlantis" target="_blank">in this masterlist</a>.
 [^5]: Referring to <a href="/abyss" target="_blank">ABYSS</a>, the story about Kanata’s childhood.
-[^6]: Mizusaba says <em>nankurunai sa</em>, which is an Okinawan saying that means “as long as you do the right thing, things will work out somehow”.
-[^7]: The story <a href="/meteor_impact/second_half_p2/#Chapter-21" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
+[^6]: This is an <em>uchinaaguchi</em> saying. The full phrase is <em>makuto soke nankurunaisa</em> (まくとぅそーけーなんくるないさ), meaning “as long as you do the right thing, things will work out somehow”.
+[^7]: The story <a href="/meteor_impact/second_half_p2" target="_blank">Meteor Impact</a> also talks about the tale, starting from the second half, Chapter 21.
 [^8]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.

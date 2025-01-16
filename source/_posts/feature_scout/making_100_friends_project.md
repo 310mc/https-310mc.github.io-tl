@@ -70,7 +70,7 @@ This story is connected to the card [Bonds That Can Be Called Friendship] Midori
     <p><span><b>Season:</b> Summer</span></p>
 </div>
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
 {% img /img/es/idolstory/making100friendsproject/1.jpg %}
@@ -144,7 +144,7 @@ E-Ehhh…?
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Courtyard</span></p>
 </div>
 
 {% img /img/es/idolstory/making100friendsproject/2.jpg %}
@@ -369,7 +369,7 @@ This story is a sequel to <a href="/idol_story/hinata_3" target="_blank">Hinata'
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

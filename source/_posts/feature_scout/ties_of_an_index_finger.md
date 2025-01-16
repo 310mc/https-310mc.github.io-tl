@@ -12,7 +12,7 @@ description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Suba
 permalink: ties_of_an_index_finger/
 ---
 
-![](/img/es/idolstory/tiesindexfinger/c1.jpg)|![](/img/es/idolstory/tiesindexfinger/c2.jpg)
+![](https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475)|![](https://f005.backblazeb2.com/file/reitoouji/ro_UM675b168bZAuhj2.webp?timestamp=1734022798286)
 :-:|:-:
 
 Chiaki wants to treat a wound without anyone noticing, but…
@@ -71,7 +71,7 @@ This story is connected to the card [Naming the Injury] Chiaki Morisawa.
     <p><span><b>Location:</b> Hallway</span></p>
 </div>
 
-{% img /img/es/idolstory/tiesindexfinger/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zMtHKO675b168bB6.webp?timestamp=1734022798179 %}
 
 {% bubble Chiaki frustrated %}
 <th>(Gahh…! I can’t <em>believe</em> I’d make a mistake like this…! I tripped on the steps and fell down…)</th>
@@ -93,7 +93,7 @@ This story is connected to the card [Naming the Injury] Chiaki Morisawa.
     <p><span><b>Location:</b> Doctor’s Office</span></p>
 </div>
 
-{% img /img/es/idolstory/tiesindexfinger/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bH675b168bkeYZR2.webp?timestamp=1734022801311 %}
 
 {% bubble Chiaki %}
 —Please excuse me.
@@ -381,7 +381,7 @@ Gah, don’t squeeze me so tightly!
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -393,7 +393,7 @@ Gah, don’t squeeze me so tightly!
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>

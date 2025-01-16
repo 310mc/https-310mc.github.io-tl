@@ -52,11 +52,6 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
 
 <!-- more -->
 
-<div class="msr-cw">
-    <span><b>Content Warning</b></span>
-    <p>Casual suicide mention.</p>
-</div>
-
 <div class="msr-season summer">
     <p><span><b>Season:</b> Summer</span></p>
 </div>
@@ -76,7 +71,7 @@ description: "[ES!!] Translation of Kanata's Idol Story 2, featuring Midori."
 
 <th>(I was worried that I’d give up a week in, but I don’t think I can even get past the first day…)</th>
 
-<th>(Well, whatever… I haven’t told anyone about this, anyway. Nobody’ll realize that I’ve failed… I can move on with my life…)</th>
+<th>(Well, whatever… I haven’t told anyone about this, anyway. Nobody will realize that I’ve failed… I can move on with my life…)</th>
 {% endbubble %}
 
 {% bubble Kanata v2 %}

@@ -734,6 +734,17 @@ Let's go, Sengoku! We’ll get through this, while smiling ‘til the very last 
                 </a>
             </div>
             <a target="_blank" href="/orihime_and_hikoboshi" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/orihime_and_hikoboshi/prologue">Prologue</a>
+                    <a href="/orihime_and_hikoboshi/cloudy_sky">Cloudy Sky</a>
+                    <a href="/orihime_and_hikoboshi/threat_of_rain">Threat of Rain</a>
+                    <a href="/orihime_and_hikoboshi/living_sunshine">Living Sunshine</a>
+                    <div>Epilogue</div>
+                    <a href="/orihime_and_hikoboshi/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

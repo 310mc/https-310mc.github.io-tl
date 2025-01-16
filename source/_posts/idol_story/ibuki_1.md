@@ -57,10 +57,6 @@ description: "[ES!!] Translation of Ibuki’s Idol Story 1."
 You can see Ibuki Taki’s profile on the <a href="https://ensemble-stars.fandom.com/wiki/Ibuki_Taki" target="_blank">Wiki</a>.
 {% endnote %}
 
-{% note narration %}
-To learn more about Ibuki and Okinawa, I recommend reading the following stories: <b><a href="/submarine" target="_blank">Submarine</a></b> (the start of the storyline), <b><a href="/supervillain" target="_blank">Supervillain</a></b> (has a few mentions), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (dives deep into Okinawa)
-{% endnote %}
-
 <div class="msr-season spring">
     <p><span><b>Season:</b> Spring</span></p>
 </div>
@@ -86,7 +82,7 @@ I keep telling you this; I was called over by a bigshot who’s in there\~. If y
 
 Mm? My name is Taki Ibuki, I was born in Okinawa and grew up in the US. But my current nationality is Japanese, yeah\~?[^2]
 
-Or what\~? Are you trying to say that anyone who looks American or Okinawan can’t enter your pretty country or its Japanese buildings\~?[^3]
+Or what\~? Are you trying to say that anyone who looks American or <em>Uchinaanchu</em> can’t enter the beautiful country of Japan’s buildings\~?[^3]
 
 What, is this discrimination or something\~? I’ll sue you if so\~?
 
@@ -118,7 +114,7 @@ You have to be careful\~. Well, I shouldn’t be the one to say that, huh\~? Nya
 
 I’m sorry\~, I’d rather you not sue me for this, okay\~?
 
-Mm? Never mind that, you’d like to know if I’m having any problems…?
+Mm? Never mind that, you’d like to know if there’s any problems…?
 
 Nyaha\~, treating me so nicely after what’s happened — You’re a weird one, aren’tcha\~♪
 
@@ -172,7 +168,7 @@ I hope to make your acquaintance, Anzu nee-nee. ♪
 {% endbubble %}
 
 {% note narration %}
-To learn more about Ibuki and Okinawa, I recommend reading the following stories: <b><a href="/submarine" target="_blank">Submarine</a></b> (the start of the storyline), <b><a href="/supervillain" target="_blank">Supervillain</a></b> (has a few mentions), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (dives deep into Okinawa)
+If you’d like more information about Ibuki and Okinawa, these stories may be of help: <b><a href="/submarine" target="_blank">Submarine</a></b> (the start of the storyline), <b><a href="/supervillain" target="_blank">Supervillain</a></b> (has a few mentions of Ibuki), and <b><a href="/stella_maris" target="_blank">Stella Maris</a></b> (big mentions)
 {% endnote %}
 
 ## Story Directory 
@@ -226,14 +222,14 @@ To learn more about Ibuki and Okinawa, I recommend reading the following stories
 
 [^1]: Ibuki speaks with a lot of tildes (~), and usually ends his sentences with <em>sa~</em> (an Okinawan dialect), as well as sometimes saying <em>ne~</em> (roughly meaning “right~”). His first-person pronoun is 吾 (wa~); it’s a slightly old-fashioned, formal pronoun to refer to oneself.
 [^2]: This is about his <a href="https://en.wikipedia.org/wiki/Nationality" target="_blank">nationality and citizenship</a>, not his <a href="https://en.wikipedia.org/wiki/Ethnicity" target="_blank">ethnicity</a>.
-[^3]: Ibuki says <em>uchinaanchu</em> here to say “Okinawan”. This is an <em>uchinaaguchi</em> word to mean “person from Okinawa (<em>uchinaa</em>)”.
+[^3]: In Japanese, the kanjis 沖縄人 (okinawa-person) are used here, and the pronunciation given is <em>uchinaanchu</em>. This is an <em>uchinaaguchi</em> word to mean “person from Okinawa (<em>uchinaa</em>)”. The term was originally coined by Ryukyuan diaspora who had emigrated away from Okinawa.
 [^4]: Ibuki says <em>onikko</em>, lit. oni kid. “Oni” means ogre or demon, and it refers to a type of demon found in Japanese folklore. It typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. <em>Onikko</em> can refer to any of the following: A kid born with strange features akin to an oni, a kid born with teeth, a kid that doesn’t resemble his parents, or a misbehaved kid.
 [^5]: Oni have horns on their head, typically either one horn or two horns. Ibuki doesn’t state how many horns he had grown.
-[^6]: Ibuki says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written in kanji as 爺様 (grandfather + -sama polite honorific), which may indicate respect towards him. His grandpa lives in his hometown, Okinawa, and he was described in <a href="/stella_maris/hidden_island/#Chapter-10" target="_blank">Stella Maris</a>, hidden island 10. In the same chapter, there is information about Ibuki, so I recommend reading it.
+[^6]: Ibuki says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written in kanji as 爺様 (grandfather + -sama polite honorific), which may indicate respect towards him. His grandpa lives in his hometown, Okinawa, and he was described in <a href="/stella_maris/hidden_island_p2" target="_blank">Stella Maris</a>, hidden island 10. In the same chapter, there is information about Ibuki, so I recommend reading it.
 [^7]: This is referring to the nursery rhyme “Kintarō”. In the song, Kintarō fights a bear in a sumo wrestling match, which can be seen in <a href="https://www.youtube.com/watch?v=cKdYeFdz-PA" target="_blank">this video</a>. Translation of the lyrics <a href="https://lyricstranslate.com/en/kintar%C5%8D-kintaro.html" target="_blank">here</a>.
 [^8]: The <em>-sa</em> is written with the same kanji for -sama (様), a polite honorific.
 [^9]: Nee-nee (written as 姉様, older sister + the -sama polite honorific) is how an older lady (or elder sister) is referred to in Okinawan dialect.
-[^10]: Here, he says <em>sankyu</em> in katakana. Usually, when a character pronounces English words in katakana, it implies that it’s possibly not native pronunciation.
+[^10]: Here, he says <em>sankyu</em> in katakana.
 [^11]: Okinawa is a prefecture in Japan, but it’s also its own island far away from the rest of Japan, so Okinawans refer to the rest of Japan as “mainland”. Okinawans also have their own history and culture separate from the Japan mainland. Read more <a href="https://en.wikipedia.org/wiki/Okinawa_Prefecture" target="_blank">here</a>.
 [^12]: Ibuki says 汝 (na~) when saying “you”, which is an old-fashioned second-person pronoun.
 [^13]: Here, Ibuki doesn’t speak in his typical speech quirk, and instead speaks in an old-fashioned, formal manner. The “inhumane” is <em>hito denashi</em> which lit. means “inhumane person”. It also refers to someone who may appear to be human, but doesn’t have any humanity or compassion in them.

@@ -78,7 +78,7 @@ What’s with that reaction, it’s so obnoxious… Could you just take it alrea
 Why, of course!
 {% endbubble %}
 
-{% img /img/es/eventstory/hotandelegantchocofes/ep2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_wRBXN8n675712087.webp?timestamp=1733759498903 %}
 
 {% bubble Chiaki grin2 %}
 …Oh!? Everyone, look! My cookie is in the shape of a hero!

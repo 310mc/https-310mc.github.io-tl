@@ -74,7 +74,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
     <p><span><b>Location:</b> Time Street</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/p2ch1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Gv67709898FpSAW2.webp?timestamp=1735432360320 %}
 
 <div class="msr-narration">
     <p>A few days later, at night — On the way home after an all-out practice session with Ryuseitai-N…</p>
@@ -242,7 +242,7 @@ Otherwise… I’ll never, ever move forward.
 
 ## Chapter 2
 
-{% img /img/es/eventstory/motorshow/p2ch2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JqBh67709898Qaj4.webp?timestamp=1735432358888 %}
 
 <div class="msr-narration">
     <p>A few minutes later…</p>
@@ -433,7 +433,7 @@ Ahaha, why do you want to head home? It's rare that we get to talk to him these 
     <p>Casual mentions of underage drinking and alcohol.</p>
 </div>
 
-{% img /img/es/eventstory/motorshow/p2ch3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bIa67709898xGFJ3.webp?timestamp=1735432366326 %}
 
 {% bubble Chiaki %}
 Bam! The wait is finally over — Morisawa Chiaki has arrived on the scene! Fuhahahaha! ☆
@@ -623,7 +623,7 @@ Mhm, sorry. I know you don’t have much time either, but — I have a favor I�
     <p><span><b>Location:</b> Vocal Room</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/p2ch4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_e677098986VWTzT1.webp?timestamp=1735432358826 %}
 
 <div class="msr-narration">
     <p>Next day, at noon…</p>
@@ -799,7 +799,7 @@ yes. it seems like chiaki has finally learned that he can [rely] on people, too�
 
 ## Chapter 5
 
-{% img /img/es/eventstory/motorshow/p2ch5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jkJhpw67709898e6.webp?timestamp=1735432365990 %}
 
 <div class="msr-narration">
     <p>Several minutes later…</p>
@@ -983,6 +983,15 @@ Ossu! Guess I gotta show off a more senior side of myself, huh? I’ll do what I
                 </a>
             </div>
             <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/motor_show/prologue">Prologue</a>
+                    <a href="/motor_show/snails_pace">Progress at a Snail's Pace</a>
+                    <div>Muddy Road</div>
+                    <a href="/motor_show/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/motor_show/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -1,5 +1,5 @@
 ---
-title: "[Song] Venus in my eyes ~Tonight, I won’t let go~"
+title: "[Song] Venus in my eyes ~Hanasanai, Konya~ (~Tonight, I won’t let go~)"
 date: 2024/10/29 8:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
@@ -10,7 +10,7 @@ categories:
 - [Enstars, Souma]
 tags:
 - Song Lyrics
-description: "Translation of Venus in my eyes ~Tonight, I won’t let go~ Song Lyrics by 310mc. Sung by Hokuto, Midori, Rei, Kaoru, and Souma."
+description: "Translation of Venus in my eyes ~Hanasanai, Konya~ (~Tonight, I won’t let go~) Song Lyrics by 310mc. Sung by Hokuto, Midori, Rei, Kaoru, and Souma."
 permalink: venus_in_my_eyes/
 ---
 
@@ -66,7 +66,7 @@ permalink: venus_in_my_eyes/
 
 ## Full Lyrics
 
-<h4 style="text-align:center;"><em>Venus in my eyes</em> ~Tonight, I won’t let go~</h4>
+<h4 style="text-align:center;">Venus in my eyes ~Hanasanai, Konya~ (~Tonight, I won’t let go~)</h4>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_7673f1342AovCFj1.webp?timestamp=1732186947859 %}
 

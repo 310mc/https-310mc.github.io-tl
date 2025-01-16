@@ -27,7 +27,7 @@ description: "[ES!] Translation of Kanata's Management Stories, featuring Tetora
                     Writer
                 </div>
                 <div class="value">
-                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
                 </div>
             </div>
             <div class="info-item two">

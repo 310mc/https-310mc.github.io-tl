@@ -23,11 +23,11 @@ permalink: flowers_of_the_wasteland/
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/flowersofthewasteland/nagisabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_66y3p67673c08fW5.webp?timestamp=1734818832005')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Flowers of the Wasteland</div>
-                <div class="title-area__subtitle">荒野の花</div>
+                <div class="title-area__subtitle">Flowers in the Wasteland</div>
                 <div class="title-area__start"><a href="/flowers_of_the_wasteland#Remains-of-a-Dream-1">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -109,14 +109,14 @@ permalink: flowers_of_the_wasteland/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/flowersofthewasteland/nagisaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_2z67673c08XU2s62.webp?timestamp=1734818833680)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_66y3p67673c08fW5.webp?timestamp=1734818832005"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Flowers of the Wasteland</div>
-                <div class="title-area__subtitle">荒野の花</div>
+                <div class="title-area__subtitle">Flowers in the Wasteland</div>
                 <div class="title-area__start"><a href="#Remains-of-a-Dream-1">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -210,7 +210,7 @@ permalink: flowers_of_the_wasteland/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/flowersofthewasteland/nagisaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2z67673c08XU2s62.webp?timestamp=1734818833680">
                                 </div>
                                 <div class="caption">
                                     Remains of a Dream 3
@@ -218,7 +218,7 @@ permalink: flowers_of_the_wasteland/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/flowersofthewasteland/subaruorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_NWHzz67673c08Xq5.webp?timestamp=1734818834577">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -269,7 +269,7 @@ permalink: flowers_of_the_wasteland/
     <p><span><b>Location:</b> CosPro Office</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OMx467673c08E264.webp?timestamp=1734818831620 %}
 
 <div class="msr-narration">
     <p>The last week of May, a few days after Conquest…[^1]</p>
@@ -451,7 +451,7 @@ If this turns out to be the worst case scenario, we’ve gotta seize our chance,
     <p><span><b>Location:</b> School Gate</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1RbEH67673c08XN5.webp?timestamp=1734818830553 %}
 
 {% bubble Nagisa %}
 …We’ve arrived, Anzu-san.
@@ -493,7 +493,7 @@ If this turns out to be the worst case scenario, we’ve gotta seize our chance,
     <p><span><b>Location:</b> Gymnasium</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8JJ167673c08wzh4.webp?timestamp=1734818829726 %}
 
 {% bubble Subaru %}
 Here, here! Pass it here!
@@ -563,7 +563,7 @@ Yeah, it’s bow wowzers!
 It’s one *man* team, not a one *dog* team! …Yeah, why did I even try to reply to that.
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_E67673c08vAqZFJ1.webp?timestamp=1734818830695 %}
 
 {% bubble Midori %}
 Isara-senpai, sorry for saying this right after you said you had hopes in me, but… this practice game’s tired me out — Could I take a rest…?
@@ -647,7 +647,7 @@ What kinda guy is he gonna be…? I really hope he’s not scary…
 
 ## Remains of a Dream 3
 
-{% img /img/es/scoutstory/flowersofthewasteland/6.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_CMEeqh67673c08t6.webp?timestamp=1734818831694 %}
 
 {% bubble Nagisa %}
 …………
@@ -893,7 +893,7 @@ So how about it, Nagisa-san? This is the kinda sport basketball is. ☆
 Huh? That move just now… What? He’s already overtaken me?!
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/nagisaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2z67673c08XU2s62.webp?timestamp=1734818833680 %}
 
 {% bubble Nagisa %}
 …I’ll pull a feint. And, like that, I’ll slam dunk ♪
@@ -1115,7 +1115,7 @@ Or maybe it’s something to do with idols… An old outfit of *fine*’s maybe?
     <p><span><b>Location:</b> Records Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/7.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_f67673c08uIwWpX1.webp?timestamp=1734818830049 %}
 
 {% bubble Subaru %}
 Here’s the Record Room, Nagisa-san!
@@ -1429,7 +1429,7 @@ Ahaha, of course it was Blue-senpai who did!
     <p><span><b>Location:</b> In front of the fountain at Yumenosaki Academy</span></p>
 </div>
 
-{% img /img/es/scoutstory/flowersofthewasteland/8.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_gmt67673c08jPm63.webp?timestamp=1734818829996 %}
 
 {% bubble Mao %}
 Man, it’s been *way* too long since I got to have fun with the club~! Every part of my body hurts. ♪
@@ -1473,10 +1473,10 @@ I had a nightmare about him just the other day, y’know…!? I even sweated thr
 I’m just joking. Well, I really haven’t been able to visit the club that often, but at least play basketball with us sometime, will ya?
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/subaruorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NWHzz67673c08Xq5.webp?timestamp=1734818834577 %}
 
 {% bubble Subaru %}
-You’re soooooooo slow. How long’re you gonna make me wait?
+You’re soooo slow. How long’re you gonna make me wait?
 {% endbubble %}
 
 {% bubble Mao %}
@@ -1491,7 +1491,7 @@ Also, Anzu and Nagisa-san said they wanted to go home with us too.
 Right, Nagisa-san?
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_yP2z067673c08o05.webp?timestamp=1734818832924 %}
 
 {% bubble Nagisa %}
 …………
@@ -1667,7 +1667,7 @@ Well well? What was it? Tell me~?
 
 ## Epilogue 2
 
-{% img /img/es/scoutstory/flowersofthewasteland/10.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1AMJtH967673c087.webp?timestamp=1734818830447 %}
 
 <div class="msr-narration">
     <p>Autumn, the past…</p>
@@ -1685,7 +1685,7 @@ Well well? What was it? Tell me~?
 …Hm? Someone’s heading this way?
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/11.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Dk67673c08vdkKC2.webp?timestamp=1734818832568 %}
 
 {% bubble Eichi %}
 …………
@@ -1747,7 +1747,7 @@ And yet the person most aware of the fact that such a dream is nothing more than
 …I’ll go. To see the me of the past.
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/12.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_T4mpdt867673c087.webp?timestamp=1734818833045 %}
 
 {% bubble Nagisa past %}
 …I don’t know. I’ve gotten tired. Of even breathing.
@@ -1767,7 +1767,7 @@ And yet the person most aware of the fact that such a dream is nothing more than
 …But even so. I tried to be good. I truly did.
 {% endbubble %}
 
-{% img /img/es/scoutstory/flowersofthewasteland/13.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h967673c080Dkly2.webp?timestamp=1734818830414 %}
 
 {% bubble Nagisa %}
 …………

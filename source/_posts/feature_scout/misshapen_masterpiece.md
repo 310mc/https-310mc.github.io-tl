@@ -181,7 +181,7 @@ By the way, it isn’t everyday that you both are here, is it…? We just starte
 {% bubble Kuro norsmile %}
 Can’t speak for Li’l miss, since she just became a workin’ adult, but nothin’ really changed much for me as of yet.
 
-But either way, it’s more like I hang out here ‘cause I get so busy, really. The room’s in the ES building, so we can freely pass by here anytime, yeah?
+But either way, it’s more like I hang out here ‘cuz I get so busy, really. The room’s in the ES building, so we can freely pass by here anytime, yeah?
 
 Whenever I’m tired, I do some sewing work here.
 
@@ -217,7 +217,7 @@ Is that an outfit for Akatsuki? Though the style is pretty western…
 {% bubble Kuro %}
 Nah, it’s for a different unit in Rhythm Link.
 
-I sometimes get commissions from the agency, probably ‘cause the big-shots recognize my skills now. I accept a few of ‘em here and there, as long as it doesn’t make me neglect my idol activities.
+I sometimes get commissions from the agency, probably ‘cuz the big-shots recognize my skills now. I accept a few of ‘em here and there, as long as it doesn’t make me neglect my idol activities.
 {% endbubble %}
 
 {% bubble Chiaki grin %}
@@ -358,7 +358,7 @@ I can already picture the smiles on their faces! Fuhahahaha…! ☆
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You’re A Hero, Too!"
         />
     </div>
@@ -370,7 +370,7 @@ I can already picture the smiles on their faces! Fuhahahaha…! ☆
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>

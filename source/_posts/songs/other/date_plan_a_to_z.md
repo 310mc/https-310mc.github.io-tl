@@ -14,7 +14,7 @@ description: "Translation of Date Plan A to Z Song Lyrics by 310mc. Sung by √A
 permalink: date_plan_a_to_z/
 ---
 
-{% img /img/es/songs/dateplanatoz.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lfe2V46759a52as6.webp?timestamp=1733928237004 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -68,7 +68,7 @@ permalink: date_plan_a_to_z/
 
 <h4 style="text-align:center;">Date Plan A to Z</h4>
 
-{% img /img/es/eventstory/dateplan/songcover.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jk675712468JK3I2.webp?timestamp=1733759559491 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=0H52wn04Cjg" target="_blank">here</a> (Previous Mitsuru VA) or <a href="https://www.youtube.com/watch?v=xzQOScNCmeE" target="_blank">here</a> (Current Mitsuru VA) for the video! Follow along the timestamps written in the translation!</p>
 

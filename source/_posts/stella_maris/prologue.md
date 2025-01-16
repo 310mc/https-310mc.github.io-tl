@@ -20,11 +20,11 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -58,7 +58,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 <!-- more -->
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
 <div class="msr-location">
@@ -316,6 +316,19 @@ Kya-kya! ☆ Kya-kya! ☆
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/stella_maris/hidden_island">hidden island Ch1–5</a>
+                    <a href="/stella_maris/hidden_island_p2">hidden island Ch6–11</a>
+                    <a href="/stella_maris/birthplace_of_stars">birthplace of stars Ch1–6</a>
+                    <a href="/stella_maris/birthplace_of_stars_p2">birthplace of stars Ch7–15</a>
+                    <a href="/stella_maris/epilogue">Epilogue</a>
+                    <a href="/stella_maris/epilogue#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/stella_maris/hidden_island" title="Next Chapter: hidden island"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

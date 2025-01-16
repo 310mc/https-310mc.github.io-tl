@@ -533,7 +533,7 @@ let’s go search for the perfect [ocean] for me—
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -629,7 +629,7 @@ let’s go search for the perfect [ocean] for me—
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

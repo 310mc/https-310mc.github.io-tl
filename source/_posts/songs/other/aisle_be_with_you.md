@@ -14,7 +14,7 @@ description: "Translation of Aisle, be with you Song Lyrics by 310mc. Sung by Ri
 permalink: aisle_be_with_you/
 ---
 
-{% img /img/es/songs/aislebewithyou.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ggl6759a4a93A0v3.webp?timestamp=1733928107648 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -49,10 +49,10 @@ permalink: aisle_be_with_you/
             </div>
             <div class="info-item three">
                 <div class="label">
-                   Proofreading
+                  Proofreading
                 </div>
                 <div class="value">
-                    <a href="https://twitter.com/yoroshikilled">Peace</a>
+                  <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@ permalink: aisle_be_with_you/
 
 <h4 style="text-align:center;">Aisle, be with you</h4>
 
-{% img /img/es/eventstory/ring/songcover.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7nJxrpI6759f4e77.webp?timestamp=1733948651247 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=ISLUkpKUCGg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

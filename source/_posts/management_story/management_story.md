@@ -26,3 +26,10 @@ Management is Enstars! old version's equivalent to oshigoto/work feature, but it
 [![/management_story/madara](https://static.wikia.nocookie.net/ensemble-stars/images/a/a1/Madara_Mikejima_Anime_Chibi.png)](/management_story/madara)|[![/management_story/hinata](https://static.wikia.nocookie.net/ensemble-stars/images/e/e7/Hinata_Aoi_Anime_Chibi.png)](/management_story/hinata)|[![/management_story/mao](https://static.wikia.nocookie.net/ensemble-stars/images/e/ef/Mao_Isara_Anime_Chibi.png)](/management_story/mao)|[![/management_story/subaru](https://static.wikia.nocookie.net/ensemble-stars/images/a/a2/Subaru_Akehoshi_Anime_Chibi.png)](/management_story/subaru)|[![/management_story/kuro](https://static.wikia.nocookie.net/ensemble-stars/images/b/bd/Kuro_Kiryu_Anime_Chibi.png)](/management_story/kuro)
 **Mitsuru**|**Izumi**
 [![/management_story/mitsuru](https://static.wikia.nocookie.net/ensemble-stars/images/6/63/Mitsuru_Tenma_Anime_Chibi.png)](/management_story/mitsuru)|[![/management_story/izumi](https://static.wikia.nocookie.net/ensemble-stars/images/2/27/Izumi_Sena_Anime_Chibi.png)](/management_story/izumi)|
+
+
+## Translations by citrinesea 
+
+|Shinobu|
+| :-----------: |
+[![https://citrinesea.github.io/translation/shinobu_management_stories/](https://static.wikia.nocookie.net/ensemble-stars/images/f/f7/Shinobu_Sengoku_Anime_Chibi.png)](https://citrinesea.github.io/translation/shinobu_management_stories/)

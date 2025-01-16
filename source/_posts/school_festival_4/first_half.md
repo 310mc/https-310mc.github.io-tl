@@ -1044,6 +1044,15 @@ please do enjoy the [school festival]. *puka, puka*…♪
                 </a>
             </div>
             <a target="_blank" href="/school_festival_4" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/school_festival_4/prologue">Prologue</a>
+                    <div>Chapter 1–6</div>
+                    <a href="/school_festival_4/second_half">Chapter 7–11</a>
+                    <a href="/school_festival_4/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/school_festival_4/second_half" title="Next Chapter: Chapter 7-11"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -55,7 +55,7 @@ This story is connected to the card [Light Beaming from the Darkness] Shinobu Se
                 <div class="label">
                    Proofreading
                 </div>
-                <div class="value">                 
+                <div class="value">
                     <a href="https://twitter.com/yoroshikilled">Peace</a>
                 </div>
             </div>
@@ -478,7 +478,7 @@ Thank you for always watching over me. Because you and my comrades are here for 
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -574,7 +574,7 @@ Thank you for always watching over me. Because you and my comrades are here for 
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

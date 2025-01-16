@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's first Mini Talk from Shooting Star F
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/shootingstarfestival/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2eadK46757106bB6.webp?timestamp=1733759086134 %}
 
 {% bubble Chiaki %}
 Oh, Anzu! You were here even though it’s summer holidays! Great work! ☆

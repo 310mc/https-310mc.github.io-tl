@@ -214,6 +214,15 @@ Wooo! I'm so happy! 'Kay, I'll go change my clothes then! ☆
                 </a>
             </div>
             <a target="_blank" href="/school_festival_4" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/school_festival_4/first_half">Chapter 1–6</a>
+                    <a href="/school_festival_4/second_half">Chapter 7–11</a>
+                    <a href="/school_festival_4/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/school_festival_4/first_half" title="Next Chapter: Chapter 1–6"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

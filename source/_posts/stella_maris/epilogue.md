@@ -62,6 +62,10 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 ## Chapter 1
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
 {% img /img/es/eventstory/stellamaris/ep1.jpg %}
 
 <div class="msr-narration">
@@ -484,9 +488,7 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 ### Story Highlights Text
 
-This event story is about Kanata becoming a hero.
-
-The story illustrates Kanata’s first job as the commander of the reborn Ryuseitai.
+This event story is about Kanata becoming a hero. The story illustrates Kanata’s first job as the commander of the reborn Ryuseitai.
 
 Under Kanata’s leadership, everyone in Ryuseitai headed over to Okinawa, not knowing anything about the details of their job aside from the fact that it involves a commercial filming. This job was actually just the groundwork to Kanata’s actual goal; the real job was to restore a decaying island known as “Hoshijima”. The sealed-off island, Hoshijima, forbade the existence of idols, and had restricted contact with the Okinawa main island. That is when the lord of the island, Minase Konata — a boy who looks exactly like Kanata did when he was young — wished for a foundation where the islanders can survive even after their financial aid came to an end. Because the island had many believers of the religion that once worshiped Kanata as a god, they expected the work to be smooth sailing. However, they then find out that there were islanders who opposed the development of the land…
 
@@ -512,6 +514,19 @@ It’s exactly because they’ve obtained the sparkling stars that they once wis
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/stella_maris/prologue">Prologue</a>
+                    <a href="/stella_maris/hidden_island">hidden island Ch1–5</a>
+                    <a href="/stella_maris/hidden_island_p2">hidden island Ch6–11</a>
+                    <a href="/stella_maris/birthplace_of_stars">birthplace of stars Ch1–6</a>
+                    <a href="/stella_maris/birthplace_of_stars_p2">birthplace of stars Ch7–15</a>
+                    <div>Epilogue</div>
+                    <a href="#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

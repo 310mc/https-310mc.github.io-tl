@@ -15,7 +15,7 @@ permalink: shooting_star_festival/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/shootingstarfestival/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_TDypdc6757106bZ6.webp?timestamp=1733759087995')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Shooting Star Festival</div>
@@ -105,10 +105,10 @@ permalink: shooting_star_festival/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/shootingstarfestival/shuorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_601E6757106bg0O4.webp?timestamp=1733759089165)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/shootingstarfestival/tetorabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_TDypdc6757106bZ6.webp?timestamp=1733759087995"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Shooting Star Festival</div>
@@ -207,7 +207,7 @@ permalink: shooting_star_festival/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/kanataorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -215,7 +215,7 @@ permalink: shooting_star_festival/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/chiakiorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -223,7 +223,7 @@ permalink: shooting_star_festival/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/midoriorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -231,7 +231,7 @@ permalink: shooting_star_festival/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/chiakibcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -239,7 +239,7 @@ permalink: shooting_star_festival/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/midoribcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA
@@ -247,7 +247,7 @@ permalink: shooting_star_festival/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/shootingstarfestival/kanatabcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     TBA

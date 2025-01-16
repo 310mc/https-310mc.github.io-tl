@@ -16,7 +16,7 @@ permalink: unlimited_power/
 hidden: true
 ---
 
-{% img /img/es/songs/ryuseitaialbumtrip_500px.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6759a432Y4urJyu0.webp?timestamp=1733927988162 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -68,7 +68,7 @@ hidden: true
 
 ## MV Size
 
-{% img /img/es/ryuseitaialbumtrip/newdaybreak.jpg %}
+{% img  %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=_WgnJr86g8s" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

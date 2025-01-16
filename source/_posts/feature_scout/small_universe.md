@@ -23,9 +23,9 @@ permalink: small_universe/
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Sora" character="Sora"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-								<a href="/categories/Enstars/Hinata" character="Hinata"></a>
+                    <a href="/categories/Enstars/Sora" character="Sora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Hinata" character="Hinata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -62,7 +62,7 @@ permalink: small_universe/
     <p><span><b>Season:</b> Autumn</span></p>
 </div>
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm 1st Floor Hallway</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm 1st Floor Hallway</span></p>
 </div>
 
 {% img /img/es/idolstory/smalluniverse/1.jpg %}

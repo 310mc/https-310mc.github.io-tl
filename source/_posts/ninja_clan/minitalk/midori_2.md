@@ -108,7 +108,7 @@ Whew… I packed a lot inside, so it's heavier than expected…
 
 I'm sorry to ask this of you, but could you please press the button on the elevator for me? My hands are tied carrying this box.
 
-I'm gonna carry this over to Starmony Dorm, so I'd like to go down to the lobby.
+I'm gonna carry this over to Seisoukan Dorm, so I'd like to go down to the lobby.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

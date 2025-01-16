@@ -20,7 +20,7 @@ permalink: orihime_and_hikoboshi/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Orihime and Hikoboshi</div>
-                <div class="title-area__subtitle">織姫と彦星</div>
+                <div class="title-area__subtitle">Facing One Another! The Celestial Globe of the Night the Stars Meet</div>
                 <div class="title-area__start"><a href="/orihime_and_hikoboshi/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -115,7 +115,7 @@ permalink: orihime_and_hikoboshi/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Orihime and Hikoboshi</div>
-                <div class="title-area__subtitle">織姫と彦星</div>
+                <div class="title-area__subtitle">Facing One Another! The Celestial Globe of the Night the Stars Meet</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -241,7 +241,7 @@ permalink: orihime_and_hikoboshi/
                                     <img src="/img/es/eventstory/orihimeandhikoboshi/maoorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Living Sunshin 3
+                                    Living Sunshine 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -602,8 +602,8 @@ permalink: orihime_and_hikoboshi/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

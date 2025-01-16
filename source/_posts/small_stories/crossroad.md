@@ -11,7 +11,7 @@ categories:
 tags:
 - Event Story
 - Akira
-description: "[ES!] Translation of Chiaki's scenes from the event story Crossroad."
+description: "[ES!] Translation of Chiaki’s scenes from the event story Crossroad."
 permalink: crossroad/
 ---
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -61,9 +61,9 @@ permalink: crossroad/
 
 ## Introduction
 
-<big><a href="https://ensemble-stars.fandom.com/wiki/Crossroad" target="_blank">Crossroad</a> was released on July 31st 2017. It's the first story that revealed how Chiaki used to be in past, including being the first reveal that he wears glasses.</big>
+<big><a href="https://ensemble-stars.fandom.com/wiki/Crossroad" target="_blank">Crossroad</a> was released on July 31st 2017. It’s the first story that revealed how Chiaki used to be in past, including being the first reveal that he wears glasses.</big>
 
-<big>This translation introduces all the Chiaki scenes from Crossroad.</big>
+<big>This translation introduces all the Chiaki scenes from Crossroad. The story is fully voiced in the Ensemble Stars!! Basic game.</big>
 
 ## Live Quotes
 
@@ -73,27 +73,27 @@ permalink: crossroad/
 
 {% img /img/es/eventstory/crossroad/live_3.jpg %}
 
-## Keito (and Eichi)'s Plan
+## Keito (and Eichi)’s Plan
 
 Keito wanted control over the delinquents around the area (presumably Yumenosaki idols or just Yumenosaki students in general) and to "clean them up in a single swipe."
 
-The reason for this all this is: there's a huge problem with these delinquents because they made the underground live house into their gathering spot and have been causing a lot of trouble around the neighborhood.
+The reason for this all this is: there’s a huge problem with these delinquents because they made the underground live house into their gathering spot and have been causing a lot of trouble around the neighborhood.
 
-If this clean up were to be successful, the teachers and management groups of Yumenosaki (so basically the upper staff) would take the Student Council more seriously (they'd see them in a better light, basically). This'd then make working as part of the Student Council much easier and they'd finally have a foundation of some sort.
+If this clean up were to be successful, the teachers and management groups of Yumenosaki (so basically the upper staff) would take the Student Council more seriously (they’d see them in a better light, basically). This’d then make working as part of the Student Council much easier and they’d finally have a foundation of some sort.
 
-It'd also be a great excuse to finally motivate Rei, the current Student Council President, to actually get himself involved with Student Council duties.
+It’d also be a great excuse to finally motivate Rei, the current Student Council President, to actually get himself involved with Student Council duties.
 
-For the plan, Eichi uses himself as bait to gather up all the delinquents in the underground live house. With Eichi's wealth, he was able to fake being a rich idiot who stumbles into these delinquents, who took the bait and tied him up. On the worst case scenario that something really does end up happening to Eichi, he has bodyguards on standby that can rescue him out anyway, and even calling the police would've worked. In the meantime, Keito hurries to Rei and pretends that there's an emergency that he has to come deal with at the live house.
+For the plan, Eichi uses himself as bait to gather up all the delinquents in the underground live house. With Eichi’s wealth, he was able to fake being a rich idiot who stumbles into these delinquents, who took the bait and tied him up. On the worst case scenario that something really does end up happening to Eichi, he has bodyguards on standby that can rescue him out anyway, and even calling the police would’ve worked. In the meantime, Keito hurries to Rei and pretends that there’s an emergency that he has to come deal with at the live house.
 
-The ideal result was that Rei would cause a huge ruckus with an amazing live and get Eichi out there safely. The name "Sakuma Rei the Student Council President" would then bring fear into those delinquents, but at the same time, those same delinquents, who don't even try nor bother in their schoolwork, will start to riot against Rei for causing havoc to their gathering place.
+The ideal result was that Rei would cause a huge ruckus with an amazing live and get Eichi out there safely. The name "Sakuma Rei the Student Council President" would then bring fear into those delinquents, but at the same time, those same delinquents, who don’t even try nor bother in their schoolwork, will start to riot against Rei for causing havoc to their gathering place.
 
-Rei would then lose all his supporters, and be persecuted by everyone. In that moment, Rei will finally have no choice but to use the Student Council('s influence, I suppose). It'd be even better if Rei could then see the Student Council as his own home. And so, with Rei on the Student Council's side, Keito could make him the "boss", and thus finally reform the academy.
+Rei would then lose all his supporters, and be persecuted by everyone. In that moment, Rei will finally have no choice but to use the Student Council(’s influence, I suppose). It’d be even better if Rei could then see the Student Council as his own home. And so, with Rei on the Student Council’s side, Keito could make him the "boss", and thus finally reform the academy.
 
 He explains a little extra details about the plan, but this is basically the main gist.
 
-If this went all according to plan, Keito presumes he would have been able to "purify" the academy from these delinquent students. But things didn't go as planned.
+If this went all according to plan, Keito presumes he would have been able to "purify" the academy from these delinquent students. But things didn’t go as planned.
 
-First off, by the time Keito finally got Rei to the live house, something unexpected happened. Keito notices Chiaki's on top of the stage singing, and…
+First off, by the time Keito finally got Rei to the live house, something unexpected happened. Keito notices Chiaki’s on top of the stage singing, and…
 
 ## Chapter 4/6/7 of Chaos
 
@@ -104,13 +104,13 @@ First off, by the time Keito finally got Rei to the live house, something unexpe
 {% endbubble %}
 
 {% bubble Rei ore %}
-Hmm? Hey, there's someone singin’ onstage.
+Hmm? Oi, there’s someone singin’ onstage.
 {% endbubble %}
 
 {% bubble Keito %}
-Huh? That's… Morisawa from Ryuseitai, isn't it?
+Mm? That’s… Morisawa from Ryuseitai, isn’t it?
 
-<th>(Why is he here? This is completely unexpected… What's going on?)</th>
+<th>(Why is he here? Shoot, this is completely unexpected… What’s going on?)</th>
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -122,7 +122,7 @@ Do I look like one to you?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Um, no… You seem pretty serious, and you aren't like a delinquent at all.
+Um, no… I couldn’t tell at first because it's so dark here, but you’re Hasumi-kun, aren’t you? Then you wouldn’t be a delinquent.
 
 But if that’s the case, then you’re in trouble! Leave this place to me, and get away from here right away!
 {% endbubble %}
@@ -130,7 +130,7 @@ But if that’s the case, then you’re in trouble! Leave this place to me, and 
 {% bubble Keito %}
 W-What are you on about!? Explain, Morisawa! I might be able to help!
 
-<th>(And while I'm pretending to be worried, I’ll move away from Sakuma-san and… sneakily get closer to Morisawa and talk to him quietly.)</th>
+<th>(And while I’m pretending to be worried, I’ll move away from Sakuma-san and… sneakily get closer to Morisawa and talk to him quietly.)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/1_2.jpg %}
@@ -144,13 +144,13 @@ Eichi? Ahh, you mean Tenshouin-kun! He looked like he was in great danger, so I 
 {% endbubble %}
 
 {% bubble Keito %}
-You’re too loud! Wait, I don’t really understand why you're up here… What are you doing here?
+You’re too loud! Wait, I don’t really understand why you’re up here… What are you doing here?
 
 From what I can tell, you seem to be singing onstage for some reason.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-A-Ah… It’ll take a while to explain, and it’s a bit embarrassing, so it’s hard to say.
+A-Ah… It’ll take a pretty long while to explain, or well, it’s a bit embarrassing, so it’s hard for me to say.
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/1_3.jpg %}
@@ -158,7 +158,7 @@ A-Ah… It’ll take a while to explain, and it’s a bit embarrassing, so it’
 {% bubble Chiaki mgn %}
 But don’t worry about that! Run away right now!
 
-Worry not, I’m an ally of justice. I’ll make sure you can safely get away from here.
+Don’t worry, I’m an ally of justice. I’ll make sure you can safely get away from here.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -166,7 +166,7 @@ I don’t understand. Mmm… Just what is this guy going on about?
 {% endbubble %}
 
 {% note location %}
-Then Keito worries about how everything's turning out different from what he expected, but it’s too late to change the plan now that Rei is here. So he decides to drop this plan and forget about it, since it’s not worth the gamble.
+Then Keito worries about how everything’s turning out different from what he expected, but it’s too late to change the plan now that Rei is here. So he decides to drop this plan and forget about it, since it’s not worth the gamble.
 {% endnote %}
 
 {% note location %}
@@ -182,11 +182,11 @@ Later, Keito seems to have also been swept with the mood, singing along with Rei
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-S-Sorry but, Hasumi-kun… right? I feel like you could help me understand. What exactly is going on right now?
+S-Sorry, but… Hasumi-kun, I feel like you could help me understand. What exactly is going on right now?
 {% endbubble %}
 
 {% bubble Keito %}
-That’s what I want to know. Morisawa, why are you singing onstage all by yourself in the first place?
+That’s what I want to know. Morisawa, why were you singing onstage all by yourself in the first place?
 
 Oh right, is this part of your Ryuseitai activities?
 {% endbubble %}
@@ -204,7 +204,9 @@ What are you even talking about… Okay, then why are you in a place like this?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Well, when Mikejima-san isn’t around, the others don’t have any motivation, so I struggled very hard just to get them together in one place… and after that, we wound up in this underground live house.
+Well, when Mikejima-san isn’t around, the others don’t have any motivation, so I struggled very hard just to get them together in one place…
+
+And after that, we wound up in this underground live house.
 
 Then they started having fun eating and drinking as they messed around and sang karaoke. Well… That’s the usual for us, though.
 
@@ -212,17 +214,17 @@ But there was one problem.
 
 For some reason, Tenshouin-kun was on the floor, tied up in a corner. Obviously, as an ally of justice, I had no choice but to help him.
 
-So I desperately tried to make negotiations with them, and they promised that, as long as I sing onstage and entertain them, they would untie Tenshouin-kun.
+So I desperately tried to make negotiations with them, and I got them to promise me that, as long as I sing onstage and entertain them, they would untie Tenshouin-kun.
 
-And that’s why I started singing.
+And that’s why I was singing.
 {% endbubble %}
 
 {% bubble Keito %}
-<th>(Huh… so that’s what happened, I get it now. I should've known that bribing some delinquents to do your bidding wouldn't go that well.)</th>
+<th>(Huh… so that’s what happened, I get it now. I should’ve known that bribing some delinquents to do your bidding wouldn’t go that well.)</th>
 
 <th>(They changed the plan as they pleased, without ever giving thought to what was really intended… They’re beyond help — Actually, no, our plan was probably just too weak.)</th>
 
-…That must’ve been unfortunate for you.
+…Well, that must’ve been unfortunate for you, to say the least.
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/1_5.jpg %}
@@ -230,25 +232,25 @@ And that’s why I started singing.
 {% bubble Chiaki mgn %}
 Yeah, they sneered and made fun of me… It was pretty rough…
 
-But I waited for an opening and loosened Tenshouin-kun’s binds a little, so he could escape by himself.
+But I waited for an opening and loosened Tenshouin-kun’s binds a little, and then he escaped by himself at one point.
 
-After that, I just had to buy enough time by bringing all the attention to myself. I'm going to continue singing until my throat goes dry!
+After that, I just had to buy enough time by bringing all the attention to myself. I’m going to continue singing until my throat goes dry!
 {% endbubble %}
 
 {% bubble Keito %}
-<th>(I can’t believe this… So thanks to this idiot doing something completely unnecessary, my plans have been forcibly changed?)</th>
+<th>(I can’t believe this… So thanks to this imbecile doing something completely unnecessary, my plans have been forcibly changed?)</th>
 
-<th>(I never expected Morisawa Chiaki from Ryuseitai to be this sort of person.)</th>
+<th>(I never expected Ryuseitai’s Morisawa Chiaki to be this sort of person.)</th>
 
 <th>(I thought Ryuseitai were a bunch of fools, going only by the name of “allies of justice.”)</th>
 
-<th>(But now I have to reconsider what I've known about them… It seems like only Mikejima and this guy are different from the others, though.)</th>
+<th>(But now I have to reconsider what I’ve known about them… It seems like only Mikejima and this guy are different from the others.)</th>
 
-<th>(I have to be cautious. Well, Mikejima’s the more important part, and he's working overseas right now, so it should likely be alright.)</th>
+<th>(I have to be cautious. Well, Mikejima’s the more important part, and he’s working overseas right now, so it should likely be alright.)</th>
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-…? You look grim, Hasumi…kun. What's wrong?
+…? What’s wrong, Hasumi-kun? You look grim…
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/1_6.jpg %}
@@ -260,9 +262,9 @@ It’ll be okay! I’ll protect you, no matter what!
 {% bubble Keito %}
 <th>(Mmm… Something’s off about him. He may be saying reassuring things, but it feels like he’s shaking in fear.)</th>
 
-<th>(There’s a gap between his words and actions, as if it’s off sync.)</th>
+<th>(There’s a gap between his words and actions, as if it’s strangely off sync.)</th>
 
-<th>(Seems like I need to research on what kind of person he is.)</th>
+<th>(Seems like I need to research on what kind of person he is. So because of these uncertain variables popping up, Eichi evacuated without falling into any danger?)</th>
 {% endbubble %}
 
 {% note location %}
@@ -276,11 +278,11 @@ After a monologue of the plan, Keito wonders how a plan so perfect (or so he tho
 {% img /img/es/eventstory/crossroad/1_7.jpg %}
 
 {% bubble Chiaki mgn %}
-…What’s wrong, Hasumi-kun? You don’t look well. Should I take you to the nearest hospital?
+…What’s wrong, Hasumi-kun? You don’t look well. Would you like me to take you to the nearest hospital?
 
 Tenshouin-kun seemed unwell, too… I think some people in black suits panicked and took him to the hospital.
 
-I guess it's not surprising that honor students like you wouldn't feel so well in the atmosphere of an underground live house.
+I guess it’s not surprising that honor students wouldn’t feel so well in the atmosphere of an underground live house.
 {% endbubble %}
 
 {% bubble Keito %}
@@ -288,15 +290,17 @@ I guess it's not surprising that honor students like you wouldn't feel so well i
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-I’m only guessing. I got worried about him because he was obviously feeling unwell, so I paid close attention to what the people in black suits were saying… and they sounded shaken up while contacting a hospital.
+I’m only guessing. I got worried about him because he was obviously feeling unwell, so I paid close attention to what the people in black suits were saying…
+
+They sounded shaken up while contacting a hospital.
 {% endbubble %}
 
 {% bubble Keito %}
-<th>(Dammit! I’m such an idiot! I should’ve known that Eichi’s health still wasn’t up to shape. He was only pretending to be fine…)</th>
+<th>(Dammit! I’m such an idiot! I should’ve known that Eichi’s health still wasn’t back up to shape. He was only pretending to be fine…)</th>
 
-<th>(After all, he was still supposed to go back to the hospital.)</th>
+<th>(After all, he was still supposed to be at the hospital.)</th>
 
-<th>(I didn’t think about that, and ended up involving him with the plan… That’s my greatest failure. I rushed too much…)</th>
+<th>(I didn’t pick up the signs, and ended up involving him with the plan… That’s my greatest failure. I rushed too much…)</th>
 
 <th>(What “perfect plan”… *I’m* the fool.)</th>
 {% endbubble %}
@@ -320,13 +324,13 @@ Even so, I can’t stand and watch as someone falls into danger right before my 
 {% bubble Chiaki mgn %}
 I’ve always been a coward, who looked away from the evil in this world… But I won’t run away ever again.
 
-I *will* become the ally of justice that I’ve looked up to as a kid.
+I *will* become the ally of justice that I’ve yearned to be since I was young.
 
 ♪\~♪\~♪
 {% endbubble %}
 
 {% bubble Keito %}
-<th>(I haven’t understood a single thing he’s said from start to finish.)</th>
+<th>(…I haven’t understood a single thing he’s said from start to finish.)</th>
 
 <th>(I thought Morisawa had absolutely no striking features about him, but he really does seem to be different from the other pack.)</th>
 {% endbubble %}
@@ -342,7 +346,7 @@ Anyways, I went with my gut and barged in on this guy’s live, since he sounded
 {% img /img/es/eventstory/crossroad/1_9.jpg %}
 
 {% bubble Chiaki mgn %}
-I'm guessing you mean me by “this guy.” Thank you. To be honest, I really couldn’t handle being here any longer, so you helped me out…
+I’m guessing you mean me by “this guy.” Thank you. To be honest, I really couldn’t handle being here any longer, so you helped me out…
 
 The atmosphere of this place changed entirely, all thanks to you two spontaneously joining me and singing.
 {% endbubble %}
@@ -363,7 +367,7 @@ Ahaha, that sounded like a pick-up line a pure young boy tried his very best to 
 And that’s the end of Chiaki’s involvement with Keito’s ruined plan.
 {% endnote %}
 
-## Kuro and Chiaki's Friendship
+## Kuro and Chiaki’s Friendship
 
 {% note location %}
 Kuro was outside near the underground live house, when he makes a phone call to his sister.
@@ -382,9 +386,9 @@ If someone as scary-lookin’ as me came to pick you up, your friend would freak
 
 Right then, see ya. Come back before it gets too late, alright?
 
-<th>(…Hmm… My li'l sis has been real cold to me lately… Is this the so-called rebellious phase?)</th>
+<th>(…Hmm… My li’l sis has been real cold to me lately… Is this the so-called rebellious phase?)</th>
 
-<th>(Well, she’s been talkin’ to me a lot more than the days after our mother died… and she has her own life, so I shouldn’t be meddlin' with it.)</th>
+<th>(Well, she’s been talkin’ to me a lot more than the days after our mother died… and she has her own life, so I shouldn’t be meddlin’ with it.)</th>
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/2_2.jpg %}
@@ -427,7 +431,7 @@ Keito is impressed by how considerate Kuro is, to which Kuro replies with “I�
 
 <hr>
 
-***Kuro's Special Mini Event 3/3:***
+***Kuro’s Special Mini Event 3/3:***
 
 {% img /img/es/eventstory/crossroad/minitalk.jpg %}
 
@@ -492,7 +496,7 @@ Morisawa-kun, you seem like an earnest good boy~ So why are you in Ryuseitai, wh
 {% bubble Chiaki mgn %}
 Its state may be like this right now, but the group upholds the image of being an ally of justice…
 
-That's why I’d like to reform it from within, so that it can be reborn once again to live up to the ideal that comes with its image.
+That’s why I’d like to reform it from within, so that it can be reborn once again to live up to the ideal that comes with its image.
 {% endbubble %}
 
 {% img /img/es/eventstory/crossroad/3_3.jpg %}

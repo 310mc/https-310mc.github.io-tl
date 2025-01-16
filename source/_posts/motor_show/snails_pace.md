@@ -75,7 +75,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/hiiroorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JZKTaW67709898P6.webp?timestamp=1735432366418 %}
 
 {% bubble Tetora %}
 Hup! Haa! Hup-nnh!
@@ -85,7 +85,7 @@ Hup! Haa! Hup-nnh!
 ……
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_IImQpKr67709a617.webp?timestamp=1735432806563 %}
 
 {% bubble Tetora %}
 Ossu! Ossuossu—oooossu! OOOOOOOOO—SSU!
@@ -219,7 +219,7 @@ Ahaha, Mayoi-dono is in the Ninja Association with me, so we were performing our
 But I had something to inform Tetora-kun about as soon as possible, and so I rushed straight over to ES.
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/shinobuorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_36n67709a614bbt3.webp?timestamp=1735432806618 %}
 
 {% bubble Shinobu %}
 I requested Mayoi-dono to stay behind at school, but…
@@ -239,7 +239,7 @@ This just shows that we were able to overcome our hardships and finally enjoy ou
 That makes me very happy… Our victory gave us this outcome — this future. We should be proud of that, together~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/mayoiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RP9h67709898xHd4.webp?timestamp=1735432366704 %}
 
 {% bubble Mayoi %}
 Ngaah, so bright~!? I had been conducting acts simply for my licentious desires, but you’ve been walking straightforward on a life path towards radiance, haven’t you…!?
@@ -261,7 +261,7 @@ And its name is: “Motor Show”! It’s likely the largest job we’ve gotten 
 
 ## Chapter 2
 
-{% img /img/es/eventstory/motorshow/p1ch2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vrHWSZ67709898e6.webp?timestamp=1735432358621 %}
 
 <div class="msr-narration">
     <p>A few minutes later…</p>
@@ -429,7 +429,7 @@ Huh? Ah, okay! Thank you~♪
 
 ## Chapter 3
 
-{% img /img/es/eventstory/motorshow/p1ch3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_i677098986B7gtM1.webp?timestamp=1735432358158 %}
 
 {% bubble Hiiro %}
 <th>(Something more important to me than my own life… Indeed, there isn’t anything specific that comes to mind for me either — not yet, at least.)</th>
@@ -567,7 +567,7 @@ But… He’s been busy as hell, so it might be hard to do that…
     <p><span><b>Location:</b> Floating Garden</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/p1ch4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3HL67709898tDuv3.webp?timestamp=1735432366256 %}
 
 <div class="msr-narration">
     <p>Next day, early morning…</p>
@@ -737,7 +737,7 @@ Indeed. I have solid faith that we will reach that dazzling future waiting befor
     <p><span><b>Location:</b> Staff Cafeteria</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/p1ch5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RB67709898Xq4Ud2.webp?timestamp=1735432366499 %}
 
 <div class="msr-narration">
     <p>Same day, in the evening…</p>
@@ -977,6 +977,15 @@ But… I really dunno what I gotta do to become an adult…
                 </a>
             </div>
             <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/motor_show/prologue">Prologue</a>
+                    <div>Progress at a Snail's Pace</div>
+                    <a href="/motor_show/muddy_road">Muddy Road</a>
+                    <a href="/motor_show/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/motor_show/muddy_road" title="Next Chapter: Muddy Road"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

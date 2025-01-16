@@ -467,7 +467,7 @@ Ahh…
 {% endbubble %}
 
 {% bubble Midori grin %}
-She’s making me mascot character designs. I’ve asked her to make a new one every time we have a Ryuseitai performance…♪
+She’s making me yuruchara designs. I’ve asked her to make a new one every time we have a Ryuseitai performance…♪
 
 I’m always excited to see the next design, so it’s been motivating me to work hard in my idol activities lately…♪
 {% endbubble %}
@@ -497,7 +497,7 @@ The next job we have to do in Ryuseitai is the hero show that we regularly do at
 
 But are we doing something school-based this time…? You never mentioned this before…?
 
-If we’re gonna perform on some school campus, then a mascot character based on stationery… or something else that matches a school, might be a nice idea… Is it possible to make one, Anzu-san…?
+If we’re gonna perform on some school campus, then a yuruchara based on stationery… or something else that matches a school, might be a nice idea… Is it possible to make one, Anzu-san…?
 {% endbubble %}
 
 {% bubble Midori blushsquint %}
@@ -505,7 +505,7 @@ Uwaah, Anzu-san’s designs are always so cuuute…♪
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
-Takamine! Please listen to me! Show a little more interest in me instead of the mascot character, please…!
+Takamine! Please listen to me! Show a little more interest in me instead of the yuruchara, please…!
 
 Ooh, you’ll listen to me, Anzu? Thank you, I love you! ☆
 {% endbubble %}
@@ -1449,11 +1449,11 @@ I know how you feel, Nagumo. I also tend to say and do odd things without meanin
 {% endbubble %}
 
 {% bubble Chiaki cryalmost %}
-Whenever there’s a photoshoot, I often get scolded and told, “Quit doing transformation poses! Your arms and legs are so loud!” — But it’s completely unintentional! Believe me!
+Whenever there’s a photoshoot, I often get scolded and told, “Quit doing transformation poses! Your arms and legs are so obnoxious!” — But it’s completely unintentional! Believe me!
 {% endbubble %}
 
 {% bubble Midori worried0 %}
-So Morisawa-senpai’s mouth isn’t the only thing that’s loud, even his arms and legs are…
+So Morisawa-senpai’s mouth isn’t the only thing that’s obnoxious, even his arms and legs are…
 
 Doesn’t Sengoku-kun sometimes accidentally sing in a ninja-like way too, and then blush in embarrassment over it…?[^9]
 {% endbubble %}
@@ -1545,7 +1545,7 @@ But that doesn’t have anythin’ to do with cheering squads, y’know~?
 {% bubble Kuro srsthinking %}
 Mm~? If I’m movin’ my body while trynna remember my lines, I get distracted and start doin’ karate <em>katas</em> from muscle memory.
 
-Damn, acting really is tough…
+Damn, actin’ really is tough…
 {% endbubble %}
 
 {% bubble Chiaki scold %}
@@ -1561,7 +1561,7 @@ But the more difficult the mission, the more it fires me up! This is starting to
 {% endbubble %}
 
 {% bubble Mao awkward %}
-Mm~… Well, I guess everyone’s got something they’re not cut out for, don’t they?
+Mm~… Well, I guess everyone’s got something they’re not cut out for, yeah?
 {% endbubble %}
 
 ## Epilogue 1

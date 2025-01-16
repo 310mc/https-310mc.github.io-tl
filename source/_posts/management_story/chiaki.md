@@ -23,13 +23,13 @@ description: "[ES!] Translation of Chiaki's Management Stories, featuring Kaoru,
                     Characters
                 </div>
                 <div class="value">
-								<a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Shu" character="Shu"></a>
-                <a href="/categories/Enstars/Keito" character="Keito"></a>
-                <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shu" character="Shu"></a>
+                    <a href="/categories/Enstars/Keito" character="Keito"></a>
+                    <a href="/categories/Enstars/Kaoru" character="Kaoru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -37,7 +37,7 @@ description: "[ES!] Translation of Chiaki's Management Stories, featuring Kaoru,
                     Writer
                 </div>
                 <div class="value">
-                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>.
+                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
                 </div>
             </div>
             <div class="info-item two">

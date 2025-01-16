@@ -1,5 +1,5 @@
 ---
-title: "[ES!] TBA"
+title: "[ES!] Hot & Elegant Chocolat Fes"
 date: 2019-2-10 9:00:00
 categories:
 - [Enstars, 1. Era, Yumenosaki Era, Present Days]
@@ -10,7 +10,7 @@ tags:
 - Yuuki Yoshino
 - Story Index
 description: "[ES!] TBA"
-permalink: hot_and_elegant_chocofes/
+permalink: hot_and_elegant_chocolat_fes/
 hidden: true
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -56,11 +56,11 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -148,11 +148,11 @@ hidden: true
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">

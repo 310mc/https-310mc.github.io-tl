@@ -18,7 +18,7 @@ permalink: ryuseitai_album_trip/
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcoverframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_bX67571c18fhYzx2.webp?timestamp=1733762076522')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ryuseitai Album TRIP</div>
@@ -77,10 +77,10 @@ permalink: ryuseitai_album_trip/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcover.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_Hm67571c18wcItj2.webp?timestamp=1733762079709)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtripcoverframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_bX67571c18fhYzx2.webp?timestamp=1733762076522"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ryuseitai Album TRIP</div>
@@ -151,10 +151,10 @@ permalink: ryuseitai_album_trip/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_k67589bb1J2fL531.webp?timestamp=1733860278739">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_hymbENK67571e5b7.webp?timestamp=1733762654467">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -187,10 +187,10 @@ permalink: ryuseitai_album_trip/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_KR66758aa05sjgk3.webp?timestamp=1733863947765">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JU9da6758aa05Mt5.webp?timestamp=1733863947468">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -223,10 +223,10 @@ permalink: ryuseitai_album_trip/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_h3iFm6758aa1fta5.webp?timestamp=1733863972616">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Y6758aa1f1z9UIn1.webp?timestamp=1733863973039">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -259,10 +259,10 @@ permalink: ryuseitai_album_trip/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_5E6758aa1fRd4lL2.webp?timestamp=1733863972806">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_qN6758aa1fr6jWf2.webp?timestamp=1733863969741">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -295,10 +295,10 @@ permalink: ryuseitai_album_trip/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_76758aa1f1ZRZXL1.webp?timestamp=1733863972735">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbumtrip/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_pmaA66758aa1fpN5.webp?timestamp=1733863970246">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -360,7 +360,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
               alt="The Opening! (Instrumental)"
           />
       </div>
@@ -372,7 +372,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
               alt="NEW DAYBREAK (Lead Track)"
           />
       </div>
@@ -384,7 +384,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/suiseihalation_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_iMm6759a4809STu3.webp?timestamp=1733928067354"
               alt="Suisei HALATION"
           />
       </div>
@@ -396,7 +396,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
               alt="Power Charge!++ (Instrumental)"
           />
       </div>
@@ -408,7 +408,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/colorsarise_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_spEpfOH6759a5bc7.webp?timestamp=1733928382315"
               alt="Colors Arise"
           />
       </div>
@@ -420,7 +420,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_z6759a4f7LEq2WF1.webp?timestamp=1733928185552"
               alt="Nekketsu ☆ Ryusei Ninpouchou"
           />
       </div>
@@ -432,7 +432,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/relaxparadise_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_76e6759a5e5hnE93.webp?timestamp=1733928424065"
               alt="RELAX PARADISE"
           />
       </div>
@@ -444,7 +444,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/bokuranostella_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6aeA34FKcr0.webp?timestamp=1733928624964"
               alt="Bokura no Stella"
           />
       </div>
@@ -456,7 +456,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/heartheatbeat_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_I8PT6759a649BOx4.webp?timestamp=1733928523936"
               alt="Heart Heat Beat"
           />
       </div>
@@ -468,7 +468,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_a1Ne6759a7aaJur4.webp?timestamp=1733928875858"
               alt="Unmei Power Energy! (Tetora Solo)"
           />
       </div>
@@ -480,7 +480,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_F6759a7d5MRXv9V1.webp?timestamp=1733928919205"
               alt="Green to the sky (Midori Solo)"
           />
       </div>
@@ -492,7 +492,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_uDVL6759a7ecWkX4.webp?timestamp=1733928942469"
               alt="Seisei Doudou Ouenka! (Shinobu Solo)"
           />
       </div>
@@ -504,7 +504,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_wfxEIo6759a7c0i6.webp?timestamp=1733928898178"
               alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
           />
       </div>
@@ -516,7 +516,7 @@ permalink: ryuseitai_album_trip/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_Ak6759a793j94kH2.webp?timestamp=1733928853302"
               alt="happy drops (Kanata Solo)"
           />
       </div>
@@ -529,9 +529,9 @@ permalink: ryuseitai_album_trip/
 
 ## Album Voice Lines
 
-{% img /img/es/ryuseitaialbumtrip/login1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1mQV67571b59mv64.webp?timestamp=1733761891054 %}
 
-{% img /img/es/ryuseitaialbumtrip/login1.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hqwPet67571b59o6.webp?timestamp=1733761891211 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=k6Rd7B3CF1Y" target="_blank">here</a> to listen to the voice lines!</p>
 
@@ -557,13 +557,13 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ## Album Commemoration Live
 
-{% img /img/es/ryuseitaialbumtrip/tripchibi1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_HXBI6A67571c18A6.webp?timestamp=1733762075685 %}
 
 <p style="text-align:center;font-size:22px;">It’s time for the Album Commemoration Live! Join Ryuseitai’s journey through their songs!</p>
 
 ### MC 1
 
-{% img /img/es/ryuseitaialbumtrip/mc1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pxs67571b59rm7F3.webp?timestamp=1733761889904 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/NEW_DAYBREAK" target="_blank">NEW DAYBREAK</a> ♫</p>
@@ -615,7 +615,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 2
 
-{% img /img/es/ryuseitaialbumtrip/mc2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_V67571b59o98nUy1.webp?timestamp=1733761890202 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/nekketsu_ryusei_ninpouchou" target="_blank">Nekketsu ☆ Ryusei Ninpouchou</a> ♫</p>
@@ -682,7 +682,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 3
 
-{% img /img/es/ryuseitaialbumtrip/mc3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_j5j67571b59I5Wo3.webp?timestamp=1733761888047 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/seisei_doudou_ouenka" target="_blank">Seisei Doudou Ouenka!</a> ♫</p>
@@ -716,7 +716,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 4
 
-{% img /img/es/ryuseitaialbumtrip/mc4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_rx067571b5958br3.webp?timestamp=1733761887805 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/suisei_HALATION" target="_blank">Suisei HALATION</a> ♫</p>
@@ -778,7 +778,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c2.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_7TOL5675ac7d5ub5.webp?timestamp=1734002649238"
             alt="You’re a Hero, Too!"
         />
     </div>
@@ -791,7 +791,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 5
 
-{% img /img/es/ryuseitaialbumtrip/mc5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_a67571b59yKQ1E71.webp?timestamp=1733761890322 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/kokoro_de_pittari_ai_ni_naru" target="_blank">Kokoro de Pittari Ai ni Naru</a> ♫</p>
@@ -825,7 +825,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 6
 
-{% img /img/es/ryuseitaialbumtrip/mc6.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OHQp67571b59SOV4.webp?timestamp=1733761887914 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/colors_arise" target="_blank">Colors Arise</a> ♫</p>
@@ -880,7 +880,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 7
 
-{% img /img/es/ryuseitaialbumtrip/mc7.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Nwt67571b59zuJu3.webp?timestamp=1733761887966 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/unmei_power_energy" target="_blank">Unmei Power Energy!</a> ♫</p>
@@ -920,7 +920,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 8
 
-{% img /img/es/ryuseitaialbumtrip/mc8.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5qs67571b592V353.webp?timestamp=1733761890981 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/RELAX_PARADISE" target="_blank">RELAX PARADISE</a> ♫</p>
@@ -995,7 +995,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 9
 
-{% img /img/es/ryuseitaialbumtrip/mc9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Q0aTD67571b59iT5.webp?timestamp=1733761887929 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/green_to_the_sky" target="_blank">Green to the sky</a> ♫</p>
@@ -1043,7 +1043,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 10
 
-{% img /img/es/ryuseitaialbumtrip/mc10.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_867571b59NApJGP1.webp?timestamp=1733761890147 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/bokura_no_stella" target="_blank">Bokura no Stella</a> ♫</p>
@@ -1114,7 +1114,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 11
 
-{% img /img/es/ryuseitaialbumtrip/mc11.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_us67571b59HSHnx2.webp?timestamp=1733761890146 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="/happy_drops" target="_blank">happy drops</a> ♫</p>
@@ -1134,7 +1134,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 “is it time for the [final spurt]?”
 {% endbubble %}
 
-{% img /img/es/ryuseitaialbumtrip/mc11_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Fl867571b59rxG43.webp?timestamp=1733761890094 %}
 
 {% bubble Chiaki fist %}
 “Yep! The live show’s about to reach its climax! Let’s burn our hearts a bright red, and give it everything we’ve got!”
@@ -1172,7 +1172,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 12
 
-{% img /img/es/ryuseitaialbumtrip/mc12.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_B4AUg67571b596e5.webp?timestamp=1733761890010 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/Tenka_Muteki%E2%98%86Meteorangers!_(Lyrics)" target="_blank">Tenka Muteki ☆ Meteorangers!</a> ♫</p>
@@ -1208,7 +1208,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 13
 
-{% img /img/es/ryuseitaialbumtrip/mc13.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ahpPb67571b598U5.webp?timestamp=1733761889077 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/One_with_One_(RYUSEITAI_ver.)_(Lyrics)" target="_blank">One with One</a> ♫</p>
@@ -1244,7 +1244,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 
 ### MC 14
 
-{% img /img/es/ryuseitaialbumtrip/mc14.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_WxZQ67571b59lCx4.webp?timestamp=1733761888008 %}
 
 <div class="msr-narration">
     <p style="font-size:19px;">♫ Now playing: <a href="https://ensemble-stars.fandom.com/wiki/BRAND_NEW_STARS!!_(RYUSEITAI_Ver.)_(Lyrics)" target="_blank">BRAND NEW STARS!!</a> ♫</p>
@@ -1302,7 +1302,7 @@ for this world ahead of us as well, let’s move forward with [all] of us togeth
 “Farewell, until the next time we meet! See you then…☆” *<th>(waves)</th>*
 {% endbubble %}
 
-{% img /img/es/ryuseitaialbumtrip/tripchibi2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_42hJC67571c18rn5.webp?timestamp=1733762075701 %}
 
 <p style="text-align:center;font-size:22px;">That’s all! Hope you enjoyed the trip with Ryuseitai!</p>
 

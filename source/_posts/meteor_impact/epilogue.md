@@ -21,11 +21,11 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -358,6 +358,19 @@ thank you, hero…♪
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <div>Epilogue</div>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
@@ -366,4 +379,4 @@ thank you, hero…♪
 ## Translation Notes
 
 [^1]: Kanata originally says <em>densha no ko</em>, implying either Tetora or Shinobu go home by train.
-[^2]: Originally, Kanata says <em>kurou</em> for “struggle”, and Chiaki misunderstands it as Kuro’s name. To convey a similar feeling, Kanata says “punk” to mean “an inexperienced young person; a novice”. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!
+[^2]: Originally, Kanata says <em>kurou</em> for “struggle”, and Chiaki thinks it’s Kuro’s name. To convey a similar feeling, Kanata says “punk” to mean “an inexperienced young person; a novice”. Thank you <a href="https://twitter.com/yoroshikilled" target="_blank">Peace</a> for the localization!

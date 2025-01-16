@@ -648,6 +648,18 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
                 </a>
             </div>
             <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/ninja_clan/prologue">Prologue</a>
+                    <a href="/ninja_clan/its_all_over">It's All Over</a>
+                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
+                    <div>Demonstrating the Elements</div>
+                    <a href="/ninja_clan/epilogue">Epilogue</a>
+                    <a href="/ninja_clan/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/ninja_clan/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -656,6 +668,6 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 
 ## Translation Notes
 
-[^1]: They're in the same area that appeared in <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Scroll of the Elements</a>.
+[^1]: They're in the same area that appeared in <a href="https://citrinesea.github.io/translation/scroll_of_the_elements/" target="_blank">Scroll of the Elements</a>.
 [^2]: MDM happens at the end of August. It's shown in the first main story of ES!! era.
 [^3]: This plushie appears in Midori's <a href="https://ensemble-stars.fandom.com/wiki/%28Healing_Ninja%29_Midori_Takamine" target="_blank">Scroll of the Elements card</a>.

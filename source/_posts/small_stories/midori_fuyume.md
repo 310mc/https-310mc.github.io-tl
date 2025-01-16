@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] Midori Takamine and Fuyume Hanamura Story Masterpost"
+title: "[ES!!] Midori Takamine and Fuyume Hanamura (Yume) Story Masterpost"
 date: 2024-11-29 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
@@ -19,7 +19,7 @@ permalink: midori_fuyume/
 
 ## Introduction
 
-As a MidoriP, I’m very excited to see Midori finally have his very own junior, especially one related to his model work. Photo shoot work is something Midori has been working hard on since the start of the !! Era storyline, and it makes me happy to know he’s gotten enough experience in it to now try and be a senior to someone.
+As a MidoriP, I’m very excited to see Midori finally have his very own junior, especially one related to his model work. Photo shoot work is something Midori has been working hard on since the start of the ES!! Era storyline, and it makes me happy to know he’s gotten enough experience in it to now try and be a senior to someone.
 
 To celebrate and enjoy such a big step forward in Midori’s storyline, I want to have a place for all his interactions between him and Fuyume!
 

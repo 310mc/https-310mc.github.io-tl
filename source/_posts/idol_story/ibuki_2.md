@@ -460,7 +460,7 @@ It appears that a pretty troublesome person has got their eyes on you, Buchou.
 [^4]: “Buchou” means club captain/president.
 [^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. The Oni that Ibuki is referring to was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
 [^6]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization, and then eventually took down the corporation. The story happens in Okinawa. For more information on what Tetora’s talking about, I recommend reading <a href="/supervillain" target="_blank">the story</a>.
-[^7]: Ibuki’s grandpa was talked about in <a href="/stella_maris/hidden_island/hidden_island_p2/" target="_blank">Stella Maris</a>, hidden island 10. In the same chapter, there is information about Ibuki, so I recommend reading it.
+[^7]: Ibuki’s grandpa was talked about in <a href="/stella_maris/hidden_island_p2/" target="_blank">Stella Maris</a>, hidden island 10. In the same chapter, there is information about Ibuki, so I recommend reading it.
 [^8]: A link to Nice Arneb Thunder’s <a href="https://ensemble-stars.fandom.com/wiki/Nice_Arneb_Thunder" target="_blank">Wiki profile</a>.
 [^9]: Sata andagi is Okinawan food that are sweet deep-fried buns. More information <a href="https://en.wikipedia.org/wiki/Sata_andagi" target="_blank">here</a>.
 [^10]: In this line and the next one, Ibuki doesn’t speak in his typical speech quirk, instead speaking more plainly.

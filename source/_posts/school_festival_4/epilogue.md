@@ -377,6 +377,15 @@ people become happy every time we do something. and when people enjoy what we do
                 </a>
             </div>
             <a target="_blank" href="/school_festival_4" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/school_festival_4/prologue">Prologue</a>
+                    <a href="/school_festival_4/first_half">Chapter 1–6</a>
+                    <a href="/school_festival_4/second_half">Chapter 7–11</a>
+                    <div>Epilogue</div>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

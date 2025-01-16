@@ -66,6 +66,10 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 ## Chapter 7
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
 {% img /img/es/eventstory/stellamaris/p2_7.jpg %}
 
 <div class="msr-narration">
@@ -499,7 +503,7 @@ that i did not want to see his face anymore—
 
 that i wanted him to stay far away from me—
 
-i [insisted on] it over and over again, until i even made <em>myself</em> [believe] that it is true.
+i [insisted] on it over and over again, until i even made <em>myself</em> [believe] that it is true.
 {% endbubble %}
 
 ## Chapter 10
@@ -769,7 +773,7 @@ That’s only before the actual performance. The moment we’re up on stage, I i
 {% bubble Midori sigh %}
 Yeah… I can’t really run away anywhere once I’m on stage, after all… I’ve got no choice but to buckle down and do my best…
 
-Plus, I <em>do</em> wanna be of use to Shinkai-senpai for this job, and it’s not like I have no motivation to work hard…
+Plus, well, I <em>do</em> wanna be of use to Shinkai-senpai for this job, and it’s not like I have no desire to work hard, either…
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -1534,6 +1538,19 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/stella_maris/prologue">Prologue</a>
+                    <a href="/stella_maris/hidden_island">hidden island Ch1–5</a>
+                    <a href="/stella_maris/hidden_island_p2">hidden island Ch6–11</a>
+                    <a href="/stella_maris/birthplace_of_stars">birthplace of stars Ch1–6</a>
+                    <div>birthplace of stars Ch7–15</div>
+                    <a href="/stella_maris/epilogue">Epilogue</a>
+                    <a href="/stella_maris/epilogue#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/stella_maris/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

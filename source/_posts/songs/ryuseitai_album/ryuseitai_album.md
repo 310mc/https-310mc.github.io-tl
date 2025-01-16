@@ -7,13 +7,13 @@ categories:
 tags:
 - Special Story
 - Happy Elements Staff
-description: "Ryuseitai Album Commentary Translation from Ensemble Stars! by 310mc."
+description: "Ryuseitai Album Campaign and Commentary Translation from Ensemble Stars! by 310mc."
 permalink: ryuseitai_album/
 ---
 
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/ryuseitaialbum/frame.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_k67571938s8hRSR1.webp?timestamp=1733761345413')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ryuseitai Album</div>
@@ -72,10 +72,10 @@ permalink: ryuseitai_album/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/ryuseitaialbum/cover.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_iXtGay0675719387.webp?timestamp=1733761344708)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/ryuseitaialbum/frame.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_k67571938s8hRSR1.webp?timestamp=1733761345413"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ryuseitai Album</div>
@@ -90,11 +90,11 @@ permalink: ryuseitai_album/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -146,14 +146,14 @@ permalink: ryuseitai_album/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbum/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_7nR67571938U2AT3.webp?timestamp=1733761343085">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbum/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67571938N7B8yVZ0.webp?timestamp=1733761340578">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--応援してくれてありがとう！--></div>
+                                            <div class="unbloomed">Thank you for cheering us on!<!--応援してくれてありがとう！--></div>
                                             <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
@@ -178,15 +178,15 @@ permalink: ryuseitai_album/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbum/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_usKowZN675719387.webp?timestamp=1733761343361">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbum/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_VEV0UwT675719387.webp?timestamp=1733761343147">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--いつも見てくれてありがとう！--></div>
-                                            <div class="bloomed"><!--これからも応えるッス！--></div>
+                                            <div class="unbloomed">Thank you for always watching us!<!--いつも見てくれてありがとう！--></div>
+                                            <div class="bloomed">We'll keep responding to your calls!<!--これからも応えるッス！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -210,14 +210,14 @@ permalink: ryuseitai_album/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbum/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67571938uSwlGUc0.webp?timestamp=1733761343302">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbum/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_mfyOss67571938r6.webp?timestamp=1733761341923">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--勇気をくれてありがとう！--></div>
+                                            <div class="unbloomed">Thank you for giving us courage!<!--勇気をくれてありがとう！--></div>
                                             <div class="bloomed"><!--TBA--></div>
                                         </div>
                                     </div>
@@ -242,15 +242,15 @@ permalink: ryuseitai_album/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbum/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2hb4grN675719387.webp?timestamp=1733761343945">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbum/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JKr84675719386D5.webp?timestamp=1733761342699">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--呼んでくれてありがとう！--></div>
-                                            <div class="bloomed"><!--誰かを救ってみせるでござる！--></div>
+                                            <div class="unbloomed">Thank you for calling for us!<!--呼んでくれてありがとう！--></div>
+                                            <div class="bloomed">We’ll absolutely rescue others!<!--誰かを救ってみせるでござる！--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -274,15 +274,15 @@ permalink: ryuseitai_album/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/ryuseitaialbum/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kqKJkk6757193886.webp?timestamp=1733761339750">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/ryuseitaialbum/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_967571938olQubd1.webp?timestamp=1733761340477">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
-                                            <div class="unbloomed"><!--ちからをくれてありがとう…♪--></div>
-                                            <div class="bloomed"><!--これからもそばにいますよ♪--></div>
+                                            <div class="unbloomed">thank you for giving us strength…♪<!--ちからをくれてありがとう…♪--></div>
+                                            <div class="bloomed">we will stay by your side from now on, too~♪<!--これからもそばにいますよ♪--></div>
                                         </div>
                                     </div>
                                 </div>
@@ -329,7 +329,7 @@ Ryuseitai’s comments during the Ryuseitai Album countdown.
 
 ### Day 1
 
-{% img /img/es/ryuseitaialbum/day1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vk67571938NVoNH2.webp?timestamp=1733761341184 %}
 
 {% bubble Tetora v2 %}
 **Ossu! I’m Ryuseitai’s Ryusei Black, Nagumo Tetora!**
@@ -351,7 +351,7 @@ Also, starting today, each Ryuseitai member'll have somethin' to say.
 
 ### Day 2
 
-{% img /img/es/ryuseitaialbum/day2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LRgro67571938205.webp?timestamp=1733761344242 %}
 
 {% bubble Midori %}
 I’m Ryuseitai’s Ryusei Green, Takamine Midori…
@@ -369,7 +369,7 @@ This was Takamine Midori speaking. Please look forward to seeing who’s next…
 
 ### Day 3
 
-{% img /img/es/ryuseitaialbum/day3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iLCSCB6757193806.webp?timestamp=1733761343966 %}
 
 {% bubble Shinobu v2 %}
 This is Ryuseitai’s Ryusei Yellow, Sengoku Shinobu!
@@ -389,7 +389,7 @@ This has been Sengoku Shinobu! Do look forward to tomorrow~☆
 
 ### Day 4
 
-{% img /img/es/ryuseitaialbum/day4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_o3dAIvn675719387.webp?timestamp=1733761344517 %}
 
 {% bubble Kanata v2 %}
 fufufu, i am ryuseitai’s [ryusei blue], shinkai kanata…♪
@@ -413,7 +413,7 @@ tomorrow is the [last] day. have you already figured out who it will be\~? ufufu
 
 ### Day 5
 
-{% img /img/es/ryuseitaialbum/day5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_467571938VFjc3F1.webp?timestamp=1733761344746 %}
 
 {% bubble Chiaki v2 %}
 **Ossu! I’m Ryuseitai’s Ryusei Red, Morisawa Chiaki!**
@@ -491,8 +491,7 @@ I hope our voices reach you! And if they do, then please cheer for us as loud as
 
 ## CD Comments
 
-{% img /img/es/ryuseitaialbum/cd.jpg %}
-
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Y67571938u2IIPI1.webp?timestamp=1733761341693 %}
 
 {% bubble Chiaki %}
 It's packed with passionate songs! ☆

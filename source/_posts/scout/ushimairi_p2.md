@@ -27,7 +27,7 @@ This is a **partial translation**. Due to the official version having been relea
 
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/scoutstory/ushimairip2/yuzurubcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_32cVLK167671d4b7.webp?timestamp=1734810963029')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ushimairi, Part Two</div>
@@ -115,10 +115,10 @@ This is a **partial translation**. Due to the official version having been relea
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/scoutstory/ushimairip2/yuzuruorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_8Lq0gx67671d4bK6.webp?timestamp=1734810961862)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/scoutstory/ushimairip2/yuzurubcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_32cVLK167671d4b7.webp?timestamp=1734810963029"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ushimairi, Part Two</div>
@@ -218,7 +218,7 @@ This is a **partial translation**. Due to the official version having been relea
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/ushimairip2/tatsumiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_l7Qtb67671d4bEc5.webp?timestamp=1734810959249">
                                 </div>
                                 <div class="caption">
                                     The Cursed Ox Statue 6
@@ -226,7 +226,7 @@ This is a **partial translation**. Due to the official version having been relea
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/scoutstory/ushimairip2/yuzuruorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8Lq0gx67671d4bK6.webp?timestamp=1734810961862">
                                 </div>
                                 <div class="caption">
                                     The Cursed Ox Statue 8
@@ -271,7 +271,7 @@ This is a **partial translation**. Due to the official version having been relea
     <p><span><b>Location:</b> StarPro Office</span></p>
 </div>
 
-{% img /img/es/scoutstory/ushimairip2/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_awwxM67671d4brd5.webp?timestamp=1734810958560 %}
 
 {% bubble Eichi %}
 Ah, the weather is quite lovely today. Despite the lingering summer heat, it’s the perfect day to go to school.
@@ -296,17 +296,17 @@ My apologies. I did mean to inform you; However, it became difficult to summariz
 
 Since I can’t seem to find a way to put it shortly, I suppose I will tell you the story from beginning to end.
 
-This is how the state of affairs at the Starmony Dormitory came to be.
+This is how the state of affairs at the Seisoukan Dormitory came to be.
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Old Starmony Dormitory</span></p>
+    <p><span><b>Location:</b> Old Seisoukan Dormitory</span></p>
 </div>
 
-{% img/img/es/scoutstory/ushimairip2/1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_n67671d4btUH4YY1.webp?timestamp=1734810961701 %}
 
 <div class="msr-narration">
-    <p>Immediately following the MDM, in the old Starmony dorms, ALKALOID’s room…</p>
+    <p>Immediately following the MDM, in the old Seisoukan Dorms, ALKALOID’s room…</p>
 </div>
 
 {% bubble Yuzuru %}
@@ -328,7 +328,7 @@ Minimalist…? What does that mean?
 {% bubble Yuzuru %}
 It refers to an individual with a principle not to carry around more than that which is indispensable. Since the dormitories are quite small in comparison to our residence, I had been trying to educate the Young Master on the concept…
 
-From now on, the four of you belonging to ALKALOID will live in the new Starmony Dormitory building alongside the rest of your fellow idols.
+From now on, the four of you belonging to ALKALOID will live in the new Seisoukan Dormitory building alongside the rest of your fellow idols.
 
 As the old building will become unoccupied, I must advise you to please ensure that you do not leave any of your belongings behind.
 {% endbubble %}
@@ -396,7 +396,7 @@ I tend to sweat the small stuff since I’m so nervous, so I’m quite good at o
 {% endbubble %}
 
 {% bubble Aira %}
-No worries, I got this! I’m gonna live under the same roof as idols I totally look up to― so I have to take care of myself!
+No worries, I’ve got this! I’m gonna live under the same roof as idols I totally look up to― so I have to take care of myself!
 {% endbubble %}
 
 {% bubble Tatsumi %}
@@ -471,7 +471,7 @@ Thank you for taking time out of your busy schedule to help us. The lord will su
 
 ## The Cursed Ox Statue 2
 
-{% img /img/es/scoutstory/ushimairip2/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_767671d4b6s1dbA1.webp?timestamp=1734810959429 %}
 
 <div class="msr-narration">
     <p>A few hours later…</p>
@@ -552,16 +552,16 @@ And I as well. I feel as if I’ve been saved, and I have you three to thank. I 
 {% endbubble %}
 
 {% bubble Hiiro %}
-Then I shall also say thanks! And now we press onward― to Starmony Dormitory!
+Then I shall also say thanks! And now we press onward― to Seisoukan Dormitory!
 
 We’ve taken our first step as idols, and I can only hope this new building will treat us well.
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
-{% img /img/es/scoutstory/ushimairip2/2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_x667671d4bbsni62.webp?timestamp=1734810961831 %}
 
 {% bubble Tatsumi %}
 Yuzuru-san, I’ve filled out the paperwork, will that be all?
@@ -648,7 +648,7 @@ Given the circumstances prior to MDM, I wonder if something was left behind in t
 {% bubble Yuzuru %}
 But in that case, who should it be returned to…? I haven’t got the slightest idea.
 
-For the time being, I believe we should leave this statue at the Starmony Dorm as a lost item.
+For the time being, I believe we should leave this statue at the Seisoukan Dorm as a lost item.
 
 It does not appear to be expensive, and if it is placed in the common room, its owner may eventually find it.
 {% endbubble %}
@@ -662,10 +662,10 @@ O ox statue with nowhere to go, may you find your rightful owner in the end― A
 ## The Cursed Ox Statue 3
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Room (Tori, Yuzuru)</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Room (Tori, Yuzuru)</span></p>
 </div>
 
-{% img /img/es/scoutstory/ushimairip2/3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_m8067671d4bi22i3.webp?timestamp=1734810961524 %}
 
 <div class="msr-narration">
     <p>The next morning…</p>

@@ -20,7 +20,7 @@ permalink: dollhouse/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Dollhouse</div>
-                <div class="title-area__subtitle">ドールハウス</div>
+                <div class="title-area__subtitle">Doll House</div>
                 <div class="title-area__start"><a href="/dollhouse#Chapter-1">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -106,7 +106,7 @@ permalink: dollhouse/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Dollhouse</div>
-                <div class="title-area__subtitle">ドールハウス</div>
+                <div class="title-area__subtitle">Doll House</div>
                 <div class="title-area__start">
                     <a href="#Chapter-1">Start Reading</a>
                 </div>

@@ -335,6 +335,18 @@ That’s how you’ll see a glimmer of light at the end of the tunnel!
                 </a>
             </div>
             <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/ninja_clan/prologue">Prologue</a>
+                    <a href="/ninja_clan/its_all_over">It's All Over</a>
+                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <div>Feeling Hopeful</div>
+                    <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
+                    <a href="/ninja_clan/epilogue">Epilogue</a>
+                    <a href="/ninja_clan/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/ninja_clan/demonstrating_the_elements" title="Next Chapter: Demonstrating the Elements"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

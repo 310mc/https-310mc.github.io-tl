@@ -15,7 +15,7 @@ description: "[ES!!] Translation of the “Particular Point of Interest” and �
 permalink: selection_10_unit_project/
 ---
 
-{% img /img/es/extra/selection10unitproject.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_rl67571633TFTbj2.webp?timestamp=1733760564545 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">

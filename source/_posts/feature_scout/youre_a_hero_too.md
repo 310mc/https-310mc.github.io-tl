@@ -12,7 +12,7 @@ description: "[ES!!] Translation of a Chiaki Feature Scout story, featuring Hiir
 permalink: youre_a_hero_too/
 ---
 
-![](/img/es/idolstory/aherotoo/c1.jpg)|![](/img/es/idolstory/aherotoo/c2.jpg)
+![](https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002)|![](https://f005.backblazeb2.com/file/reitoouji/ro_7TOL5675ac7d5ub5.webp?timestamp=1734002649238)
 :-:|:-:
 
 Chiaki has come up with the ultimate outfit design. However, the design elements are difficult to reproduce as an idol outfit. In order to think over once more what a hero is, he heads over to the amusement park.<!--最高の一着を考えてきた千秋。しかし、アイドルの衣装としては難しいものばかり。改めてヒーローについて考えるため、遊園地へ行くことに。-->
@@ -73,7 +73,7 @@ This story is connected to the card [Ray of Hope] Chiaki Morisawa.
     <p><span><b>Location:</b> StarPro Office</span></p>
 </div>
 
-{% img /img/es/idolstory/aherotoo/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uxFGHn675ac7d5e6.webp?timestamp=1734002650179 %}
 
 {% bubble Chiaki smileconfident %}
 Bam! Thank you for waiting, Anzu! Morisawa Chiaki is here in all his glory…☆
@@ -195,7 +195,7 @@ I’ll finally be able to know what a hero is. I’m so happy…♪
     <p><span><b>Location:</b> Amusement Park</span></p>
 </div>
 
-{% img /img/es/idolstory/aherotoo/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_J675ac7d5zlChYS1.webp?timestamp=1734002652561 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -239,11 +239,11 @@ Fuhaha, of course it is. Everyone needs a break, be it a hero, idol, or producer
 I’d like you to give yourself a break today. Your job may be important, but you still have the right to rest all the same…♪
 {% endbubble %}
 
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_675ac7d529Ravby0.webp?timestamp=1734002650241 %}
+
 <div class="msr-narration">
     <p>During the final act of the hero show…</p>
 </div>
-
-{% img /img/es/idolstory/aherotoo/3.jpg %}
 
 {% bubble Hiiro shocked %}
 —Ah! Chiaki-senpai, the hero’s transformation has worn off.
@@ -269,7 +269,7 @@ Fuhahahaha! ☆ Keep at it! Defeat never suits a hero!
 <th>(Oooh, the hero suit looks even cooler than it did earlier! That’s impressive… The suit could still evolve even further…!)</th>
 {% endbubble %}
 
-{% img /img/es/idolstory/aherotoo/cg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_oLkHt675ac7d5oH5.webp?timestamp=1734002649819 %}
 
 {% bubble Chiaki herotoocg %}
 <th>(No matter the predicament they fall in, a hero will always be able to stand up for what they believe in. They can get stronger and stronger…)</th>
@@ -279,7 +279,7 @@ Fuhahahaha! ☆ Keep at it! Defeat never suits a hero!
 
 ## Chapter 2
 
-{% img /img/es/idolstory/aherotoo/4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Xe2ot675ac7d5pZ5.webp?timestamp=1734002653492 %}
 
 <div class="msr-narration">
     <p>After the hero show…</p>
@@ -296,7 +296,7 @@ Fuhaha! It makes me so happy to see you learn the charm of heroes, Hero-kun!
 
 However, that was only the tip of the iceberg. The more you learn about heroes, the more you’ll grow fond of them. Their history runs deep, y’know!
 
-I’ll hold a tokusatsu marathon party in Starmony Dorm sometime! I’d <em>love</em> to show you my tokusatsu DVD collection…☆
+I’ll hold a tokusatsu marathon party in Seisoukan Dorm sometime! I’d <em>love</em> to show you my tokusatsu DVD collection…☆
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -325,7 +325,7 @@ Sensation of fear…? Why would people want to experience something fearsome?
 I’d love to find out the reason. Anzu-san, Chiaki-senpai, let’s ride this so-called “roller coaster”!
 {% endbubble %}
 
-{% img /img/es/idolstory/aherotoo/5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_675ac7d5DNWMa0N0.webp?timestamp=1734002650030 %}
 
 <div class="msr-narration">
     <p>A while later…</p>
@@ -419,7 +419,7 @@ I see now. If I were in your position, I’m sure I would have done the exact sa
 You’re someone indispensable to me.
 {% endbubble %}
 
-{% img /img/es/idolstory/aherotoo/6.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1675ac7d5A1uQxO1.webp?timestamp=1734002649913 %}
 
 {% bubble Hiiro sighdrop %}
 …Sigh. It’s already time to leave. I suppose I have to wake up from my dream at one point.
@@ -501,7 +501,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -513,7 +513,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>
@@ -578,7 +578,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -674,7 +674,7 @@ With the two of us, I’m sure it will turn out perfect. Let’s work hard toget
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

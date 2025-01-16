@@ -21,7 +21,7 @@ description: "[ES!!] Translation of Ryuseitai's scene from the Ra*bits Climax ev
 permalink: parallel_world/
 ---
 
-{% img /img/es/eventstory/parallelworld/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Li4tJtq675710197.webp?timestamp=1733759004498 %}
 
 <big>Translation of Ryuseitai's scene from the Ra*bits Climax event story Parallel World.</big>
 
@@ -86,13 +86,13 @@ Ryuseitai is dressed in Ra\*bits uniform, and Ra\*bits is dressed in the Paralle
     <p><span><b>Location:</b> SANCTUARY Amusement Park</span></p>
 </div>
 
-{% img /img/es/eventstory/parallelworld/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Li4tJtq675710197.webp?timestamp=1733759004498 %}
 
 <div class="msr-narration">
     <p>A few days later. Within the SANCTUARY Amusement Park, during the “Parallel World” special project…</p>
 </div>
 
-{% bubble Rchiaki grin %}
+{% bubble Rchiaki grinsoft %}
 “Fuhahahaha! An amusement park means only one thing: it’s time for a hero show!”
 {% endbubble %}
 
@@ -108,7 +108,7 @@ Ryuseitai is dressed in Ra\*bits uniform, and Ra\*bits is dressed in the Paralle
 “We are—! The Lovely☆Cute Allies of Justice: Ra*bits!”
 {% endbubble %}
 
-{% img /img/es/eventstory/parallelworld/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mc67571019rTu5Z2.webp?timestamp=1733759004948 %}
 
 {% bubble Hajime smile %}
 W-Wooow~…! Clap, clap, clap ♪
@@ -122,7 +122,7 @@ Woaah, you guys look super duper cool~!
 Mm~… I know we already watched a video of this performance beforehand, but seeing it in real life really <em>does</em> feel strange— Ah, actually! I feel more like I’m in a dream somehow.
 {% endbubble %}
 
-{% bubble Nazuna grin %}
+{% bubble Nazuna nod2 %}
 Pfft—S-Sorr—…Ahahahaha~! ☆ I dunno, I think I like it! It’s just so *funny!* The way you guys even thought up <em>catchphrases</em>…!
 {% endbubble %}
 
@@ -202,7 +202,7 @@ Ah, that’s because I always make sure to have my photos taken at the right ang
 Ooh~… Chiaki-chin, it seemed like you’d been taking the backseat in Ryuseitai for a long while, but… Looks like you’re leading the unit now, like you used to.
 {% endbubble %}
 
-{% bubble Rchiaki grin %}
+{% bubble Rchiaki grinsoft %}
 “That’s because I’m the commander this time!”[^3]
 {% endbubble %}
 
@@ -220,11 +220,11 @@ Well, I’m sure that just means that a lot has happened to you guys, too.
 “If there’s anything else we can help you with, you’re completely free to rely on us!”
 {% endbubble %}
 
-{% bubble Nazuna smile2 %}
+{% bubble Nazuna smilesoft %}
 You’re helping us out a bunch already. Right, Tomo-chin?
 {% endbubble %}
 
-{% img /img/es/eventstory/parallelworld/3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1bb67571019iDhJ3.webp?timestamp=1733759005864 %}
 
 {% bubble Tomoya smile %}
 Yes. We’re sorry to ask more from your time, but we would love it if you could keep acting as a parallel version of us.
@@ -302,7 +302,7 @@ Everyone is dreaming while still being in reality.
 While watching all the parallel versions of us, right?
 {% endbubble %}
 
-{% bubble Nazuna sigh2 %}
+{% bubble Nazuna sighdrop %}
 I’m pretty satisfied with our plan, and I do think it’s interesting, but… Ughh\~ It’s making me feel dizzy somehow… I feel like I’m gonna go crazy\~…
 {% endbubble %}
 
@@ -314,7 +314,7 @@ You’re extremely sensitive after all, aren’t you, Nii~chan?
 It’s more like I just can’t beat the flexibility that a youngster has, no matter what…
 {% endbubble %}
 
-{% img /img/es/eventstory/parallelworld/4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hsrBW67571019qp5.webp?timestamp=1733759005654 %}
 
 {% bubble Rkanata %}
 “with the [five of us] together, we are [rabbits]…☆”
@@ -338,7 +338,7 @@ It’s more like I just can’t beat the flexibility that a youngster has, no ma
 “midori! you are a good boy! because you were so kind to me, i will give you [wakame seaweed] to show my [gratitude]~♪”
 {% endbubble %}
 
-{% bubble Rshinobu grin %}
+{% bubble Rshinobu nod2 %}
 “Ahaha, why does this sound like the start of a new folktale?”
 {% endbubble %}
 

@@ -15,7 +15,7 @@ description: "Translation of Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Mete
 permalink: nekketsu_ryusei_ninpouchou/
 ---
 
-{% img /img/es/songs/nekketsuryuseininpouchou_300px.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z6759a4f7LEq2WF1.webp?timestamp=1733928185552 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -474,7 +474,7 @@ permalink: nekketsu_ryusei_ninpouchou/
       <div class="story">
           <div class="thumbimage">
               <img
-                  src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+                  src="https://f005.backblazeb2.com/file/reitoouji/ro_xGeK6759a40ey2y4.webp?timestamp=1733927952792"
                   alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
               />
           </div>
@@ -486,7 +486,7 @@ permalink: nekketsu_ryusei_ninpouchou/
       <div class="story">
           <div class="thumbimage">
               <img
-                  src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                  src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6da1hhIJ4X0.webp?timestamp=1733928669099"
                   alt="SUPER NOVA REVOLU5TAR"
               />
           </div>
@@ -498,7 +498,7 @@ permalink: nekketsu_ryusei_ninpouchou/
       <div class="story">
           <div class="thumbimage">
               <img
-                  src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                  src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6da1hhIJ4X0.webp?timestamp=1733928669099"
                   alt="GROWING STARRY DAYS"
               />
           </div>
@@ -510,7 +510,7 @@ permalink: nekketsu_ryusei_ninpouchou/
       <div class="story">
           <div class="thumbimage">
               <img
-                  src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
+                  src="https://f005.backblazeb2.com/file/reitoouji/ro_0SBjw86759a585H6.webp?timestamp=1733928327117"
                   alt="Meteor Scramble ☆ Ryuseitai!"
               />
           </div>
@@ -525,7 +525,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/suiseihalation_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_iMm6759a4809STu3.webp?timestamp=1733928067354"
                 alt="Suisei HALATION"
             />
         </div>
@@ -537,7 +537,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_z6759a4f7LEq2WF1.webp?timestamp=1733928185552"
                 alt="Nekketsu ☆ Ryusei Ninpouchou"
             />
         </div>
@@ -549,7 +549,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/heartheatbeat_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_I8PT6759a649BOx4.webp?timestamp=1733928523936"
                 alt="Heart Heat Beat"
             />
         </div>
@@ -561,7 +561,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/colorsarise_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_spEpfOH6759a5bc7.webp?timestamp=1733928382315"
                 alt="Colors Arise"
             />
         </div>
@@ -573,7 +573,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/relaxparadise_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_76e6759a5e5hnE93.webp?timestamp=1733928424065"
                 alt="RELAX PARADISE"
             />
         </div>
@@ -585,7 +585,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/bokuranostella_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6aeA34FKcr0.webp?timestamp=1733928624964"
                 alt="Bokura no Stella"
             />
         </div>
@@ -597,7 +597,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
                 alt="NEW DAYBREAK"
             />
         </div>
@@ -609,7 +609,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_a1Ne6759a7aaJur4.webp?timestamp=1733928875858"
                 alt="Unmei Power Energy! (Tetora Solo)"
             />
         </div>
@@ -621,7 +621,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_F6759a7d5MRXv9V1.webp?timestamp=1733928919205"
                 alt="Green to the sky (Midori Solo)"
             />
         </div>
@@ -633,7 +633,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_uDVL6759a7ecWkX4.webp?timestamp=1733928942469"
                 alt="Seisei Doudou Ouenka! (Shinobu Solo)"
             />
         </div>
@@ -645,7 +645,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_wfxEIo6759a7c0i6.webp?timestamp=1733928898178"
                 alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
             />
         </div>
@@ -657,7 +657,7 @@ permalink: nekketsu_ryusei_ninpouchou/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ak6759a793j94kH2.webp?timestamp=1733928853302"
                 alt="happy drops (Kanata Solo)"
             />
         </div>

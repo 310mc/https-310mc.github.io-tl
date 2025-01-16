@@ -180,7 +180,7 @@ Thank you, Anzu! I assure you that I’ll bring over ideas that will meet your e
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
 {% img /img/es/idolstory/daysandhero/2.jpg %}
@@ -633,7 +633,7 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -645,7 +645,7 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>
@@ -710,7 +710,7 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -806,7 +806,7 @@ I’m going to make sure to deliver the best performance to my fans, in a way th
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>

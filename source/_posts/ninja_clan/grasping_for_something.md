@@ -643,6 +643,18 @@ Now then, feel free to speak to us!
                 </a>
             </div>
             <a target="_blank" href="/ninja_clan" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/ninja_clan/prologue">Prologue</a>
+                    <a href="/ninja_clan/its_all_over">It's All Over</a>
+                    <div>Grasping For Something</div>
+                    <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
+                    <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
+                    <a href="/ninja_clan/epilogue">Epilogue</a>
+                    <a href="/ninja_clan/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/ninja_clan/feeling_hopeful" title="Next Chapter: Feeling Hopeful"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

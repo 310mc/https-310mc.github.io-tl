@@ -79,7 +79,7 @@ description: "[ES!!] As Tetora struggles to find his ground as the Ryuseitai-N l
     <p><span><b>Location:</b> Motor Show Venue</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/ep1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W6770989857G2Av1.webp?timestamp=1735432366247 %}
 
 <div class="msr-narration">
     <p>Time passes; the day of Motor Show has arrived…</p>
@@ -229,7 +229,7 @@ Let's. We’ll perform in a way that very much suits the spirit of ALKALOID. Eve
 
 ## Chapter 2
 
-{% img /img/es/eventstory/motorshow/ep2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6jczP67709898Rh5.webp?timestamp=1735432362218 %}
 
 {% bubble Chiaki serious %}
 …………
@@ -380,7 +380,7 @@ Then you will no longer be just a sly fox borrowing a tiger's dignified presence
     <p><span><b>Location:</b> Motor Show Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/motorshow/ep3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_wJdqBIP677098987.webp?timestamp=1735432366688 %}
 
 <div class="msr-narration">
     <p>Few hours later…</p>
@@ -500,7 +500,7 @@ Ahh, I'd like to become *your* beloved ride, Chief…♪
 You mustn't trouble Ryuseitai, Mayoi-senpai. We must remain steadfast in our own lanes, as closing the distance between our cars will surely cause an accident.
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/mayoibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_V677098989de85r1.webp?timestamp=1735432366711 %}
 
 {% bubble Mayoi %}
 Ahh, if that is how the cookie must crumble… However, thanks to you, Chief, I am perfectly settled with an excessive amount of energy.
@@ -510,7 +510,7 @@ I'll be able to appear before a crowd with the others without being frightened.
 A thick, protective wall built with the kind bricks of love shall shield me from the ever oppressive wind… fufufu. ♪
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_E68cP267709a61M6.webp?timestamp=1735432807310 %}
 
 {% bubble Shinobu %}
 Mhm! It’s always been a hero’s duty to protect those in anguish to the very end!
@@ -524,7 +524,7 @@ Mhm! It’s always been a hero’s duty to protect those in anguish to the very 
 
 ## Chapter 4
 
-{% img /img/es/eventstory/motorshow/ep4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_N067709898W2CJt2.webp?timestamp=1735432366204 %}
 
 {% bubble Chiaki %}
 <th>(Heheh… I feel incredibly relieved. Even just a bit of distance from you all made it hard for me to see how you were doing, but…)</th>
@@ -606,9 +606,7 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 <th>(That’s what I’ll be doing… ‘Cuz there’s no point in pushing my limits and tryna show off… I’m nothing but a klutz, so I’ll walk down my path in my own way.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/ep4_1.jpg %}
-
-{% bubble Tetora %}
+{% bubble Tetora smilesoft2 %}
 <th>(Thankfully, I really lucked out by having so many of the people I do around me. I’ve got Shinobu-kun and Midori-kun, who’ve supported me through the toughest times — and Morisawa-senpai and Shinkai-senpai, who’ll guide me through this new path.)</th>
 
 <th>(I even have the Ryuseitai-N newbies who look up to me and try to catch up to me — along with ALKALOID, as well.)</th>
@@ -624,7 +622,7 @@ Nothing that has happened was in vain. I was really able to pass on the most imp
 <th>(Our flames will sparkle with every color in existence!)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/ep4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_e5r9e67709898cZ5.webp?timestamp=1735432366373 %}
 
 {% bubble Hiiro %}
 You look amazing, Buchou. You're in better shape than ever.
@@ -656,9 +654,7 @@ Right now, I’m still just an inexperienced, weak, pathetic, lame, boring guy.
 I’m no different from some cocky kid who convinced himself he’s strong just by taking a joyride in a huge, sturdy car.
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/ep4_3.jpg %}
-
-{% bubble Tetora %}
+{% bubble Tetora fist %}
 I plan to work hard in recognizing that about myself, accepting it, and then changing how I am.
 
 Just like how I dealt with the newbies — I’m gonna rip off any signs of stubborn pride, and challenge the world as *myself.*
@@ -674,7 +670,7 @@ It just made me think, what was I even afraid of…? I really am just a dumbass�
 Heheh… Sadly, I’m still too weak to reach my ideal self anytime soon… It’s a tough life to try and become cool, so could you lend me a hand, Hiiro-kun?
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/hiirobcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Zv7t67709898jRQ4.webp?timestamp=1735432366808 %}
 
 {% bubble Hiiro %}
 Yes, I shall do so unquestionably. We'll give back as much help as you've given us up 'til now.
@@ -686,7 +682,7 @@ We too shall push on. As you go along the right road, so shall we follow.
 However, as we cannot see yet where we are headed, we ask that you guide us… Ryuseitai. ♪
 {% endbubble %}
 
-{% img /img/es/eventstory/motorshow/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6jD67709a61ANps3.webp?timestamp=1735432806964 %}
 
 {% bubble Tetora %}
 Ossu! You’ve got it, ALKALOID~♪ Then zip it and follow my lead—
@@ -714,6 +710,15 @@ Nah, forget what I just said. Let’s instead go down the path together, while h
                 </a>
             </div>
             <a target="_blank" href="/motor_show" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/motor_show/prologue">Prologue</a>
+                    <a href="/motor_show/snails_pace">Progress at a Snail's Pace</a>
+                    <a href="/motor_show/muddy_road">Muddy Road</a>
+                    <div>Epilogue</div>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -17,7 +17,7 @@ permalink: school_festival_4/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">School Festival 4</div>
-                <div class="title-area__subtitle">学院際４</div>
+                <div class="title-area__subtitle">School Festival ★ The Scramble of a Startup Hero</div>
                 <div class="title-area__start"><a href="/school_festival_4/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -112,7 +112,7 @@ permalink: school_festival_4/
             </div>
             <div class="title-area">
                 <div class="title-area__title">School Festival 4</div>
-                <div class="title-area__subtitle">学院際４</div>
+                <div class="title-area__subtitle">School Festival ★ The Scramble of a Startup Hero</div>
                 <div class="title-area__start">
                     <a href="/school_festival_4/prologue">Start Reading</a>
                 </div>

@@ -1474,6 +1474,17 @@ If we were to gather together, I'm sure *we* could become a shining, sparkling M
                 </a>
             </div>
             <a target="_blank" href="/orihime_and_hikoboshi" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/orihime_and_hikoboshi/prologue">Prologue</a>
+                    <a href="/orihime_and_hikoboshi/cloudy_sky">Cloudy Sky</a>
+                    <div>Threat of Rain</div>
+                    <a href="/orihime_and_hikoboshi/living_sunshine">Living Sunshine</a>
+                    <a href="/orihime_and_hikoboshi/epilogue">Epilogue</a>
+                    <a href="/orihime_and_hikoboshi/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/orihime_and_hikoboshi/living_sunshine" title="Next Chapter: Living Sunshine"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

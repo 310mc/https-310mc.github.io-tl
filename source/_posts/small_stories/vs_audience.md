@@ -80,7 +80,7 @@ This chapter happens right after the first day of the audition ended, and then b
 {% endnote %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorms Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorms Common Room</span></p>
 </div>
 
 {% img  %}
